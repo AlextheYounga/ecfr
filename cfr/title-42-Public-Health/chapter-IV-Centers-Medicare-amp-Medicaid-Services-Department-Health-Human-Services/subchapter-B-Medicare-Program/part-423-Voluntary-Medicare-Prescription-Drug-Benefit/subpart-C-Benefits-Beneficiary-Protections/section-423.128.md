@@ -1,7 +1,5 @@
 ##### § 423.128 Dissemination of Part D plan information. #####
 
-Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
-
 (a) *Detailed description.* A Part D sponsor must disclose the information specified in paragraph (b) of this section in the manner specified by CMS—
 
 (1) To each enrollee of a Part D plan offered by the Part D sponsor under this part, except as provided in paragraph (b)(11)(ii) of this section;
@@ -138,7 +136,7 @@ Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
 
 (A) Provides effective real-time communication with individuals using auxiliary aids and services, including TTYs and all forms of Federal Communication Commission-approved telecommunications relay systems, when using automated-attendant systems. See 28 CFR 35.161 and 36.303(d).
 
-(B) Connects 80 percent of incoming calls requiring TTY services to a TTY operator within 7 minutes.
+(B) Establishes contact with a customer service representative within 7 minutes on no fewer than 80 percent of incoming calls requiring TTY services.
 
 (vi) For coverage beginning on and after January 1, 2022, provides the information described in paragraph (d)(4) of this section to enrollees who call the customer service call center.
 
@@ -148,7 +146,7 @@ Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
 
 (ii) Includes a current formulary for its Part D plan, updated at least monthly.
 
-(iii) Provides current and prospective Part D enrollees with notice that is timely under § 423.120(b)(5) regarding any removal or change in the preferred or tiered cost-sharing status of a Part D drug on its Part D plan's formulary.
+(iii) Provides current and prospective Part D enrollees with notice that is timely under § 423.120(f) regarding any negative formulary changes on its Part D plan's formulary.
 
 (3) The provision of information in writing, upon request.
 
@@ -192,7 +190,7 @@ Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
 
 (5) For each prescription drug claim, must include the cumulative percentage increase (if any) in the negotiated price since the first claim of the current benefit year and therapeutic alternatives with lower cost-sharing, when available as determined by the plan, from the applicable approved plan formulary.
 
-(6) Include any applicable formulary changes for which Part D plans are required to provide notice as described in § 423.120(b)(5).
+(6) Include any negative formulary changes applicable to an enrollee for which Part D plans are required to provide notice as described in § 423.120(f).
 
 (7) Be provided no later than the end of the month following any month when prescription drug benefits are provided under this part, including the covered Part D spending between the initial coverage limit described in § 423.104(d)(3) and the out-of-pocket threshold described in § 423.104(d)(5)(iii).
 
@@ -206,4 +204,4 @@ Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
 
 (3) Provide notice of all other changes in accordance with notice requirements as specified in this part.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 54222, Sept. 18, 2008; 74 FR 1544, Jan. 12, 2009; 75 FR 19818, Apr. 15, 2010; 76 FR 21573, Apr. 15, 2011; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018; 84 FR 23883, May 23, 2019; 86 FR 6115, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 54222, Sept. 18, 2008; 74 FR 1544, Jan. 12, 2009; 75 FR 19818, Apr. 15, 2010; 76 FR 21573, Apr. 15, 2011; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018; 84 FR 23883, May 23, 2019; 86 FR 6115, Jan. 19, 2021; 89 FR 30834, Apr. 23, 2024]

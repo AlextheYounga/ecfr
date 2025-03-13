@@ -1,12 +1,10 @@
 ##### § 423.514 Validation of Part D reporting requirements. #####
 
-Link to an amendment published at 89 FR 30838, Apr. 23, 2024.
-
-(a) *Required information.* Each Part D plan sponsor must have an effective procedure to develop, compile, evaluate, and report to CMS, to its enrollees, and to the general public, at the times and in the manner that CMS requires, statistics indicating the following—
+(a) *Required information.* Each Part D plan sponsor must have an effective procedure to develop, compile, evaluate, and report to CMS, to its enrollees, and to the general public, at the times and in the manner that CMS requires, information indicating the following—
 
 (1) The cost of its operations.
 
-(2) The patterns of utilization of its services.
+(2) The procedures related to and utilization of its services and items.
 
 (3) The availability, accessibility, and acceptability of its services.
 
@@ -72,4 +70,4 @@ Link to an amendment published at 89 FR 30838, Apr. 23, 2024.
 
 (j) *Data validation.* Each Part D sponsor must subject information collected under paragraph (a) of this section to a yearly independent audit to determine its reliability, validity, completeness, and comparability in accordance with specifications developed by CMS.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19822, Apr. 15, 2010; 77 FR 22171, Apr. 12, 2012; 86 FR 6119, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19822, Apr. 15, 2010; 77 FR 22171, Apr. 12, 2012; 86 FR 6119, Jan. 19, 2021; 89 FR 30838, Apr. 23, 2024]

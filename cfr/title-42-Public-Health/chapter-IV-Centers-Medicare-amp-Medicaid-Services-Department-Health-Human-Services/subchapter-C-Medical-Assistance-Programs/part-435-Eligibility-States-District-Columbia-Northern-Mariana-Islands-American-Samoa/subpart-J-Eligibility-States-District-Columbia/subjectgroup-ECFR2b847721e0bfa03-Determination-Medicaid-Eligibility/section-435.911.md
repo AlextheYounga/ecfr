@@ -1,8 +1,6 @@
 ##### § 435.911 Determination of eligibility. #####
 
-Link to an amendment published at 89 FR 22867, Apr. 2, 2024.
-
-(a) *Statutory basis.* This section implements sections 1902(a)(4), (a)(8), (a)(10)(A), (a)(19), and (e)(14) and section 1943 of the Act.
+(a) This section implements sections 1902(a)(4), (a)(8), (a)(10)(A), (a)(19), and (e)(14) and section 1943 of the Act.
 
 (b)(1) Except as provided in paragraph (b)(2) of this section, applicable modified adjusted gross income standard means 133 percent of the Federal poverty level or, if higher -
 
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 22867, Apr. 2, 2024.
 
 (ii) Who are also a parent or caretaker relative, as described in § 435.4, the applicable modified adjusted gross income standard is the higher of the income standard established in accordance with § 435.110(c) or § 435.220(c).
 
-(c) For each individual who has submitted an application described in § 435.907 or whose eligibility is being renewed in accordance with § 435.916 and who meets the non-financial requirements for eligibility (or for whom the agency is providing a reasonable opportunity to verify citizenship or immigration status in accordance with § 435.956(b)) of this chapter, the State Medicaid agency must comply with the following—
+(c) For each individual who has submitted an application described in § 435.907, whose eligibility is being renewed in accordance with § 435.916, or whose eligibility is being redetermined in accordance with § 435.919 and who meets the non-financial requirements for eligibility (or for whom the agency is providing a reasonable opportunity to verify citizenship or immigration status in accordance with § 435.956(b)), the State Medicaid agency must comply with the following—
 
 (1) The agency must, promptly and without undue delay consistent with timeliness standards established under § 435.912, furnish Medicaid to each such individual whose household income is at or below the applicable modified adjusted gross income standard.
 
@@ -72,4 +70,4 @@ Link to an amendment published at 89 FR 22867, Apr. 2, 2024.
 
 (ii) An opportunity to furnish such additional information as may be needed to determine whether the individual is eligible for such additional Medicaid benefits on other bases.
 
-[77 FR 17209, Mar. 23, 2012, as amended at 81 FR 86457, Nov. 30, 2016; 88 FR 65270, Sept. 21, 2023]
+[77 FR 17209, Mar. 23, 2012, as amended at 81 FR 86457, Nov. 30, 2016; 88 FR 65270, Sept. 21, 2023; 89 FR 22867, Apr. 2, 2024]

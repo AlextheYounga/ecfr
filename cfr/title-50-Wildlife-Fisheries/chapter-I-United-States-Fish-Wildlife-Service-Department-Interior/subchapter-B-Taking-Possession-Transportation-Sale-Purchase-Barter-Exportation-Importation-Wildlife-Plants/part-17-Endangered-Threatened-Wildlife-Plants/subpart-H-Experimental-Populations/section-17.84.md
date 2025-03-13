@@ -1,7 +1,5 @@
 ##### § 17.84 Species-specific rules—vertebrates. #####
 
-Link to an amendment published at 89 FR 37021, May 3, 2024.
-
 (a) Guam kingfisher, sihek (*Todiramphus cinnamominus*).
 
 (1) *Where is the occurrence of sihek designated as a nonessential experimental population (NEP)?* The nonessential experimental population (NEP) area for the sihek is Palmyra Atoll. Palmyra Atoll is located in the Northern Line Islands, approximately 1,000 miles (1,609 km) south of Honolulu, Hawaii (5° 53′N latitude, 162° 05′W longitude). The extent of the NEP area for sihek is the 250 ha (618 ac) of emergent land distributed among 25 islands, inclusive of the lagoons surrounding those islands.
@@ -418,9 +416,9 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (i) Except as expressly allowed in paragraph (i)(2) of this section, all of the provisions of § 17.31(a) and (b) apply to the California condor in areas identified in paragraph (i)(1) of this section, and any manner of take not described under paragraph (i)(2) of this section is prohibited in the NEP.
 
-(ii) Habitat alteration (*e.g.,* removing trees, erecting structures, altering the nest structure or perches near the nest) within 656 ft (200 m) of an occupied nest is prohibited, except for emergency fuels treatment activities by Federal, State, Tribal, or local government agencies to reduce the risk of catastrophic wildfire or during responses to wildfire or other emergencies.
+(ii) Habitat alteration (e.g., removing trees, erecting structures, altering the nest structure or perches near the nest) within 656 ft (200 m) of an occupied nest is prohibited, except for emergency fuels treatment activities by Federal, State, Tribal, or local government agencies to reduce the risk of catastrophic wildfire or during responses to wildfire or other emergencies.
 
-(iii) Significant visual or noise disturbance (*e.g.,* tree felling, chainsaws, helicopter overflights, concrete cutters, fireworks, explosives) within 656 ft (200 m) of an occupied nest is prohibited, except for emergency fuels treatment activities by Federal, State, Tribal, or local government agencies to reduce the risk of catastrophic wildfire or during responses to wildfire or other emergencies. Activities such as ranching and use of existing roads and trails would not be considered a significant visual or noise disturbance.
+(iii) Significant visual or noise disturbance (e.g., tree felling, chainsaws, helicopter overflights, concrete cutters, fireworks, explosives) within 656 ft (200 m) of an occupied nest is prohibited, except for emergency fuels treatment activities by Federal, State, Tribal, or local government agencies to reduce the risk of catastrophic wildfire or during responses to wildfire or other emergencies. Activities such as ranching and use of existing roads and trails would not be considered a significant visual or noise disturbance.
 
 (iv) You must not possess, sell, deliver, carry, transport, ship, import, or export, by any means whatsoever, any California condor or part thereof from the experimental population taken in violation of this paragraph (i) or in violation of applicable tribal or State laws or regulations or the Act.
 
@@ -624,8 +622,6 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (*i*) Annual release benchmarks (for the purposes of this paragraph, the term “benchmark” means the minimum cumulative number of released wolves surviving to breeding age since January 1, 2016, as documented annually in March) have been achieved based on the following schedule:
 
-Table 1 to Paragraph (k)(7)(iv)(C)(1)(i)
-
 |Year|Benchmark|
 |----|---------|
 |2021|    7    |
@@ -650,8 +646,6 @@ Table 1 to Paragraph (k)(7)(iv)(C)(1)(i)
 (*1*) Until the USFWS has achieved the genetic objective for the MWEPA set forth at paragraph (k)(9)(v) of this section by documenting that at least 22 released wolves have survived to breeding age, the USFWS or a designated agency may issue permits only on a conditional, annual basis according to the following provisions: Either
 
 (*i*) Annual release benchmarks (for the purposes of this paragraph, the term “benchmark” means the minimum cumulative number of released wolves surviving to breeding age since January 1, 2016, as documented annually in March) have been achieved based on the following schedule:
-
-Table 2 to Paragraph (k)(7)(v)(A)(1)(i)
 
 |Year|Benchmark|
 |----|---------|
@@ -764,9 +758,11 @@ Table 2 to Paragraph (k)(7)(v)(A)(1)(i)
 
 (10) *Evaluation.* The USFWS will continue to evaluate Mexican wolf reestablishment progress and prepare periodic progress reports and detailed annual reports. In addition, approximately 5 years after August 1, 2022, the USFWS will prepare a one-time overall evaluation of the experimental population program that focuses on modifications needed to improve the efficacy of this rule and the progress the experimental population is making to the recovery of the Mexican wolf.
 
-(l) Grizzly bear (*Ursus arctos horribilis*). (1) *Where does this rule apply?* The rule in this paragraph (l) applies to the designated Bitterroot Grizzly Bear Experimental Population Area (Experimental Population Area), which is found within the species' historic range and is defined as follows:
+(l) Grizzly bear (*Ursus arctos horribilis*)—Bitterroot nonessential experimental population.
 
-The boundaries of the Experimental Population Area are delineated by U.S. 93 from its junction with the Bitterroot River near Missoula, Montana, to Challis, Idaho; Idaho 75 from Challis to Stanley, Idaho; Idaho 21 from Stanley to Lowman, Idaho; State Highway 17 from Lowman to Banks, Idaho; Idaho 55 from Banks to New Meadows, Idaho; U.S. 95 from New Meadows to Coeur d'Alene, Idaho; Interstate 90 from Coeur d'Alene, Idaho, to its junction with the Clark Fork River near St. Regis, Montana; the Clark Fork River from its junction with Interstate 90 near St. Regis to its confluence with the Bitterroot River near Missoula, Montana; and the Bitterroot River from its confluence with the Clark Fork River to its junction with U.S. Highway 93, near Missoula, Montana (See map at the end of this paragraph (l)).
+(1) *Where does this rule apply?* (i) The rule in this paragraph (l) applies to the designated Bitterroot Grizzly Bear Experimental Population Area (Experimental Population Area), which is found within the species' historic range and is defined in paragraph (l)(1)(ii) of this section.
+
+(ii) The boundaries of the Experimental Population Area are delineated by U.S. 93 from its junction with the Bitterroot River near Missoula, Montana, to Challis, Idaho; Idaho 75 from Challis to Stanley, Idaho; Idaho 21 from Stanley to Lowman, Idaho; State Highway 17 from Lowman to Banks, Idaho; Idaho 55 from Banks to New Meadows, Idaho; U.S. 95 from New Meadows to Coeur d'Alene, Idaho; Interstate 90 from Coeur d'Alene, Idaho, to its junction with the Clark Fork River near St. Regis, Montana; the Clark Fork River from its junction with Interstate 90 near St. Regis to its confluence with the Bitterroot River near Missoula, Montana; and the Bitterroot River from its confluence with the Clark Fork River to its junction with U.S. Highway 93, near Missoula, Montana (See map at the end of this paragraph (l)).
 
 (2) *What is the legal status of the grizzly bear?* (i) The grizzly bear is listed as “threatened” in § 17.11 (h) and protected under this part. However, the grizzly bear population to which this paragraph (l) applies is considered a nonessential experimental population in accordance with section 10(j) of the Act.
 
@@ -1519,5 +1515,171 @@ The boundaries of the Experimental Population Area are delineated by U.S. 93 fro
 (7) *How will the effectiveness of the wood bison reintroduction be monitored?* ADF&G will monitor the population status of reintroduced bison herds at least annually and will document productivity, survival, and population size. The Service or other Federal agencies may also be involved in population monitoring, particularly where National Wildlife Refuge System or Bureau of Land Management lands are involved. Tribal governments or other organizations may also participate in population monitoring and other management activities. Depending on available resources, monitoring may occur more frequently, especially during the first few years of reestablishment efforts. This monitoring will be conducted primarily through aerial surveys and will be accomplished by State or Service employees, through cooperative efforts with local governments, or by contracting with other appropriate species experts.
 
 (8) *What other provisions apply to this rule?* If any particular provision of this rule or the application of any particular provision to any entity or circumstance is held invalid, the remainder of this finding and rule and the application of such provisions to other entities or circumstances shall not be affected by such holding.
+
+(y) Grizzly bear (*Ursus arctos horribilis*)—North Cascades nonessential experimental population.
+
+(1) *Purpose.* The regulations in this paragraph (y) set forth the provisions of a rule to establish an experimental population of grizzly bears. The Service finds that establishment of an experimental population of grizzly bears as described in this paragraph (y) will further the conservation of the species.
+
+(2) *Determinations.* The grizzly bears identified in this paragraph (y) constitute a nonessential experimental population (NEP) under § 17.81(c)(2). These grizzly bears will be managed in accordance with the provisions of this rule within the boundaries of the NEP area as identified in paragraph (y)(4) of this section. After our initial release of one or more grizzly bears into the NEP area, any grizzly bears found within the NEP area will be considered a member of the NEP.
+
+(3) *Definitions.* Key terms used in this paragraph (y) have the following definitions:
+
+*Authorized agency* means a Federal, State, or Tribal agency designated by the Service in a memorandum of understanding (MOU) to assist in implementing all or part of the specified actions in this paragraph (y).
+
+*Demonstrable and ongoing threat* refers to a grizzly bear actively chasing or attacking livestock or lingering in close proximity to livestock following a depredation.
+
+*Depredation* means the confirmed killing or wounding of lawfully present livestock by one or more grizzly bears. The Service or an authorized agency must confirm grizzly bear depredation on lawfully present livestock. Livestock trespassing on Federal, State, or private lands are not considered lawfully present.
+
+*Deterrence* means an intentional action to haze, disrupt, or annoy a grizzly bear to move out of close proximity to people or property to promote human safety, prevent conflict, or protect property and that does not cause death or lasting bodily injury to the grizzly bear.
+
+*Domestic animal* means an individual of an animal species that has been selectively bred over many generations to enhance specific traits for their use by humans, including for use as a pet or livestock.
+
+*Federal, State, or Tribal authority* means an employee of a State, Federal, or federally recognized Indian Tribal government who, as part of their official duties, normally handles large carnivores and is trained and/or experienced in immobilizing, marking, and handling grizzly bears.
+
+*Grizzly bear involved in conflict* means a grizzly bear that has caused substantial property damage, obtained anthropogenic foods (e.g., pet food, livestock feed, garbage), killed or injured lawfully present livestock, damaged beehives, breached an intact structure or electrified perimeter to obtain fruit or crops (e.g., greenhouse, garden, orchard, field, stackyard or grain bin), shown repeated and persistent signs of habituation in proximity to human-occupied areas (e.g., has been repeatedly hazed or previously relocated), exhibited aggressive behavior (*i.e.,* not acting in defense of offspring or food or in response to a surprise encounter), or has been involved in a human-grizzly encounter resulting in substantial human injury or loss of human life.
+
+*Human-occupied areas* means any structures or areas currently used or inhabited by humans (e.g., homes, residential areas, occupied campgrounds or trailheads, job sites).
+
+*In the act of attacking* means the actual biting, wounding, grasping, or killing of livestock (including working dogs) by a grizzly bear.
+
+*Lasting bodily injury* refers to any permanent damage or injury that limits a grizzly bear's ability to effectively move, obtain food, or defend itself for any length of time.
+
+*Livestock* means cattle, sheep, pigs, horses, mules, goats, domestic bison, alpacas, llamas, donkeys, and working dogs but not poultry, feral dogs, or domestic dogs (working or otherwise) that are not in close proximity to human-occupied areas or to lawfully present livestock.
+
+*Threat to human safety* means a grizzly bear that exhibits aggressive (*i.e.,* nondefensive) behavior towards humans.
+
+(A) Grizzly bear presence alone does not constitute a threat to human safety.
+
+(B) Grizzly bears less than 2 years of age with no history of food-conditioning are not considered a threat to human safety.
+
+*Working dog* means a herding or guard dog that is actively herding or guarding in close proximity to human-occupied areas or to lawfully present livestock.
+
+(4) *Where is the grizzly bear North Cascades NEP?* (i) The grizzly bear NEP area includes Washington State except the portion of northeastern Washington defined by the Kettle River from the international border with Canada, downstream to the Columbia River, to its confluence with the Spokane River, then upstream on the Spokane River to the Washington-Idaho border. The area shown in figure 1 to paragraph (y)(4) of this section will remain designated as the experimental population area unless the Service determines in a future rulemaking that:
+
+(A) The reintroduction has not been successful, in which case the NEP boundaries might be altered or the regulations in this paragraph (y) might be removed; or
+
+(B) The grizzly bear is recovered and delisted in accordance with the Act.
+
+(ii) Management Area A of the grizzly bear North Cascades NEP includes the Mount Baker Snoqualmie National Forest, Okanogan-Wenatchee National Forest, and Colville National Forest north of Interstate 90 and west of Washington State Route 97, as well as the North Cascades National Park Service complex. Management Area A will be the primary area for restoration of grizzly bears and will serve as core habitat for survival, reproduction, and dispersal of the NEP.
+
+(iii) Management Area B of the grizzly bear North Cascades NEP includes the Mount Baker Snoqualmie National Forest and Okanogan-Wenatchee National Forest south of Interstate 90, Gifford Pinchot National Forest, and Mount Rainier National Park. Management Area B also includes the Colville National Forest and Okanogan-Wenatchee National Forest lands east of Washington State Route 97 within the experimental population boundary. Management Area B includes areas that may be used for natural movement and/or dispersal by grizzly bears and that have a lower potential for human-bear conflicts.
+
+(iv) Management Area C of the grizzly bear North Cascades NEP comprises all non-Federal lands within the North Cascades Ecosystem Recovery Zone and all other lands outside of or not otherwise included in Management Areas A and B within the NEP boundary. Management Area C contains large areas that may be incompatible with grizzly bear presence due to high levels of private land ownership and associated development and/or potential for bears to become involved in conflicts with resultant bear mortality, although some areas within this management area are capable of supporting grizzly bears and grizzly bears may occur there.
+
+(v) Map of the NEP area and associated management areas for the grizzly bear in the North Cascades Ecosystem follows:
+
+Figure 1 to Paragraph (y)(4)![](/graphics/er03my24.003.gif)
+
+(5) *What take of the grizzly bear is allowed in Management Area A of the North Cascades NEP area?* The exceptions to take prohibitions described in paragraphs (y)(5)(i) through (viii) of this section apply in Management Area A:
+
+(i) *Defense of life.* Any person may take a grizzly bear in self-defense or in defense of other persons, based on a good-faith belief that the actions taken were to protect the person from bodily harm. Such taking must be reported as described in paragraph (y)(8) of this section.
+
+(ii) *Deterrence.* Any person may take a grizzly bear for the purpose of deterrence (see definition in paragraph (y)(3)) of this section, under the provisions set forth in this paragraph (y)(5)(ii):
+
+(A) Once a grizzly bear has moved out of close proximity, deterrence is unlikely to be effective and must cease.
+
+(B) Any deterrence action must not cause lasting bodily injury or death to the grizzly bear.
+
+(C) Deterrence must be by acceptable techniques, which include non-projectile auditory deterrents, visual stimuli/deterrents, vehicle threat pressure, and noise-making projectiles. Unacceptable deterrence methods include screamers/whistlers, rubber bullets/batons, and bean bag and aero sock rounds. For more information about appropriate nonlethal deterrents, contact the Service for the most current Service-approved guidelines.
+
+(D) A person may not bait, stalk, or pursue a grizzly bear for the purposes of deterrence. Pursuit is defined as deterrence carried out beyond 200 yards (183 m) of a human-occupied area or lawfully present livestock.
+
+(E) Any person who deters a grizzly bear must use discretion and act safely and responsibly.
+
+(iii) *Incidental take.* (A) Except as provided in paragraph (y)(5)(iii)(B) of this section, take of a grizzly bear is allowed if it is incidental to (*i.e.,* unintentional and not the purpose of) an otherwise lawful activity and is not due to negligent conduct.
+
+(B) Take of a grizzly bear resulting from U.S. Forest Service actions on National Forest System lands in Management Area A that is incidental to otherwise lawful activity is allowed if the U.S. Forest Service has maintained its `no net loss' agreement and implemented food storage restrictions throughout National Forest System lands in Management Area A.
+
+(iv) *Take under permits.* Any person with a valid permit issued under § 17.32 by the Service may take a grizzly bear pursuant to the terms of the permit.
+
+(v) *Take under section 6 of the Act.* Any State conservation agency may take a grizzly bear under section 6(c) of the Act as described in § 17.31.
+
+(vi) *Research and recovery actions.* With prior approval of the Service, an authorized agency as defined in paragraph (y)(3) of this section may take a grizzly bear if such action is necessary:
+
+(A) For scientific purposes;
+
+(B) To aid a sick or injured grizzly bear, including euthanasia if the grizzly bear is unlikely to survive or poses an immediate threat to human safety;
+
+(C) To salvage a dead specimen that may be useful for scientific study;
+
+(D) To dispose of a dead specimen; or
+
+(E) To aid in law enforcement investigations involving the grizzly bear.
+
+(vii) *Removal of grizzly bears involved in conflict.* With prior approval of the Service, a grizzly bear involved in conflict in the NEP area may be taken by an authorized agency, including by lethal removal, but only if:
+
+(A) It is not reasonably possible to otherwise eliminate the threat by nonlethal deterrence or live-capturing and releasing the grizzly bear unharmed in a remote area agreed to by the Service, the Washington Department of Fish and Wildlife, and the applicable land management agency; and
+
+(B) The taking is done in a humane manner (with compassion and consideration for the bear and minimizing pain and distress) by a Federal, State, or Tribal authority of an authorized agency.
+
+(viii) *Relocation of a grizzly bear.* With prior approval from the Service, an authorized agency may live-capture one or more grizzly bears and transport and release them in a remote location agreed to by the Service, the Washington Department of Fish and Wildlife, and the applicable land managing agency:
+
+(A) For a grizzly bear involved in conflict;
+
+(B) To prevent unnatural use of food materials that have been reasonably secured from the bear or unnatural use of anthropogenic foods;
+
+(C) After aggressive (*i.e.,* not defensive) behavior toward humans results in injury to a human or constitutes a demonstrable immediate or potential threat to human safety;
+
+(D) As a preemptive action to prevent a conflict that appears imminent or in an attempt to prevent habituation of bears; or
+
+(E) For any other conservation purpose for the grizzly bear as determined by the Service.
+
+(ix) *Reporting requirements.* Any take pursuant to this paragraph (y)(5) resulting in lasting injury or death of a grizzly bear must be reported as indicated in paragraph (y)(8) of this section.
+
+(6) *What take of the grizzly bear is allowed in Management Area B of the North Cascades NEP area?* Grizzly bears in Management Area B will be accommodated through take exceptions described in paragraph (y)(6)(i) of this section, in addition to those take exceptions allowed in Management Area A as set forth in paragraph (y)(5) of this section. “Accommodated” means a grizzly bear in Management Area B will not be disturbed unless it demonstrates a threat to human safety or to protect property.
+
+(i) *Conditioned lethal take.* The Service may issue prior written authorization allowing an individual to kill a depredating grizzly bear within 200 yards (183 m) of legally present livestock. Such authorizations will be valid for 5 days, but the Service may extend the authorization of lethal take an additional 5 days if additional grizzly bear depredations or injuries to livestock occur and circumstances indicate that the offending bear can be identified. Such authorizations will be issued only if:
+
+(A) A depredation has been confirmed by the Service or authorized agency;
+
+(B) The Service or an authorized agency determines it is not reasonably possible to otherwise eliminate the threat by deterrence or live-capturing and releasing the grizzly bear unharmed;
+
+(C) The taking is done in a humane manner (*i.e.,* showing compassion and consideration for the bear and minimizing pain and distress);
+
+(D) The taking is reported as indicated in paragraph (y)(8) of this section; and
+
+(E) The grizzly bear carcass and any associated collars or ear tags are surrendered to the Service.
+
+(7) *What take of the grizzly bear is allowed in Management Area C of the North Cascades NEP area?* In addition to the take exceptions described in paragraph (y)(7)(i) of this section, all take exceptions allowed in Management Areas A and B as set forth in paragraphs (y)(5) and (6) of this section are also allowed in Management Area C of the NEP.
+
+(i) *Conditioned lethal take.* (A) The Service may issue prior written authorization allowing an individual to kill a grizzly bear in Management Area C when deemed necessary for human safety or to protect property. Such authorizations will be valid for 5 days, may be reissued by the Service if deemed warranted, and will be issued only if:
+
+(*1*) The Service or authorized agency determines that a grizzly bear presents a demonstrable and ongoing threat to human safety or to lawfully present livestock, domestic animals, crops, beehives, or other property and that it is not reasonably possible to otherwise eliminate the threat by nonlethal deterrence or live-capturing and releasing the grizzly bear unharmed;
+
+(*2*) The individual requesting the written authorization is the landowner, livestock producer, or designee (e.g., an employee or lessee);
+
+(*3*) The taking is done in a humane manner;
+
+(*4*) The taking is reported as indicated in paragraph (y)(8) of this section; and
+
+(*5*) The carcass and any associated collars or ear tags are surrendered to the Service.
+
+(B) Any individual may take (injure or kill) a grizzly bear in the act of attacking livestock on private lands (*i.e.,* nonpublic lands) under the provisions set forth in this paragraph (y)(7)(i)(B):
+
+(*1*) The individual is the landowner or livestock producer or a designee (e.g., an employee or lessee).
+
+(*2*) Any grizzly bear taken is reported to the Service or authorized agency within 24 hours.
+
+(*3*) The carcass of any grizzly bear and the surrounding area is not disturbed to preserve physical evidence of the attack.
+
+(*4*) The Service or authorized agency is able to confirm that the livestock or working dog was injured or killed by a grizzly bear. The taking of any grizzly bear without such evidence may be referred to the appropriate authorities for prosecution.
+
+(*5*) There is no evidence of excessive unsecured attractants (e.g., carcass piles or bone yards) or of intentional feeding or baiting of grizzly bears or wildlife.
+
+(8) *What are the reporting requirements for take of grizzly bears in the North Cascades NEP?* (i) *Lethal take.* Any grizzly bear that is killed by an individual under the provisions of this paragraph (y) must be reported within 24 hours to the Service's Washington Fish and Wildlife Office special reporting hotline: (360) 800-7960. Any grizzly bear that is killed by a Federal, State, or Tribal authority of an authorized agency under the provisions of this paragraph (y) must be reported within 24 hours by following the reporting instructions as described in the authorized agency's MOU and included in an annual report to the Service.
+
+(ii) *Nonlethal take resulting in injury.* Any direct take of a grizzly bear by an individual under the provisions of this paragraph (y) that does not result in death of a grizzly bear but causes lasting bodily injury must be reported within 5 calendar days of occurrence to the Service's Washington Fish and Wildlife Office special reporting hotline: (360) 800-7960. Any direct take of a grizzly bear by a Federal, State, or Tribal authority of an authorized agency under the provisions of this paragraph (y) that does not result in death of a grizzly bear but causes lasting bodily injury must be reported within 5 calendar days of occurrence by following the reporting instructions as described in the authorized agency's MOU and included in an annual report to the Service. Indirect incidental take, such as harm to a grizzly bear resulting from habitat modification, does not need to be reported under this provision.
+
+(9) *What take of the grizzly bear is not allowed in the North Cascades NEP area?* (i) Other than expressly provided by the regulations in this paragraph (y), all take is prohibited and considered a violation of section 9 of the Act. Take of a grizzly bear within the NEP area must be reported as set forth in paragraph (y)(8) of this section.
+
+(ii) No person shall possess, sell, deliver, carry, transport, ship, import, or export, by any means whatsoever, any grizzly bear or part thereof from the NEP taken in violation of this paragraph (y) or in violation of applicable Tribal or State laws or regulations or the Act.
+
+(iii) It is unlawful for any person to attempt to commit, solicit another to commit, or cause to be committed, any take of the grizzly bear, except as expressly allowed in paragraphs (y)(5) through (7) of this section.
+
+(iv) To avoid illegally shooting a grizzly bear, persons lawfully engaged in hunting and shooting activities must correctly identify their target before shooting. The act of taking a grizzly bear that is wrongfully identified as another species is not considered incidental take and is not allowed under this rule and may be referred to appropriate authorities for prosecution.
+
+(v) Any grizzly bear or grizzly bear part taken legally in accordance with the regulations in this paragraph (y) must be turned over to the Service unless otherwise authorized by the Service in writing.
+
+(10) *How will the effectiveness of the grizzly bear restoration effort be monitored?* The Service will monitor grizzly bears in the North Cascades NEP annually and will evaluate the status of grizzly bears in the NEP in conjunction with the Service's species status assessments and status reviews of the grizzly bear. Evaluations in the Service's status reviews will include, but not be limited to, a review of management issues, grizzly bear movements, demographic rates, causes of mortality, project costs, and progress toward establishing a population.
 
 [49 FR 35954, Sept. 13, 1984; 50 FR 30194, July 24, 1985]Editorial Note:For Federal Register citations affecting § 17.84, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

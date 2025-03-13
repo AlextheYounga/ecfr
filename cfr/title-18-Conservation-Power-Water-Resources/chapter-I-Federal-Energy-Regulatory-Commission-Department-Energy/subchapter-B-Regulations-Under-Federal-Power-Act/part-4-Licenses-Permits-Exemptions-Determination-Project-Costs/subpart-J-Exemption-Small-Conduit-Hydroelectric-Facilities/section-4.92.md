@@ -16,7 +16,7 @@ Before the Federal Energy Regulatory CommissionApplication for Exemption for Sma
 
 [Name of applicant] applies to the Federal Energy Regulatory Commission for an exemption for the [name of facility], a small conduit hydroelectric facility that meets the requirements of [insert the following language, as appropriate: “§ 4.30(b)(30) of this subpart” or “§ 4.30(b)(30) of this subpart, except paragraph (b)(30)(iv)”], from certain provisions of Part I of the Federal Power Act.
 
-The location of the facility is:State or Territory:County:Township or nearby town:The exact name and business address of each applicant are:The exact name and business address of each person authorized to act as agent for the applicant in this application are:
+The location of the facility is:State or Territory: County: Township or nearby town: The exact name and business address of each applicant are:The exact name and business address of each person authorized to act as agent for the applicant in this application are:
 
 [Name of applicant] is [a citizen of the United States, an association of citizens of the United States, a municipality, State, or a corporation incorporated under the laws of (specify the United States or the state of incorporation, as appropriate)].
 

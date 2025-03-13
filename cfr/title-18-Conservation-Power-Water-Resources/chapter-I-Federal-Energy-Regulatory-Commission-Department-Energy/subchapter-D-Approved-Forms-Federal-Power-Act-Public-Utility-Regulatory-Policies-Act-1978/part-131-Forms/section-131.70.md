@@ -1,4 +1,4 @@
-##### § 131.70 Form12 of application by State and municipal licensees for exemption from payment of annual charges. #####
+##### § 131.70 Form 12 of application by State and municipal licensees for exemption from payment of annual charges. #####
 
 12 Copies of this form may be obtained upon request from the Federal Energy Regulatory Commission.
 

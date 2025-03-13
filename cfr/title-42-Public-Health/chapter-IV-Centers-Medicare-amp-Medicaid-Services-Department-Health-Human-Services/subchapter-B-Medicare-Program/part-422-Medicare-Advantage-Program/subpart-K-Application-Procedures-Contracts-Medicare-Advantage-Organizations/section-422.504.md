@@ -1,7 +1,5 @@
 ##### § 422.504 Contract provisions. #####
 
-Link to an amendment published at 89 FR 30824, Apr. 23, 2024.
-
 The contract between the MA organization and CMS must contain the following provisions:
 
 (a) *Agreement to comply with regulations and instructions.* The MA organization agrees to comply with all the applicable requirements and conditions set forth in this part and in general instructions. Compliance with the terms of this paragraph (a) is material to the performance of the MA contract. The MA organization agrees—
@@ -40,7 +38,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (14) Maintain a fiscally sound operation by at least maintaining a positive net worth (total assets exceed total liabilities).
 
-(15) Through the CMS complaint tracking system, to address and resolve complaints received by CMS against the MA organization.
+(15) As described in § 422.125 of this part, address and resolve complaints received by CMS against the MA organization in the Complaints Tracking Module.
 
 (16) To maintain administrative and management capabilities sufficient for the organization to organize, implement, and control the financial, marketing, benefit administration, and quality improvement activities related to the delivery of Part C services.
 
@@ -49,6 +47,10 @@ The contract between the MA organization and CMS must contain the following prov
 (18) To comply with the requirements for access to health data and plan information under §§ 422.119 and 422.120 of this chapter.
 
 (19) Not to establish a segment of an MA plan that meets the criteria in § 422.514(d), as determined in the procedures described in § 422.514(e)(3), with the addition of the newly enrolled individuals.
+
+(20) To comply with the requirements established in § 422.514(h).
+
+(21) Not to establish additional MA plans that are not facility based I-SNPs to contracts described in § 422.116(f)(3).
 
 (b) *Communication with CMS.* The MA organization must have the capacity to communicate with CMS electronically.
 

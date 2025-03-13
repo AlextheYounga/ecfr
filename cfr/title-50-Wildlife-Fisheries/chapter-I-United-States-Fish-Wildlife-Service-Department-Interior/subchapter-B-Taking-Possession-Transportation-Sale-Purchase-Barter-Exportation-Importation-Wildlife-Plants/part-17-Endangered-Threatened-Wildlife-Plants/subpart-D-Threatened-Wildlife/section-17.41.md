@@ -302,7 +302,7 @@ Figure 1 to paragraph (k)![](/graphics/er25no22.032.gif)
 
 (i) Educational and outreach activities that have been coordinated with the Service no later than 60 calendar days prior to the initiation of the proposed activity, provided the researcher already holds an appropriate, valid permit issued under part 21 of this chapter, which governs species protected under the Migratory Bird Treaty Act, for educational activities involving the use of live pygmy-owls, zoological exhibitions, pygmy-owl skins, or parts of pygmy-owls or other raptors.
 
-(ii) Specific surveying and monitoring activities within the State of Arizona that do not include handling of pygmy-owls (*e.g.,* call playback, visual observation, collection of feathers in nests or on the ground, and camera monitoring) and only if they are conducted under a valid scientific activity license issued by the Arizona Game and Fish Department.
+(ii) Specific surveying and monitoring activities within the State of Arizona that do not include handling of pygmy-owls (e.g., call playback, visual observation, collection of feathers in nests or on the ground, and camera monitoring) and only if they are conducted under a valid scientific activity license issued by the Arizona Game and Fish Department.
 
 (A) Data collected must be submitted to the Arizona Game and Fish Department for inclusion in their Heritage Data Management System.
 
@@ -322,7 +322,7 @@ Figure 1 to paragraph (k)![](/graphics/er25no22.032.gif)
 
 (B) Using methods and techniques that result in the least harm, injury, or death, as feasible;
 
-(C) Undertaking activities when and where they have the least impact (*e.g.,* conducting activities that might impact nesting cactus ferruginous pygmy-owls or nesting habitat only after nesting is concluded for the year), as feasible;
+(C) Undertaking activities when and where they have the least impact (e.g., conducting activities that might impact nesting cactus ferruginous pygmy-owls or nesting habitat only after nesting is concluded for the year), as feasible;
 
 (D) Procuring and implementing technical assistance from a qualified biologist on all methods and techniques used for a project prior to their implementation;
 

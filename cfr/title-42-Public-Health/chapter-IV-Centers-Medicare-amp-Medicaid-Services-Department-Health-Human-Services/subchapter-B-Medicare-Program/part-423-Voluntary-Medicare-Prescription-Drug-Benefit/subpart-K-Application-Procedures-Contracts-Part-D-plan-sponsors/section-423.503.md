@@ -1,22 +1,26 @@
 ##### § 423.503 Evaluation and determination procedures. #####
 
-Link to an amendment published at 89 FR 30837, Apr. 23, 2024.
+(a) *Basis for evaluation and determination.* (1) *Information used to evaluate applications.* With the exception of evaluations conducted under paragraph (b) of this section, CMS evaluates an entity's application solely on the basis of information contained in the application itself and any additional information that CMS obtains through on-site visits and any essential operations test.
 
-(a) *Basis for evaluation and determination.* (1) With the exception of evaluations conducted under paragraph (b) of this section, CMS evaluates an entity's application solely on the basis of information contained in the application itself and any additional information that CMS obtains through on-site visits and any essential operations test.
+(2) *Issuing application determination.* After evaluating all relevant information, CMS determines whether the application meets all the requirements described in this part.
 
-(2) After evaluating all relevant information, CMS determines whether the application meets all the requirements described in this part.
+(3) *Limitation on PDP contracts under a single parent organization* CMS does not approve an application when it would result in the applicant's parent organization, directly or through its subsidiaries, holding more than one PDP sponsor contract in the PDP Region for which the applicant is seeking qualification as a PDP sponsor.
 
-(3) CMS does not approve an application when it would result in the applicant's parent organization, directly or through its subsidiaries, holding more than one PDP sponsor contract in the PDP Region for which the applicant is seeking qualification as a PDP sponsor.
+(4) *Substantially incomplete applications.* (i) CMS does not evaluate or issue a notice of determination described in § 423.503(c) when an organization submits a substantially incomplete application.
+
+(ii) An application is substantially incomplete when the submission as of the deadline for applications established by CMS is missing content or responsive materials for one or more sections of the application form required by CMS.
+
+(iii) A determination that an application is substantially incomplete is not a contract determination as defined in § 423.641 and a determination that an organization submitted a substantially incomplete application is not subject to the appeals provisions of subpart N of this part.
 
 (b) *Use of information from a current or prior contract.* (1) Except as provided in paragraphs (b)(2) through (4) of this section, if a Part D plan sponsor fails during the 12 months preceding the deadline established by CMS for the submission of contract qualification applications to comply with the requirements of the Part D program under any current or prior contract with CMS under title XVIII of the Act CMS may deny an application based on the applicant's failure to comply with the requirements of the Part D program under any current or prior contract with CMS even if the applicant currently meets all of the requirements of this part.
 
 (i) An applicant may be considered to have failed to comply with a contract for purposes of an application denial under paragraph (b)(1) of this section if during the applicable review period the applicant:
 
-(A) Was subject to the imposition of an intermediate sanction under subpart O of this part, or a determination by CMS to prohibit the enrollment of new enrollees under § 423.2410(c).
+(A) Was under an intermediate sanction under subpart O of this part, or a determination by CMS to prohibit the enrollment of new enrollees under § 423.2410(c).
 
 (B) Failed to maintain a fiscally sound operation consistent with the requirements of § 423.505(b)(23).
 
-(C) Filed for or is currently under state bankruptcy proceedings.
+(C) Filed for or is currently in federal or state bankruptcy proceedings.
 
 (D) Received any combination of Part C or Part D summary ratings of 2.5 or less in both of the two most recent Star Rating periods, as identified in § 423.186.
 
@@ -72,4 +76,4 @@ Link to an amendment published at 89 FR 30837, Apr. 23, 2024.
 
 (d) *Withdrawal of application and bid in a previous year.* An applicant that withdraws its application and corresponding bid after the release of the low-income subsidy benchmark is not eligible to be approved as a Part D plan sponsor for the 2 succeeding annual contracting cycles.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19820, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 77 FR 22170, Apr. 12, 2012; 79 FR 29963, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 83 FR 16750, Apr. 16, 2018; 86 FR 6118, Jan. 19, 2021; 87 FR 27900, May 9, 2022]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19820, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 77 FR 22170, Apr. 12, 2012; 79 FR 29963, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 83 FR 16750, Apr. 16, 2018; 86 FR 6118, Jan. 19, 2021; 87 FR 27900, May 9, 2022; 89 FR 30837, Apr. 23, 2024]

@@ -1,0 +1,11 @@
+##### § 24.4 Assurances, monitoring, and corrective action. #####
+
+(a) *Assurances.* (1) Before a Federal agency may approve any grant to, or contract, or agreement with, an agency under which Federal financial assistance will be made available for a project which results in real property acquisition or displacement that is subject to the Uniform Act, the agency must provide appropriate assurances that it will comply with the Uniform Act and this part. An agency's assurances shall be in accordance with sections 4630 and 4655 of the Uniform Act. The agency's Uniform Act section 4655 assurances must contain specific reference to any State law which the agency believes provides an exception to sections 4651 or 4652 of the Uniform Act. If, in the judgment of the Federal agency, Uniform Act compliance will be served, an agency may provide these assurances at one time to cover all subsequent federally assisted programs or projects. An agency, which both acquires real property and displaces persons, may combine its sections 4630 and 4655 of the Uniform Act assurances in one document.
+
+(2) If a Federal agency or recipient provides Federal financial assistance to a person causing displacement, such Federal agency or recipient is responsible for ensuring compliance with the requirements of this part, notwithstanding the person's contractual obligation to the recipient to comply with the requirements of this part.
+
+(3) As an alternative to the assurance requirement described in paragraph (a)(1) of this section, a Federal agency may provide Federal financial assistance to a recipient after it has accepted a certification by such recipient in accordance with the requirements in subpart G of this part.
+
+(b) *Monitoring and corrective action.* The Federal agency will monitor compliance with this part, and the agency shall take whatever corrective action is necessary to comply with the Uniform Act and this part. The Federal agency may also apply sanctions in accordance with applicable program regulations. (*Also see* § 24.603)
+
+(c) *Prevention of fraud, waste, and mismanagement.* The agency shall take appropriate measures to carry out this part in a manner that minimizes fraud, waste, and mismanagement.

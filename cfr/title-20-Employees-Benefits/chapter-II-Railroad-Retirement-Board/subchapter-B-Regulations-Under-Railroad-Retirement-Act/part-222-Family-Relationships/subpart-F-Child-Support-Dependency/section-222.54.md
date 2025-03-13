@@ -1,5 +1,7 @@
 ##### § 222.54 When a legally adopted child is dependent—grandchild or stepgrandchild adopted after entitlement. #####
 
+Link to an amendment published at 89 FR 47461, June 3, 2024.
+
 If an employee legally adopts his or her grandchild or the spouse's grandchild after he could become entitled to an old age or disability benefit under the Social Security Act (treating his or her railroad compensation as wages under that Act), the grandchild is considered dependent on the employee during the employee's lifetime only if the requirements in paragraphs (a) and (b), and either (c) or (d) of this section are met:
 
 (a) The grandchild is adopted in the United States.

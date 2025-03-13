@@ -178,4 +178,4 @@ The Commission authorizes the Director or the Director's designee to:
 
 (bb) Establish a schedule for each Federal agency or officer, or State agency or officer acting pursuant to delegated Federal authority, to issue or deny Federal authorizations required for natural gas projects subject to section 3 or 7 of the Natural Gas Act.
 
-[Order 492, 53 FR 16065, May 5, 1988]Editorial Note:For Federal Register citations affecting § 375.308, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 492, 53 FR 16065, May 5, 1988] Editorial Note:For Federal Register citations affecting § 375.308, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

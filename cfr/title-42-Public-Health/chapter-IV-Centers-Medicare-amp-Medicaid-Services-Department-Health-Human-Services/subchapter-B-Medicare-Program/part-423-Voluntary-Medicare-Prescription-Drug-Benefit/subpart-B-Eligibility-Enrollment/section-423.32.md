@@ -1,7 +1,5 @@
 ##### § 423.32 Enrollment process. #####
 
-Link to an amendment published at 89 FR 30830, Apr. 23, 2024.
-
 (a) *General rule.* A Part D eligible individual who wishes to enroll in a PDP may enroll during the enrollment periods specified in § 423.38, by filing the appropriate enrollment form with the PDP or through other mechanisms CMS determines are appropriate.
 
 (b) *Enrollment form or CMS-approved enrollment mechanism.* The enrollment form or CMS-approved enrollment mechanism must comply with CMS instructions regarding content and format and must have been approved by CMS as described in § 423.2262.
@@ -40,4 +38,18 @@ Link to an amendment published at 89 FR 30830, Apr. 23, 2024.
 
 (3) *Special election period.* All individuals will be provided with a special enrollment period, as described in § 423.38(c)(8)(ii).
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1543, Jan. 12, 2009; 83 FR 16736, Apr. 16, 2018]
+(h) *Notification of reinstatement based on beneficiary cancellation of new enrollment.* When an individual is disenrolled from a Part D plan due to the election of a new plan, the Part D plan sponsor must reinstate the individual's enrollment in that plan if the individual cancels the election in the new plan within timeframes established by CMS. The Part D plan sponsor offering the plan from which the individual was disenrolled must send the member notification of the reinstatement within 10 calendar days of receiving confirmation of the individual's reinstatement.
+
+(i) *Exception for employer group health plans.* (1) In cases when a PDP sponsor has both a Medicare contract and a contract with an employer, and in which the PDP sponsor arranges for the employer to process election forms for Part D eligible group members who wish to enroll under the Medicare contract, the effective date of the election may be retroactive. Consistent with § 423.343(a), payment adjustments based on a retroactive effective date may be made for up to a 90-day period.
+
+(2) In order to obtain the effective date described in paragraph (i)(1) of this section, the beneficiary must certify that, at the time of enrollment in the PDP, he or she received the disclosure statement specified in § 423.128.
+
+(3) Upon receipt of the election from the employer, the PDP sponsor must submit the enrollment to CMS within timeframes specified by CMS.
+
+(j) *Authorized representatives.* As used in this subpart, an authorized representative is an individual who is the legal representative or otherwise legally able to act on behalf of an enrollee, as the law of the State in which the beneficiary resides may allow, in order to execute an enrollment or disenrollment request.
+
+(1) The authorized representative would constitute the “beneficiary” or the “enrollee” for the purpose of making an election.
+
+(2) Authorized representatives may include court-appointed legal guardians, persons having durable power of attorney for health care decisions, or individuals authorized to make health care decisions under state surrogate consent laws, provided they have the authority to act for the beneficiary in this capacity.
+
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1543, Jan. 12, 2009; 83 FR 16736, Apr. 16, 2018; 89 FR 30830, Apr. 23, 2024]

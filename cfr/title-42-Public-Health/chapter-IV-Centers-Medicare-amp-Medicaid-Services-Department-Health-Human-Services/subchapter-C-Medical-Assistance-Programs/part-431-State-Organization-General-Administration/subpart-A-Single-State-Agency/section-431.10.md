@@ -1,7 +1,5 @@
 ##### § 431.10 Single State agency. #####
 
-Link to an amendment published at 89 FR 22865, Apr. 2, 2024.
-
 (a) *Basis, purpose, and definitions.* (1) This section implements section 1902(a)(4) and (5) of the Act.
 
 (2) For purposes of this part—
@@ -32,9 +30,13 @@ Link to an amendment published at 89 FR 22865, Apr. 2, 2024.
 
 (*1*) The single State agency for the financial assistance program under title IV-A (in the 50 States or the District of Columbia), or under title I or XVI (AABD), in Guam, Puerto Rico, or the Virgin Islands;
 
-(*2*) The Federal agency administering the supplemental security income program under title XVI of the Act; or
+(*2*) The separate Children's Health Insurance Program agency;
 
-(*3*) The Exchange.
+(*3*) The Basic Health Program agency;
+
+(*4*) The Federal agency administering the supplemental security income program under title XVI of the Act; or
+
+(*5*) The Exchange.
 
 (B) Must in the approved state plan specify to which agency, and the individuals for which, authority to determine eligibility is delegated.
 
@@ -66,4 +68,4 @@ Link to an amendment published at 89 FR 22865, Apr. 2, 2024.
 
 (e) *Authority of the single State agency.* The Medicaid agency may not delegate, to other than its own officials, the authority to supervise the plan or to develop or issue policies, rules, and regulations on program matters.
 
-[44 FR 17930, Mar. 23, 1979, as amended at 77 FR 17202, Mar. 23, 2012; 78 FR 42300, July 15, 2013]
+[44 FR 17930, Mar. 23, 1979, as amended at 77 FR 17202, Mar. 23, 2012; 78 FR 42300, July 15, 2013; 89 FR 22865, Apr. 2, 2024]

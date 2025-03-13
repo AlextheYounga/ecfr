@@ -1,14 +1,12 @@
 ##### § 435.952 Use of information and requests of additional information from individuals. #####
 
-Link to an amendment published at 89 FR 22871, Apr. 2, 2024.
-
 (a) The agency must promptly evaluate information received or obtained by it in accordance with regulations under § 435.940 through § 435.960 of this subpart to determine whether such information may affect the eligibility of an individual or the benefits to which he or she is entitled.
 
-(b) If information provided by or on behalf of an individual (on the application or renewal form or otherwise) is reasonably compatible with information obtained by the agency in accordance with § 435.948, § 435.949 or § 435.956 of this subpart, the agency must determine or renew eligibility based on such information.
+(b) If information provided by or on behalf of an individual (on the application or renewal form or otherwise) is reasonably compatible with information obtained by the agency, including information obtained in accordance with § 435.948, § 435.949, § or 435.956, the agency must determine or renew eligibility based on such information.
 
-(c) An individual must not be required to provide additional information or documentation unless information needed by the agency in accordance with § 435.948, § 435.949 or § 435.956 of this subpart cannot be obtained electronically or the information obtained electronically is not reasonably compatible, as provided in the verification plan described in § 435.945(j) with information provided by or on behalf of the individual.
+(c) An individual must not be required to provide additional information or documentation unless information needed by the agency in accordance with § 435.948, § 435.949, § or 435.956 cannot be obtained electronically or information obtained electronically is not reasonably compatible, as provided in the verification plan described in § 435.945(j) with information provided by or on behalf of the individual.
 
-(1) Income information obtained through an electronic data match shall be considered reasonably compatible with income information provided by or on behalf of an individual if both are either above or at or below the applicable income standard or other relevant income threshold.
+(1) Income information obtained through an electronic data match shall be considered reasonably compatible with income information provided by or on behalf of an individual, and resource information obtained through an electronic data match shall be considered reasonably compatible with resource information provided by or on behalf of an individual, if both the information obtained electronically and the information provided by or on behalf of the individual are either above or at or below the applicable standard or other relevant threshold.
 
 (2) If information provided by or on behalf of an individual is not reasonably compatible with information obtained through an electronic data match, the agency must seek additional information from the individual, including—
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 22871, Apr. 2, 2024.
 
 (C) The agency must allow the individual to submit documentation through any of the modalities described in § 435.907(a) and provide the individual with at least 15 days to provide information or documentation described in this paragraph if such information or documentation is requested pursuant to paragraph (e)(4)(i) or (ii) of this section and at least 90 days if required pursuant to paragraph (e)(4)(iii) of this section.
 
-[77 FR 17212, Mar. 23, 2012, as amended at 81 FR 86459, Nov. 30, 2016; 88 FR 65270, Sept. 21, 2023]
+[77 FR 17212, Mar. 23, 2012, as amended at 81 FR 86459, Nov. 30, 2016; 88 FR 65270, Sept. 21, 2023; 89 FR 22871, Apr. 1, 2024]

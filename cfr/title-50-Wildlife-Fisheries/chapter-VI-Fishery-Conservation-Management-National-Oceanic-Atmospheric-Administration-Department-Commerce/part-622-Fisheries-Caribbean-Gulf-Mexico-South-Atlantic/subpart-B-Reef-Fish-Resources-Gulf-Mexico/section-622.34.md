@@ -1,7 +1,5 @@
 ##### § 622.34 Seasonal and area closures designed to protect Gulf reef fish. #####
 
-Link to an amendment published at 89 FR 40436, May 10, 2024.
-
 (a) *Closure provisions applicable to the Madison and Swanson sites, Steamboat Lumps, and the Edges.* For the purpose of this paragraph (a), fish means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals and birds. The provisions of this paragraph (a) do not apply to Atlantic highly migratory species, such as tunas, billfishes, and oceanic sharks. See 50 CFR part 635 for any provisions applicable to fishing for or possession of Atlantic highly migratory species in these areas.
 
 (1) *Descriptions of Areas.* (i) The Madison and Swanson sites are bounded by rhumb lines connecting, in order, the following points:
@@ -53,8 +51,6 @@ Link to an amendment published at 89 FR 40436, May 10, 2024.
 
 (d) *Seasonal closure of the recreational sector for shallow-water grouper (SWG).* The recreational sector for SWG in or from the Gulf EEZ is closed each year from February 1 through March 31 in the portion of the Gulf EEZ seaward of rhumb lines connecting the following points in order. During the closure, the bag and possession limits for SWG in or from the Gulf EEZ seaward of the following rhumb lines are zero.
 
-Table 4 to Paragraph (d)
-
 |Point|  North lat.   |                                                 West long.                                                  |
 |-----|---------------|-------------------------------------------------------------------------------------------------------------|
 |  1  |   24°48.0′    |                                                  82°48.0′                                                   |
@@ -90,7 +86,7 @@ Table 4 to Paragraph (d)
 | 31  |   26°45.5′    |                                                  97°01.4′                                                   |
 | 32  |At EEZ boundary|                                                  96°51.0′                                                   |
 
-(e) *Seasonal closure of the recreational sector for gag.* The recreational sector for gag, in or from the Gulf EEZ, is closed from January 1 through May 31. During the closure, the bag and possession limits for gag in or from the Gulf EEZ are zero.
+(e) *Seasonal closure of the recreational sector for gag.* The recreational harvest of gag in or from the Gulf EEZ is closed from January 1 through August 31. During the closure, the bag and possession limits for gag in or from the Gulf EEZ are zero.
 
 (f) *Seasonal closures for gray triggerfish.* The recreational sector for gray triggerfish in or from the Gulf EEZ is closed from January 1 through the end of February, and from June 1 through July 31, each year. During a recreational closure, the bag and possession limits for gray triggerfish in or from the Gulf EEZ are zero. The commercial sector for gray triggerfish in or from the Gulf EEZ is closed from June 1 through July 31, each year. During the period of both the commercial and recreational closure, all harvest or possession in or from the Gulf EEZ of gray triggerfish is prohibited and the sale and purchase of gray triggerfish taken from the Gulf EEZ is prohibited.
 
@@ -98,4 +94,4 @@ Table 4 to Paragraph (d)
 
 (h) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 85 FR 6823, Feb. 6, 2020; 85 FR 20613, Apr. 14, 2020; 86 FR 38417, July 20, 2021; 88 FR 27708, May 3, 2023; 88 FR 69553, Oct. 6, 2023]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 85 FR 6823, Feb. 6, 2020; 85 FR 20613, Apr. 14, 2020; 86 FR 38417, July 20, 2021; 88 FR 27708, May 3, 2023; 88 FR 69553, Oct. 6, 2023; 89 FR 40436, May 10, 2024]

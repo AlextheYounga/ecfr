@@ -1,12 +1,10 @@
 ##### § 423.2274 Agent, broker, and other third-party requirements. #####
 
-Link to an amendment published at 89 FR 30842, Apr. 23, 2024.
-
 If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, the requirements in paragraphs (a) through (e) of this section are applicable. If a Part D sponsor makes payments to third parties, the requirements in paragraph (f) of this section are applicable.
 
 (a) *Definitions.* For purposes of this section, the following definitions are applicable:
 
-*Compensation.* (i) Includes monetary or non-monetary remuneration of any kind relating to the sale or renewal of a plan or product offered by a Part D sponsor including, but not limited to the following:
+*Compensation.* (i) Includes monetary or non-monetary remuneration of any kind relating to the sale, renewal, or services related to a plan or product offered by a Part D sponsor including, but not limited to the following:
 
 (A) Commissions.
 
@@ -16,6 +14,14 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (D) Prizes or Awards.
 
+(E) Beginning with contract year 2025, payment of fees to comply with state appointment laws, training, certification, and testing costs.
+
+(F) Beginning with contract year 2025, reimbursement for mileage to, and from, appointments with beneficiaries.
+
+(G) Beginning with contract year 2025, reimbursement for actual costs associated with beneficiary sales appointments such as venue rent, snacks, and materials.
+
+(H) Beginning with contract year 2025, any other payments made to an agent or broker that are tied to enrollment, related to an enrollment in a Part D plan or product, or for services conducted as a part of the relationship associated with the enrollment into a Part D plan or product.
+
 (ii) Does not include any of the following:
 
 (A) Payment of fees to comply with State appointment laws, training, certification, and testing costs.
@@ -24,7 +30,7 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (C) Reimbursement for actual costs associated with beneficiary sales appointments such as venue rent, snacks, and materials.
 
-*Fair market value (FMV)* means, for purposes of evaluating agent/broker compensation under the requirements of this section only, the amount that CMS determines could reasonably be expected to be paid for an enrollment or continued enrollment into a Part D plan. Beginning January 1, 2021, the FMV is $81. For subsequent years, FMV is calculated by adding the current year FMV and the product of the current year FMV and the Annual Percentage Increase for Part D, which is published for each year in the rate announcement issued pursuant to § 422.312 of this chapter.
+*Fair market value (FMV)* means, for purposes of evaluating agent or broker compensation under the requirements of this section only, the amount that CMS determines could reasonably be expected to be paid for an enrollment or continued enrollment into a Part D plan. Beginning January 1, 2021, the national FMV is 81. In contract year 2025, there will be a one-time increase of $100 to the FMV to account for administrative payments included under the compensation rate. For subsequent years, FMV is calculated by adding the current year FMV and the produce of the current year FMV and Annual Percentage Increase for Part D, which is published for each year in the rate announcement issued under § 422.312.
 
 *Initial enrollment year* means the first year that a beneficiary is enrolled in a plan versus subsequent years (c.f., *renewal year*) that a beneficiary remains enrolled in a plan.
 
@@ -66,7 +72,7 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (4) On an annual basis, provide training and testing to agents and brokers on Medicare rules and regulations, the plan products that agents and brokers will sell including any details specific to each plan product, and relevant State and Federal requirements.
 
-(5) On an annual basis by the last Friday in July, report to CMS whether the Part D sponsor intends to use employed, captive, or independent agents or brokers in the upcoming plan year and the specific rates or range of rates the plan will pay independent agents and brokers. Following the reporting deadline, Part D sponsor may not change their decisions related to agent or broker type, or their compensation rates and ranges, until the next plan year.
+(5) On an annual basis for plan years through 2024, by the last Friday in July, report to CMS whether the MA organization intends to use employed, captive, or independent agents or brokers in the upcoming plan year and the specific rates or range of rates the plan will pay independent agents and brokers. Following the reporting deadline, MA organizations may not change their decisions related to agent or broker type, or their compensation rates and ranges, until the next plan year.
 
 (6) On an annual basis by October 1, have in place full compensation structures for the following plan year. The structure must include details on compensation dissemination, including specifying payment amounts for initial enrollment year and renewal year compensation.
 
@@ -86,17 +92,19 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (12) Ensure that, prior to an enrollment CMS' required questions and topics regarding beneficiary needs in a health plan choice are fully discussed. Topics include information regarding pharmacies (that is, whether or not the beneficiary's current pharmacy is in the plan's network), prescription drug coverage and costs (including whether or not the beneficiary's current prescriptions are covered), premiums, and other services or incentives.
 
+(13) Beginning with contract year 2025, ensure that no provision of a contract with an agent, broker, or other TPMO has a direct or indirect effect of creating an incentive that would reasonably be expected to inhibit an agent or broker's ability to objectively assess and recommend which plan best fits the health care needs of a beneficiary.
+
 (d) *Compensation requirements.* Part D sponsors must ensure they meet the requirements in paragraphs (d)(1) through (5) of this section in order to pay compensation. These compensation requirements only apply to independent agents and brokers.
 
 (1) *General rules.* (i) MA organizations may only pay agents or brokers who meet the requirements in paragraph (b) of this section.
 
-(ii) Part D sponsors may determine, through their contracts, the amount of compensation to be paid, provided it does not exceed limitations outlined in this section.
+(ii) For contract years through contract year 2024, Part D sponsors may determine, through their contracts, the amount of compensation to be paid, provided it does not exceed limitations outlined in this section. Beginning with contract year 2025, Part D sponsors are limited to the compensation amounts outlined in this section.
 
 (iii) Part D sponsors may determine their payment schedule (for example, monthly or quarterly). Payments (including payments for AEP enrollments) must be made during the year of the beneficiary's enrollment.
 
 (iv) Part D sponsors may only pay compensation for the number of months a member is enrolled.
 
-(2) *Initial enrollment year compensation.* For each enrollment in an initial enrollment year, Part D sponsors may pay compensation at or below FMV.
+(2) *Initial enrollment year compensation.* Initial enrollment year compensation. For each enrollment in an initial enrollment year for contract years through contract year 2024, Part D sponsors may pay compensation at or below FMV.
 
 (i) Part D sponsors may pay either a full or pro-rated initial enrollment year compensation for:
 
@@ -110,7 +118,7 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (B) A beneficiary's selection of an “unlike plan type” change. In that case, the new plan would only pay the months that the beneficiary is enrolled, and the previous plan would recoup the months that the beneficiary was not in the plan.
 
-(3) *Renewal compensation.* For each enrollment in a renewal year, Part D sponsors may pay compensation at an amount up to 50 percent of FMV.
+(3) *Renewal compensation.* For each enrollment in a renewal year for contract years through contract year 2024, Part D sponsors may pay compensation at a rate of up to 50 percent of FMV. For contract years beginning with contract year 2025, for each enrollment in a renewal year, MA organizations may pay compensation at 50 percent of FMV.
 
 (i) Part D sponsors may pay compensation for a renewal year:
 
@@ -176,9 +184,9 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (*2*) Example: A beneficiary enrolls upon turning 65 effective April 1 and disenrolls September 30 of the same year. The plan paid full initial enrollment year compensation. Recovery is equal to 6/12ths of the initial enrollment year compensation (for January through March and October through December).
 
-(e) *Payments other than compensation (administrative payments).* (1) Payments made for services other than enrollment of beneficiaries (for example, training, customer service, agent recruitment, operational overhead, or assistance with completion of health risk assessments) must not exceed the value of those services in the marketplace.
+(e) *Payments other than compensation (administrative payments).* (1) For contract years through contract year 2024, payments for services other than enrollment of beneficiaries (for example, training, customer service, agent recruitment, operational overhead, or assistance with completion of health risk assessments) must not exceed the value of those services in the marketplace.
 
-(2) Administrative payments can be based on enrollment provided payments are at or below the value of those services in the marketplace.
+(2) Beginning with contract year 2025, administrative payments are included in the calculation of enrollment-based compensation.
 
 (f) *Payments for referrals.* Payments may be made to individuals for the referral (including a recommendation, provision, or other means of referring beneficiaries), recommendation, provision, or other means of referring beneficiaries to an agent, broker or other entity for potential enrollment into a plan. The payment may not exceed $100 for a referral into an MA or MA-PD plan and $25 for a referral into a PDP plan.
 
@@ -208,4 +216,6 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (ii) When applicable, disclose to the beneficiary that he or she is being transferred to a licensed agent who can enroll him or her into a new plan.
 
-[86 FR 6129, Jan. 19, 2021, as amended at 87 FR 27901, May 9, 2022; 88 FR 22342, Apr. 12, 2023]
+(4) Beginning October 1, 2024, personal beneficiary data collected by a TPMO for marketing or enrolling them into a Part D plan may only be shared with another TPMO when prior express written consent is given by the beneficiary. Prior express written consent from the beneficiary to share the information and be contacted for marketing or enrollment purposes must be obtained through a clear and conspicuous disclosure that lists each entity receiving the data and allows the beneficiary to consent or reject to the sharing of their data with each individual TPMO.
+
+[86 FR 6129, Jan. 19, 2021, as amended at 87 FR 27901, May 9, 2022; 88 FR 22342, Apr. 12, 2023; 89 FR 30842, Apr. 23, 2024]

@@ -1,7 +1,5 @@
 ##### § 422.510 Termination of contract by CMS. #####
 
-Link to an amendment published at 89 FR 30824, Apr. 23, 2024.
-
 (a) *Termination by CMS.* CMS may at any time terminate a contract if CMS determines that the MA organization meets any of the following:
 
 (1) Has failed substantially to carry out the contract.
@@ -84,4 +82,18 @@ Link to an amendment published at 89 FR 30824, Apr. 23, 2024.
 
 (d) *Appeal rights.* If CMS decides to terminate a contract, it sends written notice to the MA organization informing it of its termination appeal rights in accordance with subpart N of this part.
 
-[63 FR 35099, June 26, 1998, as amended at 65 FR 40328, June 29, 2000; 70 FR 52027, Sept. 1, 2005; 72 FR 68723, Dec. 5, 2007; 75 FR 19811, Apr. 15, 2010; 77 FR 22168, Apr. 12, 2012; 78 FR 31307, May 23, 2013; 79 FR 29959, May 23, 2014; 81 FR 80557, Nov. 15, 2016; 83 FR 16734, Apr. 16, 2018; 88 FR 22334, Apr. 12, 2023]
+(e) If CMS makes a determination to terminate a MA organization's contract under § 422.510(a), CMS also imposes the intermediate sanctions at § 422.750(a)(1) and (3) in accordance with the following procedures:
+
+(1) The sanction goes into effect 15 days after the termination notice is sent.
+
+(2) The MA organization has a right to appeal the intermediate sanction in the same proceeding as the termination appeal specified in paragraph (d) of this section.
+
+(3) A request for a hearing does not delay the date specified by CMS when the sanction becomes effective.
+
+(4) The sanction remains in effect—
+
+(i) Until the effective date of the termination; or
+
+(ii) If the termination decision is overturned on appeal, when a final decision is made by the hearing officer or Administrator.
+
+[63 FR 35099, June 26, 1998, as amended at 65 FR 40328, June 29, 2000; 70 FR 52027, Sept. 1, 2005; 72 FR 68723, Dec. 5, 2007; 75 FR 19811, Apr. 15, 2010; 77 FR 22168, Apr. 12, 2012; 78 FR 31307, May 23, 2013; 79 FR 29959, May 23, 2014; 81 FR 80557, Nov. 15, 2016; 83 FR 16734, Apr. 16, 2018; 88 FR 22334, Apr. 12, 2023; 89 FR 30824, Apr. 23, 2024]

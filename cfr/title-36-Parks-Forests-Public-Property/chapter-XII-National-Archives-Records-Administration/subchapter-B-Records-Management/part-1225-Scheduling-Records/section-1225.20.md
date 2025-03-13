@@ -1,6 +1,6 @@
 ##### § 1225.20 When do agencies have to get GAO approval for schedules? #####
 
-Link to an amendment published at 89 FR 35008, May 1, 2024.
+Link to an amendment published at 89 FR 35008, May 1, 2024.Link to a correction of the above amendment published at 89 FR 47468, June 3, 2024.
 
 (a), Federal agencies must obtain the approval of the Comptroller General for the disposal of the following types of records:
 

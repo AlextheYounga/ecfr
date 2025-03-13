@@ -1,7 +1,5 @@
 ##### § 423.562 General provisions. #####
 
-Link to an amendment published at 89 FR 30841, Apr. 23, 2024.
-
 (a) *Responsibilities of the Part D plan sponsor.* A Part D plan sponsor must meet all of the following requirements.
 
 (1) A Part D plan sponsor, for each Part D plan that it offers, must establish and maintain—
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 30841, Apr. 23, 2024.
 
 (iv) Appeal procedures that meet the requirements of this subpart for issues that involve coverage determinations.
 
-(v) If the Part D plan sponsor has established a drug management program under § 423.153(f), appeal procedures that meet the requirements of this subpart for issues that involve at-risk determinations.). Determinations made in accordance with the processes at § 423.153(f) are collectively referred to as an at-risk determination, defined at § 423.560, made under a drug management program.
+(v) Appeal procedures that meet the requirements of this subpart for issues that involve at-risk determinations. Determinations made in accordance with the processes at § 423.153(f) are collectively referred to as an at-risk determination, defined at § 423.560, made under a drug management program.
 
 (2) A Part D plan sponsor must ensure that all enrollees receive written information about the—
 
@@ -54,4 +52,4 @@ Link to an amendment published at 89 FR 30841, Apr. 23, 2024.
 
 (d) *Relation to ERISA Requirements.* Consistent with section 1860D-22(b) of the Act, provisions of this subpart may, to the extent applicable under the regulations adopted by the Secretary of Labor, apply to claims for benefits under group health plans subject to the Employee Retirement Income Security Act.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 65363, Dec. 9, 2009; 76 FR 21575, Apr. 15, 2011; 80 FR 7965, Feb. 12, 2015; 82 FR 5125, Jan. 17, 2017; 83 FR 16751, Apr. 16, 2018; 84 FR 19872, May 7, 2019]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 65363, Dec. 9, 2009; 76 FR 21575, Apr. 15, 2011; 80 FR 7965, Feb. 12, 2015; 82 FR 5125, Jan. 17, 2017; 83 FR 16751, Apr. 16, 2018; 84 FR 19872, May 7, 2019; 89 FR 30841, Apr. 23, 2024]

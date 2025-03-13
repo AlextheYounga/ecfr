@@ -1,7 +1,5 @@
 ##### § 422.164 Adding, updating, and removing measures. #####
 
-Link to an amendment published at 89 FR 30820, Apr. 23, 2024.
-
 (a) *General.* CMS adds, updates, and removes measures used to calculate the Star Ratings as provided in this section. CMS lists the measures used for a particular Star Rating each year in the Technical Notes or similar guidance document with publication of the Star Ratings.
 
 (b) *Review of data quality.* CMS reviews the quality of the data on which performance, scoring and rating of a measure is based before using the data to score and rate performance or in calculating a Star Rating. This includes review of variation in scores among MA organizations and Part D plan sponsors, and the accuracy, reliability, and validity of measures and performance data before making a final determination about inclusion of measures in each year's Star Ratings.
@@ -30,7 +28,7 @@ Link to an amendment published at 89 FR 30820, Apr. 23, 2024.
 
 (C) Adding additional instructions to identify services or procedures; or
 
-(v) Add alternative data sources.
+(v) Add alternative data sources or expand modes of data collection.
 
 (2) *Substantive updates.* For measures that are already used for Star Ratings, in the case of measure specification updates that are substantive updates not subject to paragraph (d)(1) of this section, CMS will propose and finalize these measures through rulemaking similar to the process for adding new measures. CMS will initially solicit feedback on whether to make substantive measure updates through the process described for changes in and adoption of payment and risk adjustment policies in section 1853(b) of the Act. Once the update has been made to the measure specification by the measure steward, CMS may continue collection of performance data for the legacy measure and include it in Star Ratings until the updated measure has been on display for 2 years. CMS will place the updated measure on the display page for at least 2 years prior to using the updated measure to calculate and assign Star Ratings as specified in paragraph (c) of this section.
 
@@ -82,13 +80,13 @@ Link to an amendment published at 89 FR 30820, Apr. 23, 2024.
 
 (ii) CMS will reduce measures based on data that an MA organization must submit to CMS under § 422.516 to 1 star when a contract did not score at least 95 percent on data validation for the applicable reporting section or was not compliant with CMS data validation standards/substandards for data directly used to calculate the associated measure.
 
-(iii) For the appeals measures, CMS will use statistical criteria to estimate the percentage of missing data for each contract (using data from multiple sources such as a timeliness monitoring study or audit information) to scale the star reductions to determine whether the data at the independent review entity (IRE) are complete. CMS will use scaled reductions for the Star Ratings for the applicable appeals measures to account for the degree to which the IRE data are missing.
+(iii) For the appeals measures, CMS uses statistical criteria to estimate the percentage of missing data for each contract using data from MA organizations, the independent review entity (IRE), or CMS administrative sources to determine whether the data at the IRE are complete. CMS uses scaled reductions for the Star Ratings for the applicable appeals measures to account for the degree to which the IRE data are missing.
 
-(A)(*1*) The data submitted for the Timeliness Monitoring Project (TMP) or audit that aligns with the Star Ratings year measurement period is used to determine the scaled reduction.
+(A)(*1*) The data reported by the MA organization on appeals, including the number of reconsiderations requested, denied, upheld, dismissed, or otherwise disposed of by the MA organization, and data from the IRE or CMS administrative sources, that align with the Star Ratings year measurement period are used to determine the scaled reduction.
 
-(*2*) For contract consolidations approved on or after January 1, 2022, if there is a contract consolidation as described at § 422.162(b)(3), the TMP or audit data are combined for the consumed and surviving contracts before the methodology provided in paragraphs (g)(1)(iii)(B) through (O) of this section is applied.
+(*2*) If there is a contract consolidation as described at § 422.162(b)(3), the data described in paragraph (g)(1)(iii)(A)(*1*) of this section are combined for the consumed and surviving contracts before the methodology provided in paragraphs (g)(1)(iii)(B) through (O) of this section is applied.
 
-(B) The determination of the Part C appeals measure IRE data reduction is done independently of the Part D appeals measure IRE data reduction.
+(B) [Reserved]
 
 (C) The reductions range from a one-star reduction to a four-star reduction; the most severe reduction for the degree of missing IRE data is a four-star reduction.
 
@@ -104,21 +102,19 @@ Link to an amendment published at 89 FR 30820, Apr. 23, 2024.
 
 (E) If a contract receives a reduction due to missing Part C IRE data, the reduction is applied to both of the contract's Part C appeals measures.
 
-(F) If a contract receives a reduction due to missing Part D IRE data, the reduction is applied to both of the contract's Part D appeals measures.
+(F) [Reserved]
 
 (G) The scaled reduction is applied after the calculation for the appeals measure-level Star Ratings. If the application of the scaled reduction results in a measure-level star rating less than 1 star, the contract will be assigned 1 star for the appeals measure.
 
-(H) The Part C Calculated Error is determined using the quotient of number of cases not forwarded to the IRE and the total number of cases that should have been forwarded to the IRE. (The number of cases that should have been forwarded to the IRE is the sum of the number of cases in the IRE during the data collection or data sample period and the number of cases not forwarded to the IRE during the same period.)
+(H) The Part C calculated error is determined using 1 minus the quotient of the total number of cases received by the IRE that were supposed to be sent and the total number of cases that should have been forwarded to the IRE. The total number of cases that should have been forwarded to the IRE is determined by the sum of the partially favorable (adverse) reconsiderations and unfavorable (adverse) reconsiderations for the applicable measurement year.
 
-(I) The Part D Calculated Error is determined by the quotient of the number of untimely cases not auto-forwarded to the IRE and the total number of untimely cases.
-
-(J) The projected number of cases not forwarded to the IRE in a 3-month period is calculated by multiplying the number of cases found not to be forwarded to the IRE based on the TMP or audit data by a constant determined by the data collection or data sample time period. The value of the constant will be 1.0 for contracts that submitted 3 months of data; 1.5 for contracts that submitted 2 months of data; and 3.0 for contracts that submitted 1 month of data.
+(I)-(J) [Reserved]
 
 (K) Contracts are subject to a possible reduction due to lack of IRE data completeness if both of the following conditions are met:
 
 (*1*) The calculated error rate is 20 percent or more.
 
-(*2*) The projected number of cases not forwarded to the IRE is at least 10 in a 3-month period.
+(*2*) The number of cases not forwarded to the IRE is at least 10 for the measurement year.
 
 (L) A confidence interval estimate for the true error rate for the contract is calculated using a Score Interval (Wilson Score Interval) at a confidence level of 95 percent and an associated z of 1.959964 for a contract that is subject to a possible reduction.
 
@@ -126,7 +122,7 @@ Link to an amendment published at 89 FR 30820, Apr. 23, 2024.
 
 (N) The reduction is identified by the highest threshold that a contract's lower bound exceeds.
 
-(O) CMS reduces the measure rating to 1 star for the applicable appeals measure(s) if a contract fails to submit Timeliness Monitoring Project data for CMS's review to ensure the completeness of the contract's IRE data.
+(O) CMS reduces the measure rating to 1 star for the applicable appeals measure(s) if CMS does not have accurate, complete, and unbiased data to validate the completeness of the Part C appeals measures.
 
 (2) CMS will reduce a measure rating to 1 star for additional concerns that data inaccuracy, incompleteness, or bias have an impact on measure scores and are not specified in paragraphs (g)(1)(i) through (iii) of this section, including a contract's failure to adhere to HEDIS, HOS, or CAHPS reporting requirements.
 
@@ -136,4 +132,6 @@ Link to an amendment published at 89 FR 30820, Apr. 23, 2024.
 
 (i) [Reserved]
 
-[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15829, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020; 86 FR 6097, Jan. 19, 2021; 87 FR 27895, May 9, 2022; 88 FR 22332, Apr. 12, 2023]
+(3) Beginning with the 2025 measurement year (2027 Star Ratings), an MA organization may request that CMS review its contract's administrative data for Patient Safety measures provided that the request is received by the annual deadline set by CMS for the applicable Star Ratings year.
+
+[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15829, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020; 86 FR 6097, Jan. 19, 2021; 87 FR 27895, May 9, 2022; 88 FR 22332, Apr. 12, 2023; 89 FR 30820, Apr. 23, 2024]

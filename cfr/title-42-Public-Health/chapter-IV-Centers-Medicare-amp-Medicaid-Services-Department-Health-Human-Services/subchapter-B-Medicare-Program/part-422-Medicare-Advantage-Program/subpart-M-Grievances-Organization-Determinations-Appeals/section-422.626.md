@@ -1,14 +1,10 @@
 ##### § 422.626 Fast-track appeals of service terminations to independent review entities (IREs). #####
 
-Link to an amendment published at 89 FR 30827, Apr. 23, 2024.
-
 (a) *Enrollee's right to a fast-track appeal of an MA organization's termination decision.* An enrollee of an MA organization has a right to a fast-track appeal of an MA organization's decision to terminate provider services.
 
 (1) An enrollee who desires a fast-track appeal must submit a request for an appeal to an IRE under contract with CMS, in writing or by telephone, by noon of the first day after the day of delivery of the termination notice. If, due to an emergency, the IRE is closed and unable to accept the enrollee's request for a fast-track appeal, the enrollee must file a request by noon of the next day that the IRE is open for business.
 
-(2) When an enrollee fails to make a timely request to an IRE, he or she may request an expedited reconsideration by the MA organization as described in § 422.584.
-
-(3) If, after delivery of the termination notice, an enrollee chooses to leave a provider or discontinue receipt of covered services on or before the proposed termination date, the enrollee may not later assert fast-track IRE appeal rights under this section relative to the services or expect the services to resume, even if the enrollee requests an appeal before the discontinuation date in the termination notice.
+(2) If an enrollee makes an untimely request to an IRE, the IRE accepts the request and makes a determination as soon as possible, but the timeframe under paragraph (d)(5) of this section and the financial liability protection under paragraph (b) of this section do not apply.
 
 (b) *Coverage of provider services.* Coverage of provider services continues until the date and time designated on the termination notice, unless the enrollee appeals and the IRE reverses the MA organization's decision. If the IRE's decision is delayed because the MA organization did not timely supply necessary information or records, the MA organization is liable for the costs of any additional coverage required by the delayed IRE decision. If the IRE finds that the enrollee did not receive valid notice, coverage of provider services by the MA organization continues until at least two days after valid notice has been received. Continuation of coverage is not required if the IRE determines that coverage could pose a threat to the enrollee's health or safety.
 
@@ -58,4 +54,4 @@ Link to an amendment published at 89 FR 30827, Apr. 23, 2024.
 
 (4) If on reconsideration the IRE determines that coverage of provider services should terminate on a given date, the enrollee is liable for the costs of continued services after that date unless the IRE's decision is reversed on appeal. If the IRE's decision is reversed on appeal, the MA organization must reimburse the enrollee, consistent with the appealed decision, for the costs of any covered services for which the enrollee has already paid the MA organization or provider.
 
-[68 FR 16667, Apr. 4, 2003, as amended at 75 FR 19812, Apr. 15, 2010; 76 FR 21569, Apr. 15, 2011; 82 FR 5125, Jan. 17, 2017]
+[68 FR 16667, Apr. 4, 2003, as amended at 75 FR 19812, Apr. 15, 2010; 76 FR 21569, Apr. 15, 2011; 82 FR 5125, Jan. 17, 2017; 89 FR 30827, Apr. 23, 2024]

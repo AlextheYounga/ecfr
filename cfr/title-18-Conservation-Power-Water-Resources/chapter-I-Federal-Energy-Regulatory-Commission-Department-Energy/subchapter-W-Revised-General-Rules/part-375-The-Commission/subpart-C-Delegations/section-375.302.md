@@ -60,4 +60,4 @@ The Commission authorizes the Secretary, or the Secretary's designee to:
 
 (aa) Issue a notice that the Commission will not further review on its own motion a Notice of Penalty filed under Section 215(e) of the Federal Power Act.
 
-[43 FR 36435, Aug. 17, 1978]Editorial Note:For Federal Register citations affecting § 375.302, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[43 FR 36435, Aug. 17, 1978] Editorial Note:For Federal Register citations affecting § 375.302, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

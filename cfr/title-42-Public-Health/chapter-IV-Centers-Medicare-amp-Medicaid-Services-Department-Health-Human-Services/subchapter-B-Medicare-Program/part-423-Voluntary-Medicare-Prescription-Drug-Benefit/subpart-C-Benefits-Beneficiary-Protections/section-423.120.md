@@ -1,7 +1,5 @@
 ##### § 423.120 Access to covered Part D drugs. #####
 
-Link to an amendment published at 89 FR 30833, Apr. 23, 2024.
-
 (a) *Assuring pharmacy access*—(1) *Standards for convenient access to network pharmacies.* Except as provided in paragraph (a)(7) of this section, a Part D sponsor (as defined in § 423.4 of this part) must have a contracted pharmacy network consisting of retail pharmacies sufficient to ensure that, for beneficiaries residing in each State in a PDP sponsor's service area (as defined in § 423.112(a) of this part), each State in a regional MA-organization's service area (as defined in § 422.2 of this part), the entire service area of a local MA organization (as defined in § 422.2 of this chapter) or the entire geographic area of a cost contract (as defined in § 417.401 of this chapter) all of the following requirements are satisfied:
 
 (i) At least 90 percent of Medicare beneficiaries, on average, in urban areas served by the Part D sponsor live within 2 miles of a network pharmacy that is a retail pharmacy or a pharmacy described under paragraph (a)(2) of this section.
@@ -126,7 +124,7 @@ Link to an amendment published at 89 FR 30833, Apr. 23, 2024.
 
 (*4*) Current enrollees remaining in the plan affected by formulary changes.
 
-(B) Not apply in cases in which a Part D sponsor substitutes a generic drug for a brand name drug as permitted under paragraph (b)(5)(iv) of this section.
+(B) Not apply in cases of immediate changes as permitted under paragraph (e)(2) of this section.
 
 (ii) Ensure access to a temporary supply of drugs within the first 90 days of coverage under a new plan. This 90 day timeframe applies to retail, home infusion, long-term care and mail-order pharmacies,
 
@@ -148,43 +146,9 @@ Link to an amendment published at 89 FR 30833, Apr. 23, 2024.
 
 (4) *Limitation on changes in therapeutic classification.* Except as CMS may permit to account for new therapeutic uses and newly approved Part D drugs, a Part D sponsor may not change the therapeutic categories and classes in a formulary other than at the beginning of each plan year.
 
-(5) *Provision of notice regarding formulary changes* (i) Prior to removing a covered Part D drug from its Part D plan's formulary, or making any change in the preferred or tiered cost-sharing status of a covered Part D drug, a Part D sponsor must provide at least 30 days notice to CMS, State Pharmaceutical Assistance Programs (as defined in § 423.454), entities providing other prescription drug coverage (as described in § 423.464(f)(1)), authorized prescribers, network pharmacies, and pharmacists (for purposes of this paragraph (b)(5) these entities are referred to as “CMS and other specified entities”) prior to the date such change becomes effective, and must either—
+(5) Notice of formulary changes. Part D sponsors must provide notice of changes to CMS-approved formularies as specified in § 423.120(f).
 
-(A) Provide direct written notice to affected enrollees at least 30 days prior to the date the change becomes effective; or
-
-(B) At the time an affected enrollee requests a refill of the Part D drug, provide such enrollee with an approved month's supply of the Part D drug under the same terms as previously allowed, and written notice of the formulary change.
-
-(ii) The written notice must contain the following information-
-
-(A) The name of the affected covered Part D drug;
-
-(B) Whether the plan is removing the covered Part D drug from the formulary, or changing its preferred or tiered cost-sharing status;
-
-(C) The reason why the plan is removing such covered Part D drug from the formulary, or changing its preferred or tiered cost-sharing status;
-
-(D) Alternative drugs in the same therapeutic category or class or cost-sharing tier and expected cost-sharing for those drugs; and
-
-(E) The means by which enrollees may obtain a coverage determination under § 423.566 or exception under § 423.578.
-
-(iii) Part D sponsors may immediately remove from their Part D plan formularies covered Part D drugs deemed unsafe by the Food and Drug Administration or removed from the market by their manufacturer without meeting the requirements of paragraphs (b)(5)(i) of this section. Part D sponsors must provide retrospective notice of any such formulary changes to affected enrollees and CMS and other specified entities consistent with the requirements of paragraphs (b)(5)(ii)(A), (b)(5)(ii)(B), (b)(5)(ii)(C), and (b)(5)(ii)(D) of this section.
-
-(iv) A Part D sponsor may immediately remove a brand name drug (as defined in § 423.4) from its Part D formulary or change the brand name drug's preferred or tiered cost-sharing without meeting the deadlines and refill requirements of paragraph (b)(5)(i) of this section provided that the Part D sponsor does all of the following:
-
-(A) At the same time that it removes such brand name drug or changes its preferred or tiered cost-sharing, it adds a therapeutically equivalent (as defined in § 423.100) generic drug (as defined in § 423.4) to its formulary on the same or lower cost-sharing tier and with the same or less restrictive utilization management criteria.
-
-(B) The Part D sponsor previously could not have included such therapeutically equivalent generic drug on its formulary when it submitted its initial formulary for CMS approval consistent with paragraph (b)(2) of this section because such generic drug was not yet available on the market.
-
-(C) Before making any permitted generic substitutions, the Part D sponsor provides general notice to all current and prospective enrollees in its formulary and other applicable beneficiary communication materials advising them that—
-
-(*1*) Such changes may be made at any time when a new generic is added in place of a brand name drug, and there may be no advance direct notice to the affected enrollees;
-
-(*2*) If such a substitution should occur, affected enrollees will receive direct notice including information on the specific drugs involved and steps they may take to request coverage determinations and exceptions under §§ 423.566 and 423.578;
-
-(D) Before making any permitted generic substitutions, the Part D sponsor provides advance general notice to CMS and other specified entities.
-
-(E) The Part D sponsor provides notice of any such formulary changes to affected enrollees and CMS and other specified entities consistent with the requirements of paragraphs (b)(5)(i) (as applicable) and (ii) of this section. This would include direct notice to the affected enrollees.
-
-(6) *Limitation on formulary changes prior to the beginning of a contract year.* Except as provided under paragraphs (b)(5)(iii) and (iv) of this section, a Part D sponsor may not remove a covered Part D drug from its Part D plan's formulary, or make any change in the preferred or tiered cost-sharing status of a covered Part D drug on its plan's formulary, between the beginning of the annual coordinated election period described in § 423.38(b) and 60 days after the beginning of the contract year associated with that annual coordinated election period.
+(6) Changes to CMS-approved formularies. Changes to CMS-approved formularies may be made only in accordance with paragraph (e) of this section.
 
 (7) *Provider and patient education.* A Part D sponsor must establish policies and procedures to educate and inform health care providers and enrollees concerning its formulary.
 
@@ -302,4 +266,46 @@ Link to an amendment published at 89 FR 30833, Apr. 23, 2024.
 
 (ii) For any non-Part D ingredient of the Part D compound (including drugs described under § 423.104(f)(1)(ii)(A)), the Part D sponsor's contract with the pharmacy must prohibit balance billing the beneficiary for the cost of any such ingredients.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 2888, Jan. 16, 2009; 75 FR 19816, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21572, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16738, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 84 FR 23883, May 23, 2019; 84 FR 26579, June 7, 2019]
+(e) *Approval of changes to CMS-approved formularies.* A Part D sponsor may not make any negative formulary changes to its CMS-approved formulary except as specified in this section.
+
+(1) *Negative change request.* Except as provided in paragraph (e)(2) of this section, prior to implementing a negative formulary change, Part D sponsors must submit to CMS, at a time and in a form and manner specified by CMS, a negative formulary change request.
+
+(2) *Exception for immediate negative formulary changes.* A negative change request is not required in the following circumstances:
+
+(i) *Immediate substitutions.* A Part D sponsor may make negative formulary changes to a brand name drug, a reference product, or a brand name biological product within 30 days of adding a corresponding drug to its formulary on the same or lower cost sharing tier and with the same or less restrictive formulary prior authorization (PA), step therapy (ST), or quantity limit (QL) requirements, so long as the Part D sponsor previously could not have included such corresponding drug on its formulary when it submitted its initial formulary for CMS approval consistent with paragraph (b)(2) of this section because such drug was not yet available on the market, and the Part D sponsor has provided advance general notice as specified in paragraph (f)(2) of this section.
+
+(ii) *Market withdrawals.* A Part D sponsor may immediately remove from its formulary any Part D drugs withdrawn from sale by their manufacturer or that the Food and Drug Administration (FDA) determines to be withdrawn for safety or effectiveness reasons.
+
+(3) *Approval process for negative formulary changes*—(i) *Maintenance changes.* Negative change requests for maintenance changes are deemed approved 30 days after submission unless CMS notifies the Part D sponsor otherwise.
+
+(ii) *Non-maintenance changes.* Part D sponsors must not implement non-maintenance changes until they receive notice of approval from CMS. Affected enrollees are exempt from non-maintenance changes for the remainder of the contract year.
+
+(4) *Limitation on formulary changes prior to the beginning of a contract year.* Except as provided in paragraph (e)(2) of this section, a Part D sponsor may not make a negative formulary change that takes effect between the beginning of the annual coordinated election period described in § 423.38(b) and 60 days after the beginning of the contract year associated with that annual coordinated election period.
+
+(f) *Provision of notice regarding changes to CMS-approved formularies*—
+
+(1) *Notice of negative formulary changes.* Except as specified in paragraphs (f)(2) and (3) of this section, prior to making any negative formulary change, a Part D sponsor must provide notice to CMS and other specified entities at least 30 days prior to the date such change becomes effective, and must either: provide written notice to affected enrollees at least 30 days prior to the date the change becomes effective, or when an affected enrollee requests a refill of the Part D drug, provide such enrollee with an approved month's supply of the Part D drug under the same terms as previously allowed and written notice of the formulary change. The requirement to provide notice to CMS is satisfied upon a Part D sponsor's submission of a negative change request described in paragraph (e) of this section. The requirement to provide notice to other specified entities is satisfied by the Part D sponsor's compliance with § 423.128(d)(2).
+
+(2) *Advance general notice of immediate negative formulary changes.* In the case of immediate negative formulary changes described in paragraph (e)(2) of this section, a Part D sponsor must provide advance general notice to all current and prospective enrollees and other specified entities in its formulary and other applicable beneficiary communication materials advising that the Part D sponsor may make immediate negative formulary changes consistent with the requirements of paragraph (e)(2) at any time. Such advance general notice must include information about how to access the plan's online formulary; about how to contact the plan; and that written notice of any change made will describe the specific drugs involved. Advance general notice of immediate substitutions must also specify that the written notice will contain information on the steps that enrollees may take to request coverage determinations and exceptions. Advance general notice of immediate substitutions is provided to CMS during bid submission. Advance general notice of market withdrawals is provided to CMS in the advance notice of immediate negative formulary changes that Part D sponsors provide to enrollees and other specified entities required earlier in this paragraph (f)(2).
+
+(3) *Retrospective notice and update.* In the case of a negative formulary change described in paragraph (e)(2) of this section, the Part D sponsor must provide notice to other specified entities and written notice to affected enrollees as soon as possible, but no later than by the end of the month following any month in which the change takes effect. The requirement to provide notice to other specified entities is satisfied by the Part D sponsor's compliance with § 423.128(d)(2). Part D sponsors also must submit such changes to CMS, in a form and manner specified by CMS, in their next required or scheduled formulary update.
+
+(4) *Content of written notice:* Any written notice required under this paragraph (other than advance general notice) must contain all of the following information:
+
+(i) The name of the affected covered Part D drug.
+
+(ii) Whether the plan is removing the covered Part D drug from the formulary, moving it to a higher cost-sharing tier, or adding or making more restrictive PA, ST, or QL requirements.
+
+(iii) The reason for the negative formulary change.
+
+(iv) Appropriate alternative drugs on the formulary in the same or a lower cost-sharing tier and the expected cost sharing for those drugs.
+
+(v) For formulary changes other than those described in paragraph (e)(2)(ii) of this section, the means by which enrollees may obtain a coverage determination under § 423.566, including an exception to a coverage rule under § 423.578.
+
+(5) *Notice of other formulary changes.* Part D sponsors provide appropriate notice of all formulary changes other than negative formulary changes by providing—
+
+(i) Advance general notice to all current and prospective enrollees, CMS, and other specified entities in formulary and other applicable beneficiary communication materials advising them that the Part D sponsor may make formulary changes other than negative formulary changes at any time and providing information about how to access the plan's online formulary and how to contact the plan; and
+
+(ii) Notice of specific formulary changes to other specified entities by complying with § 423.128(d)(2) and to CMS by submitting such changes to CMS in their next required or scheduled formulary update.
+
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 2888, Jan. 16, 2009; 75 FR 19816, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21572, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16738, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 84 FR 23883, May 23, 2019; 84 FR 26579, June 7, 2019; 89 FR 30833, Apr. 23, 2024]

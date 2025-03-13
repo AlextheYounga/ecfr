@@ -1,7 +1,5 @@
 ##### § 422.111 Disclosure requirements. #####
 
-Link to an amendment published at 89 FR 30818, Apr. 23, 2024.
-
 (a) *Detailed description.* An MA organization must disclose the information specified in paragraph (b) of this section in the manner specified by CMS—
 
 (1) To each enrollee electing an MA plan it offers;
@@ -178,7 +176,7 @@ Link to an amendment published at 89 FR 30818, Apr. 23, 2024.
 
 (A) Provides effective real-time communication with individuals using auxiliary aids and services, including TTYs and all forms of Federal Communication Commission-approved telecommunications relay systems, when using automated-attendant systems. See 28 CFR 35.161 and 36.303(d).
 
-(B) Connects 80 percent of incoming calls requiring TTY services to a TTY operator within 7 minutes.
+(B) Establishes contact with a customer service representative within 7 minutes on no fewer than 80 percent of incoming calls requiring TTY services.
 
 (2) An Internet Web site that includes, at a minimum the following:
 
@@ -254,4 +252,6 @@ Link to an amendment published at 89 FR 30818, Apr. 23, 2024.
 
 (5) *Exceptions.* MA organizations are not required to send the explanation of benefits to dual-eligible enrollees.
 
-[63 FR 35077, June 26, 1998, as amended at 64 FR 7980, Feb. 17, 1999; 65 FR 40321, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4722, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54220, 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6095, Jan. 19, 2021; 88 FR 22329, Apr. 12, 2023]
+(l) *Mid-year notice of unused supplemental benefits.* Beginning January 1, 2026, MA organizations must send notification annually, no sooner than June 30 and no later than July 31, to each enrollee with unused supplemental benefits consistent with the requirements of § 422.2267(e)(42).
+
+[63 FR 35077, June 26, 1998, as amended at 64 FR 7980, Feb. 17, 1999; 65 FR 40321, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4722, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54220, 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6095, Jan. 19, 2021; 88 FR 22329, Apr. 12, 2023; 89 FR 30818, Apr. 23, 2024]

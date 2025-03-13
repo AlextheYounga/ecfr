@@ -1,6 +1,6 @@
 ##### § 50.11 General conditions applicable to permits. #####
 
-Link to an amendment published at 89 FR 46733, May 29, 2024.
+Link to an amendment published at 89 FR 46733, May 29, 2024.Link to an amendment published at 89 FR 47460, June 3, 2024.
 
 (a) The following terms and conditions, among others as the Commission will find are required by the public interest, will attach to the issuance of each permit and to the exercise of the rights granted under the permit.
 

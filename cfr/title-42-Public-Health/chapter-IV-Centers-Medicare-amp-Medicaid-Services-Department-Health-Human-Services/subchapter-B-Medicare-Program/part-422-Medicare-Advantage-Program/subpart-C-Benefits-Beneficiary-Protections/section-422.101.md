@@ -1,7 +1,5 @@
 ##### § 422.101 Requirements relating to basic benefits. #####
 
-Link to an amendment published at 89 FR 30817, Apr. 23, 2024.
-
 Except as specified in § 422.318 (for entitlement that begins or ends during a hospital stay) and § 422.320 (with respect to hospice care), each MA organization must meet the following requirements:
 
 (a) Provide coverage of, by furnishing, arranging for, or making payment for, all services that are covered by Part A and Part B of Medicare (if the enrollee is entitled to benefits under both parts) or by Medicare Part B (if entitled only under Part B) and that are available to beneficiaries residing in the plan's service area. Services may be provided outside of the service area of the plan if the services are accessible and available to enrollees.
@@ -120,6 +118,8 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (v) Coordinate communication among plan personnel, providers, and beneficiaries.
 
+(vi) For I-SNPs, ensure that contracts with long-term care institutions (listed in the definition of the term institutionalized in § 422.2) contain requirements allowing I-SNP clinical and care coordination staff access to enrollees of the I-SNP who are institutionalized.
+
 (3)(i) All MA organizations wishing to offer or continue to offer a SNP will be required to be approved by the National Committee for Quality Assurance (NCQA) effective January 1, 2012 and subsequent years. All SNPs must submit their model of care (MOC) to CMS for NCQA evaluation and approval in accordance with CMS guidance.
 
 (ii) As part of the evaluation and approval of the SNP model of care, NCQA must evaluate whether goals were fulfilled from the previous model of care.
@@ -130,6 +130,52 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (C) If the SNP model of care did not fulfill the previous MOC's goals, the plan must indicate in the MOC submission how it will achieve or revise the goals for the plan's next MOC.
 
-(iii) Each element of the model of care of a plan must meet a minimum benchmark score of 50 percent, and a plan's model of care will only be approved if each element of the model of care meets the minimum benchmark.
+(iii) Each element of the model of care of a plan must meet a minimum benchmark score of 50 percent and each MOC must meet an aggregate minimum benchmark of 70 percent, and a plan's model of care is only approved if each element of the model of care meets the minimum benchmark and the model of care meets the aggregate minimum benchmark.
 
-[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021; 86 FR 29528, June 2, 2021; 87 FR 22427, Apr. 14, 2022; 87 FR 27894, May 9, 2022; 88 FR 22328, Apr. 12, 2023]
+(A) An MOC for a C-SNP that receives a passing score is approved for 1 year.
+
+(B)(*1*) An MOC for an I-SNP or D-SNP that receives an aggregate minimum benchmark score of 85 percent or greater is approved for 3 years.
+
+(*2*) An MOC for an I-SNP or D-SNP that receives a score of 75 percent to 84 percent is approved for 2 years.
+
+(*3*) An MOC for an I-SNP or DSNP that receives a score of 70 percent to 74 percent is approved for 1 year.
+
+(C) For an MOC that fails to meet a minimum element benchmark score of 50 percent or an MOC that fails to meet the aggregate minimum benchmark of 70 percent, the MA organization is permitted a one-time opportunity to resubmit the corrected MOC for reevaluation; and an MOC that is corrected and resubmitted using this cure period is approved for only 1 year.
+
+(iv) An MA organization sponsoring a SNP that seeks to revise the MOC before the end of the MOC approval period may submit changes to the MOC as off-cycle MOC submissions for review by NCQA as follows:
+
+(A) C-SNPs, D-SNPs and I-SNPs must submit updates and corrections to their NCQA-approved MOC when CMS requires an off-cycle submission to ensure compliance with applicable law.
+
+(B) D-SNPs and I-SNPs must submit updates and corrections to their NCQA approved MOC between June 1st and November 30th of each calendar year if the I-SNP or D-SNP wishes to make any of the following revisions:
+
+(*1*) Substantial changes in policies or procedures pertinent to any of the following:
+
+(*i*) The health risk assessment (HRA) process.
+
+(*ii*) Revising processes to develop and update the Individualized Care Plan (ICP).
+
+(*iii*) The integrated care team process.
+
+(*iv*) Risk stratification methodology.
+
+(*v*) Care transition protocols.
+
+(*2*) Target population changes that warrant modifications to care management approaches.
+
+(*3*) Changes in a SNP's plan benefit package between consecutive contract years that can considerably impact critical functions necessary to maintain member well-being and are related SNP operations.
+
+(*4*) Changes in level of authority or oversight for personnel conducting care coordination activities (for example, medical provider to non-medical provider, clinical vs. non-clinical personnel).
+
+(*5*) Changes to quality metrics used to measure performance.
+
+(C) NCQA only reviews off-cycle submissions after the start of the effective date of the current MOC unless CMS deems it necessary to ensure compliance with the applicable regulations.
+
+(D) SNPs may not implement any changes to a MOC until NCQA has reviewed and approved the off-cycle MOC changes. NCQA does not rescore the MOC during the off-cycle review of changes to the MOC, but changes are reviewed and determined by NCQA to be either “Acceptable” or “Non-acceptable.” “Acceptable” means that the changes have been approved by NCQA and the MOC has been updated; “Non-acceptable” means the changes have been rejected by NCQA and the MOC has not been changed. If NCQA determines that off-cycle changes are unacceptable, the SNP must continue to implement the MOC as originally approved.
+
+(E) Successful revision of the MOC under paragraph (f)(3)(iv)(B) of this section does not change the MOC's original period of approval.
+
+(F) C-SNPs are only permitted to submit an off-cycle MOC submission when CMS requires an off-cycle submission to ensure compliance with applicable law.
+
+(G) When a deficiency is identified in the off-cycle MOC revision(s) submitted by a SNP, the SNP has one opportunity to submit a corrected off-cycle revision between June 1st and November 30th of each calendar year.
+
+[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021; 86 FR 29528, June 2, 2021; 87 FR 22427, Apr. 14, 2022; 87 FR 27894, May 9, 2022; 88 FR 22328, Apr. 12, 2023; 89 FR 30817, Apr. 23, 2024]

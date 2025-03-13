@@ -1,7 +1,5 @@
 ##### § 423.38 Enrollment periods. #####
 
-Link to an amendment published at 89 FR 30830, Apr. 23, 2024.
-
 (a) *Initial enrollment period for Part D—Basic rule.* The initial enrollment period is the period during which an individual is first eligible to enroll in a Part D plan.
 
 (1) *In 2005.* An individual who is first eligible to enroll in a Part D plan on or prior to January 31, 2006, has an initial enrollment period from November 15, 2005 through May 15, 2006.
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 30830, Apr. 23, 2024.
 
 (3) The individual's enrollment or non-enrollment in a Part D plan is unintentional, inadvertent, or erroneous because of the error, misrepresentation, or inaction of a Federal employee, or any person authorized by the Federal government to act on its behalf.
 
-(4)(i) Except as provided in paragraph (ii), the individual is a full-subsidy eligible individual or other subsidy-eligible individual as defined in § 423.772, who is making an allowable onetime-per-calendar-quarter election between January through September.
+(4)(i) Except as provided in paragraph (ii) of this section, the individual is a full-subsidy eligible individual or other subsidy-eligible individual as defined in § 423.772, who is making a one-time-per month election into a PDP.
 
 (ii) An individual described in paragraph (i) is not eligible for this special enrollment period if he or she has been notified that he or she has been identified as a “potential at-risk beneficiary” or “at-risk beneficiary” as defined in § 423.100 and such identification has not been terminated in accordance with § 423.153(f)).
 
@@ -36,7 +34,9 @@ Link to an amendment published at 89 FR 30830, Apr. 23, 2024.
 
 (6) The PDP sponsor's contract is terminated by the PDP sponsor or by CMS, as provided under § 423.507 through § 423.510, or the PDP plan is no longer offered in the area when the individual resides.
 
-(7) The individual is no longer eligible for the PDP because of a change in his or her place of residence to a location outside of the PDP region(s) in which the PDP is offered.
+(7)(i) The individual is no longer eligible for the PDP because of a change in his or her place of residence to a location outside of the PDP region(s) in which the PDP is offered; or
+
+(ii) The individual who, as a result of a change in permanent residence, has new Part D plan options available to them.
 
 (8) The individual demonstrates to CMS, in accordance with guidelines issued by CMS, that the PDP sponsor offering the PDP substantially violated a material provision of its contract under this part in relation to the individual, including, but not limited to any of the following:
 
@@ -102,15 +102,17 @@ Link to an amendment published at 89 FR 30830, Apr. 23, 2024.
 
 (ii) Part D plan sponsors may determine eligibility for this SEP when the criterion is met, ensuring adequate documentation of the situation, including records indicating the date of the individual's request, the amount of time taken to provide accessible versions of materials and the amount of time it takes for the same information to be provided to an individual who does not request an accessible format.
 
-(23) Individuals affected by an emergency or major disaster declared by a federal, state or local government entity are eligible for a SEP to make a Part D enrollment or disenrollment election. The SEP starts as of the date the declaration is made, the incident start date or, if different, the start date identified in the declaration, whichever is earlier, and ends 2 full calendar months following the end date identified in the declaration or, if different, the date the end of the incident is announced, whichever is later. The individual is eligible for this SEP provided the individual—
+(23) Individuals affected by an emergency or major disaster declared by a Federal, State or local government entity are eligible for an SEP to make a Part D enrollment or disenrollment election. The SEP starts as of the date the declaration is made, the incident start date or, if different, the start date identified in the declaration, whichever is earlier. The SEP ends 2 full calendar months following the end date identified in the declaration or, if different, the date the end of the incident is announced, the date the incident automatically ends under applicable state or local law, or, if the incident end date is not otherwise identified, the incident end date specified in paragraph (c)(23)(i) of this section.
 
-(i)(A) Resides, or resided at the start of the SEP eligibility period described in this paragraph (c)(23), in an area for which a Federal, state or local government entity has declared an emergency or major disaster; or
+(i) If the incident end date of an emergency or major disaster is not otherwise identified, the incident end date is 1 year after the SEP start date or, if applicable, the date of a renewal or extension of the emergency or disaster declaration, whichever is later. Therefore, the maximum length of this SEP, if the incident end date is not otherwise identified, is 14 full calendar months after the SEP start date or, if applicable, the date of a renewal or extension of the emergency or disaster declaration.
+
+(ii)(A) Resides, or resided at the start of the SEP eligibility period described in this paragraph (c)(23), in an area for which a Federal, state or local government entity has declared an emergency or major disaster; or
 
 (B) Does not reside in an affected area but relies on help making healthcare decisions from one or more individuals who reside in an affected area;
 
-(ii) Was eligible for another election period at the time of SEP eligibility period described in this paragraph (c)(23); and
+(iii) Was eligible for another election period at the time of SEP eligibility period described in this paragraph (c)(23); and
 
-(iii) Did not make an election during that other election period due to the emergency or major disaster.
+(iv) Did not make an election during that other election period due to the emergency or major disaster.
 
 (24) The individual is using the SEP at § 422.62(b)(8) of this chapter to disenroll from a MA plan that includes Part D benefits.
 
@@ -160,10 +162,14 @@ Link to an amendment published at 89 FR 30830, Apr. 23, 2024.
 
 (34) The individual enrolls in Medicare premium-Part A or Part B using an exceptional condition SEP, as described in 42 CFR parts 406.27 and 407.23. The SEP begins when the individual submits their premium-Part A or Part B application and continues for the first 2 months of enrollment in premium Part A or Part B. The Part D plan enrollment is effective the first of the month following the month the Part D plan receives the enrollment request.
 
-(35) The individual meets other exceptional circumstances as CMS may provide.
+(35)(i) The individual is a full-benefit dual eligible individual (as defined in § 423.772) making a one-time-per month election into a fully integrated dual eligible special needs plan as defined in § 422.2 of this chapter, a highly integrated dual eligible special needs plan as defined in § 422.2 of this chapter, or an applicable integrated plan as defined in § 422.561 of this chapter.
+
+(ii) The SEP is available only to facilitate aligned enrollment as defined in § 422.2 of this chapter.
+
+(36) The individual meets other exceptional circumstances as CMS may provide.
 
 (d) *Enrollment period to coordinate with MA annual 45-day disenrollment period.* Through 2018, an individual enrolled in an MA plan who elects Original Medicare from January 1 through February 14, as described in § 422.62(a)(5) of this chapter, may also elect a PDP during this time.
 
 (e) *Enrollment period to coordinate with MA open enrollment period.* For 2019 and subsequent years, an individual who makes an election as described in § 422.62(a)(3) of this chapter, may make an election to enroll in or disenroll from Part D coverage. An individual who elects Original Medicare during the MA open enrollment period may elect to enroll in a PDP during this time.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19816, Apr. 15, 2010; 76 FR 21570, Apr. 15, 2011; 83 FR 16737, Apr. 16, 2018; 85 FR 33909, June 2, 2020; 88 FR 22337, Apr. 12, 2023]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19816, Apr. 15, 2010; 76 FR 21570, Apr. 15, 2011; 83 FR 16737, Apr. 16, 2018; 85 FR 33909, June 2, 2020; 88 FR 22337, Apr. 12, 2023; 89 FR 30830, Apr. 23, 2024]

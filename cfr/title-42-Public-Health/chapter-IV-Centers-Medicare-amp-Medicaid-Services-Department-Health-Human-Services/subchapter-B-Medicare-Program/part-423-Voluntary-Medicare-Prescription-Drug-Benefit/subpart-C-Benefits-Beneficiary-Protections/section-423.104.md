@@ -1,7 +1,5 @@
 ##### § 423.104 Requirements related to qualified prescription drug coverage. #####
 
-Link to an amendment published at 89 FR 30833, Apr. 23, 2024.
-
 (a) *General.* Subject to the conditions and limitations set forth in this subpart, a Part D sponsor must provide enrollees with coverage of the benefits described in paragraph (c) of this section. The benefits may be provided directly by the Part D sponsor or through arrangements with other entities. CMS reviews and approves these benefits consistent with § 423.272, and using written policy guidelines and requirements in this part and other CMS instructions.
 
 (b) *Availability of prescription drug plan.* A PDP sponsor offering a prescription drug plan must offer the plan—
@@ -44,7 +42,7 @@ Link to an amendment published at 89 FR 30833, Apr. 23, 2024.
 
 (*5*) *Claims history.* Except for newly FDA-approved Part D drugs only recently available on the market for which Part D sponsors would have little or no claims data, CMS approves placement of a Part D drug on a specialty tier when that Part D sponsor's claims data from the time period specified in paragraph (d)(2)(iv)(C) of this section demonstrates that greater than 50 percent of the Part D sponsor's PDEs for a given Part D drug, when adjusted for 30-day equivalent supplies, have ingredient costs for 30-day equivalent supplies, as described in paragraph (d)(2)(iv)(A)(*2*) of this section, that exceed the specialty-tier cost threshold.
 
-(*6*) *No claims history.* For newly FDA-approved Part D drugs only recently available on the market for which Part D sponsors would have little or no claims data, CMS approves placement of a Part D drug on a specialty tier when that Part D sponsor estimates that ingredient cost portion of their negotiated prices for a 30-day equivalent supply, as defined in subparagraph (d)(2)(iv)(A)(*2*), is anticipated to exceed the specialty-tier cost threshold more than 50 percent of the time, subject to the requirements at § 423.120(b).
+(*6*) *No claims history.* For newly FDA-approved Part D drugs only recently available on the market for which Part D sponsors would have little or no claims data, CMS approves placement of a Part D drug on a specialty tier when that Part D sponsor estimates that ingredient cost portion of their negotiated prices for a 30-day equivalent supply, as defined in subparagraph (d)(2)(iv)(A)(*2*), is anticipated to exceed the specialty-tier cost threshold more than 50 percent of the time, subject to the requirements at §§ 423.120(b), (e), and (f).
 
 (B) *Limit on specialty-tier cost threshold adjustment.* (*1*) CMS increases the specialty-tier cost threshold for a plan year only if the amount determined in paragraph (d)(2)(iv)(A)(*3*) of this section for a plan year is at least 10 percent above the specialty tier cost threshold for the prior plan year.
 
@@ -200,4 +198,4 @@ Link to an amendment published at 89 FR 30833, Apr. 23, 2024.
 
 (i) *Daily cost-sharing rate.* Beginning January 1, 2014, a Part D sponsor is required to provide its enrollees access to a daily cost-sharing rate in accordance with § 423.153(b)(4).
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1544, Jan. 12, 2009; 75 FR 19816, Apr. 15, 2010; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 80 FR 7963, Feb. 12, 2015; 86 FR 6115, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1544, Jan. 12, 2009; 75 FR 19816, Apr. 15, 2010; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 80 FR 7963, Feb. 12, 2015; 86 FR 6115, Jan. 19, 2021; 89 FR 30833, Apr. 23, 2024]

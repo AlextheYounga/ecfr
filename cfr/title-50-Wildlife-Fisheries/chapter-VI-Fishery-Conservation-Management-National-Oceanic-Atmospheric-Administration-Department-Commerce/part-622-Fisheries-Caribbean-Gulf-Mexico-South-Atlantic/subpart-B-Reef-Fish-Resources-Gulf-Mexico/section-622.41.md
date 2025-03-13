@@ -1,6 +1,6 @@
 ##### § 622.41 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 89 FR 40436, May 10, 2024.Link to an amendment published at 89 FR 41899, May 14, 2024.Link to a correction of the above amendment published at 89 FR 46333, May 29, 2024.
+Link to an amendment published at 89 FR 41899, May 14, 2024.
 
 (a) *Greater amberjack*—(1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the annual catch target (ACT) specified in § 622.39(a)(1)(v)(commercial quota), the Assistant Administrator for Fisheries, NOAA, (AA) will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year.
 
@@ -28,15 +28,29 @@ Link to an amendment published at 89 FR 40436, May 10, 2024.Link to an amendment
 
 (3) The stock complex ACLs for Other SWG, in gutted weight, are 688,000 lb (312,072 kg) for 2012, 700,000 lb (317,515 kg) for 2013, 707,000 lb (320,690 kg) for 2014, and 710,000 lb (322,051 kg) for 2015 and subsequent years.
 
-(d) *Gag*—(1) *Commercial sector.* The IFQ program for groupers and tilefishes in the Gulf of Mexico serves as the accountability measure for commercial gag. The applicable commercial ACLs for gag, in gutted weight, are 0.788 million lb (0.357 million kg) for 2012, 0.956 million lb (0.434 million kg) for 2013, 1.100 million lb (0.499 million kg) for 2014, and 1.217 million lb (0.552 million kg) for 2015 and subsequent fishing years.
+(d) *Gag*—(1) *Commercial sector.* See table 1 for the commercial ACLs in gutted weight. The commercial ACT for gag is equal to the applicable commercial quota specified in § 622.39(a)(1)(iii)(B). The IFQ program for groupers and tilefishes in the Gulf of Mexico in § 622.22 serves as the accountability measure for the commercial harvest of gag.
 
-(2) *Recreational sector.* (i) Without regard to overfished status, if gag recreational landings, as estimated by the SRD, reach or are projected to reach the applicable ACLs specified in paragraph (d)(2)(iv) of this section, the AA will file a notification with the Office of the Federal Register, to close the recreational sector for the remainder of the fishing year. On and after the effective date of such a notification, the bag and possession limit of gag in or from the Gulf EEZ is zero. This bag and possession limit applies in the Gulf on board a vessel for which a valid Federal charter vessel/headboat permit for Gulf reef fish has been issued, without regard to where such species were harvested, *i.e.* in state or Federal waters.
+|Year |Commercial ACL in lb  <br/>(kg)|
+|-----|-------------------------------|
+|2024 |       155,000 (70,307)        |
+|2025 |       215,000 (97,522)        |
+|2026 |       269,000 (122,016)       |
+|2027 |       330,000 (149,685)       |
+|2028+|       404,000 (183,251)       |
 
-(ii) Without regard to overfished status, and in addition to the measures specified in paragraph (d)(2)(i) of this section, if gag recreational landings, as estimated by the SRD, exceed the applicable ACLs specified in paragraph (d)(2)(iv) of this section, the AA will file a notification with the Office of the Federal Register to maintain the gag ACT, specified in paragraph (d)(2)(iv) of this section, for that following fishing year at the level of the prior year's ACT, unless the best scientific information available determines that maintaining the prior year's ACT is unnecessary. In addition, the notification will reduce the length of the recreational gag fishing season the following fishing year by the amount necessary to ensure gag recreational landings do not exceed the recreational ACT in the following fishing year.
+(2) *Recreational sector.* (i) See table 2 for the recreational ACLs and ACTs in gutted weight.
 
-(iii) If gag are overfished, based on the most recent status of U.S. Fisheries Report to Congress, and gag recreational landings, as estimated by the SRD, exceed the applicable ACL specified in paragraph (d)(2)(iv) of this section, the following measures will apply. In addition to the measures specified in paragraphs (d)(2)(i) and (ii) of this section, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the ACL for that following year by the amount of the ACL overage in the prior fishing year, and reduce the ACT, as determined in paragraph (d)(2)(ii) of this section, by the amount of the ACL overage in the prior fishing year, unless the best scientific information available determines that a greater, lesser, or no overage adjustment is necessary.
+|Year |Recreational ACL  <br/>in lb  <br/>(kg)|Recreational ACT  <br/>in lb  <br/>(kg)|
+|-----|---------------------------------------|---------------------------------------|
+|2024 |           288,000 (130,635)           |           230,000 (104,326)           |
+|2025 |           399,000 (180,983)           |           319,000 (144,696)           |
+|2026 |           499,000 (226,343)           |           399,000 (180,983)           |
+|2027 |           613,000 (278,052)           |           490,000 (222,260)           |
+|2028+|           751,000 (340,648)           |           600,000 (272,155)           |
 
-(iv) The applicable recreational ACLs for gag, in gutted weight, are 1.232 million lb (0.559 million kg) for 2012, 1.495 million lb (0.678 million kg) for 2013, 1.720 million lb (0.780 million kg) for 2014, and 1.903 million lb (0.863 million kg) for 2015 and subsequent fishing years. The recreational ACTs for gag, in gutted weight, are 1.031 million lb (0.468 million kg) for 2012, 1.287 million lb (0.584 million kg) for 2013, 1.519 million lb (0.689 million kg) for 2014, and 1.708 million lb (0.775 million kg) for 2015 and subsequent fishing years.
+(ii) If the NMFS SRD estimates that gag recreational landings have reached or are projected to reach the applicable recreational ACT specified in paragraph (d)(2)(i) of this section, the AA will file a notification with the Office of the Federal Register to close the recreational sector for the remainder of the fishing year. On and after the effective date of such a notification, the bag and possession limits for gag in or from the Gulf EEZ are zero. These bag and possession limits apply in the Gulf on board a vessel for which a valid Federal charter vessel/headboat permit for Gulf reef fish has been issued without regard to where such species were harvested, *i.e.,* in state or Federal waters.
+
+(iii) In addition to the measures specified in paragraph (d)(2)(ii) of this section, if the NMFS SRD estimates that gag recreational landings have exceeded the applicable ACL specified in paragraph (d)(2)(i) of this section and gag is overfished based on the most recent Status of U.S. Fisheries Report to Congress, the following measure will apply. The AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year, to reduce the recreational ACL and ACT for that following year by the amount of the ACL overage in the prior fishing year, unless the best scientific information available determines that a greater, lesser, or no overage adjustment is necessary.
 
 (e) *Red grouper*—(1) *Commercial sector.* The IFQ program for groupers and tilefishes in the Gulf of Mexico serves as the accountability measure for commercial red grouper. The commercial ACT for red grouper is equal to the applicable quota specified in § 622.39(a)(1)(iii)(C). The commercial ACL for red grouper in gutted weight is 2.94 million lb (1.33 million kg).
 

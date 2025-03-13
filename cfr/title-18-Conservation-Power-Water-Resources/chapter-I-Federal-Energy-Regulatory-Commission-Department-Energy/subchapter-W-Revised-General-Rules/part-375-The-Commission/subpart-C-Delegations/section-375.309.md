@@ -20,4 +20,4 @@ The Commission authorizes the General Counsel or the General Counsel's designee 
 
 (i) Deny or grant, in whole or in part, an appeal of a Freedom of Information Act determination by the Director of the Office of External Affairs.
 
-[Order 38, 44 FR 46453, Aug. 8, 1979]Editorial Note:For Federal Register citations affecting § 375.309, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 38, 44 FR 46453, Aug. 8, 1979] Editorial Note:For Federal Register citations affecting § 375.309, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

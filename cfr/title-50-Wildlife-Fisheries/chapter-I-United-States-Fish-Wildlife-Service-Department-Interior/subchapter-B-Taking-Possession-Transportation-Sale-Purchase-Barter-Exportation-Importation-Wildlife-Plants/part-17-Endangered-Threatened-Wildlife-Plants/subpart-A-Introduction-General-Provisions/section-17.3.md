@@ -18,7 +18,7 @@ In addition to the definitions contained in part 10 of this subchapter, and unle
 
 *Captivity* means that living wildlife is held in a controlled environment that is intensively manipulated by man for the purpose of producing wildlife of the selected species, and that has boundaries designed to prevent animal, eggs or gametes of the selected species from entering or leaving the controlled environment. General characteristics of captivity may include but are not limited to artificial housing, waste removal, health care, protection from predators, and artificially supplied food.
 
-*Changed circumstances* are changes in circumstances affecting a species or geographic area covered by a conservation plan that can reasonably be anticipated by the plan's developers and the Service for which responses can be identified in a conservation plan (*e.g.,* the listing of new species, effects of climate change, or a fire or other natural catastrophic event in areas prone to those events).
+*Changed circumstances* are changes in circumstances affecting a species or geographic area covered by a conservation plan that can reasonably be anticipated by the plan's developers and the Service for which responses can be identified in a conservation plan (e.g., the listing of new species, effects of climate change, or a fire or other natural catastrophic event in areas prone to those events).
 
 *Conservation plan* means the plan required by section 10(a)(2)(A) of the ESA that an applicant must submit when applying for an incidental take permit. Conservation plans also are known as “habitat conservation plans” or “HCPs.”
 

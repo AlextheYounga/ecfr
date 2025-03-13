@@ -1,7 +1,5 @@
 ##### § 422.500 Scope and definitions. #####
 
-Link to an amendment published at 89 FR 30823, Apr. 23, 2024.
-
 (a) *Scope.* This subpart sets forth application requirements for entities seeking a contract as a Medicare organization offering an MA plan, including MA organizations offering a specialized MA plan for special needs individuals. MA organizations offering prescription drug plans must, in addition to the requirements of this part, follow the requirements of part 423 of this chapter specifically related to the prescription drug benefit.
 
 (b) *Definitions.* For purposes of this subpart, the following definitions apply:
@@ -25,6 +23,20 @@ Link to an amendment published at 89 FR 30823, Apr. 23, 2024.
 (2) A claim that otherwise conforms to the clean claim requirements for equivalent claims under original Medicare.
 
 *Downstream entity* means any party that enters into an acceptable written arrangement below the level of the arrangement between an MA organization (or contract applicant) and a first tier entity. These written arrangements continue down to the level of the ultimate provider of both health and administrative services.
+
+*Final settlement adjustment period* means the period of time between when the contract terminates and the date the MA organization is issued a notice of the final settlement amount.
+
+*Final settlement amount* is the final payment amount that CMS owes and ultimately pays to an MA organization, or that an MA organization owes and ultimately pays to CMS, with respect to an MA contract that has consolidated, nonrenewed, or terminated. The final settlement amount is calculated by summing final retroactive payment adjustments for a specific contract that accumulated after that contract ceases operation but before the calculation of the final settlement amount and the following applicable reconciliation amounts that have been completed as of the date the notice of final settlement has been issued, without accounting for any data submitted after the data submission deadlines for calculating these reconciliation amounts:
+
+(1) Risk adjustment reconciliation (described in § 422.310);
+
+(2) Part D annual reconciliation (described in § 423.343);
+
+(3) Coverage Gap Discount Program annual reconciliation (described in § 423.2320) and;
+
+(4) MLR remittances (described in §§ 422.2470 and 423.2470).
+
+*Final settlement process* means for a contract that has been consolidated, nonrenewed, or terminated, the process by which CMS calculates the final settlement amount, issues the final settlement amount along with supporting documentation in the notice of final settlement to the MA organization, receives responses from the MA organization requesting an appeal of the final settlement amount, and takes final actions to adjudicate an appeal (if requested) and make payments to or receive payments from the MA organization. The final settlement amount is calculated after all applicable reconciliations have occurred after a contract has been consolidated, nonrenewed, or terminated.
 
 *First tier entity* means any party that enters into an acceptable written arrangement with an MA organization or contract applicant to provide administrative services or health care services for a Medicare eligible individual.
 
@@ -88,4 +100,4 @@ Link to an amendment published at 89 FR 30823, Apr. 23, 2024.
 
 (4) Is the subject of a fraud hotline tip verified by further evidence.
 
-[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000; 70 FR 4736, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 77 FR 22167, Apr. 12, 2012; 86 FR 6098, Jan. 19, 2021]
+[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000; 70 FR 4736, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 77 FR 22167, Apr. 12, 2012; 86 FR 6098, Jan. 19, 2021; 89 FR 30823, Apr. 23, 2024]

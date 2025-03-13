@@ -1,7 +1,5 @@
 ##### § 422.254 Submission of bids. #####
 
-Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
-
 (a) *General rules.* (1) Not later than the first Monday in June, each MA organization must submit to CMS an aggregate monthly bid amount for each MA plan (other than an MSA plan) the organization intends to offer in the upcoming year in the service area (or segment of such an area if permitted under § 422.262(c)(2)) that meets the requirements in paragraph (b) of this section. With each bid submitted, the MA organization must provide the information required in paragraph (c) of this section and, for plans with rebates as described at § 422.266(a), the MA organization must provide the information required in paragraph (d) of this section.
 
 (2) CMS has the authority to determine whether and when it is appropriate to apply the bidding methodology described in this section to ESRD MA enrollees.
@@ -9,6 +7,8 @@ Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
 (3) If the bid submission described in paragraphs (a)(1) and (2) of this section is not complete, timely, or accurate, CMS has the authority to impose sanctions under subpart O of this part or may choose not to renew the contract.
 
 (4) CMS may decline to accept any or every otherwise qualified bid submitted by an MA organization or potential MA organization.
+
+(5) After an MA organization is permitted to begin marketing prospective plan year offerings for the following contract year (consistent with § 422.2263(a)), the MA organization must not change and must provide the benefits described in its CMS-approved plan benefit package (PBP) (as defined in § 422.162) for the following contract year without modification, except where a modification in benefits is required by law. This prohibition on changes applies to cost sharing and premiums as well as benefits.
 
 (b) *Bid requirements.* (1) The monthly aggregate bid amount submitted by an MA organization for each plan is the organization's estimate of the revenue required for the following categories for providing coverage to an MA eligible beneficiary with a national average risk profile for the factors described in § 422.308(c):
 
@@ -82,4 +82,4 @@ Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
 
 (f) Separate bids must be submitted for Part A and Part B enrollees and Part B-only enrollees for each MA plan offered.
 
-[63 FR 35085, June 26, 1998, as amended at 70 FR 52026, Sept. 1, 2005; 75 FR 19806, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 83 FR 16733, Apr. 16, 2018; 84 FR 15833, Apr. 16, 2019]
+[63 FR 35085, June 26, 1998, as amended at 70 FR 52026, Sept. 1, 2005; 75 FR 19806, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 83 FR 16733, Apr. 16, 2018; 84 FR 15833, Apr. 16, 2019; 89 FR 30822, Apr. 23, 2024]

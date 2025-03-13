@@ -1,7 +1,5 @@
 ##### § 435.956 Verification of other non-financial information. #####
 
-Link to an amendment published at 89 FR 22871, Apr. 2, 2024.
-
 (a) *Citizenship and immigration status.* (1)(i) The agency must—
 
 (A) Verify citizenship status through the electronic service established in accordance with § 435.949 or alternative mechanism authorized in accordance with § 435.945(k), if available; and
@@ -52,13 +50,7 @@ Link to an amendment published at 89 FR 22871, Apr. 2, 2024.
 
 (3) If, by the end of the reasonable opportunity period, the individual's citizenship or satisfactory immigration status has not been verified in accordance with paragraph (a) of this section, the agency must take action within 30 days to terminate eligibility in accordance with part 431 subpart E (relating to notice and appeal rights) of this chapter, except that §§ 431.230 and 431.231 of this chapter (relating to maintaining and reinstating services) may be applied at State option.
 
-(4)(i) The agency may establish in its State plan reasonable limits on the number of reasonable opportunity periods during which medical assistance is furnished which a given individual may receive once denied eligibility for Medicaid due to failure to verify citizenship or satisfactory immigration status, provided that the conditions in paragraph (b)(4)(ii) of this section are met.
-
-(ii) Prior to implementing any limits under paragraph (b)(4)(i) of this section, the agency must—
-
-(A) Demonstrate that the lack of limits jeopardizes program integrity; and
-
-(B) Receive approval of a State plan amendment prior to implementing limits.
+(4) The agency may not limit the number of reasonable opportunity periods an individual may receive.
 
 (c) *State residency.* (1) The agency may verify State residency in accordance with § 435.945(a) of this subpart or through other reasonable verification procedures consistent with the requirements in § 435.952 of this subpart.
 
@@ -70,4 +62,4 @@ Link to an amendment published at 89 FR 22871, Apr. 2, 2024.
 
 (f) *Age, date of birth and household size.* The agency may verify date of birth and the individuals that comprise an individual's household, as defined in § 435.603(f) of this part, in accordance with § 435.945(a) of this subpart or through other reasonable verification procedures consistent with the requirements in § 435.952 of this subpart.
 
-[77 FR 17212, Mar. 23, 2012, as amended at 81 FR 86459, Nov. 30, 2016]
+[77 FR 17212, Mar. 23, 2012, as amended at 81 FR 86459, Nov. 30, 2016; 89 FR 22871, Apr. 2, 2024]

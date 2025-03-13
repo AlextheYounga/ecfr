@@ -1,7 +1,5 @@
 ##### § 423.100 Definitions. #####
 
-Link to an amendment published at 89 FR 30832, Apr. 23, 2024.
-
 As used in this part, unless otherwise specified-
 
 *Actual cost* means the negotiated price for a covered Part D drug when the drug is purchased at a network pharmacy, and the usual and customary price when a beneficiary purchases the drug at an out-of-network pharmacy consistent with § 423.124(a).
@@ -72,6 +70,8 @@ As used in this part, unless otherwise specified-
 
 *Contracted pharmacy network* means licensed pharmacies, including retail, mail-order, and institutional pharmacies under contract with a Part D sponsor to provide covered Part D drugs at negotiated prices to Part D enrollees.
 
+*Corresponding drug* means, respectively, a generic or authorized generic of a brand name drug, an interchangeable biological product of a reference product, or an unbranded biological product marketed under the same biologics license application (BLA) as a brand name biological product.
+
 *Coverage gap* means the period in prescription drug coverage that occurs between the initial coverage limit and the out-of-pocket threshold. For purposes of applying the initial coverage limit, Part D sponsors must apply their plan specific initial coverage limit under basic alternative, enhanced alternative or actuarially equivalent Part D benefit designs.
 
 *Covered Part D* drug means a Part D drug that is included in a Part D plan's formulary, or treated as being included in a Part D plan's formulary as a result of a coverage determination or appeal under §§ 423.566, 423.580, and 423.600, 423.610, 423,620, and 423.630, and obtained at a network pharmacy or an out-of-network pharmacy in accordance with § 423.124.
@@ -96,7 +96,7 @@ As used in this part, unless otherwise specified-
 
 (2) Is a resident of a long-term care facility, of a facility described in section 1905(d) of the Act, or of another facility for which frequently abused drugs are dispensed for residents through a contract with a single pharmacy;
 
-(3) Is being treated for active cancer-related pain or
+(3) Is being treated for cancer-related pain or
 
 (4) Has sickle cell disease.
 
@@ -121,6 +121,8 @@ As used in this part, unless otherwise specified-
 (5) Any other government-funded program whose principal activity is the direct provision of health care to persons.
 
 *Group health plan,* for purposes of applying the definition of incurred costs in § 423.100, has the meaning given such term in 29 U.S.C. 1167(1), but specifically excludes a personal health savings vehicle, as used in this subpart.
+
+*Immediate negative formulary change* means an immediate substitution or market withdrawal that meets the requirements of § 423.120(e)(2)(i) or (ii) respectively.
 
 *Incurred costs* means costs incurred by a Part D enrollee for—
 
@@ -152,6 +154,32 @@ As used in this part, unless otherwise specified-
 
 *Long-term care network pharmacy* means a long-term care pharmacy that is a network pharmacy.
 
+*Maintenance change* means one of the following negative formulary changes with respect to a covered Part D drug:
+
+(1) Making any negative formulary changes to a drug within 90 days of adding a corresponding drug to the same or a lower cost-sharing tier and with the same or less restrictive prior authorization (PA), step therapy (ST), or quantity limit (QL) requirements (other than immediate substitutions that meet the requirements of § 423.120(e)(2)(i)).
+
+(2) Making any negative formulary changes to a reference product within 90 days of adding a biosimilar biological product other than an interchangeable biological product of that reference product to the same or a lower cost-sharing tier and with the same or less restrictive PA, ST, or QL requirements.
+
+(3) Removing a non-Part D drug.
+
+(4) Adding or making more restrictive PA, ST, or QL requirements based upon a new FDA-mandated boxed warning.
+
+(5) Removing a drug withdrawn from sale by the manufacturer or that FDA determines to be withdrawn for safety or effectiveness reasons if the Part D sponsor chooses not to treat it as an immediate negative formulary change.
+
+(6) Removing a drug based on long term shortage and market availability.
+
+(7) Making negative formulary changes based upon new clinical guidelines or information or to promote safe utilization.
+
+(8) Adding PA to help determine Part B versus Part D coverage.
+
+*Negative formulary change* means one of the following changes with respect to a covered Part D drug:
+
+(1) Removing a drug from a formulary.
+
+(2) Moving a drug to a higher cost-sharing tier.
+
+(3) Adding or making more restrictive prior authorization (PA), step therapy (ST), or quantity limit (QL) requirements. Negative formulary changes do not include safety-based claim edits which are not submitted to CMS as part of the formulary.
+
 *Negotiated price* means the price for a covered Part D drug that—
 
 (1) The Part D sponsor (or other intermediary contracting organization) and the network dispensing pharmacy or other network dispensing provider have negotiated as the lowest possible reimbursement such network entity will receive, in total, for a particular drug;
@@ -168,9 +196,13 @@ As used in this part, unless otherwise specified-
 
 *Network pharmacy* means a licensed pharmacy that is under contract with a Part D sponsor to provide covered Part D drugs at negotiated prices to its Part D plan enrollees.
 
+*Non-maintenance change* means a negative formulary change that is not a maintenance change or an immediate negative formulary change.
+
 *Non-preferred pharmacy* means a network pharmacy that offers covered Part D drugs at negotiated prices to Part D enrollees at higher cost-sharing levels than apply at a preferred pharmacy.
 
 *Or otherwise* means through a government-funded health program.
+
+*Other specified entities* means State Pharmaceutical Assistance Programs (as defined in § 423.454), entities providing other prescription drug coverage (as described in § 423.464(f)(1)), authorized prescribers, network pharmacies, and pharmacists.
 
 *Out-of-network pharmacy* means a licensed pharmacy that is not under contract with a Part D sponsor to provide negotiated prices to Part D plan enrollees.
 
@@ -294,4 +326,4 @@ As used in this part, unless otherwise specified-
 
 *Valid prescription* means a prescription that complies with all applicable State law requirements constituting a valid prescription.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 86 FR 6115, Jan. 19, 2021; 87 FR 27899, May 9, 2022]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 86 FR 6115, Jan. 19, 2021; 87 FR 27899, May 9, 2022; 89 FR 30832, Apr. 23, 2024]Editorial Note:At 89 FR 30832, Apr. 23, 2024, § 423.100 was amended by adding the definition of “Affected enrollee”; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

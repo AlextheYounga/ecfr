@@ -68,4 +68,4 @@
 
 (ii) Except as permitted in paragraph (b)(4)(i) of this section, a pipeline and its employees, contractors, consultants, and agents are prohibited from disclosing, or using anyone as a conduit for the disclosure of, non-public, operational information received from a public utility pursuant to § 38.2 of this chapter to a third party or to its marketing function employees as that term is defined in § 358.3(d) of this chapter.
 
-[Order 587, 61 FR 39068, July 26, 1996]Editorial Note:For Federal Register citations affecting § 284.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 587, 61 FR 39068, July 26, 1996] Editorial Note:For Federal Register citations affecting § 284.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

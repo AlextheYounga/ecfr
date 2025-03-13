@@ -1,7 +1,5 @@
 ##### § 423.165 Compliance deemed on the basis of accreditation. #####
 
-Link to an amendment published at 89 FR 30835, Apr. 23, 2024.
-
 (a) *General rule.* A Part D sponsor is deemed to meet all of the requirements of any of the areas described in paragraph (b) of this section if—
 
 (1) The Part D sponsor is fully accredited (and periodically reaccredited) for the standards related to the applicable area under paragraph (b) of this section by a private, national accreditation organization approved by CMS; and
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 30835, Apr. 23, 2024.
 
 (1) Access to covered drugs, as provided under §§ 423.120 and 423.124.
 
-(2) Drug utilization management programs, quality assurance measures and systems, and MTMPs as provided under § 423.153.
+(2) Drug utilization management programs, quality assurance measures and systems, and MTM programs as provided under § 423.153.
 
 (3) Privacy, confidentiality, and accuracy of enrollee records, as provided under § 423.136.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 30835, Apr. 23, 2024.
 
 (f) *Authority.* Nothing in this section limits CMS' authority under subparts K and O of this part, including, but not limited to the ability to impose intermediate sanctions, civil money penalties, and terminate a contract with a Part D plan sponsor.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 89 FR 30835, Apr. 23, 2024]

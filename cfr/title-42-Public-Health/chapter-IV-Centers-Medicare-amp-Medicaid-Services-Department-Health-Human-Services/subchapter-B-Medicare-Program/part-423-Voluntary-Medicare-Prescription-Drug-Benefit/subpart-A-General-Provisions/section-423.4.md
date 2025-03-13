@@ -1,10 +1,16 @@
 ##### § 423.4 Definitions. #####
 
-Link to an amendment published at 89 FR 30829, Apr. 23, 2024.
-
 The following definitions apply to this part, unless the context indicates otherwise:
 
 *Actuarial equivalence* means a state of equivalent value demonstrated through the use of generally accepted actuarial principles and in accordance with section 1860D-11(c) of the Act and with CMS actuarial guidelines.
+
+*Authorized generic drug* means a drug as defined in section 505(t)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(t)).
+
+*Biological product* means a product licensed under section 351 of the Public Health Service Act (42 U.S.C. 262).
+
+*Biosimilar biological product* means a biological product licensed under section 351(k) of the Public Health Service Act (42 U.S.C. 262(k)) that, in accordance with section 351(i)(2) of the Public Health Service Act (42 U.S.C. 262(i)(2)), is highly similar to the reference product, notwithstanding minor differences in clinically inactive components, and has no clinically meaningful differences between the biological product and the reference product, in terms of the safety, purity, and potency of the product.
+
+*Brand name biological product* means a product licensed under section 351(a) (42 U.S.C. 262(a)) or 351(k) (42 U.S.C. 262(k)) of the Public Health Service Act and marketed under a brand name.
 
 *Brand name drug* means a drug for which an application is approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act (21 USC 355(c)), including an application referred to in section 505(b)(2) of the Federal Food, Drug and Cosmetic Act (21 USC 355(b)(2)).
 
@@ -62,6 +68,8 @@ The following definitions apply to this part, unless the context indicates other
 
 *Insurance risk* means, for a participating pharmacy, risk of the type commonly assumed only by insurers licensed by a State and does not include payment variations designed to reflect performance-based measures of activities within the control of the pharmacy, such as formulary compliance and generic drug substitutions, nor does it include elements potentially in the control of the pharmacy (for example, labor costs or productivity).
 
+*Interchangeable biological product* means a product licensed under section 351(k) of the Public Health Service Act (42 U.S.C. 262(k)) that FDA has determined meets the standards described in section 351(k)(4) of the Public Health Service Act (42 U.S.C. 262(k)(4)), which in accordance with section 351(i)(3) of the Public Health Service Act (42 U.S.C. 262(i)(3)), may be substituted for the reference product without the intervention of the health care provider who prescribed the reference product.
+
 *Limited Income Newly Eligible Transition (LI NET) sponsor* means a Part D sponsor selected by CMS to administer the LI NET program.
 
 *MA* stands for Medicare Advantage, which refers to the program authorized under Part C of title XVIII of the Act.
@@ -73,6 +81,8 @@ The following definitions apply to this part, unless the context indicates other
 *Medicare prescription drug account* means the account created within the Federal Supplementary Medical Insurance Trust Fund for purposes of Medicare Part D.
 
 *Monthly beneficiary premium* means the amount calculated under § 423.286 for Part D plans other than fallback prescription drug plans, and § 423.867(a) for fallback prescription drug plans.
+
+*MTM program* means a medication therapy management program described at § 423.153(d).
 
 *PACE Plan* means a plan offered by a PACE organization.
 
@@ -93,6 +103,8 @@ The following definitions apply to this part, unless the context indicates other
 *Pharmacist* means any individual who holds a current valid license to practice pharmacy in a State or territory of the United States or the District of Columbia.
 
 *Prescription drug plan or PDP* means prescription drug coverage that is offered under a policy, contract, or plan that has been approved as specified in § 423.272 and that is offered by a PDP sponsor that has a contract with CMS that meets the contract requirements under subpart K of this part. This includes fallback prescription drug plans.
+
+*Reference product* means a product as defined in section 351(i)(4) of the Public Health Service Act (42 U.S.C. 262(i)(4)).
 
 *Related entity* means any entity that is related to the Part D sponsor by common ownership or control and
 
@@ -128,4 +140,6 @@ The following definitions apply to this part, unless the context indicates other
 
 *Tiered cost-sharing* means a process of grouping Part D drugs into different cost sharing levels within a Part D sponsor's formulary.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68731, Dec. 5, 2007; 76 FR 21570, Apr. 15, 2011; 84 FR 25671, June 3, 2019; 86 FR 6114, Jan. 19, 2021; 88 FR 22337, Apr. 12, 2023]
+*Unbranded biological product* means a product licensed under a biologics license application (BLA) under section 351(a) or 351(k) of the Public Health Service Act (42 U.S.C. 262(a) or 262(k)) and marketed without a brand name. It is licensed under the same BLA as the corresponding brand name biological product.
+
+[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68731, Dec. 5, 2007; 76 FR 21570, Apr. 15, 2011; 84 FR 25671, June 3, 2019; 86 FR 6114, Jan. 19, 2021; 88 FR 22337, Apr. 12, 2023; 89 FR 30829, Apr. 23, 2024]

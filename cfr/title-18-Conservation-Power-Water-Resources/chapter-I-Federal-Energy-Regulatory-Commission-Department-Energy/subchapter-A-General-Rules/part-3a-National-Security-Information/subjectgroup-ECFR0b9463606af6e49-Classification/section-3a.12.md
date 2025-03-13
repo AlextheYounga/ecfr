@@ -4,7 +4,7 @@
 
 (b) The authority to classify information or material originally as Top Secret is to be exercised only by such officials as the President may designate in writing and by the heads of the following departments and agencies and such of their principal staff officials as the heads of these departments and agencies may designate in writing;
 
-Such offices in the Executive Office of the President as the President may designate in writing.Central Intelligence Agency.Atomic Energy Commission.Department of State.Department of the Treasury.Department of Defense.Department of the Army.Department of the Navy.Department of the Air Force.U.S. Arms Control and Disarmament AgencyDepartment of Justice.National Aeronautics and Space Administration.Agency for International Development.
+Such offices in the Executive Office of the President as the President may designate in writing. Central Intelligence Agency. Atomic Energy Commission. Department of State. Department of the Treasury. Department of Defense. Department of the Army. Department of the Navy. Department of the Air Force. U.S. Arms Control and Disarmament Agency Department of Justice. National Aeronautics and Space Administration. Agency for International Development.
 
 (c) The authority to classify information or material originally as Secret is exercised only by:
 
@@ -12,7 +12,7 @@ Such offices in the Executive Office of the President as the President may desig
 
 (2) The heads of the following departments and agencies and such principal staff officials as they may designate in writing:
 
-Department of Transportation.Federal Communications Commission.Export-Import Bank of the United States.Department of Commerce.U.S. Civil Service Commission.U.S. Information Agency.General Services Administration.Department of Health, Education, and Welfare.Civil Aeronautics Board.Federal Maritime Commission.Federal Energy Regulatory Commission.National Science Foundation.Overseas Private Investment Corporation.
+Department of Transportation. Federal Communications Commission. Export-Import Bank of the United States. Department of Commerce. U.S. Civil Service Commission. U.S. Information Agency. General Services Administration. Department of Health, Education, and Welfare. Civil Aeronautics Board. Federal Maritime Commission. Federal Energy Regulatory Commission. National Science Foundation. Overseas Private Investment Corporation.
 
 (d) The authority to classify information or material originally as Confidential is exercised by officials who have Top Secret or Secret classification authority.
 

@@ -1,7 +1,5 @@
 ##### § 417.460 Disenrollment of beneficiaries by an HMO or CMP. #####
 
-Link to an amendment published at 89 FR 30812, Apr. 23, 2024.
-
 (a) *General rule.* Except as provided in paragraphs (b) through (i) of this section, an HMO or CMP may not—
 
 (1) Disenroll a Medicare beneficiary; or
@@ -40,7 +38,17 @@ Link to an amendment published at 89 FR 30812, Apr. 23, 2024.
 
 (2) *Exception.* If the enrollee fails to pay the premium for optional supplemental benefits (that is, a package of benefits that an enrollee is not required to accept), but pays the basic premium and other charges, the HMO or CMP may discontinue the optional benefits but may not disenroll the beneficiary.
 
-(3) *Good cause and reinstatement.* When an individual is disenrolled for failure to pay premiums or other charges imposed by the HMO or CMP for deductible and coinsurance amounts for which the enrollee is liable, CMS (or a third party to which CMS has assigned this responsibility, such as an HMO or CMP) may reinstate enrollment in the plan, without interruption of coverage, if the individual shows good cause for failure to pay and pays all overdue premiums or other charges within 3 calendar months after the disenrollment date. The individual must establish by a credible statement that failure to pay premiums or other charges was due to circumstances for which the individual had no control, or which the individual could not reasonably have been expected to foresee.
+(3) *Good cause and reinstatement.* When an individual is disenrolled for failure to pay premiums or other charges imposed by the HMO or CMP for deductible and coinsurance amounts for which the enrollee is liable, CMS (or a third party to which CMS has assigned this responsibility, such as an HMO or CMP) may reinstate enrollment in the plan, without interruption of coverage, if the individual does all of the following:
+
+(i) Submits a request for reinstatement for good cause within 60 calendar days of the disenrollment effective date.
+
+(ii) Has not previously requested reinstatement for good cause during the same 60-day period following the involuntary disenrollment.
+
+(iii) Shows good cause for failure to pay.
+
+(iv) Pays all overdue premiums or other charges within 3 calendar months after the disenrollment date.
+
+(v) Establishes by a credible statement that failure to pay premiums or other charges was due to circumstances for which the individual had no control, or which the individual could not reasonably have been expected to foresee.
 
 (4) *Exception for reinstatement.* A beneficiary's enrollment in the plan will not be reinstated if the only basis for such reinstatement is a change in the individual's circumstances subsequent to the involuntary disenrollment for non-payment of premiums or other charges.
 
@@ -60,17 +68,29 @@ Link to an amendment published at 89 FR 30812, Apr. 23, 2024.
 
 (e) *Disenrollment for cause*—(1) *Basis for disenrollment.* An HMO or CMP may disenroll a Medicare enrollee for cause if the enrollee's behavior is disruptive, unruly, abusive, or uncooperative to the extent that his or her continuing enrollment in the HMO or CMP seriously impairs the HMO's or CMP's ability to furnish services to either the particular enrollee or other enrollees.
 
-(2) *Effort to resolve the problem.* The HMO or CMP must make a serious effort to resolve the problem presented by the enrollee, including the use (or attempted use) of internal grievance procedures.
+(2) *Effort to resolve the problem.* (i) The HMO or CMP must make a serious effort to resolve the problem presented by the enrollee, including the use (or attempted use) of internal grievance procedures, and including providing reasonable accommodations, as determined by CMS, for individuals with mental or cognitive conditions, including mental illness and developmental disabilities.
+
+(ii) The HMO or CMP must inform the individual of the right to use the organization's grievance procedures, through the notices described in paragraph (e)(7) of this section.
 
 (3) *Consideration of extenuating circumstances.* The HMO or CMP must ascertain that the enrollee's behavior is not related to the use of medical services or to mental illness.
 
-(4) *Documentation.* The HMO or CMP must document the problems, efforts, and medical conditions as described in paragraphs (e)(1) through (e)(3) of this section.
+(4) *Documentation.* The HMO or CMP must document the problems, efforts, and medical conditions as described in paragraphs (e)(1) through (3) of this section. Dated copies of the notices required in paragraph (d)(2)(iv) of this section must also be submitted to CMS.
 
 (5) *CMS review of an HMO's or CMP's proposed disenrollment for cause.* (i) CMS decides on the basis of review of the documentation submitted by the HMO or CMP, whether disenrollment requirements have been met.
 
 (ii) CMS makes this decision within 20 working days after receipt of the documentation material, and notifies the HMO or CMP within 5 working days after making its decision.
 
 (6) *Effective date of disenrollment.* If CMS permits an HMO or CMP to disenroll an enrollee for cause, the disenrollment takes effect on the first day of the calendar month after the month in which the HMO or CMP gives the enrollee a written notice of disenrollment that meets the requirements set forth in paragraphs (d)(2)(i) and (d)(2)(ii) of this section.
+
+(7) *Other required notices.* The HMO or CMP must provide the individual two notices before submitting the request for disenrollment to CMS.
+
+(i) The first notice, the advance notice, informs the member that continued disruptive behavior could lead to involuntary disenrollment and provides the individual an opportunity to cease the behavior in order to avoid the disenrollment action.
+
+(A) If the disruptive behavior ceases after the enrollee receives the advance notice and then later resumes, the HMO or CMP must begin the process again.
+
+(B) The HMO or CMP must wait at least 30 days after sending the advance notice before sending the second notice, during which 30-days period the individual has to provide an opportunity for the individual to cease their behavior.
+
+(ii) The second notice, the notice of intent to request CMS permission to disenroll the member, notifies the enrollee that the HMO or CMP requests CMS permission to involuntarily disenroll the enrollee. This notice must be provided before submission of the request to CMS.
 
 (f) *Enrollee moves out of the HMO's or CMP's geographic area*—(1) *Basic rules*—(i) *Disenrollment.* Except as provided in paragraph (f)(2) of this section, an HMO or CMP must disenroll a Medicare enrollee who moves out of its geographic area if the HMO or CMP establishes, on the basis of a written statement from the enrollee, or other evidence acceptable to CMS, that the enrollee has permanently moved out of its geographic area.
 
@@ -114,4 +134,4 @@ Link to an amendment published at 89 FR 30812, Apr. 23, 2024.
 
 (j) *Enrollee is not lawfully present in the United States.* Disenrollment is effective the first day of the month following notice by CMS that the individual is ineligible in accordance with § 417.422(h).
 
-[60 FR 45678, Sept. 1, 1995, as amended at 77 FR 22166, Apr. 12, 2012; 79 FR 29955, May 23, 2014; 80 FR 7958, Feb. 12, 2015]
+[60 FR 45678, Sept. 1, 1995, as amended at 77 FR 22166, Apr. 12, 2012; 79 FR 29955, May 23, 2014; 80 FR 7958, Feb. 12, 2015; 89 FR 30812, Apr. 23, 2024]

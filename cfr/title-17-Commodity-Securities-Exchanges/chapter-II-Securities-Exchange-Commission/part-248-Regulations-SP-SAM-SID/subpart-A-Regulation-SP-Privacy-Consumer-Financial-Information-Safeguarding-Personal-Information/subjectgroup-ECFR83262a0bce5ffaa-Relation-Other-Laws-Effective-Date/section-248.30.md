@@ -1,5 +1,7 @@
 ##### § 248.30 Procedures to safeguard customer records and information; disposal of consumer report information. #####
 
+Link to an amendment published at 89 FR 47786, June 3, 2024.
+
 (a) Every broker, dealer, and investment company, and every investment adviser registered with the Commission must adopt written policies and procedures that address administrative, technical, and physical safeguards for the protection of customer records and information. These written policies and procedures must be reasonably designed to:
 
 (1) Insure the security and confidentiality of customer records and information;

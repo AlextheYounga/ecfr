@@ -1,7 +1,5 @@
 ##### § 436.831 Income eligibility. #####
 
-Link to an amendment published at 89 FR 22873, Apr. 2, 2024.
-
 The agency must determine income eligibility of medically needy individuals in accordance with this section.
 
 (a) *Budget periods.* (1) The agency must use budget periods of not more than 6 months to compute income. The agency may use more than one budget period.
@@ -46,9 +44,11 @@ The agency must determine income eligibility of medically needy individuals in a
 
 (1) May include medical institutional expenses (other than expenses in acute care facilities) projected to the end of the budget period at the Medicaid reimbursement rate;
 
-(2) May, to the extent determined by the agency and specified in its approved plan, include expenses incurred earlier than the third month before the month of application; and
+(2) May include expenses for services that the agency has determined are reasonably constant and predictable, including but not limited to, services identified in a person-centered service plan developed pursuant to § 441.301(b)(1)(i), § 441.468(a)(1), § 441.540(b)(5), or § 441.725 of this chapter and expenses for prescription drugs, projected to the end of the budget period at the Medicaid reimbursement rate;
 
-(3) May set reasonable limits on the amount to be deducted for expenses specified in paragraphs (e)(1), (e)(2), and (g)(2) of this section.
+(3) May, to the extent determined by the agency and specified in its approved plan, include expenses incurred earlier than the third month before the month of application; and
+
+(4) May set reasonable limits on the amount to be deducted for expenses specified in paragraphs (e)(1), (e)(2), and (g)(2) of this section.
 
 (h) *Order of deduction.* The agency must deduct incurred medical expenses that are deductible under paragraphs (e), (f), and (g) of this section, in the order prescribed under one of the following three options:
 
@@ -80,4 +80,4 @@ The agency must determine income eligibility of medically needy individuals in a
 
 (5) Expenses used to meet spenddown liability are not reimbursable under Medicaid. Therefore, to the extent necessary to prevent the transfer of an individual's spenddown liability to the Medicaid program, States must reduce the amount of provider charges that would otherwise be reimbursable under Medicaid.
 
-[59 FR 1674, Jan. 12, 1994, as amended at 78 FR 42305, July 15, 2013]
+[59 FR 1674, Jan. 12, 1994, as amended at 78 FR 42305, July 15, 2013; 89 FR 22873, Apr. 2, 2024]

@@ -1,10 +1,8 @@
 ##### § 422.62 Election of coverage under an MA plan. #####
 
-Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
-
 (a) *General: Coverage election periods*—(1) *Initial coverage election period for MA.* The initial coverage election period is the period during which a newly MA-eligible individual may make an initial election. This period begins 3 months before the month the individual is first entitled to both Part A and Part B and ends on the later of—
 
-(i) The last day of the month preceding the month of entitlement; or
+(i) The last day of the second month after the month in which they are first entitled to Part A and enrolled in Part B; or
 
 (ii) If after May 15, 2006, the last day of the individual's Part B initial enrollment period.
 
@@ -22,7 +20,11 @@ Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
 
 (iii) *Single election limitation.* The limitation to one election or change in paragraphs (a)(3)(i) and (ii) of this section does not apply to elections or changes made during the annual coordinated election period specified in paragraph (a)(2) of this section, or during a special election period specified in paragraph (b) of this section.
 
-(4) *Open enrollment period for institutionalized individuals.* After 2005, an individual who is eligible to elect an MA plan and who is institutionalized, as defined in § 422.2, is not limited (except as provided for in paragraph (d) of this section for MA MSA plans) in the number of elections or changes he or she may make. Subject to the MA plan being open to enrollees as provided under § 422.60(a)(2), an MA eligible institutionalized individual may at any time elect an MA plan or change his or her election from an MA plan to Original Medicare, to a different MA plan, or from Original Medicare to an MA plan.
+(4) *Open enrollment period for institutionalized individuals.* After 2005, an individual who is eligible to elect an MA plan and who is institutionalized, as defined in § 422.2, is not limited (except as provided for in paragraph (d) of this section for MA MSA plans) in the number of elections or changes he or she may make.
+
+(i) Subject to the MA plan being open to enrollees as provided under § 422.60(a)(2), an MA eligible institutionalized individual may at any time elect an MA plan or change his or her election from an MA plan to Original Medicare, to a different MA plan, or from Original Medicare to an MA plan.
+
+(ii) The open enrollment period for institutionalized individuals ends on the last day of the second month after the month the individual ceases to reside in one of the long-term care facility settings described in the definition of “institutionalized” in § 422.2.
 
 (5) *Annual 45-day period for disenrollment from MA plans to Original Medicare.* Through 2018, at any time from January 1 through February 14, an individual who is enrolled in an MA plan may elect Original Medicare once during this 45-day period. An individual who chooses to exercise this election may also make a coordinating election to enroll in a PDP as specified in § 423.38(d) of this chapter.
 
@@ -30,7 +32,7 @@ Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
 
 (1) CMS or the organization has terminated the organization's contract for the plan, discontinued the plan in the area in which the individual resides, or the organization has notified the individual of the impending termination of the plan, or the impending discontinuation of the plan in the area in which the individual resides.
 
-(2) The individual is not eligible to remain enrolled in the plan because of a change in his or her place of residence to a location out of the service area or continuation area or other change in circumstances as determined by CMS but not including terminations resulting from a failure to make timely payment of an MA monthly or supplemental beneficiary premium, or from disruptive behavior.
+(2) The individual is not eligible to remain enrolled in the plan because of a change in his or her place of residence to a location out of the service area or continuation area or other change in circumstances as determined by CMS but not including terminations resulting from a failure to make timely payment of an MA monthly or supplemental beneficiary premium, or from disruptive behavior. Also eligible for this SEP are individuals who, as a result of a change in permanent residence, have new MA plan options available to them.
 
 (3) The individual demonstrates to CMS that—
 
@@ -114,15 +116,17 @@ Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
 
 (ii) MA organizations may determine eligibility for this SEP when the criterion is met, ensuring adequate documentation of the situation, including records indicating the date of the individual's request, the amount of time taken to provide accessible versions of the requested materials and the amount of time it takes for the same information to be provided to an individual who does not request an accessible format.
 
-(18) Individuals affected by an emergency or major disaster declared by a Federal, state or local government entity are eligible for a SEP to make a MA enrollment or disenrollment election. The SEP starts as of the date the declaration is made, the incident start date or, if different, the start date identified in the declaration, whichever is earlier, and ends 2 full calendar months following the end date identified in the declaration or, if different, the date the end of the incident is announced, whichever is later. The individual is eligible for this SEP provided the individual—
+(18) Individuals affected by an emergency or major disaster declared by a Federal, State or local government entity are eligible for an SEP to make an MA enrollment or disenrollment election. The SEP starts as of the date the declaration is made, the incident start date or, if different, the start date identified in the declaration, whichever is earlier. The SEP ends 2 full calendar months following the end date identified in the declaration or, if different, the date the end of the incident is announced, the date the incident automatically ends under applicable state or local law, or, if the incident end date is not otherwise identified, the incident end date specified in paragraph (b)(18)(i) of this section.
 
-(i) (A) Resides, or resided at the start of the SEP eligibility period described in this paragraph (b)(18), in an area for which a federal, state or local government entity has declared an emergency or major disaster; or
+(i) If the incident end date of an emergency or major disaster is not otherwise identified, the incident end date is 1 year after the SEP start date; or, if applicable, the date of a renewal or extension of the emergency or disaster declaration, whichever is later. The maximum length of this SEP, if the incident end date is not otherwise identified, is 14 full calendar months after the SEP start date or, if applicable, the date of a renewal or extension of the emergency or disaster declaration.
+
+(ii) (A) Resides, or resided at the start of the SEP eligibility period described in this paragraph (b)(18), in an area for which a federal, state or local government entity has declared an emergency or major disaster; or
 
 (B) Does not reside in an affected area but relies on help making healthcare decisions from one or more individuals who reside in an affected area; and
 
-(ii) Was eligible for another election period at the time of the SEP eligibility period described in this paragraph (b)(18); and
+(iii) Was eligible for another election period at the time of the SEP eligibility period described in this paragraph (b)(18); and
 
-(iii) Did not make an election during that other election period due to the emergency or major disaster.
+(iv) Did not make an election during that other election period due to the emergency or major disaster.
 
 (19) The individual experiences an involuntary loss of creditable prescription drug coverage, including a reduction in the level of coverage so that it is no longer creditable and excluding any loss or reduction of creditable coverage that is due to a failure to pay premiums.
 
@@ -180,4 +184,4 @@ Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
 
 (ii) *Exception.* An individual who elects an MA MSA plan during an annual election period and has never before elected an MA MSA plan may revoke that election, no later than December 15 of that same year, by submitting to the organization that offers the MA MSA plan a signed and dated request in the form and manner prescribed by CMS or by filing the appropriate disenrollment form through other mechanisms as determined by CMS.
 
-[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998, as amended at 65 FR 40317, June 29, 2000; 70 FR 4717, Jan. 28, 2005; 76 FR 21561, Apr. 15, 2011; 83 FR 16722, Apr. 16, 2018; 85 FR 33901, June 2, 2020; 88 FR 22328, Apr. 12, 2023; 88 FR 50044, Aug. 1, 2023]
+[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998, as amended at 65 FR 40317, June 29, 2000; 70 FR 4717, Jan. 28, 2005; 76 FR 21561, Apr. 15, 2011; 83 FR 16722, Apr. 16, 2018; 85 FR 33901, June 2, 2020; 88 FR 22328, Apr. 12, 2023; 88 FR 50044, Aug. 1, 2023; 89 FR 30815, Apr. 23, 2024]

@@ -1,7 +1,5 @@
 ##### § 435.407 Types of acceptable documentary evidence of citizenship. #####
 
-Link to an amendment published at 89 FR 22866, Apr. 2, 2024.
-
 (a) *Stand-alone evidence of citizenship.* The following must be accepted as sufficient documentary evidence of citizenship:
 
 (1) A U.S. passport, including a U.S. Passport Card issued by the Department of State, without regard to any expiration date as long as such passport or Card was issued without limitation.
@@ -32,6 +30,10 @@ Link to an amendment published at 89 FR 22866, Apr. 2, 2024.
 
 (6) A data match with the Social Security Administration.
 
+(7) Verification with a State vital statistics agency documenting a record of birth.
+
+(8) A data match with the Department of Homeland Security (DHS) Systematic Alien Verification for Entitlements (SAVE) Program or any other process established by DHS to verify that an individual is a citizen.
+
 (b) *Evidence of citizenship.* If an applicant does not provide documentary evidence from the list in paragraph (a) of this section, the following must be accepted as satisfactory evidence to establish citizenship if also accompanied by an identity document listed in paragraph (c) of this section—
 
 (1) A U.S. public birth certificate showing birth in one of the 50 States, the District of Columbia, Guam, American Samoa, Swain's Island, Puerto Rico (if born on or after January 13, 1941), the Virgin Islands of the U.S. or the CNMI (if born after November 4, 1986, (CNMI local time)). The birth record document may be issued by a State, Commonwealth, Territory, or local jurisdiction. If the document shows the individual was born in Puerto Rico or the Northern Mariana Islands before the applicable date referenced in this paragraph, the individual may be a collectively naturalized citizen. The following will establish U.S. citizenship for collectively naturalized individuals:
@@ -46,39 +48,35 @@ Link to an amendment published at 89 FR 22866, Apr. 2, 2024.
 
 (C) Evidence of continuous domicile in the NMI since before January 1, 1974, and the applicant's statement that he or she did not owe allegiance to a foreign State on November 4, 1986 (NMI local time). Note: If a person entered the NMI as a nonimmigrant and lived in the NMI since January 1, 1974, this does not constitute continuous domicile and the individual is not a U.S. citizen.
 
-(2) At State option, a cross match with a State vital statistics agency documenting a record of birth.
+(2) A Certification of Report of Birth, issued to U.S. citizens who were born outside the U.S.
 
-(3) A Certification of Report of Birth, issued to U.S. citizens who were born outside the U.S.
+(3) A Report of Birth Abroad of a U.S. Citizen.
 
-(4) A Report of Birth Abroad of a U.S. Citizen.
+(4) A Certification of birth in the United States.
 
-(5) A Certification of birth in the United States.
+(5) A U.S. Citizen I.D. card.
 
-(6) A U.S. Citizen I.D. card.
+(6) A Northern Marianas Identification Card issued by the U.S. Department of Homeland Security (or predecessor agency).
 
-(7) A Northern Marianas Identification Card issued by the U.S. Department of Homeland Security (or predecessor agency).
+(7) A final adoption decree showing the child's name and U.S. place of birth, or if an adoption is not final, a Statement from a State-approved adoption agency that shows the child's name and U.S. place of birth.
 
-(8) A final adoption decree showing the child's name and U.S. place of birth, or if an adoption is not final, a Statement from a State-approved adoption agency that shows the child's name and U.S. place of birth.
+(8) Evidence of U.S. Civil Service employment before June 1, 1976.
 
-(9) Evidence of U.S. Civil Service employment before June 1, 1976.
+(9) U.S. Military Record showing a U.S. place of birth.
 
-(10) U.S. Military Record showing a U.S. place of birth.
+(10) Documentation that a child meets the requirements of section 101 of the Child Citizenship Act of 2000 as amended (8 U.S.C. 1431).
 
-(11) A data match with the SAVE Program or any other process established by DHS to verify that an individual is a citizen.
+(11) Medical records, including, but not limited to, hospital, clinic, or doctor records or admission papers from a nursing facility, skilled care facility, or other institution that indicate a U.S. place of birth.
 
-(12) Documentation that a child meets the requirements of section 101 of the Child Citizenship Act of 2000 as amended (8 U.S.C. 1431).
+(12) Life, health, or other insurance record that indicates a U.S. place of birth.
 
-(13) Medical records, including, but not limited to, hospital, clinic, or doctor records or admission papers from a nursing facility, skilled care facility, or other institution that indicate a U.S. place of birth.
+(13) Official religious record recorded in the U.S. showing that the birth occurred in the U.S.
 
-(14) Life, health, or other insurance record that indicates a U.S. place of birth.
+(14) School records, including pre-school, Head Start and daycare, showing the child's name and U.S. place of birth.
 
-(15) Official religious record recorded in the U.S. showing that the birth occurred in the U.S.
+(15) Federal or State census record showing U.S. citizenship or a U.S. place of birth.
 
-(16) School records, including pre-school, Head Start and daycare, showing the child's name and U.S. place of birth.
-
-(17) Federal or State census record showing U.S. citizenship or a U.S. place of birth.
-
-(18) If the applicant does not have one of the documents listed in paragraphs (a) or (b)(1) through (17) of this section, he or she may submit an affidavit signed by another individual under penalty of perjury who can reasonably attest to the applicant's citizenship, and that contains the applicant's name, date of birth, and place of U.S. birth. The affidavit does not have to be notarized.
+(16) If the applicant does not have one of the documents listed in paragraphs (a) or (b)(1) through (15) of this section, he or she may submit an affidavit signed by another individual under penalty of perjury who can reasonably attest to the applicant's citizenship, and that contains the applicant's name, date of birth, and place of U.S. birth. The affidavit does not have to be notarized.
 
 (c) *Evidence of identity.* (1) The agency must accept the following as proof of identity, provided such document has a photograph or other identifying information sufficient to establish identity, including, but not limited to, name, age, sex, race, height, weight, eye color, or address:
 
@@ -112,4 +110,4 @@ Link to an amendment published at 89 FR 22866, Apr. 2, 2024.
 
 (f) *Documentary evidence.* A photocopy, facsimile, scanned or other copy of a document must be accepted to the same extent as an original document under this section, unless information on the copy submitted is inconsistent with other information available to the agency or the agency otherwise has reason to question the validity of, or the information in, the document.
 
-[81 FR 86455, Nov. 30, 2016]
+[81 FR 86455, Nov. 30, 2016, as amended at 89 FR 22866, Apr. 2, 2024]

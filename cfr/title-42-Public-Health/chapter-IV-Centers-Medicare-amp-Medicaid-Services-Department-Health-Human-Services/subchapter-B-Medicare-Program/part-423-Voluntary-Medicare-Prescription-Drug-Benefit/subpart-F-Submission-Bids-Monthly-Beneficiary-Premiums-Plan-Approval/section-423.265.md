@@ -1,7 +1,5 @@
 ##### § 423.265 Submission of bids and related information. #####
 
-Link to an amendment published at 89 FR 30836, Apr. 23, 2024.
-
 (a) *Eligibility for bidding.* An applicant may submit a bid to become a Part D plan sponsor.
 
 (b) *Bid submission*—(1) *General.* Not later than the first Monday in June, each potential Part D sponsor must submit bids and supplemental information described in this section for each Part D plan it intends to offer in the subsequent calendar year.
@@ -13,6 +11,8 @@ Link to an amendment published at 89 FR 30836, Apr. 23, 2024.
 (3) *Limit on number of plan offerings.* Potential Part D sponsors' bid submissions may include no more than three stand-alone prescription drug plan offerings in a service area and must include only one basic prescription drug plan offering.
 
 (4) *Bid acceptance.* CMS may decline to accept any or every bid submitted by a Part D sponsor or potential Part D sponsor.
+
+(5) *Limitations on changes.* After a Part D sponsor is permitted to begin marketing prospective plan year offerings for the following contract year (consistent with § 423.2263(a)), the Part D sponsor must not change, and must provide the benefits described in its CMS-approved plan benefit package (PBP) (as defined at § 423.182) for the contract year without modification, except where a modification in benefits is required by law.
 
 (c) *Basic rule for bid.* Each potential Part D sponsor must submit a bid and supplemental information in a format to be specified by CMS for each Part D plan it offers. Each bid must reflect a uniform benefit package, including premium (except as provided for the late enrollment penalty described in § 423.286(d)(3)) and all applicable cost sharing, for all individuals enrolled in the plan. Each bid must reflect the applicant's estimate of its average monthly revenue requirements to provide qualified prescription drug coverage (including any supplemental coverage) for a Part D eligible individual with a national average risk profile for the factors described in § 423.329(b)(1).
 
@@ -56,4 +56,4 @@ Link to an amendment published at 89 FR 30836, Apr. 23, 2024.
 
 (f) *Special rule for fallback prescription drug plans.* Fallback prescription drug plan bids are not subject to the rules in this section. They must follow requirements specified in § 423.863.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 76 FR 21573, Apr. 15, 2011; 83 FR 16749, Apr. 16, 2018; 86 FR 6118, Jan. 19, 2021; 88 FR 22339, Apr. 12, 2023]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 76 FR 21573, Apr. 15, 2011; 83 FR 16749, Apr. 16, 2018; 86 FR 6118, Jan. 19, 2021; 88 FR 22339, Apr. 12, 2023; 89 FR 30836, Apr. 23, 2024]

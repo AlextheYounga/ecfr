@@ -1,20 +1,24 @@
 ##### § 422.502 Evaluation and determination procedures. #####
 
-Link to an amendment published at 89 FR 30824, Apr. 23, 2024.
+(a) *Basis for evaluation and determination.* (1) *Information used to evaluate applications.* With the exception of evaluations conducted under paragraph (b) of this section, CMS evaluates an application for an MA contract or for a Specialized MA Plan for Special Needs Individuals solely on the basis of information contained in the application itself and any additional information that CMS obtains through other means such as on-site visits.
 
-(a) *Basis for evaluation and determination.* (1) With the exception of evaluations conducted under paragraph (b) of this section, CMS evaluates an application for an MA contract or for a Specialized MA Plan for Special Needs Individuals solely on the basis of information contained in the application itself and any additional information that CMS obtains through other means such as on-site visits.
+(2) *Issuing application determination.* After evaluating all relevant information, CMS determines whether the applicant's application meets all the requirements described in this part.
 
-(2) After evaluating all relevant information, CMS determines whether the applicant's application meets all the requirements described in this part.
+(3) *Substantially incomplete applications.* (i) CMS does not evaluate or issue a notice of determination described in § 422.502(c) when an organization submits a substantially incomplete application.
+
+(ii) An application is substantially incomplete when the submission as of the deadline for applications established by CMS is missing content or responsive materials for one or more sections of the application form required by CMS.
+
+(iii) A determination that an application is substantially incomplete is not a contract determination as defined in § 422.641 and a determination that an organization submitted a substantially incomplete application is not subject to the appeals provisions of subpart N of this part.
 
 (b) *Use of information from a current or prior contract.* (1) Except as provided in paragraphs (b)(2) through (4) of this section, if an MA organization fails during the 12 months preceding the deadline established by CMS for the submission of contract qualification applications to comply with the requirements of the Part C program under any current or prior contract with CMS under title XVIII of the Act, CMS may deny an application based on the applicant's failure to comply with the requirements of the Part C program under any current or prior contract with CMS even if the applicant currently meets all of the requirements of this part.
 
 (i) An applicant may be considered to have failed to comply with a contract for purposes of an application denial under paragraph (b)(1) of this section if during the applicable review period the applicant does any of the following:
 
-(A) Was subject to the imposition of an intermediate sanction under subpart O of this part or a determination by CMS to prohibit the enrollment of new enrollees in accordance with § 422.2410(c), with the exception of a sanction imposed under § 422.752(d).
+(A) Was under intermediate sanction under subpart O of this part or a determination by CMS to prohibit the enrollment of new enrollees in accordance with § 422.2410(c), with the exception of a sanction imposed under § 422.752(d).
 
-(B) Failed to maintain a fiscally sound operation consistent with the requirements of § 422.504(b)(14).
+(B) Failed to maintain a fiscally sound operation consistent with the requirements of § 422.504(a)(14).
 
-(C) Filed for or is currently in State bankruptcy proceedings.
+(C) Filed for or is currently in federal or state bankruptcy proceedings.
 
 (D) Received any combination of Part C or D summary ratings of 2.5 or less in both of the two most recent Star Rating periods, as identified in § 422.166.
 
@@ -29,10 +33,6 @@ Link to an amendment published at 89 FR 30824, Apr. 23, 2024.
 (*iii*) Each notice of noncompliance issued during the performance period under § 422.504(m) counts for 1 point.
 
 (*2*) CMS adds all the point values for each MA organization to determine if any organization meets CMS' identified threshold.
-
-(A) Was subject to the imposition of an intermediate sanction under subpart O of this part, with the exception of a sanction imposed under § 422.752(d) or a determination by CMS to prohibit the enrollment of new enrollees pursuant to § 422.2410(c).
-
-(B) Failed to maintain a fiscally sound operation consistent with the requirements of § 422.504(b)(14).
 
 (ii) CMS may deny an application submitted by an organization that does not hold a Part C contract at the time of the submission when the applicant's parent organization or another subsidiary of the parent organization meets the criteria for denial stated in paragraph (b)(1)(i) of this section. This paragraph does not apply when the parent organization completed the acquisition of the subsidiary that meets the criteria within the 24 months preceding the application submission deadline.
 
@@ -66,4 +66,4 @@ Link to an amendment published at 89 FR 30824, Apr. 23, 2024.
 
 (iii) The applicant's right to request a hearing in accordance with the procedures specified in subpart N of this part.
 
-[70 FR 4736, Jan. 28, 2005, as amended at 75 FR 19809, Apr. 15, 2010; 76 FR 21568, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018; 86 FR 6099, Jan. 19, 2021; 87 FR 27896, May 9, 2022]
+[70 FR 4736, Jan. 28, 2005, as amended at 75 FR 19809, Apr. 15, 2010; 76 FR 21568, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018; 86 FR 6099, Jan. 19, 2021; 87 FR 27896, May 9, 2022; 89 FR 30824, Apr. 23, 2024]

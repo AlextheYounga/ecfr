@@ -1,7 +1,5 @@
 ##### § 431.231 Reinstating services. #####
 
-Link to an amendment published at 89 FR 22866, Apr. 2, 2024.
-
 (a) The agency may reinstate services if a beneficiary requests a hearing not more than 10 days after the date of action.
 
 (b) The reinstated services must continue until a hearing decision unless, at the hearing, it is determined that the sole issue is one of Federal or State law or policy.
@@ -14,6 +12,6 @@ Link to an amendment published at 89 FR 22866, Apr. 2, 2024.
 
 (3) The agency determines that the action resulted from other than the application of Federal or State law or policy.
 
-(d) If a beneficiary's whereabouts are unknown, as indicated by the return of unforwardable agency mail directed to him, any discontinued services must be reinstated if his whereabouts become known during the time he is eligible for services.
+(d) [Reserved]
 
-[44 FR 17932, Mar. 29, 1979, as amended at 78 FR 42302, July 15, 2013]
+[44 FR 17932, Mar. 29, 1979, as amended at 78 FR 42302, July 15, 2013; 89 FR 22866, Apr. 2, 2024]

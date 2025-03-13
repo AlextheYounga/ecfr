@@ -14,7 +14,7 @@
 
 (iv) Children for whom child welfare services are made available under Part B of title IV of the Act on the basis of being a child in foster care and individuals receiving benefits under Part E of that title, without regard to age.
 
-(v) At state option, individuals under age 19, 20 or age 21, eligible under § 435.222 of this chapter.
+(v) At State option, individuals under age 19, 20 or age 21, eligible under § 435.222 or § 435.223 of this chapter.
 
 (vi) Disabled children, except as provided at § 447.55(a)(4) (premiums), who are receiving medical assistance by virtue of the application of the Family Opportunity Act in accordance with sections 1902(a)(10)(A)(ii)(XIX) and 1902(cc) of the Act.
 
@@ -65,3 +65,5 @@
 (4) The agency must have a process in place for beneficiaries to request a reassessment of their family aggregate limit if they have a change in circumstances or if they are being terminated for failure to pay a premium.
 
 (5) Nothing in paragraph (f) shall preclude the agency from establishing additional aggregate limits, including but not limited to a monthly limit on cost sharing charges for a particular service.
+
+[78 FR 42307, July 15, 2013, as amended at 89 FR 22873, Apr. 2, 2024]

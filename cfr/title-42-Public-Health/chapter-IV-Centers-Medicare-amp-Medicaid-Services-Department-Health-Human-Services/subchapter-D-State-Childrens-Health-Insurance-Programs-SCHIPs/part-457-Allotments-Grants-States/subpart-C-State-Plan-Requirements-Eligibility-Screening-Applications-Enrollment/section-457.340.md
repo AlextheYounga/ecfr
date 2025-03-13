@@ -1,14 +1,16 @@
 ##### § 457.340 Application for and enrollment in CHIP. #####
 
-Link to an amendment published at 89 FR 22873, Apr. 2, 2024.
-
 (a) *Application and renewal assistance, availability of program information, and Web site.* The terms of §§ 435.905, 435.906, 435.908, and 435.1200(f) of this chapter apply equally to the State in administering a separate CHIP.
 
 (b) *Use of Social Security number.* The terms of §§ 435.910 and 435.907(e) of this chapter regarding the provision and use of Social Security Numbers and non-applicant information apply equally to the State in administering a separate CHIP.
 
 (c) *Notice of rights and responsibilities.* A State must inform applicants at the time of application, in writing and orally if appropriate, about the application and eligibility requirements, the time frame for determining eligibility, and the right to review of eligibility determinations as described in § 457.1130.
 
-(d) *Timely determination of eligibility.* (1) The terms in § 435.912 of this chapter apply equally to CHIP, except that standards for transferring electronic accounts to other insurance affordability programs are pursuant to § 457.350 and the standards for receiving applications from other insurance affordability programs are pursuant to § 457.348 of this part.
+(d) *Timely determination and redetermination of eligibility.* (1) The terms in § 435.912 of this chapter apply equally to CHIP, except that—
+
+(i) The terms of § 435.912(c)(4)(ii), (c)(5)(iii), and (c)(6)(ii) of this chapter (relating to timelines for completing renewals and redeterminations when States must consider other bases of eligibility) do not apply; and
+
+(ii) The standards for transferring electronic accounts to other insurance affordability programs are pursuant to § 457.350 and the standards for receiving applications from other insurance affordability programs are pursuant to § 457.348.
 
 (2) In applying timeliness standards, the State must define “date of application” and must count each calendar day from the date of application to the day the agency provides notice of its eligibility decision.
 
@@ -38,10 +40,16 @@ Link to an amendment published at 89 FR 22873, Apr. 2, 2024.
 
 (f) *Coordination of notices with other programs.* The State must—
 
-(1) Include in the agreement into which the State has entered under § 457.348(a) that for individuals who are transferred between the State and another insurance affordability program in accordance with § 457.348 or § 457.350, the State, Exchange or other insurance affordability program will provide, to the maximum extent feasible, a combined eligibility notice to individuals, as well as to multiple members of the same household included on the same application or renewal form.
+(1) Include in the agreement into which the State has entered under § 457.348(a) that, a combined eligibility notice, as defined in § 457.10, will be provided:
+
+(i) To an individual, by the State agency administering a separate CHIP or the Medicaid agency, when a determination of CHIP eligibility is completed for such individual by the State agency administering Medicaid in accordance with § 457.348(e), or a determination of Medicaid eligibility is completed by the State in accordance with § 457.350(b)(1);
+
+(ii) To the maximum extent feasible, to an individual who is not described in paragraph (f)(1)(i) of this section but who is transferred between the State and another insurance affordability program in accordance with § 457.348 or § 457.350; and
+
+(iii) To the maximum extent feasible, to multiple members of the same household included on the same application or renewal form.
 
 (2) For individuals and other household members who will not receive a combined eligibility notice, include appropriate coordinated content, as defined in § 457.10, in any notice provided by the State in accordance with paragraph (e)(1) of this section.
 
 (g) *Effective date of eligibility.* A State must specify a method for determining the effective date of eligibility for CHIP, which can be determined based on the date of application or through any other reasonable method that ensures coordinated transition of children between CHIP and other insurance affordability programs as family circumstances change and avoids gaps or overlaps in coverage.
 
-[66 FR 2675, Jan. 11, 2001, as amended at 66 FR 33823, June 25, 2001; 77 FR 17215, Mar. 23, 2012; 78 FR 42312, July 15, 2013; 81 FR 86464, Nov. 30, 2016]
+[66 FR 2675, Jan. 11, 2001, as amended at 66 FR 33823, June 25, 2001; 77 FR 17215, Mar. 23, 2012; 78 FR 42312, July 15, 2013; 81 FR 86464, Nov. 30, 2016; 89 FR 22873, Apr. 2, 2024]

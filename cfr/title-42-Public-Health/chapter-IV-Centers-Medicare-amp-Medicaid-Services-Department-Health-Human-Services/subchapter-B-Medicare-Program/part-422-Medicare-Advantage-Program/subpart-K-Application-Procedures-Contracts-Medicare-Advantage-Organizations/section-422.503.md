@@ -1,7 +1,5 @@
 ##### § 422.503 General provisions. #####
 
-Link to an amendment published at 89 FR 30824, Apr. 23, 2024.
-
 (a) *Basic rule.* In order to qualify as an MA organization, enroll beneficiaries in any MA plans it offers, and be paid on behalf of Medicare beneficiaries enrolled in those plans, an MA organization must enter into a contract with CMS.
 
 (b) *Conditions necessary to contract as an MA organization.* Any entity seeking to contract as an MA organization must:
@@ -108,6 +106,8 @@ Link to an amendment published at 89 FR 30824, Apr. 23, 2024.
 
 (7) Not have terminated a contract by mutual consent under which, as a condition of the consent, the MA organization agreed that it was not eligible to apply for new contracts or service area expansions for a period of 2 years per § 422.508(c) of this subpart.
 
+(8) Not newly offer a dual eligible special needs plan that would result in noncompliance with § 422.514(h).
+
 (c) *Contracting authority.* Under the authority of section 1857(c)(5) of the Act, CMS may enter into contracts under this part without regard to Federal and Departmental acquisition regulations set forth in title 48 of the CFR and provisions of law or other regulations relating to the making, performance, amendment, or modification of contracts of the United States if CMS determines that those provisions are inconsistent with the efficient and effective administration of the Medicare program.
 
 (d) *Protection against fraud and beneficiary protections.* (1) CMS annually audits the financial records (including data relating to Medicare utilization, costs, and computation of the bid) of at least one-third of the MA organizations offering MA plans. These auditing activities are subject to monitoring by the Comptroller General.
@@ -132,4 +132,4 @@ Link to an amendment published at 89 FR 30824, Apr. 23, 2024.
 
 (2) A separate contract for any such excluded plan, segment, or entity will be deemed to be in place when such a request is made.
 
-[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000. Redesignated at 70 FR 4736, Jan. 28, 2005, and amended at 70 FR 4737, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 75 FR 19809, Apr. 15, 2010; 79 FR 29958, May 23, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018; 86 FR 6099, Jan. 19, 2021; 87 FR 27896, May 9, 2022; 88 FR 22334, Apr. 12, 2023]
+[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000. Redesignated at 70 FR 4736, Jan. 28, 2005, and amended at 70 FR 4737, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 75 FR 19809, Apr. 15, 2010; 79 FR 29958, May 23, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018; 86 FR 6099, Jan. 19, 2021; 87 FR 27896, May 9, 2022; 88 FR 22334, Apr. 12, 2023; 89 FR 30824, Apr. 23, 2024]

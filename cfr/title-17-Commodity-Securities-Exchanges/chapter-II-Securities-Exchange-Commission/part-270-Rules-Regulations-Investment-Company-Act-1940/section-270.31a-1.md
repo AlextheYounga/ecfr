@@ -1,5 +1,7 @@
 ##### § 270.31a-1 Records to be maintained by registered investment companies, certain majority-owned subsidiaries thereof, and other persons having transactions with registered investment companies. #####
 
+Link to an amendment published at 89 FR 47789, June 3, 2024.
+
 (a) Every registered investment company, and every underwriter, broker, dealer, or investment adviser which is a majority-owned subsidiary of such a company, shall maintain and keep current the accounts, books, and other documents relating to its business which constitute the record forming the basis for financial statements required to be filed pursuant to section 30 of the Investment Company Act of 1940 and of the auditor's certificates relating thereto.
 
 (b) Every registered investment company shall maintain and keep current the following books, accounts, and other documents:

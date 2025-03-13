@@ -4,7 +4,7 @@
 
 (b) *Substitution of Commission for other agencies in court proceedings.* Pursuant to section 705(e) of the DOE Act, the Commission authorizes the Solicitor of the Commission to file the appropriate pleadings to substitute the Commission for the Interstate Commerce Commission or the Federal Power Commission as necessary in any pending court litigation, responsibility for which is transferred to the Commission.
 
-Appendix to § 375.104PART 1000—TRANSFER OF PROCEEDINGS TO THE SECRETARY OF ENERGY AND THE FEDERAL ENERGY REGULATORY COMMISSION§ 1000.1 Transfer of proceedings.
+Appendix to § 375.104 PART 1000—TRANSFER OF PROCEEDINGS TO THE SECRETARY OF ENERGY AND THE FEDERAL ENERGY REGULATORY COMMISSION § 1000.1 Transfer of proceedings.
 
 (a) *Scope.*This part establishes the transfer of proceedings pending with regard to those functions of various agencies which have been consolidated in the Department of Energy and identifies those proceedings which are transferred into the jurisdiction of the Secretary and those which are transferred into the jurisdiction of the Federal Energy Regulatory Commission.
 

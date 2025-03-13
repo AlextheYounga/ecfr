@@ -1,7 +1,5 @@
 ##### § 423.578 Exceptions process. #####
 
-Link to an amendment published at 89 FR 30841, Apr. 23, 2024.
-
 (a) *Requests for exceptions to a plan's tiered cost-sharing structure.* Each Part D plan sponsor that provides prescription drug benefits for Part D drugs and manages this benefit through the use of a tiered formulary must establish and maintain reasonable and complete exceptions procedures subject to CMS' approval for this type of coverage determination. The Part D plan sponsor grants an exception whenever it determines that the requested non-preferred drug for treatment of the enrollee's condition is medically necessary, consistent with the physician's or other prescriber's statement under paragraph (a)(4) of this section.
 
 (1) The tiering exceptions procedures must address situations where a formulary's tiering structure changes during the year and an enrollee is using a drug affected by the change.
@@ -100,10 +98,10 @@ Link to an amendment published at 89 FR 30841, Apr. 23, 2024.
 
 (iii) An enrollee may not request a tiering exception for a non-formulary prescription drug approved under § 423.578(b).
 
-(d) *Notice regarding formulary changes.* Whenever a Part D plan sponsor removes a covered part D drug from its formulary or makes any changes in the preferred or tiered cost-sharing status of such a drug, the Part D plan sponsor must provide notice in accordance with § 423.120(b)(5).
+(d) Notice regarding formulary changes. Whenever a Part D plan sponsor makes any negative formulary change, as defined in § 423.100, to its CMS-approved formulary, the Part D plan sponsor must provide notice in accordance with the requirements at § 423.120(b)(5) and (f).
 
 (e) *Limitation of the exceptions procedures to Part D drugs.* Nothing in this section may be construed to allow an enrollee to use the exceptions processes set out in this section to request or be granted coverage for a prescription drug that does not meet the definition of a Part D drug.
 
 (f) *Implication of the physician's or other prescriber's supporting statement.* Nothing in this section should be construed to mean that the physician's or other prescriber's supporting statement required for an exceptions request will result in an automatic favorable decision.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1546, Jan. 12, 2009; 83 FR 16751, Apr. 16, 2018; 86 FR 6120, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1546, Jan. 12, 2009; 83 FR 16751, Apr. 16, 2018; 86 FR 6120, Jan. 19, 2021; 89 FR 30841, Apr. 23, 2024]

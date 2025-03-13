@@ -1,8 +1,10 @@
 ##### § 423.600 Reconsideration by an independent review entity (IRE). #####
 
-Link to an amendment published at 89 FR 30841, Apr. 23, 2024.
+(a) An enrollee who is dissatisfied with the redetermination of a Part D plan sponsor has a right to a reconsideration by an independent review entity that contracts with CMS. The prescribing physician or other prescriber (acting on behalf of an enrollee), upon providing notice to the enrollee, may request an IRE reconsideration. The enrollee, or the enrollee's prescribing physician or other prescriber (acting on behalf of the enrollee) must file a written request for reconsideration with the IRE within 60 calendar days after receipt of the written redetermination by the Part D plan sponsor.
 
-(a) An enrollee who is dissatisfied with the redetermination of a Part D plan sponsor has a right to a reconsideration by an independent review entity that contracts with CMS. The prescribing physician or other prescriber (acting on behalf of an enrollee), upon providing notice to the enrollee, may request an IRE reconsideration. The enrollee, or the enrollee's prescribing physician or other prescriber (acting on behalf of the enrollee) must file a written request for reconsideration with the IRE within 60 calendar days of the date of the redetermination by the Part D plan sponsor.
+(1) The date of receipt of the redetermination is presumed to be 5 calendar days after the date of the Part D plan sponsor's written redetermination, unless there is evidence to the contrary.
+
+(2) For purposes of meeting the 60-calendar day filing deadline, the request is considered as filed on the date it is received by the IRE specified in the Part D plan sponsor's written redetermination.
 
 (b) When an enrollee, or an enrollee's prescribing physician or other prescriber (acting on behalf of the enrollee), files an appeal or a determination is forwarded to the IRE by a Part D plan sponsor, the IRE is required to solicit the views of the prescribing physician or other prescriber.
 
@@ -48,4 +50,4 @@ Link to an amendment published at 89 FR 30841, Apr. 23, 2024.
 
 (k) If the IRE determines that the Part D plan sponsor's dismissal was in error, the IRE vacates the dismissal and remands the case to the Part D plan sponsor for reconsideration consistent with § 423.590. The IRE's decision regarding an Part D plan sponsor's dismissal, including a decision to deny a request for review of a dismissal, is binding and not subject to further review.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1548, Jan. 12, 2009; 74 FR 65363, Dec. 9, 2009; 77 FR 22171, Apr. 12, 2012; 86 FR 6120, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1548, Jan. 12, 2009; 74 FR 65363, Dec. 9, 2009; 77 FR 22171, Apr. 12, 2012; 86 FR 6120, Jan. 19, 2021; 89 FR 30841, Apr. 23, 2024]

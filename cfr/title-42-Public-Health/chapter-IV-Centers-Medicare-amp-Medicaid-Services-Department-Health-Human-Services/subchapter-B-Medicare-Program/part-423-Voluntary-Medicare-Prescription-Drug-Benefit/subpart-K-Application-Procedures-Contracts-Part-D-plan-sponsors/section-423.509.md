@@ -1,7 +1,5 @@
 ##### § 423.509 Termination of contract by CMS. #####
 
-Link to an amendment published at 89 FR 30838, Apr. 23, 2024.
-
 (a) *Termination by CMS.* CMS may at any time terminate a contract if CMS determines that the Part D plan sponsor meets any of the following:
 
 (1) Has failed substantially to carry out the contract.
@@ -88,4 +86,18 @@ Link to an amendment published at 89 FR 30838, Apr. 23, 2024.
 
 (e) *Timely transfer of data and files.* If a contract is terminated under paragraph (a) of this section, the Part D plan sponsor must ensure the timely transfer of any data or files.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68733, Dec. 5, 2007; 73 FR 20507, Apr. 15, 2008; 75 FR 19822, Apr. 15, 2010; 76 FR 21575, Apr. 15, 2011; 77 FR 22170, Apr. 12, 2012; 78 FR 31310, May 23, 2013; 79 FR 29965, May 23, 2014; 80 FR 7965, Feb. 12, 2015; 83 FR 16750, Apr. 16, 2018]
+(f) If CMS makes a determination to terminate a Part D sponsor's contract under § 423.509(a), CMS also imposes the intermediate sanctions at § 423.750(a)(1) and (3) in accordance with the following procedures:
+
+(1) The sanction will go into effect 15 days after the termination notice is sent.
+
+(2) The Part D sponsor will have a right to appeal the intermediate sanction in the same proceeding as the termination appeal specified in paragraph (d) of this section.
+
+(3) A request for a hearing does not delay the date specified by CMS when the sanction becomes effective.
+
+(4) The sanction will remain in effect—
+
+(i) Until the effective date of the termination; or
+
+(ii) If the termination decision is overturned on appeal, when a final decision is made by the hearing officer or Administrator.
+
+[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68733, Dec. 5, 2007; 73 FR 20507, Apr. 15, 2008; 75 FR 19822, Apr. 15, 2010; 76 FR 21575, Apr. 15, 2011; 77 FR 22170, Apr. 12, 2012; 78 FR 31310, May 23, 2013; 79 FR 29965, May 23, 2014; 80 FR 7965, Feb. 12, 2015; 83 FR 16750, Apr. 16, 2018; 89 FR 30838, Apr. 23, 2024]

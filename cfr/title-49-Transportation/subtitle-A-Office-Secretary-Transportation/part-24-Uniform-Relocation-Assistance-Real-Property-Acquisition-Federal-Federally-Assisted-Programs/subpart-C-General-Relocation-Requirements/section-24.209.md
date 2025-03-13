@@ -1,0 +1,3 @@
+##### § 24.209 Relocation payments not considered as income. #####
+
+No relocation payment received by a displaced person or person required to move temporarily under this part shall be considered as income for the purpose of the Internal Revenue Code of 1954, which has been redesignated as the Internal Revenue Code of 1986 (title 26, U.S.C.), or for the purpose of determining the eligibility or the extent of eligibility of any person for assistance under the Social Security Act (42 U.S.C. 301 *et seq.*) or any other Federal law, except for any Federal law providing low-income housing assistance.

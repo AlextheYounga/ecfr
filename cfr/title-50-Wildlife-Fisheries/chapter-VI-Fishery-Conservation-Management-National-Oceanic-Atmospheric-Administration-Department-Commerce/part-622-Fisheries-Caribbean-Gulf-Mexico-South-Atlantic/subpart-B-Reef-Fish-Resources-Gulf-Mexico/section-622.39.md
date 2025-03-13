@@ -1,7 +1,5 @@
 ##### § 622.39 Quotas. #####
 
-Link to an amendment published at 89 FR 40436, May 10, 2024.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section, provides quotas and specific quota closure restrictions for Gulf reef fish.
 
 (a) *Gulf reef fish*—(1) *Commercial quotas.* The following quotas apply to persons who fish under commercial vessel permits for Gulf reef fish, as required under § 622.20(a)(1).
@@ -22,13 +20,15 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (*2*) For fishing year 2015 and subsequent fishing years—525,000 lb (238,136 kg).
 
-(B) *Gag.* (*1*) For fishing year 2012—0.567 million lb (0.257 million kg).
+(B) *Gag.* See table 1.
 
-(*2*) For fishing year 2013—0.708 million lb (0.321 million kg).
-
-(*3*) For fishing year 2014—0.835 million lb (0.378 million kg).
-
-(*4*) For fishing year 2015 and subsequent fishing years—0.939 million lb (0.426 million kg).
+|Year |Commercial quota in lb  <br/>(kg)|
+|-----|---------------------------------|
+|2024 |        147,000 (66,678)         |
+|2025 |        204,000 (92,533)         |
+|2026 |        255,000 (115,666)        |
+|2027 |        313,000 (141,974)        |
+|2028+|        383,000 (173,726)        |
 
 (C) *Red grouper.* 2.79 million lb (1.27 million kg).
 

@@ -48,4 +48,4 @@
 
 (4) If paragraphs (d)(1) or (d)(2) of this section require an applicant to reveal Critical Energy Infrastructure Information (CEII), as defined by § 388.113(c) of this chapter, to any person, the applicant shall follow the procedures set out in § 157.10(d).
 
-[Order 234, 47 FR 24266, June 4, 1982]Editorial Note:For Federal Register citations affecting § 157.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 234, 47 FR 24266, June 4, 1982] Editorial Note:For Federal Register citations affecting § 157.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

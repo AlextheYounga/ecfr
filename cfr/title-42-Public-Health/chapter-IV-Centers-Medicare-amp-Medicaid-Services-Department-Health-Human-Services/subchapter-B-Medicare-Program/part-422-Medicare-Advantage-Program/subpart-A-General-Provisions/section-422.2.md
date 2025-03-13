@@ -1,7 +1,5 @@
 ##### § 422.2 Definitions. #####
 
-Link to an amendment published at 89 FR 30812, Apr. 23, 2024.
-
 As used in this part—
 
 *Aligned enrollment* refers to the enrollment in a dual eligible special needs plan of full-benefit dual eligible individuals whose Medicaid benefits are covered under a Medicaid managed care organization contract under section 1903(m) of the Act between the applicable State and: the dual eligible special needs plan's (D-SNP's) MA organization, the D-SNP's parent organization, or another entity that is owned and controlled by the D-SNP's parent organization. When State policy limits a D-SNP's membership to individuals with aligned enrollment, this condition is referred to as exclusively aligned enrollment.
@@ -18,9 +16,15 @@ As used in this part—
 
 *Balance billing* generally refers to an amount billed by a provider that represents the difference between the amount the provider charges an individual for a service and the sum of the amount the individual's health insurer (for example, the original Medicare program) will pay for the service plus any cost-sharing by the individual.
 
-*Basic benefits* means all Medicare-covered benefits (except hospice services).
+*Basic benefits* means Part A and Part B benefits except—
+
+(1) Hospice services; and
+
+(2) Beginning in 2021, organ acquisitions for kidney transplants, including costs covered under section 1881(d) of the Act.
 
 *Benefits* means health care services that are intended to maintain or improve the health status of enrollees, for which the MA organization incurs a cost or liability under an MA plan (not solely an administrative processing cost). Benefits are submitted and approved through the annual bidding process.
+
+*Chronic condition special needs plan (C-SNPs)* means an SNP that restricts enrollment to MA eligible individuals who have one or more severe or disabling chronic conditions, as defined under this section, including restricting enrollment based on the multiple commonly co-morbid and clinically linked condition groupings specified in § 422.4(a)(1)(iv).
 
 *Coinsurance* is a fixed percentage of the total amount paid for a health care service that can be charged to an MA enrollee on a per-service basis.
 
@@ -45,6 +49,14 @@ As used in this part—
 (ii) Is a highly integrated dual eligible special needs plan.
 
 (iii) Is a fully integrated dual eligible special needs plan.
+
+*Facility-based Institutional special needs plan (FI-SNP)* means a type of I-SNP that—
+
+(1) Restricts enrollment to MA eligible individuals who meet the definition of institutionalized;
+
+(2) Must own or contract with at least one institution, specified in the definition of institutionalized in this section, for each county in the plan's service area; and
+
+(3) Must own or have a contractual arrangement with each institutionalized facility serving enrollees in the plan.
 
 *First tier entity* means any party that enters into a written arrangement, acceptable to CMS, with an MA organization or applicant to provide administrative services or health care services for a Medicare eligible individual under the MA program.
 
@@ -91,6 +103,22 @@ As used in this part—
 (ii) Behavioral health services; and
 
 (3) For plan year 2025 and subsequent years, the capitated contract covers the entire service area for the dual eligible special needs plan.
+
+*Hybrid Institutional special needs plan (HI-SNP)* means a type of I-SNP that—
+
+(1) Restricts enrollment to both MA eligible individuals who meet the definition of institutionalized and MA eligible individuals who meet the definition of institutionalized-equivalent in this section; and
+
+(2) Meet the standards specified in the definitions of FI-SNP and IE-SNP.
+
+*Institutional-equivalent special needs plan (IE-SNP)* means a type of I-SNP that restricts enrollment to MA eligible individuals who meet the definition of institutionalized-equivalent in this section.
+
+*Institutional special needs plan (I-SNP)* means a SNP that restricts enrollment to MA eligible individuals who meet the definition of institutionalized and institutionalized-equivalent in this section. I-SNPs include the following subtypes:
+
+(1) IE-SNP.
+
+(2) HI-SNP.
+
+(3) FI-SNP.
 
 *Institutionalized* means, for the purposes of defining a special needs individual and for the open enrollment period for institutionalized individuals at § 422.62(a)(4), an MA eligible individual who continuously resides or is expected to continuously reside for 90 days or longer in one of the following long-term care facility settings:
 
@@ -151,6 +179,18 @@ As used in this part—
 (2) Meets the requirements of § 422.262(b).
 
 *National coverage determination* (NCD) means a national policy determination regarding the coverage status of a particular service that CMS makes under section 1862(a)(1) of the Act, and publishes as a Federal Register notice or CMS ruling. (The term does not include coverage changes mandated by statute.)
+
+*Network-based plan*—
+
+(1) Means—
+
+(i) A coordinated care plan as specified in § 422.4(a)(1)(iii);
+
+(ii) A network-based MSA plan; or
+
+(iii) A section 1876 reasonable cost plan; and
+
+(2) Excludes an MA regional plan that meets access requirements substantially through the authority of § 422.112(a)(1)(ii) instead of written contracts.
 
 *Optional supplemental benefits* are health services not covered by Medicare that are purchased at the option of the MA enrollee and paid for in full, directly by (or on behalf of) the Medicare enrollee, in the form of premiums or cost-sharing. These services may be grouped or offered individually.
 
@@ -250,7 +290,177 @@ As used in this part—
 
 (3) For MA regional plans, whether the service area consists of the entire region.
 
-*Severe or disabling chronic condition* means for the purpose of defining a special needs individual, an MA eligible individual who has one or more co-morbid and medically complex chronic conditions that are substantially disabling or life-threatening, has a high risk of hospitalization or other significant adverse health outcomes, and requires specialized delivery systems across domains of care.
+*Severe or disabling chronic condition* means, for the purpose of defining a special needs individual, the following co-morbid and medically complex chronic conditions that are life-threatening or significantly limit overall health or function, has a high risk of hospitalization or other significant adverse health outcomes, and requires intensive care coordination, and that which is designated by the Secretary under sections 1859(b)(6)(B)(iii)(II) and 1859(f)(9)(A) of the Act:
+
+(1) Chronic alcohol use disorder and other substance use disorders (SUDs).
+
+(2) Autoimmune disorders:
+
+(i) Polyarteritis nodosa.
+
+(ii) Polymyalgia rheumatica.
+
+(iii) Polymyositis.
+
+(iv) Dermatomyositis.
+
+(v) Rheumatoid arthritis.
+
+(vi) Systemic lupus erythematosus.
+
+(vii) Psoriatic arthritis.
+
+(viii) Scleroderma.
+
+(3) Cancer.
+
+(4) Cardiovascular disorders:
+
+(i) Cardiac arrhythmias.
+
+(ii) Coronary artery disease.
+
+(iii) Peripheral vascular disease.
+
+(iv) Valvular heart disease.
+
+(5) Chronic heart failure.
+
+(6) Dementia.
+
+(7) Diabetes mellitus.
+
+(8) Overweight, obesity, and metabolic syndrome.
+
+(9) Chronic gastrointestinal disease:
+
+(i) Chronic liver disease.
+
+(ii) Non-alcoholic fatty liver disease (NAFLD).
+
+(iii) Hepatitis B.
+
+(iv) Hepatitis C.
+
+(v) Pancreatitis.
+
+(vi) Irritable bowel syndrome.
+
+(vii) Inflammatory bowel disease.
+
+(10) Chronic kidney disease (CKD):
+
+(i) CKD requiring dialysis/End-stage renal disease (ESRD).
+
+(ii) CKD not requiring dialysis.
+
+(11) Severe hematologic disorders:
+
+(i) Aplastic anemia.
+
+(ii) Hemophilia.
+
+(iii) Immune thrombocytopenic purpura.
+
+(iv) Myelodysplastic syndrome.
+
+(v) Sickle-cell disease (excluding sickle-cell trait).
+
+(vi) Chronic venous thromboembolic disorder.
+
+(12) HIV/AIDS.
+
+(13) Chronic lung disorders:
+
+(i) Asthma, Chronic bronchitis.
+
+(ii) Cystic Fibrosis.
+
+(iii) Emphysema.
+
+(iv) Pulmonary fibrosis.
+
+(v) Pulmonary hypertension.
+
+(vi) Chronic Obstructive Pulmonary Disease (COPD).
+
+(14) Chronic and disabling mental health conditions:
+
+(i) Bipolar disorders.
+
+(ii) Major depressive disorders.
+
+(iii) Paranoid disorder.
+
+(iv) Schizophrenia.
+
+(v) Schizoaffective disorder.
+
+(vi) Post-traumatic stress disorder (PTSD).
+
+(vii) Eating Disorders.
+
+(viii) Anxiety disorders.
+
+(15) Neurologic disorders:
+
+(i) Amyotrophic lateral sclerosis (ALS).
+
+(ii) Epilepsy.
+
+(iii) Extensive paralysis (that is, hemiplegia, quadriplegia, paraplegia, monoplegia).
+
+(iv) Huntington's disease.
+
+(v) Multiple sclerosis.
+
+(vi) Parkinson's disease.
+
+(vii) Polyneuropathy.
+
+(viii) Fibromyalgia.
+
+(ix) Chronic fatigue syndrome.
+
+(x) Spinal cord injuries.
+
+(xi) Spinal stenosis.
+
+(xii) Stroke-related neurologic deficit.
+
+(16) Stroke.
+
+(17) Post-organ transplantation care.
+
+(18) Immunodeficiency and Immunosuppressive disorders.
+
+(19) Conditions associated with cognitive impairment:
+
+(i) Alzheimer's disease.
+
+(ii) Intellectual disabilities and developmental disabilities.
+
+(iii) Traumatic brain injuries.
+
+(iv) Disabling mental illness associated with cognitive impairment.
+
+(v) Mild cognitive impairment.
+
+(20) Conditions with functional challenges and require similar services including the following:
+
+(i) Spinal cord injuries.
+
+(ii) Paralysis.
+
+(iii) Limb loss.
+
+(iv) Stroke.
+
+(v) Arthritis.
+
+(21) Chronic conditions that impair vision, hearing (deafness), taste, touch, and smell.
+
+(22) Conditions that require continued therapy services in order for individuals to maintain or retain functioning.
 
 *Special needs individual* means an MA eligible individual who is institutionalized or institutionalized-equivalent, as those terms are defined in this section, is entitled to medical assistance under a State plan under title XIX, or has a severe or disabling chronic condition(s) and would benefit from enrollment in a specialized MA plan.
 
@@ -258,4 +468,4 @@ As used in this part—
 
 *Step therapy* means a utilization management policy for coverage of drugs that begins medication for a medical condition with the most preferred or cost effective drug therapy and progresses to other drug therapies if medically necessary.
 
-[63 FR 35068, June 26, 1998, as amended at 65 FR 40314, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 74 FR 1540, Jan. 12, 2009; 75 FR 19803, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 83 FR 16722, Apr. 16, 2018; 84 FR 15827, Apr. 16, 2019; 84 FR 23879, May 23, 2019; 86 FR 6094, Jan. 19, 2021; 87 FR 27893, May 9, 2022]
+[63 FR 35068, June 26, 1998, as amended at 65 FR 40314, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 74 FR 1540, Jan. 12, 2009; 75 FR 19803, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 83 FR 16722, Apr. 16, 2018; 84 FR 15827, Apr. 16, 2019; 84 FR 23879, May 23, 2019; 86 FR 6094, Jan. 19, 2021; 87 FR 27893, May 9, 2022; 89 FR 30812, Apr. 23, 2024]

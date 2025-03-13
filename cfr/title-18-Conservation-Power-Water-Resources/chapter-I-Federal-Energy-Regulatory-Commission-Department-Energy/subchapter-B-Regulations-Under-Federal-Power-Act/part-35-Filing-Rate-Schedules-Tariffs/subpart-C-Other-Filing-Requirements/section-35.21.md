@@ -6,7 +6,7 @@ Upon further order of this Commission issued upon its own motion or upon complai
 
 (2) Rates and charges for or in connection with that service, and
 
-(3) All classifications, practices, rules, regulations, or contracts which in any manner affect or relate to the aforementioned service, rates and charges. This statement shall be in writing and may take the physical form of a contractual document, purchase or sale agreement, lease of facilities, tariff5 or other writing. Any oral agreement or understanding forming a part of such statement shall be reduced to writing and made a part thereof.
+(3) All classifications, practices, rules, regulations, or contracts which in any manner affect or relate to the aforementioned service, rates and charges. This statement shall be in writing and may take the physical form of a contractual document, purchase or sale agreement, lease of facilities, tariff 5 or other writing. Any oral agreement or understanding forming a part of such statement shall be reduced to writing and made a part thereof.
 
 5 See § 35.2.
 

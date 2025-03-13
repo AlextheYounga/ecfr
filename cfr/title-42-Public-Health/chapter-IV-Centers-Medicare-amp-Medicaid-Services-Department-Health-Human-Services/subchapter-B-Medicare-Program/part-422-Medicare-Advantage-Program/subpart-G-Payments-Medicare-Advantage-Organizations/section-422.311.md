@@ -1,10 +1,8 @@
 ##### § 422.311 RADV audit dispute and appeal processes. #####
 
-Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
+(a) *Risk adjustment data validation (RADV) audits.* In accordance with §§ 422.2 and 422.310(e), the Secretary conducts RADV audits to ensure risk-adjusted payment integrity and accuracy.
 
-(a) *Risk adjustment data validation (RADV) audits.* In accordance with §§ 422.2 and 422.310(e), the Secretary annually conducts RADV audits to ensure risk-adjusted payment integrity and accuracy.
-
-(1) Recovery of improper payments from MA organizations will be conducted in accordance with the Secretary's payment error extrapolation and recovery methodologies.
+(1) Recovery of improper payments from MA organizations is conducted in accordance with the Secretary's payment error extrapolation and recovery methodologies.
 
 (2) CMS may apply extrapolation to audits for payment year 2018 and subsequent payment years.
 
@@ -68,19 +66,19 @@ Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
 
 (A) Whether the MA organization requests medical record review determination appeal, the issues with which the MA organization disagrees, and the reasons for the disagreements.
 
-(B) Whether the MA organization requests RADV payment error calculation appeal, the issues with which the MA organization disagrees, and the reasons for the disagreements.
+(B) Whether the MA organization requests a payment error calculation appeal, the issues with which the MA organization disagrees, and the reasons for the disagreements. MA organizations will forgo their medical record review determination appeal if they choose to file only a payment error calculation appeal because medical record review determinations need to be final prior to adjudicating a payment error calculation appeal.
 
-(C) Whether the MA organization requests both medical record review determination appeal and RADV payment error calculation appeal, the issues with which the MA organization disagrees, and the reasons for the disagreements.
+(iii) For MA organizations that intend to appeal both the medical record review determination and the RADV payment error calculation, an MA organization's request for appeal of its RADV payment error calculation may not be filed and will not be adjudicated until—
 
-(iii) For MA organizations that appeal both medical record review determination appeal and RADV payment error calculation appeal:
+(A) The administrative appeal process for the RADV medical record review determinations filed by the MA organization has been exhausted; or
 
-(A) The Secretary adjudicates the request for RADV payment error calculation following conclusion of reconsideration of the MA organization's request for medical record review determination appeal.
+(B) The MA organization does not timely request a RADV medical record review determination appeal at the hearing stage and/or the CMS Administrator review stage, as applicable.
 
-(B) An MA organization's request for appeal of its RADV payment error calculation will not be adjudicated until appeals of RADV medical record review determinations filed by the MA organization have been completed and the decisions are final for that stage of appeal.
+(iv) An MA organization whose medical record review determination appeal has been completed as described in paragraph (c)(5)(iii) of this section has 60 days from the date of issuance of a revised RADV audit report, based on the final medical record review determination, to file a written request with CMS for a RADV payment error calculation appeal. This request for RADV payment error calculation appeal must clearly specify where the Secretary's RADV payment error calculation was erroneous, what the MA organization disagrees with, and the reasons for the disagreements.
 
 (6) *Reconsideration stage*—(i) *Written request for medical record review reconsideration.* A MA organization's written request for medical record review determination reconsideration must specify the following:
 
-(A) The audited HCC that the Secretary identified as being in error that the MA organization wishes to appeal.
+(A) Any and all HCC(s) that the Secretary identified as being in error that the MA organization wishes to appeal.
 
 (B) A justification in support of the audited HCC chosen for appeal.
 
@@ -106,9 +104,13 @@ Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
 
 (iv) *Effect of the reconsideration official's decision.* (A) The reconsideration official issues a written reconsideration decision to the MA organization.
 
-(B) The reconsideration official's decision is final unless the MA organization disagrees with the reconsideration official's decision.
+(B) The reconsideration official's decision is final unless it is reversed or modified by a final decision of the hearing officer as defined at § 422.311(c)(7)(x).
 
 (C) If the MA organization disagrees with the reconsideration official's decision, they may request a hearing in accordance with paragraph (c)(7) of this section.
+
+(v) *Computations based on reconsideration official's decision.* (A) Once the reconsideration official's medical record review determination decision is considered final in accordance with paragraph (c)(6)(iv)(B) of this section, the Secretary recalculates the MA organization's RADV payment error and issues a revised RADV audit report superseding all prior RADV audit reports to the appellant MA organization.
+
+(B) For MA organizations appealing the RADV payment error calculation only, once the reconsideration official's payment error calculation decision is considered final in accordance with paragraph (c)(6)(iv)(B) of this section, the Secretary recalculates the MA organization's RADV payment error and issues a revised RADV audit report superseding all prior RADV audit reports to the appellant MA organization.
 
 (7) *Hearing stage*—(i) *Errors eligible for hearing.* At the time the reconsideration official issues his or her reconsideration determination to the MA organization, the reconsideration official notifies the MA organization of any RADV HCC errors or payment error-calculations that are eligible for RADV hearing.
 
@@ -180,9 +182,9 @@ Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
 
 (viii) *Hearing Officer decision.* The hearing officer decides whether to uphold or overturn the reconsideration official's decision, and sends a written determination to CMS and the MA organization, explaining the basis for the decision.
 
-(ix) *Computations based on hearing decision.* (A) Once the hearing officer's decision is considered final in accordance with paragraph (c)(7)(x) of this section, a third party not involved in the initial RADV payment error calculation recalculates the MA organization's RADV payment error and issues a new RADV audit report to the appellant MA organization and CMS.
+(ix) *Computations based on Hearing Officer's decision.* (A) Once the hearing officer's medical record review determination decision is considered final in accordance with paragraph (c)(7)(x) of this section, the Secretary recalculates the MA organization's RADV payment error and issues a revised RADV audit report superseding all prior RADV audit reports to the appellant MA organization.
 
-(B) For MA organizations appealing the RADV error calculation only, a third party not involved in the initial RADV payment error calculation recalculates the MA organization's RADV payment error and issues a new RADV audit report to the appellant MA organization and CMS.
+(B) For MA organizations appealing the RADV payment error calculation only, once the hearing officer's payment error calculation decision is considered final in accordance with paragraph (c)(7)(x) of this section, the Secretary recalculates the MA organization's RADV payment error and issues a revised RADV audit report superseding all prior RADV audit reports to the appellant MA organization.
 
 (x) *Effect of the Hearing Officer's decision.* The hearing officer's decision is final unless the decision is reversed or modified by the CMS Administrator.
 
@@ -190,28 +192,28 @@ Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
 
 (ii) CMS or a MA organization that has received a hearing officer's decision and requests review by the CMS Administrator must do so within 60 days of receipt of the hearing officer's decision.
 
-(iii) After receiving a request for review, the CMS Administrator has the discretion to elect to review the hearing officer's decision or to decline to review the hearing officer's decision.
+(iii) After reviewing a request for review, the CMS Administrator has the discretion to elect to review the hearing officer's decision or to decline to review the hearing officer's decision. If the CMS Administrator does not decline to review or does not elect to review within 90 days of receipt of either the MA organization or CMS's timely request for review (whichever is later), the hearing officer's decision becomes final.
 
 (iv) If the CMS Administrator elects to review the hearing decision—
 
-(A) The CMS Administrator acknowledges the decision to review the hearing decision in writing and notifies CMS and the MA organization of their right to submit comments within 15 days of the date of the notification; and
+(A) The CMS Administrator acknowledges the decision to review the hearing decision in writing and notifies CMS and the MA organization of their right to submit comments within 15 days of the date of the issuance of the notification that the Administrator has elected to review the hearing decision; and
 
-(B) The CMS Administrator is limited to the review of the record. The record is comprised of the following:
+(B) [Reserved]
 
-(*1*) The record is comprised of documents described at paragraph (c)(7)(vii)(B)(3) of this section.
-
-(*2*) The hearing record.
-
-(*3*) Written arguments from the MA organization or CMS explaining why either or both parties believe the hearing officer's determination was correct or incorrect.
-
-(C) The CMS Administrator reviews the record and determines whether the hearing officer's determination should be upheld, reversed, or modified.
-
-(v) The CMS Administrator renders his or her final decision in writing to the parties within 60 days of acknowledging his or her decision to review the hearing officer's decision.
+(v) The CMS Administrator renders his or her final decision in writing within 60 days of the date of the issuance of the notice acknowledging his or her decision to elect to review the hearing officer's decision.
 
 (vi) The decision of the hearing officer is final if the CMS Administrator—
 
 (A) Declines to review the hearing officer's decision; or
 
-(B) Does not make a decision within 60 days.
+(B) Does not decline to review or elect to review within 90 days of the date of the receipt of either the MA organization or CMS's request for review (whichever is later); or
 
-[75 FR 19806, Apr. 15, 2010; 75 FR 32859, June 10, 2010; as amended at 79 FR 29956, May 23, 2014; 88 FR 6665, Feb. 1, 2023]
+(C) Does not make a decision within 60 days of the date of the issuance of the notice acknowledging his or her decision to elect to review the hearing officer's decision.
+
+(vii) *Computations based on CMS Administrator decision.* (A) Once the CMS Administrator's medical record review determination decision is considered final in accordance with paragraph (c)(8)(vi) of this section, the Secretary recalculates the MA organization's RADV payment error and issues a revised RADV audit report superseding all prior RADV audit reports to the appellant MA organization.
+
+(B) For MA organizations appealing the RADV payment error calculation only, once the CMS Administrator's payment error calculation decision is considered final in accordance with paragraph (c)(8)(vi) of this section, the Secretary recalculates the MA organization's RADV payment error and issues a revised and final RADV audit report superseding all prior RADV audit reports to the appellant MA organization.
+
+(9) *Final agency action.* In cases when an MA organization files a payment error calculation appeal subsequent to a medical record review determination appeal that has completed the administrative appeals process, the medical record review determination appeal final decision and the payment error calculation appeal final decision will not be considered a final agency action until the payment error calculation appeal has completed the administrative appeals process and a final revised audit report superseding all prior RADV audit reports has been issued to the appellant MA organization.
+
+[75 FR 19806, Apr. 15, 2010; 75 FR 32859, June 10, 2010; as amended at 79 FR 29956, May 23, 2014; 88 FR 6665, Feb. 1, 2023; 89 FR 30822, Apr. 23, 2024]

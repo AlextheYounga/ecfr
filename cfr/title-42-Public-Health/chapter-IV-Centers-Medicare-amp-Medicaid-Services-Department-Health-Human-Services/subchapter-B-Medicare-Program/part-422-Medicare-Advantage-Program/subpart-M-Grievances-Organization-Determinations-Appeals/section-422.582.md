@@ -1,10 +1,12 @@
 ##### § 422.582 Request for a standard reconsideration. #####
 
-Link to an amendment published at 89 FR 30827, Apr. 23, 2024.
-
 (a) *Method and place for filing a request.* A party to an organization determination or, upon providing notice to the enrollee, a physician who is treating an enrollee and acting on the enrollee's behalf, must ask for a reconsideration of the determination by making a written request to the MA organization that made the organization determination. The MA organization may adopt a policy for accepting oral requests.
 
-(b) *Timeframe for filing a request.* Except as provided in paragraph (c) of this section, a request for reconsideration must be filed within 60 calendar days from the date of the notice of the organization determination.
+(b) *Timeframe for filing a request.* Except as provided in paragraph (c) of this section, a request for reconsideration must be filed within 60 calendar days after receipt of the written organization determination notice.
+
+(1) The date of receipt of the organization determination is presumed to be 5 calendar days after the date of the written organization determination, unless there is evidence to the contrary.
+
+(2) For purposes of meeting the 60-calendar day filing deadline, the request is considered as filed on the date it is received by the plan or delegated entity specified in the MA organization's written organization determination.
 
 (c) *Extending the time for filing a request.* (1) *General rule.* If a party or physician acting on behalf of an enrollee shows good cause, the MA organization may extend the timeframe for filing a request for reconsideration.
 
@@ -46,4 +48,4 @@ Link to an amendment published at 89 FR 30827, Apr. 23, 2024.
 
 (i) *Effect of dismissal.* The MA organization's dismissal is binding unless the enrollee or other party requests review by the independent entity in accordance with § 422.590(h) or the decision is vacated under paragraph (h) of this section.
 
-[74 FR 1542, Jan. 12, 2009, as amended at 86 FR 6101, Jan. 19, 2021]
+[74 FR 1542, Jan. 12, 2009, as amended at 86 FR 6101, Jan. 19, 2021; 89 FR 30827, Apr. 23, 2024]

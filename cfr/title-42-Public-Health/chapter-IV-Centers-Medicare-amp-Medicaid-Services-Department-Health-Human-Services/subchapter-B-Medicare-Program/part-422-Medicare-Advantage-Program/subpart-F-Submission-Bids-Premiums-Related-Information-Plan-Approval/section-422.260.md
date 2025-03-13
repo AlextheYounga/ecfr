@@ -1,7 +1,5 @@
 ##### § 422.260 Appeals of quality bonus payment determinations. #####
 
-Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
-
 (a) *Scope.* The provisions of this section pertain to the administrative review process to appeal quality bonus payment status determinations based on section 1853(o) of the Act. Such determinations are made based on the overall rating for MA-PDs and Part C summary rating for MA-only contracts for the contract assigned under subpart D of this part.
 
 (b) *Definitions.* The following definitions apply to this section:
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
 
 (c) *Administrative review process for QBP status appeals.* (1) Reconsideration request. An MA organization may request reconsideration of its QBP status.
 
-(i) The MA organization requesting reconsideration of its QBP status must do so by providing written notice to CMS within 10 business days of the release of its QBP status. The request must specify the given measure(s) in question and the basis for reconsideration such as a calculation error or incorrect data was used to determine the QBP status. The error could impact an individual measure's value or the overall star rating.
+(i) The MA organization requesting reconsideration of its QBP status must do so by providing written notice to CMS within 10 business days of the release of its QBP status. The request must specify the given measure(s) in question and the basis for reconsideration such as a calculation error or incorrect data was used to determine the QBP status. Requests are limited to those circumstances where the error could impact an individual measure's value or the overall Star Rating. Based on any corrections, any applicable measure-level Star Ratings could go up, stay the same, or go down. The overall Star Rating also may go up, stay the same, or go down based on any corrections.
 
 (ii) The reconsideration official's decision is final and binding unless a request for an informal hearing is filed in accordance with paragraph (2) of this section.
 
@@ -36,18 +34,38 @@ Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
 
 (iv) The informal hearing is conducted by a CMS hearing officer on the record. The hearing officer receives no testimony, but may accept written statements with exhibits from each party in support of their position in the matter.
 
-(v) The MA organization must provide clear and convincing evidence that CMS' calculations of the measure(s) and value(s) in question were incorrect.
+(v) The MA organization must prove by a preponderance of evidence that CMS' calculations of the measure(s) and value(s) in question were incorrect. The burden of proof is on the MA organization to prove an error was made in the calculation of the QBP status.
 
 (vi) The hearing officer issues the decision by electronic mail to the MA organization.
 
-(vii) The hearing officer's decision is final and binding.
+(vii) After the hearing officer's decision is issued to the MA organization and the CMS Administrator, the hearing officer's decision is subject to review and modification by the CMS Administrator within 10 business days of issuance. If the Administrator does not review and issue a decision within 10 business days, the hearing officer's decision is final and binding.
 
 (3) *Limits to requesting an administrative review.* (i) CMS may limit the measures or bases for which a contract may request an administrative review of its QBP status.
 
 (ii) An administrative review cannot be requested for the following: the methodology for calculating the star ratings (including the calculation of the overall star ratings); cut-off points for determining measure thresholds; the set of measures included in the star rating system; and the methodology for determining QBP determinations for low enrollment contracts and new MA plans.
 
+(iii) The MA organization may not request a review based on data inaccuracy for the following data sources:
+
+(A) HEDIS.
+
+(B) CAHPS.
+
+(C) HOS.
+
+(D) Part C and D Reporting Requirements.
+
+(E) PDE.
+
+(F) Medicare Plan Finder pricing files.
+
+(G) Data from the Medicare Beneficiary Database Suite of Systems.
+
+(H) Medicare Advantage Prescription Drug (MARx) system.
+
+(I) Other Federal data sources.
+
 (4) *Designation of a hearing officer.* CMS designates a hearing officer to conduct the appeal of the QBP status. The officer must be an individual who did not directly participate in the initial QBP determination.
 
-(d) *Reopening of QBP determinations.* CMS may, on its own initiative, revise an MA organization's QBP status at any time after the initial release of the QBP determinations through April 1 of each year. CMS may take this action on the basis of any credible information, including the information provided during the administrative review process that demonstrates that the initial QBP determination was incorrect.
+(d) *Reopening of QBP determinations.* CMS may, on its own initiative, revise an MA organization's QBP status at any time after the initial release of the QBP determinations through April 1 of each year. CMS may take this action on the basis of any credible information, including the information provided during the administrative review process by a different MA organization, that demonstrates that the initial QBP determination was incorrect. If a contract's QBP determination is reopened as a result of a systemic calculation issue that impacts more than the MA organization that submitted an appeal, the QBP rating for MA organizations that did not appeal will only be updated if it results in a higher QBP rating.
 
-[76 FR 21566, Apr. 15, 2011, as amended at 83 FR 16733, Apr. 16, 2018]
+[76 FR 21566, Apr. 15, 2011, as amended at 83 FR 16733, Apr. 16, 2018; 89 FR 30822, Apr. 23, 2024]

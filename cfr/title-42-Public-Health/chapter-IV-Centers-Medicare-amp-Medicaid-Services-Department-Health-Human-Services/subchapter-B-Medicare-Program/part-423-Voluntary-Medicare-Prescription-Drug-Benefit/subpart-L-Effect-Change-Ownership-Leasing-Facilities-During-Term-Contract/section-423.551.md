@@ -1,7 +1,5 @@
 ##### § 423.551 General provisions. #####
 
-Link to an amendment published at 89 FR 30840, Apr. 23, 2024.
-
 (a) *Change of ownership.* The following constitute a change of ownership:
 
 (1) *Partnership.* The removal, addition, or substitution of a partner, unless the partners expressly agree otherwise as permitted by applicable State law, constitutes a change of ownership.
@@ -26,9 +24,15 @@ Link to an amendment published at 89 FR 30840, Apr. 23, 2024.
 
 (e) *Effect of change of ownership without novation agreement.* Except to the extent provided in paragraph (c)(2) of this section, the effect of a change of ownership without a novation agreement is that—
 
-(1) The existing contract becomes invalid; and
+(1) The current PDP sponsor, with respect to the affected contract, has substantially failed to comply with the regulatory requirements as described in § 423.509(a)(4)(ix) and the contract may be subject to intermediate enrollment and marketing sanctions as outlined in § 423.750(a)(1) and (a)(3). Intermediate sanctions imposed as part of this section remain in place until CMS approves the change of ownership (including execution of an approved novation agreement), or the contract is terminated.
 
-(2) If the new owner wishes to participate in the Medicare program, it must apply for, and enter into, a contract in accordance with subpart K of this part.
+(i)(A) If the new owner does not participate in the Medicare program in the same service area as the affected contract, it must apply for, and enter into, a contract in accordance with subpart K of this part and part 422 if applicable; and
+
+(B) If the application is conditionally approved, must submit, within 30 days of the conditional approval, the documentation required under § 423.551(d) for review and approval by CMS; or
+
+(ii) If the new owner currently participates in the Medicare program and operates in the same service area as the affected contract, it must, within 30 days of imposition of intermediate sanctions as outlined in paragraph (e)(1) of this section, submit the documentation required under § 423.551(d) for review and approval by CMS.
+
+(2) If the new owner fails to begin the processes required under paragraph (e)(1)(i) or (e)(1)(ii) of this section, within 30 days of imposition of intermediate sanctions as outlined in paragraph (e)(1) of this section, the existing contract is subject to termination in accordance with § 423.509(a)(4)(ix).
 
 (f) *Effect of change of ownership with novation agreement.* If the PDP sponsor submits a novation agreement that meets the requirements of § 423.552 and CMS signs it, the new owner becomes the successor in interest to the current owner's Medicare contract under § 423.502.
 
@@ -36,4 +40,4 @@ Link to an amendment published at 89 FR 30840, Apr. 23, 2024.
 
 (2) CMS does not recognize or allow a sale or transfer that consists solely of the sale or transfer of individual beneficiaries or groups of beneficiaries enrolled in a plan benefit package.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1546, Jan. 12, 2009; 75 FR 19822, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 86 FR 6119, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1546, Jan. 12, 2009; 75 FR 19822, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 86 FR 6119, Jan. 19, 2021; 89 FR 30840, Apr. 23, 2024]

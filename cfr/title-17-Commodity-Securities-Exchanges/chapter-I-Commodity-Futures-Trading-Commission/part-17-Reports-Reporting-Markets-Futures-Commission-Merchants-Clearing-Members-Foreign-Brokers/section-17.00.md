@@ -1,5 +1,7 @@
 ##### § 17.00 Information to be furnished by futures commission merchants, clearing members and foreign brokers. #####
 
+Link to an amendment published at 89 FR 47457, June 3, 2024.
+
 (a) *Special accounts—reportable futures and options positions, delivery notices, and exchanges of futures.* (1) Each futures commission merchant, clearing member and foreign broker shall submit a report to the Commission for each business day with respect to all special accounts carried by the futures commission merchant, clearing member or foreign broker, except for accounts carried on the books of another futures commission merchant or clearing member on a fully-disclosed basis. Except as otherwise authorized by the Commission or its designee, such report shall be made in accordance with the format and coding provisions set forth in paragraph (g) of this section. The report shall show each futures position, separately for each reporting market and for each future, and each put and call options position separately for each reporting market, expiration and strike price en each special account as of the close of market on the day covered by the report and, in addition, the quantity of exchanges of futures for commodities or for derivatives positions and the number of delivery notices issued for each such account by the clearing organization of a reporting market and the number stopped by the account. The report shall also show all positions in all contract months and option expirations of that same commodity on the same reporting market for which the special account is reportable.
 
 (2) A report covering the first day upon which a special account is no longer reportable shall also be filed showing the information specified in paragraph (a)(1) of this section.
@@ -30,29 +32,26 @@
 
 (g) *Media and file characteristics.* (1) Except as otherwise approved by the Commission or its designee, all required records shall be submitted together in a single file. Each record will be 80 characters long. The specific record format is shown in the table below:
 
-Record Layout
-
-|Beginning column|Length|Type<sup>1</sup>|        Name        |
-|----------------|------|----------------|--------------------|
-|       1        |  2   |       AN       |    Report Type.    |
-|       3        |  3   |       AN       |  Reporting Firm.   |
-|       6        |  2   |                |     Reserved.      |
-|       8        |  12  |       AN       |  Account Number.   |
-|       20       |  8   |       AN       |    Report Date.    |
-|       28       |  2   |       AN       |   Exchange Code.   |
-|       30       |  1   |       AN       |    Put or Call.    |
-|       31       |  5   |       AN       |Commodity Code (1). |
-|       36       |  8   |       AN       |Expiration Date (1).|
-|       44       |  7   |       S        |   Strike Price.    |
-|       51       |  1   |       AN       |  Exercise Style.   |
-|       52       |  7   |       N        | Long—Buy—Stopped.  |
-|       59       |  7   |       N        | Short—Sell—Issued. |
-|       66       |  5   |       AN       |Commodity Code (2). |
-|       71       |  8   |       AN       |Expiration Date (2).|
-|       79       |  2   |                |     Reserved.      |
-|       80       |  1   |       AN       |    Record Type.    |
-
-<sup>1</sup> AN—Alpha—numeric, N—Numeric, S—Signed numeric.
+|                     Beginning column                      |Length|Type <sup>1</sup>|        Name        |
+|-----------------------------------------------------------|------|-----------------|--------------------|
+|                             1                             |  2   |       AN        |    Report Type.    |
+|                             3                             |  3   |       AN        |  Reporting Firm.   |
+|                             6                             |  2   |                 |     Reserved.      |
+|                             8                             |  12  |       AN        |  Account Number.   |
+|                            20                             |  8   |       AN        |    Report Date.    |
+|                            28                             |  2   |       AN        |   Exchange Code.   |
+|                            30                             |  1   |       AN        |    Put or Call.    |
+|                            31                             |  5   |       AN        |Commodity Code (1). |
+|                            36                             |  8   |       AN        |Expiration Date (1).|
+|                            44                             |  7   |        S        |   Strike Price.    |
+|                            51                             |  1   |       AN        |  Exercise Style.   |
+|                            52                             |  7   |        N        | Long—Buy—Stopped.  |
+|                            59                             |  7   |        N        | Short—Sell—Issued. |
+|                            66                             |  5   |       AN        |Commodity Code (2). |
+|                            71                             |  8   |       AN        |Expiration Date (2).|
+|                            79                             |  2   |                 |     Reserved.      |
+|                            80                             |  1   |       AN        |    Record Type.    |
+|<sup>1</sup> AN—Alpha—numeric, N—Numeric, S—Signed numeric.|      |                 |                    |
 
 (2) Field definitions are as follows:
 

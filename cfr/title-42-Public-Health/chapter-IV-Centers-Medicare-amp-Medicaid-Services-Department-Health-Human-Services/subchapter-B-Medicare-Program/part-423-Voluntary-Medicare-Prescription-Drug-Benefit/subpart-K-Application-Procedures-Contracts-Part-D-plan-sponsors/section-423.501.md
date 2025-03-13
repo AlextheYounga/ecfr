@@ -1,7 +1,5 @@
 ##### § 423.501 Definitions #####
 
-Link to an amendment published at 89 FR 30837, Apr. 23, 2024.
-
 For purposes of this subpart, the following definitions apply:
 
 *Bona fide service fees* means fees paid by a manufacturer to an entity that represent fair market value for a bona fide, itemized service actually performed on behalf of the manufacturer that the manufacturer would otherwise perform (or contract for) in the absence of the service arrangement, and that are not passed on in whole or in part to a client or customer of an entity, whether or not the entity takes title to the drug.
@@ -19,6 +17,30 @@ For purposes of this subpart, the following definitions apply:
 (ii) Health services furnished to the Part D plan sponsor's enrollees by pharmacies and other providers, by Part D plan sponsor staff, medical groups, or independent practice associations, or by any combination of those entities.
 
 *Downstream entity* means any party that enters into a written arrangement, acceptable to CMS, below the level of the arrangement between a Part D plan sponsor (or applicant) and a first tier entity. These written arrangements continue down to the level of the ultimate provider of both health and administrative services.
+
+*Final settlement adjustment period* means the period of time between when the contract terminates and the date the Part D sponsor is issued a notice of the final settlement amount.
+
+*Final settlement amount* means the final payment amount that CMS owes and ultimately pays to a Part D sponsor, or that a Part D sponsor owes and ultimately pays to CMS, with respect to a Part D contract that has consolidated, nonrenewed, or terminated. The final settlement amount is calculated by summing final retroactive payment adjustments for a specific contract that accumulated after that contract ceases operation but before the calculation of the final settlement amount and all of the following applicable reconciliation amounts that have been completed as of the date the notice of final settlement has been issued, without accounting for any data submitted after the data submission deadlines for calculating these reconciliation amounts:
+
+(1) Risk adjustment reconciliation, as applicable (described in § 422.310 of this chapter).
+
+(2) Part D annual reconciliation (described in § 423.343).
+
+(3) Coverage Gap Discount Program annual reconciliation (described in § 423.2320).
+
+(4) MLR remittances (described in §§ 422.2470 of this chapter and 423.2470).
+
+*Final settlement process* means for a contract that has been consolidated, nonrenewed, or terminated, the process by which CMS does all of the following:
+
+(1) Calculates the final settlement amount.
+
+(2) Issues the final settlement amount along with supporting documentation in the notice of final settlement to the Part D sponsor.
+
+(3) Receives responses from the Part D sponsor requesting an appeal of the final settlement amount.
+
+(4)[Reserved]
+
+(5) Takes final actions to adjudicate an appeal (if requested) and make payments to or receive payments from the Part D sponsor. The final settlement amount is calculated after all applicable reconciliations have occurred after a contract has been consolidated, nonrenewed, or terminated.
 
 *First tier entity* means any party that enters into a written arrangement, acceptable to CMS, with a Part D plan sponsor or applicant to provide administrative services or health care services for a Medicare eligible individual under Part D.
 
@@ -64,4 +86,4 @@ For purposes of this subpart, the following definitions apply:
 
 *Significant business transaction* means any business transaction or series of transactions of the kind specified in the above definition of business transaction that, during any fiscal year of the Part D plan sponsor, have a total value that exceeds $25,000 or 5 percent of the PDP sponsor's total operating expenses, whichever is less.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 77 FR 22170, Apr. 12, 2012; 80 FR 29963, Nov. 6, 2015]
+[70 FR 4525, Jan. 28, 2005, as amended at 77 FR 22170, Apr. 12, 2012; 80 FR 29963, Nov. 6, 2015; 89 FR 30837, Apr. 23, 2024]

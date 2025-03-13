@@ -1,12 +1,14 @@
 ##### § 422.584 Expediting certain reconsiderations. #####
 
-Link to an amendment published at 89 FR 30827, Apr. 23, 2024.
-
 (a) *Who may request an expedited reconsideration.* An enrollee or a physician (regardless of whether he or she is affiliated with the MA organization) may request that an MA organization expedite a reconsideration of a determination that involves the issues described in § 422.566(b)(3) and (b)(4). (This does not include requests for payment of services already furnished.)
 
-(b) *How to make a request.* (1) To ask for an expedited reconsideration, an enrollee or a physician acting on behalf of an enrollee must submit an oral or written request directly to the MA organization or, if applicable, to the entity responsible for making the reconsideration, as directed by the MA organization.
+(b) *Procedure and timeframe for filing a request.* A request for reconsideration must be filed within 60 calendar days after receipt of the written organization determination notice. (1) To ask for an expedited reconsideration, an enrollee or a physician acting on behalf of an enrollee must submit an oral or written request directly to the MA organization or, if applicable, to the entity responsible for making the reconsideration, as directed by the MA organization.
 
 (2) A physician may provide oral or written support for a request for an expedited reconsideration.
+
+(3) The date of receipt of the organization determination is presumed to be 5 calendar days after the date of the written organization determination, unless there is evidence to the contrary.
+
+(4) For purposes of meeting the 60-calendar day filing deadline, the request is considered as filed on the date it is received by the plan or delegated entity specified in the MA organization's written organization determination.
 
 (c) *How the MA organization must process requests.* The MA organization must establish and maintain the following procedures for processing requests for expedited reconsiderations:
 
@@ -38,4 +40,4 @@ Link to an amendment published at 89 FR 30827, Apr. 23, 2024.
 
 (g) *Dismissing a request.* The MA organization dismisses an expedited reconsideration request in accordance with § 422.582(f) through (i).
 
-[63 FR 35107, June 26, 1998, as amended at 65 FR 40330, June 29, 2000; 70 FR 4739, Jan. 28, 2005; 84 FR 23881, May 23, 2019; 86 FR 6101, Jan. 19, 2021]
+[63 FR 35107, June 26, 1998, as amended at 65 FR 40330, June 29, 2000; 70 FR 4739, Jan. 28, 2005; 84 FR 23881, May 23, 2019; 86 FR 6101, Jan. 19, 2021; 89 FR 30827, Apr. 23, 2024]

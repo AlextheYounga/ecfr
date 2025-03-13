@@ -12,7 +12,7 @@
 
 (2) *Calculation; headwater benefits formula.* The annual headwater benefits charge for a downstream project is derived by multiplying the section 10(f) cost by the ratio of the energy gains received by the downstream project to the sum of total energy gains received by all downstream projects (except those projects specified in § 11.10(b) of this chapter) plus the energy generated at the headwater project that is assigned to the joint-use power cost, as follows:
 
-![](/graphics/ec14no91.093.gif)In which:P = annual payment to be made for headwater benefits received by a downstream project,Cp = annual section 10(f) cost of the headwater project,En = annual energy gains received at a downstream project, or group of projects if owned by one entity,Ed = annual energy gains received at all downstream projects (except those specified in § 11.10(b) of this chapter), andEj = portion of the annual energy generated at the headwater project assigned to the joint-use power cost.
+![](/graphics/ec14no91.093.gif)In which: P = annual payment to be made for headwater benefits received by a downstream project,Cp = annual section 10(f) cost of the headwater project,En = annual energy gains received at a downstream project, or group of projects if owned by one entity,Ed = annual energy gains received at all downstream projects (except those specified in § 11.10(b) of this chapter), andEj = portion of the annual energy generated at the headwater project assigned to the joint-use power cost.
 
 (3) If power generation is not a function of the headwater project, section 10(f) costs will be apportioned only among the downstream projects.
 

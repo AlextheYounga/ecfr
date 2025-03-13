@@ -1,7 +1,5 @@
 ##### § 422.100 General requirements. #####
 
-Link to an amendment published at 89 FR 30817, Apr. 23, 2024.
-
 (a) *Basic rule.* Subject to the conditions and limitations set forth in this subpart, an MA organization offering an MA plan must provide enrollees in that plan with coverage of the basic benefits described in paragraph (c)(1) of this section (except that additional telehealth benefits may be, but are not required to be, offered by the MA plan) and, to the extent applicable, supplemental benefits as described in paragraph (c)(2) of this section, by furnishing the benefits directly or through arrangements, or by paying for the benefits. CMS reviews these benefits subject to the requirements of this section and the requirements in subpart G of this part.
 
 (b) *Services of noncontracting providers and suppliers.* (1) An MA organization must make timely and reasonable payment to or on behalf of the plan enrollee for the following services obtained from a provider or supplier that does not contract with the MA organization to provide services covered by the MA plan:
@@ -318,4 +316,10 @@ Link to an amendment published at 89 FR 30817, Apr. 23, 2024.
 
 (2) [Reserved]
 
-[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6094, Jan. 19, 2021; 87 FR 22423, Apr. 14, 2022; 87 FR 27893, May 9, 2022; 88 FR 22328, Apr. 12, 2023]
+(o) *Cost sharing standards for D-SNP PPOs.* Beginning on or after January 1, 2026, an MA organization offering a local PPO plan or regional PPO plan that is a dual eligible special needs plan must establish cost sharing for out-of-network services that—
+
+(1) Complies with the limits described in paragraph (f)(6) of this section with the exception that references to the MOOP amounts refer to the total catastrophic limits under § 422.101(d)(3) for local PPOs and MA regional plans; and
+
+(2) Complies with the limits described in paragraph (j)(1) of this section with the exception that references to the MOOP amounts refer to the total catastrophic limits under § 422.101(d)(3) for local PPOs and MA regional plans and, for regional PPO dual eligible special needs plans, excluding paragraph (j)(1)(i)(C)(*2*) and the last sentence of paragraph (j)(1)(i)(E) of this section.
+
+[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6094, Jan. 19, 2021; 87 FR 22423, Apr. 14, 2022; 87 FR 27893, May 9, 2022; 88 FR 22328, Apr. 12, 2023; 89 FR 30817, Apr. 23, 2024]

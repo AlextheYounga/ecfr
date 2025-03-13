@@ -1,7 +1,5 @@
 ##### § 423.505 Contract provisions. #####
 
-Link to an amendment published at 89 FR 30838, Apr. 23, 2024.
-
 (a) *General rule.* The contract between the Part D plan sponsor and CMS must contain the provisions specified in paragraph (b) of this section.
 
 (b) *Requirements for contracts.* The Part D plan sponsor agrees to—
@@ -56,7 +54,7 @@ Link to an amendment published at 89 FR 30838, Apr. 23, 2024.
 
 (iii) Disclose all individual drug prices to be updated to the applicable pharmacies in advance of their use for reimbursement of claims, if the source for any prescription drug pricing standard is not publicly available.
 
-(22) Through the CMS complaint tracking system, address and resolve complaints received by CMS against the Part D sponsor.
+(22) As described in § 423.129, address and resolve complaints received by CMS against the Part D sponsor in the Complaints Tracking Module.
 
 (23) Maintain a fiscally sound operation by at least maintaining a positive net worth (total assets exceed total liabilities).
 
@@ -252,6 +250,16 @@ Link to an amendment published at 89 FR 30838, Apr. 23, 2024.
 
 (5) If the Part D plan sponsor delegates selection of its prescription drug providers to another organization, the Part D sponsor's written arrangements with that organization must state that the CMS-contracting Part D plan sponsor retains the right to approve, suspend, or terminate any such arrangement.
 
+(6) If the Part D plan sponsor delegates any of the following functions to a first tier, downstream, or related entity, the Part D sponsor's written arrangements must state that a termination initiated by such entity must provide, at minimum, 60-days' prior notice and have an effective termination date that coincides with the end of a calendar month:
+
+(i) Authorization, adjudication, and processing of prescription drug claims at the point of sale.
+
+(ii) Administration and tracking of enrollees' drug benefits in real time, including automated coordination of benefits with other payers.
+
+(iii) Operation of an enrollee appeals and grievance process.
+
+(iv) Contracting with or selection of prescription drug providers for inclusion in the Part D sponsor's network.
+
 (j) *Additional contract terms.* The Part D plan sponsor agrees to include in the contract other terms and conditions as CMS may find necessary and appropriate in order to implement requirements in this part.
 
 (k) *Certification of data that determine payment*—(1) *General rule.* As a condition for receiving a monthly payment under subpart G of this part (or for fallback entities, payment under subpart Q of this part),, the Part D plan sponsor agrees that its chief executive officer (CEO), chief financial officer (CFO), or an individual delegated the authority to sign on behalf of one of these officers, and who reports directly to the officer, must request payment under the contract on a document that certifies (based on best knowledge, information, and belief) the accuracy, completeness, and truthfulness of all data related to payment. The data may include specified enrollment information, claims data, bid submission data, and other data that CMS specifies.
@@ -400,4 +408,4 @@ Link to an amendment published at 89 FR 30838, Apr. 23, 2024.
 
 (v) Operation of call center customer services.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 73 FR 30683, May 28, 2008; 73 FR 54251, Sept. 18, 2008; 73 FR 70599, Nov. 21, 2008; 74 FR 1545, Jan. 12, 2009; 75 FR 19821, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22170, Apr. 12, 2012; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 81 FR 80557, Nov. 15, 2016; 83 FR 16750, Apr. 16, 2018; 86 FR 6119, Jan. 19, 2021; 87 FR 27900, May 9, 2022; 88 FR 22340, Apr. 12, 2023]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 73 FR 30683, May 28, 2008; 73 FR 54251, Sept. 18, 2008; 73 FR 70599, Nov. 21, 2008; 74 FR 1545, Jan. 12, 2009; 75 FR 19821, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22170, Apr. 12, 2012; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 81 FR 80557, Nov. 15, 2016; 83 FR 16750, Apr. 16, 2018; 86 FR 6119, Jan. 19, 2021; 87 FR 27900, May 9, 2022; 88 FR 22340, Apr. 12, 2023; 89 FR 30838, Apr. 23, 2024]

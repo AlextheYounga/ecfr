@@ -1,7 +1,5 @@
 ##### § 422.66 Coordination of enrollment and disenrollment through MA organizations. #####
 
-Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
-
 (a) *Enrollment.* An individual who wishes to elect an MA plan offered by an MA organization may make or change his or her election during the election periods specified in § 422.62 by filing the appropriate election form with the organization or through other mechanisms as determined by CMS.
 
 (b) *Disenrollment*—(1) *Basic rule.* An individual who wishes to disenroll from an MA plan may change his or her election during the election periods specified in § 422.62 in either of the following manners:
@@ -26,6 +24,18 @@ Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
 
 (iv) File and retain disenrollment requests for the period specified in CMS instructions.
 
+(v) In the case of an incomplete disenrollment request—
+
+(A) Document its efforts to obtain information to complete the disenrollment request;
+
+(B) Notify the individual (in writing or verbally) within 10 calendar days of receipt of the disenrollment request.
+
+(C) The organization must deny the request if any additional information needed to make the disenrollment request “complete” is not received within the following timeframes:
+
+(*1*) For disenrollment requests received during the AEP, by December 7, or within 21 calendar days of the request for additional information, whichever is later.
+
+(*2*) For disenrollment requests received during all other election periods, by the end of the month in which the disenrollment request was initially received, or within 21 calendar days of the request for additional information, whichever is later.
+
 (4) *Effect of failure to submit disenrollment notice to CMS promptly.* If the MA organization fails to submit the correct and complete notice required in paragraph (b)(3)(i) of this section, the MA organization must reimburse CMS for any capitation payments received after the month in which payment would have ceased if the requirement had been met timely.
 
 (5) *Retroactive disenrollment.* CMS may grant retroactive disenrollment in the following cases:
@@ -33,6 +43,8 @@ Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
 (i) There never was a legally valid enrollment.
 
 (ii) A valid request for disenrollment was properly made but not processed or acted upon.
+
+(6) *When a disenrollment request is considered incomplete.* A disenrollment request is considered to be incomplete if the required but missing information is not received by the MA organization within the timeframe specified in paragraph (b)(3)(v)(C) of this section.
 
 (c) *Election by default: Initial coverage election period*—(1) *Basic rule.* Subject to paragraph (c)(2) of this section, an individual who fails to make an election during the initial coverage election period is deemed to have elected original Medicare.
 
@@ -95,4 +107,4 @@ Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
 
 (2) Upon receipt of the election from the employer, the MA organization must submit a disenrollment notice to CMS within timeframes specified by CMS.
 
-[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998, as amended at 65 FR 40317, June 29, 2000; 70 FR 4718, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 83 FR 16722, Apr. 16, 2018]
+[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998, as amended at 65 FR 40317, June 29, 2000; 70 FR 4718, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 83 FR 16722, Apr. 16, 2018; 89 FR 30815, Apr. 23, 2024]

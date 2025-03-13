@@ -1,7 +1,5 @@
 ##### § 457.65 Effective date and duration of State plans and plan amendments. #####
 
-Link to an amendment published at 89 FR 22873, Apr. 2, 2024.
-
 (a) *Effective date in general.* Except as otherwise limited by this section—
 
 (1) A State plan or plan amendment takes effect on the day specified in the plan or plan amendment, but no earlier than October 1, 1997.
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 22873, Apr. 2, 2024.
 
 (c) *Amendments relating to cost sharing.* A State plan amendment that implements cost-sharing charges, increases existing cost-sharing charges, or increases the cumulative cost-sharing maximum as set forth at § 457.560 is considered an amendment that restricts benefits and must meet the requirements in paragraph (b) of this section.
 
-(d) *Amendments relating to enrollment procedures.* A State plan amendment that implements a required period of uninsurance, increases the length of existing required periods of uninsurance, or institutes or extends the use of waiting lists, enrollments caps or closed enrollment periods is considered an amendment that restricts eligibility and must meet the requirements in paragraph (b) of this section.
+(d) *Amendments relating to enrollment procedures.* A State plan amendment that institutes or extends the use of waiting lists, enrollment caps or closed enrollment periods is considered an amendment that restricts eligibility and must meet the requirements in paragraph (b) of this section.
 
 (e) *Amendments relating to the source of State funding.* A State plan amendment that changes the source of the State share of funding can take effect no earlier than the date of submission of the amendment.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 89 FR 22873, Apr. 2, 2024.
 (2) Withdraws its plan in accordance with § 457.170(b); or
 
 (3) The Secretary finds substantial noncompliance of the plan with the requirements of the statute or regulations.
+
+[66 FR 2670, Jan. 11, 2001, as amended at 89 FR 22873, Apr. 2, 2024]

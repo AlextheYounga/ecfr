@@ -1,5 +1,7 @@
 ##### § 17.03 Delegation of authority to the Director of the Office of Data and Technology or the Director of the Division of Market Oversight. #####
 
+Link to an amendment published at 89 FR 47457, June 3, 2024.
+
 The Commission hereby delegates, until the Commission orders otherwise, the authority set forth in the paragraphs below to either the Director of the Office of Data and Technology or the Director of the Division of Market Oversight, as indicated below, to be exercised by such Director or by such other employee or employees of such Director as designated from time to time by such Director. The Director of the Office of Data and Technology or the Director of the Division of Market Oversight may submit to the Commission for its consideration any matter which has been delegated to such Director in this paragraph. Nothing in this paragraph prohibits the Commission, at its election, from exercising the authority delegated in this paragraph.
 
 (a) Pursuant to § 17.00(a) and (h), the authority shall be designated to the Director of the Office of Data and Technology to determine whether futures commission merchants, clearing members and foreign brokers can report the information required under § 17.00(a) and (h) on series `01 forms or using some other format upon a determination that such person is unable to report the information using the format, coding structure or electronic data transmission procedures otherwise required.

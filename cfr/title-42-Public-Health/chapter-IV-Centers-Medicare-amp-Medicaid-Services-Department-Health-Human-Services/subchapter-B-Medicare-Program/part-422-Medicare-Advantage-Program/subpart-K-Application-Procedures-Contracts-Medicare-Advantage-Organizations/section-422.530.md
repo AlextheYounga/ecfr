@@ -1,7 +1,5 @@
 ##### § 422.530 Plan crosswalks. #####
 
-Link to an amendment published at 89 FR 30826, Apr. 23, 2024.
-
 (a) *General rules*—(1) *Definition of crosswalk.* A crosswalk is the movement of enrollees from one plan (or plan benefit package (PBP)) to another plan (or PBP) under a contract between the MA organization and CMS. To crosswalk enrollees from one PBP to another is to change the enrollment from the first PBP to the second.
 
 (2) *Prohibitions.* Except as described in paragraph (c) of this section, crosswalks are prohibited between different contracts or different plan types (for example, HMO to PPO).
@@ -72,10 +70,12 @@ Link to an amendment published at 89 FR 30826, Apr. 23, 2024.
 
 (ii) An MA organization creates a new MA contract when required by a State as described in § 422.107(e), eligible enrollees may be moved from the existing D-SNP that is non-renewing, reducing its service area, or has its eligible population newly restricted by a State, to a D-SNP offered under the D-SNP-only contract, which must be of the same plan type operated by the same parent organization. For the crosswalk exception in this paragraph (c)(4)(ii), CMS permits enrollees to be moved between different contracts.
 
+(iii) For contract year 2027 and subsequent years, where one or more MA organizations that share a parent organization seek to consolidate D-SNPs in the same service area down to a single D-SNP under one MA-PD contract to comply with requirements at §§ 422.514(h) and 422.504(a)(20), CMS permits enrollees to be moved between different contracts.
+
 (5) Renewing C-SNP with a grouping of multiple conditions that is transitioning eligible enrollees into another C-SNP with one of the chronic conditions from that grouping.
 
 (d) *Procedures.* (1) An MA organization must submit all crosswalks in paragraph (b) of this section in writing through the bid submission process in HPMS by the bid submission deadline announced by CMS.
 
 (2) An MA organization must submit all crosswalk exception requests in paragraph (c)(1) of this section in writing through the crosswalk exceptions process in HPMS by the crosswalk exception request deadline announced by CMS annually. CMS verifies the requests and notifies requesting MA organizations of the approval or denial after the crosswalk exception request deadline.
 
-[86 FR 6099, Jan. 19, 2021, as amended at 87 FR 27896, May 9, 2022]
+[86 FR 6099, Jan. 19, 2021, as amended at 87 FR 27896, May 9, 2022; 89 FR 30826, Apr. 23, 2024]

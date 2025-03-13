@@ -1,7 +1,5 @@
 ##### § 423.293 Collection of monthly beneficiary premium. #####
 
-Link to an amendment published at 89 FR 30836, Apr. 23, 2024.
-
 (a) *General rules.* Part D sponsors must—
 
 (1) Charge enrollees a consolidated monthly Part D premium equal to the sum of the Part D monthly premium for basic prescription drug coverage (if any) and the premium for supplemental coverage (if any and if the beneficiary has enrolled in such supplemental coverage).
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 30836, Apr. 23, 2024.
 
 (3) Permit each enrollee, at the enrollee's option, to make payment of premiums (if any) under this part to the sponsor using any of the methods listed in § 422.262(f) of this chapter.
 
-(4) *Retroactive collection of premiums.* In circumstances where retroactive collection of premium amounts is necessary and the enrollee is without fault in creating the premium arrearage, the Medicare Advantage organization shall offer the enrollee the option of payment by lump sum, by equal monthly installment spread out over at least the same period for which the premiums were due, or through other arrangements mutually acceptable to the enrollee and the Medicare Advantage organization. For monthly installments, for example, if 7 months of premiums are due, the member would have at least 7 months to repay.
+(4) *Retroactive collection of premiums.* In circumstances where retroactive collection of premium amounts is necessary and the enrollee is without fault in creating the premium arrearage, the Part D sponsor shall offer the enrollee the option of payment by lump sum, by equal monthly installment spread out over at least the same period for which the premiums were due, or through other arrangements mutually acceptable to the enrollee and the Part D sponsor. For monthly installments, for example, if 7 months of premiums are due, the member would have at least 7 months to repay.
 
 (b) *Crediting of late enrollment penalty.* CMS estimates and specifies the portion of the late enrollment penalty imposed under § 423.286(d)(3) attributable to increased actuarial costs assumed by the Part D sponsor and not taken into account through risk adjustment provided under § 423.329(b)(1) or through reinsurance payments under § 423.329(c)) as a result of the late enrollment.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 30836, Apr. 23, 2024.
 
 (f) *Prohibition on improper billing of premiums.* Part D plan sponsors shall not bill an enrollee for a premium payment period if the enrollee has had the premium for that period withheld from his or her Social Security, Railroad Retirement Board or Office of Personnel Management check.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1544, Jan. 12, 2009; 76 FR 21574, Apr. 15, 2011]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1544, Jan. 12, 2009; 76 FR 21574, Apr. 15, 2011; 89 FR 30836, Apr. 23, 2024]

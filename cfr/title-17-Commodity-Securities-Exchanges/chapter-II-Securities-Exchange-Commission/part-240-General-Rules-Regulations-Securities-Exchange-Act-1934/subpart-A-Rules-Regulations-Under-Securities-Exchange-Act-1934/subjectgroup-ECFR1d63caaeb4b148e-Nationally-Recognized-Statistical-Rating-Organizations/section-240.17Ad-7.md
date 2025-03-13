@@ -1,5 +1,7 @@
 ##### § 240.17Ad-7 Record retention. #####
 
+Link to an amendment published at 89 FR 47785, June 3, 2024.
+
 (a) The records required by § 240.17Ad-6(a)(1), (3)(i), (6) or (11) shall be maintained for a period of not less than two years, the first six months in an easily accessible place.
 
 (b) The records required by § 240.17Ad-6(a) (2), (3)(ii), (4), (5) or (7) shall be maintained for a period of not less than two years, the first year in an easily accessible place.

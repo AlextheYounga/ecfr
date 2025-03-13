@@ -10,7 +10,7 @@
 
 (e) The requirements in part 8 apply to purchases at or below the micro-purchase threshold.
 
-(f) The procurement requirements in subpart 23.1, apply to purchases at or below the micro-purchase threshold.
+(f) The procurement requirements in subpart 23.1 apply to purchases at or below the micro-purchase threshold.
 
 (g)(1) For acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), the micro-purchase threshold is—
 

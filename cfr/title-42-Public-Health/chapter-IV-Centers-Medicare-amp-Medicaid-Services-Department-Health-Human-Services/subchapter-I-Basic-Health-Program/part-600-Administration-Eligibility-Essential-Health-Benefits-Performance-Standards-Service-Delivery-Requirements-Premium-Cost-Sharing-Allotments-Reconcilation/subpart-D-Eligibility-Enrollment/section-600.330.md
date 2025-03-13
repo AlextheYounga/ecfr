@@ -1,8 +1,6 @@
 ##### § 600.330 Coordination with other insurance affordability programs. #####
 
-Link to an amendment published at 89 FR 22878, Apr. 2, 2024.
-
-(a) *Coordination.* The State must establish eligibility and enrollment mechanisms and procedures to maximize coordination with the Exchange, Medicaid and CHIP. The terms of 45 CFR 155.345(a) regarding the agreements between insurance affordability programs apply to a BHP. The State BHP agency must fulfill the requirements of 42 CFR 435.1200(d) and (e) and, if applicable, paragraph (c) for BHP eligible individuals.
+(a) *Coordination.* The State must establish eligibility and enrollment mechanisms and procedures to maximize coordination with the Exchange, Medicaid, and Children's Health Insurance Program (CHIP). The terms of 45 CFR 155.345(a) regarding the agreements between insurance affordability programs apply to a BHP. The State BHP agency must fulfill the requirements of § 435.1200(d), (e)(1)(ii), and (e)(3) of this chapter and, if applicable, paragraph (c) of this section for BHP eligible individuals.
 
 (b) *Coordinated determinations of eligibility.* The agency administering BHP must establish and maintain processes to make income eligibility determinations using modified adjusted gross income, and to ensure that applications received by the agency, to the extent warranted and permitted under delegations from other agencies administering insurance affordability programs, also result in eligibility assessments or determinations for those other programs. The BHP must also accept applications transferred from other agencies administering insurance affordability programs, and ensure that individuals assessed or determined eligible for BHP by such other agencies are afforded the opportunity to enroll in a standard health plan without undue delay. Individuals submitting applications to any of the aforementioned agencies must not be required to duplicate the submission of information.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 89 FR 22878, Apr. 2, 2024.
 
 (f) *Accessibility.* Eligibility notices must be written in plain language and be provided in a manner which ensures individuals with disabilities are provided with effective communication and takes steps to provide meaningful access to eligible individuals with limited English proficiency.
 
-[79 FR 14140, Mar. 12, 2014, as amended at 88 FR 79555, Nov. 16, 2023]
+[79 FR 14140, Mar. 12, 2014, as amended at 88 FR 79555, Nov. 16, 2023; 89 FR 22878, Apr. 2, 2024]

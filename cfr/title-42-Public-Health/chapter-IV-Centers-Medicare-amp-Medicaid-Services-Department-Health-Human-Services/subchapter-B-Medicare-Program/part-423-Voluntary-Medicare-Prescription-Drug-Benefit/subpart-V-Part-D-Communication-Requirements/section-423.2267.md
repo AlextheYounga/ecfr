@@ -1,7 +1,5 @@
 ##### § 423.2267 Required materials and content. #####
 
-Link to an amendment published at 89 FR 30842, Apr. 23, 2024.
-
 For information CMS deems to be vital to the beneficiary, including information related to enrollment, benefits, health, and rights, the agency may develop materials or content that are either standardized or provided in a model form. Such materials and content are collectively referred to as required.
 
 (a) *Standards for required materials and content.* All required materials and content, regardless of categorization as standardized in paragraph (b) of this section or model in paragraph (c) of this section, must meet the following:
@@ -272,19 +270,39 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (vii) Is excluded from the 12-point font size requirement under paragraph (a)(1) of this section.
 
-(33) *Multi-language insert (MLI).* This is a standardized communications material which states, “We have free interpreter services to answer any questions you may have about our health or drug plan. To get an interpreter, just call us at [1-xxx-xxx-xxxx]. Someone who speaks [language] can help you. This is a free service.” in the following languages: Spanish, Chinese, Tagalog, French, Vietnamese, German, Korean, Russian, Arabic, Italian, Portuguese, French Creole, Polish, Hindi, and Japanese.
+(33) *Notice of availability of language assistance services and auxiliary aids and services (Notice of Availability).*
 
-(i) Additional languages that meet the 5-percent service area threshold, as required under paragraph (a)(2) of this section, must be added to the MLI used in that service area. A plan may also opt to include in the MLI any additional language that do not meet the 5-percent service area threshold, where it determines that this inclusion would be appropriate.
+(i) Prior to contract year 2026 marketing on September 30, 2025, the notice is referred to as the *Multi-language insert (MLI).* This is a standardized communications material which states, “We have free interpreter services to answer any questions you may have about our health or drug plan. To get an interpreter, just call us at [1-xxx-xxx-xxxx]. Someone who speaks [language] can help you. This is a free service.” in the following languages: Spanish, Chinese, Tagalog, French, Vietnamese, German, Korean, Russian, Arabic, Italian, Portuguese, French Creole, Polish, Hindi, and Japanese.
 
-(ii) The MLI must be provided with all required materials under paragraph (e) of this section.
+(A) Additional languages that meet the 5-percent service area threshold, as required under paragraph (a)(2) of this section, must be added to the MLI used in that service area. A plan may also opt to include in the MLI any additional language that do not meet the 5 percent service area threshold, where it determines that this inclusion would be appropriate.
 
-(iii) The MLI may be included as a part of the required material or as a standalone material in conjunction with the required material.
+(B) Except where otherwise provided in paragraph (e)(33)(i)(G) of this section, the MLI must be provided with all required materials under paragraph (e) of this section.
 
-(iv) When used as a standalone, the MLI may include organization name and logo.
+(C) The MLI may be included as a part of the required material or as a standalone material in conjunction with the required material.
 
-(v) When mailing multiple required materials together, only one MLI is required.
+(D) When used as a standalone material, the MLI may include organization name and logo.
 
-(vi) The MLI may be provided electronically when a required material is provided electronically as permitted under paragraph (d)(2) of this section.
+(E) When mailing multiple required materials together, only one MLI is required.
+
+(F) The MLI may be provided electronically when a required material is provided electronically as permitted under paragraph (d)(2) of this section.
+
+(G) At plan option for CY 2025 marketing and communications beginning September 30, 2024, the plan may use the model notice described in § 423.2267(e)(33)(ii) to satisfy the MLI requirements set forth in paragraph (e)(33)(i) of this section.
+
+(ii) For CY 2026 marketing and communications beginning September 30, 2025, the required notice is referred to as the *Notice of availability of language assistance services and auxiliary aids and services (Notice of Availability).* This is a model communications material through which MA organizations must provide a notice of availability of language assistance services and auxiliary aids and services that, at a minimum, states that the MA organization provides language assistance services and appropriate auxiliary aids and services free of charge.
+
+(A) This notice of availability of language assistance services and auxiliary aids and services must be provided in English and at least the 15 languages most commonly spoken by individuals with limited English proficiency of the relevant State or States associated with the plan's service area and must be provided in alternate formats for individuals with disabilities who require auxiliary aids and services to ensure effective communication.
+
+(B) If there are additional languages in a particular service area that meet the 5 percent service area threshold, described in paragraph (a)(2) of this section, beyond the languages described in paragraph (e)(33)(i) of this section, the notice of availability of language assistance services and auxiliary aids and services must also be translated into those languages. MA organizations may also opt to translate the notice in any additional languages that do not meet the 5-percent service area threshold, where the MA organization determines that this inclusion would be appropriate.
+
+(C) The notice must be provided with all required materials under paragraph (e) of this section.
+
+(D) The notice may be included as a part of the required material or as a standalone material in conjunction with the required material.
+
+(E) When used as a standalone material, the notice may include organization name and logo.
+
+(F) When mailing multiple required materials together, only one notice is required.
+
+(G) The notice may be provided electronically when a required material is provided electronically as permitted under paragraph (d)(2) of this section.
 
 (34) *Federal Contracting Statement.* This is model content through which plans must convey that they have a contract with Medicare and that enrollment in the plan depends on contract renewal.
 
@@ -368,4 +386,4 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (44) *Safe disposal information.* This is model communications material Part D sponsors must provide to all enrollees targeted for its MTM program, as required under § 423.153(d)(1)(vii)(E).
 
-[86 FR 6126, Jan. 19, 2021, as amended at 86 FR 29528, June 2, 2021; 87 FR 27901, May 9, 2022; 88 FR 22341, Apr. 12, 2023; 88 FR 34780, May 31, 2023]
+[86 FR 6126, Jan. 19, 2021, as amended at 86 FR 29528, June 2, 2021; 87 FR 27901, May 9, 2022; 88 FR 22341, Apr. 12, 2023; 88 FR 34780, May 31, 2023; 89 FR 30842, Apr. 23, 2024]

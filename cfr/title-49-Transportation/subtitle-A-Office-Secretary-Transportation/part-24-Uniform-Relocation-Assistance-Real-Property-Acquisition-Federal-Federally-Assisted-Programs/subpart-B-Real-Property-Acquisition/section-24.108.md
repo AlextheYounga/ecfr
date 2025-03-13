@@ -1,0 +1,3 @@
+##### § 24.108 Donations. #####
+
+An owner whose real property is being acquired may, after being fully informed by the agency of the right to receive just compensation for such property, donate such property or any part thereof, any interest therein, or any compensation paid therefore, to the agency as such owner shall determine. The agency is responsible for ensuring that an appraisal of the real property is obtained unless the owner releases the agency from such obligation, except as provided in § 24.102(c)(2).

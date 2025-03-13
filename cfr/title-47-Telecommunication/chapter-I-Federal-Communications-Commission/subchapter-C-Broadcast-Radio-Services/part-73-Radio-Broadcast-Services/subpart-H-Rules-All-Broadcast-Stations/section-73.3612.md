@@ -1,11 +1,5 @@
 ##### § 73.3612 Annual employment report. #####
 
-Link to an amendment published at 89 FR 36718, May 3, 2024.
+Each licensee or permittee of a commercially or noncommercially operated AM, FM, TV, Class A TV or International Broadcast station with five or more full-time employees shall file an annual employment report with the FCC on or before September 30 of each year on FCC Form 395-B. Data concerning the gender, race and ethnicity of a broadcast station's workforce collected in the annual employment report will be used only for purposes of analyzing industry trends and making reports to Congress. Such data will not be used for the purpose of assessing any aspect of an individual broadcast licensee's or permittee's compliance with the nondiscrimination or equal employment opportunity requirements of § 73.2080. Compliance with this section will not be required until this sentence is removed or contains a compliance date, which will not occur until after the Office of Management and Budget completes review of any information collection requirements pursuant to the Paperwork Reduction Act or until after the Office of Management and Budget determines that such review is not required.
 
-Each licensee or permittee of a commercially or noncommercially operated AM, FM, TV, Class A TV or International Broadcast station with five or more full-time employees shall file an annual employment report with the FCC on or before September 30 of each year on FCC Form 395-B.
-
-Note to § 73.3612:
-
-Data concerning the gender, race and ethnicity of a broadcast station's workforce collected in the annual employment report will be used only for purposes of analyzing industry trends and making reports to Congress. Such data will not be used for the purpose of assessing any aspect of an individual broadcast licensee's compliance with the equal employment opportunity requirements of § 73.2080.
-
-[69 FR 34954, June 23, 2004]
+[89 FR 36718, May 3, 2024]

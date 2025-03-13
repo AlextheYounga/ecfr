@@ -1,5 +1,7 @@
 ##### § 235.3 Who is paid social security benefits by the Board. #####
 
+Link to an amendment published at 89 FR 47463, June 3, 2024.
+
 The following individuals, if entitled to social security benefits, are paid such benefits by the Board:
 
 (a) A railroad employee who has been credited with at least 120 months of railroad service;

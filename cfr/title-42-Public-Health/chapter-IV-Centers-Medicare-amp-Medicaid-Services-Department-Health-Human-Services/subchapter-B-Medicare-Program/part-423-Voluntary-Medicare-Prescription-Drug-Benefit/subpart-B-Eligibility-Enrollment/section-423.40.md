@@ -1,7 +1,5 @@
 ##### § 423.40 Effective dates. #####
 
-Link to an amendment published at 89 FR 30831, Apr. 23, 2024.
-
 (a) *Initial enrollment period.* (1) An enrollment made prior to the month of entitlement to Part A or enrollment in Part B is effective the first day of the month the individual is entitled to or enrolled in Part A or enrolled in Part B.
 
 (2) Except as otherwise provided under § 423.34(f), an enrollment made during or after the month of entitlement to Part A or enrollment in Part B is effective the first day of the calendar month following the month in which the enrollment in Part D is made.
@@ -20,4 +18,22 @@ Link to an amendment published at 89 FR 30831, Apr. 23, 2024.
 
 (e) *PDP enrollment period to coordinate with the MA open enrollment period.* For 2019 and subsequent years, an enrollment made by an individual who elects Original Medicare during the MA open enrollment period as described in § 422.62(a)(3) of this chapter, will be effective the first day of the month following the month in which the election is made.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 76 FR 21570, Apr. 15, 2011; 83 FR 16737, Apr. 16, 2018; 85 FR 33911, June 2, 2020]
+(f) *Beneficiary choice of effective date.* If a beneficiary is eligible for more than one election period, resulting in more than one possible effective date, the Part D plan sponsor must allow the beneficiary to choose the election period that results in the individual's desired effective date.
+
+(1) To determine the beneficiary's choice of election period and effective date, the Part D plan sponsor must attempt to contact the beneficiary and must document its attempts.
+
+(2) If the Part D plan sponsor is unable to obtain the beneficiary's desired enrollment effective date, the Part D plan sponsor must assign an election period using the following ranking of election periods:
+
+(i) ICEP/Part D IEP.
+
+(ii) MA-OEP.
+
+(iii) SEP.
+
+(iv) AEP.
+
+(v) OEPI.
+
+(3) If the Part D plan sponsor is unable to obtain the beneficiary's desired disenrollment effective date, the Part D plan sponsor must assign an election period that results in the earliest disenrollment.
+
+[70 FR 4525, Jan. 28, 2005, as amended at 76 FR 21570, Apr. 15, 2011; 83 FR 16737, Apr. 16, 2018; 85 FR 33911, June 2, 2020; 89 FR 30831, Apr. 23, 2024]

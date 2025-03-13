@@ -1,7 +1,5 @@
 ##### § 423.153 Drug utilization management, quality assurance, medication therapy management programs (MTMPs), drug management programs, and access to Medicare Parts A and B claims data extracts. #####
 
-Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
-
 (a) *General rule.* Each Part D sponsor must have established, for covered Part D drugs furnished through a Part D plan, a drug utilization management program, quality assurance measures and systems, and an MTMP as described in paragraphs (b), (c), and (d) of this section. No later than January 1, 2022, a Part D plan sponsor must have established a drug management program for at-risk beneficiaries enrolled in their prescription drug benefit plans to address overutilization of frequently abused drugs, as described in paragraph (f) of this section.
 
 (b) *Drug utilization management.* A Part D sponsor must have established a reasonable and appropriate drug utilization management program that address all of the following:
@@ -48,7 +46,7 @@ Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
 
 (5) Provision of information to CMS regarding its quality assurance measures and systems, according to guidelines specified by CMS.
 
-(d) *Medication therapy management program (MTMP)*—(1) *General rule.* A Part D sponsor must have established a MTMP that—
+(d)(1) *General rule.* A Part D sponsor must have established a MTM program that—
 
 (i) Is designed to ensure that covered Part D drugs prescribed to targeted beneficiaries described in paragraph (d)(2) of this section are appropriately used to optimize therapeutic outcomes through improved medication use;
 
@@ -68,11 +66,11 @@ Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
 
 (B) *Annual comprehensive medication review with written summaries.* (*1*) The beneficiary's comprehensive medication review—
 
-(*i*) Must include an interactive, person-to-person, or telehealth consultation performed by a pharmacist or other qualified provider; and
+(*i*) Must include an interactive consultation, performed by a pharmacist or other qualified provider, that is either in person or performed via synchronous telehealth; and
 
 (*ii*) May result in a recommended medication action plan.
 
-(*2*) If a beneficiary is offered the annual comprehensive medication review and is unable to accept the offer to participate, the pharmacist or other qualified provider may perform the comprehensive medication review with the beneficiary's prescriber, caregiver, or other authorized individual.
+(*2*) If a beneficiary is offered the annual comprehensive medication review and is unable to accept the offer to participate due to cognitive impairment, the pharmacist or other qualified provider may perform the comprehensive medication review with the beneficiary's prescriber, caregiver, or other authorized individual.
 
 (C) Quarterly targeted medication reviews with follow-up interventions when necessary.
 
@@ -82,31 +80,57 @@ Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
 
 (F) The information to be provided under paragraph (d)(1)(vii)(E) of this section must comply with all requirements of § 422.111(j) of this chapter.
 
-(2) *Targeted beneficiaries.* Targeted beneficiaries for the MTMP described in paragraph (d)(1) of this section are enrollees in the sponsor's Part D plan who meet the characteristics of at least one of the following two groups:
+(2) *Targeted beneficiaries.* Targeted beneficiaries for the MTM program described in paragraph (d)(1) of this section are enrollees in the sponsor's Part D plan who meet the characteristics of at least one of the following two groups:
 
 (i)(A) Have multiple chronic diseases, with three chronic diseases being the maximum number a Part D plan sponsor may require for targeted enrollment;
 
 (B) Are taking multiple Part D drugs, with eight Part D drugs being the maximum number of drugs a Part D plan sponsor may require for targeted enrollment; and
 
-(C) Are likely to incur the following annual Part D drug costs:
+(C) Are likely to incur annual covered Part D drug costs greater than or equal to the MTM cost threshold determined by CMS, as specified in this paragraph (d)(2)(i)(C) of this section.
 
-(*1*) For 2011, costs for covered Part D drugs greater than or equal to $3,000.
+(*1*) For 2011, the MTM cost threshold is set at $3,000.
 
-(*2*) For 2012 and subsequent years, costs for covered Part D drugs in an amount greater than or equal to $3,000 increased by the annual percentage specified in § 423.104(d)(5)(iv); or
+(*2*) For 2012 through 2024, the MTM cost threshold is set at $3,000 increased by the annual percentage specified in § 423.104(d)(5)(iv).
+
+(*3*) For 2025, the MTM cost threshold is set at the average annual cost of eight generic drugs, as defined at § 423.4, as determined using the PDE data specified at § 423.104(d)(2)(iv)(C).
 
 (ii) Beginning January 1, 2022, are at-risk beneficiaries as defined in § 423.100.
 
-(3) *Use of experts.* The MTMP must be developed in cooperation with licensed and practicing pharmacists and physicians.
+(iii) Beginning January 1, 2025, in identifying beneficiaries who have multiple chronic diseases under paragraph (d)(2)(i)(A) of this section, Part D plan sponsors must include all of the following diseases, and may include additional chronic diseases:
 
-(4) *Coordination with care management plans.* The MTMP must be coordinated with any care management plan established for a targeted individual under a chronic care improvement program (CCIP) under section 1807 of the Act. A Part D sponsor must provide drug claims data to CCIPs for those beneficiaries that are enrolled in CCIPs in a manner specified by CMS.
+(A) Alzheimer's disease.
+
+(B) Bone disease-arthritis (including osteoporosis, osteoarthritis, and rheumatoid arthritis).
+
+(C) Chronic congestive heart failure (CHF).
+
+(D) Diabetes.
+
+(E) Dyslipidemia.
+
+(F) End-stage renal disease (ESRD).
+
+(G) Human immunodeficiency virus/acquired immunodeficiency syndrome (HIV/AIDS).
+
+(H) Hypertension.
+
+(I) Mental health (including depression, schizophrenia, bipolar disorder, and other chronic/disabling mental health conditions).
+
+(J) Respiratory disease (including asthma, chronic obstructive pulmonary disease (COPD), and other chronic lung disorders).
+
+(iv) Beginning January 1, 2025, in identifying the number of Part D drugs under paragraph (d)(2)(i)(B) of this section, Part D plan sponsors must include all Part D maintenance drugs, relying on information in a widely accepted, commercially or publicly available drug database to make such determinations, and may include all Part D drugs.
+
+(3) *Use of experts.* The MTM program must be developed in cooperation with licensed and practicing pharmacists and physicians.
+
+(4) *Coordination with care management plans.* The MTM program must be coordinated with any care management plan established for a targeted individual under a chronic care improvement program (CCIP) under section 1807 of the Act. A Part D sponsor must provide drug claims data to CCIPs for those beneficiaries that are enrolled in CCIPs in a manner specified by CMS.
 
 (5) *Considerations in pharmacy fees.* An applicant to become a Part D sponsor must—
 
-(i) Describe in its application how it takes into account the resources used and time required to implement the MTMP it chooses to adopt in establishing fees for pharmacists or others providing MTMP services for covered Part D drugs under a Part D plan.
+(i) Describe in its application how it takes into account the resources used and time required to implement the MTM program it chooses to adopt in establishing fees for pharmacists or others providing MTM services for covered Part D drugs under a Part D plan.
 
-(ii) Disclose to CMS upon request the amount of the management and dispensing fees and the portion paid for MTMP services to pharmacists and others upon request. Reports of these amounts are protected under the provisions of section 1927(b)(3)(D) of the Act.
+(ii) Disclose to CMS upon request the amount of the management and dispensing fees and the portion paid for MTM services to pharmacists and others upon request. Reports of these amounts are protected under the provisions of section 1927(b)(3)(D) of the Act.
 
-(6) *MTMP reporting.* A Part D sponsor must provide CMS with information regarding the procedures and performance of its MTMP, according to guidelines specified by CMS.
+(6) *MTM program reporting.* A Part D sponsor must provide CMS with information regarding the procedures and performance of its MTMP, according to guidelines specified by CMS.
 
 (e) *Exception for private fee-for-service MA plans offering qualified prescription drug coverage.* In the case of an MA plan described in § 422.4(a)(3) of this chapter providing qualified prescription drug coverage, the requirements under paragraphs (b) and (d) of this section do not apply.
 
@@ -256,13 +280,15 @@ Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
 
 (iii) The Part D sponsor must make reasonable efforts to provide the beneficiary's prescriber(s) of frequently abused drugs with a copy of the notice required in accordance with paragraph (f)(7)(i) of this section.
 
-(8) *Notices: Timing and exceptions.* (i) Subject to paragraph (f)(8)(ii) of this section, a Part D sponsor must provide the second notice described in paragraph (f)(6) of this section or the alternate second notice described in paragraph (f)(7) of this section, as applicable, on a date that is not less than 30 days after the date of the initial notice described in paragraph (f)(5) of this section and not more than the earlier of the following two dates:
+(8) *Notices: Timing and exceptions.* (i) Subject to paragraphs (f)(8)(ii) and (iii) of this section, a Part D sponsor must provide the second notice described in paragraph (f)(6) of this section or the alternate second notice described in paragraph (f)(7) of this section, as applicable, on a date that is not less than 30 days after the date of the initial notice described in paragraph (f)(5) of this section and not more than the earlier of the following two dates:
 
-(A) The date the sponsor makes the relevant determination.
+(A) Within 3 days of the date the sponsor makes the relevant determination.
 
 (B) Sixty days after the date of the initial notice described in paragraph (f)(5) of this section.
 
-(ii) A gaining plan sponsor may forgo providing the initial notice and may immediately provide a second notice described in paragraph (f)(6) of this section to an at-risk beneficiary as defined in subparagraph (2) of the definition in § 423.100), if the sponsor is implementing either of the following:
+(ii) In the case of a beneficiary who is determined by a Part D sponsor to be exempt, the sponsor must provide the alternate second notice within 3 days of the date the sponsor makes the relevant determination, even if such determination is made less than 30 days from the date of the initial notice described in paragraph (f)(5) of this section.
+
+(iii) A gaining plan sponsor may forgo providing the initial notice and may immediately provide a second notice described in paragraph (f)(6) of this section to an at-risk beneficiary as defined in subparagraph (2) of the definition in § 423.100), if the sponsor is implementing either of the following:
 
 (A) A beneficiary-specific point-of-sale claim edit as described in paragraph (f)(3)(i) of this section, if the edit is the same as the one that was implemented in the immediately prior plan.
 
@@ -410,4 +436,4 @@ Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
 
 (5) *Ensuring the privacy and security of data.* As a condition of receiving the requested data, the PDP sponsor must attest that it will adhere to the permitted uses and limitations on the use of the Medicare claims data listed in paragraphs (g)(3) and (4) of this section.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21573, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019; 86 FR 6116, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21573, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019; 86 FR 6116, Jan. 19, 2021; 89 FR 30834, Apr. 23, 2024]

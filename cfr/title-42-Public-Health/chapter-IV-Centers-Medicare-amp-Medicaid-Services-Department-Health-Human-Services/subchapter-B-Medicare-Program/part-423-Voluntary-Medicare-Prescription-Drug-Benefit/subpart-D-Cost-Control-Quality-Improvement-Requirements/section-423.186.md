@@ -1,7 +1,5 @@
 ##### § 423.186 Calculation of Star Ratings. #####
 
-Link to an amendment published at 89 FR 30835, Apr. 23, 2024.
-
 (a) *Measure Star Ratings*—(1) *Cut points.* CMS will determine cut points for the assignment of a Star Rating for each numeric measure score by applying either a clustering or a relative distribution and significance testing methodology. For the Part D measures, CMS will determine MA-PD and PDP cut points separately.
 
 (2) Clustering algorithm for all measures except CAHPS measures.
@@ -104,7 +102,7 @@ Link to an amendment published at 89 FR 30835, Apr. 23, 2024.
 
 (v) Process measures receive a weight of 1.
 
-(2) *Rules for new measures.* New measures to the Star Ratings program will receive a weight of 1 for their first year in the Star Ratings program. In subsequent years, the measure will be assigned the weight associated with its category.
+(2) *Rules for new and substantively updated measures.* New measures to the Star Ratings program will receive a weight of 1 for their first year in the Star Ratings program. Substantively updated measures will receive a weight of 1 in their first year returning to the Star Ratings after being on the display page. In subsequent years, a new or substantively updated measure will be assigned the weight associated with its category.
 
 (3) *Special rule for Puerto Rico.* Contracts that have service areas that are wholly located in Puerto Rico will receive a weight of zero for the Part D adherence measures for the summary and overall rating calculations and will have a weight of 3 for the adherence measures for the improvement measure calculations.
 
@@ -136,7 +134,15 @@ Link to an amendment published at 89 FR 30835, Apr. 23, 2024.
 
 (A) The adjustment factor is monotonic (that is, as the proportion of LIS/DE and disabled increases in a contract, the adjustment factor increases in at least one of the dimensions) and varies by a contract's categorization into a final adjustment category that is determined by a contract's proportion of LIS/DE and disabled beneficiaries.
 
-(B) To determine a contract's final adjustment category, contract enrollment is determined using enrollment data for the month of December for the measurement period of the Star Ratings year. The count of beneficiaries for a contract is restricted to beneficiaries that are alive for part or all of the month of December of the applicable measurement year. A beneficiary is categorized as LIS/DE if the beneficiary was designated as full or partially dually eligible or receiving a LIS at any time during the applicable measurement period. Disability status is determined using the variable original reason for entitlement (OREC) for Medicare using the information from the Social Security Administration and Railroad Retirement Board record systems.
+(B) To determine a contract's final adjustment category, contract enrollment is determined using enrollment data for the month of December for the measurement period of the Star Ratings year.
+
+(*1*) For the first 2 years following a consolidation, for the surviving contract of a contract consolidation involving two or more contracts for health or drug services of the same plan type under the same parent organization, the enrollment data for the month of December for the measurement period of the Star Ratings year are combined across the surviving and consumed contracts in the consolidation.
+
+(*2*) The count of beneficiaries for a contract is restricted to beneficiaries that are alive for part or all of the month of December of the applicable measurement year.
+
+(*3*) A beneficiary is categorized as LIS/DE if the beneficiary was designated as full or partially dually eligible or receiving a LIS at any time during the applicable measurement period.
+
+(*4*) Disability status is determined using the variable original reason for entitlement (OREC) for Medicare using the information from the Social Security Administration and Railroad Retirement Board record systems.
 
 (C) A MA-PD contract may be adjusted up to three times with the CAI: One for the overall Star Rating and one for each of the summary ratings (Part C and Part D).
 
@@ -223,6 +229,10 @@ Link to an amendment published at 89 FR 30835, Apr. 23, 2024.
 (B) Contracts with service areas wholly located in Puerto Rico are excluded from the calculation of one-half of the contract-level median and the contract-level median.
 
 (viii) For contracts that have percentages of enrollees with SRFs greater than or equal to the contract-level median enrollment percentage, the HEI reward added to the contract's summary and overall ratings will vary from 0 to 0.4 on a linear scale with a contract receiving 0 if the contract receives a score of 0 or less on the HEI and 0.4 if the contract receives a score of 1 on the HEI. For contracts that have percentages of enrollees with SRFs greater than or equal to one-half the median percentage of enrollees with SRFs up to, but not including, the contract-level median percentage of enrollees with SRFs, the HEI reward added to the contract's summary and overall ratings will vary from 0 to 0.2 on a linear scale, with a contract receiving 0 if the contract receives a score of 0 or less on the HEI and 0.2 if the contract receives a score of 1 on the HEI. The HEI reward is rounded and displayed with 6 decimal places. Contracts that cannot have a HEI score calculated (that is, contracts that are not scored on at least half of the measures included in the index) will not receive an HEI reward.
+
+(A) In the case of contract consolidations involving two or more contracts for health or drug services of the same plan type under the same parent organization, CMS calculates the HEI reward for the surviving contract accounting for both the surviving and consumed contract(s). For the first year following a consolidation, the HEI reward for the surviving contract is calculated as the enrollment-weighted mean of the HEI reward of the consumed and surviving contracts using total contract enrollment from July of the most recent measurement year used in calculating the HEI reward. A reward value of zero is used in calculating the enrollment-weighted mean for contracts that do not meet the minimum percentage of enrollees with the SRF thresholds or the minimum performance threshold specified at paragraph (f)(3)(vii) of this section.
+
+(B) For the second year following a consolidation when calculating the HEI score for the surviving contract, the patient-level data used in calculating the HEI score will be combined from the consumed and surviving contracts and used in calculating the HEI score.
 
 (ix) The HEI reward is calculated separately for, and then added to, the overall rating, Part C rating for MA-PDs and MA-only contracts (and cost contracts), Part D rating for MA-PDs (and cost contracts), and Part D rating for PDPs after the addition of the CAI as specified in paragraph (f)(2) of this section and application of the improvement measures as specified in paragraph (g) of this section and before the final overall and Part C and D summary ratings are calculated by rounding to the nearest half star.
 
@@ -312,4 +322,4 @@ Link to an amendment published at 89 FR 30835, Apr. 23, 2024.
 
 (2) [Reserved]
 
-[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 85 FR 33911, June 2, 2020; 85 FR 54872, Sept. 2, 2020; 86 FR 6118, Jan. 19, 2021; 87 FR 27899, May 9, 2022; 88 FR 22338, Apr. 12, 2023]
+[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 85 FR 33911, June 2, 2020; 85 FR 54872, Sept. 2, 2020; 86 FR 6118, Jan. 19, 2021; 87 FR 27899, May 9, 2022; 88 FR 22338, Apr. 12, 2023; 89 FR 30835, Apr. 23, 2024]

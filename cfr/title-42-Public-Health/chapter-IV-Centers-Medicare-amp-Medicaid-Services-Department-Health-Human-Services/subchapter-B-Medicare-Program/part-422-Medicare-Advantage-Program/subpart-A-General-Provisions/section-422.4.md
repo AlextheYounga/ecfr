@@ -1,7 +1,5 @@
 ##### § 422.4 Types of MA plans. #####
 
-Link to an amendment published at 89 FR 30814, Apr. 23, 2024.
-
 (a) *General rule.* An MA plan may be a coordinated care plan, a combination of an MA MSA plan and a contribution into an MA MSA established in accordance with § 422.262, or an MA private fee-for-service plan.
 
 (1) *A coordinated care plan.* A coordinated care plan is a plan that includes a network of providers that are under contract or arrangement with the organization to deliver the benefit package approved by CMS.
@@ -21,6 +19,26 @@ Link to an amendment published at 89 FR 30814, Apr. 23, 2024.
 (D) Other network plans (except PFFS plans).
 
 (iv) A specialized MA plan for special needs individuals (SNP) includes any type of coordinated care plan that meets CMS's SNP requirements and exclusively enrolls special needs individuals as defined by § 422.2 of this subpart. All MA plans wishing to offer a SNP will be required to be approved by the National Commission on Quality Assurance (NCQA) effective January 1, 2012. This approval process applies to existing SNPs as well as new SNPs joining the program. All SNPs must submit their model of care (MOC) to CMS for NCQA evaluation and approval as per CMS guidance.
+
+(A) A C-SNP may focus on one severe or disabling chronic condition, as defined in § 422.2, or on a grouping of severe or disabling chronic conditions.
+
+(B) Upon CMS approval, an MA organization may offer a C-SNP that focuses on multiple commonly co-morbid and clinically linked conditions from the following list of groupings:
+
+(*1*) Diabetes mellitus and chronic heart failure.
+
+(*2*) Chronic heart failure and cardiovascular disorders.
+
+(*3*) Diabetes mellitus and cardiovascular disorders.
+
+(*4*) Diabetes mellitus, chronic heart failure, and cardiovascular disorders.
+
+(*5*) Stroke and cardiovascular disorders.
+
+(*6*) Anxiety associated with COPD.
+
+(*7*) Chronic kidney disease (CKD) and post-(renal) organ transplantation.
+
+(*8*) Substance use disorders (SUD) and chronic mental health disorders.
 
 (v) A PPO plan is a plan that—
 
@@ -70,4 +88,4 @@ Link to an amendment published at 89 FR 30814, Apr. 23, 2024.
 
 (3) *Private Fee-For-Service.* MA organizations offering private fee-for-service plans can choose to offer qualified Part D coverage meeting the requirements in § 423.104 in that plan.
 
-[63 FR 35068, June 26, 1998, as amended at 65 FR 40315, June 29, 2000; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 75 FR 19804, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011]
+[63 FR 35068, June 26, 1998, as amended at 65 FR 40315, June 29, 2000; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 75 FR 19804, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 89 FR 30814, Apr. 23, 2024]

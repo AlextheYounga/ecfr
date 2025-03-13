@@ -1,7 +1,5 @@
 ##### § 423.308 Definitions and terminology. #####
 
-Link to an amendment published at 89 FR 30837, Apr. 23, 2024.
-
 For the purposes of this subpart, the following definitions apply—
 
 *Actually paid* means that the costs must be actually incurred by the Part D sponsor and must be net of any direct or indirect remuneration (including discounts, charge backs or rebates, cash discounts, free goods contingent on a purchase agreement, up-front payments, coupons, goods in kind, free or reduced-price services, grants, or other price concessions or similar benefits offered to some or all purchasers) from any source (including manufacturers, pharmacies, enrollees, or any other person) that would serve to decrease the costs incurred under the Part D plan. Direct and indirect remuneration includes discounts, chargebacks or rebates, cash discounts, free goods contingent on a purchase agreement, up-front payments, coupons, goods in kind, free or reduced-price services, grants, or other price concessions or similar benefits from manufacturers, pharmacies or similar entities obtained by an intermediary contracting organization with which the Part D plan sponsor has contracted, regardless of whether the intermediary contracting organization retains all or a portion of the direct and indirect remuneration or passes the entire direct and indirect remuneration to the Part D plan sponsor and regardless of the terms of the contract between the plan sponsor and the intermediary contracting organization.
@@ -32,6 +30,10 @@ For the purposes of this subpart, the following definitions apply—
 
 (3) All amounts paid under the Part D plan by or on behalf of an enrollee (such as the deductible, coinsurance, cost sharing, or amounts between the initial coverage limit and the out-of-pocket threshold) in order to obtain Part D drugs that are covered under the Part D plan. If an enrollee who is paying 100 percent cost sharing (as a result of paying a deductible or because the enrollee is between the initial coverage limit and the out-of-pocket threshold) obtains a covered Part D drug at a lower cost than is available under the Part D plan, such cost-sharing will be considered an amount paid under the plan by or on behalf of an enrollee under the previous sentence of this definition, if the enrollee's costs are incurred costs as defined under § 423.100 of this part and documentation of the incurred costs has been submitted to the Part D plan consistent with plan processes and instructions for the submission of such information. These costs are determined regardless of whether the coverage under the plan exceeds basic prescription drug coverage.
 
+*Reopening*—(1) *Global reopening* means a reopening under § 423.346 in which CMS includes all Part D sponsor contracts that meet the inclusion criteria at § 423.346(g).
+
+(2) *Targeted reopening* means a reopening under § 423.346 in which CMS includes one or more (but not all) Part D sponsor contracts that meet the inclusion criteria at § 423.346(g).
+
 *Target amount* means the total amount of payments (from both CMS and by or on behalf of enrollees) to a Part D plan for the coverage year for all standardized bid amounts as risk adjusted under § 423.329(b)(1) of this part, less the administrative expenses (including return on investment) assumed in the standardized bids.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1544, Jan. 12, 2009; 75 FR 19819, Apr. 15, 2010; 88 FR 22340, Apr. 12, 2023]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1544, Jan. 12, 2009; 75 FR 19819, Apr. 15, 2010; 88 FR 22340, Apr. 12, 2023; 89 FR 30837, Apr. 23, 2024]
