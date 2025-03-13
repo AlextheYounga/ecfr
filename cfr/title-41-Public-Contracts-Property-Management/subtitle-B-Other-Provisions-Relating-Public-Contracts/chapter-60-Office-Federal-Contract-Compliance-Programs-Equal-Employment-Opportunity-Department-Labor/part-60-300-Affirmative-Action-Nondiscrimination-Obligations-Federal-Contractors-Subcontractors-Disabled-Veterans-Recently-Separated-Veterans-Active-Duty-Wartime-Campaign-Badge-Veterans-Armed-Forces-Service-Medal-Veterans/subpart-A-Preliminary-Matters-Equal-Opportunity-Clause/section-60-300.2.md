@@ -1,6 +1,6 @@
 ##### § 60-300.2 Definitions. #####
 
-Link to an amendment published at 88 FR 51735, Aug. 4, 2023.
+Link to an amendment published at 88 FR 51735, Aug. 4, 2023.Link to a correction published at 88 FR 57009, Aug. 22, 2023.
 
 For the purpose of this part:
 

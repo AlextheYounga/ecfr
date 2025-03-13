@@ -16,4 +16,4 @@
 
 (e) *Noncompetitive customer bids.* For each noncompetitive bid, the submitter must provide the customer's name and the amount bid. Submitters may either provide the customer's name with the bid or, if the list of customers is lengthy, the submitter may provide a summary bid amount covering all noncompetitive customers. If it provides a summary bid amount, the submitter must transmit the list of individual customers and their bid amounts by close of business on the auction day. However, the submitter must be able to provide the customer list details by the noncompetitive bidding deadline if requested.
 
-[69 FR 45202, July 28, 2004, as amended at 74 FR 26086, June 1, 2009; 78 FR 46429, July 31, 2013; 87 FR 40439, July 7, 2022]
+[69 FR 45202, July 28, 2004, as amended at 74 FR 26086, June 1, 2009; 78 FR 46429, July 31, 2013; 87 FR 40440, July 7, 2022]

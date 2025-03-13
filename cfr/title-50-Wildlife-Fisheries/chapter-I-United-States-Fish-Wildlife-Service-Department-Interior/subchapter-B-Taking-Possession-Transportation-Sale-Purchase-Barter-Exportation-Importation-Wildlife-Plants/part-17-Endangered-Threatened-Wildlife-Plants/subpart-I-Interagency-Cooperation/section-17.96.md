@@ -1,6 +1,6 @@
 ##### § 17.96 Critical habitat—plants. #####
 
-Link to an amendment published at 88 FR 21867, Apr. 11, 2023.Link to an amendment published at 88 FR 25238, Apr. 25, 2023.Link to an amendment published at 88 FR 28905, May 4, 2023.Link to a correction of the above amendment published at 88 FR 30234, May 11, 2023.
+Link to an amendment published at 88 FR 57210, Aug. 22, 2023.
 
 (a) *Flowering plants.*
 
