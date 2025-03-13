@@ -36,16 +36,18 @@
 |Cronus Pharma Specialities India Private Ltd., Sy No-99/1, M/s GMR Hyderabad Aviation SEZ Ltd., Mamidipalli Village, Shamshabad Mandal, Ranga Reddy, Hyderabad, Telangana, 501218, India|     069043      |
 |                                       Dechra, Ltd., Snaygill Industrial Estate, Keighley Rd., Skipton, North Yorkshire, BD23 2RW, United Kingdom                                       |     043264      |
 |                                                 Dechra Veterinary Products LLC, 7015 College Blvd., Suite 525, Overland Park, KS 66211                                                 |     017033      |
+|                                    Domes Pharma S.A., ZAC de Champ Lamet, 3 rue Andre Citroen, Pont-du-Chateau, Auvergne-Rhône-Alpes, 63430, FRANCE                                    |     086189      |
 |                                                                      ECO LLC, 344 Nassau St., Princeton, NJ 08540                                                                      |     066916      |
 |                                                               Elanco US Inc., 2500 Innovation Way, Greenfield, IN 46140                                                                |     058198      |
 |                                                            Farnam Companies, Inc., 301 West Osborn, Phoenix, AZ 85013-3928                                                             |     017135      |
 |                                                       Felix Pharmaceuticals Pvt. Ltd., 25-28 North Wall Quay, Dublin 1, Ireland                                                        |     086101      |
 |                                                               First Priority, Inc., 1590 Todd Farm Dr., Elgin, IL 60123                                                                |     058829      |
 |                                                    Fougera Pharmaceuticals, Inc., P.O. Box 2006, 60 Baylis Rd., Melville, NY 11747                                                     |     025463      |
+|                                                            Genus Lifesciences Inc., 700 N Fenwick St., Allentown, PA 18109                                                             |     064950      |
 |                                                          GTC Biotherapeutics, Inc., 175 Crossing Blvd., Framingham, MA 01702                                                           |     042976      |
 |                                                                         Happy Jack, Inc., Snow Hill, NC 28580                                                                          |     023851      |
 |                                                        Hemoglobin Oxygen Therapeutics, LLC, 674 Souder Rd., Souderton, PA 18964                                                        |     063075      |
-|                                                               Heska Corp., 1825 Sharp Point Dr., Fort Collins, CO 80525                                                                |     063604      |
+|                                                             Heska Corp., 3760 Rocky Mountain Ave., Loveland, CO 80538-7084                                                             |     063604      |
 |                                                       HQ Specialty Pharma Corp., 120 Rte. 17 North, suite 130, Paramus, NJ 07652                                                       |     042791      |
 |                                                        Huvepharma EOOD, 5th Floor, 3A Nikolay Haytov Str., 1113 Sofia, Bulgaria                                                        |     016592      |
 |                                                            IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544                                                            |     000115      |
@@ -53,7 +55,6 @@
 |                                                  Ishihara Sangyo Kaisha, Ltd., 3-15, Edobori 1-chome, Nishi-ku, Osaka 550-0002, Japan                                                  |     064642      |
 |                                                          Ivaoes Animal Health, 4300 SW 73rd Ave., Suite 110, Miami, FL 33155                                                           |     086064      |
 |                                                         Jaguar Animal Health, 200 Pine St., Suite 600, San Francisco, CA 94104                                                         |     086149      |
-|                                                           Jurox Pty. Ltd., 85 Gardiner St., Rutherford, NSW 2320, Australia                                                            |     049480      |
 |                                                       Kinetic Technologies, LLC, 961 Beasley St., suite 270, Lexington, KY 40509                                                       |     051031      |
 |                                                                 Lloyd, Inc., 604 W. Thomas Ave., Shenandoah, IA 51601                                                                  |     061690      |
 |                                                           Med-Pharmex, Inc., 2727 Thompson Creek Rd., Pomona, CA 91767-1861                                                            |     054925      |
@@ -63,8 +64,8 @@
 |                                                Mylan Institutional LLC, a Viatris Company, 3711 Collins Ferry Rd., Morgantown, WV 26505                                                |     063286      |
 |                                                          Natchez Animal Supply Co., 201 John R. Junkin Dr., Natchez, MS 39120                                                          |     049968      |
 |                                                                  Neogen Corp., 944 Nandino Blvd., Lexington, KY 40511                                                                  |     059051      |
+|                                                                Noble Pharma, LLC, 4602 Domain Dr., Menomonie, WI 54751                                                                 |     086119      |
 |                                          Norbrook Laboratories Ltd., Carnbane Industrial Estate, Newry, County Down, BT35 6QQ, United Kingdom                                          |     055529      |
-|                                                             Oasmia Pharmaceutical AB, Vallongatan 1, 75228 Uppsala, Sweden                                                             |     052818      |
 |                                                                    Orion Corp., Orionintie 1, 02200 Espoo, Finland                                                                     |     052483      |
 |                                         Parnell Technologies Pty. Ltd., unit 4, 476 Gardeners Rd., Alexandria, New South Wales 2015, Australia                                         |     068504      |
 |                                                             Pegasus Laboratories, Inc., 8809 Ely Rd., Pensacola, FL 32514                                                              |     055246      |
@@ -132,7 +133,6 @@
 |     042791      |                                                       HQ Specialty Pharma Corp., 120 Rte. 17 North, suite 130, Paramus, NJ 07652.                                                       |
 |     042976      |                                                          GTC Biotherapeutics, Inc., 175 Crossing Blvd., Framingham, MA 01702.                                                           |
 |     043264      |                                       Dechra, Ltd., Snaygill Industrial Estate, Keighley Rd., Skipton, North Yorkshire, BD23 2RW, United Kingdom.                                       |
-|     049480      |                                                           Jurox Pty. Ltd., 85 Gardiner St., Rutherford, NSW 2320, Australia.                                                            |
 |     049968      |                                                          Natchez Animal Supply Co., 201 John R. Junkin Dr., Natchez, MS 39120.                                                          |
 |     050057      |                                                            Pharmaceutical Ventures, Ltd., P.O. Box D1400, Pomona, NY 10970.                                                             |
 |     050378      |                                                                   Syndel USA, 1441 W. Smith Rd., Ferndale, WA 98248.                                                                    |
@@ -143,7 +143,6 @@
 |     051311      |                                                                  Virbac AH, Inc., PO Box 162059, Fort Worth, TX 76161.                                                                  |
 |     051672      |                                                         Taro Pharmaceuticals U.S.A., Inc., 3 Skyline Dr., Hawthorne, NY 10532.                                                          |
 |     052483      |                                                                    Orion Corp., Orionintie 1, 02200 Espoo, Finland.                                                                     |
-|     052818      |                                                             Oasmia Pharmaceutical AB, Vallongatan 1, 75228 Uppsala, Sweden.                                                             |
 |     052923      |                                                                 Therio, Inc., 8801 Anderson Ave., Manhattan, KS 66503.                                                                  |
 |     053923      |                                                        Wildlife Laboratories, Inc., 1230 W. Ash St., suite D, Windsor, CO 80550.                                                        |
 |     054771      |                                                                   Zoetis Inc., 333 Portage St., Kalamazoo, MI 49007.                                                                    |
@@ -167,8 +166,9 @@
 |     062794      |                                                     Mylan Bertek Pharmaceuticals, Inc., 12720 Dairy Ashford, Sugar Land, TX 77478.                                                      |
 |     063075      |                                                        Hemoglobin Oxygen Therapeutics, LLC, 674 Souder Rd., Souderton, PA 18964.                                                        |
 |     063286      |                                                Mylan Institutional LLC, a Viatris Company, 3711 Collins Ferry Rd., Morgantown, WV 26505.                                                |
-|     063604      |                                                               Heska Corp., 1825 Sharp Point Dr., Fort Collins, CO 80525.                                                                |
+|     063604      |                                                             Heska Corp., 3760 Rocky Mountain Ave., Loveland, CO 80538-7084.                                                             |
 |     064642      |                                                  Ishihara Sangyo Kaisha, Ltd., 3-15, Edobori 1-chome, Nishi-ku, Osaka 550-0002, Japan.                                                  |
+|     064950      |                                                            Genus Lifesciences Inc., 700 N Fenwick St., Allentown, PA 18109.                                                             |
 |     065085      |                                     Piramal Pharma Ltd., Ground Floor, Piramal Ananta, Agastya Corporate Park, Mumbai, Maharashtra, 400070, India.                                      |
 |     066104      |                                   Phibro Animal Health Corp., GlenPointe Centre East, 3d floor, 300 Frank W. Burr Blvd., suite 21, Teaneck, NJ 07666.                                   |
 |     066794      |                                                         Piramal Critical Care, Inc., 3850 Schelden Circle, Bethlehem, PA 18017.                                                         |
@@ -192,10 +192,12 @@
 |     086106      |                                                                 Union Agener, Inc., 1788 Lovers Ln., Augusta, GA 30901.                                                                 |
 |     086113      |                                                                  Wildcat Feeds, 215 NE Strait Ave., Topeka, KS 66616.                                                                   |
 |     086117      |                                                             ZyVet Animal Health, Inc., 73 Route 31N, Pennington, NJ 08534.                                                              |
+|     086119      |                                                                Noble Pharma, LLC, 4602 Domain Dr., Menomonie, WI 54751.                                                                 |
 |     086121      |                                                          Anivive Lifesciences, Inc., 3777 Worsham Ave., Long Beach, CA 90808.                                                           |
 |     086132      |                                              QBiotics Group Ltd., Suite 3A, Level 1, 165 Moggill Rd., Taringa, Queensland 4068, Australia.                                              |
 |     086134      |                               Revivicor, Inc., a wholly owned subsidiary of United Therapeutics Corp., 1700 Kraft Dr., Suite 2400, Blacksburg, VA 24060.                                |
 |     086149      |                                                         Jaguar Animal Health, 200 Pine St., Suite 600, San Francisco, CA 94104.                                                         |
+|     086189      |                                    Domes Pharma S.A., ZAC de Champ Lamet, 3 rue Andre Citroen, Pont-du-Chateau, Auvergne-Rhône-Alpes, 63430, FRANCE.                                    |
 |     099207      |                                                       Bausch Health US, LLC, 400 Somerset Corporate Blvd., Bridgewater, NJ 08807.                                                       |
 
 [40 FR 13807, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

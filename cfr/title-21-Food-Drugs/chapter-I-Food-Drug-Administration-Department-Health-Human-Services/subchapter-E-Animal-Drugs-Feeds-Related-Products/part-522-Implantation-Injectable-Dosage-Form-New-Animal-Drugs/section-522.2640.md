@@ -4,9 +4,9 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
 
-(1) No. 058198 for use of 50- or 200-mg/mL solutions as in paragraph (e) of this section.
+(1) Nos. 016592 and 058198 for use of 50- or 200-mg/mL solutions as in paragraph (e) of this section.
 
-(2) Nos. 016592 and 061133 for use of a 200-mg/mL solution as in paragraphs (e)(1) and (2) of this section.
+(2) No. 061133 for use of a 200-mg/mL solution as in paragraphs (e)(1) and (2) of this section.
 
 (c) *Related tolerances.* See § 556.746 of this chapter.
 
@@ -32,4 +32,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[81 FR 67151, Sept. 30, 2016, as amended at 84 FR 8974, Mar. 13, 2019; 84 FR 32992, July 11, 2019; 88 FR 14900, Mar. 10, 2023; 88 FR 16549, Mar. 20, 2023]
+[81 FR 67151, Sept. 30, 2016, as amended at 84 FR 8974, Mar. 13, 2019; 84 FR 32992, July 11, 2019; 88 FR 14900, Mar. 10, 2023; 88 FR 16549, Mar. 20, 2023; 88 FR 84701, Dec. 6, 2023]

@@ -30,7 +30,7 @@ To be appealable under this part, a decision must be issued by a Responsible Off
 
 (c) *Special uses.* (1) Modification, suspension, or revocation of a special use authorization, other than acceptance of an operating plan, including:
 
-(i) A special use authorization issued under 36 CFR part 251, subpart B or D, other than modification, suspension or revocation of a noncommercial group use permit, suspension or revocation of an easement issued pursuant to 36 CFR 251.53(e) or 251.53(l), or revocation with the consent of the holder;
+(i) A special use authorization issued under 36 CFR part 251, subpart B or D, other than modification, suspension, or revocation of a noncommercial group use permit; suspension or revocation of a permit or easement issued under 36 CFR 251.53(e); suspension or revocation of an easement issued under 36 CFR 251.53(l); revocation for nonuse of an easement issued under 36 CFR 251.53(j); or revocation of a special use authorization with the consent of the holder.
 
 (ii) A special use authorization issued under 36 CFR part 212, subpart A, for ingress and egress to private lands that are intermingled with or adjacent to National Forest System lands;
 
@@ -60,4 +60,4 @@ To be appealable under this part, a decision must be issued by a Responsible Off
 
 (e) *Paleontological resources.* An authorization or permit issued under the Paleontological Resources Preservation Act of 2009 and 36 CFR part 291 for collection of paleontological resources.
 
-[78 FR 33717, June 5, 2013, as amended at 80 FR 21629, Apr. 17, 2015]
+[78 FR 33717, June 5, 2013, as amended at 80 FR 21629, Apr. 17, 2015; 88 FR 84707, Dec. 6, 2023]

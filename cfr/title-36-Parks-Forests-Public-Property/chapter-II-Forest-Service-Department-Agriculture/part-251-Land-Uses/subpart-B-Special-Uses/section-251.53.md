@@ -2,7 +2,7 @@
 
 Subject to any limitations contained in applicable statutes, the Chief of the Forest Service, or other Agency official to whom such authority is delegated, may issue special use authorizations for National Forest System land under the authorities cited and for the types of use specified in this section as follows:
 
-(a) Permits governing occupancy and use, including group events and distribution of noncommercial printed materials, under the act of June 4, 1897, 30 Stat. 35 (16 U.S.C. 551);
+(a) Permits governing occupancy and use, including noncommercial group use, under the act of June 4, 1897 (16 U.S.C. 551);
 
 (b) Leases under the Act of February 28, 1899, 30 Stat. 908 (16 U.S.C. 495) for public sanitariums or hotels near or adjacent to mineral springs;
 
@@ -46,4 +46,6 @@ Subject to any limitations contained in applicable statutes, the Chief of the Fo
 
 (n) Operation of nordic and alpine ski areas and facilities for up to 40 years and encompassing such acreage as the Forest Officer determines sufficient and appropriate as authorized by the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b).
 
-[45 FR 38327, June 6, 1980; 45 FR 43167, June 26, 1980, as amended at 49 FR 25449, June 21, 1984; 53 FR 16550, May 10, 1988; 54 FR 22594, May 25, 1989; 70 FR 70498, Nov. 22, 2005; 74 FR 68381, Dec. 24, 2009]
+(o) Leases governing occupancy and use of Federally owned historic properties under section 111 of the National Historic Preservation Act of 1966 (54 U.S.C. 306121).
+
+[45 FR 38327, June 6, 1980; 45 FR 43167, June 26, 1980, as amended at 49 FR 25449, June 21, 1984; 53 FR 16550, May 10, 1988; 54 FR 22594, May 25, 1989; 70 FR 70498, Nov. 22, 2005; 74 FR 68381, Dec. 24, 2009; 88 FR 84707, Dec. 6, 2023]

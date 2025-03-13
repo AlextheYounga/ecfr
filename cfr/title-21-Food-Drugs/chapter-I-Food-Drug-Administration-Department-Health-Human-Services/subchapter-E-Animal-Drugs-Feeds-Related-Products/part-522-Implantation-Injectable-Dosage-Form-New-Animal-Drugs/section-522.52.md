@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter contains 10 milligrams (mg) alfaxalone.
 
-(b) *Sponsor.* See No. 049480 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
 (c) *Conditions of use in cats and dogs*—(1) *Amount*—(i) *Cats*—(A) *Induction of general anesthesia.* Administer by intravenous injection over approximately 60 seconds or until clinical signs show the onset of anesthesia, 2.2 to 9.7 mg/kilogram (kg) for cats that did not receive a preanesthetic or 1.0 to 10.8 mg/kg for cats that received a preanesthetic.
 
@@ -16,4 +16,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian. Alfaxalone is a Class IV controlled substance.
 
-[77 FR 64717, Oct. 23, 2012, as amended at 79 FR 64116, Oct. 28, 2014]
+[77 FR 64717, Oct. 23, 2012, as amended at 79 FR 64116, Oct. 28, 2014; 88 FR 84700, Dec. 6, 2023]

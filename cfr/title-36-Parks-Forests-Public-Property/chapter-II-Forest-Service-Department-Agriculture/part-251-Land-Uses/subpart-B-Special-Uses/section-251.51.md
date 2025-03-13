@@ -16,7 +16,7 @@
 
 *Group use*—an activity conducted on National Forest System lands that involves a group of 75 or more people, either as participants or spectators.
 
-*Guiding*—providing services or assistance (such as supervision, protection, education, training, packing, touring, subsistence, transporting people, or interpretation) for pecuniary remuneration or other gain to individuals or groups on National Forest System lands.
+*Guiding*—providing services or assistance (such as supervision, protection, education, training, packing, touring, subsistence, transporting people, or interpretation) for monetary or other gain to individuals or groups on National Forest System lands.
 
 *Hazard tree*—for purposes of vegetation management for a powerline facility, any tree, brush, shrub, other plant, or part thereof, hereinafter “vegetation” (whether located on NFS lands inside or outside the linear right-of-way for the powerline facility), that has been designated, prior to failure, by a certified or licensed arborist, qualified vegetation management specialist, or forester under the supervision of the owner or operator to be:
 
@@ -56,7 +56,7 @@
 
 *Operating plan or agreement for a powerline facility (hereinafter “operating plan or agreement”)*—a plan or agreement prepared by the owner or operator of a powerline facility, approved by the authorized officer, and incorporated by reference into the corresponding special use authorization that provides for long-term, cost-effective, efficient, and timely inspection, operation, maintenance, and vegetation management of the powerline facility on NFS lands within the linear right-of-way for the powerline facility and on NFS lands adjacent to either side of the linear right-of-way to fell or prune hazard trees and to construct, reconstruct, and maintain access roads and trails, to enhance electric reliability, promote public safety, and avoid fire hazards.
 
-*Outfitting*—renting on or delivering to National Forest System lands for pecuniary remuneration or other gain any saddle or pack animal, vehicle, boat, camping gear, or similar supplies or equipment.
+*Outfitting*—renting on or delivering to National Forest System lands for monetary or other gain any saddle or pack animal, vehicle, boat, camping gear, or similar supplies or equipment.
 
 *Owner or operator*—for purposes of a powerline facility, the owner or operator of the powerline facility or a contractor or other agent engaged by the owner or operator of the powerline facility.
 
@@ -92,4 +92,4 @@
 
 (2) *Non-emergency (routine) vegetation management*—planned actions as described in an operating plan or agreement periodically taken to fell or prune vegetation on National Forest System lands within the linear right-of-way for a powerline facility and on abutting National Forest System lands to fell or prune hazard trees to ensure normal powerline facility operations and to prevent wildfire in accordance with applicable reliability and safety standards and as identified in an approved operating plan or agreement.
 
-[45 FR 38327, June 6, 1980, as amended at 49 FR 25449, June 21, 1984; 53 FR 16550, May 10, 1988; 54 FR 22593, May 25, 1989; 60 FR 45293, Aug. 30, 1995; 60 FR 54409, Oct. 23, 1995; 63 FR 65964, Nov. 30, 1998; 69 FR 41965, July 13, 2004; 70 FR 68290, Nov. 9, 2005; 71 FR 8913, Feb. 21, 2006; 71 FR 16621, Apr. 3, 2006; 74 FR 68381, Dec. 24, 2009; 78 FR 33725, June 5, 2013; 78 FR 38843, June 28, 2013; 85 FR 41392, July 10, 2020; 85 FR 48476, Aug. 11, 2020; 87 FR 7949, Feb. 11, 2022]
+[45 FR 38327, June 6, 1980, as amended at 49 FR 25449, June 21, 1984; 53 FR 16550, May 10, 1988; 54 FR 22593, May 25, 1989; 60 FR 45293, Aug. 30, 1995; 60 FR 54409, Oct. 23, 1995; 63 FR 65964, Nov. 30, 1998; 69 FR 41965, July 13, 2004; 70 FR 68290, Nov. 9, 2005; 71 FR 8913, Feb. 21, 2006; 71 FR 16621, Apr. 3, 2006; 74 FR 68381, Dec. 24, 2009; 78 FR 33725, June 5, 2013; 78 FR 38843, June 28, 2013; 85 FR 41392, July 10, 2020; 85 FR 48476, Aug. 11, 2020; 87 FR 7949, Feb. 11, 2022; 88 FR 84707, Dec. 6, 2023]

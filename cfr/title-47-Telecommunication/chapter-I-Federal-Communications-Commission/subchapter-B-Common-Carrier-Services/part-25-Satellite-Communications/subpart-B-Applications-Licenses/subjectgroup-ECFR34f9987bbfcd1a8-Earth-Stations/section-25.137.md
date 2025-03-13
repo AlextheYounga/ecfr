@@ -1,5 +1,7 @@
 ##### § 25.137 Requests for U.S. market access through non-U.S.-licensed space stations. #####
 
+Link to an amendment published at 88 FR 84754, Dec. 6, 2023.
+
 (a) Earth station applicants requesting authority to communicate with a non-U.S.-licensed space station and entities filing a petition for declaratory ruling to access the United States market using a non-U.S.-licensed space station must attach an exhibit with their FCC Form 312 demonstrating that U.S.-licensed satellite systems have effective competitive opportunities to provide analogous services in:
 
 (1) The country in which the non-U.S. licensed space station is licensed; and

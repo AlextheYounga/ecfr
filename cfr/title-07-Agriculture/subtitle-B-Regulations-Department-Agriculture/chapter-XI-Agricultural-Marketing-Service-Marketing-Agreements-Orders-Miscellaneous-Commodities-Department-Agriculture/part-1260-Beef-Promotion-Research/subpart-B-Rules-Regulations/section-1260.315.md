@@ -1,7 +1,5 @@
 ##### § 1260.315 Qualified State Beef Councils. #####
 
-Link to an amendment published at 88 FR 76102, Nov. 6, 2023.
-
 The following State beef promotion entities have been certified by the Board as Qualified State Beef Councils:
 
 (a) Alabama Cattlemen's Association.
@@ -36,60 +34,58 @@ The following State beef promotion entities have been certified by the Board as 
 
 (p) Louisiana Beef Industry Council.
 
-(q) Maryland Beef Council.
+(q) Michigan Beef Industry Commission.
 
-(r) Michigan Beef Industry Commission.
+(r) Minnesota Beef Council.
 
-(s) Minnesota Beef Council.
+(s) Mississippi Beef Council.
 
-(t) Mississippi Beef Council.
+(t) Missouri Beef Industry Council, Inc.
 
-(u) Missouri Beef Industry Council, Inc.
+(u) Montana Beef Council.
 
-(v) Montana Beef Council.
+(v) Nebraska Beef Council.
 
-(w) Nebraska Beef Council.
+(w) Nevada Beef Council.
 
-(x) Nevada Beef Council.
+(x) New Jersey Beef Industry Council.
 
-(y) New Jersey Beef Industry Council.
+(y) New Mexico Beef Council.
 
-(z) New Mexico Beef Council.
+(z) New York Beef Industry Council.
 
-(aa) New York Beef Industry Council.
+(aa) North Carolina Cattlemen's Beef Council.
 
-(bb) North Carolina Cattlemen's Beef Council.
+(bb) North Dakota Beef Commission.
 
-(cc) North Dakota Beef Commission.
+(cc) Ohio Beef Council.
 
-(dd) Ohio Beef Council.
+(dd) Oklahoma Beef Council.
 
-(ee) Oklahoma Beef Council.
+(ee) Oregon Beef Council.
 
-(ff) Oregon Beef Council.
+(ff) Pennsylvania Beef Council.
 
-(gg) Pennsylvania Beef Council.
+(gg) South Carolina Beef Council.
 
-(hh) South Carolina Beef Council.
+(hh) South Dakota Beef Industry Council.
 
-(ii) South Dakota Beef Industry Council.
+(ii) Tennessee Beef Industry Council.
 
-(jj) Tennessee Beef Industry Council.
+(jj) Texas Beef Council.
 
-(kk) Texas Beef Council.
+(kk) Utah Beef Council.
 
-(ll) Utah Beef Council.
+(ll) Vermont Beef Industry Council.
 
-(mm) Vermont Beef Industry Council.
+(mm) Virginia Beef Industry Council.
 
-(nn) Virginia Beef Industry Council.
+(nn) Washington State Beef Commission.
 
-(oo) Washington State Beef Commission.
+(oo) West Virginia Beef Council, Inc.
 
-(pp) West Virginia Beef Council, Inc.
+(pp) Wisconsin Beef Council, Inc.
 
-(qq) Wisconsin Beef Council, Inc.
+(qq) Wyoming Beef Council.
 
-(rr) Wyoming Beef Council.
-
-[84 FR 20771, May 13, 2019]
+[84 FR 20771, May 13, 2019, as amended at 88 FR 76102, Nov. 6, 2023]

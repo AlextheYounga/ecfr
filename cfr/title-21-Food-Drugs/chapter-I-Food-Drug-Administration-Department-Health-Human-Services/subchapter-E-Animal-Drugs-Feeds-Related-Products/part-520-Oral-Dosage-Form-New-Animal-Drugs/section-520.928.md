@@ -6,7 +6,7 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
 
-(1) Nos. 000010, 055246, and 055529 for use of products described in paragraph (a)(1) as in paragraph (c)(1) of this section; and
+(1) Nos. 000010, 013744, 055246, 055529, and 086101 for use of products described in paragraph (a)(1) as in paragraph (c)(1) of this section; and
 
 (2) Nos. 000010 and 055246 for use of the product described in paragraph (a)(2) as in paragraph (c)(2) of this section.
 
@@ -22,4 +22,4 @@
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[69 FR 51171, Aug. 18, 2004, as amended at 73 FR 2808, Jan. 16, 2008; 73 FR 64885, Oct. 31, 2008; 81 FR 67151, Sept. 30, 2016; 87 FR 58961, Sept. 29, 2022; 88 FR 14897, Mar. 10, 2023; 88 FR 55563, Aug. 16, 2023]
+[69 FR 51171, Aug. 18, 2004, as amended at 73 FR 2808, Jan. 16, 2008; 73 FR 64885, Oct. 31, 2008; 81 FR 67151, Sept. 30, 2016; 87 FR 58961, Sept. 29, 2022; 88 FR 14897, Mar. 10, 2023; 88 FR 55563, Aug. 16, 2023; 88 FR 84700, Dec. 6, 2023]

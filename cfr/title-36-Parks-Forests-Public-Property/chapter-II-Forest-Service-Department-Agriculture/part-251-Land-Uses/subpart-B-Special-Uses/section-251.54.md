@@ -14,7 +14,7 @@
 
 (d) *Proposal content*—(1) *Proponent identification.* Any proponent for a special use authorization must provide the proponent's name and mailing address, and, if the proponent is not an individual, the name and address of the proponent's agent who is authorized to receive notice of actions pertaining to the proposal.
 
-(2) *Required information*—(i) *Noncommercial group uses.* Paragraphs (d)(3) through (d)(5) of this section do not apply to proposals for noncommercial group uses. A proponent for noncommercial group uses shall provide the following:
+(2) *Required information*—(i) *Noncommercial group uses.* Paragraphs (d)(3) through (5) of this section do not apply to proposed noncommercial group uses. A proponent for a noncommercial group use shall provide the following:
 
 (A) A description of the proposed activity;
 
@@ -62,7 +62,7 @@
 
 (iii) The proposed use will not pose a serious or substantial risk to public health or safety.
 
-(iv) The proposed use will not create an exclusive or perpetual right of use or occupancy.
+(iv) Except for permanent easements issued under § 251.53(j), the proposed use will not create an exclusive or perpetual right of use or occupancy.
 
 (v) The proposed use will not unreasonably conflict or interfere with administrative use by the Forest Service, other scheduled or authorized existing uses of the National Forest System, or use of adjacent non-National Forest System lands.
 
@@ -110,15 +110,15 @@
 
 (6) *NEPA compliance for second-level screening process.* A request for a special use authorization that does not meet the criteria established in paragraphs (e)(5)(i) through (e)(5)(v) of this section does not constitute an agency proposal as defined in 40 CFR 1508.23 and, therefore, does not require environmental analysis and documentation.
 
-(f) *Special requirements for certain proposals*—(1) *Oil and gas pipeline rights-of-way.* These proposals must include the citizenship of the proponent(s) and disclose the identity of its participants as follows:
+(f) *Special requirements for certain proposals*—(1) *Oil and gas pipeline rights-of-way.* An individual proposing an oil or gas pipeline right-of-way must be a United States citizen and must provide proof of United States citizenship. An entity proposing an oil or gas pipeline right-of-way must be established, and must provide documentation that the entity was established, under the laws of the United States, a state or territory of the United States, or in the case of coal, oil, shale, or gas, a municipality of the United States.
 
-(i) Citizens of another country, the laws, customs, or regulations of which deny similar or like privileges to citizens or corporations of the United States, shall not own an appreciable interest in any oil and gas pipeline right-of-way or associated permit; and
+(i) Citizens of another country, the laws, customs, or regulations of which deny similar or like privileges to citizens or corporations of the United States, shall not by stock ownership, stock holding, or stock control own an appreciable interest in any oil or gas pipeline right-of-way or associated special use authorization; and
 
 (ii) The authorized officer shall promptly notify the House Committee on Resources and the Senate Committee on Energy and Natural Resources upon receipt of a proposal for a right-of-way for a pipeline 24 inches or more in diameter, and no right-of-way for that pipeline shall be granted until notice of intention to grant the right-of-way, together with the authorized officer's detailed findings as to the term and conditions the authorized officer proposes to impose, have been submitted to the committees.
 
 (2) *Major development.* Proponents of a major development may submit a request for a planning permit of up to 10 years in duration. Requests for a planning permit must include the information contained in paragraphs (d)(1) through (d)(3) of this section. Upon completion of a master development plan developed under a planning permit, proponents may then submit a request for a long-term authorization to construct and operate the development. At a minimum, a request for a long-term permit for a major development must include the information contained in paragraphs (d)(1) and (d)(2)(ii) through (d)(5) of this section. Issuance of a planning permit does not prejudice approval or denial of a subsequent request for a special use permit for the development.
 
-(g) *Application processing and response*—(1) *Acceptance of applications.* Except for proposals for noncommercial group uses, if a request does not meet the criteria of both screening processes or is subsequently denied, the proponent must be notified with a written explanation of the rejection or denial and any written proposal returned to the proponent. If a request for a proposed use meets the criteria of both the initial and second-level screening processes as described in paragraph (e) of this section, the authorized officer shall notify the proponent that the agency is prepared to accept a written formal application for a special use authorization and shall, as appropriate or necessary, provide the proponent guidance and information of the type described in paragraphs (e)(3)(i) through (e)(3)(viii) of this section.
+(g) *Application processing and response*—(1) *Acceptance of applications.* Except for proposed noncommercial group uses, if a proposed use does not meet both the initial and second-level screening criteria in paragraph (e) of this section, the authorized officer shall reject the proposal. The authorized officer shall notify the proponent in writing of the rejection and the reasons for the rejection. If a proposed use meets both the initial and second-level screening criteria in paragraph (e) of this section, the authorized officer shall notify the proponent that the proponent may submit a written application for evaluation under this paragraph. The authorized officer shall, as appropriate or necessary, provide the proponent guidance and information of the type described in paragraphs (e)(3)(i) through (viii) of this section.
 
 (2) *Processing applications.* (i) Upon acceptance of an application for a special use authorization other than a planning permit, the authorized officer shall evaluate the proposed use for the requested site, including effects on the environment. The authorized officer may request such additional information as necessary to obtain a full description of the proposed use and its effects.
 
@@ -168,7 +168,7 @@
 
 (H) A person or persons 21 years of age or older have been designated to sign and do sign a special use authorization on behalf of the applicant.
 
-(iii) If an authorized officer denies an application because it does not meet the criteria in paragraphs (g)(3)(ii)(A) through (g)(3)(ii)(H) of this section, the authorized officer shall notify the applicant in writing of the reasons for the denial. If an alternative time, place, or manner will allow the applicant to meet the eight evaluation criteria, an authorized officer shall offer that alternative. If an application is denied solely under paragraph (g)(3)(ii)(C) of this section and all alternatives suggested are unacceptable to the applicant, the authorized officer shall offer to have completed the requisite environmental and other analyses for the requested site. A decision to grant or deny the application for which an environmental assessment or an environmental impact statement is prepared is subject to the notice and appeal procedures at 36 CFR part 215 and shall be made within 48 hours after the decision becomes final under that appeal process. A denial of an application in paragraphs (g)(3)(ii)(A) through (g)(3)(ii)(H) of this section constitutes final agency action, is not subject to administrative appeal, and is immediately subject to judicial review.
+(iii) If an authorized officer denies an application because it does not meet the criteria in paragraphs (g)(3)(ii)(A) through (H) of this section, the authorized officer shall notify the applicant in writing of the reasons for the denial. If an alternative time, place, or manner will allow the applicant to meet the eight evaluation criteria, an authorized officer shall offer that alternative. If an application is denied solely under paragraph (g)(3)(ii)(C) of this section and all alternatives suggested are unacceptable to the applicant, the authorized officer shall offer to have completed the requisite environmental and other analyses for the requested site. An environmental assessment or an environmental impact statement prepared for the requested site is subject to the predecisional objection procedures at 36 CFR part 218. Notwithstanding the timing provisions set forth in 36 CFR 218.12, a decision to grant or deny an application for which an environmental assessment or an environmental impact statement is prepared for the requested site shall be made within 48 hours after the time for filing an objection expires or, if an objection is filed, the objection process is completed. A denial of an application in paragraphs (g)(3)(ii)(A) through (H) of this section constitutes final agency action, is not subject to administrative appeal, and is immediately subject to judicial review.
 
 (4) *Response to all other applications*—(i) *General.* Based on evaluation of the information provided by the applicant and other relevant information such as environmental findings, the authorized officer shall decide whether to approve the proposed use, approve the proposed use with modifications, or deny the proposed use. A group of applications for similar uses may be evaluated with one analysis and approved in one decision.
 
@@ -186,4 +186,4 @@
 
 (ii) *Minimum term for communications use authorizations.* The term for a communications use authorization shall be 30 years, unless case-specific circumstances warrant a shorter term.
 
-[63 FR 65964, Nov. 30, 1998, as amended at 74 FR 68381, Dec. 24, 2009; 78 FR 33725, June 5, 2013; 85 FR 19665, Apr. 8, 2020]
+[63 FR 65964, Nov. 30, 1998, as amended at 74 FR 68381, Dec. 24, 2009; 78 FR 33725, June 5, 2013; 85 FR 19665, Apr. 8, 2020; 88 FR 84707, Dec. 6, 2023]

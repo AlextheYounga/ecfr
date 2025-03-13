@@ -6,7 +6,7 @@
 
 (1) Nos. 054771 and 061133 for use as in paragraph (d) of this section.
 
-(2) Nos. 016592, 054925, and 076475 for use as in paragraphs (d)(1) and (d)(2) of this section.
+(2) Nos. 016592 and 076475 for use as in paragraphs (d)(1) and (2) of this section.
 
 (c) *Tolerances.* See § 556.360 of this chapter.
 
@@ -14,7 +14,7 @@
 
 (ii) *Indications for use.* For the treatment of swine dysentery (bloody scours).
 
-(iii) *Limitations.* Discard medicated drinking water if not used within 2 days. Prepare fresh stock solution daily. Do not use for more than 10 days. If clinical signs of disease have not improved within 6 days, discontinue treatment and reevaluate diagnosis. The safety of lincomycin has not been demonstrated in pregnant swine or swine intended for breeding. For No. 054925: Do not slaughter swine for 6 days following last treatment. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(iii) *Limitations.* Discard medicated drinking water if not used within 2 days. Prepare fresh stock solution daily. Do not use for more than 10 days. If clinical signs of disease have not improved within 6 days, discontinue treatment and reevaluate diagnosis. The safety of lincomycin has not been demonstrated in pregnant swine or swine intended for breeding. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (2) *Chickens*—(i) *Amount.* 64 milligrams per gallon of drinking water.
 
@@ -28,4 +28,4 @@
 
 (iii) *Limitations.* The drug should be fed early in the spring or late in the fall and consumed by the bees before the main honey flow begins to avoid contamination of production honey. Complete treatments at least 4 weeks before main honey flow. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[48 FR 3966, Jan. 28, 1983, as amended at 55 FR 3209, Jan. 31, 1990; 60 FR 14217, Mar. 16, 1995; 62 FR 65020, Dec. 10, 1997; 64 FR 13341, Mar. 18, 1999; 64 FR 13508, Mar. 19, 1999; 64 FR 66382, Nov. 26, 1999; 65 FR 10705, Feb. 29, 2000; 67 FR 17284, Apr. 10, 2002; 67 FR 71819, Dec. 3, 2002; 67 FR 78356, Dec. 24, 2002; 68 FR 3817, Jan. 27, 2003; 70 FR 1818, Jan. 11, 2005; 77 FR 20988, Apr. 9, 2012; 77 FR 29217, May 17, 2012; 78 FR 28823, May 20, 2014; 81 FR 22523, Apr. 18, 2016; 81 FR 94989, Dec. 27, 2016; 83 FR 48945, Sept. 28, 2018; 84 FR 8972, Mar. 13, 2019. Redesignated at 85 FR 18119, Apr. 1, 2020, as amended at 88 FR 16547, Mar. 20, 2023]
+[48 FR 3966, Jan. 28, 1983, as amended at 55 FR 3209, Jan. 31, 1990; 60 FR 14217, Mar. 16, 1995; 62 FR 65020, Dec. 10, 1997; 64 FR 13341, Mar. 18, 1999; 64 FR 13508, Mar. 19, 1999; 64 FR 66382, Nov. 26, 1999; 65 FR 10705, Feb. 29, 2000; 67 FR 17284, Apr. 10, 2002; 67 FR 71819, Dec. 3, 2002; 67 FR 78356, Dec. 24, 2002; 68 FR 3817, Jan. 27, 2003; 70 FR 1818, Jan. 11, 2005; 77 FR 20988, Apr. 9, 2012; 77 FR 29217, May 17, 2012; 78 FR 28823, May 20, 2014; 81 FR 22523, Apr. 18, 2016; 81 FR 94989, Dec. 27, 2016; 83 FR 48945, Sept. 28, 2018; 84 FR 8972, Mar. 13, 2019. Redesignated at 85 FR 18119, Apr. 1, 2020, as amended at 88 FR 16547, Mar. 20, 2023; 88 FR 84700, Dec. 6, 2023]

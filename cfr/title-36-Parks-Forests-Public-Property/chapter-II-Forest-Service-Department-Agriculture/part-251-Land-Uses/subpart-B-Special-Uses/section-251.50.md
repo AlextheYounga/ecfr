@@ -10,8 +10,6 @@
 
 (2) The proposed use is still photography as defined in § 251.51 of this subpart; or
 
-(3) Authorization of that use is required by an order issued under § 261.50 or by a regulation issued under § 261.70 of this chapter.
-
 (d) Travel on any National Forest System road shall comply with all Federal and State laws governing the road to be used and does not require a special use authorization, unless:
 
 (1) The travel is for the purpose of engaging in a noncommercial group use, outfitting or guiding, a recreation event, commercial filming, or still photography, as defined in § 251.51 of this subpart, or for a landowner's ingress or egress across National Forest System lands that requires travel on a National Forest System road that is not authorized for general public use under § 251.110(d) of this part; or
@@ -26,4 +24,4 @@
 
 (3) The proposed use is not situated in a congressionally designated wilderness area, and is a routine operation or maintenance activity within the scope of a statutory right-of-way for a highway pursuant to R.S. 2477 (43 U.S.C. 932, repealed Oct. 21, 1976) or for a ditch or canal pursuant to R.S. 2339 (43 U.S.C. 661, as amended), or the proposed use is a routine operation or maintenance activity within the express scope of a documented linear right-of-way.
 
-[69 FR 41964, July 13, 2004]
+[69 FR 41964, July 13, 2004, as amended at 88 FR 84707, Dec. 6, 2023]

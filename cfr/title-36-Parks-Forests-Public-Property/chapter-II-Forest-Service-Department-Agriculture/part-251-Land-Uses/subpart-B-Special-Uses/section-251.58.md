@@ -78,15 +78,7 @@
 
 (d) *Monitoring fee requirements.* The monitoring fee for an authorization shall be assessed independently of any fee charged for processing the application for that authorization pursuant to paragraph (c) of this section. Payment of the monitoring fee is due upon issuance of the authorization.
 
-(1) *Basis for monitoring fees.* Monitoring is defined at § 251.51. For monitoring fees in minor categories 1 through 4, authorization holders are assessed fees based upon the estimated time needed for Forest Service monitoring to ensure compliance with the authorization during the construction or reconstruction of temporary or permanent facilities and rehabilitation of the construction or reconstruction site. Major category 5 and category 6 monitoring fees shall be based upon the agency's estimated costs to ensure compliance with the terms and conditions of the authorization during all phases of its term, including but not limited to monitoring to ensure compliance with the authorization during the construction or reconstruction of temporary or permanent facilities and rehabilitation of the construction or reconstruction site. Monitoring for all categories does not include billings, maintenance of case files, annual performance evaluations, or scheduled inspections to determine compliance generally with the terms and conditions of an authorization.
-
-(i) *Monitoring fee determinations.* The applicable fee rate for monitoring compliance with authorizations in minor categories 1 through 4 (paragraphs (d)(2)(i) through (d)(2)(iv) of this section) shall be assessed from a schedule. The monitoring fee for authorizations in category 5, which may be minor or major, shall be established in the master agreement (paragraph (d)(2)(v) of this section). For major category 5 (paragraph (d)(2)(v) of this section) and category 6 (paragraph (d)(2)(vi) of this section) cases, the authorized officer shall estimate the agency's full actual monitoring costs. The estimated monitoring costs for category 5 and category 6 cases shall be reconciled as provided in paragraphs (d)(3)(ii) and (iii) and (d)(4)(ii) and (iii) of this section.
-
-(ii) *Reductions in monitoring fees for certain category 6 authorizations.* For category 6 authorizations issued under authorities other than the Mineral Leasing Act, the holder:
-
-(A) May request a reduction of the monitoring fee based upon the holder's written analysis of actual costs, the monetary value of the rights or privileges granted, that portion of the costs incurred for the benefit of the general public interest, the public service provided, the efficiency of the agency monitoring involved, and other factors relevant to determining the reasonableness of the costs. The agency will determine whether the estimate of full actual costs should be reduced based upon this analysis and will notify the holder in writing of this determination; or
-
-(B) May agree in writing to waive payment of reasonable costs and pay the actual costs incurred in monitoring the authorization.
+(1) *Basis for monitoring fees.* Monitoring is defined at § 251.51. For monitoring fees in minor categories 1 through 4, authorization holders are assessed fees based upon the estimated time needed for Forest Service monitoring to ensure compliance with the authorization during the construction or reconstruction of temporary or permanent facilities and rehabilitation of the construction or reconstruction site. Major category 5 and category 6 monitoring fees shall be based upon the agency's estimated costs to ensure compliance with the authorization during all phases of its term, including but not limited to monitoring to ensure compliance with the authorization during the construction or reconstruction of temporary or permanent facilities and rehabilitation of the construction or reconstruction site. Monitoring for all categories does not include billings, maintenance of case files, annual performance evaluations, or routine on-site reviews to determine compliance generally with the terms of an authorization.
 
 (2) *Monitoring fee categories.* No monitoring fee is charged for authorizations requiring 1 hour or less for the Forest Service to monitor. Authorizations requiring more than1 hour for the agency to monitor are covered by fee categories 1 through 6 set out in the following paragraphs (d)(2)(i) through (vi) of this section.
 
@@ -172,7 +164,7 @@
 
 (2) A decision by an authorized officer's immediate supervisor in response to a request for substitution of an alternative fee category or alternative estimated costs likewise is not subject to administrative appeal.
 
-(i) *Processing and monitoring fee schedules.* (1) The Forest Service shall maintain schedules for processing and monitoring fees in its directive system (36 CFR 200.4). The rates in the schedules shall be updated annually by using the annual rate of change, second quarter to second quarter, in the Implicit Price Deflator-Gross Domestic Product (IPD-GDP) index. The Forest Service shall round the changes in the rates either up or down to the nearest dollar.
+(i) *Processing and monitoring fee schedules.* (1) The Forest Service shall maintain schedules for processing and monitoring fees on its website. The rates in the schedules shall be updated annually by using the annual rate of change, second quarter to second quarter, in the Implicit Price Deflator-Gross Domestic Product (IPD-GDP) index. The Forest Service shall round the changes in the rates either up or down to the nearest dollar.
 
 (2) Within 5 years of the effective date of this rule, March 23, 2006, the Forest Service shall review these rates:
 
@@ -180,4 +172,4 @@
 
 (ii) To assess consistency with processing and monitoring fee schedules established by the United States Department of the Interior, Bureau of Land Management.
 
-[71 FR 8913, Feb. 21, 2006]
+[71 FR 8913, Feb. 21, 2006, as amended at 88 FR 84708, Dec. 6, 2023]

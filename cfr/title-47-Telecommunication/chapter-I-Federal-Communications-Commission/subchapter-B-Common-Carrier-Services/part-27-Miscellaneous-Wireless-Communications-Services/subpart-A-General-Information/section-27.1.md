@@ -42,4 +42,4 @@ This section contains the statutory basis for this part of the rules and provide
 
 (c) *Scope.* The rules in this part apply only to stations authorized under this part or authorized under another part of this chapter on frequencies or bands transitioning to authorizations under this part.
 
-[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

@@ -1,5 +1,7 @@
 ##### § 25.159 Limits on pending applications and unbuilt satellite systems. #####
 
+Link to an amendment published at 88 FR 84754, Dec. 6, 2023.
+
 (a) [Reserved]
 
 (b) Applicants with an application for one NGSO-like satellite system license on file with the Commission in a particular frequency band, or one licensed-but-unbuilt NGSO-like satellite system in a particular frequency band, other than those filed or licensed under the procedures in § 25.122 or § 25.123, will not be permitted to apply for another NGSO-like satellite system license in that frequency band. This paragraph (b) shall not apply to applicants filing under § 25.122 or § 25.123.
