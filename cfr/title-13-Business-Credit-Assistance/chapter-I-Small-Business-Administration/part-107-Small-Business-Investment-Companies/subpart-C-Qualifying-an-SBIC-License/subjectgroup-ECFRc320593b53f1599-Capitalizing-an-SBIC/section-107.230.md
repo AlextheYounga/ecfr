@@ -1,5 +1,7 @@
 ##### § 107.230 Permitted sources of Private Capital for Licensees. #####
 
+Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
+
 Private Capital means the contributed capital of a Licensee, plus unfunded binding commitments by Institutional Investors (including commitments evidenced by a promissory note) to contribute capital to a Licensee.
 
 (a) *Contributed capital.* For purposes of this section, contributed capital means the paid-in capital and paid-in surplus of a Corporate Licensee, or the partners' contributed capital of a Partnership Licensee, in either case subject to the limitations in paragraph (b) of this section.

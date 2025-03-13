@@ -14,7 +14,13 @@
 
 (ii) *Exception for changes in a plan's vesting computation period.* Notwithstanding paragraph (a)(3)(i) of this section, a plan amendment that satisfies the applicable requirements under 29 CFR 2530.203-2(c) (rules relating to vesting computation periods) does not fail to satisfy the requirements of section 411(d)(6) merely because the plan amendment changes the plan's vesting computation period.
 
-(4) *Examples.* The following examples illustrate the application of this paragraph (a):
+(4) *Changes in lookback months and stability periods for mortality table and interest rate.* Subject to the rules of this paragraph (a)(4), a defined benefit plan may be amended by an amendment that is adopted on or after January 19, 2024 to change the stability period described in § 1.417(e)-1(d)(4)(ii) from one stability period to a different stability period or to change the lookback month described in § 1.417(e)-1(d)(4)(iii) from one lookback month to a different lookback month (including an indirect change to the stability period or lookback month as a result of a change in plan year). The amendments described in this paragraph (a)(4) may be made with respect to any plan provision under which an interest rate or mortality table is specified by reference to a stability period or a lookback month, provided that any distribution for which the annuity starting date occurs on or after the effective date of the amendment and before the end of the one-year period commencing on the applicable amendment date for the amendment is equal to the greater of—
+
+(i) The amount determined using the pre-amendment stability period and lookback month; and
+
+(ii) The amount determined using the post-amendment stability period and lookback month.
+
+(5) *Examples.* The following examples illustrate the application of this paragraph (a):
 
 Example 1.(i) *Facts.* Plan A provides an annual benefit of 2% of career average pay times years of service commencing at normal retirement age (age 65). Plan A is amended on November 1, 2006, effective as of January 1, 2007, to provide for an annual benefit of 1.3% of final pay times years of service, with final pay computed as the average of a participant's highest 3 consecutive years of compensation. As of January 1, 2007, Participant M has 16 years of service, M's career average pay is $37,500, and the average of M's highest 3 consecutive years of compensation is $67,308. Thus, Participant M's accrued benefit as of the applicable amendment date is increased from $12,000 per year at normal retirement age (2% times $37,500 times 16 years of service) to $14,000 per year at normal retirement age (1.3% times $67,308 times 16 years of service). As of January 1, 2007, Participant N has 6 years of service, N's career average pay is $50,000, and the average of N's highest 3 consecutive years of compensation is $51,282. Participant N's accrued benefit as of the applicable amendment date is decreased from $6,000 per year at normal retirement age (2% times $50,000 times 6 years of service) to $4,000 per year at normal retirement age (1.3% times $51,282 times 6 years of service).
 
@@ -342,14 +348,14 @@ Example 5.(i) *Facts involving reductions in actuarial present value.* (A) Plan 
 |Age  <br/>(1)|Old division X factor  <br/>(as a %)  <br/>(2)|New factor  <br/>(as a %)  <br/>(3)|Actuarially equivalent factor  <br/>(as a %)  <br/>(4)|Column 3 minus column 2  <br/>(5)|
 |-------------|----------------------------------------------|-----------------------------------|------------------------------------------------------|---------------------------------|
 |     65      |                      NA                      |                NA                 |                          NA                          |               NA                |
-|     64      |                      95                      |                97                 |                         91.1                         |               \+ 2              |
-|     63      |                      90                      |                94                 |                         83.2                         |               \+ 4              |
-|     62      |                      85                      |                91                 |                         76.1                         |               \+ 5              |
-|     61      |                      80                      |                85                 |                         69.8                         |               \+ 5              |
-|     60      |                      75                      |                79                 |                         64.1                         |               \+ 4              |
-|     59      |                      70                      |                73                 |                         59.0                         |               \+ 3              |
-|     58      |                      65                      |                67                 |                         54.3                         |               \+ 2              |
-|     57      |                      60                      |                61                 |                         50.1                         |               \+ 1              |
+|     64      |                      95                      |                97                 |                         91.1                         |              \+ 2               |
+|     63      |                      90                      |                94                 |                         83.2                         |              \+ 4               |
+|     62      |                      85                      |                91                 |                         76.1                         |              \+ 5               |
+|     61      |                      80                      |                85                 |                         69.8                         |              \+ 5               |
+|     60      |                      75                      |                79                 |                         64.1                         |              \+ 4               |
+|     59      |                      70                      |                73                 |                         59.0                         |              \+ 3               |
+|     58      |                      65                      |                67                 |                         54.3                         |              \+ 2               |
+|     57      |                      60                      |                61                 |                         50.1                         |              \+ 1               |
 |     56      |                      55                      |                55                 |                         46.3                         |                0                |
 |     55      |                      50                      |                49                 |                         42.8                         |               \-1               |
 
@@ -385,4 +391,4 @@ Example 6.(i) *Facts involving elimination of noncore options using utilization 
 
 (5) *Effective date for rules relating to utilization test.* The rules provided in paragraph (f) of this section are applicable for amendments adopted after December 31, 2006.
 
-[T.D. 9219, 70 FR 47116, Aug. 12, 2005, as amended by T.D. 9280, 71 FR 45383, Aug. 9, 2006; 71 FR 55108, Sept. 21, 2006; T.D. 9472, 74 FR 61276, Nov. 24, 2009]
+[T.D. 9219, 70 FR 47116, Aug. 12, 2005, as amended by T.D. 9280, 71 FR 45383, Aug. 9, 2006; 71 FR 55108, Sept. 21, 2006; T.D. 9472, 74 FR 61276, Nov. 24, 2009; T.D. 9987, 89 FR 3357, Jan. 19, 2024]

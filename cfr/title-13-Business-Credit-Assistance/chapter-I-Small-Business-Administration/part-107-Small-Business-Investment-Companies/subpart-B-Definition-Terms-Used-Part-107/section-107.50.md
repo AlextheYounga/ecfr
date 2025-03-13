@@ -1,5 +1,7 @@
 ##### § 107.50 Definition of terms. #####
 
+Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
+
 *Accrual Debenture* means a Debenture issued at face value that accrues interest over its ten-year term, as to which instrument SBA guarantees both the principal and unpaid accrued interest.
 
 *Accrual Small Business Investment Company (“Accrual SBIC”)* means a Section 301(c) Partnership Licensee, licensed under § 107.300 and approved by SBA to issue Accrual Debentures. Accrual SBICs shall be limited to a maximum of one and one quarter tiers of Leverage.
@@ -276,11 +278,11 @@
 
 *Management Expenses* has the meaning set forth in § 107.520.
 
-*Non-leveraged Licensee* means a Licensee which has no outstanding Leverage or Leverage commitment, no earmarked assets, and certifies to SBA (in writing) that it will not seek Leverage in the future.
-
 *1940 Act Company* means a Licensee which is registered under the Investment Company Act of 1940.
 
 *1980 Act Company* means a Licensee which is registered under the Small Business Investment Incentive Act of 1980.
+
+*Non-leveraged Licensee* means a Licensee which has no outstanding Leverage or Leverage commitment, no earmarked assets, and certifies to SBA (in writing) that it will not seek Leverage in the future.
 
 *Original Issue Price* means the price paid by the purchaser for securities at the time of issuance.
 

@@ -1,5 +1,7 @@
 ##### § 107.1130 Leverage fees and Annual Charges. #####
 
+Link to an amendment published at 89 FR 3549, Jan. 19, 2024.
+
 (a) *Leverage fee.* You must pay a leverage fee to SBA for each issuance of a Debenture or Participating Security. The fee is 3 percent of the face amount of the Leverage issued.
 
 (b) *Payment of leverage fee.* (1) If you issue a Debenture or Participating Security to repay or redeem existing Leverage, you must pay the leverage fee before SBA will guarantee or purchase the new Leverage security.

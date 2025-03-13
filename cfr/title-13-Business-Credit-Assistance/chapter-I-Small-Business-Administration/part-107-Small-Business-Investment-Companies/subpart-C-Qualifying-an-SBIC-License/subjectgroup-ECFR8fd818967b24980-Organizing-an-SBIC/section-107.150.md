@@ -1,5 +1,7 @@
 ##### § 107.150 Management-ownership diversification requirement. #####
 
+Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
+
 (a) *Diversification requirement.* (Also referenced in this part as the “diversity requirement.”) You must satisfy the requirements in paragraphs (b), (c) and (d) of this section:
 
 (1) In order to obtain an SBIC license (unless you do not plan to obtain Leverage),

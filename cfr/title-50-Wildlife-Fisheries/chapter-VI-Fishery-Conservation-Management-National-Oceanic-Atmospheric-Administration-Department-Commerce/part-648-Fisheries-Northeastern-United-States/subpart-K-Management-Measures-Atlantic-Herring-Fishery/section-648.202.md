@@ -4,7 +4,7 @@
 
 (2) [Reserved]
 
-(b) *Fishing in Northeast Multispecies Closed Areas.*(1) No vessel issued an Atlantic herring permit and fishing with midwater trawl gear, may fish for, possess or land fish in or from the Closed Areas, including Cashes Ledge Closure Area, Western GOM Closure Area, Closed Area I North (February 1-April 15), and Closed Area II, as defined in § 648.81(a)(3), (4), and (5) and (c)(3) and (4), respectively, unless it has declared first its intent to fish in the Closed Areas as required by § 648.11(m)(1), and is carrying onboard an observer.
+(b) *Fishing in Northeast Multispecies Closed Areas.* (1) No vessel issued an Atlantic herring permit and fishing with midwater trawl gear, may fish for, possess or land fish in or from the Closed Areas, including Cashes Ledge Closure Area, Western GOM Closure Area, Closed Area I North (February 1-April 15), and Closed Area II, as defined in § 648.81(a)(3), (4), and (5) and (c)(3) and (4), respectively, unless it has declared first its intent to fish in the Closed Areas as required by § 648.11(m)(1), and is carrying onboard an observer.
 
 (2) No vessel issued an Atlantic herring permit and fishing with midwater trawl gear, when fishing any part of a midwater trawl tow in the Closed Areas, may slip or operationally discard catch, as defined at § 648.2, except in the following circumstances:
 

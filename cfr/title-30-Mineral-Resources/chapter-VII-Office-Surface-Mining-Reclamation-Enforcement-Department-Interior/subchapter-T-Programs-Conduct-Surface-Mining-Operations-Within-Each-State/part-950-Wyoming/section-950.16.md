@@ -1,5 +1,7 @@
 ##### § 950.16 Required program amendments. #####
 
+Link to an amendment published at 89 FR 3569, Jan. 19, 2024.
+
 Pursuant to 30 CFR 732.17 Wyoming is required to submit for OSMRE's approval the following proposed program amendments by the dates specified.
 
 (a)-(u) [Reserved]

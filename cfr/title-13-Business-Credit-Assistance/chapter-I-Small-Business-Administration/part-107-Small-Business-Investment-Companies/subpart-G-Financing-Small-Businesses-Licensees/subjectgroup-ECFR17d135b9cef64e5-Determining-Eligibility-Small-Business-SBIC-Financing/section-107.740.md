@@ -1,5 +1,7 @@
 ##### § 107.740 Portfolio diversification (“overline” limitation). #####
 
+Link to an amendment published at 89 FR 3548, Jan. 19, 2024.
+
 (a) *General rule.* This § 107.740 applies if you have outstanding Leverage or intend to issue Leverage in the future. Unless SBA approved your license application based upon a plan to issue less than two tiers of Leverage, you may provide Financing or a Commitment to a Small Business if the resulting amount of your aggregate Financings and Commitments to such Small Business and its Affiliates does not exceed 30 percent of the sum of:
 
 (1) Your Regulatory Capital as of the date of the Financing or Commitment; plus

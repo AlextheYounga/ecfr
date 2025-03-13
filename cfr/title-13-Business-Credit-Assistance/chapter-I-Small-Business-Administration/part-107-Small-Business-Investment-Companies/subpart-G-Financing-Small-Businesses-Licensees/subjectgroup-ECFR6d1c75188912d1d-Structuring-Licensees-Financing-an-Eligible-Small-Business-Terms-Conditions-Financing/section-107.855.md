@@ -1,5 +1,7 @@
 ##### § 107.855 Interest rate ceiling and limitations on fees charged to Small Businesses (“Cost of Money”). #####
 
+Link to an amendment published at 89 FR 3548, Jan. 19, 2024.
+
 “Cost of Money” means the interest and other consideration that you receive from a Small Business. Subject to lower ceilings prescribed by local law, the Cost of Money to the Small Business must not exceed the ceiling determined under this section.
 
 (a) *Financings to which the Cost of Money rules apply.* This section applies to all Loans and Debt Securities. As required by § 107.800(b), you must include as Debt Securities any equity interests with redemption provisions that do not meet the restrictions in § 107.850.

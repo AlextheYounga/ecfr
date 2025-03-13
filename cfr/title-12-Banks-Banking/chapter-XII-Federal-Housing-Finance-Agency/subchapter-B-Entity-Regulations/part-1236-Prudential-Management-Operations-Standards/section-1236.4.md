@@ -1,5 +1,7 @@
 ##### § 1236.4 Failure to meet a standard; corrective plans. #####
 
+Link to an amendment published at 89 FR 3539, Jan. 19, 2024.
+
 (a) *Determination.* FHFA may, based upon an examination, inspection or any other information, determine that a regulated entity has failed to meet one or more of the Standards.
 
 (b) *Submission of corrective plan.* If FHFA determines that a regulated entity has failed to meet any Standard, FHFA may require the entity to submit a corrective plan, in which case FHFA shall, by written notice, inform the regulated entity of that determination and the requirement to submit a corrective plan.

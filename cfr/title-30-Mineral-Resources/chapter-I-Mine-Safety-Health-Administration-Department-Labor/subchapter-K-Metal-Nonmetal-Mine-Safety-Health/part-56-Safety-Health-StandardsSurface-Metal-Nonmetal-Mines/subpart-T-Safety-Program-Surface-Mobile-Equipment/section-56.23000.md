@@ -1,0 +1,3 @@
+##### § 56.23000 Purpose and scope. #####
+
+This subpart requires operators to develop, implement, and update a written safety program for surface mobile equipment to reduce the number and rates of accidents, injuries, and fatalities. This subpart applies to surface mobile equipment at surface metal and nonmetal mines. The purpose of this safety program is to promote and support a positive safety culture and improve miners' safety at the mine.

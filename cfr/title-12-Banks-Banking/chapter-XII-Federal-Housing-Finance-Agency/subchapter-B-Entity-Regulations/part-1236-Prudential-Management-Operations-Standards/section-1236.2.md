@@ -1,5 +1,7 @@
 ##### § 1236.2 Definitions. #####
 
+Link to an amendment published at 89 FR 3539, Jan. 19, 2024.
+
 Unless otherwise indicated, terms used in this part have the meanings that they have in the Federal Housing Enterprises Financial Safety and Soundness Act, 12 U.S.C. 4501 *et seq.,* or the Federal Home Loan Bank Act, 12 U.S.C. 1421 *et seq.*
 
 *Extraordinary growth*—(1) For purposes of 12 U.S.C. 4513b(b)(3)(C), means:

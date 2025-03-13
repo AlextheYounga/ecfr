@@ -1,5 +1,7 @@
 ##### § 107.1850 Watchlist. #####
 
+Link to an amendment published at 89 FR 3549, Jan. 19, 2024.
+
 Under certain circumstances, SBA may place Licensees on a Watchlist as a process to increase proactive communication between SBA and the Licensee to help mitigate the potential for a future default or significant regulatory violation. Being on a Watchlist means that SBA has determined, based on certain triggers discussed in this section, a Licensee will provide a heightened level of reporting and communication with SBA.
 
 (a) *Watchlist triggers.* SBA may place you on the Watchlist for any of the following:

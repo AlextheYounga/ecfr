@@ -1,5 +1,7 @@
 ##### § 1236.5 Failure to submit a corrective plan; noncompliance. #####
 
+Link to an amendment published at 89 FR 3540, Jan. 19, 2024.
+
 (a) *Remedies.* If a regulated entity fails to submit an acceptable corrective plan under § 1236.4(b), or fails in any material respect to implement or otherwise comply with an approved corrective plan, FHFA shall order the regulated entity to correct that deficiency, and may:
 
 (1) Prohibit the regulated entity from increasing its average total assets, as defined in 12 U.S.C. 4516(b)(4), for any calendar quarter over its average total assets for the preceding calendar quarter, or may otherwise restrict the rate at which the average total assets of the regulated entity may increase from one calendar quarter to another;

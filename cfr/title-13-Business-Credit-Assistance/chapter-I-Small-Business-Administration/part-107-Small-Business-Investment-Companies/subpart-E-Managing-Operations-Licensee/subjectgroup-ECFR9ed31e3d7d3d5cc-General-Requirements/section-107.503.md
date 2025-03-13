@@ -1,5 +1,7 @@
 ##### § 107.503 Licensee's adoption of an approved valuation policy. #####
 
+Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
+
 (a) *Valuation guidelines.* You must prepare, document and report the valuations of your Loans and Investments in accordance with the Valuation Guidelines for SBICs issued by SBA. These guidelines may be obtained from the SBIC website.
 
 (b) *SBA approval of valuation policy.* You must have a written valuation policy approved by SBA for use in determining the value of your Loans and Investments. You must either:

@@ -8,4 +8,4 @@
 
 (b) *Performance review.* The Monitoring Committee shall conduct a detailed review of fishery performance relative to ACTs in conjunction with any ACL performance review, as outlined in § 648.140(b)(1) through (3).
 
-[76 FR 60636, Sept. 29, 2011, as amended at 88 FR 14509, Mar. 9, 2023]
+[76 FR 60636, Sept. 29, 2011, as amended at 88 FR 14510, Mar. 9, 2023]

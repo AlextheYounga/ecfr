@@ -1,5 +1,7 @@
 ##### § 1236.3 Prudential standards as guidelines. #####
 
+Link to an amendment published at 89 FR 3539, Jan. 19, 2024.
+
 (a) The Standards constitute the prudential management and operations standards required by 12 U.S.C. 4513b.
 
 (b) The Standards have been adopted as guidelines, as authorized by 12 U.S.C. 4513b(a), and the Director may modify, revoke, or add to the Standards, or any one or more of them, at any time by order or notice.

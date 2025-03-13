@@ -12,4 +12,4 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (c) *Hogfish in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida*—see § 622.191(a)(12)(ii) for the commercial trip limit.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 80 FR 75436, Dec. 2, 2015; 82 FR 34581, July 25, 2017; 82 FR 59526, Dec. 15, 2017; 85 FR 20614, Apr. 14, 2020; 88 FR 50056, Aug. 1, 2023]Effective Date Note:At 88 FR 87638, Dec. 18, 2023, § 622.43 was amended by suspending paragraphs (a)(1) and (2) and by adding paragraph (a)(3), effective Jan. 1, 2024 through June 15, 2024.
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 80 FR 75436, Dec. 2, 2015; 82 FR 34581, July 25, 2017; 82 FR 59526, Dec. 15, 2017; 85 FR 20614, Apr. 14, 2020; 88 FR 50065, Aug. 1, 2023]Effective Date Note:At 88 FR 87638, Dec. 18, 2023, § 622.43 was amended by suspending paragraphs (a)(1) and (2) and by adding paragraph (a)(3), effective Jan. 1, 2024 through June 15, 2024.
