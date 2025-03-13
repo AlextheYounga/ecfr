@@ -34,7 +34,7 @@
 
 (ii) Briefly describe the nature of the threat or event, including:
 
-(A) Type of hostile threat or event (*e.g.,* armed assault, vehicle bomb, theft of shipment, sabotage, etc.); and
+(A) Type of hostile threat or event (e.g., armed assault, vehicle bomb, theft of shipment, sabotage, etc.); and
 
 (B) Threat or event status (*i.e.,* imminent, in progress, or neutralized).
 
@@ -204,7 +204,7 @@
 
 (4)(i) Notifications required by this section that contain classified national security information and/or classified restricted data must be made to the NRC Headquarters Operations Center using secure communications systems appropriate to the classification level of the message. Licensees making classified telephonic notifications must contact the NRC Headquarters Operations Center at the commercial numbers specified in Table 1 of appendix A to this part and request a transfer to a secure telephone, as specified in paragraph III of appendix A to this part.
 
-(ii) If the licensee's secure communications capability is unavailable (*e.g.,* due to the nature of the security event), the licensee must provide to the NRC the information required by this section, without revealing or discussing any classified information, in order to meet the timeliness requirements of this section. The licensee must also indicate to the NRC that its secure communications capability is unavailable.
+(ii) If the licensee's secure communications capability is unavailable (e.g., due to the nature of the security event), the licensee must provide to the NRC the information required by this section, without revealing or discussing any classified information, in order to meet the timeliness requirements of this section. The licensee must also indicate to the NRC that its secure communications capability is unavailable.
 
 (iii) Licensees using a non-secure communications capability may be directed by the NRC emergency response management, in accordance with 32 CFR 2001.52(a), to provide classified national security information to the NRC over the non-secure system, due to the significance of the ongoing security event. In such circumstances, the licensee must document this direction and any information provided to the NRC over a non-secure communications capability in the follow-up written report required in accordance with § 73.1205.
 
@@ -242,7 +242,7 @@
 
 (q) *Retraction of previous security event reports.* (1) Licensees desiring to retract a previous physical security event notification made under paragraphs (a) through (h), (m), and (n) of this section, which have been determined to be invalid, not reportable in accordance with the requirements of paragraphs (a) through (h), (m), and (n) of this section, or recharacterized as recordable under § 73.1210 of this part (instead of reportable under § 73.1200), must telephonically notify the NRC Headquarters Operations Center in accordance with paragraph (o) of this section and indicate the report that is being retracted and the basis for the retraction.
 
-(2) Invalid, not reportable, or recharacterized events include, but are not limited to, events for which the licensee subsequently receives new information regarding the event or relevant information from an external entity (*e.g.,* the initial information on a reportable event is subsequently determined to be incorrect or a law enforcement determination is made on the absence of a malevolent intent).
+(2) Invalid, not reportable, or recharacterized events include, but are not limited to, events for which the licensee subsequently receives new information regarding the event or relevant information from an external entity (e.g., the initial information on a reportable event is subsequently determined to be incorrect or a law enforcement determination is made on the absence of a malevolent intent).
 
 (r) *Declaration of emergencies.* Licensees notifying the NRC of the declaration of an emergency class must do so in accordance with §§ 50.72, 63.73, 70.50, and 72.75 of this chapter, as applicable.
 
