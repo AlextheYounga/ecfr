@@ -24,6 +24,8 @@
 
 (iii) Other inappropriate medical or other practices with respect to beneficiaries or billing for services furnished to beneficiaries.
 
+(9) Hospital reclassification of a beneficiary's inpatient admission status to that of an outpatient receiving observation services when a beneficiary meets the eligibility criteria at §§ 405.1210 through 405.1212 of this chapter. Appeals of determinations are available as specified in § 405.1212 of this chapter.
+
 (b) *Payment determinations.* On the basis of the review specified under paragraphs (a) (1), (3), (6), (7), and (8) of this section, the QIO must determine whether payment may be made for these services. A QIO may grant a period of not more than two days (grace days) for the purpose of arranging post discharge care when the provider did not know or could not reasonably be expected to have known that payment for the service(s) would not be made under the Medicare program as specified in § 405.330(b).
 
 (c) *Other duties and functions.* (1) The QIO must review at least a random sample of hospital discharges each quarter and submit new diagnostic and procedural information to the Medicare administrative contractor, fiscal intermediary, or carrier if it determines that the information submitted by the hospital was incorrect.
@@ -32,4 +34,4 @@
 
 (d) *Coordination of sanction activities.* The QIO must carry out the responsibilities specified in subpart C of part 1004 of this title regarding imposition of sanctions on providers and practitioners who violate their statutory obligations under section 1156 of the Act.
 
-[52 FR 37457, Oct. 7, 1987; 52 FR 47003, Dec. 11, 1987, as amended at 59 FR 45402, Sept. 1, 1994. Redesignated at 64 FR 66279, Nov. 24, 1999; 67 FR 56056, Aug. 30, 2002; 77 FR 68560, Nov. 15, 2012]
+[52 FR 37457, Oct. 7, 1987; 52 FR 47003, Dec. 11, 1987, as amended at 59 FR 45402, Sept. 1, 1994. Redesignated at 64 FR 66279, Nov. 24, 1999; 67 FR 56056, Aug. 30, 2002; 77 FR 68560, Nov. 15, 2012; 89 FR 83294, Oct. 15, 2024]

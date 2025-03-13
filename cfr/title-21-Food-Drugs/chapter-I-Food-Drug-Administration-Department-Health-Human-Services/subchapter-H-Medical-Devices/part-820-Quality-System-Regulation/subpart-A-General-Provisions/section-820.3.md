@@ -1,5 +1,7 @@
 ##### § 820.3 Definitions. #####
 
+Link to an amendment published at 89 FR 82945, Oct. 15, 2024.
+
 (a) *Act* means the Federal Food, Drug, and Cosmetic Act, as amended (secs. 201-903, 52 Stat. 1040 *et seq.,* as amended (21 U.S.C. 321-394)). All definitions in section 201 of the act shall apply to the regulations in this part.
 
 (b) *Complaint* means any written, electronic, or oral communication that alleges deficiencies related to the identity, quality, durability, reliability, safety, effectiveness, or performance of a device after it is released for distribution.
