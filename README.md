@@ -36,6 +36,8 @@ The primary goals of this repository are:
 
 The code used to convert the eCFR into Markdown format and organize it in this repository is available in a [separate GitHub repository](https://github.com/AlextheYounga/ecfr-analyzer). This is a Laravel-based project that integrates Rust and Bash scripts for efficiently converting the **entire history** of the eCFR. Additionally, PHP scripts are used to handle sections of the eCFR that are particularly difficult to download.  
 
+![Words by Title](./wordsbytitle.jpeg)
+
 For example, **Title 40** is so large that attempting to retrieve its history directly from [ecfr.gov](https://www.ecfr.gov) results in **504 timeout errors** for every past version except the current one. The only viable workaround is to download Title 40 in Parts and then reconstruct the documents programmatically. This repository includes scripts specifically designed to handle this process.
 
 It took filling an entire 256GB flash drive full of various ecfr documents and metadata in order to create this, but the final output was MUCH smaller than I anticipated!
@@ -61,6 +63,9 @@ We appreciate your interest in improving this repository! However, I will **not*
    - Issues lacking substantive feedback will be closed.
 
 Thank you for your cooperation in making this repository as accurate and useful as possible.
+
+## Known Issues
+There may be some discrepencies in the subtractions of documents at certain points in the history, meaning some documents may remain that were actually removed at an earlier date. This is a fairly easy fix, it just takes time to regenerate the history. 
 
 ## Disclaimer
 
