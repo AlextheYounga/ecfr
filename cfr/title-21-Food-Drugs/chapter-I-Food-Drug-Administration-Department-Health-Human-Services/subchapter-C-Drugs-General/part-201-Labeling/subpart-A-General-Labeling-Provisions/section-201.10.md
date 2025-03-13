@@ -1,5 +1,7 @@
 ##### § 201.10 Drugs; statement of ingredients. #####
 
+Link to an amendment published at 89 FR 51767, June 18, 2024.
+
 (a) The ingredient information required by section 502(e) of the Federal Food, Drug, and Cosmetic Act shall appear together, without any intervening written, printed, or graphic matter, except the proprietary names of ingredients, which may be included with the listing of established names, and such statements that are specifically required for certain ingredients by the act or regulations in this chapter.
 
 (b) The term *ingredient* applies to any substance in the drug, whether added to the formulation as a single substance or in admixture with other substances.

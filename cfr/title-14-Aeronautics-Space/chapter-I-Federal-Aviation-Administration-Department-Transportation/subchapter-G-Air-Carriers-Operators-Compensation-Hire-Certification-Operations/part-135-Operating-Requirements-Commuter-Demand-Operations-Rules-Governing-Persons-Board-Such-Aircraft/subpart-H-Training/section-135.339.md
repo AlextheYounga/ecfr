@@ -1,5 +1,7 @@
 ##### § 135.339 Initial and transition training and checking: Check airmen (aircraft), check airmen (simulator). #####
 
+Link to an amendment published at 89 FR 51431, June 18, 2024.
+
 (a) No certificate holder may use a person nor may any person serve as a check airman unless—
 
 (1) That person has satisfactorily completed initial or transition check airman training; and

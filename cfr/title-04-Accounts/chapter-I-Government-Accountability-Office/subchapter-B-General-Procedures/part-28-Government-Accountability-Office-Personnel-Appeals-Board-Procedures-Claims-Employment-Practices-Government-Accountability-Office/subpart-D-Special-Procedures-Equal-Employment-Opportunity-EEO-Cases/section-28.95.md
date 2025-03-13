@@ -1,5 +1,7 @@
 ##### § 28.95 Purpose and scope. #####
 
+Link to an amendment published at 89 FR 51399, June 18, 2024.
+
 The procedures in this subpart relate to charges filed against any GAO policies or specific actions which are alleged to involve prohibited discrimination. Prohibited discrimination is defined as any action in violation of:
 
 (a) Section 717 of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e-16), prohibiting discrimination based on race, color, religion, sex or national origin;

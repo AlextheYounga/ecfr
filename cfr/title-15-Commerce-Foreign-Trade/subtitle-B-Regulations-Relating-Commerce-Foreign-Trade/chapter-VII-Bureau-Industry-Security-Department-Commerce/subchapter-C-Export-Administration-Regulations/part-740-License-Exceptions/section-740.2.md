@@ -126,7 +126,7 @@ Note to paragraph (a):
 
 Items subject to the exclusive export control jurisdiction of another agency of the U.S. Government may not be authorized by a license exception or any other authorization under the EAR. If your item is subject to the exclusive jurisdiction of another agency of the U.S. Government, you must determine your export licensing requirements pursuant to the other agency's regulations. See § 734.3(b) and supplement no. 3 to part 730 of the EAR for other U.S. Government departments and agencies with export control responsibilities.
 
-(b) All License Exceptions are subject to revision, suspension, or revocation, in whole or in part, without notice. It may be necessary for BIS to stop a shipment or an export transaction at any stage of its progress, e.g., in order to prevent an unauthorized export or reexport. If a shipment is already en route, it may be further necessary to order the return or unloading of the shipment at any port of call.
+(b) All License Exceptions are subject to revision, suspension, or revocation, in whole or in part, without notice to protect U.S. national security or foreign policy interests. BIS may stop a shipment or an export, reexport, or (in-country) transaction at any stage of its progress, *e.g.,* in order to prevent an unauthorized export, reexport, or transfer (in-country). If a shipment is already en route, BIS may order the return or unloading of the shipment at any port of call.
 
 (c) BIS may by informing the exporter, suspend or revoke any License Exception in order to comply with U.S. Wassenaar obligations. In addition, BIS may inform an exporter, that before using any License Exception, a notice be submitted with BIS concerning the proposed export.
 

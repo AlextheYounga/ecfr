@@ -1,5 +1,7 @@
 ##### § 28.98 Individual charges in EEO cases. #####
 
+Link to an amendment published at 89 FR 51399, June 18, 2024.
+
 (a) Except as provided in paragraph (c) of this section, a charge alleging prohibited discrimination (as defined in § 28.95) shall not be filed with the Board's General Counsel unless the charging party has first filed a complaint of discrimination with GAO in accordance with GAO Order 2713.2.
 
 (b) A charge relating to GAO's disposition of any individual EEO complaint may be filed with the Board's General Counsel at the following times:

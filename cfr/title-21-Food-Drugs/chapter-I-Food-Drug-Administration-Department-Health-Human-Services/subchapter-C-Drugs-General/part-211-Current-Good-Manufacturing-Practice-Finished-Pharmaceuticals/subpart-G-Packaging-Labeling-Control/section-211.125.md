@@ -1,5 +1,7 @@
 ##### § 211.125 Labeling issuance. #####
 
+Link to an amendment published at 89 FR 51769, June 18, 2024.
+
 (a) Strict control shall be exercised over labeling issued for use in drug product labeling operations.
 
 (b) Labeling materials issued for a batch shall be carefully examined for identity and conformity to the labeling specified in the master or batch production records.

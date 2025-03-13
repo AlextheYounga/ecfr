@@ -1,5 +1,7 @@
 ##### § 201.1 Drugs; name and place of business of manufacturer, packer, or distributor. #####
 
+Link to an amendment published at 89 FR 51767, June 18, 2024.
+
 (a) A drug or drug product (as defined in § 320.1 of this chapter) in finished package form is misbranded under section 502 (a) and (b)(1) of the act if its label does not bear conspicuously the name and place of business of the manufacturer, packer, or distributor. This paragraph does not apply to any drug or drug product dispensed in accordance with section 503(b)(1) of the act.
 
 (b) As used in this section, and for purposes of section 502 (a) and (b)(1) of the act, the manufacturer of a drug product is the person who performs all of the following operations that are required to produce the product: (1) Mixing, (2) granulating, (3) milling, (4) molding, (5) lyophilizing, (6) tableting, (7) encapsulating, (8) coating, (9) sterilizing, and (10) filling sterile, aerosol, or gaseous drugs into dispensing containers.

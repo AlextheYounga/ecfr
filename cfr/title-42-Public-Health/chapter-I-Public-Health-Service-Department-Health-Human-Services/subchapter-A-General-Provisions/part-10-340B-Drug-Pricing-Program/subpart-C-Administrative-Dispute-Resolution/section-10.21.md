@@ -1,27 +1,53 @@
 ##### § 10.21 Claims. #####
 
-(a) *Initiating an action.* Any covered entity or manufacturer may initiate an action for monetary damages or equitable relief against a manufacturer or covered entity, as the case may be, by filing a written petition for relief with HRSA and mailing a copy of the petition with any attachments to the General Counsel or other senior official of the opposing party at its principal place of business by certified mail, return receipt requested, within three days of filing the claim. The petition should satisfy the pleading requirements of Rules 8, 10, and 11 of the Federal Rules of Civil Procedure, including setting forth the factual basis for invoking the 340B ADR Panel's jurisdiction. A claim must include all of the requirements in paragraph (d) of this section. Additional information to substantiate a claim may be submitted.
-
-(b) *340B ADR Panel's jurisdiction.* The 340B ADR Panel shall have jurisdiction to entertain any petition where the damages sought exceed $25,000 or where the equitable relief sought will likely have a value of more than $25,000 during the twelve-month period after the 340B ADR Panel's final agency decision, provided the petition asserts claims of the type set forth below.
-
-(c) *Claims permitted.* The ADR process is limited to the following:
+(a) *Claims permitted.* All claims must be specific to the parties identified in the claims and are limited to the following:
 
 (1) Claims by a covered entity that it has been overcharged by a manufacturer for a covered outpatient drug, including claims that a manufacturer has limited the covered entity's ability to purchase covered outpatient drugs at or below the 340B ceiling price; and
 
-(2) Claims by a manufacturer, after it has conducted an audit of a covered entity pursuant to section 340B(a)(5)(C) of the PHSA, that the covered entity has violated section 340B(a)(5)(A) of the PHSA regarding the duplicate discount prohibition, or section 340B(a)(5)(B) of the PHSA regarding the diversion prohibition, including claims that an individual does not qualify as a patient for 340B Program purposes and claims that a covered entity is not eligible for the 340B Program.
+(2) Claims by a manufacturer, after it has conducted an audit of a covered entity pursuant to section 340B(a)(5)(C) of the PHS Act, that the covered entity has violated section 340B(a)(5)(A) of the PHS Act, regarding the prohibition of duplicate discounts, or section 340B(a)(5)(B) of the PHS Act, regarding the prohibition of the resale or transfer of covered outpatient drugs to a person who is not a patient of the covered entity.
 
-(d) *Limitation of actions.* (1) A covered entity or manufacturer must file a written claim for administrative dispute resolution with HRSA within 3 years of the date of the alleged violation. Any file, document, or record associated with the claim that is the subject of the ADR process must be maintained by the covered entity and manufacturer until the final agency decision is issued by the 340B ADR Panel.
+(b) *Requirements for filing a claim.* (1) Absent extenuating circumstances, a covered entity or manufacturer must file a claim under this section in writing to OPA within 3 years of the date of the alleged violation. Any file, document, or record associated with the claim that is the subject of a dispute must be maintained by the covered entity and manufacturer until the date of the final agency decision.
 
-(2) Notwithstanding Rules 8 and 10 of the Federal Rules of Civil Procedure, a covered entity filing a claim described in paragraph (c)(1) of this section must provide documents sufficient to demonstrate its claim that it has been overcharged by a manufacturer, along with any such other documentation as may be requested by the 340B ADR Panel.
+(2) A covered entity filing a claim described in paragraph (a)(1) of this section must provide the basis, including all available supporting documentation, for its belief that it has been overcharged by a manufacturer, in addition to any other documentation as may be requested by OPA. A covered entity claim against multiple manufacturers is not permitted.
 
-(3) Notwithstanding Rules 8 and 10 of the Federal Rules of Civil Procedure, a manufacturer filing a claim under paragraph (c)(2) of this section must provide documents sufficient to demonstrate its claim that a covered entity has violated the prohibition on diversion or duplicate discount, along with any such documentation as may be requested by the 340B ADR Panel.
+(3) A manufacturer filing a claim under paragraph (a)(2) of this section must provide documents sufficient to support its claim that a covered entity has violated the prohibition on diversion and/or duplicate discounts, in addition to any other documentation as may be requested by OPA.
 
-(e) *Combining claims.* (1) Two or more covered entities may jointly file claims of overcharges by the same manufacturer for the same drug or drugs if each covered entity that could file a claim against the manufacturer consents to the jointly filed claim, including submission of the required documentation, described in paragraph (d) of this section.
+(4) A covered entity or manufacturer filing a claim must provide documentation of good faith efforts, including for example, documentation demonstrating that the initiating party has made attempts to contact the opposing party regarding the specific issues cited in the ADR claim.
 
-(2) An association or organization may file claims of overcharges by the same manufacturer for the same drug or drugs on behalf of multiple covered entities if each covered entity represented could file a claim against the manufacturer, is a member of the association or organization, meets the requirements described in paragraph (d) of this section, including submission of the required documentation, and each covered entity has agreed to representation by the association or organization on its behalf.
+(c) *Combining claims.* (1) Two or more covered entities may jointly file claims of overcharges by the same manufacturer for the same drug or drugs if each covered entity consents to the jointly filed claim and meets the filing requirements.
 
-(3) A manufacturer or manufacturers may request to consolidate claims brought by more than one manufacturer against the same covered entity if each manufacturer could individually file a claim against the covered entity, consents to the filing of the consolidated claim, meets the requirements described in paragraph (d) of this section for that claim, and the 340B ADR Panel determines that such consolidation is appropriate and consistent with the goals of fairness and economy of sources. The 340B ADR Panel will not permit consolidated claims filed on behalf of manufacturers by associations or organizations representing their interests.
+(i) For covered entity joint claims, the claim must list each covered entity, its 340B ID and include documentation as described in paragraph (b) of this section, which demonstrates that each covered entity meets all of the requirements for filing the ADR claim.
 
-(4) Joinder, consolidation, and other third-party practice not referenced in this paragraph (e) shall be governed by the Federal Rules of Civil Procedure, as relevant, unless the parties and 340B ADR Panel agree otherwise.
+(ii) For covered entity joint claims, a letter requesting the combining of claims must accompany the claim at the time of filing and must document that each covered entity consents to the combining of the claims, including signatures of individuals representing each covered entity and a point of contact for each covered entity.
 
-(f) *Responding to a submitted claim.* Upon receipt of service of petition, the respondent must file with the 340B ADR Panel a written response to the Petition as set forth in Rule 12 or 56. The 340B ADR Panel may issue additional instructions as may be necessary or desirable governing the conduct of ADR proceedings, including instructions pertaining to deadlines for submission of additional information. If an opposing party does not respond to the petition, the 340B ADR Panel may enter a final agency decision by default in favor of the Petitioner. In a proceeding for damages, the Petitioner must still introduce evidence sufficient to support its claim for damages even though the merits have been resolved through default.
+(2) An association or organization may file on behalf of one or more covered entities representing their interests if:
+
+(i) Each covered entity is a member of the association or the organization representing it and each covered entity meets the requirements for filing a claim;
+
+(ii) The joint claim filed by the association or organization must assert overcharging by a single manufacturer for the same drug(s); and
+
+(iii) The claim includes a letter from the association or organization attesting that each covered entity agrees to the organization or association asserting a claim on its behalf, including a point of contact for each covered entity.
+
+(3) A manufacturer or manufacturers may request to consolidate claims brought by more than one manufacturer against the same covered entity if each manufacturer could individually file a claim against the covered entity, consents to the consolidated claim, meets the requirements for filing a claim, and the 340B ADR Panel determines that such consolidation is appropriate and consistent with the goals of fairness and economy of resources. Consolidated claims filed on behalf of manufacturers by associations or organizations representing their interests are not permitted.
+
+(d) *Deadlines and procedures for filing a claim.* (1) Covered entities and manufacturers must file claims in writing with OPA, in the manner set forth by OPA.
+
+(2) OPA will conduct an initial review of all information submitted by the party filing the claim and will make a determination as to whether the requirements in paragraph (b) of this section are met. The OPA staff conducting the initial review of a claim may not be appointed to serve on the 340B ADR Panel reviewing that specific claim.
+
+(3) Additional information to substantiate a claim may be submitted by the initiating party and may be requested by OPA. If additional information is requested, the initiating party will have 20 business days from the receipt of OPA's request to respond. If the initiating party does not respond to a request for additional information within the specified time frame or request and receive an extension, the claim will not move forward to the 340B ADR Panel for review.
+
+(4) OPA will provide written notification to the initiating party that the claim is complete. Once the claim is complete, OPA will also provide written notification to the opposing party that the claim was submitted. This written notification will provide a copy of the initiating party's claim, and additional instructions regarding the 340B ADR process, including timelines and information on how to submit their response in accordance with the procedures for responding to a claim as outlined in paragraph (e) of this section.
+
+(5) If OPA finds that the claim meets the requirements described in paragraph (b) of this section, and once OPA receives the opposing party's response in accordance with the procedures outlined in paragraph (e) of this section, additional written notification will be sent to both parties advising that the claim will be forwarded to the 340B ADR Panel for review.
+
+(6) If OPA finds that the claim does not meet the requirements described in paragraph (b) of this section, written notification will be sent to both parties stating the reasons that the claim did not move forward.
+
+(7) For any claim that does not move forward for review by the 340B ADR Panel, the claim may be revised and refiled if there is new information to support the alleged statutory violation and the claim meets the criteria set forth in this section.
+
+(e) *Responding to a submitted claim.* (1) Upon receipt of notification by OPA that a claim is deemed complete and has met the requirements in paragraph (b) of this section, the opposing party in alleged violation will have 30 business days to submit a written response to OPA.
+
+(2) A party may submit a request for an extension of the initial 30 business days response period and OPA will make a determination to approve or disapprove such request and notify both parties.
+
+(3) OPA will provide a copy of the opposing party's response to the initiating party and will notify both parties that the claim has moved forward for review by the 340B ADR Panel.
+
+(4) If an opposing party does not respond or elects not to participate in the 340B ADR process, OPA will notify both parties that the claim has moved forward for review by the 340B ADR Panel and the 340B ADR Panel will render its decision after review of the information submitted in the claim.

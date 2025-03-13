@@ -1,5 +1,7 @@
 ##### § 121.409 Training courses using flight simulation training devices. #####
 
+Link to an amendment published at 89 FR 51425, June 18, 2024.
+
 (a) Training courses utilizing FSTDs may be included in the certificate holder's approved training program for use as provided in this section.
 
 (b) Except for the airline transport pilot certification training program approved to satisfy the requirements of § 61.156 of this chapter, a course of training in an FFS may be included for use as provided in § 121.441 if that course—

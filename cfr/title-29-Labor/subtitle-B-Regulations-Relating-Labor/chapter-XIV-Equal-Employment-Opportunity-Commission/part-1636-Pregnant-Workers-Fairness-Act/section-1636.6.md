@@ -1,0 +1,3 @@
+##### § 1636.6 Waiver of State immunity. #####
+
+A State shall not be immune under the 11th Amendment to the Constitution from an action in a Federal or State court of competent jurisdiction for a violation of the PWFA. In any action against a State for a violation of the PWFA, remedies (including remedies both at law and in equity) are available for such a violation to the same extent such remedies are available for such a violation in an action against any public or private entity other than a State.

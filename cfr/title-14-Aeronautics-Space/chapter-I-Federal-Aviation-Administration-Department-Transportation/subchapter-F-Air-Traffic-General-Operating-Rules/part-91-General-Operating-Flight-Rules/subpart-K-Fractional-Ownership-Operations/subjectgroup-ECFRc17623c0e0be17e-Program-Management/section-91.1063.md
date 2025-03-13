@@ -1,5 +1,7 @@
 ##### § 91.1063 Testing and training: Applicability and terms used. #####
 
+Link to an amendment published at 89 FR 51424, June 18, 2024.
+
 (a) Sections 91.1065 through 91.1107:
 
 (1) Prescribe the tests and checks required for pilots and flight attendant crewmembers and for the approval of check pilots in operations under this subpart;

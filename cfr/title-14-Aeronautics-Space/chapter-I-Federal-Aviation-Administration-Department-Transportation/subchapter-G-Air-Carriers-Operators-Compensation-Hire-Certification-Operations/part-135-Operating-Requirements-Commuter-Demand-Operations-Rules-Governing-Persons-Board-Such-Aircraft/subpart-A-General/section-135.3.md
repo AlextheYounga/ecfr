@@ -1,5 +1,7 @@
 ##### § 135.3 Rules applicable to operations subject to this part. #####
 
+Link to an amendment published at 89 FR 51430, June 18, 2024.
+
 (a) Each person operating an aircraft in operations under this part shall—
 
 (1) While operating inside the United States, comply with the applicable rules of this chapter; and

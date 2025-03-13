@@ -1,5 +1,7 @@
 ##### § 16.1 Scope. #####
 
+Link to an amendment published at 89 FR 51766, June 18, 2024.
+
 The procedures in this part apply when:
 
 (a) The Commissioner is considering any regulatory action, including a refusal to act, and concludes, as a matter of discretion, on the Commissioner's initiative or at the suggestion of any person, to offer an opportunity for a regulatory hearing to obtain additional information before making a decision or taking action.

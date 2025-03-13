@@ -1,5 +1,7 @@
 ##### § 201.328 Labeling of medical gas containers. #####
 
+Link to an amendment published at 89 FR 51769, June 18, 2024.
+
 (a) *Portable cryogenic medical gas containers.* For the purposes of this section a “portable cryogenic medical gas container” is one that is capable of being transported and is intended to be attached to a medical gas supply system within a hospital, health care entity, nursing home, other facility, or home health care setting, or is a base unit used to fill small cryogenic gas containers for use by individual patients. The term does not include cryogenic containers that are not designed to be connected to a medical gas supply system, *e.g.,* tank trucks, trailers, rail cars, or small cryogenic gas containers for use by individual patients (including portable liquid oxygen units as defined at § 868.5655 of this chapter).
 
 (1) Each portable cryogenic medical gas container must be conspicuously marked with a 360° wraparound label identifying its contents. Such label must meet the requirements of § 211.94(e)(2) of this chapter and the following additional requirements.

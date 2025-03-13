@@ -1,5 +1,7 @@
 ##### § 121.403 Training program: Curriculum. #####
 
+Link to an amendment published at 89 FR 51425, June 18, 2024.
+
 (a) Each certificate holder must prepare and keep current a written training program curriculum for each type of airplane with respect to dispatchers and each crewmember required for that type airplane. The curriculum must include ground and flight training required by this subpart.
 
 (b) Each training program curriculum must include:

@@ -1,5 +1,7 @@
 ##### § 211.1 Scope. #####
 
+Link to an amendment published at 89 FR 51769, June 18, 2024.
+
 (a) The regulations in this part contain the minimum current good manufacturing practice for preparation of drug products (excluding positron emission tomography drugs) for administration to humans or animals.
 
 (b) The current good manufacturing practice regulations in this chapter as they pertain to drug products; in parts 600 through 680 of this chapter, as they pertain to drugs that are also biological products for human use; and in part 1271 of this chapter, as they are applicable to drugs that are also human cells, tissues, and cellular and tissue-based products (HCT/Ps) and that are drugs (subject to review under an application submitted under section 505 of the act or under a biological product license application under section 351 of the Public Health Service Act); supplement and do not supersede the regulations in this part unless the regulations explicitly provide otherwise. In the event of a conflict between applicable regulations in this part and in other parts of this chapter, or in parts 600 through 680 of this chapter, or in part 1271 of this chapter, the regulation specifically applicable to the drug product in question shall supersede the more general.

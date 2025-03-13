@@ -1,5 +1,7 @@
 ##### § 17.603 Availability of HPSP scholarships. #####
 
+Link to an amendment published at 89 FR 51446, June 18, 2024.
+
 (a) *General.* A HPSP scholarship will be awarded only when necessary to assist VA in alleviating shortages or anticipated shortages of personnel in the health professions stated in paragraph (b) of this section. VA will determine the existence of shortage of personnel in accordance with specific criteria for each health care profession. VA has the authority to establish the number of scholarships to be awarded in a fiscal year, and the number that will be awarded to full-time and part-time students.
 
 (b) *Qualifying fields of education*—(1) *Physicians and dentists*—(i) VA will award not less than 50 HPSP scholarships each year to individuals who are accepted for enrollment or are enrolled in a program of education or training leading to employment as a physician or dentist until such date as VA determines that the staffing shortage of physicians and dentists in VA is less than 500.

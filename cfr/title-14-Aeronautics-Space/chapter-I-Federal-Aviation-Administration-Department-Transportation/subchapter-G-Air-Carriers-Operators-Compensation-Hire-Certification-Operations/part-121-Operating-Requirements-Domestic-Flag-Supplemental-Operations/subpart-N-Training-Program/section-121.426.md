@@ -1,5 +1,7 @@
 ##### § 121.426 Pilots: Upgrade flight training. #####
 
+Link to an amendment published at 89 FR 51428, June 18, 2024.
+
 (a) Upgrade flight training for pilots must include the following:
 
 (1) Seat dependent maneuvers and procedures, as applicable;

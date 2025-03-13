@@ -1,5 +1,7 @@
 ##### § 4.4 How can I comply with these current good manufacturing practice requirements for a co-packaged or single-entity combination product? #####
 
+Link to an amendment published at 89 FR 51766, June 18, 2024.
+
 (a) Under this subpart, for single entity or co-packaged combination products, compliance with all applicable current good manufacturing practice requirements for the combination product shall be achieved through the design and implementation of a current good manufacturing practice operating system that is demonstrated to comply with:
 
 (1) The specifics of each set of current good manufacturing practice regulations listed under § 4.3 as they apply to each constituent part included in the combination product; or

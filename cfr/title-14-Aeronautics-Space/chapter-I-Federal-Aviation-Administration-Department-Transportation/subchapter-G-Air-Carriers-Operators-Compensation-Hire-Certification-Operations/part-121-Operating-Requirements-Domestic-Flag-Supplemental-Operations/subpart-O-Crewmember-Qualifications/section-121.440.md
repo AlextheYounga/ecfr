@@ -1,5 +1,7 @@
 ##### § 121.440 Line checks. #####
 
+Link to an amendment published at 89 FR 51428, June 18, 2024.
+
 (a) No certificate holder may use any person nor may any person serve as pilot in command of an airplane unless, within the preceding 12 calendar months, that person has passed a line check in which he satisfactorily performs the duties and responsibilities of a pilot in command in one of the types of airplanes he is to fly.
 
 (b) A pilot in command line check for domestic and flag operations must—

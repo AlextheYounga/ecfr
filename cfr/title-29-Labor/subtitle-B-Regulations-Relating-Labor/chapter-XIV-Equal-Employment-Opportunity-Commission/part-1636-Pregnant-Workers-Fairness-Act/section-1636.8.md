@@ -1,0 +1,7 @@
+##### § 1636.8 Severability. #####
+
+(a) The Commission intends that, if any provision of the PWFA or the application of that provision to particular persons or circumstances is held invalid or found to be unconstitutional, the remainder of the statute and the application of that provision to other persons or circumstances shall not be affected.
+
+(b) The Commission intends that, if any provision of this part that uses the same language as the statute, or the application of that provision to particular persons or circumstances, is held invalid or found to be unconstitutional, the remainder of this part and the application of that provision to other persons or circumstances shall not be affected.
+
+(c) The Commission intends that, if any provision of this part or the interpretive guidance in appendix A to this part that provides additional guidance to implement the PWFA, including examples of reasonable accommodations, or the application of that provision to particular persons or circumstances, is held invalid or found to be unconstitutional, the remainder of this part or the interpretive guidance and the application of that provision to other persons or circumstances shall not be affected.

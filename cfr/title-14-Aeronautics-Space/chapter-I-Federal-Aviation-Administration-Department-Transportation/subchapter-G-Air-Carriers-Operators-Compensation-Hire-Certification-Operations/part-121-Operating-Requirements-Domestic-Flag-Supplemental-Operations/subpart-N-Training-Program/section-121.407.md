@@ -1,5 +1,7 @@
 ##### § 121.407 Training program: Approval of flight simulation training devices. #####
 
+Link to an amendment published at 89 FR 51425, June 18, 2024.
+
 (a) Each FSTD used to satisfy a training requirement of this part in an approved training program, must meet all of the following requirements:
 
 (1) Be specifically approved by the Administrator for—

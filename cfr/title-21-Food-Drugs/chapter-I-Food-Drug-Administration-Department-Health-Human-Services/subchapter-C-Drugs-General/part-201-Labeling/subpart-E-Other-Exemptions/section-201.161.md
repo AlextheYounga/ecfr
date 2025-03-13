@@ -1,5 +1,7 @@
 ##### § 201.161 Medical gases. #####
 
+Link to an amendment published at 89 FR 51768, June 18, 2024.
+
 (a) Oxygen, nitrogen, carbon dioxide, helium, and nitrous oxide gases intended for drug use, and medically appropriate combinations of any of these gases intended for drug use, are exempted from the requirements of § 201.100(b)(2) and (3), and (c)(1), provided that, where applicable, the requirements of §§ 201.328 and 211.94(e)(2) of this chapter are met and the labeling bears, in addition to any other information required by the Federal Food, Drug, and Cosmetic Act, the following:
 
 (1)(i) In the case of oxygen, a warning statement providing that uninterrupted use of high concentrations of oxygen over a long duration, without monitoring its effect on oxygen content of arterial blood, may be harmful; that oxygen should not be used on patients who have stopped breathing unless used in conjunction with resuscitative equipment; and, in the case of oxygen that may be provided without a prescription for use in the event of depressurization or other environmental oxygen deficiency, or for oxygen deficiency or for use in emergency resuscitation when administered by properly trained personnel, a warning statement providing that oxygen may be used for emergency use only when administered by properly trained personnel for oxygen deficiency and resuscitation, and that for all other medical applications a prescription is required.

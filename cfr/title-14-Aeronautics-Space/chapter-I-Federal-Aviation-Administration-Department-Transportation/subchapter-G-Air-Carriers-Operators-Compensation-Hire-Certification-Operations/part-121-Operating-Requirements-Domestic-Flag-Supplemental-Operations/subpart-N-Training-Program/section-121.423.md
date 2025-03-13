@@ -1,5 +1,7 @@
 ##### § 121.423 Pilots: Extended Envelope Training. #####
 
+Link to an amendment published at 89 FR 51427, June 18, 2024.
+
 (a) Each certificate holder must include in its approved training program, the extended envelope training set forth in this section with respect to each airplane type for each pilot. The extended envelope training required by this section must be performed in a Level C or higher full flight simulator, approved by the Administrator in accordance with § 121.407 of this part.
 
 (b) Extended envelope training must include the following maneuvers and procedures:

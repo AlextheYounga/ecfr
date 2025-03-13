@@ -1,5 +1,7 @@
 ##### § 211.170 Reserve samples. #####
 
+Link to an amendment published at 89 FR 51770, June 18, 2024.
+
 (a) An appropriately identified reserve sample that is representative of each lot in each shipment of each active ingredient shall be retained. The reserve sample consists of at least twice the quantity necessary for all tests required to determine whether the active ingredient meets its established specifications, except for sterility and pyrogen testing. The retention time is as follows:
 
 (1) For an active ingredient in a drug product other than those described in paragraphs (a) (2) and (3) of this section, the reserve sample shall be retained for 1 year after the expiration date of the last lot of the drug product containing the active ingredient.

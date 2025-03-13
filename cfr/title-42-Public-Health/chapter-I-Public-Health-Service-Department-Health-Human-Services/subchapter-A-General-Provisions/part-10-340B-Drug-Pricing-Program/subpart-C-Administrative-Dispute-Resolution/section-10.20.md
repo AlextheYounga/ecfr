@@ -1,33 +1,31 @@
-##### § 10.20 Administrative Dispute Resolution Panel. #####
+##### § 10.20 340B Administrative Dispute Resolution Panel. #####
 
-The Secretary shall establish a 340B Administrative Dispute Resolution Board (Board) consisting of at least six members appointed by the Secretary with equal numbers from the Health Resources and Service Administration (HRSA), the Centers for Medicare & Medicaid Services (CMS), and the Office of the General Counsel (OGC) from which Administrative Dispute Resolution Panels (340B ADR Panel) of three members shall be selected by the HRSA Administrator (to review claims and, pursuant to authority expressly delegated through this rule by the Secretary, and to make precedential and binding final agency decisions regarding claims filed by covered entities and manufacturers). There shall also be one ex-officio, non-voting member chosen from the staff of the HRSA Office of Pharmacy Affairs (OPA). HRSA and CMS Board members shall have relevant expertise and experience in drug pricing or drug distribution. OGC Board members shall have expertise and experience in handling complex litigation.
+The Secretary shall appoint a roster of eligible individuals (Roster) consisting of staff within OPA, to serve on a 340B ADR Panel, as defined in § 10.3. The OPA Director, or the OPA Director's designee, shall select at least three members from the Roster to form a 340B ADR Panel to review and make decisions regarding one or more claims filed by covered entities or manufacturers.
 
-(a) *Members of the 340B ADR Panel.* (1) For each case, the HRSA Administrator shall:
+(a) *Members of the 340B ADR Panel.* (1) The OPA Director shall:
 
-(i) Select from the Board three voting members, one from each of the three HHS operating or staff divisions involved (*i.e.,* CMS, HRSA, OGC) to form a 340B ADR Panel.
+(i) Select at least three members for each 340B ADR Panel from the Roster of appointed staff;
 
-(ii) Remove an individual from a 340B ADR Panel for cause; and
+(ii) Have the authority to remove an individual from the 340B ADR Panel and replace such individual; and
 
-(iii) Appoint replacement members from the Board should an individual be unable to complete his or her duties on a 340B ADR Panel.
+(iii) Select replacement 340B ADR Panel members should an individual resign from the panel or otherwise be unable to complete their duties.
 
-(2) No member of a 340B ADR Panel may have a conflict of interest, as defined in paragraph (b) of this section.
+(2) No member of the 340B ADR Panel may have a conflict of interest, as set forth in paragraph (b) of this section.
 
-(b) *Conflicts of interest.* All individuals who serve on a 340B ADR Panel will be screened for conflicts of interest prior to reviewing a claim. Conflicts of interest may include:
+(b) *Conflicts of interest.* (1) All members appointed by the Secretary to the Roster of individuals eligible to be selected for a 340B ADR Panel will be screened for conflicts of interest prior to reviewing a claim. In determining whether a conflict exists, the OPA Director, in consultation with government ethics officials, will consider financial interest(s), current or former business or employment relationship(s), or other involvement of a prospective panel member or close family member who is either employed by or otherwise has a business relationship with an involved party, subsidiary of an involved party, or particular claim(s) expected to be presented to the prospective panel member.
 
-(1) Financial interest in a party involved, a subsidiary of a party involved, or in the claim before a 340B ADR Panel;
+(2) All members of the 340B ADR Panel will undergo an additional screening prior to reviewing a specific claim to ensure that the 340B ADR Panel member was not directly involved in a decision concerning the specific issue of the ADR claim as it relates to the specific covered entity or manufacturer involved, including previous 340B ADR Panel decisions.
 
-(2) Family or close relation to a party involved; and
+(c) *Secretarial authority in the 340B ADR process.* The Secretary may remove any individual from the Roster of 340B ADR Panelists for any reason, including from any 340B ADR Panel to which the individual has already been assigned. The Secretary has the authority to review and reverse, alter, or uphold any 340B ADR Panel or reconsideration decision as outlined in §§ 10.23 and 10.24. Any such decision of the Secretary will serve as the final agency decision and will be binding upon the parties involved in the dispute, unless invalidated by an order of a Federal court.
 
-(3) Current or former business or employment relation to a party.
+(d) *Duties of the 340B ADR Panel.* The 340B ADR Panel will:
 
-(c) *Duties of the 340B ADR Panel.* The 340B ADR Panel will adjudicate each claim using the procedures described §§ 10.21, 10.22, 10.23, and 10.24.
+(1) Review and evaluate claims, including consolidated and joint claims, and documents and information submitted by (or on behalf of) covered entities and manufacturers;
 
-(1) Review and evaluate documents and other information submitted by covered entities and manufacturers;
+(2) Review and may request additional documentation, information, or clarification of an issue from any or all parties to make a decision (if the 340B ADR Panel finds that a party has failed to respond or fully respond to an information request, the 340B ADR Panel may proceed with facts that the 340B ADR Panel determines have been established in the proceeding);
 
-(2) Request additional information or clarification of an issue from any or all parties to make a final agency decision;
+(3) Evaluate claims based on information received, unless, at the 340B ADR Panel's discretion, the nature of the claim necessitates that a meeting with the parties be held;
 
-(3) When necessary, evaluate a claim in a separate session from the parties involved;
+(4) At its discretion, consult with others, including staff within OPA, other HHS offices, and other Federal agencies while reviewing a claim; and
 
-(4) Consult with OPA and the parties, as appropriate and necessary, regarding any inquiries or concerns while reviewing a claim; and
-
-(5) Issue a final agency decision on each claim and submit the written decision to the parties, and to HRSA for appropriate action.
+(5) Make decisions on each claim.

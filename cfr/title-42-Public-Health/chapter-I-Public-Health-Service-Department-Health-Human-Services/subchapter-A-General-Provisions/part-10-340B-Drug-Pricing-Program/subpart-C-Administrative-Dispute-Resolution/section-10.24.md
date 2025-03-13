@@ -1,11 +1,19 @@
-##### § 10.24 Final agency decision. #####
+##### § 10.24 340B ADR Panel decision reconsideration process. #####
 
-(a) The 340B ADR Panel will review the evidence submitted by the parties and determine if the preponderance of the evidence supports the conclusion that a violation as described in § 10.21(c)(1) or (2) has occurred.
+(a) Either party may initiate a reconsideration request, or the HRSA Administrator may decide to initiate the process without such a request. In the event of a reconsideration request, the 340B ADR Panel's decision is held in abeyance until such time the HRSA Administrator makes a reconsideration decision of the 340B ADR Panel decision (or in the event of a declination). A reconsideration decision will affirm or supersede a 340B ADR Panel decision.
 
-(b) The 340B ADR Panel will prepare an agency decision based on its review and evaluation of the evidence submitted by the parties, including documents provided as required in § 10.21(d), information requests in support of a claim, and responses to a claim.
+(b) The request for a reconsideration of the 340B ADR Panel's decision must be made to the HRSA Administrator within 30 business days of the date of the 340B ADR Panel's decision letter.
 
-(c) The agency decision will represent the decision of a majority of the 340B ADR Panel's findings regarding the claim and discuss the findings supporting the decision.
+(1) The request for reconsideration must include a copy of the 340B ADR Panel decision letter, and documentation indicating why a reconsideration is warranted.
 
-(d) The agency decision constitutes a final agency decision that is precedential and binding on the parties involved unless invalidated by an order of a court of competent jurisdiction.
+(2) New facts, information, legal arguments, or policy arguments may not be submitted as part of the reconsideration process in order to remain consistent with the facts that were reviewed by the 340B ADR Panel in determining their decision.
 
-(e) The 340B ADR Panel will submit the final agency decision to all parties, and to HRSA for appropriate action regarding refunds, penalties, removal, or referral to appropriate Federal authorities.
+(3) In the case of joint or consolidated claims, the reconsideration request must include an attestation confirming that all of the entities have agreed to be part of the reconsideration process.
+
+(c) The standard for review of the reconsideration request by the HRSA Administrator, or their designee, will include a review of the record, including the 340B ADR Panel decision, and a determination of whether there was an error in the 340B ADR Panel's decision. The HRSA Administrator, or designee, may consult with other HHS officials, as necessary.
+
+(d) The HRSA Administrator, or their designee, will make a determination based on the reconsideration request by either issuing a revised decision or declining to issue a revised decision.
+
+(e) The reconsideration decision letter will be effective 30 business days from issuance and serve as the final agency decision unless within 30 business days of issuance, the Secretary makes a determination that the Secretary will review the decision. The final agency decision will be binding upon the parties involved in the dispute unless invalidated by an order of a Federal court.
+
+(f) The OPA Director will determine any necessary corrective action, or consider whether to take enforcement action, and the form of any such action, based on the final agency decision.

@@ -1,5 +1,7 @@
 ##### § 121.401 Training program: General. #####
 
+Link to an amendment published at 89 FR 51425, June 18, 2024.
+
 (a) Each certificate holder shall:
 
 (1) Establish and implement a training program that satisfies the requirements of this subpart and appendices E and F of this part and that ensures that each crewmember, aircraft dispatcher, flight instructor and check airman is adequately trained to perform his or her assigned duties. Prior to implementation, the certificate holder must obtain initial and final FAA approval of the training program.

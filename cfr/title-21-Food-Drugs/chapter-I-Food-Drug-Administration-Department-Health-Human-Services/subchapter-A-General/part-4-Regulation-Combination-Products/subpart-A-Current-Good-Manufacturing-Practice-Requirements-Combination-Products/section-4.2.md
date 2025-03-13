@@ -1,5 +1,7 @@
 ##### § 4.2 How does FDA define key terms and phrases in this subpart? #####
 
+Link to an amendment published at 89 FR 51765, June 18, 2024.
+
 The terms listed in this section have the following meanings for purposes of this subpart:
 
 *Biological product* has the meaning set forth in § 3.2(d) of this chapter. A biological product also meets the definitions of either a drug or device as these terms are defined under this section.

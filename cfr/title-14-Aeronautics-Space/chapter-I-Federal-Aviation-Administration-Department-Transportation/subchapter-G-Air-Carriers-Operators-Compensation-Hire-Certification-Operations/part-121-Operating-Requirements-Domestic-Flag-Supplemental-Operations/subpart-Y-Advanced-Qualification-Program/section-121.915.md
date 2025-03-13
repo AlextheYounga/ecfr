@@ -1,5 +1,7 @@
 ##### § 121.915 Continuing qualification curriculum. #####
 
+Link to an amendment published at 89 FR 51428, June 18, 2024.
+
 Each continuing qualification curriculum must contain training and evaluation activities, as applicable for specific positions subject to the AQP, as follows:
 
 (a) *Continuing qualification cycle.* A continuing qualification cycle that ensures that during each cycle each person qualified under an AQP, including instructors and evaluators, will receive a mix that will ensure training and evaluation on all events and subjects necessary to ensure that each person maintains proficiency in knowledge, technical skills, and cognitive skills required for initial qualification in accordance with the approved continuing qualification AQP, evaluation/remediation strategies, and provisions for special tracking. Each continuing qualification cycle must include at least the following:

@@ -1,5 +1,7 @@
 ##### § 121.439 Pilot qualification: Recent experience. #####
 
+Link to an amendment published at 89 FR 51428, June 18, 2024.
+
 (a) No certificate holder may use any person nor may any person serve as a required pilot flightcrew member, unless within the preceding 90 days, that person has made at least three takeoffs and landings in the type airplane in which that person is to serve. The takeoffs and landings required by this paragraph may be performed in a Level B or higher FFS approved under § 121.407 to include takeoff and landing maneuvers. In addition, any person who fails to make the three required takeoffs and landings within any consecutive 90-day period must re-establish recency of experience as provided in paragraph (b) of this section.
 
 (b) In addition to meeting all applicable training and checking requirements of this part, a required pilot flightcrew member who has not met the requirements of paragraph (a) of this section must re-establish recency of experience as follows:

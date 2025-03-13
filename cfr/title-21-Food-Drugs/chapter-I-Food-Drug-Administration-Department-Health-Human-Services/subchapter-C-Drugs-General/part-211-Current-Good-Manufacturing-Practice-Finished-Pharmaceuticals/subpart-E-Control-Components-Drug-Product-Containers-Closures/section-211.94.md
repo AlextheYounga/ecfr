@@ -1,5 +1,7 @@
 ##### § 211.94 Drug product containers and closures. #####
 
+Link to an amendment published at 89 FR 51769, June 18, 2024.
+
 (a) Drug product containers and closures shall not be reactive, additive, or absorptive so as to alter the safety, identity, strength, quality, or purity of the drug beyond the official or established requirements.
 
 (b) Container closure systems shall provide adequate protection against foreseeable external factors in storage and use that can cause deterioration or contamination of the drug product.

@@ -1,5 +1,7 @@
 ##### § 135.338 Qualifications: Flight instructors (aircraft) and flight instructors (simulator). #####
 
+Link to an amendment published at 89 FR 51431, June 18, 2024.
+
 (a) For the purposes of this section and § 135.340:
 
 (1) A flight instructor (aircraft) is a person who is qualified to instruct in an aircraft, in a flight simulator, or in a flight training device for a particular type, class, or category aircraft.

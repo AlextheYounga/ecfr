@@ -1,5 +1,7 @@
 ##### § 121.420 Pilots: Upgrade ground training. #####
 
+Link to an amendment published at 89 FR 51427, June 18, 2024.
+
 (a) Upgrade ground training must include instruction in at least the following subjects as applicable to the duties assigned to the pilot in command:
 
 (1) Seat dependent procedures, as applicable;

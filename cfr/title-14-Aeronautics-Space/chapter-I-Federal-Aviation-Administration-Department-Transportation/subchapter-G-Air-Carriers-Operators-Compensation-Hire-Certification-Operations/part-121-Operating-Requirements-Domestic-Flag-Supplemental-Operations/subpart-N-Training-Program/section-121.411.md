@@ -1,5 +1,7 @@
 ##### § 121.411 Qualifications: Check airmen (airplane) and check airmen (simulator). #####
 
+Link to an amendment published at 89 FR 51425, June 18, 2024.
+
 (a) For the purposes of this section and § 121.413:
 
 (1) A check airman (airplane) is a person who is qualified, and permitted, to conduct flight checks or instruction in an airplane, in an FFS, or in a flight training device for a particular type airplane.

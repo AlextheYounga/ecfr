@@ -1,5 +1,7 @@
 ##### § 28.112 Who may file petitions. #####
 
+Link to an amendment published at 89 FR 51400, June 18, 2024.
+
 (a) Representation petitions may be filed by:
 
 (1) A labor organization which wishes to be designated as the exclusive representative for collective bargaining by the GAO employees in an appropriate unit, or by a labor organization which desires to replace another currently having that status;

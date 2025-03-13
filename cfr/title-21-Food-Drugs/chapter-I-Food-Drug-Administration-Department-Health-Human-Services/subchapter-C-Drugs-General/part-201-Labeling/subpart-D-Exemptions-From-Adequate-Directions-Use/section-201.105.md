@@ -1,5 +1,7 @@
 ##### § 201.105 Veterinary drugs. #####
 
+Link to an amendment published at 89 FR 51768, June 18, 2024.
+
 A drug subject to the requirements of section 503(f)(1) of the act shall be exempt from section 502(f)(1) of the act if all the following conditions are met:
 
 (a) The drug is:

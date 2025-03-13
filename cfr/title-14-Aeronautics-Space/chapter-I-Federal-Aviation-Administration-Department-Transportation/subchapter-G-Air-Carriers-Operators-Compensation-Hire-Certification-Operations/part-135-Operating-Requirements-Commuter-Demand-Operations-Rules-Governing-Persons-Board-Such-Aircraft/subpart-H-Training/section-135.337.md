@@ -1,5 +1,7 @@
 ##### § 135.337 Qualifications: Check airmen (aircraft) and check airmen (simulator). #####
 
+Link to an amendment published at 89 FR 51431, June 18, 2024.
+
 (a) For the purposes of this section and § 135.339:
 
 (1) A check airman (aircraft) is a person who is qualified to conduct flight checks in an aircraft, in a flight simulator, or in a flight training device for a particular type aircraft.

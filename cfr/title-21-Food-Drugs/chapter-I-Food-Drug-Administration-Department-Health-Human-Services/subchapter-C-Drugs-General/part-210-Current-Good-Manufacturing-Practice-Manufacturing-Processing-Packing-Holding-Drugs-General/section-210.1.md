@@ -1,5 +1,7 @@
 ##### § 210.1 Status of current good manufacturing practice regulations. #####
 
+Link to an amendment published at 89 FR 51769, June 18, 2024.
+
 (a) The regulations set forth in this part and in parts 211, 225, and 226 of this chapter contain the minimum current good manufacturing practice for methods to be used in, and the facilities or controls to be used for, the manufacture, processing, packing, or holding of a drug to assure that such drug meets the requirements of the act as to safety, and has the identity and strength and meets the quality and purity characteristics that it purports or is represented to possess.
 
 (b) The failure to comply with any regulation set forth in this part and in parts 211, 225, and 226 of this chapter in the manufacture, processing, packing, or holding of a drug shall render such drug to be adulterated under section 501(a)(2)(B) of the act and such drug, as well as the person who is responsible for the failure to comply, shall be subject to regulatory action.

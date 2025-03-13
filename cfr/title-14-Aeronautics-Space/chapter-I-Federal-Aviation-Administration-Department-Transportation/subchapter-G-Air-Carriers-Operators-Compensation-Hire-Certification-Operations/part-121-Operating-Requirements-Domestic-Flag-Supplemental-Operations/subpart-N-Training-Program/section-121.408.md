@@ -1,5 +1,7 @@
 ##### § 121.408 Training equipment other than flight simulation training devices. #####
 
+Link to an amendment published at 89 FR 51425, June 18, 2024.
+
 (a) The Administrator must approve training equipment used in a training program approved under this part and that functionally replicates aircraft equipment for the certificate holder and the crewmember duty or procedure. Training equipment does not include FSTDs qualified under part 60 of this chapter.
 
 (b) The certificate holder must demonstrate that the training equipment described in paragraph (a) of this section, used to meet the training requirements of this subpart, meets all of the following:

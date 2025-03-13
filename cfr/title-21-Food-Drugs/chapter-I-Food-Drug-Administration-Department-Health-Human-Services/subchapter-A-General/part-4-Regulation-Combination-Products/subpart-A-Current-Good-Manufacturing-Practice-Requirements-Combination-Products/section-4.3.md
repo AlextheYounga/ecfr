@@ -1,5 +1,7 @@
 ##### § 4.3 What current good manufacturing practice requirements apply to my combination product? #####
 
+Link to an amendment published at 89 FR 51766, June 18, 2024.
+
 If you manufacture a combination product, the requirements listed in this section apply as follows:
 
 (a) The current good manufacturing practice requirements in parts 210 and 211 of this chapter apply to a combination product that includes a drug constituent part;

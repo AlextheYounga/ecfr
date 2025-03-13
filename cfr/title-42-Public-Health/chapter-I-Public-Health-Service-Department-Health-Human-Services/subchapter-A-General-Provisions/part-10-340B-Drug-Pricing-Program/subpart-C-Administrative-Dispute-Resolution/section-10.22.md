@@ -1,15 +1,19 @@
-##### § 10.22 Information requests. #####
+##### § 10.22 Covered entity information and document requests. #####
 
-(a) *Discovery.* The 340B ADR Panel may permit a covered entity limited discovery to obtain such information and documents as may be relevant to demonstrate the merits of a claim. Such discovery shall be governed, to the extent applicable, by the Federal Rules of Civil Procedure.
+(a) To request information necessary to support its claim from an opposing party, a covered entity must submit a written request for additional information or documents to the 340B ADR Panel within 20 business days of the receipt from OPA that the claim was forwarded to the 340B ADR Panel for review. The 340B ADR Panel will review the information/document request and notify the covered entity if the request is not reasonable, not relevant or beyond the scope of the claim, and will permit the covered entity to resubmit a revised request if necessary.
 
-(b) 340B ADR Panel information requests. Taking into account any party's request for further information, the 340B ADR Panel may request additional information from either party.
+(b) The 340B ADR Panel will transmit the covered entity's information/document request to the manufacturer who must respond to the request within 20 business days of receipt of the request.
 
-(c) *Failure to respond to information requests.* If the 340B ADR Panel finds that a party has failed to respond or fully respond to an information request, the 340B ADR Panel make take the following actions, including:
+(c) The manufacturer must fully respond, in writing, to an information/document request from the 340B ADR Panel by the response deadline.
 
-(1) Holding facts to have been established in the proceeding;
+(1) A manufacturer is responsible for obtaining relevant information or documents from any wholesaler or other third party that may facilitate the sale or distribution of its drugs to covered entities.
 
-(2) Precluding a party from presenting or contesting a particular issue;
+(2) If a manufacturer anticipates that it will not be able to respond to the information/document request by the deadline, it can request one extension by notifying the 340B ADR Panel in writing within 15 business days of receipt of the request.
 
-(3) Excluding evidence; or
+(3) A request to extend the deadline must include the reason why the specific deadline is not feasible and must outline the proposed timeline for fully responding to the information/document request.
 
-(4) Judgment in the proceeding or dismissal of proceeding.
+(4) The 340B ADR Panel may approve or disapprove the request for an extension of time and will notify all parties in writing of its decision.
+
+(5) If the 340B ADR Panel finds that a manufacturer has failed to fully respond to an information/document request, the 340B ADR Panel will proceed with the facts that the 340B ADR Panel has determined have been established in the proceeding.
+
+(6) If a manufacturer believes an information request to a covered entity is necessary for the 340B ADR Panel's review, it may make a request to the 340B ADR Panel to make the request to the covered entity.

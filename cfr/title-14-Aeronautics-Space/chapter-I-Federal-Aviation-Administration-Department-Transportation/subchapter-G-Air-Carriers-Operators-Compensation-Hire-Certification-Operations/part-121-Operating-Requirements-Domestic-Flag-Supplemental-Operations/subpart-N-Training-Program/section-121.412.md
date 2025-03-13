@@ -1,5 +1,7 @@
 ##### § 121.412 Qualifications: Flight instructors (airplane) and flight instructors (simulator). #####
 
+Link to an amendment published at 89 FR 51426, June 18, 2024.
+
 (a) For the purposes of this section and § 121.414:
 
 (1) A flight instructor (airplane) is a person who is qualified to instruct in an airplane, in an FFS, or in a flight training device for a particular type airplane.

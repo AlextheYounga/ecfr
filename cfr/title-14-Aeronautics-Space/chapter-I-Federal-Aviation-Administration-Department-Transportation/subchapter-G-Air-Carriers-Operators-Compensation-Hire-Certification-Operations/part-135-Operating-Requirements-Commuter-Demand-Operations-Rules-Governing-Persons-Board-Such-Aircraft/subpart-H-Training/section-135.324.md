@@ -1,5 +1,7 @@
 ##### § 135.324 Training program: Special rules. #####
 
+Link to an amendment published at 89 FR 51431, June 18, 2024.
+
 (a) Other than the certificate holder, only another certificate holder certificated under this part or a training center certificated under part 142 of this chapter is eligible under this subpart to conduct training, testing, and checking under contract or other arrangement to those persons subject to the requirements of this subpart.
 
 (b) A certificate holder may contract with, or otherwise arrange to use the services of, a training center certificated under part 142 of this chapter to conduct training, testing, and checking required by this part only if the training center—

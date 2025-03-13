@@ -1,5 +1,7 @@
 ##### § 210.2 Applicability of current good manufacturing practice regulations. #####
 
+Link to an amendment published at 89 FR 51769, June 18, 2024.
+
 (a) The regulations in this part and in parts 211, 225, and 226 of this chapter as they may pertain to a drug; in parts 600 through 680 of this chapter as they may pertain to a biological product for human use; and in part 1271 of this chapter as they are applicable to a human cell, tissue, or cellular or tissue-based product (HCT/P) that is a drug (subject to review under an application submitted under section 505 of the act or under a biological product license application under section 351 of the Public Health Service Act); shall be considered to supplement, not supersede, each other, unless the regulations explicitly provide otherwise. In the event of a conflict between applicable regulations in this part and in other parts of this chapter, the regulation specifically applicable to the drug product in question shall supersede the more general.
 
 (b) If a person engages in only some operations subject to the regulations in this part, in parts 211, 225, and 226 of this chapter, in parts 600 through 680 of this chapter, and in part 1271 of this chapter, and not in others, that person need only comply with those regulations applicable to the operations in which he or she is engaged.

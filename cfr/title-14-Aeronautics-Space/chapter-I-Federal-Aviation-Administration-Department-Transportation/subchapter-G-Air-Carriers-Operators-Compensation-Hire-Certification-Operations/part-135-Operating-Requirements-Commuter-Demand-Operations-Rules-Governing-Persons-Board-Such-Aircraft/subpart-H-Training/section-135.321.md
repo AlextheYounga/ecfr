@@ -1,5 +1,7 @@
 ##### § 135.321 Applicability and terms used. #####
 
+Link to an amendment published at 89 FR 51430, June 18, 2024.
+
 (a) Except as provided in § 135.3, this subpart prescribes the requirements applicable to—
 
 (1) A certificate holder under this part which contracts with, or otherwise arranges to use the services of a training center certificated under part 142 to perform training, testing, and checking functions;

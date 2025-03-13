@@ -1,0 +1,3 @@
+##### § 216.110 Purpose. #####
+
+The purpose of this subpart is to establish regulations governing the take of whales from the Eastern North Pacific (ENP) gray whale (*Eschrichtius robustus*) stock by the Makah Indian Tribe and its enrolled members in accordance with the Secretary's determination to issue a waiver of the Marine Mammal Protection Act (MMPA) take moratorium pursuant to 16 U.S.C. 1371(a)(3).
