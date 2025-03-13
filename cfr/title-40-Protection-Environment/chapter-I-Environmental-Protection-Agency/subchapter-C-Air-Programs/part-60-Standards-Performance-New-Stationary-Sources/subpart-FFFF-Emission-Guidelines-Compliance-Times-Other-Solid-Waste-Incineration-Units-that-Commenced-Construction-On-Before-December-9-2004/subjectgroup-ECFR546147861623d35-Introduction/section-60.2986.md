@@ -1,0 +1,3 @@
+##### § 60.2986 Is there an approval process for a negative declaration letter? #####
+
+No, EPA has no formal review process for negative declaration letters. Once we receive your negative declaration letter, we will place a copy in the public docket and publish a notice in the Federal Register. If, at a later date, an existing incineration unit is found in your State, the Federal plan implementing the emission guidelines contained in this subpart would automatically apply to that unit until your State plan is approved.

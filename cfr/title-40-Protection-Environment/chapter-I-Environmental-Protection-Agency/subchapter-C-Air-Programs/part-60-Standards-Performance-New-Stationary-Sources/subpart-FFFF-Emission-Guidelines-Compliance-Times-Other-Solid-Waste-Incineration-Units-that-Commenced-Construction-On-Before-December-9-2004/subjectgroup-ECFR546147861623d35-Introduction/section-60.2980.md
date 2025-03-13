@@ -1,0 +1,3 @@
+##### § 60.2980 What is the purpose of this subpart? #####
+
+This subpart establishes emission guidelines and compliance schedules for the control of emissions from other solid waste incineration (OSWI) units. The pollutants addressed by these emission guidelines are listed in table 2 of this subpart. These emission guidelines are developed in accordance with sections 111(d) and 129 of the Clean Air Act and subpart B of this part.
