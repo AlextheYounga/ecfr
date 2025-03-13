@@ -1,7 +1,5 @@
 ##### § 214.103 Approval criteria. #####
 
-Link to an amendment published at 89 FR 75501, Sept. 16, 2024.
-
 The following criteria for approval apply to all agencies, MSOs, and intermediaries, including all local housing counseling agencies, branches, and affiliates that are included in one application:
 
 (a) *Nonprofit and tax-exempt status.* A housing counseling agency must function as a private or public nonprofit organization, or be a unit of local, county, or state government. The agency must submit evidence of nonprofit status and tax-exempt status under section 501(a), pursuant to section 501(c) of the Internal Revenue Code of 1996 (26 U.S.C. 501(a) and (c)). Units of local, county, or state government must submit proof of their authorization to provide housing counseling services.
@@ -44,13 +42,13 @@ The following criteria for approval apply to all agencies, MSOs, and intermediar
 
 (k) *State and local requirements.* An agency and its branches and affiliates must meet all state and local requirements for its operation.
 
-(l) *Facilities.* All housing counseling facilities of the agency and its branches, affiliates, and subgrantees must meet the following criteria:
+(l) *Facilities.* All participating agencies must maintain at least one facility. All facilities must meet the following criteria:
 
-(1) Have a clearly identified office, with space available for the provision of housing counseling services. The office should operate during normal business hours and offer extended hours when necessary;
+(1) Have a clearly identified space available for the provision of housing counseling services;
 
-(2) Provide privacy for in-person counseling and confidentiality of client records;
+(2) Provide privacy for counseling services and confidentiality of client records; and
 
-(3) Provide accessibility features or make alternate accommodations for persons with disabilities, in accordance with section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), 24 CFR parts 8 and 9, and the Americans with Disabilities Act (42 U.S.C. 12101 *et seq.*).
+(3) Provide accessibility features or make alternative accommodations for persons with disabilities, in accordance with section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), 24 CFR parts 8 and 9, and the Americans with Disabilities Act (42 U.S.C. 12101 *et seq.*).
 
 (m) *Housing counseling work plan.* (1) The agency must submit a detailed yet concise housing counseling plan that explains: The needs and problems of the target population; how the agency will address one or more of these needs and problems with its available resources; the type of housing counseling services offered; fee structure, if applicable; the geographic service area to be served; and the anticipated results (outcomes) to be achieved within the period of approval.
 
@@ -80,4 +78,4 @@ The following criteria for approval apply to all agencies, MSOs, and intermediar
 
 (4) Participating agencies and housing counselors must be in compliance with requirements of paragraph (n) of this section as of August 1, 2021.
 
-[72 FR 55648, Sept. 28, 2007, as amended at 80 FR 75936, Dec. 7, 2015; 81 FR 90658, Dec. 14, 2016; 85 FR 47303, Aug. 5, 2020]
+[72 FR 55648, Sept. 28, 2007, as amended at 80 FR 75936, Dec. 7, 2015; 81 FR 90658, Dec. 14, 2016; 85 FR 47303, Aug. 5, 2020; 89 FR 75501, Sept. 16, 2024]

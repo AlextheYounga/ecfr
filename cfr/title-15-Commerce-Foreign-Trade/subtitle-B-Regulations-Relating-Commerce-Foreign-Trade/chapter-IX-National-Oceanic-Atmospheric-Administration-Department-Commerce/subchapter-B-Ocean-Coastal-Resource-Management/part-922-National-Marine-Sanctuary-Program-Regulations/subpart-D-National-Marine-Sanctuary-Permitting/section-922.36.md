@@ -1,5 +1,7 @@
 ##### § 922.36 National Marine Sanctuary authorizations. #####
 
+Link to an amendment published at 89 FR 83594, Oct. 16, 2024.
+
 (a) *Authority to issue authorizations.* The Director may authorize a person to conduct an activity otherwise prohibited by subparts L through P, subpart R, or subpart U of this part, if such activity is specifically allowed by any valid Federal, State, or local lease, permit, license, approval, or other authorization (hereafter called “agency approval”) issued after the effective date of sanctuary designation or expansion, provided the applicant complies with the provisions of this section. Such an authorization by ONMS is hereafter referred to as an “ONMS authorization.”
 
 (b) *Authorization notification to the Director*—(1) *Notification requirement.* An applicant must notify the Director in writing of the request for an ONMS authorization of an agency approval. The Director may treat an amendment or extension of such an agency approval as constituting a new agency approval for purposes of this section.

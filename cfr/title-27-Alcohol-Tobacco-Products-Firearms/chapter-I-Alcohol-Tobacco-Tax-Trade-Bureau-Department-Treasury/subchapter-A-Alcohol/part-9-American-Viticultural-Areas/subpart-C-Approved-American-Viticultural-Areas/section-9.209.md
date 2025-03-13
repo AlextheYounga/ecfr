@@ -1,5 +1,7 @@
 ##### § 9.209 Calistoga. #####
 
+Link to an amendment published at 89 FR 83434, Oct. 16, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Calistoga”. For purposes of part 4 of this chapter, “Calistoga” is a term of viticultural significance.
 
 (b) *Approved maps.* The appropriate maps used to determine the boundary of the Calistoga viticultural area are four United States Geological Survey 1:24,000 scale topographic quadrangle maps. They are titled:
