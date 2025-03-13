@@ -1,5 +1,7 @@
 ##### § 989.213 Maturity dockage. #####
 
+Link to an amendment published at 88 FR 85824, Dec. 11, 2023.
+
 (a) *General.* Subject to prior agreement between handler and tenderer, Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins containing from 35.0 percent through 49.9 percent, by weight, of well-matured or reasonably well-matured raisins may be acquired by a handler under a weight dockage system. The creditable weight of each lot of raisins acquired under the maturity dockage system shall be obtained by multiplying the net weight of the lot of raisins by the applicable dockage factor from the dockage table prescribed in paragraphs (b), (c), and (d) of this section.
 
 (b) Maturity dockage table applicable to lots of Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins which contain 45.0 percent through 49.9 percent well-matured or reasonably well-matured raisins:

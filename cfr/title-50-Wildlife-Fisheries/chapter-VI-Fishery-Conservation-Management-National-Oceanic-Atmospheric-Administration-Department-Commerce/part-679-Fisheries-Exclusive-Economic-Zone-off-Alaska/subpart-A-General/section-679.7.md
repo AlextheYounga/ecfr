@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI*—(1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -284,11 +282,11 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (10) For a CDQ group representative, to remove a vessel from the CDQ vessel registration list under § 679.5(m)(4) without first providing notice to the operator of the registered vessel that the vessel is being removed from the CDQ vessel registration list or when the vessel operator is groundfish CDQ fishing.
 
-(e) *Halibut Deck Sorting.* (1) Conduct halibut deck sorting without notifying the observer at least 15 minutes prior to bringing fish onboard as described in § 679.120(e)(2).
+(e) *Halibut Deck Sorting.* (1) Conduct halibut deck sorting without notifying the observer at least 15 minutes prior to bringing fish onboard as described in § 679.102 (e)(2).
 
-(2) For any haul for which the notification at § 679.120(e)(2) is provided, allow fish to be spilled from the codend without an observer being present to monitor halibut deck sorting.
+(2) For any haul for which the notification at § 679.102 (e)(2) is provided, allow fish to be spilled from the codend without an observer being present to monitor halibut deck sorting.
 
-(3) Sort halibut from the catch prior to weighing except in compliance with requirements at § 679.120.
+(3) Sort halibut from the catch prior to weighing except in compliance with requirements at § 679.102.
 
 (4) Sort halibut on deck without an observer present to monitor halibut deck sorting.
 
@@ -302,7 +300,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (9) Fail to have an approved Deck Safety Plan before conducting halibut deck sorting.
 
-(10) Fail to notify the Observer Program for purposes of the pre-cruise meeting when required by § 679.120(c).
+(10) Fail to notify the Observer Program for purposes of the pre-cruise meeting when required by § 679.102 (c).
 
 (11) Weigh catch on a NMFS-approved scale that complies with the requirements at § 679.28(b) when halibut deck sorting unless three or more observers are present on the vessel and an observer has been notified and is available to complete data collection duties in the factory.
 
@@ -625,7 +623,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (iii) Fail to submit a timely and complete Pacific cod Ex-vessel Volume and Value Report as required under § 679.5(u)(1).
 
-(iv) Use a catcher/processor designated on an LLP license with a BSAI Pacific cod trawl mothership endorsement to sort, process, or discard any species, except halibut sorted on deck by vessels participating in halibut deck sorting described at § 679.120, before the total catch is weighed on a scale that meets the requirements of § 679.28(b).
+(iv) Use a catcher/processor designated on an LLP license with a BSAI Pacific cod trawl mothership endorsement to sort, process, or discard any species, except halibut sorted on deck by vessels participating in halibut deck sorting described at § 679.102, before the total catch is weighed on a scale that meets the requirements of § 679.28(b).
 
 (v) Use a catcher/processor designated on an LLP license with a BSAI Pacific cod trawl mothership endorsement to process Pacific cod in excess of the at-sea processing sideboard limit defined at § 679.133(b)(2) and assigned to the LLP license.
 

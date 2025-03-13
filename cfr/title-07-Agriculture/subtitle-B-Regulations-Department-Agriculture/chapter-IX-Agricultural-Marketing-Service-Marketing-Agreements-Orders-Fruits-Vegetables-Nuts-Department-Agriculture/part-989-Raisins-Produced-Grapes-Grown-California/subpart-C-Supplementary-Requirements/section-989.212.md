@@ -1,5 +1,7 @@
 ##### § 989.212 Substandard dockage. #####
 
+Link to an amendment published at 88 FR 85823, Dec. 11, 2023.
+
 (a) *General.* Subject to prior agreement between handler and tenderer, Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins containing from 5.1 through 17.0 percent, by weight, of substandard raisins may be acquired by a handler under a weight dockage system. A handler may also, subject to prior agreement, acquire as standard raisins any lot of Muscat (including other raisins with seeds), Sultana, and Zante Currant raisins containing from 12.1 through 20.0 percent, by weight, of substandard raisins under a weight dockage system. The creditable weight of each lot of raisins acquired under the substandard dockage system shall be obtained by multiplying the net weight of the lot of raisins by the applicable dockage factor from the appropriate dockage table prescribed in paragraph (b) or (c) of this section.
 
 (b) *Substandard dockage table applicable to Natural (sun-dried) Seedless, Golden Seedless, Dipped Seedless, Monukka, Other Seedless, and Other Seedless-Sulfured raisins.*

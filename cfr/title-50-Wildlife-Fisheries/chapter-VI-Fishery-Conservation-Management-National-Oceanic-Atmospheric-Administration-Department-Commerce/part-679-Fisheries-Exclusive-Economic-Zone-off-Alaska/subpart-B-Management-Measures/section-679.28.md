@@ -1,7 +1,5 @@
 ##### § 679.28 Equipment and operational requirements. #####
 
-Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
-
 (a) *Applicability.* This section contains the operational requirements for scales, observer sampling stations, vessel monitoring system hardware, catch monitoring and control plans, catcher vessel electronic logbook software, and video monitoring systems. The operator or manager must retain a copy of all records described in this section (§ 679.28) as indicated at § 679.5(a)(5) and (6) and make available the records upon request of NMFS observers and authorized officers as indicated at § 679.5(a)(5).
 
 (b) *Scales used to weigh catch at sea.* In order to be approved by NMFS a scale used to weigh catch at sea must meet the type evaluation requirements set forth in paragraph (b)(1) of this section and the initial inspection and annual reinspection requirements set forth in paragraph (b)(2) of this section. Once a scale is installed on a vessel and approved by NMFS for use to weigh catch at sea, it must be reinspected annually and must be tested daily and meet the maximum permissible error (MPE) requirements described in paragraph (b)(3) of this section.
@@ -287,7 +285,7 @@ Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
 
 (B) *Collection area.* A collection area is a place where the observer, or vessel crew under the observer's guidance, collects fish as they come off the line or are removed from pots. It must be located where the observer can see the gear when it leaves the water. Where exposed to wind or seas, it must be equipped with a railing at least 1.0 m high and grating or other non-slip material.
 
-(9) *Observer deck sampling station.* Motherships and catcher/processors subject to § 679.120 must be equipped with a deck sampling station that meets the following requirements:
+(9) *Observer deck sampling station.* Motherships and catcher/processors subject to § 679.102 must be equipped with a deck sampling station that meets the following requirements:
 
 (i) *Accessibility.* All equipment required for an observer deck sampling station must be available to the observer at all times when halibut deck sorting.
 
@@ -309,7 +307,7 @@ Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
 
 (iii) *Observer Sampling Station Inspection Report.* An Observer Sampling Station Inspection Report will be issued by NMFS to the vessel owner if the observer sampling station meets the requirements in this paragraph (d). The vessel owner must maintain a current Observer Sampling Station Inspection Report on board the vessel at all times when the vessel is required to provide an observer sampling station approved for use under this paragraph (d). The Observer Sampling Station Inspection Report must be made available to the observer, NMFS personnel, or to an authorized officer upon request.
 
-(A) *Deck Sorting.* An Observer Sampling Station Inspection Report issued to the owner of a vessel participating in halibut deck sorting as described at § 679.120 will indicate the time limit for halibut deck sorting activities. Considerations used by NMFS to determine the time limit for halibut deck sorting include, but are not limited to, deck space and configuration, and best available halibut viability information.
+(A) *Deck Sorting.* An Observer Sampling Station Inspection Report issued to the owner of a vessel participating in halibut deck sorting as described at § 679.102 will indicate the time limit for halibut deck sorting activities. Considerations used by NMFS to determine the time limit for halibut deck sorting include, but are not limited to, deck space and configuration, and best available halibut viability information.
 
 (B) [Reserved].
 
@@ -601,7 +599,7 @@ Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
 
 (2) Provide sufficient resolution and field of view to monitor all areas where Pacific cod are sorted from the catch, all fish passing over the motion-compensated scale, and all crew actions in these areas.
 
-(l) *Video monitoring for halibut deck sorting.* The owner and operator of a mothership or catcher/processor subject to § 679.120 must provide and maintain a video monitoring system approved under paragraph (e) of this section when the vessel is halibut deck sorting. Additionally, the system must—
+(l) *Video monitoring for halibut deck sorting.* The owner and operator of a mothership or catcher/processor subject to § 679.102 must provide and maintain a video monitoring system approved under paragraph (e) of this section when the vessel is halibut deck sorting. Additionally, the system must—
 
 (1) Record and retain video for an entire trip when halibut deck sorting may occur; and
 

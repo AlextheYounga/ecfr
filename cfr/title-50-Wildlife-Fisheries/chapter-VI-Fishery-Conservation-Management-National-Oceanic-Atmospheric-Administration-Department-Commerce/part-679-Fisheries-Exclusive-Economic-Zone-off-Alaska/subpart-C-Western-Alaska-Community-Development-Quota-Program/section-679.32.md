@@ -1,7 +1,5 @@
 ##### § 679.32 Groundfish and halibut CDQ catch monitoring. #####
 
-Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
-
 (a) *Applicability.* This section contains requirements for CDQ groups, vessel operators, and managers of processors that harvest or process fixed gear sablefish CDQ, pollock CDQ, or groundfish CDQ. Regulations governing the catch accounting of halibut CDQ are at § 679.40(h).
 
 (b) *PSQ catch.* Time and area closures required once a CDQ group has reached its salmon PSQ or crab PSQ are listed in § 679.7(d)(5). The catch of salmon or crab by vessels using other than trawl gear does not accrue to the PSQ for these species. The discard of halibut by vessels using pot gear, jig gear, or hook-and-line gear to harvest sablefish CDQ will not accrue to the halibut PSQ if this bycatch has been exempted from the halibut PSC limit in the annual BSAI specifications published in the Federal Register.
@@ -54,7 +52,7 @@ Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
 
 (*3*) Provide an observer sampling station as described at § 679.28(d).
 
-(*4*) The operator of a mothership taking deliveries of unsorted codends from catcher vessels must weigh all catch, except halibut sorted on deck by vessels participating in halibut deck sorting described at § 679.120, on a scale that complies with the requirements of § 679.28(b). Catch must not be sorted before it is weighed, unless a provision for doing so is approved by NMFS for the vessel. Each CDQ haul must be sampled by an observer for species composition and the vessel operator must allow observers to use any scale approved by NMFS to weigh partial CDQ haul samples.
+(*4*) The operator of a mothership taking deliveries of unsorted codends from catcher vessels must weigh all catch, except halibut sorted on deck by vessels participating in halibut deck sorting described at § 679.102, on a scale that complies with the requirements of § 679.28(b). Catch must not be sorted before it is weighed, unless a provision for doing so is approved by NMFS for the vessel. Each CDQ haul must be sampled by an observer for species composition and the vessel operator must allow observers to use any scale approved by NMFS to weigh partial CDQ haul samples.
 
 (D) *Observed catcher vessels using nontrawl gear.* This paragraph applies to all observed catcher vessels using nontrawl gear, except those catcher vessels regulated under paragraph (c)(3)(iii) of this section. Operators of vessels in this category must retain all CDQ species until they are delivered to a processor that meets the requirements of paragraph (d) of this section unless retention of groundfish CDQ species is not authorized under § 679.4, discard of the groundfish CDQ or PSQ species is required under subpart B of this part, or, in waters within the State of Alaska, discard is required by laws of the State of Alaska. All of the halibut PSQ must be counted and sampled for length or weight by the observer.
 
@@ -138,4 +136,4 @@ Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
 
 (vi) *Amendments.* The entity applied for use of non-CDQ harvest regulations must promptly notify NMFS of any changes in the voluntary fishing cooperative's membership by re-applying in accordance with this paragraph (e). Amendments to an approved application to use alternative CDQ harvest regulations may be submitted to NMFS at any time, and will be reviewed under the requirements of this paragraph (e).
 
-[77 FR 6499, Feb. 8, 2012, as amended at 77 FR 59060, Sept. 26, 2012; 77 FR 70091, Nov. 21, 2012; 81 FR 26744, May 4, 2016; 83 FR 30532, June 29, 2018; 84 FR 55053, Oct. 15, 2019]
+[77 FR 6499, Feb. 8, 2012, as amended at 77 FR 59060, Sept. 26, 2012; 77 FR 70091, Nov. 21, 2012; 81 FR 26744, May 4, 2016; 83 FR 30532, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 88 FR 77231, Nov. 9, 2023]

@@ -1,7 +1,5 @@
 ##### § 402.1 Basis and scope. #####
 
-Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
-
 (a) *Basis.* This part is based on the sections of the Act that are specified in paragraph (c) of this section.
 
 (b) *Scope.* This part—
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
 
 (2) Sets forth the appeal rights of persons subject to penalties, assessments, or exclusion and the procedures for reinstatement following exclusion.
 
-(c) *Civil money penalties.* CMS or OIG may impose civil money penalties against any person or other entity specified in paragraphs (c)(1) through (c)(34) of this section under the identified section of the Act. (The authorities that also permit imposition of an assessment or exclusion are noted in the applicable paragraphs.)
+(c) *Civil money penalties.* CMS or OIG may impose civil money penalties against any person or other entity specified in paragraphs (c)(1) through (c)(35) of this section under the identified section of the Act. (The authorities that also permit imposition of an assessment or exclusion are noted in the applicable paragraphs.)
 
 (1) Sections 1833(h)(5)(D) and 1842(j)(2)—Any person that knowingly and willfully, and on a repeated basis, bills for a clinical diagnostic laboratory test, other than on an assignment-related basis. This provision includes tests performed in a physician's office but excludes tests performed in a rural health clinic. (This violation may also include an assessment and cause exclusion.)
 
@@ -82,17 +80,51 @@ Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
 
 (ii) These violations, if they occur in repeated cases, may also cause exclusion.
 
-(20) Section 1862(b)(5)(C)—Any employer (other than a Federal or other governmental agency) that, before October 1, 1998, willfully or repeatedly fails to provide timely and accurate information requested relating to an employee's group health insurance coverage.
-
-(21) Section 1862(b)(6)(B)—Any entity that knowingly, willfully, and repeatedly—
+(20) Section 1862(b)(6)(B)—Any entity that knowingly, willfully, and repeatedly—
 
 (i) Fails to complete a claim form relating to the availability of other health benefit plans in accordance with section 1862(b)(6)(A); or
 
 (ii) Provides inaccurate information relating to the availability of other health benefit plans on the claim form.
 
-(22) Section 1877(g)(5)—Any person that fails to report information required by HHS under section 1877(f) concerning ownership, investment, and compensation arrangements. (This violation may also include an assessment and cause exclusion.)
+(21) Section 1862(b)(7)(B)—Except for the situation described in paragraphs (c)(21)(ii)(A) and (B) of this section, any entity that has a reporting obligation under section 1862(b)(7) of the Act (“reporting entity”) that—
 
-(23) Sections 1879(h), 1834(a)(18), and 1842(j)(2)—
+(i) Fails to report any beneficiary record within 1 year of the last acceptable reporting date, defined as 365 days from the GHP coverage effective date or the Medicare beneficiary's entitlement date, whichever is later.
+
+(ii) A civil money penalty (CMP) is not imposed if—
+
+(A) The incident of noncompliance is associated with a specific reporting policy or procedural change on the part of CMS that has been effective for less than 6 months following the implementation of that policy or procedural change (or for 1 year, should CMS be unable to provide a minimum of 6 months' notice prior to implementing such changes).
+
+(B) The entity complies with any reporting thresholds or any other reporting exclusions.
+
+(22) Section 1862(b)(8)(E)—Except for the situations described in paragraph (c)(22)(ii)(A), (B) and (C) of this section, any applicable plan that has a reporting obligation under section 1862(b)(8) of the Act (“applicable plan”), that—
+
+(i) Fails to report any beneficiary record within 1 year from the date of the settlement, judgment, award, or other payment, or the effective date where ongoing payment responsibility for medical care has been assumed by the entity.
+
+(ii) A CMP is not imposed in the following situations:
+
+(A) An NGHP applicable plan fails to report required information as a result of the applicable plan's inability to obtain an individual's last name, first name, date of birth, gender, Medicare Beneficiary Identifier (MBI), Social Security Number (SSN), or the last 5 digits of the SSN, and the applicable plan has made a good faith effort to obtain this information by meeting the following:
+
+(*1*) Has communicated the need for this information to the individual and his or her attorney, or other representative, if applicable, or both.
+
+(*2*) Has requested the information from the individual and his or her attorney, or other representative (if applicable), at least three times—
+
+(*i*) Once in writing (including electronic mail);
+
+(*ii*) Then at least once more by mail; and
+
+(*iii*) At least once more by phone or other means of contact in the absence of a response to the mailings.
+
+(*3*) Has not received a response or has received a written response clearly indicating that the individual refuses to provide the needed information. Should the applicable plan receive a written response from the individual or their attorney or representative that clearly and unambiguously declines or refuses to provide any portion of the information specified herein, no additional communications with the individual or their attorney or other representative are required.
+
+(*4*) Has documented its efforts to obtain the MBI or SSN (or the last 5 digits of the SSN). This documentation, including any written rejection correspondence, must be retained for a minimum of 5 years.
+
+(B) An NGHP applicable plan complies with any reporting thresholds or any other reporting exclusions.
+
+(C) The incident of noncompliance is associated with a specific reporting policy or procedural change on the part of CMS that has been effective for less than 6 months following the implementation of that policy or procedural change (or for 12 months, should CMS be unable to provide a minimum of 6 months' notice prior to implementing such changes).
+
+(23) Section 1877(g)(5)—Any person that fails to report information required by HHS under section 1877(f) concerning ownership, investment, and compensation arrangements. (This violation may also include an assessment and cause exclusion.)
+
+(24) Sections 1879(h), 1834(a)(18), and 1842(j)(2)—
 
 (i) Any durable medical equipment supplier, including a supplier of prosthetic devices, prosthetics, orthotics, or supplies, that knowingly and willfully fails to make refunds in a timely manner to Medicare beneficiaries for services billed on an assignment-related basis if—
 
@@ -104,11 +136,11 @@ Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
 
 (ii) These violations may also include an assessment and cause exclusion.
 
-(24) Section 1882(a)(2)—Any person that issues a Medicare supplemental policy that has not been approved by the State regulatory program or does not meet Federal standards on and after the effective date in section 1882(p)(1)(C). (This violation may also include an assessment and cause exclusion.)
+(25) Section 1882(a)(2)—Any person that issues a Medicare supplemental policy that has not been approved by the State regulatory program or does not meet Federal standards on and after the effective date in section 1882(p)(1)(C). (This violation may also include an assessment and cause exclusion.)
 
-(25) Section 1882(p)(8)—Any person that sells or issues Medicare supplemental policies, on or after July 30, 1992, that fail to conform to the NAIC or Federal standards established under section 1882(p). (This violation may also include an assessment and cause exclusion.)
+(26) Section 1882(p)(8)—Any person that sells or issues Medicare supplemental policies, on or after July 30, 1992, that fail to conform to the NAIC or Federal standards established under section 1882(p). (This violation may also include an assessment and cause exclusion.)
 
-(26) Section 1882(p)(9)(C)—
+(27) Section 1882(p)(9)(C)—
 
 (i) Any person that sells a Medicare supplemental policy and—
 
@@ -118,7 +150,7 @@ Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
 
 (ii) These violations may also include an assessment and cause exclusion.
 
-(27) Section 1882(q)(5)(C)—
+(28) Section 1882(q)(5)(C)—
 
 (i) Any person that fails to—
 
@@ -128,9 +160,9 @@ Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
 
 (ii) These violations may also include an assessment and cause exclusion.
 
-(28) Section 1882(r)(6)(A)—Any person that fails to provide refunds or credits as required by section 1882(r)(1)(B). (This violation may also include an assessment and cause exclusion.)
+(29) Section 1882(r)(6)(A)—Any person that fails to provide refunds or credits as required by section 1882(r)(1)(B). (This violation may also include an assessment and cause exclusion.)
 
-(29) Section 1882(s)(4)—
+(30) Section 1882(s)(4)—
 
 (i) Any issuer of a Medicare supplemental policy that—
 
@@ -140,7 +172,7 @@ Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
 
 (ii) These violations may also include an assessment and cause exclusion.
 
-(30) Section 1882(t)(2)—
+(31) Section 1882(t)(2)—
 
 (i) Any issuer of a Medicare supplemental policy that—
 
@@ -154,13 +186,13 @@ Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
 
 (ii) These violations may also include an assessment and cause exclusion.
 
-(31) Sections 1834(k)(6) and 1842(j)(2)—Any person or entity who knowingly and willfully bills or collects for any outpatient therapy services or comprehensive outpatient rehabilitation services on other than an assignment-related basis. (This violation may also include an assessment and cause exclusion.)
+(32) Sections 1834(k)(6) and 1842(j)(2)—Any person or entity who knowingly and willfully bills or collects for any outpatient therapy services or comprehensive outpatient rehabilitation services on other than an assignment-related basis. (This violation may also include an assessment and cause exclusion.)
 
-(32) Sections 1834(l)(6) and 1842(j)(2)—Any supplier of ambulance services who knowingly and willfully bills or collects for any services on other than an assignment-related basis. (This violation may also include an assessment and cause exclusion.)
+(33) Sections 1834(l)(6) and 1842(j)(2)—Any supplier of ambulance services who knowingly and willfully bills or collects for any services on other than an assignment-related basis. (This violation may also include an assessment and cause exclusion.)
 
-(33) Section 1806(b)(2)(B)—Any person who knowingly and willfully fails to furnish a beneficiary with an itemized statement of items or services within 30 days of the beneficiary's request.
+(34) Section 1806(b)(2)(B)—Any person who knowingly and willfully fails to furnish a beneficiary with an itemized statement of items or services within 30 days of the beneficiary's request.
 
-(34) Section 1128G (b) (1) and (2)—Any applicable manufacturer or applicable group purchasing organization that fails to timely, accurately, or completely report a payment or other transfer of value or an ownership or investment interest to CMS, as required under part 403, subpart I, of this chapter.
+(35) Section 1128G (b) (1) and (2)—Any applicable manufacturer or applicable group purchasing organization that fails to timely, accurately, or completely report a payment or other transfer of value or an ownership or investment interest to CMS, as required under part 403, subpart I, of this chapter.
 
 (d) *Assessments.* CMS or OIG may impose assessments in addition to civil money penalties for violations of the following statutory sections:
 
@@ -206,4 +238,4 @@ Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
 
 (g) *Time limits.* Neither CMS nor OIG initiates an action to impose a civil money penalty, assessment, or proceeding to exclude a person from participation in the Medicare program unless it begins the action within 6 years from the date on which the claim was presented, the request for payment was made, or the incident occurred.
 
-[63 FR 68690, Dec. 14, 1998, as amended at 66 FR 49546, Sept. 28, 2001; 78 FR 9520, Feb. 8, 2013]
+[63 FR 68690, Dec. 14, 1998, as amended at 66 FR 49546, Sept. 28, 2001; 78 FR 9520, Feb. 8, 2013; 88 FR 70372, Oct. 11, 2023]

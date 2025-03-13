@@ -1,7 +1,5 @@
 ##### § 679.53 Observer certification and responsibilities. #####
 
-Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
-
 (a) *Observer certification*—(1) *Applicability.* Observer certification authorizes an individual to fulfill duties for operations requiring full observer coverage per § 679.51(a)(2) and (b)(2) as specified in writing by the NMFS Observer Program while under the employ of an observer provider permitted under § 679.52(a) and according to certification endorsements as designated under paragraph (a)(5) of this section.
 
 (2) *Observer certification official.* The Regional Administrator will designate a NMFS observer certification official who will make decisions for the Observer Program on whether to issue or deny observer certification.
@@ -38,7 +36,7 @@ Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
 
 (iii) *Deployment endorsements.* Each observer who has completed an initial deployment after certification or annual briefing must receive a deployment endorsement to their certification prior to any subsequent deployments for the remainder of that year. An observer may obtain a deployment endorsement by successfully completing all pre-cruise briefing requirements. The type of briefing the observer must attend and successfully complete will be specified in writing by the Observer Program during the observer's most recent debriefing.
 
-(iv) *Level 2 endorsements.* A certified observer may obtain a level 2 endorsement to their certification. A level 2 endorsement is required for purposes of performing observer duties aboard vessels or stationary floating processors or at shoreside processors participating in fisheries as prescribed in § 679.51(a)(2)(vi)(A) through (E). A level 2 endorsement to an observer's certification may be obtained if the observer meets the following requirements:
+(iv) *Level 2 endorsements.* A certified observer may obtain a level 2 endorsement to their certification. A level 2 endorsement is required for purposes of performing observer duties aboard vessels or stationary floating processors or at shoreside processors participating in fisheries as prescribed in § 679.51(a)(2)(vi)(A) through (H). A level 2 endorsement to an observer's certification may be obtained if the observer meets the following requirements:
 
 (A) Previously served as an observer in the groundfish or halibut fisheries off Alaska and has completed at least 60 days of observer data collection;
 
@@ -108,4 +106,4 @@ Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
 
 (4) *Appeals.* A certified observer who receives an IAD that suspends or revokes his or her observer certification may appeal pursuant to § 679.43.
 
-[77 FR 70099, Nov. 21, 2012, as amended at 81 FR 67118, Sept. 30, 2016; 83 FR 30532, 30533, June 29, 2018]
+[77 FR 70099, Nov. 21, 2012, as amended at 81 FR 67118, Sept. 30, 2016; 83 FR 30532, 30533, June 29, 2018; 88 FR 77231, Nov. 9, 2023]

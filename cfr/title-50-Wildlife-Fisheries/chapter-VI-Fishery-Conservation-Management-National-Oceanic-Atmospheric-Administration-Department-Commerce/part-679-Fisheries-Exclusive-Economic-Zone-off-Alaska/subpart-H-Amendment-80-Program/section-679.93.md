@@ -1,14 +1,12 @@
 ##### § 679.93 Amendment 80 Program recordkeeping, permits, monitoring, and catch accounting. #####
 
-Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
-
 (a) *Recordkeeping and reporting.* See § 679.5(s).
 
 (b) *Permits.* See § 679.4(o).
 
 (c) *Catch monitoring requirements for Amendment 80 vessels and catcher/processors not listed in § 679.4(l)(2)(i) using trawl gear and fishing in the BSAI.* The requirements under paragraphs (c)(1) through (9) of this section apply to all Amendment 80 vessels except Amendment 80 vessels using dredge gear while directed fishing for scallops, and any other catcher/processor not listed in § 679.4(l)(2)(i) using trawl gear and fishing or receiving fish in the BSAI and in adjacent waters open by the State of Alaska for which it adopts a Federal fishing season. Except when using dredge gear while directed fishing for scallops, at all times when an Amendment 80 vessel or a catcher/processor not listed in § 679.4(l)(2)(i) using trawl gear has BSAI groundfish onboard the vessel, the vessel owner or operator must ensure that:
 
-(1) *Catch weighing.* All catch, except halibut sorted on deck by vessels participating in halibut deck sorting described at § 679.120, are weighed on a NMFS-approved scale in compliance with the scale requirements at § 679.28(b). Each haul must be weighed separately, all catch must be made available for sampling by a NMFS-certified observer, and no sorting of catch, except halibut sorted on deck by vessels participating in halibut deck sorting described at § 679.120, may take place prior to weighing.
+(1) *Catch weighing.* All catch, except halibut sorted on deck by vessels participating in halibut deck sorting described at § 679.102, are weighed on a NMFS-approved scale in compliance with the scale requirements at § 679.28(b). Each haul must be weighed separately, all catch must be made available for sampling by a NMFS-certified observer, and no sorting of catch, except halibut sorted on deck by vessels participating in halibut deck sorting described at § 679.102, may take place prior to weighing.
 
 (2) *Observer sampling station.* An observer sampling station meeting the requirements at § 679.28(d) is available at all times.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
 
 (iii) Halibut PSC used by an Amendment 80 vessel using dredge gear while directed fishing for scallops.
 
-[72 FR 52726, Sept. 14, 2007, as amended at 75 FR 53069, Aug. 30, 2010; 78 FR 12632, Feb. 25, 2013; 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019]
+[72 FR 52726, Sept. 14, 2007, as amended at 75 FR 53069, Aug. 30, 2010; 78 FR 12632, Feb. 25, 2013; 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 88 FR 77231, Nov. 9, 2023]

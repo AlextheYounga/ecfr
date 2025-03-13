@@ -1,5 +1,7 @@
 ##### § 946.12 State program provisions and amendments not approved. #####
 
+Link to an amendment published at 88 FR 85850, Dec. 11, 2023.
+
 (a) The following provisions are disapproved effective April 22, 1983: Paragraphs 3.01(a)(1), 3.01(a)(4) and 3.01 (a)(5) of the Virginia Coal Surface Mining and Reclamation Regulations for Operations Disturbing Two Surface Acres or Less.
 
 (b) The following provisions of the coal surface mining reclamation regulations promulgated pursuant to Chapter 19, Title 45.1 of the Code of Virginia (1950), as submitted on November 8, 1985, as hereby disapproved:

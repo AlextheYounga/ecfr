@@ -1,14 +1,12 @@
 ##### § 679.84 Rockfish Program recordkeeping, permits, monitoring, and catch accounting. #####
 
-Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
-
 (a) *Recordkeeping and reporting. See § 679.5(r).*
 
 (b) *Permits. See § 679.4(n).*
 
 (c) *Catch monitoring requirements for catcher/processors assigned to a rockfish cooperative.* The requirements under paragraphs (c)(1) through (10) of this section apply to any catcher/processor vessel assigned to a rockfish cooperative at all times when that vessel has groundfish onboard that were harvested under a CQ permit, or that were harvested by a vessel subject to a rockfish sideboard limit as described under § 679.82(c) through (f), as applicable. The vessel owner or operator must ensure that:
 
-(1) *Catch weighing.* All catch, except halibut sorted on deck by vessels participating in the halibut deck sorting described at § 679.120, is weighed on a NMFS-approved scale in compliance with the scale requirements at § 679.28(b). Each haul must be weighed separately and all catch must be made available for sampling by an observer.
+(1) *Catch weighing.* All catch, except halibut sorted on deck by vessels participating in the halibut deck sorting described at § 679.102, is weighed on a NMFS-approved scale in compliance with the scale requirements at § 679.28(b). Each haul must be weighed separately and all catch must be made available for sampling by an observer.
 
 (2) *Observer sampling station.* An observer sampling station meeting the requirements at § 679.28(d) is available at all times.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
 
 (4) *Halibut sideboard limits.* All halibut PSC in the GOA (including halibut PSC in the waters adjacent to the GOA when rockfish primary species and rockfish secondary species caught by that vessel are deducted from the Federal TAC specified under § 679.20) used by a catcher/processor vessel, except halibut PSC used by a vessel fishing under a CQ permit in the Central GOA, will be debited against the sideboard limit established for the rockfish cooperative or catcher/processor opt-out vessel, as applicable from July 1 until July 31.
 
-[67 FR 79734, Dec. 30, 2002, as amended at 77 FR 6502, Feb. 8, 2012; 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 86 FR 11904, Mar. 1, 2021]
+[67 FR 79734, Dec. 30, 2002, as amended at 77 FR 6502, Feb. 8, 2012; 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 86 FR 11904, Mar. 1, 2021; 88 FR 77231, Nov. 9, 2023]

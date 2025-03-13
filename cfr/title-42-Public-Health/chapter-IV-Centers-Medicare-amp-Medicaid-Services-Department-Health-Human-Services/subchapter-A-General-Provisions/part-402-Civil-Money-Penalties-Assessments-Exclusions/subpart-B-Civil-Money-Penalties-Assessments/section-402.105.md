@@ -1,7 +1,5 @@
 ##### § 402.105 Amount of penalty. #####
 
-Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
-
 (a) *$2,000.* Except as provided in paragraphs (b) through (h) of this section, CMS or OIG may impose a penalty of not more than $2,000 as adjusted annually under 45 CFR part 102 for each service, bill, or refusal to issue a timely refund that is subject to a determination under this part and for each incident involving the knowing, willful, and repeated failure of an entity furnishing a service to submit a properly completed claim form or to include on the claim form accurate information regarding the availability of other health insurance benefit plans (§ 402.1(c)(21)).
 
 (b) *$1,000.* CMS or OIG may impose a penalty of not more than $1,000 as adjusted annually under 45 CFR part 102 for the following:
@@ -12,7 +10,25 @@ Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
 
 (ii) Fails to include cost information.
 
-(2) Per individual about whom information is requested, for willful or repeated failure of an employer to respond to an intermediary or carrier about coverage of an employee or spouse under the employer's group health plan (§ 402.1(c)(20)).
+(2) For entities with reporting obligations under section 1862(b)(7) of the Act (“reporting entity”), if a reporting entity fails to report any beneficiary record within the specified period from the latter of the GHP coverage effective date or the Medicare beneficiary's entitlement date. The penalty is—
+
+(i) Calculated on a daily basis, based on the number of recently added beneficiary records reviewed where CMS identifies that the entity submitted the required information more than 1 year after the GHP coverage effective date for the individual; and
+
+(ii) $1,000 as adjusted annually under 45 CFR part 102 for each calendar day starting the day after 1 year (365 days) from the first instance of noncompliance, as defined in paragraph (b)(2)(i) of this section.
+
+(3) For entities with reporting obligations under section 1862(b)(8) of the Act (“applicable plan”) as follows:
+
+(i) If an applicable plan fails to report any NGHP beneficiary record within the specified period from the date of the settlement, judgment, award, or other payment (including the effective date of the assumption of ongoing payment responsibility for medical care). The penalty is—
+
+(A) Calculated on a daily basis, based on the number of recently added beneficiary records reviewed where CMS identifies that the entity submitted the required information more than 1 year after the date of settlement, judgment, award, or other payment (including the effective date of the assumption of ongoing payment responsibility for medical care);
+
+(B) $250 (as adjusted annually under 45 CFR part 102) for each calendar day of noncompliance as defined in paragraph (b)(3)(i)(A) of this section for each individual for which the required information should have been submitted, but was reported more than 1 year but less than 2 years after the required reporting date;
+
+(C) $500 (as adjusted annually under 45 CFR part 102) for each calendar day of noncompliance as defined in paragraph (b)(3)(i)(A) of this section for each individual for which the required information should have been submitted, but was reported 2 years or more, but less than 3 years, after the required reporting date; and
+
+(D) $1,000 (as adjusted annually under 45 CFR part 102), for each calendar day of noncompliance as defined in paragraph (b)(3)(i)(A) of this section for each individual for which the required information should have been submitted, but was reported 3 years or more after the required reporting date.
+
+(ii) The maximum penalty that may be imposed for noncompliance associated with any one individual for which the required information should have been submitted is $365,000 (as adjusted annually under 45 CFR part 102).
 
 (c) *$5,000.* CMS or OIG may impose a penalty of not more than $5,000 as adjusted annually under 45 CFR part 102 for each violation resulting from the following:
 
@@ -110,4 +126,4 @@ Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
 
 (h) *$100,000.* CMS or OIG may impose a penalty of not more than $10,000 as adjusted annually under 45 CFR part 102 for each knowing failure of an applicable manufacturer or an applicable group purchasing organization to report timely, accurately or completely a payment or other transfer of value or an ownership or investment interest (§ 402.1(c)(34)). The total penalty imposed with respect to knowing failures to report in an annual submission of information will not exceed $1,000,000 as annually adjusted under 45 CFR part 102.
 
-[63 FR 68690, Dec. 14, 1998, as amended at 66 FR 49546, Sept. 28, 2001; 72 FR 39752, July 20, 2007; 72 FR 46175, Aug. 17, 2007; 78 FR 9520, Feb. 8, 2013; 81 FR 61561, Sept. 6, 2016]
+[63 FR 68690, Dec. 14, 1998, as amended at 66 FR 49546, Sept. 28, 2001; 72 FR 39752, July 20, 2007; 72 FR 46175, Aug. 17, 2007; 78 FR 9520, Feb. 8, 2013; 81 FR 61561, Sept. 6, 2016; 88 FR 70372, Oct. 11, 2023]
