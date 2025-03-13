@@ -4,4 +4,6 @@
 
 (b) *Exceptions*—(1) *U.S. Coast Guard.* This part does not apply to any petition for rulemaking directed to the U.S. Coast Guard. Such petitions are governed by 33 CFR 1.05-20.
 
-(2) *Federal Emergency Management Agency.* This part does not apply to any petition for rulemaking directed to the Federal Emergency Management Agency. Such petitions are governed by 44 CFR 1.18.
+(2) *Federal Emergency Management Agency.* This part does not apply to any petition for rulemaking directed to the Federal Emergency Management Agency. Such petitions are governed by 44 CFR 1.8.
+
+[81 FR 47286, July 21, 2016, as amended at 89 FR 23500, Apr. 4, 2024]

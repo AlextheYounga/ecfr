@@ -32,7 +32,7 @@
 
 (ii) *Category 3 items for “development” or “production” of “advanced-node ICs.”* To or within Macau or a destination specified in Country Group D:5, any item not subject to the EAR and meeting the parameters of any ECCN in Product Groups B, C, D, or E in Category 3 of the CCL that you know will be used in the “development” or “production” of integrated circuits at a “facility” of an entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5 where “production” of integrated circuits occurs, but you do not know whether “production” of “advanced-node integrated circuits” occurs at such “facility”;
 
-(iii) *Semiconductor manufacturing equipment.* To or within either Macau or a destination specified in Country Group D:5, any item not subject to the EAR and meeting the parameters of ECCNs 3B001.a.4, c, d, f.1.b, k to p; 3B002.b and c; 3D001 (for 3B001.a.4, c, d, f.1.b, k to p, 3B002.b and c); 3D002 (for 3B001 a.4, c, d, f.1.b, k to p, 3B002.b and c); or 3E001 (for 3B001.a.4, c, d, f.1.b, k to p, 3B002.b and c) regardless of end use or end user.
+(iii) *Semiconductor manufacturing equipment.* To or within either Macau or a destination specified in Country Group D:5, any item not subject to the EAR and meeting the parameters of ECCNs 3B001.a.4, c, d, f.1.b, j to p; 3B002.b and c; 3D001 (for 3B001.a.4, c, d, f.1.b, j to p, 3B002.b and c); 3D002 (for 3B001 a.4, c, d, f.1.b, j to p, 3B002.b and c); or 3E001 (for 3B001.a.4, c, d, f.1.b, j to p, 3B002.b and c) regardless of end use or end user.
 
 (3) *Scope of activities of “U.S. persons” that require a license under paragraph (c)(2) of this section*—(i) *Controlled activities.* The U.S. persons controls in paragraphs (c)(2)(i) through (iii) of this section apply to persons who:
 
@@ -66,6 +66,16 @@
 
 (2) Applications for a “U.S. person” to 'support' (as defined in paragraph (b)(6) of this section) a 'military-intelligence end use' or a 'military-intelligence end user' as described in paragraph (b)(5) of this section will be reviewed with a presumption of denial.
 
-(3) Applications for licenses submitted pursuant to the notice of a license requirement set forth in paragraph (c)(2) of this section will be reviewed with a presumption of denial for Macau and destinations in Country Group D:5, except activities involving a foreign-made item that is not subject to the EAR and performs the same function as an item subject to the EAR, which will be reviewed with a presumption of approval. All other applications will be reviewed with a license review policy of case-by-case and consider factors, such as technology level, customers, and compliance plans.
+(3) Applications for licenses submitted pursuant to the notice of a license requirement set forth in paragraph (c)(2) of this section will be reviewed in accordance with the policies described in paragraphs (e)(1) through (3) of this section. License review will take into account factors including technology level, customers, compliance plans, and contract sanctity.
 
-[86 FR 4871, Jan. 15, 2021, as amended at 86 FR 18436, Apr. 9, 2021; 86 FR 70018, Dec. 9, 2021; 87 FR 13059, Mar. 8, 2022; 87 FR 62199, Oct. 13, 2022; 88 FR 2825, Jan. 18, 2023; 88 FR 73448, 73494, Oct. 25, 2023]
+(i) *Presumption of denial.* Applications will be reviewed with a presumption of denial for Macau and destinations specified in Country Group D:5 and entities headquartered or whose ultimate parent is headquartered in Macau or destinations specified in Country Group D:5, unless paragraph (e)(3)(ii) of this section applies.
+
+(ii) *Case-by-case.* Applications will be reviewed with a case-by-case policy for license applications that meet either of the following conditions:
+
+(A) For items specified in ECCN 3A090, 4A090, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z, except for items designed or marketed for use in a datacenter and meeting the parameters of 3A090.a;
+
+(B) For activities involving an item subject to the license requirements of paragraph (c)(2) of this section where there is an item not subject to the license requirements of paragraph (c)(2) that performs the same function as an item meeting the license requirements of paragraph (c)(2); or
+
+(C) For all other applications not specified in paragraph (e)(3)(i) or (e)(3)(ii)(A) or (B) of this section.
+
+[86 FR 4871, Jan. 15, 2021, as amended at 86 FR 18436, Apr. 9, 2021; 86 FR 70018, Dec. 9, 2021; 87 FR 13059, Mar. 8, 2022; 87 FR 62199, Oct. 13, 2022; 88 FR 2825, Jan. 18, 2023; 88 FR 73448, 73494, Oct. 25, 2023; 89 FR 23885, Apr. 4, 2024]

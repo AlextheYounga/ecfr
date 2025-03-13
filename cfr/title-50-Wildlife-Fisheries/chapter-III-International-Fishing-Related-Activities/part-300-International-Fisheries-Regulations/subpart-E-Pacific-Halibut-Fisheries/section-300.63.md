@@ -1,7 +1,5 @@
 ##### § 300.63 Catch sharing plan and domestic management measures in Area 2A. #####
 
-Link to an amendment published at 89 FR 22969, Apr. 3, 2024.
-
 (a) *General provisions.* (1) Under 16 U.S.C. 773c, a fishery management council may develop regulations governing the domestic halibut fishery that do not conflict with the regulations set by the International Pacific Halibut Commission. NMFS may approve and implement such regulations. The Pacific Fishery Management Council has developed a catch sharing plan that provides a framework for allocation of Pacific halibut for Area 2A and sets management measures for fisheries in Area 2A. NMFS implements annual management measures consistent with the catch sharing plan through annual rules published in the Federal Register. Long term provisions included in and necessary to implement the catch sharing plan are included in the sections that follow.
 
 (2) A portion of the Area 2A non-tribal commercial allocation is allocated as incidental catch in the salmon troll fishery in Area 2A pursuant to § 300.62. Each year the landing restrictions necessary to keep the fishery within its allocation will be recommended by the Pacific Fishery Management Council at its spring meetings and will be promulgated in the annual salmon management measures described at 660 Subpart H. This fishery will occur between dates and times listed in the annual management measures as described at § 300.62, until there is not sufficient allocation and the season is closed by NMFS.
@@ -54,8 +52,6 @@ Link to an amendment published at 89 FR 22969, Apr. 3, 2024.
 
 (*1*) This subarea is divided between the all-depth fishery (the Washington South Coast primary fishery) and the incidental nearshore fishery in the area from 47°31.70′ N to 46°58.00′ N lat. and east of a boundary line approximating the 30-fm (55-m) depth contour. The Washington South coast northern nearshore area is defined by straight lines connecting the following points in the order stated:
 
-Table 1 to Paragraph (c)(5)(i)(C)(1)
-
 |Point| N lat.  | W long.  |
 |-----|---------|----------|
 |  1  |47°31.70′|124°37.03′|
@@ -91,7 +87,11 @@ Table 1 to Paragraph (c)(5)(i)(C)(1)
 
 (*2*) [Reserved]
 
-(iii) *California Coast Subarea.* The California Coast Subarea is located south of the Oregon/California Border (42°00.00′ N lat.) and along the California coast.
+(iii) *California.* The California recreational fishery is divided into the following subareas:
+
+(A) *Northern California Coast Subarea.* The Northern California Coast subarea is located south of the OR/CA border (42°00.00′ N lat.) to Point Arena (38°57.5′ N lat.).
+
+(B) *South of Point Arena Subarea.* The South of Point Area subarea is located south of Point Arena (38°57.5′ N lat.) to the U.S./Mexico border.
 
 (6) *Inseason Management for Recreational (Sport) Halibut Fisheries in Area 2A.* (i) The Regional Administrator, NMFS West Coast Region, after consultation with the Pacific Fishery Management Council, the Commission, and the affected state(s), may modify regulations during the season after making the following determinations:
 
@@ -105,7 +105,9 @@ Table 1 to Paragraph (c)(5)(i)(C)(1)
 
 (E) If the total estimated yelloweye rockfish bycatch mortality from recreational halibut trips in all Oregon subareas is projected to exceed 22 percent of the annual Oregon recreational yelloweye rockfish harvest guideline, NMFS may take inseason action to reduce yelloweye rockfish bycatch mortality in the halibut fishery while allowing allocation objectives to be met to the extent possible.
 
-(ii) Flexible inseason management provisions include, but are not limited to, the following:
+(F) If any state is projected to not utilize its respective recreational allocation by the end of the fishing season, NMFS may take inseason action to transfer any projected unused allocation to another state. After a state notifies NMFS of the amount of their recreational subarea allocation in net pounds that is projected to be unused after accounting for state management objectives, NMFS may take inseason action to reallocate the amount of net pounds available equally to the other two states. If a state eligible to receive the additional pounds declines all or part of the additional pounds, or NMFS determines a state is unlikely to use additional allocation, a portion or the full amount of the remainder would go to the other state.
+
+(ii) Inseason management provisions include, but are not limited to, the following:
 
 (A) Modification of recreational (sport) fishing periods;
 
@@ -115,9 +117,11 @@ Table 1 to Paragraph (c)(5)(i)(C)(1)
 
 (D) Modification of recreational (sport) fishing days per calendar week;
 
-(E) Modification of subarea allocation; and
+(E) Modification of state recreational allocation, including a shift in recreational allocation from one state to another;
 
-(F) Modification of the Stonewall Bank Yelloweye Rockfish Conservation Area (YRCA) restrictions off Oregon using YRCA expansions as defined in groundfish regulations at 50 CFR 660.70(g) or (h).
+(F) Modification of subarea allocation; and
+
+(G) Modification of the Stonewall Bank Yelloweye Rockfish Conservation Area (YRCA) restrictions off Oregon using YRCA expansions as defined in groundfish regulations at 50 CFR 660.70(g) or (h).
 
 (iii) *Notice procedures.* Actions taken under this section will be published in the Federal Register. Notice of inseason management actions will be provided by a telephone hotline administered by the West Coast Region, NMFS, at 206-526-6667 or 800-662-9825.
 
@@ -221,8 +225,6 @@ Table 1 to Paragraph (c)(5)(i)(C)(1)
 
 (B) *Vessel classes.* Vessel classes are based on overall length (defined at 46 CFR 69.9) shown in the following table:
 
-Table 2 to Paragraph (e)(1)(ii)(B)
-
 |Overall length  <br/>(in feet)|Vessel class|
 |------------------------------|------------|
 |             1-25             |     A      |
@@ -266,4 +268,4 @@ Table 2 to Paragraph (e)(1)(ii)(B)
 
 (12) *Bandon High Spot East EFHCA.* EFHCAs are defined in the groundfish regulations at 50 CFR 660.70. It is unlawful for non-tribal commercial vessels operating in the directed halibut fishery in Area 2A to take and retain, possess (except for the purpose of continuous transit) or land halibut within the Bandon High Spot East EFHCA. All fishing gear for targeting halibut must be stowed while transiting through the Bandon High Spot East EFCHA.
 
-[88 FR 21506, Apr. 11, 2023, as amended at 88 FR 83839, Dec. 1, 2023]
+[88 FR 21506, Apr. 11, 2023, as amended at 88 FR 83839, Dec. 1, 2023; 89 FR 22969, Apr. 3, 2024]

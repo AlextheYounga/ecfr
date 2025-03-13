@@ -1,6 +1,6 @@
 ##### § 301.38-2 Regulated articles. #####
 
-(a) *Rust-resistant regulated articles.* The Administrator has determined that certain *Berberis* species and varieties are rust-resistant. A list of all such articles is located at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/barberry/ct\_barberry.*
+(a) *Rust-resistant regulated articles.* The Administrator has determined that certain *Berberis* , *Mahoberberis,* and *Mahonia* species and varieties are rust-resistant. A list of all such articles is located at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/barberry/ct\_barberry.*
 
 (b) *Berberis, Mahoberberis, and Mahonia.* All plants, seeds, fruits, and other plant parts capable of propagation from rust-susceptible species and varieties of the genera Berberis, Mahoberberis, and Mahonia, except Mahonia cuttings for decorative purposes, are regulated articles.
 
@@ -12,4 +12,4 @@
 
 (d) *Immediate designation of regulated articles.* Any other product or article not listed at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/barberry/ct\_barberry* is a regulated article if an inspector determines it presents a risk of spread of black stem rust. The inspector must notify the person in possession of the product or article that it is subject to the provisions of this subpart.
 
-(Approved by the Office of Management and Budget under control number 0579-0186)[87 FR 80004, Dec. 29, 2022]
+(Approved by the Office of Management and Budget under control number 0579-0186)[87 FR 80004, Dec. 29, 2022, as amended at 89 FR 23501, Apr. 4, 2024]

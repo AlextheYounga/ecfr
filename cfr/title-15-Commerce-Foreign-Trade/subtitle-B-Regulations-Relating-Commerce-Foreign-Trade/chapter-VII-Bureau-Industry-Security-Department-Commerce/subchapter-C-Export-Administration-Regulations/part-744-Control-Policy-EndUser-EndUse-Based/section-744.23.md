@@ -30,18 +30,44 @@ Note 1 to paragraph (a)(3)(ii):
 
 This paragraph (a)(3)(ii) includes items subject to the EAR pursuant to the foreign direct product rule in § 734.9(h)(1)(i)(B)(*1*) and (h)(2)(ii) of the EAR.
 
-(4) *Semiconductor manufacturing equipment (SME).* Any item subject to the EAR and specified on the CCL when destined to either Macau or a destination specified in Country Group D:5 for the “development” or “production” of `front-end integrated circuit “production” equipment' and “components,” “assemblies,” and “accessories” therefor specified in ECCN 3B001 (except 3B001.g, .h, and .j), 3B002, 3B611, 3B991 (except 3B991.b.2), or 3B992.
+(4) *Semiconductor manufacturing equipment (SME) and “components,” “assemblies,” and “accessories”.* A license is required for export, reexport, or transfer (in-country) if either paragraph (a)(4)(i) or (ii) of this section applies.
+
+(i) *Directly destined to Macau and Country Group D:5.* Any item subject to the EAR and specified on the CCL when destined to or within either Macau or a destination specified in Country Group D:5 for the “development” or “production” of 'front-end integrated circuit “production” equipment' and “components,” “assemblies,” and “accessories” therefor specified in ECCN 3B001 (except 3B001.g and .h), 3B002, 3B611, 3B991 (except 3B991.b.2.a through .b), 3B992, or associated “software” and “technology” in 3D or 3E of the CCL.
+
+(ii) *Indirect exports, reexports, or transfers (in-country).* Any item subject to the EAR and specified on the CCL for export, reexport, or transfer (in-country), if all of the following apply:
+
+(A) The item is for “development” or “production” of a foreign-made item, whether subject to the EAR or not, that is specified in an ECCN listed in paragraph (i);
+
+(B) When the foreign-made item is for “development” or “production” of any initial or subsequent foreign-made item, whether subject to the EAR or not, specified in an ECCN listed in paragraph (a)(4)(i) of this section; *and*
+
+(C) The “development” or “production” is by an entity headquartered in, or with an ultimate parent headquartered in, Macau or a destination specified in Country Group D:5.
 
 Note 1 to paragraph (a)(4):
 
 Front-end integrated circuit “production” equipment includes equipment used in the production stages from a blank wafer or substrate to a completed wafer or substrate (*i.e.,* the integrated circuits are processed but they are still on the wafer or substrate). If there is a question at the time of export, reexport, or transfer (in-country) about whether equipment is used in front-end integrated circuit “production,” you may submit an advisory opinion request to BIS pursuant to § 748.3(c) of the EAR for clarification.
 
+Note 2 to paragraph (a)(4):
+
+For transactions involving “development” or “production” in Macau or a destination specified in Country Group D:5 by an entity that is headquartered in Macau or a destination specified in Country Group D:5, but the “development” or “production” is undertaken at the direction of an entity headquartered in the United States or a destination specified in Country Group A:5 or A:6, refer to General Order No. 4 in Supp. No. 1 to Part 736 (Temporary General License—Less restricted SME “parts,” “components,” or “equipment”).
+
 (5) *Back-end exclusion.* For purposes of paragraph (a)(2) of this section, the term “production” does not apply to back-end steps such as assembly, test, or packaging that do not alter the integrated circuit technology level. If there is a question at the time of export, reexport, or transfer (in-country) about whether a manufacturing stage is back-end or whether a back-end activity alters the technology level, you may submit an Advisory Opinion request to BIS pursuant to § 748.3(c) of the EAR for clarification.
 
 (b) *Additional prohibition on persons informed by BIS.* BIS may inform persons, either individually by specific notice or through amendment to the EAR published in the Federal Register, that a license is required for a specific export, reexport, or transfer (in-country) of any item subject to the EAR to a certain end-user, because there is an unacceptable risk of use in, or diversion to, the end uses specified in paragraphs (a)(1) through (4) of this section. Specific notice is to be given only by, or at the direction of, the Deputy Assistant Secretary for Export Administration. When such notice is provided orally, it will be followed by a written notice within two working days signed by the Deputy Assistant Secretary for Export Administration or the Deputy Assistant Secretary's designee. However, the absence of any such notification does not excuse persons from compliance with the license requirements of paragraph (a) of this section.
 
-(c) *License exceptions.* No license exceptions may overcome the prohibition described in paragraph (a) of this section.
+(c) *License exceptions.* No license exceptions may overcome the prohibition described in paragraph (a) of this section, except the prohibitions in paragraphs (a)(4) and (a)(3)(i) of this section may be overcome by license exceptions in § 740.2(a)(9)(i) or (ii) of the EAR, respectively.
 
-(d) *License review standards.* Applications will be reviewed with a presumption of denial for Macau and destinations specified in Country Group D:5. However, there is a presumption of approval license review policy when there is a foreign-made item available that is not subject to the EAR and performs the same function as the item subject to the EAR, and for end users headquartered in the United States or a destination in Country Group A:5 or A:6, that are not majority-owned by an entity headquartered in either Macau or a destination specified in Country Group D:5. For all other applications, there is a case-by-case license review policy. License review will take into account factors including technology level, customers, and compliance plans. Contract sanctity will be a factor in the review of all applications.
+(d) *License review standards.* License review will consider several factors including technology level, customers, compliance plans, and contract sanctity.
 
-[88 FR 73449, Oct. 25, 2023, as amended at 88 FR 73495, Oct. 25, 2023]
+(1) *Presumption of denial.* Applications will be reviewed with a presumption of denial for Macau and destinations specified in Country Group D:5 and any entity headquartered in, or with an ultimate parent headquartered in, Macau or a destination specified in Country Group D:5, unless either paragraph (d)(2) or (3) applies.
+
+(2) *Presumption of approval.* Applications will be reviewed with a presumption of approval for end users headquartered in the United States or a destination specified in Country Group A:5 or A:6, that are not majority-owned by an entity headquartered in either Macau or a destination specified in Country Group D:5.
+
+(3) *Case-by-case.* There is a case-by-case license review policy for license applications that meet one of the following conditions:
+
+(i) For items specified in ECCN 3A090, 4A090, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z, except for items designed or marketed for use in a datacenter and meeting the parameters of 3A090.a;
+
+(ii) For items subject to the license requirements of this section where there is a foreign-made item that is not subject to the license requirements of this section and performs the same function as an item subject to the EAR license requirements of this section; or
+
+(iii) For all other applications not specified in paragraph (d)(1) or (2) or (d)(3)(i) or (ii).
+
+[88 FR 73449, Oct. 25, 2023, as amended at 88 FR 73495, Oct. 25, 2023; 89 FR 23886, Apr. 4, 2024]
