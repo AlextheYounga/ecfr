@@ -1,5 +1,7 @@
 ##### § 117.627 Cheboygan River. #####
 
+Link to an amendment published at 88 FR 70592, Oct. 12, 2023.
+
 The draw of the US 23 highway bridge, mile 0.9 at Cheboygan shall operate as follows:
 
 (a) From April 1 through May 15 and from September 16 through December 14, the draw shall open on signal.

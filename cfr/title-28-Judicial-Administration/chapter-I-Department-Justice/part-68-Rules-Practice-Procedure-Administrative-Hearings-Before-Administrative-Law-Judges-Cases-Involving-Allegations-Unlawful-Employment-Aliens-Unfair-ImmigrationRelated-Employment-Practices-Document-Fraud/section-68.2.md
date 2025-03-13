@@ -60,9 +60,9 @@ For purposes of this part:
 
 *Document fraud cases* means cases involving allegations under section 274C of the INA.
 
-*Entry* means the date the Administrative Law Judge, Chief Administrative Hearing Officer, or the Attorney General signs the order; *Entry* as used in section 274B(i)(1) of the INA means the date the Administrative Law Judge signs the order;
+*Entry* means the date the Administrative Law Judge, the Chief Administrative Hearing Officer, or the Attorney General signs the order;
 
-*Final agency order* is an Administrative Law Judge's final order, in cases arising under sections 274A and 274C of the INA, that has not been modified, vacated, or remanded by the Chief Administrative Hearing Officer pursuant to § 68.54, referred to the Attorney General for review pursuant to § 68.55(a), or accepted by the Attorney General for review pursuant to § 68.55(b)(3). Alternatively, if the Chief Administrative Hearing Officer modifies or vacates the final order pursuant to § 68.54, the modification or vacation becomes the final agency order if it has not been referred to the Attorney General for review pursuant to § 68.55(a) or accepted by the Attorney General for review pursuant to § 68.55(b)(3). If the Attorney General enters an order that modifies or vacates either the Chief Administrative Hearing Officer's or the Administrative Law Judge's order, the Attorney General's order is the final agency order. In cases arising under section 274B of the INA, an Administrative Law Judge's final order is also the final agency order;
+*Final agency order* is an Administrative Law Judge's final order, in cases arising under sections 274A, 274B, and 274C of the INA, that has not been modified, vacated, or remanded by the Chief Administrative Hearing Officer pursuant to § 68.54, referred to the Attorney General for review pursuant to § 68.55(a) or accepted by the Attorney General for review pursuant to § 68.55(b)(3). Alternatively, if the Chief Administrative Hearing Officer modifies or vacates the final order pursuant to § 68.54, the modification or vacatur becomes the final agency order if it has not been referred to the Attorney General for review pursuant to § 68.55(a) or accepted by the Attorney General for review pursuant to § 68.55(b)(3). If the Attorney General enters an order that modifies or vacates either the Chief Administrative Hearing Officer's or the Administrative Law Judge's order, the Attorney General's order is the final agency order.
 
 *Final order* is an order by an Administrative Law Judge that disposes of a particular proceeding or a distinct portion of a proceeding, thereby concluding the jurisdiction of the Administrative Law Judge over that proceeding or portion thereof;
 
@@ -94,4 +94,4 @@ For purposes of this part:
 
 *Unlawful employment cases* means cases involving allegations under section 274A of the INA, other than prohibition of indemnity bond cases.
 
-[Order No. 2203-99, 64 FR 7073, Feb. 12, 1999, as amended by Order No. 2255-99, 64 FR 49660, Sept. 14, 1999; AG Order No. 4840-2020, 85 FR 63206, Oct. 7, 2020]
+[Order No. 2203-99, 64 FR 7073, Feb. 12, 1999, as amended by Order No. 2255-99, 64 FR 49660, Sept. 14, 1999; AG Order No. 4840-2020, 85 FR 63206, Oct. 7, 2020; AG Order No.5812-2023, 88 FR 70590, Oct. 12, 2023]

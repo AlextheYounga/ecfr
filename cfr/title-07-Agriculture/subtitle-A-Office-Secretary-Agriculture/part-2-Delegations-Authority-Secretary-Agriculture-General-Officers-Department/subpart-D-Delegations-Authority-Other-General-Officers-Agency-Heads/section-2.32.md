@@ -106,6 +106,8 @@
 
 (13) *Related to the Privacy Act.* Appoint a Department Privacy Act Officer; oversee general officers and agency heads in the development and implementation of policies issued pursuant to the provisions of the Privacy Act, 5 U.S.C. 552a; and provide consultation and guidance regarding those policies.
 
+(14) Administer the Controlled Unclassified Information (CUI) Program for the Department pursuant to E.O. 13556, “Controlled Unclassified Information” (75 FR 68675, 3 CFR, 2011 Comp., p. 267) and 32 CFR part 2002.
+
 (b) [Reserved]
 
-[85 FR 65512, Oct. 15, 2020]
+[85 FR 65512, Oct. 15, 2020, as amended at 88 FR 70580, Oct. 12, 2023]

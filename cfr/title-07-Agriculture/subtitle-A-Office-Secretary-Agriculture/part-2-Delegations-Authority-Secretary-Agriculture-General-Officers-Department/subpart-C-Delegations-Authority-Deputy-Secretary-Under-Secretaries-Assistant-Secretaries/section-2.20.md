@@ -150,7 +150,7 @@
 
 (xlii) Administer a program for providing loans to eligible units of local government to finance the purchase of equipment to monitor, remove, dispose of, and replace infested trees located under their jurisdiction and within the borders of quarantined areas (16 U.S.C. 2104a).
 
-(xliii) [Reserved]
+(xliii) Enforce and conduct investigations of violations of the Lacey Act, which prohibits importing or exporting any plant or plant product in interstate or foreign commerce in violation of any Federal, State, Tribal, or foreign law regulating plants or plant products (16 U.S.C. 3371-3378).
 
 (xliv) Administer the community wood energy program providing grants to develop community wood energy plans, acquire or upgrade community wood energy systems, and establish or expand biomass consumer cooperatives (7 U.S.C. 8113).
 
@@ -250,4 +250,4 @@
 
 (2) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 1031, Jan. 8, 1997; 64 FR 32797, June 18, 1999; 64 FR 34967, June 30, 1999; 65 FR 12428, Mar. 9, 2000; 67 FR 59135, Sept. 30, 2002; 68 FR 27437, May 20, 2003; 69 FR 34252, June 21, 2004; 72 FR 36859, July 6, 2007; 74 FR 3403, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44107, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 85 FR 65506, Oct. 15, 2020; 87 FR 44267, July 26, 2022]
+[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 1031, Jan. 8, 1997; 64 FR 32797, June 18, 1999; 64 FR 34967, June 30, 1999; 65 FR 12428, Mar. 9, 2000; 67 FR 59135, Sept. 30, 2002; 68 FR 27437, May 20, 2003; 69 FR 34252, June 21, 2004; 72 FR 36859, July 6, 2007; 74 FR 3403, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44107, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 85 FR 65506, Oct. 15, 2020; 87 FR 44267, July 26, 2022]; 88 FR 70579, Oct. 12, 2023

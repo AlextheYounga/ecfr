@@ -62,7 +62,7 @@
 
 (xiv) [Reserved]
 
-(11) Administer the Controlled Unclassified Information (CUI) program for the Department pursuant to E.O. 13556, “Controlled Unclassified Information” (75 FR 68675, 3 CFR, 2011 Comp., p. 267) and 32 CFR part 2002.
+(11) [Reserved]
 
 (12) Serve as the primary point of contact for Government Accountability Office (GAO) and Office of the Inspector General (OIG) audits of USDA homeland and national security activities.
 
@@ -104,4 +104,4 @@
 
 (ii) Maintain and ensure compliance with the Nuclear Regulatory Commission regulations (Title 10, Code of Federal Regulations) and license(s) issued to USDA for the acquisition, use, and disposal of radioactive materials.
 
-[87 FR 44270, July 26, 2022]
+[87 FR 44270, July 26, 2022, as amended at 88 FR 70580, Oct. 12, 2023]

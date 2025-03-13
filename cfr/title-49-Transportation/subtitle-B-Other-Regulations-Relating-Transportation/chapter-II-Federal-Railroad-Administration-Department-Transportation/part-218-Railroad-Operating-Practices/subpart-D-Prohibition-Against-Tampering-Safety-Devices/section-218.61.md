@@ -1,5 +1,7 @@
 ##### § 218.61 Authority to deactivate safety devices. #####
 
+Link to an amendment published at 88 FR 70760, Oct. 12, 2023.
+
 (a) For the purpose of this chapter, it is lawful to temporarily render a safety device incapable of proper or effective action or to materially impair its function if this action is taken as provided for in paragraph (b) or (c) of this section.
 
 (b) If a locomotive is equipped with a device to assure that the operator is alert or not physically incapacitated, that device may be deactivated when:

@@ -1,5 +1,7 @@
 ##### § 299.5 Definitions. #####
 
+Link to an amendment published at 88 FR 70764, Oct. 12, 2023.
+
 As used in this part—
 
 *Absolute block* means a block of track circuits in which no trainset is permitted to enter while occupied by another trainset.

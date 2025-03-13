@@ -178,7 +178,7 @@
 
 (44) Administer the Public Lands Corps program (16 U.S.C. 1721 *et seq.*) for USDA consistent with the Department's overall national service program.
 
-(45) [Reserved]
+(45) Enforce and conduct investigations of violations of the Lacey Act, which prohibits importing or exporting any plant or plant product in interstate or foreign commerce in violation of any federal, state, Tribal, or foreign law regulating plants or plant products (16 U.S.C. 3371-3378).
 
 (46) Focusing on countries that could have a substantial impact on global warming, provide assistance that promotes sustainable development and global environmental stability; share technical, managerial, extension, and administrative skills; provide education and training opportunities; engage in scientific exchange; and cooperate with domestic and international organizations that further international programs for the management and protection of forests, rangelands, wildlife, fisheries and related natural resources (16 U.S.C. 4501-4505).
 
@@ -234,4 +234,4 @@
 
 (7) The authority to approve disbursements from the New World Mine Response and Restoration Account and the authority to prepare and approve the New World Mine Response and Restoration Plan, including the coordination of the response and restoration activities of the Forest Service and the other Federal and State agencies, and make quarterly reports to Congress under section 502(d) and (f) of Title V of the Department of the Interior and Related Agencies Appropriations Act of 1998, Pub. L. 105-83.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 64 FR 34967, June 30, 1999; 65 FR 12429, Mar. 9, 2000; 67 FR 59135, Sept. 20, 2002; 72 FR 36859, July 6, 2007; 74 FR 3408, Jan. 21, 2009; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014; 85 FR 65516, Oct. 15, 2020; 87 FR 44270, July 26, 2022]
+[60 FR 56393, Nov. 8, 1995, as amended at 64 FR 34967, June 30, 1999; 65 FR 12429, Mar. 9, 2000; 67 FR 59135, Sept. 20, 2002; 72 FR 36859, July 6, 2007; 74 FR 3408, Jan. 21, 2009; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014; 85 FR 65516, Oct. 15, 2020; 87 FR 44270, July 26, 2022; 88 FR 70580, Oct. 12, 2023]

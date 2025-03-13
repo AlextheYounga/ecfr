@@ -84,6 +84,10 @@
 
 (f) *Corrections to orders.* An Administrative Law Judge may, in the interest of justice, correct any clerical mistakes or typographical errors contained in a final order entered in a case arising under section 274A or 274C of the INA at any time within thirty (30) days after the entry of the final order. Changes other than clerical mistakes or typographical errors will be considered in cases arising under sections 274A and 274C of the INA by filing a request for review to the Chief Administrative Hearing Officer by a party under § 68.54, or the Chief Administrative Hearing Officer may exercise discretionary review to make such changes pursuant to § 68.54. In cases arising under section 274B of the INA, an Administrative Law Judge may correct any substantive, clerical, or typographical errors or mistakes in a final order at any time within sixty (60) days after the entry of the final order.
 
-(g) *Final agency order.* In a case arising under section 274A or 274C of the INA, the Administrative Law Judge's order becomes the final agency order sixty (60) days after the date of the Administrative Law Judge's order, unless the Chief Administrative Hearing Officer modifies, vacates, or remands the Administrative Law Judge's final order pursuant to § 68.54, or unless the order is referred to the Attorney General pursuant to § 68.55. In a case arising under section 274B of the INA, the Administrative Law Judge's order becomes the final agency order on the date the order is issued.
+(g) *Final agency order.* In a case arising under section 274A, 274B, or 274C of the INA, the Administrative Law Judge's order becomes the final agency order sixty (60) days after the date of entry of the Administrative Law Judge's order, unless:
 
-[Order No. 2203-99, 64 FR 7079, Feb. 12, 1999, as amended by Order No. 2255-99, 64 FR 49660, Sept. 14, 1999; Order No. 2944-2008, 73 FR 10136, Feb. 26, 2008; AG Order 3690-2016, 81 FR 42499, June 30, 2016]
+(1) In a case arising under section 274A or 274C of the INA, the Chief Administrative Hearing Officer modifies, vacates, or remands the Administrative Law Judge's final order pursuant to § 68.54; or
+
+(2) In a case arising under section 274A, 274B, or 274C of the INA, the order is referred to the Attorney General pursuant to § 68.55.
+
+[Order No. 2203-99, 64 FR 7079, Feb. 12, 1999, as amended by Order No. 2255-99, 64 FR 49660, Sept. 14, 1999; Order No. 2944-2008, 73 FR 10136, Feb. 26, 2008; AG Order 3690-2016, 81 FR 42499, June 30, 2016; AG Order No.5812-2023, 88 FR 70591, Oct. 12, 2023]

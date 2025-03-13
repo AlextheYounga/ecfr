@@ -1,5 +1,7 @@
 ##### § 120.883 Eligible administrative costs for 504 loans. #####
 
+Link to an amendment published at 88 FR 70586, Oct. 12, 2023.
+
 The following administrative costs are not part of Project costs, but may be paid with the proceeds of the 504 loan and the Debenture (see § 120.971):
 
 (a) SBA guarantee fee;

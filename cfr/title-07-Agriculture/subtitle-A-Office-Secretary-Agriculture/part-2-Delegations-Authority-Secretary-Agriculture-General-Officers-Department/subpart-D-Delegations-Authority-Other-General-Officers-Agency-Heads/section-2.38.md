@@ -26,7 +26,7 @@
 
 (xi) Provide strategic planning and performance measurement, coordinate outreach activities, monitor goals and objectives, and evaluate programs, of Department programs and activities involving small farms or ranches and beginning or socially disadvantaged farmers or ranchers.
 
-(xii) Administer the USDA/1994 Land Grant Institutions (Tribal Colleges) Programs.
+(xii) [Reserved]
 
 (xiii) Administer the USDA/1890 Liaison Officer Program.
 
@@ -40,7 +40,7 @@
 
 (3) Oversee the Military Veterans Agricultural Liaison (7 U.S.C. 6919).
 
-(4) Oversee the Center for Faith-Based and Neighborhood Partnerships.
+(4) [Reserved]
 
 (5) Oversee the Women in Agriculture Initiative.
 
@@ -52,4 +52,4 @@
 
 (b) [Reserved]
 
-[83 FR 61312, Nov. 29, 2018, as amended at 85 FR 65514, Oct. 15, 2020; 87 FR 44269, July 26, 2022]
+[83 FR 61312, Nov. 29, 2018, as amended at 85 FR 65514, Oct. 15, 2020; 87 FR 44269, July 26, 2022; 88 FR 70580, Oct. 12, 2023]

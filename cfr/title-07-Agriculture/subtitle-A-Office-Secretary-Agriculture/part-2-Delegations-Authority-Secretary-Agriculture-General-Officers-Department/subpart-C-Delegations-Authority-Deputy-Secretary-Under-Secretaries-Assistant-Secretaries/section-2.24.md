@@ -380,7 +380,7 @@
 
 (N) [Reserved]
 
-(xi) Administer the Controlled Unclassified Information (CUI) program for the Department pursuant to E.O. 13556, “Controlled Unclassified Information” (75 FR 68675, 3 CFR, 2011 Comp., p. 267) and 32 CFR part 2002.
+(xi)[Reserved]
 
 (xii) Serve as the primary point of contact for Government Accountability Office (GAO) and Office of the Inspector General (OIG) audits of USDA homeland and national security activities.
 
@@ -546,4 +546,4 @@
 
 (ii) [Reserved]
 
-[75 FR 43368, July 23, 2010, as amended at 77 FR 14951,14952, Mar. 14, 2012; 78 FR 40937, July 9, 2013; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018; 85 FR 65510, Oct. 15, 2020; 87 FR 44267, July 26, 2022]
+[75 FR 43368, July 23, 2010, as amended at 77 FR 14951,14952, Mar. 14, 2012; 78 FR 40937, July 9, 2013; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018; 85 FR 65510, Oct. 15, 2020; 87 FR 44267, July 26, 2022; 88 FR 70579, Oct. 12, 2023]

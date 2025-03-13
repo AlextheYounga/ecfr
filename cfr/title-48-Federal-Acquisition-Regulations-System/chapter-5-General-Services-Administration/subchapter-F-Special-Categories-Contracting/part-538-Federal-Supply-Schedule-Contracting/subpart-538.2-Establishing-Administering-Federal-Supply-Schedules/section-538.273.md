@@ -1,7 +1,5 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 88 FR 62473, Sept. 12, 2023.
-
 (a) As prescribed in this paragraph, insert the following provisions in the beginning of FSS solicitations:
 
 (1) 552.238-70, Cover Page for Worldwide Federal Supply Schedules. Use in all FSS solicitations. Use Alternate I for single award Federal Supply Schedules.
@@ -76,7 +74,7 @@ Link to an amendment published at 88 FR 62473, Sept. 12, 2023.
 
 (21) 552.238-97, Parts and Service. Use in all FSS solicitations and contracts.
 
-(22) 552.238-98, Clauses for Overseas Coverage. Use only in FSS solicitations and contracts when overseas acquisition is contemplated. The following clauses and provisions shall also be inserted in full text, when applicable.
+(22) 552.238-98, Clauses for Overseas Coverage. Use only in FSS solicitations and contracts when overseas acquisition is contemplated. The GSAR clauses and GSAR provisions in paragraphs (d)(22)(i) through (xi) of this section shall also be inserted in full text, when applicable.
 
 (i) 52.214-34 Submission of Offers in the English Language.
 
@@ -128,6 +126,8 @@ Link to an amendment published at 88 FR 62473, Sept. 12, 2023.
 
 (36) 552.238-116, Option to Extend the Term of the FSS Contract. Use in FSS solicitations and contracts when appropriate.
 
+(37) 552.238-117, Price Adjustment—Failure to Provide Accurate Information. Use only in FSS solicitations and contracts under the MAS program. This clause is used when the contract contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting.
+
 (e) Insert the following fill-in information within the blank of paragraph (d) of FAR clause 52.216-22, Indefinite Quantity: “the completion of customer order, including options, 60 months following the expiration of the FSS contract ordering period”.
 
-[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021; 87 FR 6045, Feb. 3, 2022; 87 FR 10314, Feb. 24, 2022; 88 FR 20078, Apr. 5, 2023]
+[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021; 87 FR 6045, Feb. 3, 2022; 87 FR 10314, Feb. 24, 2022; 88 FR 20078, Apr. 5, 2023; 88 FR 62473, Sept. 12, 2023]

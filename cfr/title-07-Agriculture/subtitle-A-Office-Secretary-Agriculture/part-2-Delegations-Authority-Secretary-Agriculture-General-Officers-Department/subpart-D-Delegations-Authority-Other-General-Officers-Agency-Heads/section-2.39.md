@@ -18,6 +18,8 @@
 
 (8) Oversee the Tribal Advisory Committee (7 U.S.C. 6921).
 
+(9) Administer the USDA/1994 Land Grant Institutions (Tribal Colleges) Programs.
+
 (b) [Reserved]
 
-[87 FR 44269, July 26, 2022]
+[87 FR 44269, July 26, 2022, as amended at 88 FR 70580, Oct. 12, 2023]

@@ -97,4 +97,4 @@ Table 1 to § 85.5
 
 <sup>11</sup> The SUPPORT for Patients and Communities Act, Public Law 115-221 was enacted Oct. 24, 2018.
 
-[ 88 FR 5778, Jan. 30, 2023]
+[88 FR 5778, Jan. 30, 2023]

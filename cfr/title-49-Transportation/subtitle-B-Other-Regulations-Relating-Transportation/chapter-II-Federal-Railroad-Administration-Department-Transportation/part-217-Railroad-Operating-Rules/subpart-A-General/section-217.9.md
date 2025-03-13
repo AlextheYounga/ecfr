@@ -1,5 +1,7 @@
 ##### § 217.9 Program of operational tests and inspections; recordkeeping. #####
 
+Link to an amendment published at 88 FR 70760, Oct. 12, 2023.
+
 (a) *Requirement to conduct operational tests and inspections.* Each railroad to which this part applies shall periodically conduct operational tests and inspections to determine the extent of compliance with its code of operating rules, timetables, and timetable special instructions, specifically including tests and inspections sufficient to verify compliance with the requirements of subpart F of part 218 of this chapter, in accordance with a written program as required by paragraph (c) of this section.
 
 (b) *Railroad and railroad testing officer responsibilities.* The requirements of this paragraph (b) are applicable beginning January 1, 2009.

@@ -1,5 +1,7 @@
 ##### § 120.882 Eligible Project costs for 504 loans. #####
 
+Link to an amendment published at 88 FR 70585, Oct. 12, 2023.
+
 Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (a) Costs directly attributable to the Project including expenditures incurred by the Borrower (with its own funds or from a loan) to acquire land used in the Project, or for any other expense directly attributable to the Project, prior to applying to SBA for the 504 loan;

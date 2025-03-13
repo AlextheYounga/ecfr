@@ -1,22 +1,20 @@
 ##### 515.408 Solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 88 FR 62473, Sept. 12, 2023.MAS Requests for Information Other Than Cost or Pricing Data
+MAS Requests for Information Other Than Cost or Pricing Data
 
 (a) Use Alternate IV of the FAR provision at 52.215-20, Requirements for Cost or Pricing Data or Information Other Than Cost or Pricing Data, for MAS solicitations to provide the format for submission of information other than cost or pricing data for MAS solicitations. To provide uniformity in requests under the MAS program, insert the following in paragraph (b) of the provision:
 
-(1) An offer prepared and submitted in accordance with the clause at 552.212-70, Preparation of Offer (Multuiple Award Schedule).
+(1) *Commercial sales practices.* When the solicitation contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting, the Offeror must submit information in the format provided in this solicitation in accordance with the instructions at Figure 515.4-2 of the GSA Acquisition Regulation (48 CFR 515.4-2), or submit information in the Offeror's own format.
 
-(2) *Commercial sales practices.* When the solicitation contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting, the Offeror must submit information in the format provided in this solicitation in accordance with the instructions at Figure 515.4-2 of the GSA Acquisition Regulation (48 CFR 515.4-2), or submit information in the Offeror's own format.
+(2) Any additional supporting information requested by the Contracting Officer. The Contracting Officer may require additional supporting information, but only to the extent necessary to determine whether the price(s) offered is fair and reasonable.
 
-(3) Any additional supporting information requested by the Contracting Officer. The Contracting Officer may require additional supporting information, but only to the extent necessary to determine whether the price(s) offered is fair and reasonable.
-
-(4) By submission of an offer in response to this solicitation, the Offeror grants the Contracting Officer or an authorized representative the right to examine, at any time before initial award, books, records, documents, papers, and other directly pertinent records to verify the pricing, sales and other data related to the supplies or services proposed in order to determine the reasonableness of price(s). Access does not extend to Offeror's cost or profit information of other data relevant solely to the Offeror's determination of the prices to be offered in the catalog or marketplace.
+(3) By submission of an offer in response to this solicitation, the Offeror grants the Contracting Officer or an authorized representative the right to examine, at any time before initial award, books, records, documents, papers, and other directly pertinent records to verify the pricing, sales and other data related to the supplies or services proposed in order to determine the reasonableness of price(s). Access does not extend to Offeror's cost or profit information of other data relevant solely to the Offeror's determination of the prices to be offered in the catalog or marketplace.
 
 (b) When the contract contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting, insert the following format for commercial sales practices in the exhibits or attachments section of the solicitation and resulting contract (see FAR 12.303).
 
 Commercial Sales Practices FormatName of Offeror \_\_\_\_\_\_\_\_\_\_ SIN(s) \_\_\_\_\_\_Note:
 
-Please refer to Clause 552.212-70, Preparation of Offer (Multiple Award Schedule), for additional information concerning your offer. Provide the following information for each SIN (or group of SINs or SubSIN for which information is the same).
+Provide the following information for each SIN (or group of SINs or SubSIN for which information is the same).
 
 (1) Provide the dollar value of sales to the general public at or based on an established catalog or market price during the previous 12-month period or the offerors last fiscal year: $\_\_\_\_\_\_\_\_. State beginning and ending of the 12 month period. Beginning \_\_\_\_\_\_\_\_ ending \_\_\_\_\_\_\_\_. In the event that a dollar value is not an appropriate measure of the sales, provide and describe your own measure of the sales of the item(s).
 
@@ -24,7 +22,7 @@ Please refer to Clause 552.212-70, Preparation of Offer (Multiple Award Schedule
 
 SIN \_\_\_\_\_\_\_\_\_\_\_\_ $\_\_\_\_\_\_\_\_\_\_\_\_SIN \_\_\_\_\_\_\_\_\_\_\_\_ $\_\_\_\_\_\_\_\_\_\_\_\_SIN \_\_\_\_\_\_\_\_\_\_\_\_ $\_\_\_\_\_\_\_\_\_\_\_\_
 
-(3) Based on your written discounting policies (standard commercial sales practices in the event you do not have written discounting policies), are the discounts and any concessions which you offer the Government equal to or better than your best price (discount and concessions in any combination) offered to any customer acquiring the same items regardless of quantity or terms and conditions? YES\_\_\_\_ NO\_\_\_\_ (See definition of “concession” and “discount” in 552.212-70.)
+(3) Based on your written discounting policies (standard commercial sales practices in the event you do not have written discounting policies), are the discounts and any concessions which you offer the Government equal to or better than your best price (discount and concessions in any combination) offered to any customer acquiring the same items regardless of quantity or terms and conditions? YES\_\_\_\_ NO\_\_\_\_
 
 (4)(a) Based on your written discounting policies (standard commercial sales practices in the event you do not have written discounting policies), provide information as requested for each SIN (or group of SINs for which the information is the same) in accordance with the instructions at Figure 515.4, which is provided in this solicitation for your convenience. The information should be provided in the chart below or in an equivalent format developed by the offeror. Rows should be added to accommodate as many customers as required.
 
@@ -64,7 +62,7 @@ A “customer” is any entity, except the Federal Government, which acquires su
 
 Column 2—Identify the Discount
 
-The term “discount” is as defined in solicitation clause 552.212-70, Preparation of Offer (Multiple Award Schedule). Indicate the best discount (based on your written discounting policies or standard commercial discounting practices if you do not have written discounting policies) at which you sell to the customer or category of customer identified in column 1, without regard to quantity; terms and conditions of the agreements under which the discounts are given; and whether the agreements are written or oral. Net prices or discounts off of other price lists should be expressed as percentage discounts from the price list which is the basis of your offer. If the discount disclosed is a combination of various discounts (prompt payment, quantity, etc.), the percentage should be broken out for each type of discount. If the price lists which are the basis of the discounts given to the customers identified in the chart are different than the price list submitted upon which your offer is based, identify the type or title and date of each price list. The contracting officer may require submission of these price lists. To expedite evaluation, offerors may provide these price lists at the time of submission.
+Indicate the best discount (based on your written discounting policies or standard commercial discounting practices if you do not have written discounting policies) at which you sell to the customer or category of customer identified in column 1, without regard to quantity; terms and conditions of the agreements under which the discounts are given; and whether the agreements are written or oral. Net prices or discounts off of other price lists should be expressed as percentage discounts from the price list which is the basis of your offer. If the discount disclosed is a combination of various discounts (prompt payment, quantity, etc.), the percentage should be broken out for each type of discount. If the price lists which are the basis of the discounts given to the customers identified in the chart are different than the price list submitted upon which your offer is based, identify the type or title and date of each price list. The contracting officer may require submission of these price lists. To expedite evaluation, offerors may provide these price lists at the time of submission.
 
 Column 3—Identify the Quantity or Volume of Sales
 
@@ -84,9 +82,7 @@ If deviations from your written policies or standard commercial sales practices 
 
 (End of figure)
 
-(d) When the contract contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting, insert the clause at 552.215-75, Price Adjustment—Failure to Provide Accurate Information, in solicitations and contracts under the MAS program.
-
-(e) Use Alternate IV of FAR 52.215-21, Requirements for Cost or Pricing Data or Information Other Than Cost or Pricing Data—Modifications, to provide for submission of information other than cost or pricing data for MAS contracts. To provide for uniformity in requests under the MAS program, insert the following in paragraph (b) of the clause:
+(d) Use Alternate IV of FAR 52.215-21, Requirements for Cost or Pricing Data or Information Other Than Cost or Pricing Data—Modifications, to provide for submission of information other than cost or pricing data for MAS contracts. To provide for uniformity in requests under the MAS program, insert the following in paragraph (b) of the clause:
 
 (1) Information required by the clause at 552.238-82, Modifications (Multiple Award Schedule).
 
@@ -94,4 +90,4 @@ If deviations from your written policies or standard commercial sales practices 
 
 (3) By submitting a request for modification, the Contractor grants the Contracting Officer or an authorized representative the right to examine, at any time before agreeing to a modification, books, record, documents, papers, and other directly pertinent records to verify the pricing, sales and other data related to the supplies or services proposed in order to determine the reasonableness of price(s). Access does not extent to Contractor's cost or profit information or other data related solely to the Contractor's determination of the prices to be offered in the catalog or marketplace.
 
-[64 FR 37214, July 9, 1999, as amended at 65 FR 11247, Mar. 2, 2000; 81 FR 41136, June 23, 2016; 83 FR 3279, Jan. 24, 2018; 84 FR 17039, Apr. 23, 2019; 85 FR 62613, Oct. 5, 2020; 87 FR 76584, Dec. 15, 2022]
+[64 FR 37214, July 9, 1999, as amended at 65 FR 11247, Mar. 2, 2000; 81 FR 41136, June 23, 2016; 83 FR 3279, Jan. 24, 2018; 84 FR 17039, Apr. 23, 2019; 85 FR 62613, Oct. 5, 2020; 87 FR 76584, Dec. 15, 2022; 88 FR 62473, Sept. 12, 2023]

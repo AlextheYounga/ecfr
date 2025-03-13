@@ -1,5 +1,7 @@
 ##### § 218.53 Scope and definitions. #####
 
+Link to an amendment published at 88 FR 70760, Oct. 12, 2023.
+
 (a) This subpart establishes standards of conduct for railroads and individuals who operate or permit to be operated locomotives equipped with one or more of the safety devices identified in paragraph (c) of this section.
 
 (b) *Disable* means to unlawfully render a device incapable of proper and effective action or to materially impair the functioning of that device.

@@ -34,6 +34,8 @@
 
 (iv) Act as the department representative for Federal executive board matters.
 
+(v) Oversee the Center for Faith Based and Neighborhood Partnerships.
+
 (b) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 68 FR 27439, May 20, 2003; 69 FR 34252, June 21, 2004; 80 FR 58337, Sept. 29, 2015]Editorial Note:At 79 FR 44109, July 30, 2014, § 2.23 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[60 FR 56393, Nov. 8, 1995, as amended at 68 FR 27439, May 20, 2003; 69 FR 34252, June 21, 2004; 80 FR 58337, Sept. 29, 2015; 88 FR 70579, Oct. 12, 2023]
