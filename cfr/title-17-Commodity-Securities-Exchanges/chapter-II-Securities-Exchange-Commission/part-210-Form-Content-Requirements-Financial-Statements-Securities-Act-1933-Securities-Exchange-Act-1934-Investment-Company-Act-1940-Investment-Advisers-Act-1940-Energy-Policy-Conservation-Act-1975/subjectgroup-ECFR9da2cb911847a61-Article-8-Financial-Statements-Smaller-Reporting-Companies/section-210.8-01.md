@@ -1,6 +1,6 @@
 ##### § 210.8-01 General requirements for Article 8. #####
 
-Link to an amendment published at 89 FR 21912, Mar. 28, 2024.This amendment was delayed indefinitely at 89 FR 25804, Apr. 12, 2024.
+Link to an amendment published at 89 FR 21912, Mar. 28, 2024.Link to a delay published at 89 FR 25804, Apr. 12, 2024.
 
 Sections 210.8-01 through 210.8-08 (Article 8) shall be applicable to financial statements filed for smaller reporting companies. These sections are not applicable to financial statements prepared for the purposes of Item 17 or Item 18 of Form 20-F.
 

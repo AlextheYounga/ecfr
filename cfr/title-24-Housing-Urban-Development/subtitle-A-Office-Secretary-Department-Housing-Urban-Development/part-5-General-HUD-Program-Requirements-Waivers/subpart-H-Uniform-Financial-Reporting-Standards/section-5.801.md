@@ -1,6 +1,6 @@
 ##### § 5.801 Uniform financial reporting standards. #####
 
-Link to an amendment published at 89 FR 30276, Apr. 23, 2024.Link to an amendment published at 89 FR 38290, May 7, 2024.
+Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (a) *Applicability.* This subpart H implements uniform financial reporting standards for:
 
@@ -50,7 +50,7 @@ Link to an amendment published at 89 FR 30276, Apr. 23, 2024.Link to an amendmen
 
 (xiii) Section 241 of the NHA (Supplemental Loans for Multifamily Projects); and
 
-(5) HUD-approved Title I and Title II supervised and nonsupervised lenders and mortgagees.
+(5) HUD-approved Title I and Title II supervised, nonsupervised, and investing lenders and investing mortgagees.
 
 (6) Operators of projects with mortgages insured or held by HUD under section 232 of the Act (Mortgage Insurance for Nursing Homes, Intermediate Care Facilities, Board and Care Homes).
 
@@ -90,4 +90,4 @@ Link to an amendment published at 89 FR 30276, Apr. 23, 2024.Link to an amendmen
 
 (f) *Responsibility for submission of financial report.* The responsibility for submission of the financial report due to HUD under this section rests with the individuals and entities listed in paragraph (a) of this section.
 
-[63 FR 46591, Sept. 1, 1998, as amended at 64 FR 1505, Jan. 11, 1999; 64 FR 33755, June 24, 1999; 65 FR 16295, Mar. 27, 2000; 67 FR 53451, Aug. 15, 2002; 77 FR 55134, Sept. 7, 2012; 78 FR 57060, Sept. 17, 2013; 79 FR 55362, Sept. 16, 2014; 80 FR 75934, Dec. 7, 2015]
+[63 FR 46591, Sept. 1, 1998, as amended at 64 FR 1505, Jan. 11, 1999; 64 FR 33755, June 24, 1999; 65 FR 16295, Mar. 27, 2000; 67 FR 53451, Aug. 15, 2002; 77 FR 55134, Sept. 7, 2012; 78 FR 57060, Sept. 17, 2013; 79 FR 55362, Sept. 16, 2014; 80 FR 75934, Dec. 7, 2015; 89 FR 30276, Apr. 23, 2024]

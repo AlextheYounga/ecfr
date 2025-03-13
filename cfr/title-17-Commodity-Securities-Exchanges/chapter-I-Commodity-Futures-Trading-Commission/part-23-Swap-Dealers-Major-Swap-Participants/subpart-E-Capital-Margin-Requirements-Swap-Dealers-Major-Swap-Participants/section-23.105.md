@@ -1,5 +1,7 @@
 ##### § 23.105 Financial recordkeeping, reporting and notification requirements for swap dealers and major swap participants. #####
 
+Link to an amendment published at 89 FR 45586, May 23, 2024.
+
 (a) *Scope.* (1) Except as provided in paragraphs (a)(2) and (a)(3) of this section, a swap dealer or major swap participant must comply with the applicable requirements set forth in paragraphs (b) through (p) of this section.
 
 (2) The requirements in paragraphs (b) through (o) of this section do not apply to any swap dealer or major swap participant that is subject to the capital requirements of a prudential regulator.

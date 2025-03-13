@@ -1,9 +1,9 @@
-##### § 55.10 Environmental review procedures under 24 CFR parts 50 and 58. #####
+##### § 55.10 Limitations on HUD assistance in wetlands. #####
 
-Link to an amendment published at 89 FR 30908, Apr. 23, 2024.
+(a) When the proposed project includes new construction activities (including grading, clearing, draining, filling, diking, impounding, and related activities for any structure or facilities including the siting of new manufactured housing units) that will have a direct impact to onsite wetlands identified by the process described in § 55.9, compliance with this part requires completion of the 8-step decision making process in § 55.20 to address wetland impacts.
 
-(a) Where an environmental review is required under the National Environmental Policy Act of 1969 (NEPA) (42 U.S.C. 4321 *et seq.*), and 24 CFR part 50 or part 58, compliance with this part shall be completed before the completion of an environmental assessment (EA), including a finding of no significant impact (FONSI), or an environmental impact statement (EIS), in accordance with the decision points listed in 24 CFR 50.17(a) through (h), or before the preparation of an EA under 24 CFR 58.40 or an EIS under 24 CFR 58.37. For types of proposed actions that are categorically excluded from NEPA requirements under 24 CFR part 50 (or part 58), compliance with this part shall be completed before the Department's initial approval (or approval by a responsible entity authorized by 24 CFR part 58) of proposed actions in a floodplain or wetland.
+(b) When the proposed project may indirectly affect wetlands by modifying the flow of stormwater, releasing pollutants, or otherwise changing conditions that contribute to wetlands viability, the significance of these impacts must be evaluated and the impacts minimized through best management practices. If the project site includes wetlands that will not be impacted by new construction, HUD strongly encourages measures to preserve such wetlands from future impacts, including by obtaining a restrictive covenant, conservation easement, or other mechanism.
 
-(b) The categorical exclusion of certain proposed actions from environmental review requirements under NEPA and 24 CFR parts 50 and 58 (see 24 CFR 50.20 and 58.35(a)) does not exclude those actions from compliance with this part.
+(c) When the proposed project may indirectly affect off-site wetlands, impacts should be minimized to the extent practicable. While this part does not require further decision making to address these effects under the authority of Executive Order 11990, measures to address offsite wetlands impacts may be necessary to comply with related laws and authorities including the Endangered Species Act or to address significant impacts under the National Environmental Policy Act.
 
-[78 FR 68730, Nov. 15, 2013]
+[89 FR 30908, Apr. 23, 2024]

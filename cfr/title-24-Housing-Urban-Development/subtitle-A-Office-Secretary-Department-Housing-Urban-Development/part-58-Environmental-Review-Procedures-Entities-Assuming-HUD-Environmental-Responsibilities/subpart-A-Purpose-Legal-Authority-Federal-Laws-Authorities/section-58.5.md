@@ -1,7 +1,5 @@
 ##### § 58.5 Related Federal laws and authorities. #####
 
-Link to an amendment published at 89 FR 30913, Apr. 23, 2024.
-
 In accordance with the provisions of law cited in § 58.1(b), the responsible entity must assume responsibilities for environmental review, decision-making and action that would apply to HUD under the following specified laws and authorities. The responsible entity must certify that it has complied with the requirements that would apply to HUD under these laws and authorities and must consider the criteria, standards, policies and regulations of these laws and authorities.
 
 (a) *Historic properties.* (1) The National Historic Preservation Act of 1966 (16 U.S.C. 470 *et seq.*), particularly sections 106 and 110 (16 U.S.C. 470 and 470h-2).
@@ -16,7 +14,7 @@ In accordance with the provisions of law cited in § 58.1(b), the responsible en
 
 (4) The Reservoir Salvage Act of 1960 as amended by the Archeological and Historic Preservation Act of 1974 (16 U.S.C. 469 *et seq.*), particularly section 3 (16 U.S.C. 469a-1).
 
-(b) *Floodplain management and wetland protection.* (1) Executive Order 11988, Floodplain Management, May 24, 1977 (42 FR 26951), 3 CFR, 1977 Comp., p. 117, as interpreted in HUD regulations at 24 CFR part 55, particularly section 2(a) of the order (For an explanation of the relationship between the decision-making process in 24 CFR part 55 and this part, see § 55.10 of this subtitle A.)
+(b) *Floodplain management and wetland protection.* (1) Executive Order 11988, Floodplain Management, as amended by Executive Order 13690, February 4, 2015 (3 CFR, 2016 Comp., p. 268), as implemented in HUD regulations at 24 CFR part 55, particularly section 2(a) of Executive Order 11988, as amended.
 
 (2) Executive Order 11990, Protection of Wetlands, May 24, 1977 (42 FR 26961), 3 CFR, 1977 Comp., p. 121, as interpreted in HUD regulations at 24 CFR part 55, particularly sections 2 and 5 of the order.
 
@@ -50,4 +48,4 @@ In accordance with the provisions of law cited in § 58.1(b), the responsible en
 
 (j) *Environmental justice.* Executive Order 12898—Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations, February 11, 1994 (59 FR 7629), 3 CFR, 1994 Comp. p. 859.
 
-[61 FR 19122, Apr. 30, 1996, as amended at 68 FR 56128, Sept. 29, 2003; 78 FR 68734, Nov. 15, 2013]
+[61 FR 19122, Apr. 30, 1996, as amended at 68 FR 56128, Sept. 29, 2003; 78 FR 68734, Nov. 15, 2013; 89 FR 30913, Apr. 23, 2024]

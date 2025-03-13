@@ -1,16 +1,12 @@
 ##### § 55.2 Terminology. #####
 
-Link to an amendment published at 89 FR 30904, Apr. 23, 2024.
-
-(a) With the exception of those terms defined in paragraph (b) of this section, the terms used in this part shall follow the definitions contained in section 6 of Executive Order 11988, section 7 of Executive Order 11990, and the Floodplain Management Guidelines for Implementing Executive Order 11988 (43 FR 6030, February 10, 1978), issued by the Water Resources Council; the terms “special flood hazard area,” “criteria,” and “Regular Program” shall follow the definitions contained in FEMA regulations at 44 CFR 59.1; and the terms “Letter of Map Revision” and “Letter of Map Amendment” shall refer to letters issued by FEMA, as provided in 44 CFR part 65 and 44 CFR part 70, respectively.
+(a) With the exception of those terms defined in paragraph (b) of this section, the terms used in this part shall follow the definitions contained in section 6 of Executive Order 11988, section 7 of Executive Order 11990, and the “Guidelines for Implementing Executive Order 11988, Floodplain Management, and Executive Order 13690, Establishing a Federal Flood Risk Management Standard and a Process for Further Soliciting and Considering Stakeholder Input”; the terms “special flood hazard area,” “criteria,” and “Regular Program” shall follow the definitions contained in FEMA regulations at 44 CFR 59.1; and the terms “Letter of Map Revision” and “Letter of Map Amendment” shall refer to letters issued by FEMA, as provided in 44 CFR part 65 and 44 CFR part 70, respectively.
 
 (b) For purposes of this part, the following definitions apply:
 
-(1) *Coastal high hazard area* means the area subject to high velocity waters, including but not limited to hurricane wave wash or tsunamis. The area is designated on a Flood Insurance Rate Map (FIRM) or Flood Insurance Study (FIS) under FEMA regulations. FIRMs and FISs are also relied upon for the designation of “100-year floodplains” (§ 55.2(b)(9)), “500-year floodplains” (§ 55.2(b)(4)), and “floodways” (§ 55.2(b)(5)). When FEMA provides interim flood hazard data, such as Advisory Base Flood Elevations (ABFE) or preliminary maps and studies, HUD or the responsible entity shall use the latest of these sources. If FEMA information is unavailable or insufficiently detailed, other Federal, state, or local data may be used as “best available information” in accordance with Executive Order 11988. However, a base flood elevation from an interim or preliminary or non-FEMA source cannot be used if it is lower than the current FIRM and FIS.
+(1) *Coastal high hazard area* means the area subject to high velocity waters, including but not limited to hurricane wave wash or tsunamis. The area is designated on a Flood Insurance Rate Map (FIRM) or Flood Insurance Study (FIS) under FEMA regulations, or according to best available information. (See § 55.8(b) for appropriate data sources.)
 
-(2) *Compensatory mitigation* means the restoration (reestablishment or rehabilitation), establishment (creation), enhancement, and/or, in certain circumstances, preservation of aquatic resources for the purposes of offsetting unavoidable adverse impacts that remain after all appropriate and practicable avoidance and minimization have been achieved.
-
-Examples include, but are not limited to:
+(2) *Compensatory mitigation* means the restoration (reestablishment or rehabilitation), establishment (creation), enhancement, and/or, in certain circumstances, preservation of aquatic resources for the purposes of offsetting unavoidable adverse impacts that remain after all appropriate and practicable avoidance and minimization have been achieved. Examples include, but are not limited to:
 
 (i) *Permittee-responsible mitigation:* On-site or off-site mitigation undertaken by the holder of a wetlands permit under section 404 of the Clean Water Act (or an authorized agent or contractor), for which the permittee retains full responsibility;
 
@@ -22,33 +18,37 @@ Examples include, but are not limited to:
 
 (A) Produce, use or store highly volatile, flammable, explosive, toxic or water-reactive materials;
 
-(B) Provide essential and irreplaceable records or utility or emergency services that may become lost or inoperative during flood and storm events (e.g., data storage centers, generating plants, principal utility lines, emergency operations centers including fire and police stations, and roadways providing sole egress from flood-prone areas); or
+(B) Provide essential and irreplaceable records or utility or emergency services that may become lost or inoperative during flood and storm events (*e.g.,* community stormwater management infrastructure, water treatment plants, data storage centers, generating plants, principal utility lines, emergency operations centers including fire and police stations, and roadways providing sole egress from flood-prone areas); or
 
-(C) Are likely to contain occupants who may not be sufficiently mobile to avoid loss of life or injury during flood or storm events, e.g., persons who reside in hospitals, nursing homes, convalescent homes, intermediate care facilities, board and care facilities, and retirement service centers. Housing for independent living for the elderly is not considered a critical action.
+(C) Are likely to contain occupants who may not be sufficiently mobile to avoid loss of life or injury during flood or storm events, *e.g.,* persons who reside in hospitals, nursing homes, convalescent homes, intermediate care facilities, board and care facilities, and retirement service centers. Housing for independent living for the elderly is not considered a critical action.
 
-(ii) Critical actions shall not be approved in floodways or coastal high hazard areas.
+(ii) Critical actions shall not be approved in floodways, LiMWAs, or coastal high hazard areas unless they meet an exception at § 55.8 or § 55.21.
 
-(4) *500-year floodplain* means the minimum floodplain of concern for Critical Actions and is the area subject to inundation from a flood having a 0.2 percent chance of occurring in any given year. (See § 55.2(b)(1) for appropriate data sources.)
+(4) *Federal Flood Risk Management Standard (FFRMS) floodplain* means the floodplain as defined by Executive Order 13690 and the Guidelines for Implementing Executive Order 11988, Floodplain Management, and Executive Order 13690, Establishing a Federal Flood Risk Management Standard and a Process for Further Soliciting and Considering Stakeholder Input and further described as applied to HUD-assisted activities by § 55.7 of this part.
 
-(5) *Floodway* means that portion of the floodplain which is effective in carrying flow, where the flood hazard is generally the greatest, and where water depths and velocities are the highest. The term “floodway” as used here is consistent with “regulatory floodways” as identified by FEMA. (See § 55.2(b)(1) for appropriate data sources.)
+(5) *0.2-percent-annual-chance (500-year) floodplain* means the area, including the base flood elevation, subject to inundation from a flood having a 0.2 percent chance or greater of being equaled or exceeded in any given year. (See § 55.8(b) for appropriate data sources).
 
-(6) *Functionally dependent use* means a land use that must necessarily be conducted in close proximity to water (e.g., a dam, marina, port facility, water-front park, and many types of bridges).
+(6) *Floodway* means that portion of the floodplain which is effective in carrying flow, where the flood hazard is generally the greatest, and where water depths and velocities are the highest. The term “floodway” as used here is consistent with “regulatory floodways” as identified by FEMA. (See § 55.8(b) for appropriate data sources.)
 
-(7) *High hazard area* means a floodway or a coastal high hazard area.
+(7) *Functionally dependent use* means a land use that must necessarily be conducted in close proximity to water (*e.g.,* a dam, marina, port facility, water-front park, and many types of bridges).
 
-(8) *New construction* includes draining, dredging, channelizing, filling, diking, impounding, and related activities and any structures or facilities begun after the effective date of Executive Order 11990. (See section 7(b) of Executive Order 11990.)
+(8) *High hazard area* means a floodway or a coastal high hazard area.
 
-(9) *100-year floodplain* means the floodplain of concern for this part and is the area subject to inundation from a flood having a one percent or greater chance of being equaled or exceeded in any given year. (See § 55.2(b)(1) for appropriate data sources.)
+(9) *Impervious surface area* means an improved surface that measurably reduces the rate of water infiltration below the rate that would otherwise be provided by the soil present in a location prior to improvement, based on the soil type identified either by the Natural Resource Conservation Service Soil Survey or geotechnical study. Impervious surfaces include, but are not limited to, unperforated concrete or asphalt ground cover, unvegetated roofing materials, and other similar treatments that impede infiltration.
 
-(10)(i) *Substantial improvement* means either:
+(10) *Limit of Moderate Wave Action (LiMWA)* means the inland limit of the portion of Coastal A Zone where wave heights can be between 1.5 and 3 feet during a base flood event, subjecting properties to damage from waves and storm surge. (See § 55.8(b) for appropriate data sources.)
 
-(A) Any repair, reconstruction, modernization or improvement of a structure, the cost of which equals or exceeds 50 percent of the market value of the structure either:
+(11) *1-percent-annual-chance (100-year) floodplain* means the area subject to inundation from a flood having a one percent or greater chance of being equaled or exceeded in any given year. (See § 55.8(b) for appropriate data sources.)
+
+(12) *Substantial improvement*—(i) *Substantial improvement* means either:
+
+(A) Any repair, reconstruction, modernization, or improvement of a structure, including a manufactured housing unit, the cost of which equals or exceeds 50 percent of the market value of the structure either:
 
 (*1*) Before the improvement or repair is started; or
 
 (*2*) If the structure has been damaged, and is being restored, before the damage occurred; or
 
-(B) Any repair, reconstruction, modernization or improvement of a structure that results in an increase of more than twenty percent in the number of dwelling units in a residential project or in the average peak number of customers and employees likely to be on-site at any one time for a commercial or industrial project.
+(B) Any repair, reconstruction, modernization, or improvement of a structure, including a manufactured housing unit, that results in an increase of more than twenty percent in the number of dwelling units in a residential project or in the average peak number of customers and employees likely to be on-site at any one time for a commercial or industrial project.
 
 (ii) *Substantial improvement* may not be defined to include either:
 
@@ -58,14 +58,6 @@ Examples include, but are not limited to:
 
 (iii) Structural repairs, reconstruction, or improvements not meeting this definition are considered “minor improvements”.
 
-(11) *Wetlands* means those areas that are inundated by surface or ground water with a frequency sufficient to support, and under normal circumstances does or would support, a prevalence of vegetative or aquatic life that requires saturated or seasonally saturated soil conditions for growth and reproduction. Wetlands generally include swamps, marshes, bogs, and similar areas such as sloughs, potholes, wet meadows, river overflows, mud flats, and natural ponds. This definition includes those wetland areas separated from their natural supply of water as a result of activities such as the construction of structural flood protection methods or solid-fill road beds and activities such as mineral extraction and navigation improvements. This definition includes both wetlands subject to and those not subject to section 404 of the Clean Water Act as well as constructed wetlands. The following process shall be followed in making the wetlands determination:
+(13) *Wetlands* means those areas that are inundated or saturated by surface or ground water with a frequency sufficient to support, and under normal circumstances does or would support, a prevalence of vegetative or aquatic life that requires saturated or seasonally saturated soil conditions for growth and reproduction. Wetlands generally include swamps, marshes, bogs, and similar areas such as sloughs, prairie potholes, wet meadows, river overflows, mud flats, and natural ponds. This definition includes those wetland areas separated from their natural supply of water as a result of activities such as the construction of structural flood protection methods or solid fill roadbeds and activities such as mineral extraction and navigation improvements. This definition includes both wetlands subject to and those not subject to Section 404 of the Clean Water Act as well as constructed wetlands.
 
-(i) HUD or, for programs subject to 24 CFR part 58, the responsible entity, shall make a determination whether the action is new construction that is located in a wetland. These actions are subject to processing under the § 55.20 decisionmaking process for the protection of wetlands.
-
-(ii) As primary screening, HUD or the responsible entity shall verify whether the project area is located in proximity to wetlands identified on the National Wetlands Inventory (NWI). If so, HUD or the responsible entity should make a reasonable attempt to consult with the Department of the Interior, Fish and Wildlife Service (FWS), for information concerning the location, boundaries, scale, and classification of wetlands within the area. If an NWI map indicates the presence of wetlands, FWS staff, if available, must find that no wetland is present in order for the action to proceed without further processing. Where FWS staff is unavailable to resolve any NWI map ambiguity or controversy, an appropriate wetlands professional must find that no wetland is present in order for the action to proceed without § 55.20 processing.
-
-(iii) As secondary screening used in conjunction with NWI maps, HUD or the responsible entity is encouraged to use the Department of Agriculture, Natural Resources Conservation Service (NRCS) National Soil Survey (NSS) and any state and local information concerning the location, boundaries, scale, and classification of wetlands within the action area.
-
-(iv) Any challenges from the public or other interested parties to the wetlands determinations made under this part must be made in writing to HUD (or the responsible entity authorized under 24 CFR part 58) during the commenting period and must be substantiated with verifiable scientific information. Commenters may request a reasonable extension of the time for the commenting period for the purpose of substantiating any objections with verifiable scientific information. HUD or the responsible entity shall consult FWS staff, if available, on the validity of the challenger's scientific information prior to making a final wetlands determination.
-
-[59 FR 19107, Apr. 21, 1994, as amended at 78 FR 68729, Nov. 15, 2013]
+[59 FR 19107, Apr. 21, 1994, as amended at 78 FR 68729, Nov. 15, 2013; 89 FR 30904, Apr. 23, 2024]

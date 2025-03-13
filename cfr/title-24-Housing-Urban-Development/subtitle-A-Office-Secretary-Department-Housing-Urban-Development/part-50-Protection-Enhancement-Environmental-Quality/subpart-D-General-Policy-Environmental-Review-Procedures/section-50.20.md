@@ -1,14 +1,12 @@
 ##### § 50.20 Categorical exclusions subject to the Federal laws and authorities cited in § 50.4. #####
 
-Link to an amendment published at 89 FR 30903, Apr. 23, 2024.
-
 (a) The following actions, activities, and programs are categorically excluded from the NEPA requirements for further review in an Environmental Assessment or an Environmental Impact Statement as set forth in this part. They are not excluded from individual compliance requirements of other environmental statutes, Executive orders, and HUD standards cited in § 50.4, where appropriate. Where the responsible official determines that any proposed action identified below may have an environmental effect because of extraordinary circumstances (40 CFR 1508.4), the requirements for further review under NEPA shall apply (see paragraph (b) of this section).
 
 (1) Special projects directed to the removal of material and architectural barriers that restrict the mobility of and accessibility to elderly and persons with disabilities.
 
 (2) Rehabilitation of buildings and improvements when the following conditions are met:
 
-(i) In the case of a building for residential use (with one to four units), the density is not increased beyond four units, the land use is not changed, and the footprint of the building is not increased in a floodplain or in a wetland;
+(i) In the case of a building for residential use (with one to four units), the density is not increased beyond four units and the land use is not changed;
 
 (ii) In the case of multifamily residential buildings:
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 30903, Apr. 23, 2024.
 
 (b) For categorical exclusions having the potential for significant impact because of extraordinary circumstances, HUD must prepare an EA in accordance with subpart E. If it is evident without preparing an EA that an EIS is required pursuant to § 50.42, HUD should proceed directly to the preparation of an EIS in accordance with subpart F.
 
-[61 FR 50916, Sept. 27, 1996, as amended at 68 FR 56127, Sept. 29, 2003; 79 FR 49229, Aug. 20, 2014]
+[61 FR 50916, Sept. 27, 1996, as amended at 68 FR 56127, Sept. 29, 2003; 79 FR 49229, Aug. 20, 2014; 89 FR 30903, Apr. 23, 2024]

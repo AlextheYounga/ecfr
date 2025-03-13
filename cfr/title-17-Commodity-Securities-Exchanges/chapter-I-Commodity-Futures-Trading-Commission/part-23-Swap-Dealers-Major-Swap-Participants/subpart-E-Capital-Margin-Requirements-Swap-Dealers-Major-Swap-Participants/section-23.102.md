@@ -1,4 +1,6 @@
-##### § 23.102 Calculation of market risk exposure requirement and credit risk exposure requirement using internal models #####
+##### § 23.102 Calculation of market risk exposure requirement and credit risk exposure requirement using internal models. #####
+
+Link to an amendment published at 89 FR 45586, May 23, 2024.
 
 (a) A swap dealer may apply to the Commission or to a registered futures association of which the swap dealer is a member to obtain approval to use internal models under terms and conditions required by the Commission or the registered futures association and by these regulations, when calculating the swap dealer's market risk exposure and credit risk exposure under §§ 23.101(a)(1)(i)(B), 23.101(a)(1)(ii)(A), or 23.101(a)(2)(ii)(A); *Provided however,* that the Commission must issue a determination that the registered futures association's model requirements and review process are comparable to the Commission's requirements and review process in order for the registered futures association's model approval to be accepted as an alternative means of compliance with this section.
 

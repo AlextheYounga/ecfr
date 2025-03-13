@@ -1,3 +1,15 @@
-##### § 55.14 xxx #####
+##### § 55.14 Modified 5-step decision making process for certain categories of proposed actions. #####
 
-Link to an amendment published at 89 FR 30909, Apr. 23, 2024.
+The decision making steps in § 55.20(b), (c), and (g) (Steps 2, 3, and 7) do not apply to the following categories of proposed actions:
+
+(a) HUD's or the recipient's actions involving the disposition of acquired multifamily housing projects or “bulk sales” of HUD-acquired (or under part 58 of recipients') one- to four-family properties in communities that are in the Regular Program of the NFIP and in good standing (*i.e.,* not suspended from program eligibility or placed on probation under 44 CFR 59.24). For programs subject to part 58, this paragraph applies only to recipients' disposition activities that are subject to review under part 58.
+
+(b) HUD's actions under the National Housing Act (12 U.S.C. 1701 *et seq.*) for the purchase or refinancing of existing multifamily housing projects, hospitals, nursing homes, assisted living facilities, board and care facilities, and intermediate care facilities, in communities that are in good standing under the NFIP.
+
+(c) HUD's or the recipient's actions under any HUD program involving the repair, rehabilitation, modernization, weatherization, or improvement of existing multifamily housing projects, hospitals, nursing homes, assisted living facilities, board and care facilities, intermediate care facilities, and one- to four-family properties, in communities that are in the Regular Program of the NFIP and are in good standing (*i.e.,* not suspended from program eligibility or placed on probation under 44 CFR 59.24), provided that the number of units is not increased more than 20 percent, the action does not involve a conversion from nonresidential to residential land use, the action does not meet the thresholds for “substantial improvement” under § 55.2(b)(12), and the footprint of the structure and paved areas is not increased by more than 20 percent.
+
+(d) HUD's or the recipient's actions under any HUD program involving the repair, rehabilitation, modernization, weatherization, or improvement of existing nonresidential buildings and structures, in communities that are in the Regular Program of the NFIP and are in good standing (*i.e.,* not suspended from program eligibility or placed on probation under 44 CFR 59.24), provided that the action does not meet the thresholds for “substantial improvement” under § 55.2(b)(12) and the footprint of the structure and paved areas is not increased by more than 20 percent.
+
+(e) HUD's or the recipient's actions under any HUD program involving the repair, rehabilitation, or replacement of existing nonstructural improvements including streets, curbs, and gutters, where any increase of the total impervious surface area of the facility is de minimis. This provision does not include critical actions, levee systems, chemical storage facilities (including any tanks), wastewater facilities, or sewer lagoons.
+
+[89 FR 30909, Apr. 23, 2024]

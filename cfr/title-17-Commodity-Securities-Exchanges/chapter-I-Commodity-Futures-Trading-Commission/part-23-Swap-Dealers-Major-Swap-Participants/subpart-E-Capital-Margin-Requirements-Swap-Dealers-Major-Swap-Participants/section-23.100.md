@@ -1,5 +1,7 @@
 ##### § 23.100 Definitions applicable to capital requirements. #####
 
+Link to an amendment published at 89 FR 45585, May 23, 2024.
+
 For purposes of §§ 23.101 through 23.106 of subpart E, the following terms are defined as follows:
 
 *Actual daily net trading profit and loss.* This term is used in assessing the performance of a swap dealer's VaR measure and refers to changes in the swap dealer's portfolio value that would have occurred were end-of-day positions to remain unchanged (therefore, excluding fees, commissions, reserves, net interest income, and intraday trading).

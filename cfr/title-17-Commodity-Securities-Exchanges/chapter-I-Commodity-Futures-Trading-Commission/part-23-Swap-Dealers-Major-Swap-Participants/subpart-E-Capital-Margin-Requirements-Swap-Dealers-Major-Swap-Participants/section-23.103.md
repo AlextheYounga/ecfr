@@ -1,5 +1,7 @@
 ##### § 23.103 Calculation of market risk exposure requirement and credit risk requirement when models are not approved. #####
 
+Link to an amendment published at 89 FR 45586, May 23, 2024.
+
 (a) *Non-model approach.* A swap dealer that:
 
 (1) Does not compute its regulatory capital requirements under § 23.101(a)(1)(i), and

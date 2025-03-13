@@ -1,7 +1,5 @@
 ##### § 50.4 Related Federal laws and authorities. #####
 
-Link to an amendment published at 89 FR 30903, Apr. 23, 2024.
-
 HUD and/or applicants must comply, where applicable, with all environmental requirements, guidelines and statutory obligations under the following authorities and HUD standards:
 
 (a) *Historic properties.* (1) The National Historic Preservation Act of 1966 (16 U.S.C. 470 *et seq.*), as amended.
@@ -14,7 +12,7 @@ HUD and/or applicants must comply, where applicable, with all environmental requ
 
 (b) *Flood insurance, floodplain management and wetland protection.* (1) Flood Disaster Protection Act of 1973 (42 U.S.C. 4001-4128) and the National Flood Insurance Reform Act of 1994 (Pub.L. 103-325, 108 Stat. 2160).
 
-(2) HUD procedure for the implementation of Executive Order 11988 (Floodplain Management), (3 CFR, 1977 Comp., p. 117)—24 CFR part 55, Floodplain Management and Protection of Wetlands.
+(2) HUD procedure for the implementation of Executive Order 11988 (Floodplain Management), as amended by Executive Order 13690, February 4, 2015 (3 CFR, 2016 Comp., p. 268) —24 CFR part 55, Floodplain Management and Protection of Wetlands.
 
 (3) HUD procedure for the implementation of Executive Order 11990 (Protection of Wetlands), (3 CFR, 1977 Comp., p. 121)—24 CFR part 55, Floodplain Management and Protection of Wetlands.
 
@@ -42,4 +40,4 @@ HUD and/or applicants must comply, where applicable, with all environmental requ
 
 (l) *Environmental justice.* Executive Order 12898—Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations (3 CFR, 1994 Comp., p. 859).
 
-[61 FR 50916, Sept. 27, 1996, as amended at 78 FR 68728, Nov. 15, 2013]
+[61 FR 50916, Sept. 27, 1996, as amended at 78 FR 68728, Nov. 15, 2013; 89 FR 30903, Apr. 23, 2024]

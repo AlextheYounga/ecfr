@@ -1,5 +1,7 @@
 ##### § 23.101 Minimum financial requirements for swap dealers and major swap participants. #####
 
+Link to an amendment published at 89 FR 45586, May 23, 2024.
+
 (a)(1) Except as provided in paragraphs (a)(2) through (a)(5) of this section, each swap dealer must elect to be subject to the minimum capital requirements set forth in either paragraphs (a)(1)(i) or (a)(1)(ii) of this section:
 
 (i) A swap dealer that elects to meet the capital requirements in this paragraph (a)(1)(i) must at all times maintain regulatory capital that meets the following:

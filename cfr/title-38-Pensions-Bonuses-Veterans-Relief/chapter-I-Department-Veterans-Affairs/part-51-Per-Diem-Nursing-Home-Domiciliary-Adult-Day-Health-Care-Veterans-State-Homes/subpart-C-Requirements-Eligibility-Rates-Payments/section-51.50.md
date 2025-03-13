@@ -18,10 +18,12 @@ A veteran is an eligible veteran for the purposes of payment of per diem for nur
 
 (h) Veterans solely seeking care for a disorder associated with exposure to a toxic substance or radiation, for a disorder associated with service in the Southwest Asia theater of operations during the Persian Gulf War, as provided in 38 U.S.C. 1710(e), or for any illness associated with service in combat in a war after the Gulf War or during a period of hostility after November 11, 1998, as provided and limited in 38 U.S.C. 1710(e);
 
-(i) Veterans who agree to pay to the United States the applicable co-payment determined under 38 U.S.C. 1710(f) and 1710(g).
+(i) Veterans of World War II;
 
-Note 1 to paragraph (i):
+(j) Veterans who agree to pay to the United States the applicable co-payment determined under 38 U.S.C. 1710(f) and 1710(g).
+
+Note 1 to paragraph (j):
 
 Neither enrollment in the VA healthcare system nor eligibility to enroll is required to be an eligible veteran for the purposes of payment of per diem for nursing home care.
 
-[83 FR 61275, Nov. 28, 2018]
+[83 FR 61275, Nov. 28, 2018, as amended at 89 FR 45601, May 23, 2024]
