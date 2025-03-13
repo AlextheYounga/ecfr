@@ -1,0 +1,3 @@
+##### § 201.390 Severability. #####
+
+If any provision of this subpart, or any component of any provision, is declared invalid or the applicability thereof to any person or circumstances is held invalid, it is the Agricultural Marketing Service's intention that the validity of the remainder of this subpart or the applicability thereof to other persons or circumstances shall not be affected thereby with the remaining provision, or component of any provision, to continue in effect.

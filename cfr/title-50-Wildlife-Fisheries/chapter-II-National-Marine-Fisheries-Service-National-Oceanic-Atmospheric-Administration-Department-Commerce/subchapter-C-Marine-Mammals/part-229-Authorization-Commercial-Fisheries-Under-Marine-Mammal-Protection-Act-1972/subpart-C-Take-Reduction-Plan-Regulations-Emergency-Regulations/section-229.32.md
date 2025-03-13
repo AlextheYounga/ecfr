@@ -1,7 +1,5 @@
 ##### § 229.32 Atlantic large whale take reduction plan regulations. #####
 
-Link to an amendment published at 89 FR 8349, Feb. 7, 2024.
-
 (a) *Purpose and scope*—(1) *Whales and fixed gear fisheries.* The purpose of this section is to implement the Atlantic Large Whale Take Reduction Plan to reduce incidental mortality and serious injury of fin, humpback, and right whales in specific Category I and Category II commercial fisheries from Maine through Florida. Specific Category I and II commercial fisheries within the scope of the Plan are identified and updated in the annual List of Fisheries. The measures identified in the Atlantic Large Whale Take Reduction Plan are also intended to benefit minke whales, which are not designated as a strategic stock, but are known to be taken incidentally in gillnet and trap/pot fisheries. The gear types affected by this plan include gillnets (*e.g.,* anchored, drift, and shark) and traps/pots. The Assistant Administrator may revise the requirements set forth in this section in accordance with paragraph (i) of this section;
 
 (2) *Regulated waters*—(i) *U.S. Atlantic waters.* The regulations in this section apply to all U.S. waters in the Atlantic except for the areas exempted in paragraph (a)(3) of this section;
@@ -18,15 +16,13 @@ Table 2 to Paragraph (a)(2)(iv)West of Monhegan Island in the area north of the 
 
 (v) *Maine Lobster Management Zones:* The Maine Zones referred to in paragraph (c)(2)(iv) of this section include waters seaward of the Maine Exempted Waters referred to in paragraph (a)(3)(ii)(A) of this section as managed in eight Zones defined by Maine DMR. The Zones are bounded northeast by the U.S./Canada EEZ International Boundary line, offshore by the Lobster Management Area (LMA) boundary where LMA 1 meets the border of LMA 3 (LMA 1/LMA 3 boundary), and to the west by a boundary proceeding offshore from the Maine/New Hampshire state line. Individual Zone boundaries are defined as follows:
 
-Table 3 to Paragraph (a)(2)(v)
-
 |Maine lobster management zone|                                                                                                                                                                                                                                                                                                                                                                                        Description                                                                                                                                                                                                                                                                                                                                                                                        |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           A—East            |                                                                                                                                                                                                         The eastern and offshore boundary of Zone A East follows the International Boundary line between Canada and the United States (Maine) extending to and following the Exclusive Economic Zone boundary to approximately 44°8′ N lat., 67°18.00′ W long.  <br/>The western boundary runs from that point due north along the 67°18.00′ W long. line to Cross Island, Maine.                                                                                                                                                                                                         |
 |           A—West            |                                                                                                                                                                                                   The eastern boundary of Zone A West is the western boundary of Zone A East.  <br/>The western boundary of Zone A West follows: A line running from the Southern tip of Schoodic Point at 44°19.90′ N lat., and 68°03.61′ W long. and running south southeast to the LMA1/LMA3 border at 43°45.43′ N lat. and 67°50.12′ W long.  <br/>The offshore boundary is the LMA1/LMA3 boundary.                                                                                                                                                                                                   |
 |              B              |                                                                                                                                                                                                                                                                                                                                                          The eastern boundary of Zone B is the western boundary of Zone A West.                                                                                                                                                                                                                                                                                                                                                           |
 |                             |                                                                                                                                                                                                                                                                                                                    The western boundary follows a line that starts at the southernmost end of Newbury Neck following a straight line connecting the points as follows:                                                                                                                                                                                                                                                                                                                    |
-|                             |                                                                                                                   44°13.7′ N lat, 68°27.8 W long. (a point1/4 mile due east of Pond Island), then to the easternmost point of Black Island then to the navigation buoy R “8” at the western entrance of York Narrows then south to Swans Island Head then continuing along the southwestern shore of Swans Island to West Point then following the western boundary of the Swans Island Lobster Conservation Area southerly to a point at 44° 01.9′ N lat, 68°28.6′ W long, then SSE to 43°32.66′ N lat., 68°17.28′ W long. where it intersects the LMA1/LMA3 boundary.                                                                                                                   |
+|                             |                                                                                                                  44°13.7′ N lat, 68°27.8 W long. (a point 1/4 mile due east of Pond Island), then to the easternmost point of Black Island then to the navigation buoy R “8” at the western entrance of York Narrows then south to Swans Island Head then continuing along the southwestern shore of Swans Island to West Point then following the western boundary of the Swans Island Lobster Conservation Area southerly to a point at 44° 01.9′ N lat, 68°28.6′ W long, then SSE to 43°32.66′ N lat., 68°17.28′ W long. where it intersects the LMA1/LMA3 boundary.                                                                                                                   |
 |                             |                                                                                                                                                                                                                                                                                                                                                                     The offshore boundary is the LMA1/LMA3 boundary.                                                                                                                                                                                                                                                                                                                                                                      |
 |              C              |                                                                                                                                                                                                                                                                                                                                                             The eastern boundary of Zone C is the western boundary of Zone B.                                                                                                                                                                                                                                                                                                                                                             |
 |                             |                                                                                                                                                                                                                                                                                                                                                         The western boundary runs along a line connecting the points as follows:                                                                                                                                                                                                                                                                                                                                                          |
@@ -84,8 +80,6 @@ Table 6 to Paragraph (a)(3)(ii)(C)A line from 41°22.441′ N lat., 71°30.781�
 
 (i) *Jordan Basin.* The Jordan Basin Restricted Area is bounded by the following points connected by straight lines in the order listed:
 
-Table 7 to Paragraph (b)(1)(i)
-
 |Point|N Lat.|W Long.|
 |-----|------|-------|
 |JBRA1|43°15′|68°50′ |
@@ -96,8 +90,6 @@ Table 7 to Paragraph (b)(1)(i)
 |JBRA1|43°15′|68°50′ |
 
 (ii) *Jeffreys Ledge Restricted Area.* The Jeffreys Ledge Restricted Area is bounded by the following points connected by a straight line in the order listed:
-
-Table 8 to Paragraph (b)(1)(ii)
 
 |Point|N Lat.|W Long.|
 |-----|------|-------|
@@ -119,12 +111,10 @@ Table 8 to Paragraph (b)(1)(ii)
 
 (3) *Color code.* Gear must be marked with the appropriate colors to designate gear types and areas as follows:
 
-Table 9 to Paragraph (b)(3)
-
 |                                                                                           Color code scheme                                                                                            |                                                |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
 |                                                                                          Plan management area                                                                                          |                     Color                      |
-|                                                        Northeast Region, Lobster and Jonah Crab Trap/Pot Gear, Applicable beginning May 1, 2022                                                        |                                                |
+|                                                      **Northeast Region, Lobster and Jonah Crab Trap/Pot Gear, Applicable beginning May 1, 2022**                                                      |                                                |
 |                                   Trawls fished by vessels permitted by the state of Maine and with a principal port identified in Maine when fished in state waters                                   |                    Purple.                     |
 |                          Trawls fished by vessels permitted by the state of Maine and NMFS, with a principal port identified in Maine when fished in Federal LMA 1 waters \*                           |                 Purple, Green.                 |
 |                           Trawls fished by vessels permitted by the state of New Hampshire and with a principal port identified in New Hampshire when fished in state waters                           |                    Yellow.                     |
@@ -134,7 +124,7 @@ Table 9 to Paragraph (b)(3)
 |                            Trawls fished by vessels permitted by the state of Rhode Island and with a principal port identified in Rhode Island when fished in state waters                            |                  Silver/Gray.                  |
 |         Trawls fished by vessels permitted by the state of Rhode Island and NMFS, with a principal port identified in Rhode Island when in Federal waters of LMA 2 (including 2/3 overlap) \*          |              Silver/Gray, Green.               |
 |                                                     Trawls fished in the Northeast EEZ Offshore Management Area 3 (LMA3) excluding the 2/3 overlap                                                     |                 Black, Green.                  |
-|                                                                                 Northeast Region, Other Trap/Pot gear                                                                                  |                                                |
+|                                                                               **Northeast Region, Other Trap/Pot gear**                                                                                |                                                |
 |                                                                                     Massachusetts Restricted Area                                                                                      |                      Red.                      |
 |                                                                                           Northern Nearshore                                                                                           |                      Red.                      |
 |                                                                                         Northern Inshore State                                                                                         |                      Red.                      |
@@ -148,12 +138,12 @@ Table 9 to Paragraph (b)(3)
 |                                                               Great South Channel Restricted Area overlapping with LMA 2/3 and/or LMA 3                                                                |                     Black.                     |
 |                                                                                              Jordan Basin                                                                                              |Black and Purple (LMA 3), Red and Purple (LMA 1)|
 |                                                                                             Jeffreys Ledge                                                                                             |                 Red and Green.                 |
-|                                                                                             Trap/Pot Gear                                                                                              |                                                |
+|                                                                                           **Trap/Pot Gear**                                                                                            |                                                |
 |                                                                                           Southern Nearshore                                                                                           |                    Orange.                     |
 |                                                                             Southeast Restricted Area North (state Waters)                                                                             |                Blue and Orange.                |
 |                                                                            Southeast Restricted Area North (Federal Waters)                                                                            |               Green and Orange.                |
 |                                                                                                Offshore                                                                                                |                     Black.                     |
-|                                                                                    Gillnet excluding shark gillnet                                                                                     |                                                |
+|                                                                                  **Gillnet excluding shark gillnet**                                                                                   |                                                |
 |                                                                                      Cape Cod Bay Restricted Area                                                                                      |                     Green.                     |
 |                                                                             Stellwagen Bank/Jeffreys Ledge Restricted Area                                                                             |                     Green.                     |
 |                                                                                  Great South Channel Restricted Area                                                                                   |                     Green.                     |
@@ -164,12 +154,11 @@ Table 9 to Paragraph (b)(3)
 |                                                                                   Mid/South Atlantic Gillnet Waters                                                                                    |                     Blue.                      |
 |                                                                                  Southeast U.S. Restricted Area South                                                                                  |                    Yellow.                     |
 |                                                                                     Other Southeast Gillnet Waters                                                                                     |                    Yellow.                     |
-|                                                                             Shark Gillnet (with webbing of 5″ or greater)                                                                              |                                                |
+|                                                                           **Shark Gillnet (with webbing of 5″ or greater)**                                                                            |                                                |
 |                                                                                  Southeast U.S. Restricted Area South                                                                                  |                Green and Blue.                 |
 |                                                                                       Southeast Monitoring Area                                                                                        |                Green and Blue.                 |
 |                                                                                         Other Southeast Waters                                                                                         |                Green and Blue.                 |
-
-\* For dual permitted vessels, state regulations will determine whether green marks can remain on gear being fished in state waters.
+|                                  \* For dual permitted vessels, state regulations will determine whether green marks can remain on gear being fished in state waters.                                  |                                                |
 
 (c) *Restrictions applicable to trap/pot gear in regulated waters*—(1) *Universal trap/pot gear requirements.* In addition to the gear marking requirements listed in paragraph (b) of this section and the area-specific measures listed in paragraphs (c)(2) through (14) of this section, all trap/pot gear in regulated waters, including the Northern Inshore State Trap/Pot Waters Area, must comply with the universal gear requirements listed in paragraphs (c)(1)(i) through (iii) of this section;1
 
@@ -203,11 +192,9 @@ Table 9 to Paragraph (b)(3)
 
 (iv) *Table of area specific trap/pot gear requirements.*
 
-Table 10 to Paragraph (c)(2)(iv)
-
 |                                                                                                                             Mgmt area; location                                                                                                                              |                                          Minimum number traps/trawl                                          |                                            Minimum number of weak rope or weak insertion configuration                                            |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                              Northeast Region Lobster and Jonah Crab Trap/Pot, Applicable beginning May 1, 2022                                                                                              |                                                                                                              |                                                                                                                                                   |
+|                                                                                            **Northeast Region Lobster and Jonah Crab Trap/Pot, Applicable beginning May 1, 2022**                                                                                            |                                                                                                              |                                                                                                                                                   |
 |                                                                                                   Northern Inshore State; Maine Zones A, B, F, G exempt waters to 3 miles                                                                                                    |                                               3 (1 buoy line)                                                |              Weak line for the top 50 percent of the buoy line or one weak insertion device at 50 percent buoy line length from top.              |
 |                                                                                                   Northern Inshore State; Maine Zones C, D, and E exempt waters to 3 miles                                                                                                   |                                     2 (1 buoy line) or 4 (2 buoy lines)                                      |              Weak line for the top 50 percent of the buoy line or one weak insertion device at 50 percent buoy line length from top.              |
 |                                                                                                             Northern Nearshore: Maine Zone A East 3 to 12 miles                                                                                                              |                                    10 (1 buoy line) or 20 (2 buoy lines)                                     |              Weak line for the top 33 percent of the buoy line or one weak insertion device at 33 percent buoy line length from top.              |
@@ -220,7 +207,7 @@ Table 10 to Paragraph (c)(2)(iv)
 |                                                                                                                Northern Nearshore: Maine Zone C 6 to 12 miles                                                                                                                |                                    10 (1 buoy line) or 20 (2 buoy lines)                                     |Weak line for the top 50 percent of the buoy line or two weak insertion devices, one at 25 percent and one at 50 percent buoy line length from top.|
 |                                                                                                                Northern Nearshore: Maine Zone F 6 to 12 miles                                                                                                                |                                     5 (1 buoy line) or 10 (2 buoy lines)                                     |              Weak line for the top 33 percent of the buoy line or one weak insertion device at 33 percent buoy line length from top.              |
 |                                                                                                                Northern Nearshore: Maine Zone G 6 to 12 miles                                                                                                                |                                    10 (1 buoy line) or 20 (2 buoy lines)                                     |              Weak line for the top 33 percent of the buoy line or one weak insertion device at 33 percent buoy line length from top.              |
-|                                                                                       Northern Inshore State and Massachusetts Restricted Area; Massachusetts State Waters<sup>2</sup>                                                                                       |No minimum number of traps per trawl. Trawls up to and including 3 or fewer traps must only have one buoy line|                  Weak inserts every 60 feet (18.3 m) in top 75 percent of line or full weak line through top 75 percent of line.                  |
+|                                                                                      Northern Inshore State and Massachusetts Restricted Area; Massachusetts State Waters <sup>2</sup>                                                                                       |No minimum number of traps per trawl. Trawls up to and including 3 or fewer traps must only have one buoy line|                  Weak inserts every 60 feet (18.3 m) in top 75 percent of line or full weak line through top 75 percent of line.                  |
 |                                                                                          Northern Inshore State and Massachusetts Restricted Area; Other Massachusetts State Waters                                                                                          |           2 (1 buoy line) Trawls up to and including 3 or fewer traps must only have one buoy line           |                  Weak inserts every 60 feet (18.3 m) in top 75 percent of line or full weak line through top 75 percent of line.                  |
 |                                                                                                              Northern Inshore State; New Hampshire State Waters                                                                                                              |                                            No minimum trap/trawl                                             |              Weak line for the top 50 percent of the buoy line or one weak insertion device at 50 percent buoy line length from top.              |
 |                                                                                                       Northern Nearshore; New Hampshire and Massachusetts (3-6 miles)                                                                                                        |                                                      10                                                      |Weak line for the top 50 percent of the buoy line or two weak insertion devices, one at 25 percent and one at 50 percent buoy line length from top.|
@@ -236,14 +223,14 @@ Table 10 to Paragraph (c)(2)(iv)
 |Northeast Region Offshore waters including Great South Channel Restricted Area, and Massachusetts South Island Restricted Area, with the exception of the Georges Basin and South Georges 50 Fathom Restricted Areas; LMA 3 including LMA3-only vessels fishing in 2/3 overlap|                                                      45                                                      |                                                Weak line for the top 75 percent of one buoy line.                                                 |
 |                                                                                                        Northeast Region Offshore waters Georges Basin Restricted Area                                                                                                        |                                                      50                                                      |                                                Weak line for the top 75 percent of the buoy line.                                                 |
 |                                                                                                   Northeast Region Offshore waters South Georges 50 Fathom Restricted Area                                                                                                   |                                                      35                                                      |                                                Weak line for the top 75 percent of the buoy line.                                                 |
-|                                                                                                                                Other Trap/Pot                                                                                                                                |                                                                                                              |                                                                                                                                                   |
-|                                                                                                      Northern Inshore State; Maine State and Pocket Waters<sup>1</sup>                                                                                                       |                                               2 (1 buoy line)                                                |                                                                     ≤600 lb.                                                                      |
-|                                                                                                         Northern Nearshore; Maine Zones A-G (3-6 miles)<sup>1</sup>                                                                                                          |                                               3 (1 buoy line)                                                |                                                                     ≤600 lb.                                                                      |
-|                                                                                                         Northern Nearshore; Maine Zones A-C (6-12 miles)<sup>1</sup>                                                                                                         |                                               5 (1 buoy line)                                                |                                                                     ≤600 lb.                                                                      |
-|                                                                                                         Northern Nearshore; Maine Zones D-G (6-12 miles)<sup>1</sup>                                                                                                         |                                                      10                                                      |                                                                     ≤600 lb.                                                                      |
+|                                                                                                                              **Other Trap/Pot**                                                                                                                              |                                                                                                              |                                                                                                                                                   |
+|                                                                                                      Northern Inshore State; Maine State and Pocket Waters <sup>1</sup>                                                                                                      |                                               2 (1 buoy line)                                                |                                                                     ≤600 lb.                                                                      |
+|                                                                                                         Northern Nearshore; Maine Zones A-G (3-6 miles) <sup>1</sup>                                                                                                         |                                               3 (1 buoy line)                                                |                                                                     ≤600 lb.                                                                      |
+|                                                                                                        Northern Nearshore; Maine Zones A-C (6-12 miles) <sup>1</sup>                                                                                                         |                                               5 (1 buoy line)                                                |                                                                     ≤600 lb.                                                                      |
+|                                                                                                        Northern Nearshore; Maine Zones D-G (6-12 miles) <sup>1</sup>                                                                                                         |                                                      10                                                      |                                                                     ≤600 lb.                                                                      |
 |                                                                                             Northern Nearshore, Offshore, and LMA1 Restricted Area; Maine Zones A-E (12+ miles)                                                                                              |                                                      15                                                      |                                          ≤600 lb (≤1500 lb in offshore, 2,000 lb if red crab trap/pot).                                           |
 |                                                                                             Northern Nearshore, Offshore, and LMA1 Restricted Area; Maine Zones F-G (12+ miles)                                                                                              |                                    15 (Mar 1-Oct 31) 20 (Nov 1-Feb 28/29)                                    |                                          ≤600 ls (≤1500 lb in offshore, 2,000 ls if red crab trap/pot).                                           |
-|                                                                                       Northern Inshore State and Massachusetts Restricted Area; Massachusetts State Waters<sup>2</sup>                                                                                       |No minimum number of traps per trawl. Trawls up to and including 3 or fewer traps must only have one buoy line|                                                                     ≤600 lb.                                                                      |
+|                                                                                      Northern Inshore State and Massachusetts Restricted Area; Massachusetts State Waters <sup>2</sup>                                                                                       |No minimum number of traps per trawl. Trawls up to and including 3 or fewer traps must only have one buoy line|                                                                     ≤600 lb.                                                                      |
 |                                                                   Northern Inshore State, Massachusetts Restricted Area, and Massachusetts South Island Restricted Area; Other Massachusetts State Waters                                                                    |           2 (1 buoy line) Trawls up to and including 3 or fewer traps must only have one buoy line           |                                                                     ≤600 lb.                                                                      |
 |                                                                                                              Northern Inshore State; New Hampshire State Waters                                                                                                              |                                     No minimum number of traps per trawl                                     |                                                                     ≤600 lb.                                                                      |
 |                                                                         Northern Nearshore and Massachusetts Restricted Area and Stellwagen Bank/Jeffreys Ledge Restricted Area; LMA 1 (3-12 miles)                                                                          |                                                      10                                                      |                                                                     ≤600 lb.                                                                      |
@@ -258,21 +245,16 @@ Table 10 to Paragraph (c)(2)(iv)
 |                                                                   Northeast Offshore and Great South Channel Restricted Area, and Massachusetts South Island Restricted Area; LMA 2/3 Overlap (12+ miles)                                                                    |                                                      20                                                      |                                                     ≤1500 lb (2,000 lb if red crab trap/pot).                                                     |
 |                                                                      Northeast Offshore waters, Great South Channel Restricted Area, and Massachusetts South Island Restricted Area; LMA 3 (12+ miles)                                                                       |                                                      20                                                      |                                                     ≤1500 lb (2,000 lb if red crab trap/pot).                                                     |
 |                                                                                                                        Southern Nearshore; LMA 4,5,6                                                                                                                         |                                     No minimum number of traps per trawl                                     |                                                                     ≤600 lb.                                                                      |
-|                                                                                                    Southeast U.S. Restricted Area North<sup>3</sup> Florida State Waters                                                                                                     |                                                      1                                                       |                                                                     ≤200 lb.                                                                      |
-|                                                                                                    Southeast U.S. Restricted Area North;<sup>3</sup> Georgia State Waters                                                                                                    |                                                      1                                                       |                                                                     ≤600 lb.                                                                      |
-|                                                                                                Southeast U.S. Restricted Area North;<sup>3</sup> South Carolina State Waters                                                                                                 |                                                      1                                                       |                                                                     ≤600 lb.                                                                      |
-|                                                                                    Southeast U.S. Restricted Area North;<sup>3</sup> Federal Waters off Florida, Georgia, South Carolina                                                                                     |                                                      1                                                       |                                                                     ≤600 lb.                                                                      |
-
-<sup>1</sup> The 6-mile line, pocket waters, and Maine Zones are defined in paragraphs (a)(2)(iii) through (v) of this section.
-
-<sup>2</sup> Massachusetts State waters as defined as paragraph (a)(3)(ii)(E) of this section.
-
-<sup>3</sup> See paragraph (f)(1) of this section for description of area.
+|                                                                                                    Southeast U.S. Restricted Area North <sup>3</sup> Florida State Waters                                                                                                    |                                                      1                                                       |                                                                     ≤200 lb.                                                                      |
+|                                                                                                   Southeast U.S. Restricted Area North; <sup>3</sup> Georgia State Waters                                                                                                    |                                                      1                                                       |                                                                     ≤600 lb.                                                                      |
+|                                                                                                Southeast U.S. Restricted Area North; <sup>3</sup> South Carolina State Waters                                                                                                |                                                      1                                                       |                                                                     ≤600 lb.                                                                      |
+|                                                                                    Southeast U.S. Restricted Area North; <sup>3</sup> Federal Waters off Florida, Georgia, South Carolina                                                                                    |                                                      1                                                       |                                                                     ≤600 lb.                                                                      |
+|                                                                       <sup>1</sup> The 6-mile line, pocket waters, and Maine Zones are defined in paragraphs (a)(2)(iii) through (v) of this section.                                                                        |                                                                                                              |                                                                                                                                                   |
+|                                                                                        <sup>2</sup> Massachusetts State waters as defined as paragraph (a)(3)(ii)(E) of this section.                                                                                        |                                                                                                              |                                                                                                                                                   |
+|                                                                                                  <sup>3</sup> See paragraph (f)(1) of this section for description of area.                                                                                                  |                                                                                                              |                                                                                                                                                   |
 
 (3) *Massachusetts Restricted Area*—
 (i) *Area.* The Massachusetts Restricted Area is bounded landward by the Massachusetts shoreline, from points MRA1 through MRA3 bounded seaward by the designated Massachusetts State waters boundary, and then bounded by a rhumb line connecting points MRA3 through MRA10 in order as detailed in table 11 to this paragraph (c)(3)(i);
-
-Table 11 to Paragraph (c)(3)(i)
 
 |Point| N Lat.  | W Long. |
 |-----|---------|---------|
@@ -293,8 +275,6 @@ Table 11 to Paragraph (c)(3)(i)
 
 (4) *South Island Restricted Area*—(i) *Area.* The South Island Restricted Area is bounded by the following points connected by rhumb lines in the order listed, and bounded on the north by the shoreline of Nantucket, Massachusetts.
 
-Table 12 to Paragraph (c)(4)(i)
-
 |Point|  N lat.   |  W long.  |
 |-----|-----------|-----------|
 |SIRA1|41°20.00′ N|71°19.00′ W|
@@ -309,8 +289,6 @@ Table 12 to Paragraph (c)(4)(i)
 
 (5) *Great South Channel Restricted Trap/Pot Area*—(i) *Area.* The Great South Channel Restricted Trap/Pot Area consists of the area bounded by the following points.
 
-Table 13 to Paragraph (c)(5)(i)
-
 |Point|N lat.|W long.|
 |-----|------|-------|
 |GSC1 |41°40′|69°45′ |
@@ -324,8 +302,6 @@ Table 13 to Paragraph (c)(5)(i)
 (iii) *Area-specific gear or vessel requirements.* From July 1 through March 31, no person or vessel may fish with or possess trap/pot gear in the Great South Channel Restricted Trap/Pot Area unless that gear complies with the gear marking requirements specified in paragraph (b) of this section, the universal trap/pot gear requirements specified in paragraph (c)(1) of this section, and the area-specific requirements listed in paragraph (c)(2) of this section, or unless the gear is stowed as specified in § 229.2.
 
 (6) *Lobster Management Area One Restricted Area*—(i) *Area.* The Lobster Management Area One Restricted Area (LMRA1) is bounded by the following points connected by rhumblines in the order listed.
-
-Table 14 to Paragraph (c)(6)(i)
 
 | Point  | N lat.  | W long. |
 |--------|---------|---------|
@@ -345,8 +321,6 @@ Table 14 to Paragraph (c)(6)(i)
 
 (8) *Georges Basin Restricted Area*—(i) *Area.* The Georges Basin Restricted Area (GBRA) referred to in paragraph (c)(2)(iv) of this section is bounded by rhumb lines connecting the following points in the order listed in table 15 to paragraph (c)(8)(i).
 
-Table 15 to Paragraph (c)(8)(i)
-
 |Point | N lat.  | W long. |
 |------|---------|---------|
 |GBRA 1|42°03.00′|67°40.02′|
@@ -360,8 +334,6 @@ Table 15 to Paragraph (c)(8)(i)
 (iii) *Area-specific gear or vessel requirements.* Beginning May 1 2022, no person or vessel may fish with or possess trap/pot gear in the Georges Basin Restricted Area unless that gear complies with the gear marking requirements specified in paragraph (b) of this section, the universal trap/pot gear requirements specified in paragraph (c)(1) of this section, and the area-specific requirements listed in paragraph (c)(2) of this section, or unless the gear is stowed as specified in § 229.2.
 
 (9) *South Georges 50 Fathom Restricted Area*—(i) *Area.* The South Georges 50 Fathom Restricted Area curve line referred to in paragraph (c)(2)(iv) of this section is an area bounded in the south by the 40 degree southern border of the Northeast Region, bounded seaward by the EEZ, and bounded in the north by rhumb lines connecting the following points in the order listed in table 16 to paragraph (c)(9)(i).
-
-Table 16 to Paragraph (c)(9)(i)
 
 | Point | N lat.  | W long. |
 |-------|---------|---------|
@@ -478,8 +450,6 @@ Table 16 to Paragraph (c)(9)(i)
 
 (3) *Cape Cod Bay Restricted Area*—(i) *Area.* The Cape Cod Bay restricted area is bounded by the following points and on the south and east by the interior shoreline of Cape Cod, Massachusetts.
 
-Table 17 to Paragraph (d)(3)(i)
-
 |Point| N lat. |W long.|
 |-----|--------|-------|
 |CCB1 |41°46.8′|70°30′ |
@@ -493,8 +463,6 @@ Table 17 to Paragraph (d)(3)(i)
 
 (4) *Great South Channel Restricted Gillnet Area*—(i) *Area.* The Great South Channel Restricted Gillnet Area consists of the area bounded by lines connecting the following four points:
 
-Table 18 to Paragraph (d)(4)(i)
-
 |Point| N lat. |W long. |
 |-----|--------|--------|
 |GSC1 |41°02.2′| 69°02′ |
@@ -507,8 +475,6 @@ Table 18 to Paragraph (d)(4)(i)
 (iii) *Area-specific gear or vessel requirements.* From July 1 through March 31 of each year, no person or vessel may fish with or possess anchored gillnet gear in the Great South Channel Restricted Gillnet Area unless that gear complies with the gear marking requirements specified in paragraph (b) of this section, the universal anchored gillnet gear requirements specified in paragraph (d)(1) of this section, and the area-specific requirements listed in paragraph (d)(2) of this section or unless the gear is stowed as specified in § 229.2.
 
 (5) *Great South Channel Sliver Restricted Area*—(i) *Area.* The Great South Channel Sliver Restricted Area consists of the area bounded by lines connecting the following points:
-
-Table 19 to Paragraph (d)(5)(i)
 
 |Point | N lat. |W long. |
 |------|--------|--------|
@@ -567,8 +533,6 @@ Table 19 to Paragraph (d)(5)(i)
 
 (e) *Restrictions applicable to drift gillnet gear*—(1) *Cape Cod Bay Restricted Area*—(i) *Area.* The Cape Cod Bay Restricted Area is bounded by the following points and on the south and east by the interior shoreline of Cape Cod, Massachusetts.
 
-Table 20 to Paragraph (e)(1)(i)
-
 |Point| N lat. |W long.|
 |-----|--------|-------|
 |CCB1 |41°46.8′|70°30′ |
@@ -582,8 +546,6 @@ Table 20 to Paragraph (e)(1)(i)
 
 (2) *Great South Channel Restricted Gillnet Area*—(i) *Area.* The Great South Channel Restricted Gillnet Area consists of the area bounded by lines connecting the following four points:
 
-Table 21 to Paragraph (e)(2)(i)
-
 |Point| N lat. |W long. |
 |-----|--------|--------|
 |GSC1 |41°02.2′| 69°02′ |
@@ -596,8 +558,6 @@ Table 21 to Paragraph (e)(2)(i)
 (iii) *Area-specific gear or vessel requirements.* From July 1 through March 31 of each year, no person or vessel may fish with or possess drift gillnet gear in the Great South Channel Restricted Gillnet Area unless that gear complies with the gear marking requirements specified in paragraph (b) of this section, or unless the gear is stowed as specified in § 229.2. Additionally, no person or vessel may fish with or possess drift gillnet gear at night in the Great South Channel Restricted Gillnet Area unless that gear is tended, or unless the gear is stowed as specified in § 229.2. During that time, all drift gillnet gear set by that vessel in the Great South Channel Restricted Gillnet Area must be removed from the water and stowed on board the vessel before a vessel returns to port.
 
 (3) *Great South Channel Sliver Restricted Area*—(i) *Area.* The Great South Channel Sliver Restricted Area consists of the area bounded by lines connecting the following points:
-
-Table 22 to Paragraph (e)(3)(i)
 
 |Point | N lat. |W long. |
 |------|--------|--------|
@@ -630,22 +590,18 @@ Table 22 to Paragraph (e)(3)(i)
 
 (f) *Restrictions applicable to the Southeast U.S. Restricted Area*—(1) *Area.* The Southeast U.S. Restricted Area consists of the area bounded by straight lines connecting the following points in the order stated from south to north:
 
-Table 23 to Paragraph (f)(1)
-
-|Point|    N lat.    |   W long.    |
-|-----|--------------|--------------|
-|SERA1|    27°51′    |(<sup>1</sup>)|
-|SERA2|    27°51′    |    80°00′    |
-|SERA3|    32°00′    |    80°00′    |
-|SERA4|    32°36′    |    78°52′    |
-|SERA5|    32°51′    |    78°36′    |
-|SERA6|    33°15′    |    78°24′    |
-|SERA7|    33°27′    |    78°04′    |
-|SERA8|(<sup>2</sup>)|   78°33.9′   |
-
-<sup>1</sup> Florida shoreline.
-
-<sup>2</sup> South Carolina shoreline.
+|                Point                 |    N lat.    |   W long.    |
+|--------------------------------------|--------------|--------------|
+|                SERA1                 |    27°51′    |(<sup>1</sup>)|
+|                SERA2                 |    27°51′    |    80°00′    |
+|                SERA3                 |    32°00′    |    80°00′    |
+|                SERA4                 |    32°36′    |    78°52′    |
+|                SERA5                 |    32°51′    |    78°36′    |
+|                SERA6                 |    33°15′    |    78°24′    |
+|                SERA7                 |    33°27′    |    78°04′    |
+|                SERA8                 |(<sup>2</sup>)|   78°33.9′   |
+|   <sup>1</sup> Florida shoreline.    |              |              |
+|<sup>2</sup> South Carolina shoreline.|              |              |
 
 (i) *Southeast U.S. Restricted Area N.* The Southeast U.S. Restricted Area N consists of the Southeast U.S. Restricted Area from 29°00′ N lat. northward.
 

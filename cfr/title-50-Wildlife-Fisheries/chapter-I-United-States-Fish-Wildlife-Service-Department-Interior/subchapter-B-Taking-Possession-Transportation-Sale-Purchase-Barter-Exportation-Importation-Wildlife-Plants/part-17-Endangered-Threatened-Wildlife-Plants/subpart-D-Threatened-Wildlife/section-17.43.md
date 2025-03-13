@@ -1,6 +1,4 @@
-##### § 17.43 Special rules—amphibians. #####
-
-Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
+##### § 17.43 Species-specific rules—amphibians. #####
 
 (a) San Marcos salamander (*Eurycea nana*). (1) All provisions of § 17.31 apply to this species, except that it may be taken in accordance with applicable State law.
 
@@ -172,4 +170,4 @@ Figure 1 to paragraph (g)![](/graphics/er29au23.001.gif)
 
 (v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
-[40 FR 44415, Sept. 26, 1975, as amended at 45 FR 47363, July 14, 1980; 67 FR 40811, June 13, 2002; 69 FR 47248, Aug. 4, 2004; 71 FR 19293, Apr. 13, 2006; 77 FR 16375, Mar. 20, 2012; 80 FR 47428, Aug. 7, 2015; 86 FR 30728, June 9, 2021; 88 FR 59725, Aug. 29, 2023]
+[40 FR 44415, Sept. 26, 1975, as amended at 45 FR 47363, July 14, 1980; 67 FR 40811, June 13, 2002; 69 FR 47248, Aug. 4, 2004; 71 FR 19293, Apr. 13, 2006; 77 FR 16375, Mar. 20, 2012; 80 FR 47428, Aug. 7, 2015; 86 FR 30728, June 9, 2021; 88 FR 59725, Aug. 29, 2023; 89 FR 23940, Apr. 5, 2024]

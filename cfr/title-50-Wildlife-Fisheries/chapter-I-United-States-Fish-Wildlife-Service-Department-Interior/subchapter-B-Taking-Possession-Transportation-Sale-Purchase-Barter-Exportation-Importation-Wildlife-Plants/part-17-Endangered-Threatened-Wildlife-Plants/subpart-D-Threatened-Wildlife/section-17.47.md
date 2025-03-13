@@ -1,6 +1,4 @@
-##### § 17.47 Special rules—insects. #####
-
-Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
+##### § 17.47 Species-specific rules—insects. #####
 
 (a) Cassius blue butterfly (*Leptotes cassius theonus*), Ceraunus blue butterfly (*Hemiargus ceraunus antibubastus*), and Nickerbean blue butterfly (*Cyclargus ammon*). (1) The provisions of § 17.31(c) apply to these species (cassius blue butterfly, ceraunus blue butterfly, nickerbean blue butterfly), regardless of whether in the wild or in captivity, and also apply to the progeny of any such butterfly.
 
@@ -329,4 +327,4 @@ Table 1 to Paragraph (f)(3)(v)(G)
 
 (H) Maintenance of other existing structures within and immediately adjacent to silverspot habitat if activities are kept within the confines of already disturbed ground.
 
-[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020; 86 FR 72427, Dec. 20, 2021; 87 FR 73678, Dec. 1, 2022; 88 FR 2036, Jan. 12, 2023; 89 FR 11772, Feb. 15, 2024]
+[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020; 86 FR 72427, Dec. 20, 2021; 87 FR 73678, Dec. 1, 2022; 88 FR 2036, Jan. 12, 2023; 89 FR 11772, Feb. 15, 2024; 89 FR 23940, Apr. 5, 2024]

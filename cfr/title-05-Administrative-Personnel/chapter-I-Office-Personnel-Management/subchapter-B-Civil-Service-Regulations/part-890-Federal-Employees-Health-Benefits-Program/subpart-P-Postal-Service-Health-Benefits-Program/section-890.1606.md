@@ -1,5 +1,7 @@
 ##### § 890.1606 Opportunities to enroll, change enrollment, or reenroll; effective dates. #####
 
+Link to an amendment published at 89 FR 37079, May 6, 2024.
+
 (a) Except as otherwise provided in this subpart, a Postal Service employee may enroll or change enrollment, as provided by § 890.301, in a PSHB plan and may not enroll in a FEHB plan as a Postal Service employee.
 
 (b) Except as otherwise provided in this subpart, a Postal Service annuitant may change enrollment or reenroll as provided by § 890.306, in a PSHB plan and may not enroll or reenroll in a FEHB plan as a Postal Service annuitant.

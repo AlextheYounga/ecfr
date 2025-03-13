@@ -2,7 +2,7 @@
 
 (a) State DOTs shall establish targets annually for each performance measure identified in § 490.207(a) in a manner that is consistent with the following:
 
-(1) State DOT targets shall be identical to the targets established by the State Highway Safety Office for common performance measures reported in the State's Highway Safety Plan, subject to the requirements of 23 U.S.C. 402(k)(4), and as coordinated through the State Strategic Highway Safety Plan. For fiscal year 2024 only, the performance targets submitted under this paragraph are not required to be identical to the targets established by the State Highway Safety Office for the common performance measures.
+(1) State DOT targets shall be identical to the targets established by the State Highway Safety Office for common performance measures reported in the State's Highway Safety Plan, subject to the requirements of 23 U.S.C. 402(k)(4), and as coordinated through the State Strategic Highway Safety Plan. For Fiscal Year 2025 only, the performance targets submitted under this paragraph are not required to be identical to the targets established by the State Highway Safety Office for the common performance measures.
 
 (2) State DOT targets shall represent performance outcomes anticipated for the calendar year following the HSIP annual report date, as provided in 23 CFR 924.15.
 
@@ -46,4 +46,4 @@
 
 (2) The MPOs with multi-State boundaries that agree to plan and program projects to contribute toward State targets in accordance with paragraph (c)(4)(i) of this section shall plan and program safety projects in support of the State DOT targets for each area within each State (e.g., MPOs that extend into two States shall agree to plan and program projects to contribute toward two separate sets of targets (one set for each State)).
 
-[81 FR 13913, Mar. 15, 2016, as amended at 88 FR 36474, June 5, 2023]
+[81 FR 13913, Mar. 15, 2016, as amended at 88 FR 36474, June 5, 2023; 89 FR 37115, May 6, 2024]

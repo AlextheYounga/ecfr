@@ -1,5 +1,7 @@
 ##### § 112.161 What general requirements apply to records required under this part? #####
 
+Link to an amendment published at 89 FR 37519, May 6, 2024.
+
 (a) Except as otherwise specified, all records required under this part must:
 
 (1) Include, as applicable:

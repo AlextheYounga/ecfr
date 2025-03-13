@@ -1,8 +1,8 @@
 ##### § 17.32 Permits—general. #####
 
-Link to an amendment published at 89 FR 23939, Apr. 5, 2024.Link to an amendment published at 89 FR 26098, Apr. 12, 2024.
+Link to an amendment published at 89 FR 26098, Apr. 12, 2024.
 
-Upon receipt of a complete application the Director may issue a permit for any activity otherwise prohibited with regard to threatened wildlife. Such permit shall be governed by the provisions of this section unless a special rule applicable to the wildlife, appearing in §§ 17.40 to 17.48, of this part provides otherwise. Permits issued under this section must be for one of the following purposes: Scientific purposes, or the enhancement of propagation or survival, or economic hardship, or zoological exhibition, or educational purposes, or incidental taking, or special purposes consistent with the purposes of the Act. Such permits may authorize a single transaction, a series of transactions, or a number of activities over a specific period of time.
+Upon receipt of a complete application, the Director may issue a permit for any activity otherwise prohibited with regard to threatened wildlife. The permit shall be governed by the provisions of this section unless a species-specific rule applicable to the wildlife and set forth in §§ 17.40 through 17.48 provides otherwise. A permit issued under this section must be for one of the following purposes: scientific purposes, or the enhancement of propagation or survival, or economic hardship, or zoological exhibition, or educational purposes, or incidental taking, or special purposes consistent with the purposes of the Act. Such a permit may authorize a single transaction, a series of transactions, or a number of activities over a specific period of time.
 
 (a)(1) *Application requirements for permits for scientific purposes, or the enhancement of propagation or survival, or economic hardship, or zoological exhibition, or educational purposes, or special purposes consistent with the purposes of the Act.* A person wishing to get a permit for an activity prohibited by § 17.31 submits an application for activities under this paragraph. The Service provides Form 3-200 for the application to which as much of the following information relating to the purpose of the permit must be attached:
 
@@ -218,4 +218,4 @@ Upon receipt of a complete application the Director may issue a permit for any a
 
 (8) *Duration.* The duration of a CCAA covered by a permit issued under this paragraph (d) must be sufficient to achieve a net conservation benefit to the species covered by the permit and the Agreement and otherwise comply with the Candidate Conservation Agreement with Assurances policy available from the Service.
 
-[50 FR 39689, Sept. 30, 1985, as amended at 63 FR 8871, Feb. 23, 1998; 63 FR 52635, Oct. 1, 1998; 64 FR 32714, June 17, 1999; 64 FR 52676, Sept. 30, 1999; 69 FR 24093, May 3, 2004; 69 FR 29670, May 25, 2004; 69 FR 71731, Dec. 10, 2004; 81 FR 95055, Dec. 27, 2016]
+[50 FR 39689, Sept. 30, 1985, as amended at 63 FR 8871, Feb. 23, 1998; 63 FR 52635, Oct. 1, 1998; 64 FR 32714, June 17, 1999; 64 FR 52676, Sept. 30, 1999; 69 FR 24093, May 3, 2004; 69 FR 29670, May 25, 2004; 69 FR 71731, Dec. 10, 2004; 81 FR 95055, Dec. 27, 2016; 89 FR 23939, Apr. 5, 2024]

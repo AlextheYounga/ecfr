@@ -1,6 +1,4 @@
-##### § 17.46 Special rules—crustaceans. #####
-
-Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
+##### § 17.46 Species-specific rules—crustaceans. #####
 
 (a) Madison Cave isopod (*Antrolana lira*). (1) All provisions of § 17.31 (a) and (b) apply to this species except that it may be taken for scientific purposes without Federal permits issued pursuant to these regulations: *Provided,* that all other Federal, State, or local laws, regulations, ordinances or other restrictions or limitations have been complied with.
 
@@ -108,4 +106,4 @@ Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
 
 (v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
-[47 FR 43701, Oct. 4, 1982, as amended at 87 FR 576, Jan. 5, 2022; 88 FR 25538, Apr. 27, 2023]
+[47 FR 43701, Oct. 4, 1982, as amended at 87 FR 576, Jan. 5, 2022; 88 FR 25538, Apr. 27, 2023; 89 FR 23940, Apr. 5, 2024]

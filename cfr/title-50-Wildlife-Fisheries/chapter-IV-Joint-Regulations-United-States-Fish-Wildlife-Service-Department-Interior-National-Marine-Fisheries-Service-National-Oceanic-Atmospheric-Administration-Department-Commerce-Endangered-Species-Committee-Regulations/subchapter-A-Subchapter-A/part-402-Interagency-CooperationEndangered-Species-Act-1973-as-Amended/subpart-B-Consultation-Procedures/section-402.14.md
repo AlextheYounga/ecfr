@@ -1,7 +1,5 @@
 ##### § 402.14 Formal consultation. #####
 
-Link to an amendment published at 89 FR 24297, Apr. 5, 2024.
-
 (a) *Requirement for formal consultation.* Each Federal agency shall review its actions at the earliest possible time to determine whether any action may affect listed species or critical habitat. If such a determination is made, formal consultation is required, except as noted in paragraph (b) of this section. The Director may request a Federal agency to enter into consultation if he identifies any action of that agency that may affect listed species or critical habitat and for which there has been no consultation. When such a request is made, the Director shall forward to the Federal agency a written explanation of the basis for the request.
 
 (b) *Exceptions.* (1) A Federal agency need not initiate formal consultation if, as a result of the preparation of a biological assessment under § 402.12 or as a result of informal consultation with the Service under § 402.13, the Federal agency determines, with the written concurrence of the Director, that the proposed action is not likely to adversely affect any listed species or critical habitat.
@@ -97,25 +95,27 @@ A consultation involving an applicant cannot be extended for more than 60 days w
 
 (i) *Incidental take.* (1) In those cases where the Service concludes that an action (or the implementation of any reasonable and prudent alternatives) and the resultant incidental take of listed species will not violate section 7(a)(2), and, in the case of marine mammals, where the taking is authorized pursuant to section 101(a)(5) of the Marine Mammal Protection Act of 1972, the Service will provide with the biological opinion a statement concerning incidental take that:
 
-(i) Specifies the impact, *i.e.,* the amount or extent, of such incidental taking on the species (A surrogate (*e.g.,* similarly affected species or habitat or ecological conditions) may be used to express the amount or extent of anticipated take provided that the biological opinion or incidental take statement: Describes the causal link between the surrogate and take of the listed species, explains why it is not practical to express the amount or extent of anticipated take or to monitor take-related impacts in terms of individuals of the listed species, and sets a clear standard for determining when the level of anticipated take has been exceeded.);
+(i) Specifies the impact of incidental taking as the amount or extent of such taking. A surrogate (*e.g.,* similarly affected species or habitat or ecological conditions) may be used to express the amount or extent of anticipated take, provided that the biological opinion or incidental take statement: Describes the causal link between the surrogate and take of the listed species, explains why it is not practical to express the amount or extent of anticipated take or to monitor take-related impacts in terms of individuals of the listed species, and sets a clear standard for determining when the level of anticipated take has been exceeded;
 
-(ii) Specifies those reasonable and prudent measures that the Director considers necessary or appropriate to minimize such impact;
+(ii) Specifies those reasonable and prudent measures that the Director considers necessary or appropriate to minimize such impact of incidental taking on the species;
 
 (iii) In the case of marine mammals, specifies those measures that are necessary to comply with section 101(a)(5) of the Marine Mammal Protection Act of 1972 and applicable regulations with regard to such taking;
 
-(iv) Sets forth the terms and conditions (including, but not limited to, reporting requirements) that must be complied with by the Federal agency or any applicant to implement the measures specified under paragraphs (i)(1)(ii) and (i)(1)(iii) of this section; and
+(iv) Sets forth the terms and conditions (including, but not limited to, reporting requirements) that must be complied with by the Federal agency or any applicant to implement the measures specified under paragraphs (i)(1)(ii) and (iii) of this section; and
 
 (v) Specifies the procedures to be used to handle or dispose of any individuals of a species actually taken.
 
-(2) Reasonable and prudent measures, along with the terms and conditions that implement them, cannot alter the basic design, location, scope, duration, or timing of the action and may involve only minor changes.
+(2) Reasonable and prudent measures, along with the terms and conditions that implement them, cannot alter the basic design, location, scope, duration, or timing of the action, may involve only minor changes, and may include measures implemented inside or outside of the action area that avoid, reduce, or offset the impact of incidental take.
 
-(3) In order to monitor the impacts of incidental take, the Federal agency or any applicant must report the progress of the action and its impact on the species to the Service as specified in the incidental take statement. The reporting requirements will be established in accordance with 50 CFR 13.45 and 18.27 for FWS and 50 CFR 216.105 and 222.301(h) for NMFS.
+(3) Priority should be given to developing reasonable and prudent measures and terms and conditions that avoid or reduce the amount or extent of incidental taking anticipated to occur within the action area. To the extent it is anticipated that the action will cause incidental take that cannot feasibly be avoided or reduced in the action area, the Services may set forth additional reasonable and prudent measures and terms and conditions that serve to minimize the impact of such taking on the species inside or outside the action area.
 
-(4) If during the course of the action the amount or extent of incidental taking, as specified under paragraph (i)(1)(i) of this Section, is exceeded, the Federal agency must reinitiate consultation immediately.
+(4) In order to monitor the impacts of incidental take, the Federal agency or any applicant must report the progress of the action and its impact on the species to the Service as specified in the incidental take statement. The reporting requirements will be established in accordance with 50 CFR 13.45 and 18.27 for FWS and 50 CFR 216.105 and 222.301(h) for NMFS.
 
-(5) Any taking which is subject to a statement as specified in paragraph (i)(1) of this section and which is in compliance with the terms and conditions of that statement is not a prohibited taking under the Act, and no other authorization or permit under the Act is required.
+(5) If during the course of the action the amount or extent of incidental taking, as specified under paragraph (i)(1)(i) of this section, is exceeded, the Federal agency must reinitiate consultation immediately.
 
-(6) For a framework programmatic action, an incidental take statement is not required at the programmatic level; any incidental take resulting from any action subsequently authorized, funded, or carried out under the program will be addressed in subsequent section 7 consultation, as appropriate. For a mixed programmatic action, an incidental take statement is required at the programmatic level only for those program actions that are reasonably certain to cause take and are not subject to further section 7 consultation.
+(6) Any taking that is subject to a statement as specified in paragraph (i)(1) of this section and that is in compliance with the terms and conditions of that statement is not a prohibited taking under the Act, and no other authorization or permit under the Act is required.
+
+(7) For a framework programmatic action, an incidental take statement is not required at the programmatic level; any incidental take resulting from any action subsequently authorized, funded, or carried out under the program will be addressed in subsequent section 7 consultation, as appropriate. For a mixed programmatic action, an incidental take statement is required at the programmatic level only for those program actions that are reasonably certain to cause take and are not subject to further section 7 consultation.
 
 (j) *Conservation recommendations.* The Service may provide with the biological opinion a statement containing discretionary conservation recommendations. Conservation recommendations are advisory and are not intended to carry any binding legal force.
 
@@ -149,4 +149,4 @@ A consultation involving an applicant cannot be extended for more than 60 days w
 
 (3) If during any stage of consultation a Federal agency determines, with the concurrence of the Director, that its proposed action is not likely to adversely affect any listed species or critical habitat, the consultation is terminated.
 
-[51 FR 19957, June 3, 1986, as amended at 54 FR 40350, Sept. 29, 1989; 73 FR 76287, Dec. 16, 2008; 74 FR 20423, May 4, 2009; 80 FR 26844, May 11, 2015; 84 FR 45016, Aug. 27, 2019]
+[51 FR 19957, June 3, 1986, as amended at 54 FR 40350, Sept. 29, 1989; 73 FR 76287, Dec. 16, 2008; 74 FR 20423, May 4, 2009; 80 FR 26844, May 11, 2015; 84 FR 45016, Aug. 27, 2019; 89 FR 24297, Apr. 5, 2024]

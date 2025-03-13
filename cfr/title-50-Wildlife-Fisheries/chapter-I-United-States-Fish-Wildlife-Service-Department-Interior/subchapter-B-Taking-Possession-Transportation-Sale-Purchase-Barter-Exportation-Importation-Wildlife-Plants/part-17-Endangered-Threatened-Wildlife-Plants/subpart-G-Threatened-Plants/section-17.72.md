@@ -1,8 +1,6 @@
 ##### § 17.72 Permits—general. #####
 
-Link to an amendment published at 89 FR 23941, Apr. 5, 2024.
-
-Upon receipt of a complete application, the Director may issue a permit authorizing any activity otherwise prohibited with regard to threatened plants. The permit shall be governed by the provisions of this section unless a special rule applicable to the plant is provided in §§ 17.73 to 17.78. A permit issued under this section must be for one of the following: scientific purposes, the enhancement of the propagation or survival of threatened species, economic hardship, botanical or horticultural exhibition, educational purposes, or other activities consistent with the purposes and policy of the Act. Such a permit may authorize a single transaction, a series of transactions, or a number of activities over a specified period of time.
+Upon receipt of a complete application, the Director may issue a permit authorizing any activity otherwise prohibited with regard to threatened plants. The permit shall be governed by the provisions of this section unless a species-specific rule applicable to the plant and set forth in §§ 17.73 through 17.78 provides otherwise. A permit issued under this section must be for one of the following: scientific purposes, the enhancement of the propagation or survival of threatened species, economic hardship, botanical or horticultural exhibition, educational purposes, or other activities consistent with the purposes and policy of the Act. Such a permit may authorize a single transaction, a series of transactions, or a number of activities over a specified period of time.
 
 (a) *Application requirements.* A person wishing to get a permit for an activity prohibited by § 17.71 submits an application to conduct activities under this paragraph. For interstate commerce activities the seller gets the permit for plants coming from cultivated stock and the buyer gets the permit if the plants are taken from the wild. The Service provides Form 3-200 for the application or you may submit the general information and certification required by § 13.12(a) of this subchapter. Application requirements differ for permits issued for plants taken from the wild (excluding seeds), seeds and cultivated plants, or herbarium specimens. You must attach the following information and any other information requested by the Director.
 
@@ -60,4 +58,4 @@ Upon receipt of a complete application, the Director may issue a permit authoriz
 
 (d) *Duration of permit.* The duration of a permit issued under this section shall be designated on the face of the permit.
 
-[42 FR 32380, June 24, 1977, as amended at 50 FR 39691, Sept. 30, 1985; 63 FR 52636, Oct. 1, 1998; 79 FR 30419, May 27, 2014]
+[42 FR 32380, June 24, 1977, as amended at 50 FR 39691, Sept. 30, 1985; 63 FR 52636, Oct. 1, 1998; 79 FR 30419, May 27, 2014; 89 FR 23941, Apr. 5, 2024]

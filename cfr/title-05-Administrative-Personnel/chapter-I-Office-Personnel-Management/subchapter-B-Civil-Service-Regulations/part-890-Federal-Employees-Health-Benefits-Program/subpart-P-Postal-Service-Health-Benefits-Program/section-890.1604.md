@@ -1,5 +1,7 @@
 ##### § 890.1604 Medicare enrollment requirement for certain Postal Service annuitants and eligible family members. #####
 
+Link to an amendment published at 89 FR 37078, May 6, 2024.
+
 (a) Except as provided by paragraph (c)(1) of this section, a Postal Service Medicare covered annuitant may not enroll or continue enrollment in a health benefits plan under this subpart unless the annuitant is entitled to benefits under Medicare Part A and enrolled in Medicare Part B.
 
 (b) Except as provided by paragraph (c)(2) of this section, where a Postal Service annuitant is a covered Medicare individual and is required to enroll in Medicare Part B in order to be enrolled in a health benefits plan under this subpart, a Medicare covered member of family of the Postal Service annuitant may not enroll in a health benefits plan under this subpart as a member of family of the Postal Service annuitant unless the member of family is enrolled in Medicare Part B.

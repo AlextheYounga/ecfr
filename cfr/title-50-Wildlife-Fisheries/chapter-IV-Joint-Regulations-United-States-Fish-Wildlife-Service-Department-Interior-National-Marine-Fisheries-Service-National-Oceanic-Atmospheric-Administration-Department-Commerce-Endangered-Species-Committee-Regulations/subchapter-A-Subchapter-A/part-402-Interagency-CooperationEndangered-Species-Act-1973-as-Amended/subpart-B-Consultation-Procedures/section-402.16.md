@@ -1,8 +1,6 @@
 ##### § 402.16 Reinitiation of consultation. #####
 
-Link to an amendment published at 89 FR 24298, Apr. 5, 2024.
-
-(a) Reinitiation of consultation is required and shall be requested by the Federal agency or by the Service, where discretionary Federal involvement or control over the action has been retained or is authorized by law and:
+(a) Reinitiation of consultation is required and shall be requested by the Federal agency, where discretionary Federal involvement or control over the action has been retained or is authorized by law and:
 
 (1) If the amount or extent of taking specified in the incidental take statement is exceeded;
 
@@ -18,4 +16,4 @@ Link to an amendment published at 89 FR 24298, Apr. 5, 2024.
 
 (2) Five years have passed since the enactment of Public Law 115-141 [March 23, 2018] or the date of the listing of a species or the designation of critical habitat, whichever is later.
 
-[51 FR 19957, June 3, 1986, as amended at 84 FR 45017, Aug. 27, 2019]
+[51 FR 19957, June 3, 1986, as amended at 84 FR 45017, Aug. 27, 2019; 89 FR 24298, Apr. 5, 2024]

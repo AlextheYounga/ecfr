@@ -1,6 +1,4 @@
-##### § 17.41 Special rules—birds. #####
-
-Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
+##### § 17.41 Species-specific rules—birds. #####
 
 (a) Streaked horned lark (*Eremophila alpestris strigata*).
 
@@ -364,4 +362,4 @@ Figure 1 to paragraph (k)![](/graphics/er25no22.032.gif)
 
 (vii) Conduct activities as authorized by a captive-bred wildlife registration under § 17.21(g) for endangered wildlife.
 
-[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022; 87 FR 64720, Oct. 26, 2022; 87 FR 72753, Nov. 25, 2022; 87 FR 73971, Dec. 2, 2022; 88 FR 46949, July 20, 2023]
+[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022; 87 FR 64720, Oct. 26, 2022; 87 FR 72753, Nov. 25, 2022; 87 FR 73971, Dec. 2, 2022; 88 FR 46949, July 20, 2023; 89 FR 23940, Apr. 5, 2024]

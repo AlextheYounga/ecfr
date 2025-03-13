@@ -1,6 +1,4 @@
-##### § 17.44 Special rules—fishes. #####
-
-Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
+##### § 17.44 Species-specific rules—fishes. #####
 
 (a) Lahontan cutthroat trout, Paiute cutthroat trout, and Arizona trout (*Salmo clarki henshawi, Salmo clarki seleniris,* and *Salmo apache*). (1) All the provisions of § 17.31 apply to these species, except that they may be taken in accordance with applicable State law.
 

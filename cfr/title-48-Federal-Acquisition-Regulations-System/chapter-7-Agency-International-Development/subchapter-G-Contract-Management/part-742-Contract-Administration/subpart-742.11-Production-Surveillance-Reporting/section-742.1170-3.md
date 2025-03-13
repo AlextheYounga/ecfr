@@ -1,5 +1,7 @@
 ##### 742.1170-3 Policy. #####
 
+Link to an amendment published at 89 FR 37961, May 6, 2024.
+
 (a) The contractor is responsible for timely contract performance. Performance monitoring by USAID does not obviate this responsibility.
 
 (b) The requiring office, particularly the contracting officer's representative and the contracting officer, will determine how to monitor the contractor's performance to protect the Government's interests, by considering:

@@ -1,0 +1,3 @@
+##### § 301.6215-1 Assessment of deficiency found by Tax Court. #####
+
+Where a petition has been filed with the Tax Court, the entire amount redetermined as the deficiency by the decision of the Tax Court which has become final shall be assessed by the district director or the director of the regional service center and the unpaid portion of the amount so assessed shall be paid by the taxpayer upon notice and demand therefor.

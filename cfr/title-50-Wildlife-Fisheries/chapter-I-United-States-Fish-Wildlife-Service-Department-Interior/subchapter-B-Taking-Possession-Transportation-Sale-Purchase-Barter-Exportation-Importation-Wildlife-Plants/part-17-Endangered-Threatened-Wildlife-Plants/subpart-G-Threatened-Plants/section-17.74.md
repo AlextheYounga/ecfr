@@ -1,6 +1,4 @@
-##### § 17.74 Special rules—conifers and cycads. #####
-
-Link to an amendment published at 89 FR 23941, Apr. 5, 2024.
+##### § 17.74 Species-specific rules—conifers and cycads. #####
 
 (a) Whitebark pine (*Pinus albicaulis*).
 
@@ -32,4 +30,4 @@ Link to an amendment published at 89 FR 23941, Apr. 5, 2024.
 
 (b) [Reserved]
 
-[87 FR 76917, Dec. 15, 2022]
+[87 FR 76917, Dec. 15, 2022, as amended at 89 FR 23941, Apr. 5, 2024]

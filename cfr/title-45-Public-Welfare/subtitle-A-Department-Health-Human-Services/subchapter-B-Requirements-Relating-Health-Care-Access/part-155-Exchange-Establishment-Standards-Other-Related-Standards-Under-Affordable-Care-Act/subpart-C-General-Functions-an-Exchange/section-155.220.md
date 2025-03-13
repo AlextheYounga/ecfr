@@ -1,6 +1,6 @@
 ##### § 155.220 Ability of States to permit agents and brokers and web-brokers to assist qualified individuals, qualified employers, or qualified employees enrolling in QHPs. #####
 
-Link to an amendment published at 89 FR 26420, Apr. 15, 2024.
+Link to an amendment published at 89 FR 26420, Apr. 15, 2024.Link to an amendment published at 89 FR 37703, May 6, 2024.
 
 (a) *General rule.* A State may permit agents, brokers, and web-brokers to—
 

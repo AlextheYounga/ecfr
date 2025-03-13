@@ -1,5 +1,7 @@
 ##### § 112.3 What definitions apply to this part? #####
 
+Link to an amendment published at 89 FR 37514, May 6, 2024.
+
 The definitions and interpretations of terms in section 201 of the Federal Food, Drug, and Cosmetic Act apply to such terms when used in this part. The following definitions also apply:
 
 *Adequate* means that which is needed to accomplish the intended purpose in keeping with good public health practice.

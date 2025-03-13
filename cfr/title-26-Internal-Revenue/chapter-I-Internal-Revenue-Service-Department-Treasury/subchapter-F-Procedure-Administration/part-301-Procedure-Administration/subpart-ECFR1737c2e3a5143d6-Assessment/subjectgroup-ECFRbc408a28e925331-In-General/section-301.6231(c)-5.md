@@ -1,0 +1,7 @@
+##### § 301.6231(c)-5 Criminal investigations. #####
+
+(a) *In general.* The treatment of items as partnership items with respect to a partner under criminal investigation for violation of the internal revenue laws relating to income tax will interfere with the effective and efficient enforcement of the internal revenue laws. Accordingly, partnership items of such a partner arising in any partnership taxable year ending on or before the last day of the latest taxable year of the partner to which the criminal investigation relates shall be treated as nonpartnership items as of the date on which the partner is notified that the partner is the subject of a criminal investigation and written notification is sent by the Internal Revenue Service that the partner's partnership items shall be treated as nonpartnership items. The partnership items of a partner who is notified that the partner is the subject of a criminal investigation shall not be treated as nonpartnership items under this section unless and until such partner is sent written notification from the Internal Revenue Service of such treatment.
+
+(b) *Effective date.* This section is applicable to partnership taxable years beginning on or after October 4, 2001. For years beginning prior to October 4, 2001, see § 301.6231(c)-5T contained in 26 CFR part 1, revised April 1, 2001.
+
+[T.D. 8965, 66 FR 50561, Oct. 4, 2001]

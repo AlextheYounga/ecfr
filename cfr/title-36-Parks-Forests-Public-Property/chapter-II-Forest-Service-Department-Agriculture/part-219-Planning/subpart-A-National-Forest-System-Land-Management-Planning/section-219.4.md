@@ -16,7 +16,7 @@
 
 (2) *Consultation with federally recognized Indian Tribes and Alaska Native Corporations.* The Department recognizes the Federal Government has certain trust responsibilities and a unique legal relationship with federally recognized Indian Tribes. The responsible official shall honor the government-to-government relationship between federally recognized Indian Tribes and the Federal Government. The responsible official shall provide to federally recognized Indian Tribes and Alaska Native Corporations the opportunity to undertake consultation consistent with Executive Order 13175 of November 6, 2000, and 25 U.S.C. 450 note.
 
-(3) *Native knowledge, indigenous ecological knowledge, and land ethics.* As part of tribal participation and consultation as set forth in paragraphs (a)(1)(v) and (a)(2) of this section, the responsible official shall request information about native knowledge, land ethics, cultural issues, and sacred and culturally significant sites.
+(3) *Indigenous knowledge and land ethics.* As part of tribal participation and consultation as set forth in paragraphs (a)(1)(v) and (a)(2) of this section, the responsible official shall request information about Indigenous Knowledge, land ethics, cultural issues, and sacred and culturally significant sites.
 
 (b) *Coordination with other public planning efforts.* (1) The responsible official shall coordinate land management planning with the equivalent and related planning efforts of federally recognized Indian Tribes, Alaska Native Corporations, other Federal agencies, and State and local governments.
 
@@ -32,4 +32,4 @@
 
 (3) Nothing in this section should be read to indicate that the responsible official will seek to direct or control management of lands outside of the plan area, nor will the responsible official conform management to meet non-Forest Service objectives or policies.
 
-[77 FR 21260, Apr. 9, 2012, as amended at 77 FR 44144, July 27, 2012]
+[77 FR 21260, Apr. 9, 2012, as amended at 77 FR 44144, July 27, 2012; 89 FR 37137, May 6, 2024]

@@ -1,5 +1,7 @@
 ##### § 457.495 State assurance of access to care and procedures to assure quality and appropriateness of care. #####
 
+Link to an amendment published at 89 FR 37692, May 6, 2024.
+
 A State plan must include a description of the methods that a State uses for assuring the quality and appropriateness of care provided under the plan, including how the State will assure:
 
 (a) Access to well-baby care, well-child care, well-adolescent care and childhood and adolescent immunizations.

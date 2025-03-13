@@ -1,6 +1,6 @@
 ##### § 17.3 Definitions. #####
 
-Link to an amendment published at 89 FR 23938, Apr. 5, 2024.Link to an amendment published at 89 FR 26094, Apr. 12, 2024.
+Link to an amendment published at 89 FR 26094, Apr. 12, 2024.
 
 In addition to the definitions contained in part 10 of this subchapter, and unless the context otherwise requires, in this part 17:
 
@@ -21,6 +21,8 @@ In addition to the definitions contained in part 10 of this subchapter, and unle
 *Conservation plan* means the plan required by section 10(a)(2)(A) of the ESA that an applicant must submit when applying for an incidental take permit. Conservation plans also are known as “habitat conservation plans” or “HCPs.”
 
 *Conserved habitat areas* means areas explicitly designated for habitat restoration, acquisition, protection, or other conservation purposes under a conservation plan.
+
+*Convention* means the Convention on International Trade in Endangered Species of Wild Fauna and Flora, TIAS 8249 (see part 23 of this chapter).
 
 *Convention* means the Convention on International Trade in Endangered Species of Wild Fauna and Flora, TIAS 8249.
 
@@ -68,4 +70,4 @@ In addition to the definitions contained in part 10 of this subchapter, and unle
 
 *Wasteful manner* means any taking or method of taking which is likely to result in the killing or injury of endangered or threatened wildlife beyond those needed for subsistence purposes, or which results in the waste of a substantial portion of the wildlife, and includes without limitation the employment of a method of taking which is not likely to assure the capture or killing of the wildlife, or which is not immediately followed by a reasonable effort to retrieve the wildlife.
 
-[40 FR 44415, Sept. 26, 1975, as amended at 42 FR 28056, June 1, 1977; 44 FR 54006, Sept. 17, 1979; 46 FR 54750, Nov. 4, 1981; 47 FR 31387, July 20, 1982; 50 FR 39687, Sept. 30, 1985; 63 FR 8870, Feb. 23, 1998; 63 FR 48639, Sept. 11, 1998; 69 FR 24092, May 3, 2004; 71 FR 46870, Aug. 15, 2006]
+[40 FR 44415, Sept. 26, 1975, as amended at 42 FR 28056, June 1, 1977; 44 FR 54006, Sept. 17, 1979; 46 FR 54750, Nov. 4, 1981; 47 FR 31387, July 20, 1982; 50 FR 39687, Sept. 30, 1985; 63 FR 8870, Feb. 23, 1998; 63 FR 48639, Sept. 11, 1998; 69 FR 24092, May 3, 2004; 71 FR 46870, Aug. 15, 2006; 89 FR 23938, Apr. 5, 2024]

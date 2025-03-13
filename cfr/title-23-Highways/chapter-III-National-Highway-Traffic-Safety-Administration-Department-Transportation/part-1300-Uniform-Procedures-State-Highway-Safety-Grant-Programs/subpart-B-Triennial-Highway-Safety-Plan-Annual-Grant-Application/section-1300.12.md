@@ -12,7 +12,7 @@ The State's annual grant application provides project level information on the S
 
 (B) If the State does not adjust the strategy for programming funds, a written explanation of why the State made no adjustments.
 
-(ii) *Changes to performance plan.* The State may add performance measures based on updated traffic safety problem identification or as part of an application for a grant under Section 405 and may amend common performance targets developed under § 1300.11(b)(3)(ii)(C), but may not amend any other existing performance targets.
+(ii) The State may add performance measures based on updated traffic safety problem identification or as part of an application for a grant under section 405, but may not amend existing performance targets. Provided, however, that States may amend common performance targets developed under § 1300.11(b)(3)(iv) only if necessary to submit identical targets to FHWA in the HSIP annual reports.
 
 (2) *Project and subrecipient information.* For each project to be funded by the State using grant funds during the fiscal year covered by the application, the State must provide—
 
@@ -43,3 +43,5 @@ The State's annual grant application provides project level information on the S
 (2) *Approval or disapproval of annual grant application.* Within 60 days after receipt of the annual grant application under this subpart, the NHTSA administrator shall notify States in writing of grant awards and specify any conditions or limitations imposed by law on the use of funds.
 
 (d) *Amendments to project and subrecipient information.* Notwithstanding the requirement in paragraph (b)(2) of this section to provide project and subrecipient information at the time of application, States may amend the annual grant application throughout the fiscal year of the grant to add projects or to update project information for previously submitted projects, consistent with the process set forth in § 1300.32, provided that all required project and subrecipient information must be complete at the time the State submits the annual report required under § 1300.35.
+
+[88 FR 7804, Feb. 6, 2023, as amended at 89 FR 37116, May 6, 2024]

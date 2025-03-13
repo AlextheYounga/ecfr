@@ -1,7 +1,5 @@
 ##### § 402.02 Definitions. #####
 
-Link to an amendment published at 89 FR 24297, Apr. 5, 2024.
-
 *Act* means the Endangered Species Act of 1973, as amended, 16 U.S.C. 1531 *et seq.*
 
 *Action* means all activities or programs of any kind authorized, funded, or carried out, in whole or in part, by Federal agencies in the United States or upon the high seas. Examples include, but are not limited to:
@@ -38,9 +36,9 @@ Link to an amendment published at 89 FR 24297, Apr. 5, 2024.
 
 *Early consultation* is a process requested by a Federal agency on behalf of a prospective applicant under section 7(a)(3) of the Act.
 
-*Effects of the action* are all consequences to listed species or critical habitat that are caused by the proposed action, including the consequences of other activities that are caused by the proposed action. A consequence is caused by the proposed action if it would not occur but for the proposed action and it is reasonably certain to occur. Effects of the action may occur later in time and may include consequences occurring outside the immediate area involved in the action. (See § 402.17).
+*Effects of the action* are all consequences to listed species or critical habitat that are caused by the proposed action, including the consequences of other activities that are caused by the proposed action but that are not part of the action. A consequence is caused by the proposed action if it would not occur but for the proposed action and it is reasonably certain to occur. Effects of the action may occur later in time and may include consequences occurring outside the immediate area involved in the action.
 
-*Environmental baseline* refers to the condition of the listed species or its designated critical habitat in the action area, without the consequences to the listed species or designated critical habitat caused by the proposed action. The environmental baseline includes the past and present impacts of all Federal, State, or private actions and other human activities in the action area, the anticipated impacts of all proposed Federal projects in the action area that have already undergone formal or early section 7 consultation, and the impact of State or private actions which are contemporaneous with the consultation in process. The consequences to listed species or designated critical habitat from ongoing agency activities or existing agency facilities that are not within the agency's discretion to modify are part of the environmental baseline.
+*Environmental baseline* refers to the condition of the listed species or its designated critical habitat in the action area, without the consequences to the listed species or designated critical habitat caused by the proposed action. The environmental baseline includes the past and present impacts of all Federal, State, or private actions and other human activities in the action area, the anticipated impacts of all proposed Federal projects in the action area that have already undergone formal or early section 7 consultation, and the impact of State or private actions which are contemporaneous with the consultation in process. The impacts to listed species or designated critical habitat from Federal agency activities or existing Federal agency facilities that are not within the agency's discretion to modify are part of the environmental baseline.
 
 *Formal consultation* is a process between the Service and the Federal agency that commences with the Federal agency's written request for consultation under section 7(a)(2) of the Act and concludes with the Service's issuance of the biological opinion under section 7(b)(3) of the Act.
 
@@ -72,10 +70,10 @@ Link to an amendment published at 89 FR 24297, Apr. 5, 2024.
 
 *Reasonable and prudent alternatives* refer to alternative actions identified during formal consultation that can be implemented in a manner consistent with the intended purpose of the action, that can be implemented consistent with the scope of the Federal agency's legal authority and jurisdiction, that is economically and technologically feasible, and that the Director believes would avoid the likelihood of jeopardizing the continued existence of listed species or resulting in the destruction or adverse modification of critical habitat.
 
-*Reasonable and prudent measures* refer to those actions the Director believes necessary or appropriate to minimize the impacts, *i.e.,* amount or extent, of incidental take.
+*Reasonable and prudent measures* refer to those actions the Director considers necessary or appropriate to minimize the impact of the incidental take on the species.
 
 *Recovery* means improvement in the status of listed species to the point at which listing is no longer appropriate under the criteria set out in section 4(a)(1) of the Act.
 
 *Service* means the U.S. Fish and Wildlife Service or the National Marine Fisheries Service, as appropriate.
 
-[51 FR 19957, June 3, 1986, as amended at 73 FR 76286, Dec. 16, 2008; 74 FR 20422, May 4, 2009; 80 FR 26844, May 11, 2015; 81 FR 7225, Feb. 11, 2016; 84 FR 45016, Aug. 27, 2019]
+[51 FR 19957, June 3, 1986, as amended at 73 FR 76286, Dec. 16, 2008; 74 FR 20422, May 4, 2009; 80 FR 26844, May 11, 2015; 81 FR 7225, Feb. 11, 2016; 84 FR 45016, Aug. 27, 2019; 89 FR 24297, Apr. 5, 2024]
