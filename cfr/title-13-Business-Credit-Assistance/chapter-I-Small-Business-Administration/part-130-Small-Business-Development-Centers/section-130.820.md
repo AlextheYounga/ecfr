@@ -1,5 +1,7 @@
 ##### § 130.820 Reports and recordkeeping. #####
 
+Link to an amendment published at 88 FR 76651, Nov. 7, 2023.
+
 (a) *Records.* The recipient organization shall maintain the records required for a Lead Center audit and SBA reports. Lead Centers and other SBDC service providers shall maintain detailed, complete and accurate client activity files, specifying counseling, training and other assistance provided.
 
 (b) *Reports.* The recipient organization shall submit client service evaluations and performance and financial reports for SBA review to determine the quality of services provided by the SBDC, the completeness and accuracy of SBDC records, and actual SBDC network accomplishments compared to performance objectives.

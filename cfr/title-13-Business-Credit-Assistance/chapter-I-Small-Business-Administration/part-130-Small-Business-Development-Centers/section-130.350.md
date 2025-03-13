@@ -1,5 +1,7 @@
 ##### § 130.350 Specific program responsibilities. #####
 
+Link to an amendment published at 88 FR 76642, Nov. 7, 2023.Link to an amendment published at 88 FR 76643, Nov. 7, 2023.
+
 (a) *Policy development.* SBA will establish Program policies and procedures to improve the delivery of services by SBDCs to the small business community, and to enhance compliance with applicable laws, regulations, OMB Circulars and Executive Orders. In doing so, SBA should consult, to the extent practicable, with the Recognized Organization.
 
 (b) *Responsibilities of SBDC Directors.* The SBDC Director shall direct and monitor program activities and financial affairs of the SBDC network to deliver effective services to the small business community, comply with applicable laws, regulations, OMB Circulars and Executive Orders, and implement the Cooperative Agreement. The SBDC Director has authority to control expenditures under the Lead Center's budget. SBDC Directors may manage other programs in addition to the SBDC Program if the programs serve small businesses and do not duplicate the services provided by the SBDC network. However, SBDC Directors may not receive additional compensation for managing these programs. The SBDC Director shall serve as the principal contact point for all matters involving the SBDC network.

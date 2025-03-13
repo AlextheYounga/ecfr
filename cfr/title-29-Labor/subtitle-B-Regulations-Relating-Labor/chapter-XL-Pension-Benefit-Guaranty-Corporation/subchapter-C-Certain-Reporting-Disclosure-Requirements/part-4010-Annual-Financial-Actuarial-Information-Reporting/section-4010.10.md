@@ -1,5 +1,7 @@
 ##### § 4010.10 Due date and filing with the PBGC. #####
 
+Link to an amendment published at 88 FR 76664, Nov. 7, 2023.
+
 (a) *Due date.* Except as permitted under paragraph (b) of this section, a filer must file the information required under this part with PBGC on or before the 105th day after the close of the filer's information year. The filing deadline is extended to the 106th date after the close of the filer's information year if the 105-day reporting period includes February 29.
 
 (b) *Alternative due date.* A filer that includes the statement specified in § 4010.8(b)(1) with its submission to PBGC by the date specified in paragraph (a) of this section must submit the actuarial information specified in § 4010.8(b)(2) within 15 days after the deadline for filing the plan's annual report (Form 5500 series) for the plan year ending within the filer's information year (see § 2520.104a-5(a)(2) of this title).

@@ -1,5 +1,7 @@
 ##### § 130.810 SBA review authority. #####
 
+Link to an amendment published at 88 FR 76650, Nov. 7, 2023.
+
 (a) *Site visits.* The AA/SBDCs, or a representative, on notice to the SBDC Director, is authorized to make programmatic and financial review visits to SBDC service providers to inspect records and client files, and to analyze and assess SBDC activities.
 
 (b) *SBA examinations.* SBA examiners shall perform a biannual programmatic and financial examination of each SBDC.

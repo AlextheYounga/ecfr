@@ -1,5 +1,7 @@
 ##### § 240.13d-1 Filing of Schedules 13D and 13G. #####
 
+Link to an amendment published at 88 FR 76981, Nov. 7, 2023.
+
 (a) Any person who, after acquiring directly or indirectly the beneficial ownership of any equity security of a class which is specified in paragraph (i) of this section, is directly or indirectly the beneficial owner of more than five percent of the class shall, within 10 days after the acquisition, file with the Commission, a statement containing the information required by Schedule 13D (§ 240.13d-101).
 
 (b)(1) A person who would otherwise be obligated under paragraph (a) of this section to file a statement on Schedule 13D (§ 240.13d-101) may, in lieu thereof, file with the Commission, a short-form statement on Schedule 13G (§ 240.13d-102), *Provided,* That:

@@ -1,5 +1,7 @@
 ##### § 4022.7 Benefits payable in a single installment. #####
 
+Link to an amendment published at 88 FR 76664, Nov. 7, 2023.
+
 (a) *Alternative benefit.* Except as provided in this part, PBGC pays benefits only in annuity form. If a benefit that is guaranteed under this part is payable in a lump sum or substantially so under the terms of the plan, including an option elected under the plan by the participant before plan trusteeship, PBGC will not guarantee the benefit in such form. Instead, PBGC will guarantee the alternative benefit, if any, in the plan which provides for the payment of equal periodic installments for the life of the recipient. If the plan does not provide such an annuity, PBGC will guarantee an actuarially equivalent life annuity.
 
 (b) *Payment by PBGC*—(1) *Payment in lump sum.* Notwithstanding paragraph (a) of this section:

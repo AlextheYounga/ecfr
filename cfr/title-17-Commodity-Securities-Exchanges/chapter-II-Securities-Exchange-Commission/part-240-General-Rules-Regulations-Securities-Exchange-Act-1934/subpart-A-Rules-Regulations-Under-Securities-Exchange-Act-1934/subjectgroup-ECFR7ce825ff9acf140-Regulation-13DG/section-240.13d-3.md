@@ -1,5 +1,7 @@
 ##### § 240.13d-3 Determination of beneficial owner. #####
 
+Link to an amendment published at 88 FR 76983, Nov. 7, 2023.
+
 (a) For the purposes of sections 13(d) and 13(g) of the Act a beneficial owner of a security includes any person who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise has or shares:
 
 (1) Voting power which includes the power to vote, or to direct the voting of, such security; and/or,

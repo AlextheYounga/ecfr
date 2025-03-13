@@ -1,5 +1,7 @@
 ##### § 130.340 SBDC services and restrictions on service. #####
 
+Link to an amendment published at 88 FR 76642, Nov. 7, 2023.Link to an amendment published at 88 FR 76643, Nov. 7, 2023.
+
 (a) *Services.* The SBDC network must provide prospective and existing small business persons and entities with Counseling, Training and Specialized Services, concerning the formation, financing, management and operation of small business enterprises, reflecting local needs. The recipient organization shall primarily utilize institutions of higher education to provide services to the small business community. To the extent possible, SBDCs shall use other Federal, State, and local government programs that assist small business. Services periodically should be assessed and improved to keep pace with changing small business needs.
 
 (b) *Access to Capital.* (1) SBDCs are encouraged to provide counseling services that increase a small business concern's access to capital, such as business plan development, financial statement preparation and analysis, and cash flow preparation and analysis.

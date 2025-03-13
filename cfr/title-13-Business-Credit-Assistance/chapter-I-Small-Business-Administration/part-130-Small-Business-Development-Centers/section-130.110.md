@@ -1,5 +1,7 @@
 ##### § 130.110 Definitions. #####
 
+Link to an amendment published at 88 FR 76639, Nov. 7, 2023.
+
 *Applicant organization.* An entity, described in § 130.200(a), which applies to establish and operate an SBDC network.
 
 *Application.* The written submission by a new applicant organization or an existing recipient organization explaining its projected SBDC activities for the upcoming budget period and requesting SBA funding for use in its operations.

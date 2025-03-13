@@ -1,5 +1,7 @@
 ##### § 261.77 Prohibitions in Region 8, Southern Region. #####
 
+Link to an amendment published at 88 FR 76676, Nov. 7, 2023.
+
 (a) Using or occupying any area of the Sumter National Forest or the Chattahoochee National Forest abutting the Chattooga River for the purpose of entering or going upon the River in, on, or upon any floatable object or craft of every kind or description, unless authorized by permit obtained through registration at Forest Service Registration Stations abutting the Chattooga River located at Highway 28, Low-Water Bridge, Earl's Ford, Sandy Ford, Highway 76, Woodall Shoals, or Overflow Bridge or unless authorized under special use permit.
 
 (b) Using or occupying within the scope of any commercial operation or business any area of the Sumter National Forest or the Chattahoochee National Forest abutting the Chattooga River for the purpose of entering or going upon the River in, on, or upon any floatable object or craft of every kind or description, unless authorized by special use permit.

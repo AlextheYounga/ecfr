@@ -1,5 +1,7 @@
 ##### § 130.360 SBDC advisory boards. #####
 
+Link to an amendment published at 88 FR 76642, Nov. 7, 2023.Link to an amendment published at 88 FR 76643, Nov. 7, 2023.Link to an amendment published at 88 FR 76644, Nov. 7, 2023.
+
 (a) *State/Regional Advisory Boards.* (1) The Lead Center must establish an advisory board to advise, counsel, and confer with the SBDC Director on matters pertaining to the operation of the SBDC network.
 
 (2) The advisory board shall be referred to as a State SBDC Advisory Board in an Area of Service having only one recipient organization, and a Regional SBDC Advisory Board in an Area of Service having more than one recipient organization.

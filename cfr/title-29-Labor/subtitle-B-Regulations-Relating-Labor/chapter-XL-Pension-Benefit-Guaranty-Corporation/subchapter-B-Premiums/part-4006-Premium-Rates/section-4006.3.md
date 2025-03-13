@@ -1,5 +1,7 @@
 ##### § 4006.3 Premium rate. #####
 
+Link to an amendment published at 88 FR 76664, Nov. 7, 2023.
+
 Subject to the provisions of § 4006.5 (dealing with exemptions and special rules) and § 4006.7 (dealing with premiums for certain terminated single-employer plans), the premium paid for basic benefits guaranteed under section 4022(a) or section 4022A(a) of ERISA shall equal the flat-rate premium under paragraph (a) of this section plus, in the case of a single-employer plan, the variable-rate premium under paragraph (b) of this section. Premium rates (and the MAP-21 cap rate referred to in paragraph (b)(2) of this section) are subject to change each year under inflation indexing provisions in section 4006 of ERISA.
 
 (a) *Flat-rate premium.* The flat-rate premium for a plan is equal to the applicable flat premium rate multiplied by the plan's participant count. The applicable flat premium rate is the amount prescribed for the calendar year in which the premium payment year begins by the applicable provisions of—

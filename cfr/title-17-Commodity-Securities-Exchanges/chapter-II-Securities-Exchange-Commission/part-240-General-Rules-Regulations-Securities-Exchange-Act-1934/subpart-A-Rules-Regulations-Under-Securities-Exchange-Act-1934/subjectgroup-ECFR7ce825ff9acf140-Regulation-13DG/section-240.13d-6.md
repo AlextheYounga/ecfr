@@ -1,5 +1,7 @@
 ##### § 240.13d-6 Exemption of certain acquisitions. #####
 
+Link to an amendment published at 88 FR 76984, Nov. 7, 2023.
+
 The acquisition of securities of an issuer by a person who, prior to such acquisition, was a beneficial owner of more than five percent of the outstanding securities of the same class as those acquired shall be exempt from section 13(d) of the Act: *Provided,* That:
 
 (a) The acquisition is made pursuant to preemptive subscription rights in an offering made to all holders of securities of the class to which the preemptive subscription rights pertain;

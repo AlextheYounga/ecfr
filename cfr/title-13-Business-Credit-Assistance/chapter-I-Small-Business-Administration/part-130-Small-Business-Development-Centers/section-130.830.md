@@ -1,5 +1,7 @@
 ##### § 130.830 Audits and investigations. #####
 
+Link to an amendment published at 88 FR 76652, Nov. 7, 2023.
+
 (a) *Access to records.* Applicable OMB Circulars set forth the requirements concerning record access and retention.
 
 (b) *Audits*—(1) *Pre-award audit.* Applicant organizations that propose to enter the Program for the first time may be subject to a pre-award audit conducted by or coordinated with the SBA Office of Inspector General. The purpose of a pre-award audit is to verify the adequacy of the accounting system, the suitability of posed costs and the nature and source of proposed Matching Funds.

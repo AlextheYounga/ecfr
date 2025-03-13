@@ -1,5 +1,7 @@
 ##### § 4000.28 What if I send a computer disk? #####
 
+Link to an amendment published at 88 FR 76664, Nov. 7, 2023.
+
 (a) *In general.* We determine your filing or issuance date for a computer disk as if you had sent a paper version of your submission or issuances if you meet the requirements of paragraph (b) of this section.
 
 (1) *Filings.* For computer-disk filings, we may treat your submission as invalid if you fail to meet the requirements of paragraph (b)(1) or (b)(3) of this section.

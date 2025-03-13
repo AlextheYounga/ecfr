@@ -1,5 +1,7 @@
 ##### § 130.700 Suspension, termination and non-renewal. #####
 
+Link to an amendment published at 88 FR 76648, Nov. 7, 2023.
+
 (a) *General.* After SBA has entered into a Cooperative Agreement with a recipient organization, it shall not suspend, terminate or fail to renew the agreement unless SBA gives the recipient organization written notice setting forth the reasons and affording the recipient organization an opportunity for a hearing. Subject to this requirement and the provisions of § 130.700(c) regarding non-renewal procedures for non-performance, the applicable general procedures for suspension and termination are contained in 13 CFR 143.43 and 143.44, and in OMB Circular A-110, Attachment L.
 
 (b) *Causes.* Causes which may lead to suspension, termination, or failure to renew include non-performance, poor performance, unwillingness to implement changes to improve performance, or any of the following reasons:

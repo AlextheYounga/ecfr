@@ -1,5 +1,7 @@
 ##### § 130.630 Dispute resolution procedures. #####
 
+Link to an amendment published at 88 FR 76648, Nov. 7, 2023.
+
 (a) *Financial Disputes.* (1) A recipient organization wishing to resolve a financial Dispute formally must submit a written statement describing the subject of the Dispute, together with any relevant documents or other evidence bearing on the Dispute, to the Grants Management Specialist, with copies to the Project Officer. The Grants Management Specialist shall respond in writing to the recipient organization within 30 calendar days of receipt of the descriptive statement.
 
 (2) If the recipient organization receives an unfavorable decision from the Grants Management Specialist, it may file an appeal with the AA/SBDCs within 30 calendar days of issuance of the unfavorable decision. The AA/SBDCs shall respond in writing to the recipient organization within 15 calendar days of receipt of the appeal.

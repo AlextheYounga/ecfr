@@ -1,5 +1,7 @@
 ##### § 130.330 Operating requirements. #####
 
+Link to an amendment published at 88 FR 76642, Nov. 7, 2023.
+
 (a) The Lead Center must be an independent entity within the recipient organization, having its own staff, including a full-time SBDC Director.
 
 (b) A Lead Center must provide administrative services and coordination for the SBDC network, including program development, program management, financial management, reports management, promotion and public relations, program assessment and evaluation, and internal quality control.

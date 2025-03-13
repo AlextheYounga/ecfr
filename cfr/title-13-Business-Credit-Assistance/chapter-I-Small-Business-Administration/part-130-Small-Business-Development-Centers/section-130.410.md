@@ -1,5 +1,7 @@
 ##### § 130.410 New applications. #####
 
+Link to an amendment published at 88 FR 76645, Nov. 7, 2023.
+
 (a) If SBA declines to renew an existing recipient organization or the recipient organization declines to reapply, SBA may accept applications from other organizations interested in becoming a recipient organization. An eligible entity may apply by submitting an application to the SBA District Office in the Area of Service in which the applicant proposes to provide services.
 
 (b) An application for initial funding of a new SBDC network must include a letter by the Governor, or his or her designee, of the Area of Service in which the SBDC will operate, or other evidence, confirming that the applicant's designation as an SBDC would be consistent with the plan adopted by the State government and approved by SBA. No such requirement is imposed on subsequent applications from existing recipient organizations.

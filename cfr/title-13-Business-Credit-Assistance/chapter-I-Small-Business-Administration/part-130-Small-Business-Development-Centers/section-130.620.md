@@ -1,5 +1,7 @@
 ##### § 130.620 Revisions and amendments to cooperative agreement. #####
 
+Link to an amendment published at 88 FR 76647, Nov. 7, 2023.
+
 (a) *Requests for revisions.* The recipient organization may request at any time one or more revisions to the Cooperative Agreement on an appropriate SBA form signed by the recipient organization's authorized representative (including a revised budget and budget narrative, if applicable). Revisions will normally relate to changes in scope, work or funding during the specified budget year.
 
 (b) *Revisions which require amendment to Cooperative Agreement.* The Cooperative Agreement shall list the revisions which require Project Officer concurrence, review by the Program Manager and the Grants Management Specialist, approval of the AA/SBDCs and amendment of the Cooperative Agreement. No application for an amendment shall be effective until it is approved and incorporated into the Cooperative Agreement. Revisions which require amendments shall include:

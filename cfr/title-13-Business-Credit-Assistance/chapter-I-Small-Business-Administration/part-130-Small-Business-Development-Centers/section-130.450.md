@@ -1,5 +1,7 @@
 ##### § 130.450 Matching funds. #####
 
+Link to an amendment published at 88 FR 76645, Nov. 7, 2023.
+
 (a) The recipient organization must provide total Matching Funds equal to the total amount of SBA funding. At least 50% of the Matching Funds must be Cash Match. The remaining 50% may be provided through any allowable combination of additional cash, in-kind contributions, or indirect costs.
 
 (b) All sources of Matching Funds must be identified as specifically as possible in the budget proposal. Cash sources shall be identified by name and account. All applicants must submit a Certification of Cash Match and Program Income executed by an authorized official of the recipient organization or any sponsoring SBDC organization providing Cash Match through a subcontract agreement. The account containing such cash must be under the direct management of the SBDC Director, or, if provided by a sponsoring SBDC organization, its subcenter Director. If a political entity is providing such cash and the funds have not been appropriated prior to issuance of the Cooperative Agreement, the recipient organization must certify that sufficient funds will be available from the political entity prior to the use of Federal dollars.

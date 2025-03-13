@@ -1,5 +1,7 @@
 ##### § 240.13d-5 Acquisition of securities. #####
 
+Link to an amendment published at 88 FR 76983, Nov. 7, 2023.
+
 (a) A person who becomes a beneficial owner of securities shall be deemed to have acquired such securities for purposes of section 13(d)(1) of the Act, whether such acquisition was through purchase or otherwise. However, executors or administrators of a decedent's estate generally will be presumed not to have acquired beneficial ownership of the securities in the decedent's estate until such time as such executors or administrators are qualified under local law to perform their duties.
 
 (b)(1) When two or more persons agree to act together for the purpose of acquiring, holding, voting or disposing of equity securities of an issuer, the group formed thereby shall be deemed to have acquired beneficial ownership, for purposes of sections 13(d) and (g) of the Act, as of the date of such agreement, of all equity securities of that issuer beneficially owned by any such persons.

@@ -1,5 +1,7 @@
 ##### § 130.460 Budget justification. #####
 
+Link to an amendment published at 88 FR 76646, Nov. 7, 2023.
+
 The SBDC Director, as a part of the renewal application, or the applicant organization's authorized representative in the case of a new SBDC application, shall prepare and submit to the SBA Project Officer the budget justification for the upcoming budget period. The budget shall be reviewed annually upon submission of a renewal application.
 
 (a) *Direct costs.* Unless otherwise provided in applicable OMB circulars, at least eighty percent (80%) of SBA funding must be allocated to direct costs of Program delivery.

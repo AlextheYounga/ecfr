@@ -1,5 +1,7 @@
 ##### § 130.200 Eligible entities. #####
 
+Link to an amendment published at 88 FR 76642, Nov. 7, 2023.
+
 (a) *Recipient Organization.* The following entities are eligible to operate an SBDC network:
 
 (1) A public or private institution of higher education;
