@@ -1,5 +1,7 @@
 ##### § 97.207 Space station. #####
 
+Link to an amendment published at 89 FR 65223, Aug. 9, 2024.
+
 (a) Any amateur station may be a space station. A holder of any class operator license may be the control operator of a space station, subject to the privileges of the class of operator license held by the control operator.
 
 (b) A space station must be capable of effecting a cessation of transmissions by telecommand whenever such cessation is ordered by the FCC.

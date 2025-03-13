@@ -1,5 +1,7 @@
 ##### § 35.104 Definitions. #####
 
+Link to an amendment published at 89 FR 65187, Aug. 9, 2024.
+
 For purposes of this part, the term—
 
 *1991 Standards* means the requirements set forth in the ADA Standards for Accessible Design, originally published on July 26, 1991, and republished as Appendix D to 28 CFR part 36.

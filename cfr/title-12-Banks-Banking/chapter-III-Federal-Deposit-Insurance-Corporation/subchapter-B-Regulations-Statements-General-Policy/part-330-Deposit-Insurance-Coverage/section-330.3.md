@@ -14,7 +14,11 @@ The deposit accounts of a depositor maintained in the same right and capacity at
 
 (2) Except as provided in paragraph (e)(3) of this section, any obligation of an insured depository institution which is carried on the books and records of an office of that institution located outside any State, as referred to in paragraph (e)(1) of this section, shall not be an insured deposit for purposes of this part, or any other provision of this part, notwithstanding that the obligation may also be payable at an office of that institution located within any State.
 
-(3) *Rule of construction.* For purposes of this paragraph (e), Overseas Military Banking Facilities operated under Department of Defense regulations, 32 CFR Parts 230 and 231, are not considered to be offices located outside any State, as referred to in paragraph (e)(1) of this section.
+(3) *Rule of construction.* For purposes of this paragraph (e), the following are not considered to be offices located outside any State, as referred to in paragraph (e)(1) of this section:
+
+(i) Overseas Military Banking Facilities operated under U.S. Department of Defense regulations, 32 CFR parts 230 and 231; and
+
+(ii) Legacy branches of U.S. insured depository institutions in the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau, which for purposes of this paragraph means the number of branches operated by each U.S. insured depository institution as of August 9, 2024.
 
 (f) *International banking facility deposits.* An “international banking facility time deposit,” as defined by the Board of Governors of the Federal Reserve System in Regulation D (12 CFR 204.8(a)(2)), or in any successor regulation, is not a deposit for the purposes of this part.
 
@@ -30,4 +34,4 @@ The deposit accounts of a depositor maintained in the same right and capacity at
 
 (j) *Continuation of insurance coverage following the death of a deposit owner.* The death of a deposit owner shall not affect the insurance coverage of the deposit for a period of six months following the owner's death unless the deposit account is restructured. The operation of this grace period, however, shall not result in a reduction of coverage. If an account is not restructured within six months after the owner's death, the insurance shall be provided on the basis of actual ownership in accordance with the provisions of § 330.5(a)(1).
 
-[63 FR 25756, May 11, 1998, as amended at 64 FR 15656, Apr. 1, 1999; 78 FR 56589, Sept. 13, 2013]
+[63 FR 25756, May 11, 1998, as amended at 64 FR 15656, Apr. 1, 1999; 78 FR 56589, Sept. 13, 2013; 89 FR 65170, Aug. 9, 2024]

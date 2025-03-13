@@ -1,7 +1,5 @@
 ##### § 223.20 Revocation proceedings initiated by Treasury upon receipt of an agency complaint. #####
 
-Link to an amendment published at 89 FR 48838, June 10, 2024.
-
 (a) *Agency complaint.* If an agency determines that a company has not promptly made full payment or fully satisfied one or more bond obligations naming the agency as obligee, the head of the agency, or his or her designee, may submit a written complaint to the designated Treasury official (with executive oversight over the Treasury surety program, at the Assistant Commissioner level or equivalent), requesting that the company's certificate of authority be revoked for nonperformance. Under such complaint, the agency shall certify that:
 
 (1) The bond obligations that are the subject of the complaint are administratively final under the agency's regulations or other authorities;
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 48838, June 10, 2024.
 
 (b) *Documentation of complaint.* The agency shall include in its complaint copies of the bonds, and documentation indicating that, for each such bond provided:
 
-(1) The agency has determined the principal is in default on the obligation covered by the bond, consistent with agency authorities, or if the default has been litigated, documentation indicating a court of competent jurisdiction has determined the principal is in default;
+(1) The agency has determined, consistent with agency authorities, the principal is in default on the obligation covered by the bond. Alternatively, if the default has been litigated, documentation indicating a court of competent jurisdiction has determined the principal is in default;
 
 (2) The agency made a written demand with the company on the bond requesting payment or satisfaction on its own behalf, consistent with agency authorities, or on behalf of laborers, materialmen, or suppliers (on payment bonds), based on the default status of the principal;
 
@@ -60,12 +58,12 @@ Link to an amendment published at 89 FR 48838, June 10, 2024.
 
 (7) Formal rules of evidence will not apply at the informal hearing.
 
-(8) The formal adjudication standards under the Administrative Procedure Act, 5 U.S.C. 554, 556, 557 do not apply to the informal hearing or adjudication process.
+(8) The formal adjudication standards under the Administrative Procedure Act, 5 U.S.C. 554, 556, and 557, do not apply to the informal hearing or adjudication process.
 
-(9) Treasury may promulgate additional procedural guidance governing the conduct of informal hearings. This additional procedural guidance may be contained in the Annual Letter to Executive Heads of Surety Companies referenced in § 223.9, the Treasury Financial Manual, or other Treasury publication or correspondence.
+(9) Treasury may promulgate additional procedural guidance governing the conduct of informal hearings.
 
 (10) Upon completion of the informal hearing, the Reviewing Official shall prepare a written Recommendation Memorandum addressed to the Deciding Official setting forth findings and a recommended disposition. The Deciding Official will make the final decision whether the company's certificate of authority to write and reinsure Federal bonds should be revoked based on the administrative record. The administrative record consists of the Federal agency complaint referenced in paragraphs (a) and (b) of this section, the company response referenced in paragraph (c), any other documentation submitted to, considered by, or entered into the administrative record by the Reviewing Official, the hearing transcript, and the Reviewing Official's Recommendation Memorandum.
 
 (11) The provisions of paragraphs (e), (f), and (g) of this section shall apply to the adjudication of the agency complaint when an informal hearing is conducted.
 
-[79 FR 62002, Oct. 16, 2014]
+[79 FR 62002, Oct. 16, 2014, as amended at 89 FR 48838, June 10, 2024]

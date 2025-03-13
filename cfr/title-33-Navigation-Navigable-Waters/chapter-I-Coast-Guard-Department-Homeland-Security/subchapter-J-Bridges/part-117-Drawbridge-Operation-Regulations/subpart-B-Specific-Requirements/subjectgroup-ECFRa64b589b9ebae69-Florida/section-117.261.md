@@ -1,7 +1,5 @@
 ##### § 117.261 Atlantic Intracoastal Waterway from St. Marys River to Key Largo. #####
 
-Link to an amendment published at 89 FR 64369, Aug. 7, 2024.
-
 (a) *General.* Public vessels of the United States and tugs with tows must be passed through the drawspan of each drawbridge listed in this section at anytime.
 
 (b)-(c) [Reserved]
@@ -24,7 +22,27 @@ Link to an amendment published at 89 FR 64369, Aug. 7, 2024.
 
 (4) After the train has cleared, the draw opens and the lights return to flashing green.
 
-(k)-(m)[Reserved]
+(k) Florida East Coast Railroad (FEC) Bridge, mile 7.41, at Stuart. The draw shall operate as follows:
+
+(1) The drawbridge will be maintained in the fully open-to-navigation position, except during periods when it is closed for the passage of train traffic, to conduct inspections, and to perform maintenance and repairs authorized by the Coast Guard.
+
+(2) The drawbridge will not be closed for more than 50 consecutive minutes in any given hour during daytime operations (6 a.m. to 8 p.m.) and for more than 7 total hours during daytime operations (6 a.m. to 8 p.m.).
+
+(3) Notwithstanding paragraph (k)(1), the drawbridge will open and remain open to navigation for a fixed 10-minute period at the top of each hour from 6 a.m. to 8 p.m.
+
+(4) From 8:01 p.m. until 5:59 a.m. daily, the drawbridge will remain in the fully open-to-navigation position, except during periods when it is closed for the passage of train traffic, to conduct inspections, and to perform maintenance and repairs authorized by the Coast Guard. The drawbridge will not be closed more than 60 consecutive minutes.
+
+(5) If a train is in the track circuit at the start of a fixed opening period, the opening may be delayed up to, but not more than, five minutes. Once the train has cleared the circuit, the bridge must open immediately for navigation to begin the fixed opening period.
+
+(6) The drawbridge will be tended from 6 a.m. to 8 p.m., daily. The bridge tender will monitor VHF-FM channels 9 and 16 and will provide estimated times of drawbridge openings and closures, or any operational information requested. Operational information will be provided 24 hours a day by telephone at (772) 403-1005.
+
+(7) The drawbridge owner will maintain a mobile application. The drawbridge owner will publish drawbridge opening times, and the drawbridge owner will provide timely updates to schedules, including but not limited to, impacts due to emergency circumstances, inspections, maintenance, and repairs authorized by the Coast Guard.
+
+(8) Signs will be posted and visible to marine traffic, displaying VHF radio contact information, application information, and the telephone number for the bridge tender.
+
+(9) A copy of the drawbridge logbook for the previous week will be provided to the Seventh Coast Guard District Bridge Manager by 4 p.m. each Monday.
+
+(l)-(m)[Reserved]
 
 (n) *A1A North Causeway Bridge, mile 964.8 at Fort Pierce.* The draw shall open on the hour and half-hour.
 
@@ -118,4 +136,8 @@ Link to an amendment published at 89 FR 64369, Aug. 7, 2024.
 
 (pp)—(ss) [Reserved]
 
-[CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:By USCG-2023-0652, 89 FR 7288, Feb. 2, 2024, § 117.261 was amended by adding paragraph (p) and staying paragraph (q), effective Feb. 5, 2024 through Aug. 31, 2025.
+[CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. By USCG-2023-0652, 89 FR 7288, Feb. 2, 2024, § 117.261 was amended by adding paragraph (p) and staying paragraph (q), effective Feb. 5, 2024 through Aug. 31, 2025.
+
+2. At 89 FR 64369, Aug. 7, 2024, § 117.261 was amended by adding paragraph (k), effective Aug. 9, 2024 through Dec. 31, 2024.
+
+Editorial Note:At 89 FR 64369, Aug. 7, 2024, § 117.261 was amended by staying paragraph (c); however, the amendment could not be incorporated due to inaccurate amendatory instruction.

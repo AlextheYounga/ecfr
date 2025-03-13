@@ -18,7 +18,7 @@
 
 (e) *Applicant for adjustment of status.* An applicant for adjustment of status under section 245 of the Act and part 245 of this chapter must request permission to reapply for entry in conjunction with his or her application for adjustment of status. This request is made by filing the application on the form designated by USCIS. If the application under section 245 of the Act has been initiated, renewed, or is pending in a proceeding before an immigration judge, the district director must refer the application to the immigration judge for adjudication.
 
-(f) *Applicant for admission at port of entry.* An alien may request permission at a port of entry to reapply for admission to the United States within 5 years of the deportation or removal, or 20 years in the case of an alien deported, or removed 2 or more times, or at any time after deportation or removal in the case of an alien convicted of an aggravated felony. The alien must file the , where required, with the DHS officer having jurisdiction over the port of entry.
+(f) *Applicant for admission at port of entry.* An alien may request permission at a port of entry to reapply for admission to the United States within 5 years of the deportation or removal, or 20 years in the case of an alien deported, or removed 2 or more times, or at any time after deportation or removal in the case of an alien convicted of an aggravated felony. The alien must file the , where required, with the DHS officer having jurisdiction over the port of entry. The alien must file the application, where required, with the DHS officer having jurisdiction over the port of entry.
 
 (g) *Other applicants.* (1) Any applicant for permission to reapply for admission under circumstances other than those described in paragraphs (b) through (f) of this section must apply on the form designated by USCIS with the fee prescribed in 8 CFR 106.2 and in accordance with the form instructions.
 
@@ -36,4 +36,4 @@
 
 (j) *Advance approval.* An alien whose departure will execute an order of deportation shall receive a conditional approval depending upon his or her satisfactory departure. However, the grant of permission to reapply does not waive inadmissibility under section 212(a)(9)(A) of the Act resulting from exclusion, deportation, or removal proceedings which are instituted subsequent to the date permission to reapply is granted.
 
-[56 FR 23212, May 21, 1991, as amended at 64 FR 25766, May 12, 1999; 65 FR 15854, Mar. 24, 2000; 74 FR 26937, June 5, 2009; 76 FR 53787, Aug. 29, 2011; 85 FR 46922, Aug. 3, 2020]
+[56 FR 23212, May 21, 1991, as amended at 64 FR 25766, May 12, 1999; 65 FR 15854, Mar. 24, 2000; 74 FR 26937, June 5, 2009; 76 FR 53787, Aug. 29, 2011; 85 FR 46922, Aug. 3, 2020; 89 FR 65165, Aug. 9, 2024]

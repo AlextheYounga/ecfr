@@ -1,5 +1,7 @@
 ##### § 25.283 End-of-life disposal. #####
 
+Link to an amendment published at 89 FR 65223, Aug. 9, 2024.
+
 (a) *Geostationary orbit space stations.* Unless otherwise explicitly specified in an authorization, a space station authorized to operate in the geostationary satellite orbit under this part shall be relocated, at the end of its useful life, barring catastrophic failure of satellite components, to an orbit with a perigee with an altitude of no less than:
 
 36,021 km + (1000·CR·A/m)where CR is the solar radiation pressure coefficient of the spacecraft, and A/m is the Area to mass ratio, in square meters per kilogram, of the spacecraft.

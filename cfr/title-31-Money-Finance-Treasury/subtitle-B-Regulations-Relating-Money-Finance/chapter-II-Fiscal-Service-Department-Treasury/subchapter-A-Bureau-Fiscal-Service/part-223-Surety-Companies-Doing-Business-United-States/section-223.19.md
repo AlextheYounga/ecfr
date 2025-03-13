@@ -1,7 +1,5 @@
 ##### § 223.19 Treasury-initiated revocation proceedings. #####
 
-Link to an amendment published at 89 FR 48837, June 10, 2024.
-
 Whenever Treasury has reason to believe that a company is not complying with the requirements of 31 U.S.C. 9304-9308 and/or the regulations under this part, including but not limited to a failure to satisfy corporate and financial standards, Treasury shall:
 
 (a) Notify the company of the facts or conduct which indicate such non-compliance, and provide the company an opportunity to respond, and
@@ -10,6 +8,6 @@ Whenever Treasury has reason to believe that a company is not complying with the
 
 (1) The company does not respond satisfactorily to Treasury's notification of non-compliance, or
 
-(2) The company, provided an opportunity to demonstrate or achieve compliance, fails to do so.
+(2) The company responded, was provided an opportunity to demonstrate or achieve compliance, and failed to do so.
 
-[79 FR 62001, Oct. 16, 2014]
+[79 FR 62001, Oct. 16, 2014, as amended at 89 FR 48837, June 10, 2024]

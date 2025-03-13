@@ -1,7 +1,5 @@
 ##### § 223.17 Acceptance and non-acceptance of bonds. #####
 
-Link to an amendment published at 89 FR 48837, June 10, 2024.
-
 (a) *Acceptance of bonds.* A bond underwritten by a certified company on the § 223.16 Department Circular No. 570 list may be presented to any agency-bond approving official for acceptance, and such agency bond-approving official may accept such bonds.
 
 (b) *Non-acceptance of bonds.* (1) An agency bond-approving official may decline to accept bonds underwritten by a certified company for cause, but only if the company has been given advance written notice by such agency. The advance written notice shall:
@@ -10,9 +8,9 @@ Link to an amendment published at 89 FR 48837, June 10, 2024.
 
 (ii) State the reasons for or cause of the proposed declination of such bonds;
 
-(iii) Provide the opportunity for the company to rebut the stated reasons or cause; and
+(iii) Provide the company with an opportunity to rebut the stated reasons or cause; and
 
-(iv) Provide the company the opportunity to cure the stated reasons or cause.
+(iv) Provide the company with an opportunity to cure the stated reasons or cause.
 
 (2) The agency may decline to accept bonds underwritten by the company if, after consideration of any submission by the company or failure of the company to respond to the agency's notice, the agency issues a written determination that the bonds should not be accepted, consistent with agency authorities.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 48837, June 10, 2024.
 
 (6) Notwithstanding any provision of this section, an agency bond-approving official may decline a bond from a Treasury-certified surety without advance notice if the bond is not executed in proper form, or is not in the correct penal sum amount, or is otherwise technically deficient on its face.
 
-[79 FR 62001, Oct. 16, 2014]
+[79 FR 62001, Oct. 16, 2014, as amended at 89 FR 48837, June 10, 2024]
