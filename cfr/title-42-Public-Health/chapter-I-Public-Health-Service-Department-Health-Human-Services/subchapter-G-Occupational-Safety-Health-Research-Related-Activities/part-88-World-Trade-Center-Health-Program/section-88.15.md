@@ -110,7 +110,7 @@ WTC-related health conditions include the following disorders and conditions:
 
 (23) Malignant neoplasms of the blood and lymphoid tissues (including, but not limited to, lymphoma, leukemia, and myeloma).
 
-(24) \>Childhood cancers: any type of cancer diagnosed in a person less than 20 years of age.
+(24) Childhood cancers: any type of cancer diagnosed in a person less than 20 years of age.
 
 (25) Rare cancers: any type of cancer1 that occurs in less than 15 cases per 100,000 persons per year in the United States.
 

@@ -1,5 +1,7 @@
 ##### § 668.2 General definitions. #####
 
+Link to an amendment published at 88 FR 70186, Oct. 10, 2023.
+
 (a) The following definitions are contained in the regulations for Institutional Eligibility under the Higher Education Act of 1965, as amended, 34 CFR part 600:
 
 (1) Accredited.

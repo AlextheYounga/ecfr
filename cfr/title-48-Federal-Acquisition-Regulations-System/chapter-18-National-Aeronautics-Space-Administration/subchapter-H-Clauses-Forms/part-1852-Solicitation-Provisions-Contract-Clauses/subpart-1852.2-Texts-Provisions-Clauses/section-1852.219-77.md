@@ -1,5 +1,7 @@
 ##### 1852.219-77 NASA Mentor-Protégé Program. #####
 
+Link to an amendment published at 88 FR 69886, Oct. 10, 2023.
+
 As prescribed in 1819.7215, insert the following clause:
 
 NASA Mentor-Protégé Program (APR 2015)

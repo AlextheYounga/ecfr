@@ -1,6 +1,6 @@
 ##### § 2424.25 Response of the exclusive representative; purpose; time limits; content; severance; service. #####
 
-Link to an amendment published at 88 FR 62458, Sept. 12, 2023.
+Link to an amendment published at 88 FR 62458, Sept. 12, 2023.Link to a correction published at 88 FR 69873, Oct. 10, 2023.
 
 (a) *Purpose.* The purpose of the exclusive representative's response is to inform the Authority and the agency why, despite the agency's arguments in its statement of position, the proposal or provision is within the duty to bargain or not contrary to law, respectively, and whether the union disagrees with any facts or arguments in the agency's statement of position. As more fully explained in paragraph (c) of this section, the exclusive representative is required in its response to, among other things, state why the proposal or provision does not conflict with any law, or why it falls within an exception to management rights, including permissive subjects under 5 U.S.C. 7106(b)(1), and procedures and appropriate arrangements under section 7106(b) (2) and (3). Another purpose of the response is to permit the exclusive representative to request the Authority to sever portions of the proposal or provision and to explain why and how it can be done.
 

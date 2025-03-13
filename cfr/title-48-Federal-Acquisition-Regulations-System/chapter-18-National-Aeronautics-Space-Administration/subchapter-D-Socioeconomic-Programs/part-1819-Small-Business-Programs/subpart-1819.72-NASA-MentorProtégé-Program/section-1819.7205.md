@@ -1,5 +1,7 @@
 ##### 1819.7205 Award Fee Pilot Program. #####
 
+Link to an amendment published at 88 FR 69885, Oct. 10, 2023.
+
 (a) Mentors will be eligible to earn a separate award fee associated with the provision of developmental assistance to NASA SBIR/STTR Phase II Protégés only. The award fee will be assessed at the end of the Mentor-Protégé agreement period.
 
 (b) The overall developmental assistance performance of NASA contractors, in promoting the use of small businesses as subcontractors, will be a required evaluation factor in award fee plans.

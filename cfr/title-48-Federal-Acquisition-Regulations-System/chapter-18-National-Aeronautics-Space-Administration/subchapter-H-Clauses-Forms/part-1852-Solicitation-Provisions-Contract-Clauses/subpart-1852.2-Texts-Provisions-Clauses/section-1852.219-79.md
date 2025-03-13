@@ -1,5 +1,7 @@
 ##### 1852.219-79 Mentor requirements and evaluation. #####
 
+Link to an amendment published at 88 FR 69886, Oct. 10, 2023.
+
 As prescribed in 1819.7215, insert the following clause:
 
 Mentor Requirements and Evaluation (APR 2015)

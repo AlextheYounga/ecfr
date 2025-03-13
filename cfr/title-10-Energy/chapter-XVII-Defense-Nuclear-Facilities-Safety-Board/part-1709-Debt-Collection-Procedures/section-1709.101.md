@@ -1,0 +1,3 @@
+##### § 1709.101 Cross-reference to executive branch-wide debt collection regulations. #####
+
+The Defense Nuclear Facilities Safety Board adopts the regulations at 31 CFR parts 900 through 904 governing the administrative collection, offset, compromise, and the suspension or termination of collection activity for debts or civil claims for money, funds or property owed to the United States government as defined by 31 U.S.C. 3701(b).

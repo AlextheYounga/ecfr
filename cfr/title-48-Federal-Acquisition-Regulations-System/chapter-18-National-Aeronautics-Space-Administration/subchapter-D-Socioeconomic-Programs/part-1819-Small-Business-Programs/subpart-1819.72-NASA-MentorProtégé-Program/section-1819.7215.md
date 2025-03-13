@@ -1,5 +1,7 @@
 ##### 1819.7215 Solicitation provision and contract clauses. #####
 
+Link to an amendment published at 88 FR 69886, Oct. 10, 2023.
+
 (a) The contracting officer shall insert the clause at 1852.219-77, NASA Mentor-Protégé Program, in:
 
 (1) Any contract that includes the clause at FAR 52.219-9, Small Business Subcontracting Plan.

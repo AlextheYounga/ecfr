@@ -1,5 +1,7 @@
 ##### 1819.7202 Eligibility. #####
 
+Link to an amendment published at 88 FR 69885, Oct. 10, 2023.
+
 (a) Eligibility of Mentors: To be eligible as a mentor, an entity must be—
 
 (1) A large prime contractor performing with at least one approved subcontracting plan, other than a commercial plan, negotiated with NASA, pursuant to FAR Subpart 19.7, the Small Business Subcontracting Program. A contractor may apply to become a mentor if they currently are not performing under a NASA contract as long as they are currently performing another Federal agency contract with an approved subcontracting plan. The NASA mentor-protégé agreement, however, will not be approved until the mentor company is performing under a NASA contract with an approved subcontracting plan; and

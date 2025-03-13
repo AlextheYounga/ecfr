@@ -1,5 +1,7 @@
 ##### 1819.7204 Agreement submission and approval process. #####
 
+Link to an amendment published at 88 FR 69885, Oct. 10, 2023.
+
 (a) To participate in the Program, entities approved as mentors in accordance with 1819.7203, will submit a complete agreement package to the Contracting Officer who will forward the completed agreement package to the cognizant Small Business Specialist at the NASA Center. The submission package must include the following—
 
 (1) A signed mentor-protégé agreement;

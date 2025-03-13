@@ -1,6 +1,6 @@
 ##### § 2424.40 Authority decision and order. #####
 
-Link to an amendment published at 88 FR 62459, Sept. 12, 2023.
+Link to an amendment published at 88 FR 62459, Sept. 12, 2023.Link to a correction published at 88 FR 69873, Oct. 10, 2023.
 
 (a) *Issuance.* Subject to the requirements of this part, the Authority will expedite proceedings under this part to the extent practicable and will issue to the exclusive representative and to the agency a written decision, explaining the specific reasons for the decision, at the earliest practicable date. The decision will include an order, as provided in paragraphs (b) and (c) of this section, but, with the exception of an order to bargain, such order will not include remedies that could be obtained in an unfair labor practice proceeding under 5 U.S.C. 7118(a)(7).
 

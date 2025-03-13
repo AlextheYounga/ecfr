@@ -1,6 +1,6 @@
 ##### § 2424.22 Exclusive representative's petition for review; purpose; content; severance; service. #####
 
-Link to an amendment published at 88 FR 62456, Sept. 12, 2023.
+Link to an amendment published at 88 FR 62456, Sept. 12, 2023.Link to a correction published at 88 FR 69873, Oct. 10, 2023.
 
 (a) *Purpose.* The purpose of a petition for review is to initiate a negotiability proceeding and provide the agency with notice that the exclusive representative requests a decision from the Authority that a proposal or provision is within the duty to bargain or not contrary to law, respectively. As more fully explained in paragraph (b) of this section, the exclusive representative is required in the petition for review to, among other things, inform the Authority of the exact wording and meaning of the proposal or provision as well as how it is intended to operate, explain technical or unusual terms, and provide copies of materials that support the exclusive representative's position.
 

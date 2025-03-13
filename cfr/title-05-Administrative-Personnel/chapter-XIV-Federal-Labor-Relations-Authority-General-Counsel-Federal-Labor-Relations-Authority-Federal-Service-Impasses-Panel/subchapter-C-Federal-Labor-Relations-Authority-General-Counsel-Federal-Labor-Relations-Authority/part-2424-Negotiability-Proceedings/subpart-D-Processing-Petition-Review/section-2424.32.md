@@ -1,6 +1,6 @@
 ##### § 2424.32 Parties' responsibilities; failure to raise, support, and/or respond to arguments; failure to participate in conferences and/or respond to Authority orders. #####
 
-Link to an amendment published at 88 FR 62459, Sept. 12, 2023.
+Link to an amendment published at 88 FR 62459, Sept. 12, 2023.Link to a correction published at 88 FR 69873, Oct. 10, 2023.
 
 (a) *Responsibilities of the exclusive representative.* The exclusive representative has the burden of raising and supporting arguments that the proposal or provision is within the duty to bargain, within the duty to bargain at the agency's election, or not contrary to law, respectively, and, where applicable, why severance is appropriate.
 

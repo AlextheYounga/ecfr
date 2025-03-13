@@ -1,5 +1,7 @@
 ##### 1819.7201 Scope of subpart. #####
 
+Link to an amendment published at 88 FR 69884, Oct. 10, 2023.
+
 (a) This subpart implements the NASA Mentor-Protégé Program (hereafter referred to as the Program) established under the authority of Title 42, U.S.C., 2473(c)(1). The purpose of the Program is to:
 
 (1) Provide incentives to NASA contractors, performing under at least one active, approved subcontracting plan negotiated with NASA, to assist protégés in enhancing their capabilities to perform as viable NASA contractors, other Government contractors, and commercial suppliers on contract and subcontract requirements.

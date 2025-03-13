@@ -1,6 +1,6 @@
 ##### § 2424.23 Post-petition conferences; conduct and record. #####
 
-Link to an amendment published at 88 FR 62457, Sept. 12, 2023.
+Link to an amendment published at 88 FR 62457, Sept. 12, 2023.Link to a correction published at 88 FR 69873, Oct. 10, 2023.
 
 (a) *Timing of post-petition conference.* On receipt of a petition for review involving a proposal or a provision, a representative of the FLRA will, where appropriate, schedule a post-petition conference to be conducted by telephone or in person. All reasonable efforts will be made to schedule and conduct the conference within ten (10) days after receipt of the petition for review.
 

@@ -1,5 +1,7 @@
 ##### 1801.106 OMB approval under the Paperwork Reduction Act. #####
 
+Link to an amendment published at 88 FR 69884, Oct. 10, 2023.
+
 The following OMB control numbers apply:
 
 |NFS Segment|OMB  <br/>control  <br/>No.|

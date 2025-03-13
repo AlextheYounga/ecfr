@@ -1,5 +1,7 @@
 ##### 1819.7212 Reporting requirements. #####
 
+Link to an amendment published at 88 FR 69885, Oct. 10, 2023.
+
 (a) Mentors must report on the progress made under active mentor-protégé agreements semiannually throughout the term of the agreement.
 
 (b) Reports are due 30 days after the end of each six-month period of performance commencing with the start of the agreement.

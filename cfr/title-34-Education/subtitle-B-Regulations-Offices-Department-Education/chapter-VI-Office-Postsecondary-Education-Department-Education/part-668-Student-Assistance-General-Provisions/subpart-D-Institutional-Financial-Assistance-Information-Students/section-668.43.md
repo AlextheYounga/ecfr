@@ -1,5 +1,7 @@
 ##### § 668.43 Institutional information. #####
 
+Link to an amendment published at 88 FR 70187, Oct. 10, 2023.
+
 (a) Institutional information that the institution must make readily available to enrolled and prospective students under this subpart includes, but is not limited to—
 
 (1) The cost of attending the institution, including—

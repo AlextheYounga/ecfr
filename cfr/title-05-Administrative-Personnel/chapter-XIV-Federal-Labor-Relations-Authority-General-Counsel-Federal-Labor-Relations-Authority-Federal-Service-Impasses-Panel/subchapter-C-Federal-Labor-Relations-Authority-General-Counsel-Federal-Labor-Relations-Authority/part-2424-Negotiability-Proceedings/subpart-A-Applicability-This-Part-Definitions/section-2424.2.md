@@ -1,6 +1,6 @@
 ##### § 2424.2 Definitions. #####
 
-Link to an amendment published at 88 FR 62455, Sept. 12, 2023.
+Link to an amendment published at 88 FR 62455, Sept. 12, 2023.Link to a correction published at 88 FR 69873, Oct. 10, 2023.
 
 In this part, the following definitions apply:
 
