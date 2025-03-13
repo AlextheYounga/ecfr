@@ -300,4 +300,4 @@
 
 (iii) *Limitation on termination.* Nothing in paragraphs (m)(2)(i) and (ii) of this section authorizes the Board to terminate a case where prohibited by another regulatory provision. Further, nothing in paragraphs (m)(2)(i) and (ii) of this section authorizes the Board to terminate a case for the noncitizen to pursue an asylum application before USCIS, unless the noncitizen has filed an asylum application with USCIS pursuant to section 208(b)(3)(C) of the Act pertaining to unaccompanied children, as defined in 8 CFR 1001.1(hh).
 
-[23 FR 9117, Nov. 26, 1958]Editorial Note:For Federal Register citations affecting § 1003.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[23 FR 9117, Nov. 26, 1958] Editorial Note:For Federal Register citations affecting § 1003.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

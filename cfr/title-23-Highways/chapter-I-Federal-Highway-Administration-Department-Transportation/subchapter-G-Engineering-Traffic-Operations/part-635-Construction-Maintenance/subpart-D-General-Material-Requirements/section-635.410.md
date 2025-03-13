@@ -1,5 +1,7 @@
 ##### § 635.410 Buy America requirements. #####
 
+Link to an amendment published at 90 FR 2957, Jan. 14, 2025.
+
 (a) The provisions of this section shall prevail and be given precedence over any requirements of this subpart which are contrary to this section. However, nothing in this section shall be construed to be contrary to the requirements of § 635.409(a) of this subpart.
 
 (b) No Federal-aid highway construction project is to be authorized for advertisement or otherwise authorized to proceed unless at least one of the following requirements is met:

@@ -222,4 +222,4 @@ Under section 214(l)(1)(B) of the Act, however, the Service, in the exercise of 
 
 (iv) The alien enters or attempts to reenter the United States without inspection and admission or parole at any time after the alien files the provisional unlawful presence waiver application and before the approval of the provisional unlawful presence waiver takes effect in accordance with paragraph (e)(12) of this section.
 
-(Secs. 103, 203, 212 of the Immigration and Nationality Act, as amended by secs. 4, 5, 18 of Pub. L. 97-116, 95 Stat. 1611, 1620, (8 U.S.C. 1103, 1153, 1182)[29 FR 12584, Sept. 4, 1964]Editorial Note:For Federal Register citations affecting § 212.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Secs. 103, 203, 212 of the Immigration and Nationality Act, as amended by secs. 4, 5, 18 of Pub. L. 97-116, 95 Stat. 1611, 1620, (8 U.S.C. 1103, 1153, 1182)[29 FR 12584, Sept. 4, 1964] Editorial Note:For Federal Register citations affecting § 212.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

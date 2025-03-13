@@ -1,6 +1,6 @@
 ##### § 1.17 Patent application and reexamination processing fees. #####
 
-Link to an amendment published at 89 FR 92004, Nov. 20, 2024.
+Link to an amendment published at 89 FR 92004, Nov. 20, 2024.Link to a correction of the above amendment published at 90 FR 3037, Jan. 14, 2025.Link to a correction published at 90 FR 3037, Jan. 14, 2025.
 
 (a) Extension fees pursuant to § 1.136(a):
 

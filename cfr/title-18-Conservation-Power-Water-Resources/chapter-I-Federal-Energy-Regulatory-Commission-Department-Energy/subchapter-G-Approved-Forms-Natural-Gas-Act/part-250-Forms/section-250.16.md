@@ -18,7 +18,7 @@
 
 (2) The discount information must be made available to the Commission upon request and to the public under 18 CFR part 385, subpart D. When requested by the Commission, the information must be provided, within a reasonable time, according to the specifications and format contained in Form No. 592, which can be obtained on the Commission's website, *https://www.ferc.gov.*
 
-(e) *Penalty for failure to comply.* (1) Any person who transports gas for others pursuant to subpart B or G of part 284 of this chapter and who knowingly violates the requirements of §§ 358.4 and 358.5 of this chapter, this section, or § 284.13 of this chapter will be subject, pursuant to sections 311(c), 501, and 504(b)(6) of the Natural Gas Policy Act of 1978, to a civil penalty, which the Commission may assess, of not more than $1,544,521 for any one violation.
+(e) *Penalty for failure to comply.* (1) Any person who transports gas for others pursuant to subpart B or G of part 284 of this chapter and who knowingly violates the requirements of §§ 358.4 and 358.5 of this chapter, this section, or § 284.13 of this chapter will be subject, pursuant to sections 311(c), 501, and 504(b)(6) of the Natural Gas Policy Act of 1978, to a civil penalty, which the Commission may assess, of not more than $1,584,648 for any one violation.
 
 (2) For purposes of this paragraph, in the case of a continuing violation, each day of the violation will constitute a separate violation.
 

@@ -1,6 +1,6 @@
 ##### § 1.492 National stage fees. #####
 
-Link to an amendment published at 89 FR 92010, Nov. 20, 2024.
+Link to an amendment published at 89 FR 92010, Nov. 20, 2024.Link to a correction of the above amendment published at 90 FR 3037, Jan. 14, 2025.
 
 The following fees and charges are established for international applications entering the national stage under 35 U.S.C. 371:
 

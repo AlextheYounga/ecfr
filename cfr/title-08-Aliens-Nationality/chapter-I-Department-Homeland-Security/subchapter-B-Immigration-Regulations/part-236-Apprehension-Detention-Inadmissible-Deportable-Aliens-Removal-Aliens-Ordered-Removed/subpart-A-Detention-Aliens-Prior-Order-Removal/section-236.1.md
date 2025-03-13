@@ -80,31 +80,31 @@
 
 (e) *Privilege of communication.* Every detained alien shall be notified that he or she may communicate with the consular or diplomatic officers of the country of his or her nationality in the United States. Existing treaties with the following countries require immediate communication with appropriate consular or diplomatic officers whenever nationals of the following countries are detained in removal proceedings, whether or not requested by the alien and even if the alien requests that no communication be undertaken in his or her behalf. When notifying consular or diplomatic officials, Service officers shall not reveal the fact that any detained alien has applied for asylum or withholding of removal.
 
-Algeria1
+Algeria 1
 
 1 Arrangements with the countries listed in 8 CFR 236.1(e) provide that U.S. authorities shall notify responsible representatives within 72 hours of the arrest or detention of one of their nationals.
 
-Antigua and BarbudaArmeniaAzerbaijanBahamas, TheBarbadosBelarusBelizeBruneiBulgariaChina (People's Republic of)2
+Antigua and Barbuda Armenia Azerbaijan Bahamas, The Barbados Belarus Belize Brunei Bulgaria China (People's Republic of) 2
 
 2 Notification is not mandatory in the case of any person who carries a “Republic of China” passport issued by Taiwan. Such persons should be informed without delay that the nearest office of the Taipei Economic and Cultural Representative Office (“TECRO”), the unofficial entity representing Taiwan's interests in the United States, can be notified at their request.
 
-Costa RicaCyprusCzech RepublicDominicaFijiGambia, TheGeorgiaGhanaGrenadaGuyanaHong Kong3
+Costa Rica Cyprus Czech Republic Dominica Fiji Gambia, The Georgia Ghana Grenada Guyana Hong Kong 3
 
 3 Hong Kong reverted to Chinese sovereignty on July 1, 1997, and is now officially referred to as the Hong Kong Special Administrative Region, or “S.A.R.” Under paragraph 3(f)(2) of the March 25, 1997, U.S.-China Agreement on the Maintenance of the U.S. Consulate General in the Hong Kong Special Administrative Region, U.S. officials are required to notify Chinese officials of the arrest or detention of the bearers of Hong Kong passports in the same manner as is required for bearers of Chinese passports—i.e., immediately, and in any event, within four days of the arrest or detention.
 
-HungaryJamaicaKazakhstanKiribatiKuwaitKyrgyzstanMalaysiaMaltaMauritiusMoldovaMongoliaNigeriaPhilippinesPoland4
+Hungary Jamaica Kazakhstan Kiribati Kuwait Kyrgyzstan Malaysia Malta Mauritius Moldova Mongolia Nigeria Philippines Poland 4
 
 4 Consular communication is not mandatory for any Polish national who has been admitted for permanent residence in the United States. Such notification should only be provided upon request by a Polish national with permanent residency in the United States.
 
-RomaniaRussian FederationSt. Kitts and NevisSt. LuciaSt. Vincent/GrenadinesSeychellesSierra LeoneSingaporeSlovak RepublicTajikistanTanzaniaTongaTrinidad and TobagoTunisiaTurkmenistanTuvaluUkraineUnited Kingdom5
+Romania Russian Federation St. Kitts and Nevis St. Lucia St. Vincent/Grenadines Seychelles Sierra Leone Singapore Slovak Republic Tajikistan Tanzania Tonga Trinidad and Tobago Tunisia Turkmenistan Tuvalu Ukraine United Kingdom 5
 
 5 United Kingdom includes England, Scotland, Wales, Northern Ireland and Islands and the British dependencies of Anguilla, British Virgin Islands, Bermuda, Montserrat, and the Turks and Caicos Islands. Their residents carry British passports.
 
-U.S.S.R.6
+U.S.S.R. 6
 
 6 All U.S.S.R. successor states are covered by this agreement. They are: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russian Federation, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan. Although the U.S.S.R. no longer exists, the U.S.S.R is listed here, because some nationals of its successor states may still be traveling on a U.S.S.R. passport. Mandatory consular notification applies to any national of such a state, including one traveling on a U.S.S.R. passport.
 
-UzbekistanZambiaZimbabwe
+Uzbekistan Zambia Zimbabwe
 
 (f) *Notification to Executive Office for Immigration Review of change in custody status.* The Service shall notify the Immigration Court having administrative control over the Record of Proceeding of any change in custody location or of release from, or subsequent taking into, Service custody of a respondent/applicant pursuant to § 1003.19(g) of this chapter.
 

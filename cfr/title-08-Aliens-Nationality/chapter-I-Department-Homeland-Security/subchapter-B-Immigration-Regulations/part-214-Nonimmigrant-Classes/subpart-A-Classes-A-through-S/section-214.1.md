@@ -212,4 +212,4 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (3) An alien in any authorized period described in paragraph (l) of this section may apply for and be granted an extension of stay under paragraph (c)(4) of this section or change of status under 8 CFR 248.1, if otherwise eligible.
 
-[26 FR 12067, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 214.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[26 FR 12067, Dec. 16, 1961] Editorial Note:For Federal Register citations affecting § 214.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

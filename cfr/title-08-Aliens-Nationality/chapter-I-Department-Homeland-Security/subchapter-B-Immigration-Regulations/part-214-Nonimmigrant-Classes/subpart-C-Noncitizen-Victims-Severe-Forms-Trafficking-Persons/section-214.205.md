@@ -2,6 +2,18 @@
 
 (a) *Bona fide determinations for principal applicants for T nonimmigrant status.* If an Application for T Nonimmigrant Status is submitted on or after August 28, 2024, USCIS will conduct an initial review to determine if the application is bona fide.
 
+(1) *Request for evidence.* If an Application for T Nonimmigrant Status was pending as of August 28, 2024, and additional evidence is required to establish eligibility for principal T nonimmigrant status, USCIS will issue a request for evidence, and conduct a bona fide review based on available evidence.
+
+(2) *Initial review criteria.* After initial review, USCIS will deem an Application for T Nonimmigrant Status bona fide if:
+
+(i) The applicant has submitted a properly filed and complete Application for T Nonimmigrant Status;
+
+(ii) The applicant has submitted a signed personal statement; and
+
+(iii) The results of initial background checks are complete, have been reviewed, and do not present national security concerns.
+
+(3) *Secondary review criteria.* If initial review does not establish an Application for T Nonimmigrant Status is bona fide, USCIS will conduct a full T nonimmigrant status eligibility review. An Application for T Nonimmigrant Status that meets all eligibility requirements will be approved, or if the statutory cap has been reached, will receive a bona fide determination.
+
 (b) *Bona fide determinations for eligible family members in the United States.* Once a principal applicant's application has been deemed bona fide, USCIS will conduct an initial review for any eligible family members in the United States who have filed an Application for Derivative T Nonimmigrant Status to determine whether their applications are bona fide.
 
 (1) If an Application for Derivative T Nonimmigrant Status was pending as of August 28, 2024, and additional evidence is required to establish eligibility for derivative T nonimmigrant status, USCIS will issue a request for evidence and conduct a bona fide review based on available evidence.
@@ -40,4 +52,4 @@
 
 (3) Neither an immigration judge nor the Board has jurisdiction to adjudicate an application for a stay of removal, deportation, or exclusion on the basis of the filing of an Application for T Nonimmigrant Status or Application for Derivative T Nonimmigrant Status.
 
-[89 FR 34931, Apr. 30, 2024; 89 FR 68083, Aug. 23, 2024]
+[89 FR 34931, Apr. 30, 2024; 89 FR 68083, Aug. 23, 2024, as amended at 90 FR 2921, Jan. 14, 2025]

@@ -12,7 +12,7 @@
 
 *Temporary entry,* as defined in the USMCA, means entry without the intent to establish permanent residence. The alien must satisfy the inspecting immigration officer that the proposed stay is temporary. A temporary period has a reasonable, finite end that does not equate to permanent residence. In order to establish that the alien's entry will be temporary, the alien must demonstrate to the satisfaction of the inspecting immigration officer that his or her work assignment in the United States will end at a predictable time and that he or she will depart upon completion of the assignment.
 
-(c) *Appendix 2 to Annex 16-A of Chapter 16 of the USMCA.* Pursuant to the USMCA, an applicant seeking admission under this section shall demonstrate business activity at a professional level in one of the professions set forth in Appendix 2 to Annex 16-A of Chapter 16. The professions in Appendix 2 to Annex 16-A and the minimum requirements for qualification for each are as follows:1
+(c) *Appendix 2 to Annex 16-A of Chapter 16 of the USMCA.* Pursuant to the USMCA, an applicant seeking admission under this section shall demonstrate business activity at a professional level in one of the professions set forth in Appendix 2 to Annex 16-A of Chapter 16. The professions in Appendix 2 to Annex 16-A and the minimum requirements for qualification for each are as follows: 1
 
 1 A business person seeking temporary employment under this Appendix may also perform training functions relating to the profession, including conducting seminars.
 
@@ -20,7 +20,7 @@ Appendix 2 to Annex 16-A of Chapter 16 (Annotated)General—Accountant—Baccala
 
 2 The terms “state/provincial license” and “state/provincial/federal license” mean any document issued by a state, provincial, or federal government, as the case may be, or under its authority, but not by a local government, that permits a person to engage in a regulated activity or profession.
 
-—Computer Systems Analyst—Baccalaureate or Licenciatura Degree; or Post-Secondary Diploma3 or Post-Secondary Certificate,4 and three years experience.
+—Computer Systems Analyst—Baccalaureate or Licenciatura Degree; or Post-Secondary Diploma 3 or Post-Secondary Certificate,4 and three years experience.
 
 3 “Post-Secondary Diploma” means a credential issued, on completion of two or more years of postsecondary education, by an accredited academic institution in Canada or the United States.
 
@@ -30,11 +30,11 @@ Appendix 2 to Annex 16-A of Chapter 16 (Annotated)General—Accountant—Baccala
 
 5 The term “Mathematician” includes the profession of Actuary. An Actuary must satisfy the necessary requirements to be recognized as an actuary by a professional actuarial association or society. A professional actuarial association or society means a professional actuarial association or society operating in the territory of at least one of the Parties.
 
-—Range Manager/Range Conservationist—Baccalaureate or Licenciatura Degree.—Research Assistant (working in a post-secondary educational institution)—Baccalaureate or Licenciatura Degree.—Scientific Technician/Technologist6—Possession of (a) theoretical knowledge of any of the following disciplines: agricultural sciences, astronomy, biology, chemistry, engineering, forestry, geology, geophysics, meteorology, or physics; and (b) the ability to solve practical problems in any of those disciplines, or the ability to apply principles of any of those disciplines to basic or applied research.
+—Range Manager/Range Conservationist—Baccalaureate or Licenciatura Degree.—Research Assistant (working in a post-secondary educational institution)—Baccalaureate or Licenciatura Degree.—Scientific Technician/Technologist 6—Possession of (a) theoretical knowledge of any of the following disciplines: agricultural sciences, astronomy, biology, chemistry, engineering, forestry, geology, geophysics, meteorology, or physics; and (b) the ability to solve practical problems in any of those disciplines, or the ability to apply principles of any of those disciplines to basic or applied research.
 
 6 A business person in this category must be seeking temporary entry for work in direct support of professionals in agricultural sciences, astronomy, biology, chemistry, engineering, forestry, geology, geophysics, meteorology or physics.
 
-—Social Worker—Baccalaureate or Licenciatura Degree.—Sylviculturist (including Forestry Specialist)—Baccalaureate or Licenciatura Degree.—Technical Publications Writer—Baccalaureate or Licenciatura Degree; or Post-Secondary Diploma or Post-Secondary Certificate, and three years experience.—Urban Planner (including Geographer)—Baccalaureate or Licenciatura Degree.—Vocational Counselor—Baccalaureate or Licenciatura Degree.Medical/Allied Professionals—Dentist—D.D.S., D.M.D., Doctor en Odontologia or Doctor en Cirugia Dental; or state/provincial license.—Dietitian—Baccalaureate or Licenciatura Degree; or state/provincial license.—Medical Laboratory Technologist (Canada)/Medical Technologist (Mexico and the United States)7—Baccalaureate or Licenciatura Degree; or Post-Secondary Diploma or Post-Secondary Certificate, and three years experience.
+—Social Worker—Baccalaureate or Licenciatura Degree.—Sylviculturist (including Forestry Specialist)—Baccalaureate or Licenciatura Degree.—Technical Publications Writer—Baccalaureate or Licenciatura Degree; or Post-Secondary Diploma or Post-Secondary Certificate, and three years experience.—Urban Planner (including Geographer)—Baccalaureate or Licenciatura Degree.—Vocational Counselor—Baccalaureate or Licenciatura Degree.Medical/Allied Professionals—Dentist—D.D.S., D.M.D., Doctor en Odontologia or Doctor en Cirugia Dental; or state/provincial license.—Dietitian—Baccalaureate or Licenciatura Degree; or state/provincial license.—Medical Laboratory Technologist (Canada)/Medical Technologist (Mexico and the United States) 7—Baccalaureate or Licenciatura Degree; or Post-Secondary Diploma or Post-Secondary Certificate, and three years experience.
 
 7 A business person in this category must be seeking temporary entry to perform in a laboratory, chemical, biological, hematological, immunologic, microscopic or bacteriological tests and analyses for diagnosis, treatment, or prevention of diseases.
 

@@ -1,0 +1,13 @@
+##### § 425.5 Consent. #####
+
+(a) *Express informed consent.* In connection with promoting or offering for sale any good or service with a Negative Option Feature, it is a violation of this part and an unfair or deceptive act or practice in violation of section 5 of the FTC Act for a Negative Option Seller to fail to obtain the consumer's express informed consent before Charging the consumer. In obtaining such expressed informed consent, the Negative Option Seller must:
+
+(1) Obtain the consumer's unambiguously affirmative consent to the Negative Option Feature offer separately from any other portion of the transaction;
+
+(2) Not include any information that interferes with, detracts from, contradicts, or otherwise undermines the ability of consumers to provide their express informed consent to the Negative Option Feature; and
+
+(3) Keep or maintain verification of the consumer's consent for at least three years. However, if the seller can demonstrate by a preponderance of the evidence that it uses processes ensuring no consumer can technologically complete the transaction without consent, such seller does not have to maintain these records for such transactions.
+
+(b) *Requirements for Negative Option Features covered in the Telemarketing Sales Rule.* Negative Option Sellers covered by the Telemarketing Sales Rule must comply with all applicable requirements provided in 16 CFR part 310, including, for transactions involving preacquired account information and a free-to-pay-conversion feature, obtaining from the customer, at a minimum, the last four (4) digits of the account number to be charged and making and maintaining an audio recording of the entire telemarketing transaction as required by 16 CFR part 310.
+
+(c) *Documentation of unambiguously affirmative consent for written offers.* Except for transactions covered by the preauthorized transfer provisions of the Electronic Fund Transfer Act (15 U.S.C. 1693e) and Regulation E (12 CFR 1005.10), a Negative Option Seller will be deemed in compliance with the requirements of paragraph (a)(1) of this section for all written offers (including over the internet or phone applications), if that seller obtains the required consent through a check box, signature, or other substantially similar method, which the consumer must affirmatively select or sign to accept the Negative Option Feature and no other portion of the transaction. The consent request must be presented in a manner and format that is clear, unambiguous, non-deceptive, and free of any information not directly related to the consumer's acceptance of the Negative Option Feature.

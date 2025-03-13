@@ -1,4 +1,4 @@
-##### § 1.1503(d)-8 Effective dates. #####
+##### § 1.1503(d)-8 Applicability dates. #####
 
 (a) *General rule.* Except as provided in paragraph (b) of this section, this paragraph (a) provides the dates of applicability of §§ 1.1503(d)-1 through 1.1503(d)-7. Sections 1.1503(d)-1 through 1.1503(d)-7 apply to dual consolidated losses incurred in taxable years beginning on or after April 18, 2007. However, a taxpayer may apply §§ 1.1503(d)-1 through 1.1503(d)-7, in their entirety, to dual consolidated losses incurred in taxable years beginning on or after January 1, 2007, by filing its return and attaching to such return the domestic use agreements, certifications, or other information in accordance with these regulations. For purposes of this section, the term application date means either April 18, 2007, or, if the taxpayer applies these regulations pursuant to the preceding sentence, January 1, 2007. Section 1.1503-2, as contained in 26 CFR part 1, revised as of April 1, 2024, applies for dual consolidated losses incurred in taxable years beginning on or after October 1, 1992, and before the application date.
 
@@ -22,4 +22,16 @@
 
 (8) *Rule providing that SRLY limitation applies without regard to § 1.1502-21(c)(1)(i)(E).* Section 1.1503(d)-4(c)(3)(v) applies to any period to which § 1.1502-21(c)(1)(i)(E) applies.
 
-[T.D. 9315, 72 FR 12914, Mar. 19, 2007; 72 FR 20424, Apr. 25, 2007, as amended by T.D. 9896, 85 FR 19856, Apr. 8, 2020; T.D. 9927, 85 FR 67988, Oct. 27, 2020; T.D. 10018, 89 FR 106878, Dec. 30, 2024]
+(9)-(10) [Reserved]
+
+(11) *Disregarded payment loss rules.* Section 1.1503(d)-1(d) applies to taxable years beginning on or after January 1, 2026. See also § 301.7701-2(e)(10) of this chapter (applicability dates for the entity classification provisions relevant to the disregarded payment loss rules).
+
+(12)-(14) [Reserved]
+
+(15) *Anti-avoidance rule.* Section 1.1503(d)-1(f) applies to dual consolidated losses incurred in taxable years ending on or after August 6, 2024, and to disregarded payment losses in taxable years beginning on or after January 1, 2026.
+
+(16) [Reserved].
+
+(17) *Deemed ordering rule.* Section 1.1503(d)-3(c)(3) applies to dual consolidated losses incurred in taxable years beginning on or after January 1, 2026, and to disregarded payment losses in taxable years beginning on or after January 1, 2026. For the application of the deemed ordering rule to dual consolidated losses incurred in taxable years beginning before January 1, 2026, but on or after April 18, 2007, see § 1.1503(d)-3(c)(3) as contained in 26 CFR part 1 revised as of April 1, 2024.
+
+[T.D. 9315, 72 FR 12914, Mar. 19, 2007; 72 FR 20424, Apr. 25, 2007, as amended by T.D. 9896, 85 FR 19856, Apr. 8, 2020; T.D. 9927, 85 FR 67988, Oct. 27, 2020; T.D. 10018, 89 FR 106878, Dec. 30, 2024; T.D. 10026, 90 FR 3020, Jan. 14, 2025]

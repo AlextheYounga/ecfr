@@ -64,4 +64,4 @@ As used in this chapter:
 
 (hh) The term *unaccompanied child* means “unaccompanied alien child,” as defined in 6 U.S.C. 279(g)(2).
 
-[23 FR 9115, Nov. 26, 1958]Editorial Note:For Federal Register citations affecting § 1001.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[23 FR 9115, Nov. 26, 1958] Editorial Note:For Federal Register citations affecting § 1001.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

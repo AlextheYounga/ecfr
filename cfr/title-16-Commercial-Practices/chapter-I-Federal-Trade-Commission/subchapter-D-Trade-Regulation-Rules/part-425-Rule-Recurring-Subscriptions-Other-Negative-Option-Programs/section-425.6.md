@@ -1,0 +1,13 @@
+##### § 425.6 Simple cancellation (“Click to Cancel”). #####
+
+(a) *Simple mechanism required for cancellation.* In connection with promoting or offering for sale any good or service with a Negative Option Feature, it is a violation of this Rule and an unfair or deceptive act or practice in violation of section 5 of the FTC Act for the Negative Option Seller to fail to provide a simple mechanism for a consumer to cancel the Negative Option Feature; avoid being Charged, or Charged an increased amount, for the good or service; and immediately stop any recurring Charges.
+
+(b) *Simple mechanism at least as simple as consent.* The simple mechanism required by paragraph (a) of this section must be at least as easy to use as the mechanism the consumer used to consent to the Negative Option Feature.
+
+(c) *Minimum requirements for simple mechanism.* At a minimum, the Negative Option Seller must provide the simple mechanism required by paragraphs (a) and (b) of this section through the same medium the consumer used to consent to the Negative Option Feature, and:
+
+(1) For cancellation by Interactive Electronic Medium, the simple cancellation mechanism must be easy to find when the consumer seeks to cancel. Compliance with the disclosure required under § 425.4(a)(4) does not discharge this obligation. In no event shall a consumer be required to interact with a live or virtual representative (such as a chatbot) to cancel if the consumer did not do so to consent to the Negative Option Feature.
+
+(2) For cancellation by telephone call, the Negative Option Seller must promptly effectuate cancellations requested by the consumer via a telephone number that is answered or records messages, made available during normal business hours, and not more costly to use than the telephone call the consumer used to consent to the Negative Option Feature.
+
+(3) For cancellation of consent obtained in person, in addition to offering cancellation, where practical, via an in-person method similar to that the consumer used to consent to the Negative Option Feature, the Negative Option Seller must offer the simple mechanism through an Interactive Electronic Medium or by providing a telephone number. The alternate simple mechanism required by this paragraph must satisfy all requirements of paragraphs (c)(1) and (2) of this section, as applicable. If the Negative Option Seller offers the alternate mechanism by providing a telephone number, the seller shall not erect a cost-barrier to cancellation by imposing any unnecessary or unreasonable cost for the cancellation call.

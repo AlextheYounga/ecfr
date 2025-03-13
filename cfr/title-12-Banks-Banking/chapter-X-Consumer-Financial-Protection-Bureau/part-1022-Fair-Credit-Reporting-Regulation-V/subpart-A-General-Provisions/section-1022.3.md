@@ -1,5 +1,7 @@
 ##### § 1022.3 Definitions. #####
 
+Link to an amendment published at 90 FR 3372, Jan. 14, 2025.
+
 For purposes of this part, unless explicitly stated otherwise:
 
 (a) *Act* means the FCRA (15 U.S.C. 1681 *et seq.*).

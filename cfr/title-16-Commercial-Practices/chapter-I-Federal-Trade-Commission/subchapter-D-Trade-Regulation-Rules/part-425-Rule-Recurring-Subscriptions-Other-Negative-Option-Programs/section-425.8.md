@@ -1,0 +1,3 @@
+##### § 425.8 Exemptions. #####
+
+Any person to whom this part applies may petition the Commission for a partial or full exemption. The Commission may, in response to petitions or on its own authority, issue partial or full exemptions from this part if the Commission finds application of this part's requirements is not necessary to prevent the acts or practices to which this part relates. The Commission shall resolve petitions using the procedures provided in 16 CFR 1.31. If appropriate, the Commission may condition such exemptions on compliance with alternative standards or requirements to be prescribed by the Commission.

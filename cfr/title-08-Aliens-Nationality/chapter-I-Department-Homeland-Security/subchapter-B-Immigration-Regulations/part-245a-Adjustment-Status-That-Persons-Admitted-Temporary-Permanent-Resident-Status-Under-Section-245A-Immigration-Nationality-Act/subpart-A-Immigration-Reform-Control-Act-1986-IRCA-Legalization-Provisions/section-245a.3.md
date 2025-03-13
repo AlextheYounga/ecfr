@@ -170,7 +170,7 @@ The course provider shall notify the district director, in writing, of any chang
 
 I certify that I have compared this copy with its original and it is a true and complete copy.
 
-Signed:Date:Name:QDE in good-standing representativeName of QDE in good-standing:Address of QDE in good-standing:INS-QDE Cooperative Agreement Number:
+Signed:Date:Name:QDE in good-standing representative Name of QDE in good-standing:Address of QDE in good-standing:INS-QDE Cooperative Agreement Number:
 
 (iv) *Authentication.* Certification of documents must be authenticated by an original signature. A facsimile signature on a rubber stamp will not be acceptable.
 

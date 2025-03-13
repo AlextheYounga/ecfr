@@ -2,4 +2,4 @@
 
 The following have been determined to be U.S. incorporated nonprofit organizations principally engaged in conducting abroad through communications media the dissemination of information which significantly promotes U.S. interests abroad within the purview of section 319(c) of the Act:
 
-Free Europe, Inc.; formerly Free Europe Committee, Inc.; National Committee for a Free Europe (including Radio Free Europe)).Radio Liberty Committee, Inc. (formerly American Committee for Liberation, Inc.; American Committee for Liberation of the Peoples of Russia, Inc.; American Committee for Liberation from Bolshevism, Inc.).[33 FR 255, Jan. 9, 1968. Redesignated and amended at 56 FR 50489, Oct. 7, 1991]
+Free Europe, Inc.; formerly Free Europe Committee, Inc.; National Committee for a Free Europe (including Radio Free Europe)). Radio Liberty Committee, Inc. (formerly American Committee for Liberation, Inc.; American Committee for Liberation of the Peoples of Russia, Inc.; American Committee for Liberation from Bolshevism, Inc.).[33 FR 255, Jan. 9, 1968. Redesignated and amended at 56 FR 50489, Oct. 7, 1991]

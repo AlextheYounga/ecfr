@@ -40,7 +40,7 @@
 
 (d) *Bond schedules*—(1) *Blanketbonds for departure of visitors and transits.* The amount of bond required for various numbers of nonimmigrant visitors or transits admitted under bond on Forms I-352 shall be in accordance with the following schedule:
 
-Aliens1 to 4—$500 each.5 to 9—$2,500 total bond.10 to 24—$3,500 total bond.25 to 49—$5,000 total bond.50 to 74—$6,000 total bond.75 to 99—$7,000 total bond.100 to 124—$8,000 total bond.125 to 149—$9,000 total bond.150 to 199—$10,000 total bond.200 or more—$10,000 plus $50 for each alien over 200.
+Aliens1 to 4—$500 each. 5 to 9—$2,500 total bond. 10 to 24—$3,500 total bond. 25 to 49—$5,000 total bond. 50 to 74—$6,000 total bond. 75 to 99—$7,000 total bond. 100 to 124—$8,000 total bond. 125 to 149—$9,000 total bond. 150 to 199—$10,000 total bond. 200 or more—$10,000 plus $50 for each alien over 200.
 
 (2) *Blanket bonds for importation of workers classified as nonimmigrants under section 101(a)(15)(H).* The following schedule shall be employed by district directors when requiring employers or their agents or representatives to post bond as a condition to importing alien laborers into the United States from the West Indies, the British Virgin Islands, or from Canada:
 

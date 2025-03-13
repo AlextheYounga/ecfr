@@ -26,4 +26,4 @@
 
 (g) *Online filing discount.* Unless otherwise provided in this part, the fee for forms filed online with USCIS, using the electronic system prescribed by USCIS, will be an amount that is $50 lower than the fee prescribed in § 106.2.
 
-[89 FR 6386, Jan. 31, 2024; 89 FR 20104, Mar. 21, 2024]
+[89 FR 6386, Jan. 31, 2024, as amended at 89 FR 20104, Mar. 21, 2024]

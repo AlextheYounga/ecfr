@@ -148,4 +148,4 @@ A valid unexpired visa and an unexpired passport, valid for the period set forth
 
 (iii) [Reserved]
 
-(Secs. 103, 104, 212 of the Immigration and Nationality Act, as amended (8 U.S.C. 1103, 1104, 1132))[26 FR 12066, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 1212.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Secs. 103, 104, 212 of the Immigration and Nationality Act, as amended (8 U.S.C. 1103, 1104, 1132)) [26 FR 12066, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 1212.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
