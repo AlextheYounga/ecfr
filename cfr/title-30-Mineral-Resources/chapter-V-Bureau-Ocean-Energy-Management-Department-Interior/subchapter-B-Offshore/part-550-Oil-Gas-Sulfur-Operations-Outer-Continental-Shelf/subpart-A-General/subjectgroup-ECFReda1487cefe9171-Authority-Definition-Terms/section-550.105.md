@@ -1,7 +1,5 @@
 ##### § 550.105 Definitions. #####
 
-Link to an amendment published at 89 FR 71182, Sept. 3, 2024.
-
 Terms used in this part will have the meanings given in the Act and as defined in this section:
 
 *Act* means the OCS Lands Act, as amended (43 U.S.C. 1331 *et seq.*)
@@ -28,7 +26,7 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *Archaeological interest* means capable of providing scientific or humanistic understanding of past human behavior, cultural adaptation, and related topics through the application of scientific or scholarly techniques, such as controlled observation, contextual measurement, controlled collection, analysis, interpretation, and explanation.
 
-*Archaeological resource* means any material remains of human life or activities that are at least 50 years of age and that are of archaeological interest.
+*Archaeological resource* means the material remains of human life or activities that are at least 50 years of age and that are of archaeological interest, including any historic property described by the National Historic Preservation Act, as defined in 36 CFR 800.16(l).
 
 *Arctic OCS* means the Beaufort Sea and Chukchi Sea Planning Areas (for more information on these areas, see the Proposed Final OCS Oil and Gas Leasing Program for 2012-2017 (June 2012) at *http://www.boem.gov/Oil-and-Gas-Energy-Program/Leasing/Five-Year-Program/2012-2017/Program-Area-Maps/index.aspx*).
 
@@ -210,4 +208,4 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *You,* depending on the context of this part, means a bidder, a lessee (record title owner), a sublessee (operating rights owner), a Federal or State RUE grant holder, a pipeline ROW grant holder, an assignor or transferor, a designated operator or agent of the lessee or grant holder, or an applicant seeking to become one of the individuals listed in this definition.
 
-[89 FR 31586, Apr. 24, 2024]
+[89 FR 31586, Apr. 24, 2024, as amended at 89 FR 71182, Oct. 3, 2024]

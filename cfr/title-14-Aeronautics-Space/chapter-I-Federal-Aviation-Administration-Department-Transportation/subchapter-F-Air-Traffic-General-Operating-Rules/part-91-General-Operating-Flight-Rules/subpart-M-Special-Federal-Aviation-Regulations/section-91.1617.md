@@ -14,6 +14,6 @@
 
 (d) *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of 14 CFR parts 119, 121, 125, or 135, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the responsible Flight Standards Office a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
 
-(e) *Expiration.* This SFAR will remain in effect until October 31, 2024. The FAA may amend, rescind, or extend this SFAR, as necessary.
+(e) *Expiration.* This SFAR will remain in effect until October 31, 2027. The FAA may amend, rescind, or extend this SFAR as necessary.
 
-[Docket No. FAA-2020-0874, Amdt. No. 91-359, 85 FR 68440, Oct. 29, 2020, as amended by Amdt. No. 91-359A, 87 FR 57384, Sept. 20, 2022]
+[Docket No. FAA-2020-0874, Amdt. No. 91-359, 85 FR 68440, Oct. 29, 2020, as amended by Amdt. No. 91-359A, 87 FR 57384, Sept. 20, 2022; Amdt. No. 91-359B, 89 FR 80390, Oct. 3, 2024]
