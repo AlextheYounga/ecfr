@@ -1,0 +1,3 @@
+##### § 43.6 Controlling legal authority; no unwritten or non-public binding policy or guidance. #####
+
+Notwithstanding any other provision of this part, all decisions of the Board are expected to comport with all applicable statutes, regulations, binding case law, and written Office policy and guidance applicable to Board proceedings. There shall be no unwritten Office or Board policy or guidance that is binding on any panel of the Board. All written policy and guidance binding on panels of the Board shall be made public.

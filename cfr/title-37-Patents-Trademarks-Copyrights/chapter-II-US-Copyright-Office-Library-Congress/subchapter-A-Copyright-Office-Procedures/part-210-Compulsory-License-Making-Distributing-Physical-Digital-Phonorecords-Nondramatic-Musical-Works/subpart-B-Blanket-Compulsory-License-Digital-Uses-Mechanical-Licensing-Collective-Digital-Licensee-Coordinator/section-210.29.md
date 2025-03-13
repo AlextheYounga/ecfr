@@ -1,6 +1,6 @@
 ##### § 210.29 Reporting and distribution of royalties to copyright owners by the mechanical licensing collective. #####
 
-Link to an amendment published at 89 FR 56612, July 9, 2024.
+Link to an amendment published at 89 FR 56612, July 9, 2024.Link to a correction of the above amendment published at 89 FR 57093, July 12, 2024.
 
 (a) *General.* This section prescribes reporting obligations of the mechanical licensing collective to copyright owners for the distribution of royalties for musical works, licensed under the blanket license for digital uses prescribed in 17 U.S.C. 115(d)(1), that have been matched, either through the processing by the mechanical licensing collective upon receipt of a report of usage and royalty payment from a digital music provider, or during the holding period for unmatched works as defined in 17 U.S.C. 115(d)(3)(H)(i).
 

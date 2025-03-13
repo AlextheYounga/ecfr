@@ -1,7 +1,5 @@
 ##### § 214.3 Definitions. #####
 
-Link to an amendment published at 89 FR 49807, June 12, 2024.
-
 The following definitions apply throughout this part:
 
 *Action plan.* A plan that outlines what the housing counseling agency and the client will do in order to meet the client's housing goals and, when appropriate, addresses the client's housing problem(s).
@@ -52,6 +50,8 @@ The following definitions apply throughout this part:
 
 *HUD certified housing counselor.* A housing counselor who has passed the HUD Certification examination, works for a participating agency, and is certified by HUD as competent to provide housing counseling services pursuant to this part.
 
+*HUD-certified Tribal housing counselor.* A housing counselor who has passed the HUD Certification examination as described in subpart F of this part, works for an Indian Tribe, Tribally designated housing entity (TDHE), or other Tribal entity, and is certified by HUD as competent to provide housing counseling services pursuant to subpart F of this part.
+
 *Intermediary.* A HUD-approved organization that provides housing counseling services indirectly through its branches or affiliates, for whom it exercises control over the quality and type of housing counseling services rendered. The Housing Counseling program recognizes two types of intermediaries, which include:
 
 (1) *National intermediary.* A national intermediary provides, in multiple regions of the United States:
@@ -84,6 +84,8 @@ The following definitions apply throughout this part:
 
 *Subgrantee.* An affiliate of a HUD-approved intermediary or SHFA that receives a subgrant of housing counseling funds provided under a HUD grant.
 
+*Tribally designated housing entity.* See definition at 25 U.S.C. 4103.
+
 *Unit of general local government.* Any city, county, parish, town, township, borough, village, or any other general purpose political subdivision of a State.
 
-[72 FR 55648, Sept. 28, 2007, as amended at 81 FR 90658, Dec. 14, 2016]
+[72 FR 55648, Sept. 28, 2007, as amended at 81 FR 90658, Dec. 14, 2016; 89 FR 49807, June 12, 2024]

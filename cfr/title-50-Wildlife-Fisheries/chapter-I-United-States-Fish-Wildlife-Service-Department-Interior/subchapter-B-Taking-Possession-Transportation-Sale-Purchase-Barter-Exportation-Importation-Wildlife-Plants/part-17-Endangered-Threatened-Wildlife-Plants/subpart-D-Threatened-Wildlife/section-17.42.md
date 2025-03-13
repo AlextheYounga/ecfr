@@ -1,6 +1,6 @@
 ##### § 17.42 Species-specific rules—reptiles. #####
 
-Link to an amendment published at 89 FR 53528, June 27, 2024.
+Link to an amendment published at 89 FR 53528, June 27, 2024.Link to an amendment published at 89 FR 57236, July 12, 2024.
 
 (a) American alligator (*Alligator mississippiensis*)—(1) *Definitions.* For purposes of this paragraph (a) the following definitions apply:
 

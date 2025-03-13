@@ -1,0 +1,9 @@
+##### § 43.3 Limits on Director's and other individuals' involvement in panel decisions. #####
+
+(a) Prior to issuance of a decision by a panel, the Director, Deputy Director, Commissioner for Patents, and Commissioner for Trademarks shall not communicate, directly or through intermediaries, with any member of the panel regarding the decision.
+
+(b) The prohibition of paragraph (a) of this section shall not apply to any individual in paragraph (a) who is a member of the panel. When sitting as a member of a panel, the Director or other individual listed in paragraph (a) is a coequal member of the panel and exercises no review authority over the proceeding prior to the issuance of the panel's decision on the merits.
+
+(c) Nothing in this section shall prevent the Director or delegate from communicating with a panel as to resource needs or the procedural status of any proceeding pending before the Board.
+
+(d) The Chief Administrative Patent Judge or delegates of the Chief Administrative Patent Judge shall designate panels of the Board on behalf of the Director. The Chief Administrative Patent Judge or delegates of the Chief Administrative Patent Judge shall only panel or repanel proceedings in accordance with public Board paneling guidance. The Director may issue generally applicable paneling guidance to be applied to proceedings before the Board. The Director shall not direct or otherwise influence the paneling or repaneling of any specific proceeding prior to issuance of the panel decision. When reviewing or rehearing an issued panel decision, the Director may direct the repaneling of the proceeding in a manner consistent with public Board paneling guidance through an Order entered into the record.

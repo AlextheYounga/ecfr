@@ -1,5 +1,7 @@
 ##### § 96.12 Authorized adoption service providers. #####
 
+Link to an amendment published at 89 FR 57263, July 12, 2024.
+
 (a) Except as provided in section 505(b) of the IAA (relating to transitional cases), and once the UAA becomes effective, except as provided in section 2(c) of the UAA (relating to transitional cases), an agency or person may not offer, provide, or facilitate the provision of any adoption service in the United States in connection with an intercountry adoption unless it is:
 
 (1) An accredited agency or an approved person;
