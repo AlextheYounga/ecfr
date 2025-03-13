@@ -1,5 +1,7 @@
 ##### § 285.706 How do I nominate a CVA for BSEE approval? #####
 
+Link to an amendment published at 89 FR 42718, May 15, 2024.
+
 (a) You must nominate a CVA for BSEE approval as part of your COP per 30 CFR 585.626(b)(20), and when required, as part of your SAP per 30 CFR 585.610(a)(9) or GAP per 30 CFR 585.645(c)(5). You must use a CVA to review and certify the Facility Design Report, the Fabrication and Installation Report, and the Project Modifications and Repairs Report per this subpart. You must specify whether the CVA nomination is for the Facility Design Report, Fabrication and Installation Report, Project Modifications and Repairs Report, or for any combination of these.
 
 (b) For each CVA that you nominate, you must submit to BSEE a list of documents used in your design that you will forward to the CVA and a qualification statement that includes the following:

@@ -1,5 +1,7 @@
 ##### § 285.710 When conducting onsite installation inspections, what must the CVA or project engineer do? #####
 
+Link to an amendment published at 89 FR 42719, May 15, 2024.
+
 To comply with § 285.708(a)(4), the CVA or project engineer must make periodic onsite inspections while installation is in progress and must, as appropriate, verify, witness, survey, or check, the installation items required by this section.
 
 (a) The CVA or project engineer must verify, as appropriate, all of the following:

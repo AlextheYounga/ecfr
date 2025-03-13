@@ -1,5 +1,7 @@
 ##### § 285.902 What are the general requirements for decommissioning for facilities authorized under my SAP, COP, or GAP? #####
 
+Link to an amendment published at 89 FR 42721, May 15, 2024.
+
 (a) Except as otherwise authorized under § 285.909, within 2 years following termination of a lease or grant, you must:
 
 (1) Remove or decommission all facilities, projects, cables, pipelines, and obstructions;

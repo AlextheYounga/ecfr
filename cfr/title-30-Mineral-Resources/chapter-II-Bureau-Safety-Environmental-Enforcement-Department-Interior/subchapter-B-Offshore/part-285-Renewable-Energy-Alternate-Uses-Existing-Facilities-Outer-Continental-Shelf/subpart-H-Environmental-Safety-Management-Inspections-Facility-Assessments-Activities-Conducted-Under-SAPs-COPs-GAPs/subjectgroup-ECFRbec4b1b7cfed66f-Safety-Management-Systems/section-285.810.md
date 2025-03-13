@@ -1,5 +1,7 @@
 ##### § 285.810 What must I include in my Safety Management System? #####
 
+Link to an amendment published at 89 FR 42720, May 15, 2024.
+
 You must submit a description of the safety management system you will use with your COP (provided under 30 CFR 585.627(d)) and, when required by this part, your SAP (as provided in § 285.614(b)) or GAP (as provided in § 285.651). You must describe:
 
 (a) How you will ensure the safety of personnel or anyone on or near your facilities;

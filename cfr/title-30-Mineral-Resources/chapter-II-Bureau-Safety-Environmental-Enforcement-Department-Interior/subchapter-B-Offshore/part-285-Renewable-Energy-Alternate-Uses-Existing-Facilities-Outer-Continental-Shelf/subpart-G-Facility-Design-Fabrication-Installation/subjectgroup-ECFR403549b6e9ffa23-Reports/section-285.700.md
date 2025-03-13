@@ -1,5 +1,7 @@
 ##### § 285.700 What reports must I submit to BSEE before installing facilities described in my approved SAP, COP, or GAP? #####
 
+Link to an amendment published at 89 FR 42715, May 15, 2024.
+
 (a) You must submit the following reports to BSEE before installing facilities described in your approved COP (§ 285.632(a)) and, when required by 30 CFR part 585, your SAP (§ 285.614(b)), or GAP (§ 285.651):
 
 (1) A Facility Design Report; and

@@ -4,9 +4,9 @@
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter.
 
-(1) No. 058198: Type A medicated articles containing 9 or 45.4 grams per pound (g/lb) ractopamine hydrochloride.
+(1) Nos. 016592 and 058198: Type A medicated articles containing 9 or 45.4 grams per pound (g/lb) ractopamine hydrochloride.
 
-(2) Nos. 016592, 051311, and 054771: Type A medicated articles containing 45.4 g/lb ractopamine hydrochloride.
+(2) Nos. 051311 and 054771: Type A medicated articles containing 45.4 g/lb ractopamine hydrochloride.
 
 (c) *Related tolerances.* See § 556.570 of this chapter.
 
@@ -26,10 +26,10 @@
 
 (e) *Conditions of use*—(1) *Swine*—
 
-|Ractopamine in grams/ton|Combination in grams/ton|                                                                                                                      Indications for use                                                                                                                       |          Limitations           |   Sponsor    |
-|------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|--------------|
-|     (i) 4.5 to 9.0     |                        |For increased rate of weight gain, improved feed efficiency, and increased carcass leanness in finishing swine, weighing not less than 150 lbs, fed a complete ration containing at least 16% crude protein for the last 45 to 90 lbs of gain prior to slaughter|Feed continuously as sole ration|058198, 054771|
-|    (ii) [Reserved]     |                        |                                                                                                                                                                                                                                                                |                                |              |
+|Ractopamine in grams/ton|Combination in grams/ton|                                                                                                                     Indications for use                                                                                                                      |          Limitations           |            Sponsor             |
+|------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|--------------------------------|
+|     (i) 4.5 to 9.0     |                        |For increased rate of weight gain, improved feed efficiency, and increased carcass leanness in finishing swine, weighing not less than 150 lb, fed a complete ration containing at least 16% crude protein for the last 45 to 90 lb of gain prior to slaughter|Feed continuously as sole ration|016592  <br/>054771  <br/>058198|
+|    (ii) [Reserved]     |                        |                                                                                                                                                                                                                                                              |                                |                                |
 
 (2) *Cattle.*
 
@@ -54,4 +54,4 @@
 
 (4) Ractopamine may also be used in combination with tylosin in as in § 558.625.
 
-[67 FR 71820, Dec. 3, 2002, as amended at 68 FR 54659, Sept. 18, 2003; 69 FR 12068, Mar. 15, 2004; 69 FR 51174, Aug. 18, 2004; 71 FR 31074, June 1, 2006; 71 FR 67301, Nov. 21, 2006; 72 FR 10358, Mar. 8, 2007; 72 FR 41619, July 31, 2007; 72 FR 56897, Oct. 5, 2007; 72 FR 62571, Nov. 6, 2007; 72 FR 65667, Nov. 23, 2007; 72 FR 70777, Dec. 13, 2007; 73 FR 72715, Dec. 1, 2008; 73 FR 75323, Dec. 11, 2008; 74 FR 66914, Dec. 17, 2009; 75 FR 1276, Jan. 11, 2010; 75 FR 5888, Feb. 5, 2010; 75 FR 20917, Apr. 22, 2010; 75 FR 54018, Sept. 3, 2010; 77 FR 31724, May 30, 2012; 78 FR 63872, Oct. 25, 2013; 79 FR 13546, Mar. 11, 2014; 79 FR 37621, July 2, 2014; 79 FR 44278, July 31, 2014; 79 FR 53136, Sept. 8, 2014; 80 FR 61298, Oct. 13, 2015; 81 FR 48703, July 26, 2016; 81 FR 95013, Dec. 27, 2016; 85 FR 18122, Apr. 1, 2020; 85 FR 45311, July 28, 2020; 86 FR 58013, Oct. 20, 2021; 87 FR 17947, Mar. 29, 2022]
+[67 FR 71820, Dec. 3, 2002, as amended at 68 FR 54659, Sept. 18, 2003; 69 FR 12068, Mar. 15, 2004; 69 FR 51174, Aug. 18, 2004; 71 FR 31074, June 1, 2006; 71 FR 67301, Nov. 21, 2006; 72 FR 10358, Mar. 8, 2007; 72 FR 41619, July 31, 2007; 72 FR 56897, Oct. 5, 2007; 72 FR 62571, Nov. 6, 2007; 72 FR 65667, Nov. 23, 2007; 72 FR 70777, Dec. 13, 2007; 73 FR 72715, Dec. 1, 2008; 73 FR 75323, Dec. 11, 2008; 74 FR 66914, Dec. 17, 2009; 75 FR 1276, Jan. 11, 2010; 75 FR 5888, Feb. 5, 2010; 75 FR 20917, Apr. 22, 2010; 75 FR 54018, Sept. 3, 2010; 77 FR 31724, May 30, 2012; 78 FR 63872, Oct. 25, 2013; 79 FR 13546, Mar. 11, 2014; 79 FR 37621, July 2, 2014; 79 FR 44278, July 31, 2014; 79 FR 53136, Sept. 8, 2014; 80 FR 61298, Oct. 13, 2015; 81 FR 48703, July 26, 2016; 81 FR 95013, Dec. 27, 2016; 85 FR 18122, Apr. 1, 2020; 85 FR 45311, July 28, 2020; 86 FR 58013, Oct. 20, 2021; 87 FR 17947, Mar. 29, 2022; 89 FR 42361, May 15, 2024]

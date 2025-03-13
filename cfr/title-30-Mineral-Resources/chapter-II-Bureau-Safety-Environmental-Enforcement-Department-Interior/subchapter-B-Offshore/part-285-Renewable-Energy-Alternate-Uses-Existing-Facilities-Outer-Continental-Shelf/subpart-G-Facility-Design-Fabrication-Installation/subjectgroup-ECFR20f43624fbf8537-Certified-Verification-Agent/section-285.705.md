@@ -1,5 +1,7 @@
 ##### § 285.705 When must I use a Certified Verification Agent (CVA)? #####
 
+Link to an amendment published at 89 FR 42717, May 15, 2024.
+
 You must use a CVA to review and certify the Facility Design Report, the Fabrication and Installation Report, and the Project Modifications and Repairs Report.
 
 (a) You must use a CVA to:

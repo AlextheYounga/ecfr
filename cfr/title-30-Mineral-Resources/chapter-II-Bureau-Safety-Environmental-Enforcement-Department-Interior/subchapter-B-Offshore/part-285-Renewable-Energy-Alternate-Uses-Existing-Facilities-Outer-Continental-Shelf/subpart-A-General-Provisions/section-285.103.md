@@ -1,5 +1,7 @@
 ##### § 285.103 When may BSEE prescribe or approve departures from the regulations in this part? #####
 
+Link to an amendment published at 89 FR 42713, May 15, 2024.
+
 (a) BSEE may prescribe or approve departures from these regulations when departures are necessary to:
 
 (1) Facilitate the appropriate activities on a lease or grant;

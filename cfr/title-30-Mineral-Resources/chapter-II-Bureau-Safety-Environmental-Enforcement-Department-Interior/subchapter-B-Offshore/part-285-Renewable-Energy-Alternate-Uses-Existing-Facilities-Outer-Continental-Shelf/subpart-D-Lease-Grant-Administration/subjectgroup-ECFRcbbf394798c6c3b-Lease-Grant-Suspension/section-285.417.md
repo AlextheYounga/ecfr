@@ -1,5 +1,7 @@
 ##### § 285.417 When may BSEE order a suspension? #####
 
+Link to an amendment published at 89 FR 42714, May 15, 2024.
+
 (a) BSEE may order a suspension under the following circumstances:
 
 (1) When necessary to comply with judicial decrees prohibiting some or all activities under your lease; or

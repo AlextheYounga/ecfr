@@ -1,5 +1,7 @@
 ##### § 285.702 What must I include in my Fabrication and Installation Report? #####
 
+Link to an amendment published at 89 FR 42716, May 15, 2024.
+
 (a) Your Fabrication and Installation Report must describe how your facilities will be fabricated and installed in accordance with the design criteria identified in the Facility Design Report; your BOEM-approved SAP, COP, or GAP; and generally accepted industry standards and practices. Your Fabrication and Installation Report must demonstrate how your facilities will be fabricated and installed in a manner that conforms to your responsibilities listed in § 285.105(a). You must include the following items in your Fabrication and Installation Report:
 
 |                            Required documents                            |                                                                          Required contents                                                                          |                                                             Other requirements                                                              |

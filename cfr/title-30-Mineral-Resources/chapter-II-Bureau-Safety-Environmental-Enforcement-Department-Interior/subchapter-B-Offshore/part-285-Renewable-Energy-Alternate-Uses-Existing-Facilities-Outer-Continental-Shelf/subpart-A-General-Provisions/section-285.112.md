@@ -1,5 +1,7 @@
 ##### § 285.112 Definitions. #####
 
+Link to an amendment published at 89 FR 42713, May 15, 2024.
+
 Terms used in this part have the meanings as defined in this section:
 P\>*Affected State* means with respect to any activities proposed, conducted, or approved under this part, any coastal State—
 

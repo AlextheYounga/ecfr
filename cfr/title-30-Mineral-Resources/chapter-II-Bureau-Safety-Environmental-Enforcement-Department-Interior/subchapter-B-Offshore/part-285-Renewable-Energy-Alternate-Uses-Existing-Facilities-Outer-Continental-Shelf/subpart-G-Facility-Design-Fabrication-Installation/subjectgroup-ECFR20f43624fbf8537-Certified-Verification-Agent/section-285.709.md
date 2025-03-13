@@ -1,5 +1,7 @@
 ##### § 285.709 When conducting onsite fabrication inspections, what must the CVA or project engineer verify? #####
 
+Link to an amendment published at 89 FR 42719, May 15, 2024.
+
 (a) To comply with § 285.708(a)(3), the CVA or project engineer must make periodic onsite inspections while fabrication is in progress and must verify the following fabrication items, as appropriate:
 
 (1) Quality control by lessee (or grant holder) and builder;

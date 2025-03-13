@@ -1,5 +1,7 @@
 ##### § 285.113 How will data and information obtained by BSEE under this part be disclosed to the public? #####
 
+Link to an amendment published at 89 FR 42714, May 15, 2024.
+
 (a) BSEE will make data and information available in accordance with the requirements and subject to the limitations of the Freedom of Information Act (FOIA) (5 U.S.C. 552) and the regulations contained in 43 CFR part 2.
 
 (b) BSEE will not release such data and information that we have determined is exempt from disclosure under exemption 4 of FOIA. We will review such data and information and objections of the submitter by the following schedule to determine whether release at that time will result in substantial competitive harm or disclosure of trade secrets.

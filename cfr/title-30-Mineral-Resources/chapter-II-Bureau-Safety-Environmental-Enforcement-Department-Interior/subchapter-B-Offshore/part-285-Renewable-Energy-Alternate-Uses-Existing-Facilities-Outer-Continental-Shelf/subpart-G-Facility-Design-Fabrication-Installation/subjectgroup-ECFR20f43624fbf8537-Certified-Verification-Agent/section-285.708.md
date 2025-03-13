@@ -1,5 +1,7 @@
 ##### § 285.708 What are the CVA's or project engineer's primary duties for fabrication and installation review? #####
 
+Link to an amendment published at 89 FR 42718, May 15, 2024.
+
 (a) The CVA or project engineer must do all of the following:
 
 (1) Use good engineering judgment and practice in conducting an independent assessment of the fabrication and installation activities;

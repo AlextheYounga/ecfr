@@ -1,4 +1,4 @@
-##### § 520.928 Firocoxib. #####
+##### § 520.928 Firocoxib tablets. #####
 
 (a) *Specifications.* (1) Each chewable tablet contains 57 or 227 milligrams (mg) firocoxib.
 
@@ -22,4 +22,4 @@
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[69 FR 51171, Aug. 18, 2004, as amended at 73 FR 2808, Jan. 16, 2008; 73 FR 64885, Oct. 31, 2008; 81 FR 67151, Sept. 30, 2016; 87 FR 58961, Sept. 29, 2022; 88 FR 14897, Mar. 10, 2023; 88 FR 55563, Aug. 16, 2023; 88 FR 84700, Dec. 6, 2023]
+[69 FR 51171, Aug. 18, 2004, as amended at 73 FR 2808, Jan. 16, 2008; 73 FR 64885, Oct. 31, 2008; 81 FR 67151, Sept. 30, 2016; 87 FR 58961, Sept. 29, 2022; 88 FR 14897, Mar. 10, 2023; 88 FR 55563, Aug. 16, 2023; 88 FR 84700, Dec. 6, 2023; 89 FR 42357, May 15, 2024]

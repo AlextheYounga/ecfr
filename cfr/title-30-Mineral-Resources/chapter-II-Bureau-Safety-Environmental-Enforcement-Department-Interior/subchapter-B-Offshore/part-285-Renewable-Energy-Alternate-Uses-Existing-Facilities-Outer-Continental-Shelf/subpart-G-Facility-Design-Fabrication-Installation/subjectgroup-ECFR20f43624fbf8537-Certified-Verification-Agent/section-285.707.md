@@ -1,5 +1,7 @@
 ##### § 285.707 What are the CVA's primary duties for facility design review? #####
 
+Link to an amendment published at 89 FR 42718, May 15, 2024.
+
 If you are required to use a CVA:
 
 (a) The CVA must use good engineering judgment and practices in conducting an independent assessment of the design of the facility. The CVA must certify in the Facility Design Report to BSEE that the facility is designed to withstand the environmental and functional load conditions appropriate for the intended service life at the proposed location.

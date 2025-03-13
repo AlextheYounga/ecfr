@@ -1,5 +1,7 @@
 ##### § 285.105 What are my responsibilities under this part? #####
 
+Link to an amendment published at 89 FR 42713, May 15, 2024.
+
 As a lessee, applicant, operator, or holder of a ROW grant, RUE grant, or Alternate Use RUE grant, you must:
 
 (a) Design your projects and conduct all activities in a manner that ensures safety and will not cause undue harm or damage to natural resources, including their physical, atmospheric, and biological components to the extent practicable; and take measures to prevent unauthorized discharge of pollutants including marine trash and debris into the offshore environment.

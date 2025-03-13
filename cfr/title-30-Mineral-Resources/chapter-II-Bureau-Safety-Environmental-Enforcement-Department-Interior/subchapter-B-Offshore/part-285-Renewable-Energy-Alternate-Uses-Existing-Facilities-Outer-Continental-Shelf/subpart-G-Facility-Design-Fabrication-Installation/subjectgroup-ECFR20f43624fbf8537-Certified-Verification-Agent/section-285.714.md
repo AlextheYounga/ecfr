@@ -1,5 +1,7 @@
 ##### § 285.714 What records relating to SAPs, COPs, and GAPs must I keep? #####
 
+Link to an amendment published at 89 FR 42720, May 15, 2024.
+
 (a) Until BOEM releases your financial assurance under 30 CFR 585.534, you must compile, retain, and make available to BSEE, within the time specified by BSEE, all of the following:
 
 (1) The as-built drawings;

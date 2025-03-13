@@ -1,4 +1,4 @@
-##### § 520.1780 Pimobendan. #####
+##### § 520.1780 Pimobendan tablets. #####
 
 (a) *Specifications.* Each chewable tablet contains 1.25, 2.5, 5, or 10 milligrams (mg) pimobendan.
 
@@ -10,4 +10,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[72 FR 27733, May 17, 2007, as amended at 79 FR 18158, Apr. 1, 2014; 87 FR 10968, Feb. 28, 2022]
+[72 FR 27733, May 17, 2007, as amended at 79 FR 18158, Apr. 1, 2014; 87 FR 10968, Feb. 28, 2022; 89 FR 42357, May 15, 2024]

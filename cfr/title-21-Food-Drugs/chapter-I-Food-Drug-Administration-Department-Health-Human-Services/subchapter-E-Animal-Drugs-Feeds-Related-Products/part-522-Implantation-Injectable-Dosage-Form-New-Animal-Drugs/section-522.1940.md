@@ -1,37 +1,39 @@
 ##### § 522.1940 Progesterone and estradiol benzoate. #####
 
-(a) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (d) of this section.
+(a) *Specifications*—(1) *Each implant consists of progesterone and estradiol benzoate.* (i) 100 mg progesterone and 10 mg estradiol benzoate (one implant consisting of four pellets, each containing 25 mg progesterone and 2.5 mg estradiol benzoate).
 
-(1) No. 054771 for use as in paragraphs (d)(1)(i)(A), (d)(1)(ii) and (iii), (d)(2)(i)(A), (d)(2)(ii) and (iii), and (d)(3) of this section.
+(ii) 200 mg progesterone and 20 mg estradiol benzoate (one implant consisting of eight pellets, each containing 25 mg progesterone and 2.5 mg estradiol benzoate).
 
-(2) No. 058198 for use as in paragraphs (d)(1) and (2) of this section.
+(2) *Each implant consists of progesterone and estradiol benzoate and tylosin tartrate.* (i) 100 mg progesterone, 10 mg estradiol benzoate, and 29 mg tylosin tartrate (one implant consisting of four pellets, each containing 25 mg progesterone and 2.5 mg estradiol benzoate, and one pellet containing 29 mg tylosin tartrate).
 
-(b) *Related tolerances.* See §§ 556.240 and 556.540 of this chapter.
+(ii) 200 mg progesterone, 20 mg estradiol benzoate, and 29 mg tylosin tartrate (one implant consisting of eight pellets, each containing 25 mg progesterone and 2.5 mg estradiol benzoate, and one pellet containing 29 mg tylosin tartrate).
 
-(c) *Special considerations.* Labeling of implants described in paragraphs (d)(1)(i)(B) and (d)(2)(i)(B) of this section shall bear the following: “Federal law restricts this drug to use by or on the order of a licensed veterinarian.”.
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (c) of this section:
 
-(d) *Conditions of use in cattle.* It is used for implantation as follows:
+(1) No. 054771 for use as in paragraphs (e)(1)(i)(A), (e)(1)(ii), (e)(2)(i)(A), (B), (C), and (e)(2)(ii) of this section.
 
-(1) *Suckling beef calves at least 45 days old and up to 400 lb of body weight*—(i) *Amount.* (A) 100 milligrams (mg) progesterone and 10 mg estradiol benzoate (one implant consisting of 4 pellets, each pellet containing 25 mg progesterone and 2.5 mg estradiol benzoate) per implant dose.
+(2) No. 058198 for use as in paragraphs (e)(1)(i)(A), (e)(1)(i)(B), (e)(1)(ii), and (e)(3) of this section.
 
-(B) 100 mg progesterone and 10 mg estradiol benzoate (one implant consisting of 5 pellets, each of 4 pellets containing 25 mg progesterone and 2.5 mg estradiol benzoate, and 1 pellet containing 29 mg tylosin tartrate) per implant dose.
+(c) *Related tolerances.* See §§ 556.240 and 556.540 of this chapter.
 
-(ii) *Indications for use.* For increased rate of weight gain.
+(d) *Special considerations.* Labeling of implants described in paragraphs (a)(2)(i) and (a)(2)(ii) for use in paragraphs (e)(1)(i)(B), (e)(1)(ii), (e)(3)(i), and (e)(3)(ii) of this section shall bear the following: “Federal law restricts this drug to use by or on the order of a licensed veterinarian.”
 
-(iii) *Limitations.* For subcutaneous ear implantation, one dose per animal. Do not use in beef calves less than 45 days of age, dairy calves, and veal calves because effectiveness and safety have not been established. Do not use in animals intended for subsequent breeding, or in dairy cows. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+(e) *Conditions of use*—(1) *Beef calves 45 days of age and older and weighing up to 400 lbs*—(i) *Amounts and indications for use.* (A) An implant containing 100 mg progesterone and 10 mg estradiol benzoate as described in paragraph (a)(1)(i) of this section for increased rate of weight gain.
 
-(2) *Growing beef steers weighing 400 lb or more*—(i) *Amount.* (A) 200 mg progesterone and 20 mg estradiol benzoate (one implant consisting of 8 pellets, each pellet containing 25 mg progesterone and 2.5 mg estradiol benzoate) per implant dose.
+(B) An implant containing 100 mg progesterone, 10 mg estradiol benzoate, and 29 mg tylosin tartrate as described in paragraph (a)(2)(i) of this section for increased rate of weight gain.
 
-(B) 200 mg progesterone and 20 mg estradiol benzoate (one implant consisting of 9 pellets, each of 8 pellets containing 25 mg progesterone and 2.5 mg estradiol benzoate, and 1 pellet containing 29 mg tylosin tartrate) per implant dose.
+(ii) *Limitations.* Implant pellets subcutaneously in ear only. Other than when used as described in (e)(2)(i)(B) of this section, the implant as described in paragraph (a)(1)(i) of this section is not approved for repeated implantation (reimplantation). The implant as described in paragraph (a)(2)(i) of this section is not approved for repeated implantation (reimplantation) with this or any other cattle ear implant. Do not use in beef calves less than 45 days of age, dairy calves, and veal calves because effectiveness and safety have not been evaluated. Do not use in dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or calves born to these cows.
 
-(ii) *Indications for use.* For increased rate of weight gain and improved feed efficiency.
+(2) *Growing beef steers fed in confinement for slaughter*—(i) *Amounts and indications for use.* (A) An implant containing 200 mg progesterone and 20 mg estradiol benzoate as described in paragraph (a)(1)(ii) of this section for increased rate of weight gain and improved feed efficiency.
 
-(iii) *Limitations.* For subcutaneous ear implantation, one dose per animal. Do not use in beef calves less than 45 days of age, dairy calves, and veal calves because effectiveness and safety have not been established. Do not use in animals intended for subsequent breeding, or in dairy cows. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+(B) An implant containing 200 mg progesterone and 20 mg estradiol benzoate as described in paragraph (a)(1)(ii) of this section for increased rate of weight gain in a reimplantation program where an implant as described in paragraph (a)(1)(i) of this section is the first implant and an implant as described in paragraph (a)(1)(ii) of this section is administered approximately 70 days later.
 
-(3) *Steers fed in confinement for slaughter*—(i) *Amount.* Reimplant 200 mg progesterone and 20 mg estradiol benzoate on approximately day 70 following an initial implant of 100 mg progesterone and 10 mg estradiol benzoate or 200 mg progesterone and 20 mg estradiol benzoate.
+(C) An implant containing 200 mg progesterone and 20 mg estradiol benzoate as described in paragraph (a)(1)(ii) of this section for increased rate of weight gain in a reimplantation program where an implant as described in paragraph (a)(1)(ii) of this section is the first implant and an implant as described in paragraph (a)(1)(ii) of this section is administered approximately 70 days later.
 
-(ii) *Indications for use.* For additional improvement in rate of weight gain.
+(ii) *Limitations.* Implant pellets subcutaneously in ear only. Other than when used as described in paragraphs (e)(2)(i)(B) or (C) of this section, the implant described in paragraph (a)(1)(ii) of this section is not approved for repeated implantation (reimplantation) with any other cattle ear implant in growing beef steers and heifers fed in confinement for slaughter as safety and effectiveness have not been evaluated. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves because effectiveness and safety have not been evaluated. Do not use in dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or calves born to these cows.
 
-(iii) *Limitations.* For subcutaneous ear implantation. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+(3) *Growing beef steers weighing 400 lbs or more*—(i) *Amounts and indications for use.* An implant containing 200 mg progesterone, 20 mg estradiol benzoate, and 29 mg tylosin tartrate as described in paragraph (a)(2)(ii) of this section for increased rate of weight gain and improved feed efficiency.
 
-[69 FR 70055, Dec. 2, 2004, as amended at 77 FR 31723, May 30, 2012; 79 FR 16194, Mar. 25, 2014; 81 FR 48702, July 26, 2016; 87 FR 17946, Mar. 29, 2022; 88 FR 55566, Aug. 16, 2023]
+(ii) *Limitations.* The implant as described in paragraph (a)(2)(ii) of this section is not approved for repeated implantation (reimplantation) with this or any other cattle ear implant. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves because effectiveness and safety have not been evaluated. Do not use in dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or calves born to these cows.
+
+[89 FR 42358, May 15, 2024]

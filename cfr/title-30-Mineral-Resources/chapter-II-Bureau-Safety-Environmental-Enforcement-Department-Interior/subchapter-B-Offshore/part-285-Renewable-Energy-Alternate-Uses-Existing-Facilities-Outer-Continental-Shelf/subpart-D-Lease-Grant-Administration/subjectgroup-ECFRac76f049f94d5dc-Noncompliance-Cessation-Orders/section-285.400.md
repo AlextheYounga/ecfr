@@ -1,5 +1,7 @@
 ##### § 285.400 What happens if I fail to comply with this part? #####
 
+Link to an amendment published at 89 FR 42714, May 15, 2024.
+
 (a) BSEE may take appropriate corrective action under this part if you fail to comply with applicable provisions of Federal law, the regulations in this part, other applicable regulations, any order of the Director, the provisions of a lease or grant issued under 30 CFR parts 585 or 586, or the requirements of an approved plan or other approval under this part or 30 CFR parts 585 or 586.
 
 (b) BSEE may issue to you a notice of noncompliance if we determine that there has been a violation of the regulations in this part, any order of the Director, or any provision of your lease, grant or other approval issued under this part or 30 CFR parts 585 or 586. When issuing a notice of noncompliance, BSEE will serve you at your last known address.
