@@ -56,6 +56,6 @@
 
 (8) Immediate intent to immigrate. (i) The recommendation of the principal officer must certify that the employee being recommended is prepared to pursue an immigrant visa application within one year of the Department's notification to the post of approval of special immigrant status and, if the employee is not honorably retired, that the employee intends permanent separation from U.S. government employment abroad no later than the date of departure for the United States following issuance of an immigrant visa.
 
-(ii) Employees of Hong Kong Consulate General hired on or before July 1, 1999, are not required to establish immediate intent to immigrate. Employees of the Hong Kong Consulate General who received or were approved for special immigrant status before July 1, 1999, also may continue employment with the U.S. government.
+(ii) Employees of Hong Kong Censulate General hired on or before July 1, 1999, are not required to establish immediate intent to immigrate. Employees of the Hong Kong Consulate General who received or were approved for special immigrant status before July 1, 1999, also may continue employment with the U.S. government.
 
 [85 FR 36326, June 16, 2020]

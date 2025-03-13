@@ -6,10 +6,8 @@
 
 (3) *Oath and signature on Form DS-260.* The applicant shall be required to read the Form DS-260, Electronic Application for Immigrant Visa and Alien Registration, when it has been completed, or it shall be read to the applicant in the applicant's language, or the applicant shall otherwise be informed of its full contents, before the applicant electronically signs and submits the application to the Department. At the time of the applicant's interview the applicant shall be asked whether they are willing to subscribe thereto to the information provided on Form DS-260. If the alien is not willing to subscribe to the application unless changes are made in the information stated therein, the required changes shall be made. The application shall then be sworn to or affirmed and signed, biometrically, by or on behalf of the applicant before a consular officer, or a designated officer of the American Institute of Taiwan, who shall then electronically sign the application.
 
-(4) *Form of attestation for certain repeat applications due to COVID-19.* The swearing to or signature of an application before a consular officer by an immigrant visa applicant may be waived in the discretion of the consular officer until December 13, 2023, provided the applicant is willing to affirm under penalty of perjury to the information provided on Form DS-260 or Form DS-230.
-
 (b) *Registration.* The alien shall be considered to be registered for the purposes of INA 221(b) and 203(g) upon the filing of Form DS-230 or Form DS-260, when duly executed, or the transmission by the Department to the alien of a notification of the availability of an immigrant visa, whichever occurs first.
 
 (c) *Fingerprinting.* Every applicant for an immigrant visa must furnish fingerprints prior to the execution of Form DS-230 or Form DS-260.
 
-[75 FR 45476, Aug. 3, 2010]Effective Date Note:At 86 FR 70740, Dec. 13, 2021, § 42.67 was amended by adding paragraph (a)(4), effective Dec. 13, 2021, through Dec. 13, 2023.
+[75 FR 45476, Aug. 3, 2010]
