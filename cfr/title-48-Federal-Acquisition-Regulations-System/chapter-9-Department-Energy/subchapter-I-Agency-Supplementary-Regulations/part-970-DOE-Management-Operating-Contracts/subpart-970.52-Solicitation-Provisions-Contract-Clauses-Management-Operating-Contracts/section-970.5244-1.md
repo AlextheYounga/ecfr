@@ -1,42 +1,40 @@
 ##### 970.5244-1 Contractor purchasing system. #####
 
-Link to an amendment published at 89 FR 89827, Nov. 13, 2024.
-
 As prescribed in 970.4403 insert the following clause:
 
-Contractor Purchasing System (AUG 2016)
+Contractor Purchasing System (DEC 2024)
 
-(a) *General.* The Contractor shall develop, implement, and maintain formal policies, practices, and procedures to be used in the award of subcontracts consistent with this clause and 48 CFR subpart 970.44. The Contractor's purchasing system and methods shall be fully documented, consistently applied, and acceptable to the Department of Energy (DOE) in accordance with 48 CFR 970.4401-1. The Contractor shall maintain file documentation which is appropriate to the value of the purchase and is adequate to establish the propriety of the transaction and the price paid. The Contractor's purchasing performance will be evaluated against such performance criteria and measures as may be set forth elsewhere in this contract. DOE reserves the right at any time to require that the Contractor submit for approval any or all purchases under this contract. The Contractor shall not purchase any item or service, the purchase of which is expressly prohibited by the written direction of DOE, and shall use such special and directed sources as may be expressly required by the DOE Contracting Officer. DOE will conduct periodic appraisals of the Contractor's management of all facets of the purchasing function, including the Contractor's compliance with its approved system and methods. Such appraisals will be performed through the conduct of Contractor Purchasing System Reviews in accordance with 48 CFR subpart 44.3, or, when approved by the Contracting Officer, through the Contractor's participation in the conduct of the Balanced Scorecard performance measurement and performance management system. The Contractor's approved purchasing system and methods shall include the requirements set forth in paragraphs (b) through (y) of this clause.
+(a) *General.* The Contractor shall develop, implement, and maintain formal policies, practices, and procedures to be used in the award of subcontracts consistent with this clause and 48 CFR subpart 970.44, as well as 48 CFR subpart 44.3. The Contractor's purchasing system and methods shall be fully documented, consistently applied, and acceptable to the Department of Energy (DOE) in accordance with 48 CFR 970.4401-1. The Contractor shall maintain file documentation which is appropriate to the value of the purchase and is adequate to establish the propriety of the transaction and the price paid. The Contractor's obligations include, among other things, retaining documentation to justify the cost on any flexibly priced subcontract or any subcontract with a flexibly priced element. DOE reserves the right at any time to require that the Contractor submit for approval any or all subcontracts or purchases under this contract. The Contractor shall not purchase any item or service, the purchase of which is expressly prohibited by the written direction of DOE and shall use such special and directed sources as may be expressly required by the DOE Contracting Officer. DOE will conduct periodic appraisals of the Contractor's management of all facets of the Contractor's purchasing function, including the Contractor's compliance with its approved system and methods. Such appraisals shall be performed against the criteria and measures set forth in 48 CFR part 44, subpart 44.3. The Contractor's approved purchasing system and methods shall include the requirements set forth in paragraphs (b) through (y) of this clause.
 
 (b) *Acquisition of utility services.* Utility services shall be acquired in accordance with the requirements of 48 CFR subpart 970.41.
 
-(c) *Acquisition of real property.* Real property shall be acquired in accordance with 48 CFR subpart 917.74.
+(c) *Acquisition of real property.* Real estate or real property interests shall be acquired in accordance with 48 CFR part 917, subpart 917.74.
 
 (d) *Advance notice of proposed subcontract awards.* Advance notice shall be provided in accordance with 48 CFR 970.4401-3.
 
 (e) *Audit of subcontractors.* (1) The Contractor shall provide for—
 
-(i) Periodic post-award audit of cost-reimbursement subcontractors at all tiers; and
+(i) Periodic post-award audit—or a sufficient amount of audit work (that the Contractor's auditor or the Contracting Officer agrees is sufficient)—to provide reasonable assurance that all claimed subcontract costs are allowable for: flexibly priced subcontracts at all tiers; and the flexibly priced elements in any subcontracts at all tiers (“flexibly priced” subcontracts and elements include Cost-Reimbursement subcontracts, Time-and-Materials subcontracts, cost-reimbursement elements in Fixed-Priced contracts, etc.); and
 
 (ii) Audits, where necessary, to provide a valid basis for pre-award or cost or price analysis.
 
-(2) Responsibility for determining the costs allowable under each cost-reimbursement subcontract remains with the contractor or next higher-tier subcontractor. The Contractor shall provide, in appropriate cases, for the timely involvement of the Contractor and the DOE Contracting Officer in resolution of subcontract cost allowability.
+(2) Responsibility for determining the costs allowable under each cost-reimbursement subcontract remains with the contractor or next higher-tier subcontractor. The Contractor shall provide, in appropriate cases, for the timely joint involvement of the Contractor and the DOE Contracting Officer in resolution of subcontract cost allowability. In no case, however, shall the Contractor's subcontract audit arrangements preclude the Contracting Officer's determination of the allowability or unallowability of the subcontract costs the Contractor claims for reimbursement.
 
-(3) Where audits of subcontractors at any tier are required, arrangements may be made to have the cognizant Federal agency perform the audit of the subcontract. These arrangements shall be made administratively between DOE and the other agency involved and shall provide for the cognizant agency to audit in an appropriate manner in light of the magnitude and nature of the subcontract. In no case, however, shall these arrangements preclude determination by the DOE Contracting Officer of the allowability or unallowability of subcontractor costs claimed for reimbursement by the Contractor.
+(3) Where audits of subcontractors at any tier are required, the Contractor shall consult with the DOE Contracting Officer on the best approach for obtaining an audit; this may involve employing external auditors. The Contractor shall interact with the cognizant Federal agency in a manner appropriate to the magnitude and nature of the subcontracted work. In no case, however, shall subcontractor auditing arrangements preclude determination by the DOE Contracting Officer of the allowability or unallowability of subcontractor costs claimed for reimbursement by the Contractor.
 
-(4) Allowable costs for cost reimbursable subcontracts are to be determined in accordance with the cost principles of 48 CFR Part 31, appropriate for the type of organization to which the subcontract is to be awarded, as supplemented by 48 CFR part 931. Allowable costs in the purchase or transfer from contractor-affiliated sources shall be determined in accordance with 48 CFR 970.4402-3 and 48 CFR 31.205-26(e).
+(4) Allowable costs for cost reimbursable subcontracts are to be determined in accordance with the cost principles of 48 CFR part 31, appropriate for the type of organization to which the subcontract is to be awarded, as supplemented by 48 CFR part 931. Allowable costs in the purchase or transfer from contractor-affiliated sources shall be determined in accordance with 48 CFR 970.4402-3 and 31.205-26(e).
 
-(f) *Bonds and insurance.* (1) The Contractor shall require performance bonds in penal amounts as set forth in 48 CFR 28.102-2(a) for all fixed-priced and unit-priced construction subcontracts in excess of $150,000. The Contractor shall consider the use of performance bonds in fixed-price non-construction subcontracts, where appropriate.
+(f) *Bonds and insurance.* (1) The Contractor shall require performance bonds in amounts as set forth in 48 CFR 28.102-2(b) for all fixed-priced and unit-priced construction subcontracts in excess of $150,000. The Contractor shall consider the use of performance bonds in fixed-price non-construction subcontracts, where appropriate.
 
-(2) For fixed-price, unit-priced and cost reimbursement construction subcontracts in excess of $150,000, a payment bond shall be obtained on Standard Form 25A modified to name the Contractor as well as the United States of America as obligees. The penal amounts shall be determined in accordance with 48 CFR 28.102-2(b).
+(2) For fixed-price, unit-priced and cost reimbursement construction subcontracts in excess of $150,000, a payment bond shall be obtained on Standard Form 25A modified to name the Contractor as well as the United States of America as obligees. The amounts shall be determined in accordance with 48 CFR 28.102-2(b).
 
-(3) For fixed-price, unit-priced and cost-reimbursement construction subcontracts greater than $25,000, but not greater than $100,000, the Contractor shall select two or more of the payment protections at 48 CFR 28.102-1(b), giving particular consideration to the inclusion of an irrevocable letter of credit as one of the selected alternatives.
+(3) For fixed-price, unit-priced and cost-reimbursement construction subcontracts greater than $35,000, but not greater than $150,000, the Contractor shall select two or more of the payment protections at 48 CFR 28.102-1(b), giving particular consideration to the inclusion of an irrevocable letter of credit as one of the selected alternatives.
 
-(4) A subcontractor may have more than one acceptable surety in both construction and other subcontracts, provided that in no case will the liability of any one surety exceed the maximum penal sum for which it is qualified for any one obligation. For subcontracts other than construction, a co-surety (two or more sureties together) may reinsure amounts in excess of their individual capacity, with each surety having the required underwriting capacity that appears on the list of acceptable corporate sureties.
+(4) A subcontractor may have more than one acceptable surety in both construction and other subcontracts, provided that in no case will the liability of any one surety exceed the maximum sum for which it is qualified for any one obligation. For subcontracts other than construction, a co-surety (two or more sureties together) may reinsure amounts in excess of their individual capacity, with each surety having the required underwriting capacity that appears on the list of acceptable corporate sureties.
 
 (g) *Buy American.* The Contractor shall comply with the provisions of the Buy American Act as reflected in 48 CFR 52.225-1 and 48 CFR 52.225-9. The Contractor shall forward determinations of non-availability of individual items to the DOE Contracting Officer for approval. Items in excess of $500,000 require the prior concurrence of the Head of Contracting Activity. If, however, the Contractor has an approved purchasing system, the Head of the Contracting Activity may authorize the Contractor to make determinations of non-availability for individual items valued at $500,000 or less.
 
-(h) *Construction and architect-engineer subcontracts.* (1) *Independent Estimates.* A detailed, independent estimate of costs shall be prepared for all construction work to be subcontracted.
+(h) *Construction and architect-engineer subcontracts.* (1) *Independent Estimates.* A detailed, independent estimate of costs shall be prepared for all construction work to be subcontracted that is expected to exceed the simplified acquisition threshold.
 
 (2) *Specifications.* Specifications for construction shall be prepared in accordance with the DOE publication entitled “General Design Criteria Manual.”
 
@@ -52,7 +50,7 @@ Contractor Purchasing System (AUG 2016)
 
 (k) *Government Property.* The Contractor shall establish and maintain a property management system that complies with criteria in 48 CFR 970.5245-1, Property, and 48 CFR 52.245-1, Government Property.
 
-(l) *Indemnification.* Except for Price-Anderson Nuclear Hazards Indemnity, no subcontractor may be indemnified except with the prior approval of the Senior Procurement Executive.
+(l) *Indemnification.* Except for Price-Anderson Nuclear Hazards Indemnity, no subcontractor may be indemnified except with the prior approval of the Head of the Contracting Activity, in consultation with local legal counsel.
 
 (m) *Leasing of motor vehicles.* Contractors shall comply with 48 CFR subpart 8.11 and 48 CFR subpart 908.11.
 
@@ -106,22 +104,36 @@ Contractor Purchasing System (AUG 2016)
 
 (v) *Termination.* When subcontracts are terminated as a result of the termination of all or a portion of this contract, the Contractor shall settle with subcontractors in conformity with the policies and principles relating to settlement of prime contracts in 48 CFR subparts 49.1, 49.2 and 49.3. When subcontracts are terminated for reasons other than termination of this contract, the Contractor shall settle such subcontracts in general conformity with the policies and principles in 48 CFR subparts 49.1, 49.2, 49.3 and 49.4. Each such termination shall be documented and consistent with the terms of this contract. Terminations which require approval by the Government shall be supported by accounting data and other information as may be directed by the Contracting Officer.
 
-(w) *Unclassified controlled nuclear information.* Subcontracts involving unclassified uncontrolled nuclear information shall be treated in accordance with 10 CFR part 1017.
+(w) *Unclassified controlled nuclear information.* Subcontracts involving unclassified controlled nuclear information shall be treated in accordance with 10 CFR part 1017.
 
 (x) *Subcontract flowdown requirements.* In addition to terms and conditions that are included in the prime contract which direct application of such terms and conditions in appropriate subcontracts, the Contractor shall include the following clauses in subcontracts, as applicable:
 
-(1) Davis-Bacon clauses prescribed in 48 CFR 22.407.
+(1) Construction Wage Rate requirements, formerly known as Davis-Bacon, clauses prescribed in 48 CFR 22.407.
 
 (2) Foreign Travel clause prescribed in 48 CFR 952.247-70.
 
-(3) Counterintelligence clause prescribed in 48 CFR 970.0404-4(a).
+(3) Counterintelligence clause prescribed in 48 CFR 904.404(d)(7).
 
-(4) Service Contract Act clauses prescribed in 48 CFR 22.1006.
+(4) Service Contract Labor Standards, formerly known as Service Contract Act, clauses prescribed in 48 CFR 22.1006.
 
 (5) State and local taxes clause prescribed in 48 CFR 970.2904-1.
 
-(6) Cost or pricing data clauses prescribed in 48 CFR 970.1504-3-1(b).
+(6) Cost or pricing data clauses prescribed in 48 CFR 970.1504-201.
+
+(7) Workforce Restructuring and Displaced Employee Hiring Preference clause prescribed in 48 CFR 970.2672-3.
+
+(8) Service Contract Reporting clause prescribed in 48 CFR 4.1705.
+
+(9) Contract Work Hours and Safety Standards—Overtime Compensation as prescribed in 48 CFR 22.305.
+
+(10) Paid Sick leave under Executive Order 13706 as prescribed in 48 CFR 22.2110.
+
+(11) Collective Bargaining Agreements Management and Operating Contracts as prescribed in 48 CFR 970.2201-130.
+
+(12) Workplace Substance Abuse Programs at DOE Sites as prescribed in 48 CFR 970.2605-4.
+
+(13) Contracts for Materials, Supplies, Articles, and Equipment clause prescribed in 48 CFR 22.610.
 
 (y) *Legal services.* Contractor purchases of litigation and other legal services are subject to the requirements in 10 CFR part 719 and the requirements of this clause.
 
-(End of clause)[74 FR 36375, July 22, 2009, as amended at 77 FR 74389, Dec. 14, 2012; 81 FR 45978, July 15, 2016]
+(End of clause)[74 FR 36375, July 22, 2009, as amended at 77 FR 74389, Dec. 14, 2012; 81 FR 45978, July 15, 2016; 89 FR 89827, Nov. 13, 2024]

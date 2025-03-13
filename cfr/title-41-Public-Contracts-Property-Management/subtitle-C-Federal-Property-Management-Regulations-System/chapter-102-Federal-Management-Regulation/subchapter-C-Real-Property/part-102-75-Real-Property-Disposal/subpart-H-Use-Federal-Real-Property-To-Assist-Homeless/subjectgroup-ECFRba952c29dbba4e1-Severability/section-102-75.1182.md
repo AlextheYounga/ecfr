@@ -1,0 +1,3 @@
+##### § 102-75.1182 Are the provisions of this subpart severable? #####
+
+Any provision of this subpart held to be invalid or unenforceable with respect to certain parties or circumstances shall be construed so as to continue to give the maximum effect to the provision permitted by law unless such holding is that the provision of this subpart is invalid and unenforceable in all circumstances, in which event the provision shall be severable from the remainder of this subpart and shall not affect the remainder thereof.

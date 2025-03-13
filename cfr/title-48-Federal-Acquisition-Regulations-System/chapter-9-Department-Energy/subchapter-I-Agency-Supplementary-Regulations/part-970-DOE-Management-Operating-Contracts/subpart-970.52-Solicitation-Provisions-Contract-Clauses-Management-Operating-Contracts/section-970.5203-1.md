@@ -1,8 +1,6 @@
 ##### 970.5203-1 Management controls. #####
 
-Link to an amendment published at 89 FR 89789, Nov. 13, 2024.
-
-As prescribed in 970.0370-2(a) and 970.3270(a)(4), insert the following clause:
+As prescribed in 970.0370-2(a), insert the following clause:
 
 Management Controls (JUN 2007)
 
@@ -16,4 +14,4 @@ Management Controls (JUN 2007)
 
 (b) The Contractor shall be responsible for maintaining, as a part of its operational responsibilities, a baseline quality assurance program that implements documented performance, quality standards, and control and assessment techniques.
 
-(End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 71 FR 16243, Mar. 31, 2006; 72 FR 29081, May 24, 2007; 72 FR 39761, July 20, 2007; 74 FR 36374, 36378, 36380, July 22, 2009]
+(End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 71 FR 16243, Mar. 31, 2006; 72 FR 29081, May 24, 2007; 72 FR 39761, July 20, 2007; 74 FR 36374, 36378, 36380, July 22, 2009; 89 FR 89789, Nov. 13, 2024]

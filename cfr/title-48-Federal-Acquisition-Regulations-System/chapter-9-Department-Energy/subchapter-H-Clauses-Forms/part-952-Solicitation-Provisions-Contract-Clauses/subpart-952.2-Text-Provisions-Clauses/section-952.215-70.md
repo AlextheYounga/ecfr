@@ -1,13 +1,17 @@
-##### 952.215-70 Key Personnel. #####
-
-Link to an amendment published at 89 FR 89765, Nov. 13, 2024.
+##### 952.215-70 Key personnel. #####
 
 As prescribed in 915.408-70, the contracting officer shall insert the following clause:
 
-Key Personnel (DEC 2000)
+Key Personnel [December 2024]
 
-(a) The personnel listed below or elsewhere in this contract [Insert cross-reference, if applicable] are considered essential to the work being performed under this contract. Before removing, replacing, or diverting any of the listed or specified personnel, the Contractor must: (1) Notify the Contracting Officer reasonably in advance; (2) submit justification (including proposed substitutions) in sufficient detail to permit evaluation of the impact on this contract; and (3) obtain the Contracting Officer's written approval. Notwithstanding the foregoing, if the Contractor deems immediate removal or suspension of any member of its management team is necessary to fulfill its obligation to maintain satisfactory standards of employee competency, conduct, and integrity under the clause at 48 CFR 970.5203-3, Contractor's Organization, the Contractor may remove or suspend such person at once, although the Contractor must notify Contracting Officer prior to or concurrently with such action.
+(a) The personnel listed below or elsewhere in this contract [Insert cross-reference, if applicable] are considered essential to the work being performed under this contract. Before removing, replacing, or diverting any of the listed or specified personnel, the Contractor must:
 
-(b) The list of personnel may, with the consent of the contracting parties, be amended from time to time during the course of the contract to add or delete personnel.
+(1) Notify the Contracting Officer reasonably in advance and submit justification including resumes for any proposed substitutions; and
 
-[Insert List of Key Personnel unless listed elsewhere in the contract](End of clause)[65 FR 81008, Dec. 22, 2000, as amended at 74 FR 36369, July 22, 2009; 76 FR 7694, Feb. 11, 2011]
+(2) Obtain the Contracting Officer's written approval. Notwithstanding the foregoing, the Contractor may immediately remove or suspend any key person if necessary to maintain satisfactory standards of employee competency, conduct, and integrity under the clause at 48 CFR 970.5203-3, Contractor's Organization, although the Contractor must notify Contracting Officer prior to or concurrently with such action.
+
+(b) The list of personnel may, with the consent of the contracting parties, be amended from time to time during the course of the contract to add or delete personnel. The Contractor must provide written notice to the cognizant security office if changes to the list of personnel affect key personnel connected to a facility clearance.
+
+[*Insert List of Key Personnel by position/title, reflecting the actual position title of the top-level key personnel, such as Program Manager, Laboratory Director, Project Manager, etc. unless listed elsewhere in the contract*]
+
+(End of clause)[89 FR 89765, Nov. 13, 2024]

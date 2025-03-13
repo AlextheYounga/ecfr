@@ -1,5 +1,7 @@
 ##### § 303.6 Enforcement of support obligations. #####
 
+Link to an amendment published at 89 FR 100808, Dec. 13, 2024.
+
 For all cases referred to the IV-D agency or applying for services under § 302.33 in which the obligation to support and the amount of the obligation have been established, the IV-D agency must maintain and use an effective system for:
 
 (a) Monitoring compliance with the support obligation;

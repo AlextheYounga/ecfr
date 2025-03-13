@@ -1,5 +1,7 @@
 ##### § 309.65 What must a Tribe or Tribal organization include in a Tribal IV-D plan in order to demonstrate capacity to operate a Tribal IV-D program? #####
 
+Link to an amendment published at 89 FR 100809, Dec. 13, 2024.
+
 (a) A Tribe or Tribal organization demonstrates capacity to operate a Tribal IV-D program meeting the objectives of title IV-D of the Act and these regulations by submission of a Tribal IV-D plan which contains the required elements listed in paragraphs (a)(1) through (14) of this section:
 
 (1) A description of the population subject to the jurisdiction of the Tribal court or administrative agency for child support purposes as specified under § 309.70;

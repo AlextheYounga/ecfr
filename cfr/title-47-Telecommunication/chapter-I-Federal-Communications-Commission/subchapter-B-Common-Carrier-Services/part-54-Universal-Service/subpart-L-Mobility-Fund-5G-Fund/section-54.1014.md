@@ -1,5 +1,7 @@
 ##### § 54.1014 Application process. #####
 
+Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
+
 (a) *Application to participate in competitive bidding for 5G Fund support.* In addition to providing the information specified in § 1.21001(b) of this chapter and any other information required by the Commission, an applicant to participate in competitive bidding for 5G Fund support shall:
 
 (1) Certify that the applicant is financially and technically capable of meeting the public interest obligations and performance requirements in § 54.1015 in each area for which it seeks support;

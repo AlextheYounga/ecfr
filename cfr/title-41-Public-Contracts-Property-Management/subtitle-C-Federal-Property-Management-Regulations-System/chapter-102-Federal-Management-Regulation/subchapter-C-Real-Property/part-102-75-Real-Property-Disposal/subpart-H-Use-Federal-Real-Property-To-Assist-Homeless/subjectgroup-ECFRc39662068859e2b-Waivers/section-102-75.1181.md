@@ -1,0 +1,3 @@
+##### § 102-75.1181 May any requirement of this subpart be waived?? #####
+
+The Secretary of HUD may waive any requirement of this subpart (over which the Secretary of HUD has jurisdiction) that is not required by law, whenever it is determined that undue hardship would result from applying the requirement, or where application of the requirement would adversely affect the purposes of the program. Each waiver will be in writing and will be supported by documentation of the pertinent facts and grounds. The Secretary periodically will publish notice of granted waivers on the HUD website.

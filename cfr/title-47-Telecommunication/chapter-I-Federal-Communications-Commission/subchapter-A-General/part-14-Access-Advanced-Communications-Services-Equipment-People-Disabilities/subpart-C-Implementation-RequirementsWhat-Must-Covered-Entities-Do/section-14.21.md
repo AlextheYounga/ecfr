@@ -1,5 +1,7 @@
 ##### § 14.21 Performance Objectives. #####
 
+Link to an amendment published at 89 FR 100896, Dec. 13, 2024.
+
 (a) *Generally.* Manufacturers and service providers shall ensure that equipment and services covered by this part are accessible, usable, and compatible as those terms are defined in paragraphs (b) through (d) of this section.
 
 (b) *Accessible.* The term accessible shall mean that:

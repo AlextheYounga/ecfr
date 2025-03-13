@@ -1,7 +1,5 @@
 ##### 970.3501-2 Using an FFRDC. #####
 
-Link to an amendment published at 89 FR 89788, Nov. 13, 2024.
+The contractor may only accept work from a non-sponsor (as defined in FAR 35.017) in accordance with the requirements of the current DOE approved mechanisms for engaging with a non-sponsor (*e.g.,* Strategic Partnership Projects, Cooperative Research and Development Agreements, and Agreements for Commercializing Technology). Only a Federal Contracting Officer can obligate the Government to place work on the contract and obligate the Government to reimburse the contractor under the contract.
 
-The contractor may only accept work from a non-sponsor (as defined in 48 CFR 35.017) in accordance with the requirements of DOE Order 481.1C, Strategic Partnership Projects (Formerly Known as Work for Others (Non-Department of Energy Funded Work)), or successor version.
-
-[65 FR 81009, Dec. 22, 2000, as amended at 74 FR 36373, July 22, 2009; 80 FR 15519, Mar. 24, 2015]
+[89 FR 89788, Nov. 13, 2024]

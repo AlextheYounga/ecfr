@@ -1,5 +1,7 @@
 ##### § 966.8 Providing opportunity to receive emergency rent relief. #####
 
+Link to an amendment published at 89 FR 101304, Dec. 13, 2024.
+
 (a) If the Secretary determines that tenants must be provided with adequate notice to secure Federal funding that is available due to a Presidential declaration of a national emergency:
 
 (1) The notice of lease termination required in § 966.4(l)(3) for failure to pay rent must provide such information as required by the Secretary; and

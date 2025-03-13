@@ -1,6 +1,6 @@
 ##### § 2.106 Table of Frequency Allocations. #####
 
-Link to an amendment published at 89 FR 96601, Dec. 5, 2024.
+Link to an amendment published at 89 FR 96601, Dec. 5, 2024.Link to an amendment published at 89 FR 100865, Dec. 13, 2024.
 
 (a) *Allocation Table.* The Table of Frequency Allocations (Allocation Table) consists of the International Table of Frequency Allocations (International Table), the United States Table of Frequency Allocations (United States Table), and the FCC rule part(s) cross references as described in §§ 2.104 and 2.105, respectively. The International Telecommunication Union (ITU) Radio Regulations are described in § 2.100. The definitions of terms and acronyms used in the Allocation Table are specified in § 2.1. The footnotes to the Allocation Table are listed in ascending numerical order in paragraphs (b) through (e) of this section; however, in some cases, a letter(s) has/have been appended to the digit(s) of a footnote number in order to preserve the sequential order.
 

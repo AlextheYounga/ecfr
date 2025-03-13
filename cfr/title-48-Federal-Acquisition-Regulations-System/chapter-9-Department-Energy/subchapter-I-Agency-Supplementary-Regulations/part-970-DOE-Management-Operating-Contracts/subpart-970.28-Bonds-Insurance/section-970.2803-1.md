@@ -1,6 +1,4 @@
-##### 970.2803-1 Workers' Compensation Insurance. #####
-
-Link to an amendment published at 89 FR 89787, Nov. 13, 2024.
+##### 970.2803-1 Workers' compensation insurance. #####
 
 (a) *Policies and requirements.* (1) Workers' compensation insurance protects employers against liability imposed by workers' compensation laws for injury or death to employees arising out of, or in the course of, their employment. This type of insurance is required by state laws unless employers have acceptable programs of self-insurance.
 
@@ -16,18 +14,16 @@ Link to an amendment published at 89 FR 89787, Nov. 13, 2024.
 
 (3) *Contractor “employees' benefit plan”*—*self-insurers.* The policies and requirements set forth in paragraph (a)(2) of this section apply where management and operating contractors purchase workers' compensation insurance. With respect to self-insured contractors, the objectives specified in paragraph (a)(2) also shall be met through primary or excess workers' compensation and employers' liability insurance policy(ies) or an approved combination thereof. “Employees” benefit plans” which were established in prior years may be continued to contrast termination at existing benefit levels.
 
-(b) *Assignment of responsibilities.* (1) Office of Resource Management, within the Headquarters procurement organization, other officials, and the Heads of Contracting Activities, consistent with their delegations of responsibility, shall assure management and operating contracts are consistent with the policies and requirements of paragraph (a) of this section.
+(b) *Assignment of responsibilities.* (1) Office of Acquisition Management, other officials, and the Heads of Contracting Activities, consistent with their delegations of responsibility, shall assure management and operating contracts are consistent with the policies and requirements of paragraph (a) of this section.
 
 (2) In discharging assigned responsibility, the Heads of Contracting Activities shall—
 
-(i) Periodically review workers' compensation insurance programs of management and operating contractors in the light of applicable workers' compensation statutes to assure conformance with the requirements of paragraph (a) of this section.
+(i) Periodically review workers' compensation insurance programs of management and operating contractors in the light of applicable workers' compensation statutes to assure conformance with the requirements of paragraph (a) of this section;
 
-(ii) Evaluate the adequacy of coverage of “self-insured” workers” compensation programs;
+(ii) Evaluate the adequacy of coverage of “self-insured” workers” compensation programs; and
 
-(iii) Provide arrangements for the administration of any existing “employees” benefit plans until such plans” are terminated; and
+(iii) Provide arrangements for the administration of any existing “employees” benefit plans until such plans” are terminated.
 
-(iv) Submit to the Office of Resource Management, within the Headquarters procurement organization, all proposals for the modification of existing “employees' benefit plans.”
+(3) Heads of Contracting Activities are responsible for approving management and operating contractor “employees' benefit plans.”
 
-(3) The Office of Resource Management, within the Headquarters procurement organization, is responsible for approving management and operating contractor “employees' benefit plans.”
-
-[65 FR 81009, Dec. 22, 2000, as amended at 74 FR 36372, July 22, 2009]
+[65 FR 81009, Dec. 22, 2000, as amended at 74 FR 36372, July 22, 2009; 89 FR 89787, Nov. 13, 2024]

@@ -1,0 +1,5 @@
+##### 901.301-70 Other issuances related to acquisition. #####
+
+In addition to the FAR and DEAR, there are other issuances which deal with acquisition. Among these are the Federal Property Management Regulation (41 CFR chapter 101), the Federal Management Regulation (41 CFR chapter 102), the DOE Property Management Regulation (41 CFR chapter 109), and DOE Directives. The Department also maintains the DOE Acquisition Guide (“the Guide”), which has procedural guidance for the acquisition community. The DOE Acquisition Guide serves this purpose by identifying relevant internal standard operating procedures to be followed by both procurement and program personnel who are involved in various aspects of the acquisition process. The Guide also is intended to be a repository of best practices found throughout the agency that reflect specific illustrations of techniques which might be helpful to all readers. The Guide is at *https://www.energy.gov/management/articles/department-energy-acquisition-guide*.
+
+[89 FR 89746, Nov. 13, 2024]

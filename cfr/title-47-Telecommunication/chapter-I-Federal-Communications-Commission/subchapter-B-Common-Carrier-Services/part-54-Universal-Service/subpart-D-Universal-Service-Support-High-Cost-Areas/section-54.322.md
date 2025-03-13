@@ -1,5 +1,7 @@
 ##### § 54.322 Public interest obligations and performance requirements, reporting requirements, and non-compliance mechanisms for mobile legacy high-cost support recipients. #####
 
+Link to an amendment published at 89 FR 101397, Dec. 13, 2024.
+
 (a) *General.* A mobile competitive eligible telecommunications carrier that receives monthly support pursuant to § 54.307(e)(5)(ii), (e)(5)(iii), (e)(6)(iii), or (e)(7)(iii) shall deploy voice and broadband data services that meet at least the 5G-NR (New Radio) technology standards developed by the 3rd Generation Partnership Project with Release 15, or any successor release that may be adopted by the Office of Economics and Analytics and the Wireline Competition Bureau after notice and comment.
 
 (b) *Service milestones and deadlines.* A mobile competitive eligible telecommunications carrier that receives monthly support pursuant to § 54.307(e)(5)(ii), (e)(5)(iii), (e)(6)(iii), or (e)(7)(iii) shall deploy 5G service that meets the performance requirements specified in paragraph (d) of this section to a percentage of the service areas for which the carrier receives monthly support and on a schedule as specified and adopted by the Office of Economics and Analytics and Wireline Competition Bureau after notice and comment.

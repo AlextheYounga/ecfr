@@ -1,5 +1,7 @@
 ##### § 90.20 Public Safety Pool. #####
 
+                                                                                                                                                                                                                                                                                                                                                                    Link to an amendment published at 89 FR 100851, Dec. 13, 2024.
+
                                                                                                                                                                                                                                                                                                                                                                     (a) *Eligibility.* The following are eligible to hold authorizations in the Public Safety Pool.
 
                                                                                                                                                                                                                                                                                                                                                                     (1) Any territory, possession, state, city, county, town or similar governmental entity is eligible to hold authorizations in the Public Safety Pool to operate radio stations for transmission of communications essential to official activities of the licensee, including:

@@ -1,12 +1,10 @@
 ##### 931.205-47 Costs related to legal and other proceedings. #####
 
-Link to an amendment published at 89 FR 89758, Nov. 13, 2024.
-
 (h) *Costs associated with whistleblower actions.* (1) Definitions for purposes of this paragraph (h):
 
 *Covered contractors and subcontractors* means those contractors and subcontractors with contracts exceeding $5,000,000.
 
-*Employee whistleblower action* means any action filed by an employee in Federal or state court for redress of a retaliatory act by a contractor and any administrative procedure initiated by an employee under 29 CFR part 24, 48 CFR subpart 3.9, 10 CFR part 708 or 42 U.S.C. 7239.
+*Employee whistleblower action* means any action filed by an employee in Federal or state court for redress of a retaliatory act by a contractor and any administrative procedure initiated by an employee under 29 CFR part 24, 48 CFR subpart 3.9, 10 CFR part 708 or 50 U.S.C. 2702.
 
 *Retaliatory act* means a discharge, demotion, reduction in pay, coercion, restraint, threat, intimidation or other similar negative action taken against an employee by a contractor as a result of an employee's activity protected as a whistleblower activity by a Federal or state statute or regulation.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 89 FR 89758, Nov. 13, 2024.
 
 (5) Contractor defense, settlement and award costs incurred in connection with the defense of suits brought by employees under section 2 of the Major Fraud Act of 1988 are excluded from coverage of this section.
 
-[65 FR 62301, Oct. 18, 2000, as amended at 74 FR 36366, July 22, 2009; 75 FR 29459, May 26, 2010]
+[65 FR 62301, Oct. 18, 2000, as amended at 74 FR 36366, July 22, 2009; 75 FR 29459, May 26, 2010; 89 FR 89758, Nov. 13, 2024]

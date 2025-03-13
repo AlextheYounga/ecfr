@@ -1,7 +1,5 @@
 ##### 945.570-1 Acquisition of motor vehicles. #####
 
-Link to an amendment published at 89 FR 89760, Nov. 13, 2024.
-
 (a) GSA Interagency Fleet Management System (GSA-IFMS) is the first source of supply for providing motor vehicles to contractors; however, contracting officer approval is required for contractors to utilize this service.
 
 (b) Prior approval of GSA must be obtained before—
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 89760, Nov. 13, 2024.
 
 (f) Cost reimbursement contractors may be authorized by the contracting officer to utilize GSA Federal Supply Schedule 751, Leasing of Automobiles and Light Trucks, for short term rentals not to exceed 60 days, and are required to utilize available GSA consolidated leasing programs for long term (60 continuous days or longer) commercial leasing of passenger vehicles and light trucks.
 
-(g) The Personal Property Policy Division, within the Headquarters procurement organization shall certify all requisitions prior to submittal to GSA for the following:
+(g) The Office of Asset Management, within the Headquarters procurement organization shall certify all requisitions prior to submittal to GSA for the following:
 
 (1) The acquisition of sedans and station wagons.
 
@@ -31,3 +29,5 @@ Link to an amendment published at 89 FR 89760, Nov. 13, 2024.
 (h) Purchase requisitions for other motor vehicles may be submitted directly to GSA when approved by the contracting officer.
 
 (i) Contractors shall thoroughly examine motor vehicles acquired under a GSA contract for defects. Any defect shall be reported promptly to GSA, and repairs shall be made under terms of the warranty.
+
+[77 FR 74387, Dec. 14, 2012, as amended at 89 FR 89760, Nov. 13, 2024]

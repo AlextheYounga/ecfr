@@ -1,30 +1,38 @@
 ##### 970.5227-1 Rights in data-facilities. #####
 
-Link to an amendment published at 89 FR 89799, Nov. 13, 2024.
-
 As prescribed in 48 CFR 970.2704-3(a), insert the following clause:
 
-Rights in Data—Facilities (DEC 2000)
+Rights in Data—Facilities (DEC 2024)
 
-(a) *Definitions.* (1) *Computer data bases,* as used in this clause, means a collection of data in a form capable of, and for the purpose of, being stored in, processed, and operated on by a computer. The term does not include computer software.
+(a) *Definitions*—*Assistant General Counsel for Technology Transfer and Intellectual Property* is the senior intellectual property counsel for the Department of Energy, as distinguished from the NNSA Patent Counsel, and, where used in this clause, indicates that the authority for the activity(ies) being described belongs to DOE.
 
-(2) *Computer software,* as used in this clause, means (i) computer programs which are data comprising a series of instructions, rules, routines, or statements, regardless of the media in which recorded, that allow or cause a computer to perform a specific operation or series of operations and (ii) data comprising source code listings, design details, algorithms, processes, flow charts, formulae, and related material that would enable the computer program to be produced, created, or compiled. The term does not include computer data bases.
+*Computer data bases,* as used in this clause, means a collection of data in a form capable of, and for the purpose of, being stored in, processed, and operated on by a computer. The term does not include computer software.
 
-(3) *Data,* as used in this clause, means recorded information, regardless of form or the media on which it may be recorded. The term includes technical data and computer software. The term “data” does not include data incidental to the administration of this contract, such as financial, administrative, cost and pricing, or management information.
+*Computer software,* as used in this clause, means:
 
-(4) *Limited rights data,* as used in this clause, means data, other than computer software, developed at private expense that embody trade secrets or are commercial or financial and confidential or privileged. The Government's rights to use, duplicate, or disclose limited rights data are as set forth in the Limited Rights Notice of subparagraph (e) of this clause.
+(1) Computer programs which are data comprising a series of instructions, rules, routines, or statements, regardless of the media in which recorded, that allow or cause a computer to perform a specific operation or series of operations; and
 
-(5) *Restricted computer software,* as used in this clause, means computer software developed at private expense and that is a trade secret; is commercial or financial and is confidential or privileged; or is published copyrighted computer software, including minor modifications of any such computer software. The Government's rights to use, duplicate, or disclose restricted computer software are as set forth in the Restricted Rights Notice of paragraph (f) of this clause.
+(2) Data comprising source code listings, design details, algorithms, processes, flow charts, formulae, and related material that would enable the computer program to be produced, created, or compiled. The term does not include computer data bases.
 
-(6) *Technical data,* as used in this clause, means recorded data, regardless of form or characteristic, that are of a scientific or technical nature. Technical data does not include computer software, but does include manuals and instructional materials and technical data formatted as a computer data base.
+*Data,* as used in this clause, means recorded information, regardless of form or the media on which it may be recorded. The term includes technical data and computer software. The term “data” does not include data incidental to the administration of this contract, such as financial, administrative, cost and pricing, or management information.
 
-(7) *Unlimited rights,* as used in this clause, means the right of the Government to use, disclose, reproduce, prepare derivative works, distribute copies to the public, including by electronic means, and perform publicly and display publicly, in any manner, including by electronic means, and for any purpose whatsoever, and to have or permit others to do so.
+*Department of Energy (DOE),* as used in this clause, includes the National Nuclear Security Administration (NNSA), unless otherwise identified or indicated.
 
-(b) *Allocation of Rights.* (1) The Government shall have:
+*Limited rights data,* as used in this clause, means data, other than computer software, developed at private expense that embody trade secrets or are commercial or financial and confidential or privileged. The Government's rights to use, duplicate, or disclose limited rights data are as set forth in the Limited Rights Notice of paragraph (e) of this clause.
+
+*Patent Counsel* means the DOE or NNSA Patent Counsel assisting the contracting activity.
+
+*Restricted computer software,* as used in this clause, means computer software developed at private expense and that is a trade secret; is commercial or financial and is confidential or privileged; or is published copyrighted computer software, including minor modifications of any such computer software. The Government's rights to use, duplicate, or disclose restricted computer software are as set forth in the Restricted Rights Notice of paragraph (f) of this clause.
+
+*Technical data,* as used in this clause, means recorded data, regardless of form or characteristic, that are of a scientific or technical nature. Technical data does not include computer software, but does include manuals and instructional materials and technical data formatted as a computer data base.
+
+*Unlimited rights,* as used in this clause, means the right of the Government to use, disclose, reproduce, prepare derivative works, distribute copies to the public, including by electronic means, and perform publicly and display publicly, in any manner, including by electronic means, and for any purpose whatsoever, and to have or permit others to do so.
+
+(b) *Allocation of Rights.* (1) Except as may be otherwise expressly provided or directed in writing by the Patent Counsel, the Government shall have:
 
 (i) Ownership of all technical data and computer software first produced in the performance of this Contract;
 
-(ii) Unlimited rights in technical data and computer software specifically used in the performance of this Contract, except as provided herein regarding copyright, limited rights data, or restricted computer software, or except for other data specifically protected by statute for a period of time or, where, approved by DOE, appropriate instances of the DOE Strategic Partnership Projects Program;
+(ii) Unlimited rights in technical data and computer software specifically used in the performance of this Contract, except as provided herein regarding copyright, limited rights data, or restricted computer software, or except for other data specifically protected by statute for a period of time or, where, approved by Patent Counsel;
 
 (iii) The right to inspect technical data and computer software first produced or specifically used in the performance of this Contract at all reasonable times. The Contractor shall make available all necessary facilities to allow DOE personnel to perform such inspection;
 
@@ -40,11 +48,15 @@ Rights in Data—Facilities (DEC 2000)
 
 (3) The Contractor agrees that for limited rights data or restricted computer software or other technical, business or financial data in the form of recorded information which it receives from, or is given access to by, DOE or a third party, including a DOE Contractor or subcontractor, and for technical data or computer software it first produces under this Contract which is authorized to be marked by DOE, the Contractor shall treat such data in accordance with any restrictive legend contained thereon.
 
+(4) In the performance of DOE contracted obligations, each contractor is required to manage scientific and technical information (STI) produced under the contract as a direct and integral part of the work and ensure its broad availability to all customer segments by making STI available to DOE's central STI coordinating office, the Office of Scientific and Technical Information (OSTI). Requirements for all such reportable information to OSTI are in DOE Order 241.1, or successor version, whether it is publicly releasable, controlled unclassified information, or classified.
+
 (c) *Copyrighted Material.* (1) The Contractor shall not, without prior written authorization of the Patent Counsel, assert copyright in any technical data or computer software first produced in the performance of this contract. To the extent such authorization is granted, the Government reserves for itself and others acting on its behalf, a nonexclusive, paid-up, irrevocable, world-wide license for Governmental purposes to publish, distribute, translate, duplicate, exhibit, and perform any such data copyrighted by the Contractor.
 
 (2) The Contractor agrees not to include in the technical data or computer software delivered under the contract any material copyrighted by the Contractor and not to knowingly include any material copyrighted by others without first granting or obtaining at no cost a license therein for the benefit of the Government of the same scope as set forth in paragraph (c)(1) of this clause. If the Contractor believes that such copyrighted material for which the license cannot be obtained must be included in the technical data or computer software to be delivered, rather than merely incorporated therein by reference, the Contractor shall obtain the written authorization of the contracting officer to include such material in the technical data or computer software prior to its delivery.
 
-(d) *Subcontracting.* (1) Unless otherwise directed by the contracting officer, the Contractor agrees to use in subcontracts in which technical data or computer software is expected to be produced or in subcontracts for supplies that contain a requirement for production or delivery of data in accordance with the policy and procedures of 48 CFR Subpart 27.4 as supplemented by 48 CFR 927.401 through 927.409, the clause entitled, “Rights in Data-General” at 48 CFR 52.227-14 modified in accordance with 927.409(a) and including Alternate V. Alternates II through IV of that clause may be included as appropriate with the prior approval of DOE Patent Counsel, and the Contractor shall not acquire rights in a subcontractor's limited rights data or restricted computer software, except through the use of Alternates II or III, respectively, without the prior approval of DOE Patent Counsel. The clause at 48 CFR 52.227-16, Additional Data Requirements, shall be included in subcontracts in accordance with DEAR 927.409(h). The contractor shall use instead the Rights in Data-Facilities clause at 48 CFR 970.5227-1 in subcontracts, including subcontracts for related support services, involving the design or operation of any plants or facilities or specially designed equipment for such plants or facilities that are managed or operated under its contract with DOE.
+(3) If the Contractor has not been granted permission to copyright technical data or computer software first produced under the contract, and if the Government desires to obtain copyright in such data and computer software, the Patent Counsel may direct the Contractor to establish claim to copyright in such data or computer software and to assign such copyright to the Government or its designated assignee.
+
+(d) *Subcontracting.* (1) Unless otherwise directed by the contracting officer, the Contractor agrees to use in subcontracts in which technical data or computer software is expected to be produced or in subcontracts for supplies that contain a requirement for production or delivery of data in accordance with the policy and procedures the clause entitled, “Rights in Data-General” at 48 CFR 52.227-14 modified in accordance with 48 CFR 927.409 including alternates as appropriate with the prior approval of DOE Patent Counsel, and the Contractor shall not acquire rights in a subcontractor's limited rights data or restricted computer software, except through the use of Alternate II or III, respectively, without the prior approval of DOE Patent Counsel. The clause at 48 CFR 52.227-16, Additional Data Requirements, shall be included in subcontracts in accordance with 48 CFR 927.409(d). In subcontracts, including subcontracts for related support services, involving the design or operation of any plants or facilities or specially designed equipment for such plants or facilities that are managed or operated under its contract with DOE, the Contractor shall use the “rights in Data-Facilities” clause at 48 CFR 970.5227-1.
 
 (2) It is the responsibility of the Contractor to obtain from its subcontractors technical data and computer software and rights therein, on behalf of the Government, necessary to fulfill the Contractor's obligations to the Government with respect to such data. In the event of refusal by a subcontractor to accept a clause affording the Government such rights, the Contractor shall:
 
@@ -114,4 +126,8 @@ Use, reproduction, or disclosure is subject to restrictions set forth in the Lon
 
 *Alternate I* (DEC 2000). As prescribed in 48 CFR 970.2704-3(a), where access to Category C-24 restricted data is contemplated in the performance of a contract the contracting officer shall insert the phrase “and except Restricted Data in category C-24, 10 CFR part 725, in which DOE has reserved the right to receive reasonable compensation for the use of its inventions and discoveries, including related data and technology” after “laser isotope separation” and before the comma in paragraph (b)(2)(ii) of the clause at 48 CFR 970.5227-1, Rights in Data—Facilities, as appropriate.
 
-(End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 80 FR 15519, Mar. 24, 2015]
+*Alternate II* (DEC 2024). As prescribed in 970.2704-3(a), where Government facilities are being constructed, modified, or in decontamination and decommissioning, and it is anticipated that further solicitation may be required to complete the project, insert paragraph (f) in the Limited Rights Notice required by paragraph (e) of the basic clause:
+
+(f) This “limited rights data” may be disclosed in future solicitations for the continuation or completion of the work contemplated under this contract under the restriction that the “limited rights data” be retained in confidence and not be further disclosed.
+
+(End of alternate)(End of Alternate)[65 FR 81009, Dec. 22, 2000, as amended at 80 FR 15519, Mar. 24, 2015; 89 FR 89799, Nov. 13, 2024]

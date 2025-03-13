@@ -1,0 +1,5 @@
+##### 927.202 Royalties. #####
+
+The clause at 952.227-9, Refund of Royalties, obligates the contractor to inform DOE of the payment of royalties pertaining to the use of intellectual property, either patent or data related, in the performance of the contract. This information may result in identification of instances in which the Government already has a license for itself or others acting in its behalf or the right to sublicense others. Also, there may be pending antitrust actions or challenges to the validity of a patent or the proprietary nature of the data, or the contractor may be able to gain unrestricted access to the same data through other sources. In such situations the contractor may avoid the payment of a royalty in its entirety or may be charged a reduced royalty.
+
+[60 FR 11815, Mar. 2, 1995., Redesignated at 89 FR 89754, Nov. 13, 2024]

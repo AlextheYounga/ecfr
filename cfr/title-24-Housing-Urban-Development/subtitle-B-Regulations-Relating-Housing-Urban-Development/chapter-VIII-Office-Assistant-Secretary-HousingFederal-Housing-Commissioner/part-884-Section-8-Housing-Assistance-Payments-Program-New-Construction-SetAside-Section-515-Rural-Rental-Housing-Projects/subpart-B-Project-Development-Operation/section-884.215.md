@@ -1,5 +1,7 @@
 ##### § 884.215 Lease requirements. #####
 
+Link to an amendment published at 89 FR 101303, Dec. 13, 2024.
+
 The Lease shall contain all required provisions specified in paragraph (b) of this section and none of the prohibited provisions listed in paragraph (c) of this section.
 
 (a) *Term of lease.* The term of the Lease shall be for not less than one year. The Lease may (or, in the case of a Lease for a term of more than one year, shall) contain a provision permitting termination upon 30 days advance written notice by either party.

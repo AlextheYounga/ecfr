@@ -1,5 +1,7 @@
 ##### § 401.405 Pilotage rates and charges. #####
 
+Link to an amendment published at 89 FR 100838, Dec. 13, 2024.
+
 (a) The hourly rate for pilotage service on—
 
 (1) The St. Lawrence River is $927;

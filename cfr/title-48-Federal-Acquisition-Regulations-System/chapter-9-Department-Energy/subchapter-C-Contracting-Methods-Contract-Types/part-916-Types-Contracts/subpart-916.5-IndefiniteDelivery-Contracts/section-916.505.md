@@ -1,8 +1,6 @@
 ##### 916.505 Ordering. #####
 
-Link to an amendment published at 89 FR 89750, Nov. 13, 2024.
-
-(b)(6)(i) The Director, Office of Contract Management, Office of Procurement and Assistance Management, is designated as the DOE Ombudsman for task and delivery order contracts in accordance with 48 CFR 16.505(b)(6).
+(b)(8)(i) The Director, Office of Contract Management, Office of Acquisition Management, is designated as the DOE Ombudsman for task and delivery order contracts in accordance with FAR 16.505(b)(8).
 
 (ii) The Heads of Contracting Activities shall designate a senior manager to serve as the Contracting Activity Ombudsman for task and delivery order contracts. If, for any reason, the Contracting Activity Ombudsman is unable to execute the duties of the position, the Head of the Contracting Activity shall designate an Acting Contracting Activity Ombudsman.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 89 FR 89750, Nov. 13, 2024.
 
 (iv) If, upon review of all relevant information, the Contracting Activity Ombudsman determines that corrective action should be taken, the Contracting Activity Ombudsman shall report the determination to the cognizant contracting officer. Issues which cannot be so resolved should be forwarded to the DOE Ombudsman.
 
-[74 FR 36364, July 22, 2009, as amended at 81 FR 45977, July 15, 2016]
+[74 FR 36364, July 22, 2009, as amended at 81 FR 45977, July 15, 2016; 89 FR 89750, Nov. 13, 2024]

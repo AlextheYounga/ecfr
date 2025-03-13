@@ -1,21 +1,23 @@
-##### § 12a.10 Action on approved applications. #####
+##### § 12a.10 Utilization and enforcement. #####
 
-(a) *Unutilized and underutilized properties.* (1) When HHS approves an application, it will so notify the applicant and forward a copy of the application to the landholding agency. The landholding agency will execute the lease, or permit document, as appropriate, in consultation with the applicant.
+(a) *Sanctions.* For instances of noncompliance relating to surplus property transfers, HHS may impose, after providing an opportunity to cure to the transferee, any or all of the following sanctions in its sole discretion, as applicable:
 
-(2) The landholding agency maintains the discretion to decide the following:
+(1) Where property or any portion thereof was not used or is not being used for the purposes for which transferred, or is sold, leased or subleased, encumbered, disposed of, or used for purposes other than those in the approved program and plan of use, without the prior written consent of HHS, HHS may require the transferee to—
 
-(i) The length of time the property will be available. (Leases and permits will be for a period of at least one year unless the applicant requests a shorter term.)
+(i) Place the property into immediate use for an approved purpose and extend the period of restriction in the transfer document for an additional term as determined by HHS;
 
-(ii) Whether to grant use of the property via a lease or permit;
+(ii) Hold in trust all revenues and the reasonable value of other benefits received by the transferee directly or indirectly from that use for the United States subject to the direction and control of HHS;
 
-(iii) The terms and conditions of the lease or permit document.
+(iii) Return title to such property to the United States or to relinquish any leasehold interest therein;
 
-(b) *Excess and surplus properties.* (1) When HHS approves an application, it will so notify the applicant and request that GSA assign the property to HHS for leasing. Upon receipt of the assignment, HHS will execute a lease in accordance with the procedures and requirements set out in 45 CFR part 12. In accordance with 41 CFR 101-47.402, custody and accountability of the property will remain throughout the lease term with the agency which initially reported the property as excess.
+(iv) Abrogate the conditions and restrictions of the transfer, as set forth in § 12a.12;
 
-(2) Prior to assignment to HHS, GSA may consider other Federal uses and other important national needs; however, in deciding the disposition of surplus real property, GSA will generally give priority of consideration to uses to assist the homeless. GSA may consider any competing request for the property made under section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)) that is so meritorious and compelling that it outweighs the needs of the homeless, and HHS may likewise consider any competing request made under subsection 203(k)(1) of that law.
+(v) Make cash payments to the United States, as directed by HHS, equivalent to the current fair market rental value of the surplus property, as transferred, for each month during which the program and plan of use has not been implemented and continues to not be implemented; or
 
-(3) Whenever GSA or HHS decides in favor of a competing request over a request for property for homeless assistance use as provided in paragraph (b)(2) of this section, the agency making the decision will transmit to the appropriate committees of the Congress an explanatory statement which details the need satisfied by conveyance of the surplus property, and the reasons for determining that such need was so meritorious and compelling as to outweigh the needs of the homeless.
+(vi) Any other remedy that HHS determines appropriate or necessary.
 
-(4) *Deeds.* Surplus property may be conveyed to representatives of the homeless pursuant to section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)(1), and section 501(f) of the McKinney Act as amended, 42 U.S.C. 11411. Representatives of the homeless must complete the application packet pursuant to the requirements of § 12a.9 of this part and in accordance with the requirements of 45 CFR part 12.
+(2) Where the transferee desires to place the property into temporary use to assist the homeless other than that for which the property was transferred, written approval from HHS must be obtained, and will be conditioned upon HHS's authority to permit the use and such terms as HHS may impose.
 
-(c) *Completion of Lease Term and Reversion of Title.* Lessees and grantees will be responsible for the protection and maintenance of the property during the time that they possess the property. Upon termination of the lease term or reversion of title to the Federal government, the lessee or grantee will be responsible for removing any improvements made to the property and will be responsible for restoration of the property. If such improvements are not removed, they will become the property of the Federal government. GSA or the landholding agency, as appropriate, will assume responsibility for protection and maintenance of a property when the lease terminates or title reverts.
+(3) If HHS or the landholding agency determines that a lessee or sublessee of a transferee is in noncompliance with a term or condition of the lease, or if the lessee voluntarily surrenders the premises, HHS may require termination of the lease and impose sanctions described in paragraph (a)(1) of this section, as appropriate.
+
+(b) *Reversion.* When HHS recommends reversion of the property for noncompliance, HHS will seek GSA's concurrence. GSA will respond to HHS's concurrence request within 30 days of its receipt. If GSA concurs, GSA will work with HHS to complete the reversion of the property. If GSA does not concur to the reversion recommendation, GSA will issue, to HHS, a written determination: stating the reason(s) for the disapproval; and acknowledging that HHS has recommended reversion and, therefore, the property is no longer within HHS's Title V program. The Federal Government will implement a response to the noncompliance that is in its best interests.

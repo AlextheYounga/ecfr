@@ -1,0 +1,3 @@
+##### 901.403 Individual deviations. #####
+
+Requests for individual deviations from the FAR or the DEAR shall be submitted to the cognizant Senior Procurement Executive (SPE), that is DOE or NNSA, (or designee) for approval. Requests shall cite the specific part of the FAR or DEAR from which it is desired to deviate, shall set forth the nature of the proposed deviation(s), and shall give the reasons for the action requested.

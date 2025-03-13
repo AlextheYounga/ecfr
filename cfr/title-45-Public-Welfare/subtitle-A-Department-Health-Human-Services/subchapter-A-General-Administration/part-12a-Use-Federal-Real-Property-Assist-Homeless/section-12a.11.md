@@ -1,3 +1,17 @@
-##### § 12a.11 Unsuitable properties. #####
+##### § 12a.11 Other uses. #####
 
-The landholding agency will defer, for 20 days after the date that notice of a property is published in the Federal Register, action to dispose of properties determined unsuitable for homeless assistance. HUD will inform landholding agencies or GSA if appeal of an unsuitability determination is filed by a representative of the homeless pursuant to § 12a.4(f)(4). HUD will advise the agency that it should refrain from initiating disposal procedures until HUD has completed its reconsideration process regarding unsuitability. Thereafter, or if no appeal has been filed after 20 days, GSA or the appropriate landholding agency may proceed with disposal action in accordance with applicable law.
+(a) A transferee may permit the use of all or a portion of the surplus property by another eligible entity as described in § 12a.1 for homeless assistance purposes, only upon those terms and conditions HHS determines appropriate, if:
+
+(1) The transferee submits a written request to HHS explaining the purpose of and need for another eligible entity's use of the property, program plan, and other relevant information requested by HHS;
+
+(2) HHS determines that the proposed use would not substantially limit the program and plan of use by the transferee and that the use will not unduly burden the Federal Government;
+
+(3) HHS's written consent is obtained by the transferee in advance;
+
+(4) HHS approves the use instrument in advance and in writing;
+
+(5) The transferee agrees to lengthen the period of restrictions as determined by HHS; and
+
+(6) HHS advises GSA and there is no disapproval by GSA within thirty (30) days.
+
+(b) A transferee that does not follow paragraph (a) of this section will be deemed to be not in compliance with the terms and conditions of the Title V program and subject to enforcement action, including reversion of the property.

@@ -1,8 +1,6 @@
 ##### 952.204-77 Computer security. #####
 
-Link to an amendment published at 89 FR 89764, Nov. 13, 2024.
-
-As prescribed in 904.404(d)(7), the following clause shall be included:
+As prescribed in 904.404(d)(6), insert the following clause:
 
 Computer Security (AUG 2006)
 
@@ -22,4 +20,4 @@ Computer Security (AUG 2006)
 
 (e) *Subcontracts.* The Contractor shall insert this clause, including this paragraph (e), in subcontracts under this contract that may provide access to computers owned, leased or operated on behalf of the DOE.
 
-(End of clause)[71 FR 40885, July 19, 2006, as amended at 74 FR 36368, 36378, July 22, 2009]
+(End of clause)[71 FR 40885, July 19, 2006, as amended at 74 FR 36368, 36378, July 22, 2009; 89 FR 89764, Nov. 13, 2024]

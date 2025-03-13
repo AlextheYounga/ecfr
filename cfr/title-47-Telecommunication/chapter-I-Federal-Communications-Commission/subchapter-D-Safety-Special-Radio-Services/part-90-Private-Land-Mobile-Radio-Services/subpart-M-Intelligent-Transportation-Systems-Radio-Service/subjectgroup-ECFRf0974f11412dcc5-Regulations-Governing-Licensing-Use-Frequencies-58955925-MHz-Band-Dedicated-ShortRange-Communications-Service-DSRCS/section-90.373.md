@@ -1,5 +1,7 @@
 ##### § 90.373 Eligibility in the DSRCS. #####
 
+Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+
 The following entities are eligible to hold an authorization to operate Roadside units in the DSRCS:
 
 (a) Any territory, possession, state, city, county, town or similar governmental entity.

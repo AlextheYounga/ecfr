@@ -1,5 +1,7 @@
 ##### § 90.421 Operation of mobile station units not under the control of the licensee. #####
 
+Link to an amendment published at 89 FR 100854, Dec. 13, 2024.
+
 Mobile stations, as defined in § 90.7, include vehicular-mounted and hand-held units. Such units may be operated by persons other than the licensee, as provided for below, when necessary for the licensee to meet its requirements in connection with the activities for which it is licensed. If the number of such units, together with units operated by the licensee, exceeds the number of mobile units authorized to the licensee, license modification is required. The licensee is responsible for taking necessary precautions to prevent unauthorized operation of such units not under its control.
 
 (a) *Public Safety Pool.* (1) Mobile units licensed in the Public Safety Pool may be installed in any vehicle which in an emergency would require cooperation and coordination with the licensee, and in any vehicle used in the performance, under contract, of official activities of the licensee. This provision does not permit the installation of radio units in non-emergency vehicles that are not performing governmental functions under contract but with which the licensee might wish to communicate.

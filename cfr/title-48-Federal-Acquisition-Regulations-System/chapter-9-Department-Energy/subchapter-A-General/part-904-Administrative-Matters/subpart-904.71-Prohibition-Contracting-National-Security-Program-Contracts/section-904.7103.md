@@ -1,7 +1,5 @@
 ##### 904.7103 Solicitation provision and contract clause. #####
 
-Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
-
 (a) Any solicitation, including those under simplified acquisition procedures, for a contract under the national security program which will require acess to proscribed information shall include the provision at 952.204-73, Facility Clearance.
 
 (b) Any contract, including those awarded under simplified acquisition procedures, under the national security program which require access to proscribed information to enable performance, shall include the clause at 952.204-2, Security.

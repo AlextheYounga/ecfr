@@ -1,10 +1,8 @@
 ##### 952.231-71 Insurance-litigation and claims. #####
 
-Link to an amendment published at 89 FR 89770, Nov. 13, 2024.
-
 As prescribed in 931.205-19(f), insert the following clause in applicable non-management and operating contracts:
 
-Insurance—Litigation and Claims (JUL 2013)
+Insurance—Litigation and Claims (DEC 2024)
 
 (a) The contractor must comply with 10 CFR part 719, contractor Legal Management Requirements, if applicable.
 
@@ -38,7 +36,7 @@ Insurance—Litigation and Claims (JUL 2013)
 
 (C) Failure to exercise prudent business judgment, which means failure to act in the same manner as a prudent person in the conduct of competitive business; or, in the case of a non-profit educational institution, failure to act in the manner that a prudent person would under the circumstances prevailing at the time the decision to incur the cost is made.
 
-(2) The term “contractor's managerial personnel” is defined in the Property clause in this contract.
+(2) The term “contractor's managerial personnel” is defined in the Property clause in 970.5245-1 in this contract.
 
 (g)(1) All litigation costs, including counsel fees, judgments and settlements shall be segregated and accounted for by the contractor separately. If the Contracting Officer provisionally disallows such costs, then the contractor may not use funds advanced by DOE under the contract to finance the litigation.
 
@@ -48,4 +46,4 @@ Insurance—Litigation and Claims (JUL 2013)
 
 (h) The contractor may at its own expense and not as an allowable cost procure for its own protection insurance to compensate the contractor for any unallowable or non-reimbursable costs incurred in connection with contract performance.
 
-(End of clause)[78 FR 25816, May 3, 2013; 78 FR 29247, May 20, 2013]
+(End of clause)[78 FR 25816, May 3, 2013; 78 FR 29247, May 20, 2013; 89 FR 89770, Nov. 13, 2024]

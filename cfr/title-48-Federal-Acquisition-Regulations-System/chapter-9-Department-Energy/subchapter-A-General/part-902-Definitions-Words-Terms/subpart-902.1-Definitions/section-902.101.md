@@ -1,7 +1,5 @@
 ##### 902.101 Definitions. #####
 
-Link to an amendment published at 89 FR 89746, Nov. 13, 2024.
-
 *Agency Head* or *Head of the Agency* means—
 
 (1) For the Department of Energy (DOE)—
@@ -16,6 +14,6 @@ Link to an amendment published at 89 FR 89746, Nov. 13, 2024.
 
 *Department of Energy (DOE)* means, as used in the DEAR, the Department of Energy and includes the National Nuclear Security Administration (NNSA), unless otherwise specified.
 
-*Senior Procurement Executive* means for the Department of Energy, the Director, Office of Procurement and Assistance Management and for the National Nuclear Security Administration, the Deputy Associate Administrator for Acquisition and Project Management.
+*Senior Procurement Executive* means for the Department of Energy, the Director, Office of Acquisition Management and for the National Nuclear Security Administration, the Deputy Associate Administrator for the Office of Partnership and Acquisition Services.
 
-[76 FR 7690, Feb. 11, 2011, as amended at 81 FR 45977, July 15, 2016]
+[76 FR 7690, Feb. 11, 2011, as amended at 81 FR 45977, July 15, 2016; 89 FR 89746, Nov. 13, 2024]

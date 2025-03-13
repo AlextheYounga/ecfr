@@ -1,8 +1,6 @@
 ##### 970.5227-7 Royalty information. #####
 
-Link to an amendment published at 89 FR 89811, Nov. 13, 2024.
-
-Insert the following provision in solicitations in accordance with 970.2702-4:
+Insert the following provision in solicitations in accordance with 970.2702-70:
 
 Royalty Information (DEC 2000)
 
@@ -26,4 +24,4 @@ Royalty Information (DEC 2000)
 
 (b) Copies of current licenses. In addition, if specifically requested by the Contracting Officer before execution of the contract, the offeror shall furnish a copy of the current license agreement and an identification of applicable claims of specific patents or other basis upon which the royalty may be payable.
 
-(End of provision)
+(End of provision)[65 FR 81009, Dec. 22, 2000, as amended at 89 FR 89811, Nov. 13, 2024]

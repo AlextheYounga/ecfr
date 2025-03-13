@@ -1,6 +1,6 @@
-##### § 20.19 Hearing aid-compatible mobile handsets. #####
+##### § 20.19 Hearing loss compatible wireless handsets. #####
 
-Link to an amendment published at 89 FR 89864, Nov. 13, 2024.Link to an amendment published at 89 FR 89866, Nov. 13, 2024.Link to an amendment published at 89 FR 89868, Nov. 13, 2024.
+Link to an amendment published at 89 FR 89866, Nov. 13, 2024.Link to an amendment published at 89 FR 89868, Nov. 13, 2024.
 
 (a) *Definitions.* For purposes of this section:
 
@@ -10,61 +10,121 @@ Link to an amendment published at 89 FR 89864, Nov. 13, 2024.Link to an amendmen
 
 *2019 ANSI standard* refers to the technical standard for hearing aid compatibility applicable to frequencies between 614 MHz and 6 GHz as set forth in ANSI C63.19-2019.
 
+*Acoustic coupling* refers to a type of hearing aid compatibility where handset models couple with hearing aids through the use of the hearing aid's microphone that amplifies sound and the handsets meet standards for controlling radiofrequency (RF) interference between the handsets and hearing aids.
+
 *ANSI standard* refers to the 2007, 2011, and 2019 ANSI standards as a group.
 
 *Any version of the ANSI standard previous to the 2019 ANSI standard* refers to the 2007 and 2011 ANSI standards.
 
-*Digital mobile service* refers to a terrestrial mobile service that enables two-way real-time voice communications among members of the public or a substantial portion of the public, including both interconnected and non-interconnected voice over internet protocol (VoIP) services, to the extent that such service is provided over frequencies specified in the 2007 ANSI standard, 2011 ANSI standard or the 2019 ANSI standard.
+*Bluetooth coupling* refers to a type of hearing aid compatibility where handset models couple with hearing aids using short range wireless technology that relies on internal chipsets and antennas within the handset model.
+
+*Digital labeling technology* refers to Quick-Response (QR) codes and related website addresses that link to additional online information about a handset model's hearing aid compatibility.
+
+*Digital mobile service* refers to a terrestrial mobile service that enables two-way real-time voice communications among members of the public or a substantial portion of the public, including both interconnected and non-interconnected voice over internet protocol (VoIP) services, to the extent that such service is provided over frequencies specified in the 2007 ANSI standard, 2011 ANSI standard, or the 2019 ANSI standard.
 
 *Handset* refers to a device used in delivery of digital mobile service in the United States that contains a built-in speaker and is typically held to the ear in any of its ordinary uses.
 
-*Manufacturer* refers to a manufacturer of handsets that are used in delivery of digital mobile service, as defined in this section, in the United States.
+*Handset manufacturer* refers to a manufacturer of handset models that are used in delivery of digital mobile service, as defined in this section, in the United States.
 
-*Model* refers to a wireless handset device that a manufacturer has designated as a distinct device model, consistent with its own marketing practices. However, if a manufacturer assigns different model device designations solely to distinguish units sold to different carriers, or to signify other distinctions that do not relate to either form, features, or capabilities, such designations shall not count as distinct models for purposes of this section.
+*Handset model portfolio* refers to all of the handset models that a handset manufacturer or service provider offers for sale or use in the United States.
+
+*Hearing aid* refers to hearing aids and cochlear implants.
+
+*Hearing aid-compatible* refers to a handset model that:
+
+(i) Has an internal means for compatibility, as defined in this section;
+
+(ii) Meets established technical standards for hearing aid coupling or compatibility, as defined in this section; and
+
+(iii) Is usable, as defined in this section.
+
+*Model* refers to a wireless handset that a handset manufacturer has designated as a distinct handset model, consistent with its own marketing practices. However, if a handset manufacturer assigns different model number designations solely to distinguish handset models sold to different service providers, or to signify other distinctions that do not relate to either form, features, or capabilities, such model number designations shall not count as distinct handset models for purposes of this section.
+
+*Nationwide service provider* refers to a provider of commercial mobile radio service, as defined in this section, that offers such service nationwide.
+
+*Non-nationwide service provider* refers to a provider of commercial mobile radio service, as defined in this section, that does not offer such service on a nationwide basis.
+
+*Publicly accessible website* refers to a consumer facing website that handset manufacturers and service providers maintain and that consumers can locate through a website search.
 
 *Service provider* refers to a provider of digital mobile service, as defined in this section, in the United States.
 
-*Tier I carrier* refers to a CMRS provider that offers such service nationwide.
+*Telecoil coupling* refers to a type of hearing aid compatibility where handset models couple with hearing aids through the use of telecoils. This form of compatibility can be referred to as inductive coupling.
 
 *Volume control requirements* refers to the technical standard established by ANSI/TIA-5050-2018.
 
-(b) *Hearing aid compatibility; technical standards*—(1) *Handset compatibility on or after June 5, 2023.* In order to satisfy a manufacturer or service provider's obligations under paragraphs (c) and (d) of this section, a handset submitted for equipment certification or for a permissive change relating to hearing aid compatibility on or after June 5, 2023 must meet the 2019 ANSI standard.
+(b) *Hearing aid compatibility; technical standards*—(1) *Handset model compatibility before December 14, 2026.* A handset model submitted for equipment certification or for a permissive change relating to hearing aid compatibility must meet the certification requirements of the 2019 ANSI standard, including applicable volume control requirements.
 
-(2) *Handset compatibility before June 5, 2023.* In order to satisfy a manufacturer or service provider's obligations under paragraphs (c) and (d) of this section, a handset submitted for equipment certification or for a permissive change relating to hearing aid compatibility before June 5, 2023 must meet either:
+(2) *Handset model compatibility on or after December 14, 2026.* A handset model submitted for equipment certification or for a permissive change relating to hearing aid compatibility must meet:
 
-(i) At a minimum, the M3 and T3 ratings associated with the 2011 ANSI standard; or
+(i) The 2019 ANSI standard's acoustic coupling requirements;
 
-(ii) The 2019 ANSI standard.
+(ii) The 2019 ANSI standard's volume control requirements; and
 
-(3) *Handsets operating over multiple frequency bands or air interfaces.* (i) Beginning on June 5, 2023, a handset is hearing aid-compatible if it meets the 2019 ANSI standard for all frequency bands that are specified in the ANSI standard and all air interfaces over which it operates on those frequency bands, and the handset has been certified as compliant with the test requirements for the 2019 ANSI standard pursuant to § 2.1033(d) of this chapter.
+(iii) Either the 2019 ANSI standard's telecoil coupling requirements or have Bluetooth coupling technology as a replacement for or in addition to meeting the standard's telecoil coupling requirements.
 
-(ii) Before June 5, 2023, a handset that uses only the frequencies specified in the 2011 ANSI standard is hearing aid-compatible with regard to radio frequency interference and inductive coupling if it meets the 2011 ANSI standard for all frequency bands and air interfaces over which it operates, and the handset has been certified as compliant with the test requirements for the 2011 ANSI standard pursuant to § 2.1033(d) of this chapter. Before June 5, 2023, a handset that incorporates operations outside the frequencies specified in the 2011 ANSI standard is hearing aid-compatible if the handset otherwise satisfies the requirements of this paragraph (b).
+(iv) All such new handset models must come out-of-the-box with their hearing aid compatibility related acoustic and volume control functions turned on by default. Such handset models may also have secondary settings to turn on the handset model's telecoil or Bluetooth coupling functions, depending on the secondary capability included in a particular handset model. All such handset models must have settings for acoustic, telecoil, or Bluetooth coupling (depending on the coupling functionality included) and volume control functionality that are clearly labeled and allow consumers to easily find these settings and to turn these functions on or off as they desire.
 
-(4) *Factual questions.* All factual questions of whether a handset meets the technical standard(s) of this paragraph (b) shall be referred for resolution to the Chief, Office of Engineering and Technology, Federal Communications Commission, 45 L Street NE, Washington, DC 20554.
+(3) *Bluetooth coupling requirements.* (i) Between December 14, 2026, and December 12, 2028, the Bluetooth coupling requirement may be met using either proprietary or non-proprietary Bluetooth coupling technology.
 
-(5) *Certification.* A handset certified under any version of the ANSI standard previous to the 2019 ANSI standard remains hearing aid-compatible for purposes of this section.
+(ii) Beginning on December 12, 2028, the Bluetooth coupling requirement may only be met using Bluetooth coupling technology that:
 
-(c) *Phase-in of hearing aid-compatibility requirements.* The following applies to each manufacturer and service provider that offers handsets used to deliver the services specified in paragraph (a) of this section and that does not fall within the *de minimis* exception set forth in paragraph (e) of this section.
+(A) Utilizes a global, low power wireless technology standard for high quality audio voice streaming;
 
-(1) *Manufacturers—Number of hearing aid-compatible handset models offered.* For each digital air interface for which it offers handsets in the United States or imported for use in the United States, each manufacturer must offer hearing aid compatible handsets as follows:
+(B) Is a standalone non-proprietary implementation;
 
-(i) Beginning October 3, 2018, at least sixty-six (66) percent of those handset models (rounded down to the nearest whole number) must be hearing aid-compatible under paragraph (b) of this section.
+(C) Is a qualified implementation that has undergone testing to verify that the product conforms to the specifications it claims to support;
 
-(ii) Beginning October 4, 2021, at least eighty-five (85) percent of those handset models (rounded down to the nearest whole number) must be hearing aid-compatible under paragraph (b) of this section.
+(D) Offers full interoperability between hearing aids and handset models to enable inter-network, inter-provider, inter-platform, and inter-handset manufacturer functionality; and
 
-(2) *Tier I carriers—Number of hearing aid-compatible handsets models offered.* For each digital air interface for which it offers handsets to customers, each Tier I carrier must:
+(E) Uses a design that meets broad, generic hearing aid requirements that addresses needed features when coupling to handset models for all forms of voice calls and associated handset model use.
 
-(i) Beginning April 3, 2019, ensure that at least sixty-six (66) percent of the handset models it offers are hearing aid-compatible under paragraph (b) of this section, calculated based on the total number of unique handset models the carrier offers nationwide.
+(4) *Handset models operating over multiple frequency bands or air interfaces.* (i) Between December 12, 2024, and December 14, 2026, a handset model is hearing aid-compatible if it meets the requirements of paragraph (b)(1) of this section for all frequency bands that are specified in the 2019 ANSI standard and all air interfaces over which it operates on those frequency bands, and the handset model has been certified as compliant with the test requirements for the 2019 ANSI standard pursuant to § 2.1033(d) of this chapter.
 
-(ii) Beginning April 4, 2022, ensure that at least eighty-five (85) percent of the handset models it offers are hearing aid-compatible under paragraph (b) of this section, calculated based on the total number of unique handset models the carrier offers nationwide.
+(ii) Beginning on December 14, 2026, a handset model is hearing aid-compatible if it meets the requirements of paragraph (b)(2) of this section for all frequency bands that are specified in the 2019 ANSI standard and all air interfaces over which it operates on those frequency bands, and:
 
-(3) *Service providers other than Tier I carriers—Number of hearing aid-compatible handsets models offered.* For each digital air interface for which it offers handsets to customers, each service provider other than a Tier I carrier must:
+(A) The handset model has been certified as compliant with the test requirements for the 2019 ANSI standard (including the telecoil requirements) pursuant to § 2.1033(d) of this chapter; or
 
-(i) Beginning April 3, 2020, ensure that at least sixty-six (66) percent of the handset models it offers are hearing aid-compatible under paragraph (b) of this section, calculated based on the total number of unique handset models the carrier offers.
+(B) The handset model has been certified as compliant with the test requirements for the 2019 ANSI standard (except for the telecoil requirements) pursuant to § 2.1033(d) of this chapter and meets the Bluetooth coupling requirements of this paragraph (b) and paragraph (c) of this section.
 
-(ii) Beginning April 3, 2023, ensure that at least eighty-five (85) percent of the handset models it offers are hearing aid-compatible under paragraph (b) of this section, calculated based on the total number of unique handset models the carrier offers.
+(5) *Non-hearing aid-compatible handset models.* Beginning on December 14, 2026, any non-hearing aid-compatible handset models cannot obtain a certification under part 2, subpart J, of this chapter.
 
-(4) *In-store testing.* All service providers must make available for consumers to test, in each retail store owned or operated by the service provider, all of its handset models that are hearing aid-compatible under paragraph (b) of this section.
+(6) *Software updates.* (i) Handset models certified as hearing aid-compatible may not be modified through a software push that results in the handset model no longer meeting hearing aid compatibility certification standards. In addition, a handset model's conversational gain may not be lowered through a software push, unless the impact on the conversational gain of a handset model is *de minimis.* The Commission delegates to the Wireless Telecommunications Bureau, in coordination with the Office of Engineering and Technology, authority to define the scope of the *de minimis* exception, as needed.
+
+(ii) Consumers must be notified prior to installing a software push if the software push will install new operations or bands that are not covered by the applicable hearing aid compatibility certification standards and, therefore, these new operations or bands will not meet hearing aid compatibility certification requirements.
+
+(7) *Factual questions.* All factual questions of whether a handset meets the technical standard(s) of this paragraph (b) shall be referred for resolution to the Chief, Office of Engineering and Technology, Federal Communications Commission, 45 L Street NE, Washington, DC 20554.
+
+(8) *Grandfathered handset model.* A handset model certified under any version of Commission authorized technical standards prior to December 13, 2024, may continue to be offered for sale or use, as long as the Commission permits the handset model to continue to be offered for sale or use.
+
+(c) *Phase-in of hearing aid-compatibility requirements.* The following applies to each handset manufacturer and service provider that offers handset models for sale or use in the United States that are used to deliver digital mobile services as specified in paragraph (a) of this section.
+
+(1) *Handset manufacturers—Number of hearing aid-compatible handset models offered for sale or use in the United States prior to December 14, 2026.* At least eight-five (85) percent of those handset models (rounded down to the nearest whole number) must be hearing aid-compatible as defined under paragraph (b)(1) of this section.
+
+(2) *Handset manufacturers*—*Number of hearing aid-compatible handset models offered for sale or use in the United States after December 14, 2026.* All handset models shall meet the following hearing aid compatibility requirements:
+
+(i) One hundred (100) percent of these handset models must meet the 2019 ANSI standard's acoustic coupling requirements or have been certified as meeting the M3 acoustic rating under a previous ANSI standard;
+
+(ii) At least eighty-five (85) percent of those handset models (rounded down to the nearest whole number) must meet the 2019 ANSI standard's telecoil coupling requirements or have been certified as meeting the T3 telecoil rating under a previous ANSI standard;
+
+(iii) At least fifteen (15) percent of those handset models (rounded up to the nearest whole number) must have Bluetooth coupling technology consistent with paragraphs (a) and (b)(3) of this section as a replacement for or in addition to meeting the 2019 ANSI standard's telecoil coupling requirements or the T3 telecoil rating under a previous ANSI standards;
+
+(iv) One hundred (100) percent of these handset models must meet at least two forms of coupling. Specifically, all handsets must:
+
+(A) Meet the acoustic coupling requirement, as specified in paragraph (c)(2)(i) of this section, and meet the telecoil requirement, as specified in paragraph (c)(2)(ii) of this section; or
+
+(B) Meet the acoustic coupling requirement, as specified in paragraph (c)(2)(i) of this section, and have Bluetooth coupling technology, as specified in paragraph (c)(2)(iii) of this section; and
+
+(v) All new handset models that a handset manufacturer adds to its handset model portfolio must meet the 2019 ANSI Standard's volume control requirements.
+
+(3) *Nationwide service providers—Number of hearing aid-compatible handsets models offered prior to June 14, 2027.* At least eight-five (85) percent of those handset models (rounded down to the nearest whole number) must be hearing aid-compatible as defined under paragraph (b)(1) of this section.
+
+(4) *Nationwide service providers—Number of hearing aid-compatible handset models offered after June 14, 2027.* All handset models that nationwide service providers offer and add to their handset model portfolios must meet the same requirements that handset manufacturer handset models must meet as set forth in paragraph (c)(2) of this section.
+
+(5) *Non-nationwide service providers—Number of hearing aid-compatible handsets models offered prior to June 12, 2028.* At least eight-five (85) percent of those handset models (rounded down to the nearest whole number) must be hearing aid-compatible as defined under paragraph (b)(1) of this section.
+
+(6) *Non-nationwide service providers—Number of hearing aid-compatible handset models offered after June 12, 2028.* All handset models that non-nationwide service providers offer and add to their handset model portfolios must meet the same requirements that handset manufacturer handset models must meet as set forth in paragraph (c)(2) of this section.
+
+(7) *Availability and in-store testing of hearing aid-compatible handset models.* All handset manufacturers and service providers must make their best efforts to make available all hearing aid-compatible handset models that they offer for sale or use to consumers to test, in each retail store owned or operated by the handset manufacturer or service provider. If a handset model is not available in-store for testing, handset manufacturers and service providers must make their best efforts to make the handset model available to the consumer for testing within 48 hours by shipping the handset model either to the store or to the consumer's home. Further, handset manufacturers and service providers must make their best efforts to ensure that all of the hearing aid-compatible handset models that they offer for sale or use will be in the hands of consumers within 48 hours of the consumer ordering the hearing aid-compatible handset model.
 
 (d) [Reserved]
 
@@ -75,6 +135,8 @@ Link to an amendment published at 89 FR 89864, Nov. 13, 2024.Link to an amendmen
 (2) Manufacturers or service providers that offer three handset models in an air interface must offer at least one handset model that is hearing aid-compatible under paragraph (b) of this section in that air interface. Service providers that obtain handsets only from manufacturers that offer three handset models in an air interface in the United States are required to offer at least one handset model in that air interface that is hearing aid-compatible under paragraph (b) of this section.
 
 (3) Manufacturers that offer four or five handset models in an air interface must offer at least two handset models that are hearing aid-compatible under paragraph (b) of this section in that air interface. Tier I carriers who offer four handset models in an air interface must offer at least two handsets that are hearing aid-compatible under paragraph (b) of this section in that air interface and Tier I carriers who offer five handset models in an air interface must offer at least three handsets that are hearing aid-compatible under paragraph (b) of this section in that air interface. Service providers, other than Tier I carriers, who offer four handset models in an air interface must offer at least two handset models that are hearing aid-compatible under paragraph (b) of this section in that air interface and service providers, other than Tier I carriers, who offer five handset models in an air interface must offer at least three handsets that are hearing aid-compatible under paragraph (b) of this section in that air interface.
+
+(4) Beginning December 14, 2026, handset manufacturers may no longer claim *de minimis* status under the terms of this section. Beginning June 14, 2027, nationwide service providers may no longer claim *de minimis* status under the terms of this section. Beginning June 12, 2028, non-nationwide service providers may no longer claim *de minimis* status under the terms of this section.
 
 (f) *Labeling and disclosure requirements for hearing aid-compatible handsets*—(1) *Package label.* For all handset models certified to be hearing aid-compatible, manufacturers and service providers shall ensure that the handset's package label states that the handset is hearing aid-compatible and the handset's actual conversational gain with and without a hearing aid if certified using a technical standard with volume control requirements. The actual conversational gain displayed for use with a hearing aid shall be the lowest rating assigned to the handset for any covered air interface or frequency band.
 
@@ -98,7 +160,13 @@ This phone has been tested and certified for use with hearing aids for some of t
 
 (viii) An explanation of special testing circumstances, if a handset model has air interfaces that have been certified as hearing aid-compatible under such circumstances, and how these circumstances affect the use and operation of the handset.
 
-(g) *Model designation requirements.* Where a manufacturer has made physical changes to a handset that result in a change in the hearing aid compatibility rating under the 2011 ANSI standard or an earlier version of the standard, the altered handset must be given a model designation distinct from that of the handset prior to its alteration.
+(g) *Handset model number designation requirements.* Where a handset manufacturer or service provider makes a physical change to a handset model, the handset model must be given a model number designation distinct from that of the handset model prior to its alteration. A physical change to a handset model is defined as changes to the handset model's hardware or software that causes a variation in the form, features, or capabilities of the handset model as compared to the handset model prior to these alterations.
+
+(1) Handset models recertified as hearing aid-compatible under updated certification standards are not required to be assigned a new model number designation unless the handset model has been physically changed, as defined in this paragraph (g), to meet the requirements of the updated certification standard. Handset models being recertified as hearing aid-compatible under updated certification standards must meet all aspects of the updated certification standard. Handset models being recertified as hearing aid-compatible may not be recertified as hearing aid-compatible using parts of two different ANSI standards or distinct certification standards.
+
+(2) Handset manufacturers may assign new handset model number designations to handset models recertified as hearing aid-compatible under updated certification standards that have not undergone any physical changes, as defined in this paragraph (g), if the handset manufacturer chooses to for its own reasons. Under these circumstances, handset manufacturers and service providers shall not count the handset model more than once for purposes of meeting handset model deployment benchmark requirements regardless of the number of handset model number designations that the handset model has been assigned.
+
+(3) Handset models recertified as hearing aid-compatible under updated certification standards must have the labeling, disclosure, and website posting information related to the handset model updated within 30 days of the updated certification. These updates must indicate that the handset model has been recertified under updated certification standards and explain how this updated certification affects the handset model's operations. These updates must be made regardless of whether the handset model was physically altered to meet the requirements of the updated certification standard.
 
 (h) *Website and record retention requirements.* (1) Each manufacturer and service provider that operates a publicly-accessible website must make available on its website a list of all hearing aid-compatible models currently offered, the ANSI standard used to evaluate hearing aid compatibility, the ratings of those models under the relevant ANSI standard, if applicable, and an explanation of the rating system. Each service provider must also include on its website: A list of all non-hearing aid-compatible models currently offered, as well as a link to the current FCC web page containing information about the wireless hearing aid compatibility rules and service providers' obligations. Each service provider must also include the marketing model name/number(s) and FCC ID number of each hearing aid-compatible and non-hearing aid-compatible model currently offered.
 
@@ -160,7 +228,7 @@ The company represents and warrants, and I certify by this declaration under pen
 
 (x) If the manufacturer maintains a public website, the website address of the page(s) containing the information regarding hearing aid-compatible handset models required by paragraph (h) of this section.
 
-(4) *Format.* The Wireless Telecommunications Bureau is delegated authority to approve or prescribe forms, formats, and methods for submission of the reports and certifications in addition to or instead of those required by this section. Any format that the Bureau may approve or prescribe shall be made available on the Bureau's website.
+(4) *Form and content requirements.* The Wireless Telecommunications Bureau is delegated authority to approve or prescribe forms, formats, and methods for submission of the reports and certifications in addition to or instead of those required by this section. Further, the Bureau is delegated authority to revise the information that these reports and certifications collect as long as these revisions are consistent with the rules in this section and do not impose additional obligations beyond providing the information that these reports and certifications collect. Any format or content changes the Bureau adopts will be made available on the Bureau's website.
 
 (j) *Enforcement.* Enforcement of this section is hereby delegated to those states that adopt this section and provide for enforcement. The procedures followed by a state to enforce this section shall provide a 30-day period after a complaint is filed, during which time state personnel shall attempt to resolve a dispute on an informal basis. If a state has not adopted or incorporated this section, or failed to act within six (6) months from the filing of a complaint with the state public utility commission, the Commission will accept such complaints. A written notification to the complainant that the state believes action is unwarranted is not a failure to act. The procedures set forth in part 68, subpart E of this chapter are to be followed.
 
@@ -184,4 +252,4 @@ The company represents and warrants, and I certify by this declaration under pen
 
 (ii) [Reserved]
 
-[73 FR 25587, May 7, 2008, as amended at 75 FR 54522, Sept. 8, 2010; 77 FR 41928, July 17, 2012; 81 FR 183, Jan. 5, 2016; 81 FR 60633, Sept. 2, 2016; 83 FR 8631, Feb. 28, 2018; 83 FR 63105, Dec. 7, 2018; 84 FR 37592, Aug. 1, 2019; 86 FR 23625, 23627, May 4, 2021; 88 FR 21439, Apr. 10, 2023]
+[73 FR 25587, May 7, 2008, as amended at 75 FR 54522, Sept. 8, 2010; 77 FR 41928, July 17, 2012; 81 FR 183, Jan. 5, 2016; 81 FR 60633, Sept. 2, 2016; 83 FR 8631, Feb. 28, 2018; 83 FR 63105, Dec. 7, 2018; 84 FR 37592, Aug. 1, 2019; 86 FR 23625, 23627, May 4, 2021; 88 FR 21439, Apr. 10, 2023; 89 FR 89864, Nov. 13, 2024]

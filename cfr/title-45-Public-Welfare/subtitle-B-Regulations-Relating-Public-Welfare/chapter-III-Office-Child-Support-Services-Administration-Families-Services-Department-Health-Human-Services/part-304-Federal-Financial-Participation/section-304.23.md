@@ -1,5 +1,7 @@
 ##### § 304.23 Expenditures for which Federal financial participation is not available. #####
 
+Link to an amendment published at 89 FR 100809, Dec. 13, 2024.
+
 Federal financial participation at the applicable matching rate is not available for:
 
 (a) Activities related to administering titles I, IV-A, IV-B, IV-E, X, XIV, XVI, XIX, XX, or XXI of the Act or 7 U.S.C. Chapter 51.

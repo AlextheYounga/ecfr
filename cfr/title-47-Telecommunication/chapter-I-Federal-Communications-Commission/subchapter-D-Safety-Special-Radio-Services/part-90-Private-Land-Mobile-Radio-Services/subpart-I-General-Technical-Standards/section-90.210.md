@@ -1,5 +1,7 @@
 ##### § 90.210 Emission masks. #####
 
+Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+
 Except as indicated elsewhere in this part, transmitters used in the radio services governed by this part must comply with the emission masks outlined in this section. Unless otherwise stated, per paragraphs (d)(4), (e)(4), and (o) of this section, measurements of emission power can be expressed in either peak or average values provided that emission powers are expressed with the same parameters used to specify the unmodulated transmitter carrier power. For transmitters that do not produce a full power unmodulated carrier, reference to the unmodulated transmitter carrier power refers to the total power contained in the channel bandwidth. Unless indicated elsewhere in this part, the table in this section specifies the emission masks for equipment operating under this part.
 
 (a) *Emission Mask A.* For transmitters utilizing J3E emission, the carrier must be at least 40 dB below the peak envelope power and the power of emissions must be reduced below the output power (P in watts) of the transmitter as follows:

@@ -1,19 +1,25 @@
 ##### 927.303 Contract clauses. #####
 
-Link to an amendment published at 89 FR 89755, Nov. 13, 2024.
+(a)(1) Insert a patent rights clause in all solicitations and contracts for experimental, research, developmental, or demonstration work as prescribed in this section.
 
-(a) In solicitations and contracts for experimental, research, developmental, or demonstration work (but see (FAR) 48 CFR 27.304-3 regarding contracts for construction work or architect-engineer services), the contracting officer shall include the clause:
+(2) [Reserved]
 
-(1) At 952.227-13, Patent Rights Acquisition by the Government, in all such contracts other than those described in paragraphs (a)(2) and (a)(3) of this section;
+(3) [Reserved]
 
-(2) At 952.227-11, Patent Rights by the Contractor (Short Form), in contracts in which the contractor is a domestic small business or nonprofit organization as defined at (FAR) 48 CFR 27.301, except where the work of the contract is subject to an Exceptional Circumstances Determination by DOE; and
+(4) For M&O contracts, certain decontamination and decommissioning activities and the building and/or operation of other DOE facilities, see subpart 970.27.
 
-(3) At 970.5227-10, 970.5227-11, or 970.5227-12, as discussed in 970.27, Patent, Data, and Copyrights, in contracts for the management and operation of DOE laboratories and production facilities.
+(d) The Contracting Officer shall use the clause at 952.227-13, Patent Rights—Ownership by the Government, except for—
 
-(b) DOE shall not use the clause at (FAR) 48 CFR 52.227-12 except in situations where patent counsel grants a request for advance waiver pursuant to 10 CFR part 784 and supplies the contracting officer with that clause with appropriate modifications. Otherwise, in instances in which DOE grants an advance waiver or waives its rights in an identified invention pursuant to 10 CFR part 784, contracting officers shall consult with patent counsel for the appropriate clause.
+(1) *Contracts for construction work or architect-engineer services.* When the services can be expected to involve only “standard types of construction” such as involving previously developed equipment, methods, and processes as described in FAR 27.303(a)(3), the Contracting Officer shall not include a patent clause;
 
-(c) Any contract that has as a purpose the design, construction, operation, or management integration of a collection of contracts for the same purpose, of a Government-owned research, development, demonstration or production facility must accord the Government certain rights with respect to further use of the facility by or on behalf of the Government upon termination of the contract. The patent rights clause in such contracts must include the following facilities license paragraph:
+(2) *Contracts with domestic small business firms or nonprofit organizations (see FAR 27.301).* In such cases, the Contracting Officer shall use the clause at 37 CFR 401.14, Standard Patent Rights, and Alternate I of 952.227-11 that includes the agency implementing regulations specific for DOE, suitably modified to identify the parties, in all contracts, at any tier, for experimental, developmental, demonstration or research work to be performed by a small business firm or domestic nonprofit organization, unless the work is subject to an Exceptional Circumstances Determination by DOE or another exception (see 37 CFR 401.3(a)). If the Determination of Exceptional Circumstances under the Bayh-Dole Act to Further Promote Domestic Manufacture of DOE Science and Energy Technologies executed by DOE on June 7, 2021 (S&E DEC) or any other Determination of Exceptional Circumstances under the Bayh-Dole Act (DEC) is applicable, the Contracting Officer shall include the clause at 37 CFR 401.14 and Alternate II of 952.227-11;
 
-[Insert appropriate paragraph no.] *Facilities License.* In addition to the rights of the parties with respect to inventions or discoveries conceived or first actually reduced to practice in the course of or under this contract, the Contractor agrees to and does hereby grant to the Government an irrevocable, nonexclusive, paid-up license in and to any inventions or discoveries regardless of when conceived or actually reduced to practice or acquired by the Contractor at any time through completion of this contract and which are incorporated or embodied in the construction of the facility or which are utilized in the operation of the facility or which cover articles, materials, or products manufactured at the facility (1) to practice or have practiced by or for the Government at the facility, and (2) to transfer such license with the transfer of that facility. Notwithstanding the acceptance or exercise by the Government of these rights, the Government may contest at any time the enforceability, validity or scope of, title to, any rights or patents herein licensed.
+(3) *Waivers of rights.* In cases where DOE grants an advance waiver or waives its rights in an identified invention pursuant to 10 CFR part 784, Contracting Officers shall consult with patent counsel on appropriate clauses;
 
-(End of paragraph)[60 FR 11816, Mar. 2, 1995, as amended at 63 FR 10505, Mar. 4, 1998; 65 FR 68935, Nov. 15, 2000; 65 FR 81007, Dec. 22, 2000]
+(4) *Contracts for the design, construction, operation, or management (or the integration of a collection of contracts for the same purpose) of a Government-owned research, development, demonstration or production facility.* In such cases, the Government must be accorded certain rights, applicable to further use of the facility by or on behalf of the Government after contract termination or completion. For such contracts, the Contracting Officer shall include Alternate II with the clause at 952.227-13;
+
+(5) *Background patent rights.* For contracts involving DOE background patent rights, the Contracting Officer shall use Alternate I to the clause at 952.227-13. Alternate I may be modified with the concurrence of Patent Counsel in order to reflect the equities of the contracting parties in particular situations; or
+
+(6) *U.S. Competitiveness.* If the funding program is subject to the S&E DEC, then the Contracting Officer shall use Alternate II to the clause at 952.227-13 when Patent Counsel has determined that the S&E DEC applies to the Contractor's funding and should be included in the contract.
+
+[89 FR 89755, Nov. 13, 2024]

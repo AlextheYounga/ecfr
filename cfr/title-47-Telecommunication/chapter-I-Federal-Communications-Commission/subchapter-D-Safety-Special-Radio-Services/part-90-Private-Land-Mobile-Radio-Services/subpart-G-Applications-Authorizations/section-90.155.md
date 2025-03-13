@@ -1,5 +1,7 @@
 ##### § 90.155 Time in which station must be placed in operation. #####
 
+Link to an amendment published at 89 FR 100851, Dec. 13, 2024.
+
 (a) All stations authorized under this part, except as provided in §§ 90.528, 90.529, 90.629, 90.631(f), 90.665, and 90.685 must be placed in operation within twelve (12) months from the date of grant or the authorization cancels automatically and must be returned to the Commission.
 
 (b) A local government entity in the Public Safety Pool, applying for any frequency in this part, may also seek extended implementation authorization pursuant to § 90.629.

@@ -1,5 +1,7 @@
 ##### § 30.203 Emission limits. #####
 
+Link to an amendment published at 89 FR 100868, Dec. 13, 2024.
+
 (a) The conductive power or the total radiated power of any emission outside a licensee's frequency block shall be −13 dBm/MHz or lower. However, in the bands immediately outside and adjacent to the licensee's frequency block, having a bandwidth equal to 10 percent of the channel bandwidth, the conductive power or the total radiated power of any emission shall be −5 dBm/MHz or lower.
 
 (b)(1) Compliance with this provision is based on the use of measurement instrumentation employing a resolution bandwidth of 1 megahertz or greater.

@@ -1,0 +1,3 @@
+##### § 12a.13 Compliance inspections and reports. #####
+
+Transferees are required to allow HHS to conduct compliance inspections and to submit such compliance reports and actions as are deemed necessary by HHS. At a minimum, the transferee will be required to submit an annual utilization report regarding the operation and maintenance of the property, including current images of the entire property and such information as HHS shall require.

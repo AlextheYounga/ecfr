@@ -1,17 +1,21 @@
 ##### § 581.6 Suitability criteria. #####
 
-Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+(a) In general, properties will be determined suitable unless a property's characteristics include one or more of the following conditions:
 
-(a) All properties, buildings and land will be determined suitable unless a property's characteristics include one or more of the following conditions:
+(1) *Flammable or explosive hazards.* Property located less than an acceptable separation distance (under the standards in 24 CFR part 51, subpart C, and the HUD Guidebook, “Siting of HUD-Assisted Projects Near Hazardous Facilities” or successor guidebook) from any stationary above-ground container or facility which stores, handles, or processes hazardous substances of an explosive or fire prone nature (excluding containers and facilities that are not hazards as defined in 24 CFR 51.201), unless HUD can determine during the review period based on information provided by the landholding agency that appropriate mitigating measures, as defined in 24 CFR 51.205, are already in place.
 
-(1) *National security concerns.* A property located in an area to which the general public is denied access in the interest of national security (e.g., where a special pass or security clearance is a condition of entry to the property) will be determined unsuitable. Where alternative access can be provided for the public without compromising national security, the property will not be determined unsuitable on this basis.
+(2) *Coastal barriers.* Property located in a System Unit, as defined at 16 U.S.C. 3502(7), under the Coastal Barrier Resources Act, as amended (16 U.S.C. 3501 *et seq.*).
 
-(2) *Property containing flammable or explosive materials.* A property located within 2000 feet of an industrial, commercial or Federal facility handling flammable or explosive material (excluding underground storage) will be determined unsuitable. Above ground containers with a capacity of 100 gallons or less, or larger containers which provide the heating or power source for the property, and which meet local safety, operation, and permitting standards, will not affect whether a particular property is determined suitable or unsuitable. Underground storage, gasoline stations and tank trucks are not included in this category and their presence will not be the basis of an unsuitability determination unless there is evidence of a threat to personal safety as provided in paragraph (a)(5) of this section.
+(3) *Site safety conditions.* Property with a documented and extensive condition(s) that represents a clear threat to personal physical safety or health. Such conditions may include, but are not limited to, significant contamination from hazardous substances, as defined by 42 U.S.C. 9601, periodic flooding, sinkholes, or landslides.
 
-(3) *Runway clear zone and military airfield clear zone.* A property located within an airport runway clear zone or military airfield clear zone will be determined unsuitable.
+(b) In the cases in paragraphs (b)(1) through (4) of this section, properties will be determined unsuitable, unless the landholding agencies provide information to enable HUD to determine the property is suitable:
 
-(4) *Floodway.* A property located in the floodway of a 100 year floodplain will be determined unsuitable. If the floodway has been contained or corrected, or if only an incidental portion of the property not affecting the use of the remainder of the property is in the floodway, the property will not be determined unsuitable.
+(1) *Inaccessible.* Property that is inaccessible, meaning that the property is not accessible by road (including property on small offshore islands) or is landlocked (*e.g.,* can be reached only by crossing private property and there is no established right or means of entry).
 
-(5) *Documented deficiencies.* A property with a documented and extensive condition(s) that represents a clear threat to personal physical safety will be determined unsuitable. Such conditions may include, but are not limited to, contamination, structural damage or extensive deterioration, friable asbestos, PCB's, or natural hazardous substances such as radon, periodic flooding, sinkholes or earth slides.
+(2) *National security.* Property located in an area to which the general public is denied access in the interest of national security (*e.g.,* where a special pass or security clearance is a condition of entry to the property), unless there is an alternative method to gain access without compromising national security.
 
-(6) *Inaccessible.* A property that is inaccessible will be determined unsuitable. An inaccessible property is one that is not accessible by road (including property on small off-shore islands) or is land locked (e.g., can be reached only by crossing private property and there is no established right or means of entry).
+(3) *Runway clear zones.* Property located within a runway clear zone or a military airfield clear zone.
+
+(4) *Floodway.* Property located in a floodway, unless only an incidental portion of the property is in the floodway and that incidental portion does not affect the use of the remainder of the property to assist the homeless.
+
+[89 FR 89881, Nov. 13, 2024]

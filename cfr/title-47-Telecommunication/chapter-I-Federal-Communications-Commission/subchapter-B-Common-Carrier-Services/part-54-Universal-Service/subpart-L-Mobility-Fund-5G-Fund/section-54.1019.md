@@ -1,5 +1,7 @@
 ##### § 54.1019 Interim service and final service milestone reports. #####
 
+Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
+
 (a) A recipient authorized to receive 5G Fund support shall submit a report to the Administrator on or before March 1 after the third, fourth, fifth, and sixth service milestone deadlines established in § 54.1015(b) demonstrating that it has deployed service meeting the 5G Fund performance requirements specified in § 54.1015(c), which shall include the following:
 
 (1) Certifications to representative data submitted in the Digital Opportunity Data Collection or as part of FCC Form 477, as applicable, demonstrating mobile transmissions to and from the network that establish compliance with the 5G Fund coverage, speed, and latency requirements;

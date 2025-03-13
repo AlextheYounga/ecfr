@@ -1,7 +1,5 @@
 ##### § 79.10 Eligible entities. #####
 
-Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
-
 (a) To be an eligible entity under this part, the entity must:
 
 (1) Be a public or nonprofit private entity with the capacity to effectively administer a grant under this part;
@@ -18,4 +16,6 @@ Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
 
 (3) Federally recognized Indian tribal government. The governing body or a governmental agency of any Indian tribe, band, nation, or other organized group or community (including any Native village as defined in section 3 of the Alaska Native Claims Settlement Act, 85 Stat 688) certified by the Secretary of the Interior as eligible for the special programs and services provided by the Bureau of Indian Affairs.
 
-(c) A nonprofit private entity is an entity that meets the requirements of 26 U.S.C. 501(c)(3) or (19).
+(c) A nonprofit private entity is an entity that meets the requirements of 26 U.S.C. 501(c)(3), (6), or (19).
+
+[87 FR 33041, June 1, 2022, as amended at 89 FR 89501, Nov. 13, 2024]

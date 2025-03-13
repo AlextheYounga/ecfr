@@ -1,10 +1,8 @@
 ##### 952.227-13 Patent rights—acquisition by the Government. #####
 
-Link to an amendment published at 89 FR 89768, Nov. 13, 2024.
+As prescribed at 927.303(d), insert the following clause:
 
-As prescribed at 927.303(a)(1), insert the following clause:
-
-Patent Rights—Acquisition by the Government (SEP 1997)
+Patent Rights—Acquisition by the Government (DEC 2024)
 
 (a) *Definitions.*
 
@@ -26,7 +24,7 @@ Patent Rights—Acquisition by the Government (SEP 1997)
 
 (ii) Within two (2) months after the filing of a patent application, the Contractor shall provide the filing date, serial number and title, a copy of the patent application (including an English-language version if filed in a language other than English), and, promptly upon issuance of a patent, provide the patent number and issue date for any subject invention in any country for which the Contractor has been granted title or the right to file and prosecute on behalf of the United States by the Department of Energy.
 
-(iii) Not less than thirty (30) days before the expiration of the response period for any action required by the Patent and Trademark Office, notify the Patent Counsel of any decision not to continue prosecution of the application.
+(iii) Not less than sixty (60) days before the expiration of the response period for any action required by the Patent and Trademark Office, notify the Patent Counsel of any decision not to continue prosecution of the application.
 
 (iv) Upon request, the Contractor shall furnish the Government an irrevocable power to inspect and make copies of the patent application file.
 
@@ -84,11 +82,11 @@ Patent Rights—Acquisition by the Government (SEP 1997)
 
 (e) *Invention identification, disclosures, and reports.* (1) The Contractor shall establish and maintain active and effective procedures to assure that subject inventions are promptly identified and disclosed to Contractor personnel responsible for patent matters within 6 months of conception and/or first actual reduction to practice, whichever occurs first in the performance of work under this contract. These procedures shall include the maintenance of laboratory notebooks or equivalent records and other records as are reasonably necessary to document the conception and/or the first actual reduction to practice of subject inventions, and records that show that the procedures for identifying and disclosing the inventions are followed. Upon request, the Contractor shall furnish the Contracting Officer a description of such procedures for evaluation and for determination as to their effectiveness.
 
-(2) The Contractor shall disclose each subject invention to the DOE Patent Counsel with a copy to the Contracting Officer within 2 months after the inventor discloses it in writing to Contractor personnel responsible for patent matters or, if earlier, within 6 months after the Contractor becomes aware that a subject invention has been made, but in any event before any on sale, public use, or publication of such invention known to the Contractor. The disclosure to DOE shall be in the form of a written report and shall identify the contract under which the invention was made and the inventor(s). It shall be sufficiently complete in technical detail to convey a clear understanding, to the extent known at the time of the disclosure, of the nature, purpose, operation, and physical, chemical, biological, or electrical characteristics of the invention. The disclosure shall also identify any publication, on sale, or public use of the invention and whether a manuscript describing the invention has been submitted for publication and, if so, whether it has been accepted for publication at the time of disclosure. In addition, after disclosure to DOE, the Contractor shall promptly notify Patent Counsel of the acceptance of any manuscript describing the invention for publication or of any on sale or public use planned by the Contractor. The report should also include any request for a greater rights determination in accordance with subparagraph (b)(2) of this clause. When an invention is disclosed to DOE under this paragraph, it shall be deemed to have been made in the manner specified in Sections (a)(1) and (a)(2) of 42 U.S.C. 5908, unless the Contractor contends in writing at the time the invention is disclosed that is was not so made.
+(2) Unless otherwise directed by DOE Patent Counsel, the Contractor shall disclose each subject invention to DOE through the iEdison invention management system within 2 months after the inventor discloses it in writing to Contractor personnel responsible for patent matters or, if earlier, within 6 months after the Contractor becomes aware that a subject invention has been made, but in any event before any on sale, public use, or publication of such invention known to the Contractor. The disclosure to DOE shall be in the form of a written report and shall identify the contract under which the invention was made and the inventor(s). It shall be sufficiently complete in technical detail to convey a clear understanding, to the extent known at the time of the disclosure, of the nature, purpose, operation, and physical, chemical, biological, or electrical characteristics of the invention. The disclosure shall also identify any publication, on sale, or public use of the invention and whether a manuscript describing the invention has been submitted for publication and, if so, whether it has been accepted for publication at the time of disclosure. In addition, after disclosure to DOE, the Contractor shall promptly notify Patent Counsel of the acceptance of any manuscript describing the invention for publication or of any on sale or public use planned by the Contractor. The report should also include any request for a greater rights determination in accordance with paragraph (b)(2) of this clause. When an invention is disclosed to DOE under this paragraph, it shall be deemed to have been made in the manner specified in sections (a)(1) and (a)(2) of 42 U.S.C. 5908, unless the Contractor contends in writing at the time the invention is disclosed that it was not so made.
 
 (3) The Contractor shall furnish the Contracting Officer the following:
 
-(i) Interim reports every 12 months (or such longer period as may be specified by the Contracting Officer) from the date of the contract, listing all subject inventions during that period, and including a statment that all subject inventions have been disclosed (or that there are not such inventions), and that such disclosure has been made in accordance with the procedures required by paragraph (e)(1) of this clause.
+(i) Interim reports every 12 months (or such longer period as may be specified by the Contracting Officer) from the date of the contract, listing all subject inventions during that period, and including a statement that all subject inventions have been disclosed (or that there are not such inventions), and that such disclosure has been made in accordance with the procedures required by paragraph (e)(1) of this clause.
 
 (ii) A final report, within 3 months after completion of the contracted work listing all subject inventions or containing a statement that there were no such inventions, and listing all subcontracts at any tier containing a patent right clause or containing a statement that there were no such subcontracts.
 
@@ -128,7 +126,7 @@ Patent Rights—Acquisition by the Government (SEP 1997)
 
 (4) The Contracting Officer may decrease or increase the sums withheld up to the maximum authorized above. No amount shall be withheld under this paragraph while the amount specified by this paragraph is being withheld under other provisions of the contract. The withholding of any amount or the subsequent payment thereof shall not be construed as a waiver of any Government rights.
 
-(h) *Subcontracts.* (1) The contractor shall include the clause at 48 CFR 952.227-11 (suitably modified to identify the parties) in all subcontracts, regardless of tier, for experimental, developmental, demonstration, or research work to be performed by a small business firm or domestic nonprofit organization, except where the work of the subcontract is subject to an Exceptional Circumstances Determination by DOE. In all other subcontracts, regardless of tier, for experimental, developmental, demonstration, or research work, the contractor shall include this clause (suitably modified to identify the parties). The contractor shall not, as part of the consideration for awarding the subcontract, obtain rights in the subcontractor's subject inventions.
+(h) *Subcontracts.*(1) The contractor shall include the clause at 37 CFR 401.14 (suitably modified to identify the parties) in all subcontracts, regardless of tier, for experimental, developmental, demonstration, or research work to be performed by a small business firm or domestic nonprofit organization, except where the work of the subcontract is subject to an Exceptional Circumstances Determination by DOE or another exception in 37 CFR 401.3(a). In all other subcontracts, regardless of tier, for experimental, developmental, demonstration, or research work, the contractor shall include this clause (suitably modified to identify the parties). The contractor shall not, as part of the consideration for awarding the subcontract, obtain rights in the subcontractor's subject inventions.
 
 (2) In the event of a refusal by a prospective subcontractor to accept such a clause the Contractor—
 
@@ -148,7 +146,29 @@ Patent Rights—Acquisition by the Government (SEP 1997)
 
 (2) Except as otherwise authorized in writing by the Contracting Officer, the Contractor will obtain patent agreements to effectuate the provisions of subparagraph (e)(1) of this clause from all persons who perform any part of the work under this contract, except nontechnical personnel, such as clerical employees and manual laborers.
 
-(k) *Background patents.* (1) *Background patent* means a domestic patent covering an invention or discovery which is not a subject invention and which is owned or controlled by the Contractor at any time through the completion of this contract:
+(k) *Publication.* It is recognized that during the course of the work under this contract, the Contractor or its employees may from time to time desire to release or publish information regarding scientific or technical developments conceived or first actually reduced to practice in the course of or under this contract. In order that public disclosure of such information will not adversely affect the patent interests of DOE or the Contractor, patent approval for release of publication shall be secured from Patent Counsel prior to any such release or publication.
+
+(l) *Forfeiture of rights in unreported subject inventions.* (1) The Contractor shall forfeit and assign to the Government, at the request of the Secretary of Energy or designee, all rights in any subject invention which the Contractor fails to report to Patent Counsel within six months after the time the Contractor:
+
+(i) Files or causes to be filed a United States or foreign patent application thereon; or
+
+(ii) Submits the final report required by subparagraph (e)(2)(ii) of this clause, whichever is later.
+
+(2) However, the Contractor shall not forfeit rights in a subject invention if, within the time specified in paragraph (l)(1) of this clause, the Contractor:
+
+(i) Prepares a written decision based upon a review of the record that the invention was neither conceived nor first actually reduced to practice in the course of or under the contract and delivers the decision to Patent Counsel, with a copy to the Contracting Officer; or
+
+(ii) Contending that the invention is not a subject invention, the Contractor nevertheless discloses the invention and all facts pertinent to this contention to the Patent Counsel, with a copy to the Contracting Officer; or
+
+(iii) Establishes that the failure to disclose did not result from the Contractor's fault or negligence.
+
+(3) Pending written assignment of the patent application and patents on a subject invention determined by the Secretary of Energy or designee to be forfeited (such determination to be a final decision under the Disputes clause of this contract), the Contractor shall be deemed to hold the invention and the patent applications and patents pertaining thereto in trust for the Government. The forfeiture provision of this paragraph (l) shall be in addition to and shall not supersede other rights and remedies which the Government may have with respect to subject inventions.
+
+(End of clause)
+
+*Alternate I* [December 2024]. As prescribed in 927.303(d)(5), insert Alternate I under special circumstances to provide for a right to require licensing of third parties to background inventions:
+
+(m) *Background patents.* (1) *Background patent* means a domestic patent covering an invention or discovery which is not a subject invention, and which is owned or controlled by the Contractor at any time through the completion of this contract:
 
 (i) Which the contractor, but not the Government, has the right to license to others without obligation to pay royalties thereon, and
 
@@ -158,28 +178,24 @@ Patent Rights—Acquisition by the Government (SEP 1997)
 
 (3) The Contractor also agrees that upon written application by DOE, it will grant to responsible parties, for purposes of practicing a subject of this contract, nonexclusive licenses under any background patent on terms that are reasonable under the circumstances. If, however, the Contractor believes that exclusive rights are necessary to achieve expeditious commercial development or utilization, then a request may be made to DOE for DOE approval of such licensing by the Contractor.
 
-(4) Notwithstanding subparagraph (k)(3) of this clause, the contractor shall not be obligated to license any background patent if the Contractor demonstrates to the satisfaction of the Secretary of Energy or designee that:
+(4) Notwithstanding paragraph (m)(3) of this clause, the contractor shall not be obligated to license any background patent if the Contractor demonstrates to the satisfaction of the Secretary of Energy or designee that:
 
 (i) A competitive alternative to the subject matter covered by said background patent is commercially available or readily introducible from one or more other sources; or
 
-(ii) The Contractor or its licensees are supplying the subject matter covered by said background patent in sufficient quantity and at reasonable prices to satisfy market needs, or have taken effective steps or within a reasonable time are expected to take effective steps to so supply the subject matter.
+(ii) The Contractor or its licensees are supplying the subject matter covered by said background patent in sufficient quantity and at reasonable prices to satisfy market needs or have taken effective steps or within a reasonable time are expected to take effective steps to so supply the subject matter.
 
-(l) *Publication.* It is recognized that during the course of the work under this contract, the Contractor or its employees may from time to time desire to release or publish information regarding scientific or technical developments conceived or first actually reduced to practice in the course of or under this contract. In order that public disclosure of such information will not adversely affect the patent interests of DOE or the Contractor, patent approval for release of publication shall be secured from Patent Counsel prior to any such release or publication.
+(End of alternate)
 
-(m) *Forfeiture of rights in unreported subject inventions.* (1) The Contractor shall forfeit and assign to the Government, at the request of the Secretary of Energy or designee, all rights in any subject invention which the Contractor fails to report to Patent Counsel within six months after the time the Contractor:
+*Alternate II* [December 2024]. As prescribed in 927.303(d), the following modifications must be made when the “Department of Energy Determination of Exceptional Circumstances under the Bayh-Dole Act to Further Promote Domestic Manufacture of DOE Science and Energy Technologies” applies:
 
-(i) Files or causes to be filed a United States or foreign patent application thereon; or
+The Contracting Officer shall insert the phrase “or upon a breach of paragraph (n) of this clause” after “fails to disclose the subject invention within the times specified in paragraph (e)(2) of this clause” in the first sentence of paragraph (d)(1).
 
-(ii) Submits the final report required by subparagraph (e)(2)(ii) of this clause, whichever is later.
+The Contracting Officer shall insert the following paragraph (n):
 
-(2) However, the Contractor shall not forfeit rights in a subject invention if, within the time specified in subparagraph (m)(1) of this clause, the Contractor:
+(n) *U.S. Competitiveness.* With regard to the license granted in paragraph (d)(1) of this clause, the Contractor agrees that any products embodying any subject invention or produced through the use of any subject invention will be manufactured substantially in the United States unless the Contractor can show to the satisfaction of DOE that it is not commercially feasible. In the event DOE agrees to foreign manufacture, there will be a requirement that the Government's support of the technology be recognized in some appropriate manner, *e.g.,* alternative binding commitments to provide an overall net benefit to the U.S. economy. The Contractor agrees that it will not license, assign or otherwise transfer any subject invention to any entity, at any tier, unless that entity agrees to these same requirements. Should the Contractor or other such entity receiving rights in the invention(s):
 
-(i) Prepares a written decision based upon a review of the record that the invention was neither conceived nor first actually reduced to practice in the course of or under the contract and delivers the decision to Patent Counsel, with a copy to the Contracting Officer; or
+(1) Undergo a change in ownership amounting to a controlling interest, or
 
-(ii) Contending that the invention is not a subject invention, the Contractor nevertheless discloses the invention and all facts pertinent to this contention to the Patent Counsel, with a copy to the Contracting Officer; or
+(2) Sell, assign, or otherwise transfer title or exclusive rights in the invention(s), then the assignment, license, or other transfer of rights in the subject invention(s) is/are suspended until approved in writing by DOE. The Contractor and any successor assignee will convey to DOE, upon written request from DOE, title to any subject invention, upon a breach of this paragraph. The Contractor will include this paragraph in all subawards/contracts, regardless of tier, for experimental, developmental or research work.
 
-(iii) Establishes that the failure to disclose did not result from the Contractor's fault or negligence.
-
-(3) Pending written assignment of the patent application and patents on a subject invention determined by the Secretary of Energy or designee to be forfeited (such determination to be a final decision under the Disputes clause of this contract), the Contractor shall be deemed to hold the invention and the patent applications and patents pertaining thereto in trust for the Government. The forfeiture provision of this paragraph (m) shall be in addition to and shall not supersede other rights and remedies which the Government may have with respect to subject inventions.
-
-(End of clause)[60 FR 11819, Mar. 2, 1995, as amended at 62 FR 42075, Aug. 5, 1997; 63 FR 10507, Mar. 4, 1998; 67 FR 14872, Mar. 28, 2002]
+(End of alternate)[60 FR 11819, Mar. 2, 1995, as amended at 62 FR 42075, Aug. 5, 1997; 63 FR 10507, Mar. 4, 1998; 67 FR 14872, Mar. 28, 2002; 89 FR 89768, Nov. 13, 2024]

@@ -1,5 +1,7 @@
 ##### § 54.1011 5G Fund. #####
 
+Link to an amendment published at 89 FR 101398, Dec. 13, 2024.
+
 (a) The Commission will use competitive bidding, as provided in part 1, subpart AA, of this chapter, to determine the recipients of support available through the 5G Fund and the amount(s) of support that they may receive for specific geographic areas, subject to applicable post-auction procedures.
 
 (b) 5G Fund support will be awarded in two phases using multi-round, descending clock auctions.

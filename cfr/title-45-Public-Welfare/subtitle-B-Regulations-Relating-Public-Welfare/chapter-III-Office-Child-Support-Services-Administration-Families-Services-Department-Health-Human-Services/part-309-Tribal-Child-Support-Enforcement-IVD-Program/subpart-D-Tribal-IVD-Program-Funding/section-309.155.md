@@ -1,6 +1,6 @@
 ##### § 309.155 What uses of Tribal IV-D program funds are not allowable? #####
 
-Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 100810, Dec. 13, 2024.
 
 Federal IV-D funds may not be used for:
 

@@ -1,5 +1,7 @@
 ##### § 274a.13 Application for employment authorization. #####
 
+Link to an amendment published at 89 FR 101267, Dec. 13, 2024.
+
 (a) *Application.* An alien requesting employment authorization or an Employment Authorization Document (Form I-766), or both, may be required to apply on a form designated by USCIS with any prescribed fee(s) in accordance with the form instructions. An alien may file such request concurrently with a related benefit request that, if granted, would form the basis for eligibility for employment authorization, only to the extent permitted by the form instructions or as announced by USCIS on its Web site.
 
 (1) The approval of applications filed under 8 CFR 274a.12(c), except for 8 CFR 274a.12(c)(8), are within the discretion of USCIS. Where economic necessity has been identified as a factor, the alien must provide information regarding his or her assets, income, and expenses.

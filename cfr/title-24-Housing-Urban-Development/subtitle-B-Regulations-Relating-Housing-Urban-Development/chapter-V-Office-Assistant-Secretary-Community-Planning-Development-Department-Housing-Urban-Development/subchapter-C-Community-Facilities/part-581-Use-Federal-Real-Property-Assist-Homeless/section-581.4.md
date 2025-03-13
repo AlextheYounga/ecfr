@@ -1,29 +1,29 @@
 ##### § 581.4 Suitability determination. #####
 
-Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+(a) *Suitability determination.* Within 30 days after the receipt of a completed property checklist from landholding agencies either in response to a quarterly canvass, or between canvasses, HUD will determine, using the criteria set forth in § 581.6 whether a property is suitable for use to assist the homeless and report its determination to the landholding agency. Properties that are under lease, contract, license, or agreement by which a Federal agency retains a real property interest or which are scheduled to become unutilized or underutilized will be reviewed for suitability no earlier than six months prior to the expected date when the property will become unutilized or underutilized.
 
-(a) *Suitability determination.* Within 30 days after the receipt of information from landholding agencies regarding properties which were reported pursuant to the canvass described in § 581.3(a), HUD will determine, under criteria set forth in § 581.6, which properties are suitable for use as facilities to assist the homeless and report its determination to the landholding agency. Properties that are under lease, contract, license, or agreement by which a Federal agency retains a real property interest or which are scheduled to become unutilized or underutilized will be reviewed for suitability no earlier than six months prior to the expected date when the property will become unutilized or underutilized, except that properties subject to the Base Closure and Realignment Act may be reviewed up to eighteen months prior to the expected date when the property will become unutilized or underutilized.
-
-(b) *Scope of suitability.* HUD will determine the suitability of a property for use as a facility to assist the homeless without regard to any particular use.
+(b) *Scope of suitability.* HUD will determine the suitability of a property for use to assist the homeless without regard to any particular use.
 
 (c) *Environmental information.* HUD will evaluate the environmental information contained in property checklists forwarded to HUD by the landholding agencies solely for the purpose of determining suitability of properties under the criteria in § 581.6.
 
-(d) *Written record of suitability determination.* HUD will assign an identification number to each property reviewed for suitability. HUD will maintain a written public record of the following:
+(d) *Record of suitability determination.* HUD will assign an identification number to each property reviewed for suitability. HUD will maintain a public record of the following:
 
 (1) The suitability determination for a particular piece of property, and the reasons for that determination; and
 
 (2) The landholding agency's response to the determination pursuant to the requirements of § 581.7(a).
 
-(e) *Property determined unsuitable.* Property that is reviewed by HUD under this section and that is determined unsuitable for use to assist the homeless may not be made available for any other purpose for 20 days after publication in the Federal Register of a Notice of unsuitability to allow for review of the determination at the request of a representative of the homeless.
+(e) *Property determined unsuitable.* Property that is reviewed by HUD under this section and that is determined unsuitable for use to assist the homeless may not be made available for any other purpose for 20 days after publication of a notice of unsuitability on the HUD website.
 
-(f) *Procedures for appealing unsuitability determinations.* (1) To request review of a determination of unsuitability, a representative of the homeless must contact HUD within 20 days of publication of notice in the Federal Register that a property is unsuitable. Requests may be submitted to HUD in writing or by calling 1-800-927-7588 (Toll Free). Written requests must be received no later than 20 days after notice of unsuitability is published in the Federal Register.
+(f) *Procedures for appealing unsuitability determinations.* (1) To request review of a determination of unsuitability, a representative of the homeless must contact HUD, in writing, through the U.S. Mail, email, or the HUD website, or such other method as HUD may require, within 20 days of publication of the notice of unsuitability.
 
-(2) Requests for review of a determination of unsuitability may be made only by representatives of the homeless, as defined in § 581.1.
+(2) Requests for review of a determination of unsuitability may be made only by representatives of the homeless.
 
-(3) The request for review must specify the grounds on which it is based, i.e., that HUD has improperly applied the criteria or that HUD has relied on incorrect or incomplete information in making the determination (e.g., that property is in a floodplain but not in a floodway).
+(3) The request for review must specify the grounds on which it is based, *i.e.,* HUD has improperly applied the criteria or HUD has relied on incorrect or incomplete information in making the determination (*e.g.,* that property is in a floodplain but not in a floodway).
 
-(4) Upon receipt of a request to review a determination of unsuitability, HUD will notify the landholding agency that such a request has been made, request that the agency respond with any information pertinent to the review, and advise the agency that it should refrain from initiating disposal procedures until HUD has completed its reconsideration regarding unsuitability.
+(4) Upon receipt of a request to review a determination of unsuitability, HUD will notify the landholding agency or GSA that such a request has been made. The landholding agency or GSA shall have 20 days from receipt of the notice from HUD, or an extended period agreed to between HUD and the landholding agency or GSA, to provide any information pertinent to the review. The landholding agency or GSA must refrain from initiating disposal procedures until HUD has completed its reconsideration regarding unsuitability. If the landholding agency or GSA fails to meet the deadline, HUD will move forward with the appeal review with the property information it already has and information submitted in the appeal request provided by the representative of the homeless.
 
-(i) HUD will act on all requests for review within 30 days of receipt of the landholding agency's response and will notify the representative of the homeless and the landholding agency in writing of its decision.
+(i) HUD will act on all requests for review within 30 days of receipt of the landholding agency's or GSA's response, or, if the landholding agency or GSA failed to meet the deadline, within 30 days of such deadline, and will notify the representative of the homeless and the landholding agency or GSA in writing of its decision.
 
-(ii) If a property is determined suitable as a result of the review, HUD will request the landholding agency's determination of availability pursuant to § 581.7(a), upon receipt of which HUD will promptly publish the determination in the Federal Register. If the determination of unsuitability stands, HUD will inform the representative of the homeless of its decision.
+(ii) If a property is determined suitable as a result of the review, HUD will request the landholding agency's or GSA's determination of availability pursuant to § 581.7, upon receipt of which HUD will promptly publish the determination on the HUD website.
+
+[89 FR 89881, Nov. 13, 2024]

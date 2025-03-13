@@ -1,5 +1,7 @@
 ##### § 54.1018 Annual reports. #####
 
+Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
+
 (a) A 5G Fund support recipient authorized to receive 5G Fund support shall submit an annual report to the Administrator no later than July 1 of each year after the year in which it was authorized to receive support. Each support recipient shall certify in its annual report that it is in compliance with the public interest obligations, performance requirements, and all of the terms and conditions associated with the receipt of 5G Fund support in order to continue receiving 5G Fund support disbursements.
 
 (b) All 5G Fund support recipients shall supplement the information provided in an annual report to the Administrator within 10 business days from the onset of any reduction in the percentage of the total eligible square kilometers being served in a state after the filing of an annual certification report or in the event of any failure to comply with any of the 5G Fund requirements.

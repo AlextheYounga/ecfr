@@ -1,5 +1,7 @@
 ##### § 880.606 Lease requirements. #####
 
+Link to an amendment published at 89 FR 101303, Dec. 13, 2024.
+
 (a) *Term of Lease.* The term of the lease will be for not less than one year. The lease may, or in the case of a lease for a term of more than one year must, contain a provision permitting termination on 30 days advance written notice by the family.
 
 (b) *Form*—(1) *Part 880 and 24 CFR part 881 projects.* For this part 880 and 24 CFR part 881 projects, the form of lease must contain all required provisions, and none of the prohibited provisions specified in the developer's packet, and must conform to the form of lease included in the approved final proposal.

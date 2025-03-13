@@ -1,8 +1,6 @@
 ##### 970.5227-8 Refund of royalties. #####
 
-Link to an amendment published at 89 FR 89811, Nov. 13, 2024.
-
-Insert the following clause in solicitations and contracts in accordance with 970.2702-4:
+Insert the following clause in solicitations and contracts in accordance with 970.2702-70:
 
 Refund of Royalties (AUG 2002)
 
@@ -38,4 +36,4 @@ Refund of Royalties (AUG 2002)
 
 (h) The Contractor agrees to include, and require inclusion of, this clause, including this paragraph (h), suitably modified to identify the parties in any subcontract at any tier in which the amount of royalties reported during negotiation of the subcontract exceeds $250.
 
-(End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 67 FR 48570, July 25, 2002]
+(End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 67 FR 48570, July 25, 2002; 89 FR 89811, Nov. 13, 2024]

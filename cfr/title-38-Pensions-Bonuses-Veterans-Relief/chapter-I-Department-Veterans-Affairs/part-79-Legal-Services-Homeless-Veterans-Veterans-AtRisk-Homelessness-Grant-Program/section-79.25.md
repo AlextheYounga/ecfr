@@ -1,7 +1,5 @@
 ##### § 79.25 Applications for legal services grants. #####
 
-Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
-
 (a) To apply for a legal services grant, an applicant must submit to VA a complete legal services grant application package, as described in the NOFO. A complete legal services grant application package includes the following:
 
 (1) A description of the legal services to be provided by the applicant and the identified need for such legal services among eligible veterans;
@@ -45,3 +43,5 @@ Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
 (b) Subject to funding availability, grantees may submit an application for renewal of a legal services grant if the grantee's program will remain substantially the same. To apply for renewal of a legal services grant, a grantee must submit to VA a complete legal services grant renewal application package, as described in the NOFO.
 
 (c) VA may request in writing that an applicant or grantee, as applicable, submit other information or documentation relevant to the legal services grant application.
+
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0905)[87 FR 33041, June 1, 2022, as amended at 89 FR 89501, Nov. 13, 2024]

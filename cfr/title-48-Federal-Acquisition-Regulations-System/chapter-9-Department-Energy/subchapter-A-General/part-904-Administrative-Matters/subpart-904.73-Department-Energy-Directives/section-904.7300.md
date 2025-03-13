@@ -1,0 +1,3 @@
+##### 904.7300 General. #####
+
+The contractor is required to comply with the requirements of applicable Federal, State, and local laws and regulations, unless relief has been granted by the appropriate authority. Additionally, the Department of Energy (DOE) Directives Program is a system of instructions, including orders, notices, manuals, guides, and standards, for DOE elements. In certain circumstances, DOE will apply requirements contained in these directives to a contract. In these circumstances, program and requirements personnel will be responsible for identifying the requirements that are applicable to the contract and for providing a list of applicable requirements to the Contracting Officer for inclusion in the contract.

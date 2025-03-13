@@ -1,14 +1,10 @@
 ##### § 79.5 Definitions. #####
 
-Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
-
 For purposes of this part and any Notice of Funding Opportunity (NOFO) issued under this part:
 
 *Applicant* means an eligible entity that submits an application for a legal services grant announced in a NOFO.
 
 *At risk for homelessness* means an individual who meets the criteria identified in § 79.15(b).
-
-*Direct Federal financial assistance* means Federal financial assistance received by an entity selected by the Government or a pass-through entity as defined in 38 CFR 50.1(d) to provide or carry out a service (*e.g.,* by contract, grant, or cooperative agreement).
 
 *Disallowed costs* means costs charged by a grantee that VA determines to be unallowable based on applicable Federal cost principles or based on this part or the legal services grant agreement.
 
@@ -21,8 +17,6 @@ For purposes of this part and any Notice of Funding Opportunity (NOFO) issued un
 *Homeless veteran* means a veteran who is homeless as that term is defined in subsection (a) or (b) of section 103 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302).
 
 *Indian tribe* has the meaning as given that term in in 25 U.S.C. 4103.
-
-*Indirect Federal financial assistance* means Federal financial assistance in which a service provider receives program funds through a voucher, certificate, agreement or other form of disbursement, as a result of the genuine, independent choice of a participant.
 
 *Legal services* means the services listed in § 79.20.
 
@@ -55,3 +49,5 @@ For purposes of this part and any Notice of Funding Opportunity (NOFO) issued un
 *Veteran* has the meaning given to that term in 38 U.S.C. 101(2).
 
 *Withholding* means that payment of a legal services grant will not be paid until such time as VA determines that the grantee provides sufficiently adequate documentation and/or actions to correct a deficiency for the legal services grant.
+
+[87 FR 33041, June 1, 2022, as amended at 89 FR 89501, Nov. 13, 2024]

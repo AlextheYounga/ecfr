@@ -1,5 +1,7 @@
 ##### § 90.179 Shared use of radio stations. #####
 
+Link to an amendment published at 89 FR 100851, Dec. 13, 2024.Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+
 Licensees of radio stations authorized under this rule part may share the use of their facilities. A station is shared when persons not licensed for the station control the station for their own purposes pursuant to the licensee's authorization. Shared use of a radio station may be either on a non-profit cost shared basis or on a for-profit private carrier basis. Shared use of an authorized station is subject to the following conditions and limitations:
 
 (a) Persons may share a radio station only on frequencies for which they would be eligible for a separate authorization.

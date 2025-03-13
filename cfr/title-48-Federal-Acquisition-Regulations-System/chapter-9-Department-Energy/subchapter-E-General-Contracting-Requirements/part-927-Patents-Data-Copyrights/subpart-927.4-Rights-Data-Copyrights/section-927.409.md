@@ -1,0 +1,35 @@
+##### 927.409 Solicitation provisions and contract clauses. #####
+
+(a) The contracting officer shall insert the clause at FAR 52.227-14, Rights in Data-General, and supplement it with Alternates I and V of FAR 52.227-14 and Alternate VIII of FAR 952.227-14, Rights in Data-General, in solicitations and contracts if it is contemplated that data will be produced, furnished, or acquired under the contract. Generally, a contract should contain only one data rights clause. However, where more than one is needed as prescribed in paragraph (b) of this section, the contact should distinguish the portion of contract performance to which each pertains.
+
+(b)(1) However, the rights in data in specific situations will be treated as described, where the contract is—
+
+(i) For the production of special works of the type set forth in FAR 27.405-1, the Patent Counsel shall insert the clause at FAR 52.227-17, Rights in Data-Special Works, including Alternate I. The clause at FAR 52.227-14, Rights in Data-General, may be included in the contract and made applicable to data other than special works, as appropriate (see paragraph (e) of FAR 27.409);
+
+(ii) For the acquisition of existing data works, as described in FAR 27.405-2 (see paragraph (f) of FAR 27.409);
+
+(iii) To be performed outside the United States, its possessions, and Puerto Rico, in which case agencies may prescribe different clauses (see paragraph (i) of FAR 27.409);
+
+(iv) For architect-engineer services or construction work, in which case the Patent Counsel shall utilize the clause at FAR 52.227-17, Rights in Data-Special Works, including Alternate I;
+
+(v) A Small Business Innovation Research contract (see paragraph (h) of FAR 27.409);
+
+(vi) For management and operation of a DOE facility (see 970.2704) or other contracts involving the production of data necessary for the management or operation of DOE facilities or a DOE site, certain decontamination and decommissioning activities, or the building and/or operation of other DOE facilities, after consultation with Patent Counsel (see 927.402-1(b));
+
+(vii) Awarded pursuant to a statute expressly providing authority for the protection of data first produced thereunder from disclosure or dissemination. (see 927.404-70);
+
+(viii) For basic or applied research with educational institutions (other than those in which software is specified for delivery unless the software will be released as open source software or other special circumstances exist), the Patent Counsel may use the clause at FAR 52.227-14 with its Alternate IV instead of Alternate VIII of the clause at FAR 952.227-14, Rights in Data-General;
+
+(ix)(A) Requiring license rights that are deemed necessary, the Patent Counsel should supplement the clause at FAR 52.227-14, Rights in Data—General, with Alternate VI, as provided at 952.227-14, Rights in Data—General, which will normally be sufficient to cover limited rights data and restricted computer software for items and processes used in the contract and necessary to ensure widespread commercial use or practical utilization of a subject of the contract. The phrase “subject of the contract” in Alternate VI is intended to limit licensing to the fields of technology specifically contemplated under the contract; the phrase may be replaced by a more specific statement of the fields of technology intended to be covered in the manner described in the clause at 952.227-13, Patent Rights—Ownership by the Government.
+
+(B) Where limited rights data and restricted computer software are the main purpose or basic technology of the research, development, or demonstration effort of the contract (rather than subcomponents, products, or processes ancillary to the contract effort), the limitations in paragraphs (k)(1) through (4) of Alternate VI of the clause at 952.227-14 should be supplemented or deleted. Paragraph (k) of Alternate VI further provides that limited rights data or restricted computer software may be specified in the contract as being excluded from or not subject to the licensing requirements. This exclusion is implemented by limiting the applicability of the provisions of paragraph (k) of Alternate VI to only those classes or categories of limited rights data and restricted computer software determined essential for licensing. Although contractor licensing may be required under paragraph (k) of Alternate VI, the final resolution of questions regarding the scope of such licenses and the terms thereof, including provisions for confidentiality, and reasonable royalties, is left to the negotiation between the contractor and the Contracting Officer; or
+
+(x) Where the contractor has access to certain categories of DOE-owned Category C-24 restricted data, as set forth in 10 CFR part 725, Alternate VII of 952.227-14, Rights in Data-General, shall be used. DOE has reserved the right to receive reasonable compensation for the use of its inventions and discoveries, including its related data and technology. In addition, in any other types of contracting situations in which the contractor may be given access to restricted data owned by DOE, appropriate limitations on the use of such data must be specified.
+
+(d) The contracting officer shall insert the clause at FAR 52.227-16, Additional Data Requirements, in solicitations and contracts involving experimental, developmental, research, or demonstration work (other than basic or applied research to be performed solely by a university or college where the contract amount will be $500,000 or less.) See FAR 27.406-2. Patent Counsel may use the clause at FAR 52.227-16, Additional Data Requirements, along with the clause at FAR 52.227-14, Rights in Data—General, to require the contractor to furnish additional technical data, in instances where technical data requirements were not known at the time of award. There is, however, a built-in limitation on the kind of technical data that a contractor may be required to deliver under either the contract or the Additional Data Requirements clause. This limitation is in the withholding provision of paragraph (g) of FAR 52.227-14, Rights in Data—General, which provides that the contractor need not furnish limited rights data or restricted computer software. Unless Alternate II or III to the clause at FAR 52.227-14 is used, the Additional Data Rights clause is specifically intended that the contractor may withhold limited rights data or restricted computer software even though a requirement for technical data specified in the contract or called for delivery (pursuant to the clause at FAR 52.227-16) would otherwise require the delivery of such data.
+
+(m) Contracting officers shall incorporate the solicitation provision at FAR 52.227-23, Rights to Proposal Data (Technical), in all requests for proposals.
+
+(n) Contracting officers shall include the solicitation provision at 952.227-84 in all solicitations involving research, developmental, or demonstration work.
+
+[89 FR 89757, Nov. 13, 2024]

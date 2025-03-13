@@ -1,10 +1,8 @@
-##### § 302-3.500 What governing policies and procedures must we establish for paying a relocation allowance under this part 302-3? #####
+##### § 302-3.500 What governing policies and procedures must we establish for authorization and payment of relocation allowances? #####
 
-Link to an amendment published at 89 FR 89504, Nov. 13, 2024.
+You must establish governing policies and procedures that determine:
 
-You must establish how you will implement policies that are required for this part, which include;
-
-(a) When you will pay relocation expenses if an employee violates their service agreement;
+(a) When you will pay relocation expenses if an employee violates their service agreement (see § 302-2.110 of this chapter);
 
 (b) When you will authorize separate relocation allowances to an employee and an employee's immediate family member that are both transferring to the same official station;
 
@@ -22,4 +20,4 @@ You must establish how you will implement policies that are required for this pa
 
 (i) When you will pay for the cost of storing, or provide for the storage without charge, of one POV when an employee is assigned a TCS in support of a contingency operation as defined in 10 U.S.C. 1482a(c)(2) and under part 302-9 of this chapter.
 
-[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2011-06, 76 FR 71889, Nov. 21, 2011; FTR Case 2022-05, 89 FR 12254, Feb. 16, 2024]
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2011-06, 76 FR 71889, Nov. 21, 2011; FTR Case 2022-05, 89 FR 12254, Feb. 16, 2024; FTR Case 2023-1, 89 FR 89504, Nov. 13, 2024]

@@ -1,0 +1,3 @@
+##### 904.7301 Contract clause. #####
+
+The Contracting Officer shall insert the clause at 952.204-78, DOE Directives, in non-management and operating contracts where the work will be performed on a DOE site and the contract will be subject to the requirements of DOE Directives. This includes information technology or cybersecurity work, as well as other work program officials identify as requiring the clause.

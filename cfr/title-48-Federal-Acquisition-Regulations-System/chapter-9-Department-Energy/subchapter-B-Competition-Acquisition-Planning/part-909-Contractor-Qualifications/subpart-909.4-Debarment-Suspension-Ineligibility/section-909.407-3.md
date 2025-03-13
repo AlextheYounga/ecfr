@@ -1,7 +1,5 @@
 ##### 909.407-3 Procedures. #####
 
-Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
-
 (b) *Decisionmaking process.* (1) In actions based on an indictment, the Suspending Official shall make a decision based upon the administrative record, which shall include submissions made by the contractor in accordance with 909.406-3(b)(1) and 909.406-3(b)(3).
 
 (2) For actions not based on an indictment, the procedures in 909.406-3(b)(2) and 48 CFR 9.407-3(b)(2) apply.
@@ -28,10 +26,10 @@ Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
 
 (vi) Modifications, if any, of the initial terms of the suspension;
 
-(vii) A statement that the respondent's name and address will be added to the EPLS; and
+(vii) A statement that the respondent's name and address will be added to the SAM exclusion; and
 
 (viii) If less than an entire organization is suspended, specification of the organizational element(s) or individual(s) included within the scope of the suspension.
 
 (2) If the Suspending Official decides to terminate a suspension, the Suspending Official shall promptly send, by certified mail, return receipt requested, each affected respondent a copy of the final decision required under this section.
 
-[61 FR 39857, July 31, 1996; 61 FR 41684, Aug. 9, 1996, as amended at 74 FR 36363, July 22, 2009; 76 FR 7692, Feb. 11, 2011]
+[61 FR 39857, July 31, 1996; 61 FR 41684, Aug. 9, 1996, as amended at 74 FR 36363, July 22, 2009; 76 FR 7692, Feb. 11, 2011; 89 FR 89748, Nov. 13, 2024]

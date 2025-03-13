@@ -1,29 +1,33 @@
 ##### § 581.2 Applicability. #####
 
-Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+(a) This part applies to Federal property that has been designated by Federal landholding agencies as unutilized, underutilized, excess, or surplus and is therefore subject to the provisions of Title V of the McKinney Act, as amended (42 U.S.C. 11411).
 
-(a) This part applies to Federal real property which has been designated by Federal landholding agencies as unutilized, underutilized, excess or surplus and is therefore subject to the provisions of title V of the McKinney Act (42 U.S.C. 11411).
+(b) The following categories of properties are not subject to this part (regardless of whether they may be unutilized or underutilized):
 
-(b) The following categories of properties are not subject to this subpart (regardless of whether they may be unutilized or underutilized).
+(1) Buildings and property at military installations that were approved for closure under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Pub. L. 101-510; 10 U.S.C. 2687 note) after October 25, 1994.
 
-(1) Machinery and equipment.
+(2) Machinery and equipment not determined to be related personal property by the landholding agency or GSA or determined to be related personal property that the landholding agency or GSA chooses to dispose of separate from real property.
 
-(2) Government-owned, contractor-operated machinery, equipment, land, and other facilities reported excess for sale only to the using contractor and subject to a continuing military requirement.
+(3) Government-owned, contractor-operated machinery, equipment, land, and other facilities reported excess for sale only to the using contractor and subject to a continuing military requirement.
 
-(3) Properties subject to special legislation directing a particular action.
+(4) Properties subject to special legislation directing a particular action.
 
-(4) Properties subject to a court order.
+(5) Properties subject to a court order that is binding on the Federal Government and, for any reason, precludes transfer for use to assist the homeless under the authority of 42 U.S.C. 11411.
 
-(5) Property not subject to survey requirements of Executive Order 12512 (April 29, 1985).
+(6) Property not subject to Federal Real Property Council reporting requirements in accordance with 40 U.S.C. 623(i).
 
-(6) Mineral rights interests.
+(7) Mineral rights interests independent of surface rights.
 
-(7) Air space interests.
+(8) Air space interests independent of surface rights.
 
-(8) Indian Reservation land subject to section 202(a)(2) of the Federal Property and Administrative Service Act of 1949, as amended.
+(9) Indian Reservation land subject to 40 U.S.C. 523.
 
-(9) Property interests subject to reversion.
+(10) Property interests subject to reversion.
 
-(10) Easements.
+(11) Easements.
 
-(11) Property purchased in whole or in part with Federal funds if title to the property is not held by a Federal landholding agency as defined in this part.
+(12) Any building or fixture that is excess, or surplus, that is on land under the control of a landholding agency, where the underlying land is not excess or surplus.
+
+(13) Property purchased in whole or in part with Federal funds if title to the property is not held by a Federal landholding agency as defined in this part.
+
+[89 FR 89881, Nov. 13, 2024]

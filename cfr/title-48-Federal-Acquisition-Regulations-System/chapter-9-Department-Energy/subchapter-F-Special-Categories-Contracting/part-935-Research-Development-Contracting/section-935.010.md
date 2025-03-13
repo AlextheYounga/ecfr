@@ -1,9 +1,7 @@
 ##### 935.010 Scientific and technical reports. #####
 
-Link to an amendment published at 89 FR 89759, Nov. 13, 2024.
+(c) For purposes of section 982 of the Energy Policy Act of 2005 (42 U.S.C. 16322), the research results, referred to as scientific and technical information (STI), are derived from management and operation (M&O), research and development (R&D), facility management, and non-major site/facility management type contracts. STI must be documented, managed, and electronically submitted to the Department of Energy (DOE), Office of Scientific and Technical Information (OSTI), using the DOE Energy Link System. DOE Order 241.1B, Scientific and Technical Information Management, or successor, sets forth requirements for STI management and the types of STI products to be announced and submitted to DOE OSTI. STI products identified in DOE Order 241.1B are reportable to OSTI whether publicly releasable, controlled unclassified information or classified.
 
-(c) All research and development contracts which require reporting of research and development results conveyed in scientific and technical information (STI) shall include an instruction requiring the contractor to submit all STI, including reports and notices relating thereto, electronically to the U.S. Department of Energy (DOE), Office of Scientific and Technical Information (OSTI), using the DOE Energy Link System (E-link) at *http://www.osti.gov/elink.* The phrase “reports and notices relating thereto” does not include reports or notices concerning administrative matters such as contract cost or financial data and information. The DOE Order 241.1B Scientific and Technical Information Management, or its successor version, sets forth requirements for STI management.
+(d) The Contracting Officer shall ensure that the requirements for STI management, as prescribed in DOE Order 241.1B, or its successor version, are included in accordance with the attendant Contractor Requirements Document or in the statement of work.
 
-(d) As prescribed in DOE Order 241.1B, the contracting officer shall ensure that the requirements of the attendant Contractor Requirements Document are included in applicable contracts.
-
-[75 FR 29458, May 26, 2010]
+[89 FR 89759, Nov. 13, 2024]

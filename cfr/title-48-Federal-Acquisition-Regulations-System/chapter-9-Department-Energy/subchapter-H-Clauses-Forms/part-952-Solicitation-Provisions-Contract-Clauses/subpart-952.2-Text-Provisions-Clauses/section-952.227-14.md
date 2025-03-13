@@ -1,8 +1,6 @@
-##### 952.227-14 Rights in data-general. (DOE coverage—alternates VI and VII) #####
+##### 952.227-14 Rights in data-general. #####
 
-Link to an amendment published at 89 FR 89770, Nov. 13, 2024.
-
-*Alternate VI* (FEB 1998) As prescribed at 48 CFR 927.404(l) insert Alternate VI to require the contractor to license data regarded as limited rights data or restricted computer software to the Government and third parties at reasonable royalties upon request by the Department of Energy.
+*Alternate VI* [December 2024] As prescribed at 927.409(b)(1)(ix), insert Alternate VI to require the contractor to license data regarded as limited rights data or restricted computer software to the Government and third parties at reasonable royalties upon request by the Department of Energy.
 
 (k) *Contractor licensing.* Except as may be otherwise specified in this contract as data not subject to this paragraph, the contractor agrees that upon written application by DOE, it will grant to the Government and responsible third parties, for purposes of practicing a subject of this contract, a nonexclusive license in any limited rights data or restricted computer software on terms and conditions reasonable under the circumstances including appropriate provisions for confidentiality; provided, however, the contractor shall not be obliged to license any such data if the contractor demonstrates to the satisfaction of the Secretary of Energy or designee that:
 
@@ -16,8 +14,14 @@ Link to an amendment published at 89 FR 89770, Nov. 13, 2024.
 
 (End of alternate)
 
-*Alternate VII* (FEB 1998) As prescribed in 48 CFR 927.404(m) make the change described in Alternate VII to limit the contractor's use of DOE restricted data.
+*Alternate VII* [December 2024] As prescribed in 927.409(b)(1), substitute the following for paragraph (b)(2)(i) of the clause at FAR 52.227-14:
 
-Insert the parenthetical phrase “(except Restricted Data in category C-24, 10 CFR part 725, in which DOE has reserved the right to receive reasonable compensation for the use of its inventions and discoveries, including related data and technology).” after the phrase “data first produced or specifically used by the Contractor in the performance of this contract” in paragraph (b)(2)(i) of the clause at FAR 52.227-14.
+(b)(2)(i) Assert copyright in data first produced in the performance of this contract (except Restricted Data in category C-24, 10 CFR part 725, in which DOE has reserved the right to receive reasonable compensation for the use of its inventions and discoveries, including related data and technology) to the extent provided in paragraph (c)(1) of this clause.
 
-(End of alternate)[63 FR 10507, Mar. 4, 1998]
+(End of alternate)
+
+*Alternate VIII* [December 2024] As prescribed in 927.409(a), substitute the following for paragraph (c)(1)(i) of the clause at FAR 52.227-14:
+
+(c) *Copyright*—(1) Data first produced in the performance of this contract. (i) Unless provided otherwise in paragraph (d) of this clause, the Contractor may, without prior approval of the Contracting Officer, assert copyright in scientific and technical articles based on or containing data first produced in the performance of this contract and published in academic, technical or professional journals, symposia proceedings, or similar works. The prior, express written permission of the DOE Patent Counsel is required to assert copyright in all other data first produced in the performance of this contract. When such permission is granted, the DOE Patent Counsel shall specify appropriate terms, conditions, and submission requirements to assure utilization, dissemination, and commercialization of the data. The Contractor, when requested, shall promptly deliver to Patent Counsel a duly executed and approved instrument fully confirmatory of all rights to which the Government is entitled.
+
+(End of alternate)[89 FR 89770, Nov. 13, 2024]

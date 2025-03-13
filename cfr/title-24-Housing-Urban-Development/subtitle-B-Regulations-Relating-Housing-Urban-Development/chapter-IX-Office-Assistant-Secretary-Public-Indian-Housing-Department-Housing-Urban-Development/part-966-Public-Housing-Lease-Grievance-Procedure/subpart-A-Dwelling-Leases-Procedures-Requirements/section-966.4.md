@@ -1,5 +1,7 @@
 ##### § 966.4 Lease requirements. #####
 
+Link to an amendment published at 89 FR 101303, Dec. 13, 2024.
+
 A lease shall be entered into between the PHA and each tenant of a dwelling unit which shall contain the provisions described hereinafter.
 
 (a) *Parties, dwelling unit and term.* (1) The lease shall state:

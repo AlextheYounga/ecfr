@@ -1,7 +1,5 @@
-##### 941.201-70 DOE Directives. #####
+##### 941.201-70 Policy. #####
 
-Link to an amendment published at 89 FR 89759, Nov. 13, 2024.
+Utility services shall be acquired in accordance with part 41 of this title and the Energy Policy Act of 2005 (EPAct 2005) (25 U.S.C. 3502). Pursuant to EPAct 2005, the requirement must be publicized appropriately, and pricing may not exceed prevailing market prices for energy. For Department of Energy (DOE) programs, Acquisition Plans for utility services shall be submitted to DOE's Federal Energy Management Program (FEMP) for review, technical input, and concurrence. For NNSA programs, FEMP review and technical input may be obtained, but FEMP concurrence is not required.
 
-Utility services (defined at 48 CFR 41.101) shall be acquired in accordance with 48 CFR part 41 and the Department of Energy (DOE) Order 430.2B, Departmental Energy, Renewable Energy and Transportation Management, or its successor.
-
-[75 FR 29458, May 26, 2010]
+[89 FR 89759, Nov. 13, 2024]

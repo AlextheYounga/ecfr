@@ -1,5 +1,7 @@
 ##### § 162.1102 Standards for health care claims or equivalent encounter information transaction. #####
 
+Link to an amendment published at 89 FR 100788, Dec. 13, 2024.
+
 The Secretary adopts the following standards for the health care claims or equivalent encounter information transaction:
 
 (a) For the period from October 16, 2003 through March 16, 2009:

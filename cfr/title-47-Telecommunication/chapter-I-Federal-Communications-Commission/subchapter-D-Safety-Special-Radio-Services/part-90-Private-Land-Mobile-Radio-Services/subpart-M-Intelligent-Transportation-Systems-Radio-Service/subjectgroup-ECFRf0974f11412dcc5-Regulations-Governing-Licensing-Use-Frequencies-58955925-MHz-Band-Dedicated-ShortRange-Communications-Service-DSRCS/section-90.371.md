@@ -1,5 +1,7 @@
 ##### § 90.371 Dedicated short range communications service. #####
 
+Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+
 (a) These provisions pertain to systems in the 5850-5925 MHz band for Dedicated Short-Range Communications Service (DSRCS). DSRCS systems use radio techniques to transfer data over short distances between roadside and mobile units, between mobile units, and between portable and mobile units to perform operations related to the improvement of traffic flow, traffic safety, and other intelligent transportation service applications in a variety of environments. DSRCS systems may also transmit status and instructional messages related to the units involved. DSRCS Roadside Units are authorized under this part. DSRCS On-Board Units are authorized under part 95 of this chapter.
 
 (b) DSRCS Roadside Units (RSUs) operating in the band 5850-5925 MHz shall not receive protection from Government Radiolocation services in operation prior to the establishment of the DSRCS station. Operation of DSRCS RSU stations within the radius centered on the locations listed in the table below must be coordinated through the National Telecommunications and Information Administration.

@@ -1,5 +1,7 @@
 ##### § 74.1204 Protection of FM broadcast, FM Translator and LP100 stations. #####
 
+Link to an amendment published at 89 FR 100877, Dec. 13, 2024.This amendment was delayed indefinitely at 89 FR 100877, Dec. 13, 2024.
+
 (a) An application for an FM translator station will not be accepted for filing if the proposed operation would involve overlap of predicted field contours with any other authorized commercial or noncommercial educational FM broadcast stations, FM translators, and Class D (secondary) noncommercial educational FM stations; or if it would result in new or increased overlap with an LP100 station, as set forth:
 
 (1) Commercial Class B FM Stations (Protected Contour: 0.5 mV/m)

@@ -1,5 +1,7 @@
 ##### § 886.327 Lease requirements. #####
 
+Link to an amendment published at 89 FR 101303, Dec. 13, 2024.
+
 (a) *Term of lease.* (1) The term of a lease, including a new lease or a lease amendment, executed by the owner and the family must be for at least one year, or the remaining term of the contract if the remaining term of the contract is less than one year.
 
 (2) During the first year of the lease term, the owner may not terminate the tenancy for “other good cause” under 24 CFR 247.3(a)(3), unless the termination is based on family malfeasance or nonfeasance. For example, during the first year of the lease term, the owner may not terminate the tenancy for “other good cause” based on the failure of the family to accept the offer of a new lease.

@@ -1,0 +1,13 @@
+##### 927.404-70 Rights in technical data in subcontracts. #####
+
+(a) Prime contractors and higher-tier subcontractors, in meeting their obligations with respect to contract data, must obtain from their subcontractors the rights in, access to, and delivery of such data on behalf of the Government. Accordingly, subject to the policy set forth in this subpart and subject to the approval of the Contracting Officer, where required, prime contractors or higher-tier subcontractors must select appropriate technical data provisions for their subcontracts.
+
+(1) In many, but not all instances, use of the clause at FAR 52.227-14, Rights in Data—General, as supplemented pursuant to this subpart, in a subcontract will provide for sufficient Government rights in and access to technical data. The inspection rights afforded in Alternate V to the clause at FAR 52.227-14 normally should be obtained only in first-tier subcontracts for research, development, or demonstration work or the furnishing of supplies for which there are substantial technical data requirements as reflected in the prime contract.
+
+(2) If a subcontractor refuses to accept technical data provisions affording rights in and access to technical data on behalf of the Government, the Contractor shall so inform the Contracting Officer in writing and not proceed with the subcontract award without written authorization of the Contracting Officer.
+
+(3) In prime contracts or higher-tier subcontracts that contain the clause at FAR 52.227-16, Additional Data Requirements, the Contractor or higher-tier subcontractor must determine whether inclusion of such clause in a subcontract is required to satisfy technical data requirements of the prime contract or higher-tier subcontract.
+
+(b) As is the case for DOE in its determination of technical data requirements, the clause at FAR 52.227-16, Additional Data Requirements, should not be used at any subcontracting tier where the technical data requirements are fully known. Normally, the clause will be used only in subcontracts having as a purpose the conduct of research, development, or demonstration work. Prime contractors and higher-tier subcontractors shall not use their power to award subcontracts as economic leverage to acquire rights in the subcontractor's limited rights data or restricted computer software for their private use, and they shall not acquire rights to limited rights data or restricted computer software on behalf of the Government for standard commercial items without the prior approval of Patent Counsel.
+
+[89 FR 89756, Nov. 13, 2024]

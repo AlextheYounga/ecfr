@@ -1,5 +1,7 @@
 ##### § 54.307 Support to a competitive eligible telecommunications carrier. #####
 
+Link to an amendment published at 89 FR 101394, Dec. 13, 2024.
+
 (a) *Calculation of support.* A competitive eligible telecommunications carrier shall receive universal service support to the extent that the competitive eligible telecommunications carrier captures the subscriber lines of an incumbent local exchange carrier (LEC) or serves new subscriber lines in the incumbent LEC's service area.
 
 (1) A competitive eligible telecommunications carrier serving loops in the service area of a rural incumbent local exchange carrier, as that term is defined in § 54.5 of this chapter, shall receive support for each line it serves in a particular service area based on the support the incumbent LEC would receive for each such line, disaggregated by cost zone if disaggregation zones have been established within the service area pursuant to § 54.315 of this subpart. A competitive eligible telecommunications carrier serving loops in the service area of a non-rural incumbent local exchange carrier shall receive support for each line it serves in a particular wire center based on the support the incumbent LEC would receive for each such line. A competitive eligible telecommunications carrier serving loops in the service area of a rate-of-return carrier shall be eligible to receive Interstate Common Line Support for each line it serves in the service area in accordance with the formula in § 54.901.

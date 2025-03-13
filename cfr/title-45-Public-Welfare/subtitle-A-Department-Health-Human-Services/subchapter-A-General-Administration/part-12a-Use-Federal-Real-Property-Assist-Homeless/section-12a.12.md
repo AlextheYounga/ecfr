@@ -1,5 +1,11 @@
-##### § 12a.12 No applications approved. #####
+##### § 12a.12 Abrogation. #####
 
-(a) At the end of the 60 day holding period described in § 12a.9(a), HHS will notify GSA, or the landholding agency, as appropriate, if an expression of interest has been received for a particular property. Where there is no expression of interest, GSA or the landholding agency, as appropriate, will proceed with disposal in accordance with applicable law.
+(a) HHS may abrogate the conditions and restrictions in the transfer document if:
 
-(b) Upon advice from HHS that all applications have been disapproved, or if no completed applications or requests for extensions have been received by HHS within 90 days from the date of the last expression of interest, disposal may proceed in accordance with applicable law.
+(1) The transferee submits to HHS a written request that HHS abrogate the conditions and restrictions in the transfer document as to all or any portion of the surplus property;
+
+(2) HHS determines the terms and conditions of the proposed abrogation and determines that the proposed abrogation is in the best interest of the United States; and
+
+(3) HHS transmits the abrogation request to GSA and there is no disapproval by GSA within 30 days after notice is given. If GSA disapproves, GSA will state, in writing, to HHS the reason(s) for the disapproval.
+
+(b) HHS abrogates the conditions and restrictions in the transfer document only upon receipt of the appropriate consideration, including cash payment, to the United States, as directed by HHS, which is based on the formula contained in the transfer document, and any other terms and conditions HHS deems appropriate to protect the interest of the United States.

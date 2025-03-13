@@ -1,5 +1,7 @@
 ##### § 200.54 Project completion funding. #####
 
+Link to an amendment published at 89 FR 100743, Dec. 13, 2024.
+
 (a) Except as provided in paragraph (d) of this section, the mortgagor shall deposit with the mortgagee cash deemed by the Commissioner to be sufficient, when added to the proceeds of the insured mortgage, to assure completion of the project and to pay the initial service charge, carrying charges, and legal and organizational expenses incident to the construction of the project. The Commissioner may accept a lesser cash deposit or an alternative to a cash deposit in accordance with terms and conditions established by the Commissioner, where the required funding is to be provided by a grant or loan from a Federal, State, or local government agency or instrumentality.
 
 (b) An agreement acceptable to the Commissioner shall require that funds provided by the mortgagor under requirements of this section must be disbursed in full for project work, material, and incidental charges and expenses before disbursement of any mortgage proceeds, except:

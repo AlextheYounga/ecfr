@@ -1,11 +1,10 @@
 ##### 904.7004 Findings, determination, and contract award or termination. #####
 
-Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
-
-(a) Based on the information disclosed by the offeror(s) or contractor, and after consulting with the DOE Office of Safeguards and Security, the contracting officer must determine that award of a contract to an offeror(s) or continued performance of a contract by a contractor will not pose an undue risk to the common defense and security. The contracting officer need not prepare a separate finding and determination addressing FOCI; however, the memorandum of negotiation shall include a discussion of the applicability of this subpart and the resulting determination.
+(a) Based on the information disclosed by the offeror(s) or contractor, and after consulting with the DOE Office of Environment, Health, Safety and Security, the contracting officer must determine that award of a contract to an offeror(s) or continued performance of a contract by a contractor will not pose an undue risk to the common defense and security.
+The contracting officer need not prepare a separate finding and determination addressing FOCI; however, the memorandum of negotiation shall include a discussion of the applicability of this subpart and the resulting determination.
 
 (b) In those cases where FOCI does exist, and the DOE determines that an undue risk to the common defense and security may exist, the offeror(s) or contractor shall be requested to propose within a prescribed period of time a plan of action to avoid or mitigate the foreign influences by isolation of the foreign interest.
 
 (c) The types of plans that a contractor can propose are: measures which provide for physical or organizational separation of the facility or organizational component containing the classified information or special nuclear material; modification or termination of agreements with foreign interests; diversification or reduction of foreign source income; assignment of specific security duties and responsibilities to board members or special executive level committees; or any other actions to negate or reduce FOCI to acceptable levels. The plan of action may vary with the type of foreign interest involved, degree of ownership, and information involved so that each plan must be negotiated on a case by case basis. If the offeror(s) or contractor and the DOE cannot negotiate a plan of action that isolates the offeror(s) or contractor from FOCI satisfactory to the DOE, then the offeror(s) shall not be considered for contract award and affected existing contracts with a contractor shall be terminated.
 
-[49 FR 11941, Mar. 28, 1984, as amended at 59 FR 9104, Feb. 25, 1994]
+[49 FR 11941, Mar. 28, 1984, as amended at 59 FR 9104, Feb. 25, 1994; 89 FR 89747, Nov. 13, 2024]

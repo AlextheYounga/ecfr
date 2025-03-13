@@ -1,5 +1,7 @@
 ##### § 90.377 Frequencies available; maximum EIRP and antenna height, and priority communications. #####
 
+Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+
 (a) Licensees shall transmit only the power (EIRP) needed to communicate with an On-Board Unit (OBU) within the communications zone and must take steps to limit the Roadside Unit (RSU) signal within the zone to the maximum extent practicable.
 
 (b) Frequencies available for assignment to eligible applicants within the 5850-5925 MHz band for RSUs and the maximum EIRP permitted for an RSU with an antenna height not exceeding 8 meters above the roadway bed surface are specified in the table below. Where two EIRP limits are given, the higher limit is permitted only for state or local governmental entities.

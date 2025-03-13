@@ -1,5 +1,7 @@
 ##### § 90.149 License term. #####
 
+Link to an amendment published at 89 FR 100851, Dec. 13, 2024.
+
 (a) Except as provided in subpart R of this part, licenses for stations authorized under this part will be issued for a term not to exceed ten (10) years from the date of the original issuance or renewal.
 
 (b) Non-exclusive geographic area licenses for DSRCS Roadside Units (RSUs) under subpart M of this part in the 5895-5925 MHz band will be issued for a term not to exceed ten years from the date of original issuance or renewal. The registration dates of individual RSUs (see § 90.375) will not change the overall renewal period of the single license.

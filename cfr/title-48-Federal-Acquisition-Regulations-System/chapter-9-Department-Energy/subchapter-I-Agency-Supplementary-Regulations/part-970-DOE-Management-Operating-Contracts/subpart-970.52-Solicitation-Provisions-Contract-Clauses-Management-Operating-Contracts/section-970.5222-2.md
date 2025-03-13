@@ -1,8 +1,6 @@
 ##### 970.5222-2 Overtime management. #####
 
-Link to an amendment published at 89 FR 89798, Nov. 13, 2024.
-
-As prescribed in 970.2201-2-2, insert the following clause:
+As prescribed in 970.2201-220, insert the following clause:
 
 Overtime Management (DEC 2000)
 
@@ -34,4 +32,4 @@ Overtime Management (DEC 2000)
 
 (vi) Overtime hours as a percentage of straight-time hours.
 
-(End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 74 FR 36375, 36378, 36380, July 22, 2009]
+(End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 74 FR 36375, 36378, 36380, July 22, 2009; 89 FR 89798, Nov. 13, 2024]

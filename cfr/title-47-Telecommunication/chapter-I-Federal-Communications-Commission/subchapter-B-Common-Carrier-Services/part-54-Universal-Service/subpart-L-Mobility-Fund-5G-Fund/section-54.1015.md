@@ -1,5 +1,7 @@
 ##### § 54.1015 Public interest obligations and performance requirements for 5G Fund support recipients. #####
 
+Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
+
 (a) *General.* A 5G Fund support recipient shall deploy voice and data services that meet at least the 5G-NR (New Radio) technology standards developed by the 3rd Generation Partnership Project with Release 15, or any successor release that may be adopted by the Office of Economics and Analytics and the Wireline Competition Bureau after notice and comment.
 
 (b) *Interim and final service milestones and deadlines.* A 5G Fund support recipient shall deploy 5G service as specified in paragraph (a) of this section as follows:

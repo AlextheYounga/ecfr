@@ -1,7 +1,5 @@
 ##### § 79.20 Legal services. #####
 
-Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
-
 Allowable legal services covered under this Grant Program are limited to the following:
 
 (a) Legal services related to housing, including eviction defense, representation in landlord-tenant cases, and representation in foreclosure cases.
@@ -10,7 +8,7 @@ Allowable legal services covered under this Grant Program are limited to the fol
 
 (c) Legal services relating to income support, including assistance in obtaining public benefits.
 
-(d) Legal services relating to criminal defense, including defense in matters symptomatic of homelessness, such as outstanding warrants, fines, driver's license revocation, and citations. To reduce recidivism and facilitate the overcoming of reentry obstacles in employment or housing, covered legal services relating to criminal defense also include legal assistance with requests to expunge or seal a criminal record.
+(d) Legal services relating to criminal defense, including defense and resolution of, and assistance with, matters symptomatic of homelessness, such as outstanding warrants, fines, driver's license revocation, and citations. To reduce recidivism and facilitate the overcoming of reentry obstacles in employment or housing, covered legal services relating to criminal defense also include legal assistance with requests to expunge or seal a criminal record.
 
 (e) Legal services relating to requests to upgrade the characterization of a discharge or dismissal of a former member of the Armed Forces under 10 U.S.C. 1553.
 
@@ -25,3 +23,7 @@ Allowable legal services covered under this Grant Program are limited to the fol
 (4) Employment law matters.
 
 (5) The unmet legal needs of male and female veterans in VA's annual Community Homelessness Assessment, Local Education and Networking Groups (CHALENG) survey for the grant award year.
+
+(6) Legal services relating to requests for corrections to military records of a former member of the Armed Forces under 10 U.S.C. 1552.
+
+[87 FR 33041, June 1, 2022, as amended at 89 FR 89501, Nov. 13, 2024]

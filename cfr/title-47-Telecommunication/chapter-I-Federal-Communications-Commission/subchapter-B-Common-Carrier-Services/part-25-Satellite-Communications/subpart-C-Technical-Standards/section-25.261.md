@@ -1,6 +1,6 @@
 ##### § 25.261 Sharing among NGSO FSS space stations. #####
 
-Link to an amendment published at 88 FR 39792, June 20, 2023.
+Link to an amendment published at 88 FR 39792, June 20, 2023.Link to an amendment published at 89 FR 100917, Dec. 13, 2024.
 
 (a) *Scope.* This section applies to NGSO FSS operation with earth stations with directional antennas anywhere in the world under a Commission license, or in the United States under a grant of U.S. market access.
 

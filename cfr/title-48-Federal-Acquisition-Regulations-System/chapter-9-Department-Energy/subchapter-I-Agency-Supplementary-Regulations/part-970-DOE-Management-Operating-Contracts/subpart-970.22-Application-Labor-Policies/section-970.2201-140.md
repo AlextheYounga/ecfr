@@ -1,3 +1,9 @@
-##### 970.2201-140 xxx #####
+##### 970.2201-140 Wages, salaries, and employee benefits. #####
 
-Link to an amendment published at 89 FR 89784, Nov. 13, 2024.
+(a) It is DOE policy that contractors facilitate the retention of certain critically skilled employees for: the management and operation of laboratories and other national defense and security site facilities; contracts designated by the Senior Procurement Executive; and certain other non-M&O contracts as described in 970.2201-100. Critically skilled employees are those employees whose specific recognized technical skills, knowledge, and experience in a specific field are critical to the operations or strategy of a contractor, and whose loss from the DOE contractor's workforce system would cause a significant negative impact on achieving and supporting national research, environmental, defense, and security objectives.
+
+(b) Wages, salaries, and employee benefits shall be administered in a manner designated to adapt the normal practices and conditions of industry or institutions of higher education to the contract work, and to provide for appropriate review by DOE.
+
+(c) The contractor's compensation systems and supporting policies should support the effective recruitment and retention of a highly skilled, motivated, and experienced workforce at a reasonable cost. For a cost to be allowable it must comply with each of the five requirements for allowability stated in FAR 31.201-2. Some of the specific details of the allowable costs for compensation for personal services are discussed at FAR 31.205-6, as supplemented by, 970.3102-506, and other pertinent parts of the DEAR and DOE directives and policies.
+
+[89 FR 89784, Nov. 13, 2024]

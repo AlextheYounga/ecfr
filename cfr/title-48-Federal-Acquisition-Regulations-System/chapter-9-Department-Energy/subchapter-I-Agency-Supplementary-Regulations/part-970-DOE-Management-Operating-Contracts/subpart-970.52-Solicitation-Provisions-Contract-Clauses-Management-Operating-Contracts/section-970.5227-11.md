@@ -1,24 +1,24 @@
 ##### 970.5227-11 Patent rights—management and operating contracts, for-profit contractor, non-technology transfer. #####
 
-Link to an amendment published at 89 FR 89817, Nov. 13, 2024.
+As prescribed in 970.2702-2(b), insert the following clause:
 
-Insert the following clause in solicitations and contracts in accordance with 970.2703-1(b)(4):
+Patent Rights—Management and Operating Contracts, for-Profit Contractor, Non-Technology Transfer (DEC 2024)
 
-Patent Rights—Management and Operating Contracts, for-Profit Contractor, Non-Technology Transfer (DEC 2000)
+(a) *Definitions*—*Department of Energy (DOE),* as used in this clause, includes the National Nuclear Security Administration (NNSA), and unless otherwise identified or indicated, includes the coordinated efforts of the DOE and NNSA.
 
-(a) *Definitions.* (1) *DOE licensing regulations* means the Department of Energy patent licensing regulations at 10 CFR part 781.
+*DOE licensing regulations* means the Department of Energy patent licensing regulations at 10 CFR part 781.
 
-(2) *DOE patent waiver regulations* means the Department of Energy patent waiver regulations at 10 CFR part 784.
+*DOE patent waiver regulations* means the Department of Energy patent waiver regulations at 10 CFR part 784.
 
-(3) *Invention* means any invention or discovery which is or may be patentable or otherwise protectable under title 35 of the United States Code, or any novel variety of plant which is or may be protected under the Plant Variety Protection Act (7 U.S.C. 2321, *et seq.*).
+*Invention* means any invention or discovery which is or may be patentable or otherwise protectable under title 35 of the United States Code, or any novel variety of plant which is or may be protected under the Plant Variety Protection Act (7 U.S.C. 2321, *et seq.*).
 
-(4) *Made* when used in relation to any invention means the conception or first actual reduction to practice of such invention.
+*Made* when used in relation to any invention means the conception or first actual reduction to practice of such invention.
 
-(5) *Patent Counsel* means DOE Patent Counsel assisting the contracting activity.
+*Patent counsel* means DOE Patent Counsel assisting the contracting activity. The Patent Counsel is the first and primary point of contact for activities described in this clause.
 
-(6) *Practical application* means to manufacture, in the case of a composition or product; to practice, in the case of a process or method; or to operate, in the case of a machine or system; and, in each case, under such conditions as to establish that the invention is being utilized and that its benefits are, to the extent permitted by law or Government regulations, available to the public on reasonable terms.
+*Practical application* means to manufacture, in the case of a composition or product; to practice, in the case of a process or method; or to operate, in the case of a machine or system; and, in each case, under such conditions as to establish that the invention is being utilized and that its benefits are, to the extent permitted by law or Government regulations, available to the public on reasonable terms.
 
-(7) *Subject invention* means any invention of the contractor conceived or first actually reduced to practice in the course of or under this contract, provided that in the case of a variety of plant, the date of determination (as defined in section 41(d) of the Plant Variety Protection Act, 7 U.S.C. 2401(d)) shall also occur during the period of contract performance.
+*Subject invention* means any invention of the contractor conceived or first actually reduced to practice in the course of or under this contract, provided that in the case of a variety of plant, the date of determination (as defined in section 41(d) of the Plant Variety Protection Act, 7 U.S.C. 2401(d)) shall also occur during the period of contract performance.
 
 (b) *Allocation of principal rights*—(1) *Assignment to the Government.* Except to the extent that rights are retained by the Contractor by a determination of greater rights in accordance with subparagraph (b)(2) of this clause or by a request for foreign patent rights in accordance with subparagraph (d)(2) of this clause, the Contractor agrees to assign to the Government the entire right, title, and interest throughout the world in and to each subject invention.
 
@@ -26,7 +26,7 @@ Patent Rights—Management and Operating Contracts, for-Profit Contractor, Non-T
 
 (c) *Subject invention disclosures*—(1) *Contractor procedures for reporting subject inventions to Contractor personnel.* Subject inventions shall be reported to Contractor personnel responsible for patent matters within six (6) months of conception and/or first actual reduction to practice, whichever occurs first in the performance of work under this contract. Accordingly, the Contractor shall establish and maintain effective procedures for ensuring such prompt identification and timely disclosure of subject inventions to Contractor personnel responsible for patent matters, and the procedures shall include the maintenance of laboratory notebooks, or equivalent records, and other records that are reasonably necessary to document the conception and/or the first actual reduction to practice of subject inventions, and the maintenance of records demonstrating compliance with such procedures. The Contractor shall submit a written description of such procedures to the Contracting Officer, upon request, for evaluation of the effectiveness of such procedures by the Contracting Officer.
 
-(2) *Subject invention disclosure.* The Contractor shall disclose each subject invention to Patent Counsel with a copy to the Contracting Officer within two (2) months after the subject invention is reported to Contractor personnel responsible for patent matters, in accordance with subparagraph (c)(1) of this clause, or, if earlier, within six (6) months after the Contractor has knowledge of the subject invention, but in any event before any on sale, public use, or publication of the subject invention. The disclosure to DOE shall be in the form of a written report and shall include:
+(2) *Subject invention disclosure.* The Contractor shall disclose each subject invention to Patent Counsel with a copy to the Contracting Officer within two (2) months after the subject invention is reported to Contractor personnel responsible for patent matters, in accordance with paragraph (c)(1) of this clause, or, if earlier, within six (6) months after the Contractor has knowledge of the subject invention, but in any event no less than 60 days before any on sale, public use, or publication of the subject invention. The disclosure to DOE shall be in the form of a written report and shall include:
 
 (i) The contract number under which the subject invention was made;
 
@@ -40,7 +40,7 @@ Patent Rights—Management and Operating Contracts, for-Profit Contractor, Non-T
 
 (vi) A statement indicating whether the subject invention concerns exceptional circumstances pursuant to 35 U.S.C. 202(ii), related to national security, or subject to a treaty or an international agreement, to the extent known or believed by Contractor at the time of the disclosure;
 
-(vii) All sources of funding by Budget and Resources (B&R) code; and
+(vii) All sources of funding by Budget and Resources (B&R) code. The funding program may require other invention identifiers such as related award numbers or funding opportunity announcement numbers; and
 
 (viii) The identification of any agreement relating to the subject invention, including Cooperative Research and Development Agreements and Strategic Partnership Projects agreements. Unless the Contractor contends otherwise in writing at the time the invention is disclosed, inventions disclosed to DOE under this paragraph are deemed made in the manner specified in Sections (a)(1) and (a)(2) of 42 U.S.C. 5908.
 
@@ -48,7 +48,7 @@ Patent Rights—Management and Operating Contracts, for-Profit Contractor, Non-T
 
 (4) *Contractor employee agreements.* The Contractor agrees to require, by written agreement, its employees, other than clerical and nontechnical employees, to disclose promptly in writing to Contractor personnel identified as responsible for the administration of patent matters and in a format suggested by the Contractor, each subject invention made under this contract, and to execute all papers necessary to file patent applications claiming subject inventions or to establish the Government's rights in the subject inventions. This disclosure format shall at a minimum include the information required by subparagraph (c)(2) of this clause. The Contractor shall instruct such employees, through employee agreements or other suitable educational programs, on the importance of reporting inventions in sufficient time to permit the filing of patent applications prior to U.S. or foreign statutory bars.
 
-(5) *Contractor procedures for reporting subject inventions to DOE.* The Contractor agrees to establish and maintain effective procedures for ensuring the prompt identification and timely disclosure of subject inventions to DOE. The Contractor shall submit a written description of such procedures to the Contracting Officer, upon request, for evaluation of the effectiveness of such procedures by the Contracting Officer.
+(5) *Contractor procedures for reporting subject inventions to DOE.* The Contractor agrees to establish and maintain effective procedures for ensuring the prompt identification and timely disclosure of subject inventions to DOE. The Contractor shall submit a written description of such procedures to the Contracting Officer, upon request, for evaluation of the effectiveness of such procedures by the Contracting Officer. Whenever possible in this paragraph (c), the Government electronic reporting system (*e.g.,* iEdison or similar system) may be used for reporting and approvals.
 
 (6) *Duplication and disclosure of documents.* The Government may duplicate and disclose subject invention disclosures and all other reports and papers furnished or required to be furnished pursuant to this clause; provided, however, that any such duplication or disclosure by the Government is subject to 35 U.S.C. 205 and 37 CFR 401.13.
 
@@ -70,9 +70,9 @@ Patent Rights—Management and Operating Contracts, for-Profit Contractor, Non-T
 
 (f) *Subcontracts*—(1) *Subcontractor subject inventions.* The Contractor shall not obtain rights in the subcontractor's subject inventions as part of the consideration for awarding a subcontract.
 
-(2) *Inclusion of patent rights clause—non-profit organization or small business firm subcontractors.* Unless otherwise authorized or directed by the Contracting Officer, the Contractor shall include the patent rights clause at 48 CFR 952.227-11, suitably modified to identify the parties in all subcontracts, at any tier, for experimental, developmental, demonstration or research work to be performed by a small business firm or domestic nonprofit organization, except subcontracts which are subject to exceptional circumstances in accordance with 35 U.S.C. 202(a)(ii).
+(2) *Inclusion of patent rights clause—non-profit organization or small business firm subcontractors.* Unless otherwise authorized or directed by the Contracting Officer, the Contractor shall include the patent rights clause at 37 CFR 401.14 with Alternate I of 48 CFR 952.227-11 Patent Rights—Retention by the Contractor, suitably modified to identify the parties, in all subcontracts, at any tier, for experimental, developmental, demonstration or research work to be performed by a small business firm or domestic nonprofit organization, except subcontracts which are subject to exceptional circumstances in accordance with 35 U.S.C. 202. If the Department of Energy Determination of Exceptional Circumstances under the Bayh-Dole Act to Further Promote Domestic Manufacture of DOE Science and Energy Technologies” (S&E DEC) issued 6/7/2021, or any related DEC, is applicable, the Contractor shall use Alternate II of 48 CFR 952.227-11 Patent Rights—Retention by the Contractor.
 
-(3) *Inclusion of patent rights clause—subcontractors other than non-profit organizations and small business firms.* Except for the subcontracts described in subparagraph (f)(2) of this clause, the Contractor shall include the patent rights clause at 48 CFR 952.227-13, suitably modified to identify the parties, in any contract for experimental, developmental, demonstration or research work.
+(3) *Inclusion of patent rights clause—subcontractors other than non-profit organizations and small business firms.* Except for the subcontracts described in paragraph (f)(2) of this clause, the Contractor shall include the patent rights clause at 48 CFR 952.227-13, suitably modified to identify the parties and any applicable patent waiver granted by DOE Patent Counsel, in any contract for experimental, developmental, demonstration or research work. If the S&E DEC, or any related DEC, is applicable, the Contractor shall use Alternate II of 48 CFR 952.227-13 Patent Rights—Acquisition by the Government.
 
 (4) *DOE and subcontractor contract.* With respect to subcontracts at any tier, DOE, the subcontractor, and the Contractor agree that the mutual obligations of the parties created by this clause constitute a contract between the subcontractor and DOE with respect to those matters covered by this clause.
 
@@ -106,4 +106,6 @@ Patent Rights—Management and Operating Contracts, for-Profit Contractor, Non-T
 
 (n) *Annual appraisal by Patent Counsel.* Patent Counsel may conduct an annual appraisal to evaluate the Contractor's effectiveness in identifying and protecting subject inventions in accordance with DOE policy.
 
-(End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 80 FR 15520, Mar. 24, 2015]
+(o) *Unauthorized Access.* The contractor will protect all invention reports, unpublished patent applications and other invention related information from unauthorized access and disclosure using at least commonly available techniques and practices. In the event that the Contractor becomes aware of unauthorized access to invention reports, unpublished patent applications and other invention related information, the Contractor shall notify Patent Counsel within 7 days.
+
+(End of clause)(End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 80 FR 15520, Mar. 24, 2015; 89 FR 89817, Nov. 13, 2024]

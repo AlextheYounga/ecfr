@@ -1,7 +1,7 @@
 ##### 926.7103 Requirements. #####
 
-Link to an amendment published at 89 FR 89754, Nov. 13, 2024.
-
-(a) Section 3161, 42 U.S.C. 7474h, confers a continuing right to a preference in hiring to an eligible employee of Department of Energy Defense Nuclear Facilities. This right to a preference in hiring includes employment opportunities of any Department of Energy contractor, regardless of the place of performance of the contract. Accordingly, eligible former employees of contractors and subcontractors employed at Department of Energy Defense Nuclear Facilities, to the extent practicable, shall be provided a hiring preference in employment opportunities of other Department of Energy contractors for work under their contracts.
+(a) Section 3161, 50 U.S.C. 2704(c)(2), confers a continuing right to a preference in hiring to an eligible employee of Department of Energy Defense Nuclear Facilities. This right to a preference in hiring includes employment opportunities of any Department of Energy contractor, regardless of the place of performance of the contract. Accordingly, eligible former employees of contractors and subcontractors employed at Department of Energy Defense Nuclear Facilities, to the extent practicable, shall be provided a hiring preference in employment opportunities of other Department of Energy contractors for work under their contracts.
 
 (b) The Office of Worker and Community Transition (WT) is responsible for establishing policies and procedures relating to the Department of Energy implementation of Section 3161. Contracting Officers, in concert with representatives of the field office responsible for implementation of Section 3161 at the Department of Energy Defense Nuclear Facility and local counsel, should consult with the Office of Worker and Community Transition to determine applicability of Section 3161 requirements, including hiring preference requirements, for displaced workers.
+
+[62 FR 34861, June 27, 1997, as amended at 89 FR 89754, Nov. 13, 2024]

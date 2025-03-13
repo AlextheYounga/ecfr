@@ -1,5 +1,7 @@
 ##### § 30.2 Definitions. #####
 
+Link to an amendment published at 89 FR 100868, Dec. 13, 2024.
+
 The following definitions apply to this part:
 
 *Authorized bandwidth.* The maximum width of the band of frequencies permitted to be used by a station. This is normally considered to be the necessary or occupied bandwidth, whichever is greater. (See § 2.202 of this chapter).

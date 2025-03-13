@@ -1,6 +1,6 @@
 ##### § 90.175 Frequency coordinator requirements. #####
 
-Link to an amendment published at 89 FR 91584, Nov. 20, 2024.
+Link to an amendment published at 89 FR 91584, Nov. 20, 2024.Link to an amendment published at 89 FR 100851, Dec. 13, 2024.
 
 Except for applications listed in paragraph (j) of this section, each application for a new frequency assignment, for a change in existing facilities as listed in § 90.135(a), or for operation at temporary locations in accordance with § 90.137 must include a showing of frequency coordination as set forth further.
 

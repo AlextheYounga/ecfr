@@ -1,7 +1,5 @@
 ##### 904.7102 Waiver by the Secretary. #####
 
-Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
-
 (a) 10 U.S.C. 2536(b)(1)(A) allows the Secretary of Energy to waive the prohibition on the award of contracts set forth in 10 U.S.C. 2536(a) if the Secretary determines that a waiver is essential to the national security interests of the United States. Any request for a waiver regarding award of a contract or execution of a novation agreement shall address—
 
 (1) Identification of the proposed awardee and description of the control by a foreign government;
@@ -34,6 +32,6 @@ Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
 
 (d) If the Secretary decides to grant a waiver for an environmental restoration, remediation, or waste management contract, the Secretary shall notify Congress of this decision. The contract may be awarded or the novation agreement executed only after the end of the 45-day period beginning on the date notification is received by the Senate Committee on Armed Services and the House Committee on National Security.
 
-(e) Any request for a waiver under this subpart shall be accompanied by the information required by 952.204-73, Facility Clearance that has been developed by the Safeguards and Security Lead Responsible Office at the contracting activity.
+(e) Any request for a waiver under this subpart shall be accompanied by the information required by the clause at 952.204-73, Facility Clearance.
 
-[67 FR 14876, Mar. 28, 2002, as amended at 74 FR 36362, July 22, 2009]
+[67 FR 14876, Mar. 28, 2002, as amended at 74 FR 36362, July 22, 2009; 89 FR 89748, Nov. 13, 2024]

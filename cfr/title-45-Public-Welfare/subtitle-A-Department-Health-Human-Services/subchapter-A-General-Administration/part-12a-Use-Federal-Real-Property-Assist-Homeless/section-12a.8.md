@@ -1,21 +1,15 @@
-##### § 12a.8 Public notice of determination. #####
+##### § 12a.8 Compliance with the National Environmental Policy Act of 1969 and other related Acts (environmental impact). #####
 
-(a) No later than 15 days after the last 45 day period has elapsed for receiving responses from the landholding agencies regarding availability, HUD will publish in the Federal Register a list of all properties reviewed, including a description of the property, its address, and classification. The following designations will be made:
+(a) HHS, prior to making a final decision to convey or lease, or to amend, reform, or grant an approval or release with respect to a previous conveyance or lease of, surplus property for homeless purposes, will act in accordance with applicable provisions of the National Environmental Policy Act of 1969, the National Historic Preservation Act of 1966, the National Archeological Data Preservation Act, and other related acts. No lease to use surplus property shall allow the lessee to make, or cause to be made, any irreversible change in the conditions of said property, and no lease shall be employed for the purpose of delaying or avoiding compliance with the requirements of these Acts, unless approved by the United States.
 
-(1) Properties that are suitable and available.
+(b) Applicants shall be required to provide such information as HHS deems necessary to make an assessment of the impact of the proposed Federal action on the human environment. Materials contained in the applicant's official request, responses to a standard questionnaire prescribed by HHS, as well as other relevant information, will be used by HHS in making said assessment.
 
-(2) Properties that are suitable and unavailable.
+(c) If the assessment reveals:
 
-(3) Properties that are suitable and to be declared excess.
+(1) That the proposed Federal action involved properties of historical significance which are listed, or eligible for listing, in the National Register of Historic Places; or
 
-(4) Properties that are unsuitable.
+(2) That a more than insignificant impact on the human environment is reasonably foreseeable as a result of the proposed action; or
 
-(b) Information about specific properties can be obtained by contacting HUD at the following toll free number, 1-800-927-7588.
+(3) That the proposed Federal action could result in irreparable loss or destruction of archeologically significant items or data, HHS will, except as provided for in paragraph (d) of this section, prepare and distribute, or cause to be prepared or distributed, such notices and statements and obtain such approvals as are required by the Acts cited in paragraph (a) of this section.
 
-(c) HUD will transmit to the ICH a copy of the list of all properties published in the Federal Register. The ICH will immediately distribute to all state and regional homeless coordinators area-relevant portions of the list. The ICH will encourage the state and regional homeless coordinators to disseminate this information widely.
-
-(d) No later than February 15 of each year, HUD shall publish in the Federal Register a list of all properties reported pursuant to § 12a.3(b).
-
-(e) HUD shall publish an annual list of properties determined suitable but which agencies reported unavailable including the reasons such properties are not available.
-
-(f) Copies of the lists published in the Federal Register will be available for review by the public in the HUD headquarters building library (room 8141); area-relevant portions of the lists will be available in the HUD regional offices and in major field offices.
+(d) If a proposed action involves other Federal agencies in a sequence of actions, or a group of actions, directly related to each other because of their functional interdependence, HHS may enter into and support a lead agency agreement to designate a single lead agency which will assume primary responsibility for coordinating the assessment of environmental effects of proposed Federal actions, preparing and distributing such notices and statements, or obtaining such approvals, as are required by the Acts cited in paragraph (a) of this section. The procedures of the designated lead agency will be utilized in conducting the environmental assessment. In the event of disagreement between HHS and another Federal agency, HHS will reserve the right to abrogate the lead agency agreement with the other Federal agency.
