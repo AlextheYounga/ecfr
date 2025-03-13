@@ -1,7 +1,5 @@
 ##### § 73.3580 Local public notice of filing of broadcast applications. #####
 
-Link to an amendment published at 89 FR 1477, Jan. 10, 2024.
-
 (a) *Definitions.* The following definitions shall apply to this section:
 
 (1) *Acceptance public notice.* A Commission public notice announcing that an application has been accepted for filing.
@@ -70,7 +68,7 @@ On [DATE], [APPLICANT NAME] filed an application with the Federal Communications
 
 (iv) *Commencement of posting.* The applicant must post the online notice no earlier than the date of release of the acceptance public notice for the application, and not later than five business days following release of the acceptance public notice for the application.
 
-(c) *Applications requiring local public notice.* The following applications filed by licensees or permittees of the following types of stations must provide public notice in the manner set forth in paragraphs (c)(1) through (6) of this section:
+(c) *Applications requiring local public notice.* The following applications filed by licensees or permittees of the following types of stations must provide public notice in the manner set forth in paragraphs (c)(1) through (7) of this section:
 
 (1) *Applications for a construction permit for a new station, a major amendment thereto, or a major modification to a construction permit for a new unbuilt station.* (i) For a commercial or noncommercial educational full power television; commercial or noncommercial educational full-service AM or FM radio station; Class A television station; low power television (LPTV) or television translator station; low-power FM (LPFM) station; or commercial or noncommercial FM translator or FM booster station, the applicant shall give online notice.
 
@@ -106,6 +104,8 @@ On [DATE], [APPLICANT NAME] filed an application with the Federal Communications
 
 (6) *Applications for a permit pursuant to section 325(c) of the Communications Act (studio delivering programming to a foreign station).* The applicant shall give online notice.
 
+(7) Applications by LPTV stations to convert to Class A status pursuant to the Low Power Protection Act. The applicant shall both broadcast on-air announcements and give online notice.
+
 (d) *Applications for which local public notice is not required.* The following types of applications are not subject to the local public notice provisions of this section:
 
 (1) A minor change in the facilities of an authorized station, as indicated in §§ 73.3571, 73.3572, 73.3573, and 73.3574, and 74.787(b) of this chapter, except a minor change to designate a different community of license for an AM or FM radio broadcast station, pursuant to the provisions of §§ 73.3571(j) and 73.3573(g).
@@ -128,4 +128,4 @@ On [DATE], [APPLICANT NAME] filed an application with the Federal Communications
 
 (f) *Time for acting on applications.* Applications (as originally filed or amended) will be acted upon by the FCC no sooner than 30 days following release of the acceptance public notice, except as otherwise permitted in § 73.3542 or § 73.1635.
 
-[85 FR 36794, June 18, 2020, as amended at 86 FR 14851, Mar. 19, 2021; 88 FR 21448, Apr. 10, 2023]
+[85 FR 36794, June 18, 2020, as amended at 86 FR 14851, Mar. 19, 2021; 88 FR 21448, Apr. 10, 2023; 89 FR 1477, Jan. 10, 2024]

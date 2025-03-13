@@ -1,0 +1,3 @@
+##### § 16.48 Preservation of records. #####
+
+Each component shall preserve all correspondence pertaining to the requests that it receives under this subpart, as well as copies of all requested records, until disposition or destruction is authorized by title 44 of the United States Code or by the National Archives and Records Administration's General Records Schedule 4.2. Records shall not be disposed of while they are the subject of a pending request, appeal, or lawsuit under the Privacy Act.

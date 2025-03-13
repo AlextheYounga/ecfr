@@ -1,0 +1,31 @@
+##### § 16.40 General provisions. #####
+
+(a) *Purpose and scope.* (1) This subpart contains the rules that the Department of Justice (“DOJ” or “the Department”) follows when handling records maintained by the Department in a system of records, in accordance with the Privacy Act of 1974, as amended, 5 U.S.C. 552a (“Privacy Act” or “PA”). This subpart describes the procedures by which individuals can be notified if a Department system of records contains records about themselves, may request access to records about themselves maintained in a Department system of records, may request amendment or correction of records about themselves maintained in a Department system of records, and may request an accounting of disclosures of records about themselves maintained in a Department system of records. This subpart also establishes other procedures on the appropriate maintenance of records by the Department and when Privacy Act exemptions may apply. This subpart should be read together with the Privacy Act, which provides additional information about records maintained in agency systems of records, including those of the Department.
+
+(2) This subpart contains the procedures that the Department follows when handling covered records maintained by the Department in a system of records, in accordance with the Judicial Redress Act of 2015, 5 U.S.C. 552a note (“Judicial Redress Act”). This subpart should be read together with the Privacy Act and the Judicial Redress Act, which provide additional information about covered records maintained in agency systems of records, including those of the Department.
+
+(3) This subpart contains the procedures that the Department follows when collecting, using, maintaining, or disclosing Social Security account numbers, in accordance with the Privacy Act and the Social Security Number Fraud Prevention Act of 2017, 42 U.S.C. 405 note (“Social Security Number Fraud Prevention Act”). This subpart should be read together with the Privacy Act and the Social Security Number Fraud Prevention Act, which provide additional information about agencies' maintenance of Social Security account numbers, including that of the Department.
+
+(b) *Relationship to the Freedom of Information Act.* The Department also processes Privacy Act requests for access to records under the Freedom of Information Act (FOIA), 5 U.S.C. 552, following the rules contained in subpart A of this part, which gives requesters the benefits of both statutes.
+
+(c) *Definitions.* In addition to the definitions found under 5 U.S.C. 552a(a), and section (2)(h) of the Judicial Redress Act, as used in this subpart:
+
+*Component* means each separate bureau, office, board, division, commission, service, or administration of the Department.
+
+*Privacy Act request for access* means a request made in accordance with 5 U.S.C. 552a(d)(1), and includes requests for a Privacy Act access appeal, in accordance with this subpart.
+
+*Privacy Act request for amendment or correction* means a request made in accordance with 5 U.S.C. 552a(d)(2)-(4), and includes requests for a Privacy Act amendment or correction appeal, in accordance with this subpart.
+
+*Privacy Act request for an accounting* means a request made in accordance with 5 U.S.C. 552a(c)(3).
+
+*Requester* means an individual who makes a Privacy Act request for access, a Privacy Act request for amendment or correction, a Privacy Act request for an accounting, or, as provided by the Judicial Redress Act, a covered person who makes either a Privacy Act request for access or a Privacy Act request for amendment or correction to covered records.
+
+*System of Records Notice* means the notice(s) published by the Department in the Federal Register upon the establishment or modification of a system of records describing the existence and character of the system of records. A System of Records Notice (“SORN”) may be composed of a single Federal Register notice addressing all of the required elements that describe the current system of records, or it may be composed of multiple Federal Register notices that together address all of the required elements.
+
+(d) *Authority to request records for a law enforcement purpose.* The head of a component or a United States Attorney, or either's designee, is authorized to make written requests under 5 U.S.C. 552a(b)(7), for records maintained by other agencies that are necessary to carry out an authorized law enforcement activity. The request must specify the particular portion desired and the law enforcement activity for which the record is sought.
+
+(e) *Judicial Redress Act application.* (1) With respect to covered records, the Judicial Redress Act authorizes a covered person to bring a civil action against the Department and obtain civil remedies, in the same manner, to the same extent, and subject to the same limitations, including exemptions and exceptions, as an individual may bring a civil action and obtain civil remedies with respect to records under 5 U.S.C. 552a(g)(1)(A), (B).
+
+(2) To the extent consistent with the Judicial Redress Act, when making a request for access, amendment, or correction to a covered record, a covered person must follow the procedures outlined in this subpart for making a Privacy Act request for access to a covered record, or a Privacy Act request for amendment or correction of a covered record. A covered person must exhaust the administrative remedies, as outlined in this subpart, before the covered person may bring a cause of action described in paragraph (e)(1) of this section.
+
+(f) *Providing written consent to disclose records protected under the Privacy Act.* The Department may disclose any record contained in a system of records by any means of communication to any person, or to another agency, pursuant to a written request by, or with the prior written consent of, the individual about whom the record pertains. An individual must verify the individual's identity in the same manner as required by § 16.41(d) when providing written consent to disclose a record protected under the Privacy Act and pertaining to the individual.
