@@ -1,7 +1,5 @@
 ##### § 1006.230 Administrative and planning costs. #####
 
-Link to an amendment published at 89 FR 9761, Feb. 12, 2024.
-
 Up to such amount as HUD may authorize, or such other limit as may be specified by statute, of each grant received under the Act may be used for any reasonable administrative and planning expenses of the DHHL relating to carrying out the Act and this part and activities assisted with NHHBG funds, including:
 
 (a) *General management, oversight and coordination.* Reasonable costs of overall program management, coordination, monitoring, and evaluation. Such costs include, but are not limited to, necessary expenditures for the following:
@@ -36,6 +34,6 @@ Up to such amount as HUD may authorize, or such other limit as may be specified 
 
 (e) *Preparation of the housing plan and reports.* Preparation of the housing plan under § 1006.101 and performance reports under § 1006.410. Preparation includes the costs of public hearings, consultations, and publication.
 
-(f) *Other Federal requirements.* Costs of complying with the Federal requirements in §§ 1006.370 and 1006.375 of this part. Project-specific environmental review costs may be charged as administrative costs or as project costs, at the discretion of the DHHL.
+(f) *Other Federal requirements.* Costs of complying with the Federal requirements in §§ 1006.370, 1006.375, and 1006.377 of this part. Project-specific environmental review costs may be charged as administrative costs or as project costs, at the discretion of the DHHL.
 
-[67 FR 40776, June 13, 2002, as amended at 80 FR 75945, Dec. 7, 2015]
+[67 FR 40776, June 13, 2002, as amended at 80 FR 75945, Dec. 7, 2015; 89 FR 9761, Feb. 12, 2024]

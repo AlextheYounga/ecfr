@@ -1,7 +1,5 @@
 ##### § 1006.205 Development. #####
 
-Link to an amendment published at 89 FR 9761, Feb. 12, 2024.
-
 (a) NHHBG funds may be used for the acquisition, new construction, reconstruction, or moderate or substantial rehabilitation of affordable housing for homeownership or rental, which may include:
 
 (1) Real property acquisition;
@@ -40,7 +38,7 @@ Link to an amendment published at 89 FR 9761, Feb. 12, 2024.
 
 (8) Site improvement, including recreational areas and playgrounds for use by residents of affordable housing and on-site streets and sidewalks;
 
-(9) The development of utilities and utility services;
+(9) The development and rehabilitation of utilities, necessary infrastructure, and utility services;
 
 (10) Conversion;
 
@@ -51,3 +49,5 @@ Link to an amendment published at 89 FR 9761, Feb. 12, 2024.
 (13) Other related activities, such as environmental review and architectural and engineering plans for the affordable housing project.
 
 (b) *Multi-unit projects.* NHHBG funds may be used to assist one or more housing units in a multi-unit project. Only the actual NHHBG eligible development costs of the assisted units may be charged to the NHHBG Program. If the assisted and unassisted units are not comparable, the actual costs may be determined based upon a method of cost allocation. If the assisted and unassisted units are comparable in terms of size, features, and number of bedrooms, the actual cost of the NHHBG-assisted units can be determined by pro-rating the total NHHBG eligible development costs of the project so that the proportion of the total development costs charged to the NHHBG Program does not exceed the proportion of the NHHBG-assisted units in the project.
+
+[67 FR 40776, June 13, 2002, as amended at 89 FR 9761, Feb. 12, 2024]

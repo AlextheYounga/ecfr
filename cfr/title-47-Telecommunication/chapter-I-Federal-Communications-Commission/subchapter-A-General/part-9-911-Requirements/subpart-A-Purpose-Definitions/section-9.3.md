@@ -1,5 +1,7 @@
 ##### § 9.3 Definitions. #####
 
+Link to an amendment published at 89 FR 18523, Mar. 13, 2024.
+
 Terms with definitions including the “(RR)” designation are defined in the same way in § 2.1 of this chapter and in the Radio Regulations of the International Telecommunication Union.
 
 *911 calls.* Any call initiated by an end user by dialing 911 for the purpose of accessing an emergency service provider. For wireless carriers, all 911 calls include those they are required to transmit pursuant to subpart C of this part.

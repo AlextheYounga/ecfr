@@ -226,4 +226,32 @@ Phosphorus acid trimethyl esterTrimethoxyphosphine
 
 (n) *Interpretation 14: Unfinished “600 series” commodities.* Forgings, castings, and other unfinished products, such as extrusions and machined bodies, that have reached a stage in manufacturing where they are clearly identifiable by mechanical properties, material composition, geometry, or function as commodities controlled by any Product Group A (“End Items,” “Equipment,” “Accessories,” “Attachments,” “Parts,” “Components” and “Systems”) “600 series” ECCN are controlled in that “600 series” ECCN.
 
+(o) *Interpretation 15: Certain integrated circuits acquired, tested, or otherwise used by or for the United States Government*—(1) *Classification of the integrated circuit (IC).* Integrated circuits (ICs), including packaged “electronic assemblies” of ICs described by this section, that are manufactured using existing commercial fabrication process technologies and which are acquired, tested, or otherwise used by, for, or under contract with the United States Government (USG), are not considered to be radiation hardened (*e.g.,* designed to withstand a specified radiation dose or upset) or temperature rated (*e.g.,* rated to operate at prescribed temperatures) as may otherwise be specified under an Export Control Classification Number (ECCN) on the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR, provided all of the following apply:
+
+(i) During “development”, the IC is not designed, rated, or certified (except by or for the USG) to meet the radiation or temperature specifications of any ECCN; and
+
+(ii) All commercial testing (including by the manufacturer during fabrication, sort, packaging or assembly) regarding radiation or temperature is limited to standard commercial tools and techniques, or else by means funded or furnished by the USG for their use in the commercial setting for these specified ICs.
+
+(2) *Activities that do not change the classification of “software” or “technology” for the commercial fabrication of ICs.* The “development”, “production,” or subsequent use of the ICs described by this section does not change the classification of any underlying standard commercial process “software” or “technology” used to manufacture or test these ICs, provided all of the following apply:
+
+(i) Any utilized existing commercial “software” or “technology” specified under ECCNs 3D991, 3E991, 3E001, 9D515.d, 9D515.e, 9E515.d or 9E515.e does not meet the “required” standard (as defined in part 772 of the EAR) of any other ECCN on the CCL; and
+
+Note 1 to paragraph (o)(2)(i):
+
+The use of existing commercial “software” or “technology” by or for the USG for the purposes described in paragraph (o)(1) of this section does not, in and of itself, establish the “required” standard to meet the specifications of any ECCN on the CCL.
+
+(ii) The functional capability of the hardware, “software,” or “technology” existing within the standard commercial fabrication process has not been modified (*e.g.,* by addition of special process steps or unique interpretation of design data), except as may be required or requested by the USG (*e.g.,* as a stipulation of contract performance) where all of the following apply:
+
+(A) The modifications do not change the ECCN of any item subject to the EAR (except to a less restrictive classification, *e.g.,* from an ECCN on the CCL to EAR99); and
+
+(B) The modifications are limited to the manufacture or testing of ICs by or for the USG as specified in paragraph (o)(1) of this section.
+
+(3) *Examples.* Scenarios addressed by this section include the following:
+
+(i) If a commercially fabricated IC specified under ECCN 3A991 is tested by the USG (or by a person or entity in a contractual relationship with the USG) and meets the radiation-hardened parameters in ECCN 3A001.a.1, the classification of the IC does not change from ECCN 3A991 and the classifications of the underlying standard process “technology”, “equipment” and “software” do not change from their original ECCNs.
+
+(ii) If a standard commercial process for fabricating ICs includes certain “technology” specified under ECCN 3E001 (*e.g.,* for ICs specified under ECCN 3A001.a.1), or ECCN 9E515 (*e.g.,* for discrete electronic components specified under ECCNs 9A515.d or .e) and those process “technologies” are used to manufacture ICs and discrete electronic components for the U.S. Government, only the portion of the “technology” that is “required” meets the specifications under ECCN 3E001 or 9E515. Moreover, the use of these standard commercial processes does not presumptively result in the control of the resulting U.S. Government ICs under ECCN paragraphs 3A001.a.1 or 9A515.d or .e; instead, the ECCNs of the U.S. Government ICs subject to the EAR would be determined according to paragraph (o)(1) of this section.
+
+(iii) If a standard commercial IC fabrication process at a particular foundry is comprised of tools specified under ECCNs 3B001 or 3B991 or as EAR99, and where the “technology” is limited to “technology” specified under ECCN 3E991 or as EAR99, and that foundry (which typically produces ICs specified under ECCN 3A991 or as EAR99) were to deviate from its standard fabrication process (*e.g.,* by adding special process steps or design features) to produce a family of ICs designed to meet or exceed the radiation hardened parameters in ECCN paragraphs 3A001.a.1 or 9A515.d. or .e and intended for sale to U.S. and non-U.S. commercial and government customers, then the ECCN of the additional process “technology” that is “required” for producing those specific radiation hardened ICs would need to be separately evaluated and determined (*e.g.,* under ECCNs 3E001 and 9E515, as applicable).
+
 [61 FR 12920, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 770.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

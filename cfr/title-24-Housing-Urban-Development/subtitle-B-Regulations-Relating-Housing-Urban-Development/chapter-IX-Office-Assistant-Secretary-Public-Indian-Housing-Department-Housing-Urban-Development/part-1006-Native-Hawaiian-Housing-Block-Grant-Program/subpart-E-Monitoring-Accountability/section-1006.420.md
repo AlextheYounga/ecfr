@@ -1,7 +1,5 @@
 ##### § 1006.420 Review of DHHL's performance. #####
 
-Link to an amendment published at 89 FR 9764, Feb. 12, 2024.
-
 (a) *Objective.* HUD will, at least annually, review DHHL's performance to determine whether the DHHL has:
 
 (1) Carried out eligible activities in a timely manner;
@@ -32,6 +30,6 @@ Link to an amendment published at 89 FR 9764, Feb. 12, 2024.
 
 (8) Litigation.
 
-(c) The DHHL's failure to maintain records may result in a finding that the DHHL failed to meet the applicable requirement to which the record pertains.
+(c) *Failure to maintain records.* The DHHL's failure to maintain records may result in a finding that the DHHL failed to meet the applicable requirement to which the record pertains.
 
-[67 FR 40776, June 13, 2002, as amended at 80 FR 75945, Dec. 7, 2015]
+[67 FR 40776, June 13, 2002, as amended at 80 FR 75945, Dec. 7, 2015; 89 FR 9764, Feb. 12, 2024]

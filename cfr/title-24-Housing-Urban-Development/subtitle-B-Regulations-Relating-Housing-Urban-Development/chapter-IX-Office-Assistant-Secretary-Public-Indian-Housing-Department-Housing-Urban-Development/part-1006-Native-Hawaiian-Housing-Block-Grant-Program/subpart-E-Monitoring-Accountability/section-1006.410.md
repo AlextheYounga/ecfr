@@ -1,12 +1,12 @@
 ##### § 1006.410 Performance reports. #####
 
-Link to an amendment published at 89 FR 9764, Feb. 12, 2024.
-
 (a) *Requirement.* For each fiscal year, the DHHL must:
 
 (1) Review the progress the DHHL has made during that fiscal year in achieving goals stated in its housing plan; and
 
-(2) Submit a report in a form acceptable to HUD, within 60 days of the end of the DHHL's fiscal year, to HUD describing the conclusions of the review.
+(2) Submit a report in a form acceptable to HUD, within 90 days of the end of the DHHL's fiscal year, describing the conclusions of the review.
+
+(3) DHHL may submit a written request for an extension of the deadline. HUD will establish a new date for submission if the extension is granted.
 
 (b) *Content.* Each report submitted under this section for a fiscal year shall:
 
@@ -27,3 +27,5 @@ Link to an amendment published at 89 FR 9764, Feb. 12, 2024.
 (1) Review each report submitted under the Act and this part; and
 
 (2) With respect to each such report, make recommendations as HUD considers appropriate to carry out the purposes of the Act.
+
+[67 FR 40776, June 13, 2002, as amended at 89 FR 9764, Feb. 12, 2024]

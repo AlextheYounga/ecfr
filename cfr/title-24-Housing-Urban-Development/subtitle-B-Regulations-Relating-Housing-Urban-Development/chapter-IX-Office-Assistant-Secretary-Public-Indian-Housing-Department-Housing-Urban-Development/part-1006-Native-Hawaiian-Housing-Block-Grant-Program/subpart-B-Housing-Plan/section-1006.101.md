@@ -1,8 +1,6 @@
 ##### § 1006.101 Housing plan requirements. #####
 
-Link to an amendment published at 89 FR 9761, Feb. 12, 2024.
-
-The DHHL must submit a housing plan for each Federal Fiscal Year grant. The housing plan has two components, a five-year plan and a one-year plan, as follows:
+The DHHL must submit a housing plan each year prior to the start of its fiscal year. The housing plan has two components, a five-year plan and a one-year plan, as follows:
 
 (a) *Five-year plan.* Each housing plan must contain, for the 5-year period beginning with the fiscal year for which the plan is first submitted, the following information:
 
@@ -112,8 +110,10 @@ The DHHL must submit a housing plan for each Federal Fiscal Year grant. The hous
 
 (v) Has policies in effect and available for review by HUD and the public governing the management and maintenance of rental and lease-purchase housing assisted with NHHBG funds.
 
-(c) *Updates to plan*—(1) *In general.* Subject to paragraph (c)(2) of this section, after the housing plan has been submitted for a fiscal year, the DHHL may comply with the provisions of this section for any succeeding fiscal year with respect to information included for the 5-year period under paragraph (a) of this section by submitting only such information regarding such changes as may be necessary to update the plan previously submitted and by submitting information for the 1-year period under paragraph (b) of this section.
+(c) *Updates to plan*—(1) *In general.* Subject to paragraph (c)(2) of this section, after the housing plan has been submitted for a fiscal year, the DHHL may comply with the provisions of this section for any succeeding fiscal year with respect to information included for the 5-year period under paragraph (a) of this section by submitting only such information regarding such changes as may be necessary to update the 5-year period of the plan previously submitted. Information for the 1-year period under paragraph (b) of this section must be submitted each fiscal year.
 
-(2) *Complete plans.* The DHHL shall submit a complete plan under this section not later than 4 years after submitting an initial plan, and not less frequently than every 4 years thereafter.
+(2) *Complete plans.* The DHHL shall submit a complete plan that includes a new five-year plan under this section not later than 4 years after submitting an initial plan, and not less frequently than every 4 years thereafter.
 
-(d) *Amendments to plan.* The DHHL must submit any amendment to the one-year housing plan for HUD review before undertaking any new activities that are not addressed in the current plan. The amendment must include a description of the new activity and a revised budget reflecting the changes. HUD will review the revised plan and will notify DHHL within 30 days whether the amendment complies with applicable requirements.
+(d) *Amendments to plan.* The DHHL must submit any amendment to the one-year housing plan for HUD review before undertaking any new activities that are not addressed in the current plan that was reviewed by HUD and found to be in compliance with section 803 of NAHASDA and this part. The amendment must include a description of the new activity and a revised budget reflecting the changes. HUD will review the revised plan and will notify DHHL within 30 days whether the amendment complies with applicable requirements.
+
+[67 FR 40776, June 13, 2002, as amended at 89 FR 9761, Feb. 12, 2024]
