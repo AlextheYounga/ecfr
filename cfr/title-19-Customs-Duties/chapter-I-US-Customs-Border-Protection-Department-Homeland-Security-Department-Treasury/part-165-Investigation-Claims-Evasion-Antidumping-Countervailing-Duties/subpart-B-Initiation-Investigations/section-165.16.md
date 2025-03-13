@@ -1,5 +1,7 @@
 ##### § 165.16 Referrals to Department of Commerce. #####
 
+Link to an amendment published at 89 FR 19260, Mar. 18, 2024.
+
 (a) *When required.* A referral is required if at any point after receipt of an allegation, CBP cannot determine whether the merchandise described in an allegation is properly within the scope of an antidumping or countervailing duty order.
 
 (b) *Referral.* The referral may contain any necessary information available to CBP regarding whether the merchandise described in an allegation is subject to the relevant AD/CVD orders.

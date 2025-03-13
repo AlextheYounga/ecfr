@@ -1,18 +1,16 @@
 ##### § 115.10 Definitions. #####
 
-Link to an amendment published at 89 FR 11712, Feb. 15, 2024.
-
 *Affiliate* is defined in § 121.301(f) of this chapter.
 
 *Ancillary Bond* means a bond incidental and essential to the performance of a Contract for which there is a guaranteed Final Bond.
 
 *Applicable Statutory Limit* means the maximum amount, set forth below, of any Contract or Order for which SBA is authorized to guarantee, or commit to guarantee, a Bid Bond, Payment Bond, Performance Bond, or Ancillary Bond:
 
-(1) $6.5 million (as adjusted for inflation in accordance with 41 U.S.C. 1908);
+(1) $9 million (as adjusted for inflation in accordance with 41 U.S.C. 1908).
 
-(2) $10 million if a contracting officer of a Federal agency certifies, in accordance with section 115.12(e)(3), that such guarantee is necessary; or
+(2) $14 million if a contracting officer of a Federal agency certifies, in accordance with section 115.12(e)(3), that such guarantee is necessary.
 
-(3) if SBA is guaranteeing the bond in connection with a procurement related to a major disaster pursuant to section 12079 of Pub. L. 110-246, see section 115.12(e)(4).
+(3) If SBA is guaranteeing the bond in connection with a procurement related to a major disaster pursuant to section 12079 of Public Law 110-246, see section 115.12(e)(4).
 
 *Bid Bond* means a bond conditioned upon the bidder on a Contract entering into the Contract, and furnishing the required Payment and Performance Bonds. The term does not include a forfeiture bond unless it is issued for a jurisdiction where statute or settled decisional law requires forfeiture bonds for public works.
 
@@ -98,4 +96,4 @@ Link to an amendment published at 89 FR 11712, Feb. 15, 2024.
 
 *Veteran* has the meaning given the term in Section 101(2) of Title 38, United States Code.
 
-[61 FR 3271, Jan. 31, 1996, as amended at 61 FR 7985, Mar. 1, 1996; 72 FR 34599, June 25, 2007; 72 FR 50038, Aug. 30, 2007; 74 FR 36109, July 22, 2009; 76 FR 2572, Jan. 14, 2011; 76 FR 9963, Feb. 23, 2011; 77 FR 41665, July 16, 2012; 79 FR 2086, Jan. 13, 2014; 81 FR 41428, June 27, 2016; 87 FR 48083, Aug. 8, 2022; 88 FR 24473, Apr. 21, 2023]
+[61 FR 3271, Jan. 31, 1996, as amended at 61 FR 7985, Mar. 1, 1996; 72 FR 34599, June 25, 2007; 72 FR 50038, Aug. 30, 2007; 74 FR 36109, July 22, 2009; 76 FR 2572, Jan. 14, 2011; 76 FR 9963, Feb. 23, 2011; 77 FR 41665, July 16, 2012; 79 FR 2086, Jan. 13, 2014; 81 FR 41428, June 27, 2016; 87 FR 48083, Aug. 8, 2022; 88 FR 24473, Apr. 21, 2023; 89 FR 11712, Feb. 15, 2024]

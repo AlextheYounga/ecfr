@@ -1,5 +1,7 @@
 ##### § 165.13 Consolidation of allegations. #####
 
+Link to an amendment published at 89 FR 19259, Mar. 18, 2024.
+
 (a) *In general.* Multiple allegations against one or more importers may be consolidated into a single investigation at CBP's discretion. Consolidations may be made at any point prior to the issuance of a determination as to evasion with respect to a particular importer. If multiple allegations are received and consolidated prior to the initiation of an investigation, then the date of receipt of the first properly filed allegation will start the time period for the deadline to initiate the investigation described in § 165.15 with respect to that allegation.
 
 (b) *Criteria.* CBP may consolidate multiple allegations if warranted based on the consideration of certain factors. The factors that CBP may consider include, but are not limited to, whether the multiple allegations involve:

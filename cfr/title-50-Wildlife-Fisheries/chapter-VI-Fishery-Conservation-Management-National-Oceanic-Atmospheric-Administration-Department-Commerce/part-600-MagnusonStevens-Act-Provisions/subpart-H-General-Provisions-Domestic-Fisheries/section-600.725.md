@@ -1,7 +1,5 @@
 ##### § 600.725 General prohibitions. #####
 
-Link to an amendment published at 89 FR 12286, Feb. 16, 2024.
-
 It is unlawful for any person to do any of the following:
 
 (a) Possess, have custody or control of, ship, transport, offer for sale, sell, purchase, land, import, export or re-export, any fish or parts thereof taken or retained in violation of the Magnuson-Stevens Act or any other statute administered by NOAA or any regulation or permit issued thereunder, or import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation, or any treaty or in contravention of a binding conservation measure adopted by an international agreement or organization to which the United States is a party.
@@ -616,5 +614,11 @@ It is unlawful for any person to do any of the following:
 |                                                                                                   2. Commercial Fisheries (Non-FMP)                                                                                                    |                                                                         Rod and reel, handline, longline, gillnet, harpoon, bandit gear, purse seine, green-stick gear.                                                                         |
 
 (w) Fail to maintain safe conditions for the protection of observers including compliance with all U.S. Coast Guard and other applicable rules, regulations, or statutes applicable to the vessel and which pertain to safe operation of the vessel.
+
+(x) Fish for commercial purposes within the Northeast Canyons and Seamounts Marine National Monument, as defined in § 600.10, consistent with Presidential Proclamations 9496 and 10287. Fishing for commercial purposes means fishing that is intended to, or results in, the barter, trade, transfer, or sale of fish, either in whole or in part.
+
+(1) Vessels may transit the Northeast Canyons and Seamounts Marine National Monument, provided commercial fishing gear is stowed and not available for immediate use during passage without interruption through the Northeast Canyons and Seamounts Marine National Monument.
+
+(2) [Reserved]
 
 [61 FR 32540, June 24, 1996]Editorial Note:For Federal Register citations affecting § 600.725, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

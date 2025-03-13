@@ -1,5 +1,7 @@
 ##### § 165.3 Power of attorney. #####
 
+Link to an amendment published at 89 FR 19258, Mar. 18, 2024.
+
 (a) *When required.* Any submission made under this part other than by a principal or its employees may be filed by a person acting as agent or attorney in fact for the principal; a power of attorney must specifically authorize such person to make, sign, and file the submission or grant unlimited authority to such person.
 
 (b) *Exception.* No power of attorney is required for an attorney at law to act as agent or attorney for the principal. The signing of a submission as agent or attorney for the principal by the attorney at law will be considered a declaration by the attorney that the attorney is currently an active member in good standing of the highest court of a state, possession, territory, commonwealth, or the District of Columbia, and has been authorized to sign and file the submission for the principal.

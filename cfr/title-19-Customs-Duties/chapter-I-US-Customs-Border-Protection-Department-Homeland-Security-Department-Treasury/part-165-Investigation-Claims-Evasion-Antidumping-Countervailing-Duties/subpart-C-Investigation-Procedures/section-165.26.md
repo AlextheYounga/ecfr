@@ -1,5 +1,7 @@
 ##### § 165.26 Written arguments. #####
 
+Link to an amendment published at 89 FR 19261, Mar. 18, 2024.
+
 All written arguments submitted to CBP pursuant to a proceeding under this part must comply with the requirements specified in §§ 165.4 and 165.5 and this section. The submissions will be placed on the administrative record.
 
 (a) *Written arguments.* Parties to the investigation:

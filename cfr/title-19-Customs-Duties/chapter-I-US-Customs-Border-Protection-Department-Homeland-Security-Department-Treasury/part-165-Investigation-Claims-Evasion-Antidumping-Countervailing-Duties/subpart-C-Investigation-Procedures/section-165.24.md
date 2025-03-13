@@ -1,5 +1,7 @@
 ##### § 165.24 Interim measures. #####
 
+Link to an amendment published at 89 FR 19260, Mar. 18, 2024.
+
 (a) *Reasonable suspicion.* No later than 90 calendar days after initiating an investigation under § 165.15, CBP will take interim measures if there is a reasonable suspicion that the importer entered covered merchandise into the customs territory of the United States through evasion.
 
 (b) *Measures.* If CBP decides that there is reasonable suspicion under paragraph (a) of this section, then:

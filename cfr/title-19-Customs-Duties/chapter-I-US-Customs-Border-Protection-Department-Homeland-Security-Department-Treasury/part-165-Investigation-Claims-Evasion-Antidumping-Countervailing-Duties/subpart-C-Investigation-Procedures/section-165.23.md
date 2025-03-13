@@ -1,5 +1,7 @@
 ##### § 165.23 Submission of factual information. #####
 
+Link to an amendment published at 89 FR 19260, Mar. 18, 2024.
+
 All submissions of factual information to CBP must comply with the requirements specified in §§ 165.4 and 165.5 and this section. The submissions will be placed on the administrative record.
 
 (a) *Request for information by CBP.* In making a determination under § 165.27, CBP may require additional information as is necessary, from, among others:

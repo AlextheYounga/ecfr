@@ -1,5 +1,7 @@
 ##### § 317.8 False or misleading labeling or practices generally; specific prohibitions and requirements for labels and containers. #####
 
+Link to an amendment published at 89 FR 19494, Mar. 18, 2024.
+
 (a) No product or any of its wrappers, packaging, or other containers shall bear any false or misleading marking, label, or other labeling and no statement, word, picture, design, or device which conveys any false impression or gives any false indication of origin or quality or is otherwise false or misleading shall appear in any marking or other labeling. No product shall be wholly or partly enclosed in any wrapper, packaging, or other container that is so made, formed, or filled as to be misleading.
 
 (b) The labels and containers of product shall comply with the following provisions, as applicable:

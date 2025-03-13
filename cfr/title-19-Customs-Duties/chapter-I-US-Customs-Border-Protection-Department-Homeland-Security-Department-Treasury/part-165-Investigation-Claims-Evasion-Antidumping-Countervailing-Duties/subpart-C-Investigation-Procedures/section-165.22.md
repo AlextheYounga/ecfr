@@ -1,5 +1,7 @@
 ##### § 165.22 Time for investigations. #####
 
+Link to an amendment published at 89 FR 19260, Mar. 18, 2024.
+
 (a) *Time for determination.* Unless CBP has extended the deadline in accordance with paragraph (c) of this section or due to a referral to the Department of Commerce pursuant to § 165.16, CBP will make a determination under § 165.27 not later than 300 calendar days after the date on which CBP initiates an investigation under § 165.15 with respect to whether covered merchandise was entered through evasion.
 
 (b) *Time for determination with consolidated allegations.* If CBP consolidates multiple allegations under § 165.13 into a single investigation under § 165.15, the date on which CBP receives the first of such allegations will be used for the purposes of the requirement under paragraph (a) of this section with respect to the timing of the initiation of the investigation.

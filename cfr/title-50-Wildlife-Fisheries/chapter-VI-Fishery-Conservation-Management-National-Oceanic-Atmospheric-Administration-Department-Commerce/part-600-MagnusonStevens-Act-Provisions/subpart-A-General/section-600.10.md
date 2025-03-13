@@ -1,7 +1,5 @@
 ##### § 600.10 Definitions. #####
 
-Link to an amendment published at 89 FR 12286, Feb. 16, 2024.
-
 Unless defined otherwise in other parts of Chapter VI, the terms in this chapter have the following meanings:
 
 *Administrator* means the Administrator of NOAA (Under Secretary of Commerce for Oceans and Atmosphere) or a designee.
@@ -210,6 +208,29 @@ Unless defined otherwise in other parts of Chapter VI, the terms in this chapter
 
 *nm* means nautical mile (6,076 ft (1,852 m)).
 
+*Northeast Canyons and Seamounts Marine National Monument* means the area designated by Presidential Proclamation 9496, consisting of:
+
+(1) *Canyons Unit.* The Canyons Unit is defined by the area bounded by straight lines connecting the following points, in the order stated:
+
+|Point|N Latitude|W Longitude|
+|-----|----------|-----------|
+|  1  |40°31.62′ | 68°16.08′ |
+|  2  |40°36.00′ | 67°37.68′ |
+|  3  |40°12.42′ | 67°34.68′ |
+|  4  | 40°7.32′ | 68°12.72′ |
+|  1  |40°31.62′ | 68°16.08′ |
+
+(2) *Seamounts Unit.* The Seamounts Unit is defined by the area bounded by straight lines connecting the following points, except between points 1 and 2, where the boundary follows the outer limits of the U.S. EEZ:
+
+|                          Point                          |N Latitude| W Longitude  |
+|---------------------------------------------------------|----------|--------------|
+|                            1                            | 40°2.64′ |  67°43.32′   |
+|                            2                            |39°56.34′ |(<sup>a</sup>)|
+|                            3                            |38°51.90′ |(<sup>b</sup>)|
+|                            1                            | 40°2.64′ |  67°43.32′   |
+|<sup>a</sup> U.S. EEZ longitude, approximately 65°56.58′.|          |              |
+|<sup>b</sup> U.S. EEZ longitude, approximately 66°55.86′.|          |              |
+
 *Official number* means the documentation number issued by the USCG or the certificate number issued by a state or by the USCG for an undocumented vessel.
 
 *Operator,* with respect to any vessel, means the master or other individual aboard and in charge of that vessel.
@@ -372,4 +393,4 @@ Unless defined otherwise in other parts of Chapter VI, the terms in this chapter
 
 *Yellowfin tuna* means the species *Thunnus albacares,* or a part thereof.
 
-[61 FR 32540, June 24, 1996, as amended at 62 FR 14646, Mar. 27, 1997; 62 FR 66551, Dec. 19, 1997; 63 FR 7073, 7075, Feb. 12, 1998; 64 FR 4036, Jan. 27, 1999; 64 FR 29133, May 28, 1999; 64 FR 67516, Dec. 2, 1999; 67 FR 2375, Jan. 17, 2002; 67 FR 64312, Oct. 18, 2002; 69 FR 30240, May 27, 2004; 73 FR 67810, Nov. 17, 2008; 74 FR 42792, Aug. 25, 2009; 75 FR 59149, Sept. 27, 2010; 75 FR 57701, Sept. 22, 2010]
+[61 FR 32540, June 24, 1996, as amended at 62 FR 14646, Mar. 27, 1997; 62 FR 66551, Dec. 19, 1997; 63 FR 7073, 7075, Feb. 12, 1998; 64 FR 4036, Jan. 27, 1999; 64 FR 29133, May 28, 1999; 64 FR 67516, Dec. 2, 1999; 67 FR 2375, Jan. 17, 2002; 67 FR 64312, Oct. 18, 2002; 69 FR 30240, May 27, 2004; 73 FR 67810, Nov. 17, 2008; 74 FR 42792, Aug. 25, 2009; 75 FR 59149, Sept. 27, 2010; 75 FR 57701, Sept. 22, 2010; 89 FR 12286, Feb. 16, 2024]

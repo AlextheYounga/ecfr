@@ -6,24 +6,22 @@
 
 (2) The Office of the Executive Director;
 
-(3) The Office of Participant Services;
+(3) The Office of Participant Experience;
 
 (4) The Office of General Counsel;
 
 (5) The Office of Investments;
 
-(6) The Office of Communications and Education;
+(6) The Office of Planning and Risk;
 
-(7) The Office of Planning and Risk;
+(7) The Office of External Affairs;
 
-(8) The Office of External Affairs;
+(8) The Office of Chief Financial Officer;
 
-(9) The Office of Chief Financial Officer;
+(9) The Office of Resource Management; and
 
-(10) The Office of Resource Management; and
-
-(11) The Office of Technology Services.
+(10) The Office of Technology Services.
 
 (b) The Board has no field organization; however, it provides for its recordkeeping responsibility by contract or interagency agreement. The recordkeeper may be located outside of the Washington, DC area. Thrift Savings Plan records maintained for the Board by its recordkeeper are Board records subject to these regulations. Board offices are presently located at 77 K Street, NE., Suite 1000, Washington, DC 20002.
 
-[55 FR 41052, Oct. 9, 1990, as amended at 59 FR 55331, Nov. 7, 1994; 77 FR 11384, Feb. 27, 2012; 79 FR 68094, Nov. 14, 2014; 87 FR 31680, May 24, 2022]
+[55 FR 41052, Oct. 9, 1990, as amended at 59 FR 55331, Nov. 7, 1994; 77 FR 11384, Feb. 27, 2012; 79 FR 68094, Nov. 14, 2014; 87 FR 31680, May 24, 2022; 89 FR 19225, Mar. 18, 2024]

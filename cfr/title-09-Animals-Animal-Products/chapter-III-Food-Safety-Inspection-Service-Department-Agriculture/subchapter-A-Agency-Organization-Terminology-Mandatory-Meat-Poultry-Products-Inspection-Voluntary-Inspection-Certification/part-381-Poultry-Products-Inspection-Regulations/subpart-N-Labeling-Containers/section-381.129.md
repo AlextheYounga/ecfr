@@ -1,5 +1,7 @@
 ##### § 381.129 False or misleading labeling or containers. #####
 
+Link to an amendment published at 89 FR 19495, Mar. 18, 2024.
+
 (a) No poultry product subject to the Act shall have any false or misleading labeling or any container that is so made, formed, or filled as to be misleading. However, established trade names and other labeling and containers which are not false or misleading and which are approved by the Administrator in the regulations or in specific cases are permitted.
 
 (b) No statement, word, picture, design, or device which is false or misleading in any particular or conveys any false impression or gives any false indication of origin, identity, or quality, shall appear on any label. For example:

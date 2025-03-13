@@ -1,5 +1,7 @@
 ##### § 165.14 Other Federal agency requests for investigations. #####
 
+Link to an amendment published at 89 FR 19259, Mar. 18, 2024.
+
 (a) *Requests for investigations.* Any other Federal agency, including the Department of Commerce or the United States International Trade Commission, may request an investigation under this part. CBP will initiate an investigation if the Federal agency has provided information that reasonably suggests that an importer has entered covered merchandise into the customs territory of the United States through evasion, unless the agency submits a request to withdraw to the designated email address specified by CBP.
 
 (b) *Contents of requests.* The following information must be included in the request for an investigation:

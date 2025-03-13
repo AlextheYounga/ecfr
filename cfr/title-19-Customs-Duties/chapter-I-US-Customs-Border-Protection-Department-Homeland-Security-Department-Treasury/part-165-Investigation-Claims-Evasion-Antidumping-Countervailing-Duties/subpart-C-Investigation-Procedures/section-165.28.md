@@ -1,5 +1,7 @@
 ##### § 165.28 Assessments of duties owed; other actions. #####
 
+Link to an amendment published at 89 FR 19261, Mar. 18, 2024.
+
 (a) *Effect on liquidation.* For entries of covered merchandise that are already liquidated when an affirmative determination is made as to evasion under § 165.27, CBP will initiate or continue any appropriate actions separate from this proceeding. For entries of covered merchandise that are unliquidated:
 
 (1) *Suspension of liquidation.* (i) CBP will suspend the liquidation of unliquidated entries of covered merchandise that is subject to the determination and that entered on or after the date of the initiation of the investigation under § 165.15 with respect to such covered merchandise; or

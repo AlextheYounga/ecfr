@@ -1,5 +1,7 @@
 ##### § 165.4 Release of information provided by interested parties. #####
 
+Link to an amendment published at 89 FR 19258, Mar. 18, 2024.
+
 (a) *Claim for business confidential treatment.* Any interested party that makes a submission to CBP in connection with an investigation under this part, including for its initiation and administrative review, may request that CBP treat any part of the submission as business confidential information except for the information specified in paragraph (c) of this section. Business confidential treatment will be granted if the requirements of this section are satisfied and the information for which protection is sought consists of trade secrets and commercial or financial information obtained from any person, which is privileged or confidential in accordance with 5 U.S.C. 552(b)(4).
 
 (1) *Identification of business confidential information.* An interested party submitting information must identify the information for which business confidential treatment is claimed by enclosing the claimed confidential information within single brackets. The first page of any submission containing business confidential information must clearly state that the submission contains business confidential information. The submitting interested party must also provide with the claimed business confidential information an explanation of why each item of bracketed information is entitled to business confidential treatment.

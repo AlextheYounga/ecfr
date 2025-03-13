@@ -1,7 +1,5 @@
 ##### § 17.47 Special rules—insects. #####
 
-Link to an amendment published at 89 FR 11772, Feb. 15, 2024.
-
 (a) Cassius blue butterfly (*Leptotes cassius theonus*), Ceraunus blue butterfly (*Hemiargus ceraunus antibubastus*), and Nickerbean blue butterfly (*Cyclargus ammon*). (1) The provisions of § 17.31(c) apply to these species (cassius blue butterfly, ceraunus blue butterfly, nickerbean blue butterfly), regardless of whether in the wild or in captivity, and also apply to the progeny of any such butterfly.
 
 (2) Any violation of State law will also be a violation of the Act.
@@ -277,4 +275,56 @@ Table 1 to Paragraph (f)(3)(v)(G)
 
 (v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
-[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020; 86 FR 72427, Dec. 20, 2021; 87 FR 73678, Dec. 1, 2022; 88 FR 2036, Jan. 12, 2023]
+(h) Silverspot butterfly (*Speyeria nokomis nokomis*). (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the silverspot butterfly. Except as provided under paragraphs (h)(2) and (3) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *General exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(3) *Exceptions from prohibitions for specific types of incidental take.* You may take silverspot butterfly without a permit in wet meadow areas where bog violets (*Viola nephrophylla*/*V. sororia* var. *affinis*) are growing and immediately adjacent areas with nectar sources while carrying out the legally conducted activities set forth in this paragraph (h)(3), as long as the activities:
+
+(i) Are conducted with reasonable care. For the purposes of this paragraph, “reasonable care” means limiting the impacts to the silverspot and bog violet by complying with any and all applicable Federal, State, and Tribal regulations for the activity in question; using methods and techniques that result in the least harm, injury, or death, as feasible; undertaking activities at the least impactful times (*e.g.,* conducting activities that might impact habitat during the flight season) and locations, as feasible; ensuring the number of individuals affected does not impact the existing populations; minimizing the potential to introduce invasive plant species; and preserving the genetic diversity of populations; and
+
+(ii) Consist of one or more of the following:
+
+(A) Grazing:
+
+(*1*) Moderate grazing (40 to 55 percent vegetative utilization) in late fall to early spring (October 15 to May 31); or
+
+(*2*) Light grazing (less than 30 percent vegetative utilization) in summer through fall (June 1 to October 14).
+
+(B) Annual haying or mowing in silverspot habitat in the early summer (June 30 or earlier). Blade height must be a minimum of 6 inches above the ground, with 8 inches or higher preferred in areas with bog violet. In surrounding drier areas, blade height may be lower than 6 inches where the violet is not present.
+
+(C) Prescribed burning:
+
+(*1*) In the spring (March 1 to April 30); or
+
+(*2*) In the fall (October 15 to December 15), if the silverspot butterfly has been shown to not be present in a given year through adequate monitoring (*i.e.,* at least two surveys at times when butterflies are active).
+
+(D) Brush removal every 4 to 5 years. Brush removal may be conducted at any time during the year. Removal can be by mechanical means, burning, grazing, or herbicide application if in compliance with other excepted activities in this paragraph (h)(3). If mechanical means such as a brush hog is used, the blade must be set to 8 inches or higher above the ground. If herbicides are used, an appropriate systemic herbicide to prevent regrowth must be directly applied to cut stems; broadcast spraying is prohibited.
+
+(E) Spot spraying, hand pulling, or mechanical treatment of noxious weeds, which may be conducted at any time during the year. Broadcast spraying of noxious weeds is prohibited.
+
+(F) Replacement of fence poles and wire, and aboveground removal of woody vegetation along fence lines, which may be conducted at any time during the year. If removal of woody vegetation is done by machine, such as a brush hog, the machine blade must be set 8 inches or higher above the ground. For permanent removal of woody vegetation, a systemic herbicide may be applied directly to the cut stems of woody vegetation; broadcast spraying is prohibited.
+
+(G) Maintenance and operation of existing utility infrastructure within and immediately adjacent to silverspot habitat if activities are kept within the confines of existing rights-of-way. This exception applies to standard activities to repair and maintain existing transmission towers, lines, and access roads, and to perform brush control, that are conducted as needed at any time during the year. Replacement of existing structures and the installation of new structures and infrastructure such as access roads are not excepted. Noxious weed control and fence maintenance must abide by the exceptions for these activities identified in paragraphs (h)(3)(ii)(E) and (F) of this section.
+
+(H) Maintenance of other existing structures within and immediately adjacent to silverspot habitat if activities are kept within the confines of already disturbed ground.
+
+[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020; 86 FR 72427, Dec. 20, 2021; 87 FR 73678, Dec. 1, 2022; 88 FR 2036, Jan. 12, 2023; 89 FR 11772, Feb. 15, 2024]

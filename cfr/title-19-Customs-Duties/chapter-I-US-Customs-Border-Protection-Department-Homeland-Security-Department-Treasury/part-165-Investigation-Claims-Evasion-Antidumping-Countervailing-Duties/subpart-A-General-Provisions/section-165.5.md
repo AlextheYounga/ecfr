@@ -1,5 +1,7 @@
 ##### § 165.5 Obtaining and submitting information. #####
 
+Link to an amendment published at 89 FR 19259, Mar. 18, 2024.
+
 (a) *Obtaining of information by CBP.* In obtaining information necessary to carry out its functions and duties under this part, CBP may employ any means authorized by law. In general, CBP will obtain information from its own files, from other agencies of the United States Government, through questionnaires and correspondence, and through field work by its officials.
 
 (b) *Submissions to CBP.* The following requirements pertain to all parties who knowingly make submissions covered in this part:

@@ -1,5 +1,7 @@
 ##### § 165.15 Initiation of investigations. #####
 
+Link to an amendment published at 89 FR 19259, Mar. 18, 2024.
+
 (a) *Time for determination.* CBP will make a determination as to whether to initiate an investigation on or before the 15th business day after the date on which a properly filed allegation is received under § 165.12(a) or a request for an investigation is received from a Federal agency under § 165.14.
 
 (b) *Criteria for initiation.* CBP will initiate an investigation under subpart C of this part if the following criteria are satisfied:

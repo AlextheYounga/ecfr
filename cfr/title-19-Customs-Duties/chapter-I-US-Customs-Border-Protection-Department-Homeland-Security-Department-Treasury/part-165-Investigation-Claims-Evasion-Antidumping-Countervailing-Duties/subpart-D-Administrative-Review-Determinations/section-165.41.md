@@ -1,5 +1,7 @@
 ##### § 165.41 Filing a request for review of the initial determination. #####
 
+Link to an amendment published at 89 FR 19261, Mar. 18, 2024.
+
 (a) *How to file a request for administrative review.* Requests for administrative review of the initial determination as to evasion pursuant to § 165.27 must be submitted electronically to Regulations and Rulings, in a manner as prescribed by CBP. Requests for review may be filed by any party to the investigation or its attorney at law, or duly authorized agent, and must comply with the requirements specified in § 165.3. Electronic signatures are acceptable.
 
 (b) *Release of information and service.* Requests for review must comply with the requirements for release of information specified in § 165.4.
