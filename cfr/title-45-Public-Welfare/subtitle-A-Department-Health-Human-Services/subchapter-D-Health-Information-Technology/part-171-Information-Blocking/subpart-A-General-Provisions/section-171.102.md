@@ -1,5 +1,7 @@
 ##### § 171.102 Definitions. #####
 
+Link to an amendment published at 89 FR 1435, Jan. 9, 2024.
+
 For purposes of this part:
 
 *Access* means the ability or means necessary to make electronic health information available for exchange or use.

@@ -1,5 +1,7 @@
 ##### § 171.204 Infeasibility exception—When will an actor's practice of not fulfilling a request to access, exchange, or use electronic health information due to the infeasibility of the request not be considered information blocking? #####
 
+Link to an amendment published at 89 FR 1436, Jan. 9, 2024.
+
 An actor's practice of not fulfilling a request to access, exchange, or use electronic health information due to the infeasibility of the request will not be considered information blocking when the practice meets one of the conditions in paragraph (a) of this section and meets the requirements in paragraph (b) of this section.
 
 (a) *Conditions*—(1) *Uncontrollable events.* The actor cannot fulfill the request for access, exchange, or use of electronic health information due to a natural or human-made disaster, public health emergency, public safety incident, war, terrorist attack, civil insurrection, strike or other labor unrest, telecommunication or internet service interruption, or act of military, civil or regulatory authority.

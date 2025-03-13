@@ -1,5 +1,7 @@
 ##### § 170.524 Principles of proper conduct for ONC-ATLs. #####
 
+Link to an amendment published at 89 FR 1435, Jan. 9, 2024.
+
 An ONC-ATL shall:
 
 (a) *Accreditation.* Maintain its NVLAP accreditation for the ONC Health IT Certification Program, including accreditation to ISO/IEC 17025 (incorporated by reference, *see* § 170.599);
