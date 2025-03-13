@@ -1,0 +1,13 @@
+##### § 165.T01-0956 Safety Zone; Glen Island Approach Bridge, Long Island Sound, New Rochelle, NY. #####
+
+(a) *Location.* The following area is a safety zone: All the navigable waters of the Long Island Sound in the vicinity of the Glen Island Approach Bridge, New Rochelle, NY, from surface to bottom, encompassed by a line connecting the following points beginning at 40°53′18.58″ N 73°46′56.26″ W; thence to 40°53′22.08″ N 73°46′59.39″ W; thence north along the shore to 40°53′23.8″ N 73°46′57.51″ W; thence to 40°53′19.15″ N 73°46′52.54″ W and thence south along the shore back to the point of origin. These coordinates are based on the 1984 World Geodetic System (WGS 84).
+
+(b) *Definitions.* As used in this section, *designated representative* means a Coast Guard Patrol Commander, including a Coast Guard coxswain, petty officer, or other officer operating a Coast Guard vessel and a Federal, State, and local officer designated by or assisting the Captain of the Port New York (COTP) in the enforcement of the safety zone.
+
+(c) *Regulations.* (1) Under the general safety zone regulations in subpart C of this part, you may not enter the safety zone described in paragraph (a) of this section unless authorized by the COTP or the COTP's designated representative.
+
+(2) To seek permission to enter, contact the COTP or the COTP's representative via VHF Channel 16 or by phone at (844) 692-8724 (Sector New York Command Center). Those in the safety zone must comply with all lawful orders or directions given to them by the COTP or the COTP's designated representative.
+
+(d) *Enforcement period.* This section is effective from December 2, 2024, through May 27, 2027, but will only be enforced during periods when construction operations at the Glen Island Approach Bridge are in progress. The Coast Guard will make notice of this safety zone via the Local Notice to Mariners and issue a Broadcast Notice to Mariners via marine channel 16 (VHF-FM) as soon as practicable in advance of these scheduled closures and in response to any emergency or hazardous condition. In addition, if the project is completed before May 27, 2027, enforcement of the safety zone will be suspended, and notice given via Local Notice to Mariners. The First Coast Guard District Local Notice to Mariners can be found at: *http://www.navcen.uscg.gov.*
+
+[USCG-2024-0956, 89 FR 95722, Dec. 3, 2024]Effective Date Note:By USCG-2024-0956, 89 FR 95722, Dec. 3, 2024, § 165.T01-0956 was added, effective Dec. 3, 2024 through May 27, 2027.
