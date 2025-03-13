@@ -100,4 +100,4 @@
 
 (3) Postal Inspectors, Office of Inspector General Criminal Investigators, and other persons designated by the Chief Postal Inspector may likewise enforce regulations in this section.
 
-[37 FR 24346, Nov. 16, 1972]Editorial Note:For Federal Register citations affecting § 232.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[37 FR 24346, Nov. 16, 1972] Editorial Note:For Federal Register citations affecting § 232.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

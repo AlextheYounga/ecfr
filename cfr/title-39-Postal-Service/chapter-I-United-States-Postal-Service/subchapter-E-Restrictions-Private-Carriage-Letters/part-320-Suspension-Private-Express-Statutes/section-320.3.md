@@ -12,17 +12,17 @@ Note:
 
 The form referred to in § 320.3 is reproduced below.
 
-Notice of Intent To Establish Operations Under Suspension of the Private Express Statutes1
+Notice of Intent To Establish Operations Under Suspension of the Private Express Statutes 1
 
 1 Information relates exclusively to operations under the suspension for data processing materials. This form should be used for an initial notice of operations and for any amendments to the initial or subsequent notices.
 
-(see 39 CFR part 320, suspension of the private express statutes)Private Carriage of LettersName of CarrierAddressState of IncorporationGeographical Area To Be Served
+(see 39 CFR part 320, suspension of the private express statutes) Private Carriage of Letters Name of Carrier Address State of Incorporation Geographical Area To Be Served
 
 1. Designate the specific markets or areas in which operations will be conducted.
 
 2. Describe specifically any authorizations issued by local, state, or federal regulatory agencies under which operations will be conducted.
 
-(Signature of Officer)(Name and Title)
+(Signature of Officer) (Name and Title)
 
 Subscribed and sworn to before me this —— day of —————, 197——.
 

@@ -22,7 +22,7 @@
 
 (3) *Insufficient information.* When the contracting officer cannot issue a decision because the supplier has not provided sufficient information, the contracting officer may request the required information. Further failure to provide the requested information is an adequate reason to deny the claim.
 
-(4) *Furnishing Decisions.* The contracting officer must furnish a copy of the decision to the supplier by Certified MailTM, return receipt requested, or by any other method that provides evidence of receipt.
+(4) *Furnishing Decisions.* The contracting officer must furnish a copy of the decision to the supplier by Certified Mail TM, return receipt requested, or by any other method that provides evidence of receipt.
 
 (5) *Decisions on claims for $100,000 or less.* If the supplier has asked for a decision within sixty days, the contracting officer must issue a final decision on a claim of $100,000 or less within sixty calendar days of its receipt. The supplier may consider the contracting officer's failure to issue a decision within the applicable time period as a denial of its claim, and may file a suit or appeal on the claim.
 

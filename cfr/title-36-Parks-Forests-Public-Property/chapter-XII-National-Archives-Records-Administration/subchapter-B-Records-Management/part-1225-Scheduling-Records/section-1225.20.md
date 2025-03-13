@@ -1,11 +1,7 @@
 ##### § 1225.20 When do agencies have to get GAO approval for schedules? #####
 
-Link to an amendment published at 89 FR 35008, May 1, 2024.Link to a correction of the above amendment published at 89 FR 47468, June 3, 2024.
+(a) If an agency requests a deviation from the GRS related to accountable officer records that would authorize a retention period shorter than the retention period provided in the GRS, the agency must obtain approval from the Comptroller General.
 
-(a), Federal agencies must obtain the approval of the Comptroller General for the disposal of the following types of records:
+(b) This approval must be obtained before NARA will approve the proposed agency records schedule.
 
-(1) Program records less than 3 years old,
-
-(2) Deviations from General Records Schedule 2-10 (see § 1227.10 of this subchapter for a definition of general records schedules), and
-
-(b) This approval must be obtained before NARA will approve the disposition request.
+[89 FR 35008, May 1, 2024, as amended at 89 FR 47468, June 3, 2024]

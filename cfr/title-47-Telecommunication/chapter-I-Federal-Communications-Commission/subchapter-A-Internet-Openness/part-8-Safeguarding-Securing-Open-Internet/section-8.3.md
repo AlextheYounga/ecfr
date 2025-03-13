@@ -1,5 +1,7 @@
 ##### § 8.3 Conduct-based rules. #####
 
+Link to an amendment published at 89 FR 61272, July 30, 2024.
+
 (a) *No blocking.* A person engaged in the provision of broadband internet access service, insofar as such person is so engaged, shall not block lawful content, applications, services, or non-harmful devices, subject to reasonable network management.
 
 (b) *No throttling.* A person engaged in the provision of broadband internet access service, insofar as such person is so engaged, shall not impair or degrade lawful internet traffic on the basis of internet content, application, or service, or use of a non-harmful device, subject to reasonable network management.

@@ -1,5 +1,7 @@
 ##### 50.102-3 Limitations on exercise of authority. #####
 
+Link to an amendment published at 89 FR 61338, July 30, 2024.
+
 (a) Pub. L. 85-804 is not authority for—
 
 (1) Using a cost-plus-a-percentage-of-cost system of contracting;

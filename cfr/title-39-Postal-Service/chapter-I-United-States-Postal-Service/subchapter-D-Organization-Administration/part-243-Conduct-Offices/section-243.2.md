@@ -16,4 +16,4 @@
 
 (h) *Public service areas—prohibited items.* Photographs of an incumbent or former President or Postmaster General are not to be displayed in post office lobbies or in common use public service areas such as elevator lobbies and corridors in facilities owned by or leased to the Postal Service. Further, such photographs are not to be requisitioned or purchased by postal installations at Postal Service expense.
 
-(39 U.S.C. 501)[36 FR 4765, Mar. 12, 1971, as amended at 39 FR 38376, Oct. 31, 1974; 40 FR 8820, Mar. 3, 1975; 42 FR 33722, July 1, 1977; 44 FR 39854, July 6, 1979; 82 FR 12921, Mar. 8, 2017]General Postal Administration
+(39 U.S.C. 501) [36 FR 4765, Mar. 12, 1971, as amended at 39 FR 38376, Oct. 31, 1974; 40 FR 8820, Mar. 3, 1975; 42 FR 33722, July 1, 1977; 44 FR 39854, July 6, 1979; 82 FR 12921, Mar. 8, 2017] General Postal Administration

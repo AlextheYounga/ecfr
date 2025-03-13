@@ -1,0 +1,3 @@
+##### § 961.7 Answer to petition. #####
+
+Within 15 days from the date of receiving the petition, the Postal Service's representative shall file an answer to the petition, and attach all available relevant records and documents in support of the Postal Service's debt claim, and/or the administrative salary offset schedule proposed by the Postal Service for collecting any such claim. The answer shall provide a clear and thorough description of the basis for the Postal Service's determination of the alleged debt, its calculation of the amount of the alleged debt, and/or its proposed offset schedule.

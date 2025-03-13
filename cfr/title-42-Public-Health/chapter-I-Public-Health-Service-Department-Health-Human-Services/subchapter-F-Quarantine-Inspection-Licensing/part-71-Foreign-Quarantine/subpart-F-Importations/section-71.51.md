@@ -1,6 +1,6 @@
 ##### § 71.51 Dogs and cats. #####
 
-Link to an amendment published at 89 FR 41837, May 13, 2024.
+Link to an amendment published at 89 FR 41837, May 13, 2024.Link to a correction published at 89 FR 61029, July 30, 2024.
 
 (a) *Definitions.* As used in this section the term:
 

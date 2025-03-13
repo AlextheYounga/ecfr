@@ -1,0 +1,3 @@
+##### § 964.5 Election as to hearing. #####
+
+If both parties elect, they may waive an oral hearing and submit the matter for decision on the basis of the Petition and Answer, subject to the authority of the presiding officer to require the parties to furnish such further evidence or such briefs as necessary. The request to waive oral hearing should be filed not later than 10 days prior to the date set for hearing.

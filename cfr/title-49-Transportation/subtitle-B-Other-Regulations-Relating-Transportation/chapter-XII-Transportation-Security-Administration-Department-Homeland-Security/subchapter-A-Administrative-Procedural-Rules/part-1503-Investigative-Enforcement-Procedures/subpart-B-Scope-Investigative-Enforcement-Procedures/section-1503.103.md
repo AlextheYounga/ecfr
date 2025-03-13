@@ -1,7 +1,5 @@
 ##### § 1503.103 Terms used in this part. #####
 
-Link to an amendment published at 89 FR 35625, May 1, 2024.
-
 In addition to the terms in § 1500.3 of this chapter, the following definitions apply in this part:
 
 *Administrative law judge* or *ALJ* means an ALJ appointed pursuant to the provisions of 5 U.S.C. 3105.
@@ -26,8 +24,8 @@ In addition to the terms in § 1500.3 of this chapter, the following definitions
 
 *Properly addressed* means a document that shows an address contained in agency records, a residential, business, or other address submitted by a person on any document provided under this part, or any other address obtained by other reasonable and available means.
 
-*Public transportation agency* means a publicly owned operator of public transportation eligible to receive Federal assistance under 49 U.S.C. chapter 53.
-
 *Respondent* means the person named in a Notice of Proposed Civil Penalty, a Final Notice of Proposed Civil Penalty and Order, or a complaint.
 
 *TSA decision maker* means the Administrator, acting in the capacity of the decision maker on appeal, or any person to whom the Administrator has delegated the Administrator's decision-making authority in a civil penalty action. As used in this part, the *TSA decision maker* is the official authorized to issue a final decision and order of the Administrator in a civil penalty action.
+
+[76 FR 22630, Apr. 22, 2011, as amended at 89 FR 35625, May 1, 2024]

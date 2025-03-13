@@ -1,0 +1,5 @@
+##### § 952.28 Orders. #####
+
+(a) If an order is issued which prohibits delivery of mail to Respondent it shall be incorporated in the record of the proceeding. The Recorder shall cause notice of the order to be published in the Postal Bulletin and cause the order to be transmitted to such postmasters and other officers and employees of the Postal Service as may be required to place the order into effect.
+
+(b) If an order is issued which requires Respondent to cease and desist from using certain representations for the purpose of obtaining money or property through the mail, it shall be incorporated in the record of the proceeding and a copy thereof shall be served upon Respondent or his or her or its agent by certified mail or by personal service, or if no person can be found to accept service, service shall be accomplished by ordinary mail to the last known address of Respondent or his or her or its agent. If service is not accomplished by certified mail, a statement, showing the time and place of delivery, signed by the postal employee who delivered the order, shall be forwarded to the Recorder.

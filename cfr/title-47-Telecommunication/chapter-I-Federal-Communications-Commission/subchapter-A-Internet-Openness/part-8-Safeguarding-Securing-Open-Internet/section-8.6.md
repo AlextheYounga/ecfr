@@ -1,5 +1,7 @@
 ##### § 8.6 Advisory opinions. #####
 
+Link to an amendment published at 89 FR 61272, July 30, 2024.
+
 (a) *Procedures.* (1) Any entity that is subject to the Commission's open internet rules in this part may request an advisory opinion from the Enforcement Bureau regarding the permissibility of its proposed policies and practices relating to broadband internet access service. Requests for advisory opinions may be filed via the Commission's website or with the Office of the Secretary and must be copied to the Chief of the Enforcement Bureau and the Chief of the Investigations and Hearings Division of the Enforcement Bureau.
 
 (2) The Enforcement Bureau may, in its discretion, determine whether to issue an advisory opinion in response to a particular request or group of requests and will inform each requesting entity, in writing, whether the Bureau plans to issue an advisory opinion regarding the matter in question.

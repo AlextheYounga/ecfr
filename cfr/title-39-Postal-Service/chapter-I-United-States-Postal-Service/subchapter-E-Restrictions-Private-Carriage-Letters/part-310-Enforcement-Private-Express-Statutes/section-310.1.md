@@ -14,7 +14,7 @@
 
 (6) Identical messages directed to more than one specific person or address or separately directed to the same person or address constitute separate letters.
 
-(7) The following are not letters within the meaning of these regulations:1
+(7) The following are not letters within the meaning of these regulations: 1
 
 1 Several of the items enumerated in this paragraph (a)(7) do not self-evidently lie outside of the definition of “letter”. To the extent, however, that there is any question whether these items may properly be excluded by definition, the Postal Service has determined by adoption of these regulations that the restrictions of the Private Express Statutes are suspended pursuant to 39 U.S.C. 601(b).
 

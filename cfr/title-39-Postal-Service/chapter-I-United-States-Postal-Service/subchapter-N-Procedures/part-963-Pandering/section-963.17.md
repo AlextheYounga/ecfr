@@ -1,0 +1,7 @@
+##### § 963.17 Proposed findings of fact and conclusions of law. #####
+
+(a) Each party who participates in the hearing may, unless the presiding officer orders otherwise, submit proposed findings of fact, conclusions of law, orders, and supporting reasons, either in writing or orally at the discretion of the presiding officer. Unless given orally, the date set for filing of proposed findings of fact, conclusions of law, orders, and supporting reasons shall be within 15 days after the delivery of the official transcript to the Recorder, who shall notify both parties of the date of its receipt. The filing date for proposed findings of fact, conclusions of law, orders, and supporting reasons shall be the same for both parties. If not submitted by such date, unless extension of time for the filing thereof is granted, they will not be included in the record or given consideration.
+
+(b) Except when presented orally before the close of the hearing, proposed findings of fact shall be set forth in serially numbered paragraphs and shall state with particularity all evidentiary facts in the record with appropriate citations to the transcript or exhibits supporting the proposed findings. Each proposed conclusion shall be stated separately.
+
+[52 FR 18912, May 20, 1987; 52 FR 20599, June 2, 1987]

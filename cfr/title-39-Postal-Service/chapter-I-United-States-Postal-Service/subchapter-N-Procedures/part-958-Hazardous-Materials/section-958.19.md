@@ -1,0 +1,9 @@
+##### § 958.19 Form and filing of documents. #####
+
+(a) Every pleading filed in a proceeding under this part must contain a caption setting forth the title of the action, the docket number (after assignment by the Recorder), an accurate designation of the document, and the name, address, and telephone number of the party on whose behalf the paper was filed. It shall also be signed by the party or party representative submitting the document.
+
+(b) All pleadings and documents required under this part must be filed using the Judicial Officer electronic filing system unless the presiding officer permits otherwise. The Judicial Officer electronic filing system website is accessible 24 hours a day at *https://usps-judicialoffice.journaltech.com*. Documents submitted using the electronic filing system are considered filed as of the date/time (Eastern Time) reflected in the system. Documents mailed to the Recorder are considered filed on the date mailed as evidenced by a United States Postal Service postmark. Filings by any other means are considered filed upon receipt by the Recorder of a complete copy of the filing during normal business hours. Normal business hours are between 8:45 a.m. and 4:45 p.m. (Eastern Time), Monday through Friday except holidays.
+
+(c) Pleadings or other document transmittals to, or communications with, the Postal Service, other than to the Recorder under paragraph (a) of this section, shall be made through the Determining Official or designated Postal Service attorney. If a notice of appearance by a representative is filed on behalf of the respondent, pleadings or document transmittals to, or communications with, the respondent shall be made through his or her representative.
+
+[74 FR 18631, Apr. 24, 2009, as amended at 81 FR 40193, June 21, 2016; 89 FR 61021, July 30, 2024]

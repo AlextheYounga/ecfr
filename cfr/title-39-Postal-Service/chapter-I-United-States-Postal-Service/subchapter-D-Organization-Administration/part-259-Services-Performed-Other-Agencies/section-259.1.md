@@ -24,4 +24,4 @@
 
 (e) *Unauthorized projects prohibited.* Do not conduct special surveys or otherwise participate in any cooperative projects without the authorization in paragraph (c) of this section.
 
-(39 U.S.C. 401, 411)[36 FR 4773, Mar. 12, 1971, as amended at 40 FR 26511, June 24, 1975; 41 FR 56196, Dec. 27, 1976; 42 FR 58170, Nov. 8, 1977; 42 FR 63170, Dec. 15, 1977]
+(39 U.S.C. 401, 411) [36 FR 4773, Mar. 12, 1971, as amended at 40 FR 26511, June 24, 1975; 41 FR 56196, Dec. 27, 1976; 42 FR 58170, Nov. 8, 1977; 42 FR 63170, Dec. 15, 1977]

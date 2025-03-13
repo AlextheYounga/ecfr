@@ -2,7 +2,7 @@
 
 (a) *Circulars.* The Inspection Service may issue wanted circulars or notices to assist in the apprehension of fugitives sought in the connection of postal offenses. The Inspection Service may issue circulars or notices seeking information and services leading to the arrest and conviction of any person for postal offenses. Circulars and notices may offer rewards as set forth in paragraph (b) of this section.
 
-(b) *Rewards.*(1) Rewards may be paid for any amount up to the maximum categorical amount stated in Poster 296, under the conditions stated in Poster 296, *Notice of Reward,* for information leading to the apprehension of fugitives sought in the connection of the following postal offenses, or for information and services leading to the arrest and conviction of any person for the following postal offenses:
+(b) *Rewards.* (1) Rewards may be paid for any amount up to the maximum categorical amount stated in Poster 296, under the conditions stated in Poster 296, *Notice of Reward,* for information leading to the apprehension of fugitives sought in the connection of the following postal offenses, or for information and services leading to the arrest and conviction of any person for the following postal offenses:
 
 (i) Robbery or attempted robbery.
 

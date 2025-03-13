@@ -8,4 +8,4 @@
 
 (d) Only one request for reconsideration of a final denial may be filed. A claimant shall have no right to file a request for reconsideration of a final denial issued in response to a request for reconsideration.
 
-(28 U.S.C. 2671-2680; 28 CFR 14.1-14.11; 39 U.S.C. 401, 409, 2008)[36 FR 12448, June 30, 1971, as amended at 38 FR 16868, June 27, 1973; 49 FR 19478, May 8, 1984; 69 FR 52607, Aug. 27, 2004; 73 FR 75340, Dec. 11, 2008; 76 FR 52580, Aug. 23, 2011]
+(28 U.S.C. 2671-2680; 28 CFR 14.1-14.11; 39 U.S.C. 401, 409, 2008) [36 FR 12448, June 30, 1971, as amended at 38 FR 16868, June 27, 1973; 49 FR 19478, May 8, 1984; 69 FR 52607, Aug. 27, 2004; 73 FR 75340, Dec. 11, 2008; 76 FR 52580, Aug. 23, 2011]

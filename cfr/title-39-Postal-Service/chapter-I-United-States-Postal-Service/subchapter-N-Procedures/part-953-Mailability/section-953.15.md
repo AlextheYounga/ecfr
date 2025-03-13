@@ -1,0 +1,3 @@
+##### § 953.15 Expedition. #####
+
+For the purpose of further expedition, either party may move to have the hearing held at an earlier date than that specified in the notice. Either party may also move to have the initial decision (if an Administrative Law Judge or the Judicial Officer is presiding) or the final Agency decision (if the Judicial Officer is presiding) rendered orally at the conclusion of the hearing. The presiding officer may grant or deny any such motion. The parties may, with the concurrence of the Judicial Officer, agree to waive any of the procedures established in these rules.

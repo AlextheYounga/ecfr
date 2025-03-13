@@ -1,6 +1,6 @@
 ##### § 122.2 Stand-alone special services. #####
 
-(a) The service standard for P. O. BoxTM service is that mail be available for pickup at the box each delivery day no later than the daily “up-time” publicly posted at the Post OfficeTM location that includes the box section.
+(a) The service standard for P. O. Box TM service is that mail be available for pickup at the box each delivery day no later than the daily “up-time” publicly posted at the Post Office TM location that includes the box section.
 
 (b) The service standard for completion of Address List Services (change-of-address information for election boards and registration commissions, correction and ZIP Code placement of mailing lists, and address sequencing) is transmission of the corrected addresses within 15 business days of receipt to the requester, except for the period from November 16 through January 1.
 

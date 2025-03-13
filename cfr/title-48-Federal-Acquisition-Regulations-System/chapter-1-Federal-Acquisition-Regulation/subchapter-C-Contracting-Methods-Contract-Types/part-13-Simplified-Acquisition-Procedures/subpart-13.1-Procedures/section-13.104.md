@@ -1,5 +1,7 @@
 ##### 13.104 Promoting competition. #####
 
+Link to an amendment published at 89 FR 61330, July 30, 2024.
+
 The contracting officer must promote competition to the maximum extent practicable to obtain supplies and services from the source whose offer is the most advantageous to the Government, considering the administrative cost of the purchase.
 
 (a) The contracting officer must not—

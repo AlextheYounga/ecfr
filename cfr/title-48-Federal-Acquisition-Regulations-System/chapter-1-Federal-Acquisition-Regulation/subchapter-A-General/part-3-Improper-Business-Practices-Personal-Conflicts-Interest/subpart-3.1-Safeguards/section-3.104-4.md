@@ -1,5 +1,7 @@
 ##### 3.104-4 Disclosure, protection, and marking of contractor bid or proposal information and source selection information. #####
 
+Link to an amendment published at 89 FR 61330, July 30, 2024.
+
 (a) Except as specifically provided for in this subsection, no person or other entity may disclose contractor bid or proposal information or source selection information to any person other than a person authorized, in accordance with applicable agency regulations or procedures, by the agency head or the contracting officer to receive such information.
 
 (b) Contractor bid or proposal information and source selection information must be protected from unauthorized disclosure in accordance with 14.401, 15.207, applicable law, and agency regulations.

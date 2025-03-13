@@ -1,5 +1,7 @@
 ##### 52.223-21 Foams. #####
 
+Link to an amendment published at 89 FR 61339, July 30, 2024.
+
 As prescribed in in 23.109(d)(4), insert the following clause:
 
 Foams (MAY 2024)

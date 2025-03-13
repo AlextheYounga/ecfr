@@ -1,0 +1,3 @@
+##### § 954.9 Default. #####
+
+If a publisher fails to appear at the hearing, the presiding officer may: (a) Dismiss the petition; (b) order the petitioner to show cause within 30 days from the date of the order why an order of dismissal should not be entered, and thereafter enter such order as the presiding officer deems to be appropriate. If the petition is dismissed by order of an Administrative Law Judge, the dismissal may be appealed to the Judicial Officer within 15 days from the date of the order.

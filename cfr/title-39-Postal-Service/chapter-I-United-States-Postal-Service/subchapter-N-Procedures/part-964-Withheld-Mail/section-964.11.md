@@ -1,0 +1,3 @@
+##### § 964.11 Transcript. #####
+
+Testimony and argument at hearings shall be reported verbatim, unless the presiding officer orders otherwise. Transcripts or copies of the proceedings are supplied to the parties at such rate as may be fixed by contract between the reporter and Postal Service. Any party desiring a copy of the transcript shall order it from the contract reporter in a timely manner to avoid delay in filing briefs.

@@ -1,0 +1,9 @@
+##### § 955.7 Pleadings. #####
+
+(a) *Appellant.* Within 45 days after receipt of notice of docketing of the appeal, the appellant shall file with the Board a complaint setting forth simple, concise and direct statements of each of its claims, alleging the basis, with appropriate reference to contract provisions, for each claim, and the dollar amount claimed. This pleading shall fulfill the generally recognized requirements of a complaint although no particular form or formality is required. Upon the appellant's request or on the Board's own initiative, the appellant's claim, notice of appeal or other document may be deemed to constitute the complaint if in the opinion of the Board the issues before the Board are sufficiently defined.
+
+(b) *Respondent.* Within 30 days from receipt of said complaint, or the aforesaid notice from the Board, the respondent shall prepare and file with the Board an answer thereto, setting forth simple, concise, and direct statements of the respondent's defenses to each claim asserted by the appellant. This pleading shall fulfill the generally recognized requirements of an answer, and shall set forth any affirmative defenses or counterclaims as appropriate. Should the answer not be filed within the time required, the Board may, in its discretion, enter a general denial on behalf of the respondent, and the appellant shall be so notified.
+
+(c) *Affirmative claims by the respondent.* Where an appellant has appealed an affirmative claim by the respondent asserted in a final decision by a Postal Service contracting officer, such as a termination for default or a Postal Service claim that a contractor owes the Postal Service money under a contract, the Board may order the respondent to file the complaint as described in § 955.7(a), and the appellant to file the answer as described in § 955.7(b).
+
+[74 FR 20592, May 5, 2009, as amended at 76 FR 37660, June 28, 2011; 80 FR 31304, June 2, 2015]

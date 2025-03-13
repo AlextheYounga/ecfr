@@ -10,4 +10,4 @@
 
 (2) *Contract.* Operated under contract by persons who are not Federal Government employees. Persons operating contract stations and branches are independent contractors and neither the contractors nor any person employed by them to assist in the conduct of contract stations or branches shall be employees of the Federal Government for any purpose whatsoever.
 
-(39 U.S.C. 401)[36 FR 4764, Mar. 12, 1971]
+(39 U.S.C. 401) [36 FR 4764, Mar. 12, 1971]

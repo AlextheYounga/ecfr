@@ -1,5 +1,7 @@
 ##### 52.246-26 Reporting Nonconforming Items. #####
 
+Link to an amendment published at 89 FR 61339, July 30, 2024.
+
 As prescribed in 46.317, insert the following clause:
 
 Reporting Nonconforming Items (NOV 2021)

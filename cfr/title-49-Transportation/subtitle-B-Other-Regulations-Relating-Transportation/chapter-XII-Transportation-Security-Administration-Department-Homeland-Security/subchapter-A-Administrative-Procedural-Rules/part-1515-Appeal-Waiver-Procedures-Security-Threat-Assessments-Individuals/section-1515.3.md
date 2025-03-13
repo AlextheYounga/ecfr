@@ -1,7 +1,5 @@
 ##### § 1515.3 Terms used in this part. #####
 
-Link to an amendment published at 89 FR 35626, May 1, 2024.
-
 The terms used in 49 CFR parts 1500, 1540, 1570, and 1572 also apply in this part. In addition, the following terms are used in this part:
 
 *Administrative law judge* means an administrative law judge appointed pursuant to the provisions of 5 U.S.C. 3105.
@@ -20,8 +18,6 @@ The terms used in 49 CFR parts 1500, 1540, 1570, and 1572 also apply in this par
 
 (5) The date on which an electronic transmission occurs.
 
-*Day* means calendar day.
-
 *Final Agency Order* means an order issued by the TSA Final Decision Maker.
 
 *Decision denying a review of a waiver* means a document issued by an administrative law judge denying a waiver requested under 49 CFR 1515.7.
@@ -39,3 +35,5 @@ The terms used in 49 CFR parts 1500, 1540, 1570, and 1572 also apply in this par
 *Security threat assessment* means the threat assessment for which the applicant has applied, as described in 49 CFR 1515.1.
 
 *TSA Final Decision Maker* means the Administrator, acting in the capacity of the decision maker on appeal, or any person to whom the Administrator has delegated the Administrator's decision-making authority. As used in this subpart, the *TSA Final Decision Maker* is the official authorized to issue a final decision and order of the Administrator.
+
+[72 FR 3588, Jan. 25, 2007, as amended at 89 FR 35626, May 1, 2024]

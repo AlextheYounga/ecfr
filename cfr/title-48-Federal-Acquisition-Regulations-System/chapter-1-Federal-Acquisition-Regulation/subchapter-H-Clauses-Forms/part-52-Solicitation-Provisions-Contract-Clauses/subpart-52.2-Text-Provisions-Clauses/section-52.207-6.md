@@ -1,5 +1,7 @@
 ##### 52.207-6 Solicitation of Offers from Small Business Concerns and Small Business Teaming Arrangements or Joint Ventures (Multiple-Award Contracts). #####
 
+Link to an amendment published at 89 FR 61338, July 30, 2024.
+
 As prescribed in 7.107-6, insert the following provision:
 
 Solicitation of Offers From Small Business Concerns and Small Business Teaming Arrangements or Joint Ventures (Multiple-Award Contracts) (DEC 2022)

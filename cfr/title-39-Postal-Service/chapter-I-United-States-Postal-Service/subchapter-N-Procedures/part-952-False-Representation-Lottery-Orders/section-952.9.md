@@ -1,0 +1,7 @@
+##### § 952.9 Filing; docketing and serving documents. #####
+
+(a) Unless the presiding officer permits otherwise, all documents must be filed using the electronic filing system. Documents submitted using the electronic filing system are considered filed as of the date/time (Eastern Time) reflected in the system. Documents mailed to the Recorder are considered filed on the date mailed as evidenced by a United States Postal Service postmark. Filings by any other means are considered filed upon receipt by the Recorder of a complete copy of the filing during normal business hours. Discovery need not be filed except as may be sought to be included in the record, or as may be ordered by the presiding officer.
+
+(b) Documents shall be dated and state the docket number and title of the proceeding. Any pleading or other document required by order of the presiding officer to be filed by a specified date must be received in the electronic filing system or by the Recorder on or before such date. If both parties are participating in the electronic filing system, separate service upon the opposing party is not required. Otherwise, documents shall be served personally or by mail on the opposing party, noting on the document filed, or on the transmitting letter, that a copy has been so furnished.
+
+[81 FR 40192, June 21, 2016]

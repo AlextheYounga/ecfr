@@ -1,12 +1,8 @@
 ##### § 1570.3 Terms used in this subchapter. #####
 
-Link to an amendment published at 89 FR 35631, May 1, 2024.
-
 In addition to the definitions in §§ 1500.3, 1500.5, and 1503.202 of subchapter A, the following terms are used in this subchapter:
 
 *Adjudicate* means to make an administrative determination of whether an applicant meets the standards in this subchapter, based on the merits of the issues raised.
-
-*Alien* means any person not a citizen or national of the United States.
 
 *Alien registration number* means the number issued by the DHS to an individual when he or she becomes a lawful permanent resident of the United States or attains other lawful, non-citizen status.
 
@@ -44,13 +40,9 @@ In addition to the definitions in §§ 1500.3, 1500.5, and 1503.202 of subchapte
 
 *Invalidate* means the action TSA takes to make a credential inoperative when it is reported as lost, stolen, damaged, no longer needed, or when TSA determines an applicant does not meet the security threat assessment standards of 49 CFR part 1572.
 
-*Lawful permanent resident* means an alien lawfully admitted for permanent residence, as defined in 8 U.S.C. 1101(a)(20).
-
 *Maritime facility* has the same meaning as “facility” together with “OCS facility” (Outer Continental Shelf facility), as defined in 33 CFR 101.105.
 
 *Mental health facility* means a mental institution, mental hospital, sanitarium, psychiatric facility, and any other facility that provides diagnoses by licensed professionals of mental retardation or mental illness, including a psychiatric ward in a general hospital.
-
-*National of the United States* means a citizen of the United States, or a person who, though not a citizen, owes permanent allegiance to the United States, as defined in 8 U.S.C. 1101(a)(22), and includes American Samoa and Swains Island.
 
 *Revocation* means the termination, deactivation, rescission, invalidation, cancellation, or withdrawal of the privileges and duties conferred by an HME or TWIC, when TSA determines an applicant does not meet the security threat assessment standards of 49 CFR part 1572.
 
@@ -60,8 +52,8 @@ In addition to the definitions in §§ 1500.3, 1500.5, and 1503.202 of subchapte
 
 *Security-sensitive job function,* for purposes of this part, means a job function identified in appendix B to part 1580, appendix B to part 1582, and appendix B to part 1584 of this title.
 
-*Security threat* means an individual whom TSA determines or suspects of posing a threat to national security; to transportation security; or of terrorism.
-
 *Transportation Worker Identification Credential (TWIC)* means a Federal biometric credential, issued to an individual, when TSA determines that the individual does not pose a security threat.
 
 *Withdrawal of Initial Determination of Threat Assessment* is the document that TSA issues after issuing an Initial Determination of Security Threat, when TSA determines that an individual does not pose a security threat that warrants denial of an HME or TWIC.
+
+[85 FR 16499, Mar. 23, 2020, as amended at 89 FR 35631, May 1, 2024]

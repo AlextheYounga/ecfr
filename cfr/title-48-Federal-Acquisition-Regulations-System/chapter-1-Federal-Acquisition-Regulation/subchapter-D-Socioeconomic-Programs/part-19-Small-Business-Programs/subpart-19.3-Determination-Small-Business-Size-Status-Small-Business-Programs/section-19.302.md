@@ -1,5 +1,7 @@
 ##### 19.302 Protesting a small business representation or rerepresentation. #####
 
+Link to an amendment published at 89 FR 61336, July 30, 2024.
+
 (a)(1) The SBA regulations on small business size and size protests are found at 13 CFR part 121.
 
 (2) An offeror, the contracting officer, SBA, or another interested party may protest the small business representation of an offeror in a specific offer for a contract. However, for competitive 8(a) contracts, the filing of a protest is limited to an offeror, the contracting officer, or the SBA.

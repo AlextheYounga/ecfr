@@ -1,0 +1,5 @@
+##### § 964.15 Decisions. #####
+
+(a) *Initial decision by Administrative Law Judge.* A written initial decision shall be rendered by an Administrative Law Judge with all due speed. The initial decision shall include findings and conclusions with the reasons therefor upon all the material issues of fact or law presented in the record, and the appropriate orders or denial thereof. The initial decision shall become the final agency decision unless an appeal is taken in accordance with § 964.16.
+
+(b) *Tentative or final decision by the Judicial Officer.* When the Judicial Officer presides at the hearing he shall issue a final or a tentative decision. Such decision shall include findings and conclusions with the reasons therefor upon all the material issues of fact or law presented in the record, and the appropriate orders or denial thereof. The tentative decision shall become the final agency decision unless exceptions are filed in accordance with § 964.16.

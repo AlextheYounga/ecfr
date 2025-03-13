@@ -1,5 +1,7 @@
 ##### 52.244-5 Competition in Subcontracting. #####
 
+Link to an amendment published at 89 FR 61339, July 30, 2024.
+
 As prescribed in 44.204(c), insert the following clause:
 
 Competition in Subcontracting (DEC 1996)

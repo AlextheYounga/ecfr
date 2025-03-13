@@ -1,0 +1,7 @@
+##### § 953.5 Hearings. #####
+
+(a) In general, admissibility of evidence at hearings conducted under this part hinges on relevancy and materiality. However, relevant evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice, or by considerations of undue delay, or by needless presentation of cumulative evidence. Testimony shall be given under oath or affirmation, and witnesses are subject to cross-examination. Stipulations of fact are encouraged and may be received in evidence.
+
+(b) Objections to the admission or exclusion of evidence shall be in short form, stating the grounds of objections relied upon. The transcript shall not include argument or debate thereon except as ordered by the presiding officer. Rulings on such objections shall be a part of the transcript.
+
+(c) Formal exceptions to the rulings of the presiding officer made during the course of the hearing are unnecessary. For all purposes for which an exception otherwise would be taken, it is sufficient that a party, when the ruling of the presiding officer is made or sought, makes known the action he desires the presiding officer to take or his objection to an action taken, and his grounds therefor.

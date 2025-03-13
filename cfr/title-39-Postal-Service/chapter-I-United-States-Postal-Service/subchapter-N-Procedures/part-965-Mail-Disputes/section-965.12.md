@@ -1,0 +1,5 @@
+##### § 965.12 Appeal. #####
+
+Within 10 days after receipt by the parties of the initial or tentative decision, either party may file an appeal to the Judicial Officer. The Judicial Officer, or by delegation the Associate Judicial Officer, in his or her sole discretion, also may review the initial or tentative decision on his or her own initiative. If an appeal is denied, the initial or tentative decision becomes the final agency decision upon the issuance of such denial. If an appeal is not filed and the Judicial Officer, or by delegation the Associate Judicial Officer does not review the initial or tentative decision on his or her own initiative, a final order will be issued. The Judicial Officer's decision on appeal or his or her final order is the final agency decision with no further agency review or appeal rights.
+
+[76 FR 15219, Mar. 21, 2011]

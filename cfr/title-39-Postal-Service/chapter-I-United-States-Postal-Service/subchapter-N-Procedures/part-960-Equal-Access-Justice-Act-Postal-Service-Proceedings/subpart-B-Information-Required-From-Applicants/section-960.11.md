@@ -1,0 +1,7 @@
+##### § 960.11 Documentation of fees and expenses. #####
+
+(a) The application shall be accompanied by full documentation of the fees and expenses, including the cost of any study, analysis, engineering report, test, project or similar matter, for which an award is sought. A separate itemized statement shall be submitted for each professional firm or individual whose services are covered by the application, showing the hours spent in connection with the proceeding by each individual, a description of the specific services performed, the rate at which each fee has been computed, any expenses for which reimbursement is sought, the total amount claimed, and the total amount paid or payable by the applicant or by any other person or entity for the services provided. The adjudicative officer may require the applicant to provide vouchers, receipts, or other substantiation for any expenses claimed. In addition, the Board of Contract Appeals may require an applicant to submit to an audit by the Postal Service of its claimed fees and expenses.
+
+(b) Where the case has been sustained in part and denied in part or where the applicant has prevailed in only a significant and discrete substantive portion of the case, the application must be limited to fees and expenses allocable to the portion of the case as to which the applicant was the prevailing party.
+
+[46 FR 45945, Sept. 16, 1981, as amended at 52 FR 6798, Mar. 5, 1987]

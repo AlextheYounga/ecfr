@@ -1,0 +1,3 @@
+##### § 965.11 Initial decision. #####
+
+The presiding officer shall render an initial decision in writing, based on the record, as expeditiously as possible, but to the extent practicable within 10 working days of closing of the record. The decision will be brief, containing summary findings of fact, conclusions of law, and reasons therefor. If there has been a hearing the presiding officer may in his discretion render an oral decision. A typed copy of such oral decision will subsequently be furnished to the parties to establish the date for commencement of time for requesting review of the initial decision.

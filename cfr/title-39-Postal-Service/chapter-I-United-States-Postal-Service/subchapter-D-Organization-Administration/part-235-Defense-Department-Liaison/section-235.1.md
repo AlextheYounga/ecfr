@@ -6,4 +6,4 @@
 
 (c) Postal inspectors provide liaison between postmasters and military commanders, visit military installations as required, and make any necessary recommendations.
 
-(39 U.S.C. 401(2), 402, 403, 404, as enacted by Pub. L. 91-375, 84 Stat. 719)[38 FR 26193, Sept. 9, 1973]
+(39 U.S.C. 401(2), 402, 403, 404, as enacted by Pub. L. 91-375, 84 Stat. 719) [38 FR 26193, Sept. 9, 1973]

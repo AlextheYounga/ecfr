@@ -1,5 +1,7 @@
 ##### 3.103-2 Evaluating the certification. #####
 
+Link to an amendment published at 89 FR 61330, July 30, 2024.
+
 (a) *Evaluation guidelines.* (1) None of the following, in and of itself, constitutes *disclosure* as it is used in paragraph (a)(2) of the Certificate of Independent Price Determination (hereafter, the certificate):
 
 (i) The fact that a firm has published price lists, rates, or tariffs covering items being acquired by the Government.

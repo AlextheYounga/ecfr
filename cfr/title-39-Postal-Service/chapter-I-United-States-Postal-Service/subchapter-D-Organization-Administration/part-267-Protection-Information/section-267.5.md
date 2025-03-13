@@ -88,4 +88,4 @@
 
 (4) *Research requests.* Requests from historical researchers for access to national security information shall be referred to the originating agency.
 
-(39 U.S.C. 401 (2), (10), 404(a)(7))[44 FR 51224, Aug. 31, 1979, as amended at 45 FR 30069, May 7, 1980; 49 FR 22476, May 30, 1984; 60 FR 57345, 57346, Nov. 15, 1995; 64 FR 41291, July 30, 1999; 68 FR 56560, Oct. 1, 2003]
+(39 U.S.C. 401 (2), (10), 404(a)(7)) [44 FR 51224, Aug. 31, 1979, as amended at 45 FR 30069, May 7, 1980; 49 FR 22476, May 30, 1984; 60 FR 57345, 57346, Nov. 15, 1995; 64 FR 41291, July 30, 1999; 68 FR 56560, Oct. 1, 2003]

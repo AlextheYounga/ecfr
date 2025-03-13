@@ -1,0 +1,3 @@
+##### § 959.2 Scope of rules. #####
+
+These rules apply to all Postal Service proceedings in which part 310 of this title authorizes appeals to the Judicial Officer from demands for postage for matter carried in violation of the Private Express Statutes, and in proceedings to revoke, as to any person, the suspension of provisions of the Private Express Statutes in accordance with part 320 of this title.

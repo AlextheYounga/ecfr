@@ -1,6 +1,6 @@
 ##### § 8.2 Transparency. #####
 
-Link to an amendment published at 89 FR 45554, May 22, 2024.
+Link to an amendment published at 89 FR 61272, July 30, 2024.Link to an amendment published at 89 FR 45554, May 22, 2024.
 
 (a) Any person providing broadband internet access service shall publicly disclose accurate information regarding the network management practices, performance characteristics, and commercial terms of its broadband internet access services sufficient to enable consumers to make informed choices regarding the purchase and use of such services and entrepreneurs and other small businesses to develop, market, and maintain internet offerings. Such disclosure shall be made via a publicly available, easily accessible website or through transmittal to the Commission.
 

@@ -1,0 +1,7 @@
+##### § 960.7 Rulemaking on maximum rates for attorney fees. #####
+
+(a) If warranted by an increase in the cost of living or by special circumstances (such as limited availability of attorneys qualified to handle certain types of proceedings), the Postal Service may adopt regulations providing that attorney fees may be awarded at a rate higher than $125.00 per hour, or such rate as prescribed by 5 U.S.C. 504, in some or all of the types of proceedings covered by this part. The Postal Service will conduct any rulemaking proceedings for this purpose under the informal rulemaking procedures of the Administrative Procedure Act.
+
+(b) Any person may request the Postal Service to initiate a rulemaking proceeding to increase the maximum rate for attorney fees. The request should identify the rate the person believes the Postal Service should establish and the types of proceedings in which the rate should be used. It should also explain fully the reasons why the higher rate is warranted. The Postal Service will respond to the request within 60 days after it is filed, by determining to initiate a rulemaking proceeding, denying the request, or taking other appropriate action.
+
+[46 FR 45945, Sept. 16, 1981, as amended at 66 FR 55577, Nov. 2, 2001]

@@ -1,5 +1,7 @@
 ##### 19.307 Protesting a firm's status as a service-disabled veteran-owned small business concern. #####
 
+Link to an amendment published at 89 FR 61336, July 30, 2024.
+
 (a) *Definition. Interested party,* as used in this section, has the meaning given in 13 CFR 134.1002(b).
 
 (b) *General.* (1) For sole source acquisitions, the contracting officer, the Department of Veterans Affairs (VA), or SBA may protest the apparently successful offeror's service-disabled veteran-owned small business (SDVOSB) status. For all other acquisitions, any interested party may protest the apparently successful offeror's service-disabled veteran-owned small business status.

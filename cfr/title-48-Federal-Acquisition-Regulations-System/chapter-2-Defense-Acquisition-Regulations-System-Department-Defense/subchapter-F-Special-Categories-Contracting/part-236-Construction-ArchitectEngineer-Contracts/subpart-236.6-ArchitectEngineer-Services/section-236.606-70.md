@@ -1,6 +1,6 @@
 ##### 236.606-70 Statutory fee limitation. #####
 
-Link to an amendment published at 89 FR 53504, June 27, 2024.
+Link to an amendment published at 89 FR 53504, June 27, 2024.Link to an extension of the above amendment published at 89 FR 61029, July 30, 2024.
 
 (a) 10 U.S.C. 7540, 8612, and 9540 limit the contract price (or fee) for architect-engineer services for the preparation of designs, plans, drawings, and specifications to six percent of the project's estimated construction cost.
 

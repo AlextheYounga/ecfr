@@ -1,0 +1,3 @@
+##### § 958.23 Settlement. #####
+
+Either party may make offers of settlement or proposals of adjustment at any time. The Determining Official has the exclusive authority to compromise or settle any determinations of liability for civil penalties, clean-up costs and/or damages for mailing hazardous materials and/or related violations under 39 U.S.C. 3018, without the consent of the Presiding Officer or Judicial Officer.

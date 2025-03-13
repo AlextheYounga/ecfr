@@ -6,7 +6,7 @@
 
 (1) The cautionary message must be placed on all meters in a conspicuous and highly visible location. PROPERTY OF [NAME OF PROVIDER] as well as the provider's toll-free number must be emphasized by capitalized bold type and preferably printed in red. The minimum width of the message should be 3.25 inches, and the minimum height should be 1.75 inches. The message should read as follows:
 
-RENTED POSTAGE METER-NOT FOR SALEPROPERTY OF [NAME OF PROVIDER](800) ###-####
+RENTED POSTAGE METER-NOT FOR SALE PROPERTY OF [NAME OF PROVIDER] (800) ###-####
 
 Use of this meter is permissible only under U.S. Postal Service authorization. Call [Name of Provider] at (800) ###-#### to relocate/return this meter.
 

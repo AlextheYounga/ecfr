@@ -1,0 +1,3 @@
+##### § 961.9 Opportunity for oral hearing. #####
+
+An oral hearing shall be conducted in the sole discretion of the Hearing Official. An oral hearing may be conducted in-person, by telephone, by video conference, or other appropriate means as directed by the Hearing Official. When the Hearing Official determines that an oral hearing shall not be conducted, the decision shall be based solely on the written submissions. The Hearing Official shall arrange for the recording and transcription of an oral hearing, which shall serve as the official record of the hearing. In the event of an unexcused absence, the hearing may proceed without the participation of the absent party.

@@ -1,0 +1,3 @@
+##### § 955.33 Ex parte communications. #####
+
+No member of the Board or of the Board's staff shall entertain, nor shall any person directly or indirectly involved in an appeal submit to the Board or the Board's staff, off the record, any evidence, explanation, analysis, or advice, whether written or oral, regarding any matter at issue in an appeal. This provision does not apply to consultation among Board members nor to *ex parte* communications concerning the Board's administrative functions or procedures.

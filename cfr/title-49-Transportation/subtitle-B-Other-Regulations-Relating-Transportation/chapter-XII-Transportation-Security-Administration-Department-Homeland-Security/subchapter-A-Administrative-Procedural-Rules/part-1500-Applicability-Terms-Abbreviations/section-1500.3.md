@@ -1,7 +1,5 @@
 ##### § 1500.3 Terms and abbreviations used in this chapter. #####
 
-Link to an amendment published at 89 FR 35625, May 1, 2024.
-
 As used in this chapter:
 
 *Administrator* means the Assistant Secretary for Homeland Security, Transportation Security Administration (Assistant Secretary), who is the highest-ranking TSA official, or his or her designee. Administrator also means the Under Secretary of Transportation for Security identified in 49 U.S.C. 114(b).
@@ -12,9 +10,13 @@ As used in this chapter:
 
 *Bus transit system* means a public transportation system providing frequent transportation service (not limited to morning and evening peak travel times) for the primary purpose of moving passengers between bus stops, often through multiple connections (a bus transit system does not become a commuter bus system even if its primary purpose is the transportation of commuters). This term does not include tourist, scenic, historic, or excursion operations.
 
+*Citizen of the United States* or *U.S. Citizen* means any person who is a United States citizen by law, birth, or naturalization as described in 8 U.S.C. 1401 *et seq.*
+
 *Commuter bus system* means a system providing passenger service primarily during morning and evening peak periods, between an urban area and more distant outlying communities in a greater metropolitan area. This term does not include tourist, scenic, historic, or excursion operations.
 
 *Commuter passenger train service* means “train, commuter” as defined in 49 CFR 238.5, and includes service provided by diesel or electric powered locomotives and railroad passenger cars to serve an urban area, its suburbs, and more distant outlying communities in the greater metropolitan area. A commuter passenger train service is part of the general railroad system of transportation regardless of whether it is physically connected to other railroads.
+
+*Day* means calendar day, unless called “business day,” which refers to Monday through Friday, excluding days when the U.S. Government is closed.
 
 *DHS* means the Department of Homeland Security and any directorate, bureau, or other component within the Department of Homeland Security, including the United States Coast Guard.
 
@@ -34,9 +36,19 @@ As used in this chapter:
 
 *Intercity passenger train service* means both “train, long-distance intercity passenger” and “train, short-distance intercity passenger” as defined in 49 CFR 238.5.
 
+*Lawful permanent resident* means a person “lawfully admitted for permanent residence” as defined in 8 U.S.C. 1101(a)(20).
+
 *Light rail transit* means service provided by self-propelled electric railcars, typically drawing power from an overhead wire, operating in either exclusive or non-exclusive rights-of-way in single or multiple cars, with shorter distance trips, and frequent stops; also referred to as streetcars, trolleys, and trams.
 
 *Motor vehicle* means a vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used upon the highways in the transportation of passengers or property, or any combination thereof, but does not include any vehicle, locomotive, or car operated exclusively on a rail or rails, or a trolley bus operated by electric power derived from a fixed overhead wire, furnishing local passenger transportation similar to street-railway service.
+
+*National of the United States* or *U.S. national* means:
+
+(1) A citizen of the United States; or
+
+(2) A person who, though not a citizen of the United States, owes permanent allegiance to the United States, as defined in 8 U.S.C. 1101(a)(22).
+
+*Non-U.S. citizen* means an individual who is not a citizen or national of the United States. This term is synonymous with the term “alien” as defined in 8 U.S.C. 1101(a)(3).
 
 *Over-the-Road Bus (OTRB)* means a bus characterized by an elevated passenger deck located over a baggage compartment.
 
@@ -112,4 +124,4 @@ As used in this chapter:
 
 *Vulnerability assessment* includes any review, audit, or other examination of the security of a transportation system, infrastructure asset, or a transportation-related automated system or network to determine its vulnerability to unlawful interference, whether during the conception, planning, design, construction, operation, or decommissioning phase. A vulnerability assessment includes the methodology for the assessment, the results of the assessment, and any proposed, recommended, or directed actions or countermeasures to address security concerns.
 
-[85 FR 16497, Mar. 23, 2020]
+[85 FR 16497, Mar. 23, 2020, as amended at 89 FR 35625, May 1, 2024]

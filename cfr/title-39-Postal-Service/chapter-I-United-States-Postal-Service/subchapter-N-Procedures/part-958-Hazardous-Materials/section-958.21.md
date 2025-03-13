@@ -1,0 +1,3 @@
+##### § 958.21 Computation of time. #####
+
+In computing any period of time provided for by this part, or any order issued pursuant to this part, the time begins with the day following the act, event, or default, and includes the last day of the period, unless it is a Saturday, Sunday, or legal holiday observed by the Federal Government, in which event it includes the next business day. Except as otherwise provided in these rules or an applicable order, prescribed periods of time are measured in calendar days rather than business days.

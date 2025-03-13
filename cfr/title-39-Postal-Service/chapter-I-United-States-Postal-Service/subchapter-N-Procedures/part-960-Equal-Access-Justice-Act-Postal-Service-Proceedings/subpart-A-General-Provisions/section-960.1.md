@@ -1,0 +1,5 @@
+##### § 960.1 Purpose of these rules. #####
+
+The Equal Access to Justice Act, 5 U.S.C. 504 (called “the Act” in this part), provides for the award of attorney fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings (called “adversary adjudications”) before the Postal Service. An eligible party may receive an award when it prevails over the Postal Service, unless the Postal Service's position was substantially justified or special circumstances make an award unjust. The rules in this part describe the parties eligible for awards and the proceedings that are covered. They also explain how to apply for awards, and the procedures and standards that the Postal Service will use to make them.
+
+[46 FR 45945, Sept. 16, 1981, as amended at 52 FR 6797, Mar. 5, 1987]

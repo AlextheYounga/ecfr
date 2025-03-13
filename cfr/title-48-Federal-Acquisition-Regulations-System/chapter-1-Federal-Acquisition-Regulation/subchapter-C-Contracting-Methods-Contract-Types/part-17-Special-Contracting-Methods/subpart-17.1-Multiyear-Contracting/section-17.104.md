@@ -1,5 +1,7 @@
 ##### 17.104 General. #####
 
+Link to an amendment published at 89 FR 61338, July 30, 2024.
+
 (a) Multiyear contracting is a special contracting method to acquire known requirements in quantities and total cost not over planned requirements for up to 5 years unless otherwise authorized by statute, even though the total funds ultimately to be obligated may not be available at the time of contract award. This method may be used in sealed bidding or contracting by negotiation.
 
 (b) Multiyear contracting is a flexible contract method applicable to a wide range of acquisitions. The extent to which cancellation terms are used in multiyear contracts will depend on the unique circumstances of each contract. Accordingly, for multiyear contracts, the agency head may authorize modification of the requirements of this subpart and the clause at 52.217-2, Cancellation Under Multiyear Contracts.
