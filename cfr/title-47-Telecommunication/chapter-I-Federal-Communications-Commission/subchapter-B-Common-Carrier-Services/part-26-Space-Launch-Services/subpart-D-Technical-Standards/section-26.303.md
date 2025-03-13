@@ -1,5 +1,7 @@
 ##### § 26.303 Power limits. #####
 
+Link to an amendment published at 90 FR 11493, Mar. 7, 2025.
+
 (a) *2025-2110 MHz.* The equivalent isotropically radiated power (EIRP) transmitted in any direction towards the horizon by an earth station in the 2025-2110 MHz band of the Space Launch Services shall not (with limited exceptions) exceed the following limits:
 
 (1) +40 dBW in any 4 kHz band for u ≤0°;

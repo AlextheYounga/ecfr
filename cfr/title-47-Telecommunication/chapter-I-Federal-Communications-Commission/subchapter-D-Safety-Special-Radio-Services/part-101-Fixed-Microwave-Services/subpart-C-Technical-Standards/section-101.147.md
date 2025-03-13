@@ -2,7 +2,7 @@
 
 (a) Frequencies in the following bands are available for assignment for fixed microwave services.
 
-928.0-929.0 MHz (28)932.0-932.5 MHz (27)932.5-935 MHz (17)941.0-941.5 MHz (27)941.5-944 MHz (17) (18)952.0-960.0 MHz (28)1,850-1,990 MHz (20) (22)2,110-2,130 MHz) (1) (3) (7) (20) (23)2,130-2,150 MHz (20) (22)2,160-2,180 MHz (1) (2) (20) (23)2,180-2,200 MHz (20) (22)2,450-2,500 MHz (12)2,650-2,690 MHz3,700-4,200 MHz (8) (14) (25)5,925-6,425 MHz (6) (14) (25)6,425-6,525 MHz (24)6,525-6.875 MHz (14) (33)6,875-7,125 MHz (10), (34)10,550-10,680 MHz (19)10,700-11,700 MHz (8) (9) (19) (25)11,700-12,200 MHz (24)12,200-12,700 MHz (31)12,700-13,200 (22), (34)13,200-13,250 MHz (4) (24) (25)14,200-14,400 MHz (24)17,700-18,820 MHz (5) (10) (15)17,700-18,300 MHz (10) (15)18,820-18,920 MHz (22)18,300-18,580 MHz (5) (10) (15)18,580-19,300 MHz (22) (30)18,920-19,160 MHz (5 (10) (15)19,160-19,260 MHz (22)19,260-19,700 MHz (5) (10) (15)19,300-19,700 MHz (5) (10) (15)21,200-22,000 MHz (4) (11) (12) (13) (24) (25) (26)22,000-23,600 MHz (4) (11) (12) (24) (25) (26)24,250-25,250 MHz29,100-29,250 MHz (5), (16)31,000-31,300 MHz (16)42,000-42,500 MHz71,000-76,000 MHz (5) (17)81,000-86,000 MHz (5) (17)92,000-94,000 MHz (17)94,100-95,000 MHz (17)Notes
+928.0-929.0 MHz (28)932.0-932.5 MHz (27)932.5-935 MHz (17)941.0-941.5 MHz (27)941.5-944 MHz (17) (18)952.0-960.0 MHz (28)1,850-1,990 MHz (20) (22)2,110-2,130 MHz) (1) (3) (7) (20) (23)2,130-2,150 MHz (20) (22)2,160-2,180 MHz (1) (2) (20) (23)2,180-2,200 MHz (20) (22)2,450-2,500 MHz (12)2,650-2,690 MHz3,700-4,200 MHz (8) (14) (25)5,925-6,425 MHz (6) (14) (25)6,425-6,525 MHz (24)6,525-6.875 MHz (14) (33)6,875-7,125 MHz (10), (34)10,550-10,680 MHz (19)10,700-11,700 MHz (8) (9) (19) (25)11,700-12,200 MHz (24)12,200-12,700 MHz (31)12,700-13,200 (22), (34)13,200-13,250 MHz (4) (24) (25)14,200-14,400 MHz (24)17,700-18,820 MHz (5) (10) (15)17,700-18,300 MHz (10) (15)18,820-18,920 MHz (22)18,300-18,580 MHz (5) (10) (15)18,580-19,300 MHz (22) (30)18,920-19,160 MHz (5 (10) (15)19,160-19,260 MHz (22)19,260-19,700 MHz (5) (10) (15)19,300-19,700 MHz (5) (10) (15)21,200-22,000 MHz (4) (11) (12) (13) (24) (25) (26)22,000-23,600 MHz (4) (11) (12) (24) (25) (26)24,250-25,250 MHz29,100-29,250 MHz (5), (16)31,000-31,300 MHz (16)42,000-42,500 MHz71,000-76,000 MHz (5) (17)81,000-86,000 MHz (5) (17)92,000-94,000 MHz (17)94,100-95,000 MHz (17) Notes
 
 (1) Frequencies in this band are shared with control and repeater stations in the Public Mobile Services and with stations in the International Fixed Public Radio communication Services located south of 25°30′ north latitude in the State of Florida and U. S. possessions in the Caribbean area. Additionally, the band 2160-2162 MHz is shared with stations in the Multipoint Distribution Service.
 
@@ -758,7 +758,7 @@ For mobile operations the maximum ERP is 25 watts (44 dBm).
 |                                                                6152.75 <sup>1</sup>                                                                 |  <sup>1</sup> 6404.79  |
 |<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.|                        |
 
-(9) 60 MHz bandwidth channels:1
+(9) 60 MHz bandwidth channels: 1
 
 |Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
 |------------------------------------|------------------------------------|
@@ -1590,7 +1590,7 @@ For mobile operations the maximum ERP is 25 watts (44 dBm).
 |                                                                 11185 <sup>1</sup>                                                                  |   <sup>1</sup> 11685   |
 |<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.|                        |
 
-(7) 40 MHz bandwidth channels:2
+(7) 40 MHz bandwidth channels: 2
 
 |                                                                                          Transmit (receive) (MHz)                                                                                          |Receive (transmit) (MHz)|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
@@ -1609,7 +1609,7 @@ For mobile operations the maximum ERP is 25 watts (44 dBm).
 |                           <sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.                            |                        |
 |<sup>2</sup> In congested areas where 40 MHz channels block most 30 MHz channels, radios authorized for 30 MHz bandwidths may use the 40 MHz channels. In uncongested areas, 30 MHz channels should be used.|                        |
 
-(8) 80 MHz bandwidth channels:1
+(8) 80 MHz bandwidth channels: 1
 
 |Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
 |------------------------------------|------------------------------------|

@@ -76,7 +76,7 @@ This section describes the carrier frequencies assignable for ship-to-ship and s
 
 (d) *Radioprinter frequencies.* (1) The following table describes the bands available for radioprinter simplex communications between ship and private coast stations:
 
-Frequency Bands (kHz)2107-2170 4750-48502194-2495 5060-54502505-2850 5700-595013155-3400 7300-810014438-4650
+Frequency Bands (kHz) 2107-2170 4750-4850 2194-2495 5060-5450 2505-2850 5700-5950 13155-3400 7300-8100 14438-4650
 
 1 After April 1, 2007, use of the sub-bands 5900-5950 kHz and 7300-7350 kHz shall be on the condition that harmful interference is not caused to HF broadcasting.
 

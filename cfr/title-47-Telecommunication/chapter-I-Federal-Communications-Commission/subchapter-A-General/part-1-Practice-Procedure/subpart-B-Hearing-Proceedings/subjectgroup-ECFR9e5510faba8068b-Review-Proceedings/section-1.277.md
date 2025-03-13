@@ -12,4 +12,4 @@
 
 (f) Any commissioner who is not present at oral argument and who is otherwise authorized to participate in a final decision may participate in making that decision after reading the transcript of oral argument.
 
-(Sec. 409, 48 Stat. 1096, as amended; 47 U.S.C. 409)[28 FR 12425, Nov. 22, 1963, as amended at 41 FR 14873, Apr. 8, 1976; 41 FR 34259, Aug. 13, 1976; 44 FR 12426, Mar. 7, 1979; 56 FR 793, Jan. 9, 1991; 62 FR 4171, Jan. 29, 1997; 71 FR 15618, Mar. 29, 2006]
+(Sec. 409, 48 Stat. 1096, as amended; 47 U.S.C. 409) [28 FR 12425, Nov. 22, 1963, as amended at 41 FR 14873, Apr. 8, 1976; 41 FR 34259, Aug. 13, 1976; 44 FR 12426, Mar. 7, 1979; 56 FR 793, Jan. 9, 1991; 62 FR 4171, Jan. 29, 1997; 71 FR 15618, Mar. 29, 2006]

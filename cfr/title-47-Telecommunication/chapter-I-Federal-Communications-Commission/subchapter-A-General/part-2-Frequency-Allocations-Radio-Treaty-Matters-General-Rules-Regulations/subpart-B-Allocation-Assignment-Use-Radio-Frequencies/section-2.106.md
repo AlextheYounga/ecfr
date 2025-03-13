@@ -1,6 +1,6 @@
 ##### § 2.106 Table of Frequency Allocations. #####
 
-Link to an amendment published at 89 FR 100865, Dec. 13, 2024.Link to an amendment published at 90 FR 11388, Mar. 6, 2025.
+Link to an amendment published at 89 FR 100865, Dec. 13, 2024.Link to an amendment published at 90 FR 11388, Mar. 6, 2025.Link to an amendment published at 90 FR 11491, Mar. 7, 2025.
 
 (a) *Allocation Table.* The Table of Frequency Allocations (Allocation Table) consists of the International Table of Frequency Allocations (International Table), the United States Table of Frequency Allocations (United States Table), and the FCC rule part(s) cross references as described in §§ 2.104 and 2.105, respectively. The International Telecommunication Union (ITU) Radio Regulations are described in § 2.100. The definitions of terms and acronyms used in the Allocation Table are specified in § 2.1. The footnotes to the Allocation Table are listed in ascending numerical order in paragraphs (b) through (e) of this section; however, in some cases, a letter(s) has/have been appended to the digit(s) of a footnote number in order to preserve the sequential order.
 
@@ -3365,4 +3365,4 @@ The provisions of paragraphs (d)(53)(i) through (iii) of this section shall not 
 
 (iii) The GOES satellite receiver shall not claim protection from existing and future stations in the fixed service (ITU Radio Regulation No. 5.43A does not apply).
 
-[49 FR 2373, Jan. 19, 1984]Editorial Note: For Federal Register citations affecting § 2.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[49 FR 2373, Jan. 19, 1984] Editorial Note: For Federal Register citations affecting § 2.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

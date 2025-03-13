@@ -1,3 +1,5 @@
 ##### § 26.103 Licensing. #####
 
+Link to an amendment published at 90 FR 11492, Mar. 7, 2025.
+
 The 2025-2110 MHz and 2200-2290 MHz bands are authorized on a non-exclusive nationwide basis for Space Launch Services. Non-exclusive nationwide licenses will serve as a prerequisite for registering launch sites and individual fixed, base, itinerant, and mobile stations, as well as individual coordinated launches. A Space Launch Services licensee cannot operate a launch site and corresponding fixed, base, itinerant, or mobile stations before registering it under its license and may only operate a station after that station has been cleared to operate in a particular frequency band in connection with a particular launch pursuant to the post-grant frequency coordination process set forth in subpart C of this part. Space Launch Services licensees must delete registrations for unused launch sites and unused fixed, base, itinerant, and mobile stations to maintain database integrity and facilitate coordination with other users of the 2025-2110 MHz and 2200-2290 MHz bands.

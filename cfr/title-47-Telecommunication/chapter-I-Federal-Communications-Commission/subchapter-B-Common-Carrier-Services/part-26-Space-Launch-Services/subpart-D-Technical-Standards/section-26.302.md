@@ -1,5 +1,7 @@
 ##### § 26.302 Emission masks. #####
 
+Link to an amendment published at 90 FR 11493, Mar. 7, 2025.
+
 (a) *2025-2110 MHz.* For frequencies offset from the assigned frequency less than the 50 percent of the necessary bandwidth, no attenuation is required. At a frequency offset equal to 50 percent of the necessary bandwidth, an attenuation of at least 8 dB is required. Frequencies offset more than 50 percent of the necessary bandwidth shall be attenuated by the following mask:
 
 Equation 1 to Paragraph (a)![](/graphics/er05au24.006.gif)Where:fd is the frequency displaced from the center of the emission bandwidth.Bn is the necessary bandwidth, which is determined in accordance with Annex J of the NTIA Manual of Regulations and Procedures for Federal Radio Frequency Management (NTIA Manual) (incorporated by reference, see § 26.305).dBsd is dB attenuation in a 4 kHz bandwidth, relative to the maximum power in any 4 kHz bandwidth within the necessary bandwidth (0 dBsd), where attenuation in this sense refers to the reduction in level relative to the reference, 0 dBsd, unless otherwise specified.

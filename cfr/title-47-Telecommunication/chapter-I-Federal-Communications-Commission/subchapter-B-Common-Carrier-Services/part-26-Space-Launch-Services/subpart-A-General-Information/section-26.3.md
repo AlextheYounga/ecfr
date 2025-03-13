@@ -1,5 +1,7 @@
 ##### § 26.3 Scope of service. #####
 
+Link to an amendment published at 90 FR 11492, Mar. 7, 2025.
+
 (a) Space launch stations are restricted to the following uses:
 
 (1) *2025-2110 MHz band.* The use of Space Launch Services licenses in the 2025-2110 MHz band is restricted to ground-to-launch vehicle telecommand uses necessary to support space launch operations.

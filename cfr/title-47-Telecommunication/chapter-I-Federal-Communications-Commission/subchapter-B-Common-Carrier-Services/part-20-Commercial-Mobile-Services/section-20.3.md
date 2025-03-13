@@ -92,4 +92,4 @@
 
 *Wideband Consumer Signal Boosters.* Wideband Consumer Signal Boosters may operate on the frequencies and in the market areas of multiple licensees.
 
-[59 FR 18495, Apr. 19, 1994]Editorial Note:For Federal Register citations affecting § 20.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[59 FR 18495, Apr. 19, 1994] Editorial Note:For Federal Register citations affecting § 20.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

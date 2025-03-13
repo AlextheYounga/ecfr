@@ -16,4 +16,4 @@ The following systems of records are totally or partially exempt from subsection
 
 (g) *System name.* General Investigative Files—FCC/OIG-2. Compiled for law enforcement purposes. This system of records is exempt pursuant to section (k)(2) of the Act because the records contain investigatory material compiled for law enforcement purposes.
 
-(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d))[40 FR 44512, Sept. 26, 1975, as amended at 49 FR 13369, Apr. 4, 1984; 58 FR 11549, Feb. 26, 1993]
+(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d)) [40 FR 44512, Sept. 26, 1975, as amended at 49 FR 13369, Apr. 4, 1984; 58 FR 11549, Feb. 26, 1993]

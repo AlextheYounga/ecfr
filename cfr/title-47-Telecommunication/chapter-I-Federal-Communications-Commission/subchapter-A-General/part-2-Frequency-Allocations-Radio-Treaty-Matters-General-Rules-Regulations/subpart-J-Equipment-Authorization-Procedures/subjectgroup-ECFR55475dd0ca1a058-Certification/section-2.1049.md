@@ -66,4 +66,4 @@ The occupied bandwidth, that is the frequency bandwidth such that, below its low
 
 (i) Transmitters designed for other types of modulation—when modulated by an appropriate signal of sufficient amplitude to be representative of the type of service in which used. A description of the input signal should be supplied.
 
-(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307)[39 FR 5919, Feb. 15, 1974, as amended at 39 FR 35664, Oct. 3, 1974; 47 FR 13164, Mar. 29, 1982; 48 FR 16493, Apr. 18, 1983; 49 FR 18105, Apr. 27, 1984. Redesignated at 63 FR 36599, July 7, 1998]
+(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307) [39 FR 5919, Feb. 15, 1974, as amended at 39 FR 35664, Oct. 3, 1974; 47 FR 13164, Mar. 29, 1982; 48 FR 16493, Apr. 18, 1983; 49 FR 18105, Apr. 27, 1984. Redesignated at 63 FR 36599, July 7, 1998]

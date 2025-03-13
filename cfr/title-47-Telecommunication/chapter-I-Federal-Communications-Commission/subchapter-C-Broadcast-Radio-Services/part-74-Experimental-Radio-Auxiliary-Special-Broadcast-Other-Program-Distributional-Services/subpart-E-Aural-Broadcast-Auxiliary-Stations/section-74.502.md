@@ -1,6 +1,6 @@
 ##### § 74.502 Frequency assignment. #####
 
-(a) Except as provided in NG30, broadcast auxiliary stations licensed as of November 21, 1984, to operate in the band 942-944 MHz1 may continue to operate on a co-equal, primary basis to other stations and services operating in the band in accordance with the Table of Frequency Allocations. These stations will be protected from possible interference caused by new users of the band by the technical standards specified in § 101.105(c)(2).
+(a) Except as provided in NG30, broadcast auxiliary stations licensed as of November 21, 1984, to operate in the band 942-944 MHz 1 may continue to operate on a co-equal, primary basis to other stations and services operating in the band in accordance with the Table of Frequency Allocations. These stations will be protected from possible interference caused by new users of the band by the technical standards specified in § 101.105(c)(2).
 
 1Note: In addition to this band, stations in Puerto Rico may continue to be authorized on 942.5, 943.0, 943.5, 944.0 MHz in the band 942-944 MHz on a primary basis to stations and services operating in accordance with the Table of Frequency Allocations.
 

@@ -4,7 +4,7 @@
 
 (1) Two paired channel blocks are available for assignment on a Major Economic Area basis as follows:
 
-Block A: 2305-2310 and 2350-2355 MHz; andBlock B: 2310-2315 and 2355-2360 MHz.
+Block A: 2305-2310 and 2350-2355 MHz; and Block B: 2310-2315 and 2355-2360 MHz.
 
 (2) Two unpaired channel blocks are available for assignment on a Regional Economic Area Grouping basis as follows:
 
@@ -26,11 +26,11 @@ Block C: 2315-2320 MHz; andBlock D: 2345-2350 MHz.
 
 (1) Three paired channel blocks of 12 megahertz each are available for assignment as follows:
 
-Block A: 698-704 MHz and 728-734 MHz;Block B: 704-710 MHz and 734-740 MHz; andBlock C: 710-716 MHz and 740-746 MHz.
+Block A: 698-704 MHz and 728-734 MHz;Block B: 704-710 MHz and 734-740 MHz; and Block C: 710-716 MHz and 740-746 MHz.
 
 (2) Two unpaired channel blocks of 6 megahertz each are available for assignment as follows:
 
-Block D: 716-722 MHz; andBlock E: 722-728 MHz.
+Block D: 716-722 MHz; and Block E: 722-728 MHz.
 
 (d) *1390-1392 MHz band.* The 1390-1392 MHz band is available for assignment on a Major Economic Area basis.
 
@@ -68,7 +68,7 @@ BRS Channel 1: 2496-2502 MHz or 2150-2156 MHzEBS Channel A1: 2502-2507.5 MHzEBS 
 
 (ii) Middle Band Segment (MBS): The following channels shall constitute the Middle Band Segment:
 
-EBS Channel A4: 2572-2578 MHzEBS Channel B4: 2578-2584 MHzEBS Channel C4: 2584-2590 MHzEBS Channel D4: 2590-2596 MHzEBS Channel G4: 2596-2602 MHzBRS/EBS Channel F4: 2602-2608 MHzBRS/EBS Channel E4: 2608-2614 MHz
+EBS Channel A4: 2572-2578 MHz EBS Channel B4: 2578-2584 MHz EBS Channel C4: 2584-2590 MHz EBS Channel D4: 2590-2596 MHz EBS Channel G4: 2596-2602 MHz BRS/EBS Channel F4: 2602-2608 MHz BRS/EBS Channel E4: 2608-2614 MHz
 
 (iii) Upper Band Segment (UBS): The following channels shall constitute the Upper Band Segment:
 

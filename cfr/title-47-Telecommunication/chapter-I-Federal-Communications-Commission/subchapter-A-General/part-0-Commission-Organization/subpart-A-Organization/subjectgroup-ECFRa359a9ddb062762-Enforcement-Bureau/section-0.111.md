@@ -6,8 +6,7 @@
 
 Note 1 to paragraph (a)(1):
 
-The Consumer and Governmental Affairs Bureau has primary responsibility for addressing individual informal complaints from consumers against common carriers (wireline, wireless and international) and against other wireless licensees, and informal consumer complaints involving access to telecommunications services and equipment for persons with disabilities.
-The Office of International Affairs has primary responsibility for complaints regarding international settlements rules and policies.
+The Consumer and Governmental Affairs Bureau has primary responsibility for addressing individual informal complaints from consumers against common carriers (wireline, wireless and international) and against other wireless licensees, and informal consumer complaints involving access to telecommunications services and equipment for persons with disabilities. The Office of International Affairs has primary responsibility for complaints regarding international settlements rules and policies.
 
 (2) Resolve complaints regarding acts or omissions of non-common carriers subject to the Commission's jurisdiction under Title II of the Communications Act and related provisions, including complaints against aggregators under section 226 of the Communications Act and against entities subject to the requirements of section 227 of the Communications Act.
 

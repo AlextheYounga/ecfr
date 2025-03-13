@@ -1,6 +1,6 @@
 ##### § 431.343 Materials incorporated by reference. #####
 
-Link to an amendment published at 90 FR 5555, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5555, Jan. 17, 2025.Amendment delayed until May 20, 2025 at 90 FR 11465, Mar. 7, 2025.
 
 (a) *General.* DOE incorporates by reference the following standards into part 431. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 6 U.S.C. 522(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE test procedures unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available from the sources below. It is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW., Washington, DC 20024, (202) 586-6636, or go to *http://www1.eere.energy.gov/buildings/appliance\_standards/.* Also, this material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 

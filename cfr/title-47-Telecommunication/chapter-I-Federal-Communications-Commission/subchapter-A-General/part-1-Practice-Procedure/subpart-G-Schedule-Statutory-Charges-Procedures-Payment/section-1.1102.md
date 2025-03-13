@@ -1,6 +1,6 @@
 ##### § 1.1102 Schedule of charges for applications and other filings in the wireless telecommunications services. #####
 
-Some of the wireless application fees below have a regulatory fee component that must be paid at the time of a new or a renewal of a wireless application. Please refer to the Wireless Filing Guide for payment type codes at *https://www.fcc.gov/licensing-databases/fees/application-processing-fees.*
+ Some of the wireless application fees below have a regulatory fee component that must be paid at the time of a new or a renewal of a wireless application. Please refer to the Wireless Filing Guide for payment type codes at *https://www.fcc.gov/licensing-databases/fees/application-processing-fees.*
 
 (a) In tables to this section, the amounts appearing in the column labeled “Fee Amount” are for application fees only. Certain services, as indicated in the table below, also have associated regulatory fees that must be paid at the same time the application fee is paid. For more information on the associated regulatory fees, please refer to the most recent Wireless Telecommunications Bureau Fee Filing Guide for the corresponding regulatory fee amount located at *https://www.fcc.gov/licensing-databases/fees/application-processing-fees*. For additional guidance, please refer to § 1.1152 of this chapter. Application fee payments can be made electronically using the Commission's Universal Licensing System (ULS). Manual filings and/or payments for these services are no longer accepted.
 

@@ -1,5 +1,7 @@
 ##### § 431.62 Definitions concerning commercial refrigerators, freezers and refrigerator-freezers. #####
 
+Link to an amendment published at 90 FR 7643, Jan. 21, 2025.Amendment delayed until May 20, 2025 at 90 FR 11466, Mar. 7, 2025.
+
 *Air-curtain angle* means:
 
 (1) For equipment without doors and without a discharge air grille or discharge air honeycomb, the angle between a vertical line extended down from the highest point on the manufacturer's recommended load limit line and the load limit line itself, when the equipment is viewed in cross-section; and
