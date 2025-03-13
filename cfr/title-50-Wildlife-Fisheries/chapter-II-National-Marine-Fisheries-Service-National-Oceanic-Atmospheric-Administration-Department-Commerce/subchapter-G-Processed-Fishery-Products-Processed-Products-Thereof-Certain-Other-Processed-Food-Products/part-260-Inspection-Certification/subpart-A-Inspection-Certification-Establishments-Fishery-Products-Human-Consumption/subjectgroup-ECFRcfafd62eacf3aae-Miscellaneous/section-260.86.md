@@ -4,13 +4,13 @@
 
 (1) Has been packed under inspection as provided in this part to assure compliance with the requirements for wholesomeness established for the raw product and of sanitation established for the preparation and processing operations, and (2) has been certified by an inspector as meeting the requirements of such grade, quality or classification.
 
-The grade marks approved for use shall be similar in form and design to the examples of Figures 1 to 5 of this section.Shield using red, white, and blue background or other colors appropriate for label.![](/graphics/ec01jy91.061.gif)Figure 1Shield with plain background.![](/graphics/ec01jy91.062.gif)Figure 2![](/graphics/ec01jy91.063.gif)Figure 3![](/graphics/ec01jy91.064.gif)Figure 4![](/graphics/ec01jy91.065.gif)Figure 5
+The grade marks approved for use shall be similar in form and design to the examples of Figures 1 to 5 of this section. Shield using red, white, and blue background or other colors appropriate for label. ![](/graphics/ec01jy91.061.gif)Figure 1Shield with plain background. ![](/graphics/ec01jy91.062.gif)Figure 2![](/graphics/ec01jy91.063.gif)Figure 3![](/graphics/ec01jy91.064.gif)Figure 4![](/graphics/ec01jy91.065.gif)Figure 5
 
 (b) *Inspection marks:* The approved inspection marks may be used on containers, labels, or otherwise indicated for any processed product that:
 
 (1) Has been packed under inspection as provided in this part to assure compliance with the requirements for wholesomeness established for the raw product and of sanitation established for the preparation and processing operations, and (2) has been certified by an inspector as meeting the requirements of such quality or grade classification as may be approved by the Secretary.
 
-The inspection marks approved for use shall be similar in form and design to the examples in Figures 6, 7, and 8 of this section.Statement enclosed within a circle.![](/graphics/ec01jy91.066.gif)Figure 6Statement without the use of the circle.![](/graphics/ec01jy91.067.gif)Figure 7Statement without the use of the circle.![](/graphics/ec01jy91.068.gif)Figure 8
+The inspection marks approved for use shall be similar in form and design to the examples in Figures 6, 7, and 8 of this section. Statement enclosed within a circle. ![](/graphics/ec01jy91.066.gif)Figure 6Statement without the use of the circle. ![](/graphics/ec01jy91.067.gif)Figure 7Statement without the use of the circle. ![](/graphics/ec01jy91.068.gif)Figure 8
 
 (c) *Combined grade and inspection marks:* The grade marks set forth in paragraph (a) of this section, and the inspection marks, Figures 7 and 8, set forth in paragraph (b) of this section, may be combined into a consolidated grade and inspection mark for use on processed products that have been packed under inspection as provided in this part.
 

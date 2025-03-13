@@ -36,7 +36,7 @@ The description of items in supplements no. 2, 4, or 6 of part 746 are used for 
 
 (ii) Each License Exception described in part 740 of the EAR supersedes General Prohibition Two if all terms and conditions of a given License Exception are met by the exporter or reexporter.
 
-(3) *General Prohibition Three—Foreign-direct product (FDP) rules*. (i) You may not, without a license or license exception, export from abroad, reexport, or transfer (in-country) foreign-“direct products” subject to the EAR pursuant to § 734.9 if such items are subject to a license requirement in part 736, 742, 744, 746, or 764 of the EAR.
+(3) *General Prohibition Three—Foreign-direct product (FDP) rules*. (i) You may not, without a license or license exception, export from abroad, reexport, or transfer (in-country) foreign-“direct products” or other foreign-produced items subject to the EAR pursuant to § 734.9 if such items are subject to a license requirement in part 736, 742, 744, 746, or 764 of the EAR.
 
 (ii) Each license exception described in part 740 of the EAR supersedes General Prohibition Three if all terms and conditions of a given license exception are met and none of the restrictions of § 740.2 or § 744.11(a) apply.
 

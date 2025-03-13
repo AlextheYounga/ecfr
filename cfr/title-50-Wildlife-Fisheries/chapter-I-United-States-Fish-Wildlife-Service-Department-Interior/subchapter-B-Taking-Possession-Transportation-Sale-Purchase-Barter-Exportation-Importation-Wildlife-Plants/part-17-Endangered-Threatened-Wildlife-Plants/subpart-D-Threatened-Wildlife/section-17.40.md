@@ -522,7 +522,7 @@ In all other parts of its range the argali is classified as endangered and cover
 
 (vii) *Ditch maintenance activities.* Preble's meadow jumping mice may be taken incidental to normal and customary ditch maintenance activities only if the activities:
 
-(A) Result in the annual loss of no more than1/4 mile of riparian shrub habitat per linear mile of ditch, including burning of ditches that results in the annual loss of no more than1/4 mile of riparian shrub habitat per linear mile of ditch.
+(A) Result in the annual loss of no more than 1/4 mile of riparian shrub habitat per linear mile of ditch, including burning of ditches that results in the annual loss of no more than 1/4 mile of riparian shrub habitat per linear mile of ditch.
 
 (B) Are performed within the historic footprint of the surface disturbance associated with ditches and related infrastructure, and
 
@@ -530,7 +530,7 @@ In all other parts of its range the argali is classified as endangered and cover
 
 (*1*) Persons engaged in ditch maintenance activities shall avoid, to the maximum extent practicable, impacts to shrub vegetation. For example, if accessing the ditch for maintenance or repair activities from an area containing no shrubs is possible, then damage to adjacent shrub vegetation shall be avoided.
 
-(*2*) Persons engaged in placement or sidecasting of silt and debris removed during ditch cleaning, vegetation or mulch from mowing or cutting, and other material from ditch maintenance shall, to the maximum extent practicable, avoid shrub habitat and at no time disturb more than1/4 mile of riparian shrub habitat per linear mile of ditch within any calendar year.
+(*2*) Persons engaged in placement or sidecasting of silt and debris removed during ditch cleaning, vegetation or mulch from mowing or cutting, and other material from ditch maintenance shall, to the maximum extent practicable, avoid shrub habitat and at no time disturb more than 1/4 mile of riparian shrub habitat per linear mile of ditch within any calendar year.
 
 (*3*) To the maximum extent practicable, all ditch maintenance activities should be carried out during the Preble's hibernation season, November through April.
 
@@ -778,4 +778,4 @@ Native, and
 
 (B) Trapping of species other than wolverine, provided that the trapping is conducted in accordance with State or Tribal trapping laws and regulations, the trapping is conducted in a manner that uses best practices to minimize the potential for capture and mortality of wolverines, and any take of wolverine is reported to the nearest U.S. Fish and Wildlife Service law enforcement office and to the appropriate State wildlife agency or Tribal wildlife authorities within 5 days of occurrence. Unharmed individuals are to be released immediately.
 
-[40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.40, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[40 FR 44415, Sept. 26, 1975] Editorial Note:For Federal Register citations affecting § 17.40, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

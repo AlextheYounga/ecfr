@@ -1375,4 +1375,4 @@
 
 (2) *AMP QP pass through.* The 10 percent of non-whiting QS will be reserved for the AMP, but the resulting AMP QP will be issued to all QS permit owners in proportion to their non-whiting QS until an alternative use of AMP QP is implemented.
 
-[75 FR 60897, Oct. 1, 2010]Editorial Note:For Federal Register citations affecting § 660.140, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[75 FR 60897, Oct. 1, 2010] Editorial Note:For Federal Register citations affecting § 660.140, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

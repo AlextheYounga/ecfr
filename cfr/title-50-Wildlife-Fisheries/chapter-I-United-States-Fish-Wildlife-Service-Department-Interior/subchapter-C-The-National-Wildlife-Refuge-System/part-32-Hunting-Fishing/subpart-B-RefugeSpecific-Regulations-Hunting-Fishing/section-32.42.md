@@ -56,9 +56,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) You must remove all boats, decoys, blind materials, stands, platforms, and other personal property brought onto the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
-(v) You may only hunt fox and raccoon from1/2 hour before legal sunrise until legal sunset from the beginning of the State season through the last day of February.
+(v) You may only hunt fox and raccoon from 1/2 hour before legal sunrise until legal sunset from the beginning of the State season through the last day of February.
 
-(vi) You may only hunt striped skunk from1/2 hour before legal sunrise until legal sunset from September 1 through the last day of February.
+(vi) You may only hunt striped skunk from 1/2 hour before legal sunrise until legal sunset from September 1 through the last day of February.
 
 (3) *Big game hunting.* We allow hunting of deer on designated areas of the refuge subject to the following conditions:
 
@@ -258,9 +258,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) You may use or possess only approved nontoxic shot shells (see § 32.2(k)) in the field while hunting turkey.
 
-(v) You may only hunt fox, opossum, and raccoon from1/2 hour before legal sunrise until legal sunset, from the beginning of the State season through the last day of February, on designated areas of the refuge.
+(v) You may only hunt fox, opossum, and raccoon from 1/2 hour before legal sunrise until legal sunset, from the beginning of the State season through the last day of February, on designated areas of the refuge.
 
-(vi) You may only hunt coyotes and skunks from1/2 hour before legal sunrise until legal sunset, from September 1 through the last day of February, on designated areas of the refuge.
+(vi) You may only hunt coyotes and skunks from 1/2 hour before legal sunrise until legal sunset, from September 1 through the last day of February, on designated areas of the refuge.
 
 (vii) You may only hunt crows during the State-designated crow seasons, which occur between September 1 and the last day of February, on designated areas of the refuge.
 
@@ -458,9 +458,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of wild turkey; bobcat; ruffed grouse; red, gray, and fox squirrel; cottontail rabbit; jackrabbit; snowshoe hare; red fox; raccoon; and striped skunk on designated areas of the refuge subject to the following conditions:
 
-(i) You may only hunt fox and raccoon from1/2 hour before legal sunrise until legal sunset from the beginning of the State season through the last day of February within all upland game hunting areas, and from March 1 through the end of the season in areas open to upland game hunting south of County Highway 26.
+(i) You may only hunt fox and raccoon from 1/2 hour before legal sunrise until legal sunset from the beginning of the State season through the last day of February within all upland game hunting areas, and from March 1 through the end of the season in areas open to upland game hunting south of County Highway 26.
 
-(ii) You may only hunt striped skunk from1/2 hour before legal sunrise until legal sunset from September 1 through the last day of February.
+(ii) You may only hunt striped skunk from 1/2 hour before legal sunrise until legal sunset from September 1 through the last day of February.
 
 (iii) During the fall season, you may hunt wild turkey as governed by State and Tribal seasons and regulations throughout the refuge. During the spring seasons, you may only hunt wild turkey south of County Highway 26, minus the areas east of County Highway 29, north of Pine Lake, and west of Chippewa Water Control Structure Road.
 
@@ -590,7 +590,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (xii) We require a 200-yard (182.9-meter) spacing distance between hunting parties on the Illinois portions of the refuge in Pools 12, 13, and 14.
 
-(xiii) You may set up hunting equipment the day of the hunt, but you must remove it at the end of each day (see § 27.93 of this chapter). You may place and leave hunting equipment and decoys on the refuge only from 1 hour before the start of legal shooting hours until1/2 hour after the close of legal shooting hours.
+(xiii) You may set up hunting equipment the day of the hunt, but you must remove it at the end of each day (see § 27.93 of this chapter). You may place and leave hunting equipment and decoys on the refuge only from 1 hour before the start of legal shooting hours until 1/2 hour after the close of legal shooting hours.
 
 (2) *Upland game hunting.* We allow hunting of upland game on designated areas of the refuge subject to the following conditions:
 

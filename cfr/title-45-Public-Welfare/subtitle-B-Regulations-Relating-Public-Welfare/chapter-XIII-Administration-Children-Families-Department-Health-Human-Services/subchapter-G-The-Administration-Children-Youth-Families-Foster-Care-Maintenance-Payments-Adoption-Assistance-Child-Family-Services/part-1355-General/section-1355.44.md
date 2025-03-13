@@ -1,5 +1,7 @@
 ##### § 1355.44 Out-of-home care data file elements. #####
 
+Link to an amendment published at 89 FR 96588, Dec. 5, 2024.
+
 (a) *General information*—(1) *Title IV-E agency.* Indicate the title IV-E agency responsible for submitting the Adoption and Foster Care Analysis and Reporting System (AFCARS) data in a format according to ACF's specifications.
 
 (2) *Report date.* The report date corresponds with the end of the report period. Indicate the last month and the year of the report period.

@@ -1,5 +1,7 @@
 ##### § 7.2 Use of expedited licensing process. #####
 
+Link to an amendment published at 89 FR 96530, Dec. 5, 2024.
+
 (a) In order to pursue the expedited licensing process, an applicant must request authorization for the expedited process, as provided for in paragraph (b) of this section. The licensing procedures in this part do not apply to an application for a new or subsequent license.
 
 (b) An application that accompanies a request for authorization to use the expedited licensing process must include the information specified below.

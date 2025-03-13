@@ -4,7 +4,7 @@
 
 (2) Foreign produced encryption technology that incorporates U.S. origin encryption technology controlled by ECCN 5E002 is subject to the EAR regardless of the amount of U.S. origin content.
 
-(3) There is no *de minimis* level for equipment meeting the parameters in ECCN 3B001.f.1.b.2.b of the Commerce Control List in supplement no. 1 to part 774 of the EAR, when the equipment is destined for use in the “development” or “production” of “advanced-node integrated circuits” and the “advanced-node integrated circuits” meet the parameter specified in paragraph (1) of that definition in § 772.1 of the EAR, unless the country from which the foreign-made item was first exported1 has a commodity specified on an export control list.
+(3) There is no *de minimis* level for equipment meeting the parameters in ECCN 3B993.f.1 of the Commerce Control List in supplement no. 1 to part 774 of the EAR, when the equipment is destined for use in the “development” or “production” of “advanced-node integrated circuits” and the “advanced-node integrated circuits” meet the parameter specified in paragraph (1) of that definition in § 772.1 of the EAR, unless the country from which the foreign-made item was first exported1 has a commodity specified on an export control list.
 
 1 The Government of Japan added ArF-wet lithography equipment and other advanced semiconductor manufacturing equipment to its control list for all regions on July 23, 2023.
 
@@ -19,6 +19,10 @@
 (ii) There is no *de minimis* level for foreign-made items that incorporate U.S.-origin 9x515 or “600 series” .y items when destined for a country listed in Country Group E:1 or E:2 of supplement no. 1 to part 740 of the EAR or for Belarus, the People's Republic of China (PRC), or Russia.
 
 (7) Under certain rules issued by the Office of Foreign Assets Control, certain exports from abroad by U.S.-owned or controlled entities may be prohibited notwithstanding the *de minimis* provisions of the EAR. In addition, the *de minimis* rules do not relieve U.S. persons of the obligation to refrain from supporting the proliferation of weapons of mass-destruction and missiles as provided in § 744.6 of the EAR.
+
+(8) There is no *de minimis* level related to the SME FDP rule for a commodity meeting the parameters in ECCNs 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, or 3B002.c of the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR, when the commodity contains a U.S.-origin integrated circuit specified under Category 3, 4, or 5 of the CCL, and the commodity is destined for Macau or a destination specified in Country Group D:5, unless excluded from the national security license requirement in § 742.4(a)(4) or the regional stability license requirement in § 742.6(a)(6) of the EAR.
+
+(9) There is no *de minimis* level related to the Footnote 5 FDP rule for an item meeting the parameters in ECCNs specified in Category 3B (except 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, or 3B002.c) of the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR, when the commodity contains a U.S.-origin integrated circuit specified under Category 3, 4, or 5 of the CCL, and the commodity is destined for an entity with a Footnote 5 designation in the license requirement column of the Entity List in supplement no. 4 to part 744 of the EAR.
 
 (b) *Special requirements for certain Category 5, Part 2 items.* Non-U.S.-made items that incorporate U.S.-origin items that are listed in this paragraph are subject to the EAR unless they meet the *de minimis* level and destination requirements of paragraph (c) or (d) of this section and the requirements of this paragraph.
 

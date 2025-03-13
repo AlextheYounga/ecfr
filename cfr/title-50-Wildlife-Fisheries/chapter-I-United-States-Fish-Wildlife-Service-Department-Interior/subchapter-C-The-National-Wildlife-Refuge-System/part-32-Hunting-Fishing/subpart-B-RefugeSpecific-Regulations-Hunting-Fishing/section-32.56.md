@@ -52,7 +52,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (d) *Cold Springs National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit discharge of any firearm within1/4 mile (396 meters (m)) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
+(i) We prohibit discharge of any firearm within 1/4 mile (396 meters (m)) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
 (ii) We allow hunting only on Tuesdays, Thursdays, Saturdays, Sundays, and all federally recognized holidays within the State season, with the exception of dove. We only allow hunting for all dove species within the State mourning dove season.
 
@@ -150,8 +150,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-(k) *Malheur National Wildlife Refuge*—
-(1) *Migratory game bird hunting.* We allow hunting of dove, goose, duck, merganser, coot, and snipe on designated areas of the refuge subject to the following conditions:
+(k) *Malheur National Wildlife Refuge*— (1) *Migratory game bird hunting.* We allow hunting of dove, goose, duck, merganser, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow nonmotorized boats or boats equipped with only electric motors on the North and South Malheur Lake Hunt Units.
 
@@ -181,7 +180,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (l) *McKay Creek National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, and dove on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
+(i) We prohibit discharge of any firearm within 1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
 (ii) Hunters must remove all decoys and other equipment from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -199,8 +198,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (m) *McNary National Wildlife Refuge.* Refer to § 32.66(h) for regulations.
 
-(n) *Nestucca Bay National Wildlife Refuge*—
-(1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(n) *Nestucca Bay National Wildlife Refuge*— (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters must remove all blinds, decoys, shotshell hulls, and other personal equipment and refuse from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
@@ -266,7 +264,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (r) *Umatilla National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
+(i) We prohibit discharge of any firearm within 1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
 (ii) Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 

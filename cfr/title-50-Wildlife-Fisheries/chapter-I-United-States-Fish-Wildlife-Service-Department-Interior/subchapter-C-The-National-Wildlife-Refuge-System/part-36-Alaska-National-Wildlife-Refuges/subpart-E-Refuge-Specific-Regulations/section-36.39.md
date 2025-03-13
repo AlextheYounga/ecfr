@@ -20,15 +20,15 @@
 
 (ii) No permanent improvements may be made to campsites without a special use permit. All materials brought on to the refuge complex must be removed upon cessation of camping unless authorized by a special use permit.
 
-(iii) Other than reserved sites authorized by special use permits, camping at one location is limited to seven consecutive nights from August 1 through November 15 within1/4 mile of the following waters: Becharof Lake in the Severson Peninsula area (Island Arm); Becharof Lake Outlet; Ugashik Narrows; Big Creek; Gertrude Lake; and Gertrude Creek between Gertrude Lake and the King Salmon River. Maps of the above areas are available from the Refuge Manager.
+(iii) Other than reserved sites authorized by special use permits, camping at one location is limited to seven consecutive nights from August 1 through November 15 within 1/4 mile of the following waters: Becharof Lake in the Severson Peninsula area (Island Arm); Becharof Lake Outlet; Ugashik Narrows; Big Creek; Gertrude Lake; and Gertrude Creek between Gertrude Lake and the King Salmon River. Maps of the above areas are available from the Refuge Manager.
 
 (iv) Tent camps must be moved a minimum of one mile following each seven-night camping stay during the periods specified above.
 
 (4) Temporary facilities may be authorized on the Alaska Peninsula/Becharof National Wildlife Refuge Complex by special use permit only, subject to the following conditions:
 
-(i) Except for administrative or subsistence purposes, new temporary facilities are prohibited within1/4 mile of the Becharof Lake shoreline.
+(i) Except for administrative or subsistence purposes, new temporary facilities are prohibited within 1/4 mile of the Becharof Lake shoreline.
 
-(ii) Except for administrative purposes, new temporary facilities are prohibited in the following areas: within1/4 mile of the shorelines of Gertrude Lake and Long Lake; within1/4 mile of the airstrip on the south side of the King Salmon River approximately1/2 mile above the confluence of Gertrude Creek and the King Salmon River; within1/4 mile of the shoreline of Upper and Lower Ugashik Lakes; within1/4 mile of the shoreline of Becharof Lake outlet; and within1/4 mile of the shoreline of Big Creek. Maps of the above areas are available from the Refuge Manager.
+(ii) Except for administrative purposes, new temporary facilities are prohibited in the following areas: within 1/4 mile of the shorelines of Gertrude Lake and Long Lake; within 1/4 mile of the airstrip on the south side of the King Salmon River approximately 1/2 mile above the confluence of Gertrude Creek and the King Salmon River; within 1/4 mile of the shoreline of Upper and Lower Ugashik Lakes; within 1/4 mile of the shoreline of Becharof Lake outlet; and within 1/4 mile of the shoreline of Big Creek. Maps of the above areas are available from the Refuge Manager.
 
 (d) *Arctic National Wildlife Refuge.* We prohibit all domestic sheep, goats, and camelids on the refuge.
 
@@ -156,7 +156,7 @@
 
 (iv) We prohibit the operation of wheeled airplanes, with the following exceptions:
 
-(A) We allow the operation of wheeled airplanes, at the pilot's risk, on the unmaintained Big Indian Creek Airstrip; on gravel areas within1/2 mile of Wosnesenski Glacier terminus lake; and within the SE1/4, section 16 and SW1/4, section 15, T. 4 S., R. 8 W., Seward Meridian.
+(A) We allow the operation of wheeled airplanes, at the pilot's risk, on the unmaintained Big Indian Creek Airstrip; on gravel areas within 1/2 mile of Wosnesenski Glacier terminus lake; and within the SE1/4, section 16 and SW1/4, section 15, T. 4 S., R. 8 W., Seward Meridian.
 
 (B) We allow the operation of wheeled airplanes, at the pilot's risk, within designated areas of the Chickaloon River Flats, including all of sections 5 and 6 and parts of sections 2, 3, 4, 7, 8, 9, 11, and 16, T. 9 N., R. 4 W.; all of section 1 and parts of sections 2, 3, 4, 5, 11, and 12, T. 9 N., R. 5 W.; all of sections 33 and 34 and parts of sections 24, 25, 26, 27, 28, 29, 31, 32, and 35, T. 10 N., R. 4 W.; all of section 33 and parts of sections 19, 27, 28 29, 30 32, 34, 35, and 36, T. 10 N., R. 5 W, Seward Meridian.
 
@@ -210,7 +210,7 @@
 
 (5) *Hunting and trapping.* We allow hunting and trapping on the refuge in accordance with State and Federal laws and consistent with the following provisions:
 
-(i) You may not discharge a firearm within1/4 mile of designated public campgrounds, trailheads, waysides, buildings including public use cabins, or the Sterling Highway from the east Refuge boundary to the east junction of the Skilak Loop Road. You may not discharge a firearm within1/4 mile of the west shoreline of the Russian River from the upstream extent of the Russian River Falls downstream to its confluence with the Kenai River, and from the shorelines of the Kenai River from the east refuge boundary downstream to Skilak Lake and from the outlet of Skilak Lake downstream to the refuge boundary, except that firearms may be used in these areas to dispatch animals while lawfully trapping and shotguns may be used for waterfowl and small game hunting along the Kenai River. These firearms discharge regulations do not preclude use of firearms for taking game in defense of life and property as defined under State law.
+(i) You may not discharge a firearm within 1/4 mile of designated public campgrounds, trailheads, waysides, buildings including public use cabins, or the Sterling Highway from the east Refuge boundary to the east junction of the Skilak Loop Road. You may not discharge a firearm within 1/4 mile of the west shoreline of the Russian River from the upstream extent of the Russian River Falls downstream to its confluence with the Kenai River, and from the shorelines of the Kenai River from the east refuge boundary downstream to Skilak Lake and from the outlet of Skilak Lake downstream to the refuge boundary, except that firearms may be used in these areas to dispatch animals while lawfully trapping and shotguns may be used for waterfowl and small game hunting along the Kenai River. These firearms discharge regulations do not preclude use of firearms for taking game in defense of life and property as defined under State law.
 
 (ii) We prohibit hunting over bait, with the exception of hunting for black bear, and then only as authorized under the terms and conditions of a special use permit (FWS Form 3-1383-G) issued by the Refuge Manager.
 
@@ -272,7 +272,7 @@
 
 (xii) We prohibit camping in the following areas of the refuge:
 
-(A) Within1/4 mile of the Sterling Highway, Ski Hill, or Skilak Loop roads, except in designated campgrounds.
+(A) Within 1/4 mile of the Sterling Highway, Ski Hill, or Skilak Loop roads, except in designated campgrounds.
 
 (B) On the two islands in the lower Kenai River between mile 25.1 and mile 28.1 adjacent to the Moose Range Meadows Subdivision.
 
@@ -308,7 +308,7 @@
 
 (ii) Headquarters Lake, adjacent to the Kenai Refuge Headquarters area, is closed to boating.
 
-(11) *Area-specific regulations for the Russian River Special Management Area.* The Russian River Special Management Area includes all refuge lands and waters within1/4 mile of the eastern refuge boundary along the Russian River from the upstream end of the fish ladder at Russian River Falls downstream to the confluence with the Kenai River, and within1/4 mile of the Kenai River from the eastern refuge boundary downstream to the upstream side of the powerline crossing at river mile 73, and areas managed by the refuge under memorandum of understanding or lease agreement at the Sportsman Landing facility. In the Russian River Special Management Area:
+(11) *Area-specific regulations for the Russian River Special Management Area.* The Russian River Special Management Area includes all refuge lands and waters within 1/4 mile of the eastern refuge boundary along the Russian River from the upstream end of the fish ladder at Russian River Falls downstream to the confluence with the Kenai River, and within 1/4 mile of the Kenai River from the eastern refuge boundary downstream to the upstream side of the powerline crossing at river mile 73, and areas managed by the refuge under memorandum of understanding or lease agreement at the Sportsman Landing facility. In the Russian River Special Management Area:
 
 (i) While recreating on or along the Russian and Kenai rivers, you must closely attend or acceptably store all attractants, and all equipment used to transport attractants (such as backpacks and coolers) at all times. Attractants are any substance, natural or manmade, including but not limited to, items of food, beverage, personal hygiene, or odiferous refuse that may draw, entice, or otherwise cause a bear or other wildlife to approach. Closely attend means to retain on the person or within the person's immediate control and in no case more than 3 feet from the person. Acceptably store means to lock within a commercially produced and certified bear-resistant container.
 
@@ -332,7 +332,7 @@
 
 (2) *Access easement provision.* Notwithstanding any other provision of this paragraph (j), there exists a 25-foot-wide access easement on an existing trail within the Koniag Inc. Regional Native Corporation lands within properties described in paragraph (j)(1) of this section in favor of the United States of America.
 
-(3) *Permit requirement for Conservation Easement lands.* Pursuant to the terms of a Conservation Easement held by the United States and the State of Alaska, we manage public use of certain lands owned by Koniag, Inc. These lands are inholdings within the exterior boundaries of the Kodiak National Wildlife Refuge. The Conservation Easement was recorded in the Kodiak Recording District, Alaska, on December 6, 2002, as document number 2002-003448-0. The lands subject to the Conservation Easement to which the permit requirement in this paragraph apply are all lands within1/2 mile of the west shore of Karluk Lake, from the lake outlet to the southern boundary of T. 32 S., R. 30 W. (surveyed), Seward Meridian; all lands within1/2 mile of the east shore of Karluk Lake, from the lake outlet to a point due east of the north end of Camp Island; and all lands within a1/2-mile band of land on either side of the Karluk River, from the Karluk Lake outlet downstream to the refuge boundary. A map is available from the refuge showing the location of the easement lands that are subject to the permit requirement. You are prohibited from using these lands unless:
+(3) *Permit requirement for Conservation Easement lands.* Pursuant to the terms of a Conservation Easement held by the United States and the State of Alaska, we manage public use of certain lands owned by Koniag, Inc. These lands are inholdings within the exterior boundaries of the Kodiak National Wildlife Refuge. The Conservation Easement was recorded in the Kodiak Recording District, Alaska, on December 6, 2002, as document number 2002-003448-0. The lands subject to the Conservation Easement to which the permit requirement in this paragraph apply are all lands within 1/2 mile of the west shore of Karluk Lake, from the lake outlet to the southern boundary of T. 32 S., R. 30 W. (surveyed), Seward Meridian; all lands within 1/2 mile of the east shore of Karluk Lake, from the lake outlet to a point due east of the north end of Camp Island; and all lands within a 1/2-mile band of land on either side of the Karluk River, from the Karluk Lake outlet downstream to the refuge boundary. A map is available from the refuge showing the location of the easement lands that are subject to the permit requirement. You are prohibited from using these lands unless:
 
 (i) You have a nontransferable permit from the refuge;
 

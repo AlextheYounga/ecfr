@@ -112,7 +112,7 @@
 
 (h) *Determining the outcome of an IFQ referendum.* (1) NMFS shall tally and announce the results of the referendum within 90 days of the deadline by which completed ballots must be received. NMFS may declare a referendum invalid if the Agency can demonstrate the referendum was not conducted in accordance with the procedures established in the final rule implementing the referendum.
 
-(2) A NEFMC IFQ program referendum shall be considered approved only if more than2/3 of the votes submitted on valid ballots are in favor of the referendum question.
+(2) A NEFMC IFQ program referendum shall be considered approved only if more than 2/3 of the votes submitted on valid ballots are in favor of the referendum question.
 
 (3) A GMFMC IFQ program referendum shall be considered approved only if a majority of the votes submitted on valid ballots are in favor of the referendum question.
 

@@ -1,5 +1,7 @@
 ##### § 25.124 Unified space station and earth station authorization. #####
 
+Link to an amendment published at 89 FR 96601, Dec. 5, 2024.
+
 (a) A single authorization may be issued for the operations of a GSO space station or NGSO space station(s) and the blanket-licensed earth stations that will operate within that satellite system, excluding GSO FSS and NGSO FSS satellite systems operating in bands below 10 GHz and bands subject to § 25.136. The available frequency bands are:
 
 (1) Non-Voice, Non-Geostationary MSS: 137-138 MHz, 148-150.05 MHz, 399.9-400.05 MHz, and 400.15-401 MHz;

@@ -234,7 +234,7 @@ Phosphorus acid trimethyl esterTrimethoxyphosphine
 
 (2) *Activities that do not change the classification of “software” or “technology” for the commercial fabrication of ICs.* The “development”, “production,” or subsequent use of the ICs described by this section does not change the classification of any underlying standard commercial process “software” or “technology” used to manufacture or test these ICs, provided all of the following apply:
 
-(i) Any utilized existing commercial “software” or “technology” specified under ECCNs 3D991, 3E991, 3E001, 9D515.d, 9D515.e, 9E515.d or 9E515.e does not meet the “required” standard (as defined in part 772 of the EAR) of any other ECCN on the CCL; and
+(i) Any utilized existing commercial “software” or “technology” specified under ECCNs 3D991, 3D992, 3D993, 3E001, 3E991, 3E992, 3E993, 9D515.d, 9D515.e, 9E515.d or 9E515.e does not meet the “required” standard (as defined in part 772 of the EAR) of any other ECCN on the CCL; and
 
 Note 1 to paragraph (o)(2)(i):
 

@@ -365,4 +365,4 @@
 
 (p) *Illex squid VMS notification requirement.* A vessel issued an *Illex* squid moratorium permit intending to harvest, possess, or land 10,000 lb (4,536 kg) or more of *Illex* squid on that trip must notify NMFS by declaring an *Illex* squid trip before leaving port at the start of each trip.
 
-[74 FR 20530, May 4, 2009]Editorial Note:For Federal Register citations affecting § 648.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[74 FR 20530, May 4, 2009] Editorial Note:For Federal Register citations affecting § 648.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

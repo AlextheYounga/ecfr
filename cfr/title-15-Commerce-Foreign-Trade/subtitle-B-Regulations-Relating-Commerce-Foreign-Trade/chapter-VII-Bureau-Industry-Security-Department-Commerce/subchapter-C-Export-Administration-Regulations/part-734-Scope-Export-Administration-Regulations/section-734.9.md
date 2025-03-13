@@ -1,6 +1,6 @@
 ##### § 734.9 Foreign-Direct Product (FDP) Rules. #####
 
-Foreign-produced items located outside the United States are subject to the EAR when they are a “direct product” of specified “technology” or “software,” or are produced by a complete plant or 'major component' of a plant that itself is a “direct product” of specified “technology” or “software.” If a foreign-produced item is subject to the EAR, then you should separately determine the license requirements that apply to that foreign-produced item (e.g., by assessing the item classification, destination, end-use, and end-user in the relevant transaction). Not all transactions involving foreign-produced items that are subject to the EAR require a license. Those transactions that do require a license may be eligible for a license exception.
+Foreign-produced items located outside the United States are subject to the EAR when they are a “direct product” of specified “technology” or “software,” produced by a complete plant or 'major component' of a plant that itself is a “direct product” of specified “technology” or “software,” or, for specified foreign-produced items in paragraph (e)(3)(i)(B)(2) of this section, contain an item produced by a complete plant or 'major component' of a plant that itself is a “direct product” of specified “technology” or “software.” If a foreign-produced item is subject to the EAR, then you should separately determine the license requirements that apply to that foreign-produced item (*e.g.,* by assessing the item classification, destination, end-use, and end-user in the relevant transaction). Not all transactions involving foreign-produced items that are subject to the EAR require a license. Those transactions that do require a license may be eligible for a license exception.
 
 (a) *Definitions and model certification*—(1) *Definitions.* The terms defined in this paragraph are specific to § 734.9 of the EAR. These terms are indicated by single quotation marks. Terms that are in double quotation marks are defined in part 772 of the EAR.
 
@@ -68,15 +68,15 @@ As described in the CCL, ECCN 0A919 is included in this paragraph because it inc
 
 (2) *Country scope of “600 series” FDP rule.* A foreign-produced item meets the country scope of this paragraph if it is destined to a country listed in Country Group D:1, D:3, D:4, D:5, E:1, or E:2 (see supplement no.1 to part 740 of the EAR).
 
-(e) *Entity List FDP rule.* A foreign-produced item is subject to the EAR if it meets the product scope and end-user scope in either Entity List FDP rule footnote 1 provision in paragraph (e)(1) of this section or the Entity List FDP rule Footnote 4 provision in paragraph (e)(2) of this section.
+(e) *Entity List FDP rules.* A foreign-produced item is subject to the EAR if it meets the product scope and end-user scope in either Entity List FDP rule footnote 1 provision in paragraph (e)(1) of this section; the Entity List FDP rule footnote 4 provision in paragraph (e)(2) of this section; or the Entity List FDP rule Footnote 5 provision in paragraph (e)(3) of this section.
 
 (1) *Entity List FDP rule: Footnote 1.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (e)(1)(i) of this section and the end-user scope in paragraph (e)(1)(ii) of this section. See § 744.11(a)(2)(i) of the EAR for license requirements, license review policy, and license exceptions applicable to foreign-produced items that are subject to the EAR pursuant to this paragraph (e)(1).
 
 (i) *Product Scope Entity List FDP rule: Footnote 1.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (e)(1)(i)(A) or (B) of this section.
 
-(A) *“Direct product” of “technology” or “software.”* A foreign-produced item meets the product scope of this paragraph (e)(1)(i)(A) if the foreign-produced item is a “direct product” of “technology” or “software” subject to the EAR and specified in ECCN 3D001, 3D991, 3E001, 3E002, 3E003, 3E991, 4D001, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D991, 5E001, or 5E991 of the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR; or
+(A) *“Direct product” of “technology” or “software.*” A foreign-produced item meets the product scope of this paragraph (e)(1)(i)(A) if the foreign-produced item is a “direct product” of “technology” or “software” subject to the EAR and specified in ECCN 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D991, 5E001, or 5E991 of the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR; or
 
-(B) *Product of a complete plant or 'major component' of a plant that is a “direct product.”* A foreign-produced item meets the product scope of this paragraph if the foreign-produced item is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the U.S. or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001, 3D991, 3E001, 3E002, 3E003, 3E991, 4D001, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D991, 5E001, or 5E991 of the CCL.
+(B) *Product of a complete plant or 'major component' of a plant that is a “direct product.*” A foreign-produced item meets the product scope of this paragraph if the foreign-produced item is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the U.S. or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D991, 5E001, or 5E991 of the CCL.
 
 Note 2 to paragraph (e)(1)(i):
 
@@ -92,15 +92,37 @@ A foreign-produced item includes any foreign-produced wafer whether finished or 
 
 (i) *Product Scope Entity List FDP rule: Footnote 4.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (e)(2)(i)(A) or (B) of this section.
 
-(A) *“Direct product” of “technology” or “software.”* The foreign-produced item is a “direct product” of “technology” or “software” subject to the EAR and specified in ECCN 3D001, 3D991, 3E001, 3E002, 3E003, 3E991, 4D001, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E002, or 5E991 of the CCL; or
+(A) *“Direct product” of “technology” or “software.*” The foreign-produced item is a “direct product” of “technology” or “software” subject to the EAR and specified in ECCN 3D001, 3D901 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E002, or 5E991 of the CCL; or
 
-(B) *Product of a complete plant or 'major component' of a plant that is a “direct product.”* A foreign-produced item meets the product scope of this paragraph if the foreign-produced item is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the U.S. or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001, 3D991, 3E001, 3E002, 3E003, 3E991, 4D001, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E002, or 5E991 of the CCL.
+(B) *Product of a complete plant or 'major component' of a plant that is a “direct product.*” A foreign-produced item meets the product scope of this paragraph if the foreign-produced item is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the U.S. or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E002, or 5E991 of the CCL.
 
 (ii) *End user scope of the Entity List FDP rule: Footnote 4.* A foreign-produced item meets the end-user scope of this paragraph (e)(2)(ii) if there is “knowledge” that:
 
 (A) *Activities involving Footnote 4 designated entities.* The foreign-produced item will be incorporated into, or will be used in the “production” or “development” of any “part,” “component,” or “equipment” produced, purchased, or ordered by any entity with a footnote 4 designation in the license requirement column of the Entity List in supplement no. 4 to part 744 of the EAR; or
 
 (B) *Footnote 4 designated entities as transaction parties.* Any entity with a footnote 4 designation in the license requirement column of the Entity List in supplement no. 4 to part 744 of the EAR is a party to any transaction involving the foreign-produced item, *e.g.,* as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user.”
+
+(3) *Entity List FDP rule: Footnote 5.* A foreign-produced commodity is subject to the EAR if it meets both the product scope in paragraph (e)(3)(i) of this section and the end-user scope in paragraph (e)(3)(ii) of this section. See § 744.11(a)(2)(v) of the EAR for license requirements, exclusion from license requirements, and license review policy, applicable to foreign-produced commodities that are subject to the EAR pursuant to this paragraph (e)(3).
+
+(i) *Product Scope Entity List FDP rule: Footnote 5.* The product scope applies if a foreign-produced commodity is specified in ECCN 3B001 (except 3B001.a.4, c, d, f.1, f.5, g, h, k to n, p.2, p.4, r), 3B002 (except 3B002.c), 3B903, 3B991 (except 3B991.b.2.a through 3B991.b.2.b), 3B992, 3B993, or 3B994, and meets the conditions of either paragraph (e)(3)(i)(A) or (B) of this section.
+
+(A) *“Direct product” of “technology” or “software.*” A foreign-produced item meets the product scope of this paragraph if the foreign-produced commodity is a “direct product” of “technology” or “software” subject to the EAR and specified in ECCN 3D001 (for 3B commodities), 3D901(for 3B903), 3D991 (for 3B991 and 3B992), 3D993, 3D994, 3E001 (for 3B commodities), 3E901 (for 3B903), 3E991 (for 3B991 and 3B992), 3E993, or 3E994 of the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR; or
+
+(B) *Product of a complete plant or 'major component' of a plant that is a “direct product,” or a commodity that contains a product of a complete plant or 'major component' of a plant that is a “direct product.*” A foreign-produced commodity meets the product scope of this paragraph if the foreign-produced commodity meets at least one of the following conditions:
+
+(*1*) Is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001 (for 3B commodities), 3D901, 3D991 (for 3B991 and 3B992), 3D992, 3D993, 3D994, 3E001 (for 3B commodities), 3E901 (for 3B903), 3E991 (for 3B991 and 3B992), 3E992, 3E993, or 3E994 of the CCL; or
+
+(*2*) Contains a commodity produced by any complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001 (for 3B commodities), 3D901, 3D991 (for 3B991 and 3B992), 3D992, 3D993, 3D994, 3E001 (for 3B commodities), 3E901 (for 3B903), 3E991 (for 3B991 and 3B992)), 3E992, 3E993, or 3E994 of the CCL.
+
+Note 3 to paragraph (e)(3)(i)(B)(*2*):
+
+The product scope of paragraph (e)(3)(i) is met if a foreign-produced commodity contains an integrated circuit that is produced by a complete plant or 'major component' of a plant that itself is a “direct product” of U.S.-origin “technology” or “software” specified in the ECCNs described in paragraph (e)(3)(i)(B)(2). See Red Flag 26 in supplement no. 3 to part 732 for additional guidance on the scope of paragraph (e)(3)(i). Production of an integrated circuit includes fabrication of the integrated circuit in a wafer, as well as assembly, testing, and packaging of the integrated circuit.
+
+(ii) *End-user scope of the Entity List FDP rule: Footnote 5.* A foreign-produced commodity meets the end-user scope of this paragraph (e)(3)(ii) if there is “knowledge” that:
+
+(A) *Activities involving Footnote 5 designated entities.* The foreign-produced commodity will be incorporated into any “part,” “component,” or “equipment” produced, purchased, or ordered by any entity with a Footnote 5 designation in the license requirement column of the Entity List in supplement no. 4 to part 744 of the EAR; *or*
+
+(B) *Footnote 5 designated entities as transaction parties.* Any entity with a Footnote 5 designation in the license requirement column of the Entity List in supplement no. 4 to part 744 of the EAR is a party to any transaction involving the foreign-produced commodity (*e.g.,* as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user”).
 
 (f) *Russia/Belarus/Temporarily occupied Crimea region of Ukraine FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (f)(1) of this section and the destination scope in paragraph (f)(2) of this section. See § 746.8 of the EAR for license requirements, license review policy, and license exceptions applicable to foreign-produced items that are subject to the EAR pursuant to this paragraph (f).
 
@@ -144,7 +166,7 @@ Footnote 3 may be added to an entity that the End User Review Committee has dete
 
 (i) *“Direct product” of “technology” or “software.”* A foreign-produced item meets the product scope of this paragraph (h) if it meets both the following conditions:
 
-(A) The foreign-produced item is the “direct product” of “technology” or “software” subject to the EAR and specified in 3D001, 3D991, 3E001, 3E002, 3E003, 3E991, 4D001, 4D090, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E991, or 5E002 of the CCL; and
+(A) The foreign-produced item is the “direct product” of “technology” or “software” subject to the EAR and specified in ECCN 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D090, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E991, or 5E002 of the CCL; and
 
 (B) The foreign-produced item is:
 
@@ -154,7 +176,7 @@ Footnote 3 may be added to an entity that the End User Review Committee has dete
 
 (ii) *Product of a complete plant or 'major component' of a plant that is a “direct product.”* A foreign-produced item meets the product scope of this paragraph (h) if it meets both of the following conditions:
 
-(A) The foreign-produced item is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001, 3D991, 3E001, 3E002, 3E003, 3E991, 4D001, 4D090, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D991, 5E001, 5E991, 5D002, or 5E002 of the CCL; and
+(A) The foreign-produced item is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D090, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D991, 5E001, 5E991, 5D002, or 5E002 of the CCL; and
 
 (B) The foreign-produced item is:
 
@@ -176,9 +198,9 @@ These end-use requirements under paragraph (h) apply when any entity headquarter
 
 (1) *Product scope.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (i)(1)(i) or (ii) of this section.
 
-(i) *“Direct product” of “technology” or “software.”* The foreign-produced item meets the product scope of this paragraph (i)(1)(i) if the foreign-produced item is a “direct product” of “technology” or “software” subject to the EAR and specified in ECCN 3D001, 3D991, 3E001, 3E002, 3E003, 3E991, 4D001, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D991, 5E001, 5E991, 5D002, or 5E002 of the CCL; or
+(i) *“Direct product” of “technology” or “software.”* The foreign-produced item meets the product scope of this paragraph (i)(1)(i) if the foreign-produced item is a “direct product” of “technology” or “software” subject to the EAR and specified in ECCN 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E002, or 5E991 of the CCL; or
 
-(ii) *Product of a complete plant or 'major component' of a plant that is a “direct product.”* A foreign-produced item meets the product scope of this paragraph if the foreign-produced item is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001, 3D991, 3E001, 3E002, 3E003, 3E991, 4D001, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E002, or 5E991 of the CCL.
+(ii) *Product of a complete plant or 'major component' of a plant that is a “direct product.*” A foreign-produced item meets the product scope of this paragraph if the foreign-produced item is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E002, or 5E991 of the CCL.
 
 (2) *Country and end-use scope.* A foreign-produced item meets the country and end-use scope of this paragraph (i)(2) if there is “knowledge” that the foreign produced item will be:
 
@@ -210,4 +232,22 @@ These end-use requirements under paragraph (h) apply when any entity headquarter
 
 (3) *End-user scope of the Iran FDP rule.* A transaction meets the end-user scope of this paragraph (j)(3) if the reexporter or transferor has “knowledge” that the Government of Iran is a party to any transaction involving the foreign-produced item, *e.g.,* as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user.”
 
-[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023; 88 FR 12153, Feb. 27, 2023; 88 FR 33428, May 23, 2023; 88 FR 73488, Oct. 25, 2023; 89 FR 60564, July 26, 2024; 89 FR 68542, Aug. 27, 2024]
+(k) *Semiconductor Manufacturing Equipment (SME) FDP rule.* A foreign-produced commodity is subject to the EAR if it meets both the product scope in paragraph (k)(1) of this section and the destination scope in paragraph (k)(2) of this section. See §§ 742.4(a)(4) and 742.6(a)(6)(i)(A) of the EAR for license requirements and exclusions to the license requirements and §§ 742.4(b)(2) and 742.6(b)(10) for license review policy applicable to foreign-produced commodities that are subject to the EAR under this paragraph (k).
+
+(1) *Product scope.* The product scope applies to a foreign-produced commodity specified in ECCN 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, or 3B002.c that meets the conditions of either paragraph (k)(1)(i) or (ii) of this section.
+
+(i) *“Direct product” of “technology” or “software.*” A foreign-produced commodity meets the product scope of this paragraph (k) if the foreign-produced commodity is the “direct product” of “technology” or “software” subject to the EAR and specified in 3D992 or 3E992 of the CCL; or
+
+(ii) *Product of a complete plant or 'major component' of a plant that is a “direct product.*” A foreign-produced commodity meets the product scope of this paragraph if it meets either of the following conditions:
+
+(A) Is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001 (for 3B commodities), 3D901, 3D991 (for 3B991 and 3B992), 3D992, 3D993, 3D994, 3E001 (for 3B commodities), 3E901 (for 3B903), 3E991 (for 3B991 or 3B992), 3E992, 3E993, or 3E994 of the CCL; or
+
+(B) Contains a commodity produced by any complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the U.S. or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in ECCN 3D001 (for 3B commodities), 3D901, 3D991 (for 3B991 and 3B992), 3D992, 3D993, 3D994, 3E001 (for 3B commodities), 3E901 (for 3B903), 3E991 (for 3B991 or 3B992), 3E992, 3E993, or 3E994 of the CCL.
+
+Note 3 to paragraph (k)(1)(ii)(B):
+
+The product scope of paragraph (k)(1) is met if a foreign-produced commodity contains an integrated circuit that is produced by a complete plant or 'major component' of a plant that itself is a “direct product” of U.S.-origin “technology” or “software” specified in the ECCNs described in paragraph (k)(1)(ii)(B). See Red Flag 26 in supplement no. 3 to part 732 for additional guidance on the scope of paragraph (k)(1). Production of an integrated circuit includes fabrication of the integrated circuit in a wafer, as well as assembly, testing, and packaging of the integrated circuit.
+
+(2) *Destination scope of the SME FDP rule.* A foreign-produced item meets the destination scope of this paragraph (k)(2) if there is “knowledge” that the foreign-produced item is destined to Macau or a destination in Country Group D:5 of supplement no. 1 to part 740 of the EAR.
+
+[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023; 88 FR 12153, Feb. 27, 2023; 88 FR 33428, May 23, 2023; 88 FR 73488, Oct. 25, 2023; 89 FR 60564, July 26, 2024; 89 FR 68542, Aug. 27, 2024; 89 FR 96810, Dec. 5, 2024]

@@ -48,7 +48,7 @@ The following hatcheries are open for sport fishing as governed by applicable Fe
 
 (h) *Harrison Lake National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following conditions:
 
-(1) We only allow fishing from1/2 hour before legal sunrise until1/2 hour after legal sunset.
+(1) We only allow fishing from 1/2 hour before legal sunrise until 1/2 hour after legal sunset.
 
 (2) We prohibit the use of nets for the capture of fish in Herring Creek.
 

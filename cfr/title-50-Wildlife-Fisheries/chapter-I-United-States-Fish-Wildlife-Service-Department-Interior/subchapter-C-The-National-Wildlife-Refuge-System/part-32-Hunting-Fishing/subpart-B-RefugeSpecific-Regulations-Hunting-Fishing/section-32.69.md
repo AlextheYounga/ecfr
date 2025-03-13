@@ -74,7 +74,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (f) *Seedskadee National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of dark goose, duck, coot, merganser, dove, snipe, and rail on designated areas of the refuge subject to the following conditions:
 
-(i) We open the refuge to the general public from1/2 hour before legal sunrise to1/2 hour after legal sunset. Waterfowl hunters may enter the refuge 1 hour before legal shooting hours to set up decoys and blinds.
+(i) We open the refuge to the general public from 1/2 hour before legal sunrise to 1/2 hour after legal sunset. Waterfowl hunters may enter the refuge 1 hour before legal shooting hours to set up decoys and blinds.
 
 (ii) We allow the use of dogs when hunting.
 

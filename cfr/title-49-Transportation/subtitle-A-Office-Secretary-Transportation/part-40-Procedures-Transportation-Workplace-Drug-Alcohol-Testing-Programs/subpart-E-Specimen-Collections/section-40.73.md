@@ -1,8 +1,10 @@
 ##### § 40.73 How is an oral fluid specimen collected? #####
 
-Link to an amendment published at 89 FR 87798, Nov. 5, 2024.
-
 (a) The collector must be present and maintain visual contact with the employee during the procedures outlined in this section.
+
+(1) As the oral fluid collector, you must not allow any person other than you, the employee, or a DOT agency representative to actually witness the testing process.
+
+(2) [Reserved]
 
 (b) The collector must note any unusual behavior or appearance of the employee on the CCF. If the collector detects any conduct that clearly indicates an attempt to tamper with a specimen (*e.g.,* an attempt to bring into the collection site an adulterant or oral fluid substitute), the collector must terminate the collection and report the information to the DER so that the employer can decide whether to deem the situation a refusal.
 
@@ -10,7 +12,7 @@ Link to an amendment published at 89 FR 87798, Nov. 5, 2024.
 
 (1) Under the observation of the collector, the employee is responsible for positioning the specimen collection device for collection.
 
-(2) The collector must ensure the collection is performed correctly (*i.e.,* using the oral fluid device in the manner described by its manufacturer), that the collection device is working properly, and that a sufficient specimen volume is collected.
+(2) The collector must ensure the collection is performed correctly (*i.e.,* using the oral fluid device in the manner described by its manufacturer), that the collection device is working properly, and that a sufficient specimen volume is collected. After the employee provides a sufficient specimen, check the “Volume Indicator(s) Observed” box in Step 2 of the Federal CCF to document that you observed the volume indicator(s) during the collection.
 
 (3) If the employee states that he or she is unable to provide an oral fluid specimen or provides an insufficient specimen during the collection process, the collector must continue to make one attempt to collect, after an insufficient specimen, the collector follows the procedure in § 40.193.
 
@@ -20,4 +22,4 @@ Link to an amendment published at 89 FR 87798, Nov. 5, 2024.
 
 (ii) Proceed with obtaining the new oral fluid specimen from the donor. Note on the new CCF that this is another collection for the same testing event (*i.e.,* Document in the remarks section that this is Specimen 2 of 2 and include the Specimen ID number of the other specimen). Make the same notation on the CCF of the suspect specimen.
 
-[88 FR 27642, May 2, 2023]
+[88 FR 27642, May 2, 2023, as amended at 89 FR 87798, Nov. 5, 2024]

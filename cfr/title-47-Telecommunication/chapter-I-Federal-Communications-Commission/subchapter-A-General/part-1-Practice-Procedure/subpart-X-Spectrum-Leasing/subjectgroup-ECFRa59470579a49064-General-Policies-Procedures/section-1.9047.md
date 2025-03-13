@@ -1,7 +1,5 @@
 ##### § 1.9047 Special provisions relating to spectrum leasing arrangements involving terrestrial spectrum rights for supplemental coverage from space. #####
 
-Link to an amendment published at 89 FR 34159, Apr. 30, 2024.Link to an update of the above amendment published at 89 FR 95136, Dec. 2, 2024.
-
 (a) *Supplemental coverage from space.* For purposes of this section, *supplemental coverage from space (SCS)* has the same meaning as in § 25.103 of this chapter.
 
 (b) *Geographically independent area (GIA).* For purposes of this section, *geographically independent area (GIA)* has the same meaning as in § 25.103 of this chapter.
@@ -20,7 +18,17 @@ Link to an amendment published at 89 FR 34159, Apr. 30, 2024.Link to an update o
 
 (B) One satellite operator may enter into individual leasing arrangements with each of the relevant co-channel licensees that together hold all co-channel licenses on the relevant band in the GIA.
 
-(2) [Reserved]
+(2) The spectrum lessee or sublessee seeking to engage in spectrum leasing under this section must provide within the FCC Form 608:
+
+(i) A certification that the parties are entering into the leasing arrangement for the purpose of fulfilling the part 25 Entry Criteria;
+
+(ii) A description of which method, single or multiple terrestrial licensee, the parties are utilizing to meet the part 25 Entry Criteria; and
+
+(iii) If the parties are utilizing the spectrum leasing arrangement outlined in paragraph (d)(1)(ii) of this section, the parties must:
+
+(A) Describe the nature of the leasing arrangement(s); and
+
+(B) Demonstrate how the entirety of the GIA is covered by the lease arrangement(s).
 
 (e) *FirstNet.* In order for the First Responder Network Authority (FirstNet), as defined in 47 U.S.C. 1424, to fulfill the part 25 SCS Entry Criteria, FirstNet must file an FCC Form 601 in the Universal Licensing System (ULS) that:
 
@@ -38,4 +46,4 @@ Link to an amendment published at 89 FR 34159, Apr. 30, 2024.Link to an update o
 
 (g) *Construction/performance requirements.* Notwithstanding the provisions of §§ 1.9020(d)(5)(i) and 1.9030(d)(5)(i), a licensee may not attribute to itself the build-out or performance activities of its SCS spectrum lessee(s) for purposes of complying with any applicable performance or build-out requirement.
 
-[89 FR 34159, Apr. 30, 2024]
+[89 FR 34159, Apr. 30, 2024, as amended at 89 FR 34159, Apr. 30, 2024; 89 FR 95137, Dec. 2, 2024]

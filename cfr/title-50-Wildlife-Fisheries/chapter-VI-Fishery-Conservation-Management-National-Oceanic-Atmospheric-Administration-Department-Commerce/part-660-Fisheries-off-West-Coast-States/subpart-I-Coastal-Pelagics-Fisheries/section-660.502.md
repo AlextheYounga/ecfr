@@ -52,8 +52,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in § 600.10 of t
 
 *Reduction fishery* means fishing for CPS for the purposes of conversion into fish flour, fish meal, fish scrap, fertilizer, fish oil, other fishery products, or byproducts for purposes other than direct human consumption.
 
-*Regional Administrator* means the Regional Administrator, West Coast Region, NMFS,
-501 W. Ocean Boulevard, Suite 4200, Long Beach, CA 90802-4213, or a designee.
+*Regional Administrator* means the Regional Administrator, West Coast Region, NMFS, 501 W. Ocean Boulevard, Suite 4200, Long Beach, CA 90802-4213, or a designee.
 
 *Reserve* means a portion of the harvest guideline or quota set aside at the beginning of the year for specific purposes, such as for individual harvesting groups to ensure equitable distribution of the resource or to allow for uncertainties in preseason estimates of DAP and JVP.
 

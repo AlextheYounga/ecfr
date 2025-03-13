@@ -10,7 +10,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-(iv) For waterfowl hunting, you may enter the refuge hunt units no earlier than 4 a.m. Hunting starts at the designated legal shooting time and ends at 12 p.m. (noon). You must leave refuge hunt units by 12:30 p.m. For dove hunting, you may enter the refuge 1 hour before legal sunrise and must leave the refuge by1/2 hour after legal sunset. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
+(iv) For waterfowl hunting, you may enter the refuge hunt units no earlier than 4 a.m. Hunting starts at the designated legal shooting time and ends at 12 p.m. (noon). You must leave refuge hunt units by 12:30 p.m. For dove hunting, you may enter the refuge 1 hour before legal sunrise and must leave the refuge by 1/2 hour after legal sunset. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
 
 (v) For waterfowl hunting, we allow hunting in portions of the East Unit on Saturdays, Sundays, and Tuesdays during the regular waterfowl seasons.
 
@@ -398,7 +398,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-(iv) Hunters must enter the refuge hunt units between 4 a.m. and1/2 hour before the designated legal shooting time. Hunting starts at legal shooting time and ends at 12 p.m. (noon). Hunters must leave refuge hunt units by 12:30 p.m. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
+(iv) Hunters must enter the refuge hunt units between 4 a.m. and 1/2 hour before the designated legal shooting time. Hunting starts at legal shooting time and ends at 12 p.m. (noon). Hunters must leave refuge hunt units by 12:30 p.m. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
 
 (v) You may access hunt areas by foot, nonmotorized watercraft, outboard motorboat, or airboat. Airboats may not exceed 10 horsepower with direct drive with a propeller length of 48 inches (120 centimeters) or less. Engines may not exceed 2 cylinders and 484 cc.
 
@@ -436,7 +436,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) During the dove season set by the State of Texas, we limit hunting to no more than 6 days with a maximum of 12 hunters per season.
 
-(iii) We allow hunting from1/2 hour before legal sunrise until 12 p.m. (noon).
+(iii) We allow hunting from 1/2 hour before legal sunrise until 12 p.m. (noon).
 
 (iv) We require hunters to check in and out at refuge headquarters.
 
@@ -536,7 +536,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-(iv) Hunters must enter the refuge hunt unit between 4 a.m. and1/2 hour before the designated legal shooting time. Hunting starts at legal shooting time and ends at 12 p.m. (noon). Hunters must be off refuge hunt units by 12:30 p.m. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
+(iv) Hunters must enter the refuge hunt unit between 4 a.m. and 1/2 hour before the designated legal shooting time. Hunting starts at legal shooting time and ends at 12 p.m. (noon). Hunters must be off refuge hunt units by 12:30 p.m. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
 
 (v) We allow hunting in portions of the refuge daily during the September teal season and on Saturdays, Mondays, and Wednesdays during the regular waterfowl season.
 

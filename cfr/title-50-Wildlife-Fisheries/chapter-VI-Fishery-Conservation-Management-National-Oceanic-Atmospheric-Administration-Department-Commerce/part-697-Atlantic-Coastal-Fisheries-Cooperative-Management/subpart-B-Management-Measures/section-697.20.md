@@ -30,8 +30,7 @@
 
 (2) Subject to the rebuttable presumption in § 697.7(c)(3), no owner, operator or person aboard a vessel issued a Federal American lobster permit may remove meat or any body appendage from any American lobster before or at the time of landing, or have in possession any American lobster part other than whole lobsters, up to the time when a dealer first receives or possesses American lobster.
 
-(d) *Berried female lobsters.* (1) Any berried female lobster harvested in or from the EEZ must be returned to the sea immediately. If any berried female lobster is harvested in or from the EEZ Nearshore Management Areas 1, 2, 4, or 5, or in or from the EEZ Offshore Management Area 3, north of
-42° 30′ North latitude, it must be v-notched before being returned to sea immediately.
+(d) *Berried female lobsters.* (1) Any berried female lobster harvested in or from the EEZ must be returned to the sea immediately. If any berried female lobster is harvested in or from the EEZ Nearshore Management Areas 1, 2, 4, or 5, or in or from the EEZ Offshore Management Area 3, north of 42° 30′ North latitude, it must be v-notched before being returned to sea immediately.
 
 (2) Any berried female lobster harvested or possessed by a vessel issued a Federal limited access lobster permit must be returned to the sea immediately. If any berried female lobster is harvested in or from the EEZ Nearshore Management Areas 1, 2, 4, or 5, or in or from the EEZ Offshore Management Area 3, north of 42° 30′ North latitude, it must be v-notched before being returned to sea immediately.
 

@@ -621,7 +621,7 @@ If you take rainbow/steelhead trout incidentally in other subsistence net fisher
 |Jigging gear through the ice|Household annual limit of 30 fish in any combination of lake trout, rainbow trout, and Dolly Varden or Arctic char|                 Household limits are included in the overall total annual harvest quota.                 |
 |   Gillnet under the ice    |       Total annual harvest quota of 200 lake trout, 200 rainbow trout, and 500 Dolly Varden or Arctic char       |The Federal in-season manager will issue a closure for this fishery once any of these quotas has been met.|
 
-(*3*) You may harvest fish under the ice only in Tustumena Lake. Gillnets are not allowed within a1/4 mile radius of the mouth of any tributary to Tustumena Lake, or the outlet of Tustumena Lake.
+(*3*) You may harvest fish under the ice only in Tustumena Lake. Gillnets are not allowed within a 1/4 mile radius of the mouth of any tributary to Tustumena Lake, or the outlet of Tustumena Lake.
 
 (*4*) A permit is required. The permit will be issued by the Federal in-season manager or designated representative and will be valid for the winter season unless the season is closed by special action.
 

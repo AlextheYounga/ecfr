@@ -16,13 +16,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) Hunters may use temporary tree stands and ground blinds while engaged in hunting during the applicable seasons. Hunters must mark stands and blinds with their permit number. Hunters must remove all stands and blinds within 30 days after the end of the permitted season.
 
-(vii) Migratory waterfowl hunting hours are1/2 hour before legal sunrise to legal sunset.
+(vii) Migratory waterfowl hunting hours are 1/2 hour before legal sunrise to legal sunset.
 
 (2) *Upland game hunting.* We allow hunting of ruffed grouse, fox, coyote, gray squirrel, and cottontail rabbit on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (a)(1)(i) through (vi) of this section apply.
 
-(ii) Upland and big game hunting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(ii) Upland and big game hunting hours are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (iii) North Unit B, Unit C, and South Unit are archery only.
 
@@ -56,13 +56,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We allow the use of dogs consistent with State regulations.
 
-(vii) Migratory waterfowl hunting hours are1/2 hour before legal sunrise to legal sunset.
+(vii) Migratory waterfowl hunting hours are 1/2 hour before legal sunrise to legal sunset.
 
 (2) *Upland game hunting.* We allow hunting of coyote on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (b)(1)(i) through (iii), (iv), and (vi) of this section apply.
 
-(ii) Upland and big game hunting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(ii) Upland and big game hunting hours are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (iii) We allow archery hunting only for upland game.
 
@@ -86,13 +86,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) Hunters must clearly label tree stands and ground blinds with their State hunting license number.
 
-(vi) Migratory waterfowl hunting hours are1/2 hour before legal sunrise to legal sunset.
+(vi) Migratory waterfowl hunting hours are 1/2 hour before legal sunrise to legal sunset.
 
 (2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, opossum, gray squirrel, quail, pheasant, crow, and ruffed grouse on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (c)(1)(i) through (iv) of this section apply.
 
-(ii) Upland and big game hunting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(ii) Upland and big game hunting hours are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and wild turkey on designated areas of the refuge subject to the following conditions:
 
@@ -130,13 +130,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) One nonhunting companion may accompany each permitted hunter. We prohibit nonhunting companions from hunting, but they can assist in other means. All companions must carry identification and stay with the hunter.
 
-(vii) Migratory waterfowl hunting hours are1/2 hour before legal sunrise to legal sunset.
+(vii) Migratory waterfowl hunting hours are 1/2 hour before legal sunrise to legal sunset.
 
 (2) *Upland game hunting.* We allow hunting of ruffed grouse, gray squirrel, coyote, fox, and eastern cottontail rabbit on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (f)(1)(i) through (vi) of this section apply.
 
-(ii) Upland and big game hunting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(ii) Upland and big game hunting hours are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (iii) Hospital Road North Unit and Still River Depot Area are archery only.
 
@@ -152,7 +152,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (g) *Parker River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, brant, coot, crow, merganser, rail, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(i) Hunters may enter the refuge1/2 hour before legal shooting hours and must exit the refuge by1/2 hour after legal shooting hours.
+(i) Hunters may enter the refuge 1/2 hour before legal shooting hours and must exit the refuge by 1/2 hour after legal shooting hours.
 
 (ii) We prohibit the use of centerfire rifles and handguns to hunt any species.
 
@@ -164,13 +164,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We allow crow hunting only from September 1 through February 28.
 
-(vii) Migratory waterfowl hunting hours are1/2 hour before legal sunrise to legal sunset.
+(vii) Migratory waterfowl hunting hours are 1/2 hour before legal sunrise to legal sunset.
 
 (2) *Upland game hunting.* We allow hunting of ruffed grouse, pheasant, cottontail rabbit, hare, gray squirrel, coyote, fox, raccoon, and opossum on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (g)(1)(i) through (iii), and (v) (with the exception that we prohibit dogs while hunting furbearers) of this section apply.
 
-(ii) Upland and big game hunting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(ii) Upland and big game hunting hours are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and wild turkey on designated areas of the refuge subject to the following conditions:
 
@@ -204,13 +204,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow the use of dogs consistent with State regulations.
 
-(iv) Migratory waterfowl hunting hours are1/2 hour before legal sunrise to legal sunset.
+(iv) Migratory waterfowl hunting hours are 1/2 hour before legal sunrise to legal sunset.
 
 (2) *Upland game hunting.* We allow hunting of upland game on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (h)(1)(i) through (iii) of this section apply.
 
-(ii) Upland and big game hunting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(ii) Upland and big game hunting hours are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (3) *Big game hunting.* We allow hunting of big game on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (h)(1)(i) and (h)(2)(ii) of this section apply.
 

@@ -124,6 +124,10 @@
 
 (55) § 740.23, License Exception MED.
 
+(56) § 740.25, License Exception HBM.
+
+(57) § 740.26, License Exception RFF.
+
 (c) *Special recordkeeping requirement*—(1) *Libya.* Persons in receipt of a specific license granted by the Department of the Treasury's Office of Foreign Assets Control (OFAC) for the export to Libya of any item subject to the EAR must maintain a record of those items transferred to Libya pursuant to such specific license and record when the items are consumed or destroyed in the normal course of their use in Libya, reexported to a third country not requiring further authorization from BIS, or returned to the United States. This requirement applies only to items subject to a license requirement under the EAR for export to Libya as of April 29, 2004. These records must include the following information:
 
 (i) Date of export or reexport and related details (including means of transport);

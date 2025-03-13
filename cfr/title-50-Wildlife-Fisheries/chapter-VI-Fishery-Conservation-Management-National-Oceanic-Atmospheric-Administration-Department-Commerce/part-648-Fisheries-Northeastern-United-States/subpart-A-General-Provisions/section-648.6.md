@@ -34,4 +34,4 @@
 
 (n) *Sanctions.* Same as § 648.4(m).
 
-[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[61 FR 34968, July 3, 1996] Editorial Note:For Federal Register citations affecting § 648.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

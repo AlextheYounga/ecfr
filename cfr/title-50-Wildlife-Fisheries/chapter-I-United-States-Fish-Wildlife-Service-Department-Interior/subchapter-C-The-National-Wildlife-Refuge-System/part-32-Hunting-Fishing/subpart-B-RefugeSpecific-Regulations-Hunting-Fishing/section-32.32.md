@@ -142,12 +142,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit fishing in the waterfowl hunting area during the waterfowl hunting season.
 
-(e) *Great River National Wildlife Refuge*—
-(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: On the Long Island Division, we allow hunting only from blinds constructed on sites posted by the Illinois Department of Natural Resources.
+(e) *Great River National Wildlife Refuge*— (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: On the Long Island Division, we allow hunting only from blinds constructed on sites posted by the Illinois Department of Natural Resources.
 
 (2) *Upland game hunting.* We allow hunting of small game, furbearers, and game birds on designated areas of the refuge subject to the following conditions:
 
-(i) We open the refuge divisions for upland game hunting from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(i) We open the refuge divisions for upland game hunting from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (ii) On the Cherry Box and Hickory Creek Units, we allow hunting with shotgun only during the Statewide upland game season.
 
@@ -173,7 +172,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) You must remove personal belongings, including, but not limited to, all boats, decoys, blinds, blind materials, stands, and platforms brought onto the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-(ii) Hunters may enter the refuge no earlier than1/2 hour before legal shooting hours and must exit the refuge no later than1/2 hour after legal shooting hours.
+(ii) Hunters may enter the refuge no earlier than 1/2 hour before legal shooting hours and must exit the refuge no later than 1/2 hour after legal shooting hours.
 
 (2) *Upland game hunting.* We allow upland game and turkey hunting on designated areas of the refuge subject to the following conditions:
 
@@ -215,7 +214,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) *Middle Mississippi River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove boats, blinds, blind materials, stands, decoys, and other hunting equipment from the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
-(2) *Upland game hunting.* We allow hunting of small game, furbearers, and game birds on designated areas of the refuge subject to the following condition: We open the refuge divisions for upland game hunting from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(2) *Upland game hunting.* We allow hunting of small game, furbearers, and game birds on designated areas of the refuge subject to the following condition: We open the refuge divisions for upland game hunting from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and wild turkey on designated areas on the refuge subject to the following conditions:
 
@@ -251,7 +250,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow the use of .22 and .17 caliber rimfire lead ammunition for the taking of small game and furbearers during open season.
 
-(v) Hunters may only hunt from1/2 hour before legal sunrise to no later than1/2 hour after legal sunset, and they must follow all State requirements for legal hunting hours.
+(v) Hunters may only hunt from 1/2 hour before legal sunrise to no later than 1/2 hour after legal sunset, and they must follow all State requirements for legal hunting hours.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 

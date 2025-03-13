@@ -96,4 +96,4 @@
 
 (ii) Has fished for scallops with a scallop dredge on no more than 10 trips from January 1, 1988, through December 31, 1994, has an engine horsepower no greater than 450.
 
-[69 FR 35215, June 23, 2004]Editorial Note:For Federal Register citations affecting § 648.51, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[69 FR 35215, June 23, 2004] Editorial Note:For Federal Register citations affecting § 648.51, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 40.35 What training requirements must a collector meet for oral fluid collection? #####
 
-Link to an amendment published at 89 FR 87798, Nov. 5, 2024.
-
 To be permitted to act as an oral fluid collector in the DOT drug testing program, you must meet each of the requirements of this section:
 
 (a) *Basic information.* You must be knowledgeable about this part, the current “DOT Oral Fluid Specimen Collection Procedures Guidelines,” and DOT agency regulations applicable to the employers for whom you perform collections. DOT agency regulations, guidelines, and other materials are available from ODAPC (Department of Transportation, 1200 New Jersey Avenue SE, Washington DC, 20590, 202-366-3784, or on the ODAPC website (*https://www.transportation.gov/odapc*). You must keep current on any changes to these materials. You must subscribe to the ODAPC list-serve at: *https://www.transportation.gov/odapc/get-odapc-email-updates.*
@@ -24,13 +22,15 @@ To be permitted to act as an oral fluid collector in the DOT drug testing progra
 
 (1) The five mock collections for each device must include one uneventful collection scenario, one insufficient specimen quantity scenario; one scenario in which the employee has something in their mouth that might interfere with the collection; one scenario in which the employee attempts to tamper with the specimen; and one scenario in which the employee refuses to sign the CCF. For each of the five mock collections, the collector must check the expiration date of the device, show it to the employee, and record the date on the CCF used. The collector must ensure, when applying the labels, they do not cover the expiration dates.
 
-(2) Another person must monitor and evaluate your performance, in person or by a means that provides real-time observation and interaction between you and the qualified collector, who must attest in writing that the mock collections are “error-free.” This person must be a qualified collector who has demonstrated necessary knowledge, skills, and abilities by—
+(2) Another person must monitor and evaluate your performance, in person or by a means that provides real-time observation and interaction between you and the qualified collector, who must attest in writing that the mock collections are “error-free.” Except as provided in paragraph (c)(3) of this section, this person must be a qualified oral fluid collector who has demonstrated necessary knowledge, skills, and abilities by—
 
-(i) Regularly conducting DOT drug test collections for a period of at least one year;
+(i) Regularly conducting DOT oral fluid drug test collections for a period of at least one year;
 
-(ii) Conducting collector training under this part for at least one year; or
+(ii) Conducting oral fluid collector training under this part for at least one year; or
 
-(iii) Successfully completing a “train the trainer” course.
+(iii) Successfully completing an oral fluid “train the trainer” course.
+
+(3) As the person monitoring and evaluating the collector's five mock collections pursuant to paragraphs (c)(1) and (2) of this section, you need not be a qualified oral fluid collector to do so if you meet the necessary knowledge, skills, and abilities in paragraph (c)(2)(ii) or (iii) until otherwise specified (one year after HHS publishes a Federal Register notification of the first certified oral fluid drug testing laboratory (HHS notification)). Furthermore, the one-year requirement in paragraph (c)(2)(ii) is not applicable until otherwise specified (one year after the HHS notification).
 
 (d) *Schedule for qualification training and initial proficiency demonstration.* You must meet the requirements of paragraphs (b) and (c) of this section before you begin to perform collector functions.
 
@@ -46,4 +46,4 @@ To be permitted to act as an oral fluid collector in the DOT drug testing progra
 
 (g) *Documentation.* You must maintain documentation showing that you currently meet all requirements of this section. You must provide this documentation on request to DOT agency representatives and to employers and C/TPAs who are using or negotiating to use your services.
 
-[88 FR 27638, May 2, 2023]
+[88 FR 27638, May 2, 2023, as amended at 89 FR 87798, Nov. 5, 2024]

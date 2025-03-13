@@ -1,5 +1,7 @@
 ##### § 25.146 Licensing and operating provisions for NGSO FSS space stations. #####
 
+Link to an amendment published at 89 FR 96602, Dec. 5, 2024.
+
 (a) An NGSO FSS applicant proposing to operate in the 10.7-30 GHz frequency range must certify that it will comply with:
 
 (1) Any applicable power flux-density levels in Article 21, Section V, Table 21-4 of the ITU Radio Regulations (incorporated by reference, § 25.108), except that in the 19.3-19.4 GHz and 19.6-19.7 GHz bands applicants must certify that they will comply with the ITU PFD limits governing NGSO FSS systems in the 17.7-19.3 GHz band; and

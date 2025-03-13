@@ -1,5 +1,7 @@
 ##### § 7.7 Amendment of application. #####
 
+Link to an amendment published at 89 FR 96531, Dec. 5, 2024.
+
 (a) Any proposed amendments to the pending license application after issuance of the notice of acceptance and ready for environmental analysis under this section must include:
 
 (1) An amended or new section 401 of the Clean Water Act water quality certification if the amendment would have a material adverse impact on the water quality in the discharge from the proposed project; and

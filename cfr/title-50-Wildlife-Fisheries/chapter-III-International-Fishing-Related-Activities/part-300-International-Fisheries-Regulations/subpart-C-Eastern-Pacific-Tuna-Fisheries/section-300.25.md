@@ -145,4 +145,4 @@
 
 (9) *State of California fish landing receipts.* If landing Pacific bluefin tuna into the State of California, fish landing receipts must be submitted within 24 hours to the California Department of Fish and Wildlife in accordance with the requirements of applicable State regulations.
 
-[64 FR 44431, Aug. 16, 1999]Editorial Note:For Federal Register citations affecting § 300.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[64 FR 44431, Aug. 16, 1999] Editorial Note:For Federal Register citations affecting § 300.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

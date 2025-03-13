@@ -1,5 +1,7 @@
 ##### § 4902.11 Specific exemptions: Office of Inspector General Investigative File System. #####
 
+Link to an amendment published at 89 FR 96532, Dec. 5, 2024.
+
 (a) *Criminal Law Enforcement*—(1) *Exemption.* Under the authority granted by 5 U.S.C. 552a(j)(2), PBGC hereby exempts the system of records entitled “PBGC-17, Office of Inspector General Investigative File System—PBGC” from the provisions of 5 U.S.C. 552a (c)(3), (c)(4), (d)(1) through (4), (e)(1) through (3), (e)(4)(G) and (H), (e)(5), (e)(8), (f), and (g) because the system contains information pertaining to the enforcement of criminal laws.
 
 (2) *Reasons for exemption.* The reasons for asserting this exemption are:

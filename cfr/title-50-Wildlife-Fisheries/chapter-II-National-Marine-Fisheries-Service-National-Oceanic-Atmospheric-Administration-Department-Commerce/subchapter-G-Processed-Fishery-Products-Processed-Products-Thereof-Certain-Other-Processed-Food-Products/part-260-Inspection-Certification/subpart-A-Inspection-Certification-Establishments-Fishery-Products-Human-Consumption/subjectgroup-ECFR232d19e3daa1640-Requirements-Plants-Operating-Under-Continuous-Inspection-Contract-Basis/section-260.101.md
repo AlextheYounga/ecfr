@@ -21,4 +21,4 @@ Modern lavatory accommodations, and properly located facilities for cleaning and
 |                                          For each additional 30 persons in excess of 80                                           |   <sup>1</sup> 1    |
 |<sup>1</sup> Urinals may be substituted for toilet bowls but only to the extent of one-third of the total number of bowls required.|                     |
 
-All toilet equipment shall be kept operative, in good repair, and in a sanitary condition.[36 FR 21041, Nov. 3, 1971]
+All toilet equipment shall be kept operative, in good repair, and in a sanitary condition. [36 FR 21041, Nov. 3, 1971]

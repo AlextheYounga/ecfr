@@ -10,7 +10,7 @@ Note to “600 Series Major Defense Equipment”:
 
 For the most current list of MDE, see Appendix 1, (Nonrecurring Cost Recoupment Charges for Major Defense Equipment) to DoD 5105.38-M, “Security Assistance Management Manual (SAMM),” dated 04/30/2012, available online at *http://www.dsca.osd.mil/samm/ESAMM/Appendix01.htm.*
 
-*Access information.* Information that allows access to encrypted technology or encrypted software in an unencrypted form. Examples include decryption keys, network access codes, and passwords.
+*Access information.* For purposes of § 734.19(a), information that allows access to encrypted technology or encrypted software in an unencrypted form. Examples include decryption keys, network access codes, and passwords.
 
 *Accessories.* These are associated items for any “component,” “end item,” or “system,” and which are not necessary for their operation, but which enhance their usefulness or effectiveness. For example, for a riding lawnmower, “accessories” and “attachments” will include the bag to capture the cut grass, and a canopy to protect the operator from the sun and rain. For purposes of this definition, “accessories” and “attachments” are the same.
 
@@ -24,23 +24,25 @@ For the most current list of MDE, see Appendix 1, (Nonrecurring Cost Recoupment 
 
 *Adjusted Peak Performance (APP).* (Cat 4) An adjusted peak rate at which “digital computers” perform 64-bit or larger floating point additions and multiplications. The formula to calculate APP is contained in a technical note at the end of Category 4 of the Commerce Control List.
 
-*Advanced-Node Integrated Circuits (Advanced-Node IC).* For parts 734 and 744 of the EAR, advanced-node integrated circuits include integrated circuits that meet any of the following criteria:
+*Advanced-Node Integrated Circuits (Advanced-Node IC).* For parts 734 and 744 of the EAR, “advanced-node integrated circuits” include integrated circuits that meet any of the following criteria:
 
 (1) Logic integrated circuits using a non-planar transistor architecture or with a “production” 'technology node' of 16/14 nanometers or less;
 
 (2) NOT AND (NAND) memory integrated circuits with 128 layers or more; or
 
-(3) Dynamic random-access memory (DRAM) integrated circuits using a “production” 'technology node' of 18 nanometer half-pitch or less.
+(3) Dynamic random-access memory (DRAM) integrated circuits having:
+
+(i) A memory cell area of less than 0.0019 µm2; or
+
+(ii) A memory density greater than 0.288 gigabits per square millimeter.
 
 Note 1 to definition of “Advanced-Node Integrated Circuits”:
 
-For the purposes of paragraphs (1) and (3) of this definition, the term technology node refers to the Logic Industry “Node Range” figure described in the International Roadmap for Devices and Systems, 2016 edition (“More Moore” White Paper), available at *https://irds.ieee.org/images/files/pdf/2016\_MM.pdf).*
+For the purposes of paragraph (1) of this definition, the term technology node refers to the Logic Industry “Node Range” figure described in the International Roadmap for Devices and Systems, 2016 edition (“More Moore” White Paper), available at: https://irds.ieee.org/images/files/pdf/2016\_MM.pdf.
 
-Technical Note to definition of “Advanced-Node Integrated Circuits”:
+Note 2 to definition of “Advanced-Node Integrated Circuits”:
 
-For the purposes of paragraph (3) of this definition, the calculation methodology to be used in determining whether a DRAM integrated circuit uses a production technology node of 18 nanometer half-pitch or less is the calculated half-pitch method developed, adopted, and used by the Institute of Electrical and Electronics Engineers (IEEE) and published in the International Roadmap for Devices and Systems (IRDS), as follows:
-
-![](/graphics/er25oc23.000.gif)Cell size factor is 8, 6 or 4 depending on the DRAM architectures. Cell area is defined as Wordline\*Bitline (which takes into consideration both transistor and capacitor dimensions)
+For the purposes of paragraph (3) of this definition, the term memory density refers to the capacity of the package or stack comprising the DRAM integrated circuit measured in gigabytes divided by the footprint of the package or stack measured in square millimeters. In the case where a stack is contained in a package, use the area of the package. Cell area is defined as Wordline\*Bitline (which takes into consideration both transistor and capacitor dimensions).
 
 *Advisory Committee on Export Policy (ACEP).* The ACEP voting members include the Assistant Secretary of Commerce for Export Administration, and Assistant Secretary-level representatives from the Departments of State, Defense, Justice (for encryption exports), Energy, and the Arms Control and Disarmament Agency. The appropriate representatives of the Joint Chiefs of Staff and the Director of the Nonproliferation Center of the Central Intelligence Agency are non-voting members. The Assistant Secretary of Commerce for Export Administration is the Chair. Appropriate acting Assistant Secretary, Deputy Assistant Secretary or equivalent strength of any agency or department may serve in lieu of the Assistant Secretary of the concerned agency or department. Such representatives, regardless of rank, will speak and vote on behalf of their agencies or departments. The ACEP may invite Assistant Secretary-level representatives of other Government agencies or departments (other than those identified above) to participate in the activities of the ACEP when matters of interest to such agencies or departments are under consideration. Decisions are made by majority vote.
 

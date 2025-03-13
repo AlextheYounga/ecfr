@@ -32,7 +32,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(c) *Choctaw National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, light and dark geese, coot, and merganser on designated areas of the refuge subject to the following conditions:
+(c) *Choctaw National Wildlife Refuge* —(1) *Migratory game bird hunting.* We allow hunting of duck, light and dark geese, coot, and merganser on designated areas of the refuge subject to the following conditions:
 
 (i) We only allow migratory game bird hunting during the Special Youth, Veteran, and Active Military Personnel Waterfowl Hunting Days determined by the State. Regular waterfowl season shooting hours, bag limits, and legal arms and ammunition apply to the special days.
 

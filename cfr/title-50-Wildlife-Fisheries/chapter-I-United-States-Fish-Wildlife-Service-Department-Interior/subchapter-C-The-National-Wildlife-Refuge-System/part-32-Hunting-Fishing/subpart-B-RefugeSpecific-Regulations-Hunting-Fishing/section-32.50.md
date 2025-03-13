@@ -36,7 +36,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow hunting of light goose in the North Special Hunt Area on dates to be determined by refuge staff. Hunters must possess a permit available through a lottery drawing (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System).
 
-(ii) Hunting hours for mourning and white-winged dove are from1/2 hour before legal sunrise to legal sunset. Hunting hours for light goose are from1/2 hour before legal sunrise to 12:00 p.m. (noon) Mountain Time.
+(ii) Hunting hours for mourning and white-winged dove are from 1/2 hour before legal sunrise to legal sunset. Hunting hours for light goose are from 1/2 hour before legal sunrise to 12:00 p.m. (noon) Mountain Time.
 
 (iii) You must remove all spent shells and all other personal equipment at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
@@ -50,7 +50,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (b)(1)(iv) through (vi) of this section apply.
 
-(ii) Hunting hours are from1/2 hour before legal sunrise to1/2 after legal sunset.
+(ii) Hunting hours are from 1/2 hour before legal sunrise to 1/2 after legal sunset.
 
 (3) *Big game hunting.* We allow hunting of mule deer, javelina, oryx, and bearded Rio Grande turkey on designated areas of the refuge subject to the following conditions:
 
@@ -68,7 +68,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow fishing from April 1 through September 30.
 
-(ii) We allow fishing from1/2 hour before legal sunrise until1/2 hour after legal sunset.
+(ii) We allow fishing from 1/2 hour before legal sunrise until 1/2 hour after legal sunset.
 
 (iii) We prohibit trotlines, bow fishing, seining, dip netting, and traps.
 
@@ -84,7 +84,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow the hunting of goose on dates to be determined by refuge staff.
 
-(v) Shooting hours for geese are from1/2 hour before legal sunrise until 1 p.m. local time.
+(v) Shooting hours for geese are from 1/2 hour before legal sunrise until 1 p.m. local time.
 
 (vi) We assign an aggregate bag limit for geese.
 
@@ -128,7 +128,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (f) *Sevilleta National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove, white-winged dove, goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
-(i) In Units A and B, legal hunting hours begin from1/2 hour before legal sunrise and will not extend past 1 p.m. on each hunt day. Hunters may access Units A and B from 1 hour before legal sunrise until 1 hour after legal sunset.
+(i) In Units A and B, legal hunting hours begin from 1/2 hour before legal sunrise and will not extend past 1 p.m. on each hunt day. Hunters may access Units A and B from 1 hour before legal sunrise until 1 hour after legal sunset.
 
 (ii) In Unit B, we allow waterfowl hunting from designated blinds only.
 
@@ -140,7 +140,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (f)(1)(iii) and (iv) of this section apply.
 
-(ii) In the Rio Puerco Unit, legal hunting hours will run from1/2 hour before legal sunrise to legal sunset.
+(ii) In the Rio Puerco Unit, legal hunting hours will run from 1/2 hour before legal sunrise to legal sunset.
 
 (iii) We allow falcons to hunt dove in the Rio Puerco Unit only.
 

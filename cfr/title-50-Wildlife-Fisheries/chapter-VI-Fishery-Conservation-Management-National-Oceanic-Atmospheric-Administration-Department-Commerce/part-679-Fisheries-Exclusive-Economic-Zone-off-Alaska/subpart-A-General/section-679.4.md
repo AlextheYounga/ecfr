@@ -944,8 +944,7 @@
 
 (*ii*) The vessel owner, or the authorized agent, signs the request;
 
-(*iii*) The written request is submitted to NMFS using one of the following methods: Mail at Regional Administrator, c/o Restricted Access Management Program, NMFS, P.O. Box 21668, Juneau, AK 99802-1668; fax at 907-586-7352; or hand delivery or carrier at NMFS, Room 713, 709 West 9th Street, Juneau, AK 99801;
-and
+(*iii*) The written request is submitted to NMFS using one of the following methods: Mail at Regional Administrator, c/o Restricted Access Management Program, NMFS, P.O. Box 21668, Juneau, AK 99802-1668; fax at 907-586-7352; or hand delivery or carrier at NMFS, Room 713, 709 West 9th Street, Juneau, AK 99801; and
 
 (*iv*) NMFS receives the written request and credits the groundfish LLP license with the legal trip target landing specified in paragraph (k)(14)(ii)(A)(*1*) of this section.
 

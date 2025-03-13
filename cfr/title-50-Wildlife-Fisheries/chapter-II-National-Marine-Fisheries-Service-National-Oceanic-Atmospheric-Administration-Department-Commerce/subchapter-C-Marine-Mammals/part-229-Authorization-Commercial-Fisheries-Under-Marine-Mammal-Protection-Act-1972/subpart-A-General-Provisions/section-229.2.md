@@ -64,7 +64,7 @@ In addition to the definitions contained in the Act and § 216.3 of this chapter
 
 *Groundline,* with reference to trap/pot gear, means a line connecting traps in a trap trawl, and, with reference to gillnet gear, means a line connecting a gillnet or gillnet bridle to an anchor.
 
-*Hard lay lines* mean lines that are at least as stiff as5/16 inch (0.8 cm) diameter line composed of polyester wrapped around a blend of polypropylene and polyethylene and 42 visible twists of strands per foot of line.
+*Hard lay lines* mean lines that are at least as stiff as 5/16 inch (0.8 cm) diameter line composed of polyester wrapped around a blend of polypropylene and polyethylene and 42 visible twists of strands per foot of line.
 
 *Incidental* means, with respect to an act, a non-intentional or accidental act that results from, but is not the purpose of, carrying out an otherwise lawful action.
 
@@ -92,7 +92,7 @@ In addition to the definitions contained in the Act and § 216.3 of this chapter
 
 (2) Provides reasonable assurance that the stock size is equal to or greater than the estimate.
 
-*Modified pound net leader* means a pound net leader that is affixed to or resting on the sea floor and made of a lower portion of mesh and an upper portion of only vertical lines such that the mesh size is equal to or less than 8 inches (20.3 cm) stretched mesh; at any particular point along the leader, the height of the mesh from the seafloor to the top of the mesh must be no more than one-third the depth of the water at mean lower low water directly above that particular point; the mesh is held in place by a bottom chain that forms the lowermost part of the pound net leader; the vertical lines extend from the top of the mesh up to a top line, which is a line that forms the uppermost part of the pound net leader; the vertical lines are equal to or greater than5/16 inch (0.8 cm) in diameter and strung vertically at a minimum of every 2 feet (61 cm); and the vertical lines are hard lay lines.
+*Modified pound net leader* means a pound net leader that is affixed to or resting on the sea floor and made of a lower portion of mesh and an upper portion of only vertical lines such that the mesh size is equal to or less than 8 inches (20.3 cm) stretched mesh; at any particular point along the leader, the height of the mesh from the seafloor to the top of the mesh must be no more than one-third the depth of the water at mean lower low water directly above that particular point; the mesh is held in place by a bottom chain that forms the lowermost part of the pound net leader; the vertical lines extend from the top of the mesh up to a top line, which is a line that forms the uppermost part of the pound net leader; the vertical lines are equal to or greater than 5/16 inch (0.8 cm) in diameter and strung vertically at a minimum of every 2 feet (61 cm); and the vertical lines are hard lay lines.
 
 *Nearshore pound net* means a pound net with every part of the leader (from the most offshore pole at the pound end of the leader to the most inshore pole of the leader) in less than 14 feet (4.3 m) of water at any tidal condition.
 
@@ -196,4 +196,4 @@ In addition to the definitions contained in the Act and § 216.3 of this chapter
 
 *Weak link* means a breakable component of gear that will part when subject to a certain tension load.
 
-[60 FR 45100, Aug. 30, 1995]Editorial Note:For Federal Register citations affecting § 229.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[60 FR 45100, Aug. 30, 1995] Editorial Note:For Federal Register citations affecting § 229.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

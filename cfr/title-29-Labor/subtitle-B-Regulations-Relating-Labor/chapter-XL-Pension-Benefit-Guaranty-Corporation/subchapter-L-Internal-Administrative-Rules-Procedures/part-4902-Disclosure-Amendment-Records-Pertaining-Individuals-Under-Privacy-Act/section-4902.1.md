@@ -1,5 +1,7 @@
 ##### § 4902.1 Purpose and Scope. #####
 
+Link to an amendment published at 89 FR 96532, Dec. 5, 2024.
+
 (a) *Procedures.* Sections 4902.3 through 4902.7 establish procedures under which—
 
 (1) An individual may—

@@ -1,5 +1,7 @@
 ##### § 5.23 Response to notice. #####
 
+Link to an amendment published at 89 FR 96530, Dec. 5, 2024.
+
 (a) *Comments and reply comments.* Comments, protests, interventions, recommendations, and preliminary terms and conditions or preliminary fishway prescriptions must be filed no later than 60 days after the notice of acceptance and ready for environmental analysis. All reply comments must be filed within 105 days of that notice.
 
 (b) *Water quality certification.* (1) With regard to certification requirements for a license applicant under Section 401(a)(1) of the Federal Water Pollution Control Act (Clean Water Act), the license applicant must file no later than 60 days following the date of issuance of the notice of acceptance and ready for environmental analysis provide for in § 5.22:

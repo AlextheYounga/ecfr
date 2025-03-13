@@ -16,7 +16,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We only allow dog training during the corresponding hunt season.
 
-(iii) We require a Special Use Permit (FWS Form 3-1383-G) to hunt raccoon or opossum from1/2 hour after legal sunset until1/2 hour before legal sunrise.
+(iii) We require a Special Use Permit (FWS Form 3-1383-G) to hunt raccoon or opossum from 1/2 hour after legal sunset until 1/2 hour before legal sunrise.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
@@ -50,7 +50,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) You must hunt from your assigned blind location.
 
-(iii) We allow hunting from1/2 hour before legal sunrise to 4:20 p.m. (as governed by County regulations).
+(iii) We allow hunting from 1/2 hour before legal sunrise to 4:20 p.m. (as governed by County regulations).
 
 (iv) We allow hunters to access the refuge 11/2 hours before legal shooting time until 1 hour after legal shooting time.
 
@@ -74,13 +74,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (d) *Great Dismal Swamp National Wildlife Refuge.* Refer to § 32.65(g) for regulations.
 
-(e) *Mackay Island National Wildlife Refuge.* (1)—*Migratory game bird hunting.* We allow hunting of swan, light and dark goose, duck, merganser, coot, moorhen, and gallinule on designated areas of the refuge subject to the following conditions:
+(e) *Mackay Island National Wildlife Refuge.* (1)— *Migratory game bird hunting.* We allow hunting of swan, light and dark goose, duck, merganser, coot, moorhen, and gallinule on designated areas of the refuge subject to the following conditions:
 
 (i) We require a North Carolina Waterfowl Hunt Permit or a signed refuge hunt brochure that must be carried while hunting on the refuge.
 
 (ii) Hunters must hunt from their assigned blind location.
 
-(iii) We allow hunting from1/2 hour before legal sunrise to 4:20 p.m. (as governed by County regulations).
+(iii) We allow hunting from 1/2 hour before legal sunrise to 4:20 p.m. (as governed by County regulations).
 
 (iv) We allow hunters to access the refuge 11/2 hours before legal shooting time until 5:20 p.m.
 
@@ -118,7 +118,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) All waterfowl hunters must check out at the assigned station prior to leaving the refuge.
 
-(vi) Shooting hours are from1/2 hour before legal sunrise until 12 p.m. (noon).
+(vi) Shooting hours are from 1/2 hour before legal sunrise until 12 p.m. (noon).
 
 (vii) We allow the use of dogs when hunting.
 
@@ -160,7 +160,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing and crabbing on designated areas of the refuge subject to the following conditions:
 
-(i) We are open to sport fishing, bow fishing, and crabbing from March 1 through October 31, from1/2 hour before legal sunrise to1/2 hour after legal sunset, except that we allow bank fishing and crabbing year-round from:
+(i) We are open to sport fishing, bow fishing, and crabbing from March 1 through October 31, from 1/2 hour before legal sunrise to 1/2 hour after legal sunset, except that we allow bank fishing and crabbing year-round from:
 
 (A) State Route 94 (24 hours a day);
 
@@ -184,7 +184,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (g) *Pea Island National Wildlife Refuge.* (1)-(3) [Reserved]
 
-(4) *Sport fishing.* We allow sport fishing and crabbing on designated areas of the refuge subject to the following condition: We require all recreational nighttime surf anglers to possess and carry a signed, self-service refuge nighttime surf fishing permit (signed brochure) while fishing on the refuge between1/2 hour after legal sunset and1/2 hour before legal sunrise.
+(4) *Sport fishing.* We allow sport fishing and crabbing on designated areas of the refuge subject to the following condition: We require all recreational nighttime surf anglers to possess and carry a signed, self-service refuge nighttime surf fishing permit (signed brochure) while fishing on the refuge between 1/2 hour after legal sunset and 1/2 hour before legal sunrise.
 
 (h) *Pee Dee National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of dove on designated dates and areas of the refuge subject to the following conditions:
 
@@ -280,7 +280,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow fishing in Pungo Lake and New Lake only from March 1 through October 31, except that we close Pungo Lake and the entire Pungo Unit to fishing during the limited big game hunts.
 
-(ii) We allow fishing only from1/2 hour before legal sunrise until1/2 hour after legal sunset.
+(ii) We allow fishing only from 1/2 hour before legal sunrise until 1/2 hour after legal sunset.
 
 (j) *Roanoke River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge.
 
