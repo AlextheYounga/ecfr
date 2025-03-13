@@ -20,7 +20,7 @@
 
 (D) Beginning with the 2026 MIPS payment year, submit an affirmative attestation regarding the MIPS eligible clinician's completion of the annual self-assessment under the SAFER Guides measure during the year in which the performance period occurs.
 
-(3) *Engaging in activities related to supporting providers with the performance of CEHRT; support for health information exchange and the prevention of information blocking; actions to limit or restrict the compatibility or interoperability of CEHRT.* (i) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the MIPS eligible clinician—
+(3) *Engaging in activities related to supporting providers with the performance of CEHRT; support for health information exchange and the prevention of information blocking; actions to limit or restrict the compatibility or interoperability of CEHRT*—(i) *Supporting providers with the performance of CEHRT (SPPC).* To engage in activities related to supporting providers with the performance of CEHRT, the MIPS eligible clinician—
 
 (A) Must attest that he or she:
 

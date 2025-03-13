@@ -12,7 +12,9 @@
 
 (2) [Reserved]
 
-(b) *Performance categories.* MIPS eligible clinicians are scored under MIPS in four performance categories. (1) *Quality performance category*—(i) *Measure achievement points.* For the CY 2017 through 2022 performance periods/2019 through 2024 MIPS payment years, MIPS eligible clinicians receive between 3 and 10 measure achievement points (including partial points) for each measure required under § 414.1335 on which data is submitted in accordance with § 414.1325 that has a benchmark at paragraph (b)(1)(ii) of this section, meets the case minimum requirement at paragraph (b)(1)(iii) of this section, and meets the data completeness requirement at § 414.1340 and for each administrative claims-based measure that has a benchmark at paragraph (b)(1)(ii) of this section and meets the case minimum requirement at paragraph (b)(1)(iii) of this section. Except as provided under paragraph (b)(1)(i)(C) of this section, beginning with the CY 2023 performance period/2025 MIPS payment year, MIPS eligible clinicians receive between 1 and 10 measure achievement points (including partial points) for each such measure. The number of measure achievement points received for each such measure is determined based on the applicable benchmark decile category and the percentile distribution. MIPS eligible clinicians receive zero measure achievement points for each measure required under § 414.1335 on which no data is submitted in accordance with § 414.1325. MIPS eligible clinicians that submit data in accordance with § 414.1325 on a greater number of measures than required under § 414.1335 are scored only on the required measures with the greatest number of measure achievement points. Beginning with the CY 2019 performance period/2021 MIPS payment year, MIPS eligible clinicians that submit data in accordance with § 414.1325 on a single measure via multiple collection types are scored only on the data submission with the greatest number of measure achievement points.
+(b) *Performance categories.* MIPS eligible clinicians are scored under MIPS in four performance categories.
+
+(1) *Quality performance category*—(i) *Measure achievement points.* For the CY 2017 through 2022 performance periods/2019 through 2024 MIPS payment years, MIPS eligible clinicians receive between 3 and 10 measure achievement points (including partial points) for each measure required under § 414.1335 on which data is submitted in accordance with § 414.1325 that has a benchmark at paragraph (b)(1)(ii) of this section, meets the case minimum requirement at paragraph (b)(1)(iii) of this section, and meets the data completeness requirement at § 414.1340 and for each administrative claims-based measure that has a benchmark at paragraph (b)(1)(ii) of this section and meets the case minimum requirement at paragraph (b)(1)(iii) of this section. Except as provided under paragraph (b)(1)(i)(C) of this section, beginning with the CY 2023 performance period/2025 MIPS payment year, MIPS eligible clinicians receive between 1 and 10 measure achievement points (including partial points) for each such measure. The number of measure achievement points received for each such measure is determined based on the applicable benchmark decile category and the percentile distribution. MIPS eligible clinicians receive zero measure achievement points for each measure required under § 414.1335 on which no data is submitted in accordance with § 414.1325. MIPS eligible clinicians that submit data in accordance with § 414.1325 on a greater number of measures than required under § 414.1335 are scored only on the required measures with the greatest number of measure achievement points. Beginning with the CY 2019 performance period/2021 MIPS payment year, MIPS eligible clinicians that submit data in accordance with § 414.1325 on a single measure via multiple collection types are scored only on the data submission with the greatest number of measure achievement points.
 
 (A) *Lack of benchmark or case minimum.*
 
@@ -186,11 +188,8 @@
 
 (c) *Final score calculation.* Each MIPS eligible clinician receives a final score of 0 to 100 points for a performance period for a MIPS payment year calculated as follows. If a MIPS eligible clinician is scored on fewer than 2 performance categories, he or she receives a final score equal to the performance threshold.
 
-Table 1 to Paragraph (c) Introductory Text
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                                                                                                                                                                                             For the 2019 MIPS payment year:                                                                                                                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                               Final score = [(quality performance category score × quality performance category weight) + (cost performance category score × cost performance category weight) + (improvement activities performance category score × improvement activities performance category weight) + (Promoting Interoperability performance category score × Promoting Interoperability performance category weight)], not to exceed 100 points.                                |
 |                                                                                                                                                                                                                             For the 2020 MIPS payment year:                                                                                                                                                                                                                             |
 |Final score = [(quality performance category score × quality performance category weight) + (cost performance category score × cost performance category weight) + (improvement activities performance category score × improvement activities performance category weight) + (Promoting Interoperability performance category score × Promoting Interoperability performance category weight)] × 100 + [the complex patient bonus + the small practice bonus], not to exceed 100 points.|
@@ -217,7 +216,9 @@ Table 1 to Paragraph (c) Introductory Text
 
 (*3*) Beginning with the 2021 MIPS payment year, for the quality, cost, improvement activities, and Promoting Interoperability performance categories, the MIPS eligible clinician joins an existing practice during the final 3 months of the performance period year that is not participating in MIPS as a group or joins a practice that is newly formed during the final 3 months of the performance period year.
 
-(*4*) *For the Promoting Interoperability performance category:* (*i*) For the 2021 through 2025 MIPS payment years, the MIPS eligible clinician is a physical therapist, occupational therapist, clinical psychologist, qualified audiologist, qualified speech-language pathologist, or a registered dietitian or nutrition professional. In the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
+(*4*) *For the Promoting Interoperability performance category:*
+
+(*i*) For the 2021 through 2025 MIPS payment years, the MIPS eligible clinician is a physical therapist, occupational therapist, clinical psychologist, qualified audiologist, qualified speech-language pathologist, or a registered dietitian or nutrition professional. In the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
 
 (*ii*) For the 2019 through 2024 MIPS payment years, the MIPS eligible clinician is a nurse practitioner, physician assistant, clinical nurse specialist, or certified registered nurse anesthetist. In the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
 
@@ -262,8 +263,6 @@ Table 1 to Paragraph (c) Introductory Text
 (ii) A scoring weight different from the weights specified in paragraph (c)(1) of this section will be assigned to a performance category, and its weight as specified in paragraph (c)(1) of this section will be redistributed to another performance category or categories, as follows:
 
 (A) For the 2019 MIPS payment year:
-
-Table 2 to Paragraph (c)(2)(ii)(A)
 
 |Performance category  <br/>(%)|Weighting for  <br/>the 2019 MIPS  <br/>payment year  <br/>(%)|Reweight scenario  <br/>if no promoting  <br/>interoperability  <br/>performance  <br/>category score  <br/>(%)|Reweight  <br/>scenario if no  <br/>quality  <br/>performance  <br/>category score  <br/>(%)|Reweight scenario  <br/>if no improvement  <br/>activities  <br/>performance  <br/>category score  <br/>(%)|
 |------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
@@ -331,8 +330,6 @@ Table 2 to Paragraph (c)(2)(ii)(A)
 
 (E) For the 2023 MIPS payment year:
 
-Table 6 to Paragraph (c)(2)(ii)(E)
-
 |                   Reweighting scenario                    |Quality  <br/>(%)|Cost  <br/>(%)|Improvement  <br/>activities  <br/>(%)|Promoting  <br/>Interoperability  <br/>(%)|
 |-----------------------------------------------------------|-----------------|--------------|--------------------------------------|------------------------------------------|
 |                  No Reweighting Needed:                   |                 |              |                                      |                                          |
@@ -350,8 +347,6 @@ Table 6 to Paragraph (c)(2)(ii)(E)
 
 (F) Except as provided in paragraph (c)(2)(ii)(G) of this section, beginning with the 2024 MIPS payment year:
 
-Table 7 to Paragraph (c)(2)(ii)(F)
-
 |                   Reweighting scenario                    |Quality  <br/>(%)|Cost  <br/>(%)|Improvement  <br/>activities  <br/>(%)|Promoting  <br/>interoperability  <br/>(%)|
 |-----------------------------------------------------------|-----------------|--------------|--------------------------------------|------------------------------------------|
 |                  No Reweighting Needed:                   |                 |              |                                      |                                          |
@@ -368,8 +363,6 @@ Table 7 to Paragraph (c)(2)(ii)(F)
 |         No Quality and no Improvement Activities          |        0        |      30      |                  0                   |                    70                    |
 
 (G) For small practices beginning with the 2024 MIPS payment year:
-
-Table 8 to Paragraph (c)(2)(ii)(G)
 
 |                   Reweighting scenario                    |Quality  <br/>(%)|Cost  <br/>(%)|Improvement  <br/>activities  <br/>(%)|Promoting  <br/>interoperability  <br/>(%)|
 |-----------------------------------------------------------|-----------------|--------------|--------------------------------------|------------------------------------------|

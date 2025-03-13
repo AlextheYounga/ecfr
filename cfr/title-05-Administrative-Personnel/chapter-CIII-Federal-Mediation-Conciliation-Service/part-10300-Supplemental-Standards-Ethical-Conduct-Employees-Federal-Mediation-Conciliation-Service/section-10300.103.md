@@ -1,0 +1,11 @@
+##### § 10300.103 Prior approval for outside employment and outside activities. #####
+
+(a) *General requirement.* Before engaging in any outside employment or outside activity, as it is defined in § 10300.102, an employee of the FMCS, other than a special government employee, must obtain written approval.
+
+(b) *Procedure for requesting approval.* The employee must first obtain written approval from the employee's immediate supervisor and then the Designated Agency Ethics Official (DAEO). If the employee does not obtain written approval from the employee's immediate supervisor, the employee may request review by the DAEO. Decisions by the DAEO are final and non-appealable.
+
+(c) *Standard for approval.* Approval shall be granted only upon a determination that the outside employment or outside activity is not expected to involve conduct prohibited by statute or Federal regulation, including 5 CFR part 2635.
+
+(d) *Revised requests.* Upon a significant change in the nature or scope of the outside employment or outside activity or in the employee's official position with the FMCS, the employee must, within 7 calendar days of the change, submit a revised request for approval. If there are no significant changes in the nature or scope of the outside employment or outside activity or in the employee's official position with the FMCS, the employee does not need to reapply after the FMCS' initial approval.
+
+(e) *Implementation guidance.* The DAEO may issue instructions or manual issuances governing the submission of requests for approval of outside employment or outside activities. The instructions or manual issuances may exempt categories of employment and activities from the prior approval requirement of this section based on a determination that employment or activity within those categories of employment or activities would generally be approved and is not likely to involve conduct prohibited by statute or Federal regulation, including 5 CFR part 2635. The DAEO may include in these instructions or issuances examples of outside employment and activities that are permissible or impermissible consistent with this part and 5 CFR part 2635.

@@ -1,5 +1,7 @@
 ##### § 1207.321 Term of office. #####
 
+Link to an amendment published at 89 FR 863, Jan. 8, 2024.
+
 (a) The term of office of Board members shall be 3 years, beginning July 1, or such other beginning date as may be approved pursuant to regulations.
 
 (b) The terms of office of the Board's producer members shall be so determined that approximately one-third of the terms will expire each year. Importer and public member terms shall run concurrently. All members serving on the Board on the effective date of this amendment to the Plan shall continue serving the term to which they were appointed.

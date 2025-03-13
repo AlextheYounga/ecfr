@@ -1,6 +1,6 @@
 ##### § 64.2010 Safeguards on the disclosure of customer proprietary network information. #####
 
-Link to an amendment published at 88 FR 84448, Dec. 5, 2023.Link to an amendment published at 88 FR 85814, Dec. 8, 2023.Link to a delay published at 88 FR 85814, Dec. 8, 2023.Link to a correction published at 88 FR 88261, Dec. 21, 2023.
+Link to an amendment published at 88 FR 84448, Dec. 5, 2023.Link to a delay published at 88 FR 85814, Dec. 8, 2023.Link to a correction published at 88 FR 88261, Dec. 21, 2023.
 
 (a) *Safeguarding CPNI.* Telecommunications carriers must take reasonable measures to discover and protect against attempts to gain unauthorized access to CPNI. Telecommunications carriers must properly authenticate a customer prior to disclosing CPNI based on customer-initiated telephone contact, online account access, or an in-store visit.
 
@@ -15,3 +15,17 @@ Link to an amendment published at 88 FR 84448, Dec. 5, 2023.Link to an amendment
 (f) *Notification of account changes.* Telecommunications carriers must notify customers immediately whenever a password, customer response to a back-up means of authentication for lost or forgotten passwords, online account, or address of record is created or changed. This notification is not required when the customer initiates service, including the selection of a password at service initiation. This notification may be through a carrier-originated voicemail or text message to the telephone number of record, or by mail to the address of record, and must not reveal the changed information or be sent to the new account information.
 
 (g) *Business customer exemption.* Telecommunications carriers may bind themselves contractually to authentication regimes other than those described in this section for services they provide to their business customers that have both a dedicated account representative and a contract that specifically addresses the carriers' protection of CPNI.
+
+(h) *Subscriber Identity Module (SIM) changes.* A provider of commercial mobile radio service (CMRS), as defined in 47 CFR 20.3, including resellers of wireless service, shall only effectuate SIM change requests in accordance with this section. For purposes of this section, SIM means a physical or virtual card associated with a device that stores unique information that can be identified to a specific mobile network.
+
+(1) *Customer authentication.* A CMRS provider shall use secure methods to authenticate a customer that are reasonably designed to confirm the customer's identity before executing a SIM change request, except to the extent otherwise required by 47 U.S.C. 345 (Safe Connections Act of 2022) or subpart II of this part. Authentication methods shall not rely on readily available biographical information, account information, recent payment information, or call detail information unless otherwise permitted under 47 U.S.C. 345 or subpart II of this part. A CMRS provider shall regularly, but not less than annually, review and, as necessary, update its customer authentication methods to ensure that its authentication methods continue to be secure. A CMRS provider shall establish safeguards and processes so that employees who receive inbound customer communications are unable to access CPNI in the course of that customer interaction until after the customer has been properly authenticated.
+
+(2)-(6) [Reserved]
+
+(7) *Employee training.* A CMRS provider shall develop and implement training for employees to specifically address fraudulent SIM change attempts, complaints, and remediation. Training shall include, at a minimum, how to identify potentially fraudulent SIM change requests, how to identify when a customer may be the victim of SIM swap fraud, and how to direct potential victims and individuals making potentially fraudulent requests to employees specifically trained to handle such incidents.
+
+(8) [Reserved]
+
+(9) *Compliance.* This paragraph (h) contains information-collection and/or recordkeeping requirements. Compliance with this paragraph (h) will not be required until this paragraph is removed or contains a compliance date.
+
+[82 FR 44419, Sept. 21, 2017, as amended at 88 FR 85814, Dec. 8, 2023]

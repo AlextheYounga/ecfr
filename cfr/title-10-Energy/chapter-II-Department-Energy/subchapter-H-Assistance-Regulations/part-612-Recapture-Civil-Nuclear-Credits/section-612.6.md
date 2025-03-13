@@ -1,0 +1,3 @@
+##### § 612.6 Petition to the Department's Office of Hearings and Appeals. #####
+
+In order to exhaust its administrative remedies, an owner/operator who is aggrieved by the Secretary's decision to affirm, withdraw, or modify the notice of recapture as provided in § 612.5(c) may file a petition with the Department's Office of Hearings and Appeals in accordance with 10 CFR 1003.11 not later than thirty days after notification of the Department's decision.

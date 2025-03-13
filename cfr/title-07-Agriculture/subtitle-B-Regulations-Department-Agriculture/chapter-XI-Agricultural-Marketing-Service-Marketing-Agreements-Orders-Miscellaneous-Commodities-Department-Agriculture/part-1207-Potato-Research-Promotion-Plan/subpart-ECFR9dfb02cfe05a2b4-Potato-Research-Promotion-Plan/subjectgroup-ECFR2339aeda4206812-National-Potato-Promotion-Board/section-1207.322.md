@@ -1,5 +1,7 @@
 ##### § 1207.322 Nominations and appointment. #####
 
+Link to an amendment published at 89 FR 863, Jan. 8, 2024.
+
 The Secretary shall select the producer, importer, and public members of the Board from nominations which may be made in the following manner.
 
 (a) A meeting or meetings of producers shall be held in each State to nominate producer members for the Board. For nominations to the initial Board the meetings shall be announced by the U.S. Department of Agriculture. The Department may call upon other organizations to assist in conducting the meetings such as State and national organizations of potato producers. Such nomination meetings shall be held not later than 60 days after the issuance of this subpart. Any organization designated to hold such nomination meetings shall give adequate notice of such meetings to the potato producers affected; also to the Secretary so that a representative of the Secretary, if available, may conduct such meetings or act as secretary of such nomination meetings.

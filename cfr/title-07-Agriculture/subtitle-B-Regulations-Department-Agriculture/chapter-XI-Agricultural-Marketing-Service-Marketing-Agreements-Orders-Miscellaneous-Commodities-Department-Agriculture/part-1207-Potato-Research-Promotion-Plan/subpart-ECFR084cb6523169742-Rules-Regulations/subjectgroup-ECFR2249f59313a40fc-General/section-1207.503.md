@@ -1,5 +1,7 @@
 ##### § 1207.503 Nominations. #####
 
+Link to an amendment published at 89 FR 863, Jan. 8, 2024.
+
 (a) Pursuant to § 1207.322 of the plan, the Board shall assist producers in producing sections or States each year to nominate producer members for the Board. Such nominations may be conducted at meetings or by mail ballots. One individual shall be nominated for each position to become vacant. A list of nominees shall be submitted to the Secretary for consideration by November 1 of each year.
 
 (b) Pursuant to § 1207.322 of the plan, the Board shall assist importers each year to nominate importer members for the Board. Such nominations may be conducted at meetings or by mail ballots.

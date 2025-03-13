@@ -1,7 +1,5 @@
 ##### § 490.105 Establishment of performance targets. #####
 
-Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
-
 (a) *In general.* State DOTs shall establish performance targets for all measures specified in paragraph (c) of this section for the respective target scope identified in paragraph (d) of this section with the requirements specified in paragraph (e) of this section. The MPOs shall establish performance targets for all measures specified in paragraph (c) of this section for respective target scope identified in paragraph (d) of this section with the requirements specified in paragraph (f) of this section.
 
 (b) *Highway Safety Improvement Program measures.* State DOTs and MPOs shall establish performance targets for the Highway Safety Improvement Program (HSIP) measures in accordance with § 490.209.
@@ -16,7 +14,7 @@ Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
 
 (4) 490.507(a)(1) and (2) for the NHS Travel Time Reliability;
 
-(5) [Reserved]
+(5) 490.507(b) for greenhouse gas (GHG) emissions on the NHS;
 
 (6) 490.607 for the freight movement on the Interstate System;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
 
 (8) 490.807 for on-road mobile source emissions.
 
-(d) *Target scope.* Targets established by State DOTs and MPOs shall, regardless of ownership, represent the transportation network or geographic area, including bridges that cross State borders, that are applicable to the measures as specified in paragraphs (d)(1) and (2) of this section.
+(d) *Target scope.* Targets established by State DOTs and MPOs shall, regardless of ownership, represent the transportation network or geographic area, including bridges that cross State borders, that are applicable to the measures as specified in paragraphs (d)(1), (2), and (4) of this section.
 
 (1) State DOTs and MPOs shall establish statewide and metropolitan planning area wide targets, respectively, that represent the condition/performance of the transportation network or geographic area that are applicable to the measures, as specified in 23 CFR sections—
 
@@ -36,7 +34,7 @@ Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
 
 (iv) 490.503(a)(1) for the Travel Time Reliability measures specified in § 490.507(a)(1) and (2);
 
-(v) [Reserved]
+(v) 490.503(a)(2) for the GHG measure specified in § 490.507(b);
 
 (vi) 490.603 for the Freight Reliability measure specified in § 490.607; and
 
@@ -46,9 +44,15 @@ Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
 
 (3) For the purpose of target establishment in this section and reporting targets and progress evaluation in § 490.107, State DOTs shall describe the urbanized area boundaries within the State boundary in the Baseline Performance Period Report required by § 490.107(b)(1).
 
+(4) MPOs shall establish a joint target for the GHG measure specified in § 490.507(b), for each urbanized area that meets the criteria specified in paragraph (f)(10) of this section. The joint target shall represent the performance of the transportation network specified in § 490.503(a)(2).
+
 (e) *Establishment.* State DOTs shall establish targets for each of the performance measures identified in paragraph (c) of this section for respective target scope identified in paragraph (d) of this section as follows:
 
-(1) *Schedule.* State DOTs shall establish targets not later than February 20, 2018, and for each performance period thereafter, in a manner that allows for the time needed to meet the requirements specified in this section and so that the final targets are submitted to FHWA by the due date provided in § 490.107(b).
+(1) *Schedule.* State DOTs shall establish targets not later than the dates provided in paragraphs (e)(1)(i) and (e)(1)(ii) of this section, and for each performance period thereafter, in a manner that allows for the time needed to meet the requirements specified in this section and so that the final targets are submitted to FHWA by the due date provided in § 490.107(b).
+
+(i) State DOTs shall establish initial targets not later than May 20, 2018, except as provided in paragraph (e)(1)(ii) of this section.
+
+(ii) State DOTs shall establish initial targets for the GHG measure identified in § 490.507(b) not later than February 1, 2024.
 
 (2) *Coordination.* State DOTs shall coordinate with relevant MPOs on the selection of targets in accordance with 23 U.S.C. 135(d)(2)(B)(i)(II) to ensure consistency, to the maximum extent practicable.
 
@@ -72,9 +76,11 @@ Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
 
 (B) October 1st of the year prior to which the Baseline Performance Report is due to FHWA and will extend for a duration of 4 years for the measure in paragraph (c)(8) of this section.
 
+(C) For the GHG measure in § 490.105(c)(5), the performance period will begin on January 1, 2022 and will extend for a duration of 4-years. Subsequent performance periods will begin as described in paragraph (4)(i)(A) of this section.
+
 (ii) The midpoint of a performance period will occur 2 years after the beginning of a performance period described in paragraph (e)(4)(i) of this section.
 
-(iii) Except as provided in paragraphs (e)(7) and (e)(8)(v) of this section, State DOTs shall establish 2-year targets that reflect the anticipated condition/performance level at the midpoint of each performance period for the measures in paragraphs (c)(1) through (7) of this section, and the anticipated cumulative emissions reduction to be reported for the first 2 years of a performance period by applicable criteria pollutant and precursor for the measure in paragraph (c)(8) of this section.
+(iii) Except as provided in paragraphs (e)(7) and (e)(8)(v), and (e)(10)(i) of this section, State DOTs shall establish 2-year targets that reflect the anticipated condition/performance level at the midpoint of each performance period for the measures in paragraphs (c)(1) through (7) of this section, and the anticipated cumulative emissions reduction to be reported for the first 2 years of a performance period by applicable criteria pollutant and precursor for the measure in paragraph (c)(8) of this section.
 
 (iv) State DOTs shall establish 4-year targets that reflect the anticipated condition/performance level at the end of each performance period for the measures in paragraphs (c)(1) through (7) of this section, and the anticipated cumulative emissions reduction to be reported for the entire performance period by applicable criteria pollutant and precursor for the measure in paragraph (c)(8) of this section.
 
@@ -144,11 +150,21 @@ Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
 
 (viii) If the State geographic boundary, in paragraph (e)(9)(ii) of this section, does not contain any part of the nonattainment or maintenance area for an applicable criteria pollutant or precursor, as specified in § 490.803, 1 year before the State DOT Mid Performance Period Progress Report is due to FHWA as described in paragraph (e)(9)(v) of this section, then that State DOT is not required to meet the requirements in § 490.107 for the Total Emissions Reduction measure for that applicable criteria pollutant or precursor for the remainder of that performance period.
 
+(10) *Targets for the GHG measure.* Targets established for the GHG measure in paragraph (c)(5) of this section shall be declining targets for reducing tailpipe CO2 emissions on the NHS.
+
+(i) The following requirements apply only to the targets established for the State Initial GHG Report, described in § 490.107(d), and 2026 Full Performance Period Progress Report, described in § 490.107(b)(3), for the measure in § 490.507(b):
+
+(A) State DOTs are exempt from the required 2-year target described in paragraph (e)(4)(iii) of this section.
+
+(B) State DOTs shall establish a 4-year target, required under paragraph (e)(4)(iv) of this section, and report this target in their 2024 State Initial GHG Report, required under § 490.107(d).
+
+(C) The performance for the reference year shall be used as the baseline performance.
+
 (f) *MPO establishment.* The MPOs shall establish targets for each of the performance measures identified in paragraph (c) of this section for the respective target scope identified in paragraph (d) of this section as follows:
 
 (1) *Schedule.* The MPOs shall establish targets no later than 180 days after the respective State DOT(s) establishes their targets, as provided in paragraph (e)(1) of this section.
 
-(i) The MPOs shall establish 4-year targets, described in paragraph (e)(4)(iv) of this section, for all applicable measures, described in paragraphs (c) and (d) of this section.
+(i) The MPOs shall establish 4-year targets, described in paragraph (e)(4)(iv) of this section, for all applicable measures, described in paragraphs (c) and (d) of this section. For the GHG measure described in (c)(5) of this section, the targets established shall be declining targets for reducing tailpipe CO2 emissions on the NHS.
 
 (ii) Except as provided in paragraph (f)(5)(vi) of this section, the MPOs shall establish 2-year targets, described in paragraph (e)(4)(iii) of this section for the CMAQ Traffic Congestion and Total Emissions Reduction measures, described in paragraphs (c) and (d) of this section as their applicability criteria described in paragraphs (f)(5)(i) and (ii) and (f)(6)(iii) of this section, respectively.
 
@@ -156,7 +172,7 @@ Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
 
 (2) *Coordination.* The MPOs shall coordinate with relevant State DOT(s) on the selection of targets in accordance with 23 U.S.C. 134(h)(2)(B)(i)(II) to ensure consistency, to the maximum extent practicable.
 
-(3) *Target establishment options.* For each performance measure identified in paragraph (c) of this section, except the CMAQ Traffic Congestion measures in paragraph (f)(5) of this section, and MPOs meeting the criteria under paragraph (f)(6)(iii) of this section for Total Emissions Reduction measure, the MPOs shall establish targets by either:
+(3) *Target establishment options.* For each performance measure identified in paragraph (c) of this section, except the CMAQ Traffic Congestion measures in paragraph (f)(5) of this section, MPOs meeting the criteria under paragraph (f)(6)(iii) of this section for Total Emissions Reduction measure, the MPOs shall establish targets for the metropolitan planning area by either:
 
 (i) Agreeing to plan and program projects so that they contribute toward the accomplishment of the relevant State DOT target for that performance measure; or
 
@@ -228,4 +244,12 @@ Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
 
 (9) *Reporting.* The MPOs shall report targets and progress toward the achievement of their targets as specified in § 490.107(c). After the MPOs establish or adjust their targets, the relevant State DOT(s) must be able to provide these targets to FHWA upon request.
 
-[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018]
+(10) *Joint Targets for the GHG Measure.* Where an urbanized area contains mainline highways on the NHS, and any portion of that urbanized area is overlapped by the metropolitan planning area boundaries of two or more MPOs, those MPOs shall collectively establish a single joint 4-year target for that urbanized area, described in paragraph (e)(4)(iv) of this section. The target established shall be a declining target for reducing tailpipe CO2 emissions on the NHS. This joint target is in addition to the targets for the metropolitan planning area required in paragraph (f)(1)(i) of this section.
+
+(i) The NHS designations and urbanized area data shall be from the data contained in HPMS 1 year before the State DOT Baseline Performance Period Report is due to FHWA.
+
+(ii) Only one target shall be established for the entirety of each applicable urbanized area regardless of roadway ownership. In accordance with paragraph (f)(9) of this section, each MPO shall report the same joint target for the urbanized area.
+
+(iii) The target established for each urbanized area shall represent a quantifiable target for that urbanized area.
+
+[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018; 88 FR 85390, Dec. 7, 2023]

@@ -1,7 +1,5 @@
 ##### § 490.101 Definitions. #####
 
-Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
-
 Unless otherwise specified, the following definitions apply to this part:
 
 *American Community Survey (ACS)* is a national level ongoing survey from the U.S. Census Bureau that includes data on jobs, occupations, educational attainment, transportations patterns, and other topics of the Nation's population.
@@ -11,6 +9,8 @@ Unless otherwise specified, the following definitions apply to this part:
 *Bridge* as used in this part is defined in § 650.305 of this chapter, the National Bridge Inspection Standards.
 
 *Criteria pollutant* is any pollutant for which there is established a NAAQS at 40 CFR part 50. The transportation related criteria pollutants per 40 CFR 93.102(b)(1) are carbon monoxide, nitrogen dioxide, ozone, and particulate matter (PM10 and PM2.5).
+
+*Fuels and Financial Analysis System—Highways (Fuels & FASH)* as used in this part means FHWA's system of record for motor fuel, highway program funding, licensed drivers, and registered vehicles data.
 
 *Full extent* means continuous collection and evaluation of pavement condition data over the entire length of the roadway.
 
@@ -57,3 +57,5 @@ Unless otherwise specified, the following definitions apply to this part:
 *Travel time segment* means a contiguous stretch of the NHS for which average travel time data are summarized in the travel time data set.
 
 *Truck freight bottleneck,* as used in this part, is defined as a segment of roadway identified by the State DOT as having constraints that cause a significant impact on freight mobility and reliability. Bottlenecks may include highway sections that do not meet thresholds for freight reliability identified in § 490.613 or other locations identified by the State DOT. Causes may include recurring congestion, causing delays in freight movement, or roadway features that impact truck movements, such as steep grades, substandard vertical or horizontal clearances, weight restrictions, delays at border crossings or terminals, or truck operating restrictions.
+
+[81 FR 13913, Mar. 15, 2016, as amended at 88 FR 85390, Dec. 7, 2023]

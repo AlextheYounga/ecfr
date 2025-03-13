@@ -24,14 +24,6 @@
 
 (3) The Intermediate Access Provider shall not assess any charges for such services to the Interexchange Carrier.
 
-(d) Notwithstanding any other provision of the Commission's rules, if an IPES Provider, as defined in § 61.3(eee) of this chapter, is engaged in Access Stimulation, as defined in § 61.3(bbb) of this chapter, it shall, within 45 days of commencing Access Stimulation, or within 45 days after [the effective date of this paragraph (d)—which will be 30 days after the Commission publishes the notification of OMB approval in the Federal Register], whichever is later, notify in writing the Commission, all Intermediate Access Providers that it subtends, and Interexchange Carriers with which it does business of the following:
-
-(1) That it is an IPES Provider engaged in Access Stimulation; and
-
-(2) That it shall designate the Intermediate Access Provider(s), if any, that will provide the terminating switched access tandem switching or terminating switched access tandem transport services directly, or indirectly through a local exchange carrier, to the IPES Provider engaged in Access Stimulation; and
-
-(3) Whether the IPES Provider will pay for those services as of that date.
-
 (d) Notwithstanding any other provision of this part, if an internet Protocol Enabled Service (IPES) Provider, as defined in § 61.3(eee) of this chapter, is engaged in Access Stimulation, as defined in § 61.3(bbb) of this chapter, it shall, within 45 days of commencing Access Stimulation, or within 45 days after January 2, 2024, whichever is later, notify in writing the Commission, all Intermediate Access Providers that it subtends, and Interexchange Carriers with which it does business of the following:
 
 (1) That it is an IPES Provider engaged in Access Stimulation; and
@@ -46,4 +38,4 @@
 
 (g) Upon terminating its engagement in Access Stimulation, as defined in § 61.3(bbb) of this chapter, the local exchange carrier or IPES Provider engaged in Access Stimulation shall provide concurrent, written notification to the Commission and any affected Intermediate Access Provider(s) and Interexchange Carrier(s) of such fact.
 
-[88 FR 35762, June 1, 2023, as amended at 88 FR 83829, Dec. 1, 2023]
+[88 FR 35762, June 1, 2023, as amended at 88 FR 35762, June 1, 2023; 88 FR 83829, Dec. 1, 2023]

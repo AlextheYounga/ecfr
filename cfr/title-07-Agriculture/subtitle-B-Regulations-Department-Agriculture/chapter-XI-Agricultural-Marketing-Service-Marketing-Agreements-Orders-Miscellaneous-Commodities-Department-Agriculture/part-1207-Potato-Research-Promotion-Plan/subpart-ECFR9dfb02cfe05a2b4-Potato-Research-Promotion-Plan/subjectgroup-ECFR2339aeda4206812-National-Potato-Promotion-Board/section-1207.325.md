@@ -1,5 +1,7 @@
 ##### § 1207.325 Procedure. #####
 
+Link to an amendment published at 89 FR 863, Jan. 8, 2024.
+
 (a) Each State (or district or group of States established pursuant to § 1207.320) which has a member on the Board shall be entitled to not less than one vote for any production up to 1 million hundredweight, plus one additional vote for each additional 1 million hundredweight of production, or major fraction thereof, as determined by the latest crop production annual summary report issued by the Crop Reporting Board, U.S. Department of Agriculture. The casting of the votes for each State shall be determined by the members of the Board from that State.
 
 (b) A majority of the Board members shall constitute a quorum and any action of the Board shall require a majority of concurring votes of those present and voting. At assembled meetings all votes shall be cast in person or by duly authorized proxy.

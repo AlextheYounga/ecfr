@@ -1,10 +1,8 @@
 ##### § 490.107 Reporting on performance targets. #####
 
-Link to an amendment published at 88 FR 85391, Dec. 7, 2023.
-
 (a) *In general.* All State DOTs and MPOs shall report the information specified in this section for the targets required in § 490.105.
 
-(1) All State DOTs and MPOs shall report in accordance with the schedule and content requirements under paragraphs (b) and (c) of this section, respectively.
+(1) All State DOTs and MPOs shall report in accordance with the schedule and content requirements under paragraphs (b), (c), and (d) of this section, respectively.
 
 (2) For the measures identified in § 490.207(a), all State DOTs and MPO shall report on performance in accordance with § 490.213.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 88 FR 85391, Dec. 7, 2023.
 
 (b) *State Biennial Performance Report.* State DOTs shall report to FHWA baseline condition/performance at the beginning of a performance period and progress achievement at both the midpoint and end of a performance period. State DOTs shall report at an ongoing 2-year frequency as specified in paragraphs (b)(1) through (3) of this section.
 
-(1) *Baseline Performance Period Report*—(i) *Schedule.* State DOTs shall submit a Baseline Performance Period Report to FHWA by October 1st of the first year in a performance period. State DOTs shall submit their first Baseline Performance Period Report to FHWA by October 1, 2018, and subsequent Baseline Performance Period Reports to FHWA by October 1st every 4 years thereafter.
+(1) *Baseline Performance Period Report*—(i) *Schedule.* State DOTs shall submit a Baseline Performance Period Report to FHWA by October 1st of the first year in a performance period. State DOTs shall submit their first Baseline Performance Period Report to FHWA by October 1, 2018, and subsequent Baseline Performance Period Reports to FHWA by October 1st every 4 years thereafter, except for the GHG measure specified in § 490.105(c)(5). For the Baseline Performance Period Report, State DOTs shall submit information related to the GHG measure in the report due to FHWA by October 1, 2026, and every 4 years thereafter.
 
 (ii) *Content.* The State DOT shall report the following information in each Baseline Performance Period Report:
 
@@ -30,11 +28,13 @@ Link to an amendment published at 88 FR 85391, Dec. 7, 2023.
 
 (G) *MPO CMAQ Performance Plan.* Where applicable, State DOTs shall include as an attachment the MPO CMAQ Performance Plan, described in paragraph (c)(3) of this section;
 
-(H) [Reserved]
+(H) GHG metric and metric information for the GHG measure. The metric and the individual values used to calculate the GHG metric, as described in § 490.511(c), for the calendar year preceding the reporting year, and a description of the data source(s) used for the VMT information.
 
 (I) *Data collection method for the Percent of Non-SOV Travel measure.* Where applicable, State DOTs shall report the data collection method that is used to determine the Percent of Non-SOV Travel measure, in § 490.707(b), for each applicable urbanized area in the State, as provided in § 490.709(f)(2).
 
-(2) *Mid Performance Period Progress Report*—(i) *Schedule.* State DOTs shall submit a Mid Performance Period Progress Report to FHWA by October 1st of the third year in a performance period. State DOTs shall submit their first Mid Performance Period Progress Report to FHWA by October 1, 2020, and subsequent Mid Performance Period Progress Reports to FHWA by October 1st every 4 years thereafter.
+(2) *Mid Performance Period Progress Report*—
+
+(i) *Schedule.* State DOTs shall submit a Mid Performance Period Progress Report to FHWA by October 1st of the third year in a performance period. State DOTs shall submit their first Mid Performance Period Progress Report to FHWA by October 1, 2020, and subsequent Mid Performance Period Progress Reports to FHWA by October 1st every 4 years thereafter, except for the GHG measure specified in § 490.105(c)(5). For the Mid Performance Period Progress Report, the State DOTs shall submit information related to the GHG measure in the report due to FHWA by October 1, 2028, and every 4 years thereafter.
 
 (ii) *Content.* The State DOT shall report the following information in each Mid Performance Period Progress Report:
 
@@ -56,9 +56,9 @@ Link to an amendment published at 88 FR 85391, Dec. 7, 2023.
 
 (I) *MPO CMAQ Performance Plan.* Where applicable, State DOTs shall include as an attachment the MPO CMAQ Performance Plan, described in paragraph (c)(3) of this section; and
 
-(J) [Reserved]
+(J) GHG metric and metric information for the GHG measure. The metric and the individual values used to calculate the GHG metric, as described in § 490.511(c), for the calendar year preceding the reporting year, and a description of the data source(s) used for the VMT information.
 
-(3) *Full Performance Period Progress Report*—(i) *Schedule.* State DOTs shall submit a progress report on the full performance period to FHWA by October 1st of the first year following the reference performance period. State DOTs shall submit their first Full Performance Period Progress Report to FHWA by October 1, 2022, and subsequent Full Performance Period Progress Reports to FHWA by October 1st every 4 years thereafter.
+(3) *Full Performance Period Progress Report*—(i) *Schedule.* State DOTs shall submit a progress report on the full performance period to FHWA by October 1st of the first year following the reference performance period. State DOTs shall submit their first Full Performance Period Progress Report to FHWA by October 1, 2022, and subsequent Full Performance Period Progress Reports to FHWA by October 1st every 4 years thereafter, except for the GHG measure specified in § 490.105(c)(5). For the Full Performance Period Progress Report, State DOTs shall submit information related to the GHG measure in the report due to FHWA by October 1, 2026, and every 4 years thereafter.
 
 (ii) *Content.* The State DOT shall report the following information for each Full Performance Period Progress Report:
 
@@ -78,13 +78,17 @@ Link to an amendment published at 88 FR 85391, Dec. 7, 2023.
 
 (H) *MPO CMAQ Performance Plan.* Where applicable, State DOTs shall include as an attachment the MPO CMAQ Performance Plan, described in paragraph (c)(3) of this section; and
 
-(I) [Reserved]
+(I) *GHG metric and metric information for the GHG measure.* The metric and the individual values used to calculate the GHG metric, as described in § 490.511(c), for the calendar year preceding the reporting year, and a description of the data source(s) used for the VMT information.
 
 (c) *MPO Report.* The MPOs shall establish targets in accordance with § 490.105 and report targets and progress toward the achievement of their targets in a manner that is consistent with the following:
 
 (1) The MPOs shall report their established targets to their respective State DOT in a manner that is documented and mutually agreed upon by both parties.
 
-(2) The MPOs shall report baseline condition/performance and progress toward the achievement of their targets in the system performance report in the metropolitan transportation plan in accordance with part 450 of this chapter.
+(2) The MPOs shall report baseline condition/performance and progress toward the achievement of their targets in the system performance report in the metropolitan transportation plan in accordance with part 450 of this chapter. For the GHG measure in § 490.105(c)(5), the MPOs shall also report:
+
+(i) The calculation of annual tailpipe CO2 emissions for the NHS, and may include all public roads, described in § 490.511(f), for the period between the current and previous system performance report, and the reference year.
+
+(ii) A description of the metric calculation method(s) used, as described in § 490.511(d). When the method(s) used are not specified in § 490.511(d), the MPO must include information demonstrating the method(s) has valid and useful results for measuring transportation related CO2.
 
 (3) The MPOs serving a TMA and meeting criteria, specified in § 490.105(f)(6)(iii), shall develop a CMAQ performance plan as required by 23 U.S.C. 149(l). The CMAQ performance plan is not required when the MPO meets the criteria specified in § 490.105(f)(6)(vii) or (viii).
 
@@ -124,4 +128,24 @@ Link to an amendment published at 88 FR 85391, Dec. 7, 2023.
 
 (4) [Reserved]
 
-[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018]
+(d) *State Initial GHG Report.* For the GHG measure in § 490.105(c)(5), State DOTs shall submit an Initial GHG Report by February 1, 2024.
+
+(1) The State Initial GHG Report shall include:
+
+(i) *Targets.* The 4-year target for the performance period, as required in § 490.105(e), and a discussion, to the maximum extent practicable, of the basis for the established target;
+
+(ii) *Baseline performance.* Performance derived from the data collected for the reference year, for the 4-year target required under paragraph (d)(1) of this section;
+
+(iii) *Relationship with other performance expectations.* A discussion, to the maximum extent practicable, on how the established target in paragraph (d)(1) of this section support expectations documented in longer range plans, such as the State asset management plan required by 23 U.S.C. 119(e) and the long-range statewide transportation plan provided in part 450 of this chapter; and
+
+(iv) *GHG metric and metric information for the GHG measure.* The metric and the individual values used to calculate the GHG metric, as described in § 490.511(c), for the reference year.
+
+(2) For the State Initial GHG Report, the State DOT shall use the following data to calculate the GHG metric, described in § 490.511(c), for the reference year.
+
+(i) Data published by FHWA for the CO2 factors for each on-road fuel type associated with the reference year.
+
+(ii) The fuel consumed data shall meet the requirements in § 490.509(g) for the reference year.
+
+(iii) The VMT data shall meet the requirements of § 490.509(h) for the reference year.
+
+[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018; 88 FR 85391, Dec. 7, 2023]

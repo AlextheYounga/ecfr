@@ -100,7 +100,7 @@
 
 (2) *Form, manner, and timing of submission.* Each manufacturer asserting an error must submit its error report(s), in the form and manner specified by CMS, within 30-days after the issuance of the report.
 
-(g) *Enforcement.* (1) *Manufacturer audit*s. Each manufacturer of a refundable single-dose container or single-use package drug that is required to provide a refund under this section shall be subject to periodic audit with respect to such drug and such refunds.
+(g) *Enforcement*—(1) *Manufacturer audit*s. Each manufacturer of a refundable single-dose container or single-use package drug that is required to provide a refund under this section shall be subject to periodic audit with respect to such drug and such refunds.
 
 (2) *Civil money penalty.* The Secretary shall impose a civil money penalty on a manufacturer of a refundable single-dose container or single-use package drug who has failed to comply with the requirement under paragraph (b) of this section for such drug for a calendar quarter in an amount equal to the sum of—
 

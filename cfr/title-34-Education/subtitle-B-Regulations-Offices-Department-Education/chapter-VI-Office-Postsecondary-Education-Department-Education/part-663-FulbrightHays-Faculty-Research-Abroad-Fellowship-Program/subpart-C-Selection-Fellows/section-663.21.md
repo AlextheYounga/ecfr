@@ -1,7 +1,5 @@
 ##### § 663.21 What criteria does the Secretary use to evaluate an application for a fellowship? #####
 
-Link to an amendment published at 88 FR 85508, Dec. 8, 2023.
-
 (a) *General.* The Secretary evaluates an application for a fellowship on the basis of the criteria in this section. The Secretary informs applicants of the maximum possible score for each criterion in the application package or in a notice published in the Federal Register.
 
 (b) *Quality of proposed project.* The Secretary reviews each application to determine the quality of the research project proposed by the applicant. The Secretary considers—
@@ -18,15 +16,17 @@ Link to an amendment published at 88 FR 85508, Dec. 8, 2023.
 
 (6) The objectives of the project regarding the sponsoring institution's plans for developing or strengthening, or both, curricula in modern foreign languages and area studies.
 
-(c) *Qualifications of the applicant.* The Secretary reviews each application to determine the qualifications of the applicant. The Secretary considers—
+(c) *Qualifications of the applicant.* The Secretary reviews each application to determine the qualifications of the applicant. In coordination with any priorities established under paragraph (d) of this section, the Secretary considers one or more of the following—
 
 (1) The overall strength of applicant's academic record (teaching, research, contributions, professional association activities);
 
 (2) The applicant's excellence as a teacher or researcher, or both, in his or her area or areas of specialization;
 
-(3) The applicant's proficiency in one or more of the languages (other than English and the applicant's native language), of the country or countries of research, and the specific measures to be taken to overcome any anticipated language barriers; and
+(3) The applicant's proficiency in one or more of the languages (other than English) of the host country or countries of research;
 
-(4) The applicant's ability to conduct research in a foreign cultural context, as evidenced by the applicant's previous overseas experience, or documentation provided by the sponsoring institution, or both.
+(4) The extent to which the applicant's academic record demonstrates steps taken to further improve advanced language proficiency to overcome any anticipated language barriers relative to the proposed research project;
+
+(5) The applicant's ability to conduct research in a foreign cultural context, as evidenced by the applicant's previous overseas experience, or documentation provided by the sponsoring institution, or both.
 
 (d) *Priorities.* (1) The Secretary determines the extent to which the application responds to any priority that the Secretary establishes for the selection of fellows in any fiscal year. The Secretary announces any priorities in an application notice published in the Federal Register.
 
@@ -40,4 +40,4 @@ Link to an amendment published at 88 FR 85508, Dec. 8, 2023.
 
 (iv) A topic, such as religious fundamentalism or migration.
 
-(Approved by the Office of Management and Budget under control number 1840-0005)(Authority: 22 U.S.C. 2452(b)(6), 2456(a)(2))[63 FR 46363, Aug. 31, 1998, as amended at 70 FR 13376, Mar. 21, 2005]
+(Approved by the Office of Management and Budget under control number 1840-0005)(Authority: 22 U.S.C. 2452(b)(6), 2456(a)(2))[63 FR 46363, Aug. 31, 1998, as amended at 70 FR 13376, Mar. 21, 2005; 88 FR 85508, Dec. 8, 2023]

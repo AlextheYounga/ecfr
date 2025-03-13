@@ -4,7 +4,7 @@ Link to an amendment published at 88 FR 40119, June 21, 2023.Link to an amendmen
 
 (a) *Robocall mitigation program requirements for voice service providers.* (1) Each voice service provider shall implement an appropriate robocall mitigation program.
 
-(2) Any robocall mitigation program implemented pursuant to paragraph (a)(1) of this section shall include reasonable steps to avoid originating illegal robocall traffic and shall include a commitment to respond fully and in a timely manner to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to originate calls.
+(2) Any robocall mitigation program implemented pursuant to paragraph (a)(1) of this section shall include reasonable steps to avoid originating illegal robocall traffic and shall include a commitment to respond within 24 hours to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to originate calls.
 
 (b) *Robocall mitigation program requirements for gateway providers.* (1) Each gateway provider shall implement an appropriate robocall mitigation program with respect to calls that use North American Numbering Plan resources that pertain to the United States in the caller ID field.
 
@@ -12,7 +12,7 @@ Link to an amendment published at 88 FR 40119, June 21, 2023.Link to an amendmen
 
 (c) *Robocall mitigation program requirements for non-gateway intermediate providers.* (1) Each non-gateway intermediate provider shall implement an appropriate robocall mitigation program.
 
-(2) Any robocall mitigation program implemented pursuant to paragraph (c)(1) of this section shall include reasonable steps to avoid carrying or processing illegal robocall traffic and shall include a commitment to respond fully and in a timely manner to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to carry or process calls.
+(2) Any robocall mitigation program implemented pursuant to paragraph (c)(1) of this section shall include reasonable steps to avoid carrying or processing illegal robocall traffic and shall include a commitment to respond within 24 hours to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to carry or process calls.
 
 (d) *Certification by voice service providers in the Robocall Mitigation Database.* (1) Not later than June 30, 2021, a voice service provider, regardless of whether it is subject to an extension granted under § 64.6304, shall certify to one of the following:
 
@@ -106,4 +106,4 @@ Link to an amendment published at 88 FR 40119, June 21, 2023.Link to an amendmen
 
 (ii) A provider must make all reasonable efforts to ensure that it does not block any calls from public safety answering points and government emergency numbers.
 
-[87 FR 42946, July 18, 2022, as amended at 88 FR 40118, June 21, 2023]
+[87 FR 42946, July 18, 2022, as amended at 88 FR 40118, June 21, 2023; 88 FR 43459, July 10, 2023]

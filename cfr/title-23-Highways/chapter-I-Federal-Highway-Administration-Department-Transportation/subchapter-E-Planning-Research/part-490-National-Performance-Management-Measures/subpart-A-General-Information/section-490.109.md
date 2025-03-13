@@ -1,7 +1,5 @@
 ##### § 490.109 Assessing significant progress toward achieving the performance targets for the National Highway Performance Program and the National Highway Freight Program. #####
 
-Link to an amendment published at 88 FR 85392, Dec. 7, 2023.
-
 (a) *In general.* The FHWA will assess each of the State DOT targets separately for the NHPP measures specified in § 490.105(c)(1) through (5) and the Freight Reliability measure specified in § 490.105(c)(6) to determine the significant progress made toward the achievement of those targets.
 
 (b) *Frequency.* The FHWA will determine whether a State DOT has or has not made significant progress toward the achievement of applicable targets as described in paragraph (e) of this section at the midpoint and the end of each performance period.
@@ -18,9 +16,13 @@ Link to an amendment published at 88 FR 85392, Dec. 7, 2023.
 
 (iv) Data contained within the HPMS on August 15th of the year in which the significant progress determination is made that represents performance from the prior year for targets established for the Travel Time Reliability measures, as specified in § 490.105(c)(4);
 
-(v) [Reserved]
+(v) Data contained within Fuels & FASH on August 15th of the year in which the significant progress determination is made that represents performance from the prior year for targets established for the GHG measure in § 490.105(c)(5), and data from Fuels & FASH that represents performance for the reference year.
 
-(vi) Baseline condition/performance data contained in HPMS and NBI of the year in which the Baseline Period Performance Report is due to FHWA that represents baseline conditions/performances for the performance period for the measures in § 490.105(c)(1) through (4).
+(vi) Baseline condition/performance data contained in Fuels & FASH, HPMS, and NBI of the year in which the Baseline Period Performance Report is due to FHWA that represents baseline conditions/performances for the performance period for the measures in §§ 490.105(c)(1) through (5). For the GHG measure, specified in § 490.105(c)(5), the baseline performance data from HPMS shall be the data contained within HPMS on November 30th of the year the Baseline Period Performance Report is due to FHWA.
+
+(vii) Data contained within the HPMS on November 30th of the year in which the significant progress determination is made that represents performance from the prior year for targets established for the GHG measure specified in § 490.105(c)(5), and HPMS data as of November 30, 2023 that represents performance for the reference year.
+
+(viii) The CO2 factor specified in § 490.509(f) for the baseline performance, prior year, and reference year for targets established for the GHG measure specified in § 490.105(c)(5).
 
 (2) The FHWA will use the following sources of information to assess NHFP target achievement and condition/performance progress:
 
@@ -56,6 +58,10 @@ Link to an amendment published at 88 FR 85392, Dec. 7, 2023.
 
 (v) The data were determined insufficient, as described in paragraphs (e)(4)(ii) through (iv) of this section, in the year in which the Baseline Period Performance Report is due to FHWA for the measures in § 490.105(c)(1) through (3).
 
+(vi) A State DOT's reported data are not accepted in the Fuels & FASH, by the data extraction date specified in paragraph (d)(1) of this section for the GHG measure in § 490.105(c)(5).
+
+(vii) A State DOT's reported data are not accepted in the HPMS by the data extraction date specified in paragraph (d)(1) of this section for the GHG measure in § 490.105(c)(5).
+
 (5) *Extenuating circumstances.* The FHWA will consider extenuating circumstances documented by the State DOT in the assessment of progress toward the achievement of NHPP and NHFP targets in the relevant State Biennial Performance Report, provided in § 490.107.
 
 (i) The FHWA will classify the assessment of progress toward the achievement of an individual 2-year or 4-year target as “progress not determined” if the State DOT has provided an explanation of the extenuating circumstances beyond the control of the State DOT that prevented it from making significant progress toward the achievement of a 2-year or 4-year target and the State DOT has quantified the impacts on the condition/performance that resulted from the circumstances, which are:
@@ -68,6 +74,14 @@ Link to an amendment published at 88 FR 85392, Dec. 7, 2023.
 
 (ii) If the State DOT's explanation, described in paragraph (e)(5)(i) of this section, is accepted by FHWA, FHWA will classify the progress toward achieving the relevant target(s) as “progress not determined,” and those targets will be excluded from the requirement in paragraph (e)(2) of this section.
 
+(6) *Phase-in of new requirements for the GHG Measure.* The following requirements shall only apply to the GHG targets, described in § 490.513(d), and the significant progress determination conducted immediately after the submittal of the 2024 Mid Performance Period Progress Report, described in § 490.107(b)(2):
+
+(i) Consistent with § 490.105(e)(10)(i), State DOTs are not required to establish a 2-year target, and, consistent with 490.107(b)(2), State DOTs will not submit information related to the GHG measure in the 2024 Mid Performance Period Progress Report.
+
+(ii) At the midpoint of the performance period, FHWA shall not make a determination of significant progress toward the achievement of 2-year targets for the GHG measure; and
+
+(iii) The FHWA will classify the assessment of progress toward the achievement of targets in paragraph (e)(6)(ii) of this section as “progress not determined” and they will be excluded from the requirement under paragraph (e)(2) of this section.
+
 (f) *Performance achievement.* (1) If FHWA determines that a State DOT has not made significant progress toward the achieving of NHPP targets, then the State DOT shall include as part of the next performance target report under 23 U.S.C. 150(e) [the Biennial Performance Report] a description of the actions the State DOT will undertake to achieve the targets related to the measure in which significant progress was not achieved as follows:
 
 (i) If significant progress is not made for either target established for the Interstate System pavement condition measures, § 490.307(a)(1) and (2), then the State DOT shall document the actions it will take to achieve Interstate Pavement condition targets;
@@ -78,7 +92,7 @@ Link to an amendment published at 88 FR 85392, Dec. 7, 2023.
 
 (iv) If significant progress is not made for either target established for the Travel Time Reliability measures, § 490.507(a)(1) and(2), then the State DOT shall document the actions it will take to achieve the NHS travel time targets; and
 
-(v) [Reserved]
+(v) If significant progress is not made for the target established for the GHG measure in § 490.105(c)(5), then the State DOT shall document the actions it will take to achieve the GHG performance target.
 
 (2) If FHWA determines that a State DOT has not made significant progress toward achieving the target established for the Freight Reliability measure in § 490.607, then the State DOT shall include as part of the next performance target report under 23 U.S.C. 150(e) [the Biennial Performance Report] the following:
 
@@ -96,4 +110,4 @@ Link to an amendment published at 88 FR 85392, Dec. 7, 2023.
 
 (3) The State DOT should, within 6 months of the significant progress determination, amend its Biennial Performance Report to document the information specified in this paragraph to ensure actions are being taken to achieve targets.
 
-[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018]
+[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018; 88 FR 85392, Dec. 7, 2023]
