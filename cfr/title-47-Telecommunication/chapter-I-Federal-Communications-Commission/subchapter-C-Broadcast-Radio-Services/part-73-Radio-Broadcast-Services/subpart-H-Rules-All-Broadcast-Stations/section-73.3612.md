@@ -1,5 +1,7 @@
 ##### § 73.3612 Annual employment report. #####
 
+Link to an amendment published at 89 FR 36718, May 3, 2024.
+
 Each licensee or permittee of a commercially or noncommercially operated AM, FM, TV, Class A TV or International Broadcast station with five or more full-time employees shall file an annual employment report with the FCC on or before September 30 of each year on FCC Form 395-B.
 
 Note to § 73.3612:

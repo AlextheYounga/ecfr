@@ -152,9 +152,7 @@ In addition to the definitions set forth in sec. 3 of the Workforce Innovation a
 
 *Significant MSFW States* are those States designated by the Department and must include the 20 States with the highest estimated number of MSFWs.
 
-*Significant MSFW States* are those States designated annually by the Department and must include the 20 States with the highest number of MSFW participants.
-
-*Significant multilingual MSFW one-stop centers* are those designated annually by the Department and include those significant MSFW ES offices where 10 percent or more of MSFW participants are estimated to require service provisions in a language(s) other than English unless the administrator determines other one-stop centers also must be included due to special circumstances.
+*Significant MSFW one-stop centers* are those designated by the Department and include those ES offices where MSFWs account for 10 percent or more of annual participants or reportable individuals in ES and those local ES offices that the OWI Administrator determines must be included due to special circumstances such as an estimated large number of MSFWs in the service area. In no event may the number of significant MSFW one-stop centers be less than 100 centers on a nationwide basis.
 
 *Solicitor* means the chief legal officer of the U.S. Department of Labor or the Solicitor's designee.
 
