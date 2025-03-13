@@ -26,6 +26,14 @@ Link to an amendment published at 88 FR 55936, Aug. 17, 2023.Link to an amendmen
 
 (6) The results of network performance tests pursuant to the methodology and in the format determined by the Wireline Competition Bureau, Wireless Telecommunications Bureau, and Office of Engineering and Technology.
 
+(i) *By April 15th.* Filing and certification for network performance test results for first quarter testing.
+
+(ii) *By July 15th.* Filing and certification for network performance test results for second quarter testing.
+
+(iii) *By October 15th.* Filing and certification for network performance test results for third quarter testing.
+
+(iv) *By January 15th.* Filing and certification for network performance test results for the previous fourth quarter testing.
+
 (b) In addition to the information and certifications in paragraph (a) of this section:
 
 (1) Any recipient of incremental Connect America Phase I support pursuant to § 54.312(b) and (c) shall provide:
@@ -83,7 +91,6 @@ Link to an amendment published at 88 FR 55936, Aug. 17, 2023.Link to an amendmen
 (f) In addition to the information and certifications in paragraph (a) of this section, any rate-of-return carrier shall provide:
 
 (1) Beginning July 1, 2015 and Every Year Thereafter. The following information:
-.
 
 (i) If the rate-of-return carrier is receiving support pursuant to subparts K and M of this part, a certification that it is taking reasonable steps to provide upon reasonable request broadband service at actual speeds of at least 25 Mbps downstream/3 Mbps upstream, with latency suitable for real-time applications, including Voice over internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas as determined in an annual survey, and that requests for such service are met within a reasonable amount of time; if the rate-of-return carrier receives CAF-ACAM support, a certification that it is meeting the relevant reasonable request standard; or if the rate-of-return carrier is receiving Alaska Plan support pursuant to § 54.306, a certification that it is offering broadband service with latency suitable for real-time applications, including Voice over internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, and at speeds committed to in its approved performance plan to the locations it has reported pursuant to § 54.316(a), subject to any limitations due to the availability of backhaul as specified in paragraph (g) of this section.
 
@@ -119,13 +126,21 @@ Link to an amendment published at 88 FR 55936, Aug. 17, 2023.Link to an amendmen
 
 (i) All reports pursuant to this section shall be filed with the Office of the Secretary of the Commission clearly referencing WC Docket No. 14-58, with the Administrator, and with the relevant state commissions or relevant authority in a U.S. Territory, or Tribal governments, as appropriate.
 
-(j) *Filing deadlines.* (1) In order for a recipient of high-cost support to continue to receive support for the following calendar year, or retain its eligible telecommunications carrier designation, it must submit the annual reporting information required by this section annually by July 1 of each year. Eligible telecommunications carriers that file their reports after the July 1 deadline shall receive a reduction in support pursuant to the following schedule:
+(j)(1) Other than for certifications under paragraph (a)(6) of this section, in order for a recipient of high-cost support to continue to receive support for the following calendar year, or to retain its eligible telecommunications carrier designation, it must submit the annual reporting information required by this section annually by July 1 of each year. Eligible telecommunications carriers that file their reports after the July 1 deadline shall receive a reduction in support pursuant to the following schedule:
 
-(i) An eligible telecommunications carrier that files after the July 1 deadline, but by July 8, will have its support reduced in an amount equivalent to seven days in support;
+(i) An eligible telecommunications carrier that files after the July 1 deadline, but by July 8, will have its support reduced in an amount equivalent to seven days in support; and
 
 (ii) An eligible telecommunications carrier that files on or after July 9 will have its support reduced on a pro-rata daily basis equivalent to the period of non-compliance, plus the minimum seven-day reduction.
 
-(2) *Grace period.* An eligible telecommunications carrier that submits the annual reporting information required by this section after July 1 but before July 5 will not receive a reduction in support if the eligible telecommunications carrier and its holding company, operating companies, and affiliates as reported pursuant to paragraph (a)(8) of this section have not missed the July 1 deadline in any prior year.
+(2) An eligible telecommunications carrier that submits the annual reporting information required by this section after July 1 but within 4 business days will not receive a reduction in support if the eligible telecommunications carrier and its holding company, operating companies, and affiliates as reported pursuant to paragraph (a)(4) of this section have not missed the July 1 deadline in any prior year.
+
+(3) For certifications under paragraph (a)(6) of this section, in order for a recipient of high-cost support to continue to receive support amount for the following calendar year, or retain its eligible telecommunications carrier designation, it must submit information required under paragraph (a)(6) by the required dates set. Reductions in support for late filings shall be calculated after the deadline under paragraph (a)(6)(iv) of this section by adding the total days late for each quarter and dividing that number by four (days late). Eligible telecommunications carriers that file their reports after the quarterly filing deadline will not receive a grace period for late filings, and shall receive a reduction in support pursuant to the following schedule:
+
+(i) An eligible telecommunications carrier that is one to seven days late, will have its support reduced in an amount equivalent to seven days in support; and
+
+(ii) An eligible telecommunications carrier that is 8 days late or more will have its support reduced on a pro-rata basis equivalent to the number of days late plus the minimum seven-day reduction.
+
+(4) Any support reductions resulting from a failure to timely make required filing pursuant to this section shall be applied in the month following the notice of support reduction to the eligible telecommunications carrier from the Administrator or as soon as feasible thereafter.
 
 (k) This section does not apply to recipients that solely receive support from Phase I of the Mobility Fund.
 
@@ -168,13 +183,13 @@ Link to an amendment published at 88 FR 55936, Aug. 17, 2023.Link to an amendmen
 
 (iv) Revised performance commitments factoring in the change. These filings must be made simultaneously with the submission of the FCC Form 481. A mobile provider may seek confidential treatment of information required in this section if the conditions for confidentiality are met.
 
-[76 FR 73873, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 77 FR 30914, May 24, 2012; 78 FR 22201, Apr. 15, 2013; 78 FR 29656, May 21, 2013; 78 FR 3843, Jan. 17, 2013; 78 FR 38233, June 26, 2013; 79 FR 11336, Feb. 28, 2014; 79 FR 39189, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 24341, Apr. 25, 2016; 81 FR 44449, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 15450, Mar. 28, 2017; 82 FR 39969, Aug. 23, 2017; 83 FR 18964, May 1, 2018; 84 FR 4732, Feb. 19, 2019; 84 FR 8624, Mar. 11, 2019; 84 FR 19876, May 7, 2019; ;85 FR 59963, Nov. 7, 2019; 85 FR 13797, Mar. 10, 2020; 85 FR 75819, Nov. 25, 2020; 88 FR 28999, May 5, 2023; 88 FR 55936, Aug. 17, 2023; 89 FR 107228, Dec. 31, 2024]Effective Date Notes:1. At 77 FR 14302, Mar. 9, 2012, § 54.313(a)(9) introductory text and (f)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[76 FR 73873, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 77 FR 30914, May 24, 2012; 78 FR 22201, Apr. 15, 2013; 78 FR 29656, May 21, 2013; 78 FR 3843, Jan. 17, 2013; 78 FR 38233, June 26, 2013; 79 FR 11336, Feb. 28, 2014; 79 FR 39189, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 24341, Apr. 25, 2016; 81 FR 44449, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 15450, Mar. 28, 2017; 82 FR 39969, Aug. 23, 2017; 83 FR 18964, May 1, 2018; 84 FR 4732, Feb. 19, 2019; 84 FR 8624, Mar. 11, 2019; 84 FR 19876, May 7, 2019; ;85 FR 59963, Nov. 7, 2019; 85 FR 13797, Mar. 10, 2020; 85 FR 75819, Nov. 25, 2020; 88 FR 28999, May 5, 2023; 88 FR 55936, Aug. 17, 2023; 89 FR 107228, Dec. 31, 2024; 89 FR 25160, Apr. 10, 2024]Effective Date Notes:1. At 77 FR 14302, Mar. 9, 2012, § 54.313(a)(9) introductory text and (f)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 2. At 79 FR 11336, Feb. 28, 2014, § 54.313(e)(1), (e)(2), and (e)(3) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 3. At 80 FR 4476, Jan. 27, 2015, § 54.313 (a)(12) was added and (e) was revised. These paragraphs contain information collection and record keeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
-4. At 85 FR 75819, Nov. 25, 2020, § 54.313 was amended by revising paragraph (n). This paragraph has a delayed effective date, the revised text is set forth to read as follow.
+4. At 85 FR 75819, Nov. 25, 2020, § 54.313 was amended by revising paragraph (n). This paragraph has a delayed effective date, the revised text is set forth to read as follows:
 
 ##### § 54.313 Annual reporting requirements for high-cost recipients. #####
 

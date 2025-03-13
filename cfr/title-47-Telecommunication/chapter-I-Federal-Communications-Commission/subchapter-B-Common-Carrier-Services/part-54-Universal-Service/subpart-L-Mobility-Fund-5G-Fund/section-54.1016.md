@@ -1,5 +1,7 @@
 ##### § 54.1016 Letter of credit. #####
 
+Link to an amendment published at 90 FR 10462, Feb. 24, 2025.
+
 (a) Before being authorized to receive 5G Fund support, a winning bidder shall obtain an irrevocable standby letter of credit which shall be acceptable in all respects to the Commission.
 
 (1) Each winning bidder that becomes authorized to receive 5G Fund support shall maintain the standby letter of credit in an amount equal to, at a minimum, one year of support, until the Administrator has verified that the support recipient serves at least 85 percent of the eligible square kilometers for which it is authorized to receive support in a state, and at least 75 percent of the eligible square kilometers in each eligible census tract, by the Year Six Final Service Milestone..

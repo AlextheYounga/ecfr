@@ -1,5 +1,7 @@
 ##### § 54.804 Rural Digital Opportunity Fund application process. #####
 
+Link to an amendment published at 90 FR 10462, Feb. 24, 2025.
+
 (a) In addition to providing information specified in § 1.21001(b) of this chapter and any other information required by the Commission, any applicant to participate in competitive bidding for Rural Digital Opportunity Fund support shall:
 
 (1) Provide ownership information as set forth in § 1.2112(a) of this chapter;
