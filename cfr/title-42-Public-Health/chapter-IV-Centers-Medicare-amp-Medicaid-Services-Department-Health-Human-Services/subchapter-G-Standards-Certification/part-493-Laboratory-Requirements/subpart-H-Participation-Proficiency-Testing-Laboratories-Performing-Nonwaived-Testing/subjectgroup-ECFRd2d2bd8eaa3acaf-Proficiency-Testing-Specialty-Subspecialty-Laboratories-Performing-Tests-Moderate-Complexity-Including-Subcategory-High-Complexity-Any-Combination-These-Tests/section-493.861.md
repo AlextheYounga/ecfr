@@ -1,8 +1,6 @@
 ##### § 493.861 Standard; Unexpected antibody detection. #####
 
-Link to an amendment published at 87 FR 41232, July 11, 2022.
-
-(a) Failure to attain an overall testing event score of at least 80 percent is unsatisfactory performance.
+(a) Failure to attain an overall testing event score of at least 100 percent is unsatisfactory performance.
 
 (b) Failure to participate in a testing event is unsatisfactory performance and results in a score of 0 for the testing event. Consideration may be given to those laboratories failing to participate in a testing event only if—
 
@@ -19,3 +17,5 @@ Link to an amendment published at 87 FR 41232, July 11, 2022.
 (2) For any unsatisfactory testing event score, remedial action must be taken and documented, and the documentation must be maintained by the laboratory for two years from the date of participation in the proficiency testing event.
 
 (e) Failure to achieve an overall testing event score of satisfactory for two consecutive testing events or two out of three consecutive testing events is unsuccessful performance.
+
+[57 FR 7146, Feb. 28, 1992, as amended at 87 FR 41232, July 11, 2022]

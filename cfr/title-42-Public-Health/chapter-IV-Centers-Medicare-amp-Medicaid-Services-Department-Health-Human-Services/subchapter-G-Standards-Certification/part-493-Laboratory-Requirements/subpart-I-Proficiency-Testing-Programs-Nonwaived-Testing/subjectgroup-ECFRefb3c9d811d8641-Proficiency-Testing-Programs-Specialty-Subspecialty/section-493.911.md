@@ -1,47 +1,63 @@
 ##### § 493.911 Bacteriology. #####
 
-Link to an amendment published at 87 FR 41233, July 11, 2022.
+(a) *Program content and frequency of challenge.* To be approved for proficiency testing for bacteriology, the annual program must provide a minimum of five samples per testing event. There must be at least three testing events provided to the laboratory at approximately equal intervals per year. The samples may be provided to the laboratory through mailed shipments. The specific organisms included in the samples may vary from year to year.
 
-(a) *Types of services offered by laboratories.* In bacteriology, for proficiency testing purposes, there are five types of laboratories:
+(1) The annual program must include, as applicable, samples for:
 
-(1) Those that interpret Gram stains or perform primary inoculation, or both; and refer cultures to another laboratory appropriately certified for the subspecialty of bacteriology for identification;
+(i) Gram stain including bacterial morphology;
 
-(2) Those that use direct antigen techniques to detect an organism and may also interpret Gram stains or perform primary inoculation, or perform any combination of these;
+(ii) Direct bacterial antigen detection;
 
-(3) Those that, in addition to interpreting Gram stains, performing primary inoculations, and using direct antigen tests, also isolate and identify aerobic bacteria from throat, urine, cervical, or urethral discharge specimens to the genus level and may also perform antimicrobial susceptibility tests on selected isolated microorganisms;
+(iii) Bacterial toxin detection; and,
 
-(4) Those that perform the services in paragraph (a)(3) of this section and also isolate and identify aerobic bacteria from any source to the species level and may also perform antimicrobial susceptibility tests; and
+(iv) Detection and identification of bacteria which includes one of the following:
 
-(5) Those that perform the services in paragraph (a)(4) of this section and also isolate and identify anaerobic bacteria from any source.
+(A) Detection of the presence or absence of bacteria without identification; or
 
-(b) *Program content and frequency of challenge.* To be approved for proficiency testing for bacteriology, the annual program must provide a minimum of five samples per testing event. There must be at least three testing events at approximately equal intervals per year. The samples may be provided to the laboratory through mailed shipments or, at HHS' option, may be provided to HHS or its designee for on-site testing. For the types of laboratories specified in paragraph (a) of this section, an annual program must include samples that contain organisms that are representative of the six major groups of bacteria: anaerobes, Enterobacteriaceae, gram-positive bacilli, gram-positive cocci, gram-negative cocci, and miscellaneous gram-negative bacteria, as appropriate. The specific organisms included in the samples may vary from year to year. The annual program must include samples for bacterial antigen detection, bacterial isolation and identification, Gram stain, and antimicrobial susceptibility testing.
+(B) Identification of bacteria; and
 
-(1) An approved program must furnish HHS with a description of samples that it plans to include in its annual program no later than six months before each calendar year. At least 50 percent of the samples must be mixtures of the principal organism and appropriate normal flora. The program must include other important emerging pathogens (as determined by HHS) and either organisms commonly occurring in patient specimens or opportunistic pathogens. The program must include the following two types of samples; each type of sample must meet the 50 percent mixed culture criterion:
+(v) Antimicrobial susceptibility testing of select bacteria.
+
+(2) An approved program must furnish HHS and its agents with a description of samples that it plans to include in its annual program no later than 6 months before each calendar year. The program must include bacteria commonly occurring in patient specimens and other important emerging pathogens. The program determines the reportable isolates and correct responses for antimicrobial susceptibility testing for any designated isolate. At least 25 percent of the samples must be mixtures of the principal organism and appropriate normal flora. Mixed cultures are samples that require reporting of one or more principal pathogens. Mixed cultures are not “negative” samples such as when two commensal organisms are provided in a PT sample with the intended response of “negative” or “no pathogen present.” The program must include the following two types of samples to meet the 25 percent mixed culture criterion:
 
 (i) Samples that require laboratories to report only organisms that the testing laboratory considers to be a principal pathogen that is clearly responsible for a described illness (excluding immuno-compromised patients). The program determines the reportable isolates, including antimicrobial susceptibility for any designated isolate; and
 
-(ii) Samples that require laboratories to report all organisms present. Samples must contain multiple organisms frequently found in specimens such as urine, blood, abscesses, and aspirates where multiple isolates are clearly significant or where specimens are derived from immuno-compromised patients. The program determines the reportable isolates.
+(ii) Samples that require laboratories to report all organisms present. Samples must contain multiple organisms frequently found in specimens where multiple isolates are clearly significant or where specimens are derived from immuno-compromised patients. The program determines the reportable isolates.
 
-(2) An approved program may vary over time. For example, the types of organisms that might be included in an approved program over time are—
+(3) The content of an approved program must vary over time, as appropriate. The types of bacteria included annually must be representative of the following major groups of medically important aerobic and anaerobic bacteria, if appropriate for the sample sources:
 
-*Anaerobes:**Bacteroides fragilis group**Clostridium perfringens**Peptostreptococcus anaerobius**Enterobacteriaceae**Citrobacter freundii**Enterobacter aerogenes**Escherichia coli**Klebsiella pneumoniae**Proteus mirabilis**Salmonella typhimurium**Serratia marcescens**Shigella sonnei**Yersinia enterocolitica**Gram-positive bacilli:**Listeria monocytogenes**Corynebacterium species CDC Group JK**Gram-positive cocci:**Staphylococcus aureus**Streptococcus Group A**Streptococcus Group B**Streptococcus Group D (S. bovis and enterococcus)**Streptococcus pneumoniae**Gram-negative cocci:**Branhamella catarrhalis**Neisseria gonorrhoeae**Neisseria meningitidis**Miscellaneous Gram-negative bacteria:**Campylobacter jejuni**Haemophilis influenza, Type B**Pseudomonas aeruginosa*
+(i) Gram-negative bacilli.
 
-(3) For antimicrobial susceptibility testing, the program must provide at least one sample per testing event that includes gram-positive or gram-negative strains that have a predetermined pattern of sensitivity or resistance to the common antimicrobial agents.
+(ii) Gram-positive bacilli.
 
-(c) *Evaluation of a laboratory's performance.* HHS approves only those programs that assess the accuracy of a laboratory's responses in accordance with paragraphs (c) (1) through (7) of this section.
+(iii) Gram-negative cocci.
 
-(1) The program determines staining characteristics to be interpreted by Gram stain. The program determines the reportable bacteria to be detected by direct antigen techniques or isolation. To determine the accuracy of a laboratory's response for Gram stain interpretation, direct antigen detection, identification, or antimicrobial susceptibility testing, the program must compare the laboratory's response for each sample with the response which reflects agreement of either 80 percent of ten or more referee laboratories or 80 percent or more of all participating laboratories.
+(iv) Gram-positive cocci.
 
-(2) To evaluate a laboratory's response for a particular sample, the program must determine a laboratory's type of service in accordance with paragraph (a) of this section. A laboratory must isolate and identify the organisms to the same extent it performs these procedures on patient specimens. A laboratory's performance will be evaluated on the basis of its final answer, for example, a laboratory specified in paragraph (a)(3) of this section will be evaluated on the basis of the average of its scores for paragraphs (c)(3) through (c)(6) as determined in paragraph (c)(7) of this section.
+(4) For antimicrobial susceptibility testing, the program must provide at least two samples per testing event. The program must annually provide samples that include Gram-positive organisms and samples that include Gram-negative organisms that have a predetermined pattern of susceptibility or resistance to the common antimicrobial agents.
 
-(3) Since laboratories may incorrectly report the presence of organisms in addition to the correctly identified principal organism(s), the grading system must provide a means of deducting credit for additional erroneous organisms that are reported. Therefore, the total number of correct responses for organism isolation and identification submitted by the laboratory divided by the number of organisms present plus the number of incorrect organisms reported by the laboratory must be multiplied by 100 to establish a score for each sample in each testing event. For example, if a sample contained one principal organism and the laboratory reported it correctly but reported the presence of an additional organism, which was not considered reportable, the sample grade would be 1/(1 + 1) × 100 = 50 percent.
+(b) *Evaluation of a laboratory's performance.* HHS approves only those programs that assess the accuracy of a laboratory's responses in accordance with paragraphs (b)(1) through (9) of this section.
 
-(4) For antimicrobial susceptibility testing, a laboratory must indicate which drugs are routinely included in its test panel when testing patient samples. A laboratory's performance will be evaluated for only those antibiotics for which service is offered. A correct response for each antibiotic will be determined as described in § 493.911(c) (1) using criteria such as the guidelines established by the National Committee for Clinical Laboratory Standards. Grading is based on the number of correct susceptibility responses reported by the laboratory divided by the actual number of correct susceptibility responses determined by the program, multiplied by 100. For example, if a laboratory offers susceptibility testing for *Enterobacteriaceae* using amikacin, cephalothin, and tobramycin, and the organism in the proficiency testing sample is an *Enterobacteriaceae,* and the laboratory reports correct responses for two of three antimicrobial agents, the laboratory's grade would be 2/3 × 100 = 67 percent.
+(1) The program determines the reportable bacterial staining and morphological characteristics to be interpreted by Gram stain. The program determines the bacteria to be reported by direct bacterial antigen detection, bacterial toxin detection, detection of the presence or absence of bacteria without identification, identification of bacteria, and antimicrobial susceptibility testing. To determine the accuracy of each of the laboratory's responses, the program must compare each response with the response which reflects agreement of either 80 percent or more of 10 or more referee laboratories or 80 percent or more of all participating laboratories. Both methods must be attempted before the program can choose to not grade a PT sample.
 
-(5) The performance criterion for qualitative antigen tests is the presence or absence of the bacterial antigen. The score for antigen tests is the number of correct responses divided by the number of samples to be tested for the antigen, multiplied by 100.
+(2) A laboratory must identify the organisms to highest level that the laboratory reports results on patient specimens.
 
-(6) The performance criteria for Gram stain is staining reaction, i.e., gram positive or gram negative. The score for Gram stain is the number of correct responses divided by the number of challenges to be tested, multiplied by 100.
+(3) A laboratory's performance will be evaluated on the basis of the average of its scores for paragraph (b)(4) through (8) of this section as determined in paragraph (b)(9) of this section.
 
-(7) The score for a testing event in bacteriology is the average of the scores determined under paragraphs (c)(3) through (c)(6) of this section kbased on the type of service offered by the laboratory.
+(4) The performance criteria for Gram stain including bacterial morphology is staining reaction, that is, Gram positive or Gram negative and morphological description for each sample. The score is the number of correct responses for Gram stain reaction plus the number of correct responses for morphological description divided by 2 then divided by the number of samples to be tested, multiplied by 100.
 
-[57 FR 7151, Feb. 28, 1992, as amended at 58 FR 5228, Jan. 19, 1993; 68 FR 3702, Jan. 24, 2003]
+(5) The performance criterion for direct bacterial antigen detection is the presence or absence of the bacterial antigen. The score is the number of correct responses divided by the number of samples to be tested, multiplied by 100.
+
+(6) The performance criterion for bacterial toxin detection is the presence or absence of the bacterial toxin. The score is the number of correct responses divided by the number of samples to be tested multiplied by 100.
+
+(7) The performance criterion for the detection and identification of bacteria includes one of the following:
+
+(i) The performance criterion for the detection of the presence or absence of bacteria without identification is the correct detection of the presence or absence of bacteria without identification. The score is the number of correct responses divided by the number of samples to be tested multiplied by 100.
+
+(ii) The performance criterion for the identification of bacteria is the total number of correct responses for bacterial identification submitted by the laboratory divided by the number of organisms present plus the number of incorrect organisms reported by the laboratory multiplied by 100 to establish a score for each sample in each testing event. Since laboratories may incorrectly report the presence of organisms in addition to the correctly identified principal organism(s), the scoring system must provide a means of deducting credit for additional erroneous organisms that are reported. For example, if a sample contained one principal organism and the laboratory reported it correctly but reported the presence of an additional organism, which was not considered reportable, the sample grade would be 1/(1+1) × 100 = 50 percent.
+
+(8) For antimicrobial susceptibility testing, a laboratory must indicate which drugs are routinely included in its test panel when testing patient samples. A laboratory's performance will be evaluated for only those antimicrobials for which susceptibility testing is routinely performed on patient specimens. A correct response for each antimicrobial will be determined as described in paragraph (b)(1) of this section. Scoring for each sample is based on the number of correct susceptibility responses reported by the laboratory divided by the actual number of correct susceptibility responses determined by the program, multiplied by 100. For example, if a laboratory offers susceptibility testing using three antimicrobial agents, and the laboratory reports correct responses for two of the three antimicrobial agents, the laboratory's grade would be2/3 × 100 = 67 percent.
+
+(9) The score for a testing event in bacteriology is the average of the scores determined under paragraphs (b)(4) through (8) of this section based on the type of service offered by the laboratory.
+
+[87 FR 41233, July 11, 2022]

@@ -1,5 +1,7 @@
 ##### § 9.8 Public notice requirements. #####
 
+Link to an amendment published at 89 FR 57042, July 11, 2024.
+
 (a) *Purpose.* The purpose of this section is to establish the initial notice procedures to be followed when proposing any action in or affecting floodplains or wetlands.
 
 (b) *General.* The Agency shall provide adequate information to enable the public to have impact on the decision outcome for all actions having potential to affect, adversely, or be affected by floodplains or wetlands that it proposes. To achieve this objective, the Agency shall:

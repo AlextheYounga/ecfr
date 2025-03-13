@@ -1,5 +1,7 @@
 ##### § 9.4 Definitions. #####
 
+Link to an amendment published at 89 FR 57038, July 11, 2024.
+
 The following definitions shall apply throughout this regulation.
 
 *Action* means any action or activity including: (a) Acquiring, managing and disposing of Federal lands and facilities; (b) providing federally undertaken, financed or assisted construction and improvements; and (c) conducting Federal activities and programs affecting land use, including, but not limited to, water and related land resources, planning, regulating and licensing activities.

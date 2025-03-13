@@ -1,5 +1,7 @@
 ##### § 9.2 Policy. #####
 
+Link to an amendment published at 89 FR 57038, July 11, 2024.
+
 (a) FEMA shall take no action unless and until the requirements of this regulation are complied with.
 
 (b) It is the policy of the Agency to provide leadership in floodplain management and the protection of wetlands. Further, the Agency shall integrate the goals of the Orders to the greatest possible degree into its procedures for implementing NEPA. The Agency shall take action to:

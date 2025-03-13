@@ -1,5 +1,7 @@
 ##### § 9.5 Scope. #####
 
+Link to an amendment published at 89 FR 57040, July 11, 2024.
+
 (a) *Applicability.* (1) These regulations apply to all Agency actions which have the potential to affect floodplains or wetlands or their occupants, or which are subject to potential harm by location in floodplains or wetlands.
 
 (2) The basic test of the potential of an action to affect floodplains or wetlands is the action's potential (both by itself and when viewed cumulatively with other proposed actions) to result in the long- or short-term adverse impacts associated with:

@@ -1,5 +1,7 @@
 ##### § 9.6 Decision-making process. #####
 
+Link to an amendment published at 89 FR 57041, July 11, 2024.
+
 (a) *Purpose.* The purpose of this section is to set out the floodplain management and wetlands protection decision-making process to be followed by the Agency in applying the Orders to its actions. While the decision-making process was initially designed to address the floodplain Order's requirements, the process will also satisfy the wetlands Order's provisions due to the close similarity of the two directives. The numbering of Steps 1 through 8 does not firmly require that the steps be followed sequentially. As information is gathered throughout the decision-making process and as additional information is needed, reevaluation of lower numbered steps may be necessary.
 
 (b) Except as otherwise provided in § 9.5 (c), (d), (f), and (g) regarding categories of partial or total exclusion when proposing an action, the Agency shall apply the 8-step decision-making process. FEMA shall:

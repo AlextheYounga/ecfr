@@ -1,5 +1,7 @@
 ##### § 9.13 Particular types of temporary housing. #####
 
+Link to an amendment published at 89 FR 57045, July 11, 2024.
+
 (a) The purpose of this section is to set forth the procedures whereby the Agency will provide certain specified types of temporary housing.
 
 (b) Prior to providing the types of temporary housing enumerated in paragraph (c) of this section, the Agency shall comply with the provisions of this section. For all temporary housing not enumerated below, the full 8-step process (see § 9.6) applies.

@@ -1,5 +1,7 @@
 ##### § 9.7 Determination of proposed action's location. #####
 
+Link to an amendment published at 89 FR 57042, July 11, 2024.
+
 (a) The purpose of this section is to establish Agency procedures for determining whether any action as proposed is located in or affects (1) the base floodplain (the Agency shall substitute the 500-year floodplain for the base floodplain where the action being proposed involves a critical action), or (2) a wetland.
 
 (b) *Information needed.* The Agency shall obtain enough information so that it can fulfill the requirements of the Orders to (1) avoid floodplain and wetland locations unless they are the only practicable alternatives; and (2) minimize harm to and within floodplains and wetlands. In all cases, FEMA shall determine whether the proposed action is located in a floodplain or wetland. In the absence of a finding to the contrary, FEMA may assume that a proposed action involving a facility or structure that has been flooded is in the floodplain. Information about the 100-year and 500-year floods and location of floodways and coastal high hazard areas may also be needed to comply with these regulations, especially § 9.11. The following additional flooding characteristics shall be identified by the Regional Administrator as appropriate:

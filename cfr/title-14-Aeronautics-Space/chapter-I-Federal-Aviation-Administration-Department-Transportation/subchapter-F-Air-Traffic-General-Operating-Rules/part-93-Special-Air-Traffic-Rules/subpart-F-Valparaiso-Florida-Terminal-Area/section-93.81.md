@@ -1,6 +1,6 @@
 ##### § 93.81 Applicability and description of area. #####
 
-Link to an amendment published at 89 FR 52362, June 24, 2024.
+Link to an amendment published at 89 FR 52362, June 24, 2024.This amendment was delayed until Oct. 31, 2024 at 89 FR 56821, July 11, 2024.Link to a correction published at 89 FR 56821, July 11, 2024.
 
 The Valparaiso, Florida Terminal Area is designated as follows:
 

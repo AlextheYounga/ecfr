@@ -1,5 +1,7 @@
 ##### § 9.18 Responsibilities. #####
 
+Link to an amendment published at 89 FR 57046, July 11, 2024.
+
 (a) *Regional Administrators' responsibilities.* Regional Administrators shall, for all actions falling within their respective jurisdictions:
 
 (1) Implement the requirements of the Orders and this regulation. Anywhere in §§ 9.2, 9.6 through 9.13, and 9.15 where a direction is given to the Agency, it is the responsibility of the Regional Administrator.

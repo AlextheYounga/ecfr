@@ -1,5 +1,7 @@
 ##### § 9.9 Analysis and reevaluation of practicable alternatives. #####
 
+Link to an amendment published at 89 FR 57043, July 11, 2024.
+
 (a) *Purpose.* (1) The purpose of this section is to expand upon the directives set out in § 9.6, of this part, in order to clarify and emphasize the Orders' key requirements to avoid floodplains and wetlands unless there is no practicable alternative.
 
 (2) Step 3 is a preliminary determination as to whether the floodplain is the only practicable location for the action. It is a preliminary determination because it comes early in the decision-making process when the Agency has a limited amount of information. If it is clear that there is a practicable alternative, or the floodplain or wetland is itself not a practicable location, FEMA shall then act on that basis. Provided that the location outside the floodplain or wetland does not indirectly impact floodplains or wetlands or support development therein (see § 9.10), the remaining analysis set out by this regulation is not required. If such location does indirectly impact floodplains or wetlands or support development therein, the remaining analysis set out by this regulation is required. If the preliminary determination is to act in the floodplain, FEMA shall gather the additional information required under Steps 4 and 5 and then reevaluate all the data to determine if the floodplain or wetland is the only practicable alternative.

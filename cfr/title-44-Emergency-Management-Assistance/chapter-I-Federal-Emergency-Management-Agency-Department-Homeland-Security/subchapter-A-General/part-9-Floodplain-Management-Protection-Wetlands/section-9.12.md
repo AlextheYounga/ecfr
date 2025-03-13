@@ -1,5 +1,7 @@
 ##### § 9.12 Final public notice. #####
 
+Link to an amendment published at 89 FR 57045, July 11, 2024.
+
 If the Agency decides to take an action in or affecting a floodplain or wetland, it shall provide the public with a statement of its final decision and shall explain the relevant factors considered by the Agency in making this determination.
 
 (a) In addition, those sent notices under § 9.8 shall also be provided the final notice.

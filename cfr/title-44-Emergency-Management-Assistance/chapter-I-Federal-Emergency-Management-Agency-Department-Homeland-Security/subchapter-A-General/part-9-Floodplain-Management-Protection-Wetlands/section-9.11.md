@@ -1,5 +1,7 @@
 ##### § 9.11 Mitigation. #####
 
+Link to an amendment published at 89 FR 57044, July 11, 2024.
+
 (a) *Purpose.* The purpose of this section is to expand upon the directives set out in § 9.6 of this part, and to set out the mitigative actions required if the preliminary determination is made to carry out an action that affects or is in a floodplain or wetland.
 
 (b) *General provisions.* (1) The Agency shall design or modify its actions so as to minimize harm to or within the floodplain;

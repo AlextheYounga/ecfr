@@ -1,5 +1,7 @@
 ##### § 9.16 Guidance for applicants. #####
 
+Link to an amendment published at 89 FR 57046, July 11, 2024.
+
 (a) The Agency shall encourage and provide adequate guidance to applicants for agency assistance to evaluate the effects of their plans and proposals in or affecting floodplains and wetlands.
 
 (b) This shall be accomplished primarily through amendment of all Agency instructions to applicants, e.g., program handbooks, contracts, application and agreement forms, etc., and also through contact made by agency staff during the normal course of their activities, to fully inform prospective applicants of:

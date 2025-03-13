@@ -1,5 +1,7 @@
 ##### § 9.10 Identify impacts of proposed actions. #####
 
+Link to an amendment published at 89 FR 57043, July 11, 2024.
+
 (a) *Purpose.* The purpose of this section is to ensure that the effects of proposed Agency actions are identified.
 
 (b) The Agency shall identify the potential direct and indirect adverse impacts associated with the occupancy and modification of floodplains and wetlands and the potential direct and indirect support of floodplain and wetland development that could result from the proposed action. Such identification of impacts shall be to the extent necessary to comply with the requirements of the Orders to avoid floodplain and wetland locations unless they are the only practicable alternatives and to minimize harm to and within floodplains and wetlands.

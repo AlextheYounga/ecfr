@@ -70,7 +70,7 @@ It is not permissible for the Interactive Data File to present only partial face
 
 (iii) Any disclosure provided in response to: § 229.402(x) of this chapter (Item 402(x) of Regulation S-K); § 229.408(a)(1) and (2) of this chapter (Item 408(a)(1) and (2) of Regulation S-K); § 229.408(b)(1) of this chapter (Item 408(b)(1) of Regulation S-K); and Item 16J(a) of Form 20-F (§ 249.220f of this chapter).
 
-(iv) Any disclosure provided in response to: § 229.601(b)(26) of this chapter (Item 601(b)(26) of Regulation S-K); § 229.703 of this chapter (Item 703 of Regulation S-K); Item 16E of Form 20-F (§ 249.220f of this chapter); Item 14 of Form N-CSR (§§ 249.331 and 274.128 of this chapter); Rule 13a-21 under the Exchange Act; and General Instruction I to Form F-SR (§ 249.333 of this chapter).
+(iv) [Reserved]
 
 (v) Any disclosure provided in response to: § 229.106 of this chapter (Item 106 of Regulation S-K); Item 1.05 of § 249.308 of this chapter (Item 1.05 of Form 8-K); and Item 16K of § 249.220f of this chapter (Item 16K of Form 20-F).
 

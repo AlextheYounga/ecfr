@@ -32,12 +32,6 @@
 
 (v) If an educational program is designed to meet educational requirements for a specific professional license or certification that is required for employment in an occupation, or is advertised as meeting such requirements, a list of all States where the institution has determined, including as part of the institution's obligation under § 668.14(b)(32), that the program does and does not meet such requirements; and
 
-(A) A list of all States for which the institution has determined that its curriculum meets the State educational requirements for licensure or certification;
-
-(B) A list of all States for which the institution has determined that its curriculum does not meet the State educational requirements for licensure or certification; and
-
-(C) A list of all States for which the institution has not made a determination that its curriculum meets the State educational requirements for licensure or certification; and
-
 (vi) If a prison education program, as defined in § 668.236, is designed to meet educational requirements for a specific professional license or certification that is required for employment in an occupation (as described in § 668.236(a)(7) and (8)), information regarding whether that occupation typically involves State or Federal prohibitions on the licensure or employment of formerly confined or incarcerated individuals in any other State for which the institution has made a determination about State prohibitions on the licensure or certification of formerly confined or incarcerated individuals;
 
 (6) The names of associations, agencies or governmental bodies that accredit, approve, or license the institution and its programs and the procedures by which documents describing that activity may be reviewed under paragraph (b) of this section;

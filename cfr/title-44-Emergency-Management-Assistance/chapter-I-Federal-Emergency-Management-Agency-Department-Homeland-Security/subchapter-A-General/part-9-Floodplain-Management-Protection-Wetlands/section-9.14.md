@@ -1,5 +1,7 @@
 ##### § 9.14 Disposal of Agency property. #####
 
+Link to an amendment published at 89 FR 57045, July 11, 2024.
+
 (a) The purpose of this section is to set forth the procedures whereby the Agency shall dispose of property.
 
 (b) Prior to its disposal by sale, lease or other means of disposal, property proposed to be disposed of by the Agency shall be reviewed according to the decision-making process set out in § 9.6 of this part, as follows:

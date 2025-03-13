@@ -1,8 +1,10 @@
 ##### § 493.2 Definitions. #####
 
-Link to an amendment published at 87 FR 41232, July 11, 2022.Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
+Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
 
 As used in this part, unless the context indicates otherwise—
+
+*Acceptance limit* means the symmetrical tolerance (plus and minus) around the target value.
 
 *Accredited institution* means a school or program which—
 
@@ -106,6 +108,8 @@ This definition includes any foreign institution of higher education that HHS or
 
 *Party* means a laboratory affected by any of the enforcement procedures set forth in this subpart, by CMS or the OIG, as appropriate.
 
+*Peer group* means a group of laboratories whose testing process utilizes similar instruments, methodologies, and/or reagent systems and is not to be assigned using the reagent lot number level.
+
 *Performance characteristic* means a property of a test that is used to describe its quality, e.g., accuracy, precision, analytical sensitivity, analytical specificity, reportable range, reference range, etc.
 
 *Performance specification* means a value or range of values for a performance characteristic, established or verified by the laboratory, that is used to describe the quality of patient test results.
@@ -146,7 +150,17 @@ Example:Assume the State survey agency, CMS or other CMS agent performs 200 samp
 
 *Substantial allegation of noncompliance* means a complaint from any of a variety of sources (including complaints submitted in person, by telephone, through written correspondence, or in newspaper or magazine articles) that, if substantiated, would have an impact on the health and safety of the general public or of individuals served by a laboratory and raises doubts as to a laboratory's compliance with any condition level requirement.
 
-*Target value* for quantitative tests means either the mean of all participant responses after removal of outliers (those responses greater than 3 standard deviations from the original mean) or the mean established by definitive or reference methods acceptable for use in the National Reference System for the Clinical Laboratory (NRSCL) by the National Committee for the Clinical Laboratory Standards (NCCLS). In instances where definitive or reference methods are not available or a specific method's results demonstrate bias that is not observed with actual patient specimens, as determined by a defensible scientific protocol, a comparative method or a method group (“peer” group) may be used. If the method group is less than 10 participants, “target value” means the overall mean after outlier removal (as defined above) unless acceptable scientific reasons are available to indicate that such an evaluation is not appropriate.
+*Target value* for quantitative tests means:
+
+(1) If the peer group consists of 10 participants or greater:
+
+(i) The mean of all participant responses after removal of outliers (that is, those responses greater than three standard deviations from the original mean, as applicable);
+
+(ii) The mean established by a definitive method or reference methods; or
+
+(iii) If a definitive method or reference methods are not available, the mean of a peer group; or
+
+(2) If the peer group consists of fewer than 10 participants, the mean of all participant responses after removal of outliers (as defined in paragraph (1) of this definition) unless acceptable scientific reasons are available to indicate that such an evaluation is not appropriate.
 
 *Test system* means the instructions and all of the instrumentation, equipment, reagents, and supplies needed to perform an assay or examination and generate test results.
 
@@ -168,4 +182,4 @@ Example:Assume the State survey agency, CMS or other CMS agent performs 200 samp
 
 *Waived test* means a test system, assay, or examination that HHS has determined meets the CLIA statutory criteria as specified for waiver under section 353(d)(3) of the Public Health Service Act.
 
-[57 FR 7139, Feb. 28, 1992, as amended at 57 FR 7236, Feb. 28, 1992; 57 FR 34013, July 31, 1992; 57 FR 35761, Aug. 11, 1992; 58 FR 5220, Jan. 19, 1993; 58 FR 48323, Sept. 15, 1993; 60 FR 20043, Apr. 24, 1995; 63 FR 26732, May 14, 1998; 68 FR 3702, Jan. 24, 2003; 68 FR 50723, Aug. 22, 2003; 79 FR 25480, May 2, 2014; 79 FR 27157, May 12, 2014; 85 FR 54873, Sept. 2, 2020; 88 FR 90035, Dec. 28, 2023]
+[57 FR 7139, Feb. 28, 1992, as amended at 57 FR 7236, Feb. 28, 1992; 57 FR 34013, July 31, 1992; 57 FR 35761, Aug. 11, 1992; 58 FR 5220, Jan. 19, 1993; 58 FR 48323, Sept. 15, 1993; 60 FR 20043, Apr. 24, 1995; 63 FR 26732, May 14, 1998; 68 FR 3702, Jan. 24, 2003; 68 FR 50723, Aug. 22, 2003; 79 FR 25480, May 2, 2014; 79 FR 27157, May 12, 2014; 85 FR 54873, Sept. 2, 2020; 87 FR 41232, July 11, 2022; 88 FR 90035, Dec. 28, 2023]
