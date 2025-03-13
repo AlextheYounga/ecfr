@@ -8,19 +8,19 @@
 
 (2) For all exports subject to the EAR that require submission of a license application, regardless of value or destination;
 
-(3) For all exports of 9x515 or “600 series” items enumerated or otherwise described in paragraphs .a through .x of a 9x515 or “600 series” ECCN regardless of value or destination, including exports to Canada;
+(3) For all exports of 9x515 or “600 series” items enumerated or otherwise described in paragraphs .a through .x of a 9x515 or “600 series” ECCN regardless of value or destination, including exports to Australia, Canada, and the United Kingdom;
 
 (4) For all exports under license exception Strategic Trade Authorization (STA);
 
 (5) For all exports of commodities and mass market software subject to the EAR when the value of the commodities or mass market software classified under a single Schedule B Number (or HTS) is over $2,500, except as exempted by the Foreign Trade Regulations (FTR) in 15 CFR Part 30 and referenced in paragraph (c) of this section;
 
-(6) For all exports of items subject to the EAR that will be transshipped through Canada to a third destination, where the export would require EEI or license if shipped directly to the final destination from the United States (see 15 CFR 30.36(b)(2) of the FTR);
+(6) For all exports of items subject to the EAR that will be transshipped through Australia, Canada, or the United Kingdom to a third destination, where the export would require EEI or license if shipped directly to the final destination from the United States (see 15 CFR 30.36(b)(2) of the FTR);
 
 (7) For all items exported under authorization Validated End-User (VEU);
 
 (8) For all exports of tangible items subject to the EAR where parties to the transaction, as described in § 748.5(d) through (f) of the EAR, are listed on the Unverified List (supplement no. 6 to part 744 of the EAR), regardless of value or destination; or
 
-(9) For all exports, except for exports authorized under License Exception BAG, as set forth in § 740.14 of the EAR, of items controlled under ECCNs 0A501.a or .b, shotguns with a barrel length less than 18 inches controlled under ECCN 0A502, or ammunition controlled under ECCN 0A505 except for .c, regardless of value or destination, including exports to Canada.
+(9) For all exports, except for exports authorized under License Exception BAG, as set forth in § 740.14 of the EAR, of items controlled under ECCNs 0A501.a or .b, shotguns with a barrel length less than 18 inches controlled under ECCN 0A502, or ammunition controlled under ECCN 0A505 except for .c, regardless of value or destination, including exports to Australia, Canada, and the United Kingdom.
 
 (10) For all exports of items on the Commerce Control List to the People's Republic of China, Russia, or Venezuela, regardless of value, unless the export may be made under the exemption listed under paragraph (c)(4) of this section.
 
@@ -94,4 +94,4 @@ The Bureau of Census Foreign Trade Regulations impose additional requirements fo
 
 (i) *Filing the Electronic Export Information (EEI).* The EEI must be filed with the United States Government in the manner prescribed by the Bureau of Census Foreign Trade Regulations (15 CFR part 30).
 
-[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018; 85 FR 4178, Jan. 23, 2020; 85 FR 23465, Apr. 28, 2020; 85 FR 83792, Dec. 23, 2020; 86 FR 46595, Aug. 19, 2021; 88 FR 73497, Oct. 25, 2023]
+[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018; 85 FR 4178, Jan. 23, 2020; 85 FR 23465, Apr. 28, 2020; 85 FR 83792, Dec. 23, 2020; 86 FR 46595, Aug. 19, 2021; 88 FR 73497, Oct. 25, 2023; 89 FR 28601, Apr. 19, 2024]

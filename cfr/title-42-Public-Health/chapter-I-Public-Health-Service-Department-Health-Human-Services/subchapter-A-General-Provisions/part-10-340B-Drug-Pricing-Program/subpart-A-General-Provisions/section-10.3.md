@@ -1,5 +1,7 @@
 ##### § 10.3 Definitions. #####
 
+Link to an amendment published at 89 FR 28657, Apr. 19, 2024.
+
 For the purposes of this part, the following definitions apply:
 
 *Administrative Dispute Resolution (ADR) Process* means a process used to resolve the following types of claims, including any issues that assist the 340B ADR Panel in resolving claims:

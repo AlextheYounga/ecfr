@@ -14,10 +14,10 @@
 
 (c) Subject to the General Prohibitions described in part 736 of the EAR, such precautions for Internet transfers of products eligible for export under § 740.17(b)(2) of the EAR (encryption “software” products, certain encryption source code and general purpose encryption toolkits) shall include such measures as:
 
-(1) The access control system, either through automated means or human intervention, checks the address of every system outside of the U.S. or Canada requesting or receiving a transfer and verifies such systems do not have a domain name or Internet address of a foreign government end-user (*e.g.,* “.gov,” “.gouv,” “.mil” or similar addresses);
+(1) The access control system, either through automated means or human intervention, checks the address of every system outside of the U.S., Australia, Canada, or the United Kingdom requesting or receiving a transfer and verifies such systems do not have a domain name or internet address of a foreign government end-user (*e.g.,* “.gov,” “.gouv,” “.mil” or similar addresses);
 
 (2) The access control system provides every requesting or receiving party with notice that the transfer includes or would include cryptographic “software” subject to export controls under the Export Administration Regulations, and anyone receiving such a transfer cannot export the “software” without a license or other authorization; and
 
 (3) Every party requesting or receiving a transfer of such “software” must acknowledge affirmatively that the “software” is not intended for use by a government end user, as defined in part 772 of the EAR, and he or she understands the cryptographic “software” is subject to export controls under the Export Administration Regulations and anyone receiving the transfer cannot export the “software” without a license or other authorization. BIS will consider acknowledgments in electronic form provided they are adequate to assure legal undertakings similar to written acknowledgments.
 
-[81 FR 35604, June 3, 2016, as amended at 81 FR 64668, Sept. 20, 2016; 86 FR 16487, Mar. 29, 2021]
+[81 FR 35604, June 3, 2016, as amended at 81 FR 64668, Sept. 20, 2016; 86 FR 16487, Mar. 29, 2021; 89 FR 28598, Apr. 19, 2024]

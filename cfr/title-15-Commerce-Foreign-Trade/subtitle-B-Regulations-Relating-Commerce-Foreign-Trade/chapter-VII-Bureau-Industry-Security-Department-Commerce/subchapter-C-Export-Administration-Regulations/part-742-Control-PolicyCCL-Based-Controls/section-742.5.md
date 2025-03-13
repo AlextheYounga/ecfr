@@ -1,6 +1,6 @@
 ##### § 742.5 Missile technology. #####
 
-(a) *License requirements.* (1) In support of U.S. foreign policy to limit the proliferation of missiles, a license is required to export and reexport items related to the design, development, production, or use of missiles. These items are identified in ECCNs on the CCL as MT Column No. 1 in the Country Chart column of the “License Requirements” section. Licenses for these items are required to all destinations, except Canada, as indicated by MT Column 1 of the Country Chart (see supplement no. 1 to part 738 of the EAR).
+(a) *License requirements.* (1) In support of U.S. foreign policy to limit the proliferation of missiles, a license is required to export and reexport items related to the design, development, production, or use of missiles. These items are identified in ECCNs on the CCL as MT Column No. 1 in the Country Chart column of the “License Requirements” section. Licenses for these items are required to all destinations, except Australia, Canada, or the United Kingdom, as indicated by MT Column 1 of the Country Chart (see supplement no. 1 to part 738 of the EAR).
 
 (2) The term “missiles” is defined as rocket systems (including ballistic missiles, space launch vehicles, and sounding rockets) and unmanned aerial vehicle systems (including cruise missiles, target drones, and reconnaissance drones) capable of delivering at least 500 kilograms (kg) payload to a range of at least 300 kilometers (km). See § 746.3 of the EAR for definition of a “ballistic missile” to be exported or reexported to Iraq.
 
@@ -50,4 +50,4 @@ License Exception TSU under § 740.13 of the EAR is available for the ECCNs cont
 
 (d) *Missile Technology Control Regime.* Missile Technology Control Regime (MTCR) members are listed in Country Group A:2 (see supplement no. 1 to part 740 of the EAR). Controls on items identified in paragraph (a) of this section are consistent with the list agreed to in the MTCR and included in the MTCR Annex.
 
-[61 FR 12786, Mar. 25, 1996, as amended at 68 FR 16147, Apr. 2, 2003; 69 FR 46075, July 30, 2004; 72 FR 33656, June 19, 2007; 76 FR 4231, Jan. 25, 2011; 81 FR 19030, Apr. 4, 2016; 81 FR 76861, Nov. 4, 2016; 82 FR 31446, July 7, 2017; 85 FR 10277, Feb. 24, 2020; 86 FR 2254, Jan. 12, 2021; 87 FR 12239, Mar. 3, 2022; 87 FR 13059, Mar. 8, 2022]
+[61 FR 12786, Mar. 25, 1996, as amended at 68 FR 16147, Apr. 2, 2003; 69 FR 46075, July 30, 2004; 72 FR 33656, June 19, 2007; 76 FR 4231, Jan. 25, 2011; 81 FR 19030, Apr. 4, 2016; 81 FR 76861, Nov. 4, 2016; 82 FR 31446, July 7, 2017; 85 FR 10277, Feb. 24, 2020; 86 FR 2254, Jan. 12, 2021; 87 FR 12239, Mar. 3, 2022; 87 FR 13059, Mar. 8, 2022; 89 FR 28599, Apr. 19, 2024]

@@ -184,13 +184,13 @@ Immediately after the classification request is submitted to BIS in accordance w
 
 (iii) BIS may require you to supply additional relevant technical information about your encryption item(s) or information that pertains to their eligibility for License Exception ENC at any time, before or after the expiration of the thirty-day (30-day) processing period specified in this paragraph and in paragraphs (b)(2) and (3) of this section. If you do not supply such information within 14 days after receiving a request for it from BIS, BIS may return your classification request(s) without action or otherwise suspend or revoke your eligibility to use License Exception ENC for that item(s). At your request, BIS may grant you up to an additional 14 days to provide the requested information. Any request for such an additional number of days must be made prior to the date by which the information was otherwise due to be provided to BIS, and may be approved if BIS concludes that additional time is necessary.
 
-(e) *Reporting requirements*—(1) *Semiannual reporting requirement.* Semiannual reporting is required for exports to all destinations other than Canada, and for reexports from Canada for items described under paragraphs (b)(2) and (b)(3)(iii) of this section. Certain encryption items and transactions are excluded from this reporting requirement, see paragraph (e)(1)(iii) of this section. For information about what must be included in the report and submission requirements, see paragraphs (e)(1)(i) and (ii) of this section respectively.
+(e) *Reporting requirements*—(1) *Semiannual reporting requirement.* Semiannual reporting is required for exports to all destinations other than Australia, Canada, or the United Kingdom, and for reexports from Australia, Canada, or the United Kingdom for items described under paragraphs (b)(2) and (b)(3)(iii) of this section. Certain encryption items and transactions are excluded from this reporting requirement (see paragraph (e)(1)(iii) of this section). For information about what must be included in the report and submission requirements, see paragraphs (e)(1)(i) and (ii) of this section, respectively.
 
-(i) *Information required.* Exporters must include for each item, the Commodity Classification Automated Tracking System (CCATS) number and the name of the item(s) exported (or reexported from Canada), and the following information in their reports:
+(i) *Information required.* Exporters must include, for each item, the Commodity Classification Automated Tracking System (CCATS) number and the name of the item(s) exported (or reexported from Australia, Canada, or the United Kingdom), and the following information in their reports:
 
-(A) *Distributors or resellers.* For items exported (or reexported from Canada) to a distributor or other reseller, including subsidiaries of U.S. firms, the name and address of the distributor or reseller, the item and the quantity exported or reexported and, if collected by the exporter as part of the distribution process, the end user's name and address;
+(A) *Distributors or resellers.* For items exported (or reexported from Australia, Canada, or the United Kingdom) to a distributor or other reseller, including subsidiaries of U.S. firms, the name and address of the distributor or reseller, the item and the quantity exported or reexported and, if collected by the exporter as part of the distribution process, the end user's name and address;
 
-(B) *Direct sales.* For items exported (or reexported from Canada) through direct sale, the name and address of the recipient, the item, and the quantity exported; or
+(B) *Direct sales.* For items exported (or reexported from Australia, Canada, or the United Kingdom) through direct sale, the name and address of the recipient, the item, and the quantity exported; or
 
 (C) *Foreign manufacturers and products that use encryption items.* For exports (*i.e.,* from the United States) or direct transfers (*e.g.,* by a “U.S. subsidiary” located outside the United States) of encryption components, source code, general purpose toolkits, equipment controlled under ECCN 5B002, technology, or items that provide an “open cryptographic interface,” to a foreign developer or manufacturer headquartered in a country not listed in supplement no. 3 to this part when intended for use in foreign products developed for commercial sale, the names and addresses of the manufacturers using these encryption items and, if known, when the product is made available for commercial sale, a non-proprietary technical description of the foreign products for which these encryption items are being used (*e.g.,* brochures, other documentation, descriptions or other identifiers of the final foreign product; the algorithm and key lengths used; general programming interfaces to the product, if known; any standards or protocols that the foreign product adheres to; and source code, if available).
 
@@ -206,7 +206,7 @@ Immediately after the classification request is submitted to BIS in accordance w
 
 (B) Encryption commodities or software with a symmetric key length not exceeding 64 bits;
 
-(C) Encryption items exported (or reexported from Canada) via free and anonymous download;
+(C) Encryption items exported (or reexported from Australia, Canada, or the United Kingdom) via free and anonymous download;
 
 (D) Encryption items from or to a U.S. bank, financial institution or its subsidiaries, affiliates, customers or contractors for banking or financial operations;
 
@@ -260,4 +260,4 @@ Note to paragraph (f):
 
 See also § 740.22(c)(4).
 
-[81 FR 64669, Sept. 20, 2016, as amended at 82 FR 27110, June 14, 2017; 83 FR 53750, Oct. 24, 2018; 85 FR 62587, Oct. 5, 2020; 86 FR 16487, Mar. 29, 2021; 87 FR 31951, May 26, 2022; 88 FR 73492, Oct. 25, 2023]
+[81 FR 64669, Sept. 20, 2016, as amended at 82 FR 27110, June 14, 2017; 83 FR 53750, Oct. 24, 2018; 85 FR 62587, Oct. 5, 2020; 86 FR 16487, Mar. 29, 2021; 87 FR 31951, May 26, 2022; 88 FR 73492, Oct. 25, 2023; 89 FR 28599, Apr. 19, 2024]

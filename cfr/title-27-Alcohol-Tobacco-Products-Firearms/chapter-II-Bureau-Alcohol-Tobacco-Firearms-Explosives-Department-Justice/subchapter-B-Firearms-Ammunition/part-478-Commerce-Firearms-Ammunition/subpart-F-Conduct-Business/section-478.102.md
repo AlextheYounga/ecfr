@@ -1,5 +1,7 @@
 ##### § 478.102 Sales or deliveries of firearms on and after November 30, 1998. #####
 
+Link to an amendment published at 89 FR 28632, Apr. 19, 2024.
+
 (a) *Background check.* Except as provided in paragraph (d) of this section, a licensed importer, licensed manufacturer, or licensed dealer (the licensee) shall not sell, deliver, or transfer a firearm to any other person who is not licensed under this part unless the licensee meets the following requirements:
 
 (1) Before the completion of the transfer, the licensee has contacted NICS;

@@ -1,5 +1,7 @@
 ##### § 416.1142 If you live in a public assistance household. #####
 
+Link to an amendment published at 89 FR 28622, Apr. 19, 2024.
+
 (a) *Definition.* A public assistance household is one in which every member receives some kind of public income-maintenance payments. These are payments made under—
 
 (1) Title IV-A of the Social Security Act (Temporary Assistance for Needy Families);

@@ -1,6 +1,6 @@
 ##### § 754.5 Horses for export by sea. #####
 
-(a) *License requirement.* As indicated by the letters “SS” in the “Reason for Control” paragraph of the “License Requirements” section of ECCN 0A980 on the CCL (supplement no. 1 to part 774 of the EAR) a license is required for the export of horses exported by sea to all destinations, including Canada.
+(a) *License requirement.* As indicated by the letters “SS” in the “Reason for Control” paragraph of the “License Requirements” section of ECCN 0A980 on the CCL (supplement no. 1 to part 774 of the EAR) a license is required for the export of horses exported by sea to all destinations, including Australia, Canada, and the United Kingdom.
 
 (b) *License policy.* (1) License applications for the export of horses by sea for the purposes of slaughter will be denied.
 
@@ -8,4 +8,4 @@
 
 (3) Each application for export may cover only one consignment of horses.
 
-[61 FR 12844, Mar. 25, 1996, as amended at 73 FR 49331, Aug. 21, 2008]
+[61 FR 12844, Mar. 25, 1996, as amended at 73 FR 49331, Aug. 21, 2008; 89 FR 28601, Apr. 19, 2024]

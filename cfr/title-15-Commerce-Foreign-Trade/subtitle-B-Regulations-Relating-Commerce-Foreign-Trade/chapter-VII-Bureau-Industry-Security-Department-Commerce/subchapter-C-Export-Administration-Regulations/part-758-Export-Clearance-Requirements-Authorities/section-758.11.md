@@ -1,6 +1,6 @@
 ##### § 758.11 Export clearance requirements for firearms and related items. #####
 
-(a) *Scope.* The export clearance requirements of this section apply to all exports of commodities controlled under ECCNs 0A501.a or .b, shotguns with a barrel length less than 18 inches controlled under ECCN 0A502, or ammunition controlled under ECCN 0A505 except for .c, regardless of value or destination, including exports to Canada, that are authorized under License Exception BAG, as set forth in § 740.14 of the EAR.
+(a) *Scope.* The export clearance requirements of this section apply to all exports of commodities controlled under ECCNs 0A501.a or .b, shotguns with a barrel length less than 18 inches controlled under ECCN 0A502, or ammunition controlled under ECCN 0A505 except for .c, regardless of value or destination, including exports to Australia, Canada, and the United Kingdom, that are authorized under License Exception BAG, as set forth in § 740.14 of the EAR.
 
 (b) *Required form.* Prior to making any export described in paragraph (a) of this section, the exporter is required to submit a properly completed Department of Homeland Security, CBP Form 4457, (Certificate of Registration for Personal Effects Taken Abroad) (OMB Control Number 1651-0010), to the U.S. Customs and Border Protection (CBP), pursuant to 19 CFR 148.1, and as required by this section.
 
@@ -12,4 +12,4 @@
 
 (d) *Return of items exported pursuant to this section.* The exporter when returning with a commodity authorized under License Exception BAG and exported pursuant this section, is required to present a copy of the CBP Form 4457, Certificate of Registration for Personal Effects Taken Abroad) (OMB Control Number 1651-0010), to CBP, pursuant to 19 CFR 148.1, and as required by this section.
 
-[85 FR 4179, Jan. 23, 2020]
+[85 FR 4179, Jan. 23, 2020, as amended at 89 FR 28601, Apr. 19, 2024]

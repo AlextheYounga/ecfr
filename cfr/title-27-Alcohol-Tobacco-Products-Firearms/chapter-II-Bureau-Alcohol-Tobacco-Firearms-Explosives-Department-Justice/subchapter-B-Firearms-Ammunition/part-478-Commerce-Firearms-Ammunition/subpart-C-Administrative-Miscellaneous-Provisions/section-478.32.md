@@ -1,5 +1,7 @@
 ##### § 478.32 Prohibited shipment, transportation, possession, or receipt of firearms and ammunition by certain persons. #####
 
+Link to an amendment published at 89 FR 28631, Apr. 19, 2024.
+
 (a) No person may ship or transport any firearm or ammunition in interstate or foreign commerce, or receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce, or possess any firearm or ammunition in or affecting commerce, who:
 
 (1) Has been convicted in any court of a crime punishable by imprisonment for a term exceeding 1 year,

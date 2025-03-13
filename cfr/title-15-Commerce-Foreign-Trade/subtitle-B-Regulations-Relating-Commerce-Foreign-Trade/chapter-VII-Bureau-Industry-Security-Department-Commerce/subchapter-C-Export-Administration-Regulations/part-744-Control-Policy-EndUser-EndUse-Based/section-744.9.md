@@ -2,11 +2,11 @@
 
 (a) *General prohibitions.* (1) In addition to the applicable license requirements for nuclear nonproliferation, national security, regional stability, anti-terrorism, and United Nations embargo reasons in §§ 742.3, 742.4, 742.6, 742.8, 746.1(b), and 746.3 of the EAR, a license is required pursuant to this section for specific exports, reexports, or transfers (in-country) if at the time of export, reexport, or transfer, the exporter, reexporter, or transferor knows or is informed that:
 
-(i) Commodities controlled by ECCN 6A003.a.3, 6A003.a.4, or 6A003.a.6 will be or are intended to be used by a 'military end-user,' as defined in paragraph (d) of this section in all destinations except Canada.
+(i) Commodities controlled by ECCN 6A003.a.3, 6A003.a.4, or 6A003.a.6 will be or are intended to be used by a 'military end-user,' as defined in paragraph (d) of this section in all destinations except Australia, Canada, or the United Kingdom.
 
 (ii) Commodities described in ECCNs 0A504 (incorporating commodities controlled by ECCNs 6A002 or 6A003, or commodities controlled by 6A993.a that meet the criterion of Note 3.a to 6A003.b.4), 6A002, 6A003 (other than 6A003.a.3, 6A003.a.4, and 6A003.a.6), or 6A993.a (having a maximum frame rate equal to or less than 9 Hz and thus meeting the criteria of Note 3.a to 6A003.b.4), or 8A002.d will be or are intended to be used by a 'military end-user,' as defined in paragraph (d) of this section in all destinations except those specified in Country Group A:1.
 
-(iii) Commodities described in ECCNs 0A504 (incorporating commodities controlled by ECCNs 6A002 or 6A003, or commodities controlled by 6A993.a that meet the criterion of Note 3.a to 6A003.b.4), 6A002, 6A003, or 6A993.a (having a maximum frame rate equal to or less than 9 Hz and thus meeting the criteria of Note 3.a to 6A003.b.4), or 8A002.d will be or are intended to be incorporated into a “military commodity” controlled by ECCN 0A919 in all destinations except Canada.
+(iii) Commodities described in ECCNs 0A504 (incorporating commodities controlled by ECCNs 6A002 or 6A003, or commodities controlled by 6A993.a that meet the criterion of Note 3.a to 6A003.b.4), 6A002, 6A003, or 6A993.a (having a maximum frame rate equal to or less than 9 Hz and thus meeting the criteria of Note 3.a to 6A003.b.4), or 8A002.d will be or are intended to be incorporated into a “military commodity” controlled by ECCN 0A919 in all destinations except Australia, Canada, or the United Kingdom.
 
 (2) The license requirement described in paragraph (a)(1) of this section does not apply to exports, reexports, or transfers (in-country) of items described in that paragraph when such items are being reexported or transferred as part of a military deployment by a unit of the government of a country in Country Group A:1 (see Supplement No. 1 to part 740).
 
@@ -18,4 +18,4 @@
 
 (e) *Exception.* Shipments subject to the prohibitions in paragraphs (a) and (b) of this section that are consigned to and for the official use of the U.S. Government authorized pursuant to § 740.11(b)(2)(ii) of the EAR may be made under License Exception GOV. No other license exceptions apply to the prohibitions described in paragraphs (a) and (b) of this section.
 
-[74 FR 23948, May 22, 2009; 77 FR 39369, July 2, 2012, as amended at 81 FR 70333, Oct. 12, 2016; 83 FR 53751, Oct. 24, 2018; 85 FR 4177, Jan. 23, 2020; 89 FR 13592, Feb. 23, 2024]
+[74 FR 23948, May 22, 2009; 77 FR 39369, July 2, 2012, as amended at 81 FR 70333, Oct. 12, 2016; 83 FR 53751, Oct. 24, 2018; 85 FR 4177, Jan. 23, 2020; 89 FR 13592, Feb. 23, 2024; 89 FR 28601, Apr. 19, 2024]

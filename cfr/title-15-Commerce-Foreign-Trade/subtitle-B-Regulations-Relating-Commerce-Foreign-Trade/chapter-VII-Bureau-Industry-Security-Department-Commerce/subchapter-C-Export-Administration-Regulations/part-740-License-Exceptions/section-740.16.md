@@ -38,11 +38,11 @@ This License Exception allows the following reexports:
 
 (c) Reexports to a destination to which direct shipment from the United States is authorized under an unused outstanding license may be made under the terms of that license. Such reexports shall be recorded in the same manner as exports are recorded, regardless of whether the license is partially or wholly used for reexport purposes. (See part 762 of the EAR for recordkeeping requirements.)
 
-(d) Reexports of any item from Canada that, at the time of reexport, may be exported directly from the United States to the new country of destination under any License Exception.
+(d) Reexports of any item from Australia, Canada, or the United Kingdom that, at the time of reexport, may be exported directly from the United States to the new country of destination under any License Exception.
 
 (e) Reexports (return) to the United States of any item. If the reexporting party requests written authorization because the government of the country from which the reexport will take place requires formal U.S. Government approval, such authorization will generally be given.
 
-(f) Reexports from a foreign destination to Canada of any item if the item could be exported to Canada without a license.
+(f) Reexports from a foreign destination to Australia, Canada, or the United Kingdom of any item if the item could be exported to Australia, Canada, or the United Kingdom without a license.
 
 (g) [Reserved]
 

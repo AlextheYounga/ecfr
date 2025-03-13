@@ -1,5 +1,7 @@
 ##### § 1700.14 Substances requiring special packaging. #####
 
+Link to an amendment published at 89 FR 28606, Apr. 19, 2024.
+
 (a) *Substances.* The Commission has determined that the degree or nature of the hazard to children in the availability of the following substances, by reason of their packaging, is such that special packaging meeting the requirements of § 1700.20(a) is required to protect children from serious personal injury or serious illness resulting from handling, using, or ingesting such substances, and the special packaging herein required is technically feasible, practicable, and appropriate for these substances:
 
 (1) *Aspirin.* Any aspirin-containing preparation for human use in a dosage form intended for oral administration shall be packaged in accordance with the provisions of § 1700.15 (a), (b), and (c), except the following:
