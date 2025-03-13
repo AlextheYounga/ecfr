@@ -48,6 +48,6 @@ Drug- and Alcohol-Free Workforce (NOV 2015)
 
 (f) For any collective bargaining agreement, the Contractor will negotiate the terms of its program with employee representatives, as appropriate, under labor relations laws or negotiated agreements. Such negotiation, however, cannot change the requirements of this clause. Employees covered under collective bargaining agreements will not be subject to the requirements of this clause until those agreements have been modified, as necessary; provided, however, that if one year after commencement of negotiation the parties have failed to reach agreement, an impasse will be determined to have been reached and the Contractor will unilaterally implement the requirements of this clause.
 
-(g) The Contractor shall insert a clause containing all the terms of this clause, including this paragraph (g), in all subcontracts in which work is performed by an employee in a sensitive position, except subcontracts for commercial items (see FAR parts 2 and 12).
+(g) The Contractor shall insert a clause containing all the terms of this clause, including this paragraph (g), in all subcontracts in which work is performed by an employee in a sensitive position, except subcontracts for Commercial Products and Commercial Services (see FAR parts 2 and 12).
 
-(End of clause)[61 FR 7226, Feb. 27, 1996, as amended at 69 FR 60968, Oct. 14, 2004; 80 FR 60554, Oct. 7, 2015]
+(End of clause)[61 FR 7226, Feb. 27, 1996, as amended at 69 FR 60968, Oct. 14, 2004; 80 FR 60554, Oct. 7, 2015; 88 FR 64385, Sept. 19, 2023]

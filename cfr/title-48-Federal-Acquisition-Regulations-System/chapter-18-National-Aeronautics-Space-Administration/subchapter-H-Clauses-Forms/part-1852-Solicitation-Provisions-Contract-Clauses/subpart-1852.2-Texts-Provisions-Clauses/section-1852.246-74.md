@@ -66,8 +66,8 @@ Contractor Counterfeit Electronic Part Detection and Avoidance. (DATE)
 
 (2) End items, components, parts, or assemblies containing electronic parts; or
 
-(3) Services where the covered contractor will supply electronic parts or components, parts, or assemblies containing electronic parts as part of the service, including subcontracts for commercial items that are for electronic parts or assemblies containing electronic parts, unless the subcontractor is the original manufacturer. The covered contractor shall not alter the clause other than to identify appropriate parties.
+(3) Services where the covered contractor will supply electronic parts or components, parts, or assemblies containing electronic parts as part of the service, including subcontracts for Commercial Products and Commercial Services that are for electronic parts or assemblies containing electronic parts, unless the subcontractor is the original manufacturer. The covered contractor shall not alter the clause other than to identify appropriate parties.
 
 (f) *Corrective Action.* In the event that the covered contractor supplies a counterfeit electronic part, suspect counterfeit electronic part or end item, component, or assembly containing a counterfeit electronic part to NASA, the covered contractor shall take such corrective actions as the Administrator considers necessary to remedy the use or inclusion of additional counterfeit electronic parts, suspect counterfeit electronic part or end items, components, or assemblies containing a counterfeit electronic part.
 
-(End of clause)[85 FR 52928, Aug. 28, 2020]
+(End of clause)[85 FR 52928, Aug. 28, 2020, as amended at 88 FR 64385, Sept. 19, 2023]

@@ -22,10 +22,10 @@
 
 (i) The solicitation or contract is with an educational or other nonprofit institution and contains the termination clause at FAR 52.249-5; or
 
-(ii) The solicitation or contract is for commercial items and contains the clause at FAR 52.212-4.
+(ii) The solicitation or contract is for Commercial Products and Commercial Services and contains the clause at FAR 52.212-4.
 
 (3) For contracts with estimated values below $500,000, use of the clause is optional.
 
 (f) The contracting officer shall insert the clause at 1852.223-72, Safety and Health (Short Form) in solicitations and contracts above the simplified acquisition threshold when work will be conducted completely or partly on Federally-controlled facilities and that do not contain the clause at 1852.223-73 or the FAR clause at 52.236-13 with its Alternate I.
 
-[65 FR 37059, June 13, 2000, as amended at 65 FR 70316, Nov. 22, 2000; 66 FR 18052, Apr. 5, 2001; 66 FR 48361, Sept. 20, 2001; 67 FR 17016, Apr. 9, 2002; 71 FR 8989, Feb. 22, 2006; 80 FR 36721, June 26, 2015; 80 FR 73677, Nov. 25, 2015; 81 FR 71638, Oct. 18, 2016]
+[65 FR 37059, June 13, 2000, as amended at 65 FR 70316, Nov. 22, 2000; 66 FR 18052, Apr. 5, 2001; 66 FR 48361, Sept. 20, 2001; 67 FR 17016, Apr. 9, 2002; 71 FR 8989, Feb. 22, 2006; 80 FR 36721, June 26, 2015; 80 FR 73677, Nov. 25, 2015; 81 FR 71638, Oct. 18, 2016; 88 FR 64385, Sept. 19, 2023]

@@ -1,8 +1,8 @@
-##### 1852.213-70 Offeror Representations and Certifications—Other Than Commercial Items. #####
+##### 1852.213-70 Offeror Representations and Certifications—Other Than Commercial Products and Commercial Services. #####
 
 As prescribed in 1813.302-570, insert the following provision:
 
-Offeror Representations and Certifications—Other Than Commercial Items (JUL 2004)
+Offeror Representations and Certifications—Other Than Commercial Products and Commercial Services (JUL 2004)
 
 (a) *Definitions.* As used in this provision—
 
@@ -220,4 +220,4 @@ Note:
 
 “Limited rights data” and “Restricted computer software” are defined in the contract clause entitled “Rights in Data-General.”
 
-[67 FR 38905, June 6, 2002, as amended at 69 FR 13261, Mar. 22, 2004; 69 FR 44610, July 27, 2004]
+[67 FR 38905, June 6, 2002, as amended at 69 FR 13261, Mar. 22, 2004; 69 FR 44610, July 27, 2004; 88 FR 64385, Sept. 19, 2023]
