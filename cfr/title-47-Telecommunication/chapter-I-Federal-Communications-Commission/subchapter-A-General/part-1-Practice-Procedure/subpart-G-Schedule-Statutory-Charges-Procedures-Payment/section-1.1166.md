@@ -1,5 +1,7 @@
 ##### § 1.1166 Waivers, reductions and deferrals of regulatory fees. #####
 
+Link to an amendment published at 88 FR 63747, Sept. 15, 2023.
+
 The fees established by §§ 1.1152 through 1.1156 and associated interest charges and penalties may be waived, reduced or deferred in specific instances, on a case-by-case basis, where good cause is shown and where waiver, reduction or deferral of such fees, interest charges and penalties would promote the public interest. Requests for waivers, reductions or deferrals of regulatory fees for entire categories of payors will not be considered.
 
 (a) Requests for waivers, reductions or deferrals should be filed with the Commission's Secretary and will be acted upon by the Managing Director with the concurrence of the General Counsel. All such filings within the scope of the fee rules shall be filed as a separate pleading and clearly marked to the attention of the Managing Director. Any such request that is not filed as a separate pleading will not be considered by the Commission.

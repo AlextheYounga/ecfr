@@ -1,69 +1,73 @@
 ##### § 1.1153 Schedule of annual regulatory fees and filing locations for mass media services. #####
 
-Table 1 to § 1.1153
+|                     Radio [AM and FM] (47 CFR part 73)                      |  Fee amount   |
+|-----------------------------------------------------------------------------|---------------|
+|                               1. AM Class A:                                |               |
+|                             ≤10,000 population                              |     $595      |
+|                          10,001-25,000 population                           |      990      |
+|                          25,001-75,000 population                           |     1,485     |
+|                          75,001-150,000 population                          |     2,230     |
+|                         150,001-500,000 population                          |     3,345     |
+|                        500,001-1,200,000 population                         |     5,010     |
+|                       1,200,001-3,000,000 population                        |     7,525     |
+|                       3,000,001-6,000,000 population                        |    11,275     |
+|                           \>6,000,000 population                            |    16,920     |
+|                               2. AM Class B:                                |               |
+|                             ≤10,000 population                              |      430      |
+|                          10,001-25,000 population                           |      715      |
+|                          25,001-75,000 population                           |     1,075     |
+|                          75,001-150,000 population                          |     1,610     |
+|                         150,001-500,000 population                          |     2,415     |
+|                        500,001-1,200,000 population                         |     3,620     |
+|                       1,200,001-3,000,000 population                        |     5,435     |
+|                       3,000,001-6,000,000 population                        |     8,145     |
+|                           \>6,000,000 population                            |    12,220     |
+|                               3. AM Class C:                                |               |
+|                             ≤10,000 population                              |      370      |
+|                          10,001-25,000 population                           |      620      |
+|                          25,001-75,000 population                           |      930      |
+|                          75,001-150,000 population                          |     1,395     |
+|                         150,001-500,000 population                          |     2,095     |
+|                        500,001-1,200,000 population                         |     3,135     |
+|                       1,200,001-3,000,000 population                        |     4,710     |
+|                       3,000,001-6,000,000 population                        |     7,060     |
+|                           \>6,000,000 population                            |    10,595     |
+|                               4. AM Class D:                                |               |
+|                             ≤10,000 population                              |      410      |
+|                          10,001-25,000 population                           |      680      |
+|                          25,001-75,000 population                           |               |
+|                          75,001-150,000 population                          |     1,530     |
+|                         150,001-500,000 population                          |     2,300     |
+|                        500,001-1,200,000 population                         |     3,440     |
+|                       1,200,001-3,000,000 population                        |     5,170     |
+|                       3,000,001-6,000,000 population                        |     7,745     |
+|                           \>6,000,000 population                            |    11,620     |
+|                          5. AM Construction Permit                          |      620      |
+|                         6. FM Classes A, B1 and C3:                         |               |
+|                             ≤10,000 population                              |      650      |
+|                          10,001-25,000 population                           |     1,085     |
+|                          25,001-75,000 population                           |     1,630     |
+|                          75,001-150,000 population                          |     2,440     |
+|                         150,001-500,000 population                          |     3,665     |
+|                        500,001-1,200,000 population                         |     5,490     |
+|                       1,200,001-3,000,000 population                        |     8,245     |
+|                       3,000,001-6,000,000 population                        |    12,360     |
+|                           \>6,000,000 population                            |    18,545     |
+|                     7. FM Classes B, C, C0, C1 and C2:                      |               |
+|                             ≤10,000 population                              |      745      |
+|                          10,001-25,000 population                           |     1,240     |
+|                          25,001-75,000 population                           |     1,860     |
+|                          75,001-150,000 population                          |     2,790     |
+|                         150,001-500,000 population                          |     4,190     |
+|                        500,001-1,200,000 population                         |     6,275     |
+|                       1,200,001-3,000,000 population                        |     9,425     |
+|                       3,000,001-6,000,000 population                        |    14,125     |
+|                           \>6,000,000 population                            |    21,190     |
+|                         8. FM Construction Permits:                         |     1,085     |
+|                           **TV (47 CFR part 73)**                           |               |
+|              9. Digital TV (UHF and VHF Commercial Stations):               |               |
+|                     1. Digital TV Construction Permits                      |     5,100     |
+|                          2. Television Fee Factor                           |.007799 per pop|
+|10. Low Power TV, Class A TV, FM Translator, & TV/FM Booster (47 CFR part 74)|      260      |
 
-|                     Radio [AM and FM] (47 CFR part 73)                      |         Fee amount          |
-|-----------------------------------------------------------------------------|-----------------------------|
-|                               1. AM Class A:                                |                             |
-|                            \<=25,000 population                             |           $1,050.           |
-|                          25,001-75,000 population                           |           1,575.            |
-|                          75,001-150,000 population                          |           2,365.            |
-|                         150,001-500,000 population                          |           3,550.            |
-|                        500,001-1,200,000 population                         |           5,315.            |
-|                       1,200,001-3,000,000 population                        |           7,980.            |
-|                       3,000,001-6,000,000 population                        |           11,960.           |
-|                           \>6,000,000 population                            |           17,945.           |
-|                               2. AM Class B:                                |                             |
-|                             ≤25,000 population                              |            755.             |
-|                          25,001-75,000 population                           |           1,135.            |
-|                          75,001-150,000 population                          |           1,700.            |
-|                         150,001-500,000 population                          |           2,550.            |
-|                        500,001-1,200,000 population                         |           3,820.            |
-|                       1,200,001-3,000,000 population                        |           5,740.            |
-|                       3,000,001-6,000,000 population                        |           8,600.            |
-|                           \>6,000,000 population                            |           12,905.           |
-|                               3. AM Class C:                                |                             |
-|                             ≤25,000 population                              |            655.             |
-|                          25,001-75,000 population                           |            985.             |
-|                          75,001-150,000 population                          |           1,475.            |
-|                         150,001-500,000 population                          |           2,215.            |
-|                        500,001-1,200,000 population                         |           3,315.            |
-|                       1,200,001-3,000,000 population                        |           4,980.            |
-|                       3,000,001-6,000,000 population                        |           7,460.            |
-|                           \>6,000,000 population                            |           11,195.           |
-|                               4. AM Class D:                                |                             |
-|                             ≤25,000 population                              |            720.             |
-|                          25,001-75,000 population                           |           1,080.            |
-|                          75,001-150,000 population                          |           1,620.            |
-|                         150,001-500,000 population                          |           2,435.            |
-|                        500,001-1,200,000 population                         |           3,645.            |
-|                       1,200,001-3,000,000 population                        |           5,470.            |
-|                       3,000,001-6,000,000 population                        |           8,200.            |
-|                           \>6,000,000 population                            |           12,305.           |
-|                          5. AM Construction Permit                          |            655.             |
-|                         6. FM Classes A, B1 and C3:                         |                             |
-|                             ≤25,000 population                              |           1,145.            |
-|                          25,001-75,000 population                           |           1,720.            |
-|                          75,001-150,000 population                          |           2,575.            |
-|                         150,001-500,000 population                          |           3,870.            |
-|                        500,001-1,200,000 population                         |           5,795.            |
-|                       1,200,001-3,000,000 population                        |           8,700.            |
-|                       3,000,001-6,000,000 population                        |           13,040.           |
-|                           \>6,000,000 population                            |           19,570.           |
-|                     7. FM Classes B, C, C0, C1 and C2:                      |                             |
-|                             ≤25,000 population                              |           1,310.            |
-|                          25,001-75,000 population                           |           1,965.            |
-|                          75,001-150,000 population                          |           2,950.            |
-|                         150,001-500,000 population                          |           4,430.            |
-|                        500,001-1,200,000 population                         |           6,630.            |
-|                       1,200,001-3,000,000 population                        |           9,955.            |
-|                       3,000,001-6,000,000 population                        |           14,920.           |
-|                           \>6,000,000 population                            |           22,390.           |
-|                         8. FM Construction Permits                          |           1,145.            |
-|                             TV (47 CFR part 73)                             |                             |
-|              9. Digital TV (UHF and VHF Commercial Stations):               |                             |
-|                     1. Digital TV Construction Permits                      |           5,200.            |
-|                          2. Television Fee Factor                           |.008430 per population count.|
-|10. Low Power TV, Class A TV, FM Translator, & TV/FM Booster (47 CFR part 74)|            330.             |
-
-[87 FR 56555, Sept. 14, 2022]
+[88 FR 63744, Sept. 15, 2023]

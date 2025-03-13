@@ -625,7 +625,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |    Hayes Center    |                         6                         |   |
 |      Kearney       |                        18                         |   |
 |     Lexington      |                       \*26                        |   |
-|      Lincoln       |                  8, 10, \*12, 15                  |   |
+|      Lincoln       |                  8, 10, 15, \*27                  |   |
 |       McCook       |                        12                         |   |
 |      Merriman      |                       \*12                        |   |
 |      Missoula      |                 \*11, 20, 23, 25                  |   |
