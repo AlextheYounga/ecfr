@@ -1,7 +1,5 @@
 ##### § 245.9 Special assistance certification and reimbursement alternatives. #####
 
-Link to an amendment published at 88 FR 65794, Sept. 26, 2023.
-
 (a) *Provision 1.* A Local educational agency of a school having at least 80 percent of its enrolled children determined eligible for free or reduced price meals may, at its option, authorize the school to reduce annual certification and public notification for those children eligible for *free meals* to once every two consecutive school years. This alternative shall be known as provision 1 and the following requirements shall apply:
 
 (1) A Local educational agency of a school operating under provision 1 requirements shall publicly notify in accordance with § 245.5, parents of enrolled children who are receiving free meals once every two consecutive school years, and shall publicly notify in accordance with § 245.5, parents of all other enrolled children on an annual basis.
@@ -114,7 +112,7 @@ Link to an amendment published at 88 FR 65794, Sept. 26, 2023.
 
 (3) *Eligibility criteria.* To be eligible to participate in the community eligibility provision, a local educational agency (except a residential child care institution, as defined under the definition of “School” in § 210.2), group of schools, or school must meet the eligibility criteria set forth in this paragraph.
 
-(i) *Minimum identified student percentage.* A local educational agency, group of schools, or school must have an identified student percentage of at least 40 percent, as of April 1 of the school year prior to participating in the community eligibility provision, unless otherwise specified by FNS. Individual schools participating in a group may have less than 40 percent identified students, provided that the average identified student percentage for the group is at least 40 percent.
+(i) *Minimum identified student percentage.* A local educational agency, group of schools, or school must have an identified student percentage of at least 25 percent, as of April 1 of the school year prior to participating in the community eligibility provision, unless otherwise specified by FNS. Individual schools participating in a group may have less than 25 percent identified students, provided that the average identified student percentage for the group is at least 25 percent.
 
 (ii) *Lunch and breakfast program participation.* A local educational agency, group of schools, or school must participate in the National School Lunch Program and School Breakfast Program, under parts 210 and 220 of this title, for the duration of the 4-year cycle. Schools that operate on a limited schedule, where it is not operationally feasible to offer both lunch and breakfast, may elect CEP with FNS approval.
 
@@ -144,31 +142,31 @@ Link to an amendment published at 88 FR 65794, Sept. 26, 2023.
 
 (viii) *New 4-year cycle.* To begin a new 4-year cycle, local educational agencies or schools must establish a new identified student percentage as of April 1 prior to the 4-year cycle. If the local educational agency, group of schools, or school meet the eligibility criteria set forth in paragraph (f)(3) of this section, a new 4-year cycle may begin.
 
-(ix) *Grace year.* A local educational agency, group of schools, or school with an identified student percentage of less than 40 percent but equal to or greater than 30 percent as of April 1 of the fourth year of a community eligibility cycle may continue using community eligibility for a grace year that continues the 4-year cycle for one additional, or fifth, year. If the local educational agency, group of schools, or school regains the 40 percent threshold as of April 1 of the grace year, the State agency may authorize a new 4-year cycle for the following school year. If the local educational agency, group of schools, or school does not regain the required threshold as of April 1 of the grace year, they must return to collecting household applications in the following school year in accordance with paragraph (j) of this section. Reimbursement in a grace year is determined by multiplying the identified student percentage at the local educational agency, group of schools, or school as of April 1 of the fourth year of the 4-year CEP cycle by the 1.6 multiplier.
+(ix) *Grace year.* A local educational agency, group of schools, or school with an identified student percentage of less than 25 percent but equal to or greater than 15 percent as of April 1 of the fourth year of a community eligibility cycle may continue using community eligibility for a grace year that continues the 4-year cycle for one additional, or fifth, year. If the local educational agency, group of schools, or school regains the 25 percent threshold as of April 1 of the grace year, the State agency may authorize a new 4-year cycle for the following school year. If the local educational agency, group of schools, or school does not regain the required threshold as of April 1 of the grace year, they must return to collecting household applications in the following school year in accordance with paragraph (j) of this section. Reimbursement in a grace year is determined by multiplying the identified student percentage at the local educational agency, group of schools, or school as of April 1 of the fourth year of the 4-year CEP cycle by the 1.6 multiplier.
 
 (5) *Identification of potential community eligibility schools.* No later than April 15 of each school year, each local educational agency must submit to the State agency a list(s) of schools as described in this paragraph. The State agency may exempt local educational agencies from this requirement if the State agency already collects the required information. The list(s) must include:
 
-(i) Schools with an identified student percentage of at least 40 percent;
+(i) Schools with an identified student percentage of at least 25 percent;
 
-(ii) Schools with an identified student percentage that is less than 40 percent but greater than or equal to 30 percent; and
+(ii) Schools with an identified student percentage that is less than 25 percent but greater than or equal to 15 percent; and
 
-(iii) Schools currently in year 4 of the community eligibility provision with an identified student percentage that is less than 40 percent but greater than or equal to 30 percent.
+(iii) Schools currently in year 4 of the community eligibility provision with an identified student percentage that is less than 25 percent but greater than or equal to 15 percent.
 
 (6) *State agency notification requirements.* No later than April 15 of each school year, the State agency must notify the local educational agencies described in this paragraph about their community eligibility status. Each State agency must notify:
 
-(i) Local educational agencies with an identified student percentage of at least 40 percent district wide, of the potential to participate in community eligibility in the subsequent year; the estimated cash assistance the local educational agency would receive; and the procedures to participate in community eligibility.
+(i) Local educational agencies with an identified student percentage of at least 25 percent district wide, of the potential to participate in community eligibility in the subsequent year; the estimated cash assistance the local educational agency would receive; and the procedures to participate in community eligibility.
 
-(ii) Local educational agencies with an identified student percentage that is less than 40 percent district wide but greater than or equal to 30 percent, that they may be eligible to participate in community eligibility in the subsequent year if they meet the eligibility requirements set forth in paragraph (f)(3) of this section as of April 1.
+(ii) Local educational agencies with an identified student percentage that is less than 25 percent district wide but greater than or equal to 15 percent, that they may be eligible to participate in community eligibility in the subsequent year if they meet the eligibility requirements set forth in paragraph (f)(3) of this section as of April 1.
 
 (iii) Local educational agencies currently using community eligibility district wide, of the options available in establishing claiming percentages for next school year.
 
-(iv) Local educational agencies currently in year 4 with an identified student percentage district wide that is less than 40 percent but greater than or equal to 30 percent, of the grace year eligibility.
+(iv) Local educational agencies currently in year 4 with an identified student percentage district wide that is less than 25 percent but greater than or equal to 15 percent, of the grace year eligibility.
 
 (7) *Public notification requirements.* By May 1 of each school year, the State agency must make the following information readily accessible on its Web site in a format prescribed by FNS:
 
-(i) The names of schools identified in paragraph (f)(5) of this section, grouped as follows: Schools with an identified student percentage of least 40 percent, schools with an identified student percentage of less than 40 percent but greater than or equal to 30 percent, and schools currently in year 4 of the community eligibility provision with an identified student percentage that is less than 40 percent but greater than or equal to 30 percent.
+(i) The names of schools identified in paragraph (f)(5) of this section, grouped as follows: Schools with an identified student percentage of least 25 percent, schools with an identified student percentage of less than 25 percent but greater than or equal to 15 percent, and schools currently in year 4 of the community eligibility provision with an identified student percentage that is less than 25 percent but greater than or equal to 15 percent.
 
-(ii) The names of local educational agencies receiving State agency notification as required under paragraph (f)(6) of this section, grouped as follows: Local educational agencies with an identified student percentage of at least 40 percent district wide, local educational agencies with an identified student percentage that is less than 40 percent district wide but greater than or equal to 30 percent, local educational agencies currently using community eligibility district wide, and local educational agencies currently in year 4 with an identified student percentage district wide that is less than 40 percent but greater than or equal to 30 percent.
+(ii) The names of local educational agencies receiving State agency notification as required under paragraph (f)(6) of this section, grouped as follows: Local educational agencies with an identified student percentage of at least 25 percent district wide, local educational agencies with an identified student percentage that is less than 25 percent district wide but greater than or equal to 15 percent, local educational agencies currently using community eligibility district wide, and local educational agencies currently in year 4 with an identified student percentage district wide that is less than 25 percent but greater than or equal to 15 percent.
 
 (iii) The State agency must maintain eligibility lists as described in paragraphs (i) and (ii) of this section until such time as new lists are made available annually by May 1.
 

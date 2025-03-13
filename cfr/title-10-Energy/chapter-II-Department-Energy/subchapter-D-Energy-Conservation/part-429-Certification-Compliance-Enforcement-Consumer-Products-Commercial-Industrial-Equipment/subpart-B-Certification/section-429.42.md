@@ -1,7 +1,5 @@
 ##### § 429.42 Commercial refrigerators, freezers, and refrigerator-freezers. #####
 
-Link to an amendment published at 88 FR 66221, Sept. 26, 2023.
-
 (a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model of commercial refrigerator, freezer, or refrigerator-freezer either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM.
 
 (1) *Units to be tested.* (i) If the represented value for a given basic model is determined through testing, the general requirements of § 429.11 are applicable; and
@@ -34,6 +32,14 @@ Link to an amendment published at 88 FR 66221, Sept. 26, 2023.
 
 (ii) Any represented value of energy efficiency or other measure of energy consumption of a basic model for which consumers would favor higher values shall be less than or equal to the output of the AEDM and greater than or equal to the Federal standard for that basic model.
 
+(3) *Represented value calculations.* The volume and total display area (TDA) of a basic model, as applicable, is the mean of the measured volumes and the mean of the measured TDAs, as applicable, for the tested units of the basic model, based on the same tests used to determine energy consumption.
+
+(4) *Convertible equipment.* Each basic model of commercial refrigerator, freezer, or refrigerator-freezer that is capable of operating at integrated average temperatures that spans the operating temperature range of multiple equipment classes, either by adjusting a thermostat for a basic model or by the marketed, designed, or intended operation for a basic model with a remote condensing unit but without a thermostat, must determine the represented values, which includes the certified ratings, either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM to comply with the requirements necessary to certify to each equipment class that the basic model is capable of operating within.
+
+(i) *Customer order storage cabinets.* For customer order storage cabinets that have individual-secured compartments that are convertible between the ≥32 °F and \<32 °F operating temperatures, the customer order storage cabinets must determine the represented values, which includes the certified ratings, either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM, with all convertible compartments operating either as medium temperature refrigerators or all convertible compartments as low-temperature freezers, or at the lowest application product temperature for each equipment class as specified in § 431.64 of this chapter, to comply with the requirements necessary to certify to each equipment class that the basic model is capable of operating within.
+
+(ii) [Reserved]
+
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to commercial refrigerators, freezers, and refrigerator-freezers; and
 
 (2) Pursuant to § 429.12(b)(13), a certification report must include the following public, equipment-specific information:
@@ -52,4 +58,4 @@ Link to an amendment published at 88 FR 66221, Sept. 26, 2023.
 
 (4) Pursuant to § 429.12(b)(13), a certification report must include supplemental information submitted in PDF format. The equipment-specific, supplemental information must include any additional testing and testing set up instructions (*e.g.,* charging instructions) for the basic model; identification of all special features that were included in rating the basic model; and all other information (*e.g.,* any specific settings or controls) necessary to operate the basic model under the required conditions specified by the relevant test procedure. A manufacturer may also include with a certification report other supplementary items in PDF format (*e.g.,* manuals) for DOE to consider when performing testing under subpart C of this part.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24775, May 2, 2011, as amended at 76 FR 38292, June 30, 2011; 78 FR 79593, Dec. 31, 2013; 79 FR 22307, Apr. 21, 2014; 79 FR 25501, May 5, 2014; 80 FR 151, Jan. 5, 2015]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24775, May 2, 2011, as amended at 76 FR 38292, June 30, 2011; 78 FR 79593, Dec. 31, 2013; 79 FR 22307, Apr. 21, 2014; 79 FR 25501, May 5, 2014; 80 FR 151, Jan. 5, 2015; 88 FR 66221, Sept. 26, 2023]

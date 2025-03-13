@@ -1,7 +1,5 @@
 ##### § 429.72 Alternative methods for determining non-energy ratings. #####
 
-Link to an amendment published at 88 FR 66222, Sept. 26, 2023.
-
 (a) *General.* Where § 429.14 through § 429.562 authorize the use of an alternative method for determining a physical or operating characteristic other than the energy consumption or efficiency, such characteristics must be determined either by testing in accordance with the applicable test procedure and applying the specified sampling plan provisions established in those sections or as described in the appropriate product-specific paragraph below. In all cases, the computer-aided design (CAD) models, measurements, and calculations used to determine the rating for the physical or operating characteristic shall be retained as part of the test records underlying the certification of the basic model in accordance with § 429.71.
 
 (b) *Testing.* [Reserved]
@@ -12,4 +10,6 @@ Link to an amendment published at 88 FR 66222, Sept. 26, 2023.
 
 (e) *Commercial gas-fired and oil-fired instantaneous water heaters and hot water supply boilers.* The storage volume of a commercial gas-fired or oil-fired instantaneous water heater or a commercial gas-fired or oil-fired hot water supply boiler basic model may be determined by performing a calculation of the stored water volume based upon design drawings (including computer-aided design (CAD) models) or physical dimensions of the basic model. Any value of storage volume of a basic model reported to DOE in a certification of compliance in accordance with § 429.44(c)(2)(iv) and (v) must be calculated using the design drawings or physical dimensions, or measured as per the applicable provisions in the test procedures in 10 CFR 431.106. The storage volume determination must include all water contained within the water heater from the inlet connection to the outlet connection(s). The storage volume of water contained in the water heater must then be computed in gallons.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 46790, July 18, 2016; 81 FR 79320, Nov. 10, 2016]
+(f) *Commercial refrigerators, freezers, and refrigerator-freezers.* The volume of a basic model of a commercial refrigerator, refrigerator-freezer, or freezer may be determined by performing a calculation of the volume based upon computer-aided design (CAD) models of the basic model in lieu of physical measurements of a production unit of the basic model. If volume is determined by performing a calculation of volume based on CAD drawings, any value of volume of the basic model reported to DOE in a certification of compliance in accordance with § 429.42(b)(2)(iii) must be calculated using the CAD-derived volume(s) and the applicable provisions in the test procedures in 10 CFR part 431.64 for measuring volume.
+
+[79 FR 22348, Apr. 21, 2014, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 46790, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 88 FR 66222, Sept. 26, 2023]

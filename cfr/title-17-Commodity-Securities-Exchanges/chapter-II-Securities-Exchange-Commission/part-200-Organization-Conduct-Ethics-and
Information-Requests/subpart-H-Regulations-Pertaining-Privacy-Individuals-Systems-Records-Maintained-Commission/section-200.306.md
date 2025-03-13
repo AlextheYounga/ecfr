@@ -1,11 +1,23 @@
-##### § 200.306 Requests for amendment or correction of records. #####
+##### § 200.306 Review of requests for amendment or correction. #####
 
-(a) *Place to make requests.* A written request by an individual to amend or correct records pertaining to him or her may be hand delivered during normal business hours to the SEC, Operations Center, Room 1418, 6432 General Green Way, Alexandria, VA 22312-2414, or be sent by mail to the Office of Information and Privacy Act Operations, SEC, Operations Center, 6432 General Green Way, Alexandria, VA 22312-2413, or by facsimile (703-914-1149).
+(a) *Initial review.* Requests for amendment or correction to records pertaining to that individual will be referred to the Commission's Office of FOIA Services for an initial determination.
 
-(1) *Information to be included in requests.* Each request to amend or correct a Commission record shall reasonably describe the record sought to be amended or corrected. Such description should include, for example, relevant names, dates and subject matter to permit the record to be located among the records maintained by the Commission. An individual who has requested that a record pertaining to him be amended or corrected will be advised promptly if the record cannot be located on the basis of the description given and that further identifying information is necessary before his request can be processed. An initial evaluation of a request presented in person will be made immediately to ensure that the request is complete and to indicate what, if any, additional information will be required. Verification of the individual's identity as set forth in § 200.303(a) (2), (3), (4) and (5) may also be required.
+(b) *Time for acting on requests.* Initial review of a request for amendment or correction will be completed promptly and the Office of FOIA Services will endeavor to respond to a request within 30 days (excluding Saturdays, Sundays, and Federal holidays) from the date the request was received, unless circumstances preclude completion of review within that time. If the anticipated completion date indicated in the acknowledgement cannot be met, the requester will be advised in writing of the delay and the reasons for the delay, and also advised when action is expected to be completed.
 
-(2) *Basis for amendment or correction.* An individual requesting an amendment or correction to a record pertaining to him shall specify the substance of the amendment or correction and set forth facts and provide such materials that would support his contention that the record pertaining to him as maintained by the Commission is not accurate, timely or complete, or that the record is not necessary and relevant to accomplish a statutory purpose of the Commission as authorized by law or by Executive Order of the President.
+(c) *Grant of requests for amendment or correction.* If a request for amendment or correction is granted in whole or in part, the Office of FOIA Services will:
 
-(b) *Acknowledgement of requests for amendment or correction.* Receipt of a request to amend or correct a record pertaining to an individual normally will be acknowledged in writing within 10 days after such request has been received. When a request to amend or correct is made in person, the individual making the request will be given a written acknowledgement when the request is presented. The acknowledgement will describe the request received and indicate when it is anticipated that action will be taken on the request. No acknowledgement will be sent when the request for amendment or correction will be reviewed, and an initial decision made, within 10 days from the date the request is received.
+(1) Advise the requester in writing of the extent to which it has been granted;
 
-[40 FR 44068, Sept. 24, 1975, as amended at 47 FR 26819, June 22, 1982; 65 FR 55186, Sept. 13, 2000]
+(2) Amend or correct the record accordingly; and
+
+(3) Where an accounting of disclosures of the record has been kept pursuant to 5 U.S.C. 552a(c), advise all previous recipients of the record of the fact that the record has been amended or corrected and the substance of the amendment or correction.
+
+(d) *Denial of requests for amendment or correction.* If the request for amendment or correction is denied in whole or in part, the Office of FOIA Services will:
+
+(1) Promptly advise the requester in writing of the extent to which the request has been denied;
+
+(2) State the reasons for the denial of the request;
+
+(3) Describe the procedures to appeal the denial of the request for amendment or correction, including the name and address of the person to whom the appeal is to be addressed; and
+
+(4) Inform the requester that the Office of FOIA Services will provide information and assistance to the individual in perfecting an appeal of the initial decision.

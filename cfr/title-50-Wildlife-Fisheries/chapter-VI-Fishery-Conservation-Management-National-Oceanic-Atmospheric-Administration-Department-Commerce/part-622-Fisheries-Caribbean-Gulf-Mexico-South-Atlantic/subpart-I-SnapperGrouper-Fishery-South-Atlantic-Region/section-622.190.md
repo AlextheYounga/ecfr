@@ -1,7 +1,5 @@
 ##### § 622.190 Quotas. #####
 
-Link to an amendment published at 88 FR 65822, Sept. 26, 2023.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section provides quotas and specific quota closure restrictions for South Atlantic snapper-grouper.
 
 (a) *South Atlantic snapper-grouper, excluding wreckfish.* The quotas apply to persons who are not subject to the bag limits. (See § 622.11 for applicability of the bag limits.) The quotas are in gutted weight, that is eviscerated but otherwise whole, except for the quotas in paragraphs (a)(4) through (6) of this section which are in both gutted weight and round weight.
@@ -18,11 +16,25 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (iii) *Longline component*—248,805 lb (112,856 kg).
 
-(3) *Greater amberjack*—(i) For the period March 1 through August 31 each year—461,633 lb (209,393 kg).
+(3) *Greater amberjack*—(i) For the period of March 1 through August 31 each year.
 
-(ii) For the period September 1 through the end of February each year—307,755 lb (139,595 kg).
+(A) For the 2023-2024 fishing year, 652,817 lb (296,113 kg).
 
-(iii) Any unused portion of the quota specified in paragraph (a)(3)(i) of this section will be added to the quota specified in paragraph (a)(3)(ii) of this section. Any unused portion of the quota specified in paragraph (a)(3)(ii) of this section, including any addition of quota specified in paragraph (a)(3)(i) of this section that was unused, will become void and will not be added to any subsequent quota.
+(B) For the 2024-2025 fishing year, 569,019 lb (258,103 kg).
+
+(C) For the 2025-2026 fishing year, 544,990 lb (247,203 kg).
+
+(D) For the 2026-2027 and subsequent fishing years, 538,933 lb (244,456 kg).
+
+(ii) For the period of September 1 through the end of February each year.
+
+(A) For the 2023-2024 fishing year, 435,212 lb (197,409 kg).
+
+(B) For the 2024-2025 fishing year, 379,346 lb (172,068 kg).
+
+(C) For the 2025-2026 fishing year, 363,327 lb (164,802 kg).
+
+(D) For the 2026-2027 and subsequent fishing years, 359,288 lb (162,970 kg).
 
 (4) *Vermilion snapper.* (i) For the period January through June each year.
 
@@ -130,4 +142,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019; 85 FR 4594, Jan. 27, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019; 85 FR 4594, Jan. 27, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023; 88 FR 65822, Sept. 26, 2023]

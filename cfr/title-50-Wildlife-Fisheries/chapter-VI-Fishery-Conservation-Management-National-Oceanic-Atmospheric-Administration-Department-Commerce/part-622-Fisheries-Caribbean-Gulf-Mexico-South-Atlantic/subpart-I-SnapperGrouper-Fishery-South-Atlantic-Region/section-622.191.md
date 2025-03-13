@@ -1,7 +1,5 @@
 ##### § 622.191 Commercial trip limits. #####
 
-Link to an amendment published at 88 FR 65823, Sept. 26, 2023.
-
 Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. A species subject to a trip limit specified in this section taken in the EEZ may not be transferred at sea, regardless of where such transfer takes place, and such species may not be transferred in the EEZ. Commercial trip limits apply as follows (all weights are round or eviscerated weights unless specified otherwise):
 
 (a) When a vessel fishes on a trip in the South Atlantic EEZ, the vessel trip limits specified in this paragraph (a) apply, provided persons aboard the vessel are not subject to the bag limits. See § 622.11 and § 622.187(a) for applicability of the bag limits.
@@ -22,11 +20,7 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (ii) From May 1 through December 31—15 fish.
 
-(5) *Greater amberjack.* The following commercial trip limits apply until the applicable commercial quota specified in § 622.190(a)(3) is reached. See § 622.190(c)(1) for the limitations regarding greater amberjack after the applicable commercial quota is reached.
-
-(i) From March 1 through August 31—1,200 lb (544 kg).
-
-(ii) From September 1 through the end of February—1,000 lb (454 kg).
+(5) Until the applicable commercial quota specified in § 622.190(a)(3) is reached—1,200 lb (544 kg). See § 622.190(c)(1) for the limitations regarding greater amberjack after the applicable commercial quota is reached.
 
 (6) *Vermilion snapper.* Until the applicable commercial quota specified in § 622.190(a)(4) is reached—1,000 lb (454 kg), gutted weight. See § 622.190(c)(1) for the limitations regarding vermilion snapper after the applicable commercial quota is reached.
 
@@ -68,4 +62,4 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (b) When a vessel fishes for hogfish on a trip in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida, the vessel trip limit specified in paragraph (a)(12)(ii) of this section applies, provided persons aboard are not subject to the bag limit. See § 622.11(a) and § 622.187(a) for applicability of the bag limit.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 44465, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 16587, Mar. 30, 2015; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 81 FR 32253, May 23, 2016; 81 FR 45248, July 13, 2016; 82 FR 11157, Feb. 21, 2017; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018; 83 FR 35435, July 26, 2018; 85 FR 4594, Jan. 27, 2020; 85 FR 6828, Feb. 6, 2020; 87 FR 77748, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 44465, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 16587, Mar. 30, 2015; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 81 FR 32253, May 23, 2016; 81 FR 45248, July 13, 2016; 82 FR 11157, Feb. 21, 2017; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018; 83 FR 35435, July 26, 2018; 85 FR 4594, Jan. 27, 2020; 85 FR 6828, Feb. 6, 2020; 87 FR 77748, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023; 88 FR 65823, Sept. 26, 2023]

@@ -1,7 +1,17 @@
-##### § 200.310 Fees. #####
+##### § 200.310 Specific exemptions. #####
 
-(a) A request by an individual for copies of a record pertaining to him or her that is maintained by the Commission may be sent by mail to the Office of Freedom of Information and Privacy Act Operations, SEC, Operations Center, 6432 General Green Way, Alexandria, VA 22312-2413, or by facsimile (703-914-1149). There will be no charge assessed to the individual for the Commission's expense involved in searching for or reviewing the record. Copies of the Commission's records will be provided by a commercial copier or by the Commission at rates established by a contract between the copier and the Commission.
+(a) Pursuant to, and limited by 5 U.S.C. 552a(k)(2), the following systems of records maintained by the Commission are exempt from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G), (e)(4)(H), and (e)(4)(I), and (f), and §§ 200.303, 200.305, and 200.307, insofar as they contain investigatory materials compiled for law enforcement purposes:
 
-(b) *Waiver or reduction of fees.* Whenever the Privacy Act Officer determines that good cause exists to grant a request for reduction or waiver of fees for copying documents, he or she may reduce or waive any such fees.
+(1) Enforcement Files;
 
-(Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d-2; Pub. L. 93-502; 11 U.S.C. 901, 1109(a))[42 FR 56727, Oct. 28, 1977, as amended at 47 FR 26819, June 22, 1982; 49 FR 12686, Mar. 30, 1984; 50 FR 50287, Dec. 10, 1985; 65 FR 55186, Sept. 13, 2000]
+(2) Office of the General Counsel Working Files;
+
+(3) Office of the Chief Accountant Working Files;
+
+(4) Correspondence Response System;
+
+(5) Tips, Complaints, and Referrals (TCR) Records; and
+
+(6) SEC Security in the Workplace Incident Records.
+
+(b) Pursuant to 5 U.S.C. 552a(k)(5), the systems of records containing the Commission's Disciplinary and Adverse Actions, Employee Conduct, and Labor Relations Files are exempt from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G), (e)(4)(H), (e)(4)(I), and (f), and §§ 200.303 through 200.309, insofar as they contain investigatory material compiled to determine an individual's suitability, eligibility, and qualifications for Federal civilian employment or access to classified information, but only to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence.
