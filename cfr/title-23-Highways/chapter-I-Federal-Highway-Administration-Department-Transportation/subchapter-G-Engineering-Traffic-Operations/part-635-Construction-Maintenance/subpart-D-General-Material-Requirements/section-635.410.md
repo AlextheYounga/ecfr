@@ -1,6 +1,6 @@
 ##### § 635.410 Buy America requirements. #####
 
-Link to an amendment published at 90 FR 2957, Jan. 14, 2025.
+Link to an amendment published at 90 FR 2957, Jan. 14, 2025.This amendment is delayed until March. 20, 2025, at 90 FR 11139, Mar. 4, 2025.
 
 (a) The provisions of this section shall prevail and be given precedence over any requirements of this subpart which are contrary to this section. However, nothing in this section shall be construed to be contrary to the requirements of § 635.409(a) of this subpart.
 

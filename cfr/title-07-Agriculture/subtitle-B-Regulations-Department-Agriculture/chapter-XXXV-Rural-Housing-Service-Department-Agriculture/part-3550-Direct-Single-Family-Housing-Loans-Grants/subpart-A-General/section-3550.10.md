@@ -1,6 +1,6 @@
 ##### § 3550.10 Definitions. #####
 
-Link to an amendment published at 90 FR 203, Jan. 3, 2025.
+Link to an amendment published at 90 FR 203, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 11099, Mar. 4, 2025.
 
 *Acceleration.* Demand for immediate repayment of the entire balance of a debt if the security instruments are breached.
 

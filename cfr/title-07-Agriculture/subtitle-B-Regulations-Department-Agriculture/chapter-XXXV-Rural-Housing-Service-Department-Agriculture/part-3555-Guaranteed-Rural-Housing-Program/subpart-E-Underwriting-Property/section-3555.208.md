@@ -1,6 +1,6 @@
 ##### § 3555.208 Special requirements for manufactured homes. #####
 
-Link to an amendment published at 90 FR 203, Jan. 3, 2025.
+Link to an amendment published at 90 FR 203, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 11099, Mar. 4, 2025.
 
 Loans may be guaranteed for manufactured homes if all the requirements in this section are met.
 

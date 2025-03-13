@@ -1,6 +1,6 @@
 ##### § 3550.73 Manufactured homes. #####
 
-Link to an amendment published at 90 FR 203, Jan. 3, 2025.
+Link to an amendment published at 90 FR 203, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 11099, Mar. 4, 2025.
 
 With the exception of the restrictions and additional requirements contained in this section, section 502 loans on manufactured homes are subject to the same conditions as all other section 502 loans.
 

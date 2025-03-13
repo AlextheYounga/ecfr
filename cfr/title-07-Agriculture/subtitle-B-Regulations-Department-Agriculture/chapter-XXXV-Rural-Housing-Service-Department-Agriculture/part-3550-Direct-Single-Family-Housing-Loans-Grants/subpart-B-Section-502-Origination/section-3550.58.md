@@ -1,6 +1,6 @@
 ##### § 3550.58 Ownership requirements. #####
 
-Link to an amendment published at 90 FR 203, Jan. 3, 2025.
+Link to an amendment published at 90 FR 203, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 11099, Mar. 4, 2025.
 
 After the loan is closed, the borrower must have an acceptable interest in the property as evidenced by one of the following.
 

@@ -1,6 +1,6 @@
 ##### § 3550.52 Loan purposes. #####
 
-Link to an amendment published at 90 FR 203, Jan. 3, 2025.
+Link to an amendment published at 90 FR 203, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 11099, Mar. 4, 2025.
 
 Section 502 funds may be used to buy, build, rehabilitate, improve, or relocate an eligible dwelling and provide related facilities for use by the borrower as a permanent residence. In limited circumstances section 502 funds may be used to refinance existing debt.
 
