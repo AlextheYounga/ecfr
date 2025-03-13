@@ -54,9 +54,9 @@ In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 We will reduce the yield used to establish your production guarantee as necessary, based on our estimate of the effect of the following: interplanted perennial crop; removal of trees; damage; change in practices and any other circumstance on the yield potential of the insured crop. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your production guarantee as necessary at any time we become aware of the circumstance.
 
-(c) The yield used to compute your production guarantee will be determined in accordance with Actual Production History (APH) regulations, 7 CFR part 400, subpart G, and applicable policy provisions unless damage or changes to the orchard or trees require establishment of the yield by another method. In the event of such damage or changes, the yield will be based on our appraisal of the potential of the insured acreage for the crop year.
+(c) Your approved yield will be determined in accordance with sections 3 and 5 of the Basic Provisions unless damage or changes to the orchard or trees require establishment of the yield by another method. In the event of such damage or changes, the yield will be based on our appraisal of the potential of the insured acreage for the crop year.
 
-(d) Instead of reporting your macadamia nut production for the previous crop year, as required by section 3 of the Basic Provisions, there is a one-year lag period. Each crop year you must report your production from two crop years ago, *e.g.,* on the 2024 crop year production report, you will provide your 2022 crop year production.
+(d) Instead of reporting your production for the current crop year, as required by section 3(f)(1) of the Basic Provisions, there is a lag year and you are required to report production from two crop years ago by the production reporting date, *e.g.,* 2023 crop year production must be reported by the production reporting date for the 2025 crop year.
 
 4. Contract Changes
 
@@ -210,4 +210,4 @@ You select the 65 percent coverage level and 100 percent of the price election o
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 35664, July 2, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 75 FR 15887, Mar. 30, 2010; 75 FR 59057, Sept. 27, 2010; 80 FR 20412, Apr. 16, 2015; 87 FR 38893, June 30, 2022; 87 FR 52853, Aug. 30, 2022]
+[62 FR 35664, July 2, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 75 FR 15887, Mar. 30, 2010; 75 FR 59057, Sept. 27, 2010; 80 FR 20412, Apr. 16, 2015; 87 FR 38893, June 30, 2022; 87 FR 52853, Aug. 30, 2022; 88 FR 59790, Aug. 30, 2023]

@@ -634,7 +634,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (f) A production report(s) is required for all crops with a yield-based plan of insurance, and the information contained within the production report is used to establish your approved yield(s).
 
-(1) You must report your current year's crop production on the same basis used to establish your approved yield(s), by the insured's production reporting date contained in the actuarial documents, or as otherwise specified in the Special Provisions. This production report will be used to establish approved yield(s) for the following APH crop year. Failure to timely provide this production report will result in assigned yields being used to determine your approved yield(s) for the following APH crop year. In addition to this production report, you may have to provide an additional production report at the beginning of the crop year by the production reporting date contained in the actuarial documents, as follows:
+(1) You must report your current year's crop production on the same basis used to establish your approved yield(s), by the insured's production reporting date contained in the actuarial documents, or as otherwise specified in the Crop Provisions or Special Provisions. This production report will be used to establish approved yield(s) for the following APH crop year. Failure to timely provide this production report will result in assigned yields being used to determine your approved yield(s) for the following APH crop year. In addition to this production report, you may have to provide an additional production report at the beginning of the crop year by the production reporting date contained in the actuarial documents, as follows:
 
 (i) If you are a new insured who grew the crop the year prior to the current crop year, you may report actual production for that crop year and include additional crop years, if continuous production reports are provided. Failure to provide this production report will result in variable T-Yields being used to determine your approved yield(s) for the current crop year.
 
@@ -2052,7 +2052,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (f) Failure to maintain or provide records will result in:
 
-(1) The imposition of an assigned yield in accordance with section 3(f)(1) and 7 CFR part 400, subpart G for those crop years for which you do not have the required production records to support a certified yield;
+(1) The imposition of an assigned yield in accordance with section 3(f)(1) and section 5 for those crop years for which you do not have the required production records to support a certified yield;
 
 (2) A determination that no indemnity is due if you fail to provide records necessary to determine your loss;
 
@@ -2070,7 +2070,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 22. Other Insurance
 
-(a) Other Like Insurance—Nothing in this section prevents you from obtaining other insurance not authorized under the Act. However, unless specifically required by policy provisions, you must not obtain any other crop insurance authorized under the Act on your share of the insured crop. If you cannot demonstrate that you did not intend to have more than one policy in effect, you may be subject to the consequences authorized under this policy, the Act, or any other applicable statute. If you can demonstrate that you did not intend to have more than one policy in effect (For example, an application to transfer your policy or written notification to an insurance provider that states you want to purchase, or transfer, insurance and you want any other policies for the crop canceled would demonstrate you did not intend to have duplicate policies), and:
+(a) Other Like Insurance—Nothing in this section prevents you from obtaining other insurance not authorized under the Act. However, unless specifically required by policy provisions, you must not obtain any other crop insurance authorized under the Act on your share of the insured crop. If you cannot demonstrate that you did not intend to have more than one policy in effect, you may be subject to the consequences authorized under this policy, the Act, or any other applicable statute. If you can demonstrate that you did not intend to have more than one policy in effect (for example, an application to transfer your policy or written notification to an insurance provider that states you want to purchase, or transfer, insurance and you want any other policies for the crop canceled would demonstrate you did not intend to have duplicate policies), and:
 
 (1) One is an additional coverage policy and the other is a Catastrophic Risk Protection policy:
 
@@ -2274,7 +2274,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (ii) At least two of the sections, section equivalents, FSA farm numbers, or units established by written agreement in section 34(a)(2)(i)(A), (B), (C), (D), or (F) must each have planted acreage that constitutes at least the lesser of 20 acres or 20 percent of the insured crop acreage in the enterprise unit. If there is planted acreage in more than two sections, section equivalents, FSA farm numbers or units established by written agreement in section 34(a)(2)(i)(A), (B), (C), (D), or (F), these can be aggregated to form at least two parcels to meet this requirement. For example, if sections are the basis for optional units where the insured acreage is located and you have 80 planted acres in section one, 10 planted acres in section two, and 10 planted acres in section three, you may aggregate sections two and three to meet this requirement.
 
-(iii) The crop must be insured under revenue protection or yield protection, unless otherwise specified in the Special Provisions;
+(iii) Enterprise units must be allowed by the actuarial documents;
 
 (iv) If you want to change your unit structure from enterprise units to basic or optional units in any subsequent crop year, you must maintain separate records of acreage and production:
 
@@ -2324,7 +2324,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (A) All crops in the whole-farm unit must be insured:
 
-(*1*) Under revenue protection (if you elected the harvest price exclusion for any crop, you must elect it for all crops in the whole-farm unit), unless the Special Provisions allow whole-farm units for another plan of insurance and you insure all crops in the whole-farm unit under such plan (*e.g.,* if you plant corn and soybeans for which you have elected revenue protection and you plant canola for which you have elected yield protection, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(3)(v));
+(*1*) Under revenue protection (if you elected the harvest price exclusion for any crop, you must elect it for all crops in the whole-farm unit), unless the actuarial documents allow whole-farm units for another plan of insurance and you insure all crops in the whole-farm unit under such plan (*e.g.,* if you plant corn and soybeans for which you have elected revenue protection and you plant canola for which you have elected yield protection, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(3)(v));
 
 (*2*) With us (*e.g.,* if you insure your corn and canola with us and your soybeans with a different insurance provider, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(3)(v)); and
 
@@ -2344,7 +2344,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (B) For optional units, to qualify for optional units and to be eligible to use such records to establish the production guarantee for the optional units; and
 
-(v) If we discover you do not qualify for a whole-farm unit for at least one insured crop because, even though you elected revenue protection for all your crops:
+(v) If we discover you do not qualify for a whole-farm unit for at least one insured crop because:
 
 (A) You do not meet all of the other requirements in section 34(a)(3)(i), and such discovery is made:
 

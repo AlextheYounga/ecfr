@@ -96,9 +96,9 @@ In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (3) Before or after the beginning of the insurance period and you fail to notify us by the production reporting date, an amount equal to the reduction in the yield will be added to the production to count calculated in section 12(c) of these Crop Provisions due to uninsured causes. We will reduce the yield used to establish your production guarantee for the subsequent crop year to reflect any reduction in the productive capacity of the trees or in the yield potential of the insured acreage.
 
-(f) The yield used to compute your production guarantee will be determined in accordance with Actual Production History (APH) regulations, 7 CFR part 400, subpart G, and applicable policy provisions.
+(f) Your approved yield will be determined in accordance with sections 3 and 5 of the Basic Provisions.
 
-(g) In lieu of the provisions in section 3 of the Basic Provisions that require reporting your production for the previous crop year, for each crop year you must report your production from two crop years ago (*e.g.,* on the 2018 crop year production report, you will provide your 2016 crop year production).
+(g) Instead of reporting your production for the current crop year, as required by section 3(f)(1) of the Basic Provisions, there is a lag year and you are required to report production from two crop years ago by the production reporting date, *e.g.,* 2023 crop year production must be reported by the production reporting date for the 2025 crop year.
 
 4. Contract Changes
 
@@ -254,4 +254,4 @@ If individual records of juice content are not available, an average juice conte
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[61 FR 41300, Aug. 8, 1996; 61 FR 57583, Nov. 7, 1996, as amended at 62 FR 65169, Dec. 10, 1997; 81 FR 38065, June 13, 2016; 81 FR 52590, June 10, 2016; 87 FR 38892, June 30, 2022]
+[61 FR 41300, Aug. 8, 1996; 61 FR 57583, Nov. 7, 1996, as amended at 62 FR 65169, Dec. 10, 1997; 81 FR 38065, June 13, 2016; 81 FR 52590, June 10, 2016; 87 FR 38892, June 30, 2022; 88 FR 59789, Aug. 30, 2023]

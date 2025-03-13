@@ -1,8 +1,6 @@
 ##### § 21.123 Special double-crested cormorant permit. #####
 
-Link to an amendment published at 88 FR 49355, July 31, 2023.
-
-(a) *What is the special double-crested cormorant permit, and what is its purpose?* The special double-crested cormorant (*Phalacrocorax auritus*) permit is a permit issued by the Service to State or Tribal fish and wildlife agencies that authorizes specific take activities that are normally prohibited and are intended to relieve or prevent impacts from cormorants on lands or in waters managed by those agencies and within those agencies' jurisdiction. We will issue such a permit only when we determine that an application submitted by a State or Tribal fish and wildlife agency meets the requirements set forth in paragraph (c) of this section. The take activities conducted under the permit are intended to reduce or prevent conflicts associated with cormorants for the following concerns:
+(a) *What is the special double-crested cormorant permit, and what is its purpose?* The special double-crested cormorant (*Nannopterum auritum*) permit is a permit issued by the Service to State or Tribal fish and wildlife agencies that authorizes specific take activities that are normally prohibited and are intended to relieve or prevent impacts from cormorants on lands or in waters managed by those agencies and within those agencies' jurisdiction. We will issue such a permit only when we determine that an application submitted by a State or Tribal fish and wildlife agency meets the requirements set forth in paragraph (c) of this section. The take activities conducted under the permit are intended to reduce or prevent conflicts associated with cormorants for the following concerns:
 
 (1) Depredation of fish at State- and Tribal-owned or operated aquaculture facilities, including hatcheries;
 
@@ -72,4 +70,4 @@ Link to an amendment published at 88 FR 49355, July 31, 2023.
 
 (e) *What are the OMB information collection requirements of the permit program?* OMB has approved the information collection requirements of the permit and assigned OMB Control Number 1018-0175. Federal agencies may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Direct comments regarding the burden estimate or any other aspect of the information collection to the Service's Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b).
 
-[85 FR 85555, Dec. 29, 2020. Redesignated and amended at 87 FR 881, 882, Jan. 7, 2022]
+[85 FR 85555, Dec. 29, 2020. Redesignated and amended at 87 FR 881, 882, Jan. 7, 2022; 88 FR 49355, July 31, 2023]

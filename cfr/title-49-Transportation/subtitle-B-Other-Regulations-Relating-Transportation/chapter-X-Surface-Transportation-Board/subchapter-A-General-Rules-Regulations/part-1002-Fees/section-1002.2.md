@@ -1,5 +1,7 @@
 ##### § 1002.2 Filing fees. #####
 
+Link to an amendment published at 88 FR 59806, Aug. 30, 2023.
+
 (a) *Manner of payment.* (1) Except as specified in this section, all filing fees will be payable at the time and place the application, petition, notice, tariff, contract summary, or other document is tendered for filing.
 
 (2) Filing fees for all e-filings must be paid via the Board's electronic payment system found on the Board's website. Filing fees for other filings may be paid via the electronic payment system, but will also be accepted payable to the Surface Transportation Board, either by check payable in United States currency drawn upon funds deposited in a United States or foreign bank or other financial institution, or by money order payable in United States currency.

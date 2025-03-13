@@ -68,7 +68,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationArizona
 
 (a) In addition to the requirements of section 3 of the Basic Provisions, you may select only one price election and coverage level for each citrus fruit group you elect to insure. The price election you choose for each citrus fruit group need not bear the same percentage relationship to the maximum price offered by us for each citrus fruit group. For example, if you choose one hundred percent (100%) of the maximum price election for the citrus fruit group for Valencia oranges, you may choose seventy-five percent (75%) of the maximum price election for the citrus fruit group for Navel oranges. However, if separate price elections are available by commodity type within each citrus fruit group, the price elections you choose for each commodity type must have the same percentage relationship to the maximum price offered by us for each commodity type within the citrus fruit group.
 
-(b) In lieu of reporting your citrus production of marketable fresh fruit for the previous crop year, as required by section 3 of the Basic Provisions (§ 457.8), there is a lag period of one year. Each crop year, you must report your production from two crop years ago, e.g., on the 2024 crop year production report, you will provide your 2022 crop year production.
+(b) Instead of reporting your production of marketable fresh fruit for the current crop year, as required by section 3(f)(1) of the Basic Provisions, there is a lag year and you are required to report production from two crop years ago by the production reporting date, *e.g.,* 2023 crop year production must be reported by the production reporting date for the 2025 crop year.
 
 (c) In addition, you must report, by the production reporting date designated in section 3 of the Basic Provisions (§ 457.8), by commodity type, if applicable:
 
@@ -246,4 +246,4 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[61 FR 44147, Aug. 28, 1996, as amended at 62 FR 65170, Dec. 10, 1997; 78 FR 46253, July 31, 2013; 87 FR 38892, June 30, 2022]
+[61 FR 44147, Aug. 28, 1996, as amended at 62 FR 65170, Dec. 10, 1997; 78 FR 46253, July 31, 2013; 87 FR 38892, June 30, 2022; 88 FR 59789, Aug. 30, 2023]

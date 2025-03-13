@@ -80,13 +80,13 @@ In addition to the requirements of section 3 of the Basic Provisions:
 
 (d) In the event the avocado trees are damaged to the extent that we determine the APH history you certified no longer is representative of the potential production of the unit, we will reduce your approved yield to a level consistent with that reduced potential. Such reduction will not occur for a crop year for which insurance already has attached if the damage is due to a cause of loss that is insurable for the avocado fruit.
 
-(e) In lieu of that specific provision in section 3(f) of the Basic Provisions, you are required to report the production for the crop year that ended on the October 31 immediately preceding the cancellation date. For example, you must report your production for the 2008 crop year by the production reporting date for the 2010 crop year. All other provisions of section 3(f) apply.
+(e) Instead of reporting your production for the current crop year as required by section 3(f)(1) of the Basic Provisions, you are required to report the production for the crop year that ended on the October 31 immediately preceding the cancellation date, *e.g.,* 2023 crop year production must be reported by the production reporting date for the 2025 crop year.
 
 (f) When you initially apply for insurance:
 
 (1) You must certify your production records for at least the most recently completed crop year;
 
-(2) If you do not certify your production records for any one or more of the three crop years immediately prior to the most recently completed crop year, you will be assigned a percentage of the transitional yield included in the actuarial documents for that crop year. The percentages will be those described in 7 CFR part 400 subpart G. All other provisions of 7 CFR part 400 subpart G apply.
+(2) If you do not certify your production records for any one or more of the three crop years immediately prior to the most recently completed crop year, you will be assigned a percentage of the transitional yield included in the actuarial documents for that crop year. The percentages will be those described in sections 3 and 5 of the Basic Provisions. All other provisions of sections 3 and 5 of the Basic Provisions apply.
 
 4. Contract Changes
 
@@ -258,4 +258,4 @@ Assume the unit produced 15,000 lbs. Your share is 100 percent.
 
 The indemnity is calculated as follows:
 
-2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018; 87 FR 38900, June 30, 2022; 87 FR 52854, Aug. 30, 2022]
+2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018; 87 FR 38900, June 30, 2022; 87 FR 52854, Aug. 30, 2022; 88 FR 59790, Aug. 30, 2023]
