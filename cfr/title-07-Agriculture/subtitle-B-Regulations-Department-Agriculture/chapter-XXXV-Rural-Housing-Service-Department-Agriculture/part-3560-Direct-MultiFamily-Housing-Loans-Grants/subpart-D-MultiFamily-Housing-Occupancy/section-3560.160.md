@@ -1,7 +1,5 @@
 ##### § 3560.160 Tenant grievances. #####
 
-Link to an amendment published at 89 FR 20543, Mar. 25, 2024.
-
 (a) *General.* (1) The requirements established in this section are designed to ensure that there is a fair and equitable process for addressing tenant or prospective tenant concerns and to ensure fair treatment of tenants in the event that an action or inaction by a borrower, including anyone designated to act for a borrower, adversely affects the tenants of a housing project.
 
 (2) Any tenant/member or prospective tenant/member seeking occupancy in or use of Agency facilities who believes he or she is being discriminated against because of age, race, color, religion, sex, familial status, disability, or national origin may file a complaint in person with, or by mail to the U.S. Department of Agriculture's Office of Civil Rights, Room 326-W, Whitten Building, 14th and Independence Avenue, SW., Washington DC 20250-9410 or to the Office of Fair Housing and Equal Opportunity, U.S. Department of Housing and Urban Development (HUD), Washington, DC 20410. Complaints received by Agency employees must be directed to the National Office Civil Rights Staff through the State Civil Rights Manager/Coordinator.
@@ -24,7 +22,15 @@ Link to an amendment published at 89 FR 20543, Mar. 25, 2024.
 
 (vii) Displacement or other adverse actions against tenant as a result of loan prepayment handled according to subpart N of this part.
 
-(c) *Borrower responsibilities.* Borrowers must permanently post tenant grievance procedures that meet the requirements of this section in a conspicuous place at the housing project. Borrowers also must maintain copies of the tenant grievance procedure at the housing project's management office for inspection by the tenants and the Agency upon request. Each tenant must receive an Agency summary of tenant's rights when a lease agreement is signed. If a housing project is located in an area with a concentration of non-English speaking individuals, the borrower must provide grievance procedures in both English and the non-English language. The notice must include the telephone number and address of USDA's Office of Civil Rights and the appropriate Regional Fair Housing and Enforcement Agency.
+(c) *Borrower responsibilities.*
+
+(1) Borrowers must permanently post tenant grievance procedures that meet the requirements of this section in a conspicuous place at the housing project. Borrowers also must maintain copies of the tenant grievance procedures at the housing project's management office for inspection by the tenants and the Agency upon request.
+
+(2) Each tenant must receive an Agency summary of tenant's rights when a lease agreement is signed.
+
+(3) If a tenant has limited English proficiency (LEP), the borrower must provide grievance procedures in both English and the primary language of the person with LEP(s). The notice must include the telephone number and address of USDA's Office of Civil Rights and the appropriate Regional Fair Housing and Enforcement Agency.
+
+(4) If the Secretary determines that all tenants must be provided with information regarding funding that is available due to a presidential declaration of a public health emergency, the Borrower must provide information to all tenants as stated in § 3560.159(a)(3)(iii) of this chapter.
 
 (d) *Reasons for grievance.* Tenants or prospective tenants may file a grievance in writing with the borrower in response to a borrower action, or failure to act, in accordance with the lease or Agency regulations that results in a denial, significant reduction, or termination of benefits or when a tenant or prospective tenant contests a borrower's notice of proposed adverse action as provided in paragraph (e) of this section. Acceptable reasons for filing a grievance may include:
 
@@ -105,3 +111,5 @@ Link to an amendment published at 89 FR 20543, Mar. 25, 2024.
 (4) The decision of the hearing officer or hearing panel shall be binding upon the parties to the hearing unless the parties to the hearing are notified within 10 calendar days by the Agency that the decision is not in compliance with Agency regulations.
 
 (5) Upon receipt of written notification from the hearing officer or hearing panel, the borrower and tenant must take the necessary action, or refrain from any actions, specified in the decision.
+
+[69 FR 69106, Nov. 26, 2004, as amended at 89 FR 20543, Mar. 25, 2024]

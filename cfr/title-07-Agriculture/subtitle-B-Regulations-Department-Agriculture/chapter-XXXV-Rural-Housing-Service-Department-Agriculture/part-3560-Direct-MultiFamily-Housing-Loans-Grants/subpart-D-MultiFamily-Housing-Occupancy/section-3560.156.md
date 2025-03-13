@@ -1,7 +1,5 @@
 ##### § 3560.156 Lease requirements. #####
 
-Link to an amendment published at 89 FR 20543, Mar. 25, 2024.
-
 (a) *Agency approval.* Borrowers must use a lease approved by the Agency. The lease must be consistent with Agency requirements and the requirements of all programs participating in the housing project. Prior to submitting the lease to the Agency for approval, borrowers must have their attorney certify that the lease complies with state and local laws, Agency requirements, and the requirements of all programs participating in the housing project. If there are conflicting requirements the borrower shall notify the Agency of the conflict and request guidance. Borrowers must execute their Agency approved lease with each tenant household prior to tenant occupancy of a rental unit.
 
 (b) *Lease requirements.* (1) All leases must be in writing.
@@ -104,7 +102,7 @@ Should any of the above provisions governing a drug violation be found to violat
 
 (xv) A provision regarding transfer of the lease if the housing project is sold to an Agency-approved buyer;
 
-(xvi) The procedures that must be followed by the borrower and the tenant in giving notices required under terms of the lease including lease violation notices;
+(xvi) The procedures that must be followed by the borrower and the tenant in giving notices required under terms of the lease, including lease violation notices. The lease will provide that, in cases of nonpayment of rent, the termination notice will be effective no earlier than 30 days after the tenant's receipt of the written termination notice.
 
 (xvii) The good-cause circumstances under which the borrower may terminate the lease and the length of notice required;
 
@@ -152,4 +150,4 @@ Should any of the above provisions governing a drug violation be found to violat
 
 (2) Leases must include a procedure for handling tenant's abandoned property, as provided by state or local law.
 
-[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11282, Mar. 1, 2022]Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.156(c)(12), implementation of the words “\* \* \* their citizenship status, \* \* \*” was delayed indefinitely.
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11282, Mar. 1, 2022; 89 FR 20543, Mar. 25, 2024]Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.156(c)(12), implementation of the words “\* \* \* their citizenship status, \* \* \*” was delayed indefinitely.

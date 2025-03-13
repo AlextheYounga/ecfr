@@ -1,5 +1,7 @@
 ##### § 34.60 Introduction. #####
 
+Link to an amendment published at 89 FR 31088, Apr. 24, 2024.
+
 (a) Use the equipment and procedures specified in Appendix 3, Appendix 5, and Appendix 6 of ICAO Annex 16, as applicable, to demonstrate whether engines meet the applicable gaseous emission standards specified in subpart C of this part. Measure the emissions of all regulated gaseous pollutants. Use the equipment and procedures specified in Appendix 2 and Appendix 6 of ICAO Annex 16 to determine whether engines meet the applicable smoke standard specified in subpart C of this part. The compliance demonstration consists of establishing a mean value from testing the specified number of engines, then calculating a “characteristic level” by applying a set of statistical factors that take into account the number of engines tested. Round each characteristic level to the same number of decimal places as the corresponding emission standard. For turboprop engines, use the procedures specified for turbofan engines, consistent with good engineering judgment.
 
 (b) Use a test fuel that meets the specifications described in Appendix 4 of ICAO Annex 16. The test fuel must not have additives whose purpose is to suppress smoke, such as organometallic compounds.

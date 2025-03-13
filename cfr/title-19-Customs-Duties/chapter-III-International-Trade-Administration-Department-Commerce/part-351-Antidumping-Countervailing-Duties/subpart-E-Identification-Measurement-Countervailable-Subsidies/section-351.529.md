@@ -1,3 +1,7 @@
-##### § 351.529 xxx #####
+##### § 351.529 Certain fees, fines, and penalties. #####
 
-Link to an amendment published at 89 FR 20841, Mar. 25, 2024.
+(a) *Financial contribution.* When determining if a fee, fine, or penalty that is otherwise due, has been forgone or not collected, within the meaning of section 771(5)(D)(ii) of the Act, the Secretary may conclude that a financial contribution exists if information on the record demonstrates that payment was otherwise required and was not made, in full or in part. In making such a determination, the Secretary will not be required to consider whether the government took efforts to seek payment or grant deferral, or otherwise acknowledged nonpayment, of the fee, fine, or penalty.
+
+(b) *Benefit.* If the Secretary determines that the government has exempted or remitted in part or in full, a fee, fine, or penalty under paragraph (a) of this section, a benefit exists to the extent that the fee, fine, or penalty paid by a party is less than if the government had not exempted or remitted that fee, fine, or penalty. Further, if the government is determined to have deferred the payment of the fee, fine, or penalty, in part or in full, a benefit exists to the extent that appropriate interest charges are not collected. Normally, a deferral of payment of fees, fines, or penalties will be treated as a government provided loan in the amount of the payments deferred, according to the methodology described in § 351.505.
+
+[89 FR 20841, Mar. 25, 2024]

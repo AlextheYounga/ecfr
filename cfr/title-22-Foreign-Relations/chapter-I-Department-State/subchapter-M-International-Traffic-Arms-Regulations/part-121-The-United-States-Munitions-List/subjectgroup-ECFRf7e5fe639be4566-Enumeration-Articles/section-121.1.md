@@ -1769,7 +1769,7 @@ Fractional bandwidth is the bandwidth over which output power remains constant w
 
 (5) High-energy storage capacitors that:
 
-(i) Are capable of operating at greater than one hundred twenty-five volts (125 V);
+(i) Have a rated voltage of greater than five hundred volts (500 V);
 
 (ii) Have a repetition rate greater than or equal to six (6) discharges per minute;
 
@@ -1783,7 +1783,7 @@ Fractional bandwidth is the bandwidth over which output power remains constant w
 
 Note to paragraph (c)(5):
 
-*Volumetric energy density* is Energy per unit Volume. *Mass energy density* is Energy per unit Mass, sometimes referred to as *Gravimetric energy density* or *Specific energy. Energy* (E =1/2CV2, where C is Capacitance and V is the Voltage rating) in these calculations must not be confused with useful energy or extractable energy.
+*Volumetric energy density* is Energy per unit Volume. *Mass energy density* is Energy per unit Mass, sometimes referred to as *Gravimetric energy density* or *Specific energy. Energy* (E =1/2CV2, where C is Capacitance and V is the rated voltage) in these calculations must not be confused with useful energy or extractable energy. *Rated voltage* is the value, based on the capacitor's design, testing, and evaluation, that describes the maximum amount of continuous voltage, at an operating temperature less than or equal to 85 degrees Celsius (85 °C), that will not damage the capacitor. *Rated voltage* does not include short-term transient or surge operating conditions.
 
 (6) Radio frequency circulators of any dimension equal to or less than one quarter (1/4) wavelength of the highest operating frequency and isolation greater than 30 dB;
 

@@ -1,5 +1,7 @@
 ##### § 556.703 What is the effect of the approval of the assignment of 100 percent of the record title in a particular aliquot(s) of my lease and of the resulting lease segregation? #####
 
+Link to an amendment published at 89 FR 31593, Apr. 24, 2024.
+
 (a) The bonding/financial assurance requirements of subpart I of this part apply separately to each segregated lease.
 
 (b) The royalty, minimum royalty, and rental provisions of the original lease will apply separately to each segregated lease.

@@ -10,4 +10,4 @@
 
 (d) *Negative determination.* An investigation terminates automatically upon publication in the Federal Register of the Secretary's negative final determination or the Commission's negative preliminary or final determination.
 
-(e) *End of suspension of liquidation.* When an investigation terminates, if the Secretary previously ordered suspension of liquidation, the Secretary will order the suspension ended on the date of publication of the notice of termination referred to in paragraph (b) of this section or on the date of publication of a negative determination referred to in paragraph (d) of this section, and will instruct the Customs Service to release any cash deposit or bond.
+(e) *End of suspension of liquidation.* When an investigation terminates, if the Secretary previously ordered suspension of liquidation, the Secretary will order the suspension ended on the date of publication of the notice of termination referred to in paragraph (b) of this section or on the date of publication of a negative determination referred to in paragraph (d) of this section, and will instruct U.S. Customs and Border Protection to release any cash deposit or bond.

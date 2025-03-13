@@ -1,5 +1,7 @@
 ##### § 556.802 When would BOEM disapprove the assignment of all or part of my operating rights interest? #####
 
+Link to an amendment published at 89 FR 31593, Apr. 24, 2024.
+
 BOEM may disapprove an assignment of all or part of your operating rights interest:
 
 (a) When the transferor or transferee has outstanding or unsatisfied obligations under this chapter or 30 CFR chapter II or XII;

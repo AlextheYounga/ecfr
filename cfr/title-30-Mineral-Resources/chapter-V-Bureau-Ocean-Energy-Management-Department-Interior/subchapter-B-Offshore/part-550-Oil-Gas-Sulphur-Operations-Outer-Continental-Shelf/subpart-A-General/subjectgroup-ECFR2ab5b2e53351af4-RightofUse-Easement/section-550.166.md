@@ -1,5 +1,7 @@
 ##### § 550.166 If I have a State lease, what surety bond must I have for a right-of-use and easement? #####
 
+Link to an amendment published at 89 FR 31589, Apr. 24, 2024.
+
 (a) Before BOEM issues you a right-of-use and easement on the OCS, you must furnish the Regional Director a surety bond for $500,000.
 
 (b) The Regional Director may require additional security from you (*i.e.,* security above the prescribed $500,000) to cover additional costs and liabilities for regulatory compliance. This additional surety:

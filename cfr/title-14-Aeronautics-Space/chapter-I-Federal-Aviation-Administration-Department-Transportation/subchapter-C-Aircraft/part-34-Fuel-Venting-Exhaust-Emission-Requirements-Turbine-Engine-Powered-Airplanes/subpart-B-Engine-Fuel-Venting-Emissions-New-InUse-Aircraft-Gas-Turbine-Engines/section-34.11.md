@@ -1,5 +1,7 @@
 ##### § 34.11 Standard for fuel venting emissions. #####
 
+Link to an amendment published at 89 FR 31087, Apr. 24, 2024.
+
 (a) No fuel venting emissions shall be discharged into the atmosphere from any new or in-use aircraft gas turbine engine subject to the subpart. This paragraph is directed at the elimination of intentional discharge to the atmosphere of fuel drained from fuel nozzle manifolds after engines are shut down and does not apply to normal fuel seepage from shaft seals, joints, and fittings.
 
 (b) Conformity with the standard set forth in paragraph (a) of this section shall be determined by inspection of the method designed to eliminate these emissions.

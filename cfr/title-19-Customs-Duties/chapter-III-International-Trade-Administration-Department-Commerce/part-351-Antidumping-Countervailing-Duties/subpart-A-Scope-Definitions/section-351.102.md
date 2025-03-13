@@ -1,7 +1,5 @@
 ##### § 351.102 Definitions. #####
 
-Link to an amendment published at 89 FR 20832, Mar. 25, 2024.
-
 (a) *Introduction.* The Act contains many technical terms applicable to antidumping and countervailing duty proceedings. In the case of terms that are not defined in this section or other sections of this part, readers should refer to the relevant provisions of the Act. This section:
 
 (1) Defines terms that appear in the Act but are not defined in the Act;
@@ -36,7 +34,7 @@ Link to an amendment published at 89 FR 20832, Mar. 25, 2024.
 
 (13) *Cumulative indirect tax.* “Cumulative indirect tax” means a multi-staged tax levied where there is no mechanism for subsequent crediting of the tax if the goods or services subject to tax at one stage of production are used in a succeeding stage of production.
 
-(14) *Customs Service.* “Customs Service” means United States Customs and Border Protection of the United States Department of Homeland Security.
+(14) *Days.* Deadlines and time limits for submissions with the Secretary that reference a number of “days,” will generally mean calendar days. If certain deadlines or time limits are intended to apply to business days instead, which are Monday through Friday, except Federal holidays, then the applicable regulatory provisions implementing such deadlines or time limits will explicitly indicate the use of the business day alternative.
 
 (15) *Department.* “Department” means the United States Department of Commerce.
 
@@ -164,4 +162,6 @@ Link to an amendment published at 89 FR 20832, Mar. 25, 2024.
 
 (52) *URAA.* “URAA” means the Uruguay Round Agreements Act.
 
-[73 FR 3640, Jan. 22, 2008, as amended at 78 FR 21254, Apr. 10, 2013; 81 FR 15645, Mar. 24, 2016]
+(53) *U.S. Customs and Border Protection. U.S. Customs and Border Protection* means United States Customs and Border Protection of the United States Department of Homeland Security.
+
+[73 FR 3640, Jan. 22, 2008, as amended at 78 FR 21254, Apr. 10, 2013; 81 FR 15645, Mar. 24, 2016; 89 FR 20832, Mar. 25, 2024]

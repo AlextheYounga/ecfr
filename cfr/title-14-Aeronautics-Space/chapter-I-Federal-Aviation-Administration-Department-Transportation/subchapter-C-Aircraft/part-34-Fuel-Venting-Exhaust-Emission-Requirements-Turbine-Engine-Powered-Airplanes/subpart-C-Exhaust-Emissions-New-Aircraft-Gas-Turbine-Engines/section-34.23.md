@@ -1,5 +1,7 @@
 ##### § 34.23 Exhaust Emission Standards for Engines Manufactured on and after July 18, 2012. #####
 
+Link to an amendment published at 89 FR 31087, Apr. 24, 2024.
+
 The standards of this section apply to aircraft engines manufactured on and after July 18, 2012, unless otherwise exempted or excepted. Where a gaseous emission standard is specified by a formula, calculate and round the standard to three significant figures or to the nearest 0.1 g/kN (for standards at or above 100 g/kN). Where a smoke standard is specified by a formula, calculate and round the standard to the nearest 0.1 SN. Engines comply with an applicable standard if the testing results show that the engine type certificate family's characteristic level does not exceed the numerical level of that standard, as described in § 34.60.
 
 (a) Gaseous exhaust emissions from each new aircraft gas turbine engine shall not exceed:

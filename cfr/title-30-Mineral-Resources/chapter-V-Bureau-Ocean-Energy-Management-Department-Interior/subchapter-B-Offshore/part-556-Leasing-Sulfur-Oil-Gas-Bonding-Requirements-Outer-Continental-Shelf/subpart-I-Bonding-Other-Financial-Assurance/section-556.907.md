@@ -1,5 +1,7 @@
 ##### § 556.907 Forfeiture of bonds and/or other securities. #####
 
+Link to an amendment published at 89 FR 31597, Apr. 24, 2024.
+
 This section explains how a bond or other security may be forfeited.
 
 (a) The Regional Director will call for forfeiture of all or part of the bond, other form of security, or guarantee you provide under this part if:

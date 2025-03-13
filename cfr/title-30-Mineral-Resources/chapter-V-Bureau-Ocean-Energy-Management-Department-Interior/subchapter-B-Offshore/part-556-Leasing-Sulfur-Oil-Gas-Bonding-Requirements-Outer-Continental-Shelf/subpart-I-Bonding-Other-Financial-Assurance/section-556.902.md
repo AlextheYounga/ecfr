@@ -1,5 +1,7 @@
 ##### § 556.902 General requirements for bonds. #####
 
+Link to an amendment published at 89 FR 31595, Apr. 24, 2024.
+
 (a) Any bond or other security that you, as lessee, operating rights owner or operator, provide under this part must:
 
 (1) Be payable upon demand to the Regional Director;

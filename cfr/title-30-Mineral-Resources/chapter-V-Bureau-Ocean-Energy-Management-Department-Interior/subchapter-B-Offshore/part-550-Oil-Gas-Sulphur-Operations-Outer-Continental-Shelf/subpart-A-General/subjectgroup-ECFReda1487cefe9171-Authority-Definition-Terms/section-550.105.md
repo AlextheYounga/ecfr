@@ -1,5 +1,7 @@
 ##### § 550.105 Definitions. #####
 
+Link to an amendment published at 89 FR 31586, Apr. 24, 2024.
+
 Terms used in this part will have the meanings given in the Act and as defined in this section:
 
 *Act* means the OCS Lands Act, as amended (43 U.S.C. 1331 *et seq.*).

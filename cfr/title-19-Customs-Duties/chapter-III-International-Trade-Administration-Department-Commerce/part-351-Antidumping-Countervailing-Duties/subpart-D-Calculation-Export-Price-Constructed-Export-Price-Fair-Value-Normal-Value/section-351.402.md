@@ -1,7 +1,5 @@
 ##### § 351.402 Calculation of export price and constructed export price; reimbursement of antidumping and countervailing duties. #####
 
-Link to an amendment published at 89 FR 20837, Mar. 25, 2024.
-
 (a) *Introduction.* In order to establish export price, constructed export price, and normal value, the Secretary must make certain adjustments to the price to the unaffiliated purchaser (often called the “starting price”) in both the United States and foreign markets. This regulation clarifies how the Secretary will make certain of the adjustments to the starting price in the United States that are required by section 772 of the Act.
 
 (b) *Additional adjustments to constructed export price.* In establishing constructed export price under section 772(d) of the Act, the Secretary will make adjustments for expenses associated with commercial activities in the United States that relate to the sale to an unaffiliated purchaser, no matter where or when paid. The Secretary will not make an adjustment for any expense that is related solely to the sale to an affiliated importer in the United States, although the Secretary may make an adjustment to normal value for such expenses under section 773(a)(6)(C)(iii) of the Act.
@@ -36,14 +34,14 @@ Link to an amendment published at 89 FR 20837, Mar. 25, 2024.
 
 (iii) Ordinarily, under paragraph (f)(1)(i) of this section, the Secretary will deduct the amount reimbursed only once in the calculation of the export price (or constructed export price).
 
-(2) *Reimbursement certification.* (i) The importer must certify with the Customs Service prior to liquidation (except as provided for in paragraph (f)(2)(iii) of this section) whether the importer has or has not been reimbursed or entered into any agreement or understanding for the payment or for the refunding to the importer by the manufacturer, producer, seller, or exporter for all or any part of the antidumping and countervailing duties, as appropriate. Such certifications should identify the commodity and country and contain the information necessary to link the certification to the relevant entry or entry line number(s).
+(2) *Reimbursement certification.* (i) The importer must certify with U.S. Customs and Border Protection prior to liquidation (except as provided for in paragraph (f)(2)(iii) of this section) whether the importer has or has not been reimbursed or entered into any agreement or understanding for the payment or for the refunding to the importer by the manufacturer, producer, seller, or exporter for all or any part of the antidumping and countervailing duties, as appropriate. Such certifications should identify the commodity and country and contain the information necessary to link the certification to the relevant entry or entry line number(s).
 
-(ii) The reimbursement certification may be filed either electronically or in paper in accordance with the Customs Service's requirements, as applicable.
+(ii) The reimbursement certification may be filed either electronically or in paper in accordance with the U.S. Customs and Border Protection's requirements, as applicable.
 
-(iii) If an importer does not provide its reimbursement certification prior to liquidation, the Customs Service may accept the reimbursement certification in accordance with its protest procedures under 19 U.S.C. 1514, unless otherwise directed.
+(iii) If an importer does not provide its reimbursement certification prior to liquidation, U.S. Customs and Border Protection may accept the reimbursement certification in accordance with its protest procedures under 19 U.S.C. 1514, unless otherwise directed.
 
 (iv) Reimbursement certifications are required for entries of the relevant commodity that have been imported on or after the date of publication of the antidumping notice in the Federal Register that first suspended liquidation in that proceeding.
 
 (3) *Presumption.* The Secretary may presume from an importer's failure to file the certificate required in paragraph (f)(2) of this section that the exporter or producer paid or reimbursed the antidumping duties or countervailing duties.
 
-[62 FR 27379, May 19, 1997, as amended at 86 FR 52384, Sept. 20, 2021]
+[62 FR 27379, May 19, 1997, as amended at 86 FR 52384, Sept. 20, 2021; 89 FR 20837, Mar. 25, 2024]

@@ -1,7 +1,5 @@
 ##### § 3560.159 Termination of occupancy. #####
 
-Link to an amendment published at 89 FR 20543, Mar. 25, 2024.
-
 (a) *Tenants in violation of lease.* Borrowers, in accordance with lease agreements, may terminate or refuse to renew a tenant's lease only for material non-compliance with the lease provisions, material non-compliance with the occupancy rules, or other good causes. Prior to terminating a lease, the borrower must give the tenant written notice of the violation and give the tenant an opportunity to correct the violation. Subsequently, termination may only occur when the incidences related to the termination are documented and there is documentation that the tenant was given notice prior to the initiation of the termination action that their activities would result in occupancy termination.
 
 (1) Material non-compliance with lease provisions or occupancy rules, for purposes of occupancy termination by a borrower, includes actions such as:
@@ -20,6 +18,14 @@ Link to an amendment published at 89 FR 20543, Mar. 25, 2024.
 
 (iii) Actions prohibited by state and local laws.
 
+(3) In cases of nonpayment of rent, the termination notice will be effective no earlier than 30 days after the tenant's receipt of the written termination notice. Notice will be provided in accordance with § 3560.160(e) of this chapter. All notices of lease termination required by this section due to a tenant's failure to pay rent must also include the following:
+
+(i) Instructions on how the tenant can cure the nonpayment of rent violation;
+
+(ii) Information on how the tenant can recertify their income pursuant to 7 CFR 3560.152; and
+
+(iii) In the event of a presidential declaration of a national emergency, such information as required by the Secretary.
+
 (b) *Lease expiration or tenant eligibility.* A tenant's occupancy in an Agency-financed housing project may not be terminated by a borrower when the lease agreement expires unless the tenant's actions meet the conditions described in paragraph (a) of this section, or the tenant is no longer eligible for occupancy in the housing. Borrowers must handle terminations of occupancy due to a change in tenant eligibility status in accordance with § 3560.158. At a minimum, the occupancy termination notice must include the following information:
 
 (1) A specific date by which lease termination will occur;
@@ -32,4 +38,4 @@ Link to an amendment published at 89 FR 20543, Mar. 25, 2024.
 
 (d) *Criminal activity.* Borrowers may terminate tenancy for criminal activity or alcohol abuse by household members in accordance with the provisions of 24 CFR 5.858, 5.859, 5.860, and 5.861.
 
-[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11282, Mar. 1, 2022]
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11282, Mar. 1, 2022; 89 FR 20543, Mar. 25, 2024]

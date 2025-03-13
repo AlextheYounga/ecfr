@@ -1,5 +1,7 @@
 ##### § 34.3 General requirements. #####
 
+Link to an amendment published at 89 FR 31085, Apr. 24, 2024.
+
 (a) This part provides for the approval or acceptance by the Administrator or the Administrator of the EPA of testing and sampling methods, analytical techniques, and related equipment not identical to those specified in this part. Before either approves or accepts any such alternate, equivalent, or otherwise nonidentical procedures or equipment, the Administrator or the Administrator of the EPA shall consult with the other in determining whether or not the action requires rulemaking under sections 231 and 232 of the Clean Air Act, as amended, consistent with the responsibilities of the Administrator of the EPA and the Secretary of Transportation under sections 231 and 232 of the Clean Air Act.
 
 (b) Under section 232 of the Act, the Secretary of Transportation issues regulations to ensure compliance with 40 CFR part 87. This authority has been delegated to the Administrator of the FAA (49 CFR 1.47).

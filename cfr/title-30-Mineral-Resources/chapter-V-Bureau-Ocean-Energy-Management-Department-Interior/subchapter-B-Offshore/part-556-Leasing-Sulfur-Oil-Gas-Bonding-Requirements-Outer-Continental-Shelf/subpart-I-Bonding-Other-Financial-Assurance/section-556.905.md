@@ -1,5 +1,7 @@
 ##### § 556.905 Using a third-party guarantee instead of a bond. #####
 
+Link to an amendment published at 89 FR 31596, Apr. 24, 2024.
+
 (a) *When the Regional Director may accept a third-party guarantee.* The Regional Director may accept a third-party guarantee instead of an additional bond under § 556.901(d) if:
 
 (1) The guarantee meets the criteria in paragraph (c) of this section;

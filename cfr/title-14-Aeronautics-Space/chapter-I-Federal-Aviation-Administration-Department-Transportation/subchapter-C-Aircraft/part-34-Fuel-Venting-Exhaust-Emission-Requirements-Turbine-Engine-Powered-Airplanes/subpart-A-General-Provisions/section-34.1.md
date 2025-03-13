@@ -1,5 +1,7 @@
 ##### § 34.1 Definitions. #####
 
+Link to an amendment published at 89 FR 31085, Apr. 24, 2024.
+
 As used in this part, all terms not defined herein shall have the meaning given them in the Clean Air Act, as amended (42 U.S.C. 7401 et. seq.):
 
 *Act* means the Clean Air Act, as amended (42 U.S.C. 7401 et. seq.).

@@ -1,5 +1,7 @@
 ##### § 34.48 Derivative engines for emissions certification purposes. #####
 
+Link to an amendment published at 89 FR 31088, Apr. 24, 2024.
+
 (a) *General.* A derivative engine for emissions certification purposes is an engine configuration that is determined to be similar in design to a previously certificated (original) engine for purposes of compliance with exhaust emissions standards (gaseous and smoke). A type certificate holder may request from the FAA a determination that an engine configuration is considered a derivative engine for emissions certification purposes. To be considered a derivative engine for emission purposes under this part, the configuration must have been derived from the original engine that was certificated to the requirements of part 33 of this chapter and one of the following:
 
 (1) The FAA has determined that a safety issue exists that requires an engine modification.

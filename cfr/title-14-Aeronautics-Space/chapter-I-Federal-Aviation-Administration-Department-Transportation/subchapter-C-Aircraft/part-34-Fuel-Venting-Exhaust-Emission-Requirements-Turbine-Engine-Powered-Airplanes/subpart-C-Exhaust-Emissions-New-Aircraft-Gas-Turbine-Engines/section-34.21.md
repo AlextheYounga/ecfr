@@ -1,5 +1,7 @@
 ##### § 34.21 Standards for exhaust emissions. #####
 
+Link to an amendment published at 89 FR 31087, Apr. 24, 2024.
+
 (a) Exhaust emissions of smoke from each new aircraft gas turbine engine of class T8 manufactured on or after February 1, 1974, shall not exceed a smoke number (SN) of 30.
 
 (b) Exhaust emissions of smoke from each new aircraft gas turbine engine of class TF and of rated output of 129 kN (29,000 lb) thrust or greater, manufactured on or after January 1, 1976, shall not exceed

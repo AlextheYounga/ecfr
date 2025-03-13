@@ -1,5 +1,7 @@
 ##### § 556.901 Additional bonds. #####
 
+Link to an amendment published at 89 FR 31594, Apr. 24, 2024.
+
 (a) This paragraph explains what bonds you must provide before lease exploration activities commence.
 
 (1)(i) You must furnish the Regional Director a $200,000 bond that guarantees compliance with all the terms and conditions of the lease by the earliest of:

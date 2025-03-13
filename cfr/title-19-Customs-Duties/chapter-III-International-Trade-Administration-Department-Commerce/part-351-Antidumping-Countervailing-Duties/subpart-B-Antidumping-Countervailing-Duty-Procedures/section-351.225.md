@@ -1,12 +1,10 @@
 ##### § 351.225 Scope rulings. #####
 
-Link to an amendment published at 89 FR 20833, Mar. 25, 2024.
-
 (a) *Introduction.* Questions sometimes arise as to whether a particular product is covered by the scope of an antidumping or countervailing duty order. Such questions may arise for a variety of reasons given that the description of the merchandise subject to the scope is written in general terms. The Secretary will initiate and conduct a scope inquiry and issue a scope ruling to determine whether or not a product is covered by the scope of an order at the request of an interested party or on the Secretary's initiative. A scope ruling that a product is covered by the scope of an order is a determination that the product has always been covered by the scope of that order. This section contains rules and procedures regarding scope rulings, including scope ruling applications, scope inquiries, and standards used in determining whether a product is covered by the scope of an order. Unless otherwise specified, the procedures as described in subpart C of this part (§§ 351.301 through 351.308 and §§ 351.312 through 351.313) apply to this section.
 
 (b) *Self-initiation of a scope inquiry.* If the Secretary determines from available information that an inquiry is warranted to determine whether a product is covered by the scope of an order, the Secretary may initiate a scope inquiry by publishing a notice of initiation in the Federal Register.
 
-(c) *Scope ruling application*—(1) *Contents.* An interested party may submit a scope ruling application requesting that the Secretary conduct a scope inquiry to determine whether a product, which is or has been in actual production by the time of the filing of the application, is covered by the scope of an order. The Secretary will make available a scope ruling application, which the applicant must complete and serve in accordance with the requirements of paragraph (n) of this section.
+(c) *Scope ruling application*—(1) *Contents.* An interested party may submit a scope ruling application requesting that the Secretary conduct a scope inquiry to determine whether a product, which is or has been in actual production by the time of the filing of the application, is covered by the scope of an order. If the product at issue has not been imported into the United States, the applicant must provide evidence that the product has been commercially produced and sold. The Secretary will make available a scope ruling application, which the applicant must fully complete and serve in accordance with the requirements of paragraph (n) of this section.
 
 (2) *Requested information.* To the extent reasonably available to the applicant, the scope ruling application must include the following requested information and relevant supporting documentation.
 
@@ -34,9 +32,9 @@ Link to an amendment published at 89 FR 20833, Mar. 25, 2024.
 
 (vi) If the product has been imported into the United States as of the date of the filing of the scope ruling application:
 
-(A) An explanation as to whether an entry of the product has been declared by an importer, or determined by the Customs Service, as subject to an order, and
+(A) An explanation as to whether an entry of the product has been declared by an importer, or determined by U.S. Customs and Border Protection, as subject to an order, and
 
-(B) Relevant documentation, including dated copies of the Customs Service entry summary forms (or electronic entry processing system documentation) identifying the product upon importation and other related commercial documents, including invoices and contracts, which reflect the details surrounding the sale and purchase of that imported product.
+(B) Relevant documentation, including dated copies of U.S. Customs and Border Protection entry summary forms (or electronic entry processing system documentation) identifying the product upon importation and other related commercial documents, including invoices and contracts, which reflect the details surrounding the sale and purchase of that imported product.
 
 (vii) A statement as to whether the product undergoes any additional processing in the United States after importation, or in a third country before importation, and a statement as to the relevance of this processing to the scope of the order.
 
@@ -50,7 +48,23 @@ Link to an amendment published at 89 FR 20833, Mar. 25, 2024.
 
 (ix) Factual information supporting the applicant's position, including full copies of prior scope determinations and relevant excerpts of other documents identified in paragraph (k)(1) of this section.
 
-(d) *Initiation of a scope inquiry and other actions based on a scope ruling application*—(1) *Acceptance and Initiation of a scope inquiry ruling application.* Except as provided under paragraph (d)(2) of this section, within 30 days after the filing of a scope application, the Secretary will determine whether to accept or reject the scope ruling application and to initiate or not initiate a scope inquiry, or, in the alternative, paragraph (d)(1)(ii) will apply.
+(x) If the product has not been imported into the United States as of the date of the filing of the scope ruling application:
+
+(A) A statement that the product has been commercially produced;
+
+(B) A description of the countries in which the product is sold, or has been sold; and
+
+(C) Relevant documentation which reflects the details surrounding the production and sale of that product in countries other than the United States.
+
+(3) *Comments on the adequacy of the request.* Within 10 days after the filing of a scope ruling application under paragraph (c)(1) of this section, an interested party other than the applicant is permitted one opportunity to submit comments regarding the adequacy of the scope ruling application.
+
+(d) *Initiation of a scope inquiry and other actions based on a scope ruling application*—(1) *Acceptance and initiation of a scope inquiry based on a scope ruling application.* Except as provided under paragraph (d)(1)(ii) or (d)(2) of this section, within 30 days after the filing of a scope ruling application, the Secretary will determine whether to accept or reject the scope ruling application and to initiate or not initiate a scope inquiry, or, in the alternative, paragraph (d)(1)(ii) will apply.
+
+(i) If the Secretary determines that a scope ruling application is incomplete or otherwise unacceptable, the Secretary may reject the scope ruling application and will provide a written explanation of the reasons for the rejection. If the scope ruling application is rejected, the applicant may resubmit the full application at any time, with all identified deficiencies corrected.
+
+(ii) If the Secretary issues questions to the applicant seeking clarification with respect to one or more aspects of a scope ruling application, the Secretary will determine whether or not to initiate within 30 days after the applicant files a timely response to the Secretary's questions.
+
+(iii) If the Secretary does not reject the scope ruling application or initiate the scope inquiry within 31 days after the filing of the application or the receipt of a timely response to the Secretary's questions, the application will be deemed accepted, and the scope inquiry will be deemed initiated.
 
 (2) *Addressing the scope issue in another segment of the proceeding.* Within 30 days after the filing of a scope ruling application, if the Secretary determines upon review of the application that the scope issue before the Secretary should be addressed in an ongoing segment of the proceeding, such as a circumvention inquiry under § 351.226 or a covered merchandise inquiry under § 351.227, rather than initiating a scope inquiry, the Secretary will notify the applicant of its intent to address the scope issue in such other segment.
 
@@ -62,7 +76,7 @@ Link to an amendment published at 89 FR 20833, Mar. 25, 2024.
 
 (3) *Alignment with other segments.* If the Secretary determines it is appropriate to do so, the Secretary may align the deadlines under this paragraph with the deadlines of another segment of the proceeding.
 
-(f) *Scope inquiry procedures.* (1) Within 30 days after the Secretary's self-initiation of a scope inquiry under paragraph (b) of this section, interested parties are permitted one opportunity to submit comments and factual information addressing the self-initiation. Within 14 days after the filing of such comments, any interested party is permitted one opportunity to submit comments and factual information submitted by the other interested parties.
+(f) *Scope inquiry procedures.* The filing and timing restrictions of § 351.301(c) do not apply to this paragraph (f), and factual information submitted inconsistent with the terms of this paragraph may be rejected as unsolicited and untimely. (1) Within 30 days after the Secretary's self-initiation of a scope inquiry under paragraph (b) of this section, interested parties are permitted one opportunity to submit comments and factual information addressing the self-initiation. Within 14 days after the filing of such comments, any interested party is permitted one opportunity to submit comments and factual information submitted by the other interested parties.
 
 (2) Within 30 days after the initiation of a scope inquiry under paragraph (d)(1) of this section, an interested party other than the applicant is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information contained in the scope ruling application. Within 14 days after the filing of such rebuttal, clarification, or correction, the applicant is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information submitted in the interested party's rebuttal, clarification or correction.
 
@@ -84,7 +98,7 @@ Link to an amendment published at 89 FR 20833, Mar. 25, 2024.
 
 (2) During the pendency of a scope inquiry or upon issuance of a final scope ruling under paragraph (h) of this section, the Secretary may take any further action, as appropriate, with respect to another segment of the proceeding. For example, if the Secretary considers it appropriate, the Secretary may request information concerning the product that is the subject of the scope inquiry for purpose of an administrative review under § 351.213.
 
-(j) *Country of origin determinations.* In considering whether a product is covered by the scope of the order at issue, the Secretary may need to determine the country of origin of the product. To make such a determination, the Secretary may use any reasonable method and is not bound by the determinations of any other agency, including tariff classification and country of origin marking rulings issued by the Customs Service.
+(j) *Country of origin determinations.* In considering whether a product is covered by the scope of the order at issue, the Secretary may need to determine the country of origin of the product. To make such a determination, the Secretary may use any reasonable method and is not bound by the determinations of any other agency, including tariff classification and country of origin marking rulings issued by U.S. Customs and Border Protection.
 
 (1) In determining the country of origin, the Secretary may conduct a substantial transformation analysis that considers relevant factors that arise on a case-by-case basis, including:
 
@@ -144,31 +158,31 @@ Link to an amendment published at 89 FR 20833, Mar. 25, 2024.
 
 (C) The ultimate use or function of the in-scope component relative to the ultimate use or function of the merchandise as a whole.
 
-(l) *Suspension of liquidation.* (1) When the Secretary initiates a scope inquiry under paragraph (b) or (d) of this section, the Secretary will notify the Customs Service of the initiation and direct the Customs Service to continue the suspension of liquidation of entries of products subject to the scope inquiry that were already subject to the suspension of liquidation, and to apply the cash deposit rate that would be applicable if the product were determined to be covered by the scope of the order.
+(l) *Suspension of liquidation.* (1) When the Secretary initiates a scope inquiry under paragraph (b) or (d) of this section, the Secretary will notify U.S. Customs and Border Protection of the initiation and direct U.S. Customs and Border Protection to continue the suspension of liquidation of entries of products subject to the scope inquiry that were already subject to the suspension of liquidation, and to apply the cash deposit rate that would be applicable if the product were determined to be covered by the scope of the order. Such suspension shall include, but shall not be limited to, entries covered by the final results of administrative review of an antidumping or countervailing duty order pursuant to § 351.212(b), automatic assessment pursuant to § 351.212(c), and a rescinded administrative review pursuant to § 351.213(d), as well as any other entries already suspended by U.S. Customs and Border Protection under the antidumping and countervailing duty laws which have not yet been liquidated in accordance with 19 CFR part 159.
 
 (2) If the Secretary issues a preliminary scope ruling under paragraph (g) of this section that the product at issue is covered by the scope of the order, the Secretary will take the following actions:
 
-(i) The Secretary will direct the Customs Service to continue the suspension of liquidation of previously suspended entries and apply the applicable cash deposit rate;
+(i) The Secretary will direct U.S. Customs and Border Protection to continue the suspension of liquidation of previously suspended entries and apply the applicable cash deposit rate;
 
-(ii) The Secretary will direct the Customs Service to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption on or after the date of initiation of the scope inquiry; and
+(ii) The Secretary will direct U.S. Customs and Border Protection to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption on or after the date of initiation of the scope inquiry; and
 
-(iii)(A) *In general.* Subject to paragraph (l)(2)(iii)(B) of this section, the Secretary normally will direct the Customs Service to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption prior to the date of initiation of the scope inquiry.
+(iii)(A) *In general.* Subject to paragraph (l)(2)(iii)(B) of this section, the Secretary normally will direct U.S. Customs and Border Protection to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption prior to the date of initiation of the scope inquiry.
 
-(B) *Exception.* If the Secretary determines it is appropriate to do so, the Secretary may, at the timely request of an interested party or at the Secretary's discretion, direct the Customs Service to begin the suspension of liquidation and apply the applicable cash deposit rate under paragraph (l)(2)(iii)(A) of this section at an alternative date. In response to a timely request from an interested party, the Secretary will only consider an alternative date based on a specific argument supported by evidence establishing the appropriateness of that alternative date.
+(B) *Exception.* If the Secretary determines it is appropriate to do so, the Secretary may, at the timely request of an interested party or at the Secretary's discretion, direct U.S. Customs and Border Protection to begin the suspension of liquidation and apply the applicable cash deposit rate under paragraph (l)(2)(iii)(A) of this section at an alternative date. In response to a timely request from an interested party, the Secretary will only consider an alternative date based on a specific argument supported by evidence establishing the appropriateness of that alternative date.
 
 (3) If the Secretary issues a final scope ruling under paragraph (h) of this section that the product at issue is covered by the scope of the order, the Secretary will take the following actions:
 
-(i) The Secretary will direct the Customs Service to continue the suspension of liquidation of previously suspended entries and apply the applicable cash deposit rate until appropriate liquidation instructions are issued;
+(i) The Secretary will direct U.S. Customs and Border Protection to continue the suspension of liquidation of previously suspended entries and apply the applicable cash deposit rate until appropriate liquidation instructions are issued;
 
-(ii) The Secretary will direct the Customs Service to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption on or after the date of initiation of the scope inquiry until appropriate liquidation instructions are issued; and
+(ii) The Secretary will direct U.S. Customs and Border Protection to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption on or after the date of initiation of the scope inquiry until appropriate liquidation instructions are issued; and
 
-(iii)(A) *In general.* Subject to paragraph (l)(3)(iii)(B) of this section, the Secretary normally will direct the Customs Service to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption prior to the date of initiation of the scope inquiry until appropriate liquidation instructions are issued.
+(iii)(A) *In general.* Subject to paragraph (l)(3)(iii)(B) of this section, the Secretary normally will direct U.S. Customs and Border Protection to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption prior to the date of initiation of the scope inquiry until appropriate liquidation instructions are issued.
 
-(B) *Exception.* If the Secretary determines it is appropriate to do so, the Secretary may, at the timely request of an interested party or at the Secretary's discretion, direct the Customs Service to begin the suspension of liquidation and apply the applicable cash deposit rate under paragraph (l)(3)(iii)(A) of this section at an alternative date until appropriate liquidation instructions are issued. In response to a timely request from an interested party, the Secretary will only consider an alternative date based on a specific argument supported by evidence establishing the appropriateness of that alternative date.
+(B) *Exception.* If the Secretary determines it is appropriate to do so, the Secretary may, at the timely request of an interested party or at the Secretary's discretion, direct U.S. Customs and Border Protection to begin the suspension of liquidation and apply the applicable cash deposit rate under paragraph (l)(3)(iii)(A) of this section at an alternative date until appropriate liquidation instructions are issued. In response to a timely request from an interested party, the Secretary will only consider an alternative date based on a specific argument supported by evidence establishing the appropriateness of that alternative date.
 
-(4) If the Secretary issues a final scope ruling under paragraph (h) of this section that the product is not covered by the scope of the order, and entries of the product at issue are not otherwise subject to suspension of liquidation as a result of another segment of the proceeding, such as a circumvention inquiry under § 351.226 or a covered merchandise inquiry under § 351.227, the Secretary will order the Customs Service to terminate the suspension of liquidation and refund any cash deposits for such entries.
+(4) If the Secretary issues a final scope ruling under paragraph (h) of this section that the product is not covered by the scope of the order, and entries of the product at issue are not otherwise subject to suspension of liquidation as a result of another segment of the proceeding, such as a circumvention inquiry under § 351.226 or a covered merchandise inquiry under § 351.227, the Secretary will order U.S. Customs and Border Protection to terminate the suspension of liquidation and refund any cash deposits for such entries.
 
-(5) Nothing in this section affects the Customs Service's authority to take any additional action with respect to the suspension of liquidation or related measures.
+(5) Nothing in this section affects the U.S. Customs and Border Protection's authority to take any additional action with respect to the suspension of liquidation or related measures.
 
 (m) *Applicability of scope rulings; companion orders*—(1) *Applicability of scope rulings.* In conducting a scope inquiry under this section, the Secretary shall consider, based on the available record evidence, whether the scope ruling should be applied:
 
@@ -176,7 +190,7 @@ Link to an amendment published at 89 FR 20833, Mar. 25, 2024.
 
 (ii) To all products from the same country with the same relevant physical characteristics, (including chemical, dimensional and technical characteristics) as the product at issue, on a country-wide basis, regardless of the producer, exporter or importer of those products.
 
-(2) *Companion antidumping and countervailing duty orders.* If there are companion antidumping and countervailing duty orders covering the same merchandise from the same country of origin, the requesting interested party under paragraph (c) of this section must file the scope ruling application pertaining to both orders only on the record of the antidumping duty proceeding. Should the Secretary determine to initiate a scope inquiry under paragraph (b) or (d) of this section, the Secretary will initiate and conduct a single inquiry with respect to the product at issue for both orders only on the record of the antidumping proceeding. Once the Secretary issues a final scope ruling on the record of the antidumping duty proceeding, the Secretary will include a copy of that scope ruling on the record of the countervailing duty proceeding.
+(2) *Companion antidumping and countervailing duty orders.* If there are companion antidumping and countervailing duty orders covering the same merchandise from the same country of origin, the requesting interested party under paragraph (c) of this section must file the scope ruling application pertaining to both orders on the records of both the antidumping duty and countervailing duty proceedings. If the Secretary accepts the scope applications on both records under paragraph (d) of this section, the Secretary will notify the requesting interested party that all subsequent filings should be filed only on the record of the antidumping duty proceeding. If the Secretary determines to initiate a scope inquiry under paragraph (b) or (d) of this section, the Secretary will initiate and conduct a single inquiry with respect to the product at issue for both orders only on the record of the antidumping duty proceeding. Once the Secretary issues a final scope ruling on the record of the antidumping duty proceeding, the Secretary will include on the record of the countervailing duty proceeding a copy of the scope ruling memoranda, a copy of the preliminary scope ruling memoranda, if one had been issued, and all relevant instructions to U.S. Customs and Border Protection.
 
 (n) *Service of scope ruling application; annual inquiry service list; entry of appearance.* (1) The requirements of § 351.303(f) apply to this section, except that an interested party that submits a scope ruling application under paragraph (c) of this section must serve a copy of the application on all persons on the annual inquiry service list for that order, as well as the companion order, if any, as described in paragraph (m)(2) of this section. If a scope ruling application is rejected and resubmitted pursuant to paragraph (d)(1) of this section, service of the resubmitted application is not required under this paragraph, unless otherwise specified.
 
@@ -190,6 +204,24 @@ Link to an amendment published at 89 FR 20833, Mar. 25, 2024.
 
 (p) *Suspended investigations; suspension agreements.* The Secretary may apply the procedures set forth in this section in determining whether a product at issue is covered by the scope of a suspended investigation or a suspension agreement (*see* § 351.208).
 
-(q) *Scope clarifications.* The Secretary may issue a scope clarification in any segment of a proceeding providing an interpretation of specific language in the scope of an order or addressing whether a product is covered or excluded by the scope of an order at issue based on previous scope determinations covering the same or similar products. Such a scope clarification may take the form of an interpretive footnote to the scope when the scope is published or issued in instructions to the Customs Service.
+(q) *Scope clarifications.* The Secretary may issue a scope clarification at any time which provides an interpretation of specific language in the scope of an order and addresses other scope-related issues but does not address or determine whether a product is covered by the scope of an order in the first instance other than in the situations listed in this paragraph (q).
 
-[86 FR 52374, Sept. 20, 2021, as amended at 88 FR 67077, Sept. 29, 2023]
+(1) Scope clarifications may be used in the following situations to clarify:
+
+(i) Whether a product is covered or excluded by the scope of an order based on two or more previous scope determinations covering products which have the same or similar physical characteristics (including chemical, dimensional, and technical characteristics);
+
+(ii) Whether a product covered by the scope of an order, and for which coverage is not at issue, is not subject to the imposition of antidumping or countervailing duties pursuant to a statutory exception to the trade remedy laws, such as the limited governmental importation exception set forth in section 771(20)(B) of the Act;
+
+(iii) Whether language or descriptors in the scope of an order that are subsequently updated, revised, or replaced, in the following circumstances, continue to apply to the product at issue:
+
+(A) Modifications to the language in the scope of an order pursuant to litigation or a changed circumstances review under section 751(b) of the Act;
+
+(B) Changes to Harmonized Tariff Schedule classifications, as administered by the Commission; and
+
+(C) Changes to industrial standards set forth in a scope, as determined by the industry source for those standards identified in the scope; and
+
+(iv) To clarify an analysis conducted by Commerce in a previous scope determination or scope ruling. For example, an issue may arise as to whether certain processing, observed in a segment of proceeding and conducted in a third country, falls within a stage of production previously determined by the Secretary in a country-of-origin analysis in the same proceeding, pursuant to paragraph (j)(2) of this section, to be the stage of production at which the essential component of the product is produced or where the essential characteristics of the product are imparted.
+
+(2) Scope clarifications may take the form of an interpretive footnote to the scope when the scope is published or issued in instructions to U.S. Customs and Border Protection, or in a memorandum issued in an ongoing segment of a proceeding. At the discretion of the Secretary, a scope clarification may also take the form of preliminary and final notices of scope clarification published in the Federal Register. If the Secretary decides to publish preliminary and final notifications of scope clarification, it must provide interested parties at least 30 days after the publication of the preliminary notification of scope clarification to file comments with the Secretary. The Secretary will address those comments in the final notification of scope clarification published in the Federal Register.
+
+[86 FR 52374, Sept. 20, 2021, as amended at 88 FR 67077, Sept. 29, 2023; 89 FR 20833, Mar. 25, 2024]

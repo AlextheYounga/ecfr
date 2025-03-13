@@ -1,7 +1,5 @@
 ##### § 351.507 Equity. #####
 
-Link to an amendment published at 89 FR 20841, Mar. 25, 2024.
-
 (a) *Benefit*—(1) *In general.* In the case of a government-provided equity infusion, a benefit exists to the extent that the investment decision is inconsistent with the usual investment practice of private investors, including the practice regarding the provision of risk capital, in the country in which the equity infusion is made. *See* section 771(5)(E)(i) of the Act.
 
 (2) *Private investor prices available*—(i) *In general.* Except as provided in paragraph (a)(2)(iii) of this section, the Secretary will consider an equity infusion as being inconsistent with usual investment practice (*see* paragraph (a)(1) of this section) if the price paid by the government for newly issued shares is greater than the price paid by private investors for the same (or similar form of) newly issued shares.
@@ -36,4 +34,8 @@ Link to an amendment published at 89 FR 20841, Mar. 25, 2024.
 
 (b) *Time of receipt of benefit.* In the case of a government-provided equity infusion, the Secretary normally will consider the benefit to have been received on the date on which the firm received the equity infusion.
 
-(c) *Allocation of benefit to a particular time period.* The benefit conferred by an equity infusion shall be allocated over the same time period as a non-recurring subsidy. *See* § 351.524(d).
+(c) *Outside investor standard.* Any analysis made under paragraph (a) of this section will be based upon the standard of a new outside private investor. The Secretary normally will consider whether an outside private investor, under its usual investment practice, would make an equity investment in the firm, and not whether a private investor who has already invested in the firm would continue to invest in the firm.
+
+(d) *Allocation of benefit to a particular time period.* The benefit conferred by an equity infusion shall be allocated over a period of 12 years or the same time period as a non-recurring subsidy under § 351.524(d), whichever is longer.
+
+[63 FR 65407, Nov. 25, 1998, as amended at 89 FR 20841, Mar. 25, 2024]

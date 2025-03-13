@@ -1,5 +1,7 @@
 ##### § 556.904 Lease-specific abandonment accounts. #####
 
+Link to an amendment published at 89 FR 31595, Apr. 24, 2024.
+
 (a) The Regional Director may authorize you to establish a lease-specific abandonment account in a federally insured institution in lieu of the bond required under § 556.901(d). The account must provide that, except as provided in paragraph (a)(3) of this section, funds may not be withdrawn without the written approval of the Regional Director.
 
 (1) Funds in a lease-specific abandonment account must be payable upon demand to BOEM and pledged to meet your decommissioning obligations.

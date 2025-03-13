@@ -1,5 +1,7 @@
 ##### § 556.104 Information collection and proprietary information. #####
 
+Link to an amendment published at 89 FR 31590, Apr. 24, 2024.
+
 (a) *Information collection.* (1) The Office of Management and Budget (OMB) approved the collection of information under 44 U.S.C. 3501-3521), and assigned OMB Control Number 1010-0006. The title of this collection of information is “Leasing of Sulfur or Oil and Gas in the Outer Continental Shelf (30 CFR part 550, part 556, and part 560).”
 
 (2) BOEM collects this information to determine if an applicant seeking to obtain a lease or right-of-use and easement (RUE) on the OCS is qualified to hold such a lease or RUE and to determine whether any such applicant can meet the monetary and non-monetary requirements associated with a lease or RUE. Responses to this information collection are either required to obtain or retain a benefit or are mandatory under OCSLA (43 U.S.C. 1331-1356a). BOEM will protect proprietary information collected according to section 26 of OCSLA (43 U.S.C. 1352), and this section.

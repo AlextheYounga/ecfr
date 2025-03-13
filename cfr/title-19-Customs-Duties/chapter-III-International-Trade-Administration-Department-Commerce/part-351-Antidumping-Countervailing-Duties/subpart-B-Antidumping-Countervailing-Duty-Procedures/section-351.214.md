@@ -64,7 +64,7 @@
 
 (4) *Exception.* If the Secretary determines that the requirements for a request for new shipper review under paragraph (b) of this section have not been satisfied, the Secretary will reject the request and provide a written explanation of the reasons for the rejection.
 
-(e) *Suspension of liquidation.* When the Secretary initiates a new shipper review under this section, the Secretary will direct the Customs Service to suspend or continue to suspend liquidation of any unliquidated entries of the subject merchandise from the relevant exporter or producer at the applicable cash deposit rate.
+(e) *Suspension of liquidation.* When the Secretary initiates a new shipper review under this section, the Secretary will direct U.S. Customs and Border Protection to suspend or continue to suspend liquidation of any unliquidated entries of the subject merchandise from the relevant exporter or producer at the applicable cash deposit rate.
 
 (f) *Rescission of new shipper review*—(1) *Withdrawal of request for review.* The Secretary may rescind a new shipper review under this section, in whole or in part, if a producer or exporter that requested a review withdraws its request not later than 60 days after the date of publication of notice of initiation of the requested review.
 

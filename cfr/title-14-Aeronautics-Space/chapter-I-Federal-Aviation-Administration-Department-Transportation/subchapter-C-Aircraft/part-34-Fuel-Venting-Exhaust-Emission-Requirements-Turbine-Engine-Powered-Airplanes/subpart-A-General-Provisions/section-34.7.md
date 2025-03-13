@@ -1,5 +1,7 @@
 ##### § 34.7 Exemptions. #####
 
+Link to an amendment published at 89 FR 31087, Apr. 24, 2024.
+
 Notwithstanding part 11 of the Federal Aviation Regulations (14 CFR part 11), all petitions for rulemaking involving either the substance of an emission standard or test procedure prescribed by the EPA that is incorporated in this FAR, or the compliance date for such standard or procedure, must be submitted to the EPA. Information copies of such petitions are invited by the FAA. Petitions for rulemaking or exemption involving provisions of this FAR that do not affect the substance or the compliance date of an emission standard or test procedure that is prescribed by the EPA, and petitions for exemptions under the provisions for which the EPA has specifically granted exemption authority to the Secretary of Transportation are subject to part 11 of the Federal Aviation Regulations (14 CFR part 11). Petitions for rulemaking or exemptions involving these FARs must be submitted to the FAA.
 
 (a) *Exemptions based on flights for short durations at infrequent intervals.* The emission standards of this part do not apply to engines which power aircraft operated in the United States for short durations at infrequent intervals. Such operations are limited to:

@@ -1,5 +1,7 @@
 ##### § 550.1011 Bond requirements for pipeline right-of-way holders. #####
 
+Link to an amendment published at 89 FR 31590, Apr. 24, 2024.
+
 (a) When you apply for, or are the holder of, a right-of-way, you must:
 
 (1) Provide and maintain a $300,000 bond (in addition to the bond coverage required in 30 CFR part 256 and 30 CFR part 556) that guarantees compliance with all the terms and conditions of the rights-of-way you hold in an OCS area; and

@@ -1,5 +1,7 @@
 ##### § 550.199 Paperwork Reduction Act statements—information collection. #####
 
+Link to an amendment published at 89 FR 31590, Apr. 24, 2024.
+
 (a) OMB has approved the information collection requirements in part 550 under 44 U.S.C. 3501 *et seq.* The table in paragraph (e) of this section lists the subpart in the rule requiring the information and its title, provides the OMB control number, and summarizes the reasons for collecting the information and how BOEM uses the information. The associated BOEM forms required by this part are listed at the end of this table with the relevant information.
 
 (b) Respondents are OCS oil, gas, and sulphur lessees and operators. The requirement to respond to the information collections in this part is mandated under the Act (43 U.S.C. 1331 *et seq.*) and the Act's Amendments of 1978 (43 U.S.C. 1801 *et seq.*). Some responses are also required to obtain or retain a benefit or may be voluntary. Proprietary information will be protected under § 550.197, Data and information to be made available to the public or for limited inspection; parts 551, 552; and the Freedom of Information Act (5 U.S.C. 552) and its implementing regulations at 43 CFR part 2.

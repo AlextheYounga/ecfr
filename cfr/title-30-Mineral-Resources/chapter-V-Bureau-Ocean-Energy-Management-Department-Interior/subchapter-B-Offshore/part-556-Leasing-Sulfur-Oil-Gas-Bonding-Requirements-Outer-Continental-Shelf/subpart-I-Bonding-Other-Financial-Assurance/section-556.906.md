@@ -1,5 +1,7 @@
 ##### § 556.906 Termination of the period of liability and cancellation of a bond. #####
 
+Link to an amendment published at 89 FR 31596, Apr. 24, 2024.
+
 This section defines the terms and conditions under which BOEM will terminate the period of liability of a bond or cancel a bond. Terminating the period of liability of a bond ends the period during which obligations continue to accrue, but does not relieve the surety of the responsibility for obligations that accrued during the period of liability. Canceling a bond relieves the surety of all liability. The liabilities that accrue during a period of liability include obligations that started to accrue prior to the beginning of the period of liability and had not been met, and obligations that begin accruing during the period of liability.
 
 (a) When you or the surety under your bond requests termination:
