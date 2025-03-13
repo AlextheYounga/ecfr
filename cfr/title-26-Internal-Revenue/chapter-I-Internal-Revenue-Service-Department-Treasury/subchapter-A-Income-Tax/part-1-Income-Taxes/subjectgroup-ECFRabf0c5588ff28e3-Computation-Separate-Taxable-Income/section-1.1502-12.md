@@ -42,4 +42,4 @@ The separate taxable income of a member (including a case in which deductions ex
 
 (t) See § 1.1502-50 for rules relating to the computation of a member's deduction under section 250.
 
-(Secs. 1502 and 7805 of the Internal Revenue Code of 1954 (68A Stat. 637; 917; 26 U.S.C. 1502, 7805))[T.D. 6894, 31 FR 11794, Sept. 8, 1966]Editorial Note:For Federal Register citations affecting § 1.1502-12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Secs. 1502 and 7805 of the Internal Revenue Code of 1954 (68A Stat. 637; 917; 26 U.S.C. 1502, 7805))[T.D. 6894, 31 FR 11794, Sept. 8, 1966] Editorial Note:For Federal Register citations affecting § 1.1502-12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

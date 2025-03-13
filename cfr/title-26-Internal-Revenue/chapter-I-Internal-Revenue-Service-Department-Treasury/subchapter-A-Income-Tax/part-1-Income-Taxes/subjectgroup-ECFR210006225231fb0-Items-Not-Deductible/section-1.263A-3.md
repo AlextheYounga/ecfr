@@ -1,8 +1,6 @@
 ##### § 1.263A-3 Rules relating to property acquired for resale. #####
 
-(a) *Capitalization rules for property acquired for resale*—(1) *In general.* Section 263A applies to real property and personal property described in section 1221(1) acquired for resale by a retailer, wholesaler, or other taxpayer (reseller). However, for taxable years beginning after December 31, 2017, a small business taxpayer, as defined in § 1.263A-1(j), is not required to apply section 263A in that taxable year.
-For this purpose, personal property includes both tangible and intangible property.
-Property acquired for resale includes stock in trade of the taxpayer or other property which is includible in the taxpayer's inventory if on hand at the close of the taxable year, and property held by the taxpayer primarily for sale to customers in the ordinary course of the taxpayer's trade or business. See, however, § 1.263A-1(b)(11) for an exception for certain de minimis property provided to customers incident to the provision of services.
+(a) *Capitalization rules for property acquired for resale*—(1) *In general.* Section 263A applies to real property and personal property described in section 1221(1) acquired for resale by a retailer, wholesaler, or other taxpayer (reseller). However, for taxable years beginning after December 31, 2017, a small business taxpayer, as defined in § 1.263A-1(j), is not required to apply section 263A in that taxable year. For this purpose, personal property includes both tangible and intangible property. Property acquired for resale includes stock in trade of the taxpayer or other property which is includible in the taxpayer's inventory if on hand at the close of the taxable year, and property held by the taxpayer primarily for sale to customers in the ordinary course of the taxpayer's trade or business. See, however, § 1.263A-1(b)(11) for an exception for certain de minimis property provided to customers incident to the provision of services.
 
 (2) *Resellers with production activities*—(i) *In general.* Generally, a taxpayer must capitalize all direct costs and certain indirect costs associated with real property and tangible personal property it produces. See § 1.263A-2(a). Thus, except as provided in paragraphs (a)(2)(ii) and (3) of this section, a reseller, including a small reseller, that also produces property must capitalize the additional section 263A costs associated with any property it produces.
 
@@ -50,7 +48,7 @@ Property acquired for resale includes stock in trade of the taxpayer or other pr
 
 (ii) *Determination of whether personnel are engaged in purchasing activities.* The determination of whether a person is engaged in purchasing activities is based upon the activities performed by that person and not upon the person's title or job classification. Thus, for example, although an employee's job function may be described in such a way as to indicate activities outside the area of purchasing (e.g., a marketing representative), such activities must be analyzed on the basis of the activities performed by that employee. If a person performs both purchasing and non-purchasing activities, the taxpayer must reasonably allocate the person's labor costs between these activities. For example, a reasonable allocation is one based on the amount of time the person spends on each activity.
 
-(A) *1/3-2/3 rule for allocating labor costs.* A taxpayer may elect the1/3-2/3 rule for allocating labor costs of persons performing both purchasing and non-purchasing activities. If elected, the taxpayer must allocate the labor costs of all such persons using the1/3-2/3 rule. Under this rule—
+(A) *1/3-2/3 rule for allocating labor costs.* A taxpayer may elect the 1/3-2/3 rule for allocating labor costs of persons performing both purchasing and non-purchasing activities. If elected, the taxpayer must allocate the labor costs of all such persons using the 1/3-2/3 rule. Under this rule—
 
 (*1*) If less than one-third of a person's activities are related to purchasing, none of that person's labor costs are allocated to purchasing;
 
@@ -60,7 +58,7 @@ Property acquired for resale includes stock in trade of the taxpayer or other pr
 
 (B) *Example.* The application of paragraph (c)(3)(ii)(A) of this section may be illustrated by the following example:
 
-Example.Taxpayer O is a reseller that employs three persons, A, B, and C, who perform both purchasing and non- purchasing activities. These persons spend the following time performing purchasing activities: A-25 %; B-70 %; and C-50 %. Under the1/3-2/3 rule, Taxpayer O treats none of A's labor costs as purchasing costs, all of B's labor costs as purchasing costs, and Taxpayer O allocates 50 % of C's labor costs as purchasing costs.
+Example.Taxpayer O is a reseller that employs three persons, A, B, and C, who perform both purchasing and non- purchasing activities. These persons spend the following time performing purchasing activities: A-25 %; B-70 %; and C-50 %. Under the 1/3-2/3 rule, Taxpayer O treats none of A's labor costs as purchasing costs, all of B's labor costs as purchasing costs, and Taxpayer O allocates 50 % of C's labor costs as purchasing costs.
 
 (4) *Handling costs*—(i) *In general.* Handling costs include costs attributable to processing, assembling, repackaging, transporting, and other similar activities with respect to property acquired for resale, provided the activities do not come within the meaning of the term produce as defined in § 1.263A-2(a)(1). Handling costs are generally required to be capitalized under section 263A. Under this paragraph (c)(4)(i), however, handling costs incurred at a retail sales facility (as defined in paragraph (c)(5)(ii)(B) of this section) with respect to property sold to retail customers at the facility are not required to be capitalized. Thus, for example, handling costs incurred at a retail sales facility to unload, unpack, mark, and tag goods sold to retail customers at the facility are not required to be capitalized. In addition, handling costs incurred at a dual-function storage facility (as defined in paragraph (c)(5)(ii)(G) of this section) with respect to property sold to customers from the facility are not required to be capitalized to the extent that the costs are incurred with respect to property sold in on-site sales. Handling costs attributable to property sold to customers from a dual-function storage facility in on-site sales are determined by applying the ratio in paragraph (c)(5)(iii)(B) of this section.
 
@@ -236,7 +234,7 @@ Example 1. FIFO inventory method.(i) Taxpayer S uses the FIFO method of accounti
 
 (iii) S computes its purchasing costs absorption ratio for 1994 as follows:
 
-![](/graphics/ec10oc91.017.gif)(iv) S computes its storage and handling costs absorption ratio for 1994 as follows:![](/graphics/ec10oc91.018.gif)(v) S's combined absorption ratio is 8.0 %, or the sum of the purchasing costs absorption ratio (5.0 %) and the storage and handling costs absorption ratio (3.0 %). Under the simplified resale method, S determines the additional section 263A costs allocable to its ending inventory by multiplying the combined absorption ratio by its section 471 costs with respect to current year's purchases remaining in ending inventory:![](/graphics/ec10oc91.019.gif)(vi) S adds this $240,000 to the $3,000,000 of purchases remaining in its ending inventory to determine its total ending FIFO inventory of $3,240,000.Example 2. LIFO inventory method.(i) Taxpayer T uses a dollar-value LIFO inventory method. T's beginning inventory for 1994 is $2,100,000 (consisting of $2,000,000 of section 471 costs and $100,000 of additional section 263A costs). During 1994, T makes purchases of $10,000,000. In addition, T incurs purchasing costs of $460,000, storage costs of $110,000, and handling costs of $90,000. T's 1994 LIFO increment is $1,000,000 ($3,000,000 of section 471 costs in ending inventory less $2,000,000 of section 471 costs in beginning inventory).
+![](/graphics/ec10oc91.017.gif)(iv) S computes its storage and handling costs absorption ratio for 1994 as follows: ![](/graphics/ec10oc91.018.gif)(v) S's combined absorption ratio is 8.0 %, or the sum of the purchasing costs absorption ratio (5.0 %) and the storage and handling costs absorption ratio (3.0 %). Under the simplified resale method, S determines the additional section 263A costs allocable to its ending inventory by multiplying the combined absorption ratio by its section 471 costs with respect to current year's purchases remaining in ending inventory:![](/graphics/ec10oc91.019.gif)(vi) S adds this $240,000 to the $3,000,000 of purchases remaining in its ending inventory to determine its total ending FIFO inventory of $3,240,000.Example 2. LIFO inventory method.(i) Taxpayer T uses a dollar-value LIFO inventory method. T's beginning inventory for 1994 is $2,100,000 (consisting of $2,000,000 of section 471 costs and $100,000 of additional section 263A costs). During 1994, T makes purchases of $10,000,000. In addition, T incurs purchasing costs of $460,000, storage costs of $110,000, and handling costs of $90,000. T's 1994 LIFO increment is $1,000,000 ($3,000,000 of section 471 costs in ending inventory less $2,000,000 of section 471 costs in beginning inventory).
 
 (ii) In 1994, T incurs $400,000 of total mixed service costs and $1,000,000 of total labor costs (excluding labor costs included in mixed service costs). In addition, T incurs the following labor costs (excluding labor costs included in mixed service costs): purchasing—$100,000, storage—$200,000, and handling—$200,000. Accordingly, the following mixed service costs must be included in purchasing costs, storage costs, and handling costs as capitalizable mixed service costs: purchasing—$40,000 ([$100,000 divided by $1,000,000] multiplied by $400,000); storage—$80,000 ([ $200,000 divided by $1,000,000] multiplied by $400,000); and handling—$80,000 ([ $200,000 divided by $1,000,000] multiplied by $400,000).
 
@@ -248,7 +246,7 @@ Example 3. LIFO Pools.(i) Taxpayer U begins its business in 1994, and adopts the
 
 (ii) U computes its purchasing costs absorption ratio for 1994, as follows:
 
-![](/graphics/ec10oc91.020.gif)(iii) U computes its storage and handling costs absorption ratio for 1994, as follows:![](/graphics/ec10oc91.021.gif)(iv) U's combined absorption ratio is 10%, or the sum of the purchasing costs absorption ratio (4.0%) and the storage and handling costs absorption ratio (6.0%). At the end of 1994, U's ending inventory included $3,000 of current year purchases, contained in three LIFO pools (X, Y, and Z) as shown below. Under the simplified resale method, U computes its ending inventory for 1994 as follows:
+![](/graphics/ec10oc91.020.gif)(iii) U computes its storage and handling costs absorption ratio for 1994, as follows: ![](/graphics/ec10oc91.021.gif)(iv) U's combined absorption ratio is 10%, or the sum of the purchasing costs absorption ratio (4.0%) and the storage and handling costs absorption ratio (6.0%). At the end of 1994, U's ending inventory included $3,000 of current year purchases, contained in three LIFO pools (X, Y, and Z) as shown below. Under the simplified resale method, U computes its ending inventory for 1994 as follows:
 
 |               1994                |Total |  X   | Y  | Z  |
 |-----------------------------------|------|------|----|----|
@@ -260,7 +258,7 @@ Example 3. LIFO Pools.(i) Taxpayer U begins its business in 1994, and adopts the
 
 (vi) U computes its purchasing costs absorption ratio for 1995:
 
-![](/graphics/ec10oc91.022.gif)(vii) U computes its storage and handling costs absorption ratio for 1995:![](/graphics/ec10oc91.023.gif)(viii) U's combined absorption ratio is 20.0%, or the sum of the purchasing costs absorption ratio (10.0%) and the storage and handling costs absorption ratio (10.0%).
+![](/graphics/ec10oc91.022.gif)(vii) U computes its storage and handling costs absorption ratio for 1995: ![](/graphics/ec10oc91.023.gif)(viii) U's combined absorption ratio is 20.0%, or the sum of the purchasing costs absorption ratio (10.0%) and the storage and handling costs absorption ratio (10.0%).
 
 |             1995             | Total |  X   |  Y  |  Z  |
 |------------------------------|-------|------|-----|-----|
@@ -312,15 +310,15 @@ Example 3. LIFO Pools.(i) Taxpayer U begins its business in 1994, and adopts the
 
 (vi) *Example.* The provisions of this paragraph (d)(4) are illustrated by the following example:
 
-Example.(i) Taxpayer V uses the FIFO method of accounting for inventories and in 1994 elects to use the historic absorption ratio with the simplified resale method. After recomputing its additional section 263A costs in accordance with the transition rules of paragraph (d)(4)(v) of this section, V identifies the following costs incurred during the test period:1991:Add'l section 263A costs—$100
+Example.(i) Taxpayer V uses the FIFO method of accounting for inventories and in 1994 elects to use the historic absorption ratio with the simplified resale method. After recomputing its additional section 263A costs in accordance with the transition rules of paragraph (d)(4)(v) of this section, V identifies the following costs incurred during the test period:1991: Add'l section 263A costs—$100
 
 Section 471 costs—$3,000
 
-1992:Add'l section 263A costs—$200
+1992: Add'l section 263A costs—$200
 
 Section 471 costs—$4,000
 
-1993:Add'l section 263A costs—$300
+1993: Add'l section 263A costs—$300
 
 Section 471 costs—$5,000
 

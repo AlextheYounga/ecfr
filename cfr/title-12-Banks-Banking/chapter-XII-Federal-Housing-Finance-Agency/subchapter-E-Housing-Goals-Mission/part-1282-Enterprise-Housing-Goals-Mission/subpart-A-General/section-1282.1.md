@@ -1,7 +1,5 @@
 ##### § 1282.1 Definitions. #####
 
-Link to an amendment published at 89 FR 106275, Dec. 30, 2024.
-
 (a) *Statutory terms.* All terms defined in the Safety and Soundness Act are used in accordance with their statutory meaning unless otherwise defined in paragraph (b) of this section.
 
 (b) *Other terms.* As used in this part, the term:
@@ -32,7 +30,7 @@ Link to an amendment published at 89 FR 106275, Dec. 30, 2024.
 
 *Day* means a calendar day.
 
-*Designated disaster area* means any census tract that is located in a county designated by the Federal Government as adversely affected by a declared major disaster administered by FEMA, where housing assistance payments were authorized by FEMA. A census tract shall be treated as a “designated disaster area” for purposes of this part beginning on the January 1 after the FEMA designation of the county, or such earlier date as determined by FHFA, and continuing through December 31 of the third full calendar year following the FEMA designation. This time period may be adjusted for a particular disaster area by notice from FHFA to the Enterprises.
+*Designated disaster area* means any census tract that is located in a county designated by the President as adversely affected by a declared major disaster administered by FEMA under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 *et seq.*), where housing assistance payments were authorized by FEMA. A census tract shall be treated as a “designated disaster area” for purposes of this part beginning on the January 1 after the major disaster declaration of the county, or such earlier date as determined by FHFA, and continuing through December 31 of the third full calendar year following the major disaster declaration. This time period may be adjusted for a particular disaster area by notice from FHFA to the Enterprises.
 
 *Dwelling unit* means a room or unified combination of rooms with plumbing and kitchen facilities intended for use, in whole or in part, as a dwelling by one or more persons, and includes a dwelling unit in a single-family property, multifamily property, or other residential or mixed-use property.
 
@@ -254,4 +252,4 @@ Link to an amendment published at 89 FR 106275, Dec. 30, 2024.
 
 (ii) In the case of rental units, income not in excess of 50 percent of area median income, with adjustments for smaller and larger families in accordance with this part.
 
-[75 FR 55930, Sept. 14, 2010, as amended at 78 FR 2328, Jan. 11, 2013; 80 FR 53430, Sept. 3, 2015; 81 FR 76300, Nov. 2, 2016; 81 FR 96292, Dec. 29, 2016; 83 FR 5899, Feb. 12, 2018; 86 FR 73657, Dec. 28, 2021; 88 FR 23563, Apr. 18, 2023]
+[75 FR 55930, Sept. 14, 2010, as amended at 78 FR 2328, Jan. 11, 2013; 80 FR 53430, Sept. 3, 2015; 81 FR 76300, Nov. 2, 2016; 81 FR 96292, Dec. 29, 2016; 83 FR 5899, Feb. 12, 2018; 86 FR 73657, Dec. 28, 2021; 88 FR 23563, Apr. 18, 2023; 89 FR 106275, Dec. 30, 2024]

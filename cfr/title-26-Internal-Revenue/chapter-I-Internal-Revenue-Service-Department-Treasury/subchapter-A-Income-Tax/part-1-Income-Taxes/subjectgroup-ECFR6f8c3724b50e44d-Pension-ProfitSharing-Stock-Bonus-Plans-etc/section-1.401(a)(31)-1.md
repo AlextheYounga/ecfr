@@ -180,4 +180,4 @@ A-19: Even though section 401(a)(31) applies to distributions from qualified pla
 
 (b) The amendment applies retroactively to January 1, 1993.
 
-[T.D. 8619, 60 FR 49204, Sept. 22, 1995, as amended by T.D. 8880, 65 FR 21314, Apr. 21, 2000; 65 FR 34534, May 30, 2000; T.D. 9340, 72 FR 41159, July 26, 2007; T.D. 10001, 89 FR 58906, July 19, 2024]Editorial Note:By 89 FR 58906, July 19, 2024, § 1.401(a)(31)-1 was amended, however, the amendment to paragraph (b)(1) could not be incorporated due to inaccurate amendatory instruction.
+[T.D. 8619, 60 FR 49204, Sept. 22, 1995, as amended by T.D. 8880, 65 FR 21314, Apr. 21, 2000; 65 FR 34534, May 30, 2000; T.D. 9340, 72 FR 41159, July 26, 2007; T.D. 10001, 89 FR 58906, July 19, 2024] Editorial Note:By 89 FR 58906, July 19, 2024, § 1.401(a)(31)-1 was amended, however, the amendment to paragraph (b)(1) could not be incorporated due to inaccurate amendatory instruction.

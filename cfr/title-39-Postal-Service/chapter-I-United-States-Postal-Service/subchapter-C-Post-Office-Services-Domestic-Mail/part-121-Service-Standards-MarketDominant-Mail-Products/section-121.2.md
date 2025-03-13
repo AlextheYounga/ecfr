@@ -1,5 +1,7 @@
 ##### § 121.2 Periodicals. #####
 
+Link to an amendment published at 90 FR 10868, Feb. 28, 2025.
+
 (a) *End-to-End.* (1) A 3- to 6-day service standard is applied to Periodicals pieces properly accepted before the day-zero Critical Entry Time (CET) and merged with First-Class Mail pieces for surface transportation (as per the Domestic Mail Manual (DMM)), with the standard specifically equaling the sum of 1 day plus the applicable First-Class Mail service standard.
 
 (2) A 3-day service standard is applied to Periodicals pieces properly accepted before the day-zero CET if: The origin and destination are separately in Puerto Rico and the U.S. Virgin Islands; or if the origin is in Alaska, the service standard set forth in paragraph (a)(1) does not apply, and the destination is in the following 3-digit ZIP Code areas in Alaska (or designated portions thereof): 995 (5-digit ZIP Codes 99540 through 99599), 996, 997, 998, and 999.

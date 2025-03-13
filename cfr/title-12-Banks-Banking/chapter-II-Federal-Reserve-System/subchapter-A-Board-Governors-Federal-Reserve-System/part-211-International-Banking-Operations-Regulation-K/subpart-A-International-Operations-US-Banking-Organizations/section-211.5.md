@@ -58,7 +58,7 @@
 
 (i) Provide the Board with information related to its financial condition and activities and such other information as the Board may require;
 
-(ii) Ensure that any transaction by an Edge corporation with an affiliate2 is on substantially the same terms, including interest rates and collateral, as those prevailing at the same time for comparable transactions by the Edge corporation with nonaffiliated persons, and does not involve more than the normal risk of repayment or present other unfavorable features;
+(ii) Ensure that any transaction by an Edge corporation with an affiliate 2 is on substantially the same terms, including interest rates and collateral, as those prevailing at the same time for comparable transactions by the Edge corporation with nonaffiliated persons, and does not involve more than the normal risk of repayment or present other unfavorable features;
 
 2 For purposes of this paragraph (d)(2), *affiliate* means any organization that would be an affiliate under section 23A of the FRA (12 U.S.C. 371c) if the Edge corporation were a member bank.
 

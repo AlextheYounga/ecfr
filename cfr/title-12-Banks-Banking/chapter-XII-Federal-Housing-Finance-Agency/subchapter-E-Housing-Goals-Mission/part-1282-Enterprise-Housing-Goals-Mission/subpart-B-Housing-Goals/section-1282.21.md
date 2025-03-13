@@ -1,23 +1,7 @@
-##### § 1282.21 Housing plans. #####
+##### § 1282.21 Final determination of compliance with housing goals; notice of final determination. #####
 
-Link to an amendment published at 89 FR 106276, Dec. 30, 2024.
+(a) *Final determination.* On an annual basis, the Director will make a final determination of each Enterprise's performance under each single-family housing goal and subgoal and each multifamily housing goal and subgoal. The final determination will address whether an Enterprise has failed, or there is a substantial probability that an Enterprise will fail, to meet any housing goal or subgoal and whether the achievement of that housing goal or subgoal was or is feasible.
 
-(a) *General.* If the Director determines that an Enterprise has failed, or there is a substantial probability that an Enterprise will fail, to meet any housing goal and that the achievement of the housing goal was or is feasible, the Director may require the Enterprise to submit a housing plan for approval by the Director.
+(b) *Notice of final determination.* The Director will provide each Enterprise with written notification of the final determination. If the Enterprise fails to meet any housing goal or subgoal, the notification will specify whether the Enterprise is required to submit a housing plan for approval under § 1282.22.
 
-(b) *Nature of plan.* If the Director requires a housing plan, the housing plan shall:
-
-(1) Be feasible;
-
-(2) Be sufficiently specific to enable the Director to monitor compliance periodically;
-
-(3) Describe the specific actions that the Enterprise will take in a time period determined by the Director to improve the Enterprise's performance under the housing goal; and
-
-(4) Address any additional matters relevant to the plan as required, in writing, by the Director.
-
-(c) *Deadline for submission.* The Enterprise shall submit the housing plan to the Director within 45 days after issuance of a notice requiring the Enterprise to submit a housing plan. The Director may extend the deadline for submission of a plan, in writing and for a time certain, to the extent the Director determines an extension is necessary.
-
-(d) *Review of housing plans.* The Director shall review and approve or disapprove housing plans in accordance with 12 U.S.C. 4566(c)(4) and (c)(5).
-
-(e) *Resubmission.* If the Director disapproves an initial housing plan submitted by an Enterprise, the Enterprise shall submit an amended plan acceptable to the Director not later than 15 days after the Director's disapproval of the initial plan; the Director may extend the deadline if the Director determines an extension is in the public interest. If the amended plan is not acceptable to the Director, the Director may afford the Enterprise 15 days to submit a new plan.
-
-[75 FR 55930, Sept. 14, 2010, as amended at 83 FR 5899, Feb. 12, 2018]
+[89 FR 106276, Dec. 30, 2024]

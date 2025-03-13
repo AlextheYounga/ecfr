@@ -1,6 +1,6 @@
 ##### § 225.137 Acquisitions of shares pursuant to section 4(c)(6) of the Bank Holding Company Act. #####
 
-(a) The Board has received a request for an interpretation of section 4(c)(6) of the Bank Holding Company Act (“Act”)1 in connection with a proposal under which a number of bank holding companies would purchase interests in an insurance company to be formed for the purpose of underwriting or reinsuring credit life and credit accident and health insurance sold in connection with extensions of credit by the stockholder bank holding companies and their affiliates.
+(a) The Board has received a request for an interpretation of section 4(c)(6) of the Bank Holding Company Act (“Act”) 1 in connection with a proposal under which a number of bank holding companies would purchase interests in an insurance company to be formed for the purpose of underwriting or reinsuring credit life and credit accident and health insurance sold in connection with extensions of credit by the stockholder bank holding companies and their affiliates.
 
 1 It should be noted that every Board Order granting approval under section 4(c)(8) of the Act contains the following paragraph:
 

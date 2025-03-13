@@ -4,7 +4,7 @@ Unless the Regional Director approves the use of different forms, a federally in
 
 (a) Form notice to members of intent to merge and convert and special meeting of members:
 
-Notice of Special Meeting on Proposal To Merge and Convert to Non-federally insured Status(Insert Name of Merging Credit Union)
+Notice of Special Meeting on Proposal To Merge and Convert to Non-federally insured Status (Insert Name of Merging Credit Union)
 
 On (insert date), the Board of Directors of your credit union approved a proposition to merge with (insert name of continuing credit union) and to convert from federal share (deposit) insurance to private insurance. You are encouraged to attend a special meeting of our credit union at (insert address) on (insert time and date).
 
@@ -47,11 +47,11 @@ Enclosed with this Notice of Special Meeting is a Ballot for Merger Proposal and
 
 By order of the board of directors.
 
-(signature of Board Presiding Officer)(insert name and title of Board Presiding Officer) (insert date)
+(signature of Board Presiding Officer) (insert name and title of Board Presiding Officer) (insert date)
 
 (b) Form ballot:
 
-Ballot for Merger Proposal and Conversion to Non-federally insured StatusName of Member: (insert name)Account Number: (insert account number)
+Ballot for Merger Proposal and Conversion to Non-federally insured Status Name of Member: (insert name) Account Number: (insert account number)
 
 The credit union must receive this ballot by (insert date and time for vote). Please mail or bring it to: (Insert name of independent entity and address)
 
@@ -71,7 +71,7 @@ I vote on the proposal as follows (check one box):
 
 Signed:
 
-(Insert printed member's name)
+ (Insert printed member's name)
 
 Date:
 
@@ -107,7 +107,7 @@ We, the undersigned officers of the (insert name of merging credit union), certi
 
 This certification signed the (insert date):
 
-(signature of Board Presiding Officer)(insert typed name and title)(signature of Board Secretary)(insert typed name and title)
+(signature of Board Presiding Officer) (insert typed name and title) (signature of Board Secretary)(insert typed name and title)
 
 I (insert name), an officer of the (insert name of independent entity that conducted the vote), hereby certify that the information recorded in paragraph 5 above is accurate.
 

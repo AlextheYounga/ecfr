@@ -1,11 +1,9 @@
-##### § 1282.20 Determination of compliance with housing goals; notice of determination. #####
+##### § 1282.20 Preliminary determination of compliance with housing goals; notice of preliminary determination. #####
 
-Link to an amendment published at 89 FR 106276, Dec. 30, 2024.
+(a) *Preliminary determination.* On an annual basis, the Director will evaluate each Enterprise's performance under each single-family housing goal and subgoal and each multifamily housing goal and subgoal. The Director will make a preliminary determination of whether an Enterprise has failed, or there is a substantial probability that an Enterprise will fail, to meet each housing goal or subgoal established by this subpart.
 
-(a) *Single-family housing goals.* The Director shall evaluate each Enterprise's performance under the low-income families housing goal, the very low-income families housing goal, the low-income areas housing goal, the low-income areas housing subgoal, and the refinancing mortgages housing goal on an annual basis. If the Director determines that an Enterprise has failed, or there is a substantial probability that an Enterprise will fail, to meet a single-family housing goal established by this subpart, the Director shall notify the Enterprise in writing of such preliminary determination.
+(b) *Notice of preliminary determination.* The Director will provide written notice to each Enterprise of the preliminary determination of its performance under each housing goal and subgoal established by this subpart, the reasons for such determination, and the information on which the Director based the determination.
 
-(b) *Multifamily housing goal and subgoals.* The Director shall evaluate each Enterprise's performance under the multifamily low-income housing goal, the multifamily very low-income housing subgoal, and the small multifamily low-income housing subgoal, on an annual basis. If the Director determines that an Enterprise has failed, or there is a substantial probability that an Enterprise will fail, to meet a multifamily housing goal or subgoal established by this subpart, the Director shall notify the Enterprise in writing of such preliminary determination.
+(c) *Response by Enterprise.* Any notification to an Enterprise of a preliminary determination under this section will provide the Enterprise with an opportunity to respond in writing in accordance with the procedures at 12 U.S.C. 4566(b). Relevant information in a timely written response from an Enterprise will be included in the information the Director considers when making a final determination of housing goals compliance under § 1282.21.
 
-(c) Any notification to an Enterprise of a preliminary determination under this section shall provide the Enterprise with an opportunity to respond in writing in accordance with the procedures at 12 U.S.C. 4566(b).
-
-[75 FR 55930, Sept. 14, 2010, as amended at 80 FR 53433, Sept. 3, 2015]
+[89 FR 106276, Dec. 30, 2024]

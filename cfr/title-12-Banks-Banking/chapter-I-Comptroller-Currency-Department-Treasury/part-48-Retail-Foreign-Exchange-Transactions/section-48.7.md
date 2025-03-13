@@ -66,7 +66,7 @@
 
 (6) *Other records.* Written acknowledgments of receipt of the risk disclosure statement required by § 48.6(b), offset instructions pursuant to § 48.5(c), records required under paragraphs (b) through (f) of this section, trading cards, signature cards, street books, journals, ledgers, payment records, copies of statements of purchase, and all other records, data, and memoranda that have been prepared in the course of the national bank's retail forex business.
 
-(b) *Ratio of profitable accounts.*(1) With respect to its active retail forex customer accounts over which it did not exercise investment discretion and that are not retail forex proprietary accounts open for any period of time during the quarter, a national bank must prepare and maintain on a quarterly basis (calendar quarter):
+(b) *Ratio of profitable accounts.* (1) With respect to its active retail forex customer accounts over which it did not exercise investment discretion and that are not retail forex proprietary accounts open for any period of time during the quarter, a national bank must prepare and maintain on a quarterly basis (calendar quarter):
 
 (i) A calculation of the percentage of such accounts that were profitable;
 

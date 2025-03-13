@@ -18,7 +18,7 @@
 
 (7) The creditor's failure to mail or deliver a periodic statement to the consumer's last known address if that address was received by the creditor, in writing, at least 20 days before the end of the billing cycle for which the statement was required.
 
-(b) *Billing error notice.*28 A billing error notice is a written notice29 from a consumer that:
+(b) *Billing error notice.*28 A billing error notice is a written notice 29 from a consumer that:
 
 28 [Reserved]
 

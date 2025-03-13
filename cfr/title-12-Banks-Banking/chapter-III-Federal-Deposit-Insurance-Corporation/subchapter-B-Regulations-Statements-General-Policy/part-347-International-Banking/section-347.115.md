@@ -16,7 +16,7 @@ In addition to its general banking powers and if permitted by the law of the sta
 
 (ii) An agency or instrumentality of such national government if supported by the taxing authority, guarantee, or full faith and credit of the national government.
 
-(2) Underwrite, distribute and deal, invest in or trade obligations1 rated as investment grade of:
+(2) Underwrite, distribute and deal, invest in or trade obligations 1 rated as investment grade of:
 
 1 If the obligation is an equity interest, it must be held through a subsidiary of the foreign branch and the insured state nonmember bank must meet its minimum capital requirements.
 
@@ -32,7 +32,7 @@ In addition to its general banking powers and if permitted by the law of the sta
 
 (iii) Shares of automated electronic payment networks, professional societies, schools, and similar entities necessary to the business of the branch.
 
-(2) Aggregate local investments (other than those required by the law of the foreign country or permissible under section 5136 of the Revised Statutes (12 U.S.C. 24 (Seventh)) by all the bank's branches in a single foreign country must not exceed 1 percent of the total deposits in all the bank's branches in that country as reported in the preceding year-end Report of Income and Condition (Call Report):2
+(2) Aggregate local investments (other than those required by the law of the foreign country or permissible under section 5136 of the Revised Statutes (12 U.S.C. 24 (Seventh)) by all the bank's branches in a single foreign country must not exceed 1 percent of the total deposits in all the bank's branches in that country as reported in the preceding year-end Report of Income and Condition (Call Report): 2
 
 2 If a branch has recently been acquired by the bank and the branch was not previously required to file a Call Report, branch deposits as of the acquisition date must be used.
 

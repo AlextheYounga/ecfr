@@ -38,11 +38,11 @@
 
 (2) *Year unamortized items taken into account*—(i) *In general.* If, at the end of a partner's taxable year, the fraction determined under paragraph (g)(2)(ii) of this section is—
 
-(A) Greater than2/3, the partner must continue to take the unamortized income and expense items into account ratably over the 4-year spread period;
+(A) Greater than 2/3, the partner must continue to take the unamortized income and expense items into account ratably over the 4-year spread period;
 
-(B) Greater than1/3 but less than or equal to2/3, the partner must, in addition to its ratable amortization, take into account in such year 50 percent of the income and expense items that would otherwise be unamortized at the end of such year (however, this paragraph (g)(2)(i)(B) is only applied once with respect to a partner's interest in a particular partnership); or
+(B) Greater than 1/3 but less than or equal to 2/3, the partner must, in addition to its ratable amortization, take into account in such year 50 percent of the income and expense items that would otherwise be unamortized at the end of such year (however, this paragraph (g)(2)(i)(B) is only applied once with respect to a partner's interest in a particular partnership); or
 
-(C) Less than or equal to1/3, the partner must take into account the entire balance of unamortized income and expense items in such year.
+(C) Less than or equal to 1/3, the partner must take into account the entire balance of unamortized income and expense items in such year.
 
 (ii) *Determination of fraction.* For purposes of paragraph (g)(2)(i) of this section, the numerator of the fraction is the partner's proportionate interest in the partnership at the end of the partner's taxable year and the denominator is the partner's proportionate interest in the partnership as of the last day of the partnership's year of change.
 

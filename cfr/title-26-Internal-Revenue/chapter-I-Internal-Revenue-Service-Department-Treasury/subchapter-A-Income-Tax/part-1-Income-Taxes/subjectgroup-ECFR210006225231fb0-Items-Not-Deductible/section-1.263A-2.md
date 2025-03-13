@@ -164,15 +164,15 @@ Example.(i) Taxpayer M uses the FIFO method of accounting for inventories and fo
 
 Section 471 costs—$3,000
 
-1992:Add'l section 263A costs—$200
+1992: Add'l section 263A costs—$200
 
 Section 471 costs—$4,000
 
-1993:Add'l section 263A costs—$300
+1993: Add'l section 263A costs—$300
 
 Section 471 costs—$5,000
 
-(ii) Therefore, M computes a 5% historic absorption ratio determined as follows:![](/graphics/ec10oc91.011.gif)(iii) In 1994, M incurs $10,000 of section 471 costs of which $3,000 remain in inventory at the end of the year. Under the simplified production method using a historic absorption ratio, M determines the additional section 263A costs allocable to its ending inventory by multiplying its historic absorption ratio (5%) by the section 471 costs remaining in its ending inventory as follows:![](/graphics/ec10oc91.012.gif)(iv) To determine its ending inventory under section 263A, M adds the additional section 263A costs allocable to ending inventory to its section 471 costs remaining in ending inventory ($3,150 = $150 + $3,000). The balance of M's additional section 263A costs incurred during 1994 is taken into account in 1994 as part of M's cost of goods sold.
+(ii) Therefore, M computes a 5% historic absorption ratio determined as follows:![](/graphics/ec10oc91.011.gif)(iii) In 1994, M incurs $10,000 of section 471 costs of which $3,000 remain in inventory at the end of the year. Under the simplified production method using a historic absorption ratio, M determines the additional section 263A costs allocable to its ending inventory by multiplying its historic absorption ratio (5%) by the section 471 costs remaining in its ending inventory as follows: ![](/graphics/ec10oc91.012.gif)(iv) To determine its ending inventory under section 263A, M adds the additional section 263A costs allocable to ending inventory to its section 471 costs remaining in ending inventory ($3,150 = $150 + $3,000). The balance of M's additional section 263A costs incurred during 1994 is taken into account in 1994 as part of M's cost of goods sold.
 
 (v) M's qualifying period ends with the close of its 1998 taxable year. Therefore, 1999 is a recomputation year in which M must compute its actual absorption ratio. M determines its actual absorption ratio for 1999 to be 5.25% and compares that ratio to its historic absorption ratio (5.0%). Therefore, M must continue to use its historic absorption ratio of 5.0% throughout an extended qualifying period, 1999 through 2004 (the recomputation year and the following five taxable years).
 

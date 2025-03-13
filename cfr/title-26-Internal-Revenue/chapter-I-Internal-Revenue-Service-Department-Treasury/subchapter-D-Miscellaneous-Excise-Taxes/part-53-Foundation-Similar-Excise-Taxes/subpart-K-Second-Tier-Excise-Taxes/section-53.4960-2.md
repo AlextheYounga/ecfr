@@ -64,8 +64,7 @@
 
 (2) *Treatment of future payment amount as present value for certain amounts.* For purposes of determining the present value of remuneration that is scheduled to be actually or constructively paid within 90 days of vesting, the employer may treat the future amount that is to be paid as the present value at vesting.
 
-(f) *Examples.* The following examples illustrate the rules of this section. For purposes of these examples, assume any entity referred to as “ATEO” is an ATEO, any
-entity referred to as “CORP” is not an ATEO, and all taxpayers use the calendar year as their taxable year.
+(f) *Examples.* The following examples illustrate the rules of this section. For purposes of these examples, assume any entity referred to as “ATEO” is an ATEO, any entity referred to as “CORP” is not an ATEO, and all taxpayers use the calendar year as their taxable year.
 
 (1) *Example 1 (Account balance plan)*—(i) *Facts.* Employee A is a covered employee of ATEO 1. Employee A participates in a nonqualified deferred compensation plan (the NQDC plan) in which the account balance is adjusted based on the investment returns on predetermined actual investments. On January 1, 2022, ATEO 1 credits $100,000 to Employee A's account under the plan, subject to the requirement that Employee A remain employed through June 30, 2024. On June 30, 2024, the vested account balance is $110,000. Due to earnings or losses on the account balance, the closing account balance on each of the following dates is: $115,000 on December 31, 2024, $120,000 on December 31, 2025, $100,000 on December 31, 2026, and $110,000 on December 31, 2027. During 2028, Employee A defers an additional $10,000 under the plan, all of which is vested at the time of deferral. On December 31, 2028, the closing account balance is $125,000. In 2029, ATEO 1 pays $10,000 to Employee A under the plan. On December 31, 2029, the closing account balance is $135,000 due to earnings on the account balance.
 
@@ -105,8 +104,6 @@ entity referred to as “CORP” is not an ATEO, and all taxpayers use the calen
 
 (ii) *Conclusion (Regular wages).* The $8,000 of salary is regular wages within the meaning of § 31.3402(g)-1(a)(1)(ii) because it is an amount paid at a periodic rate for the current payroll period. Thus, $8,000 is treated as remuneration paid on January 5, 2024 (when it is actually or constructively paid), and, therefore, is treated as remuneration paid in ATEO 5's 2024 applicable year.
 
-(iii) *Conclusion (Amounts other than regular wages).* The $10,000 bonus is not regular wages within the meaning of § 31.3402(g)-1(a)(1)(ii) because it is not an amount
-paid at a periodic rate for the current payroll period. Thus, $10,000 is treated
-as remuneration paid on December 31, 2023 (when it is vested) and, therefore, is treated as remuneration paid in ATEO 5's 2023 applicable year.
+(iii) *Conclusion (Amounts other than regular wages).* The $10,000 bonus is not regular wages within the meaning of § 31.3402(g)-1(a)(1)(ii) because it is not an amount paid at a periodic rate for the current payroll period. Thus, $10,000 is treated as remuneration paid on December 31, 2023 (when it is vested) and, therefore, is treated as remuneration paid in ATEO 5's 2023 applicable year.
 
 [T.D. 9938, 86 FR 6219, Jan. 19, 2021]

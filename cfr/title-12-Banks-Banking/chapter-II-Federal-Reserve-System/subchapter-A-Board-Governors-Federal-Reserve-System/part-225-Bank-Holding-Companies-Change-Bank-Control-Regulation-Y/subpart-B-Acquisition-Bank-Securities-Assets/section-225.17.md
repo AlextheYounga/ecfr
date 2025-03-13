@@ -2,11 +2,11 @@
 
 (a) *Transactions that qualify under this section.* An acquisition by a company of control of a bank may be consummated 30 days after providing notice to the appropriate Reserve Bank in accordance with paragraph (b) of this section, provided that all of the following conditions are met:
 
-(1) The shareholder or shareholders who control at least 67 percent of the shares of the bank will control, immediately after the reorganization, at least 67 percent of the shares of the holding company in substantially the same proportion, except for changes in shareholders' interests resulting from the exercise of dissenting shareholders' rights under state or federal law;4
+(1) The shareholder or shareholders who control at least 67 percent of the shares of the bank will control, immediately after the reorganization, at least 67 percent of the shares of the holding company in substantially the same proportion, except for changes in shareholders' interests resulting from the exercise of dissenting shareholders' rights under state or federal law; 4
 
 4 A shareholder of a bank in reorganization will be considered to have the same proportional interest in the holding company if the shareholder interest increases, on a *pro rata* basis, as a result of either the redemption of shares from dissenting shareholders by the bank or bank holding company, or the acquisition of shares of dissenting shareholders by the remaining shareholders.
 
-(2) No shareholder, or group of shareholders acting in concert, will, following the reorganization, own or control 10 percent or more of any class of voting shares of the bank holding company, unless that shareholder or group of shareholders was authorized, after review under the Change in Bank Control Act of 1978 (12 U.S.C. 1817(j)) by the appropriate federal banking agency for the bank, to own or control 10 percent or more of any class of voting shares of the bank;5
+(2) No shareholder, or group of shareholders acting in concert, will, following the reorganization, own or control 10 percent or more of any class of voting shares of the bank holding company, unless that shareholder or group of shareholders was authorized, after review under the Change in Bank Control Act of 1978 (12 U.S.C. 1817(j)) by the appropriate federal banking agency for the bank, to own or control 10 percent or more of any class of voting shares of the bank; 5
 
 5 This procedure is not available in cases in which the exercise of dissenting shareholders' rights would cause a company that is not a bank holding company (other than the company in formation) to be required to register as a bank holding company. This procedure also is not available for the formation of a bank holding company organized in mutual form.
 
@@ -16,7 +16,7 @@
 
 (5) At the time of the reorganization, neither the bank nor any of its officers, directors, or principal shareholders is involved in any unresolved supervisory or enforcement matters with any appropriate federal banking agency;
 
-(6) The company demonstrates that any debt that it incurs at the time of the reorganization, and the proposed means of retiring this debt, will not place undue burden on the holding company or its subsidiary on a *pro forma* basis;6
+(6) The company demonstrates that any debt that it incurs at the time of the reorganization, and the proposed means of retiring this debt, will not place undue burden on the holding company or its subsidiary on a *pro forma* basis; 6
 
 6 For a banking organization with consolidated assets, on a *pro forma* basis, of less than $3 billion (other than a banking organization that will control a de novo bank), this requirement is satisfied if the proposal complies with the Board's Small Bank Holding Company and Savings and Loan Holding Company Policy Statement (appendix C of this part).
 

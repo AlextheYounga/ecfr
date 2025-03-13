@@ -86,7 +86,7 @@
 
 (9) *Termination of program or facility.* (i) A program or facility established under this paragraph (d) shall cease extending new credit no later than one year after the date of the first extension of credit under the program or facility or the date of any extension of the program or facility by the Board under paragraph (d)(9)(ii) of this section.
 
-(ii) A program or facility may be renewed upon the vote of not less than five members of the Board2 that unusual and exigent circumstances continue to exist and the program or facility continues to appropriately provide liquidity to the financial system, and the approval of the Secretary of the Treasury.
+(ii) A program or facility may be renewed upon the vote of not less than five members of the Board 2 that unusual and exigent circumstances continue to exist and the program or facility continues to appropriately provide liquidity to the financial system, and the approval of the Secretary of the Treasury.
 
 2 Unless fewer are authorized pursuant to section 11(r) of the Federal Reserve Act. 12 U.S.C. 248(r).
 

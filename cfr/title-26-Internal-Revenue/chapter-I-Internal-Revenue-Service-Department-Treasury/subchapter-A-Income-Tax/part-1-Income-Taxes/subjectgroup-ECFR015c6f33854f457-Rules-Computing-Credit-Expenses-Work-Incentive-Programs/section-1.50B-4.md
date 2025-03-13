@@ -25,7 +25,7 @@ Example 1.Partnership ABCD hires a WIN employee on January 1, 1972, and hires a 
 |       5        |   3,000    |
 |     Total      |   22,000   |
 
-On December 31, 1973, the ratio in which the partners divide the general profits of the LMN partnership is as follows: L receives three-tenths of the general profits, M receives two-tenths of the general profits, and N receives five-tenths of the general profits.(ii) Under this section the WIN expenses are apportioned to the partners of LMN partnership as follows:
+On December 31, 1973, the ratio in which the partners divide the general profits of the LMN partnership is as follows: L receives three-tenths of the general profits, M receives two-tenths of the general profits, and N receives five-tenths of the general profits. (ii) Under this section the WIN expenses are apportioned to the partners of LMN partnership as follows:
 
 |  WIN employees   |  1   |  2   |  3   |  4   |  5   | Total |
 |------------------|------|------|------|------|------|-------|

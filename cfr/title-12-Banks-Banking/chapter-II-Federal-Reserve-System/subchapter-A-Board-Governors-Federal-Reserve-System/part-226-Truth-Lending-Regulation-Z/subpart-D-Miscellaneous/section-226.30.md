@@ -1,6 +1,6 @@
 ##### § 226.30 Limitation on rates. #####
 
-A creditor shall include in any consumer credit contract secured by a dwelling and subject to the act and this regulation the maximum interest rate that may be imposed during the term of the obligation50 when:
+A creditor shall include in any consumer credit contract secured by a dwelling and subject to the act and this regulation the maximum interest rate that may be imposed during the term of the obligation 50 when:
 
 50 [Reserved]
 

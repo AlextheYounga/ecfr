@@ -18,7 +18,7 @@
 
 (3) *Examples.* The following examples illustrate the principles of this paragraph (b):
 
-Example 1. Basic case.(i) L, L1, and L2 compose a loss group. L has outstanding common stock, the value of which is $100. L1 has outstanding common stock and preferred stock that is described in section 1504(a)(4). L owns 90 percent of the L1 common stock, and A owns the remaining 10 percent of the L1 common stock plus all the preferred stock. The value of the L1 common stock is $40, and the value of the L1 preferred stock is $30. L2 has outstanding common stock, 50 percent of which is owned by L and 50 percent by L1. The L group has an ownership change. The following is a graphic illustration of these facts:![](/graphics/er02jy99.011.gif)(ii) Under paragraph (b)(1) of this section, the L group does not include the value of the stock of any member that is owned directly or indirectly by another member in computing its consolidated section 382 limitation. Accordingly, the value of the stock of the loss group is $134, the sum of the value of—
+Example 1. Basic case.(i) L, L1, and L2 compose a loss group. L has outstanding common stock, the value of which is $100. L1 has outstanding common stock and preferred stock that is described in section 1504(a)(4). L owns 90 percent of the L1 common stock, and A owns the remaining 10 percent of the L1 common stock plus all the preferred stock. The value of the L1 common stock is $40, and the value of the L1 preferred stock is $30. L2 has outstanding common stock, 50 percent of which is owned by L and 50 percent by L1. The L group has an ownership change. The following is a graphic illustration of these facts: ![](/graphics/er02jy99.011.gif)(ii) Under paragraph (b)(1) of this section, the L group does not include the value of the stock of any member that is owned directly or indirectly by another member in computing its consolidated section 382 limitation. Accordingly, the value of the stock of the loss group is $134, the sum of the value of—
 
 (a) The common stock of L ($100);
 
@@ -26,7 +26,7 @@ Example 1. Basic case.(i) L, L1, and L2 compose a loss group. L has outstanding 
 
 (c) The L1 preferred stock ($30) owned by A.
 
-Example 2. Indirect ownership.(i) L and L1 compose a consolidated group. L's stock has a value of $100. L owns 80 shares (worth $80) and corporation M owns 20 shares (worth $20) of the L1 stock. L also owns 79 percent of the stock of corporation M. The L group has an ownership change. The following is a graphic illustration of these facts:![](/graphics/er02jy99.012.gif)(ii) Under paragraph (b)(1) of this section, because of L's more than 5 percent ownership interest in M, a nonmember, L is considered to indirectly own 15.8 shares of the L1 stock held by M (79% × 20 shares). The value of the L loss group is $104.20, the sum of the values of—
+Example 2. Indirect ownership.(i) L and L1 compose a consolidated group. L's stock has a value of $100. L owns 80 shares (worth $80) and corporation M owns 20 shares (worth $20) of the L1 stock. L also owns 79 percent of the stock of corporation M. The L group has an ownership change. The following is a graphic illustration of these facts: ![](/graphics/er02jy99.012.gif)(ii) Under paragraph (b)(1) of this section, because of L's more than 5 percent ownership interest in M, a nonmember, L is considered to indirectly own 15.8 shares of the L1 stock held by M (79% × 20 shares). The value of the L loss group is $104.20, the sum of the values of—
 
 (a) The L stock ($100); and
 

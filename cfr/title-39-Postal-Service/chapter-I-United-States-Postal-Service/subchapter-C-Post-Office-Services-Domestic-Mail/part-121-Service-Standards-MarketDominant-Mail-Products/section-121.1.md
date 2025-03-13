@@ -1,5 +1,7 @@
 ##### § 121.1 First-Class Mail. #####
 
+Link to an amendment published at 90 FR 10868, Feb. 28, 2025.
+
 (a) A same day service standard is applied to USPS ConnectTM Local Mail pieces properly accepted at participating Destination Delivery Units before the day-zero Critical Entry Time (CET); a one day service standard is applied to USPS ConnectTM Local Mail pieces accepted via carrier pick-up or properly accepted at participating Destination Delivery Units after the day-zero CET.
 
 (b) A 1-day (overnight) service standard is applied to intra-Sectional Center Facility (SCF) domestic Presort First-Class Mail pieces properly accepted at the SCF before the day-zero Critical Entry Time (CET), except for mail between Puerto Rico and the U.S. Virgin Islands, and mail destined to American Samoa and the following 3-digit ZIP Code areas in Alaska (or designated portions thereof): 995 (5-digit ZIP Codes 99540 through 99599), 996, 997, 998, and 999.

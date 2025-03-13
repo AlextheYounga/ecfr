@@ -8,7 +8,7 @@
 
 (i) The credit is offered or extended to consumers;
 
-(ii) The offering or extension of credit is done regularly;1
+(ii) The offering or extension of credit is done regularly; 1
 
 1 [Reserved]
 

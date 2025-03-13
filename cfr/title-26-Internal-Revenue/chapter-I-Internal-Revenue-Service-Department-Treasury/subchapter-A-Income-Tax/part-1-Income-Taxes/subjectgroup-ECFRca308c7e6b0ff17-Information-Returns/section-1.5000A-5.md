@@ -12,4 +12,4 @@
 
 (c) *Applicability date.* Except as otherwise provided in this paragraph (c), this section and §§ 1.5000A-1 through 1.5000A-4 apply for months beginning after December 31, 2013. Section 1.5000A-2(b)(2)(ix) applies for months beginning after September 28, 2020.
 
-[T.D. 9632, 78 FR 53655, Aug. 30, 2013, as amended by T.D. 9970, 87 FR 76575, Dec. 15, 2022]Tax on Certain Foreign Procurement
+[T.D. 9632, 78 FR 53655, Aug. 30, 2013, as amended by T.D. 9970, 87 FR 76575, Dec. 15, 2022] Tax on Certain Foreign Procurement

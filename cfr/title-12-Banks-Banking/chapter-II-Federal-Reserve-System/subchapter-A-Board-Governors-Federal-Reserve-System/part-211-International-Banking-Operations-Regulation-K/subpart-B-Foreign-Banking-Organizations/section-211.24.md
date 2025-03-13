@@ -154,7 +154,7 @@
 
 (d) *Representative offices*—(1) *Permissible activities.* A representative office may engage in:
 
-(i) *Representational and administrative functions.* Representational and administrative functions in connection with the banking activities of the foreign bank, which may include soliciting new business for the foreign bank; conducting research; acting as liaison between the foreign bank's head office and customers in the United States; performing preliminary and servicing steps in connection with lending;11 or performing back-office functions; but shall not include contracting for any deposit or deposit-like liability, lending money, or engaging in any other banking activity for the foreign bank;
+(i) *Representational and administrative functions.* Representational and administrative functions in connection with the banking activities of the foreign bank, which may include soliciting new business for the foreign bank; conducting research; acting as liaison between the foreign bank's head office and customers in the United States; performing preliminary and servicing steps in connection with lending; 11 or performing back-office functions; but shall not include contracting for any deposit or deposit-like liability, lending money, or engaging in any other banking activity for the foreign bank;
 
 11*See* 12 CFR 250.141(h) for activities that constitute preliminary and servicing steps.
 

@@ -40,7 +40,7 @@
 
 (2) *Model certificate.*
 
-CERTIFICATE OF REGISTERED FEEDSTOCK USER(To support tax-free removals and entries of kerosene under section 4082 of the Internal Revenue Code.)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Buyer) certifies the followingName of Buyer
+CERTIFICATE OF REGISTERED FEEDSTOCK USER (To support tax-free removals and entries of kerosene under section 4082 of the Internal Revenue Code.) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Buyer) certifies the followingName of Buyer
 
 under penalties of perjury:
 

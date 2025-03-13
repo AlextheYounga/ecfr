@@ -10,7 +10,7 @@
 
 (3) For an insured depository institution with consolidated total assets of $1 billion or more as of the beginning of such fiscal year, an assessment by management of the effectiveness of such internal control structure and procedures as of the end of such fiscal year that must include the following:
 
-(i) A statement identifying the internal control framework14 used by management to evaluate the effectiveness of the insured depository institution's internal control over financial reporting;
+(i) A statement identifying the internal control framework 14 used by management to evaluate the effectiveness of the insured depository institution's internal control over financial reporting;
 
 14 For example, in the United States, the Committee of Sponsoring Organizations (COSO) of the Treadway Commission has published *Internal Control—Integrated Framework,* including an addendum on safeguarding assets. Known as the COSO report, this publication provides a suitable and available framework for purposes of management's assessment.
 

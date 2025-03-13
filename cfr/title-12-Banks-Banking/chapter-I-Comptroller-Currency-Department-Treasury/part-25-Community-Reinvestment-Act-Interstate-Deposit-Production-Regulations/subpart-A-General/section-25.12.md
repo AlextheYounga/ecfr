@@ -262,4 +262,4 @@ Income level includes:
 
 *Women's depository institution (WDI)* means “women's depository institution” as defined in 12 U.S.C. 2907(b)(2).
 
-[89 FR 7165, Feb. 1, 2024, as amended at 89 FR 7166, Feb. 1, 2024]Editorial Note:At 89 FR 7166, Feb. 1, 2024, § 25.12 was amended by removing “appropriate Federal banking agency” and adding “OCC” in the definition of “Small bank and savings association”; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[89 FR 7165, Feb. 1, 2024, as amended at 89 FR 7166, Feb. 1, 2024] Editorial Note:At 89 FR 7166, Feb. 1, 2024, § 25.12 was amended by removing “appropriate Federal banking agency” and adding “OCC” in the definition of “Small bank and savings association”; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

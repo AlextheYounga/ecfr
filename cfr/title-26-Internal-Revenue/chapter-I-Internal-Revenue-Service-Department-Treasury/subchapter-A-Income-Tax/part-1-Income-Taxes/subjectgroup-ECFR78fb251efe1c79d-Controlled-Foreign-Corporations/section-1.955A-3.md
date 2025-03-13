@@ -18,8 +18,7 @@
 
 (B) The second U.S. shareholder controls one or more controlled foreign corporations, and
 
-(C) Any of the controlled foreign corporations are the subject of the election by the first U.S. shareholder,
-unless the second U.S. shareholder consents to the election by the first U.S. shareholder.
+(C) Any of the controlled foreign corporations are the subject of the election by the first U.S. shareholder, unless the second U.S. shareholder consents to the election by the first U.S. shareholder.
 
 (2) *Group taxable years defined.* The “group taxable year” is the common taxable year of a related group.
 

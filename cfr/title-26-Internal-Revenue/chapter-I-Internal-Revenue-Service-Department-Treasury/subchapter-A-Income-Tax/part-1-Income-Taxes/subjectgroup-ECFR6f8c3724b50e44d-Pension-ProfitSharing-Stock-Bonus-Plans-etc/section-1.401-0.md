@@ -8,4 +8,4 @@
 
 (2) *Qualified trust.* The term “qualified trust” means a trust which satisfies the requirements of section 401(a).
 
-(Sec. 411 Internal Revenue Code of 1954 (88 Stat. 901; 26 U.S.C. 411))[T.D. 7501, 42 FR 42320, Aug. 23, 1977]
+(Sec. 411 Internal Revenue Code of 1954 (88 Stat. 901; 26 U.S.C. 411)) [T.D. 7501, 42 FR 42320, Aug. 23, 1977]

@@ -62,7 +62,7 @@
 
 (f) *Contingency funding plan*—(1) *General.* A bank holding company subject to this subpart must establish and maintain a contingency funding plan that sets out the company's strategies for addressing liquidity needs during liquidity stress events. The contingency funding plan must be commensurate with the company's capital structure, risk profile, complexity, activities, size, and established liquidity risk tolerance. The company must update the contingency funding plan at least annually, and when changes to market and idiosyncratic conditions warrant.
 
-(2) *Components of the contingency funding plan*—(i)*Quantitative assessment.* The contingency funding plan must:
+(2) *Components of the contingency funding plan*—(i) *Quantitative assessment.* The contingency funding plan must:
 
 (A) Identify liquidity stress events that could have a significant impact on the bank holding company's liquidity;
 

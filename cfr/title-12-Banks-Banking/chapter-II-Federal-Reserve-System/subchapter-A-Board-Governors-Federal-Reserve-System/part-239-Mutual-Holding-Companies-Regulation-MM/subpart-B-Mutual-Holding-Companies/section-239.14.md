@@ -4,8 +4,7 @@
 
 (1) *Board of directors approval.* The board of directors of the mutual holding company must adopt a resolution proposing the charter amendment that states the text of such amendment;
 
-(2) *Form of filing*—
-(i) *Application requirement.* If the proposed charter amendment would render more difficult or discourage a merger, proxy contest, the assumption of control by a mutual account holder of the mutual holding company, or the removal of incumbent management; or involve a significant issue of law or policy; then, the mutual holding shall submit the charter amendment to the appropriate Reserve Bank for approval. Applications submitted under this paragraph are subject to the processing procedures at § 238.14 of this chapter.
+(2) *Form of filing*— (i) *Application requirement.* If the proposed charter amendment would render more difficult or discourage a merger, proxy contest, the assumption of control by a mutual account holder of the mutual holding company, or the removal of incumbent management; or involve a significant issue of law or policy; then, the mutual holding shall submit the charter amendment to the appropriate Reserve Bank for approval. Applications submitted under this paragraph are subject to the processing procedures at § 238.14 of this chapter.
 
 (ii) *Notice requirement.* If the proposed charter amendment does not implicate paragraph (a)(2)(i) of this section and is permissible under all applicable laws, rules and regulations, the mutual holding company shall submit the proposed amendment to the appropriate Reserve Bank at least 30 days prior to the effective date of the proposed charter amendment.
 

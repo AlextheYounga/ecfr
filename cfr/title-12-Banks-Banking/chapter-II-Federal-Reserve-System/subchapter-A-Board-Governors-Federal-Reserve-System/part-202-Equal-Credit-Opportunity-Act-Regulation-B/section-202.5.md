@@ -1,6 +1,6 @@
 ##### § 202.5 Rules concerning requests for information. #####
 
-(a) *General rules*—(1) *Requests for information.* Except as provided in paragraphs (b) through (d) of this section, a creditor may request any information in connection with a credit transaction.1
+(a) *General rules*—(1) *Requests for information.* Except as provided in paragraphs (b) through (d) of this section, a creditor may request any information in connection with a credit transaction. 1
 
 1 This paragraph does not limit or abrogate any Federal or State law regarding privacy, privileged information, credit reporting limitations, or similar restrictions on obtainable information.
 

@@ -1,7 +1,5 @@
 ##### § 1.6045-0 Table of contents. #####
 
-Link to an amendment published at 89 FR 106958, Dec. 30, 2024.
-
 In order to facilitate the use of § 1.6045-1, this section lists the paragraphs contained in § 1.6045-1.
 
 § 1.6045-1 Returns of information of brokers and barter exchanges.
@@ -82,15 +80,27 @@ In order to facilitate the use of § 1.6045-1, this section lists the paragraphs
 
 (21) Digital asset middleman.
 
-(i) In general.
+(i) Effectuating service.
 
-(ii) [Reserved]
+(ii) Position to know.
 
-(iii) Facilitative service.
+(iii) Trading front-end service and other effectuating services.
 
-(A) [Reserved]
+(A) Trading front-end service.
 
-(B) Special rule involving sales of digital assets under paragraphs (a)(9)(ii)(B) through (D) of this section.
+(*1*) In general.
+
+(*2*) Location of digital assets received in an exchange and indirect transmission of orders.
+
+(B) Other effectuating services.
+
+(C) Excluded activities.
+
+(*1*) Validation services.
+
+(*2*) Licensing of software or selling of hardware.
+
+(D) Digital asset trading protocol.
 
 (22) Processor of digital asset payments.
 
@@ -720,4 +730,4 @@ In order to facilitate the use of § 1.6045-1, this section lists the paragraphs
 
 (r) Cross-references.
 
-[T.D. 10000, 89 FR 56548, July 9, 2024]
+[T.D. 10000, 89 FR 56548, July 9, 2024, as amended by TD 10021, 89 FR 106958, Dec. 30, 2024]

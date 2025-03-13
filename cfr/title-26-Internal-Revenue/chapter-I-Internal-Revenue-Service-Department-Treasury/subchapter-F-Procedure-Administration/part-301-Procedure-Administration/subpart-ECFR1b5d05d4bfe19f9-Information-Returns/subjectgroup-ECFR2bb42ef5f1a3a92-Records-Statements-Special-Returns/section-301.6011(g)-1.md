@@ -56,4 +56,4 @@
 
 (j) *Effective date/applicability date.* This section will apply with respect to transactions entered into by a tax-exempt entity after May 17, 2006.
 
-[T.D. 9492, 75 FR 38709, July 6, 2010]Income Tax Returns
+[T.D. 9492, 75 FR 38709, July 6, 2010] Income Tax Returns

@@ -116,7 +116,7 @@
 
 (iii) The instrument is not secured, not covered by a guarantee of the System institution and not subject to any other arrangement that legally or economically enhances the seniority of the instrument in relation to more senior claims;
 
-(iv) The instrument has a minimum original maturity of at least 5 years. At the beginning of each of the last 5 years of the life of the instrument, the amount that is eligible to be included in tier 2 capital is reduced by 20 percent of the original amount of the instrument (net of redemptions) and is excluded from regulatory capital when the remaining maturity is less than 1 year. In addition, the instrument must not have any terms or features that require, or create significant incentives for, the System institution to redeem the instrument prior to maturity;4
+(iv) The instrument has a minimum original maturity of at least 5 years. At the beginning of each of the last 5 years of the life of the instrument, the amount that is eligible to be included in tier 2 capital is reduced by 20 percent of the original amount of the instrument (net of redemptions) and is excluded from regulatory capital when the remaining maturity is less than 1 year. In addition, the instrument must not have any terms or features that require, or create significant incentives for, the System institution to redeem the instrument prior to maturity; 4
 
 4 An instrument that by its terms automatically converts into a tier 1 capital instrument prior to five years after issuance complies with the five-year maturity requirement of this criterion.
 
@@ -126,7 +126,7 @@
 
 (B) The System institution does not create at issuance, through action or communication, an expectation the call option will be exercised.
 
-(C) Prior to exercising the call option, or immediately thereafter, the System institution must either: replace any amount called with an equivalent amount of an instrument that meets the criteria for regulatory capital under this section;5 or demonstrate to the satisfaction of FCA that following redemption, the System institution would continue to hold an amount of capital that is commensurate with its risk;
+(C) Prior to exercising the call option, or immediately thereafter, the System institution must either: replace any amount called with an equivalent amount of an instrument that meets the criteria for regulatory capital under this section; 5 or demonstrate to the satisfaction of FCA that following redemption, the System institution would continue to hold an amount of capital that is commensurate with its risk;
 
 5 A System institution may replace tier 2 capital instruments concurrent with the redemption of existing tier 2 capital instruments.
 

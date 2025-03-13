@@ -552,4 +552,4 @@ This section lists the section headings that appear in §§ 1.199A-1 through 1.1
 
 (iv) Charitable remainder trusts.
 
-[T.D. 9847, 84 FR 2988, Feb. 8, 2019; T.D. 9847, 84 FR 15954, Apr. 17, 2019; T.D. 9899, 85 FR 38065, June 25, 2020]Editorial Note:At 84 FR 15954, Apr. 17, 2019, § 1.199A-0 was amended be adding an entry for § 1.199A-2(b)(2)(iv), however, this paragraph already exists and the amendment could not be incorporated due to inaccurate amendatory instruction.
+[T.D. 9847, 84 FR 2988, Feb. 8, 2019; T.D. 9847, 84 FR 15954, Apr. 17, 2019; T.D. 9899, 85 FR 38065, June 25, 2020] Editorial Note:At 84 FR 15954, Apr. 17, 2019, § 1.199A-0 was amended be adding an entry for § 1.199A-2(b)(2)(iv), however, this paragraph already exists and the amendment could not be incorporated due to inaccurate amendatory instruction.

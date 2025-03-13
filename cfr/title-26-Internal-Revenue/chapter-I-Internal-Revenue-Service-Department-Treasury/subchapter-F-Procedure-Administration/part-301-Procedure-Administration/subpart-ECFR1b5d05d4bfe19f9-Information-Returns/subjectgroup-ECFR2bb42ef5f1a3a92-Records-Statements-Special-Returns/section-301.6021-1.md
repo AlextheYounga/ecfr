@@ -2,4 +2,4 @@
 
 Whenever there are in any internal revenue district any articles subject to tax, which are not owned or possessed by or under the care or control of any person within such district, and of which no list has been transmitted to the district director, as required by law or by regulations prescribed pursuant to law, the district director, or other authorized internal revenue officer or employee, shall enter the premises where such articles are situated, shall make such inspection of the articles as may be necessary, and shall make lists of the same according to the forms prescribed. Such lists, being subscribed by the district director or other authorized internal revenue officer or employee, shall be sufficient lists of such articles for all purposes.
 
-information returnsInformation Concerning Persons Subject to Special Provisions
+information returns Information Concerning Persons Subject to Special Provisions

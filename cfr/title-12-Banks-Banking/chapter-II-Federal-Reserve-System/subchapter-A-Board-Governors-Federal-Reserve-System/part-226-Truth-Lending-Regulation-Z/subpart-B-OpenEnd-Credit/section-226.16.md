@@ -2,7 +2,7 @@
 
 (a) *Actually available terms.* If an advertisement for credit states specific credit terms, it shall state only those terms that actually are or will be arranged or offered by the creditor.
 
-(b) *Advertisement of terms that require additional disclosures.* (1) Any term required to be disclosed under § 226.6(b)(3) set forth affirmatively or negatively in an advertisement for an open-end (not home-secured) credit plan triggers additional disclosures under this section. Any term required to be disclosed under § 226.6(a)(1) or (a)(2) set forth affirmatively or negatively in an advertisement for a home-equity plan subject to the requirements of § 226.5b triggers additional disclosures under this section. If any of the terms that trigger additional disclosures under this paragraph is set forth in an advertisement, the advertisement shall also clearly and conspicuously set forth the following:36d
+(b) *Advertisement of terms that require additional disclosures.* (1) Any term required to be disclosed under § 226.6(b)(3) set forth affirmatively or negatively in an advertisement for an open-end (not home-secured) credit plan triggers additional disclosures under this section. Any term required to be disclosed under § 226.6(a)(1) or (a)(2) set forth affirmatively or negatively in an advertisement for a home-equity plan subject to the requirements of § 226.5b triggers additional disclosures under this section. If any of the terms that trigger additional disclosures under this paragraph is set forth in an advertisement, the advertisement shall also clearly and conspicuously set forth the following: 36d
 
 36d [Reserved]
 

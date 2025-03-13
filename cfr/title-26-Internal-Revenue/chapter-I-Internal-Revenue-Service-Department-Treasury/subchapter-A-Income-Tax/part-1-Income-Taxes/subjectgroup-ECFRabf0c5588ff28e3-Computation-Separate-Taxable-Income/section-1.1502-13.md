@@ -948,6 +948,6 @@
 
 (10) *Certain qualified stock dispositions.* Paragraph (f)(5)(ii)(C) of this section applies to any qualified stock disposition (as defined in § 1.336-1(b)(6)) for which the disposition date (as defined in § 1.336-1(b)(8)) is on or after May 15, 2013.
 
-[T.D. 8597, 60 FR 36685, July 18, 1995]Editorial Notes:1. For Federal Register citations affecting § 1.1502-13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 8597, 60 FR 36685, July 18, 1995] Editorial Notes:1. For Federal Register citations affecting § 1.1502-13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2. By T.D. 9905, 85 FR 56843, Sept. 14, 2020, § 1.1502-13 was amended in part by redesignating paragraphs (h)(2)(v)(a) and (b) as paragraphs (h)(2)(iv)(A) and (B); however, the amendment could not be incorporated due to inaccurate amendatory instruction.

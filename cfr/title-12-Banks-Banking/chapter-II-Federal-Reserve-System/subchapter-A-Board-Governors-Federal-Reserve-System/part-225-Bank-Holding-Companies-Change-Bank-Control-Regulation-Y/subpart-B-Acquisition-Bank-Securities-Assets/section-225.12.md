@@ -42,7 +42,7 @@ The Board may require an application under this subpart if it determines that th
 
 (A) The merger of holding companies that are subsidiaries of the bank holding company;
 
-(B) The formation of a subsidiary holding company;1
+(B) The formation of a subsidiary holding company; 1
 
 1 In the case of a transaction that results in the formation or designation of a new bank holding company, the new bank holding company must complete the registration requirements described in § 225.5.
 

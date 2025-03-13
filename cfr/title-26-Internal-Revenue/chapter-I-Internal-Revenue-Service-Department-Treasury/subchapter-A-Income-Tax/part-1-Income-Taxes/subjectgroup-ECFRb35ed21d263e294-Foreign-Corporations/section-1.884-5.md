@@ -307,7 +307,7 @@ Example 3.Assume the same facts as in *Example 1.* In addition, assume that fore
 
 (B) With respect to each class relied on to meet the 80 percent requirement of paragraph (d)(4)(i)(A) of this section—
 
-(*1*) Trades in each such class are effected, other than in *de minimis* quantities, on such market or markets on at least 60 days during the taxable year (or1/6 of the number of days in a short taxable year); and
+(*1*) Trades in each such class are effected, other than in *de minimis* quantities, on such market or markets on at least 60 days during the taxable year (or 1/6 of the number of days in a short taxable year); and
 
 (*2*) The aggregate number of shares in each such class that is traded on such market or markets during the taxable year is at least 10 percent of the average number of shares outstanding in that class during the taxable year (or, in the case of a short taxable year, a percentage that equals at least 10 percent of the number of days in the short taxable year divided by 365).
 

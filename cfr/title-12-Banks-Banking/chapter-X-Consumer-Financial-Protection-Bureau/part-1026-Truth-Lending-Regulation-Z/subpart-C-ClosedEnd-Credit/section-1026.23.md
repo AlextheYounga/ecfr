@@ -52,13 +52,13 @@
 
 (i) The finance charge and other disclosures affected by the finance charge (such as the amount financed and the annual percentage rate) shall be considered accurate for purposes of this section if the disclosed finance charge:
 
-(A) Is understated by no more than1/2 of 1 percent of the face amount of the note or $100, whichever is greater; or
+(A) Is understated by no more than 1/2 of 1 percent of the face amount of the note or $100, whichever is greater; or
 
 (B) Is greater than the amount required to be disclosed.
 
 (ii) The total of payments for each transaction subject to § 1026.19(e) and (f) shall be considered accurate for purposes of this section if the disclosed total of payments:
 
-(A) Is understated by no more than1/2 of 1 percent of the face amount of the note or $100, whichever is greater; or
+(A) Is understated by no more than 1/2 of 1 percent of the face amount of the note or $100, whichever is greater; or
 
 (B) Is greater than the amount required to be disclosed.
 

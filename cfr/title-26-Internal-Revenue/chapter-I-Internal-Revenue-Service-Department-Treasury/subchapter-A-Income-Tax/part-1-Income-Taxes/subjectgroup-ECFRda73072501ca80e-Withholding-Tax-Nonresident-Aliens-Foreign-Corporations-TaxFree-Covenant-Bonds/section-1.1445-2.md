@@ -58,7 +58,7 @@ Under penalties of perjury I declare that I have examined this certification and
 
 Under penalties of perjury I declare that I have examined this certification and to the best of my knowledge and belief it is true, correct, and complete, and I further declare that I have authority to sign this document on behalf of [name of transferor].
 
-[Signature(s) and date][Title(s)]”
+[Signature(s) and date] [Title(s)]”
 
 (v) *Form W-9.* For purposes of paragraph (b)(2)(i) of this section, a certification of non-foreign status includes a valid Form W-9, *Request for Taxpayer Identification Number and Certification*, or its successor, submitted to the transferee by the transferor.
 

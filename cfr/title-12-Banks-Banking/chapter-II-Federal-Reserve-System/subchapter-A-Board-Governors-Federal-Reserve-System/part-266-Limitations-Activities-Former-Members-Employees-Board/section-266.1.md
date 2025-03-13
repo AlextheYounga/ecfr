@@ -1,5 +1,5 @@
 ##### § 266.1 Basis and scope. #####
 
-This part, issued under authority of section 11(i) of the Federal Reserve Act (12 U.S.C. 248(i)), and pursuant to section 552 of title 5 of the United States Code, which requires that every agency shall publish in the Federal Register its rules of procedure, relates to limitations on former members and employees of the Board with respect to participation in matters connected with their former duties and official responsibilities while serving with the Board.1
+This part, issued under authority of section 11(i) of the Federal Reserve Act (12 U.S.C. 248(i)), and pursuant to section 552 of title 5 of the United States Code, which requires that every agency shall publish in the Federal Register its rules of procedure, relates to limitations on former members and employees of the Board with respect to participation in matters connected with their former duties and official responsibilities while serving with the Board. 1
 
 1 While the Board has not adopted rules with regard to the disclosure of unpublished information by former Board members and employees, it advises such persons not to disclose unpublished information of the Board obtained in the course of their work. Questions in this regard may be addressed to the General Counsel or the Secretary of the Board.

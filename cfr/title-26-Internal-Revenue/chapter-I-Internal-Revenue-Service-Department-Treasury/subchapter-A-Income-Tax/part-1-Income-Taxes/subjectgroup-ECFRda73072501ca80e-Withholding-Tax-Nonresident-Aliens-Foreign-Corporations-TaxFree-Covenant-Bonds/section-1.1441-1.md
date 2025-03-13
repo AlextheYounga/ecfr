@@ -740,4 +740,4 @@ Example.SCO is a U.S. securities clearing organization that provides clearing se
 
 (3) *Special rules related to section 871(m).* Paragraphs (b)(4)(xxi), (b)(4)(xxiii), (e)(3)(ii)(E), and (e)(6) of this section apply to payments made on or after September 18, 2015. Paragraphs (e)(5)(ii)(C) and (e)(5)(v)(B)(*4*) of this section apply to payments made on or after on January 19, 2017.
 
-[T.D. 8734, 62 FR 53424, Oct. 14, 1997]Editorial Note:For Federal Register citations affecting § 1.1441-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 8734, 62 FR 53424, Oct. 14, 1997] Editorial Note:For Federal Register citations affecting § 1.1441-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

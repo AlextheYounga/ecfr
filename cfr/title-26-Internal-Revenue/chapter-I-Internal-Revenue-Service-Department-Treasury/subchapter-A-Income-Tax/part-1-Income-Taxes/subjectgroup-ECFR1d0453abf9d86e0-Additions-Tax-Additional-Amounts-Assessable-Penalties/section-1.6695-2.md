@@ -12,8 +12,7 @@
 
 (b) *Due diligence requirements.* A preparer must satisfy the following due diligence requirements:
 
-(1) *Completion and submission of Form 8867*—(i)
-The tax return preparer must complete Form 8867, “Paid Preparer's Due Diligence Checklist,” or complete such other form and provide such other information as may be prescribed by the Internal Revenue Service (IRS), and—
+(1) *Completion and submission of Form 8867*—(i) The tax return preparer must complete Form 8867, “Paid Preparer's Due Diligence Checklist,” or complete such other form and provide such other information as may be prescribed by the Internal Revenue Service (IRS), and—
 
 (A) In the case of a signing tax return preparer electronically filing the tax return or claim for refund, must electronically file the completed Form 8867 (or successor form) with the tax return or claim for refund;
 

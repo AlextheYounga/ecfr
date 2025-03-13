@@ -116,8 +116,7 @@
 
 (e) *Calculation of the stress capital buffer*—(1) *General.* FHFA will determine the stress capital buffer that applies under § 1240.11 pursuant to this paragraph (e). FHFA will calculate the Enterprise's stress capital buffer requirement annually.
 
-(2) *Stress capital buffer calculation.* An Enterprise's stress capital buffer is
-equal to the Enterprise's adjusted total assets, as of the last day of the previous calendar quarter, multiplied by the greater of:
+(2) *Stress capital buffer calculation.* An Enterprise's stress capital buffer is equal to the Enterprise's adjusted total assets, as of the last day of the previous calendar quarter, multiplied by the greater of:
 
 (i) The following calculation:
 
@@ -129,8 +128,7 @@ equal to the Enterprise's adjusted total assets, as of the last day of the previ
 
 (*1*) The sum of the Enterprise's planned common stock dividends (expressed as a dollar amount) for each of the fourth through seventh quarters of the planning horizon; to
 
-(*2*) The adjusted total assets of the Enterprise in the quarter in which the Enterprise had its lowest projected ratio of common equity tier 1 capital to adjusted total assets, in any quarter of the planning horizon under a supervisory stress test; and
-(ii) 0.75 percent.
+(*2*) The adjusted total assets of the Enterprise in the quarter in which the Enterprise had its lowest projected ratio of common equity tier 1 capital to adjusted total assets, in any quarter of the planning horizon under a supervisory stress test; and (ii) 0.75 percent.
 
 (3) *Recalculation of stress capital buffer.* If an Enterprise resubmits its capital plan pursuant to paragraph (d)(4) of this section, FHFA may recalculate the Enterprise's stress capital buffer. FHFA will provide notice of whether the Enterprise's stress capital buffer will be recalculated within 75 calendar days after the date on which the capital plan is resubmitted, unless FHFA provides notice to the Enterprise that it is extending the time period.
 
@@ -192,8 +190,7 @@ equal to the Enterprise's adjusted total assets, as of the last day of the previ
 
 (2) *Timing of request.* A request for reconsideration of a stress capital buffer, provided under paragraph (g) of this section, must be received within 15 calendar days of receipt of a notice of an Enterprise's stress capital buffer.
 
-(3) *Contents of request.* (i) A request for reconsideration must include a detailed explanation of why reconsideration should be granted (that is, why a stress capital buffer should be reconsidered). With respect to any information that was not
-previously provided to FHFA in the Enterprise's capital plan, the request should include an explanation of why the information should be considered.
+(3) *Contents of request.* (i) A request for reconsideration must include a detailed explanation of why reconsideration should be granted (that is, why a stress capital buffer should be reconsidered). With respect to any information that was not previously provided to FHFA in the Enterprise's capital plan, the request should include an explanation of why the information should be considered.
 
 (ii) A request for reconsideration may include a request for an informal hearing on the Enterprise's request for reconsideration.
 
@@ -221,8 +218,7 @@ previously provided to FHFA in the Enterprise's capital plan, the request should
 
 (ii) In acting on a request for prior approval of a capital distribution, FHFA will apply the considerations and principles in paragraph (f) of this section, as appropriate. In addition, FHFA may disapprove the transaction if the Enterprise does not provide all of the information required to be submitted under paragraph (i)(2) of this section.
 
-(4) *Disapproval and hearing.* (i) FHFA will notify the Enterprise in writing
-of the reasons for a decision to disapprove any proposed capital distribution. Within 15 calendar days after receipt of a disapproval by FHFA, the Enterprise may submit a written request for a hearing.
+(4) *Disapproval and hearing.* (i) FHFA will notify the Enterprise in writing of the reasons for a decision to disapprove any proposed capital distribution. Within 15 calendar days after receipt of a disapproval by FHFA, the Enterprise may submit a written request for a hearing.
 
 (ii) FHFA may, in its sole discretion, order an informal hearing if FHFA finds that a hearing is appropriate or necessary to resolve disputes regarding material issues of fact. An informal hearing shall be held within 30 calendar days of a request, if granted, provided that FHFA may extend this period upon notice to the requesting party.
 

@@ -298,4 +298,4 @@
 
 (iv) The term “net worth” means the retained earnings balance of the credit union at quarter end as determined under generally accepted accounting principles and as further defined in § 702.2 of this chapter.
 
-[49 FR 30685, Aug. 1, 1984]Editorial Note:For Federal Register citations affecting § 701.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[49 FR 30685, Aug. 1, 1984] Editorial Note:For Federal Register citations affecting § 701.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

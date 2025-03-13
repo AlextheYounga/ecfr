@@ -52,7 +52,7 @@
 
 (3) *Formula for determining deemed death benefit.* The deemed death benefit (DDB) at the end of any policy year for any particular employee is equal to—
 
-R/YWhere—R is the net level premium reserve at the end of that policy year for all benefits provided to the employee by the policy or, if greater, the fair market value of the policy at the end of that policy year; andY is the net single premium for insurance (the premium for one dollar of paid-up, whole life insurance) at the employee's age at the end of that policy year.
+R/Y Where— R is the net level premium reserve at the end of that policy year for all benefits provided to the employee by the policy or, if greater, the fair market value of the policy at the end of that policy year; and Y is the net single premium for insurance (the premium for one dollar of paid-up, whole life insurance) at the employee's age at the end of that policy year.
 
 (4) *Mortality tables and interest rates used.* For purposes of paragraph (d) (2) and (3) of this section, the net level premium reserve (*R*) and the net single premium (*X* or *Y*) shall be based on the 1958 CSO Mortality Table and 4 percent interest.
 

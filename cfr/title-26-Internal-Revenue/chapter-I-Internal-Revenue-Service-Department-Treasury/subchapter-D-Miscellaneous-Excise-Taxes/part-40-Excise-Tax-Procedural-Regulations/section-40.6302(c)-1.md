@@ -22,7 +22,7 @@
 
 (ii) *Regular method taxes.* Any person that made a return of tax reporting regular method taxes for the second preceding calendar quarter (the look-back quarter) is considered to have complied with the requirement of this part 40 for deposit of regular method taxes for the current calendar quarter if—
 
-(A) The deposit of regular method taxes for each semimonthly period in the current calendar quarter is not less than1/6 of the net tax liability for regular method taxes reported for the look-back quarter;
+(A) The deposit of regular method taxes for each semimonthly period in the current calendar quarter is not less than 1/6 of the net tax liability for regular method taxes reported for the look-back quarter;
 
 (B) Each deposit is made on time;
 
@@ -32,7 +32,7 @@
 
 (iii) *Alternative method taxes.* Any person that made a return of tax reporting alternative method taxes for the look-back quarter is considered to have complied with the requirement of this part 40 for deposit of alternative method taxes for the current calendar quarter if—
 
-(A) The deposit of alternative method taxes for each semimonthly period in the current calendar quarter is not less than1/6 of the net tax liability for alternative method taxes reported for the look-back quarter;
+(A) The deposit of alternative method taxes for each semimonthly period in the current calendar quarter is not less than 1/6 of the net tax liability for alternative method taxes reported for the look-back quarter;
 
 (B) Each deposit is made on time;
 
@@ -40,7 +40,7 @@
 
 (D) The person's liability does not include any alternative method tax that was not imposed at all times during the look-back quarter and the month preceding the look-back quarter.
 
-(iv) *Modification for tax rate increase.* The safe harbor rules of this paragraph (b)(2) do not apply to regular method taxes or alternative method taxes for the first and second calendar quarters beginning on or after the effective date of an increase in the rate of any tax to which this part 40 applies unless the deposit of those taxes for each semimonthly period in the calendar quarter is not less than1/6 of the tax liability the person would have had with respect to those taxes for the look-back quarter if the increased rate of tax had been in effect for the look-back quarter.
+(iv) *Modification for tax rate increase.* The safe harbor rules of this paragraph (b)(2) do not apply to regular method taxes or alternative method taxes for the first and second calendar quarters beginning on or after the effective date of an increase in the rate of any tax to which this part 40 applies unless the deposit of those taxes for each semimonthly period in the calendar quarter is not less than 1/6 of the tax liability the person would have had with respect to those taxes for the look-back quarter if the increased rate of tax had been in effect for the look-back quarter.
 
 (v) *Failure to comply with deposit requirements.* If a person fails to make deposits as required under this part 40, the IRS may withdraw the person's right to use the safe harbor rules of this paragraph (b)(2).
 

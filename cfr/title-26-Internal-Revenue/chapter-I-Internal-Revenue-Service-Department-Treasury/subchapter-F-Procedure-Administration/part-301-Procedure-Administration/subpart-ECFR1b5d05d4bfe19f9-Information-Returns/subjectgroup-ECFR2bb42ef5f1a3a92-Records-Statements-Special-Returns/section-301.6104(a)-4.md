@@ -12,4 +12,4 @@
 
 (d) *Authorized representative.* “Authorized representative” means the representative of a plan participant designated by the participant in writing to inspect material described in §§ 301.6104(a)-2 and 301.6104(a)-3. The document designating the authorized representative must be signed by the plan participant and must specify that the representative is authorized to inspect the material. The document, or a copy, must be filed with the office of the Internal Revenue Service in which the authorized representative is to inspect the material. A copy which is reproduced by a photographic process need not be certified as a true and correct copy of the original.
 
-(Secs. 6104(a)(1)(A), 6104(a)(1)(B), and 7805 of the Internal Revenue Code of 1954 (72 Stat. 1660, 88 Stat. 940, 68A Stat. 917; 26 U.S.C. 6104(a)(1)(A), 6104(a)(1)(B), 7805))[T.D. 7845, 47 FR 50488, Nov. 8, 1982]
+(Secs. 6104(a)(1)(A), 6104(a)(1)(B), and 7805 of the Internal Revenue Code of 1954 (72 Stat. 1660, 88 Stat. 940, 68A Stat. 917; 26 U.S.C. 6104(a)(1)(A), 6104(a)(1)(B), 7805)) [T.D. 7845, 47 FR 50488, Nov. 8, 1982]

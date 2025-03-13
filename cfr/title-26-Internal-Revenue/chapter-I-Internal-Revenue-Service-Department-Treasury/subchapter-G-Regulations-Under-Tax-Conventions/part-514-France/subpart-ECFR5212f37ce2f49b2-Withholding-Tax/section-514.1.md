@@ -58,7 +58,7 @@ IV. The term “life annuities” referred to in Article 8 of this Convention me
 
 The convention of October 18, 1946, provides, in part, as follows:
 
-Title IIIAdministrative AssistanceArticle 13
+Title III Administrative AssistanceArticle 13
 
 (1) The competent authorities of the two Contracting States may prescribe regulations necessary to interpret and carry out the provisions of the present Convention and the Convention of July 25, 1939.
 
