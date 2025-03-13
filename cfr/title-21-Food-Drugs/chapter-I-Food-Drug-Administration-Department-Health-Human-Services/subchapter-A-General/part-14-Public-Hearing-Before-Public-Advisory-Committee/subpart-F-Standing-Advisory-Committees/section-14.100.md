@@ -20,19 +20,15 @@ Standing advisory committees and the dates of their establishment are as follows
 
 (ii) Function: The committee reviews and evaluates safety, dependence, and health issues relating to tobacco products and provides appropriate advice, information, and recommendations to the Commissioner of Food and Drugs. Specifically, the committee will submit reports and recommendations on tobacco-related topics, including: The impact of the use of menthol in cigarettes on the public health, including such use among children, African Americans, Hispanics and other racial and ethnic minorities; the nature and impact of the use of dissolvable tobacco products on the public health, including such use on children; the effects of the alteration of nicotine yields from tobacco products and whether there is a threshold level below which nicotine yields do not produce dependence on the tobacco product involved; and any application submitted by a manufacturer for a modified risk tobacco product. The committee may provide recommendations to the Secretary of Health and Human Services regarding any regulations to be issued under the Federal Food, Drug, and Cosmetic Act and may review any applications for new tobacco products or petitions for exemption under section 906(e) of the Family Smoking Prevention and Tobacco Control Act. The committee may consider and provide recommendations on any other matter as provided in the Family Smoking Prevention and Tobacco Control Act.
 
-(b) *Center for Biologics Evaluation and Research*—(1) *Allergenic Products Advisory Committee.* (i) Date established: July 9, 1984.
-
-(ii) Function: Reviews and evaluates data on the safety and effectiveness of allergenic biological products intended for use in the diagnosis, prevention, or treatment of human disease.
-
-(2) *Cellular, Tissue and Gene Therapies Advisory Committee.* (i) Date established: October 28, 1988.
+(b) *Center for Biologics Evaluation and Research*—(1) *Cellular, Tissue and Gene Therapies Advisory Committee.* (i) Date established: October 28, 1988.
 
 (ii) Function: Reviews and evaluates available data relating to the safety, effectiveness, and appropriate use of human cells, human tissues, gene transfer therapies and xenotransplantation products which are intended for transplantation, implantation, infusion, and transfer in the prevention and treatment of a broad spectrum of human diseases and in the reconstruction, repair or replacement of tissues for various conditions. The Committee also considers the quality and relevance of FDA's research program which provides scientific support for the regulation of these products, and makes appropriate recommendations to the Commissioner of Food and Drugs.
 
-(3) *Blood Products Advisory Committee.* (i) Date established: May 13, 1980.
+(2) *Blood Products Advisory Committee.* (i) Date established: May 13, 1980.
 
 (ii) Function: Reviews and evaluates data on the safety and effectiveness, and appropriate use of blood products intended for use in the diagnosis, prevention, or treatment of human diseases.
 
-(4) *Vaccines and Related Biological Products Advisory Committee*—
+(3) *Vaccines and Related Biological Products Advisory Committee*—
 
 (i) Date established: December 31, 1979.
 

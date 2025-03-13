@@ -1,23 +1,9 @@
-##### § 1302.6 Schedule of fees. #####
+##### § 1302.6 Appeals. #####
 
-(a) *Prohibitions against charging fees.* Individuals will not be charged for:
+(a) If you wish to appeal a decision by OMB with regard to your request to access or amend a record in accordance with the provisions of §§ 1302.2 and 1302.5, you should submit the appeal in writing and, to the extent possible, include the information specified in paragraph (b) of this section.
 
-(1) The search and review of the record,
+(b) Your appeal should contain a brief description of the record involved or copies of the correspondence from OMB in which the request to access or to amend was denied and also the reasons why you believe that access should be granted or the information amended, as relevant. Your appeal should refer to the information you furnished in support of your claim and the reasons set forth by OMB in its decision denying access or amendment, as required by §§ 1302.2 and 1302.5. In order to make the appeal process as meaningful as possible, you should set forth your disagreement in an understandable manner. In order to avoid the unnecessary retention of personal information, OMB reserves the right to dispose of the material concerning the request to access or amend a record if OMB receives no appeal in accordance with this section within 180 days of the sending by OMB of its decision upon an initial request. OMB may treat an appeal received after the 180-day period as an initial request to access or amend a record.
 
-(2) Any copies of the record produced as a necessary part of the process of making the record available for access, or
+(c) You may send your appeal by mail or delivery to the Senior Agency Official for Privacy, Office of Management and Budget, 725 17th Street NW, Room 9204, Washington, DC 20503 or by electronic means as described on OMB's privacy program web page: *www.whitehouse.gov/omb/privacy.* For the quickest possible handling, the requester should specify “Privacy Act Record Appeal” on the letter.
 
-(3) Any copies of the requested record when it has been determined that access can only be accomplished by providing a copy of the record through the mail.
-
-(b) *Waiver.* The Assistant to the Director for Administration may at no charge, provide copies of a record if it is determined the production of the copies is in the interest of the Government.
-
-(c) *Fee schedule and method of payment.* Fees will be charged as provided below except as provided in paragraphs (a) and (b) of this section.
-
-(1) *Duplication of records.* Records will be duplicated at a rate of $.10 per page for all copying of 4 pages or more. There is not charge for duplication 3 or fewer pages.
-
-(2) Where it is anticipated that the fees chargeable under this section will amount to more than $25.00, the requester shall be promptly notified of the amount of the anticipated fee or such portion thereof as can readily be estimated. In instances where the estimated fees will greatly exceed $25.00, an advance deposit may be required. The notice or request for an advance deposit shall extend an offer to the requester to consult with Office personnel in order to reformulate the request in a manner which will reduce the fees, yet still meet the needs of the requester.
-
-(3) Fees should be paid in full prior to issuance of requested copies. In the event the requester is in arrears for previous requests copies will not be provided for any subsequent request until the arrears have been paid in full.
-
-(4) Remittances shall be in the form either of a personal check or bank draft drawn on a bank in the United States, or a postal money order. Remittances shall be made payable to the order of the Treasury of the United States and mailed or delivered to the Assistant to the Director for Administration, Office of Management and Budget, Washington, DC 20503.
-
-(5) A receipt for fees paid will be given upon request.
+(d) The Senior Agency Official for Privacy will review a refusal to amend a record within 30 business days (excluding Saturdays, Sundays, and legal Federal holidays) from the date on which the individual requests such review, unless the OMB Director extends the 30-day period for good cause. If the Senior Agency Official for Privacy's decision does not grant in full the request, the notice of the decision will describe the steps you may take to obtain judicial review of such a decision.

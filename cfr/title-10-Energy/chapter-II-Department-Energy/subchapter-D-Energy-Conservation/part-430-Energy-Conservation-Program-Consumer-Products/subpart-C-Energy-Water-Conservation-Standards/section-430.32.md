@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 89 FR 18243, Mar. 12, 2024.Link to an amendment published at 89 FR 19126, Mar. 15, 2024.Link to an amendment published at 89 FR 31484, Apr. 24, 2024.
+Link to an amendment published at 89 FR 19126, Mar. 15, 2024.Link to an amendment published at 89 FR 31484, Apr. 24, 2024.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -519,6 +519,20 @@ The energy and water (in the case of faucets, showerheads, water closets, and ur
 |                               (iv) Vented Gas                                |                 3.30                 |
 |(v) Ventless Electric, Compact (240V) (less than 4.4 ft <sup>3</sup> capacity)|                 2.55                 |
 |               (vi) Ventless Electric, Combination Washer-Dryer               |                 2.08                 |
+
+(4) Clothes dryers manufactured on or after March 1, 2028, shall have a combined energy factor, determined in accordance with appendix D2 of this subpart, no less than:
+
+|                                                                                                        Product class                                                                                                         |CEF<sub>D2</sub>  <br/>(lb/kWh)|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+|                                                                              (i) Electric, Standard (4.4 ft<sup>3</sup> or greater capacity) \*                                                                              |             3.93              |
+|                                                                            (ii) Electric, Compact (120V) (less than 4.4 ft<sup>3</sup> capacity)                                                                             |             4.33              |
+|                                                                        (iii) Vented Electric, Compact (240V) (less than 4.4 ft<sup>3</sup> capacity)                                                                         |             3.57              |
+|                                                                           (iv) Vented Gas, Standard (4.4 ft<sup>3</sup> or greater capacity) \*\*                                                                            |             3.48              |
+|                                                                               (v) Vented Gas, Compact (less than 4.4 ft<sup>3</sup> capacity)                                                                                |             2.02              |
+|                                                                        (vi) Ventless Electric, Compact (240V) (less than 4.4 ft<sup>3</sup> capacity)                                                                        |             2.68              |
+|                                                                                      (vii) Ventless Electric, Combination Washer-Dryer                                                                                       |             2.33              |
+|\* The energy conservation standards in this product class do not apply to Vented Electric, Standard clothes dryers with a cycle time of less than 30 minutes, when tested according to appendix D2 in subpart B of this part.|                               |
+| \*\* The energy conservation standards in this product class do not apply to Vented Gas, Standard clothes dryers with a cycle time of less than 30 minutes, when tested according to appendix D2 in subpart B of this part.  |                               |
 
 (i) *Direct heating equipment.* (1) Vented home heating equipment manufactured on or after January 1, 1990 and before April 16, 2013, shall have an annual fuel utilization efficiency no less than:
 

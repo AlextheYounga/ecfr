@@ -76,4 +76,4 @@ For purposes of this part:
 
 *Vested legal or beneficial interest* means a present right or title to property, which carries with it an existing right of alienation, even though the right to possession or enjoyment may be postponed to some uncertain time in the future. This includes a future interest when one has a right, defeasible or indefeasible, to immediate possession or enjoyment of the property, upon the ceasing of another's interest.
 
-[82 FRT 35883, Aug. 2, 2017]
+[82 FR 35883, Aug. 2, 2017]

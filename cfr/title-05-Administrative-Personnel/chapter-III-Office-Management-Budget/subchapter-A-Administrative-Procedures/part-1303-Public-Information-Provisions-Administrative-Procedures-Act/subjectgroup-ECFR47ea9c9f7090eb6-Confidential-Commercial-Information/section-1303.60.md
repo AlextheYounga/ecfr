@@ -1,10 +1,8 @@
 ##### § 1303.60 Notification procedures for confidential commercial information. #####
 
-Link to an amendment published at 89 FR 48826, June 10, 2024.
-
 (a) *Definitions.* (1) “Confidential commercial information” means commercial or financial information obtained by OMB from a submitter that may be protected from disclosure under Exemption 4 of the FOIA, 5 U.S.C. 552(b)(4).
 
-(2) “Submitter” means any person or entity, including a corporation, State, or foreign government, but not including another Federal Government entity, that provides confidential commercial information, either directly or indirectly to the Federal Government.
+(2) *Submitter* means any person or entity, including a corporation, State, or foreign government, but not including another Federal Government entity, that provides confidential commercial information, either directly or indirectly, to the Federal Government.
 
 (b) *Designation of confidential commercial information.* A submitter of confidential commercial information must use good faith efforts to designate by appropriate markings, at the time of submission, any portion of its submission that it considers to be protected from disclosure under Exemption 4 of the FOIA. These designations expire 10 years after the date of the submission unless the submitter requests and provides justification for a longer designation period.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 48826, June 10, 2024.
 
 (e) *Opportunity to object to disclosure.* (1) Unless OMB specifies a different period, submitters who fail to respond to OMB's notice within 30 days of OMB's notice will be deemed to have consented to disclosure.
 
-(2) If a submitter has any objections to disclosure, it should provide OMB a detailed written statement that specifies all grounds for withholding the particular information under any exemption of the FOIA. In order to rely on Exemption 4 as basis for nondisclosure, the submitter must explain why the information constitutes a trade secret or commercial or financial information that is confidential. OMB is not required to consider any information received after the date of any disclosure decision.
+(2) If a submitter has any objections to disclosure, it should provide OMB a detailed written statement that specifies all grounds for withholding the particular information under any exemption of the FOIA. In order to rely on Exemption 4 as basis for nondisclosure, the submitter must explain why the information constitutes a trade secret or commercial or financial information that is privileged or confidential. OMB is not required to consider any information received after the date of any disclosure decision.
 
 (3) Any information provided by a submitter under this section may itself be subject to disclosure under the FOIA.
 
@@ -43,3 +41,5 @@ Link to an amendment published at 89 FR 48826, June 10, 2024.
 (3) A specified disclosure date, at least 30 days after OMB transmits its notice of intent to disclose, except for good cause.
 
 (h) *Requester notification.* OMB will notify the requester whenever it provides the submitter with notice and an opportunity to object to disclosure; whenever it notifies the submitter of its intent to disclose the requested information; and whenever a submitter files a lawsuit to prevent the disclosure of the information.
+
+[84 FR 22951, May 21, 2019, as amended at 89 FR 48826, June 10, 2024]

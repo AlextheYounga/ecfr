@@ -1,5 +1,5 @@
-##### § 1303.21 Requesters making requests about themselves or others. #####
+##### § 1303.21 Requesters making requests about themselves or on behalf of others. #####
 
-Link to an amendment published at 89 FR 48825, June 10, 2024.
+In order to obtain greater access to records, a requester who is making a request for records about the requester or on behalf of another individual must comply with the verification of identity requirements as determined by OMB pursuant to OMB's requirements for making requests for access in 5 CFR part 1302. OMB may require a requester to supply additional information as necessary in order to verify the identity of the requester or to verify that a particular individual has consented to disclosure.
 
-A requester who is making a request for records about himself or herself pursuant to 5 U.S.C. 552a must comply with the verification of identity requirements as determined by OMB pursuant to OMB's Rules For Determining if an Individual Is the Subject of a Record in 5 CFR 1302.1. Where a request for records pertains to another individual, a requester may receive greater access by submitting either a notarized authorization signed by that individual or a declaration made in compliance with the requirements set forth in 28 U.S.C. 1746 by that individual authorizing disclosure of the records to the requester, or by submitting proof that the individual is deceased (e.g., a copy of a death certificate or an obituary). As an exercise of administrative discretion, OMB may require a requester to supply additional information if necessary in order to verify that a particular individual has consented to disclosure.
+[89 FR 48825, June 10, 2024]

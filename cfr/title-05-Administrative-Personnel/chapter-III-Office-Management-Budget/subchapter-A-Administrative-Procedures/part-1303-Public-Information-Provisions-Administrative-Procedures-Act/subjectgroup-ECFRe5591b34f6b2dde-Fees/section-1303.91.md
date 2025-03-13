@@ -1,8 +1,6 @@
 ##### § 1303.91 Fees to be charged—general. #####
 
-Link to an amendment published at 89 FR 48826, June 10, 2024.
-
-OMB will charge fees that recoup the full allowable direct costs it incurs. Moreover, it will use the most efficient and least costly methods to comply with requests for documents made under the FOIA. For example, employees should not engage in line-by-line search when merely duplicating an entire document would prove the less expensive and quicker method of complying with a request. Search should be distinguished, moreover, from review of material in order to determine whether the material is exempt from disclosure. When documents that would be responsive to a request are maintained for distribution by agencies operating statutory-based fee schedule programs (*see* definition in § 1303.30(b)), such as the NTIS, OMB will inform requesters of the steps necessary to obtain records from those sources.
+OMB will charge fees that recoup the full allowable direct costs it incurs. Moreover, it will use the most efficient and least costly methods to comply with requests for documents made under the FOIA. For example, employees should not engage in line-by-line search when merely duplicating an entire document would prove the less expensive and quicker method of complying with a request. Search should be distinguished, moreover, from review of material in order to determine whether the material is exempt from disclosure. When documents that would be responsive to a request are maintained for distribution by agencies operating statutory-based fee schedule programs (see 5 U.S.C. 552(a)(4)(A)(vi)), such as the National Technical Information Service, OMB will inform requesters of the steps necessary to obtain records from those sources.
 
 (a) *Search.* Requests made by educational institutions, noncommercial scientific institutions, or representatives of the news media are not subject to search fees. OMB will charge search fees for all other requesters, subject to the restrictions of paragraph (h) of this section.
 
@@ -34,4 +32,6 @@ OMB will charge fees that recoup the full allowable direct costs it incurs. More
 
 (3) If a court determines that exceptional circumstances exist, as defined by the FOIA, a failure to comply with the time limits shall be excused for the length of time provided by the court order.
 
-(i) *No Fees under $25.* No fee will be charged when the total fee, after deducting the 100 free pages (or its cost equivalent) and the first two hours of search, is equal to or less than $25. If OMB estimates that the charges are likely to exceed $25, it will notify the requester of the estimated amount of fees, unless the requester has indicated in advance his willingness to pay fees as high as those anticipated. Such a notice shall offer a requester the opportunity to confer with agency personnel to meet the requester's needs at a lower cost.
+(i) *No Fees under $25.* No fee will be charged when the total fee, after deducting the first 100 free pages (or its cost equivalent) and the first two hours of search, is equal to or less than $25. If OMB estimates that the charges are likely to exceed $25, it will notify the requester of the estimated amount of fees, unless the requester has indicated in advance their willingness to pay fees as high as those anticipated. Such a notice shall offer a requester the opportunity to confer with agency personnel to meet the requester's needs at a lower cost.
+
+[84 FR 22951, May 21, 2019, as amended at 89 FR 48826, June 10, 2024]

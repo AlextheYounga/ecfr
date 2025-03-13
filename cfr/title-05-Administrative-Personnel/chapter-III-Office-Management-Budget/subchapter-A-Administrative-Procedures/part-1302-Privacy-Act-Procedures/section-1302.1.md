@@ -1,9 +1,17 @@
-##### § 1302.1 Rules for determining if an individual is the subject of a record. #####
+##### § 1302.1 General provisions. #####
 
-(a) Individuals desiring to know if a specific system of records maintained by the Office of Management and Budget contains a record pertaining to them should address their inquiries to the Assistant to the Director for Administration, Office of Management and Budget, Washington, DC 20503. The written inquiry should contain a specific reference to the system of records maintained by OMB listed in the OMB Notices of Systems of Records or it should describe the type of record in sufficient detail to reasonably identify the system of records. Notice of OMB systems of records subject to the Privacy Act will be made in the Federal Register and copies of the notices will be available upon request to the Assistant to the Director for Administration when so published. A compilation of such notices will also be made and published by the Office of Federal Register, in accordance with section 5 U.S.C. 552a(f).
+(a) *Purpose and scope.* This part implements the rules that the Office of Management and Budget (OMB) follows under the Privacy Act of 1974, codified as amended at 5 U.S.C. 552a (Privacy Act). This part applies to all records in systems of records maintained by OMB that are retrieved by an individual's name or personal identifier. This part describes the procedures by which individuals may request access to records about themselves, request amendment or correction of those records, and request an accounting of disclosures of those records by OMB.
 
-(b) At a minimum, the request should also contain sufficient information to identify the requester in order to allow OMB to determine if there is a record pertaining to that individual in a particular system of records. In instances when the information is insufficient to insure disclosure to the individual to whom the information pertains, in view of the sensitivity of the information, OMB reserves the right to ask the requester for additional identifying information.
+(b) *Definitions.* As used in this part:
 
-(c) Ordinarily the requester will be informed whether the named system of records contains a record pertaining to the requester within 10 days of receipt of such a request (excluding Saturdays, Sundays, and legal Federal holidays). Such a response will also contain or reference the procedures which must be followed by the individual making the request in order to gain access to the record.
+*Request for access* to a record means a request made under 5 U.S.C. 552a(d)(1).
 
-(d) Whenever a response cannot be made within the 10 days, the Assistant to the Director for Administration will inform the requester of the reasons for the delay and the date by which a response may be anticipated.
+*Request for amendment or correction* of a record means a request made under 5 U.S.C. 552a(d)(2).
+
+*Request for an accounting* means a request made under 5 U.S.C. 552a(c)(3).
+
+*Requester* means an individual who makes a request for access, a request for amendment or correction, or a request for an accounting under the Privacy Act. An *individual* is a citizen of the United States or an alien lawfully admitted for permanent residence.
+
+*System manager* means the OMB official identified in a system of records notice as the manager of a system of records; and for Government-wide systems of records, the individual designated by the agency to act on behalf of the system manager.
+
+(c) *Providing written consent to disclose records protected under the Privacy Act.* OMB may disclose any record contained in a system of records by any means of communication to any person, or to another agency, pursuant to a written request by, or with the prior written consent of, the individual about whom the record pertains. An individual must verify the individual's identity in the same manner as required by § 1302.2(d) when providing written consent to disclose a record protected under the Privacy Act and pertaining to the individual.

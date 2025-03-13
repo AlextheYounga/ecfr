@@ -1,7 +1,5 @@
 ##### § 1303.40 Timing of responses to requests. #####
 
-Link to an amendment published at 89 FR 48825, June 10, 2024.
-
 (a) *In general.* Upon receipt of any request for information or records, the FOIA Officer will determine within 20 working days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of such request whether it is appropriate to grant the request and will immediately notify the requester of such determination and the reasons therefore and the right of such person to seek assistance from the FOIA Public Liaison. The 20-day period, as used herein, shall commence on the date on which the FOIA Officer or the FOIA Public Liaison first receives the request but in any event not later than 10 working days after the request is first received by any component's office that is designated by these regulations to receive requests. OMB may toll this 20-day period either one time while OMB is awaiting information that it has reasonably requested from the requester or any time when necessary to clarify with the requester issues regarding fee assessment. OMB's receipt of the requester's response to OMB's request for information ends the tolling period.
 
 (b) *Multitrack processing.* (1) FOIA requests are placed on one of three tracks:
@@ -26,10 +24,12 @@ Link to an amendment published at 89 FR 48825, June 10, 2024.
 
 (iii) Failure to respond to the request expeditiously would result in the loss of due process rights in other proceedings; or
 
-(iv) There are possible questions, in a matter of widespread and exceptional public interest, about the government's integrity which effect public confidence.
+(iv) There are possible questions, in a matter of widespread and exceptional public interest, about the Government's integrity which affect public confidence.
 
 (2) A request for expedited processing may be made at the time of the initial request for records or at any later time.
 
 (3) A requester who seeks expedited processing must submit a statement, certified to be true and correct to the best of the requester's knowledge and belief, explaining in detail the basis for requesting expedited processing. OMB may waive this certification requirement at its discretion.
 
-(4) OMB will decide whether to grant expedited processing and will notify the requester within 10 days after the date of the request. If a request for expedited treatment is granted, OMB will prioritize the request and process the request as soon as practicable. If a request for expedited processing is denied, any appeal of that decision will be acted on expeditiously.
+(4) OMB will decide whether to grant a request for expedited processing and will notify the requester within 10 calendar days after the date of the request. If a request for expedited treatment is granted, OMB will prioritize the underlying FOIA request, place the request in the processing track for expedited requests, and process the request as soon as practicable. If a request for expedited processing is denied, any appeal of that decision will be acted on expeditiously.
+
+[84 FR 22951, May 21, 2019, as amended at 89 FR 48825, June 10, 2024]

@@ -1,37 +1,25 @@
-##### § 1302.5 Request for review. #####
+##### § 1302.5 Requests for an amendment or correction. #####
 
-(a) Individuals wishing to request a review of the decision by OMB with regard to an initial request to access or amend a record in accordance with the provisions of §§ 1302.2 and 1302.4 of this part, should submit the request for review in writing and, to the extent possible, include the information specified in § 1302.5(b), below. Individuals desiring assistance in the preparation of their request for review should contact the Assistant to the Director for Administration at the address provided herein.
+(a) *Requirement for written requests.* If you want to amend a record that pertains to you in a system of records maintained by OMB, you must submit your request in writing following the procedures established in this section unless the system manager waives the requirements in this section. OMB is not required to amend records that are not subject to the Privacy Act of 1974. However, individuals who believe that such records are inaccurate may bring this to the attention of OMB.
 
-(b) The request for review should contain a brief description of the record involved or in lieu thereof, copies of the correspondence from OMB in which the request to access or to amend was denied and also the reasons why the requester believes that access should be granted or the disputed information amended. The request for review should make reference to the information furnished by the individual in support of his claim and the reasons as required by §§ 1302.2 and 1302.4 of this part set forth by OMB in its decision denying access or amendment. Appeals filed without a complete statement by the requester setting forth the reasons for the review will, of course, be processed. However, in order to make the appellate process as meaningful as possible, the requester's disagreement should be set forth in an understandable manner. In order to avoid the unnecessary retention of personal information, OMB reserves the right to dispose of the material concerning the request to access or amend a record if no request for review in accordance with this section is received by OMB within 180 days of the mailing by OMB of its decision upon an initial request. A request for review received after the 180 day period may, at the discretion of the Assistant to the Director for Administration, be treated as an initial request to access or amend a record.
+(b) *Procedures.* (1) You should address your request to amend a record in a system of records to the system manager. You should include the name of the system and a brief description of the record proposed for amendment. If the request to amend the record is the result of you gaining access to the record in accordance with the provisions concerning access to records as set forth in § 1302.2, you may attach a copy of previous correspondence between you and OMB instead of providing a separate description of the record.
 
-(c) The request for review should be addressed to the Assistant to the Director for Administration.
+(2) If a requester cannot determine where within OMB to send the Privacy Act request to amend a record, the requester may send by mail or delivery to Privacy Officer, Office of Management and Budget, 725 17th Street NW, Room 9204, Washington, DC 20503 or by electronic means as described on OMB's privacy program web page: *www.whitehouse.gov/omb/privacy.* OMB will forward the request to the component(s) it believes most likely to have the relevant records. For the quickest possible handling, the requester should specify “Privacy Act Record Amendment Request” on the letter.
 
-(d) Upon receipt of a request for review, the Assistant to the Director for Administration will convene a review group composed of the Assistant to the Director for Administration, the General Counsel, or their designees, and the official having operational control over the record. This group will review the basis for the requested review and will develop a recommended course of action to the Deputy Director. If at any time additional information is required from the requester, the Assistant to the Director for Administration is authorized to acquire it or authorize its acquisition from the requester.
+(3) You must validate your identity as described in § 1302.2(e). If OMB has previously verified your identity pursuant to § 1302.2(e), further verification of identity is not required as long as the communication does not suggest that a need for verification is present.
 
-(e) The Office of Management and Budget has established an internal Committee on Freedom of Information and Privacy (hereinafter referred to as the Committee). The Committee is composed of:
+(4) You should clearly indicate the exact portion of the record you seek to have amended. If possible, you should also propose alternative language, or at a minimum, identify the facts that you believe are not accurate, relevant, timely, or complete, with such particularity as to permit OMB not only to understand the basis for your request, but also to make an appropriate amendment to the record.
 
-(1) Deputy Director;
+(5) Your request must also state why you believe your record is not accurate, relevant, timely, or complete. The burden of persuading OMB to amend a record will be upon you. You must furnish sufficient facts to persuade the official in charge of the system of the inaccuracy, irrelevancy, timeliness, or incompleteness of the record.
 
-(2) Assistant to the Director for Administration;
+(6) OMB will not categorically reject incomplete or inaccurate requests. OMB will ask you to clarify the request as needed.
 
-(3) General Counsel;
+(c) *OMB action on the request.* (1) OMB will acknowledge, in writing, receipt of a request to amend a record within 10 business days (*i.e.,* excluding Saturdays, Sundays, and legal Federal holidays) of OMB's receipt.
 
-(4) Assistant Director for Budget Review;
+(2) OMB will promptly respond to a Privacy Act request for amendment or correction. OMB ordinarily will respond to Privacy Act requests for amendment or correction according to their order of receipt. Consistent with OMB's FOIA procedures at 5 CFR 1303.40(b), OMB may designate multiple processing tracks that distinguish between simple and more complex Privacy Act requests for amendment or correction, based on the estimated amount of work or time needed to process the request. The response reflecting the decision upon a request for amendment will include the following:
 
-(5) Assistant Director for Legislative Reference;
+(i) The decision of OMB whether to grant in whole, or deny any part of, the request to amend the record;
 
-(6) Assistant to the Director for Public Affairs;
+(ii) The reasons for the determination for any portion of the request which is denied; and
 
-(7) Deputy Associate Director for Information Systems;
-
-(8) Deputy Associate Director for Statistical Policy;
-
-(9) Deputy Associate Director for National Security;
-
-(10) Budget and Management Officer;
-
-(11) Personnel Officer.
-
-(f) The Committee, when directed by the Assistant to the Director for Administration, will review the Office's administration of the Freedom of Information and Privacy Acts and make recommendations for the improvement thereto. In addition, the Committee, upon the request of the Deputy Director, may evaluate a request for review or appeal and recommend a decision to the Deputy Director, who has the final authority regarding appeals.
-
-(g) The Deputy Director will inform the requester in writing of the decision on the request for review within 20 days (excluding Saturdays, Sundays, and legal Federal holidays) from the date of receipt by OMB of the individual's request for review unless the Deputy Director extends the 20 day period for good cause. The extension and the reasons therefor will be sent by OMB to the requester within the initial 20 day period. Such extensions should not be routine and should not normally exceed an additional thirty days. If the decision does not grant in full the request for amendment, the notice of the decision will provide a description of the steps the individual may take to obtain judicial review of such a decision, a statement that the individual may file a concise statement with OMB setting forth the individual's reasons for his disagreement with the decision and the procedures for filing such a statement of disagreement. The Assistant to the Director for Administration has the authority to determine the “conciseness” of the statement, taking into account the scope of the disagreement and the complexity of the issues. Upon the filing of a proper concise statement by the individual, any subsequent disclosure of the information in dispute will be clearly noted so that the fact that the record is disputed is apparent, a copy of the concise statement furnished and a concise statement by OMB setting forth its reasons for not making the requested changes, if OMB chooses to file such a statement. A notation of a dispute is required to be made only if an individual informs the agency of his disagreement with OMB's determination in accordance with § 1302.5 (a), (b) and (c). A copy of the individual's statement, and if it chooses, OMB's statement will be sent to any prior transferee of the disputed information who is listed on the accounting required by 5 U.S.C. 552a(c). If the reviewing official determines that the record should be amended in accordance with the individual's request, OMB will promptly correct the record, advise the individual, and inform previous recipients if an accounting of the disclosure was made pursuant to 5 U.S.C. 552(a)(c). The notification of correction pertains to information actually disclosed.
+(iii) A description of the procedure by which the OMB decision to deny your request may be appealed, including the name and address of the official with whom you may lodge such an appeal.
