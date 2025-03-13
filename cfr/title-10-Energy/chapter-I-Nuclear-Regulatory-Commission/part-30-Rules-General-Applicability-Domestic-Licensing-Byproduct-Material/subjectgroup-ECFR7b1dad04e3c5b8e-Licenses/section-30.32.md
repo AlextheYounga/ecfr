@@ -1,5 +1,7 @@
 ##### § 30.32 Application for specific licenses. #####
 
+Link to an amendment published at 88 FR 80949, Nov. 21, 2023.
+
 (a) A person may file an application on NRC Form 313, “Application for Material License,” in accordance with the instructions in § 30.6 of this chapter. Information contained in previous applications, statements or reports filed with the Commission or the Atomic Energy Commission may be incorporated by reference, provided that the reference is clear and specific.
 
 (b) The Commission may at any time after the filing of the original application, and before the expiration of the license, require further statements in order to enable the Commission to determine whether the application should be granted or denied or whether a license should be modified or revoked.

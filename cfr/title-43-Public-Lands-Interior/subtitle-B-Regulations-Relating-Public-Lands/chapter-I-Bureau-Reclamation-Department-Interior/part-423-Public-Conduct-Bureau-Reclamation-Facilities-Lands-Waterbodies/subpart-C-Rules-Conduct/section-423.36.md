@@ -1,5 +1,7 @@
 ##### § 423.36 Swimming. #####
 
+Link to an amendment published at 88 FR 80992, Nov. 21, 2023.
+
 (a) You may swim, wade, snorkel, scuba dive, raft, or tube at your own risk in Reclamation waters, except:
 
 (1) Within 300 yards of dams, power plants, pumping plants, spillways, stilling basins, gates, intake structures, and outlet works;

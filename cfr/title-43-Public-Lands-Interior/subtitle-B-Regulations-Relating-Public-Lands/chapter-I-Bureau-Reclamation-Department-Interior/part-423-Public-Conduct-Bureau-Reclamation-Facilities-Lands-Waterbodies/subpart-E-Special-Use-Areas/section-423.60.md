@@ -1,5 +1,7 @@
 ##### § 423.60 How special use areas are designated. #####
 
+Link to an amendment published at 88 FR 80992, Nov. 21, 2023.
+
 (a) After making a determination under paragraph (b) of this section, an authorized official may:
 
 (1) Establish special use areas within Reclamation facilities, lands, or waterbodies for application of reasonable schedules of visiting hours; public use limits; and other conditions, restrictions, allowances, or prohibitions on particular uses or activities that vary from the provisions of subpart C of this part 423, except § 423.28; and

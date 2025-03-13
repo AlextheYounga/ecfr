@@ -1,5 +1,7 @@
 ##### § 9.104 Closed meetings. #####
 
+Link to an amendment published at 88 FR 80949, Nov. 21, 2023.
+
 (a) Except where the Commission finds that the public interest requires otherwise, Commission meetings shall be closed, and the requirements of §§ 9.105 and 9.107 shall not apply to any information pertaining to such meeting otherwise required by this subpart to be disclosed to the public, where the Commission determines in accordance with the procedures of § 9.105 that opening such meetings or portions thereof or disclosing such information, is likely to:
 
 (1) Disclose matters that are (i) specifically authorized under criteria established by an Executive order to be kept secret in the interests of national defense or foreign policy, and (ii) in fact properly classified pursuant to such Executive order;

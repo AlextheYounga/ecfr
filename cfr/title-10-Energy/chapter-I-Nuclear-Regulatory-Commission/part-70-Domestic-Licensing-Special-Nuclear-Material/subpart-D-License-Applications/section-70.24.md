@@ -1,5 +1,7 @@
 ##### § 70.24 Criticality accident requirements. #####
 
+Link to an amendment published at 88 FR 80950, Nov. 21, 2023.
+
 (a) Each licensee authorized to possess special nuclear material in a quantity exceeding 700 grams of contained uranium-235, 520 grams of uranium-233, 450 grams of plutonium, 1,500 grams of contained uranium-235 if no uranium enriched to more than 4 percent by weight of uranium-235 is present, 450 grams of any combination thereof, or one-half such quantities if massive moderators or reflectors made of graphite, heavy water or beryllium may be present, shall maintain in each area in which such licensed special nuclear material is handled, used, or stored, a monitoring system meeting the requirements of either paragraph (a)(1) or (a)(2), as appropriate, and using gamma- or neutron-sensitive radiation detectors which will energize clearly audible alarm signals if accidental criticality occurs. This section is not intended to require underwater monitoring when special nuclear material is handled or stored beneath water shielding or to require monitoring systems when special nuclear material is being transported when packaged in accordance with the requirements of part 71 of this chapter.
 
 (1) The monitoring system shall be capable of detecting a criticality that produces an absorbed dose in soft tissue of 20 rads of combined neutron and gamma radiation at an unshielded distance of 2 meters from the reacting material within one minute. Coverage of all areas shall be provided by two detectors.

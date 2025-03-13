@@ -132,7 +132,7 @@ Maximum Allowable ERP and Antenna Height for DTV Stations on Channels 14-59, All
 
 ERPmax = 72.57-17.08\*log10(HAAT)
 
-(g) [Reserved]
+(g)(1) [Reserved]
 
 (2) Unless it conflicts with operation complying with paragraph (g)(1) of this section, where a low power television station or TV translator station is operating on the lower adjacent channel within 32 km of the DTV station and notifies the DTV station that it intends to minimize interference by precisely maintaining its carrier frequencies, the DTV station shall cooperate in locking its carrier frequency to a common reference frequency and shall be responsible for any costs relating to its own transmission system in complying with this provision.
 
@@ -375,7 +375,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |      Caldwell      |                        10                         |   |
 |   Coeur d'Alene    |                       \*18                        |   |
 |       Filer        |                       \*18                        |   |
-|    Idaho Falls     |                     8, 20, 36                     |   |
+|    Idaho Falls     |                    18, 20, 36                     |   |
 |      Lewiston      |                        32                         |   |
 |       Moscow       |                       \*12                        |   |
 |       Nampa        |                      13, 24                       |   |

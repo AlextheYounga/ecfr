@@ -1,7 +1,5 @@
 ##### § 2634.907 Report contents. #####
 
-Link to an amendment published at 88 FR 33809, May 25, 2023.
-
 (a) Other than the reports described in § 2634.904(a)(3), each confidential financial disclosure report must comply with instructions issued by the Office of Government Ethics and include on the standardized form prescribed by OGE (see § 2634.601) the information described in paragraphs (b) through (g) of this section for the filer. Each report must also include the information described in paragraph (h) of this section for the filer's spouse and dependent children.
 
 (b) *Noninvestment income.* Each financial disclosure report must disclose the source of earned or other noninvestment income in excess of $1,000 received by the filer from any one source during the reporting period, including:
@@ -154,9 +152,19 @@ The Office of Government Ethics sets these amounts every 3 years using the same 
 
 (4) New entrants, as described in § 2634.903(b), need not report any information on gifts and travel reimbursements.
 
-(5) *Exceptions.* Reports need not contain any information about gifts and travel reimbursements received from relatives (see § 2634.105(o)) or during a period in which the filer was not an officer or employee of the Federal Government. Additionally, any food, lodging, or entertainment received as “personal hospitality of any individual,” as defined in § 2634.105(k), need not be reported. See also exclusions specified in the definitions of “gift” and “reimbursement” at § 2634.105(h) and (n).
+(5) *Exceptions.* Reports need not contain any information about:
 
-Example:A filer accepts a laptop bag, a t-shirt, and a cell phone from a community service organization he has worked with solely in his private capacity. He determines that the value of these gifts is:Gift 1—Laptop bag: $200Gift 2—T-shirt: $20Gift 3—Cell phone: $340The filer must disclose Gift 1 and Gift 3 because, together, they aggregate more than $480 in value from the same source. He need not aggregate or report Gift 2 because the gift's value does not exceed $192.
+(i) Gifts and travel reimbursements received from relatives (see § 2634.105(o)).
+
+(ii) Gifts and travel reimbursements received during a period in which the filer was not an officer or employee of the Federal Government.
+
+(iii) Any food, lodging, or entertainment received as “personal hospitality of any individual,” as defined in § 2634.105(k).
+
+(iv) Any payments for legal expenses from a legal expense fund or the provision of *pro bono* legal services, as defined in subpart J of part 2635 of this chapter, or any payments for legal expenses or the provision of *pro bono* legal services that otherwise qualify for a gift exclusion or gift exception in subpart B of part 2635 of this chapter, if the confidential filer is an anonymous whistleblower as defined by § 2635.1003 of this chapter.
+
+(v) Any exclusions specified in the definitions of “gift” and “reimbursement” at § 2634.105(h) and (n).
+
+Example 1 to Paragraph (g):A filer accepts a laptop bag, a t-shirt, and a cell phone from a community service organization he has worked with solely in his private capacity. He determines that the value of these gifts is:Gift 1—Laptop bag: $200Gift 2—T-shirt: $20Gift 3—Cell phone: $340The filer must disclose Gift 1 and Gift 3 because, together, they aggregate more than $480 in value from the same source. He need not aggregate or report Gift 2 because the gift's value does not exceed $192.
 
 (h) *Disclosure rules for spouses and dependent children*—(1) *Noninvestment income.* (i) Each financial disclosure report required by the provisions of this subpart must disclose the source of earned income in excess of $1,000 from any one source, which is received by the filer's spouse during the reporting period. If earned income is derived from a spouse's self-employment in a business or profession, the report must disclose the nature of the business or profession. The filer is not required to report other noninvestment income received by the spouse such as prizes, scholarships, awards, gambling income, or a discharge of indebtedness.
 
@@ -238,4 +246,4 @@ The fact that an investment fund qualifies as an excepted investment fund is not
 
 (2) Which has been approved by the Office of Government Ethics for collection by the agency concerned, as set forth in supplemental agency regulations and forms, issued under §§ 2634.103 and 2634.601(b) (see § 2634.901(b) and (c)).
 
-[83 FR 33981, July 18, 2018, as amended at 85 FR 36716, June 18, 2020; 88 FR 37754, June 9, 2023]
+[83 FR 33981, July 18, 2018, as amended at 85 FR 36716, June 18, 2020; 88 FR 33809, May 25, 2023; 88 FR 37754, June 9, 2023]

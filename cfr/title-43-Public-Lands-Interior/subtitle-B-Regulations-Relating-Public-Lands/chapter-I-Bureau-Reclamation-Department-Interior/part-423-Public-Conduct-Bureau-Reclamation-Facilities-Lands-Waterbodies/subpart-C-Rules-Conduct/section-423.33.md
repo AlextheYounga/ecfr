@@ -1,5 +1,7 @@
 ##### § 423.33 Camping. #####
 
+Link to an amendment published at 88 FR 80991, Nov. 21, 2023.
+
 (a) You may camp on Reclamation lands, except that you must comply with any restrictions, conditions, limitations, or prohibitions on camping established by an authorized official in a special use area under subpart E of this part 423.
 
 (b) You must not camp on Reclamation lands at any single Reclamation project for more than 14 days during any period of 30 consecutive days, except as allowed by a permit issued under 43 CFR part 429;

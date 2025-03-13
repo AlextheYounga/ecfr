@@ -1,7 +1,5 @@
 ##### § 2635.203 Definitions. #####
 
-Link to an amendment published at 88 FR 33809, May 25, 2023.
-
 For purposes of this subpart, the following definitions apply:
 
 (a) *Agency* has the meaning set forth in § 2635.102(a). However, for purposes of this subpart, an executive department, as defined in 5 U.S.C. 101, may, by supplemental agency regulation, designate as a separate agency any component of that department which the department determines exercises distinct and separate functions.
@@ -79,3 +77,9 @@ Example 1 to paragraph (e):Where free season tickets are offered by an opera gui
 Example 1 to paragraph (f)(2):An employee who must decline a gift of a personal computer pursuant to this subpart may not suggest that the gift be given instead to one of five charitable organizations whose names are provided by the employee.
 
 (g) *Free attendance* includes waiver of all or part of the fee for an event or the provision of food, refreshments, entertainment, instruction or materials furnished to all attendees as an integral part of the event. It does not include travel expenses, lodgings, or entertainment collateral to the event. It does not include meals taken other than in a group setting with all other attendees, unless the employee is a presenter at the event and is invited to a separate meal for participating presenters that is hosted by the sponsor of the event. Where the offer of free attendance has been extended to an accompanying spouse or other guest, the market value of the gift of free attendance includes the market value of free attendance by both the employee and the spouse or other guest.
+
+(h) *Legal expense fund* has the meaning set forth in § 2635.1003.
+
+(i) *Pro bono legal services* has the meaning set forth in § 2635.1003.
+
+[81 FR 81648, Nov. 18, 2016, as amended at 88 FR 33809, May 25, 2023]

@@ -1,5 +1,7 @@
 ##### § 721.3 What categories of activities are preapproved as incidental powers necessary or requisite to carry on a credit union's business? #####
 
+Link to an amendment published at 88 FR 80952, Nov. 21, 2023.
+
 The categories of activities in this section are preapproved as incidental to carrying on your business under § 721.2. The examples of incidental powers activities within each category are provided in this section as illustrations of activities permissible under the particular category, not as an exclusive or exhaustive list.
 
 (a) *Certification services.* Certification services are services whereby you attest or authenticate a fact for your members' use. Certification services may include such services as notary services, signature guarantees, certification of electronic signatures, and share draft certifications.

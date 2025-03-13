@@ -1,5 +1,7 @@
 ##### § 202.1 Prescription-drug advertisements. #####
 
+Link to an amendment published at 88 FR 80983, Nov. 21, 2023.
+
 (a)(1) The ingredient information required by section 502(n) of the Federal Food, Drug, and Cosmetic Act shall appear together, without any intervening written, printed, or graphic matter, except the proprietary names of ingredients, which may be included with the listing of established names.
 
 (2) The order of listing of ingredients in the advertisement shall be the same as the order of listing of ingredients on the label of the product, and the information presented in the advertisement concerning the quantity of each such ingredient shall be the same as the corresponding information on the label of the product.

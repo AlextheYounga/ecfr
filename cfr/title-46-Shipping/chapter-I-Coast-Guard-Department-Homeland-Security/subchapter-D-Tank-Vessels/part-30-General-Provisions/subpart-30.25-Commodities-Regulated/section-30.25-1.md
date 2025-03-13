@@ -1,5 +1,7 @@
 ##### § 30.25-1 Cargoes carried in vessels certificated under the rules of this subchapter. #####
 
+Link to an amendment published at 88 FR 81188, Nov. 21, 2023.
+
 (a) Table 30.25-1 lists flammable or combustible cargoes that, when transported in bulk, must be in vessels certificated under this subchapter D.
 
 (b) A mixture or blend of two or more cargoes appearing in Table 30.25-1 may be transported under this subchapter D.

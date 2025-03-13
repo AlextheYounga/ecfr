@@ -1,5 +1,7 @@
 ##### § 423.35 Animals. #####
 
+Link to an amendment published at 88 FR 80992, Nov. 21, 2023.
+
 (a) You must not bring pets or other animals into public buildings, public transportation vehicles, or sanitary facilities. This provision does not apply to properly trained animals assisting persons with disabilities, such as seeing-eye dogs.
 
 (b) You must not abandon any animal on Reclamation facilities, lands, or waterbodies, or harass, endanger, or attempt to collect any animal except game you are attempting to take in the course of authorized hunting, fishing, or trapping.

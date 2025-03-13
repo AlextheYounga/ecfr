@@ -1,5 +1,7 @@
 ##### § 51.102 Requirement to provide a record of decision; preparation. #####
 
+Link to an amendment published at 88 FR 80949, Nov. 21, 2023.
+
 (a) A Commission decision on any action for which a final environmental impact statement has been prepared shall be accompanied by or include a concise public record of decision.
 
 (b) Except as provided in paragraph (c) of this section, the record of decision will be prepared by the NRC staff director authorized to take the action.

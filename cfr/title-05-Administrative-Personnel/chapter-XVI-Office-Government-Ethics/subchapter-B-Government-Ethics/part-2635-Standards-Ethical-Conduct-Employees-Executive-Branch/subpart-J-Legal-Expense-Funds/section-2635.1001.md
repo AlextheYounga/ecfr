@@ -1,0 +1,3 @@
+##### § 2635.1001 Overview. #####
+
+This subpart contains standards for an employee's acceptance of payments for legal expenses through a legal expense fund and an employee's acceptance of *pro bono* legal services. Legal expenses covered by this subpart are those for a matter arising in connection with the employee's past or current official position, the employee's prior position on a campaign of a candidate for President or Vice President, or the employee's prior position on a Presidential Transition Team.

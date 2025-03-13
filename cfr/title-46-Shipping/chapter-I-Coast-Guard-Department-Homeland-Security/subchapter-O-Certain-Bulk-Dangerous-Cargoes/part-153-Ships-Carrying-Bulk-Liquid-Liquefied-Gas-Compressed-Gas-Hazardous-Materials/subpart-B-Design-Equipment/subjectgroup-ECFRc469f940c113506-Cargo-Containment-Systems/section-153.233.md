@@ -20,7 +20,7 @@
 
 (3) Ballast pumprooms.
 
-(4) Tanks not carrying a cargo listed in this part.3/\>
+(4) Tanks not carrying a cargo listed in this part.3
 
 3 See also §§ 32.56-5 and 32.60-10 of this chapter for limitations on the stowage of combustible liquids adjacent to ignition sources.
 

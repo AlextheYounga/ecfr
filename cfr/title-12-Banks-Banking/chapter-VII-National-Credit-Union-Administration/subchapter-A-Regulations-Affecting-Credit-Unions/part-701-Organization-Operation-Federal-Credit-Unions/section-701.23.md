@@ -125,4 +125,4 @@ insured credit union and the obligations are either:
 
 (3) *Appeal to NCUA Board.* A Federal credit union may request the regional director to reconsider a denied request for expanded authority and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 
-[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984]Editorial Note:For Federal Register citations affecting § 701.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984]Editorial Note:For Federal Register citations affecting § 701.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

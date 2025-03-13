@@ -1,5 +1,7 @@
 ##### § 423.2 Definitions of terms used in this part. #####
 
+Link to an amendment published at 88 FR 80991, Nov. 21, 2023.
+
 *Aircraft* means a device that is used or intended to be used for human flight in the air, including powerless flight, unless a particular section indicates otherwise.
 
 *Archaeological resource* means any material remains of past human life or activities which are of archaeological interest, as determined under 43 CFR part 7, including, but not limited to, pottery, basketry, bottles, weapons, projectiles, tools, structures or portions of structures, pit houses, rock paintings, rock carvings, intaglios, graves, human remains, or any portion of any of the foregoing items. Archaeological resources are a component of cultural resources.

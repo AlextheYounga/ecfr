@@ -1,5 +1,7 @@
 ##### § 423.41 Aircraft. #####
 
+Link to an amendment published at 88 FR 80992, Nov. 21, 2023.
+
 (a) You must comply with any applicable Federal, State, and local laws, and with any additional requirements or restrictions established by an authorized official in a special use area under subpart E of this part 423, with respect to aircraft landings, takeoffs, and operation on or in the proximity of Reclamation facilities, lands, and waterbodies. Pilots are responsible for awareness of all applicable laws, regulations, requirements, and restrictions. This paragraph does not apply to pilots engaged in emergency rescue or in the official business of Federal, State, or local governments or law enforcement agencies, or who are forced to land due to circumstances beyond the pilot's control.
 
 (b) You must not operate any aircraft while on or above Reclamation facilities, lands, and waterbodies in a careless, negligent, or reckless manner so as to endanger any person, property, or natural feature.

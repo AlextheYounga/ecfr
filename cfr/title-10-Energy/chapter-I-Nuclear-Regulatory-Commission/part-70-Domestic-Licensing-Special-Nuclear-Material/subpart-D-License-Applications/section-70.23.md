@@ -1,5 +1,7 @@
 ##### § 70.23 Requirements for the approval of applications. #####
 
+Link to an amendment published at 88 FR 80950, Nov. 21, 2023.
+
 (a) An application for a license will be approved if the Commission determines that:
 
 (1) The special nuclear material is to be used for the conduct of research or development activities of a type specified in section 31 of the Act,1 in activities licensed by the Commission under section 103 or 104 of the Act, or for such other uses as the Commission determines to be appropriate to carry out the purposes of the Act;

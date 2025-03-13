@@ -1,5 +1,7 @@
 ##### § 423.30 Weapons, firearms, explosives, and fireworks. #####
 
+Link to an amendment published at 88 FR 80991, Nov. 21, 2023.
+
 (a) You may possess firearms, ammunition, bows and arrows, crossbows, or other projectile firing devices on Reclamation lands and waterbodies, provided the firearm, ammunition, or other projectile firing device is stowed, transported, and/or carried in compliance with applicable Federal, State, and local law, with the following exceptions:
 
 (1) You must not have a weapon in your possession when at or in a Reclamation facility.
