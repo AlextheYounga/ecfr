@@ -1,0 +1,7 @@
+##### § 74.23 Interference jeopardizing safety of life or protection of property. #####
+
+(a) The licensee of any station authorized under this part that causes harmful interference, as defined in § 2.1 of the Commission's rules, to radio communications involving the safety of life or protection of property shall promptly eliminate the interference.
+
+(b) If harmful interference to radio communications involving the safety of life or protection of property cannot be promptly eliminated and the Commission finds that there exists an imminent danger to safety of life or protection of property, pursuant to 47 U.S.C. 312 (b) and (e) and 5 U.S.C. 558, operation of the offending equipment shall temporarily be suspended and shall not be resumed until the harmful interference has been eliminated or the threat to the safety of life or property has passed. In situations where the protection of property alone is jeopardized, before taking any action under this paragraph, the Commission shall balance the nature and extent of the possible property damage against the potential harm to a licensee or the public caused by suspending part 74 operations. When specifically authorized, short test operations may be made during the period of suspended operation to check the efficacy of remedial measures.
+
+[47 FR 1395, Jan. 13, 1982]

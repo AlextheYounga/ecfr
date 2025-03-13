@@ -1,8 +1,6 @@
 ##### § 162.050-15 Designation of facilities. #####
 
-Link to an amendment published at 89 FR 76704, Sept. 18, 2024.
-
-(a) Each request for designation as a facility authorized to perform approval tests must be submitted to the Commandant (CG-ENG-3), Attn: Systems Engineering Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue, SE., Washington, DC 20593-7509.
+(a) Each request for designation as a facility authorized to perform approval tests must be submitted to the Commandant (CG-ENG) according to § 159.005-1 of this subchapter.
 
 (b) Each request must include the following:
 

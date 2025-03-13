@@ -1,9 +1,35 @@
 ##### § 160.171-3 Incorporation by reference. #####
 
-Link to an amendment published at 89 FR 76702, Sept. 18, 2024.
+Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact the Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; email *typeapproval@uscg.mil* or visit *www.dco.uscg.mil/CG-ENG-4/.* For information on the availability of this material at NARA, visit: *www.archives.gov/federal-register/cfr/ibr-locations.html* or email: *fr.inspection@nara.gov.* The material may be obtained from the following sources:
 
-(a) Certain materials are incorporated by reference into this subchapter with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. The Office of the Federal Register publishes a table, “Material Approved for Incorporation by Reference,” which appears in the Finding Aids section of this volume. In that table is found citations to the particular sections of this part where the material is incorporated. To enforce any edition other than the one listed in paragraph (b) of this section, notice of change must be published in the Federal Register and the material made available. All approved material is on file at the Office of the Federal Register, Washington, DC 20408, and at Coast Guard Headquarters. Contact Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509.
+(a) *ASTM International (ASTM).* 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; phone: +1 610 832 9500; email: *service@astm.org;* web: *www.astm.org.*
 
-(b) The materials approved for incorporation by reference in this subpart are:
+(1) ASTM B117-97, Standard Practice for Operating Salt Spray (Fog) Apparatus (“ASTM B117”); IBR approved for § 160.171-17(k).
 
-American Society for Testing and Materials*100 Barr Harbor Drive, West Conshohocken, PA 19428-2959.*ASTM B 117-97, Standard Practice for Operating Salt Spray (Fog) Apparatus—160.171-17ASTM C 177-85 (1993), Standard Test Method for Steady-State Heat Flux Measurements and Thermal Transmission Properties by Means of the Guarded-Hot-Plate Apparatus—160.171-17ASTM C 518-91, Standard Test Method for Steady-State Heat Flux Measurements and Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus—160.171-17ASTM D 975-98, Standard Specification for Diesel Fuel Oils—160.171-17ASTM D 1004-94a, Standard Test Method for Initial Tear Resistance of Plastic Film and Sheeting—160.171-17Federal Standards Specification Unit (WFSIA)*Regional Office Building, Room 6039, 7th and D Streets SW, Washington, DC 20407.*National Bureau of Standards Special Publication 440—Color, Universal Language and Dictionary of Names; December 1976.Federal Test Method Standard No. 191a dated July 20, 1978, Method 5304.1, Abrasion Resistance of Cloth, Oscillatory Cylinder (Wyzenbeek) Method, dated July 9, 1971.Federal Standard No. 751a, Stitches, Seams, and Stitchings, dated January 25, 1965.Underwriters Laboratories, Inc.*12 Laboratory Drive, Research Triangle Park, NC 27709-3995.*UL 1191, First Edition (Standard for Components for Personal Flotation Devices), as revised March 29, 1977.[CGD 84-069a, 52 FR 1188, Jan. 12, 1987, as amended by CGD 95-072, 60 FR 50467, Sept. 29, 1995; CGD 96-041, 61 FR 50733, Sept. 27, 1996; CGD 97-057, 62 FR 51048, Sept. 30, 1997; USCG-1999-5151, 64 FR 67184, Dec. 1, 1999; USCG-2009-0702, 74 FR 49237, Sept. 25, 2009; USCG-2013-0671, 78 FR 60159, Sept. 30, 2013]
+(2) ASTM C177-85 (1993), Standard Test Method for Steady-State Heat Flux Measurements and Thermal Transmission Properties by Means of the Guarded-Hot-Plate Apparatus (“ASTM C177”); IBR approved for § 160.171-17(e).
+
+(3) ASTM C518-91, Standard Test Method for Steady-State Heat Flux Measurements and Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus (“ASTM C518”); IBR approved for § 160.171-17(e).
+
+(4) ASTM D975-14, Standard Specification for Diesel Fuel Oils, approved February 1, 2014 (“ASTM D975”); IBR approved for § 160.171-17(p).
+
+(5) ASTM D1004-94a, Standard Test Method for Initial Tear Resistance of Plastic Film and Sheeting (“ASTM D1004”); IBR approved for § 160.171-17(n).
+
+(b) *General Services Administration (GSA).* email: *GSAStandards@gsa.gov;* web: *https://fedspecs.gsa.gov/s/federal-specifications.*
+
+(1) Federal Test Method Standard No. 191a dated July 20, 1978, Method 5304.1, Abrasion Resistance of Cloth, Oscillatory Cylinder (Wyzenbeek) Method, dated July 9, 1971 (“Federal Test Method Standard 191, Method 5304.1”); IBR approved for § 160.171-17(o).
+
+(2) Federal Standard No. 751a, Stitches, Seams, and Stitchings, dated January 25, 1965 (“Federal Standard No. 751”); IBR approved for § 160.171-9(c).
+
+(c) *National Institution of Standards and Technology (NIST) (formerly National Bureau of Standards).* U.S. Department of Commerce, National Institution of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899; phone: (301) 975-2000; web: *www.nist.gov.*
+
+(1) National Bureau of Standards Special Publication 440—Color, Universal Language and Dictionary of Names; December 1976 (“National Bureau of Standards Publication 440”); IBR approved for § 160.171-9(h). (Available at *https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication440.pdf*)
+
+(2) [Reserved]
+
+(d) *Underwriters Laboratories (UL).* 1850 M. St. NW, Suite 1000, Washington, DC, District of Columbia, 20036-5833; phone: (202) 296-7840; fax: (202) 872-1576; web: *www.ul.com.*
+
+(1) UL 1191, Standard for Components for Personal Flotation Devices, First Edition, as revised March 29, 1977; IBR approved for § 160.171-17(h).
+
+(2) [Reserved]
+
+[USCG-2020-0519, 89 FR 76702, Sept. 18, 2024]

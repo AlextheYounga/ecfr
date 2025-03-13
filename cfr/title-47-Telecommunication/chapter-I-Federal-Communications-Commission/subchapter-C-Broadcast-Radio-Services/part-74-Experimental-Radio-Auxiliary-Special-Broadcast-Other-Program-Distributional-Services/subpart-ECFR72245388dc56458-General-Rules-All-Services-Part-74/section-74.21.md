@@ -1,0 +1,9 @@
+##### § 74.21 Broadcasting emergency information. #####
+
+(a) In an emergency where normal communication facilities have been disrupted or destroyed by storms, floods or other disasters, the stations licensed under this part may be operated for the purpose of transmitting essential communications intended to alleviate distress, dispatch aid, assist in rescue operations, maintain order, or otherwise promote the safety of life and property. In the course of such operation, a station of any class may communicate with stations of other classes and in other services. However, such operation shall be conducted only on the frequency or frequencies for which the station is licensed and the used power shall not exceed the maximum authorized in the station license. When such operation involves the use of frequencies shared with other stations, licensees are expected to cooperate fully to avoid unnecessary or disruptive interference.
+
+(b) Whenever such operation involves communications of a nature other than those for which the station is licensed to perform, the licensee shall, at the earliest practicable time, notify the FCC in Washington, DC of the nature of the emergency and the use to which the station is being put and shall subsequently notify the same offices when the emergency operation has been terminated.
+
+(c) Emergency operation undertaken pursuant to the provisions of this section shall be discontinued as soon as substantially normal communications facilities have been restored. The Commission may at any time order discontinuance of such operation.
+
+(Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, 1082 (47 U.S.C. 154, 155, 303))[28 FR 13706, Dec. 14, 1963, as amended at 37 FR 25843, Dec. 5, 1972; 44 FR 65765, Nov. 15, 1979; 47 FR 40175, Sept. 13, 1982]

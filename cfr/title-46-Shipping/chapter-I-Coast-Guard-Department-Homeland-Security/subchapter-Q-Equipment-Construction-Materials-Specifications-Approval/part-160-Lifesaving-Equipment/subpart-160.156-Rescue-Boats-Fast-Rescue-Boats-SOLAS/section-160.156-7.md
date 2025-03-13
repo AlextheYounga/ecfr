@@ -1,7 +1,5 @@
 ##### § 160.156-7 Design, construction and performance of rescue boats and fast rescue boats. #####
 
-Link to an amendment published at 89 FR 76702, Sept. 18, 2024.
-
 (a) To seek Coast Guard approval of a rescue boat, including a fast rescue boat, a manufacturer must comply with, and each rescue boat must meet, the requirements of the following:
 
 (1) IMO LSA Code chapter V (incorporated by reference, see § 160.156-5 of this subpart);
@@ -40,7 +38,7 @@ Link to an amendment published at 89 FR 76702, Sept. 18, 2024.
 
 (iv) *Fiber Reinforced Plastic (FRP).*
 
-(A) *Resin.* Any resin used for the hull, canopy, hatches, rigid covers, and enclosures for the engine, transmission, and engine accessories, must be fire retardant and accepted by the Commandant in accordance with 46 CFR part 164, subpart 164.120.
+(A) *Resin.* Any resin used for the hull, canopy, hatches, rigid covers, and enclosures for the engine, transmission, and engine accessories, must be fire retardant according to IMO MSC/Circ. 1006 (incorporated by reference, see § 160.156-5)
 
 (B) *Glass reinforcement.* Any glass reinforcement used must have good laminated wet strength retention and must meet the appropriate specification in this paragraph. Glass cloth must be a finished fabric woven from “E” electrical glass fiber yarns meeting ASTM D 4029-09 commercial style designation 1564 (incorporated by reference, see § 160.156-5 of this subpart). Woven roving must conform to MIL-C-19663D (incorporated by reference, see § 160.156-5 of this subpart). Other glass materials equivalent or superior in strength, design, wet out, and efficiency will be given consideration on specific request to the Commandant.
 
@@ -134,4 +132,4 @@ Link to an amendment published at 89 FR 76702, Sept. 18, 2024.
 
 (c) Determinations of equivalence of design, construction, and materials will be made by the Commandant only.
 
-[USCG-2010-0048, 76 FR 62999, Oct. 11, 2011, as amended by 79 FR 44140, July 30, 2014; USCG-2020-0107, 87 FR 68305, Nov. 14, 2022]
+[USCG-2010-0048, 76 FR 62999, Oct. 11, 2011, as amended by 79 FR 44140, July 30, 2014; USCG-2020-0107, 87 FR 68305, Nov. 14, 2022; USCG-2020-0519, 89 FR 76702, Sept. 18, 2024]

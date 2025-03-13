@@ -1,7 +1,5 @@
 ##### § 115.810 Fire protection. #####
 
-Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
-
 (a) At each initial and subsequent inspection for certification, the owner or managing operator shall be prepared to conduct tests and have the vessel ready for inspection of its fire protection equipment, including the following:
 
 (1) Inspection of each hand portable fire extinguisher, semiportable fire extinguisher, and fixed gas fire extinguishing system to check for excessive corrosion and general condition;
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
 
 (b) The owner, managing operator, or a qualified servicing facility as applicable shall conduct the following inspections and tests:
 
-(1) For portable fire extinguishers, the inspections, maintenance procedures and hydrostatic pressure tests required by Chapter 4 of NFPA 10, (incorporated by reference, see § 114.600 of this chapter) with the frequency specified by NFPA 10. In addition, carbon dioxide and halon portable fire extinguishers must be refilled when the net content weight loss exceeds that specified for fixed systems by Table 115.810(b). The owner or managing operator shall provide satisfactory evidence of the required servicing to the marine inspector. If any of the equipment or records have not been properly maintained, a qualified servicing facility may be required to perform the required inspections, maintenance procedures, and hydrostatic pressure tests. A tag issued by a qualified servicing organization, and attached to each extinguisher, may be accepted as evidence that the necessary maintenance procedures have been conducted.
+(1) For portable fire extinguishers, the inspections, maintenance procedures and hydrostatic pressure tests required by NFPA 10, (incorporated by reference, see § 114.600 of this chapter) with the frequency specified by NFPA 10. In addition, carbon dioxide and halon portable fire extinguishers must be refilled when the net content weight loss exceeds that specified for fixed systems by Table 115.810(b). The owner or managing operator shall provide satisfactory evidence of the required servicing to the marine inspector. If any of the equipment or records have not been properly maintained, a qualified servicing facility may be required to perform the required inspections, maintenance procedures, and hydrostatic pressure tests. A tag issued by a qualified servicing organization, and attached to each extinguisher, may be accepted as evidence that the necessary maintenance procedures have been conducted.
 
 (2) For semiportable and fixed gas fire extinguishing systems, the inspections and tests required by Table 115.810(b), in addition to the tests required by §§ 147.60 and 147.65 in subchapter N of this chapter. The owner or managing operator shall provide satisfactory evidence of the required servicing to the marine inspector. If any of the equipment or records have not been properly maintained, a qualified servicing facility may be required to perform the required inspections, maintenance procedures, and hydrostatic pressure tests.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
 
 (d) At each initial and subsequent inspection for certification, the marine inspector may require that a fire drill be held under simulated emergency conditions to be specified by the inspector.
 
-[CGD 85-080, 61 FR 892, Jan. 10, 1996, as amended at 62 FR 51348, Sept. 30, 1997; USCG-2006-24797, 77 FR 33882, June 7, 2012; USCG-2012-0196, 81 FR 48269, July 22, 2016]
+[CGD 85-080, 61 FR 892, Jan. 10, 1996, as amended at 62 FR 51348, Sept. 30, 1997; USCG-2006-24797, 77 FR 33882, June 7, 2012; USCG-2012-0196, 81 FR 48269, July 22, 2016; USCG-2020-0519, 89 FR 76701, Sept. 18, 2024]

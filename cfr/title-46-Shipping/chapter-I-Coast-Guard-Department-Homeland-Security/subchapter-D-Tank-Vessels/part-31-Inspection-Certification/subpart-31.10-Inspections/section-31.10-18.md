@@ -1,7 +1,5 @@
 ##### § 31.10-18 Fire fighting equipment: General—TB/ALL. #####
 
-Link to an amendment published at 89 FR 76695, Sept. 18, 2024.
-
 (a) The owner, master, or person-in-charge of a tank vessel must ensure that portable and semi-portable extinguishers are inspected and maintained in accordance with NFPA 10 (incorporated by reference, see § 31.01-2) as specified in paragraphs (a)(1) through (4) of this section.
 
 (1) Certification or licensing by a state or local jurisdiction as a fire extinguisher servicing agency will be accepted by the Coast Guard as meeting the personnel certification requirements of NFPA 10 for annual maintenance and recharging of extinguishers.
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 76695, Sept. 18, 2024.
 |                                                                                                Carbon dioxide                                                                                                |             Weigh cylinders. Recharge if weight loss exceeds 10 percent of weight of charge.<sup>1</sup>              |
 |<sup>1</sup> Cylinders must be tested and marked, and all flexible connections on fixed carbon dioxide and Halon extinguishers must be tested or renewed, as required by §§ 147.60 and 147.65 of this chapter.|                                                                                                                       |
 
-(c) Deck foam systems must be tested at the inspection for certification and the periodic inspection by discharging foam for approximately 15 seconds from any nozzle designated by the marine inspector. It is not required to deliver foam from all foam outlets, but all lines and nozzles must be tested with water to prove they are clear of obstruction. Before the inspection for certification and periodic inspection of deck foam systems utilizing a mechanical foam system, a representative sample of the foam concentrate must be submitted to the manufacturer who will issue a certificate indicating gravity, pH, percentage of water dilution, and solid content.
+(c) Deck foam systems must be tested at the inspection for certification and the periodic inspection by discharging foam for approximately 15 seconds from any nozzle designated by the marine inspector. It is not required to deliver foam from all foam outlets, but all lines and nozzles must be tested with water to prove they are clear of obstruction. Before the inspection for certification and periodic inspection of deck foam systems utilizing a mechanical foam system, a representative sample of the foam concentrate must be submitted to the manufacturer, or its authorized representative, or an independent laboratory accepted for this purpose by the Coast Guard, who will issue a certificate indicating gravity, pH, percentage of water dilution, and solid content.
 
 (d) At each inspection for certification, periodic inspection, and at such other times as considered necessary, the inspector must determine that all fire extinguishing equipment is in suitable condition and that the tests and inspections required by paragraphs (b) through (g) of this section have been conducted. In addition, the marine inspector may require additional tests to determine the condition of the equipment.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 89 FR 76695, Sept. 18, 2024.
 
 (g) Steam smothering lines must be tested with at least 50 psi of air pressure or by blowing steam through the lines at the working pressure. A survey must be conducted for detecting corrosion and defects.
 
-[USCG-2012-0196, 81 FR 48248, July 22, 2016]
+[USCG-2012-0196, 81 FR 48248, July 22, 2016, as amended by USCG-2020-0519, 89 FR 76695, Sept. 18, 2024]

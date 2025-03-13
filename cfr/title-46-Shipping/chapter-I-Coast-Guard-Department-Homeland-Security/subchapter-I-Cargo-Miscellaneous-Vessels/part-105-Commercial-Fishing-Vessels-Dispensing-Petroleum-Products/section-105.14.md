@@ -1,8 +1,6 @@
 ##### § 105.14 Fire extinguishing equipment. #####
 
-Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
-
-(a) Each vessel must carry at least two B-II dry chemical or foam portable fire extinguishers that comply with 46 CFR 28.160 and bear the UL marine type label, and must be located at or near each dispensing area. This equipment must be examined prior to issuing a letter of compliance.
+(a) In addition to the extinguishers in the table to § 28.160 of this chapter, each vessel must carry at least two 40-B fire extinguishers that are approved under § 162.028 or § 162.039 of this chapter and must be located at or near the dispensing area. Extinguishers with larger numerical ratings or multiple letter designations may be used to meet this requirement. This equipment must be examined before issuing a letter of compliance.
 
 (b) Each vessel must be provided with a hand-operated portable fire pump having a capacity of at least 5 gallons per minute and equipped with a suction and discharge hose suitable for use in firefighting. The pump may also serve as a bilge pump.
 
@@ -15,3 +13,5 @@ Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
 (2) All piping, valves, and fittings must be in accordance with good marine practice and suitable for the purpose intended.
 
 (3) One length of the fire hose must be attached to each fire hydrant at all times. The fire hose may be a commercial fire hose or equivalent of not more than a 11/2-inch diameter, or a garden hose of not less than a5/8-inch nominal inside diameter. The hose must be in one piece, not less than 25 feet, and not more than 50 feet in length. If a 11/2-inch diameter fire hose is used after January 1, 1980, each length of hose must be lined as a commercial fire hose that conforms to UL 19 (incorporated by reference; see § 105.3). A hose that bears a UL label as a lined fire hose is accepted as conforming to this requirement. The hose must have a combination nozzle approved by the Commandant in accordance with 46 CFR subpart 162.027. If a garden hose is used, it must be of a good commercial grade constructed of an inner rubber tube, plies of braided cotton reinforcement, and an outer rubber cover, or of equivalent material, and must be fitted with a commercial garden hose nozzle of good-grade bronze or equivalent metal. All fittings on fire hoses must be of brass, copper, or other suitable corrosion-resistant metal.
+
+[81 FR 13283, Mar. 14, 2016, as amended by USCG-2020-0519, 89 FR 76699, Sept. 18, 2024]

@@ -1,10 +1,8 @@
 ##### § 169.717 Fireman's outfit. #####
 
-Link to an amendment published at 89 FR 76707, Sept. 18, 2024.
-
 (a) Each vessel greater than 120 feet but less than 150 feet in length must carry one fireman's outfit consisting of—
 
-(1) One pressure-demand, open-circuit, self-contained breathing apparatus, approved by the Mine Safety and Health Administration (MSHA) and by the National Institute for Occupational Safety and Health (NIOSH) and having at a minimum a 30-minute air supply and a full facepiece; but a self-contained compressed-air breathing apparatus previously approved by MSHA and NIOSH under part 160, subpart 160.011, of this chapter may continue in use as required equipment if it was part of the vessel's equipment on November 23, 1992, and as long as it is maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection;
+(1) One pressure-demand, open-circuit, self-contained breathing apparatus, approved by the National Institute for Occupational Safety and Health (NIOSH) and having at a minimum a 30-minute air supply and a full facepiece; but a self-contained compressed-air breathing apparatus previously approved under part 60, subpart 160.011, of this chapter may continue in use as required equipment if it was part of the vessel's equipment on November 23, 1992, and as long as it is maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection;
 
 (2) One lifeline with a belt or a suitable harness;
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 76707, Sept. 18, 2024.
 
 (e) Protective clothing must be constructed of material that will protect the skin from the heat of fire and burns from scalding steam. The outer surface must be water resistant.
 
-[CGD 83-005, 51 FR 896, Jan. 9, 1986, as amended by CGD 86-036, 57 FR 48326, Oct. 23, 1992]
+[CGD 83-005, 51 FR 896, Jan. 9, 1986, as amended by CGD 86-036, 57 FR 48326, Oct. 23, 1992; USCG-2020-0519, 89 FR 76707, Sept. 18, 2024]

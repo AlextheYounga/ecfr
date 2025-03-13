@@ -194,7 +194,7 @@
 
 (xv) *Accounting firm.* Any public accounting firm registered in accordance with section 102 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7212).
 
-(xvi) *Public utility.* Any entity that is a regulated public utility as defined in 26 U.S.C. 7701(a)(33)(A) that provides telecommunications services, electrical power, natural gas, or water and sewer services within the United States.
+(xvi) *Public utility.* Any entity that is a regulated public utility as defined in 26 U.S.C. 7701(a)(33)(A) or (D) that provides telecommunications services, electrical power, natural gas, or water and sewer services within the United States.
 
 (xvii) *Financial market utility.* Any financial market utility designated by the Financial Stability Oversight Council under section 804 of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5463).
 
@@ -394,4 +394,4 @@
 
 (iii) such person either causes the failure, or is a senior officer of the entity at the time of the failure.
 
-[87 FR 59591, Sept. 30, 2022, as amended at 88 FR 76997, Nov. 8, 2023; 88 FR 83504, Nov. 30, 2023]
+[87 FR 59591, Sept. 30, 2022, as amended at 88 FR 76997, Nov. 8, 2023; 88 FR 83504, Nov. 30, 2023; 89 FR 83783, Oct. 18, 2024]

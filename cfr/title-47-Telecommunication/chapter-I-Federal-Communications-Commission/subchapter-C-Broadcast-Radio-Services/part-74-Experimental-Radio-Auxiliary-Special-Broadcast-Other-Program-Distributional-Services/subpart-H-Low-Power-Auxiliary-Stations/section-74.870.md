@@ -1,5 +1,7 @@
 ##### § 74.870 Wireless video assist devices. #####
 
+Link to an amendment published at 89 FR 83800, Oct. 18, 2024.
+
 Television broadcast auxiliary licensees and motion picture and television producers, as defined in § 74.801 may operate wireless video assist devices on a non-interference basis on VHF and UHF television channels to assist with production activities.
 
 (a) The use of wireless video assist devices must comply with all provisions of this subpart, except as indicated in paragraphs (b) through (i) of this section.

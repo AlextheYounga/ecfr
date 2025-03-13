@@ -1,8 +1,6 @@
 ##### § 39.1005 Incorporation by reference—TB/ALL. #####
 
-Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
-
-(a) Certain material is incorporated by reference (IBR) into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the Coast Guard Headquarters, Commandant (CG-ENG), Attn: Office of Design and Engineering Standards, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509, telephone 202-372-1418 and at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, it is available from the sources indicated in this section.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the Coast Guard and at the National Archives and Records Administration (NARA). Contact Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; email *typeapproval@uscg.mil* or visit *www.dco.uscg.mil/CG-ENG-4/.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov*. The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) American National Standards Institute (ANSI), 25 West 43rd Street, 4th floor, New York, NY 10036.
 
@@ -34,22 +32,28 @@ Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
 
 (2) [Reserved]
 
-(g) National Electrical Manufacturers Association (NEMA), 1300 North 17th Street, Suite 1752, Rosslyn, VA 22209.
+(g) International Organization for Standardization (ISO), ISO Central Secretariat Chemin de Blandonnet 8. CP 401—1214 Vernier, Geneva, Switzerland phone 41 22 749 01 11; *www.iso.org/contact-iso.html.*
+
+(1) ISO 15364:2021(E), Ships and Marine Technology—Pressure-vacuum valves for cargo tanks and devices to prevent the passage of flame into cargo tanks, Fourth Edition, February 2021 (“ISO 15364”); IBR approved for § 39.2011(b).
+
+(2) [Reserved]
+
+(h) National Electrical Manufacturers Association (NEMA), 1300 North 17th Street, Suite 1752, Rosslyn, VA 22209.
 
 (1) ANSI NEMA WD-6—Wiring Devices, Dimensional Requirements, 1988 (“NEMA WD-6”), IBR approved for § 39.2009(a)
 
 (2) [Reserved]
 
-(h) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169-7471.
+(i) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169-7471.
 
 (1) NFPA 70—National Electrical Code, 2011, IBR approved for § 39.2009(a).
 
 (2) [Reserved]
 
-(i) Oil Companies International Marine Forum (OCIMF), 29 Queen Anne's Gate, London SWIH 9BU, England.
+(j) Oil Companies International Marine Forum (OCIMF), 29 Queen Anne's Gate, London SWIH 9BU, England.
 
 (1) International Safety Guide for Oil Tankers and Terminals, Fifth Edition, 2006 (“ISGOTT”), IBR approved for §§ 39.3001(g), 39.5001(c), 39.6001(g), and 39.6005(a).
 
 (2) [Reserved]
 
-[USCG-1999-5150, 78 FR 42642, July 16, 2013, as amended by USCG-2020-0304, 85 FR 58282, Sept. 18, 2020]
+[USCG-1999-5150, 78 FR 42642, July 16, 2013, as amended by USCG-2020-0304, 85 FR 58282, Sept. 18, 2020; USCG-2020-0519, 89 FR 76697, Sept. 18, 2024]

@@ -1,7 +1,5 @@
 ##### § 108.719 Pilot boarding equipment. #####
 
-Link to an amendment published at 89 FR 76700, Sept. 18, 2024.
-
 (a) This section applies to each vessel that normally embarks or disembarks a pilot from a pilot boat or other vessel.
 
 (b) Each vessel must have suitable pilot boarding equipment available for use on each side of the vessel. If a vessel has only one set of equipment, the equipment must be capable of being easily transferred to and rigged for use on either side of the vessel.
@@ -20,6 +18,4 @@ Link to an amendment published at 89 FR 76700, Sept. 18, 2024.
 
 (g) Whenever the distance from the water's edge to the point of access is more than 30 feet, access from a pilot ladder to the vessel must be by way of an accommodation ladder or equally safe and convenient means.
 
-(h) Pilot hoists, if used, must be approved under subpart 163.002 of this chapter.
-
-[CGD 79-032, 49 FR 25455, June 21, 1984]
+[CGD 79-032, 49 FR 25455, June 21, 1984, as amended by USCG-2020-0519, 89 FR 76700, Sept. 18, 2024]

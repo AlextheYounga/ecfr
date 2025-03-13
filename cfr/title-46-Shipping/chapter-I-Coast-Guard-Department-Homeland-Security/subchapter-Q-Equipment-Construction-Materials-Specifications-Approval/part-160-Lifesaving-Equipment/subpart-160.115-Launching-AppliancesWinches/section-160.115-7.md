@@ -1,7 +1,5 @@
 ##### § 160.115-7 Design, construction, and performance of winches. #####
 
-Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
-
 (a) To seek Coast Guard approval of a winch, a manufacturer must comply with, and each winch must meet, the requirements of the following—
 
 (1) IMO LSA Code, chapter I/1.2.2 and chapter VI/6.1. (incorporated by reference, see § 160.115-5 of this subpart) applicable to the design and intended service of the winch;
@@ -50,9 +48,9 @@ Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
 
 (v) A main line emergency disconnect switch, the opening of which disconnects all electrical potential to the winch, must be provided. This switch must be located in a position accessible to the person in charge of the boat stowage and must be in a position from which the movement of both davit arms can be observed as they approach the final stowed position;
 
-(vi) Limit switches, one for each davit arm, must be provided to limit the travel of the davit arms as they approach the final stowed position. These switches must—
+(vi) Limit switches must be provided to limit the travel of the davit arms as they approach the final stowed position and prevent overstressing the falls or davits. These switches must—
 
-(A) Be so arranged that the opening of either switch will disconnect all electrical potential of the circuit in which the switches are connected;
+(A) Be arranged so that the activation of any limit switch will stop the travel of all of the davit arms;
 
 (B) Be arranged to stop the travel of the davit arms not less than 0.3m (12 in) from their final stowed position; and
 
@@ -70,4 +68,4 @@ Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
 
 (c) Determinations of equivalence of design, construction, and materials will be made by the Commandant only.
 
-[USCG-2010-0048, 76 FR 62976, Oct. 11, 2011, as amended by 79 FR 44139, July 30, 2014]
+[USCG-2010-0048, 76 FR 62976, Oct. 11, 2011, as amended by 79 FR 44139, July 30, 2014; USCG-2020-0519, 89 FR 76701, Sept. 18, 2024]

@@ -1,5 +1,7 @@
 ##### § 15.38 Incorporation by reference. #####
 
+Link to an amendment published at 89 FR 83798, Oct. 18, 2024.
+
 Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Federal Communications Commission (FCC) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the FCC and at the National Archives and Records Administration (NARA). Contact the FCC at the address indicated in 47 CFR 0.401(a), phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the following source(s):
 
 (a) American National Standards Institute (ANSI), 25 West 43rd Street, 4th Floor, New York, NY 10036; phone: (212) 642-4980; email *info@ansi.org;* website: *https://webstore.ansi.org/.*

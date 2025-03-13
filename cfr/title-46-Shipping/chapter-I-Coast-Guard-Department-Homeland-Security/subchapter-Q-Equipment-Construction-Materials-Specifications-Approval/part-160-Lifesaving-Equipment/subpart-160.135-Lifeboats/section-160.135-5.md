@@ -1,7 +1,5 @@
 ##### § 160.135-5 Incorporation by reference. #####
 
-Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact the Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; or email *typeapproval@uscg.mil* or visit *https://www.dco.uscg.mil/CG-ENG-4/.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959.
@@ -50,6 +48,8 @@ Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
 
 (6) MSC.1/Circular 1205, Guidelines for Developing Operation and Maintenance Manuals for Lifeboat Systems, (May 26, 2006), IBR approved for § 160.135-21 (“IMO MSC.1 Circ. 1205”).
 
+(7) MSC/Circ. 1006, Guidelines on Fire Test Procedures for Acceptance of Fire-Retardant Materials for the Construction of Lifeboats, June 18, 2001; IBR approved for § 160.135-7(b).
+
 (e) International Organization for Standardization (ISO): ISO Central Secretariat [ISO Copyright Office], Case Postale 56, CH-1211 Geneve 20, Switzerland.
 
 (1) ISO 527-1:1993(E), Plastics—Determination of tensile properties, part 1: General Principles, First Edition (June 15, 1993), IBR approved for § 160.135-11 (“ISO 527”).
@@ -68,4 +68,4 @@ Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
 
 (4) MIL-R-21607E(SH), Military Specification, Resins, Polyester, Low Pressure Laminating, Fire-Retardant, (May 25, 1990), IBR approved for § 160.135-11,
 
-[USCG-2010-0048, 76 FR 62987, Oct. 11, 2011, as amended by 79 FR 44140, July 30, 2014; USCG-2022-0323, 88 FR 10031, Feb. 16, 2023]
+[USCG-2010-0048, 76 FR 62987, Oct. 11, 2011, as amended by 79 FR 44140, July 30, 2014; USCG-2022-0323, 88 FR 10031, Feb. 16, 2023; USCG-2020-0519, 89 FR 76701, Sept. 18, 2024]

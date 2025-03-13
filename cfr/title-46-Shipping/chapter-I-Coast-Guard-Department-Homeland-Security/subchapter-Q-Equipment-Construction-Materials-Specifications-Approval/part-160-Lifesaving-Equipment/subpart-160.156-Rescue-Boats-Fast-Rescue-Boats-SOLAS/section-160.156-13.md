@@ -1,7 +1,5 @@
 ##### § 160.156-13 Approval inspections and tests for prototype rescue boats and fast rescue boats. #####
 
-Link to an amendment published at 89 FR 76702, Sept. 18, 2024.
-
 (a) After the Commandant notifies the manufacturer that the prototype rescue boat is in compliance with the requirements of § 160.156-11 of this subpart, the manufacturer may proceed with the prototype approval inspections and tests required under this section. The prototype rescue boat, the construction of which was witnessed under § 160.135-11 of this part, must be used for the tests in this section.
 
 (b) Except as provided in paragraph (f) of this section, the Coast Guard must conduct the approval inspections and witness the approval tests required under this section.
@@ -66,7 +64,7 @@ Link to an amendment published at 89 FR 76702, Sept. 18, 2024.
 
 (1) The prototype approval test report containing the same information recommended by IMO MSC Circ. 980 (incorporated by reference, see § 160.156-5 of this subpart). The report must include a signed statement by the Coast Guard inspector (or independent laboratory as permitted by paragraph (f) of this section) who witnessed the testing, indicating that the report accurately describes the testing and its results; and
 
-(2) The final plans of the rescue boat as built. The plans must include, in triplicate—
+(2) The final plans of the rescue boat as built. The plans must include—
 
 (i) The instructions for training and maintenance described in §§ 160.156-19 and 160.156-21 of this subpart; and
 

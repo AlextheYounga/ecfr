@@ -1,10 +1,8 @@
 ##### § 160.132-9 Preapproval review. #####
 
-Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
-
 (a) Except as provided in paragraph (c) of this section, the Commandant must conduct the preapproval review required by this section, in accordance with 46 CFR 159.005-5.
 
-(b) *Manufacturer requirements.* To seek Coast Guard approval of a davit, the manufacturer must submit an application to the Commandant meeting the requirements of 46 CFR 159.005-5 for preapproval review. To meet the requirements of 46 CFR 159.005-5(a)(2), the manufacturer must submit in triplicate—
+(b) *Manufacturer requirements.* To seek Coast Guard approval of a davit, the manufacturer must submit an application to the Commandant meeting the requirements of 46 CFR 159.005-5 for preapproval review. To meet the requirements of 46 CFR 159.005-5(a)(2), the manufacturer must submit—
 
 (1) A list of drawings, specifications, manuals, and any other documentation submitted, with each document identified by number, title, revision issue, and date;
 

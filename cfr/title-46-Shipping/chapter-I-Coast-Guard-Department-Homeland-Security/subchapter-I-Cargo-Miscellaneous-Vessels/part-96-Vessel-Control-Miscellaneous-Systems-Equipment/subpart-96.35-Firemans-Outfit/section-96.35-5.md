@@ -1,10 +1,8 @@
 ##### § 96.35-5 General. #####
 
-Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
-
 (a) All flame safety lamps shall be of an approved type, constructed in accordance with subpart 160.016 of subchapter Q (Specifications) of this chapter.
 
-(b) Each self-contained breathing apparatus must be of the pressure-demand, open-circuit type, approved by the Mine Safety and Health Administration (MSHA) and by the National Institute for Occupational Safety and Health (NIOSH), and have at a minimum a 30-minute air supply and full facepiece.
+(b) Each self-contained breathing apparatus must be of the pressure-demand, open-circuit type, approved by the National Institute for Occupational Safety and Health (NIOSH), and have at a minimum a 30-minute air supply and full facepiece.
 
 (c) Flashlights shall be Type II or Type III, constructed and marked in accordance with ASTM F 1014 (incorporated by reference, see § 96.01-3).
 
@@ -18,4 +16,4 @@ Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
 
 (h) Protective clothing shall be of material that will protect the skin from the heat of fire and burns from scalding steam. The outer surface shall be water resistant.
 
-[CGFR 65-50, 30 FR 17008, Dec. 30, 1965, as amended by CGFR 69-72, 34 FR 17485, Oct. 29, 1969; CGD 82-042, 53 FR 17705, May 18, 1988; CGD 86-036, 57 FR 48325, Oct. 23, 1992; USCG-1999-5151, 64 FR 67181, Dec. 1, 1999]
+[CGFR 65-50, 30 FR 17008, Dec. 30, 1965, as amended by CGFR 69-72, 34 FR 17485, Oct. 29, 1969; CGD 82-042, 53 FR 17705, May 18, 1988; CGD 86-036, 57 FR 48325, Oct. 23, 1992; USCG-1999-5151, 64 FR 67181, Dec. 1, 1999; USCG-2020-0519, 89 FR 76699, Sept. 18, 2024]

@@ -1,5 +1,7 @@
 ##### § 74.801 Definitions. #####
 
+Link to an amendment published at 89 FR 83799, Oct. 18, 2024.
+
 *600 MHz duplex gap.* An 11 megahertz guard band at 652-663 MHz that separates part 27 600 MHz service uplink and downlink frequencies.
 
 *600 MHz guard band.* Designated frequency band at 614-617 MHz that prevents interference between licensed services in the 600 MHz service band and channel 37.

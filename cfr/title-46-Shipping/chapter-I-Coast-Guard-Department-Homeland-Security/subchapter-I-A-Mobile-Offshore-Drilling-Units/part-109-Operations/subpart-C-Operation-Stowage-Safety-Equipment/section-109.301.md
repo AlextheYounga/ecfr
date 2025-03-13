@@ -1,7 +1,5 @@
 ##### § 109.301 Operational readiness, maintenance, and inspection of lifesaving equipment. #####
 
-Link to an amendment published at 89 FR 76700, Sept. 18, 2024.
-
 (a) *Operational readiness.* Except as provided in § 109.301(b)(3), each lifesaving appliance must be in good working order and ready for immediate use at all times when the unit is in operation.
 
 (b) *Maintenance.* (1) The manufacturer's instructions for onboard maintenance of lifesaving appliances must be onboard and must include the following for each appliance—
@@ -80,10 +78,9 @@ Link to an amendment published at 89 FR 76700, Sept. 18, 2024.
 
 (5) Lifeboat and rescue boat release gear must be operationally tested under a load of 1.1 times the total mass of the lifeboat when loaded with its full complement of persons and equipment, whenever overhauled, or at least once every 5 years.
 
-(j) *Maintenance of falls.* (1) Each fall used in a launching appliance must be turned end-for-end at intervals of not more than 30 months and must be renewed when necessary due to deterioration or at intervals of not more than 5 years, whichever is earlier.
-
-(2) As an alternative to paragraph (j)(1) of this section, each fall may be inspected annually and renewed whenever necessary due to deterioration or at intervals of not more than 4 years, whichever is earlier.
+(j) *Maintenance of falls.* Each fall used in a launching appliance must be inspected annually with special regard for areas passing through sheaves and must be renewed when necessary due to deterioration or at intervals of not more than 5 years, whichever is earlier.
 
 (k) *Rotational deployment of marine evacuation systems.* In addition to or in conjunction with the servicing intervals of marine evacuation systems required by paragraph (g)(1) of this section, each marine evacuation system must be deployed from the unit on a rotational basis. Each marine evacuation system must be deployed at least once every 6 years.
 
-[CGD 84-069, 61 FR 25301, May 20, 1996, as amended by CGD 85-205, 62 FR 35392, July 1, 1997; CGD 84-069, 63 FR 52816, Oct. 1, 1998; USCG-2001-11118, 67 FR 58541, Sept. 17, 2002; USCG-2014-0688, 79 FR 58283, Sept. 29, 2014]
+[CGD 84-069, 61 FR 25301, May 20, 1996, as amended by CGD 85-205, 62 FR 35392, July 1, 1997; CGD 84-069, 63 FR 52816, Oct. 1, 1998; USCG-2001-11118, 67 FR 58541, Sept. 17, 2002; USCG-2014-0688, 79 FR 58283, Sept. 29, 2014; USCG-2020-0519, 89 FR 76700, Sept. 18, 2024
+]

@@ -1,7 +1,5 @@
 ##### § 77.35-5 General. #####
 
-Link to an amendment published at 89 FR 76698, Sept. 18, 2024.
-
 (a) All flame safety lamps shall be of an approved type, constructed in accordance with subpart 160.016 of subchapter Q (Specifications) of this chapter.
 
 (b) Each self-contained breathing apparatus must be of the pressure-demand, open-circuit type, approved by the Mine Safety and Health Administration (MSHA) and the National Institute for Occupational Safety and Health (NIOSH), and have at a minimum a 30-minute air supply and a full facepiece.

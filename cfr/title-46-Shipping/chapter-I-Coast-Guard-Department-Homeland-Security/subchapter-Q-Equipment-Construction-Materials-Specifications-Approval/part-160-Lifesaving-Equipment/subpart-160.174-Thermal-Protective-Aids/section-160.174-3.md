@@ -1,9 +1,29 @@
 ##### § 160.174-3 Incorporation by reference. #####
 
-Link to an amendment published at 89 FR 76702, Sept. 18, 2024.
+Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact the Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; email *typeapproval@uscg.mil* or visit *www.dco.uscg.mil/CG-ENG-4/.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
-(a) Certain materials are incorporated by reference into this subchapter with the approval of the Director of the Federal Register. The Office of the Federal Register publishes a table, “Material Approved for Incorporation by Reference,” which appears in the Finding Aids section of this volume. In that table is found citations to the particular sections of this part where the material is incorporated and the date of the approval by the Director of the Federal Register. To enforce any edition other than the one listed in paragraph (b) of the section, notice of change must be published in the Federal Register and the material made available. All approved material is on file at the Office of the Federal Register, Washington, DC 20408, and at Coast Guard Headquarters. Contact Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue, SE., Washington, DC 20593-7509, Washington, DC 20593-7126.
+(a) *ASTM International (ASTM).* 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; phone: +1 610 832 9500; email: *service@astm.org;* web: *www.astm.org.*
 
-(b) The materials approved for incorporation by reference in this subpart are:
+(1) ASTM C177-85 (1993), Standard Test Method for Steady-State Heat Flux Measurements and Thermal Transmission Properties by Means of the Guarded-Hot-Plate Apparatus (“ASTM C 177”); IBR approved for § 160.174-17(f) and (g).
 
-American Society for Testing and Materials (ASTM)*100 Barr Harbor Drive, West Conshohocken, PA 19428-2959.*ASTM C 177-85 (1993), Standard Test Method for Steady-State Heat Flux Measurements and Thermal Transmission Properties by Means of the Guarded-Hot-Plate Apparatus—160.174-17ASTM C 518-91, Standard Test Method for Steady-State Heat Flux Measurements and Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus—160.174-17ASTM D 975-98, Standard Specification for Diesel Fuel Oils—160.174-17ASTM D 1004-94a, Standard Test Method for Initial Tear Resistance of Plastic Film and Sheeting—160.174-17ASTM D 1518-85 (1990), Standard Test Method for Thermal Transmittance of Textile Materials—160.174-17General Services Administration*Specification Unit (WFSIA), Regional Office Building, Room 6039, 7th and D Streets SW., Washington, DC 20407*Federal Standard No. 751a—Stitches, Seams, and Stitchings.National Bureau of Standards Special Publication 440—Color, Universal Language and Dictionary of Names.[CGD 84-069b, 51 FR 19343, May 29, 1986, as amended by CGD 95-072, 60 FR 50467, Sept. 29, 1995; CGD 96-041, 61 FR 50733, Sept. 27, 1996; CGD 97-057, 62 FR 51049, Sept. 30, 1997; USCG-1999-6216, 64 FR 53228, Oct. 1, 1999; USCG-1999-5151, 64 FR 67184, Dec. 1, 1999; USCG-2009-0702, 74 FR 49238, Sept. 25, 2009; USCG-2013-0671, 78 FR 60159, Sept. 30, 2013]
+(2) ASTM C518-91, Standard Test Method for Steady-State Heat Flux Measurements and Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus (“ASTM C 518”); IBR approved for § 160.174-17(f) and (g).
+
+(3) ASTM D975-14, Standard Specification for Diesel Fuel Oils, approved February 1, 2014 (“ASTM D 975”); IBR approved for § 160.174-17(g).
+
+(4) ASTM D1004-94a, Standard Test Method for Initial Tear Resistance of Plastic Film and Sheeting (“ASTM D 1004”); IBR approved for § 160.174-47(i).
+
+(5) ASTM D1518-85 (1990), Standard Test Method for Thermal Transmittance of Textile Materials (“ASTM D 1518”); IBR approved for § 160.174-17(f).
+
+(b) *General Services Administration (GSA).* email: *GSAStandards@gsa.gov;* web: *https://fedspecs.gsa.gov/s/federal-specifications.*
+
+(1) Federal Standard No. 751a, Stitches, Seams, and Stitchings, dated January 25, 1965 (“Federal Standard No. 751”); IBR approved for § 160.174-9(b).
+
+(2) [Reserved]
+
+(c) *National Institution of Standards and Technology (NIST) (formerly National Bureau of Standards).* U.S. Department of Commerce, National Institution of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899; phone: (301) 975-2000; web: *www.nist.gov.*
+
+(1) National Bureau of Standards Special Publication 440—Color, Universal Language and Dictionary of Names (“National Bureau of Standards Publication 440”); December 1976; IBR approved for § 160.174-9(f). (Available at *https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication440.pdf*)
+
+(2) [Reserved]
+
+[USCG-2020-0519, 89 FR 76702, Sept. 18, 2024]

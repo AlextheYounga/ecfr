@@ -1,7 +1,5 @@
 ##### § 107.235 Servicing of portable fire extinguishers, semi-portable fire extinguishers and fixed fire extinguishing systems. #####
 
-Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
-
 (a) Except as provided in the following paragraphs, portable and semi-portable extinguishers must be inspected and maintained in accordance with NFPA 10, Standard for Portable Fire Extinguishers, 2010 Edition, effective December 5, 2009. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy from National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169, 617-770-3000, *http://www.nfpa.org*. You may inspect a copy at the U.S. Coast Guard, Office of Design and Engineering Standards (CG-ENG), 2703 Martin Luther King Jr. Avenue SE., Stop 7509, Washington, DC 20593; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
 
 (1) Certification or licensing by a state or local jurisdiction as a fire extinguisher servicing agency will be accepted by the Coast Guard as meeting the personnel certification requirements of NFPA 10 for annual maintenance and recharging of extinguishers.
@@ -20,8 +18,8 @@ Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
 
 (3) *Inert gas:* Recharge or replace cylinder if cylinder pressure loss exceeds 5 percent of specified gauge pressure, adjusted for temperature. Test time delays, alarms, and ventilation shutdowns with carbon dioxide, nitrogen, or other nonflammable gas as stated in the system manufacturer's instruction manual. Inspect hoses for damage or decay. Ensure that nozzles are unobstructed. Cylinders must be tested and marked, and all flexible connections must be tested or renewed as required by 46 CFR 147.60 and 147.66.
 
-(4) *Foam, except premix systems:* Discharge foam for approximately 15 seconds from a nozzle designated by the marine inspector. Discharge water from all other lines and nozzles. Submit a sample of the foam liquid to the manufacturer or its authorized representative for determination of specific gravity, pH, percentage of water dilution, and solid content and for certification as a suitable firefighting foam.
+(4) *Foam, except premix systems:* Discharge foam for approximately 15 seconds from a nozzle designated by the marine inspector. Discharge water from all other lines and nozzles. Submit a sample of the foam concentrate to the manufacturer or its authorized representative, or an independent laboratory accepted for the purpose by the Coast Guard for determination of specific gravity, pH, percentage of water dilution, and solid content and for certification as a suitable firefighting foam.
 
 (5) *Premix aqueous film forming foam:* Remove the pressure cartridge and replace the cartridge if the seal is punctured, sampling the premix solution in accordance with the manufacturer's instructions, and replacing any cylinders that are discharged.
 
-[CGD 73-251, 43 FR 56802, Dec. 4, 1978, as amended by CGD 84-044, 53 FR 7749, Mar. 10, 1988; USCG-2006-24797, 77 FR 33881, June 7, 2012; USCG-2012-0196, 81 FR 48265, July 22, 2016]
+[CGD 73-251, 43 FR 56802, Dec. 4, 1978, as amended by CGD 84-044, 53 FR 7749, Mar. 10, 1988; USCG-2006-24797, 77 FR 33881, June 7, 2012; USCG-2012-0196, 81 FR 48265, July 22, 2016; USCG-2020-0519, 89 FR 76699, Sept. 18, 2024]

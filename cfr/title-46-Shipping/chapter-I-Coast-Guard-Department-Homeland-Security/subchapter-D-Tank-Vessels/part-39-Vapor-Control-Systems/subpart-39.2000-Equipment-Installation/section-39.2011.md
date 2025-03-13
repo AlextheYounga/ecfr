@@ -1,7 +1,5 @@
 ##### § 39.2011 Vapor overpressure and vacuum protection—TB/ALL. #####
 
-Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
-
 (a) The cargo tank venting system required by 46 CFR 32.55 must—
 
 (1) Be capable of discharging cargo vapor at the maximum transfer rate plus the vapor growth for the cargo such that the pressure in the vapor space of each tank connected to the vapor control system (VCS) does not exceed—
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
 
 (b) Each pressure-vacuum relief valve must—
 
-(1) Be of a type approved under 46 CFR 162.017, for the pressure and vacuum relief setting desired;
+(1) Be type approved under 46 CFR 162.017 for the pressure and vacuum relief setting desired. Pressure-vacuum relief valves that meet the requirements of ISO 15364 (incorporated by reference, see § 39.1005) or equivalent standards acceptable to the flag state are acceptable for installation on foreign-flagged vessels and do not require type approval;
 
 (2) Be tested for venting capacity in accordance with paragraph 1.5.1.3 of API 2000 (incorporated by reference, see 46 CFR 39.1005). The test must be carried out with a flame screen fitted at the vacuum relief opening and at the discharge opening if the pressure-vacuum relief valve is not designed to ensure a minimum vapor discharge velocity of 30 meters (98.4 feet) per second; and
 
@@ -27,3 +25,5 @@ Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
 (c) A liquid filled pressure-vacuum breaker may be used for vapor overpressure and vacuum protection if the vessel owner or operator obtains the prior written approval of the Commandant.
 
 (d) Vapor growth must be calculated following the Marine Safety Center guidelines available in Coast Guard VCS guidance at *http://homeport.uscg.mil,* or as specifically approved in writing by the Commandant after consultation with the Marine Safety Center.
+
+[USCG-1999-5150, 78 FR 42642, July 16, 2013, as amended by USCG-2020-0519, 89 FR 76697, Sept. 18, 2024]

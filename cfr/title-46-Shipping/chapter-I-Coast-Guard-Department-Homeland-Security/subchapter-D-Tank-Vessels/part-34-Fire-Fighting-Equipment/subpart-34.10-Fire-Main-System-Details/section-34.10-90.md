@@ -1,14 +1,12 @@
 ##### § 34.10-90 Installations contracted for prior to May 26, 1965—T/ALL. #####
 
-Link to an amendment published at 89 FR 76695, Sept. 18, 2024.
-
 (a) Installations contracted for prior to January 1, 1962, shall meet the following requirements:
 
 (1) Existing arrangements, materials and facilities previously approved shall be considered satisfactory so long as they meet the minimum requirements of this paragraph and they are maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection. Minor repairs and alterations may be made to the same standards as the original installation.
 
 (2) Except as further modified by this paragraph, the details of the systems shall be in general agreement with §§ 34.10-5 through 34.10-15 insofar as is reasonable and practicable.
 
-(3) Tankships of less than 500 gross tons shall be equipped with an efficient hand pump capable of delivering 50 gallons per minute or a power-driven pump of equivalent capacity. However, on tankships of 20 gross tons or under where it is impracticable to install a hand or power-operated fire pump, or on tankships with only one man in the crew, at least one additional B-II fire extinguisher may be accepted in lieu of a fire pump.
+(3) Tankships of less than 500 gross tons shall be equipped with an efficient hand pump capable of delivering 50 gallons per minute or a power-driven pump of equivalent capacity. However, on tankships of 20 gross tons or under, where it is impracticable to install a hand or power-operated fire pump, or on tankships with only one man in the crew, at least one additional 40-B fire extinguisher may be accepted in lieu of a fire pump.
 
 (4) Tankships of 500 gross tons and over but not over 1,000 gross tons shall be provided with one independently power-driven pump.
 
@@ -44,4 +42,4 @@ Link to an amendment published at 89 FR 76695, Sept. 18, 2024.
 
 (iii) Meets § 34.10-10(o).
 
-[CGFR 65-50, 30 FR 16694, Dec. 30, 1965, as amended by CGD 76-086, 44 FR 2391, Jan. 11, 1979; CGD 95-027, 61 FR 25999, May 23, 1996]
+[CGFR 65-50, 30 FR 16694, Dec. 30, 1965, as amended by CGD 76-086, 44 FR 2391, Jan. 11, 1979; CGD 95-027, 61 FR 25999, May 23, 1996; USCG-2020-0519, 89 FR 76695, Sept. 18, 2024]

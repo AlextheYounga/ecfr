@@ -1,7 +1,5 @@
 ##### § 160.133-13 Approval inspections and tests for prototype release mechanisms. #####
 
-Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
-
 (a) If the manufacturer is notified that the information submitted in accordance with § 160.133-9 of this subpart is satisfactory to the Commandant, the manufacturer may proceed with fabrication of the prototype release mechanism, and the approval inspections and tests required under this section.
 
 (b) Except as provided in paragraph (f) of this section, the Coast Guard must conduct the approval inspections and witness the approval tests required under this section.
@@ -58,7 +56,7 @@ Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
 
 (1) The prototype approval test report containing the same information recommended by IMO MSC Circ. 980 (incorporated by reference, see § 160.133-5 of this subpart). The report must include a signed statement by the Coast Guard inspector (or independent laboratory as permitted under paragraph (f) of this section) who witnessed the testing, indicating that the report accurately describes the testing and its results; and
 
-(2) The final plans of the release mechanism as built, in triplicate. The plans must include the instructions for training and maintenance described in §§ 160.133-19 and 160.133-21 of this subpart, respectively.
+(2) The final plans of the release mechanism as built. The plans must include the instructions for training and maintenance described in §§ 160.133-19 and 160.133-21 of this subpart, respectively.
 
 (h) The Commandant will review the report and plans submitted under paragraph (g) of this section, and if satisfactory to the Commandant, will approve the plans under 46 CFR 159.005-13.
 

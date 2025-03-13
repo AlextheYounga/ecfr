@@ -1,7 +1,5 @@
 ##### § 56.60-25 Nonmetallic materials. #####
 
-Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
-
 (a) Plastic pipe installations must be in accordance with IMO Resolution A.753(18) and IMO Resolution MSC.313(88) (both incorporated by reference, see § 56.01-2) and the following supplemental requirements.
 
 (1) Plastic pipe and associated fittings must be approved to approval series 164.141 as follows:
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
 
 (iii) Material specifications must be provided with the installation proposal.
 
-(4) Pipe that is to be used for potable water must bear the appropriate certification mark of a nationally-recognized, ANSI-accredited third-party certification laboratory. Plastic pipe fitting and bonding techniques must follow the manufacturer's installation guidelines. Bonders must hold certifications required by the manufacturer's guidelines and provide documentation of current certification to the Marine Inspector when requested.
+(4) Plastic pipe fitting and bonding techniques must follow the manufacturer's installation guidelines. Bonders must hold certifications required by the manufacturer's guidelines and provide documentation of current certification to the Marine Inspector when requested.
 
 (5) Systems identified by § 56.97-40(a)(1) through (c) that contain plastic piping must be tested to 1.5 MAWP as required by § 56.97-40(a).
 
@@ -52,4 +50,4 @@ Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
 
 (d) Requests to use nonmetallic materials other than those specified in this section must be submitted to the Commandant for consideration.
 
-[CGFR 68-82, 33 FR 18843, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9979, June 17, 1970; CGD 72-104R, 37 FR 14234, July 18, 1972; CGD 73-254, 40 FR 40165, Sept. 2, 1975; CGD 77-140, 54 FR 40613, Oct. 2, 1989; CGD 88-032, 56 FR 35822, July 29, 1991; CGD 83-043, 60 FR 24775, May 10, 1995; CGD 95-072, 60 FR 50462, Sept. 29, 1995; CGD 96-041, 61 FR 50728, Sept. 27, 1996; CGD 95-028, 62 FR 51201, Sept. 30, 1997; USCG-2002-13058, 67 FR 61278, Sept. 30, 2002; USCG-2003-16630, 73 FR 65183, Oct. 31, 2008; USCG-2012-0196, 81 FR 48251, July 22, 2016; USCG-2020-0634, 89 FR 50155, June 12, 2024]
+[CGFR 68-82, 33 FR 18843, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9979, June 17, 1970; CGD 72-104R, 37 FR 14234, July 18, 1972; CGD 73-254, 40 FR 40165, Sept. 2, 1975; CGD 77-140, 54 FR 40613, Oct. 2, 1989; CGD 88-032, 56 FR 35822, July 29, 1991; CGD 83-043, 60 FR 24775, May 10, 1995; CGD 95-072, 60 FR 50462, Sept. 29, 1995; CGD 96-041, 61 FR 50728, Sept. 27, 1996; CGD 95-028, 62 FR 51201, Sept. 30, 1997; USCG-2002-13058, 67 FR 61278, Sept. 30, 2002; USCG-2003-16630, 73 FR 65183, Oct. 31, 2008; USCG-2012-0196, 81 FR 48251, July 22, 2016; USCG-2020-0634, 89 FR 50155, June 12, 2024; USCG-2020-0519, 89 FR 76697, Sept. 18, 2024]
