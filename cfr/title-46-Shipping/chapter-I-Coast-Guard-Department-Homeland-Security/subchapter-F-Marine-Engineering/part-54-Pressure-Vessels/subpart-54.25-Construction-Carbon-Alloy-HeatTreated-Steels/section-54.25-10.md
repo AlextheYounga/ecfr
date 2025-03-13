@@ -18,7 +18,7 @@ For high alloy steels refer to § 54.25-15. For heat treated steels refer to § 
 
 (ii) Mechanical properties must be within the following limits:
 
-(A) Ultimate strength: 58,000 1-85,000 1psig.
+(A) Ultimate strength: 58,0001-85,0001psig.
 
 (B) Yield strength: Minimum 35,000 psig. Maximum 80 percent of ultimate.
 
@@ -61,7 +61,7 @@ For high alloy steels refer to § 54.25-15. For heat treated steels refer to § 
 
 (d) *Impact tests.* Weldments and all materials used in pressure vessel type cargo tanks operating at ambient temperatures and constructed of materials listed in table UCS-23 must pass Charpy impact tests in accordance with UG-84 at a temperature of −20 °F or colder, except as provided by paragraphs (d)(1), (2), and (3) of this section.
 
-(1) Charpy impact tests are not required for any of the following ASTM materials if the thickness for each is 5/8 inch or less, unless otherwise indicated:
+(1) Charpy impact tests are not required for any of the following ASTM materials if the thickness for each is5/8 inch or less, unless otherwise indicated:
 
 (i) A-182, normalized and tempered.
 

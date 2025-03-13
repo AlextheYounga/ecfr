@@ -2,7 +2,7 @@
 
 (a) A corrosion-resistant metal plate containing the information in paragraph (b) of this section must be permanently attached to each MPT.
 
-(b) Each information plate required in paragraph (a) of this section must bear the following information in legible letters 3/16 inch or more in height:
+(b) Each information plate required in paragraph (a) of this section must bear the following information in legible letters3/16 inch or more in height:
 
 (1) Owner's name.
 

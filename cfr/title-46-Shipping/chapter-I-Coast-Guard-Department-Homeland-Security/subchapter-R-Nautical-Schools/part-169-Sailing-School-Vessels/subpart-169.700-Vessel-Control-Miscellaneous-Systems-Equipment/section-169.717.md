@@ -22,7 +22,7 @@ Link to an amendment published at 89 FR 76707, Sept. 18, 2024.
 
 (b) Each vessel 150 feet or greater must carry two fireman's outfits. The outfits must be stowed in widely separated accessible locations.
 
-(c) Lifelines must be of steel or bronze wire rope. Steel wire rope must be either inherently corrosion resistant or made so by galvanizing or thinning. Each end must be fitted with a hook with keeper having a throat opening which can be readily slipped over a 5/8-inch bolt. The total length of the lifeline is dependent upon the size and arrangement of the vessel, and more than one line may be hooked together to achieve the necessary length. No individual length of lifeline may be less than 50 feet in length. The assembled lifeline must have a minimum breaking strength of 1,500 pounds.
+(c) Lifelines must be of steel or bronze wire rope. Steel wire rope must be either inherently corrosion resistant or made so by galvanizing or thinning. Each end must be fitted with a hook with keeper having a throat opening which can be readily slipped over a5/8-inch bolt. The total length of the lifeline is dependent upon the size and arrangement of the vessel, and more than one line may be hooked together to achieve the necessary length. No individual length of lifeline may be less than 50 feet in length. The assembled lifeline must have a minimum breaking strength of 1,500 pounds.
 
 (d) A complete recharge must be carried out for each self-contained breathing apparatus and a complete set of spare batteries and bulb must be carried for each flashlight. The spares must be stowed in the same location as the equipment it is to reactivate.
 

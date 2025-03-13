@@ -2,7 +2,7 @@
 
 (a) For the purpose of this subpart, rooms containing “fire resistant furnishings” will be considered to be those in which:
 
-(1) All case furniture such as desks, wardrobes, dressing tables, bureaus, dressers, etc., shall be constructed entirely of approved incombustible materials; except that a combustible veneer not exceeding 1/8 inch may be used on the top surface of such articles.
+(1) All case furniture such as desks, wardrobes, dressing tables, bureaus, dressers, etc., shall be constructed entirely of approved incombustible materials; except that a combustible veneer not exceeding1/8 inch may be used on the top surface of such articles.
 
 (2) All free standing furniture such as chairs, sofas, tables, etc., shall be constructed with frames of approved incombustible materials.
 

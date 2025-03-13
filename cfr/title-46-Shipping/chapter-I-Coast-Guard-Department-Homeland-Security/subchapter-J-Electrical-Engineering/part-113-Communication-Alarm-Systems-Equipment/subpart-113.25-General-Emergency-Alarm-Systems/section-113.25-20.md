@@ -6,7 +6,7 @@
 
 (c) A contact maker that operates only the general emergency alarm signal in crew quarters, machinery spaces, and work spaces must be marked “CREW ALARM” by the method described in paragraph (b) of this section.
 
-(d) Each general emergency alarm signal must be marked “GENERAL ALARM—WHEN EMERGENCY ALARM SIGNAL RINGS GO TO YOUR STATION” in red letters at least 1/2 inch high.
+(d) Each general emergency alarm signal must be marked “GENERAL ALARM—WHEN EMERGENCY ALARM SIGNAL RINGS GO TO YOUR STATION” in red letters at least1/2 inch high.
 
 (e) Each general emergency alarm system distribution panel must have a directory attached to the inside of its cover giving the designation of each circuit, the area supplied by each circuit, and the rating of each circuit fuse.
 

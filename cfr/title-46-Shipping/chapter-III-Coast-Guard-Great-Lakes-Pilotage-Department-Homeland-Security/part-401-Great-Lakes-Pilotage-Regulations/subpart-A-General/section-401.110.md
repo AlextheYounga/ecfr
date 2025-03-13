@@ -50,4 +50,4 @@ Link to an amendment published at 89 FR 76346, Sept. 17, 2024.
 
 (b) [Reserved]
 
-[26 FR 951, Jan. 31, 1961] Editorial Note:For Federal Register citations affecting § 401.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[26 FR 951, Jan. 31, 1961]Editorial Note:For Federal Register citations affecting § 401.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

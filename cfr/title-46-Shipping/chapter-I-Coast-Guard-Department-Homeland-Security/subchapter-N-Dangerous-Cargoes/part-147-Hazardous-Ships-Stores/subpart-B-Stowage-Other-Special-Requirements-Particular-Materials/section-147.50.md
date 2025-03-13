@@ -2,7 +2,7 @@
 
 (a) Flammable and combustible liquids and gases not listed in this section are prohibited for cooking, heating, or lighting on any vessel, with the exception of combustible liquids on cargo vessels.
 
-(b) Fluid alcohol is prohibited for cooking, heating, or lighting on ferry vessels. Fluid alcohol burners, where wet primed, must have a catch pan not less than 3/4 of an inch deep secured inside of the frame of the stove or have the metal protection under the stove flanged up 3/4 of an inch to form a pan.
+(b) Fluid alcohol is prohibited for cooking, heating, or lighting on ferry vessels. Fluid alcohol burners, where wet primed, must have a catch pan not less than3/4 of an inch deep secured inside of the frame of the stove or have the metal protection under the stove flanged up3/4 of an inch to form a pan.
 
 (c) Containers of solidified alcohol must be secured on a fixed base.
 

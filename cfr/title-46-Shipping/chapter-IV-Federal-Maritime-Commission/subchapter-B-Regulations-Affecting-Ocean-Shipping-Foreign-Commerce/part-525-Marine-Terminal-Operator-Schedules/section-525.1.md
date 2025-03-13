@@ -54,4 +54,4 @@
 
 (24) *Wharfage* means a charge assessed against the cargo or vessel on all cargo passing or conveyed over, onto, or under wharves or between vessels (to or from barge, lighter, or water), when berthed at wharf or when moored in slip adjacent to a wharf. Wharfage is solely the charge for use of a wharf and does not include charges for any other service.
 
-[64 FR 9283, Feb. 25, 1999, as amended at 74 FR 50723, Oct. 1, 2009; 87 FR 15125, Mar. 17, 2022] Editorial Note:At 87 FR 15125, Mar. 17, 2022, § 525.1 was amended by revising paragraph (c)(19). However, due to inaccurate amendatory instruction, the amendment could not be incorporated.
+[64 FR 9283, Feb. 25, 1999, as amended at 74 FR 50723, Oct. 1, 2009; 87 FR 15125, Mar. 17, 2022]Editorial Note:At 87 FR 15125, Mar. 17, 2022, § 525.1 was amended by revising paragraph (c)(19). However, due to inaccurate amendatory instruction, the amendment could not be incorporated.

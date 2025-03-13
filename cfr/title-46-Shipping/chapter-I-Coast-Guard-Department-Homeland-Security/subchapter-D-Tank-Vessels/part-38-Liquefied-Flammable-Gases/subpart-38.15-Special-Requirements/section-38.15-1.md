@@ -2,7 +2,7 @@
 
 (a) Refrigerated and semirefrigerated tanks shall be filled so that there is an outage of at least 2 percent of the volume of the tank at the temperature corresponding to the vapor pressure of the cargo at the safety relief valve setting. A reduction in the required outage may be permitted by the Commandant when warranted by special design considerations. Normally then, the maximum volume to which a tank may be loaded is:
 
-*V*L = 0.98*d*r*V/d*Lwhere:*V*L = maximum volume to which tank may be loaded. *V* = volume of tank. *d*r = density of cargo at the temperature required for a cargo vapor pressure equal to the relief valve setting. *d*L = density of cargo at the loading temperature and pressure.
+*V*L = 0.98*d*r*V/d*Lwhere:*V*L = maximum volume to which tank may be loaded.*V* = volume of tank.*d*r = density of cargo at the temperature required for a cargo vapor pressure equal to the relief valve setting.*d*L = density of cargo at the loading temperature and pressure.
 
 (b) Nonrefrigerated tanks shall be filled so that their filling densities shall not exceed the ratios indicated in table 38.15-1(b).
 

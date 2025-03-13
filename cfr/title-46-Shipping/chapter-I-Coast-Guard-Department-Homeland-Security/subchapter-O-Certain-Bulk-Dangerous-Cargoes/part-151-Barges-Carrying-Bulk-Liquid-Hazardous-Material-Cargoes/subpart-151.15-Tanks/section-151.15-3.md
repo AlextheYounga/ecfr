@@ -16,7 +16,7 @@ This section lists the requirements for construction of the types of cargo tanks
 
 (5) The service temperature is the minimum temperature of a product at which it may be contained, loaded and/or transported. However, the service temperature shall in no case be taken higher than given by the following formula.
 
-*t*z=*t*w−0.25(*t*w−tB) where: *t*z = Service temperature. *t*w = Boiling temperature of gas at normal working pressure of container but not higher than + 32 °F. *t*B = Boiling temperature of gas at atmospheric pressure.Under normal circumstances, only temperatures due to refrigerated service will be considered in determining the service temperature. Refrigerated service for purposes of this paragraph is defined as service where the temperature is controlled in the process rather than being caused by atmospheric conditions.
+*t*z=*t*w−0.25(*t*w−tB)where:*t*z = Service temperature.*t*w = Boiling temperature of gas at normal working pressure of container but not higher than + 32 °F.*t*B = Boiling temperature of gas at atmospheric pressure.Under normal circumstances, only temperatures due to refrigerated service will be considered in determining the service temperature. Refrigerated service for purposes of this paragraph is defined as service where the temperature is controlled in the process rather than being caused by atmospheric conditions.
 
 (6) Heat transmission studies, where required, shall assume the minimum ambient temperatures of 0 °F still air and 32 °F still water, and maximum ambient temperatures of 115 °F still air and 90 °F still water.
 

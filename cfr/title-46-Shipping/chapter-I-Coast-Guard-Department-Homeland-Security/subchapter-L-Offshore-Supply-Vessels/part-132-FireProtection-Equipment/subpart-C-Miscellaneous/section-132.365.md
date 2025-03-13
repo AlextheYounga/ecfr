@@ -20,6 +20,6 @@ Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
 
 (7) One set of protective clothing of material that will protect the skin from the heat of fire and burns from scalding steam. The outer surface must be water resistant.
 
-(c) Lifelines must be of steel or bronze wire rope. Steel wire rope must be either inherently corrosion resistant or made so by galvanizing or tinning. Each end must be fitted with a hook with keeper having a throat opening that can be readily slipped over a 5/8-inch bolt. The total length of the lifeline must be dependent upon the size and arrangement of the vessel, and more than one line may be hooked together to achieve the necessary length. No individual lifeline may be less than 50 feet in length. The assembled lifeline must have a minimum breaking strength of 1,500 pounds.
+(c) Lifelines must be of steel or bronze wire rope. Steel wire rope must be either inherently corrosion resistant or made so by galvanizing or tinning. Each end must be fitted with a hook with keeper having a throat opening that can be readily slipped over a5/8-inch bolt. The total length of the lifeline must be dependent upon the size and arrangement of the vessel, and more than one line may be hooked together to achieve the necessary length. No individual lifeline may be less than 50 feet in length. The assembled lifeline must have a minimum breaking strength of 1,500 pounds.
 
 [USCG-2012-0208, 79 FR 48938, Aug. 18, 2014]

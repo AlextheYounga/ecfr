@@ -18,7 +18,7 @@
 
 (d) *Grab Straps.* Grab straps shall be attached as shown on Dwg. No. 160,049-1 and shall finish 20 inches long and 1 inch wide at opposite ends. The grab straps, if formed from cover material shall be folded and stitched together so as to produce a double thickness with raw edges turned under. Other means will be given special consideration.
 
-(e) *Seams and stitching.* Seams shall be constructed with not less than a 3/8-inch border between the seam and the edge of the cover materials. All stitching shall be a lock stitch, 7 to 9 stitches per inch, except as follows: Chain stitching 6 to 8 stitches per inch with 20/4 thread on top and 40/3 thread on the bottom, will be acceptable in constructing grab straps.
+(e) *Seams and stitching.* Seams shall be constructed with not less than a3/8-inch border between the seam and the edge of the cover materials. All stitching shall be a lock stitch, 7 to 9 stitches per inch, except as follows: Chain stitching 6 to 8 stitches per inch with 20/4 thread on top and 40/3 thread on the bottom, will be acceptable in constructing grab straps.
 
 (f) *Workmanship.* All cushions shall be of first class workmanship and shall be free from defects materially affecting their appearance or serviceability. Cushions classified as “seconds” or “irregular” will not be acceptable under this specification.
 

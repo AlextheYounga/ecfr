@@ -22,6 +22,6 @@ When doing the calculations required by §§ 42.20-6(a), 42.20-7(a) and 42.20-8(
 
 (2) Secured manhole covers fitted with closely spaced bolts.
 
-(f) Only transverse watertight bulkheads that are spaced apart at least 1/3(L)2/3 or 14.5 meters (0.495(L)2/3 or 47.6 feet), whichever is less, may be considered effective. If transverse bulkheads are closer together, then one or more of these bulkheads must be assumed to be non-existent in order to achieve the minimum spacing between bulkheads.
+(f) Only transverse watertight bulkheads that are spaced apart at least1/3(L)2/3 or 14.5 meters (0.495(L)2/3 or 47.6 feet), whichever is less, may be considered effective. If transverse bulkheads are closer together, then one or more of these bulkheads must be assumed to be non-existent in order to achieve the minimum spacing between bulkheads.
 
 [CGD 79-153, 48 FR 38649, Aug. 25, 1983]

@@ -16,7 +16,7 @@ All components used in the construction of a life preserver must meet the applic
 
 (g) *Dee rings and snap hook.* The dee rings and snap hook shall be brass, bronze, or stainless steel, and of the approximate size indicated by Dwg. No. 160.005-1, Sheet 1. The snap hook spring shall be phosphor bronze or other suitable corrosion-resistant material. Dee ring ends shall be welded to form a continuous ring. The webbing opening of the snap hook shall be a continuous ring.
 
-(h) *Reinforcing tape.* The reinforcing tape shall be made of 3/4-inch cotton tape weighing not less than 0.18 ounce per linear yard and having a minimum breaking strength of 120 pounds, and shall be treated with a mildew-inhibitor of the type specified in paragraph (j) of this section.
+(h) *Reinforcing tape.* The reinforcing tape shall be made of3/4-inch cotton tape weighing not less than 0.18 ounce per linear yard and having a minimum breaking strength of 120 pounds, and shall be treated with a mildew-inhibitor of the type specified in paragraph (j) of this section.
 
 (i) *Thread.* Each thread must meet the requirements of subpart 164.023 of this chapter. Only one kind of thread may be used in each seam.
 

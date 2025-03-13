@@ -1,6 +1,6 @@
 ##### § 385.62 Grant and cooperative agreements: Standard general provisions. #####
 
-(a) MarAd has adopted two standard general provisions which apply to grant and cooperative agreements, respectively, and said provisions are hereby incorporated by reference into these regulations. 2
+(a) MarAd has adopted two standard general provisions which apply to grant and cooperative agreements, respectively, and said provisions are hereby incorporated by reference into these regulations.2
 
 2 A copy of both such incorporated provisions accompany this regulation and are on file in the Office of the Federal Register.
 

@@ -1,3 +1,5 @@
-##### § 239.66 xxx #####
+##### § 239.66 Form 24F-2, annual filing of securities sold pursuant to registration of certain investment company securities and registered non-variable annuities. #####
 
-Link to an amendment published at 89 FR 60092, July 24, 2024.
+Form 24F-2 shall be used as the annual report filed by face amount certificate companies, open-end management companies, unit investment trusts, and registered non-variable annuities pursuant to §§ 230.456, 230.457, or 270.24f-2 of this chapter for reporting securities sold during the fiscal year.
+
+[89 FR 60092, July 24, 2024]

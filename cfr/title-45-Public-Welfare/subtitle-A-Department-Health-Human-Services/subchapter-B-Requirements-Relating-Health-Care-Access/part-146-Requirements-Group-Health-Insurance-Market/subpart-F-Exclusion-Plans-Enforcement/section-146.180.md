@@ -1,5 +1,7 @@
 ##### § 146.180 Treatment of non-Federal governmental plans. #####
 
+Link to an amendment published at 89 FR 77751, Sept. 23, 2024.
+
 (a) *Opt-out election for self-funded non-Federal governmental plans*—(1) *Requirements subject to exemption.* The PHS Act requirements described in this paragraph are the following:
 
 (i) Limitations on preexisting condition exclusion periods in accordance with section 2701 of the PHS Act as codified before enactment of the Affordable Care Act.

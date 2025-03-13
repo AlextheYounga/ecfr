@@ -348,4 +348,5 @@ Certain material is incorporated by reference into this subchapter with the appr
 
 (23) UL 2556, Standard for Safety Wire and Cable Test Methods, Fourth Edition, Dec. 15, 2015 (“ANSI/UL 2556”); IBR approved for §§ 111.30-19(b); 111.60-2; 111.60-6(a).
 
-(24) UL 60079-18, Standard for Safety Explosive Atmospheres—Part 18: Equipment Protection by Encapsulation “m”, Fourth Edition, revised February 20, 2017, (“ANSI/UL 60079-18”); IBR approved for §§ 111.105-3(e); 111.106-3(d); 111.108-3(e). [USCG-2020-0075, 88 FR 16354, Mar. 16, 2023]
+(24) UL 60079-18, Standard for Safety Explosive Atmospheres—Part 18: Equipment Protection by Encapsulation “m”, Fourth Edition, revised February 20, 2017, (“ANSI/UL 60079-18”); IBR approved for §§ 111.105-3(e); 111.106-3(d); 111.108-3(e).
+[USCG-2020-0075, 88 FR 16354, Mar. 16, 2023]

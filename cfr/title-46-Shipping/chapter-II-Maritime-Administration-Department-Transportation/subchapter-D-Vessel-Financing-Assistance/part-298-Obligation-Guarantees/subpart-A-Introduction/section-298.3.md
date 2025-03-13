@@ -110,4 +110,4 @@
 
 (iii) The amount of guarantee authority available.
 
-(Unless indicated otherwise in this part 298, information collection requirements have been approved by the Office of Management and Budget under control number 2133-0018.) [65 FR 45152, July 20, 2000, as amended at 68 FR 62538, Nov. 5, 2003; 69 FR 61451, Oct. 19, 2004]
+(Unless indicated otherwise in this part 298, information collection requirements have been approved by the Office of Management and Budget under control number 2133-0018.)[65 FR 45152, July 20, 2000, as amended at 68 FR 62538, Nov. 5, 2003; 69 FR 61451, Oct. 19, 2004]

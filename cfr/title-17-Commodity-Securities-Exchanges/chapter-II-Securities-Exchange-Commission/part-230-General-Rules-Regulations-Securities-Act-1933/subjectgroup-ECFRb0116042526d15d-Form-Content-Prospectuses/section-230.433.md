@@ -1,20 +1,20 @@
 ##### § 230.433 Conditions to permissible post-filing free writing prospectuses. #####
 
-Link to an amendment published at 89 FR 60083, July 24, 2024.
-
 (a) *Scope of section.* This section applies to any free writing prospectus with respect to securities of any issuer (except as set forth in Rule 164 (§ 230.164)) that are the subject of a registration statement that has been filed under the Act. Such a free writing prospectus that satisfies the conditions of this section may include information the substance of which is not included in the registration statement. Such a free writing prospectus that satisfies the conditions of this section will be a prospectus permitted under section 10(b) of the Act for purposes of sections 2(a)(10), 5(b)(1), and 5(b)(2) of the Act and will, for purposes of considering it a prospectus, be deemed to be public, without regard to its method of use or distribution, because it is related to the public offering of securities that are the subject of a filed registration statement.
 
 (b) *Permitted use of free writing prospectus.* Subject to the conditions of this paragraph (b) and satisfaction of the conditions set forth in paragraphs (c) through (g) of this section, a free writing prospectus may be used under this section and Rule 164 in connection with a registered offering of securities:
 
-(1) *Eligibility and prospectus conditions for seasoned issuers and well-known seasoned issuers.* Subject to the provisions of Rule 164(e), (f), and (g), the issuer or any other offering participant may use a free writing prospectus in the following offerings after a registration statement relating to the offering has been filed that includes a prospectus that, other than by reason of this section or Rule 431, satisfies the requirements of section 10 of the Act:
+(1) *Eligibility and prospectus conditions for seasoned issuers, well-known seasoned issuers, and offerings of registered non-variable annuity securities.* Subject to the provisions of Rule 164(e), (f), and (g), the issuer or any other offering participant may use a free writing prospectus in the following offerings after a registration statement relating to the offering has been filed that includes a prospectus that, other than by reason of this section or Rule 431, satisfies the requirements of section 10 of the Act:
 
-(i) Offerings of securities registered on Form S-3 (§ 239.33 of this chapter) pursuant to General Instruction I.B.1, I.B.2, I.C., or I.D. thereof or on Form SF-3 (§ 239.45 of this chapter) or on Form N-2 (§§ 239.14 and 274.11a-1 of this chapter) pursuant to General Instruction A.2 with respect to the same transactions;
+(i) Offerings of securities registered on Form S-3 (§ 239.13 of this chapter) pursuant to General Instruction I.B.1, I.B.2, I.C., or I.D. thereof or on Form SF-3 (§ 239.45 of this chapter) or on Form N-2 (§§ 239.14 and 274.11a-1 of this chapter) pursuant to General Instruction A.2 with respect to the same transactions;
 
-(ii) Offerings of securities registered on Form F-3 (§ 239.13 of this chapter) pursuant to General Instruction I.A.5, I.B.1, I.B.2, or I.C. thereof;
+(ii) Offerings of securities registered on Form F-3 (§ 239.33 of this chapter) pursuant to General Instruction I.A.5, I.B.1, I.B.2, or I.C. thereof;
 
-(iii) Any other offering not excluded from reliance on this section and Rule 164 of securities of a well-known seasoned issuer; and
+(iii) Any other offering not excluded from reliance on this section and Rule 164 of securities of a well-known seasoned issuer;
 
-(iv) Any other offering not excluded from reliance on this section and Rule 164 of securities of an issuer eligible to use Form S-3 or Form F-3 for primary offerings pursuant to General Instruction I.B.1 of such Forms or an issuer eligible to use General Instruction A.2 of Form N-2 to register a primary offering described in General Instruction I.B.1 of Form S-3.
+(iv) Any other offering not excluded from reliance on this section and Rule 164 of securities of an issuer eligible to use Form S-3 or Form F-3 for primary offerings pursuant to General Instruction I.B.1 of such Forms or an issuer eligible to use General Instruction A.2 of Form N-2 to register a primary offering described in General Instruction I.B.1 of Form S-3; and
+
+(v) Offerings of registered non-variable annuity securities registered on Form N-4 (§ 239.17b of this chapter) where the issuer would otherwise be eligible to use Form S-3 (§ 239.13 of this chapter) pursuant to General Instruction I.B.1, I.B.2, I.C, or I.D.
 
 (2) *Eligibility and prospectus conditions for non-reporting and unseasoned issuers.* If the issuer does not fall within the provisions of paragraph (b)(1) of this section, then, subject to the provisions of Rule 164(e), (f), and (g), any person participating in the offer or sale of the securities may use a free writing prospectus as follows:
 
@@ -144,4 +144,4 @@ Note to § 230.433.
 
 This section does not affect the operation of the provisions of clause (a) of section 2(a)(10) of the Act providing an exception from the definition of “prospectus.”
 
-[70 FR 44815, Aug. 3, 2005, as amended at 71 FR 7413, Feb. 13, 2006; 79 FR 57331, Sept. 24, 2014; 85 FR 33355, June 1, 2020; 87 FR 72846, Nov. 25, 2022]
+[70 FR 44815, Aug. 3, 2005, as amended at 71 FR 7413, Feb. 13, 2006; 79 FR 57331, Sept. 24, 2014; 85 FR 33355, June 1, 2020; 87 FR 72846, Nov. 25, 2022; 89 FR 60083, July 24, 2024]

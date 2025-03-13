@@ -38,7 +38,7 @@ Link to an amendment published at 89 FR 76704, Sept. 18, 2024.
 
 (ii) Determine the appropriate critical value of the Student's t-distribution with (n-1) degrees of freedom for a confidence level of α = 0.01. If all 12 samples meet the criteria of paragraph (f)(1) of this section then (n-1) = 11 and the critical value,
 
-![](/graphics/er16ja09.018.gif)is 3.106. If paragraph (f)(2) of this section applies, then (n-1) = 10 and ![](/graphics/er16ja09.019.gif) = 3.169.
+![](/graphics/er16ja09.018.gif)is 3.106. If paragraph (f)(2) of this section applies, then (n-1) = 10 and![](/graphics/er16ja09.019.gif) = 3.169.
 
 (iii) Compute the value of u, where
 

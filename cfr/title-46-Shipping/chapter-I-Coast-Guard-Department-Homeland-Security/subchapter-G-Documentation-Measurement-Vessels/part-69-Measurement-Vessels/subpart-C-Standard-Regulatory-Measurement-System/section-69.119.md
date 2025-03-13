@@ -82,7 +82,7 @@
 
 (2) The abbreviations “Cert.” for “certified” and “W.C.” for “water closet” may be used.
 
-(3) The markings must be in Roman letters and Arabic numerals at least 1/2 inch in height, must be painted in a light color on a dark background, must be embossed, center-punched, carved, or permanently cut in a bulkhead or metal plate, and must be placed in a legible location over a doorway on the inside of the space. A metal plate, if used, must be permanently fastened in place by welding, riveting, lock screws, or a Coast Guard-approved bonding agent.
+(3) The markings must be in Roman letters and Arabic numerals at least1/2 inch in height, must be painted in a light color on a dark background, must be embossed, center-punched, carved, or permanently cut in a bulkhead or metal plate, and must be placed in a legible location over a doorway on the inside of the space. A metal plate, if used, must be permanently fastened in place by welding, riveting, lock screws, or a Coast Guard-approved bonding agent.
 
 (q) *Method for measuring deductible spaces.* (1) A rectangular space must be measured by taking the product of its length, breadth, and height.
 

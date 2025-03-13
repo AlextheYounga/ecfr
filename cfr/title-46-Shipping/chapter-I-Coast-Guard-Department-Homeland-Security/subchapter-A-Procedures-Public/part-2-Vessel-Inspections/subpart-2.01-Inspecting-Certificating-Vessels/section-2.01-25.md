@@ -72,4 +72,4 @@
 
 (g) *Foreign flag vessels.* At the request of the government of a country in which is registered a vessel engaged in an international voyage, such a vessel may be issued the applicable certificate or certificates listed in paragraph (a) of this section. The certificate will be issued only after inspection has been made by the issuing agency, providing the vessel is found to comply with the requirements of the Convention.
 
-[CGFR 65-50, 30 FR 16604, Dec. 30, 1965] Editorial Note:For Federal Register citations affecting § 2.01-25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGFR 65-50, 30 FR 16604, Dec. 30, 1965]Editorial Note:For Federal Register citations affecting § 2.01-25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

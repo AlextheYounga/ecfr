@@ -122,4 +122,4 @@
 
 *Weathertight* means that water will not penetrate into the unit in any sea condition.
 
-[CGD 88-079, 56 FR 40393, Aug. 14, 1991] Editorial Note:For Federal Register citations affecting § 28.50, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD 88-079, 56 FR 40393, Aug. 14, 1991]Editorial Note:For Federal Register citations affecting § 28.50, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

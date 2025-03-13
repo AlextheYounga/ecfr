@@ -36,7 +36,7 @@
 
 (3) A passenger space located on, or above the first deck above the uppermost complete deck is exempt from tonnage. To qualify as the first deck above the uppermost complete deck, the deck must be at least six inches above the uppermost complete deck at all points along its length.
 
-(d) *Open structures.* (1) Structures that are located on or above the line of the uppermost complete deck that are under cover (sheltered), but open to the weather are exempt from tonnage as open space. The following additional requirements apply:
+(d) *Open structures.*(1) Structures that are located on or above the line of the uppermost complete deck that are under cover (sheltered), but open to the weather are exempt from tonnage as open space. The following additional requirements apply:
 
 (i) If a structure is divided into compartments, only those compartments which are open to the weather are exempt from tonnage under the provisions of this section.
 
@@ -134,7 +134,8 @@
 
 (viii) If water ballast is used for seakeeping, describe each loading condition, GM, period of roll, and, if speed is involved, speed versus trim and draft and include calculations.
 
-(5) If the water ballast space or its use, purpose, or piping are changed, the vessel owner or operator must report the change promptly to a measurement organization listed in § 69.15 for a determination as to whether a tonnage remeasurement is required. Changes in vessel service must also be reported if a water ballast justification was required to be submitted for the vessel.
+(5) If the water ballast space or its use, purpose, or piping are changed, the vessel owner or operator must report the change promptly to a measurement organization listed in § 69.15 for a determination as to whether a tonnage remeasurement is required.
+Changes in vessel service must also be reported if a water ballast justification was required to be submitted for the vessel.
 
 (g) *Methods for measuring exempt spaces.* (1) If the exempt space is located within the superstructure, the exempt space is measured using the same procedures used to measure superstructure tonnage under § 69.113.
 

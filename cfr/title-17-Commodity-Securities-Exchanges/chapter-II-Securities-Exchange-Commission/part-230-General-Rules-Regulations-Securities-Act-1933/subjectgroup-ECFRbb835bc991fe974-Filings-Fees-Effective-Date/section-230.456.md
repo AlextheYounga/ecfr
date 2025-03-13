@@ -1,7 +1,5 @@
 ##### § 230.456 Date of filing; timing of fee payment. #####
 
-Link to an amendment published at 89 FR 60083, July 24, 2024.
-
 (a) The date on which any papers are actually received by the Commission shall be the date of filing thereof, if all the requirements of the act and the rules with respect to such filing have been complied with and the required fee paid. The failure to pay an insignificant amount of the required fee at the time of filing, as the result of a bona fide error, shall not be deemed to affect the date of filing.
 
 (b)(1) Notwithstanding paragraph (a) of this section, a well-known seasoned issuer that registers securities offerings on an automatic shelf registration statement, or registers additional securities or classes of securities thereon pursuant to Rule 413(b) (§ 230.413(b)), may, but is not required to, defer payment of all or any part of the registration fee to the Commission required by section 6(b)(2) of the Act on the following conditions:
@@ -52,4 +50,28 @@ Link to an amendment published at 89 FR 60083, July 24, 2024.
 
 (ii) In the case of a late payment of a registration fee, the issuer pays the registration fee and any interest due thereon as soon as practicable after discovery of the failure to pay the registration fee.
 
-[16 FR 8737, Aug. 29, 1951, as amended at 70 FR 44818, Aug. 3, 2005; 79 FR 57331, Sept. 24, 2014; 81 FR 40512, June 22, 2016; 85 FR 33355, June 1, 2020; 86 FR 70199, Dec. 9, 2021]
+(e)(1) Notwithstanding paragraph (a) of this section, where a registration statement relates to an offering of registered non-variable annuity securities, an issuer shall be deemed to register an offering of an indeterminate amount of such securities and shall, not later than 90 days after the end of any fiscal year during which it has publicly offered such securities, pay a registration fee to the Commission calculated in accordance with § 230.457(u) (Rule 457(u)) and file Form 24F-2 (referenced in 17 CFR 274.24) with the Commission.
+
+*Instruction 1 to paragraph (e)(1):* To determine the date on which the registration fee must be paid, the first day of the 90-day period is the first calendar day of the fiscal year following the fiscal year for which the registration fee is to be paid. If the last day of the 90-day period falls on a Saturday, Sunday, or Federal holiday, the registration fee is due on the first business day thereafter.
+
+(2) When registering an offering of an indeterminate amount of registered non-variable annuity securities pursuant to paragraph (e)(1) of this section, the securities sold will be considered registered, for purposes of section 6(a) of the Act, if the registration fee has been paid and the issuer has filed a Form 24F-2 filing pursuant to paragraph (e)(1) of this section not later than the end of the 90-day period.
+
+(3) A registration statement filed in accordance with the registration fee payment provisions of paragraph (e)(1) of this section will be considered filed as to the securities identified in the registration statement for purposes of this section and section 5 of the Act when it is received by the Commission, if it complies with all other requirements under the Act, including this part.
+
+(4) For purposes of this section, if an issuer ceases operations, the date the issuer ceases operations will be deemed to be the end of its fiscal year. In the case of a liquidation, merger, or sale of all or substantially all of the assets (“merger”) of the issuer, the issuer will be deemed to have ceased operations for the purposes of this section on the date the merger is consummated; provided, however, that in the case of a merger of an issuer or a series of an issuer (“Predecessor”) with another issuer or a series of an issuer (“Successor”), the Predecessor will not be deemed to have ceased operations and the Successor will assume the obligations, fees, and redemption credits of the Predecessor incurred pursuant to this section if the Successor:
+
+(i) Had no assets or liabilities, other than nominal assets or liabilities, and no operating history immediately prior to the merger;
+
+(ii) Acquired substantially all of the assets and assumed substantially all of the liabilities and obligations of the Predecessor; and
+
+(iii) The merger is not designed to result in the Predecessor merging with, or substantially all of its assets being acquired by, an issuer (or a series of an issuer) that would not meet the conditions of paragraph (e)(4)(i) of this section.
+
+(5) An issuer paying the fee required by paragraph (e)(1) of this section or any portion thereof more than 90 days after the end of the fiscal year of the issuer shall pay to the Commission interest on unpaid amounts, calculated based on the interest rate in effect at the time of the interest payment by reference to the “current value of funds rate” on the Treasury Department's Bureau of Fiscal Service internet site at *https://fiscal.treasury.gov/,* or by calling (202) 874-6995, and using the following formula: I = (X) (Y) (Z/365), where: I = Amount of interest due; X = Amount of registration fee due; Y = Applicable interest rate, expressed as a fraction; Z = Number of days by which the registration fee payment is late. The payment of interest pursuant to this paragraph (e)(5) shall not preclude the Commission from bringing an action to enforce the requirements of this paragraph (e).
+
+(6) An immaterial or unintentional failure to comply with a requirement of this paragraph (e) will not result in a violation of section 6(a) of the Act (15 U.S.C. 77f(a)), so long as:
+
+(i) A good faith and reasonable effort was made to comply with the requirement; and
+
+(ii) In the case of a late payment of a registration fee, the issuer pays the registration fee and any interest due thereon as soon as practicable after discovery of the failure to pay the registration fee.
+
+[16 FR 8737, Aug. 29, 1951, as amended at 70 FR 44818, Aug. 3, 2005; 79 FR 57331, Sept. 24, 2014; 81 FR 40512, June 22, 2016; 85 FR 33355, June 1, 2020; 86 FR 70199, Dec. 9, 2021; 89 FR 60083, July 24, 2024]

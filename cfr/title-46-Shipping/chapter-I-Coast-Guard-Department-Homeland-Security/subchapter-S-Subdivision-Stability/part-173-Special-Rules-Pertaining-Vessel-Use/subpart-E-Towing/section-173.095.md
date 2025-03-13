@@ -4,7 +4,7 @@
 
 (b) The vessel's metacentric height (GM) must be equal to or greater than the following:
 
-![](/graphics/er16fe23cfr1.eps.gif)where—N = number of propellers. P = shaft power per shaft in horsepower (kilowatts).D = propeller diameter in feet (meters).s = that fraction of the propeller circle cylinder which would be intercepted by the rudder if turned to 45 degrees from the vessel's centerline.h = vertical distance from propeller shaft centerline at rudder to towing bitts in feet (meters).Δ = displacement in long tons (metric tons).f = minimum freeboard along the length of the vessel in feet (meters).B = molded beam in feet (meters).K = 38 in English units.K = 13.93 in metric units.
+![](/graphics/er16fe23cfr1.eps.gif)where—N = number of propellers.P = shaft power per shaft in horsepower (kilowatts).D = propeller diameter in feet (meters).s = that fraction of the propeller circle cylinder which would be intercepted by the rudder if turned to 45 degrees from the vessel's centerline.h = vertical distance from propeller shaft centerline at rudder to towing bitts in feet (meters).Δ = displacement in long tons (metric tons).f = minimum freeboard along the length of the vessel in feet (meters).B = molded beam in feet (meters).K = 38 in English units.K = 13.93 in metric units.
 
 (c) When a heeling arm curve, calculated in accordance with paragraph (d) of this section, is plotted against the vessel's righting arm curve—
 

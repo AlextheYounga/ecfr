@@ -4,7 +4,7 @@
 
 (b) The material approved for incorporation by reference in this part, and the sections affected is:
 
-American Society for Testing and Materials100 Barr Harbor Drive, West Conshohocken, PA 19428-2959ASTM F 1014-92 Standard Specification for Flashlights on Vessels. Section affected—35.30-20(c)(3)ASTM Adjunct F 1626, Symbols for Use in Accordance with Regulation II-2/20 of the 1974 SOLAS Convention, PCN 12-616260-01, © 1996-35.10-3ASTM D 93-97, Standard Test Methods for Flash-Point by Pensky-Martens Closed Cup Tester-35.25-10International Maritime Organization (IMO)Publications Section, 4 Albert Embankment, London, SE1 7SR United Kingdom. Resolution A.654(16), Graphical Symbols for Fire Control Plans—35.10-3Note:
+American Society for Testing and Materials100 Barr Harbor Drive, West Conshohocken, PA 19428-2959ASTM F 1014-92 Standard Specification for Flashlights on Vessels.Section affected—35.30-20(c)(3)ASTM Adjunct F 1626, Symbols for Use in Accordance with Regulation II-2/20 of the 1974 SOLAS Convention, PCN 12-616260-01, © 1996-35.10-3ASTM D 93-97, Standard Test Methods for Flash-Point by Pensky-Martens Closed Cup Tester-35.25-10International Maritime Organization (IMO)Publications Section, 4 Albert Embankment, London, SE1 7SR United Kingdom. Resolution A.654(16), Graphical Symbols for Fire Control Plans—35.10-3Note:
 
 All other documents referenced in this part are still in effect.
 

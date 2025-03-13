@@ -1,6 +1,6 @@
 ##### § 78.47-53 Automatic ventilation dampers. #####
 
-(a) The manual operating positions for automatic fire dampers in ventilation ducts passing through main vertical zone bulkheads shall be identified by red day light-reflecting letters at least 1/2 inch high “VENTILATION FIRE DAMPER.” In addition, the open and closed positions shall be similarly marked.
+(a) The manual operating positions for automatic fire dampers in ventilation ducts passing through main vertical zone bulkheads shall be identified by red day light-reflecting letters at least1/2 inch high “VENTILATION FIRE DAMPER.” In addition, the open and closed positions shall be similarly marked.
 
 (b) [Reserved]
 

@@ -1,7 +1,5 @@
 ##### § 230.405 Definitions of terms. #####
 
-Link to an amendment published at 89 FR 60083, July 24, 2024.
-
 Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494, inclusive, or in the forms for registration have the same meanings as in the Act and in the general rules and regulations. In addition, the following definitions apply, unless the context otherwise requires:
 
 *Affiliate.* An *affiliate* of, or person *affiliated* with, a specified person, is a person that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the person specified.
@@ -124,6 +122,8 @@ C. Count shares of voting securities beneficially owned by residents of the Unit
 
 (3) Once an issuer qualifies as a foreign private issuer, it will immediately be able to use the forms and rules designated for foreign private issuers until it fails to qualify for this status at the end of its most recently completed second fiscal quarter. An issuer's determination that it fails to qualify as a foreign private issuer governs its eligibility to use the forms and rules designated for foreign private issuers beginning on the first day of the fiscal year following the determination date. Once an issuer fails to qualify for foreign private issuer status, it will remain unqualified unless it meets the requirements for foreign private issuer status as of the last business day of its second fiscal quarter.
 
+*Form available solely to investment companies registered under the Investment Company Act of 1940. A form available solely to investment companies registered under the Investment Company Act of 1940* includes the form used to register the offering of securities of a registered non-variable annuity for purposes of the Securities Act of 1933.
+
 *Free writing prospectus.* Except as otherwise specifically provided or the context otherwise requires, a *free writing prospectus* is any written communication as defined in this section that constitutes an offer to sell or a solicitation of an offer to buy the securities relating to a registered offering that is used after the registration statement in respect of the offering is filed (or, in the case of a well-known seasoned issuer, whether or not such registration statement is filed) and is made by means other than:
 
 (1) A prospectus satisfying the requirements of section 10(a) of the Act, Rule 430 (§ 230.430), Rule 430A (§ 230.430A), Rule 430B (§ 230.430B), Rule 430C (§ 230.430C), Rule 430D (§ 230.430D), or Rule 431 (§ 230.431);
@@ -207,6 +207,32 @@ C. Count shares of voting securities beneficially owned by residents of the Unit
 *Prospectus.* Unless otherwise specified or the context otherwise requires, the term *prospectus* means a prospectus meeting the requirements of section 10(a) of the Act.
 
 *Registered closed-end investment company.* The term *registered closed-end investment company* means a closed-end company, as defined in section 5(a)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a-5(a)(2)), that is registered under the Investment Company Act.
+
+*Registered index-linked annuity.* The term *registered index-linked annuity* means an annuity or an option available under an annuity:
+
+(1) That is deemed a security;
+
+(2) That is offered or sold in a registered offering;
+
+(3) That is issued by an insurance company that is the subject to the supervision of either the insurance commissioner or bank commissioner of any State or any agency or officer performing like functions as such commissioner;
+
+(4) That is not issued by an investment company; and
+
+(5) Whose contract value, either during the accumulation period or after annuitization or both, will earn positive or negative interest based, in part, on the performance of any index, rate, or benchmark.
+
+*Registered market value adjustment annuity.* The term *registered market value adjustment annuity* means an annuity or an option available under an annuity, that is not a registered index-linked annuity, and:
+
+(1) That is deemed a security;
+
+(2) That is offered or sold in a registered offering;
+
+(3) That is issued by an insurance company that is subject to the supervision of either the insurance commissioner or bank commissioner of any State or any agency or officer performing like functions as such commissioner;
+
+(4) That is not issued by an investment company; and
+
+(5) Whose contract value may reflect a positive or negative adjustment (based on calculations using a predetermined formula, a change in interest rates, or some other factor or benchmark) if amounts are withdrawn before the end of a specified period.
+
+*Registered non-variable annuity.* The term *registered non-variable annuity* means any registered index-linked annuity or registered market value adjustment annuity.
 
 *Registrant.* The term *registrant* means the issuer of the securities for which the registration statement is filed.
 

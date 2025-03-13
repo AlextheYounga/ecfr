@@ -24,4 +24,4 @@ Link to an amendment published at 89 FR 76347, Sept. 17, 2024.
 
 (b) Any person registered as a United States Registered Pilot pursuant to the provisions of this part whose application contains false or misleading statements furnished by the applicant in furtherance of his or her application shall be in violation of these regulations and may be proceeded against under § 401.250(a) or § 401.500.
 
-[29 FR 10464, July 28, 1964] Editorial Note:For Federal Register citations affecting § 401.210, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[29 FR 10464, July 28, 1964]Editorial Note:For Federal Register citations affecting § 401.210, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

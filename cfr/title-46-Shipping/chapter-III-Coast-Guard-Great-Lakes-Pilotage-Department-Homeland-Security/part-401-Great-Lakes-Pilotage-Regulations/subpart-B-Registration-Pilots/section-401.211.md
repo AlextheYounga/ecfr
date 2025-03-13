@@ -18,4 +18,4 @@ Link to an amendment published at 89 FR 76348, Sept. 17, 2024.
 
 (e) Individuals selected as Applicant Pilots by the Director shall be issued a U.S. Coast Guard Applicant Pilot Identification Card, which shall be valid until such time as (1) the applicant is registered as a pilot under § 401.210; (2) the applicant withdraws from the training program, or (3) upon withdrawal by the Director.
 
-[29 FR 10465, July 28, 1964] Editorial Note:For Federal Register citations affecting § 401.211, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[29 FR 10465, July 28, 1964]Editorial Note:For Federal Register citations affecting § 401.211, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

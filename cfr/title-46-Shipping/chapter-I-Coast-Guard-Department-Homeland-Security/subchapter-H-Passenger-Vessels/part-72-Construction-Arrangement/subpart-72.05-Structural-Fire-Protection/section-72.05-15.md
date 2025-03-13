@@ -2,9 +2,9 @@
 
 (a) Ceilings and linings and any furring incidental to their erection shall be of approved incombustible materials. Where such ceilings or linings are given credit for their insulating value in obtaining a bulkhead or deck classification they shall be of Class B-15 bulkhead panel material, and the construction shall be as required by § 72.05-10(j).
 
-(b) Bulkheads, linings, and ceilings may have a combustible veneer within a room not to exceed 2/28 of an inch in thickness. However, combustible veneers shall not be used in passageways or stairway enclosures, or in spaces specifically restricted by tables 72.05-10 (d) through (g).
+(b) Bulkheads, linings, and ceilings may have a combustible veneer within a room not to exceed2/28 of an inch in thickness. However, combustible veneers shall not be used in passageways or stairway enclosures, or in spaces specifically restricted by tables 72.05-10 (d) through (g).
 
-(c) The total volume of combustible face trim, moldings, and decorations, including veneers, in any compartment shall not exceed a volume equivalent to 1/10 inch veneer on the combined area of the walls of the compartment. Such trim, molding, or decorations shall not perform any structural function, and shall not be used in corridors or stairway enclosures.
+(c) The total volume of combustible face trim, moldings, and decorations, including veneers, in any compartment shall not exceed a volume equivalent to1/10 inch veneer on the combined area of the walls of the compartment. Such trim, molding, or decorations shall not perform any structural function, and shall not be used in corridors or stairway enclosures.
 
 (d) Combustible veneers, trim, decorations, etc., shall not be used in or extend into hidden spaces such as behind linings or ceilings or in the matter of double bulkheads.
 

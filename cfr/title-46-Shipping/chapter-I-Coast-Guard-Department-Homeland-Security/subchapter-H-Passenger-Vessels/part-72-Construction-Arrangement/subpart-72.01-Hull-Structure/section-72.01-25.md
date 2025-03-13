@@ -14,7 +14,7 @@
 
 (6) The watertight space enclosing the stern tube shall be tested by filling with water to-a-head up to the deepest subdivision load line.
 
-(7) Tanks which are intended to hold liquids, and which form part of the subdivision of the vessel, shall be tested for tightness upon completion of construction with water to-a-head up to the deepest subdivision load line or to-a-head corresponding to 2/3 of the depth from the top of the keel to the margin line in way of the tanks, whichever is greater; but in no case shall the test-head be less than 3 feet above the top of the tank.
+(7) Tanks which are intended to hold liquids, and which form part of the subdivision of the vessel, shall be tested for tightness upon completion of construction with water to-a-head up to the deepest subdivision load line or to-a-head corresponding to2/3 of the depth from the top of the keel to the margin line in way of the tanks, whichever is greater; but in no case shall the test-head be less than 3 feet above the top of the tank.
 
 (8) The tests referred to in the preceding paragraphs (a) (5), (6), and (7) of this section are for the purpose of insuring that the subdivision structural arrangements are watertight and are not regarded as a test of the fitness of any compartment for the storage of oil, fuel or for other specific purposes for which a test of a superior character may be required depending upon the height to which the liquid has access in the tank or its connections.
 

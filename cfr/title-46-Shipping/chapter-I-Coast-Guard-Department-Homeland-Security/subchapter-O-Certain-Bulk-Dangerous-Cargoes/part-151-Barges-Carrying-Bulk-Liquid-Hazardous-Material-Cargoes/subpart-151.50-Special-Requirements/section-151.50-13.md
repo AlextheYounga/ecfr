@@ -2,7 +2,7 @@
 
 (a)(1) Pressure vessel cargo tanks shall meet the requirements of Class II pressure vessels.
 
-(2) Cargo tanks shall be designed for the maximum pressure expected to be encountered during loading, storing and discharging the cargo but in no case shall the design pressure of pressure vessel tanks be less than thirty (30) pounds per square inch gauge. The tank shell and heads shall not be less than 5/16-inch thick.
+(2) Cargo tanks shall be designed for the maximum pressure expected to be encountered during loading, storing and discharging the cargo but in no case shall the design pressure of pressure vessel tanks be less than thirty (30) pounds per square inch gauge. The tank shell and heads shall not be less than5/16-inch thick.
 
 (b) When propylene oxide is carried on board a vessel, piping systems in propylene oxide service shall not be used for any other product and shall be completely separate from all other systems. The piping system shall be designed so that no cross connection may be made through inadvertence.
 

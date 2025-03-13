@@ -1,5 +1,7 @@
 ##### § 54.9812-1 Parity in mental health and substance use disorder benefits. #####
 
+Link to an amendment published at 89 FR 77703, Sept. 23, 2024.
+
 (a) *Meaning of terms.* For purposes of this section, except where the context clearly indicates otherwise, the following terms have the meanings indicated:
 
 *Aggregate lifetime dollar limit* means a dollar limitation on the total amount of specified benefits that may be paid under a group health plan (or health insurance coverage offered in connection with such a plan) for any coverage unit.

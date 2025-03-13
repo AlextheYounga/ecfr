@@ -6,4 +6,4 @@
 
 (c) The boundaries of regulated areas must be indicated by barricades, other devices, or by painted areas on the vessel. A sign bearing the following legend in letters at least three inches high (except for the words “DANGER—BENZENE”, which must be printed in letters at least 50 percent larger than the other words) must be posted at each access to the regulated areas:
 
-DANGER—BENZENE REGULATED AREA CANCER CAUSING AGENT FLAMMABLE—NO SMOKING AUTHORIZED PERSONNEL ONLY RESPIRATOR REQUIRED
+DANGER—BENZENEREGULATED AREACANCER CAUSING AGENTFLAMMABLE—NO SMOKINGAUTHORIZED PERSONNEL ONLYRESPIRATOR REQUIRED

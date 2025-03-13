@@ -6,4 +6,4 @@
 
 (1) The component meets each of the requirements for materials and pressure design of subparts 56.60 and 58.30 of this chapter and if its service is limited to the manufacturer's rated pressure; or
 
-(2) The service of the component is limited to 1/2 the manufacturer's recommended maximum allowable working pressure (MAWP) or 1/10 the component's burst pressure. Burst-pressure testing is described in ANSI B 31.1, Paragraph 104.7.A, and must be conducted to comply with Paragraph A-22, Section I, ASME Boiler and Pressure Vessel Code. Written certification of results of burst-pressure testing must be submitted with the plans required by § 127.110(d) of this subchapter.
+(2) The service of the component is limited to1/2 the manufacturer's recommended maximum allowable working pressure (MAWP) or1/10 the component's burst pressure. Burst-pressure testing is described in ANSI B 31.1, Paragraph 104.7.A, and must be conducted to comply with Paragraph A-22, Section I, ASME Boiler and Pressure Vessel Code. Written certification of results of burst-pressure testing must be submitted with the plans required by § 127.110(d) of this subchapter.

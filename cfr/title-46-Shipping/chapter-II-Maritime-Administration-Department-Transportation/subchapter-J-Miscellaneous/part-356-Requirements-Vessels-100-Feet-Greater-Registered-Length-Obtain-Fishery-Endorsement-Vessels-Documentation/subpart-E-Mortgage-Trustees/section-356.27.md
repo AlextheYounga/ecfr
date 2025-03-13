@@ -96,4 +96,4 @@ This application is made in order to induce the Maritime Administration to grant
 
 Dated this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_, 20\_\_\_\_.
 
-ATTEST:(Print or type name below)(SEAL)MORTGAGE TRUSTEE'S NAME & ADDRESS By: (Print or type name below) TITLE[65 FR 44877, July 19, 2000, as amended at 68 FR 5581, Feb. 4, 2003]
+ATTEST:(Print or type name below)(SEAL)MORTGAGE TRUSTEE'S NAME & ADDRESSBy:(Print or type name below)TITLE[65 FR 44877, July 19, 2000, as amended at 68 FR 5581, Feb. 4, 2003]

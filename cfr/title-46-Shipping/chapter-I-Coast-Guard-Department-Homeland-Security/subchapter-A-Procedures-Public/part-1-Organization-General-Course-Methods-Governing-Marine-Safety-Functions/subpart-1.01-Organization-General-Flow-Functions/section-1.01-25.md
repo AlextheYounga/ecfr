@@ -18,4 +18,4 @@
 
 (d) In the performance of their duties, all Coast Guard Administrative Law Judges are bound by law and the regulations in this chapter or in 33 CFR chapter I. Statements of policy, clarification of points of procedure, and general administrative instructions are published in *Administrative Law Judges' Circulars* and *Administrative Law Judges' Internal Practices and Procedures Series.* The Chief Administrative Law Judge, located in the Office of the Commandant, U.S. Coast Guard, maintains a complete file of these publications for reading purposes during normal working hours.
 
-[CGD 88-033, 54 FR 50376, Dec. 6, 1989] Editorial Note:For Federal Register citations affecting § 1.01-25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD 88-033, 54 FR 50376, Dec. 6, 1989]Editorial Note:For Federal Register citations affecting § 1.01-25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
