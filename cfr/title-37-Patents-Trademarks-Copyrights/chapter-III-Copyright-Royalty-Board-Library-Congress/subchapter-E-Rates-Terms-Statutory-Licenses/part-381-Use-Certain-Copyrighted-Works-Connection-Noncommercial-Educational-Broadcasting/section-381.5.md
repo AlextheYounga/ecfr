@@ -10,8 +10,6 @@
 
 (i) *Music fees.*
 
-Table 1 to Paragraph (c)(1)(i)
-
 |       |Number of full-time students|2023 |2024 |2025 |2026 |2027 |
 |-------|----------------------------|-----|-----|-----|-----|-----|
 |Level 1|          \<1,000           |$390 |$400 |$410 |$421 |$432 |
@@ -26,8 +24,6 @@ Table 1 to Paragraph (c)(1)(i)
 
 (i) *Music fees.*
 
-Table 2 to Paragraph (c)(2)(i)
-
 |       |Number of full-time students|2023 |2024 |2025 |2026 |2027 |
 |-------|----------------------------|-----|-----|-----|-----|-----|
 |Level 1|          \<1,000           |$390 |$400 |$410 |$421 |$432 |
@@ -40,9 +36,9 @@ Table 2 to Paragraph (c)(2)(i)
 
 (3) For all such compositions in the repertory of SESAC, the royalty rates shall be as follows:
 
-(i) *2023:* The 2022 rate, subject to an annual cost of living adjustment in accordance with paragraph (c)(3)(vi) of this section.
+(i) 2023: $188 per station.
 
-(ii) *2024:* The 2023 rate, subject to an annual cost of living adjustment in accordance with paragraph (c)(3)(vi) of this section.
+(ii) 2024: $194 per station.
 
 (iii) *2025:* The 2024 rate, subject to an annual cost of living adjustment in accordance with paragraph (c)(3)(vi) of this section.
 
@@ -56,9 +52,9 @@ Table 2 to Paragraph (c)(2)(i)
 
 (4) For all such compositions in the repertory of GMR, the royalty rates shall be as follows:
 
-(i) *2023:* $174.00 per station, subject to an annual cost of living adjustment in accordance with § 381.10.
+(i) 2023: $188 per station.
 
-(ii) *2024:* The 2023 rate, subject to an annual cost of living adjustment in accordance with § 381.10.
+(ii) 2024: $194 per station.
 
 (iii) *2025:* The 2024 rate, subject to an annual cost of living adjustment in accordance with § 381.10.
 
@@ -74,4 +70,4 @@ Table 2 to Paragraph (c)(2)(i)
 
 (e) *Records of use.* A public broadcasting entity subject to this section shall furnish to ASCAP, BMI, SESAC, and GMR upon request, a music-use report during one week of each calendar year. ASCAP, BMI, SESAC, and GMR shall not in any one calendar year request more than 10 stations to furnish such reports.
 
-[72 FR 67647, Nov. 30, 2007, as amended at 73 FR 72726, Dec. 1, 2008; 74 FR 62705, Dec. 1, 2009; 75 FR 74623, Dec. 1, 2010; 76 FR 74703, Dec. 1, 2011; 77 FR 71105, Nov. 29, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 71319, Dec. 2, 2014; 80 FR 73118, Nov. 24, 2015; 81 FR 84478, Nov. 23, 2016; 83 FR 2740, Jan. 19, 2018; 83 FR 61126, Nov. 28, 2018; 84 FR 64206, Nov. 21, 2019; 85 FR 74884, Nov. 24, 2020; 86 FR 66460, Nov. 23, 2021; 88 FR 41829, June 28, 2023]
+[72 FR 67647, Nov. 30, 2007, as amended at 73 FR 72726, Dec. 1, 2008; 74 FR 62705, Dec. 1, 2009; 75 FR 74623, Dec. 1, 2010; 76 FR 74703, Dec. 1, 2011; 77 FR 71105, Nov. 29, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 71319, Dec. 2, 2014; 80 FR 73118, Nov. 24, 2015; 81 FR 84478, Nov. 23, 2016; 83 FR 2740, Jan. 19, 2018; 83 FR 61126, Nov. 28, 2018; 84 FR 64206, Nov. 21, 2019; 85 FR 74884, Nov. 24, 2020; 86 FR 66460, Nov. 23, 2021; 88 FR 41829, June 28, 2023; 88 FR 83510, Nov. 30, 2023]

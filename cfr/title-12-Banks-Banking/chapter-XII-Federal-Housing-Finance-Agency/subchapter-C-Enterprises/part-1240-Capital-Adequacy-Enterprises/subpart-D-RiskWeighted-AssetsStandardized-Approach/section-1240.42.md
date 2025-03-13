@@ -1,5 +1,7 @@
 ##### § 1240.42 Risk-weighted assets for CRT and other securitization exposures. #####
 
+Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
+
 (a) *Securitization risk weight approaches.* Except as provided elsewhere in this section or in § 1240.41:
 
 (1) An Enterprise must deduct from common equity tier 1 capital any after-tax gain-on-sale resulting from a securitization and apply a 1,250 percent risk weight to the portion of a CEIO that does not constitute after-tax gain-on-sale.

@@ -1,5 +1,7 @@
 ##### § 1240.400 Stability capital buffer. #####
 
+Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
+
 (a) *Definitions.* For purposes of this subpart:
 
 (1) *Mortgage assets* means, with respect to an Enterprise, the dollar amount equal to the sum of:

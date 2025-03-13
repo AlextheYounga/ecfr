@@ -1,5 +1,7 @@
 ##### § 1240.36 Derivative contracts. #####
 
+Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
+
 (a) *Exposure amount for derivative contracts.* An Enterprise must use the current exposure methodology (CEM) described in paragraph (b) of this section to calculate the exposure amount for all its OTC derivative contracts.
 
 (b) *Current exposure methodology exposure amount*—(1) *Single OTC derivative contract.* Except as modified by paragraph (c) of this section, the exposure amount for a single OTC derivative contract that is not subject to a qualifying master netting agreement is equal to the sum of the Enterprise's current credit exposure and potential future credit exposure (PFE) on the OTC derivative contract.

@@ -1,5 +1,7 @@
 ##### § 1240.32 General risk weights. #####
 
+Link to an amendment published at 88 FR 83476, Nov. 30, 2023.
+
 (a) *Exposures to the U.S. government.* (1) Notwithstanding any other requirement in this subpart, an Enterprise must assign a zero percent risk weight to:
 
 (i) An exposure to the U.S. government, its central bank, or a U.S. government agency; and

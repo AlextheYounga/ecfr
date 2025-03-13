@@ -1,5 +1,7 @@
 ##### § 1240.39 Collateralized transactions. #####
 
+Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
+
 (a) *General.* (1) To recognize the risk-mitigating effects of financial collateral (other than with respect to a retained CRT exposure), an Enterprise may use:
 
 (i) The simple approach in paragraph (b) of this section for any exposure; or

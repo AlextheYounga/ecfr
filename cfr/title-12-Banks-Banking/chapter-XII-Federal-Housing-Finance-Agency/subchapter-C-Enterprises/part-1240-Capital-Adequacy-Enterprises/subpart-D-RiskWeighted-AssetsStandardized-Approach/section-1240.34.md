@@ -1,5 +1,7 @@
 ##### § 1240.34 Multifamily mortgage exposures. #####
 
+Link to an amendment published at 88 FR 83478, Nov. 30, 2023.
+
 (a) *Definitions.* Subject to any additional instructions set forth on Table 1 to this paragraph (a), for purposes of this section:
 
 *Acquisition debt-service-coverage ratio (acquisition DSCR)* means, with respect to a multifamily mortgage exposure, the amount equal to:

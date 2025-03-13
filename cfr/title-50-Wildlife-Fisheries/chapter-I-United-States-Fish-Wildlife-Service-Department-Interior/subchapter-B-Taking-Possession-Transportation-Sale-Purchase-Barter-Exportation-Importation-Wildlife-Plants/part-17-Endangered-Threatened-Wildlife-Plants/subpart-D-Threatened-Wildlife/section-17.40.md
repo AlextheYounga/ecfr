@@ -1,5 +1,7 @@
 ##### § 17.40 Special rules—mammals. #####
 
+Link to an amendment published at 88 FR 83772, Nov. 30, 2023.
+
 (a) Mazama pocket gophers (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*)—(1) *Which populations of the Mazama pocket gopher are covered by this special rule?* This special rule covers the four Thurston/Pierce subspecies of the Mazama pocket gopher (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*) wherever they occur.
 
 (2) *What activities are prohibited?* Except as noted in paragraphs (a)(3) through (7) of this section, all prohibitions of § 17.31 apply to the Olympia, Roy Prairie, Tenino, and Yelm pocket gophers.

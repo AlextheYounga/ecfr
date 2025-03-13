@@ -1,5 +1,7 @@
 ##### § 1240.41 Operational requirements for CRT and other securitization exposures. #####
 
+Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
+
 (a) *Operational criteria for traditional securitizations.* An Enterprise that transfers exposures it has purchased or otherwise acquired to a securitization SPE or other third party in connection with a traditional securitization may exclude the exposures from the calculation of its risk-weighted assets only if each condition in this section is satisfied. An Enterprise that meets these conditions must hold risk-based capital against any credit risk it retains in connection with the securitization. An Enterprise that fails to meet these conditions must hold risk-based capital against the transferred exposures as if they had not been securitized and must deduct from common equity tier 1 capital any after-tax gain-on-sale resulting from the transaction. The conditions are:
 
 (1) The exposures are not reported on the Enterprise's consolidated balance sheet under GAAP;

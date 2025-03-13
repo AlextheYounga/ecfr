@@ -1,7 +1,5 @@
 ##### § 1310.04 Maintenance of records. #####
 
-Link to an amendment published at 88 FR 74359, Oct. 31, 2023.
-
 (a) Every record required to be kept subject to § 1310.03 for a List I chemical, a tableting machine, or an encapsulating machine shall be kept by the regulated person for 2 years after the date of the transaction.
 
 (b) Every record required to be kept subject to Section 1310.03 for List II chemical shall be kept by the regulated person for two years after the date of the transaction.
@@ -119,7 +117,7 @@ Link to an amendment published at 88 FR 74359, Oct. 31, 2023.
 
 (xiii) N-phenethyl-4-piperidone (NPP)
 
-(xiv) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, and its salts
+(xiv) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, its halides, its salts, and any combination thereof, whenever the existence of such is possible.
 
 (xv) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
 

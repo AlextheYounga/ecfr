@@ -1,5 +1,7 @@
 ##### § 1240.31 Mechanics for calculating risk-weighted assets for general credit risk. #####
 
+Link to an amendment published at 88 FR 83476, Nov. 30, 2023.
+
 (a) *General risk-weighting requirements.* An Enterprise must apply risk weights to its exposures as follows:
 
 (1) An Enterprise must determine the exposure amount of each mortgage exposure, each other on-balance sheet exposure, each OTC derivative contract, and each off-balance sheet commitment, trade and transaction-related contingency, guarantee, repo-style transaction, forward agreement, or other similar transaction that is not:

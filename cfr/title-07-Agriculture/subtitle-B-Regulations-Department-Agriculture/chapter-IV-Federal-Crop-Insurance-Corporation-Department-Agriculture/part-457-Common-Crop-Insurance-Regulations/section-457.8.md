@@ -1,7 +1,5 @@
 ##### § 457.8 The application and policy. #####
 
-Link to an amendment published at 88 FR 71732, Oct. 18, 2023.
-
 (a) Application for insurance on a form prescribed by the Corporation, or approved by the Corporation, must be made by any person who wishes to participate in the program, to cover such person's share in the insured crop as landlord, owner-operator, crop ownership interest, or tenant. No other person's interest in the crop may be insured under an application unless that person's interest is clearly shown on the application and unless that other person's interest is insured in accordance with the procedures of the Corporation. The application must be submitted to the Corporation or the reinsured company through the crop insurance agent and must be submitted on or before the applicable sales closing date on file.
 
 (b) FCIC or the reinsured company may reject or discontinue the acceptance of applications in any county or of any individual application upon FCIC's determination that the insurance risk is excessive.
@@ -404,7 +402,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (c) After acceptance of the application, you may not cancel this policy for the initial crop year. Thereafter, the policy will continue in force for each succeeding crop year unless canceled or terminated as provided below.
 
-(d) Either you or we may cancel this policy after the initial crop year by providing written notice to the other on or before the cancellation date shown in the Crop Provisions.
+(d) You may cancel this policy after the initial crop year by providing written notice to us on or before the cancellation date shown in the Crop Provisions. We may cancel this policy with express written consent from FCIC.
 
 (e) Any amount owed to us for any policy authorized under the Act will be offset from any indemnity or prevented planting payment due you for this or any other crop insured with us under the authority of the Act.
 

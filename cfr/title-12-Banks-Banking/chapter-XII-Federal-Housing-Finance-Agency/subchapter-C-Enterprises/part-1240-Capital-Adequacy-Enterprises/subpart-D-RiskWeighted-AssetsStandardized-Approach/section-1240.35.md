@@ -1,5 +1,7 @@
 ##### § 1240.35 Off-balance sheet exposures. #####
 
+Link to an amendment published at 88 FR 83480, Nov. 30, 2023.
+
 (a) *General.* (1) An Enterprise must calculate the exposure amount of an off-balance sheet exposure using the credit conversion factors (CCFs) in paragraph (b) of this section.
 
 (2) Where an Enterprise commits to provide a commitment, the Enterprise may apply the lower of the two applicable CCFs.

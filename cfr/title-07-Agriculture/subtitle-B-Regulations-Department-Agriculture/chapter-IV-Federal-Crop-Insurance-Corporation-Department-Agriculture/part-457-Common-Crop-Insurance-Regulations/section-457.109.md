@@ -1,8 +1,6 @@
 ##### § 457.109 Sugar Beet Crop Insurance Provisions. #####
 
-Link to an amendment published at 88 FR 78229, Nov. 15, 2023.
-
-The Sugar Beet Crop Insurance Provisions for effective for the 2023 and succeeding crop years in states with a November 30 contract change date and for the 2024 and succeeding crop years in all other states, are as follows:
+The Sugar Beet Crop Insurance Provisions for effective effective for the 2024 and succeeding crop years in states with a November 30 contract change date and for the 2025 and succeeding crop years in all other states, are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured policies(Appropriate title for insurance provider)
 
@@ -11,6 +9,10 @@ Both FCIC and Reinsured Policies
 Sugar Beet Crop Provisions1. Definitions
 
 *Crop year.* The period within which the sugar beets are normally grown, which is designated by the calendar year in which the sugar beets are normally harvested.
+
+*Early harvest.* Harvest of sugar beets prior to full maturity.
+
+*Full maturity (date of).* The date the sugar beets would have reached full maturity is 45 days prior to the calendar date for the end of the insurance period, unless otherwise specified in the Special Provisions.
 
 *Harvest.* Topping and lifting of sugar beets in the field.
 
@@ -98,13 +100,13 @@ In lieu of the premium computation method contained in section 7 of the Basic Pr
 
 (b) Sugar beet growers who are also processors may establish an insurable interest if they meet the following requirements:
 
-(1) The processor must meet the definition of a “processor” in section 1 of these crop provisions and have a valid insurable interest in the sugar beet crop;
+(1) The processor must meet the definition of a “processor” in section 1 of these Crop Provisions and have a valid insurable interest in the sugar beet crop;
 
 (2) The Board of Directors or officers of the processor must have adopted and executed a corporate resolution that contains essentially the same terms as a production agreement. Such corporate resolution will be considered a production agreement under the terms of the sugar beet crop insurance policy;
 
 (3) The sales records of the processor showing the amount of sugar produced the previous year must be supplied to us to confirm the processor has produced and sold sugar in the past; and
 
-(4) Our inspection of the processing facilities determines that they conform to the definition of “processor” contained in section 1 of these crop provisions.
+(4) Our inspection of the processing facilities determines that they conform to the definition of “processor” contained in section 1 of these Crop Provisions.
 
 9. Insurable Acreage
 
@@ -214,25 +216,9 @@ In accordance with the requirements of section 14 of the Basic Provisions, repre
 
 (2) If not representative, the average percent of raw sugar will equal the raw sugar content percent shown in the Special Provisions.
 
-(f) Production lost due to harvest prior to full maturity. If the percentage of insured acreage in the unit harvested prior to full maturity exceeds the threshold specified in the Special Provisions, production to count from such acreage will be determined by increasing the amount of harvested production by 1 percent per day for each day the sugar beets were harvested prior to the date the sugar beets would have reached full maturity.
+(f) If harvested production is damaged due to an insurable cause of loss and is rejected by the processor but is sold to a salvage buyer at a reduced price: Compute the pounds of raw sugar of the sold production by dividing the gross dollar amount paid by the salvage buyer by the established price.
 
-(1) The date the sugar beets would have reached full maturity will be considered to be 45 days prior to the calendar date for the end of the insurance period, unless otherwise specified in the Special Provisions.
-
-(2) The adjustment will not be made if the sugar beets are damaged by an insurable cause of loss and leaving the crop in the field would reduce production.
-
-(3) The adjustment cannot result in a yield greater than the higher of your approved actual production history yield or the actual yield of the production harvested after full maturity from the unit.
-
-(4) The adjustment will only be made if early harvest is required in the production agreement, or the processor requests early harvest prior to full maturity.
-
-(5) If the production agreement does not require early harvest and the processor has not requested early harvest, and the processor:
-
-(i) Accepts the early harvested production, the early harvested production will be counted but no early harvest adjustment will apply.
-
-(ii) Does not accept the early harvested production, the production to count will be the production guarantee for the acreage harvested early.
-
-(g) If harvested production is damaged due to an insurable cause of loss and is rejected by the processor but is sold to a salvage buyer at a reduced price: Compute the pounds of raw sugar of the sold production by dividing the gross dollar amount paid by the salvage buyer by the established price.
-
-(h) If production is damaged due to an insurable cause of loss to the extent that the processor will not accept the production, such as the production did not meet the standards contained in the production agreement; and there are no salvage markets for the production, then there would be no value for production and there would be no production to count provided the production is destroyed in a manner acceptable to us.
+(g) If production is damaged due to an insurable cause of loss to the extent that the processor will not accept the production, such as the production did not meet the standards contained in the production agreement; and there are no salvage markets for the production, then there would be no value for production and there would be no production to count provided the production is destroyed in a manner acceptable to us.
 
 15. [Reserved]16. Prevented Planting
 
@@ -242,13 +228,15 @@ Your prevented planting coverage will be a percentage specified in the actuarial
 
 (a) Applicability:
 
-(1) You must have an additional coverage policy to elect this option.
+(1) If provided in the actuarial documents, you may elect the Stage Removal Option.
 
-(2) You must elect this option in writing on or before the sales closing date for the first year it is in effect.
+(2) You must have an additional coverage policy to elect this option.
 
-(3) This election is continuous, in accordance with section 2 of the Basic Provisions, unless canceled by the cancellation date. Your election of the Catastrophic Risk Protection Endorsement for your sugar beets in any crop year will be deemed to be cancellation of this option by you.
+(3) You must elect this option in writing on or before the sales closing date for the first year it is in effect.
 
-(4) All insurable acreage of sugar beets in the county will be included under this option unless any acreage is specifically excluded by the Special Provisions.
+(4) This election is continuous, in accordance with section 2 of the Basic Provisions, unless canceled by the cancellation date. Your election of the Catastrophic Risk Protection Endorsement for your sugar beets in any crop year will be deemed to be cancellation of this option by you.
+
+(5) All insurable acreage of sugar beets in the county will be included under this option unless any acreage is specifically excluded by the Special Provisions.
 
 (b) Insurance Guarantees:
 
@@ -264,4 +252,58 @@ Your prevented planting coverage will be a percentage specified in the actuarial
 
 (2) The terms and conditions of section 14(c)(1)(iv) do not apply under this option.
 
-[61 FR 58775, Nov. 19, 1996, as amended at 62 FR 63633, Dec. 2, 1997; 62 FR 65167, Dec. 10, 1997; 81 FR 84399, Nov. 23, 2016; 83 FR 45538, Sept. 10, 2018; 84 FR 65638, Nov. 29, 2019; 87 FR 72862, Nov. 28, 2022]
+18. Early Harvest Adjustment Option
+
+(a) Applicability:
+
+(1) If provided in the actuarial documents, you may elect the Early Harvest Adjustment Option to adjust your actual yield(s) for early harvested production.
+
+(2) You must have additional coverage to elect this option.
+
+(3) You must elect this option in writing on or before the sales closing date.
+
+(4) This election is continuous, in accordance with section 2 of the Basic Provisions, unless canceled by the cancellation date. Your election of the Catastrophic Risk Protection Endorsement for your sugar beets will cancel this option.
+
+(b) Insurance Guarantees:
+
+(1) APH database—On or before the production reporting date, you may replace actual yields with early harvest adjusted yields in your APH database, if this option is elected.
+
+(i) The early harvest adjusted yields will be used in the same manner as actual yields for the purpose of calculating the approved yield.
+
+(ii) Once an early harvest adjusted yield replaces an actual yield, the early harvest adjusted yield will remain in effect until such time as that crop year is no longer included in the APH database, this option is canceled in accordance with section 18(a)(4), or the insured chooses to no longer replace that actual yield(s) by the production reporting date.
+
+(iii) If you cancel the option, the actual yield will be used in the APH database.
+
+(2) Premium—Your approved yield will be used to determine your amount of premium owed. The premium will be increased to cover the additional risk associated with the resulting higher yields.
+
+(3) Adjustment—The adjustment will equal an increase of your actual yield by 1 percent per day for each day the sugar beets were harvested prior to full maturity.
+
+(4) Threshold—The adjustment will only be made if the early harvested percentage of insured acreage in the unit meets or exceeds 15 percent, unless otherwise specified in the Special Provisions.
+
+(5) Cap—The adjustment cannot result in a yield greater than the higher of:
+
+(i) Your approved yield from the unit;
+
+(ii) The actual yield of the acreage harvested after full maturity from the unit; or
+
+(iii) The unadjusted actual yield of the early harvested acreage from the unit.
+
+(6) Processor requirement—The adjustment will only be made if:
+
+(i) Early harvest is required in the production agreement; or
+
+(ii) The processor requests early harvest.
+
+(c) Settlement of Claim—If this option is elected, production to count from the unit will be determined by:
+
+(1) The adjustment will be made for any early harvested production if the threshold is exceeded for the unit.
+
+(2) The adjustment will not be made if the sugar beets are damaged by an insurable cause of loss and leaving the crop in the field would reduce production.
+
+(3) If the production agreement does not require early harvest and the processor has not requested early harvest, and the processor:
+
+(i) Accepts the early harvested production, the early harvested production will be counted but no adjustment will apply.
+
+(ii) Does not accept the early harvested production, the production to count will be the production guarantee for the acreage harvested early.
+
+[61 FR 58775, Nov. 19, 1996, as amended at 62 FR 63633, Dec. 2, 1997; 62 FR 65167, Dec. 10, 1997; 81 FR 84399, Nov. 23, 2016; 83 FR 45538, Sept. 10, 2018; 84 FR 65638, Nov. 29, 2019; 87 FR 72862, Nov. 28, 2022; 88 FR 78229, Nov. 15, 2023]
