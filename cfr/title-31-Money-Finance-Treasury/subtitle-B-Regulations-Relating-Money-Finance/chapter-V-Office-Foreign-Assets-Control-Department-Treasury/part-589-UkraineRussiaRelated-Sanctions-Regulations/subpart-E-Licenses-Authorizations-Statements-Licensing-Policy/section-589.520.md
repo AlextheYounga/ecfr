@@ -1,6 +1,6 @@
 ##### § 589.520 Certain transactions in support of nongovernmental organizations' activities in the Crimea region of Ukraine. #####
 
-Nongovernmental organizations are authorized to export or reexport services to the Crimea region of Ukraine that would be prohibited by § 589.206 in support of the following not-for-profit activities:
+Nongovernmental organizations are authorized to export or reexport services to the Crimea region of Ukraine that would be prohibited by § 589.207 in support of the following not-for-profit activities:
 
 (a) Activities to support humanitarian projects to meet basic human needs in the Crimea region of Ukraine, including drought and flood relief; food, nutrition, and medicine distribution; the provision of health services; assistance for vulnerable populations, including individuals with disabilities; and environmental programs;
 
@@ -11,3 +11,5 @@ Nongovernmental organizations are authorized to export or reexport services to t
 (d) Activities to support non-commercial development projects directly benefiting the Crimean people, including preventing infectious disease and promoting maternal/child health, and clean water assistance; and
 
 (e) Activities to support environmental protection, including the preservation and protection of threatened or endangered species and the remediation of pollution or other environmental damage.
+
+[87 FR 26099, May 2, 2022, as amended at 89 FR 67557, Aug. 21, 2024]

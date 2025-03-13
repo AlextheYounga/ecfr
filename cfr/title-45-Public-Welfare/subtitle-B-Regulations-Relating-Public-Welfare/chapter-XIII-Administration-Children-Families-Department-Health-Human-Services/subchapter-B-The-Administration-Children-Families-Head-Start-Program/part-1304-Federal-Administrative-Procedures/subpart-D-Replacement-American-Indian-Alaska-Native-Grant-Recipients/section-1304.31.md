@@ -1,0 +1,3 @@
+##### § 1304.31 Requirements of alternative agency. #####
+
+The agency identified by the Indian tribe must establish that it meets all requirements established by the Head Start Act and these requirements for designation as a Head Start grant recipient and that it is capable of conducting a Head Start program. The responsible HHS official, in deciding whether to designate the proposed agency, will analyze the capacity and experience of the agency according to the criteria found in section 641(d) of the Head Start Act and § 1304.20.

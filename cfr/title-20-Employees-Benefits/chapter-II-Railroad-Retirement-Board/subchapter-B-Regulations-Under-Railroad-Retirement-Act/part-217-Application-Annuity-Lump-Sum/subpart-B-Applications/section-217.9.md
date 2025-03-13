@@ -16,4 +16,4 @@
 
 (4) *Application for a period of disability.* In order to be entitled to a period of disability under part 220 of this chapter, an employee must apply while he or she is disabled under part 220 or not later than 12 months after the month in which the period of disability ends except that an employee who is unable to apply within the 12-month period after the period of disability ends because his or her physical condition limited his or her activities to the extent that he or she could not complete and sign an application or because he or she was mentally incompetent, may apply no later than 36 months after the period of disability ends.
 
-(Approved by the Office of Management and Budget under control number 3220-0002)[47 FR 7647, Feb. 22, 1982, as amended at 54 FR 13363, Apr. 3, 1989; 67 FR 42714, June 25, 2002]
+(Approved by the Office of Management and Budget under control number 3220-0002) [47 FR 7647, Feb. 22, 1982, as amended at 54 FR 13363, Apr. 3, 1989; 67 FR 42714, June 25, 2002]

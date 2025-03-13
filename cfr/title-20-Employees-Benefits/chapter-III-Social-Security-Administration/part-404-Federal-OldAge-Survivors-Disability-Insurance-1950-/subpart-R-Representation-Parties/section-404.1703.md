@@ -1,5 +1,7 @@
 ##### § 404.1703 Definitions. #####
 
+Link to an amendment published at 89 FR 67554, Aug. 21, 2024.
+
 As used in this subpart—
 
 *Date we notify him or her* means 5 days after the date on the notice, unless the recipient shows us that he or she did not receive it within the 5-day period.

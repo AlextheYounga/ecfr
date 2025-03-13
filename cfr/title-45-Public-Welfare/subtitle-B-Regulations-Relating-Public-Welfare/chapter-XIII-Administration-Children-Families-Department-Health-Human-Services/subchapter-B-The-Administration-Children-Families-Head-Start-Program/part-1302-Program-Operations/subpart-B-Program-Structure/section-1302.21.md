@@ -21,29 +21,21 @@
 |                 |             No more than 15 children enrolled in any double session class.             |
 |Under 3 years old|No more than 8 or 9 children enrolled in any class, depending on the number of teachers.|
 
-(c) *Service duration*—(1) *Early Head Start.* (i) By August 1, 2018, a program must provide 1,380 annual hours of planned class operations for all enrolled children.
+(c) *Service duration*—(1) *Early Head Start.* (i) A program must provide 1,380 annual hours of planned class operations for all enrolled children.
 
 (ii) A program that is designed to meet the needs of young parents enrolled in school settings may meet the service duration requirements in paragraph (c)(1)(i) of this section if it operates a center-based program schedule during the school year aligned with its local education agency requirements and provides regular home-based services during the summer break.
 
-(2) *Head Start.* (i) Until a program is operating all of its Head Start center-based funded enrollment at the standard described in paragraph (c)(2)(iv) or (v) of this section, a program must provide, at a minimum, at least 160 days per year of planned class operations if it operates for five days per week, or at least 128 days per year if it operates four days per week. Classes must operate for a minimum of 3.5 hours per day.
+(2) *Head Start Preschool*—(i) *Service duration for at least 45 percent.* A program must provide 1,020 annual hours of planned class operation over the course of at least eight months per year for at least 45 percent of its Head Start Preschool center-based funded enrollment.
 
-(ii) Until a program is operating all of its Head Start center-based funded enrollment at the standard described in paragraph (c)(2)(iv) or (v) of this section, if a program operates a double session variation, it must provide classes for four days per week for a minimum of 128 days per year and 3.5 hours per day. Each double session class staff member must be provided adequate break time during the course of the day. In addition, teachers, aides, and volunteers must have appropriate time to prepare for each session together, to set up the classroom environment, and to give individual attention to children entering and leaving the center.
+(ii) *Service duration for remaining slots.* A program must provide, at a minimum, at least 160 days per year of planned class operations if it operates for five days per week, or at least 128 days per year if it operates four days per week. Classes must operate for a minimum of 3.5 hours per day.
 
-(iii) By August 1, 2019, a program must provide 1,020 annual hours of planned class operations over the course of at least eight months per year for at least 50 percent of its Head Start center-based funded enrollment.
+(iii) *Double session.* Double session variation must provide classes for four days per week for a minimum of 128 days per year and 3.5 hours per day. Each double session class staff member must be provided adequate break time during the course of the day. In addition, teachers, assistants, and volunteers must have appropriate time to prepare for each session together, to set up the classroom environment, and to give individual attention to children entering and leaving the center.
 
-(iv) By August 1, 2021, a program must provide 1,020 annual hours of planned class operations over the course of at least eight months per year for all of its Head Start center-based funded enrollment.
+(iv) *Special provision for alignment with local education agency.* A Head Start Preschool program providing fewer than 1,020 annual hours of planned class operations or fewer than eight months of service is considered to meet the requirements described in paragraph (c)(2)(i) of this section if its program schedule aligns with the annual hours required by its local education agency for grade one and such alignment is necessary to support partnerships for service delivery.
 
-(v) A Head Start program providing fewer than 1,020 annual hours of planned class operations or fewer than eight months of service is considered to meet the requirements described in paragraphs (c)(2)(iii) and (iv) of this section if its program schedule aligns with the annual hours required by its local education agency for grade one and such alignment is necessary to support partnerships for service delivery.
+(3) *Exemption for Migrant or Seasonal Head Start programs.* A Migrant or Seasonal program is not subject to the requirements described in paragraph (c)(1) or (2) of this section, but must make every effort to provide as many days and hours of service as possible to each child and family.
 
-(3) *Secretarial determination.* (i) On or before February 1, 2018, the Secretary may lower the required percentage described in paragraph (c)(2)(iii) of this section, based on an assessment of the availability of sufficient funding to mitigate a substantial reduction in funded enrollment; and,
-
-(ii) On or before February 1, 2020, the Secretary may lower the required percentage described in paragraph (c)(2)(iv) of this section, based on an assessment of the availability of sufficient funding to mitigate a substantial reduction in funded enrollment.
-
-(4) *Extension.* If an extension is necessary to ensure children enrolled in the program on November 7, 2016 are not displaced from the Early Head Start or Head Start program, a program may request a one-year extension from the responsible HHS official of the requirements outlined in paragraphs (c)(1) and (c)(2)(iii) of this section.
-
-(5) *Exemption for Migrant or Seasonal Head Start programs.* A Migrant or Seasonal program is not subject to the requirements described in § 1302.21(c)(1) or (2), but must make every effort to provide as many days and hours of service as possible to each child and family.
-
-(6) *Calendar planning.* A program must:
+(4) *Calendar planning.* A program must:
 
 (i) Plan its year using a reasonable estimate of the number of days during a year that classes may be closed due to problems such as inclement weather; and,
 
@@ -54,3 +46,5 @@
 (2) A center-based program must have at least 35 square feet of usable indoor space per child available for the care and use of children (exclusive of bathrooms, halls, kitchen, staff rooms, and storage places) and at least 75 square feet of usable outdoor play space per child.
 
 (3) A program that operates two or more groups within an area must ensure clearly defined, safe divisions to separate groups. A program must ensure such spaces are learning environments that facilitate the implementation of the requirements in subpart C of this part. The divisions must limit noise transfer from one group to another to prevent disruption of an effective learning environment.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67809, Aug. 21, 2024]

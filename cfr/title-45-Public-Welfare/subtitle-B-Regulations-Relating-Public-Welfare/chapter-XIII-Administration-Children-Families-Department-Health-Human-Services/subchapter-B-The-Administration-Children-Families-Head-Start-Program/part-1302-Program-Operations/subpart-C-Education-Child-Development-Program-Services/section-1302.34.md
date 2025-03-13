@@ -16,6 +16,10 @@
 
 (6) Teachers inform parents, about the purposes of and the results from screenings and assessments and discuss their child's progress;
 
-(7) Teachers, except those described in paragraph (b)(8) of this section, conduct at least two home visits per program year for each family, including one before the program year begins, if feasible, to engage the parents in the child's learning and development, except that such visits may take place at a program site or another safe location that affords privacy at the parent's request, or if a visit to the home presents significant safety hazards for staff; and,
+(7) Teachers, except those described in paragraph (b)(8) of this section, conduct at least two home visits per program year for each family, including one before the program year begins, if feasible, to engage the parents in the child's learning and development, except that such visits may take place at a program site or another safe location that affords privacy at the parent's request, or if a visit to the home presents significant safety hazards for staff;
 
-(8) Teachers that serve migrant or seasonal families make every effort to conduct home visits to engage the family in the child's learning and development.
+(8) Teachers that serve migrant or seasonal families make every effort to conduct home visits to engage the family in the child's learning and development; and
+
+(9) The program utilizes accessible communication methods and modalities that meet the needs of the community when engaging with prospective and enrolled families.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67810, Aug. 21, 2024]

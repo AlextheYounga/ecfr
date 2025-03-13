@@ -6,13 +6,13 @@
 
 (2) The program ensures family child care homes are available that can accommodate children and families with disabilities.
 
-(b) *Ratios and group size.* (1) A program that operates the family child care option where Head Start children are enrolled must ensure group size does not exceed the limits specified in this section. If the family child care provider's own children under the age of six are present, they must be included in the group size.
+(b) *Ratios and group size*—(1) *Group size.* A program that operates the family child care option where Head Start children are enrolled must ensure group size does not exceed the limits specified in this section. If the family child care provider's own children under the age of six are present, they must be included in the group size.
 
-(2) When there is one family child care provider, the maximum group size is six children and no more than two of the six may be under 24 months of age. When there is a provider and an assistant, the maximum group size is twelve children with no more than four of the twelve children under 24 months of age.
+(2) *Mixed age with preschoolers.* When there is one family child care provider, with a mixed-age group of children that includes children over 36 months of age, the maximum group size is six children and no more than two of the six may be under 24 months of age. When there are two providers, the maximum group size is twelve children with no more than four of the twelve children under 24 months of age.
 
-(3) One family child care provider may care for up to four children younger than 36 months of age with a maximum group size of four children, and no more than two of the four children may be under 18 months of age.
+(3) *Infants and toddlers only.* When there is one family child care provider with a group of children that are all under 36 months of age, the maximum group size is four children, and no more than two of the four children may be under 18 months of age.
 
-(4) A program must maintain appropriate ratios during all hours of program operation. A program must ensure providers have systems to ensure the safety of any child not within view for any period. A program must make substitute staff and assistant providers available with the necessary training and experience to ensure quality services to children are not interrupted.
+(4) *Maintaining ratios.* A program must maintain appropriate ratios during all hours of program operation. A program must ensure providers have systems to ensure the safety of any child not within view for any period. A program must make substitute staff available with the necessary training and experience to ensure quality services to children are not interrupted.
 
 (c) *Service duration.* Whether family child care option services are provided directly or via contractual arrangement, a program must ensure family child care providers operate sufficient hours to meet the child care needs of families and not less than 1,380 hours per year.
 
@@ -27,3 +27,5 @@
 (3) Facilitate ongoing communication between program staff, family child care providers, and enrolled families; and,
 
 (4) Provide recommendations for technical assistance and support the family child care provider in developing relationships with other child care professionals.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67809, Aug. 21, 2024]

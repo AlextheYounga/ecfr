@@ -1,10 +1,8 @@
 ##### § 700.81 Appeals. #####
 
-Link to an amendment published at 89 FR 58976, July 22, 2024.
-
 (a) Any person who has had a request for adjustment or exception denied by the Office of Strategic Industries and Economic Security under § 700.80, may appeal to the Assistant Secretary for Export Administration, Department of Commerce, who shall review and reconsider the denial. Such appeals should be submitted to the Office of the Assistant Secretary for Export Administration, Bureau of Industry and Security, Department of Commerce, Room 3886, Washington, DC 20230, Ref: DPAS Appeals.
 
-(b) Appeals of denied requests for exceptions from or adjustments to compliance with the provisions of this part or an official action must be received by the Assistant Secretary for Export Administration no later than 45 days after receipt of a written notice of denial from the Office of Strategic Industries and Economic Security. After this 45-day period, an appeal may be accepted at the discretion of the Assistant Secretary for Export Administration.
+(b) Appeals of denied requests for exceptions from or adjustments to compliance with the provisions of this part or an official action must be received by the Assistant Secretary for Export Administration no later than forty-five (45) days after receipt of a written notice of denial from the Office of Strategic Industries and Economic Security. After this forty-five (45) day period, an appeal may be accepted at the discretion of the Assistant Secretary for Export Administration.
 
 (c) Each appeal must be in writing and contain a complete statement of all the facts and circumstances related to the action appealed from and a full and precise statement of the reasons the decision should be modified or reversed.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 89 FR 58976, July 22, 2024.
 
 (h) The decision of the Assistant Secretary for Export Administration shall be made within a reasonable time after receipt of the appeal and shall be the final administrative action. It shall be issued to the appellant in writing with a statement of the reasons for the decision.
 
-[49 FR 30414, July 30, 1984. Redesignated at 54 FR 601, Jan. 9, 1989, as amended at 63 FR 31925, June 11, 1998; 71 FR 39528, July 13, 2006; 79 FR 47571, Aug. 14, 2014]
+[49 FR 30414, July 30, 1984. Redesignated at 54 FR 601, Jan. 9, 1989, as amended at 63 FR 31925, June 11, 1998; 71 FR 39528, July 13, 2006; 79 FR 47571, Aug. 14, 2014; 89 FR 58976, July 22, 2024]

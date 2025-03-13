@@ -1,9 +1,9 @@
 ##### § 700.58 Critical infrastructure assistance programs to foreign nations and international organizations. #####
 
-Link to an amendment published at 89 FR 58975, July 22, 2024.
+(a) *Scope.* To promote critical infrastructure assistance to foreign nations, this section provides for authorizing priority ratings to persons in foreign nations or international organizations (for example, the North Atlantic Treaty Organization or the United Nations) to obtain items in the United States in support of approved programs.
 
-(a) *Scope.* To promote critical infrastructure assistance to foreign nations, this section provides for authorizing priority ratings to persons in foreign nations or international organizations (for example the North Atlantic Treaty Organization or the United Nations) to obtain items in the United States in support of approved programs.
+(b) *Foreign nations or international organizations.* (1) Any person in a foreign nation or representing an international organization requiring assistance in obtaining items under this part to be purchased in the United States for support of critical infrastructure protection and restoration should submit a request for priority rating authority on Form BIS-999 to the Department of Commerce (see § 700.50(c) for information on Form BIS-999).
 
-(b) *Foreign nations or international organizations.* Any person in a foreign nation or representing an international organization requiring assistance in obtaining items to be purchased in the United States for support of critical infrastructure protection and restoration should submit a request for such assistance or priority rating authority to the Office of Policy and Program Analysis, Federal Emergency Management Agency, Department of Homeland Security, 500 C Street SW., Washington, DC 20472; telephone: (202) 646-3520; Fax: (202) 646-4060; Email: *fema-dpas@dhs.gov,* Web site: *http://www.fema.gov/defense-production-act-program-division.*
+(2) Any person in a foreign nation or representing an international organization requesting priority rating authority or requiring assistance in obtaining rated items under this part in support of critical infrastructure protection and restoration related activities should submit a request for a determination in writing that the request supports a program that is necessary or appropriate to promote the national defense to the Office of Policy and Program Analysis, Federal Emergency Management Agency, Department of Homeland Security, 500 C Street SW, Washington, DC 20472; Telephone: (202) 212-2900; Fax: (202) 646-4601; Email: *FEMA-DPA@fema.dhs.gov,* website: *https://www.fema.gov/disaster/defense-production-act.*
 
-[79 FR 47568, Aug. 14, 2014]
+[89 FR 58975, July 22, 2024]

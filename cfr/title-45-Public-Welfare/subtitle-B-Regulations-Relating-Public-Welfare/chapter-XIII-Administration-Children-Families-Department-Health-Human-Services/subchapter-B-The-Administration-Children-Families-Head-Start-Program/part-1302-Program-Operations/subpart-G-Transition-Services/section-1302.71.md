@@ -1,4 +1,4 @@
-##### § 1302.71 Transitions from Head Start to kindergarten. #####
+##### § 1302.71 Transitions from Head Start Preschool to kindergarten. #####
 
 (a) *Implementing transition strategies and practices.* A program that serves children who will enter kindergarten in the following year must implement transition strategies to support a successful transition to kindergarten.
 

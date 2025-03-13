@@ -8,7 +8,7 @@
 
 (d) Outside of open season, if you are an active duty service member who becomes a uniformed services retiree (*TEI*) and enroll or are enrolled 31 days before you lose other dental or vision coverage, your enrollment is effective no earlier than the date you lost other coverage.
 
-(e) A *QLE* enrollment or change is effective the 1st *day* of the pay period following the date of your *QLE.*)
+(e) A *QLE* enrollment or change is effective the 1st *day* of the pay period following the date of your *QLE.* )
 
 (f)(1) A belated open season enrollment or change is effective retroactive to the date it would have been effective if you had made a timely enrollment or request for a change.
 

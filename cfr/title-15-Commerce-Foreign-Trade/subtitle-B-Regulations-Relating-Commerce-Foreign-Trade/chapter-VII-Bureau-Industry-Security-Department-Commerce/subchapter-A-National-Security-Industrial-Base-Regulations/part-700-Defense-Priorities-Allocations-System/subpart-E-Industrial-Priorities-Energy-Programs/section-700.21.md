@@ -1,8 +1,6 @@
 ##### § 700.21 Application for priority rating authority. #####
 
-Link to an amendment published at 89 FR 58972, July 22, 2024.
-
-(a) For projects believed to maximize domestic energy supplies, a person may request priority rating authority for scarce, critical, and essential supplies of materials, equipment, and services (related to the production of materials or equipment, or the installation, repair, or maintenance of equipment) by submitting a request to the Department of Energy. Further information may be obtained from the Department of Energy, Office of Electricity Delivery and Energy Reliability, 1000 Independence Avenue SW., Washington, DC 20585.
+(a) For projects believed to maximize domestic energy supplies, a person may request priority rating authority for scarce, critical, and essential supplies of materials, equipment, and services (related to the production of materials or equipment, or the installation, repair, or maintenance of equipment) by submitting a request to the Department of Energy. Further information may be obtained from the Department of Energy, Office of Cybersecurity, Energy Security, and Emergency Response, 1000 Independence Avenue SW, Washington, DC 20585; Telephone: (202) 586-8100; Email: *askcr@hq.doe.gov.*
 
 (b) If the Department of Energy notifies the Department of Commerce that the project maximizes domestic energy supplies and that the materials, equipment, or services are critical and essential, the Department of Commerce will determine whether the items in question are scarce, and, if they are scarce, whether there is a need to use the priorities authority.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 89 FR 58972, July 22, 2024.
 
 (d) Schedule I to this part includes a list of approved programs to support the maximization of domestic energy supplies. A Department of Energy regulation setting forth the procedures and criteria used by the Department of Energy in making its determination and findings is published in 10 CFR part 216.
 
-[79 FR 47567, Aug. 14, 2014]
+[79 FR 47567, Aug. 14, 2014, as amended at 89 FR 58972, July 22, 2024]

@@ -16,8 +16,8 @@
 
 (d) Blocked funds held in accounts or instruments outside the United States at the time the funds become subject to § 546.201 may continue to be held in the same type of accounts or instruments, provided the funds earn interest at rates that are commercially reasonable.
 
-(e) This section does not create an affirmative obligation for the holder of blocked tangible property, such as chattels or real estate, or of other blocked property, such as debt or equity securities, to sell or liquidate such property. However, the Office of Foreign Assets Control may issue licenses permitting or directing such sales or liquidation in appropriate cases.
+(e) This section does not create an affirmative obligation for the holder of blocked tangible property, such as chattels or real estate, or of other blocked property, such as debt or equity securities, to sell or liquidate such property. However, OFAC may issue licenses permitting or directing such sales or liquidation in appropriate cases.
 
 (f) Funds subject to this section may not be held, invested, or reinvested in a manner that provides immediate financial or economic benefit or access to any person whose property and interests in property are blocked pursuant to § 546.201, nor may their holder cooperate in or facilitate the pledging or other attempted use as collateral of blocked funds or other assets.
 
-[74 FR 25432, May 28, 2009, as amended at 89 FR 15752, Mar. 5, 2024]
+[74 FR 25432, May 28, 2009, as amended at 89 FR 15752, Mar. 5, 2024; 89 FR 67557, Aug. 21, 2024]

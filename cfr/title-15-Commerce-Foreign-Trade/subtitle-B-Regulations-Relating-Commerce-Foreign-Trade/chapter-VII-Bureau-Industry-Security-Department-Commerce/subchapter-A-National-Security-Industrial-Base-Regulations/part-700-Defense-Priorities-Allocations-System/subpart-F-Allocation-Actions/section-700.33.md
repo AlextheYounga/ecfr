@@ -1,8 +1,6 @@
-##### § 700.33 Types of allocations orders. #####
+##### § 700.33 Types of allocation orders. #####
 
-Link to an amendment published at 89 FR 58973, July 22, 2024.
-
-There are three types of allocations orders available for communicating allocation actions.
+There are three types of allocation orders available for communicating allocation actions.
 
 (a) *Set-aside.* A set-aside is an official action that requires a person to reserve materials, services, or facilities capacity in anticipation of the receipt of rated orders.
 
@@ -10,4 +8,4 @@ There are three types of allocations orders available for communicating allocati
 
 (c) *Allotment.* An allotment is an official action that specifies the maximum quantity of a material, service, or facility authorized for a specific use to promote the national defense.
 
-[79 FR 47567, Aug. 14, 2014]
+[79 FR 47567, Aug. 14, 2014, as amended at 89 FR 58973, July 22, 2024]

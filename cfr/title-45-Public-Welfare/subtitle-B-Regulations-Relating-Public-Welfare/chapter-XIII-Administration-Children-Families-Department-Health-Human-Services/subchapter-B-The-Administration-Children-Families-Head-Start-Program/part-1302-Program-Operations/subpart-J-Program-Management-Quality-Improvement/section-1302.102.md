@@ -1,4 +1,4 @@
-##### § 1302.102 Achieving program goals. #####
+##### § 1302.102 Program goals, continuous improvement, and reporting. #####
 
 (a) *Establishing program goals.* A program, in collaboration with the governing body and policy council, must establish goals and measurable objectives that include:
 
@@ -46,16 +46,36 @@
 
 (i) Status reports, determined by ongoing oversight data, to the governing body and policy council, at least semi-annually;
 
-(ii) Reports, as appropriate, to the responsible HHS official immediately or as soon as practicable, related to any significant incidents affecting the health and safety of program participants, circumstances affecting the financial viability of the program, breaches of personally identifiable information, or program involvement in legal proceedings, any matter for which notification or a report to state, tribal, or local authorities is required by applicable law, including at a minimum:
+(ii) Reports, as appropriate, to the responsible HHS official immediately but no later than 7 calendar days following the incident, related to:
 
-(A) Any reports regarding agency staff or volunteer compliance with federal, state, tribal, or local laws addressing child abuse and neglect or laws governing sex offenders;
+(A) Any significant incident that affects the health or safety of a child that occurs in a setting where Head Start services are provided and that involves:
 
-(B) Incidents that require classrooms or centers to be closed for any reason;
+(*1*) A staff member, contractor, or volunteer that participates in either a Head Start program or a classroom at least partially funded by Head Start, regardless of whether the child receives Head Start services; or
 
-(C) Legal proceedings by any party that are directly related to program operations; and,
+(*2*) A child that receives services fully or partially funded by Head Start or a child that participates in a classroom at least partially funded by Head Start; or
 
-(D) All conditions required to be reported under § 1304.12, including disqualification from the Child and Adult Care Food Program (CACFP) and license revocation.
+(B) Circumstances affecting the financial viability of the program; breaches of personally identifiable information, or program involvement in legal proceedings; any matter for which notification or a report to State, Tribal, or local authorities is required by applicable law; and
+
+(iii) Reportable incidents under paragraph (d)(1)(ii) of this section include at a minimum:
+
+(A) Any mandated reports regarding agency staff or volunteer compliance with Federal, State, Tribal, or local laws addressing child abuse and neglect or laws governing sex offenders;
+
+(B) Incidents that require classrooms or centers to be closed;
+
+(C) Legal proceedings by any party that are directly related to program operations;
+
+(D) All conditions required to be reported under § 1304.12 of this chapter, including disqualification from the Child and Adult Care Food Program (CACFP) and license revocation;
+
+(E) Any suspected or known maltreatment or endangerment of a child by staff, consultants, contractors, and volunteers under § 1302.90(c)(1)(ii);
+
+(F) Serious harm or injury of a child resulting from lack of preventative maintenance;
+
+(G) Serious harm, injury, or endangerment of a child resulting from lack of supervision; and,
+
+(H) Any unauthorized release of a child.
 
 (2) Annually, a program must publish and disseminate a report that complies with section 644(a)(2) of the Act and includes a summary of a program's most recent community assessment, as described in § 1302.11(b), consistent with privacy protections in subpart C of part 1303 of this chapter.
 
 (3) If a program has had a deficiency identified, it must submit, to the responsible HHS official, a quality improvement plan as required in section 641A(e)(2) of the Act.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67815, Aug. 21, 2024]

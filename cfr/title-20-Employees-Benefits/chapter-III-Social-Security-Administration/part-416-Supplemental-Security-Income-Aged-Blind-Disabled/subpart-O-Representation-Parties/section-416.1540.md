@@ -1,5 +1,7 @@
 ##### § 416.1540 Rules of conduct and standards of responsibility for representatives. #####
 
+Link to an amendment published at 89 FR 67556, Aug. 21, 2024.
+
 (a) *Purpose and scope.* (1) All attorneys or other persons acting on behalf of a party seeking a statutory right or benefit must, in their dealings with us, faithfully execute their duties as agents and fiduciaries of a party. A representative must provide competent assistance to the claimant and recognize our authority to lawfully administer the process. The following provisions set forth certain affirmative duties and prohibited actions that will govern the relationship between the representative and us, including matters involving our administrative procedures and fee collections.
 
 (2) All representatives must be forthright in their dealings with us and with the claimant and must comport themselves with due regard for the nonadversarial nature of the proceedings by complying with our rules and standards, which are intended to ensure orderly and fair presentation of evidence and argument.

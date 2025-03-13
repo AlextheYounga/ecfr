@@ -1,5 +1,7 @@
 ##### § 416.1520 Fee for a representative's services. #####
 
+Link to an amendment published at 89 FR 67555, Aug. 21, 2024.
+
 (a) *General.* A representative may charge and receive a fee for his or her services as a representative only as provided in paragraph (b) of this section.
 
 (b) *Charging and receiving a fee.* (1) The representative must file a written request with us before he or she may charge or receive a fee for his or her services.

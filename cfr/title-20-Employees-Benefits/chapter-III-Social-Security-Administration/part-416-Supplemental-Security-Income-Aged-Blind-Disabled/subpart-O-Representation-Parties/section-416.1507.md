@@ -1,5 +1,7 @@
 ##### § 416.1507 Appointing a representative. #####
 
+Link to an amendment published at 89 FR 67555, Aug. 21, 2024.
+
 We will recognize a person as your representative if the following things are done:
 
 (a) You sign a written notice stating that you want the person to be your representative in dealings with us.

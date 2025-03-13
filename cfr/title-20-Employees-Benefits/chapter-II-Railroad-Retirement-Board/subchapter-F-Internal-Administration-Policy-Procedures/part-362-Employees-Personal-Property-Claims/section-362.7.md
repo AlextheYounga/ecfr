@@ -2,4 +2,4 @@
 
 Claims are payable only for such types, quantities or amounts of tangible personal property as the Deputy General Counsel of the Board shall determine to be reasonable, useful, or proper under the circumstances existing at the time and place of the loss, theft or damage of the property. In determining what is reasonable, useful or proper the Deputy General Counsel will consider the type and quantity of property involved, the circumstances attending acquisition and use of the property, and whether possession or use by the employee at the time of loss, theft or damage was incident to the employee's service. What is reasonable, useful or proper is a question of fact to be determined by the Deputy General Counsel.
 
-(45 U.S.C. 231f(b)(5))[45 FR 57709, Aug. 29, 1980, as amended at 48 FR 51448, Nov. 9, 1983]
+(45 U.S.C. 231f(b)(5)) [45 FR 57709, Aug. 29, 1980, as amended at 48 FR 51448, Nov. 9, 1983]

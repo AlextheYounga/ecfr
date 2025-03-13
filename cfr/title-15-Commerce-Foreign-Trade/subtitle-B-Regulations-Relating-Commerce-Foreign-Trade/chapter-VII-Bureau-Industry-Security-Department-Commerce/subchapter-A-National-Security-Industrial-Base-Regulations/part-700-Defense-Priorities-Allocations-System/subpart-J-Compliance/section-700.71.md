@@ -1,8 +1,6 @@
 ##### § 700.71 Audits and investigations. #####
 
-Link to an amendment published at 89 FR 58976, July 22, 2024.
-
-(a) Audits and investigations are official actions involving the examination of books, records, documents, other writings and information to ensure that the provisions of the Defense Production Act, the Selective Service Act and related statutes, and this part have been properly followed. An audit or investigation may also include interviews and a systems evaluation to detect problems or failures in the implementation of this part.
+(a) Audits and investigations are official actions involving the examination of books, records, documents, other writings, and information to ensure that the provisions of the Defense Production Act, the Selective Service Act and related statutes, and this part have been properly followed. An audit or investigation may also include interviews and a systems evaluation to detect problems or failures in the implementation of this part.
 
 (b) When undertaking an audit, investigation, or other inquiry, the Department of Commerce shall:
 
@@ -30,4 +28,4 @@ Link to an amendment published at 89 FR 58976, July 22, 2024.
 
 (3) Any individual 18 years of age or older may serve an administrative subpoena, demand for information, or inspection authorization. When personal service is made, the individual making the service shall prepare an affidavit as to the manner in which service was made and the identity of the person served, and return the affidavit, and in the case of subpoenas, the original document, to the issuing officer. In case of failure to make service, the reasons for the failure shall be stated on the original document.
 
-[79 FR 47570, Aug. 14, 2014]
+[79 FR 47570, Aug. 14, 2014, as amended at 89 FR 58976, July 22, 2024]

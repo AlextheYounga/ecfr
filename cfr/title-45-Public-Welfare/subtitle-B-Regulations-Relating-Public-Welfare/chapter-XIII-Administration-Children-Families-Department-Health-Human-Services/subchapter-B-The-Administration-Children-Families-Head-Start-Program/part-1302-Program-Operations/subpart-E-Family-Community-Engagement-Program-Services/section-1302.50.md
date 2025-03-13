@@ -1,6 +1,6 @@
 ##### § 1302.50 Family engagement. #####
 
-(a) *Purpose.* A program must integrate parent and family engagement strategies into all systems and program services to support family well-being and promote children's learning and development. Programs are encouraged to develop innovative two-generation approaches that address prevalent needs of families across their program that may leverage community partnerships or other funding sources.
+(a) *Purpose.* A program must integrate parent and family engagement strategies into all systems and program services to support family well-being and promote children's learning and development. Programs are encouraged to develop innovative multi-generation approaches that address prevalent needs of families across their program that may leverage community partnerships or other funding sources. This includes communicating with families in a format that meets the needs of each individual family.
 
 (b) *Family engagement approach.* A program must:
 
@@ -15,3 +15,5 @@
 (5) Conduct family engagement services in the family's preferred language, or through an interpreter, to the extent possible, and ensure families have the opportunity to share personal information in an environment in which they feel safe; and,
 
 (6) Implement procedures for teachers, home visitors, and family support staff to share information with each other, as appropriate and consistent with the requirements in part 1303, subpart C, of this chapter; FERPA; or IDEA, to ensure coordinated family engagement strategies with children and families in the classroom, home, and community.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67811, Aug. 21, 2024]

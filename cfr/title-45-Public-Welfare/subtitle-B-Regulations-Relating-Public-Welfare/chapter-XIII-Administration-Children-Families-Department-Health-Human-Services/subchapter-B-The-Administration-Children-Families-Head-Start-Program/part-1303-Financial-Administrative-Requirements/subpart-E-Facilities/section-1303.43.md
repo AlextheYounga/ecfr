@@ -1,3 +1,5 @@
 ##### § 1303.43 Use of grant funds to pay fees. #####
 
-A grantee may submit a written request to the responsible HHS official for reasonable fees and costs necessary to determine preliminary eligibility under § 1303.42 before it submits an application under § 1303.44. If the responsible HHS official approves the grantee's application, the grantee may use federal funds to pay fees and costs.
+If a recipient seeks to use Federal funds for reasonable fees and costs necessary to submit an application under §§ 1303.42 and 1303.44, they must be granted approval from the responsible HHS official. Once approval is granted to use Federal funds to submit an application, the funds are allowable regardless of the outcome of the preliminary eligibility under § 1303.42 and the application under § 1303.44.
+
+[89 FR 67816, Aug. 21, 2024]

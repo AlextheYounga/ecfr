@@ -8,4 +8,6 @@
 
 (2) Have a process for communication with the policy council and policy committee; and
 
-(3) Within the guidelines established by the governing body, policy council or policy committee, participate in the recruitment and screening of Early Head Start and Head Start employees.
+(3) Within the guidelines established by the governing body, policy council, or policy committee, participate in the recruitment and screening of Head Start employees.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67806, Aug. 21, 2024]

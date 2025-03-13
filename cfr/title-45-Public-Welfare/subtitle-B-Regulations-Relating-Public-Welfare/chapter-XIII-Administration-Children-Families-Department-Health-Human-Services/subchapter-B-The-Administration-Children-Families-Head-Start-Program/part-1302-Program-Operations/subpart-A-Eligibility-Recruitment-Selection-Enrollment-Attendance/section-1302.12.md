@@ -12,11 +12,11 @@
 
 (3) If a program has an alternate method to reasonably determine eligibility based on its community assessment, geographic and administrative data, or from other reliable data sources, it may petition the responsible HHS official to waive requirements in paragraphs (a)(1)(i) and (ii) of this section.
 
-(b)  *Age requirements.* (1) For Early Head Start, except when the child is transitioning to Head Start, a child must be an infant or a toddler younger than three years old.
+(b)  *Age requirements.* (1) For Early Head Start, except when the child is transitioning to Head Start Preschool, a child must be an infant or a toddler younger than three years old.
 
-(2) For Head Start, a child must:
+(2) For Head Start Preschool, a child must:
 
-(i) Be at least three years old or, turn three years old by the date used to determine eligibility for public school in the community in which the Head Start program is located; and,
+(i) Be at least three years old or, turn three years old by the date used to determine eligibility for public school in the community in which the Head Start Preschool program is located; and,
 
 (ii) Be no older than the age required to attend school.
 
@@ -56,21 +56,11 @@
 
 (vii) The eligibility criteria category of each child on the program's waiting list.
 
-(e) *Additional allowances for Indian tribes.* (1) Notwithstanding paragraph (c)(2) of this section, a tribal program may fill more than 10 percent of its enrollment with participants who are not eligible under the criteria in paragraph (c) of this section, if:
+(e) *Additional allowances for Indian tribes.* (1) Notwithstanding paragraph (c) of this section, a Tribal program may determine any pregnant women or children in the approved service area to be eligible for services regardless of income, if they meet the requirements of paragraph (b) of this section.
 
-(i) The tribal program has served all eligible pregnant women or children who wish to be enrolled from Indian and non-Indian families living within the approved service area of the tribal agency;
+(2) An Indian Tribe or Tribes that operates both an Early Head Start program and a Head Start Preschool program may, at its discretion, at any time during the grant period involved, reallocate funds between the Early Head Start program and the Head Start Preschool program in order to address fluctuations in client populations, including pregnant women and children from birth to compulsory school age. The reallocation of such funds between programs by an Indian Tribe or Tribes during a year may not serve as a basis for any reduction of the base grant for either program in succeeding years.
 
-(ii) The tribe has resources within its grant, without using additional funds from HHS intended to expand Early Head Start or Head Start services, to enroll pregnant women or children whose family incomes exceed low-income guidelines or who are not otherwise eligible; and,
-
-(iii) At least 51 percent of the program's participants meet an eligibility criterion under paragraph (c)(1) of this section.
-
-(2) If another program does not serve the approved service area, the program must serve all eligible Indian and non-Indian pregnant women or children who wish to enroll before serving over-income pregnant women or children.
-
-(3) A program that meets the conditions of this paragraph (e) must annually set criteria that are approved by the policy council and the tribal council for selecting over-income pregnant women or children who would benefit from program services.
-
-(4) An Indian tribe or tribes that operates both an Early Head Start program and a Head Start program may, at its discretion, at any time during the grant period involved, reallocate funds between the Early Head Start program and the Head Start program in order to address fluctuations in client populations, including pregnant women and children from birth to compulsory school age. The reallocation of such funds between programs by an Indian tribe or tribes during a year may not serve as a basis for any reduction of the base grant for either program in succeeding years.
-
-(f) *Migrant or Seasonal eligibility requirements.* A child is eligible for Migrant or Seasonal Head Start, if the family meets an eligibility criterion in paragraphs (c) and (d) of this section; and the family's income comes primarily from agricultural work.
+(f) *Migrant or Seasonal eligibility requirements.* Notwithstanding paragraph (c) of this section, pregnant women and children are eligible for Migrant or Seasonal Head Start if they have at least one family member whose income comes primarily from agricultural employment as defined in section 3 of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1802), and if they meet the requirements of paragraph (b) of this section.
 
 (g) *Eligibility requirements for communities with 1,000 or fewer individuals.* (1) A program may establish its own criteria for eligibility provided that it meets the criteria outlined in section 645(a)(2) of the Act.
 
@@ -80,11 +70,19 @@
 
 (i) *Verifying eligibility.* (1) To verify eligibility based on income, program staff must use tax forms, pay stubs, or other proof of income to determine the family income for the relevant time period.
 
-(i) If the family cannot provide tax forms, pay stubs, or other proof of income for the relevant time period, program staff may accept written statements from employers, including individuals who are self-employed, for the relevant time period and use information provided to calculate total annual income with appropriate multipliers.
+(i) The program must calculate total gross income using applicable sources of income.
 
-(ii) If the family reports no income for the relevant time period, a program may accept the family's signed declaration to that effect, if program staff describes efforts made to verify the family's income, and explains how the family's total income was calculated or seeks information from third parties about the family's eligibility, if the family gives written consent. If a family gives consent to contact third parties, program staff must adhere to program safety and privacy policies and procedures and ensure the eligibility determination record adheres to paragraph (k)(2) of this section.
+(ii) A program may make an adjustment to a family's gross income calculation for the purposes of determining eligibility to account for excessive housing costs. A program may use available bills, bank statements, and other relevant documentation provided by the family to calculate total annual housing costs with appropriate multipliers to:
 
-(iii) If the family can demonstrate a significant change in income for the relevant time period, program staff may consider current income circumstances.
+(A) Determine if a family spends more than 30 percent of their total gross income on housing costs, as defined in part 1305 of this chapter; and
+
+(B) If applicable, reduce the total gross income by the amount spent on housing costs that exceed more than 30 percent.
+
+(iii) If the family cannot provide tax forms, pay stubs, or other proof of income for the relevant time period, program staff may accept written statements from employers, including individuals who are self-employed, for the relevant time period and use information provided to calculate total annual income with appropriate multipliers.
+
+(iv) If the family reports no income for the relevant time period, a program may accept the family's signed declaration to that effect, if program staff describes efforts made to verify the family's income, and explains how the family's total income was calculated or seeks information from third parties about the family's eligibility, if the family gives written consent. If a family gives consent to contact third parties, program staff must adhere to program safety and privacy policies and procedures and ensure the eligibility determination record adheres to paragraph (k)(2) of this section.
+
+(v) If the family can demonstrate a significant change in income for the relevant time period, program staff may consider current income circumstances.
 
 (2) To verify whether a family is eligible for, or in the absence of child care, would be potentially eligible for public assistance, the program must have documentation from either the state, local, or tribal public assistance agency that shows the family either receives public assistance or that shows the family is potentially eligible to receive public assistance.
 
@@ -102,9 +100,11 @@
 
 (2) Children who are enrolled in a program receiving funds under the authority of section 645A of the Act remain eligible while they participate in the program.
 
-(3) If a child moves from an Early Head Start program to a Head Start program, program staff must verify the family's eligibility again.
+(3) If a child moves from an Early Head Start program to a Head Start Preschool program, program staff must verify the family's eligibility again.
 
-(4) If a program operates both an Early Head Start and a Head Start program, and the parents wish to enroll their child who has been enrolled in the program's Early Head Start, the program must ensure, whenever possible, the child receives Head Start services until enrolled in school, provided the child is eligible.
+(4) If a program operates both an Early Head Start and a Head Start Preschool program, and the parents wish to enroll their child who has been enrolled in the program's Early Head Start, the program must ensure, whenever possible, the child receives Head Start Preschool services until enrolled in school, provided the child is eligible.
+
+(5) If a program operates a Migrant and Seasonal Head Start program, children younger than age three participating in the program remain eligible until they turn three years old consistent with paragraph (j)(2) of this section.
 
 (k) *Records.* (1) A program must keep eligibility determination records for each participant and ongoing records of the eligibility training for staff required by paragraph (m) of this section. A program may keep these records electronically.
 
@@ -132,7 +132,7 @@
 
 (3) A program must keep eligibility determination records for those currently enrolled, as long as they are enrolled, and, for one year after they have either stopped receiving services; or are no longer enrolled.
 
-(l) *Program policies and procedures on violating eligibility determination regulations.* A program must establish written policies and procedures that describe all actions taken against staff who intentionally violate federal and program eligibility determination regulations and who enroll pregnant women and children that are not eligible to receive Early Head Start or Head Start services.
+(l) *Program policies and procedures on violating eligibility determination regulations.* A program must establish written policies and procedures that describe all actions taken against staff who intentionally violate Federal and program eligibility determination regulations and who enroll pregnant women and children that are not eligible to receive Head Start services.
 
 (m) *Training on eligibility.* (1) A program must train all governing body, policy council, management, and staff who determine eligibility on applicable federal regulations and program policies and procedures. Training must, at a minimum:
 
@@ -147,3 +147,5 @@
 (3) A program must train all governing body and policy council members within 180 days of the beginning of the term of a new governing body or policy council.
 
 (4) A program must develop policies on how often training will be provided after the initial training.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67807, Aug. 21, 2024]

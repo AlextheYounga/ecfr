@@ -1,4 +1,4 @@
-##### § 1304.12 Grantee reporting requirements concerning certain conditions. #####
+##### § 1304.12 Grant recipient reporting requirements concerning certain conditions. #####
 
 A Head Start agency must report in writing to the responsible HHS official within 10 working days of occurrence of any of the following events:
 

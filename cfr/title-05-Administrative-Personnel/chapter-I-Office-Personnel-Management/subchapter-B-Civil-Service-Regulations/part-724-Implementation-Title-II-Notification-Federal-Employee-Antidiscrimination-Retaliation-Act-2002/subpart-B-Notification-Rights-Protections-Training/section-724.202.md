@@ -14,7 +14,7 @@
 
 (g) Unless an agency is exempt from the cited statutory provisions, the following is the minimum text to be included in the notice. Each agency may incorporate additional information within the model paragraphs, as appropriate.
 
-Model ParagraphsNo Fear Act Notice
+Model Paragraphs No Fear Act Notice
 
 On May 15, 2002, Congress enacted the “Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002,” which is now known as the No FEAR Act. One purpose of the Act is to “require that Federal agencies be accountable for violations of antidiscrimination and whistleblower protection laws.” Public Law 107-174, Summary. In support of this purpose, Congress found that “agencies cannot be run effectively if those agencies practice or tolerate discrimination.” Public Law 107-174, Title I, General Provisions, section 101(1).
 

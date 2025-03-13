@@ -16,10 +16,12 @@
 
 (iv) IFSPs and IEPs are being reviewed and revised, as required by IDEA; and,
 
-(v) Services are provided in a child's regular Early Head Start or Head Start classroom or family child care home to the greatest extent possible.
+(v) Services are provided in a child's regular Head Start classroom or family child care home to the greatest extent possible.
 
 (2) Plan and implement the transition services described in subpart G of this part, including at a minimum:
 
 (i) For children with an IFSP who are transitioning out of Early Head Start, collaborate with the parents, and the local agency responsible for implementing IDEA, to ensure appropriate steps are undertaken in a timely and appropriate manner to determine the child's eligibility for services under Part B of IDEA; and,
 
-(ii) For children with an IEP who are transitioning out of Head Start to kindergarten, collaborate with the parents, and the local agency responsible for implementing IDEA, to ensure steps are undertaken in a timely and appropriate manner to support the child and family as they transition to a new setting.
+(ii) For children with an IEP who are transitioning out of Head Start Preschool to kindergarten, collaborate with the parents, and the local agency responsible for implementing IDEA, to ensure steps are undertaken in a timely and appropriate manner to support the child and family as they transition to a new setting.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67812, Aug. 21, 2024]

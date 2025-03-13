@@ -10,4 +10,4 @@ In the administration of the Railroad Retirement Act of 1974, the Board may requ
 
 (d) Any other matter arising which involves the administration of the Railroad Retirement Act. Any person who knowingly fails or refuses to make any report or furnish any information required by the Board, may be punished by a fine of not more than $10,000 or by imprisonment not exceeding one year, or both.
 
-(Approved by the Office of Management and Budget under control number 3220-0089)[49 FR 46729, Nov. 2, 1984, as amended at 52 FR 11016, Apr. 6, 1987]
+(Approved by the Office of Management and Budget under control number 3220-0089) [49 FR 46729, Nov. 2, 1984, as amended at 52 FR 11016, Apr. 6, 1987]

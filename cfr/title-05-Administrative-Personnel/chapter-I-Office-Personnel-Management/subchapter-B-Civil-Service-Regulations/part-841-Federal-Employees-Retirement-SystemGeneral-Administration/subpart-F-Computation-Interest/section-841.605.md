@@ -40,7 +40,7 @@
 
 (i) Add one to the interest rate under § 841.603 for the current year.
 
-(ii) Raise the sum produced under paragraph (c)(2)(i) of this section to the1/12 power.
+(ii) Raise the sum produced under paragraph (c)(2)(i) of this section to the 1/12 power.
 
 (iii) Subtract one from the result of paragraph (c)(2)(ii) of this section to produce the interest rate for the month.
 

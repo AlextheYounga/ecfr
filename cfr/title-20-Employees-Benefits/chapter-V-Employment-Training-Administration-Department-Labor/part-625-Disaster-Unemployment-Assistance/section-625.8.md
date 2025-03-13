@@ -16,4 +16,4 @@
 
 (2) The provisions of the applicable State law which apply hereunder to applications for and the payment of DUA shall be applied consistent with the requirements of title III of the Social Security Act and the Federal Unemployment Tax Act which are pertinent in the case of regular compensation, including but not limited to those standards and requirements specifically referred to in the provisions of this part.
 
-(Approved by the Office of Management and Budget under control number 1205-0051)(Pub. L. No. 96-511)[42 FR 46712, Sept. 16, 1977, as amended at 49 FR 18295, Apr. 30, 1984; 55 FR 555, Jan. 5, 1990]
+(Approved by the Office of Management and Budget under control number 1205-0051)(Pub. L. No. 96-511) [42 FR 46712, Sept. 16, 1977, as amended at 49 FR 18295, Apr. 30, 1984; 55 FR 555, Jan. 5, 1990]

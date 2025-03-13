@@ -6,7 +6,7 @@
 
 (c) Unless otherwise provided, a license or other authorization issued by OFAC before, during, or after a transfer shall validate such transfer or make it enforceable to the same extent that it would be valid or enforceable but for the provisions of this part and any regulation, ruling, instruction, order, directive, or license issued pursuant to this part.
 
-(d) Transfers of property that otherwise would be null and void or unenforceable by virtue of the provisions of this section shall not be deemed to be null and void or unenforceable as to any person with whom such property is or was held or maintained (and as to such person only) in cases in which such person is able to establish to the satisfaction of the Director of the Office of Foreign Assets Control each of the following:
+(d) Transfers of property that otherwise would be null and void or unenforceable by virtue of the provisions of this section shall not be deemed to be null and void or unenforceable as to any person with whom such property is or was held or maintained (and as to such person only) in cases in which such person is able to establish to the satisfaction of OFAC each of the following:
 
 (1) Such transfer did not represent a willful violation of the provisions of this part by the person with whom such property is or was held or maintained (and as to such person only);
 
@@ -24,4 +24,4 @@
 
 (f) Unless licensed pursuant to this part, any attachment, judgment, decree, lien, execution, garnishment, or other judicial process is null and void with respect to any property or interest in property blocked pursuant to § 546.201.
 
-[74 FR 25432, May 28, 2009, as amended at 89 FR 15747, Mar. 5, 2024]
+[74 FR 25432, May 28, 2009, as amended at 89 FR 15747, Mar. 5, 2024; 89 FR 67557, Aug. 21, 2024]

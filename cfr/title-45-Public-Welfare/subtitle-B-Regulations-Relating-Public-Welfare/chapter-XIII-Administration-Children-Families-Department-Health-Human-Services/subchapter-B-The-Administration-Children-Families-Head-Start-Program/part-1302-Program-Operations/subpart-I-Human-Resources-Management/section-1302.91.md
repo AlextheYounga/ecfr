@@ -2,7 +2,7 @@
 
 (a) *Purpose.* A program must ensure all staff, consultants, and contractors engaged in the delivery of program services have sufficient knowledge, training and experience, and competencies to fulfill the roles and responsibilities of their positions and to ensure high-quality service delivery in accordance with the program performance standards. A program must provide ongoing training and professional development to support staff in fulfilling their roles and responsibilities.
 
-(b) *Early Head Start or Head Start director.* A program must ensure an Early Head Start or Head Start director hired after November 7, 2016, has, at a minimum, a baccalaureate degree and experience in supervision of staff, fiscal management, and administration.
+(b) *Head Start director.* A program must ensure a Head Start director hired after November 7, 2016, has, at a minimum, a baccalaureate degree and experience in supervision of staff, fiscal management, and administration.
 
 (c) *Fiscal officer.* A program must assess staffing needs in consideration of the fiscal complexity of the organization and applicable financial management requirements and secure the regularly scheduled or ongoing services of a fiscal officer with sufficient education and experience to meet their needs. A program must ensure a fiscal officer hired after November 7, 2016, is a certified public accountant or has, at a minimum, a baccalaureate degree in accounting, business, fiscal management, or a related field.
 
@@ -12,11 +12,11 @@
 
 (e) *Child and family services staff*—(1) *Early Head Start center-based teacher qualification requirements.* As prescribed in section 645A(h) of the Act, a program must ensure center-based teachers that provide direct services to infants and toddlers in Early Head Start centers have a minimum of a Child Development Associate (CDA) credential or comparable credential, and have been trained or have equivalent coursework in early childhood development with a focus on infant and toddler development.
 
-(2) *Head Start center-based teacher qualification requirements.* (i) The Secretary must ensure no less than fifty percent of all Head Start teachers, nationwide, have a baccalaureate degree in child development, early childhood education, or equivalent coursework.
+(2) *Head Start Preschool center-based teacher qualification requirements.* (i) The Secretary must ensure no less than fifty percent of all Head Start Preschool teachers, nation- wide, have a baccalaureate degree in child development, early childhood education, or equivalent coursework.
 
 (ii) As prescribed in section 648A(a)(3)(B) of the Act, a program must ensure all center-based teachers have at least an associate's or bachelor's degree in child development or early childhood education, equivalent coursework, or otherwise meet the requirements of section 648A(a)(3)(B) of the Act.
 
-(3) *Head Start assistant teacher qualification requirements.* As prescribed in section 648A(a)(2)(B)(ii) of the Act, a program must ensure Head Start assistant teachers, at a minimum, have a CDA credential or a state-awarded certificate that meets or exceeds the requirements for a CDA credential, are enrolled in a program that will lead to an associate or baccalaureate degree or, are enrolled in a CDA credential program to be completed within two years of the time of hire.
+(3) *Head Start Preschool assistant teacher qualification requirements.* As prescribed in section 648A(a)(2)(B)(ii) of the Act, a program must ensure Head Start Preschool assistant teachers, at a minimum, have a CDA credential or a State-awarded certificate that meets or exceeds the requirements for a CDA credential, are enrolled in a program that will lead to an associate or baccalaureate degree or, are enrolled in a CDA credential program to be completed within two years of the time of hire.
 
 (4) *Family child care provider qualification requirements.* (i) A program must ensure family child care providers have previous early child care experience and, at a minimum, are enrolled in a Family Child Care CDA program or state equivalent, or an associate's or baccalaureate degree program in child development or early childhood education prior to beginning service provision, and for the credential acquire it within eighteen months of beginning to provide services.
 
@@ -34,8 +34,10 @@
 
 (8) *Health professional qualification requirements.* (i) A program must ensure health procedures are performed only by a licensed or certified health professional.
 
-(ii) A program must ensure all mental health consultants are licensed or certified mental health professionals. A program must use mental health consultants with knowledge of and experience in serving young children and their families, if available in the community.
+(ii) A program must ensure all mental health consultants are licensed or under the supervision of a licensed mental health professional. A program must use mental health consultants with knowledge of and experience in serving young children and their families.
 
 (iii) A program must use staff or consultants to support nutrition services who are registered dieticians or nutritionists with appropriate qualifications.
 
 (f) *Coaches.* A program must ensure coaches providing the services described in § 1302.92(c) have a minimum of a baccalaureate degree in early childhood education or a related field.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67814, Aug. 21, 2024]

@@ -26,8 +26,7 @@ You may enroll:
 
 (e) For a *sponsor* who becomes eligible as a *TEI,* from 31 days before you lose other dental or vision coverage as an active duty service member to 60 days after you become eligible to enroll as a uniformed services retiree who is a *TEI;*
 
-(f) From 31 days before you get married to 60 days after;
-)
+(f) From 31 days before you get married to 60 days after; )
 
 (g) Within 60 days after returning to Federal employment or employment with the United States Postal Service after being on leave without pay if you did not have Federal dental or vision coverage prior to going on leave without pay, or your coverage was terminated or canceled during your period of leave without pay;
 

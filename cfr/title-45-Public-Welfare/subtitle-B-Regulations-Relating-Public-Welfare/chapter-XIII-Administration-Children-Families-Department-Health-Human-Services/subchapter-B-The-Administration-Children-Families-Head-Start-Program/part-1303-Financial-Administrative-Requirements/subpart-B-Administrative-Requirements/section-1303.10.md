@@ -1,3 +1,3 @@
 ##### § 1303.10 Purpose. #####
 
-A grantee must observe standards of organization, management, and administration that will ensure, so far as reasonably possible, that all program activities are conducted in a manner consistent with the purposes of the Act and the objective of providing assistance effectively, efficiently, and free of any taint of partisan political bias or personal or family favoritism.
+A grant recipient must observe standards of organization, management, and administration that will ensure, so far as reasonably possible, that all program activities are conducted in a manner consistent with the purposes of the Act and the objective of providing assistance effectively, efficiently, and free of any taint of partisan political bias or personal or family favoritism.

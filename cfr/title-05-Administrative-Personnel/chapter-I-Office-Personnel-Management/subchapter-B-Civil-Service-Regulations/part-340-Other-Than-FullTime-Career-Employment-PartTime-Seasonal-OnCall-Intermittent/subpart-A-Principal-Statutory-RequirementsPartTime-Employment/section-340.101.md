@@ -128,7 +128,7 @@ Sec. 2. (a) The Congress finds that—
 
 (b) Subpart B of the table of chapters of part III of the analysis of chapter 33 of title 5, United States Code, is amended by inserting after the item relating to section 3385 the following:
 
-**“SUBCHAPTER VII—PART-TIME CAREER EMPLOYMENT OPPORTUNITIES**“Sec.“3401. Definitions.“3402. Establishment of part-time career employment programs.“3403. Limitations.“3404. Personnel ceilings.“3405. Nonapplicability.“3406. Regulations.“3407. Reports.“3408. Employee organization representation.
+**“SUBCHAPTER VII—PART-TIME CAREER EMPLOYMENT OPPORTUNITIES**“Sec. “3401. Definitions. “3402. Establishment of part-time career employment programs. “3403. Limitations. “3404. Personnel ceilings. “3405. Nonapplicability. “3406. Regulations. “3407. Reports. “3408. Employee organization representation.
 
 Sec. 4. (a) Section 8347(g) of title 5, United States Code, is amended by adding at the end thereof the following: “However, the Commission may not exclude any employee who occupies a position on a part-time career employment basis (as defined in section 3391(2) of this title).”.
 

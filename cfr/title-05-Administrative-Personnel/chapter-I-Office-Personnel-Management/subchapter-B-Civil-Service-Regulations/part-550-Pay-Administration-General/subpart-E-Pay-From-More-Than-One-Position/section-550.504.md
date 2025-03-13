@@ -4,4 +4,4 @@
 
 (b) The Office of Personnel Management will publish exceptions of general application.
 
-(5 U.S.C. 1104; Pub. L. 95-454, sec. 3(5))[44 FR 54694, Sept. 21, 1979, as amended at 66 FR 66711, Dec. 27, 2001]
+(5 U.S.C. 1104; Pub. L. 95-454, sec. 3(5)) [44 FR 54694, Sept. 21, 1979, as amended at 66 FR 66711, Dec. 27, 2001]

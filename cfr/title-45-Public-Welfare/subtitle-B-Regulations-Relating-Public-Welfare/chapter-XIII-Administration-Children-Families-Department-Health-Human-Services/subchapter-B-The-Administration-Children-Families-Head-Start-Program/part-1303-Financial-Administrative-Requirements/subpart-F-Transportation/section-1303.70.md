@@ -8,10 +8,12 @@
 
 (3) A program that provides transportation services must ensure all accidents involving vehicles that transport children are reported in accordance with applicable state requirements.
 
-(c) *Waiver.* (1) A program that provides transportation services must comply with all provisions in this subpart. A Head Start program may request to waive a specific requirement in this part, in writing, to the responsible HHS official, as part of an agency's annual application for financial assistance or amendment and must submit any required documentation the responsible HHS official deems necessary to support the waiver. The responsible HHS official is not authorized to waive any requirements with regard to children enrolled in an Early Head Start program. A program may request a waiver when:
+(c) *Waiver.* (1) A program that provides transportation services must comply with all provisions in this subpart. A Head Start Preschool program may request to waive a specific requirement in this part, in writing, to the responsible HHS official, as part of an agency's annual application for financial assistance or amendment and must submit any required documentation the responsible HHS official deems necessary to support the waiver. The responsible HHS official is not authorized to waive any requirements with regard to children enrolled in an Early Head Start program. A program may request a waiver when:
 
 (i) Adherence to a requirement in this part would create a safety hazard in the circumstances faced by the agency; and,
 
 (ii) For preschool children, compliance with requirements related to child restraint systems at §§ 1303.71(d) and 1303.72(a)(1) or bus monitors at § 1303.72(a)(4) will result in a significant disruption to the program and the agency demonstrates that waiving such requirements is in the best interest of the children involved.
 
 (2) The responsible HHS official is not authorized to waive any requirements of the Federal Motor Vehicle Safety Standards (FMVSS) made applicable to any class of vehicle under 49 CFR part 571.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67816, Aug. 21, 2024]
