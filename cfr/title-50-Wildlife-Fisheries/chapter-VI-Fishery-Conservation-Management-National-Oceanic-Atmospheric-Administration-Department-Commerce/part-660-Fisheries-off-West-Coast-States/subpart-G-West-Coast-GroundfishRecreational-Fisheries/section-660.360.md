@@ -1,6 +1,6 @@
 ##### § 660.360 Recreational fishery—management measures. #####
 
-Link to an amendment published at 88 FR 83363, Nov. 29, 2023.
+Link to an amendment published at 88 FR 83363, Nov. 29, 2023.Link to an amendment published at 88 FR 83859, Dec. 1, 2023.
 
 (a) *General.* Federal recreational groundfish regulations are not intended to supersede any more restrictive state recreational groundfish regulations relating to federally-managed groundfish. The bag limits include fish taken in both state and Federal waters.
 

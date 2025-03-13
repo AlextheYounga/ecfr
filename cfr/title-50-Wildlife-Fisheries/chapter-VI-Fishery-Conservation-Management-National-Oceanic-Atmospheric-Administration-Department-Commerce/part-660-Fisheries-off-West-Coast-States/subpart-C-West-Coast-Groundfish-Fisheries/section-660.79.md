@@ -1,5 +1,7 @@
 ##### § 660.79 EFHCAs off the Coast of California. #####
 
+Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
+
 (a) *General.* Boundary line coordinates for EFHCA off California are provided in this section. Fishing activity that is prohibited or permitted within the EEZ in a particular area designated as a groundfish EFHCA is detailed at §§ 660.12, 660.112, 660.130, 660.212, 660.230, 660.312, 660.330, and 660.360.
 
 (b) *Brush Patch.* The boundary of the Brush Patch EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 41°51.03′ N lat., 124°48.65′ W long.:
@@ -1052,7 +1054,7 @@
 
 (7) 32°40.49′ N lat., 118°02.00′ W long.
 
-(bbb) *Southern California Bight.* The boundary of the Southern California Bight EFHCA is defined as the area that includes all waters within the West Coast EEZ that is: south of a straight line connecting 34°02.65′ N lat., 120°54.25′ W long. and 34°23.09′ N lat., 120°30.98′ W long.; shoreward (east and northeast) of the boundary line approximating the 700-fm (1280-m) depth contour, defined at § 660.76(b) and seaward (south and southwest) of a line defined by the inner boundary of the West Coast EEZ and a series of straight lines connecting the coordinates listed below in the order stated. The straight line segments and coordinates defined below exclude nearshore portions of the West Coast EEZ from this EFHCA.
+(bbb) *Southern California Bight.* The boundary of the Southern California Bight EFHCA is defined as the area that includes all waters within the West Coast EEZ that is: south of a straight line connecting 34°02.65′ N lat., 120°54.25′ W long. And 34°23.09′ N lat., 120°30.98′ W long.; shoreward (east and northeast) of the boundary line approximating the 700-fm (1280-m) depth contour, defined at § 660.76(b) and seaward (south and southwest) of a line defined by the inner boundary of the West Coast EEZ and a series of straight lines connecting the coordinates listed below in the order stated. The straight line segments and coordinates defined below exclude nearshore portions of the West Coast EEZ from this EFHCA.
 
 (1) *Northern Boundary.* The northern boundary of the Southern California Bight EFHCA is a straight line connecting the following points in the order stated.
 

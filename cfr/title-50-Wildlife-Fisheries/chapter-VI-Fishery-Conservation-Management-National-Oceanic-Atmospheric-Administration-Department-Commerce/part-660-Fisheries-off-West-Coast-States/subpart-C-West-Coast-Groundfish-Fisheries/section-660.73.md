@@ -1,5 +1,7 @@
 ##### § 660.73 Latitude/longitude coordinates defining the 100 fm (183 m) through 150 fm (274 m) depth contours. #####
 
+Link to an amendment published at 88 FR 83846, Dec. 1, 2023.
+
 Boundaries for some GCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 100 fm (183 m) through 150 fm (274 m) depth contours.
 
 (a) The 100-fm (183-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:

@@ -1,7 +1,5 @@
 ##### § 54.627 Invoicing process and certifications. #####
 
-Link to an amendment published at 88 FR 17397, Mar. 23, 2023.
-
 (a) *Invoice filing deadline.* Invoices must be submitted to the Administrator within 120 days after the later of:
 
 (1) The service delivery deadline, as defined in § 54.626; or
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 17397, Mar. 23, 2023.
 
 (C) It is authorized to submit this request on behalf of the health care provider;
 
-(D) It has examined the invoice and supporting documentation and that to the best of its knowledge, information and belief, all statements of fact contained in the invoice and supporting documentation are true;
+(D) It has examined the invoice form and supporting documentation and that to the best of its knowledge, information and belief, all statements of fact contained in the invoice form and supporting documentation are true;
 
 (E) It or the consortium it represents satisfies all of the requirements and will abide by all of the relevant requirements, including all applicable Commission rules, with respect to universal service benefits provided under 47 U.S.C. 254; and
 
@@ -82,4 +80,4 @@ Link to an amendment published at 88 FR 17397, Mar. 23, 2023.
 
 (H) As a condition of receiving support, it will provide to the health care providers, on a timely basis, all documents regarding supported equipment, facilities, or services that are necessary for the health care provider to submit required forms or respond to Commission or Administrator inquiries.
 
-[84 FR 54979, Oct. 11, 2019, as amended at 88 FR 17397, Mar. 23, 2023]
+[84 FR 54979, Oct. 11, 2019, as amended at 88 FR 17397, Mar. 23, 2023; 88 FR 17397, Mar. 23, 2023]

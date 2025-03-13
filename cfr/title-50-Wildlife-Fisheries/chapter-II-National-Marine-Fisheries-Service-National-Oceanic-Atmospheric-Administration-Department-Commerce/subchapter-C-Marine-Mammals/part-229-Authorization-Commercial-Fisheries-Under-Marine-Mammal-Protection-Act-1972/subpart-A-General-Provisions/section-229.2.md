@@ -196,4 +196,4 @@ In addition to the definitions contained in the Act and § 216.3 of this chapter
 
 *Weak link* means a breakable component of gear that will part when subject to a certain tension load.
 
-[60 FR 45100, Aug. 30, 1995]Editorial Note:For Federal Register citations affecting § 229.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[60 FR 45100, Aug. 30, 1995]Editorial Note:For Federal Register citations affecting § 229.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

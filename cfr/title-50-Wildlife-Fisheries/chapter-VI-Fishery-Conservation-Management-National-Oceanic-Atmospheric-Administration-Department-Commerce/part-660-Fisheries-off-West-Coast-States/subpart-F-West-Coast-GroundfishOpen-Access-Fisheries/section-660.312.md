@@ -1,5 +1,7 @@
 ##### § 660.312 Open access fishery—prohibitions. #####
 
+Link to an amendment published at 88 FR 83852, Dec. 1, 2023.
+
 In addition to the general prohibitions specified in §§ 660.12 and 600.725 of this chapter, it is unlawful for any person to:
 
 (a) *General.* (1) Take and retain, possess, or land groundfish in excess of the landing limit for the open access fishery without having a valid limited entry permit for the vessel affixed with a gear endorsement for the gear used to catch the fish.

@@ -1,7 +1,5 @@
 ##### § 240.4 Presentment guarantees. #####
 
-Link to an amendment published at 88 FR 74889, Nov. 1, 2023.
-
 The guarantors of a check presented to the Treasury for payment are deemed to guarantee to the Treasury all of the following:
 
 (a) *Indorsements.* That all prior indorsements are genuine, whether or not an express guarantee is placed on the check. When the first indorsement has been made by one other than the payee personally, the presenting bank and the indorsers are deemed to guarantee to the Treasury, in addition to other guarantees, that the person who so indorsed had unqualified capacity and authority to indorse the check on behalf of the payee.
@@ -10,7 +8,7 @@ The guarantors of a check presented to the Treasury for payment are deemed to gu
 
 (c) *Drawer's signature.* That the guarantors have no knowledge that the signature of the drawer is forged or unauthorized.
 
-(d) *Authenticity.* That the guarantors have made all reasonable efforts to ensure that a check is an authentic Treasury check, not a counterfeit check.
+(d) *Authenticity and validity.* That the guarantors have made all reasonable efforts to ensure that a check is both an authentic Treasury check (*i.e.,* it is not a counterfeit check) and a valid Treasury check (*i.e.,* it has not been previously negotiated or canceled).
 
 (e) *Electronic check.* If the check is an electronic check, that—
 
@@ -21,3 +19,5 @@ The guarantors of a check presented to the Treasury for payment are deemed to gu
 (3) Treasury's receipt of the electronic check instead of the original or substitute check will not result in the loss of Treasury's ability to determine whether the check contains a material defect or alteration.
 
 (f) *Substitute check.* If the check is a substitute check, that the guarantors make the warranties set forth at 12 CFR 229.52(a)(1) and (2) and the indemnity set forth at 12 CFR 229.53.
+
+[69 FR 61568, Oct. 19, 2004, as amended at 88 FR 74889, Nov. 1, 2023]

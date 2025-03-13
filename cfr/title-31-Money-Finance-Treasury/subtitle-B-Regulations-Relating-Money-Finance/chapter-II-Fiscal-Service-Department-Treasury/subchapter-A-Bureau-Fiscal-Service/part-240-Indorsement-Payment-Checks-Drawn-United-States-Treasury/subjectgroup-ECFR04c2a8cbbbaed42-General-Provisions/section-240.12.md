@@ -1,14 +1,14 @@
 ##### § 240.12 Processing of checks. #####
 
-Link to an amendment published at 88 FR 74889, Nov. 1, 2023.
-
 (a) *Federal Reserve Banks.* (1) Federal Reserve Banks must cash checks for Government disbursing officials when such checks are drawn by the disbursing officials to their own order, except that payment of such checks must be refused if:
 
 (i) A check bears a material defect or alteration;
 
-(ii) A check was issued more than one year prior to the date of presentment; or
+(ii) A check was issued more than one year prior to the date of presentment;
 
-(iii) The Federal Reserve Bank has been notified by Treasury, in accordance with § 240.15(c), that a check was issued to a deceased payee.
+(iii) The Federal Reservice Bank has been notified by Treasury, in accordance with § 240.15(c), that a check was issued to a deceased payee; or
+
+(iv) The Federal Reserve Bank has been notified by Treasury that a check is not valid.
 
 (2) Federal Reserve Banks are not required to cash checks presented directly to them by the general public.
 
@@ -33,3 +33,5 @@ Link to an amendment published at 88 FR 74889, Nov. 1, 2023.
 (3) To ensure complete recovery of the amount due, reclamation refunds require payment in United States dollars with checks drawn on or payable through United States financial institutions located in the United States. Reclamation refunds initiated by financial institutions outside of the United States must be sent through their headquarters or U.S. correspondent financial institution only. The payments should be accompanied by documentation identifying the check that was the subject of the reclamation (such as a copy of the reclamation notice or the current monthly statement). Reclamation refunds shall not be deposited to Treasury's General Account.
 
 (4) Additional information relating to designated depositaries outside the United States may be found in Volume VI, Chapter 2000, of the Treasury Financial Manual, which can be found at *http://www.fiscal.treasury.gov.*
+
+[69 FR 61568, Oct. 19, 2004, as amended at 88 FR 74889, Nov. 1, 2023]

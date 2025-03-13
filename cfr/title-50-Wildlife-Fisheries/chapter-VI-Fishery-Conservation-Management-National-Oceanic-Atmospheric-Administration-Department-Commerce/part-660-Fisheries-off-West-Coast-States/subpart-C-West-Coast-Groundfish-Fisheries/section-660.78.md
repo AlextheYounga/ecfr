@@ -1,5 +1,7 @@
 ##### § 660.78 EFHCAs off the Coast of Oregon. #####
 
+Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
+
 (a) *General.* Boundary line coordinates for EFHCAs off Oregon are provided in this section. Fishing activity that is prohibited or permitted within the EEZ in a particular area designated as a groundfish EFHCA is detailed at §§ 660.12, 660.112, 660.130, 660.212, 660.230, 660.312, 660.330, and 660.360.
 
 (b) *Astoria Deep.* The boundary of the Astoria Deep EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 46°03.00′ N lat., 124°57.36′ W long.:
