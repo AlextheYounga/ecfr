@@ -8,4 +8,4 @@
 
 (b) The Administrator may temporarily designate any nonquarantined area as a quarantined area in accordance with the criteria specified in paragraph (a) of this section. The Administrator will give written notice of this designation to owner or person in possession of the nonquarantined area, or in the case of publicly owned land, to the person responsible for the management of nonquarantined area. Thereafter, the interstate movement of any regulated articles from an area temporarily designated as quarantined area is subject to this subpart. As soon as practicable, this area will either be added to the quarantine list or the Administrator will terminate the designation. The owner or, in the case of publicly owned land, the person responsible for the management of, an area for which the designation has terminated will be given written notice of the termination as soon as practicable.
 
-[87 FR 80006, Dec. 29, 2022][62 FR 10416, Mar. 7, 1997, as amended at 87 FR 80006, Dec. 29, 2022]
+[87 FR 80006, Dec. 29, 2022] [62 FR 10416, Mar. 7, 1997, as amended at 87 FR 80006, Dec. 29, 2022]

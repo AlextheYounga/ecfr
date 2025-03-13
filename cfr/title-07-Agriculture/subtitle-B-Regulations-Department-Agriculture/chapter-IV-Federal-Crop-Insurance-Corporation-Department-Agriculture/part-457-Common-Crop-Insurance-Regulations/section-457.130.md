@@ -2,7 +2,7 @@
 
 The macadamia tree crop insurance provisions for the 2016 and succeeding crop years are as follows:
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider).Both FCIC and reinsured policies:Macadamia Tree Crop Provisions1. Definitions
+FCIC Policies Department of Agriculture Federal Crop Insurance Corporation Reinsured Policies (Appropriate title for insurance provider). Both FCIC and reinsured policies: Macadamia Tree Crop Provisions 1. Definitions
 
 *Age.* The number of complete 12-month periods that have elapsed since the month the trees were set out or were grafted, whichever is later. Age determination will be made for each unit, or portion thereof, as of January 1 of each crop year.
 

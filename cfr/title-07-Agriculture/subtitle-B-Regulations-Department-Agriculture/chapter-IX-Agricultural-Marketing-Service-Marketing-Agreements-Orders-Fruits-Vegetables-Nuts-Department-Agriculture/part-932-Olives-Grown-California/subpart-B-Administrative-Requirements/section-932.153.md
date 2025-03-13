@@ -6,12 +6,12 @@
 
 (1) The processed olives shall be identified and kept separate and apart from any olives harvested before August 1, 1996.
 
-(2) Variety Group 1 olives, except the Ascolano, Barouni, or St. Agostino varieties, shall be of a size which individually weigh at least1/105 pound: *Provided,* That no more than 35 percent of the olives in any lot or sublot may be smaller than1/105 pound.
+(2) Variety Group 1 olives, except the Ascolano, Barouni, or St. Agostino varieties, shall be of a size which individually weigh at least 1/105 pound: *Provided,* That no more than 35 percent of the olives in any lot or sublot may be smaller than 1/105 pound.
 
-(3) Variety Group 1 olives of the Ascolano, Barouni, or St. Agostino varieties shall be of a size which individually weigh at least1/180 pound: *Provided,* That no more than 35 percent of the olives in any lot or sublot may be smaller than1/180 pound.
+(3) Variety Group 1 olives of the Ascolano, Barouni, or St. Agostino varieties shall be of a size which individually weigh at least 1/180 pound: *Provided,* That no more than 35 percent of the olives in any lot or sublot may be smaller than 1/180 pound.
 
-(4) Variety Group 2 olives, except the Obliza variety, shall be of a size which individually weigh at least1/205 pound: *Provided,* That not to exceed 35 percent of the olives in any lot or sublot may be smaller than1/205 pound.
+(4) Variety Group 2 olives, except the Obliza variety, shall be of a size which individually weigh at least 1/205 pound: *Provided,* That not to exceed 35 percent of the olives in any lot or sublot may be smaller than 1/205 pound.
 
-(5) Variety Group 2 olives of the Obliza variety shall be of a size which individually weigh at least1/180 pound: *Provided,* That not to exceed 35 percent of the olives in any lot or sublot may be smaller than1/180 pound.
+(5) Variety Group 2 olives of the Obliza variety shall be of a size which individually weigh at least 1/180 pound: *Provided,* That not to exceed 35 percent of the olives in any lot or sublot may be smaller than 1/180 pound.
 
 [61 FR 40510, Aug. 5, 1996, as amended at 62 FR 1244, Jan. 9, 1997]

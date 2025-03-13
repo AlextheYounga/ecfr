@@ -14,6 +14,6 @@ In order to allow for variations incident to proper grading and handling, the fo
 
 (e) *For particles and dust.* One-tenth of 1 percent (0.10 percent);
 
-(f) *For split and broken kernels.* 5 percent: Provided, that not more than two-fifths of this amount, or 2 percent, shall be allowed for pieces which will pass through a round opening20/64 inch (7.9 mm) in diameter; and,
+(f) *For split and broken kernels.* 5 percent: Provided, that not more than two-fifths of this amount, or 2 percent, shall be allowed for pieces which will pass through a round opening 20/64 inch (7.9 mm) in diameter; and,
 
 (g) *For other defects.* 3 percent, including not more than two-thirds of this amount, or 2 percent, for serious damage.

@@ -1,6 +1,6 @@
 ##### § 948.126 General cull regulation. #####
 
-(a) No handler shall handle potatoes grown in the State of Colorado which do not meet the requirements of U.S. No. 2 or better grade, or are less than3/4-inch in diameter.
+(a) No handler shall handle potatoes grown in the State of Colorado which do not meet the requirements of U.S. No. 2 or better grade, or are less than 3/4-inch in diameter.
 
 (b) This General Cull Regulation shall remain in effect until suspended or modified pursuant to § 948.20(a)(2).
 

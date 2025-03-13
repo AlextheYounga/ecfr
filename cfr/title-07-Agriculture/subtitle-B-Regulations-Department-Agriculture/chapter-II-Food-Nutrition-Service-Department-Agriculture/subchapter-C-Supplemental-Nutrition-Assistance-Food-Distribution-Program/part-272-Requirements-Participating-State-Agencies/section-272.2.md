@@ -140,8 +140,7 @@ DateSignature(Chief Executive Officer of a State or Authorized Designee)DateSign
 
 (C) For each of fiscal years (FY) 2011-2013, each State agency that submitted an approved 2009 SNAP-Ed Plan received a Federal grant based on the State's SNAP-Ed expenditures in FY 2009, as reported to the Secretary in February 2010, in proportion to FY 2009 SNAP-Ed expenditures by all States in that year.
 
-(D) For FY 2014 and subsequent years, the allocation formula (prescribed in
-section 28(d)(2)(A) of the Food and Nutrition Act of 2008) is based on a ratio of:
+(D) For FY 2014 and subsequent years, the allocation formula (prescribed in section 28(d)(2)(A) of the Food and Nutrition Act of 2008) is based on a ratio of:
 
 (*1*) A State's share of national SNAP-Ed expenditures in FY 2009 in relation to State SNAP-Ed expenditures nationally (as described in paragraph (d)(2)(x)(C) of this section) and
 

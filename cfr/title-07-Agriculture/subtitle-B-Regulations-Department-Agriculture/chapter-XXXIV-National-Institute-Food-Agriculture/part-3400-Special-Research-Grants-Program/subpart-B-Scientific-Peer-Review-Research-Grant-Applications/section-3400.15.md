@@ -14,7 +14,7 @@
 
 (6) Enhance human health.
 
-In carrying out its review under § 3400.14, the peer review group will use the following form upon which the evaluation criteria to be used are enumerated, unless pursuant to § 3400.5(a), different evaluation criteria are specified in the annual solicitation of proposals for a particular program.Peer Panel Scoring FormProposal Identification No.Institution and Project TitleI. Basic Requirement:
+In carrying out its review under § 3400.14, the peer review group will use the following form upon which the evaluation criteria to be used are enumerated, unless pursuant to § 3400.5(a), different evaluation criteria are specified in the annual solicitation of proposals for a particular program.Peer Panel Scoring FormProposal Identification No. Institution and Project TitleI. Basic Requirement:
 
 Proposal falls within guidelines? \_\_\_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_\_\_ No. If no, explain why proposal does not meet guidelines under comment section of this form.
 

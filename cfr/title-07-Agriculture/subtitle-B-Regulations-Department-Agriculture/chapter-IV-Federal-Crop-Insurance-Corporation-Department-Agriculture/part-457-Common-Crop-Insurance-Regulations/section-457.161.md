@@ -2,7 +2,7 @@
 
 The Canola and Rapeseed Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-United States Department of AgricultureFederal Crop Insurance CorporationCanola and Rapeseed Crop Provisions
+United States Department of Agriculture Federal Crop Insurance Corporation Canola and Rapeseed Crop Provisions
 
 In return for your payment of premium and administrative fee for the coverage, these Canola and Rapeseed Crop Provisions and corresponding Commodity Exchange Price Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 

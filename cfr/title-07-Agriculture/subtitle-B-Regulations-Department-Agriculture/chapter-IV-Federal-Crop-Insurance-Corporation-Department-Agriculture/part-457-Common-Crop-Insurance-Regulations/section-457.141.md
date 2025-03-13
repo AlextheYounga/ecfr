@@ -2,7 +2,7 @@
 
 The Rice Crop Insurance Provisions for the 2020 and succeeding crop years are as follows:
 
-FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesRice Crop Provisions1. Definitions
+FCIC Policies United States Department of Agriculture Federal Crop Insurance Corporation Reinsured Policies (Appropriate title for insurance provider) Both FCIC and Reinsured Policies Rice Crop Provisions 1. Definitions
 
 *Flood irrigation.* An irrigated practice commonly used for rice production whereby the planted acreage is intentionally covered with water that is maintained at a uniform and shallow depth throughout the growing season.
 

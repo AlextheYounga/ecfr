@@ -2,15 +2,15 @@
 
 *Damage* unless otherwise specifically defined in this section, means any defect which materially affects the appearance, or the edible or shipping quality of the onions. Any one of the following defects, or combination of defects the seriousness of which exceeds the maximum allowed for any one defect, shall be considered as damage:
 
-(a) Seedstems which are tough or woody, or which are more than1/4 inch in diameter;
+(a) Seedstems which are tough or woody, or which are more than 1/4 inch in diameter;
 
 (b) Splits when well cured onions are not practically covered by an outer scale, or when fairly well cured onions are not completely covered by one outer scale;
 
-(c) Dry sunken areas when the affected areas exceed the equivalent to that of a circle1/2 inch in diameter on an onion 23/4 inches in diameter which does not have the outer papery scale covering the affected areas or when the affected areas exceed the equivalent to that of a circle3/4 inch in diameter on an onion 23/4 inches in diameter which has the outer papery scale covering the affected areas. Correspondingly lesser or greater areas are allowed on smaller or larger onions;
+(c) Dry sunken areas when the affected areas exceed the equivalent to that of a circle 1/2 inch in diameter on an onion 23/4 inches in diameter which does not have the outer papery scale covering the affected areas or when the affected areas exceed the equivalent to that of a circle 3/4 inch in diameter on an onion 23/4 inches in diameter which has the outer papery scale covering the affected areas. Correspondingly lesser or greater areas are allowed on smaller or larger onions;
 
 (d) Sunburn when dark green in color and affecting an area equivalent to that of a circle 1 inch in diameter on an onion 23/4 inches in diameter or correspondingly smaller or larger areas on smaller or larger onions, or when medium to light green in color and affecting more than 10 percent of the surface of the onion;
 
-(e) Sprouting when any sprout is visible, or when concealed within the neck scales and are more than3/4 inch in length on an onion 2 inches or larger in diameter, or proportionately shorter on smaller onions;
+(e) Sprouting when any sprout is visible, or when concealed within the neck scales and are more than 3/4 inch in length on an onion 2 inches or larger in diameter, or proportionately shorter on smaller onions;
 
 (f) Staining, dirt or other foreign material when more than 20 percent of the onions in a yellow, brown or red lot, or more than 15 percent of the onions in a white lot are appreciably stained. Onions with adhering dirt or other foreign matter shall be judged on the same basis as stained onions;
 

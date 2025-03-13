@@ -6,7 +6,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationReinsur
 
 Both FCIC and Reinsured Policies
 
-Texas Citrus Tree Crop Provisions1. Definitions
+Texas Citrus Tree Crop Provisions 1. Definitions
 
 *Bud union.* The location on the tree trunk where a bud from one tree variety is grafted onto root stock of another variety.
 
@@ -14,7 +14,7 @@ Texas Citrus Tree Crop Provisions1. Definitions
 
 *Crop year.* For the 1998 crop year only, a period of time that begins on June 1, 1997, and ends on November 20, 1998. For all other crop years, a period of time that begins on November 21 of the calendar year prior to the year the trees normally bloom, and ends on November 20 of the following calendar year. The crop year is designated by the year in which the insurance period ends.
 
-*Dehorning.* Cutting all scaffold limbs to a length not longer than1/4 the height of the tree before such cutting.
+*Dehorning.* Cutting all scaffold limbs to a length not longer than 1/4 the height of the tree before such cutting.
 
 *Destroyed*—Trees damaged to the extent that removal is necessary.
 

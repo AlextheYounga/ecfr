@@ -1,6 +1,6 @@
 ##### § 51.1236 U.S. Fancy Hand Picked. #####
 
-U.S. Fancy Hand Picked shall consist of cleaned Virginia type peanuts in the shell which are mature, dry, and free from loose peanut kernels, dirt or other foreign material, pops, paper ends, and from damage caused by cracked or broken shells, discoloration or other means. The kernels shall be free from damage from any cause. In addition, the peanuts shall not pass through a screen having32/64 × 3 inch perforations. Unless otherwise specified, the unshelled peanuts in any lot shall not average more than 225 count per pound.
+U.S. Fancy Hand Picked shall consist of cleaned Virginia type peanuts in the shell which are mature, dry, and free from loose peanut kernels, dirt or other foreign material, pops, paper ends, and from damage caused by cracked or broken shells, discoloration or other means. The kernels shall be free from damage from any cause. In addition, the peanuts shall not pass through a screen having 32/64 × 3 inch perforations. Unless otherwise specified, the unshelled peanuts in any lot shall not average more than 225 count per pound.
 
 (a) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
 

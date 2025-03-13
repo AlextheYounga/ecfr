@@ -18,7 +18,7 @@ The specific gravity for any lot of potatoes shall be the average of at least 3 
 
 (1) Calculation from the weights of the sample in air and in water made with USDA approved equipment. The reading obtained from each test shall be corrected for temperature variations using Table I.
 
-(2) A hydrometer specifically designed for determining the specific gravity of potatoes.3
+(2) A hydrometer specifically designed for determining the specific gravity of potatoes. 3
 
 3 The hydrometer is available from the Potato Chip/Snack Food Association, Crystal Square-3, Suite 903, 1735 Jefferson Davis Highway, Arlington, VA 22202.
 

@@ -2,7 +2,7 @@
 
 (a) *Black barley.* Barley with black hulls.
 
-(b) *Broken kernels.* Barley with more than1/4 of the kernel removed.
+(b) *Broken kernels.* Barley with more than 1/4 of the kernel removed.
 
 (c) *Classes.* There are two classes of barley: Malting barley and Barley.
 
@@ -42,13 +42,13 @@
 
 (n) *Other grains.* Black barley, corn, cultivated buckwheat, einkorn, emmer, flaxseed, guar, hull-less barley, nongrain sorghum, oats, Polish wheat, popcorn, poulard wheat, rice, rye, safflower, sorghum, soybeans, spelt, sunflower seed, sweet corn, triticale, and wheat.
 
-(o) *Plump barley.* Barley that remains on top of a6/64 ×3/4 slotted-hole sieve after sieving according to procedures prescribed in FGIS instructions.
+(o) *Plump barley.* Barley that remains on top of a 6/64 × 3/4 slotted-hole sieve after sieving according to procedures prescribed in FGIS instructions.
 
-(p) *Sieves.* (1)5/64 ×3/4 slotted-hole sieve. A metal sieve 0.032 inch thick with slotted perforations 0.0781 (5/64) inch by 0.750 (3/4) inch.
+(p) *Sieves.* (1) 5/64 × 3/4 slotted-hole sieve. A metal sieve 0.032 inch thick with slotted perforations 0.0781 (5/64) inch by 0.750 (3/4) inch.
 
-(2) 5-1/26/64 ×3/4 slotted-hole sieve. A metal sieve 0.032 inch thick with slotted perforations 0.0895 (5-1/2/64) inch by 0.750 (3/4) inch.
+(2) 5-1/26/64 × 3/4 slotted-hole sieve. A metal sieve 0.032 inch thick with slotted perforations 0.0895 (5-1/2/64) inch by 0.750 (3/4) inch.
 
-(3)6/64 ×3/4 slotted-hole sieve. A metal sieve 0.032 inch thick with slotted perforations 0.0937 (6/64) inch by 0.750 (3/4) inch.
+(3) 6/64 × 3/4 slotted-hole sieve. A metal sieve 0.032 inch thick with slotted perforations 0.0937 (6/64) inch by 0.750 (3/4) inch.
 
 (q) *Skinned and broken kernels.* Barley kernels that have one-third or more of the hull removed, or that the hull is loose or missing over the germ, or broken kernels, or whole kernels that have a part or all of the germ missing.
 
@@ -58,9 +58,9 @@
 
 (t) *Thin barley.* Thin barley shall be defined for the appropriate class as follows:
 
-(1) *Malting barley.* Six-rowed Malting barley that passes through a5/64 ×3/4 slotted-hole sieve and Two-rowed Malting barley which passes through a5.5/64 ×3/4 slotted-hole sieve in accordance with procedures prescribed in AMSs instructions.
+(1) *Malting barley.* Six-rowed Malting barley that passes through a 5/64 × 3/4 slotted-hole sieve and Two-rowed Malting barley which passes through a 5.5/64 × 3/4 slotted-hole sieve in accordance with procedures prescribed in AMSs instructions.
 
-(2) *Barley.* Six-rowed barley, Two-rowed barley, or Barley that passes through a5/64 ×3/4 slotted-hole sieve in accordance with procedures prescribed in AMSs instructions.
+(2) *Barley.* Six-rowed barley, Two-rowed barley, or Barley that passes through a 5/64 × 3/4 slotted-hole sieve in accordance with procedures prescribed in AMSs instructions.
 
 (u) *Wild oats.* Seeds of *Avena fatua* L. and *A. sterilis* L.
 

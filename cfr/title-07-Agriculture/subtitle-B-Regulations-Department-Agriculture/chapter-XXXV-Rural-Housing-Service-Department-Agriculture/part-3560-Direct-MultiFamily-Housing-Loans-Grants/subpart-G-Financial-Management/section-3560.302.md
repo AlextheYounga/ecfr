@@ -2,7 +2,7 @@
 
 (a) *General.* Borrowers must establish the accounting, bookkeeping, budgeting and financial management procedures necessary to conduct housing project operations in a financially safe and sound manner. Borrowers must maintain records in a manner suitable for an audit, and must be able to report accurate operational results to the Agency from these accounts and records.
 
-(b) *Acceptable methods of accounting.*(1) Borrowers are required to use the accrual method of accounting in preparing annual financial reports, as identified in § 3560.308.
+(b) *Acceptable methods of accounting.* (1) Borrowers are required to use the accrual method of accounting in preparing annual financial reports, as identified in § 3560.308.
 
 (2) Borrowers must describe their accounting, bookkeeping, budget preparation, and financial reporting procedures in their management plan.
 
@@ -54,7 +54,7 @@
 
 (3) Funds for housing projects managed by the same management company must not be co-mingled.
 
-(e) *Records.*(1) Borrowers must retain all housing project financial records, books, and supporting material for at least three years after the issuance of their financial reports. Upon request, these materials will immediately be made available to the Agency, its representatives, the USDA Office of Inspector General (OIG), or the Government Accountability Office (GAO).
+(e) *Records.* (1) Borrowers must retain all housing project financial records, books, and supporting material for at least three years after the issuance of their financial reports. Upon request, these materials will immediately be made available to the Agency, its representatives, the USDA Office of Inspector General (OIG), or the Government Accountability Office (GAO).
 
 (2) Borrower accounts and records will be kept or made available in a location with reasonable access for inspection, review, and copying by the Agency, other authorized representatives of the USDA, OIG, or GAO.
 

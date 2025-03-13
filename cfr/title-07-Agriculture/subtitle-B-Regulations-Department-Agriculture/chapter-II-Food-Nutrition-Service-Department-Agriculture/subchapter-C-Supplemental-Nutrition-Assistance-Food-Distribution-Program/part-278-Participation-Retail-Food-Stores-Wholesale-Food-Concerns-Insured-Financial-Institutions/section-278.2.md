@@ -26,4 +26,4 @@
 
 (l) *Checking public or private nonprofit homeless meal provider recipients.* Public or private nonprofit homeless meal providers shall establish a SNAP patron's right to purchase meals with coupons.
 
-[Amdt. 136, 43 FR 43274, Sept. 22, 1978]Editorial Note:For Federal Register citations affecting § 278.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Amdt. 136, 43 FR 43274, Sept. 22, 1978] Editorial Note:For Federal Register citations affecting § 278.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

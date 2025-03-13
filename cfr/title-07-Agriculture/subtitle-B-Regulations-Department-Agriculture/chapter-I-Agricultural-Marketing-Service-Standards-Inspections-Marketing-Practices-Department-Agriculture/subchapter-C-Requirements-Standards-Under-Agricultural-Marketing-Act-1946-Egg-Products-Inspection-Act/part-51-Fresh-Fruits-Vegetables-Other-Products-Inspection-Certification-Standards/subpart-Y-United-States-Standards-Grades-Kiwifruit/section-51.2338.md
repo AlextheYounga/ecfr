@@ -10,7 +10,7 @@
 
 (2) In order to allow for variations incident to proper packing in other types of containers, for example, lugs, cartons, or boxes, the number of fruit shall not vary more than two from the marked count.
 
-(d) “Fairly uniform in size” means that fruit in containers marked numerically to denote size may not vary in diameter more than1/2 inch (12.7mm) in sizes 30 or larger;3/8 inch (9.5mm) is sizes 31 through 38; and1/4 inch (6.4mm) in sizes 39 or smaller. Not more than 5 percent, by count, of the fruit in any container may exceed the diameter range specified.
+(d) “Fairly uniform in size” means that fruit in containers marked numerically to denote size may not vary in diameter more than 1/2 inch (12.7mm) in sizes 30 or larger; 3/8 inch (9.5mm) is sizes 31 through 38; and 1/4 inch (6.4mm) in sizes 39 or smaller. Not more than 5 percent, by count, of the fruit in any container may exceed the diameter range specified.
 
 (e) “Diameter” means the greatest dimension measured at right angles to a line from stem to blossom end.
 

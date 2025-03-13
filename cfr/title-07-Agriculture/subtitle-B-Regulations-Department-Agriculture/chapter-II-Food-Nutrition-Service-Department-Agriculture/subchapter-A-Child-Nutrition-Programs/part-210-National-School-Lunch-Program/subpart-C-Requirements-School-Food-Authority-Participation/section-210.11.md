@@ -52,7 +52,7 @@
 
 (iii) Have as the first ingredient one of the non-grain major food groups: fruits, vegetables, dairy or protein foods (meat, beans, poultry, seafood, eggs, nuts, seeds, etc.); or
 
-(iv) Be a combination food that contains1/4 cup of fruit and/or vegetable; or
+(iv) Be a combination food that contains 1/4 cup of fruit and/or vegetable; or
 
 (v) If water is the first ingredient, the second ingredient must be one of the food items in paragraphs (c)(2)(ii), (iii) or (iv) of this section.
 

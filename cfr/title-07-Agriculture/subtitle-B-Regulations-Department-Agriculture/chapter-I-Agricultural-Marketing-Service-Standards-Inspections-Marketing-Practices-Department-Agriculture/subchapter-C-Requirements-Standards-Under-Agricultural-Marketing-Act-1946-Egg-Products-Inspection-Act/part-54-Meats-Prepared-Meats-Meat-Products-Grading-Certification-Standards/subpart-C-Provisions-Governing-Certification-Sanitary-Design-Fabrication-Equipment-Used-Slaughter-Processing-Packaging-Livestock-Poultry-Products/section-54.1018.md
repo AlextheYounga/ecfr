@@ -4,7 +4,7 @@
 
 (b) The official identification symbol on equipment or utensils shall be displayed by etching or the placement of a non-removable sticker located in close proximity to the equipment identification plate.
 
-(c) The official identification symbol is recommended to be at least3/4 inch by3/4 inch in size. Symbols which are smaller in size will be considered provided they are sufficiently large to be identifiable and legible.
+(c) The official identification symbol is recommended to be at least 3/4 inch by 3/4 inch in size. Symbols which are smaller in size will be considered provided they are sufficiently large to be identifiable and legible.
 
 (d) The official identification symbol shall not be used in descriptive and promotional materials without prior approval by the Chief. The official identification symbol, if used, on the descriptive or promotional materials shall be printed as part of the text or format.
 

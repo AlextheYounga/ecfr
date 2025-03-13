@@ -2,7 +2,7 @@
 
 Total secured indebtedness must not exceed the area loan limit or market value limitations specified in paragraphs (a) or (b) of this section, whichever is lower. Any loan amount for the RHS appraisal, tax monitoring fee, and the charge to establish an escrow account for taxes and insurance will not be subject to the limitations specified below. This section does not apply to loans on NP terms.
 
-(a) *Area loan limit.*(1) The area loan limit is the maximum value of the property RHS will finance in a given locality. This limit is based on a percentage(s) of the applicable local HUD section 203(b) limit. The percentage(s) will be determined by the Agency and published in the program handbook. The area loan limits will be reviewed at least annually and posted to the Agency website.
+(a) *Area loan limit.* (1) The area loan limit is the maximum value of the property RHS will finance in a given locality. This limit is based on a percentage(s) of the applicable local HUD section 203(b) limit. The percentage(s) will be determined by the Agency and published in the program handbook. The area loan limits will be reviewed at least annually and posted to the Agency website.
 
 (2) The maximum loan limit calculated under paragraph (a)(1) will be reduced in the following situations:
 

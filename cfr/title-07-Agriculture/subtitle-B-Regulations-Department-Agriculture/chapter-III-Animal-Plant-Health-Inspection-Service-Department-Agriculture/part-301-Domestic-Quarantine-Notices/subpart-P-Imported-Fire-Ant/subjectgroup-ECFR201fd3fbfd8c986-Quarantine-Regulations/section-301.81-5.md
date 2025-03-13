@@ -1,12 +1,12 @@
 ##### § 301.81-5 Issuance of a certificate or limited permit. #####
 
-(a) An inspector1 or person operating under a compliance agreement will issue a certificate for the interstate movement of a regulated article approved under such compliance agreement if he or she determines that the regulated article:
+(a) An inspector 1 or person operating under a compliance agreement will issue a certificate for the interstate movement of a regulated article approved under such compliance agreement if he or she determines that the regulated article:
 
 1 Inspectors are assigned to local offices of APHIS, which are listed in local telephone directories. Information on local offices may also be obtained from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236.
 
 (1) Is eligible for unrestricted movement under all other applicable Federal domestic plant quarantines and regulations;
 
-(2) Is to be moved interstate in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714) to prevent the spread of the imported fire ant;2 and
+(2) Is to be moved interstate in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714) to prevent the spread of the imported fire ant; 2 and
 
 2 An inspector may hold, seize, quarantine, treat, apply other remedial measures to, destory, or otherwise dispose of plants, plant pests, or other articles in accordance with sections 414, 421, and 434 of the Plant Protection Act (7 U.S.C. 7714, 7731, and 7754).
 

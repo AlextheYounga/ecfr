@@ -1,6 +1,6 @@
 ##### § 90.179 Shared use of radio stations. #####
 
-Link to an amendment published at 89 FR 100851, Dec. 13, 2024.Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100852, Dec. 13, 2024.Link to a correction published at 90 FR 5724, Jan. 17, 2025.
 
 Licensees of radio stations authorized under this rule part may share the use of their facilities. A station is shared when persons not licensed for the station control the station for their own purposes pursuant to the licensee's authorization. Shared use of a radio station may be either on a non-profit cost shared basis or on a for-profit private carrier basis. Shared use of an authorized station is subject to the following conditions and limitations:
 
@@ -14,7 +14,7 @@ Licensees of radio stations authorized under this rule part may share the use of
 
 (e) If the land station which is being shared is interconnected with the public switched telephone network, the provisions of § 90.477 *et seq.* apply.
 
-(f) Above 800 MHz, shared use on a for-profit private carrier basis is permitted only by SMR, Private Carrier Paging, LMS, and DSRCS licensees. See subparts M, P, and S of this part.
+(f) Above 800 MHz, shared use on a for-profit private carrier basis is permitted only by SMR, Private Carrier Paging, LMS, and C-V2X and DSRCS licensees. See subparts M, P, and S of this part.
 
 (g) Notwithstanding paragraph (a) of this section, licensees authorized to operate radio systems on Public Safety Pool frequencies designated in § 90.20 may share their facilities with Federal Government entities on a non-profit, cost-shared basis. Such a sharing arrangement is subject to the provisions of paragraphs (b), (d), and (e) of this section, and § 2.103(c) of this chapter concerning operations in the 758-769 MHz and 788-799 MHz bands. State governments authorized to operate radio systems under § 90.529 may share the use of their systems (for public safety services not made commercially available to the public) with any entity that would be eligible for licensing under § 90.523 and Federal government entities.
 

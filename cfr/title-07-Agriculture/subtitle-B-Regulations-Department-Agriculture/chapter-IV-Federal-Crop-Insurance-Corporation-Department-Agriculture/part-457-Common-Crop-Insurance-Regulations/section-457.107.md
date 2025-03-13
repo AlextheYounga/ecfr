@@ -2,7 +2,7 @@
 
 The Florida Citrus Fruit Crop Insurance Provisions for the 2014 and succeeding crop years are as follows:
 
-FCIC policies: United States Department of Agriculture, Federal Crop Insurance CorporationReinsured policies: (Appropriate title for insurance provider)Both FCIC and reinsured policies: Florida Citrus Fruit Crop Insurance Provisions1. Definitions
+FCIC policies: United States Department of Agriculture, Federal Crop Insurance Corporation Reinsured policies: (Appropriate title for insurance provider)Both FCIC and reinsured policies: Florida Citrus Fruit Crop Insurance Provisions 1. Definitions
 
 *Age class.* Trees in the unit are grouped by age, with each insurable age group of a particular citrus fruit commodity, commodity type, and intended use receiving a Reference Maximum Dollar Amount shown in the actuarial documents that is used to calculate the amount of insurance for the unit.
 
@@ -68,7 +68,7 @@ FCIC policies: United States Department of Agriculture, Federal Crop Insurance C
 
 (2) Was damaged or destroyed by normal dropping; or
 
-(3) Any tangerines that normally would not meet the 210 pack size (2 and4/16 inch minimum diameter) under United States Standards by the end of the insurance period for tangerines.
+(3) Any tangerines that normally would not meet the 210 pack size (2 and 4/16 inch minimum diameter) under United States Standards by the end of the insurance period for tangerines.
 
 *Scion.* A detached living portion of a plant joined to a stock in grafting.
 

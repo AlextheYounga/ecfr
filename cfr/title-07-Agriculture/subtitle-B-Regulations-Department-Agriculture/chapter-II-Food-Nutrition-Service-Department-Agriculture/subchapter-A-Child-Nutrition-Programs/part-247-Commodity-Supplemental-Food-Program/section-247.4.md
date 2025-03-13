@@ -42,4 +42,4 @@
 
 (d) *What is the duration of required agreements?* Agreements between FNS and State agencies are considered permanent, but may be amended at the initiation of State agencies or at the request of FNS. All amendments must be approved by FNS. The State agency establishes the duration of agreements it signs with local agencies or subdistributing agencies. The State agency may establish, or permit the local or subdistributing agency to establish, the duration of agreements between local or subdistributing agencies and other agencies. However, State and local agencies must comply with the requirements in § 250.4 of this chapter when entering into agreements with other entities.
 
-(Approved by the Office of Management and Budget under control numbers 0584-0067, 0584-0293)[70 FR 47063, Aug. 11, 2005, as amended at 85 FR 68721, Oct. 30, 2020; 89 FR 87244, Oct. 31, 2024]
+(Approved by the Office of Management and Budget under control numbers 0584-0067, 0584-0293) [70 FR 47063, Aug. 11, 2005, as amended at 85 FR 68721, Oct. 30, 2020; 89 FR 87244, Oct. 31, 2024]

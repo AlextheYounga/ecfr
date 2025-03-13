@@ -1,3 +1,3 @@
 ##### § 1205.207 Challenge of correctness of county summary of ballots. #####
 
-The FSA state offices shall make a prompt investigation and decision in case of any dispute or challenge regarding the correctness of the county summary of ballots in any county:*Provided,* That no dispute of challenge shall be investigated unless it is brought to the attention of the State FSA office within 3 days after receipt by the FSA State office of the county summary of ballots from such county.
+The FSA state offices shall make a prompt investigation and decision in case of any dispute or challenge regarding the correctness of the county summary of ballots in any county: *Provided,* That no dispute of challenge shall be investigated unless it is brought to the attention of the State FSA office within 3 days after receipt by the FSA State office of the county summary of ballots from such county.

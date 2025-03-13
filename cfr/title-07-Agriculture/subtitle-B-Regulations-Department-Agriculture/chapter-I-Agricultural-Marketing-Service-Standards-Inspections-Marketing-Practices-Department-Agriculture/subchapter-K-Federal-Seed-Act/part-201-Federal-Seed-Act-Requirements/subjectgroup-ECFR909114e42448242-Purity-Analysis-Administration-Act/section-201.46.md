@@ -16,7 +16,7 @@
 
 (ii) Determine the amount of coating material on 100 coated units by weighing the coated units. Remove the coating material using the methods described in §§ 201.51b (c) and (d). Calculate the percentage of coating material using the following formulas:
 
-Weight of coating material = weight of 100 coated units − weight of 100 de-coated units;The percentage of coating material = weight of the coating material divided by the weight of 100 coated units × 100%.
+Weight of coating material = weight of 100 coated units − weight of 100 de-coated units; The percentage of coating material = weight of the coating material divided by the weight of 100 coated units × 100%.
 
 (iii) The weight of the working sample shall be the product of the weight calculated in paragraph (d)(2)(i) of this section multiplied by 100 percent, divided by 100 percent minus the percentage of coating material calculated in paragraph (d)(2)(ii) of this section.
 

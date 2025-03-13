@@ -2,7 +2,7 @@
 
 The Central and Southern Potato Crop Insurance Provisions for the 2025 and succeeding crop years in counties with a contract change date of November 30, and for the 2026 and succeeding crop years in counties with a contract change date of April 30, June 30, and September 30, are as follows:
 
-United States Department of AgricultureFederal Crop Insurance CorporationCentral and Southern Potato Crop Provisions
+United States Department of Agriculture Federal Crop Insurance Corporation Central and Southern Potato Crop Provisions
 
 In return for your payment of premium and administrative fee for the coverage, these Central and Southern Potato Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 

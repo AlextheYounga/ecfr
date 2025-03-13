@@ -2,7 +2,7 @@
 
 For purposes of Section 401(c) of the NGPA the following classes or portions of classes are certified as essential agricultural uses in order to meet the requirements of full food and fiber production:
 
-**Essential Agricultural Uses**Industry SIC No. and Industry DescriptionFood and Natural Fiber Production
+**Essential Agricultural Uses**Industry SIC No. and Industry Description Food and Natural Fiber Production
 
 01 Agricultural Production—Crops
 
@@ -12,7 +12,7 @@ For purposes of Section 401(c) of the NGPA the following classes or portions of 
 
 4971 Irrigation Systems.
 
-Fertilizer and Agricultural Chemicals(Process and Feedstock Use Only)
+Fertilizer and Agricultural Chemicals (Process and Feedstock Use Only)
 
 1474 Potash, Soda, and Borate Materials.
 
@@ -40,7 +40,7 @@ Food and Natural Fiber Processing-Food
 
 2899 Chemicals and Chemical Preparations, n.e.c. (Salt for food use only).
 
-Animal Feeds, and Food(Process and Feedstock Use Only)
+Animal Feeds, and Food (Process and Feedstock Use Only)
 
 2047 Dog, Cat and Other Pet Food.
 

@@ -52,8 +52,7 @@
 
 (5) For elderly households only, a deduction for household medical expenses that are not reimbursed from insurance or another source and which in combination with any expenses related to the care of household members with disabilities described in paragraph (c)(3) of this section, are in excess of three percent of the household's annual income.
 
-(d) *Net family assets.* Income from net family assets must be included in the calculation of annual income.
-Net family assets also are considered in determining whether a down payment is required.
+(d) *Net family assets.* Income from net family assets must be included in the calculation of annual income. Net family assets also are considered in determining whether a down payment is required.
 
 (1) Net family assets include, but are not limited to:
 

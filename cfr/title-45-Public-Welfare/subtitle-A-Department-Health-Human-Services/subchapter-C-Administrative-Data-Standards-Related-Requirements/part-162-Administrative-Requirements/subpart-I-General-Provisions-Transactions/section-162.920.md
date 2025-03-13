@@ -1,6 +1,6 @@
 ##### § 162.920 Availability of implementation specifications and operating rules. #####
 
-Link to an amendment published at 89 FR 100787, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100787, Dec. 13, 2024.This amendment is delayed until April 14, 2025, at 90 FR 9289, Feb. 11, 2025.
 
 Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Health and Human Services must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 714-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* The materials are also available for inspection by the public at the Centers for Medicare & Medicaid Services (CMS), 7500 Security Boulevard, Baltimore, Maryland 21244. For more information on the availability on the materials at CMS, call (410) 786-6597. The materials are also available from the sources listed below.
 

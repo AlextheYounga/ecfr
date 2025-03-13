@@ -43,13 +43,13 @@
 
 (3) Each handler shall, under the supervision of any such inspection service, dispose of into noncanning use an aggregate quantity of olives, comparable in size and characteristics and equal to the quantities shown on the certification for each lot to be:
 
-(i) Variety Group 1 olives, except the Ascolano, Barouni, and St. Agostino varieties, of a size which individually weigh less than1/90 pound;
+(i) Variety Group 1 olives, except the Ascolano, Barouni, and St. Agostino varieties, of a size which individually weigh less than 1/90 pound;
 
-(ii) Variety Group 1 olives of the Ascolano, Barouni, and St. Agostino varieties of a size which individually weigh less than1/140 pound;
+(ii) Variety Group 1 olives of the Ascolano, Barouni, and St. Agostino varieties of a size which individually weigh less than 1/140 pound;
 
-(iii) Variety Group 2 olives, except the Obliza variety, of a size which individually weigh less than1/180 pound;
+(iii) Variety Group 2 olives, except the Obliza variety, of a size which individually weigh less than 1/180 pound;
 
-(iv) Variety Group 2 olives of the Obliza variety of a size which individually weigh less than1/140 pound;
+(iv) Variety Group 2 olives of the Obliza variety of a size which individually weigh less than 1/140 pound;
 
 (v) Such other sizes for the foregoing variety groups as are not authorized for limited use pursuant to § 932.52; and
 

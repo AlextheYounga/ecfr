@@ -6,7 +6,7 @@ An account is past due if the scheduled payment is not received by the due date,
 
 (b) *Liquidation*—(1) *For borrowers with monthly payments.* The account may be accelerated without further servicing when at least 3 scheduled payments are past due or an amount equal to at least 2 scheduled payments is past due for at least 3 consecutive months. In such cases RHS may pursue voluntary liquidation and foreclosure.
 
-(2) *For borrowers with annual payments.* The account may be accelerated without further servicing when at least3/12 of 1 scheduled payment has not been received by its due date. In such cases, RHS may pursue voluntary liquidation and foreclosure.
+(2) *For borrowers with annual payments.* The account may be accelerated without further servicing when at least 3/12 of 1 scheduled payment has not been received by its due date. In such cases, RHS may pursue voluntary liquidation and foreclosure.
 
 (3) *Subsidy recapture.* Acceleration under this section will take into account any subsidy recapture due under § 3550.162.
 

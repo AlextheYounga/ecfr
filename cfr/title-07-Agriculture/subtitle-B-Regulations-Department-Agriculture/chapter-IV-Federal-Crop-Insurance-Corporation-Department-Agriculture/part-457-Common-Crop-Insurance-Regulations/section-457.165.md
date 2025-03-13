@@ -2,11 +2,11 @@
 
 The Millet Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
 
-FCIC policies:United States Department of AgricultureFederal Crop Insurance Corporation
+FCIC policies: United States Department of Agriculture Federal Crop Insurance Corporation
 
 Reinsured policies:
 
-(Appropriate title for insurance provider)Both FCIC and reinsured policies:Millet Crop Insurance Provisions1. Definitions
+(Appropriate title for insurance provider) Both FCIC and reinsured policies: Millet Crop Insurance Provisions 1. Definitions
 
 *Bushel.* Fifty pounds of millet, or any other quantity which is designated in the Special Provisions for that purpose.
 

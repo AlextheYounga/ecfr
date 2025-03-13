@@ -2,7 +2,7 @@
 
 Fruits and vegetables from Hawaii, Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the U.S. Virgin Islands that are otherwise prohibited interstate movement into the continental United States by this subpart may transit the continental United States en route to a foreign destination when moved in accordance with this section.
 
-(a) *Transit permit.* (1) A transit permit is required for the arrival, unloading, and movement through the continental United States of fruits and vegetables otherwise prohibited by this subpart from being moved through the continental United States from Hawaii, Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the U.S. Virgin Islands. Application for a transit permit may be made in writing or with PPQ Form 586.2 The transit permit application must include the following information:
+(a) *Transit permit.* (1) A transit permit is required for the arrival, unloading, and movement through the continental United States of fruits and vegetables otherwise prohibited by this subpart from being moved through the continental United States from Hawaii, Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the U.S. Virgin Islands. Application for a transit permit may be made in writing or with PPQ Form 586. 2 The transit permit application must include the following information:
 
 2 PPQ Form 586 can be obtained from PPQ Permit Services or at *http://www.aphis.usda.gov/plant\_health/permits/transit.shtml* . Applications for transit permits should be submitted to USDA, APHIS, PPQ Permit Services, 4700 River Road Unit 136, Riverdale, MD 20737 or through e-permits *http://www.aphis.usda.gov/permits/learn\_epermits.shtml.*
 

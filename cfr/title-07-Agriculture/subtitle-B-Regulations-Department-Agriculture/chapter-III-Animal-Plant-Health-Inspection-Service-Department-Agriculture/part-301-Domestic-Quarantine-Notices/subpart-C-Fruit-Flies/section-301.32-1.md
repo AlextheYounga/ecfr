@@ -10,7 +10,7 @@
 
 *Compliance agreement.* A written agreement between APHIS and a person engaged in growing, handling, or moving regulated articles, wherein the person agrees to comply with this subpart.
 
-*Core area.* The area within a circle surrounding each site where fruit flies have been detected using a1/2-mile radius with the detection site as a center point.
+*Core area.* The area within a circle surrounding each site where fruit flies have been detected using a 1/2-mile radius with the detection site as a center point.
 
 *Day degrees.* A unit of measurement used to measure the amount of heat required to further the development of fruit flies through their life cycle. Day-degree life cycle requirements are calculated through a modeling process specific for each species of fruit fly.
 

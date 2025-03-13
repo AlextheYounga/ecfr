@@ -1,7 +1,5 @@
 ##### § 90.425 Station identification. #####
 
-Link to an amendment published at 89 FR 100854, Dec. 13, 2024.
-
 Stations licensed under this part shall transmit identification in accordance with the following provisions:
 
 (a) *Identification procedure.* Except as provided for in paragraphs (d) and (e) of this section, each station or system shall be identified by the transmission of the assigned call sign during each transmission or exchange of transmissions, or once each 15 minutes (30 minutes in the Public Safety Pool) during periods of continuous operation. The call sign shall be transmitted by voice in the English language or by International Morse Code in accordance with paragraph (b) of this section. If the station is employing either analog or digital voice scrambling, or non-voice emission, transmission of the required identification shall be in the unscrambled mode using A3E, F3E or G3E emission, or International Morse, with all encoding disabled. Permissible alternative identification procedures are as follows:
@@ -56,7 +54,7 @@ Stations licensed under this part shall transmit identification in accordance wi
 
 (9) It is a wireless microphone station operating in accordance with the provisions of § 90.265(b).
 
-(10) It is a Roadside Unit in a DSRCS system.
+(10) It is a Roadside Unit (RSU) in an Intelligent Transportation System operating in the 5895-5925 MHz band.
 
 (e) Special provisions for stations licensed under this part that are classified as CMRS providers under part 20 of this chapter.
 

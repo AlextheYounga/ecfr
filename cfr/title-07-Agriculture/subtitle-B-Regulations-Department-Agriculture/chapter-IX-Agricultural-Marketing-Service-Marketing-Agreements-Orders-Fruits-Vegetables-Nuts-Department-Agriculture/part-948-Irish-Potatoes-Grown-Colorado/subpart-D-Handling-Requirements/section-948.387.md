@@ -6,7 +6,7 @@ On and after August 1, 1982, no person shall handle any lot of potatoes grown in
 
 (2) U.S. No. 1 grade, Size B (11/2 inches minimum to 21/4 inches maximum diameter).
 
-(3) U.S. No. 1 grade,3/4 inch minimum to 17/8 inches maximum diameter.
+(3) U.S. No. 1 grade, 3/4 inch minimum to 17/8 inches maximum diameter.
 
 (b) *Maturity (skinning) requirements—All Varieties.* During the period beginning July 1 and ending December 31 each season for U.S. No. 2 grade, not more than “moderately skinned,” and for all other grades, not more than “slightly skinned”; thereafter no maturity requirements.
 

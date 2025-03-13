@@ -10,7 +10,7 @@ Inspections shall be performed by agents, by inspectors, or by employees of a St
 
 (ii) Have a bachelor's degree in the biological sciences, and a minimum of 1 year's experience in identifying plant pests endemic to crops of commercial importance within the cooperating State, or a combination of higher education in the biological sciences and experience in identifying such plant pests, as follows:
 
-0 years education and 5 years experience;1 year education and 4 years experience;2 years education and 3 years experience;3 years education and 2 years experience; or4 years education and 1 year experience.The years of education and experience do not have to be acquired consecutively.
+0 years education and 5 years experience; 1 year education and 4 years experience; 2 years education and 3 years experience; 3 years education and 2 years experience; or 4 years education and 1 year experience. The years of education and experience do not have to be acquired consecutively.
 
 (iii) Successfully complete annual training provided by the State plant regulatory agency. The required training must include instruction in inspection procedures, identification of plant pests of quarantine importance to importing countries, methods of collection and submission of specimens (organisms and/or plants or plant parts) for identification, and preparation and submission of inspection report forms approved by the State plant regulatory agency.
 
@@ -24,7 +24,7 @@ Inspections shall be performed by agents, by inspectors, or by employees of a St
 
 (i) Have a bachelor's degree in the biological sciences, and a minimum of 1 year's experience in Federal, State or county plant regulatory activities, or a combination of higher education in the biological sciences and experience in State plant regulatory activities, as follows:
 
-0 years education and 5 years experience;1 year education and 4 years experience;2 years education and 3 years experience;3 years education and 2 years experience; or4 years education and 1 year experience.The years of education and experience do not have to be acquired consecutively.
+0 years education and 5 years experience; 1 year education and 4 years experience; 2 years education and 3 years experience; 3 years education and 2 years experience; or 4 years education and 1 year experience. The years of education and experience do not have to be acquired consecutively.
 
 (ii) Successfully complete, as indicated by receipt of a passing grade, the Animal and Plant Health Inspection Service training course on phytosanitary certification.
 

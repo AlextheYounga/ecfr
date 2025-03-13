@@ -1,6 +1,6 @@
 ##### § 810.1002 Definition of other terms. #####
 
-(a) *Fine seeds.* All matter that passes through a5/64 triangular-hole sieve after sieving according to procedures prescribed in FGIS instructions.
+(a) *Fine seeds.* All matter that passes through a 5/64 triangular-hole sieve after sieving according to procedures prescribed in FGIS instructions.
 
 (b) *Foreign material.* All matter other than oats, wild oats, and other grains.
 
@@ -10,7 +10,7 @@
 
 (e) *Sieves*—(1) *5/64 triangular-hole sieve.* A metal sieve 0.032 inch thick with equilateral triangular perforations the inscribed circles of which are 0.0781 (5/64) inch in diameter.
 
-(2) *0.064* ×3/8*oblong-hole sieve.* A metal sieve 0.032 inch thick with oblong perforations 0.064 inch by 0.375 (3/8) inch.
+(2) *0.064* × 3/8*oblong-hole sieve.* A metal sieve 0.032 inch thick with oblong perforations 0.064 inch by 0.375 (3/8) inch.
 
 (f) *Sound oats.* Kernels and pieces of oat kernels (except wild oats) that are not badly ground-damaged, badly weather-damaged, diseased, frost-damaged, germ-damaged, heat-damaged, insect-bored, mold-damaged, sprout-damaged, or otherwise materially damaged.
 

@@ -14,4 +14,4 @@
 
 (2) Certificates and limited permits accompanying regulated articles interstate must be given to the consignee at the point of destination.
 
-(Approved by the Office of Management and Budget under control number 0579-0363)[55 FR 37453, Sept. 11, 1990, as amended at 72 FR 13428, Mar. 22, 2007; 74 FR 16104, Apr. 9, 2009; 76 FR 23457, Apr. 27, 2011; 88 FR 85470, Dec. 8, 2023]
+(Approved by the Office of Management and Budget under control number 0579-0363) [55 FR 37453, Sept. 11, 1990, as amended at 72 FR 13428, Mar. 22, 2007; 74 FR 16104, Apr. 9, 2009; 76 FR 23457, Apr. 27, 2011; 88 FR 85470, Dec. 8, 2023]

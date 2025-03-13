@@ -88,7 +88,7 @@ The following definitions apply to the Milk Loss Program.
 
 (C) $189,200 in each of the 2019 and 2020 calendar years for the 2022 program year; and,
 
-(ii) Total household income was at or below the national poverty level for a family of four in each of the same two previous years referenced in paragraph (1)(i) of this definition;1 or
+(ii) Total household income was at or below the national poverty level for a family of four in each of the same two previous years referenced in paragraph (1)(i) of this definition; 1 or
 
 1 Limited resource farmer or rancher status can be determined using a website available through the Limited Resource Farmer and Rancher Online Self Determination Tool through Natural Resources Conservation Service at *https://lrftool.sc.egov.usda.gov.*
 
@@ -142,13 +142,13 @@ The following definitions apply to the Milk Loss Program.
 
 *Veteran farmer or rancher* means a farmer or rancher:
 
-(1) Who has served in the Armed Forces (as defined in 38 U.S.C. 101(10)2) and:
+(1) Who has served in the Armed Forces (as defined in 38 U.S.C. 101(10) 2) and:
 
 2 The term “Armed Forces” means the United States Army, Navy, Marine Corps, Air Force, Space Force, and Coast Guard, including the reserve components.
 
 (i) Has not operated a farm or ranch for more than 10 years; or
 
-(ii) Has obtained status as a veteran (as defined in 38 U.S.C. 101(2)3) during the most recent 10-year period; or
+(ii) Has obtained status as a veteran (as defined in 38 U.S.C. 101(2) 3) during the most recent 10-year period; or
 
 3 The term “veteran” means a person who served in the active military, naval, air, or space service, and who was discharged or released under conditions other than dishonorable.
 

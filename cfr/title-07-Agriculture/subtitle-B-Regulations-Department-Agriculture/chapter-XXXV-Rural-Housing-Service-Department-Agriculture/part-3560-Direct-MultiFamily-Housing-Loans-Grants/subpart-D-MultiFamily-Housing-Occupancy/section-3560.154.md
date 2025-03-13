@@ -72,4 +72,4 @@
 
 (j) *Criminal activity.* Borrowers will deny admission for criminal activity or alcohol abuse by household members in accordance with the provisions of 24 CFR 5.854, 5.855, 5.856, and 5.857.
 
-[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11281, Mar. 1, 2022]Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.154(a)(7), implementation of the words “\* \* \* and a certification that the applicant is a U.S. citizen or a qualified alien as defined in § 3560.11 \* \* \*” was delayed indefinitely.
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11281, Mar. 1, 2022] Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.154(a)(7), implementation of the words “\* \* \* and a certification that the applicant is a U.S. citizen or a qualified alien as defined in § 3560.11 \* \* \*” was delayed indefinitely.

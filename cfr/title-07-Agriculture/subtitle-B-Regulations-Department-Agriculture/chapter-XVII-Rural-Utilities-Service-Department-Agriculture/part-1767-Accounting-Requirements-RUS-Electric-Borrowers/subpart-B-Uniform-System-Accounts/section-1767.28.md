@@ -82,7 +82,7 @@ Items
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, materials used, and expenses incurred in work on customer applications, contracts, orders, credit investigations, billing and accounting, collections and complaints.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Receiving, preparing, recording, and handling routine orders for service, disconnections, transfers or meter tests initiated by the customer, excluding the cost of carrying out such orders, which is chargeable to the account appropriate for the work called for by such orders.
 
@@ -196,7 +196,7 @@ This amount shall be charged with amounts sufficient to provide for losses from 
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, materials used, and expenses incurred not provided for in other accounts.
 
-Items*Labor:*
+Items *Labor:*
 
 1. General clerical and stenographic work.
 

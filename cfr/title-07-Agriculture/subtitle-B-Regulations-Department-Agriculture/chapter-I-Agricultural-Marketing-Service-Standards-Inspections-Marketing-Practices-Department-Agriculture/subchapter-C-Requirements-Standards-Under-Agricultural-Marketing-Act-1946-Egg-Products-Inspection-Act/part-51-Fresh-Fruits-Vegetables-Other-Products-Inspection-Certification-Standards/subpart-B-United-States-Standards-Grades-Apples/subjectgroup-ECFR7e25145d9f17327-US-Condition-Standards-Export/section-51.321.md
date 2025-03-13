@@ -1,4 +1,4 @@
-##### § 51.321 U.S. Condition Standards for Export.4 #####
+##### § 51.321 U.S. Condition Standards for Export. 4 #####
 
 4 These standards may be applied to domestic shipments of apples as well as export lots, and may be referred to as “U.S. Condition Standards.”
 
@@ -6,7 +6,7 @@
 
 (b) Not more than 5 percent of the apples in any lot shall be damaged by storage scab.
 
-(c) Not more than a total of 5 percent of the apples in any lot shall be affected by scald, internal breakdown, freezing injury, or decay; or damaged by bitter pit, Jonathan spot, water core5 except that invisible water core shall not be scored as damage when these condition standards are applied to the Fuji variety of apples, or other condition factors: *Provided,* That:
+(c) Not more than a total of 5 percent of the apples in any lot shall be affected by scald, internal breakdown, freezing injury, or decay; or damaged by bitter pit, Jonathan spot, water core 5 except that invisible water core shall not be scored as damage when these condition standards are applied to the Fuji variety of apples, or other condition factors: *Provided,* That:
 
 5 “Damage by water core” means externally invisible water core existing around the core and extending to water core in the vascular bundles, or surrounding the vascular bundles when the affected areas surrounding three or more vascular bundles meet or coalesce, or existing in more than slight degree outside the circular area formed by the vascular bundles, or any externally visible water core.
 

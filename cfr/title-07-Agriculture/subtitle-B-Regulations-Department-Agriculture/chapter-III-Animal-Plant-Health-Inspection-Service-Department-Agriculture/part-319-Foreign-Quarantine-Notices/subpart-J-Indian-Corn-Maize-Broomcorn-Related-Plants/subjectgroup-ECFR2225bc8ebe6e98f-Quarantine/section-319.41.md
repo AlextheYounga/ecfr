@@ -6,8 +6,7 @@
 
 (c) The Administrator may authorize the importation of articles otherwise prohibited under paragraph (b) of this section under conditions specified in a controlled import permit issued in accordance with § 319.6.
 
-(d) The importation of plants (including any plant parts) of any of the taxa listed in paragraph (b) of this section that are for planting or capable of being planted is restricted under
-Subpart H—Plants for Planting of this part.
+(d) The importation of plants (including any plant parts) of any of the taxa listed in paragraph (b) of this section that are for planting or capable of being planted is restricted under Subpart H—Plants for Planting of this part.
 
 (e) As used in this subpart, unless the context otherwise requires, the term “United States” means the States, the District of Columbia, Guam, Puerto Rico, and the Virgin Islands of the United States.
 

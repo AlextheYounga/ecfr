@@ -1,6 +1,6 @@
 ##### § 51.2751 U.S. Medium Virginia. #####
 
-“U.S. Medium Virginia” consists of shelled Virginia type peanut kernels of similar varietal characteristics which are whole and free from foreign material, damage and minor defects, and which will not pass through a screen having18/64 × 1 inch openings. Unless otherwise specified, the peanuts in any lot shall average not more than 640 per pound.
+“U.S. Medium Virginia” consists of shelled Virginia type peanut kernels of similar varietal characteristics which are whole and free from foreign material, damage and minor defects, and which will not pass through a screen having 18/64 × 1 inch openings. Unless otherwise specified, the peanuts in any lot shall average not more than 640 per pound.
 
 (a) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
 

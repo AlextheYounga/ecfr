@@ -1,6 +1,6 @@
 ##### § 51.2730 U.S. No. 1 Spanish. #####
 
-“U.S. No. 1 Spanish” consists of shelled Spanish type peanut kernels which are whole and free from foreign material, damage and minor defects, and which will not pass through a screen having15/64 ×3/4 inch openings.
+“U.S. No. 1 Spanish” consists of shelled Spanish type peanut kernels which are whole and free from foreign material, damage and minor defects, and which will not pass through a screen having 15/64 × 3/4 inch openings.
 
 (a) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
 

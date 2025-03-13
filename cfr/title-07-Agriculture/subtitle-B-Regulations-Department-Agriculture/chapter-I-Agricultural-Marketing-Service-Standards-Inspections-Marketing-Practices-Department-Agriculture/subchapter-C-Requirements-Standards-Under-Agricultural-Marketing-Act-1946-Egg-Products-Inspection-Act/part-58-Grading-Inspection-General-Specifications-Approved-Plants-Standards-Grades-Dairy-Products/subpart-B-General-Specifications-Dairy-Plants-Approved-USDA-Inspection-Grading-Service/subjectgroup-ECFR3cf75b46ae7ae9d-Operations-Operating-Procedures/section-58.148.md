@@ -24,7 +24,7 @@ Adequate plant records shall be maintained of all required tests and analyses pe
 
 (g) Somatic cell count test results on raw milk from each producer. Retain for 12 months.
 
-(Approved by the Office of Management and Budget under OMB control number 0583-0047)1
+(Approved by the Office of Management and Budget under OMB control number 0583-0047) 1
 
 1Editorial Note: See table appearing in § 58.100 for correct OMB control number.
 

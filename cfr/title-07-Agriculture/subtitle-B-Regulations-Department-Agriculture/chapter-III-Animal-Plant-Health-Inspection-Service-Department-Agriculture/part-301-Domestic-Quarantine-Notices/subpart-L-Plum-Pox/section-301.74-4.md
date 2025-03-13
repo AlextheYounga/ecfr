@@ -1,6 +1,6 @@
 ##### § 301.74-4 Conditions governing the interstate movement of regulated articles from quarantined areas. #####
 
-The interstate movement of any regulated article from a quarantined area1 is prohibited except when:
+The interstate movement of any regulated article from a quarantined area 1 is prohibited except when:
 
 1 Requirements under all other applicable Federal domestic plant quarantines and regulations must also be met.
 

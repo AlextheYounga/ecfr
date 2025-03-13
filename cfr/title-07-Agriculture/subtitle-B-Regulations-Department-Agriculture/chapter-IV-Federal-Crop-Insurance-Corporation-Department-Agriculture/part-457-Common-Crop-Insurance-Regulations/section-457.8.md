@@ -2252,7 +2252,7 @@ If you transfer any part of your share during the crop year, you may transfer yo
 
 (e) If an assignee submits a notice of loss or claim for indemnity because of your failure to timely do so, the assignee assumes any rights and responsibilities you may have under section 20 to dispute determinations related to the notice of loss or claim for indemnity, except for determinations made in accordance with section 29(d)(2)(ii).
 
-30. [Reserved]31. Applicability of State and Local Statutes
+30. [Reserved] 31. Applicability of State and Local Statutes
 
 If the provisions of this policy conflict with statutes of the State or locality in which this policy is issued, the policy provisions will prevail. State and local laws and regulations in conflict with Federal statutes, this policy, and the applicable regulations do not apply to this policy.
 
@@ -2422,8 +2422,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (4) You have records of marketed or stored production from each optional unit maintained in such a manner that permits us to verify the production from each optional unit, or the production from each optional unit is kept separate until loss adjustment is completed by us.
 
-(c) Each optional unit must meet at least one of the following, unless
-otherwise specified in the Crop Provisions or allowed by written agreement:
+(c) Each optional unit must meet at least one of the following, unless otherwise specified in the Crop Provisions or allowed by written agreement:
 
 (1) Land location—
 

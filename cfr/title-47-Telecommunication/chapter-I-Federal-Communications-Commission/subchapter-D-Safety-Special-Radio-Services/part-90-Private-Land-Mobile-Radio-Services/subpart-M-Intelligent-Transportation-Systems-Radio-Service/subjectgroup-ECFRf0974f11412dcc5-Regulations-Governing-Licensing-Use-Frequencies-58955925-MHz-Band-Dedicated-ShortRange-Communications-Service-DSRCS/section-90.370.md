@@ -1,6 +1,6 @@
 ##### § 90.370 Permitted frequencies. #####
 
-Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100852, Dec. 13, 2024.Link to a correction published at 90 FR 5724, Jan. 17, 2025.
 
 (a) Dedicated Short-Range Communications Service (DSRCS) systems are permitted to operate in the 5895-5925 MHz band.
 

@@ -24,7 +24,7 @@
 
 (4)(i) The objective shield or armor ground resistance may be determined by dividing 100,000 by the length in miles (161,000 by the length in km) of the cable or wire under test. The resulting value is the minimum acceptable meter scale reading in ohms. Examples for paragraphs (d)(3) and (d)(4) of this section are as follows:
 
-Equation 1. Test Set: Scale Reading \* Length = Resistance-Length75,000 ohms \* 3 miles = 225,000 ohm-mile(75,000 ohms \* 4.9 km = 367,000 ohm-km)Equation 2. 100,000 ohm-mile ÷ Length = Minimum Acceptable Meter Scale Reading100,000 ohm-mile ÷ 3 miles = 33,333 ohms(161,000 ohm-km ÷ 4.9 km = 32,857 ohms)
+Equation 1. Test Set: Scale Reading \* Length = Resistance-Length 75,000 ohms \* 3 miles = 225,000 ohm-mile (75,000 ohms \* 4.9 km = 367,000 ohm-km) Equation 2. 100,000 ohm-mile ÷ Length = Minimum Acceptable Meter Scale Reading 100,000 ohm-mile ÷ 3 miles = 33,333 ohms (161,000 ohm-km ÷ 4.9 km = 32,857 ohms)
 
 (ii) Since the 33,333 ohms (32,857 ohms) is the minimum acceptable meter scale reading and the meter scale reading was 75,000 ohms, the cable is considered to have met the 100,000 ohm-mile (161,000 ohm-km) requirement.
 

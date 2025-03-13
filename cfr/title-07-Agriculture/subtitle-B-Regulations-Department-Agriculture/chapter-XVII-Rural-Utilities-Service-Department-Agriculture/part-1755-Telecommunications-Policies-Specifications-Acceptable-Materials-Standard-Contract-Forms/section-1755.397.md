@@ -126,7 +126,7 @@ Maximum—23 dBrnC0Average—18 dBrnC0 or Less3KHz Flat—Less than 35 dBrnO as 
 
 (11) *Crosstalk coupling.* Worst case equal level crosstalk shall be 65 dB minimum in the range 200 to 3400 Hz. This shall be measured between any two paths through the system by connecting a 0 dBm0 level tone to the disturbing pair.
 
-(12) *Digital error rate.* The digital line concentrator shall not introduce more than one error in 108 bits averaged over a 5-minute period, excluding the least significant bit.
+(12) *Digital error rate.* The digital line concentrator shall not introduce more than one error in 10 8 bits averaged over a 5-minute period, excluding the least significant bit.
 
 (13) *Quantizing distortion.* (i) The system shall meet the following requirements:
 
@@ -550,7 +550,7 @@ Maximum—23 dBrnC0Average—18 dBrnC0 or Less3KHz Flat—Less than 35 dBrnO as 
 
 (ii) In the event that the measured data or operational tests show that equipment fails to meet the requirements quirements of this section, the deficiencies are to be resolved as set forth in Article II of the 397 Special Equipment Contract. (Copies are available from RUS, room 0174, U.S. Department of Agriculture, Washington, DC 20250-1500.) The reports of the bidder and the owner shall be detailed as to deficiencies, causes, corrective action necessary, corrective action to be taken, completion time, etc.
 
-(The information and recordkeeping requirements of this section have been approved by the Office of Management and Budget under the control number 0572-0059)Appendix A to § 1755.397—Specification for Line Concentrator Detailed Equipment Requirements(Information To Be Supplied by Owner)Telephone Company (Owner)Name:Location:Number of LC's Required: \_\_\_\_\_\_\_\_Line Concentrator Locations:
+(The information and recordkeeping requirements of this section have been approved by the Office of Management and Budget under the control number 0572-0059) Appendix A to § 1755.397—Specification for Line Concentrator Detailed Equipment Requirements(Information To Be Supplied by Owner)Telephone Company (Owner)Name:Location:Number of LC's Required: \_\_\_\_\_\_\_\_Line Concentrator Locations:
 
 |Location|No. of Lines|Central  <br/>Office|
 |--------|------------|--------------------|
@@ -634,7 +634,7 @@ TypeYearGeneric
 
 6.2 Interface will be:
 
-6.2.1 \_\_\_\_\_\_\_\_ Line Circuit(s)6.2.2 \_\_\_\_\_\_\_\_ Direct Digital Interface6.2.3 \_\_\_\_\_\_\_\_ Other (Describe)
+6.2.1 \_\_\_\_\_\_\_\_ Line Circuit(s) 6.2.2 \_\_\_\_\_\_\_\_ Direct Digital Interface6.2.3 \_\_\_\_\_\_\_\_ Other (Describe)
 
 6.3 Mounting rack for line concentrator furnished by:
 
@@ -730,7 +730,7 @@ Manufacturer and typeCentral office voice terminations Equipped \_\_\_\_\_\_\_\_
 
 9.3 Other (Describe)
 
-10. Alternates11. Explanatory NotesAppendix B to § 1755.397—Specification for Line Concentrators Detailed Requirements; Bidder Supplied InformationTelephone Company (Owner)Name:Location:Line Concentrator Equipment LocationsCentral Office Terminal:Remote Terminal:1. General
+10. Alternates11. Explanatory NotesAppendix B to § 1755.397—Specification for Line Concentrators Detailed Requirements; Bidder Supplied InformationTelephone Company (Owner)Name:Location:Line Concentrator Equipment LocationsCentral Office Terminal:Remote Terminal: 1. General
 
 1.1 The equipment and materials furnished by the bidder must meet the requirements of paragraphs (a) through (p) of this section.
 
@@ -758,7 +758,7 @@ Manufacturer and typeCentral office voice terminations Equipped \_\_\_\_\_\_\_\_
 |    |                 |                   |
 |    |                 |                   |
 
-4. Power Requirements4.1 Central Office TerminalVoltageCurrent Drain (Amps) Normal \_\_\_\_\_\_\_\_, Peak \_\_\_\_\_\_\_\_Fuse Qty \_\_\_\_\_\_\_\_, Size \_\_\_\_\_\_\_\_, Type \_\_\_\_\_\_\_\_Heat Dissipation (BTU/Hr.) \_\_\_\_\_\_\_\_4.2 Remote TerminalAC or DCVoltageCurrent Drain (Amps) Normal \_\_\_\_\_\_\_\_, Peak \_\_\_\_\_\_\_\_Fuse Qty \_\_\_\_\_\_\_\_, Size \_\_\_\_\_\_\_\_, Type \_\_\_\_\_\_\_\_Heat Dissipation (BTU/Hr.) \_\_\_\_\_\_\_\_
+4. Power Requirements4.1 Central Office TerminalVoltageCurrent Drain (Amps) Normal \_\_\_\_\_\_\_\_, Peak \_\_\_\_\_\_\_\_Fuse Qty \_\_\_\_\_\_\_\_, Size \_\_\_\_\_\_\_\_, Type \_\_\_\_\_\_\_\_ Heat Dissipation (BTU/Hr.) \_\_\_\_\_\_\_\_ 4.2 Remote TerminalAC or DCVoltageCurrent Drain (Amps) Normal \_\_\_\_\_\_\_\_, Peak \_\_\_\_\_\_\_\_Fuse Qty \_\_\_\_\_\_\_\_, Size \_\_\_\_\_\_\_\_, Type \_\_\_\_\_\_\_\_Heat Dissipation (BTU/Hr.) \_\_\_\_\_\_\_\_
 
 Power required for heating or cooling equipment in remote bidder-furnished housing
 

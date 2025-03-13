@@ -1,7 +1,5 @@
 ##### § 97.303 Frequency sharing requirements. #####
 
-Link to an amendment published at 89 FR 100855, Dec. 13, 2024.
-
 The following paragraphs summarize the frequency sharing requirements that apply to amateur stations transmitting in the frequency bands specified in § 97.301 of this part. Each frequency band allocated to the amateur service is designated as either a secondary service or a primary service. A station in a secondary service must not cause harmful interference to, and must accept interference from, stations in a primary service.
 
 (a) Where, in adjacent ITU Regions or sub-Regions, a band of frequencies is allocated to different services of the same category (*i.e.,* primary or secondary services), the basic principle is the equality of right to operate. Accordingly, stations of each service in one Region or sub-Region must operate so as not to cause harmful interference to any service of the same or higher category in the other Regions or sub-Regions.
@@ -116,7 +114,7 @@ The following paragraphs summarize the frequency sharing requirements that apply
 
 (1) Amateur stations transmitting in the 5.650-5.725 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by other nations in the mobile except aeronautical mobile service.
 
-(2) Amateur stations transmitting in the 5.850-5.925 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the FCC and other nations in the fixed-satellite (Earth-to-space) and mobile services and also stations authorized by other nations in the fixed service. In the United States, the use of mobile service is restricted to Dedicated Short Range Communications operating in the Intelligent Transportation System.
+(2) Amateur stations transmitting in the 5.850-5.925 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the FCC and other nations in the fixed-satellite (Earth-to-space) and mobile services and also stations authorized by other nations in the fixed service. In the United States, the use of mobile service is restricted to operations in the Intelligent Transportation System radio service.
 
 (s) [Reserved]
 
@@ -126,4 +124,4 @@ Note to § 97.303:
 
 The Table of Frequency Allocations contains the complete, unabridged, and legally binding frequency sharing requirements that pertain to the Amateur Radio Service. *See* 47 CFR 2.104, 2.105, and 2.106. The United States, Puerto Rico, and the U.S. Virgin Islands are in Region 2 and other U.S. insular areas are in either Region 2 or 3; see appendix 1 to part 97.
 
-[75 FR 27203, May 14, 2010, as amended at 77 FR 5412, Feb. 3, 2012; 80 FR 38912, July 7, 2015; 82 FR 27215, June 14, 2017; 82 FR 43872, Sept. 20, 2017; 85 FR 64068, Oct. 9, 2020]
+[75 FR 27203, May 14, 2010, as amended at 77 FR 5412, Feb. 3, 2012; 80 FR 38912, July 7, 2015; 82 FR 27215, June 14, 2017; 82 FR 43872, Sept. 20, 2017; 85 FR 64068, Oct. 9, 2020; 89 FR 100855, Dec. 13, 2024]

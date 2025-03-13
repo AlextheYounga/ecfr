@@ -1,6 +1,6 @@
 ##### § 162.1202 Standards for eligibility for a health plan transaction. #####
 
-Link to an amendment published at 89 FR 100788, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100788, Dec. 13, 2024.This amendment is delayed until April 14, 2025, at 90 FR 9289, Feb. 11, 2025.
 
 The Secretary adopts the following standards for the eligibility for a health plan transaction:
 

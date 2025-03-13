@@ -232,7 +232,7 @@ This account shall include concurrent credits for charges which may be made to o
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, materials used, and expenses incurred in advertising and related activities, the cost of which by their content and purpose are not provided for elsewhere.
 
-ItemsLabor:
+Items Labor:
 
 1. Supervision.
 
@@ -312,7 +312,7 @@ Exclude from this account and include in Account 426.4, Expenditures for Certain
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, and expenses incurred in connection with the general management of the utility not provided for elsewhere.
 
-ItemsLabor:
+Items Labor:
 
 1. Miscellaneous labor not elsewhere provided for.
 

@@ -486,7 +486,7 @@ Chairman, Technical Standards Committee “A” (Telephone), Telecommunications 
 
 (7) Each reel must be stenciled or labeled on either one or both sides with the information specified in ANSI/ICEA S-84-608-1988, paragraph 10.4 and the RUS cable designation:
 
-Cable DesignationBFCECable ConstructionPair CountConductor GaugeE = Expanded InsulationA = Coated Aluminum ShieldC = Copper ShieldY = Gopher Resistant ShieldX = Armored, Separate ShieldH = T1 Screened CableH1C = T1C Screened CableP = Preconnectorized Example: BFCEXH100-22Buried Filled Cable, Expanded Insulation, Armored (w/separate shield), T1 Screened Cable, 100 pair, 22 AWG.
+Cable DesignationBFCECable Construction Pair Count Conductor Gauge E = Expanded InsulationA = Coated Aluminum ShieldC = Copper ShieldY = Gopher Resistant ShieldX = Armored, Separate ShieldH = T1 Screened CableH1C = T1C Screened CableP = Preconnectorized Example: BFCEXH100-22Buried Filled Cable, Expanded Insulation, Armored (w/separate shield), T1 Screened Cable, 100 pair, 22 AWG.
 
 (8) When cable manufactured to the requirements of this specification is shipped, both ends must be equipped with end caps acceptable to RUS.
 

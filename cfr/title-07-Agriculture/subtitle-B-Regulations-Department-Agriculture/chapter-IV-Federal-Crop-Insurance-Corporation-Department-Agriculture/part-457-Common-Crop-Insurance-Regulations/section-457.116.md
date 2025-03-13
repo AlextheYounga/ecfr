@@ -2,7 +2,7 @@
 
 The Sugarcane Crop Insurance Provisions for the 2011 and succeeding crop years are as follows:
 
-United States Department of AgricultureFederal Crop Insurance CorporationSugarcane Crop Provisions1. Definitions
+United States Department of Agriculture Federal Crop Insurance Corporation Sugarcane Crop Provisions1. Definitions
 
 *Crop year.* The period within which the insured sugarcane is normally grown and designated by the calendar year in which the harvest of sugarcane normally begins in the county.
 

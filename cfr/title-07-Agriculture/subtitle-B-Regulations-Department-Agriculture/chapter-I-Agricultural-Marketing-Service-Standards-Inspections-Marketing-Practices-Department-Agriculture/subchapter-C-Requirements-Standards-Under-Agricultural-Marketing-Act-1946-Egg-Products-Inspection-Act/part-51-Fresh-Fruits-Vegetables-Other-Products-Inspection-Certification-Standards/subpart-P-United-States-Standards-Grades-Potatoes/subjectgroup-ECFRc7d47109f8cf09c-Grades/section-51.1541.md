@@ -6,7 +6,7 @@
 
 (b) Firm;
 
-(c) Fairly clean;2
+(c) Fairly clean; 2
 
 2 Potatoes in containers bearing official State Seed Certification Tags and Seals are not required to be fairly clean but shall be free from damage by dirt.
 

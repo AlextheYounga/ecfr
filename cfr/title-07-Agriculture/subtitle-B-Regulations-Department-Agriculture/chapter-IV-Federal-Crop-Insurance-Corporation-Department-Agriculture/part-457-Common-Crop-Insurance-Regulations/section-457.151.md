@@ -2,7 +2,7 @@
 
 The Forage Seeding Crop Insurance Provisions for 2022 and succeeding crop years are as follows:
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured Policies:Forage Seeding Crop Provisions1. Definitions
+FCIC Policies Department of Agriculture Federal Crop Insurance Corporation Reinsured Policies (Appropriate title for insurance provider) Both FCIC and Reinsured Policies: Forage Seeding Crop Provisions 1. Definitions
 
 *Adequate stand.* The number shown in the Special Provisions, representing:
 

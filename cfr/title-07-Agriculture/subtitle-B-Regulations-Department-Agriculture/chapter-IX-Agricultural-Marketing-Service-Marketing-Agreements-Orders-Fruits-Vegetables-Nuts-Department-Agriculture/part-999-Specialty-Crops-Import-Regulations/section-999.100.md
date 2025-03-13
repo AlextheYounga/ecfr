@@ -16,7 +16,7 @@
 
 (1) *Inshell walnuts.* All inshell walnuts shall be of a quality equal to or better than the requirements of U.S. No. 2 and “baby” size as prescribed in the United States Standards for Walnuts (Juglans regia) in the Shell (§§ 51.2945 through 51.2966 of this title); or
 
-(2) *Shelled walnuts.* All shelled walnuts shall be of a quality equal to or better than the requirements for U.S. Commercial Grade as prescribed in the United States Standards for Shelled Walnuts (Juglans regia) (§§ 51.2275 through 51.2294 of this title excluding §§ 51.2278(b), 51.2284 and 51.2285), except that the minimum size shall be pieces not more than five percent of which will pass through a round opening6/64 inch in diameter and no other size requirements shall apply.
+(2) *Shelled walnuts.* All shelled walnuts shall be of a quality equal to or better than the requirements for U.S. Commercial Grade as prescribed in the United States Standards for Shelled Walnuts (Juglans regia) (§§ 51.2275 through 51.2294 of this title excluding §§ 51.2278(b), 51.2284 and 51.2285), except that the minimum size shall be pieces not more than five percent of which will pass through a round opening 6/64 inch in diameter and no other size requirements shall apply.
 
 (c) *Inspection and certification.* (1) All inspections and certifications required by paragraph (b) of this section shall be made by USDA inspectors in accordance with the regulations governing the inspection and certification of fresh fruits, vegetables, and other products (Part 51 of this title). The cost of inspection and certification shall be borne by the applicant.
 

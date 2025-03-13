@@ -1,10 +1,10 @@
 ##### § 402.4 Catastrophic Risk Protection Endorsement Provisions. #####
 
-Department of AgricultureFederal Crop Insurance CorporationCatastrophic Risk Protection Endorsement(This is a continuous endorsement)
+Department of AgricultureFederal Crop Insurance Corporation Catastrophic Risk Protection Endorsement (This is a continuous endorsement)
 
 If a conflict exists among the policy, the order of priority is: (1) This Endorsement; (2) Special Provisions; (3) actuarial documents; (4) the Commodity Exchange Price Provisions, if applicable; and (5) any of the policies specified in section 2, with (1) controlling (2), etc.
 
-Terms and Conditions1. Definitions
+Terms and Conditions 1. Definitions
 
 *Insurance provider.* A private insurance company that has been approved by FCIC to provide insurance coverage to producers participating in programs authorized by the Federal Crop Insurance Act.
 

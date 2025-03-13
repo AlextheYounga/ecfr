@@ -20,7 +20,7 @@
 
 *Movement (moved).* The act of shipping, transporting, delivering, or receiving for movement, or otherwise aiding, abetting, inducing or causing to be moved.
 
-*Noncompacted soil.* Soil that can be removed from an article by brisk brushing or washing with water under normal city water pressure (at least 4 gallons per minute at 40 to 50 pounds per square inch through a1/2-inch orifice).
+*Noncompacted soil.* Soil that can be removed from an article by brisk brushing or washing with water under normal city water pressure (at least 4 gallons per minute at 40 to 50 pounds per square inch through a 1/2-inch orifice).
 
 *Person.* Any association, company, corporation, firm, individual, joint stock company, partnership, society, or any other legal entity.
 

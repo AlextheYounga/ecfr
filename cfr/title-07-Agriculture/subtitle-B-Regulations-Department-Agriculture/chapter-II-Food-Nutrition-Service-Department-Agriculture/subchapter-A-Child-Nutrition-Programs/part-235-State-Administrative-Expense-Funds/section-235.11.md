@@ -116,4 +116,4 @@
 
 (6) *Failure to comply.* Failure to comply with the professional standards in this paragraph may result in sanctions as specified in paragraph (b) of this section.
 
-(Sec. 14, Pub. L. 95-166, 91 Stat. 1338 (42 U.S.C. 1776); sec. 7, Pub. L. 95-627, 92 Stat. 3621 (42 U.S.C. 1776); secs. 805 and 819, Pub. L. 97-35, 95 Stat. 521-535 (42 U.S.C. 1773); sec. 7(a), Pub. L. 95-627, 93 Stat. 3622, 42 U.S.C. 1751)[41 FR 32405, Aug. 3, 1976]Editorial Note:For Federal Register citations affecting § 235.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Sec. 14, Pub. L. 95-166, 91 Stat. 1338 (42 U.S.C. 1776); sec. 7, Pub. L. 95-627, 92 Stat. 3621 (42 U.S.C. 1776); secs. 805 and 819, Pub. L. 97-35, 95 Stat. 521-535 (42 U.S.C. 1773); sec. 7(a), Pub. L. 95-627, 93 Stat. 3622, 42 U.S.C. 1751)[41 FR 32405, Aug. 3, 1976] Editorial Note:For Federal Register citations affecting § 235.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

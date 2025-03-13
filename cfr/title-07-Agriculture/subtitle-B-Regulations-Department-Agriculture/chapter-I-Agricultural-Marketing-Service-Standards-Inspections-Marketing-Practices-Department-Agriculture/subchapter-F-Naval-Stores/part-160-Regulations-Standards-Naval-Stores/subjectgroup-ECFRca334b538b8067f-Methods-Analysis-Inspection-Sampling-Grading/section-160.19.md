@@ -6,7 +6,7 @@ Samples of rosin for grading shall be approximately cubical in shape, and shall 
 
 (b) By placing a tin mold of suitable design inside the barrel or drum through an opening in the side, the center of which opening is approximately 9 inches from the top or 12 inches from the bottom so that when the container is filled, the rosin within the mold will have come from a position not less than 4 inches below the surface of the rosin. The mold thus placed must be entirely within the barrel or drum and completely encased in the rosin.
 
-(c) By suspending in the barrel or drum of molten rosin a clean tinplate mold,7/8 inch square (inside) and 11/2 inches or more in length, in such a manner that it will be in a horizontal position at least 2 inches below the surface of the rosin after it has thoroughly cooled. Such sample shall not be spiked from the barrel or drum until it is completely cooled.
+(c) By suspending in the barrel or drum of molten rosin a clean tinplate mold, 7/8 inch square (inside) and 11/2 inches or more in length, in such a manner that it will be in a horizontal position at least 2 inches below the surface of the rosin after it has thoroughly cooled. Such sample shall not be spiked from the barrel or drum until it is completely cooled.
 
 (d) By withdrawing a quantity of molten rosin from a full container of 150 pounds content or less, pouring the rosin into a suitable mold, and allowing it to cool and solidify slowly: *Provided,* That samples taken to represent a single batch or charge made by intermittent distillation of oleoresin shall be taken from not less than two containers, one of which shall be selected when one fourth of the batch has been placed in the containers, and the other shall be from the last container filled.
 

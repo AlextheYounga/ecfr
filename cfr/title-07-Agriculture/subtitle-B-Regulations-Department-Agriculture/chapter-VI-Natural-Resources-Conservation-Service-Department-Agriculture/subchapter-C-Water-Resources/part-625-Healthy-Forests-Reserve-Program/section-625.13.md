@@ -8,7 +8,7 @@
 
 (d) *Landowner protections.* An HFRP participant who enrolls land in HFRP and whose conservation treatment results in a net conservation benefit for listed, candidate, or other species, may request such Landowner Protections as follows:
 
-(1) *Incidental take authorization.*(i) NRCS will extend to participants the incidental take authorization received by NRCS from FWS or NMFS through biological opinions issued as part of the interagency cooperation process under section 7(a)(2) of the ESA;
+(1) *Incidental take authorization.* (i) NRCS will extend to participants the incidental take authorization received by NRCS from FWS or NMFS through biological opinions issued as part of the interagency cooperation process under section 7(a)(2) of the ESA;
 
 (ii) NRCS will provide assurances, as a provision of the restoration plan, that when a participant is provided authorization for incidental take of a listed species, NRCS will not require management activities related to that species to be undertaken in addition to or different from those specified in the restoration plan without the participant's consent;
 
@@ -18,7 +18,7 @@
 
 (v) If the 30-year contract or 10-year restoration cost-share agreement is terminated, any requested assurances, including an incidental take authorization under this section, provided by NRCS will be voided. As such, the landowner will be responsible to FWS or NMFS for any violations of the ESA.
 
-(2) *SHA or CCAA.*(i) NRCS will provide technical assistance to help participants design and use their HFRP restoration plan for the dual purposes of qualifying for HFRP financial assistance and as a basis for entering into a SHA or CCAA with FWS or NMFS and receiving an associated permit under section 10(a)(1)(a) of the ESA.
+(2) *SHA or CCAA.* (i) NRCS will provide technical assistance to help participants design and use their HFRP restoration plan for the dual purposes of qualifying for HFRP financial assistance and as a basis for entering into a SHA or CCAA with FWS or NMFS and receiving an associated permit under section 10(a)(1)(a) of the ESA.
 
 (ii) In exchange for a commitment to undertake conservation measures, the landowner may receive a permit under section 10 of the ESA from FWS or NMFS authorizing incidental take of species covered by the SHA or CCAA that may occur as a result of restoration actions, management activities, and for a listed species covered by a SHA, a return to baseline conditions at the end of the applicable period.
 

@@ -1,0 +1,9 @@
+##### § 90.389 RSU license areas and registrations. #####
+
+(a) Roadside Units (RSUs) in the 5895-5925 MHz band are licensed on the basis of non-exclusive geographic areas. Governmental applicants will be issued a geographic area license based on the geo-political area encompassing the legal jurisdiction of the entity. All other applicants will be issued a geographic area license for their proposed area of operation based on county(s), State(s) or nationwide.
+
+(b) Applicants who are approved in accordance with FCC Form 601 will be granted non-exclusive licenses for the channel(s) corresponding to their intended operations (see § 90.386). Such licenses serve as a prerequisite of registering individual RSUs located within the licensed geographic area described in paragraph (a) of this section. Licensees must register each RSU in the Universal Licensing System (ULS) before operating such RSU. RSU registrations are subject, inter alia, to the requirements of § 1.923 of this chapter as applicable (antenna structure registration, environmental concerns, international coordination, and quiet zones). Additionally, RSUs at locations subject to NTIA coordination (see § 90.387(b)) may not begin operation until NTIA approval is received. Registrations are not effective until the Commission posts them on the ULS. It is the licensee's responsibility to delete from the ULS registration database any RSUs that have been discontinued.
+
+(c) Licensees must operate each C-V2X RSU in accordance with the Commission's rules and the registration data posted on the ULS for such C-V2X RSU.
+
+[89 FR 100852, Dec. 13, 2024]

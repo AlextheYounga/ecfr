@@ -1,6 +1,6 @@
 ##### § 301.51-5 Issuance and cancellation of certificates and limited permits. #####
 
-(a) An inspector1 or person operating under a compliance agreement will issue a certificate for the interstate movement of a regulated article if he or she determines that the regulated article:
+(a) An inspector 1 or person operating under a compliance agreement will issue a certificate for the interstate movement of a regulated article if he or she determines that the regulated article:
 
 1 Inspectors are assigned to local offices of APHIS, which are listed in local telephone directories. Information concerning such local offices may also be obtained from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236.
 
@@ -8,7 +8,7 @@
 
 (ii) Has been grown, produced, manufactured, stored, or handled in such a manner that, in the judgment of the inspector, the regulated article does not present a risk of spreading Asian longhorned beetle; and
 
-(2) Is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714)2 to prevent the artificial spread of the Asian longhorned beetle; and
+(2) Is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714) 2 to prevent the artificial spread of the Asian longhorned beetle; and
 
 2 An inspector may hold, seize, quarantine, treat, apply other remedial measures to, destory, or otherwise dispose of plants, plant pests, or other articles in accordance with sections 414, 421, and 434 of the Plant Protection Act (7 U.S.C. 7714, 7731, and 7754).
 

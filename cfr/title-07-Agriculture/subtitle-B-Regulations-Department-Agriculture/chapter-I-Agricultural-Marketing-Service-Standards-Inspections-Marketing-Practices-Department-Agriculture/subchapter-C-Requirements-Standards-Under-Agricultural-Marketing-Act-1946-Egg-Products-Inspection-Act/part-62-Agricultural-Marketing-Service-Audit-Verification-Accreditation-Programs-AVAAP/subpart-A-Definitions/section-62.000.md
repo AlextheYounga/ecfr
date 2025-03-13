@@ -14,13 +14,11 @@ Words used in this subpart in the singular form shall be deemed to impart the pl
 
 *Assessment.* A systematic review of the adequacy and implementation of a documented program or system.
 
-*Audit.* A systematic, independent, and documented process for obtaining evidence and
-evaluating it objectively to determine the extent to which criteria are fulfilled.
+*Audit.* A systematic, independent, and documented process for obtaining evidence and evaluating it objectively to determine the extent to which criteria are fulfilled.
 
 *Auditor.* Person authorized by AMS to conduct official audits or assessments.
 
-*Conformance.* The condition or fact of an applicant meeting the requirements of a standard,
-contract, specification, or other documented service requirements.
+*Conformance.* The condition or fact of an applicant meeting the requirements of a standard, contract, specification, or other documented service requirements.
 
 *Export certificate.* An official paper or electronic document issued as part of an export certification program, which describes and attests to attributes of consignments of commodities or food destined for international trade.
 

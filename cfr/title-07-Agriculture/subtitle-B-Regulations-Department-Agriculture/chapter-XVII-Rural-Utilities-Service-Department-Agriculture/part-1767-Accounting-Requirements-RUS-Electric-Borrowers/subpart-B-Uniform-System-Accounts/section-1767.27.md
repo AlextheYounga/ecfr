@@ -12,7 +12,7 @@ A. This account shall include the cost of fuel used in the production of steam f
 
 B. The cost of fuel shall be charged initially to Account 151, Fuel Stock, and cleared to this account on the basis of the fuel used. Fuel handling expenses may be charged to this account as incurred or charged initially to Account 152, Fuel Stock Expenses Undistributed. In the latter event, they shall be cleared to this account on the basis of the fuel used. Respective amounts of fuel stock and fuel stock expenses shall be readily available.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Supervising, purchasing, and handling of fuel.
 
@@ -204,7 +204,7 @@ B. If the charges to others or to other departments of the utility include an am
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, and materials used, and expenses incurred in operating prime movers, generators, and their auxiliary apparatus, switch gear, and other electric equipment to the points where electricity leaves for conversion for transmission or distribution.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Supervising electric production.
 
@@ -420,7 +420,7 @@ D. This account shall be debited or credited as appropriate for significant chan
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, and materials used and expenses incurred for heat transfer materials and water used for steam and cooling purposes.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Operation of water supply facilities.
 
@@ -498,7 +498,7 @@ Do not include in this account water for general station use or the initial char
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, and materials used and expenses incurred in production of steam through nuclear processes, and similar expenses for operation of any auxiliary superheat facilities.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Supervising steam production.
 
@@ -678,7 +678,7 @@ Items*Labor:*
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, materials used, and expenses incurred which are not specifically provided for or are not readily assignable to other nuclear generation operation accounts.
 
-Items*Labor:*
+Items *Labor:*
 
 1. General clerical and stenographic work.
 
@@ -958,7 +958,7 @@ Items*Labor:*
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, materials used, and expenses incurred which are not specifically provided for or are not readily assignable to other hydraulic generation operation expense accounts.
 
-Items*Labor:*
+Items *Labor:*
 
 1. General clerical and stenographic work.
 
@@ -1068,7 +1068,7 @@ This account shall include the cost delivered at the station (See Account 151, F
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, materials used, and expenses incurred in operating prime movers, generators, and electric equipment in other power generating stations, to the point where electricity leaves for conversion for transmission or distribution.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Supervising other power generation operation.
 
@@ -1140,7 +1140,7 @@ Items*Labor:*
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, materials used, and expenses incurred in the operation of other power generating stations which are not specifically provided for or are not readily assignable to other generation expense accounts.
 
-Items*Labor:*
+Items *Labor:*
 
 1. General clerical and stenographic work.
 
@@ -1248,7 +1248,7 @@ The records supporting this account shall provide information pertaining to the 
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, and expenses incurred in load dispatching activities for system control. Utilities having an interconnected electric system or operating under a central authority which controls the production and dispatching of electricity may apportion these costs to this account and transmission expense Account 561.1 through 561.4, and Account 581, Load Dispatching—Distribution.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Allocating loads to plants and interconnections with others.
 
@@ -1396,7 +1396,7 @@ This account shall include the costs billed to the transmission owner, load serv
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, materials used, and expenses incurred in operating transmission substations and switching stations. If transmission station equipment is located in or adjacent to a generating station, the expenses applicable to transmission station operations shall nevertheless be charged to this account.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Supervising station operation.
 
@@ -1480,13 +1480,13 @@ Items*Labor:*
 
 7. Meals, traveling, and incidental expenses.
 
-563 Overhead Line Expenses564 Underground Line Expenses
+563 Overhead Line Expenses 564 Underground Line Expenses
 
 A. These accounts shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, materials used, and expenses incurred in the operation of transmission lines.
 
 B. If the expenses are not substantial for both overhead and underground lines, these accounts may be combined.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Supervising line operation.
 
@@ -1576,7 +1576,7 @@ This account shall include amounts payable to others for the transmission of the
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damage, materials used, and expenses incurred in transmission map and record work, transmission office expenses, and other transmission expenses not provided for elsewhere.
 
-Items*Labor:*
+Items *Labor:*
 
 1. General records of physical characteristics of lines and stations, such as capacities.
 
@@ -1962,7 +1962,7 @@ This account shall include the cost of labor, employee pensions and benefits, so
 
 This account (the keeping of which is optional with the utility) shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, materials used, and expenses incurred in load dispatching operations pertaining to the distribution of electricity.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Direct switching.
 
@@ -2292,7 +2292,7 @@ Items*Labor:*
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, materials used, and expenses incurred in the operation of customer meters and associated equipment.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Supervising meter operation.
 
@@ -2378,7 +2378,7 @@ The cost of the first setting and testing of a meter is chargeable to utility pl
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, materials used, and expenses incurred in work on customer installations in inspecting premises and in rendering services to customers of the nature of those indicated by the list of items hereunder.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Supervising customer installations work.
 
@@ -2478,7 +2478,7 @@ Do not include in this account expenses incurred in connection with merchandisin
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, materials used, and expenses incurred in distribution system operation not provided for elsewhere.
 
-Items*Labor:*
+Items *Labor:*
 
 1. General records of physical characteristics of lines and substations, such as capacities.
 

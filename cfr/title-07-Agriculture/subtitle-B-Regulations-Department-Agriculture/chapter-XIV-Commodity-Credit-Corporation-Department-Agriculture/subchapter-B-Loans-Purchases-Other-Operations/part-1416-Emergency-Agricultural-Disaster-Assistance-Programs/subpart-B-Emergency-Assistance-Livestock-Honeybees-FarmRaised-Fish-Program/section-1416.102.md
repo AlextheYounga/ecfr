@@ -70,8 +70,7 @@ The following definitions apply to this subpart and to the administration of ELA
 
 *Goat* means a weaned domesticated, ruminant mammal of the genus Capra, including Angora goats.
 
-*Grazing animals* mean those species of weaned livestock that, from a nutritional and physiological perspective, satisfy more than 50 percent of their net energy requirement through the consumption of growing forage grasses and legumes. Species of livestock for which more than 50 percent of their net energy requirements are not recommended to be met from consumption of forage grasses and legumes, such as poultry and swine, are excluded regardless of whether those species are grazing or are present on grazing land or pastureland.
-Unweaned livestock are not grazing animals regardless of whether those unweaned livestock are present on grazing land or pastureland.
+*Grazing animals* mean those species of weaned livestock that, from a nutritional and physiological perspective, satisfy more than 50 percent of their net energy requirement through the consumption of growing forage grasses and legumes. Species of livestock for which more than 50 percent of their net energy requirements are not recommended to be met from consumption of forage grasses and legumes, such as poultry and swine, are excluded regardless of whether those species are grazing or are present on grazing land or pastureland. Unweaned livestock are not grazing animals regardless of whether those unweaned livestock are present on grazing land or pastureland.
 
 *Grazing loss* means the value, as calculated in § 1416.110(g) or (m), of eligible grazing lost due to an eligible adverse weather or eligible loss condition based on the number of days that the eligible livestock were not able to graze the eligible grazing land during the normal grazing period.
 

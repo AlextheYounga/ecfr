@@ -86,7 +86,7 @@
 
 *Export port location.* A commonly recognized port of export in the United States or Canada, as determined by the Administrator, from which grain produced in the United States is shipped to any place outside the United States. Such locations include any coastal or border location or site in the United States which contains one or more export elevators, and is identified by the Service as an export port location.
 
-*False, incorrect, and misleading.* Respectively false, incorrect, and misleading in any particular.2
+*False, incorrect, and misleading.* Respectively false, incorrect, and misleading in any particular. 2
 
 1 [Reserved]
 

@@ -10,7 +10,7 @@
 
 (e) *Quota cheese* means the articles provided for in the following items of the Tariff Schedules of the United States:
 
-117.00 (except Stilton produced in the United Kingdom);117.05 (except Stilton produced in the United Kingdom);117.15;117.20;117.25;117.42;117.44;117.55;117.60 (except Gammelost and Nokkelost);117.75 (except goat's milk cheeses and soft-ripened cow's milk cheeses);117.81;117.86;117.88 (except goat's milk cheeses and soft-ripened cow's milk cheeses);
+117.00 (except Stilton produced in the United Kingdom); 117.05 (except Stilton produced in the United Kingdom); 117.15; 117.20; 117.25; 117.42; 117.44; 117.55; 117.60 (except Gammelost and Nokkelost); 117.75 (except goat's milk cheeses and soft-ripened cow's milk cheeses); 117.81; 117.86; 117.88 (except goat's milk cheeses and soft-ripened cow's milk cheeses);
 
 (f) *Secretary* means the Secretary of Agriculture.
 

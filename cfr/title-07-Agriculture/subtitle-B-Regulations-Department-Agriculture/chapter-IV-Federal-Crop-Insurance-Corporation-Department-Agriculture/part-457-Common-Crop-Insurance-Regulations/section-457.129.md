@@ -2,7 +2,7 @@
 
 The fresh market sweet corn crop insurance provisions for the 2023 and succeeding crop years in counties with a contract change date of November 30, and for the 2024 and succeeding crop years in counties with a contract change date of April 30, are as follows:
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesFresh Market Sweet Corn Crop Provisions1. Definitions
+FCIC Policies Department of Agriculture Federal Crop Insurance Corporation Reinsured Policies (Appropriate title for insurance provider) Both FCIC and Reinsured Policies Fresh Market Sweet Corn Crop Provisions 1. Definitions
 
 *Allowable cost.* The dollar amount per container for harvesting, packing, and handling as shown in the actuarial documents.
 

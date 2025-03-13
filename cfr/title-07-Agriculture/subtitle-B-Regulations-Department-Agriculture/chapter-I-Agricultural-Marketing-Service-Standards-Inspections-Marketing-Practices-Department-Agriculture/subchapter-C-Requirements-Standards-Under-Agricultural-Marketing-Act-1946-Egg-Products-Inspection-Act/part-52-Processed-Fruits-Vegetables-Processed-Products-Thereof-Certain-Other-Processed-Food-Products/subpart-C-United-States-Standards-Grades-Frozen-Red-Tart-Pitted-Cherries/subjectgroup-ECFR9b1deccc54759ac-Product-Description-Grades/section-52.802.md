@@ -1,6 +1,6 @@
 ##### § 52.802 Grades of frozen red tart pitted cherries. #####
 
-(a) “U.S. Grade A” (or “U.S. Fancy”) is the quality of frozen red tart pitted cherries of which not more than five (5) cherries per sample unit may be less than9/16 inch (14 mm) in diameter, and that:
+(a) “U.S. Grade A” (or “U.S. Fancy”) is the quality of frozen red tart pitted cherries of which not more than five (5) cherries per sample unit may be less than 9/16 inch (14 mm) in diameter, and that:
 
 (1) Possess a good red color;
 
@@ -14,7 +14,7 @@
 
 (6) Score not less than 90 points when scored in accordance with the scoring system outlined in this subpart.
 
-(b) “U.S. Grade B” (or “U.S. Choice”) is the quality of frozen red tart pitted cherries of which not more than ten (10) cherries per sample unit may be less than9/16 inch (14 mm) in diameter, and that:
+(b) “U.S. Grade B” (or “U.S. Choice”) is the quality of frozen red tart pitted cherries of which not more than ten (10) cherries per sample unit may be less than 9/16 inch (14 mm) in diameter, and that:
 
 (1) Possess a reasonably good red color;
 

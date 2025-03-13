@@ -1,6 +1,6 @@
 ##### § 90.372 DSRCS notification requirement. #####
 
-Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100852, Dec. 13, 2024.Link to a correction published at 90 FR 5724, Jan. 17, 2025.
 
 (a) DSRCS licensees authorized pursuant to 90.370(b) must notify the Commission that as of the transition deadline of July 5, 2022, they have ceased operating in the 5.850-5.895 GHz portion of the band. This notification must be filed via ULS within 15 days of the expiration of the transition deadline.
 

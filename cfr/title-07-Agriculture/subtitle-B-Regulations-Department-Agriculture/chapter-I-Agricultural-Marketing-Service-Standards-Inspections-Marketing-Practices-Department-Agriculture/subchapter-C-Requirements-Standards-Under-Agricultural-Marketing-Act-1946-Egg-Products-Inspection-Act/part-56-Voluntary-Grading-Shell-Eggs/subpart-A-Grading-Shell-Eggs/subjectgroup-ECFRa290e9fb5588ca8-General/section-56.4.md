@@ -17,4 +17,4 @@
 |401 to 500, inclusive|      14       |
 |501 to 600, inclusive|      16       |
 
-For each additional 50 cases, or fraction thereof, in excess of 600 cases, one additional case shall be included in the sample.[20 FR 670, Feb. 1, 1955, as amended at 22 FR 8167, Oct. 16, 1957; 28 FR 6342, June 20, 1963; 42 FR 2970, Jan. 14, 1977. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 71 FR 42007, July 24, 2006]
+For each additional 50 cases, or fraction thereof, in excess of 600 cases, one additional case shall be included in the sample. [20 FR 670, Feb. 1, 1955, as amended at 22 FR 8167, Oct. 16, 1957; 28 FR 6342, June 20, 1963; 42 FR 2970, Jan. 14, 1977. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 71 FR 42007, July 24, 2006]

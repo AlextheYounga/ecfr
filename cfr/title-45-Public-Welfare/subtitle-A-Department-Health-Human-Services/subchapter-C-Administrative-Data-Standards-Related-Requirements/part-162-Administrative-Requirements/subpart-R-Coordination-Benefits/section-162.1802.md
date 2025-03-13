@@ -1,6 +1,6 @@
 ##### § 162.1802 Standards for coordination of benefits information transaction. #####
 
-Link to an amendment published at 89 FR 100789, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100789, Dec. 13, 2024.This amendment is delayed until April 14, 2025, at 90 FR 9289, Feb. 11, 2025.
 
 The Secretary adopts the following standards for the coordination of benefits information transaction.
 

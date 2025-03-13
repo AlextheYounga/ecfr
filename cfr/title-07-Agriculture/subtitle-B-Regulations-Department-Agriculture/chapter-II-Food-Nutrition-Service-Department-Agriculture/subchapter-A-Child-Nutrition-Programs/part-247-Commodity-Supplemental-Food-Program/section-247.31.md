@@ -22,4 +22,4 @@
 
 (e) *What are the requirements for State or local agency audits?* State and local agency audits must be conducted in accordance with the requirements of part 3052 of this title, which contains the Department's regulations pertaining to audits of States, local governments, and nonprofit organizations. The State agency must ensure that local agencies meet the audit requirements. The State agency must ensure that all State or local agency audit reports are available for FNS review.
 
-(Approved by the Office of Management and Budget under control number 0584-0293)[70 FR 47063, Aug. 11, 2005, as amended at 89 FR 87247, Oct. 31, 2024]
+(Approved by the Office of Management and Budget under control number 0584-0293) [70 FR 47063, Aug. 11, 2005, as amended at 89 FR 87247, Oct. 31, 2024]

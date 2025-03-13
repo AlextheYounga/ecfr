@@ -10,9 +10,9 @@
 
 (1) *Damage* by external (shell) defects means any specific defect described in paragraphs (d)(1) (i) through (v) of this section, or an equally objectionable variation of any one of these defects, any other defect, or any combination of defects, which materially detracts from the appearance or the edible or marketing quality of the individual shell or of the lot. (For tolerances see § 51.2544, Table I.)
 
-(i) *Non-split shells* means shells are not opened or are partially opened and will not allow an18/1000 (.018) inch thick by1/4 (.25) inch wide gauge to slip into the opening.
+(i) *Non-split shells* means shells are not opened or are partially opened and will not allow an 18/1000 (.018) inch thick by 1/4 (.25) inch wide gauge to slip into the opening.
 
-(ii) *Not split on suture* means shells are split other than on the suture and will allow an18/1000 (.018) inch thick by1/4 (.25) inch wide gauge to slip into the opening.
+(ii) *Not split on suture* means shells are split other than on the suture and will allow an 18/1000 (.018) inch thick by 1/4 (.25) inch wide gauge to slip into the opening.
 
 (iii) *Adhering hull material* means an aggregate amount covers more than one-eighth of the total shell surface, or when readily noticeable on dyed shells.
 
@@ -48,8 +48,8 @@
 
 (3) *Foreign material* means leaves, sticks, loose hulls or hull pieces, dirt, rocks, insects or insect fragments not attached to nuts, or any substance other than pistachio shells or kernels. Glass, metal or live insects shall not be permitted.
 
-(4) *Particles and dust* means pieces of nut kernels which will pass through a5/64 inch round opening.
+(4) *Particles and dust* means pieces of nut kernels which will pass through a 5/64 inch round opening.
 
-(5) *Undersize* means pistachio nuts in the shell which fall through a30/64 inch round hole screen.
+(5) *Undersize* means pistachio nuts in the shell which fall through a 30/64 inch round hole screen.
 
 [68 FR 50684, Aug. 22, 2003]

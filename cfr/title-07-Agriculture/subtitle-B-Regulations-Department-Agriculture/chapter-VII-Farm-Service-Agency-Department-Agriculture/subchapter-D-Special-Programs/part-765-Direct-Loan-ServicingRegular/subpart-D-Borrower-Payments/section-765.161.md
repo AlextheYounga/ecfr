@@ -14,5 +14,4 @@
 
 (c) *Entity eligibility.* National Guard members and military reservists on active duty and any operating entity owned solely by the active duty borrower may be considered for protections specified in paragraph (a) of this section.
 
-[86 FR 43392, Aug. 9, 2021
-]
+[86 FR 43392, Aug. 9, 2021 ]

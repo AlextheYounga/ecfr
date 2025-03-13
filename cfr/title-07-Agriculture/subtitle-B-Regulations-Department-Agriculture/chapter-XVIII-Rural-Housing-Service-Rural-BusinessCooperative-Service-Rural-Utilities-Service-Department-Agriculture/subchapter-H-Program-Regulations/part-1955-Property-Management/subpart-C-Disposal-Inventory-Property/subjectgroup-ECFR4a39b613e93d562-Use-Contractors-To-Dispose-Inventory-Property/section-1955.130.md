@@ -32,7 +32,7 @@ Contracting authority for the use of real estate brokers is prescribed in Exhibi
 
 (i) For single family properties or MFH projects of 2 to 5 units, $50.
 
-(ii) For all property other than that covered in paragraph (e)(1)(i) of this section, the *greater* of the estimated closing costs shown on the notice of listing (Form RD 1955-40) or1/2 of 1 percent of the purchase price.
+(ii) For all property other than that covered in paragraph (e)(1)(i) of this section, the *greater* of the estimated closing costs shown on the notice of listing (Form RD 1955-40) or 1/2 of 1 percent of the purchase price.
 
 (2) *Offeror default.* When a contract is cancelled due to offeror default, the earnest money will be delivered to and retained by the agency as full liquidated damages.
 

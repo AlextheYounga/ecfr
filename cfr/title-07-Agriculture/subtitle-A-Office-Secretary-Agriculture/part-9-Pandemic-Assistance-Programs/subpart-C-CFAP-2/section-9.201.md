@@ -56,7 +56,7 @@ The following definitions apply to this subpart. The definitions in parts 718 an
 
 (i) Direct or indirect gross farm sales did not exceed $180,300 in each calendar year for 2017 and 2018 (the relevant years for the 2020 program year); and
 
-(ii) Total household income was at or below the national poverty level for a family of four in each of the same two previous years referenced in paragraph (1)(i) of this definition;24 or
+(ii) Total household income was at or below the national poverty level for a family of four in each of the same two previous years referenced in paragraph (1)(i) of this definition; 24 or
 
 24 Limited resource farmer or rancher status can be determined using a website available through the Limited Resource Farmer and Rancher Online Self Determination Tool through Natural Resources Conservation Service at *https://lrftool.sc.egov.usda.gov.*
 
@@ -108,13 +108,13 @@ The following definitions apply to this subpart. The definitions in parts 718 an
 
 *Veteran farmer or rancher* means a farmer or rancher:
 
-(1) Who has served in the Armed Forces (as defined in 38 U.S.C. 101(10)25) and:
+(1) Who has served in the Armed Forces (as defined in 38 U.S.C. 101(10) 25) and:
 
 25 The term “Armed Forces” means the United States Army, Navy, Marine Corps, Air Force, Space Force, and Coast Guard, including the reserve components.
 
 (i) Has not operated a farm or ranch for more than 10 years; or
 
-(ii) Has obtained status as a veteran (as defined in 38 U.S.C. 101(2)26) during the most recent 10-year period; or
+(ii) Has obtained status as a veteran (as defined in 38 U.S.C. 101(2) 26) during the most recent 10-year period; or
 
 26 The term “veteran” means a person who served in the active military, naval, air, or space service, and who was discharged or released under conditions other than dishonorable.
 

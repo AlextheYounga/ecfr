@@ -1,7 +1,6 @@
 ##### § 1.803 Institution of proceedings. #####
 
-(a) *Filing and contents of the notice of hearing.* A proceeding under this subpart shall be instituted by the Secretary or designee through filing the notice of hearing with the hearing clerk.
-The notice of hearing shall state:
+(a) *Filing and contents of the notice of hearing.* A proceeding under this subpart shall be instituted by the Secretary or designee through filing the notice of hearing with the hearing clerk. The notice of hearing shall state:
 
 (1) The legal authority under which the rule is proposed.
 

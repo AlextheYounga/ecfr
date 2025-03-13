@@ -66,7 +66,7 @@ The following are the reporting specifications for each dairy product:
 
 (2) Age: No more than 180 days.
 
-(3) Grade: Product meets USDA Extra Grade or USPH2 Grade A standards.
+(3) Grade: Product meets USDA Extra Grade or USPH 2 Grade A standards.
 
 2 USPH refers to the US Department of Health and Human Services—Public Health Service/Food and Drug Administration.
 

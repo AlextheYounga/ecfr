@@ -1004,11 +1004,11 @@ B. The value of the resistive load R is determined by the nominal battery voltag
 
 (D) No voltages in excess of the values in column H of the table in paragraph (s)(5)(ii)(C) of this section shall be provided at the output taps. Additional intermediate and/or lower taps may be provided without restriction.
 
-(iii) *Voltage regulation.* (A) The output voltage for resistive, capacitive power factor of 0.8, and inductive power factor of 0.5 loads from no load to full rated output with 52.1 volts input battery shall not vary more than ±3 percent from the output voltage measured at1/2 rated output, 1.0 power factor with 52.1 volts dc input applied.
+(iii) *Voltage regulation.* (A) The output voltage for resistive, capacitive power factor of 0.8, and inductive power factor of 0.5 loads from no load to full rated output with 52.1 volts input battery shall not vary more than ±3 percent from the output voltage measured at 1/2 rated output, 1.0 power factor with 52.1 volts dc input applied.
 
-(B) The output voltage for resistive, capacitive power factor of 0.8, and inductive power factor of 0.5 from no load to full rated output with input battery variations between 48-56 volts dc shall not vary more than ±10 percent from the output voltage measured at1/2 rated output and 1.0 power factor with 52.1 volts dc input applied.
+(B) The output voltage for resistive, capacitive power factor of 0.8, and inductive power factor of 0.5 from no load to full rated output with input battery variations between 48-56 volts dc shall not vary more than ±10 percent from the output voltage measured at 1/2 rated output and 1.0 power factor with 52.1 volts dc input applied.
 
-(C) The output voltage for resistive, capacitive power factor of 0.8, and inductive power factor of 0.5 loads from no load to full rated output and with input battery variations between 44-56 volts dc shall not vary more than + 10/−15 percent from the output voltage measured at1/2 rated output and 1.0 power factor with 52.1 volts dc input applied.
+(C) The output voltage for resistive, capacitive power factor of 0.8, and inductive power factor of 0.5 loads from no load to full rated output and with input battery variations between 44-56 volts dc shall not vary more than + 10/−15 percent from the output voltage measured at 1/2 rated output and 1.0 power factor with 52.1 volts dc input applied.
 
 (iv) *Cross ringing.* Unwanted voltage caused by harmonic distortion or intermodulation distortion shall not exceed 15 volts rms when measured within ±5 Hz of any other assigned ringing frequency under any condition of load or input battery specified by paragraph (s)(5)(iii) of this section.
 
@@ -1410,7 +1410,7 @@ Figure 7—Explanation of Arrester Response Delay Time![](/graphics/ec14no91.090
 
 (vii) The acceptance statement facesheet of the audit checklist in appendix D of this section shall be signed by authorized representatives of the supplier and owner to indicate mutual approval of the single-point grounding system. Copies of all completed grounding system audit documents are to be provided to the supplier, owner and appropriate RUS telephone program regional offices.
 
-(The information and recordkeeping requirements of this section have been approved by the Office of Management and Budget under the control number 0572-0059)Appendix A to § 1755.522—Specification for Digital, Stored Program Controlled Central Office Equipment Detailed Requirements (Host)(Information To Be Supplied by Owner)Telephone Company NameLocationCentral Office Name (By Location)TownCountyState\_\_\_\_\_\_\_\_ Attended\_\_\_\_\_\_\_\_ Unattended\_\_\_\_\_\_\_\_ Remotes1. General
+(The information and recordkeeping requirements of this section have been approved by the Office of Management and Budget under the control number 0572-0059)Appendix A to § 1755.522—Specification for Digital, Stored Program Controlled Central Office Equipment Detailed Requirements (Host)(Information To Be Supplied by Owner)Telephone Company Name Location Central Office Name (By Location) Town County State \_\_\_\_\_\_\_\_ Attended \_\_\_\_\_\_\_\_ Unattended \_\_\_\_\_\_\_\_ Remotes 1. General
 
 1.1 Notwithstanding the bidder's equipment lists, the equipment and materials furnished by the bidder must meet the requirements of paragraphs (a) through (x), Appendix A and Appendix B of § 1755.522.
 
@@ -1728,7 +1728,7 @@ Busy Hour Attempts = BHC Total × 1.4 = \_\_\_\_
 
 9.6.1 Bellcore Format
 
-\_\_\_\_ Required\_\_\_\_ Not Required(Provide details in Item 16, Appendix A)10. Miscellaneous Operating Features10.1 *Busy Verification*10.1.1 By dedicated trunk from toll operator: \_\_\_\_10.1.1.1 One-Way, Inward \_\_\_\_10.1.1.2 Two-Way (Busy verification inward, intercept outward) \_\_\_\_10.1.2 By prefix digit over intertoll trunk \_\_\_\_(Indicate digit(s) dialed) \_\_\_\_10.1.3 Access by Switchman10.1.3.1 Dedicated Trunk \_\_\_\_10.1.3.2 Multiple of Operator Trunk \_\_\_\_10.2 *Intercept Facilities*10.2.1 Vacant code, disconnected number, and unassigned number intercept shall be: (Check One)By recorded announcement:Without cut-through to operator \_\_\_\_With cut-through to operator \_\_\_\_By operator \_\_\_\_10.2.2 Changed number intercept shall be: (Check One)By recorded announcement:Without cut-through to operator \_\_\_\_With cut-through to operator \_\_\_\_By operator \_\_\_\_By automatic intercept system (AIS) in distant office \_\_\_\_10.2.3 Method of Reaching Operator, if required:Separate trunk group \_\_\_\_Regular interoffice toll trunks with idle trunk selecting over at least three trunks when three or more toll trunks are equipped \_\_\_\_10.2.4 Number of separate intercept trunk circuits \_\_\_\_10.3 *Line Load Control*10.3.1 Line load control facilities are:\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.4 *Service Observing Facilities*10.4.1 Service observing facilities are:\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.5 *Hotel-Motel Arrangements*10.5.1 Hotel-motel arrangements for operation of message registers at the subscriber's premises are:\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.5.1.1 How are message registers to be activated?Line Reversal \_\_\_\_Third Wire \_\_\_\_Other \_\_\_\_(Explain in Item 16, Appendix A)10.6 *Nailed-Up Connections*\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.7 *Vertical Services:* (RST Lines are Included)
+\_\_\_\_ Required\_\_\_\_ Not Required(Provide details in Item 16, Appendix A)10. Miscellaneous Operating Features 10.1 *Busy Verification*10.1.1 By dedicated trunk from toll operator: \_\_\_\_10.1.1.1 One-Way, Inward \_\_\_\_10.1.1.2 Two-Way (Busy verification inward, intercept outward) \_\_\_\_10.1.2 By prefix digit over intertoll trunk \_\_\_\_(Indicate digit(s) dialed) \_\_\_\_10.1.3 Access by Switchman10.1.3.1 Dedicated Trunk \_\_\_\_10.1.3.2 Multiple of Operator Trunk \_\_\_\_10.2 *Intercept Facilities*10.2.1 Vacant code, disconnected number, and unassigned number intercept shall be: (Check One)By recorded announcement:Without cut-through to operator \_\_\_\_With cut-through to operator \_\_\_\_By operator \_\_\_\_10.2.2 Changed number intercept shall be: (Check One)By recorded announcement:Without cut-through to operator \_\_\_\_With cut-through to operator \_\_\_\_By operator \_\_\_\_By automatic intercept system (AIS) in distant office \_\_\_\_10.2.3 Method of Reaching Operator, if required:Separate trunk group \_\_\_\_Regular interoffice toll trunks with idle trunk selecting over at least three trunks when three or more toll trunks are equipped \_\_\_\_10.2.4 Number of separate intercept trunk circuits \_\_\_\_10.3 *Line Load Control*10.3.1 Line load control facilities are:\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.4 *Service Observing Facilities*10.4.1 Service observing facilities are:\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.5 *Hotel-Motel Arrangements*10.5.1 Hotel-motel arrangements for operation of message registers at the subscriber's premises are:\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.5.1.1 How are message registers to be activated?Line Reversal \_\_\_\_Third Wire \_\_\_\_Other \_\_\_\_(Explain in Item 16, Appendix A)10.6 *Nailed-Up Connections*\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.7 *Vertical Services:* (RST Lines are Included)
 
 |                                                 |       Initially        |        Ultimate        |
 |-------------------------------------------------|------------------------|------------------------|
@@ -1796,7 +1796,7 @@ Yes \_\_\_\_No \_\_\_\_
 |             \_\_\_\_ Hz              |               \_\_\_\_ Seconds                |
 |             \_\_\_\_ Hz              |               \_\_\_\_ Seconds                |
 
-11.3.2 Test Lines11.3.2.1 Test Line 100 \_\_\_\_11.3.2.2 Test Line 102 \_\_\_\_11.3.2.3 Test Line 104 \_\_\_\_11.3.2.4 Test Line 105 \_\_\_\_(Explain in Item 16, Appendix A)11.3.2.5 Test Line 107 \_\_\_\_11.3.2.6 Remote Office Test Line \_\_\_\_(Explain in Item 16, Appendix A)
+11.3.2 Test Lines11.3.2.1 Test Line 100 \_\_\_\_ 11.3.2.2 Test Line 102 \_\_\_\_11.3.2.3 Test Line 104 \_\_\_\_11.3.2.4 Test Line 105 \_\_\_\_(Explain in Item 16, Appendix A)11.3.2.5 Test Line 107 \_\_\_\_11.3.2.6 Remote Office Test Line \_\_\_\_(Explain in Item 16, Appendix A)
 
 11.4 *Line Testing*
 
@@ -1893,7 +1893,7 @@ Yes \_\_\_\_No \_\_\_\_2112.1.5 Type of battery rack required: (Check One)Two Ti
 
 12.3.3 Furnish frequency meter (accurate within 1.3 Hz) and voltmeter (5% accuracy) for ringing measurements (see paragraph (s)(7)(ii) of § 1755.522). Check One:
 
-Panel Mounted \_\_\_\_Portable \_\_\_\_Not Required \_\_\_\_
+Panel Mounted \_\_\_\_ Portable \_\_\_\_ Not Required \_\_\_\_
 
 12.4 *Power Board*
 
@@ -1913,13 +1913,13 @@ Explain:
 
 Is present MDF to be reused?
 
-Yes \_\_\_\_No \_\_\_\_
+Yes \_\_\_\_ No \_\_\_\_
 
 If “Yes,” Type \_\_\_\_
 
 Reused protectors are:
 
-\_\_\_\_ (Mfgr.)\_\_\_\_ (Type)
+\_\_\_\_ (Mfgr.) \_\_\_\_ (Type)
 
 13.4.1 Number of pairs of arrester units (switching equipment) \_\_\_\_
 
@@ -1931,7 +1931,7 @@ Reused protectors are:
 
 13.4.2.2 Fail shorted/low breakdown failure mode required
 
-Yes \_\_\_\_No \_\_\_\_
+Yes \_\_\_\_ No \_\_\_\_
 
 13.4.2.3 Breakdown voltage of gas tube arresters \_\_\_\_
 
@@ -1939,7 +1939,7 @@ Yes \_\_\_\_No \_\_\_\_
 
 13.4.4 Factory assembled tip cable
 
-Yes \_\_\_\_No \_\_\_\_
+Yes \_\_\_\_ No \_\_\_\_
 
 13.4.4.1 Tip cable length [if other than 20 feet (610 cm)]
 
@@ -1947,7 +1947,7 @@ Yes \_\_\_\_No \_\_\_\_
 
 13.4.4.2 Tip cable formed
 
-Up \_\_\_\_Down \_\_\_\_
+Up \_\_\_\_ Down \_\_\_\_
 
 13.4.5 Pairs per vertical \_\_\_\_
 
@@ -1969,21 +1969,21 @@ Yes \_\_\_\_No \_\_\_\_
 
 14.3.2 Vestibule required
 
-Yes \_\_\_\_No \_\_\_\_
+Yes \_\_\_\_ No \_\_\_\_
 
 14.3.3 Cable entrance
 
-Overhead\_\_\_\_Underground \_\_\_\_
+Overhead\_\_\_\_ Underground \_\_\_\_
 
 14.3.4 Additional floor space will be required for the following equipment which is being furnished by the owner or by the connecting company:
 
 14.3.5 The office will be arranged for
 
-Overhead Interbay Cabling \_\_\_\_Underfloor (Computer Room Type) Interbay Cabling \_\_\_\_
+Overhead Interbay Cabling \_\_\_\_ Underfloor (Computer Room Type) Interbay Cabling \_\_\_\_
 
 14.3.6 Is earthquake bracing required?
 
-Yes \_\_\_\_No \_\_\_\_
+Yes \_\_\_\_ No \_\_\_\_
 
 (If “Yes,” explain zone and criteria used for zone in Item 16, Appendix A.)
 
@@ -1991,7 +1991,7 @@ Yes \_\_\_\_No \_\_\_\_
 
 14.3.8 The office is considered to be in the following category for lightning damage probability based on the Figure 1 map of RUS TE&CM 823 (see paragraph (u)(2) of 1755.522).
 
-\_\_\_\_ Very High\_\_\_\_ Higher than Average\_\_\_\_ Average\_\_\_\_ Lower than Average\_\_\_\_ Very Low
+\_\_\_\_ Very High \_\_\_\_ Higher than Average \_\_\_\_ Average\_\_\_\_ Lower than Average \_\_\_\_ Very Low
 
 14.3.9 The following is additional information regarding operating environment conditions which should be considered in determining system protection requirements (tower in vicinity, high exposure, etc.):
 
@@ -2029,11 +2029,11 @@ Appendix B to 7 CFR 1755.522—Detailed Information on Remote Switching Terminal
 
 3.1 Number of subscriber lines having loop resistance, including the telephone set of:
 
-No. of Lines1501-1900 Ohms \_\_\_\_\_\_\_\_\_\_1901-3200 Ohms \_\_\_\_\_\_\_\_
+No. of Lines 1501-1900 Ohms \_\_\_\_\_\_\_\_\_\_ 1901-3200 Ohms \_\_\_\_\_\_\_\_
 
 3.2 Number of pay station lines having loop resistance, excluding the telephone set, greater than:
 
-No. of Lines1200 Ohms (For Prepay) \_\_\_\_\_\_\_\_\_\_\_\_1000 Ohms (For Semi-Post Pay Operation) \_\_\_\_\_\_\_\_\_\_.4. Range Extension
+No. of Lines 1200 Ohms (For Prepay) \_\_\_\_\_\_\_\_\_\_\_\_ 1000 Ohms (For Semi-Post Pay Operation) \_\_\_\_\_\_\_\_\_\_.4. Range Extension
 
 4.1 If no standby power is available at the site, loop extenders may be required on 1501 to 1900 ohms loops.
 
@@ -2047,7 +2047,7 @@ No. of Lines1200 Ohms (For Prepay) \_\_\_\_\_\_\_\_\_\_\_\_1000 Ohms (For Semi-P
 
 5.2 *Charger input rating shall be:* Voltage \_\_\_\_\_\_\_\_\_\_ Phase \_\_\_\_\_\_\_\_\_\_ Frequency \_\_\_\_\_\_\_\_\_\_
 
-*3-Phase Connection:*3-Wire \_\_\_\_\_\_\_\_\_\_4-Wire \_\_\_\_\_\_\_\_\_\_Delta \_\_\_\_\_\_\_\_\_\_Y\_\_\_\_\_\_\_\_\_\_
+*3-Phase Connection:*3-Wire \_\_\_\_\_\_\_\_\_\_ 4-Wire \_\_\_\_\_\_\_\_\_\_ Delta \_\_\_\_\_\_\_\_\_\_ Y\_\_\_\_\_\_\_\_\_\_
 
 5.2.1 Charger shall be capable of charging the RST battery on a full float basis when the RST reaches \_\_\_\_\_\_\_\_ lines at ultimate traffic rate specified in Item 2, Appendix B.
 
@@ -2154,7 +2154,7 @@ Reused protectors are: \_\_\_\_\_\_\_\_ (Mfr.) \_\_\_\_\_\_\_\_ (Type).
 
 11.3 The following is additional information regarding operating environment conditions which should be considered in determining system protection requirements (tower in vicinity, high exposure, etc.):
 
-12. Explanatory NotesAppendix C to 7 CFR 1755.522—Specifications for Digital, Stored Program Controlled Central Office Equipment Detailed Requirements—Bidder Supplied InformationTelephone CompanyNameLocationCentral Office Name (By Location)Town \_\_\_\_\_\_\_\_\_\_County \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ State \_\_\_\_\_\_
+12. Explanatory NotesAppendix C to 7 CFR 1755.522—Specifications for Digital, Stored Program Controlled Central Office Equipment Detailed Requirements—Bidder Supplied Information Telephone Company Name Location Central Office Name (By Location) Town \_\_\_\_\_\_\_\_\_\_County \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ State \_\_\_\_\_\_
 
 Attended \_\_\_\_\_\_ Unattended \_\_\_\_\_\_
 
@@ -2232,7 +2232,7 @@ Minimum \_\_\_\_\_\_\_\_\_\_\_\_ Maximum \_\_\_\_\_\_\_\_\_\_\_\_
 
 5.2.2 Operating Humidity Range
 
-Minimum \_\_\_\_\_\_\_\_\_\_\_\_ Maximum \_\_\_\_\_\_\_\_\_\_\_\_6. Additional Information to be Furnished by Bidder
+Minimum \_\_\_\_\_\_\_\_\_\_\_\_ Maximum \_\_\_\_\_\_\_\_\_\_\_\_ 6. Additional Information to be Furnished by Bidder
 
 6.1 The bidder shall accompany its bid with the following information:
 
@@ -2301,35 +2301,35 @@ Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.9 If a qualified metallic water system is present, inspect the MGB connecting conductor to ensure that it is properly sized and installed by the most direct route with no sharp bends and that it is clamped solidly on the water pipes. (Refer to RUS TE&CM 810, Item 4.3.3 for details on metallic water system grounding.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 2.10 All power and grounding conductors are to be continuous, end to end, with no splices, size discontinuity or intermediate terminations. If an exception is necessary, unusual care must be taken to assure proper bonding between the two sections. (Refer to RUS TE&CM 810, Appendix C, section 5.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 2.11 All ground conductors should be void of sharp bends along their entire lengths. (Refer to RUS TE&CM 810, Item 8.2.2.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 2.12 Ground conductors should only be placed in nonmetallic conduit. Those routed through metallic conduit require that both ends of the conduit be bonded to the ground conductor. (Refer to RUS TE&CM 810, Item 8.2.4.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 2.13 Ground conductors should not be encircled by metallic clamp. Metallic straps are to be removed and replaced with nonmetallic clamps. (Refer to RUS TE&CM 810, Item 8.2.4.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 2.14 If metallic conduit is used, it is to be insulated from all ironwork.
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 2.15 Inspect to determine if the required central office supplier electrostatic discharge plates, wrist wraps, antistatic floor mats, etc. are available and properly installed. (Refer to RUS TE&CM 810, Item 12.3.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 2.16 Ground conductors, except green wires, should not be routed close and parallel to other conductors so as to minimize induction on surges into equipment wiring. It is also better not to route these ground conductors through cable racks or troughs, or within the confines of any iron work. (Refer to RUS TE&CM 810, Item 8.2.3.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:3. Master Ground Bar (MGB)
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:3. Master Ground Bar (MGB)
 
 3.1 The designated P, A, N, and I segments of the master ground bar (MGB) should be clearly identified. (Refer to RUS TE&CM 810, Figure 1 for MGB segmentation arrangement.)
 
@@ -2337,27 +2337,27 @@ Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 3.2 Check for appearance and proper location of following on MGB:
 
-(a) R—Interior radio equipment1
+(a) R—Interior radio equipment 1
 
 1 Surge Producer—(P)
 
-(b) C—Cable entrance ground bar1
+(b) C—Cable entrance ground bar 1
 
-(c) M—MDF ground bar1
+(c) M—MDF ground bar 1
 
-(d) G—Standby power equipment frame ground1
+(d) G—Standby power equipment frame ground 1
 
-(e) N—Commercial power MGN2
+(e) N—Commercial power MGN 2
 
 2 Surge Absorber—(A)
 
-(f) B—Building structure ground2
+(f) B—Building structure ground 2
 
-(g) L—Central office ground field2
+(g) L—Central office ground field 2
 
-(h) W—Water pipe system2
+(h) W—Water pipe system 2
 
-(i) N1—Battery Return3
+(i) N1—Battery Return 3
 
 3 Grounds to non-IGZ Equipment—(N)
 
@@ -2365,11 +2365,11 @@ Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 (k) N3—Outside IGZ: \_\_\_\_\_\_\_\_\_\_\_\_3
 
-(l) I1—Ground window bar4
+(l) I1—Ground window bar 4
 
 4 Grounds to IGZ Equipment (GWB's)—(I)
 
-(m) I2—Ground window bar4
+(m) I2—Ground window bar 4
 
 Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
@@ -2603,36 +2603,36 @@ Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 9.2 If there is a non-MGN ac power system, there is to be a properly sized and connected insulated conductor bond between the power service ground electrode and the MGB. (Refer to RUS TE&CM 810, Item 4.3.1.1.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 9.3 AC conductors including ground conductors serving 120-volt ac electric convenience receptacles and all direct wire peripheral equipment, located in the IGZ, should be sized in accordance with normal “green wire” criteria. (Refer to RUS TE&CM 810, Items 5.5.4, 5.5.5, and 5.5.6.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 9.4 Minimum protection for ac power serving the central office buildings should consist of an RUS accepted secondary arrestor at the service entrance. (Refer to RUS TE&CM 810, section 9.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 9.5 A properly sized conductor for ground bonding between the standby power plant framework (not separately derived) and the MGB is to be provided to equalize framework voltages for personnel safety reasons. (Refer to RUS TE&CM 810, Item 4.2.4.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:10. Miscellaneous
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:10. Miscellaneous
 
 10.1 All non-IGZ equipment frames, relay racks, cable racks and other ironwork are to be properly connected to the MGB. (Refer to TE&CM 810, Item 4.4.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 10.2 Shields on high frequency intra-office cables are to be properly isolated and connected only to an isolation ground bar in the relay rack. All shielded cables entering the IGZ should only be referenced at the IGZ termination point as given by the manufacturer. (Refer to RUS TE&CM 810, Item 7.2.1.2.)
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 10.3 Isolation ground bars in the relay racks are to be properly connected to the MGB with appropriate sized conductor with no sharp bends.
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 10.4 All radio equipment cabinet(s) are to be at least 10 feet (305 cm) from the IGZ.
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:
 
 10.5 The metal spare parts cabinet is to be grounded with a #6 AWG or larger insulated wire to non-IGZ cable rack, etc. or directly to the MGB.
 
-Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:[58 FR 30938, May 28, 1993; 58 FR 36252, July 6, 1993, as amended at 60 FR 1711, Jan. 5, 1995, 60 FR 64312, 64314, Dec. 15, 1995; 69 FR 18803, Apr. 9, 2004]
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No Comments:[58 FR 30938, May 28, 1993; 58 FR 36252, July 6, 1993, as amended at 60 FR 1711, Jan. 5, 1995, 60 FR 64312, 64314, Dec. 15, 1995; 69 FR 18803, Apr. 9, 2004]

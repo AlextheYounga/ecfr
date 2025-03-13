@@ -16,4 +16,4 @@
 
 I authorize the release of information provided on this application form to other organizations administering assistance programs for use in determining my eligibility for participation in other public assistance programs and for program outreach purposes. (Please indicate decision by placing a checkmark in the appropriate box.)
 
-YES [ ]NO [ ]”(Approved by the Office of Management and Budget under control number 0584-0293)[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38750, July 9, 2014; 85 FR 68721, Oct. 30, 2020]
+YES [ ] NO [ ]”(Approved by the Office of Management and Budget under control number 0584-0293) [70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38750, July 9, 2014; 85 FR 68721, Oct. 30, 2020]

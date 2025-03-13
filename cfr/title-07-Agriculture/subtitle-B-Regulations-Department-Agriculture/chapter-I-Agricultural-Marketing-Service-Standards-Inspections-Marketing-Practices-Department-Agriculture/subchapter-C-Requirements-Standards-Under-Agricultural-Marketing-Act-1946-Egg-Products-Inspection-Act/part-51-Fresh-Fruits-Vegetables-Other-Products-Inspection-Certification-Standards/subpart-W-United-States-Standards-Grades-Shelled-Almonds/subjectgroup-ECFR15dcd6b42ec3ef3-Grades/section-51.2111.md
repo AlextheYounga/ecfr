@@ -2,7 +2,7 @@
 
 “U.S. No. 1 Pieces” consists of shelled almonds which are not bitter, which are clean and well dried, and which are free from decay, rancidity, insect injury, foreign material, particles and dust, and free from damage caused by mold, gum, shriveling, brown spot or other means.
 
-(a) Unless otherwise specified, the minimum diameter shall be not less than8/64 of an inch (3.2 mm). (See §§ 51.2113 and 51.2114.)
+(a) Unless otherwise specified, the minimum diameter shall be not less than 8/64 of an inch (3.2 mm). (See §§ 51.2113 and 51.2114.)
 
 (b) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
 

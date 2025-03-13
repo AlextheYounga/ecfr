@@ -38,4 +38,4 @@ Fees to be charged and collected for any grading service, other than for an appe
 
 (4) Graders will be required to confine their activities to those duties necessary in the rendering of grading service and such closely related activities as may be approved by AMS: *Provided,* That in no instance may the graders assume the duties of management.
 
-[34 FR 8232, May 28, 1969]Editorial Note:For Federal Register citations affecting § 56.52, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[34 FR 8232, May 28, 1969] Editorial Note:For Federal Register citations affecting § 56.52, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

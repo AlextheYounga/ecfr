@@ -1,6 +1,6 @@
 ##### § 353.8 Accreditation of non-government facilities. #####
 
-(a) The Administrator may accredit a non-government facility to perform specific laboratory testing or phytosanitary inspection services if the Administrator determines that the non-government facility meets the criteria of paragraph (b) of this section.1
+(a) The Administrator may accredit a non-government facility to perform specific laboratory testing or phytosanitary inspection services if the Administrator determines that the non-government facility meets the criteria of paragraph (b) of this section. 1
 
 1 A list of accredited non-government facilities may be obtained by writing to Phytosanitary Issues Management, PPQ, APHIS, 4700 River Road, Unit 140, Riverdale, MD 20737-1236.
 

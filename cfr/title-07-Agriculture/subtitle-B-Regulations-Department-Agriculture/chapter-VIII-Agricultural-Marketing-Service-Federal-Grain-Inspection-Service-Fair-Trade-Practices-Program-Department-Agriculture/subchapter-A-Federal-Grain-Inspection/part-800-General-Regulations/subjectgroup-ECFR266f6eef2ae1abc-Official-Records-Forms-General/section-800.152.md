@@ -16,4 +16,4 @@
 
 (c) *Special retention periods.* In specific instances, the Administrator may require that file samples be retained for a period of not more than 90 calendar days. File samples may be kept for a longer time than the regular retention period at the option of the Service, the agency, or the individual maintaining the records.
 
-[50 FR 18986, May 6, 1985, as amended at 78 FR 43757, July 22, 2013](Approved by the Office of Management and Budget under control number 0580-0011)
+[50 FR 18986, May 6, 1985, as amended at 78 FR 43757, July 22, 2013] (Approved by the Office of Management and Budget under control number 0580-0011)

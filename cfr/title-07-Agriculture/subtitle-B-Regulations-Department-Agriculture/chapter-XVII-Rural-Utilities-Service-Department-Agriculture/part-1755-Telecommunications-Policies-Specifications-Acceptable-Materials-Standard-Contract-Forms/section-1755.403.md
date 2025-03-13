@@ -114,7 +114,7 @@
 
 (iii) To correct the measured shield resistance to the reference temperature of 68 °F (20 °C) use the following formulae:
 
-R68 = Rt/[1 + A(t − 68)] for English UnitsR20 = Rt/[1 + A(t − 20)] for Metric UnitsWhere:R68 = Shield resistance corrected to 68 °F in ohms.R20 = Shield resistance corrected to 20 °C in ohms.Rt = Shield resistance at measurement temperature in ohms.A = Temperature coefficient of the shield tape.t = Measurement temperature in °F or (°C).
+R68 = Rt/[1 + A(t − 68)] for English Units R20 = Rt/[1 + A(t − 20)] for Metric Units Where: R68 = Shield resistance corrected to 68 °F in ohms. R20 = Shield resistance corrected to 20 °C in ohms. Rt = Shield resistance at measurement temperature in ohms. A = Temperature coefficient of the shield tape. t = Measurement temperature in °F or (°C).
 
 (iv) The temperature coefficients (A) for the shield tapes to be used in the formulae referenced in paragraph (a)(5)(iii) of this section are as follows:
 
@@ -210,7 +210,7 @@ Only the megohm-mile (megohm-km) requirement shall be cause for rejection, not i
 
 (C) Correct the total calculated dc loop resistance at the temperature of 68 °F (20 °C) to the measurement temperature by the following formulae:
 
-Rt = R68 × [1 + 0.0022 × t − 68)] for English UnitsRt = R20 × [1 + 0.0040 × (t − 20)] for Metric UnitsWhere:Rt = Loop resistance at the measurement temperature in ohms.R68 = Loop resistance at a temperature of 68 °F in ohms.R20 = Loop resistance at a temperature of 20 °C in ohms.t = Measurement temperature in °F or (°C).
+Rt = R68 × [1 + 0.0022 × t − 68)] for English Units Rt = R20 × [1 + 0.0040 × (t − 20)] for Metric Units Where: Rt = Loop resistance at the measurement temperature in ohms. R68 = Loop resistance at a temperature of 68 °F in ohms. R20 = Loop resistance at a temperature of 20 °C in ohms. t = Measurement temperature in °F or (°C).
 
 (D) Compare the calculated dc loop resistance at the measurement temperature to the measured dc loop resistance to determine compliance with the requirement specified in paragraph (d)(6)(i) of this section.
 
@@ -484,7 +484,7 @@ Rt = R68 × [1 + 0.0022 × t − 68)] for English UnitsRt = R20 × [1 + 0.0040 �
 
 (C) Correct the total calculated insertion loss at the temperature of 68 °F (20 °C) to the measurement temperature by the following formulae:
 
-At = A68 × [1 + 0.0012 × (t − 68)] for English UnitsAt = A20 × [1 + 0.0022 × (t − 20)] for Metric UnitsWhere:At = Insertion loss at the measurement temperature in dB.A68 = Insertion loss at a temperature of 68 °F in dB.A20 = Insertion loss at a temperature of 20 °C in dB.t = Measurement temperature in °F or (°C); and
+At = A68 × [1 + 0.0012 × (t − 68)] for English Units At = A20 × [1 + 0.0022 × (t − 20)] for Metric Units Where:At = Insertion loss at the measurement temperature in dB.A68 = Insertion loss at a temperature of 68 °F in dB.A20 = Insertion loss at a temperature of 20 °C in dB.t = Measurement temperature in °F or (°C); and
 
 (D) Compare the calculated insertion loss at the measurement temperature to the measured insertion loss to determine compliance with the requirement specified in paragraph (g)(4)(ii) of this section. (Note: Attenuation varies directly with temperature. For each ±10 °F (5.6 °C) change in temperature increase or decrease the attenuation by ±1%.)
 

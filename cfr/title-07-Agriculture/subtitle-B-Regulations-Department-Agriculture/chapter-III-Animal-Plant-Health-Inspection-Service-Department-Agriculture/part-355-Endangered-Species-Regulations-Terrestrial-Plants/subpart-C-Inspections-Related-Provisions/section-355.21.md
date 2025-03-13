@@ -1,4 +1,4 @@
-##### § 355.21 Marking and mailing requirements for plants imported, exported, or reexported by mail.5 #####
+##### § 355.21 Marking and mailing requirements for plants imported, exported, or reexported by mail. 5 #####
 
 (a) Any terrestrial plant which is to be imported by mail and which may be imported under 50 CFR part 17 or part 23 only if accompanied by documentation, shall be mailed to Plant Protection and Quarantine (at a port authorized for such purpose by the U.S. Department of the Interior in 50 CFR part 24 pursuant to section 9(f) of the Act (16 U.S.C. 1538 (f))); and shall be accompanied by a separate sheet of paper within the package plainly and correctly bearing the name, address, and telephone number of the intended recipient in the United States; and shall plainly and correctly bear on the outer container the following information:
 

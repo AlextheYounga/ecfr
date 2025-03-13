@@ -2,7 +2,7 @@
 
 (a) *Aflatoxin testing services.* The aflatoxin analyses for peanuts, peanut products, dried fruits, grains, edible seeds, tree nuts, shelled corn products, cottonseed, oilseed products and other commodities are performed at the following 6 locations for AMS Science and Technology (S&T) Aflatoxin Laboratories:
 
-(1) USDA, AMS, S&T1211 Schley Avenue, Albany, GA 31707.(2) USDA, AMS, S&Tc/o Golden Peanut Company, Mail: P.O. Box 279, 301 West Pearl Street, Aulander, NC 27805.(3) USDA, AMS, S&T610 North Main Street, Blakely, GA 31723.(4) USDA, AMS, S&T107 South Fourth Street, Madill, OK 73446.(5) USDA, AMS, S&Tc/o Cargill Peanut Products, Mail: P.O. Box 272, 715 North Main Street, Dawson, GA 31742-0272.(6) USDA, AMS, S&TMail: P.O. Box 1130, 308 Culloden Street, Suffolk, VA 23434.
+(1) USDA, AMS, S&T 1211 Schley Avenue, Albany, GA 31707. (2) USDA, AMS, S&T c/o Golden Peanut Company, Mail: P.O. Box 279, 301 West Pearl Street, Aulander, NC 27805. (3) USDA, AMS, S&T 610 North Main Street, Blakely, GA 31723. (4) USDA, AMS, S&T 107 South Fourth Street, Madill, OK 73446. (5) USDA, AMS, S&T c/o Cargill Peanut Products, Mail: P.O. Box 272, 715 North Main Street, Dawson, GA 31742-0272. (6) USDA, AMS, S&T Mail: P.O. Box 1130, 308 Culloden Street, Suffolk, VA 23434.
 
 (b) *Peanuts, peanut products, and oilseed testing services.* (1) The Science and Technology (S&T) Aflatoxin Laboratories at Madill, Oklahoma and Blakely, Georgia will perform other analyses for peanuts, peanut products, and a variety of oilseeds. The analyses for oilseeds include testing for free fatty acids, ammonia, nitrogen or protein, moisture and volatile matter, foreign matter, and oil (fat) content.
 

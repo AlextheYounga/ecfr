@@ -22,4 +22,4 @@
 
 (e) The grade, size, quality, and maturity requirements of this section shall not be applicable to grapes imported for processing or donation to charitable organizations, but shall be subject to the safeguard provisions contained in § 944.350.
 
-[51 FR 12502, Apr. 11, 1986]Editorial Note:For Federal Register citations affecting § 944.503, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[51 FR 12502, Apr. 11, 1986] Editorial Note:For Federal Register citations affecting § 944.503, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

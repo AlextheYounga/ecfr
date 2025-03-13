@@ -16,8 +16,7 @@
 
 (d) For base acre reductions:
 
-(1) Subject to the limitation in paragraph (d)(2) of this section, a permanent reduction of all or a portion of a farm's base acres
-will be allowed when all owners of the farm execute and submit a written request for such reduction, on a CCC-approved standard, uniform form designated by CCC, to the FSA county office where the records for the farm are administratively maintained.
+(1) Subject to the limitation in paragraph (d)(2) of this section, a permanent reduction of all or a portion of a farm's base acres will be allowed when all owners of the farm execute and submit a written request for such reduction, on a CCC-approved standard, uniform form designated by CCC, to the FSA county office where the records for the farm are administratively maintained.
 
 (2) A permanent reduction of all or a portion of a farm's base acres to negate or reduce a program violation is not allowed.
 

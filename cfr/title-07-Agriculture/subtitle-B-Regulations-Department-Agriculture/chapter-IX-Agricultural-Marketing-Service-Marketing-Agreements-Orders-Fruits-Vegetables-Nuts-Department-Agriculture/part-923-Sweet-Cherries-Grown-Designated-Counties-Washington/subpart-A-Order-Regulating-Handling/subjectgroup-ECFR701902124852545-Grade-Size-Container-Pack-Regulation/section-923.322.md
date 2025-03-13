@@ -4,9 +4,9 @@
 
 (b) *Size.* No handler shall handle, except as otherwise provided in this section, any lot of cherries unless such cherries meet the following minimum size requirements:
 
-(1) For the Rainier variety and similar varieties commonly referred to as “lightly colored sweet cherries,” at least 90 percent, by count, of the cherries in any lot shall measure not less than61/64-inch in diameter and not more than 5 percent, by count, may be less than57/64-inch in diameter.
+(1) For the Rainier variety and similar varieties commonly referred to as “lightly colored sweet cherries,” at least 90 percent, by count, of the cherries in any lot shall measure not less than 61/64-inch in diameter and not more than 5 percent, by count, may be less than 57/64-inch in diameter.
 
-(2) For all other varieties, at least 90 percent, by count, of the cherries in any lot shall measure not less than54/64 inch in diameter and not more than 5 percent, by count, may be less than52/64 inch in diameter.
+(2) For all other varieties, at least 90 percent, by count, of the cherries in any lot shall measure not less than 54/64 inch in diameter and not more than 5 percent, by count, may be less than 52/64 inch in diameter.
 
 (c) *Maturity.* No handler shall handle, except as otherwise provided in this section, any lot of Rainier cherries or other varieties of “lightly colored sweet cherries” unless such cherries meet a minimum of 17 percent soluble solids as determined from a composite sample by refractometer prior to packing, at time of packing, or at time of shipment: *Provided,* That individual lots shall not be combined with other lots to meet soluble solids requirements.
 
@@ -30,7 +30,7 @@
 
 (1) *Quality.* 90 percent, by count, of such cherries in any lot must exhibit a pink-to-red surface blush and, for any given sample, not more than 20 percent of the cherries shall be absent a pink-to-red surface blush.
 
-(2) *Pack.* At least 90 percent, by count, of the cherries in any lot shall measure not less than64/64 inch (101/2 row) in diameter and not more than 5 percent, by count, may be less than61/64 inch (11-row) in diameter.
+(2) *Pack.* At least 90 percent, by count, of the cherries in any lot shall measure not less than 64/64 inch (101/2 row) in diameter and not more than 5 percent, by count, may be less than 61/64 inch (11-row) in diameter.
 
 (f) *Grading or packing cherries outside the production area.* (1) Persons desiring to ship or receive cherries for grading or packing outside the production area shall apply to the committee on a “Shippers/Receivers Application for Special Purpose Shipment Certificate” form, and receive approval from the Committee. The application shall contain the following: (i) Name, address, telephone number, and signature of applicant;
 

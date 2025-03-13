@@ -28,7 +28,7 @@ The site is 2 miles or more from an urban built-up area—15 pointsThe site is m
 
 (6) How close is the site to water lines, sewer lines and/or other local facilities and services whose capacities and design would promote nonagricultural use?
 
-None of the services exist nearer than 3 miles from the site—15 pointsSome of the services exist more than 1 but less than 3 miles from the site—10 pointsAll of the services exist within1/2 mile of the site—0 points
+None of the services exist nearer than 3 miles from the site—15 pointsSome of the services exist more than 1 but less than 3 miles from the site—10 pointsAll of the services exist within 1/2 mile of the site—0 points
 
 (7) Is the farm unit(s) containing the site (before the project) as large as the average-size farming unit in the county? (Average farm sizes in each county are available from the NRCS field offices in each State. Data are from the latest available Census of Agriculture, Acreage of Farm Units in Operation with $1,000 or more in sales.)
 

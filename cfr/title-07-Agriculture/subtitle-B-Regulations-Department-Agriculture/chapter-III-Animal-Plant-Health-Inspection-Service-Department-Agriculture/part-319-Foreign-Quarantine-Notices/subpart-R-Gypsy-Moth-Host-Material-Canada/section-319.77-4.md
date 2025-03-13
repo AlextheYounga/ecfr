@@ -2,8 +2,7 @@
 
 (a) *Trees and shrubs.*1 (1) Trees without roots (*e.g.,* Christmas trees) may be imported into the United States from any area of Canada without restriction under this subpart if they:
 
-1 Trees and Shrubs from Canada may be subject to additional restrictions under “
-Subpart I—Logs, Lumber, and Other Wood Articles” (§§ 319.40-1 through 319.40-11).
+1 Trees and Shrubs from Canada may be subject to additional restrictions under “ Subpart I—Logs, Lumber, and Other Wood Articles” (§§ 319.40-1 through 319.40-11).
 
 (i) Were greenhouse-grown throughout the year;
 

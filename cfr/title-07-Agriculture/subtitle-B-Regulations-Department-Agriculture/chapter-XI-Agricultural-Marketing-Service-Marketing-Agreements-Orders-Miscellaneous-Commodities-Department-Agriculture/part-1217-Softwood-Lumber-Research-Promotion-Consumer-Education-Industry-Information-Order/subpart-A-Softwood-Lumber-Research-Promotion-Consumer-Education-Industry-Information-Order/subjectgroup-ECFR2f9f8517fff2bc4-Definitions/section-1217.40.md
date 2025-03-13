@@ -28,4 +28,4 @@
 
 (3) If warranted, recommend to the Secretary the reapportionment of the Board membership to reflect changes in the geographical distribution of the volume of softwood lumber production that is manufactured and shipped within the United States by domestic manufacturers and the volume of softwood lumber imported into the United States. The distribution of volumes between regions and the distribution of the size of operations within regions shall also be considered. The number of Board members may also be changed. Any changes in Board composition shall be implemented by the Secretary through rulemaking.
 
-[84 FR 50299, Sept. 25, 2019][76 FR 46193, Aug. 2, 2011, as amended at 85 FR 45059, July 27, 2020; 89 FR 58250, July 18, 2024]
+[84 FR 50299, Sept. 25, 2019] [76 FR 46193, Aug. 2, 2011, as amended at 85 FR 45059, July 27, 2020; 89 FR 58250, July 18, 2024]

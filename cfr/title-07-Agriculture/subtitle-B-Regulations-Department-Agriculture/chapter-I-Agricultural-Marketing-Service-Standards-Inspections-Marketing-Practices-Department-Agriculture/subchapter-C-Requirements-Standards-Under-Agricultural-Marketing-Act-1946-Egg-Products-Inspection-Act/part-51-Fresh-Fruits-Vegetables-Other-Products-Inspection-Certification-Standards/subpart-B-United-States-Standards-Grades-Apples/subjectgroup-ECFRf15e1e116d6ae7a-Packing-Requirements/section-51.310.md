@@ -1,6 +1,6 @@
 ##### § 51.310 Packing requirements. #####
 
-(a) Apples tray packed or cell packed in cartons shall be arranged according to approved and recognized methods. Packs shall be at least fairly tight2 or fairly well filled.3
+(a) Apples tray packed or cell packed in cartons shall be arranged according to approved and recognized methods. Packs shall be at least fairly tight 2 or fairly well filled. 3
 
 2 “Fairly tight” means that apples are of the proper size for molds or cell compartments in which they are packed, and that molds or cells are filled in such a way that no more than slight movement of apples within molds or cells is possible.
 

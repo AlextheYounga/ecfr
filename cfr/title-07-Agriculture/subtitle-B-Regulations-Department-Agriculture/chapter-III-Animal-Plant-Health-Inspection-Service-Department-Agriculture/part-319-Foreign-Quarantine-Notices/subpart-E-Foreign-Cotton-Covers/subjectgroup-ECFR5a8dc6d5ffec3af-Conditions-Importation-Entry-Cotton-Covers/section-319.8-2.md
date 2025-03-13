@@ -2,7 +2,7 @@
 
 (a) Except as otherwise provided for in §§ 319.8-10 and 319.8-18, permits shall be obtained for importations into the United States of all cotton and covers. Permits will be issued only for cotton and covers authorized entry under §§ 319.8-6 through 319.8-20. Persons desiring to import cotton or covers under §§ 319.8-6 through 319.8-20 shall, in advance of departure of such material from a foreign port, submit to the Plant Protection and Quarantine Programs an application for a permit in accordance with §§ 319.7 through 319.7-5 . Applications to import cottonseed shall state the approximate quantity and the proposed United States port of entry. Applications to import lint, linters, or waste shall state whether such materials are compressed.
 
-(b) Applications to import lint, linters, or waste at a port1 other than one in the North, in California, or on the Mexican Border shall also specify whether the commodity is compressed to high density.
+(b) Applications to import lint, linters, or waste at a port 1 other than one in the North, in California, or on the Mexican Border shall also specify whether the commodity is compressed to high density.
 
 1 Including ports in Guam, Hawaii, Puerto Rico, and the Virgin Islands of the United States.
 

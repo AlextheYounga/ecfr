@@ -88,4 +88,4 @@
 
 (e) The lack of an eligible cause of loss during a coverage period is not a compliance matter or issue. NAP will not provide assistance for crops that do not suffer from an eligible cause of loss during a coverage period. The relief provisions of these regulations and of 7 CFR part 718 cannot be used to pay producers of crops that did not suffer from an eligible cause of loss during the coverage period.
 
-[79 FR 74576, Dec. 15, 2014, as amended at 85 FR 12220, Mar, 2, 2020]Editorial Note:At 85 FR 12220, Mar. 2, 2020, § 1437.10 was amended; however, the amendment in paragraph (b)(1)(ix) could not be incorporated due to inaccurate amendatory instruction.
+[79 FR 74576, Dec. 15, 2014, as amended at 85 FR 12220, Mar, 2, 2020] Editorial Note:At 85 FR 12220, Mar. 2, 2020, § 1437.10 was amended; however, the amendment in paragraph (b)(1)(ix) could not be incorporated due to inaccurate amendatory instruction.

@@ -881,4 +881,4 @@ Each period of overtime and holiday duty, as defined in § 354.1 shall, in addit
 |                                                                                                               Temporary detail:                                                                                                               |                                              |                 |    |
 |                                                                                     Any inspection point to which an employee may be temporarily detailed                                                                                     |                                              |        1        |    |
 
-[49 FR 32332, Aug. 14, 1984]Editorial Note:For Federal Register citations affecting § 354.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[49 FR 32332, Aug. 14, 1984] Editorial Note:For Federal Register citations affecting § 354.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

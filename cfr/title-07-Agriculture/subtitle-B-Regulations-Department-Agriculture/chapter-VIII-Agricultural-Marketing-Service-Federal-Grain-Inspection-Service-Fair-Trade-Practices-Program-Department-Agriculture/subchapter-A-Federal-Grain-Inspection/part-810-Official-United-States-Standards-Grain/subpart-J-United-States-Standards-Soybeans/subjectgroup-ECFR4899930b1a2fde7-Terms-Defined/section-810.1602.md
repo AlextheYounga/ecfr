@@ -8,7 +8,7 @@
 
 (b) *Damaged kernels.* Soybeans and pieces of soybeans that are badly ground-damaged, badly weather-damaged, diseased, frost-damaged, germ-damaged, heat-damaged, insect-bored, mold-damaged, sprout-damaged, stinkbug-stung, or otherwise materially damaged. Stinkbug-stung kernels are considered damaged kernels at the rate of one-fourth of the actual percentage of the stung kernels.
 
-(c) *Foreign material.* All matter that passes through an8/64 round-hole sieve and all matter other than soybeans remaining in the sieved sample after sieving according to procedures prescribed in FGIS instructions.
+(c) *Foreign material.* All matter that passes through an 8/64 round-hole sieve and all matter other than soybeans remaining in the sieved sample after sieving according to procedures prescribed in FGIS instructions.
 
 (d) *Heat-damaged kernels.* Soybeans and pieces of soybeans that are materially discolored and damaged by heat.
 
@@ -16,6 +16,6 @@
 
 (f) *Sieve—8/64 round-hole sieve.* A metal sieve 0.032 inch thick perforated with round holes 0.125 (8/64) inch in diameter.
 
-(g) *Splits.* Soybeans with more than1/4 of the bean removed and that are not damaged.
+(g) *Splits.* Soybeans with more than 1/4 of the bean removed and that are not damaged.
 
 [52 FR 24418, June 30, 1987, as amended at 88 FR 45056, July 14, 2023]

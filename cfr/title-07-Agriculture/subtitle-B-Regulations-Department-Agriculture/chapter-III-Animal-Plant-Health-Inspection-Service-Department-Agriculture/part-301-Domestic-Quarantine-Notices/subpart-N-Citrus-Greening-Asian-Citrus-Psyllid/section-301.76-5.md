@@ -2,7 +2,7 @@
 
 (a) *Certificates.* In addition to all other relevant conditions within this subpart, an inspector or person operating under a compliance agreement will issue a certificate only if a regulated article:
 
-(1) Will be moved in compliance with any additional emergency conditions that the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714)1 to prevent the spread of Asian citrus psyllid; and
+(1) Will be moved in compliance with any additional emergency conditions that the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714) 1 to prevent the spread of Asian citrus psyllid; and
 
 1 An inspector may hold seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of plants, plant pests, or other articles in accordance with sections 414, 421, and 423 of the Plant Protection Act (7 U.S.C. 7714, 7731, and 7754).
 
@@ -22,4 +22,4 @@
 
 (e) Unless specific provisions exist in § 301.76-6 or § 301.76-7 to allow the interstate movement of a certain regulated article, the interstate movement of that article is prohibited.
 
-(Approved by the Office of Management and Budget under control number 0579-0363)[75 FR 34332, June 17, 2010, as amended at 87 FR 80011, Dec. 29, 2022]
+(Approved by the Office of Management and Budget under control number 0579-0363) [75 FR 34332, June 17, 2010, as amended at 87 FR 80011, Dec. 29, 2022]

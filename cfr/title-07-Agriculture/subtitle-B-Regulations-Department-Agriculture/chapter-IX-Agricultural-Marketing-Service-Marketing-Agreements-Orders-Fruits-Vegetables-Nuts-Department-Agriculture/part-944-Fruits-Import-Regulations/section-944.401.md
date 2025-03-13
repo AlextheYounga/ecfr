@@ -100,15 +100,15 @@
 
 (12) Imported bulk olives when used in the production of canned ripe olives must be inspected and certified as prescribed in this section. Imported bulk olives which do not meet the applicable minimum size requirements specified in paragraphs (b)(2) through (b)(11) of this section may be imported after August 1, 1996, for limited use, but any such olives so used shall not be smaller than the following applicable minimum size:
 
-(i) Whole ripe olives of Variety Group 1, except Ascolano, Barouni, or St. Agostino varieties, of a size that not more than 35 percent of the olives, by count, may be smaller than1/105 pound (4.3 grams) each.
+(i) Whole ripe olives of Variety Group 1, except Ascolano, Barouni, or St. Agostino varieties, of a size that not more than 35 percent of the olives, by count, may be smaller than 1/105 pound (4.3 grams) each.
 
-(ii) Whole ripe olives of Variety Group 1 of the Ascolano, Barouni, or St. Agostino varieties, of a size that not more than 35 percent of the olives, by count, may be smaller than1/180 pound (2.5 grams) each.
+(ii) Whole ripe olives of Variety Group 1 of the Ascolano, Barouni, or St. Agostino varieties, of a size that not more than 35 percent of the olives, by count, may be smaller than 1/180 pound (2.5 grams) each.
 
-(iii) Whole ripe olives of Variety Group 2, except the Obliza variety, of a size that not more than 35 percent of the olives, by count, may be smaller than1/205 pound (2.2 grams) each.
+(iii) Whole ripe olives of Variety Group 2, except the Obliza variety, of a size that not more than 35 percent of the olives, by count, may be smaller than 1/205 pound (2.2 grams) each.
 
-(iv) Whole ripe olives of Variety Group 2 of the Obliza variety of a size that not more than 35 percent of the olives, by count, may be smaller than1/180 pound (2.5 grams) each.
+(iv) Whole ripe olives of Variety Group 2 of the Obliza variety of a size that not more than 35 percent of the olives, by count, may be smaller than 1/180 pound (2.5 grams) each.
 
-(v) Whole ripe olives not identifiable as to variety or variety group of a size that not more than 35 percent of olives, by count, may be smaller than1/205 pound (2.2 grams) each.
+(v) Whole ripe olives not identifiable as to variety or variety group of a size that not more than 35 percent of olives, by count, may be smaller than 1/205 pound (2.2 grams) each.
 
 (c) The Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, is hereby designated as the governmental inspection service for the purpose of certifying the grade and size of processed olives from imported bulk lots for use in canned ripe olives and the grade and size of imported canned ripe olives. Inspection by said inspection service with appropriate evidence thereof in the form of an official inspection certificate, issued by the service and applicable to the particular lot of olives, is required. With respect to imported bulk olives, inspection and certification shall be completed prior to use as packaged ripe olives. With respect to canned ripe olives, inspection and certification shall be completed prior to importation, unless imports arrive by vessel in which case the date of inspection and certification may be after the date of importation. Any lot of olives which fails to meet the import requirements and is not being imported for purposes of contribution to a charitable organization or processing into oil may be exported or disposed of under the supervision of the Specialty Crops Inspection Division, Specialty Crops Program, AMS, USDA, with the cost of certifying the disposal borne by the importer. Such inspection and certification services will be available, upon application, in accordance with the applicable regulations governing the inspection and certification of Processed Fruits and Vegetables, Processed Products Thereof, and Certain Other Processed Food Products (7 CFR part 52). For questions about inspection services or for further assistance, contact: Specialty Crops Inspection Division, Specialty Crops Program, AMS, USDA, 1400 Independence Avenue SW, Room 1536-S, STOP 0240, Washington, DC 20250-0237; telephone (202) 720-5870; fax (202) 720-0393.
 
@@ -144,4 +144,4 @@
 
 (j) The minimum quality, size, and maturity requirements of this section shall not be applicable to olives imported for charitable organizations or processing for oil, but shall be subject to the safeguard provisions contained in § 944.350.
 
-[47 FR 51349, Nov. 15, 1982]Editorial Note:For Federal Register citations affecting § 944.401, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[47 FR 51349, Nov. 15, 1982] Editorial Note:For Federal Register citations affecting § 944.401, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

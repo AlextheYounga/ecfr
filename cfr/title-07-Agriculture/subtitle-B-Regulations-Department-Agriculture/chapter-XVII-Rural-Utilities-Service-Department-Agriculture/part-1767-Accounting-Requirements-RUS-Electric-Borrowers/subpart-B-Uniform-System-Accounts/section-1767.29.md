@@ -78,7 +78,7 @@ Do not include in this account expenses that are provided for elsewhere, such as
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, materials used, and expenses incurred in activities which primarily convey information as to what the utility urges or suggests customers should do in utilizing electric service to protect health and safety, to encourage environmental protection, to utilize their electric equipment safely and economically, or to conserve electric energy.
 
-Items*Labor:*
+Items *Labor:*
 
 1. Direct supervision of information activities.
 

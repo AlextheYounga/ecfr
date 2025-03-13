@@ -30,4 +30,4 @@
 
 (b) Copies of the public release shall be made available upon request to any interested persons. Any subsequent changes in a school's eligibility criteria during the school year shall be publicly announced in the same manner as the original criteria were announced.
 
-(Sec. 803, Pub. L. 97-35, 95 Stat. 521-535 (42 U.S.C. 1758); Pub. L. 79-396, 60 Stat. 231 (42 U.S.C. 1751); Pub. L. 89-642, 80 Stat. 885-880 (42 U.S.C. 1773); Pub. L. 91-248, 84 Stat. 207 (42 U.S.C. 1759))[Amdt. 8, 40 FR 57207, Dec. 8, 1975]Editorial Note:For Federal Register citations affecting § 245.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Sec. 803, Pub. L. 97-35, 95 Stat. 521-535 (42 U.S.C. 1758); Pub. L. 79-396, 60 Stat. 231 (42 U.S.C. 1751); Pub. L. 89-642, 80 Stat. 885-880 (42 U.S.C. 1773); Pub. L. 91-248, 84 Stat. 207 (42 U.S.C. 1759))[Amdt. 8, 40 FR 57207, Dec. 8, 1975] Editorial Note:For Federal Register citations affecting § 245.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

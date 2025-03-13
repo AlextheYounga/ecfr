@@ -1,6 +1,6 @@
 ##### § 90.383 RSU sites near the U.S./Canada or U.S./Mexico border. #####
 
-Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100852, Dec. 13, 2024.Link to a correction published at 90 FR 5724, Jan. 17, 2025.
 
 Until such time as agreements between the United States and Canada or the United States and Mexico, as applicable, become effective governing border area use of the 5895-5925 MHz band, authorizations to operate Roadside Units (RSUs) are granted subject to the following conditions:
 

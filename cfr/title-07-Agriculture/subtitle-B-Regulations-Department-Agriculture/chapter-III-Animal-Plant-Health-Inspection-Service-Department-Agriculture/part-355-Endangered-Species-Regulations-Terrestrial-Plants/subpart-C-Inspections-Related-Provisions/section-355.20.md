@@ -1,4 +1,4 @@
-##### § 355.20 Marketing and notification requirements for plants imported, exported, or reexported by means other than mail.4 #####
+##### § 355.20 Marketing and notification requirements for plants imported, exported, or reexported by means other than mail. 4 #####
 
 4 Certain terrestrial plants listed in Appendices I, II, or III of the Convention or determined by the U.S. Department of the Interior to be endangered or threatened or similar in appearance to endangered or threatened species are required to be accompanied by documentation at the time of importation, exportation, or reexportation (see 50 CFR chapter I). Plants are allowed to be imported, exported or reexported only at ports authorized for such purposes by the U.S. Department of the Interior, or, under certain circumstances as determined by the U.S. Department of the Interior, at nondesignated ports, pursuant to section 9(f) of the Act (16 U.S.C. 1538(f)). (see 50 CFR part 24 for a list of designated ports.)
 

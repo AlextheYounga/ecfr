@@ -309,17 +309,17 @@ For a basic unit you have 100 percent share in 100 acres of cabbage, 50 acres fo
 
 (1) 50 acres × 400 hundredweight = 20,000 hundredweight guarantee for the fresh market acreage.
 
-50 acres × 400 hundredweight = 20,000 hundredweight guarantee for the processing as sauerkraut acreage.
+ 50 acres × 400 hundredweight = 20,000 hundredweight guarantee for the processing as sauerkraut acreage.
 
 (2) 20,000 hundredweight guarantee × $5.00 price election = $100,000 value of guarantee for the fresh market cabbage.
 
-20,000 hundredweight guarantee × $1.90 price election = $38,000 value of guarantee for processing as sauerkraut.
+ 20,000 hundredweight guarantee × $1.90 price election = $38,000 value of guarantee for processing as sauerkraut.
 
 (3) $100,000 + $38,000 = $138,000 total value of guarantee.
 
 (4) 9,000 hundredweight × $5.00 price election = $45,000 value of production to count for the fresh market acreage.
 
-9,000 hundredweight × $1.90 price election = $17,100 value of production to count for the acreage for processing as sauerkraut.
+ 9,000 hundredweight × $1.90 price election = $17,100 value of production to count for the acreage for processing as sauerkraut.
 
 (5) $45,000 + $17,100 = $62,100 total value of production to count.
 

@@ -38,7 +38,7 @@ As used in this part, the following terms shall be construed, respectively, to m
 
 (2) If applied without compensation, other than trading of personal services between producers of agricultural commodities, on the property of another person.
 
-*Record.* The legible recording of all required elements under section 110.3(a) (1) through (6) for the application of a federally restricted use pesticide.1
+*Record.* The legible recording of all required elements under section 110.3(a) (1) through (6) for the application of a federally restricted use pesticide. 1
 
 1 Records can be handwritten on individual notes or forms, consist of invoices, be computerized, and or be maintained in recordkeeping books.
 

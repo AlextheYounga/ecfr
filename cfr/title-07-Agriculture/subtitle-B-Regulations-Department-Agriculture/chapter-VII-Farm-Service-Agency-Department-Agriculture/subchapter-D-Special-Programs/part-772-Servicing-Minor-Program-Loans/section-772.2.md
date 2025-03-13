@@ -2,7 +2,7 @@
 
 (a) *Abbreviations.*
 
-*AMP* Association-Type Minor Program loan;*CFR* Code of Federal Regulations;*FO* Farm Ownership Loan;*FSA* Farm Service Agency;*IMP* Individual-Type Minor Program loan;*OL* Operating Loan;*USDA* United States Department of Agriculture.
+*AMP* Association-Type Minor Program loan; *CFR* Code of Federal Regulations; *FO* Farm Ownership Loan; *FSA* Farm Service Agency; *IMP* Individual-Type Minor Program loan; *OL* Operating Loan; *USDA* United States Department of Agriculture.
 
 (b) *Definitions.*
 

@@ -1,7 +1,5 @@
 ##### § 90.35 Industrial/Business Pool. #####
 
-Link to an amendment published at 89 FR 100851, Dec. 13, 2024.Link to correction published at 90 FR 5725, Jan. 17, 2025.
-
 (a) *Eligibility.* Persons primarily engaged in any of the following activities are eligible to hold authorizations in the Industrial/Business Pool to provide commercial mobile radio service as defined in part 20 of this chapter or to operate stations for transmission of communications necessary to such activities of the licensee:
 
 (1) The operation of a commercial activity;
@@ -3528,7 +3526,7 @@ IP—Petroleum CoordinatorIW—Power CoordinatorLR—Railroad CoordinatorLA—Au
 
 (4) Take account of the seasonal use of frequencies by the broadcasting service published in accordance with Article 12 of the ITU Radio Regulations.
 
-(91) Subpart M of this part contains rules for assignment of frequencies in the 5850-5925 MHz band.
+(91) Subpart M of this part contains rules for assignment of frequencies in the 5895-5925 MHz band.
 
 (92) This frequency is available on a shared basis both for remote control and telemetry operations and for mobile repeater operations. The authorized bandwidth may not exceed 11.25 kHz.
 

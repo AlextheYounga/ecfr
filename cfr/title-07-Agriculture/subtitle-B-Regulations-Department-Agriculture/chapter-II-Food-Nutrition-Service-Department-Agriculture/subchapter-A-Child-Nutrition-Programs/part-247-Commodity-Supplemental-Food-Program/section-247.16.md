@@ -16,4 +16,4 @@
 
 (d) *What must the local agency do to ensure that participants are aware of the expiration of the certification period?* The local agency must notify program participants in writing at least 15 days before the expiration date that eligibility for the program is about to expire. The local agency must include a statement in the written notification that informs the applicant that program standards are applied without discrimination by race, color, national origin, age, sex, or disability.
 
-(Approved by the Office of Management and Budget under control number 0584-0293)[70 FR 47063, Aug. 11, 2005, as amended at 75 FR 5879, Feb. 5, 2010; 79 FR 38751, July 9, 2014; 85 FR 68722, Oct. 30, 2020]
+(Approved by the Office of Management and Budget under control number 0584-0293) [70 FR 47063, Aug. 11, 2005, as amended at 75 FR 5879, Feb. 5, 2010; 79 FR 38751, July 9, 2014; 85 FR 68722, Oct. 30, 2020]

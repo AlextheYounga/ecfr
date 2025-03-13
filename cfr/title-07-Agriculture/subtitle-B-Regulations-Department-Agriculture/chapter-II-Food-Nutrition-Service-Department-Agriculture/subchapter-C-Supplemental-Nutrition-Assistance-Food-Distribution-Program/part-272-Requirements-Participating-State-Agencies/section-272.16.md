@@ -14,8 +14,7 @@
 
 (4) Notice to the household of match results;
 
-(5) An opportunity for the household to respond to the match prior to an adverse
-action to deny, reduce, or terminate benefits; and
+(5) An opportunity for the household to respond to the match prior to an adverse action to deny, reduce, or terminate benefits; and
 
 (6) The establishment and collection of claims as appropriate.
 

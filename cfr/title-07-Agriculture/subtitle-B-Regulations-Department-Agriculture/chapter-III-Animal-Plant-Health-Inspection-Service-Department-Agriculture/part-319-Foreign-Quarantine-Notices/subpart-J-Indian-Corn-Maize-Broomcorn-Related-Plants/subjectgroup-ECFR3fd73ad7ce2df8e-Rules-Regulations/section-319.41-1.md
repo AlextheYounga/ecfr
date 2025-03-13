@@ -1,8 +1,8 @@
-##### § 319.41-1 Plant products permitted entry.1 #####
+##### § 319.41-1 Plant products permitted entry. 1 #####
 
 1 Except as provided in § 319.41-6 the regulations in this subpart do not authorize importations through the mails.
 
-Except as restricted from certain countries and localities by special quarantines and other orders now in force,2 and by such as may hereafter be promulgated, the following articles may be imported:
+Except as restricted from certain countries and localities by special quarantines and other orders now in force, 2 and by such as may hereafter be promulgated, the following articles may be imported:
 
 2 The entry of the following plants and plant products is prohibited or restricted by specific quarantines and other restrictive orders now in force.
 
@@ -24,7 +24,7 @@ Except as restricted from certain countries and localities by special quarantine
 
 (1) Broomcorn for manufacturing purposes, brooms or similar articles made of broomcorn, clean shelled corn, and clean seed of the other plants covered by § 319.41.
 
-(2) Corn on the cob, green or mature, from the provinces of Canada west of and including Manitoba,3 and from Mexico, Central America, South America, the West Indies, the Bahamas, and Bermuda.
+(2) Corn on the cob, green or mature, from the provinces of Canada west of and including Manitoba, 3 and from Mexico, Central America, South America, the West Indies, the Bahamas, and Bermuda.
 
 3 A quarantine is maintained by Canada to prevent spread of the European corn borer from the infested eastern areas to the still uninfested Provinces west of Ontario.
 

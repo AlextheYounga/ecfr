@@ -2,7 +2,7 @@
 
 The fresh market tomato (dollar plan) crop insurance provisions for the 2024 and succeeding crop years are as follows:
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesFresh market tomato (dollar plan) crop provisions1. Definitions
+FCIC Policies Department of Agriculture Federal Crop Insurance Corporation Reinsured Policies (Appropriate title for insurance provider) Both FCIC and Reinsured Policies Fresh market tomato (dollar plan) crop provisions 1. Definitions
 
 *Acre.* 43,560 square feet of planted acreage when row widths do not exceed six feet. If row widths exceed six feet, the land area on which at least 7,260 linear feet of rows are planted.
 

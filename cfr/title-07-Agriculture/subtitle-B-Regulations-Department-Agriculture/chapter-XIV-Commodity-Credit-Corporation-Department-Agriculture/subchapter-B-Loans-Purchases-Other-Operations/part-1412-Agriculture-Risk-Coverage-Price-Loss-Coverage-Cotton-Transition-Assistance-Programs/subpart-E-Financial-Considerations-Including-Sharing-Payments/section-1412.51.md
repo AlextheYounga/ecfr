@@ -2,8 +2,7 @@
 
 (a) The provisions of part 1400 of this chapter apply to this part. Payments under this part cannot exceed the amounts specified in part 1400 of this chapter.
 
-(b) For all covered commodities other than peanuts, the total amount of ARC and PLC payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year
-for any and all commodities cannot exceed $125,000.
+(b) For all covered commodities other than peanuts, the total amount of ARC and PLC payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year for any and all commodities cannot exceed $125,000.
 
 (c) For peanuts, the total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year cannot exceed $125,000.
 

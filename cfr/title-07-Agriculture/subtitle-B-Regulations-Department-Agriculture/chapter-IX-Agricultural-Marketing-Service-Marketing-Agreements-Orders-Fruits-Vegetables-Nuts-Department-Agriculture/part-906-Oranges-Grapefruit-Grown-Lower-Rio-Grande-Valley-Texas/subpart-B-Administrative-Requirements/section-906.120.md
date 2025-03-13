@@ -22,7 +22,7 @@
 
 (i) Such oranges and/or grapefruit grown in the production area are mixed with other types of fruit;
 
-(ii) Such oranges and/or grapefruit grown in the production area constitute at least one-third by volume of the contents of any container, and any such container is not larger than a7/10 bushel carton.
+(ii) Such oranges and/or grapefruit grown in the production area constitute at least one-third by volume of the contents of any container, and any such container is not larger than a 7/10 bushel carton.
 
 (iii) Such grapefruit grown in the production area grade at least U.S. No. 1, and such oranges grown in the production area grade at least U.S. Combination (with not less than 60 percent, by count, of the oranges in any lot grading at least U.S. No.1).
 

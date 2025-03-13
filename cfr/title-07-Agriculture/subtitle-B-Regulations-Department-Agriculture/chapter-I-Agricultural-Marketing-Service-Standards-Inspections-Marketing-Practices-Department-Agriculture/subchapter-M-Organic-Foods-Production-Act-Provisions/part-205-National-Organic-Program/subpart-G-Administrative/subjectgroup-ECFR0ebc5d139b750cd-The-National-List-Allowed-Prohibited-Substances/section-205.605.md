@@ -152,4 +152,4 @@ The following nonagricultural substances may be used as ingredients in or on pro
 
 (c)-(z) [Reserved]
 
-[68 FR 61993, Oct. 31, 2003]Editorial Note:For Federal Register citations affecting § 205.605, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[68 FR 61993, Oct. 31, 2003] Editorial Note:For Federal Register citations affecting § 205.605, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

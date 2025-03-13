@@ -8,7 +8,7 @@
 
 (i) NAP coverage with a coverage level of 60 percent, if available for the applicable crop year, or NAP catastrophic coverage if NAP coverage is not offered at a 60 percent coverage level for that crop year.
 
-(ii) Participants who exceed the average adjusted gross income limitation for NAP payment eligibility1 for the applicable crop year may meet the purchase requirement specified in paragraph (a)(2)(i) of this section by purchasing Whole-Farm Revenue Protection crop insurance coverage, if eligible, or paying the NAP service fee and premium even though the participant will not be eligible to receive a NAP payment due to the average adjusted gross income limit but will be eligible for the WHIP payment.
+(ii) Participants who exceed the average adjusted gross income limitation for NAP payment eligibility 1 for the applicable crop year may meet the purchase requirement specified in paragraph (a)(2)(i) of this section by purchasing Whole-Farm Revenue Protection crop insurance coverage, if eligible, or paying the NAP service fee and premium even though the participant will not be eligible to receive a NAP payment due to the average adjusted gross income limit but will be eligible for the WHIP payment.
 
 1 See §§ 1400.500(a) and 1400.1(a)(4) of this title.
 

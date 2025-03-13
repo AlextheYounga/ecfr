@@ -28,4 +28,4 @@
 
 (4) Using a U.S. Government electronic information exchange system or other authorized method.
 
-(Approved by the Office of Management and Budget under control number 0579-0207)[69 FR 61747, Oct. 21, 2004, as amended at 81 FR 40150, June 21, 2016]
+(Approved by the Office of Management and Budget under control number 0579-0207) [69 FR 61747, Oct. 21, 2004, as amended at 81 FR 40150, June 21, 2016]

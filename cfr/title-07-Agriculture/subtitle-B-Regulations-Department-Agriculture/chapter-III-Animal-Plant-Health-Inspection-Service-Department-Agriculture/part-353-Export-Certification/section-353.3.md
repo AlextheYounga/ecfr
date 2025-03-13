@@ -13,23 +13,23 @@
 
 (1) Any terrestrial plant listed in 50 CFR part 17 or 23:
 
-Nogales, AZLos Angeles, CASan Diego, CASan Francisco, CAMiami, FLOrlando, FLHonolulu, HINew Orleans, LAHoboken, NJ (Port of New York)Jamaica, NYSan Juan, PRBrownsville, TXEl Paso, TXHouston, TXLaredo, TXSeattle, WA
+Nogales, AZ Los Angeles, CA San Diego, CA San Francisco, CA Miami, FL Orlando, FL Honolulu, HI New Orleans, LA Hoboken, NJ (Port of New York) Jamaica, NY San Juan, PR Brownsville, TX El Paso, TX Houston, TX Laredo, TX Seattle, WA
 
 (2) Any plant of the family Orchidaceae (orchids) listed in 50 CFR part 17 or 23:
 
-Hilo, HIChicago, IL
+Hilo, HI Chicago, IL
 
 (3) Roots of American ginseng (*Panax quinquefolius*) listed in 50 CFR 23.23:
 
-Atlanta, GAChicago, ILBaltimore, MDSt. Louis, MOMilwaukee, WI
+Atlanta, GA Chicago, IL Baltimore, MD St. Louis, MO Milwaukee, WI
 
 (4) Any plant listed in 50 CFR 17.12 or 23.23 and offered for exportation to Canada:
 
-Detroit, MIBuffalo, NYRouses Point, NYBlaine, WA
+Detroit, MI Buffalo, NY Rouses Point, NY Blaine, WA
 
 (5) Any logs and lumber from trees listed in 50 CFR 17.12 or 23.23:
 
-Mobile, ALSavannah, GABaltimore, MDGulfport, MSWilmington and Morehead City, NCPortland, ORPhiladelphia, PACharleston, SCNorfolk, VAVancouver, WA
+Mobile, AL Savannah, GA Baltimore, MD Gulfport, MS Wilmington and Morehead City, NC Portland, OR Philadelphia, PA Charleston, SC Norfolk, VA Vancouver, WA
 
 (6) Plants of the species *Dionaea muscipula* (Venus flytrap):
 

@@ -382,7 +382,7 @@
 
 (5) *Related to committee management.* Establish and reestablish regional, state, and local advisory committees for activities under his or her authority. This authority may not be redelegated.
 
-(6) *Related to defense and emergency preparedness.*(i) Administer responsibilities and functions assigned under the Defense Production Act of 1950 (50 U.S.C. App. 2061 *et seq.*), and title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195 *et seq.*), concerning agricultural production; food processing, storage, and distribution; distribution of farm equipment and fertilizer; rehabilitation and use of food, agricultural, and related agribusiness facilities; CCC resources; and farm credit and financial assistance.
+(6) *Related to defense and emergency preparedness.* (i) Administer responsibilities and functions assigned under the Defense Production Act of 1950 (50 U.S.C. App. 2061 *et seq.*), and title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195 *et seq.*), concerning agricultural production; food processing, storage, and distribution; distribution of farm equipment and fertilizer; rehabilitation and use of food, agricultural, and related agribusiness facilities; CCC resources; and farm credit and financial assistance.
 
 (ii) Administer functions delegated by the President to the Secretary under Executive Order 13603, “National Defense Resources Preparedness” (3 CFR, 2012 Comp., p. 225), and Executive Order 12742, “National Security Industrial Responsiveness” (3 CFR, 1991 Comp., p. 309), including administration of an Agriculture Priorities and Allocations System.
 

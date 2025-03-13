@@ -337,7 +337,7 @@ Link to an amendment published at 89 FR 38636, May 7, 2024.
 
 (ii) *Calculation of a “cost-per-hour” fee.* The State must:
 
-(A) Estimate the annual number of hours taken to issue certificates by adding together delivery,4 support,5 and administrative6 hours;
+(A) Estimate the annual number of hours taken to issue certificates by adding together delivery,4 support,5 and administrative 6 hours;
 
 4 Delivery costs are costs such as employee salary and benefits, transportation, per diem, travel, purchase of specialized equipment, and user fee costs associated with maintaining field offices. Delivery hours are similar hours taken by inspectors, including travel time, inspection time, and time taken to complete paperwork.
 

@@ -12,4 +12,4 @@
 
 (b) Regulated fruit that is not eligible for movement under paragraph (a) of this section may be moved interstate only for immediate export. The regulated fruit must be accompanied by a limited permit issued in accordance with § 301.75-12 and must be moved in a container sealed by APHIS directly to the port of export in accordance with the conditions of the limited permit.
 
-(Approved by the Office of Management and Budget under control number 0579-0363)[74 FR 54444, Oct. 22, 2009, as amended at 75 FR 4240, Jan. 26, 2010; 88 FR 85470, Dec. 8, 2023]
+(Approved by the Office of Management and Budget under control number 0579-0363) [74 FR 54444, Oct. 22, 2009, as amended at 75 FR 4240, Jan. 26, 2010; 88 FR 85470, Dec. 8, 2023]

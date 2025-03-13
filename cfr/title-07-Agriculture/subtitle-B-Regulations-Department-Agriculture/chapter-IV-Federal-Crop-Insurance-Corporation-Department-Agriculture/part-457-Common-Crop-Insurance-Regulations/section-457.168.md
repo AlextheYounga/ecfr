@@ -4,7 +4,7 @@ The Mustard Crop Insurance Provisions for the 2017 and succeeding crop years are
 
 FCIC policies:
 
-United States Department of AgricultureFederal Crop Insurance CorporationReinsured policies:(Appropriate title for insurance provider)Both FCIC and reinsured policies:Mustard Crop Insurance Provisions.1. Definitions
+United States Department of Agriculture Federal Crop Insurance Corporation Reinsured policies:(Appropriate title for insurance provider) Both FCIC and reinsured policies:Mustard Crop Insurance Provisions.1. Definitions
 
 *Base contract price.* The price per pound (U.S. dollars) stipulated in the processor contract (without regard to discounts or incentives) that will be used to determine your price election.
 

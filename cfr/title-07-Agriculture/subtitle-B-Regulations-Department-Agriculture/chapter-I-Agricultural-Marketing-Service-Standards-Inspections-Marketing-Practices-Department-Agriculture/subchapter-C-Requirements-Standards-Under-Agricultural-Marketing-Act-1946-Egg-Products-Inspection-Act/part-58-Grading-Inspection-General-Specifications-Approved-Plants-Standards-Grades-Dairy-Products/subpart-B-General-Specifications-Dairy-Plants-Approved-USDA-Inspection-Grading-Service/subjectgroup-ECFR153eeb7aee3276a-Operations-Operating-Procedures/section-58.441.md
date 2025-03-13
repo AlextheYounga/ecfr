@@ -2,7 +2,7 @@
 
 Starter and make records should be kept at least three months.
 
-(Approved by the Office of Management and Budget under OMB control number 0583-0047)1
+(Approved by the Office of Management and Budget under OMB control number 0583-0047) 1
 
 1Editorial Note: See table appearing in § 58.100 for correct OMB control number.
 

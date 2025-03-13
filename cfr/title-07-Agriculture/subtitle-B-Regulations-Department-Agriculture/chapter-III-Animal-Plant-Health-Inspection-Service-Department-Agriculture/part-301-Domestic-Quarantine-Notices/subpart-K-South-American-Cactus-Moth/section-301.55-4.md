@@ -1,6 +1,6 @@
 ##### § 301.55-4 Conditions governing the interstate movement of regulated articles from quarantined areas. #####
 
-Any regulated article may be moved interstate from a quarantined area1 only if moved under the following conditions:
+Any regulated article may be moved interstate from a quarantined area 1 only if moved under the following conditions:
 
 1 Requirements under all other applicable Federal domestic plant quarantines and regulations must also be met.
 

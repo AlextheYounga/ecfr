@@ -24,4 +24,4 @@ A procedure shall be provided for the filing of a formal written complaint if a 
 
 (3) Otherwise dispose of the complaint.
 
-The President shall notify the complainant of his decision or disposition.[33 FR 12173, Aug. 29, 1968, as amended at 38 FR 14154, May 30, 1973]
+The President shall notify the complainant of his decision or disposition. [33 FR 12173, Aug. 29, 1968, as amended at 38 FR 14154, May 30, 1973]

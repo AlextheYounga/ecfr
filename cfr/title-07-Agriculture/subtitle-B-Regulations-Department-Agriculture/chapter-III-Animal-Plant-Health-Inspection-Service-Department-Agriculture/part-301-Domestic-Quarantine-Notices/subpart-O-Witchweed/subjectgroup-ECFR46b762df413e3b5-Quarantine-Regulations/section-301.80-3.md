@@ -1,6 +1,6 @@
 ##### § 301.80-3 Conditions governing the interstate movement of regulated articles from quarantined States. #####
 
-(a) Any regulated articles, except soil samples for processing, testing, or analysis, may be moved interstate from any quarantined State under the following conditions:1
+(a) Any regulated articles, except soil samples for processing, testing, or analysis, may be moved interstate from any quarantined State under the following conditions: 1
 
 (1) With certificate or permit issued and attached in accordance with §§ 301.80-4 and 301.80-7, if moved:
 
@@ -36,7 +36,7 @@
 
 (B) The point of origin of such movement is clearly indicated on the articles or shipping document which accompanies the articles and if the movement is not made through any regulated area.
 
-(b) Unless specifically authorized by the Deputy Administrator in emergency situations, soil samples for processing, testing, or analysis may be moved interstate from any regulated area only to laboratories approved2 by the Deputy Administrator. A certificate or permit will not be required to be attached to such soil samples except in those emergency situations where the Deputy Administrator has authorized such movement to another destination with a certificate or permit issued and attached in accordance with §§ 301.80-4(d) and 301.80-7. Soil samples originating in areas outside of the regulated areas will not require such a certificate or permit and their movement is not restricted to approved laboratories if the point of origin of such samples is clearly indicated on the articles or shipping document which accompanies the articles and if the movement is not made through any regulated area.
+(b) Unless specifically authorized by the Deputy Administrator in emergency situations, soil samples for processing, testing, or analysis may be moved interstate from any regulated area only to laboratories approved 2 by the Deputy Administrator. A certificate or permit will not be required to be attached to such soil samples except in those emergency situations where the Deputy Administrator has authorized such movement to another destination with a certificate or permit issued and attached in accordance with §§ 301.80-4(d) and 301.80-7. Soil samples originating in areas outside of the regulated areas will not require such a certificate or permit and their movement is not restricted to approved laboratories if the point of origin of such samples is clearly indicated on the articles or shipping document which accompanies the articles and if the movement is not made through any regulated area.
 
 2 Provisions for laboratory approval may be obtained from your State's State Plant Health Director. Contact information can be found at *www.aphis.usda.gov/aphis/ourfocus/planthealth/ppq-program-overview/CT\_SPHD*.
 

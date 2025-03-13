@@ -1,6 +1,6 @@
 ##### § 52.1844 Definition of terms. #####
 
-(a) *Capstems* means small woody stems exceeding1/8-inch in length which attach the raisins to the branches of the bunch.
+(a) *Capstems* means small woody stems exceeding 1/8-inch in length which attach the raisins to the branches of the bunch.
 
 (b) A *piece of stem* means a portion of the branch or main stem.
 
@@ -14,9 +14,9 @@
 
 (g) *Moisture* means the percentage by weight of the processed raisins, exclusive of branch and heavy stem material, that is moisture when determined by the “Dried Fruit Moisture Tester Method” or in accordance with other methods that give equivalent results.
 
-(h) *Slightly discolored* means a raisin affected by a brown to dark brown discolored area around the capstem end of the raisin that is less than the area of a circle1/8-inch in diameter.
+(h) *Slightly discolored* means a raisin affected by a brown to dark brown discolored area around the capstem end of the raisin that is less than the area of a circle 1/8-inch in diameter.
 
-(i) *Discolored* means a raisin affected by a brown to dark brown discolored area around the capstem end of the raisin that equals or exceeds the area of a circle1/8-inch in diameter; *Provided,* That the overall appearance, keeping quality, and edibility of the product are not seriously affected.
+(i) *Discolored* means a raisin affected by a brown to dark brown discolored area around the capstem end of the raisin that equals or exceeds the area of a circle 1/8-inch in diameter; *Provided,* That the overall appearance, keeping quality, and edibility of the product are not seriously affected.
 
 (j) *Well-matured* means raisins that are full-fleshed, may have fine wrinkles and are rounded in appearance.
 

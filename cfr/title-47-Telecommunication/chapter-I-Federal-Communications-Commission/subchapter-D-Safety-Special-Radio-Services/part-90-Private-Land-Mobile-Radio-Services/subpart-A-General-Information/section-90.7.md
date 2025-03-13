@@ -1,6 +1,6 @@
 ##### § 90.7 Definitions. #####
 
-Link to an amendment published at 89 FR 100850, Dec. 13, 2024.Link to an amendment published at 89 FR 100851, Dec. 13, 2024.Link to correction published at 90 FR 5725, Jan. 17, 2025.
+Link to an amendment published at 89 FR 100851, Dec. 13, 2024.Link to a correction published at 90 FR 5724, Jan. 17, 2025.Link to correction published at 90 FR 5725, Jan. 17, 2025.
 
 *220 MHz service.* The radio service for the licensing of frequencies in the 220-222 MHz band.
 
@@ -57,6 +57,8 @@ Link to an amendment published at 89 FR 100850, Dec. 13, 2024.Link to an amendme
 *Basic trading areas.* Service areas that are based on the Rand McNally *1992 Commercial Atlas & Marketing Guide,* 123rd Edition, at pages 38-39, with the following additions licensed separately as BTA-like areas: American Samoa; Guam, Northern Mariana Islands; Mayaguez/Aguadilla-Ponce, Puerto Rico; San Juan, Puerto Rico; and the United States Virgin Islands. The Mayaguez/Aguadilla-Ponce BTA-like service area consists of the following municipios: Adjuntas, Aguada, Aguadilla, Anasco, Arroyo, Cabo Rojo, Coamo, Guanica, Guayama, Guayanilla, Hormigueros, Isabela, Jayuya, Juana Diaz, Lajas, Las Marias, Maricao, Maunabo, Mayaguez, Moca, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Sabana Grande, Salinas, San German, Santa Isabel, Villalba, and Yauco. The San Juan BTA-like service area consists of all other municipios in Puerto Rico.
 
 *Carrier frequency.* The frequency of an unmodulated electromagnetic wave.
+
+*Cellular Vehicle to Everything (C-V2X).* The use of cellular radio techniques to transfer data between roadside and on-board units or between on-board units to perform operations related to the improvement of traffic flow, traffic safety, and other Intelligent Transportation System applications in a variety of environments. C-V2X systems may also transmit status and instructional messages related to the units involved.
 
 *Centralized trunked system.* A system in which there is dynamic assignment of communications paths by automatically searching all communications paths in the system and assigning to a user an open communications path within that system. Individual communications paths within a trunked system may be classified as centralized or decentralized in accordance with the requirements of § 90.187.
 
@@ -190,7 +192,7 @@ Link to an amendment published at 89 FR 100850, Dec. 13, 2024.Link to an amendme
 
 *Non-multilateration LMS System.* A system that employs any of a number of non-multilateration technologies to transmit information to and/or from vehicular units.
 
-*On-Board unit (OBU).* An On-Board Unit is a DSRCS transceiver that is normally mounted in or on a vehicle, or which in some instances may be a portable unit. An OBU can be operational while a vehicle or person is either mobile or stationary. The OBUs receive and contend for time to transmit on one or more radio frequency (RF) channels. Except where specifically excluded, OBU operation is permitted wherever vehicle operation or human passage is permitted. The OBUs mounted in vehicles are licensed by rule under part 95 of this chapter and communicate with Roadside Units (RSUs) and other OBUs. Portable OBUs are also licensed by rule under part 95 of this chapter. OBU operations in the Unlicensed National Information Infrastructure (UNII) Bands follow the rules in those bands.
+*On-Board Unit (OBU).* An On-Board Unit is an Intelligent Transportation System transceiver, operating in the 5895-5925 MHz band, that is normally mounted in or on a vehicle, or which in some instances may be a portable unit. An OBU can be operational while a vehicle or person is either mobile or stationary. The OBUs receive and transmit on one or more radio frequency (RF) channels. Except where specifically excluded, OBU operation is permitted wherever vehicle operation or human passage is permitted. The OBUs mounted in vehicles are licensed by rule under part 95 of this chapter and communicate with Roadside Units (RSUs) and other OBUs. Portable OBUs also are licensed by rule under part 95 of this chapter.
 
 *Operational fixed station.* A fixed station, not open to public correspondence, operated by, and for the sole use of those agencies operating their own radiocommunication facilities in the Public Safety, Industrial, Land Transportation, Marine, or Aviation Radio Services. (This includes all stations in the fixed service under this part.)
 
@@ -238,9 +240,9 @@ REAG 1 (Northeast): REAG 1 consists of the following EAs: EA 001 (Bangor, ME) th
 
 *Relay press licensee.* Persons primarily engaged in the publication of a newspaper or in the operation of an established press association.
 
-*Roadside unit (RSU).* A Roadside Unit is a DSRC transceiver that is mounted along a road or pedestrian passageway. An RSU may also be mounted on a vehicle or is hand carried, but it may only operate when the vehicle or hand-carried unit is stationary. Furthermore, an RSU operating under this part is restricted to the location where it is licensed to operate. However, portable or hand-held RSUs are permitted to operate where they do not interfere with a site-licensed operation. A RSU broadcasts data to OBUs or exchanges data with OBUs in its communications zone. An RSU also provides channel assignments and operating instructions to OBUs in its communications zone, when required.
+*Roadside Unit (RSU).* A Roadside Unit is an Intelligent Transportation System transceiver, operating in the 5895-5925 MHz band, that is mounted along a road or pedestrian passageway. An RSU may also be mounted on a vehicle or is hand carried, but it may only operate when the vehicle or hand-carried unit is stationary. Furthermore, an RSU operating under this part is restricted to the location where it is licensed to operate. However, portable or hand-held RSUs are permitted to operate where they do not interfere with a site-licensed operation. An RSU broadcasts data to or exchanges data with OBUs. For DSRC-based RSUs operating in the Intelligent Transportation System until December 14, 2026, an RSU also provides channel assignments and operating instructions to OBUs in its communications zone, when required.
 
-*Roadway bed surface.* For DSRCS, the road surface at ground level.
+*Roadway bed surface.* For the Intelligent Transportation System Radio Service, the road surface at ground level.
 
 *Secondary operation.* Radio communications which may not cause interference to operations authorized on a primary basis and which are not protected from interference from those primary operations.
 

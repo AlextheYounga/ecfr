@@ -1,6 +1,6 @@
 ##### § 51.2731 U.S. Spanish Splits. #####
 
-“U.S. Spanish Splits” consists of shelled Spanish type peanut kernels which are split or broken, but which are free from foreign material, damage and minor defects, and which will not pass through a screen having16/64 inch round openings.
+“U.S. Spanish Splits” consists of shelled Spanish type peanut kernels which are split or broken, but which are free from foreign material, damage and minor defects, and which will not pass through a screen having 16/64 inch round openings.
 
 (a) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
 

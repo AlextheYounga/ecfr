@@ -2,7 +2,7 @@
 
 (a) *Damaged kernels.* Kernels and pieces of grain kernels for which standards have been established under the Act, that are badly ground-damaged, badly weather-damaged, diseased, frost-damaged, germ-damaged, heat-damaged, insect-bored, mold-damaged, sprout-damaged, or otherwise materially damaged.
 
-(b) *Foreign material and fines.* All matter other than whole flaxseed that passes through a5/64 triangular-hole sieve, and all matter other than grains for which standards have been established under the Act, that remains in the sieved sample.
+(b) *Foreign material and fines.* All matter other than whole flaxseed that passes through a 5/64 triangular-hole sieve, and all matter other than grains for which standards have been established under the Act, that remains in the sieved sample.
 
 (c) *Grades.* U.S. Mixed Grain, or U.S. Sample grade Mixed Grain, and special grades.
 

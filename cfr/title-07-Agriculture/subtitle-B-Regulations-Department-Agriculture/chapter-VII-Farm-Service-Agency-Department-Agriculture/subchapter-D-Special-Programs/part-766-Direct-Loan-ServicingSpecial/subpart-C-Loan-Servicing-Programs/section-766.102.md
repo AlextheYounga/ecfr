@@ -36,4 +36,4 @@
 
 (4) The withdrawing individual does not have repayment ability and does not own any non-essential assets.
 
-[72 FR 63316, Nov. 8, 2007, as amended at 85 FR 36693, June 17, 2020; 89 FR 65044, Aug. 8, 2024]Editorial Note:At 81 FR 51285, Aug. 3, 2016, § 766.102, in paragraph (b)(3)(ii), the words “subpart G of 7 CFR part 1940” were removed and the words “part 799 of this chapter” were added in their place. However, paragraph (b)(3)(ii) does not exist, and this amendment could not be incorporated.
+[72 FR 63316, Nov. 8, 2007, as amended at 85 FR 36693, June 17, 2020; 89 FR 65044, Aug. 8, 2024] Editorial Note:At 81 FR 51285, Aug. 3, 2016, § 766.102, in paragraph (b)(3)(ii), the words “subpart G of 7 CFR part 1940” were removed and the words “part 799 of this chapter” were added in their place. However, paragraph (b)(3)(ii) does not exist, and this amendment could not be incorporated.

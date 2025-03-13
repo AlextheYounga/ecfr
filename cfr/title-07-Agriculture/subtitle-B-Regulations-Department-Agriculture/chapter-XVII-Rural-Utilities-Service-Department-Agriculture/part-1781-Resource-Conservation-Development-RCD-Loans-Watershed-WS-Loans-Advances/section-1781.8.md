@@ -1,6 +1,6 @@
 ##### § 1781.8 Rates and terms—WS loans and WS advances and RCD loans. #####
 
-(a) *Interest rates.* The interest rate for WS loans, WS advances and RCD loans will be at a rate not to exceed the current market yield for outstanding municipal obligations with remaining periods to maturity comparable to the average maturity for the loan, adjusted to the nearest1/8 of 1 percent.
+(a) *Interest rates.* The interest rate for WS loans, WS advances and RCD loans will be at a rate not to exceed the current market yield for outstanding municipal obligations with remaining periods to maturity comparable to the average maturity for the loan, adjusted to the nearest 1/8 of 1 percent.
 
 (1) For loans, unless otherwise required by State law, interest will accrue from date of check delivery where Form RD 440-22, “Promissory Note (Association Organization),” is used. Where bonds are used interest will accrue from the applicable dates recorded on the bonds. Where multiple loan disbursements are used interest will accrue from date of check.
 

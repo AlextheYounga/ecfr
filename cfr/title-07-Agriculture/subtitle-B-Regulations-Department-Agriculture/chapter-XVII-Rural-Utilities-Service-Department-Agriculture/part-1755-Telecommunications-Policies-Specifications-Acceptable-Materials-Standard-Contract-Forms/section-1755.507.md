@@ -8,7 +8,7 @@
 
 (1) Strand supported lashed construction shall be used.
 
-(2) Where practicable a5/16 in. (8 mm) utility grade strand and automatic clamps shall be used in slack spans to avoid damage to the building.
+(2) Where practicable a 5/16 in. (8 mm) utility grade strand and automatic clamps shall be used in slack spans to avoid damage to the building.
 
 (3) Construction on poles shall comply with applicable construction drawings for regular line construction. Aerial service cable shall be spliced to the main cable in accordance with § 1755.200, RUS standard for splicing copper and fiber optic cables.
 
@@ -20,7 +20,7 @@
 
 (i) If taut spans are necessary, appropriate size strand may be used if the pull is in line with one wall of the building, or within 20 degrees of being in line as illustrated in sketch A of Figure 7. If the angle of pull is greater than 20 degrees from the building, the wall bracket shall be reinforced against pullout by an arrangement equivalent to sketch B of Figure 7. Taut spans may be strung using the recommendations in RUS Bulletin 1751F-630, Design of Aerial Plant. The same tension as would be used in normal line construction so as not to exceed 60 percent of the breaking strength of the strand under maximum loading shall be used. Taut spans shall not exceed 100 ft (30.5 m) in length and the cable weight shall not exceed 1 pound/foot (lb/ft) [1.5 kilogram/meter (kg/m)] except when equivalent combinations of greater span lengths with cable weight less than 1 lb/ft (1.5 kg/m) are permissible. Copies of RUS Bulletin 1751F-630 are available upon request from RUS/USDA, 1400 Independence Avenue, SW., STOP 1522, Washington, DC 20250-1522, FAX (202) 720-4120.
 
-(ii) When an attachment must be made to the face of a building wall away from a corner, a “U” type wall bracket shall be used as indicated in sketch C of Figure 7. Only slack span construction with5/16 in. (8 mm) utility grade strand shall be permitted in this situation. The bail of the automatic clamp shall be protected by a wire rope thimble.
+(ii) When an attachment must be made to the face of a building wall away from a corner, a “U” type wall bracket shall be used as indicated in sketch C of Figure 7. Only slack span construction with 5/16 in. (8 mm) utility grade strand shall be permitted in this situation. The bail of the automatic clamp shall be protected by a wire rope thimble.
 
 (6) Aerial cable shall be located on the rear or side of the building and shall be run only in a horizontal or a vertical direction. The cable route shall be selected so as to avoid building projections and obstructions to the extent practicable.
 

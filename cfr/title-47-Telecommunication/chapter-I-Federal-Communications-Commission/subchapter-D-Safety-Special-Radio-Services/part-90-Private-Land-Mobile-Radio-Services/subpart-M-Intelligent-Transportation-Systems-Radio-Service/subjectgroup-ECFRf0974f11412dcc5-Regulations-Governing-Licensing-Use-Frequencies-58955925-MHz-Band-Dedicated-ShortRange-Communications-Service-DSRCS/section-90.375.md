@@ -1,6 +1,6 @@
 ##### § 90.375 RSU license areas, communication zones and registrations #####
 
-Link to an amendment published at 89 FR 100852, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100852, Dec. 13, 2024.Link to a correction published at 90 FR 5724, Jan. 17, 2025.
 
 (a) Roadside Units (RSUs) in the 5895-5925 MHz band are licensed on the basis of non-exclusive geographic areas. Governmental applicants will be issued a geographic area license based on the geo-political area encompassing the legal jurisdiction of the entity. All other applicants will be issued a geographic area license for their proposed area of operation based on county(s), state(s) or nationwide.
 

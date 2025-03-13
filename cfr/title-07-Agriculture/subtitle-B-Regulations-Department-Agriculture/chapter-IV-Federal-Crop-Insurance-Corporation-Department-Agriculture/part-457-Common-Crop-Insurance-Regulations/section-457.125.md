@@ -2,7 +2,7 @@
 
 The Safflower Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
 
-FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Safflower Crop Insurance Provisions
+FCIC Policies United States Department of Agriculture Federal Crop Insurance Corporation Reinsured Policies (Appropriate title for insurance provider) Both FCIC and reinsured policies: Safflower Crop Insurance Provisions
 
 If a conflict exists among the policy provisions, the order of priority is as follows: (1) The Catastrophic Risk Protection Endorsement, if applicable; (2) the Special Provisions; (3) these Crop Provisions; and (4) the Basic Provisions with (1) controlling (2), etc.
 

@@ -51,7 +51,7 @@ All C.I.P. systems shall comply with the 3-A Accepted Practices for Permanently 
 |31 to 50 inclusive |       1/2       |.031 |
 |51 to 500 inclusive|       3/4       |.047 |
 
-(2) Large capacity scales shall be capable of the following accuracy, and shall be graduated in no higher than1/4 pound graduations for scales of capacity of up to 250 pounds;1/2 pound graduations for scales above 250 pounds capacity.
+(2) Large capacity scales shall be capable of the following accuracy, and shall be graduated in no higher than 1/4 pound graduations for scales of capacity of up to 250 pounds; 1/2 pound graduations for scales above 250 pounds capacity.
 
 (This table taken from the presently effective 1973 revision.)
 

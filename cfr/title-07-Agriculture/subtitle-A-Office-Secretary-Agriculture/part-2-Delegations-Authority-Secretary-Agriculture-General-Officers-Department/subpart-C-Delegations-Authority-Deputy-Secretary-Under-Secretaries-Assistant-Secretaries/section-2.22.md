@@ -98,8 +98,7 @@
 
 (KK) National Laboratory Accreditation Program (7 U.S.C. 138-138i) with respect to laboratories accredited for pesticide residue analysis in fruits and vegetables and other agricultural commodities, except those laboratories analyzing only meat and poultry products;
 
-(LL) Pecan Promotion and Research Act of 1990 (7 U.S.C. 6001-6013), except as delegated to the
-Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
+(LL) Pecan Promotion and Research Act of 1990 (7 U.S.C. 6001-6013), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
 (MM) Mushroom Promotion, Research, and Consumer Information Act of 1990 (7 U.S.C. 6101-6112), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
@@ -417,4 +416,4 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
 (3) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 68541, Dec. 30, 1996; 62 FR 40254, July 28, 1997; 65 FR 12428, Mar. 9, 2000; 65 FR 49471, Aug. 14, 2000; 68 FR 27439, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3405, Jan. 21, 2009; 76 FR 4802, Jan. 27, 2011; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 83 FR 61311, Nov. 29, 2018; 85 FR 65509, Oct. 15, 2020; 87 FR 44267, July 26, 2022]Editorial Note:At 83 FR 61311, Nov. 29, 2018, § 2.22 was amended by adding (a)(1)(xvi), however paragraph (a)(xvi) was not provided in the text, this amendment could not be incorporated due to inaccurate amendatory instruction.
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 68541, Dec. 30, 1996; 62 FR 40254, July 28, 1997; 65 FR 12428, Mar. 9, 2000; 65 FR 49471, Aug. 14, 2000; 68 FR 27439, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3405, Jan. 21, 2009; 76 FR 4802, Jan. 27, 2011; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 83 FR 61311, Nov. 29, 2018; 85 FR 65509, Oct. 15, 2020; 87 FR 44267, July 26, 2022] Editorial Note:At 83 FR 61311, Nov. 29, 2018, § 2.22 was amended by adding (a)(1)(xvi), however paragraph (a)(xvi) was not provided in the text, this amendment could not be incorporated due to inaccurate amendatory instruction.

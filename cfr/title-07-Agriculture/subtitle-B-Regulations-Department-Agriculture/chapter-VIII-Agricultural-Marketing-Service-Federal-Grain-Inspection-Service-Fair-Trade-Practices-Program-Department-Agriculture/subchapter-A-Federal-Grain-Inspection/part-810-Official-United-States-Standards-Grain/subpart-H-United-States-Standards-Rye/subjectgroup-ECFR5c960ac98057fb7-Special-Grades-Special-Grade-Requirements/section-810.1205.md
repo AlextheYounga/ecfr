@@ -8,7 +8,7 @@
 
 (d) *Light smutty rye.* Rye that has an unmistakable odor of smut, or that contains in a 250-gram portion smut balls, portions of smut balls, or spores of smut in excess of a quantity equal to 14 smut balls but not in excess of a quantity equal to 30 smut balls of average size.
 
-(e) *Plump rye.* Rye that contains not more than 5.0 percent of rye and other matter that passes through a 0.064 ×3/8 oblong-hole sieve.
+(e) *Plump rye.* Rye that contains not more than 5.0 percent of rye and other matter that passes through a 0.064 × 3/8 oblong-hole sieve.
 
 (f) *Smutty rye.* Rye that contains in a 250-gram portion smut balls, portions of smut balls, or spores of smut in excess of a quantity equal to 30 smut balls of average size.
 

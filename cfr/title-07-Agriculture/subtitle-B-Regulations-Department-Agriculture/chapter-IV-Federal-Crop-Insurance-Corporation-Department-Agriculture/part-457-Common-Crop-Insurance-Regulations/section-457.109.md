@@ -2,11 +2,11 @@
 
 The Sugar Beet Crop Insurance Provisions effective for the 2024 and succeeding crop years in states with a November 30 contract change date and for the 2025 and succeeding crop years in all other states, are as follows:
 
-FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured policies(Appropriate title for insurance provider)
+FCIC PoliciesUnited States Department of Agriculture Federal Crop Insurance Corporation Reinsured policies (Appropriate title for insurance provider)
 
 Both FCIC and Reinsured Policies
 
-Sugar Beet Crop Provisions1. Definitions
+Sugar Beet Crop Provisions 1. Definitions
 
 *Crop year.* The period within which the sugar beets are normally grown, which is designated by the calendar year in which the sugar beets are normally harvested.
 

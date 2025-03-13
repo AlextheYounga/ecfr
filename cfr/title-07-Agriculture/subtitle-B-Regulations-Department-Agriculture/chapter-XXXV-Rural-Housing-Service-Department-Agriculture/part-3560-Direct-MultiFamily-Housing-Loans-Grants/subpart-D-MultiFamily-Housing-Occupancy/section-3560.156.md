@@ -150,4 +150,4 @@ Should any of the above provisions governing a drug violation be found to violat
 
 (2) Leases must include a procedure for handling tenant's abandoned property, as provided by state or local law.
 
-[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11282, Mar. 1, 2022; 89 FR 20543, Mar. 25, 2024]Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.156(c)(12), implementation of the words “\* \* \* their citizenship status, \* \* \*” was delayed indefinitely.
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11282, Mar. 1, 2022; 89 FR 20543, Mar. 25, 2024] Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.156(c)(12), implementation of the words “\* \* \* their citizenship status, \* \* \*” was delayed indefinitely.

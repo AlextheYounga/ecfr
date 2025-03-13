@@ -208,4 +208,4 @@
 
 (c) *Director's waiver or exemption exception.* The Director of USCIS may authorize the waiver of or exemption from, in whole or in part, a form fee required by § 106.2 that is not otherwise waivable or exempt under this section, if the Director determines that such action is in the public interest and consistent with the applicable law. This discretionary authority may be delegated only to the USCIS Deputy Director.
 
-[89 FR 6386, Jan. 31, 2024, as amended at 89 FR 20104, Mar. 21, 2024; 90 FR 5519, Jan. 17, 2025]
+[89 FR 6386, Jan. 31, 2024; 89 FR 20104, Mar. 21, 2024, as amended at 90 FR 5519, Jan. 17, 2025]

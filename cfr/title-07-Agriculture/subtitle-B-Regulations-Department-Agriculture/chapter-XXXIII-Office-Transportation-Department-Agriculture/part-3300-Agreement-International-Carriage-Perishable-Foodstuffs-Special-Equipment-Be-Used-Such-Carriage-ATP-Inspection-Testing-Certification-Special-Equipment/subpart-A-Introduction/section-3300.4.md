@@ -2,7 +2,7 @@
 
 *Administrator* means the Administrator, Office of Transportation, U.S. Department of Agriculture, whose address is: 1405 Auditors Building, 201 14th Street, SW., Washington, DC 20250.
 
-*ATP* means the Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be Used for Such Carriage (ATP), and the annexes and appendices thereto, done at Geneva, September 1, 1970, under the auspices of the Economic Commission for Europe, and any subsequent amendments thereto.1
+*ATP* means the Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be Used for Such Carriage (ATP), and the annexes and appendices thereto, done at Geneva, September 1, 1970, under the auspices of the Economic Commission for Europe, and any subsequent amendments thereto. 1
 
 1 A copy of the agreement can be obtained by request to the ATP Manager, Office of Transportation, U.S. Department of Agriculture, 1405 Auditors Building, 201 14th Street, SW., Washington, DC 20250.
 

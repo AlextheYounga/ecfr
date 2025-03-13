@@ -18,7 +18,7 @@
 
 (ii) Any interlineation, erasure, cancellation, or other alteration must be made in permanent ink before the application is signed and shall be clearly initialed and dated by the applicant to indicate knowledge of such fact at the time of signing.
 
-(4) To determine the extent of reciprocity of the protection to be provided under the Act, persons filing an application for plant variety protection in the United States under the provisions of paragraph (a)(3) of this section shall, upon request1, furnish the Plant Variety Protection Office with a copy of the current plant variety protection laws and regulations for the country of which the applicant is a national, and an accurate English translation of such laws and regulations.
+(4) To determine the extent of reciprocity of the protection to be provided under the Act, persons filing an application for plant variety protection in the United States under the provisions of paragraph (a)(3) of this section shall, upon request 1, furnish the Plant Variety Protection Office with a copy of the current plant variety protection laws and regulations for the country of which the applicant is a national, and an accurate English translation of such laws and regulations.
 
 1 Copies and translations of foreign laws and regulations will be requested only if they are not in the files of the Plant Variety Protection Office. Applicants may learn whether such a request will be made by writing to the address given in paragraph (c) of this section.
 

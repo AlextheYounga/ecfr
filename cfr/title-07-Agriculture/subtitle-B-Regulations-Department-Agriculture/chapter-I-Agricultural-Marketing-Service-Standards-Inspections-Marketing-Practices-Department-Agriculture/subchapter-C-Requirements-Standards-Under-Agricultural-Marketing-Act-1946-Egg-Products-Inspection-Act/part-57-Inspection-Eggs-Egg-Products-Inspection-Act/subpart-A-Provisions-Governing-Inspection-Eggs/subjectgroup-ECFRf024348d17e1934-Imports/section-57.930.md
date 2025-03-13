@@ -6,7 +6,7 @@
 
 (c) Means of conveyance or packages in which any product is moved in accordance with this part, prior to inspection, from the port or wharf where first unloaded in the United States, shall be sealed with special import seals of the Department or otherwise identified as provided herein, unless already sealed with customs or consular seals in accordance with the customs regulations. Such special seals shall be affixed by an inspector or, if there is no inspector at such port, by a customs officer. In lieu of sealing packages, the carrier or importer may furnish and attach to each package of product a warning notice on bright yellow paper, not less than 5 × 8 inches in size, containing the following legend in black type of a conspicuous size:
 
-(Name of Truck Line or Carrier)Notice
+(Name of Truck Line or Carrier) Notice
 
 This package of \_\_\_\_\_ must be delivered intact to an inspector of the Poultry Programs, U.S. Department of Agriculture.
 

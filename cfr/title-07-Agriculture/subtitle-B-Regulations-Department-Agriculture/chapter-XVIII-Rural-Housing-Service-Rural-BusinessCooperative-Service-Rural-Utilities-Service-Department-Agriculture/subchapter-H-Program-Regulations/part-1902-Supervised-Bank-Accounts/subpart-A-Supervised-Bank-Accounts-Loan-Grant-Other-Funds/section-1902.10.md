@@ -26,4 +26,4 @@
 
 (5) Checks to be drawn on a supervised bank account will bear the legend:
 
-• “Countersigned,” not as co-maker or endorser.(Title)Rural Development[46 FR 36106, July 14, 1981, as amended at 54 FR 47959, Nov. 20, 1989; 70 FR 59227, Oct. 12, 2005; 80 FR 9870, Feb. 24, 2015]
+• “Countersigned,” not as co-maker or endorser. (Title)Rural Development[46 FR 36106, July 14, 1981, as amended at 54 FR 47959, Nov. 20, 1989; 70 FR 59227, Oct. 12, 2005; 80 FR 9870, Feb. 24, 2015]

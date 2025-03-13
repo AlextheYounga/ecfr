@@ -1,6 +1,6 @@
 ##### § 319.59-3 Articles prohibited importation pending risk evaluation. #####
 
-The articles listed in paragraph (a) of this section from the countries and localities listed in paragraph (b) of this section are prohibited from being imported or offered for entry into the United States, except as provided in § 319.59-2(b), pending the completion of an evaluation by APHIS of the potential pest risks associated with the articles. The national plant protection organization of any listed country or locality may contact APHIS1 to initiate the preparation of a risk evaluation. If supported by the results of the risk evaluation, APHIS will take action to remove that country or locality from the list in paragraph (b) of this section.
+The articles listed in paragraph (a) of this section from the countries and localities listed in paragraph (b) of this section are prohibited from being imported or offered for entry into the United States, except as provided in § 319.59-2(b), pending the completion of an evaluation by APHIS of the potential pest risks associated with the articles. The national plant protection organization of any listed country or locality may contact APHIS 1 to initiate the preparation of a risk evaluation. If supported by the results of the risk evaluation, APHIS will take action to remove that country or locality from the list in paragraph (b) of this section.
 
 1 Requests should be submitted in writing to Phytosanitary Issues Management, PPQ, APHIS, 4700 River Road, Unit 140, Riverdale, MD 20737-1236.
 

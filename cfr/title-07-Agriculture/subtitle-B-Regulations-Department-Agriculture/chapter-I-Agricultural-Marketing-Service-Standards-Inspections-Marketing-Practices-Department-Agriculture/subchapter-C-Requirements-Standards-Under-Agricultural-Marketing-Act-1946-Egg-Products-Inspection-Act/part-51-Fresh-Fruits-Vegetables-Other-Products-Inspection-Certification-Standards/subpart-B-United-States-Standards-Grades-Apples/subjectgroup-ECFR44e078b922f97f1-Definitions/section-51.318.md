@@ -34,10 +34,10 @@
 
 (i) Bruises which are not slight and incident to proper handling and packing, and which are greater than:
 
-(1)3/8 inch in depth;
+(1) 3/8 inch in depth;
 
 (2) 11/8 inches in diameter;
 
 (3) any combination of lesser bruises which detract from the appearance or edible quality of the apple to an extent greater than any one bruise described in paragraph (i)(1) or (2) of this section.
 
-(j) Brown surface discoloration when caused by delayed sunburn, surface scald, or any other means and affects an area greater than3/4 inch in diameter.
+(j) Brown surface discoloration when caused by delayed sunburn, surface scald, or any other means and affects an area greater than 3/4 inch in diameter.

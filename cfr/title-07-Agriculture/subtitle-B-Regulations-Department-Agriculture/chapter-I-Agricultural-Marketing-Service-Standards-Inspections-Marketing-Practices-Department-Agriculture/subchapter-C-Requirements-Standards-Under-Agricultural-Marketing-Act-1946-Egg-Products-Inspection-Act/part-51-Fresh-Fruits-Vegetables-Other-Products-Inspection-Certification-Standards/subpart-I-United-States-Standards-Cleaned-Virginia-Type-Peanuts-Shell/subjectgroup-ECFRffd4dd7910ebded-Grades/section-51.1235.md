@@ -1,6 +1,6 @@
 ##### § 51.1235 U.S. Jumbo Hand Picked. #####
 
-U.S. Jumbo Hand Picked shall consist of cleaned Virginia type peanuts in the shell which are mature, dry, and free from loose peanut kernels, dirt or other foreign material, pops, paper ends, and from damage caused by cracked or broken shells, discoloration or other means. The kernels shall be free from damage from any cause. In addition, the peanuts shall not pass through a screen having37/64 × 3 inch perforations. Unless otherwise specified, the unshelled peanuts in any lot shall not average more than 176 count per pound.
+U.S. Jumbo Hand Picked shall consist of cleaned Virginia type peanuts in the shell which are mature, dry, and free from loose peanut kernels, dirt or other foreign material, pops, paper ends, and from damage caused by cracked or broken shells, discoloration or other means. The kernels shall be free from damage from any cause. In addition, the peanuts shall not pass through a screen having 37/64 × 3 inch perforations. Unless otherwise specified, the unshelled peanuts in any lot shall not average more than 176 count per pound.
 
 (a) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
 

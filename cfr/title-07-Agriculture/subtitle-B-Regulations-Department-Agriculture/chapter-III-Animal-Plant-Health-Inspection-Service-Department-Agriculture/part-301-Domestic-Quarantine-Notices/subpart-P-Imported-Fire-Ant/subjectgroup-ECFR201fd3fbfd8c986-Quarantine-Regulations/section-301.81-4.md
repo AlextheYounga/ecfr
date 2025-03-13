@@ -14,7 +14,7 @@
 
 (iv) The article has not been combined or commingled with other articles so as to lose its individual identity; or
 
-(3) Without a certificate or limited permit provided the regulated article is a soil sample being moved to a laboratory approved by the Administrator1 to process, test, or analyze soil samples.
+(3) Without a certificate or limited permit provided the regulated article is a soil sample being moved to a laboratory approved by the Administrator 1 to process, test, or analyze soil samples.
 
 1 Provisions for laboratory approval may be obtained from your State's State Plant Health Director. Contact information can be found at *www.aphis.usda.gov/aphis/ourfocus/planthealth/ppq-program-overview/CT\_SPHD*.
 

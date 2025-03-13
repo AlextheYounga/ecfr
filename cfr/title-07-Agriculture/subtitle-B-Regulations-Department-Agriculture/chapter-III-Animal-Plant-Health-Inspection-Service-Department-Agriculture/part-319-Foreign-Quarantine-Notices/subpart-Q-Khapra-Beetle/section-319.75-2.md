@@ -1,10 +1,10 @@
-##### § 319.75-2 Regulated articles.1 #####
+##### § 319.75-2 Regulated articles. 1 #####
 
 1 The importation of restricted articles may be subject to prohibitions or restrictions under other provisions of 7 CFR part 319. For example, fresh whole chilies (*Capsicum* spp.) and fresh whole red peppers (*Capsicum* spp.) from Pakistan are prohibited from being imported into the United States under the provisions of Subpart L—Fruits and Vegetables of this part, and the importation of any restricted articles that are for planting or capable of being planted is restricted under Subpart H—Plants for Planting of this part.
 
 (a) The following articles are regulated articles from all countries designated in accordance with paragraph (c) of this section as infested with khapra beetle and are subject to mandatory treatment in accordance with § 319.75-4:
 
-(1) Seeds of the plant family Cucurbitaceae2 if in shipments greater than 2 ounces, if not for propagation;
+(1) Seeds of the plant family Cucurbitaceae 2 if in shipments greater than 2 ounces, if not for propagation;
 
 2 Seeds of the plant family Cucurbitaceae include but are not limited to: *Benincasa hispida* (wax gourd), *Citrullus lanatus* (watermelon), *Cucumis melo* (muskmelon, cantaloupe, honeydew), *Cucumis sativus* (cucumber), *Cucurbita pepo* (pumpkin, squashes, vegetable marrow), *Lagenaria siceraria* (calabash, gourd), *Luffa cylindrica* (dishcloth gourd), *Mormordica charantia* (bitter melon), and *Sechium edule* (chayote).
 

@@ -8,7 +8,7 @@ Department of AgricultureFederal Crop Insurance CorporationFor Reinsured Policie
 
 For both FCIC and reinsured policies:
 
-Table Grape Crop Provisions1. Definitions
+Table Grape Crop Provisions 1. Definitions
 
 *Graft.* To unite a shoot or bud (scion) with a rootstock or an existing vine in accordance with recommended practices to form a living union.
 

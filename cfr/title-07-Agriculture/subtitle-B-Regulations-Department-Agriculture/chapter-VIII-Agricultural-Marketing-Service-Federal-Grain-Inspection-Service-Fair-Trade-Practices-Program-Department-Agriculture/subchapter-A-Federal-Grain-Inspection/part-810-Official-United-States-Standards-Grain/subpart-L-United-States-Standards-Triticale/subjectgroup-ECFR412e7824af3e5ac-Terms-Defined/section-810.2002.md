@@ -14,6 +14,6 @@
 
 (g) *Shrunken and broken kernels.* All matter that passes through a 0.064 × 3/8 oblong-hole sieve after sieving according to procedures prescribed in FGIS instructions.
 
-(h) *Sieve—0.064* ×3/8*oblong-hole sieve.* A metal sieve 0.032 inch thick with oblong perforations 0.064 inch by 0.375 (3/8) inch.
+(h) *Sieve—0.064* × 3/8*oblong-hole sieve.* A metal sieve 0.032 inch thick with oblong perforations 0.064 inch by 0.375 (3/8) inch.
 
 [52 FR 24418, June 30, 1987; 52 FR 28534, July 31, 1987]

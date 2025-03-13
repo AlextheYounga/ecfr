@@ -50,7 +50,7 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 *Irrigated practice.* In lieu of the definition in the Basic Provisions, the application of water, using appropriate systems and at the proper times, to provide the quantity of water needed to sustain normal growth of your insured plant inventory and provide cold protection for applicable plants as specified in the EPLPPS.
 
-*Liners.* Plants produced in standard nursery containers that have a minimum dimension greater than or equal to5/8 inch and a maximum dimension of less than 3 inches at the widest point of the container or cell interior, have an established root system, and meet all other conditions specified in the Special Provisions.
+*Liners.* Plants produced in standard nursery containers that have a minimum dimension greater than or equal to 5/8 inch and a maximum dimension of less than 3 inches at the widest point of the container or cell interior, have an established root system, and meet all other conditions specified in the Special Provisions.
 
 *Loss.* FMVA minus FMVB, as adjusted by any under-report factor or over-report factor. Payments made under the Rehabilitation Endorsement are not considered to be a loss.
 
@@ -92,7 +92,7 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 *Sales closing date.* In lieu of the definition in section 1 of the Basic Provisions, the date shown in the Special Provisions. New-policy applications may be filed at any time. However, all applications, including those for new or amended coverage, are subject to a 30-day waiting period before commencement of coverage as specified in sections 3(d) and 9(a) of these Crop Provisions.
 
-*Standard nursery containers.* Rigid containers that have a minimum dimension greater than or equal to5/8 inch, unless otherwise provided by the Special Provisions, at the widest point of the container interior, above-ground fabric grow bags, and other types of containers specified in the Special Provisions that are appropriate in size and provide adequate drainage for the plant. In-ground fabric grow bags, balled and burlapped, and trays (flats) without individual cells are not considered standard nursery containers.
+*Standard nursery containers.* Rigid containers that have a minimum dimension greater than or equal to 5/8 inch, unless otherwise provided by the Special Provisions, at the widest point of the container interior, above-ground fabric grow bags, and other types of containers specified in the Special Provisions that are appropriate in size and provide adequate drainage for the plant. In-ground fabric grow bags, balled and burlapped, and trays (flats) without individual cells are not considered standard nursery containers.
 
 *Stock plants.* Plants used solely for propagation during the insurance period.
 

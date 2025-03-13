@@ -10,4 +10,4 @@
 
 (e) The provisions of this amended subpart shall, in any event, terminate whenever the provisions of the act authorizing them cease to be in effect.
 
-[25 FR 12813, Dec. 14, 1960, as amended at 41 FR 32417, Aug. 3, 1976; 83 FR 53972, Oct. 26, 2018]Effective Date Note:At 88 FR 71275, Oct. 16, 2023, paragraph (c) in § 989.91 was stayed effective Oct. 16, 2023 through Nov. 26, 2029.
+[25 FR 12813, Dec. 14, 1960, as amended at 41 FR 32417, Aug. 3, 1976; 83 FR 53972, Oct. 26, 2018] Effective Date Note:At 88 FR 71275, Oct. 16, 2023, paragraph (c) in § 989.91 was stayed effective Oct. 16, 2023 through Nov. 26, 2029.

@@ -1,6 +1,6 @@
 ##### § 301.52-3 Conditions governing the interstate movement of regulated articles from quarantined States. #####
 
-Any regulated articles may be moved interstate from any quarantined State under the following conditions:1
+Any regulated articles may be moved interstate from any quarantined State under the following conditions: 1
 
 1 Requirements under all other applicable Federal domestic plant quarantines must also be met.
 

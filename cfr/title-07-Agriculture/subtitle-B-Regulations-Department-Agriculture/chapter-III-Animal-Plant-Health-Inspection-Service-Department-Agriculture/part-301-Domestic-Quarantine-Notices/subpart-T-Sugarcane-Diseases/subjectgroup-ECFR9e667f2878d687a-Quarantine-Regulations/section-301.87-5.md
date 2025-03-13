@@ -2,13 +2,13 @@
 
 (a) A certificate shall be issued by an inspector for the movement of a regulated article if the inspector:
 
-(1)(i) Determines that it has been treated under the direction of an inspector1 in accordance with part 305 of this chapter; or
+(1)(i) Determines that it has been treated under the direction of an inspector 1 in accordance with part 305 of this chapter; or
 
 1 Treatments shall be monitored by inspectors in order to assure compliance with requirements in this subpart.
 
 (ii) Determines based on inspection of the article and the premises of origin that it is free from sugarcane diseases. The term *sugarcane diseases* means leaf scald disease with respect to movement of regulated articles from Hawaii and means gummosis disease and leaf scald disease with respect to movements of regulated articles from Puerto Rico;
 
-(2) Determines that it is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714)2 to prevent the spread of sugarcane diseases; and
+(2) Determines that it is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714) 2 to prevent the spread of sugarcane diseases; and
 
 2 An inspector may hold, seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of plants, plant pests, or other articles in accordance with sections 414, 421, and 434 of the Plant Protection Act (7 U.S.C. 7714, 7731, and 7754).
 
@@ -22,7 +22,7 @@
 
 (ii) To a specified destination stated on the limited permit, which is not in a county or parish where sugarcane is produced, and which is not within 10 miles of a sugarcane field;
 
-(2) Determines that it is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714)2 to prevent the spread of sugarcane diseases; and
+(2) Determines that it is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714) 2 to prevent the spread of sugarcane diseases; and
 
 (3) Determines that it is eligible for such movement under all other Federal domestic plant quarantines applicable to the article.
 

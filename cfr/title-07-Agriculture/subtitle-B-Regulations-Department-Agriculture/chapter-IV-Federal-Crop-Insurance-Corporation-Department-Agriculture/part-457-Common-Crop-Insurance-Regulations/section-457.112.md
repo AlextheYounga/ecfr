@@ -4,7 +4,7 @@ The Hybrid Sorghum Seed Crop Insurance Provisions for the 2017 and succeeding cr
 
 FCIC policies:
 
-United States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)
+United States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies (Appropriate title for insurance provider)
 
 Both FCIC and Reinsured Policies
 

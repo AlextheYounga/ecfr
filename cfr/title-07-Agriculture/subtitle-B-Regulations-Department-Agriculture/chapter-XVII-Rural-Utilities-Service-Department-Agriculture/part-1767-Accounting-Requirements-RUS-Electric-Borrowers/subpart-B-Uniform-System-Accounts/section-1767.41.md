@@ -1041,19 +1041,19 @@ Accounting Journal Entries—Implementation Date
 
 If a borrower has impaired assets that are held or used at the implementation date, the following entry should be recorded:
 
-Dr. 426.5, Other DeductionsCr. 300 Series of Accounts, Plant AccountsTo record the adoption of Statement No. 121 for the impairment of assets that are held or used.
+Dr. 426.5, Other Deductions Cr. 300 Series of Accounts, Plant Accounts To record the adoption of Statement No. 121 for the impairment of assets that are held or used.
 
 If a borrower has impaired assets to be disposed of at the implementation date, the following entry should be recorded:
 
-Dr. 435.1, Cumulative Effect on Prior Years of a Change in Accounting PrincipleCr. 300 Series—Plant AccountsTo record the adoption of Statement No. 121 for assets that are to be disposed.Accounting Journal Entries—Subsequent to Implementation Date
+Dr. 435.1, Cumulative Effect on Prior Years of a Change in Accounting Principle Cr. 300 Series—Plant Accounts To record the adoption of Statement No. 121 for assets that are to be disposed. Accounting Journal Entries—Subsequent to Implementation Date
 
 If an asset that is either held, used or to be disposed of becomes impaired, the following entry should be recorded:
 
-Dr. 426.5, Other DeductionsCr. 300 Series—Plant AccountsTo record the impairment of a plant asset.
+Dr. 426.5, Other Deductions Cr. 300 Series—Plant Accounts To record the impairment of a plant asset.
 
 If a borrower makes a subsequent revision in the estimate of the fair value less the cost to sell of an asset to be disposed of, the following entry should be recorded:
 
-Dr. 300 Series—Plant AccountsCr. 421, Miscellaneous Nonoperating IncomeTo revise the fair value of an asset to be disposed.138 Automatic Meter Reading Systems—Turtles
+Dr. 300 Series—Plant Accounts Cr. 421, Miscellaneous Nonoperating Income To revise the fair value of an asset to be disposed. 138 Automatic Meter Reading Systems—Turtles
 
 Automatic meter reading systems were developed from technology called power line carrier communication systems. One such system, developed by Hunt Technologies, Inc., is called by its brand name, the Turtle system. In addition to its function as an automated reading device, the Turtle can provide outage detection, power failure counts, and other potential applications. The current Turtle system does not have the capability for applications such as collection of load survey or interval data. A Turtle system consists of:
 
@@ -1113,13 +1113,13 @@ The subscription agreement to purchase Capital Term Certificates (CTCs) is a bin
 
 The annual subscriptions to CFC for the fourth through fifteenth years is 2.0 percent of total operating revenues after deducting the cost of power. Using the best data available, each borrower shall estimate the amount of CTCs that are required to be purchased. Estimates are not expected to be precise and adjustments shall be made when future projections indicate a change is needed. When the agreement to purchase CTCs is made, an entry shall be recorded debiting Account 123.21, Subscriptions to Capital Term Certificates—Supplemental Financing, and crediting Account 224.11, Other Long-Term Debit—Subscriptions. When the CTCs are actually purchased, the following entries shall be recorded:
 
-Dr. 224.11, Other Long-Term Debt—SubscriptionsCr. 131.1, Cash—GeneralDr. 123.22, Investments in Capital Term Certificates—Supplemental FinancingCr. 123.21, Subscriptions to Capital Term Certificates—Supplemental Financing
+Dr. 224.11, Other Long-Term Debt—Subscriptions Cr. 131.1, Cash—GeneralDr. 123.22, Investments in Capital Term Certificates—Supplemental FinancingCr. 123.21, Subscriptions to Capital Term Certificates—Supplemental Financing
 
 3. *Interest Receipts*
 
 Interest accrues monthly to the holder of CTCs at a rate in accordance with the terms of the CFC Invitation to Subscribe. The accrual of interest and the receipt of interest proceeds shall be recorded as follows:
 
-Dr. 171, Interest and Dividends ReceivableCr. 419, Interest and Dividend IncomeTo record the monthly accrual of interest.Dr. 131.1, Cash—GeneralCr. 171, Interest and Dividends ReceivableTo record the receipt of interest proceeds from the investment in CTCs.Note:
+Dr. 171, Interest and Dividends Receivable Cr. 419, Interest and Dividend IncomeTo record the monthly accrual of interest.Dr. 131.1, Cash—General Cr. 171, Interest and Dividends ReceivableTo record the receipt of interest proceeds from the investment in CTCs.Note:
 
 Any amounts received in excess of the previous accruals shall be credited to Account 419.
 
@@ -1375,7 +1375,7 @@ Statement No. 43 does not apply to severance or termination pay, postretirement 
 
 The entries required to account for the accrual of compensated absences are as follows:
 
-Dr. 435.1, Cumulative Effect on Prior Years of a Change in Accounting PrincipleCr. 242.3, Accrued Employees' Vacation and HolidaysTo record the liability for benefits earned in prior years.Dr. 107, Construction Work in ProgressDr. 108.8, Retirement Work in ProgressDr. Various Operations, Maintenance, and Administrative Expense AccountsCr. 242.3, Accrued Employees Vacation and HolidaysTo record the liability for benefits earned in the current period.603 Employee Retirement and Group Insurance
+Dr. 435.1, Cumulative Effect on Prior Years of a Change in Accounting Principle Cr. 242.3, Accrued Employees' Vacation and Holidays To record the liability for benefits earned in prior years. Dr. 107, Construction Work in Progress Dr. 108.8, Retirement Work in Progress Dr. Various Operations, Maintenance, and Administrative Expense Accounts Cr. 242.3, Accrued Employees Vacation and Holidays To record the liability for benefits earned in the current period. 603 Employee Retirement and Group Insurance
 
 Some borrowers have group insurance or retirement plans or both for their employees. As a general rule the cost of these programs is borne partially by the cooperative and partially by its employees. The cooperative may pay the full cost in advance and recover the employee's share through payroll deductions. The accounting for these transactions is as follows:
 
@@ -1387,21 +1387,21 @@ Some borrowers have group insurance or retirement plans or both for their employ
 
 Many utilities participate in the NRECA Deferred Compensation Program. Based upon the provisions of the program, the following accounting entries shall be made:
 
-Dr. 186.XX, Miscellaneous Deferred Debits—Deferred CompensationCr. 228.3, Accumulated Provision for Pensions and BenefitsTo increase the deferred compensation provision by the amount of the annual deposit to NRECA's Deferred Compensation Fund.Dr. 128, Other Special Funds—Deferred CompensationCr. 131.1, Cash—GeneralTo record the annual deposit to NRECA's Deferred Compensation Fund.Dr. Construction Work in Progress, Retirement Work in Progress, or the Various Operations, Maintenance, and Administrative Expense Accounts, as appropriate.Cr. 186.XX, Miscellaneous Deferred Debits—Deferred CompensationTo record monthly accrual of deferred compensation.Note:
+Dr. 186.XX, Miscellaneous Deferred Debits—Deferred Compensation Cr. 228.3, Accumulated Provision for Pensions and Benefits To increase the deferred compensation provision by the amount of the annual deposit to NRECA's Deferred Compensation Fund. Dr. 128, Other Special Funds—Deferred CompensationCr. 131.1, Cash—General To record the annual deposit to NRECA's Deferred Compensation Fund. Dr. Construction Work in Progress, Retirement Work in Progress, or the Various Operations, Maintenance, and Administrative Expense Accounts, as appropriate. Cr. 186.XX, Miscellaneous Deferred Debits—Deferred Compensation To record monthly accrual of deferred compensation. Note:
 
 If an employee joins the deferred compensation program during the year, use entry #1 to record the additional deposit to the NRECA Deferred Compensation Fund and increase the monthly accrual in entry #2 to reflect this deposit.
 
 NRECA provides borrowers that participate in the deferred compensation program with an annual account statement disclosing the activity for each Homestead Fund investment including the number of shares owned, interest income, dividend income, capital gains/losses, and the value of the shares owned at statement date. Funds may be invested in the Short-term Bond Fund, the Value Fund, the Short-term Government Securities Fund, and the Daily Income Fund. Depending upon the Homestead Fund selected, invested funds may earn interest and dividend income and may experience unrealized holding gains or losses. Based upon the information provided on the annual statement, the following journal entries shall be recorded to recognize the increase or decrease in the fund assets:
 
-Dr. 128, Other Special Funds—Deferred CompensationCr. 419, Interest and Dividend IncomeCr. 421, Miscellaneous Nonoperating IncomeTo record an increase in the fund value as of December 31, 19xx, resulting from interest and dividend income and from unrecognized holding gains on trading securities.Dr. Various Operations, Maintenance, and Administrative Expense AccountsCr. 228.3, Accumulated Provision for Pensions and BenefitsTo record an increase in the liability to the employee resulting from an increase in the investment account.Dr. 426.5, Other DeductionsCr. 128, Other Special Funds—Deferred CompensationTo record a decrease in fund value as of December 31, 19xx, resulting from unrecognized holding losses on trading securities.Dr. 228.3, Accumulated Provision for Pensions and BenefitsCr. Various Operations, Maintenance, and Administrative Expense AccountsTo record a decrease in the liability to the employee resulting from a decrease in the investment account.
+Dr. 128, Other Special Funds—Deferred Compensation Cr. 419, Interest and Dividend Income Cr. 421, Miscellaneous Nonoperating Income To record an increase in the fund value as of December 31, 19xx, resulting from interest and dividend income and from unrecognized holding gains on trading securities.Dr. Various Operations, Maintenance, and Administrative Expense Accounts Cr. 228.3, Accumulated Provision for Pensions and Benefits To record an increase in the liability to the employee resulting from an increase in the investment account.Dr. 426.5, Other Deductions Cr. 128, Other Special Funds—Deferred Compensation To record a decrease in fund value as of December 31, 19xx, resulting from unrecognized holding losses on trading securities. Dr. 228.3, Accumulated Provision for Pensions and Benefits Cr. Various Operations, Maintenance, and Administrative Expense Accounts To record a decrease in the liability to the employee resulting from a decrease in the investment account.
 
 Payments made to participating employees because of retirement or separation for other reasons shall be recorded using the following entries:
 
-Dr. 131.1, Cash—GeneralCr. 128, Other Special Funds—Deferred CompensationTo record the receipt of funds from NRECA.andDr. 228.3, Accumulated Provision for Pensions and BenefitsCr. 131.1, Cash—GeneralTo record payment to employee for deferred compensation.
+Dr. 131.1, Cash—General Cr. 128, Other Special Funds—Deferred Compensation To record the receipt of funds from NRECA. and Dr. 228.3, Accumulated Provision for Pensions and Benefits Cr. 131.1, Cash—General To record payment to employee for deferred compensation.
 
 If the borrower has elected to bear the market risk of the funds which guarantee that the amount of money an employee receives will not be less than the amount of salary deferred, the following entry shall be recorded if total payment(s) from NRECA are less than the amount of salary deferred:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsCr. 131.1, Cash—GeneralTo record payment to employee for deferred compensation. Payment was made because amount returned did not equal salary deferred.
+Dr. Various Operations, Maintenance, and Administrative Expense Accounts Cr. 131.1, Cash—General To record payment to employee for deferred compensation. Payment was made because amount returned did not equal salary deferred.
 
 Appropriate disclosure of the terms of the program shall be made in the notes to the financial statements.
 
@@ -1535,7 +1535,7 @@ Sample 1—Current Pension Expense
 
 The journal entry required to record the normal costs associated with the NRECA Retirement and Security Program is as follows:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash—GeneralTo record the payment of pension costs to NRECA.Note:
+Dr. Various Operations, Maintenance, and Administrative Expense Accounts Dr. 107, Construction Work-in-Progress Dr. 108.8, Retirement Work-in-Progress Cr. 131.1, Cash—General To record the payment of pension costs to NRECA. Note:
 
 This entry shall not be recorded during the moratorium.
 
@@ -1545,19 +1545,19 @@ The journal entries required to record the prior service costs associated with t
 
 1. If the RUS borrower elects to pay the prior service pension costs in full, and there is no deferral of costs under the provision of Statement No. 71, the following entry shall be recorded:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash—GeneralTo record the payment of prior service pension costs to NRECA.
+Dr. Various Operations, Maintenance, and Administrative Expense Accounts Dr. 107, Construction Work-in-Progress Dr. 108.8, Retirement Work-in-Progress Cr. 131.1, Cash—General To record the payment of prior service pension costs to NRECA.
 
 2. If the RUS borrower elects to finance prior service pension costs over a period of years and there is no deferral of costs under the provisions of Statement No. 71, the following entries shall be recorded:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 224, Other Long-Term DebtTo record the liability to NRECA for prior service pension costs.Dr. 224, Other Long-Term DebtDr. 427, Interest on Long-Term DebtCr. 131.1, Cash—GeneralTo record the annual payment to NRECA for prior service pension costs.
+Dr. Various Operations, Maintenance, and Administrative Expense Accounts Dr. 107, Construction Work-in-Progress Dr. 108.8, Retirement Work-in-Progress Cr. 224, Other Long-Term Debt To record the liability to NRECA for prior service pension costs. Dr. 224, Other Long-Term Debt Dr. 427, Interest on Long-Term Debt Cr. 131.1, Cash—General To record the annual payment to NRECA for prior service pension costs.
 
 3. If the RUS borrower elects to finance prior service pension costs over a period of years and such costs are being deferred and amortized in accordance with the provisions of Statement No. 71, the following entries shall be recorded:
 
-Dr. 182.3, Other Regulatory AssetsCr. 224, Other Long-Term DebtTo record the liability to NRECA for prior service pension costs.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 182.3, Other Regulatory AssetsTo record the amortization of deferred prior service pension costs.Dr. 224, Other Long-Term DebtDr. 427, Interest on Long-Term DebtCr. 131.1, Cash—GeneralTo record the annual payment to NRECA for prior service pension costs.
+Dr. 182.3, Other Regulatory Assets Cr. 224, Other Long-Term Debt To record the liability to NRECA for prior service pension costs. Dr. Various Operations, Maintenance, and Administrative Expense Accounts Dr. 107, Construction Work-in-Progress Dr. 108.8, Retirement Work-in-Progress Cr. 182.3, Other Regulatory Assets To record the amortization of deferred prior service pension costs. Dr. 224, Other Long-Term Debt Dr. 427, Interest on Long-Term Debt Cr. 131.1, Cash—General To record the annual payment to NRECA for prior service pension costs.
 
 4. If the RUS borrower elects to pay the prior service pension costs in full and such costs are being deferred and amortized in accordance with the provisions of Statement No. 71, the following entries shall be recorded:
 
-Dr. 182.3, Other Regulatory AssetsCr. 131.1, Cash—GeneralTo record the payment to NRECA for prior service pension costs.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 182.3, Other Regulatory AssetsTo record the amortization of deferred prior service pension costs.
+Dr. 182.3, Other Regulatory Assets Cr. 131.1, Cash—General To record the payment to NRECA for prior service pension costs. Dr. Various Operations, Maintenance, and Administrative Expense Accounts Dr. 107, Construction Work-in-Progress Dr. 108.8, Retirement Work-in-Progress Cr. 182.3, Other Regulatory Assets To record the amortization of deferred prior service pension costs.
 
 It should be noted that although the above entries relate specifically to the NRECA Retirement and Security Program, they are applicable to all multiemployer pension plans.
 
@@ -1879,11 +1879,11 @@ Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107,
 
 If a borrower elects to voluntarily fund its postretirement benefits obligation in an external, irrevocable trust, the following entry shall be recorded:
 
-Dr. 228.3X, Accumulated Provision for Pensions and Benefits—FundedCr. 131.1, Cash—GeneralTo record the funding of postretirement benefits expense into an external, irrevocable trust.
+Dr. 228.3X, Accumulated Provision for Pensions and Benefits—Funded Cr. 131.1, Cash—General To record the funding of postretirement benefits expense into an external, irrevocable trust.
 
 If a borrower elects to voluntarily fund its postretirement benefits obligation in an investment vehicle other than an external, irrevocable trust, the following entry shall be recorded:
 
-Dr. 128, Other Special FundsCr. 131.1, Cash—GeneralTo record the funding of postretirement benefits expense into an investment vehicle other than an external, irrevocable trust.628 Postemployment Benefits
+Dr. 128, Other Special Funds Cr. 131.1, Cash—General To record the funding of postretirement benefits expense into an investment vehicle other than an external, irrevocable trust. 628 Postemployment Benefits
 
 Statement of Financial Accounting Standards No. 112, Employers' Accounting for Postemployment Benefits (Statement No. 112) establishes the standards of financial accounting and reporting for employers who provide benefits to former or inactive employees after employment but before retirement. Inactive employees are those who are not currently rendering service to the employer but who have not been terminated, including employees who are on disability leave, regardless of whether they are expected to return to active service. For purposes of applying the provisions of Statement No. 112, former members of the board of directors are considered to be employees of the cooperative.
 
@@ -1917,13 +1917,13 @@ Accounting Journal Entries
 
 The journal entries required to account for postemployment benefits are as follows:
 
-Dr. 435.1, Cumulative Effect on Prior Years of a Change in Accounting PrincipleDr. 107, Construction Work in ProgressDr. 108.8, Retirement Work in ProgressCr. 228.3, Accumulated Provision for Pensions and BenefitsTo record the cumulative effect of implementing Statement No. 112.Note:
+Dr. 435.1, Cumulative Effect on Prior Years of a Change in Accounting Principle Dr. 107, Construction Work in Progress Dr. 108.8, Retirement Work in Progress Cr. 228.3, Accumulated Provision for Pensions and Benefits To record the cumulative effect of implementing Statement No. 112. Note:
 
 A portion of the cumulative effect may be charged to construction and retirement activities provided such charges are properly supported. Account 435.1 is closed to Account 219.2, Nonoperating Margins.
 
 If the borrower elects to defer and amortize the cumulative effect in accordance with the provisions of Statement No. 71, the following entry shall be recorded:
 
-Dr. 182.3, Other Regulatory AssetsCr. 228.3, Accumulated Provision for Pensions and BenefitsTo record the deferral of the cumulative effect of implementing Statement No. 112 in accordance with the provisions of Statement No. 71.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work in ProgressDr. 108.8, Retirement Work in ProgressCr. 182.3, Other Regulatory AssetsTo record the amortization of the cumulative effect of implementing Statement No. 112 as it is recovered through rates in accordance with Statement No. 71.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work in ProgressDr. 108.8, Retirement Work in ProgressCr. 228.3, Accumulated Provision for Pensions and BenefitsTo record current period postemployment benefit expense.Note:
+Dr. 182.3, Other Regulatory Assets Cr. 228.3, Accumulated Provision for Pensions and Benefits To record the deferral of the cumulative effect of implementing Statement No. 112 in accordance with the provisions of Statement No. 71. Dr. Various Operations, Maintenance, and Administrative Expense Accounts Dr. 107, Construction Work in Progress Dr. 108.8, Retirement Work in Progress Cr. 182.3, Other Regulatory Assets To record the amortization of the cumulative effect of implementing Statement No. 112 as it is recovered through rates in accordance with Statement No. 71. Dr. Various Operations, Maintenance, and Administrative Expense Accounts Dr. 107, Construction Work in Progress Dr. 108.8, Retirement Work in Progress Cr. 228.3, Accumulated Provision for Pensions and Benefits To record current period postemployment benefit expense. Note:
 
 If postemployment benefits are accrued under the criteria set forth in Statement No. 43, this journal entry is made on a monthly basis. If, however, the accrual is based upon the provisions of Statement No. 5, this is a one-time entry unless the liability is reevaluated and subsequently adjusted.
 
@@ -1963,7 +1963,7 @@ Accounting Journal Entries
 
 The journal entries required to account for the NRECA Split Dollar Life Insurance Program are as follows:
 
-Dr. 124, Other InvestmentsCr. Various Operations, Maintenance, and Administrative Expense AccountsTo record an increase in the cash surrender value of the insurance contract.orDr. Various Operations, Maintenance, and Administrative Expense AccountsCr. 124, Other InvestmentsTo record a decrease in the cash surrender value of the insurance contract.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash—GeneralTo record the premium cost of the insurance contract.631 Special Early Retirement Plan
+Dr. 124, Other Investments Cr. Various Operations, Maintenance, and Administrative Expense Accounts To record an increase in the cash surrender value of the insurance contract. orDr. Various Operations, Maintenance, and Administrative Expense Accounts Cr. 124, Other Investments To record a decrease in the cash surrender value of the insurance contract. Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash—GeneralTo record the premium cost of the insurance contract.631 Special Early Retirement Plan
 
 The Special Early Retirement Plan (SERP) being offered through the National Rural Electric Cooperative Association (NRECA) constitutes an amendment to its Retirement and Security (R&S) program. The SERP is often chosen as a vehicle through which the cooperative may reduce the size of its workforce or replace more highly paid employees with lower paid entry level employees. If an employee covered by an NRECA retirement plan chose to retire before his/her normal retirement date, that employee would receive an actuarially reduced benefit. However, when a cooperative elects to offer a SERP, no such reduction is required. The cooperative selects the criteria under which an employee will be eligible to participate such as age, years of service, or a combination of age and benefit service requirements. As with other amendments to the R&S program, NRECA calculates the cost of the plan based upon the criteria selected by the cooperative and allows the cooperative to pay the cost immediately or on an installment basis.
 
@@ -1977,11 +1977,11 @@ Accounting Journal Entries
 
 The journal entry required to record the additional pension costs associated with the SERP is as follows:
 
-Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 131.1, Cash—GeneralorCr. 224, Other Long-Term DebtTo record the prior service pension costs incurred as a result of adopting the SERP.
+Dr. Various Operations, Maintenance, and Administrative Expense Accounts Dr. 107, Construction Work-in-Progress Dr. 108.8, Retirement Work-in-Progress Cr. 131.1, Cash—GeneralorCr. 224, Other Long-Term DebtTo record the prior service pension costs incurred as a result of adopting the SERP.
 
 If the borrower elects to defer and amortize the cost in accordance with Statement No. 71, the following entries shall be recorded:
 
-Dr. 182.3, Other Regulatory AssetsCr. 131.1, Cash—GeneralorCr. 224, Other Long-Term DebtTo record, under the provisions of Statement No. 71, the deferral of the prior service pension costs incurred as a result of adopting the SERP.Dr. Various Operations, Maintenance, and Administrative Expense AccountsDr. 107, Construction Work-in-ProgressDr. 108.8, Retirement Work-in-ProgressCr. 182.3, Other Regulatory AssetsTo record the amortization of deferred prior service pension costs as they are recovered through rates in accordance with Statement No. 71.Statement No. 106
+Dr. 182.3, Other Regulatory Assets Cr. 131.1, Cash—GeneralorCr. 224, Other Long-Term Debt To record, under the provisions of Statement No. 71, the deferral of the prior service pension costs incurred as a result of adopting the SERP.Dr. Various Operations, Maintenance, and Administrative Expense Accounts Dr. 107, Construction Work-in-Progress Dr. 108.8, Retirement Work-in-Progress Cr. 182.3, Other Regulatory Assets To record the amortization of deferred prior service pension costs as they are recovered through rates in accordance with Statement No. 71. Statement No. 106
 
 In the event that net reductions in postretirement benefits result from this plan amendment, the reductions are recognized as follows:
 
@@ -1995,7 +1995,7 @@ In accordance with Statement No. 106, prior service postretirement benefit costs
 
 At adoption, Statement No. 106 permitted the recognition of the transition obligation in one of two ways. The transition obligation was recognized over the longer of the average remaining service period of current plan participants or 20 years, or it may have been recognized immediately. If the delayed recognition option was chosen under Statement No. 106, this, too, was an off-balance sheet item that requires only a memorandum entry to reduce the amount of unrecognized transition obligation. However, if the immediate recognition option was chosen, the cooperative either recorded the expense in that year or, with RUS approval, deferred the expense under the provisions of Statement No. 71. If the expense were recorded, in total, in the year of adoption, no unrecognized transition obligation remains to reduce. If, however, the transition obligation was deferred in accordance with Statement No. 71, the journal entry required to effect the reduction in Statement No. 106 expense is as follows:
 
-Dr. 228.3, Accumulated Provision for Pensions and BenefitsCr. 182.3, Other Regulatory AssetsTo record a reduction in the deferred Statement No. 106 transition obligation resulting from the adoption of the SERP.Note:
+Dr. 228.3, Accumulated Provision for Pensions and Benefits Cr. 182.3, Other Regulatory Assets To record a reduction in the deferred Statement No. 106 transition obligation resulting from the adoption of the SERP.Note:
 
 The dollar value of this entry must not exceed the deferral shown on the balance sheet.
 

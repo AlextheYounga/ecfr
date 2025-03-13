@@ -4,7 +4,7 @@
 
 (2) *Notice of hazards.* Acquired real property located in an identified special flood or mudslide hazard area as defined in, subpart B of part 1806 of this chapter will not be sold for residential purposes unless determined by the county official or district director to be safe (that is, any hazard that exists would not likely endanger the safety of dwelling occupants).
 
-(3) *Limitations placed on financial assistance.*(i) Financial assistance is limited to property located in areas where flood insurance is available. Flood insurance must be provided at closing of loans on program-eligible and non-program (NP)-ineligible terms. Appraisals of property in flood or mudslide hazard areas will reflect this condition and any restrictions on use. Financial assistance for substantial improvement or repair of property located in a flood or mudslide hazard area is subject to the limitations outlined in 7 CFR part 1970 for Rural Development programs.
+(3) *Limitations placed on financial assistance.* (i) Financial assistance is limited to property located in areas where flood insurance is available. Flood insurance must be provided at closing of loans on program-eligible and non-program (NP)-ineligible terms. Appraisals of property in flood or mudslide hazard areas will reflect this condition and any restrictions on use. Financial assistance for substantial improvement or repair of property located in a flood or mudslide hazard area is subject to the limitations outlined in 7 CFR part 1970 for Rural Development programs.
 
 (ii) Pursuant to the requirements of the Coastal Barrier Resources Act (CBRA) and except as specified in paragraph (a)(3)(v) of this section, no credit sales will be provided for property located within a CBRS where:
 

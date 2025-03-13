@@ -10,7 +10,7 @@
 
 (iv) Rectangular or octagonal bulk fiberboard crib with approximate dimensions of 46 to 471/2 inches in length, 37 to 38 inches in width, and 36 inches in height: *Provided,* That the container has a Mullen or Cady test of at least 1,300 pounds, and that it is used only once for the shipment of citrus fruit: *And Provided further,* That the container may be used to pack any poly or mesh bags authorized in this section, or bulk fruit;
 
-(v) Rectangular or octagonal2/3 fiberboard crib with approximate dimensions of 46 to 471/2 inches in length, 37 to 38 inches in width, and 24 inches in height: *Provided,* That the crib has a Mullen or Cady test of at least 1,300 pounds, and that it is used only once for the shipment of citrus fruit: *And Provided further,* That the container may be used to pack any poly or mesh bags authorized in this section, or bulk fruit;
+(v) Rectangular or octagonal 2/3 fiberboard crib with approximate dimensions of 46 to 471/2 inches in length, 37 to 38 inches in width, and 24 inches in height: *Provided,* That the crib has a Mullen or Cady test of at least 1,300 pounds, and that it is used only once for the shipment of citrus fruit: *And Provided further,* That the container may be used to pack any poly or mesh bags authorized in this section, or bulk fruit;
 
 (vi) Octagonal fiberboard crib with approximate dimensions of 46 to 471/2 inches in width, 37 to 38 inches in depth, and 26 to 261/2 inches in height: *Provided,* That the crib has a Mullen or Cady test of at least 1,300 pounds, and that it is used only once for the shipment of citrus fruit: *And Provided further,* That the crib may be used to pack any poly or mesh bags authorized in this section, or bulk fruit;
 
@@ -22,7 +22,7 @@
 
 (x) Octagonal bulk triple wall fiberboard crib with approximate dimensions of 373/4 inches in length, 25 inches in width, and 25 inches in height: *Provided,* That the container has a Mullen or Cady test of at least 1,100 pounds: *And Provided further,* That the container may be used to pack any poly or mesh bags authorized in this section, or bulk fruit;
 
-(xi) Bag having the capacity of 15 pounds of fruit, either in a combination1/2 poly and1/2 mesh bag or mesh bag;
+(xi) Bag having the capacity of 15 pounds of fruit, either in a combination 1/2 poly and 1/2 mesh bag or mesh bag;
 
 (xii) Reusable collapsible plastic mini bin with approximate dimensions of 391/2 inches in length, 24 inches in width, and 301/2 inches in height: *Provided,* That the container may be used to pack any poly or mesh bags authorized in this section, or bulk fruit;
 
@@ -30,9 +30,9 @@
 
 (xiv) Standard carton with approximate inside dimensions of 16.375 x 10.6875 x 10.25 inches;
 
-(xv)8/5 Body master carton with approximate inside dimensions of 19.5385 x 13.125 x 11.625 inches, one piece;
+(xv) 8/5 Body master carton with approximate inside dimensions of 19.5385 x 13.125 x 11.625 inches, one piece;
 
-(xvi) Euro8/5 (5 Down) with approximate inside dimensions of 22.813 x 14.688 x 7.0 up to 7.936 inches;
+(xvi) Euro 8/5 (5 Down) with approximate inside dimensions of 22.813 x 14.688 x 7.0 up to 7.936 inches;
 
 (xvii) Fiberboard one piece display container with approximate inside dimensions of 23 inches x 15 inches x 91/2 up to 101/2 inches in depth;
 
@@ -56,7 +56,7 @@
 |                  138                   |      26/16       |212/16|
 |                  163                   |      23/16       |28/16 |
 
-(B) If7/10 bushel containers of oranges are marked, the count of fruit in each container shall not be less than the count marked on the container, but may exceed the count marked on the container by not more than 8 percent. When packed in marked containers other than7/10 bushel, the pack sizes applicable to7/10 bushel containers shall also apply to such containers.
+(B) If 7/10 bushel containers of oranges are marked, the count of fruit in each container shall not be less than the count marked on the container, but may exceed the count marked on the container by not more than 8 percent. When packed in marked containers other than 7/10 bushel, the pack sizes applicable to 7/10 bushel containers shall also apply to such containers.
 
 (ii) *Grapefruit.* (A) Grapefruit, when packed in any carton, bag, or other container, shall be sized in accordance with the sizes in the following Table II, except as otherwise provided in the regulations issued pursuant to this part, and meet the requirements of standard pack; and, when in containers not packed according to a definite pattern, shall be sized in accordance with the sizes in Table II: Provided, That the packing tolerances in the U.S. Standards for Grades of Grapefruit (Texas and States other than Florida, California, and Arizona), shall apply to fruit so packed. All fruit packed to size 64 in the following Table II shall be sized in accordance with the sizes in Table II but need not otherwise meet the requirements of standard pack: Provided, That they meet the same tolerances for off-size and pack as defined in the U.S. Standards for Grades of Grapefruit (Texas and States other than Florida, California, and Arizona).
 
@@ -73,7 +73,7 @@
 |                    56                     |      35/16       |310/16|
 |                    64                     |        3         |38/16 |
 
-(B) If7/10 bushel containers of grapefruit are marked, the count of fruit in the container shall not be less than the count marked on the container, but may exceed the count marked on the container by not more than 8 percent. When packed in marked containers other than7/10 bushel, the pack sizes applicable to7/10 bushel containers shall also apply to such containers.
+(B) If 7/10 bushel containers of grapefruit are marked, the count of fruit in the container shall not be less than the count marked on the container, but may exceed the count marked on the container by not more than 8 percent. When packed in marked containers other than 7/10 bushel, the pack sizes applicable to 7/10 bushel containers shall also apply to such containers.
 
 (3) *Container grade markings.* Except when the identifying marks “Texas Choice” or “Texas Fancy” are used by handlers pursuant to § 906.137, any container of U.S. No. 2 grade fruit shall be marked to indicate the grade of the fruit in letters and numbers at least three-fourths inch in height: *Provided,* That bags containing five or eight pounds of fruit shall be so marked with letters and numbers at least one-fourth inch in height prominently displayed on the front panel of the bag. The requirements of this paragraph (a)(3) will not be effective until February 16, 1992.
 

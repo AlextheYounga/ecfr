@@ -190,7 +190,7 @@ Kinds of seed: Bentgrasses, bluegrasses, bluestems, bromes, cereals, fescues, mi
 
 (iii) Shoot system: The shoot consists of the coleoptile, leaves enclosed in the coleoptile, and the mesocotyl. The coleoptile elongates and pushes through the soil surface. The mesocotyl may or may not elongate significantly, depending on the kind. Splitting of the coleoptile occurs naturally as a result of growth and emergence of the leaves.
 
-(iv) Root system: A long primary root. Secondary or adventitious roots may develop within the test period. In certain kinds (e.g. bermudagrass) the primary root may not be readily visible because it is coiled inside the tightly fitting lemma and palea. At the time of evaluation, the glumes should be removed and the root observed. Such seedlings are classified as normal if the primary root has developed. For Kentucky bluegrass, a primary root1/16 inch (1.6 mm) or more in length is classified as normal.
+(iv) Root system: A long primary root. Secondary or adventitious roots may develop within the test period. In certain kinds (e.g. bermudagrass) the primary root may not be readily visible because it is coiled inside the tightly fitting lemma and palea. At the time of evaluation, the glumes should be removed and the root observed. Such seedlings are classified as normal if the primary root has developed. For Kentucky bluegrass, a primary root 1/16 inch (1.6 mm) or more in length is classified as normal.
 
 (2) Abnormal seedling description.
 

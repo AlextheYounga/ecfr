@@ -8,7 +8,7 @@ An application by an officer of the organization shall be submitted to the Admin
 
 (c) A summary of experience at the facility which would indicate the capability to conduct tests of equipment according to Subpart B of this rule.
 
-(d) A general description of the station, including drawings on letter size (81/2 × 11 inches) paper to show the floor plan and cross-sections of the test chamber, basic dimensions, location of heat exchangers and instruments, and any other pertinent information.
+(d) A general description of the station, including drawings on letter size (8 1/2 × 11 inches) paper to show the floor plan and cross-sections of the test chamber, basic dimensions, location of heat exchangers and instruments, and any other pertinent information.
 
 (e) An indication of which of the following types of equipment, as defined in ATP, Annex 1, that the station is capable of testing: intermodal freight containers, semi-trailers, trailers, railcars, and trucks.
 

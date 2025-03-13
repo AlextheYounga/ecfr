@@ -1,7 +1,5 @@
 ##### § 90.175 Frequency coordinator requirements. #####
 
-Link to an amendment published at 89 FR 100851, Dec. 13, 2024.
-
 Except for applications listed in paragraph (j) of this section, each application for a new frequency assignment, for a change in existing facilities as listed in § 90.135(a), or for operation at temporary locations in accordance with § 90.137 must include a showing of frequency coordination as set forth further.
 
 (a) Frequency coordinators may request, and applicants are required to provide, all appropriate technical information, system requirements, and justification for requested station parameters when such information is necessary to identify and recommend the most appropriate frequency. Additionally, applicants bear the burden of proceeding and the burden of proof in requesting the Commission to overturn a coordinator's recommendation.
@@ -66,7 +64,7 @@ Except for applications listed in paragraph (j) of this section, each applicatio
 
 (15) Applications for narrowband low power channels listed for itinerant use in § 90.531(b)(4).
 
-(16) Applications for DSRCS licenses (as well as registrations for Roadside Units) under subpart M of this part in the 5895-5925 MHz band.
+(16) Applications for licenses in the Intelligent Transportation Systems radio service (as well as registrations for Roadside Units) under subpart M of this part in the 5895-5925 MHz band.
 
 (17) Applications for the deletion of a frequency and/or transmitter site location.
 
@@ -80,4 +78,4 @@ Except for applications listed in paragraph (j) of this section, each applicatio
 
 (22) [Reserved]
 
-[67 FR 41858, June 20, 2002, as amended at 67 FR 63289, Oct. 11, 2002; 68 FR 38639, June 30, 2003; 69 FR 39867, July 1, 2004; 69 FR 46443, Aug. 3, 2004; 70 FR 61061, Oct. 20, 2005; 70 FR 76708, Dec. 28, 2005; 72 FR 48859, Aug. 24, 2007; 75 FR 19284, Apr. 14, 2010; 77 FR 45506, Aug. 1, 2012; 78 FR 25175, Apr. 29, 2013; 81 FR 2110, Jan. 15, 2016; 83 FR 61095, Nov. 27, 2018; 84 FR 29085, June 21, 2019; 86 FR 23296, May 3, 2021; 88 FR 12570, Feb. 28, 2023; 89 FR 91584, Nov. 20, 2024]
+[67 FR 41858, June 20, 2002, as amended at 67 FR 63289, Oct. 11, 2002; 68 FR 38639, June 30, 2003; 69 FR 39867, July 1, 2004; 69 FR 46443, Aug. 3, 2004; 70 FR 61061, Oct. 20, 2005; 70 FR 76708, Dec. 28, 2005; 72 FR 48859, Aug. 24, 2007; 75 FR 19284, Apr. 14, 2010; 77 FR 45506, Aug. 1, 2012; 78 FR 25175, Apr. 29, 2013; 81 FR 2110, Jan. 15, 2016; 83 FR 61095, Nov. 27, 2018; 84 FR 29085, June 21, 2019; 86 FR 23296, May 3, 2021; 88 FR 12570, Feb. 28, 2023; 89 FR 91584, Nov. 20, 2024; 89 FR 100851, Dec. 13, 2024]

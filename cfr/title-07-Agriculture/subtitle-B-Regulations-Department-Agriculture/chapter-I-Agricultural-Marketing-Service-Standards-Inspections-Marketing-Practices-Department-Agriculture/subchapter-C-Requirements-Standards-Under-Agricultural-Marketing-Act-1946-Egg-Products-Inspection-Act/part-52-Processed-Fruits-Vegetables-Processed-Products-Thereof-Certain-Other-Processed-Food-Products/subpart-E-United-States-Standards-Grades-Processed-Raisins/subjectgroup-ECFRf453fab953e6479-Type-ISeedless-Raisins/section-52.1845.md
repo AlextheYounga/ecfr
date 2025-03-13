@@ -2,9 +2,9 @@
 
 The size designations and measurement requirements for the respective sizes are:
 
-(a) *Select* size raisins means that no more than 60 percent, by weight, of all the raisins will pass through round perforations22/64-inch in diameter, but not more than 10 percent, by weight, of all the raisins may pass through round perforations20/64-inch in diameter.
+(a) *Select* size raisins means that no more than 60 percent, by weight, of all the raisins will pass through round perforations 22/64-inch in diameter, but not more than 10 percent, by weight, of all the raisins may pass through round perforations 20/64-inch in diameter.
 
-(b) *Small* size raisins means that 95 percent, by weight, of all the raisins will pass through round perforations24/64-inch in diameter, and not less than 70 percent, by weight, of all raisins will pass through round perforations22/64-inch in diameter.
+(b) *Small* size raisins means that 95 percent, by weight, of all the raisins will pass through round perforations 24/64-inch in diameter, and not less than 70 percent, by weight, of all raisins will pass through round perforations 22/64-inch in diameter.
 
 (c) *Mixed* size raisins means a mixture that does not meet either the requirements for “select” size or for “small” size.
 

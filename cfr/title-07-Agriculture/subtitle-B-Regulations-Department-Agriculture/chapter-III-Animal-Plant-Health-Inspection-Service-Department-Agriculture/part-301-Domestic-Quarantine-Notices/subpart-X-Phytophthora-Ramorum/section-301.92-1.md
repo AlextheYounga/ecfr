@@ -40,7 +40,7 @@
 
 *Nursery.* Any location where nursery stock is grown, propagated, stored, or sold, or any location from which nursery stock is distributed. Locations that grow trees for sale without roots (*e.g.*, as Christmas trees) are considered to be nurseries for the purposes of this subpart.
 
-*Nursery stock.* All plants for planting, including houseplants, propagative material that is grown in a nursery, and tree seedlings for reforestation, except the following: Seeds; turf or sod; bulbs, tubers, corms, or rhizomes;1 greenhouse grown cactus, succulents, and orchids; aquarium grown aquatic plants; greenhouse, container, or field grown palms; greenhouse, container, or field grown cycads, and tissue culture plants grown in vitro; and plants meeting the definition of forest stock.
+*Nursery stock.* All plants for planting, including houseplants, propagative material that is grown in a nursery, and tree seedlings for reforestation, except the following: Seeds; turf or sod; bulbs, tubers, corms, or rhizomes; 1 greenhouse grown cactus, succulents, and orchids; aquarium grown aquatic plants; greenhouse, container, or field grown palms; greenhouse, container, or field grown cycads, and tissue culture plants grown in vitro; and plants meeting the definition of forest stock.
 
 1 Bulbs, tubers, corms, or rhizomes are only considered nursery stock (and therefore, regulated under this subpart) if they are of plant taxa listed in accordance with § 301.92-2 as regulated articles or associated articles.
 

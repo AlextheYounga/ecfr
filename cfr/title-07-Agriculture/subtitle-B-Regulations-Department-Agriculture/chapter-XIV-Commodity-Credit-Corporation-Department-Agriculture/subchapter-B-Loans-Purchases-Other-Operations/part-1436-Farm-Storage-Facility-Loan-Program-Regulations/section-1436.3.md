@@ -66,4 +66,4 @@ The following definitions will be applicable to the program authorized by this p
 
 *USDA* means the United States Department of Agriculture.
 
-[66 FR 4612, Jan. 18, 2001, as amended at 67 FR 54938, Aug. 26, 2002; 74 FR 41587, Aug. 18, 2009; 81 FR 25592, Apr. 29, 2016]Editorial Note:At 81 FR 25592, Apr. 29, 2016, § 1436.3 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[66 FR 4612, Jan. 18, 2001, as amended at 67 FR 54938, Aug. 26, 2002; 74 FR 41587, Aug. 18, 2009; 81 FR 25592, Apr. 29, 2016] Editorial Note:At 81 FR 25592, Apr. 29, 2016, § 1436.3 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

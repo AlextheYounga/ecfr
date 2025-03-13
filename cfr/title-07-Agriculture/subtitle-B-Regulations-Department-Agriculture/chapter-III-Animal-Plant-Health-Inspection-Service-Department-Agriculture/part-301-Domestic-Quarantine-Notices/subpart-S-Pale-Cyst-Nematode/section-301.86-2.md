@@ -2,13 +2,13 @@
 
 The following are regulated articles:
 
-(a) Pale cyst nematodes.1
+(a) Pale cyst nematodes. 1
 
 1 Permit and other requirements for the interstate movement of pale cyst nematodes are contained in part 330 of this chapter.
 
 (b) The following pale cyst nematode host crops:
 
-Eggplant (*Solanum melongena* L.)Pepper (*Capsicum* spp.)Potato (*Solanum tuberosum* L.)Tomatillo (*Physalis philadelphica*)Tomato (*Lycopersicon esculentum* L.)
+Eggplant (*Solanum melongena* L.) Pepper (*Capsicum* spp.) Potato (*Solanum tuberosum* L.) Tomatillo (*Physalis philadelphica*) Tomato (*Lycopersicon esculentum* L.)
 
 (c) Root crops.
 

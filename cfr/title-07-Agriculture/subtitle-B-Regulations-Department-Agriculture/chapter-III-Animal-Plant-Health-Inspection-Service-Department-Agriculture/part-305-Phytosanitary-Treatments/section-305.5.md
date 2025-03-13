@@ -24,7 +24,7 @@
 
 (2) Temperature/concentration readings must be taken for items known to be sorptive or whose sorptive properties are unknown when treatment is administered in chambers at normal atmospheric pressure.
 
-(3) Unless otherwise specified in the PPQ Treatment Manual or in another approved treatment schedule, the volume of the commodity stacked inside the treatment enclosure must not exceed2/3 of the volume of the enclosure. Stacking must be approved by an official authorized by APHIS before treatment begins. All commodities undergoing treatment must be listed on the label or authorized under Section 18 of FIFRA.
+(3) Unless otherwise specified in the PPQ Treatment Manual or in another approved treatment schedule, the volume of the commodity stacked inside the treatment enclosure must not exceed 2/3 of the volume of the enclosure. Stacking must be approved by an official authorized by APHIS before treatment begins. All commodities undergoing treatment must be listed on the label or authorized under Section 18 of FIFRA.
 
 (4) Recording and measuring equipment must be adequate to accurately monitor the gas concentration, to ensure the correct amount of gas reaches the pests, and to detect any leaks in the enclosure. At least three sampling tubes or monitoring lines must be used in the treatment enclosure.
 

@@ -106,7 +106,7 @@ DateAgency Approval OfficialTitle
 
 (1) The drawings must be clear, accurate, with adequate dimensions and of sufficient scale for estimating purposes.
 
-(2) Construction sections and large-scale details sufficient for accurate bidding and for the purpose of correlating all parts of the work should be part of the general drawings. This is particularly important where the size of a project makes necessary the preparation of the general drawings at a scale of1/8 inch equals 1 foot or less.
+(2) Construction sections and large-scale details sufficient for accurate bidding and for the purpose of correlating all parts of the work should be part of the general drawings. This is particularly important where the size of a project makes necessary the preparation of the general drawings at a scale of 1/8 inch equals 1 foot or less.
 
 (3) Mechanical and electrical work should be shown on separate plans.
 
@@ -210,7 +210,7 @@ DateAgency OfficialTitle
 
 (G) Forms RD 1944-30, “Identity of Interest (IOI) Disclosure Certificate” and RD 1944-31, “Identity of Interest (IOI) Qualification Form,” provide written notification to the borrower that willful and intentional falsification of cost certification documents will result in debarment of all violators in accordance with the provisions of RD Instruction 1940-M (available in any Agency office). These forms require the disclosure of all identities of interest associated with project construction, certify the entity's ability to provide the contracted service, and cite the penalties for failure to disclose or falsify such certification. Each applicant/borrower will be required to complete and sign the forms (available in any Agency office).
 
-(H) (*Subcontracting development work.*(*1*) Contractors will not be allowed to obtain a profit and overhead unless they are performing actual construction. “Actual construction” means “work” as defined in American Institute of Architects (AIA) documents: “\* \* \* labor, materials, equipment, and services provided by the contractor to fulfill the contractor's obligations.” Under this definition, contractors who choose to subcontract out construction of the project to another contractor will not obtain a builder's fee (general overhead and profit) when:
+(H) (*Subcontracting development work.* (*1*) Contractors will not be allowed to obtain a profit and overhead unless they are performing actual construction. “Actual construction” means “work” as defined in American Institute of Architects (AIA) documents: “\* \* \* labor, materials, equipment, and services provided by the contractor to fulfill the contractor's obligations.” Under this definition, contractors who choose to subcontract out construction of the project to another contractor will not obtain a builder's fee (general overhead and profit) when:
 
 (*i*) More than 50 percent of the contract sum in the construction contract is subcontracted to one subcontractor, material supplier, or equipment lessor, and/or
 

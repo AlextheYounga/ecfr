@@ -1,6 +1,6 @@
 ##### § 51.2710 U.S. No. 1 Runner. #####
 
-“U.S. No. 1 Runner” consists of shelled Runner type peanut kernels of similar varietal characteristics which are whole and free from foreign material, damage and minor defects, and which will not pass through a screen having16/64 ×3/4 inch openings.
+“U.S. No. 1 Runner” consists of shelled Runner type peanut kernels of similar varietal characteristics which are whole and free from foreign material, damage and minor defects, and which will not pass through a screen having 16/64 × 3/4 inch openings.
 
 (a) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
 

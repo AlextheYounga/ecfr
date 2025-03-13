@@ -170,7 +170,7 @@ If the result exceeds 2.0, a high cost per job in that State, no points are rece
 
 (k) *Certificate of need.* If the loan request is for health care facilities (e.g., hospitals or nursing homes), a “Certificate of Need” will be obtained by the borrower from the appropriate regulatory or other agency having jurisdiction over the project and submitted to Rural Development by the lender. If a significant part of the project's income will be from third party payors, (e.g., medicare or medicaid), the project will be designed and operated in a manner necessary to meet the requirements of the third-party payors.
 
-AdministrativeA. The State Director:
+Administrative A. The State Director:
 
 1. Determines if material and information submitted is completed and signed by the appropriate party in the appropriated capacity.
 

@@ -6,7 +6,7 @@
 
 (2) The fruit is used for animal feed and is not offered for resale, disposed of, or in any way handled so as to enter fresh fruit channels;
 
-(3) The quantity does not exceed 1,0004/5 bushel cartons per fiscal period or such other quantity as may be specified by the committee;
+(3) The quantity does not exceed 1,000 4/5 bushel cartons per fiscal period or such other quantity as may be specified by the committee;
 
 (4) The fruit is placed in containers of uniform capacity; and
 

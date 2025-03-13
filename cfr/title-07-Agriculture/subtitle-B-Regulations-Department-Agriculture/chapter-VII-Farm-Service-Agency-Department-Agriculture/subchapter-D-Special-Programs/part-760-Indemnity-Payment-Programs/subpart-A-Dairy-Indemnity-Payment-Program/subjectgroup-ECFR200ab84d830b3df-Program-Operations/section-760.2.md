@@ -22,7 +22,7 @@ For purposes of this subject, the following terms shall have the meanings specif
 
 *County committee* means the FSA county committee.
 
-*Depopulation* means, consistent with the American Veterinary Medical Association (AVMA)1 definition, the rapid destruction of a population of cows with as much consideration given to the welfare of the animals as practicable.
+*Depopulation* means, consistent with the American Veterinary Medical Association (AVMA) 1 definition, the rapid destruction of a population of cows with as much consideration given to the welfare of the animals as practicable.
 
 1 The AVMA Guidelines for the Depopulation of Animals is available at: *https://www.avma.org/sites/default/files/resources/AVMA-Guidelines-for-the-Depopulation-of-Animals.pdf.*
 

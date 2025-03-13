@@ -1,6 +1,6 @@
 ##### § 301.45-4 Conditions governing the interstate movement of regulated articles and outdoor household articles from quarantined areas. #####
 
-(a) Regulated articles and outdoor household articles from areas. (1) A regulated article, except for an article moved in accordance with paragraph (c) of this section, shall not be moved interstate from any quarantined area into or through any area that is not quarantined unless a certificate or permit has been issued and attached to such regulated article in accordance with §§ 301.45-5 and 301.45-8.1
+(a) Regulated articles and outdoor household articles from areas. (1) A regulated article, except for an article moved in accordance with paragraph (c) of this section, shall not be moved interstate from any quarantined area into or through any area that is not quarantined unless a certificate or permit has been issued and attached to such regulated article in accordance with §§ 301.45-5 and 301.45-8. 1
 
 1 Requirements under all other applicable Federal domestic plant quarantines must also be met.
 

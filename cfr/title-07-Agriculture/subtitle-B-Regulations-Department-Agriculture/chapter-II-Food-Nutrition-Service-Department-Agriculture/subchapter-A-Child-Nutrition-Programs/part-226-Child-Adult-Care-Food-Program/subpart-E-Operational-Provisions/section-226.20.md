@@ -10,15 +10,15 @@
 
 (iii) *Children 6 years old and older.* Low-fat (1 percent fat or less) or fat-free (skim) milk must be served. Milk may be unflavored or flavored.
 
-(iv) *Adults.* Low-fat (1 percent fat or less) or fat-free (skim) milk must be served. Milk may be unflavored or flavored. Six ounces (weight) or3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
+(iv) *Adults.* Low-fat (1 percent fat or less) or fat-free (skim) milk must be served. Milk may be unflavored or flavored. Six ounces (weight) or 3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
 
-(2) *Vegetables.* A serving may contain fresh, frozen, or canned vegetables, dry beans, peas, and lentils, or vegetable juice. All vegetables are credited based on their volume as served, except that 1 cup of leafy greens counts as1/2 cup of vegetables.
+(2) *Vegetables.* A serving may contain fresh, frozen, or canned vegetables, dry beans, peas, and lentils, or vegetable juice. All vegetables are credited based on their volume as served, except that 1 cup of leafy greens counts as 1/2 cup of vegetables.
 
 (i) Pasteurized, full-strength vegetable juice may be used to fulfill the entire requirement. Vegetable juice or fruit juice may only be served at one meal, including snack, per day.
 
 (ii) Cooked dry beans, peas, and lentils may be counted as either a vegetable or as a meat alternate, but not as both in the same dish.
 
-(3) *Fruits.* A serving may contain fresh, frozen, canned, dried fruits, or fruit juice. All fruits are based on their volume as served, except that1/4 cup of dried fruit counts as1/2 cup of fruit.
+(3) *Fruits.* A serving may contain fresh, frozen, canned, dried fruits, or fruit juice. All fruits are based on their volume as served, except that 1/4 cup of dried fruit counts as 1/2 cup of fruit.
 
 (i) Pasteurized, full-strength fruit juice may be used to fulfill the entire requirement. Fruit juice or vegetable juice may only be served at one meal, including snack, per day.
 
@@ -54,7 +54,7 @@
 
 (B) Acorns, chestnuts, and coconuts do not credit as meat alternates because of their low protein and iron content.
 
-(iii) *Yogurt.* Four ounces (weight) or1/2 cup (volume) of yogurt equals one ounce of the meats/meat alternates component. Yogurt may be used to meet all or part of the meats/meat alternates component as follows:
+(iii) *Yogurt.* Four ounces (weight) or 1/2 cup (volume) of yogurt equals one ounce of the meats/meat alternates component. Yogurt may be used to meet all or part of the meats/meat alternates component as follows:
 
 (A) Yogurt may be plain or flavored, unsweetened, or sweetened;
 
@@ -90,9 +90,9 @@
 
 (ii) *6 through 11 months.* Breastmilk or iron-fortified formula, or portions of both, is required. Meals are reimbursable when institutions and facilities provide all the components in the meal pattern that the infant is developmentally ready to accept.
 
-(A) *Breakfast, lunch, or supper.* Six to 8 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both; and 0 to1/2 ounce equivalent of iron-fortified dry infant cereal; or 0-4 tablespoons meat, fish, poultry, whole egg, cooked dry beans, peas, and lentils; or 0 to 2 ounces (weight) of cheese; or 0 to 4 ounces (volume) of cottage cheese; or 0 to 4 ounces of yogurt; and 0 to 2 tablespoons of vegetable, fruit, or portions of both. Fruit juices and vegetable juices must not be served.
+(A) *Breakfast, lunch, or supper.* Six to 8 fluid ounces of breastmilk or iron-fortified infant formula, or portions of both; and 0 to 1/2 ounce equivalent of iron-fortified dry infant cereal; or 0-4 tablespoons meat, fish, poultry, whole egg, cooked dry beans, peas, and lentils; or 0 to 2 ounces (weight) of cheese; or 0 to 4 ounces (volume) of cottage cheese; or 0 to 4 ounces of yogurt; and 0 to 2 tablespoons of vegetable, fruit, or portions of both. Fruit juices and vegetable juices must not be served.
 
-(B) *Snack.* Two to 4 fluid ounces of breastmilk or iron-fortified infant formula; and 0 to1/2 ounce equivalent bread; or 0-1/4 ounce equivalent crackers; or 0-1/2 ounce equivalent infant cereal or ready-to-eat cereals; and 0 to 2 tablespoons of vegetable or fruit, or portions of both. Fruit juices and vegetable juices must not be served. A serving of grains must be whole grain-rich, enriched meal, or enriched flour.
+(B) *Snack.* Two to 4 fluid ounces of breastmilk or iron-fortified infant formula; and 0 to 1/2 ounce equivalent bread; or 0-1/4 ounce equivalent crackers; or 0-1/2 ounce equivalent infant cereal or ready-to-eat cereals; and 0 to 2 tablespoons of vegetable or fruit, or portions of both. Fruit juices and vegetable juices must not be served. A serving of grains must be whole grain-rich, enriched meal, or enriched flour.
 
 (5) *Infant meal pattern table.* The minimum amounts of meal components to serve to infants, as described in paragraph (b)(4) of this section, are:
 

@@ -68,4 +68,4 @@
 
 (3) The Agency maintains the right to independently verify tenant eligibility information.
 
-[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11281, Mar. 1, 2022]Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.152(a)(1), implementation of the words “Be a United States citizen or qualified alien, and” was delayed indefinitely.
+[69 FR 69106, Nov. 26, 2004, as amended at 87 FR 11281, Mar. 1, 2022] Effective Date Note:At 70 FR 8503, Feb. 22, 2005, in § 3560.152(a)(1), implementation of the words “Be a United States citizen or qualified alien, and” was delayed indefinitely.

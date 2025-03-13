@@ -6,9 +6,9 @@
 
 (c) *Foreign material* means leaves, sticks, in-shell nuts, shells or pieces of shells, dirt, or rocks, or any other substance other than pistachio kernels. No allowable tolerances for metal or glass.
 
-(d) *Whole kernel* means3/4 of a kernel or more.
+(d) *Whole kernel* means 3/4 of a kernel or more.
 
-(e) *Splits* means more than3/4 of a half kernel split lengthwise.
+(e) *Splits* means more than 3/4 of a half kernel split lengthwise.
 
 (f) *Damage* means any specific defect described in paragraph (f) (1) through (2) of this section or an equally objectionable variation of any one of these defects, any other defect, or any combination of defects, which materially detracts from the appearance or the edible or marketing quality of the individual kernel or of the lot. (For tolerances, see § 51.2557, Table I.)
 

@@ -1,6 +1,6 @@
 ##### § 301.87-4 Conditions governing the interstate movement of regulated articles from regulated areas in quarantined States.  #####
 
-Any regulated article may be moved interstate from any regulated area in a quarantined State if moved under the following conditions:1
+Any regulated article may be moved interstate from any regulated area in a quarantined State if moved under the following conditions: 1
 
 (a) With a certificate or limited permit issued and attached in accordance with §§ 301.87-5 and 301.87-8; or
 

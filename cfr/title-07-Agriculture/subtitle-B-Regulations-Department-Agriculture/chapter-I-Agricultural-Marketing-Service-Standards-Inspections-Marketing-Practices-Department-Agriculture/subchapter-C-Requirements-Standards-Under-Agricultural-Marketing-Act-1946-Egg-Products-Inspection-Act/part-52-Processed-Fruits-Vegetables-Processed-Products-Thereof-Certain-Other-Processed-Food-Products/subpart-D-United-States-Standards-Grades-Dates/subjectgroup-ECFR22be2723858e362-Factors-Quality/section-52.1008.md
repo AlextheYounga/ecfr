@@ -122,7 +122,7 @@ Decay.
 
 limitations
 
-Not more than3/5 of the total allowance or 6 percent, by weight of the dates, may be the following:
+Not more than 3/5 of the total allowance or 6 percent, by weight of the dates, may be the following:
 
 Damaged by:
 
@@ -148,7 +148,7 @@ Foreign material.
 
 Decay.
 
-Not more than2/5 of the total allowance, or 4 percent, by weight of the dates, may be the following:
+Not more than 2/5 of the total allowance, or 4 percent, by weight of the dates, may be the following:
 
 Damaged by:
 
@@ -170,7 +170,7 @@ Foreign material.
 
 Decay.
 
-Not more than1/10 of the total allowance, or 1 percent, by weight of the dates, may be:
+Not more than 1/10 of the total allowance, or 1 percent, by weight of the dates, may be:
 
 Affected by decay.
 
@@ -230,7 +230,7 @@ Decay.
 
 limitations
 
-Not more than2/3 of the additional allowance, or 10 percent, by weight of the dates, may be the following:
+Not more than 2/3 of the additional allowance, or 10 percent, by weight of the dates, may be the following:
 
 Damaged by:
 
@@ -260,7 +260,7 @@ Foreign material.
 
 Decay.
 
-Not more than1/3 of the additional allowance, or 5 percent, by weight of the dates, may be the following:
+Not more than 1/3 of the additional allowance, or 5 percent, by weight of the dates, may be the following:
 
 Damaged by:
 
@@ -282,7 +282,7 @@ Foreign material.
 
 Decay.
 
-Not more than1/15 of the additional allowance, or 1 percent, by weight of the dates, may be:
+Not more than 1/15 of the additional allowance, or 1 percent, by weight of the dates, may be:
 
 Affected by decay.
 
@@ -334,7 +334,7 @@ Decay.
 
 limitations
 
-Not more than1/2 of the total allowance, or 10 percent, by weight of the dates, may be the following.
+Not more than 1/2 of the total allowance, or 10 percent, by weight of the dates, may be the following.
 
 Damaged by:
 
@@ -364,7 +364,7 @@ Foreign material.
 
 Decay.
 
-Not more than1/4 of the total allowance, or 5 percent, by weight of the dates, may be the following:
+Not more than 1/4 of the total allowance, or 5 percent, by weight of the dates, may be the following:
 
 Affected by
 
@@ -380,6 +380,6 @@ Foreign material.
 
 Decay.
 
-Not more than1/10 of the total allowance, or 2 percent, by weight of the dates, may be:
+Not more than 1/10 of the total allowance, or 2 percent, by weight of the dates, may be:
 
  Affected by decay.

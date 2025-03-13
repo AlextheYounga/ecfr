@@ -1,6 +1,6 @@
 ##### § 301.32-7 Assembly and inspection of regulated articles. #####
 
-(a) Any person, other than a person authorized to issue certificates or limited permits under § 301.32-5(c), who desires to move a regulated article interstate accompanied by a certificate or limited permit must notify an inspector1 as far in advance of the desired interstate movement as possible, but no less than 48 hours before the desired interstate movement.
+(a) Any person, other than a person authorized to issue certificates or limited permits under § 301.32-5(c), who desires to move a regulated article interstate accompanied by a certificate or limited permit must notify an inspector 1 as far in advance of the desired interstate movement as possible, but no less than 48 hours before the desired interstate movement.
 
 1 See footnote 1 to § 301.32-5(a).
 

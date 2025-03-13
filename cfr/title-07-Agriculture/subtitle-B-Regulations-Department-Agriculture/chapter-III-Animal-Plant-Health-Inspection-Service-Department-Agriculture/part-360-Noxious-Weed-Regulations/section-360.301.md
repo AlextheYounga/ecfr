@@ -32,7 +32,7 @@
 
 (14) Proposed method of final disposition of the noxious weeds.
 
-(b) *Permit to move noxious weeds interstate.* A responsible person must apply for a permit to move a noxious weed interstate.3 The application must include the following information:
+(b) *Permit to move noxious weeds interstate.* A responsible person must apply for a permit to move a noxious weed interstate. 3 The application must include the following information:
 
 3 Information on applying for a permit to move a noxious weed interstate is available at *http://www.aphis.usda.gov/plant\_health/permits/plantproducts.shtml.*
 

@@ -2,7 +2,7 @@
 
 (a) Except as provided in paragraph (c) of this section, the mortgagor shall deposit with the mortgagee cash deemed by the Commissioner to be sufficient, when added to the proceeds of the insured mortgage, to assure completion of the project and to pay the initial service charge, carrying charges, and legal and organizational expenses incident to the construction of the project. The Commissioner may accept a lesser cash deposit or an alternative to a cash deposit in accordance with terms and conditions established by the Commissioner, where the required funding is to be provided by a grant or loan from a Federal, State, or local government agency or instrumentality.
 
-(b) An agreement acceptable to the Commissioner shall require that funds provided by the mortgagor under requirements of this section must be disbursed in full for project work, material, and incidental charges and expenses before disbursement of any insured mortgage, except:
+(b) An agreement acceptable to the Commissioner shall require that funds provided by the mortgagor under requirements of this section must be disbursed in full for project work, material, and incidental charges and expenses before disbursement of any insured mortgage proceeds, except:
 
 (1) Low-income housing tax credit syndication proceeds, historic tax-credit syndication proceeds, New Markets Tax Credits proceeds, or funds provided by a grant or loan from a Federal, State, or local governmental agency or instrumentality under requirements of this section need not be fully disbursed before the disbursement of insured mortgage proceeds, where approved by the Commissioner in accordance with terms, conditions, and standards established by the Commissioner; or
 

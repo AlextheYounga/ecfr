@@ -4,7 +4,7 @@
 
 (a) In this grade not less than 30 percent, by weight, of the kernels shall be whole. Doubles shall not be considered as whole kernels in determining the percentage of whole kernels.
 
-(b) Unless otherwise specified, the minimum diameter shall be not less than20/64 of an inch (7.9 mm). (See §§ 51.2113 and 51.2114.)
+(b) Unless otherwise specified, the minimum diameter shall be not less than 20/64 of an inch (7.9 mm). (See §§ 51.2113 and 51.2114.)
 
 (c) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
 

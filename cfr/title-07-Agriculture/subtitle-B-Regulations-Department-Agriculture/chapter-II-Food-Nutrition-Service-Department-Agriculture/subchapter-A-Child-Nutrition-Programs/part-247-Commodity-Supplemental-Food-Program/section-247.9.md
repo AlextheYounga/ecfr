@@ -98,4 +98,4 @@
 
 (2) The State agency may require that an individual reside within the service area of the local agency at the time of application for CSFP benefits. However, the State agency may not require that an individual reside within the area for any fixed period of time.
 
-[85 FR 68721, Oct. 30, 2020, as amended at 89 FR 87245, Oct. 31, 2024; 89 FR 104393, Dec. 23, 2024]Editorial Note:At 89 FR 104393, Dec. 23, 2024, § 247.9 was amended by correcting paragraph (d)(3)(xxiv); however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[85 FR 68721, Oct. 30, 2020, as amended at 89 FR 87245, Oct. 31, 2024; 89 FR 104393, Dec. 23, 2024] Editorial Note:At 89 FR 104393, Dec. 23, 2024, § 247.9 was amended by correcting paragraph (d)(3)(xxiv); however, the amendment could not be incorporated due to inaccurate amendatory instruction.

@@ -2,7 +2,7 @@
 
 The Almond Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-United States Department of AgricultureFederal Crop Insurance CorporationAlmond Crop Provisions
+United States Department of AgricultureFederal Crop Insurance Corporation Almond Crop Provisions
 
 In return for your payment of premium and administrative fee for the coverage, these Almond Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 

@@ -14,7 +14,7 @@ Link to an amendment published at 89 FR 106980, Dec. 31, 2024.Link to a delay of
 
 (4) *Downpayment.* A downpayment of not less than 10 percent of the purchase price is required at closing.
 
-(5) *Interest rate.* The Section 515 RRH interest rate plus1/2 percent will be charged on all types of housing credit sales, except SFH. Refer to exhibit B of RD Instruction 440.1 (available in any Rural Development office) for interest rates. Loans made on NP terms will be closed at the interest rate which was in effect at the time the loan was approved.
+(5) *Interest rate.* The Section 515 RRH interest rate plus 1/2 percent will be charged on all types of housing credit sales, except SFH. Refer to exhibit B of RD Instruction 440.1 (available in any Rural Development office) for interest rates. Loans made on NP terms will be closed at the interest rate which was in effect at the time the loan was approved.
 
 (6) *Term of note.* The note amount will be amortized over a period not to exceed 10 years. If the State Director determines more favorable terms are necessary to facilitate the sale, the note amount may be amortized using a 30-year factor with payment in full (balloon payment) due not later than 10 years from the date of closing. In no case will the term be longer than the period for which the property will serve as adequate security.
 

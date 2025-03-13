@@ -4,7 +4,7 @@ The Tobacco Crop Insurance Provisions for the 2017 and succeeding crop years are
 
 FCIC policies:
 
-UNITED STATES DEPARTMENT OF AGRICULTUREFederal Crop Insurance Corporation
+UNITED STATES DEPARTMENT OF AGRICULTURE Federal Crop Insurance Corporation
 
 Reinsured policies:
 

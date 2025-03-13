@@ -50,7 +50,7 @@
 
 (4) The insulation shield shall meet all applicable tests of ANSI/ICEA S-94-649-2004 (incorporated by reference in § 1728.97).
 
-(g) *Concentric neutral conductor.* (1) Concentric neutral conductor shall consist of annealed round, uncoated copper wires in accordance with ASTM B 3-01 (incorporated by reference in § 1728.97) and shall be spirally wound over the shielding with uniform and equal spacing between wires. The concentric neutral wires shall remain in continuous intimate contact with the extruded insulation shield. Full neutral is required for single phase and1/3 neutral for three phase applications unless otherwise specified. The minimum wire size for the concentric neutral is 16 AWG (1.32 mm2).
+(g) *Concentric neutral conductor.* (1) Concentric neutral conductor shall consist of annealed round, uncoated copper wires in accordance with ASTM B 3-01 (incorporated by reference in § 1728.97) and shall be spirally wound over the shielding with uniform and equal spacing between wires. The concentric neutral wires shall remain in continuous intimate contact with the extruded insulation shield. Full neutral is required for single phase and 1/3 neutral for three phase applications unless otherwise specified. The minimum wire size for the concentric neutral is 16 AWG (1.32 mm2).
 
 (2) When a strap neutral is specified by the borrower, the neutral shall consist of uncoated copper straps applied concentrically over the insulation shield with uniform and equal spacing between straps and shall remain in intimate contact with the underlying extruded insulation shield. The straps shall not have sharp edges. The thickness of the flat straps shall be not less than 20 mils (0.5 mm).
 

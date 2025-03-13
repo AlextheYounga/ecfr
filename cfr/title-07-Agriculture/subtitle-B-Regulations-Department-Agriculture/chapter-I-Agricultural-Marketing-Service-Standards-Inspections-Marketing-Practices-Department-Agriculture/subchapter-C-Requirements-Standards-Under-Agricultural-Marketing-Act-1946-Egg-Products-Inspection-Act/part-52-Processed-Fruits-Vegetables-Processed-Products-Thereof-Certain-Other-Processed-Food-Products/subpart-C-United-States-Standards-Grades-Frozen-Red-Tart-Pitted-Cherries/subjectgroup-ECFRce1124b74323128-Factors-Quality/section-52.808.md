@@ -8,9 +8,9 @@
 
 (3) *Mutilated cherry* means a cherry that is so pitter-torn or damaged by other means that the entire pit cavity is exposed and the appearance of the cherry is seriously affected.
 
-(4) *Minor blemished cherry* means any cherry blemished with discoloration (other than scald) having an aggregate area of a circle9/32 inch (7 mm) or less in diameter which more than slightly affects the appearance of the cherry but does not extend into the fruit tissue.
+(4) *Minor blemished cherry* means any cherry blemished with discoloration (other than scald) having an aggregate area of a circle 9/32 inch (7 mm) or less in diameter which more than slightly affects the appearance of the cherry but does not extend into the fruit tissue.
 
-(5) *Blemished cherry* means any cherry blemished by skin discoloration (other than scald) which in the aggregate exceeds the area of a circle9/32 inch (7 mm) in diameter. A cherry affected by skin discoloration extending into the fruit tissue or by scab, hail injury, scar tissue, or other abnormality, regardless of size, is considered a blemished cherry.
+(5) *Blemished cherry* means any cherry blemished by skin discoloration (other than scald) which in the aggregate exceeds the area of a circle 9/32 inch (7 mm) in diameter. A cherry affected by skin discoloration extending into the fruit tissue or by scab, hail injury, scar tissue, or other abnormality, regardless of size, is considered a blemished cherry.
 
 (b) *(A) classification.* Frozen red tart pitted cherries that are practically free from defects may be given a score of 18 to 20 points. “Practically free from defects” means that the number of defects that may be present does not exceed the number specified for the applicable type of defect in Table I.
 

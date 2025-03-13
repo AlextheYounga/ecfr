@@ -2,7 +2,7 @@
 
 The interest charges accounts identified in this section shall be used by all RUS borrowers.
 
-Interest Charges427 Interest on Long-Term Debt427.3 Interest Charged to Construction—Credit428 Amortization of Debt Discount and Expense428.1 Amortization of Loss on Reacquired Debt429 Amortization of Premium on Debt—Credit429.1 Amortization of Gain on Reacquired Debt—Credit430 Interest on Debt to Associated Companies431 Other Interest Expense432 Allowance for Borrowed Funds Used During Construction—CreditInterest Charges427 Interest on Long-Term Debt
+Interest Charges427 Interest on Long-Term Debt427.3 Interest Charged to Construction—Credit 428 Amortization of Debt Discount and Expense428.1 Amortization of Loss on Reacquired Debt429 Amortization of Premium on Debt—Credit429.1 Amortization of Gain on Reacquired Debt—Credit430 Interest on Debt to Associated Companies431 Other Interest Expense432 Allowance for Borrowed Funds Used During Construction—CreditInterest Charges427 Interest on Long-Term Debt
 
 A. This account shall include the amount of interest on outstanding long-term debt issued or assumed by the utility, the liability for which included in Account 221, Bonds, or Account 224, Other Long-Term Debt.
 

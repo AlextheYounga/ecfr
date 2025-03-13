@@ -2,7 +2,7 @@
 
 Definitions of the following terms or phrases appear in 40 CFR part 1508, CEQ regulations. These terms are important in the understanding and implementation of this rule. These definitions are not repeated in the interest of reducing duplication:
 
-*Categorical exclusion.* (40 CFR 1508.4)*Cooperating agency.* (40 CFR 1508.5)*Cumulative impact.* (40 CFR 1508.7)*Environmental impact statement (EIS).* (40 CFR 1508.11)*Human environment.* (40 CFR 1508.14)*Lead agency.* (40 CFR 1508.16)*Major Federal action.* (40 CFR 1508.18)*Mitigation.* (40 CFR 1508.20)*NEPA process.* (40 CFR 1508.21)*Scope.* (40 CFR 1508.25)*Scoping.* (40 CFR 1501.7)*Tiering.* (40 CFR 1508.28)
+*Categorical exclusion.* (40 CFR 1508.4) *Cooperating agency.* (40 CFR 1508.5) *Cumulative impact.* (40 CFR 1508.7) *Environmental impact statement (EIS).* (40 CFR 1508.11) *Human environment.* (40 CFR 1508.14) *Lead agency.* (40 CFR 1508.16) *Major Federal action.* (40 CFR 1508.18) *Mitigation.* (40 CFR 1508.20) *NEPA process.* (40 CFR 1508.21) *Scope.* (40 CFR 1508.25) *Scoping.* (40 CFR 1501.7) *Tiering.* (40 CFR 1508.28)
 
 (a) *Channel realignment.* Channel realignment includes the construction of a new channel or a new alignment and may include the clearing, snagging, widening, and/or deepening of the existing channel. (Channel Modification Guidelines, 43 FR 8276).
 

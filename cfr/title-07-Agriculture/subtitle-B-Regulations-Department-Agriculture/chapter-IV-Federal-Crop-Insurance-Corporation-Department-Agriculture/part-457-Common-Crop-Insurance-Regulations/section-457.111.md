@@ -2,11 +2,11 @@
 
 The Pear Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)
+FCIC PoliciesDepartment of Agriculture Federal Crop Insurance Corporation Reinsured Policies (Appropriate title for insurance provider)
 
 Both FCIC and Reinsured Policies
 
-Pear Crop Provisions1. Definitions
+Pear Crop Provisions 1. Definitions
 
 *Harvest.* The picking of mature pears from the trees or the collecting of marketable pears from the ground.
 

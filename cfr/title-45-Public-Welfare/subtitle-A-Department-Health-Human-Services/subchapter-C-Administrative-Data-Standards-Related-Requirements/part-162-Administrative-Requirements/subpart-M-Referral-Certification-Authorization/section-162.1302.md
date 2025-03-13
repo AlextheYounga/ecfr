@@ -1,6 +1,6 @@
 ##### § 162.1302 Standards for referral certification and authorization transaction. #####
 
-Link to an amendment published at 89 FR 100788, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100788, Dec. 13, 2024.This amendment is delayed until April 14, 2025, at 90 FR 9289, Feb. 11, 2025.
 
 The Secretary adopts the following standards for the referral certification and authorization transaction:
 

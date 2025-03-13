@@ -1,6 +1,6 @@
 ##### § 51.2752 U.S. No. 1 Virginia. #####
 
-“U.S. No. 1 Virginia” consists of shelled Virginia type peanut kernels of similar varietal characteristics which are whole and free from foreign material, damage and minor defects, and which will not pass through a screen having15/64 × 1 inch openings. Unless otherwise specified, the peanuts in any lot shall average not more than 864 per pound.
+“U.S. No. 1 Virginia” consists of shelled Virginia type peanut kernels of similar varietal characteristics which are whole and free from foreign material, damage and minor defects, and which will not pass through a screen having 15/64 × 1 inch openings. Unless otherwise specified, the peanuts in any lot shall average not more than 864 per pound.
 
 (a) In order to allow for variations incident to proper grading and handling, the following tolerances by weight, shall be permitted:
 

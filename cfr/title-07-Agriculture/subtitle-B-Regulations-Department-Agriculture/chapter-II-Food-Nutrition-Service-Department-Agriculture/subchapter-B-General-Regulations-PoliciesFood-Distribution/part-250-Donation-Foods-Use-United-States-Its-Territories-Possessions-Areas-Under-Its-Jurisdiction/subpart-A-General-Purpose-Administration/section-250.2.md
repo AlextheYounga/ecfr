@@ -16,8 +16,7 @@
 
 *Carrier* means a commercial enterprise that transports donated foods from one location to another, but does not store such foods.
 
-*Charitable institutions* means public institutions or private nonprofit organizations that provide a meal service on a regular basis to predominantly eligible persons in the same place without marked changes. Some types of charitable institutions are included in
-§ 250.67.
+*Charitable institutions* means public institutions or private nonprofit organizations that provide a meal service on a regular basis to predominantly eligible persons in the same place without marked changes. Some types of charitable institutions are included in § 250.67.
 
 *Child care institution* means a nonresidential child care center that participates independently in CACFP, or that participates as a sponsoring organization, in accordance with an agreement with the distributing agency.
 

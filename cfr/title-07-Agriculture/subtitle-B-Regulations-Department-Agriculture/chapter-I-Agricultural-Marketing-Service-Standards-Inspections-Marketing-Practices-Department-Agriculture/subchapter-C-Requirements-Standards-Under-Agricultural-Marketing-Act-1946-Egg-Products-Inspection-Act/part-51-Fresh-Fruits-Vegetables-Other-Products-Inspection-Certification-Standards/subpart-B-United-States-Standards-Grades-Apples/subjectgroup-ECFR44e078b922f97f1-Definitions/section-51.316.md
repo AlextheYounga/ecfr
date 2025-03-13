@@ -22,13 +22,13 @@
 
 (e) Bruises which are not slight and incident to proper handling and packing, and which are greater than:
 
-(1)1/8 inch in depth;
+(1) 1/8 inch in depth;
 
-(2)5/8 inch in diameter;
+(2) 5/8 inch in diameter;
 
 (3) any combination of lesser bruises which detract from the appearance or edible quality of the apple to an extent greater than any one bruise described in paragraphs (e)(1) or (2) of this section.
 
-(f) Brown surface discoloration when caused by delayed sunburn, surface scald, or any other means and affects an area greater than1/4 inch in diameter.
+(f) Brown surface discoloration when caused by delayed sunburn, surface scald, or any other means and affects an area greater than 1/4 inch in diameter.
 
 (g) Disease: (1) Cedar rust infection which affects a total area of more than three-sixteenths inch in diameter.
 

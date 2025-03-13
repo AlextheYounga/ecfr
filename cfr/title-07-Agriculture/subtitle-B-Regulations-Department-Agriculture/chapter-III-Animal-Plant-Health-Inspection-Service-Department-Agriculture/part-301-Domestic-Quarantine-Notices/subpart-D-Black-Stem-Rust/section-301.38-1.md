@@ -28,7 +28,7 @@ In this subpart the following definitions apply:
 
 *Regulated article.* Any article identified as a regulated article under § 301.38-2 as follows: listed as of January 30, 2023, added in accordance with § 301.38-2(c), or otherwise designated in accordance with § 301.38-2(d).
 
-*Rust-resistant plants.* All plants of the genera *Berberis, Mahoberberis,* and *Mahonia*, and their progeny, that have proven resistant to black stem rust during testing by the United States Department of Agriculture,1 and that are listed as rust-resistant in accordance with § 301.38-2.
+*Rust-resistant plants.* All plants of the genera *Berberis, Mahoberberis,* and *Mahonia*, and their progeny, that have proven resistant to black stem rust during testing by the United States Department of Agriculture, 1 and that are listed as rust-resistant in accordance with § 301.38-2.
 
 1 Testing is performed by the Agricultural Research Service of USDA as follows: In a greenhouse, the suspect plant, or test subject, is placed under a screen with a control plant, *i.e.,* a known rust-susceptible variety of *Berberis, Mahoberberis,* or *Mahonia.* Infected wheat stems, a primary host of black stem rust, are placed on top of the screen. The plants are moistened and maintained in 100% humidity, causing the spores to swell and fall on the plants lying under the screen. The plants are then observed for 7 days at 20-80% relative humidity. This test procedure is repeated 12 times. If in all 12 tests, the rust-susceptible plant shows signs of infection after 7 days and the test plants do not, USDA will declare the test plant variety rust-resistant. The tests must be performed on new growth, just as the leaves are unfolding.
 

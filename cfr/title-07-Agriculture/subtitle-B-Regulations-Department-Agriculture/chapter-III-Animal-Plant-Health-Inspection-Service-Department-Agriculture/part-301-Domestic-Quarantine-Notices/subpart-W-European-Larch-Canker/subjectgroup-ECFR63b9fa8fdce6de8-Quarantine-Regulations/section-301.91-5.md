@@ -6,7 +6,7 @@
 
 (ii) Determines that it has been grown, processed, stored, or handled in such a manner that the regulated article is free of European larch canker; and
 
-(2) Determines that it is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714)1 to prevent the spread of European larch canker; and
+(2) Determines that it is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714) 1 to prevent the spread of European larch canker; and
 
 1 An inspector may hold, seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of plants, plant pests, or other articles in accordance with sections 414, 421, and 434 of the Plant Protection Act (7 U.S.C. 7714, 7731, and 7754).
 
@@ -16,7 +16,7 @@
 
 (1) Determines, in consultation with the Deputy Administrator, that it is to be moved to a specified destination for specified handling, utilization, or processing (such destination and other conditions to be specified on the limited permit), when, upon evaluation of all of the circumstances involved in each case, it is determined that such movement will not result in the spread of European larch canker because the disease will be destroyed by such specified handling, utilization, or processing;
 
-(2) Determines that it is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714)1 to prevent the spread of European larch canker; and
+(2) Determines that it is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714) 1 to prevent the spread of European larch canker; and
 
 (3) Determines that it is eligible for such movement under all other Federal domestic plant quarantines and regulations applicable to such article.
 

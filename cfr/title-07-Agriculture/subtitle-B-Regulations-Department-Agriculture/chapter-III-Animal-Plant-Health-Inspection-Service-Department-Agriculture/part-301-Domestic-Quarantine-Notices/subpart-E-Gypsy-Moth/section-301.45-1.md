@@ -42,7 +42,7 @@ Terms used in the singular form in this subpart shall be construed as the plural
 
 *Person.* Any individual, partnership, corporation, company, society, association, or other organized group.
 
-*Qualified certified applicator.* Any individualcertified pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) (7 U.S.C. 136i) as a certified commercial applicator in a category allowing use of the restricted use pesticides Spray N Kill (EPA Registration No. 8730-30), Ficam W (EPA Registration No. 45639-1), and acephate (Orthene ®); who has attended and completed a workshop approved by the Administrator on the identification and treatment of gypsy moth life stages on outdoor household articles and mobile homes; and who has entered into a compliance agreement in accordance with § 301.45-6 for the purpose of inspecting, treating, and issuing certificates for the movement of outdoor household articles and mobile homes.1
+*Qualified certified applicator.* Any individualcertified pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) (7 U.S.C. 136i) as a certified commercial applicator in a category allowing use of the restricted use pesticides Spray N Kill (EPA Registration No. 8730-30), Ficam W (EPA Registration No. 45639-1), and acephate (Orthene ®); who has attended and completed a workshop approved by the Administrator on the identification and treatment of gypsy moth life stages on outdoor household articles and mobile homes; and who has entered into a compliance agreement in accordance with § 301.45-6 for the purpose of inspecting, treating, and issuing certificates for the movement of outdoor household articles and mobile homes. 1
 
 1 Names of qualified certified applicators may be obtained from State departments of agriculture.
 
@@ -60,7 +60,7 @@ Terms used in the singular form in this subpart shall be construed as the plural
 
 *State.* Any State, Territory, or District of the United States including Puerto Rico.
 
-*Treatment manual.* The provisions currently contained in the Gypsy Moth Program Manual.2
+*Treatment manual.* The provisions currently contained in the Gypsy Moth Program Manual. 2
 
 2 The Gypsy Moth Program Manual may be viewed on the Internet at *http://www.aphis.usda.gov/import\_export/plants/manuals/domestic/downloads/gypsy\_moth.pdf.*
 

@@ -68,21 +68,21 @@ This factor is determined on an individual kernel basis and applies to the speci
 
 (p) *Whole kernels.* Unbroken kernels of rice and broken kernels of rice which are at least three-fourths of an unbroken kernel.
 
-(q) *5 plate.* A laminated metal plate 0.142-inch thick, with a top lamina, 0.051-inch thick, perforated with rows of round holes 0.0781 (5/64) inch in diameter,5/32 inch from center to center, with each row staggered in relation to the adjacent rows, and a bottom lamina 0.091-inch thick, without perforations.
+(q) *5 plate.* A laminated metal plate 0.142-inch thick, with a top lamina, 0.051-inch thick, perforated with rows of round holes 0.0781 (5/64) inch in diameter, 5/32 inch from center to center, with each row staggered in relation to the adjacent rows, and a bottom lamina 0.091-inch thick, without perforations.
 
-(r) *6 plate.* A laminated metal plate 0.142-inch thick, with a top lamina 0.051-inch thick, perforated with rows of round holes 0.0938 (6/64) inch in diameter,5/32 inch from center to center, with each row staggered in relation to the adjacent rows, and a bottom lamina 0.091-inch thick, without perforations.
+(r) *6 plate.* A laminated metal plate 0.142-inch thick, with a top lamina 0.051-inch thick, perforated with rows of round holes 0.0938 (6/64) inch in diameter, 5/32 inch from center to center, with each row staggered in relation to the adjacent rows, and a bottom lamina 0.091-inch thick, without perforations.
 
 (s) *21/2 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.0391 (21/2/64) inch in diameter, 0.075-inch from center to center, with each row staggered in relation to the adjacent rows.
 
-(t) *4 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.0625 (4/64) inch in diameter,1/8 inch from center to center, with each row staggered in relation to the adjacent rows.
+(t) *4 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.0625 (4/64) inch in diameter, 1/8 inch from center to center, with each row staggered in relation to the adjacent rows.
 
-(u) *5 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.0781 (5/64) inch in diameter,5/32 inch from center to center, with each row staggered in relation to the adjacent rows.
+(u) *5 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.0781 (5/64) inch in diameter, 5/32 inch from center to center, with each row staggered in relation to the adjacent rows.
 
-(v) *51/2 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.0859 (51/2/64) inch in diameter,9/64 inch from center to center, with each row staggered in relation to the adjacent rows.
+(v) *51/2 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.0859 (51/2/64) inch in diameter, 9/64 inch from center to center, with each row staggered in relation to the adjacent rows.
 
-(w) *6 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.0938 (6/64) inch in diameter,5/32 inch from center to center, with each row staggered in relation to the adjacent rows.
+(w) *6 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.0938 (6/64) inch in diameter, 5/32 inch from center to center, with each row staggered in relation to the adjacent rows.
 
-(x) *61/2 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.1016 (61/2/64) inch in diameter,5/32 inch from center to center, with each row staggered in relation to the adjacent rows.
+(x) *61/2 sieve.* A metal sieve 0.032-inch thick, perforated with rows of round holes 0.1016 (61/2/64) inch in diameter, 5/32 inch from center to center, with each row staggered in relation to the adjacent rows.
 
 (y) *30 sieve.* A woven wire cloth sieve having 0.0234-inch openings, with a wire diameter of 0.0153 inch, and meeting the specifications of American Society for Testing and Materials Designation E-11-61, prescribed in FGIS instructions.
 

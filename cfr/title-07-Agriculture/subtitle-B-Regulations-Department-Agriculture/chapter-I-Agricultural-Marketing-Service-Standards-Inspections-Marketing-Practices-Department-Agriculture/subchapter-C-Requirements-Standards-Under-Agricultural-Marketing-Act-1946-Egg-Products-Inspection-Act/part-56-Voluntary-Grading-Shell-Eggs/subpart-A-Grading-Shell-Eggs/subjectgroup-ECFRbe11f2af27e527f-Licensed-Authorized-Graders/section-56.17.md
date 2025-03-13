@@ -4,11 +4,11 @@ Equipment and facilities to be furnished by the applicant for use of graders in 
 
 (a)(1) An accurate metal stem thermometer;
 
-(2) Electronic digital-display scales graduated in increments of1/10-ounce or less for weighing individual eggs and test weights for calibrating such scales. Plants packing product based on metric weight must provide scales graduated in increments of 1-gram or less;
+(2) Electronic digital-display scales graduated in increments of 1/10-ounce or less for weighing individual eggs and test weights for calibrating such scales. Plants packing product based on metric weight must provide scales graduated in increments of 1-gram or less;
 
-(3) Electronic digital-display scales graduated in increments of1/4-ounce or less for weighing the lightest and heaviest consumer packages packed in the plant and test weights for calibrating such scales;
+(3) Electronic digital-display scales graduated in increments of 1/4-ounce or less for weighing the lightest and heaviest consumer packages packed in the plant and test weights for calibrating such scales;
 
-(4) Scales graduated in increments of1/4-pound or less for weighing shipping containers and test weights for calibrating such scales;
+(4) Scales graduated in increments of 1/4-pound or less for weighing shipping containers and test weights for calibrating such scales;
 
 (5) Two candling lights that provide a sufficient combined illumination through both the aperture and downward through the bottom to facilitate accurate interior and exterior quality determinations.
 

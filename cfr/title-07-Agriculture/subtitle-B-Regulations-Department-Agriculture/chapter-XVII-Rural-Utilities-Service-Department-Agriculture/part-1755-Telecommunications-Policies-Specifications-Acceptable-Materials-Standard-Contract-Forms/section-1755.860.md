@@ -464,7 +464,7 @@ Quality assurance testing at a jaw separation speed of 500 mm/min (20 in./min) i
 
 (6) Each reel must be stenciled or labeled on either one or both sides with the name of the manufacturer, year of manufacture, actual shipping length, an inner and outer end sequential length marking, description of the wire, reel number and the RUS wire designation:
 
-Wire DesignationBFWWire ConstructionPair CountConductor GaugeN = Copper Alloy 220 (Bronze) ShieldY = Gopher Resistant ShieldsExample: BFWY 3-24Buried Filled Wire, Gopher Resistant Shield, 3 pair, 24 AWG
+Wire DesignationBFWWire ConstructionPair CountConductor GaugeN = Copper Alloy 220 (Bronze) ShieldY = Gopher Resistant ShieldsExample: BFWY 3-24 Buried Filled Wire, Gopher Resistant Shield, 3 pair, 24 AWG
 
 (7) Both ends of the filled buried wire, manufactured to the requirements of this section, must be equipped with end caps which are acceptable to RUS.
 

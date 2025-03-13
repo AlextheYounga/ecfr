@@ -18,4 +18,4 @@
 
 (c) *Is there any other information that State and local agencies must provide to FNS?* FNS may require State and local agencies to provide data collected in the program to aid in the evaluation of the effect of program benefits on the low-income populations served. Any such requests for data will not include identification of particular individuals.
 
-(Approved by the Office of Management and Budget under control numbers 0584-0025, 0584-0293)[70 FR 47063, Aug. 11, 2005, as amended at 72 FR 24184, May 2, 2007; 79 FR 38751, July 9, 2014; 85 FR 68722, Oct. 30, 2020; 89 FR 87247, Oct. 31, 2024]
+(Approved by the Office of Management and Budget under control numbers 0584-0025, 0584-0293) [70 FR 47063, Aug. 11, 2005, as amended at 72 FR 24184, May 2, 2007; 79 FR 38751, July 9, 2014; 85 FR 68722, Oct. 30, 2020; 89 FR 87247, Oct. 31, 2024]

@@ -2,7 +2,7 @@
 
 The Mint Crop Insurance Provisions for the 2008 and succeeding crop years are as follows:
 
-FCIC policies:United States Department of AgricultureFederal Crop Insurance CorporationReinsured policies:(Appropriate title for insurance provider)
+FCIC policies:United States Department of Agriculture Federal Crop Insurance CorporationReinsured policies:(Appropriate title for insurance provider)
 
 Both FCIC and reinsured policies:
 

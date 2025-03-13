@@ -12,4 +12,4 @@
 
 (d) *Immediate designation of regulated articles.* Any other product or article not listed at *www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/barberry/ct\_barberry* is a regulated article if an inspector determines it presents a risk of spread of black stem rust. The inspector must notify the person in possession of the product or article that it is subject to the provisions of this subpart.
 
-(Approved by the Office of Management and Budget under control number 0579-0186)[87 FR 80004, Dec. 29, 2022, as amended at 89 FR 23501, Apr. 4, 2024]
+(Approved by the Office of Management and Budget under control number 0579-0186) [87 FR 80004, Dec. 29, 2022, as amended at 89 FR 23501, Apr. 4, 2024]

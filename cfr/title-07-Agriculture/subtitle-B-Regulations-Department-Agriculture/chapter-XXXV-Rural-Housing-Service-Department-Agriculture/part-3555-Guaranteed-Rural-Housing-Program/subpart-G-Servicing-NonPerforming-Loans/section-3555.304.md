@@ -30,7 +30,7 @@ Link to an amendment published at 89 FR 66194, Aug. 15, 2024.
 
 (4) If the targeted mortgage payment to income ratio cannot be achieved using an extended-term loan modification alone, the lender may consider a mortgage recovery advance under this section in addition to the extended-term loan modification.
 
-(d) *Mortgage recovery advance.*(1) The maximum amount of a mortgage recovery advance is 30 percent of the unpaid principal balance as of the date of initial default. The Agency may change the maximum amount of mortgage recovery advance by publication in the Federal Register.
+(d) *Mortgage recovery advance.* (1) The maximum amount of a mortgage recovery advance is 30 percent of the unpaid principal balance as of the date of initial default. The Agency may change the maximum amount of mortgage recovery advance by publication in the Federal Register.
 
 (2) If the borrower's total monthly mortgage payment is less than 31 percent of gross monthly income prior to an extended term loan modification, the mortgage recovery advance can be used to cure the borrower's delinquency without changing the terms of the promissory note.
 

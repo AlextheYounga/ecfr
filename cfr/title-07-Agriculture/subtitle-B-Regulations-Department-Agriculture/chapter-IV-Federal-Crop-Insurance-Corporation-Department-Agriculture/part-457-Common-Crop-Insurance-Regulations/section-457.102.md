@@ -1,6 +1,6 @@
 ##### § 457.102 Wheat or barley winter coverage endorsement. #####
 
-United States Department of AgricultureFederal Crop Insurance CorporationWheat or Barley Winter Coverage Endorsement(This is a continuous endorsement)
+United States Department of AgricultureFederal Crop Insurance CorporationWheat or Barley Winter Coverage Endorsement (This is a continuous endorsement)
 
 1. In return for payment of the additional premium designated in the actuarial documents, this endorsement is attached to and made part of the Small Grains Crop Provisions subject to the terms and conditions described herein.
 

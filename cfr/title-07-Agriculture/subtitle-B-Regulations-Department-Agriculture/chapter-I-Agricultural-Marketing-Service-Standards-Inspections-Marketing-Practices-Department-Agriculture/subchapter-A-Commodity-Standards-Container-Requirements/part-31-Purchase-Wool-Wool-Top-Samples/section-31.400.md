@@ -4,9 +4,9 @@ Samples certified as representative of the official standards of the United Stat
 
 (a) Samples representative of each of the standard grades of wool:
 
-(1) *Complete set:* Grades 80's through 36's. Fourteen samples, each of approximately1/8 pound grease wool, or
+(1) *Complete set:* Grades 80's through 36's. Fourteen samples, each of approximately 1/8 pound grease wool, or
 
-(2) *Individual sample:* Individual samples of approximately1/8 pound of grease wool.
+(2) *Individual sample:* Individual samples of approximately 1/8 pound of grease wool.
 
 (b) Samples representative of each of the standard grades of wool top:
 

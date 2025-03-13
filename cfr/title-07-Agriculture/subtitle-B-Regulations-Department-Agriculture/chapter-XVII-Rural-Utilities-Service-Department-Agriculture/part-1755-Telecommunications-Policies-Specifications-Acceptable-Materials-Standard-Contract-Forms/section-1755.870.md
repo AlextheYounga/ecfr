@@ -303,11 +303,11 @@ Quality assurance testing at a jaw separation speed of 500 mm/min (20 in./min) i
 
 (i) *End sample method.* The jacket shall be capable of meeting the following requirements:
 
-Minimum Average Thickness—90% of nominal thicknessMinimum Thickness—70% of nominal thickness
+Minimum Average Thickness—90% of nominal thickness Minimum Thickness—70% of nominal thickness
 
 (ii) *Continuous uniformity thickness gauge method.* (A) The jacket shall be capable of meeting the following requirements:
 
-Minimum Average Thickness—90% of nominal thicknessMinimum (Min.) Thickness—70 % of nominal thicknessMaximum (Max.) Eccentricity—55%Eccentricity = Max. Thickness—Min. Thickness (Average Thickness) × 100
+Minimum Average Thickness—90% of nominal thickness Minimum (Min.) Thickness—70 % of nominal thickness Maximum (Max.) Eccentricity—55% Eccentricity = Max. Thickness—Min. Thickness (Average Thickness) × 100
 
 (B) *Maximum and minimum thickness values.* The maximum and minimum thickness values shall be based on the average of each axial section.
 

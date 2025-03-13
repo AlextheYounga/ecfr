@@ -1,6 +1,6 @@
 ##### § 51.2753 U.S. Virginia Splits. #####
 
-“U.S. Virginia Splits” consists of shelled Virginia type peanut kernels of similar varietal characteristics which are free from foreign material, damage and minor defects, and which will not pass through a screen having20/64 inch round openings. Not less than 90 percent, by weight, shall be splits.
+“U.S. Virginia Splits” consists of shelled Virginia type peanut kernels of similar varietal characteristics which are free from foreign material, damage and minor defects, and which will not pass through a screen having 20/64 inch round openings. Not less than 90 percent, by weight, shall be splits.
 
 (a) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
 

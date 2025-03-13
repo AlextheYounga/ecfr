@@ -16,7 +16,7 @@ In order to allow for variations incident to proper grading and handling in each
 
 (2) U.S. No. 3.
 
-(i) *For defects at shipping point.1 Not more than 10 percent of the fruit in any lot may fail to meet the requirements of the grade: Provided,* that included in this amount not more than 1 percent shall be for decay or wormy fruit.
+(i) *For defects at shipping point. 1 Not more than 10 percent of the fruit in any lot may fail to meet the requirements of the grade: Provided,* that included in this amount not more than 1 percent shall be for decay or wormy fruit.
 
 (ii) *For defects en route or at destination.* Not more than 12 percent of the fruit which fail to meet the requirements of the grade: *Provided,* that included in this amount not more than the following percentages shall be allowed for defects listed:
 

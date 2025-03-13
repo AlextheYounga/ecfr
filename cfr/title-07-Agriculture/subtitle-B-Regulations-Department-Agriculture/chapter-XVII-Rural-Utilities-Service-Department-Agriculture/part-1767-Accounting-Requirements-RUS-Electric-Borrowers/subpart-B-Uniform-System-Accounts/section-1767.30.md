@@ -166,7 +166,7 @@ Exclude from this account and charge to Account 930.2, Miscellaneous General Exp
 
 This account shall include the cost of labor, employee pensions and benefits, social security and other payroll taxes, injuries and damages, property insurance, property taxes, materials used, and expenses incurred in connection with sales activities, except merchandising, which are not includible in other sales expense accounts.
 
-Items*Labor:*
+Items *Labor:*
 
 1. General clerical and stenographic work not assigned to specific functions.
 

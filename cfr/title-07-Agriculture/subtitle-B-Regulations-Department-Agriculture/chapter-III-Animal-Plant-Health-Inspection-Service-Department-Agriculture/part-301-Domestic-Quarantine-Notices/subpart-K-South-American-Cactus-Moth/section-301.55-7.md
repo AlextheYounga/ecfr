@@ -1,6 +1,6 @@
 ##### § 301.55-7 Assembly and inspection of regulated articles. #####
 
-(a) Any person (other than a person authorized to issue limited permits under § 301.555(c)) who desires a certificate or limited permit to move a regulated article interstate must request an inspector1 to examine the articles as far in advance of the desired interstate movement as possible, but no less than 48 hours before the desired interstate movement.
+(a) Any person (other than a person authorized to issue limited permits under § 301.555(c)) who desires a certificate or limited permit to move a regulated article interstate must request an inspector 1 to examine the articles as far in advance of the desired interstate movement as possible, but no less than 48 hours before the desired interstate movement.
 
 1 See footnote 1 in § 301.55-5.
 

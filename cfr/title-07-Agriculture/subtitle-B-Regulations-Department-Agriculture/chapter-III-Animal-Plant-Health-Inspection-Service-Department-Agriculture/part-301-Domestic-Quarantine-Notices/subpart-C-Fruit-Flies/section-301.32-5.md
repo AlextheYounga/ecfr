@@ -1,6 +1,6 @@
 ##### § 301.32-5 Issuance and cancellation of certificates and limited permits. #####
 
-(a) A certificate may be issued by an inspector1 for the interstate movement of a regulated article if the inspector determines that:
+(a) A certificate may be issued by an inspector 1 for the interstate movement of a regulated article if the inspector determines that:
 
 1 Services of an inspector may be requested by contacting local PPQ offices, which are listed in telephone directories.
 
@@ -18,7 +18,7 @@
 
 (4) The regulated article is eligible for unrestricted movement under all other Federal domestic plant quarantines and regulations applicable to the regulated article.
 
-(b) An inspector2 will issue a limited permit for the interstate movement of a regulated article if the inspector determines that:
+(b) An inspector 2 will issue a limited permit for the interstate movement of a regulated article if the inspector determines that:
 
 2 See footnote 1 of this section.
 

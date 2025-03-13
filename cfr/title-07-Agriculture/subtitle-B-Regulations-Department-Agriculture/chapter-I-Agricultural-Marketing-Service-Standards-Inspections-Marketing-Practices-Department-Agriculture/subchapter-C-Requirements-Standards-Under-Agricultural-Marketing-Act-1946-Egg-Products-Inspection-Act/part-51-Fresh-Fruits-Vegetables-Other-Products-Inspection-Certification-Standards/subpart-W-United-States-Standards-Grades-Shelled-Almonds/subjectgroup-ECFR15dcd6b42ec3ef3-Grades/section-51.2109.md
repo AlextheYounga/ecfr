@@ -8,7 +8,7 @@ In order to allow for variations incident to proper grading and handling, the fo
 
 (b) *For doubles.* 25 percent;
 
-(c) *For kernels damaged by chipping and/or scratching or split and broken.* 35 percent; Provided, that not more than three-sevenths of this amount, or 15 percent, shall be allowed for split and broken: And Provided Further, that not more than one-third of this latter amount, or 5 percent, shall be allowed for pieces which will pass through a round opening20/64 inch (7.9 mm) in diameter;
+(c) *For kernels damaged by chipping and/or scratching or split and broken.* 35 percent; Provided, that not more than three-sevenths of this amount, or 15 percent, shall be allowed for split and broken: And Provided Further, that not more than one-third of this latter amount, or 5 percent, shall be allowed for pieces which will pass through a round opening 20/64 inch (7.9 mm) in diameter;
 
 (d) *For foreign material.* Two-tenths of 1 percent (0.20 percent). No part of this percentage shall be allowed for glass and metal;
 

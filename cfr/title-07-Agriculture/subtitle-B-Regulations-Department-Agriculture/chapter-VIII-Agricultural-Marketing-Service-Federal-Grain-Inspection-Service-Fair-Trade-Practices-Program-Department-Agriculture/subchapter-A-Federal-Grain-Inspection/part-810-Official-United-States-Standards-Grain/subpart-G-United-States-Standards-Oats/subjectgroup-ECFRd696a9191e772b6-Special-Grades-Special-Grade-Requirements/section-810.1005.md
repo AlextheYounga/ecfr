@@ -14,6 +14,6 @@
 
 (g) *Smutty oats.* Oats that have kernels covered with smut spores to give a smutty appearance in mass, or that contain more than 0.2 percent of smut balls.
 
-(h) *Thin oats.* Oats that contain more than 20.0 percent of oats and other matter, except fine seeds, that pass through a 0.064 ×3/8 oblong-hole sieve but remain on top of a5/64 triangular-hole sieve after sieving according to procedures prescribed in FGIS instructions.
+(h) *Thin oats.* Oats that contain more than 20.0 percent of oats and other matter, except fine seeds, that pass through a 0.064 × 3/8 oblong-hole sieve but remain on top of a 5/64 triangular-hole sieve after sieving according to procedures prescribed in FGIS instructions.
 
 [52 FR 24418, June 30, 1987, as amended at 52 FR 24441, June 30, 1987]

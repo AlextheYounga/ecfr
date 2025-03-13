@@ -1,6 +1,6 @@
 ##### § 301.48-4 Conditions governing the interstate movement of regulated articles from quarantined States. #####
 
-A regulated article may be moved interstate from a regulated airport to any State1 designated in § 301.48(b) only if:
+A regulated article may be moved interstate from a regulated airport to any State 1 designated in § 301.48(b) only if:
 
 1 Requirements under all other applicable Federal domestic plant quarantines must be met.
 

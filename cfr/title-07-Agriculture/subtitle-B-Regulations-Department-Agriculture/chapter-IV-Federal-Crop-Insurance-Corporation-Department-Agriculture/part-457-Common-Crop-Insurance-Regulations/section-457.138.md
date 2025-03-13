@@ -2,7 +2,7 @@
 
 The grape crop insurance provisions for the 2010 and succeeding crop years are as follows:
 
-United States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Grape Crop Provisions1. Definitions
+United States Department of Agriculture Federal Crop Insurance Corporation Reinsured Policies (Appropriate title for insurance provider) Both FCIC and reinsured policies: Grape Crop Provisions 1. Definitions
 
 *Graft.* To unite a shoot or bud (scion) with a rootstock or an existing vine in accordance with recommended practices to form a living union.
 

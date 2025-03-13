@@ -10,7 +10,7 @@
 
 (i) Accept an item for listing without conditions (domestic items only),
 
-(ii) Reject an item (domestic or nondomestic),1
+(ii) Reject an item (domestic or nondomestic), 1
 
 1 Nondomestic items are items which do not qualify as domestic products pursuant to RUS “Buy American” requirement.
 

@@ -2,7 +2,7 @@
 
 The Texas citrus fruit crop insurance provisions for the 2025 and succeeding crop years are as follows:
 
-United States Department of AgricultureFederal Crop Insurance CorporationTexas Citrus Fruit Crop Provisions1. Definitions
+United States Department of AgricultureFederal Crop Insurance Corporation Texas Citrus Fruit Crop Provisions1. Definitions
 
 *Citrus fruit commodity.* Includes the following:
 

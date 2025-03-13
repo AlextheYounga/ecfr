@@ -6,9 +6,9 @@
 
 (b) Dirt, staining or other foreign matter when more than 25 percent of the onions in a lot are badly stained. Onions with adhering dirt or other foreign matter shall be judged on the same basis as stained onions;
 
-(c) Seedstems when more than1/2 inch in diameter;
+(c) Seedstems when more than 1/2 inch in diameter;
 
-(d) Sprouts when the visible length is more than1/2 inch;
+(d) Sprouts when the visible length is more than 1/2 inch;
 
 (e) Mechanical when any cut extends deeper than two fleshy scales, or when cuts seriously damage the appearance of the onion; and,
 

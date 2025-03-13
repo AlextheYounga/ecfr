@@ -2,7 +2,7 @@
 
 The Processing Sweet Corn Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationProcessing Sweet Corn Crop Provisions
+FCIC Policies United States Department of Agriculture Federal Crop Insurance Corporation Processing Sweet Corn Crop Provisions
 
 In return for your payment of premium and administrative fee for the coverage, these Processing Sweet Corn Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 

@@ -1,6 +1,6 @@
 ##### § 51.2732 U.S. No. 2 Spanish. #####
 
-“U.S. No. 2 Spanish” consists of shelled Spanish type peanut kernels which may be split or broken, but which are free from foreign material, damage, and minor defects, and which will not pass through a screen having16/64 inch round openings.
+“U.S. No. 2 Spanish” consists of shelled Spanish type peanut kernels which may be split or broken, but which are free from foreign material, damage, and minor defects, and which will not pass through a screen having 16/64 inch round openings.
 
 (a) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
 

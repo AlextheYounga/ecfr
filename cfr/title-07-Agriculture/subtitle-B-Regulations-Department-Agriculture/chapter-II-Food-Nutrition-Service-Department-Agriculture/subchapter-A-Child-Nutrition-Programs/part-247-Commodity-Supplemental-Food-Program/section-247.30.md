@@ -14,4 +14,4 @@
 
 (3) Maintain all records regarding claims actions taken against participants, in accordance with § 247.29.
 
-(Approved by the Office of Management and Budget under control number 0584-0293)[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38751, July 9, 2014; 85 FR 68722, Oct. 30, 2020; 89 FR 87247, Oct. 31, 2024]
+(Approved by the Office of Management and Budget under control number 0584-0293) [70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38751, July 9, 2014; 85 FR 68722, Oct. 30, 2020; 89 FR 87247, Oct. 31, 2024]

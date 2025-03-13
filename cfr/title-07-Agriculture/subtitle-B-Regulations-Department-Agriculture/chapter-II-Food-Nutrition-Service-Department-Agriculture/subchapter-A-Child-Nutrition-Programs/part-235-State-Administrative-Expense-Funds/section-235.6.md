@@ -26,4 +26,4 @@
 
 (i) *Full use of Federal funds.* States and State agencies must support the full use of Federal funds provided to State agencies for the administration of Child Nutrition Programs, and exclude such funds from State budget restrictions or limitations including hiring freezes, work furloughs, and travel restrictions.
 
-(Sec. 14, Pub. L. 95-166, 91 Stat. 1338, 1339, 1340 (42 U.S.C. 1751, 1753, 1759a, 1761, 1766, 1772-1775, 1776, 1786); sec. 7(a), Pub. L. 95-627, 92 Stat. 3621, 3622 (42 U.S.C. 1751, 1776))[41 FR 32405, Aug. 3, 1976]Editorial Note:For Federal Register citations affecting § 235.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Sec. 14, Pub. L. 95-166, 91 Stat. 1338, 1339, 1340 (42 U.S.C. 1751, 1753, 1759a, 1761, 1766, 1772-1775, 1776, 1786); sec. 7(a), Pub. L. 95-627, 92 Stat. 3621, 3622 (42 U.S.C. 1751, 1776))[41 FR 32405, Aug. 3, 1976] Editorial Note:For Federal Register citations affecting § 235.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

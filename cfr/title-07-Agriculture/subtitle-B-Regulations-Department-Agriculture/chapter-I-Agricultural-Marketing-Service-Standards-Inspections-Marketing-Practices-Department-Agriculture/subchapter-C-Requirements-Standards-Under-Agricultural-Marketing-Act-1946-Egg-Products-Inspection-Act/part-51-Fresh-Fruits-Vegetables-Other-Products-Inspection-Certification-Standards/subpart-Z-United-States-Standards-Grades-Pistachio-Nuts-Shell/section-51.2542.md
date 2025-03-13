@@ -60,7 +60,7 @@
 
 (vi) Other Internal (kernel) defects.
 
-(d) The nuts are of a size not less than30/64 inch in diameter as measured by a round hole screen.
+(d) The nuts are of a size not less than 30/64 inch in diameter as measured by a round hole screen.
 
 (e) For tolerances, see § 51.2544.
 

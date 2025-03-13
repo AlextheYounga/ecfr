@@ -60,8 +60,8 @@
 
 (h) *Other grains.* Barley, corn, cultivated buckwheat, einkorn, emmer, flaxseed, guar, hull-less barley, nongrain sorghum, oats, Polish wheat, popcorn, poulard wheat, rice, rye, safflower, sorghum, soybeans, spelt, sunflower seed, sweet corn, triticale, and wild oats.
 
-(i) *Shrunken and broken kernels.* All matter that passes through a 0.064 ×3/8 oblong-hole sieve after sieving according to procedures prescribed in the FGIS instructions.
+(i) *Shrunken and broken kernels.* All matter that passes through a 0.064 × 3/8 oblong-hole sieve after sieving according to procedures prescribed in the FGIS instructions.
 
-(j) *Sieve—0.064 ×3/8 oblong-hole sieve.* A metal sieve 0.032 inch thick with oblong perforations 0.064 inch by 0.375 (3/8) inch.
+(j) *Sieve—0.064 × 3/8 oblong-hole sieve.* A metal sieve 0.032 inch thick with oblong perforations 0.064 inch by 0.375 (3/8) inch.
 
 [52 FR 24418, June 30, 1987, as amended at 54 FR 48736, Nov. 27, 1989; 57 FR 58966, Dec. 14, 1992; 71 FR 8235, Feb. 18, 2006; 78 FR 27858, May 13, 2013]

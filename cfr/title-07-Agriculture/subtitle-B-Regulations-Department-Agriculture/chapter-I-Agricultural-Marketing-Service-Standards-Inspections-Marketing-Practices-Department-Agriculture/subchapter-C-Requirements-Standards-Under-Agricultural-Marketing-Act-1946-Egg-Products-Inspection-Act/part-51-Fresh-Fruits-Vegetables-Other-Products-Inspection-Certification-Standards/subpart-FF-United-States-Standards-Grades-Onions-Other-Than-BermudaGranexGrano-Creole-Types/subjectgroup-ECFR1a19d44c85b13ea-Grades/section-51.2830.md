@@ -66,7 +66,7 @@
 
 (e) Size. Unless otherwise specified the diameter shall be not less than 11/2 inches, and yellow, brown, or red onions shall have 40 percent or more, and white onions shall have 30 percent or more, by weight, of the onions in any lot 2 inches or larger in diameter.
 
-(f) When a percentage of the onions is specified to be of any certain size or larger, no part of any tolerance shall be allowed to reduce the specified percentage, but individual packages in a lot may have as much as 25 percentage points less than the percentage specified, except that individual packages containing 10 pounds or less shall have no requirements as to percentage of a certain size or larger: *Provided,* that any lot, regardless of package size, shall average within the percentage specified. (See §§ 51.2836 and 51.2837)1
+(f) When a percentage of the onions is specified to be of any certain size or larger, no part of any tolerance shall be allowed to reduce the specified percentage, but individual packages in a lot may have as much as 25 percentage points less than the percentage specified, except that individual packages containing 10 pounds or less shall have no requirements as to percentage of a certain size or larger: *Provided,* that any lot, regardless of package size, shall average within the percentage specified. (See §§ 51.2836 and 51.2837) 1
 
 1 Any lot of onions quoted as being of size smaller than 11/2 inches minimum, such as “U.S. No. 1, 11/4 inches min.” is not required to meet the percentages which shall be 2 inches or larger as specified in the U.S. No. 1 grade.
 

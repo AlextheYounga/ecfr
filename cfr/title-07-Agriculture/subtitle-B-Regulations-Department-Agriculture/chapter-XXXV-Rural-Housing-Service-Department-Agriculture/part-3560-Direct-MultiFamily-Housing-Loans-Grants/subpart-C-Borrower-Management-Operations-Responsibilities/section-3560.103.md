@@ -16,7 +16,7 @@
 
 (iii) *Landscaping and grounds.* The housing project must be landscaped attractively. Lawns, plants and shrubs must be maintained and must allow air to windows, vents, and sills. Recreation areas must be maintained in a safe and clean manner and trash collection areas must be adequately sized, screened, and maintained.
 
-(iv) *Drives, parking services and walks.* The housing project must have drives, parking lots, and walks that are free of holes and deterioration. Walks with changes in height between slabs of approximately1/2 inch or greater will be considered unacceptable.
+(iv) *Drives, parking services and walks.* The housing project must have drives, parking lots, and walks that are free of holes and deterioration. Walks with changes in height between slabs of approximately 1/2 inch or greater will be considered unacceptable.
 
 (v) *Exterior signage.* All signs at the housing project, including those related to the housing project name, buildings, parking spaces, unit numbers and other informational directions must be visible and well-kept. Sign requirements must conform to § 3560.104(d).
 

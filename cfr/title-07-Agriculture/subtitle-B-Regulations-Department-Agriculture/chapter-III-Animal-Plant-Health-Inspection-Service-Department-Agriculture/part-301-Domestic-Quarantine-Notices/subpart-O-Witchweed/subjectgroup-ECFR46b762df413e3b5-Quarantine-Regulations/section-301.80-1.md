@@ -44,7 +44,7 @@ Terms used in the singular form in this subpart shall be deemed to import the pl
 
 *Suppressive area.* That portion of a regulated area where eradication of infestation is undertaken as an objective.
 
-*Treatment Manual.* The provisions currently contained in the “Manual of Administratively Authorized Procedures to be Used Under the Witchweed Quarantine” and the “Fumigation Procedures Manual” and any amendments thereto.1
+*Treatment Manual.* The provisions currently contained in the “Manual of Administratively Authorized Procedures to be Used Under the Witchweed Quarantine” and the “Fumigation Procedures Manual” and any amendments thereto. 1
 
 1 Pamphlets containing such provisions are available upon request to the Deputy Administrator, Plant Protection and Quarantine Programs, Animal and Plant Health Inspection Service, U.S. Department of Agriculture, Washington, DC 20250, or from an inspector.
 

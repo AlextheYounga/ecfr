@@ -14,7 +14,7 @@
 
 (6) Score not less than 90 points when scored in accordance with the scoring system outlined in this subpart.
 
-Canned red tart pitted cherries of this grade may contain not more than eight cherries per sample unit that are less than9/16 inch (14 mm) in diameter.
+Canned red tart pitted cherries of this grade may contain not more than eight cherries per sample unit that are less than 9/16 inch (14 mm) in diameter.
 
 (b) “U.S. Grade B” (or “U.S. Choice”) is the quality of canned red tart pitted cherries that have at least the following attributes:
 
@@ -30,7 +30,7 @@ Canned red tart pitted cherries of this grade may contain not more than eight ch
 
 (6) Score not less than 80 points when scored in accordance with the scoring system outlined in this subpart.
 
-Canned red tart pitted cherries of this grade may contain not more than 15 cherries per sample unit that are less than9/16 inch (14 mm) in diameter.
+Canned red tart pitted cherries of this grade may contain not more than 15 cherries per sample unit that are less than 9/16 inch (14 mm) in diameter.
 
 (c) “U.S. Grade C” (or “U.S. Standard”) is the quality of canned red tart pitted cherries that have at least the following attributes:
 

@@ -2,11 +2,11 @@
 
 (a) *Household members meeting citizenship or alien status requirements.* No person is eligible to participate in the Program unless that person is:
 
-(1) A U.S. citizen1;
+(1) A U.S. citizen 1;
 
 1 For guidance, see the DOJ Interim Guidance published November 17, 1997 (62 FR 61344).
 
-(2) A U.S. non-citizen national1
+(2) A U.S. non-citizen national 1
 
 (3) An individual who is:
 
@@ -48,7 +48,7 @@
 
 (F) An alien who is granted conditional entry pursuant to section 203(a)(7) of the INA as in effect prior to April 1, 1980;
 
-(G) An alien who has been battered or subjected to extreme cruelty in the U.S. by a spouse or a parent or by a member of the spouse or parent's family residing in the same household as the alien at the time of the abuse, an alien whose child has been battered or subjected to battery or cruelty, or an alien child whose parent has been battered;2 or
+(G) An alien who has been battered or subjected to extreme cruelty in the U.S. by a spouse or a parent or by a member of the spouse or parent's family residing in the same household as the alien at the time of the abuse, an alien whose child has been battered or subjected to battery or cruelty, or an alien child whose parent has been battered; 2 or
 
 2 For guidance, see Exhibit B to Attachment 5 of the DOJ Interim Guidance published at 62 FR 61344 on November 17, 1997.
 
@@ -132,7 +132,7 @@
 
 (iv) An indigent alien that the State agency has determined is unable to obtain food and shelter taking into account the alien's own income plus any cash, food, housing, or other assistance provided by other individuals, including the sponsor(s). Prior to determining whether an alien is indigent, the State agency must explain the purpose of the determination to the alien and/or household representative and provide the alien and/or household representative the opportunity to refuse the determination. If the household refuses the determination, the State agency will not complete the determination and will deem the sponsor's income and resources to the alien's household in accordance with paragraph (c)(2) of this section. The State agency must inform the sponsored alien of the consequences of refusing this determination. For purposes of this paragraph (c)(3)(iv), the phrase “is unable to obtain food and shelter” means that the sum of the eligible sponsored alien's household's own income, the cash contributions of the sponsor and others, and the value of any in-kind assistance the sponsor and others provide, does not exceed 130 percent of the poverty income guideline for the household's size. The State agency must determine the amount of income and other assistance provided in the month of application. If the alien is indigent, the only amount that the State agency must deem to such an alien will be the amount actually provided for a period beginning on the date of such determination and ending 12 months after such date. Each indigence determination is renewable for additional 12-month periods. The State agency must notify the Attorney General of each such determination, including the names of the sponsor and the sponsored alien involved. State agencies may develop an administrative process under which information about the sponsored alien is not shared with the Attorney General or the sponsor without the sponsored alien's consent. The State agency must inform the sponsored alien of the consequences of failure to provide such consent. If the sponsored alien fails to provide consent, he or she shall be ineligible pursuant to paragraph (c)(5) of this section, and the State agency shall determine the eligibility and benefit level of the remaining household members in accordance with § 273.11(c).
 
-(v) A battered alien spouse, alien parent of a battered child, or child of a battered alien, for 12 months after the State agency determines that the battering is substantially connected to the need for benefits, and the battered individual does not live with the batterer.3 After 12 months, the State agency must not deem the batterer's income and resources if the battery is recognized by a court or the USCIS and has a substantial connection to the need for benefits, and the alien does not live with the batterer.
+(v) A battered alien spouse, alien parent of a battered child, or child of a battered alien, for 12 months after the State agency determines that the battering is substantially connected to the need for benefits, and the battered individual does not live with the batterer. 3 After 12 months, the State agency must not deem the batterer's income and resources if the battery is recognized by a court or the USCIS and has a substantial connection to the need for benefits, and the alien does not live with the batterer.
 
 3 For guidance, see Exhibit B to Attachment 5 of the DOJ Interim Guidance published November 17, 1997 (62 FR 61344).
 

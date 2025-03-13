@@ -2,11 +2,11 @@
 
 *Similar varietal characteristics* means that the potatoes in any lot have the same general shape, color, and character of skin and color of flesh.
 
-*Fairly well shaped* means that the potato is not materially pointed, dumbbell-shaped, or otherwise deformed.2
+*Fairly well shaped* means that the potato is not materially pointed, dumbbell-shaped, or otherwise deformed. 2
 
 2 USDA Visual Aid, POT-L 1 Jan 81. This publication may be examined in the Fruit and Vegetable Division, Fresh Products Branch, AMS, U.S. Department of Agriculture, South Building, Washington, DC 20250, or any field office of the Fresh Fruit and Vegetable Inspection Service. Copies of this visual aid may be purchased from the John Henry Company, P.O. Box 17099, Lansing, MI 48901 or United Fresh Fruit and Vegetable Association, N. Washington at Madison, Alexandria, VA 22314.
 
-*Moderately firm* means that the potato is not seriously shriveled or flabbly.2
+*Moderately firm* means that the potato is not seriously shriveled or flabbly. 2
 
 *Not seriously misshapen* means that the potato is not seriously deformed and causing more than 10% waste when determining the non-peelable area directly due to shape.
 

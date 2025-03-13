@@ -252,4 +252,4 @@ The definitions in this section apply to this part, and all documents issued in 
 
 (ii) Address local resource concerns or needs for the restoration of wetland functions and values for wetland-dependent wildlife as identified in an approved State wildlife action plan or NRCS national initiative.
 
-[85 FR 571, Jan. 6, 2020, as amended at 86 FR 8130, Feb. 4, 2021]Editorial Note:At 86 FR 8130, Feb. 4, 2021, § 1468.3 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[85 FR 571, Jan. 6, 2020, as amended at 86 FR 8130, Feb. 4, 2021] Editorial Note:At 86 FR 8130, Feb. 4, 2021, § 1468.3 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
