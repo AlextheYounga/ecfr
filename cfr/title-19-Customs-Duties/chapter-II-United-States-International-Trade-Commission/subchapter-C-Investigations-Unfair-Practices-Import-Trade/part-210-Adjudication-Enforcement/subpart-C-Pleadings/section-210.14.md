@@ -18,4 +18,4 @@
 
 (h) *Severance of investigation.* The administrative law judge may determine to sever an investigation into two or more investigations at any time prior to or upon thirty days from institution, based upon either a motion by any party or upon the administrative law judge's own judgment that severance is necessary to allow efficient adjudication. The administrative law judge's decision will be in the form of an order. The newly severed investigation(s) shall remain with the same presiding administrative law judge unless reassigned at the discretion of the chief administrative law judge. The severed investigation(s) will be designated with new investigation numbers.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67627, Dec. 30, 1994; 76 FR 64809, Oct. 19, 2011; 78 FR 23841, Apr. 19, 2013; 83 FR 21160, May 8, 2018]
+[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67627, Dec. 30, 1994; 76 FR 64809, Oct. 19, 2011; 78 FR 23481, Apr. 19, 2013; 83 FR 21160, May 8, 2018]

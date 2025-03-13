@@ -14,4 +14,4 @@
 
 (c) Each response to the motion for temporary relief must also be accompanied by a response to the complaint and notice of investigation. Responses to the complaint and notice of investigation must comply with §§ 210.4 and 210.5 of this part, and any protective order issued by the administrative law judge under § 210.34 of this part.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 78 FR 23846, Apr. 19, 2013
+[59 FR 39039, Aug. 1, 1994, as amended at 78 FR 23486, Apr. 19, 2013

@@ -1,7 +1,5 @@
 ##### § 993.62 Diversion privileges. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 (a) *Prune plums.* The words *prune plums* as used in this section mean plums of a variety used in the production of prunes.
 
 (b) *Voluntary principle.* No producer shall be required to divert all or any portion of the prune plums produced by him.
@@ -16,4 +14,4 @@ Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
 
 (g) *Payment of costs.* Prior to the issuance of a diversion certificate to a producer or a cooperative marketing association, the producer or association shall pay to the committee fees established to cover costs pertaining to the diversion.
 
-[30 FR 9800, Aug. 6, 1965]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.62 was suspended indefinitely.
+[30 FR 9800, Aug. 6, 1965]

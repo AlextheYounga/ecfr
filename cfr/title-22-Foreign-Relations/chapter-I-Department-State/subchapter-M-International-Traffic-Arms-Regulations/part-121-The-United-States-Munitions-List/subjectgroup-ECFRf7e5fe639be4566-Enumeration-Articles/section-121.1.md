@@ -1,6 +1,6 @@
 ##### § 121.1 The United States Munitions List. #####
 
-Link to an amendment published at 86 FR 48022, Aug. 27, 2021.
+Link to an amendment published at 86 FR 48022, Aug. 27, 2021.Link to an amendment published at 89 FR 20548, Mar. 25, 2024.
 
 (a)-(b) [Reserved]
 

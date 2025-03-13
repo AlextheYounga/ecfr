@@ -30,4 +30,4 @@ The committee shall have, among others, the following duties:
 
 (n) To establish, with the approval of the Secretary, such rules and procedures relative to administration of this subpart as may be consistent with the provisions contained in this subpart and as may be necessary to accomplish the purposes of the act and the efficient administration of this subpart.
 
-[30 FR 9798, Aug. 6, 1965, as amended at 37 FR 861, Jan. 20, 1972]Effective Date Note:At 70 FR 30613, May 27, 2005, in § 993.33, paragraph (i) was suspended indefinitely.
+[30 FR 9798, Aug. 6, 1965, as amended at 37 FR 861, Jan. 20, 1972]Effective Date Note:At 70 FR 30613, May 27, 2005, in § 993.36, paragraph (i) was suspended indefinitely.

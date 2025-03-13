@@ -1,7 +1,5 @@
 ##### § 993.172 Reports of holdings, receipts, uses, and shipments. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 (a) *Holdings as of March 31.* Each handler shall, on or before the 15th day of April, file with the committee a signed report of holdings of prunes which have not been inspected or received by him as a handler as of March 31. The report shall show for such prunes the name and address of the producer or dehydrator, the date of each identification tag assigned to such prunes, the numbers and dates of door receipts or weight certificates or any other identifying documents assigned to such prunes, the net weight shown on each, the total net weight of all prunes so held, and the name and address of the handler making the report.
 
 (b) *Receipts by handlers.* Each handler shall file with the committee, for each month, not later than the 5th working day of the next succeeding month, a signed report on Form PMC 11.1, “New Crop Supply and Inbound Prune Report”, containing at least the following information: (1) The date, the name and address of the handler, and the period covered by the report; and (2) the total tonnage received during the month from each of (i) producers and dehydrators, (ii) other handlers, including interhandler transfers, and (iii) sources other than producers, dehydrators and other handlers.
@@ -20,4 +18,4 @@ Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
 
 (e) *Holding of reserve prunes.* Upon request of the committee, a handler shall file with the committee, within 10 calendar days thereafter, a certified report on Form PMC 4.1, “Reserve Prunes Held by Handler”, containing the following information as of the date specified by the committee in its request: (1) The date and name and address of the handler; (2) the effective date of the report; and (3) the tonnages of reserve prunes physically held by or for the handler, itemized by plants, together with the location of the plants and itemized by the tonnages and average size count by category held at each such plant.
 
-[26 FR 8281, Sept. 2, 1961, as amended at 30 FR 13311, Oct. 20, 1965; 31 FR 14988, Nov. 29, 1966; 33 FR 19162, Dec. 24, 1968; 48 FR 57261, Dec. 29, 1983; 49 FR 1469, Jan. 12, 1984; 68 FR 37393, June 24, 2003]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.172 was suspended indefinitely.
+[26 FR 8281, Sept. 2, 1961, as amended at 30 FR 13311, Oct. 20, 1965; 31 FR 14988, Nov. 29, 1966; 33 FR 19162, Dec. 24, 1968; 48 FR 57261, Dec. 29, 1983; 49 FR 1469, Jan. 12, 1984; 68 FR 37393, June 24, 2003]

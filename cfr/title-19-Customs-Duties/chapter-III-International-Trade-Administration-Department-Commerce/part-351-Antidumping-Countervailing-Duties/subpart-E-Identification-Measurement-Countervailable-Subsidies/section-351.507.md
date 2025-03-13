@@ -1,5 +1,7 @@
 ##### § 351.507 Equity. #####
 
+Link to an amendment published at 89 FR 20841, Mar. 25, 2024.
+
 (a) *Benefit*—(1) *In general.* In the case of a government-provided equity infusion, a benefit exists to the extent that the investment decision is inconsistent with the usual investment practice of private investors, including the practice regarding the provision of risk capital, in the country in which the equity infusion is made. *See* section 771(5)(E)(i) of the Act.
 
 (2) *Private investor prices available*—(i) *In general.* Except as provided in paragraph (a)(2)(iii) of this section, the Secretary will consider an equity infusion as being inconsistent with usual investment practice (*see* paragraph (a)(1) of this section) if the price paid by the government for newly issued shares is greater than the price paid by private investors for the same (or similar form of) newly issued shares.

@@ -1,61 +1,39 @@
-##### 552.238-113 Scope of Contract (Eligible Ordering Activities). #####
+##### 552.238-113 Authorities Supporting Use of Federal Supply Schedule Contracts. #####
 
-As prescribed in 538.7004 (b) insert the following clause:
+As prescribed in 538.273(d), insert the following clause:
 
-Scope of Contract (Eligible Ordering Activities) (MAY 2023)
+Authorities Supporting Use of Federal Supply Schedule Contracts (Mar 2024)
 
-(a) This solicitation is issued to establish contracts which may be used on a nonmandatory basis by the agencies and activities named below, as a source of supply for the supplies or services described herein, for domestic and/or overseas delivery. For Special Item Number 132-53, the Wireless Mobility Services Special Item Number limited geographic coverage (consistent with the Offeror's commercial practice) may be proposed.
+(a) Ordering activities are able to use Federal Supply Schedule (FSS) contracts based upon a number of statutes, regulations, and other authorities. Authorities allowing ordering activities use of FSS contracts include, but are not limited to:
 
-(1) Executive agencies (as defined in FAR Subpart 2.1) including nonappropriated fund activities as prescribed in 41 CFR 101-26.000;
+(1) 25 U.S.C. 1660g(e), which provides for the use by urban Indian organizations, as defined in 25 U.S.C. 1603, for the purposes of carrying out a contract or grant pursuant to 25 U.S.C. chapter 18, subchapter IV.
 
-(2) Government contractors authorized in writing by a Federal agency pursuant to FAR 51.1;
+(2) 25 U.S.C. 2507, which provides for the use by tribally controlled schools, as defined in 25 U.S.C. 2511, for the purposes of carrying out a grant pursuant to 25 U.S.C. chapter 27 (known as the Tribally Controlled Schools Act).
 
-(3) Mixed ownership Government corporations (as defined in the Government Corporation Control Act);
+(3) 25 U.S.C. 4111(j), which provides for the use by Indian Tribes, as defined in 25 U.S.C. 4103, and tribally designated housing entities, as defined in 25 U.S.C. 4103, for the purposes of carrying out a contract, grant, or cooperative agreement pursuant to 25 U.S.C. chapter 43 (known as the Native American Housing Assistance and Self Determination Act (NAHASDA)).
 
-(4) Federal Agencies, including establishments in the legislative or judicial branch of government (except the Senate, the House of Representatives and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol).
+(4) 25 U.S.C. 5324(k), which provides for the use by Tribal organizations, as defined in 25 U.S.C 5304, for the purposes of carrying out a contract, grant, or cooperative agreement pursuant to 25 U.S.C. chapter 46 (known as the Indian Self-Determination and Education Assistance Act (ISDEAA)).
 
-(5) The District of Columbia;
+(5) 25 U.S.C. 5370 and 25 U.S.C. 5396, which provides for the use by Indian Tribes, as defined in 25 U.S.C. 5304, for the purpose of carrying out a compact or funding agreement pursuant to 25 U.S.C. chapter 46 (known as ISDEAA).
 
-(6) Tribal governments when authorized under 25 U.S.C. 450j(k);
+(6) 40 U.S.C. 113(d), which provides for the use by the Senate, the House of Representatives, and the Architect of the Capitol (including any building, activity, or function under the direction of the Architect of the Capitol).
 
-(7) Tribes or tribally designated housing entities pursuant to 25 U.S.C. 4111(j);
+(7) 40 U.S.C. 501, which provides for the use by executive agencies as defined in 5 U.S.C. 105.
 
-(8) Qualified Nonprofit Agencies as authorized under 40 U.S.C. 502(b); and
+(8) 40 U.S.C. 502(a), which provides for the use by Federal agencies as defined in 40 U.S.C. 102, the District of Columbia, and mixed-ownership Government corporations as defined in 31 U.S.C. 9101.
 
-(9) Organizations, other than those identified in paragraph (d) of this clause, authorized by GSA pursuant to statute or regulation to use GSA as a source of supply.
+(9) 40 U.S.C. 502(b), which provides for the use by qualified nonprofit agencies for other severely disabled, as defined in 41 U.S.C. 8501(6), and qualified nonprofit agencies for the blind, as defined in 41 U.S.C. 8501(7), for the purposes of making or providing to the Government a commodity or service that has been determined by the Committee for Purchase From People Who Are Blind or Severely Disabled under 41 U.S.C. 8503 to be suitable for procurement by the Government.
 
-(b) *Definitions.*
+(10) 40 U.S.C. 502(c), which provides for the use by State or local governments, as defined in 40 U.S.C. 502(c)(3)(A), for the purpose of purchasing the types of supplies and services described in 40 U.S.C. 502(c). The types of supplies and services described in 40 U.S.C. 502(c) are limited to those available in the Information Technology Category and the Security and Protection Category (or any successor categories). The GSA program implementing this authority is the Cooperative Purchasing program.
 
-*Domestic delivery* is delivery within the 48 contiguous states, Alaska, Hawaii, Puerto Rico, Washington, DC, and U.S. territories. Domestic delivery also includes a port or consolidation point, within the aforementioned areas, for orders received from overseas activities.
+(11) 40 U.S.C. 502(d), which provides for the use by State or local governments, as defined in 40 U.S.C. 502(c)(3)(A), for the purposes of facilitating disaster preparedness or response, facilitating recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 *et seq.*), or facilitating recovery from terrorism, nuclear, biological, chemical, or radiological attack. The GSA program implementing this authority is the Disaster Purchasing program.
 
-*Overseas delivery* is delivery to points outside of the 48 contiguous states, Washington, DC, Alaska, Hawaii, Puerto Rico, and U.S. territories.
+(12) 40 U.S.C. 502(e), which provides for the use by the American National Red Cross and other qualified organizations, as defined in 40 U.S.C. 502(e)(3). Purchases under this authority by the American National Red Cross shall be used in furtherance of the purposes of the American National Red Cross set forth in 36 U.S.C. 300102. Purchases under this authority by other qualified organizations shall be used in furtherance of purposes determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency.
 
-(c) Offerors are requested to check one of the following boxes:
+(13) 42 U.S.C. 247d, which provides for the use by State or local governments, as defined in 40 U.S.C.502(c)(3)(A), when a public health emergency has been declared by the Secretary of Health and Human Services under section 319 of the Public Health Services Act. The GSA program implementing this authority is the Public Health Emergencies program.
 
-□ Contractor will provide domestic and overseas delivery.
+(14) FAR subpart 51.1, which provides for the use by contractors, including subcontractors, when such use is authorized pursuant to FAR subpart 51.1.
 
-□ Contractor will provide overseas delivery only.
+(b) [Reserved]
 
-□ Contractor will provide domestic delivery only.
-
-(d) The following activities may place orders against Schedule contracts:
-
-(1) State and local government may place orders against Consolidated Schedule contracts containing information technology or security and protection Special Item Numbers, on an optional basis; provided, the Contractor accepts order(s) from such activities;
-
-(2) The American National Red Cross may place orders against Federal Supply Schedules for products and services in furtherance of the purposes set forth in its Federal charter (36 U.S.C. 300102); provided, the Contractor accepts order(s) from the American National Red Cross; and
-
-(3) Other qualified organizations, as defined in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5152), may place orders against Federal Supply Schedules for products and services determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency; provided, the Contractor accepts order(s) from such activities.
-
-(4) State and local governments may place orders against Federal Supply Schedules for good or services determined by the Secretary of Homeland Security to facilitate recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121, *et seq.*) to facilitate disaster preparedness or response, or to facilitate recovery from terrorism or nuclear, biological, chemical, or radiological attack; provided, the Contractor accepts order(s) from such activities.
-
-(e) Articles or services may be ordered from time to time in such quantities as may be needed to fill any requirement, subject to the Order Limitations thresholds which will be specified in resultant contracts. Overseas activities may place orders directly with schedule contractors for delivery to CONUS port or consolidation point.
-
-(f)(1) The Contractor is obligated to accept orders received from activities within the Executive branch of the Federal Government.
-
-(2) The Contractor is not obligated to accept orders received from activities outside the Executive branch; however, the Contractor is encouraged to accept such orders. If the Contractor elects to accept such orders, all provisions of the contract shall apply, including clause 52.232-36 Payment by Third Party. If the Contractor is unwilling to accept such orders, and the proposed method of payment is not through the Credit Card, the Contractor shall return the order by mail or other means of delivery within 5 workdays from receipt. If the Contractor is unwilling to accept such orders, and the proposed method of payment is through the Credit Card, the Contractor must so advise the ordering activity within 24 hours of receipt of order. (Reference clause 52.232-36 Payment by Third Party.) Failure to return an order or advise the ordering activity within the time frames of this paragraph shall constitute acceptance whereupon all provisions of the contract shall apply.
-
-(g) The Government is obligated to purchase under each resultant contract a guaranteed minimum of $2,500 (two thousand, five hundred dollars) during the contract term.
-
-(h) All users of GSA's Federal Supply Schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services. GSA encourages non-Federal users to follow the Schedule Ordering Procedures set forth in the Federal Acquisition Regulation (FAR) 8.4, but they may use different established competitive ordering procedures if such procedures are needed to satisfy their state and local acquisition regulations and/or organizational policies.
-
-(End of clause)[84 FR 17046, Apr. 23, 2019, as amended at 88 FR 20079, Apr. 5, 2023]
+(End of clause)

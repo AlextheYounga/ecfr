@@ -1,0 +1,3 @@
+##### 538.7002-7 Native American Housing Assistance and Self Determination Act (NAHASDA). #####
+
+25 U.S.C 4111(j) allows Indian Tribes, as defined in 25 U.S.C. 4103, and tribally designated housing entities, as defined in 25 U.S.C. 4103, that have an active NAHASDA contract, grant, or cooperative agreement to purchase supplies and services for the purposes of carrying out the NAHASDA contract, grant, or cooperative agreement.

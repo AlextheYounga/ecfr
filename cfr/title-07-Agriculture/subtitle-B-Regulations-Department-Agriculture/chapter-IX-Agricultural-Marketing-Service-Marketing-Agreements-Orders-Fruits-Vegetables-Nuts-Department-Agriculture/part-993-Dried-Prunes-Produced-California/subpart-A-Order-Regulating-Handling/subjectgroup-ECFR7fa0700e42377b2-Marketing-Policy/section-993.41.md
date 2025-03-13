@@ -1,7 +1,5 @@
 ##### § 993.41 Marketing policy. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 (a) On or before the first Tuesday of each July, the committee shall prepare and submit to the Secretary a report setting forth its recommended marketing policy for the ensuing crop year. If it becomes advisable to modify such policy, because of changed demand, supply, or other conditions, the committee shall formulate a new policy and shall submit a report thereon to the Secretary. Notice of the committee's marketing policy, and of any modifications thereof, shall be given promptly by reasonable publicity to producers, dehydrators, and handlers.
 
 (b) In formulating its marketing policy for the ensuing crop year, the committee shall consider and shall include in its report to the Secretary, the following estimates (natural condition basis) and recommendations:
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
 
 (15) The current prices for prunes, the trend and level of consumer income, whether producer prices are likely to exceed parity, and such other factors as may have a bearing on the marketing of prunes or the administration of this part.
 
-[30 FR 9798, Aug. 6, 1965, as amended at 37 FR 862, Jan. 20, 1972]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.41 was suspended indefinitely.
+[30 FR 9798, Aug. 6, 1965, as amended at 37 FR 862, Jan. 20, 1972]

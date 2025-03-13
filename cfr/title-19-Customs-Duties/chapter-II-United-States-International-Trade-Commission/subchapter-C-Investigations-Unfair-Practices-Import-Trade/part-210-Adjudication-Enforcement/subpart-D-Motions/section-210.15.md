@@ -10,4 +10,4 @@
 
 (d) *Motions for extensions.* As a matter of discretion, the administrative law judge or the Commission may waive the requirements of this section as to motions for extension of time, and may rule upon such motions ex parte.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 78 FR 23842, Apr. 19, 2013; 83 FR 21160, May 8, 2018]
+[59 FR 39039, Aug. 1, 1994, as amended at 78 FR 23482, Apr. 19, 2013; 83 FR 21160, May 8, 2018]

@@ -1,0 +1,3 @@
+##### 538.7002-1 Cooperative purchasing program. #####
+
+40 U.S.C. 502(c) allows State or local governments, as defined in 40 U.S.C. 502(c)(3), to purchase the types of supplies and services described in 40 U.S.C. 502(c). The supplies and services described in 40 U.S.C. 502(c) are limited to those available under the Information Technology Category, and the Security and Protection Category (or successor category(ies)). The GSA program that implements this authority is called the Cooperative Purchasing program.

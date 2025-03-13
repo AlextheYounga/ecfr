@@ -1,5 +1,7 @@
 ##### § 3560.160 Tenant grievances. #####
 
+Link to an amendment published at 89 FR 20543, Mar. 25, 2024.
+
 (a) *General.* (1) The requirements established in this section are designed to ensure that there is a fair and equitable process for addressing tenant or prospective tenant concerns and to ensure fair treatment of tenants in the event that an action or inaction by a borrower, including anyone designated to act for a borrower, adversely affects the tenants of a housing project.
 
 (2) Any tenant/member or prospective tenant/member seeking occupancy in or use of Agency facilities who believes he or she is being discriminated against because of age, race, color, religion, sex, familial status, disability, or national origin may file a complaint in person with, or by mail to the U.S. Department of Agriculture's Office of Civil Rights, Room 326-W, Whitten Building, 14th and Independence Avenue, SW., Washington DC 20250-9410 or to the Office of Fair Housing and Equal Opportunity, U.S. Department of Housing and Urban Development (HUD), Washington, DC 20410. Complaints received by Agency employees must be directed to the National Office Civil Rights Staff through the State Civil Rights Manager/Coordinator.

@@ -90,4 +90,4 @@
 
 (j) *Duty to supplement complaint.* Complainant shall supplement the complaint prior to institution of an investigation if complainant obtains information upon the basis of which he knows or reasonably should know that a material legal or factual assertion in the complaint is false or misleading.
 
-[59 FR 39039, Aug. 1, 1994; 59 FR 64286, Dec. 14, 1994, as amended at 73 FR 38321, July 7, 2008; 78 FR 23841, Apr. 19, 2013; 83 FR 21160, May 8, 2018]
+[59 FR 39039, Aug. 1, 1994; 59 FR 64286, Dec. 14, 1994, as amended at 73 FR 38321, July 7, 2008; 78 FR 23481, Apr. 19, 2013; 83 FR 21160, May 8, 2018]

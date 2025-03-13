@@ -1,5 +1,7 @@
 ##### § 351.308 Determinations on the basis of the facts available. #####
 
+Link to an amendment published at 89 FR 20836, Mar. 25, 2024.
+
 (a) *Introduction.* The Secretary may make determinations on the basis of the facts available whenever necessary information is not available on the record, an interested party or any other person withholds or fails to provide information requested in a timely manner and in the form required or significantly impedes a proceeding, or the Secretary is unable to verify submitted information. If the Secretary finds that an interested party “has failed to cooperate by not acting to the best of its ability to comply with a request for information,” the Secretary may use an inference that is adverse to the interests of that party in selecting from among the facts otherwise available. This section lists some of the sources of information upon which the Secretary may base an adverse inference and explains the actions the Secretary will take with respect to corroboration of information.
 
 (b) *In general.* The Secretary may make a determination under the Act and this part based on the facts otherwise available in accordance with section 776(a) of the Act.

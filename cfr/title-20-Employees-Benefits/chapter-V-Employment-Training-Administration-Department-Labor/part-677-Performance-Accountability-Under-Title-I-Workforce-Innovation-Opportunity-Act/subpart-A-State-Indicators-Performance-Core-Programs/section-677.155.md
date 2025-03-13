@@ -1,7 +1,5 @@
 ##### § 677.155 What are the primary indicators of performance under the Workforce Innovation and Opportunity Act? #####
 
-Link to an amendment published at 89 FR 13847, Feb. 23, 2024.
-
 (a) All States submitting either a Unified or Combined State Plan under §§ 676.130 and 676.143 of this chapter, must propose expected levels of performance for each of the primary indicators of performance for the adult, dislocated worker, and youth programs authorized under WIOA title I; the AEFLA program authorized under WIOA title II; the Employment Service program authorized under the Wagner-Peyser Act, as amended by WIOA title III; and the VR program authorized under title I of the Rehabilitation Act of 1973, as amended by WIOA title IV.
 
 (1) *Primary indicators of performance.* The six primary indicators of performance for the adult and dislocated worker programs, the AEFLA program, and the VR program are:
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 13847, Feb. 23, 2024.
 
 (E) Successful passage of an exam that is required for a particular occupation or progress in attaining technical or occupational skills as evidenced by trade-related benchmarks such as knowledge-based exams.
 
-(vi) Effectiveness in serving employers.
+(vi) The percentage of participants in unsubsidized employment during the second quarter after exit from the program who were employed by the same employer in the second and fourth quarters after exit. For the six core programs, this indicator is a statewide indicator reported by one core program on behalf of all six core programs in the State, as described in guidance.
 
 (2) *Participants.* For purposes of the primary indicators of performance in paragraph (a)(1) of this section, “participant” will have the meaning given to it in § 677.150(a), except that—
 
@@ -60,4 +58,6 @@ Link to an amendment published at 89 FR 13847, Feb. 23, 2024.
 
 (v) Successful passage of an exam that is required for a particular occupation or progress in attaining technical or occupational skills as evidenced by trade-related benchmarks such as knowledge-based exams.
 
-(6) Effectiveness in serving employers.
+(6) The percentage of participants in unsubsidized employment during the second quarter after exit from the program who were employed by the same employer in the second and fourth quarters after exit. For the six core programs, this indicator is a statewide indicator reported by one core program on behalf of all six core programs in the State, as described in guidance.
+
+[81 FR 56002, Aug. 19, 2016, as amended at 89 FR 13847, Feb. 23, 2024]

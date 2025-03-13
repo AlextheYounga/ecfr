@@ -1,5 +1,7 @@
 ##### § 351.306 Use of business proprietary information. #####
 
+Link to an amendment published at 89 FR 20836, Mar. 25, 2024.
+
 (a) *By the Secretary.* The Secretary may disclose business proprietary information submitted to the Secretary only to:
 
 (1) An authorized applicant;

@@ -90,4 +90,4 @@
 
 (i) *Service.* Unless the Commission, the administrative law judge, or another section of this part specifically provides otherwise, every written submission filed by a party or proposed party shall be served on all other parties in the manner specified in § 201.16(b) of this chapter.
 
-[59 FR 39039, Aug. 1, 1994; 59 FR 64286, Dec. 14, 1994, as amended at 59 FR 67626, Dec. 30, 1994; 60 FR 32443, June 22, 1995; 68 FR 32978, June 3, 2003; 73 FR 38320, July 7, 2008; 76 FR 61944, Oct. 6, 2011; 78 FR 23840, Apr. 19, 2013]
+[59 FR 39039, Aug. 1, 1994; 59 FR 64286, Dec. 14, 1994, as amended at 59 FR 67626, Dec. 30, 1994; 60 FR 32443, June 22, 1995; 68 FR 32978, June 3, 2003; 73 FR 38320, July 7, 2008; 76 FR 61944, Oct. 6, 2011; 78 FR 23480, Apr. 19, 2013]

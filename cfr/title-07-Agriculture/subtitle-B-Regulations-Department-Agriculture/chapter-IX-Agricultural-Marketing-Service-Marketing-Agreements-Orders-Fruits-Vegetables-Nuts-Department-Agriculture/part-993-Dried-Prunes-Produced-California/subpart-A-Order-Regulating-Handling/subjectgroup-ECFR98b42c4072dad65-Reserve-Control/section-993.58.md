@@ -1,7 +1,5 @@
 ##### § 993.58 Deferment of time for withholding. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 (a) Compliance by any handler with the requirement of § 993.57 for withholding reserve prunes may be temporarily deferred to any date desired by the handler, but not later than November 15 of the crop year, upon the execution and delivery by such handler to the committee of a written undertaking that on or prior to the desired date he will have fully satisfied his holding requirement. Such undertaking shall be secured by a bond or bonds to be filed with and acceptable to the committee in the amount or amounts specified, conditioned upon full compliance with such undertaking.
 
 (b)(1) Each bond shall be provided by and at the handler's expense, with a surety or sureties acceptable to the committee, and shall be in an amount computed by multiplying the pounds of natural condition prunes for which deferment is desired by the bonding rate. Such bonding rate shall be established by the committee at a level sufficient to achieve the objectives of this part.
@@ -11,5 +9,3 @@ Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
 (3) If for any reason the committee is unable to purchase a quantity of prunes as large as the quantity of reserve prunes in default by the handler, any remaining balance of funds received because of the default less expenses of the committee, shall be deposited with reserve pool funds for distribution to equity holders.
 
 (c) A handler who has defaulted on his bond shall be credited on his reserve obligation with, and his holding requirement reduced by, that quantity of prunes represented by the sums collected but not more than the extent of his default.
-
-Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.58 was suspended indefinitely.

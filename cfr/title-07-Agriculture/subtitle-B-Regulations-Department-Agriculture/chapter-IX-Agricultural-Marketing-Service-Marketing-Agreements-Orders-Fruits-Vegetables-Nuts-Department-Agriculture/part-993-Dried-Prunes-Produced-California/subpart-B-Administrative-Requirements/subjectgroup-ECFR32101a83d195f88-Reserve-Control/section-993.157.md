@@ -1,7 +1,5 @@
 ##### § 993.157 Holding and delivery of reserve prunes. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 (a) *Sales and deliveries.* Committee sales and deliveries of reserve prunes from the holdings of any handler shall not exceed the quantity of reserve prunes required to be held by him. The reserve prune holding requirement of the handler shall be reduced by the tonnage so sold or delivered.
 
 (b) *Assistance to handlers.* As assistance to handlers, the committee shall furnish each handler a monthly tabulation, beginning as soon as possible after the start of the crop year, showing his reserve obligation and holding requirement based on records on file with the committee.
@@ -16,4 +14,4 @@ Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
 
 (g) *Delivery by nonsignatory handlers.* Any handler not signing the sales agreement authorized pursuant to § 993.65(b), shall deliver to the Committee, upon demand, the total weight of his reserve obligation by such variety, grade, and size categories, and at the count per pound for each size category as is required by the reserve control regulation of the applicable crop year. Such deliveries of prunes may be either graded prunes or any lot of ungraded prunes, or portion thereof, identifiable to the satisfaction of the committee as being in the same form as when received: *Provided,* That the percent of standard prunes in each lot shall be taken into account but with respect to any lot of graded prunes, no credit shall be given to the standard obligation of the handler if in a sample of 100 ounces, the count per pound of 10 ounces of the smallest prunes exceeds the count per pound of 10 ounces of the largest prunes by more than 45 prunes per pound.
 
-[33 FR 19162, Dec. 24, 1968, as amended at 48 FR 57261, Dec. 29, 1983]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.157 was suspended indefinitely.
+[33 FR 19162, Dec. 24, 1968, as amended at 48 FR 57261, Dec. 29, 1983]

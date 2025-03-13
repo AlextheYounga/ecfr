@@ -1,5 +1,7 @@
 ##### § 351.503 Benefit. #####
 
+Link to an amendment published at 89 FR 20840, Mar. 25, 2024.
+
 (a) *Specific rules.* In the case of a government program for which a specific rule for the measurement of a benefit is contained in this subpart E, the Secretary will measure the extent to which a financial contribution (or income or price support) confers a benefit as provided in that rule. For example, § 351.504(a) prescribes the specific rule for measurement of the benefit of grants.
 
 (b) *Other subsidies*—(1) *In general.* For other government programs, the Secretary normally will consider a benefit to be conferred where a firm pays less for its inputs (*e.g.,* money, a good, or a service) than it otherwise would pay in the absence of the government program, or receives more revenues than it otherwise would earn.

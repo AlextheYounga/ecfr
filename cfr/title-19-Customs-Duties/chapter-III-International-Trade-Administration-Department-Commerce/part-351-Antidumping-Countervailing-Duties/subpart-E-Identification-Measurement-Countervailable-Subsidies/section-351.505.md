@@ -1,5 +1,7 @@
 ##### § 351.505 Loans. #####
 
+Link to an amendment published at 89 FR 20840, Mar. 25, 2024.
+
 (a) *Benefit*—(1) *In general.* In the case of a loan, a benefit exists to the extent that the amount a firm pays on the government-provided loan is less than the amount the firm would pay on a comparable commercial loan(s) that the firm could actually obtain on the market. *See* section 771(5)(E)(ii) of the Act. In making the comparison called for in the preceding sentence, the Secretary normally will rely on effective interest rates.
 
 (2) *“Comparable commercial loan” defined*—(i) *“Comparable” defined.* In selecting a loan that is “comparable” to the government-provided loan, the Secretary normally will place primary emphasis on similarities in the structure of the loans (*e.g.,* fixed interest rate v. variable interest rate), the maturity of the loans (*e.g.,* short-term v. long-term), and the currency in which the loans are denominated.

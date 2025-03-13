@@ -1,9 +1,13 @@
-##### 552.238-112 Definition (Federal Supply Schedules)—Non-Federal Entity. #####
+##### 552.238-112 Definitions—Federal Supply Schedule Contracts. #####
 
-As prescribed in 538.7004(a), insert the following clause:
+As prescribed in 538.273(d) insert the following clause:
 
-Definition (Federal Supply Schedules)—Non-Federal Entity (MAY 2019)
+Definitions-Federal Supply Schedule Contracts (Mar 2024)
 
-Ordering activity (also called “ordering agency” and “ordering office”) means an eligible ordering activity (see 552.238-113), authorized to place orders under Federal Supply Schedule contracts.
+As used in this contract,
 
-(End of clause)[84 FR 17046, Apr. 23, 2019]
+*Eligible* means an entity that meets the requirements prescribed by statute, regulation, or other authority for purposes of being able to use Federal Supply Schedule (FSS) contracts. Information about FSS eligibility is available at *https://www.gsa.gov/eligibilitydeterminations.*
+
+*Ordering activity* (also called “ordering agency” and “ordering office”) means an entity that is eligible to place orders or establish blanket purchase agreements (BPA) under this contract.
+
+(End of clause)

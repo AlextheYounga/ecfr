@@ -1,5 +1,7 @@
 ##### § 351.225 Scope rulings. #####
 
+Link to an amendment published at 89 FR 20833, Mar. 25, 2024.
+
 (a) *Introduction.* Questions sometimes arise as to whether a particular product is covered by the scope of an antidumping or countervailing duty order. Such questions may arise for a variety of reasons given that the description of the merchandise subject to the scope is written in general terms. The Secretary will initiate and conduct a scope inquiry and issue a scope ruling to determine whether or not a product is covered by the scope of an order at the request of an interested party or on the Secretary's initiative. A scope ruling that a product is covered by the scope of an order is a determination that the product has always been covered by the scope of that order. This section contains rules and procedures regarding scope rulings, including scope ruling applications, scope inquiries, and standards used in determining whether a product is covered by the scope of an order. Unless otherwise specified, the procedures as described in subpart C of this part (§§ 351.301 through 351.308 and §§ 351.312 through 351.313) apply to this section.
 
 (b) *Self-initiation of a scope inquiry.* If the Secretary determines from available information that an inquiry is warranted to determine whether a product is covered by the scope of an order, the Secretary may initiate a scope inquiry by publishing a notice of initiation in the Federal Register.

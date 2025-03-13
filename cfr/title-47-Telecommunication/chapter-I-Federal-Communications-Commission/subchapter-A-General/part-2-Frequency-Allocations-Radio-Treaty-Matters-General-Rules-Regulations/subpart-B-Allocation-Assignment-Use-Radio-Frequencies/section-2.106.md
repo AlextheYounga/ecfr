@@ -3406,4 +3406,6 @@ Table 23 to Paragraph (d)(66)(i)
 
 (iii) The GOES satellite receiver shall not claim protection from existing and future stations in the fixed service (ITU Radio Regulation No. 5.43A does not apply).
 
-[49 FR 2373, Jan. 19, 1984]Editorial Note: For Federal Register citations affecting § 2.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[49 FR 2373, Jan. 19, 1984]Editorial Notes: 1. For Federal Register citations affecting § 2.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2. At 89 FR 20550, Mar. 25, 2024, Table 22 of § 2.106(c)(431) was amended by removing the “Norfolk CPA” entry and renaming it as “Newport News-Norfolk CPA/PUA.” however, the amendment could not be incorporated as instructed.

@@ -1,5 +1,7 @@
 ##### § 351.226 Circumvention inquiries. #####
 
+Link to an amendment published at 89 FR 20834, Mar. 25, 2024.
+
 (a) *Introduction.* Section 781 of the Act addresses the circumvention of antidumping and countervailing duty orders. This provision recognizes that circumvention seriously undermines the effectiveness of the remedies provided by the antidumping and countervailing duty proceedings and frustrates the purposes for which these laws were enacted. Section 781 of the Act allows the Secretary to apply antidumping and countervailing duty orders in such a way as to prevent circumvention by including within the scope of the order four distinct categories of merchandise. The Secretary will initiate and conduct a circumvention inquiry at the request of an interested party or on the Secretary's initiative, and issue a circumvention determination as provided for under section 781 of the Act and the rules and procedures in this section. Unless otherwise specified, the procedures as described in subpart C of this part (§§ 351.301 through 351.308 and 351.312 through 351.313) apply to this section.
 
 (b) *Self-initiation of a circumvention inquiry.* If the Secretary determines from available information that an inquiry is warranted into the question of whether the elements necessary for a circumvention determination under section 781 of the Act exist, the Secretary may initiate a circumvention inquiry by publishing a notice of initiation in the Federal Register.

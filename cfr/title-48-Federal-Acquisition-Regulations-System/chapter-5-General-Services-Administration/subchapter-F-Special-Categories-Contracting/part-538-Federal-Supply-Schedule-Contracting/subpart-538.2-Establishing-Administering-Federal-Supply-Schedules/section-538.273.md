@@ -1,7 +1,5 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 89 FR 13284, Feb. 22, 2024.
-
 The following clauses and provisions apply to FSS solicitations and contracts, unless otherwise excepted (see 538.001) or as otherwise stated below. For example, if only used in solicitations, the prescription will clearly state this. If the language does not specify “solicitations” then the clause applies to both FSS solicitations and contracts.
 
 (a) Insert the following provisions in FSS solicitations:
@@ -122,10 +120,14 @@ The following clauses and provisions apply to FSS solicitations and contracts, u
 
 (35) 552.238-111, Environmental Protection Agency Registration Requirement. Use only for supplies when products may require registration with the Environmental Protection Agency.
 
-(36) 552.238-116, Option to Extend the Term of the FSS Contract. Use when appropriate.
+(36) 552.238-112, Definitions—Federal Supply Schedule Contracts.
 
-(37) 552.238-117, Price Adjustment—Failure to Provide Accurate Information. Use only in FSS solicitations and contracts under the MAS program. This clause is used when the contract contains the basic clause 552.238-80, Industrial Funding Fee and Sales Reporting.
+(37) 552.238-113, Authorities Supporting Use of Federal Supply Schedule Contracts.
+
+(38) 552.238-116, Option to Extend the Term of the FSS Contract. Use when appropriate.
+
+(39) 552.238-117, Price Adjustment—Failure to Provide Accurate Information. Use only in FSS solicitations and contracts under the MAS program. This clause is used when the contract contains the basic clause 552.238-80, Industrial Funding Fee and Sales Reporting.
 
 (e) Insert the following fill-in information within the blank of paragraph (d) of FAR clause 52.216-22, Indefinite Quantity: “the completion of customer order, including options, 60 months following the expiration of the FSS contract ordering period”.
 
-[89 FR 2173, Jan. 12, 2024, as amended at 89 FR 10007, Feb. 13, 2024]
+[89 FR 2173, Jan. 12, 2024, as amended at 89 FR 10007, Feb. 13, 2024; 89 FR 13284, Feb. 22, 2024]

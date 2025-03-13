@@ -12,4 +12,4 @@
 
 (2) When an administrative law judge or the Commission determines to amend or supplement a notice published in accordance with paragraph (c)(1) of this section, notice of the amendment will be published in the Federal Register.
 
-[60 FR 53119, Oct. 12, 1995, as amended at 72 FR 13960, Mar. 23, 2007; 73 FR 38320, July 7, 2008; 78 FR 23840, Apr. 19, 2013]
+[60 FR 53119, Oct. 12, 1995, as amended at 72 FR 13960, Mar. 23, 2007; 73 FR 38320, July 7, 2008; 78 FR 23480, Apr. 19, 2013]

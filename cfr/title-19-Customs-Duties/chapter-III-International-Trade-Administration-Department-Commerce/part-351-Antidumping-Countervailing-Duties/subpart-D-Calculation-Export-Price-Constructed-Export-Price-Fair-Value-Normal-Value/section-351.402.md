@@ -1,5 +1,7 @@
 ##### § 351.402 Calculation of export price and constructed export price; reimbursement of antidumping and countervailing duties. #####
 
+Link to an amendment published at 89 FR 20837, Mar. 25, 2024.
+
 (a) *Introduction.* In order to establish export price, constructed export price, and normal value, the Secretary must make certain adjustments to the price to the unaffiliated purchaser (often called the “starting price”) in both the United States and foreign markets. This regulation clarifies how the Secretary will make certain of the adjustments to the starting price in the United States that are required by section 772 of the Act.
 
 (b) *Additional adjustments to constructed export price.* In establishing constructed export price under section 772(d) of the Act, the Secretary will make adjustments for expenses associated with commercial activities in the United States that relate to the sale to an unaffiliated purchaser, no matter where or when paid. The Secretary will not make an adjustment for any expense that is related solely to the sale to an affiliated importer in the United States, although the Secretary may make an adjustment to normal value for such expenses under section 773(a)(6)(C)(iii) of the Act.

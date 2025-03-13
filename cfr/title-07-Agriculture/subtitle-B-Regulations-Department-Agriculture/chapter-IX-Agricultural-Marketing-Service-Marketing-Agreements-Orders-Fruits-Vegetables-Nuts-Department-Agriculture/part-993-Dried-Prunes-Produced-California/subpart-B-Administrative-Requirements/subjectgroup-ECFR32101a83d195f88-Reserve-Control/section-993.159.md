@@ -1,7 +1,5 @@
 ##### § 993.159 Payments for services performed with respect to reserve tonnage prunes. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 (a) *Payment for crop year of acquisition.* Each handler shall, with respect to reserve prunes held by the handler for the account of the Committee pursuant to § 993.59, be paid at a rate computed by the Committee (natural condition rate) for necessary services rendered by the handler in connection with such prunes so held during all or any part of the crop year in which the prunes were physically received from producers or dehydrators. Each handler holding reserve prunes shall perform such services to assure that the prunes are maintained in good condition. No payment will be made for prunes released by handler acceptance of diversion certificates if the handler has not stored the released prunes. The rate of payment shall be established by the Committee and must be approved by the Secretary. Following such approval, it shall be publicized as required in paragraph (e) of this section.
 
 (1) On or before July 20 of each crop year when the Committee recommends a reserve pool (except the Committee may extend this date by not more than ten business days if warranted by a late crop), the Committee shall hold a meeting to review the costs for necessary services rendered by handlers in connection with reserve prunes.
@@ -50,4 +48,4 @@ Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
 
 (e) The Committee shall give reasonable publicity to producer and handler members and alternates who serve on the Committee, commercial dehydrators, handlers, and the cooperative bargaining association(s) of each meeting to consider handler payment rates or any modification thereof, and each such meeting shall be open to them. Similar publicity shall be given to producer and handler members and alternates who serve on the Committee, commercial dehydrators, handlers, and the cooperative bargaining association(s) of each payment rate modification submitted to USDA for review and approval. The Committee shall notify producer and handler members and alternates who serve on the Committee, commercial dehydrators, handlers, and cooperative bargaining association(s) of USDA's action on payment rates and conditions for payment by first class mail and/or by electronic communications.
 
-[68 FR 17543, Apr. 10, 2003]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.159 was suspended indefinitely.
+[68 FR 17543, Apr. 10, 2003]

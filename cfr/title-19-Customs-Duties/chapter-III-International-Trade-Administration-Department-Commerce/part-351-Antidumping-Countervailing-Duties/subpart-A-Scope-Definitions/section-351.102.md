@@ -1,5 +1,7 @@
 ##### § 351.102 Definitions. #####
 
+Link to an amendment published at 89 FR 20832, Mar. 25, 2024.
+
 (a) *Introduction.* The Act contains many technical terms applicable to antidumping and countervailing duty proceedings. In the case of terms that are not defined in this section or other sections of this part, readers should refer to the relevant provisions of the Act. This section:
 
 (1) Defines terms that appear in the Act but are not defined in the Act;

@@ -12,4 +12,4 @@
 
 (c) *Submission of article as exhibit.* At the time the response is filed, if practicable, the respondent shall submit the accused article imported or sold by that respondent, unless the article has already been submitted by the complainant.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38322, July 7, 2008; 78 FR 23841, Apr. 19, 2013]
+[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38322, July 7, 2008; 78 FR 23481, Apr. 19, 2013]

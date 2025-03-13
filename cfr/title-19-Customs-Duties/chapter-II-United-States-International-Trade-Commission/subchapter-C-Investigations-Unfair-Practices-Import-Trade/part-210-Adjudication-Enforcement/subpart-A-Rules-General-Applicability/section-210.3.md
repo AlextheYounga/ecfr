@@ -26,4 +26,4 @@ As used in this part—
 
 *U.S. Customs Service* means U.S. Customs and Border Protection.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67626, Dec. 30, 1994; 73 FR 38320, July 7, 2008; 76 FR 24363, May 2, 2011; 78 FR 23840, Apr. 19, 2013]
+[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67626, Dec. 30, 1994; 73 FR 38320, July 7, 2008; 76 FR 24363, May 2, 2011; 78 FR 23480, Apr. 19, 2013]

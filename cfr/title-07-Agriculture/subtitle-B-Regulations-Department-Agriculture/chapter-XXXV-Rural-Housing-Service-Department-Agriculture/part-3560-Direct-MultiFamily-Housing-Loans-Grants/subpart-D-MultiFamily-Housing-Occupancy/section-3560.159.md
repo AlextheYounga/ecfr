@@ -1,5 +1,7 @@
 ##### § 3560.159 Termination of occupancy. #####
 
+Link to an amendment published at 89 FR 20543, Mar. 25, 2024.
+
 (a) *Tenants in violation of lease.* Borrowers, in accordance with lease agreements, may terminate or refuse to renew a tenant's lease only for material non-compliance with the lease provisions, material non-compliance with the occupancy rules, or other good causes. Prior to terminating a lease, the borrower must give the tenant written notice of the violation and give the tenant an opportunity to correct the violation. Subsequently, termination may only occur when the incidences related to the termination are documented and there is documentation that the tenant was given notice prior to the initiation of the termination action that their activities would result in occupancy termination.
 
 (1) Material non-compliance with lease provisions or occupancy rules, for purposes of occupancy termination by a borrower, includes actions such as:

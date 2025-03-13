@@ -1,7 +1,3 @@
 ##### § 993.57 Holding requirement and delivery. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 Each handler shall at all times, hold, in his possession or under his control, in proper storage for the account of the committee, free and clear of all liens, the quantity of prunes necessary to meet his reserve obligation, less any quantity: (a) For which he has a temporary deferment pursuant to § 993.58(a); (b) of prune plums (dried weight natural condition basis) diverted pursuant to § 993.62 as shown on diversion certificates held by him, or credited by the committee against his reserve obligation; (c) disposed of by him under a sales contract of the committee; (d) delivered by him to the committee, or to a person designated by it, pursuant to its instructions; and (e) for which he is otherwise relieved by the committee of such responsibility to so hold prunes. No handler may transfer a reserve obligation but any handler may, upon notification to the committee arrange to hold reserve prunes on the premises of another handler or in approved commercial storage, under conditions of proper storage. The committee may, after giving reasonable notice, require a handler to deliver to it, or to a person designated by it, f.o.b. handler's warehouse or point of storage, reserve prunes held by him. The committee may require that such delivery consist of natural condition prunes or it may arrange for such delivery to consist of processed prunes.
-
-Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.57 was suspended indefinitely.

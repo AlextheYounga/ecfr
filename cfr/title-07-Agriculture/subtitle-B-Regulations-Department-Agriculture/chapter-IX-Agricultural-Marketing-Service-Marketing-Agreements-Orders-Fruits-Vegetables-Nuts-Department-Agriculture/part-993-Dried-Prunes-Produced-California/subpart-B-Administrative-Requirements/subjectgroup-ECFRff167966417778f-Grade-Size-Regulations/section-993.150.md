@@ -1,7 +1,5 @@
 ##### § 993.150 Disposition of prunes by handlers. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 (a) *Inspection stations.* An inspection station shall be any plant of a handler, and any other place where he handles prunes.
 
 (b) *Outgoing inspection.* Except as otherwise specifically provided, no handler shall ship or otherwise make final disposition of natural condition prunes or of processed prunes unless he has, prior to such shipment or final disposition, had them inspected and obtained a certificate showing that such prunes meet the effective minimum standards. Such inspection shall be made during that portion of the final preparation of the prunes for shipment or other final disposition as will permit proper sampling, whether in-line or floor inspection, and no handler shall perform such final preparation unless an inspector is present. The handler shall furnish promptly to the inspector a copy of the shipping or disposition order or other documents, which shall show the date of each shipment or disposition, the applicable reference number thereof, and an adequate description of the shipment or disposition. For the prunes inspected each day which meet the applicable minimum grade and size requirements for standard prunes, or standard processed prunes, the handler shall cause the inspector to issue in triplicate a signed certificate containing the following information:
@@ -66,4 +64,4 @@ Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
 
 (ii) *Undersized non-French prunes.* Whenever an undersized regulation specifies an opening for non-French prunes, any quantity of any size of non-French prunes disposed of by a handler in compliance with § 993.50(g) shall satisfy a handler's undersized disposition.
 
-[26 FR 8280, Sept. 2, 1961, as amended at 27 FR 458, Jan. 17, 1962; 29 FR 2331, Feb. 11, 1964; 33 FR 14172, Sept. 19, 1968; 35 FR 5108, Mar. 24, 1970; 35 FR 11381, July 16, 1970; 37 FR 15980, Aug. 9, 1972; 40 FR 52838, Nov. 13, 1975; 48 FR 57261, Dec. 29, 1983; 57 FR 56243, Nov. 27, 1992; 58 FR 13698, Mar. 15, 1993; 59 FR 10228, Mar. 3, 1994]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.150 was suspended indefinitely.
+[26 FR 8280, Sept. 2, 1961, as amended at 27 FR 458, Jan. 17, 1962; 29 FR 2331, Feb. 11, 1964; 33 FR 14172, Sept. 19, 1968; 35 FR 5108, Mar. 24, 1970; 35 FR 11381, July 16, 1970; 37 FR 15980, Aug. 9, 1972; 40 FR 52838, Nov. 13, 1975; 48 FR 57261, Dec. 29, 1983; 57 FR 56243, Nov. 27, 1992; 58 FR 13698, Mar. 15, 1993; 59 FR 10228, Mar. 3, 1994]

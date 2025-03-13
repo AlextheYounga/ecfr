@@ -1,0 +1,3 @@
+##### 538.7002-3 Public health emergencies program. #####
+
+42 U.S.C. 247d allows State or local governments, as defined in 40 U.S.C. 502(c)(3), to purchase supplies and services when expending Federal grant funds in response to a public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Services Act. The GSA program that implements this authority is called the Public Health Emergencies program.

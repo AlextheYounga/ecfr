@@ -1,0 +1,3 @@
+##### 538.7002-5 Qualified relief or disaster assistance organizations. #####
+
+40 U.S.C. 502(e) allows the American National Red Cross and other qualified organizations, as defined in 40 U.S.C. 502(e)(3), to purchase supplies or services. Purchases under this authority by the American National Red Cross shall be used in furtherance of the purposes of the American National Red Cross set forth in 36 U.S.C. 300102. Purchases under this authority by other qualified organizations shall be used in furtherance of purposes determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency.

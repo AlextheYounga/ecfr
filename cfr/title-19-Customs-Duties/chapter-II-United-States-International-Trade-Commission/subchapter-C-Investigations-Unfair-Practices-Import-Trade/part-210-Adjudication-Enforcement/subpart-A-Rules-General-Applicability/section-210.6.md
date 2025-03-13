@@ -6,4 +6,4 @@
 
 (c) Whenever a party has the right or is required to perform some act or to take some action within a prescribed period after service of a Commission document upon it, and the document was served by express delivery, the deadline shall be computed by adding to the end of the prescribed period the additional time allotted under § 201.16(e), unless the Commission, the administrative law judge, or another section of this part specifically provides otherwise.
 
-[78 FR 23840, Apr. 19, 2013]
+[78 FR 23480, Apr. 19, 2013]

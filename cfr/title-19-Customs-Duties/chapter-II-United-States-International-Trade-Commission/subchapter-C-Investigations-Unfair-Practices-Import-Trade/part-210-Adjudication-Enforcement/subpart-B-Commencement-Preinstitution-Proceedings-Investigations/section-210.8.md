@@ -56,4 +56,4 @@ The same requirements apply for the filing of a supplement or amendment to the c
 
 (d) *Upon the initiative of the Commission.* The Commission may upon its initiative commence a preinstitution proceeding based upon any alleged violation of section 337 of the Tariff Act of 1930.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 60 FR 32444, June 22, 1995; 68 FR 32978, June 3, 2003; 73 FR 38320, July 7, 2008; 76 FR 61945, Oct. 6, 2011; 76 FR 64808, Oct. 19, 2011; 78 FR 23841, Apr. 19, 2013]
+[59 FR 39039, Aug. 1, 1994, as amended at 60 FR 32444, June 22, 1995; 68 FR 32978, June 3, 2003; 73 FR 38320, July 7, 2008; 76 FR 61945, Oct. 6, 2011; 76 FR 64808, Oct. 19, 2011; 78 FR 23481, Apr. 19, 2013]

@@ -1,0 +1,3 @@
+##### 538.7002-10 1122 Program. #####
+
+10 U.S.C. 281 allows States and units of local government, as defined in 10 U.S.C. 281, to purchase equipment suitable for counter-drug, homeland security, and emergency response activities through the Department of Defense. GSA, in coordination with the Secretary of Defense, produces and maintains a catalog in accordance with the procedures established by the Secretary of Defense. The catalog includes access to equipment available under FSS contracts. States and units of local government interested in using the 1122 program should contact their designated State point of contact.

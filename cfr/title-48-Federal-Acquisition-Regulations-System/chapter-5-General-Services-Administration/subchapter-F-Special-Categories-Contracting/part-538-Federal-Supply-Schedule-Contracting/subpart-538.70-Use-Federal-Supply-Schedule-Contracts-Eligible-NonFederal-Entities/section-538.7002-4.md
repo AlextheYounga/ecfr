@@ -1,0 +1,3 @@
+##### 538.7002-4 Qualified nonprofit agencies for the blind or other severely disabled. #####
+
+40 U.S.C. 502(b) allows qualified nonprofit agencies for the blind or other severely disabled, as defined by 41 U.S.C. 8501, that are providing a commodity or service to the Government under 41 U.S.C. chapter 85, to purchase supplies or services. Purchases under this authority must be used directly in making or providing to the Government a commodity or service that has been determined by the Committee for Purchase From People Who Are Blind or Severely Disabled under 41 U.S.C. 8503 to be suitable for procurement by the Government.

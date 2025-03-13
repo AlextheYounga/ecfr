@@ -1,7 +1,5 @@
 ##### § 993.52 Modification. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 Minimum standards, pack specifications or size regulations, including the openings prescribed in § 993.49(c), may be modified by the Secretary, on the basis of a recommendation of the committee or other information, whenever he finds that such modification would tend to effectuate the declared policy of the act.
 
-[26 FR 476, Jan. 19, 1961, as amended at 37 FR 862, Jan. 20, 1972]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.52 was suspended indefinitely.
+[26 FR 476, Jan. 19, 1961, as amended at 37 FR 862, Jan. 20, 1972]

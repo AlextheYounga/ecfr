@@ -1,7 +1,5 @@
 ##### § 993.97 Exhibit A; minimum standards. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 I. Minimum standards for natural condition prunes:
 
 A. *Defects.* Defects are: (1) Off-color; (2) inferior meat condition; (3) end cracks; (4) fermentation; (5) skin or flesh damage; (6) scab; (7) burned; (8) mold; (9) imbedded dirt; (10) insect infestation; (11) decay.
@@ -97,5 +95,3 @@ C. *Maximum tolerances.* Tolerance allowances shall be on a weight basis and sha
 (5) The combined tolerance allowance for end cracks, fermentation, skin or flesh damage, scab, burned, mold, imbedded dirt, insect infestation, and decay shall not exceed ten percent (10%), except that the first eight percent (8%) of end cracks shall be given one-half value and any additional percentage of end cracks shall be given full value.
 
 (6) The combined tolerance allowance for off-color, inferior meat condition, end cracks, fermentation, skin or flesh damage, scab, burned, mold, imbedded dirt, insect infestation, and decay shall not exceed twenty percent (20%), except that the first eight percent (8%) of end cracks shall be given one-half value and any additional percentage of end cracks shall be given full value.
-
-Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.97 was suspended indefinitely.

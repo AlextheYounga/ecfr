@@ -1,7 +1,5 @@
 ##### § 993.65 Disposition of reserve prunes. #####
 
-Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
-
 (a) *Committee's right of disposition.* The committee shall have the power and authority to sell or dispose of any and all reserve prunes (1) to meet demand either (i) as domestic trade demand, or (ii) as foreign trade demand, or (2) for use in any outlet, defined in rules and procedures, established by the Secretary after recommendation of the committee, noncompetitive with normal outlets for salable prunes.
 
 (b) *Methods of disposition.* The committee may, for any of the purposes of § 993.65(a), offer to sell and sell reserve prunes to handlers for disposition or sale by them in specified outlets. Sale of reserve prunes by the committee to any handler for resale in such outlets or for resale to other persons for sale in such outlets shall be governed by the provisions of a sales agreement, executed by the handler with the committee. The committee may refuse to sell reserve prunes to any handler if the handler violates the terms and conditions of the agreement or other provisions of this part. The committee may sell reserve prunes into any outlet in which direct selling is determined to be more appropriate.
@@ -12,4 +10,4 @@ Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
 
 (e) *Distribution of proceeds.* Expenses incurred by the committee for the receiving, handling, holding, or disposing of any quantity of reserve prunes shall be charged against the proceeds of sales of such prunes. Net proceeds from the disposition of reserve prunes shall be distributed by the committee either directly, or through handlers as agents of the committee, under safeguards to be established by the committee, to persons in proportion to their contributions thereto, or to their successors in interest, with appropriate grade and size differentials as established by the committee. Progress payments may be made by the committee as sufficient funds accumulate. Distribution of the proceeds in connection with the reserve prunes contributed by a cooperative marketing association shall be made to such association, if it so requests.
 
-[30 FR 9800, Aug. 6, 1965]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.65 was suspended indefinitely.
+[30 FR 9800, Aug. 6, 1965]

@@ -30,4 +30,4 @@
 
 (f) When the Commission or the administrative law judge issues a confidential version of an order, initial determination, opinion, or other document, the Commission, or the presiding administrative law judge if the administrative law judge has issued the confidential version, shall issue any public version of the document within 30 days, unless good cause exists to extend the deadline. An administrative law judge or the Commission may extend this time by order. Upon request by the Commission, or the administrative law judge if the administrative law judge has issued the confidential version, parties must provide support in the record for their claim of confidentiality, pursuant § 201.6 of this chapter and § 210.4 of this subpart for any proposed redactions that parties may submit to the Commission or the administrative law judge for the preparation of any public version.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67626, Dec. 30, 1994; 60 FR 32444, June 22, 1995; 78 FR 23840, Apr. 19, 2013]
+[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67626, Dec. 30, 1994; 60 FR 32444, June 22, 1995; 78 FR 23480, Apr. 19, 2013]

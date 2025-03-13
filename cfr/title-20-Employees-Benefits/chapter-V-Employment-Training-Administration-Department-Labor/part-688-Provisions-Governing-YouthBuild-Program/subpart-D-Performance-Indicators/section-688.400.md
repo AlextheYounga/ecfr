@@ -1,7 +1,5 @@
 ##### § 688.400 What are the performance indicators for YouthBuild grants? #####
 
-Link to an amendment published at 89 FR 13614, Feb. 23, 2024.
-
 The performance indicators for YouthBuild grants include:
 
 (a) The percentage of program participants who are in education and training activities, or in unsubsidized employment, during the second quarter after exit from the program;
@@ -14,6 +12,8 @@ The performance indicators for YouthBuild grants include:
 
 (e) The percentage of program participants who, during a program year, are in an education and training program that leads to a recognized postsecondary credential or employment and who are achieving measurable skill gains toward such a credential or employment;
 
-(f) The indicator of effectiveness in serving employers described at § 677.155(c)(6) of this chapter; and
+(f) The percentage of participants in unsubsidized employment during the second quarter after exit from the program who were employed by the same employer in the second and fourth quarters after exit; and
 
 (g) Other indicators of performance as may be required by the Secretary.
+
+[81 FR 56460, Aug. 19, 2016, as amended at 89 FR 13614, Feb. 23, 2024]
