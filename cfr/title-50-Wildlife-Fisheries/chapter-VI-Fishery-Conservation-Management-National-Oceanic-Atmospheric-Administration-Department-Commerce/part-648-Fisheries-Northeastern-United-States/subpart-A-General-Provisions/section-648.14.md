@@ -1282,11 +1282,9 @@
 
 (i) Retain, possess, or land thorny skates taken in or from the EEZ portion of the skate management unit specified at § 648.2.
 
-(ii) Retain, possess, or land barndoor skates taken in or from the EEZ portion of the skate management unit when fishing under a bait letter of authorization as described in § 648.322(c); when fishing under a NE multispecies Category B DAS as described under § 648.322(b); when fishing under the incidental skate possession limit for vessels not under a DAS as described in § 648.322(b)(4); or when fishing in a NE multispecies DAS exemption program that allows the possession of skate or skate parts in an amount not to exceed 10 percent by weight of all other species on board, as specified in § 648.80(b)(3)(ii), without a NE multispecies or monkfish DAS.
+(ii) Retain, possess, or land barndoor skates taken in or from the EEZ portion of the skate management unit when fishing under a bait letter of authorization as described in § 648.322(c).
 
-(iii) Discard any skate wings when in possession of barndoor skate wings.
-
-(iv) Retain, possess, or land smooth skates taken in or from the GOM RMA described at § 648.80(a)(1)(i).
+(iii) [Reserved]
 
 (3) *Skate permitted vessel requirements.* It is unlawful for any owner or operator of a vessel holding a valid Federal skate permit to do any of the following:
 

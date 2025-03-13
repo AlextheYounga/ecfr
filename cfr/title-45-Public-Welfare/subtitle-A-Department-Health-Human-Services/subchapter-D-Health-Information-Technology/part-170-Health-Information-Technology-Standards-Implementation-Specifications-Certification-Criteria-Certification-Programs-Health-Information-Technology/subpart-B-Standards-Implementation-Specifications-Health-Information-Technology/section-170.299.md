@@ -1,7 +1,5 @@
 ##### § 170.299 Incorporation by reference. #####
 
-Link to an amendment published at 89 FR 51265, June 17, 2024.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(b) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the U.S. Department of Health and Human Services (HHS) and at the National Archives and Records Administration (NARA). Contact HHS at: U.S. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology, 330 C Street SW, Washington, DC 20201; call ahead to arrange for inspection at 202-690-7151. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) American National Standards Institute, Health Information Technology Standards Panel (HITSP) Secretariat, 25 West 43rd Street—Fourth Floor, New York, NY 10036, *http://www.hitsp.org.*
@@ -172,13 +170,15 @@ Link to an amendment published at 89 FR 51265, June 17, 2024.
 
 (2) ITU-T E.164, Series E: Overall Network Operation, Telephone Service, Service Operation and Human Factors, International operation—Numbering plan of the international telephone service, The international public telecommunication numbering plan, November 2010, IBR approved for § 170.207(q).
 
-(k) National Council for Prescription Drug Programs, Incorporated, 9240 E. Raintree Drive, Scottsdale, AZ 85260-7518; Telephone (480) 477-1000; and Facsimile (480) 767-1042 or *http://www.ncpdp.org.*
+(k) National Council for Prescription Drug Programs (NCPDP), Incorporated, 9240 E Raintree Drive, Scottsdale, AZ 85260-7518; phone (480) 477-1000; fax: (480) 767-1042: website: *www.ncpdp.org.*
 
-(1) National Council for Prescription Drug Programs Prescriber/Pharmacist Interface SCRIPT Standard, Implementation Guide, Version 8, Release 1, October 2005, IBR approved for § 170.205.
+(1) NCPDP SCRIPT Standard, Implementation Guide, Version 2017071, ANSI-approved July 28, 2017; IBR approved for § 170.205(b).
 
-(2) SCRIPT Standard, Implementation Guide, Version 10.6, October, 2008, (Approval date for ANSI: November 12, 2008), IBR approved for § 170.205.
+(2) NCPDP SCRIPT Standard, Implementation Guide, Version 2023011, ANSI-approved January 17, 2023; IBR approved for § 170.205(b).
 
-(3) SCRIPT Standard, Implementation Guide, Version 2017071 (Approval Date for ANSI: July 28, 2017), IBR approved for § 170.205(b).
+(3) NCPDP Real-Time Prescription Benefit Standard, Implementation Guide, Version 13, ANSI-approved May 19, 2022; IBR approved for § 170.205(c).
+
+(4) NCPDP Formulary and Benefit Standard, Implementation Guide, Version 60, ANSI-approved April 12, 2023; IBR approved for § 170.205(u).
 
 (l) National Institute of Standards and Technology, Information Technology Laboratory, National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899-8930, *http://csrc.nist.gov/groups/STM/cmvp/standards.html.*
 
@@ -260,4 +260,4 @@ Link to an amendment published at 89 FR 51265, June 17, 2024.
 
 (2) [Reserved]
 
-[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54285, Sept. 4, 2012; 77 FR 72991, Dec. 7, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62745, Oct. 16, 2015; 81 FR 72463, Oct. 19, 2016; 85 FR 25941, May 1, 2020; 85 FR 70082, Nov. 4, 2020; 89 FR 1428, Jan. 9, 2024]
+[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54285, Sept. 4, 2012; 77 FR 72991, Dec. 7, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62745, Oct. 16, 2015; 81 FR 72463, Oct. 19, 2016; 85 FR 25941, May 1, 2020; 85 FR 70082, Nov. 4, 2020; 89 FR 1428, Jan. 9, 2024; 89 FR 51265, June 17, 2024]

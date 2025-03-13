@@ -1,7 +1,5 @@
 ##### § 10.350 WEA testing and proficiency training requirements. #####
 
-Link to an amendment published at 88 FR 86837, Dec. 15, 2023.Link to an update of the above amendment published at 89 FR 51265, June 17, 2024.
-
 This section specifies the testing that is required of Participating CMS Providers.
 
 (a) *Required monthly tests.* Testing of the WEA from the Federal Alert Gateway to each Participating CMS Provider's infrastructure shall be conducted monthly.
@@ -32,4 +30,14 @@ This section specifies the testing that is required of Participating CMS Provide
 
 (4) Participating CMS Providers shall provide their subscribers with the option to opt in to receive State/Local WEA Tests.
 
-[73 FR 47558, Aug. 14, 2008, as amended at 78 FR 16808, Mar. 19, 2013; 81 FR 75726, Nov. 1, 2016]
+(d) *Performance and Public Awareness Tests.* Participating CMS Providers may participate in no more than two (2) WEA tests per county (or county equivalent), per calendar year that the public receives by default, provided that the entity conducting the test:
+
+(1) Conducts outreach and notifies the public before the test that live event codes will be used, but that no emergency is, in fact, occurring;
+
+(2) To the extent technically feasible, states in the test message that the event is only a test;
+
+(3) Coordinates the test among Participating CMS Providers and with State and local emergency authorities, the relevant SECC (or SECCs, if the test could affect multiple States), and first responder organizations, such as PSAPs, police, and fire agencies); and
+
+(4) Provides in widely accessible formats the notification to the public required by this paragraph that the test is only a test and is not a warning about an actual emergency.
+
+[73 FR 47558, Aug. 14, 2008, as amended at 78 FR 16808, Mar. 19, 2013; 81 FR 75726, Nov. 1, 2016; 88 FR 86837, December 15, 2023; 89 FR 51265, June 17, 2024]

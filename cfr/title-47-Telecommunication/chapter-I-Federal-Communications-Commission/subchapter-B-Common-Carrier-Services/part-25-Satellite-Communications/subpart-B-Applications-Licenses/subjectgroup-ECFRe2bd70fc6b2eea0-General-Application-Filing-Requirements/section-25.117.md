@@ -1,6 +1,6 @@
 ##### § 25.117 Modification of station license. #####
 
-Link to an amendment published at 87 FR 72404, Nov. 25, 2022.
+Link to an amendment published at 87 FR 72404, Nov. 25, 2022.Link to an amendment published at 89 FR 58072, July 17, 2024.
 
 (a) Except as provided for in § 25.118 (Modifications not requiring prior authorization), no modification of a radio station governed by this part which affects the parameters or terms and conditions of the station authorization shall be made except upon application to and grant of such application by the Commission.
 

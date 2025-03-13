@@ -1,6 +1,6 @@
 ##### § 25.203 Choice of sites and frequencies. #####
 
-Link to an amendment published at 87 FR 72405, Nov. 25, 2022.
+Link to an amendment published at 87 FR 72405, Nov. 25, 2022.Link to an amendment published at 89 FR 58072, July 17, 2024.
 
 (a) Sites and frequencies for earth stations, other than ESVs, operating in frequency bands shared with equal rights between terrestrial and space services, shall be selected, to the extent practicable, in areas where the surrounding terrain and existing frequency usage are such as to minimize the possibility of harmful interference between the sharing services.
 

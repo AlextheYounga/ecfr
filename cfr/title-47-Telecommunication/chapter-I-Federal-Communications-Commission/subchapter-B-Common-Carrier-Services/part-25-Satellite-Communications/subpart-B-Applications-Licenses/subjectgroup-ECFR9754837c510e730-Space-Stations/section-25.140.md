@@ -1,6 +1,6 @@
 ##### § 25.140 Further requirements for license applications for GSO space station operation in the FSS and the 17/24 GHz BSS. #####
 
-Link to an amendment published at 86 FR 49489, Sept. 3, 2021.Link to an amendment published at 87 FR 72404, Nov. 25, 2022.
+Link to an amendment published at 86 FR 49489, Sept. 3, 2021.Link to an amendment published at 87 FR 72404, Nov. 25, 2022.Link to an amendment published at 89 FR 58072, July 17, 2024.Link to a correction published at 89 FR 58074, July 17, 2024.
 
 (a)(1) In addition to the information required by § 25.114, an applicant for GSO FSS space station operation involving transmission of analog video signals must certify that the proposed analog video operation has been coordinated with operators of authorized co-frequency space stations within six degrees of the requested orbital location.
 

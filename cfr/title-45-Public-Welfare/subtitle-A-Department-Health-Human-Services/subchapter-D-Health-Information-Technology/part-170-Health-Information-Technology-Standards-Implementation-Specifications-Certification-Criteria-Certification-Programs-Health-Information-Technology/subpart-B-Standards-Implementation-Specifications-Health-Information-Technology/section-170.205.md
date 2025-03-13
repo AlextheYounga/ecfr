@@ -1,7 +1,5 @@
 ##### § 170.205 Content exchange standards and implementation specifications for exchanging electronic health information. #####
 
-Link to an amendment published at 89 FR 51265, June 17, 2024.
-
 The Secretary adopts the following content exchange standards and associated implementation specifications:
 
 (a) *Patient summary record.* (1) [Reserved]
@@ -16,11 +14,13 @@ The Secretary adopts the following content exchange standards and associated imp
 
 (6) *Standard.* HL7® CDA® R2 Implementation Guide: C-CDA Templates for Clinical Notes STU Companion Guide, Release 4.1—US Realm (incorporated by reference, see § 170.299).
 
-(b) *Electronic prescribing*—(1) *Standard.* National Council for Prescription Drug Programs (NCPDP): SCRIPT Standard Implementation Guide; Version 2017071 (incorporated by reference in § 170.299).
+(b) *Electronic prescribing*—(1) *Standard.* National Council for Prescription Drug Programs (NCPDP): SCRIPT Standard Implementation Guide; Version 2017071 (incorporated by reference in § 170.299). The Secretary's adoption of this standard expires on January 1, 2028.
 
-(2) *Standard.* NCPDP SCRIPT Standard, Implementation Guide, Version 10.6 (incorporated by reference in § 170.299).
+(2) *Standard.* NCPDP SCRIPT Standard, Implementation Guide, Version 2023011 (incorporated by reference in § 170.299).
 
-(c) [Reserved]
+(c) *Real-time prescription benefit*—(1) *Standard.* NCPDP Real-Time Prescription Benefit Standard, Implementation Guide, Version 13 (incorporated by reference in § 170.299).
+
+(2) [Reserved]
 
 (d) *Electronic submission to public health agencies for surveillance or reporting.* (1) [Reserved]
 
@@ -92,4 +92,8 @@ The Secretary adopts the following content exchange standards and associated imp
 
 (4) *Standard.* Reportable Conditions Trigger Codes Value Set for Electronic Case Reporting. (incorporated by reference, see § 170.299).
 
-[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54284, Sept. 4, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62743, Oct. 16, 2015; 85 FR 25940, May 1, 2020; 85 FR 70082, Nov. 4, 2020; 89 FR 1426, Jan. 9, 2024]
+(u) *Formulary and benefit*—(1) *Standard.* NCPDP Formulary and Benefit Standard Version 60 (incorporated by reference in § 170.299).
+
+(2) [Reserved]
+
+[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54284, Sept. 4, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62743, Oct. 16, 2015; 85 FR 25940, May 1, 2020; 85 FR 70082, Nov. 4, 2020; 89 FR 1426, Jan. 9, 2024; 89 FR 51265, June 17, 2024]
