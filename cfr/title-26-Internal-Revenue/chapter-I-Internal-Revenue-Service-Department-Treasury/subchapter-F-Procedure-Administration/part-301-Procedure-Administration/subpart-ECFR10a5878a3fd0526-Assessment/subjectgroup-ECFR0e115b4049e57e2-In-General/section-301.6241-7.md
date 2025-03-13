@@ -1,5 +1,7 @@
 ##### § 301.6241-7 Treatment of special enforcement matters. #####
 
+Link to an amendment published at 89 FR 17596, Mar. 11, 2024.
+
 (a) *Items that involve special enforcement matters.* In accordance with section 6241(11)(B) of the Internal Revenue Code (Code), the partnership-related items (as defined in § 301.6241-1(a)(6)(ii)) described in this section have been determined to involve special enforcement matters. If the rules in this section apply, only the portion of the partnership-related item to which the special enforcement matter applies may be adjusted without regard to subchapter C of chapter 63. Nothing in this section prohibits the Internal Revenue Service (IRS) from adjusting the entire partnership-related item under subchapter C of chapter 63. See paragraph (i) of this section for rules coordinating adjustments made under subchapter C of chapter 63 with adjustments made without regard to subchapter C of chapter 63.
 
 (b) *Partnership-related items underlying items that are not partnership-related items*—(1) *In general.* The IRS may determine that the rules of subchapter C of chapter 63 of the Code (subchapter C of chapter 63) do not apply to an adjustment to a partnership-related item of a partnership if—

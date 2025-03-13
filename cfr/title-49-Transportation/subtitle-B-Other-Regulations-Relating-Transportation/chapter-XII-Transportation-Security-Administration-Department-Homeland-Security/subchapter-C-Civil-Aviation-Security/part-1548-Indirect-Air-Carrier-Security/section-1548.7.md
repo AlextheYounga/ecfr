@@ -1,7 +1,5 @@
 ##### § 1548.7 Approval, amendment, annual renewal, and withdrawal of approval of the security program. #####
 
-Link to an amendment published at 89 FR 8557, Feb. 8, 2024.
-
 (a) *Original Application*—(1) *Application.* The applicant must apply for a security program in a form and a manner prescribed by TSA not less than 90 calendar days before the applicant intends to begin operations. The application must be in writing and include:
 
 (i) The business name; other names, including doing business as; state of incorporation, if applicable; and tax identification number.
@@ -32,9 +30,9 @@ Link to an amendment published at 89 FR 8557, Feb. 8, 2024.
 
 (3) *Commencement of operations.* The indirect air carrier may operate under a security program when it meets all requirements, including but not limited to successful completion of training and Security Threat Assessments by relevant personnel.
 
-(4) *Duration of security program.* The security program will remain effective until the end of the calendar month one year after the month it was approved.
+(4) *Duration of security program.* The security program will remain effective until the end of the calendar month 3 years after the month it was approved, or until the program has been surrendered or withdrawn, whichever is earlier.
 
-(5) *Requirement to report changes in information.* Each indirect air carrier with an approved security program under this part must notify TSA, in a form and manner approved by TSA, of any changes to the information submitted during its initial application.
+(5) *Requirement to report changes in information.* Each indirect air carrier with an approved security program under this part must notify TSA, in a form and manner approved by TSA, of any changes to the information submitted during its initial or renewal application.
 
 (i) This notification must be submitted to the designated official not later than 30 days after the date the change occurred.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 89 FR 8557, Feb. 8, 2024.
 
 (b) *Renewal Application.* Upon timely submittal of an application for renewal, and unless and until TSA denies the application, the indirect air carrier's approved security program remains in effect.
 
-(1) Unless otherwise authorized by TSA, each indirect air carrier that has a security program under this part must timely submit to TSA, at least 30 calendar days prior to the first day of the anniversary month of initial approval of its security program, an application for renewal of its security program in a form and a manner approved by TSA.
+(1) Unless otherwise authorized by TSA, each indirect air carrier that has a security program under this part must timely submit to TSA, at least 30 calendar days before the 36th month after the initial approval of its security program, an application for renewal of its security program in a form and a manner approved by TSA.
 
 (2) The application for renewal must be in writing and include a signed statement that the indirect air carrier has reviewed and ensures the continuing accuracy of the contents of its initial application for a security program, subsequent renewal applications, or other submissions to TSA confirming a change of information and noting the date such applications and submissions were sent to TSA, including the following certification:
 
@@ -56,7 +54,7 @@ The IAC understands that intentional falsification of certification to an air ca
 
 (ii) The renewal of its security program is not contrary to the interests of security and the public interest.
 
-(4) If TSA determines that the indirect air carrier meets the requirements of paragraph (b)(3) of this section, it will renew the indirect air carrier's security program. The security program will remain effective until the end of the calendar month one year after the month it was renewed.
+(4) If TSA determines that the indirect air carrier meets the requirements of paragraph (b)(3) of this section, it will renew the indirect air carrier's security program. The security program will remain effective until the end of the calendar month 3 years after the month it was renewed, or until the program has been surrendered or withdrawn, whichever is earlier.
 
 (c) *Amendment requested by an indirect air carrier or applicant.* An indirect air carrier or applicant may file a request for an amendment to its security program with the TSA designated official at least 45 calendar days before the date it proposes for the amendment to become effective, unless the designated official allows a shorter period. Any indirect air carrier may submit a group proposal for an amendment that is on behalf of it and other indirect air carriers that co-sign the proposal.
 
@@ -98,4 +96,4 @@ The IAC understands that intentional falsification of certification to an air ca
 
 (h) *Extension of time.* TSA may grant an extension of time of the limits set forth in this section for good cause shown. An indirect air carrier's request for an extension of time must be in writing and be received by TSA at least 2 days before the due date to be extended. TSA may grant itself an extension of time for good cause.
 
-[71 FR 30513, May 26, 2006, as amended at 74 FR 47705, Sept. 16, 2009]
+[71 FR 30513, May 26, 2006, as amended at 74 FR 47705, Sept. 16, 2009; 89 FR 8557, Feb. 8, 2024]

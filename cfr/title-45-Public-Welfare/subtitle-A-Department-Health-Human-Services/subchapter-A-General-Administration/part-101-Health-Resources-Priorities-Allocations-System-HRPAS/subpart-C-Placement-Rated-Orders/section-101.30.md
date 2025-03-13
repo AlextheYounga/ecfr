@@ -1,0 +1,5 @@
+##### § 101.30 Delegations of authority. #####
+
+(a) The priorities and allocations authorities of the President under section 101 of the DPA with respect to health resources have been delegated to the Secretary under E.O. 13603. The Secretary may re-delegate the Secretary's priorities authorities under the DPA to authorize a Delegate Agency to assign priority ratings to orders for health resources needed for use in approved programs.
+
+(b) Pursuant to 87 FR 58363 published in the Federal Register on September 26, 2022, the Secretary delegated to the Assistant Secretary for Preparedness and Response (the ASPR) within the Administration for Strategic Preparedness and Response (ASPR), the authority under section 201 of E.O. 13603 to exercise priorities authority under section 101 of the DPA. This delegation authorized the ASPR, on behalf of the Secretary, to approve DO—[-[M1-M9] priority rating requests for health resources that promote the national defense, though this delegation excludes the authority to approve all priorities provisions for health resources that require DX—[-[M1-M9] priority ratings.

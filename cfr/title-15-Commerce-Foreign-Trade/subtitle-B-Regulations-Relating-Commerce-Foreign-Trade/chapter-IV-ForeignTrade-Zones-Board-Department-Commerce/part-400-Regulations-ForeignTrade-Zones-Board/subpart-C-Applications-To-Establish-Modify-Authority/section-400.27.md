@@ -1,8 +1,6 @@
 ##### § 400.27 Criteria applicable to evaluation of applications for production authority. #####
 
-Link to an amendment published at 89 FR 8528, Feb. 8, 2024.
-
-The Board shall apply the criteria set forth in this section in determining whether to approve an application for authority to conduct production activity pursuant to § 400.23. The Board's evaluation shall take into account such factors as market conditions, price sensitivity, degree and nature of foreign competition, intra-industry and intra-firm trade, effect on exports and imports, ability to conduct the proposed activity outside the United States with the same U.S. tariff impact, analyses conducted in connection with prior Board actions, and net effect on U.S. employment and the U.S. economy:
+The Board shall apply the criteria set forth in this section in determining whether to approve an application for authority to conduct production activity pursuant to § 400.23. The Board's evaluation shall take into account information such as pertains to market conditions, price sensitivity, degree and nature of foreign competition, intra-industry and intra-firm trade, effect on exports and imports, ability to conduct the proposed activity outside the United States with the same U.S. tariff impact, analyses conducted in connection with prior Board actions, and net effect on U.S. employment and the U.S. economy:
 
 (a) *Threshold factors.* It is the policy of the Board to authorize zone activity only when it is consistent with public policy and, in regard to activity involving foreign merchandise subject to quotas or inverted tariffs, when zone procedures are not the sole determining cause of imports. Thus, without undertaking a review of the economic factors enumerated in § 400.27(b), the Board shall deny or restrict authority for proposed or ongoing activity if it determines that:
 
@@ -33,3 +31,5 @@ The Board shall apply the criteria set forth in this section in determining whet
 (c) The significant public benefit(s) that would result from the production activity, taking into account the factors in paragraphs (a) and (b) of this section.
 
 (d) *Contributory effect.* In assessing the significance of the economic effect of the proposed zone activity as part of the consideration of economic factors, and considering whether it would result in a significant public benefit(s), the Board may consider the contributory effect zone savings have as an incremental part of cost-effectiveness programs adopted by companies to improve their international competitiveness.
+
+[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8528, Feb. 8, 2024]

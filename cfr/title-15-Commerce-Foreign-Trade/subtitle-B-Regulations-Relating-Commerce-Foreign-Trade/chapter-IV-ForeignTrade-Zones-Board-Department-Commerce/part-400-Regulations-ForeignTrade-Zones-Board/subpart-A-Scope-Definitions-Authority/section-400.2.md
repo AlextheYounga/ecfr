@@ -1,7 +1,5 @@
 ##### § 400.2 Definitions. #####
 
-Link to an amendment published at 89 FR 8527, Feb. 8, 2024.
-
 (a) *Act* means the Foreign-Trade Zones Act of 1934, as amended (19 U.S.C. 81a-81u).
 
 (b) *Activation limit* is the size of the physical area of a particular zone or subzone authorized by the Board to be simultaneously in activated status with CBP pursuant to 19 CFR 146.6. The activation limit for a particular zone/subzone is a figure explicitly specified by the Board in authorizing the zone (commonly 2,000 acres) or subzone or, in the absence of a specified figure, the total of the sizes of the approved sites of the zone/subzone.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 8527, Feb. 8, 2024.
 
 (g) *Executive Secretary* is the Executive Secretary of the Foreign-Trade Zones Board.
 
-(h) *Foreign-trade zone* (FTZ or zone) includes one or more restricted-access sites, including subzones, in or adjacent (as defined by § 400.11(b)(2)) to a CBP port of entry, operated as a public utility (within the meaning of § 400.42) under the sponsorship of a zone grantee authorized by the Board, with zone operations under the supervision of CBP.
+(h) *Foreign-trade zone* (FTZ or zone) includes all sites/subzones designated under the sponsorship of a zone grantee, in or adjacent (as defined by § 400.11(b)(2)) to a CBP port of entry, operated as a public utility (within the meaning of § 400.42), with zone operations under the supervision of CBP.
 
 (i) *Grant of authority* is a document issued by the Board that authorizes a zone grantee to establish, operate and maintain a zone, subject to limitations and conditions specified in this part and in 19 CFR part 146. The authority to establish a zone includes the responsibility to manage it.
 
@@ -40,18 +38,18 @@ Link to an amendment published at 89 FR 8527, Feb. 8, 2024.
 
 (s) *Subzone* means a site (or group of sites) established for a specific use.
 
-(t) *Usage-driven site* means a site tied to a single operator or user under the ASF.
+(t) *Usage-driven site* means a site established for a single operator or user under the ASF.
 
-(u) *Zone* means a foreign-trade zone established under the provisions of the Act and these regulations. Where used in this part, the term also includes subzones, unless the context indicates otherwise.
+(u) *Zone grantee* is the corporate recipient of a grant of authority for a zone. Where used in this part, the term “grantee” means “zone grantee” unless otherwise indicated.
 
-(v) *Zone grantee* is the corporate recipient of a grant of authority for a zone. Where used in this part, the term “grantee” means “zone grantee” unless otherwise indicated.
+(v) *Zone operator* is a person that operates within a zone or subzone under the terms of an agreement with the zone grantee (or third party on behalf of the grantee), with the concurrence of CBP.
 
-(w) *Zone operator* is a person that operates within a zone or subzone under the terms of an agreement with the zone grantee (or third party on behalf of the grantee), with the concurrence of CBP.
+(w) *Zone participant* is a current or prospective zone operator, zone user, or property owner.
 
-(x) *Zone participant* is a current or prospective zone operator, zone user, or property owner.
+(x) *Zone plan* includes all the zone sites that a single grantee is authorized to establish.
 
-(y) *Zone plan* includes all the zone sites that a single grantee is authorized to establish.
+(y) *Zone site* (site) means a physical location of a zone or subzone. A site is composed of one or more generally contiguous parcels of land organized and functioning as an integrated unit, such as all or part of an industrial park or airport facility.
 
-(z) *Zone site* (site) means a physical location of a zone or subzone. A site is composed of one or more generally contiguous parcels of land organized and functioning as an integrated unit, such as all or part of an industrial park or airport facility.
+(z) *Zone user* is a party using a zone under agreement with a zone operator.
 
-(aa) *Zone user* is a party using a zone under agreement with a zone operator.
+[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8527, Feb. 8, 2024]

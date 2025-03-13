@@ -1,5 +1,7 @@
 ##### § 1726.51 Distribution line construction. #####
 
+Link to an amendment published at 89 FR 17275, Mar. 11, 2024.
+
 (a) *Contract forms.* The borrower must use RUS Form 790, or 830, as outlined in this paragraph (a), for distribution line construction, except for minor modifications or improvements.
 
 (1) The borrower may use RUS Form 790, Electric System Construction Contract—Non-Site Specific Construction, under the following circumstances:

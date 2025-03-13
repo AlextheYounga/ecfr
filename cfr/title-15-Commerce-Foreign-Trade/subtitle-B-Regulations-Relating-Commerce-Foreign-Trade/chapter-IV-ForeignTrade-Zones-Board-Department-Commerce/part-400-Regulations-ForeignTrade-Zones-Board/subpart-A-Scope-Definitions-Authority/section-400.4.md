@@ -1,7 +1,5 @@
 ##### § 400.4 Authority and responsibilities of the Executive Secretary. #####
 
-Link to an amendment published at 89 FR 8527, Feb. 8, 2024.
-
 The Executive Secretary has the following responsibilities and authority:
 
 (a) Represent the Board in administrative, regulatory, operational, and public affairs matters;
@@ -28,7 +26,7 @@ The Executive Secretary has the following responsibilities and authority:
 
 (l) Determine whether additional information is needed for evaluation of applications and other requests for decisions under this part, as provided for in various sections of this part, including §§ 400.21-400.25;
 
-(m) Issue instructions, guidelines, forms and related documents specifying time, place, manner and formats for applications and notifications in various sections of this part, including §§ 400.21(b) and 400.43(f);
+(m) Issue instructions, guidelines, forms and related documents specifying time, place, manner and formats for applications, notifications, application fees and zone schedules in various sections of this part, including §§ 400.21(b), 400.29, 400.43(f), and 400.44;
 
 (n) Determine whether proposed modifications are major modifications or minor modifications under § 400.24(a)(2);
 
@@ -42,7 +40,7 @@ The Executive Secretary has the following responsibilities and authority:
 
 (s) Direct monitoring and reviews of zone operations and activity under § 400.49;
 
-(t) Review rate schedules and determine their sufficiency under § 400.44(c);
+(t) Review zone schedules and determine their sufficiency under § 400.44(c);
 
 (u) Assess potential issues and make recommendations pertaining to uniform treatment under § 400.43 and review and decide complaint cases under § 400.45;
 
@@ -55,3 +53,5 @@ The Executive Secretary has the following responsibilities and authority:
 (y) Make recommendations and certain determinations regarding violations and fines, and undertake certain procedures related to the suspension of activated status, as provided in § 400.62; and
 
 (z) Designate an acting Executive Secretary.
+
+[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8527, Feb. 8, 2024]

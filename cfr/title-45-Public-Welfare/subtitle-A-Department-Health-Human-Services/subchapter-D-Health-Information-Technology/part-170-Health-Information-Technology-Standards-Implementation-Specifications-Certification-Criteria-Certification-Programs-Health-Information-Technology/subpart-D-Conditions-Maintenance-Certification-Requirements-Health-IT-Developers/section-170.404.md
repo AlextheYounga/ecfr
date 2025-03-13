@@ -1,7 +1,5 @@
 ##### § 170.404 Application programming interfaces. #####
 
-Link to an amendment published at 89 FR 1433, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.
-
 The following Condition and Maintenance of Certification requirements apply to developers of Health IT Modules certified to any of the certification criteria adopted in § 170.315(g)(7) through (10).
 
 (a) *Condition of certification requirements*—(1) *General.* A Certified API Developer must publish APIs and allow electronic health information from such technology to be accessed, exchanged, and used without special effort through the use of APIs or successor technology or standards, as provided for under applicable law, including providing access to all data elements of a patient's electronic health record to the extent permissible under applicable privacy laws.
@@ -106,11 +104,21 @@ The following Condition and Maintenance of Certification requirements apply to d
 
 (ii) *Registration for production use.* A Certified API Developer must register and enable all applications for production use within five business days of completing its verification of an API User's authenticity, pursuant to paragraph (b)(1)(i) of this section.
 
-(2) *Service base URL publication.* A Certified API Developer must publish the service base URLs for all Health IT Modules certified to § 170.315(g)(10) that can be used by patients to access their electronic health information. The Certified API Developer must publicly publish the service base URLs:
+(2) *Service base URL publication.* For all Health IT Modules certified to § 170.315(g)(10), a Certified API Developer must publish, at no charge, the service base URLs and related organization details that can be used by patients to access their electronic health information, by December 31, 2024. This includes all customers regardless of whether the Health IT Modules certified to § 170.315(g)(10) are centrally managed by the Certified API Developer or locally deployed by an API Information Source. These service base URLs and organization details must conform to the following:
 
-(i) For all of its customers regardless of whether the Health IT Modules certified to § 170.315(g)(10) are centrally managed by the Certified API Developer or locally deployed by an API Information Source; and
+(i) Service base URLs must be publicly published in Endpoint resource format according to the standard adopted in § 170.215(a).
 
-(ii) In a machine-readable format at no charge.
+(ii) Organization details for each service base URL must be publicly published in Organization resource format according to the standard adopted in § 170.215(a). Each Organization resource must contain:
+
+(A) A reference, in the Organization.endpoint element, to the Endpoint resources containing service base URLs managed by this organization.
+
+(B) The organization's name, location, and facility identifier.
+
+(iii) Endpoint and Organization resources must be:
+
+(A) Collected into a Bundle resource formatted according to the standard adopted in § 170.215(a) for publication; and
+
+(B) Reviewed quarterly and, as necessary, updated.
 
 (3) *Rollout of (g)(10)-certified APIs.* A Certified API Developer with certified API technology previously certified to the certification criterion in § 170.315(g)(8) must provide all API Information Sources with such certified API technology deployed with certified API technology certified to the certification criterion in § 170.315(g)(10) by no later than December 31, 2022.
 
@@ -126,4 +134,4 @@ The following Condition and Maintenance of Certification requirements apply to d
 
 *Certified API technology* means the capabilities of Health IT Modules that are certified to any of the API-focused certification criteria adopted in § 170.315(g)(7) through (10).
 
-[85 FR 25945, May 1, 2020, as amended at 85 FR 70084, Nov. 4, 2020]
+[85 FR 25945, May 1, 2020, as amended at 85 FR 70084, Nov. 4, 2020; 89 FR 1433, Jan. 9, 2024]

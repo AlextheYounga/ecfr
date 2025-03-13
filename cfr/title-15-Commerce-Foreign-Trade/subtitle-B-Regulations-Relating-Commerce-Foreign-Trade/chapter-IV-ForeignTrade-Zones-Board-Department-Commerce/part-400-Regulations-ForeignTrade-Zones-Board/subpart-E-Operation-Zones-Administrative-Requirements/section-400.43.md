@@ -1,7 +1,5 @@
 ##### § 400.43 Uniform treatment. #####
 
-Link to an amendment published at 89 FR 8530, Feb. 8, 2024.
-
 Pursuant to Section 14 of the FTZ Act (19 U.S.C. 81n), a grantee shall afford to all who may apply to make use of or participate in the zone uniform treatment under like conditions. Treatment of zone participants within a zone (including application of rates and charges) shall not vary depending on whether a zone participant has procured any zone-related product or service or engaged a particular supplier to provide any such product or service.
 
 (a) *Agreements to be made in writing.* Any agreement or contract related to one or more grantee function(s) and involving a zone participant (e.g., agreements with property owners and agreements with zone operators) must be in writing.
@@ -52,6 +50,4 @@ Pursuant to Section 14 of the FTZ Act (19 U.S.C. 81n), a grantee shall afford to
 
 (h) *Identification of person undertaking function(s) on behalf of grantee.* The Board, the Commerce Department's Assistant Secretary for Enforcement and Compliance, or the Executive Secretary, may require a zone grantee to identify any person undertaking a zone-related function(s) on behalf of the grantee.
 
-(i) *Delayed compliance date.* If, as of April 30, 2012, existing business arrangements do not comply with the requirements of paragraphs (a) and (d) of this section, such existing arrangements shall be terminated or brought into compliance no later than February 28, 2014.
-
-Effective Date Note:At 77 FR 12139, Feb. 28, 2012, § 400.43 was added. Paragraph (f) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8530, Feb. 8, 2024]Effective Date Note:At 77 FR 12139, Feb. 28, 2012, § 400.43 was added. Paragraph (f) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

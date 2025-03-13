@@ -68,6 +68,14 @@
 
 (*3*) Surgeons' fees for excising deceased donor organs (currently limited to $1,250 for kidneys).
 
+(*4*) Costs of tissue typing services, including those furnished by independent laboratories.
+
+(*5*) Organ preservation and perfusion costs.
+
+(*6*) General routine and special care service costs (for example, intensive care unit or critical care unit services related to the donor).
+
+(*7*) Operating room and other inpatient ancillary service costs.
+
 (c) *Independent OPO SACs*—(1) *Non-renal SAC.* An IOPO establishes non-renal SACs based on its costs of procuring non-renal organs for each organ type, by—
 
 (i) Estimating the reasonable and necessary costs it expects to incur for services furnished to procure deceased donor non-renal organs during the IOPO's cost reporting period; and

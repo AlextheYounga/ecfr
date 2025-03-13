@@ -1,5 +1,7 @@
 ##### § 301.6241-1 Definitions. #####
 
+Link to an amendment published at 89 FR 17595, Mar. 11, 2024.
+
 (a) *Definitions.* For purposes of subchapter C of chapter 63 of the Internal Revenue Code (Code) and the regulations in this part under sections 6221 through 6241 of the Code—
 
 (1) *Adjustment year.* The term *adjustment year* means the partnership taxable year in which—

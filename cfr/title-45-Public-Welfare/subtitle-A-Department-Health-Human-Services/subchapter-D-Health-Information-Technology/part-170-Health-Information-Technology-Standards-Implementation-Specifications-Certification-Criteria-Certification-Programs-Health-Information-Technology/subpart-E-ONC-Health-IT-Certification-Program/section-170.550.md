@@ -1,7 +1,5 @@
 ##### § 170.550 Health IT Module certification. #####
 
-Link to an amendment published at 89 FR 1435, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.Link to a correction published at 89 FR 8549, Feb. 8, 2024.
-
 (a) *Certification scope.* When certifying Health IT Module(s), an ONC-ACB must certify in accordance with the applicable certification criteria adopted by the Secretary at subpart C of this part.
 
 (b) *Health IT product scope options.* An ONC-ACB must provide the option for an Health IT Module(s) to be certified solely to the applicable certification criteria adopted by the Secretary at subpart C of this part.
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 1435, Jan. 9, 2024.The effective date of
 
 (f) [Reserved]
 
-(g) *Health IT module dependent criteria.* When certifying a Health IT Module to the 2015 Edition health IT certification criteria, an ONC-ACB must certify the Health IT Module in accordance with the certification criteria at:
+(g) *Health IT Module dependent criteria.* When certifying a Health IT Module to the ONC Certification Criteria for Health IT, an ONC-ACB must certify the Health IT Module in accordance with the certification criteria at:
 
 (1) Section 170.315(g)(3) if the Health IT Module is presented for certification to one or more listed certification criteria in § 170.315(g)(3);
 
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 1435, Jan. 9, 2024.The effective date of
 
 (5) Section 170.315(b)(10) when a health IT developer presents a Health IT Module for certification that can store electronic health information at the time of certification by the product, of which the Health IT Module is a part.
 
-(h) *Privacy and security certification framework*—(1) *General rule.* When certifying a Health IT Module to the 2015 Edition health IT certification criteria, an ONC-ACB can only issue a certification to a Health IT Module if the privacy and security certification criteria in paragraphs (h)(3)(i) through (ix) of this section have also been met (and are included within the scope of the certification).
+(h) *Privacy and security certification framework*—(1) *General rule.* When certifying a Health IT Module to the ONC Certification Criteria for Health IT, an ONC-ACB can only issue a certification to a Health IT Module if the privacy and security certification criteria in paragraphs (h)(3)(i) through (ix) of this section have also been met (and are included within the scope of the certification).
 
 (2) *Testing.* In order to be issued a certification, a Health IT Module would only need to be tested once to each applicable privacy and security criterion in paragraphs (h)(3)(i) through (ix) of this section so long as the health IT developer attests that such privacy and security capabilities apply to the full scope of capabilities included in the requested certification, except for the following:
 
@@ -64,7 +62,7 @@ Link to an amendment published at 89 FR 1435, Jan. 9, 2024.The effective date of
 
 (l) *Conditions of certification attestations.* Ensure that the health IT developer of the Health IT Module has met its responsibilities under subpart D of this part.
 
-(m) *Time-limited certification and certification status for certain 2015 Edition certification criteria.* An ONC-ACB may only issue a certification to a Health IT Module and permit continued certified status for:
+(m) *Time-limited certification and certification status for certain ONC Certification Criteria for Health IT.* An ONC-ACB may only issue a certification to a Health IT Module and permit continued certified status for:
 
 (1) Section 170.315(a)(10) and (13) and § 170.315(e)(2) for the period before January 1, 2022.
 
@@ -72,4 +70,4 @@ Link to an amendment published at 89 FR 1435, Jan. 9, 2024.The effective date of
 
 (3) Section 170.315(g)(8) for the period before December 31, 2022.
 
-[76 FR 1325, Dec. 7, 2011, as amended at 77 FR 54291, Sept. 4, 2012; 79 FR 54480, Sept. 11, 2014; 80 FR 62757, Oct. 16, 2015; 85 FR 25952, May 1, 2020; 85 FR 70085, Nov. 4, 2020]
+[76 FR 1325, Dec. 7, 2011, as amended at 77 FR 54291, Sept. 4, 2012; 79 FR 54480, Sept. 11, 2014; 80 FR 62757, Oct. 16, 2015; 85 FR 25952, May 1, 2020; 85 FR 70085, Nov. 4, 2020; 89 FR 1435, Jan. 9, 2024; 89 FR 8549, Feb. 8, 2024]

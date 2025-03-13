@@ -1,0 +1,3 @@
+##### § 101.3 Program eligibility. #####
+
+Certain programs to promote the national defense are approved for priorities and allocations support. These include programs for military and energy production or construction, military or critical infrastructure assistance to any foreign nation, homeland security, stockpiling, space, and any directly related activity. Other eligible programs include emergency preparedness activities conducted pursuant to title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 *et seq.*), and critical infrastructure protection and restoration.

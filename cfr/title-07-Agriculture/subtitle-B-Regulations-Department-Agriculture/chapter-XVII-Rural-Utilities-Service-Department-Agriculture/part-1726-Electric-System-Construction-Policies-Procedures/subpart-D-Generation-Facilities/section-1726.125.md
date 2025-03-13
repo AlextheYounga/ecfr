@@ -1,5 +1,7 @@
 ##### § 1726.125 Generating plant facilities. #####
 
+Link to an amendment published at 89 FR 17275, Mar. 11, 2024.
+
 This section covers the construction of all portions of a generating plant, including plant buildings and the generator step-up transformer. Generally, the transmission switchyard will be covered under this section during initial construction of the plant. Subpart C of this part covers subsequent modifications to transmission switchyards. Warehouses and equipment service type buildings are covered under subpart E of this part.
 
 (a) *Contract forms.* (1) The borrower shall use RUS Form 198, Equipment Contract, for the purchase of generating plant equipment in the amount of $5,000,000 or more and for any generating plant equipment contract requiring RUS approval.

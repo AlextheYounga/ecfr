@@ -1,7 +1,5 @@
 ##### § 170.205 Content exchange standards and implementation specifications for exchanging electronic health information. #####
 
-Link to an amendment published at 89 FR 1426, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.
-
 The Secretary adopts the following content exchange standards and associated implementation specifications:
 
 (a) *Patient summary record.* (1) [Reserved]
@@ -12,7 +10,9 @@ The Secretary adopts the following content exchange standards and associated imp
 
 (4) *Standard.* HL7 Implementation Guide for CDA® Release 2: Consolidated CDA Templates for Clinical Notes (US Realm), Draft Standard for Trial Use, Volume 1—Introductory Material, Release 2.1 and HL7 Implementation Guide for CDA® Release 2: Consolidated CDA Templates for Clinical Notes (US Realm), Draft Standard for Trial Use, Volume 2—Templates and Supporting Material, Release 2.1 (incorporated by reference in § 170.299).
 
-(5) *Standard.* HL7 CDA® R2 Implementation Guide: C-CDA Templates for Clinical Notes R2.1 Companion Guide, Release 2 (incorporated by reference in § 170.299).
+(5) *Standard.* HL7 CDA® R2 Implementation Guide: C-CDA Templates for Clinical Notes R2.1 Companion Guide, Release 2 (incorporated by reference, see § 170.299). The adoption of this standard expires on January 1, 2026.
+
+(6) *Standard.* HL7® CDA® R2 Implementation Guide: C-CDA Templates for Clinical Notes STU Companion Guide, Release 4.1—US Realm (incorporated by reference, see § 170.299).
 
 (b) *Electronic prescribing*—(1) *Standard.* National Council for Prescription Drug Programs (NCPDP): SCRIPT Standard Implementation Guide; Version 2017071 (incorporated by reference in § 170.299).
 
@@ -82,4 +82,12 @@ The Secretary adopts the following content exchange standards and associated imp
 
 (2) [Reserved]
 
-[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54284, Sept. 4, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62743, Oct. 16, 2015; 85 FR 25940, May 1, 2020; 85 FR 70082, Nov. 4, 2020]
+(t) *Public health—electronic case reporting*—(1) *Standard.* HL7® FHIR® Implementation Guide: Electronic Case Reporting (eCR)—US Realm 2.1.0—STU 2 US (HL7 FHIR eCR IG) (incorporated by reference, see § 170.299).
+
+(2) *Standard.* HL7 CDA® R2 Implementation Guide: Public Health Case Report—the Electronic Initial Case Report (eICR) Release 2, STU Release 3.1—US Realm (HL7 CDA eICR IG) (incorporated by reference, see § 170.299).
+
+(3) *Standard.* HL7® CDA® R2 Implementation Guide: Reportability Response, Release 1, STU Release 1.1—US Realm (HL7 CDA RR IG) (incorporated by reference, see § 170.299).
+
+(4) *Standard.* Reportable Conditions Trigger Codes Value Set for Electronic Case Reporting. (incorporated by reference, see § 170.299).
+
+[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54284, Sept. 4, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62743, Oct. 16, 2015; 85 FR 25940, May 1, 2020; 85 FR 70082, Nov. 4, 2020; 89 FR 1426, Jan. 9, 2024]

@@ -1,5 +1,7 @@
 ##### § 1726.14 Definitions. #####
 
+Link to an amendment published at 89 FR 17275, Mar. 11, 2024.
+
 Terms used in this part have the meanings set forth in 7 CFR 1710.2. References to specific RUS forms and other RUS documents, and to specific sections or lines of such forms and documents, shall include the corresponding forms, documents, sections and lines in any subsequent revisions of these forms and documents. In addition to the terms defined in 7 CFR 1710.2, the following terms have the following meanings for the purposes of this part:
 
 *Approval of proposed construction* means RUS approval of a construction work plan or other appropriate engineering study and RUS approval, for purposes of system financing, of the completion of all appropriate environmental review requirements in accordance with 7 CFR part 1970.

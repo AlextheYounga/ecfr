@@ -1,5 +1,7 @@
 ##### § 1710.501 Loan application documents. #####
 
+Link to an amendment published at 89 FR 17274, Mar. 11, 2024.
+
 (a) *All borrowers.* Borrowers may be eligible to submit their loan application via RUS' electronic application intake system instead of submitting a paper submission. Please consult your GFR in accordance with § 1710.500. All applications for electric loans shall include the documents listed in this paragraph (a).
 
 (1) *Loan application letter.* A letter signed by the borrower's manager indicating the actual corporate name, the borrowers RUS Designation, the borrowers RUS Loan Designation, and taxpayer identification number of the borrower and addressing the following items:

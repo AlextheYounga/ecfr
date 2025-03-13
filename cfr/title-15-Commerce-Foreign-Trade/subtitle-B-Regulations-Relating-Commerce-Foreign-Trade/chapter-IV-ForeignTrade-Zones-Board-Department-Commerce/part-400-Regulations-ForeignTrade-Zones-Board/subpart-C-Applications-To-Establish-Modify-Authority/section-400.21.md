@@ -1,14 +1,12 @@
 ##### § 400.21 Application to establish a zone. #####
 
-Link to an amendment published at 89 FR 8528, Feb. 8, 2024.
-
-(a) *In general.* An application for a grant of authority to establish a zone (including pursuant to the ASF procedures adopted by the Board; see 74 FR 1170, Jan. 12, 2009, 74 FR 3987, Jan. 22, 2009, and 75 FR 71069, Nov. 22, 2010) shall consist of an application letter and detailed contents to meet the requirements of this part.
+(a) *In general.* An application for a grant of authority to establish a zone (including pursuant to the ASF procedures adopted by the Board (§ 400.2(c))) shall consist of an application letter and detailed contents to meet the requirements of this part.
 
 (b) *Application format.* Applications pursuant to this part shall comply with any instructions, guidelines, and forms or related documents, published in the Federal Register and made available on the Board's Web site, as established by the Executive Secretary specific to the type of application in question. An application submitted that uses a superseded format shall be processed unless the format has not been current for a period in excess of one year.
 
 (c) *Application letter.* The application letter shall be dated within six months prior to the submission of the application and signed by an officer of the corporation authorized in the resolution for the application (see § 400.21(d)(1)(iii)). The application letter shall also describe:
 
-(1) The relationship of the proposal to the state enabling legislation and the grantee's charter;
+(1) The relationship of the proposal to the state enabling legislation and the applicant's charter;
 
 (2) The specific authority requested from the Board;
 
@@ -16,11 +14,9 @@ Link to an amendment published at 89 FR 8528, Feb. 8, 2024.
 
 (4) The project background;
 
-(5) The relationship of the project to the community's and state's international trade-related goals and objectives;
+(5) The relationship of the project to the community's and state's international trade-related goals and objectives; and
 
-(6) Any production authority requested; and
-
-(7) Any additional pertinent information needed for a complete summary description of the proposal.
+(6) Any additional pertinent information needed for a complete summary description of the proposal.
 
 (d) *Detailed contents.* (1) Legal authority for the application shall be documented with:
 
@@ -42,13 +38,11 @@ Link to an amendment published at 89 FR 8528, Feb. 8, 2024.
 
 (v) A description of current and planned activities associated with the site;
 
-(vi) A summary description of transportation systems, facilities, and services, including connections from local and regional transportation hubs to the zone;
+(vi) A statement regarding the environmental aspects of the proposal;
 
-(vii) A statement regarding the environmental aspects of the proposal;
+(vii) The estimated time schedules for construction and activation; and
 
-(viii) The estimated time schedules for construction and activation; and
-
-(ix) A statement as to the possibilities and plans for future expansion of the site.
+(viii) A statement as to the possibilities and plans for future expansion of the site.
 
 (3) Operation and financing shall be documented with:
 
@@ -96,16 +90,14 @@ Link to an amendment published at 89 FR 8528, Feb. 8, 2024.
 
 (2) Appropriate information regarding magnet sites.
 
-(3) Appropriate information regarding usage-driven sites.
+(3) Appropriate information regarding usage-driven sites or ASF subzones.
 
 (f) *Additional information.* The Board or the Executive Secretary may require additional information needed to evaluate proposals adequately.
 
 (g) *Amendment of application.* The Board or the Executive Secretary may allow amendment of an application. Amendments which substantively expand the scope of an application shall be subject to comment period requirements such as those of § 400.32(c)(2) with a minimum comment period of 30 days.
 
-(h) *Drafts.* Applicants are encouraged to submit a draft application to the Executive Secretary for review. A draft application must be complete with the possible exception of the application letter and/or resolution from the grantee.
+(h) *Drafts.* Applicants are encouraged to submit a draft application to the Executive Secretary for review. A draft application must be complete with the possible exception of the application letter and/or resolution from the applicant.
 
-(i) *Format and number of copies.* Unless the Executive Secretary alters the requirements of this paragraph, the applicant shall submit an original (including original documents to meet the requirements of paragraphs (c) and (d)(1)(iii) of this section) and one copy of the application, both on 81/2 ″ × 11″ (216 × 279 mm) paper, and an electronic copy.
+(i) *Submission of completed application.* The applicant shall submit the complete application, including all attachments, via email or by the method prescribed by the Executive Secretary pursuant to § 400.4(m).
 
-(j) *Where to submit an application:* Executive Secretary, Foreign-Trade Zones Board, U.S. Department of Commerce, 1401 Constitution Avenue NW., Washington, DC 20230. Options for submission of electronic copies are described on the FTZ Board's Web site.
-
-Effective Date Note:At 77 FR 12139, Feb. 28, 2012, § 400.21 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8528, Feb. 8, 2024]Effective Date Note:At 77 FR 12139, Feb. 28, 2012, § 400.21 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

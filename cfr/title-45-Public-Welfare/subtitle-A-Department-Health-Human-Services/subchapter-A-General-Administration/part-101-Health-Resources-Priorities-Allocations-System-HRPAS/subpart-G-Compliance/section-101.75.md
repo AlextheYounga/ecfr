@@ -1,0 +1,3 @@
+##### § 101.75 Compliance conflicts. #####
+
+If compliance with any provision of the DPA and other applicable statutes, this part, or an official action would prevent a person from filling a rated order or from complying with another provision of the DPA and other applicable statutes, this part, or an official action, the person must immediately notify HHS, as specified in § 101.93, for resolution of the conflict.

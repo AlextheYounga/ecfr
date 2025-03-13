@@ -1,7 +1,5 @@
 ##### § 170.210 Standards for health information technology to protect electronic health information created, maintained, and exchanged. #####
 
-Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.
-
 The Secretary adopts the following standards to protect electronic health information created, maintained, and exchanged:
 
 (a) *Encryption and decryption of electronic health information.* (1) [Reserved]
@@ -28,8 +26,8 @@ The Secretary adopts the following standards to protect electronic health inform
 
 (f) *Encryption and hashing of electronic health information.* Any encryption and hashing algorithm identified by the National Institute of Standards and Technology (NIST) as an approved security function in Annex A of the FIPS Publication 140-2 (incorporated by reference in § 170.299).
 
-(g) *Synchronized clocks.* The date and time recorded utilize a system clock that has been synchronized following (RFC 5905) Network Time Protocol Version 4, (incorporated by reference in § 170.299).
+(g) *Synchronized clocks.* The date and time recorded utilize a system clock that has been synchronized using any Network Time Protocol (NTP) standard.
 
 (h) *Audit log content.* ASTM E2147-18, (incorporated by reference in § 170.299).
 
-[75 FR 44649, July 28, 2010, as amended at 77 FR 54285, Sept. 4, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62745, Oct. 16, 2015; 85 FR 25940, May 1, 2020; 85 FR 70082, Nov. 4, 2020]
+[75 FR 44649, July 28, 2010, as amended at 77 FR 54285, Sept. 4, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62745, Oct. 16, 2015; 85 FR 25940, May 1, 2020; 85 FR 70082, Nov. 4, 2020; 89 FR 1428, Jan. 9, 2024]

@@ -1,8 +1,6 @@
 ##### § 170.299 Incorporation by reference. #####
 
-Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.
-
-(a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Health and Human Services must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology, 330 C Street SW., Washington, DC 20201, call ahead to arrange for inspection at 202-690-7151, and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(b) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the U.S. Department of Health and Human Services (HHS) and at the National Archives and Records Administration (NARA). Contact HHS at: U.S. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology, 330 C Street SW, Washington, DC 20201; call ahead to arrange for inspection at 202-690-7151. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) American National Standards Institute, Health Information Technology Standards Panel (HITSP) Secretariat, 25 West 43rd Street—Fourth Floor, New York, NY 10036, *http://www.hitsp.org.*
 
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of
 
 (2)-(3) [Reserved]
 
-(d) Centers for Disease Control and Prevention, 2500 Century Parkway, Mailstop E-78, Atlanta, GA 30333, USA (800-232-4636); *http://www.cdc.gov/ehrmeaningfuluse/.*
+(d) Centers for Disease Control and Prevention, 2500 Century Parkway, Mailstop E-78, Atlanta, GA 30333; phone: (800) 232-4636); website: *www.cdc.gov/cdc-info/index.html*
 
 (1) HL7 Standard Code Set CVX—Vaccines Administered, July 30, 2009, IBR approved for § 170.207.
 
@@ -48,7 +46,13 @@ Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of
 
 (16) CDC Race and Ethnicity Code Set Version 1.0 (March 2000), IBR approved for § 170.207(f).
 
-(e) Centers for Medicare & Medicaid Services, Office of Clinical Standards and Quality, 7500 Security Boulevard, Baltimore, Maryland 21244; Telephone (410) 786-3000
+(17) HL7® Standard Code Set CVX—Vaccines Administered, dated June 15, 2022; IBR approved for § 170.207(e).
+
+(18) National Drug Code Directory (NDC)—Vaccine NDC Linker, dated July 19, 2022; IBR approved for § 170.207(e).
+
+(19) CDC Race and Ethnicity Code Set version 1.2 (July 08, 2021); IBR approved for § 170.207(f).
+
+(e) Centers for Medicare & Medicaid Services, Office of Clinical Standards and Quality, 7500 Security Boulevard, Baltimore, Maryland 21244; phone: (410) 786-3000; website: *www.cms.gov.*
 
 (1) CMS PQRI 2009 Registry XML Specifications, IBR approved for § 170.205.
 
@@ -60,7 +64,15 @@ Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of
 
 (5) CMS Implementation Guide for Quality Reporting Document Architecture: Category III; Eligible Clinicians and Eligible Professionals Programs Implementation Guide for 2020; published April 30, 2020, IBR approved for § 170.205(k).
 
-(f) Health Level Seven, 3300 Washtenaw Avenue, Suite 227, Ann Arbor, MI 48104; Telephone (734) 677-7777 or *http://www.hl7.org/*
+(6) Medicare Provider and Supplier Taxonomy Crosswalk, 2021; IBR approved for § 170.207(r).
+
+(f) Council of State and Territorial Epidemiologists, 2635 Century Parkway NE, Suite 700, Atlanta, GA 30345; phone: (770) 458-3811; website: *www.cste.org/*
+
+(1) Reportable Conditions Trigger Codes Value Set for Electronic Case Reporting. RCTC OID: 2.16.840.1.114222.4.11.7508, Release March 29, 2022; IBR approved for § 170.205(t).
+
+(2) [Reserved]
+
+(g) Health Level Seven, 3300 Washtenaw Avenue, Suite 227, Ann Arbor, MI 48104; phone: (734) 677-7777; website: *www.hl7.org/*
 
 (1) Health Level Seven Standard Version 2.3.1 (HL7 2.3.1), An Application Protocol for Electronic Data Exchange in Healthcare Environments, April 14, 1999, IBR approved for § 170.205.
 
@@ -126,13 +138,25 @@ Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of
 
 (34) HL7 FHIR® US Core Implementation Guide STU3 Release 3.1.1, August 28, 2020, IBR approved for § 170.215(a).
 
-(g) Integrating the Healthcare Enterprise (IHE), 820 Jorie Boulevard, Oak Brook, IL, Telephone (630) 481-1004, *http://www.ihe.net/.*
+(35) HL7 CDA® R2 Implementation Guide: C-CDA Templates for Clinical Notes STU Companion Guide, Release 4.1 (US Realm) Standard for Trial Use, Specification Version: 4.1.1, June 2023 (including appendices A and B); IBR approved for § 170.205(a).
+
+(36) HL7 FHIR® Implementation Guide: Electronic Case Reporting (eCR)—US Realm, Version 2.1.0—STU 2 US (HL7 FHIR eCR IG), August 31, 2022; IBR approved for § 170.205(t).
+
+(37) HL7 CDA® R2 Implementation Guide: Public Health Case Report—the Electronic Initial Case Report (eICR) Release 2, STU Release 3.1—US Realm (HL7 CDA eICR IG), July 2022, volumes 1 and 2; IBR approved for § 170.205(t).
+
+(38) HL7 CDA® R2 Implementation Guide: Reportability Response, Release 1, STU Release 1.1—US Realm (HL7 CDA RR IG), July 2022, volumes 1 through 4; IBR approved for § 170.205(t).
+
+(39) HL7 FHIR US Core Implementation Guide Version 6.1.0—STU 6, June 19, 2023; IBR approved for § 170.215(b).
+
+(40) HL7 FHIR® SMART App Launch [Implementation Guide], 2.0.0—Standard for Trial Use, November 26, 2021; IBR approved for § 170.215(c).
+
+(h) Integrating the Healthcare Enterprise (IHE), 820 Jorie Boulevard, Oak Brook, IL, Telephone (630) 481-1004, *http://www.ihe.net/.*
 
 (1) IHE IT Infrastructure Technical Framework Volume 2b (ITI TF-2b), Transactions Part B—Sections 3.29—2.43, Revision 7.0, August 10, 2010, IBR approved for § 170.205(p).
 
 (2) [Reserved]
 
-(h) Internet Engineering Task Force (IETF) Secretariat, c/o Association Management Solutions, LLC (AMS), 48377 Fremont Blvd., Suite 117, Fremont, CA, 94538, Telephone (510) 492-4080, *http://www.ietf.org/rfc.html*.
+(i) Internet Engineering Task Force (IETF) Secretariat, c/o Association Management Solutions, LLC (AMS), 48377 Fremont Blvd., Suite 117, Fremont, CA, 94538, Telephone (510) 492-4080, *http://www.ietf.org/rfc.html*.
 
 (1) [Reserved]
 
@@ -140,15 +164,11 @@ Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of
 
 (3) Request for Comment (RFC) 5646, “Tags for Identifying Languages, September 2009,” copyright 2009, IBR approved for § 170.207(g).
 
-(i) International Telecommunication Union (ITU), Place des Nations, 1211 Geneva 20 Switzerland, Telephone (41) 22 730 511, *http://www.itu.int/en/pages/default.aspx*.
+(j) International Telecommunication Union (ITU), Place des Nations, 1211 Geneva 20 Switzerland, Telephone (41) 22 730 511, *http://www.itu.int/en/pages/default.aspx*.
 
 (1) ITU-T E.123, Series E: Overall Network Operation, Telephone Service, Service Operation and Human Factors, International operation—General provisions concerning users: Notation for national and international telephone numbers, e-mail addresses and web addresses, February 2001, IBR approved for § 170.207(q).
 
 (2) ITU-T E.164, Series E: Overall Network Operation, Telephone Service, Service Operation and Human Factors, International operation—Numbering plan of the international telephone service, The international public telecommunication numbering plan, November 2010, IBR approved for § 170.207(q).
-
-(j) Library of Congress, Network Development and MARC Standards Office, Washington, DC 20540-4402, Tel: (202) 707-6237 or *http://www.loc.gov/standards/iso639-2/.*
-
-(1)-(2) [Reserved]
 
 (k) National Council for Prescription Drug Programs, Incorporated, 9240 E. Raintree Drive, Scottsdale, AZ 85260-7518; Telephone (480) 477-1000; and Facsimile (480) 767-1042 or *http://www.ncpdp.org.*
 
@@ -168,7 +188,7 @@ Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of
 
 (4) FIPS PUB 180-4, Secure Hash Standard (August 2015), IBR approved for § 170.210(c).
 
-(m) Office of the National Coordinator for Health Information Technology (ONC), 330 C Street SW., Washington, DC 20201, *http://healthit.hhs.gov*.
+(m) Office of the National Coordinator for Health Information Technology (ONC), 330 C Street SW, Washington, DC 20201; phone: (202) 690-7151; website: *https://healthit.gov.*
 
 (1) Applicability Statement for Secure Health Transport, Version 1.1, July 10, 2012, IBR approved for § 170.202; available at *http://healthit.hhs.gov/portal/server.pt/community/healthit\_hhs\_gov\_\_direct\_project/3338.*
 
@@ -180,19 +200,21 @@ Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of
 
 (5) United States Core Data for Interoperability (USCDI), Version 1, July 2020 Errata, IBR approved for § 170.213; available at *https://www.healthit.gov/USCDI.*
 
+(6) United States Core Data for Interoperability (USCDI), Version 3 (v3), October 2022 Errata; IBR approved for § 170.213(b).
+
 (n) OpenID Foundation, 2400 Camino Ramon, Suite 375, San Ramon, CA 94583, Telephone +1 925-275-6639, *http://openid.net/*.
 
 (1) OpenID Connect Core 1.0 Incorporating errata set 1, November 8, 2014, IBR approved for § 170.215(b).
 
 (2) [Reserved]
 
-(o) Public Health Data Standards Consortium, 111 South Calvert Street, Suite 2700, Baltimore, MD 21202, *http://www.phdsc.org/*.
+(o) Public Health Data Standards Consortium, 111 South Calvert Street, Suite 2700, Baltimore, MD 21202; phone: (801) 532-2299; website: *www.Ph.D.sc.org/.*
 
 (1) Public Health Data Standards Consortium Source of Payment Typology Code Set Version 5.0 (October 2011), IBR approved for § 170.207(s).
 
-(2) [Reserved]
+(2) Users Guide for Source of Payment Typology, Version 9.2, December 2020; IBR approved for § 170.207(s).
 
-(p) Regenstrief Institute, Inc., LOINC® c/o Regenstrief Center for Biomedical Informatics, Inc., 410 West 10th Street, Suite 2000, Indianapolis, IN 46202-3012, *http://loinc.org/*.
+(p) Regenstrief Institute, Inc., LOINC® c/o Regenstrief Center for Biomedical Informatics, Inc., 410 West 10th Street, Suite 2000, Indianapolis, IN 46202-3012; phone: (317) 274-9000; website: *https://loinc.org/* and *https://ucum.org/ucum.*
 
 (1) Logical Observation Identifiers Names and Codes (LOINC®) version 2.27, June 15, 2009, IBR approved for § 170.207.
 
@@ -202,13 +224,17 @@ Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of
 
 (4) The Unified Code of Units for Measure, Revision 1.9, October 23, 2013, IBR approved for § 170.207.
 
+(5) Logical Observation Identifiers Names and Codes (LOINC®) Database Version 2.72, February 2022; IBR approved for § 170.207(c).
+
+(6) The Unified Code for Units of Measure, Version 2.1, November 21, 2017; IBR approved for § 170.207(m).
+
 (q) The Direct Project, c/o the Office of the National Coordinator for Health Information Technology (ONC), 330 C Street SW., Washington, DC 20201, *http://healthit.hhs.gov*.
 
 (1) Applicability Statement for Secure Health Transport, Version 1.2, August 2015, IBR approved for § 170.202(a).
 
 (2) Implementation Guide for Delivery Notification in Direct, Version 1.0, June 29, 2012, IBR approved for § 170.202(e).
 
-(r) U.S. National Library of Medicine, 8600 Rockville Pike, Bethesda, MD 20894; Telephone (301) 594-5983 or *http://www.nlm.nih.gov/.*
+(r) U.S. National Library of Medicine, 8600 Rockville Pike, Bethesda, MD 20894; phone (301) 594-5983; website: *www.nlm.nih.gov/.*
 
 (1) International Health Terminology Standards Development Organization Systematized Nomenclature of Medicine Clinical Terms (SNOMED CT®), International Release, July 2009, IBR approved for § 170.207.
 
@@ -222,10 +248,14 @@ Link to an amendment published at 89 FR 1428, Jan. 9, 2024.The effective date of
 
 (7) RxNorm, September 8, 2015 Full Release Update, IBR approved for § 170.207(d).
 
+(8) SNOMED CT® [Systematized Nomenclature of Medicine Clinical Terms] U.S. Edition, March 2022 Release; IBR approved for § 170.207(a).
+
+(9) RxNorm, Full Update Release, July 5, 2022; IBR approved for § 170.207(d).
+
 (s) World Wide Web Consortium (W3C)/MIT, 32 Vassar Street, Room 32-G515, Cambridge, MA 02139 USA, *http://www.w3.org/standards/*
 
 (1) Web Content Accessibility Guidelines (WCAG) 2.0, December 11, 2008, IBR approved for § 170.204.
 
 (2) [Reserved]
 
-[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54285, Sept. 4, 2012; 77 FR 72991, Dec. 7, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62745, Oct. 16, 2015; 81 FR 72463, Oct. 19, 2016; 85 FR 25941, May 1, 2020; 85 FR 70082, Nov. 4, 2020]
+[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54285, Sept. 4, 2012; 77 FR 72991, Dec. 7, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62745, Oct. 16, 2015; 81 FR 72463, Oct. 19, 2016; 85 FR 25941, May 1, 2020; 85 FR 70082, Nov. 4, 2020; 89 FR 1428, Jan. 9, 2024]

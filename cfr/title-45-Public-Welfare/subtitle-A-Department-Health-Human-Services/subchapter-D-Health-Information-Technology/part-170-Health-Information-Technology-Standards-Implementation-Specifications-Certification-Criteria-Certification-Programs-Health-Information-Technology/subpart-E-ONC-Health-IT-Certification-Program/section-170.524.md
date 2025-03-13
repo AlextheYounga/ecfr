@@ -1,7 +1,5 @@
 ##### § 170.524 Principles of proper conduct for ONC-ATLs. #####
 
-Link to an amendment published at 89 FR 1435, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.
-
 An ONC-ATL shall:
 
 (a) *Accreditation.* Maintain its NVLAP accreditation for the ONC Health IT Certification Program, including accreditation to ISO/IEC 17025 (incorporated by reference, *see* § 170.599);
@@ -28,7 +26,7 @@ An ONC-ATL shall:
 
 (e) *Onsite observation.* Allow ONC, or its authorized agent(s), to periodically observe on site (unannounced or scheduled), during normal business hours, any testing performed pursuant to the ONC Health IT Certification Program;
 
-(f) *Records retention.* (1) Retain all records related to the testing of Complete EHRs and/or Health IT Modules to an edition of certification criteria beginning with the codification of an edition of certification criteria in the Code of Federal Regulations through a minimum of three years from the effective date that removes the applicable edition from the Code of Federal Regulations; and
+(f) *Records retention.* (1) Retain all records related to the testing of Health IT Modules to the ONC Certification Criteria for Health IT beginning with the codification of those certification criteria in the Code of Federal Regulations through a minimum of three years after the end of calendar year that included the effective date of the removal of those certification criteria from the Code of Federal Regulations; and
 
 (2) Make the records available to HHS upon request during the retention period described in paragraph (f)(1) of this section;
 
@@ -42,4 +40,4 @@ An ONC-ATL shall:
 
 (3) Previous testing that it performed if its conduct necessitates the retesting of Health IT Modules.
 
-[81 FR 72465, Oct. 19, 2016, as amended at 85 FR 25951, May 1, 2020]
+[81 FR 72465, Oct. 19, 2016, as amended at 85 FR 25951, May 1, 2020; 89 FR 1435, Jan. 9, 2024]

@@ -1,7 +1,5 @@
 ##### § 400.33 Examiner's review—application to establish or modify a zone. #####
 
-Link to an amendment published at 89 FR 8529, Feb. 8, 2024.
-
 An examiner assigned to review an application to establish, reorganize or expand a zone shall conduct a review taking into account the factors enumerated in § 400.26 and other appropriate sections of this part, which shall include:
 
 (a) Conducting or participating in hearings scheduled by the Executive Secretary;
@@ -18,6 +16,8 @@ An examiner assigned to review an application to establish, reorganize or expand
 
 (2) If the response contains new evidence on which there has been no opportunity for public comment, the Executive Secretary shall publish a notice in the Federal Register after completion of the review of the response. The new material shall be made available for public inspection and the Federal Register notice shall invite further public comment for a period of not less than 30 days, with an additional 15-day period for rebuttal comments.
 
-(3) If the bases for an examiner's recommendation(s) change as a result of new evidence, the applicable procedures of §§ 400.33(e)(1) and (2) shall be followed.
+(3) If the factors considered for an examiner's recommendation(s) change as a result of new evidence, the applicable procedures of paragraphs (e)(1) and (2) of this section shall be followed.
 
 (4) When necessary, a request may be made to CBP to provide further comments, which shall be submitted within 45 days after the request.
+
+[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8529, Feb. 8, 2024]

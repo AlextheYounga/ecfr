@@ -1,8 +1,6 @@
-##### § 170.315 2015 Edition health IT certification criteria. #####
+##### § 170.315 ONC certification criteria for Health IT. #####
 
-Link to an amendment published at 89 FR 1429, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.Link to a correction published at 89 FR 8548, Feb. 8, 2024.Link to a correction published at 89 FR 16470, Mar. 7, 2024.
-
-The Secretary adopts the following certification criteria for health IT. Health IT must be able to electronically perform the following capabilities in accordance with all applicable standards and implementation specifications adopted in this part:
+The Secretary adopts the following certification criteria for health IT. Health IT must be able to electronically perform the following capabilities in accordance with applicable standards and implementation specifications adopted in this part. For all criteria in this section, a health IT developer with a Health IT Module certified to any revised certification criterion, as defined in § 170.102, shall update the Health IT Module and shall provide such update to their customers in accordance with the dates identified for each revised certification criterion and for each applicable standard in 45 CFR part 170 subpart B.
 
 (a) *Clinical*—(1) *Computerized provider order entry—medications.* (i) Enable a user to record, change, and access medication orders.
 
@@ -26,21 +24,27 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (*2*) As a system administrative function.
 
-(5)*Demographics.* (i) Enable a user to record, change, and access patient demographic data including race, ethnicity, preferred language, sex, sexual orientation, gender identity, and date of birth.
+(5) *Patient demographics and observations.* (i) Enable a user to record, change, and access patient demographic and observations data including race, ethnicity, preferred language, sex, sex parameter for clinical use, sexual orientation, gender identity, name to use, pronouns, and date of birth.
 
-(A) *Race and ethnicity.* (*1*) Enable each one of a patient's races to be recorded in accordance with, at a minimum, the standard specified in § 170.207(f)(2) and whether a patient declines to specify race.
+(A) *Race and ethnicity.* (*1*) Enable each one of a patient's races to be recorded in accordance with, at a minimum, the standard specified in § 170.207(f)(3) and whether a patient declines to specify race.
 
-(*2*) Enable each one of a patient's ethnicities to be recorded in accordance with, at a minimum, the standard specified in § 170.207(f)(2) and whether a patient declines to specify ethnicity.
+(*2*) Enable each one of a patient's ethnicities to be recorded in accordance with, at a minimum, the standard specified in § 170.207(f)(3) and whether a patient declines to specify ethnicity.
 
 (*3*) Aggregate each one of the patient's races and ethnicities recorded in accordance with paragraphs (a)(5)(i)(A)(*1*) and (*2*) of this section to the categories in the standard specified in § 170.207(f)(1).
 
 (B) *Preferred language.* Enable preferred language to be recorded in accordance with the standard specified in § 170.207(g)(2) and whether a patient declines to specify a preferred language.
 
-(C) *Sex.* Enable sex to be recorded in accordance with the standard specified in § 170.207(n)(1).
+(C) *Sex.* Enable sex to be recorded in accordance with the standard specified in § 170.207(n)(1) for the period up to and including December 31, 2025; or § 170.207(n)(2).
 
-(D) *Sexual orientation.* Enable sexual orientation to be recorded in accordance with the standard specified in § 170.207(o)(1) and whether a patient declines to specify sexual orientation.
+(D) *Sexual orientation.* Enable sexual orientation to be recorded in accordance with, at a minimum, the version of the standard specified in § 170.207(o)(1) for the period up to and including December 31, 2025; or § 170.207(o)(3), as well as whether a patient declines to specify sexual orientation.
 
-(E) *Gender identity.* Enable gender identity to be recorded in accordance with the standard specified in § 170.207(o)(2) and whether a patient declines to specify gender identity.
+(E) *Gender identity.* Enable gender identity to be recorded in accordance with, at a minimum, the version of the standard specified in § 170.207(o)(2) for the period up to and including December 31, 2025; or § 170.207(o)(3), as well as whether a patient declines to specify gender identity.
+
+(F) *Sex Parameter for Clinical Use.* Enable at least one sex parameter for clinical use to be recorded in accordance with, at a minimum, the version of the standard specified in § 170.207(n)(3). Conformance with this paragraph is required by January 1, 2026.
+
+(G) *Name to Use.* Enable at least one preferred name to use to be recorded. Conformance with this paragraph is required by January 1, 2026.
+
+(H) *Pronouns.* Enable at least one pronoun to be recorded in accordance with, at a minimum, the version of the standard specified in § 170.207(o)(4). Conformance with this paragraph is required by January 1, 2026.
 
 (ii) *Inpatient setting only.* Enable a user to record, change, and access the preliminary cause of death and date of death in the event of mortality.
 
@@ -92,6 +96,8 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (B) For linked referential CDS in paragraph (a)(9)(iv) of this section and drug-drug, drug-allergy interaction checks in paragraph (a)(4) of this section, the developer of the intervention, and where clinically indicated, the bibliographic citation of the intervention (clinical research/guideline).
 
+(vi) *Expiration of criterion.* The adoption of this criterion for purposes of the ONC Health IT Certification Program expires on January 1, 2025.
+
 (10) *Drug-formulary and preferred drug list checks.* The requirements specified in one of the following paragraphs (that is, paragraphs (a)(10)(i) and (a)(10)(ii) of this section) must be met to satisfy this certification criterion:
 
 (i) *Drug formulary checks.* Automatically check whether a drug formulary exists for a given patient and medication.
@@ -100,7 +106,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (11) [Reserved]
 
-(12) *Family health history.* Enable a user to record, change, and access a patient's family health history in accordance with the familial concepts or expressions included in, at a minimum, the version of the standard in § 170.207(a)(4).
+(12) *Family health history.* Enable a user to record, change, and access a patient's family health history in accordance with the familial concepts or expressions included in, at a minimum, the version of the standard in § 170.207(a)(1).
 
 (13) *Patient-specific education resources.* (i) Identify patient-specific education resources based on data included in the patient's problem list and medication list in accordance with at least one of the following standards and implementation specifications:
 
@@ -220,9 +226,9 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (iii) *Create.* Enable a user to create a transition of care/referral summary formatted in accordance with the standard specified in § 170.205(a)(3), (4), and (5) using the Continuity of Care Document, Referral Note, and (inpatient setting only) Discharge Summary document templates that includes, at a minimum:
 
-(A)(*1*) The data classes expressed in the standard in § 170.213 and in accordance with § 170.205(a)(4), (5), and paragraphs (b)(1)(iii)(A)(*3*)(*i*) through (*iii*) of this section, or
+(A)(*1*) The data classes expressed in the standards in § 170.213 and in accordance with § 170.205(a)(4), (5), and paragraphs (b)(1)(iii)(A)(*3*)(*i*) through (*iii*) of this section for the time period up to and including December 31, 2025, or
 
-(*2*) The Common Clinical Data Set in accordance with § 170.205(a)(4) and paragraph (b)(1)(iii)(A)(*3*)(*i*) through (*iv*) of this section for the period before December 31, 2022, and
+(*2*) The data classes expressed in the standards in § 170.213 and in accordance with § 170.205(a)(4), (6), and paragraphs (b)(1)(iii)(A)(*3*)(*i*) through (*iii*) of this section, and
 
 (*3*) The following data classes:
 
@@ -238,7 +244,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (*1*) The standard specified in § 170.207(i).
 
-(*2*) At a minimum, the version of the standard specified in § 170.207(a)(4).
+(*2*) At a minimum, the version of the standard specified in § 170.207(a)(1).
 
 (C) Cognitive status.
 
@@ -248,7 +254,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (F) *Inpatient setting only.* Discharge instructions.
 
-(G) *Patient matching data.* First name, last name, previous name, middle name (including middle initial), suffix, date of birth, address, phone number, and sex. The following constraints apply:
+(G) *Patient matching data.* First name, last name, previous name, middle name (including middle initial), suffix, date of birth, current address, phone number, and sex. The following constraints apply:
 
 (*1*) *Date of birth constraint.* (*i*) The year, month and day of birth must be present for a date of birth. The technology must include a null value when the date of birth is unknown.
 
@@ -256,11 +262,11 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (*2*) *Phone number constraint.* Represent phone number (home, business, cell) in accordance with the standards adopted in § 170.207(q)(1). All phone numbers must be included when multiple phone numbers are present.
 
-(*3*) *Sex constraint.* Represent sex in accordance with the standard adopted in § 170.207(n)(1).
+(*3*) *Sex Constraint:* Represent sex with the standard adopted in § 170.207(n)(1) up to and including December 31, 2025; or with the standard adopted in § 170.207(n)(2).
 
-(2) *Clinical information reconciliation and incorporation*—(i) *General requirements.* Paragraphs (b)(2)(ii) and (iii) of this section must be completed based on the receipt of a transition of care/referral summary formatted in accordance with the standards adopted in § 170.205(a)(3) through (5) using the Continuity of Care Document, Referral Note, and (inpatient setting only) Discharge Summary document templates on and after December 31, 2022.
+(2) *Clinical information reconciliation and incorporation*—(i) *General requirements.* Paragraphs (b)(2)(ii) and (iii) of this section must be completed based on the receipt of a transition of care/referral summary formatted in accordance with the standards adopted in § 170.205(a)(3) through (5) using the Continuity of Care Document, Referral Note, and (inpatient setting only) Discharge Summary document templates, for time period up to and including December 31, 2025; or in accordance with the standards adopted in § 170.205(a)(3), (4), (6).
 
-(ii) *Correct patient.* Upon receipt of a transition of care/referral summary formatted according to the standards adopted § 170.205(a)(3) through (5), technology must be able to demonstrate that the transition of care/referral summary received can be properly matched to the correct patient.
+(ii) *Correct patient.* Upon receipt of a transition of care/referral summary formatted according to the standards adopted § 170.205(a)(3) through (5) for the period up to and including December 31, 2025; or according to the standards adopted § 170.205(a)(3), (4), and (6), technology must be able to demonstrate that the transition of care/referral summary received can be properly matched to the correct patient.
 
 (iii) *Reconciliation.* Enable a user to reconcile the data that represent a patient's active medication list, allergies and intolerance list, and problem list as follows. For each list type:
 
@@ -270,7 +276,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (C) Enable a user to review and validate the accuracy of a final set of data.
 
-(D) Upon a user's confirmation, automatically update the list, and incorporate the following data expressed according to the specified standard(s) on and after December 31, 2022:
+(D) Upon a user's confirmation, automatically update the list, and incorporate the following data expressed according to the specified standards:
 
 (*1*) *Medications.* At a minimum, the version of the standard specified in § 170.213;
 
@@ -279,6 +285,8 @@ The Secretary adopts the following certification criteria for health IT. Health 
 (*3*) *Problems.* At a minimum, the version of the standard specified in § 170.213.
 
 (iv) *System verification.* Based on the data reconciled and incorporated, the technology must be able to create a file formatted according to the standard specified in § 170.205(a)(4) using the Continuity of Care Document template and the standard specified in § 170.205(a)(5) on and after December 31, 2022.
+
+(iv) *System verification.* Based on the data reconciled and incorporated, the technology must be able to create a file formatted according to the standard specified in § 170.205(a)(4) using the Continuity of Care Document template and the standard specified in paragraph (a)(5) of this section for the time period up to and including December 31, 2025; or according to the standard specified in § 170.205(a)(4) using the Continuity of Care Document template and the standard specified in paragraph (a)(6) of this section.
 
 (3) *Electronic prescribing.* (i) For technology certified prior to June 30, 2020, subject to the real world testing provisions at § 170.405(b)(5),
 
@@ -306,7 +314,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (ii) For technology certified subsequent to June 30, 2020:
 
-(A) Enable a user to perform the following prescription-related electronic transactions in accordance with the standard specified in § 170.205(b)(1) and, at a minimum, the version of the standard specified in § 170.207(d)(3) as follows:
+(A) Enable a user to perform the following prescription-related electronic transactions in accordance with the standard specified in § 170.205(b)(1) and, at a minimum, the version of the standard specified in § 170.207(d)(1) as follows:
 
 (*1*) Create new prescriptions (NewRx).
 
@@ -396,7 +404,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (*1*) The standard specified in § 170.207(i).
 
-(*2*) At a minimum, the version of the standard specified in § 170.207(a)(4).
+(*2*) At a minimum, the version of the standard specified in § 170.207(a)(1).
 
 (C) Cognitive status.
 
@@ -436,7 +444,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (i) The Care Plan document template, including the Health Status Evaluations and Outcomes Section and Interventions Section (V2), in the standard specified in § 170.205(a)(4); and
 
-(ii) The standard in § 170.205(a)(5) on and after December 31, 2022.
+(ii) The standard in § 170.205(a)(5) for the time period up to and including December 31, 2025; or § 170.205(a)(6).
 
 (10) *Electronic Health Information export*—(i) *Single patient electronic health information export.* (A) Enable a user to timely create an export file(s) with all of a single patient's electronic health information that can be stored at the time of certification by the product, of which the Health IT Module is a part.
 
@@ -459,6 +467,166 @@ The Secretary adopts the following certification criteria for health IT. Health 
 (B) The publicly accessible hyperlink of the export's format must be included with the exported file(s).
 
 (iii) *Documentation.* The export format(s) used to support paragraphs (b)(10)(i) and (ii) of this section must be kept up-to-date.
+
+(11) Decision support interventions—
+
+(i) *Decision support intervention interaction.* Interventions provided to a user must occur when a user is interacting with technology.
+
+(ii) *Decision support configuration.* (A) Enable interventions specified in paragraphs (b)(11)(iii) of this section to be configured by a limited set of identified users based on a user's role.
+
+(B) Enable interventions when a patient's medications, allergies and intolerance, and problems are incorporated from a transition of care or referral summary received and pursuant to paragraph (b)(2)(iii)(D) of this section.
+
+(C) Enable a user to provide electronic feedback data for evidence-based decision support interventions selected via the capability provided in paragraph (b)(11)(iii)(A) of this section and make available such feedback data to a limited set of identified users for export, in a computable format, including at a minimum the intervention, action taken, user feedback provided (if applicable), user, date, and location.
+
+(iii) *Decision support intervention selection.* Enable a limited set of identified users to select (*i.e.,* activate) electronic decision support interventions (in addition to drug-drug and drug-allergy contraindication checking) that are:
+
+(A) Evidence-based decision support interventions and use any data based on the following data expressed in the standards in § 170.213:
+
+(*1*) Problems;
+
+(*2*) Medications;
+
+(*3*) Allergies and Intolerances;
+
+(*4*) At least one demographic specified in paragraph (a)(5)(i) of this section;
+
+(*5*) Laboratory;
+
+(*6*) Vital Signs;
+
+(*7*) Unique Device Identifier(s) for a Patient's Implantable Device(s); and
+
+(*8*) Procedures.
+
+(B) Predictive Decision Support Interventions and use any data expressed in the standards in § 170.213.
+
+(iv) *Source attributes.* Source attributes listed in paragraphs (b)(11)(iv)(A) and (B) of this section must be supported.
+
+(A) For evidence-based decision support interventions:
+
+(*1*) Bibliographic citation of the intervention (clinical research or guideline);
+
+(*2*) Developer of the intervention (translation from clinical research or guideline);
+
+(*3*) Funding source of the technical implementation for the intervention(s) development;
+
+(*4*) Release and, if applicable, revision dates of the intervention or reference source;
+
+(*5*) Use of race as expressed in the standards in § 170.213;
+
+(*6*) Use of ethnicity as expressed in the standards in § 170.213;
+
+(*7*) Use of language as expressed in the standards in § 170.213;
+
+(*8*) Use of sexual orientation as expressed in the standards in § 170.213;
+
+(*9*) Use of gender identity as expressed in the standards in § 170.213;
+
+(*10*) Use of sex as expressed in the standards in § 170.213;
+
+(*11*) Use of date of birth as expressed in the standards in § 170.213;
+
+(*12*) Use of social determinants of health data as expressed in the standards in § 170.213; and
+
+(*13*) Use of health status assessments data as expressed in the standards in § 170.213.
+
+(B) For Predictive Decision Support Interventions:
+
+(*1*) Details and output of the intervention, including:
+
+(*i*) Name and contact information for the intervention developer;
+
+(*ii*) Funding source of the technical implementation for the intervention(s) development;
+
+(*iii*) Description of value that the intervention produces as an output; and
+
+(*iv*) Whether the intervention output is a prediction, classification, recommendation, evaluation, analysis, or other type of output.
+
+(*2*) Purpose of the intervention, including:
+
+(*i*) Intended use of the intervention;
+
+(*ii*) Intended patient population(s) for the intervention's use;
+
+(*iii*) Intended user(s); and
+
+(*iv*) Intended decision-making role for which the intervention was designed to be used/for (*e.g.,* informs, augments, replaces clinical management).
+
+(*3*) Cautioned out-of-scope use of the intervention, including:
+
+(*i*) Description of tasks, situations, or populations where a user is cautioned against applying the intervention; and
+
+(*ii*) Known risks, inappropriate settings, inappropriate uses, or known limitations.
+
+(*4*) Intervention development details and input features, including at a minimum:
+
+(*i*) Exclusion and inclusion criteria that influenced the training data set;
+
+(*ii*) Use of variables in paragraphs (b)(11)(iv)(A)(*5*) through (*13*) of this section as input features;
+
+(*iii*) Description of demographic representativeness according to variables in paragraphs (b)(11)(iv)(A)(*5*) through (*13*) of this section including, at a minimum, those used as input features in the intervention;
+
+(*iv*) Description of relevance of training data to intended deployed setting; and
+
+(*5*) Process used to ensure fairness in development of the intervention, including:
+
+(*i*) Description of the approach the intervention developer has taken to ensure that the intervention's output is fair; and
+
+(*ii*) Description of approaches to manage, reduce, or eliminate bias.
+
+(*6*) External validation process, including:
+
+(*i*) Description of the data source, clinical setting, or environment where an intervention's validity and fairness has been assessed, other than the source of training and testing data
+
+(*ii*) Party that conducted the external testing;
+
+(*iii*) Description of demographic representativeness of external data according to variables in paragraph (b)(11)(iv)(A)(*5*)-(*13*) including, at a minimum, those used as input features in the intervention; and
+
+(*iv*) Description of external validation process.
+
+(*7*) Quantitative measures of performance, including:
+
+(*i*) Validity of intervention in test data derived from the same source as the initial training data;
+
+(*ii*) Fairness of intervention in test data derived from the same source as the initial training data;
+
+(*iii*) Validity of intervention in data external to or from a different source than the initial training data;
+
+(*iv*) Fairness of intervention in data external to or from a different source than the initial training data;
+
+(*v*) References to evaluation of use of the intervention on outcomes, including, bibliographic citations or hyperlinks to evaluations of how well the intervention reduced morbidity, mortality, length of stay, or other outcomes;
+
+(*8*) Ongoing maintenance of intervention implementation and use, including:
+
+(*i*) Description of process and frequency by which the intervention's validity is monitored over time;
+
+(*ii*) Validity of intervention in local data;
+
+(*iii*) Description of the process and frequency by which the intervention's fairness is monitored over time;
+
+(*iv*) Fairness of intervention in local data; and
+
+(*9*) Update and continued validation or fairness assessment schedule, including:
+
+(*i*) Description of process and frequency by which the intervention is updated; and
+
+(*ii*) Description of frequency by which the intervention's performance is corrected when risks related to validity and fairness are identified.
+
+(v) *Source attribute access and modification*—(A) *Access.* (*1*) For evidence-based decision support interventions and Predictive Decision Support Interventions supplied by the health IT developer as part of its Health IT Module, the Health IT Module must enable a limited set of identified users to access complete and up-to-date plain language descriptions of source attribute information specified in paragraphs (b)(11)(iv)(A) and (B) of this section.
+
+(*2*) For Predictive Decision Support Interventions supplied by the health IT developer as part of its Health IT Module, the Health IT Module must indicate when information is not available for review for source attributes in paragraphs (b)(11)(iv)(B)(*6*); (b)(11)(iv)(B)(*7*)(*iii*), (*iv*), and (*v*); (b)(11)(iv)(B)(*8*)(*ii*) and (*iv*); and (b)(11)(iv)(B)(*9*) of this section.
+
+(B) *Modify.* (*1*) For evidence-based decision support interventions and Predictive Decision Support Interventions, the Health IT Module must enable a limited set of identified users to record, change, and access source attributes in paragraphs (b)(11)(iv)(A) and (B) of this section.
+
+(*2*) For Predictive Decision Support Interventions, the Health IT Module must enable a limited set of identified users to record, change, and access additional source attributes not specified in paragraph (b)(11)(iv)(B) of this section.
+
+(vi) *Intervention risk management.* Intervention risk management practices must be applied for each Predictive Decision Support Intervention supplied by the health IT developer as part of its Health IT Module.
+
+(A) *Risk analysis.* The Predictive Decision Support Intervention(s) must be subject to analysis of potential risks and adverse impacts associated with the following characteristics: validity, reliability, robustness, fairness, intelligibility, safety, security, and privacy.
+
+(B) *Risk mitigation.* The Predictive Decision Support Intervention (s) must be subject to practices to mitigate risks, identified in accordance with paragraph (b)(11)(vi)(A) of this section; and
+
+(C) *Governance.* The Predictive Decision Support Intervention(s) must be subject to policies and implemented controls for governance, including how data are acquired, managed, and used.
 
 (c) *Clinical quality measures*—(1) *Clinical quality measures—record and export*—(i) *Record.* For each and every CQM for which the technology is presented for certification, the technology must be able to record all of the data that would be necessary to calculate each CQM. Data required for CQM exclusions or exceptions must be codified entries, which may include specific terms as defined by each CQM, or may include codified expressions of “patient reason,” “system reason,” or “medical reason.”
 
@@ -494,19 +662,19 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (B) National Provider Identifier.
 
-(C) Provider type in accordance with, at a minimum, the standard specified in § 170.207(r)(1).
+(C) Provider type in accordance with, at a minimum, the standard specified in § 170.207(r)(2).
 
 (D) Practice site address.
 
-(E) Patient insurance in accordance with the standard specified in § 170.207(s)(1).
+(E) Patient insurance in accordance with the standard specified in § 170.207(s)(2).
 
 (F) Patient age.
 
-(G) Patient sex in accordance with the version of the standard specified in § 170.207(n)(1).
+(G) Patient sex in accordance with the version of the standard specified in § 170.207(n)(2).
 
-(H) Patient race and ethnicity in accordance with, at a minimum, the version of the standard specified in § 170.207(f)(2).
+(H) Patient race and ethnicity in accordance with, at a minimum, the version of the standard specified in § 170.207(f)(3).
 
-(I) Patient problem list data in accordance with, at a minimum, the version of the standard specified in § 170.207(a)(4).
+(I) Patient problem list data in accordance with, at a minimum, the version of the standard specified in § 170.207(a)(1).
 
 (d) *Privacy and security*—(1) *Authentication, access control, and authorization.* (i) Verify against a unique identifier(s) (*e.g.*, username or number) that a user seeking access to electronic health information is the one claimed; and
 
@@ -592,9 +760,9 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (A) *View.* Patients (and their authorized representatives) must be able to use health IT to view, at a minimum, the following data:
 
-(*1*) The data classes expressed in the standards in § 170.213 (which should be in their English (*i.e.,* non-coded) representation if they associate with a vocabulary/code set), and in accordance with § 170.205(a)(4) and (a)(5), and paragraphs (e)(1)(i)(A)(*3*)(*i*) through (*iii*) of this section, or
+(*1*) The data classes expressed in the standards in § 170.213 (which should be in their English (*i.e.,* non-coded) representation if they associate with a vocabulary/code set), and in accordance with § 170.205(a)(4) and (a)(5), and paragraphs (e)(1)(i)(A)(*3*)(*i*) through (*iii*) of this section for the time period up to and including December 31, 2025, or
 
-(*2*) The Common Clinical Data Set in accordance with § 170.205(a)(4) and paragraphs (e)(1)(i)(A)(*3*)(*i*) through (*iv*) of this section for the period before December 31, 2022.
+(*2*) The data classes expressed in the standards in § 170.213 (which should be in their English (*i.e.,* non-coded) representation if they associate with a vocabulary/code set), and in accordance with § 170.205(a)(4) and (a)(6), and paragraphs (e)(1)(i)(A)(*3*)(*i*) through (*iii*) of this section.
 
 (*3*) The following data classes:
 
@@ -624,9 +792,9 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (*i*) Human readable format; and
 
-(*ii*) The format specified in accordance to the standard specified in § 170.205(a)(4) and (5) following the CCD document template.
+(*ii*) The format specified in accordance with the standard specified in § 170.205(a)(4) and (5) for the time period up to and including December 31, 2025, or § 170.205(a)(4) and (6), and following the CCD document template.
 
-(*2*) When downloaded according to the standard specified in § 170.205(a)(4) and (5) following the CCD document template, the ambulatory summary or inpatient summary must include, at a minimum, the following data (which, for the human readable version, should be in their English representation if they associate with a vocabulary/code set):
+(*2*) When downloaded according to the standard specified in § 170.205(a)(4) through (6) following the CCD document template, the ambulatory summary or inpatient summary must include, at a minimum, the following data (which, for the human readable version, should be in their English representation if they associate with a vocabulary/code set):
 
 (*i*) *Ambulatory setting only.* All of the data specified in paragraph (e)(1)(i)(A)(*1*), (*2*), (*4*), and (*5*) of this section.
 
@@ -662,6 +830,8 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (B) [Reserved]
 
+(iii) *Request for restrictions.* Patients (and their authorized representatives) must be able to use an internet-based method to request a restriction to be applied for any data expressed in the standards in § 170.213. Conformance with this paragraph is required by January 1, 2026.
+
 (2) *Secure messaging.* Enable a user to send messages to, and receive messages from, a patient in a secure manner.
 
 (3) *Patient health information capture.* Enable a user to:
@@ -674,9 +844,9 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (A) The standard and applicable implementation specifications specified in § 170.205(e)(4).
 
-(B) At a minimum, the version of the standard specified in § 170.207(e)(3) for historical vaccines.
+(B) At a minimum, the version of the standard specified in § 170.207(e)(1) for historical vaccines.
 
-(C) At a minimum, the version of the standard specified in § 170.207(e)(4) for administered vaccines.
+(C) At a minimum, the version of the standard specified in § 170.207(e)(2) for administered vaccines.
 
 (ii) Enable a user to request, access, and display a patient's evaluated immunization history and the immunization forecast from an immunization registry in accordance with the standard at § 170.205(e)(4).
 
@@ -686,37 +856,49 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (i) The standard (and applicable implementation specifications) specified in § 170.205(g).
 
-(ii) At a minimum, the versions of the standards specified in § 170.207(a)(3) and (c)(2).
+(ii) At a minimum, the versions of the standards specified in § 170.207(a)(1) and (c)(1).
 
 (4) *Transmission to cancer registries.* Create cancer case information for electronic transmission in accordance with:
 
 (i) The standard (and applicable implementation specifications) specified in § 170.205(i)(2).
 
-(ii) At a minimum, the versions of the standards specified in § 170.207(a)(4) and (c)(3).
+(ii) At a minimum, the versions of the standards specified in § 170.207(a)(1) and (c)(1).
 
-(5) *Transmission to public health agencies—electronic case reporting.* (i) Consume and maintain a table of trigger codes to determine which encounters may be reportable.
+(5) *Transmission to public health agencies*—*electronic case reporting.* Enable a user to create a case report for electronic transmission meeting the requirements described in paragraphs (f)(5)(i) of this section for the time period up to and including December 31, 2025; or the requirements described in paragraph (f)(5)(ii) of this section.
 
-(ii) Match a patient visit or encounter to the trigger code based on the parameters of the trigger code table.
+(i) *Functional electronic case reporting.* A Health IT Module must enable a user to create a case report for electronic transmission in accordance with the following:
 
-(iii) *Case report creation.* Create a case report for electronic transmission:
+(A) Consume and maintain a table of trigger codes to determine which encounters may be reportable.
 
-(A) Based on a matched trigger from paragraph (f)(5)(ii).
+(B) Match a patient visit or encounter to the trigger code based on the parameters of the trigger code table.
 
-(B) That includes, at a minimum:
+(C) *Case report creation.* Create a case report for electronic transmission:
 
-(*1*) The data classes expressed in the standard in § 170.213, or
+(*1*) Based on a matched trigger from paragraph (f)(5)(i)(B).
 
-(*2*) The Common Clinical Data Set for the period before December 31, 2022.
+(*2*) That includes, at a minimum:
 
-(*3*) *Encounter diagnoses.* Formatted according to at least one of the following standards:
+(*i*) The data classes expressed in the standards in § 170.213.
 
-(*i*) The standard specified in § 170.207(i).
+(*ii*) Encounter diagnoses formatted according to at least one of the standards specified in § 170.207(i) or § 170.207(a)(1).
 
-(*ii*) At a minimum, the version of the standard specified in § 170.207(a)(4).
+(*iii*) The provider's name, office contact information, and reason for visit.
 
-(*4*) The provider's name, office contact information, and reason for visit.
+(*iv*) An identifier representing the row and version of the trigger table that triggered the case report.
 
-(*5*) An identifier representing the row and version of the trigger table that triggered the case report.
+(ii) *Standards-based electronic case reporting.* A Health IT Module must enable a user to create a case report for electronic transmission in accordance with the following:
+
+(A) Consume and process case reporting trigger codes and identify a reportable patient visit or encounter based on a match from the Reportable Conditions Trigger Code value set in § 170.205(t)(4).
+
+(B) Create a case report consistent with at least one of the following standards:
+
+(*1*) The eICR profile of the HL7 FHIR eCR IG in § 170.205(t)(1); or
+
+(*2*) The HL7 CDA eICR IG in § 170.205(t)(2).
+
+(C) Receive, consume, and process a case report response that is formatted to either the reportability response profile of the HL7 FHIR eCR IG in § 170.205(t)(1) or the HL7 CDA RR IG in § 170.205(t)(3) as determined by the standard used in (f)(5)(ii)(B) of this section.
+
+(D) Transmit a case report electronically to a system capable of receiving a case report.
 
 (6) *Transmission to public health agencies—antimicrobial use and resistance reporting.* Create antimicrobial use and resistance reporting information for electronic transmission in accordance with the standard specified in § 170.205(r)(1).
 
@@ -726,7 +908,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (2) *Automated measure calculation.* For each Promoting Interoperability Programs percentage-based measure that is supported by a capability included in a technology, record the numerator and denominator and create a report including the numerator, denominator, and resulting percentage associated with each applicable measure.
 
-(3) *Safety-enhanced design.* (i) User-centered design processes must be applied to each capability technology includes that is specified in the following certification criteria: Paragraphs (a)(1) through (5), (9), and (14), and (b)(2) and (3).
+(3) *Safety-enhanced design.*(i) User-centered design processes must be applied to each capability technology includes that is specified in the following certification criteria: paragraphs (a)(1) through (5), (9) (until the criterion's expiration date), and (14) and (b)(2), (3), and (11) of this section.
 
 (ii) *Number of test participants.* A minimum of 10 test participants must be used for the testing of each capability identified in paragraph (g)(3)(i) of this section.
 
@@ -774,9 +956,9 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (i) This certification criterion's scope includes:
 
-(A) The data classes expressed in the standard in § 170.213, and in accordance with § 170.205(a)(4) and (5) and paragraphs (g)(6)(i)(C)(*1*) through (*3*) of this section; or
+(A) The data classes expressed in the standards in § 170.213 in accordance with § 170.205(a)(4) and (a)(5) and paragraphs (g)(6)(i)(C)(*1*) through (*4*) of this section for the time period up to and including December 31, 2025; or
 
-(B) The Common Clinical Data Set in accordance with § 170.205(a)(4) and paragraphs (g)(6)(i)(C)(*1*) through (*4*) of this section for the period before December 31, 2022.
+(B) The data classes expressed in the standards in § 170.213, and in accordance with § 170.205(a)(4) and (6) and paragraphs (g)(6)(i)(C)(*1*) through (*3*) of this section.
 
 (C) The following data classes:
 
@@ -830,9 +1012,9 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (9) *Application access—all data request.* The following technical outcome and conditions must be met through the demonstration of an application programming interface.
 
-(i) *Functional requirements.* (A)(*1*) Respond to requests for patient data (based on an ID or other token) for all of the data classes expressed in the standards in § 170.213 at one time and return such data (according to the specified standards, where applicable) in a summary record formatted in accordance with § 170.205(a)(4) and (5) following the CCD document template, and as specified in paragraphs (g)(9)(i)(A)(*3*)(*i*) through (*iii*) of this section, or
+(i) *Functional requirements.* (A)(*1*) Respond to requests for patient data (based on an ID or other token) for all of the data classes expressed in the standards in § 170.213 at one time and return such data (according to the specified standards, where applicable) in a summary record formatted in accordance with § 170.205(a)(4) and (5) following the CCD document template, and as specified in paragraphs (g)(9)(i)(A)(*3*)(*i*) through (*iv*) of this section for the time period up to and including December 31, 2025; or
 
-(*2*) The Common Clinical Data Set in accordance with paragraphs (g)(9)(i)(A)(*3*)(*i*) through (*iv*) of this section for the period before December 31, 2022, and
+(*2*) Respond to requests for patient data (based on an ID or other token) for all of the data classes expressed in the standards in § 170.213 at one time and return such data (according to the specified standards, where applicable) in a summary record formatted in accordance with § 170.205(a)(4) and (6) following the CCD document template, and as specified in paragraphs (g)(9)(i)(A)(*3*)(*i*) through (*iv*) of this section.
 
 (*3*) The following data classes:
 
@@ -856,35 +1038,35 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (10) *Standardized API for patient and population services.* The following technical outcomes and conditions must be met through the demonstration of application programming interface technology.
 
-(i) *Data response.* (A) Respond to requests for a single patient's data according to the standard adopted in § 170.215(a)(1) and implementation specification adopted in § 170.215(a)(2), including the mandatory capabilities described in “US Core Server CapabilityStatement,” for each of the data included in the standard adopted in § 170.213. All data elements indicated as “mandatory” and “must support” by the standards and implementation specifications must be supported.
+(i) *Data response.*(A) Respond to requests for a single patient's data according to the standards and implementation specifications adopted in § 170.215(a) and in § 170.215(b)(1), including the mandatory capabilities described in “US Core Server CapabilityStatement,” for each of the data included in the standards adopted in § 170.213. All data elements indicated as “mandatory” and “must support” by the standards and implementation specifications must be supported.
 
-(B) Respond to requests for multiple patients' data as a group according to the standard adopted in § 170.215(a)(1), and implementation specifications adopted in § 170.215(a)(2) and (4), for each of the data included in the standard adopted in § 170.213. All data elements indicated as “mandatory” and “must support” by the standards and implementation specifications must be supported.
+(B) Respond to requests for multiple patients' data as a group according to the standards and implementation specifications adopted in § 170.215(a), (b)(1), and (d), for each of the data included in the standards adopted in § 170.213. All data elements indicated as “mandatory” and “must support” by the standards and implementation specifications must be supported.
 
-(ii) *Supported search operations.* (A) Respond to search requests for a single patient's data consistent with the search criteria included in the implementation specification adopted in § 170.215(a)(2), specifically the mandatory capabilities described in “US Core Server CapabilityStatement.”
+(ii) *Supported search operations.* (A) Respond to search requests for a single patient's data consistent with the search criteria included in the implementation specifications adopted in § 170.215(b)(1), specifically the mandatory capabilities described in “US Core Server CapabilityStatement.”
 
-(B) Respond to search requests for multiple patients' data consistent with the search criteria included in the implementation specification adopted in § 170.215(a)(4).
+(B) Respond to search requests for multiple patients' data consistent with the search criteria included in the implementation specification adopted in § 170.215(d).
 
 (iii) *Application registration.* Enable an application to register with the Health IT Module's “authorization server.”
 
-(iv) *Secure connection.* (A) Establish a secure and trusted connection with an application that requests data for patient and user scopes in accordance with the implementation specifications adopted in § 170.215(a)(2) and (3).
+(iv) *Secure connection.* (A) Establish a secure and trusted connection with an application that requests data for patient and user scopes in accordance with the implementation specifications adopted in § 170.215(b)(1) and (c).
 
-(B) Establish a secure and trusted connection with an application that requests data for system scopes in accordance with the implementation specification adopted in § 170.215(a)(4).
+(B) Establish a secure and trusted connection with an application that requests data for system scopes in accordance with the implementation specification adopted in § 170.215(d).
 
-(v) *Authentication and authorization*—(A) *Authentication and authorization for patient and user scopes*—(*1*) *First time connections.* (*i*) Authentication and authorization must occur during the process of granting access to patient data in accordance with the implementation specification adopted in § 170.215(a)(3) and standard adopted in § 170.215(b).
+(v) *Authentication and authorization*—(A) *Authentication and authorization for patient and user scopes*—(*1*) *First time connections.* (*i*) Authentication and authorization must occur during the process of granting access to patient data in accordance with the implementation specification adopted in § 170.215(c) and standard adopted in § 170.215(e).
 
-(*ii*) A Health IT Module's authorization server must issue a refresh token valid for a period of no less than three months to applications capable of storing a client secret.
+(*ii*) A Health IT Module's authorization server must issue a refresh token valid for a period of no less than three months to applications using the “confidential app” profile according to an implementation specification adopted in § 170.215(c).
 
 (*iii*) A Health IT Module's authorization server must issue a refresh token for a period of no less than three months to native applications capable of securing a refresh token
 
-(*2*) *Subsequent connections.* (*i*) Access must be granted to patient data in accordance with the implementation specification adopted in § 170.215(a)(3) without requiring re-authorization and re-authentication when a valid refresh token is supplied by the application.
+(*2*) *Subsequent connections.* (*i*) Access must be granted to patient data in accordance with the implementation specification adopted in § 170.215(c) without requiring re-authorization and re-authentication when a valid refresh token is supplied by the application.
 
-(*ii*) A Health IT Module's authorization server must issue a refresh token valid for a new period of no less than three months to applications capable of storing a client secret.
+(*ii*) A Health IT Module's authorization server must issue a refresh token valid for a new period of no less than three months to applications using the “confidential app” profile according to an implementation specification adopted in § 170.215(c).
 
-(B) *Authentication and authorization for system scopes.* Authentication and authorization must occur during the process of granting an application access to patient data in accordance with the “SMART Backend Services: Authorization Guide” section of the implementation specification adopted in § 170.215(a)(4) and the application must be issued a valid access token.
+(B) Authentication and authorization for system scopes. Authentication and authorization must occur during the process of granting an application access to patient data in accordance with the “SMART Backend Services: Authorization Guide” section of the implementation specification adopted in § 170.215(d) and the application must be issued a valid access token.
 
-(vi) *Patient authorization revocation.* A Health IT Module's authorization server must be able to revoke an authorized application's access at a patient's direction.
+(vi) *Patient authorization revocation.* A Health IT Module's authorization server must be able to revoke and must revoke an authorized application's access at a patient's direction within 1 hour of the request.
 
-(vii) *Token introspection.* A Health IT Module's authorization server must be able to receive and validate tokens it has issued.
+(vii) *Token introspection.* A Health IT Module's authorization server must be able to receive and validate tokens it has issued in accordance with an implementation specification in § 170.215(c).
 
 (viii) *Documentation.* (A) The API(s) must include complete accompanying documentation that contains, at a minimum:
 
@@ -910,4 +1092,4 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (ii) *Delivery Notification in Direct.* Able to send and receive health information in accordance with the standard specified in § 170.202(e)(1).
 
-[80 FR 62747, Oct. 16, 2015, as amended at 80 FR 76871, Dec. 11, 2015; 85 FR 25941, May 1, 2020; 85 FR 47099, Aug. 4, 2020; 85 FR 70083, Nov. 4, 2020; 85 FR 78236, Dec. 4, 2020]
+[80 FR 62747, Oct. 16, 2015, as amended at 80 FR 76871, Dec. 11, 2015; 85 FR 25941, May 1, 2020; 85 FR 47099, Aug. 4, 2020; 85 FR 70083, Nov. 4, 2020; 85 FR 78236, Dec. 4, 2020; 89 FR 1429, Jan. 9, 2024; 89 FR 8548, Feb. 8, 2024; 89 FR 16470, Mar. 7, 2024]

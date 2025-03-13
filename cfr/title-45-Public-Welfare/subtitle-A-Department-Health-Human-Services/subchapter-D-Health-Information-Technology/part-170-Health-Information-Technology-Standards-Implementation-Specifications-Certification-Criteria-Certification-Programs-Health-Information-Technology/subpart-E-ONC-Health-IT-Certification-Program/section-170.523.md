@@ -1,7 +1,5 @@
 ##### § 170.523 Principles of proper conduct for ONC-ACBs. #####
 
-Link to an amendment published at 89 FR 1435, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.
-
 An ONC-ACB shall:
 
 (a) *Accreditation.* Maintain its accreditation in good standing to ISO/IEC 17065 (incorporated by reference in § 170.599).
@@ -30,7 +28,7 @@ An ONC-ACB shall:
 
 (f) *Certified product listing.* Provide ONC, no less frequently than weekly, a current list of Health IT Modules, and/or EHR Modules that have been certified that includes, at a minimum:
 
-(1) For the 2015 Edition health IT certification criteria and subsequent editions of health IT certification criteria:
+(1) For the ONC Certification Criteria for Health IT:
 
 (i) The Health IT Module developer name; product name; product version; developer Web site, physical address, email, phone number, and contact name;
 
@@ -72,7 +70,7 @@ An ONC-ACB shall:
 
 (xx) A hyperlink to the disclosures required by § 170.523(k)(1) for the Health IT Module;
 
-(xxi) [Reserved]
+(xxi) Where applicable, summary information of the intervention risk management practices listed in § 170.315(b)(11)(vi) is submitted by the health IT developer via publicly accessible hyperlink that allows any person to access the summary information directly without any preconditions or additional steps.
 
 (xxii) *When applicable,* for each instance in which a Health IT Module failed to conform to its certification and for which corrective action was instituted under § 170.556 (provided no provider or practice site is identified):
 
@@ -102,7 +100,7 @@ An ONC-ACB shall:
 
 (2) [Reserved]
 
-(g) *Records retention.* (1) Retain all records related to the certification of Complete EHRs and Health IT Modules to an edition of certification criteria beginning with the codification of an edition of certification criteria in the Code of Federal Regulations through a minimum of 3 years from the effective date that removes the applicable edition from the Code of Federal Regulations; and
+(g) *Records retention.* (1) Retain all records related to the certification of Health IT Modules to the ONC Certification Criteria for Health IT beginning with the codification of those certification criteria in the Code of Federal Regulations through a minimum of 3 years after the end of calendar year that included the effective date of the removal of those certification criteria from the Code of Federal Regulations; and
 
 (2) Make the records available to HHS upon request during the retention period described in paragraph (g)(1) of this section;
 
@@ -148,9 +146,9 @@ An ONC-ACB shall:
 
 (1) *Mandatory Disclosures.* A health IT developer must conspicuously include the following on its website and in all marketing materials, communications statements, and other assertions related to the Health IT Module's certification:
 
-(i) The disclaimer “This Health IT Module is [specify Edition of health IT certification criteria] compliant and has been certified by an ONC-ACB in accordance with the applicable certification criteria adopted by the Secretary of Health and Human Services. This certification does not represent an endorsement by the U.S. Department of Health and Human Services.”
+(i) The disclaimer “This Health IT Module is compliant with the ONC Certification Criteria for Health IT and has been certified by an ONC-ACB in accordance with the applicable certification criteria adopted by the Secretary of Health and Human Services. This certification does not represent an endorsement by the U.S. Department of Health and Human Services.”
 
-(ii) For a Health IT Module certified to the 2015 Edition health IT certification criteria, the information specified by paragraphs (f)(1)(i), (vi) through (viii), (xv), and (xvi) of this section as applicable for the specific Health IT Module.
+(ii) For a Health IT Module certified to the ONC Certification Criteria for Health IT, the information specified by paragraphs (f)(1)(i), (vi) through (viii), (xv), and (xvi) of this section as applicable for the specific Health IT Module.
 
 (iii) In plain language, a detailed description of all known material information concerning additional types of costs or fees that a user may be required to pay to implement or use the Health IT Module's capabilities, whether to meet provisions of HHS programs requiring the use of certified health IT or to achieve any other use within the scope of the health IT's certification. The additional types of costs or fees required to be disclosed include but are not limited to costs or fees (whether fixed, recurring, transaction-based, or otherwise) imposed by a health IT developer (or any third party from whom the developer purchases, licenses, or obtains any technology, products, or services in connection with its certified health IT) to purchase, license, implement, maintain, upgrade, use, or otherwise enable and support the use of capabilities to which health IT is certified; or in connection with any data generated in the course of using any capability to which health IT is certified.
 
@@ -206,4 +204,6 @@ An ONC-ACB shall:
 
 (2) Timely post content or make publicly accessible via the CHPL each § 170.405(b)(8) notice received, publicly on the CHPL attributed to the certified Health IT Module(s) to which it applies.
 
-[76 FR 1325, Dec. 7, 2011, as amended at 76 FR 72642, Nov. 25, 2011; 77 FR 54291, Sept. 4, 2012; 79 FR 54479, Sept. 11, 2014; 80 FR 62755, Oct. 16, 2015; 80 FR 76872, Dec. 11, 2015; 81 FR 72465, Oct. 19, 2016; 85 FR 25950, May 1, 2020; 85 FR 70084, Nov. 4, 2020]
+(u) *Insights.* Confirm that developers of certified health IT submit responses for Insights Conditions and Maintenance of Certification requirements in accordance with § 170.407.
+
+[76 FR 1325, Dec. 7, 2011, as amended at 76 FR 72642, Nov. 25, 2011; 77 FR 54291, Sept. 4, 2012; 79 FR 54479, Sept. 11, 2014; 80 FR 62755, Oct. 16, 2015; 80 FR 76872, Dec. 11, 2015; 81 FR 72465, Oct. 19, 2016; 85 FR 25950, May 1, 2020; 85 FR 70084, Nov. 4, 2020; 89 FR 1435, Jan. 9, 2024]

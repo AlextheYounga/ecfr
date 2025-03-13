@@ -1,5 +1,7 @@
 ##### § 1710.250 General. #####
 
+Link to an amendment published at 89 FR 17274, Mar. 11, 2024.
+
 (a) An ongoing, integrated planning system is needed by borrowers to determine their short-term and long-term needs for plant additions, improvements, replacements, and retirements. The primary components of the system consist of long-range engineering plans, construction work plans (CWPs), CWP amendments, and special engineering and cost studies. Long range engineering plans identify plant investments required over a period of 10-20 years or more. CWPs specify and document plant requirements for the short-term, usually 4 years, and special engineering and cost studies are used to support CWPs and to identify and document requirements for specific items or purposes, such as load management equipment, System Control and Data Acquisition equipment, sectionalizing investments, and additions of generation capacity and associated transmission plant.
 
 (b) A long range engineering plan specifies and supports the major system additions, improvements, replacements, and retirements needed for an orderly transition from the existing system to the system required 10 or more years in the future. The planned future system should be based on the most technically and economically sound means of serving the borrower's long-range loads in a reliable and environmentally acceptable manner, and it should ensure that planned facilities will not become obsolete prematurely.

@@ -1,5 +1,7 @@
 ##### § 1721.1 Advances. #####
 
+Link to an amendment published at 89 FR 17274, Mar. 11, 2024.
+
 (a) *Purpose and amount.* With the exception of minor projects which are addressed in paragraph (b) of this section and generation projects which need to be included on a RUS Form 740c or an amendment to a RUS Form 740c, loan funds will be advanced for projects which are included in a RUS approved construction work plan (CWP), Energy Efficiency and Conservation Program work plan (EEWP), or approved amendment to either, have received written documentation of RUS concluding its environmental reviews and have complied with all Contracting and Bidding Procedures included in 7 CFR part 1726. Loan fund advances can be requested in an amount representing actual costs incurred.
 
 (b) *Minor project.* Minor project means a project costing $100,000 or less. Such a project qualifies for advance of loan funds even though it may not have been included in an RUS-approved borrower's CWP, amendment to such CWP, or approved loan. Total advances requested shall not exceed the total loan amount. All projects for which loan fund advances are requested must be constructed to achieve purposes permitted by terms of the loan contract between the borrower and RUS.
