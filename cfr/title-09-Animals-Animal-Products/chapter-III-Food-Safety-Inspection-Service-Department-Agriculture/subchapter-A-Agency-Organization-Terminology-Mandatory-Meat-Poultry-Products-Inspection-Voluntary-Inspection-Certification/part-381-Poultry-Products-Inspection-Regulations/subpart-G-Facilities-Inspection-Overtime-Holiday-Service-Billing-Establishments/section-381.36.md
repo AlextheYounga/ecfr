@@ -1,7 +1,5 @@
 ##### § 381.36 Facilities required. #####
 
-Link to an amendment published at 88 FR 55913, Aug. 17, 2023.
-
 (a) *Inspector's Office.* Office space, including, but not being limited to furnishings, light, heat, and janitor service, shall be provided rent free in the official establishment, for the use of Government personnel for official purposes. The room or space set apart for this purpose must meet the approval of the Inspection Service and be conveniently located, properly ventilated, and provided with lockers or file cabinets suitable for the protection and storage of supplies and with facilities suitable for inspectors to change clothing. At the discretion of the Administrator, small plants requiring the services of less than one full-time inspector need not furnish facilities for Program employees as prescribed in this section, where adequate facilities exist in a nearby convenient location. Each official establishment shall provide commercial laundry service for inspectors' outer work clothing, or disposable outer work garments designed for one-time use, or uniform rental service garments which are laundered by the rental service.
 
 (b) *Facilities for ante mortem inspection.* A suspect pen is required for adequate ratite inspection.
@@ -172,8 +170,8 @@ Link to an amendment published at 88 FR 55913, Aug. 17, 2023.
 
 (viii) Hand washing facilities must be provided within easy access of all offline verification inspection stations.
 
-(3) Each young chicken establishment operating under the New Poultry Inspection System must provide a location at a point along the production line after the carcasses are eviscerated at which an inspector may safely and properly inspect for leukosis the first 300 carcasses of each flock together with associated viscera either uniformly trailing or leading, or otherwise identified with the corresponding carcass. The leukosis inspection area must provide a minimum of 200 foot-candles of shadow-free lighting on the surface where the viscera are inspected.
+(3) [Reserved]
 
 (4) A trough or other similar drainage facility must extend beneath the conveyor at all places where processing operations are conducted from the point where the carcass is opened to the point where trimming has been performed. The trough must be of sufficient width to preclude trimmings, drippage, and debris from accumulating on the floor or platforms. The clearance between suspended carcasses and the trough must be sufficient to preclude contamination of carcasses by splashing.
 
-[37 FR 9706, May 16, 1972, as amended at 38 FR 9794, Apr. 20, 1973; 47 FR 23434, May 28, 1982; 49 FR 42554, Oct. 23, 1984; 50 FR 37512, Sept. 16, 1985; 52 FR 39209, Oct. 21, 1987; 64 FR 56416, Oct. 20, 1999; 66 FR 22905, May 7, 2001; 79 FR 49633, Aug. 21, 2014]
+[37 FR 9706, May 16, 1972, as amended at 38 FR 9794, Apr. 20, 1973; 47 FR 23434, May 28, 1982; 49 FR 42554, Oct. 23, 1984; 50 FR 37512, Sept. 16, 1985; 52 FR 39209, Oct. 21, 1987; 64 FR 56416, Oct. 20, 1999; 66 FR 22905, May 7, 2001; 79 FR 49633, Aug. 21, 2014; 88 FR 55913, Aug. 17, 2023]
