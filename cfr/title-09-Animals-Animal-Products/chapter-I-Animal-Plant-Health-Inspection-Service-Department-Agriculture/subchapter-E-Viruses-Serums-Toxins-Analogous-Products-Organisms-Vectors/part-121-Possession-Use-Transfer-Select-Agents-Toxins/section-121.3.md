@@ -1,5 +1,7 @@
 ##### § 121.3 VS select agents and toxins. #####
 
+Link to an amendment published at 89 FR 101845, Dec. 17, 2024.
+
 (a) Except as provided in paragraphs (d) and (e) of this section, the Administrator has determined that the biological agents and toxins listed in this section have the potential to pose a severe threat to animal health or to animal products. The select agents and toxins marked with an asterisk (\*) are designated as Tier 1 select agents and toxins and are subject to additional requirements as listed in this part.
 
 (b) VS select agents and toxins: African horse sickness virus; African swine fever virus; Avian influenza virus; Classical swine fever virus; \*Foot-and-mouth disease virus; Goat pox virus; Lumpy skin disease virus; *Mycoplasma capricolum*; *Mycoplasma mycoides*; Newcastle disease virus; 1 Peste des petits ruminants virus; \*Rinderpest virus; Sheep pox virus; Swine vesicular disease virus.

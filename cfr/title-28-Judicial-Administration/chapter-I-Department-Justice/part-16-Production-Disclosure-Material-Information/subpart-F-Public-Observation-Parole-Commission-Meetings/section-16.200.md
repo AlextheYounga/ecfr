@@ -18,7 +18,7 @@ As used in this part:
 
 (5) Meetings of the National Appeals Board pursuant to 28 CFR 2.26.
 
-(6) Meetings of the Commission to conduct a hearing on the record in conjunction with applications for certificates of exemption under section 504(a) of the Labor-Management Reporting and Disclosure Act of 1959, and section 411 of the Employee Retirement Income Security Act of 1974 (28 CFR 4.1-17 and 28 CFR 4a.1-17).1
+(6) Meetings of the Commission to conduct a hearing on the record in conjunction with applications for certificates of exemption under section 504(a) of the Labor-Management Reporting and Disclosure Act of 1959, and section 411 of the Employee Retirement Income Security Act of 1974 (28 CFR 4.1-17 and 28 CFR 4a.1-17). 1
 
 1 Part 4a was removed at 44 FR 6890, Feb. 2, 1979.
 

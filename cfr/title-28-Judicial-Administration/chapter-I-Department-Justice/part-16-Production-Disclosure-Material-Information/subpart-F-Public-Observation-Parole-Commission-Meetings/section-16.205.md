@@ -10,7 +10,7 @@ Original jurisdiction cases are decided at bi-monthly meetings of the National C
 
 (2) National Appeals Board deliberations pursuant to 28 CFR 2.26;
 
-(3) Meetings of the Commission to conduct a hearing on the record regarding applications for certificates of exemption pursuant to the Labor-Management Reporting and Disclosure Act of 1959, 29 U.S.C. 504, and the Employee Retirement Income Security Act of 1974, 29 U.S.C. 1111 (28 CFR 4.1-17 and 29 CFR 4a.1-17).1
+(3) Meetings of the Commission to conduct a hearing on the record regarding applications for certificates of exemption pursuant to the Labor-Management Reporting and Disclosure Act of 1959, 29 U.S.C. 504, and the Employee Retirement Income Security Act of 1974, 29 U.S.C. 1111 (28 CFR 4.1-17 and 29 CFR 4a.1-17). 1
 
 1 Part 4a was removed at 44 FR 6890, Feb. 2, 1979.
 

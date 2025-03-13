@@ -1,5 +1,7 @@
 ##### § 15.820 Chief engineer. #####
 
+Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
+
 (a) There must be an individual holding an MMC or license endorsed as chief engineer or other credential authorizing service as chief engineer employed onboard the following mechanically propelled inspected vessels:
 
 (1) Seagoing or Great Lakes vessels of 200 GRT and over;

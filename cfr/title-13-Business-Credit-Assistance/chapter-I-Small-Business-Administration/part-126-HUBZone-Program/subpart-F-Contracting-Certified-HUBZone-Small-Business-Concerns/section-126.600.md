@@ -1,5 +1,7 @@
 ##### § 126.600 What are HUBZone contracts? #####
 
+Link to an amendment published at 89 FR 102502, Dec. 17, 2024.
+
 HUBZone contracts are contracts awarded to a certified HUBZone small business concern, regardless of the place of performance, through any of the following procurement methods:
 
 (a) Sole source awards to certified HUBZone small business concerns;

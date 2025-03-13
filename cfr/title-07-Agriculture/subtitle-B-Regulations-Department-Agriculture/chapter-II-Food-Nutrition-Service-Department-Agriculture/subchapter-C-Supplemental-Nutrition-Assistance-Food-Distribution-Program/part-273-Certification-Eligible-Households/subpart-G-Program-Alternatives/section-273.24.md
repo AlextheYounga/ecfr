@@ -1,6 +1,6 @@
 ##### § 273.24 Time limit for able-bodied adults. #####
 
-Link to an amendment published at 89 FR 90569, Nov. 18, 2024.
+Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendment published at 89 FR 90569, Nov. 18, 2024.
 
 (a) *Definitions.* For purposes of the SNAP time limit, the terms below have the following meanings:
 

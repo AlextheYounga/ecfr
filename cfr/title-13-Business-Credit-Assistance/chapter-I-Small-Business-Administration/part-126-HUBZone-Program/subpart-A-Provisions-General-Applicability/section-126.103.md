@@ -1,6 +1,6 @@
 ##### § 126.103 What definitions are important in the HUBZone program? #####
 
-Link to an amendment published at 89 FR 96093, Dec. 4, 2024.
+Link to an amendment published at 89 FR 96093, Dec. 4, 2024.Link to an amendment published at 89 FR 102495, Dec. 17, 2024.
 
 *Administrator* means the Administrator of the United States Small Business Administration (SBA).
 

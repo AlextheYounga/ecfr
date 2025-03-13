@@ -1,5 +1,7 @@
 ##### § 331.3 PPQ select agents and toxins. #####
 
+Link to an amendment published at 89 FR 101845, Dec. 17, 2024.
+
 (a) Except as provided in paragraphs (d) and (e) of this section, the Administrator has determined that the biological agents and toxins listed in this section have been determined to have the potential to pose a severe threat to plant health or to plant products.
 
 (b) PPQ select agents and toxins:

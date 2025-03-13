@@ -1,6 +1,6 @@
 ##### § 11.480 Radar observer. #####
 
-Link to an amendment published at 89 FR 93091, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93091, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) This section contains the requirements that an applicant must meet to qualify as a radar observer.
 

@@ -1,5 +1,7 @@
 ##### § 16.220 Periodic testing requirements. #####
 
+Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
+
 (a) Except as provided by paragraph (c) of this section and § 10.227(g) of this chapter, an applicant must pass a chemical test for dangerous drugs for—
 
 (1) An original issuance of a license, COR, MMD, or MMC;

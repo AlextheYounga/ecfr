@@ -1,6 +1,6 @@
 ##### § 11.705 Route familiarization requirements. #####
 
-Link to an amendment published at 89 FR 93096, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93096, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) The Officer in Charge, Marine Inspection (OCMI) has jurisdiction and determines within the range limitations specified in this section, the number of roundtrips required to qualify an applicant for a particular route, considering the following:
 

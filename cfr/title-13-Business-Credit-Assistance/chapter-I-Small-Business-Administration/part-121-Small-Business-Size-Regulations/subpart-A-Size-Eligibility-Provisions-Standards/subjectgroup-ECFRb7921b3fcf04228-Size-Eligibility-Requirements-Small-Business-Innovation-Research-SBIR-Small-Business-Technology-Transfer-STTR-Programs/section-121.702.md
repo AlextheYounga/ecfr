@@ -1,5 +1,7 @@
 ##### § 121.702 What size and eligibility standards are applicable to the SBIR and STTR programs? #####
 
+Link to an amendment published at 89 FR 102486, Dec. 17, 2024.
+
 To be eligible for award of funding agreements in SBA's SBIR and STTR programs, a business concern must meet the requirements below at the time of award of an SBIR or STTR Phase I or Phase II funding agreement:
 
 (a) *Ownership and control for the SBIR program.* (1) An SBIR awardee must:

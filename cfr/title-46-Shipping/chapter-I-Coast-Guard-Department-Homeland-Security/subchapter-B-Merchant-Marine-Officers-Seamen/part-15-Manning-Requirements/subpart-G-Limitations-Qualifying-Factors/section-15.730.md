@@ -1,5 +1,7 @@
 ##### § 15.730 Language requirements. #####
 
+Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
+
 (a) The provisions of 46 U.S.C. 8702 relating to language apply generally to vessels of at least 100 GRT except:
 
 (1) Vessels operating on rivers and lakes except the Great Lakes;

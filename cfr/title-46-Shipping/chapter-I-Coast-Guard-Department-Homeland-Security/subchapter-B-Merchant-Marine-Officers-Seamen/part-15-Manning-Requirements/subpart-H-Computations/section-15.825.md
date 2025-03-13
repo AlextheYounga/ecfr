@@ -1,5 +1,7 @@
 ##### § 15.825 Engineers. #####
 
+Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
+
 (a) An individual in charge of an engineering watch on a mechanically propelled, seagoing, documented vessel of 200 GRT or more, other than an individual described in § 15.820 of this subpart, must hold an appropriately endorsed license or MMC authorizing service as an assistant engineer.
 
 (b) On vessels subject to STCW, the individual meeting the requirement of this section must also hold an STCW endorsement as officer in charge of an engineering watch with the appropriate propulsion power for the vessel upon which he or she is operating, except as noted in § 15.105(g) of this part for vessels on domestic near-coastal voyages.

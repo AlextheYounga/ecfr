@@ -16,4 +16,4 @@ The Director of the Federal Bureau of Investigation, Director of the Bureau of P
 
 (g) The Director of the Federal Bureau of Investigation, the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, and the Administrator of the Drug Enforcement Administration are authorized to approve travel expenses of newly appointed special agents and the transportation expenses of their families and household goods and personal effects from place of residence at time of selection to the first duty station, in accordance with 28 U.S.C. 530 and regulations prescribed by the Assistant Attorney General for Administration.
 
-[Order No. 423-69, 34 FR 20388, Dec. 31, 1969]Editorial Note:For Federal Register citations affecting § 0.142, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order No. 423-69, 34 FR 20388, Dec. 31, 1969] Editorial Note:For Federal Register citations affecting § 0.142, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -6,9 +6,9 @@ An actor's practice of not fulfilling a request to access, exchange, or use elec
 
 (2) *Segmentation.* The actor cannot fulfill the request for access, exchange, or use of electronic health information because the actor cannot unambiguously segment the requested electronic health information from electronic health information that:
 
-(i) Cannot be made available due to an individual's preference or because the electronic health information cannot be made available by law; or
+(i) Is not permitted by applicable law to be made available; or
 
-(ii) May be withheld in accordance with § 171.201.
+(ii) May be withheld in accordance with 45 CFR 171.201, 171.202, or 171.206 of this part.
 
 (3) *Third party seeking modification use.* The request is to enable use of EHI in order to modify EHI provided that the request for such use is not from a health care provider requesting such use from an actor that is its business associate.
 
@@ -50,4 +50,4 @@ An actor's practice of not fulfilling a request to access, exchange, or use elec
 
 (b) *Responding to requests.* If an actor does not fulfill a request for access, exchange, or use of electronic health information for any of the reasons provided in paragraph (a) of this section, the actor must, within ten business days of receipt of the request, provide to the requestor in writing the reason(s) why the request is infeasible.
 
-[85 FR 25955, May 1, 2020, as amended at 89 FR 1436, Jan. 9, 2024]
+[85 FR 25955, May 1, 2020, as amended at 89 FR 1436, Jan. 9, 2024; 89 FR 102564, Dec. 17, 2024]

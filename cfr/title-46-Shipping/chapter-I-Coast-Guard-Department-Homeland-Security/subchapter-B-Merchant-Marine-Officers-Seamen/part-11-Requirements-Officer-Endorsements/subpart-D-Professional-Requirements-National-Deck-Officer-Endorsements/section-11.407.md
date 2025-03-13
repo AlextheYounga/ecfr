@@ -1,6 +1,6 @@
 ##### § 11.407 Service requirements for third mate of ocean or near-coastal self-propelled vessels of unlimited tonnage. #####
 
-Link to an amendment published at 89 FR 93080, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93080, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (a) The minimum service or training required to qualify an applicant for an endorsement as third mate of ocean or near-coastal self-propelled vessels of unlimited tonnage is—
 

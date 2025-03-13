@@ -1,5 +1,7 @@
 ##### § 124.504 What circumstances limit SBA's ability to accept a procurement for award as an 8(a) contract, and when can a requirement be released from the 8(a) BD program? #####
 
+Link to an amendment published at 89 FR 102489, Dec. 17, 2024.
+
 SBA will not accept a procurement for award as an 8(a) contract if the circumstances identified in paragraphs (a) through (d) of this section exist.
 
 (a) *Prior intent to award as a small business set-aside, or use the HUBZone, Service Disabled Veteran-Owned Small Business, or Women-Owned Small Business programs.* The procuring activity issued a solicitation for or otherwise expressed publicly a clear intent to award the contract as a small business set-aside, or to use the HUBZone, Service Disabled Veteran-Owned Small Business, or Women-Owned Small Business programs prior to offering the requirement to SBA for award as an 8(a) contract. However, the AA/BD may permit the acceptance of the requirement under extraordinary circumstances.

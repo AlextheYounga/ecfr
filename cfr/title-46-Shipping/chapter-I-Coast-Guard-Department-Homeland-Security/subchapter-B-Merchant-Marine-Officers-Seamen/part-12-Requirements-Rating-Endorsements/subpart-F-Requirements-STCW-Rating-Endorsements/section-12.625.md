@@ -1,6 +1,6 @@
 ##### § 12.625 Requirements to qualify for an STCW endorsement as vessel personnel with designated security duties. #####
 
-Link to an amendment published at 89 FR 93105, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93105, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) An applicant for an STCW endorsement as vessel personnel with designated security duties must—
 

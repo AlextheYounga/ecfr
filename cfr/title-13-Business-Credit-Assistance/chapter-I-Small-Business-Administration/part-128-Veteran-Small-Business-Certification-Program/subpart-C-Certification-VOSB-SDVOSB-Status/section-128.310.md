@@ -1,5 +1,7 @@
 ##### § 128.310 What are the procedures for decertification? #####
 
+Link to an amendment published at 89 FR 102509, Dec. 17, 2024.
+
 (a) *Proposed decertification.* If SBA has information indicating that a Participant may not meet the eligibility requirements of this part, SBA may propose decertification of the concern. The notice of proposed decertification will notify the concern that it has 30 calendar days from the date it receives the letter to submit a written response to SBA explaining why the proposed ground(s) should not justify decertification. SBA will consider that written notice was provided if SBA sends the notice of proposed decertification to the concern at an email address in the Participant's certification database profile.
 
 (b) *Response to proposed decertification.* The Participant must submit a written response to the notice of proposed decertification within the timeframe specified in the notice. In this response, the Participant must rebut each of the reasons set forth by SBA in the notice of proposed decertification, and where appropriate, the rebuttal must include documents showing that the concern is eligible as of the date specified in the notice. If a Participant fails to cooperate with SBA or fails to provide the information requested, SBA may draw an adverse inference and assume that the information that the concern failed to provide would demonstrate ineligibility.

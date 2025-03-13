@@ -1,5 +1,7 @@
 ##### § 15.905 Uninspected passenger vessels. #####
 
+Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
+
 (a) An individual holding a license or MMC endorsed as master or pilot of an inspected self-propelled vessel is authorized to serve as operator of an uninspected passenger vessel of less than 100 GRT within any restrictions, other than tonnage limitations, on the individual's license or MMC.
 
 (b) An individual holding a license or MMC endorsed as a master or pilot of an inspected self-propelled vessel is authorized to serve as master, as required by 46 CFR 15.805(a)(6), of an uninspected passenger vessel of 100 GRT or more within any restrictions, including gross tonnage and route, on the individual's license or MMC.

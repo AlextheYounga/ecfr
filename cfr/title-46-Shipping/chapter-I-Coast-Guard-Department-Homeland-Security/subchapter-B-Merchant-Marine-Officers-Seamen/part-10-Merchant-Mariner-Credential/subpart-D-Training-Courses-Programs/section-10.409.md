@@ -1,5 +1,7 @@
 ##### § 10.409 Coast Guard-accepted Quality Standard System (QSS) organizations. #####
 
+Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
+
 (a) Organizations wishing to serve as a Coast Guard-accepted QSS organization, to accept and monitor training on behalf of the Coast Guard, should apply to the National Maritime Center. An organization submitting an application may not act as a Coast Guard-accepted QSS organization until it has received its letter of acceptance.
 
 (b) *Validity of acceptance.* Organizations meeting the requirements in paragraph (e) of this section will be issued a letter of acceptance valid for a maximum period of 5 years from the date of issuance.

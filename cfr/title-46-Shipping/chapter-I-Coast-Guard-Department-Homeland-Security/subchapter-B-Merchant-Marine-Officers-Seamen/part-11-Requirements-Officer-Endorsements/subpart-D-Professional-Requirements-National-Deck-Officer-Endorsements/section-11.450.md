@@ -1,6 +1,6 @@
 ##### § 11.450 Tonnage limitations and qualifying requirements for endorsements as master or mate of Great Lakes and inland vessels of less than 200 GRT. #####
 
-Link to an amendment published at 89 FR 93083, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93083, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (a) Except as noted in paragraph (d) of this section, all endorsements issued for master or mate of vessels of less than 200 GRT are issued in 50 GRT increments based on the applicant's qualifying experience in accordance with the provisions of § 11.422 of this subpart.
 

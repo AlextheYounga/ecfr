@@ -14,4 +14,4 @@
 
 (2) That the research presents no more than minimal risk of harm to subjects and involves no procedures for which written consent is normally required outside of the research context.
 
-In cases in which the documentation requirement is waived, the IRB may require the investigator to provide subjects with a written statement regarding the research.(Approved by the Office of Management and Budget under Control Number 0990-0260)[56 FR 28012, 28020, June 18, 1991, as amended at 70 FR 36328, June 23, 2005]
+In cases in which the documentation requirement is waived, the IRB may require the investigator to provide subjects with a written statement regarding the research. (Approved by the Office of Management and Budget under Control Number 0990-0260) [56 FR 28012, 28020, June 18, 1991, as amended at 70 FR 36328, June 23, 2005]

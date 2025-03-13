@@ -1,6 +1,6 @@
 ##### § 128.500 What are the requirements for filing a VOSB or SDVOSB status protest? #####
 
-Link to an amendment published at 89 FR 96094, Dec. 4, 2024.
+Link to an amendment published at 89 FR 96094, Dec. 4, 2024.Link to an amendment published at 89 FR 102510, Dec. 17, 2024.
 
 (a) All challenges to the inclusion in the certification database of a VOSB or SDVOSB based on the status of the concern as a small business concern or the ownership or control of the concern, shall be heard by the Office of Hearings and Appeals of the Small Business Administration in accordance with part 134 of this chapter. The decision of the Office of Hearings and Appeals shall be considered final agency action.
 

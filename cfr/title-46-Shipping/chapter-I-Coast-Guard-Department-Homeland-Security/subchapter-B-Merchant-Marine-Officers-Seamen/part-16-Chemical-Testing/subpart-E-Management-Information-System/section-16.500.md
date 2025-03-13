@@ -1,5 +1,7 @@
 ##### § 16.500 Management Information System requirements. #####
 
+Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
+
 (a) *Data collection.* (1) All marine employers must submit drug testing program data required by 49 CFR 40.26 and appendix H to 49 CFR part 40.
 
 (2) The provisions in 49 CFR part 40 for alcohol testing do not apply to the Coast Guard or to marine employers, and alcohol testing data is not required or permitted to be submitted by this section.

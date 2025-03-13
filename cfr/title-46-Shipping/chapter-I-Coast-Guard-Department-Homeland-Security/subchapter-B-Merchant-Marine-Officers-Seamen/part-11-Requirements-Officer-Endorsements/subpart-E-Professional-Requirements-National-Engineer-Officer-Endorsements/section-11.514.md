@@ -1,6 +1,6 @@
 ##### § 11.514 Service requirements for national endorsement as second assistant engineer of steam, motor, and/or gas turbine-propelled vessels. #####
 
-Link to an amendment published at 89 FR 93093, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93093, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) The minimum service required to qualify an applicant for endorsement as second assistant engineer of steam, motor, and/or gas turbine-propelled vessels is—
 

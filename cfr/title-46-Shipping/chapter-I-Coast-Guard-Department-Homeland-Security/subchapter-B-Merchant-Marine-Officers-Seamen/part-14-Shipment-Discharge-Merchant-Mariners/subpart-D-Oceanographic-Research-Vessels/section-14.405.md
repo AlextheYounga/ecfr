@@ -1,5 +1,7 @@
 ##### § 14.405 Procedures. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 (a) Upon written request for the owner, charterer, managing operator, master, or individual in charge of the vessel to the Coast Guard OCMI in whose zone the vessel is located, the Commandant may grant an exemption of any oceanographic research vessel designated by 46 U.S.C. 2113(2) from any requirement of any section listed by § 14.403(b).
 
 (b) The request must state—

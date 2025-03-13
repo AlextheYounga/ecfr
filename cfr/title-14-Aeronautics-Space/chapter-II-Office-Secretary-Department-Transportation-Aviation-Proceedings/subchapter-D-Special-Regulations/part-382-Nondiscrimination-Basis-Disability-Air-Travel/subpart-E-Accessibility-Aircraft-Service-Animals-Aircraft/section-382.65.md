@@ -1,5 +1,7 @@
 ##### § 382.65 What are the requirements concerning on-board wheelchairs? #####
 
+Link to an amendment published at 89 FR 102441, Dec. 17, 2024.
+
 (a) As a carrier, you must equip aircraft that have more than 60 passenger seats, and that have an accessible lavatory (whether or not having such a lavatory is required by § 382.63 of this Part) with an on-board wheelchair. The Aerospatiale/Aeritalia ATR-72 and the British Aerospace Advanced Turboprop (ATP), in configurations having between 60 and 70 passenger seats, are exempt from this requirement.
 
 (b) If a passenger asks you to provide an on-board wheelchair on a particular flight, you must provide it if the aircraft being used for the flight has more than 60 passenger seats, even if the aircraft does not have an accessible lavatory.

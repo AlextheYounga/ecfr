@@ -1,6 +1,6 @@
 ##### § 10.239 Quick reference table for MMC requirements. #####
 
-Link to an amendment published at 89 FR 93063, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93063, Nov. 25, 2024.Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 Table 1 to § 10.239 provides a guide to the requirements for officer endorsements. Provisions in the reference section are controlling.
 

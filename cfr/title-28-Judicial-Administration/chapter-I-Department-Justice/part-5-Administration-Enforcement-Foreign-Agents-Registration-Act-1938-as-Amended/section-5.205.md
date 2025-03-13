@@ -8,4 +8,4 @@
 
 (d) Registration under the Act may be terminated upon a finding that the registrant is unable to file the appropriate forms to terminate the registration as a result of the death, disability, or dissolution of the registrant or where the requirements of the Act cannot be fulfilled by a continuation of the registration.
 
-(28 U.S.C. 509 and 510; 5 U.S.C. 301)[Order No. 376-67, 32 FR 6362, Apr. 22, 1967, as amended by Order No. 523-73, 38 FR 18235, July 9, 1973; Order No. 960-81, 46 FR 52355, Oct. 27, 1981; Order No. 1757-93, 58 FR 37419, July 12, 1993; Order No. 2674-2003, 68 FR 33630, June 5, 2003]
+(28 U.S.C. 509 and 510; 5 U.S.C. 301) [Order No. 376-67, 32 FR 6362, Apr. 22, 1967, as amended by Order No. 523-73, 38 FR 18235, July 9, 1973; Order No. 960-81, 46 FR 52355, Oct. 27, 1981; Order No. 1757-93, 58 FR 37419, July 12, 1993; Order No. 2674-2003, 68 FR 33630, June 5, 2003]

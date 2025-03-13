@@ -483,7 +483,7 @@ Subchapter D—Voting Fraud631 *Voting Fraud*
 
 Category Four.
 
-Chapter Seven Offenses Involving Individual RightsSubchapter A—Offenses Involving Civil Rights701 *Conspiracy Against Rights of Citizens* (re: 18 U.S.C. 241)
+Chapter Seven Offenses Involving Individual Rights Subchapter A—Offenses Involving Civil Rights701 *Conspiracy Against Rights of Citizens* (re: 18 U.S.C. 241)
 
 (a) If death results, grade as Category Eight;
 
@@ -525,7 +525,7 @@ Category Two.
 
 Category Two.
 
-Chapter Eight Offenses Involving Explosives and WeaponsSubchapter A—Explosives Offenses and Other Dangerous Articles801 *Unlawful Possession or Distribution of Explosives; or Use of Explosives During a Felony*
+Chapter Eight Offenses Involving Explosives and Weapons Subchapter A—Explosives Offenses and Other Dangerous Articles801 *Unlawful Possession or Distribution of Explosives; or Use of Explosives During a Felony*
 
 Grade according to offense intended, but not less than Category Five.
 
@@ -1050,7 +1050,7 @@ F.1 Score 1 if the offender was 41 years of age or more at the commencement of t
 
 F.2 Score 0 if the offender was less than 41 years of age at the commencement of the current offense or if the total score from Items A-E is 10.
 
-Special Instructions—Probation Violator This TimeItem A Count the original conviction that led to the sentence of probation as a prior conviction. Do not count the probation revocation as a prior conviction.
+Special Instructions—Probation Violator This Time Item A Count the original conviction that led to the sentence of probation as a prior conviction. Do not count the probation revocation as a prior conviction.
 
 Item B Count all prior commitments of more than thirty days which were imposed prior to the behavior resulting in the current probation revocation. If the subject is committed as a probation violator following a ‘split sentence’ for which more than thirty days were served, count the confinement portion of the ‘split sentence’ as a prior commitment. *Note:* The prisoner is still credited with the time served toward the current commitment.
 
@@ -1090,4 +1090,4 @@ Item E By definition, no point is credited for this item.
 
 Item F Use the age at commencement of the confinement/escape status violation.
 
-(18 U.S.C. 4203(a)(1); 18 U.S.C. 4204(a)(6))[47 FR 56336, Dec. 16, 1982]Editorial Note:For Federal Register citations affecting § 2.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(18 U.S.C. 4203(a)(1); 18 U.S.C. 4204(a)(6)) [47 FR 56336, Dec. 16, 1982]Editorial Note:For Federal Register citations affecting § 2.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

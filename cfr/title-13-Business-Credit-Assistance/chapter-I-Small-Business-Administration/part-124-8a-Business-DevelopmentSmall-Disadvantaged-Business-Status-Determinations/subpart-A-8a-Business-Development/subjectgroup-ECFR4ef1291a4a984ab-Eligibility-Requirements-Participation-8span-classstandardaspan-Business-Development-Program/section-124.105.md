@@ -1,5 +1,7 @@
 ##### § 124.105 What does it mean to be unconditionally owned by one or more disadvantaged individuals? #####
 
+Link to an amendment published at 89 FR 102487, Dec. 17, 2024.
+
 An applicant or Participant must be at least 51 percent unconditionally and directly owned by one or more socially and economically disadvantaged individuals who are citizens of the United States, except for concerns owned by Indian tribes, Alaska Native Corporations, Native Hawaiian Organizations, or Community Development Corporations (CDCs). *See* § 124.3 for definition of unconditional ownership; and §§ 124.109, 124.110, and 124.111, respectively, for special ownership requirements for concerns owned by Indian tribes, ANCs, Native Hawaiian Organizations, and CDCs.
 
 (a) *Ownership must be direct.* Ownership by one or more disadvantaged individuals must be direct ownership. An applicant or Participant owned principally by another business entity or by a trust (including employee stock ownership trusts) that is in turn owned and controlled by one or more disadvantaged individuals does not meet this requirement. However, ownership by a trust, such as a living trust, may be treated as the functional equivalent of ownership by a disadvantaged individual where the trust is revocable, and the disadvantaged individual is the grantor, a trustee, and the sole current beneficiary of the trust.

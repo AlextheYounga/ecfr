@@ -1,5 +1,7 @@
 ##### § 1008.12 Exemptions. #####
 
+Link to an amendment published at 89 FR 101849, Dec. 17, 2024.Link to an amendment published at 89 FR 101854, Dec. 17, 2024.
+
 (a) *General exemptions*—(1) *Generally.* 5 U.S.C. 552a(j)(2) allows the exemption of any system of records within the DOE from any part of section 552a except subsections (b), (c)(1) and (2), (e)(4)(A) through (F) (e)(6), (7), (9), (10), and (11), and (i) of the Act if the system of records is maintained by a DOE component which performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and which consists of:
 
 (i) Information compiled for the purpose of identifying individual criminal offenders and alleged offenders;

@@ -1,6 +1,6 @@
 ##### § 11.211 Creditable service and equivalents for national and STCW officer endorsements. #####
 
-Link to an amendment published at 89 FR 93070, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93070, Nov. 25, 2024.Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (a) Applicants for officer endorsements should refer to § 10.232 of this subchapter for information regarding requirements for documentation and proof of sea service.
 

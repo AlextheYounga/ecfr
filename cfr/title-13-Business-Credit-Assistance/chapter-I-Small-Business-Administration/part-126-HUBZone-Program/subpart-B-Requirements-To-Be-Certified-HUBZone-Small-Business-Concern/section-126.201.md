@@ -1,5 +1,7 @@
 ##### § 126.201 Who does SBA consider to own a HUBZone SBC? #####
 
+Link to an amendment published at 89 FR 102499, Dec. 17, 2024.
+
 An owner of a SBC seeking HUBZone certification or a qualified HUBZone SBC is a person who owns any legal or equitable interest in such SBC. If an Employee Stock Ownership Plan owns all or part of the concern, SBA considers each stock trustee and plan member to be an owner. If a trust owns all or part of the concern, SBA considers each trustee and trust beneficiary to be an owner. In addition:
 
 (a) *Corporations.* SBA considers any person who owns stock, whether voting or non-voting, to be an owner. SBA considers options to purchase stock and the right to convert debentures into voting stock to have been exercised.

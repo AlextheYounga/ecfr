@@ -1,6 +1,6 @@
 ##### § 12.409 General requirements for lifeboatman-limited endorsements. #####
 
-Link to an amendment published at 89 FR 93100, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93100, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) *General.* Every person fulfilling the manning requirements for lifeboatman on any United States vessel fitted with liferafts, but not fitted with lifeboats, must hold an endorsement as lifeboatman or as lifeboatman-limited. No endorsement as lifeboatman or lifeboatman-limited is required of any person employed on any unrigged vessel, except on a seagoing barge and on a tank barge navigating waters other than rivers and/or canals.
 

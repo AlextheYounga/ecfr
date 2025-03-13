@@ -42,7 +42,7 @@
 
 (10) Specifically concern the initiation, conduct, or disposition of a particular case of formal adjudication pursuant to the procedures in 5 U.S.C. 554, or of any case involving a determination on the record after opportunity for a hearing. Included under the above terms are:
 
-(i) Record review hearings following opportunity for an in-person hearing pursuant to the procedures of 28 CFR 4.1 through 4.17 and 28 CFR 4a.1 through 4a.171 (governing applications for certificates of exemption under the Labor-Management Reporting and Disclosure Act of 1959 and the Employee Retirement Income Security Act of 1974), and
+(i) Record review hearings following opportunity for an in-person hearing pursuant to the procedures of 28 CFR 4.1 through 4.17 and 28 CFR 4a.1 through 4a.17 1 (governing applications for certificates of exemption under the Labor-Management Reporting and Disclosure Act of 1959 and the Employee Retirement Income Security Act of 1974), and
 
 1 Part 4a was removed at 44 FR 6890, Feb. 2, 1979.
 

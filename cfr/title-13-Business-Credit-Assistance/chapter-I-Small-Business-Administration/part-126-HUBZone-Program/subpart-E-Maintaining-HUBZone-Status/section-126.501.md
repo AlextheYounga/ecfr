@@ -1,5 +1,7 @@
 ##### § 126.501 How long does HUBZone certification last? #####
 
+Link to an amendment published at 89 FR 102501, Dec. 17, 2024.
+
 (a) *One-year certification.* Once SBA certifies a concern as eligible to participate in the HUBZone program, the concern will be treated as a certified HUBZone small business concern eligible for all HUBZone contracts for which the concern qualifies as small, for a period of one year from the date of its initial certification or recertification, unless the concern acquires, is acquired by, or merges with another firm during that one-year period, or the concern is performing a HUBZone contract and fails to attempt to maintain the minimum employee HUBZone residency requirement (*see* § 126.103).
 
 (1) A certified HUBZone small business concern that acquires, is acquired by, or merges with another business entity must notify SBA within 30 days of the transaction becoming final. The concern must then demonstrate to SBA that it continues to meet the HUBZone eligibility requirements in order for it to remain eligible as a certified HUBZone small business concern.

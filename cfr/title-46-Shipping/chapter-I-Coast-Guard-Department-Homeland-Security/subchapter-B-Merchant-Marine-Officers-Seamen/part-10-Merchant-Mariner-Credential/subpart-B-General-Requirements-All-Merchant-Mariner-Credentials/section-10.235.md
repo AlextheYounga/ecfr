@@ -1,6 +1,6 @@
 ##### § 10.235 Suspension or revocation of merchant mariner credentials. #####
 
-Link to an amendment published at 89 FR 93063, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93063, Nov. 25, 2024.Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (a) Any MMC or endorsement is subject to suspension or revocation on the same grounds, in the same manner, and with like procedure as provided in 46 U.S.C. chapter 77.
 

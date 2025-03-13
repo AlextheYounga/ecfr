@@ -1,6 +1,6 @@
 ##### § 11.474 National officer endorsements as ballast control operator. #####
 
-Link to an amendment published at 89 FR 93091, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93091, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (a) To qualify for an endorsement as ballast control operator (BCO), an applicant must—
 

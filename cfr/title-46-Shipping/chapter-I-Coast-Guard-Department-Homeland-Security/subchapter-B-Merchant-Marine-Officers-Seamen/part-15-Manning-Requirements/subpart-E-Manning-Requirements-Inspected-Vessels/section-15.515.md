@@ -1,5 +1,7 @@
 ##### § 15.515 Compliance with certificate of inspection. #####
 
+Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
+
 (a) Except as provided by § 15.725 of this part, no vessel may be navigated unless it has in its service and onboard the crew complement required by the COI.
 
 (b) Any time passengers are embarked on a passenger vessel, the vessel must have the crew complement required by the COI, whether the vessel is underway, at anchor, made fast to shore, or aground. However, the master may allow reduced crew for limited or special operating conditions subject to the approval of the OCMI.

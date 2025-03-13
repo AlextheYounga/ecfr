@@ -6,4 +6,4 @@ Section 5 requires that, prior to enforcement of any change affecting voting, th
 
 (b) Make to the Attorney General a proper submission of the change to which no objection is interposed.
 
-It is unlawful to enforce a change affecting voting without obtaining preclearance under section 5. The obligation to obtain such preclearance is not relieved by unlawful enforcement.[52 FR 490, Jan. 6, 1987; 52 FR 2648, Jan. 23, 1987, as amended by Order No. 3262-2011, 76 FR 21243, Apr. 15, 2011]
+It is unlawful to enforce a change affecting voting without obtaining preclearance under section 5. The obligation to obtain such preclearance is not relieved by unlawful enforcement. [52 FR 490, Jan. 6, 1987; 52 FR 2648, Jan. 23, 1987, as amended by Order No. 3262-2011, 76 FR 21243, Apr. 15, 2011]

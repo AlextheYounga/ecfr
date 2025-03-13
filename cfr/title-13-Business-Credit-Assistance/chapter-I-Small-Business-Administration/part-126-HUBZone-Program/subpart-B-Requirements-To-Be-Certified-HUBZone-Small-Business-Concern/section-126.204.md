@@ -1,5 +1,7 @@
 ##### § 126.204 May a HUBZone small business concern have affiliates? #####
 
+Link to an amendment published at 89 FR 102499, Dec. 17, 2024.
+
 (a) A HUBZone small business concern may have affiliates, provided that the aggregate size of the concern together with all of its affiliates is small as defined in part 121 of this title, except as otherwise provided for small agricultural cooperatives in § 126.103.
 
 (b) Employees of affiliates are not automatically considered employees of a HUBZone applicant or HUBZone small business concern solely on the basis of affiliation.

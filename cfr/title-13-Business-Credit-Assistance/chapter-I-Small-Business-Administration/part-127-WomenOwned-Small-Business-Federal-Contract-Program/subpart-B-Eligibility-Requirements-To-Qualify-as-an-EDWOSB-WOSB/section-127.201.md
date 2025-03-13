@@ -1,5 +1,7 @@
 ##### § 127.201 What are the requirements for ownership of an EDWOSB and WOSB? #####
 
+Link to an amendment published at 89 FR 102506, Dec. 17, 2024.
+
 (a) *General.* To qualify as an EDWOSB one or more economically disadvantaged women must unconditionally and directly own at least 51 percent of the concern. To qualify as a WOSB, one or more women must unconditionally and directly own at least 51 percent of the concern. Ownership will be determined without regard to community property laws.
 
 (b) *Requirement for unconditional ownership.* To be considered unconditional, the ownership must not be subject to any conditions, executory agreements, voting trusts, or other arrangements that cause or potentially cause ownership benefits to go to another (other than after death or incapacity). The pledge or encumbrance of stock or other ownership interest as collateral, including seller-financed transactions, does not affect the unconditional nature of ownership if the terms follow normal commercial practices and the owner retains control absent violations of the terms.

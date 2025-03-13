@@ -86,6 +86,8 @@ For purposes of this part:
 
 *Practice* means an act or omission by an actor.
 
+*Reproductive health care* means health care, as defined in 45 CFR 160.103, that affects the health of an individual in all matters relating to the reproductive system and to its functions and processes. This definition shall not be construed to set forth a standard of care for or regulate what constitutes clinically appropriate reproductive health care.
+
 *Use* means the ability for electronic health information, once accessed or exchanged, to be understood and acted upon.
 
-[85 FR 25955, May 1, 2020, as amended at 89 FR 1435, Jan. 9, 2024; 89 FR 54717, July 1, 2024]
+[85 FR 25955, May 1, 2020, as amended at 89 FR 1435, Jan. 9, 2024; 89 FR 54717, July 1, 2024; 89 FR 102564, Dec. 17, 2024]

@@ -1,6 +1,6 @@
 ##### § 11.707 Examination requirements. #####
 
-Link to an amendment published at 89 FR 93096, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93096, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) An applicant for an endorsement as first-class pilot, except as noted in paragraph (b) of this section, is required to pass the examination described in subpart I of this part.
 

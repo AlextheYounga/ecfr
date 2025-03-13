@@ -134,7 +134,7 @@ These exemptions apply only to the extent that information in these systems is s
 
 Organized Crime and Racketeering Section, Criminal Division, General Index File and Associated Records System of Records (JUSTICE/CRM-012).These exemptions apply to the extent that information in this system is subject to exemption pursuant to 5 U.S.C. 552a(j)(2) and (k)(1).
 
-(l) The system of records listed under paragraph (m)1 of this section is exempted, for the reasons set forth, from the following provisions of 5 U.S.C. 552a:
+(l) The system of records listed under paragraph (m) 1 of this section is exempted, for the reasons set forth, from the following provisions of 5 U.S.C. 552a:
 
 1 Paragraph (m) was redesignated as paragraph (k) at 44 FR 54046, Sept. 18, 1979.
 
@@ -176,7 +176,7 @@ Since an exemption is being claimed for subsection (d) of the Act (Access to Rec
 
 Witness Immunity Records System of Records (JUSTICE/CRM-022).These exemptions apply only to the extent that information in this system is subject to exemption pursuant to 5 U.S.C. 552a (j)(2) and (k)(1) and (k)(2).
 
-(p) The system of records listed under paragraph (q)2 of this section is exempted, for the reasons set forth, from the following provisions of 5 U.S.C. 552a:
+(p) The system of records listed under paragraph (q) 2 of this section is exempted, for the reasons set forth, from the following provisions of 5 U.S.C. 552a:
 
 2 Paragraph (q) was redesignated as paragraph (o) at 44 FR 54046, Sept. 18, 1979.
 

@@ -1,6 +1,6 @@
 ##### § 11.405 Service requirements for chief mate of ocean or near-coastal self-propelled vessels of unlimited tonnage. #####
 
-Link to an amendment published at 89 FR 93079, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93079, Nov. 25, 2024.Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (a) The minimum service required to qualify an applicant for an endorsement as chief mate of ocean or near-coastal self-propelled vessels of unlimited tonnage is 1 year of service as officer in charge of a navigational watch on ocean self-propelled vessels while holding a license or MMC endorsement as second mate.
 

@@ -1,5 +1,7 @@
 ##### § 13.120 Renewal of tankerman endorsement. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 An applicant seeking renewal of a tankerman endorsement or an STCW endorsement valid for service on tank vessels must meet the requirements of § 10.227 of this subchapter, except § 10.227(e)(1), for renewing an MMC and meet the following additional requirements:
 
 (a) For endorsements as tankerman-PIC, advanced oil and chemical tanker cargo operation; and advanced liquefied gas tanker cargo operations, present evidence of—

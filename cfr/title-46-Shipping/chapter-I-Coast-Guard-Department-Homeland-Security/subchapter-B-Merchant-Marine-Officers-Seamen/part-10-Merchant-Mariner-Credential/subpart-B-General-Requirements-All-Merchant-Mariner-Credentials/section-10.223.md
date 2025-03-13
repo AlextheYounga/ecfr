@@ -1,6 +1,6 @@
 ##### § 10.223 Modification or removal of limitations or scope. #####
 
-Link to an amendment published at 89 FR 93060, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93060, Nov. 25, 2024.Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (a) If the Coast Guard is satisfied by the documentary evidence submitted that an applicant is entitled by experience, training, and knowledge to an endorsement or increase in the scope of any MMC held, any limitations that were previously placed upon the MMC by the Coast Guard may be changed or removed. Such an increase in scope may include a change in horsepower or tonnage limitations, or geographic route restrictions.
 

@@ -1,5 +1,7 @@
 ##### § 124.4 What restrictions apply to fees for applicant and Participant representatives? #####
 
+Link to an amendment published at 89 FR 102487, Dec. 17, 2024.
+
 (a) The compensation received by any packager, agent or representative of an 8(a) applicant or Participant for assisting the applicant in obtaining 8(a) certification or for assisting the Participant in obtaining 8(a) contracts, or any other assistance to support program participation, must be reasonable in light of the service(s) performed by the packager, agent or representative.
 
 (b) In assisting a Participant obtain one or more 8(a) contracts, a packager, agent or representative cannot receive a fee that is a percentage of the gross contract value.

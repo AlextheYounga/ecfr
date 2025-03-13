@@ -1,5 +1,7 @@
 ##### § 129.7 Application, issuance, or denial of operations specifications. #####
 
+Link to an amendment published at 89 FR 101880, Dec. 17, 2024.
+
 (a) A foreign air carrier or foreign person applying to the FAA for operations specifications under this part must submit an application—
 
 (1) In a form and manner prescribed by the Administrator; and

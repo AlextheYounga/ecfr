@@ -1,5 +1,7 @@
 ##### § 14.307 Entries on certificate of discharge. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 (a) Each master or individual in charge of a vessel must, for each merchant mariner being discharged from the vessel, prepare a certificate of discharge and two copies, whether by writing or typing them on the prescribed form with permanent ink or generating them from computer in the prescribed format, and must sign them with permanent ink. The prescribed format for a certificate of discharge is the same as the current form CG-718A. The form has the mariner's printed name, signature, citizenship, MMD or MMC number, certification statement, date, master's signature, rate/rank the mariner is serving on the voyage, date and place of shipment, date and place of discharge, name of the vessel, name of the operating company, official number of the vessel, class of the vessel, and nature of the voyage.
 
 (b) Each mariner being discharged must sign the certificate and both copies with permanent ink.

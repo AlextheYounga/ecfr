@@ -1,5 +1,7 @@
 ##### § 15.701 Officers Competency Certificates Convention, 1936. #####
 
+Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
+
 (a) This section implements the Officers Competency Certificates Convention, 1936 (see 46 U.S.C. 8304), and applies to each vessel documented under the laws of the United States navigating seaward of the Boundary Lines in part 7 of this chapter, except:
 
 (1) A public vessel;

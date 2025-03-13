@@ -1,5 +1,7 @@
 ##### § 16.230 Random testing requirements. #####
 
+Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
+
 (a) Marine employers shall establish programs for the chemical testing for dangerous drugs on a random basis of crewmembers on inspected vessels who:
 
 (1) Occupy a position, or perform the duties and functions of a position, required by the vessel's Certificate of Inspection;

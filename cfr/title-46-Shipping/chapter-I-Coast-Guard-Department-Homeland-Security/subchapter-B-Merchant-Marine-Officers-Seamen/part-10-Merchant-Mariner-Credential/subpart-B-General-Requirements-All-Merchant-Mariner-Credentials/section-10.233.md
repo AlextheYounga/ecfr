@@ -1,6 +1,6 @@
 ##### § 10.233 Obligations of the holder of a merchant mariner credential. #####
 
-Link to an amendment published at 89 FR 93062, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (a) The holder of a credential may not voluntarily part with it or place it beyond his or her personal control by pledging or depositing it with any other person, except as required by regulation or as necessary to safeguard the credential. If the holder violates this section, the Coast Guard may pursue suspension or revocation of the license, MMD, COR, or MMC under the provisions of part 5 of this chapter.
 

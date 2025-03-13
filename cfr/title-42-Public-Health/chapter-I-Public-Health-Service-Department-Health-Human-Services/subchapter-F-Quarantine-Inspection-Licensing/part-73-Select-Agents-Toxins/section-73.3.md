@@ -1,5 +1,7 @@
 ##### § 73.3 HHS select agents and toxins. #####
 
+Link to an amendment published at 89 FR 101952, Dec. 17, 2024.
+
 (a) Except for exclusions under paragraphs (d) and (e) of this section, the HHS Secretary has determined that the biological agents and toxins listed in this section have the potential to pose a severe threat to public health and safety. The select agents and toxins marked with an asterisk (\*) are designated as Tier 1 select agents and toxins and are subject to additional requirements as listed in this part.
 
 (b) HHS select agents and toxins:

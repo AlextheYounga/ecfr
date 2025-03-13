@@ -1,5 +1,7 @@
 ##### § 11.920 Subjects for MODU endorsements. #####
 
+Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
+
 Table 1 to § 11.920 gives the codes used in Table 2 to § 11.920 for MODU endorsements. Table 2 to § 11.920 indicates the examination subjects for each endorsement by the code number.
 
 |          1. OIM/Unrestricted.          |

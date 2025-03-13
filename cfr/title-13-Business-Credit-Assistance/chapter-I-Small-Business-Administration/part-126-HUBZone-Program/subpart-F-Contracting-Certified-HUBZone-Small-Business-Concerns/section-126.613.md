@@ -1,5 +1,7 @@
 ##### § 126.613 How does a price evaluation preference affect the bid of a certified HUBZone small business concern in full and open competition? #####
 
+Link to an amendment published at 89 FR 102503, Dec. 17, 2024.
+
 (a)(1) Where a CO will award a contract on the basis of full and open competition, the CO must deem the price offered by a certified HUBZone small business concern to be lower than the price offered by another offeror (other than another small business concern) if the price offered by the certified HUBZone small business concern is not more than 10% higher than the price offered by the otherwise lowest, responsive, and responsible offeror. For a best value procurement, the CO must apply the 10% preference to the otherwise successful offer of a large business and then determine which offeror represents the best value to the Government, in accordance with the terms of the solicitation. This does not apply if the certified HUBZone small business concern will receive the contract as part of a reserve for certified HUBZone small business concerns.
 
 (2) Where, after considering the price evaluation adjustment, the price offered by a certified HUBZone small business concern is equal to the price offered by a large business (or, in a best value procurement, the total evaluation points received by a certified HUBZone small business concern is equal to the total evaluation points received by a large business), award shall be made to the certified HUBZone small business concern.

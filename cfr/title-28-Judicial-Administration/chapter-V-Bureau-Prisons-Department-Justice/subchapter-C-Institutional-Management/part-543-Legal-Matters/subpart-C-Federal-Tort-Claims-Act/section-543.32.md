@@ -14,6 +14,6 @@
 
 (g) *Acceptance of settlement.* If you accept a settlement, you give up your right to bring a lawsuit against the United States or against any employee of the government whose action or lack of action gave rise to your claim.
 
-(h) *Response timeline.* Generally, you will receive a decision regarding your claim within six months of when you properly present the claim. If you have not received a letter either proposing a settlement or denying your claim within six months after the date your claim was presented, you may assume your claim is denied. You may then proceed to file a lawsuit in the appropriate United States District Court.
+(h) *Response timeline.* Generally, you will receive a decision regarding your claim within six months of when you properly present the claim. If you have not received a letter denying your claim within six months after the date your claim was presented, you may deem the absence of a response to your claim as a denial. You may then proceed to file a lawsuit in the appropriate United States District Court.
 
-[65 FR 34364, May 26, 2000, as amended at 88 FR 76658, Nov. 7, 2023; 88 FR 87903, Dec. 20, 2023]
+[65 FR 34364, May 26, 2000, as amended at 88 FR 76658, Nov. 7, 2023; 88 FR 87903, Dec. 20, 2023; 89 FR 101882, Dec. 17, 2024]

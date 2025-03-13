@@ -1,5 +1,7 @@
 ##### § 128.202 Who does SBA consider to own a VOSB or SDVOSB? #####
 
+Link to an amendment published at 89 FR 102508, Dec. 17, 2024.
+
 To qualify as a VOSB, one or more veterans must unconditionally and directly own at least 51 percent of the concern. To qualify as a SDVOSB, one or more service-disabled veterans must unconditionally and directly own at least 51 percent of the concern.
 
 (a) *Direct ownership.* To be considered direct ownership, the qualifying veteran must own 51 percent of the concern directly, and not through another business entity or trust (including an ESOP). However, ownership by a trust, such as a living trust, may be considered direct ownership where the trust is revocable, and qualifying veterans are the grantors, trustees, and the current beneficiaries of the trust.

@@ -1,6 +1,6 @@
 ##### § 12.405 Examination and demonstration of ability for able seaman (A/B) endorsements. #####
 
-Link to an amendment published at 89 FR 93100, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93100, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) Before an applicant is issued an endorsement as an A/B, he or she must prove, to the satisfaction of the Coast Guard, by oral or other means of examination, or by actual demonstration in a Coast Guard-approved course, his or her knowledge of seamanship and the ability to carry out effectively all the duties that may be required of an A/B, including those of a lifeboatman or lifeboatman-limited.
 

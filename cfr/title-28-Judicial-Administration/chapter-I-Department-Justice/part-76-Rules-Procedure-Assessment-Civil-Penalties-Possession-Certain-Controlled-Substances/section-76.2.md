@@ -40,9 +40,9 @@
 
 (D) Any compound, mixture, or preparation which contains any quantity of any of the substances referred to in paragraphs (h)(6)(ii) (A) through (C) of this section;
 
-(iii)1/10 gram of a mixture or substance described in paragraph (h)(6)(ii) of this section which contains cocaine base;
+(iii) 1/10 gram of a mixture or substance described in paragraph (h)(6)(ii) of this section which contains cocaine base;
 
-(iv)1/10 gram of a mixture or substance containing a detectable amount of phencyclidine (PCP);
+(iv) 1/10 gram of a mixture or substance containing a detectable amount of phencyclidine (PCP);
 
 (v) 500 micrograms of a mixture or substance containing a detectable amount of lysergic acid diethylamide (LSD);
 

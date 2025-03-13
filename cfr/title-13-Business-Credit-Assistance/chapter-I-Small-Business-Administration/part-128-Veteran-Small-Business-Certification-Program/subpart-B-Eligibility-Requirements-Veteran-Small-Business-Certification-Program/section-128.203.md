@@ -1,6 +1,6 @@
 ##### § 128.203 Who does SBA consider to control a VOSB or SDVOSB? #####
 
-Link to an amendment published at 89 FR 96094, Dec. 4, 2024.
+Link to an amendment published at 89 FR 96094, Dec. 4, 2024.Link to an amendment published at 89 FR 102508, Dec. 17, 2024.
 
 (a) *General.* To be an eligible VOSB, the management and daily business operations of the concern must be controlled by one or more veterans. To be an eligible SDVOSB, the management and daily business operations of the concern must be controlled by one or more service-disabled veterans (or in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran). Control by one or more qualifying veterans means that one or more qualifying veterans controls both the long-term decision-making and the day-to-day operations of the Applicant or Participant.
 

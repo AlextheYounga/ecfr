@@ -10,4 +10,4 @@
 
 (e) An IRB shall conduct continuing review of research covered by this policy at intervals appropriate to the degree of risk, but not less than once per year, and shall have authority to observe or have a third party observe the consent process and the research.
 
-(Approved by the Office of Management and Budget under Control Number 0990-0260)[56 FR 28012, 28020, June 18, 1991, as amended at 70 FR 36328, June 23, 2005]
+(Approved by the Office of Management and Budget under Control Number 0990-0260) [56 FR 28012, 28020, June 18, 1991, as amended at 70 FR 36328, June 23, 2005]

@@ -1,5 +1,7 @@
 ##### § 15.812 Pilots. #####
 
+Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
+
 (a) Except as specified in paragraph (f) of this section, the following vessels, not sailing on register, when underway on the navigable waters of the United States, must be under the direction and control of an individual qualified to serve as pilot under paragraph (b) or (c) of this section, as appropriate:
 
 (1) Coastwise seagoing vessels propelled by machinery and subject to inspection under 46 U.S.C. Chapter 33, and coastwise seagoing tank barges subject to inspection under 46 U.S.C. Chapter 37.

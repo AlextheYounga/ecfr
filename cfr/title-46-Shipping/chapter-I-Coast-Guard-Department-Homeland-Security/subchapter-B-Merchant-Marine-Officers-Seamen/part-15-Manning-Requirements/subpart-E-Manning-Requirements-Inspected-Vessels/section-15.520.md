@@ -1,5 +1,7 @@
 ##### § 15.520 Mobile offshore drilling units (MODUs). #####
 
+Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
+
 (a) The requirements in this section for MODUs supplement other requirements in this part.
 
 (b) The OCMI determines the minimum number of officers and crew (including lifeboatmen) required for the safe operation of inspected MODUs. In addition to other factors listed in this part, the specialized nature of the MODU is considered in determining the specific manning levels.

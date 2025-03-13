@@ -1,5 +1,7 @@
 ##### § 15.105 General. #####
 
+Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
+
 (a) The regulations in this part apply to all vessels that are subject to the manning requirements contained in the navigation and shipping laws of the United States, including uninspected vessels (46 U.S.C. 7101-9308).
 
 (b) The navigation and shipping laws state that a vessel may not be operated unless certain manning requirements are met. In addition to establishing a minimum number of officers and rated crew to be carried onboard certain vessels, they establish minimum qualifications concerning licenses and MMC endorsements, citizenship, and conditions of employment. It is the responsibility of the owner, charterer, managing operator, master, or person in charge or in command of the vessel to ensure that appropriate personnel are carried to meet the requirements of the applicable navigation and shipping laws and regulations.

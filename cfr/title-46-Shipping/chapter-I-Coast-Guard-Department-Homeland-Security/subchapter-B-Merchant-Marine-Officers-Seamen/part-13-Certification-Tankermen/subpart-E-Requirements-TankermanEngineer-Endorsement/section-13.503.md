@@ -1,5 +1,7 @@
 ##### § 13.503 Service requirements. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 (a) Each applicant for a tankerman-engineer endorsement must present evidence of at least—
 
 (1) 90 days of service as an engineering officer on tankships or self-propelled tank vessels certified to carry DL or LG appropriate to the endorsement applied for;

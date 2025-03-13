@@ -1,5 +1,7 @@
 ##### § 128.201 What other eligibility requirements apply for certification as a VOSB or SDVOSB? #####
 
+Link to an amendment published at 89 FR 102508, Dec. 17, 2024.
+
 (a) *Suspension and debarment.* (1) In order to be eligible for VOSB or SDVOSB certification and to remain certified, the concern and any of its owners must not have an active exclusion in SAM.
 
 (2) An Applicant or Participant must immediately notify SBA of any active exclusion.

@@ -1,5 +1,7 @@
 ##### § 13.405 Proof of service for tankerman-assistant endorsement. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 Service must be proved by either—
 
 (a) A letter on company letterhead from the owner, operator, or master of a tankship or self-propelled tank vessel. The letter must specify—

@@ -1,6 +1,6 @@
 ##### § 10.227 Requirements for renewal. #####
 
-Link to an amendment published at 89 FR 93061, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93061, Nov. 25, 2024.Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (a) Except as provided in paragraph (g) of this section, an applicant for renewal of a credential must establish possession of all of the necessary qualifications before the MMC will be renewed.
 

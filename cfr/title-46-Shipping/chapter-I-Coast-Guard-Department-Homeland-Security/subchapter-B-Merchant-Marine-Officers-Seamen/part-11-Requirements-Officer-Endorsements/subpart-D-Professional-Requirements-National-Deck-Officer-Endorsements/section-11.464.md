@@ -1,6 +1,6 @@
 ##### § 11.464 Requirements for national endorsements as master of towing vessels. #####
 
-Link to an amendment published at 89 FR 93086, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93086, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (a) An applicant for an endorsement as master of towing vessels with a route listed in column 1 of table 1 to this section, must complete the service requirements indicated in columns 2 through 5. Applicants may serve on the subordinate routes listed in column 5 without further endorsement.
 

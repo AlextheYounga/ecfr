@@ -1,6 +1,6 @@
 ##### § 11.502 General requirements for national engineer endorsements. #####
 
-Link to an amendment published at 89 FR 93092, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93092, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) For all original and raise of grade of engineer endorsements, at least one-third of the minimum service requirements must have been obtained on the particular mode of propulsion for which the applicant seeks endorsement.
 

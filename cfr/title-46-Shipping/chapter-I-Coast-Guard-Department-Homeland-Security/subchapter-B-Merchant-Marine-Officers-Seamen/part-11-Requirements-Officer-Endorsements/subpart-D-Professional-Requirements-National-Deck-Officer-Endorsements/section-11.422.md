@@ -1,6 +1,6 @@
 ##### § 11.422 Tonnage limitations and qualifying requirements for endorsements as master or mate of vessels of less than 200 GRT. #####
 
-Link to an amendment published at 89 FR 93081, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93081, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (a) Each national endorsement as master or mate of vessels of less than 200 GRT is issued with a tonnage limitation based on the applicant's qualifying experience. The tonnage limitation will be issued at the 25, 50, 100, or 200 GRT level. The endorsement will be limited to the maximum GRT on which at least 25 percent of the required experience was obtained, or 150 percent of the maximum GRT on which at least 50 percent of the service was obtained, whichever is higher. Limitations are as stated above, using the next higher figure when an intermediate tonnage is calculated. If more than 75 percent of the qualifying experience is obtained on vessels of 5 GRT or less, the MMC will automatically be limited to vessels of less than 25 GRT.
 

@@ -1,5 +1,7 @@
 ##### § 15.915 Engineer officer endorsements. #####
 
+Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
+
 The following licenses and MMC officer endorsements authorize the holder to serve as noted, within any restrictions on the license or MMC, and as provided by § 15.401 of this part:
 
 (a) A designated duty engineer license or endorsement authorizes service as chief or assistant engineer on vessels of less than 500 GT in the following manners:

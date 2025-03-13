@@ -1,5 +1,7 @@
 ##### § 126.104 How can a Governor petition for the designation of a Governor-designated covered area? #####
 
+Link to an amendment published at 89 FR 102497, Dec. 17, 2024.
+
 (a) For a specific covered area to receive a designation as a Governor-designated covered area, the Governor of the State in which the identified covered area is wholly contained shall include such area in a petition to the Administrator requesting such a designation. In reviewing a request for designation included in such a petition, the Administrator may consider—
 
 (1) The potential for job creation and investment in the covered area;

@@ -6,4 +6,4 @@
 
 (c) Prisoners who are serving Federal sentences exclusively but who are being boarded in State, local, or territorial institutions may be provided hearings at such facilities or may be transferred by the Bureau of Prisons to Federal Institutions for hearings by examiner panels of the Commission.
 
-(18 U.S.C. 4203, 4204)[42 FR 39809, Aug. 5, 1977, as amended at 45 FR 44924, July 2, 1980; 50 FR 36424, Sept. 6, 1985]
+(18 U.S.C. 4203, 4204) [42 FR 39809, Aug. 5, 1977, as amended at 45 FR 44924, July 2, 1980; 50 FR 36424, Sept. 6, 1985]

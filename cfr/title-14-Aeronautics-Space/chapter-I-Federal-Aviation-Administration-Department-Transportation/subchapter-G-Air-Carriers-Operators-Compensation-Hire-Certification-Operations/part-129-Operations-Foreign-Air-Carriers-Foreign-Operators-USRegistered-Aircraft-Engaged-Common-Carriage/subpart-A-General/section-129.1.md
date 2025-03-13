@@ -1,5 +1,7 @@
 ##### § 129.1 Applicability and definitions. #####
 
+Link to an amendment published at 89 FR 101880, Dec. 17, 2024.
+
 (a) *Foreign air carrier operations in the United States.* This part prescribes rules governing the operation within the United States of each foreign air carrier holding the following:
 
 (1) A permit issued by the U.S. Department of Transportation under 49 U.S.C. 41301 through 41306, or

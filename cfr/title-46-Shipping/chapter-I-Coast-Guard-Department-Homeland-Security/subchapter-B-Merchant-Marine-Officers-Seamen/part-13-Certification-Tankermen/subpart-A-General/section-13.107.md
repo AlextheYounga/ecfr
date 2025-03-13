@@ -1,5 +1,7 @@
 ##### § 13.107 Tankerman endorsement: General. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 (a) If an applicant meets the requirements of subpart B of this part, the Coast Guard may endorse his or her MMC as tankerman-PIC with the appropriate cargo classification or classifications. A person holding this endorsement and meeting the other requirements of 33 CFR 155.710(a) may act as a PIC of a transfer of fuel oil, of a transfer of liquid cargo in bulk, or of cargo-tank cleaning on any tank vessel. That person may also act as a tankerman-engineer, provided that he or she also holds an engineer license or engineer endorsement.
 
 (b) If an applicant meets the requirements of subpart C of this part, the Coast Guard may endorse his or her MMC as tankerman-PIC (barge) with the appropriate cargo classification or classifications. A person holding this endorsement and meeting the other requirements of 33 CFR 155.710(b) may act as a PIC of a transfer of liquid cargo in bulk only on a tank barge.

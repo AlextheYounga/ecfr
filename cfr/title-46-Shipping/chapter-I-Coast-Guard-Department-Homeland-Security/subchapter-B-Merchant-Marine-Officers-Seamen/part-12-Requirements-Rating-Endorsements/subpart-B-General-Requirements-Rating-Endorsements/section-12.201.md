@@ -1,6 +1,6 @@
 ##### § 12.201 General requirements for national and STCW rating endorsements. #####
 
-Link to an amendment published at 89 FR 93099, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93099, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) *General.* (1) An MMC issued to a deck or engineer officer will be endorsed for all entry-level ratings and any other ratings for which they qualify under this part. An applicant for any STCW endorsement must hold the appropriate national endorsement, unless otherwise specified.
 

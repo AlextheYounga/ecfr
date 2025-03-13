@@ -70,4 +70,4 @@
 
 (4) If a public entity has already complied with the transition plan requirement of a Federal agency regulation implementing section 504 of the Rehabilitation Act of 1973, then the requirements of this paragraph (d) shall apply only to those policies and practices that were not included in the previous transition plan.
 
-(Approved by the Office of Management and Budget under control number 1190-0004)[56 FR 35716, July 26, 1991, as amended by Order No. 1694-93, 58 FR 17521, Apr. 5, 1993; AG Order No. 3180-2010, 75 FR 56180, Sept. 15, 2010; AG Order 3332-2012, 77 FR 30179, May 21, 2012]
+(Approved by the Office of Management and Budget under control number 1190-0004) [56 FR 35716, July 26, 1991, as amended by Order No. 1694-93, 58 FR 17521, Apr. 5, 1993; AG Order No. 3180-2010, 75 FR 56180, Sept. 15, 2010; AG Order 3332-2012, 77 FR 30179, May 21, 2012]

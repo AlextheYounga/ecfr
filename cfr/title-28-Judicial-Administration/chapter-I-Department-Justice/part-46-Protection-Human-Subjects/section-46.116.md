@@ -62,4 +62,4 @@ Except as provided elsewhere in this policy, no investigator may involve a human
 
 (f) Nothing in this policy is intended to limit the authority of a physician to provide emergency medical care, to the extent the physician is permitted to do so under applicable federal, state, or local law.
 
-(Approved by the Office of Management and Budget under Control Number 0990-0260)[56 FR 28012, 28020, June 18, 1991, as amended at 70 FR 36328, June 23, 2005]
+(Approved by the Office of Management and Budget under Control Number 0990-0260) [56 FR 28012, 28020, June 18, 1991, as amended at 70 FR 36328, June 23, 2005]

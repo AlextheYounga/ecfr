@@ -1,5 +1,7 @@
 ##### § 13.203 Service requirements. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 Each applicant for a tankerman-PIC endorsement for DL or LG must meet the requirements of either paragraphs (a) and (b) or paragraph (c) of this section.
 
 (a) Each applicant must present evidence of—

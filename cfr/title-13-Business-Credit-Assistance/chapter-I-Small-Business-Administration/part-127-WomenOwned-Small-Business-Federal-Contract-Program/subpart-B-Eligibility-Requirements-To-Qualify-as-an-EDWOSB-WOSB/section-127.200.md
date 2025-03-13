@@ -1,5 +1,7 @@
 ##### § 127.200 What are the requirements a concern must meet to qualify as an EDWOSB or WOSB? #####
 
+Link to an amendment published at 89 FR 102505, Dec. 17, 2024.
+
 (a) *Qualification as an EDWOSB.* To qualify as an EDWOSB, a concern must be:
 
 (1) A small business concern as defined in part 121 of this chapter under the size standard corresponding to any NAICS code listed in its SAM profile; and

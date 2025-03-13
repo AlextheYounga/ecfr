@@ -1,5 +1,7 @@
 ##### § 14.407 Reports. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 (a) The owner, charterer, managing operator, master, or individual in charge of each oceanographic research vessel of 100 GRT or more must maintain a record of the employment, discharge, or termination of service of every merchant mariner in the crew. At least every 6 months, the person maintaining this record shall transmit it to the Coast Guard, either manually, in the form of a copy of a certificate of discharge, or electronically to the address provided in § 14.103 of this part.
 
 (b) The owner, charterer, managing operator, master, or individual in charge of the vessel must keep original shipping articles and a copy of each certificate of discharge ready for review by the Coast Guard or the concerned mariner upon request. The Coast Guard will no longer keep either original articles or copies of certificates of discharge; it will keep only electronic records of employment.

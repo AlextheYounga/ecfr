@@ -18,4 +18,4 @@
 
 (b) The records required by this policy shall be retained for at least 3 years, and records relating to research which is conducted shall be retained for at least 3 years after completion of the research. All records shall be accessible for inspection and copying by authorized representatives of the department or agency at reasonable times and in a reasonable manner.
 
-(Approved by the Office of Management and Budget under Control Number 0990-0260)[56 FR 28012, 28020, June 18, 1991, as amended at 70 FR 36328, June 23, 2005]
+(Approved by the Office of Management and Budget under Control Number 0990-0260) [56 FR 28012, 28020, June 18, 1991, as amended at 70 FR 36328, June 23, 2005]

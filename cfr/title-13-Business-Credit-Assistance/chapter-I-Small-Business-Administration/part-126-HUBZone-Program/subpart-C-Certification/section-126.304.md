@@ -1,5 +1,7 @@
 ##### § 126.304 What must a concern submit to SBA in order to be certified as a HUBZone small business concern? #####
 
+Link to an amendment published at 89 FR 102500, Dec. 17, 2024.
+
 (a) *General.* To be certified by SBA as a HUBZone small business concern, a concern must submit a completed application and all documents requested by SBA. The concern must also represent to SBA that it meets the requirements set forth in § 126.200 and that all of the information provided as of the date of the application (and any subsequent information provided) is complete, true and accurate. The representation must be signed by an owner or officer of the applicant.
 
 (b) *Supporting documents.* (1) SBA may request documents to verify that the applicant meets the HUBZone program's eligibility requirements. The documents must show that the concern meets the program's requirements at the time it submits its application to SBA.

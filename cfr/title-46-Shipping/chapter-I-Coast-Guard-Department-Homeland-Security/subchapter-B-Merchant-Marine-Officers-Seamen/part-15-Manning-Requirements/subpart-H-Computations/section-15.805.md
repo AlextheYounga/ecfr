@@ -1,5 +1,7 @@
 ##### § 15.805 Master. #####
 
+Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
+
 (a) There must be an individual holding an appropriate license as or a valid MMC with endorsement as master in command of each of the following vessels:
 
 (1) Every self-propelled, seagoing documented vessel of 200 GRT and over.

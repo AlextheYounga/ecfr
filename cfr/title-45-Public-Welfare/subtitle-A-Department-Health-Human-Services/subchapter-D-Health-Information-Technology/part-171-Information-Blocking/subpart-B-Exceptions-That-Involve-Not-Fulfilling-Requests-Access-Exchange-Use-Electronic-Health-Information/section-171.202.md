@@ -10,11 +10,11 @@ An actor's practice of not fulfilling a request to access, exchange, or use elec
 
 (ii) Any other natural person who is the subject of the electronic health information being accessed, exchanged, or used.
 
-(iii) A person who legally acts on behalf of a person described in paragraph (a)(1) or (2) of this section in making decisions related to health care as a personal representative, in accordance with 45 CFR 164.502(g).
+(iii) A person who legally acts on behalf of a person described in paragraph (a)(2)(i) of this section in making decisions related to health care as a personal representative, in accordance with 45 CFR 164.502(g).
 
-(iv) A person who is a legal representative of and can make health care decisions on behalf of any person described in paragraph (a)(1) or (2) of this section.
+(iv) A person who is a legal representative of and can make health care decisions on behalf of any person described in paragraph (a)(2)(i) or (ii) of this section.
 
-(v) An executor, administrator, or other person having authority to act on behalf of a deceased person described in paragraph (a)(1) or (2) of this section or the individual's estate under State or other law.
+(v) An executor, administrator, or other person having authority to act on behalf of a deceased person described in paragraph (a)(2)(i) or (ii) of this section or the individual's estate under State or other law.
 
 (b) *Sub-exception—precondition not satisfied.* To qualify for the exception on the basis that State or Federal law requires one or more preconditions for providing access, exchange, or use of electronic health information that have not been satisfied, the following requirements must be met—
 
@@ -48,7 +48,7 @@ An actor's practice of not fulfilling a request to access, exchange, or use elec
 
 (d) *Sub-exception*—*denial of an individual's request for their electronic health information consistent with 45 CFR 164.524(a)(1) and (2).* If an individual requests electronic health information under the right of access provision under 45 CFR 164.524(a)(1) from an actor that must comply with 45 CFR 164.524(a)(1), the actor's practice must be consistent with 45 CFR 164.524(a)(2).
 
-(e) *Sub-exception—respecting an individual's request not to share information.* Unless otherwise required by law, an actor may elect not to provide access, exchange, or use of an individual's electronic health information if the following requirements are met—
+(e) *Sub-exception—individual's request not to share EHI.* An actor may elect not to provide access, exchange, or use of an individual's electronic health information if the following requirements are met—
 
 (1) The individual requests that the actor not provide such access, exchange, or use of electronic health information without any improper encouragement or inducement of the request by the actor;
 
@@ -67,3 +67,5 @@ An actor's practice of not fulfilling a request to access, exchange, or use elec
 (A) Not effective to the extent prohibited by applicable Federal or State law; and
 
 (B) Only applicable to electronic health information created or received after the actor has so informed the individual of the termination.
+
+[85 FR 25955, May 1, 2020, as amended at 89 FR 102564, Dec. 17, 2024]

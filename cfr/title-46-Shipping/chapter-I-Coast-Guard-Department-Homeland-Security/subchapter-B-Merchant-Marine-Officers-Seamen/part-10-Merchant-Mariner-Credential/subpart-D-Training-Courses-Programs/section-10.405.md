@@ -1,6 +1,6 @@
 ##### § 10.405 Qualification as qualified assessor (QA) and designated examiner (DE). #####
 
-Link to an amendment published at 89 FR 93068, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93068, Nov. 25, 2024.Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (a) To become a QA, an applicant must have documentary evidence to establish—
 

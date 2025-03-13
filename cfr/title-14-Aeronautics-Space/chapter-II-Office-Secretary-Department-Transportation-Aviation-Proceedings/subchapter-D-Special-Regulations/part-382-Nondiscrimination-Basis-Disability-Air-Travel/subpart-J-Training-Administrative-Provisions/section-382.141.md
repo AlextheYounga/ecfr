@@ -1,5 +1,7 @@
 ##### § 382.141 What training are carriers required to provide for their personnel? #####
 
+Link to an amendment published at 89 FR 102443, Dec. 17, 2024.
+
 (a) As a carrier that operates aircraft with 19 or more passenger seats, you must provide training, meeting the requirements of this paragraph, for all personnel who deal with the traveling public, as appropriate to the duties of each employee.
 
 (1) You must ensure training to proficiency concerning:

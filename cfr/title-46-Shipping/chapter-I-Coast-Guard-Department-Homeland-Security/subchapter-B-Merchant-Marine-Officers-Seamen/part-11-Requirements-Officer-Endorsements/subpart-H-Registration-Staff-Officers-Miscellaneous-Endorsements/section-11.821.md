@@ -1,6 +1,6 @@
 ##### § 11.821 High-speed craft type-rating. #####
 
-Link to an amendment published at 89 FR 93097, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93097, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) This section is only applicable to those persons who will be serving or have served upon those vessels built and operated in accordance with the International Code of Safety for High Speed Craft (HSC Code).
 

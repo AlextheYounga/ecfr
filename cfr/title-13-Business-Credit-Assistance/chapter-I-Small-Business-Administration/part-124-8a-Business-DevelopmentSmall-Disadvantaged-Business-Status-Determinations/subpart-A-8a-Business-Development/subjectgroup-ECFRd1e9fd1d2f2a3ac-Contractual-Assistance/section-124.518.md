@@ -1,5 +1,7 @@
 ##### § 124.518 How can an 8(a) contract be terminated before performance is completed? #####
 
+Link to an amendment published at 89 FR 102490, Dec. 17, 2024.
+
 (a) *Termination for default.* A decision to terminate a specific 8(a) contract for default can be made by the procuring activity contracting officer after consulting with SBA. The contracting officer must advise SBA of any intent to terminate an 8(a) contract for default in writing before doing so. SBA may provide to the Participant any program benefits reasonably available in order to assist it in avoiding termination for default. SBA will advise the contracting officer of this effort. Any procuring activity contracting officer who believes grounds for termination continue to exist may terminate the 8(a) contract for default, in accordance with the Federal Acquisition Regulations (48 CFR chapter 1). SBA will have no liability for termination costs or reprocurement costs.
 
 (b) *Termination for convenience.* After consulting with SBA, the procuring activity contracting officer may terminate an 8(a) contract for convenience when it is in the best interests of the Government to do so. A termination for convenience is appropriate if any disadvantaged owner of the Participant performing the contract relinquishes ownership or control of such concern, or enters into any agreement to relinquish such ownership or control, unless a waiver is granted pursuant to § 124.515.

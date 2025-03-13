@@ -1,5 +1,7 @@
 ##### § 124.204 How does SBA process applications for 8(a) BD program admission? #####
 
+Link to an amendment published at 89 FR 102489, Dec. 17, 2024.
+
 (a) The AA/BD is authorized to approve or decline applications for admission to the 8(a) BD program.
 
 (1) Except as set forth in paragraph (a)(2) of this section, the DPCE will receive, review and evaluate all 8(a) BD applications.

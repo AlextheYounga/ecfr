@@ -14,4 +14,4 @@
 
 (d) If a public entity has already complied with the self-evaluation requirement of a regulation implementing section 504 of the Rehabilitation Act of 1973, then the requirements of this section shall apply only to those policies and practices that were not included in the previous self-evaluation.
 
-(Approved by the Office of Management and Budget under control number 1190-0006)[56 FR 35716, July 26, 1991, as amended by Order No. 1694-93, 58 FR 17521, Apr. 5, 1993]
+(Approved by the Office of Management and Budget under control number 1190-0006) [56 FR 35716, July 26, 1991, as amended by Order No. 1694-93, 58 FR 17521, Apr. 5, 1993]

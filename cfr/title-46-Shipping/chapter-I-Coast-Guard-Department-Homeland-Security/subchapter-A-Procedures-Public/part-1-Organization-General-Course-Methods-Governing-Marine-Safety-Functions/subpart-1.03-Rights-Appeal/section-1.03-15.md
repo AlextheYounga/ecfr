@@ -1,5 +1,7 @@
 ##### § 1.03-15 General. #####
 
+Link to an amendment published at 89 FR 102332, Dec. 17, 2024.
+
 (a) Any person directly affected by a decision or action taken under this chapter or under chapter III of this title, by or on behalf of the Coast Guard, except for matters covered by subpart J of part 5 of this chapter dealing with suspension-and-revocation hearings, shall follow the procedures contained in this section when requesting that the decision or action be reviewed, set aside, or revised.
 
 (b) When requesting that a decision or action be reconsidered or reviewed, as may be required by this subpart, such request must be made within 30 days after the decision is rendered or the action is taken.

@@ -1,6 +1,6 @@
 ##### § 12.809 Citizenship and identity. #####
 
-Link to an amendment published at 89 FR 93106, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93106, Nov. 25, 2024.Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
 
 (a) Instead of the requirements of § 10.221 of this subchapter, a non-resident alien may apply for a Coast Guard-issued MMC, endorsed and valid only for service in the steward's department of a U.S. flag large passenger vessel, as defined in 46 U.S.C. 8103(k)(5)(B), if he or she is employable in the United States under the Immigration and Nationality Act (8 U.S.C. 1101, et seq.), including an alien crewman described in section 101 (a)(15)(D)(i) of that Act.
 

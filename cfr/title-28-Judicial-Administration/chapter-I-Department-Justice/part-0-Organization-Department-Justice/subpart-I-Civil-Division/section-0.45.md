@@ -26,4 +26,4 @@ The following-described matters are assigned to, and shall be conducted, handled
 
 (l) *Civil penalties for drug possession*—the authority and responsibilities of the Attorney General under section 6486 of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 844a) and the regulations implementing that Act (28 CFR part 76). Such authority and responsibilities may be redelegated by the Assistant Attorney General to subordinate division officials to the extent and subject to limitations deemed advisable.
 
-[Order No. 423-69, 34 FR 20388, Dec. 31, 1969]Editorial Note:For Federal Register citations affecting § 0.45, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order No. 423-69, 34 FR 20388, Dec. 31, 1969] Editorial Note:For Federal Register citations affecting § 0.45, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

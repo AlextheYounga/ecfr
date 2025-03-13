@@ -1,5 +1,7 @@
 ##### § 10.211 Criminal record review. #####
 
+Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
+
 (a) The Coast Guard may conduct a criminal record review to determine the safety and suitability of an applicant for an MMC and any endorsements. An applicant conducting simultaneous MMC transactions will undergo a single criminal record review. At the time of application, each applicant must provide written disclosure of all prior convictions not previously disclosed to the Coast Guard on an application.
 
 (b) A criminal record review is not required for applicants seeking a duplicate MMC under § 10.229.

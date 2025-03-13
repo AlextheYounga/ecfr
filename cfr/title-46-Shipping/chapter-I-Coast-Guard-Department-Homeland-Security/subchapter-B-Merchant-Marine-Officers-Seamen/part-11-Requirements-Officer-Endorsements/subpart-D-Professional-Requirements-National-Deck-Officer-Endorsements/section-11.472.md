@@ -1,6 +1,6 @@
 ##### § 11.472 National officer endorsements as barge supervisor. #####
 
-Link to an amendment published at 89 FR 93090, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93090, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (a) To qualify for an endorsement as barge supervisor (BS), an applicant must—
 

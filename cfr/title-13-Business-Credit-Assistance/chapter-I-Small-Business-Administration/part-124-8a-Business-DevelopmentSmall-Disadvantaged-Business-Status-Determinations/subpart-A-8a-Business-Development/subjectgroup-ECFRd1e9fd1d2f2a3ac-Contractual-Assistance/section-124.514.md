@@ -1,5 +1,7 @@
 ##### § 124.514 Exercise of 8(a) options and modifications. #####
 
+Link to an amendment published at 89 FR 102490, Dec. 17, 2024.
+
 (a) *Unpriced options.* The exercise of an unpriced option is considered to be a new contracting action.
 
 (1) If a concern has graduated or been terminated from the 8(a) BD program or is no longer small under the size standard corresponding to the NAICS code for the requirement, negotiations to price the option cannot be entered into and the option cannot be exercised.

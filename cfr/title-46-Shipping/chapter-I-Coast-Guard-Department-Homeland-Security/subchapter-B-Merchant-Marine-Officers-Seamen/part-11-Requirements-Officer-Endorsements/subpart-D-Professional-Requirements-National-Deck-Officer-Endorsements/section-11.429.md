@@ -1,6 +1,6 @@
 ##### § 11.429 Requirements for a limited master of near-coastal self-propelled vessels of less than 100 GRT. #####
 
-Link to an amendment published at 89 FR 93082, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93082, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (a) An endorsement as limited master for service on near-coastal waters on vessels of less than 100 GRT may be issued to an applicant to be employed by organizations such as yacht clubs, marinas, formal camps, and educational institutions. An endorsement issued under this section is limited to the specific activity and the locality of the yacht club, marina, or camp. To obtain this restricted endorsement, an applicant must—
 

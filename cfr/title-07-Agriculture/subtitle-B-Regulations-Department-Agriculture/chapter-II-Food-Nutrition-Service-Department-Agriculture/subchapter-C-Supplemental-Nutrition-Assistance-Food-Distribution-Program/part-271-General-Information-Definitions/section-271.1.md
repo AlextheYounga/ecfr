@@ -1,5 +1,7 @@
 ##### § 271.1 General purpose and scope. #####
 
+Link to an amendment published at 89 FR 102362, Dec. 17, 2024.
+
 (a) *Purpose of SNAP.* SNAP is designed to promote the general welfare and to safeguard the health and well being of the Nation's population by raising the levels of nutrition among low-income households. Section 2 of the Food and Nutrition Act of 2008 states, in part:
 
 Congress hereby finds that the limited food purchasing power of low-income households contributes to hunger and malnutrition among members of such households. Congress further finds that increased utilization of food in establishing and maintaining adequate national levels of nutrition will promote the distribution in a beneficial manner of the Nation's agricultural abundance and will strengthen the Nation's agricultural economy, as well as result in more orderly marketing and distribution of foods. To alleviate such hunger and malnutrition, a supplemental nutrition assistance program is herein authorized which will permit low-income households to obtain a more nutritious diet through normal channels of trade by increasing food purchasing power for all eligible households who apply for participation.

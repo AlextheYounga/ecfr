@@ -1,6 +1,6 @@
 ##### § 11.703 Service requirements. #####
 
-Link to an amendment published at 89 FR 93095, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93095, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) The minimum service required to qualify an applicant for an endorsement as first-class pilot is predicated upon the nature of the waters for which pilotage is desired.
 

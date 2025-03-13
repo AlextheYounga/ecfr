@@ -14,4 +14,4 @@ A person applying for a Certificate of Exemption shall file with the Office of G
 
 (f) A statement that the applicant does not, for the purpose of the proceeding, contest the validity of any conviction.
 
-(28 U.S.C. 509 and 510, 5 U.S.C. 301)[44 FR 6890, Feb. 2, 1979, as amended at 46 FR 52354, Oct. 27, 1981]
+(28 U.S.C. 509 and 510, 5 U.S.C. 301) [44 FR 6890, Feb. 2, 1979, as amended at 46 FR 52354, Oct. 27, 1981]

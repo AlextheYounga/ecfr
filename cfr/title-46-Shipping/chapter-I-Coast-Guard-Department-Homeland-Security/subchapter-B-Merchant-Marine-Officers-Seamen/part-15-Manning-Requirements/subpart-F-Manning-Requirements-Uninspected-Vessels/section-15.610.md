@@ -1,5 +1,7 @@
 ##### § 15.610 Master and mate (pilot) of uninspected towing vessels. #####
 
+Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
+
 (a) The requirements in this section apply to towing vessels, except for—
 
 (1) Towing vessels that are subject to subchapter M in accordance with § 136.105 of this chapter;

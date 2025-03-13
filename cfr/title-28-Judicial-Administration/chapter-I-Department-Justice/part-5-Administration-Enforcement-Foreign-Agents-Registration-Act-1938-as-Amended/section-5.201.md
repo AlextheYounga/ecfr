@@ -18,4 +18,4 @@
 
 (e) Whenever a registrant, within the United States, receives or collects contributions, loans, money, or other things of value, as part of a fund-raising campaign, for or in the interests of his foreign principal, he shall file as exhibit D a statement so captioned setting forth the amount of money or the value of the thing received or collected, the names and addresses of the persons from whom such money or thing of value was received or collected, and the amount of money or a description of the thing of value transmitted to the foreign principal as well as the manner and time of such transmission.
 
-(28 U.S.C. 509 and 510; 5 U.S.C. 301)[Order No. 376-67, 32 FR 6362, Apr. 22, 1967, as amended by Order No. 523-73, 38 FR 18235, July 9, 1973; Order No. 960-81, 46 FR 52355, Oct. 27, 1981; Order No. 2674-2003, 68 FR 33630, June 5, 2003]
+(28 U.S.C. 509 and 510; 5 U.S.C. 301) [Order No. 376-67, 32 FR 6362, Apr. 22, 1967, as amended by Order No. 523-73, 38 FR 18235, July 9, 1973; Order No. 960-81, 46 FR 52355, Oct. 27, 1981; Order No. 2674-2003, 68 FR 33630, June 5, 2003]

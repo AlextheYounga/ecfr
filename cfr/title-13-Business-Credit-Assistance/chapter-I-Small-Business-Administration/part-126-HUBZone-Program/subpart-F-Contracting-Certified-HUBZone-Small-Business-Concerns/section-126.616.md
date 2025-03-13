@@ -1,5 +1,7 @@
 ##### § 126.616 What requirements must a joint venture satisfy to submit an offer and be eligible to perform on a HUBZone contract? #####
 
+Link to an amendment published at 89 FR 102504, Dec. 17, 2024.
+
 (a) *General.* A certified HUBZone small business concern may enter into a joint venture agreement with one or more other small business concerns, or with an SBA-approved mentor authorized by § 125.9 of this chapter, for the purpose of submitting an offer for a HUBZone contract.
 
 (1) The joint venture itself need not be a certified HUBZone small business concern, but the joint venture should be designated as a HUBZone joint venture in SAM (or successor system) with the HUBZone-certified joint venture partner identified.

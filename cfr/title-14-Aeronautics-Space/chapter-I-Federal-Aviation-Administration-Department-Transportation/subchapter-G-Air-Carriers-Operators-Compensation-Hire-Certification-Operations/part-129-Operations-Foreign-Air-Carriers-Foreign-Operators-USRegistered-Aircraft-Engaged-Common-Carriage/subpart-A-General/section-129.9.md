@@ -1,5 +1,7 @@
 ##### § 129.9 Contents of operations specifications. #####
 
+Link to an amendment published at 89 FR 101880, Dec. 17, 2024.
+
 (a) The contents of operations specifications issued to a foreign air carrier conducting operations within the United States under § 129.1(a) shall include:
 
 (1) The specific location and mailing address of the applicant's principal place of business in the State of the Operator and, if different, the address that will serve as the primary point of contact for correspondence between the FAA and the foreign air carrier;

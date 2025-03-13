@@ -12,5 +12,4 @@
 
 (b) Unless the President interposes, the United States Marshal shall not stay execution of the sentence on the basis that the prisoner has filed a petition for executive clemency.
 
-[57 FR 4901, Jan. 19, 1993, as amended by Order No.
-4911-2020, 85 FR 75854, Nov. 27, 2020]
+[57 FR 4901, Jan. 19, 1993, as amended by Order No. 4911-2020, 85 FR 75854, Nov. 27, 2020]

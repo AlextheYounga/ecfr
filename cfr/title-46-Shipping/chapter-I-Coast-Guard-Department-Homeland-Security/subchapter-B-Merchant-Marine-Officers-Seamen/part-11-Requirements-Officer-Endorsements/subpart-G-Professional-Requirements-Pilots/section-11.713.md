@@ -1,6 +1,6 @@
 ##### § 11.713 Requirements for maintaining current knowledge of waters to be navigated. #####
 
-Link to an amendment published at 89 FR 93096, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93096, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) If a first-class pilot has not served over a particular route within the past 60 months, that person's license or MMC endorsement is invalid for that route, and remains invalid until the individual has made one re-familiarization round trip over that route, except as provided in paragraph (b) of this section. Whether this requirement is satisfied or not has no effect on the renewal of other licenses or MMC endorsements. Roundtrips made within the 90-day period preceding renewal will be valid for the duration of the renewed license or MMC endorsement.
 

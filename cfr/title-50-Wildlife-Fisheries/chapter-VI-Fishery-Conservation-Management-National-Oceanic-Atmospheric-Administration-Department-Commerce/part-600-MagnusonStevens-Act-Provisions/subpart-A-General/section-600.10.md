@@ -1,5 +1,7 @@
 ##### § 600.10 Definitions. #####
 
+Link to an amendment published at 89 FR 102013, Dec. 17, 2024.
+
 Unless defined otherwise in other parts of Chapter VI, the terms in this chapter have the following meanings:
 
 *Administrator* means the Administrator of NOAA (Under Secretary of Commerce for Oceans and Atmosphere) or a designee.

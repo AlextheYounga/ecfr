@@ -1,5 +1,7 @@
 ##### § 127.400 How does a concern maintain its WOSB or EDWOSB certification? #####
 
+Link to an amendment published at 89 FR 102507, Dec. 17, 2024.
+
 Any concern seeking to remain a certified WOSB or EDWOSB must undergo a program examination every three years.
 
 (a) SBA or a third-party certifier will conduct a program examination three years after the concern's initial WOSB or EDWOSB certification (whether by SBA or a third-party certifier) or three years after the date of the concern's last program examination, whichever date is later.

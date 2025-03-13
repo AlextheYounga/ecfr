@@ -1,6 +1,6 @@
 ##### § 11.424 Requirements for master of ocean self-propelled vessels of less than 200 GRT. #####
 
-Link to an amendment published at 89 FR 93081, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93081, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (a) The minimum service required to qualify an applicant for an officer endorsement as master of ocean self-propelled vessels of less than 200 GRT is—
 

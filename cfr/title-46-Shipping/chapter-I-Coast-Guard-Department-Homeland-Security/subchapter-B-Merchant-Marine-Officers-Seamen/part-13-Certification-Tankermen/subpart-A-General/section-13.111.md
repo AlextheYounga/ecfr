@@ -1,5 +1,7 @@
 ##### § 13.111 Restricted tankerman endorsement. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 (a) An applicant may apply for a tankerman endorsement restricted to specific cargoes, specific vessels, or groups of vessels (such as uninspected towing vessels and Oil Spill Response Vessels), specific facilities, and/or specific employers. The Coast Guard will evaluate each application and may modify the applicable requirements for the endorsement, allowing for special circumstances and for whichever restrictions the endorsement will state.
 
 (b) To qualify for a restricted tankerman-PIC endorsement, an applicant must meet §§ 13.201 (excluding paragraph (c)(4)), 13.203, and 13.205 of this part.

@@ -1,5 +1,7 @@
 ##### § 10.407 Approval of training programs. #####
 
+Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
+
 (a) Training programs approved to qualify a mariner to hold an STCW or national endorsement must meet the standards in this section or the requirements in § 10.402 of this subpart. All such programs must also meet the same standards as those found in § 10.403 of this subpart. The Coast Guard will accept information submitted by training providers to state, regional, and/or national accrediting bodies as evidence such providers satisfy one or more of the requirements of this section.
 
 (b) *Categories.* The Coast Guard may approve programs designed to substitute for or fulfill any or all of the following:

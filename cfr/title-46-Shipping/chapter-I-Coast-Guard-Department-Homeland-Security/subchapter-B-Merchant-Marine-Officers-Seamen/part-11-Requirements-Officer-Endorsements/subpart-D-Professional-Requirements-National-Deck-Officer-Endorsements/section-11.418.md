@@ -1,6 +1,6 @@
 ##### § 11.418 Service requirements for master of ocean or near-coastal self-propelled vessels of less than 500 GRT. #####
 
-Link to an amendment published at 89 FR 93081, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93081, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (a) The minimum service required to qualify an applicant for an endorsement as master of ocean or near-coastal self-propelled vessels of less than 500 GRT is—
 

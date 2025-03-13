@@ -1,5 +1,7 @@
 ##### § 1.36 Systems exempt in whole or in part from provisions of the Privacy Act and this part. #####
 
+Link to an amendment published at 89 FR 101889, Dec. 17, 2024.
+
 (a) *In general.* In accordance with 5 U.S.C. 552a(j) and (k) and § 1.23(c), Treasury hereby exempts the systems of records identified in paragraphs (c) through (o) of this section from the following provisions of the Privacy Act for the reasons indicated.
 
 (b) *Authority.* The rules in this section are promulgated pursuant to the authority vested in the Secretary of the Treasury by 5 U.S.C. 552a(j) and (k) and pursuant to the authority of § 1.23(c).

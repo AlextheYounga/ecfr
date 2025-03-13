@@ -1,5 +1,7 @@
 ##### § 13.505 Proof of service for tankerman-engineer endorsement. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 (a) Service must be proved by a letter on company letterhead from the owner, operator, master, or chief engineer of a tankship or self-propelled tank vessel. The letter must specify—
 
 (1) The classification of cargo (DL, LG, or both) carried while the applicant accumulated the service; and

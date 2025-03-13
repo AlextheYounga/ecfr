@@ -1,5 +1,7 @@
 ##### § 13.501 Original application for tankerman-engineer endorsement. #####
 
+Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
+
 Each applicant for a tankerman-engineer endorsement must—
 
 (a) Be at least 18 years old;

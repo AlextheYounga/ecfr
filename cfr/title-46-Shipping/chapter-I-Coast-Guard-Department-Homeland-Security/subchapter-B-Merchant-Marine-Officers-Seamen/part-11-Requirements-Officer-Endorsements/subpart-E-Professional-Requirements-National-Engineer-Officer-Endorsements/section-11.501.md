@@ -1,6 +1,6 @@
 ##### § 11.501 Grades and types of national engineer endorsements issued. #####
 
-Link to an amendment published at 89 FR 93092, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93092, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) National engineer endorsements are issued in the grades of—
 

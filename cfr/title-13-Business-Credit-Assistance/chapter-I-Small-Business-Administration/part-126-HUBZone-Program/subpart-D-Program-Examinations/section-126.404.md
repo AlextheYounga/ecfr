@@ -1,5 +1,7 @@
 ##### § 126.404 What are the possible outcomes of a program examination and when will SBA make its determination? #####
 
+Link to an amendment published at 89 FR 102500, Dec. 17, 2024.
+
 (a) *Timing.* SBA will make its determination within 90 calendar days after SBA receives all requested information, when practicable.
 
 (b) *Program examinations on certified HUBZone small business concerns.* If the program examination was conducted on a certified HUBZone small business concern—

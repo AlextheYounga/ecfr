@@ -1,5 +1,7 @@
 ##### § 382.11 What is the general nondiscrimination requirement of this part? #####
 
+Link to an amendment published at 89 FR 102441, Dec. 17, 2024.
+
 (a) As a carrier, you must not do any of the following things, either directly or through a contractual, licensing, or other arrangement:
 
 (1) You must not discriminate against any qualified individual with a disability, by reason of such disability, in the provision of air transportation;

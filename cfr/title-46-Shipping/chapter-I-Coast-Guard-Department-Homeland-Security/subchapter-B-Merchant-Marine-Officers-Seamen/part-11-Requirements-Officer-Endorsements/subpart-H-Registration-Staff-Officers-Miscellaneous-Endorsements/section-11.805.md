@@ -1,5 +1,7 @@
 ##### § 11.805 General requirements. #####
 
+Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
+
 (a) The applicant for an endorsement as staff officer is not required to take any examination; however, the applicant must present to the Coast Guard a letter justifying the need for the endorsement.
 
 (b) An applicant for a higher grade in the staff department must apply in the same manner as for an original endorsement and must surrender the previous Coast Guard-issued credentials upon issuance of the new MMC. A staff officer may serve in a lower grade of service for which he or she is registered.

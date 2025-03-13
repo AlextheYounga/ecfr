@@ -1,5 +1,7 @@
 ##### § 126.607 When must a contracting officer set aside a requirement for certified HUBZone small business concerns? #####
 
+Link to an amendment published at 89 FR 102503, Dec. 17, 2024.
+
 (a) The contracting officer first must review a requirement to determine whether it is excluded from HUBZone contracting pursuant to § 126.605.
 
 (b) *Contracting Among Small Business Programs*—(1) *Acquisitions Valued at or below the Simplified Acquisition Threshold.* The contracting officer shall set aside any acquisition with an anticipated dollar value exceeding the Micro-purchase Threshold but not exceeding the Simplified Acquisition Threshold (defined in the FAR at 48 CFR 2.101) for small business concerns when there is a reasonable expectation that offers will be obtained from at least two small business concerns that are competitive in terms of quality and delivery and award will be made at fair market prices. This requirement does not preclude a contracting officer from making an award to a small business under the 8(a) BD, HUBZone, SDVO SBC or WOSB Programs.

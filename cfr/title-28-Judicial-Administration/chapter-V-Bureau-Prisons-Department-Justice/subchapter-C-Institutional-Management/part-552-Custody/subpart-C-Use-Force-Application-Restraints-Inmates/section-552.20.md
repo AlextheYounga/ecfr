@@ -12,4 +12,4 @@ The Bureau of Prisons authorizes staff to use force only as a last alternative a
 
 (e) Becomes violent or displays signs of imminent violence.
 
-This rule on application of restraints does not restrict the use of restraints in situations requiring precautionary restraints, particularly in the movement or transfer of inmates (e.g., the use of handcuffs in moving inmates to and from a cell in detention, escorting an inmate to a Special Housing Unit pending investigation, etc.).[59 FR 30469, June 13, 1994, as amended at 61 FR 39800, July 30, 1996]
+This rule on application of restraints does not restrict the use of restraints in situations requiring precautionary restraints, particularly in the movement or transfer of inmates (e.g., the use of handcuffs in moving inmates to and from a cell in detention, escorting an inmate to a Special Housing Unit pending investigation, etc.). [59 FR 30469, June 13, 1994, as amended at 61 FR 39800, July 30, 1996]

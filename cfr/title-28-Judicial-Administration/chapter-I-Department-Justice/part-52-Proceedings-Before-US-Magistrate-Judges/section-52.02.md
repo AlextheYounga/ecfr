@@ -22,4 +22,4 @@
 
 (3) In a case in which the government petitions for trial before a district judge, the attorney for the government shall forward a copy of the petition to the Assistant Attorney General having supervisory authority over the subject matter and, if the petition is denied, shall promptly notify the Assistant Attorney General.
 
-(5 U.S.C. 301, 18 U.S.C. 3401(f))[Order No. 903-80, 45 FR 50564, July 30, 1980, as amended by Order No. 2012-96, 61 FR 8473, Mar. 5, 1996]
+(5 U.S.C. 301, 18 U.S.C. 3401(f)) [Order No. 903-80, 45 FR 50564, July 30, 1980, as amended by Order No. 2012-96, 61 FR 8473, Mar. 5, 1996]

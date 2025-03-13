@@ -1,6 +1,6 @@
 ##### § 11.503 Propulsion power limitations for national endorsements. #####
 
-Link to an amendment published at 89 FR 93093, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93093, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) Engineer endorsements of all grades and types may be subject to propulsion power limitations. Other than as provided in § 11.524 of this subpart for the designated duty engineer (DDE), the propulsion power limitation placed on a license or MMC endorsement is based on the applicant's qualifying experience considering the total shaft propulsion power of each vessel on which the applicant has served.
 

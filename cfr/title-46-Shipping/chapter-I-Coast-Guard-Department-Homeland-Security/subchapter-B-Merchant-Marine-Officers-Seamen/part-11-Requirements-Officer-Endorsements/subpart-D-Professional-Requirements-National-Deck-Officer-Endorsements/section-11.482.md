@@ -1,6 +1,6 @@
 ##### § 11.482 Assistance towing. #####
 
-Link to an amendment published at 89 FR 93091, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93091, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) This section contains the requirements to qualify for an endorsement authorizing a mariner to engage in assistance towing. Except as noted in this paragraph, holders of MMC officer and OUPV endorsements must have an assistance towing endorsement to engage in assistance towing. Holders of endorsements as master or mate (pilot) of towing vessels or master or mate endorsements authorizing service on inspected vessels of 200 GRT or more do not need the assistance towing endorsement.
 

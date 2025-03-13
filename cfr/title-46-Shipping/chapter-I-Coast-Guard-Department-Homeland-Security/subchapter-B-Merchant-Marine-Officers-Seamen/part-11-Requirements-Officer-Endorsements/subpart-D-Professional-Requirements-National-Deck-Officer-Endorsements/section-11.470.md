@@ -1,6 +1,6 @@
 ##### § 11.470 National officer endorsements as offshore installation manager. #####
 
-Link to an amendment published at 89 FR 93089, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93089, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (a) Officer endorsements as offshore installation manager (OIM) include:
 

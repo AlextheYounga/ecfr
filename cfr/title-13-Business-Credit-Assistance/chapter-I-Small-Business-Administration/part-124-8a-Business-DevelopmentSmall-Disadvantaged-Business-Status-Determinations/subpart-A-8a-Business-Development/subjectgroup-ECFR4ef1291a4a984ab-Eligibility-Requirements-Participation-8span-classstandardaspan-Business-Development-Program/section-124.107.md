@@ -1,5 +1,7 @@
 ##### § 124.107 What is potential for success? #####
 
+Link to an amendment published at 89 FR 102488, Dec. 17, 2024.
+
 SBA must determine that with contract, financial, technical, and management support from the 8(a) BD program, the applicant concern is able to perform 8(a) contracts and possess reasonable prospects for success in competing in the private sector. To do so, the applicant concern must show that it has operated and received contracts (either in the private sector, at the state or local government level, or with the Federal Government) in its primary industry classification for at least two full years immediately prior to the date of its 8(a) BD application, unless a waiver for this requirement is granted pursuant to paragraph (b) of this section.
 
 (a) Income tax returns for each of the two previous tax years must show operating revenues in the primary industry in which the applicant is seeking 8(a) BD certification.

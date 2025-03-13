@@ -1,5 +1,7 @@
 ##### § 10.203 Requirement to hold a TWIC and a merchant mariner credential. #####
 
+Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
+
 (a) Failure to obtain or hold a valid TWIC serves as a basis for the denial of an application for an original, renewal, new endorsement, duplicate, or raise of grade of a mariner's credential and may serve as a basis for suspension and revocation under 46 U.S.C. 7702 and 7703.
 
 (b) An MMC, license, MMD, COR, or STCW endorsement must be retained by the mariner to whom it was issued and, while valid, must be produced to verify qualifications when requested by an authorized official as identified in 33 CFR 101.515(d). Posting of the officer endorsement may be necessary as required in 46 U.S.C. 7110.

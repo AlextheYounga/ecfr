@@ -1,5 +1,7 @@
 ##### § 15.810 Mates. #####
 
+Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
+
 (a) The OCMI determines the minimum number of mates required for the safe operation of inspected vessels.
 
 (b) The minimum number of mariners holding a license or MMC officer endorsement as mate required to be carried on every inspected, self-propelled, seagoing and Great Lakes vessel, and every inspected, seagoing, passenger vessel must not be less than the following, except when reductions are authorized under paragraph (e) of this section:

@@ -1,6 +1,6 @@
 ##### § 12.407 General requirements for lifeboatman endorsements. #####
 
-Link to an amendment published at 89 FR 93100, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93100, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) *General.* Every person fulfilling the manning requirements as lifeboatman on any United States vessel must hold an endorsement as lifeboatman. No endorsement as lifeboatman is required of any person employed on any unrigged vessel, except on a seagoing barge and on a tank barge navigating waters other than rivers and/or canals.
 

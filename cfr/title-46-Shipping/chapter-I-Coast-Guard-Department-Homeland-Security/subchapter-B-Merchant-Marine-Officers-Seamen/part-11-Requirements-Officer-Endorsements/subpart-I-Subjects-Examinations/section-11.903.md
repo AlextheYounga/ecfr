@@ -1,6 +1,6 @@
 ##### § 11.903 Officer endorsements requiring examinations. #####
 
-Link to an amendment published at 89 FR 93097, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93097, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (a) The following officer endorsements require examinations for issuance:
 

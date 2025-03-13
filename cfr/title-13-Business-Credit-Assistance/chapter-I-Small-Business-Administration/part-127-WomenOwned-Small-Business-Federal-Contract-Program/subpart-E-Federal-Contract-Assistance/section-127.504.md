@@ -1,6 +1,6 @@
 ##### § 127.504 What requirements must an EDWOSB or WOSB meet to be eligible for an EDWOSB or WOSB requirement? #####
 
-Link to an amendment published at 89 FR 96094, Dec. 4, 2024.
+Link to an amendment published at 89 FR 96094, Dec. 4, 2024.Link to an amendment published at 89 FR 102507, Dec. 17, 2024.
 
 (a) *General.* In order for a concern to submit an offer on a specific EDWOSB or WOSB set-aside requirement, the concern must qualify as a small business concern under the size standard corresponding to the NAICS code assigned to the contract, and either be a certified EDWOSB or WOSB pursuant to § 127.300, or represent that it has submitted a complete application for WOSB or EDWOSB certification to SBA or a third-party certifier and has not received a negative determination regarding that application from SBA or the third party certifier.
 

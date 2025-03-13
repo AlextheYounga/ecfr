@@ -196,4 +196,4 @@ Inmate Electronic Message Record System (JUSTICE /BOP-013).
 
 (8) From subsection (g) to the extent that this system is exempted from other provisions of the Act.
 
-[Order No. 645-76, 41 FR 12640, Mar. 26, 1976]Editorial Note:For Federal Register citations affecting § 16.97, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order No. 645-76, 41 FR 12640, Mar. 26, 1976] Editorial Note:For Federal Register citations affecting § 16.97, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

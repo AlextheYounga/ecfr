@@ -10,4 +10,4 @@
 
 (e) The short form registration statement shall be filed on Form OBD-66. Any change affecting the information furnished with respect to the nature of the services rendered by the person filing the statement, or the compensation he receives, shall require the filing of a new short form registration statement within 10 days after the occurrence of such change. There is no requirement to file exhibits or supplemental statements to a short form registration statement.
 
-(28 U.S.C. 509 and 510; 5 U.S.C. 301)[Order No. 376-67, 32 FR 6362, Apr. 22, 1967, as amended by Order No. 960-81, 46 FR 52355, Oct. 27, 1981; Order No. 2674-2003, 68 FR 33630, June 5, 2003]
+(28 U.S.C. 509 and 510; 5 U.S.C. 301) [Order No. 376-67, 32 FR 6362, Apr. 22, 1967, as amended by Order No. 960-81, 46 FR 52355, Oct. 27, 1981; Order No. 2674-2003, 68 FR 33630, June 5, 2003]

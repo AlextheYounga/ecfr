@@ -1,6 +1,6 @@
 ##### § 55.6 Coverage under section 203(c). #####
 
-(a) *Coverage formula.* There are four ways in which a political subdivision can become subject to section 203(c).2
+(a) *Coverage formula.* There are four ways in which a political subdivision can become subject to section 203(c). 2
 
 2 The criteria for coverage are contained in section 203(b).
 

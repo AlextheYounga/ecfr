@@ -1,5 +1,7 @@
 ##### § 126.504 When will SBA remove the designation of a concern in DSBS (or successor system) as a certified HUBZone small business concern? #####
 
+Link to an amendment published at 89 FR 102502, Dec. 17, 2024.
+
 (a) SBA will remove the designation of a concern in DSBS (or successor system) as a certified HUBZone small business concern if the concern has:
 
 (1) Been decertified as a result of a HUBZone status protest pursuant to § 126.803;

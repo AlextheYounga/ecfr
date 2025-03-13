@@ -1,6 +1,6 @@
 ##### § 11.401 Ocean and near-coastal national officer endorsements. #####
 
-Link to an amendment published at 89 FR 93078, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93078, Nov. 25, 2024.Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (a) Subject to the provisions of §§ 11.464(e) and 11.465(b) of this subpart, any license or MMC endorsement for service as master or mate on ocean waters qualifies the mariner to serve in the same grade on any waters, except towing vessels upon western rivers subject to the limitations of the endorsement.
 
