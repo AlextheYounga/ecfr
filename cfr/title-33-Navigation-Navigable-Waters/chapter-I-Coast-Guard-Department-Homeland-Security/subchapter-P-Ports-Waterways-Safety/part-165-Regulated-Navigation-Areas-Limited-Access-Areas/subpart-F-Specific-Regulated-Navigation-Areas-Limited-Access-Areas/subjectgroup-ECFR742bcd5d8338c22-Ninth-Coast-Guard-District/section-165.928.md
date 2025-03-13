@@ -22,8 +22,8 @@
 
 (f) *Exemption.* Public vessels as defined in paragraph (a) of this section are exempt from the requirements in this section.
 
-(g) *Waiver.* For any vessel, the Captain of the Port Sault Ste. Marie may waive any of the requirements of this section, upon finding that operational conditions or other circumstances are such that application of this section is unnecessary or impractical for the purpose of port security, safety or environmental safety.
+(g) *Waiver.* For any vessel, the Captain of the Port Northern Great Lakes may waive any of the requirements of this section, upon finding that operational conditions or other circumstances are such that application of this section is unnecessary or impractical for the purpose of port security, safety or environmental safety.
 
 (h) *Enforcement period.* This rule will be enforced Labor Day of each year; 6 a.m. (local) to 11:59 p.m. (midnight) (local).
 
-[CGD09-06-019, 71 FR 45389, Aug. 9, 2006]
+[CGD09-06-019, 71 FR 45389, Aug. 9, 2006, as amended by USCG-2023-0970, 88 FR 88251, Dec. 21, 2023]

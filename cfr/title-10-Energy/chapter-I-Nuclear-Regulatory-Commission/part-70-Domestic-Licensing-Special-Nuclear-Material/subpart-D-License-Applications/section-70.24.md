@@ -1,7 +1,5 @@
 ##### § 70.24 Criticality accident requirements. #####
 
-Link to an amendment published at 88 FR 80950, Nov. 21, 2023.
-
 (a) Each licensee authorized to possess special nuclear material in a quantity exceeding 700 grams of contained uranium-235, 520 grams of uranium-233, 450 grams of plutonium, 1,500 grams of contained uranium-235 if no uranium enriched to more than 4 percent by weight of uranium-235 is present, 450 grams of any combination thereof, or one-half such quantities if massive moderators or reflectors made of graphite, heavy water or beryllium may be present, shall maintain in each area in which such licensed special nuclear material is handled, used, or stored, a monitoring system meeting the requirements of either paragraph (a)(1) or (a)(2), as appropriate, and using gamma- or neutron-sensitive radiation detectors which will energize clearly audible alarm signals if accidental criticality occurs. This section is not intended to require underwater monitoring when special nuclear material is handled or stored beneath water shielding or to require monitoring systems when special nuclear material is being transported when packaged in accordance with the requirements of part 71 of this chapter.
 
 (1) The monitoring system shall be capable of detecting a criticality that produces an absorbed dose in soft tissue of 20 rads of combined neutron and gamma radiation at an unshielded distance of 2 meters from the reacting material within one minute. Coverage of all areas shall be provided by two detectors.
@@ -18,8 +16,8 @@ Link to an amendment published at 88 FR 80950, Nov. 21, 2023.
 
 (c) Holders of licenses for construction or operation of a nuclear reactor issued pursuant to part 50 of this chapter, except critical assembly reactors, are exempt for the requirements of paragraph (b) of this section with respect to special nuclear material used or to be used in the reactor.
 
-(d)(1) The requirements in paragraphs (a) through (c) of this section do not apply to a holder of a construction permit or operating license for a nuclear power reactor issued under part 50 of this chapter or a ombined license issued under part 52 of this chapter, if the holder complies with the requirements of paragraph (b) of 10 CFR 50.68.
+(d)(1) The requirements in paragraphs (a) through (c) of this section do not apply to a holder of a construction permit or operating license for a nuclear power reactor issued under part 50 of this chapter or a combined license issued under part 52 of this chapter, if the holder complies with the requirements of paragraph (b) of 10 CFR 50.68.
 
 (2) An exemption from § 70.24 held by a licensee who thereafter elects to comply with requirements of paragraph (b) of 10 CFR 50.68 does not exempt that licensee from complying with any of the requirements in § 50.68, but shall be ineffective so long as the licensee elects to comply with § 50.68.
 
-[39 FR 39021, Nov. 5, 1974, as amended at 41 FR 31522, July 29, 1976; 53 FR 19252, May 27, 1988; 62 FR 63828, Dec. 3, 1997; 63 FR 9403, Feb. 25, 1998; 63 FR 63130, Nov. 12, 1998]
+[39 FR 39021, Nov. 5, 1974, as amended at 41 FR 31522, July 29, 1976; 53 FR 19252, May 27, 1988; 62 FR 63828, Dec. 3, 1997; 63 FR 9403, Feb. 25, 1998; 63 FR 63130, Nov. 12, 1998; 88 FR 80950, Nov. 21, 2023]

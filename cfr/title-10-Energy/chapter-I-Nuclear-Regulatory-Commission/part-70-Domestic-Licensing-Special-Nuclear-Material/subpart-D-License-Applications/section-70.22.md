@@ -1,7 +1,5 @@
 ##### § 70.22 Contents of applications. #####
 
-Link to an amendment published at 88 FR 80950, Nov. 21, 2023.
-
 (a) Each application for a license shall contain the following information:
 
 (1) The full name, address, age (if an individual), and citizenship of the applicant and the names and addresses of three personal references. If the applicant is a corporation or other entity, it shall indicate the State where it was incorporated or organized, the location of the principal office, the names, addresses, and citizenship of its principal officers, and shall include information known to the applicant concerning the control or ownership, if any, exercised over the applicant by any alien, foreign corporation, or foreign government;
@@ -34,9 +32,9 @@ Where the nature of the proposed activities is such as to require consideration 
 
 (e) Each application and statement shall contain complete and accurate disclosure as to all matters and things required to be disclosed.
 
-(f) Each application for a license to possess and use special nuclear material in a plutonium processing and fuel fabrication plant shall contain, in addition to the other information required by this section, a description of the plantsite, a description and safety assessment of the design bases of the principal structure, systems, and components of the plant, including provisions for protection against natural phenomena, and a description of the quality assurance program to be applied to the design, fabrication, construction, testing and operation of the structures, systems, and components of the plant.2
+(f) Each application for a license to possess and use special nuclear material in a plutonium processing and fuel fabrication plant shall contain, in addition to the other information required by this section, a description of the plantsite, a description and safety assessment of the design bases of the principal structure, systems, and components of the plant, including provisions for protection against natural phenomena, and a description of the quality assurance program to be applied to the design, fabrication, construction, testing and operation of the structures, systems, and components of the plant.1
 
-2 The description of the quality assurance program should include a discussion of how the criteria in appendix B of part 50 of this chapter will be met.
+1 The description of the quality assurance program should include a discussion of how the criteria in appendix B of part 50 of this chapter will be met.
 
 (g)(1) Each application for a license that would authorize the transport or delivery to a carrier for transport of special nuclear material in an amount specified in § 73.1(b)(2) of this chapter must include (i) a description of the plan for physical protection of special nuclear material in transit in accordance with §§ 73.20, 73.25, 73.26, 73.27, and 73.67 (a), (e), and (g) for 10 kg or more of special nuclear material of low strategic significance, and § 73.70(g) of this chapter including, as appropriate, a plan for the selection, qualification, and training of armed escorts, or the specification and design of a specially designed truck or trailer, and (ii) a licensee safeguards contingency plan or response procedures, as appropriate, for dealing with threats, thefts, and radiological sabotage relating to the special nuclear material in transit.
 
@@ -86,9 +84,9 @@ Where the nature of the proposed activities is such as to require consideration 
 
 (vii) *Responsibilities.* A brief description of the responsibilities of licensee personnel should an accident occur, including identification of personnel responsible for promptly notifying offsite response organizations and the NRC; also responsibilities for developing, maintaining, and updating the plan.
 
-(viii) *Notification and coordination.* A commitment to and a brief description of the means to promptly notify offsite response organizations and request offsite assistance, including medical assistance for the treatment of contaminated injured onsite workers when appropriate. A control point must be established. The notification and coordination must be planned so that unavailability of some personnel, parts of the facility, and some equipment will not prevent the notification and coordination. The licensee shall also commit to notify the NRC operations center immediately after notification of the appropriate offsite response organizations and not later than one hour after the licensee declares an emergency.1
+(viii) *Notification and coordination.* A commitment to and a brief description of the means to promptly notify offsite response organizations and request offsite assistance, including medical assistance for the treatment of contaminated injured onsite workers when appropriate. A control point must be established. The notification and coordination must be planned so that unavailability of some personnel, parts of the facility, and some equipment will not prevent the notification and coordination. The licensee shall also commit to notify the NRC operations center immediately after notification of the appropriate offsite response organizations and not later than one hour after the licensee declares an emergency.2
 
-1 These reporting requirements do not superceed or release licensees of complying with the requirements under the Emergency Planning and Community Right-to-Know Act of 1986, Title III, Pub. L. 99-499 or other state or federal reporting requirements.
+2 These reporting requirements do not supersede or release licensees of complying with the requirements under the Emergency Planning and Community Right-to-Know Act of 1986, Title III, Public Law 99-499 or other state or Federal reporting requirements.
 
 (ix) Information to be communicated. A brief description of the types of information on facility status, radioactive releases, and recommended protective actions, if necessary, to be given to offsite response organizations and to the NRC.
 

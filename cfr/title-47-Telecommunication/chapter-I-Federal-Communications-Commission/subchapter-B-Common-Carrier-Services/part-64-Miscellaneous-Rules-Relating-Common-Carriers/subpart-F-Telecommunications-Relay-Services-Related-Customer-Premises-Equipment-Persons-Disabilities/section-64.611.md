@@ -1,7 +1,5 @@
 ##### § 64.611 Internet-based TRS registration. #####
 
-Link to an amendment published at 87 FR 75514, Dec. 9, 2022.
-
 (a) *Default provider registration.* Every provider of VRS or IP Relay must, no later than December 31, 2008, provide users with the capability to register with that VRS or IP Relay provider as a “default provider.” Upon a user's registration, the VRS or IP Relay provider shall:
 
 (1) Either:
@@ -248,10 +246,22 @@ Link to an amendment published at 87 FR 75514, Dec. 9, 2022.
 
 (3) An IP CTS provider shall not seek TRS Fund compensation for providing captioning service to any individual or device if the registration information for such individual or device has been removed from the TRS User Registration Database, or if the provider obtains information that the individual or device is not eligible to receive IP CTS.
 
-(k) *Registration for use of TRS in correctional facilities*—(1) *Individual user registration.* (i) through (iii) [Reserved]
+(k) *Registration for use of TRS in correctional facilities*—(1) *Individual user registration.*
+
+(i) *Registration information and documentation.* If an individual eligible to use TRS registers with an internet-based TRS provider while incarcerated, the provider shall collect and transmit to the TRS User Registration Database the information and documentation required by the applicable provisions of this section, except that:
+
+(A) The residential address specified for such incarcerated person shall be the name of the correctional authority with custody of that person along with the main or administrative address of such authority;
+
+(B) A Registered Location need not be provided; and
+
+(C) If an incarcerated person has no Social Security number or Tribal Identification number, an identification number assigned by the correctional authority along with the facility identification number, if there is one, may be provided in lieu of the last four digits of a Social Security number or a Tribal Identification number.
+
+(ii) *Verification of VRS and IP CTS registration data.* An incarcerated person's identity and address may be verified pursuant to § 64.615(a)(6), for purposes of VRS or IP CTS registration, based on documentation, such as a letter or statement, provided by an official of a correctional authority that states the name of the person; the person's identification number assigned by the correctional authority; the name of the correctional authority; and the address of the correctional facility. The VRS or IP CTS provider shall transmit such documentation to the TRS User Registration Database administrator.
+
+(iii) *Release or transfer of incarcerated person.* Upon release (or transfer to a different correctional authority) of an incarcerated person who has registered for VRS or IP CTS, the VRS or IP CTS provider with which such person has registered shall update the person's registration information within 30 days after such release or transfer. Such updated information shall include, in the case of release, the individual's full residential address and (if required by this section or part 9 of this chapter) Registered Location, and in the case of transfer, shall include the information required by paragraph (k)(1)(ii) of this section.
 
 (iv) *Dial-around calls for VRS.* VRS providers shall not allow dial-around calls by incarcerated persons.
 
 (2) *Enterprise user registration for VRS.* Notwithstanding the other provisions of this section, for the purpose of providing VRS to incarcerated individuals under enterprise registration, pursuant to paragraph (a)(6) of this section, a TRS provider may assign to a correctional authority a pool of telephone numbers that may be used interchangeably with any videophone or other user device made available for the use of VRS in correctional facilities overseen by such authority. For the purpose of such enterprise registration, the address of the organization specified pursuant to paragraph (a)(6)(iii) of this section may be the main or administrative address of the correctional authority, and a Registered Location need not be provided.
 
-[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 17763, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26371, June 6, 2019; 85 FR 26858, May 6, 2020; 85 FR 52489, Aug. 26, 2020; 87 FR 57468, Sept. 21, 2022; 87 FR 75513, Dec. 9, 2022]
+[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 17763, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26371, June 6, 2019; 85 FR 26858, May 6, 2020; 85 FR 52489, Aug. 26, 2020; 87 FR 57468, Sept. 21, 2022; 87 FR 75513, 75514, Dec. 9, 2022]

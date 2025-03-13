@@ -1,5 +1,7 @@
 ##### § 50.20 General requirements for informed consent. #####
 
+Link to an amendment published at 88 FR 88248, Dec. 21, 2023.
+
 Except as provided in §§ 50.23 and 50.24, no investigator may involve a human being as a subject in research covered by these regulations unless the investigator has obtained the legally effective informed consent of the subject or the subject's legally authorized representative. An investigator shall seek such consent only under circumstances that provide the prospective subject or the representative sufficient opportunity to consider whether or not to participate and that minimize the possibility of coercion or undue influence. The information that is given to the subject or the representative shall be in language understandable to the subject or the representative. No informed consent, whether oral or written, may include any exculpatory language through which the subject or the representative is made to waive or appear to waive any of the subject's legal rights, or releases or appears to release the investigator, the sponsor, the institution, or its agents from liability for negligence.
 
 [46 FR 8951, Jan. 27, 1981, as amended at 64 FR 10942, Mar. 8, 1999]

@@ -1,26 +1,22 @@
-##### § 165.918 Safety Zones; Recurring Safety Zones in Captain of the Port Sault Sainte Marie. #####
+##### § 165.918 Safety Zones; Recurring Safety Zones in Captain of the Port Northern Great Lakes. #####
 
 (a) *Regulations.* The following regulations apply to the safety zones listed in Table 165.918 of this section:
 
-(1) In accordance with the general regulations in § 165.23 of this part, entry into, transiting, or anchoring within any of the safety zones listed in this section is prohibited unless authorized by the Captain of the Port Sault Sainte Marie, or a designated representative.
+(1) In accordance with the general regulations in § 165.23 of this part, entry into, transiting, or anchoring within any of the safety zones listed in this section is prohibited unless authorized by the Captain of the Port Northern Great Lakes, or a designated representative.
 
-(2) All persons and vessels must comply with the instructions of the Coast Guard Captain of the Port Sault Sainte Marie or a designated representative. Upon being hailed by the U.S. Coast Guard by siren, radio, flashing light or other means, the operator of a vessel shall proceed as directed.
+(2) All persons and vessels must comply with the instructions of the Coast Guard Captain of the Port Northern Great Lakes or a designated representative. Upon being hailed by the U.S. Coast Guard by siren, radio, flashing light or other means, the operator of a vessel shall proceed as directed.
 
-(3) When a safety zone established by this section is being enforced, all vessels must obtain permission from the Captain of the Port Sault Sainte Marie or a designated representative to enter, move within, or exit that safety zone. Vessels and persons granted permission to enter the safety zone shall obey all lawful orders or directions of the Captain of the Port Sault Sainte Marie or a designated representative. While within a safety zone, all vessels shall operate at the minimum speed necessary to maintain a safe course.
+(3) When a safety zone established by this section is being enforced, all vessels must obtain permission from the Captain of the Port Northern Great Lakes or a designated representative to enter, move within, or exit that safety zone. Vessels and persons granted permission to enter the safety zone shall obey all lawful orders or directions of the Captain of the Port Northern Great Lakes or a designated representative. While within a safety zone, all vessels shall operate at the minimum speed necessary to maintain a safe course.
 
-(b) *Suspension of enforcement.* If the event concludes earlier than scheduled, the Captain of the Port Sault Sainte Marie or a designated representative will issue a Broadcast Notice to Mariners notifying the public that enforcement of the respective safety zone is suspended.
+(b) *Suspension of enforcement.* If the event concludes earlier than scheduled, the Captain of the Port Northern Great Lakes or a designated representative will issue a Broadcast Notice to Mariners notifying the public that enforcement of the respective safety zone is suspended.
 
 (c) *Exemption.* Public vessels, defined as any vessel owned or operated by the United States or by State or local governments, operating in an official capacity are exempted from the requirements of this section.
 
-(d) *Waiver.* For any vessel, the Captain of the Port Sault Sainte Marie or a designated representative may, at his or her discretion, waive any of the requirements of this section, upon finding that circumstances are such that application of this section is unnecessary or impractical for the purposes of safety or environmental safety.
+(d) *Waiver.* For any vessel, the Captain of the Port Northern Great Lakes or a designated representative may, at his or her discretion, waive any of the requirements of this section, upon finding that circumstances are such that application of this section is unnecessary or impractical for the purposes of safety or environmental safety.
 
-(e) *Contacting the Captain of the Port.* While a safety zone listed in this section is enforced, the Captain of the Port Sault Sainte Marie or a designated representative may be contacted via VHF Channel 16 or telephone at (906) 635-3319. Vessel operators given permission to enter or operate in a safety zone must comply with all directions given to them by the Captain of the Port Sault Sainte Marie, or a designated representative.
+(e) *Contacting the Captain of the Port.* While a safety zone listed in this section is enforced, the Captain of the Port Northern Great Lakes or a designated representative may be contacted via VHF Channel 16 or telephone at (906) 635-3319. Vessel operators given permission to enter or operate in a safety zone must comply with all directions given to them by the Captain of the Port Northern Great Lakes, or a designated representative.
 
 (f) *Notice of enforcement.* The Coast Guard will provide advance notice of the enforcement including specific date, time, and size of the safety zone being enforced in Table 165.918, by issuing a Notice of Enforcement, as well as, a Broadcast Notice to Mariners.
-
-Table 165.918
-
-[Datum NAD 1983]
 
 |                                       Event                                        |                                                                                                                                         Location                                                                                                                                          |                                Event date                                 |
 |------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
@@ -46,4 +42,4 @@ Table 165.918
 |               (20) Elk Rapids Harbor Days Fireworks; Elk Rapids, MI                |                                                    All U.S. navigable waters within the arc of a circle with an approximate 750-foot radius from the fireworks launch site located on a barge in position 44°54′6.95″ N, 85°25′3.11″ W                                                    |              This event historically occurs in early August.              |
 |                     (21) Nautical City Fireworks; Rogers City                      |                                             All U.S. navigable waters within the arc of a circle with an approximate 750-foot radius from the fireworks launch site located near Harbor View Road in position 45°25′04.72″ N, 83°47′51.21″ W                                              |                               Early August.                               |
 
-[USCG-2018-0198, 83 FR 18417, Apr. 27, 2018]
+[USCG-2018-0198, 83 FR 18417, Apr. 27, 2018, as amended by USCG-2023-0970, 88 FR 88251, Dec. 21, 2023]

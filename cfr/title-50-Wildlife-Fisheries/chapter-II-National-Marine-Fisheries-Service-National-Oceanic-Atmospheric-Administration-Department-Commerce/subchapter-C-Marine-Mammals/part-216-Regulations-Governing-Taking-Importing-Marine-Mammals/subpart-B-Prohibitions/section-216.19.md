@@ -1,5 +1,7 @@
 ##### § 216.19 Special restrictions for humpback whales in waters surrounding the islands of Hawaii. #####
 
+Link to an amendment published at 88 FR 88265, Dec. 21, 2023.
+
 (a) *Prohibitions.* Except as noted in paragraph (b) of this section, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or to cause to be committed, within 200 nautical miles (370.4 km) of the islands of Hawaii, any of the following acts with respect to humpback whales (*Megaptera novaeangliae*):
 
 (1) Operate any aircraft within 1,000 feet (304.8 m) of any humpback whale;

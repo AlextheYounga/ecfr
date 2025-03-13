@@ -1,8 +1,14 @@
 ##### § 423.2 Definitions of terms used in this part. #####
 
-Link to an amendment published at 88 FR 80991, Nov. 21, 2023.
+*Aircraft* means a device that is:
 
-*Aircraft* means a device that is used or intended to be used for human flight in the air, including powerless flight, unless a particular section indicates otherwise.
+(1) Used or intended to be used for flight in the air;
+
+(2) Capable of carrying a pilot, a payload, and/or passengers;
+
+(3) Controlled either by onboard crew or remotely; and/or
+
+(4) Identified by the Federal Aviation Administration as: general aviation aircraft, bush planes, seaplanes, float planes, ski planes, gliders, and helicopters, including those that are float/ski-equipped, variations of model aircraft, and unmanned or uncrewed aircraft systems.
 
 *Archaeological resource* means any material remains of past human life or activities which are of archaeological interest, as determined under 43 CFR part 7, including, but not limited to, pottery, basketry, bottles, weapons, projectiles, tools, structures or portions of structures, pit houses, rock paintings, rock carvings, intaglios, graves, human remains, or any portion of any of the foregoing items. Archaeological resources are a component of cultural resources.
 
@@ -16,7 +22,13 @@ Link to an amendment published at 88 FR 80991, Nov. 21, 2023.
 
 *Explosive* means any device or substance that can be ignited or detonated to produce a violent burst of gas and/or other materials, including, but not limited to, blasting caps and detonatable fireworks and pyrotechnics. This definition does not include fuel and ammunition when properly transported and used.
 
-*Firearm* means a device that expels a projectile such as a bullet, dart, or pellet by combustion, air pressure, gas pressure, or other means.
+*Firearm* means:
+
+(1) Any weapon (including a starter gun) which will, is designed to, or may readily be converted to expel a projectile by the action of an explosive;
+
+(2) The frame or receiver of any such weapon; and
+
+(3) Any firearm muffler or firearm silencer.
 
 *Fishing* means taking or attempting to take, by any means, any fish, mollusk, or crustacean found in fresh or salt water.
 
@@ -42,9 +54,11 @@ Link to an amendment published at 88 FR 80991, Nov. 21, 2023.
 
 (5) Any combat or combat support vehicle when used in times of national defense emergencies;
 
-(6) “Official use” vehicles; and
+(6) “Official use” vehicles;
 
-(7) Wheelchairs and carts designed and used for transporting persons with disabilities.
+(7) Wheelchairs and carts designed and used for transporting persons with disabilities; and
+
+(8) *Electric bikes* as defined and codified at 43 CFR part 420.
 
 *Operator* means a person who operates, drives, controls, has charge of, or is in actual physical control of any mode of transportation or other equipment.
 
@@ -95,3 +109,5 @@ Link to an amendment published at 88 FR 80991, Nov. 21, 2023.
 *Wildlife* means any non-domestic member of the animal kingdom and includes a part, product, egg, offspring, or dead body or part thereof, including, but not limited to, mammals, birds, reptiles, amphibians, fish, mollusks, crustaceans, arthropod, coelenterate, or other invertebrate, whether or not bred, hatched, or born in captivity.
 
 *You* means a person or entity on Reclamation facilities, lands, or waterbodies.
+
+[73 FR 75349, Dec. 11, 2008, as amended at 88 FR 80991, Nov. 21, 2023]

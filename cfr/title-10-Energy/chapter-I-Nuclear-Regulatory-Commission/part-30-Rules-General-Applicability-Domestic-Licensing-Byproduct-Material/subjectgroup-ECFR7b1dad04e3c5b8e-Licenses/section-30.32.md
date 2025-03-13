@@ -1,7 +1,5 @@
 ##### § 30.32 Application for specific licenses. #####
 
-Link to an amendment published at 88 FR 80949, Nov. 21, 2023.
-
 (a) A person may file an application on NRC Form 313, “Application for Material License,” in accordance with the instructions in § 30.6 of this chapter. Information contained in previous applications, statements or reports filed with the Commission or the Atomic Energy Commission may be incorporated by reference, provided that the reference is clear and specific.
 
 (b) The Commission may at any time after the filing of the original application, and before the expiration of the license, require further statements in order to enable the Commission to determine whether the application should be granted or denied or whether a license should be modified or revoked.
@@ -72,7 +70,7 @@ Link to an amendment published at 88 FR 80949, Nov. 21, 2023.
 
 (viii) *Notification and coordination.* A commitment to and a brief description of the means to promptly notify offsite response organizations and request offsite assistance, including medical assistance for the treatment of contaminated injured onsite workers when appropriate. A control point must be established. The notification and coordination must be planned so that unavailability of some personnel, parts of the facility, and some equipment will not prevent the notification and coordination. The licensee shall also commit to notify the NRC operations center immediately after notification of the appropriate offsite response organizations and not later than one hour after the licensee declares an emergency.1
 
-1 These reporting requirements do not superceed or release licensees of complying with the requirements under the Emergency Planning and Community Right-to-Know Act of 1986, Title III, Pub. L. 99-499 or other state or federal reporting requirements.
+1 These reporting requirements do not supersede or release licensees of complying with the requirements under the Emergency Planning and Community Right-to-Know Act of 1986, Title III, Pub. L. 99-499 or other state or federal reporting requirements.
 
 (ix) *Information to be communicated.* A brief description of the types of information on facility status, radioactive releases, and recommended protective actions, if necessary, to be given to offsite response organizations and to the NRC.
 
@@ -96,4 +94,4 @@ Link to an amendment published at 88 FR 80949, Nov. 21, 2023.
 
 (4) Information identified in § 32.72(a)(3) of this chapter on the PET drugs to be noncommercially transferred to members of its consortium.
 
-[30 FR 8185, June 26, 1965, as amended at 36 FR 145, Jan. 6, 1971; 37 FR 5747, Mar. 21, 1972; 43 FR 6922, Feb. 17, 1978; 49 FR 9403, Mar. 12, 1984; 49 FR 27924, July 9, 1984; 52 FR 27786, July 24, 1987; 53 FR 24044, June 27, 1988; 54 FR 14060, Apr. 7, 1989; 68 FR 58004, Oct. 10, 2003; 72 FR 55925, Oct. 1, 2007; 73 FR 63570, Oct. 24, 2008; 77 FR 43689, July 25, 2012; 79 FR 58671, Sept. 30, 2014]
+[30 FR 8185, June 26, 1965, as amended at 36 FR 145, Jan. 6, 1971; 37 FR 5747, Mar. 21, 1972; 43 FR 6922, Feb. 17, 1978; 49 FR 9403, Mar. 12, 1984; 49 FR 27924, July 9, 1984; 52 FR 27786, July 24, 1987; 53 FR 24044, June 27, 1988; 54 FR 14060, Apr. 7, 1989; 68 FR 58004, Oct. 10, 2003; 72 FR 55925, Oct. 1, 2007; 73 FR 63570, Oct. 24, 2008; 77 FR 43689, July 25, 2012; 79 FR 58671, Sept. 30, 2014; 88 FR 80949, Nov. 21, 2023]

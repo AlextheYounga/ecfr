@@ -1,5 +1,7 @@
 ##### § 54.9816-8 Independent dispute resolution process. #####
 
+Link to an amendment published at 88 FR 88523, Dec. 21, 2023.
+
 (a) For further guidance see § 54.9816-8T(a) and (b).
 
 (b) For further guidance see § 54.9816-8T(a) and (b).

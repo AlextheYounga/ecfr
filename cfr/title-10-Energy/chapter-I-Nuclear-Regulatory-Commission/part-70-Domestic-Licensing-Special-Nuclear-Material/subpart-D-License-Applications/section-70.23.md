@@ -1,7 +1,5 @@
 ##### § 70.23 Requirements for the approval of applications. #####
 
-Link to an amendment published at 88 FR 80950, Nov. 21, 2023.
-
 (a) An application for a license will be approved if the Commission determines that:
 
 (1) The special nuclear material is to be used for the conduct of research or development activities of a type specified in section 31 of the Act,1 in activities licensed by the Commission under section 103 or 104 of the Act, or for such other uses as the Commission determines to be appropriate to carry out the purposes of the Act;
@@ -40,8 +38,8 @@ Link to an amendment published at 88 FR 80950, Nov. 21, 2023.
 
 (12) Where the proposed activity is use of special nuclear material in a uranium enrichment facility, the applicable provisions of part 140 of this chapter have been satisfied.
 
-(b) The Commission will approve construction of the principal structures, systems, and components of a plutonium processing and fuel fabrication plant on the basis of information filed pursuant to § 70.22(f) when the Commission has determined that the design bases of the principal structures, systems, and components, and the quality assurance program provide reasonable assurance of protection against natural phenomena and the consequences of potential accidents.3 Failure to obtain Commission approval prior to beginning of such construction may be grounds for denial of a license to possess and use special nuclear material in a plutonium processing and fuel fabrication plant.
+(b) The Commission will approve construction of the principal structures, systems, and components of a plutonium processing and fuel fabrication plant on the basis of information filed pursuant to § 70.22(f) when the Commission has determined that the design bases of the principal structures, systems, and components, and the quality assurance program provide reasonable assurance of protection against natural phenomena and the consequences of potential accidents.2 Failure to obtain Commission approval prior to beginning of such construction may be grounds for denial of a license to possess and use special nuclear material in a plutonium processing and fuel fabrication plant.
 
-3 The criteria in appendix B of part 50 of this chapter will be used by the Commission in determining the adequacy of the quality assurance program.
+2 The criteria in appendix B of part 50 of this chapter will be used by the Commission in determining the adequacy of the quality assurance program.
 
-[36 FR 17574, Sept. 2, 1971, as amended at 37 FR 5749, Mar. 21, 1972; 38 FR 30534, 30538, Nov. 6, 1973; 39 FR 26286, July 18, 1974; 42 FR 17126, Mar. 31, 1977; 43 FR 6924, Feb. 17, 1978; 49 FR 9406, Mar. 12, 1984; 54 FR 14064, Apr. 7, 1989; 57 FR 18392, Apr. 30, 1992; 67 FR 78142, Dec. 23, 2002; 76 FR 56966, Sept. 15, 2011]
+[36 FR 17574, Sept. 2, 1971, as amended at 37 FR 5749, Mar. 21, 1972; 38 FR 30534, 30538, Nov. 6, 1973; 39 FR 26286, July 18, 1974; 42 FR 17126, Mar. 31, 1977; 43 FR 6924, Feb. 17, 1978; 49 FR 9406, Mar. 12, 1984; 54 FR 14064, Apr. 7, 1989; 57 FR 18392, Apr. 30, 1992; 67 FR 78142, Dec. 23, 2002; 76 FR 56966, Sept. 15, 2011; 88 FR 80950, Nov. 21, 2023]

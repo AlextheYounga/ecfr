@@ -1,5 +1,7 @@
 ##### § 812.2 Applicability. #####
 
+Link to an amendment published at 88 FR 88249, Dec. 21, 2023.
+
 (a) *General.* This part applies to all clinical investigations of devices to determine safety and effectiveness, except as provided in paragraph (c) of this section.
 
 (b) *Abbreviated requirements.* The following categories of investigations are considered to have approved applications for IDE's, unless FDA has notified a sponsor under § 812.20(a) that approval of an application is required:

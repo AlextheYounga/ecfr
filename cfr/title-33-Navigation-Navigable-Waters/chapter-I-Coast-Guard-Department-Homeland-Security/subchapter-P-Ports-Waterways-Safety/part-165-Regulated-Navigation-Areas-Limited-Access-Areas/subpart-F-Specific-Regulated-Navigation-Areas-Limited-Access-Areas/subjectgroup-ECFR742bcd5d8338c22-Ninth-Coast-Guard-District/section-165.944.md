@@ -32,14 +32,14 @@
 
 (d) *Definitions.* As used in this RNA:
 
-(1) *Captain of the Port* means the United States Coast Guard Captain of the Port (COTP) of Sault Sainte Marie, Michigan.
+(1) *Captain of the Port* means the United States Coast Guard Captain of the Port (COTP) of Northern Great Lakes, Michigan.
 
 (2) *Straits of Mackinac* means the navigable waters of the Great Lakes connecting Lake Huron to Lake Michigan passing between the upper and lower peninsulas of Michigan.
 
 (3) *Loiter* means to linger aimlessly in or about a place making purposeless stops in the course of a trip, journey, or errand. Loitering does not include brief stops for sight-seeing, ferry, or tourism purposes.
 
-(e) *Notification.* The Coast Guard will rely on the methods described in § 165.7 to notify the public of the time and duration of any closure of the RNA. Reports of violations of this RNA should go to COTP Sault Sainte Marie at 906-635-3319 or on VHF-Channel 16.
+(e) *Notification.* The Coast Guard will rely on the methods described in § 165.7 to notify the public of the time and duration of any closure of the RNA. Reports of violations of this RNA should go to COTP Northern Great Lakes at 906-635-3319 or on VHF-Channel 16.
 
 (f) *Waiver.* For any vessel, the COTP or a designated representative may waive any of the requirements of this section, upon finding that circumstances are such that application of this section is unnecessary or impractical for the purposes of safety or environmental safety.
 
-[USCG-2018-0563, 83 FR 49283, Oct. 1, 2018]
+[USCG-2018-0563, 83 FR 49283, Oct. 1, 2018, as amended by USCG-2023-0970, 88 FR 88251, Dec. 21, 2023]

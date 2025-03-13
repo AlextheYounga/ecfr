@@ -1,7 +1,5 @@
 ##### § 721.3 What categories of activities are preapproved as incidental powers necessary or requisite to carry on a credit union's business? #####
 
-Link to an amendment published at 88 FR 80952, Nov. 21, 2023.
-
 The categories of activities in this section are preapproved as incidental to carrying on your business under § 721.2. The examples of incidental powers activities within each category are provided in this section as illustrations of activities permissible under the particular category, not as an exclusive or exhaustive list.
 
 (a) *Certification services.* Certification services are services whereby you attest or authenticate a fact for your members' use. Certification services may include such services as notary services, signature guarantees, certification of electronic signatures, and share draft certifications.
@@ -34,7 +32,7 @@ The categories of activities in this section are preapproved as incidental to ca
 
 (A) *Distribution in kind* is your acceptance of remaining CDA assets, upon termination of the account, in their original form instead of in cash resulting from the liquidation of the assets.
 
-(B) *Qualified charity* is a charitable organization or other non-profit entity recognized as exempt from taxation under section 501(c)(3) of the Internal Revenue Code.
+(B) *Qualified charity* is a charitable organization or other non-profit entity recognized as exempt from taxation under section 501(c)(3) or 501(c)(19) of the Internal Revenue Code.
 
 (C) *Registered Investment Adviser* is an investment adviser registered with the SEC pursuant to the Investment Advisers Act of 1940.
 
@@ -64,4 +62,4 @@ The categories of activities in this section are preapproved as incidental to ca
 
 (m) *Trustee or custodial services.* Trustee or custodial services are services in which you are authorized to act under any written trust instrument or custodial agreement created or organized in the United States and forming part of a tax-advantaged savings plan, as authorized under the Internal Revenue Code. These services may include acting as a trustee or custodian for member retirement, education and health savings accounts.
 
-[66 FR 40857, Aug. 6, 2001, as amended at 69 FR 45238, July 29, 2004; 73 FR 62856, Oct. 22, 2008; 75 FR 34621, June 18, 2010; 77 FR 31992, May 31, 2012; 78 FR 76731, Dec. 19, 2013; 81 FR 93580, Dec. 21, 2016; 86 FR 72818, Dec. 23, 2021]
+[66 FR 40857, Aug. 6, 2001, as amended at 69 FR 45238, July 29, 2004; 73 FR 62856, Oct. 22, 2008; 75 FR 34621, June 18, 2010; 77 FR 31992, May 31, 2012; 78 FR 76731, Dec. 19, 2013; 81 FR 93580, Dec. 21, 2016; 86 FR 72818, Dec. 23, 2021; 88 FR 80952, Nov. 21, 2023]

@@ -1,7 +1,5 @@
 ##### § 64.6040 Communications access for incarcerated people with communication disabilities. #####
 
-Link to an amendment published at 87 FR 75515, Dec. 9, 2022.
-
 (a) A Provider shall provide incarcerated people access to TRS and related communication services as described in this section, except where the correctional authority overseeing a facility prohibits such access.
 
 (b)(1) A Provider shall provide access for incarcerated people with communication disabilities to Traditional (TTY-Based) TRS and STS.
@@ -14,7 +12,15 @@ Link to an amendment published at 87 FR 75515, Dec. 9, 2022.
 
 (iii) Where broadband internet access service is not available, provide access to *non-internet Protocol* Captioned Telephone Service, in addition to Traditional TRS and STS.
 
-(c) [Reserved]
+(c) As part of its obligation to provide access to TRS, a Provider shall:
+
+(1) Make all necessary contractual and technical arrangements to ensure that, consistent with the security needs of a Correctional Facility, incarcerated individuals eligible to use TRS can access at least one certified Provider of each form of TRS required by this section;
+
+(2) Work with correctional authorities, equipment vendors, and TRS providers to ensure that screen-equipped communications devices such as tablets, smartphones, or videophones are available to incarcerated people who need to use TRS for effective communication, and all necessary TRS provider software applications are included, with any adjustments needed to meet the security needs of the institution, provide compatibility with institutional communication systems, and allow operability over the Inmate Calling Services Provider's network;
+
+(3) Provide any assistance needed by TRS providers in collecting the registration information and documentation required by § 64.611 from incarcerated users and correctional authorities; and
+
+(4) When an incarcerated person who has individually registered to use VRS, IP Relay, or IP CTS is released from incarceration or transferred to another correctional authority, notify the TRS provider(s) with which the incarcerated person has registered.
 
 (d)(1) Except as provided in this paragraph (d), no Provider shall levy or collect any charge or fee on or from any party to a TRS call to or from an incarcerated person, or any charge for the use of a device or transmission service when used to access TRS from a Correctional Facility.
 
