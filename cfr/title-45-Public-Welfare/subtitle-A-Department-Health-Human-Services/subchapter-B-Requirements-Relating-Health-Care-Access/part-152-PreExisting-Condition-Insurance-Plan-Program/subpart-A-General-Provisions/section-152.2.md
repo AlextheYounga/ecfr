@@ -1,5 +1,7 @@
 ##### § 152.2 Definitions. #####
 
+Link to an amendment published at 89 FR 39436, May 8, 2024.
+
 For purposes of this part the following definitions apply:
 
 *Creditable coverage* means coverage of an individual as defined in section 2701(c)(1) of the Public Health Service Act as of March 23, 2010 and 45 CFR 146.113(a)(1).

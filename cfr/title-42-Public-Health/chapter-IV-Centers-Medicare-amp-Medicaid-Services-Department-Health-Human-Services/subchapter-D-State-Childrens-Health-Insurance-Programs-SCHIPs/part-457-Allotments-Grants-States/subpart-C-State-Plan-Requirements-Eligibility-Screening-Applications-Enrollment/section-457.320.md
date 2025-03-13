@@ -1,5 +1,7 @@
 ##### § 457.320 Other eligibility standards. #####
 
+Link to an amendment published at 89 FR 39436, May 8, 2024.
+
 (a) *Eligibility standards.* To the extent consistent with title XXI of the Act and except as provided in paragraph (b) of this section, the State plan may adopt eligibility standards for one or more groups of children related to—
 
 (1) Geographic area(s) served by the plan;

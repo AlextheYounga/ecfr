@@ -1,5 +1,7 @@
 ##### § 435.406 Citizenship and non-citizen eligibility. #####
 
+Link to an amendment published at 89 FR 39436, May 8, 2024.
+
 (a) The agency must provide Medicaid to otherwise eligible individuals who are—
 
 (1) Citizens and nationals of the United States, provided that—
