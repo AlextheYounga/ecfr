@@ -1,6 +1,6 @@
 ##### § 416.960 When we will consider your vocational background. #####
 
-Link to an amendment published at 89 FR 27667, Apr. 18, 2024.
+Link to an amendment published at 89 FR 27667, Apr. 18, 2024.Link to an amendment published at 89 FR 48134, June 5, 2024.
 
 (a) *General.* If you are age 18 or older and applying for supplemental security income benefits based on disability, and we cannot decide whether you are disabled at one of the first three steps of the sequential evaluation process (*see* § 416.920), we will consider your residual functional capacity together with your vocational background, as discussed in paragraphs (b) and (c) of this section.
 
