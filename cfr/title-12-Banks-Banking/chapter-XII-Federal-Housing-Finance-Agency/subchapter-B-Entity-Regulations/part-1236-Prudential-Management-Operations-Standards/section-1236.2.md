@@ -1,8 +1,6 @@
 ##### § 1236.2 Definitions. #####
 
-Link to an amendment published at 89 FR 3539, Jan. 19, 2024.
-
-Unless otherwise indicated, terms used in this part have the meanings that they have in the Federal Housing Enterprises Financial Safety and Soundness Act, 12 U.S.C. 4501 *et seq.,* or the Federal Home Loan Bank Act, 12 U.S.C. 1421 *et seq.*
+Unless otherwise indicated, terms used in this part have the meanings that they have in part 1201 of this chapter, in the Safety and Soundness Act, 12 U.S.C. 4501 *et seq.,* or in the Bank Act, 12 U.S.C. 1421 *et seq.*
 
 *Extraordinary growth*—(1) For purposes of 12 U.S.C. 4513b(b)(3)(C), means:
 
@@ -12,6 +10,6 @@ Unless otherwise indicated, terms used in this part have the meanings that they 
 
 (2) For purposes of calculating an increase in assets, assets acquired through merger or acquisition approved by FHFA are not to be included.
 
-*Standards* means any one or more of the prudential management and operations standards established by the Director pursuant to 12 U.S.C. 4513b(a), as modified from time to time pursuant to § 1236.3(b), including the introductory statement of general responsibilities of boards of directors and senior management of the regulated entities.
+*Standard(s)* means any one (or more) of the prudential management and operations standards established by the Director pursuant to 12 U.S.C. 4513b(a). Standard includes the introductory statement of general responsibilities of boards of directors and senior management of the regulated entities set forth in the appendix to this part.
 
-[77 FR 33959, June 8, 2012, as amended at 78 FR 2324, Jan. 11, 2013; 80 FR 72336, Nov. 19, 2015]
+[77 FR 33959, June 8, 2012, as amended at 78 FR 2324, Jan. 11, 2013; 80 FR 72336, Nov. 19, 2015; 89 FR 3539, Jan. 19, 2024]

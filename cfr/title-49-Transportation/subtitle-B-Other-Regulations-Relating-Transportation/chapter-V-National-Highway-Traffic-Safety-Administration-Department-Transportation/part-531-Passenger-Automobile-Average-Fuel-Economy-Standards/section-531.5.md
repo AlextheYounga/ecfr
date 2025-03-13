@@ -1,5 +1,7 @@
 ##### § 531.5 Fuel economy standards. #####
 
+Link to an amendment published at 89 FR 12756, Feb. 20, 2024.
+
 (a) Except as provided in paragraph (f) of this section, each manufacturer of passenger automobiles shall comply with the fleet average fuel economy standards in Table 1 to this paragraph (a), expressed in miles per gallon, in the model year specified as applicable:
 
 Table 1 to § 531.5(a)
