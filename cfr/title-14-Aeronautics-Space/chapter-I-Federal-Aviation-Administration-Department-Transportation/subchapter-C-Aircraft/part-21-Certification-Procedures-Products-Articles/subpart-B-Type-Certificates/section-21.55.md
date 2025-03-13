@@ -1,7 +1,5 @@
-##### § 21.55 Responsibility of type certificate holders to provide written licensing agreements. #####
+##### § 21.55 Responsibilities of type certificate holders who license the type certificate. #####
 
-Link to an amendment published at 89 FR 33108, Apr. 26, 2024.
+A type certificate holder who allows a person to use the type certificate to manufacture a new aircraft, aircraft engine, or propeller must meet the applicable requirements of part 5 of this chapter and provide that person with a written licensing agreement acceptable to the FAA.
 
-A type certificate holder who allows a person to use the type certificate to manufacture a new aircraft, aircraft engine, or propeller must provide that person with a written licensing agreement acceptable to the FAA.
-
-[Doc. No. FAA-2003-14825, 71 FR 52258, Sept. 1, 2006]
+[Docket No. FAA-2021-0419, Amdt. No. 21-108, 89 FR 33108, Apr. 26, 2024]

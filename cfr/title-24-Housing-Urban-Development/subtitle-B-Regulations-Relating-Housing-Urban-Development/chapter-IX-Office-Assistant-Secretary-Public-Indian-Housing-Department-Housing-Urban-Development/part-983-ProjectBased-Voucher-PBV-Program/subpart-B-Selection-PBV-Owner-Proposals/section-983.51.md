@@ -1,5 +1,7 @@
 ##### § 983.51 Owner proposal selection procedures. #####
 
+Link to an amendment published at 89 FR 46020, May 28, 2024.
+
 (a) *Procedures for selecting PBV proposals.* The PHA administrative plan must describe the procedures for owner submission of PBV proposals and for PHA selection of PBV proposals. Before selecting a PBV proposal, the PHA must determine that the PBV proposal complies with HUD program regulations and requirements, including a determination that the property is eligible housing (§§ 983.53 and 983.54), complies with the cap on the number of PBV units per project (§ 983.56), and meets the site selection standards (§ 983.57).
 
 (b) *Selection of PBV proposals.* The PHA must select PBV proposals in accordance with the selection procedures in the PHA administrative plan. The PHA must select PBV proposals by either of the following two methods.

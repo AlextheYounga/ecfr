@@ -1,5 +1,7 @@
 ##### § 2522.800 How will the Corporation evaluate individual AmeriCorps programs? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 The Corporation will evaluate programs based on the following: (a) The extent to which the program meets the objectives established and agreed to by the grantee and the Corporation before the grant award;
 
 (b) The extent to which the program is cost-effective; and

@@ -1,5 +1,7 @@
 ##### § 2522.810 What will the Corporation do to evaluate the overall success of the AmeriCorps programs? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 (a) The Corporation will conduct independent evaluations of programs, including in-depth studies of selected programs. These evaluations will consider the opinions of participants and members of the community where services are delivered. Where appropriate these studies will compare participants with individuals who have not participated in service programs. These evaluations will: (1) Study the extent to which the national service impacts involved communities;
 
 (2) Study the extent to which national service increases positive attitudes among participants regarding the responsibilities of citizens and their role in solving community problems;

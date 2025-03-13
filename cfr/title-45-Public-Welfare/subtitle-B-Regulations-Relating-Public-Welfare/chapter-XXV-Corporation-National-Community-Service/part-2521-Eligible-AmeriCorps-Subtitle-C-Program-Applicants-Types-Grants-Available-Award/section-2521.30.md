@@ -1,5 +1,7 @@
 ##### § 2521.30 How will AmeriCorps subtitle C program grants be awarded? #####
 
+Link to an amendment published at 89 FR 46033, May 28, 2024.
+
 In any fiscal year, the Corporation will award AmeriCorps subtitle C program grants as follows:
 
 (a) *Grants to State Applicants.* (1) For the purposes of this section, the term “State” means the fifty States, Puerto Rico, and the District of Columbia.

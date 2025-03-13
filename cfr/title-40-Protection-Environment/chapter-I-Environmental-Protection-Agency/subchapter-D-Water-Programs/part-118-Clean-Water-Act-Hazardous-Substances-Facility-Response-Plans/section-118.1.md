@@ -1,0 +1,3 @@
+##### § 118.1 Purpose. #####
+
+This part establishes Clean Water Act (CWA) hazardous substance facility response plan requirements for the owner or operator of any non-transportation-related onshore facility that, because of its location, could reasonably be expected to cause substantial harm to the environment by discharging CWA hazardous substances into or on the navigable waters, adjoining shorelines, or the exclusive economic zone.

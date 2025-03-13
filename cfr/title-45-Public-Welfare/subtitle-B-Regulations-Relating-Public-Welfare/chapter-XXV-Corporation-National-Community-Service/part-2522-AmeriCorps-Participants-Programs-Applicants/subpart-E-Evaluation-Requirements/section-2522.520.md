@@ -1,5 +1,7 @@
 ##### § 2522.520 What special terms are used in this subpart? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 The following definitions apply to terms used in this subpart of the regulations:
 
 (a) *Approved application* means the application approved by the Corporation or, for formula programs, by a State commission.

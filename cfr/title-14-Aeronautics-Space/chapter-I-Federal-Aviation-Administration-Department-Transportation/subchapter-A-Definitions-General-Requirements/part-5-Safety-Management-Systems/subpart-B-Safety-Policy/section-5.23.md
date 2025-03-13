@@ -1,8 +1,6 @@
 ##### § 5.23 Safety accountability and authority. #####
 
-Link to an amendment published at 89 FR 33106, Apr. 26, 2024.
-
-(a) The certificate holder must define accountability for safety within the organization's safety policy for the following individuals:
+(a) Any person required to have an SMS under this part must define in its safety policy the accountability for safety of the following individuals:
 
 (1) Accountable executive, as described in § 5.25.
 
@@ -16,6 +14,8 @@ Link to an amendment published at 89 FR 33106, Apr. 26, 2024.
 
 (iv) Advising the accountable executive on the performance of the SMS and on any need for improvement.
 
-(3) Employees relative to the certificate holder's safety performance.
+(3) Employees relative to the person's safety performance.
 
-(b) The certificate holder must identify the levels of management with the authority to make decisions regarding safety risk acceptance.
+(b) The person must identify the levels of management with the authority to make decisions regarding safety risk acceptance.
+
+[Doc. No. FAA-2009-0671, Amdt. 5-1, 80 FR 1326, Jan. 8, 2015, as amended by Amdt. 5-2, 89 FR 33106, Apr. 26, 2024]

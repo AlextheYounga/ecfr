@@ -1,5 +1,7 @@
 ##### § 2522.230 Under what circumstances may an AmeriCorps participant be released from completing a term of service, and what are the consequences? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 An AmeriCorps program may release a participant from completing a term of service for compelling personal circumstances, as determined by the program, or for cause.
 
 (a) *Release for compelling personal circumstances.*

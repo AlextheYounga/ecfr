@@ -1,0 +1,9 @@
+##### § 541.7 Issuance of demurrage and detention invoices. #####
+
+(a) A billing party must issue a demurrage or detention invoice within thirty (30) calendar days from the date on which the charge was last incurred. If the billing party does not issue a demurrage or detention invoice within thirty (30) calendar days from the date on which the charge was last incurred, then the billed party is not required to pay the charge.
+
+(b) If the billing party is a non-vessel-operating common carrier, then it must issue a demurrage or detention invoice within thirty (30) calendar days from the issuance date of the demurrage or detention invoice it received. If such a billing party does not issue a demurrage or detention invoice within thirty (30) calendar days from the issuance date of the demurrage or detention invoice it received, then the billed party is not required to pay the charge.
+
+(c) A non-vessel-operating common carrier (NVOCC) can be both a billing and billed party in relation to the same charge. When an NVOCC is acting in both roles, it can inform its billing party that the charge has been disputed by the NVOCC's billed party. The NVOCC's billing party must then provide an additional thirty (30) calendar days for the NVOCC to dispute the charge upon this notice.
+
+(d) If the billing party invoices an incorrect person, the billing party may issue an invoice to the correct billed party provided that such issuance is within thirty (30) calendar days from the date on which the charge was last incurred. If the billing party does not issue this corrected demurrage or detention invoice within thirty (30) calendar days from the date on which the charge was last incurred, then the billed party is not required to pay the charge.

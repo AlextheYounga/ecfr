@@ -1,5 +1,7 @@
 ##### § 2522.570 What information on performance measures must my grant application include? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 You must submit all of the following as part of your application for each program:
 
 (a) Proposed performance measures, as described in § 2522.580 and § 2522.590 of this part.

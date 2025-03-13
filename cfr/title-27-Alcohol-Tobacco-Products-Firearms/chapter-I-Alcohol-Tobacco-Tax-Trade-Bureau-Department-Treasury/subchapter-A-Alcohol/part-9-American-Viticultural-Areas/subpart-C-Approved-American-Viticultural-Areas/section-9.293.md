@@ -1,5 +1,3 @@
-​
-
 ##### § 9.293 Yucaipa Valley AVA. #####
 
 (a) *Name.* The name of the viticultural area described in this section is “Yucaipa Valley”. For purposes of part 4 of this chapter, “Yucaipa Valley” is a term of viticultural significance.

@@ -1,5 +1,7 @@
 ##### § 2522.450 What types of programs or program models may receive special consideration in the selection process? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 Following the scoring of proposals under § 2522.440 of this part, the Corporation will seek to ensure that its portfolio of approved programs includes a meaningful representation of proposals that address one or more of the following priorities:
 
 (a) *Program models:* (1) Programs operated by community organizations, including faith-based organizations, or programs that support the efforts of community organizations, including faith-based organizations, to solve local problems;

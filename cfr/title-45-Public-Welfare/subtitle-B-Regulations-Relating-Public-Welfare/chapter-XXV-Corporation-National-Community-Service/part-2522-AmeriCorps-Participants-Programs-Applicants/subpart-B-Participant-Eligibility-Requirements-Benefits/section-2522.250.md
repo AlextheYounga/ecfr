@@ -1,5 +1,7 @@
 ##### § 2522.250 What other benefits do AmeriCorps participants serving in approved AmeriCorps positions receive? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 (a) *Child Care.* Grantees must provide child care through an eligible provider or a child care allowance in an amount determined by the Corporation to those full-time participants who need child care in order to participate.
 
 (1) *Need.* A participant is considered to need child care in order to participate in the program if he or she:

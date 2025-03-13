@@ -1,15 +1,21 @@
-##### § 5.3 General requirements. #####
+##### § 5.3 Definitions. #####
 
-(a) Any certificate holder required to have a Safety Management System under this part must submit the Safety Management System to the Administrator for acceptance. The SMS must be appropriate to the size, scope, and complexity of the certificate holder's operation and include at least the following components:
+*Hazard* means a condition or an object that could foreseeably cause or contribute to an incident or aircraft accident, as defined in 49 CFR 830.2.
 
-(1) Safety policy in accordance with the requirements of subpart B of this part;
+*Risk* means the composite of predicted severity and likelihood of the potential effect of a hazard.
 
-(2) Safety risk management in accordance with the requirements of subpart C of this part;
+*Risk control* means a means to reduce or eliminate the effects of hazards.
 
-(3) Safety assurance in accordance with the requirements of subpart D of this part; and
+*Safety assurance* means processes within the SMS that function systematically to ensure the performance and effectiveness of safety risk controls and that the organization meets or exceeds its safety objectives through the collection, analysis, and assessment of information.
 
-(4) Safety promotion in accordance with the requirements of subpart E of this part.
+*Safety Management System (SMS)* means the formal, top-down, organization-wide approach to managing safety risk and assuring the effectiveness of safety risk controls. It includes systematic procedures, practices, and policies for the management of safety risk.
 
-(b) The Safety Management System must be maintained in accordance with the recordkeeping requirements in subpart F of this part.
+*Safety objective* means a measurable goal or desirable outcome related to safety.
 
-(c) The Safety Management System must ensure compliance with the relevant regulatory standards in chapter I of Title 14 of the Code of Federal Regulations.
+*Safety performance* means realized or actual safety accomplishment relative to the organization's safety objectives.
+
+*Safety policy* means the person's documented commitment to safety, which defines its safety objectives and the accountabilities and responsibilities of its employees in regards to safety.
+
+*Safety promotion* means a combination of training and communication of safety information to support the implementation and operation of an SMS in an organization.
+
+*Safety Risk Management* means a process within the SMS composed of describing the system, identifying the hazards, and analyzing, assessing, and controlling risk.

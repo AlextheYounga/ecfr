@@ -1,9 +1,17 @@
 ##### § 5.1 Applicability. #####
 
-(a) A certificate holder under part 119 of this chapter authorized to conduct operations in accordance with the requirements of part 121 of this chapter must have a Safety Management System that meets the requirements of this part and is acceptable to the Administrator by March 9, 2018.
+This part applies to all of the following:
 
-(b) A certificate holder must submit an implementation plan to the FAA Administrator for review no later than September 9, 2015. The implementation plan must be approved no later than March 9, 2016.
+(a) Any person that holds or applies for a certificate issued under part 119 of this chapter authorizing the person to conduct operations under part 121 of this chapter.
 
-(c) The implementation plan may include any of the certificate holder's existing programs, policies, or procedures that it intends to use to meet the requirements of this part, including components of an existing SMS.
+(b) Any person that holds or applies for a certificate issued under part 119 of this chapter authorizing the person to conduct operations under part 135 of this chapter.
 
-[80 FR 1326, Jan. 8, 2015, as amended at 80 FR 1584, Jan. 13, 2015]
+(c) Any person that holds or applies for a Letter of Authorization issued under § 91.147 of this chapter.
+
+(d) Any person that holds both a type certificate and a production certificate issued under part 21 of this chapter for the same product.
+
+(e) Any person that holds a production certificate issued under part 21 of this chapter for a product for which the person is a licensee of the type certificate for the same product.
+
+(f) Any person that applies for a production certificate under part 21 of this chapter for a product for which the person is the holder or licensee of the type certificate for the same product.
+
+(g) Any person that holds a type certificate issued under part 21 of this chapter for a product, except for persons that hold only type certificates issued under § 21.29 of this chapter, that allows another person to use the type certificate to manufacture the same product under a production certificate.

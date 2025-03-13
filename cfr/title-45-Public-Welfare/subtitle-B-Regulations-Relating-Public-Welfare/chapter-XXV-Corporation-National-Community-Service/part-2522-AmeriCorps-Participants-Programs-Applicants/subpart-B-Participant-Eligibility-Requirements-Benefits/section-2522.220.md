@@ -1,5 +1,7 @@
 ##### § 2522.220 What are the required terms of service for AmeriCorps participants? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 (a) *Term of Service.* A term of service may be defined as:
 
 (1) *Full-time service.* 1,700 hours of service during a period of not more than one year.

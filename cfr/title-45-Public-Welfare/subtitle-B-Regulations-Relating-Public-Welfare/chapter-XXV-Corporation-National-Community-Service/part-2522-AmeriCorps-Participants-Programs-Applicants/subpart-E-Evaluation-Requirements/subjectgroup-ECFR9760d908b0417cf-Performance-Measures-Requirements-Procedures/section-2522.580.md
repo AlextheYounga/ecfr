@@ -1,5 +1,7 @@
 ##### § 2522.580 What performance measures am I required to submit to the Corporation? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 (a) When applying for funds, you must submit, at a minimum, the following performance measures:
 
 (1) One set of aligned performance measures (one output, one intermediate-outcome, and one end-outcome) that capture the results of your program's primary activity, or area of significant activity for programs whose design precludes identifying a primary activity; and

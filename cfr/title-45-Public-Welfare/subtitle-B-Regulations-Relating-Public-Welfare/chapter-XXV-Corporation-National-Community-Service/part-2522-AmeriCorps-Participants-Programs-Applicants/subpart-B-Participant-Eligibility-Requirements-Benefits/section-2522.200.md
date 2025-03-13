@@ -1,5 +1,7 @@
 ##### § 2522.200 What are the eligibility requirements for an AmeriCorps participant? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 (a) *Eligibility.* An AmeriCorps participant must—
 
 (1)(i) Be at least 17 years of age at the commencement of service; or

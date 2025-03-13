@@ -1,5 +1,7 @@
 ##### § 2522.470 What other factors or information may the Corporation consider in making final funding decisions? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 (a) The Corporation will seek to ensure that our portfolio of AmeriCorps programs is programmatically, demographically, and geographically diverse and includes innovative programs, and projects in rural, high poverty, and economically distressed areas.
 
 (b) In applying the selection criteria under §§ 2522.420 through 2522.435, the Corporation may, with respect to a particular proposal, also consider one or more of the following for purposes of clarifying or verifying information in a proposal, including conducting due diligence to ensure an applicant's ability to manage Federal funds:

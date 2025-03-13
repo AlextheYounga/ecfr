@@ -1,5 +1,7 @@
 ##### § 2520.25 What direct service activities may AmeriCorps members perform? #####
 
+Link to an amendment published at 89 FR 46033, May 28, 2024.
+
 (a) The AmeriCorps members you support under your grant may perform direct service activities that will advance the goals of your program, that will result in a specific identifiable service or improvement that otherwise would not be provided, and that are included in, or consistent with, your Corporation-approved grant application.
 
 (b) Your members' direct service activities must address local environmental, educational, public safety (including disaster preparedness and response), or other human needs.

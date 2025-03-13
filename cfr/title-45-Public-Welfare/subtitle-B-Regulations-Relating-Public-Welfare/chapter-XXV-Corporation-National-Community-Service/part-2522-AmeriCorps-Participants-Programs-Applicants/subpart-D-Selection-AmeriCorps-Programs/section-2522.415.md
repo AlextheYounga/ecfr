@@ -1,5 +1,7 @@
 ##### § 2522.415 How does the grant selection process work? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 The selection process includes:
 
 (a) Determining whether your proposal complies with the application requirements, such as deadlines and eligibility requirements;

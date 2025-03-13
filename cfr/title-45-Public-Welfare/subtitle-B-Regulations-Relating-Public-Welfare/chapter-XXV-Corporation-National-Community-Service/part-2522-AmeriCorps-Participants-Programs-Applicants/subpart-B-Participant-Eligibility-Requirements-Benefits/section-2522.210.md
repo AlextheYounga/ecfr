@@ -1,5 +1,7 @@
 ##### § 2522.210 How are AmeriCorps participants recruited and selected? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 (a) *Local recruitment and selection.* In general, AmeriCorps participants will be selected locally by an approved AmeriCorps program, and the selection criteria will vary widely among the different programs. Nevertheless, AmeriCorps programs must select their participants in a fair and non-discriminatory manner which complies with part 2540 of this chapter. In selecting participants, programs must also comply with the recruitment and selection requirements specified in this section.
 
 (b)(1) *National and State recruitment and selection.* The Corporation and each State Commission will establish a system to recruit individuals who desire to perform national service and to assist the placement of these individuals in approved AmeriCorps positions, which may include positions available under titles I and II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 *et seq.*). The national and state recruitment and placement system will be designed and operated according to Corporation guidelines.

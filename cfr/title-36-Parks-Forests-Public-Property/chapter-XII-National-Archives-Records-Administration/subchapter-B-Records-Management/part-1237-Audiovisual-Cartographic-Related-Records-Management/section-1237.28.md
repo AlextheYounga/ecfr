@@ -1,7 +1,5 @@
 ##### § 1237.28 What special concerns apply to digital photographs? #####
 
-Link to an amendment published at 89 FR 21437, Mar. 28, 2024.
-
 Digital photographs, either originating in digital form (“born-digital”) or scanned from photographic prints, slides, and negatives, are subject to the provisions of this part and the requirements of 36 CFR part 1236, and NARA guidance for transfer of digital photographs located on the following NARA Web page—*http://www.archives.gov/records-mgmt/initiatives/digital-photo-records.html.* In managing digital photographs, agency and contractor personnel must:
 
 (a) Schedule digital photographs and related databases as soon as possible for the minimum time needed for agency business and transfer the records promptly according to the disposition instructions on their records schedule.
@@ -10,11 +8,13 @@ Digital photographs, either originating in digital form (“born-digital”) or 
 
 (c) When developing digital image storage strategies, build redundancy into storage systems, backing up image files through on-line approaches, off-line, or combinations of the two. (See also electronic storage requirements in § 1236.28 of this subchapter).
 
-(d) For scanned digital images of photographic prints, slides, and negatives that are scheduled as permanent or unscheduled, document the quality control inspection process employed during scanning.
+(d)(1) When digitizing permanent or unscheduled slides and negatives, agencies must document the quality control inspection process used during the digitization process.
 
-(1) Visually inspect a sample of the images for defects, evaluate the accuracy of finding aids, and verify file header information and file name integrity.
+(i) Conduct a visual inspection of a sample of the scanned images to identify any defects. Additionally, evaluate the accuracy of finding aids, and verify the integrity of file header information and file names.
 
-(2) Conduct the sample using a volume sufficiently large to yield statistically valid results, in accordance with one of the quality sampling methods presented in ANSI/AIIM TR34 (incorporated by reference, see § 1237.3). (See also ISO 2859-1 (incorporated by reference, see § 1237.3).)
+(ii) The sample size must be large enough to yield statistically valid results. To determine the appropriate sample size, use one of the quality sampling methods outlined in ANSI/AIIM TR34 (incorporated by reference, see § 1237.3). Agencies may consult ISO 2859-1:1996 for further guidance (contact NARA's textual research room or NARA's Regulation Comments Desk, see § 1237.3(a), for availability).
+
+(2) When digitizing permanent or unscheduled photographic prints, refer to the requirements specified in part 1236 subpart E of this subchapter.
 
 (e) For born-digital images scheduled as permanent, long-term temporary, or unscheduled, perform periodic inspections, using sampling methods or more comprehensive verification systems (e.g., checksum programs), to evaluate image file stability, documentation quality, and finding aid reliability. Agencies must also establish procedures for refreshing digital data (recopying) and file migration, especially for images and databases retained for five years or more.
 
@@ -38,4 +38,4 @@ Digital photographs, either originating in digital form (“born-digital”) or 
 
 (j) Develop finding aids sufficiently detailed to ensure efficient and accurate retrieval. Ensure that indexes, caption lists, and assignment logs can be used to identify and chronologically cut-off block of images for transfer to the NARA.
 
-[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13657, Mar. 30, 2018]
+[74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13657, Mar. 30, 2018; 89 FR 21437, Mar. 28, 2024]

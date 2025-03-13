@@ -1,10 +1,8 @@
 ##### § 21.147 Amendment of production certificates. #####
 
-Link to an amendment published at 89 FR 33108, Apr. 26, 2024.
-
 (a) A holder of a production certificate must apply for an amendment to a production certificate in a form and manner prescribed by the FAA.
 
-(b) An applicant for an amendment to a production certificate to add a type certificate or model, or both, must comply with §§ 21.137, 21.138, and 21.150.
+(b) An applicant for an amendment to a production certificate to add a type certificate or model, or both, must comply with §§ 21.135(c), 21.137, 21.138, and 21.150.
 
 (c) An applicant may apply to amend its production limitation record to allow the manufacture and installation of an interface component, provided—
 
@@ -18,4 +16,4 @@ Link to an amendment published at 89 FR 33108, Apr. 26, 2024.
 
 (5) The applicant complies with any other conditions and limitations the FAA considers necessary.
 
-[Doc. No. FAA-2013-0933, Amdt. 21-98, 80 FR 59031, Oct. 1, 2015, as amended by Amdt. 21-98A, 80 FR 59031, Dec. 17, 2015]
+[Doc. No. FAA-2013-0933, Amdt. 21-98, 80 FR 59031, Oct. 1, 2015, as amended by Amdt. 21-98A, 80 FR 59031, Dec. 17, 2015; Amdt. 21-108, 89 FR 33108, Apr. 26, 2024]

@@ -1,5 +1,7 @@
 ##### § 2522.475 To what extent must I use the Corporation's selection criteria and priorities when selecting formula programs or operating sites? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 You must ensure that the selection criteria you use include the following criteria:
 
 (a) The quality of the national service program proposed to be carried out directly by the applicant or supported by a grant from the applicant.

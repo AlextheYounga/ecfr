@@ -1,5 +1,7 @@
 ##### § 2521.20 What types of AmeriCorps subtitle C program grants are available for award? #####
 
+Link to an amendment published at 89 FR 46033, May 28, 2024.
+
 The Corporation may make the following types of grants to eligible applicants. The requirements of this section will also apply to any State or other applicant receiving assistance under this part that proposes to conduct a grant program using the assistance to support other national or community service programs.
 
 (a) *Planning grants*—(1) *Purpose.* The purpose of a planning grant is to assist an applicant in completing the planning necessary to implement a sound concept that has already been developed.

@@ -1,5 +1,7 @@
 ##### § 2521.95 To what extent may I use grant funds for administrative costs? #####
 
+Link to an amendment published at 89 FR 46033, May 28, 2024.
+
 (a) Not more than five percent of the grant funds provided under this part for any fiscal year may be used to pay for administrative costs, as defined in § 2510.20 of this chapter.
 
 (b) The distribution of administrative costs between the grant and any subgrant will be subject to the approval of the Corporation.

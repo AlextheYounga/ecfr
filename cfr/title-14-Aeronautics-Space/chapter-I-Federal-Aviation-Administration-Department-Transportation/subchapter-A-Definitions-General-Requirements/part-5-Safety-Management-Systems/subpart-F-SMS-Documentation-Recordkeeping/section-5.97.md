@@ -1,11 +1,13 @@
 ##### § 5.97 SMS records. #####
 
-Link to an amendment published at 89 FR 33108, Apr. 26, 2024.
+Any person required to have an SMS under this part must:
 
-(a) The certificate holder must maintain records of outputs of safety risk management processes as described in subpart C of this part. Such records must be retained for as long as the control remains relevant to the operation.
+(a) Maintain records of outputs of safety risk management processes as described in subpart C of this part. Such records must be retained for as long as the control remains relevant to the operation.
 
-(b) The certificate holder must maintain records of outputs of safety assurance processes as described in subpart D of this part. Such records must be retained for a minimum of 5 years.
+(b) Maintain records of outputs of safety assurance processes as described in subpart D of this part. Such records must be retained for a minimum of 5 years.
 
-(c) The certificate holder must maintain a record of all training provided under § 5.91 for each individual. Such records must be retained for as long as the individual is employed by the certificate holder.
+(c) Maintain a record of all training provided under § 5.91 for each individual. Such records must be retained for as long as the individual is employed by the person.
 
-(d) The certificate holder must retain records of all communications provided under § 5.93 for a minimum of 24 consecutive calendar months.
+(d) Retain records of all communications provided under § 5.93 or § 5.57 for a minimum of 24 consecutive calendar months.
+
+[Doc. No. FAA-2021-0419, Amdt. 5-2, 89 FR 33108, Apr. 26, 2024]

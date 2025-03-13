@@ -1,10 +1,14 @@
 ##### § 2522.240 What financial benefits do AmeriCorps participants serving in approved AmeriCorps positions receive? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 (a) *AmeriCorps education awards.* An individual serving in an approved AmeriCorps State and National position may receive an education award from the National Service Trust upon successful completion of each of no more than four terms of service as defined in § 2522.220, consistent with the limitations in § 2526.50.
 
 (b) *Living allowances*—(1)*Amount.* Subject to the provisions of this part, any individual who participates on a full-time basis in an AmeriCorps program carried out using assistance provided pursuant to § 2521.30 of this chapter, including an AmeriCorps program that receives educational awards only pursuant to § 2521.30(c) of this chapter, will receive a living allowance in an amount equal to or greater than the average annual subsistence allowance provided to VISTA volunteers under § 105 of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4955). This requirement will not apply to any program that was in existence prior to September 21, 1993 (the date of the enactment of the National and Community Service Trust Act of 1993).
 
-(2) *Maximum living allowance.* With the exception of a professional corps described in § 2522.110(a)(3), the AmeriCorps living allowances may not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 105 of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4955). A professional corps AmeriCorps program may provide a stipend in excess of the maximum, subject to the following conditions: (i) Corporation assistance may not be used to pay for any portion of the allowance; and
+(2) *Maximum living allowance.* With the exception of a professional corps described in § 2522.110(a)(3), the AmeriCorps living allowances may not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 105 of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4955). A professional corps AmeriCorps program may provide a stipend in excess of the maximum, subject to the following conditions:
+
+(i) Corporation assistance may not be used to pay for any portion of the allowance; and
 
 (ii) The program must be operated directly by the applicant, selected on a competitive basis by submitting an application to the Corporation, and may not be included in a State's application for AmeriCorps program funds distributed by formula under § 2521.30(a)(2) of this chapter.
 

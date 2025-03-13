@@ -1,5 +1,7 @@
 ##### § 2522.100 What are the minimum requirements that every AmeriCorps program, regardless of type, must meet? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 Although a wide range of programs may be eligible to apply for and receive support from the Corporation, all AmeriCorps subtitle C programs must meet certain minimum program requirements. These requirements apply regardless of whether a program is supported directly by the Corporation or through a subgrant. All AmeriCorps programs must:
 
 (a) Address educational, public safety, human, or environmental needs, and provide a direct and demonstrable benefit that is valued by the community in which the service is performed;

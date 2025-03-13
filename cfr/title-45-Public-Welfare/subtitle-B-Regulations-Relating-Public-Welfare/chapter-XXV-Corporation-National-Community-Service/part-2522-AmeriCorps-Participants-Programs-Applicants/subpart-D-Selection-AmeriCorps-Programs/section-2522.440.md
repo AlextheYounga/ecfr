@@ -1,5 +1,7 @@
 ##### § 2522.440 What weight does the Corporation give to each category of the basic criteria? #####
 
+Link to an amendment published at 89 FR 46034, May 28, 2024.
+
 In evaluating applications, the Corporation assigns the following weights for each category:
 
 |               Category               |Percentage|
