@@ -1,5 +1,7 @@
 ##### 952.204-77 Computer security. #####
 
+Link to an amendment published at 89 FR 89764, Nov. 13, 2024.
+
 As prescribed in 904.404(d)(7), the following clause shall be included:
 
 Computer Security (AUG 2006)

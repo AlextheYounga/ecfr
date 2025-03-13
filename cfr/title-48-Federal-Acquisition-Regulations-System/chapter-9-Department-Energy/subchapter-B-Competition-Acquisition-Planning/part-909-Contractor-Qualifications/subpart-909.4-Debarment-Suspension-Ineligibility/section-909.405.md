@@ -1,5 +1,7 @@
 ##### 909.405 Effect of listing. #####
 
+Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
+
 (e) The Department of Energy may not solicit offers from, award contracts to or consent to subcontracts with contractors debarred, suspended, or proposed for debarment unless the Senior Procurement Executive makes a written determination justifying that there is a compelling reason for such action in accordance with 48 CFR 9.405(a). For NNSA, the Head of the Contracting Activity (HCA) makes the written determination justifying the compelling reason.
 
 (f) DOE or NNSA may disapprove or not consent to the selection (by a contractor) of an individual to serve as a principal investigator, as a project manager, in a position of responsibility for the administration of Federal funds, or in another key personnel position, if the individual is listed in the Excluded Parties List System (EPLS).

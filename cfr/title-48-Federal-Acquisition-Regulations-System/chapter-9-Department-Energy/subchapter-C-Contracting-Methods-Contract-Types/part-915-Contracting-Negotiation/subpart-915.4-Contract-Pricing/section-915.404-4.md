@@ -1,5 +1,7 @@
 ##### 915.404-4 Profit. #####
 
+Link to an amendment published at 89 FR 89749, Nov. 13, 2024.
+
 (c)(4)(i) *Contracting officer responsibilities.* The statutory limitations on price and fee as set forth in 48 CFR 15.404-4(c)(4)(i) shall be followed, except as exempted for DOE architect-engineer contracts covering Atomic Energy Commission (AEC) and Bonneville Power Administration (BPA) functions. Pursuant to section 602(d) (13) and (20) of the Federal Property and Administration Services Act of 1949, as amended, those former AEC functions, as well as those of the BPA, now being performed by DOE are exempt from the 6 percent of cost restriction on contracts for architect-engineer services. The estimated costs on which the maximum fee is computed shall include facilities capital cost of money when this cost is included in cost estimates.
 
 (c)(6) In cases where a change or modification calls for substantially different work than the basic contract, the contractor's effort may be radically changed and a detailed analysis of the profit factors would be a necessity. Also, if the dollar amount of the change or contract modification is very significant in comparison to the contract dollar amount, a detailed analysis should be made.

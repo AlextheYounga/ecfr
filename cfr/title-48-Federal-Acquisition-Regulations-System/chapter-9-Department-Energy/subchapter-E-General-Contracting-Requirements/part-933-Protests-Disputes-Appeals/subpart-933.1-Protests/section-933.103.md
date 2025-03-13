@@ -1,5 +1,7 @@
 ##### 933.103 Protests to the agency. #####
 
+Link to an amendment published at 89 FR 89758, Nov. 13, 2024.
+
 (i) Protests filed with the contracting officer before or after award shall be decided by the HCA except for the following cases, which shall be decided by the Senior Procurement Executive:
 
 (1) The protester requests that the protest be decided by the Senior Procurement Executive.

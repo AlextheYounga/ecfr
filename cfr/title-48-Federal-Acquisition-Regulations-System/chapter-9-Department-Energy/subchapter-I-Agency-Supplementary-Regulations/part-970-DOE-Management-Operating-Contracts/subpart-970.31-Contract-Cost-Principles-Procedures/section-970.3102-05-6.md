@@ -1,5 +1,7 @@
 ##### 970.3102-05-6 Compensation for personal services. #####
 
+Link to an amendment published at 89 FR 89788, Nov. 13, 2024.
+
 (a)(6) In determining the reasonableness of compensation, the compensation of each individual contractor employee normally need not be subjected to review and approval. Generally, the compensation paid individual employees should be left to the judgment of contractors subject to the limitations of DOE-approved compensation policies, programs, classification systems, and schedules, and amounts of money authorized for wage and salary increases for groups of employees. However, the contracting officer shall designate a compensation threshold appropriate for the particular situation. The contract shall specifically provide that contracting officer approval is required for compensating an individual contractor employee above the threshold if a total of 50 percent or more of such compensation is reimbursed under DOE cost-type contracts. For purposes of designating the threshold, total compensation includes only the employee's salary and cash bonus or incentive compensation.
 
 (7)(i) Reimbursable costs for compensation for personal services are to be set forth in the contract. This compensation shall be set forth using the principles and policies of 48 CFR 31.205-6, Compensation, as supplemented by this section, 970.3102-05-6, and other pertinent parts of the DEAR. Costs that are unallowable under other contract terms shall not be allowable as compensation for personnel services.

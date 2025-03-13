@@ -1,5 +1,7 @@
 ##### 952.226-73 Energy Policy Act target group certification. #####
 
+Link to an amendment published at 89 FR 89766, Nov. 13, 2024.
+
 As prescribed in 926.7007(d), insert the following provision:
 
 Energy Policy Act Target Group Certification (SEP 1997)

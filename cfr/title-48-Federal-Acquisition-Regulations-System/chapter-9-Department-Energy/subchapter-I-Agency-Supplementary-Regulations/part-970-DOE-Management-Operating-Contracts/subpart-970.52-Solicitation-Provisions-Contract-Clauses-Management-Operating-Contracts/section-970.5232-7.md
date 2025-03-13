@@ -1,5 +1,7 @@
 ##### 970.5232-7 Financial management system. #####
 
+Link to an amendment published at 89 FR 89827, Nov. 13, 2024.
+
 As prescribed in 970.3270(b)(1), insert the following clause:
 
 Financial Management System (DEC 2000)

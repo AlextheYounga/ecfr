@@ -1,5 +1,7 @@
 ##### 970.3102-3-70 Home office expenses. #####
 
+Link to an amendment published at 89 FR 89788, Nov. 13, 2024.
+
 (a) For on-site work, DOE's fee for management and operating contracts, determined under the policy of and calculated per the procedures in 970.1504-1-3, generally provides adequate compensation for home or corporate office general and administrative expenses incurred in the general management of the contractor's business as a whole.
 
 (1) DOE recognizes that some Home Office Expenses are incurred for the benefit of a management and operating contract. DOE has elected to recognize that benefit through fee due to the difficulty of determining the dollar value applicable to any management and operating contract. The difficulty arises because:

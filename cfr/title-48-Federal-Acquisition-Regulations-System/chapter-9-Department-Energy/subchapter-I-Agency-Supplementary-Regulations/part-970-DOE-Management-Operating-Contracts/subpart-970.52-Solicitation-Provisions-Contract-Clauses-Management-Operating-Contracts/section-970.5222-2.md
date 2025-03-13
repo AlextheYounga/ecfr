@@ -1,5 +1,7 @@
 ##### 970.5222-2 Overtime management. #####
 
+Link to an amendment published at 89 FR 89798, Nov. 13, 2024.
+
 As prescribed in 970.2201-2-2, insert the following clause:
 
 Overtime Management (DEC 2000)

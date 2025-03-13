@@ -1,5 +1,7 @@
 ##### § 20.19 Hearing aid-compatible mobile handsets. #####
 
+Link to an amendment published at 89 FR 89864, Nov. 13, 2024.Link to an amendment published at 89 FR 89866, Nov. 13, 2024.Link to an amendment published at 89 FR 89868, Nov. 13, 2024.
+
 (a) *Definitions.* For purposes of this section:
 
 *2007 ANSI standard* refers to the technical standard for hearing aid compatibility applicable to frequencies between 800 MHz and 3 GHz as set forth in ANSI C63.19-2007.

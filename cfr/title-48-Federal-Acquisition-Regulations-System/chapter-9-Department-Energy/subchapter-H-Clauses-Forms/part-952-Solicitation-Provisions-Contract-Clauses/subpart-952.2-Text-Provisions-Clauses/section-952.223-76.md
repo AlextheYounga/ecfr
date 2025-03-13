@@ -1,5 +1,7 @@
 ##### 952.223-76 Conditional payment of fee or profit—safeguarding restricted data and other classified information and protection of worker safety and health. #####
 
+Link to an amendment published at 89 FR 89766, Nov. 13, 2024.
+
 As prescribed at 923.7003(f), insert the following clause:
 
 Conditional Payment of Fee or Profit—Safeguarding Restricted Data and Other Classified Information and Protection of Worker Safety and Health (DEC 2010)

@@ -1,5 +1,7 @@
 ##### 915.404-2-70 Audit as an aid in proposal analysis. #####
 
+Link to an amendment published at 89 FR 89749, Nov. 13, 2024.
+
 (a) When a contract price will be based on cost or pricing data submitted by the offerors, the DOE contracting officer or authorized representative shall request a review by the cognizant Federal audit activity prior to the negotiation of any contract or modification including modifications under advertised contracts in excess of—
 
 (1) The threshold stated at 48 CFR 15.403-4(a)(1) for a firm fixed-price contract or a fixed-price contract with economic price adjustment provisions; or adjustment provisions; or

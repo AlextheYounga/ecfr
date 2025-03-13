@@ -1,5 +1,7 @@
 ##### 917.602 Policy. #####
 
+Link to an amendment published at 89 FR 89750, Nov. 13, 2024.
+
 (a) The use of a management and operating contract must be authorized by the Secretary.
 
 (b) It is the policy of the Department of Energy to provide for full and open competition in the award of management and operating contracts, including performance-based management contracts.

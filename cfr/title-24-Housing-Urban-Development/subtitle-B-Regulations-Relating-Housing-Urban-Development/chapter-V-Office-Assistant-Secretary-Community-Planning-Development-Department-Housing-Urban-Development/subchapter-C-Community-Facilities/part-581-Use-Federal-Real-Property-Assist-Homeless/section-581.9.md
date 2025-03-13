@@ -1,6 +1,6 @@
 ##### § 581.9 Application process. #####
 
-(OMB approval number 09370191)
+Link to an amendment published at 89 FR 89881, Nov. 13, 2024.(OMB approval number 09370191)
 
 (a) *Holding period.* (1) Properties published as available for application for use to assist the homeless shall not be available for any other purpose for a period of 60 days beginning on the date of publication. Any representative of the homeless interested in any underutilized, unutilized, excess or surplus Federal property for use as a facility to assist the homeless must send to HHS a written expression of interest in that property within 60 days after the property has been published in the Federal Register.
 

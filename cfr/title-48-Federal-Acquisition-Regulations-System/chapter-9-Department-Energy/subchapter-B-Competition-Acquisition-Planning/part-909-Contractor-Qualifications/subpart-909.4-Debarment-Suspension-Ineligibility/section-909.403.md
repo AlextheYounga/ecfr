@@ -1,5 +1,7 @@
 ##### 909.403 Definitions. #####
 
+Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
+
 In addition to the definitions set forth at 48 CFR 9.403, the following definitions apply to this subpart:
 
 *Debarring and suspending official,* for the DOE, the designees are:

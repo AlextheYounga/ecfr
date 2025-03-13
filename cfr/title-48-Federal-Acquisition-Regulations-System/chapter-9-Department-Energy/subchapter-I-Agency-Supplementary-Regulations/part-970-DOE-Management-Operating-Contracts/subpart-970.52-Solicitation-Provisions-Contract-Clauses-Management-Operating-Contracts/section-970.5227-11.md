@@ -1,5 +1,7 @@
 ##### 970.5227-11 Patent rights—management and operating contracts, for-profit contractor, non-technology transfer. #####
 
+Link to an amendment published at 89 FR 89817, Nov. 13, 2024.
+
 Insert the following clause in solicitations and contracts in accordance with 970.2703-1(b)(4):
 
 Patent Rights—Management and Operating Contracts, for-Profit Contractor, Non-Technology Transfer (DEC 2000)

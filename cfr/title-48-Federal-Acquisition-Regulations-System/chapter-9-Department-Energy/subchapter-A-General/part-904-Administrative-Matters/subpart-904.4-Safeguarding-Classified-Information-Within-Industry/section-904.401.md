@@ -1,5 +1,7 @@
 ##### 904.401 Definitions. #####
 
+Link to an amendment published at 89 FR 89747, Nov. 13, 2024.
+
 *Access authorization* means an administrative determination that an individual is eligible for access to classified information or is eligible for access to, or control over, special nuclear material.
 
 *Applicant* means an individual who has submitted an expression of interest in employment; who is under consideration by the contractor for employment in a particular position; and who has not removed himself or herself from further consideration or otherwise indicated that he or she is no longer interested in the position.

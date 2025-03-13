@@ -1,5 +1,7 @@
 ##### 916.307 Contract clauses. #####
 
+Link to an amendment published at 89 FR 89750, Nov. 13, 2024.
+
 (a) When contracting with a commercial organization, modify paragraph (a) of the clause at 48 CFR 52.216-7 by adding the phrase “as supplemented by subpart 931.2 of the DEAR” after “FAR subpart 31.2.”
 
 (g) Insert the clause at 48 CFR 52.216-15, Predetermined Indirect Cost Rates, modified as specified in 952.216-15 in solicitations and contracts when a cost-reimbursement research and development contract with a State or local government is contemplated and predetermined indirect cost rates are to be used.

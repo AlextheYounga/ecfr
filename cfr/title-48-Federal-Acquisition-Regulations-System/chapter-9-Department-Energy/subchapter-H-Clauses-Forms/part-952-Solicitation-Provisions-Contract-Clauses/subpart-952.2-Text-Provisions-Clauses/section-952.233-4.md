@@ -1,5 +1,7 @@
 ##### 952.233-4 Notice of protest file availability. #####
 
+Link to an amendment published at 89 FR 89771, Nov. 13, 2024.
+
 As prescribed in 933.106(b), insert the following provision:
 
 Notice of Protest File Availability (AUG 2009)

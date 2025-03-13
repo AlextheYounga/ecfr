@@ -1,5 +1,7 @@
 ##### 970.5232-3 Accounts, records, and inspection. #####
 
+Link to an amendment published at 89 FR 89826, Nov. 13, 2024.
+
 As prescribed in 970.3270(a)(2), insert the following clause:
 
 Accounts, Records, and Inspection (DEC 2010)

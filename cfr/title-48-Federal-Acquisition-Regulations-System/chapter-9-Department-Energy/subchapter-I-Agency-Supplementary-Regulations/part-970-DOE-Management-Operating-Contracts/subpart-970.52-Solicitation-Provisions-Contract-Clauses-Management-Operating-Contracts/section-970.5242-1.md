@@ -1,5 +1,7 @@
 ##### 970.5242-1 Penalties for unallowable costs. #####
 
+Link to an amendment published at 89 FR 89827, Nov. 13, 2024.
+
 As prescribed in 970.4207-03-70, insert the following clause:
 
 Penalties for Unallowable Costs (AUG 2009)

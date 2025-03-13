@@ -1,5 +1,7 @@
 ##### 970.2703-2 Patent rights clause provisions for management and operating contractors. #####
 
+Link to an amendment published at 89 FR 89786, Nov. 13, 2024.
+
 (a) *Allocation of Principal Rights: Bayh-Dole provisions.* If the management and operating contractor is an educational institution or nonprofit organization, the patent rights clause provided at 970.5227-10 must be inserted into the M&O contract. Such entities are beneficiaries of Bayh-Dole Act, including the paramount right of the contractor to elect to retain title to inventions conceived or first actually reduced to practice in performance of work under the contract, except in DOE-exempted areas of technology or in operation of DOE facilities primarily dedicated to naval nuclear propulsion or weapons related programs.
 
 (b) *Allocation of Principal Rights: Government title.* (1) The patent rights clause provided at 970.5227-11 must be incorporated into the M&O contract if the contractor is a for-profit, large business firm and the contract does not have a technology transfer mission or if, without regard to the type of contractor, the contract is for the operation of a DOE facility primarily dedicated to naval nuclear propulsion or weapons related programs. That clause provides for DOE's statutory obligation to take title to inventions conceived or first actually reduced to practice in the course of or under an M&O contract, and does not contemplate an advance class waiver of Government rights in inventions, or participation by the contractor in technology transfer activities.

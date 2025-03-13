@@ -1,5 +1,7 @@
 ##### 909.407-3 Procedures. #####
 
+Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
+
 (b) *Decisionmaking process.* (1) In actions based on an indictment, the Suspending Official shall make a decision based upon the administrative record, which shall include submissions made by the contractor in accordance with 909.406-3(b)(1) and 909.406-3(b)(3).
 
 (2) For actions not based on an indictment, the procedures in 909.406-3(b)(2) and 48 CFR 9.407-3(b)(2) apply.

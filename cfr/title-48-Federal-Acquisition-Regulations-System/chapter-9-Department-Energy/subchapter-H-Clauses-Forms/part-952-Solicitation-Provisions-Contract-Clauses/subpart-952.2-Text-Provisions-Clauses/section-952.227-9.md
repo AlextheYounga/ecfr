@@ -1,5 +1,7 @@
 ##### 952.227-9 Refund of royalties. #####
 
+Link to an amendment published at 89 FR 89767, Nov. 13, 2024.
+
 As prescribed in 927.206-2, insert the following clause:
 
 Refund of Royalties (MAR 1995)

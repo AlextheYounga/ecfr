@@ -1,5 +1,7 @@
 ##### § 79.95 Grantee reporting requirements. #####
 
+Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
+
 (a) VA may require grantees to provide, in such form as may be prescribed, such reports or answers in writing to specific questions, surveys, or questionnaires as VA determines necessary to carry out the Grant Program.
 
 (b) At least once per year, or at the frequency set by VA, each grantee must submit to VA a report containing information relating to operational effectiveness; fiscal responsibility; legal services grant agreement compliance; and legal and regulatory compliance. This report must include a breakdown of how the grantee used the legal services grant funds; the number of participants assisted; information on each participant's gender, age, race, and service era; a description of the legal services provided to each participant; and any other information that VA requests.

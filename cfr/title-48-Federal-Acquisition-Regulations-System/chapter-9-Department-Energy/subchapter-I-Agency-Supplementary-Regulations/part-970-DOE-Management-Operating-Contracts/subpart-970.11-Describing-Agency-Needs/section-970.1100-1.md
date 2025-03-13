@@ -1,5 +1,7 @@
 ##### 970.1100-1 Performance-based contracting. #####
 
+Link to an amendment published at 89 FR 89776, Nov. 13, 2024.
+
 (a) It is the policy of the Department of Energy (DOE) to use, to the maximum extent practicable, performance-based contracting methods in its management and operating contracts. The Office of Federal Procurement Policy's Seven Steps to Performance-Based Acquisition located at Web site *http://www.acquisition.gov/comp/seven\_steps/home.html* provides guidance concerning the development and use of performance-based contracting concepts and methodologies that may be generally applied to management and operating contracts. Performance-based contracts: Describe performance requirements in terms of results rather than methods of accomplishing the work; use measurable (i.e., terms of quality, timeliness, quantity) performance standards and objectives and quality assurance surveillance plans; provide performance incentives (positive or negative) where appropriate; and specify procedures for award or incentive fee reduction when work activities are not performed or do not meet contract requirements.
 
 (b) The use of performance-based statements of work, where feasible, is the preferred method for establishing work requirements. Such statements of work and other documents used to establish work requirements (such as work authorization directives) should describe performance requirements and expectations in terms of outcome, results, or final work products, as opposed to methods, processes, or design.

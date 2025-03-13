@@ -1,5 +1,7 @@
 ##### 952.204-70 Classification/Declassification. #####
 
+Link to an amendment published at 89 FR 89762, Nov. 13, 2024.
+
 As prescribed in 904.404(d)(2), the following clause shall be included in all contracts which involve classified information:
 
 Classification/Declassification (SEP 1997)

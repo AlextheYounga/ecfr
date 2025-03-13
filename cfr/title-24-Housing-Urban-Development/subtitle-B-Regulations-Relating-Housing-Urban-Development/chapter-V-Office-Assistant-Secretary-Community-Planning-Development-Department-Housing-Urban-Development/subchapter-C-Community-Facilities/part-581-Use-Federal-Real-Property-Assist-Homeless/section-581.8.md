@@ -1,5 +1,7 @@
 ##### § 581.8 Public notice of determination. #####
 
+Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+
 (a) No later than 15 days after the last 45 day period has elapsed for receiving responses from the landholding agencies regarding availability, HUD will publish in the Federal Register a list of all properties reviewed, including a description of the property, its address, and classification. The following designations will be made:
 
 (1) Properties that are suitable and available.

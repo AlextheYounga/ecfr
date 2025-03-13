@@ -1,5 +1,7 @@
 ##### 970.0905 Organizational and consultant conflicts of interest. #####
 
+Link to an amendment published at 89 FR 89776, Nov. 13, 2024.
+
 Management and operating contracts shall contain an organizational conflict of interest clause substantially similar to the clause at 952.209-72, Organizational Conflicts of Interest, and which is appropriate to the statement of work of the individual contract. In addition, the contracting officer shall assure that the clause contains appropriate restraints on intra-corporate relations between the contractor's organization and personnel operating the Department's facility and its parent corporate body and affiliates. Such restraints shall include personnel access to the facility, technical transfer of information from the facility, and the availability from the facility of other advantages flowing from performance of the contract. The contracting officer is responsible for ensuring that M&O contractors adopt policies and procedures in the award of subcontracts that will meet the Department's need to safeguard against a biased work product and an unfair competitive advantage. To this end, the organizational conflicts of interest clause in management and operating contracts shall include Alternate I.
 
 [65 FR 81009, Dec. 22, 2000, as amended at 74 FR 36371, July 22, 2009]

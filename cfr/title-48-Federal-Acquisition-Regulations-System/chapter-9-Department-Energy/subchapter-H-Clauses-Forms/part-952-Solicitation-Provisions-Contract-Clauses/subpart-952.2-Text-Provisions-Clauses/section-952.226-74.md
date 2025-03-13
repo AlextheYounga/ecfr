@@ -1,5 +1,7 @@
 ##### 952.226-74 Displaced employee hiring preference. #####
 
+Link to an amendment published at 89 FR 89767, Nov. 13, 2024.
+
 As prescribed in 926.7104, insert the following clause.
 
 Displaced Employee Hiring Preference (JUN 1997)

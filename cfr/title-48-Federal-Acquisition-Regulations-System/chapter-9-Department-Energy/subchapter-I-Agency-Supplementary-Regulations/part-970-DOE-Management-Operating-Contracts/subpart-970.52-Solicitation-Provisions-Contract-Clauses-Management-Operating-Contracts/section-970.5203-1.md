@@ -1,5 +1,7 @@
 ##### 970.5203-1 Management controls. #####
 
+Link to an amendment published at 89 FR 89789, Nov. 13, 2024.
+
 As prescribed in 970.0370-2(a) and 970.3270(a)(4), insert the following clause:
 
 Management Controls (JUN 2007)

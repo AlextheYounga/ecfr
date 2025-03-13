@@ -1,5 +1,7 @@
 ##### 915.404-4-70-7 Alternative techniques. #####
 
+Link to an amendment published at 89 FR 89749, Nov. 13, 2024.
+
 (a) Profit or fees to be paid on construction contracts and construction management contracts shall be determined in accordance with the applicable profit/fee technique for such contracts set forth in 915.404-4-71.
 
 (b) Profit and fee to be paid on contracts under the threshold stated at 48 CFR 15.403-4(a)(1), not using the weighted guidelines, shall be judgmentally developed by the contracting officer by assigning individual dollar amounts to the factors appropriate to DOE profit considerations discussed in 915.404-4-70-2(d).

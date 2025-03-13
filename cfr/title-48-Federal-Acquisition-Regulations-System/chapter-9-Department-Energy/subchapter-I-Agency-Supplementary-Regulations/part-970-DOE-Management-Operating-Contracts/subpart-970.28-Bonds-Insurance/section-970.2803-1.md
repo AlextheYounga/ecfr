@@ -1,5 +1,7 @@
 ##### 970.2803-1 Workers' Compensation Insurance. #####
 
+Link to an amendment published at 89 FR 89787, Nov. 13, 2024.
+
 (a) *Policies and requirements.* (1) Workers' compensation insurance protects employers against liability imposed by workers' compensation laws for injury or death to employees arising out of, or in the course of, their employment. This type of insurance is required by state laws unless employers have acceptable programs of self-insurance.
 
 (2) *Special requirements.* Certain workers' compensation laws contain provisions which result in limiting the protection afforded persons subject to such laws. The policy with respect to these limitations as they affect persons employed by management and operating contractors is set forth as follows:

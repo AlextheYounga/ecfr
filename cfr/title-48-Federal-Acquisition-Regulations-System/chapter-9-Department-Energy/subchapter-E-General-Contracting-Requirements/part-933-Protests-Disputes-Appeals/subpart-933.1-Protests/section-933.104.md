@@ -1,5 +1,7 @@
 ##### 933.104 Protests to GAO. #####
 
+Link to an amendment published at 89 FR 89759, Nov. 13, 2024.
+
 (a)(2) The contracting officer shall provide the notice of protest.
 
 (b) *Protests before award.* (1) When the Department has received notice from the Government Accountability Office (GAO) of a protest filed directly with the GAO, a contract may not be awarded until the matter is resolved, unless authorized by the HCA in accordance with 48 CFR 33.104(b). Before the HCA authorizes the award, the required finding shall be concurred in by the DOE counsel handling the protest, endorsed by the Senior Program Official, and approved by the Senior Procurement Executive. The finding shall address the likelihood that the protest will be sustained by the GAO.

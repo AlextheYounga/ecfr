@@ -1,3 +1,3 @@
-##### § 525.509 Official business of the United States Government. #####
+##### § 525.509 Emergency medical services. #####
 
-All transactions prohibited by this part that are for the conduct of the official business of the United States Government by employees, grantees, or contractors thereof are authorized.
+The provision and receipt of nonscheduled emergency medical services that are prohibited by this part are authorized.

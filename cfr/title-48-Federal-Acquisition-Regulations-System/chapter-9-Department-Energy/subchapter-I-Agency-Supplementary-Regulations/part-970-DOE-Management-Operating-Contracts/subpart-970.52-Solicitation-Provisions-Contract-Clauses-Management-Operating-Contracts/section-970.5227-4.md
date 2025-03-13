@@ -1,5 +1,7 @@
 ##### 970.5227-4 Authorization and consent. #####
 
+Link to an amendment published at 89 FR 89811, Nov. 13, 2024.
+
 Insert the following clause in solicitations and contracts in accordance with 970.2702-1:
 
 Authorization and Consent (AUG 2002)

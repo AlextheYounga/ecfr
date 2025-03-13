@@ -1,5 +1,7 @@
 ##### 970.5227-12 Patent rights—management and operating contracts, for-profit contractor, advance class waiver. #####
 
+Link to an amendment published at 89 FR 89818, Nov. 13, 2024.
+
 Insert the following clause in solicitations and contracts in accordance with 970.2703-1(b)(3):
 
 Patent Rights—Management and Operating Contracts, For-Profit Contractor, Advance Class Waiver (DEC 2000)

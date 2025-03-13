@@ -1,29 +1,23 @@
-##### § 525.507 Payments for legal services from funds originating outside the United States. #####
+##### § 525.507 Provision of certain legal services. #####
 
-(a) *Professional fees and incurred expenses.* (1) Receipt of payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to § 525.506(a) to or on behalf of any person whose property and interests in property are blocked pursuant to § 525.201 is authorized from funds originating outside the United States, provided that the funds do not originate from:
+(a) The provision of the following legal services to or on behalf of persons whose property and interests in property are blocked pursuant to § 525.201 is authorized, provided that any receipt of payment of professional fees and reimbursement of incurred expenses must be authorized pursuant to § 525.508, which authorizes certain payments for legal services from funds originating outside the United States; via specific license; or otherwise pursuant to this part:
 
-(i) A source within the United States;
+(1) Provision of legal advice and counseling on the requirements of and compliance with the laws of the United States or any jurisdiction within the United States, provided that such advice and counseling are not provided to facilitate transactions in violation of this part;
 
-(ii) Any source, wherever located, within the possession or control of a U.S. person; or
+(2) Representation of persons named as defendants in or otherwise made parties to legal, arbitration, or administrative proceedings before any U.S. federal, state, or local court or agency;
 
-(iii) Any individual or entity, other than the person on whose behalf the legal services authorized pursuant to § 525.506(a) are to be provided, whose property and interests in property are blocked pursuant to any part of this chapter or any Executive order or statute.
+(3) Initiation and conduct of legal, arbitration, or administrative proceedings before any U.S. federal, state, or local court or agency;
 
-(2) Nothing in paragraph (a) of this section authorizes payments for legal services using funds in which any other person whose property and interests in property are blocked pursuant to § 525.201, any other part of this chapter, or any Executive order or statute has an interest.
+(4) Representation of persons before any U.S. federal, state, or local court or agency with respect to the imposition, administration, or enforcement of U.S. sanctions against such persons; and
 
-(b) *Reports.* (1) U.S. persons who receive payments pursuant to paragraph (a) of this section must submit annual reports no later than 30 days following the end of the calendar year during which the payments were received providing information on the funds received. Such reports shall specify:
+(5) Provision of legal services in any other context in which prevailing U.S. law requires access to legal counsel at public expense.
 
-(i) The individual or entity from whom the funds originated and the amount of funds received; and
+(b) The provision of any other legal services to or on behalf of persons whose property and interests in property are blocked pursuant to § 525.201, not otherwise authorized in this part, requires the issuance of a specific license.
 
-(ii) If applicable:
+(c) U.S. persons do not need to obtain specific authorization to provide related services, such as making filings and providing other administrative services, that are ordinarily incident to the provision of services authorized by paragraph (a) of this section. Additionally, U.S. persons who provide services authorized by paragraph (a) of this section do not need to obtain specific authorization to contract for related services that are ordinarily incident to the provision of those legal services, such as those provided by private investigators or expert witnesses, or to pay for such services. *See* § 525.404.
 
-(A) The names of any individuals or entities providing related services to the U.S. person receiving payment in connection with authorized legal services, such as private investigators or expert witnesses;
+(d) Entry into a settlement agreement or the enforcement of any lien, judgment, arbitral award, decree, or other order through execution, garnishment, or other judicial process purporting to transfer or otherwise alter or affect property or interests in property blocked pursuant to § 525.201 is prohibited unless licensed pursuant to this part.
 
-(B) A general description of the services provided; and
+Note 1 to § 525.507.
 
-(C) The amount of funds paid in connection with such services.
-
-(2) The reports, which must reference this section, are to be submitted to OFAC using one of the following methods:
-
-(i) Email (preferred method): *OFAC.Regulations.Reports@treasury.gov;* or
-
-(ii) U.S. mail: OFAC Regulations Reports, Office of Foreign Assets Control, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Freedman's Bank Building, Washington, DC 20220.
+Pursuant to part 501, subpart E, of this chapter, U.S. persons seeking administrative reconsideration or judicial review of their designation or the blocking of their property and interests in property may apply for a specific license from OFAC to authorize the release of certain blocked funds for the payment of professional fees and reimbursement of incurred expenses for the provision of such legal services where alternative funding sources are not available.

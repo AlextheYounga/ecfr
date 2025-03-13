@@ -1,5 +1,7 @@
 ##### 952.227-11 Patent rights—retention by the contractor (short form). #####
 
+Link to an amendment published at 89 FR 89767, Nov. 13, 2024.
+
 As prescribed in 927.303(a), insert the following clause:
 
 Patent Rights—Retention by the Contractor (Short Form) (MAR 1995)

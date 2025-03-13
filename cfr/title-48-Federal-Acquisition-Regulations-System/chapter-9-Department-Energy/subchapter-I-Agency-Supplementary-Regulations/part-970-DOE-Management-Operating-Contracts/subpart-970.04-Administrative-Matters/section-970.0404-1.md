@@ -1,5 +1,7 @@
 ##### 970.0404-1 Definitions. #####
 
+Link to an amendment published at 89 FR 89776, Nov. 13, 2024.
+
 *Access Authorization* means an administrative determination that an individual is eligible for access to classified information or is eligible for access to, or control over, special nuclear material.
 
 *Classified Information* means any information or material that is owned by or produced for, or is under the control of the United States Government, and determined pursuant to provisions of Executive Order 12958, Classified National Security Information, April 17, 1995, as amended, or prior orders, or as authorized under the Atomic Energy Act of 1954, as amended, to require protection against unauthorized disclosure, and is so designated.

@@ -1,5 +1,7 @@
 ##### 970.2270 Unemployment compensation. #####
 
+Link to an amendment published at 89 FR 89785, Nov. 13, 2024.
+
 (a) Each state has its own unemployment compensation system to provide payments to workers who become unemployed involuntarily and through no fault of their own. Funds are provided for unemployment compensation benefits through a payroll tax on employers. Most DOE contractors are subject to the unemployment compensation tax laws of the states in which they are located. It is the policy to assure, both in the negotiation and administration of cost-reimbursement type contracts, that economical and practical arrangements are made and practiced with respect to unemployment compensation.
 
 (b) *Contract exempt from state laws.* (1) Some contractors are exempt from state unemployment compensation laws, usually on grounds that they are nonprofit organizations or subdivisions of State governments. Most states, however, permit such employers to elect unemployment compensation coverage on a voluntary basis. Under such circumstances, all existing or prospective cost-reimbursement contractors shall be encouraged to provide unemployment compensation coverage or equivalent substitutes.

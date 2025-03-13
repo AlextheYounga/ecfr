@@ -1,5 +1,7 @@
 ##### 970.5232-2 Payments and advances. #####
 
+Link to an amendment published at 89 FR 89825, Nov. 13, 2024.
+
 As prescribed in 970.3270(a)(1), insert the following clause:
 
 Payments and Advances (DEC 2000)

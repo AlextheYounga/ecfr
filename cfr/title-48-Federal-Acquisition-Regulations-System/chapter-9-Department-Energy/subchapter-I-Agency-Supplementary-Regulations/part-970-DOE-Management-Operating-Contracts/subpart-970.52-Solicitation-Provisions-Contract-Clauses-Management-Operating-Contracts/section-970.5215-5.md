@@ -1,5 +1,7 @@
 ##### 970.5215-5 Limitation on fee. #####
 
+Link to an amendment published at 89 FR 89793, Nov. 13, 2024.
+
 As prescribed in 970.1504-5(d), the contracting officer shall insert the following provision:
 
 Limitation on Fee (DEC 2000)

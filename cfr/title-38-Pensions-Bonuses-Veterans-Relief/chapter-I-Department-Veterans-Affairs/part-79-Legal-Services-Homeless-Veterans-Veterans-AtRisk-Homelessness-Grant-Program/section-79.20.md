@@ -1,5 +1,7 @@
 ##### § 79.20 Legal services. #####
 
+Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
+
 Allowable legal services covered under this Grant Program are limited to the following:
 
 (a) Legal services related to housing, including eviction defense, representation in landlord-tenant cases, and representation in foreclosure cases.

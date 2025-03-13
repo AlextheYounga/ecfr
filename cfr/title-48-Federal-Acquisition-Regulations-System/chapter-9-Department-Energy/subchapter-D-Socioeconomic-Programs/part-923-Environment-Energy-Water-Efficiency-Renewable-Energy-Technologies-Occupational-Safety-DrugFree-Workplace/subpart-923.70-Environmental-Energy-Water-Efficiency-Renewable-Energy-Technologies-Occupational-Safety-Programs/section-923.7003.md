@@ -1,5 +1,7 @@
 ##### 923.7003 Contract clauses. #####
 
+Link to an amendment published at 89 FR 89753, Nov. 13, 2024.
+
 (a) A decision to include or not include environmental, safety and health clauses in DOE contracts shall be made by the contracting officer in consultation with appropriate Office of Health, Safety and Security personnel.
 
 (b) When work is to be performed at a facility where the DOE will exercise its statutory authority to enforce occupational safety and health standards applicable to the working conditions of the contractor and subcontractor employees at such facility, the clause at 952.223-71, Integration of Environment, Safety, and Health into Work Planning and Execution, shall be used in such contract or subcontract if conditions (b)(1) through (3), are satisfied—

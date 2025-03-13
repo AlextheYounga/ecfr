@@ -1,5 +1,7 @@
 ##### 970.0404-2 General. #####
 
+Link to an amendment published at 89 FR 89776, Nov. 13, 2024.
+
 (a) Guidance regarding the National Industrial Security Program as implemented by the Department of Energy (DOE) may be found at subpart 904.4, Safeguarding Classified Information Within Industry. Additional information concerning contractor ownership when national security or atomic energy information is involved may be found at subpart 904.70. Information regarding contractor ownership involving national security program contracts may be found at subpart 904.71.
 
 (b) Executive Order 12333, United States Intelligence Activities, provides for the organization and control of United States foreign intelligence and counterintelligence activities. DOE has established a counterintelligence program subject to this Executive Order which is described in DOE Order 475.1, Counterintelligence Program, or its successor. All DOE elements, including management and operating contractors and other contractors managing DOE-owned facilities which require access authorizations, should undertake the necessary precautions to ensure that DOE and covered Contractor personnel, programs and resources are properly protected from foreign intelligence threats and activities.

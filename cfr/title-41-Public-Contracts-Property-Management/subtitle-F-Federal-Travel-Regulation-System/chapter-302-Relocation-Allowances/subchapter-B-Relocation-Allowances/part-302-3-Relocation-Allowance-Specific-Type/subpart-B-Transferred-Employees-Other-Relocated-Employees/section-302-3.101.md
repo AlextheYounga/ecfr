@@ -1,5 +1,7 @@
 ##### § 302-3.101 As a transferred employee or other relocated employee what relocation allowances must my agency pay or reimburse to me? #####
 
+Link to an amendment published at 89 FR 89503, Nov. 13, 2024.
+
 As a transferred employee or other relocated employee there are mandatory and discretionary relocation expenses. Once an agency decision is made to pay or reimburse relocation expenses indicated for the type of relocation in tables (A) through (I) of this section, all the mandatory allowance must be paid or reimbursed, unless otherwise stated in the applicable parts. The discretionary relocation allowances indicated in tables (A) through (I) of this section may or may not be paid by the agency.
 
 |                                                                                             Column 1—Relocation allowances that agency must pay or reimburse                                                                                              |  Column 2—Relocation allowances that agency has discretionary authority to pay or reimburse   |

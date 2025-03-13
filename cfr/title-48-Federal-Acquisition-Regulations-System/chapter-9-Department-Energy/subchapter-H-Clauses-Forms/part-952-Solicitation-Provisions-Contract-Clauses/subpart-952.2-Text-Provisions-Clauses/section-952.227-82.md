@@ -1,5 +1,7 @@
 ##### 952.227-82 Rights to proposal data. #####
 
+Link to an amendment published at 89 FR 89770, Nov. 13, 2024.
+
 Pursuant to 927.7002(d), include this clause in any contract which the decision to make the award included consideration of a technical proposal.
 
 Rights to Proposal Data (APR 1994)

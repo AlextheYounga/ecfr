@@ -1,5 +1,7 @@
 ##### 915.404-4-71-5 Fee schedules. #####
 
+Link to an amendment published at 89 FR 89750, Nov. 13, 2024.
+
 (a) The schedules included in this paragraph, adjusted in accordance with provisions of this section and 915.404-4-71-6, provide maximum fee levels for construction and construction management contracts. The fees are related to the estimated cost (fee base) for the construction work and services to be performed. The schedule in paragraph (d) of this section sets forth the basic fee schedule for construction contracts. The schedule in paragraph (f) of this section sets forth the basic fee schedule for construction management contracts. A separate schedule in paragraph (h) of this section has been developed for determining the fee applicable to special equipment purchases and to reflect a differing level of fee consideration associated with the subcontractor effort under construction management contracts. (See 915.404-4-71-6(c) and 915.404-4-71-6(d)).
 
 (b) The schedules cited in paragraph (a) of this section provide the maximum fee amount for a CPFF contract arrangement. If a fixed-price type contract is to be awarded, the fee amount set forth in the fee schedules shall be increased by an amount not to exceed 4 percent of the fee base.

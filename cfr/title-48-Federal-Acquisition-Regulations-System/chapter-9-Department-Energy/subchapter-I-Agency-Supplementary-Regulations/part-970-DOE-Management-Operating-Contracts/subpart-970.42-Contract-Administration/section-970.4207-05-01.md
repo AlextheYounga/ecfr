@@ -1,5 +1,7 @@
 ##### 970.4207-05-01 Contracting officer determination procedure. #####
 
+Link to an amendment published at 89 FR 89789, Nov. 13, 2024.
+
 (b)(4) A contracting officer shall not resolve any questioned costs until the contracting officer has obtained—
 
 (i) Adequate documentation with respect to such costs; and

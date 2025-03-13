@@ -1,5 +1,7 @@
 ##### 952.226-70 Subcontracting goals under section 3021(a) of the Energy Policy Act of 1992. #####
 
+Link to an amendment published at 89 FR 89766, Nov. 13, 2024.
+
 As prescribed in 926.7007(a), insert the following provision:
 
 Subcontracting Goals Under Section 3021(a) of the Energy Policy Act of 1992 (Pub. L. 102-486) (JUN 1996)

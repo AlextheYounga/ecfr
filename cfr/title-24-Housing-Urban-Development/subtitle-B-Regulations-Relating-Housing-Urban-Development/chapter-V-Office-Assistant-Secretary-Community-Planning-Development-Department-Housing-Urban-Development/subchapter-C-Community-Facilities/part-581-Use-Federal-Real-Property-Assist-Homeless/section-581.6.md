@@ -1,5 +1,7 @@
 ##### § 581.6 Suitability criteria. #####
 
+Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+
 (a) All properties, buildings and land will be determined suitable unless a property's characteristics include one or more of the following conditions:
 
 (1) *National security concerns.* A property located in an area to which the general public is denied access in the interest of national security (e.g., where a special pass or security clearance is a condition of entry to the property) will be determined unsuitable. Where alternative access can be provided for the public without compromising national security, the property will not be determined unsuitable on this basis.

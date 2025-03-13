@@ -1,5 +1,7 @@
 ##### 952.223-75 Preservation of individual occupational radiation exposure records. #####
 
+Link to an amendment published at 89 FR 89766, Nov. 13, 2024.
+
 As prescribed at 923.7003(h), insert the clause in contracts containing 952.223-71, Integration of environment, safety, and health into work planning and execution, or 952.223-72, Radiation protection and nuclear criticality:
 
 Preservation of Individual Occupational Radiation Exposure Records (APR 1984)

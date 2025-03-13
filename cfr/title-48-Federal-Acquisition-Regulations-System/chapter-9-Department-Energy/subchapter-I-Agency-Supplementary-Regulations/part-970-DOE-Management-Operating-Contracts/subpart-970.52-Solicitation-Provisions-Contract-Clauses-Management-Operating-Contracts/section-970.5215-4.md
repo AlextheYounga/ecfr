@@ -1,5 +1,7 @@
 ##### 970.5215-4 Cost reduction. #####
 
+Link to an amendment published at 89 FR 89793, Nov. 13, 2024.
+
 As prescribed in 970.1504-5(c), insert the following clause:
 
 Cost Reduction (AUG 2009)

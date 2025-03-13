@@ -1,5 +1,7 @@
 ##### 970.5223-7 Sustainable acquisition program. #####
 
+Link to an amendment published at 89 FR 89799, Nov. 13, 2024.
+
 As prescribed in 970.2301-2, insert the following clause in contracts:
 
 Sustainable Acquisition Program (OCT 2010)

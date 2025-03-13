@@ -1,5 +1,7 @@
 ##### 970.5223-4 Workplace Substance Abuse Programs at DOE Sites. #####
 
+Link to an amendment published at 89 FR 89799, Nov. 13, 2024.
+
 As prescribed in 970.2305-4(b), insert the following clause:
 
 Workplace Substance Abuse Programs at DOE Sites (DEC 2010)

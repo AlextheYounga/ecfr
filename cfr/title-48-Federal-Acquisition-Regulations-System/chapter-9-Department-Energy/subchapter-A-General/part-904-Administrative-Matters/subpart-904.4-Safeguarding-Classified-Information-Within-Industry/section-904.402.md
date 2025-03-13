@@ -1,5 +1,7 @@
 ##### 904.402 General. #####
 
+Link to an amendment published at 89 FR 89747, Nov. 13, 2024.
+
 (a) The basis of Department of Energy's (DOE) industrial security requirements is the Atomic Energy Act of 1954, as amended, and Executive Orders 12958 and 12829.
 
 (b) DOE security regulations concerning restricted data are codified at 10 CFR part 1045.

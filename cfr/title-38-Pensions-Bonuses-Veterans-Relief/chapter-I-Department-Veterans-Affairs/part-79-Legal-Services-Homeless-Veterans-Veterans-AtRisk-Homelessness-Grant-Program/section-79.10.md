@@ -1,5 +1,7 @@
 ##### § 79.10 Eligible entities. #####
 
+Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
+
 (a) To be an eligible entity under this part, the entity must:
 
 (1) Be a public or nonprofit private entity with the capacity to effectively administer a grant under this part;

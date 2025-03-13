@@ -1,5 +1,7 @@
 ##### 970.5227-10 Patent rights—management and operating contracts, nonprofit organization or small business firm contractor. #####
 
+Link to an amendment published at 89 FR 89811, Nov. 13, 2024.
+
 As prescribed in 970.2703-1(b)(2), insert the following clause:
 
 Patent Rights-Management and Operating Contracts, Nonprofit Organization or Small Business Firm Contractor (DEC 2000)

@@ -1,5 +1,7 @@
 ##### 915.404-4-70-5 Special considerations—contracts with nonprofit organizations (other than educational institutions). #####
 
+Link to an amendment published at 89 FR 89749, Nov. 13, 2024.
+
 (a) For purposes of identification, nonprofit organizations are defined as those business entities organized and operated exclusively for charitable, scientific, or educational purposes, of which no part of the net earnings inure to the benefit of any private shareholder or individual, of which no substantial part of the activities is attempting to influence legislation or participating in any political campaign on behalf of any candidate for public office, and which are exempt from Federal income taxation under section 501 of the Internal Revenue Code.
 
 (b) In computing the amount of profit or fee to be paid, the DOE negotiating official shall take into account the tax benefits received by a nonprofit organization. While it is difficult to establish the degree to which a remuneration under any given contract contributes to an organization's overall net profit, the DOE negotiating official should assume that there is an element of profit in any amount to be paid.

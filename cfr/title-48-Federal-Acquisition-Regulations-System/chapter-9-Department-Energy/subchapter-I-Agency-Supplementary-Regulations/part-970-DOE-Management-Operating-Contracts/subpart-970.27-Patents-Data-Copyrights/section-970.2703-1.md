@@ -1,5 +1,7 @@
 ##### 970.2703-1 Purposes of patent rights clauses. #####
 
+Link to an amendment published at 89 FR 89786, Nov. 13, 2024.
+
 (a) DOE sites and facilities are managed and operated on behalf of the Department of Energy by a contractor, pursuant to management and operating contracts that are generally awarded for a five (5) year term, with the possibility for renewal. Special provisions relating to patent rights are appropriately incorporated into an M&O contract because of the unique circumstances and responsibilities of managing and operating a Government-owned facility, as compared to other federally funded research and development contracts.
 
 (b)(1) *Technology transfer mission clause.* In accordance with Public Law 101-189, section 3133(d), DOE may grant technology transfer authority to M&O contractors operating a DOE facility. Generally, M&O contractors have the right to elect to retain title to inventions made under the contract, whether a nonprofit or educational organizations, as a result of 35 U.S.C. 200 *et seq.* (Bayh-Dole Act), or a large business, as a result of a class patent waiver issued pursuant to 10 CFR part 784. Under such contracts, the M&O contractor assumes responsibilities for commercializing retained inventions, in accordance with the Technology Transfer Mission clause provided at 970.5227-3. That clause also governs such activities as the distribution of royalties earned from inventions made under the contract and the transfer of patent rights in inventions made under the contract to successor contractors.

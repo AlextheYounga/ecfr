@@ -1,5 +1,7 @@
 ##### 952.233-2 Service of protest. #####
 
+Link to an amendment published at 89 FR 89771, Nov. 13, 2024.
+
 As prescribed in 933.106(a), add the following to the end of the provision at 48 CFR 52.233-2:
 
 (c) Another copy of a protest filed with the Government Accountability Office shall be furnished to the following address within the time periods described in paragraph (b) of this clause: U.S. Department of Energy, Assistant General Counsel for Procurement and Financial Assistance (GC-61), 1000 Independence Avenue, SW., Washington, DC 20585, Fax: (202) 586-4546.

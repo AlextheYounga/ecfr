@@ -1,5 +1,7 @@
 ##### 970.2306 Suspension of payments, termination of contract, and debarment and suspension actions. #####
 
+Link to an amendment published at 89 FR 89785, Nov. 13, 2024.
+
 (a) The contracting officer shall comply with the procedures of 48 CFR 23.506 regarding the suspension of contract payments, the termination of the contract for default, and the debarment and suspension of a contractor relative to failure to comply with the clause at 970.5223-4, Workplace Substance Abuse Programs at DOE Sites.
 
 (b) For purposes of 10 CFR part 707, the specific causes for suspension of contract payments, termination of the contract for default, and debarment and suspension of the contractor are:

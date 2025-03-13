@@ -1,5 +1,7 @@
 ##### 901.602-3 Ratification of unauthorized commitments. #####
 
+Link to an amendment published at 89 FR 89746, Nov. 13, 2024.
+
 (b)(2) The Senior Procurement Executives are authorized to ratify unauthorized commitments.
 
 (3) The ratification authority of the DOE and NNSA Senior Procurement Executives in paragraph (b)(2) of this section is delegated to the Head of the Contracting Activity (HCA) for individual unauthorized commitments of $25,000 or under. The ratification authority of the HCA is nondelegable.

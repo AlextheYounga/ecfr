@@ -1,5 +1,7 @@
 ##### § 581.3 Collecting the information. #####
 
+Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+
 (a) *Canvass of landholding agencies.* On a quarterly basis, HUD will canvass landholding agencies to collect information about property described as unutilized, underutilized, excess, or surplus, in surveys conducted by the agencies under section 202 of the Federal Property and Administrative Services Act (40 U.S.C. 483), Executive Order 12512, and 41 CFR part 101-47.800. Each canvass will collect information on properties not previously reported and about property reported previously the status or classification of which has changed or for which any of the information reported on the property checklist has changed.
 
 (1) HUD will request descriptive information on properties sufficient to make a reasonable determination, under the criteria described below, of the suitability of a property for use as a facility to assist the homeless.

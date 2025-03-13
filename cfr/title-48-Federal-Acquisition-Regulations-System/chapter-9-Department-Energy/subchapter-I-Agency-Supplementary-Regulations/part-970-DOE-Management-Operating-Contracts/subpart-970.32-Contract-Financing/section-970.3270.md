@@ -1,5 +1,7 @@
 ##### 970.3270 Standard financial management clauses. #####
 
+Link to an amendment published at 89 FR 89788, Nov. 13, 2024.
+
 (a) The following DEAR and FAR clauses are standard financial management clauses. The contracting officer shall insert them in all management and operating contracts:
 
 (1) *970.5232-2, Payments and Advances.* (i) The contracting officer shall insert the basic clause with its Alternate I if a separate fixed-fee is provided for a separate item of work.

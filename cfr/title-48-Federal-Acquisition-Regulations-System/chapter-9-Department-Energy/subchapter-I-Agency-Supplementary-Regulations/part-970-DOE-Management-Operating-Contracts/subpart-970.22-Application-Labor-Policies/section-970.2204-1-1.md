@@ -1,5 +1,7 @@
 ##### 970.2204-1-1 Administrative controls and criteria for application of the Davis-Bacon Act in operational or maintenance activities. #####
 
+Link to an amendment published at 89 FR 89785, Nov. 13, 2024.
+
 (a) Particular work items falling within one or more of the following criteria normally will be classified as non-covered by the Davis-Bacon Act, hereinafter referred to in this section as the “Act.”
 
 (1) Individual work items estimated to cost $2,000 or less. The total dollar amount of the management and operating contract is not a factor to be considered and bears no relation to individual work items classified as construction, alteration and/or repair, including painting and decorating. However, no item of work, the cost of which is estimated to be in excess of $2,000, shall be artificially divided into portions less than $2,000 for the purpose of avoiding the application of the Act.

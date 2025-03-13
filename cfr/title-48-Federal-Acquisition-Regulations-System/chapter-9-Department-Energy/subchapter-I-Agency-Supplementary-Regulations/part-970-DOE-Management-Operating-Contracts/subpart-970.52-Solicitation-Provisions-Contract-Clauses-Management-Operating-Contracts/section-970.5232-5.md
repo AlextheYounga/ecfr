@@ -1,5 +1,7 @@
 ##### 970.5232-5 Liability with respect to cost accounting standards. #####
 
+Link to an amendment published at 89 FR 89827, Nov. 13, 2024.
+
 As prescribed in 970.3270(a)(5), insert the following clause:
 
 Liability With Respect to Cost Accounting Standards (DEC 2000)

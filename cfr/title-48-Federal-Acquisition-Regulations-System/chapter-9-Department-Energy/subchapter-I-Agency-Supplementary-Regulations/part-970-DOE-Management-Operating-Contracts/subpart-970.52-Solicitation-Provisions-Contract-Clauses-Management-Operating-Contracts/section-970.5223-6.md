@@ -1,5 +1,7 @@
 ##### 970.5223-6 Executive Order 13423, Strengthening Federal Environmental, Energy, and Transportation Management. #####
 
+Link to an amendment published at 89 FR 89799, Nov. 13, 2024.
+
 In accordance with the prescriptions at 923.002(b) or 970.2301-2(b), insert the following in contracts for the operation of a DOE facility or motor vehicle fleet.
 
 Executive Order 13423, Strengthening Federal Environmental, Energy, and Transportation Management (OCT 2010)

@@ -1,5 +1,7 @@
 ##### 902.101 Definitions. #####
 
+Link to an amendment published at 89 FR 89746, Nov. 13, 2024.
+
 *Agency Head* or *Head of the Agency* means—
 
 (1) For the Department of Energy (DOE)—

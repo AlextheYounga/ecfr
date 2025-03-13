@@ -1,5 +1,7 @@
 ##### 904.7102 Waiver by the Secretary. #####
 
+Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
+
 (a) 10 U.S.C. 2536(b)(1)(A) allows the Secretary of Energy to waive the prohibition on the award of contracts set forth in 10 U.S.C. 2536(a) if the Secretary determines that a waiver is essential to the national security interests of the United States. Any request for a waiver regarding award of a contract or execution of a novation agreement shall address—
 
 (1) Identification of the proposed awardee and description of the control by a foreign government;

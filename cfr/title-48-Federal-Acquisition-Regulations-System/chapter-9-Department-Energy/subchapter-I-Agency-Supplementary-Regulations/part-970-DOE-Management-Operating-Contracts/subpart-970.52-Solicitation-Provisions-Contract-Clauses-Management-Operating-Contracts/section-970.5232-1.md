@@ -1,5 +1,7 @@
 ##### 970.5232-1 Reduction or suspension of advance, partial, or progress payments upon finding of substantial evidence of fraud. #####
 
+Link to an amendment published at 89 FR 89825, Nov. 13, 2024.
+
 As prescribed in 970.3200-1-1, insert the following clause:
 
 Reduction or Suspension of Advance, Partial, or Progress Payments (DEC 2000)

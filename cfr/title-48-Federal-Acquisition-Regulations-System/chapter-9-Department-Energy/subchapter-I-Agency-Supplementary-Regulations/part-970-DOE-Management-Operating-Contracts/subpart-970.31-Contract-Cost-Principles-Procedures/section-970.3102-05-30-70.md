@@ -1,5 +1,7 @@
 ##### 970.3102-05-30-70 Patent costs and technology transfer costs. #####
 
+Link to an amendment published at 89 FR 89788, Nov. 13, 2024.
+
 (a) For management and operating contracts that do not include the clause at 970.5227-3, Technology Transfer Mission, the cost principle at 48 CFR 31.205-30 applies.
 
 (b) For management and operating contracts that do include the clause at 970.5227-3, Technology Transfer Mission, the following patent and technology transfer costs are allowable—

@@ -1,5 +1,7 @@
 ##### 952.215-70 Key Personnel. #####
 
+Link to an amendment published at 89 FR 89765, Nov. 13, 2024.
+
 As prescribed in 915.408-70, the contracting officer shall insert the following clause:
 
 Key Personnel (DEC 2000)

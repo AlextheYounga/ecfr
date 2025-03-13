@@ -1,5 +1,7 @@
 ##### 970.5244-1 Contractor purchasing system. #####
 
+Link to an amendment published at 89 FR 89827, Nov. 13, 2024.
+
 As prescribed in 970.4403 insert the following clause:
 
 Contractor Purchasing System (AUG 2016)

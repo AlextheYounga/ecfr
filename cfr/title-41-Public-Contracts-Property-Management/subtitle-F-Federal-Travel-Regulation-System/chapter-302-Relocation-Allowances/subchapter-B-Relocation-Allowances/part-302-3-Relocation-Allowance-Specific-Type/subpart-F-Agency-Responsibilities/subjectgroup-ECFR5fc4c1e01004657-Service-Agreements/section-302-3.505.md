@@ -1,5 +1,7 @@
 ##### § 302-3.505 How long must we require an employee to agree to the terms of a service agreement? #####
 
+Link to an amendment published at 89 FR 89504, Nov. 13, 2024.
+
 You must require an employee to agree to the terms of a service agreement:
 
 (a) Within CONUS for a period of service of not less than 12 months following the effective date of appointment or transfer;

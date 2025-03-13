@@ -1,5 +1,7 @@
 ##### 970.2303-2-70 General. #####
 
+Link to an amendment published at 89 FR 89785, Nov. 13, 2024.
+
 (a) The Department of Energy regulates the nuclear safety of its major facilities under its own statutory authority derived from the Atomic Energy Act and other legislation. The Department also regulates, under certain specific conditions, the use by its contractors of radioactive materials and ionizing radiation producing machines.
 
 (b) The inclusion of environmental, safety and health clauses in DOE contracts shall be made by the contracting officer in accordance with this subpart and in consultation with appropriate environmental, safety and health program management personnel.

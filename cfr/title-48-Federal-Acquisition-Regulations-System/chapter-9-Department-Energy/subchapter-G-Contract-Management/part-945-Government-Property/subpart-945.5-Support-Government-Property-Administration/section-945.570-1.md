@@ -1,5 +1,7 @@
 ##### 945.570-1 Acquisition of motor vehicles. #####
 
+Link to an amendment published at 89 FR 89760, Nov. 13, 2024.
+
 (a) GSA Interagency Fleet Management System (GSA-IFMS) is the first source of supply for providing motor vehicles to contractors; however, contracting officer approval is required for contractors to utilize this service.
 
 (b) Prior approval of GSA must be obtained before—

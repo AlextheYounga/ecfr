@@ -1,5 +1,7 @@
 ##### 908.7115 Forms. #####
 
+Link to an amendment published at 89 FR 89748, Nov. 13, 2024.
+
 (a) DOE forms shall be obtained by DOE offices in accordance with the DOE Guide 242.1-1, DOE Forms Management, for use with DOE Order 200.1, Information Management Program.
 
 (b) Standard, optional, and certain other agency forms as listed in the GSA Supply Catalog will be obtained by DOE offices in accordance with FPMR 41 CFR 101-26.302.

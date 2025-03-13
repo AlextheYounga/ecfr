@@ -1,5 +1,7 @@
 ##### 915.404-4-70-2 Weighted guidelines system. #####
 
+Link to an amendment published at 89 FR 89749, Nov. 13, 2024.
+
 (a) To properly reflect differences among contracts and the circumstances relating thereto and to select an appropriate relative profit/fee in consideration of these differences and circumstances, weightings have been developed for application by the contracting officer to standard measurement bases representative of the prescribed profit factors cited in 48 CFR 15.404-4(d) and paragraph (d) of this section. This is a structured system, referred to as weighted guidelines. Each profit factor or subfactor, or component thereof, has been assigned weights relative to their value to the contract's overall effort. The range of weights to be applied to each profit factor is also set forth in paragraph (d) of this section. Guidance on how to apply the weighted guidelines is set forth in 915.404-4-70-8.
 
 (b) Except as set forth in 915.404-4-70-4, the weighted guidelines shall be used in establishing the profit objective for negotiation of contracts where cost analysis is performed.

@@ -1,5 +1,7 @@
 ##### 970.2704-2 Procedures. #####
 
+Link to an amendment published at 89 FR 89787, Nov. 13, 2024.
+
 (a) The clauses at 48 CFR 970.5227-1, Rights in Data-Facilities, and 48 CFR 970.5227-2, Rights in Data—Technology Transfer, both provide generally for Government ownership and for unlimited rights in the Government for all data first produced in the performance of the contract and unlimited rights in data specifically used in the performance of the contract. Both clauses provide that, subject to patent, security, and other provisions of the contract, the contractor may use contract data for its private purposes. The contractor, under either clause, must treat any data furnished by DOE or acquired from other Government agencies or private entities in the performance of their contracts in accordance with any restrictive legends contained therein.
 
 (b) Since both clauses secure access to and, if requested, delivery of technical data used in the performance of the contract, there is generally no need to use the Additional Technical Data Requirements clause at 48 CFR 52.227-16 in the management and operating contract.

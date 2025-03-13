@@ -1,5 +1,7 @@
 ##### 970.5204-1 Counterintelligence. #####
 
+Link to an amendment published at 89 FR 89789, Nov. 13, 2024.
+
 (a) As prescribed in 970.0404-4(a), insert the following clause in contracts containing the clauses at 952.204-2, Security, and 952.204-70, Classification/Declassification:
 
 Counterintelligence (DEC 2010)

@@ -1,5 +1,7 @@
 ##### 952.231-71 Insurance-litigation and claims. #####
 
+Link to an amendment published at 89 FR 89770, Nov. 13, 2024.
+
 As prescribed in 931.205-19(f), insert the following clause in applicable non-management and operating contracts:
 
 Insurance—Litigation and Claims (JUL 2013)

@@ -1,5 +1,7 @@
 ##### 970.0100 Scope of part. #####
 
+Link to an amendment published at 89 FR 89775, Nov. 13, 2024.
+
 This part provides Departmental policies, procedures, provisions, and clauses that implement and supplement the Federal Acquisition Regulation (FAR) (Chapter 1 of Title 48 Code of Federal Regulations (CFR)) and other parts of the Department of Energy Acquisition Regulation (DEAR) (Chapter 9 of Title 48 CFR) for the award and administration of the Department's management and operating contracts, as defined at 48 CFR subpart 17.6. The FAR and other parts of the DEAR apply to management and operating contracts. See 970.5200 for guidance regarding which provisions and clauses (from FAR, part 970, or other parts of the DEAR) to include in management and operating contracts.
 
 [65 FR 81009, Dec. 22, 2000, as amended at 74 FR 36370, July 22, 2009; 75 FR 68219, Nov. 5, 2010]

@@ -1,5 +1,7 @@
 ##### § 302-3.515 What special rules must we apply for reimbursement of tour renewal travel for employees stationed, assigned, appointed or transferred to/from Alaska or Hawaii? #####
 
+Link to an amendment published at 89 FR 89504, Nov. 13, 2024.
+
 The following rules apply:
 
 (a) If on September 8, 1982 the employee was serving or committed to serve a tour of duty in Alaska or Hawaii then the employee shall continue to receive reimbursement for tour renewal agreement travel;

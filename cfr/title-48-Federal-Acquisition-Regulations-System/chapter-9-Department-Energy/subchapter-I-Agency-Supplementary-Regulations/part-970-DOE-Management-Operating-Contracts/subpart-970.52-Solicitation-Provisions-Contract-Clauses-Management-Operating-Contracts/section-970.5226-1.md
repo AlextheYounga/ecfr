@@ -1,5 +1,7 @@
 ##### 970.5226-1 Diversity plan. #####
 
+Link to an amendment published at 89 FR 89799, Nov. 13, 2024.
+
 As prescribed in 970.2671-2, insert the following clause:
 
 Diversity Plan (DEC 2000)

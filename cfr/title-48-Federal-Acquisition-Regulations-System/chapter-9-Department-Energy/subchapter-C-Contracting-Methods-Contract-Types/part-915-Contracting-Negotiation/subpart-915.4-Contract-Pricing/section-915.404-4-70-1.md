@@ -1,5 +1,7 @@
 ##### 915.404-4-70-1 General. #####
 
+Link to an amendment published at 89 FR 89749, Nov. 13, 2024.
+
 (a) *Objective.* It is the intent of DOE to remunerate contractors for financial and other risks which they may assume, resources they use, and organization, performance and management capabilities they employ. Profit or fee shall be negotiated for this purpose; however, when profit or fee is determined as a separate element of the contract price, the aim of negotiation should be to fit it to the acquisition, giving due weight to effort, risk, facilities investment, and special factors as set forth in this subpart.
 
 (b) *Commercial (profit) organization.* Profit or fee prenegotiation objectives for contracts with commercial (profit) organizations shall be determined as provided in this subpart.

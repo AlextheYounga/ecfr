@@ -1,5 +1,7 @@
 ##### 952.204-73 Facility clearance. #####
 
+Link to an amendment published at 89 FR 89763, Nov. 13, 2024.
+
 As prescribed in 904.404(d)(5), insert the following provision in all solicitations which require the use of Standard Form 328, Certificate Pertaining to Foreign Interests, for contracts or subcontracts subject to the provisions of 904.70:
 
 Facility Clearance (AUG 2016)Notices

@@ -1,5 +1,7 @@
 ##### § 581.10 Action on approved applications. #####
 
+Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+
 (a) *Unutilized and underutilized properties.* (1) When HHS approves an application, it will so notify the applicant and forward a copy of the application to the landholding agency. The landholding agency will execute the lease, or permit document, as appropriate, in consultation with the applicant.
 
 (2) The landholding agency maintains the discretion to decide the following:

@@ -1,5 +1,7 @@
 ##### § 581.2 Applicability. #####
 
+Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+
 (a) This part applies to Federal real property which has been designated by Federal landholding agencies as unutilized, underutilized, excess or surplus and is therefore subject to the provisions of title V of the McKinney Act (42 U.S.C. 11411).
 
 (b) The following categories of properties are not subject to this subpart (regardless of whether they may be unutilized or underutilized).

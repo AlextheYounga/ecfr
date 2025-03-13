@@ -1,5 +1,7 @@
 ##### 970.4401-1 General. #####
 
+Link to an amendment published at 89 FR 89789, Nov. 13, 2024.
+
 (a) In the Department of Energy (DOE), overall responsibility for the oversight of the performance of management and operating contractors, including their purchasing activities, rests with the cognizant DOE contracting activity and, in particular, the Head of the Contracting Activity (HCA). Contracting officers are responsible for the management and operating contractors' conformance with this subpart and the applicable terms and conditions of their contracts, and for determining whether those purchasing activities provide timely and effective support to DOE programs.
 
 (b) In carrying out their overall responsibilities, HCAs shall—

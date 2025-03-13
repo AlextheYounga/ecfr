@@ -1,5 +1,7 @@
 ##### 970.2201-1-2 Policies. #####
 
+Link to an amendment published at 89 FR 89783, Nov. 13, 2024.
+
 (a) The extent of Government ownership of the nation's energy plant and materials, and the overriding concerns of national defense and security, impose special conditions on personnel and labor relations in the energy program. Such special conditions include the need for continuity of vital operations at DOE installations; retention by DOE of absolute authority on all questions of security; and DOE review of labor expenses under management and operating contracts as a part of its responsibility for assuring judicious expenditure of public funds. It is the intent of DOE that personnel and labor policies throughout the energy program reflect the best experience of American industry in aiming to achieve the type of stable labor-management relations that are essential to the proper development of the energy program. The following enunciates the principles upon which the DOE policy is based:
 
 (1) *Employment standards.* (i) Management and operating contractors are expected to bring experienced, proven personnel from their private operations to staff key positions on the contract and to recruit other well-qualified personnel as needed. Such personnel should be employed and treated during employment without discrimination by reason of race, color, religion, sex, age, disability, or national origin. Contractors shall be required to take affirmative action to achieve these objectives.

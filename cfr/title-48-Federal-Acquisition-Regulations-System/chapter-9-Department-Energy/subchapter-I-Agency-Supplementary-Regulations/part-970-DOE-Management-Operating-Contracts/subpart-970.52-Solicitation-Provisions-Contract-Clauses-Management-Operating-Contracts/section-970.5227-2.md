@@ -1,5 +1,7 @@
 ##### 970.5227-2 Rights in data-technology transfer. #####
 
+Link to an amendment published at 89 FR 89800, Nov. 13, 2024.
+
 As prescribed in 48 CFR 970.2704-3(b), insert the following clause:
 
 Rights in Data—Technology Transfer (DEC 2000)

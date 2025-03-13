@@ -1,5 +1,7 @@
 ##### 970.5215-3 Conditional payment of fee, profit, and other incentives—facility management contracts #####
 
+Link to an amendment published at 89 FR 89791, Nov. 13, 2024.
+
 As prescribed in 970.1504-5(b)(1), insert the following clause:
 
 Conditional Payment of Fee, Profit, and Other Incentives—Facility Management Contracts (AUG 2009)

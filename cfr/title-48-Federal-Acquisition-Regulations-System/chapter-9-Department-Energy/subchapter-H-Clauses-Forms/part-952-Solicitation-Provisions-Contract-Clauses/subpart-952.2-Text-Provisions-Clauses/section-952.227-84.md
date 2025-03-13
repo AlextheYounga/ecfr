@@ -1,5 +1,7 @@
 ##### 952.227-84 Notice of right to request patent waiver. #####
 
+Link to an amendment published at 89 FR 89770, Nov. 13, 2024.
+
 Include this provision in all appropriate solicitations in accordance with 48 CFR 927.409(t).
 
 Right To Request Patent Waiver (FEB 1998)

@@ -1,5 +1,7 @@
 ##### 970.5227-5 Notice and assistance regarding patent and copyright infringement. #####
 
+Link to an amendment published at 89 FR 89811, Nov. 13, 2024.
+
 Insert the following clause in solicitations and contracts in accordance with 970.2702-2:
 
 Notice and Assistance Regarding Patent and Copyright Infringement (DEC 2000)

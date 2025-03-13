@@ -1,5 +1,7 @@
 ##### § 581.1 Definitions. #####
 
+Link to an amendment published at 89 FR 89880, Nov. 13, 2024.Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+
 *Applicant* means any representative of the homeless which has submitted an application to the Department of Health and Human Services to obtain use of a particular suitable property to assist the homeless.
 
 *Checklist or property checklist* means the form developed by HUD for use by landholding agencies to report the information to be used by HUD in making determinations of suitability.

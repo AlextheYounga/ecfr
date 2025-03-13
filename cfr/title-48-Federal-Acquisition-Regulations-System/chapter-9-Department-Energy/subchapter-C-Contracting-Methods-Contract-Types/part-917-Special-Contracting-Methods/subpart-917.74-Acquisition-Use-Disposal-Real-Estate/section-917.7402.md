@@ -1,5 +1,7 @@
 ##### 917.7402 Policy. #####
 
+Link to an amendment published at 89 FR 89750, Nov. 13, 2024.
+
 It is the policy of the Department of Energy that, when real estate acquisitions are made, the following policies and procedures shall be applied to such acquisitions—
 
 (a) Real estate acquisitions shall be mission essential; effectively, economically, and efficiently managed and utilized; and disposed of promptly, when not needed;

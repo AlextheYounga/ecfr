@@ -1,5 +1,7 @@
 ##### 932.970 Implementing DOE policies and procedures. #####
 
+Link to an amendment published at 89 FR 89758, Nov. 13, 2024.
+
 (a) *Invoice payments*—(1) *Contract settlement date.* For purposes of determining any interest penalties under cost-type contracts, the effective date of contract settlement shall be the effective date of the final contract modification issued to acknowledge contract settlement and to close out the contract.
 
 (2) *Constructive acceptance periods.* Where the contracting officer determines, in writing, on a case-by-case basis, that it is not reasonable or feasible for DOE to perform the acceptance or approval function within the standard period, the contracting officer should specify a longer constructive acceptance or approval period, as appropriate. Considerations include, but are not limited to, the nature of supplies or services involved, geographical site location, inspection and testing requirements, shipping and acceptance terms, and available DOE resources.

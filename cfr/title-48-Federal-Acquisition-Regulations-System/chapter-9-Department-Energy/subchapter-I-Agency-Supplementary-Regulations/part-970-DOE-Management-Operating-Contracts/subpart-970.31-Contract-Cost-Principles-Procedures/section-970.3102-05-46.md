@@ -1,5 +1,7 @@
 ##### 970.3102-05-46 Travel costs. #####
 
+Link to an amendment published at 89 FR 89788, Nov. 13, 2024.
+
 (a) *Costs for transportation, lodging, meals, and incidental expenses.* (1) Costs incurred by contractor personnel on official company business are allowable, subject to the limitations contained in this subsection. Costs for transportation may be based on mileage rates, actual costs incurred, or on a combination thereof, provided the method used results in a reasonable charge. Costs for lodging, meals, and incidental expenses may be based on per diem, actual expenses, or a combination thereof, provided the method used results in a reasonable charge.
 
 (2) Except as provided in paragraph (a)(3) of this subsection, costs incurred for lodging, meals, and incidental expenses (as defined in the regulations cited in paragraphs (a)(2)(i) through (iii) of this subsection) shall be considered to be reasonable and allowable only to the extent that they do not exceed on a daily basis the maximum per diem rates in effect at the time of travel as set forth in the—

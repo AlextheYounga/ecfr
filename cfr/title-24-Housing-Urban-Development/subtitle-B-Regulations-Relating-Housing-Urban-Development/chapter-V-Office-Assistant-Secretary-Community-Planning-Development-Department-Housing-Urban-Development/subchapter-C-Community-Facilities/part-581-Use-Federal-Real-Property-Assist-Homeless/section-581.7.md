@@ -1,5 +1,7 @@
 ##### § 581.7 Determination of availability. #####
 
+Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+
 (a) Within 45 days after receipt of a letter from HUD pursuant to § 581.4(a), each landholding agency must transmit to HUD a statement of one of the following:
 
 (1) In the case of unutilized or underutilized property:

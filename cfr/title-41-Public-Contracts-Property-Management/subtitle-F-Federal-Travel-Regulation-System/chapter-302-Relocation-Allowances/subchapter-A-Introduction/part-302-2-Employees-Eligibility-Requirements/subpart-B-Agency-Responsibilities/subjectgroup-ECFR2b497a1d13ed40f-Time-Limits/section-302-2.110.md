@@ -1,5 +1,7 @@
 ##### § 302-2.110 Are there time factors that we must consider for allowing an employee to complete all aspects of relocation? #####
 
+Link to an amendment published at 89 FR 89503, Nov. 13, 2024.
+
 Yes, you should encourage employees to begin travel as soon as possible after authorization of travel is approved and inform employees that they must complete all aspects of relocation within a 1-year period from the employee's effective date of transfer or appointment, unless the employee's 1-year period is extended to include:
 
 (a) Time spent on military furlough;

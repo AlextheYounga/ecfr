@@ -1,5 +1,7 @@
 ##### 970.5217-1 Strategic Partnership Projects Program. #####
 
+Link to an amendment published at 89 FR 89793, Nov. 13, 2024.
+
 As prescribed in 970.1707-4 insert the following clause:
 
 Strategic Partnership Projects Program (Non-DOE Funded Work) (April 23, 2015)

@@ -1,5 +1,7 @@
 ##### 915.404-4-70-4 Exceptions. #####
 
+Link to an amendment published at 89 FR 89749, Nov. 13, 2024.
+
 (a) For contracts not expected to exceed the threshold stated at 48 CFR 15.403-4(a)(1), the weighted guidelines need not be used; however, the contracting officer may use the weighted guidelines for contracts below this amount if he or she elects to do so.
 
 (b) For the following classes of contracts, the weighted guidelines shall not be used—

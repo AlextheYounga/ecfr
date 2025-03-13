@@ -1,5 +1,7 @@
 ##### 970.5232-6 Strategic partnership project funding authorization. #####
 
+Link to an amendment published at 89 FR 89827, Nov. 13, 2024.
+
 As prescribed in 970.3270(a)(6), insert the following clause:
 
 Strategic Partnership Project Funding Authorization (April 23, 2015)

@@ -1,5 +1,7 @@
 ##### 952.227-14 Rights in data-general. (DOE coverage—alternates VI and VII) #####
 
+Link to an amendment published at 89 FR 89770, Nov. 13, 2024.
+
 *Alternate VI* (FEB 1998) As prescribed at 48 CFR 927.404(l) insert Alternate VI to require the contractor to license data regarded as limited rights data or restricted computer software to the Government and third parties at reasonable royalties upon request by the Department of Energy.
 
 (k) *Contractor licensing.* Except as may be otherwise specified in this contract as data not subject to this paragraph, the contractor agrees that upon written application by DOE, it will grant to the Government and responsible third parties, for purposes of practicing a subject of this contract, a nonexclusive license in any limited rights data or restricted computer software on terms and conditions reasonable under the circumstances including appropriate provisions for confidentiality; provided, however, the contractor shall not be obliged to license any such data if the contractor demonstrates to the satisfaction of the Secretary of Energy or designee that:

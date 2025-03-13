@@ -1,5 +1,7 @@
 ##### 927.409 Solicitation provisions and contract clauses. (DOE coverage-paragraphs (a), (h), (s), and (t)) #####
 
+Link to an amendment published at 89 FR 89757, Nov. 13, 2024.
+
 (a)(1) The contracting officer shall insert the clause at FAR 52.227-14, Rights in Data-General, substituting the following paragraph (a) and including the following paragraph (d)(3) and Alternate V in solicitations and contracts if it is contemplated that data will be produced, furnished, or acquired under the contract; except contracting officers are authorized to use Alternate IV rather than paragraph (d)(3) in contracts for basic or applied research with educational institutions except where software is specified for delivery or except where other special circumstances exist:
 
 (a) *Definitions.* (1) *Computer data bases,* as used in this clause, means a collection of data in a form capable of, and for the purpose of, being stored in, processed, and operated on by a computer. The term does not include computer software.

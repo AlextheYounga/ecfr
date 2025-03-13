@@ -1,5 +1,7 @@
 ##### 915.404-4-71-6 Fee base. #####
 
+Link to an amendment published at 89 FR 89750, Nov. 13, 2024.
+
 (a) The fee base shown in the Construction Contracts Schedule and Construction Management Contracts Schedule represents that estimate of cost to which a percentage factor is applied to determine maximum fee allowances. The fee base is the estimated necessary allowable cost of the construction work or other services which are to be performed. It shall include the estimated cost for, but is not limited to, the following as they may apply in the case of a construction or construction management contract:
 
 (1) Site preparation and utilities.

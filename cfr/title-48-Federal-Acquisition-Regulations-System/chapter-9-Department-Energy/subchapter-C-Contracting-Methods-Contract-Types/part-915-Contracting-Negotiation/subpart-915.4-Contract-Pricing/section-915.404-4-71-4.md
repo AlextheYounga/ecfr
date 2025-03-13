@@ -1,5 +1,7 @@
 ##### 915.404-4-71-4 Considerations affecting fee amounts. #####
 
+Link to an amendment published at 89 FR 89750, Nov. 13, 2024.
+
 (a) In selecting final fee amounts for the various factors in 915.404-4-71-3 of this section, the DOE negotiating official will have to make several judgments as discussed in this subsection.
 
 (b) Complexity of a construction project shall be considered by analysis of its major parts. For a project which includes items of work of different degrees of complexity, a single average classification should be considered, or the work should be divided into separate classifications. The following class identifications are appropriate for proper fee determinations.

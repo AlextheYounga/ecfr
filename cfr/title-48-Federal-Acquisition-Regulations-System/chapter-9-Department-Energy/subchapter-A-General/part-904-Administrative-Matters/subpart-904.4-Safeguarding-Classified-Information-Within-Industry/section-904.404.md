@@ -1,5 +1,7 @@
 ##### 904.404 Solicitation provision and contract clause. #####
 
+Link to an amendment published at 89 FR 89747, Nov. 13, 2024.
+
 (d) The security clauses to be used in DOE contracts are found at 952.204. They are:
 
 (1) *Security, 952.204-2.* This clause is required in contracts and subcontracts, the performance of which involves or is likely to involve classified information, access to special nuclear materials or the provision of protective services. DOE utilizes the National Industrial Security Program but DOE's security authority is derived from the Atomic Energy Act which contains specific language not found in other agencies' authorities. For this reason, DOE contracts must contain the clause at 952.204-2 rather than the clause at 48 CFR 52.204-2.

@@ -1,5 +1,7 @@
 ##### 970.5235-1 Federally funded research and development center sponsoring agreement. #####
 
+Link to an amendment published at 89 FR 89827, Nov. 13, 2024.
+
 As prescribed in 970.3501-4, the contracting officer shall insert the following clause:
 
 Federally Funded Research and Development Center Sponsoring Agreement (DEC 2010)

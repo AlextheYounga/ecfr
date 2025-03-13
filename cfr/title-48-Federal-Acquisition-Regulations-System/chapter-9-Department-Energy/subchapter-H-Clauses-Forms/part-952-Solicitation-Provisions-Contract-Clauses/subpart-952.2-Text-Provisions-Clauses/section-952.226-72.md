@@ -1,5 +1,7 @@
 ##### 952.226-72 Energy Policy Act subcontracting goals and reporting requirements. #####
 
+Link to an amendment published at 89 FR 89766, Nov. 13, 2024.
+
 As prescribed in 926.7007(c), insert the following clause:
 
 Energy Policy Act Subcontracting Goals and Reporting Requirements (JUN 1996)

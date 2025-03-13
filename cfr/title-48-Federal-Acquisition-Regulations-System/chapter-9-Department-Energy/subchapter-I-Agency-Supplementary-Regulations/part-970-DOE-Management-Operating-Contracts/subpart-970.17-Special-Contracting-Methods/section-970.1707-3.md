@@ -1,5 +1,7 @@
 ##### 970.1707-3 Terms governing Strategic Partnership Projects. #####
 
+Link to an amendment published at 89 FR 89783, Nov. 13, 2024.
+
 (a) DOE's internal review and approval procedural requirements for individual strategic partnership projects agreements are set forth in DOE Order 481.1C (as supplemented by DOE Manual 481.1-1A for agreements with non-Federal entities), which may be amended from time to time, and such other guidance as may be issued by DOE. Contracting officers must ensure that the contractor's procedures for its operations are consistent with DOE's procedural requirements.
 
 (b) A contractor may perform work for other Federal or non-Federal sponsors only if—

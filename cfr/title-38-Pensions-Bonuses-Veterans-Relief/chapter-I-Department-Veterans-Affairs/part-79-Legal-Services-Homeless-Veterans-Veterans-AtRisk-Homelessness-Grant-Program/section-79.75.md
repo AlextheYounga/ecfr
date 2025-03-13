@@ -1,5 +1,7 @@
 ##### § 79.75 Program or budget changes and corrective action plans. #####
 
+Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
+
 (a) A grantee must submit to VA a written request to modify a legal services grant for any proposed significant change that will alter its legal services grant program. If VA approves such change, VA will issue a written amendment to the legal services grant agreement. A grantee must receive VA's approval prior to implementing a significant change. Significant changes include, but are not limited to, a change in the grantee or any subcontractors identified in the legal services grant agreement; a change in the area or community served by the grantee; additions or deletions of legal services provided by the grantee; a change in category of eligible veterans to be served; and a change in budget line items that are more than 10 percent of the total legal services grant award.
 
 (1) VA's approval of changes is contingent upon the grantee's amended application retaining a sufficient rank to have been competitively selected for funding in the year that the application was granted.

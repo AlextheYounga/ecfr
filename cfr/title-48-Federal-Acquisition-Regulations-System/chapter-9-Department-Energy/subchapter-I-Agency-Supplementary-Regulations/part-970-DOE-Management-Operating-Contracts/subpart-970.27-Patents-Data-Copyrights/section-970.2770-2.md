@@ -1,3 +1,5 @@
 ##### 970.2770-2 Policy. #####
 
+Link to an amendment published at 89 FR 89787, Nov. 13, 2024.
+
 All new awards for or extensions of existing DOE laboratory or weapon production facility management and operating contracts shall have technology transfer, including authorization to award Cooperative Research and Development Agreements (CRADAs), as a laboratory or facility mission under Section 11(a)(1) of the Stevenson-Wydler Technology Innovation Act of 1980, Public Law 96-480 (15 U.S.C. 3701 *et seq.,* as amended). A management and operating contractor for a facility not deemed to be a laboratory or weapon production facility may be authorized on a case-by-case basis to support the DOE technology transfer mission including, but not limited to, participating in CRADAs awarded by DOE laboratories and weapon production facilities.

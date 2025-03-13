@@ -1,5 +1,7 @@
 ##### § 302-15.10 How long may my agency pay under this part? #####
 
+Link to an amendment published at 89 FR 89504, Nov. 13, 2024.
+
 Your agency may pay:
 
 (a) For transfers within the United States for a period not to exceed one year from your effective date of transfer, with up to a 1-year extension, under the same conditions required in § 302-11.21 of this chapter; or

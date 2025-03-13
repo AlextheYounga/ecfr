@@ -1,5 +1,7 @@
 ##### 970.4207-03-02 Certificate of costs. #####
 
+Link to an amendment published at 89 FR 89789, Nov. 13, 2024.
+
 (a) The contracting officer shall require that management and operating contractors provide a submission, pursuant to 970.5232-2-(j), for settlement of costs incurred during the period stipulated on the submission and a certification that the costs included in the submission are allowable. The contracting officer shall assess a penalty pursuant to 970.5242-1 if unallowable costs are included in the submission. Unallowable costs are either expressly unallowable or determined unallowable.
 
 (1) An expressly unallowable cost is a particular item or type of cost which, under the express provisions of an applicable law, regulation, or this contract, is specifically named and stated to be unallowable.

@@ -1,5 +1,7 @@
 ##### 970.5227-9 Notice of right to request patent waiver. #####
 
+Link to an amendment published at 89 FR 89811, Nov. 13, 2024.
+
 Insert the following provision in solicitations in accordance with 970.2704-6:
 
 Notice of Right To Request Patent Waiver (DEC 2000)

@@ -1,5 +1,7 @@
 ##### 952.204-2 Security requirements. #####
 
+Link to an amendment published at 89 FR 89760, Nov. 13, 2024.
+
 As prescribed in 904.404(d)(1), the following clause shall be included in contracts entered into under section 31 (research assistance, 42 U.S.C. 2051), or section 41 (ownership and operation of production facilities, 42 U.S.C. 2061) of the Atomic Energy Act of 1954, and in other contracts and subcontracts which involve or are likely to involve classified information or special nuclear material:
 
 Security Requirements (AUG 2016)

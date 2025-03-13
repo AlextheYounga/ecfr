@@ -1,5 +1,7 @@
 ##### 970.5227-3 Technology transfer mission. #####
 
+Link to an amendment published at 89 FR 89806, Nov. 13, 2024.
+
 As prescribed in 48 CFR 970.2770-4(a), insert the following clause:
 
 Technology Transfer Mission (AUG 2019)

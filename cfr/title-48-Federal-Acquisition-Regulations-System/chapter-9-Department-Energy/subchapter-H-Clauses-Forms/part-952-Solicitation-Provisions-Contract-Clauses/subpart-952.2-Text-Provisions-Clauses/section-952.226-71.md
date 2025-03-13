@@ -1,5 +1,7 @@
 ##### 952.226-71 Utilization of Energy Policy Act target entities. #####
 
+Link to an amendment published at 89 FR 89766, Nov. 13, 2024.
+
 As prescribed in 926.7007(b), insert the following clause:
 
 Utilization of Energy Policy Act Target Entities (JUN 1996)

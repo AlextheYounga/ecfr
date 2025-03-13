@@ -1,5 +1,7 @@
 ##### 927.303 Contract clauses. #####
 
+Link to an amendment published at 89 FR 89755, Nov. 13, 2024.
+
 (a) In solicitations and contracts for experimental, research, developmental, or demonstration work (but see (FAR) 48 CFR 27.304-3 regarding contracts for construction work or architect-engineer services), the contracting officer shall include the clause:
 
 (1) At 952.227-13, Patent Rights Acquisition by the Government, in all such contracts other than those described in paragraphs (a)(2) and (a)(3) of this section;

@@ -1,5 +1,7 @@
 ##### 933.106 Solicitation provisions. #####
 
+Link to an amendment published at 89 FR 89759, Nov. 13, 2024.
+
 (a) The contracting officer shall supplement the provision at 48 CFR 52.233-2, Service of Protest, in solicitations for other than simplified acquisitions by adding the provision at 952.233-2.
 
 (b) The contracting officer shall include the provision at 952.233-4 in solicitations for purchases above the simplified acquisition threshold.

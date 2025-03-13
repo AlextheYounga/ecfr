@@ -1,5 +1,7 @@
 ##### 915.404-4-71-3 Factors for determining fees. #####
 
+Link to an amendment published at 89 FR 89749, Nov. 13, 2024.
+
 (a) The profit policy stated in 915.404-4-71-1(a) reflects, in a broad sense, recognition that profit is compensation to contractors for the entrepreneurial function of organizing and managing resources (including capital resources), and the assumption of risk that all costs of performance (operating and capital) may not be reimbursable.
 
 (b) The best approach calls for a structure that allows judgmental evaluation and determination of fee dollars for prescribed factors which impact the need for, and the rewards associated with, fee or profit, as follows—

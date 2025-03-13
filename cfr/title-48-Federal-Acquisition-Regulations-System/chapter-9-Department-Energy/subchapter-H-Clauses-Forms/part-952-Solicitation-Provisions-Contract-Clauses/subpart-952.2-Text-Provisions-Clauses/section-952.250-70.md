@@ -1,5 +1,7 @@
 ##### 952.250-70 Nuclear hazards indemnity agreement. #####
 
+Link to an amendment published at 89 FR 89773, Nov. 13, 2024.
+
 Insert the following clause in accordance with section 950.7006:
 
 Nuclear Hazards Indemnity Agreement (AUG 2016)

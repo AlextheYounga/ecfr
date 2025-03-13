@@ -1,5 +1,7 @@
 ##### 915.404-4-71-1 General. #####
 
+Link to an amendment published at 89 FR 89749, Nov. 13, 2024.
+
 (a) Business concerns awarded a DOE construction or construction management contract shall be paid a profit or fee if requested or solicited. The profit or fee objective for a construction or construction management contract shall be an amount appropriate for the type of effort contained therein. It is the intent of DOE to—
 
 (1) Reward contractors based on the complexity of work;

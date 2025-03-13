@@ -1,5 +1,7 @@
 ##### 970.2305-4 Solicitation provision and contract clause. #####
 
+Link to an amendment published at 89 FR 89785, Nov. 13, 2024.
+
 (a) The contracting officer shall insert the provision at 970.5223-3, Agreement Regarding Workplace Substance Abuse Programs at DOE Sites, in solicitations for the management and operation of DOE-owned or -controlled sites operated under the authority of the Atomic Energy Act of 1954, as amended.
 
 (b) The contracting officer shall insert the clause at 970.5223-4, Workplace Substance Abuse Programs at DOE Sites, in contracts for the management and operation of DOE-owned or -controlled sites operated under the authority of the Atomic Energy Act of 1954, as amended.

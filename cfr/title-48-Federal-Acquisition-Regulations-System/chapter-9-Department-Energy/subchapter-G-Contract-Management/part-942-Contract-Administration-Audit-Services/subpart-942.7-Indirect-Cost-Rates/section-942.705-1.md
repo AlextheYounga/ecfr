@@ -1,5 +1,7 @@
 ##### 942.705-1 Contracting officer determination procedure. #####
 
+Link to an amendment published at 89 FR 89759, Nov. 13, 2024.
+
 (a)(3) The Department of Energy shall use the contracting officer determination procedure for all business units for which it shall be required to negotiate final indirect cost rates. A list of such business units is maintained by the Office of Procurement and Assistance Policy, within the Headquarters procurement organization.
 
 (b)(1) Pursuant to 48 CFR 52.216-7, Allowable Cost and Payment, contractors shall be requested to submit their final indirect cost rate proposals reflecting actual cost experience during the covered period to the cognizant contracting officer responsible for negotiating their final rates.

@@ -1,5 +1,7 @@
 ##### 970.5204-3 Access to and ownership of records. #####
 
+Link to an amendment published at 89 FR 89789, Nov. 13, 2024.
+
 As prescribed in 970.0407-1-3, insert the following clause:
 
 Access to and Ownership of Records (OCT 2014)

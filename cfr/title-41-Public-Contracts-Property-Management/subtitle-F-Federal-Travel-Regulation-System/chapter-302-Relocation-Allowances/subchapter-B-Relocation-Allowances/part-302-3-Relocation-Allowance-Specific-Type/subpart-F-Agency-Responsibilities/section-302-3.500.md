@@ -1,5 +1,7 @@
 ##### § 302-3.500 What governing policies and procedures must we establish for paying a relocation allowance under this part 302-3? #####
 
+Link to an amendment published at 89 FR 89504, Nov. 13, 2024.
+
 You must establish how you will implement policies that are required for this part, which include;
 
 (a) When you will pay relocation expenses if an employee violates their service agreement;

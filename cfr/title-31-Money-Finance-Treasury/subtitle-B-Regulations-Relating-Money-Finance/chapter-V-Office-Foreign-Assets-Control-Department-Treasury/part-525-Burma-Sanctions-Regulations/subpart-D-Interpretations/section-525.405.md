@@ -1,3 +1,15 @@
-##### § 525.405 Setoffs prohibited. #####
+##### § 525.405 Provision and receipt of services. #####
 
-A setoff against blocked property (including a blocked account), whether by a U.S. financial institution or other U.S. person, is a prohibited transfer under § 525.201 if effected after the effective date.
+(a) The prohibitions contained in § 525.201 apply to services performed in the United States or by U.S. persons, wherever located:
+
+(1) On behalf of or for the benefit of any person whose property and interests in property are blocked pursuant to § 525.201; or
+
+(2) With respect to property interests of any person whose property and interests in property are blocked pursuant to § 525.201.
+
+(b) The prohibitions on transactions contained in § 525.201 apply to services received in the United States or by U.S. persons, wherever located, where the service is performed by, or at the direction of, a person whose property and interests in property are blocked pursuant to § 525.201.
+
+(c) For example, U.S. persons may not, except as authorized by or pursuant to this part, provide legal, accounting, financial, brokering, freight forwarding, transportation, public relations, or other services to any person whose property and interests in property are blocked pursuant to § 525.201, or negotiate with or enter into contracts signed by a person whose property and interests in property are blocked pursuant to § 525.201.
+
+Note 1 to § 525.405.
+
+*See* §§ 525.507 and 525.509 for general licenses authorizing the provision of certain legal and emergency medical services.

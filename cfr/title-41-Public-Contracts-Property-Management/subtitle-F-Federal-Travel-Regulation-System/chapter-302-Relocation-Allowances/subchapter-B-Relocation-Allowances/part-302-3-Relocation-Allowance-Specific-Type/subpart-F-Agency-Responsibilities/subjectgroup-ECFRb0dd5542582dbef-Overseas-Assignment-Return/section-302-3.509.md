@@ -1,5 +1,7 @@
 ##### § 302-3.509 What policies must we follow when appointing an employee to an overseas assignment? #####
 
+Link to an amendment published at 89 FR 89504, Nov. 13, 2024.
+
 When appointing an employee to an overseas assignment, you must:
 
 (a) Establish the employee's actual place of residence at the time of appointment and state it in the service agreement;

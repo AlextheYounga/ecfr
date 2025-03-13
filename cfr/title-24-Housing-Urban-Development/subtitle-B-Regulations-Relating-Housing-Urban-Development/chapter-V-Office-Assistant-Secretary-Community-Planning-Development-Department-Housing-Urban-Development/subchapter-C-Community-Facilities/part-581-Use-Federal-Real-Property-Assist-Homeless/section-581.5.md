@@ -1,5 +1,7 @@
 ##### § 581.5 Real property reported excess to GSA. #####
 
+Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+
 (a) Each landholding agency must submit a report to GSA of properties it determines excess. Each landholding agency must also provide a copy of HUD's suitability determination, if any, including HUD's identification number for the property.
 
 (b) If a landholding agency reports a property to GSA which has been reviewed by HUD for homeless assistance suitability and HUD determined the property suitable, GSA will screen the property pursuant to § 581.5(g) and will advise HUD of the availability of the property for use by the homeless as provided in § 581.5(e). In lieu of the above, GSA may submit a new checklist to HUD and follow the procedures in § 581.5(c) through § 581.5(g).

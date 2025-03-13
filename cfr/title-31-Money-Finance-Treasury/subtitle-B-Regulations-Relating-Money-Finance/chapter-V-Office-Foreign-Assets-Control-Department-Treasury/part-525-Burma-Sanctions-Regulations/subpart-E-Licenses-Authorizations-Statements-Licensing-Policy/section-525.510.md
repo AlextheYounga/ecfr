@@ -1,25 +1,3 @@
-##### § 525.510 Official business of certain international organizations and entities. #####
+##### § 525.510 Official business of the United States Government. #####
 
-All transactions prohibited by this part that are for the conduct of the official business of the following entities by employees, grantees, or contractors thereof are authorized:
-
-(a) The United Nations, including its Programmes, Funds, and Other Entities and Bodies, as well as its Specialized Agencies and Related Organizations;
-
-(b) The International Centre for Settlement of Investment Disputes (ICSID) and the Multilateral Investment Guarantee Agency (MIGA);
-
-(c) The African Development Bank Group, the Asian Development Bank, the European Bank for Reconstruction and Development, and the Inter-American Development Bank Group (IDB Group), including any fund entity administered or established by any of the foregoing;
-
-(d) The International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies;
-
-(e) International Development Law Organization (IDLO);
-
-(f) The Association of Southeast Asian Nations (ASEAN);
-
-(g) The Colombo Plan;
-
-(h) The Consultative Group on International Agricultural Research (CGIAR) System Organization and the International Agricultural Research Centers supported by the CGIAR;
-
-(i) The Extractive Industries Transparency Initiative (EITI); and
-
-(j) The Global Fund to Fight AIDS, Tuberculosis, and Malaria, and Gavi, the Vaccine Alliance.
-
-[87 FR 78471, Dec. 21, 2022]
+All transactions prohibited by this part that are for the conduct of the official business of the United States government by employees, grantees, or contractors thereof are authorized.

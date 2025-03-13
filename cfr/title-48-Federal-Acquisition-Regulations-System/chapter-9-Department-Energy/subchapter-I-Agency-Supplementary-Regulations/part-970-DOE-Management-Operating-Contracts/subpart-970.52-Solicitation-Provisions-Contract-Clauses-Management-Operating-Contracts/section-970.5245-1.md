@@ -1,5 +1,7 @@
 ##### 970.5245-1 Property. #####
 
+Link to an amendment published at 89 FR 89828, Nov. 13, 2024.
+
 As prescribed in 970.4501-1(a), insert the following clause:
 
 Property (AUG 2016)

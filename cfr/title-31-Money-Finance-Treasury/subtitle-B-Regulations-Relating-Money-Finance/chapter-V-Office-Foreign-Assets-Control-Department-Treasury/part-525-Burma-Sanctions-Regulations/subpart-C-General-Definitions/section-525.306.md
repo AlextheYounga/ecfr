@@ -1,3 +1,3 @@
-##### § 525.306 Interest. #####
+##### § 525.306 Foreign person. #####
 
-Except as otherwise provided in this part, the term *interest,* when used with respect to property (*e.g.,* “an interest in property”), means an interest of any nature whatsoever, direct or indirect.
+The term *foreign person* means any person that is not a U.S. person.

@@ -1,5 +1,7 @@
 ##### 927.402-2 Policy. #####
 
+Link to an amendment published at 89 FR 89756, Nov. 13, 2024.
+
 The technical data policy is directed toward achieving the following objectives:
 
 (a) Making the benefits of the energy research, development and demonstration programs of DOE widely available to the public in the shortest practicable time;

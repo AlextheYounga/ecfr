@@ -1,5 +1,7 @@
 ##### 970.5215-1 Total available fee: Base fee amount and performance fee amount. #####
 
+Link to an amendment published at 89 FR 89790, Nov. 13, 2024.
+
 As prescribed in 970.1504-5(a), insert the following clause. The clause should be tailored to reflect the contract's actual inclusion of base fee amount and performance fee amount.
 
 Total Available Fee: Base Fee Amount and Performance Fee Amount (DEC 2000)

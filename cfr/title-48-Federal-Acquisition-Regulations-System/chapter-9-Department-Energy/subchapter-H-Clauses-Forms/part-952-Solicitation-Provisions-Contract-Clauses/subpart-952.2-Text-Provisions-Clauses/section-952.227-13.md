@@ -1,5 +1,7 @@
 ##### 952.227-13 Patent rights—acquisition by the Government. #####
 
+Link to an amendment published at 89 FR 89768, Nov. 13, 2024.
+
 As prescribed at 927.303(a)(1), insert the following clause:
 
 Patent Rights—Acquisition by the Government (SEP 1997)

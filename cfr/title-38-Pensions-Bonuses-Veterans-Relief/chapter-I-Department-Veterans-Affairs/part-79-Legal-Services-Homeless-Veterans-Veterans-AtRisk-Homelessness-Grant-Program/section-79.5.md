@@ -1,5 +1,7 @@
 ##### § 79.5 Definitions. #####
 
+Link to an amendment published at 89 FR 89501, Nov. 13, 2024.
+
 For purposes of this part and any Notice of Funding Opportunity (NOFO) issued under this part:
 
 *Applicant* means an eligible entity that submits an application for a legal services grant announced in a NOFO.

@@ -1,7 +1,5 @@
 ##### § 3.1706 Burial allowance for a veteran who died while hospitalized by VA. #####
 
-Link to an amendment published at 89 FR 78254, Sept. 25, 2024.
-
 (a) *General rule.* VA will pay up to the maximum burial allowance specified in 38 U.S.C. 2303(a) for the burial and funeral expenses of a veteran described in paragraph (b) of this section.
 
 (b) *Eligibility.* A burial allowance is payable under this section for a veteran whose death was not service-connected and who died while hospitalized by VA. For purposes of this allowance, a veteran was hospitalized by VA if the veteran:
@@ -28,12 +26,8 @@ Link to an amendment published at 89 FR 78254, Sept. 25, 2024.
 
 (d) *Additional allowances available based on death while hospitalized by VA.* In addition to the burial allowance authorized by this section:
 
-(1) VA will reimburse for the expense of transporting the remains of a person described in paragraph (b) of this section to the place of burial subject to the limitations of § 3.1709 and where the death occurs within a State and:
+(1) VA may pay the transportation benefit under § 3.1709; and
 
-(i) The place of burial is in the same State or any other State; or
+(2) VA may pay the plot or interment allowance under § 3.1707.
 
-(ii) The place of burial is in Canada or Mexico. However, reimbursement for transportation of the remains for such burial is authorized only from the place of death within a State to the port of embarkation within a State, or to the border limits of the United States.
-
-(2) VA may pay the plot or interment allowance for burial in a veterans cemetery under § 3.1707, Plot or interment allowance.
-
-(Authority: 38 U.S.C. 2303(a), 2308)Cross Reference: § 3.1(z) for the definition of “nursing home”, § 3.1(i) for the definition of “State”.
+(Authority: 38 U.S.C. 2303, 2308)Cross Reference: § 3.1(z) for the definition of “nursing home”, § 3.1(i) for the definition of “State”.[79 FR 32658, June 6, 2014, as amended at 89 FR 78254, Sept. 25, 2024]

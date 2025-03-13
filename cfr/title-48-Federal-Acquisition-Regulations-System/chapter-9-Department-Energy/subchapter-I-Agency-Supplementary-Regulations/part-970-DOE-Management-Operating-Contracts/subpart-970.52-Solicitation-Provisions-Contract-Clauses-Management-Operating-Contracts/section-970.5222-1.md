@@ -1,5 +1,7 @@
 ##### 970.5222-1 Collective Bargaining Agreements Management and Operating Contracts. #####
 
+Link to an amendment published at 89 FR 89798, Nov. 13, 2024.
+
 As prescribed in 970.2201-1-3, insert the following clause:
 
 Collective Bargaining Agreements—Management and Operating Contracts (DEC 2000)

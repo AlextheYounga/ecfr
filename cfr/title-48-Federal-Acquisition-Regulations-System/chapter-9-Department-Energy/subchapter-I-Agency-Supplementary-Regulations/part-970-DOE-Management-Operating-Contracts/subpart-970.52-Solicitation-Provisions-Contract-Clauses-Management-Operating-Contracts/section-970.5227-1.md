@@ -1,5 +1,7 @@
 ##### 970.5227-1 Rights in data-facilities. #####
 
+Link to an amendment published at 89 FR 89799, Nov. 13, 2024.
+
 As prescribed in 48 CFR 970.2704-3(a), insert the following clause:
 
 Rights in Data—Facilities (DEC 2000)

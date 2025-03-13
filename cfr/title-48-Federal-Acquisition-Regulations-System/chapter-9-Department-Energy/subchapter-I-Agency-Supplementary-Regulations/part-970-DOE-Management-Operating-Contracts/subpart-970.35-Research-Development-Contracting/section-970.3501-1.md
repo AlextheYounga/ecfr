@@ -1,5 +1,7 @@
 ##### 970.3501-1 Sponsoring agreements. #####
 
+Link to an amendment published at 89 FR 89788, Nov. 13, 2024.
+
 (a) The contract award document constitutes the sponsoring agreement between the Department of Energy and the contractor operating an FFRDC.
 
 (b) The contract statement of work shall define the purpose and mission of the FFRDC.

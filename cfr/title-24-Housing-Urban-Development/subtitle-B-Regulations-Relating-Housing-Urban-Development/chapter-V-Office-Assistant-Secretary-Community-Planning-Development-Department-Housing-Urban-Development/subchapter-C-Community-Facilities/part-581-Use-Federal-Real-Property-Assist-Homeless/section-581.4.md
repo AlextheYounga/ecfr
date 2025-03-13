@@ -1,5 +1,7 @@
 ##### § 581.4 Suitability determination. #####
 
+Link to an amendment published at 89 FR 89881, Nov. 13, 2024.
+
 (a) *Suitability determination.* Within 30 days after the receipt of information from landholding agencies regarding properties which were reported pursuant to the canvass described in § 581.3(a), HUD will determine, under criteria set forth in § 581.6, which properties are suitable for use as facilities to assist the homeless and report its determination to the landholding agency. Properties that are under lease, contract, license, or agreement by which a Federal agency retains a real property interest or which are scheduled to become unutilized or underutilized will be reviewed for suitability no earlier than six months prior to the expected date when the property will become unutilized or underutilized, except that properties subject to the Base Closure and Realignment Act may be reviewed up to eighteen months prior to the expected date when the property will become unutilized or underutilized.
 
 (b) *Scope of suitability.* HUD will determine the suitability of a property for use as a facility to assist the homeless without regard to any particular use.

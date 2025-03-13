@@ -1,5 +1,7 @@
 ##### 952.223-78 Sustainable acquisition program. #####
 
+Link to an amendment published at 89 FR 89766, Nov. 13, 2024.
+
 In accordance with 923.103 insert the following clause or its Alternate I in all contracts under which the contractor operates Government-owned facilities, motor vehicle fleets, or significant portions thereof or performs construction at a DOE facility.
 
 Sustainable Acquisition Program (OCT 2010)
