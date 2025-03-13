@@ -1,5 +1,7 @@
 ##### § 192.925 What are the requirements for using External Corrosion Direct Assessment (ECDA)? #####
 
+Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
+
 (a) *Definition.* ECDA is a four-step process that combines preassessment, indirect inspection, direct examination, and post assessment to evaluate the threat of external corrosion to the integrity of a pipeline.
 
 (b) *General requirements.* An operator that uses direct assessment to assess the threat of external corrosion must follow the requirements in this section, in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 6.4, and in NACE SP0502 (incorporated by reference, *see* § 192.7). An operator must develop and implement a direct assessment plan that has procedures addressing pre-assessment, indirect inspection, direct examination, and post assessment. If the ECDA detects pipeline coating damage, the operator must also integrate the data from the ECDA with other information from the data integration (§ 192.917(b)) to evaluate the covered segment for the threat of third party damage and to address the threat as required by § 192.917(e)(1).

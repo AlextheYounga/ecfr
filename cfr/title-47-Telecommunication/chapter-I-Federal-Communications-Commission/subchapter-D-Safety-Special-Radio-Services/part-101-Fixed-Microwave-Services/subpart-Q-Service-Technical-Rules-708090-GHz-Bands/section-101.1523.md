@@ -1,5 +1,7 @@
 ##### § 101.1523 Sharing and coordination among non-government licensees and between non-government and government services. #####
 
+Link to an amendment published at 89 FR 33262, Apr. 29, 2024.
+
 (a) Registration of each link in the 71-76 GHz, 81-86 GHz, and 92-95 GHz bands will be in the Universal Licensing System until the Wireless Telecommunications Bureau announces by public notice the implementation of a third-party database.
 
 (b) The licensee or applicant shall:

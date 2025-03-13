@@ -25,7 +25,7 @@ For purposes of paragraphs (a)(1) and (2) of this section, a 'luxury good' means
 
 (iii) Applications for the disposition of items by companies not headquartered in Country Group D:1, D:5, E:1 or E:2 in supplement no. 1 to part 740 of the EAR that are curtailing or closing all operations in Russia or Belarus; and replacement licenses for exports and reexports to and transfers within Russia and Belarus to add items described in Harmonized Tariff Schedule (HTS)-6 Codes that were added to the EAR after the effective validation date of the BIS license. *See* also § 750.7(c)(1)(xi) of the EAR for the divesture of items within Russia or Belarus or the transfer of items within Russia or Belarus for the purpose of reexporting from Russia or Belarus. For purposes of § 750.7(c)(1)(xi), divesture means the action or process of selling off subsidiary business interests or investments involving items subject to the EAR.
 
-(c) *License exceptions.* No license exceptions may overcome the license requirements in paragraph (a)(1) of this section except the license exceptions identified in paragraphs (c)(1) through (3) of this section.
+(c) *License exceptions.* No license exceptions may overcome the license requirements in paragraph (a)(1) of this section except the license exceptions identified in paragraphs (c)(1) through (3), (c)(7) and (8) of this section.
 
 (1) License Exception TMP for items for use by the news media as set forth in § 740.9(a)(9) of the EAR.
 
@@ -41,4 +41,6 @@ For purposes of paragraphs (a)(1) and (2) of this section, a 'luxury good' means
 
 (7) License Exception CCD (§ 740.19 of the EAR).
 
-[87 FR 14788, Mar. 16, 2022, as amended at 87 FR 57086, Sept. 16, 2022; 88 FR 12182, Feb. 27, 2023; 88 FR 33430, May 23, 2023; 88 FR 73495, Oct. 25, 2023; 89 FR 4811, Jan. 25, 2024; 89 FR 20116, Mar. 21, 2024]
+(8) License Exception MED (§ 740.23 of the EAR).
+
+[87 FR 14788, Mar. 16, 2022, as amended at 87 FR 57086, Sept. 16, 2022; 88 FR 12182, Feb. 27, 2023; 88 FR 33430, May 23, 2023; 88 FR 73495, Oct. 25, 2023; 89 FR 4811, Jan. 25, 2024; 89 FR 20116, Mar. 21, 2024; 89 FR 33229, Apr. 29, 2024]

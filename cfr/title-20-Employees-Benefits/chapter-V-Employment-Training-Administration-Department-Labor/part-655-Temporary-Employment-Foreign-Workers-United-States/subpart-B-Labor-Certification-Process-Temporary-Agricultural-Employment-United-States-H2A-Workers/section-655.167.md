@@ -1,5 +1,7 @@
 ##### § 655.167 Document retention requirements of H-2A employers. #####
 
+Link to an amendment published at 89 FR 34063, Apr. 29, 2024.
+
 (a) *Entities required to retain documents.* All employers must retain documents and records demonstrating compliance with this subpart.
 
 (b) *Period of required retention.* Records and documents must be retained for a period of 3 years from the date of certification of the *Application for Temporary Employment Certification* or from the date of determination if the *Application for Temporary Employment Certification* is denied or withdrawn.

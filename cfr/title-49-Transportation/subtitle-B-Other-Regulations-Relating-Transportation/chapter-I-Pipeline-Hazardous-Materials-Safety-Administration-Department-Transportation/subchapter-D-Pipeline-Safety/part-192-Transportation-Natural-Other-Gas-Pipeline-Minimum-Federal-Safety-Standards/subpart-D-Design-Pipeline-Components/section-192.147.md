@@ -1,5 +1,7 @@
 ##### § 192.147 Flanges and flange accessories. #####
 
+Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
+
 (a) Each flange or flange accessory (other than cast iron) must meet the minimum requirements of ASME/ANSI B 16.5 and MSS SP-44 (incorporated by reference, *see* § 192.7), or the equivalent.
 
 (b) Each flange assembly must be able to withstand the maximum pressure at which the pipeline is to be operated and to maintain its physical and chemical properties at any temperature to which it is anticipated that it might be subjected in service.

@@ -1,5 +1,7 @@
 ##### § 106.40 Marital or parental status. #####
 
+Link to an amendment published at 89 FR 33887, Apr. 29, 2024.
+
 (a) *Status generally.* A recipient shall not apply any rule concerning a student's actual or potential parental, family, or marital status which treats students differently on the basis of sex.
 
 (b) *Pregnancy and related conditions.* (1) A recipient shall not discriminate against any student, or exclude any student from its education program or activity, including any class or extracurricular activity, on the basis of such student's pregnancy, childbirth, false pregnancy, termination of pregnancy or recovery therefrom, unless the student requests voluntarily to participate in a separate portion of the program or activity of the recipient.

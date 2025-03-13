@@ -26,7 +26,7 @@
 
 (c) Operators with equipment installed with an approved deviation under § 21.618 of this chapter also are in compliance with this section.
 
-(d) After January 1, 2020, except as prohibited in paragraph (i)(2) of this section or unless otherwise authorized by ATC, no person may operate an aircraft in the following airspace unless the aircraft has equipment installed that meets the requirements in paragraph (b) of this section:
+(d) After January 1, 2020, except as prohibited in paragraph (h)(2) of this section or unless otherwise authorized by ATC, no person may operate an aircraft in the following airspace unless the aircraft has equipment installed that meets the requirements in paragraph (b) of this section:
 
 (1) Class B and Class C airspace areas;
 
@@ -44,7 +44,7 @@
 
 (2) Below the altitude of the ceiling of a Class B or Class C airspace area designated for an airport, or 10,000 feet MSL, whichever is lower.
 
-(f) Except as prohibited in paragraph (i)(2) of this section, each person operating an aircraft equipped with ADS-B Out must operate this equipment in the transmit mode at all times unless—
+(f) Except as prohibited in paragraph (h)(2) of this section, each person operating an aircraft equipped with ADS-B Out must operate this equipment in the transmit mode at all times unless—
 
 (1) Otherwise authorized by the FAA when the aircraft is performing a sensitive government mission for national defense, homeland security, intelligence or law enforcement purposes and transmitting would compromise the operations security of the mission or pose a safety risk to the aircraft, crew, or people and property in the air or on the ground; or
 
@@ -94,4 +94,4 @@
 
 (v) RTCA DO-282C, Minimum Operational Performance Standards (MOPS) for Universal Access Transceiver (UAT) Automatic Dependent Surveillance-Broadcast (ADS-B), Section 2, Equipment Performance Requirements and Test Procedures, June 23, 2022.
 
-[Doc. No. FAA-2007-29305, 75 FR 30193, May 28, 2010; Amdt. 91-314-A, 75 FR 37712, June 30, 2010, as amended at Amdt. 91-316, 75 FR 37712, June 30, 2010; Amdt. 91-336, 80 FR 6900, Feb. 9, 2015; Amdt. 91-336A, 80 FR 11537, Mar. 4, 2015; Amdt. 91-355, 84 FR 34287, July 18, 2019; Amdt. No. 91-361, 86 FR 4513, Jan. 15, 2021; Docket No. FAA-2023-1836; Amdt. No. 91-371, 88 FR 71476, Oct. 17, 2023]
+[Doc. No. FAA-2007-29305, 75 FR 30193, May 28, 2010; Amdt. 91-314-A, 75 FR 37712, June 30, 2010, as amended at Amdt. 91-316, 75 FR 37712, June 30, 2010; Amdt. 91-336, 80 FR 6900, Feb. 9, 2015; Amdt. 91-336A, 80 FR 11537, Mar. 4, 2015; Amdt. 91-355, 84 FR 34287, July 18, 2019; Amdt. No. 91-361, 86 FR 4513, Jan. 15, 2021; Docket No. FAA-2023-1836; Amdt. No. 91-371, 88 FR 71476, Oct. 17, 2023; Amdt. No. 91-371B, 89 FR 33224, Apr. 29, 2024]

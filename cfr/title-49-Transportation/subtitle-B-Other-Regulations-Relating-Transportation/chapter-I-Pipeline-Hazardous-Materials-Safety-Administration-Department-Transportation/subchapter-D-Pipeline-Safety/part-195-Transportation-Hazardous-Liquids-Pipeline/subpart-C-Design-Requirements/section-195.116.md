@@ -1,5 +1,7 @@
 ##### § 195.116 Valves. #####
 
+Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
+
 Each valve installed in a pipeline system must comply with the following:
 
 (a) The valve must be of a sound engineering design.

@@ -1,5 +1,7 @@
 ##### § 192.903 What definitions apply to this subpart? #####
 
+Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
+
 The following definitions apply to this subpart:
 
 *Assessment* is the use of testing techniques as allowed in this subpart to ascertain the condition of a covered pipeline segment.

@@ -28,6 +28,8 @@
 
 (6) AVS for civil aircraft and vessels as set forth in § 740.15(a)(4) and (d) of the EAR.
 
+(7) License Exception MED (§ 740.23 of the EAR).
+
 (d) *Definitions.* For purpose of this section, use the following definitions of terms:
 
 (1) 'Crimea region of Ukraine' includes the land territory in that region as well as any maritime area over which sovereignty, sovereign rights, or jurisdiction is claimed based on occupation of that land territory.
@@ -36,4 +38,4 @@
 
 (3) 'Software necessary to enable the exchange of personal communications over the internet' includes only software (such as software for instant messaging, chat and email, social networking, sharing of photos and movies, Web browsing, and blogging), designated EAR99 or classified as mass market software under Export Control Classification Number (ECCN) 5D992.c of the EAR, provided that such software is widely available to the public at no cost to the user.
 
-[87 FR 12248, Mar. 3, 2022, as amended at 87 FR 34152, June 6, 2022; 88 FR 33429, May 23, 2023; 89 FR 4811, Jan. 25, 2024]
+[87 FR 12248, Mar. 3, 2022, as amended at 87 FR 34152, June 6, 2022; 88 FR 33429, May 23, 2023; 89 FR 4811, Jan. 25, 2024; 89 FR 33228, Apr. 29, 2024]

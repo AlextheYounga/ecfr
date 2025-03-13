@@ -1,5 +1,7 @@
 ##### § 106.30 Definitions. #####
 
+Link to an amendment published at 89 FR 33887, Apr. 29, 2024.
+
 (a) As used in this part:
 
 *Actual knowledge* means notice of sexual harassment or allegations of sexual harassment to a recipient's Title IX Coordinator or any official of the recipient who has authority to institute corrective measures on behalf of the recipient, or to any employee of an elementary and secondary school. Imputation of knowledge based solely on vicarious liability or constructive notice is insufficient to constitute actual knowledge. This standard is not met when the only official of the recipient with actual knowledge is the respondent. The mere ability or obligation to report sexual harassment or to inform a student about how to report sexual harassment, or having been trained to do so, does not qualify an individual as one who has authority to institute corrective measures on behalf of the recipient. “Notice” as used in this paragraph includes, but is not limited to, a report of sexual harassment to the Title IX Coordinator as described in § 106.8(a).

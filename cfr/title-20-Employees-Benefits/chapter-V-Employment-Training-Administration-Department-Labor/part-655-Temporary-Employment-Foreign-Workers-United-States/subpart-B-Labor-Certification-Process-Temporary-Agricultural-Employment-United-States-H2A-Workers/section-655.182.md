@@ -1,5 +1,7 @@
 ##### § 655.182 Debarment. #####
 
+Link to an amendment published at 89 FR 34064, Apr. 29, 2024.
+
 (a) *Debarment of an employer, agent, or attorney.* The OFLC Administrator may debar an employer, agent, or attorney, or any successor in interest to that employer, agent, or attorney, from participating in any action under 8 U.S.C. 1188, this subpart, or 29 CFR part 501 subject to the time limits set forth in paragraph (c) of this section, if the OFLC Administrator finds that the employer, agent, or attorney substantially violated a material term or condition of the temporary agricultural labor certification, with respect to H-2A workers; workers in corresponding employment; or U.S. workers improperly rejected for employment, or improperly laid off or displaced.
 
 (b) *Effect on future applications.* No application for H-2A workers may be filed by a debarred employer, or by any successor in interest to a debarred employer, or by an employer represented by a debarred agent or attorney, or by any successor in interest to any debarred agent or attorney, subject to the term limits set forth in paragraph (c) of this section. If such an application is filed, it will be denied without review.

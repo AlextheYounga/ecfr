@@ -1,5 +1,7 @@
 ##### § 655.135 Assurances and obligations of H-2A employers. #####
 
+Link to an amendment published at 89 FR 34062, Apr. 29, 2024.
+
 An employer seeking to employ H-2A workers must agree as part of the *Application for Temporary Employment Certification* and job offer that it will abide by the requirements of this subpart and make each of the following additional assurances:
 
 (a) *Non-discriminatory hiring practices.* The job opportunity is, and through the period set forth in paragraph (d) of this section must continue to be, open to any qualified U.S. worker regardless of race, color, national origin, age, sex, religion, handicap, or citizenship status. Rejections of any U.S. workers who applied or apply for the job must be only for lawful, job-related reasons, and those not rejected on this basis have been or will be hired. In addition, the employer has and will continue to retain records of all hires and rejections as required by § 655.167.

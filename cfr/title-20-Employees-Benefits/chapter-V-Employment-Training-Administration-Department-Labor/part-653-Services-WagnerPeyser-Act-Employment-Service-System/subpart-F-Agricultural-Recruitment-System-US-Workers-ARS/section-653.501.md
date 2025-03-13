@@ -1,5 +1,7 @@
 ##### § 653.501 Requirements for processing clearance orders. #####
 
+Link to an amendment published at 89 FR 34058, Apr. 29, 2024.
+
 (a) *Assessment of need.* No ES staff may place a job order seeking workers to perform farmwork into intrastate or interstate clearance unless:
 
 (1) The ES office and employer have attempted and have not been able to obtain sufficient workers within the local labor market area; or

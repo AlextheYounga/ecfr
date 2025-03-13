@@ -1,5 +1,7 @@
 ##### § 501.4 Discrimination prohibited. #####
 
+Link to an amendment published at 89 FR 34068, Apr. 29, 2024.
+
 (a) A person may not intimidate, threaten, restrain, coerce, blacklist, discharge, or in any manner discriminate against any person who has:
 
 (1) Filed a complaint under or related to 8 U.S.C. 1188 or this part;

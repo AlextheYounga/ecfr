@@ -1,5 +1,7 @@
 ##### § 195.1 Which pipelines are covered by this Part? #####
 
+Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
+
 (a) *Covered.* Except for the pipelines listed in paragraph (b) of this Section, this Part applies to pipeline facilities and the transportation of hazardous liquids or carbon dioxide associated with those facilities in or affecting interstate or foreign commerce, including pipeline facilities on the Outer Continental Shelf (OCS). Covered pipelines include, but are not limited to:
 
 (1) Any pipeline that transports a highly volatile liquid;

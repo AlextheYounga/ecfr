@@ -1,5 +1,7 @@
 ##### § 192.933 What actions must be taken to address integrity issues? #####
 
+Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
+
 (a) *General requirements.* An operator must take prompt action to address all anomalous conditions the operator discovers through the integrity assessment. In addressing all conditions, an operator must evaluate all anomalous conditions and remediate those that could reduce a pipeline's integrity. An operator must be able to demonstrate that the remediation of the condition will ensure the condition is unlikely to pose a threat to the integrity of the pipeline until the next reassessment of the covered segment. Repairs performed in accordance with this section must use pipe and material properties that are documented in traceable, verifiable, and complete records. If documented data required for any analysis is not available, an operator must obtain the undocumented data through § 192.607. Until documented material properties are available, the operator must use the conservative assumptions in either § 192.712(e)(2) or, if appropriate following a pressure test, in § 192.712(d)(3).
 
 (1) *Temporary pressure reduction.* (i) If an operator is unable to respond within the time limits for certain conditions specified in this section, the operator must temporarily reduce the operating pressure of the pipeline or take other action that ensures the safety of the covered segment. An operator must reduce the operating pressure to one of the following:

@@ -2,7 +2,7 @@
 
 Condensed, extracted glutamic acid fermentation product may be safely used in animal feed under the following conditions:
 
-(a) The additive is a concentrated mixture of the liquor remaining from the extraction of glutamic acid, combined with the cells of *Corynebacterium lilium* used to produce the glutamic acid.
+(a) The additive is a concentrated mixture of the liquor remaining from the extraction of glutamic acid, combined with the cells of *Corynebacterium glutamicum* used to produce the glutamic acid.
 
 (b) It is used or intended for use as follows:
 
@@ -17,3 +17,5 @@ Condensed, extracted glutamic acid fermentation product may be safely used in an
 (2) A statement of the concentration of the additive contained in any mixture.
 
 (3) Adequate directions for use.
+
+[41 FR 38652, Sept. 10, 1976, as amended at 89 FR 33231, Apr. 29, 2024]

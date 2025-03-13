@@ -1,5 +1,7 @@
 ##### § 655.211 Herding and range livestock wage rate. #####
 
+Link to an amendment published at 89 FR 34065, Apr. 29, 2024.
+
 (a) *Compliance with rates of pay.* (1) To comply with its obligation under § 655.210(g), an employer must offer, advertise in its recruitment, and pay each worker employed under §§ 655.200 through 655.235 a wage that is at least the highest of the monthly AEWR established under this section, the agreed-upon collective bargaining wage, or the applicable minimum wage imposed by Federal or State law or judicial action.
 
 (2) If the monthly AEWR established under this section is adjusted during a work contract, and is higher than both the agreed-upon collective bargaining wage and the applicable minimum wage imposed by Federal or State law or judicial action in effect at the time the work is performed, the employer must pay at least that adjusted monthly AEWR upon the effective date of the updated monthly AEWR published by the Department in the Federal Register.

@@ -1,5 +1,7 @@
 ##### § 195.106 Internal design pressure. #####
 
+Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
+
 (a) Internal design pressure for the pipe in a pipeline is determined in accordance with the following formula:
 
 P = (2*St/D*) × *E* × *F**P* = Internal design pressure in p.s.i. (kPa) gage.*S* = Yield strength in pounds per square inch (kPa) determined in accordance with paragraph (b) of this section.*t* = Nominal wall thickness of the pipe in inches (millimeters). If this is unknown, it is determined in accordance with paragraph (c) of this section.*D* = Nominal outside diameter of the pipe in inches (millimeters).*E* = Seam joint factor determined in accordance with paragraph (e) of this section.*F* = A design factor of 0.72, except that a design factor of 0.60 is used for pipe, including risers, on a platform located offshore or on a platform in inland navigable waters, and 0.54 is used for pipe that has been subjected to cold expansion to meet the specified minimum yield strength and is subsequently heated, other than by welding or stress relieving as a part of welding, to a temperature higher than 900 °F (482 °C) for any period of time or over 600 °F (316 °C) for more than 1 hour.
@@ -8,11 +10,11 @@ P = (2*St/D*) × *E* × *F**P* = Internal design pressure in p.s.i. (kPa) gage.*
 
 (1)(i) The yield strength determined by performing all of the tensile tests of ANSI/API Spec 5L (incorporated by reference, see § 195.3) on randomly selected specimens with the following number of tests:
 
-|                                Pipe size                                |         No. of tests         |
-|-------------------------------------------------------------------------|------------------------------|
-|           Less than 65/8 in (168 mm) nominal outside diameter           |One test for each 200 lengths.|
-|65/8 in through 123/4 in (168 mm through 324 mm) nominal outside diameter|One test for each 100 lengths.|
-|         Larger than 123/4 in (324 mm) nominal outside diameter          |One test for each 50 lengths. |
+|                                Pipe size                                 |         No. of tests         |
+|--------------------------------------------------------------------------|------------------------------|
+|           Less than 65/8 in (168 mm) nominal outside diameter            |One test for each 200 lengths.|
+|6 5/8 in through 123/4 in (168 mm through 324 mm) nominal outside diameter|One test for each 100 lengths.|
+|          Larger than 123/4 in (324 mm) nominal outside diameter          |One test for each 50 lengths. |
 
 (ii) If the average yield-tensile ratio exceeds 0.85, the yield strength shall be taken as 24,000 p.s.i. (165,474 kPa). If the average yield-tensile ratio is 0.85 or less, the yield strength of the pipe is taken as the lower of the following:
 

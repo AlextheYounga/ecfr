@@ -1,5 +1,7 @@
 ##### § 106.21 Admission. #####
 
+Link to an amendment published at 89 FR 33886, Apr. 29, 2024.
+
 (a) *General.* No person shall, on the basis of sex, be denied admission, or be subjected to discrimination in admission, by any recipient to which this subpart applies, except as provided in §§ 106.16 and 106.17.
 
 (b) *Specific prohibitions.* (1) In determining whether a person satisfies any policy or criterion for admission, or in making any offer of admission, a recipient to which this subpart applies shall not:

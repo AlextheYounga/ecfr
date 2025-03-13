@@ -1,5 +1,7 @@
 ##### § 106.45 Grievance process for formal complaints of sexual harassment. #####
 
+Link to an amendment published at 89 FR 33891, Apr. 29, 2024.
+
 (a) *Discrimination on the basis of sex.* A recipient's treatment of a complainant or a respondent in response to a formal complaint of sexual harassment may constitute discrimination on the basis of sex under title IX.
 
 (b) *Grievance process.* For the purpose of addressing formal complaints of sexual harassment, a recipient's grievance process must comply with the requirements of this section. Any provisions, rules, or practices other than those required by this section that a recipient adopts as part of its grievance process for handling formal complaints of sexual harassment as defined in § 106.30, must apply equally to both parties.

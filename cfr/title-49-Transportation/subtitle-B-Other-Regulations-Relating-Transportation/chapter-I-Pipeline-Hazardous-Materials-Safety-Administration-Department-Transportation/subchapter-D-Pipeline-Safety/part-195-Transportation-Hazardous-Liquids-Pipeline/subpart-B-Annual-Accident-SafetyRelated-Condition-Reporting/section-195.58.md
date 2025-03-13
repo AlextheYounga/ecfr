@@ -1,5 +1,7 @@
 ##### § 195.58 Report submission requirements. #####
 
+Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
+
 (a) *General.* Except as provided in paragraphs (b) and (e) of this section, an operator must submit each report required by this part electronically to PHMSA at *http://opsweb.phmsa.dot.gov* unless an alternative reporting method is authorized in accordance with paragraph (d) of this section.
 
 (b) *Exceptions:* An operator is not required to submit a safety-related condition report (§ 195.56) electronically.

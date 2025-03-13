@@ -1,5 +1,7 @@
 ##### § 192.727 Abandonment or deactivation of facilities. #####
 
+Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
+
 (a) Each operator shall conduct abandonment or deactivation of pipelines in accordance with the requirements of this section.
 
 (b) Each pipeline abandoned in place must be disconnected from all sources and supplies of gas; purged of gas; in the case of offshore pipelines, filled with water or inert materials; and sealed at the ends. However, the pipeline need not be purged when the volume of gas is so small that there is no potential hazard.

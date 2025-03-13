@@ -1,5 +1,7 @@
 ##### § 192.13 What general requirements apply to pipelines regulated under this part? #####
 
+Link to an amendment published at 89 FR 33280, Apr. 29, 2024.
+
 (a) No person may operate a segment of pipeline listed in the first column of paragraph (a)(3) of this section that is readied for service after the date in the second column, unless:
 
 (1) The pipeline has been designed, installed, constructed, initially inspected, and initially tested in accordance with this part; or

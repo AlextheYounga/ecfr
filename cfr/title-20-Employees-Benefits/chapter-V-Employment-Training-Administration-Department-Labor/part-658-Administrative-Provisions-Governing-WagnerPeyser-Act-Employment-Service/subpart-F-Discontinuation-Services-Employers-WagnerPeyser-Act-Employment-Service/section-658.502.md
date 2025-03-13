@@ -1,5 +1,7 @@
 ##### § 658.502 Notification to employers. #####
 
+Link to an amendment published at 89 FR 34066, Apr. 29, 2024.
+
 (a) The SWA must notify the employer in writing that it intends to discontinue the provision of employment services pursuant to this part and parts 652, 653, and 654 of this chapter, and the reason therefore.
 
 (1) Where the decision is based on submittal and refusal to alter or to withdraw job orders containing specifications contrary to employment-related laws, the SWA must specify the date the order was submitted, the job order involved, the specifications contrary to employment-related laws and the laws involved. The SWA must notify the employer in writing that all employment services will be terminated in 20 working days unless the employer within that time:

@@ -1,5 +1,7 @@
 ##### § 192.935 What additional preventive and mitigative measures must an operator take? #####
 
+Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
+
 (a) *General requirements.* (1) An operator must take additional measures beyond those already required by this part to prevent a pipeline failure and to mitigate the consequences of a pipeline failure in a high consequence area. Such additional measures must be based on the risk analyses required by § 192.917. Measures that operators must consider in the analysis, if necessary, to prevent or mitigate the consequences of a pipeline failure include, but are not limited to:
 
 (i) Correcting the root causes of past incidents to prevent recurrence;

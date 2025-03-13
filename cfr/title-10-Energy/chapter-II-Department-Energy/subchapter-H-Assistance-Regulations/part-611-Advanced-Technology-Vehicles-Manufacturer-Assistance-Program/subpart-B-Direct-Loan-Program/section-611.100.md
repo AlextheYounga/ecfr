@@ -1,5 +1,7 @@
 ##### § 611.100 Eligible applicant. #####
 
+Link to an amendment published at 89 FR 33203, Apr. 29, 2024.
+
 (a) In order to be eligible to receive a loan under this part, an applicant
 
 (1) Must be either—

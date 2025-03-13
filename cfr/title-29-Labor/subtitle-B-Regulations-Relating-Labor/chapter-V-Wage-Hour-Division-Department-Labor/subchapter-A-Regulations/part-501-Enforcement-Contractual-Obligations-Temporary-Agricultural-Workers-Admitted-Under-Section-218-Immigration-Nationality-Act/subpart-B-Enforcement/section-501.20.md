@@ -1,5 +1,7 @@
 ##### § 501.20 Debarment and revocation. #####
 
+Link to an amendment published at 89 FR 34068, Apr. 29, 2024.
+
 (a) *Debarment of an employer, agent, or attorney.* The WHD Administrator may debar an employer, agent, or attorney, or any successor in interest to that employer, agent, or attorney from participating in any action under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part, subject to the time limits set forth in paragraph (c) of this section, if the WHD Administrator finds that the employer, agent, or attorney substantially violated a material term or condition of the temporary agricultural labor certification, with respect to H-2A workers, workers in corresponding employment, or U.S. workers improperly rejected for employment, or improperly laid off or displaced, by issuing a Notice of Debarment.
 
 (b) *Effect on future applications.* No application for H-2A workers may be filed by a debarred employer, or any successor in interest to a debarred employer, or by an employer represented by a debarred agent or attorney, or by any successor in interest to any debarred agent or attorney, subject to the time limits set forth in paragraph (c) of this section. If such an application is filed, it will be denied without review.

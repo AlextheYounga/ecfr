@@ -1,5 +1,7 @@
 ##### § 101.113 Transmitter power limitations. #####
 
+Link to an amendment published at 89 FR 33259, Apr. 29, 2024.
+
 (a) On any authorized frequency, the average power delivered to an antenna in this service must be the minimum amount of power necessary to carry out the communications desired. Application of this principle includes, but is not to be limited to, requiring a licensee who replaces one or more of its antennas with larger antennas to reduce its antenna input power by an amount appropriate to compensate for the increased primary lobe gain of the replacement antenna(s). In no event shall the average equivalent isotropically radiated power (EIRP), as referenced to an isotropic radiator, exceed the values specified below. In cases of harmful interference, the Commission may, after notice and opportunity for hearing, order a change in the effective radiated power of this station. Further, the output power of a transmitter on any authorized frequency in this service may not exceed the following:
 
 |     Frequency band (MHz)     |Maximum allowable EIRP<sup>1 2</sup>|          |

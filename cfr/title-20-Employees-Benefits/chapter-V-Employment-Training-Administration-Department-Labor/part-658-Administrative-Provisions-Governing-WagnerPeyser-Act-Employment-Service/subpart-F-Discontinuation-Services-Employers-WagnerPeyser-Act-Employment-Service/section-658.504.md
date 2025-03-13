@@ -1,5 +1,7 @@
 ##### § 658.504 Reinstatement of services. #####
 
+Link to an amendment published at 89 FR 34067, Apr. 29, 2024.
+
 (a) Services may be reinstated to an employer after discontinuation under § 658.503(a) and (b), if:
 
 (1) The State is ordered to do so by a Federal ALJ Judge or Regional Administrator; or

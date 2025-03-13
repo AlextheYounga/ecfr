@@ -1,5 +1,7 @@
 ##### § 101.63 Period of construction; certification of completion of construction. #####
 
+Link to an amendment published at 89 FR 33258, Apr. 29, 2024.
+
 (a) Each Station, except in Multichannel Video Distribution and Data Service, Local Multipoint Distribution Service, and the 24 GHz Service, authorized under this part must be in operation within 18 months from the initial date of grant.
 
 (b) For the 70 GHz, 80 GHz, and 90 GHz bands, the 12-month construction period will commence on the date of each registration of each individual link; adding links will not change the overall renewal period of the license.

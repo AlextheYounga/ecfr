@@ -1,5 +1,7 @@
 ##### § 655.122 Contents of job offers. #####
 
+Link to an amendment published at 89 FR 34060, Apr. 29, 2024.
+
 (a) *Prohibition against preferential treatment of H-2A workers.* The employer's job offer must offer to U.S. workers no less than the same benefits, wages, and working conditions that the employer is offering, intends to offer, or will provide to H-2A workers. Job offers may not impose on U.S. workers any restrictions or obligations that will not be imposed on the employer's H-2A workers. This does not relieve the employer from providing to H-2A workers at least the same level of minimum benefits, wages, and working conditions that must be offered to U.S. workers consistent with this section.
 
 (b) *Job qualifications and requirements.* Each job qualification and requirement listed in the job offer must be bona fide and consistent with the normal and accepted qualifications required by employers that do not use H-2A workers in the same or comparable occupations and crops. Either the CO or the SWA may require the employer to submit documentation to substantiate the appropriateness of any job qualification specified in the job offer.

@@ -1,6 +1,4 @@
-##### § 420.15 Minimum criteria for required program activities for plans. #####
-
-A plan shall satisfy all of the following minimum criteria for required program activities.
+##### § 420.15 Annual State applications and amendments to State plans. #####
 
 (a) Mandatory lighting efficiency standards for public buildings shall:
 
@@ -74,4 +72,14 @@ A plan shall satisfy all of the following minimum criteria for required program 
 
 (f) Procedures must exist for ensuring effective coordination among various local, State, and Federal energy efficiency, renewable energy and alternative transportation fuel programs within the State, including any program administered within the Office of Building Technology, State and Community Programs of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services.
 
-[61 FR 35895, July 8, 1996, as amended at 62 FR 26727, May 14, 1997]
+(g) The mandatory conduct of activities to support transmission and distribution planning, including—
+
+(1) Support for local governments and Indian Tribes;
+
+(2) Feasibility studies for transmission line routes and alternatives;
+
+(3) Preparation of necessary project design and permits; and
+
+(4) Outreach to affected stakeholders.
+
+[61 FR 35895, July 8, 1996, as amended at 62 FR 26727, May 14, 1997; 89 FR 33196, Apr. 29, 2024]

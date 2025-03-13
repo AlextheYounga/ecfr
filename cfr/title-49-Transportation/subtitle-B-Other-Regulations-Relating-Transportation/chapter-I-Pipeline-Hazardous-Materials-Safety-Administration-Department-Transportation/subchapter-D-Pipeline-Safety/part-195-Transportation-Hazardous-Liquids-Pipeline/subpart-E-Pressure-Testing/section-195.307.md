@@ -1,5 +1,7 @@
 ##### § 195.307 Pressure testing aboveground breakout tanks. #####
 
+Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
+
 (a) For aboveground breakout tanks built to API Spec 12F (incorporated by reference, *see* § 195.3) and first placed in service after October 2, 2000, pneumatic testing must be performed in accordance with section 5.3 of API Spec 12 F.
 
 (b) For aboveground breakout tanks built to API Std 620 (incorporated by reference, *see* § 195.3) and first placed in service after October 2, 2000, hydrostatic and pneumatic testing must be performed in accordance with section 7.18 of API Std 620.

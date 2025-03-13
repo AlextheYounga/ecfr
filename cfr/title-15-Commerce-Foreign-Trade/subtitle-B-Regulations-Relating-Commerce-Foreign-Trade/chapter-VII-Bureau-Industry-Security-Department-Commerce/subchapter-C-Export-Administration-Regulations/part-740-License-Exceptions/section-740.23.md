@@ -1,0 +1,25 @@
+##### § 740.23 Medical Devices (MED). #####
+
+(a) *Scope.* License Exception MED authorizes the export, reexport, or transfer (in country) of “medical devices” designated as EAR99 to or within Russia, Belarus, the temporarily occupied Crimea region of Ukraine, or the covered regions of Ukraine (as specified in § 746.6(a)(2) of the EAR). *See* Supplement no. 3 to part 774—Statements of Understanding under paragraph (a) (Statement of Understanding—medical equipment) for guidance on classifying medical equipment and the definition of “medical device” in § 772.1 of the EAR. License Exception MED also authorizes the export, reexport, or transfer (in country) to or within Russia, Belarus, the temporarily occupied Crimea region of Ukraine, or the covered regions of Ukraine of “parts,” “components,” “accessories,” and “attachments” designated as EAR99 that are exclusively for use in or with “medical devices” designated as EAR99. This license exception authorizes transactions involving items designated as EAR99 that would otherwise require a license pursuant to §§ 746.5, 746.6 or 746.10 of the EAR, subject to the terms and conditions described in this section. For “parts,” “components,” “accessories,” and “attachments” authorized under License Exception MED, such replacement “parts,” “components,” “accessories,” and “attachments” may only be exported, reexported, or transferred (in-country) if they also meet the additional requirements under paragraphs (a)(1) and (2) of this section:
+
+(1) The “part,” “component,” “accessory,” or “attachment” is being exported, reexported, or transferred (in-country) solely to replace a broken or nonoperational “part,” “component,” “accessory,” or “attachment” for use in or with a “medical device” that falls within the scope of paragraph (a) of this section, or the export, reexport, or transfer (in-country) of such replacement “parts,” “components,” “accessories,” and “attachments” is necessary and ordinarily incident to the proper preventative maintenance of such a “medical device;” *and*
+
+(2) The number of replacement “parts,” “components,” “accessories,” and “attachments” that are exported, reexported, transferred (in-country), and stored in Russia, Belarus, the temporarily occupied Crimea region of Ukraine, or the covered regions of Ukraine does not exceed the number of corresponding operational “parts,” “components,” “accessories,” and “attachments” currently in use in or with the relevant medical devices in Russia, Belarus, the temporarily occupied Crimea region of Ukraine, or the covered regions of Ukraine.
+
+(b) *Restrictions.* This license exception does not authorize the export, reexport, or transfer (in country) of any item:
+
+(1) To a “proscribed person” (including but not limited to `military end users' (see §§ 744.17(e) and 744.21(g)) or in situations in which an entity on the Entity List in supplement no. 4 to part 744 or on the Military End-User (MEU) List) is a party to the transaction as described in § 748.5(c) through (f) of the EAR;
+
+(2) Destined to a “production” “facility;” *or*
+
+(3) When you have “knowledge” that the item is intended to develop or produce items.
+
+Note 1 to paragraphs (b)(2) and (3):
+
+The assembly in a hospital or other health care facility of a finished “medical device” completely “produced” outside of Russia, Belarus, the temporarily occupied Crimea region of Ukraine, or the covered regions of Ukraine” for the sole purpose of using that “medical device” at that facility is not considered a “production” activity for purposes of the restrictions under paragraphs (b)(2) and (3) of this section.
+
+(c) *Verification.* Exporters, reexporters, and transferors must maintain a system of distribution that ensures that “medical devices” and “parts,” “components,” “accessories,” or “attachments” are not delivered to “proscribed persons” or entities engaged in the “production” of any product. Verification of the effectiveness of the distribution system may entail obtaining certain information from a consignee (*e.g.,* obtaining affirmations or other documentation from a consignee, or performing periodic on-site spot-checks (*e.g.,* conducting such verification by staff of the exporter, reexporter, or transferor; an internationally accredited auditing firm; or an internationally recognized non-governmental humanitarian organization in Russia, Belarus, the temporarily occupied Crimea region of Ukraine, or the covered regions of Ukraine to conduct such verification).
+
+(d) *Recordkeeping and review or inspection of records.* In addition to complying with the recordkeeping requirements in part 762 of the EAR, exporters, reexporters, and transferors must maintain records of verification, as specified in paragraph (c) of this section, for 5 years and, upon request, provide records to BIS, or any other official of the United States designated by BIS, for review or inspection.
+
+[89 FR 33227, Apr. 29, 2024]

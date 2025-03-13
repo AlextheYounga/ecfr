@@ -1,5 +1,7 @@
 ##### § 611.3 Advanced technology vehicle. #####
 
+Link to an amendment published at 89 FR 33203, Apr. 29, 2024.
+
 In order to demonstrate that a vehicle is an “advanced technology vehicle”, an automobile manufacturer must provide the following:
 
 (a) Emissions certification. An automobile manufacturer must written certify that the vehicle meets, or will meet, the emissions requirements specified in the definition of “advanced technology vehicle”; and

@@ -1,5 +1,7 @@
 ##### § 192.939 What are the required reassessment intervals? #####
 
+Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
+
 An operator must comply with the following requirements in establishing the reassessment interval for the operator's covered pipeline segments.
 
 (a) *Pipelines operating at or above 30% SMYS.* An operator must establish a reassessment interval for each covered segment operating at or above 30% SMYS in accordance with the requirements of this section. The maximum reassessment interval by an allowable reassessment method is 7 calendar years. Operators may request a 6-month extension of the 7-calendar-year reassessment interval if the operator submits written notice to OPS, in accordance with § 192.18, with sufficient justification of the need for the extension. If an operator establishes a reassessment interval that is greater than 7 calendar years, the operator must, within the 7-calendar-year period, conduct a confirmatory direct assessment on the covered segment, and then conduct the follow-up reassessment at the interval the operator has established. A reassessment carried out using confirmatory direct assessment must be done in accordance with § 192.931. The table that follows this section sets forth the maximum allowed reassessment intervals.
@@ -34,16 +36,12 @@ An operator must comply with the following requirements in establishing the reas
 
 (6) The following table sets forth the maximum reassessment intervals. Also refer to Appendix E.II for guidance on Assessment Methods and Assessment Schedule for Transmission Pipelines Operating Below 30% SMYS. In case of conflict between the rule and the guidance in the Appendix, the requirements of the rule control. An operator must comply with the following requirements in establishing a reassessment interval for a covered segment:
 
-Maximum Reassessment Interval
-
-|                     Assessment method                      |Pipeline operating at or above 50% SMYS|Pipeline operating at or above 30% SMYS, up to 50% SMYS|        Pipeline operating below 30% SMYS        |
-|------------------------------------------------------------|---------------------------------------|-------------------------------------------------------|-------------------------------------------------|
-|Internal Inspection Tool, Pressure Test or Direct Assessment|             10 years (\*)             |                     15 years (\*)                     |                20 years. (\*\*)                 |
-|               Confirmatory Direct Assessment               |                7 years                |                        7 years                        |                    7 years.                     |
-|                  Low Stress Reassessment                   |            Not applicable             |                    Not applicable                     |7 years + ongoing actions specified in § 192.941.|
-
-(\*) A Confirmatory direct assessment as described in § 192.931 must be conducted by year 7 in a 10-year interval and years 7 and 14 of a 15-year interval.
-
-(\*\*) A low stress reassessment or Confirmatory direct assessment must be conducted by years 7 and 14 of the interval.
+|                                                                          Assessment method                                                                          |Pipeline operating at or above 50% SMYS|Pipeline operating at or above 30% SMYS, up to 50% SMYS|        Pipeline operating below 30% SMYS        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------------------------------------------------|-------------------------------------------------|
+|                                                    Internal Inspection Tool, Pressure Test or Direct Assessment                                                     |        10 years <sup>(*)</sup>        |                15 years <sup>(*)</sup>                |            20 years. <sup>(**)</sup>            |
+|                                                                   Confirmatory Direct Assessment                                                                    |                7 years                |                        7 years                        |                    7 years.                     |
+|                                                                       Low Stress Reassessment                                                                       |            Not applicable             |                    Not applicable                     |7 years + ongoing actions specified in § 192.941.|
+|<sup>(*)</sup> A Confirmatory direct assessment as described in § 192.931 must be conducted by year 7 in a 10-year interval and years 7 and 14 of a 15-year interval.|                                       |                                                       |                                                 |
+|                  <sup>(**)</sup> A low stress reassessment or Confirmatory direct assessment must be conducted by years 7 and 14 of the interval.                   |                                       |                                                       |                                                 |
 
 [68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18234, Apr. 6, 2004; Amdt. 192-114, 75 FR 48604, Aug. 11, 2010; Amdt. 192-119, 80 FR 178, 182, Jan. 5, 2015; Amdt. 192-125, 84 FR 52255, Oct. 1, 2019]

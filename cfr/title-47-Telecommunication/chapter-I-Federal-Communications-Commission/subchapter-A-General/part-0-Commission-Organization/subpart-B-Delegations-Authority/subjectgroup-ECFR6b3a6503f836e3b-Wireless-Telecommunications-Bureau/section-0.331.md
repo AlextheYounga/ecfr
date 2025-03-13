@@ -1,5 +1,7 @@
 ##### § 0.331 Authority delegated. #####
 
+Link to an amendment published at 89 FR 33258, Apr. 29, 2024.
+
 The Chief, Wireless Telecommunications Bureau, is hereby delegated authority to perform all functions of the Bureau, described in § 0.131, subject to the exceptions and limitations in paragraphs (a) through (d) of this section, and also the functions described in paragraph (e) of this section.
 
 (a) *Authority concerning applications.* (1) The Chief, Wireless Telecommunications Bureau shall not have authority to act on any radio applications that are in hearing status.

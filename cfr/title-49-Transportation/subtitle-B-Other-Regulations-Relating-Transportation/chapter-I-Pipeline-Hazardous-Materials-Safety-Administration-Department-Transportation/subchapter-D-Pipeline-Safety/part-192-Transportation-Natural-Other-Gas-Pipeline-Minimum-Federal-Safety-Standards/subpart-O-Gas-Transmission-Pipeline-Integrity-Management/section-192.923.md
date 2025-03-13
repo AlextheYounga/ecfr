@@ -1,5 +1,7 @@
 ##### § 192.923 How is direct assessment used and for what threats? #####
 
+Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
+
 (a) *General.* An operator may use direct assessment either as a primary assessment method or as a supplement to the other assessment methods allowed under this subpart. An operator may only use direct assessment as the primary assessment method to address the identified threats of external corrosion (EC), internal corrosion (IC), and stress corrosion cracking (SCC).
 
 (b) *Primary method.* An operator using direct assessment as a primary assessment method must have a plan that complies with the requirements in—

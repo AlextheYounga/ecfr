@@ -1,5 +1,7 @@
 ##### § 195.214 Welding procedures. #####
 
+Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
+
 (a) Welding must be performed by a qualified welder or welding operator in accordance with welding procedures qualified under section 5, section 12, Appendix A or Appendix B of API Std 1104 (incorporated by reference, see § 195.3), or Section IX of the ASME Boiler and Pressure Vessel Code (ASME BPVC) (incorporated by reference, *see* § 195.3). The quality of the test welds used to qualify the welding procedures must be determined by destructive testing.
 
 (b) Each welding procedure must be recorded in detail, including the results of the qualifying tests. This record must be retained and followed whenever the procedure is used.

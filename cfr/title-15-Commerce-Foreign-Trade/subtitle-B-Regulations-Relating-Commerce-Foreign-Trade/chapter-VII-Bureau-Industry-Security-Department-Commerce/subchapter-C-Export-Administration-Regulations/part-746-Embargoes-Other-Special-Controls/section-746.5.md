@@ -50,7 +50,7 @@ Note 2 to paragraph (b):
 
 See also § 750.7(c)(1)(xi) of the EAR for the divesture of items within Russia or Belarus or the transfer of items within Russia or Belarus for the purpose of reexporting such items from Russia or Belarus. For purposes of § 750.7(c)(1)(xi), divesture means the action or process of selling off subsidiary business interests or investments involving items subject to the EAR.
 
-(c) *License exceptions.* No license exceptions may overcome the license requirements set forth in this section, except the license exceptions identified in paragraphs (c)(2) and (7) of this section.
+(c) *License exceptions.* No license exceptions may overcome the license requirements set forth in this section, except the license exceptions identified in paragraphs (c)(2), (7), and (8) of this section.
 
 (1) License Exception TMP for items for use by the news media as set forth in § 740.9(a)(9) of the EAR.
 
@@ -66,4 +66,6 @@ See also § 750.7(c)(1)(xi) of the EAR for the divesture of items within Russia 
 
 (7) License Exception CCD (§ 740.19 of the EAR).
 
-[79 FR 45680, Aug. 6, 2014, as amended at 79 FR 55615, Sept. 17, 2014; 80 FR 47405, Aug. 7, 2015; 87 FR 12858, Mar. 8, 2022; 87 FR 57085, Sept. 16, 2022; 88 FR 12181, Feb. 27, 2023; 88 FR 33428, May 23, 2023; 89 FR 4810, Jan. 25, 2024]
+(8) License Exception MED (§ 740.23 of the EAR).
+
+[79 FR 45680, Aug. 6, 2014, as amended at 79 FR 55615, Sept. 17, 2014; 80 FR 47405, Aug. 7, 2015; 87 FR 12858, Mar. 8, 2022; 87 FR 57085, Sept. 16, 2022; 88 FR 12181, Feb. 27, 2023; 88 FR 33428, May 23, 2023; 89 FR 4810, Jan. 25, 2024; 89 FR 33228, Apr. 29, 2024]

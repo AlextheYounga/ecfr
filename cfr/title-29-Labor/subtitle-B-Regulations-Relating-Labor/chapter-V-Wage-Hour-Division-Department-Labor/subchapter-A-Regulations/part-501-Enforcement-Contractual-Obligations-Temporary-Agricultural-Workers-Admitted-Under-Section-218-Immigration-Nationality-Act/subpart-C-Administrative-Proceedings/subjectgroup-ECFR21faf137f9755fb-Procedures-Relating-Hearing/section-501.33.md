@@ -1,5 +1,7 @@
 ##### § 501.33 Request for hearing. #####
 
+Link to an amendment published at 89 FR 34069, Apr. 29, 2024.
+
 (a) Any person desiring review of a determination referred to in § 501.32, including judicial review, shall make a written request for an administrative hearing to the official who issued the determination at the WHD address appearing on the determination notice, no later than 30 calendar days after the date of issuance of the notice referred to in § 501.32.
 
 (b) No particular form is prescribed for any request for hearing permitted by this part. However, any such request shall:

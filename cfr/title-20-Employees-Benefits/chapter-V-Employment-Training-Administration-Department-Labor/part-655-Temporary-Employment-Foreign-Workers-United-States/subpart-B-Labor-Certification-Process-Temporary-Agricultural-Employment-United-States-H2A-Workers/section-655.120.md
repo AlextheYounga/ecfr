@@ -1,5 +1,7 @@
 ##### § 655.120 Offered wage rate. #####
 
+Link to an amendment published at 89 FR 34060, Apr. 29, 2024.
+
 (a) *Employer obligation.* Except for occupations covered by §§ 655.200 through 655.235, to comply with its obligation under § 655.122(l), an employer must offer, advertise in its recruitment, and pay a wage that is at least the highest of:
 
 (1) The AEWR;

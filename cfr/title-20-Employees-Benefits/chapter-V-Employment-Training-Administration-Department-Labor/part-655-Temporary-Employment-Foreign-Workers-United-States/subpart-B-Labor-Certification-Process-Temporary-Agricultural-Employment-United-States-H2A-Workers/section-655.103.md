@@ -1,5 +1,7 @@
 ##### § 655.103 Overview of this subpart and definition of terms. #####
 
+Link to an amendment published at 89 FR 34059, Apr. 29, 2024.
+
 (a) *Overview.* In order to bring nonimmigrant workers to the United States to perform agricultural work, an employer must first demonstrate to the Secretary that there are not sufficient U.S. workers able, willing, and qualified to perform the work in the area of intended employment at the time needed and that the employment of foreign workers will not adversely affect the wages and working conditions of workers in the United States similarly employed. This subpart describes a process by which the DOL makes such a determination and certifies its determination to the DHS.
 
 (b) *Definitions.* For the purposes of this subpart:
@@ -188,4 +190,4 @@
 
 (d) *Definition of a temporary or seasonal nature.* For the purposes of this subpart, employment is of a seasonal nature where it is tied to a certain time of year by an event or pattern, such as a short annual growing cycle or a specific aspect of a longer cycle, and requires labor levels far above those necessary for ongoing operations. Employment is of a temporary nature where the employer's need to fill the position with a temporary worker will, except in extraordinary circumstances, last no longer than 1 year.
 
-[87 FR 61791, Oct. 12, 2022, as amended at 88 FR 12801, Feb. 28, 2023]Pre-Filing Procedures
+[87 FR 61791, Oct. 12, 2022, as amended at 88 FR 12801, Feb. 28, 2023]

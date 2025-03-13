@@ -6,15 +6,12 @@
 
 (c) Licensees must operate each RSU in accordance with the Commission's rules and the registration data posted on the ULS for such RSU. Licensees must register each RSU for the smallest communication zone needed for the intelligent transportation systems application using one of the following four communication zones:
 
-Table 1 to § 90.375(c)—Communication Zones
+|                                          RSU class                                          |Maximum output power  <br/>(dBm) <sup>1</sup>|Communications zone  <br/>(meters)|
+|---------------------------------------------------------------------------------------------|---------------------------------------------|----------------------------------|
+|                                              A                                              |                      0                      |                15                |
+|                                              B                                              |                     10                      |               100                |
+|                                              C                                              |                     20                      |               400                |
+|                                              D                                              |                    28.8                     |               1000               |
+|<sup>1</sup> As described in the IEEE 802.11p-2010 (incorporated by reference, see § 90.395).|                                             |                                  |
 
-|RSU class|Maximum output power  <br/>(dBm)<sup>1</sup>|Communications zone  <br/>(meters)|
-|---------|--------------------------------------------|----------------------------------|
-|    A    |                     0                      |                15                |
-|    B    |                     10                     |               100                |
-|    C    |                     20                     |               400                |
-|    D    |                    28.8                    |               1000               |
-
-<sup>1</sup> As described in the IEEE 802.11p-2010 (incorporated by reference, see § 90.395).
-
-[69 FR 46444, Aug. 3, 2004, as amended at 82 FR 41548, Sept. 1, 2017; 85 FR 64410, Oct. 13, 2020; 86 FR 23298, May 3, 2021]
+[69 FR 46444, Aug. 3, 2004, as amended at 82 FR 41548, Sept. 1, 2017; 86 FR 23298, May 3, 2021]

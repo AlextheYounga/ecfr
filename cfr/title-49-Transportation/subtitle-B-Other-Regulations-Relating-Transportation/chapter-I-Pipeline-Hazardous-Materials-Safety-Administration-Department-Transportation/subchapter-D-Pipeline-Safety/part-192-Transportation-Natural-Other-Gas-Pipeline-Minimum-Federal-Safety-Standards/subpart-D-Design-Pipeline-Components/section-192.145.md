@@ -1,5 +1,7 @@
 ##### § 192.145 Valves. #####
 
+Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
+
 (a) Except for cast iron and plastic valves, each valve must meet the minimum requirements of ANSI/API Spec 6D (incorporated by reference, *see* § 192.7), or to a national or international standard that provides an equivalent performance level. A valve may not be used under operating conditions that exceed the applicable pressure-temperature ratings contained in those requirements.
 
 (b) Each cast iron and plastic valve must comply with the following:

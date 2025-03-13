@@ -1,5 +1,7 @@
 ##### § 192.921 How is the baseline assessment to be conducted? #####
 
+Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
+
 (a) *Assessment methods.* An operator must assess the integrity of the line pipe in each covered segment by applying one or more of the following methods for each threat to which the covered segment is susceptible. An operator must select the method or methods best suited to address the threats identified to the covered segment (*See* § 192.917).
 
 (1) Internal inspection tool or tools capable of detecting those threats to which the pipeline is susceptible. The use of internal inspection tools is appropriate for threats such as corrosion, deformation and mechanical damage (including dents, gouges and grooves), material cracking and crack-like defects (*e.g.,* stress corrosion cracking, selective seam weld corrosion, environmentally assisted cracking, and girth weld cracks), hard spots with cracking, and any other threats to which the covered segment is susceptible. When performing an assessment using an in-line inspection tool, an operator must comply with § 192.493. In addition, an operator must analyze and account for uncertainties in reported results (*e.g.,* tool tolerance, detection threshold, probability of detection, probability of identification, sizing accuracy, conservative anomaly interaction criteria, location accuracy, anomaly findings, and unity chart plots or equivalent for determining uncertainties and verifying actual tool performance) in identifying and characterizing anomalies;

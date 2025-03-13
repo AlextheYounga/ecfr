@@ -1,5 +1,7 @@
 ##### § 101.111 Emission limitations. #####
 
+Link to an amendment published at 89 FR 33259, Apr. 29, 2024.
+
 (a) The mean power of emissions must be attenuated below the mean output power of the transmitter in accordance with the following schedule:
 
 (1) When using transmissions other than those employing digital modulation techniques:

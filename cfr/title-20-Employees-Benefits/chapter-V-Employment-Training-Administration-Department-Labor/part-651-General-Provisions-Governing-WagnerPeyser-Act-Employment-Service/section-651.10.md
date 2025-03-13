@@ -1,5 +1,7 @@
 ##### § 651.10 Definitions of terms used in this part and parts 652, 653, 654, and 658 of this chapter. #####
 
+Link to an amendment published at 89 FR 34058, Apr. 29, 2024.
+
 In addition to the definitions set forth in sec. 3 of the Workforce Innovation and Opportunity Act (WIOA), codified at 29 U.S.C. 3101 *et seq.,* the following definitions apply to the regulations in parts 652, 653, 654, and 658 of this chapter:
 
 *Act* means the Wagner-Peyser Act (codified at 29 U.S.C. 49 *et seq.*).

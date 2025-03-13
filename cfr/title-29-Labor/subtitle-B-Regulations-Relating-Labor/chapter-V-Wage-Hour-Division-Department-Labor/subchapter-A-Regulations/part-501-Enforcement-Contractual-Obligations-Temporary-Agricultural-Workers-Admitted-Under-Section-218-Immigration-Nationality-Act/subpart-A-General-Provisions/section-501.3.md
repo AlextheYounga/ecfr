@@ -1,5 +1,7 @@
 ##### § 501.3 Definitions. #####
 
+Link to an amendment published at 89 FR 34067, Apr. 29, 2024.
+
 (a) *Definitions of terms used in this part.* The following defined terms apply to this part:
 
 *Act.* The Immigration and Nationality Act, as amended (INA), 8 U.S.C. 1101 *et seq.*

@@ -1,5 +1,7 @@
 ##### § 655.130 Application filing requirements. #####
 
+Link to an amendment published at 89 FR 34062, Apr. 29, 2024.
+
 All employers who desire to hire H-2A foreign agricultural workers must apply for a certification from the Secretary by filing an *Application for Temporary Employment Certification* with the NPC designated by the OFLC Administrator. This section provides the procedures employers must follow when filing.
 
 (a) *What to file.* An employer that desires to apply for temporary agricultural labor certification of one or more nonimmigrant workers must file a completed *Application for Temporary Employment Certification,* all supporting documentation and information required at the time of filing under §§ 655.131 through 655.135, and, unless a specific exemption applies, a copy of Form ETA-790/790A, submitted as set forth in § 655.121(a). The *Application for Temporary Employment Certification* must include a valid FEIN as well as a valid place of business (physical location) in the United States and a means by which it may be contacted for employment.

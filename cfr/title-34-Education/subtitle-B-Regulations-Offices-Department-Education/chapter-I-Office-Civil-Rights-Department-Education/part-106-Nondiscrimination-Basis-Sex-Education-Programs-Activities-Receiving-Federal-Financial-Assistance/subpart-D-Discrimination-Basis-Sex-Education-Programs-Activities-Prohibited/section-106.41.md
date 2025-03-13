@@ -1,5 +1,7 @@
 ##### § 106.41 Athletics. #####
 
+Link to an amendment published at 89 FR 33888, Apr. 29, 2024.
+
 (a) *General.* No person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, be treated differently from another person or otherwise be discriminated against in any interscholastic, intercollegiate, club or intramural athletics offered by a recipient, and no recipient shall provide any such athletics separately on such basis.
 
 (b) *Separate teams.* Notwithstanding the requirements of paragraph (a) of this section, a recipient may operate or sponsor separate teams for members of each sex where selection for such teams is based upon competitive skill or the activity involved is a contact sport. However, where a recipient operates or sponsors a team in a particular sport for members of one sex but operates or sponsors no such team for members of the other sex, and athletic opportunities for members of that sex have previously been limited, members of the excluded sex must be allowed to try-out for the team offered unless the sport involved is a contact sport. For the purposes of this part, contact sports include boxing, wrestling, rugby, ice hockey, football, basketball and other sports the purpose or major activity of which involves bodily contact.

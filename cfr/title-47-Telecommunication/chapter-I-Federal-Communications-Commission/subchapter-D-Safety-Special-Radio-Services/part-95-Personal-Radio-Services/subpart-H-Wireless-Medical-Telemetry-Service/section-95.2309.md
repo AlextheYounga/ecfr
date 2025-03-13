@@ -73,4 +73,4 @@ Operation of WMTS devices is subject to the frequency coordination procedures in
 
 (h) *Obtaining interference protection.* To receive interference protection, parties operating WMTS networks in the 608-614 MHz frequency band shall notify one of the white space database administrators of their operating location pursuant to §§ 15.713(j)(11) and 15.715(p) of this chapter.
 
-[82 FR 41104, Aug. 29, 2017, as amended at 85 FR 38740, June 26, 2020; 84 FR 34799, July 19, 219]
+[82 FR 41104, Aug. 29, 2017, as amended at 85 FR 38740, June 26, 2020; 84 FR 34799, July 19, 2019]

@@ -1,5 +1,7 @@
 ##### § 195.428 Overpressure safety devices and overfill protection systems. #####
 
+Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
+
 (a) Except as provided in paragraph (b) of this section, each operator shall, at intervals not exceeding 15 months, but at least once each calendar year, or in the case of pipelines used to carry highly volatile liquids, at intervals not to exceed 71/2 months, but at least twice each calendar year, inspect and test each pressure limiting device, relief valve, pressure regulator, or other item of pressure control equipment to determine that it is functioning properly, is in good mechanical condition, and is adequate from the standpoint of capacity and reliability of operation for the service in which it is used.
 
 (b) In the case of relief valves on pressure breakout tanks containing highly volatile liquids, each operator shall test each valve at intervals not exceeding 5 years.

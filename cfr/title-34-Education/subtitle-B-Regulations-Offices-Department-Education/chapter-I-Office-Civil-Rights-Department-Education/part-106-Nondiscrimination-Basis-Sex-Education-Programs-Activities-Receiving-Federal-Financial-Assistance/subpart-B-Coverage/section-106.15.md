@@ -1,5 +1,7 @@
 ##### § 106.15 Admissions. #####
 
+Link to an amendment published at 89 FR 33886, Apr. 29, 2024.
+
 (a) Admissions to educational institutions prior to June 24, 1973, are not covered by this part.
 
 (b) *Administratively separate units.* For the purposes only of this section, §§ 106.16 and 106.17, and subpart C, each administratively separate unit shall be deemed to be an educational institution.

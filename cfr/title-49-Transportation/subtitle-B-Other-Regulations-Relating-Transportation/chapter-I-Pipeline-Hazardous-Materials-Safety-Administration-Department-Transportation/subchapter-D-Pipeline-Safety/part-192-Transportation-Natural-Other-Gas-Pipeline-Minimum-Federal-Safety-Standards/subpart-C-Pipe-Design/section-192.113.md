@@ -1,5 +1,7 @@
 ##### § 192.113 Longitudinal joint factor (E) for steel pipe. #####
 
+Link to an amendment published at 89 FR 33280, Apr. 29, 2024.
+
 The longitudinal joint factor to be used in the design formula in § 192.105 is determined in accordance with the following table:
 
 |  Specification  |              Pipe class               |Longitudinal joint factor (E)|

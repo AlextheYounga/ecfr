@@ -1,5 +1,7 @@
 ##### § 192.11 Petroleum gas systems. #####
 
+Link to an amendment published at 89 FR 33280, Apr. 29, 2024.
+
 (a) Each plant that supplies petroleum gas by pipeline to a natural gas distribution system must meet the requirements of this part and NFPA 58 and NFPA 59 (incorporated by reference, *see* § 192.7).
 
 (b) Each pipeline system subject to this part that transports only petroleum gas or petroleum gas/air mixtures must meet the requirements of this part and of ANSI/NFPA 58 and 59.

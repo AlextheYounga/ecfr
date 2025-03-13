@@ -1,5 +1,7 @@
 ##### § 655.132 H-2A labor contractor filing requirements. #####
 
+Link to an amendment published at 89 FR 34062, Apr. 29, 2024.
+
 An H-2A labor contractor (H-2ALC) must meet all of the requirements of the definition of *employer* in § 655.103(b) and comply with all the assurances, guarantees, and other requirements contained in this part, including § 655.135, and in part 653, subpart F, of this chapter. The H-2ALC must include in or with its *Application for Temporary Employment Certification* at the time of filing the following:
 
 (a) The name and location of each fixed-site agricultural business to which the H-2ALC expects to provide H-2A workers, the expected beginning and ending dates when the H-2ALC will be providing the workers to each fixed site, and a description of the crops and activities the workers are expected to perform at such fixed site.

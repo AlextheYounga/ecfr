@@ -118,9 +118,11 @@
 
 (52) § 744.15(b), UVL statement as well as any logs or records created for multiple exports, reexports, and transfers (in-country);
 
-(53) § 750.7(c)(2), Notification of name change by advisory opinion request; and
+(53) § 750.7(c)(2), Notification of name change by advisory opinion request;
 
-(54) § 748.13, Certain Hong Kong import and export licenses.
+(54) § 748.13, Certain Hong Kong import and export licenses; *and*
+
+(55) § 740.23, License Exception MED.
 
 (c) *Special recordkeeping requirement*—(1) *Libya.* Persons in receipt of a specific license granted by the Department of the Treasury's Office of Foreign Assets Control (OFAC) for the export to Libya of any item subject to the EAR must maintain a record of those items transferred to Libya pursuant to such specific license and record when the items are consumed or destroyed in the normal course of their use in Libya, reexported to a third country not requiring further authorization from BIS, or returned to the United States. This requirement applies only to items subject to a license requirement under the EAR for export to Libya as of April 29, 2004. These records must include the following information:
 

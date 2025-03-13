@@ -1,5 +1,7 @@
 ##### § 611.2 Definitions. #####
 
+Link to an amendment published at 89 FR 33203, Apr. 29, 2024.
+
 The definitions contained in this section apply to provisions contained in both this subpart and subpart B of this part.
 
 *Adjusted average fuel economy* means a harmonic production weighted average of the combined fuel economy of all vehicles in a fleet, which were subject to CAFE.

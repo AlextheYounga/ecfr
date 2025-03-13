@@ -1,5 +1,7 @@
 ##### § 192.163 Compressor stations: Design and construction. #####
 
+Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
+
 (a) *Location of compressor building.* Except for a compressor building on a platform located offshore or in inland navigable waters, each main compressor building of a compressor station must be located on property under the control of the operator. It must be far enough away from adjacent property, not under control of the operator, to minimize the possibility of fire being communicated to the compressor building from structures on adjacent property. There must be enough open space around the main compressor building to allow the free movement of fire-fighting equipment.
 
 (b) *Building construction.* Each building on a compressor station site must be made of noncombustible materials if it contains either—
