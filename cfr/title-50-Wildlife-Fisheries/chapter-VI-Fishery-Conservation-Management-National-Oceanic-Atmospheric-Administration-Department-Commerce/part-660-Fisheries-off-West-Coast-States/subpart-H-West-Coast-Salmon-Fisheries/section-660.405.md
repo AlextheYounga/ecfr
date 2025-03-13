@@ -1,12 +1,10 @@
 ##### § 660.405 Prohibitions. #####
 
-Link to an amendment published at 89 FR 66013, Aug. 14, 2024.
-
 (a) In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following, except as otherwise authorized under this part:
 
-(1) Take and retain or land salmon caught with a net in the fishery management area, except that a hand-held net may be used to bring hooked salmon on board a vessel.
+(1) Take and retain, possess, or land salmon caught with a net in the fishery management area, except that a hand-held net may be used to bring hooked salmon on board a vessel.
 
-(2) Fish for, or take and retain, any species of salmon:
+(2) Fish for, take and retain, or possess any species of salmon:
 
 (i) During closed seasons or in closed areas;
 
@@ -46,4 +44,4 @@ Link to an amendment published at 89 FR 66013, Aug. 14, 2024.
 
 (c) Under the Pacific Coast groundfish regulations at § 660.330, fishing with salmon troll gear is prohibited within the Salmon Troll Yelloweye Rockfish Conservation Area (YRCA). It is unlawful for commercial salmon troll vessels to take and retain, possess, or land fish taken with salmon troll gear within the Salmon Troll YRCA. Vessels may transit through the Salmon Troll YRCA with or without fish on board.The Salmon Troll YRCA is an area off the northern Washington coast. The Salmon Troll YRCA is intended to protect yelloweye rockfish. The Salmon Troll YRCA is defined by straight lines connecting specific latitude and longitude coordinates under the Pacific Coast Groundfish regulations at § 660.70.
 
-[61 FR 34572, July 2, 1996, as amended at 71 FR 78719, Dec. 29, 2006; 76 FR 81858, Dec. 29, 2011; 80 FR 77275, Dec. 14, 2015]
+[61 FR 34572, July 2, 1996, as amended at 71 FR 78719, Dec. 29, 2006; 76 FR 81858, Dec. 29, 2011; 80 FR 77275, Dec. 14, 2015; 89 FR 66013, Aug. 14, 2024]

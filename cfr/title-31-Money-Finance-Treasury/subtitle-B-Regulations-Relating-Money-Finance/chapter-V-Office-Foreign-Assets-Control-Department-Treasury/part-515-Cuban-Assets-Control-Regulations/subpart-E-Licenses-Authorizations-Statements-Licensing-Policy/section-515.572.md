@@ -1,5 +1,7 @@
 ##### § 515.572 Provision of travel, carrier, other transportation-related, and remittance forwarding services. #####
 
+Link to an amendment published at 89 FR 74834, Sept. 13, 2024.
+
 (a) *General licenses*—(1) *Authorization to provide travel services.* Persons subject to U.S. jurisdiction are authorized to provide travel services in connection with travel-related transactions involving Cuba authorized pursuant to this part. Nothing in this paragraph authorizes a direct financial transaction prohibited by § 515.209, or the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210, if the terms of the applicable general or specific license authorizing the travel expressly exclude such a transaction.
 
 (2) *Authorization to provide carrier services.* (i) Persons subject to U.S. jurisdiction are authorized to provide carrier services to, from, or within Cuba in connection with travel or transportation, directly or indirectly, between the United States and Cuba of persons, baggage, or cargo authorized pursuant to this part.
