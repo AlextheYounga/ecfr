@@ -176,7 +176,7 @@
 |      Gainesville       |                    8, 16, \*36                    |
 |      High Springs      |                        29                         |
 |       Hollywood        |                        24                         |
-|      Jacksonville      |           \*9, 13, 14, 18, 19, 20, \*21           |
+|      Jacksonville      |           \*9, 14, 18, 19, 20, \*21, 33           |
 |        Key West        |                       3, 8                        |
 |       Lake Worth       |                        36                         |
 |        Lakeland        |                        18                         |

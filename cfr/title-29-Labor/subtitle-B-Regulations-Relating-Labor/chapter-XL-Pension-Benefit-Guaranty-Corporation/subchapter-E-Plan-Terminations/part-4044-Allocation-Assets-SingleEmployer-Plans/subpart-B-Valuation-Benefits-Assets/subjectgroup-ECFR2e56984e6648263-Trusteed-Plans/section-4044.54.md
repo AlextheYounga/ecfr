@@ -1,7 +1,5 @@
 ##### § 4044.54 Interest assumptions. #####
 
-Link to an amendment published at 89 FR 54347, July 1, 2024.
-
 (a) *General rule.* The plan administrator must use the interest rates prescribed in this section to value benefits under § 4044.52.
 
 (b) *Interest rate.* The interest rate used to discount an expected benefit payment is the interest rate from the applicable 4044 yield curve determined under paragraph (c) of this section for the maturity point that corresponds to the period of time from the valuation date to the date the benefit is expected to be paid unless that period of time exceeds 30 years. In that case, the interest rate used is the interest rate that corresponds to the maturity point at year 30.0. To address the timing of benefit payments during a year, reasonable approximations may be used to value benefit payments that are expected to be made during a plan year.
@@ -30,28 +28,29 @@ Link to an amendment published at 89 FR 54347, July 1, 2024.
 
 (ii) *Example 2—November 15, 2024, valuation date.* Because the valuation date is not the last day of a month, the applicable blended market yield curve determined under paragraph (d)(1) of this section is the blended market yield curve as of the last day of the month before the month containing the valuation date, October 31, 2024. Because October 31, 2024, is in the fourth calendar quarter of 2024, the applicable spreads determined under paragraph (e)(1) of this section are the spreads for the fourth calendar quarter of 2024.
 
-|Third quarter 2024 spreads|                      |                    |                      |                    |                      |
-|--------------------------|----------------------|--------------------|----------------------|--------------------|----------------------|
-|      Maturity point      |Spread  <br/>(percent)|Maturity  <br/>point|Spread  <br/>(percent)|Maturity  <br/>point|Spread  <br/>(percent)|
-|           0.5            |         TBD          |        10.5        |         TBD          |        20.5        |         TBD          |
-|           1.0            |         TBD          |        11.0        |         TBD          |        21.0        |         TBD          |
-|           1.5            |         TBD          |        11.5        |         TBD          |        21.5        |         TBD          |
-|           2.0            |         TBD          |        12.0        |         TBD          |        22.0        |         TBD          |
-|           2.5            |         TBD          |        12.5        |         TBD          |        22.5        |         TBD          |
-|           3.0            |         TBD          |        13.0        |         TBD          |        23.0        |         TBD          |
-|           3.5            |         TBD          |        13.5        |         TBD          |        23.5        |         TBD          |
-|           4.0            |         TBD          |        14.0        |         TBD          |        24.0        |         TBD          |
-|           4.5            |         TBD          |        14.5        |         TBD          |        24.5        |         TBD          |
-|           5.0            |         TBD          |        15.0        |         TBD          |        25.0        |         TBD          |
-|           5.5            |         TBD          |        15.5        |         TBD          |        25.5        |         TBD          |
-|           6.0            |         TBD          |        16.0        |         TBD          |        26.0        |         TBD          |
-|           6.5            |         TBD          |        16.5        |         TBD          |        26.5        |         TBD          |
-|           7.0            |         TBD          |        17.0        |         TBD          |        27.0        |         TBD          |
-|           7.5            |         TBD          |        17.5        |         TBD          |        27.5        |         TBD          |
-|           8.0            |         TBD          |        18.0        |         TBD          |        28.0        |         TBD          |
-|           8.5            |         TBD          |        18.5        |         TBD          |        28.5        |         TBD          |
-|           9.0            |         TBD          |        19.0        |         TBD          |        29.0        |         TBD          |
-|           9.5            |         TBD          |        19.5        |         TBD          |        29.5        |         TBD          |
-|           10.0           |         TBD          |        20.0        |         TBD          |        30.0        |         TBD          |
+Table 1 to Paragraph (e)—Spreads
 
-[89 FR 48305, June 6, 2024]
+|Maturity point|Spread  <br/>(percent)|Maturity point|Spread  <br/>(percent)|Maturity point|Spread  <br/>(percent)|
+|--------------|----------------------|--------------|----------------------|--------------|----------------------|
+|     0.5      |         0.38         |     10.5     |         0.36         |     20.5     |         0.33         |
+|     1.0      |         0.38         |     11.0     |         0.36         |     21.0     |         0.33         |
+|     1.5      |         0.37         |     11.5     |         0.36         |     21.5     |         0.33         |
+|     2.0      |         0.37         |     12.0     |         0.36         |     22.0     |         0.33         |
+|     2.5      |         0.37         |     12.5     |         0.36         |     22.5     |         0.33         |
+|     3.0      |         0.37         |     13.0     |         0.36         |     23.0     |         0.33         |
+|     3.5      |         0.37         |     13.5     |         0.35         |     23.5     |         0.33         |
+|     4.0      |         0.37         |     14.0     |         0.35         |     24.0     |         0.33         |
+|     4.5      |         0.37         |     14.5     |         0.35         |     24.5     |         0.33         |
+|     5.0      |         0.37         |     15.0     |         0.35         |     25.0     |         0.33         |
+|     5.5      |         0.37         |     15.5     |         0.35         |     25.5     |         0.33         |
+|     6.0      |         0.37         |     16.0     |         0.35         |     26.0     |         0.33         |
+|     6.5      |         0.37         |     16.5     |         0.34         |     26.5     |         0.32         |
+|     7.0      |         0.37         |     17.0     |         0.34         |     27.0     |         0.32         |
+|     7.5      |         0.37         |     17.5     |         0.34         |     27.5     |         0.32         |
+|     8.0      |         0.37         |     18.0     |         0.34         |     28.0     |         0.32         |
+|     8.5      |         0.37         |     18.5     |         0.34         |     28.5     |         0.32         |
+|     9.0      |         0.37         |     19.0     |         0.34         |     29.0     |         0.32         |
+|     9.5      |         0.36         |     19.5     |         0.34         |     29.5     |         0.32         |
+|     10.0     |         0.36         |     20.0     |         0.34         |     30.0     |         0.32         |
+
+[89 FR 48305, June 6, 2024, as amended at 89 FR 54347, July 1, 2024]

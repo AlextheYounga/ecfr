@@ -1,10 +1,8 @@
 ##### § 414.1375 Promoting Interoperability (PI) performance category. #####
 
-Link to an amendment published at 89 FR 54717, July 1, 2024.
-
 (a) *Final score.* Unless a different scoring weight is assigned by CMS under sections 1848(o)(2)(D), 1848(q)(5)(E)(ii), or 1848(q)(5)(F) of the Act, performance in the Promoting Interoperability performance category comprises 25 percent of a MIPS eligible clinician's final score for each MIPS payment year.
 
-(b) *Reporting for the Promoting Interoperability performance category.* To earn a performance category score for the Promoting Interoperability performance category for inclusion in the final score, a MIPS eligible clinician must:
+(b) *Reporting for the Promoting Interoperability performance category.* To earn a performance category score for the Promoting Interoperability performance category for inclusion in the final score, a MIPS eligible clinician must be a meaningful EHR user for MIPS and:
 
 (1) *CEHRT.* Use CEHRT as defined at § 414.1305 for the performance period;
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 54717, July 1, 2024.
 
 (B) [Reserved]
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53955, Nov. 16, 2017; 83 FR 60080, Nov. 23, 2018; 86 FR 65673, Nov. 19, 2021; 88 FR 79535, Nov. 16, 2023]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53955, Nov. 16, 2017; 83 FR 60080, Nov. 23, 2018; 86 FR 65673, Nov. 19, 2021; 88 FR 79535, Nov. 16, 2023; 89 FR 54717, July 1, 2024]

@@ -1,7 +1,5 @@
 ##### § 171.102 Definitions. #####
 
-Link to an amendment published at 89 FR 54717, July 1, 2024.
-
 For purposes of this part:
 
 *Access* means the ability or means necessary to make electronic health information available for exchange or use.
@@ -12,11 +10,15 @@ For purposes of this part:
 
 *API User* is defined as it is in § 170.404(c).
 
+*Appropriate agency* means a government agency that has established disincentives for health care providers that the Office of Inspector General (OIG) determines have committed information blocking.
+
 *Business associate* is defined as it is in 45 CFR 160.103.
 
 *Certified API Developer* is defined as it is in § 170.404(c).
 
 *Certified API technology* is defined as it is in § 170.404(c).
+
+*Disincentive* means a condition specified in § 171.1001(a) that is imposed by an appropriate agency on a health care provider that OIG determines has committed information blocking for the purpose of deterring information blocking practices.
 
 *Electronic health information (EHI)* means electronic protected health information as defined in 45 CFR 160.103 to the extent that it would be included in a designated record set as defined in 45 CFR 164.501, regardless of whether the group of records are used or maintained by or for a covered entity as defined in 45 CFR 160.103, but EHI shall not include:
 
@@ -86,4 +88,4 @@ For purposes of this part:
 
 *Use* means the ability for electronic health information, once accessed or exchanged, to be understood and acted upon.
 
-[85 FR 25955, May 1, 2020, as amended at 89 FR 1435, Jan. 9, 2024]
+[85 FR 25955, May 1, 2020, as amended at 89 FR 1435, Jan. 9, 2024; 89 FR 54717, July 1, 2024]

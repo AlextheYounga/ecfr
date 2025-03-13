@@ -1,7 +1,5 @@
 ##### § 414.1305 Definitions. #####
 
-Link to an amendment published at 89 FR 54716, July 1, 2024.
-
 As used in this section, unless otherwise indicated—
 
 *Additional performance threshold* means the numerical threshold for a MIPS payment year against which the final scores of MIPS eligible clinicians are compared to determine the additional MIPS payment adjustment factors for exceptional performance.
@@ -268,7 +266,7 @@ As used in this section, unless otherwise indicated—
 
 (5) Beginning with the 2023 MIPS payment year, the low-volume threshold that applies to an individual eligible clinician, or group that, during the MIPS determination period, has allowed charges for covered professional services less than or equal to $90,000, furnishes covered professional services to 200 or fewer Medicare Part B-enrolled individuals, or furnishes 200 or fewer covered professional services to Medicare Part B-enrolled individuals.
 
-*Meaningful EHR user for MIPS means a MIPS* eligible clinician who possesses CEHRT, uses the functionality of CEHRT, reports on applicable objectives and measures specified for the Promoting Interoperability performance category for a performance period in the form and manner specified by CMS, does not knowingly and willfully take action (such as to disable functionality) to limit or restrict the compatibility or interoperability of CEHRT, and engages in activities related to supporting providers with the performance of CEHRT.
+*Meaningful EHR user for MIPS* means a MIPS eligible clinician that possesses CEHRT, uses the functionality of CEHRT, reports on applicable objectives and measures specified for the Promoting Interoperability performance category for a performance period in the form and manner specified by CMS, does not knowingly and willfully take action (such as to disable functionality) to limit or restrict the compatibility or interoperability of CEHRT, and engages in activities related to supporting providers with the performance of CEHRT. In addition, a MIPS eligible clinician (other than a qualified audiologist) is not a meaningful EHR user for a performance period if the HHS Inspector General refers a determination that the MIPS eligible clinician committed information blocking as defined at 45 CFR 171.103 during the calendar year of the performance period. The term “information blocking,” with respect to an individual MIPS eligible clinician or group, shall not include an act or practice other than an act or practice committed by such individual MIPS eligible clinician or group.
 
 *Measure benchmark* means the level of performance that the MIPS eligible clinician is assessed on for a specific performance period at the measures and activities level.
 
@@ -510,4 +508,4 @@ As used in this section, unless otherwise indicated—
 
 *Virtual group* means a combination of two or more TINs assigned to one or more solo practitioners or to one or more groups consisting of 10 or fewer eligible clinicians, or both, that elect to form a virtual group for a performance period for a year.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019; 85 FR 54872, Sept. 2, 2020; 85 FR 85029, Dec. 28, 2020; 86 FR 65670, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021; 87 FR 70227, Nov. 18, 2022; 88 FR 79533, Nov. 16, 2023]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019; 85 FR 54872, Sept. 2, 2020; 85 FR 85029, Dec. 28, 2020; 86 FR 65670, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021; 87 FR 70227, Nov. 18, 2022; 88 FR 79533, Nov. 16, 2023; 89 FR 54716, July 1, 2024]

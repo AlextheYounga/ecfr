@@ -1,5 +1,7 @@
 ##### § 165.1713 Safety Zone; City of Valdez July 4th Fireworks, Port Valdez; Valdez, AK. #####
 
+Link to an amendment published at 89 FR 61348, July 31, 2024.
+
 (a) *Regulated area.* The following area is a permanent safety zone: All navigable waters of Port Valdez within a 200-yard radius from a position of 61°07′22″ N. and 146°21′13″ W. This includes the entrance to the Valdez small boat harbor.
 
 (b) *Effective date.* This rule will be effective from 9:30 p.m. until 11:30 p.m. on July 4th of each year, or during the same time frame on specified rain dates of July 5th through July 8th of each year.

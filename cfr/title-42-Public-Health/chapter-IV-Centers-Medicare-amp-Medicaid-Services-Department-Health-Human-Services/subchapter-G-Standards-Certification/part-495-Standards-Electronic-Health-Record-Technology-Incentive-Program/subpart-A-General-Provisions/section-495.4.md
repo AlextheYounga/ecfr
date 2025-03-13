@@ -1,7 +1,5 @@
 ##### § 495.4 Definitions. #####
 
-Link to an amendment published at 89 FR 54717, July 1, 2024.
-
 In this part, unless otherwise indicated—
 
 *Ambulatory surgical center-based EP* means an EP who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the codes used in the HIPAA standard transaction as an ASC setting in the calendar year that is 2 years before the payment adjustment year.
@@ -490,7 +488,7 @@ In this part, unless otherwise indicated—
 
 *Meaningful EHR user* means all of the following:
 
-(1) Subject to paragraph (3) of this definition, an EP, eligible hospital or CAH that, for an EHR reporting period for a payment year or payment adjustment year—
+(1) Subject to paragraphs (3) and (4) of this definition, an eligible professional, eligible hospital or CAH that, for an EHR reporting period for a payment year or payment adjustment year—
 
 (i) Demonstrates in accordance with § 495.40 meaningful use of certified EHR technology by meeting the applicable objectives and associated measures under §§ 495.20, 495.22, 495.24;
 
@@ -505,6 +503,8 @@ In this part, unless otherwise indicated—
 (ii) An eligible hospital or CAH is deemed to be a meaningful EHR user for purposes of receiving an incentive payment under subpart D of this part, if the hospital participates in both the Medicare and Medicaid EHR incentive programs, and the hospital meets the requirements of paragraph (1) of this definition.
 
 (3) To be considered a meaningful EHR user, at least 50 percent of an EP's patient encounters during an EHR reporting period for a payment year (or, in the case of a payment adjustment year, during an applicable EHR reporting period for such payment adjustment year) must occur at a practice/location or practices/locations equipped with certified EHR technology.
+
+(4) An eligible professional, eligible hospital or CAH is not a meaningful EHR user in a payment adjustment year if the HHS Inspector General refers a determination that the eligible hospital or CAH committed information blocking as defined at 45 CFR 171.103 during the calendar year of the EHR reporting period.
 
 *Payment adjustment year* means the following:
 
