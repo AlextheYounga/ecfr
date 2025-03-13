@@ -22,8 +22,8 @@
 
 (4) *Forfeiture penalties.* In addition to any other civil penalties specified in this section, any property involved in a violation may be subject to forfeiture under applicable law.
 
-Note to paragraph (b):
+Note 1 to paragraph (b):
 
-The Civil Monetary Penalties; Adjustment for Inflation Final Rule effective December 14, 2004, adjusted the penalty in Title 13, Chapter 9, Section 304, United States Code from $1,000 to $10,000 to $1,100 to $10,000.
+The civil monetary penalties are adjusted for inflation annually based on The Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410; 28 U.S.C. 2461), as amended by the Debt Collection Improvement Act of 1996 (Pub. L. 104-134) and the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Section 701 of Pub. L. 114-74). In accordance with this Act, as amended, the penalties in title 13, chapter 9, sections 304 and 305(b), United States Code are adjusted and published each year in the Federal Register no later than January 15th.
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16382, Mar. 14, 2013]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16382, Mar. 14, 2013; 88 FR 54237, Aug. 10, 2023]

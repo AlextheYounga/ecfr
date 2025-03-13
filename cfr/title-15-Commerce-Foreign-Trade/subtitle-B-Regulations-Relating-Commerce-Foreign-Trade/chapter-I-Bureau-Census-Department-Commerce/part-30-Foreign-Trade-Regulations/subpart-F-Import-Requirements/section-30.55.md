@@ -1,5 +1,7 @@
 ##### § 30.55 Confidential information, import entries, and withdrawals. #####
 
+Link to an amendment published at 88 FR 54236, Aug. 10, 2023.
+
 The contents of the statistical copies of import entries and withdrawals on file with the Census Bureau are treated as confidential and will not be released without authorization by CBP, in accordance with 19 CFR 103.5 relating to the copies on file in CBP offices. The importer or import broker must provide the Census Bureau with information or documentation necessary to verify the accuracy or resolve problems regarding the reported import transaction.
 
 (a) The basic responsibility for obtaining and providing the information required by the general statistical headnotes of the HTSUSA rests with the person filing the import entry. This is provided for in section 484(a) of the Tariff Act, 19 CFR 141.61(e) of CBP regulations, and § 30.50 of this subpart. CBP Regulations 19 CFR 141.61(a) specify that the entry summary data clearly set forth all information required.

@@ -1,0 +1,3 @@
+##### § 501.31 Written notice of determination required. #####
+
+Whenever the WHD Administrator decides to assess a civil money penalty, debar, increase a surety bond, or proceed administratively to enforce contractual obligations, or obligations under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part, including for the recovery of the monetary relief, the person against whom such action is taken shall be notified in writing of such determination.

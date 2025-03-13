@@ -1,8 +1,6 @@
 ##### § 4022.8 Form of payment. #####
 
-Link to an amendment published at 88 FR 44052, July 11, 2023.
-
-(a) *In general.* This section applies where benefits are not already in pay status. Except as provided in § 4022.7 (relating to the payment of lump sums), the PBGC will pay benefits—
+(a) *In general.* Except as provided in § 4022.7 (relating to the payment of lump sums), the PBGC will pay benefits—
 
 (1) In the automatic PBGC form described in paragraph (b) of this section; or
 
@@ -60,10 +58,10 @@ Link to an amendment published at 88 FR 44052, July 11, 2023.
 
 (9) *Incidental benefits.* The PBGC will not pay an optional PBGC form with a death benefit (e.g., a joint-and-50%-survivor annuity) unless the death benefit would be an “incidental death benefit” under 26 CFR 1.401-1(b)(1)(i). If the death benefit would not be an “incidental death benefit,” the PBGC may instead offer a modified version of the optional form under which the death benefit would be an “incidental death benefit.”
 
-(d) *Change in benefit form.* Once payment of a benefit starts, the benefit form cannot be changed.
+(d) *Change in benefit form.* Subject to benefit changes that PBGC may prescribe under § 4022.9(d), once payment of a benefit starts, the benefit form cannot be changed, regardless of whether the participant or beneficiary was put into pay status by the plan before the date PBGC becomes trustee of the plan.
 
 (e) *PBGC discretion.* The PBGC may make other optional annuity forms available subject to the rules in paragraph (c) of this section.
 
 (f) *Rollover amounts.* The annuity benefit resulting from rollover amounts (as determined under § 4044.12(c)(4) of this chapter) is combined with any other benefit under the plan and paid in the same form and at the same time as the other benefit.
 
-[67 FR 16954, Apr. 8, 2002, as amended at 79 FR 70095, Nov. 25, 2014]
+[67 FR 16954, Apr. 8, 2002, as amended at 79 FR 70095, Nov. 25, 2014; 88 FR 44052, July 11, 2023]

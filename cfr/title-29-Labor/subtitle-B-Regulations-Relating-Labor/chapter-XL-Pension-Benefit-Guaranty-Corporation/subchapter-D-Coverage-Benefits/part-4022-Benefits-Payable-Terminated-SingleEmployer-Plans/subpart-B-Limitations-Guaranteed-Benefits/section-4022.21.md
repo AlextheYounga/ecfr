@@ -1,7 +1,5 @@
 ##### § 4022.21 Limitations; in general. #####
 
-Link to an amendment published at 88 FR 44052, July 11, 2023.
-
 (a)(1) Subject to paragraphs (b), (c), (d), and (e) of this section, the PBGC will not guarantee that part of an installment payment that exceeds the dollar amount payable as a straight life annuity commencing at normal retirement age, or thereafter, to which a participant would have been entitled under the provisions of the plan in effect on the termination date, on the basis of his credited service to such date. If the plan does not provide a straight life annuity either as its normal form of retirement benefit or as an option to the normal form, the PBGC will for purposes of this paragraph convert the plan's normal form benefit to a straight life annuity of equal actuarial value as determined by the PBGC.
 
 (2) The limitation of paragraph (a)(1) of this section shall not apply to:
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 44052, July 11, 2023.
 
 (b) The PBGC will not guarantee the payment of that part of any benefit that exceeds the limitations in section 4022(b) of ERISA and this subpart B.
 
-(c)(1) Except as provided in paragraph (c)(2) of this section, the PBGC does not guarantee a benefit payable in a single installment (or substantially so) upon the death of a participant or his surviving beneficiary unless that benefit is substantially derived from a reduction in the pension benefit payable to the participant or surviving beneficiary.
+(c)(1) Except as provided in paragraph (c)(2) of this section, the PBGC does not guarantee a benefit payable in a lump sum (or substantially so) upon the death of a participant or his surviving beneficiary unless that benefit is substantially derived from a reduction in the pension benefit payable to the participant or surviving beneficiary.
 
 (2) Paragraphs (a) and (c)(1) of this section do not apply to that portion of accumulated mandatory employee contributions payable under a plan upon the death of a participant, and such a benefit is a pension benefit for purposes of this part.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 88 FR 44052, July 11, 2023.
 
 (ii) *Joint-and-survivor annuity.* The facts are the same as Example (i) (paragraph (e)(2)(i) of this section), except that the participant elects to receive his benefit as a 50% joint-and-survivor annuity. Before plan termination, the participant was receiving a total benefit of $1,777: His $1,530 accrued benefit, reduced by 10% for the survivor benefit, plus the $400 temporary supplement. From the termination date until the participant reaches age 62, PBGC will guarantee $1,500: The $1,500 accrued benefit (as a straight-life annuity) as of the bankruptcy filing date, reduced to $1,350 to reflect the 10% reduction for the survivor benefit, plus $150 of the temporary supplement that, in combination with the $1,350, does not exceed the $1,500 accrued-at-normal limit. When the participant reaches age 62, his guaranteed benefit is reduced to $1,350, because under plan provisions the temporary supplement ceases at that time.
 
-[61 FR 34028, July 1, 1996, as amended at 67 FR 16956, Apr. 8, 2002; 76 FR 34602, June 14, 2011]
+[61 FR 34028, July 1, 1996, as amended at 67 FR 16956, Apr. 8, 2002; 76 FR 34602, June 14, 2011; 88 FR 44052, July 11, 2023]

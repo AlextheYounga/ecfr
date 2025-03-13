@@ -1,0 +1,3 @@
+##### § 242.4 Consultation with other agencies. #####
+
+The United States Agency for International Development will, to the extent possible, consult with the appropriate officials' other federal agencies to identify their current and former covered employees, and current and former dependents who reported an anomalous health incident. This consultation is solely to assist USAID in determining who might be initially eligible for payment under the HAVANA Act.
