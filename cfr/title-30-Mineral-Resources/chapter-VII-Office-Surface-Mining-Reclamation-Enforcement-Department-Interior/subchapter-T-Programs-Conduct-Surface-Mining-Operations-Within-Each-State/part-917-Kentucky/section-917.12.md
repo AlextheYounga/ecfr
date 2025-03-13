@@ -1,5 +1,7 @@
 ##### § 917.12 State regulatory program and proposed program amendment provisions not approved. #####
 
+Link to an amendment published at 89 FR 66218, Aug. 15, 2024.
+
 (a) The Director does not approve the following provisions of the proposed program amendment concerning permit renewals that Kentucky submitted on April 23, 1998:
 
 (1) The phrase “\* \* \* if a permit has expired or \* \* \*” in KRS 350.060(16).

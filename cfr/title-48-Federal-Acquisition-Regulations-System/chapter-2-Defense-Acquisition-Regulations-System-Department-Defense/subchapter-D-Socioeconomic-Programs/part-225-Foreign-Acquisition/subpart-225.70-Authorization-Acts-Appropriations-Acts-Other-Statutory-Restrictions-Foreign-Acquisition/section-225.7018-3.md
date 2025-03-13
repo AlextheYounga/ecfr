@@ -20,7 +20,7 @@ The restriction in section 225.7018-2 does not apply to an acquisition—
 
 (iii) Effective January 1, 2027, a covered material that is a mill product such as bar, billet, slab, wire, cube, sphere, block, blank, plate, or sheet, that has not been incorporated into an end item, subsystem, assembly, or component;
 
-(2) An electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to 10 U.S.C. 187 determines that the domestic availability of a particular electronic device is critical to national security (but see PGI 225.7018-3(c)(2) with regard to samarium-cobalt magnets used in electronic components); or
+(2) An electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to 50 U.S.C. 98h-1 determines that the domestic availability of a particular electronic device is critical to national security (but see PGI 225.7018-3(c)(2) with regard to samarium-cobalt magnets used in electronic components); or
 
 (3) A neodymium-iron-boron magnet manufactured from recycled material if the milling of the recycled material and sintering of the final magnet takes place in the United States.
 
@@ -30,4 +30,4 @@ The restriction in section 225.7018-2 does not apply to an acquisition—
 
 (2) For samarium-cobalt magnets or neodymium-iron-boron magnets, the term “required form” refers to the form and properties of the magnets.
 
-[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022; 89 FR 46820, May 30, 2024]
+[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022; 89 FR 46820, May 30, 2024; 89 FR 66286, Aug. 15, 2024]

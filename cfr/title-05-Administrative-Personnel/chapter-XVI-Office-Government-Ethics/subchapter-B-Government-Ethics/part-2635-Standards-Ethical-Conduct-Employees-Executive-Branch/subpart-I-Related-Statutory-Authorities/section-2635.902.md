@@ -8,13 +8,13 @@
 
 (d) The prohibition against assisting in the prosecution of claims against the Government or acting as agent or attorney before the Government (18 U.S.C. 205).
 
-(e) The post-employment restrictions applicable to former employees (18 U.S.C. 207, with implementing regulations at parts 2637 and 2641 of this chapter).
+(e) The post-employment restrictions applicable to former employees (18 U.S.C. 207 and the regulation at part 2641 of this chapter).
 
-(f) The prohibition on certain former agency officials' acceptance of compensation from a contractor (41 U.S.C. 423(d)).
+(f) The prohibition on certain former agency officials' acceptance of compensation from a contractor (41 U.S.C. 2104).
 
-(g) The prohibition against participating in matters affecting an employee's own financial interests or the financial interests of other specified persons or organizations (18 U.S.C. 208).
+(g) The prohibition against participating in matters affecting an employee's own financial interests or the financial interests of other specified persons or organizations (18 U.S.C. 208 and the regulation at part 2640 of this chapter).
 
-(h) The actions required of certain agency officials when they contact, or are contacted by, offerors or bidders regarding non-Federal employment (41 U.S.C. 423(c)).
+(h) The actions required of certain agency officials when they contact, or are contacted by, offerors or bidders regarding non-Federal employment (41 U.S.C. 2103).
 
 (i) The prohibition against receiving salary or any contribution to or supplementation of salary as compensation for Government service from a source other than the United States (18 U.S.C. 209).
 
@@ -28,7 +28,7 @@
 
 (n) [Reserved]
 
-(o) The prohibitions against certain political activities (5 U.S.C. 7321 through 7326 and 18 U.S.C. 602, 603, 606 and 607).
+(o) The prohibitions against certain political activities (5 U.S.C. 7321 through 7326 and 18 U.S.C. 602, 603, 606, and 607).
 
 (p) The prohibitions against disloyalty and striking (5 U.S.C. 7311 and 18 U.S.C. 1918).
 
@@ -44,7 +44,7 @@
 
 (v) The prohibition against fraud or false statements in a Government matter (18 U.S.C. 1001).
 
-(w) The prohibition against concealing, mutilating or destroying a public record (18 U.S.C. 2071).
+(w) The prohibition against concealing, mutilating, or destroying a public record (18 U.S.C. 2071).
 
 (x) The prohibition against counterfeiting or forging transportation requests (18 U.S.C. 508).
 
@@ -54,7 +54,7 @@
 
 (aa) The prohibition against disclosure of proprietary information and certain other information of a confidential nature (18 U.S.C. 1905).
 
-(bb) The prohibitions on disclosing and obtaining certain procurement information (41 U.S.C. 423(a) and (b)).
+(bb) The prohibitions on disclosing and obtaining certain procurement information (41 U.S.C. 2102).
 
 (cc) The prohibition against unauthorized use of documents relating to claims from or by the Government (18 U.S.C. 285).
 
@@ -74,6 +74,4 @@
 
 (kk) The prohibition against failing to account for public money (18 U.S.C. 643).
 
-(ll) The prohibition against embezzlement of the money or property of another person that is in the possession of an employee by reason of his employment (18 U.S.C. 654).
-
-[57 FR 35042, Aug. 7, 1992, as amended at 62 FR 48748, Sept. 17, 1997; 64 FR 2422, Jan. 14, 1999; 65 FR 69657, Nov. 20, 2000]
+(ll) The prohibition against embezzlement of the money or property of another person that is in the possession of an employee by reason of their employment (18 U.S.C. 654).

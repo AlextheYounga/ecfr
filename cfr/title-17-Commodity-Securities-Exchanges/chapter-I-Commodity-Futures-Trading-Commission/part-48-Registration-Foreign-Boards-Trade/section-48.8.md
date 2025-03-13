@@ -1,5 +1,7 @@
 ##### § 48.8 Conditions of registration. #####
 
+Link to an amendment published at 89 FR 66209, Aug. 15, 2024.
+
 Upon registration under this part, and on an ongoing basis thereafter, the foreign board of trade and the clearing organization shall comply with the applicable conditions of registration set forth in this section and any additional conditions that the Commission deems necessary and may impose, in its discretion, and after appropriate notice and opportunity to respond. Such conditions could include, but are not limited to, additional conditions applicable to the listing of swap contracts. Continued registration is expressly conditioned upon satisfaction of these conditions.
 
 (a) *Specified conditions for maintaining registration.* (1) Registration Requirements: The foreign board of trade and its clearing organization shall continue to satisfy all of the requirements for registration set forth in § 48.7.

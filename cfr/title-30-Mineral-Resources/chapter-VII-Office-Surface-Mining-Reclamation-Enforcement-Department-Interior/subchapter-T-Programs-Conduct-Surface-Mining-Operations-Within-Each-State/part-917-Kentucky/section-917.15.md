@@ -1,6 +1,6 @@
 ##### § 917.15 Approval of Kentucky regulatory program amendments. #####
 
-Link to an amendment published at 89 FR 64789, Aug. 8, 2024.
+Link to an amendment published at 89 FR 64789, Aug. 8, 2024.Link to an amendment published at 89 FR 66218, Aug. 15, 2024.
 
 (a) The following is a list of the dates amendments were submitted to OSM, the dates when the Director's decision approving all, or portions of these amendments, were published in the Federal Register and the State citations or a brief description of each amendment. The amendments in this table are listed in order of the date of final publication in the Federal Register.
 

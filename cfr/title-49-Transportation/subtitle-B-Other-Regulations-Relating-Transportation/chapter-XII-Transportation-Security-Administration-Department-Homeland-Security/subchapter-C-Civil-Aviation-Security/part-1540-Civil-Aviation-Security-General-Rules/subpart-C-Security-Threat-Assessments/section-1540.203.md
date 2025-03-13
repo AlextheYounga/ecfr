@@ -30,7 +30,7 @@
 
 (7) If the applicant is a U.S. citizen born abroad or a naturalized U.S. citizen, their U.S. passport number; or the 10-digit document number from the applicant's Certificate of Birth Abroad, Form DS-1350.
 
-(8) If the applicant is not a U.S. citizen, the applicant's Alien Registration Number.
+(8) If the applicant is not a U.S. citizen, the applicant's Alien Registration Number; a Form I-94 Arrival and Departure record containing an I-94 number; or other document as authorized by TSA and listed on the TSA website as permissible for this purpose.
 
 (9) The applicant's daytime telephone number.
 
@@ -86,4 +86,4 @@ I acknowledge that if I do not successfully complete the security threat assessm
 
 (2) If the applicant asserts completion of a comparable threat assessment, it expires five years from the date of issuance of the credential that corresponds to the comparable assessment, or the date on which the credential is revoked for any reason.
 
-[74 FR 47700, Sept. 16, 2009, as amended at 76 FR 51867, Aug. 18, 2011]
+[74 FR 47700, Sept. 16, 2009, as amended at 76 FR 51867, Aug. 18, 2011; 89 FR 66289, Aug. 15, 2024]

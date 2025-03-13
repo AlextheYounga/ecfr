@@ -26,12 +26,22 @@
 
 (10) Environmental information consistent with 44 CFR part 9, Floodplain Management and Protection of Wetlands, and other applicable environmental and historic preservation laws, regulations, Executive Orders, and agency policy.
 
-(d) *Application submission time limit.* The State's application may be amended as the State identifies and selects local project applications to be funded. The State must submit all local HMGP applications and funding requests for the purpose of identifying new projects to the Regional Administrator within 12 months of the date of disaster declaration.
+(d) *Application submission time limit.* The State's application may be amended as the State identifies and selects local project applications to be funded. The State must submit all local HMGP applications and funding requests for the purpose of identifying new projects to the Regional Administrator within 15 months of the date of disaster declaration.
 
-(e) *Extensions.* The State may request the Regional Administrator to extend the application time limit by 30 to 90 day increments, not to exceed a total of 180 days. The recipient must include a justification in its request.
+(e) *Extensions.* Upon written request from the applicant, FEMA may extend the application submission timeline as follows:
 
-(f) *FEMA approval.* The application and supplement(s) will be submitted to the FEMA Regional Administrator for approval. FEMA has final approval authority for funding of all projects.
+(1) The State may request the Regional Administrator to extend the application time limit by 30 to 120 day increments, not to exceed a total of 240 days. The applicant must include a justification in its request.
 
-(g) *Indian Tribal recipients.* Indian Tribal governments may submit a SF 424 directly to the Regional Administrator.
+(2) FEMA will only consider requests for extensions beyond 240 days for extenuating circumstances outside of the applicant's control. Such requests must be submitted to the Regional Administrator and must include justification. The Regional Administrator, in coordination with FEMA's Assistant Administrator for the Mitigation Directorate, may extend the application time limit for a reasonable amount of time based upon the extenuating circumstances.
 
-[67 FR 8853, Feb. 26, 2002, as amended at 79 FR 76086, Dec. 19, 2014; 81 FR 56534, Aug. 22, 2016; 86 FR 50678, Sept. 10, 2021]
+(f) *Reopening of application period.* FEMA's Assistant Administrator for the Mitigation Directorate may reopen a closed application period for up to 180 days in the following circumstances:
+
+(1) *Recalculation of assistance.* If FEMA approves a recalculation of assistance under § 206.432 and an applicant requests to reopen the application period within 60 days of FEMA's recalculation approval.
+
+(2) *Appeal.* If FEMA grants an appeal under § 206.440 for an application extension denial after an application period is closed.
+
+(g) *FEMA approval.* The applicant must submit its application and supplement(s) to the FEMA Regional Administrator for approval. FEMA has final approval authority for funding of all projects.
+
+(h) *Indian Tribal recipients.* Indian Tribal governments may submit a SF 424 directly to the Regional Administrator.
+
+[67 FR 8853, Feb. 26, 2002, as amended at 79 FR 76086, Dec. 19, 2014; 81 FR 56534, Aug. 22, 2016; 86 FR 50678, Sept. 10, 2021; 89 FR 66253, Aug. 15, 2024]

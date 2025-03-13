@@ -1,6 +1,6 @@
 ##### 252.223-7001 Hazard warning labels. #####
 
-As prescribed in 223.303, use the following clause:
+As prescribed in 223.304, use the following clause:
 
 Hazard Warning Labels (DEC 1991)
 
@@ -29,4 +29,4 @@ Hazard Warning Labels (DEC 1991)
 
 (e) The Contractor shall also comply with MIL-STD-129, Marking for Shipment and Storage (including revisions adopted during the term of this contract).
 
-(End of clause)
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 89 FR 66284, Aug. 15, 2024]

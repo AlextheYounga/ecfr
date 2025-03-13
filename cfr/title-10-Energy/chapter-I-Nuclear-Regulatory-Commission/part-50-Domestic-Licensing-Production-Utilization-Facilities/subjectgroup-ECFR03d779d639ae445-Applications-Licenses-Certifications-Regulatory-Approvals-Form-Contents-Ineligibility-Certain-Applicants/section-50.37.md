@@ -1,7 +1,5 @@
 ##### § 50.37 Agreement limiting access to Classified Information. #####
 
-Link to an amendment published at 89 FR 57719, July 16, 2024.
+As part of its application and in any event before the receipt of Restricted Data or classified National Security Information or the issuance of a license, construction permit, early site permit, or standard design approval, or before the Commission has adopted a final standard design certification rule under part 52 of this chapter, the applicant shall agree in writing that it will not permit any individual to have access to, or any facility to possess, Restricted Data or classified National Security Information until the individual and/or facility has been approved for access under the provisions of 10 CFR parts 25 and/or 95. The agreement of the applicant becomes part of the license, or construction permit, or standard design approval.
 
-As part of its application and in any event before the receipt of Restricted Data or classified National Security Information or the issuance of a license, construction permit, early site permit, or standard design approval, or before the Commission has adopted a final standard design certification rule under part 52 of this chapter, the applicant shall agree in writing that it will not permit any individual to have access to any facility to possess Restricted Data or classified National Security Information until the individual and/or facility has been approved for access under the provisions of 10 CFR parts 25 and/or 95. The agreement of the applicant becomes part of the license, or construction permit, or standard design approval.
-
-[72 FR 49493, Aug. 28, 2007]
+[89 FR 57719, July 16, 2024]

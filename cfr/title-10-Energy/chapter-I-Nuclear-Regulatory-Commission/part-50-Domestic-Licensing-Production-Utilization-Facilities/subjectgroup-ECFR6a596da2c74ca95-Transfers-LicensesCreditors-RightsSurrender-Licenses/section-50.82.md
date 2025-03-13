@@ -1,16 +1,14 @@
 ##### § 50.82 Termination of license. #####
 
-Link to an amendment published at 89 FR 57720, July 16, 2024.
-
 For power reactor licensees who, before the effective date of this rule, either submitted a decommissioning plan for approval or possess an approved decommissioning plan, the plan is considered to be the PSDAR submittal required under paragraph (a)(4) of this section and the provisions of this section apply accordingly. For power reactor licensees whose decommissioning plan approval activities have been relegated to notice of opportunity for a hearing under subpart G of 10 CFR part 2, the public meeting convened and 90-day delay of major decommissioning activities required in paragraphs (a)(4)(ii) and (a)(5) of this section shall not apply, and any orders arising from proceedings under subpart G of 10 CFR part 2 shall continue and remain in effect absent any orders from the Commission.
 
 (a) For power reactor licensees—
 
 (1)(i) When a licensee has determined to permanently cease operations the licensee shall, within 30 days, submit a written certification to the NRC, consistent with the requirements of § 50.4(b)(8);
 
-(ii) Once fuel has been permanently removed from the reactor vessel, the licensee shall submit a written certification to the NRC that meets the requirements of § 50.4(b)(9) and;
+(ii) Once fuel has been permanently removed from the reactor vessel, the licensee shall submit a written certification to the NRC that meets the requirements of § 50.4(b)(9); and
 
-(iii) For licensees whose licenses have been permanently modified to allow possession but not operation of the facility, before the effective date of this rule, the certifications required in paragraphs (a)(1) (i)-(ii) of this section shall be deemed to have been submitted.
+(iii) For licensees whose licenses have been permanently modified to allow possession but not operation of the facility, before August 28, 1996, the certifications required in paragraphs (a)(1)(i) through (ii) of this section shall be deemed to have been submitted.
 
 (2) Upon docketing of the certifications for permanent cessation of operations and permanent removal of fuel from the reactor vessel, or when a final legally effective order to permanently cease operations has come into effect, the 10 CFR part 50 license no longer authorizes operation of the reactor or emplacement or retention of fuel into the reactor vessel.
 
@@ -22,7 +20,7 @@ For power reactor licensees who, before the effective date of this rule, either 
 
 (5) Licensees shall not perform any major decommissioning activities, as defined in § 50.2, until 90 days after the NRC has received the licensee's PSDAR submittal and until certifications of permanent cessation of operations and permanent removal of fuel from the reactor vessel, as required under § 50.82(a)(1), have been submitted.
 
-(6) Licensees shall not perform any decommissioning activities, as defined in § 50.2, that—
+(6) Licensees shall not perform any decommissioning activities that—
 
 (i) Foreclose release of the site for possible unrestricted use;
 
@@ -36,7 +34,7 @@ For power reactor licensees who, before the effective date of this rule, either 
 
 (A) The withdrawals are for expenses for legitimate decommissioning activities consistent with the definition of decommissioning in § 50.2;
 
-(B) The expenditure would not reduce the value of the decommissioning trust below an amount necessary to place and maintain the reactor in a safe storage condition if unforeseen conditions or expenses arise and;
+(B) The expenditure would not reduce the value of the decommissioning trust below an amount necessary to place and maintain the reactor in a safe storage condition if unforeseen conditions or expenses arise; and
 
 (C) The withdrawals would not inhibit the ability of the licensee to complete funding of any shortfalls in the decommissioning trust needed to ensure the availability of funds to ultimately release the site and terminate the license.
 
@@ -132,4 +130,4 @@ For power reactor licensees who, before the effective date of this rule, either 
 
 (c) For a facility that has permanently ceased operation before the expiration of its license, the collection period for any shortfall of funds will be determined, upon application by the licensee, on a case-by-case basis taking into account the specific financial situation of each licensee.
 
-[61 FR 39301, July 29, 1996, as amended at 62 FR 39091, July 21, 1997; 68 FR 19727, Apr. 22, 2003; 76 FR 35571, June 17, 2011; 79 FR 66603, Nov. 10, 2014]
+[61 FR 39301, July 29, 1996, as amended at 62 FR 39091, July 21, 1997; 68 FR 19727, Apr. 22, 2003; 76 FR 35571, June 17, 2011; 79 FR 66603, Nov. 10, 2014; 89 FR 57720, July 16, 2024]

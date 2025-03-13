@@ -1,5 +1,7 @@
 ##### § 48.6 Foreign boards of trade providing direct access pursuant to existing no-action relief. #####
 
+Link to an amendment published at 89 FR 66209, Aug. 15, 2024.
+
 (a) A foreign board of trade operating pursuant to existing no-action relief as of the effective date of this part 48 must register with the Commission pursuant to this part in order to continue to provide direct access to its electronic trading and order matching system from the United States.
 
 (b)(1) The application of a foreign board of trade operating pursuant to existing no-action relief must include a complete Form FBOT and Supplement S-1, as set forth in the appendix to this part. If the foreign board of trade, as part of its application for registration, wishes to rely on information and documentation previously submitted electronically in connection with its request for no-action relief in order to demonstrate that it satisfies the registration requirements set forth in § 48.7, (limited application) the foreign board of trade must:

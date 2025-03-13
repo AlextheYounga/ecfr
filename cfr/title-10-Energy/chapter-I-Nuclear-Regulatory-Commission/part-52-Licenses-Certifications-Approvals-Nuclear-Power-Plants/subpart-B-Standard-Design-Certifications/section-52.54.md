@@ -1,7 +1,5 @@
 ##### § 52.54 Issuance of standard design certification. #####
 
-Link to an amendment published at 89 FR 57721, July 16, 2024.
-
 (a) After conducting a rulemaking proceeding under § 52.51 on an application for a standard design certification and receiving the report to be submitted by the Advisory Committee on Reactor Safeguards under § 52.53, the Commission may issue a standard design certification in the form of a rule for the design which is the subject of the application, if the Commission determines that:
 
 (1) The application meets the applicable standards and requirements of the Atomic Energy Act and the Commission's regulations;
@@ -22,4 +20,6 @@ Link to an amendment published at 89 FR 57721, July 16, 2024.
 
 (b) The design certification rule must specify the site parameters, design characteristics, and any additional requirements and restrictions of the design certification rule.
 
-(c) After the Commission has adopted a final design certification rule, the applicant shall not permit any individual to have access to or any facility to possess restricted data or classified National Security Information until the individual and/or facility has been approved for access under the provisions of 10 CFR parts 25 and/or 95, as applicable.
+(c) After the Commission has adopted a final design certification rule, the applicant shall not permit any individual to have access to, or any facility to possess, Restricted Data or classified National Security Information until the individual and/or facility has been approved for access under the provisions of 10 CFR parts 25 and/or 95, as applicable.
+
+[72 FR 49517, Aug. 28, 2007, as amended at 89 FR 57721, July 16, 2024]

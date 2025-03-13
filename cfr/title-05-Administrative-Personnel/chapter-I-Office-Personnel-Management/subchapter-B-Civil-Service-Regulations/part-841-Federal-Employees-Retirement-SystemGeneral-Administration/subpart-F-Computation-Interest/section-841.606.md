@@ -12,6 +12,6 @@ Interest on deposits under subpart F of part 842 of this chapter is compounded a
 
 (c) Additional interest on any uncollected balance will be compounded annually and accrued monthly. The additional interest due each month equals the remaining balance due times the difference between—
 
-(1) One and six tenths raised to the 1/12 power; and
+(1) One and six tenths raised to the1/12 power; and
 
 (2) One.

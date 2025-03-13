@@ -1,5 +1,7 @@
 ##### § 3555.303 Traditional servicing options. #####
 
+Link to an amendment published at 89 FR 66193, Aug. 15, 2024.
+
 (a) *Eligibility.* To be eligible for traditional servicing, all the following conditions must be met:
 
 (1) The borrower presently occupies the property;

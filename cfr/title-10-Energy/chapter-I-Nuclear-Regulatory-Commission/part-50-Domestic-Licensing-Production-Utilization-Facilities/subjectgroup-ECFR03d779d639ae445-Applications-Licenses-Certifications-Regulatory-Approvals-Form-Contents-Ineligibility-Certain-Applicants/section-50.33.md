@@ -1,7 +1,5 @@
 ##### § 50.33 Contents of applications; general information. #####
 
-Link to an amendment published at 89 FR 57719, July 16, 2024.
-
 Each application shall state:
 
 (a) Name of applicant;
@@ -70,10 +68,10 @@ Each application shall state:
 
 (i) If the proposed activity is the generation and distribution of electric energy under a class 103 license, a list of the names and addresses of such regulatory agencies as may have jurisdiction over the rates and services incident to the proposed activity, and a list of trade and news publications which circulate in the area where the proposed activity will be conducted and which are considered appropriate to give reasonable notice of the application to those municipalities, private utilities, public bodies, and cooperatives, which might have a potential interest in the facility.
 
-(j) If the application contains Restricted Data or other defense information, it shall be prepared in such manner that all Restricted Data and other defense information are separated from the unclassified information.
+(j) If the application contains Restricted Data or classified National Security Information, it shall be prepared in such manner that all Restricted Data and classified National Security Information are separated from the unclassified information.
 
 (k)(1) For an application for an operating license or combined license for a production or utilization facility, information in the form of a report, as described in § 50.75, indicating how reasonable assurance will be provided that funds will be available to decommission the facility.
 
 (2) On or before July 26, 1990, each holder of an operating license for a production or utilization facility in effect on July 27, 1990, shall submit information in the form of a report as described in § 50.75 of this part, indicating how reasonable assurance will be provided that funds will be available to decommission the facility.
 
-[21 FR 355, Jan. 19, 1956, as amended at 35 FR 19660, Dec. 29, 1970; 38 FR 3956, Feb. 9, 1973; 45 FR 55408, Aug. 19, 1980; 49 FR 35752, Sept. 12, 1984; 53 FR 24049, June 27, 1988; 69 FR 4448, Jan. 30, 2004; 72 FR 49490, Aug. 28, 2007; 88 FR 80074, Nov. 16, 2023]
+[21 FR 355, Jan. 19, 1956, as amended at 35 FR 19660, Dec. 29, 1970; 38 FR 3956, Feb. 9, 1973; 45 FR 55408, Aug. 19, 1980; 49 FR 35752, Sept. 12, 1984; 53 FR 24049, June 27, 1988; 69 FR 4448, Jan. 30, 2004; 72 FR 49490, Aug. 28, 2007; 88 FR 80074, Nov. 16, 2023; 89 FR 57719, July 16, 2024]

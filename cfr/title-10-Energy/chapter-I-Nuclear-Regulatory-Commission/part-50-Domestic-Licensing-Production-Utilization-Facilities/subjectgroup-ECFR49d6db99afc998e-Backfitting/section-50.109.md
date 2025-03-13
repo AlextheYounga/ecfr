@@ -1,7 +1,5 @@
 ##### § 50.109 Backfitting. #####
 
-Link to an amendment published at 89 FR 57720, July 16, 2024.
-
 (a)(1) Backfitting is defined as the modification of or addition to systems, structures, components, or design of a facility; or the design approval or manufacturing license for a facility; or the procedures or organization required to design, construct or operate a facility; any of which may result from a new or amended provision in the Commission's regulations or the imposition of a regulatory staff position interpreting the Commission's regulations that is either new or different from a previously applicable staff position after:
 
 (i) The date of issuance of the construction permit for the facility for facilities having construction permits issued after October 21, 1985;
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 57720, July 16, 2024.
 
 (3) Except as provided in paragraph (a)(4) of this section, the Commission shall require the backfitting of a facility only when it determines, based on the analysis described in paragraph (c) of this section, that there is a substantial increase in the overall protection of the public health and safety or the common defense and security to be derived from the backfit and that the direct and indirect costs of implementation for that facility are justified in view of this increased protection.
 
-(4) The provisions of paragraphs (a)(2) and (a)(3) of this section are inapplicable and, therefore, backfit analysis is not required and the standards in paragraph (a)(3) of this section do not apply where the Commission or staff, as appropriate, finds and declares, with appropriated documented evaluation for its finding, either:
+(4) The provisions of paragraphs (a)(2) and (a)(3) of this section are inapplicable and, therefore, backfit analysis is not required and the standards in paragraph (a)(3) of this section do not apply where the Commission or staff, as appropriate, finds and declares, with appropriate documented evaluation for its finding, either:
 
 (i) That a modification is necessary to bring a facility into compliance with a license or the rules or orders of the Commission, or into conformance with written commitments by the licensee; or
 
@@ -62,4 +60,4 @@ Link to an amendment published at 89 FR 57720, July 16, 2024.
 
 (e) The Executive Director for Operations shall be responsible for implementation of this section, and all analyses required by this section shall be approved by the Executive Director for Operations or his designee.
 
-[53 FR 20610, June 6, 1988, as amended at 54 FR 15398, Apr. 18, 1989; 72 FR 49504, Aug. 28, 2007]
+[53 FR 20610, June 6, 1988, as amended at 54 FR 15398, Apr. 18, 1989; 72 FR 49504, Aug. 28, 2007; 89 FR 57720, July 16, 2024]

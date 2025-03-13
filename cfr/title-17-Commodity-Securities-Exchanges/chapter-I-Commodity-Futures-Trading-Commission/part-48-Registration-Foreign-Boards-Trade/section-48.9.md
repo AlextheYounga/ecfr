@@ -1,5 +1,7 @@
 ##### § 48.9 Revocation of registration. #####
 
+Link to an amendment published at 89 FR 66209, Aug. 15, 2024.
+
 (a) Failure to Satisfy Registration Requirements or Conditions:
 
 (1) If the Commission determines that a registered foreign board of trade or the clearing organization has failed to satisfy any registration requirements or conditions for registration, the Commission shall notify the foreign board of trade of such determination, including the particular requirements or conditions that are not being satisfied, and shall afford the foreign board of trade or clearing organization an opportunity to make appropriate changes to bring it into compliance.

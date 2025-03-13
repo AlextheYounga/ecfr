@@ -1,5 +1,7 @@
 ##### § 48.4 Registration eligibility and scope. #####
 
+Link to an amendment published at 89 FR 66208, Aug. 15, 2024.
+
 (a) Only foreign boards of trade eligible to be registered, as defined in § 48.2(b) of this part, are eligible for registration with the Commission pursuant to this part.
 
 (b) A foreign board of trade may apply for registration under this part in order to permit the members and other participants of the foreign board of trade that are located in the United States to enter trades directly into the trading and order matching system of the foreign board of trade, to the extent that such members or other participants are:

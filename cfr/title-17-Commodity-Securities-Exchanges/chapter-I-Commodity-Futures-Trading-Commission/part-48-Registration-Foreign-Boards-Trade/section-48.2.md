@@ -1,5 +1,7 @@
 ##### § 48.2 Definitions. #####
 
+Link to an amendment published at 89 FR 66208, Aug. 15, 2024.
+
 For purposes of this part:
 
 (a) *Foreign board of trade.* Foreign board of trade means any board of trade, exchange or market located outside the United States, its territories or possessions, whether incorporated or unincorporated.

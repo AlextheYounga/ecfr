@@ -92,7 +92,7 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 *Alternate I.* As prescribed in 215.408(5)(i) and (5)(i)(B), use the following provision, which includes a different paragraph (c)(1).
 
-Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data—Alternate I (MAY 2024)
+Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data—Alternate I (Aug 2024)
 
 (a) *Definitions.* As used in this provision—
 
@@ -154,7 +154,7 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (3) The Offeror is responsible for determining whether a subcontractor qualifies for an exception from the requirement for submission of certified cost or pricing data on the basis of adequate price competition, *i.e.,* two or more responsible offerors, competing independently, submit priced offers that satisfy the Government's expressed requirement in accordance with FAR 15.403-1(c)(1)(i).
 
-(d) *Requirements for data other than certified cost or pricing data.* (1) Data other than certified cost or pricing data submitted in accordance with this provision shall include all data necessary to permit a determination that the proposed price is fair and reasonable, to include the requirements in Defense Federal Acquisition Regulation Supplement (DFARS) 215.402(a)(i), 215.404-1(b), and 237.7002(e).
+(d) *Requirements for data other than certified cost or pricing data.* (1) Data other than certified cost or pricing data submitted in accordance with this provision shall include all data necessary to permit a determination that the proposed price is fair and reasonable, to include the requirements in Defense Federal Acquisition Regulation Supplement (DFARS) 215.402(a)(i), 215.404-1(b), and 234.7002(e).
 
 (2) In cases in which uncertified cost data is required, the information shall be provided in the form in which it is regularly maintained by the Offeror or prospective subcontractor in its business operations.
 
@@ -182,4 +182,4 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (2) Paragraph (d) of this provision for subcontracts exceeding the simplified acquisition threshold defined in FAR part 2.
 
-(End of provision)[83 FR 4445, Jan. 31, 2018, as amended at 83 FR 30825, June 29, 2018; 84 FR 30950, June 28, 2019; 84 FR 33858, July 16, 2019; 88 FR 6590, Jan. 31, 2023; 89 FR 46809, May 30, 2024]
+(End of provision)[83 FR 4445, Jan. 31, 2018, as amended at 83 FR 30825, June 29, 2018; 84 FR 30950, June 28, 2019; 84 FR 33858, July 16, 2019; 88 FR 6590, Jan. 31, 2023; 89 FR 46809, May 30, 2024; 89 FR 66285, Aug. 15, 2024]

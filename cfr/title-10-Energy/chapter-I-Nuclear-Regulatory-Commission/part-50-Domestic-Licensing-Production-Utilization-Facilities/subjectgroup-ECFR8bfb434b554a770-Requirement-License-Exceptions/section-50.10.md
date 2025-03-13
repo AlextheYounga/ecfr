@@ -64,7 +64,7 @@ Link to an amendment published at 89 FR 57719, July 16, 2024.
 
 (ii) The presiding officer makes the finding in § 51.105(c) or § 51.107(d) of this chapter, as applicable;
 
-(iii) The Director determines that the applicable standards and requirements of the Act, and the Commission's regulations applicable to the activities to be conducted under the limited work authorization, have been met. The applicant is technically qualified to engage in the activities authorized. Issuance of the limited work authorization will provide reasonable assurance of adequate protection to public health and safety and will not be inimical to the common defense and security; and
+(iii) The Director determines that the applicable standards and requirements of the Act, and the Commission's regulations applicable to the activities to be conducted under the limited work authorization, have been met; the applicant is technically qualified to engage in the activities authorized; and issuance of the limited work authorization will provide reasonable assurance of adequate protection to public health and safety and will not be inimical to the common defense and security; and
 
 (iv) The presiding officer finds that there are no unresolved safety issues relating to the activities to be conducted under the limited work authorization that would constitute good cause for withholding the authorization.
 
@@ -74,4 +74,4 @@ Link to an amendment published at 89 FR 57719, July 16, 2024.
 
 (g) *Implementation of redress plan.* If construction is terminated by the holder, the underlying application is withdrawn by the applicant or denied by the NRC, or the limited work authorization is revoked by the NRC, then the holder must begin implementation of the redress plan in a reasonable time. The holder must also complete the redress of the site no later than 18 months after termination of construction, revocation of the limited work authorization, or upon effectiveness of the Commission's final decision denying the associated construction permit application or the underlying combined license application, as applicable.
 
-[72 FR 57441, Oct. 9, 2007; 84 FR 65644, Nov. 29, 2019; 88 FR 80074, Nov. 16, 2023]
+[72 FR 57441, Oct. 9, 2007; 84 FR 65644, Nov. 29, 2019; 88 FR 80074, Nov. 16, 2023; 89 FR 57719, July 16, 2024]

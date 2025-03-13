@@ -16,7 +16,7 @@
 
 (b) One or more of the following exceptions may apply to an end item or component that includes any of the following, under a prime contract or subcontract at any tier. The restrictions in 225.7003-2 do not apply to the following:
 
-(1) Electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to 10 U.S.C. 187, determines that the domestic availability of a particular electronic component is critical to national security.
+(1) Electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to 50 U.S.C. 98h-1, determines that the domestic availability of a particular electronic component is critical to national security.
 
 (2)(i) Commercially available off-the-shelf (COTS) items containing specialty metals, except the restrictions do apply to contracts or subcontracts for the acquisition of—
 
@@ -84,4 +84,4 @@
 
 (3) Because national security waivers will only be granted when the acquisition in question is necessary to the national security interests of the United States, the requirement for a plan will be applied as a condition subsequent, and not a condition precedent, to the granting of a waiver.
 
-[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 76994, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023; 88 FR 73237, Oct. 25, 2023; 88 FR 88533, Dec. 22, 2023; 89 FR 60831, July 29, 2024]
+[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 76994, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023; 88 FR 73237, Oct. 25, 2023; 88 FR 88533, Dec. 22, 2023; 89 FR 60831, July 29, 2024; 89 FR 66286, Aug. 15, 2024]

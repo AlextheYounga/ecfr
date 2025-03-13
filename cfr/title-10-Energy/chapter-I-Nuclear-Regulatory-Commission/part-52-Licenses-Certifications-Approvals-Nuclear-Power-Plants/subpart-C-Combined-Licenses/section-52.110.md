@@ -1,7 +1,5 @@
 ##### § 52.110 Termination of license. #####
 
-Link to an amendment published at 89 FR 57721, July 16, 2024.Link to an amendment published at 89 FR 64353, Aug. 7, 2024.
-
 (a)(1) When a licensee has determined to permanently cease operations the licensee shall, within 30 days, submit a written certification to the NRC, consistent with the requirements of § 52.3(b)(8);
 
 (2) Once fuel has been permanently removed from the reactor vessel, the licensee shall submit a written certification to the NRC that meets the requirements of § 52.3(b)(9); and
@@ -32,7 +30,7 @@ Link to an amendment published at 89 FR 57721, July 16, 2024.Link to an amendmen
 
 (i) The withdrawals are for expenses for legitimate decommissioning activities consistent with the definition of decommissioning in § 52.1;
 
-(ii) The expenditure would not reduce the value of the decommissioning trust below an amount necessary to place and maintain the reactor in a safe storage condition if unforeseen conditions or expenses arise and;
+(ii) The expenditure would not reduce the value of the decommissioning trust below an amount necessary to place and maintain the reactor in a safe storage condition if unforeseen conditions or expenses arise; and
 
 (iii) The withdrawals would not inhibit the ability of the licensee to complete funding of any shortfalls in the decommissioning trust needed to ensure the availability of funds to ultimately release the site and terminate the license.
 
@@ -75,3 +73,5 @@ Link to an amendment published at 89 FR 57721, July 16, 2024.Link to an amendmen
 (2) The final radiation survey and associated documentation, including an assessment of dose contributions associated with parts released for use before approval of the license termination plan, demonstrate that the facility and site have met the criteria for decommissioning in subpart E to 10 CFR part 20.
 
 (l) For a facility that has permanently ceased operation before the expiration of its license, the collection period for any shortfall of funds will be determined, upon application by the licensee, on a case-by-case basis taking into account the specific financial situation of each licensee.
+
+[72 FR 49517, Aug. 28, 2007, as amended at 89 FR 64353, Aug. 7, 2024]

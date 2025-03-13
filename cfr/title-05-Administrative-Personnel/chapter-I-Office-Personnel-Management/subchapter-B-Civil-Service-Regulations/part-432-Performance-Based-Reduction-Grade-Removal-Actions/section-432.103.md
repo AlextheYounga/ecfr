@@ -12,7 +12,8 @@ For the purpose of this part—
 
 (e) *Reduction in grade* means the involuntary assignment of an employee to a position at a lower classification or job grading level.
 
-(f) *Removal* means the involuntary separation of an employee from employment with an agency. P\>(g) *Similar positions* mean positions in which the duties performed are similar in nature and character and require substantially the same or similar qualifications, so that the incumbents could be interchanged without significant training or undue interruption to the work.
+(f) *Removal* means the involuntary separation of an employee from employment with an agency.
+P\>(g) *Similar positions* mean positions in which the duties performed are similar in nature and character and require substantially the same or similar qualifications, so that the incumbents could be interchanged without significant training or undue interruption to the work.
 
 (h) *Unacceptable performance* means performance of an employee that fails to meet established performance standards in one or more critical elements of such employee's position.
 

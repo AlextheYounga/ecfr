@@ -2,7 +2,7 @@
 
 (a)(1) Each applicant for a license authorizing operation of a production or utilization facility shall include in his application proposed technical specifications in accordance with the requirements of this section. A summary statement of the bases or reasons for such specifications, other than those covering administrative controls, shall also be included in the application, but shall not become part of the technical specifications.
 
-(a)(2) Each applicant for a design certification or manufacturing license under part 52 of this chapter shall include in its application proposed generic technical specifications in accordance with the requirements of this section for the portion of the plant that is within the scope of the design certification or manufacturing license application.
+(2) Each applicant for a design certification or manufacturing license under part 52 of this chapter shall include in its application proposed generic technical specifications in accordance with the requirements of this section for the portion of the plant that is within the scope of the design certification or manufacturing license application.
 
 (b) Each license authorizing operation of a production or utilization facility of a type described in § 50.21 or § 50.22 will include technical specifications. The technical specifications will be derived from the analyses and evaluation included in the safety analysis report, and amendments thereto, submitted pursuant to § 50.34. The Commission may include such additional technical specifications as the Commission finds appropriate.
 

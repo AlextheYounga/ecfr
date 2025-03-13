@@ -56,7 +56,7 @@ In this part—
 
 *Marriage* means a marriage recognized in law or equity under the whole law of the jurisdiction with the most significant interest in the marital status of the employee, Member, or retiree. If a jurisdiction would recognize more than one marriage in law or equity, the Office of Personnel Management (OPM) will recognize only one marriage but will defer to the local courts to determine which marriage should be recognized.
 
-*Minimum retirement age* means the minimum retirement age as defined in § 842.202 of this chapter. 1
+*Minimum retirement age* means the minimum retirement age as defined in § 842.202 of this chapter.1
 
 1 The definition of minimum retirement age which will be codified at 5 CFR 842.202 reads:
 

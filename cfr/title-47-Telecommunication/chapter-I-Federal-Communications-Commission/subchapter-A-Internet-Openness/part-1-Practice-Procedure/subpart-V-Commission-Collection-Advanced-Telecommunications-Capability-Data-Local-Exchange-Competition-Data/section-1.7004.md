@@ -1,5 +1,7 @@
 ##### § 1.7004 Scope, content, and frequency of Digital Opportunity Data Collection filings. #####
 
+Link to an amendment published at 89 FR 66268, Aug. 15, 2024.
+
 (a) All providers shall make biannual filings with the Commission in the Digital Opportunity Data Collection portal in accordance with this subpart.
 
 (b) Digital Opportunity Data Collection filings shall be made each year on or before March 1 (reporting data as of December 31 of the prior year) and September 1 (reporting data as of June 30 of the current year). Providers becoming subject to the provisions of this section for the first time shall file data initially for the reporting period in which they become eligible.

@@ -1,5 +1,7 @@
 ##### § 120.54 Activities that are not exports, reexports, retransfers, or temporary imports. #####
 
+Link to an amendment published at 89 FR 66214, Aug. 15, 2024.
+
 (a) The following activities are not exports, reexports, retransfers, or temporary imports:
 
 (1) Launching a spacecraft, launch vehicle, payload, or other item into space;

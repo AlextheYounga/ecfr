@@ -54,4 +54,4 @@
 
 (e) *Temporary continuation of coverage.* Employees and family members are entitled to temporary continuation of coverage only as provided under subpart K of this part.
 
-[33 FR 12510, Sept. 4, 1968] Editorial Note:For Federal Register citations affecting § 890.304, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[33 FR 12510, Sept. 4, 1968]Editorial Note:For Federal Register citations affecting § 890.304, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
