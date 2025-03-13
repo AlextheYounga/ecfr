@@ -1,5 +1,7 @@
 ##### § 212.19 Parole for entrepreneurs. #####
 
+Link to an amendment published at 89 FR 60301, July 25, 2024.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Entrepreneur* means an alien who possesses a substantial ownership interest in a start-up entity and has a central and active role in the operations of that entity, such that the alien is well-positioned, due to his or her knowledge, skills, or experience, to substantially assist the entity with the growth and success of its business. For purposes of this section, an alien may be considered to possess a substantial ownership interest if he or she possesses at least a 10 percent ownership interest in the start-up entity at the time of adjudication of the initial grant of parole and possesses at least a 5 percent ownership interest in the start-up entity at the time of adjudication of a subsequent period of re-parole. During the period of initial parole, the entrepreneur may continue to reduce his or her ownership interest in the start-up entity, but must, at all times during the period of initial parole, maintain at least a 5 percent ownership interest in the entity. During the period of re-parole, the entrepreneur may continue to reduce his or her ownership interest in the start-up entity, but must, at all times during the period of parole, maintain an ownership interest in the entity.
