@@ -40,7 +40,7 @@ Example.On January 1, 1968 M corporation establishes an employees' trust, which 
 
 (i) Amount of M corporation's contribution made on January 1, 1971, to the trust which is includible in A's gross income under paragraph (b)(1) of this section (50 percent substantially vested interest in the trust times $5,000 contribution)—$2,500.
 
-1974 (i) Amount of M corporation's contribution made on January 1, 1974, to the trust which is includible in A's gross income under paragraph (b)(1) of this section (50 percent substantially vested interest in the trust times $5,000 contribution)—$2,500.
+1974(i) Amount of M corporation's contribution made on January 1, 1974, to the trust which is includible in A's gross income under paragraph (b)(1) of this section (50 percent substantially vested interest in the trust times $5,000 contribution)—$2,500.
 
 (ii) Amount which would have been includible if A's entire interest had changed to a substantially vested interest (value of employee's interest in the trust attributable to employer contributions made after August 1, 1969—$11,000.
 

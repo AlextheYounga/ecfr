@@ -226,4 +226,4 @@ Example 4. Excess loss account taken into account.(i) *Facts.* P is the common p
 
 (d) *Disallowance of loss attributable to pre-1966 distributions.* No loss shall be allowed upon the sale or other disposition of stock, bonds, or other obligations of a member or former member to the extent that such loss is attributable to a distribution made in an affiliated year beginning before January 1, 1966, out of earnings and profits accumulated before the distributing corporation became a member.
 
-[T.D. 7246, 38 FR 759, Jan. 4, 1973] Editorial Note:For Federal Register citations affecting § 1.1502-11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 7246, 38 FR 759, Jan. 4, 1973]Editorial Note:For Federal Register citations affecting § 1.1502-11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

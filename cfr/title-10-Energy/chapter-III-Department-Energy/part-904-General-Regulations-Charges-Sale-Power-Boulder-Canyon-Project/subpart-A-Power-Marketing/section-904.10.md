@@ -4,6 +4,6 @@
 
 (b) Western will make available third-priority excess energy to the California Contractors based on the following formula:
 
-F =1/2 (A/B + C/D) (E); Where:A = Contractor's allocated CapacityB = Total California allocated CapacityC = Contractor's allocated Firm EnergyD = Total California allocated Firm EnergyE = Third-priority Excess Energy available to CaliforniaF = Contractor's third-priority Excess Energy
+F = 1/2 (A/B + C/D) (E); Where: A = Contractor's allocated Capacity B = Total California allocated Capacity C = Contractor's allocated Firm Energy D = Total California allocated Firm Energy E = Third-priority Excess Energy available to California F = Contractor's third-priority Excess Energy
 
 (c) The charge for all Excess Energy shall be the charge for Boulder Canyon Project Firm Energy existing at the time the Excess Energy is made available to the Contractor, including the appropriate Lower Basin Development Fund Contribution Charge.

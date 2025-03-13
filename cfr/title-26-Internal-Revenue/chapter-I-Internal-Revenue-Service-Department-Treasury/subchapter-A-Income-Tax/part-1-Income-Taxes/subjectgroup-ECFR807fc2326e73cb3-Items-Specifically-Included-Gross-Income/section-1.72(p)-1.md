@@ -114,7 +114,8 @@ A-11: (a) *Tax basis.* If the employee's account includes after-tax contribution
 
 Q-12: Is a deemed distribution under section 72(p) treated as an actual distribution for purposes of the qualification requirements of section 401, the distribution provisions of section 402, the distribution restrictions of section 401(k)(2)(B) or 403(b)(11), or the vesting requirements of § 1.411(a)-7(d)(5) (which affects the application of a graded vesting schedule in cases involving a prior distribution)?
 
-A-12: No; thus, for example, if a participant in a money purchase plan who is an active employee has a deemed distribution under section 72(p), the plan will not be considered to have made an in-service distribution to the participant in violation of the qualification requirements applicable to money purchase plans. Similarly, the deemed distribution is not eligible to be rolled over to an eligible retirement plan and is not considered an impermissible distribution of an amount attributable to elective contributions in a section 401(k) plan. See also § 1.402(c)-2(c)(3) and § 1.401(k)-1(d)(5)(iii).
+A-12: No; thus, for example, if a participant in a money purchase plan who is an active employee has a deemed distribution under section 72(p), the plan will not be considered to have made an in-service distribution to the participant in violation of the qualification requirements applicable to money purchase plans. Similarly, the deemed distribution is not eligible to be rolled over to an eligible retirement plan and is not considered an impermissible distribution of an amount attributable to elective contributions in a section 401(k) plan. See also § 1.402(c)-2(c)(3)
+and § 1.401(k)-1(d)(5)(iii).
 
 Q-13: How does a reduction (offset) of an account balance in order to repay a plan loan differ from a deemed distribution?
 

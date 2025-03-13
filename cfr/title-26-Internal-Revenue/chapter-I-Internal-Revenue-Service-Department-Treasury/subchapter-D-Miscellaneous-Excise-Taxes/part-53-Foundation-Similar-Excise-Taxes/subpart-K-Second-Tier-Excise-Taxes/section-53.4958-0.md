@@ -244,7 +244,7 @@ This section lists the major captions contained in §§ 53.4958-1 through 53.495
 
 (4) Examples.
 
-§ 53.4958-5 Transaction in which the amount of the economic benefit is determined in whole or in part by the revenues of one or more activities of the organization. [Reserved] § 53.4958-6 Rebuttable presumption that a transaction is not an excess benefit transaction.
+§ 53.4958-5 Transaction in which the amount of the economic benefit is determined in whole or in part by the revenues of one or more activities of the organization. [Reserved]§ 53.4958-6 Rebuttable presumption that a transaction is not an excess benefit transaction.
 
 (a) In general.
 

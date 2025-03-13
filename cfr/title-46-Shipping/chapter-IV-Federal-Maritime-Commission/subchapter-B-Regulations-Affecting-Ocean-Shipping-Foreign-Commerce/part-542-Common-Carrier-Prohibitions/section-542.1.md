@@ -1,6 +1,6 @@
 ##### § 542.1 Definition of unreasonable refusal of cargo space accommodations when available and unreasonable refusal to deal or negotiate with respect to vessel space provided by an ocean common carrier. #####
 
-Link to an amendment published at 89 FR 59672, July 23, 2024.
+Link to an amendment published at 89 FR 59672, July 23, 2024.Link to an amendment published at 90 FR 30, Jan. 2, 2025.
 
 (a) *Purpose.* This part establishes the elements and definitions necessary for the Federal Maritime Commission (Commission) to apply 46 U.S.C. 41104(a)(3) with respect to refusals of cargo space accommodations when available for containerized cargo and to apply 46 U.S.C. 41104(a)(10) with respect to refusals of vessel space accommodations provided by an ocean common carrier with respect to containerized cargo. This part applies to complaints brought before the Commission by a private party and enforcement cases brought by the Commission.
 

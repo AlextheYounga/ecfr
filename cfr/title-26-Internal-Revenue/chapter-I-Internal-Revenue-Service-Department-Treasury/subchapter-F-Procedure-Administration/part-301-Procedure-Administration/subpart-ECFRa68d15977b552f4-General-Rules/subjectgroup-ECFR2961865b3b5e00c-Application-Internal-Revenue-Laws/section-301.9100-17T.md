@@ -56,4 +56,4 @@
 
 (f) *Cross reference.* For temporary regulations under sections 57(c) and 163(d)(7) of the code, relating to elections with respect to net leases of real property, see § 12.8 of the regulations in this part (Temporary Income Tax Regulations Under the Revenue Act of 1971).
 
-(83 Stat. 487, 85 Stat. 522, 523; 26 U.S.C. 1 nt., 57(c)(4), 163(d)(7)) [T.D. 7032, 35 FR 4330, Mar. 11, 1970] Editorial Note:For Federal Register citations affecting § 301.9100-17T, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(83 Stat. 487, 85 Stat. 522, 523; 26 U.S.C. 1 nt., 57(c)(4), 163(d)(7))[T.D. 7032, 35 FR 4330, Mar. 11, 1970]Editorial Note:For Federal Register citations affecting § 301.9100-17T, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

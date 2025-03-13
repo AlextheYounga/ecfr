@@ -8,7 +8,7 @@
 
 *Mitigation meeting* is a personal appearance before a designated CBP official in which representatives of the violating entity can provide information and explain why CBP should mitigate the debarment.
 
-(b) *Notice of intent to debar*—(1) *Issuance of notice.* Upon receipt of a notice of violation from the Secretary of Labor pursuant to section 258 of the Immigration and Nationality Act (8 U.S.C. 1288(c)(4)(E)(i)), CBP will serve a notice of intent to debar on the entity subject to the notice of violation, as provided in paragraph (b)(3) of this section.
+(b) *Notice of intent to debar.* (1) *Issuance of notice.* Upon receipt of a notice of violation from the Secretary of Labor pursuant to section 258 of the Immigration and Nationality Act (8 U.S.C. 1288(c)(4)(E)(i)), CBP will serve a notice of intent to debar on the entity subject to the notice of violation, as provided in paragraph (b)(3) of this section.
 
 (2) *Contents of notice.* The notice of intent to debar will include the following:
 
@@ -28,9 +28,9 @@
 
 (3) *Service.* The notice of intent to debar will be served by a method that demonstrates receipt, such as certified mail with return receipt or express courier delivery, by the entity identified in the notice of violation received from the Secretary of Labor. The date of service is the date of receipt.
 
-(c) *Answer; request for mitigation meeting*—(1) *General.* Any entity upon which the notice has been served, or its authorized representative, may file with CBP an answer that indicates the specific reasons why the proposed debarment should be mitigated and whether a mitigation meeting is requested. CBP must receive the answer within 30 days from the date of service of the notice of intent to debar.
+(c) *Answer; request for mitigation meeting.* (1) *General.* Any entity upon which the notice has been served, or its authorized representative, may file with CBP an answer that indicates the specific reasons why the proposed debarment should be mitigated and whether a mitigation meeting is requested. CBP must receive the answer within 30 days from the date of service of the notice of intent to debar.
 
-(2) *Procedures*—(i) *Form.* The answer must be dated, typewritten or legibly written, signed under oath, and include the address at which the entity or its authorized representative desires to receive further communications. CBP may require that the answer and any supporting documentation be in English or be accompanied by an English translation certified by a competent translator.
+(2) *Procedures.* (i) *Form.* The answer must be dated, typewritten or legibly written, signed under oath, and include the address at which the entity or its authorized representative desires to receive further communications. CBP may require that the answer and any supporting documentation be in English or be accompanied by an English translation certified by a competent translator.
 
 (ii) *Supporting documentation required.* In addition to an answer, any entity responding to a notice of intent to debar must submit documentary evidence in support of any request for mitigation and may file a brief in support of any arguments made. The entity may present evidence in support of any request for mitigation at a mitigation meeting.
 
@@ -38,7 +38,7 @@
 
 (iv) *Good cause extension.* CBP, in its discretion, may extend the deadline for filing an answer up to an additional 30 days from the original receipt of CBP's notice upon a showing of good cause. Upon receipt of a request to extend the deadline for filing an answer, CBP will respond to the request for an extension within 5 business days by certified mail or express courier.
 
-(d) *Disposition of case*—(1) *No response filed or allegations not contested.* If no answer is timely filed or the answer admits the allegations in the notice of intent to debar and does not request mitigation or a mitigation meeting, the proposed debarment specified in the notice of intent to debar automatically will become a final order of debarment 30 days after service of the notice of intent to debar. If CBP grants a good cause extension pursuant to paragraph (c)(2)(iv) of this section, and no answer is timely filed, the proposed debarment automatically will become a final order of debarment when the time for filing an answer expires.
+(d) *Disposition of case.* (1) *No response filed or allegations not contested.* If no answer is timely filed or the answer admits the allegations in the notice of intent to debar and does not request mitigation or a mitigation meeting, the proposed debarment specified in the notice of intent to debar automatically will become a final order of debarment 30 days after service of the notice of intent to debar. If CBP grants a good cause extension pursuant to paragraph (c)(2)(iv) of this section, and no answer is timely filed, the proposed debarment automatically will become a final order of debarment when the time for filing an answer expires.
 
 (2) *Answer filed; mitigation meeting requested.* If an answer is timely filed that requests mitigation and/or a mitigation meeting, CBP will determine a final debarment in accordance with paragraph (e) of this section.
 
@@ -48,7 +48,7 @@
 
 (ii) CBP will send notice, by certified mail or express courier, to all interested parties, including the relevant U.S. ports of entry, that the entity subject to the debarment is debarred and stating the terms of the debarment.
 
-(e) *Debarment*—(1) *Generally.* In determining a proposed debarment and a final debarment, CBP will consider the information received from the Secretary of Labor, any evidence or arguments timely presented by the entity subject to the debarment, and any other relevant factors.
+(e) *Debarment.* (1) *Generally.* In determining a proposed debarment and a final debarment, CBP will consider the information received from the Secretary of Labor, any evidence or arguments timely presented by the entity subject to the debarment, and any other relevant factors.
 
 (2) *Other relevant factors.* Other relevant factors include, but are not limited to, the following:
 

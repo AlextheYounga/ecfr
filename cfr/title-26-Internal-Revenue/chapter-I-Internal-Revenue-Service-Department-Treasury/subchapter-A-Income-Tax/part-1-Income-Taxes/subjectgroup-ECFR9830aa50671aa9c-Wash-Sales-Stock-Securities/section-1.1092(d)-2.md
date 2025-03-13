@@ -10,4 +10,4 @@
 
 (ii) Holding a short position in a stock index regulated futures contract (or alternatively an option on such a regulated futures contract or an option on the stock index) and stock in an investment company whose principal holdings mimic the performance of the stocks included in the stock index (or alternatively a portfolio of stocks whose performance mimics the performance of the stocks included in the stock index).
 
-[T.D. 8590, 60 FR 14641, Mar. 20, 1995] capital gains and lossesTreatment of Capital Gains
+[T.D. 8590, 60 FR 14641, Mar. 20, 1995]capital gains and lossesTreatment of Capital Gains

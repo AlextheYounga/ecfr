@@ -110,7 +110,7 @@ Example 2.A, a calendar year taxpayer, is under common control with B, a June 30
 
 (ii) Under paragraph (c)(1)(iii) of this section, a retroactive election by the common parent of a consolidated group applies to all transition period property acquired by a former member while it was a member of the group. The section 197 intangible acquired by S is transition period property that S, a former member of the P group, acquired while a member of the P group. Thus, P's election applies to the acquired asset. P must notify S of the election pursuant to paragraph (c)(6)(ii) of this section.
 
-(iii) S amortizes the unadjusted basis of its eligible section 197 intangible ($180) over the 15-year amortization period using the applicable convention beginning as of the first day of the month of acquisition (August 1, 1991). Thus, the P group amends its 1991 consolidated tax return to take into account $5 of amortization ($180/15 years × 5/12 year = $5) for S.
+(iii) S amortizes the unadjusted basis of its eligible section 197 intangible ($180) over the 15-year amortization period using the applicable convention beginning as of the first day of the month of acquisition (August 1, 1991). Thus, the P group amends its 1991 consolidated tax return to take into account $5 of amortization ($180/15 years ×5/12 year = $5) for S.
 
 (iv) For 1992, S is entitled to $12 of amortization ($180/15). Assume that under § 1.1502-76, $10 of S's amortization for 1992 is allocated to the P group's consolidated return and $2 is allocated to the Y group's return. The P group amends its 1992 consolidated tax return to reflect the $10 deduction for S. The Y group must amend its 1992 return to reflect the $2 deduction for S.
 

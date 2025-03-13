@@ -1,0 +1,3 @@
+##### § 850.201 Advanced packaging. #####
+
+The term *advanced packaging* means to package integrated circuits in a manner that supports the two-and-one-half-dimensional (2.5D) or three-dimensional (3D) assembly of integrated circuits, such as by directly attaching one or more die or wafer using through-silicon vias, die or wafer bonding, heterogeneous integration, or other advanced methods and materials.

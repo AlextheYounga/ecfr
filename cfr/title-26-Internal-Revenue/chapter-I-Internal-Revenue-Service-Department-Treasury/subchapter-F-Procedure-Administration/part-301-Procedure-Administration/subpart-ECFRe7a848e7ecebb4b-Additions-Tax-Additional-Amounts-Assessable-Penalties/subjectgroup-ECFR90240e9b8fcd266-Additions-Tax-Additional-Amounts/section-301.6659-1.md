@@ -16,4 +16,4 @@ Example 1.A filed his income tax return for the calendar year 1955 on May 15, 19
 
 (ii) *No return filed by taxpayer.* If the taxpayer has not filed a return and his entire income tax liability is asserted as a deficiency to which the provisions of subchapter B of chapter 63 apply, such provisions likewise will apply to any addition to such tax imposed by section 6654 or 6655.
 
-[32 FR 15241, Nov. 3, 1967, as amended by T.D. 7838, 47 FR 44252, Oct. 7, 1982] Assessable Penalties
+[32 FR 15241, Nov. 3, 1967, as amended by T.D. 7838, 47 FR 44252, Oct. 7, 1982]Assessable Penalties

@@ -304,8 +304,7 @@ Model Number: TN-32, TN-32A, TN-32B.
 
 *Initial Certificate Effective Date:* May 30, 2000, superseded by Renewed Initial Certificate on February 22, 2022.
 
-*Amendment Number 1 Effective Date:* October 30, 2007, superseded by Renewed
-Amendment Number 1 on February 22, 2022.
+*Amendment Number 1 Effective Date:* October 30, 2007, superseded by Renewed Amendment Number 1 on February 22, 2022.
 
 *SAR Submitted by:* Transnuclear, Inc., now TN Americas LLC.
 

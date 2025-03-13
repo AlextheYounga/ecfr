@@ -396,7 +396,7 @@ This section contains a listing of the major headings of §§ 1.401(a)(4)-1 thro
 
 (6) Examples.
 
-§ 1.401(a)(4)-12 Definitions § 1.401(a)(4)-13 Effective dates and fresh-start rules
+§ 1.401(a)(4)-12 Definitions§ 1.401(a)(4)-13 Effective dates and fresh-start rules
 
 (a) General effective dates.
 

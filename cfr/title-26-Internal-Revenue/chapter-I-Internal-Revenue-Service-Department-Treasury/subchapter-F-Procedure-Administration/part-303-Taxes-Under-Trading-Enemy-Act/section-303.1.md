@@ -10,7 +10,7 @@ Sec. 36 (a) The vesting in or transfer to the Alien Property Custodian of any pr
 
 (e) Any tax exemption accorded to the Alien Property Custodian by specific provision of existing law shall not be affected by this section.
 
-[Section 36 as added by the Act of August 8, 1946 (Pub. L. 671, 79th Cong., 60 Stat 929)] Executive Order 9788, approved October 14, 1946 (3 CFR 1943-1948 Comp., p. 575)
+[Section 36 as added by the Act of August 8, 1946 (Pub. L. 671, 79th Cong., 60 Stat 929)]Executive Order 9788, approved October 14, 1946 (3 CFR 1943-1948 Comp., p. 575)
 
 By virtue of the authority vested in me by the Constitution and statutes, including the Trading With the Enemy Act of October 6, 1917, 40 Stat. 411, as amended, and the First War Powers Act, 1941, 55 Stat. 838, as amended, and as President of the United States, it is hereby ordered, in the interest of the internal management of the Government, as follows:
 

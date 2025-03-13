@@ -1,0 +1,3 @@
+##### § 850.211 Develop. #####
+
+Except as used in § 850.210(a)(4), the term *develop* means to engage in any stages prior to serial production, such as design or substantive modification, design research, design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into a product, configuration design, integration design, and layouts.

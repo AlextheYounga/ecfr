@@ -78,7 +78,7 @@
 
 (*2*) First, it is necessary to determine whether the annuity may exhaust the corpus before all planned annuity payments are made. This determination is made by using values from Table B as illustrated in Figure 1 to this paragraph (b)(2)(vi)(E)(*2*).
 
-Figure 1 to Paragraph (b)(2)(vi)(E)(*2*)—Illustration of Determining Present Value of Term Certain Annuity ![](/graphics/er07jn23.023.gif)
+Figure 1 to Paragraph (b)(2)(vi)(E)(*2*)—Illustration of Determining Present Value of Term Certain Annuity![](/graphics/er07jn23.023.gif)
 
 (*3*) Because the present value of an annuity for a term of 50 years exceeds the corpus, the annuity may exhaust the trust before all payments are made. Consequently, the annuity must be valued as an annuity payable for a term of years or until the prior death of the annuitant, with the term of years determined by the number of years to exhaustion of the fund, assuming earnings at the section 7520 rate of 4.4 percent.
 
@@ -86,11 +86,11 @@ Figure 1 to Paragraph (b)(2)(vi)(E)(*2*)—Illustration of Determining Present V
 
 (*5*) The actuarial factor for determining the value of the annuity of $52,910.79 per year payable for 13 years or until the prior death of a person aged 60 is derived by the use of factors involving one life and a term of years, derived from Table H. The factor is determined as illustrated in Figure 2 to this paragraph (b)(2)(vi)(E)(*5*).
 
-Figure 2 to Paragraph (b)(2)(vi)(E)(*5*)—Illustration of Determining Annuity Factor for Shorter of Life or 13 Years ![](/graphics/er07jn23.024.gif)
+Figure 2 to Paragraph (b)(2)(vi)(E)(*5*)—Illustration of Determining Annuity Factor for Shorter of Life or 13 Years![](/graphics/er07jn23.024.gif)
 
 (*6*) The actuarial factor for determining the value of the annuity $47,089.21 per year payable for 14 years or until the prior death of a person aged 60 is derived by the use of factors involving one life and a term of years, derived from Table H. The factor is determined as illustrated in Figure 3 to this paragraph (b)(2)(vi)(E)(*6*).
 
-Figure 3 to Paragraph (b)(2)(vi)(E)(*6*)—Illustration of Determining Annuity Factor for Shorter of Life or 14 Years ![](/graphics/er07jn23.025.gif)
+Figure 3 to Paragraph (b)(2)(vi)(E)(*6*)—Illustration of Determining Annuity Factor for Shorter of Life or 14 Years![](/graphics/er07jn23.025.gif)
 
 (*7*) Based on the calculations of paragraph (b)(2)(vi)(E)(*5*) of this section, the present value of an annuity of $52,910.79 per year payable for 13 years or until the prior death of a person aged 60 is $480,742.15 ($52,910.79 × 9.0859). Based on the calculations of paragraph (b)(2)(vi)(E)(*6*) of this section, the present value of an annuity of $47,089.21 per year payable for 14 years or until the prior death of a person aged 60 is $448,807.26 ($47,089.21 × 9.5310). Thus, the present value of the charitable annuity interest is the sum of the two component annuities, $929,549.41 ($480,742.15 + $448,807.26).
 

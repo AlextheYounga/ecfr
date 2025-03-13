@@ -1,0 +1,3 @@
+##### § 850.901 Delegation of authorities of the Secretary of the Treasury. #####
+
+Any action that the Secretary is authorized to take pursuant to the Order and any further executive orders relating to the national emergency declared in the Order may be taken by the Assistant Secretary of the Treasury for Investment Security or their designee or by any other person to whom the Secretary has delegated the authority so to act, as appropriate.

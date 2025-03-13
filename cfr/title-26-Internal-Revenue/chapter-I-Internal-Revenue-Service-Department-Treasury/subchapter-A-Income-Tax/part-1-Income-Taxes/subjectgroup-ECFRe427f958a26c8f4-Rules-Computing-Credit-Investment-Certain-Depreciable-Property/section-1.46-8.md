@@ -314,7 +314,7 @@ Example.For 1977, a calendar-year corporation claims an additional credit of $10
 
 (ii) *Maximum amount involved.* Notwithstanding any other rule in this paragraph (h), all amounts involved with respect to an additional credit allowed for a particular taxable year may not exceed the amount of that credit.
 
-(iii) *Minimum amount involved.* The minimum amount is 1/2 of one percent of the additional credit times the number of full months, or parts of full months, during which the failure to comply exists. “Full month” has the meaning assigned in § 1.1250-1(d)(4) (realty depreciation recapture).
+(iii) *Minimum amount involved.* The minimum amount is1/2 of one percent of the additional credit times the number of full months, or parts of full months, during which the failure to comply exists. “Full month” has the meaning assigned in § 1.1250-1(d)(4) (realty depreciation recapture).
 
 (iv) *Funding amount involved.* The amount involved for a funding defect is the greater of the minimum amount involved or the amount required to place the plan in the position it would have been in if no funding defect had occurred.
 

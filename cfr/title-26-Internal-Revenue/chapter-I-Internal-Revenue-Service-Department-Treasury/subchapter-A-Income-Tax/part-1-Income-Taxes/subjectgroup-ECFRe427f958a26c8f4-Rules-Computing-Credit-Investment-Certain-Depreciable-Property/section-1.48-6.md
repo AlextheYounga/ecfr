@@ -45,7 +45,7 @@ Example.1 XYZ Trust, which makes its return on the basis of the calendar year, a
 |5 (used) |    12,000     |      6 years.       |
 |6 (used) |    12,000     |      8 years.       |
 
-For the taxable year 1962 the income of XYZ Trust is $20,000 which is allocable as follows: $10,000 to XYZ Trust, $6,000 to beneficiary A, and $4,000 to beneficiary B. Beneficiaries A and B make their returns on the basis of a calendar year. (2) Under this section, the total bases of the new, and the total cost of the used, section 38 properties are apportioned to XYZ Trust and its beneficiaries as follows:
+For the taxable year 1962 the income of XYZ Trust is $20,000 which is allocable as follows: $10,000 to XYZ Trust, $6,000 to beneficiary A, and $4,000 to beneficiary B. Beneficiaries A and B make their returns on the basis of a calendar year.(2) Under this section, the total bases of the new, and the total cost of the used, section 38 properties are apportioned to XYZ Trust and its beneficiaries as follows:
 
 |     Useful life category      |New—4 to 6 years|New—8 years or more|Used—6 to 8 years|Used—8 years or more|
 |-------------------------------|----------------|-------------------|-----------------|--------------------|

@@ -493,7 +493,7 @@ Example 1.(i) Assume that the taxpayer has used another LIFO method for finished
 |                     Total                      |               1,500               |         |                7,600                 |
 |LIFO value of items A, B, and C at Dec. 31, 1960|                                   |         |                12,200                |
 
-There were no increments in the years 1957, 1958, or 1959. (ii) The computation of the ratio of the total current-year cost to the total base-year cost for the base year and each layer of increment in Pool No. 1 is shown as follows:
+There were no increments in the years 1957, 1958, or 1959.(ii) The computation of the ratio of the total current-year cost to the total base-year cost for the base year and each layer of increment in Pool No. 1 is shown as follows:
 
 |                               Item                               |1954 base-year unit cost|Year 1954|Increments|      |      |
 |------------------------------------------------------------------|------------------------|---------|----------|------|------|

@@ -104,4 +104,4 @@ Disclosure of returns or return information to other persons by officers and emp
 
 (e) *Return information open to public inspection under section 6104.* Nothing in these regulations shall be construed to deny officers and employees of the Department of Labor and the Pension Benefit Guaranty Corporation the right to inspect return information available to the public under section 6104 of the Code.
 
-(Secs. 6103 and 7805 of the Internal Revenue Code of 1954 (90 Stat. 1667, 1685, 68A Stat. 917; 26 U.S.C. 6103 and 7805)) [T.D. 7723, 45 FR 65571, Oct. 3, 1980, as amended by T.D. 7757, 46 FR 6930, Jan. 22, 1981; T.D. 7911, 48 FR 40377, Sept. 7, 1983]
+(Secs. 6103 and 7805 of the Internal Revenue Code of 1954 (90 Stat. 1667, 1685, 68A Stat. 917; 26 U.S.C. 6103 and 7805))[T.D. 7723, 45 FR 65571, Oct. 3, 1980, as amended by T.D. 7757, 46 FR 6930, Jan. 22, 1981; T.D. 7911, 48 FR 40377, Sept. 7, 1983]

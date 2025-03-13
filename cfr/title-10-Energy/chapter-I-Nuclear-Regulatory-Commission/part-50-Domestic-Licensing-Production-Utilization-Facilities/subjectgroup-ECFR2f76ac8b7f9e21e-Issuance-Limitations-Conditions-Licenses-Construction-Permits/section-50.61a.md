@@ -76,7 +76,7 @@
 
 (ii) There are axial flaws that penetrate through the clad into the low alloy steel reactor vessel shell, at a depth equal to or greater than 0.075 inches in through-wall extent from the clad-to-base metal interface; or
 
-(iii) Any flaws between the clad-to-base metal interface and three-eighths2 of the vessel thickness exceed the size allowable in ASME Code, Section XI, Table IWB-3510-1.
+(iii) Any flaws between the clad-to-base metal interface and three-eighths 2 of the vessel thickness exceed the size allowable in ASME Code, Section XI, Table IWB-3510-1.
 
 2 Because flaws greater than three-eights of the vessel wall thickness from the inside surface do not contribute to TWCF, flaws greater than three-eights of the vessel wall thickness from the inside surface need not be analyzed for their contribution to PTS.
 
@@ -92,13 +92,13 @@
 
 (2) The values of ΔT30 must be determined using Equations 5, 6 and 7 of this section, unless the conditions specified in paragraph (f)(6)(v) of this section are not met, for each axial weld, plate, forging, and circumferential weld. The ΔT30 value for each axial weld calculated as specified by Equation 1 of this section must be calculated for the maximum fluence (φtAXIAL-WELD) occurring along a particular axial weld at the clad-to-base metal interface. The ΔT30 value for each plate calculated as specified by Equation 1 of this section must also be calculated using the same value of φtAXIAL-WELD used for the axial weld. The ΔT30 values in Equation 1 shall be calculated for the weld itself and each adjoining plate. The ΔT30 value for each plate or forging calculated as specified by Equations 2 and 3 of this section must be calculated for the maximum fluence (φtMAX) occurring at the clad-to-base metal interface over the entire area of each plate or forging. In Equation 4, the fluence (φtWELD-CIRC) value used for calculating the plate, forging, and circumferential weld ΔT30 value is the maximum fluence occurring for each material along the circumferential weld at the clad-to-base metal interface. The ΔT30 values in Equation 4 shall be calculated for the circumferential weld and for the adjoining plates or forgings. If the conditions specified in paragraph (f)(6)(v) of this section are not met, licensees must propose ΔT30 and RTMAX-X values in accordance with paragraph (f)(6)(vi) of this section.
 
-(3) The values of Cu, Mn, P, and Ni in Equations 6 and 7 of this section must represent the best estimate values for the material. For a plate or forging, the best estimate value is normally the mean of the measured values for that plate or forging. For a weld, the best estimate value is normally the mean of the measured values for a weld deposit made using the same weld wire heat number as the critical vessel weld. If these values are not available, either the upper limiting values given in the material specifications to which the vessel material was fabricated, or conservative estimates (*i.e.,* mean plus one standard deviation) based on generic data4 as shown in Table 4 of this section for P and Mn, must be used.
+(3) The values of Cu, Mn, P, and Ni in Equations 6 and 7 of this section must represent the best estimate values for the material. For a plate or forging, the best estimate value is normally the mean of the measured values for that plate or forging. For a weld, the best estimate value is normally the mean of the measured values for a weld deposit made using the same weld wire heat number as the critical vessel weld. If these values are not available, either the upper limiting values given in the material specifications to which the vessel material was fabricated, or conservative estimates (*i.e.,* mean plus one standard deviation) based on generic data 4 as shown in Table 4 of this section for P and Mn, must be used.
 
 4 Data from reactor vessels fabricated to the same material specification in the same shop as the vessel in question and in the same time is an example of “generic data.”
 
 (4) The values of RTNDT(U) must be evaluated according to the procedures in the ASME Code, Section III, paragraph NB-2331. If any other method is used for this evaluation, the licensee shall submit the proposed method for review and approval by the Director along with the calculation of RTMAX-X values required in paragraph (c)(1) of this section.
 
-(i) If a measured value of RTNDT(U) is not available, a generic mean value of RTNDT(U) for the class5 of material must be used if there are sufficient test results to establish a mean.
+(i) If a measured value of RTNDT(U) is not available, a generic mean value of RTNDT(U) for the class 5 of material must be used if there are sufficient test results to establish a mean.
 
 5 The class of material for estimating RTNDT(U) must be determined by the type of welding flux (Linde 80, or other) for welds or by the material specification for base metal.
 

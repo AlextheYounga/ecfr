@@ -1,5 +1,7 @@
 ##### § 431.306 Energy conservation standards and their effective dates. #####
 
+Link to an amendment published at 89 FR 104854, Dec. 23, 2024.
+
 (a) Each walk-in cooler or walk-in freezer manufactured on or after January 1, 2009, shall—
 
 (1) Have automatic door closers that firmly close all walk-in doors that have been closed to within 1 inch of full closure, except that this paragraph shall not apply to doors wider than 3 feet 9 inches or taller than 7 feet;

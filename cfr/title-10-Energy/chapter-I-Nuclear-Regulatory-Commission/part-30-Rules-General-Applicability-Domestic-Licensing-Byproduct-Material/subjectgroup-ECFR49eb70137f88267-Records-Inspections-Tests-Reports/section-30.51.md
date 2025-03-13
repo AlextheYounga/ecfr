@@ -16,7 +16,7 @@
 
 (d) Prior to license termination, each licensee authorized to possess radioactive material with a half-life greater than 120 days, in an unsealed form, shall forward the following records to the appropriate NRC Regional Office:
 
-(1) Records of disposal of licensed material made under §§ 20.2002 (including burials authorized before January 28, 19811), 20.2003, 20.2004, 20.2005; and
+(1) Records of disposal of licensed material made under §§ 20.2002 (including burials authorized before January 28, 1981 1), 20.2003, 20.2004, 20.2005; and
 
 1 A previous § 20.304 permitted burial of small quantities of licensed materials in soil before January 28, 1981, without specific Commission authorization. See § 20.304 contained in the 10 CFR, parts 0 to 199, edition revised as of January 1, 1981.
 
@@ -24,7 +24,7 @@
 
 (e) If licensed activities are transferred or assigned in accordance with § 30.34(b), each licensee authorized to possess radioactive material, with a half-life greater than 120 days, in an unsealed form, shall transfer the following records to the new licensee and the new licensee will be responsible for maintaining these records until the license is terminated:
 
-(1) Records of disposal of licensed material made under §§ 20.2002 (including burials authorized before January 28, 19811), 20.2003, 20.2004, 20.2005; and
+(1) Records of disposal of licensed material made under §§ 20.2002 (including burials authorized before January 28, 1981 1), 20.2003, 20.2004, 20.2005; and
 
 (2) Records required by § 20.2103(b)(4).
 

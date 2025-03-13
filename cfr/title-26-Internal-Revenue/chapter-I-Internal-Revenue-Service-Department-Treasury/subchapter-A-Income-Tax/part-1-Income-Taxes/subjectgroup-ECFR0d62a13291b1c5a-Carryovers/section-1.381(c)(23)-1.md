@@ -102,7 +102,7 @@ Y's credit earned and its limitation based on amount of tax for its taxable year
 |            1971            |   $7,000    |             $3,000              |
 |            1972            |    3,000    |              9,000              |
 
-The sequence for the allowance of unused credits of X Corporation and Y Corporation, and the computation of carryovers to Y Corporation's calendar year 1973, may be illustrated as follows: (i) *X Corporation's 1971 unused credit.* The carryover to Y 1973 is $0, computed as follows:
+The sequence for the allowance of unused credits of X Corporation and Y Corporation, and the computation of carryovers to Y Corporation's calendar year 1973, may be illustrated as follows:(i) *X Corporation's 1971 unused credit.* The carryover to Y 1973 is $0, computed as follows:
 
 |                            Unused credit                             |$6,000|
 |----------------------------------------------------------------------|------|
@@ -149,7 +149,7 @@ Y's credit earned and its limitation based on amount of tax for its taxable year
 |            1971            |     200     |                                 |
 |            1972            |     300     |              $900               |
 
-The sequence for the allowance of unused credits of X Corporation and Y Corporation, and the computation of carryovers to Y Corporation's calendar year 1973, may be illustrated as follows: (i) *X Corporation's 1970 unused credit.* The carryover to Y 1973 is $0, computed as follows:
+The sequence for the allowance of unused credits of X Corporation and Y Corporation, and the computation of carryovers to Y Corporation's calendar year 1973, may be illustrated as follows:(i) *X Corporation's 1970 unused credit.* The carryover to Y 1973 is $0, computed as follows:
 
 |                                 Unused credit                                 |$300|
 |-------------------------------------------------------------------------------|----|

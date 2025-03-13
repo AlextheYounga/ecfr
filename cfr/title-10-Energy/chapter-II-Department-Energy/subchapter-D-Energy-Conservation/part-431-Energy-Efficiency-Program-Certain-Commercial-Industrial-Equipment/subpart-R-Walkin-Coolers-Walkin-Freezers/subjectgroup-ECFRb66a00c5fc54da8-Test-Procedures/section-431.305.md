@@ -1,6 +1,6 @@
 ##### § 431.305 Walk-in cooler and walk-in freezer labeling requirements. #####
 
-(a) Panel nameplate— (1) *Required information.* The permanent nameplate of a walk-in cooler or walk-in freezer panel for which standards are prescribed in § 431.306 must be marked clearly with the following information:
+(a) Panel nameplate—(1) *Required information.* The permanent nameplate of a walk-in cooler or walk-in freezer panel for which standards are prescribed in § 431.306 must be marked clearly with the following information:
 
 (i) The panel brand or manufacturer;
 

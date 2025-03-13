@@ -10,7 +10,7 @@
 
 (4) *Special nuclear material.* When deadly force reasonably appears to be necessary to prevent the theft, sabotage, or unauthorized control of special nuclear material from an area of a fixed site or from a shipment where Category II or greater quantities are known or reasonably believed to be present.
 
-(5) *Apprehension.* When deadly force reasonably appears to be necessary to apprehend or prevent the escape of a person reasonably believed to: (i) have committed an offense of the nature specified in paragraphs (a)(1) through (a)(4)1 of this section; or (ii) be escaping by use of a weapon or explosive or who otherwise indicates that he or she poses a significant threat of death or serious bodily harm to the protective force officer or others unless apprehended without delay.
+(5) *Apprehension.* When deadly force reasonably appears to be necessary to apprehend or prevent the escape of a person reasonably believed to: (i) have committed an offense of the nature specified in paragraphs (a)(1) through (a)(4) 1 of this section; or (ii) be escaping by use of a weapon or explosive or who otherwise indicates that he or she poses a significant threat of death or serious bodily harm to the protective force officer or others unless apprehended without delay.
 
 1 These offenses are considered by the Department of Energy to pose a significant threat of death or serious bodily harm.
 

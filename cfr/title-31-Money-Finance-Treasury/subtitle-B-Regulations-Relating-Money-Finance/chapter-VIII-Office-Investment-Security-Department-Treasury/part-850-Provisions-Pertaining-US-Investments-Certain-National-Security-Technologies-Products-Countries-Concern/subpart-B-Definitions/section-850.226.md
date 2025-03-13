@@ -1,0 +1,3 @@
+##### § 850.226 Relevant agencies. #####
+
+The term *relevant agencies* means the Departments of State, Defense, Justice, Commerce, Energy, and Homeland Security, the Office of the United States Trade Representative, the Office of Science and Technology Policy, the Office of the Director of National Intelligence, the Office of the National Cyber Director, and any other department, agency, or office the Secretary determines appropriate.

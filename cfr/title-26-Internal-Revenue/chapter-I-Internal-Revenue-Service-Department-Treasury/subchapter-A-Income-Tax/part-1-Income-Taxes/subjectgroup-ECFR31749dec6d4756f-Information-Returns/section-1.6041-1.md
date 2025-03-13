@@ -88,4 +88,4 @@ of payments made by the United States or a State, or political subdivision there
 
 (j) *Effective/applicability date.* This section applies to payments made on or after *January 6, 2017.* (For payments made after June 30, 2014, and before January 6, 2017, see this section as in effect and contained in 26 CFR part 1, as revised April 1, 2016. For payments made after December 31, 2010, and before July 1, 2014, see this section as in effect and contained in 26 CFR part 1, as revised April 1, 2013.)
 
-[T.D. 6500, 25 FR 12108, Nov. 26, 1960] Editorial Note:For Federal Register citations affecting § 1.6041-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 6500, 25 FR 12108, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.6041-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

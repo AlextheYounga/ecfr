@@ -38,7 +38,7 @@
 
 (ii) With respect to each class relied on to meet the more than 50 percent requirement of paragraph (d)(1)(i) of this section—
 
-(A) Trades in each such class are effected, other than in *de minimis* quantities, on such market or markets on at least 60 days during the taxable year (or 1/6 of the number of days in a short taxable year); and
+(A) Trades in each such class are effected, other than in *de minimis* quantities, on such market or markets on at least 60 days during the taxable year (or1/6 of the number of days in a short taxable year); and
 
 (B) The aggregate number of shares in each such class that are traded on such market or markets during the taxable year are at least 10 percent of the average number of shares outstanding in that class during the taxable year (or, in the case of a short taxable year, a percentage that equals at least 10 percent of the average number of shares outstanding in that class during the taxable year multiplied by the number of days in the short taxable year, divided by 365).
 

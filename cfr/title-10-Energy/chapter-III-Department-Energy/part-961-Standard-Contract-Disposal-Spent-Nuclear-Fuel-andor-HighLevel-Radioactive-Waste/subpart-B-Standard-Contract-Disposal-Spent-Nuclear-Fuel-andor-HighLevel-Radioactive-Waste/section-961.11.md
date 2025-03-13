@@ -184,7 +184,7 @@ E. Exchanges
 
 Purchaser shall have the right to determine which SNF and/or HLW is delivered to DOE; *provided, however,* that Purchaser shall comply with the requirements of this contract. Purchaser shall have the right to exchange approved delivery commitment schedules with parties to other contracts with DOE for disposal of SNF and/or HLW; *provided, however,* that DOE shall, in advance, have the right to approve or disapprove, in its sole discretion, any such exchanges. Not less than six (6) months prior to the delivery date specified in the Purchaser's approved delivery commitment schedule, the Purchaser shall submit to DOE an exchange request, which states the priority rankings of both the Purchaser hereunder and any other Purchaser with whom the exchange of approved delivery commitment schedules is proposed. DOE shall approve or disapprove the proposed exchange within thirty (30) days after receipt. In the event of disapproval, DOE shall advise the Purchaser in writing of the reasons for such disapproval.
 
-Article VI—Criteria for DisposalA. General Requirements
+Article VI—Criteria for Disposal A. General Requirements
 
 1. *Criteria.*
 
@@ -305,7 +305,7 @@ Article XII—Notices
 
 All notices and communications between the parties under this contract (except notices published in the Federal Register) shall be in writing and shall be sent to the following addressees:
 
-To DOE:To the Purchaser:
+To DOE: To the Purchaser:
 
 However, the parties may change the addresses or addressees for such notices or communications without formal modification to this contract; *provided, however,* that notice of such changes shall be given by registered mail.
 
@@ -349,7 +349,7 @@ Article XX—Permits
 
 The Government and the Purchaser shall procure all necessary permits or licenses (including any special nuclear material licenses) and comply with all applicable laws and regulations of the United States, States and municipalities necessary to execute their respective responsibilities and obligations under this contract.
 
-Article XXI—Rights in Technical DataA. Definitions.
+Article XXI—Rights in Technical Data A. Definitions.
 
 1. *Technical data* means recorded information regardless of form or characteristic, of a specific or technical nature. It may, for example, document research, experimental, developmental, or demonstration, or engineering work, or be usable or used to define a design or process, or to procure, produce, support, maintain or operate material. The data may be graphic or pictorial delineations in media such as drawings or photographs, text in specifications or related performance or design-type documents or computer software (including computer programs, computer software data bases, and computer software documentation). Examples of technical data include research and engineering data, engineering drawings and associated lists, specifications, standards, process sheets, manuals, technical reports, catalog item identification, and related information. Technical data as used herein do not include financial reports, cost analyses, and other information incidental to contract administration.
 
@@ -399,7 +399,7 @@ C. AppendicesA. Nuclear Power Reactor(s) or Other Facilities CoveredB. Discharge
 
 In witness whereof, the parties hereto have executed this contract as of the day and year first above written.
 
-United States of AmericaUnited States Department of EnergyBy: (Contracting Officer)Witnesses as to Execution on Behalf of Purchaser(Name)(Address)(Name)(Address)(Purchaser's Company Name)By:Title:
+United States of America United States Department of Energy By:  (Contracting Officer)Witnesses as to Execution on Behalf of Purchaser (Name) (Address) (Name) (Address) (Purchaser's Company Name) By:Title:
 
 I, (*Name*), certify that I am the (*Title*) of the corporation named as Purchaser herein; that (*Name*) who signed this document on behalf of the Purchaser was then (*Title*) of said corporation; that said document was duly signed for and on behalf of said corporation by authority of its governing body and is within the scope of its corporate powers.
 
@@ -407,17 +407,17 @@ In Witness Whereof, I have hereunto affixed my hand and the seal of said corpora
 
 (Corporate Seal)
 
-(Signature)Appendix ANuclear Power Reactor(s) or Other Facilities CoveredPurchaserContract Number/Date \_\_\_\_/\_\_\_\_Reactor/Facility NameLocation:StreetCityCounty/State \_\_\_\_\_\_\_\_/Zip CodeCapacity (MWE)\_\_GrossReactor Type:
+(Signature) Appendix A Nuclear Power Reactor(s) or Other Facilities Covered Purchaser Contract Number/Date \_\_\_\_/\_\_\_\_Reactor/Facility Name Location: Street City County/State \_\_\_\_\_\_\_\_/ Zip Code Capacity (MWE)\_\_Gross Reactor Type:
 
 BWR □
 
 PWR □
 
-Other (Identify)Facility DescriptionDate of Commencement of Operation(actual or estimated)NRC License #:By Purchaser:SignatureTitleDateAppendix BTen Year Discharge Forecast
+Other (Identify) Facility Description Date of Commencement of Operation (actual or estimated) NRC License #: By Purchaser: Signature TitleDate Appendix B Ten Year Discharge Forecast
 
 To be used for DOE planning purposes only and does not represent a firm commitment by Purchaser.
 
-PurchaserContract Number/Date \_\_\_\_\_\_\_\_/Reactor/Facility NameLocation:StreetCityCounty/State \_\_\_\_\_\_\_\_/Zip CodeType: BWR □ PWR □Other (Identify)
+Purchaser Contract Number/Date \_\_\_\_\_\_\_\_/ Reactor/Facility Name Location: Street City County/State \_\_\_\_\_\_\_\_/Zip Code Type: BWR □ PWR □Other (Identify)
 
 |                                                  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |10 |10 yr total|
 |--------------------------------------------------|---|---|---|---|---|---|---|---|---|---|-----------|
@@ -429,7 +429,7 @@ PurchaserContract Number/Date \_\_\_\_\_\_\_\_/Reactor/Facility NameLocation:Str
 
 By Purchaser:
 
-SignatureTitleDateAppendix B (Enclosure 1)Actual DischargesPurchaserContract Number/DateReactor/Facility NameLocation:StreetCityCounty/StateZip CodeType:
+Signature Title Date Appendix B (Enclosure 1)Actual DischargesPurchaserContract Number/DateReactor/Facility NameLocation:StreetCityCounty/StateZip CodeType:
 
 BWR □
 
@@ -443,7 +443,7 @@ By Purchaser:SignatureTitleDateAppendix CDelivery Commitment Schedule
 
 This delivery commitment schedule shall be submitted by Purchaser to DOE as specified in Article V.B. of this contract.
 
-PurchaserContract Number/DateReactor/Facility NameLocation:StreetCityCounty/StateZip CodeType Cask Required:Shipping Lot Number(Assigned by DOE)Proposed Shipping Mode:
+PurchaserContract Number/DateReactor/Facility NameLocation:StreetCityCounty/StateZip CodeType Cask Required:Shipping Lot Number (Assigned by DOE)Proposed Shipping Mode:
 
 Truck □
 
@@ -457,13 +457,13 @@ Unless otherwise agreed to in writing by DOE, the Purchaser shall furnish herewi
 
 Any false, fictitious or fraudulent statement may be punishable by fine or imprisonment (U.S. Code, Title 18, Section 1001).
 
-By Purchaser:SignatureTitleDateApproved by DOE:Technical RepresentativeTitleDateContracting OfficerDateAppendix DFinal Delivery Schedule(To be submitted to DOE by Purchaser for each designated Purchaser Delivery site not later than twelve (12) months prior to estimated date of first delivery)Purchaser:Contract Number/DateReactor/Facility NameLocation:StreetCityCounty/StateZip CodeType(s) cask(s) required:No. Assembilies per caskShipping Lot NumberShipping Mode:(Assigned by DOE)TruckRailBargeMetric Tons Uranium:(Initial)(Discharged)Range of Discharge Date(s) (Earliest to Latest)(From approved commitment schedule)Mo\_\_\_\_ Day\_\_\_\_ Yr\_\_\_\_ to Mo\_\_\_\_ Day\_\_\_\_ Yr\_\_\_\_Number of Assemblies:BWRPWROtherPurchaser's Delivery First EstimateMo\_\_\_\_ Day\_\_\_\_ Yr\_\_\_\_ last Mo\_\_\_\_ Day\_\_\_\_ Mo\_\_\_\_
+By Purchaser:SignatureTitleDateApproved by DOE:Technical RepresentativeTitleDateContracting OfficerDateAppendix DFinal Delivery Schedule(To be submitted to DOE by Purchaser for each designated Purchaser Delivery site not later than twelve (12) months prior to estimated date of first delivery)Purchaser:Contract Number/DateReactor/Facility NameLocation:StreetCityCounty/StateZip CodeType(s) cask(s) required: No. Assembilies per caskShipping Lot Number Shipping Mode: (Assigned by DOE) TruckRail BargeMetric Tons Uranium: (Initial) (Discharged)Range of Discharge Date(s) (Earliest to Latest)(From approved commitment schedule)Mo\_\_\_\_ Day\_\_\_\_ Yr\_\_\_\_ to Mo\_\_\_\_ Day\_\_\_\_ Yr\_\_\_\_Number of Assemblies:BWRPWROtherPurchaser's Delivery First EstimateMo\_\_\_\_ Day\_\_\_\_ Yr\_\_\_\_ last Mo\_\_\_\_ Day\_\_\_\_ Mo\_\_\_\_
 
 Unless otherwise agreed to in writing by DOE, the Purchaser shall furnish herewith to DOE suitable proof of ownership of the SNF and/or HLW to be delivered hereunder. The Purchaser shall notify DOE in writing at the earliest practicable date of any change in said ownership.
 
 To confirm acceptability of delivery date(s):
 
-Purchaser ContactPhoneTitleDOE ContactPhoneTitle
+Purchaser Contact Phone Title DOE Contact Phone Title
 
 Any false, fictitious or fraudulent statement may be punishable by fine or imprisonment (U.S. Code, Title 18, Section 1001).
 
@@ -586,7 +586,7 @@ Any false, fictitious or fradulent statement may be punishable by fine or impris
 
 By Purchaser:
 
-SignatureTitleDate![](/graphics/ec01oc91.035.gif)![](/graphics/ec01oc91.036.gif)![](/graphics/ec01oc91.037.gif)![](/graphics/ec01oc91.038.gif)Annex B to Appendix GStandard Remittance of Advice (RA) for Payment of Fees
+SignatureTitleDate ![](/graphics/ec01oc91.035.gif)![](/graphics/ec01oc91.036.gif)![](/graphics/ec01oc91.037.gif)![](/graphics/ec01oc91.038.gif)Annex B to Appendix GStandard Remittance of Advice (RA) for Payment of Fees
 
 This Annex should be completed only for SNF burned before midnight between April 6/7, 1983.
 
@@ -596,7 +596,7 @@ A. Purchaser:\_\_\_\_\_\_\_\_\_\_\_\_
 
 B. Unit identification (Only one unit may be covered in each report.)
 
-1. Reactor/Facility Name:2. Location:3. Type:4. Capacity:5. Date of Commencement of Operations:6. NRC License No.:
+1. Reactor/Facility Name: 2. Location:3. Type:4. Capacity:5. Date of Commencement of Operations: 6. NRC License No.:
 
 II. *Fee Calculation*
 

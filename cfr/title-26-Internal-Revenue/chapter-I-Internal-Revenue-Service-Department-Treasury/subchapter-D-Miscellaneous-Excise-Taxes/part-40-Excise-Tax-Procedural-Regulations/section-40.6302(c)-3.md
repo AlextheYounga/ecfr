@@ -42,15 +42,15 @@
 
 (i) Determining the net amount of alternative method taxes reflected in the separate account for the first semimonthly period in September (or one-half of the net amount of alternative method taxes reasonably expected to be reflected in the separate account for the month of September);
 
-(ii) Treating 11/15 of that amount as the amount of taxes charged during the period September 1st-11th; and
+(ii) Treating11/15 of that amount as the amount of taxes charged during the period September 1st-11th; and
 
 (iii) Treating the remainder of the amount determined under paragraph (f)(3)(i) of this section (adjusted, if that amount is based on reasonable expectations, to reflect actual taxes charged through the end of September) as the amount charged during the period September 12th-15th.
 
 (4) *Safe harbor rule based on look-back quarter liability.* The safe harbor rule of § 40.6302(c)-1(b)(2) does not apply for the fourth calendar quarter unless—
 
-(i) The deposit for alternative method taxes charged during the period September 1st-11th is not less than 11/90 of the net tax liability reported for alternative method taxes for the look-back quarter; and
+(i) The deposit for alternative method taxes charged during the period September 1st-11th is not less than11/90 of the net tax liability reported for alternative method taxes for the look-back quarter; and
 
-(ii) The total deposit for alternative method taxes charged during the first semimonthly period in September is not less than 1/6 of the net tax liability reported for alternative method taxes for the look-back quarter.
+(ii) The total deposit for alternative method taxes charged during the first semimonthly period in September is not less than1/6 of the net tax liability reported for alternative method taxes for the look-back quarter.
 
 (5) *Persons not required to use electronic funds transfer.* In the case of a person that is not required to deposit excise taxes by electronic funds transfer (a non-EFT depositor), the rules of this paragraph (f) apply with the following modifications:
 

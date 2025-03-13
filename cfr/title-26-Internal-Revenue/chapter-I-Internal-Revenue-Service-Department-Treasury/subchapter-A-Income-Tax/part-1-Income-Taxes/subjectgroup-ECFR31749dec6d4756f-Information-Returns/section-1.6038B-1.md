@@ -198,4 +198,4 @@
 
 (8) Paragraphs (d)(2)(iii) introductory text and (d)(2)(iv) of this section apply to transfers occurring on or after October 10, 2024.
 
-[T.D. 8770, 63 FR 33568, June 19, 1998] Editorial Note:For Federal Register citations affecting § 1.6038B-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 8770, 63 FR 33568, June 19, 1998]Editorial Note:For Federal Register citations affecting § 1.6038B-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

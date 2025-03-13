@@ -22,4 +22,4 @@ Check one\_\_\_\_ for export by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of ca
 
 I understand that the fraudulent use of this certificate for the purpose of substantiating the tax-free sale will subject me and all parties making such fraudulent use of this certificate to revocation of the privilege of purchasing articles tax free and to a fine of not more than $10,000 or to imprisonment for not more than 5 years, or both, together with costs of prosecution.
 
-(Signature) (Address)
+(Signature)(Address)

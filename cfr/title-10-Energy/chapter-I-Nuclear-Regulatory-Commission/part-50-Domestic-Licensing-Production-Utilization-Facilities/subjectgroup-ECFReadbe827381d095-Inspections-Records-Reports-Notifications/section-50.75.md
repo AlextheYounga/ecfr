@@ -14,7 +14,7 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (4) The amount stated in the applicant's or licensee's certification may be based on a cost estimate for decommissioning the facility. As part of the certification, a copy of the financial instrument obtained to satisfy the requirements of paragraph (e) of this section must be submitted to NRC; *provided, however,* that an applicant for or holder of a combined license need not obtain such financial instrument or submit a copy to the Commission except as provided in paragraph (e)(3) of this section.
 
-(c) Table of minimum amounts (January 1986 dollars) required to demonstrate reasonable assurance of funds for decommissioning by reactor type and power level, P (in MWt); adjustment factor.1
+(c) Table of minimum amounts (January 1986 dollars) required to demonstrate reasonable assurance of funds for decommissioning by reactor type and power level, P (in MWt); adjustment factor. 1
 
 1 Amounts are based on activities related to the definition of “Decommission” in § 50.2 of this part and do not include the cost of removal and disposal of spent fuel or of nonradioactive structures and materials beyond that necessary to terminate the license.
 

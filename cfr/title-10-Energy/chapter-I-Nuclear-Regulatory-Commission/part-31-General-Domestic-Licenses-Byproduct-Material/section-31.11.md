@@ -40,7 +40,7 @@
 
 (1) Except as prepackaged units which are labeled in accordance with the provisions of a specific license issued under the provisions of § 32.71 of this chapter or in accordance with the provisions of a specific license issued by an Agreement State, or before November 30, 2007, and the provisions of a specific license issued by a State with comparable provisions to § 32.71 that authorize manufacture and distribution of iodine-125, iodine-131, carbon-14, hydrogen-3 (tritium), selenium-75, iron-59, cobalt-57, or Mock Iodine-125 for distribution to persons generally licensed by the Agreement State or the State with comparable provisions to § 32.71.
 
-(2) Unless the following statement, or a substantially similar statement which contains the information called for in the following statement, appears on a label affixed to each prepackaged unit or appears in a leaflet or brochure which accompanies the package:1
+(2) Unless the following statement, or a substantially similar statement which contains the information called for in the following statement, appears on a label affixed to each prepackaged unit or appears in a leaflet or brochure which accompanies the package: 1
 
 1 Labels authorized by the regulations in effect on September 26, 1979, may be used until one year from September 27, 1979.
 
@@ -52,4 +52,4 @@ This radioactive material may be received, acquired, possessed, and used only by
 
 (f) Any person using byproduct material pursuant to the general license of paragraph (a) of this section is exempt from the requirements of parts 19, 20, and 21, of this chapter with respect to byproduct materials covered by that general license, except that such persons using the Mock Iodine-125 described in paragraph (a)(7) of this section shall comply with the provisions of §§ 20.2001, 20.2201, and 20.2202.
 
-[33 FR 16553, Nov. 14, 1968]Editorial Note:For Federal Register citations affecting § 31.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[33 FR 16553, Nov. 14, 1968] Editorial Note:For Federal Register citations affecting § 31.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

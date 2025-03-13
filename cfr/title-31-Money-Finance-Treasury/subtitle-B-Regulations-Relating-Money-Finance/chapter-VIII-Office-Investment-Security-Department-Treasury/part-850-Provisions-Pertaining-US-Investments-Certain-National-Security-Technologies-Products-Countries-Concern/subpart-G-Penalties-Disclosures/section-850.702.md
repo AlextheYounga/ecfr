@@ -1,0 +1,3 @@
+##### § 850.702 Administrative collection; referral to United States Department of Justice. #####
+
+The imposition of a monetary penalty under this part creates a debt due to the U.S. Government. The Department of the Treasury may take action to collect the penalty assessed if not paid. In addition or instead, the matter may be referred to the Department of Justice for appropriate action to recover the penalty.

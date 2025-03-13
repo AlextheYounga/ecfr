@@ -58,8 +58,7 @@
 
 ![](/graphics/er09oc24.007.gif)And *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.90 is the Student's t-Distribution Values for a 90 percent one-tailed confidence interval with n−1 degrees of freedom (from appendix A to this subpart).
 
-(B) Rounded
-according to:
+(B) Rounded according to:
 
 (*1*) The nearest 100 Btu/h if cooling capacity or heating capacity is less than 20,000 Btu/h,
 

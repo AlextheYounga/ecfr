@@ -1,6 +1,6 @@
 ##### § 20.2108 Records of waste disposal. #####
 
-(a) Each licensee shall maintain records of the disposal of licensed materials made under §§ 20.2002, 20.2003, 20.2004, 20.2005, 10 CFR part 61 and disposal by burial in soil, including burials authorized before January 28, 1981.6
+(a) Each licensee shall maintain records of the disposal of licensed materials made under §§ 20.2002, 20.2003, 20.2004, 20.2005, 10 CFR part 61 and disposal by burial in soil, including burials authorized before January 28, 1981. 6
 
 6 A previous § 20.304 permitted burial of small quantities of licensed materials in soil before January 28, 1981, without specific Commission authorization.
 

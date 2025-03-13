@@ -14,4 +14,4 @@ Further, for any report filed for a plan year ending after January 25, 1982, if 
 
 (f) *Effective dates.* In the case of a plan in existence on January 1, 1974, this section is effective beginning with the first plan year beginning after December 31, 1975, for which the minimum funding standards of section 412 apply to the plan. In the case of a plan not in existence on January 1, 1974, this section is effective beginning with the first plan year beginning after September 2, 1974, for which the minimum funding standards apply to the plan.
 
-(Secs. 6059 and 7805 of the Internal Revenue Code of 1954 (88 Stat. 947, 68A Stat. 917; 26 U.S.C. 6059, 7805)) [T.D. 7798, 46 FR 57484, Nov. 24, 1981]
+(Secs. 6059 and 7805 of the Internal Revenue Code of 1954 (88 Stat. 947, 68A Stat. 917; 26 U.S.C. 6059, 7805))[T.D. 7798, 46 FR 57484, Nov. 24, 1981]

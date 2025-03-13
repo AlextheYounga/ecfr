@@ -26,7 +26,7 @@
 
 (B) When the enthalpy of the outdoor air is lower than the indoor air.
 
-(v) Internal gains in accordance with the following table for a house with 1540 square feet of floor area, adjusted by 0.35 Btu/ft2/hr to account for changes in lighting as the floor area varies from 1540 square feet—
+(v) Internal gains in accordance with the following table for a house with 1540 square feet of floor area, adjusted by 0.35 Btu/ft 2/hr to account for changes in lighting as the floor area varies from 1540 square feet—
 
 |Hour of day|Sensible|Latent|
 |-----------|--------|------|

@@ -20,4 +20,4 @@
 
 (e) *Applicability date.* This section is applicable for actuarial reports required to be filed under section 6059 for plan years that begin on or after January 1, 2024.
 
-[T.D. 9695, 79 FR 58260, Sept. 29, 2014, as amended by T.D. 9972, 88 FR 11777, Feb. 23, 2023] signing and verifying of returns and other documents
+[T.D. 9695, 79 FR 58260, Sept. 29, 2014, as amended by T.D. 9972, 88 FR 11777, Feb. 23, 2023]signing and verifying of returns and other documents

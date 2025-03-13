@@ -354,7 +354,7 @@ Electrical power and lighting systems, other than those systems or portions ther
 |                                             <sup>1</sup> Area factor of 1.0 shall be used for these spaces.                                              |                     |
 |<sup>2</sup> Consider as 10 ft. beyond playing boundaries but less than or equal to the total floor area of the sports space minus spectator seating area.|                     |
 
-Figure 401.3.2e—Area Factor Formula![](/graphics/er06oc00.018.gif)Area Factor Formula:Area Factor (AF) = 0.2 + 0.8(1/0.9n)Where:AF = area factor,CH = ceiling height (ft),Ar = space area (ft2).If AF \<1.0 use 1.0; if AF \>1.8 use 1.8
+Figure 401.3.2e—Area Factor Formula ![](/graphics/er06oc00.018.gif)Area Factor Formula: Area Factor (AF) = 0.2 + 0.8(1/0.9n) Where: AF = area factor, CH = ceiling height (ft), Ar = space area (ft2).If AF \<1.0 use 1.0; if AF \>1.8 use 1.8
 
 401.3.3 *Lighting Power Control Credits.* The interior connected lighting power determined in accordance with § 434.401.3.2 can be decreased for luminaries that are automatically controlled for occupancy, daylight, lumen maintenance, or programmable timing. The adjusted interior connected lighting power shall be determined by subtracting the sum of all lighting power control credits from the interior connected lighting power. Using Table 401.3.3, the lighting power control credit equals the power adjustment factor times the connected lighting power of the controlled lighting. The lighting power adjustment shall be applied with the following limitations:
 

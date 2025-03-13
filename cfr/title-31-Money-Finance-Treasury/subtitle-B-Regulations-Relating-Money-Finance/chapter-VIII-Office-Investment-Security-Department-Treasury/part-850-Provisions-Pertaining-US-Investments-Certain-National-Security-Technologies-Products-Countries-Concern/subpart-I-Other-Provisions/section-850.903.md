@@ -1,0 +1,3 @@
+##### § 850.903 Severability. #####
+
+The provisions of this part are separate and severable from one another. If any of the provisions of this part, or the application thereof to any person or circumstance, is held to be invalid, such invalidity shall not affect other provisions or application of such provisions to other persons or circumstances that can be given effect without the invalid provision or application.

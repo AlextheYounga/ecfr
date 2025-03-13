@@ -4,7 +4,7 @@
 
 (2) *Acts covered.* This section reflects changes made by the following Acts of Congress:
 
-Act and SectionTax Reduction Act of 1975, section 301. Tax Reform Act of 1976, sections 802, 1701, 1703. Revenue Act of 1978, sections 311, 312, 315. Energy Tax Act of 1978, section 301. Economic Recovery Tax Act of 1981, section 212. Technical Corrections Act of 1982, section 102(f). Tax Reform Act of 1986, section 251.
+Act and SectionTax Reduction Act of 1975, section 301.Tax Reform Act of 1976, sections 802, 1701, 1703.Revenue Act of 1978, sections 311, 312, 315.Energy Tax Act of 1978, section 301.Economic Recovery Tax Act of 1981, section 212.Technical Corrections Act of 1982, section 102(f).Tax Reform Act of 1986, section 251.
 
 (3) *Prior regulations.* For taxable years beginning before January 1, 1976, see 26 CFR 1.46-1 (Rev. as of April 1, 1979). Those regulations do not reflect changes made by Pub. L. 89-384, Pub. L. 89-389, and Pub. L. 91-172.
 

@@ -98,4 +98,4 @@
 
 (f) *Effective/applicability date.* This section applies to payments made after December 31, 2000. Paragraph (a)(8) of this section applies to payments made on or after January 6, 2017; however, taxpayers may apply paragraph (a)(8) to any open tax year. Paragraphs (b)(5) and (d)(4) of this section apply to payments made after August 1, 2006. Paragraph (b)(6) of this section applies to payments made on or after January 23, 2012. Paragraph (e)(7) of this section applies to payments made on or after January 19, 2017.
 
-[T.D. 8734, 62 FR 53444, Oct. 14, 1997] Editorial Note:For Federal Register citations affecting § 1.1441-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 8734, 62 FR 53444, Oct. 14, 1997]Editorial Note:For Federal Register citations affecting § 1.1441-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

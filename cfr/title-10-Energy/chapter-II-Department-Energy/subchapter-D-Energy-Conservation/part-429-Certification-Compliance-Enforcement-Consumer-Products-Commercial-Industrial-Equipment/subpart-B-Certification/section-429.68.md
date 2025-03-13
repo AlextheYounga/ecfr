@@ -62,5 +62,4 @@ And
 
 (vi) Effective room size in square feet.
 
-[88 FR 14043, Mar. 6, 2023, as amended at 89 FR 82069, Oct. 9, 2024]
-]
+[88 FR 14043, Mar. 6, 2023, as amended at 89 FR 82069, Oct. 9, 2024] ]

@@ -84,7 +84,7 @@ Example.(i) *Facts.* X Corporation, which was organized on January 1, 1957, sust
 |Ending 9-30-58|          xxx          |          xxx           |         1,000          |
 |     1958     |        36,500         |          xxx           |          xxx           |
 
-The sequence in which the losses of the acquiring corporation and the transferor corporations are applied and the computation of the carryovers to X Corporation's calendar year 1959 are illustrated in the following subdivisions of this example. (ii) *Computation of taxable income.* X Corporation's taxable income, determined in the manner described in subparagraph (2) of this paragraph, for the preacquisition part year and for the partial postacquisition years is as follows:
+The sequence in which the losses of the acquiring corporation and the transferor corporations are applied and the computation of the carryovers to X Corporation's calendar year 1959 are illustrated in the following subdivisions of this example.(ii) *Computation of taxable income.* X Corporation's taxable income, determined in the manner described in subparagraph (2) of this paragraph, for the preacquisition part year and for the partial postacquisition years is as follows:
 
 |          Year          |Taxable income|   Computation   |
 |------------------------|--------------|-----------------|
@@ -103,7 +103,7 @@ The sequence in which the losses of the acquiring corporation and the transferor
 |        Partial No. 2 year taxable income         | 9,200 |
 |                                                  |16,800 |
 
-The balance of $16,800 is not carried over to 1959 since X Corporation's taxable year 1958 is the last of the five years to which Z's 1954 loss may be carried under section 172(b)(1). (iv) *Y Corporation's 1957 loss.* The carryover to 1959 is $14,800, computed as follows:
+The balance of $16,800 is not carried over to 1959 since X Corporation's taxable year 1958 is the last of the five years to which Z's 1954 loss may be carried under section 172(b)(1).(iv) *Y Corporation's 1957 loss.* The carryover to 1959 is $14,800, computed as follows:
 
 |                                                   Net operating loss                                                   |$25,000|   |
 |------------------------------------------------------------------------------------------------------------------------|-------|---|

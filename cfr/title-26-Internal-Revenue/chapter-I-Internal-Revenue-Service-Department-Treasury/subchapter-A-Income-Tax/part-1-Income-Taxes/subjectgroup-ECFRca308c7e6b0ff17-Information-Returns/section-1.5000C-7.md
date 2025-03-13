@@ -2,4 +2,4 @@
 
 Section 5000C applies to specified Federal procurement payments received pursuant to contracts entered into on and after January 2, 2011. Sections 1.5000C-1 through 1.5000C-7 apply on and after November 16, 2016. Contracting parties and acquiring agencies may rely upon the rules in the regulations before such date. If a foreign contracting party fully satisfies its tax and filing obligations under section 5000C with respect to any payments received in tax years ending before November 16, 2016 on or before the later of November 16, 2016 or the due date for the foreign person's income tax return for the year in which the payment was received in a manner consistent with the final regulations, penalties will not be asserted on the foreign contracting parties with respect to those payments or returns.
 
-[T.D. 9782, 81 FR 55138, Aug. 18, 2016] Returns and Records
+[T.D. 9782, 81 FR 55138, Aug. 18, 2016]Returns and Records

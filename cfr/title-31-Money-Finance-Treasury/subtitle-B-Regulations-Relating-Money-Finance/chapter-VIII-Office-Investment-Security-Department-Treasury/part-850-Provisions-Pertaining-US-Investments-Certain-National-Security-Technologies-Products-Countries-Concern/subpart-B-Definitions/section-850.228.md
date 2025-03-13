@@ -1,0 +1,3 @@
+##### § 850.228 United States. #####
+
+The term *United States* or *U.S.* means the United States of America, the States of the United States of America, the District of Columbia, and any commonwealth, territory, dependency, or possession of the United States of America, or any subdivision of the foregoing, and includes the territorial sea of the United States of America. For purposes of this part, an entity organized under the laws of the United States of America, one of the States, the District of Columbia, or a commonwealth, territory, dependency, or possession of the United States is an entity organized “in the United States.”

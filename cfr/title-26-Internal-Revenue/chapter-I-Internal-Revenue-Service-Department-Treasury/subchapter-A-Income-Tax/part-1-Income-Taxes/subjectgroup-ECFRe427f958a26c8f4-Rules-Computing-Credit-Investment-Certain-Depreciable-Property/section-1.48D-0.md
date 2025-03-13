@@ -100,7 +100,7 @@ This section lists the table of contents for §§ 1.48D-1 through 1.48D-6.
 
 (q) Applicability date.
 
- § 1.48D-3 Qualified property.
+§ 1.48D-3 Qualified property.
 
 (a) In general.
 

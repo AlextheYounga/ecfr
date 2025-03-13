@@ -317,7 +317,7 @@ Mechanical systems and equipment used to provide heating, ventilating, and air c
 
 (a) With fan motors of 1 hp (0.746 kW) or less, or
 
-(b) Of throttling results in no greater than1/3 hp (0.248 kW) fan horsepower draw above that required if the fan speed were adjusted.
+(b) Of throttling results in no greater than 1/3 hp (0.248 kW) fan horsepower draw above that required if the fan speed were adjusted.
 
 403.2.10.4 *Hydronic System Balancing.* Hydronic systems shall be balanced in a manner to first minimize throttling losses; then the pump impeller shall be trimmed or pump speed shall be adjusted to meet design flow conditions. Exceptions are as follows:
 

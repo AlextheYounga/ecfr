@@ -1,0 +1,7 @@
+##### § 850.904 Reports to be furnished on demand. #####
+
+(a) Any person is required to furnish under oath, in the form of reports or otherwise, at any time as may be required by the Department of the Treasury, complete information regarding any act or transaction subject to the provisions of this part, regardless of whether such act or transaction is effected pursuant to a national interest exemption under § 850.502. Except as provided otherwise, the Department of the Treasury may, through any person or agency, conduct investigations, hold hearings, administer oaths, examine witnesses, receive evidence, take depositions, and require by subpoena the attendance and testimony of witnesses and the production of any books, contracts, letters, papers, and other hard copy or electronic documents relating to any matter under investigation, regardless of whether any report has been required or filed under this section.
+
+(b) For purposes of paragraph (a) of this section, the term *document* includes any written, recorded, or graphic matter or other means of preserving thought or expression (including in electronic format), and all tangible things stored in any medium from which information can be processed, transcribed, or obtained directly or indirectly.
+
+(c) Persons providing documents to the Department of the Treasury pursuant to this section must do so in a usable format agreed upon by the Department of the Treasury.

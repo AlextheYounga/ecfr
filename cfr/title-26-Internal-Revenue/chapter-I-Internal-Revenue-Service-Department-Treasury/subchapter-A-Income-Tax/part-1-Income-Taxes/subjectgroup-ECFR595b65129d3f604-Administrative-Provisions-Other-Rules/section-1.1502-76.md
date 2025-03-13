@@ -146,4 +146,4 @@ Example 7. Acquisition of S corporation.(a) *Facts.* Z is a small business corpo
 
 (2) *Election to ratably allocate items applicability date.* Paragraph (b)(2)(ii)(D) of this section applies to any original consolidated Federal income tax return due (without extensions) after July 20, 2007.
 
-[T.D. 6894, 31 FR 11794, Sept. 8, 1966] Editorial Note:For Federal Register citations affecting § 1.1502-76, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 6894, 31 FR 11794, Sept. 8, 1966]Editorial Note:For Federal Register citations affecting § 1.1502-76, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

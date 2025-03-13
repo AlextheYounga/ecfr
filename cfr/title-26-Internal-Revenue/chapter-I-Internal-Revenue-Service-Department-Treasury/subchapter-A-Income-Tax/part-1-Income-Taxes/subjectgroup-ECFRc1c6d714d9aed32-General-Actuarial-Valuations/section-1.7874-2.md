@@ -58,7 +58,8 @@
 
 (e) *Acquisitions of multiple domestic entities.* If, pursuant to a plan (or a series of related transactions), a foreign corporation completes two or more domestic entity acquisitions involving domestic corporations and/or domestic partnerships (domestic entities), then, for purposes of section 7874(a)(2)(B)(ii), the acquisitions shall be treated as a single acquisition and the domestic entities shall be treated as a single domestic entity. If the transaction involves one or more domestic corporations and one or more domestic partnerships, the stock of the foreign corporation held by former domestic entity shareholders and former domestic entity partners by reason of holding stock or a partnership interest in the domestic entities shall be aggregated for purposes of determining whether the ownership condition of section 7874(a)(2)(B)(ii) is satisfied. See *Example 7* of paragraph (k) of this section for an illustration of the rules of this paragraph (e).
 
-(f) *Stock held by reason of holding stock in a domestic corporation or an interest in a domestic partnership*— (1) *Certain transactions.* For purposes of section 7874(a)(2)(B)(ii), stock of a foreign corporation that is held by reason of holding stock in a domestic corporation (or an interest in a domestic partnership) includes, but is not limited to, the stock described in paragraphs (f)(1)(i) through (iv) of this section.
+(f) *Stock held by reason of holding stock in a domestic corporation or an interest in a domestic partnership*—
+(1) *Certain transactions.* For purposes of section 7874(a)(2)(B)(ii), stock of a foreign corporation that is held by reason of holding stock in a domestic corporation (or an interest in a domestic partnership) includes, but is not limited to, the stock described in paragraphs (f)(1)(i) through (iv) of this section.
 
 (i) Stock of a foreign corporation received in exchange for, or with respect to, stock of a domestic corporation.
 
