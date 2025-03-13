@@ -1,7 +1,5 @@
 ##### § 178.37 Specification 3AA and 3AAX seamless steel cylinders. #####
 
-Link to an amendment published at 89 FR 25488, Apr. 10, 2024.
-
 (a) *Type, size and service pressure.* In addition to the requirements of § 178.35, cylinders must conform to the following:
 
 (1) A DOT-3AA cylinder is a seamless steel cylinder with a water capacity (nominal) of not over 1,000 pounds and a service pressure of at least 150 psig.
@@ -20,45 +18,39 @@ S = A1P/A2Where:S = tensile stress-p.s.i.;M = bending moment-inch pounds (wl2)/8
 
 (b) *Authorized steel.* Open-hearth, basic oxygen, or electric steel of uniform quality must be used. A heat of steel made under the specifications in table 1 of this paragraph (b), check chemical analysis of which is slightly out of the specified range, is acceptable, if satisfactory in all other respects, provided the tolerances shown in table 2 of this paragraph (b) are not exceeded. When a carbon-boron steel is used, a hardenability test must be performed on the first and last ingot of each heat of steel. The results of this test must be recorded on the Record of Chemical Analysis of Material for Cylinders required by § 178.35. This hardness test must be made5/16-inch from the quenched end of the Jominy quench bar and the hardness must be at least Rc 33 and no more than Rc 53. The following chemical analyses are authorized:
 
-Table 1—Authorized Materials
+|                                                        Designation                                                        |4130X (percent) (see Note 1)|NE-8630 (percent) (see Note 1)|9115 (percent) (see Note 1)|9125 (percent) (see Note 1)|Carbon-boron (percent)|Inter- mediate manganese (percent)|
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------|------------------------------|---------------------------|---------------------------|----------------------|----------------------------------|
+|                                                          Carbon                                                           |         0.25/0.35          |          0.28/0.33           |         0.10/0.20         |         0.20/0.30         |      0.27-0.37       |            0.40 max.             |
+|                                                         Manganese                                                         |         0.40/0.90          |          0.70/0.90           |         0.50/0.75         |         0.50/0.75         |      0.80-1.40       |            1.35/1.65.            |
+|                                                        Phosphorus                                                         |          0.04 max          |           0.04 max           |         0.04 max          |         0.04 max          |      0.035 max       |            0.04 max.             |
+|                                                          Sulfur                                                           |          0.05 max          |           0.04 max           |         0.04 max          |         0.04 max          |      0.045 max       |            0.05 max.             |
+|                                                          Silicon                                                          |         0.15/0.35          |          0.20/0.35           |         0.60/0.90         |         0.60/0.90         |       0.3 max.       |            0.10/0.30.            |
+|                                                         Chromium                                                          |         0.80/1.10          |          0.40/0.60           |         0.50/0.65         |        0.50/0.65.         |                      |                                  |
+|                                                        Molybdenum                                                         |         0.15/0.25          |          0.15/0.25           |                           |                           |                      |                                  |
+|                                                         Zirconium                                                         |                            |                              |         0.05/0.15         |         0.05/0.15         |                      |                                  |
+|                                                          Nickel                                                           |                            |          0.40/0.70           |                           |                           |                      |                                  |
+|                                                           Boron                                                           |                            |                              |                           |                           |    0.0005/0.003.     |                                  |
+|**Note 1:** This designation may not be restrictive and the commercial steel is limited in analysis as shown in this table.|                            |                              |                           |                           |                      |                                  |
 
-|Designation|4130X (percent) (see Note 1)|NE-8630 (percent) (see Note 1)|9115 (percent) (see Note 1)|9125 (percent) (see Note 1)|Carbon-boron (percent)|Inter- mediate manganese (percent)|
-|-----------|----------------------------|------------------------------|---------------------------|---------------------------|----------------------|----------------------------------|
-|  Carbon   |         0.25/0.35          |          0.28/0.33           |         0.10/0.20         |         0.20/0.30         |      0.27-0.37       |            0.40 max.             |
-| Manganese |         0.40/0.90          |          0.70/0.90           |         0.50/0.75         |         0.50/0.75         |      0.80-1.40       |            1.35/1.65.            |
-|Phosphorus |          0.04 max          |           0.04 max           |         0.04 max          |         0.04 max          |      0.035 max       |            0.04 max.             |
-|  Sulfur   |          0.05 max          |           0.04 max           |         0.04 max          |         0.04 max          |      0.045 max       |            0.05 max.             |
-|  Silicon  |         0.15/0.35          |          0.20/0.35           |         0.60/0.90         |         0.60/0.90         |       0.3 max.       |            0.10/0.30.            |
-| Chromium  |         0.80/1.10          |          0.40/0.60           |         0.50/0.65         |        0.50/0.65.         |                      |                                  |
-|Molybdenum |         0.15/0.25          |          0.15/0.25           |                           |                           |                      |                                  |
-| Zirconium |                            |                              |         0.05/0.15         |         0.05/0.15         |                      |                                  |
-|  Nickel   |                            |          0.40/0.70           |                           |                           |                      |                                  |
-|   Boron   |                            |                              |                           |                           |    0.0005/0.003.     |                                  |
-
-Note 1: This designation may not be restrictive and the commercial steel is limited in analysis as shown in this table.
-
-Table 2—Check Analysis Tolerances
-
-|       Element        |Limit or maximum specified  <br/>(percent)|Tolerance (percent) over the maximum limit or under the minimum limit|    |
-|----------------------|------------------------------------------|---------------------------------------------------------------------|----|
-| Under minimum limit  |            Over maximum limit            |                                                                     |    |
-|        Carbon        |               To 0.15 incl               |                                0.02                                 |0.03|
-|                      |          Over 0.15 to 0.40 incl          |                                 .03                                 |.04 |
-|      Manganese       |               To 0.60 incl               |                                 .03                                 |.03 |
-|                      |          Over 0.60 to 1.15 incl          |                                0.04                                 |0.04|
-|                      |          Over 1.15 to 2.50 incl          |                                0.05                                 |0.05|
-|Phosphorus<sup>1</sup>|                All ranges                |                                                                     |.01 |
-|       Sulphur        |                All ranges                |                                                                     |.01 |
-|       Silicon        |               To 0.30 incl               |                                 .02                                 |.03 |
-|                      |          Over 0.30 to 1.00 incl          |                                 .05                                 |.05 |
-|        Nickel        |               To 1.00 incl               |                                 .03                                 |.03 |
-|       Chromium       |               To 0.90 incl               |                                 .03                                 |.03 |
-|                      |            0.90 to 2.90 incl             |                                 .05                                 |.05 |
-|      Molybdenum      |               To 0.20 incl               |                                 .01                                 |.01 |
-|                      |            Over 0.20 to 0.40             |                                 .02                                 |.02 |
-|      Zirconium       |                All ranges                |                                 .01                                 |.05 |
-
-<sup>1</sup> Rephosphorized steels not subject to check analysis for phosphorus.
+|                                    Element                                     |Limit or maximum specified  <br/>(percent)|Tolerance (percent) over the maximum limit or under the minimum limit|    |
+|--------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------|----|
+|                              Under minimum limit                               |            Over maximum limit            |                                                                     |    |
+|                                     Carbon                                     |               To 0.15 incl               |                                0.02                                 |0.03|
+|                                                                                |          Over 0.15 to 0.40 incl          |                                 .03                                 |.04 |
+|                                   Manganese                                    |               To 0.60 incl               |                                 .03                                 |.03 |
+|                                                                                |          Over 0.60 to 1.15 incl          |                                0.04                                 |0.04|
+|                                                                                |          Over 1.15 to 2.50 incl          |                                0.05                                 |0.05|
+|                             Phosphorus<sup>1</sup>                             |                All ranges                |                                                                     |.01 |
+|                                    Sulphur                                     |                All ranges                |                                                                     |.01 |
+|                                    Silicon                                     |               To 0.30 incl               |                                 .02                                 |.03 |
+|                                                                                |          Over 0.30 to 1.00 incl          |                                 .05                                 |.05 |
+|                                     Nickel                                     |               To 1.00 incl               |                                 .03                                 |.03 |
+|                                    Chromium                                    |               To 0.90 incl               |                                 .03                                 |.03 |
+|                                                                                |            0.90 to 2.90 incl             |                                 .05                                 |.05 |
+|                                   Molybdenum                                   |               To 0.20 incl               |                                 .01                                 |.01 |
+|                                                                                |            Over 0.20 to 0.40             |                                 .02                                 |.02 |
+|                                   Zirconium                                    |                All ranges                |                                 .01                                 |.05 |
+|<sup>1</sup> Rephosphorized steels not subject to check analysis for phosphorus.|                                          |                                                                     |    |
 
 (c) *Identification of material.* Material must be identified by any suitable method except that plates and billets for hot-drawn cylinders must be marked with the heat number.
 
@@ -114,7 +106,7 @@ S = [P(1.3D2 + 0.4d2)]/(D2−d2)Where:S = wall stress in psi;P = minimum test pr
 
 (4) Permanent, volumetric expansion may not exceed 10 percent of the total volumetric expansion at test pressure.
 
-(j) *Flattening test.* A flattening test must be performed on one cylinder taken at random out of each lot of 200 or less, by placing the cylinder between wedge shaped knife edges having a 60° included angle, rounded to1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or less, flattening tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to the same heat treatment as the finished cylinder. Cylinders may be subjected to a bend test in lieu of the flattening test. Two bend test specimens must be taken in accordance with ISO 9809-1 or ASTM E 290 (IBR, *see* § 171.7 of this subchapter), and must be subjected to the bend test specified therein.
+(j) *Flattening test.* A flattening test must be performed on one cylinder, taken at random out of each lot of 200 or fewer, by placing the cylinder between wedge shaped knife edges, having a 60-degree included angle, rounded to1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to the knife edges during the test. For lots of 30 or fewer, flattening tests are authorized to be made on a ring at least eight (8) inches long, cut from each cylinder and subjected to the same heat treatment as the finished cylinder. Cylinders may be subjected to a bend test in lieu of the flattening test. Two bend test specimens must be taken in accordance with ISO 9809-1:2019(E) or ASTM E290 (IBR, see § 171.7 of this subchapter), and must be subjected to the bend test specified therein.
 
 (k) *Physical test.* A physical test must be conducted to determine yield strength, tensile strength, elongation, and reduction of area of material as follows:
 
@@ -152,4 +144,4 @@ S = [P(1.3D2 + 0.4d2)]/(D2−d2)Where:S = wall stress in psi;P = minimum test pr
 
 (n) *Rejected cylinders.* Reheat treatment is authorized for rejected cylinders. Subsequent thereto, cylinders must pass all prescribed tests to be acceptable. Repair by welding or spinning is not authorized. Spun cylinders rejected under the provision of paragraph (m) of this section may be removed from the spun cylinder category by drilling to remove defective material, tapping and plugging.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 65 FR 58631, Sept. 29, 2000; 66 FR 45386, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 76 FR 43531, July 20, 2011; 85 FR 85420, Dec. 28, 2020]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 65 FR 58631, Sept. 29, 2000; 66 FR 45386, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 76 FR 43531, July 20, 2011; 85 FR 85420, Dec. 28, 2020; 89 FR 25488, Apr. 10, 2024]

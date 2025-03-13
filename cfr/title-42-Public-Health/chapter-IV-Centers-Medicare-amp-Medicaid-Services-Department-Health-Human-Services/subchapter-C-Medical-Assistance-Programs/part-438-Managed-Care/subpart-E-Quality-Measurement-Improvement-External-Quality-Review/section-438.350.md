@@ -1,5 +1,7 @@
 ##### § 438.350 External quality review. #####
 
+Link to an amendment published at 89 FR 41278, May 10, 2024.
+
 Each State that contracts with MCOs, PIHPs, or PAHPs, or with PCCM entities (described in § 438.310(c)(2)) must ensure that—
 
 (a) Except as provided in § 438.362, a qualified EQRO performs an annual EQR for each such contracting MCO, PIHP, PAHP or PCCM entity (described in § 438.310(c)(2)).

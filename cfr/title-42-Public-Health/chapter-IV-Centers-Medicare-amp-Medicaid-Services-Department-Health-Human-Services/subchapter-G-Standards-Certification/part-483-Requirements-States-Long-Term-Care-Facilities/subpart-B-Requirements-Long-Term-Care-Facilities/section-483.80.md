@@ -1,5 +1,7 @@
 ##### § 483.80 Infection control. #####
 
+Link to an amendment published at 89 FR 41000, May 10, 2024.
+
 The facility must establish and maintain an infection prevention and control program designed to provide a safe, sanitary, and comfortable environment and to help prevent the development and transmission of communicable diseases and infections.
 
 (a) *Infection prevention and control program.* The facility must establish an infection prevention and control program (IPCP) that must include, at a minimum, the following elements:

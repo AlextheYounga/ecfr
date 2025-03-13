@@ -1,5 +1,7 @@
 ##### § 501.805 Rules governing availability of information. #####
 
+Link to an amendment published at 89 FR 40377, May 10, 2024.
+
 (a) The records of the Office of Foreign Assets Control which are required by the Freedom of Information Act (5 U.S.C. 552) to be made available to the public shall be made available in accordance with the definitions, procedures, payment of fees, and other provisions of the regulations on the Disclosure of Records of the Departmental Offices and of other bureaus and offices of the Department of the Treasury issued under 5 U.S.C. 552 and published at 31 CFR part 1.
 
 Note to paragraph § 501.805(a):

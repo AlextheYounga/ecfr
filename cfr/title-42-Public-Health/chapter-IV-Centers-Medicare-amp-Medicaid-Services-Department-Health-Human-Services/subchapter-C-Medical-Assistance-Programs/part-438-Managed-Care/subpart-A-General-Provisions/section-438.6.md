@@ -1,12 +1,15 @@
 ##### § 438.6 Special contract provisions related to payment. #####
 
+Link to an amendment published at 89 FR 41267, May 10, 2024.
+
 (a) *Definitions.* As used in this part, the following terms have the indicated meanings:
 
 *Base amount* is the starting amount, calculated according to paragraph (d)(2) of this section, available for pass-through payments to hospitals in a given contract year subject to the schedule in paragraph (d)(3) of this section.
 
 *Incentive arrangement* means any payment mechanism under which a MCO, PIHP, or PAHP may receive additional funds over and above the capitation rates it was paid for meeting targets specified in the contract.
 
-*Pass-through payment* is any amount required by the State to be added to the contracted payment rates, and considered in calculating the actuarially sound capitation rate, between the MCO, PIHP, or PAHP and hospitals, physicians, or nursing facilities that is not for the following purposes: A specific service or benefit provided to a specific enrollee covered under the contract; a provider payment methodology permitted under paragraphs (c)(1)(i) through (iii) of this section for services and enrollees covered under the contract; a subcapitated payment arrangement for a specific set of services and enrollees covered under the contract; GME payments; or FQHC or RHC wrap around payments.
+*Pass-through payment* is any amount required by the State to be added to the contracted payment rates, and considered in calculating the actuarially sound capitation rate,
+between the MCO, PIHP, or PAHP and hospitals, physicians, or nursing facilities that is not for the following purposes: A specific service or benefit provided to a specific enrollee covered under the contract; a provider payment methodology permitted under paragraphs (c)(1)(i) through (iii) of this section for services and enrollees covered under the contract; a subcapitated payment arrangement for a specific set of services and enrollees covered under the contract; GME payments; or FQHC or RHC wrap around payments.
 
 *Risk corridor* means a risk sharing mechanism in which States and MCOs, PIHPs, or PAHPs may share in profits and losses under the contract outside of a predetermined threshold amount.
 
@@ -16,7 +19,8 @@
 
 *Withhold arrangement* means any payment mechanism under which a portion of a capitation rate is withheld from an MCO, PIHP, or PAHP and a portion of or all of the withheld amount will be paid to the MCO, PIHP, or PAHP for meeting targets specified in the contract. The targets for a withhold arrangement are distinct from general operational requirements under the contract. Arrangements that withhold a portion of a capitation rate for noncompliance with general operational requirements are a penalty and not a withhold arrangement.
 
-(b) *Basic requirements.* (1) If used in the payment arrangement between the State and the MCO, PIHP, or PAHP, all applicable risk-sharing mechanisms, such as reinsurance, risk corridors, or stop-loss limits, must be documented in the contract and rate certification documents for the rating period prior to the start of the rating period, and must be developed in accordance with § 438.4, the rate development standards in § 438.5, and generally accepted actuarial principles and practices. Risk-sharing mechanisms may not be added or modified after the start of the rating period.
+(b) *Basic requirements.* (1) If used in the payment arrangement between the State and the MCO, PIHP, or PAHP, all applicable risk-sharing mechanisms, such as reinsurance, risk corridors, or stop-loss limits, must be documented in the contract and rate certification documents for the rating period prior to the start of the rating period, and must be developed in accordance with § 438.4, the rate development standards in § 438.5, and generally accepted
+actuarial principles and practices. Risk-sharing mechanisms may not be added or modified after the start of the rating period.
 
 (2) Contracts with incentive arrangements may not provide for payment in excess of 105 percent of the approved capitation payments attributable to the enrollees or services covered by the incentive arrangement, since such total payments will not be considered to be actuarially sound. For all incentive arrangements, the contract must provide that the arrangement is—
 

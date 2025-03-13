@@ -1,5 +1,7 @@
 ##### § 438.66 State monitoring requirements. #####
 
+Link to an amendment published at 89 FR 41275, May 10, 2024.
+
 (a) *General requirement.* The State agency must have in effect a monitoring system for all managed care programs.
 
 (b) The State's system must address all aspects of the managed care program, including the performance of each MCO, PIHP, PAHP, and PCCM entity (if applicable) in at least the following areas:

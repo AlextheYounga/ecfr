@@ -1,5 +1,7 @@
 ##### § 441.570 State assurances. #####
 
+Link to an amendment published at 89 FR 40870, May 10, 2024.
+
 A State must assure the following requirements are met:
 
 (a) Necessary safeguards have been taken to protect the health and welfare of enrollees in Community First Choice, including adherence to section 1903(i) of the Act that Medicaid payment shall not be made for items or services furnished by individuals or entities excluded from participating in the Medicaid Program.

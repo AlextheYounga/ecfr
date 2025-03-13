@@ -1,7 +1,5 @@
 ##### § 173.185 Lithium cells and batteries. #####
 
-Link to an amendment published at 89 FR 25478, Apr. 10, 2024.
-
 As used in this section, *consignment* means one or more packages of hazardous materials accepted by an operator from one shipper at one time and at one address, receipted for in one lot and moving to one consignee at one destination address. *Equipment* means the device or apparatus for which the lithium cells or batteries will provide electrical power for its operation. *Lithium cell(s)* or *battery(ies)* includes both lithium metal and lithium ion chemistries. *Medical device* means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
 
 (a) *Classification.* (1) Each lithium cell or battery must be of the type proven to meet the criteria in part III, sub-section 38.3 of the UN Manual of Tests and Criteria (IBR; see § 171.7 of this subchapter). Lithium cells and batteries are subject to these tests regardless of whether the cells used to construct the battery are of a tested type. A single cell battery as defined in part III, sub-section 38.3 of the UN Manual of Tests and Criteria is considered a “cell” and must be offered for transportation in accordance with the requirements for cells.
@@ -16,7 +14,7 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (ii) Make this record available to an authorized representative of the Federal, state or local government upon request.
 
-(3) Beginning January 1, 2022 each manufacturer and subsequent distributor of lithium cells or batteries manufactured on or after January 1, 2008, must make available a test summary. The test summary must include the following elements:
+(3) Each manufacturer and subsequent distributor of lithium cells or batteries, except for button cells installed in equipment (including circuit boards), manufactured on or after January 1, 2008, must make a test summary available. The test summary must include the following elements:
 
 (i) Name of cell, battery, or product manufacturer, as applicable;
 
@@ -46,7 +44,7 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (ix) Reference to the revised edition of the UN Manual of Tests and Criteria used and to amendments thereto, if any; and
 
-(x) Signature with name and title of signatory as an indication of the validity of information provided.
+(x) Name and title of a responsible person as an indication of the validity of information provided.
 
 (4) Except for cells or batteries meeting the requirements of paragraph (c) of this section, each lithium cell or battery must:
 
@@ -55,6 +53,8 @@ As used in this section, *consignment* means one or more packages of hazardous m
 (ii) Be equipped with means of preventing external short circuits; and
 
 (iii) Be equipped with a means of preventing dangerous reverse current flow (*e.g.,* diodes or fuses) if a battery contains cells, or a series of cells that are connected in parallel.
+
+(5) Beginning May 10, 2024, each lithium ion battery must be marked with the Watt-hour rating on the outside case.
 
 (b) *Packaging.* (1) Each package offered for transportation containing lithium cells or batteries, including lithium cells or batteries packed with, or contained in, equipment, must meet all applicable requirements of subpart B of this part.
 
@@ -80,19 +80,23 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (iii) When packed with equipment, lithium cells or batteries must:
 
-(A) Be placed in inner packagings that completely enclose the cell or battery, then placed in an outer packaging. The completed package for the cells or batteries must meet the Packing Group II performance requirements as specified in paragraph (b)(3)(ii) of this section; or
+(A) Be placed in inner packagings that completely enclose the cell or battery, then placed in a packaging of a type that meets the Packing Group II performance requirements as specified in paragraph (b)(3)(ii) of this section, and then placed with the equipment in a strong, rigid outer packaging; or
 
-(B) Be placed in inner packagings that completely enclose the cell or battery, then placed with equipment in a package that meets the Packing Group II performance requirements as specified in paragraph (b)(3)(ii) of this section.
+(B) Be placed in inner packagings that completely enclose the cell or battery, then placed with the equipment in a packaging of a type that meets the Packing Group II performance requirements as specified in paragraph (b)(3)(ii) of this section.
+
+(C) For transportation by aircraft, the number of cells or batteries in each package is limited to the minimum number required to power the piece of equipment, plus two spare sets. A set of cells or batteries is the number of individual cells or batteries that are required to power each piece of equipment.
 
 (4) When lithium cells or batteries are contained in equipment:
 
 (i) The outer packaging, when used, must be constructed of suitable material of adequate strength and design in relation to the capacity and intended use of the packaging, unless the lithium cells or batteries are afforded equivalent protection by the equipment in which they are contained;
 
-(ii) Equipment must be secured to prevent damage caused by shifting within the outer packaging and be packed so as to prevent accidental operation during transport; and
+(ii) Equipment must be secured to prevent damage caused by shifting within the outer packaging and be packed so as to prevent accidental operation during transport;
 
-(iii) Any spare lithium cells or batteries packed with the equipment must be packaged in accordance with paragraph (b)(3) of this section.
+(iii) Any spare lithium cells or batteries packed with the equipment must be packaged in accordance with paragraph (b)(3) of this section; and
 
-(5) Lithium batteries that weigh 12 kg (26.5 pounds) or more and have a strong, impact-resistant outer casing may be packed in strong outer packagings; in protective enclosures (for example, in fully enclosed or wooden slatted crates); or on pallets or other handling devices, instead of packages meeting the UN performance packaging requirements in paragraphs (b)(3)(ii) and (iii) of this section. Batteries must be secured to prevent inadvertent shifting, and the terminals may not support the weight of other superimposed elements. Batteries packaged in accordance with this paragraph may be transported by cargo aircraft if approved by the Associate Administrator.
+(iv) For transportation by aircraft, where multiple pieces of equipment are packed in the same outer packaging, each piece of equipment must be packed to prevent contact with other equipment.
+
+(5) Lithium cells or batteries that weigh 12 kg (26.5 pounds) or more and have a strong, impact-resistant outer casing, may be packed in strong outer packagings; in protective enclosures (for example, in fully enclosed or wooden slatted crates); or on pallets or other handling devices, instead of packages meeting the UN performance packaging requirements in paragraphs (b)(3)(ii) and (b)(3)(iii) of this section. Cells and batteries must be secured to prevent inadvertent shifting, and the terminals may not support the weight of other superimposed elements. Cells and batteries packaged in accordance with this paragraph may be transported by cargo-only aircraft if approved by the Associate Administrator.
 
 (6) Except for transportation by aircraft, the following rigid large packagings are authorized for a single battery, and for a single item of equipment containing batteries, meeting provisions in paragraphs (b)(1) and (2) of this section and the requirements of part 178, subparts P and Q, of this subchapter at the Packing Group II level:
 
@@ -130,46 +134,37 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (3) *Lithium battery mark.* Each package must display the lithium battery mark except when a package contains only button cell batteries contained in equipment (including circuit boards), or when a consignment contains two packages or fewer where each package contains not more than four lithium cells or two lithium batteries contained in equipment.
 
-(i) The mark must indicate the UN number: “UN3090” for lithium metal cells or batteries; or “UN3480” for lithium ion cells or batteries. Where the lithium cells or batteries are contained in, or packed with, equipment, the UN number “UN3091” or “UN3481,” as appropriate, must be indicated. Where a package contains lithium cells or batteries assigned to different UN numbers, all applicable UN numbers must be indicated on one or more marks. The package must be of such size that there is adequate space to affix the mark on one side without the mark being folded.
+(i) The mark must indicate the UN number: “UN3090” for lithium metal cells or batteries, or “UN3480” for lithium ion cells or batteries. Where the lithium cells or batteries are contained in, or packed with, equipment, the UN number “UN3091” or “UN3481,” as appropriate, must be indicated. Where a package contains lithium cells or batteries assigned to different UN numbers, all applicable UN numbers must be indicated on one or more marks. The package must be of such size that there is adequate space to affix the mark on one side without the mark being folded.
 
-![](/graphics/er26jy22.152.gif)
+Figure 1 to paragraph (c)(3)(i) introductory text![](/graphics/er10ap24.014.gif)
 
-(A) The mark must be in the form of a rectangle or a square with hatched edging. The mark must be not less than 100 mm (3.9 inches) wide by 100 mm (3.9 inches) high and the minimum width of the hatching must be 5 mm (0.2 inches), except marks of 100 mm (3.9 inches) wide by 70 mm (2.8 inches) high may be used on a package containing lithium batteries when the package is too small for the larger mark;
+(A) The mark must be in the form of a rectangle or a square with hatched edging. The mark must be not less than 100 mm (3.9 inches) wide by 100 mm (3.9 inches) high, and the minimum width of the hatching must be 5 mm (0.2 inches), except marks of 100 mm (3.9 inches) wide by 70 mm (2.8 inches) high may be used on a package containing lithium batteries when the package is too small for the larger mark;
 
 (B) The symbols and letters must be black on white or suitable contrasting background and the hatching must be red;
 
-(C) The “\*” must be replaced by the appropriate UN number(s) and the “\*\*” must be replaced by a telephone number for additional information; and
+(C) The “\*” must be replaced by the appropriate UN number(s); and
 
 (D) Where dimensions are not specified, all features shall be in approximate proportion to those shown.
 
-(ii) [Reserved]
+(ii) The lithium battery mark, in conformance with the requirements of this paragraph, in effect on May 9, 2024, may continue to be used until December 31, 2026.
 
-(iii) When packages are placed in an overpack, the lithium battery mark shall either be clearly visible through the overpack or be reproduced on the outside of the overpack and the overpack shall be marked with the word “OVERPACK”. The lettering of the “OVERPACK” mark shall be at least 12 mm (0.47 inches) high.
+(iii) When packages are placed in an overpack, the lithium battery mark shall either be clearly visible through the overpack or be reproduced on the outside of the overpack, and the overpack shall be marked with the word “OVERPACK.” The lettering of the “OVERPACK” mark shall be at least 12 mm (0.47 inches) high.
 
-(4) *Air transportation.* (i) For transportation by aircraft, lithium cells and batteries may not exceed the limits in the following Table 1 to paragraph (c)(4)(i). The limits on the maximum number of batteries and maximum net quantity of batteries in the following table may not be combined in the same package. The limits in the following table do not apply to lithium cells and batteries packed with, or contained in, equipment.
+(4) *Air transportation for smaller lithium cells or batteries packed with, or contained in, equipment.*
 
-Table 1 to Paragraph (c)(4)(i)
+(i) The number of cells or batteries in each package is limited to the minimum number required to power the piece of equipment, plus two spare sets, and the total net quantity (mass) of the lithium cells or batteries in the completed package must not exceed 5 kg. A set of cells or batteries is the number of individual cells or batteries that are required to power each piece of equipment.
 
-|                  Contents                   |Lithium metal cells and/or  <br/>batteries with a lithium  <br/>content not more than 0.3 g|Lithium metal cells with a  <br/>lithium content more than 0.3 g but not more than 1 g|Lithium metal batteries with a lithium content more than 0.3 g but not more than 2 g|Lithium ion cells and/or batteries with a watt-hour rating not more than 2.7 Wh|Lithium ion cells with a watt-hour rating more than 2.7 Wh but not more than 20 Wh|Lithium ion  <br/>batteries with a watt-hour rating more than 2.7 Wh but not more than 100 Wh|
-|---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|Maximum number of cells/batteries per package|                                         No Limit                                          |                                       8 cells                                        |                                    2 batteries                                     |                                   No Limit                                    |                                     8 cells                                      |                                        2 batteries.                                         |
-|   Maximum net quantity (mass) per package   |                                          2.5 kg                                           |                                         n/a                                          |                                        n/a                                         |                                    2.5 kg                                     |                                       n/a                                        |                                            n/a.                                             |
+(ii) When packages are placed in an overpack, the packages must be secured within the overpack, and the intended function of each package must not be impaired by the overpack.
 
-(ii) Not more than one package prepared in accordance with paragraph (c)(4)(i) of this section may be placed into an overpack.
+(iii) Each shipment with packages required to display the paragraph (c)(3)(i) lithium battery mark must include an indication on the air waybill of compliance with this paragraph (c)(4) (or the applicable ICAO Technical Instructions Packing Instruction), when an air waybill is used.
 
-(iii) A shipper is not permitted to offer for transport more than one package prepared in accordance with the provisions of paragraph (c)(4)(i) of this section in any single consignment.
+(iv) Each person who prepares a package for transport containing lithium cells or batteries, packed with, or contained in, equipment in accordance with the conditions and limitations of this paragraph (c)(4), must receive instruction on these conditions and limitations, corresponding to their functions.
 
-(iv) Each shipment with packages required to display the paragraph (c)(3)(i) lithium battery mark must include an indication on the air waybill of compliance with this paragraph (c)(4) (or the applicable ICAO Technical Instructions Packing Instruction), when an air waybill is used.
+(5) *Air transportation for smaller lithium cells and batteries.*
 
-(v) Packages and overpacks of lithium batteries prepared in accordance with paragraph (c)(4)(i) of this section must be offered to the operator separately from cargo which is not subject to the requirements of this subchapter and must not be loaded into a unit load device before being offered to the operator.
+(i) A package prepared in accordance with the size limits in paragraph (c)(1) is subject to all applicable requirements of this subchapter, except that a package containing no more than 2.5 kg lithium metal cells or batteries, or 10 kg lithium ion cells or batteries, is not subject to the UN performance packaging requirements in paragraph (b)(3)(ii) of this section, when the package displays both the lithium battery mark in paragraph (c)(3)(i) and the Class 9 Lithium Battery label specified in § 172.447 of this subchapter. This paragraph does not apply to batteries or cells packed with, or contained in, equipment.
 
-(vi) For lithium batteries packed with, or contained in, equipment, the number of batteries in each package is limited to the minimum number required to power the piece of equipment, plus two spare sets, and the total net quantity (mass) of the lithium cells or batteries in the completed package must not exceed 5 kg. A “set” of cells or batteries is the number of individual cells or batteries that are required to power each piece of equipment.
-
-(vii) Each person who prepares a package for transport containing lithium cells or batteries, including cells or batteries packed with, or contained in, equipment in accordance with the conditions and limitations of this paragraph (c)(4), must receive instruction on these conditions and limitations, corresponding to their functions.
-
-(viii) Lithium cells and batteries must not be packed in the same outer packaging with other hazardous materials. Packages prepared in accordance with paragraph (c)(4)(i) of this section must not be placed into an overpack with packages containing hazardous materials and articles of Class 1 (explosives) other than Division 1.4S, Division 2.1 (flammable gases), Class 3 (flammable liquids), Division 4.1 (flammable solids), or Division 5.1 (oxidizers).
-
-(5) For transportation by aircraft, a package that exceeds the number or quantity (mass) limits in the table shown in paragraph (c)(4)(i) of this section, the overpack limit described in paragraph (c)(4)(ii) of this section, or the consignment limit described in paragraph (c)(4)(iii) of this section is subject to all applicable requirements of this subchapter, except that a package containing no more than 2.5 kg lithium metal cells or batteries or 10 kg lithium ion cells or batteries is not subject to the UN performance packaging requirements in paragraph (b)(3)(ii) of this section when the package displays both the lithium battery mark in paragraph (c)(3)(i) and the Class 9 Lithium Battery label specified in § 172.447 of this subchapter. This paragraph does not apply to batteries or cells packed with or contained in equipment.
+(ii) Each package must be capable of withstanding, without damage to the cells or batteries contained therein and without any reduction of effectiveness, a force applied to the top surface equivalent to the total weight of identical packages stacked to a height of 3 meters (including the test sample) for a duration of 24 hours.
 
 (d) *Lithium cells or batteries shipped for disposal or recycling.* A lithium cell or battery, including a lithium cell or battery contained in equipment, that is transported by motor vehicle to a permitted storage facility or disposal site, or for purposes of recycling, is excepted—
 
@@ -197,11 +192,11 @@ Table 1 to Paragraph (c)(4)(i)
 
 (iii) Plywood (50D).
 
-(5) Lithium batteries, including lithium batteries contained in equipment, that weigh 12 kg (26.5 pounds) or more and have a strong, impact-resistant outer casing may be packed in strong outer packagings, in protective enclosures (for example, in fully enclosed or wooden slatted crates), or on pallets or other handling devices, instead of packages meeting the UN performance packaging requirements in paragraphs (b)(3)(ii) and (iii) of this section. The battery must be secured to prevent inadvertent shifting, and the terminals may not support the weight of other superimposed elements;
+(5) Lithium batteries, including lithium batteries contained in equipment, that weigh 12 kg (26.5 pounds) or more and have a strong, impact-resistant outer casing, may be packed in strong outer packagings, in protective enclosures (for example, in fully enclosed or wooden slatted crates), or on pallets or other handling devices, instead of packages meeting the UN performance packaging requirements in paragraphs (b)(3)(ii) and (iii) of this section. The cell or battery must be secured to prevent inadvertent shifting, and the terminals may not support the weight of other superimposed elements;
 
-(6) Irrespective of the limit specified in column (9B) of the § 172.101 Hazardous Materials Table, the battery or battery assembly prepared for transport in accordance with this paragraph may have a mass exceeding 35 kg gross weight when transported by cargo aircraft;
+(6) Irrespective of the limit specified in Column (9B) of the § 172.101 Hazardous Materials Table, the cell or battery prepared for transport in accordance with this paragraph may have a mass exceeding 35 kg gross weight when transported by cargo-only aircraft;
 
-(7) Batteries or battery assemblies packaged in accordance with this paragraph are not permitted for transportation by passenger-carrying aircraft, and may be transported by cargo aircraft only if approved by the Associate Administrator prior to transportation; and
+(7) Cells or batteries packaged in accordance with this paragraph are not permitted for transportation by passenger-carrying aircraft, and may be transported by cargo-only aircraft only if approved by the Associate Administrator prior to transportation; and
 
 (8) Shipping papers must include the following notation: “Transport in accordance with § 173.185(e).”
 
@@ -241,4 +236,4 @@ Table 1 to Paragraph (c)(4)(i)
 
 (h) *Approval.* A lithium cell or battery that does not conform to the provisions of this subchapter may be transported only under conditions approved by the Associate Administrator.
 
-[85 FR 27882, May 11, 2020, as amended at 85 FR 83398, Dec. 21, 2020; 87 FR 44993, July 26, 2022; 87 FR 78010, Dec. 21, 2022; 87 FR 79777, Dec. 27, 2022; 89 FR 15665, Mar. 4, 2024]
+[85 FR 27882, May 11, 2020, as amended at 85 FR 83398, Dec. 21, 2020; 87 FR 44993, July 26, 2022; 87 FR 78010, Dec. 21, 2022; 87 FR 79777, Dec. 27, 2022; 89 FR 15665, Mar. 4, 2024; 89 FR 25478, Apr. 10, 2024]

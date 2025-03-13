@@ -1,7 +1,5 @@
 ##### § 173.232 Articles containing hazardous materials, n.o.s. #####
 
-Link to an amendment published at 89 FR 25486, Apr. 10, 2024.
-
 (a) Articles containing hazardous materials may be classified as otherwise provided by this subchapter under the proper shipping name for the hazardous materials they contain or in accordance with this section. For the purposes of this section, “article” means machinery, apparatus, or other devices containing one or more hazardous materials (or residues thereof) that are an integral element of the article, necessary for its functioning, and that cannot be removed for the purpose of transport. An inner packaging is not an article. For articles that do not have an existing proper shipping name and that contain only hazardous materials within the permitted limited quantity amounts specified in column (8A) of the § 172.101 Table, see UN3363, Dangerous goods in machinery or apparatus, as prescribed in § 172.102(c)(1), Special provision 136, and § 173.222.
 
 (b) Such articles may contain batteries. Lithium batteries that are integral to the article must be of a type proven to meet the testing requirements of the UN Manual of Tests and Criteria, Part III, subsection 38.3 (IBR, *see* § 171.7 of this subchapter), except when otherwise specified by this subchapter.
@@ -34,4 +32,10 @@ Link to an amendment published at 89 FR 25486, Apr. 10, 2024.
 
 (3) Receptacles for gases, their contents, and filling densities must conform to the applicable requirements of this subchapter, unless otherwise approved by the Associate Administrator.
 
-[85 FR 27896, May 11, 2020]
+(h) For transport by aircraft, the following additional requirements apply:
+
+(1) Articles transported under UN3548, which do not have an existing proper shipping name, and which contain only environmentally hazardous substances where the quantity of the environmentally hazardous substance in the article exceeds 5 L or 5 kg, must be prepared for transport in accordance with this section for transport by air. In addition to the environmentally hazardous substance, the article may also contain lithium cells or batteries that comply with § 173.185(c)(4).
+
+(2) Articles transported under UN3538, which do not have an existing proper shipping name, and which contain only gases of Division 2.2 without a subsidiary hazard, but excluding refrigerated liquefied gases and gases forbidden for transport on passenger aircraft, where the quantity of the Division 2.2 gas exceeds the quantity limits for UN 3363, as prescribed in § 173.222 must be prepared for transport in accordance with this section. Articles transported under this provision are limited to a maximum net quantity of gas of 75 kg by passenger aircraft and 150 kg by cargo-only aircraft. In addition to the Division 2.2 gas, the article may also contain lithium cells or batteries that comply with § 173.185(c)(4).
+
+[85 FR 27896, May 11, 2020, as amended at 89 FR 25486, Apr. 10, 2024]

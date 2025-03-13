@@ -1,5 +1,7 @@
 ##### § 734.18 Activities that are not exports, reexports, or transfers. #####
 
+Link to an amendment published at 89 FR 40371, May 10, 2024.
+
 (a) *Activities that are not exports, reexports, or transfers.* The following activities are not exports, reexports, or transfers:
 
 (1) Launching a spacecraft, launch vehicle, payload, or other item into space.

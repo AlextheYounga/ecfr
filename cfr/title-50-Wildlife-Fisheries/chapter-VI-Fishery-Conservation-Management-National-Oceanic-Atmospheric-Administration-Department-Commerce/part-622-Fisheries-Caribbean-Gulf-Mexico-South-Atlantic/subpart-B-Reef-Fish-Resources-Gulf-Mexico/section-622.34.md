@@ -1,5 +1,7 @@
 ##### § 622.34 Seasonal and area closures designed to protect Gulf reef fish. #####
 
+Link to an amendment published at 89 FR 40436, May 10, 2024.
+
 (a) *Closure provisions applicable to the Madison and Swanson sites, Steamboat Lumps, and the Edges.* For the purpose of this paragraph (a), fish means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals and birds. The provisions of this paragraph (a) do not apply to Atlantic highly migratory species, such as tunas, billfishes, and oceanic sharks. See 50 CFR part 635 for any provisions applicable to fishing for or possession of Atlantic highly migratory species in these areas.
 
 (1) *Descriptions of Areas.* (i) The Madison and Swanson sites are bounded by rhumb lines connecting, in order, the following points:

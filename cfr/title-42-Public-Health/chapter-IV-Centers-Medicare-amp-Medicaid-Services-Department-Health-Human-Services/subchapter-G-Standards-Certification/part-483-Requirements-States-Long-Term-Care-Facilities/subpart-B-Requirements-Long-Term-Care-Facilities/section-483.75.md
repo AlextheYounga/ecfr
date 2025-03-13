@@ -1,5 +1,7 @@
 ##### § 483.75 Quality assurance and performance improvement. #####
 
+Link to an amendment published at 89 FR 41000, May 10, 2024.
+
 (a) *Quality assurance and performance improvement (QAPI) program.* Each LTC facility, including a facility that is part of a multiunit chain, must develop, implement, and maintain an effective, comprehensive, data-driven QAPI program that focuses on indicators of the outcomes of care and quality of life. The facility must—
 
 (1) Maintain documentation and demonstrate evidence of its ongoing QAPI program that meets the requirements of this section. This may include but is not limited to systems and reports demonstrating systematic identification, reporting, investigation, analysis, and prevention of adverse events; and documentation demonstrating the development, implementation, and evaluation of corrective actions or performance improvement activities;

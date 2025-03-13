@@ -1,6 +1,6 @@
 ##### § 438.3 Standard contract requirements. #####
 
-Link to an amendment published at 89 FR 37691, May 6, 2024.
+Link to an amendment published at 89 FR 37691, May 6, 2024.Link to an amendment published at 89 FR 41267, May 10, 2024.
 
 (a) *CMS review.* The CMS must review and approve all MCO, PIHP, and PAHP contracts, including those risk and nonrisk contracts that, on the basis of their value, are not subject to the prior approval requirement in § 438.806. Proposed final contracts must be submitted in the form and manner established by CMS. For States seeking approval of contracts prior to a specific effective date, proposed final contracts must be submitted to CMS for review no later than 90 days prior to the effective date of the contract.
 

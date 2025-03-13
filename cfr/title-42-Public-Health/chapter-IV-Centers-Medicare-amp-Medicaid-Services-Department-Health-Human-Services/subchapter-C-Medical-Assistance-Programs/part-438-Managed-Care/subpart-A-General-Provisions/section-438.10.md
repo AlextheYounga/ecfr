@@ -1,5 +1,7 @@
 ##### § 438.10 Information requirements. #####
 
+Link to an amendment published at 89 FR 41273, May 10, 2024.
+
 (a) *Definitions.* As used in this section, the following terms have the indicated meanings:
 
 *Limited English proficient (LEP)* means potential enrollees and enrollees who do not speak English as their primary language and who have a limited ability to read, write, speak, or understand English may be LEP and may be eligible to receive language assistance for a particular type of service, benefit, or encounter.
@@ -32,7 +34,8 @@
 
 (iii) The information is provided in an electronic form which can be electronically retained and printed;
 
-(iv) The information is consistent with the content and language requirements of this section; and
+(iv) The information is consistent with the content and language
+requirements of this section; and
 
 (v) The enrollee is informed that the information is available in paper form without charge upon request and provides it upon request within 5 business days.
 

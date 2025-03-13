@@ -1,5 +1,7 @@
 ##### § 438.310 Basis, scope, and applicability. #####
 
+Link to an amendment published at 89 FR 41278, May 10, 2024.
+
 (a) *Statutory basis.* This subpart is based on sections 1932(c), 1903(a)(3)(C)(ii), 1902(a)(4), and 1902(a)(19) of the Act.
 
 (b) *Scope.* This subpart sets forth:

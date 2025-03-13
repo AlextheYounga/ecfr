@@ -1,5 +1,7 @@
 ##### § 441.450 Basis, scope, and definitions. #####
 
+Link to an amendment published at 89 FR 40870, May 10, 2024.
+
 (a) *Basis.* This subpart implements section 1915(j) of the Act concerning the self-directed personal assistance services (PAS) option through a State Plan.
 
 (b) *Scope.* A self-directed PAS option is designed to allow individuals, or their representatives, if applicable, to exercise decision-making authority in identifying, accessing, managing and purchasing their PAS. This authority includes, at a minimum, all of the following:

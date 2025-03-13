@@ -1,5 +1,7 @@
 ##### § 438.354 Qualifications of external quality review organizations. #####
 
+Link to an amendment published at 89 FR 41278, May 10, 2024.
+
 (a) *General rule.* The State must ensure that an EQRO meets the requirements of this section.
 
 (b) *Competence.* The EQRO must have at a minimum the following:

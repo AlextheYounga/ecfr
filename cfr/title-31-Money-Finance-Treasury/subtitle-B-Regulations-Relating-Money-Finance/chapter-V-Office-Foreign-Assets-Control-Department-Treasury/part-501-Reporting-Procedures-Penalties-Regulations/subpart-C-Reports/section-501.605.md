@@ -1,5 +1,7 @@
 ##### § 501.605 Reports on litigation, arbitration, and dispute resolution proceedings. #####
 
+Link to an amendment published at 89 FR 40377, May 10, 2024.
+
 (a) U.S. persons (or persons subject to the jurisdiction of the United States in the case of parts 500 and 515 of this chapter) participating in litigation, arbitration, or other binding alternative dispute resolution proceedings in the United States on behalf of or against persons whose property or interests in property are blocked or whose funds have been retained pursuant to § 596.504(b) of this chapter, or when the outcome of any proceeding may affect blocked property or retained funds, must:
 
 (1) Provide notice of such proceedings upon their commencement or upon submission or receipt of documents bringing the proceedings within the terms of the introductory text to this paragraph (a);

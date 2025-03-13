@@ -1,7 +1,5 @@
 ##### § 171.25 Additional requirements for the use of the IMDG Code. #####
 
-Link to an amendment published at 89 FR 25471, Apr. 10, 2024.
-
 (a) A hazardous material may be offered for transportation or transported to, from or within the United States by vessel, and by motor carrier and rail in accordance with the IMDG Code (IBR, see § 171.7), as authorized in § 171.22, provided all or part of the movement is by vessel. Such shipments must conform to the requirements in § 171.22, as applicable, and this section.
 
 (b) Any person who offers for transportation or transports a hazardous material in accordance with the IMDG Code must conform to the following additional conditions and requirements:
@@ -10,9 +8,11 @@ Link to an amendment published at 89 FR 25471, Apr. 10, 2024.
 
 (2) For transportation by vessel, the stowage and segregation requirements in Part 7 of the IMDG Code may be substituted for the stowage and segregation requirements in part 176 of this subchapter.
 
-(3) The outside of each package containing lithium metal cells or batteries (UN3090) or lithium ion cells or batteries (UN3480) transported in accordance with special provision 188 of the IMDG Code must be appropriately marked “PRIMARY LITHIUM BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, “LITHIUM METAL BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, “LITHIUM ION BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, or “LITHIUM BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, or labeled with a CARGO AIRCRAFT ONLY label as specified in § 172.448 of this subchapter. The provisions of this paragraph also apply to packages of lithium cells or batteries packed with, or contained in, equipment that exceed 5 kg (11 pounds) net weight. When placed in an overpack, the selected marking or label must either be clearly visible through the overpack, or the marking or label must also be affixed on the outside of the overpack.
+(3) Except as specified in this subpart, for a material poisonous (toxic) by inhalation, the T Codes specified in Column 13 of the Dangerous Goods List in the IMDG Code may be applied to the transportation of those materials in IM, IMO, and DOT Specification 51 portable tanks, when these portable tanks are authorized in accordance with the requirements of this subchapter;
 
-(4) Material consigned under UN3166 and UN3171 (*e.g.,* Engines, internal combustion, *etc.,* Vehicles, *etc.* and Battery-powered equipment) may be prepared in accordance with the IMDG Code or this subchapter.
+(4) No person may offer an IM or UN portable tank containing liquid hazardous materials of Class 3, PG I or II, or PG III with a flash point less than 100 °F (38 °C); Division 5.1, PG I or II; or Division 6.1, PG I or II, for unloading while it remains on a transport vehicle with the motive power unit attached, unless it conforms to the requirements in § 177.834(o) of this subchapter; and
+
+(5) No person may offer a UN fiber-reinforced plastic portable tank meeting the provisions of Chapter 6.10 of the IMDG Code (IBR, see § 171.7), except for transportation falling within the single port area criteria in paragraph (d) of this section.
 
 (c) *Conditions and requirements for bulk packagings.* Except for IBCs and UN portable tanks used for the transportation of liquids or solids, bulk packagings must conform to the requirements of this subchapter. Additionally, the following requirements apply:
 
@@ -28,4 +28,4 @@ Link to an amendment published at 89 FR 25471, Apr. 10, 2024.
 
 (2) The requirement in § 172.201(d) of this subchapter for an emergency telephone number does not apply to shipments made in accordance with the IMDG Code if the hazardous material is not offloaded from the vessel, or is offloaded between ocean vessels at a U.S. port facility without being transported by public highway.
 
-[72 FR 25172, May 3, 2007, as amended at 72 FR 44847, Aug. 9, 2007; 73 FR 57004, Oct. 1, 2008; 74 FR 2233, Jan. 14, 2009; 76 FR 3345, Jan. 19, 2011; 79 FR 46034, Aug. 6, 2014; 80 FR 1116, Jan. 8, 2015; 87 FR 78010, Dec. 21, 2022]
+[72 FR 25172, May 3, 2007, as amended at 72 FR 44847, Aug. 9, 2007; 73 FR 57004, Oct. 1, 2008; 74 FR 2233, Jan. 14, 2009; 76 FR 3345, Jan. 19, 2011; 79 FR 46034, Aug. 6, 2014; 80 FR 1116, Jan. 8, 2015; 87 FR 78010, Dec. 21, 2022; 89 FR 25471, Apr. 10, 2024]

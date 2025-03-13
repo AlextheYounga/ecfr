@@ -1,7 +1,5 @@
 ##### § 178.71 Specifications for UN pressure receptacles. #####
 
-Link to an amendment published at 89 FR 25489, Apr. 10, 2024.
-
 (a) *General.* Each UN pressure receptacle must meet the requirements of this section. UN pressure receptacles and service equipment constructed according to the standards applicable at the date of manufacture may continue in use subject to the continuing qualification and maintenance provisions of part 180 of this subchapter. Requirements for approval, qualification, maintenance, and testing are contained in § 178.70, and subpart C of part 180 of this subchapter.
 
 (b) *Definitions.* The following definitions apply for the purposes of design and construction of UN pressure receptacles under this subpart:
@@ -52,21 +50,21 @@ Link to an amendment published at 89 FR 25489, Apr. 10, 2024.
 
 (3) ISO 20703: Gas cylinders—Refillable welded aluminum-alloy cylinders—Design, construction and testing (IBR, *see* § 171.7 of this subchapter).
 
-(4) ISO 21172-1:2015(E) Gas cylinders—Welded steel pressure drums up to 3,000 litres capacity for the transport of gases—Design and construction—Part 1: Capacities up to 1,000 litres (IBR, *see* § 171.7 of this subchapter). Irrespective of section 6.3.3.4 of this standard, welded steel gas pressure drums with dished ends convex to pressure may be used for the transport of corrosive substances provided all applicable additional requirements are met.
+(4) ISO 21172-1:2015(E) Gas cylinders—Welded steel pressure drums up to 3,000 litres capacity for the transport of gases—Design and construction—Part 1: Capacities up-to 1,000 litres (IBR, *see* § 171.7 of this subchapter) in combination with ISO 21172-1:2015/Amd 1:2018(E)—Gas Cylinders—Welded steel pressure drums up to 3,000 litres capacity for the transport of gases—Design and construction—Part 1: Capacities up—to 1,000 litres—Amendment 1 (IBR, *see* § 171.7 of this subchapter). Until December 31, 2026, the use of ISO 21172-1:2015 (IBR, see § 171.7 of this subchapter) without the supplemental amendment is authorized.
 
 (g) *Design and construction requirements for UN refillable seamless steel cylinders.* In addition to the general requirements of this section, UN refillable seamless steel cylinders must conform to the following ISO standards, as applicable:
 
-(1) ISO 9809-1:2010 Gas cylinders—Refillable seamless steel gas cylinders—Design, construction and testing—Part 1: Quenched and tempered steel cylinders with tensile strength less than 1100 MPa. (IBR, see § 171.7 of this subchapter). Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-1:1999 (IBR, see § 171.7 of this subchapter) is authorized.
+(1) ISO 9809-1:2019(E), Gas cylinders—Refillable seamless steel gas cylinders—Design, construction, and testing—Part 1: Quenched and tempered steel cylinders with tensile strength less than 1100 MPa (IBR, see § 171.7 of this subchapter). Until December 31, 2026, the manufacture of a cylinder conforming to the requirements in ISO 9809-1:2010(E) (IBR, see § 171.7 of this subchapter) is authorized.
 
-(2) ISO 9809-2: Gas cylinders—Refillable seamless steel gas cylinders—Design, construction and testing—Part 2: Quenched and tempered steel cylinders with tensile strength greater than or equal to 1100 MPa. (IBR, see § 171.7 of this subchapter). Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-2:2000 (IBR, see § 171.7 of this subchapter) is authorized.
+(2) ISO 9809-2:2019(E), Gas cylinders—Design, construction, and testing of refillable seamless steel gas cylinders and tubes—Part 2: Quenched and tempered steel cylinders and tubes with tensile strength greater than or equal to 1100 MPa (IBR, see § 171.7 of this subchapter). Until December 31, 2026, the manufacture of a cylinder conforming to the requirements in ISO 9809-2:2010 (IBR, see § 171.7 of this subchapter) is authorized.
 
-(3) ISO 9809-3: Gas cylinders—Refillable seamless steel gas cylinders—Design, construction and testing—Part 3: Normalized steel cylinders. (IBR, *see* § 171.7 of this subchapter). Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-3:2000 (IBR, see § 171.7 of this subchapter) is authorized.
+(3) ISO 9809-3:2019(E), Gas cylinders—Design, construction, and testing of refillable seamless steel gas cylinders and tubes—Part 3: Normalized steel cylinders and tubes. (IBR, see § 171.7 of this subchapter). Until December 31, 2026, a cylinder may instead conform to ISO 9809-3:2010(E) (IBR, see § 171.7 of this subchapter).
 
-(4) ISO 9809-4:2014(E) (IBR, see § 171.7 of this subchapter).
+(4) ISO 9809-4:2014(E), Gas cylinders—Refillable seamless steel gas cylinders—Design, construction, and testing—Part 4: Stainless steel cylinders with an Rm value of less than 1,100 MPa (IBR, see § 171.7 of this subchapter).
 
 (h) *Design and construction requirements for UN refillable seamless aluminum alloy cylinders.* In addition to the general requirements of this section, UN refillable seamless aluminum cylinders must conform to ISO 7866:2012(E) as modified by ISO 7866:2012/Cor.1:2014(E) (IBR, see § 171.7 of this subchapter). Until December 31, 2020, the manufacture of a cylinder conforming to the requirements in ISO 7866(E) (IBR, see § 171.7 of this subchapter) is authorized. The use of Aluminum alloy 6351-T6 or equivalent is prohibited.
 
-(i) *Design and construction requirements for UN non-refillable metal cylinders.* In addition to the general requirements of this section, UN non-refillable metal cylinders must conform to ISO 11118:2015(E) Gas cylinders—Non-refillable metallic gas cylinders—Specification and test methods (IBR, *see* § 171.7 of this subchapter). Until December 31, 2020, cylinders conforming to ISO 11118:1999(E) Gas cylinders—Non-refillable metallic gas cylinders—Specification and test methods (IBR, *see* § 171.7 of this subchapter) are authorized.
+(i) *Design and construction requirements for UN non-refillable metal cylinders.* In addition to the general requirements of this section, UN non-refillable metal cylinders must conform to ISO 11118:2015(E) Gas cylinders—Non-refillable metallic gas cylinders—Specification and test methods, in combination with ISO 11118:2015/Amd 1:2019 Gas cylinders—Non-refillable metallic gas cylinders—Specification and test methods—Amendment 1. (IBR, *see* § 171.7 of this subchapter). Until December 31, 2026, the use of ISO 11118:2015 (IBR, see § 171.7 of this subchapter) without the supplemental amendment is authorized.
 
 (j) *Design and construction requirements for UN refillable seamless steel tubes.* In addition to the general requirements of this section, UN refillable seamless steel tubes must conform to ISO 11120:2015(E) Gas cylinders—Refillable seamless steel tubes of water capacity between 150 L and 3,000 L—Design, construction and testing (IBR, *see* § 171.7 of this subchapter). Until December 31, 2022, UN refillable seamless steel tubes may be manufactured in accordance with ISO 11120: Gas cylinders—Refillable seamless steel tubes of water capacity between 150 L and 3,000 L—Design, construction and testing (IBR, *see* § 171.7 of this subchapter)
 
@@ -74,9 +72,9 @@ Link to an amendment published at 89 FR 25489, Apr. 10, 2024.
 
 (1) For the cylinder shell:
 
-(i) ISO 9809-1:2010 Gas cylinders—Refillable seamless steel gas cylinders—Design, construction and testing—Part 1: Quenched and tempered steel cylinders with tensile strength less than 1100 MPa. Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-1:1999 (IBR, see § 171.7 of this subchapter) is authorized.
+(i) ISO 9809-1:2019(E) Gas cylinders—Refillable seamless steel gas cylinders—Design, construction, and testing—Part 1: Quenched and tempered steel cylinders with tensile strength less than 1100 MPa (IBR, see § 171.7 of this subchapter). Until December 31, 2026, the manufacture of a cylinder conforming to the requirements in ISO 9809-1:2010(E) (IBR, see § 171.7 of this subchapter) is authorized.
 
-(ii) ISO 9809-3: Gas cylinders—Refillable seamless steel gas cylinders—Design, construction and testing—Part 3: Normalized steel cylinders. Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-3:2000 (IBR, see § 171.7 of this subchapter) is authorized.
+(ii) ISO 9809-3:2019(E) Gas cylinders—Design, construction, and testing of refillable seamless steel gas cylinders and tubes—Part 3: Normalized steel cylinders and tubes (IBR, see § 171.7 of this subchapter). Until December 31, 2026, the manufacture of a cylinder conforming to the requirements in ISO 9809-3:2010(E) (IBR, see § 171.7 of this subchapter) is authorized.
 
 (2) The porous mass in an acetylene cylinder must conform to ISO 3807:2013(E) (IBR, see § 171.7 of this subchapter). Until December 31, 2020, the manufacture of a cylinder conforming to the requirements in ISO 3807-2(E) (IBR, see § 171.7 of this subchapter) is authorized.
 
@@ -92,9 +90,13 @@ Link to an amendment published at 89 FR 25489, Apr. 10, 2024.
 
 (2) ISO 11119-2 and ISO 11119-3 gas cylinders of composite construction manufactured in accordance with the requirements for underwater use must bear the “UW” mark.
 
-(m) *Design and construction requirements for UN metal hydride storage systems.* In addition to the general requirements of this section, metal hydride storage systems must conform to the following ISO standards, as applicable: ISO 16111: Transportable gas storage devices—Hydrogen absorbed in reversible metal hydride (IBR, *see* § 171.7 of this subchapter).
+(m) *Design and construction requirements for UN metal hydride storage systems.* In addition to the general requirements of this section, metal hydride storage systems must conform to ISO 16111:2018(E) Transportable gas storage devices—Hydrogen absorbed in reversible metal hydride (IBR, *see* § 171.7 of this subchapter). Until December 31, 2026, the manufacture of a UN metal hydride storage system conforming to the requirements in ISO 16111:2008 (IBR, *see* § 171.7 of this subchapter) is authorized.
 
-(n) *Design and construction requirements for UN cylinders for the transportation of adsorbed gases.* In addition to the general requirements of this section, UN cylinders for the transportation of adsorbed gases must conform to the following ISO standards, as applicable: ISO 11513:2011, Gas cylinders—Refillable welded steel cylinders containing materials for sub-atmospheric gas packaging (excluding acetylene)—Design, construction, testing, use and periodic inspection, or ISO 9809-1:2010: Gas cylinders—Refillable seamless steel gas cylinders—Design, construction and testing—Part 1: Quenched and tempered steel cylinders with tensile strength less than 1100 MPa. (IBR, see § 171.7 of this subchapter.)
+(n) *Design and construction requirements for UN cylinders for the transportation of adsorbed gases.* In addition to the general requirements of this section, UN cylinders for the transportation of adsorbed gases must conform to the following ISO standards, as applicable:
+
+(1) ISO 11513:2019, Gas cylinders—Refillable welded steel cylinders containing materials for sub-atmospheric gas packaging (excluding acetylene)—Design, construction, testing, use and periodic inspection (IBR, *see* § 171.7 of this subchapter). Until December 31, 2026, the manufacture of a cylinder conforming to the requirements in ISO 11513:2011(E) (IBR, *see* § 171.7 of this subchapter) is authorized.
+
+(2) ISO 9809-1:2019(E): Gas cylinders—Refillable seamless steel gas cylinders—Design, construction, and testing—Part 1: Quenched and tempered steel cylinders with tensile strength less than 1100 MPa (IBR, *see* § 171.7 of this subchapter). Until December 31, 2026, the manufacture of a cylinder conforming to the requirements in ISO 9809-1:2010(E) (IBR, *see* § 171.7 of this subchapter is authorized.
 
 (o) *Material compatibility.* In addition to the material requirements specified in the UN pressure receptacle design and construction ISO standards, and any restrictions specified in part 173 for the gases to be transported, the requirements of the following standards must be applied with respect to material compatibility:
 
@@ -210,4 +212,4 @@ Link to an amendment published at 89 FR 25489, Apr. 10, 2024.
 
 (3) The bottom grouping contains certification marks and must appear consecutively in the sequence given in paragraphs (u)(2)(i) through (u)(2)(v) of this section as applicable.
 
-[76 FR 3385, Jan. 19, 2011, as amended at 76 FR 43532, July 20, 2011; 77 FR 60943, Oct. 5, 2012; 78 FR 1096, Jan. 7, 2013; 80 FR 1166, Jan. 8, 2015; 80 FR 72929, Nov. 23, 2015; 82 FR 15895, Mar. 30, 2017; 85 FR 27900, May 11, 2020; 87 FR 44999, July 26, 2022]
+[76 FR 3385, Jan. 19, 2011, as amended at 76 FR 43532, July 20, 2011; 77 FR 60943, Oct. 5, 2012; 78 FR 1096, Jan. 7, 2013; 80 FR 1166, Jan. 8, 2015; 80 FR 72929, Nov. 23, 2015; 82 FR 15895, Mar. 30, 2017; 85 FR 27900, May 11, 2020; 87 FR 44999, July 26, 2022; 89 FR 25489, Apr. 10, 2024]

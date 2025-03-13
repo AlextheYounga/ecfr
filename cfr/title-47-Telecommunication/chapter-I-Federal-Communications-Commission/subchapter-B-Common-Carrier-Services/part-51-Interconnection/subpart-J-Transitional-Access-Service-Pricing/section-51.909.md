@@ -1,7 +1,5 @@
 ##### § 51.909 Transition of rate-of-return carrier access charges. #####
 
-Link to an amendment published at 89 FR 25159, Apr. 10, 2024.
-
 (a) Notwithstanding any other provision of the Commission's rules, on December 29, 2011, a Rate-of-Return Carrier shall:
 
 (1) Cap the rates for all rate elements for services contained in the definitions of End Office Access Service, Tandem Switched Transport Access Service, and Dedicated Transport Access Service, as well as all other interstate switched access rate elements, in its interstate switched access tariffs at the rate that was in effect on the December 29, 2011; and
@@ -51,6 +49,18 @@ Link to an amendment published at 89 FR 25159, Apr. 10, 2024.
 (i) Revise any of its intrastate switched access rates that would have reached parity with its interstate switched access rates in 2013 to parity with the revised interstate switched access rate levels;
 
 (ii) The Association shall provide Rate-of-Return Carriers that are participating in the Association traffic-sensitive pool with notice of any revisions the Association proposes under paragraph (a)(4) of this section no later than May 1.
+
+(7) Rate-of-return carriers subject to § 51.917 that merge with, consolidate with, or acquire, other rate-of-return carriers shall establish new rate caps as follows:
+
+(i) If the merged entity will file its own access tariff, the new rate cap for each rate element shall be the average of the preexisting rates of each study area weighted by the number of access lines in each study area; or
+
+(ii) If the merged entity participates in the Association traffic-sensitive tariff and has to establish a single switched access rate for one or more rate elements, the new consolidated rate reflecting the cost characteristics of the merged entity, as determined by the Association, will serve as the new rate cap if the merged entity's Connect America Fund Intercarrier Compensation (CAF ICC) support will not be more than two percent higher than the combined amount received by the entities prior to merger, using rate and demand levels for the preceding calendar year. A merging entity that does not satisfy the requirement in this paragraph (a)(7)(ii) may file a streamlined waiver petition that will be subject to the following procedure:
+
+(A) *Public notice and review period.* The Wireline Competition Bureau will issue a public notice seeking comment on a petition for waiver of the two-percent threshold established by this paragraph (a)(7)(ii).
+
+(B) *Comment cycle.* Comments on petitions for waiver may be filed during the first 30 days following public notice, and reply comments may be filed during the first 45 days following public notice, unless the public notice specifies a different pleading cycle. All comments on petitions for waiver shall be filed electronically, and shall satisfy such other filing requirements as may be specified in the public notice.
+
+(C) *Effectuating waiver grant.* A waiver petition filed pursuant to this paragraph (a)(7)(ii)(C) will be deemed granted 60 days after the release of the public notice seeking comment on the petition, unless opposed or the Commission acts to prevent the waiver from taking effect. The Association and the petitioner shall coordinate the timing of any tariff filing necessary to effectuate this change. The revised rate filed by the Association shall be the rate cap for purposes of applying paragraph (a) of this section.
 
 (b) *Step 1.* Beginning July 1, 2012, notwithstanding any other provision of the Commission's rules:
 
@@ -178,4 +188,4 @@ Link to an amendment published at 89 FR 25159, Apr. 10, 2024.
 
 (2) Reduce its rates for all intrastate and interstate Toll Free Database Query Charges to a transitional rate of no more than $0.0002 per query.
 
-[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 48452, Aug. 14, 2012; 78 FR 26267, May 6, 2013; 79 FR 28845, May 20, 2014; 85 FR 75917, Nov. 27, 2020]
+[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 48452, Aug. 14, 2012; 78 FR 26267, May 6, 2013; 79 FR 28845, May 20, 2014; 85 FR 75917, Nov. 27, 2020; 89 FR 25159, Apr. 10, 2024]

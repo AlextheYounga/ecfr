@@ -1,5 +1,7 @@
 ##### § 441.585 Quality assurance system. #####
 
+Link to an amendment published at 89 FR 40871, May 10, 2024.
+
 (a) States must establish and maintain a comprehensive, continuous quality assurance system, described in the State plan amendment, which includes the following:
 
 (1) A quality improvement strategy.

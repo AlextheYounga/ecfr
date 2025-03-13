@@ -1,5 +1,7 @@
 ##### § 441.725 Person-centered service plan. #####
 
+Link to an amendment published at 89 FR 40871, May 10, 2024.
+
 (a) *Person-centered planning process.* Based on the independent assessment required in § 441.720, the State must develop (or approve, if the plan is developed by others) a written service plan jointly with the individual (including, for purposes of this paragraph, the individual and the individual's authorized representative if applicable). The person-centered planning process is driven by the individual. The process:
 
 (1) Includes people chosen by the individual.

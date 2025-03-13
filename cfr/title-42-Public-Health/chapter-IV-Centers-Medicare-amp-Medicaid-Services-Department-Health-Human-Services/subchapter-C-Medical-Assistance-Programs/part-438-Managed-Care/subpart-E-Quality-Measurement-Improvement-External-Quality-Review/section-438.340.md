@@ -1,5 +1,7 @@
 ##### § 438.340 Managed care State quality strategy. #####
 
+Link to an amendment published at 89 FR 41278, May 10, 2024.
+
 (a) *General rule.* Each State contracting with an MCO, PIHP, or PAHP as defined in § 438.2 or with a PCCM entity as described in § 438.310(c)(2) must draft and implement a written quality strategy for assessing and improving the quality of health care and services furnished by the MCO, PIHP, PAHP or PCCM entity.
 
 (b) *Elements of the State quality strategy.* At a minimum, the State's quality strategy must include the following:

@@ -1,5 +1,7 @@
 ##### § 438.602 State responsibilities. #####
 
+Link to an amendment published at 89 FR 41284, May 10, 2024.
+
 (a) *Monitoring contractor compliance.* Consistent with § 438.66, the State must monitor the MCO's, PIHP's, PAHP's, PCCM's or PCCM entity's compliance, as applicable, with §§ 438.604, 438.606, 438.608, 438.610, 438.230, and 438.808.
 
 (b) *Screening and enrollment and revalidation of providers.* (1) The State must screen and enroll, and periodically revalidate, all network providers of MCOs, PIHPs, and PAHPs, in accordance with the requirements of part 455, subparts B and E of this chapter. This requirement extends to PCCMs and PCCM entities to the extent the primary care case manager is not otherwise enrolled with the State to provide services to FFS beneficiaries. This provision does not require the network provider to render services to FFS beneficiaries.

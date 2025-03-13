@@ -1,5 +1,7 @@
 ##### § 441.745 State plan HCBS administration: State responsibilities and quality improvement. #####
 
+Link to an amendment published at 89 FR 40871, May 10, 2024.
+
 (a) *State plan HCBS administration*—(1) *State responsibilities.* The State must carry out the following responsibilities in administration of its State plan HCBS:
 
 (i) *Number served.* The State will annually provide CMS with the projected number of individuals to be enrolled in the benefit and the actual number of unduplicated individuals enrolled in State plan HCBS in the previous year.

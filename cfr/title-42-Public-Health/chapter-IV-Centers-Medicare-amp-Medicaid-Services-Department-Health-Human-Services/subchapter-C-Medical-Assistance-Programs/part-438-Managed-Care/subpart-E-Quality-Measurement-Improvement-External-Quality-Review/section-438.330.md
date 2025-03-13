@@ -1,5 +1,7 @@
 ##### § 438.330 Quality assessment and performance improvement program. #####
 
+Link to an amendment published at 89 FR 41278, May 10, 2024.
+
 (a) *General rules.* (1) The State must require, through its contracts, that each MCO, PIHP, and PAHP establish and implement an ongoing comprehensive quality assessment and performance improvement program for the services it furnishes to its enrollees that includes the elements identified in paragraph (b) of this section.
 
 (2) After consulting with States and other stakeholders and providing public notice and opportunity to comment, CMS may specify performance measures and PIPs, which must be included in the standard measures identified and PIPs required by the State in accordance with paragraphs (c) and (d) of this section. A State may request an exemption from including the performance measures or PIPs established under paragraph (a)(2) of this section, by submitting a written request to CMS explaining the basis for such request.

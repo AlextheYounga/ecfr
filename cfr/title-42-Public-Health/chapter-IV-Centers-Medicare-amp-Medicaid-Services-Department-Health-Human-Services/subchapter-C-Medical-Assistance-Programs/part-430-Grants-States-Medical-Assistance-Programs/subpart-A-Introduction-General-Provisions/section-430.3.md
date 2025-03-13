@@ -1,5 +1,7 @@
 ##### § 430.3 Appeals under Medicaid. #####
 
+Link to an amendment published at 89 FR 41267, May 10, 2024.
+
 Four distinct types of disputes may arise under Medicaid.
 
 (a) *Compliance with Federal requirements.* Disputes that pertain to whether a State's plan or proposed plan amendments, or its practice under the plan meet or continue to meet Federal requirements are subject to the hearing provisions of subpart D of this part.

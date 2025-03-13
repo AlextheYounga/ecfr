@@ -1,5 +1,7 @@
 ##### § 483.5 Definitions. #####
 
+Link to an amendment published at 89 FR 40996, May 10, 2024.
+
 As used in this subpart, the following definitions apply:
 
 *Abuse.* Abuse is the willful infliction of injury, unreasonable confinement, intimidation, or punishment with resulting physical harm, pain or mental anguish. Abuse also includes the deprivation by an individual, including a caretaker, of goods or services that are necessary to attain or maintain physical, mental, and psychosocial well-being. Instances of abuse of all residents, irrespective of any mental or physical condition, cause physical harm, pain or mental anguish. It includes verbal abuse, sexual abuse, physical abuse, and mental abuse including abuse facilitated or enabled through the use of technology. *Willful,* as used in this definition of abuse, means the individual must have acted deliberately, not that the individual must have intended to inflict injury or harm.

@@ -1,5 +1,7 @@
 ##### § 483.55 Dental services. #####
 
+Link to an amendment published at 89 FR 40999, May 10, 2024.
+
 The facility must assist residents in obtaining routine and 24-hour emergency dental care.
 
 (a) *Skilled nursing facilities.* A facility (1) Must provide or obtain from an outside resource, in accordance with § 483.70(g), routine and emergency dental services to meet the needs of each resident;

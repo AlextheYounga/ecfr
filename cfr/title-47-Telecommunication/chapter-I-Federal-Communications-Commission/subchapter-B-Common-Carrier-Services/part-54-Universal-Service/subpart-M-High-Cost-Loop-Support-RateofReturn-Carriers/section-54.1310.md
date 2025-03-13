@@ -1,7 +1,5 @@
 ##### § 54.1310 Expense adjustment. #####
 
-Link to an amendment published at 89 FR 25163, Apr. 10, 2024.
-
 (a) Until June 30, 2015, for study areas reporting 200,000 or fewer working loops pursuant to § 54.1305(h), the expense adjustment (additional interstate expense allocation) is equal to the sum of paragraphs (a)(1) and (2) of this section.
 
 (1) Sixty-five percent of the study area average unseparated loop cost per working loop as calculated pursuant to § 54.1309(b) in excess of 115 percent of the national average for this cost but not greater than 150 percent of the national average for this cost as calculated pursuant to § 54.1309(a) multiplied by the number of working loops reported in § 54.1305(h) for the study area; and
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 25163, Apr. 10, 2024.
 
 (2) If the aggregate expense adjustments for all study areas are less than the HCLS cap set pursuant to § 54.1302(a), then the expense adjustments for all study areas pursuant to paragraph (a) of this section shall be recalculated using a cost per loop calculated to produce an aggregate amount equal to the HCLS cap in place of the national average cost per loop.
 
-(c) The expense adjustment calculated pursuant to paragraphs (a) and (b) of this section shall be adjusted each year to reflect changes in the amount of high-cost loop support resulting from adjustments calculated pursuant to § 54.1306(a) made during the previous year. If the resulting amount exceeds the previous year's fund size, the difference will be added to the amount calculated pursuant to paragraphs (a) and (b) of this section for the following year. If the adjustments made during the previous year result in a decrease in the size of the funding requirement, the difference will be subtracted from the amount calculated pursuant to paragraphs (a) and (b) of this section for the following year.
+(c) [Reserved]
 
 (d) High Cost Loop Support is subject to a reduction as necessary to meet the overall cap on support established by the Commission for support provided pursuant to this subpart and subpart K of this chapter. Reductions shall be implemented as follows:
 
@@ -24,4 +22,4 @@ Link to an amendment published at 89 FR 25163, Apr. 10, 2024.
 
 (3) This paragraph (d) shall not apply to support provided from July 1, 2017 to June 30, 2018.
 
-[80 FR 4479, Jan. 27, 2015, as amended at 81 FR 24344, Apr. 25, 2016; 83 FR 18965, May 1, 2018; 84 FR 4733, Feb. 19, 2019]
+[80 FR 4479, Jan. 27, 2015, as amended at 81 FR 24344, Apr. 25, 2016; 83 FR 18965, May 1, 2018; 84 FR 4733, Feb. 19, 2019; 89 FR 25163, Apr. 10, 2024]

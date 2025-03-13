@@ -1,5 +1,7 @@
 ##### § 438.360 Nonduplication of mandatory activities with Medicare or accreditation review. #####
 
+Link to an amendment published at 89 FR 41279, May 10, 2024.
+
 (a) *General rule.* Consistent with guidance issued by the Secretary under § 438.352, to avoid duplication the State may use information from a Medicare or private accreditation review of an MCO, PIHP, or PAHP to provide information for the annual EQR (described in § 438.350) instead of conducting one or more of the EQR activities described in § 438.358(b)(1)(i) through (iii) (relating to the validation of performance improvement projects, validation of performance measures, and compliance review) if the following conditions are met:
 
 (1) The MCO, PIHP, or PAHP is in compliance with the applicable Medicare Advantage standards established by CMS, as determined by CMS or its contractor for Medicare, or has obtained accreditation from a private accrediting organization recognized by CMS as applying standards at least as stringent as Medicare under the procedures in § 422.158 of this chapter;

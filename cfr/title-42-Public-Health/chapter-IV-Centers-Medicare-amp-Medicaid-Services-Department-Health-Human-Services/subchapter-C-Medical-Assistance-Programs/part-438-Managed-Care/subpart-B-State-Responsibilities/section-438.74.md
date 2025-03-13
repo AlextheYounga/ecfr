@@ -1,5 +1,7 @@
 ##### § 438.74 State oversight of the minimum MLR requirement. #####
 
+Link to an amendment published at 89 FR 41276, May 10, 2024.
+
 (a) *State reporting requirement.* (1) The State must annually submit to CMS a summary description of the report(s) received from the MCO(s), PIHP(s), and PAHP(s) under contract with the State, according to § 438.8(k), with the rate certification required in § 438.7.
 
 (2) The summary description must include, at a minimum, the amount of the numerator, the amount of the denominator, the MLR percentage achieved, the number of member months, and any remittances owed by each MCO, PIHP, or PAHP for that MLR reporting year.

@@ -1,5 +1,7 @@
 ##### § 441.302 State assurances. #####
 
+Link to an amendment published at 89 FR 40865, May 10, 2024.
+
 Unless the Medicaid agency provides the following satisfactory assurances to CMS, CMS will not grant a waiver under this subpart and may terminate a waiver already granted:
 
 (a) *Health and Welfare*—Assurance that necessary safeguards have been taken to protect the health and welfare of the beneficiaries of the services. Those safeguards must include—

@@ -1,7 +1,5 @@
 ##### § 54.315 Application process for Connect America Fund phase II support distributed through competitive bidding. #####
 
-Link to an amendment published at 89 FR 25161, Apr. 10, 2024.
-
 (a) Application to participate in competitive bidding for Phase II support. In addition to providing information specified in § 1.21001(b) of this chapter and any other information required by the Commission, an applicant to participate in competitive bidding for Phase II auction support shall:
 
 (1) Provide ownership information as set forth in § 1.2112(a) of this chapter;
@@ -102,8 +100,9 @@ Link to an amendment published at 89 FR 25161, Apr. 10, 2024.
 
 (4) Authorization to receive Phase II auction support is conditioned upon full and timely performance of all of the requirements set forth in this section, and any additional terms and conditions upon which the support was granted.
 
-(i) Failure by a Phase II auction support recipient to meet its service milestones as required by § 54.310 will trigger reporting obligations and the withholding of support as described in § 54.320(c). Failure to come into full compliance within 12 months will trigger a recovery action by the Universal Service Administrative Company. If the Phase II recipient does not repay the requisite amount of support within six months, the Universal Service Administrative Company will be entitled to draw the entire amount of the letter of credit and may disqualify the Phase II auction support recipient from the receipt of Phase II auction support or additional universal service support.
+(i) Failure by a Phase II auction support recipient to meet its service milestones as required by § 54.310 will trigger reporting obligations and the withholding of support as described in § 54.320(d).
+Failure to come into full compliance within 12 months will trigger a recovery action by the Universal Service Administrative Company. If the Phase II recipient does not repay the requisite amount of support within six months, the Universal Service Administrative Company will be entitled to draw the entire amount of the letter of credit and may disqualify the Phase II auction support recipient from the receipt of Phase II auction support or additional universal service support.
 
 (ii) The default will be evidenced by a letter issued by the Chief of the Wireline Competition Bureau or the Wireless Telecommunications Bureau, or their respective designees, which letter, attached to a standby letter of credit draw certificate, shall be sufficient for a draw on the standby letter of credit for the entire amount of the standby letter of credit.
 
-[81 FR 44449, July 7, 2016, as amended at 83 FR 15994, Apr. 13, 2018; 83 FR 18454, Apr. 27, 2018; 85 FR 75819, Nov. 25, 2020]
+[81 FR 44449, July 7, 2016, as amended at 83 FR 15994, Apr. 13, 2018; 83 FR 18454, Apr. 27, 2018; 85 FR 75819, Nov. 25, 2020; 89 FR 25161, Apr. 10, 2024]

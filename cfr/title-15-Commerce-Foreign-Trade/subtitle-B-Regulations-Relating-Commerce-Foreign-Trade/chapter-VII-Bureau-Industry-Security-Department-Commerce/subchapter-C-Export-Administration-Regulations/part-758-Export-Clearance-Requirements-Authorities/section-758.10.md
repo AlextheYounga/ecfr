@@ -1,6 +1,6 @@
 ##### § 758.10 Entry clearance requirements for temporary imports. #####
 
-Link to an amendment published at 89 FR 34709, Apr. 30, 2024.
+Link to an amendment published at 89 FR 34709, Apr. 30, 2024.Link to an amendment published at 89 FR 40372, May 10, 2024.
 
 (a) *Scope.* This section specifies the temporary import entry clearance requirements for firearms “subject to the EAR” that are on the United States Munitions Import List (USMIL, 27 CFR 447.21), except for firearms “subject to the EAR” that are temporarily brought into the United States by nonimmigrant aliens under the provisions of Department of Justice regulations at 27 CFR part 478 (*See* § 740.14(e) of the EAR for information on the export of these firearms “subject to the EAR”). These firearms are controlled in ECCN 0A501.a or .b or shotguns with a barrel length less than 18 inches controlled in ECCN 0A502. Items that are temporarily exported under the EAR must have met the export clearance requirements specified in § 758.1.
 

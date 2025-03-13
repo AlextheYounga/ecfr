@@ -1,5 +1,7 @@
 ##### § 447.204 Medicaid provider participation and public process to inform access to care. #####
 
+Link to an amendment published at 89 FR 40874, May 10, 2024.
+
 (a) The agency's payments must be consistent with efficiency, economy, and quality of care and sufficient to enlist enough providers so that services under the plan are available to beneficiaries at least to the extent that those services are available to the general population. In reviewing payment sufficiency, states are required to consider, prior to the submission of any state plan amendment that proposes to reduce or restructure Medicaid service payment rates:
 
 (1) The data collected, and the analysis performed, under § 447.203.

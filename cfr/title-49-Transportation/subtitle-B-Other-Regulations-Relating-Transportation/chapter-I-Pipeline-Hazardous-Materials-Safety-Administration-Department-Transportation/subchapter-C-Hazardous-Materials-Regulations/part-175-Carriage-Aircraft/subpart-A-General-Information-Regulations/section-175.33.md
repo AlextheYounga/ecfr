@@ -1,7 +1,5 @@
 ##### § 175.33 Shipping paper and information to the pilot-in-command. #####
 
-Link to an amendment published at 89 FR 25488, Apr. 10, 2024.
-
 (a) When a hazardous material subject to the provisions of this subchapter is carried in an aircraft, the operator of the aircraft must provide the pilot-in-command and the flight dispatcher or other ground support personnel with responsibilities for operational control of the aircraft with accurate and legible written information (e.g., handwritten, printed, or electronic form) as early as practicable before departure of the aircraft, but in no case later than when the aircraft moves under its own power, which specifies at least the following:
 
 (1) The date of the flight;
@@ -32,7 +30,7 @@ Link to an amendment published at 89 FR 25488, Apr. 10, 2024.
 
 (ii) For UN3480, Lithium ion batteries, and UN3090, Lithium metal batteries, carried under a special permit or a State exemption as prescribed in the ICAO Technical Instructions (IBR, see § 171.7 of this subchapter), must meet all of the requirements of this section.
 
-(iii) For UN3480, UN3481, UN3090, and UN3091 prepared in accordance with § 173.185(c), except those prepared in accordance with § 173.185(c)(5), are not required to appear on the information to the pilot-in-command.
+(iii) UN3481 and UN3091 are not required to appear on the information provided to the pilot-in-command when prepared in accordance with § 173.185(c).
 
 (b)(1) The information provided to the pilot-in-command must also include a signed confirmation or some other indication from the person responsible for loading the aircraft that there was no evidence of any damage to or leakage from the packages or any leakage from the unit load devices loaded on the aircraft;
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 25488, Apr. 10, 2024.
 
 (d) The information required by paragraph (a) of this section and the shipping paper required by (c)(1) of this section may be combined into one document.
 
-[83 FR 52899, Oct. 18, 2018, as amended at 85 FR 27899, May 11, 2020]
+[83 FR 52899, Oct. 18, 2018, as amended at 85 FR 27899, May 11, 2020; 89 FR 25488, Apr. 10, 2024]

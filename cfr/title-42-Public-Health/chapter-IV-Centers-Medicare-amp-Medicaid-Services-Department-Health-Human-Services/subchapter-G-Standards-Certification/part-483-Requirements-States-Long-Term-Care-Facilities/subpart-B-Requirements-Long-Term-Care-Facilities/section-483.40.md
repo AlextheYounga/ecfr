@@ -1,5 +1,7 @@
 ##### § 483.40 Behavioral health services. #####
 
+Link to an amendment published at 89 FR 40999, May 10, 2024.
+
 Each resident must receive and the facility must provide the necessary behavioral health care and services to attain or maintain the highest practicable physical, mental, and psychosocial well-being, in accordance with the comprehensive assessment and plan of care. Behavioral health encompasses a resident's whole emotional and mental well-being, which includes, but is not limited to, the prevention and treatment of mental and substance use disorders.
 
 (a) The facility must have sufficient staff who provide direct services to residents with the appropriate competencies and skills sets to provide nursing and related services to assure resident safety and attain or maintain the highest practicable physical, mental and psychosocial well-being of each resident, as determined by resident assessments and individual plans of care and considering the number, acuity and diagnoses of the facility's resident population in accordance with § 483.70(e). These competencies and skills sets include, but are not limited to, knowledge of and appropriate training and supervision for:

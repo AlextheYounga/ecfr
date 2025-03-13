@@ -1,7 +1,5 @@
 ##### § 54.705 Committees of the Administrator's Board of Directors. #####
 
-Link to an amendment published at 89 FR 25162, Apr. 10, 2024.
-
 (a) *Schools and Libraries Committee*—(1) *Committee functions.* The Schools and Libraries Committee shall oversee the administration of the schools and libraries support mechanism by the Schools and Libraries Division. The Schools and Libraries Committee shall have the authority to make decisions concerning:
 
 (i) How the Administrator projects demand for the schools and libraries support mechanism;
@@ -68,20 +66,22 @@ Link to an amendment published at 89 FR 25162, Apr. 10, 2024.
 
 (v) The Administrator's Chief Executive Officer.
 
-(c) *High Cost and Low Income Committee*—(1) *Committee functions.* The High Cost and Low Income Committee shall oversee the administration of the high cost and low income support mechanisms, the interstate access universal service support mechanism for price cap carriers described in subpart J of this part, and the interstate common line support mechanism for rate-of-return carriers described in subpart K of this part by the High Cost and Low Income Division. The High Cost and Low Income Committee shall have the authority to make decisions concerning:
+(c) *High Cost and Low Income Committee*—(1) *Committee functions.* The High Cost and Low Income Committee shall oversee the administration of the high cost and low income support mechanisms described in subparts J, K, M, O, and E of this part. The High Cost and Low Income Committee shall have the authority to make decisions concerning:
 
-(i) How the Administrator projects demand for the high cost, low income, interstate access universal service, and interstate common line support mechanisms;
+(i) How the Administrator projects demand for the high cost and low income support mechanisms;
 
-(ii) Development of applications and associated instructions as needed for the high cost, low income, interstate access universal service, and interstate common line support mechanisms;
+(ii) Development of applications and associated instructions as needed for the high cost and low income, support mechanisms;
 
 (iii) Administration of the application process, including activities to ensure compliance with Federal Communications Commission rules and regulations;
 
-(iv) Performance of audits of beneficiaries under the high cost, low income, interstate access universal service and interstate common line support mechanisms; and
+(iv) Performance of audits of beneficiaries under the high cost and low income support mechanisms; and
 
-(v) Development and implementation of other functions unique to the high cost, low income, interstate access universal service and interstate common line support mechanisms.
+(v) Development and implementation of other functions unique to the high cost and low income support mechanisms.
+
+(2) [Reserved]
 
 (d) *Binding Authority of Committees of the Board.* (1) Any action taken by the Committees of the Board established in paragraphs (a) through (c) of this section shall be binding on the Board of Directors of the Administrator, unless such action is presented for review to the Board by the Administrator's Chief Executive Officer and the Board disapproves of such action by a two-thirds vote of a quorum of directors, as defined in the Administrator's by-laws.
 
 (2) The budgets prepared by each Committee shall be subject to Board review as part of the Administrator's combined budget. The Board shall not modify the budgets prepared by the Committees of the Board unless such modification is approved by a two-thirds vote of a quorum of the Board, as defined in the Administrator's by-laws.
 
-[63 FR 70574, Dec. 21, 1998, as amended at 65 FR 38690, June 21, 2000; 65 FR 57739, Sept. 26, 2000; 66 FR 59728, Nov. 30, 2001; 79 FR 49204, Aug. 19, 2014; 88 FR 55410, Aug. 15, 2023]
+[63 FR 70574, Dec. 21, 1998, as amended at 65 FR 38690, June 21, 2000; 65 FR 57739, Sept. 26, 2000; 66 FR 59728, Nov. 30, 2001; 79 FR 49204, Aug. 19, 2014; 88 FR 55410, Aug. 15, 2023; 89 FR 25162, Apr. 10, 2024]

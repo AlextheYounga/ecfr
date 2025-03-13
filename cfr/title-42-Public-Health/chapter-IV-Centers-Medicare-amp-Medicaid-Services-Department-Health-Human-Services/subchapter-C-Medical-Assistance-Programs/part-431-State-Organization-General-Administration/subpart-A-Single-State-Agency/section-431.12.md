@@ -1,5 +1,7 @@
 ##### § 431.12 Medical care advisory committee. #####
 
+Link to an amendment published at 89 FR 40861, May 10, 2024.
+
 (a) *Basis and purpose.* This section, based on section 1902(a)(4) of the Act, prescribes State plan requirements for establishment of a committee to advise the Medicaid agency about health and medical care services.
 
 (b) *State plan requirement.* A State plan must provide for a medical care advisory committee meeting the requirements of this section to advise the Medicaid agency director about health and medical care services.

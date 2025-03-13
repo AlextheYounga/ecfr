@@ -1,11 +1,9 @@
-##### § 36.4320 Refunding of loans in default. #####
-
-Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
+##### § 36.4320 VA purchase of loans in default. #####
 
 (a) Upon receiving a notice of default or a notice under § 36.4317, the Secretary may require the holder upon penalty of otherwise losing the guaranty or insurance to transfer and assign the loan and the security therefore to the Secretary or to another designated by the Secretary upon receipt of payment in full of the balance of the indebtedness remaining unpaid to the date of such assignment. Such assignment may be made without recourse but the transferor shall not thereby be relieved from the provisions of § 36.4328.
 
 (b) If the obligation is assigned or transferred to a third party pursuant to paragraph (a) of this section the Secretary may continue in effect the guaranty or insurance issued with respect to the previous loan in such manner as to cover the assignee or transferee.
 
-(c) Servicers must deliver to the Secretary all legal documents, including but not limited to proper loan assignments, required as evidence of proper loan transfer within 60 calendar days from the date that VA sends notice to the servicer that VA has decided to refund a loan under this section. Servicers exhibiting a continued failure to provide timely loan transfer documentation may, at the discretion of the Secretary and following advance notice to the servicer, be subject to temporary suspension of all property acquisition and claim payments until all deficiencies identified in the notice provided to the servicer have been corrected.
+(c) Servicers must deliver to the Secretary all legal documents, including but not limited to proper loan assignments, required as evidence of proper loan transfer within 60 calendar days from the date that VA sends notice to the servicer that VA has decided to purchase a loan under this section. Servicers exhibiting a continued failure to provide timely loan transfer documentation may, at the discretion of the Secretary and following advance notice to the servicer, be subject to temporary suspension of all property acquisition and claim payments until all deficiencies identified in the notice provided to the servicer have been corrected.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0362)(Authority: 38 U.S.C. 3703(c) and 3732(a))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010]
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0021)(Authority: 38 U.S.C. 3703(c) and 3732(a))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010; 89 FR 25144, Apr. 10, 2024]

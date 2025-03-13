@@ -1,7 +1,5 @@
 ##### § 36.4317 Servicer reporting requirements. #####
 
-Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
-
 (a) Servicers of loans guaranteed by the Secretary shall report the information required by this section to the Secretary electronically. The Secretary shall accept electronic submission from each entity servicing loans guaranteed under 38 U.S.C. chapter 37 not later than the effective date of this rule.
 
 (b) Not later than the seventh calendar day of each month each servicer shall report to the Secretary basic information (loan identification information, payment due date, and unpaid principal balance) for every loan guaranteed by the Secretary currently being serviced by that entity, unless previously reported under paragraph (c)(7) of this section and has not reinstated, terminated, or paid in full.
@@ -42,13 +40,13 @@ Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
 
 (17) Repayment plan approved—when the servicer approves a repayment plan.
 
-(18) Special forbearance approved—when the servicer approves a special forbearance agreement.
+(18) Special forbearance approved—when the servicer approves a special forbearance.
 
 (19) Loan modification approved—when the servicer approves a loan modification.
 
 (20) Loan modification complete—when both the servicer (and/or the holder, where necessary) and the owner(s) have executed the modification agreement.
 
-(21) Compromise sale complete—when a compromise sale closes.
+(21) Short sale complete—when a short sale closes.
 
 (22) Deed-in-lieu of foreclosure complete—when the servicer records the deed-in-lieu of foreclosure. The servicer shall report this no later than the 7th calendar day from when the event occurred.
 
@@ -66,8 +64,8 @@ Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
 
 (29) Confirmed sale date with no transfer of custody—when the loan is terminated, the property is not conveyed, and the property is located in a confirmation/ratification of sale state.
 
-(30) Basic claim information—when the servicer files a claim under guaranty. The servicer shall report this event within 365 calendar days of loan termination for non-refund claims, and within 60 calendar days of the refund approval date for refund claims.
+(30) Basic claim information—when the servicer files a claim under guaranty. The servicer shall report this event within 365 calendar days of loan termination for non-VA purchase claims, and within 60 calendar days of the approval date for VA purchase claims.
 
-(31) Refunding Settlement—when VA refunds a loan and the servicer reports the tax and insurance information. The servicer shall report this event within 60 calendar days of the refund approval date.
+(31) VA purchase settlement—when VA purchases a loan and the servicer reports the tax and insurance information. The servicer shall report this event within 60 calendar days of the VA purchase approval date.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0021)(Authority: 38 U.S.C. 3703(c), 3732)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010]
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0021)(Authority: 38 U.S.C. 3703(c), 3732)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010; 89 FR 25144, Apr. 10, 2024]

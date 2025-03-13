@@ -1,5 +1,7 @@
 ##### § 483.45 Pharmacy services. #####
 
+Link to an amendment published at 89 FR 40999, May 10, 2024.
+
 The facility must provide routine and emergency drugs and biologicals to its residents, or obtain them under an agreement described in § 483.70(g). The facility may permit unlicensed personnel to administer drugs if State law permits, but only under the general supervision of a licensed nurse.
 
 (a) *Procedures.* A facility must provide pharmaceutical services (including procedures that assure the accurate acquiring, receiving, dispensing, and administering of all drugs and biologicals) to meet the needs of each resident.

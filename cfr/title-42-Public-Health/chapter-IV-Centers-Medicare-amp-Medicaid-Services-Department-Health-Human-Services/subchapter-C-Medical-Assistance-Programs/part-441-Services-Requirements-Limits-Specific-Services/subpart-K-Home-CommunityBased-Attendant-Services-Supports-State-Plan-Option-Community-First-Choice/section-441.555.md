@@ -1,5 +1,7 @@
 ##### § 441.555 Support system. #####
 
+Link to an amendment published at 89 FR 40870, May 10, 2024.
+
 For each service delivery model available, States must provide, or arrange for the provision of, a support system that meets all of the following conditions:
 
 (a) Appropriately assesses and counsels an individual before enrollment.

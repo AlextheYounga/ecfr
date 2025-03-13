@@ -1,5 +1,7 @@
 ##### § 501.806 Procedures for unblocking funds believed to have been blocked due to mistaken identity. #####
 
+Link to an amendment published at 89 FR 40377, May 10, 2024.
+
 When a transaction results in the blocking of funds at a financial institution pursuant to the applicable regulations of this chapter and a party to the transaction believes the funds have been blocked due to mistaken identity, that party may seek to have such funds unblocked pursuant to the following administrative procedures:
 
 (a) Any person who is a party to the transaction may request the release of funds which the party believes to have been blocked due to mistaken identity.

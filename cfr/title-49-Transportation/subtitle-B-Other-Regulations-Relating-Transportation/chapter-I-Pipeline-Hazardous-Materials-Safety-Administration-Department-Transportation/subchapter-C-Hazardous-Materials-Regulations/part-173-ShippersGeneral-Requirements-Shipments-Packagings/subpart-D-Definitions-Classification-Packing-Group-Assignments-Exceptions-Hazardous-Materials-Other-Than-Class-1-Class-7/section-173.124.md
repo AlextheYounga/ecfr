@@ -1,7 +1,5 @@
 ##### § 173.124 Class 4, Divisions 4.1, 4.2 and 4.3—Definitions. #####
 
-Link to an amendment published at 89 FR 25477, Apr. 10, 2024.
-
 (a) *Division 4.1 (Flammable Solid).* For the purposes of this subchapter, *flammable solid* (Division 4.1) means any of the following four types of materials:
 
 (1) Desensitized explosives that—
@@ -86,8 +84,6 @@ Link to an amendment published at 89 FR 25477, Apr. 10, 2024.
 
 (iii) Do not meet the definition of hazard classes 1-8 (including combustible liquids).
 
-(iv) The provisions concerning polymerizing substances in paragraph (a)(4) will be effective until January 2, 2023.
-
 (b) *Division 4.2 (Spontaneously Combustible Material).* For the purposes of this subchapter, *spontaneously combustible material* (Division 4.2) means—
 
 (1) *A pyrophoric material.* A pyrophoric material is a liquid or solid that, even in small quantities and without an external ignition source, can ignite within five (5) minutes after coming in contact with air when tested according to UN Manual of Tests and Criteria.
@@ -96,4 +92,4 @@ Link to an amendment published at 89 FR 25477, Apr. 10, 2024.
 
 (c) *Division 4.3 (Dangerous when wet material).* For the purposes of this chapter, *dangerous when wet material* (Division 4.3) means a material that, by contact with water, is liable to become spontaneously flammable or to give off flammable or toxic gas at a rate greater than 1 L per kilogram of the material, per hour, when tested in accordance with UN Manual of Tests and Criteria.
 
-[82 FR 15879, Mar. 30, 2017, as amended at 85 FR 27880, May 11, 2020]
+[82 FR 15879, Mar. 30, 2017, as amended at 85 FR 27880, May 11, 2020; 89 FR 25477, Apr. 10, 2024]

@@ -1,12 +1,10 @@
 ##### § 54.310 Connect America Fund for Price Cap Territories—Phase II. #####
 
-Link to an amendment published at 89 FR 25160, Apr. 10, 2024.
-
 (a) *Geographic areas eligible for support.* Connect America Phase II support may be made available for census blocks or other areas identified as eligible by public notice, including locations identified by the forward-looking cost model as extremely high-cost. The number of supported locations will be identified for each area eligible for support will be identified by public notice.
 
 (b) *Term of support.* Connect America Phase II model-based support shall be provided to price cap carriers that elect to make a state-level commitment for six years. Connect America Phase II support awarded through a competitive bidding process shall be provided for ten years.
 
-(c) *Deployment obligation.* Recipients of Connect America Phase II model-based support must complete deployment to 40 percent of supported locations by December 31, 2017, to 60 percent of supported locations by December 31, 2018, to 80 percent of supported locations by December 31, 2019, and to 100 percent of supported locations by December 31, 2020. Recipients of Connect America Phase II awarded through a competitive bidding process must complete deployment to 40 percent of supported locations by the end of the third year, to 60 percent of supported locations by the end of the fourth year, to 80 percent of supported locations by the end of the fifth year, and to 100 percent of supported locations by the end of the sixth year. Compliance shall be determined based on the total number of supported locations in a state.
+(c) *Deployment obligation.* Recipients of Connect America Phase II model-based support must complete deployment to 40 percent of supported locations by December 31, 2017, to 60 percent of supported locations by December 31, 2018, to 80 percent of supported locations by December 31, 2019, and to 100 percent of supported locations by December 31, 2020. Recipients of Connect America Phase II support awarded through a competitive bidding process, including New York's New NY Broadband Program, must complete deployment to 40 percent of supported locations by December 31, 2022, to 60 percent of supported locations December 31, 2023, to 80 percent of supported locations by December 31, 2024, and to 100 percent of supported locations by December 31, 2025. Compliance shall be determined based on the total number of supported locations in a state.
 
 (1) For purposes of meeting the obligation to deploy to the requisite number of supported locations in a state, recipients of Connect America Phase II model-based support may serve unserved locations in census blocks with costs above the extremely high-cost threshold instead of locations in eligible census blocks, provided that they meet the public interest obligations set forth in § 54.309(a) introductory text and (a)(1) for those locations and provided that the total number of locations covered is greater than or equal to the number of supported locations in the state.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 25160, Apr. 10, 2024.
 
 (2) In areas where the eligible telecommunications carrier declines to receive an optional seventh year of model-based support pursuant to paragraph (g) of this section, it shall cease receiving model-based support for these areas on December 31, 2020.
 
-[79 FR 11335, Feb. 28, 2014, as amended at 79 FR 39188, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 44449, July 7, 2016; 85 FR 13797, Mar. 10, 2020]
+[79 FR 11335, Feb. 28, 2014, as amended at 79 FR 39188, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 44449, July 7, 2016; 85 FR 13797, Mar. 10, 2020; 89 FR 25160, Apr. 10, 2024]

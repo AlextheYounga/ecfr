@@ -1,14 +1,10 @@
 ##### § 178.609 Test requirements for packagings for infectious substances. #####
 
-Link to an amendment published at 89 FR 25490, Apr. 10, 2024.
-
 (a) Samples of each packaging must be prepared for testing as described in paragraph (b) of this section and then subjected to the tests in paragraphs (d) through (i) of this section.
 
 (b) Samples of each packaging must be prepared as for transport except that a liquid or solid infectious substance should be replaced by water or, where conditioning at −18 °C (0 °F) is specified, by water/antifreeze. Each primary receptacle must be filled to 98 percent capacity. Packagings for live animals should be tested with the live animal being replaced by an appropriate dummy of similar mass.
 
 (c) Packagings prepared as for transport must be subjected to the tests in Table I of this paragraph (c), which, for test purposes, categorizes packagings according to their material characteristics. For outer packagings, the headings in Table I relate to fiberboard or similar materials whose performance may be rapidly affected by moisture; plastics that may embrittle at low temperature; and other materials, such as metal, for which performance is not significantly affected by moisture or temperature. Where a primary receptacle and a secondary packaging of an inner packaging are made of different materials, the material of the primary receptacle determines the appropriate test. In instances where a primary receptacle is made of more than one material, the material most likely to be damaged determines the appropriate test.
-
-Table I—Tests Required
 
 |  Material of  |Tests required |                  |                  |     |   |   |   |                    |   |
 |---------------|---------------|------------------|------------------|-----|---|---|---|--------------------|---|
@@ -37,13 +33,13 @@ The drops must be performed as follows:
 
 (v) On a corner.
 
-(2) Where the samples are in the shape of a drum, three samples must be dropped, one in each of the following orientations:
+(2) Where the samples are in the shape of a drum or jerrican, three samples must be dropped, one in each of the following orientations:
 
-(i) Diagonally on the top chime, with the center of gravity directly above the point of impact;
+(i) Diagonally on the top edge, with the center of gravity directly above the point of impact;
 
-(ii) Diagonally on the base chime; and
+(ii) Diagonally on the base edge; and
 
-(iii) Flat on the side.
+(iii) Flat on the body or side.
 
 (3) While the sample should be released in the required orientation, it is accepted that for aerodynamic reasons the impact may not take place in that orientation.
 
@@ -93,4 +89,4 @@ The drops must be performed as follows:
 
 (vii) In addition, the marking required in § 178.503(f) of this subchapter must be followed by the letter “U”.
 
-[Amdt. 178-97, 55 FR 52723, Dec. 21, 1990, as amended by Amdt. 178-111, 60 FR 48787, Sept. 20, 1995; 67 FR 53143, Aug. 14, 2002; 69 FR 54046, Sept. 7, 2004; 87 FR 45000, July 26, 2022]
+[Amdt. 178-97, 55 FR 52723, Dec. 21, 1990, as amended by Amdt. 178-111, 60 FR 48787, Sept. 20, 1995; 67 FR 53143, Aug. 14, 2002; 69 FR 54046, Sept. 7, 2004; 87 FR 45000, July 26, 2022; 89 FR 25490, Apr. 10, 2024]

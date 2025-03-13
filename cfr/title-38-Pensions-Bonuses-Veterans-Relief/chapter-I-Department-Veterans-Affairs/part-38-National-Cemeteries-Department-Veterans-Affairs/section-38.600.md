@@ -1,5 +1,7 @@
 ##### § 38.600 Definitions. #####
 
+Link to an amendment published at 89 FR 40391, May 10, 2024.
+
 (a) The following definitions apply to this part:
 
 *Appropriate State official* means a State attorney general or other official with statewide responsibility for law enforcement or penal functions.

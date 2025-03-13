@@ -1,5 +1,7 @@
 ##### § 483.15 Admission, transfer, and discharge rights. #####
 
+Link to an amendment published at 89 FR 40996, May 10, 2024.
+
 (a) *Admissions policy.* (1) The facility must establish and implement an admissions policy.
 
 (2) The facility must—

@@ -1,5 +1,7 @@
 ##### § 457.1230 Access standards. #####
 
+Link to an amendment published at 89 FR 41285, May 10, 2024.
+
 (a) *Availability of services.* The State must ensure that the services are available and accessible to enrollees in accordance with the terms of § 438.206 of this chapter.
 
 (b) *Assurances of adequate capacity and services.* The State must ensure, through its contracts, that each MCO, PIHP and PAHP has adequate capacity to serve the expected enrollment in accordance with the terms of § 438.207 of this chapter.

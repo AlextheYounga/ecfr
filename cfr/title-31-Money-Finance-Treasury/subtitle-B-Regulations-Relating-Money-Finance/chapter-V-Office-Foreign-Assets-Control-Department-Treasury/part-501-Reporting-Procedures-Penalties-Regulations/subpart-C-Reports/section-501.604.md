@@ -1,5 +1,7 @@
 ##### § 501.604 Reports on rejected transactions. #####
 
+Link to an amendment published at 89 FR 40376, May 10, 2024.
+
 (a) *Who must report*—(1) *Persons rejecting transactions.* Any U.S. person (or person subject to U.S. jurisdiction), including a financial institution, that rejects a transaction that is not blocked under the provisions of this chapter, but where processing or engaging in the transaction would nonetheless violate a provision contained in this chapter, shall submit a report to the Office of Foreign Assets Control (OFAC).
 
 (2) *Financial institution.* For purposes of this section, the term “financial institution” includes a banking institution, domestic bank, United States depository institution, financial institution, or U.S. financial institution, as those terms are defined in the applicable part of this chapter.

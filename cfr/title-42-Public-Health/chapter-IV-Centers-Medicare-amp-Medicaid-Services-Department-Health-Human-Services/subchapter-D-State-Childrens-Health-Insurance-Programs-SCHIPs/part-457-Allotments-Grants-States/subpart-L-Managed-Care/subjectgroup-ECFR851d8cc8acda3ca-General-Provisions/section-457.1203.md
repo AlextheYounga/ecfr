@@ -1,5 +1,7 @@
 ##### § 457.1203 Rate development standards and medical loss ratio. #####
 
+Link to an amendment published at 89 FR 41285, May 10, 2024.
+
 (a) A state must use payment rates based on public or private payment rates for comparable services for comparable populations, consistent with actuarially sound principles as defined at § 457.10. This requirement for using actuarially sound principles to develop payment rates does not prohibit a state from implementing value-based purchasing models for provider reimbursement, such as pay for performance arrangements, bundled payments, or other service payment models intended to recognize value or outcomes over volume of services; such alternate payment models should be developed using actuarially sound principles to the extent applicable.
 
 (b) A State may establish higher rates than permitted under paragraph (a) of this section if such rates are necessary to ensure sufficient provider participation or provider access or to enroll providers who demonstrate exceptional efficiency or quality in the provision of services.

@@ -1,5 +1,7 @@
 ##### § 483.65 Specialized rehabilitative services. #####
 
+Link to an amendment published at 89 FR 40999, May 10, 2024.
+
 (a) *Provision of services.* If specialized rehabilitative services such as but not limited to physical therapy, speech-language pathology, occupational therapy, respiratory therapy, and rehabilitative services for a mental disorder and intellectual disability or services of a lesser intensity as set forth at § 483.120(c), are required in the resident's comprehensive plan of care, the facility must—
 
 (1) Provide the required services; or

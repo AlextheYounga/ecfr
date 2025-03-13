@@ -1,5 +1,7 @@
 ##### § 457.1201 Standard contract requirements. #####
 
+Link to an amendment published at 89 FR 41285, May 10, 2024.
+
 (a) *CMS review.* The State must submit all MCO, PAHP, PIHP, PCCM, and PCCM entity contracts for review in the form and manner established by CMS.
 
 (b) *Entities eligible for comprehensive risk contracts.* The State may enter into a comprehensive risk contract only with the entities specified in § 438.3(b)(1) through (3) of this chapter.

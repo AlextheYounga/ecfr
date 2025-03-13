@@ -1,7 +1,5 @@
 ##### § 36.4322 Loan termination. #####
 
-Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
-
 (a) For purposes of this part, a holder, using reasonable diligence must complete a foreclosure within the timeframe and in the manner determined by the Secretary. In determining what constitutes allowable time and method for foreclosure, the Secretary shall review allowances for time and method in connection with the foreclosure of single-family housing loans issued by HUD, Fannie Mae, and Freddie Mac, as well as State statutory requirements. The Secretary will review such timeframes annually and, as the Secretary deems necessary, publish in the Federal Register a table setting forth the timeframes and methods the Secretary determines to be reasonable. The schedule will reflect the timeframe allowed for the standard, acceptable method for foreclosure proceedings in each State. The use of another method will require prior approval from VA. VA will maintain the loan termination time allowable timeframes on a Web site under VA's control, such as at *http://www.homeloans.va.gov.*
 
 (b)(1) At least 30 days prior to the scheduled or anticipated date of the liquidation sale, the holder must request that VA assign an appraiser to conduct a liquidation appraisal.
@@ -18,15 +16,15 @@ Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
 
 (d) If the holder learns of any material damage to the property occurring after the appraisal and prior to the liquidation sale, the impact of such damage on the fair market value must be determined in consultation with the fee appraiser, and the net value adjusted accordingly.
 
-(e)(1) A holder may approve a compromise sale of the property securing the loan without the prior approval of the Secretary provided that:
+(e)(1) A holder may approve a short sale of the property securing the loan without the prior approval of the Secretary provided that:
 
 (i) The holder has determined the loan is insoluble;
 
-(ii) The credit to the indebtedness (consisting of the net proceeds from the compromise sale and any waiver of indebtedness by the holder) must equal or exceed the net value of the property securing the loan; and
+(ii) The credit to the indebtedness (consisting of the net proceeds from the short sale and any waiver of indebtedness by the holder) must equal or exceed the net value of the property securing the loan; and
 
 (iii) The current owner of the property securing the loan will not receive any proceeds from the sale of the property.
 
-(2) A holder may request advance approval from the Secretary for a compromise sale notwithstanding that all of the conditions specified in paragraph (e)(1) of this section cannot be met if the holder believes such compromise sale would be in the best interests of the veteran and the Secretary.
+(2) A holder may request advance approval from the Secretary for a short sale notwithstanding that all of the conditions specified in paragraph (e)(1) of this section cannot be met if the holder believes such short sale would be in the best interests of the veteran and the Secretary.
 
 (f)(1) A holder may accept a deed voluntarily tendered by the current owner of the property securing the loan in lieu of conducting a foreclosure without the prior approval of the Secretary provided that:
 
@@ -34,10 +32,10 @@ Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
 
 (ii) The holder has computed the net value of the property securing the loan pursuant to paragraph (c) of this section;
 
-(iii) The holder has considered a compromise sale pursuant to paragraph (e) of this section and determined such compromise sale is not practical; and,
+(iii) The holder has considered a short sale pursuant to paragraph (e) of this section and determined such short sale is not practical; and,
 
 (iv) The holder has determined the current owner of the property can convey clear and marketable title to the property that would meet the standard stated in paragraph (d)(5) of § 36.4323.
 
 (2) A holder may request advance approval from the Secretary for a deed-in-lieu of foreclosure notwithstanding that all of the conditions specified in paragraph (f)(1) of this section cannot be met if the holder believes such deed-in-lieu would be in the best interests of the veteran and the Secretary.
 
-(Authority: 38 U.S.C. 3703(c), 3732)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010; 82 FR 11153, Feb. 21, 2017]
+(Authority: 38 U.S.C. 3703(c), 3732)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010; 82 FR 11153, Feb. 21, 2017; 89 FR 25144, Apr. 10, 2024]

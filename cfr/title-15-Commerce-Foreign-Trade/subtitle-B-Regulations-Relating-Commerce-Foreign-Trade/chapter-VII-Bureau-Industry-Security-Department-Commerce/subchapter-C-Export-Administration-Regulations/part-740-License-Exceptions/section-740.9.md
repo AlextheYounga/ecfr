@@ -1,6 +1,6 @@
 ##### § 740.9 Temporary imports, exports, reexports, and transfers (in-country) (TMP). #####
 
-Link to an amendment published at 89 FR 34702, Apr. 30, 2024.
+Link to an amendment published at 89 FR 34702, Apr. 30, 2024.Link to an amendment published at 89 FR 40371, May 10, 2024.
 
 This License Exception authorizes various temporary exports and reexports; exports and reexports of items temporarily in the United States; and exports and reexports of beta test software.
 

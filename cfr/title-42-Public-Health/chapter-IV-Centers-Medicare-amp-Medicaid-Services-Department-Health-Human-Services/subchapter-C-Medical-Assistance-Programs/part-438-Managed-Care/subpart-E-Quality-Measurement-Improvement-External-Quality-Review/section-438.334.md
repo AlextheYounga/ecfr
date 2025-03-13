@@ -1,5 +1,7 @@
 ##### § 438.334 Medicaid managed care quality rating system. #####
 
+Link to an amendment published at 89 FR 41278, May 10, 2024.
+
 (a) *General rule.* Each State contracting with an MCO, PIHP or PAHP to furnish services to Medicaid beneficiaries must—
 
 (1) Adopt the Medicaid managed care quality rating system developed by CMS in accordance with paragraph (b) of this section; or

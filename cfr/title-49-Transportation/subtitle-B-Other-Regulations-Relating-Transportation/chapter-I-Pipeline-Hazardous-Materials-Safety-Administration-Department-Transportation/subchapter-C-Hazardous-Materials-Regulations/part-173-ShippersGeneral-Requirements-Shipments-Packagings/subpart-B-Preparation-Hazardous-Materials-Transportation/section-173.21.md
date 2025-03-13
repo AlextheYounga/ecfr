@@ -1,7 +1,5 @@
 ##### § 173.21 Forbidden materials and packages. #####
 
-Link to an amendment published at 89 FR 25476, Apr. 10, 2024.
-
 Unless otherwise provided in this subchapter, the offering for transportation or transportation of the following is forbidden:
 
 (a) Materials that are designated “Forbidden” in Column 3 of the § 172.101 table.
@@ -14,24 +12,28 @@ Unless otherwise provided in this subchapter, the offering for transportation or
 
 (e) A material in the same packaging, freight container, or overpack with another material, the mixing of which is likely to cause a dangerous evolution of heat, or flammable or poisonous gases or vapors, or to produce corrosive materials.
 
-(f) A package containing a material which is likely to decompose with a self-accelerated decomposition temperature (SADT) of 50 °C (122 °F) or less, or polymerize at a temperature of 54 °C (130 °F) or less with an evolution of a dangerous quantity of heat or gas when decomposing or polymerizing, unless the material is stabilized or inhibited in a manner to preclude such evolution. The SADT may be determined by any of the test methods described in Part II of the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter).
+(f) A package containing a material which is likely to decompose with a self-accelerated decomposition temperature (SADT) or polymerize with a self-accelerated polymerization temperature (SAPT) of 50 °C (122 °F) or less, or 45 °C (113 °F) or less when offered for transportation in portable tanks, with an evolution of a dangerous quantity of heat or gas when decomposing or polymerizing, unless the material is stabilized or inhibited in a manner to preclude such evolution. For organic peroxides, see paragraph (f)(2) of this section. The SADT and SAPT may be determined by any of the test methods described in Part II of the UN Manual of Tests and Criteria (IBR, *see* § 171.7 of this subchapter).
 
-(1) A package meeting the criteria of paragraph (f) of this section may be required to be shipped under controlled temperature conditions. The control temperature and emergency temperature for a package shall be as specified in the table in this paragraph based upon the SADT of the material. The control temperature is the temperature above which a package of the material may not be offered for transportation or transported. The emergency temperature is the temperature at which, due to imminent danger, emergency measures must be initiated.
+(1) A package meeting the criteria of paragraph (f) of this section may be required to be shipped under controlled temperature conditions. The control temperature and emergency temperature for a package shall be as specified in Table 1 in this paragraph based upon the SADT or SAPT of the material. The control temperature is the temperature above which a package of the material may not be offered for transportation or transported. The emergency temperature is the temperature at which, due to imminent danger, emergency measures must be initiated.
 
-Table 1 to Paragraph (f)(1)—Method of Determining Control and Emergency Temperature
+|                                           Type of receptacle                                            |         SADT/SAPT <sup>1</sup>          |    Control temperatures     |    Emergency temperature     |
+|---------------------------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------|------------------------------|
+|                                       Single packagings and IBCs                                        |        SADT/SAPT ≤20 °C (68 °F)         |20 °C (36 °F) below SADT/SAPT|10 °C (18 °F) below SADT/SAPT.|
+|                                       Single packagings and IBCs                                        |20 °C (68 °F) \<SADT/SAPT ≤35 °C (95 °F) |15 °C (27 °F) below SADT/SAPT|10 °C (18 °F) below SADT/SAPT.|
+|                                       Single packagings and IBCs                                        |35 °C (95 °F) \<SADT/SAPT ≤50 °C (122 °F)|10 °C (18 °F) below SADT/SAPT| 5 °C (9 °F) below SADT/SAPT. |
+|                                       Single packagings and IBCs                                        |       50 °C (122 °F) \<SADT/SAPT        |       (<sup>2</sup>)        |        (<sup>2</sup>)        |
+|                                             Portable tanks                                              |        SADT/SAPT ≤45 °C (113 °F)        |10 °C (18 °F) below SADT/SAPT| 5 °C (9 °F) below SADT/SAPT. |
+|                                             Portable tanks                                              |       45 °C (113 °F) \<SADT/SAPT        |       (<sup>2</sup>)        |        (<sup>2</sup>)        |
+|<sup>1</sup> Self-accelerating decomposition temperature or self-accelerating polymerization temperature.|                                         |                             |                              |
+|                             <sup>2</sup> Temperature control not required.                              |                                         |                             |                              |
 
-|          SADT<sup>1</sup>          |  Control temperatures  |  Emergency temperature  |
-|------------------------------------|------------------------|-------------------------|
-|        SADT ≤20 °C (68 °F)         |20 °C (36 °F) below SADT|10 °C (18 °F) below SADT.|
-|20 °C (68 °F) \<SADT ≤35 °C (95 °F) |15 °C (27 °F) below SADT|10 °C (18 °F) below SADT.|
-|35 °C (95 °F) \<SADT ≤50 °C (122 °F)|10 °C (18 °F) below SADT| 5 °C (9 °F) below SADT. |
-|       50 °C (122 °F) \<SADT        |     (<sup>2</sup>)     |     (<sup>2</sup>)      |
+(2) For hazardous materials listed in the Self-Reactive Materials Table in § 173.224(b), control and emergency temperatures, where required, are shown in Columns 5 and 6, respectively. For hazardous materials listed in the Organic Peroxide Table in § 173.225, control and emergency temperatures, where required, are shown in Columns 7a and 7b of the table, respectively. In addition, the following organic peroxides shall be subjected to temperature control during transport:
 
-<sup>1</sup> Self-accelerating decomposition temperature.
+(i) Organic peroxides type B and C with a SADT ≤50 °C;
 
-<sup>2</sup> Temperature control not required.
+(ii) Organic peroxides type D showing a medium effect when heated under confinement, as determined by test series E in Part II of the UN Manual of Tests and Criteria (IBR, *see* § 171.7 of this subchapter), with a SADT ≤50 °C or showing a low or no effect when heated under confinement with a SADT ≤45 °C; and
 
-(2) For self-reactive materials listed in § 173.224(b) table control and emergency temperatures, where required are shown in Columns 5 and 6, respectively. For organic peroxides listed in The Organic Peroxides Table in § 173.225 control and emergency temperatures, where required, are shown in Columns 7a and 7b, respectively.
+(iii) Organic peroxides types E and F with a SADT ≤45 °C.
 
 (3) Refrigeration may be used as a means of stabilization only when approved by the Associate Administrator. Approvals issued by the Bureau of Explosives are no longer valid (see § 171.19 of this subchapter). Methods of stabilization approved by the Associate Administrator are as follows:
 

@@ -1,5 +1,7 @@
 ##### § 447.203 Documentation of access to care and service payment rates. #####
 
+Link to an amendment published at 89 FR 40871, May 10, 2024.
+
 (a) The agency must maintain documentation of payment rates and make it available to HHS upon request.
 
 (b) In consultation with the medical care advisory committee under § 431.12 of this chapter, the agency must develop a medical assistance access monitoring review plan and update it, in accordance with the timeline established in paragraph (b)(5) of this section. The plan must be published and made available to the public for review and comment for a period of no less than 30 days, prior to being finalized and submitted to CMS for review.

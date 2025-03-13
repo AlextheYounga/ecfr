@@ -1,7 +1,5 @@
 ##### § 178.75 Specifications for MEGCs. #####
 
-Link to an amendment published at 89 FR 25489, Apr. 10, 2024.
-
 (a) *General.* Each MEGC must meet the requirements of this section. In a MEGC that meets the definition of a “container” within the terms of the International Convention for Safe Containers (CSC) must meet the requirements of the CSC as amended and 49 CFR parts 450 through 453, and must have a CSC approval plate.
 
 (b) *Alternate Arrangements.* The technical requirements applicable to MEGCs may be varied when the level of safety is determined to be equivalent to or exceed the requirements of this subchapter. Such an alternate arrangement must be approved in writing by the Associate Administrator. MEGCs approved to an Alternate Arrangement must be marked as required by paragraph (j) of this section.
@@ -24,13 +22,13 @@ Link to an amendment published at 89 FR 25489, Apr. 10, 2024.
 
 (2) MEGCs must be designed, manufactured and equipped to withstand, without loss of contents, all normal handling and transportation conditions. The design must take into account the effects of dynamic loading and fatigue.
 
-(3) Each pressure receptacle of a MEGC must be of the same design type, seamless steel, or composite, and constructed and tested according to one of the following ISO standards, as appropriate:
+(3) Each pressure receptacle of a MEGC must be of the same design type, seamless steel, or composite, and constructed and tested according to one of the following ISO standards:
 
-(i) ISO 9809-1: Gas cylinders—Refillable seamless steel gas cylinders—Design, construction and testing—Part 1: Quenched and tempered steel cylinders with tensile strength less than 1100 MPa. (IBR, see § 171.7 of this subchapter). Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-1:1999 (IBR, see § 171.7 of this subchapter) is authorized;
+(i) ISO 9809-1:2019(E), Gas cylinders—Refillable seamless steel gas cylinders—Design, construction, and testing—Part 1: Quenched and tempered steel cylinders with tensile strength less than 1100 MPa (IBR, see § 171.7 of this subchapter). Until December 31, 2026, the manufacture of a cylinder conforming to the requirements in ISO 9809-1:2010(E) (IBR, see § 171.7 of this subchapter) is authorized.
 
-(ii) ISO 9809-2: Gas cylinders—Refillable seamless steel gas cylinders—Design, construction and testing—Part 2: Quenched and tempered steel cylinders with tensile strength greater than or equal to 1100 MPa. (IBR, see § 171.7 of this subchapter). Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-2:2000 (IBR, see § 171.7 of this subchapter) is authorized;
+(ii) ISO 9809-2:2019(E), Gas cylinders—Design, construction and testing of refillable seamless steel gas cylinders and tubes—Part 2: Quenched and tempered steel cylinders and tubes with tensile strength greater than or equal to 1100 MPa (IBR, see § 171.7 of this subchapter). Until December 31, 2026, the manufacture of a cylinder conforming to the requirements in \\ ISO 9809-2:2010(E) (IBR, see § 171.7 of this subchapter) is authorized.
 
-(iii) ISO 9809-3: Gas cylinders—Refillable seamless steel gas cylinders—Design, construction and testing—Part 3: Normalized steel cylinders. (IBR, see § 171.7 of this subchapter). Until December 31, 2018, the manufacture of a cylinder conforming to the requirements in ISO 9809-3:2000 (IBR, see § 171.7 of this subchapter) is authorized; or
+(iii) ISO 9809-3:2019(E), Gas cylinders—Design, construction, and testing of refillable seamless steel gas cylinders and tubes—Part 3: Normalized steel cylinders and tubes (IBR, see § 171.7 of this subchapter). Until December 31, 2026, the manufacture of a cylinder conforming to the requirements in ISO 9809-3:2010(E) (IBR, see § 171.7 of this subchapter) is authorized.
 
 (iv) ISO 9809-4:2014(E) Gas cylinders—Refillable seamless steel gas cylinders—Design, construction and testing—Part 4: Stainless steel cylinders with an Rm value of less than 1 100 MPa (IBR, see § 171.7 of this subchapter).
 
@@ -142,4 +140,4 @@ Stamp of the approval agency who performed or witnessed the most recent test
 
 (2) The following information must be marked on a metal plate firmly secured to the MEGC:
 
-Name of the operatorMaximum permissible load mass \_\_\_\_\_\_ kgWorking pressure at 15 °C: \_\_\_\_\_\_ bar gaugeMaximum permissible gross mass (MPGM) \_\_\_\_\_\_ kgUnladen (tare) mass \_\_\_\_\_\_ kg[71 FR 33892, June 12, 2006, as amended at 73 FR 4719, Jan. 28, 2008; 77 FR 60943, Oct. 5, 2012; 80 FR 1168, Jan. 8, 2015; 82 FR 15896, Mar. 30, 2017; 85 FR 27901, May 11, 2020; 85 FR 85432, Dec. 27, 2020; 87 FR 44999, July 26, 2022]
+Name of the operatorMaximum permissible load mass \_\_\_\_\_\_ kgWorking pressure at 15 °C: \_\_\_\_\_\_ bar gaugeMaximum permissible gross mass (MPGM) \_\_\_\_\_\_ kgUnladen (tare) mass \_\_\_\_\_\_ kg[71 FR 33892, June 12, 2006, as amended at 73 FR 4719, Jan. 28, 2008; 77 FR 60943, Oct. 5, 2012; 80 FR 1168, Jan. 8, 2015; 82 FR 15896, Mar. 30, 2017; 85 FR 27901, May 11, 2020; 85 FR 85432, Dec. 27, 2020; 87 FR 44999, July 26, 2022; 89 FR 25489, Apr. 10, 2024]

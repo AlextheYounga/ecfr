@@ -1,7 +1,5 @@
 ##### § 301.6241-7 Treatment of special enforcement matters. #####
 
-Link to an amendment published at 89 FR 17596, Mar. 11, 2024.
-
 (a) *Items that involve special enforcement matters.* In accordance with section 6241(11)(B) of the Internal Revenue Code (Code), the partnership-related items (as defined in § 301.6241-1(a)(6)(ii)) described in this section have been determined to involve special enforcement matters. If the rules in this section apply, only the portion of the partnership-related item to which the special enforcement matter applies may be adjusted without regard to subchapter C of chapter 63. Nothing in this section prohibits the Internal Revenue Service (IRS) from adjusting the entire partnership-related item under subchapter C of chapter 63. See paragraph (i) of this section for rules coordinating adjustments made under subchapter C of chapter 63 with adjustments made without regard to subchapter C of chapter 63.
 
 (b) *Partnership-related items underlying items that are not partnership-related items*—(1) *In general.* The IRS may determine that the rules of subchapter C of chapter 63 of the Code (subchapter C of chapter 63) do not apply to an adjustment to a partnership-related item of a partnership if—
@@ -38,8 +36,12 @@ Link to an amendment published at 89 FR 17596, Mar. 11, 2024.
 
 (2) Included in an imputed underpayment paid by a partnership (or pass-through partner) for any taxable year in which the partner was a reviewed year partner or indirect partner but only if the amount included in the deficiency or adjustment exceeds the amount reported by the partnership to the partner that was either reported by the partner or indirect partner or is otherwise included in the deficiency or adjustment determined by the IRS.
 
-(j) *Applicability date*—(1) *In general.* Except for paragraph (b) of this section, this section applies to partnership taxable years ending on or after November 20, 2020. Notwithstanding the preceding sentence, upon agreement between the partner under examination and the IRS, any provision of this section except for paragraph (b) of this section may apply to any taxable year of a partner that relates to a partnership taxable year subject to subchapter C of chapter 63 (as amended) that ended before November 20, 2020. In addition, a partnership and the IRS may agree to apply paragraph (g) to any partnership taxable year ended before November 20, 2020, that is subject to subchapter C of chapter 63, as amended.
+(j) *Elections resulting in payments to a partnership.* The IRS may adjust any election that results or could result in a payment to the partnership in lieu of a Federal tax credit or deduction without regard to subchapter C of chapter 63. The IRS may also make determinations, without regard to subchapter C of chapter 63, about the payment itself as well as any partnership-related item relevant to adjusting the election or the payment.
+
+(k) *Applicability date*—(1) *In general.* Except as provided in paragraphs (k)(2) (relating to paragraph (b) of this section) and (k)(3) of this section (relating to paragraph (j) of this section), this section applies to partnership taxable years ending on or after November 20, 2020. Notwithstanding the preceding sentence, upon agreement between the partner under examination and the IRS, any provision of this section except for paragraph (b) of this section may apply to any taxable year of a partner that relates to a partnership taxable year subject to subchapter C of chapter 63 (as amended) that ended before November 20, 2020. In addition, a partnership and the IRS may agree to apply paragraph (g) to any partnership taxable year ended before November 20, 2020, that is subject to subchapter C of chapter 63, as amended.
 
 (2) *Partnership-related items underlying items that are not partnership-related items.* Paragraph (b) of this section applies to partnership taxable years beginning after December 20, 2018. Notwithstanding the preceding sentence, upon agreement between the partner under examination and the IRS, paragraph (b) of this section may apply to any taxable year of a partner that relates to a partnership taxable year subject to subchapter C of chapter 63, as amended, that ended on or before December 20, 2018.
 
-[T.D. 9969, 87 FR 75494, Dec. 9, 2022]
+(3) *Elections resulting in payments to a partnership.* Paragraph (j) of this section applies to taxable years ending on or after June 21, 2023.
+
+[T.D. 9969, 87 FR 75494, Dec. 9, 2022, as amended by T.D. 9988, 89 FR 17595, Mar. 11, 2024]

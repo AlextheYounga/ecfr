@@ -1,5 +1,7 @@
 ##### § 441.464 State assurances. #####
 
+Link to an amendment published at 89 FR 40870, May 10, 2024.
+
 A State must assure that the following requirements are met:
 
 (a) *Necessary safeguards.* Necessary safeguards have been taken to protect the health and welfare of individuals furnished services under the program and to assure the financial accountability for funds expended for self-directed services.

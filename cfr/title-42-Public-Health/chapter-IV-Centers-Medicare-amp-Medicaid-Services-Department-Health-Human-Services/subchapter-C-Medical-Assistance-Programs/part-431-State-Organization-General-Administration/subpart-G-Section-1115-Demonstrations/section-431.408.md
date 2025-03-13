@@ -1,5 +1,7 @@
 ##### § 431.408 State public notice process. #####
 
+Link to an amendment published at 89 FR 40863, May 10, 2024.
+
 (a) *General.* A State must provide at least a 30-day public notice and comment period regarding applications for a demonstration project, or an extension of an existing demonstration project that the State intends to submit to CMS for review and consideration.
 
 (1) *Public notice and comment period.* Prior to submitting an application to CMS for a new demonstration project or an extension of a previously approved demonstration project, the State must provide at least a 30-day public notice and comment period, and the public notice shall include all of the following information:

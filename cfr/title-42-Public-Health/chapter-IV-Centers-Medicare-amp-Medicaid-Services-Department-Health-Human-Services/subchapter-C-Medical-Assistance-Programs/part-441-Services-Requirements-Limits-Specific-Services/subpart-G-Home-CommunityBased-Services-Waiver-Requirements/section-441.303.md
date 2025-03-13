@@ -1,5 +1,7 @@
 ##### § 441.303 Supporting documentation required. #####
 
+Link to an amendment published at 89 FR 40866, May 10, 2024.
+
 The agency must furnish CMS with sufficient information to support the assurances required by § 441.302. Except as CMS may otherwise specify for particular waivers, the information must consist of the following:
 
 (a) A description of the safeguards necessary to protect the health and welfare of beneficiaries. This information must include a copy of the standards established by the State for facilities that are covered by section 1616(e) of the Act.

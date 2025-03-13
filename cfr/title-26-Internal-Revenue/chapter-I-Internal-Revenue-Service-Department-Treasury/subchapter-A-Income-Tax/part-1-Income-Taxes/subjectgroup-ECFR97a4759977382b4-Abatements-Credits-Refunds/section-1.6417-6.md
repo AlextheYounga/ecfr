@@ -1,3 +1,31 @@
-##### 1.6417-6 xxx #####
+##### § 1.6417-6 Special rules. #####
 
-Link to an amendment published at 89 FR 17584, Mar. 11, 2024.
+(a) *Excessive payment*—(1) *In general.* In the case of any elective payment amount that the IRS determines constitutes an excessive payment, the tax imposed on such entity by chapter 1, regardless of whether such entity or taxpayer would otherwise be subject to chapter 1 tax, for the taxable year in which such determination is made will be increased by an amount equal to the sum of—
+
+(i) The amount of such excessive payment, plus
+
+(ii) An amount equal to 20 percent of such excessive payment.
+
+(2) *Reasonable cause.* The amount described in paragraph (a)(1)(ii) of this section will not apply to an applicable entity or electing taxpayer if the applicable entity or electing taxpayer demonstrates to the satisfaction of the IRS that the excessive payment resulted from reasonable cause.
+
+(3) *Excessive payment defined.* For purposes of this section, the term *excessive payment* means, with respect to an applicable credit property for which an elective payment election is made under § 1.6417-2(b) for any taxable year, an amount equal to the excess of—
+
+(i) The amount treated as a payment under § 1.6417-2(a)(1)(i) or (a)(2)(i), or the amount of the payment made pursuant to § 1.6417-2(a)(2)(ii), with respect to such applicable credit property for such taxable year, over
+
+(ii) The amount of the credit that, without application of this section, would be otherwise allowable under the Code (as determined pursuant to § 1.6417-2(c) and (e) or § 1.6417-4(d)(1) and (3), and without regard to the limitation based on tax in section 38(c)) with respect to such applicable credit property for such taxable year. For purposes of this section, the amount of such credit that would be otherwise allowable is the amount claimed on an original or amended return, including any administrative adjustment request under section 6227.
+
+(4) *Example.* This example illustrates the principles of this paragraph (a). B, an instrumentality of State M, places in service in 2023 facility F, which is eligible for the energy credit determined under section 48. B properly completes the pre-filing registration as an applicable entity that will earn the energy credit from F in accordance with § 1.6417-5, and receives a registration number for F. B timely files its 2023 Form 990-T, properly providing the registration number for F and otherwise complying with § 1.6417-2(b). On its Form 990-T, B calculates that the amount of energy credit determined with respect to F is $100,000 and that the net elective payment amount is $100,000. B receives a refund in the amount of $100,000. In 2025, the IRS determines that the amount of energy credit properly allowable to B in 2023 with respect to F (as determined pursuant to § 1.6417-2(c) and (e) and without regard to the limitation based on tax in section 38(c)) was $60,000. B is unable to show reasonable cause for the difference. The excessive payment amount is $40,000 ($100,000 treated as a payment−$60,000 allowable amount). In 2025, the tax imposed under chapter 1 on B is increased in the amount of $48,000 ($40,000 + (20% \* $40,000).)
+
+(b) *Basis reduction and recapture*—(1) *In general.* Rules similar to the rules of section 50 (without regard to section 50(b)(3) and (4)(A)(i)) apply for purposes of this section.
+
+(2) *Reporting recapture.* Any reporting of recapture is made on the annual tax return of the applicable entity or electing taxpayer in the manner prescribed by the IRS in any guidance, along with supplemental forms such as Form 4255, *Recapture of Investment Credit.*
+
+(3) *Example.* This example illustrates the principles of this paragraph (b). In December 2023, G, a government entity, places in service P, which is energy property eligible for the energy credit determined under section 48 (section 48 credit). G properly completes the pre-filing registration in accordance with § 1.6417-5 as an applicable entity to make an election under section 6417 for 2023. G timely files its 2023 Form 990-T in 2024, properly making the elective payment election in accordance with § 1.6417-2 for a section 48 energy credit determined with respect to P. On its Form 990-T, G properly determines that the amount of section 48 credit determined with respect P is $100,000 and that its net elective payment amount is $100,000. The IRS sends G a $100,000 refund. Pursuant to section 50(c), G reduces its basis in P by $50,000. In July 2025, P ceases to be investment credit property with respect to G. Because this occurs before the close of the recapture period set forth in section 50, section 50(a)(1)(A) provides that the tax under chapter 1 for 2025 is increased by the recapture percentage of the aggregate decrease in the credits allowed under section 38 for all prior taxable years that would have resulted solely from reducing to zero any credit determined under subpart E of part IV of subchapter A of chapter 1 with respect to such property. Because P ceased to be investment credit property within 2 full years after P was placed in service, section 50(a)(1)(B) provides that the recapture percentage is 80%. G must properly report the recapture event in 2025, paying an $80,000 tax. Because G is a government entity, G reports the recapture event on a Form 990-T or any Form provided in further guidance, along with supplemental forms such as Form 4255, *Recapture of Investment Credit.* G's basis in P is increased by $40,000.
+
+(c) *Mirror code territories.* Pursuant to section 6417(f) of the Code, section 6417 and the section 6417 regulations are not treated as part of the income tax laws of the United States for purposes of determining the income tax law of any U.S. territory with a mirror code tax system (as defined in section 24(k) of the Code), unless such U.S. territory elects to have section 6417 and the section 6417 regulations be so treated. The applicable territory tax authority for a U.S. territory determines whether such an election has been made.
+
+(d) *Partnerships subject to subchapter C of chapter 63 of the Code. See* § 301.6241-7(j) of this chapter for rules applicable to payments made to partnerships subject to subchapter C of chapter 63 of the Code for a partnership taxable year.
+
+(e) *Applicability date.* This section applies to taxable years ending on or after March 11, 2024. For taxable years ending before March 11, 2024, taxpayers, however, may choose to apply the rules of §§ 1.6417-1 through 1.6417-4 and 1.6417-6, provided the taxpayers apply the rules in their entirety and in a consistent manner.
+
+[TD 9988, 89 FR 17584, Mar. 11, 2024]

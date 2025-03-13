@@ -1,7 +1,5 @@
 ##### § 173.27 General requirements for transportation by aircraft. #####
 
-Link to an amendment published at 89 FR 25477, Apr. 10, 2024.
-
 (a) The requirements of this section are in addition to requirements prescribed elsewhere under this part and apply to packages offered or intended for transportation aboard aircraft. Except for materials not subject to performance packaging requirements in subpart E of this part, a packaging containing a Packing Group III material with a primary or subsidiary risk of Division 4.1, 4.2, 4.3, 5.1, or Class 8 must meet the Packing Group II performance level when offered for transportation by aircraft.
 
 (b) *Packages authorized onboard aircraft.* (1) When Column 9a of the § 172.101 table indicates that a material is “Forbidden”, that material may not be offered for transportation or transported aboard passenger-carrying aircraft.
@@ -56,7 +54,7 @@ Link to an amendment published at 89 FR 25477, Apr. 10, 2024.
 
 (C) Divisions 2.1 (flammable gas) (*except* Aerosols (UN1950) and Receptacles, small (UN2037) without subsidiary risk) and Division 2.3 (toxic gas);
 
-(D) Divisions 4.1 (self-reactive), 4.2 (spontaneously combustible) (primary or subsidiary risk), and 4.3 (dangerous when wet) (liquids);
+(D) Divisions 4.1 (self-reactive and UN2555, UN2556, UN2557, or UN2907), 4.2 (spontaneously combustible) (primary or subsidiary risk), and 4.3 (dangerous when wet) (liquids);
 
 (E) Division 5.2 (organic peroxide) (*except* when contained in a Chemical or First aid kit (UN3316) or Polyester resin kit (UN3269) (Types D, E and F non-temperature controlled only));
 
@@ -78,8 +76,6 @@ Link to an amendment published at 89 FR 25477, Apr. 10, 2024.
 
 (3) The tables are as follows:
 
-Table 1 to Paragraph (f)—Maximum Net Capacity of Inner Packaging for Transportation on Passenger-Carrying Aircraft
-
 |     Maximum net quantity per package from Column 9a  <br/>of the § 172.101 table      |Maximum authorized net capacity of each inner packaging|                           |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------|
 |                     Glass, earthenware or fiber inner packagings                      |        Metal or plastic inner  <br/>packagings        |                           |
@@ -96,8 +92,6 @@ Table 1 to Paragraph (f)—Maximum Net Capacity of Inner Packaging for Transport
 |                      Greater than 25 kg, not greater than 200 kg                      |                         5 kg                          |          10 kg.           |
 |Class 9: UN1841, UN1931, UN2071, UN2216, UN2590, UN2969, UN3077, UN3152, UN3335, UN3432|       Glass or earthenware: 10 kg; Fiber: 50 kg       |          50 kg.           |
 
-Table 2 to Paragraph (f)—Maximum Net Capacity of Inner Packaging for Transportation on Cargo Aircraft
-
 |          Maximum net quantity per package from Column 9b of § 172.101 table           |Maximum authorized net capacity of each inner packaging|                               |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------|
 |                     Glass, earthenware or fiber inner packagings                      |           Metal or plastic inner packagings           |                               |
@@ -112,8 +106,6 @@ Table 2 to Paragraph (f)—Maximum Net Capacity of Inner Packaging for Transport
 |                      Greater than 15 kg, not greater than 50 kg                       |                        2.5 kg                         |             5 kg              |
 |                      Greater than 50 kg, not greater than 200 kg                      |                         5 kg                          |             10 kg             |
 |Class 9: UN1841, UN1931, UN2071, UN2216, UN2590, UN2969, UN3077, UN3152, UN3335, UN3432|    Glass or earthenware: 10 kg  <br/>Fiber: 50 kg     |             50 kg             |
-
-Table 3 to Paragraph (f)—Maximum Net Quantity of Each Inner and Outer Packaging for Materials Authorized for Transportation as Limited Quantity by Aircraft
 
 |            Hazard class or  <br/>division            |                   Maximum authorized net quantity of each inner packaging                    |                    Maximum authorized net quantity of each outer package                     |                              Notes                               |                                                                                                                                                                                                                                                                                                                                                                                                          |
 |------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

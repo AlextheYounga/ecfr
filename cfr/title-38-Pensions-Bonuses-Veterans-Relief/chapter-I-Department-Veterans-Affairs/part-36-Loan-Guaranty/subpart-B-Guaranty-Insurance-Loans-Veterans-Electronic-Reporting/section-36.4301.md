@@ -1,7 +1,5 @@
 ##### § 36.4301 Definitions. #####
 
-Link to an amendment published at 89 FR 25143, Apr. 10, 2024.
-
 Whenever used in 38 U.S.C. chapter 37 or subpart F of this part, unless the context otherwise requires, the terms defined in this section shall have the following meaning:
 
 *A period of more than 180 days.* For the purposes of sections 3707 and 3702(a)(2)(C) of title 38 U.S.C., the term a period of more than 180 days shall mean 181 or more calendar days of continuous active duty.
@@ -19,8 +17,6 @@ Whenever used in 38 U.S.C. chapter 37 or subpart F of this part, unless the cont
 (2) Lenders approved by the Department of Veterans Affairs pursuant to standards established by the Department of Veterans Affairs.
 
 (Authority: 38 U.S.C. 3702(d))
-
-*Compromise sale.* A sale to a third party for an amount less than is sufficient to repay the unpaid balance on the loan where the holder has agreed in advance to release the lien in exchange for the proceeds of such sale.
 
 *Condominium.* Unless otherwise provided by State law, a condominium is a form of ownership where the buyer receives title to a three dimensional air space containing the individual living unit together with an undivided interest or share in the ownership of common elements.
 
@@ -100,7 +96,7 @@ Whenever used in 38 U.S.C. chapter 37 or subpart F of this part, unless the cont
 
 *Lien.* Lien means any interest in, or power over, real or personal property, reserved by the vendor, or created by the parties or by operation of law, chiefly or solely for the purpose of assuring the payment of the purchase price, or a debt, and irrespective of the identity of the party in whom title to the property is vested, including but not limited to mortgages, deeds with a defeasance therein or collaterally, deeds of trust, security deeds, mechanics' liens, lease-purchase contracts, conditional sales contracts, consignments.
 
-*Liquidation sale.* Any judicial, contractual or statutory disposition of real property, under the terms of the loan instruments and applicable law, to liquidate a defaulted loan that is secured by such property. This includes a voluntary conveyance made to avoid such disposition of the obligation or of the security. This term also includes a compromise sale.
+*Liquidation sale.* Any judicial, contractual or statutory disposition of real property, under the terms of the loan instruments and applicable law, to liquidate a defaulted loan that is secured by such property. This includes a voluntary conveyance made to avoid such disposition of the obligation or of the security. This term also includes a short sale.
 
 (Authority: 38 U.S.C. 3732)
 
@@ -144,7 +140,7 @@ Whenever used in 38 U.S.C. chapter 37 or subpart F of this part, unless the cont
 
 *Repairs.* Any alteration of existing improved realty or equipment which is necessary or advisable for protective, safety or restorative purposes.
 
-*Repayment plan.* A repayment plan is a written executed agreement by and between the borrower and the holder to reinstate a loan that is 61 or more calendar days delinquent, by requiring the borrower to pay each month over a fixed period (minimum of three months duration) the normal monthly payments plus an agreed upon portion of the delinquency each month.
+*Repayment plan.* This is a documented agreement by and between the borrower and the holder to reinstate a loan that is 61 or more calendar days delinquent, by requiring the borrower to pay each month over a fixed period (minimum of three months duration) the normal monthly payments plus an agreed upon portion of the delinquency each month.
 
 *Repossession.* Repossession means recovery or acquisition of such physical control of property (pursuant to the provisions of the security instrument or as otherwise provided by law) as to make further legal or other action unnecessary in order to obtain actual possession of the property or to dispose of the same by sale or otherwise.
 
@@ -170,8 +166,10 @@ Whenever used in 38 U.S.C. chapter 37 or subpart F of this part, unless the cont
 
 (Authority: 38 U.S.C. 3714)
 
-*Special forbearance.* This is a written agreement executed by and between the holder and the borrower where the holder agrees to suspend all payments or accept reduced payments for one or more months, on a loan 61 or more calendar days delinquent, and the borrower agrees to pay the total delinquency at the end of the specified period or enter into a repayment plan.
+*Short sale.* A sale to a third party for an amount less than is sufficient to repay the unpaid balance on the loan where the holder has agreed in advance to release the lien in exchange for the proceeds of such sale.
+
+*Special forbearance.* This is a documented agreement by and between the holder and the borrower where the holder agrees to suspend all payments or accept reduced payments for one or more months, on a loan 61 or more calendar days delinquent, and the borrower agrees to pay the total delinquency at the end of the specified period or enter into a repayment plan.
 
 *Total indebtedness:* For purposes of 38 U.S.C. 3732(c), the veteran's “total indebtedness” shall be the sum of: the unpaid principal on the loan as of the date of the liquidation sale, accrued unpaid interest permitted by § 36.4324(a) of this part, and allowable advances/other charges permitted to be included in the guaranty claim by § 36.4314 of this part.
 
-(Authority: 38 U.S.C. 3703(c)(1))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010; 83 FR 64468, Dec. 17, 2018]
+(Authority: 38 U.S.C. 3703(c)(1))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010; 83 FR 64468, Dec. 17, 2018; 89 FR 25143, Apr. 10, 2024]

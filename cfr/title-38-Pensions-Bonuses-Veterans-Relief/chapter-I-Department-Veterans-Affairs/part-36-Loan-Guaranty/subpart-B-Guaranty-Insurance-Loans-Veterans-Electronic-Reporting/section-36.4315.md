@@ -1,8 +1,6 @@
 ##### § 36.4315 Loan modifications. #####
 
-Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
-
-(a) The terms of any guaranteed loan may be modified by written agreement between the holder and the borrower, without prior approval of the Secretary, if all of the following conditions are met:
+(a) The terms of any guaranteed loan may be modified by a documented agreement between the holder and the borrower, without prior approval of the Secretary, if all of the following conditions are met:
 
 (1) The loan is in default;
 
@@ -50,4 +48,4 @@ Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
 
 (c) This section does not create a right of a borrower to have a loan modified, but simply authorizes the loan holder to modify a loan in certain situations without the prior approval of the Secretary.
 
-[76 FR 6558, Feb. 7, 2011, as amended at 76 FR 78829, Dec. 20, 2011]
+[76 FR 6558, Feb. 7, 2011, as amended at 76 FR 78829, Dec. 20, 2011; 89 FR 25144, Apr. 10, 2024]

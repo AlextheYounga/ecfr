@@ -1,5 +1,7 @@
 ##### § 483.35 Nursing services. #####
 
+Link to an amendment published at 89 FR 40996, May 10, 2024.
+
 The facility must have sufficient nursing staff with the appropriate competencies and skills sets to provide nursing and related services to assure resident safety and attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident, as determined by resident assessments and individual plans of care and considering the number, acuity and diagnoses of the facility's resident population in accordance with the facility assessment required at § 483.70(e).
 
 (a) *Sufficient staff.* (1) The facility must provide services by sufficient numbers of each of the following types of personnel on a 24-hour basis to provide nursing care to all residents in accordance with resident care plans:

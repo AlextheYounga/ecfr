@@ -1,5 +1,7 @@
 ##### § 457.10 Definitions and use of terms. #####
 
+Link to an amendment published at 89 FR 41284, May 10, 2024.
+
 For purposes of this part the following definitions apply:
 
 *Actuarially sound principles* means generally accepted actuarial principles and practices that are applied to determine aggregate utilization patterns, are appropriate for the population and services to be covered, and have been certified by actuaries who meet the qualification standards established by the Actuarial Standards Board.

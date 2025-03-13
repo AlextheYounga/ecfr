@@ -1,5 +1,7 @@
 ##### § 441.540 Person-centered service plan. #####
 
+Link to an amendment published at 89 FR 40870, May 10, 2024.
+
 (a) *Person-centered planning process.* The person-centered planning process is driven by the individual. The process—
 
 (1) Includes people chosen by the individual.

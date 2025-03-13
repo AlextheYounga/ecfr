@@ -1,5 +1,7 @@
 ##### § 1356.60 Fiscal requirements (title IV-E). #####
 
+Link to an amendment published at 89 FR 40417, May 10, 2024.
+
 (a) *Federal matching funds for foster care maintenance and adoption assistance payments.* (1) Federal financial participation (FFP) is available to title IV-E agencies under an approved title IV-E plan for allowable costs in expenditures for:
 
 (i) Foster care maintenance payments as defined in section 475(4) of the Act, made in accordance with §§ 1356.20 through 1356.30, section 472 of the Act, and, for a Tribal title IV-E agency, section 479B of the Act; and

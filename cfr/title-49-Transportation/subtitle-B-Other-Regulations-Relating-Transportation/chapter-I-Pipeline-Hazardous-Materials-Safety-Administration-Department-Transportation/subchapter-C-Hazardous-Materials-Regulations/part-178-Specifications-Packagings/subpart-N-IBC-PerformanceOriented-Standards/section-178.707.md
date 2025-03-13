@@ -1,7 +1,5 @@
 ##### § 178.707 Standards for composite IBCs. #####
 
-Link to an amendment published at 89 FR 25490, Apr. 10, 2024.
-
 (a) The provisions in this section apply to composite IBCs intended to contain solids and liquids. To complete the marking codes listed below, the letter “Z” must be replaced by a capital letter in accordance with § 178.702(a)(2) to indicate the material used for the outer packaging. Composite IBC types are designated:
 
 (1) 11HZ1 Composite IBCs with a rigid plastic inner receptacle for solids loaded or discharged by gravity.
@@ -36,7 +34,7 @@ Link to an amendment published at 89 FR 25490, Apr. 10, 2024.
 
 (ii) Additives may be included in the composition of the plastic material of the inner receptacle to improve resistance to aging, provided they do not adversely affect the physical or chemical properties of the material.
 
-(iii) No used material other than production residues or regrind from the same manufacturing process may be used in the manufacture of inner receptacles.
+(iii) No used material, other than production residues or regrind from the same manufacturing process, may be used in the manufacture of inner receptacles unless approved by the Associate Administrator.
 
 (iv) Composite IBCs intended for the transportation of liquids must be capable of releasing a sufficient amount of vapor to prevent the body of the IBC from rupturing if it is subjected to an internal pressure in excess of that for which it was hydraulically tested. This may be achieved by spring-loaded or non-reclosing pressure relief devices or by other means of construction.
 
@@ -78,4 +76,4 @@ Link to an amendment published at 89 FR 25490, Apr. 10, 2024.
 
 (d) Composite IBCs may not have a volumetric capacity greater than 3,000 L (793 gallons) or less than 450 L (119 gallons).
 
-[Amdt. 178-103, 59 FR 38068, July 26, 1994, as amended by Amdt. 178-119, 62 FR 24743, May 6, 1997; 66 FR 45387, Aug. 28, 2001; 67 FR 61016, Sept. 27, 2002; 68 FR 75758, Dec. 31, 2003; 69 FR 54046, Sept. 7, 2004; 75 FR 5396, Feb. 2, 2010]
+[Amdt. 178-103, 59 FR 38068, July 26, 1994, as amended by Amdt. 178-119, 62 FR 24743, May 6, 1997; 66 FR 45387, Aug. 28, 2001; 67 FR 61016, Sept. 27, 2002; 68 FR 75758, Dec. 31, 2003; 69 FR 54046, Sept. 7, 2004; 75 FR 5396, Feb. 2, 2010; 89 FR 25490, Apr. 10, 2024]

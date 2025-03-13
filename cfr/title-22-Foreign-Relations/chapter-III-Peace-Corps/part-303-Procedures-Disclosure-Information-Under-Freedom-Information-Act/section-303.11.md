@@ -1,6 +1,6 @@
 ##### § 303.11 Denials. #####
 
-Link to an amendment published at 89 FR 25525, Apr. 11, 2024.Link to an amendment published at 89 FR 25526, Apr. 11, 2024.
+Link to an amendment published at 89 FR 25525, Apr. 11, 2024.Link to an amendment published at 89 FR 25526, Apr. 11, 2024.Link to a correction of the above amendment published at 89 FR 40372, May 10, 2024.
 
 (a) A denial of a written request for a record that complies with the requirements of § 303.8 shall be in writing and shall include, as applicable:
 

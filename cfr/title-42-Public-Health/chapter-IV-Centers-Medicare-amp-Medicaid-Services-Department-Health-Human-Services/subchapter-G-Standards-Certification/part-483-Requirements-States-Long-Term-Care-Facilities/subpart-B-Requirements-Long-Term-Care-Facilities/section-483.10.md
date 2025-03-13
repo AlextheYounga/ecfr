@@ -1,5 +1,7 @@
 ##### § 483.10 Resident rights. #####
 
+Link to an amendment published at 89 FR 40996, May 10, 2024.
+
 (a) *Residents rights.* The resident has a right to a dignified existence, self-determination, and communication with and access to persons and services inside and outside the facility, including those specified in this section.
 
 (1) A facility must treat each resident with respect and dignity and care for each resident in a manner and in an environment that promotes maintenance or enhancement of his or her quality of life, recognizing each resident's individuality. The facility must protect and promote the rights of the resident.
