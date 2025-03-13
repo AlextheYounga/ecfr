@@ -1,10 +1,8 @@
 ##### § 102-42.20 What is the typical disposition process for gifts and decorations that employees are not authorized to retain? #####
 
-Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
+(a) *Non-monetary gifts or decorations.* When an employee receives a non-monetary gift above the minimal value or a decoration that the employee is not authorized to retain:
 
-(a) *Non-monetary gifts or decorations.* When an employee receives a non-monetary gift above the minimal value or a decoration that he/she is not authorized to retain:
-
-(1) The employee must report the gift or decoration to his/her employing agency within 60 days after accepting it.
+(1) The employee must report the gift or decoration to their employing agency within 60 days after accepting it.
 
 (2) The employing agency determines if it will keep the gift or decoration for official use.
 
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
 
 (b) *Monetary gifts.* When an employee receives a monetary gift above the minimal value:
 
-(1) The employee must report the gift to his/her employing agency within 60 days after accepting it.
+(1) The employee must report the gift to their employing agency within 60 days after accepting it.
 
 (2) The employing agency must:
 
@@ -26,4 +24,4 @@ Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
 
 (ii) Deposit a monetary gift that has no historic or numismatic value with the Department of the Treasury.
 
-[65 FR 45539, July 24, 2000, as amended at 71 FR 28778, May 18, 2006]
+[65 FR 45539, July 24, 2000, as amended at 71 FR 28778, May 18, 2006; 89 FR 67867, Aug. 22, 2024]

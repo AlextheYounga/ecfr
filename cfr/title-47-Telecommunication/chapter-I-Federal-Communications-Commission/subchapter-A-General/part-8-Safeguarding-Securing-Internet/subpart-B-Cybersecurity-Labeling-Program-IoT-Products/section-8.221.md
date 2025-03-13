@@ -1,5 +1,7 @@
 ##### § 8.221 Requirements for the Lead Administrator. #####
 
+Link to an amendment published at 89 FR 84096, Oct. 21, 2024.
+
 (a) *Establishing a Lead Administrator.* If more than one qualified entity is selected by the Commission to be a CLA, the Commission will select a Lead Administrator. The Lead Administrator shall:
 
 (1) Interface with the Commission on behalf of the CLAs, including but not limited to submitting to the Bureau all complaints alleging a product bearing the FCC IoT Label does not meet the requirements of the Commission's labeling program;

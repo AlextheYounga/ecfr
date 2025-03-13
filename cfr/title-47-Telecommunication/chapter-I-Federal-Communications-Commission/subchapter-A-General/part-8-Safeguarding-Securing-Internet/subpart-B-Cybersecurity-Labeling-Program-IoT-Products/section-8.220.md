@@ -1,5 +1,7 @@
 ##### § 8.220 Requirements for CLAs. #####
 
+Link to an amendment published at 89 FR 84095, Oct. 21, 2024.Link to an amendment published at 89 FR 84096, Oct. 21, 2024.
+
 (a) *In general.* CLAs designated by the Commission, or designated by another authority recognized by the Commission, shall comply with the requirements of this section. Each entity seeking authority to act as a CLA must file an application with the Commission for consideration by PSHSB, which includes a description of its organization structure, an explanation of how it will avoid personal and organizational conflict when processing applications, a description of its processes for evaluating applications seeking authority to use the FCC IoT Label, and a demonstration of expertise that will be necessary to effectively serve as a CLA including, but not limited to, the criteria in paragraph (c) of this section.
 
 (b) *Methodology for reviewing applications.* (1) A CLA's methodology for reviewing applications shall be based on type testing as identified in ISO/IEC 17065 (incorporated by reference, see § 8.201).

@@ -10,4 +10,4 @@
 
 (d) *Enforcement periods:* This section will be enforced from 8:30 a.m. to 11 a.m. on October 19, 2024, or in the case the demolition cannot take place on that date, then it will be enforced from 8:30 a.m. to 11 a.m. on an alternate date of November 9, 2024.
 
-[USCG-2024-0896, 89 FR 83785, Oct. 18, 2024]
+[USCG-2024-0896, 89 FR 83785, Oct. 18, 2024]Effective Date Note:By USCG-2024-0896, 89 FR 83785, Oct. 18, 2024, § 165.T08-0896 was added, effective Oct. 19, 2024 through Nov. 9, 2024.

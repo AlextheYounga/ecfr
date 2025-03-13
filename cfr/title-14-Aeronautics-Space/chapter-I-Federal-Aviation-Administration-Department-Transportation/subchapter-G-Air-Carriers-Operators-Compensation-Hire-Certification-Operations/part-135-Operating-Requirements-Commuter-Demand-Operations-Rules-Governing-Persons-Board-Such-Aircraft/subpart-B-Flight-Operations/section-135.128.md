@@ -1,10 +1,8 @@
 ##### § 135.128 Use of safety belts and child restraint systems. #####
 
-Link to an amendment published at 89 FR 67850, Aug. 22, 2024.
-
 (a) Except as provided in this paragraph, each person on board an aircraft operated under this part shall occupy an approved seat or berth with a separate safety belt properly secured about him or her during movement on the surface, takeoff, and landing. For seaplane and float equipped rotorcraft operations during movement on the surface, the person pushing off the seaplane or rotorcraft from the dock and the person mooring the seaplane or rotorcraft at the dock are excepted from the preceding seating and safety belt requirements. A safety belt provided for the occupant of a seat may not be used by more than one person who has reached his or her second birthday. Notwithstanding the preceding requirements, a child may:
 
-(1) Be held by an adult who is occupying an approved seat or berth, provided the child has not reached his or her second birthday and the child does not occupy or use any restraining device; or
+(1) Be held by an adult, except as outlined in § 91.108(j) of this chapter, who is occupying an approved seat or berth, provided the child has not reached his or her second birthday and the child does not occupy or use any restraining device; or
 
 (2) Notwithstanding any other requirement of this chapter, occupy an approved child restraint system furnished by the certificate holder or one of the persons described in paragraph (a)(2)(i) of this section, provided:
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 67850, Aug. 22, 2024.
 
 (3) This section does not prohibit the certificate holder from providing child restraint systems authorized by this or, consistent with safe operating practices, determining the most appropriate passenger seat location for the child restraint system.
 
-[Doc. No. 26142, 57 FR 42676, Sept. 15, 1992, as amended by Amdt. 135-62, 61 FR 28422, June 4, 1996; Amdt. 135-100, 70 FR 50907, Aug. 26, 2005; Amdt. 135-106, 71 FR 40010, July 14, 2006; 71 FR 59374, Oct. 10, 2006; Amdt. 135-130, 79 FR 28812, May 20, 2014]
+[Doc. No. 26142, 57 FR 42676, Sept. 15, 1992, as amended by Amdt. 135-62, 61 FR 28422, June 4, 1996; Amdt. 135-100, 70 FR 50907, Aug. 26, 2005; Amdt. 135-106, 71 FR 40010, July 14, 2006; 71 FR 59374, Oct. 10, 2006; Amdt. 135-130, 79 FR 28812, May 20, 2014; Docket No. FAA-2023-2250, Amdt. No. 135-146, 89 FR 67850, Aug. 22, 2024]

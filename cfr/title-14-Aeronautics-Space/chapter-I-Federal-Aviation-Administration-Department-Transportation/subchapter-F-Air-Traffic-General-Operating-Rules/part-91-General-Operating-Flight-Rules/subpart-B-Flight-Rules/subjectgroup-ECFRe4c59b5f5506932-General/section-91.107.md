@@ -1,7 +1,5 @@
 ##### § 91.107 Use of safety belts, shoulder harnesses, and child restraint systems. #####
 
-Link to an amendment published at 89 FR 67849, Aug. 22, 2024.
-
 (a) Unless otherwise authorized by the Administrator—
 
 (1) No pilot may take off a U.S.-registered civil aircraft (except a free balloon that incorporates a basket or gondola, or an airship type certificated before November 2, 1987) unless the pilot in command of that aircraft ensures that each person on board is briefed on how to fasten and unfasten that person's safety belt and, if installed, shoulder harness.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 67849, Aug. 22, 2024.
 
 (3) Except as provided in this paragraph, each person on board a U.S.-registered civil aircraft (except a free balloon that incorporates a basket or gondola or an airship type certificated before November 2, 1987) must occupy an approved seat or berth with a safety belt and, if installed, shoulder harness, properly secured about him or her during movement on the surface, takeoff, and landing. For seaplane and float equipped rotorcraft operations during movement on the surface, the person pushing off the seaplane or rotorcraft from the dock and the person mooring the seaplane or rotorcraft at the dock are excepted from the preceding seating and safety belt requirements. Notwithstanding the preceding requirements of this paragraph, a person may:
 
-(i) Be held by an adult who is occupying an approved seat or berth, provided that the person being held has not reached his or her second birthday and does not occupy or use any restraining device;
+(i) Be held by an adult, except as outlined in § 91.108(j), who is occupying an approved seat or berth, provided that the person being held has not reached his or her second birthday and does not occupy or use any restraining device;
 
 (ii) Use the floor of the aircraft as a seat, provided that the person is on board for the purpose of engaging in sport parachuting; or
 
@@ -48,4 +46,4 @@ Link to an amendment published at 89 FR 67849, Aug. 22, 2024.
 
 (b) Unless otherwise stated, this section does not apply to operations conducted under part 121, 125, or 135 of this chapter. Paragraph (a)(3) of this section does not apply to persons subject to § 91.105.
 
-[Doc. No. 26142, 57 FR 42671, Sept. 15, 1992, as amended by Amdt. 91-250, 61 FR 28421, June 4, 1996; Amdt. 91-289, 70 FR 50906, Aug. 26, 2005; Amdt. 91-292, 71 FR 40009, July 14, 2006; Amdt. 91-317, 75 FR 48857, Aug. 12, 2010; Amdt. 91-332, 79 FR 28812, May 20, 2014]
+[Doc. No. 26142, 57 FR 42671, Sept. 15, 1992, as amended by Amdt. 91-250, 61 FR 28421, June 4, 1996; Amdt. 91-289, 70 FR 50906, Aug. 26, 2005; Amdt. 91-292, 71 FR 40009, July 14, 2006; Amdt. 91-317, 75 FR 48857, Aug. 12, 2010; Amdt. 91-332, 79 FR 28812, May 20, 2014; Docket No. FAA-2023-2250, Amdt. No. 91-376, 89 FR 67849, Aug. 22, 2024]

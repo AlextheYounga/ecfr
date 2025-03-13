@@ -1,7 +1,5 @@
 ##### § 102-5.30 What definitions apply to this part? #####
 
-Link to an amendment published at 89 FR 67866, Aug. 22, 2024.
-
 The following definitions apply to this part:
 
 *Agency head* means the highest official of a Federal agency.
@@ -44,12 +42,14 @@ The following definitions apply to this part:
 
 (11) The United States Postal Service.
 
-*Field work* means official work requiring the employee's presence at various locations other than his/her regular place of work. (Multiple stops (itinerant-type travel) within the accepted local commuting area, limited use beyond the local commuting area, or transportation to remote locations that are only accessible by Government-provided transportation are examples of field work.)
+*Field work* means official work requiring the employee's presence at various locations other than their regular place of work. (Multiple stops (itinerant-type travel) within the accepted local commuting area, limited use beyond the local commuting area, or transportation to remote locations that are only accessible by Government-provided transportation are examples of field work.)
 
-*Home* means the primary place where an employee resides and from which the employee commutes to his/her place of work.
+*Home* means the primary place where an employee resides and from which the employee commutes to their place of work.
 
-*Home-to-work transportation* means the use of a Government passenger carrier to transport an employee between his/her home and place of work.
+*Home-to-work transportation* means the use of a Government passenger carrier to transport an employee between their home and place of work.
 
 *Passenger carrier* means a motor vehicle, aircraft, boat, ship, or other similar means of transportation that is owned (including those that have come into the possession of the Government by forfeiture or donation), leased, or rented (non-TDY) by the United States Government.
 
-*Work* means any place within the accepted commuting area, as determined by the Federal agency for the locality involved, where an employee performs his/her official duties.
+*Work* means any place within the accepted commuting area, as determined by the Federal agency for the locality involved, where an employee performs their official duties.
+
+[65 FR 54966, Sept. 12, 2000, as amended at 89 FR 67866, Aug. 22, 2024]

@@ -1,7 +1,5 @@
 ##### § 135.117 Briefing of passengers before flight. #####
 
-Link to an amendment published at 89 FR 67850, Aug. 22, 2024.
-
 (a) Before each takeoff each pilot in command of an aircraft carrying passengers shall ensure that all passengers have been orally briefed on—
 
 (1) *Smoking.* Each passenger shall be briefed on when, where, and under what conditions smoking is prohibited (including, but not limited to, any applicable requirements of part 252 of this title). This briefing shall include a statement that the Federal Aviation Regulations require passenger compliance with the lighted passenger information signs (if such signs are required), posted placards, areas designated for safety purposes as no smoking areas, and crewmember instructions with regard to these items. The briefing shall also include a statement (if the aircraft is equipped with a lavatory) that Federal law prohibits: tampering with, disabling, or destroying any smoke detector installed in an aircraft lavatory; smoking in lavatories; and, when applicable, smoking in passenger compartments.
@@ -40,4 +38,6 @@ Link to an amendment published at 89 FR 67850, Aug. 22, 2024.
 
 (f) The briefing required by paragraph (a) may be delivered by means of an approved recording playback device that is audible to each passenger under normal noise levels.
 
-[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-9, 51 FR 40709, Nov. 7, 1986; Amdt. 135-25, 53 FR 12362, Apr. 13, 1988; Amdt. 135-44, 57 FR 42675, Sept. 15, 1992; 57 FR 43776, Sept. 22, 1992; 69 FR 39294, June 29, 2004; Amdt. 135-129, 79 FR 9973, Feb. 21, 2014]
+(g) If any passengers on board a flight conducted under this part are secured with a supplemental restraint system, the pilot in command of that flight must ensure those passengers are briefed in accordance with § 91.108(g) of this chapter.
+
+[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-9, 51 FR 40709, Nov. 7, 1986; Amdt. 135-25, 53 FR 12362, Apr. 13, 1988; Amdt. 135-44, 57 FR 42675, Sept. 15, 1992; 57 FR 43776, Sept. 22, 1992; 69 FR 39294, June 29, 2004; Amdt. 135-129, 79 FR 9973, Feb. 21, 2014; Docket No. FAA-2023-2250, Amdt. No. 135-146, 89 FR 67850, Aug. 22, 2024]

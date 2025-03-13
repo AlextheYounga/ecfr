@@ -1,17 +1,17 @@
 ##### § 301-73.2 What are our responsibilities as participants in the Federal travel management program? #####
 
-Link to an amendment published at 89 FR 77027, Sept. 20, 2024.
-
 As a participant in the Federal travel management program, you must—
 
-(a) Designate an authorized representative to administer the program including leading your agency's migration of ETS;
+(a) Designate an authorized representative to administer the program;
 
-(b) Ensure that you have internal policies and procedures in place to govern use of the program including a plan and timeline to implement ETS no later than December 31, 2004, with agency-wide migration to ETS completed no later than September 30, 2006;
+(b) Ensure that you have internal policies and procedures in place to govern use of the program;
 
-(c) Establish a plan that will measure direct and indirect cost savings and management efficiencies through the use of ETS once deployed. This plan must include your migration plan and schedule which must be submitted by March 31, 2004 to the E-Gov Travel Program Management Office (PMO) (*see* § 301-73.101);
+(c) Require employees in your agency to use ETS in lieu of TMS (unless an exception has been granted in accordance with § 301-50.4 of this chapter or § 301-73.102 or § 301-73.104); and
 
-(d) Require employees to use ETS in lieu of your TMS as soon as it becomes available in your agency (unless an exception has been granted in accordance with § 301-73.102 or § 301-73.104), but no later than September 30, 2006; and
+(d) Ensure that any agency-contracted TMS complements and supports ETS and data exchange in an efficient and cost effective manner.
 
-(e) Ensure that any agency-contracted travel agency services (TMS) complement and support ETS in an efficient and cost effective manner.
+Note 1 to § 301-73.2:
 
-[FTR Amdt. 2003-07, 68 FR 71030, Dec. 22, 2003, as amended by FTR Amdt. 2007-05, 72 FR 61540, Oct. 31, 2007]
+Your agency is responsible for providing the funds and personnel resources required to support ETS transition and data exchange, and for establishing interfaces between the ETS standard data output and applicable business systems (*e.g.,* financial, human resources, etc.).
+
+[FTR Case 2023-03, 89 FR 77027, Sept. 20, 2024]

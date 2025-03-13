@@ -1,5 +1,7 @@
 ##### § 73.406 Notification. #####
 
+Link to an amendment published at 89 FR 84104, Oct. 21, 2024.
+
 (a) Hybrid AM and FM licensees must electronically file a digital notification to the Commission in Washington, DC, within 10 days of commencing IBOC digital operation.
 
 (1) All-digital licensees must file a digital notification within 10 days of the following changes:

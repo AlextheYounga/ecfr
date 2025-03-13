@@ -1,7 +1,5 @@
 ##### § 300-3.1 What do the following terms mean? #####
 
-Link to an amendment published at 89 FR 77026, Sept. 20, 2024.
-
 *Accompanied baggage*—Government property and personal property of the traveler necessary for official travel.
 
 *Actual expense*—Payment of authorized actual expenses incurred, up to the limit prescribed by the Administrator of GSA or agency, as appropriate. Entitlement to reimbursement is contingent upon entitlement to per diem, and is subject to the same definitions and rules governing per diem.
@@ -102,7 +100,7 @@ Note to definition of “Domestic partnership”:
 
 The definition of “Domestic partnership” requires that the partners “share responsibility for a significant measure of each other's financial obligations.” This criterion requires only that there be financial interdependence between the partners and should not be interpreted to exclude partnerships in which one partner stays at home while the other is the primary breadwinner.
 
-*E-Gov Travel Service (ETS)*—The Government-contracted, end-to-end travel management service that automates and consolidates the Federal travel process in a self-service Web-centric environment, covering all aspects of official travel, including travel planning, authorization, reservations, ticketing, expense reimbursement, and travel management reporting. The eTS provides the services of a Federal travel management program as specified in § 301-73.1(a), (b), and (e) of this title.
+*E-Gov Travel Service (ETS)*—The Government-contracted, end-to-end travel management service that automates and consolidates the Federal travel process in a self-service environment, covering all aspects of official travel, including travel planning, authorization, reservations, ticketing, expense reimbursement, and travel management reporting. The ETS provides the services of a Federal travel management program as specified in § 301-73.1(a), (b), and (e) of this title.
 
 *Employee with a disability* (also see *Special Needs*)—
 
@@ -273,6 +271,8 @@ Certain jurisdictions may have limits or prohibit the operation or use of innova
 *Official station*—An area defined by the agency that includes the location where the employee regularly performs their duties or an invitational traveler's home or regular place of business (see § 301-1.2). The area may be a mileage radius around a particular point, a geographic boundary, or any other definite domain, provided no part of the area is more than 50 miles from where the employee regularly performs their duties or from an invitational traveler's home or regular place of business. If the employee's work involves recurring travel or varies on a recurring basis, the location where the work activities of the employee's position of record are based is considered the regular place of work.
 
 *Official travel*—Travel under an official travel authorization from an employee's official station or other authorized point of departure to a temporary duty location and return from a temporary duty location, between two temporary duty locations, or relocation at the direction of a Federal agency.
+
+*Online booking tool (OBT)*—An internet-based system that permits travelers to make reservations for transportation (*e.g.,* air, rail, and car rental) and lodging. ETS and agency Travel Management Service providers incorporate an OBT.
 
 *Other than coach class*—Any class of accommodations above coach class.
 

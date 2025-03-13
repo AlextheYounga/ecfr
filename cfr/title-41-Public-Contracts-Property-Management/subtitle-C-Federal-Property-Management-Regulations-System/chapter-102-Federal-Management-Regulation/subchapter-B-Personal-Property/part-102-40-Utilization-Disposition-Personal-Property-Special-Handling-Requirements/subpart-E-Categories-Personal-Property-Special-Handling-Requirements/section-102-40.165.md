@@ -1,7 +1,5 @@
 ##### § 102-40.165 How do we handle drugs, biologicals, and reagents other than controlled substances? #####
 
-Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
-
 (a) Drugs, biologicals, and reagents other than controlled substances may be transferred to another Federal agency for official purposes under procedures specified in part 102-36 of this subchapter. For donation of drugs, biologicals, or reagents other than controlled substances, follow the procedures in part 102-37 of this subchapter, and paragraph (c) of this section.
 
 (b) Drugs, biologicals, and reagents other than controlled substances must be clearly identified when they are unfit for human use. As a general rule, you must destroy drugs, biologicals, and reagents unfit for human use, with destruction performed by an agency employee and witnessed and certified by two additional representatives of your agency. Similarly, destruction of this property held by a SASP or donee must be destroyed by a SASP employee and witnessed by two additional SASP employees. Destruction shall be coordinated with local air and water pollution control authorities, when required. However, you may report such property to GSA for subsequent transfer or donation for the purpose of animal experimental use when the property is unfit due to expired shelf life. The following certification, or an equivalent certification, must be used and retained by the Federal agency or SASP to document the destruction of drugs, biologicals, and reagents:
@@ -16,10 +14,10 @@ Certification of destruction of: \_\_\_Manner in which destruction was performed
 
 (1) When selling drugs, biologicals, and reagents other than controlled substances, the following condition of sale (or an equivalent condition of sale) must be used:
 
-The bidder shall complete, sign, and return with his/her bid the certification as contained in this invitation. No award will be made or sale consummated until after this agency has determined that the bidder is legally licensed to engage in the manufacture, sale, or distribution of drugs.
+The bidder shall complete, sign, and return with their bid the certification as contained in this invitation. No award will be made or sale consummated until after this agency has determined that the bidder is legally licensed to engage in the manufacture, sale, or distribution of drugs.
 
-(2) The following certification, or an equivalent certification, must be made a part of the invitation for bids (and contract), to be completed and signed by the bidder, and returned with the bid with a copy of his/her license. Failure to sign the certification may result in the bid being rejected as nonresponsive.
+(2) The following certification, or an equivalent certification, must be made a part of the invitation for bids (and contract), to be completed and signed by the bidder, and returned with the bid with a copy of the bidder's license. Failure to sign the certification may result in the bid being rejected as nonresponsive.
 
-The undersigned bidder certifies that he/she is legally licensed to engage in the manufacture, sale, or distribution of drugs, and proof of his/her license to deal in such materials is furnished with this bid. This certification is made in accordance with and subject to the penalties of Title 18, Section 1001, United States Code, Crime and Criminal procedures.
+The undersigned bidder certifies that they are legally licensed to engage in the manufacture, sale, or distribution of drugs, and proof of the bidder's license to deal in such materials is furnished with this bid. This certification is made in accordance with and subject to the penalties of Title 18, Section 1001, United States Code, Crime and Criminal procedures.
 
-Name of bidder (print or type)Signature of bidderAddress of bidder (print or type)City, State, Zip code
+Name of bidder (print or type)Signature of bidderAddress of bidder (print or type)City, State, Zip code[80 FR 7353, Feb. 10, 2015, as amended at 89 FR 67867, Aug. 22, 2024]

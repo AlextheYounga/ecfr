@@ -1,7 +1,5 @@
 ##### § 102-40.170 How do we handle electronic products? #####
 
-Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
-
 (a) Additional guidance regarding the disposal and reporting of Federal electronic products is found under FMR part 102-36 (41 CFR part 102-36).
 
 (b) Excess electronic products, certified and noncertified, meeting radiation safety performance standards or electronic products which are not required to meet such performance standards must be reported to GSA for transfer to Federal agencies in accordance with part 102-36 of this subchapter and may be donated or sold in accordance with parts 102-37 and 102-38 of this subchapter, respectively.
@@ -24,10 +22,12 @@ Purchasers are warned that the item purchased herewith may not be in compliance 
 
 (g) When donating or selling electronic products, the sales terms and sales documentation, or donation document, must include the following certification, or an equivalent certification, which must be signed by the donee or successful bidder:
 
-It is hereby certified that the undersigned purchaser or donee will comply with all the applicable Federal, state, and local laws, ordinances and regulations with respect to the care, handling, storage, disposal, and shipment, resale, export, or other use of the electronic products, hereby purchased or donated, and that he/she is a user of, or dealer in, said products. This certification is made in accordance with and subject to the penalties of Title 18, Section 1001, the United States Code, Crime and Criminal Procedures.
+It is hereby certified that the undersigned purchaser or donee will comply with all the applicable Federal, state, and local laws, ordinances and regulations with respect to the care, handling, storage, disposal, and shipment, resale, export, or other use of the electronic products, hereby purchased or donated, and that that the purchaser or donee is a user of, or dealer in, said products. This certification is made in accordance with and subject to the penalties of Title 18, Section 1001, the United States Code, Crime and Criminal Procedures.
 
 When recycling electronic products, purchaser or donee should use any national standards, best management practices, or existing certification programs for recyclers in addition to Federal, state, and local laws, ordinances and regulations. In the absence of national standards, best management practices, or a national certification program for recyclers, the purchaser/donee should use “EPA's Guidelines for Materials Management” found at *http://www.epa.gov/epawaste/index.htm*
 
 Name of purchaser or donee (print or type)Signature of purchaser or donee
 
 (h) Additionally, noncertified and certified electronic products must be abandoned under the provisions of § 102-40.125.
+
+[80 FR 7353, Feb. 10, 2015, as amended at 89 FR 67867, Aug. 22, 2024]

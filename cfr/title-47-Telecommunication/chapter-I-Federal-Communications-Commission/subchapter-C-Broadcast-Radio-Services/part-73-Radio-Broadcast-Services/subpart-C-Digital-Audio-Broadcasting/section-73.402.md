@@ -1,5 +1,7 @@
 ##### § 73.402 Definitions. #####
 
+Link to an amendment published at 89 FR 84104, Oct. 21, 2024.
+
 (a) *DAB.* Digital audio broadcast stations are those radio stations licensed by the Commission and use the In-band On-channel (“IBOC”) system for broadcasting purposes.
 
 (b) *In Band On Channel DAB System.* A technical system in which a station's digital signal is broadcast in the same spectrum and on the same channel as its analog signal.

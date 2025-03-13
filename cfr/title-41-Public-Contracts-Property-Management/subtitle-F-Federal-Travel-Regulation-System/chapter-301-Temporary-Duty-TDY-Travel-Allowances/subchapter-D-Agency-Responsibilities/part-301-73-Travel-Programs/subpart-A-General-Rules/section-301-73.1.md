@@ -1,7 +1,5 @@
 ##### § 301-73.1 What does the Federal travel management program include? #####
 
-Link to an amendment published at 89 FR 77027, Sept. 20, 2024.
-
 The Federal travel management program includes—
 
 (a) A travel authorization and claim system that implements the related requirements of the Federal Travel Regulation. (*See* §§ 301-2.1 and 301-52.3 and part 301-71 of this chapter for those requirements);
@@ -12,10 +10,10 @@ The Federal travel management program includes—
 
 (d) Contracts and similar arrangements, with transportation and lodging providers (e.g., Government-contract air carriers, rental car companies, trains, hotels (e.g., FedRooms® properties), etc.) that give preferential rates and other benefits to Federal travelers on official business; and
 
-(e) A Travel Management Reporting System that covers financial and other travel characteristics required by the biennial Travel Survey (*see* §§ 300-70.1 through 300-70.4 of this title).
+(e) A Travel Management Reporting System that covers financial and other travel characteristics required by the Agency Payments for Employee Travel, Transportation, and Relocation annual report (see §§ 300-70.1 through 300-70.4 of this title).
 
 Note to § 301-73.1:
 
 The E-Gov Travel Service (ETS) fulfills the requirements of paragraphs (a), (b), and (e) of this section.
 
-[FTR Amdt. 2003-07, 68 FR 71030, Dec. 22, 2003, as amended by FTR Amdt. 2007-05, 72 FR 61540, Oct. 31, 2007; 85 FR 39849, July 2, 2020]
+[FTR Amdt. 2003-07, 68 FR 71030, Dec. 22, 2003, as amended by FTR Amdt. 2007-05, 72 FR 61540, Oct. 31, 2007; 85 FR 39849, July 2, 2020; FTR Case 2023-03, 89 FR 77027, Sept. 20, 2024]

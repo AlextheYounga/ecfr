@@ -1,7 +1,5 @@
 ##### § 102-36.40 What definitions apply to this part? #####
 
-Link to an amendment published at 89 FR 67866, Aug. 22, 2024.
-
 The following definitions apply to this part:
 
 *Commerce Control List Items (CCLIs)* are dual use (commercial/military) items that are subject to export control by the Bureau of Export Administration, Department of Commerce. These items have been identified in the U.S. Export Administration Regulations (15 CFR part 774) as export controlled for reasons of national security, crime control, technology transfer, and scarcity of materials.
@@ -26,7 +24,7 @@ The following definitions apply to this part:
 
 *Fair market value* means the best estimate of the gross sales proceeds if the property were to be sold in a public sale.
 
-*Federal agency* means any executive agency or any establishment in the legislative or judicial branch of the government (except the Senate, the House of Representatives, and the Architect of the Capitol and any activities under his/her direction).
+*Federal agency* means any executive agency or any establishment in the legislative or judicial branch of the government (except the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the Architect's direction).
 
 *Flight Safety Critical Aircraft Part (FSCAP)* is any aircraft part, assembly, or installation containing a critical characteristic whose failure, malfunction, or absence could cause a catastrophic failure resulting in engine shut-down or loss or serious damage to the aircraft resulting in an unsafe condition.
 
@@ -82,4 +80,4 @@ The following definitions apply to this part:
 
 *Vessels* means ships, boats and craft designed for navigation in and on the water, propelled by oars or paddles, sail, or power.
 
-[65 FR 31218, May 16, 2000, as amended at 71 FR 53571, Sept. 12, 2006]
+[65 FR 31218, May 16, 2000, as amended at 71 FR 53571, Sept. 12, 2006; 89 FR 67866, Aug. 22, 2024]

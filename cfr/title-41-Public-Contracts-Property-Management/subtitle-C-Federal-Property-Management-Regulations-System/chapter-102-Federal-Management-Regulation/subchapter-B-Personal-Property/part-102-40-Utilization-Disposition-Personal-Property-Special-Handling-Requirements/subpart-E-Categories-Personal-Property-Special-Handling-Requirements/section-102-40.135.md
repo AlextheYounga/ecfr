@@ -1,11 +1,9 @@
 ##### § 102-40.135 How do we manage acid-contaminated and explosive-contaminated property? #####
 
-Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
-
 (a) Acid-contaminated or explosive-contaminated property is considered extremely hazardous property and is not reported to GSA for subsequent transfer or donation. However, you should notify GSA of this property in accordance with § 102-40.55. If the property is not transferred or donated, you may dispose of such property by sale, in accordance with subpart D of this part and with the condition that the purchaser sufficiently decontaminates the property to the degree that it is no longer extremely hazardous. Also, such property must be properly labeled in accordance with § 102-40.45 and should not be abandoned. When destroyed, such destruction should be accomplished under § 102-40.125.
 
 (b) When selling acid or explosive contaminated property, the sales terms and sales documentation must both include the following certification, or an equivalent certification, which must be signed by the successful bidder.
 
-It is hereby certified that the undersigned purchaser will comply with all the applicable Federal, state, and local laws, ordinances and regulations with respect to the care, handling, storage, and shipment, resale, export, and other use of the materials, hereby purchased, and that he/she is a user of, or dealer in, said materials. This certification is made in accordance with and subject to the penalties of Title 18, Section 1001, the United States Code, Crime and Criminal Procedures.
+It is hereby certified that the undersigned purchaser will comply with all the applicable Federal, state, and local laws, ordinances and regulations with respect to the care, handling, storage, and shipment, resale, export, and other use of the materials, hereby purchased, and that the purchaser is a user of, or dealer in, said materials. This certification is made in accordance with and subject to the penalties of Title 18, Section 1001, the United States Code, Crime and Criminal Procedures.
 
-Name of purchaser (print or type)Signature of purchaser
+Name of purchaser (print or type)Signature of purchaser[80 FR 7353, Feb. 10, 2015, as amended at 89 FR 67867, Aug. 22, 2024]

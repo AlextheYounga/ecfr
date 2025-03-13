@@ -1,0 +1,3 @@
+##### § 465.6 Company-controlled review websites or entities. #####
+
+It is an unfair or deceptive act or practice and a violation of this part for a business to materially misrepresent, expressly or by implication, that a website, organization, or entity that it controls, owns, or operates provides independent reviews or opinions, other than consumer reviews, about a category of businesses, products, or services including the business or one or more of the products or services it sells.

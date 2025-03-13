@@ -1,7 +1,5 @@
 ##### § 571.208 Standard No. 208; Occupant crash protection. #####
 
-Link to an amendment published at 89 FR 67883, Aug. 22, 2024.
-
 S1. *Scope.* This standard specifies performance requirements for the protection of vehicle occupants in crashes.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of deaths of vehicle occupants, and the severity of injuries, by specifying vehicle crashworthiness requirements in terms of forces and accelerations measured on anthropomorphic dummies in test crashes, and by specifying equipment requirements for active and passive restraint systems.
@@ -905,10 +903,10 @@ S7.1.4 The weights and dimensions of the vehicle occupants referred to in this s
 |    Hip breadth (sitting)    |              8.4 inches              |              10.1 inches              |        12.8 inches        |     14.7 inches ±.7      |       16.5 inches.       |
 | Hip circumference (sitting) |             23.9 inches              |        27.4 inches (standing)         |        36.4 inches        |        42 inches         |       47.2 inches.       |
 |Waist circumference (sitting)|             20.8 inches              |        25.7 inches (standing)         |        23.6 inches        |      32 inches ±.6       |       42.5 inches.       |
-|         Chest depth         |              6.0 inches              |              7.5 inches               |      9.3 inches ±.2       |       10.5 inches.       |                          |
+|         Chest depth         |              6.0 inches              |              7.5 inches               |      9.3 inches ±.2       |       10.5 inches        |                          |
 |    Chest circumference:     |                                      |                                       |                           |                          |                          |
 |          (nipple)           |             30.5 inches              |                                       |                           |                          |                          |
-|           (upper)           |             26.3 inches              |              29.8 inches              |      37.4 inches ±.6      |       44.5 inches.       |                          |
+|           (upper)           |             26.3 inches              |              29.8 inches              |      37.4 inches ±.6      |       44.5 inches        |                          |
 |           (lower)           |             26.6 inches              |                                       |                           |                          |                          |
 
 S7.1.5 *School bus bench seats.* The seat belt assemblies on school bus bench seats will operate by means of any emergency-locking retractor that conforms to 49 CFR 571.209 to restrain persons whose dimensions range from those of a 50th percentile 6-year-old child to those of a 50th percentile 10-year-old, for small occupant seating positions, as defined in 49 CFR 571.222, and to those of a 50th percentile adult male for all other seating positions. The seat back may be in any position.
@@ -1383,27 +1381,27 @@ S14.6.3.2 A vehicle produced by more than one manufacturer shall be attributed t
 
 S14.7 *Vehicles manufactured on or after September 1, 2012. (Higher maximum speed (56km/h (35 mph)) belted test requirement using 5th percentile adult female dummies*). Each vehicle shall meet the requirements specified in S15.1(b) (in addition to the other requirements specified in this standard). However, vehicles that are manufactured in two or more stages or that are altered (within the meaning of 49 CFR 567.7) after having been previously certified in accordance with part 567 of this chapter may comply with the requirements specified in S15.1(a) instead of S15.1(b), if they are manufactured before September 1, 2013.
 
-S14.8 *Vehicles manufactured on or after September 1, 2009 and before September 1, 2010.* Vehicles manufactured on or after September 1, 2009 and before September 1, 2010, shall comply with S14.8.1 through S14.8.4. At any time during the production year ending August 31, 2010, each manufacturer shall, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles by make, model and vehicle identification number that have been certified as complying with S19, S21, and S23 (in addition to the other requirements specified in this standard) when using the child restraint systems specified in appendix A-1 of this standard. The manufacturer's designation of a vehicle as meeting the requirements when using the child restraint systems in appendix A-1 of this standard is irrevocable.
+S14.8 *Vehicles manufactured on or after September 1, 2025, and before September 1, 2026.* Vehicles manufactured on or after September 1, 2025, and before September 1, 2026, shall comply with S14.8.1 through S14.8.4 of this standard. At any time during the production year ending August 31, 2026, each manufacturer shall, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles by make, model and vehicle identification number that have been certified as complying with S19, S21, and S23 of this standard (in addition to the other requirements specified in this standard) when using the child restraint systems specified in appendix A-1 of this standard. The manufacturer's designation of a vehicle as meeting the requirements when using the child restraint systems in appendix A-1 of this standard is irrevocable.
 
-S14.8.1 Subject to S14.8.2, for vehicles manufactured on or after September 1, 2009, the number of vehicles certified as complying with S19, S21, and S23 when using the child restraint systems specified in appendix A-1 of this standard shall be not less than 50 percent of:
+S14.8.1 Subject to S14.8.2 of this standard, for vehicles manufactured on or after September 1, 2025, the number of vehicles certified as complying with S19, S21, and S23 of this standard when using the child restraint systems specified in appendix A-1 of this standard shall be not less than 40 percent of:
 
-(a) The manufacturer's average annual production of vehicles subject to S19, S21, and S23 of this standard manufactured on or after September 1, 2006 and before September 1, 2009; or
+(a) The manufacturer's average annual production of vehicles subject to S19, S21, and S23 of this standard manufactured on or after September 1, 2022, and before September 1, 2025; or
 
-(b) The manufacturer's production of vehicles subject to S19, S21, and S23 manufactured on or after September 1, 2009 and before September 1, 2010.
+(b) The manufacturer's production of vehicles subject to S19, S21, and S23 of this standard manufactured on or after September 1, 2025, and before September 1, 2026.
 
-S14.8.2 For the purpose of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer under S14.8.1, a vehicle produced by more than one manufacturer shall be attributed to a single manufacturer as provided in S14.8.2(a) through (c), subject to S14.8.3.
+S14.8.2 For the purpose of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer under S14.8.1 of this standard, a vehicle produced by more than one manufacturer shall be attributed to a single manufacturer as provided in S14.8.2(a) through (c) of this standard, subject to S14.8.3 of this standard.
 
 (a) A vehicle which is imported shall be attributed to the importer.
 
 (b) A vehicle manufactured in the United States by more than one manufacturer, one of which also markets the vehicle, shall be attributed to the manufacturer which markets the vehicle.
 
-(c) A vehicle produced by more than one manufacturer shall be attributed to any one of the vehicle's manufacturers specified by an express written contract, reported to the National Highway Traffic Safety Administration under 49 CFR part 585, between the manufacturer so specified and the manufacturer to which the vehicle would otherwise be attributed under S14.8.2(a) or (b).
+(c) A vehicle produced by more than one manufacturer shall be attributed to any one of the vehicle's manufacturers specified by an express written contract, reported to the National Highway Traffic Safety Administration under 49 CFR part 585, between the manufacturer so specified and the manufacturer to which the vehicle would otherwise be attributed under S14.8.2(a) or (b) of this standard.
 
-S14.8.3 For the purposes of calculating average annual production of vehicle for each manufacturer and the number of vehicles by each manufacturer under S14.8.1, each vehicle that is excluded from the requirement to test with child restraints listed in appendix A or A-1 of this standard is not counted.
+S14.8.3 For the purposes of calculating average annual production of vehicle for each manufacturer and the number of vehicles by each manufacturer under S14.8.1 of this standard, each vehicle that is excluded from the requirement to test with child restraints listed in appendix A or A-1 of this standard is not counted.
 
-S14.8.4 Until September 1, 2011, vehicles manufactured by a final-stage manufacturer or alterer could be certified as complying with S19, S21, and S23 when using the child restraint systems specified in appendix A. Vehicles manufactured on or after September 1, 2011 by these manufacturers must be certified as complying with S19, S21, and S23 when using the child restraint systems specified in appendix A-1.
+S14.8.4 Until September 1, 2027, vehicles manufactured by a final-stage manufacturer or alterer may certify compliance with S19, S21, and S23 of this standard when using the child restraint systems specified in appendix A. Vehicles manufactured on or after September 1, 2027, by these manufacturers must be certified as complying with S19, S21, and S23 when using the child restraint systems specified in appendix A-1 of this standard.
 
-S14.8.5 Until September 1, 2011, manufacturers selling fewer than 5,000 vehicles per year in the U.S. may certify their vehicles as complying with S19, S21, and S23 when using the child restraint systems specified in Appendix A. Vehicles manufactured on or after September 1, 2011 by these manufacturers must be certified as complying with S19, S21, and S23 when using the child restraint systems specified in Appendix A-1.
+S14.8.5 Until September 1, 2027, manufacturers selling fewer than 5,000 vehicles per year in the U.S. may certify their vehicles as complying with S19, S21, and S23 of this standard when using the child restraint systems specified in appendix A. Vehicles manufactured on or after September 1, 2027, by these manufacturers must be certified as complying with S19, S21, and S23 when using the child restraint systems specified in appendix A-1 of this standard.
 
 S15 *Rigid barrier test requirements using 5th percentile adult female dummies.*
 
@@ -2667,47 +2665,7 @@ S29.3 A manufacturer exercising this option shall upon request:
 
 Figures to § 571.208Figure 1. [Reserved]![](/graphics/ec01au91.084.gif)![](/graphics/ec01au91.089.gif)![](/graphics/ec01au91.087.gif)![](/graphics/ec01au91.088.gif)![](/graphics/er28de98.000.gif)![](/graphics/er11jn03.006.gif)![](/graphics/er11jn03.007.gif)![](/graphics/er27no96.012.gif)![](/graphics/er11jn03.008.gif)![](/graphics/er11jn03.009.gif)![](/graphics/er11jn03.010.gif)![](/graphics/er12my00.011.gif)![](/graphics/er06ja03.001.gif)![](/graphics/er20au03.019.gif)![](/graphics/er19no03.000.gif)Appendix A to § 571.208—Selection of Child Restraint Systems
 
-This appendix A applies to vehicles manufactured before September 1, 2009 and to not more than 50 percent of a manufacturer's vehicles manufactured on or after September 1, 2009 and before September 1, 2010, as specified in S14.8 of this standard. This appendix does not apply to vehicles manufactured on or after September 1, 2010.
-
-A. The following car bed, manufactured on or after December 1, 1999, may be used by the National Highway Traffic Safety Administration to test the suppression system of a vehicle that has been certified as being in compliance with 49 CFR 571.208 S19:
-
-|Cosco Dream Ride 02-719.|
-|------------------------|
-
-B. Any of the following rear-facing child restraint systems specified in the table below, manufactured on or after December 1, 1999, may be used by the National Highway Traffic Safety Administration to test the suppression or low risk deployment (LRD) system of a vehicle that has been certified as being in compliance with 49 CFR 571.208 S19. When the restraint system comes equipped with a removable base, the test may be run either with the base attached or without the base.
-
-|   Britax Handle with Care 191.    |
-|-----------------------------------|
-|       Century Assura 4553.        |
-|      Century Smart Fit 4543.      |
-|        Cosco Arriva 02727.        |
-|Evenflo Discovery Adjust Right 212.|
-|     Evenflo First Choice 204.     |
-|        Graco Infant 8457.         |
-
-C. Any of the following forward-facing child restraint systems, and forward-facing child restraint systems that also convert to rear-facing, manufactured on or after December 1, 1999, may be used by the National Highway Traffic Safety Administration to test the suppression or LRD system of a vehicle that has been certified as being in compliance with 49 CFR 571.208 S19, or S21. (Note: Any child restraint listed in this subpart that does not have manufacturer instructions for using it in a rear-facing position is excluded from use in testing in a belted rear-facing configuration under S20.2.1.1(a) and S20.4.2):
-
-|     Century Encore 4612.      |
-|-------------------------------|
-|     Cosco Olympian 02803.     |
-|    Britax Roundabout 161.     |
-|    Century STE 1000 4416.     |
-|     Cosco Touriva 02519.      |
-|    Evenflo Horizon V 425.     |
-|    Evenflo Medallion 254.     |
-|Safety 1st Comfort Ride 22-400.|
-
-D. Any of the following forward-facing child restraint systems and belt-positioning seats, manufactured on or after December 1, 1999, may be used by the National Highway Traffic Safety Administration as test devices to test the suppression system of a vehicle that has been certified as being in compliance with 49 CFR 571.208 S21 or S23:
-
-|     Britax Roadster 9004.     |
-|-------------------------------|
-|    Century Next Step 4920.    |
-|Cosco High Back Booster 02-442.|
-|    Evenflo Right Fit 245.     |
-
-Appendix A-1 to § 571.208—Selection of Child Restraint Systems
-
-This Appendix A-1 applies to not less than 50 percent of a manufacturer's vehicles manufactured on or after September 1, 2009 and before September 1, 2010, as specified in S14.8 of this standard. This appendix applies to all vehicles manufactured on or after September 1, 2010.
+This appendix A applies to vehicles manufactured before September 1, 2025, and to not more than 60 percent of a manufacturer's vehicles manufactured on or after September 1, 2025, and before September 1, 2026, as specified in S14.8 of this standard. This appendix does not apply to vehicles manufactured on or after September 1, 2026.
 
 A. The following car bed, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration to test the suppression system of a vehicle that has been certified as being in compliance with 49 CFR 571.208 S19:
 
@@ -2715,7 +2673,7 @@ A. The following car bed, manufactured on or after the date listed, may be used 
 |--------------------------------|------------------------|
 |Angel Guard Angel Ride XX2403XXX|  September 25, 2007.   |
 
-B. Any of the following rear-facing child restraint systems specified in the table below, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration to test the suppression or low risk deployment (LRD) system of a vehicle that has been certified as being in compliance with 49 CFR 571.208 S19. When the restraint system comes equipped with a removable base, the test may be run either with the base attached or without the base.
+B. Any of the following rear-facing child restraint systems specified in the table in subpart B of this appendix, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration to test the suppression or low risk deployment (LRD) system of a vehicle that has been certified as being in compliance with S19 of this standard. When the restraint system comes equipped with a removable base, the test may be run either with the base attached or without the base.
 
 |                                           |Manufactured on or after|
 |-------------------------------------------|------------------------|
@@ -2726,7 +2684,7 @@ B. Any of the following rear-facing child restraint systems specified in the tab
 |              Graco Snugride               |  September 25, 2007.   |
 |   Peg Perego Primo Viaggio SIP IMUN00US   |  September 25, 2007.   |
 
-C. Any of the following forward-facing child restraint systems, and forward-facing child restraint systems that also convert to rear-facing, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration to test the suppression or LRD system of a vehicle that has been certified as being in compliance with 49 CFR 571.208 S19, or S21. (Note: Any child restraint listed in this subpart that does not have manufacturer instructions for using it in a rear-facing position is excluded from use in testing in a belted rear-facing configuration under S20.2.1.1(a) and S20.4.2):
+C. Any of the following forward-facing child restraint systems, and forward-facing child restraint systems that also convert to rear-facing, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration to test the suppression or LRD system of a vehicle that has been certified as being in compliance with S19 or S21 of this standard. (Note: Any child restraint listed in this subpart that does not have manufacturer instructions for using it in a rear-facing position is excluded from use in testing in a belted rear-facing configuration under S20.2.1.1(a) and S20.4.2 of this standard):
 
 |                                                    |Manufactured on or after|
 |----------------------------------------------------|------------------------|
@@ -2741,7 +2699,7 @@ C. Any of the following forward-facing child restraint systems, and forward-faci
 |                Graco Platinum Cargo                |  September 25, 2007.   |
 |           Cosco High Back Booster 22-209           |  September 25, 2007.   |
 
-D. Any of the following forward-facing child restraint systems and belt positioning seats, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration as test devices to test the suppression system of a vehicle that has been certified as being in compliance with 49 CFR 571.208 S21 or S23:
+D. Any of the following forward-facing child restraint systems and belt positioning seats, manufactured on or after the date listed, may be used by the National Highway Traffic Safety Administration as test devices to test the suppression system of a vehicle that has been certified as being in compliance with S21 or S23 of this standard:
 
 |                                            |Manufactured on or after|
 |--------------------------------------------|------------------------|
@@ -2752,4 +2710,49 @@ D. Any of the following forward-facing child restraint systems and belt position
 |        Evenflo Generations 352xxxx         |  September 25, 2007.   |
 |Cosco Summit Deluxe High Back Booster 22-262|  September 25, 2007.   |
 
-![](/graphics/er12no08.009.gif)![](/graphics/er12no08.010.gif)[36 FR 22902, Dec. 2, 1971]Editorial Note:For Federal Register citations affecting § 571.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+Appendix A-1 to § 571.208—Selection of Child Restraint Systems
+
+This appendix A-1 applies to not less than 40 percent of a manufacturer's vehicles manufactured on or after September 1, 2025, and before September 1, 2026, as specified in S14.8 of this standard. This appendix applies to all vehicles manufactured on or after September 1, 2026.
+
+A. The following car bed, manufactured on or after [*Date of publication of final rule*], may be used by the National Highway Traffic Safety Administration to test the suppression system of a vehicle that has been certified as being in compliance with S19 of this standard:
+
+|Safety 1st Dreamride with LATCH #IC238xxx.|
+|------------------------------------------|
+
+B. Any of the following rear-facing child restraint systems specified in the table below, manufactured on or after August 22, 2024, may be used by the National Highway Traffic Safety Administration to test the suppression or low risk deployment (LRD) system of a vehicle that has been certified as being in compliance with S19 of this standard. When the restraint system comes equipped with a removable base, the test may be run either with the base attached or without the base.
+
+|   Evenflo Litemax #305xxxxx.    |
+|---------------------------------|
+|Chicco Keyfit 30 #04061472xxxxxx.|
+|   Doona Car Seat & Stroller.    |
+|Nuna Pipa RX with Pipa RELX base.|
+| Cybex Cloud Q with SensorSafe.  |
+|  Evenflo NurtureMax #364xxxxx.  |
+
+C. Any of the following forward-facing child restraint systems, and forward-facing child restraint systems that also convert to rear-facing, manufactured on or after August 22, 2024, may be used by the National Highway Traffic Safety Administration to test the suppression or LRD system of a vehicle that has been certified as being in compliance with S19 or S21 of this standard. (*Note:* Any child restraint listed in this subpart that does not have manufacturer instructions for using it in a rear-facing position is excluded from use in testing in a belted rear-facing configuration under S20.2.1.1(a) and S20.4.2 of this standard):
+
+|     Britax Poplar #E1C93xx.     |
+|---------------------------------|
+|  Cosco Scenera Next #CC123xxx.  |
+|        Graco 4Ever DLX.         |
+|     Nuna Rava #CS05116CVR.      |
+|      Graco Contender Slim.      |
+|Cybex Eternis S with SensorSafe. |
+|Safety 1st Grow and Go #CC138xxx.|
+|  Evenflo Chase Plus #307xxxxx.  |
+|     Cosco Finale #BC110xxx.     |
+|  Chicco MyFit #04079783—0070.   |
+
+D. Any of the following forward-facing child restraint systems and belt positioning seats, manufactured on or after August 22, 2024, may be used by the National Highway Traffic Safety Administration as test devices to test the suppression system of a vehicle that has been certified as being in compliance with S21 or S23 of this standard:
+
+|      Chicco MyFit #04079783—0070.       |
+|-----------------------------------------|
+|    Cybex Eternis S with SensorSafe.     |
+|    Safety 1st Grow and Go #CC138xxx.    |
+|      Evenflo Chase Plus #307xxxxx.      |
+|         Cosco Finale #BC110xxx.         |
+|          Cosco Rise #BC126xxx.          |
+|Graco TurboBooster Backless Booster Seat.|
+|Britax Grow with You ClickTight #E1C19xx.|
+
+Figure A1 to Appendix A and Appendix A-1 to § 571.208: Loading Bar Foot Detail![](/graphics/er22au24.002.gif)Figure A2 to Appendix A and Appendix A-1 to § 571.208: Loading Bar Installation![](/graphics/er22au24.003.gif)[36 FR 22902, Dec. 2, 1971]Editorial Note:For Federal Register citations affecting § 571.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 1.1 General definitions. #####
 
-Link to an amendment published at 89 FR 67848, Aug. 22, 2024.Link to an amendment published at 89 FR 80338, Oct. 2, 2024.
+Link to an amendment published at 89 FR 80338, Oct. 2, 2024.
 
 As used in Subchapters A through K of this chapter, unless the context requires otherwise:
 
@@ -497,6 +497,8 @@ Whether that commerce moves wholly by aircraft of partly by aircraft and partly 
 *Stopway* means an area beyond the takeoff runway, no less wide than the runway and centered upon the extended centerline of the runway, able to support the airplane during an aborted takeoff, without causing structural damage to the airplane, and designated by the airport authorities for use in decelerating the airplane during an aborted takeoff.
 
 *Suitable RNAV system* is an RNAV system that meets the required performance established for a type of operation, e.g. IFR; and is suitable for operation over the route to be flown in terms of any performance criteria (including accuracy) established by the air navigation service provider for certain routes (e.g. oceanic, ATS routes, and IAPs). An RNAV system's suitability is dependent upon the availability of ground and/or satellite navigation aids that are needed to meet any route performance criteria that may be prescribed in route specifications to navigate the aircraft along the route to be flown. Information on suitable RNAV systems is published in FAA guidance material.
+
+*Supplemental restraint system* means any device that is not installed on the aircraft pursuant to an FAA approval, used to secure an individual inside an aircraft when that person is not properly secured by an FAA-approved safety belt and, if installed, shoulder harness, or an approved child restraint system. It consists of a harness secured around the torso of the individual using the supplemental restraint system and a lanyard that connects the harness to an FAA-approved airframe attachment point inside the aircraft.
 
 *Synthetic vision* means a computer-generated image of the external scene topography from the perspective of the flight deck that is derived from aircraft attitude, high-precision navigation solution, and database of terrain, obstacles and relevant cultural features.
 

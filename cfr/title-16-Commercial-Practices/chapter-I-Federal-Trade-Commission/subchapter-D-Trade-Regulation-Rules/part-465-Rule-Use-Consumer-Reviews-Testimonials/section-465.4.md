@@ -1,0 +1,3 @@
+##### § 465.4 Buying positive or negative consumer reviews. #####
+
+It is an unfair or deceptive act or practice and a violation of this part for a business to provide compensation or other incentives in exchange for, or conditioned expressly or by implication on, the writing or creation of consumer reviews expressing a particular sentiment, whether positive or negative, regarding the product, service, or business that is the subject of the review.

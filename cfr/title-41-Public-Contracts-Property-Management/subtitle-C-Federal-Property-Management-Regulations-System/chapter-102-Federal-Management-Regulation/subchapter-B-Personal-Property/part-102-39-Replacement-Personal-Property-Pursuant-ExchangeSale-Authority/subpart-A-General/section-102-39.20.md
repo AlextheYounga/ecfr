@@ -1,7 +1,5 @@
 ##### § 102-39.20 What definitions apply to this part? #####
 
-Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
-
 The following definitions apply to this part:
 
 *Acquire* means to procure or otherwise obtain personal property, including by lease (sometimes known as rent).
@@ -16,7 +14,7 @@ The following definitions apply to this part:
 
 *Executive agency* means any executive department or independent establishment in the executive branch of the Government, including any wholly owned Government corporation.
 
-*Federal agency* means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Senate, the House of Representatives, and the Architect of the Capitol and any activities under his/her direction).
+*Federal agency* means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the Architect's direction).
 
 *Historic item* means property having added value for display purposes because its historical significance is greater than its fair market value for continued use. Items that are commonly available and remain in use for their intended purpose, such as military aircraft still in use by active or reserve units, are not historic items.
 
@@ -44,4 +42,4 @@ Only one of the criteria in this definition needs to be met for the property to 
 
 *Surplus property* means excess personal property not required for the needs of any Federal agency, as determined by GSA under part 102-37 of this chapter.
 
-[66 FR 48614, Sept. 21, 2001, as amended at 73 FR 50880, Aug. 29, 2008; 88 FR 25511, Apr. 27, 2023]
+[66 FR 48614, Sept. 21, 2001, as amended at 73 FR 50880, Aug. 29, 2008; 88 FR 25511, Apr. 27, 2023; 89 FR 67867, Aug. 22, 2024]

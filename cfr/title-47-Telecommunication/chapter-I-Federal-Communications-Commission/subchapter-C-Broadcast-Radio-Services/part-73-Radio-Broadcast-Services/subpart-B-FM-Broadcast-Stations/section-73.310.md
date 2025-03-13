@@ -1,5 +1,7 @@
 ##### § 73.310 FM technical definitions. #####
 
+Link to an amendment published at 89 FR 84103, Oct. 21, 2024.
+
 (a) *Frequency modulation.**Antenna height above average terrain (HAAT).* HAAT is calculated by: determining the average of the antenna heights above the terrain from 3 to 16 kilometers (2 to 10 miles) from the antenna for the eight directions evenly spaced for each 45° of azimuth starting with True North (a different antenna height will be determined in each direction from the antenna): and computing the average of these separate heights. In some cases less than eight directions may be used. (See § 73.313(d).) Where circular or elliptical polarization is used, the antenna height above average terrain must be based upon the height of the radiation of the antenna that transmits the horizontal component of radiation.
 
 *Antenna power gain.* The square of the ratio of the root-mean-square (RMS) free space field strength produced at 1 kilometer in the horizontal plane in millivolts per meter for 1 kW antenna input power to 221.4 mV/m. This ratio is expressed in decibels (dB). If specified for a particular direction, antenna power gain is based on that field strength in the direction only.

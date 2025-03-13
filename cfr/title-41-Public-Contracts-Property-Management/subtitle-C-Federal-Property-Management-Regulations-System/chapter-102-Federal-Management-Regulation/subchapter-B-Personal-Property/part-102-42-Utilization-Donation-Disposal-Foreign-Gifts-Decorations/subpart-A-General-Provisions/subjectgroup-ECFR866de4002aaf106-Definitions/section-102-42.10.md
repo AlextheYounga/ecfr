@@ -1,7 +1,5 @@
 ##### § 102-42.10 What definitions apply to this part? #####
 
-Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
-
 The following definitions apply to this part:
 
 *Decoration* means an order, device, medal, badge, insignia, emblem, or award offered by or received from a foreign government.
@@ -20,7 +18,7 @@ The following definitions apply to this part:
 
 (6) A Member of Congress as defined by 5 U.S.C. 2106 (except the Vice President) and any Delegate to the Congress; and
 
-(7) The spouse of an individual described in paragraphs (1) through (6) of this definition of *employee* (unless this individual and his or her spouse are separated) or a dependent (within the meaning of section 152 of the Internal Revenue Code of 1986 (26 U.S.C. 152)) of this individual, other than a spouse or dependent who is an employee under paragraphs (1) through (6) of this definition of *employee.*
+(7) The spouse of an individual described in paragraphs (1) through (6) of this definition of *employee* (unless this individual and the individual's spouse are legally separated) or a dependent (within the meaning of section 152 of the Internal Revenue Code of 1986 (26 U.S.C. 152)) of this individual, other than a spouse or dependent who is an employee under paragraphs (1) through (6) of this definition of *employee.*
 
 *Employing agency* means:
 
@@ -50,4 +48,4 @@ The following definitions apply to this part:
 
 *Spouse* means any individual who is lawfully married (unless legally separated), including an individual married to a person of the same sex who was legally married in a state or other jurisdiction (including a foreign country), that recognizes such marriages, regardless of whether or not the individual's state of residency recognizes such marriages. The term *spouse* does not include individuals in a formal relationship recognized by a state, which is other than lawful marriage; it also does not include individuals in a marriage in a jurisdiction outside the United States that is not recognized as a lawful marriage under United States law.
 
-[65 FR 45539, July 24, 2000, as amended at 68 FR 56496, Sept. 4, 2002; 70 FR 2318, Jan. 12, 2005; 71 FR 28778, May 18, 2006; 73 FR 7475, Feb. 8, 2008; 76 FR 30551, May 26, 2011; 79 FR 18477, Apr. 2, 2014; 80 FR 21190, Apr. 17, 2015]
+[65 FR 45539, July 24, 2000, as amended at 68 FR 56496, Sept. 4, 2002; 70 FR 2318, Jan. 12, 2005; 71 FR 28778, May 18, 2006; 73 FR 7475, Feb. 8, 2008; 76 FR 30551, May 26, 2011; 79 FR 18477, Apr. 2, 2014; 80 FR 21190, Apr. 17, 2015; 89 FR 67867, Aug. 22, 2024]
