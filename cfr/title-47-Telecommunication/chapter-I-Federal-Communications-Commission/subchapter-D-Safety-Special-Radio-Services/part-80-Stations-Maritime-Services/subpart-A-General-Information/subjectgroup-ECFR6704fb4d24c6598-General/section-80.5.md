@@ -24,13 +24,13 @@
 
 (2) A *commercial transport vessel* is any ship which is used primarily in commerce (i) for transporting persons or goods to or from any harbor(s) or port(s) or between places within a harbor or port area, or (ii) in connection with the construction, change in construction, servicing, maintenance, repair, loading, unloading, movement, piloting, or salvaging of any other ship or vessel.
 
-(3) The term *passenger carrying vessel,* when used in reference to Part III, Title III of the Communications Act of the Great Lakes Radio Agreement, means any ship transporting more than six passengers for hire.
+(3) The term *passenger carrying vessel,* when used in reference to Part III, Title III of the Communications Act or subpart T of this part, means any ship transporting more than six passengers for hire.
 
 (4) *Power-driven vessel.* Any ship propelled by machinery.
 
 (5) *Towing vessel.* Any commercial ship engaged in towing another ship astern, alongside or by pushing ahead.
 
-(6) *Compulsory ship.* Any ship which is required to be equipped with radiotelecommunication equipment in order to comply with the radio or radio-navigation provisions of a treaty or statute to which the vessel is subject.
+(6) *Compulsory ship.* Any ship which is required to be equipped with radiotelecommunication equipment in order to comply with the radio or radio-navigation provisions of a treaty, statute, or subpart T of this part to which the vessel is subject.
 
 (7) *Voluntary ship.* Any ship which is not required by treaty or statute to be equipped with radiotelecommunication equipment.
 
@@ -62,7 +62,7 @@
 
 *Global maritime distress and safety system (GMDSS).* An International Maritime Organization (IMO) worldwide coordinated maritime distress system designed to provide the rapid transfer of distress messages from vessels in distress to units best suited for giving or coordinating assistance. The system includes standardized equipment and operational procedures, unique identifers for each station, and the integrated use of frequency bands and radio systems to ensure the transmission and reception of distress and safety calls and messages at short, medium and long ranges.
 
-*Great Lakes.* This term, used in this part in reference to the Great Lakes Radio Agreement, means all of Lakes Ontario, Erie, Huron (including Georgian Bay), Michigan, Superior, their connecting and tributary waters and the St. Lawrence River as far east as the lower exit of the St. Lambert Lock as Montreal in the Province of Quebec, Canada, but does not include any connecting and tributary waters other than: the St. Marys River, the St. Clair River, Lake St. Clair, the Detroit River and the Welland Canal.
+*Great Lakes.* This term means all of Lakes Ontario, Erie, Huron (including Georgian Bay), Michigan, Superior, their connecting and tributary waters and the St. Lawrence River as far east as the lower exit of the St. Lambert Lock at Montreal in the Province of Quebec, Canada, but does not include any connecting and tributary waters other than: the St. Marys River, the St. Clair River, Lake St. Clair, the Detroit River and the Welland Canal.
 
 *Harbor or port.* Any place to which ships may resort for shelter, or to load or unload passengers or goods, or to obtain fuel, water, or supplies. This term applies to such places whether proclaimed public or not and whether natural or artifical.
 
@@ -160,4 +160,4 @@
 
 *Watch.* The act of listening on a designated frequency.
 
-[51 FR 31213, Sept. 2, 1986, as amended at 52 FR 7417, Mar. 11, 1987; 52 FR 35244, Sept. 18, 1987; 56 FR 3783, Jan. 31, 1991; 57 FR 26778, June 16, 1992; 58 FR 16504, Mar. 29, 1993; 60 FR 35510, July 10, 1995; 63 FR 29658, June 1, 1998; 68 FR 46959, Aug. 7, 2003; 71 FR 60074, Oct. 12, 2006; 72 FR 31194, June 6, 2007; 73 FR 4480, Jan. 25, 2008; 76 FR 67607, Nov. 2, 2011]
+[51 FR 31213, Sept. 2, 1986, as amended at 52 FR 7417, Mar. 11, 1987; 52 FR 35244, Sept. 18, 1987; 56 FR 3783, Jan. 31, 1991; 57 FR 26778, June 16, 1992; 58 FR 16504, Mar. 29, 1993; 60 FR 35510, July 10, 1995; 63 FR 29658, June 1, 1998; 68 FR 46959, Aug. 7, 2003; 71 FR 60074, Oct. 12, 2006; 72 FR 31194, June 6, 2007; 73 FR 4480, Jan. 25, 2008; 76 FR 67607, Nov. 2, 2011; 88 FR 77220, Nov. 9, 2023]

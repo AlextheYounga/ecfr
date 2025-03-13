@@ -1,5 +1,7 @@
 ##### § 679.53 Observer certification and responsibilities. #####
 
+Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
+
 (a) *Observer certification*—(1) *Applicability.* Observer certification authorizes an individual to fulfill duties for operations requiring full observer coverage per § 679.51(a)(2) and (b)(2) as specified in writing by the NMFS Observer Program while under the employ of an observer provider permitted under § 679.52(a) and according to certification endorsements as designated under paragraph (a)(5) of this section.
 
 (2) *Observer certification official.* The Regional Administrator will designate a NMFS observer certification official who will make decisions for the Observer Program on whether to issue or deny observer certification.

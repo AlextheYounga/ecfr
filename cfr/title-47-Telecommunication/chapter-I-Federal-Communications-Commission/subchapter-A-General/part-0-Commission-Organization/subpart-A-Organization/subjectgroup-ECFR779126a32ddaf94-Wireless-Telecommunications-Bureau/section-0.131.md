@@ -40,6 +40,6 @@ The Wireless Telecommunications Bureau develops, recommends and administers the 
 
 (s)(1) Extends the Communications Act Safety Radiotelephony Certificate for a period of up to 90 days beyond the specified expiration date.
 
-(2) Grants emergency exemption requests, extensions or waivers of inspection to ships in accordance with applicable provisions of the Communications Act, the Safety Convention, the Great Lakes Agreement or the Commission's rules.
+(2) Grants emergency exemption requests, extensions or waivers of inspection to ships in accordance with applicable provisions of the Communications Act, the Safety Convention, or the Commission's rules.
 
-[60 FR 35505, July 10, 1995, as amended at 61 FR 4361, Feb. 6, 1996; 62 FR 17567, Apr. 10, 1997; 64 FR 60718, Nov. 8, 1999; 65 FR 375, Jan. 5, 2000; 67 FR 13219, Mar. 21, 2002; 69 FR 24997, May 5, 2004; 71 FR 69035, Nov. 29, 2006; 76 FR 73851, Nov. 29, 2011; 78 FR 23151, Apr. 18, 2013; 78 FR 32165, May 29, 2013; 83 FR 63076, Dec. 7, 2018; 85 FR 34526, June 5, 2020; 88 FR 21429, Apr. 10, 2023]
+[60 FR 35505, July 10, 1995, as amended at 61 FR 4361, Feb. 6, 1996; 62 FR 17567, Apr. 10, 1997; 64 FR 60718, Nov. 8, 1999; 65 FR 375, Jan. 5, 2000; 67 FR 13219, Mar. 21, 2002; 69 FR 24997, May 5, 2004; 71 FR 69035, Nov. 29, 2006; 76 FR 73851, Nov. 29, 2011; 78 FR 23151, Apr. 18, 2013; 78 FR 32165, May 29, 2013; 83 FR 63076, Dec. 7, 2018; 85 FR 34526, June 5, 2020; 88 FR 21429, Apr. 10, 2023; 88 FR 77219, Nov. 9, 2023]

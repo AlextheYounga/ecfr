@@ -1,5 +1,7 @@
 ##### § 679.100 Applicability. #####
 
+Link to an amendment published at 88 FR 77231, Nov. 9, 2023.
+
 The owner and operator of a vessel named on an LLP license with a Pacific cod catcher-processor hook-and-line endorsement for the Bering Sea, Aleutian Islands or both the Bering Sea and Aleutian Islands must comply with the requirements of this subpart.
 
 (a) *Opt out selection.* Each year, the owner of a vessel subject to this subpart who does not intend to directed fish for Pacific cod in the BSAI or conduct groundfish CDQ fishing at any time during a year may, by November 1 of the year prior to fishing, submit to NMFS a completed notification form to opt out of directed fishing for Pacific cod in the BSAI and groundfish CDQ fishing in the upcoming year. The notification form is available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov/*). Once the vessel owner has selected to opt out, the owner must ensure that the vessel is not used as a catcher/processor to conduct directed fishing for Pacific cod with hook-and-line gear in the BSAI or to conduct groundfish CDQ fishing during the specified year.

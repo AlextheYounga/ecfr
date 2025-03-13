@@ -1,8 +1,8 @@
 ##### § 80.59 Compulsory ship inspections. #####
 
-(a) Inspection of ships subject to the Communications Act or the Safety Convention.
+(a) Inspection of ships subject to part II or III of title III of the Communications Act or the Safety Convention.
 
-(1) The FCC will not normally conduct the required inspections of ships subject to the inspection requirements of the Communications Act or the Safety Convention.
+(1) The FCC will not normally conduct the required inspections of ships subject to the inspection requirements of part II or III of title III of Communications Act or the Safety Convention.
 
 Note to paragraph (a)(1):
 
@@ -22,9 +22,9 @@ Nothing in this section prohibits Commission inspectors from inspecting ships. T
 
 (5) Because such inspections are intended to ensure the availability of communications capability during a distress the Commission will vigorously investigate reports of fraudulent inspections, or violations of the Communications Act or the Commission's Rules related to ship inspections. FCC-licensed technicians, ship owners or operators should report such violations to the Commission through its National Call Center at 1-888-CALL FCC (1-888-225-5322).
 
-(b) Inspection and certification of a ship subject to the Great Lakes Agreement. The FCC will not inspect Great Lakes Agreement vessels. An inspection and certification of a ship subject to the Great Lakes Agreement must be made by a technician holding one of the following: an FCC General Radiotelephone Operator License, a GMDSS Radio Maintainer's License, a Second Class Radiotelegraph Operator's Certificate, a First Class Radiotelegraph Operator's Certificate, or a Radiotelegraph Operator License. The certification required by § 80.953 must be entered into the ship's log. The technician conducting the inspection and providing the certification must not be the vessel's owner, operator, master, or an employee of any of them. Additionally, the vessel owner, operator, or ship's master must certify that the inspection was satisfactory. There are no FCC prior notice requirements for any inspection pursuant to § 80.59(b).
+(b) Inspection and certification of a ship subject to subpart T of this part. The FCC will not inspect vessels that are subject to subpart T of this part. An inspection and certification of a ship subject to subpart T of this part must be made by a technician holding one of the following: an FCC General Radiotelephone Operator License, a GMDSS Radio Maintainer's License, a Second Class Radiotelegraph Operator's Certificate, a First Class Radiotelegraph Operator's Certificate, or a Radiotelegraph Operator License. The certification required by § 80.953 must be entered into the ship's log. The technician conducting the inspection and providing the certification must not be the vessel's owner, operator, master, or an employee of any of them. Additionally, the vessel owner, operator, or ship's master must certify that the inspection was satisfactory. There are no FCC prior notice requirements for any inspection under this section.
 
-(c) *Application for exemption.* (1) Applications for exemption from the radio provisions of part II or III of title III of the Communications Act, the Safety Convention, or the Great Lakes Radio Agreement, or for modification or renewal of an exemption previously granted must be filed as a waiver request using FCC Form 605. Waiver requests must include the following information:
+(c) *Application for exemption.* (1) Applications for exemption from the radio provisions of part II or III of title III of the Communications Act, the Safety Convention, or subpart T of this part, or for modification or renewal of an exemption previously granted must be filed as a waiver request using FCC Form 605. Waiver requests must include the following information:
 
 (i) Name of ship;
 
@@ -108,4 +108,4 @@ With emergency requests, do not send the fee, you will be billed.
 
 (2) Vessels that are navigated on voyages outside of the United States for more than 12 months in succession are exempted from annual inspection required by section 362(b) of the Communications Act, provided that the vessels comply with all applicable requirements of the Safety Convention, including the annual inspection required by Regulation 9, Chapter I, and the vessel is inspected by an FCC-licensed technician in accordance with this section within 30 days of arriving in the United States.
 
-[51 FR 31213, Sept. 2, 1986, as amended at 56 FR 64715, Dec. 12, 1991; 60 FR 50122, Sept. 28, 1995; 61 FR 8478, Mar. 5, 1996; 61 FR 25805, May 23, 1996; 63 FR 29658, June 1, 1998; 63 FR 68956, Dec. 14, 1998; 64 FR 53241, Oct. 1, 1999; 68 FR 46960, Aug. 7, 2003; 69 FR 64671, Nov. 8, 2004; 73 FR 9031, Feb. 19, 2008; 78 FR 23154, Apr. 18, 2013; 80 FR 53751, Sept. 8, 2015; 81 FR 90746, Dec. 15, 2016; 85 FR 64409, Oct. 13, 2020]
+[51 FR 31213, Sept. 2, 1986, as amended at 56 FR 64715, Dec. 12, 1991; 60 FR 50122, Sept. 28, 1995; 61 FR 8478, Mar. 5, 1996; 61 FR 25805, May 23, 1996; 63 FR 29658, June 1, 1998; 63 FR 68956, Dec. 14, 1998; 64 FR 53241, Oct. 1, 1999; 68 FR 46960, Aug. 7, 2003; 69 FR 64671, Nov. 8, 2004; 73 FR 9031, Feb. 19, 2008; 78 FR 23154, Apr. 18, 2013; 80 FR 53751, Sept. 8, 2015; 81 FR 90746, Dec. 15, 2016; 85 FR 64409, Oct. 13, 2020; 88 FR 77220, Nov. 9, 2023]

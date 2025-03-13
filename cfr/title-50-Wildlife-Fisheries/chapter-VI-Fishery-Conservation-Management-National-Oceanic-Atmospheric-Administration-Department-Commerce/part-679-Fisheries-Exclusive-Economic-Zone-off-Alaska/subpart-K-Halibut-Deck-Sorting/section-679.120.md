@@ -1,5 +1,7 @@
 ##### § 679.120 Halibut deck sorting. #####
 
+Link to an amendment published at 88 FR 77232, Nov. 9, 2023.
+
 (a) *Applicability.* The owner and operator of a mothership or catcher/processor using trawl gear in the non-pollock groundfish fisheries in the Gulf of Alaska and the Bering Sea and Aleutian Islands Management Area must comply with the requirements of this section when participating in halibut deck sorting as defined at § 679.2.
 
 (b) *Catch monitoring requirements*—(1) *Catch weighing.* When halibut deck sorting, all catch, except halibut sorted on deck, must be weighed on a NMFS-approved scale in compliance with the scale requirements at § 679.28(b). Each haul must be weighed separately, all catch must be made available for sampling by a NMFS-certified observer, and no sorting of catch, except halibut sorted on deck, may take place prior to weighing. When halibut deck sorting, no fish may be weighed on a NMFS-approved scale used to weigh catch at sea unless two observers are available to complete data collection duties, one on deck and one in the factory. A visual signal, specified in paragraph (e)(8) of this section, must be used to indicate when catch may not be weighed.

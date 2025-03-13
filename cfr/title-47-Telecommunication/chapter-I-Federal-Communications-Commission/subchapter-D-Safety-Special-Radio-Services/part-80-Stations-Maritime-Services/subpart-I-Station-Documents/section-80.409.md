@@ -94,7 +94,7 @@
 
 (f) *Applicable radiotelephone log entries.* The log entries listed in paragraph (e) of this section are applicable as follows (vessels subject to the Global Maritime Distress and Safety System (GMDSS) should also refer to subpart W of this Part for additional guidance on maintenance of station logs):
 
-(1) Radiotelephony stations subject to the Communications Act and/or the Safety Convention must record entries indicated by paragraphs (e)(1) through (e)(13) of this section. Additionally, the radiotelephone log must provide an easily identifiable, separate section relating to the required inspection of the ship's radio station. Entries must be made in this section giving at least the following information.
+(1) Radiotelephony stations subject to part II or III of title III of the Communications Act and/or the Safety Convention must record entries indicated by paragraphs (e)(1) through (13) of this section. Additionally, the radiotelephone log must provide an easily identifiable, separate section relating to the required inspection of the ship's radio station. Entries must be made in this section giving at least the following information.
 
 (i) For ships that pass the inspection:
 
@@ -120,7 +120,7 @@
 
 (D) The date and time that the ship's owner, operator or master was notified that the ship failed the inspection.
 
-(2) Radiotelephony stations subject to the Great Lakes Agreement and the Bridge-to-Bridge Act must record entries indicated by paragraphs (e)(1), (3), (5), (6), (7), (8), (10), (11), and (13), and of this section. Additionally, the radiotelephone log must provide an easily identifiable, separate section relating to the required inspection of the ship's radio station. Entries must be made in this section giving at least the following information:
+(2) Radiotelephony stations subject to subpart T of this part and the Bridge-to-Bridge Act must record entries indicated by paragraphs (e)(1), (3), (5), (6), (7), (8), (10), (11), and (13) of this section. Additionally, the radiotelephone log must provide an easily identifiable, separate section relating to the required inspection of the ship's radio station. Entries must be made in this section giving at least the following information:
 
 (i) The date the inspection was conducted;
 
@@ -130,10 +130,10 @@
 
 (iv) The results of the inspection, including any repairs made;
 
-(v) The inspector's signed and dated certification that the vessel meets the requirements of the Great Lakes Agreement and the Bridge-to-Bridge Act contained in subparts T and U of this part and has successfully passed the inspection; and
+(v) The inspector's signed and dated certification that the vessel meets the requirements for certain vessels operating in the Great Lakes and of the Bridge-to-Bridge Act contained in subparts T and U of this part and has successfully passed the inspection; and
 
 (vi) The vessel owner, operator, or ship's master's certification that the inspection was satisfactory.
 
 (3) Radiotelephony stations subject to the Bridge-to-Bridge Act must record entries indicated by paragraphs (e)(1), (3), (5) (6), (7), (10), and (11) of this section.
 
-[51 FR 31213, Sept. 2, 1986, as amended at 52 FR 35245, Sept. 18, 1987; 54 FR 40059, Sept. 29, 1989; 61 FR 25807, May 23, 1996; 63 FR 29659, June 1, 1998; 68 FR 46972, Aug. 7, 2003; 69 FR 64676, Nov. 8, 2004; 73 FR 4486, Jan. 25, 2008; 78 FR 23156, Apr. 18, 2013]
+[51 FR 31213, Sept. 2, 1986, as amended at 52 FR 35245, Sept. 18, 1987; 54 FR 40059, Sept. 29, 1989; 61 FR 25807, May 23, 1996; 63 FR 29659, June 1, 1998; 68 FR 46972, Aug. 7, 2003; 69 FR 64676, Nov. 8, 2004; 73 FR 4486, Jan. 25, 2008; 78 FR 23156, Apr. 18, 2013; 88 FR 77221, Nov. 9, 2023]
