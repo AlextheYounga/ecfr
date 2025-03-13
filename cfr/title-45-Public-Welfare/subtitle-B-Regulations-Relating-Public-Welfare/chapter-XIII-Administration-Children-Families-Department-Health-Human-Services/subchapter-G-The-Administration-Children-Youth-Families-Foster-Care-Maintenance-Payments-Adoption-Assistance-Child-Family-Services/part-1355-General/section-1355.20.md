@@ -1,5 +1,7 @@
 ##### § 1355.20 Definitions. #####
 
+Link to an amendment published at 88 FR 66708, Sept. 28, 2023.
+
 (a) Unless otherwise specified, the following terms as they appear in 45 CFR parts 1355, 1356 and 1357 of this title are defined as follows—
 
 *Act* means the Social Security Act, as amended.

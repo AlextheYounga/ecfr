@@ -1,5 +1,7 @@
 ##### § 1356.21 Foster care maintenance payments program implementation requirements. #####
 
+Link to an amendment published at 88 FR 66708, Sept. 28, 2023.
+
 (a) *Statutory and regulatory requirements of the Federal foster care program.* To implement the foster care maintenance payments program provisions of the title IV-E plan and to be eligible to receive Federal financial participation (FFP) for foster care maintenance payments under this part, a title IV-E agency must meet the requirements of this section, 45 CFR 1356.22, 45 CFR 1356.30, and sections 472, 475(1), 475(4), 475(5), 475(6), and for a Tribal title IV-E agency section 479(B)(c)(1)(C)(ii)(II) of the Act.
 
 (b) *Reasonable efforts.* The title IV-E agency must make reasonable efforts to maintain the family unit and prevent the unnecessary removal of a child from his/her home, as long as the child's safety is assured; to effect the safe reunification of the child and family (if temporary out-of-home placement is necessary to ensure the immediate safety of the child); and to make and finalize alternate permanency plans in a timely manner when reunification is not appropriate or possible. In order to satisfy the “reasonable efforts” requirements of section 471(a)(15) (as implemented through section 472(a)(2) of the Act), the title IV-E agency must meet the requirements of paragraphs (b) and (d) of this section. In determining reasonable efforts to be made with respect to a child and in making such reasonable efforts, the child's health and safety must be the paramount concern.

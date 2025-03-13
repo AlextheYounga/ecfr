@@ -20,7 +20,7 @@
 
 (c) *Eligibility.* (1)(i) A spouse of a member of the armed forces as defined in paragraph (b)(4)(i) of this section must be currently married to the member of the armed forces on active duty.
 
-(ii) For appointments made on or after August 13, 2023, the following additional criteria must be met for eligibility for appointment (for appointments made prior to or on August 12, 2023, the criteria in this paragraph (c)(1)(ii) does not apply):
+(ii) For appointments made on or after January 1, 2029, the following additional criteria must be met for eligibility for appointment (for appointments made prior to or on December 31, 2028, the criteria in this paragraph (c)(1)(ii) does not apply):
 
 (A) The member of the armed forces must have received orders authorizing a permanent change of station.
 
@@ -34,7 +34,7 @@
 
 (4) Except as indicated in paragraph (c)(5) of this section, noncompetitive appointment of eligible spouses under this section are not restricted to a geographical location.
 
-(5) Beginning August 13, 2023, the noncompetitive appointment of a relocating spouse of a member of the armed forces as defined in paragraph (b)(4)(i) of this section is limited to the geographic area of the permanent duty station of the member of the armed forces, unless there is no agency with a position within the geographic area of the permanent duty station of the member of the armed forces.
+(5) Beginning January 1, 2029, the noncompetitive appointment of a relocating spouse of a member of the armed forces as defined in paragraph (b)(4)(i) of this section is limited to the geographic area of the permanent duty station of the member of the armed forces, unless there is no agency with a position within the geographic area of the permanent duty station of the member of the armed forces.
 
 (d) *Conditions.* (1) In accordance with the provisions of this section, a spouse is eligible for noncompetitive appointment:
 
@@ -44,7 +44,7 @@
 
 (iii) From the date of documentation verifying that the member of the armed forces was killed while on active duty where the spouse seeks appointment as the widow or widower of a member defined in paragraph (b)(4)(iii) of this section.
 
-(2) The spouse of a member of the armed forces as defined in paragraph (b)(4)(i) of this section may receive unlimited noncompetitive appointments under this section to permanent positions through August 12, 2023. Beginning August 13, 2023, the spouse of such a member may receive a noncompetitive appointment under this section if the member receives permanent change of station orders and is limited to one such appointment per permanent change of station.
+(2) The spouse of a member of the armed forces as defined in paragraph (b)(4)(i) of this section may receive unlimited noncompetitive appointments under this section to permanent positions through December 31, 2028. Beginning January 1, 2029, the spouse of such a member may receive a noncompetitive appointment under this section if the member receives permanent change of station orders and is limited to one such appointment per permanent change of station.
 
 (3) A spouse of a member of the armed forces as defined in paragraph (b)(4)(ii) or (iii) of this section may receive only one noncompetitive appointment under this section to a permanent position.
 
@@ -56,7 +56,7 @@
 
 (B) Documentation verifying marriage to the member of the armed forces (*i.e.,* a marriage certificate or other legal documentation verifying marriage).
 
-(ii) For appointments made on or after August 13, 2023, the spouse must also submit to the employing agency a copy of the service member's orders reflecting a permanent change of station, dated August 13, 2023, or later. (For appointments made on or before August 12, 2023, the requirement of this paragraph (e)(1)(ii) does not apply.)
+(ii) For appointments made on or after January 1, 2029, the spouse must also submit to the employing agency a copy of the service member's orders reflecting a permanent change of station, dated January 1, 2029, or later. (For appointments made on or before December 31, 2028, the requirement of this paragraph (e)(1)(ii) does not apply.)
 
 (2) Prior to appointment, the spouse of a member of the armed forces as defined in paragraph (b)(4)(ii) of this section must submit to the employing agency copies of:
 
@@ -100,4 +100,4 @@
 
 (4) Agencies are also required to send their reports separately and directly to Department of Labor (DOL) at *milspouse@dol.gov*.
 
-[74 FR 40476, Aug. 12, 2009, as amended at 76 FR 54072, Aug. 31, 2011; 86 FR 52396, Sept. 21, 2021]
+[74 FR 40476, Aug. 12, 2009, as amended at 76 FR 54072, Aug. 31, 2011; 86 FR 52396, Sept. 21, 2021; 88 FR 66678, Sept. 28, 2023]

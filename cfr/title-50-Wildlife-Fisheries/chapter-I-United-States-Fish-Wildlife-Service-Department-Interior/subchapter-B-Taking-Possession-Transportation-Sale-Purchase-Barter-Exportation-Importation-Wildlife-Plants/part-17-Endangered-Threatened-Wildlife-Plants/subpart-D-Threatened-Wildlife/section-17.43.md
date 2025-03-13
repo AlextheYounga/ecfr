@@ -1,7 +1,5 @@
 ##### § 17.43 Special rules—amphibians. #####
 
-Link to an amendment published at 88 FR 59725, Aug. 29, 2023.
-
 (a) San Marcos salamander (*Eurycea nana*). (1) All provisions of § 17.31 apply to this species, except that it may be taken in accordance with applicable State law.
 
 (2) Any violation of State law will also be a violation of the Act.
@@ -134,4 +132,42 @@ Link to an amendment published at 88 FR 59725, Aug. 29, 2023.
 
 (v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
-[40 FR 44415, Sept. 26, 1975, as amended at 45 FR 47363, July 14, 1980; 67 FR 40811, June 13, 2002; 69 FR 47248, Aug. 4, 2004; 71 FR 19293, Apr. 13, 2006; 77 FR 16375, Mar. 20, 2012; 80 FR 47428, Aug. 7, 2015; 86 FR 30728, June 9, 2021]
+(g) Foothill yellow-legged frog (*Rana boylii*), Central Coast Distinct Population Segment (DPS) and North Feather DPS.
+
+(1) *Location.* The Central Coast DPS and North Feather DPS of the foothill yellow-legged frog are shown on the map that follows:
+
+Figure 1 to paragraph (g)![](/graphics/er29au23.001.gif)
+
+(2) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Central Coast DPS and North Feather DPS of the foothill yellow-legged frog. Except as provided under paragraph (g)(3) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(3) *Exceptions from prohibitions.* In regard to the Central Coast DPS and North Feather DPS of the foothill yellow-legged frog, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take as set forth at § 17.31(b).
+
+(iv) Take incidental to an otherwise lawful activity caused by:
+
+(A) Forest management activities for the purposes of reducing the risk or severity of catastrophic wildfire, which include fuels reduction activities, non-emergency firebreak establishment or maintenance, and other non-emergency wildfire prevention and suppression activities that are in accordance with an established forest or fuels management plan that follow current State of California Forest Practice Rules, State fire codes, or local fire codes/ordinances as appropriate.
+
+(B) Habitat restoration efforts that are specifically designed to provide for the conservation of the foothill yellow-legged frog. These efforts must be part of and carried out in accordance with finalized conservation plans or strategies specifically identified for the foothill yellow-legged frog and include measures that minimize impacts to the North Feather DPS or Central Coast DPS. Habitat restoration efforts for other species that may not share habitat requirements (*e.g.,* salmonid species) are not included in this exception.
+
+(C) Efforts to remove and clean up trespass cannabis cultivation sites and related water diversion infrastructure and restore areas to precultivation conditions.
+
+(D) Removal or eradication of nonnative animal species including, but not limited to, American bullfrogs, smallmouth bass, and nonnative crayfish species occurring within stream reaches unoccupied by the foothill yellow-legged frog within the range of the Central Coast DPS or North Feather DPS. Actions involving habitat disturbance or the use of chemical treatments are not included.
+
+(v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+[40 FR 44415, Sept. 26, 1975, as amended at 45 FR 47363, July 14, 1980; 67 FR 40811, June 13, 2002; 69 FR 47248, Aug. 4, 2004; 71 FR 19293, Apr. 13, 2006; 77 FR 16375, Mar. 20, 2012; 80 FR 47428, Aug. 7, 2015; 86 FR 30728, June 9, 2021; 88 FR 59725, Aug. 29, 2023]

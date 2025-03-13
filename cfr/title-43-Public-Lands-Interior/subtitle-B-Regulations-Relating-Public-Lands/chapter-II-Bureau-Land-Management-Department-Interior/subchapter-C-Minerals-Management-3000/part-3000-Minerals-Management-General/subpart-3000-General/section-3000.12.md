@@ -1,5 +1,7 @@
 ##### § 3000.12 What is the fee schedule for fixed fees? #####
 
+Link to an amendment published at 88 FR 66699, Sept. 28, 2023.
+
 (a) The table in this section shows the fixed fees that must be paid to the BLM for the services listed for Fiscal Year (FY) 2023. These fees are nonrefundable and must be included with documents filed under this chapter. Fees will be adjusted annually according to the change in the Implicit Price Deflator for Gross Domestic Product (IPD-GDP) and the change in the Consumer Price Index for all goods and all urban consumers (CPI-U) by way of publication of a final rule in the Federal Register and will subsequently be posted on the BLM website (*http://www.blm.gov*) before October 1 each year. Revised fees are effective each year on October 1.
 
 Table 1 to Paragraph (a)—FY 2023 Processing and Filing Fee Table

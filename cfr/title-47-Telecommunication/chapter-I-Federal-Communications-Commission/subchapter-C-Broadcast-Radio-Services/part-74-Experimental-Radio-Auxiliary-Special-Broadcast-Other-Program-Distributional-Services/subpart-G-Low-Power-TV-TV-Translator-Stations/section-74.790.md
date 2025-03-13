@@ -1,6 +1,6 @@
 ##### § 74.790 Permissible service of TV translator and LPTV stations. #####
 
-Link to an amendment published at 88 FR 59468, Aug. 29, 2023.Link to an amendment published at 88 FR 59469, Aug. 29, 2023.
+Link to an amendment published at 88 FR 59469, Aug. 29, 2023.
 
 (a) TV translator stations provide a means whereby the signals of broadcast stations may be retransmitted to areas in which direct reception of such stations is unsatisfactory due to distance or intervening terrain barriers.
 
@@ -46,4 +46,122 @@ Link to an amendment published at 88 FR 59468, Aug. 29, 2023.Link to an amendmen
 
 (n) An LPTV station shall transmit at least the minimum Program System and Information Protocol (PSIP) information necessary for receivers to display the station's programming. The station is not required to utilize any specific virtual channel number but must avoid creating a contour overlap with any full power TV or Class A TV station's virtual channel, or creating a contour overlap with another LPTV station using the same virtual channel.
 
-[69 FR 69334, Nov. 29, 2004, as amended at 87 FR 58205, Sept. 23, 2022; 88 FR 30670, May 12, 2023]
+(o) Provision of analog FM radio operations by digital LPTV channel 6 stations (FM6 LPTV stations). FM6 LPTV stations may provide analog FM radio operations (FM6 operations) on an ancillary or supplementary basis subject to the following:
+
+(1) The FM6 LPTV station must have been providing FM6 operations pursuant to an active engineering special temporary authority on June 7, 2022, or as otherwise permitted by the Commission.
+
+(2) The FM6 LPTV station must be operating in ATSC 3.0 digital format, as authorized in § 74.782.
+
+(3) FM6 operations may only be conducted on 87.75 MHz.
+
+(4) FM6 operations shall be conducted on a non-interference basis to any other licensed user, including but not limited to broadcast television or radio users.
+
+(5) The FM6 LPTV station's FM6 service contour must be contained within and may not exceed the protected contour of the FM6 LPTV station's synchronized video/audio programming stream. These contours shall be determined using established methodologies in § 73.313 of this chapter (FM radio) and § 74.792 (LPTV).
+
+(6) The FM6 LPTV station must provide at least one stream of synchronized video and audio programming, at any time the station is operating.
+
+(7) FM6 LPTV stations may make minor modifications to their technical facilities, as otherwise permitted under part 73 of this chapter or this part, so long as the station's proposed modified “protected contour,” as defined in § 74.792, does not exceed its protected contour as it was authorized on July 20, 2023, or where the station can demonstrate that such change is being made due to an engineering necessity such as the loss of a tower site or change in equipment due to malfunction and where the station can also demonstrate that the modification will not cause any interference to other licensed users.
+
+(8) FM6 LPTV stations may be assigned or transferred; however, an FM6 LPTV station's FM6 operation is not severable from its digital license and may not be assigned or transferred separate from the FM6 LPTV station.
+
+(9)-(10) [Reserved]
+
+(11) FM6 LPTV stations shall continue to be subject to all rules in part 73 of this chapter and this part applicable to low power television stations. In addition, the following rules shall apply to FM6 LPTV stations with respect to their FM6 operations:
+
+(i) Part 11 of this chapter The Emergency Alert System (EAS).
+
+(ii) Section 73.293, Use of FM multiplex subcarriers.
+
+(iii) Section 73.295, FM subsidiary communications services.
+
+(iv) Section 73.297, FM stereophonic sound broadcasting.
+
+(v) Section 73.310, FM technical definitions.
+
+(vi) Section 73.313, Prediction of coverage.
+
+(vii) Section 73.319, FM multiplex subcarrier technical standards.
+
+(viii) Section 73.322, FM stereophonic sound transmission standards.
+
+(ix) Section 73.333, Engineering charts.
+
+(x) Section 73.1201, Station identification.
+
+(xi) Section 73.1206, Broadcast of telephone conversations.
+
+(xii) Section 73.1207, Rebroadcasts.
+
+(xiii) Section 73.1208, Broadcast of taped, filmed, or recorded material.
+
+(xiv) Section 73.1209, References to time.
+
+(xv) Section 73.1211, Broadcast of lottery information.
+
+(xvi) Section 73.1212, Sponsorship identification; list retention; related requirements.
+
+(xvii) Section 73.1216, Licensee-conducted contests.
+
+(xviii) Section 73.1217, Broadcast hoaxes.
+
+(xix) Section 73.1250, Broadcasting emergency information.
+
+(xx) Section 73.1300, Unattended station operation.
+
+(xxi) Section 73.1635, Special temporary authorizations (STA).
+
+(xxii) Section 73.1740, Minimum operating schedule.
+
+(xxiii) Section 73.1750, Discontinuance of operation.
+
+(xxiv) Section 73.1940, Legally qualified candidates for public office.
+
+(xxv) Section 73.1941, Equal opportunities.
+
+(xxvi) Section 73.1942, Candidate rates.
+
+(xxvii) Section 73.1943, Political file.
+
+(xxviii) Section 73.1944, Reasonable access.
+
+(xxix) Section 73.2080, Equal employment opportunities (EEO).
+
+(xxx) Section 73.3526, Online public inspection file of commercial stations.
+
+(xxxi) Section 73.4005, Advertising—refusal to sell.
+
+(xxxii) Section 73.4045, Barter agreements.
+
+(xxxiii) Section 73.4055, Cigarette advertising.
+
+(xxxiv) Section 73.4060, Citizens agreements.
+
+(xxxv) Section 73.4075, Commercials, loud.
+
+(xxxvi) Section 73.4095, Drug lyrics.
+
+(xxxvii) Section 73.4097, EBS (now EAS) attention signals on automated programing systems.
+
+(xxxviii) Section 73.4165, Obscene language.
+
+(xxxix) Section 73.4170, Obscene broadcasts.
+
+(xl) Section 73.4180, Payment disclosure: Payola, plugola, kickbacks.
+
+(xli) Section 73.4185, Political broadcasting and telecasting, the law of.
+
+(xlii) Section 73.4190, Political candidate authorization notice and sponsorship identification.
+
+(xliii) Section 73.4215, Program matter: Supplier identification.
+
+(xliv) Section 73.4242, Sponsorship identification rules, applicability of.
+
+(xlv) Section 73.4250, Subliminal perception.
+
+(xlvi) Section 73.4255, Tax certificates: Issuance of.
+
+(xlvii) Section 73.4260, Teaser announcements.
+
+(xlviii) Section 73.4265, Telephone conversation broadcasts (network and like sources).
+
+[69 FR 69334, Nov. 29, 2004, as amended at 87 FR 58205, Sept. 23, 2022; 88 FR 30670, May 12, 2023; 88 FR 59468, Aug. 29, 2023]
