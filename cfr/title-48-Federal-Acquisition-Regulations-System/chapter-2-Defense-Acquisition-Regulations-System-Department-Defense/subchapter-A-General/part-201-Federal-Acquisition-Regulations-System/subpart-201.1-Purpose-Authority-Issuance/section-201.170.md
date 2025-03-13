@@ -1,7 +1,5 @@
 ##### 201.170 Peer reviews. #####
 
-Link to an amendment published at 89 FR 79002, Sept. 26, 2024.
-
 (a) *Defense Pricing, Contracting, and Acquisition Policy peer reviews.* (1) The Office of the Principal Director, Defense Pricing, Contracting, and Acquisition Policy (DPCAP), using the procedures at PGI 201.170, will organize teams of reviewers and facilitate peer reviews for solicitations and contracts as follows:
 
 (i) DPCAP will conduct the preaward peer reviews for competitive procurements prior to the three phases of the acquisition (see PGI 201.170-2(a)) for all procurements with an estimated value of $1 billion or more under major defense acquisition programs for which the Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)) is the milestone decision authority or USD(A&S) designates as requiring a peer review regardless of value. DoD components may request DPCAP-led peer reviews for acquisitions valued below the $1 billion threshold. DPCAP will conduct these reviews upon approval by the Director, DPCAP (Contract Policy).
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 79002, Sept. 26, 2024.
 
 (i) Military departments and defense agencies shall submit quarterly forecasts for competitive peer reviews to the Director, DPCAP (Contract Policy), at *osd.pentagon.ousd-a-s.mbx.dpc-cp@mail.mil.*
 
-(ii) Military departments and defense agencies shall submit quarterly forecasts for noncompetitive peer reviews to the Director, DPCAP (Price, Cost and Finance), at *osd.pentagon.ousd-a-s.mbx.dpc-pcf@mail.mil.*
+(ii) Military departments and defense agencies shall submit quarterly forecasts for noncompetitive peer reviews to the Director, DPCAP (Price, Cost and Finance), at *osd.pentagon.ousd-a-s.mbx.dpc-pcf-peer-reviews@mail.mil*
 
 (b) *Component peer reviews.* The military departments and defense agencies shall establish procedures for—
 
@@ -32,4 +30,4 @@ Link to an amendment published at 89 FR 79002, Sept. 26, 2024.
 
 (2) Preaward peer reviews of noncompetitive procurements not subject to paragraph (a)(1)(ii) of this section.
 
-[86 FR 67877, Nov. 30, 2021, as amended at 89 FR 60830, July 29, 2024]
+[86 FR 67877, Nov. 30, 2021, as amended at 89 FR 60830, July 29, 2024; 89 FR 79002, Sept. 26, 2024]

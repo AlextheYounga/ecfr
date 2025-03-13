@@ -1,14 +1,14 @@
-##### § 235.7 Automated inspection services. #####
-
-Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
+##### § 235.7 Automated inspection services (PORTPASS). #####
 
 (a) *PORTPASS Program*—(1) *Definitions*—(i) *Port Passenger Accelerated Service System (PORTPASS).* A system in which certain ports-of-entry (POEs) are identified and designated by the Service as providing access to the United States for a group of identified, low-risk, border crossers. Alien participants in the PORTPASS program are personally inspected, identified, and screened in advance of approval for participation in the program by an immigration officer, and may apply to enter the United States through a dedicated commuter lane (DCL) or through an automated permit port (APP). Such advance inspection and identification, when the enrolled participant satisfies the conditions and requirements set fourth in this section, satisfies the reporting requirements of § 235.1(a). Each successful use of PORTPASS constitutes a separate and completed inspection and application for entry by the alien program participants on the date PORTPASS is used. United States citizens who meet the eligibility requirements for participation are subject to all rules, procedures, and conditions for use set forth in this section.
 
-(ii) *Automated Permit Port (APP).* A POE designated by the Service to provide access to the United States by an identified, low-risk, border crosser through the use of automation when the POE is not staffed. An APP has limited hours of operation and is located at a remote location on a land border. This program is limited to the northern border of the United States.
+(ii) *SENTRI program.* Although the SENTRI program is a PORTPASS program, all the parameters of the SENTRI program, including the eligibility requirements, application procedures, redress procedures, registration of vehicles, use of dedicated commuter lanes, and fee requirements are specified in § 235.14. For purposes of the SENTRI program, § 235.14 supersedes the provisions of this section.
 
-(iii) *Dedicated Commuter Lane (DCL).* A special lane set apart from the normal flow of traffic at a land border POE which allows an accelerated inspection for identified, low-risk travelers. This program is limited to the northern border of the United States and the California-Mexico border.
+(iii) *Automated Permit Port (APP).* A POE designated by the Service to provide access to the United States by an identified, low-risk, border crosser through the use of automation when the POE is not staffed. An APP has limited hours of operation and is located at a remote location on a land border. This program is limited to the northern border of the United States.
 
-(iv) *DCL system costs fee.* A fee charged to a participant to cover the cost of the implementation and operation of the PORTPASS system. If a participant wishes to enroll more than one vehicle for use in the PORTPASS system, he or she will be assessed an *additional vehicle fee* for each additional vehicle enrolled. Regardless of when the additional vehicle is enrolled, the expiration date for use of that vehicle in the DCL will be the same date that the respective participant's authorized use of the lane expires, or is otherwise revoked.
+(iv) *Dedicated Commuter Lane (DCL).* A special lane set apart from the normal flow of traffic at a land border POE which allows an accelerated inspection for identified, low-risk travelers. This program is limited to the northern border of the United States and the California-Mexico border.
+
+(v) *DCL system costs fee.* A fee charged to a participant to cover the cost of the implementation and operation of the PORTPASS system. If a participant wishes to enroll more than one vehicle for use in the PORTPASS system, he or she will be assessed an *additional vehicle fee* for each additional vehicle enrolled. Regardless of when the additional vehicle is enrolled, the expiration date for use of that vehicle in the DCL will be the same date that the respective participant's authorized use of the lane expires, or is otherwise revoked.
 
 (2) *Designation of POEs for PORTPASS access.* The following criteria shall be used by the Service in the selection of a POE when classifying the POE as having PORTPASS access:
 
@@ -76,4 +76,4 @@ Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
 
 (c) *Judicial review.* Nothing in this section is intended to create any right or benefit, substantive or procedural, enforceable in law or equity by a party against the Department of Justice, the Immigration and Naturalization Service, their officers or any employees of the Department of Justice.
 
-[61 FR 53831, Oct. 16, 1996. Redesignated at 62 FR 10358, Mar. 6, 1997; 68 FR 10145, Mar. 4, 2003; 85 FR 46926, Aug. 3, 2020]
+[61 FR 53831, Oct. 16, 1996. Redesignated at 62 FR 10358, Mar. 6, 1997; 68 FR 10145, Mar. 4, 2003; 85 FR 46926, Aug. 3, 2020; 89 FR 22628, Apr. 2, 2024]

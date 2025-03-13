@@ -1,5 +1,7 @@
 ##### § 61.197 Renewal requirements for flight instructor certification. #####
 
+Link to an amendment published at 89 FR 80051, Oct. 1, 2024.
+
 (a) A person who holds a flight instructor certificate that has not expired may renew that flight instructor certificate by—
 
 (1) Passing a practical test for—

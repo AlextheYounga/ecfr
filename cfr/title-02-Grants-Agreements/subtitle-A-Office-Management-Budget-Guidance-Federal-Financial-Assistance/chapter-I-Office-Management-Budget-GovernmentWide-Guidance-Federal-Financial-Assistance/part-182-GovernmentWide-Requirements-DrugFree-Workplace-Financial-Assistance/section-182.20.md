@@ -1,0 +1,3 @@
+##### § 182.20 What must a Federal agency do to implement the guidance? #####
+
+To comply with the requirement in 41 U.S.C. 8106 for government-wide regulations, each Federal agency that awards grants or cooperative agreements or makes other financial assistance awards that are subject to the drug-free workplace requirements in subparts A through F of the guidance must issue a regulation consistent with those subparts.

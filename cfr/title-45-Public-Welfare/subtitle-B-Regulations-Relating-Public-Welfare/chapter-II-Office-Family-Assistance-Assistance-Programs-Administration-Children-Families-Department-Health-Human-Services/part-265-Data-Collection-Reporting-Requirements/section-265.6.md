@@ -1,5 +1,5 @@
 ##### § 265.6 Must States file reports electronically? #####
 
-Link to an amendment published at 89 FR 53877, June 28, 2024.
+Each State must file all reports (*i.e.,* the TANF Data Report, the TANF Financial Report (or, as applicable, the Territorial Financial Report), the SSP-MOE Data Report, the Work Outcomes of TANF Exiters Report, and the Secondary School Diploma or its Recognized Equivalent Attainment Rate) electronically, based on format specifications that we will provide.
 
-Each State must file all quarterly reports (i.e., the TANF Data Report, the TANF Financial Report (or, as applicable, the Territorial Financial Report), and the SSP-MOE Data Report) electronically, based on format specifications that we will provide.
+[89 FR 53877, June 28, 2024]

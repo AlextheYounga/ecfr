@@ -1,7 +1,5 @@
 ##### § 418.114 Condition of participation: Personnel qualifications. #####
 
-Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
-
 (a) *General qualification requirements.* Except as specified in paragraph (c) of this section, all professionals who furnish services directly, under an individual contract, or under arrangements with a hospice, must be legally authorized (licensed, certified or registered) in accordance with applicable Federal, State and local laws, and must act only within the scope of his or her State license, or State certification, or registration. All personnel qualifications must be kept current at all times.
 
 (b) *Personnel qualifications for certain disciplines.* The following qualifications must be met:
@@ -190,7 +188,7 @@ Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
 
 (*4*) On or before December 31, 1977, was licensed or qualified as a physical therapist assistant and has achieved a satisfactory grade on a proficiency examination conducted, approved, or sponsored by the U.S. Public Health Service.
 
-(9) Marriage and family counselor as defined at § 410.53.
+(9) Marriage and family therapist as defined at § 410.53.
 
 (10) Mental health counselor as defined at § 410.54.
 
@@ -204,4 +202,4 @@ Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
 
 (2) Criminal background checks must be obtained in accordance with State requirements. In the absence of State requirements, criminal background checks must be obtained within three months of the date of employment for all states that the individual has lived or worked in the past 3 years.
 
-[73 FR 32204, June 5, 2008, as amended at 88 FR 79539, Nov. 16, 2023]
+[73 FR 32204, June 5, 2008, as amended at 88 FR 79539, Nov. 16, 2023; 89 FR 64272, Aug. 6, 2024]

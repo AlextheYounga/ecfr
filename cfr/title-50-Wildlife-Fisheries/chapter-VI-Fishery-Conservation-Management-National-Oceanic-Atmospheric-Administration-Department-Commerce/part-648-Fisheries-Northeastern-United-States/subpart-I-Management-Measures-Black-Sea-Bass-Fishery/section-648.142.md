@@ -1,5 +1,7 @@
 ##### § 648.142 Black sea bass specifications. #####
 
+Link to an amendment published at 89 FR 79783, Oct. 1, 2024.
+
 (a) *Specifications.* Commercial quota, recreational landing limit, research set-aside, and other specification measures. The Monitoring Committee will recommend to the MAFMC and the ASMFC, through the specification process, for use in conjunction with the ACL and ACT, sector-specific research set-asides, estimates of the sector-related discards, a recreational harvest limit, a commercial quota, along with other measures, as needed, that are projected to prevent overages of the applicable specified limits or targets for each sector as prescribed in the FMP. The following measures are to be considered by the Monitoring Committee:
 
 (1) Research quota set from a range of 0 to 3 percent of the maximum allowed.

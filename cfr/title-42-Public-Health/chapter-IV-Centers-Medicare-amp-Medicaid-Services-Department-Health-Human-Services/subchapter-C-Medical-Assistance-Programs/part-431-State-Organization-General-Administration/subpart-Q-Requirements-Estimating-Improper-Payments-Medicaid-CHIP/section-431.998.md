@@ -1,7 +1,5 @@
 ##### § 431.998 Difference resolution and appeal process. #####
 
-Link to an amendment published at 89 FR 69913, Aug. 28, 2024.
-
 (a) The State may file, in writing, a request with the relevant Federal contractor to resolve differences in the Federal contractor's findings based on medical, data processing, or eligibility reviews in Medicaid or CHIP.
 
 (b) The State must file requests to resolve differences based on the medical, data processing, or eligibility reviews within 25 business days after the report of review findings is shared with the State.
@@ -20,6 +18,6 @@ Link to an amendment published at 89 FR 69913, Aug. 28, 2024.
 
 (2) Provide CMS with valid evidence directly related to the finding(s) to support the State's position.
 
-(f) All differences, including those pending in CMS for final decision that are not overturned in time for improper payment rate calculation, will be considered as errors in the improper payment rate calculation in order to meet the reporting requirements of the IPIA.
+(f) All differences, including those pending in CMS for final decision that are not overturned in time for improper payment rate calculation, will be considered as errors in the improper payment rate calculation in order to meet the reporting requirements of the PIIA.
 
-[82 FR 31187, July 5, 2017]
+[82 FR 31187, July 5, 2017, as amended at 89 FR 69913, Aug. 28, 2024]

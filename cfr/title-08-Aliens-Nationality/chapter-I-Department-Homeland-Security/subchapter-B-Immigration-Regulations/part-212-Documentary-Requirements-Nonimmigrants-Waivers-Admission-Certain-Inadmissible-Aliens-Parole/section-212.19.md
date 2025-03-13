@@ -1,7 +1,5 @@
 ##### § 212.19 Parole for entrepreneurs. #####
 
-Link to an amendment published at 89 FR 60301, July 25, 2024.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Entrepreneur* means an alien who possesses a substantial ownership interest in a start-up entity and has a central and active role in the operations of that entity, such that the alien is well-positioned, due to his or her knowledge, skills, or experience, to substantially assist the entity with the growth and success of its business. For purposes of this section, an alien may be considered to possess a substantial ownership interest if he or she possesses at least a 10 percent ownership interest in the start-up entity at the time of adjudication of the initial grant of parole and possesses at least a 5 percent ownership interest in the start-up entity at the time of adjudication of a subsequent period of re-parole. During the period of initial parole, the entrepreneur may continue to reduce his or her ownership interest in the start-up entity, but must, at all times during the period of initial parole, maintain at least a 5 percent ownership interest in the entity. During the period of re-parole, the entrepreneur may continue to reduce his or her ownership interest in the start-up entity, but must, at all times during the period of parole, maintain an ownership interest in the entity.
@@ -14,9 +12,9 @@ Link to an amendment published at 89 FR 60301, July 25, 2024.
 
 (5) *Qualified investor* means an individual who is a U.S. citizen or lawful permanent resident of the United States, or an organization that is located in the United States and operates through a legal entity organized under the laws of the United States or any state, that is majority owned and controlled, directly and indirectly, by U.S. citizens or lawful permanent residents of the United States, provided such individual or organization regularly makes substantial investments in start-up entities that subsequently exhibit substantial growth in terms of revenue generation or job creation. The term “qualified investor” shall not include an individual or organization that has been permanently or temporarily enjoined from participating in the offer or sale of a security or in the provision of services as an investment adviser, broker, dealer, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent or credit rating agency, barred from association with any entity involved in the offer or sale of securities or provision of such services, or otherwise found to have participated in the offer or sale of securities or provision of such services in violation of law. For purposes of this section, such an individual or organization may be considered a qualified investor if, during the preceding 5 years:
 
-(i) The individual or organization made investments in start-up entities in exchange for equity, convertible debt, or other security convertible into equity commonly used in financing transactions within their respective industries comprising a total in such 5-year period of no less than $633,952; and
+(i) The individual or organization made investments in start-up entities in exchange for equity, convertible debt, or other security convertible into equity commonly used in financing transactions within their respective industries comprising a total in such 5-year period of no less than $746,571; and
 
-(ii) Subsequent to such investment by such individual or organization, at least 2 such entities each created at least 5 qualified jobs or generated at least $528,293 in revenue with average annualized revenue growth of at least 20 percent.
+(ii) Subsequent to such investment by such individual or organization, at least 2 such entities each created at least 5 qualified jobs or generated at least $622,142 in revenue with average annualized revenue growth of at least 20 percent.
 
 (6) *Qualified job* means full-time employment located in the United States that has been filled for at least 1 year by one or more qualifying employees.
 
@@ -38,9 +36,9 @@ Link to an amendment published at 89 FR 60301, July 25, 2024.
 
 (B) Establishing that the alien's entity has:
 
-(*1*) Received, within 18 months immediately preceding the filing of an application for initial parole, a qualified investment amount of at least $264,147 from one or more qualified investors; or
+(*1*) Received, within 18 months immediately preceding the filing of an application for initial parole, a qualified investment amount of at least $311,071 from one or more qualified investors; or
 
-(*2*) Received, within 18 months immediately preceding the filing of an application for initial parole, an amount of at least $105,659 through one or more qualified government awards or grants.
+(*2*) Received, within 18 months immediately preceding the filing of an application for initial parole, an amount of at least $124,429 through one or more qualified government awards or grants.
 
 (iii) *Alternative criteria.* An alien who satisfies the criteria in paragraph (b)(2)(ii)(A) of this section and partially meets one or both of the criteria in paragraph (b)(2)(ii)(B) of this section may alternatively meet the standard described in paragraph (b)(2)(i) of this section by providing other reliable and compelling evidence of the start-up entity's substantial potential for rapid growth and job creation.
 
@@ -54,11 +52,11 @@ Link to an amendment published at 89 FR 60301, July 25, 2024.
 
 (B) Establishing that the alien's entity has:
 
-(*1*) Received at least $528,293 in qualifying investments, qualified government grants or awards, or a combination of such funding, during the initial parole period;
+(*1*) Received at least $622,142 in qualifying investments, qualified government grants or awards, or a combination of such funding, during the initial parole period;
 
 (*2*) Created at least 5 qualified jobs with the start-up entity during the initial parole period; or
 
-(*3*) Reached at least $528,293 in annual revenue in the United States and averaged 20 percent in annual revenue growth during the initial parole period.
+(*3*) Reached at least $622,142 in annual revenue in the United States and averaged 20 percent in annual revenue growth during the initial parole period.
 
 (iii) *Alternative criteria.* An alien who satisfies the criteria in paragraph (c)(2)(ii)(A) of this section and partially meets one or more of the criteria in paragraph (c)(2)(ii)(B) of this section may alternatively meet the standard described in paragraph (c)(2)(i) of this section by providing other reliable and compelling evidence of the start-up entity's substantial potential for rapid growth and job creation.
 
@@ -108,4 +106,4 @@ Link to an amendment published at 89 FR 60301, July 25, 2024.
 
 (l) *Increase of investment and revenue amount requirements.* The investment and revenue amounts in this section will be automatically adjusted every 3 years by the Consumer Price Index and posted on the USCIS Web site at *www.uscis.gov.* Investment and revenue amounts adjusted under this paragraph will apply to all applications filed on or after the beginning of the fiscal year for which the adjustment is made.
 
-[82 FR 5286, Jan. 17, 2017, as amended at 85 FR 46923, Aug. 3, 2020; 86 FR 50841, Sept. 13, 2021; 89 FR 6396, Jan. 31, 2024]
+[82 FR 5286, Jan. 17, 2017, as amended at 85 FR 46923, Aug. 3, 2020; 86 FR 50841, Sept. 13, 2021; 89 FR 6396, Jan. 31, 2024; 89 FR 60301, July 25, 2024]

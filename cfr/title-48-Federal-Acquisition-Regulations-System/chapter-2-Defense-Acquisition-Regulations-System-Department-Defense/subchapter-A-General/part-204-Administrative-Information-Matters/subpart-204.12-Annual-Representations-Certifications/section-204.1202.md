@@ -1,7 +1,5 @@
 ##### 204.1202 Solicitation provision and contract clause. #####
 
-Link to an amendment published at 89 FR 78991, Sept. 26, 2024.
-
 When using the provision at FAR 52.204-8, Annual Representations and Certifications—
 
 (1) Use the provision with 252.204-7007, Alternate A, Annual Representations and Certifications; and
@@ -36,6 +34,4 @@ When using the provision at FAR 52.204-8, Annual Representations and Certificati
 
 (xiv) 252.232-7015, Performance-Based Payments—Representation.
 
-(xv) 252.247-7022, Representation of Extent of Transportation by Sea.
-
-[76 FR 58141, Sept. 20, 2011, as amended at 77 FR 19129, Mar. 30, 2012; 77 FR 35879, June 15, 2012; 78 FR 37983, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 45664, Aug. 5, 2014; 79 FR 51264, Aug. 28, 2014; 79 FR 73489, Dec. 11, 2014; 80 FR 5000, Jan. 29, 2015; 83 FR 24888, May 30, 2018; 83 FR 66071, Dec. 21, 2018; 84 FR 30947, June 28, 2019; 84 FR 72236, 72559, Dec. 31, 2019; 85 FR 19687, Apr. 8, 2020; 85 FR 74611, Nov. 23, 2020]
+[76 FR 58141, Sept. 20, 2011, as amended at 77 FR 19129, Mar. 30, 2012; 77 FR 35879, June 15, 2012; 78 FR 37983, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 45664, Aug. 5, 2014; 79 FR 51264, Aug. 28, 2014; 79 FR 73489, Dec. 11, 2014; 80 FR 5000, Jan. 29, 2015; 83 FR 24888, May 30, 2018; 83 FR 66071, Dec. 21, 2018; 84 FR 30947, June 28, 2019; 84 FR 72236, 72559, Dec. 31, 2019; 85 FR 19687, Apr. 8, 2020; 85 FR 74611, Nov. 23, 2020; 89 FR 78991, Sept. 26, 2024]

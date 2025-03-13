@@ -1,5 +1,7 @@
 ##### § 141.11 Pilot school ratings. #####
 
+Link to an amendment published at 89 FR 80054, Oct. 1, 2024.
+
 (a) The ratings listed in paragraph (b) of this section may be issued to an applicant for:
 
 (1) A pilot school certificate, provided the applicant meets the requirements of § 141.5 of this part; or

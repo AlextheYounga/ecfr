@@ -1,8 +1,6 @@
-##### § 2522.800 How will the Corporation evaluate individual AmeriCorps programs? #####
+##### § 2522.800 How will AmeriCorps evaluate individual AmeriCorps programs? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
-
-The Corporation will evaluate programs based on the following: (a) The extent to which the program meets the objectives established and agreed to by the grantee and the Corporation before the grant award;
+AmeriCorps will evaluate programs based on the following: (a) The extent to which the program meets the objectives established and agreed to by the grantee and AmeriCorps before the grant award;
 
 (b) The extent to which the program is cost-effective; and
 
@@ -20,6 +18,6 @@ The Corporation will evaluate programs based on the following: (a) The extent to
 
 (7) Providing services and activities that could not otherwise be performed by employed workers and that will not supplant the hiring of, or result in the displacement of, employed workers; and
 
-(8) Other criteria determined and published by the Corporation.
+(8) Other criteria determined and published by AmeriCorps.
 
 [59 FR 13796, Mar. 23, 1994. Redesignated at 70 FR 39603, July 8, 2005]

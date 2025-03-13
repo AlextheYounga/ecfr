@@ -1,5 +1,7 @@
 ##### § 61.19 Duration of pilot and instructor certificates and privileges. #####
 
+Link to an amendment published at 89 FR 80049, Oct. 1, 2024.
+
 (a) *General.* (1) The holder of a certificate with an expiration date may not, after that date, exercise the privileges of that certificate.
 
 (2) Except for a certificate issued with an expiration date, a pilot certificate is valid unless it is surrendered, suspended, or revoked.

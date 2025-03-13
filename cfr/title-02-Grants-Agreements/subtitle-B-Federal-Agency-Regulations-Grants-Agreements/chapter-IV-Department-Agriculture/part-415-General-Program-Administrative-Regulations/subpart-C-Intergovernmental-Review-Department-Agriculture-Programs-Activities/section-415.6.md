@@ -16,4 +16,4 @@
 
 (6) Seeks the coordination of views of affected State and local elected officials in one State with those of another State when proposed Federal financial assistance or direct Federal development has an impact on interstate metropolitan urban centers or other interstate areas; and
 
-(7) Supports State and local governments by discouraging the reauthorization or creation of any planning organization which is Federally-funded, which has a limited purpose, and which is not adequately representative of, or accountable to, State or local elected officials.
+(7) Supports State and local governments by discouraging the reauthorization or creation of any planning organization which is Federally funded, which has a limited purpose, and which is not adequately representative of, or accountable to, State or local elected officials.

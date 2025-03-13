@@ -1,0 +1,5 @@
+##### § 184.1 Purpose and policy. #####
+
+(a) *Purpose.* This part provides guidance to Federal agencies on the implementation of the Buy America Preference applicable to Federal financial assistance set forth in part I of subtitle A, Buy America Sourcing Preferences, of the Build America, Buy America Act included in the Infrastructure Investment and Jobs Act (Pub. L. 117-58) at division G, title IX, subtitle A, part I, sections 70911 through 70917.
+
+(b) *Policy.* The head of each Federal agency must ensure that none of the funds made available for a Federal award for an infrastructure project may be obligated unless all of the iron, steel, manufactured products, and construction materials incorporated into the project are produced in the United States. *See* section 70914(a) of the Build America Buy America Act.

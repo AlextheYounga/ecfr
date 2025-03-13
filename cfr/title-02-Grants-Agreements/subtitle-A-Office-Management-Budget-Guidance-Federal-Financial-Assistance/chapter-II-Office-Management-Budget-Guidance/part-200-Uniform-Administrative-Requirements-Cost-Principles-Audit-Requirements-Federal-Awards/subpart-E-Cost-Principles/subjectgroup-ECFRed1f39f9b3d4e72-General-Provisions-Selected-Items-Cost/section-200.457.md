@@ -1,0 +1,3 @@
+##### § 200.457 Plant and security costs. #####
+
+Necessary and reasonable expenses incurred for the protection and security of facilities, personnel, and work products are allowable. Such costs include, but are not limited to, wages and uniforms of personnel engaged in security activities; equipment; barriers; protective (non-military) gear, devices, and equipment; contractual security services; and consultants. Capital expenditures for plant security purposes are subject to § 200.439.

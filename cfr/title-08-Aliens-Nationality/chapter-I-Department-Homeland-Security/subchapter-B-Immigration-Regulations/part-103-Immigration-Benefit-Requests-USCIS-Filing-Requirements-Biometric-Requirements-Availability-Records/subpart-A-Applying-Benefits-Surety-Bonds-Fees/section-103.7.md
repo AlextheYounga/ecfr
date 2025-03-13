@@ -1,7 +1,5 @@
 ##### § 103.7 Fees. #####
 
-Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
-
 (a) *Department of Justice (DOJ) fees.* Fees for proceedings before immigration judges and the Board of Immigration Appeals are described in 8 CFR 1003.8, 1003.24, and 1103.7.
 
 (1) *USCIS may accept DOJ fees.* Except as provided in 8 CFR 1003.8, or as the Attorney General otherwise may provide by regulation, any fee relating to any EOIR proceeding may be paid to USCIS. Payment of a fee under this section does not constitute filing of the document with the Board or with the immigration court. DHS will provide the payer with a receipt for a fee and return any documents submitted with the fee relating to any immigration court proceeding.
@@ -16,17 +14,7 @@ Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
 
 (d) *Non-USCIS DHS immigration fees.* The following fees are applicable to one or more of the immigration components of DHS:
 
-(1) *DCL system costs fee.* For use of a Dedicated Commuter Lane (DCL) located at specific U.S. ports-of-entry by an approved participant in a designated vehicle:
-
-(i) $80.00; or
-
-(ii) $160.00 for a family (applicant, spouse and minor children); plus,
-
-(iii) $42 for each additional vehicle enrolled.
-
-(iv) The fee is due after approval of the application but before use of the DCL.
-
-(v) This fee is non-refundable but may be waived by DHS.
+(1) [Reserved]
 
 (2) *Petition for Approval of School for Attendance by Nonimmigrant Student* (*Form I-17*). (i) For filing a petition for school certification: $3,000 plus, a site visit fee of $655 for each location required to be listed on the form.
 
@@ -58,6 +46,8 @@ Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
 
 (vi) For replacement of PORTPASS documentation during the participation period: $25.00.
 
+(vii) For the SENTRI program, see paragraph (d)(16) of this section.
+
 (8) *Fee Remittance for F, J, and M Nonimmigrants (Form I-901).* The fee for Form I-901 is:
 
 (i) For F and M students: $350.
@@ -80,10 +70,12 @@ Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
 
 (12) *Request for authorization for parole of an alien into the United States.* $65.00.
 
-(13) *Global Entry.* Application for Global Entry: $100.
+(13) *Global Entry.* For filing an application for Global Entry—$120. Minors under the age of 18 who apply to the Global Entry program concurrently with a parent or legal guardian, or whose parent or legal guardian is already a participant of Global Entry, are exempt from payment of the application fee.
 
 (14) *U.S. Asia-Pacific Economic Cooperation (APEC) Business Travel Card.* Application fee: $70.
 
 (15) *Notice of Appeal or Motion (Form I-290B) filed with ICE SEVP.* For a Form I-290B filed with the Student and Exchange Visitor Program (SEVP): $675.
 
-[85 FR 46914, Aug. 3, 2020, as amended at 87 FR 18980, Apr. 1, 2022; 87 FR 41029, July 11, 2022; 89 FR 6384, Jan. 31, 2024]
+(16) *SENTRI program.* For filing an application for the SENTRI program—$120. Minors under the age of 18 who apply to the SENTRI program concurrently with a parent or legal guardian, or whose parent or legal guardian is already a participant of SENTRI, are exempt from payment of the application fee. Registration of one vehicle for use in the SENTRI lanes is included in the $120 application fee and may be done during the initial application or renewal process If an applicant or participant wishes to register more than one vehicle for use in the SENTRI lanes, or the participant registers any vehicle after the initial application or renewal process, that applicant or participant will be assessed an additional fee of $42 for each vehicle.
+
+[85 FR 46914, Aug. 3, 2020, as amended at 87 FR 18980, Apr. 1, 2022; 87 FR 41029, July 11, 2022; 89 FR 6384, Jan. 31, 2024; 89 FR 22628, Apr. 2, 2024]

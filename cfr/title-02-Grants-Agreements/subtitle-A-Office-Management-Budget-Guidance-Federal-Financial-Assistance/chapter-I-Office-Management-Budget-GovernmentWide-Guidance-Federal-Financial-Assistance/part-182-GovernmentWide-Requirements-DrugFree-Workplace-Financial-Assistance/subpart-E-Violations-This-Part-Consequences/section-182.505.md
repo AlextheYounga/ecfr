@@ -1,0 +1,7 @@
+##### § 182.505 How are violations of this part determined for recipients who are individuals? #####
+
+A recipient who is an individual is in violation of the requirements of this part if the Federal agency head or their designee determines, in writing, that:
+
+(a) The recipient has violated the requirements of subpart C of this part; or
+
+(b) The recipient is convicted of a criminal drug offense resulting from a violation occurring during the conduct of any award activity.

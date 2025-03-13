@@ -1,0 +1,5 @@
+##### § 200.406 Applicable credits. #####
+
+(a) Applicable credits refer to transactions that offset or reduce direct or indirect costs allocable to a Federal award. Examples of such transactions are purchase discounts, rebates or allowances, recoveries or indemnities on losses, insurance refunds or rebates, and adjustments of overpayments or erroneous charges. To the extent that such credits accruing to or received by the recipient or subrecipient relate to allowable costs, they must be credited to the Federal award either as a cost reduction or cash refund, as appropriate.
+
+(b) In some instances, the amounts received from the Federal Government to finance activities or service operations of the recipient or subrecipient should be treated as applicable credits. Specifically, the concept of netting such credit items (including any amounts used to meet cost sharing requirements) must be recognized in determining the rates or amounts to be charged to the Federal award. See §§ 200.436 and 200.468 for potential application areas.

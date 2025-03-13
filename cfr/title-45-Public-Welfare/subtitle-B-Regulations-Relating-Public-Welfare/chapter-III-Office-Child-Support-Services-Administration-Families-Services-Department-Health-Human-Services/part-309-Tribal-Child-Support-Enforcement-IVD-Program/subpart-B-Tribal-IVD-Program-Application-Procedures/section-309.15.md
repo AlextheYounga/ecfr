@@ -26,4 +26,4 @@
 
 (d) *Plan Amendments.* Plan amendments must be submitted in accordance with the requirements of § 309.35(e).
 
-[69 FR 16672, Mar. 30, 2004, as amended at 89 FR 9792, Feb. 12, 2024]
+[69 FR 16672, Mar. 30, 2004, as amended at 89 FR 9792, Feb. 12, 2024; 89 FR 9792, Feb. 12, 2024]

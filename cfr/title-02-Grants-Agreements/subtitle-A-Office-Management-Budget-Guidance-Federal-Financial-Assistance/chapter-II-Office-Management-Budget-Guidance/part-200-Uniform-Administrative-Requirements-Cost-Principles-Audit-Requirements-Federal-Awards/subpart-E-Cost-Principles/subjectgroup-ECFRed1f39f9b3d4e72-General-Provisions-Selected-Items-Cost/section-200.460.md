@@ -1,0 +1,3 @@
+##### § 200.460 Proposal costs. #####
+
+Proposal costs are the costs of preparing bids, proposals, or applications on potential Federal and non-Federal awards or projects, including developing data necessary to support the recipient's or subrecipient's bids or proposals. Proposal costs of the current accounting period of both successful and unsuccessful bids and proposals normally should be treated as indirect costs and allocated to all current activities of the recipient or subrecipient. No proposal costs of past accounting periods may be allocated to the current period.

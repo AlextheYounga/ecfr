@@ -1,7 +1,5 @@
 ##### § 2551.73 May a Senior Companion serve as a volunteer leader? #####
 
-Link to an amendment published at 89 FR 70542, Aug. 30, 2024.
-
 Yes. Senior Companions—who on the basis of experience as volunteers, special skills, and demonstrated leadership abilities—may spend time, in addition to their regular assignment, to assist newer Senior Companion volunteers in performing their assignments and in coordinating activities of such volunteers.
 
 (a) All Senior Companions serving as volunteer leaders shall receive a written volunteer assignment plan developed by the volunteer station that:

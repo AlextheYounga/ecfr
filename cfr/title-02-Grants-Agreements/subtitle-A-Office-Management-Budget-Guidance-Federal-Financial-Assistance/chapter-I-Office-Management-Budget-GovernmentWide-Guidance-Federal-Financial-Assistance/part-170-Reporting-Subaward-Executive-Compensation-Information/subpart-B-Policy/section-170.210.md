@@ -1,0 +1,5 @@
+##### § 170.210 Requirements for notices of funding opportunities, regulations, and application instructions. #####
+
+(a) A Federal agency that makes Federal awards subject to the Transparency Act must include the requirements of paragraph (b) of this section in each notice of funding opportunity, regulation, or other issuance containing instructions for applicants under which Federal awards may be made that are subject to Transparency Act reporting requirements. A notice of funding opportunity is any paper or electronic issuance that a Federal agency uses to announce a funding opportunity, whether it is called a “program announcement,” “notice of funding availability,” “broad agency announcement,” “research announcement,” “solicitation,” or any other term.
+
+(b) The notice of funding opportunity, regulation, or other issuance must require each applicant, to which this part applies, to have the necessary processes and systems in place to comply with this part if they receive a Federal award.

@@ -1,7 +1,5 @@
 ##### § 2553.52 Under what circumstances may a sponsor remove an RSVP volunteer from service? #####
 
-Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
-
 (a) A sponsor may remove an RSVP volunteer from service for cause. Grounds for removal include, but are not limited to: Extensive and unauthorized absences; misconduct; failure to perform assignments and or failure to accept supervision.
 
 (b) The sponsor shall establish appropriate policies on removal from service as well as procedures for appeal.

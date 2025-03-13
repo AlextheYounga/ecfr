@@ -1,7 +1,5 @@
 ##### § 412.230 Criteria for an individual hospital seeking redesignation to another rural area or an urban area. #####
 
-Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
-
 (a) *General*—(1) *Purposes.* Except as specified in paragraph (a)(5)—
 
 (i) For fiscal years prior to fiscal year 2005, an individual hospital may be redesignated from a rural area to an urban area, from a rural area to another rural area, or from an urban area to another urban area for the purposes of using the other area's standardized amount for inpatient operating costs, the wage index value, or both.
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
 
 (5) *Limitations on redesignation.* The following limitations apply to redesignation:
 
-(i) An individual hospital may not be redesignated to another area for purposes of the wage index if the pre-reclassified average hourly wage for that area is lower than the pre-reclassified average hourly wage for the area in which the hospital is located. An urban hospital that has been granted redesignation as rural under § 412.103 is considered to be located in the rural area of the state for the purposes of this paragraph (a)(5)(i).
+(i) An individual hospital may not be redesignated to another area for purposes of the wage index if the pre-reclassified average hourly wage for that area is lower than the pre-reclassified average hourly wage for the area in which the hospital is located. An urban hospital that has been granted redesignation as rural under § 412.103 is considered to be located either in its geographic area or in the rural area of the State for the purposes of this paragraph (a)(5)(i).
 
 (ii) A hospital may not be redesignated to more than one area, except for an urban hospital that has been granted redesignation as rural under § 412.103 and receives an additional reclassification by the MGCRB.
 

@@ -1,7 +1,5 @@
 ##### § 2552.41 Who is eligible to be a Foster Grandparent? #####
 
-Link to an amendment published at 89 FR 70544, Aug. 30, 2024.
-
 (a) To be a Foster Grandparent an individual must:
 
 (1) Be 55 years of age or older; and

@@ -1,3 +1,1 @@
-##### 225.7024 xxx #####
-
-Link to an amendment published at 89 FR 78999, Sept. 26, 2024.
+##### 225.7024 Restriction on acquisition of fuel for overseas contingency operations. #####

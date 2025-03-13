@@ -1,7 +1,5 @@
 ##### § 413.338 Skilled nursing facility value-based purchasing program. #####
 
-Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
-
 (a) *Definitions.* As used in this section:
 
 *Achievement threshold (or achievement performance standard)* means the 25th percentile of SNF performance on a measure during the baseline period for a fiscal year.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
 
 *Eligible stay* means, for purposes of the SNF readmission measure, an index SNF admission that would be included in the denominator of that measure.
 
-*Health equity adjustment (HEA) bonus points* means the points that a SNF can earn for a program year based on its performance and proportion of SNF residents who are members of the underserved population.
+*Health equity adjustment (HEA) bonus points* means the points that a SNF can earn for a fiscal year based on its performance and proportion of SNF residents who are members of the underserved population.
 
 *Improvement threshold (or improvement performance standard)* means an individual SNF's performance on a measure during the applicable baseline period for that fiscal year.
 
@@ -24,23 +22,23 @@ Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
 
 *Low-volume SNF* means a SNF with fewer than 25 eligible stays included in the SNF readmission measure denominator during the performance period for each of fiscal years 2019 through 2022.
 
-*Measure performance scaler* means, for a program year, the sum of the points assigned to a SNF for each measure on which the SNF is a top tier performing SNF.
+*Measure performance scaler* means, for a fiscal year, the sum of the points assigned to a SNF for each measure on which the SNF is a top tier performing SNF.
 
 *Performance period* means the time period during which SNF performance on a measure is calculated for a fiscal year.
-
-*Performance score* means the numeric score ranging from 0 to 100 awarded to each SNF based on its performance under the SNF VBP Program for a fiscal year.
 
 *Performance standards* are the levels of performance that SNFs must meet or exceed to earn points on a measure under the SNF VBP Program for a fiscal year.
 
 *Ranking* means the ordering of SNFs based on each SNF's performance score under the SNF VBP Program for a fiscal year.
 
-*SNF readmission measure* means, prior to October 1, 2019, the all-cause all-condition hospital readmission measure (SNFRM) or the all-condition risk-adjusted potentially preventable hospital readmission rate (SNFPPR) specified by CMS for application in the SNF Value-Based Purchasing Program. Beginning October 1, 2019, the term SNF readmission measure means the all-cause all-condition hospital readmission measure (SNFRM) or the all-condition risk-adjusted potentially preventable hospital readmission rate (Skilled Nursing Facility Potentially Preventable Readmissions after Hospital Discharge measure) specified by CMS for application in the SNF VBP Program.
+*SNF performance score* means the numeric score ranging from 0 to 100 awarded to each SNF based on its performance under the SNF VBP Program for a fiscal year.
+
+*SNF readmission measure* means, prior to October 1, 2027, the SNF 30-Day All-Cause Readmission Measure (SNFRM) specified under section 1888(g)(1) of the Social Security Act. Beginning October 1, 2027, the term SNF readmission measure means the SNF Within-Stay Potentially Preventable Readmission (SNF WS PPR) Measure specified under section 1888(g)(2) of the Social Security Act.
 
 *SNF Value-Based Purchasing (VBP) Program* means the program required under section 1888(h) of the Act.
 
-*Top tier performing SNF* means a SNF whose performance on a measure during the applicable program year meets or exceeds the 66.67th percentile of SNF performance on the measure during the same program year.
+*Top tier performing SNF* means a SNF whose performance on a measure during the applicable fiscal year meets or exceeds the 66.67th percentile of SNF performance on the measure during the same fiscal year.
 
-*Underserved multiplier* means the mathematical result of applying a logistic function to the number of SNF residents who are members of the underserved population out of the SNF's total Medicare population, as identified from the SNF's Part A claims, during the performance period that applies to the 1-year measures for the applicable program year.
+*Underserved multiplier* means the mathematical result of applying a logistic function to the number of SNF residents who are members of the underserved population out of the SNF's total Medicare population, as identified from the SNF's Part A claims, during the performance period that applies to the 1-year measures for the applicable fiscal year.
 
 *Underserved population* means Medicare beneficiaries who are SNF residents in a Medicare Part A stay who are also dually eligible, both partial and full, for Medicaid.
 
@@ -78,22 +76,6 @@ Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
 
 (3) If, with respect to a fiscal year beginning with fiscal year 2019 through and including fiscal year 2022, CMS determines that a SNF is a low-volume SNF, CMS will assign a performance score to the SNF for the fiscal year that, when used to calculate the value-based incentive payment amount (as defined in paragraph (a)(17) of this section), results in a value-based incentive payment amount that is equal to the adjusted Federal per diem rate (as defined in paragraph (a)(2) of this section) that would apply to the SNF for the fiscal year without application of § 413.337(f).
 
-(4)(i) A SNF may request and CMS may grant exceptions to the SNF Value-Based Purchasing Program's requirements under this section for one or more calendar months when there are certain extraordinary circumstances beyond the control of the SNF.
-
-(ii) A SNF may request an exception within 90 days of the date that the extraordinary circumstances occurred in the form and manner specified by CMS on the SNF VBP website at *https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs/SNF-VBP/Extraordinary-Circumstance-Exception-.* The request must include a completed Extraordinary Circumstances Request form (available on *https://qualitynet.cms.gov/*) and any available evidence of the impact of the extraordinary circumstances on the care that the SNF furnished to patients including, but not limited to, photographs and media articles.
-
-(iii) Except as provided in paragraph (d)(4)(iv) of this section, CMS will not consider an exception request unless the SNF requesting such exception has complied fully with the requirements in this paragraph (d).
-
-(iv) CMS may grant exceptions to SNFs without a request if it determines that an extraordinary circumstance affects an entire region or locale.
-
-(v) CMS will calculate a SNF Performance Score for a fiscal year for a SNF for which it has granted an exception request that does not include its performance on a quality measure during the calendar months affected by the extraordinary circumstance.
-
-(5) CMS will specify the measures for application in the SNF VBP Program for a given fiscal year.
-
-(6)(i) Performance standards are announced no later than 60 days prior to the start of the performance period that applies to that measure for that fiscal year.
-
-(ii) Beginning with the performance standards that apply to FY 2021, if CMS discovers an error in the performance standard calculations subsequent to publishing their numerical values for a fiscal year, CMS will update the numerical values to correct the error. If CMS subsequently discovers one or more other errors with respect to the same fiscal year, CMS will not further update the numerical values for that fiscal year.
-
 (e) *Performance scoring under the SNF VBP Program beginning with fiscal year 2026.* (1) *Points awarded based on SNF performance.* CMS will award points to SNFs based on their performance on each measure for which the SNF reports the applicable minimum number of cases during the performance period applicable to that fiscal year as follows:
 
 (i) CMS will award from 1 to 9 points for achievement to each SNF whose performance on a measure during the applicable performance period meets or exceeds the achievement threshold for that measure but is less than the benchmark for that measure.
@@ -122,11 +104,39 @@ Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
 
 (f) *Confidential feedback reports and public reporting.*
 
-(1) CMS will provide quarterly confidential feedback reports to SNFs on their performance on each measure specified for the fiscal year. Beginning with the baseline period and performance period quality measure quarterly reports issued on or after October 1, 2021, which contain the baseline period and performance period measure rates, respectively, SNFs will have 30 days following the date CMS provides each of these reports to review and submit corrections to the measure rates contained in that report. The administrative claims data used to calculate measure rates are not subject to review and correction under paragraph (f)(1) of this section. All correction requests must be accompanied by appropriate evidence showing the basis for the correction to each of the applicable measure rates.
+(1) CMS will provide quarterly confidential feedback reports to SNFs on their performance on each measure specified for the fiscal year. Beginning with the baseline period and performance period quality measure quarterly reports issued on or after October 1, 2021, CMS calculates the measure rates included in those reports using data that are current as of a specified date as follows:
 
-(2) Beginning not later than 60 days prior to each fiscal year, CMS will provide SNF performance score reports to SNFs on their performance under the SNF VBP Program for a fiscal year. SNFs will have the opportunity to review and submit corrections to their SNF performance scores and ranking contained in these reports for 30 days following the date that CMS provides the reports. Any such correction requests must be accompanied by appropriate evidence showing the basis for the correction.
+(i) For the SNFRM, the specified date is 3 months after the last index SNF admission in the applicable baseline period or performance period.
 
-(3) CMS will publicly report the information described in paragraphs (f)(1) and (2) of this section on the Nursing Home Compare website or a successor website. Beginning with information publicly reported on or after October 1, 2019, and ending with information publicly reported on September 30, 2022 the following exceptions apply:
+(ii) For the Skilled Nursing Facility Healthcare Associated Infections Requiring Hospitalization (“SNF HAI”), Discharge to Community—Post-Acute Care Measure for Skilled Nursing Facilities (“DTC PAC SNF”), and Skilled Nursing Facility Within-Stay Potentially Preventable Readmissions (“SNF WS PPR”) measure, the specified date is 3 months after the last SNF discharge in the applicable baseline period or performance period.
+
+(iii) For the Number of Hospitalizations per 1,000 Long Stay Residents (“Long Stay Hospitalization”) measure, the specified date is 3 months after the last day of the final quarter of the applicable baseline period or performance period.
+
+(iv) For the Total Nursing Hours per Resident Day Staffing (“Total Nurse Staffing”) measure and the Total Nursing Staff Turnover (“Nursing Staff Turnover”) measure, the specified date is 45 days after the last day of each quarter of the applicable baseline period or performance period.
+
+(v) For the Discharge Function Score for SNFs (“DC Function measure”) and Percent of Residents Experiencing One of More Falls with Major Injury (Long Stay) (“Falls with Major Injury (Long Stay)”) measure, the specified date is the February 15th that is approximately 4.5 months after the last day of the applicable baseline period or performance period.
+
+(2) Beginning with the baseline period and performance period quality measure quarterly reports issued on or after October 1, 2021, which contain the baseline period and performance period measure rates, respectively, SNFs will have 30 days following the date CMS provides in each of these reports to review and submit corrections to the measure rate calculations contained in that report. The underlying data used to calculate the measure rates are not subject to review and correction under this paragraph (f)(2). Any such correction requests must include:
+
+(i) The SNF's CMS Certification Number (CCN);
+
+(ii) The SNF's name;
+
+(iii) The correction requested; and
+
+(iv) The reason for requesting the correction, including any available evidence to support the request.
+
+(3) Beginning not later than 60 days prior to each fiscal year, CMS will provide reports to SNFs on their performance under the SNF VBP Program for a fiscal year. SNFs will have the opportunity to review and submit corrections to their SNF performance scores and ranking contained in these reports for 30 days following the date that CMS provides the reports. Any such correction requests must include:
+
+(i) The SNF's CMS Certification Number (CCN);
+
+(ii) The SNF's name;
+
+(iii) The correction requested; and
+
+(iv) The reason for requesting the correction, including any available evidence to support the request.
+
+(4) CMS will publicly report the information described in paragraphs (f)(2) and (3) of this section on the Nursing Home Compare website or a successor website. Beginning with information publicly reported on or after October 1, 2019, and ending with information publicly reported on September 30, 2022 the following exceptions apply:
 
 (i) If CMS determines that a SNF has fewer than 25 eligible stays during the baseline period for a fiscal year but has 25 or more eligible stays during the performance period for that fiscal year, CMS will not publicly report the SNF's baseline period SNF readmission measure rate and improvement score for that fiscal year;
 
@@ -134,7 +144,7 @@ Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
 
 (iii) If CMS determines that a SNF has zero eligible cases during the performance period with respect to a fiscal year, CMS will not publicly report any information for that SNF for that fiscal year.
 
-(4) Beginning with the information publicly reported on or after October 1, 2022, the following exceptions apply:
+(5) Beginning with the information publicly reported on or after October 1, 2022, the following exceptions apply:
 
 (i) If a SNF does not have the minimum number of cases during the baseline period that applies to a measure for a fiscal year, CMS will not publicly report the SNF's baseline period measure rate for that particular measure, although CMS will publicly report the SNF's performance period measure rate and achievement score if the SNF had the minimum number of cases for the measure during the performance period of the same program year;
 
@@ -174,7 +184,13 @@ Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
 
 (2) Beginning with the FY 2026 program year, for all measures that are calculated using Payroll-Based Journal System data, information reported through the Payroll-Based Journal system is validated for accuracy by CMS and its contractors through quarterly audits.
 
-(3) Beginning with the FY 2027 program year, for all measures that are calculated using Minimum Data Set (MDS) information, such information is validated for accuracy by CMS and its contractors through periodic audits not to exceed 1,500 SNFs per calendar year.
+(3) Beginning October 1, 2026, for all measures that are calculated using Minimum Data Set (MDS) information, CMS will validate the accuracy of this information. CMS will request medical records as follows:
+
+(i) On an annual basis, a CMS contractor will randomly select up to 1,500 SNFs for validation. A SNF is eligible for selection for a year if the SNF submitted at least one MDS record in the calendar year that is 3 years prior to the applicable fiscal year or was included in the SNF VBP Program in the year prior to the applicable fiscal year.
+
+(ii) For each SNF selected under paragraph (j)(3)(i) of this section, the CMS contractor will request in writing up to 10 medical records.
+
+(iii) A SNF that receives a request for medical records under paragraph (j)(3)(ii) of this section must submit a digital or paper copy of each of the requested medical records within 45 days of the date of the request as documented on the request.
 
 (k) *Calculation of the Health equity adjustment (HEA) bonus points.* CMS calculates the number of HEA bonus points that are added to a SNF's point total calculated under paragraph (e)(3)(iii) of this section by:
 
@@ -186,4 +202,56 @@ Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
 
 (4) Multiplying the measure performance scaler calculated under paragraph (k)(2) of this section by the underserved multiplier calculated under paragraph (k)(3) of this section.
 
-[82 FR 36633, Aug. 4, 2017, as amended at 83 FR 39289, Aug. 8, 2018; 85 FR 47633, Aug. 5, 2020; 86 FR 42524, Aug. 4, 2021; 87 FR 47616, Aug. 3, 2022; 88 FR 53346, Aug. 7, 2023]
+(l) *Measure selection, retention, and removal policy.* (1) The SNF VBP measure set for each fiscal year includes the SNF readmission measure CMS has specified under section 1888(g) of the Social Security Act for application in the SNF VBP Program.
+
+(2) Beginning with FY 2026, the SNF VBP measure set for each fiscal year may include up to nine additional measures specified by CMS. Each of these measures remains in the measure set unless CMS removes or replaces it based on one or more of the following factors:
+
+(i) SNF performance on the measure is so high and unvarying that meaningful distinctions and improvements in performance can no longer be made.
+
+(ii) Performance or improvement on a measure do not result in better resident outcomes.
+
+(iii) A measure no longer aligns with current clinical guidelines or practices.
+
+(iv) A more broadly applicable measure for the particular topic is available.
+
+(v) A measure that is more proximal in time to the desired resident outcomes for the particular topic is available.
+
+(vi) A measure that is more strongly associated with the desired resident outcomes for the particular topic is available.
+
+(vii) The collection or public reporting of a measure leads to negative unintended consequences other than resident harm.
+
+(viii) The costs associated with a measure outweigh the benefit of its continued use in the Program.
+
+(3) Upon a determination by CMS that the continued requirement for SNFs to submit data on a measure specified under paragraph (l)(2) of this section raises specific resident safety concerns, CMS may elect to immediately remove the measure from the SNF VBP Program. Upon removal of the measure, CMS will provide notice to SNFs and the public, along with a statement of the specific patient safety concern that would be raised if SNFs continued to submit data on the measure. CMS will also provide notice of the removal in the Federal Register.
+
+(4) CMS uses rulemaking to make substantive updates to the specifications of measures used in the SNF VBP Program. CMS makes technical measure specification updates in a sub-regulatory manner and informs SNFs of measure specification updates through postings on the CMS website, listservs, and other educational outreach efforts to SNFs.
+
+(m) *Extraordinary circumstances exception policy.* (1) A SNF may request and CMS may grant exceptions to the SNF Value-Based Purchasing Program's requirements under this section for one or more calendar months when there are certain extraordinary circumstances beyond the control of the SNF.
+
+(2) A SNF may request an exception within 90 days of the date that the extraordinary circumstances occurred. Prior to FY 2025, the request must be submitted in the form and manner specified by CMS on the SNF VBP website at *https://www.cms.gov/Medicare/Quality/Nursing-Home-Improvement/Value-Based-Purchasing/Extraordinary-Circumstance-Exception* and include a completed Extraordinary Circumstances Request form (available on *https://qualitynet.cms.gov/*) and any available evidence of the impact of the extraordinary circumstances on the care that the SNF furnished to patients including, but not limited to, photographs and media articles. Beginning with FY 2025, a SNF may request an extraordinary circumstances exception by sending an email with the subject line “SNF VBP Extraordinary Circumstances Exception Request” to the SNF VBP Program Help Desk with the following information:
+
+(i) The SNF's CMS Certification Number (CCN);
+
+(ii) The SNF's business name and business address;
+
+(iii) Contact information for the SNF's chief executive officer (CEO) or CEO-designated personnel, including all applicable names, email addresses, telephone numbers, and the SNF's physical mailing address (which cannot be a P.O. Box);
+
+(iv) A description of the event, including the dates and duration of the extraordinary circumstance;
+
+(v) Available evidence of the impact of the extraordinary circumstance on the care the SNF provided to its residents or the SNF's ability to report SNF VBP data, including, but not limited to, photographs, media articles, and any other materials that would aid CMS in determining whether to grant the exception; and
+
+(vi) A date proposed by the SNF for when it will again be able to fully comply with the SNF VBP Program's requirements and a justification for the proposed date.
+
+(3) Except as provided in paragraph (m)(4) of this section, CMS will not consider an exception request unless the SNF requesting such exception has complied fully with the requirements in paragraph (m)(2) of this section.
+
+(4) CMS may grant exceptions to SNFs without a request if it determines that an extraordinary circumstance affected an entire region or locale.
+
+(5) CMS will calculate a SNF performance score for a fiscal year for a SNF for which it has granted an exception request that does not include its performance on a quality measure during the calendar months affected by the extraordinary circumstance.
+
+(n) *SNF VBP performance standards.* (1) CMS announces the performance standards for each measure no later than 60 days prior to the start of the performance period that applies to the measure for the fiscal year.
+
+(2) Beginning with FY 2021, if CMS discovers an error in the performance standard calculations subsequent to publishing their numerical values for a fiscal year, CMS will update the numerical values to correct the error. If CMS subsequently discovers one or more other errors with respect to the fiscal year, CMS will not further update the numerical values for that fiscal year.
+
+(3) Beginning with FY 2025, CMS may update the numerical values of the performance standards for a measure if, between the time that CMS announced the performance standards for the measure for that fiscal year and the time that CMS calculates SNF performance on the measure at the conclusion of the performance period for that measure for that fiscal year, CMS has made technical updates to the specifications for the measure that affect the measure rate calculations.
+
+[82 FR 36633, Aug. 4, 2017, as amended at 83 FR 39289, Aug. 8, 2018; 85 FR 47633, Aug. 5, 2020; 86 FR 42524, Aug. 4, 2021; 87 FR 47616, Aug. 3, 2022; 88 FR 53346, Aug. 7, 2023; 89 FR 64160, Aug. 6, 2024]

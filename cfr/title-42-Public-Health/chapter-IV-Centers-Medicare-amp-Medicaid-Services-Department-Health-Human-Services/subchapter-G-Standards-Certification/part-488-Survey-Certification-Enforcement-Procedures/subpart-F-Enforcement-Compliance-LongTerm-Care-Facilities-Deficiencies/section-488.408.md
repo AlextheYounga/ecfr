@@ -1,7 +1,5 @@
 ##### § 488.408 Selection of remedies. #####
 
-Link to an amendment published at 89 FR 64162, Aug. 6, 2024.
-
 (a) *Categories of remedies.* In this section, the remedies specified in § 488.406(a) are grouped into categories and applied to deficiencies according to how serious the noncompliance is.
 
 (b) *Application of remedies.* After considering the factors specified in § 488.404, as applicable, if CMS and the State choose to impose remedies, as provided in paragraphs (c)(1), (d)(1) and (e)(1) of this section, for facility noncompliance, instead of, or in addition to, termination of the provider agreement, CMS does and the State must follow the criteria set forth in paragraphs (c)(2), (d)(2), and (e)(2) of this section, as applicable.
@@ -62,7 +60,7 @@ Link to an amendment published at 89 FR 64162, Aug. 6, 2024.
 
 (B) Terminate the provider agreement;
 
-(ii) CMS and the State may impose a civil money penalty of $3,050-$10,000 as adjusted annually under 45 CFR part 102 per day or $1,000-$10,000 as adjusted annually under 45 CFR part 102 per instance of noncompliance, in addition to imposing the remedies specified in paragraph (e)(2)(i) of this section.
+(ii) For each instance of noncompliance, CMS and the State may impose a civil money penalty of $3,050-$10,000 (as adjusted annually under 45 CFR part 102) per day, $1,000-$10,000 (as adjusted annually under 45 CFR part 102) per instance of noncompliance, or both, in addition to imposing the remedies specified in paragraph (e)(2)(i) of this section. For multiple instances of noncompliance, CMS may impose any combination of per instance or per day civil money penalties for each instance within the same survey. The aggregate civil money penalty amount may not exceed $10,000 (as adjusted annually under 45 CFR part 102) for each day of noncompliance.
 
 (3) When there are widespread deficiencies that constitute actual harm that is not immediate jeopardy, CMS and the State may impose temporary management, in addition to Category 2 remedies.
 
@@ -78,4 +76,4 @@ Link to an amendment published at 89 FR 64162, Aug. 6, 2024.
 
 (2) A facility may not appeal the choice of remedy, including the factors considered by CMS or the State in selecting the remedy, specified in § 488.404.
 
-[59 FR 56243, Nov. 10, 1994; 60 FR 50118, Sept. 28, 1995, as amended at 64 FR 13360, Mar. 18, 1999; 81 FR 61563, Sept. 6, 2016]
+[59 FR 56243, Nov. 10, 1994; 60 FR 50118, Sept. 28, 1995, as amended at 64 FR 13360, Mar. 18, 1999; 81 FR 61563, Sept. 6, 2016; 89 FR 64162, Aug. 6, 2024]

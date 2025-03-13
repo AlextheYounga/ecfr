@@ -1,7 +1,5 @@
 ##### § 488.434 Civil money penalties: Notice of penalty. #####
 
-Link to an amendment published at 89 FR 64163, Aug. 6, 2024.
-
 (a) *CMS notice of penalty.* (1) CMS sends a written notice of the penalty to the facility for all facilities except non-State operated NFs when the State is imposing the penalty.
 
 (2) *Content of notice.* The notice that CMS sends includes—
@@ -10,11 +8,11 @@ Link to an amendment published at 89 FR 64163, Aug. 6, 2024.
 
 (ii) The statutory basis for the penalty;
 
-(iii) The amount of penalty per day of noncompliance or the amount of the penalty per instance of noncompliance;
+(iii) Either the amount of penalty per day of noncompliance or the amount of the penalty per instance of noncompliance or both;
 
 (iv) Any factors specified in § 488.438(f) that were considered when determining the amount of the penalty;
 
-(v) The date of the instance of noncompliance or the date on which the penalty begins to accrue;
+(v) The date(s) of the instance(s) of noncompliance or the date on which the penalty begins to accrue;
 
 (vi) When the penalty stops accruing, if applicable;
 
@@ -30,4 +28,4 @@ Link to an amendment published at 89 FR 64163, Aug. 6, 2024.
 
 (ii) Include, at a minimum, the information specified in paragraph (a)(2) of this section.
 
-[59 FR 56243, Nov. 10, 1994; 60 FR 50119, Sept. 28, 1995, as amended at 64 FR 13360, Mar. 18, 1999]
+[59 FR 56243, Nov. 10, 1994; 60 FR 50119, Sept. 28, 1995, as amended at 64 FR 13360, Mar. 18, 1999; 89 FR 64163, Aug. 6, 2024]

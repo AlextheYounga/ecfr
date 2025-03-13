@@ -1,8 +1,6 @@
 ##### § 2553.107 What must a sponsor do if it cannot meet its performance measures? #####
 
-Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
-
-When a sponsor finds it is not on track to meet its performance measures, the sponsor must develop a plan to get back on track or submit a request to CNCS to amend its performance measures. CNCS may limit when amendments to performance measure can be submitted, as well as limit the types of changes a sponsor can make to performance measures. The request must include all of the following:
+When a sponsor finds it is not on track to meet its performance measures, the sponsor must develop a plan to get back on track or submit a request to AmeriCorps to amend its performance measures. AmeriCorps may limit when amendments to performance measure can be submitted, as well as limit the types of changes a sponsor can make to performance measures. The request must include all of the following:
 
 (a) Why the project is not on track to meet its performance requirements;
 

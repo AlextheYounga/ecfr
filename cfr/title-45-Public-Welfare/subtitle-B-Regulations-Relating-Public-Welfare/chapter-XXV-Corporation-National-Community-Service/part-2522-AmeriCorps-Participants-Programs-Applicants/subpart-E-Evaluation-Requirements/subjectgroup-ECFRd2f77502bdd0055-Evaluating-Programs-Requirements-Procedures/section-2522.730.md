@@ -1,6 +1,4 @@
-##### § 2522.730 How and when do I submit my evaluation to the Corporation? #####
-
-Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
+##### § 2522.730 How and when do I submit my evaluation to the AmeriCorps? #####
 
 (a) If you are an existing grantee recompeting for AmeriCorps funds for the first time, you must submit a summary of your evaluation efforts or plan to date, and a copy of any evaluation that has been completed, as part of your application for funding.
 

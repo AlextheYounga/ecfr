@@ -1,8 +1,6 @@
 ##### § 2520.65 What activities are prohibited in AmeriCorps subtitle C programs? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66614, Aug. 16, 2024.
-
-(a) While charging time to the AmeriCorps program, accumulating service or training hours, or otherwise performing activities supported by the AmeriCorps program or the Corporation, staff and members may not engage in the following activities:
+(a) While charging time to the AmeriCorps program, accumulating service or training hours, or otherwise performing activities supported by the AmeriCorps program or AmeriCorps, staff and members may not engage in the following activities:
 
 (1) Attempting to influence legislation;
 
@@ -28,14 +26,14 @@ Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction
 
 (iv) A nonprofit organization that fails to comply with the restrictions contained in section 501(c)(3) of the Internal Revenue Code of 1986 except that nothing in this section shall be construed to prevent participants from engaging in advocacy activities undertaken at their own initiative;
 
-(v) An organization engaged in the religious activities described in paragraph (g) of this section, unless Corporation assistance is not used to support those religious activities; and
+(v) An organization engaged in the religious activities described in paragraph (g) of this section, unless AmeriCorps assistance is not used to support those religious activities; and
 
-(9) Conducting a voter registration drive or using Corporation funds to conduct a voter registration drive;
+(9) Conducting a voter registration drive or using AmeriCorps funds to conduct a voter registration drive;
 
 (10) Providing abortion services or referrals for receipt of such services; and
 
-(11) Such other activities as the Corporation may prohibit.
+(11) Such other activities as AmeriCorps may prohibit.
 
-(b) Individuals may exercise their rights as private citizens and may participate in the activities listed above on their initiative, on non-AmeriCorps time, and using non-Corporation funds. Individuals should not wear the AmeriCorps logo while doing so.
+(b) Individuals may exercise their rights as private citizens and may participate in the activities listed above on their initiative, on non-AmeriCorps time, and using non-AmeriCorps funds. Individuals should not wear the AmeriCorps logo while doing so.
 
 [67 FR 45359, July 9, 2002. Redesignated at 70 FR 39597, July 8, 2005; 73 FR 53759, Sept. 17, 2008; 74 FR 46506, Sept. 10, 2009]

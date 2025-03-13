@@ -1,7 +1,5 @@
 ##### § 412.105 Special treatment: Hospitals that incur indirect costs for graduate medical education programs. #####
 
-Link to an amendment published at 89 FR 69911, Aug. 28, 2024.
-
 CMS makes an additional payment to hospitals for indirect medical education costs using the following procedures:
 
 (a) *Basic data.* CMS determines the following for each hospital:
@@ -133,6 +131,8 @@ CMS makes an additional payment to hospitals for indirect medical education cost
 (*2*) Effective for portions of cost reporting periods beginning on or after July 1, 2011, a hospital may qualify to receive an increase in its otherwise applicable FTE resident cap (up to 75 additional FTEs) if the criteria specified in § 413.79(n) of this subchapter are met.
 
 (*3*) Effective for portions of cost reporting periods beginning on or after July 1, 2023, a hospital may qualify to receive an increase in its otherwise applicable FTE resident cap if the criteria specified in § 413.79(p) of this subchapter are met.
+
+(*4*) Effective for portions of cost reporting periods beginning on or after July 1, 2026, a hospital may qualify to receive an increase in its otherwise applicable FTE resident cap if the criteria specified in § 413.79(q) of this subchapter are met.
 
 (D) A rural hospital redesignated as urban after September 30, 2004, as a result of the most recent census data and implementation of the new labor market area definitions announced by OMB on June 6, 2003, may retain the increases to its full-time equivalent resident cap that it received under paragraphs (f)(1)(iv)(A) and (f)(1)(vii) of this section while it was located in a rural area. Effective October 1, 2014, if a rural hospital is redesignated as urban due to the most recent OMB standards for delineating statistical areas adopted by CMS, the redesignated urban hospital may retain any existing increases to its FTE resident cap that it had received prior to when the redesignation became effective. Effective October 1, 2014, if a rural hospital is redesignated as urban due to the most recent OMB standards for delineating statistical areas adopted by CMS, the redesignated urban hospital may receive an increase to its FTE resident cap for a new program, in accordance with paragraph (e) of this section, if it received a letter of accreditation for the new program and/or started training residents in the new program prior to the redesignation becoming effective.
 

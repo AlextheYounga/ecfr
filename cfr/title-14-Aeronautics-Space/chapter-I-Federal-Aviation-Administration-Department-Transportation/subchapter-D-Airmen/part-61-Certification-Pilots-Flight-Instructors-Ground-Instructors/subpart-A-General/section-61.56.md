@@ -1,5 +1,7 @@
 ##### § 61.56 Flight review. #####
 
+Link to an amendment published at 89 FR 80050, Oct. 1, 2024.
+
 (a) Except as provided in paragraphs (b) and (f) of this section, a flight review consists of a minimum of 1 hour of flight training and 1 hour of ground training. The review must include:
 
 (1) A review of the current general operating and flight rules of part 91 of this chapter; and

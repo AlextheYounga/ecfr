@@ -1,0 +1,5 @@
+##### § 200.440 Exchange rates. #####
+
+(a) Cost increases for fluctuations in exchange rates are allowable costs subject to the availability of funding. Prior approval of exchange rate fluctuations is required only when the change results in the need for additional Federal funding, or the increased costs result in the need to significantly reduce the scope of the project. Before providing approval, the Federal agency must ensure that adequate funds are available to cover currency fluctuations in order to avoid a violation of the Antideficiency Act.
+
+(b) The recipient or subrecipient is required to make reviews of local currency gains to determine the need for additional Federal funding before the expiration date of the Federal award. Subsequent adjustments for currency increases may be allowable only when the recipient or subrecipient provides the Federal agency with adequate source documentation from a commonly used source in effect at the time the expense was made, and to the extent that sufficient Federal funds are available.

@@ -1,0 +1,3 @@
+##### § 1.231 Severability. #####
+
+The provisions of this subtitle are separate and severable from one another. If any provision of this subtitle is held invalid or unenforceable as applied to a particular person or circumstance, the provision should be construed so as to continue to give the maximum effect permitted by law as applied to other persons not similarly situated or to dissimilar circumstances. If any provision is determined to be wholly invalid and unenforceable, it should be severed from the remaining provisions of this subtitle, which should remain in effect.

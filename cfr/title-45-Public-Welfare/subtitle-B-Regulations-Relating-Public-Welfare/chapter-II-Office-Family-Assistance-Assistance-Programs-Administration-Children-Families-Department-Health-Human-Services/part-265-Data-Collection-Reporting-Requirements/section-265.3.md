@@ -1,8 +1,6 @@
 ##### § 265.3 What reports must the State file on a quarterly basis? #####
 
-Link to an amendment published at 89 FR 53876, June 28, 2024.
-
-(a) *Quarterly reports.* (1) Each State must collect on a monthly basis, and file on a quarterly basis, the data specified in the TANF Data Report and the TANF Financial Report (or, as applicable, the Territorial Financial Report).
+(a) *Quarterly reports.* (1) Each State must collect on a monthly basis, and file on a quarterly basis, the data specified in the TANF Data Report, the TANF Financial Report (or, as applicable, the Territorial Financial Report), and the Work Outcomes of TANF Exiters Report.
 
 (2) Each State that claims MOE expenditures for a separate State program(s) must collect on a monthly basis, and file on a quarterly basis, the data specified in the SSP-MOE Data Report.
 
@@ -42,4 +40,12 @@ Link to an amendment published at 89 FR 53876, June 28, 2024.
 
 (3) Has been designated by the State as a member of a family receiving assistance.
 
-[71 FR 37482, June 29, 2006]
+(g) *Work Outcomes of TANF Exiters Report.* Each State must file the Social Security numbers of all work-eligible individuals, as defined in § 261.2(n), who have exited the program, as defined in § 265.2(b). This information will be used for calculating the following Work Outcomes performance indicators:
+
+(1) Employment Rate—2nd Quarter After Exit: the percentage of individuals who were work-eligible individuals as of the time of exit from the program, who are employed during the second quarter after the exit;
+
+(2) Employment Retention Rate—4th Quarter After Exit: the percentage of individuals who were work-eligible individuals as of the time of exit from the program who were employed in the second quarter after the exit, who are also employed during the fourth quarter after the exit; and
+
+(3) Median Earnings—2nd Quarter After Exit: the median earnings of individuals who were work-eligible individuals as of the time of exit from the program, who are employed during the second quarter after the exit.
+
+[71 FR 37482, June 29, 2006, as amended at 89 FR 53876, June 28, 2024]

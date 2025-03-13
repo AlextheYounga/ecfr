@@ -1,0 +1,3 @@
+##### § 180.950 Federal agency. #####
+
+*Federal agency* means any United States executive department, military department, defense agency, or any other executive branch agency. For the purposes of this part, other agencies of the Federal Government are not considered “agencies” unless they issue regulations adopting the government-wide Debarment and Suspension system under Executive Orders 12549 and 12689.

@@ -1,7 +1,5 @@
 ##### § 412.106 Special treatment: Hospitals that serve a disproportionate share of low-income patients. #####
 
-Link to an amendment published at 89 FR 69911, Aug. 28, 2024.
-
 (a) *General considerations.* (1) The factors considered in determining whether a hospital qualifies for a payment adjustment include the number of beds, the number of patient days, and the hospital's location.
 
 (i) The number of beds in a hospital is determined in accordance with § 412.105(b).
@@ -296,7 +294,7 @@ Link to an amendment published at 89 FR 69911, Aug. 28, 2024.
 
 (4) If the base year amount under paragraph (h)(3)(i) of this section is equal to or lower than the additional payment for uncompensated care determined for the hospital for the applicable fiscal year in accordance with paragraph (g)(1) of this section, the hospital will not receive a supplemental payment under paragraph (h) of this section for that fiscal year.
 
-(i) *Manner and timing of payments.* (1) Interim payments are made during the payment year to each hospital that is estimated to be eligible for payments under this section at the time of the annual final rule for the hospital inpatient prospective payment system, subject to the final determination of eligibility at the time of cost report settlement for each hospital.
+(i) *Manner and timing of payments.* (1) Interim payments are made during the payment year to each hospital that is estimated to be eligible for payments under this section at the time of the annual final rule for the hospital inpatient prospective payment system, subject to the final determination of eligibility at the time of cost report settlement for each hospital. For FY 2025, interim uncompensated care payments are calculated based on an average of the most recent 2 years of available historical discharge data. For FY 2026 and subsequent years, interim uncompensated care payments are calculated based on an average of the most recent 3 years of available historical discharge data.
 
 (2) Final payment determinations are made at the time of cost report settlement, based on the final determination of each hospital's eligibility for payment under this section.
 

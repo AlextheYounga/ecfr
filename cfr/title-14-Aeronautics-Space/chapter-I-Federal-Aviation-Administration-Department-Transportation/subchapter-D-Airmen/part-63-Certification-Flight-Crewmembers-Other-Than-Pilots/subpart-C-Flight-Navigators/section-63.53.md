@@ -1,5 +1,7 @@
 ##### § 63.53 Knowledge requirements. #####
 
+Link to an amendment published at 89 FR 80053, Oct. 1, 2024.
+
 (a) An applicant for a flight navigator certificate must pass a written test on—
 
 (1) The regulations of this chapter that apply to the duties of a flight navigator;

@@ -1,0 +1,11 @@
+##### § 200.521 Management decisions. #####
+
+(a) *General.* The management decision must clearly state whether or not the audit finding is sustained, the reasons for the decision, and the expected auditee action to repay disallowed costs, make financial adjustments or take other action. If the auditee has not completed corrective action, a timetable for follow-up should be given. Prior to issuing the management decision, the Federal agency or pass-through entity may request additional information or documentation from the auditee, including a request for auditor assurance related to the documentation, as a way of mitigating disallowed costs. The management decision should describe any appeal process available to the auditee. While not required, the Federal agency or pass-through entity may also issue a management decision on findings relating to the financial statements, which are required to be reported in accordance with GAGAS.
+
+(b) *Federal agency.* The cognizant agency for audit is responsible for coordinating a management decision for audit findings that affect the programs of more than one Federal agency (see § 200.513(a)(4)(viii)). The awarding Federal agency is responsible for issuing a management decision for audit findings that affect the Federal awards it makes to a non-Federal entity (see § 200.513(c)(3)(i)).
+
+(c) *Pass-through entity.* The pass-through entity is responsible for issuing a management decision for audit findings that affect subawards it issues to subrecipients under a Federal award (see § 200.332(e)).
+
+(d) *Time requirements.* The Federal agency or pass-through entity responsible for issuing a management decision must do so within six months of the FAC's acceptance of the audit report. The auditee must initiate and proceed with corrective action as rapidly as possible and corrective action should begin no later than upon receipt of the audit report.
+
+(e) *Reference numbers.* Management decisions must include the reference numbers the auditor assigned to each audit finding in accordance with § 200.516(c).

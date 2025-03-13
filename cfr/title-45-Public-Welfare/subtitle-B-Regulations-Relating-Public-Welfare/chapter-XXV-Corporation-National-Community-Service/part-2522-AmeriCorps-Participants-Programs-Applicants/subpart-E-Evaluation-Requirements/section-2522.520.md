@@ -1,10 +1,8 @@
 ##### § 2522.520 What special terms are used in this subpart? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
-
 The following definitions apply to terms used in this subpart of the regulations:
 
-(a) *Approved application* means the application approved by the Corporation or, for formula programs, by a State commission.
+(a) *Approved application* means the application approved by AmeriCorps or, for formula programs, by a State commission.
 
 (b) *Community beneficiaries* refers to persons who receive services or benefits from a program, but not to AmeriCorps members or to staff of the organization operating the program.
 
@@ -18,7 +16,7 @@ The following definitions apply to terms used in this subpart of the regulations
 
 (g) *Grantee* includes subgrantees, programs, and projects.
 
-(h) *National performance measures* are performance measures that the Corporation develops.
+(h) *National performance measures* are performance measures that AmeriCorps develops.
 
 (i) *You* refers to a grantee or applicant organization.
 

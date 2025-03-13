@@ -1,7 +1,5 @@
 ##### § 413.337 Methodology for calculating the prospective payment rates. #####
 
-Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
-
 (a) *Data used.* (1) To calculate the prospective payment rates, CMS uses—
 
 (i) Medicare data on allowable costs from freestanding and hospital-based SNFs for cost reporting periods beginning in fiscal year 1995. SNFs that received “new provider” exemptions under § 413.30(e)(2) are excluded from the data base used to compute the Federal payment rates. In addition, allowable costs related to exceptions payments under § 413.30(f) are excluded from the data base used to compute the Federal payment rates;
@@ -74,6 +72,6 @@ Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
 
 (e) Pursuant to section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 (BBRA) as revised by section 314 of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000 (BIPA), using the best available data, the Secretary will issue a new regulation with a newly refined case-mix classification system to better account for medically complex patients. Upon issuance of the new regulation, the temporary increases in payment for certain high cost patients will no longer be applicable.
 
-(f) *Adjustments to payment rates under the SNF Value-Based Purchasing Program.* Beginning with payment for services furnished on October 1, 2018, the adjusted Federal per diem rate (as defined in § 413.338(a)(2)) otherwise applicable to a SNF for the fiscal year is reduced by the applicable percent (as defined in § 413.338(a)(3)). The resulting amount is then adjusted by the value-based incentive payment amount (as defined in § 413.338(a)(14)) based on the SNF's performance score for that fiscal year under the SNF Value-Based Purchasing Program, as calculated under § 413.338.
+(f) *Adjustments to payment rates under the SNF Value-Based Purchasing Program.* Beginning with payment for services furnished on October 1, 2018, the adjusted Federal per diem rate (as defined in § 413.338(a)) otherwise applicable to a SNF for the fiscal year is reduced by the applicable percent (as defined in § 413.338(a)). The resulting amount is then adjusted by the value-based incentive payment amount (as defined in § 413.338(a)) based on the SNF performance score calculated for the SNF for that fiscal year under § 413.338.
 
-[63 FR 26309, May 12, 1998, as amended at 66 FR 39600, July 31, 2001; 68 FR 46070, Aug. 4, 2003; 76 FR 48539, Aug. 8, 2011; 82 FR 36633, Aug. 4, 2017; 83 FR 39289, Aug. 8, 2018; 87 FR 47616, Aug. 3, 2022]
+[63 FR 26309, May 12, 1998, as amended at 66 FR 39600, July 31, 2001; 68 FR 46070, Aug. 4, 2003; 76 FR 48539, Aug. 8, 2011; 82 FR 36633, Aug. 4, 2017; 83 FR 39289, Aug. 8, 2018; 87 FR 47616, Aug. 3, 2022; 89 FR 64160, Aug. 6, 2024]

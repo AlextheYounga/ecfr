@@ -1,7 +1,5 @@
 ##### § 2520.40 Under what circumstances may AmeriCorps members in my program raise resources? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66614, Aug. 16, 2024.
-
 (a) AmeriCorps members may raise resources directly in support of your program's service activities.
 
 (b) Examples of fundraising activities AmeriCorps members may perform include, but are not limited to, the following:
@@ -20,6 +18,6 @@ Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction
 
 (1) Raise funds for living allowances or for an organization's general (as opposed to project) operating expenses or endowment;
 
-(2) Write a grant application to the Corporation or to any other Federal agency.
+(2) Write a grant application to AmeriCorps or to any other Federal agency.
 
 [70 FR 39597, July 8, 2005]

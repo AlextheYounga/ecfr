@@ -1,14 +1,12 @@
 ##### § 418.309 Hospice aggregate cap. #####
 
-Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
-
 A hospice's aggregate cap is calculated by multiplying the adjusted cap amount (determined in paragraph (a) of this section) by the number of Medicare beneficiaries, as determined by one of two methodologies for determining the number of Medicare beneficiaries for a given cap year described in paragraphs (b) and (c) of this section.
 
 (a) *Cap Amount.* The cap amount was set at $6,500 in 1983 and is updated using one of two methodologies described in paragraphs (a)(1) and (a)(2) of this section.
 
-(1) For accounting years that end on or before September 30, 2016 and end on or after October 1, 2032, the cap amount is adjusted for inflation by using the percentage change in the medical care expenditure category of the Consumer Price Index (CPI) for urban consumers that is published by the Bureau of Labor Statistics. This adjustment is made using the change in the CPI from March 1984 to the fifth month of the cap year.
+(1) For accounting years that end on or before September 30, 2016 and end on or after October 1, 2033, the cap amount is adjusted for inflation by using the percentage change in the medical care expenditure category of the Consumer Price Index (CPI) for urban consumers that is published by the Bureau of Labor Statistics. This adjustment is made using the change in the CPI from March 1984 to the fifth month of the cap year.
 
-(2) For accounting years that end after September 30, 2016, and before October 1, 2032, the cap amount is the cap amount for the preceding accounting year updated by the percentage update to payment rates for hospice care for services furnished during the fiscal year beginning on the October 1 preceding the beginning of the accounting year as determined pursuant to section 1814(i)(1)(C) of the Act (including the application of any productivity or other adjustments to the hospice percentage update).
+(2) For accounting years that end after September 30, 2016, and before October 1, 2033, the cap amount is the cap amount for the preceding accounting year updated by the percentage update to payment rates for hospice care for services furnished during the fiscal year beginning on the October 1 preceding the beginning of the accounting year as determined pursuant to section 1814(i)(1)(C) of the Act (including the application of any productivity or other adjustments to the hospice percentage update).
 
 (b) *Streamlined methodology defined.* A hospice's aggregate cap is calculated by multiplying the adjusted cap amount determined in paragraph (a) of this section by the number of Medicare beneficiaries as determined in paragraphs (b)(1) and (2) of this section. For purposes of the streamlined methodology calculation—
 
@@ -40,4 +38,4 @@ A hospice's aggregate cap is calculated by multiplying the adjusted cap amount (
 
 (3) If a hospice that elected to have its aggregate cap calculated using the streamlined methodology under paragraph (d)(2)(ii) of this section subsequently elects the patient-by-patient proportional methodology or appeals the streamlined methodology, under paragraph (d)(2)(ii)(A) or (B) of this section, the hospice's aggregate cap determination for that cap year and all subsequent cap years is to be calculated using the patient-by-patient proportional methodology. As such, past cap year determinations may be adjusted to prevent the over-counting of beneficiaries, subject to existing reopening regulations.
 
-[48 FR 56026, Dec. 16, 1983, as amended at 76 FR 47332, Aug. 4, 2011; 80 FR 47207, Aug. 6, 2015; 83 FR 38655, Aug. 6, 2018; 86 FR 42606, Aug. 4, 2021; 88 FR 51199, Aug. 2, 2023]
+[48 FR 56026, Dec. 16, 1983, as amended at 76 FR 47332, Aug. 4, 2011; 80 FR 47207, Aug. 6, 2015; 83 FR 38655, Aug. 6, 2018; 86 FR 42606, Aug. 4, 2021; 88 FR 51199, Aug. 2, 2023; 89 FR 64272, Aug. 6, 2024]

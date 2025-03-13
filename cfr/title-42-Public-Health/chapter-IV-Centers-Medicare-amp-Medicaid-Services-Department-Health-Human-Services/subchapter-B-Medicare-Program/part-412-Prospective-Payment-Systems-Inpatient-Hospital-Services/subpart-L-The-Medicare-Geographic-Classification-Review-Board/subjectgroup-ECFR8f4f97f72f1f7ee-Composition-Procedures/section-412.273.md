@@ -1,7 +1,5 @@
 ##### § 412.273 Withdrawing an application, terminating an approved 3-year reclassification, or canceling a previous withdrawal or termination. #####
 
-Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply.
 
 *Termination* refers to the termination of an already existing 3-year MGCRB reclassification where such reclassification has already been in effect for 1 or 2 years, and there are 1 or 2 years remaining on the 3-year reclassification. A termination is effective only for the full fiscal year(s) remaining in the 3-year period at the time the request is received. Requests for terminations for part of a fiscal year are not considered.
@@ -14,9 +12,9 @@ Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
 
 (i) At any time before the MGCRB issues a decision on the application; or
 
-(ii) After the MGCRB issues a decision, provided that the request for withdrawal is received by the MCGRB within 45 days of the date that CMS' annual notice of proposed rulemaking is issued in the Federal Register concerning changes to the inpatient hospital prospective payment system and proposed payment rates for the fiscal year for which the application has been filed.
+(ii) After the MGCRB issues a decision, provided that the request for withdrawal is received by the MCGRB within 45 days of the date of filing for public inspection of the proposed rule at the website of the Office of the Federal Register, or within 7 calendar days of receiving a decision of the Administrator's in accordance with § 412.278, whichever is later concerning changes to the inpatient hospital prospective payment system and proposed payment rates for the fiscal year for which the application has been filed.
 
-(2) A request for termination must be received by the MGCRB within 45 days of the date that CMS' annual notice of proposed rulemaking is issued in the Federal Register concerning changes to the inpatient hospital prospective payment system and proposed payment rates for the fiscal year for which the termination is to apply.
+(2) A request for termination must be received by the MGCRB within 45 days of the date of filing for public inspection of the proposed rule at the website of the Office of the Federal Register, or within 7 calendar days of receiving a decision of the Administrator's in accordance with § 412.278, whichever is later concerning changes to the inpatient hospital prospective payment system and proposed payment rates for the fiscal year for which the termination is to apply.
 
 (d) *Reapplication within the approved 3-year period, cancellations of terminations and withdrawals, and prohibition on overlapping reclassification approvals*—(1) *Cancellation of terminations or withdrawals.* Subject to the provisions of this section, a hospital (or group of hospitals) may cancel a withdrawal or termination in a subsequent year and request the MGCRB to reinstate the wage index reclassification for the remaining fiscal year(s) of the 3-year period. (Withdrawals may be cancelled only in cases where the MGCRB issued a decision on the geographic reclassification request.)
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
 
 (2) Within 20 days of receipt of the hospital's request for appeal, the Administrator affirms or reverses the denial.
 
-[75 FR 50415, Aug. 16, 2010, as amended at 82 FR 38512, Aug. 14, 2017; 87 FR 49404, Aug. 10, 2022]
+[75 FR 50415, Aug. 16, 2010, as amended at 82 FR 38512, Aug. 14, 2017; 87 FR 49404, Aug. 10, 2022; 89 FR 69912, Aug. 28, 2024]

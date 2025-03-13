@@ -1,7 +1,5 @@
 ##### § 2553.43 What cost reimbursements and benefits may sponsors provide to RSVP volunteers? #####
 
-Link to an amendment published at 89 FR 70544, Aug. 30, 2024.Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
-
 (a) RSVP volunteers may be provided the following cost reimbursements within the limits of the project's available resources:
 
 (1) *Transportation.* RSVP volunteers may receive assistance with the cost of transportation to and from volunteer assignments and official project activities, including orientation, training, and recognition events.
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 70544, Aug. 30, 2024.Link to an amendmen
 
 (1) *Recognition.* RSVP volunteers shall be provided recognition for their service.
 
-(2) *Insurance.* An RSVP volunteer is provided with the CNCS-specified minimum levels of insurance as follows:
+(2) *Insurance.* An RSVP volunteer is provided with the AmeriCorps-specified minimum levels of insurance as follows:
 
 (i) *Accident insurance.* Accident insurance covers RSVP volunteers for personal injury during travel between their homes and places of assignment, during volunteer service, during meal periods while serving as a volunteer, and while attending project sponsored activities. Protection shall be provided against claims in excess of any benefits or services for medical care or treatment available to the volunteer from other sources.
 
@@ -24,8 +22,8 @@ Link to an amendment published at 89 FR 70544, Aug. 30, 2024.Link to an amendmen
 
 (*1*) Liability insurance the volunteers carry on their own automobiles; or
 
-(*2*) The limits of applicable state financial responsibility law, or in its absence, levels of protection to be determined by CNCS for each person, each accident, and for property damage.
+(*2*) The limits of applicable state financial responsibility law, or in its absence, levels of protection to be determined by AmeriCorps for each person, each accident, and for property damage.
 
-(B) RSVP volunteers who drive their personal vehicles to or on assignments or project-related activities shall maintain personal automobile liability insurance equal to or exceeding the levels established by CNCS.
+(B) RSVP volunteers who drive their personal vehicles to or on assignments or project-related activities shall maintain personal automobile liability insurance equal to or exceeding the levels established by AmeriCorps.
 
-[83 FR 64655, Dec. 17, 2018]
+[83 FR 64655, Dec. 17, 2018, as amended at 89 FR 70544, Aug. 30, 2024]

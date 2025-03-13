@@ -1,0 +1,5 @@
+##### § 512.576 Application of the CMS-sponsored model arrangements and patient incentives safe harbor. #####
+
+(a) *Application of the CMS-sponsored model arrangements safe harbor.* CMS has determined that the Federal Anti-Kickback Statute Safe Harbor for CMS-sponsored model arrangements (42 CFR 1001.952(ii)(1)) is available to protect remuneration furnished in TEAM in the form of the sharing arrangement's gainsharing payments and alignment payments, the distribution arrangement's distribution payments, and the downstream distribution arrangement's distribution payments that meet all safe harbor requirements set forth in 42 CFR 1001.952(ii), and §§ 512.565, 512.568, 512.570.
+
+(b) *Application of the CMS-sponsored model patient incentives safe harbor.* CMS has determined that the Federal Anti-Kickback Statute Safe Harbor for CMS-sponsored model patient incentives (42 CFR 1001.952(ii)(2)) is available to protect TEAM beneficiary incentives that meet all safe harbor requirements set forth in 42 CFR 1001.952(ii) and § 512.575.

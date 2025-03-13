@@ -1,12 +1,10 @@
 ##### § 431.954 Basis and scope. #####
 
-Link to an amendment published at 89 FR 69913, Aug. 28, 2024.
-
 (a) *Basis.* The statutory bases for this subpart are as follows:
 
 (1) Sections 1102, 1902(a)(6), and 2107(b)(1) of the Act, which contain the Secretary's general rulemaking authority and obligate States to provide information, as the Secretary may require, to monitor program performance.
 
-(2) The Improper Payments Information Act of 2002 (Pub. L. 107-300), which requires Federal agencies to review and identify annually those programs and activities that may be susceptible to significant erroneous payments, estimate the amount of improper payments, report such estimates to the Congress, and submit a report on actions the agency is taking to reduce erroneous payments.
+(2) The Payment Integrity Information Act (PIIA) of 2019 (Pub. L. 116-117), which requires Federal agencies to review and identify annually those programs and activities that may be susceptible to significant erroneous payments, estimate the amount of improper payments, report such estimates to the Congress, and submit a report on actions the agency is taking to reduce erroneous payments.
 
 (3) Section 1902(a)(27)(B) of the Act requires States to require providers to agree to furnish the State Medicaid agencies and the Secretary with information regarding payments claimed by Medicaid providers for furnishing Medicaid services.
 
@@ -16,6 +14,6 @@ Link to an amendment published at 89 FR 69913, Aug. 28, 2024.
 
 (2) All information must be furnished in accordance with section 1902(a)(7)(A) of the Act, regarding confidentiality.
 
-(3) This subpart does not apply with respect to Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands or American Samoa.
+(3) This subpart does not apply with respect to Guam, the Virgin Islands, the Northern Mariana Islands or American Samoa.
 
-[71 FR 51081, Aug. 28, 2006, as amended at 75 FR 48847, Aug. 11, 2010]
+[71 FR 51081, Aug. 28, 2006, as amended at 75 FR 48847, Aug. 11, 2010; 89 FR 69913, Aug. 28, 2024]

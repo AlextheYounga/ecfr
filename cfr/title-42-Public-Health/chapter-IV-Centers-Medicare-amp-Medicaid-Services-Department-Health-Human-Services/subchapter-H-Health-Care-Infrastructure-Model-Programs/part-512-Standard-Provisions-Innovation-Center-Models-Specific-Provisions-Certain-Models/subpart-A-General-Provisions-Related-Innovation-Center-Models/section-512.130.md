@@ -1,0 +1,3 @@
+##### § 512.130 Cooperation in model evaluation and monitoring. #####
+
+The model participant and its downstream participants must comply with the requirements of § 403.1110(b) of this chapter and must otherwise cooperate with CMS' model evaluation and monitoring activities as may be necessary to enable CMS to evaluate the Innovation Center model in accordance with section 1115A(b)(4) of the Act and to conduct monitoring activities under § 512.150, including producing such data as may be required by CMS to evaluate or monitor the Innovation Center model, which may include protected health information as defined in 45 CFR 160.103 and other individually-identifiable data.

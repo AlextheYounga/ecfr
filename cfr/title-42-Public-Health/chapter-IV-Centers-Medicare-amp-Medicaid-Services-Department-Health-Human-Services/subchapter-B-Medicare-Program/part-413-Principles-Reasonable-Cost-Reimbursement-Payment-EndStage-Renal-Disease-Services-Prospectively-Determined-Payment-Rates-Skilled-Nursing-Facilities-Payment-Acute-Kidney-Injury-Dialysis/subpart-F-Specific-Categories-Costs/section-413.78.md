@@ -1,7 +1,5 @@
 ##### § 413.78 Direct GME payments: Determination of the total number of FTE residents. #####
 
-Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
-
 Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the provisions of § 413.81, the count of FTE residents is determined as follows:
 
 (a) Residents in an approved program working in all areas of the hospital complex may be counted.
@@ -38,7 +36,7 @@ Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the p
 
 (ii) There is a written agreement between the hospital and the nonhospital site that states that the hospital will incur the cost of the resident's salary and fringe benefits while the resident is training in the nonhospital site and the hospital is providing reasonable compensation to the nonhospital site for supervisory teaching activities. The agreement must indicate the compensation the hospital is providing to the nonhospital site for supervisory teaching activities.
 
-(iii) If the hospital has in place an emergency Medicare GME affiliation agreement in accordance with § 413.79(f)(6), during the period covered by the emergency Medicare GME affiliation agreement—
+(iii) If the hospital has in place an emergency Medicare GME affiliation agreement in accordance with § 413.79(f)(7), during the period covered by the emergency Medicare GME affiliation agreement—
 
 (A) The hospital must pay all or substantially all of the costs of the training program in a nonhospital setting(s) attributable to training that occurs during a month by the end of the sixth month following the month in which the training in the nonhospital site occurred. For the costs that would otherwise be required to be paid by the hospital during the period of August 29, 2005 through November 1, 2007, the participating hospital must pay the costs by April 29, 2008; or
 
@@ -58,7 +56,7 @@ Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the p
 
 (ii) There is a written agreement in place between the hospital and the nonhospital site before the training begins that states that the hospital will incur at least 90 percent of the total of the costs of the resident's salary and fringe benefits (and travel and lodging where applicable) while the resident is training in the nonhospital site and the portion of the cost of the teaching physician's salary attributable to nonpatient care direct GME activities. The written agreement must specify the total cost of the training program at the nonhospital site, and the amount the hospital will incur (at least 90 percent of the total), and must indicate the portion of the amount the hospital will incur that reflects residents' salaries and fringe benefits (and travel and lodging where applicable), and the portion of this amount that reflects teaching physician compensation. Hospitals may modify the amounts specified in the written agreement by the end of the academic year (that is, June 30) to reflect that at least 90 percent of the costs of the training program in the nonhospital site has been incurred.
 
-(iii) If the hospital has in place an emergency Medicare GME affiliation agreement in accordance with § 413.79(f)(6), during the period covered by the emergency Medicare GME affiliation agreement—
+(iii) If the hospital has in place an emergency Medicare GME affiliation agreement in accordance with § 413.79(f)(7), during the period covered by the emergency Medicare GME affiliation agreement—
 
 (A) The hospital must pay all or substantially all of the costs of the training program in a nonhospital setting(s) attributable to training that occurs during a month by the end of the sixth month after the month in which the training in the nonhospital site occurs. For the costs that would otherwise be required to be incurred by the hospital during the period of August 29, 2005 through November 1, 2007, the participating hospital must incur the costs by April 29, 2008; or
 
@@ -104,4 +102,4 @@ Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the p
 
 (3) The time that the resident spent training immediately prior to and/or subsequent to the time frame that the Public Health Emergency (as defined in § 400.200 of this chapter) associated with COVID-19 was in effect is included in the FTE count for the sending hospital.
 
-[69 FR 49254, Aug. 11, 2004, as amended at 71 FR 48142, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 72262, Nov. 24, 2010; 78 FR 50968, Aug. 19, 2013; 79 FR 50357, Aug. 22, 2014; 85 FR 27623, May 8, 2020; 86 FR 73513, Dec. 27, 2021]
+[69 FR 49254, Aug. 11, 2004, as amended at 71 FR 48142, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 72262, Nov. 24, 2010; 78 FR 50968, Aug. 19, 2013; 79 FR 50357, Aug. 22, 2014; 85 FR 27623, May 8, 2020; 86 FR 73513, Dec. 27, 2021; 89 FR 69912, Aug. 28, 2024]

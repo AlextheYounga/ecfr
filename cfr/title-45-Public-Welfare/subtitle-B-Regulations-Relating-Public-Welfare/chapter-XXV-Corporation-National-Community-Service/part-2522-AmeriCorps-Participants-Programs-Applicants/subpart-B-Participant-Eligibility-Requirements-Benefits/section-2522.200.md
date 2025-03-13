@@ -1,7 +1,5 @@
 ##### § 2522.200 What are the eligibility requirements for an AmeriCorps participant? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
-
 (a) *Eligibility.* An AmeriCorps participant must—
 
 (1)(i) Be at least 17 years of age at the commencement of service; or
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction
 
 (ii) Not have dropped out of elementary or secondary school to enroll as an AmeriCorps participant and must agree to obtain a high school diploma or its equivalent prior to using the education award; or
 
-(iii) Obtain a waiver from the Corporation of the requirements in paragraphs (a)(2)(i) and (a)(2)(ii) of this section based on an independent evaluation secured by the program demonstrating that the individual is not capable of obtaining a high school diploma or its equivalent; or
+(iii) Obtain a waiver from AmeriCorps of the requirements in paragraphs (a)(2)(i) and (a)(2)(ii) of this section based on an independent evaluation secured by the program demonstrating that the individual is not capable of obtaining a high school diploma or its equivalent; or
 
 (iv) Be enrolled in an institution of higher education on an ability to benefit basis and be considered eligible for funds under section 484 of the Higher Education Act of 1965 (20 U.S.C. 1091);
 
@@ -48,6 +46,6 @@ Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction
 
 (4) A Departure Record (INS Form I-94) indicating that the INS has approved it as temporary evidence of lawful admission for permanent residence.
 
-(e) *Secondary documentation of citizenship or immigration status.* If primary documentation is not available, the program must obtain written approval from the Corporation that other documentation is sufficient to demonstrate the individual's status as a U.S. citizen, U.S. national, or lawful permanent resident alien.
+(e) *Secondary documentation of citizenship or immigration status.* If primary documentation is not available, the program must obtain written approval from AmeriCorps that other documentation is sufficient to demonstrate the individual's status as a U.S. citizen, U.S. national, or lawful permanent resident alien.
 
 [64 FR 37413, July 12, 1999, as amended at 67 FR 45360, July 9, 2002; 77 FR 60931, Oct. 5, 2012]

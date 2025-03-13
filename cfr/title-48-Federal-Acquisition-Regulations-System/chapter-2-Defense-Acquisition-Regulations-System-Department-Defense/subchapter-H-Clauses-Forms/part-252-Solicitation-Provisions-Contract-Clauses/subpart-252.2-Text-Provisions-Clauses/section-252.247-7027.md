@@ -1,8 +1,6 @@
-##### 252.247-7027 Riding gang member requirements. #####
+##### 252.247-7027 Riding Gang Member Requirements. #####
 
-Link to an amendment published at 89 FR 78992, Sept. 26, 2024.
-
-As prescribed in 247.574(e), use the following clause:
+As prescribed in 247.574(d), use the following clause:
 
 Riding Gang Member Requirements (MAY 2018)
 
@@ -32,4 +30,4 @@ Riding Gang Member Requirements (MAY 2018)
 
 (3) An individual exempted under paragraph (c)(1) of this clause is not treated as a riding gang member and shall not be counted as an individual in addition to the crew for the purposes of 46 U.S.C. 3304.
 
-(End of clause)[75 FR 65439, Oct. 25, 2010, as amended at 76 FR 61281, Oct. 4, 2011; 83 FR 24892, May 30, 2018; 84 FR 4371, Feb. 15, 2019]
+(End of clause)[75 FR 65439, Oct. 25, 2010, as amended at 76 FR 61281, Oct. 4, 2011; 83 FR 24892, May 30, 2018; 84 FR 4371, Feb. 15, 2019; 89 FR 78992, Sept. 26, 2024]

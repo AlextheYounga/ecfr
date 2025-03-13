@@ -1,7 +1,5 @@
 ##### § 2522.230 Under what circumstances may an AmeriCorps participant be released from completing a term of service, and what are the consequences? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
-
 An AmeriCorps program may release a participant from completing a term of service for compelling personal circumstances, as determined by the program, or for cause.
 
 (a) *Release for compelling personal circumstances.*
@@ -22,7 +20,7 @@ An AmeriCorps program may release a participant from completing a term of servic
 
 (C) Conditions attributable to the program or otherwise unforeseeable and beyond the participant's control, such as a natural disaster, a strike, relocation of a spouse, or the nonrenewal or premature closing of a project or program, that make completing a term unreasonably difficult or impossible;
 
-(ii) Those that the Corporation, has for public policy reasons, determined as such, including:
+(ii) Those that AmeriCorps, has for public policy reasons, determined as such, including:
 
 (A) Military service obligations;
 
@@ -38,7 +36,7 @@ An AmeriCorps program may release a participant from completing a term of servic
 
 (iii) Because of dissatisfaction with the program.
 
-(6) As an alternative to releasing a participant, an AmeriCorps\*State/National program may, after determining that compelling personal circumstances exist, suspend the participant's term of service for up to two years (or longer if approved by the Corporation based on extenuating circumstances) to allow the participant to complete service with the same or similar AmeriCorps program at a later time.
+(6) As an alternative to releasing a participant, an AmeriCorps\*State/National program may, after determining that compelling personal circumstances exist, suspend the participant's term of service for up to two years (or longer if approved by AmeriCorps based on extenuating circumstances) to allow the participant to complete service with the same or similar AmeriCorps program at a later time.
 
 (b) *Release for cause.* (1) A release for cause encompasses any circumstances other than compelling personal circumstances that warrant an individual's release from completing a term of service.
 
@@ -48,7 +46,7 @@ An AmeriCorps program may release a participant from completing a term of servic
 
 (4) An individual who is released for cause must disclose that fact in any subsequent applications to participate in an AmeriCorps program. Failure to do so disqualifies the individual for an education award, regardless of whether the individual completes a term of service.
 
-(5) An AmeriCorps\*State/National participant released for cause may contest the program's decision by filing a grievance. Pending the resolution of a grievance procedure filed by an individual to contest a determination by a program to release the individual for cause, the individual's service is considered to be suspended. For this type of grievance, a program may not—while the grievance is pending or as part of its resolution—provide a participant with federally-funded benefits (including payments from the National Service Trust) beyond those attributable to service actually performed, without the program receiving written approval from the Corporation.
+(5) An AmeriCorps\*State/National participant released for cause may contest the program's decision by filing a grievance. Pending the resolution of a grievance procedure filed by an individual to contest a determination by a program to release the individual for cause, the individual's service is considered to be suspended. For this type of grievance, a program may not—while the grievance is pending or as part of its resolution—provide a participant with federally-funded benefits (including payments from the National Service Trust) beyond those attributable to service actually performed, without the program receiving written approval from AmeriCorps.
 
 (6) An individual's eligibility for a subsequent term of service in AmeriCorps will not be affected by release for cause from a prior term of service so long as the individual received a satisfactory end-of-term performance review as described in § 2522.220(c)(2) for the period served in the prior term.
 

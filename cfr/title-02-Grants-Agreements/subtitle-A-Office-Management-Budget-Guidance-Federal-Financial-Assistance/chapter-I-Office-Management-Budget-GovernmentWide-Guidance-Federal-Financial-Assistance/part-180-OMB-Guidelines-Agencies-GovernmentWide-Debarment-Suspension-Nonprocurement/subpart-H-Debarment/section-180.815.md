@@ -1,0 +1,3 @@
+##### § 180.815 How may I contest a proposed debarment? #####
+
+As a respondent, if you wish to contest a proposed debarment, you or your representative must provide the debarring official with information in opposition to the proposed debarment. You may do this orally or in writing. While oral statements may be a part of the official record, any information provided orally that you consider important must also be submitted in writing for the official record.

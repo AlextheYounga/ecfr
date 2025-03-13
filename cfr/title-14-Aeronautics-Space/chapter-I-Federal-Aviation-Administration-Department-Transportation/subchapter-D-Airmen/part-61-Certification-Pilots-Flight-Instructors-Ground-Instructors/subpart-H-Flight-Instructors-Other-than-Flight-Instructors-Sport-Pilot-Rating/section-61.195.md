@@ -1,5 +1,7 @@
 ##### § 61.195 Flight instructor limitations and qualifications. #####
 
+Link to an amendment published at 89 FR 80051, Oct. 1, 2024.
+
 A person who holds a flight instructor certificate is subject to the following limitations:
 
 (a) *Hours of training.* In any 24-consecutive-hour period, a flight instructor may not conduct more than 8 hours of flight training.

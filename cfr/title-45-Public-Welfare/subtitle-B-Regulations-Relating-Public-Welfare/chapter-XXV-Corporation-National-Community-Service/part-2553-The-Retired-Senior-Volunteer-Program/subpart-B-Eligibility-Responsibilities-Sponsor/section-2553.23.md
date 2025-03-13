@@ -1,7 +1,5 @@
 ##### § 2553.23 What are a sponsor's project responsibilities? #####
 
-Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
-
 A sponsor shall:
 
 (a) Focus RSVP resources to have a positive impact on critical human and social needs within the project service area.
@@ -26,7 +24,7 @@ A sponsor shall:
 
 (d) Consider the demographic make-up of the project service area in the enrollment of RSVP volunteers, taking special efforts to recruit eligible individuals from minority groups, persons with disabilities and under represented groups.
 
-(e) Encourage the most efficient and effective use of RSVP volunteers by coordinating project services and activities with related national, state and local programs, including other CNCS programs.
+(e) Encourage the most efficient and effective use of RSVP volunteers by coordinating project services and activities with related national, state and local programs, including other AmeriCorps programs.
 
 (f) Provide RSVP volunteers with cost reimbursements specified in § 2553.43.
 

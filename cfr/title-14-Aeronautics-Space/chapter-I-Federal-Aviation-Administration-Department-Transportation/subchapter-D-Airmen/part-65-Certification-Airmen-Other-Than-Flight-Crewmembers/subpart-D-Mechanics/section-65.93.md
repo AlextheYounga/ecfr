@@ -1,5 +1,7 @@
 ##### § 65.93 Inspection authorization: Renewal. #####
 
+Link to an amendment published at 89 FR 80053, Oct. 1, 2024.
+
 (a) To be eligible for renewal of an inspection authorization for a 2-year period an applicant must present evidence during the month of March of each odd-numbered year, at the responsible Flight Standards office, that the applicant still meets the requirements of § 65.91(c) (1) through (4). In addition, during the time the applicant held the inspection authorization, the applicant must show completion of one of the activities in § 65.93(a) (1) through (5) below by March 31 of the first year of the 2-year inspection authorization period, and completion of one of the five activities during the second year of the 2-year period:
 
 (1) Performed at least one annual inspection for each 90 days that the applicant held the current authority; or

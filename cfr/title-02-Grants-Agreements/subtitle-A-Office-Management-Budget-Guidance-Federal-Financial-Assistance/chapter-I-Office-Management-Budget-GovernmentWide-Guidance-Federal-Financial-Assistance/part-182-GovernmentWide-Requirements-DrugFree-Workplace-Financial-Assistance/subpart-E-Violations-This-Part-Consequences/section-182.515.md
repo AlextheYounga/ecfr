@@ -1,0 +1,3 @@
+##### § 182.515 Are there any exceptions to those actions? #####
+
+For a particular award, the Federal agency head may waive, in writing, a suspension of payments under an award, suspension or termination of an award, or suspension or debarment of a recipient if the agency head determines that such a waiver would be in the public interest. This exception authority cannot be delegated to any other official.

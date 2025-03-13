@@ -1,8 +1,6 @@
 ##### § 2522.640 Under what circumstances may I change my performance measures? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
-
-(a) You may change your performance measures only if the Corporation or, for formula programs, the State commission, approves your request to do so based on your need to:
+(a) You may change your performance measures only if AmeriCorps or, for formula programs, the State commission, approves your request to do so based on your need to:
 
 (1) Adjust your performance measure or target based on experience so that your program's goals are more realistic and manageable;
 

@@ -1,5 +1,7 @@
 ##### § 225.31 Investigations. #####
 
+Link to an amendment published at 89 FR 79776, Oct. 1, 2024.
+
 (a) It is the policy of the FRA to investigate rail transportation accidents/incidents which result in the death of a railroad employee or the injury of five or more persons. Other accidents/incidents are investigated when it appears that an investigation would substantially serve to promote railroad safety.
 
 (b) FRA representatives are authorized to investigate accidents/incidents and have been issued credentials authorizing them to inspect railroad records and properties. They are authorized to obtain all relevant information concerning accidents/incidents under investigation, to make inquiries of persons having knowledge of the facts, conduct interviews and inquiries, and attend as an observer, hearings conducted by railroads. When necessary to carry out an investigation, the FRA may authorize the issuance of subpoenas to require the production of records and the giving of testimony.

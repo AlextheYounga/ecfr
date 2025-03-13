@@ -1,8 +1,6 @@
 ##### § 2553.102 What performance measurement information must be part of an application for funding under RSVP? #####
 
-Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
-
-An application to CNCS for funding under RSVP must contain:
+An application to AmeriCorps for funding under RSVP must contain:
 
 (a) In a year one renewal application:
 

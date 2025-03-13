@@ -1,10 +1,8 @@
 ##### § 2522.550 What basic requirements must I follow in measuring performance under my grant? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
-
 All grantees must establish, track, and assess performance measures for their programs. As a grantee, you must ensure that any program under your oversight fulfills performance measure and evaluation requirements. In addition, you must:
 
-(a) Establish ambitious performance measures in consultation with the Corporation, or the State commission, as appropriate, following §§ 2422.560 through 2422.660 of this subpart;
+(a) Establish ambitious performance measures in consultation with AmeriCorps, or the State commission, as appropriate, following §§ 2422.560 through 2422.660 of this subpart;
 
 (b) Ensure that any program under your oversight collects and organizes performance data on an ongoing basis, at least annually;
 
@@ -12,6 +10,6 @@ All grantees must establish, track, and assess performance measures for their pr
 
 (d) Ensure that any program under your oversight corrects performance deficiencies promptly; and
 
-(e) Accurately and fairly present the results in reports to the Corporation.
+(e) Accurately and fairly present the results in reports to AmeriCorps.
 
 [70 FR 39603, July 8, 2005]

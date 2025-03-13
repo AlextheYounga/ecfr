@@ -1,7 +1,5 @@
 ##### § 412.113 Other payments. #####
 
-Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
-
 (a) *Capital-related costs*—(1) *Payment.* Subject to the reductions described in paragraph (a)(2) of this section, payment for capital-related costs (as described in § 413.130 of this chapter) for cost reporting periods beginning before October 1, 1991 is determined on a reasonable cost basis.
 
 (2) *Reduction to capital-related payments.* (i) Except for sole community hospitals as defined in § 412.92, the amount of capital-related payments for cost-reporting periods beginning before October 1, 1991 (including a return on equity capital as provided under § 413.157 of this chapter) is reduced by—
@@ -73,5 +71,13 @@ Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
 (f) *Additional resource costs of domestic National Institute for Occupational Safety and Health approved surgical N95 respirators.* (1) For cost reporting periods beginning on or after January 1, 2023, a payment adjustment to a hospital for the additional resource costs of domestic National Institute for Occupational Safety and Health approved surgical N95 respirators is made as described in paragraph (f)(2) of this section.
 
 (2) The payment adjustment is based on the estimated difference in the reasonable cost incurred by the hospital for domestic National Institute for Occupational Safety and Health approved surgical N95 respirators purchased during the cost reporting period as compared to other National Institute for Occupational Safety and Health approved surgical N95 respirators purchased during the cost reporting period.
+
+(g) *Additional resource costs of establishing and maintaining access to buffer stocks of essential medicines.* (1) Essential medicines are the 86 medicines prioritized in the report Essential Medicines Supply Chain and Manufacturing Resilience Assessment developed by the U.S. Department of Health and Human Services Office of the Assistant Secretary for Preparedness and Response and published in May of 2022, and any subsequent revisions to that list of medicines. A buffer stock of essential medicines for a hospital is a supply, for no less than a 6-month period of one or more essential medicines.
+
+(2) The additional resource costs of establishing and maintaining access to a buffer stock of essential medicines for a hospital are the additional resource costs incurred by the hospital to directly hold a buffer stock of essential medicines for its patients or arrange contractually for such a buffer stock to be held by another entity for use by the hospital for its patients. The additional resource costs of establishing and maintaining access to a buffer stock of essential medicines does not include the resource costs of the essential medicines themselves.
+
+(3) For cost reporting periods beginning on or after October 1, 2024, a payment adjustment to a small, independent hospital for the additional resource costs of establishing and maintaining access to buffer stocks of essential medicines is made as described in paragraph (g)(4) of this section. For purposes of this section, a small, independent hospital is a hospital with 100 or fewer beds as defined in § 412.105(b) during the cost reporting period that is not part of a chain organization, defined as a group of two or more health care facilities which are owned, leased, or through any other device, controlled by one organization.
+
+(4) The payment adjustment is based on the estimated reasonable cost incurred by the hospital for establishing and maintaining access to buffer stocks of essential medicines during the cost reporting period.
 
 [50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.113, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

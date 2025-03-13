@@ -6,7 +6,7 @@
 
 (b) *Procedures for submitting requests and supporting information.* Persons who request changes to the import regulations contained in this part and who wish to import plants, plant parts, or plant products that are not allowed importation under the conditions of this part must file a request with the Animal and Plant Health Inspection Service (APHIS) in order for APHIS to consider whether the new commodity can be safely imported into the United States. The initial request can be formal (e.g., a letter) or informal (e.g., made during a bilateral discussion between the United States and another country), and can be made by any person. Upon APHIS confirmation that granting a person's request would require amendments to the regulations in this part, the national plant protection organization of the country from which the commodity would be exported must provide APHIS with the information listed in paragraph (d) of this section before APHIS can proceed with its consideration of the request; requests that are not supported with this information in a timely manner will be considered incomplete and APHIS may not take further action on such requests until all required information is submitted.
 
-(c) *Addresses.* The national plant protection organization of the country from which commodities would be exported must submit the information listed in paragraph (d) of this section to: Commodity Import Analysis and Operations, PPQ, APHIS, 4700 River Road Unit 140, Riverdale, MD 20737.
+(c) *Addresses.* The national plant protection organization of the country from which commodities would be exported must submit the information listed in paragraph (d) of this section to: PPQ, APHIS, 4700 River Road Unit 140, Riverdale, MD 20737.
 
 (d) *Information.* The following information must be provided to APHIS in order for APHIS to consider a request to change the regulations in part 319:
 
@@ -96,4 +96,4 @@
 
 (f) *Availability of additional guidance.* Information related to the processing of requests to change the import regulations contained in this part may be found on the APHIS Web site at *http://www.aphis.usda.gov/ppq/pra/.*
 
-(Approved by the Office of Management and Budget under control number 0579-0261)[71 FR 30567, May 30, 2006]
+(Approved by the Office of Management and Budget under control number 0579-0261)[71 FR 30567, May 30, 2006, as amended at 89 FR 79734, Oct. 1, 2024]

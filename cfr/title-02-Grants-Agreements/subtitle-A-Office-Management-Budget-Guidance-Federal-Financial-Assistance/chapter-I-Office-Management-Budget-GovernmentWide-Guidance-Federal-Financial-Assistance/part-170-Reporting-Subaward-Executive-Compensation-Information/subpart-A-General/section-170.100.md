@@ -1,0 +1,3 @@
+##### § 170.100 Purpose of this part. #####
+
+This part provides guidance to Federal agencies on establishing requirements for recipients of Federal awards to report information on subawards and executive total compensation, as required by the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282), as amended by the Digital Accountability and Transparency Act of 2014 (Pub. L. 113-101) and other Public Laws, hereafter referred to as the “Transparency Act.”

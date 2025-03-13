@@ -1,8 +1,6 @@
 ##### § 235.12 Global Entry program. #####
 
-Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
-
-(a) *Program description.* The Global Entry program is a voluntary international trusted traveler program consisting of an integrated passenger processing system that expedites the movement of low-risk air travelers into the United States by providing an alternate inspection process for pre-approved, pre-screened travelers. In order to participate, a person must meet the eligibility requirements specified in this section, apply in advance, undergo pre-screening by CBP, and be accepted into the program. The Global Entry program allows participants expedited entry into the United States at selected airports identified by CBP at *www.globalentry.gov.* Participants will be processed through the use of CBP-approved technology that will include the use of biometrics to validate identity and to perform enforcement queries.
+(a) *Program description.* The Global Entry program is a voluntary international trusted traveler program consisting of an integrated passenger processing system that facilitates the movement of pre-approved, low-risk, air travelers by providing dedicated CBP processing at specified airports. In order to participate, a person must meet the eligibility requirements specified in this section, apply in advance, undergo vetting by CBP, and be accepted into the program. The Global Entry program allows participants dedicated CBP processing at selected airports identified by CBP at *www.cbp.gov.* Participants in the Global Entry program may also take advantage of certain benefits of the Secure Electronic Network for Travelers Rapid Inspection (SENTRI) and NEXUS programs. Please see *http://www.cbp.gov* for additional information. Participants will be processed through the use of CBP-approved technology that will include the use of biometrics to validate identity and to perform enforcement queries.
 
 (b) *Program eligibility criteria*—(1) *Eligible individuals.* The following individuals, who hold a valid, machine-readable passport, a valid, machine-readable U.S. Lawful Permanent Resident Card (Form I-551), or other appropriate travel document as determined by CBP, may apply to participate in Global Entry:
 
@@ -28,17 +26,17 @@ Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
 
 (vii) The applicant cannot satisfy CBP of his or her low-risk status or meet other program requirements.
 
-(c) *Participating airports.* The Global Entry program allows participants expedited entry into the United States at the locations identified at *www.globalentry.gov.* Expansions of the Global Entry program to new airports will be announced by publication in the Federal Register and at *www.globalentry.gov.*
+(c) *Participating airports.* The Global Entry program allows participants dedicated CBP processing at the locations identified at *www.cbp.gov.* Expansions of the Global Entry program to new airports will be announced by publication in the Federal Register and at *www.cbp.gov.*
 
 (d) *Program application.* (1) Each applicant must complete and submit the program application electronically through an approved application process as determined by CBP. The application and application instructions for the Global Entry program are available at *www.globalentry.gov.*
 
-(2) Each applicant must pay a non-refundable fee in the amount set forth at 8 CFR 103.7(d)(13) for “Global Entry” at the time of application. The fee is to be paid to CBP at the time of application through the Federal Government's on-line payment system, Pay.gov or other CBP-approved process.
+(2) Except for certain minors, all applicants must pay the non-refundable fee in the amount set forth at 8 CFR 103.7(d)(13) for “Global Entry.” Minors under the age of 18 who apply to the Global Entry program concurrently with a parent or legal guardian, or whose parent or legal guardian is already a participant of Global Entry, are exempt from payment of the applicable fee. The fee is to be paid to CBP at the time of application through the online TTP System, which can be found through *www.cbp.gov,* or other CBP-approved process.
 
-(3) Every applicant accepted into Global Entry is accepted for a period of 5 years provided participation is not suspended or terminated by CBP prior to the end of the 5-year period. Each applicant may apply to renew participation up to one year prior to the close of the participation period.
+(3) Every applicant accepted into Global Entry is accepted for a period of 5 years provided participation is not terminated by CBP prior to the end of the 5-year period. Each applicant may apply to renew participation up to one year prior to the close of the participation period.
 
 (4) Each applicant may check the status of his or her application through his or her account with the application system in use for Global Entry.
 
-(e) *Interview and enrollment.* (1) After submitting the application, the applicant will be notified by CBP to schedule an in-person interview at a Global Entry enrollment center.
+(e) *Interview and enrollment.* (1) After submitting the application, conditionally approved applicants will be notified by CBP that they need to undergo a personal interview.
 
 (2) Each applicant must bring to the interview with CBP the original of the identification document specified in his or her application. During the interview, CBP will collect biometric information from the applicant (*e.g.,* a set of ten fingerprints and/or digital photograph) to conduct background checks or as otherwise required for participation in the program.
 
@@ -46,25 +44,19 @@ Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
 
 (f) *Valid machine-readable passport or valid lawful permanent resident card.* Each participant must possess a valid, machine-readable passport, a valid, machine-readable U.S. Lawful Permanent Resident Card (Form I-551), or other appropriate travel document as determined by CBP.
 
-(g) *Arrival procedures.* In order to utilize the Global Entry program upon arrival in the United States, each participant must:
+(g) *Arrival procedures.* In order to utilize the Global Entry program, each participant must:
 
-(1) Use the Global Entry kiosk and follow the on-screen instructions;
+(1) Proceed to Global Entry Processing and follow all CBP instructions; and
 
-(2) Declare all articles being brought into the United States pursuant to 19 CFR 148.11. A Global Entry participant will be redirected to the nearest open passport control primary inspection station if the participant declares any of the following:
+(2) Proceed to the nearest open primary inspection station if CBP determines it is appropriate.
 
-(i) Commercial merchandise or commercial samples, or items that exceed the applicable personal exemption amount;
-
-(ii) More than $10,000 in currency or other monetary instruments (checks, money orders, *etc.*), or foreign equivalent in any form; or
-
-(iii) Restricted/prohibited goods, such as agricultural products, firearms, mace, pepper spray, endangered animals, birds, controlled substances, fireworks, Cuban goods, and plants.
-
-(h) *Application for entry, examination and inspection.* Each successful use of Global Entry constitutes a separate and completed inspection and application for entry by the participant on the date that Global Entry is used. Pursuant to the enforcement provisions of 19 CFR Part 162, Global Entry participants may be subject to further CBP examination and inspection at any time during the arrival process.
+(h) *Application for entry, examination, and inspection.* Each successful use of Global Entry constitutes a separate and completed inspection and application for entry by the participant on the date that Global Entry is used. Global Entry participants may be subject to further CBP examination and inspection at any time during the arrival process.
 
 (i) *Pilot participant enrollment.* Upon implementation of the Global Entry Program, participants in the Global Entry pilot will be automatically enrolled in the Global Entry Program for 5 years from the date of enrollment in the pilot.
 
-(j) *Denial, removal and suspension.* (1) If an applicant is denied participation in Global Entry, CBP will notify the applicant of the denial, and the reasons for the denial. CBP will also provide instructions regarding how to proceed if the applicant wishes to seek additional information as to the reason for the denial.
+(j) *Denial and removal.* (1) If an applicant is denied participation in Global Entry, CBP will notify the applicant of the denial, and the reasons for the denial. CBP will also provide instructions regarding how to proceed if the applicant wishes to seek additional information as to the reason for the denial.
 
-(2) A Global Entry participant may be suspended or removed from the program for any of the following reasons:
+(2) A Global Entry participant may be removed from the program for any of the following reasons:
 
 (i) CBP, at its sole discretion, determines that the participant has engaged in any disqualifying activities under the Global Entry program as outlined in § 235.12(b)(2);
 
@@ -78,14 +70,12 @@ Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
 
 (3) CBP will notify the participant of his or her suspension or removal in writing. Such suspension or removal is effective immediately.
 
-(4) An applicant or participant denied, suspended, or removed does not receive a refund, in whole or in part, of his or her application processing fee.
+(4) An applicant or participant denied or removed will not receive a refund, in whole or in part, of his or her application processing fee.
 
-(k) *Redress.* An individual whose application is denied or whose participation is suspended or terminated has three possible methods for redress. These processes do not create or confer any legal right, privilege or benefit on the applicant or participant, and are wholly discretionary on the part of CBP. The methods of redress are:
+(k) *Redress.* An individual whose application is denied or who is removed from the program has two possible methods of redress. These processes do not create or confer any legal right, privilege or benefit on the applicant or participant, and are wholly discretionary on the part of CBP. The methods of redress are:
 
-(l) *Enrollment center.* The applicant/participant may contest his or her denial, suspension or removal by writing to the enrollment center where that individual's interview was conducted. The enrollment center addresses are available at *www.globalentry.gov.* The letter must be received by CBP within 30 calendar days of the date provided as the date of suspension or removal. The individual should write on the envelope “Redress Request RE: Global Entry.” The letter should address any facts or conduct listed in the notification from CBP as contributing to the denial, suspension or removal and why the applicant/participant believes the reason for the action is invalid. If the applicant/participant believes that the denial, suspension or revocation was based upon inaccurate information, the individual should also include any reasonably available supporting documentation with the letter. After review, CBP will inform the individual of its redress decision. If the individual's request for redress is successful, the individual's eligibility to participate in Global Entry will resume immediately.
+(1) *DHS Traveler Redress Inquiry Program (DHS TRIP).* The applicant/participant may choose to initiate the redress process through DHS Traveler Redress Program (DHS TRIP). An applicant/participant seeking redress may obtain the necessary forms and information to initiate the process on the DHS TRIP website, or by contacting DHS TRIP by mail at the address on the DHS TRIP website.
 
-(2) *DHS Traveler Redress Inquiry Program (DHS TRIP).* The applicant/participant may choose to initiate the redress process through DHS TRIP. An applicant/participant seeking redress may obtain the necessary forms and information to initiate the process on the DHS TRIP Web site at *www.dhs.gov/trip,* or by contacting DHS TRIP by mail at the address on this Web site.
+(2) *Ombudsman.* Applicants (including applicants who were not scheduled for an interview at an enrollment center) and participants may contest a denial or removal by submitting a reconsideration request to the CBP Trusted Traveler Ombudsman through the online TTP System or other CBP-approved process.
 
-(3) *Ombudsman.* Applicants (including applicants who were not scheduled for an interview at an enrollment center) and participants may contest a denial, suspension or removal by writing to the CBP Trusted Traveler Ombudsman at the address listed on the Web site *www.globalentry.gov.*
-
-[77 FR 5690, Feb. 6, 2012, as amended at 85 FR 46926, Aug. 3, 2020]
+[77 FR 5690, Feb. 6, 2012, as amended at 85 FR 46926, Aug. 3, 2020; 89 FR 22628, Apr. 2, 2024]

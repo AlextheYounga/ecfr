@@ -1,0 +1,3 @@
+##### § 422.10 Reporting to USDA. #####
+
+Following completion of an investigation into allegations of research misconduct, the institution conducting extramural research must provide to the ARIO a copy of the evidentiary record, the report of the investigation, recommendations made to the institution's adjudicating official, the adjudicating official's determination, the institution's corrective action taken or planned, and the written response of the individual who is the subject of the allegation to any recommendations.

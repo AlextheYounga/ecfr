@@ -70,7 +70,7 @@ The following definitions apply to this subpart:
 
 *Plants for planting.* Plants intended to remain planted, to be planted, or replanted.
 
-*Plants for Planting Manual.* The document that contains restrictions on the importation of specific types of plants for planting, as provided in § 319.37-20, and other information about the importation of plants for planting as provided in this subpart. The Plants for Planting Manual is available on the internet at *https://www.aphis.usda.gov/import\_export/plants/manuals/ports/downloads/plants\_for\_planting.pdf.* or by contacting the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, 4700 River Road, Unit 133, Riverdale, MD 20737-1236.
+*Plants for Planting Manual.* The document that contains restrictions on the importation of specific types of plants for planting, as provided in § 319.37-20, and other information about the importation of plants for planting as provided in this subpart. The Plants for Planting Manual is available on the internet at *https://acir.aphis.usda.gov/s/plants-for-planting-hub,* or by contacting the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Information Services and Manuals Unit, 4700 River Road, Riverdale, MD 20737.
 
 *Port of first arrival.* The land area (such as a seaport, airport, or land border station) where a person, or a land, water, or air vehicle, first arrives after entering the territory of the United States, and where inspection of plants for planting is carried out by inspectors.
 
@@ -97,3 +97,5 @@ The following definitions apply to this subpart:
 *Type of plants for planting.* A grouping of plants for planting based on shared characteristics such as biological traits, morphology, botanical nomenclature, or risk factors.
 
 *United States.* All of the States.
+
+[83 FR 11856, Mar. 19, 2018, as amended at 89 FR 79734, Oct. 1, 2024]

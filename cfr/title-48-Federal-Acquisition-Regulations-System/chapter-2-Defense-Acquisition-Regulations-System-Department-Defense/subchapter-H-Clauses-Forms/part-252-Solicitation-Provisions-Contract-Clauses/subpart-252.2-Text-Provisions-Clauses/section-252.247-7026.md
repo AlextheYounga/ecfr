@@ -1,10 +1,10 @@
 ##### 252.247-7026 Evaluation Preference for Use of Domestic Shipyards—Applicable to Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous Trade. #####
 
-Link to an amendment published at 89 FR 78992, Sept. 26, 2024.Link to an amendment published at 89 FR 78996, Sept. 26, 2024.
+Link to an amendment published at 89 FR 78996, Sept. 26, 2024.
 
-As prescribed in 247.574(d), use the following provision:
+As prescribed in 247.574(c), use the following provision:
 
-Evaluation Preference For Use of Domestic Shipyards—Applicable To Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous Trade (NOV 2008)
+Evaluation Preference for Use of Domestic Shipyards—Applicable To Acquisition of Carriage by Vessel for DOD Cargo in the Coastwise or Noncontiguous Trade (OCT 2024)
 
 (a) *Definitions.* As used in this provision—
 
@@ -12,19 +12,17 @@ Evaluation Preference For Use of Domestic Shipyards—Applicable To Acquisition 
 
 (1) Owned, operated, or controlled by the offeror; and
 
-(2) Qualified to engage in the carriage of cargo in the coastwise or noncontiguous trade under Section 27 of the Merchant Marine Act, 1920 (46 U.S.C. 12101, 12132, and 55102), commonly referred to as “Jones Act”; 46 U.S.C. 12102, 12112, and 12119; and Section 2 of the Shipping Act, 1916 (46 U.S.C. 50501).
+(2) Qualified to engage in the carriage of cargo in the coastwise or noncontiguous trade under 46 U.S.C. 12112 and 50501 and 46 U.S.C. chapter 551.
 
 *Foreign shipyard* means a shipyard that is not a U.S. shipyard.
 
 *Overhaul, repair, and maintenance work* means work requiring a shipyard period greater than or equal to 5 calendar days.
 
-*Shipyard* means a facility capable of performing overhaul, repair, and maintenance work on covered vessels.
-
 *U.S. shipyard* means a shipyard that is located in any State of the United States or in Guam.
 
-(b) This solicitation includes an evaluation criterion that considers the extent to which the offeror has had overhaul, repair, and maintenance work for covered vessels performed in U.S. shipyards.
+(b) This solicitation includes an evaluation criterion that considers the extent to which the Offeror has had overhaul, repair, and maintenance work for covered vessels performed in U.S. shipyards.
 
-(c) The offeror shall provide the following information with its offer, addressing all covered vessels for which overhaul, repair, and maintenance work has been performed during the period covering the current calendar year, up to the date of proposal submission, and the preceding four calendar years:
+(c) The Offeror shall provide the following information with its offer, addressing all covered vessels for which overhaul, repair, and maintenance work has been performed during the period covering the current calendar year, up to the date of proposal submission, and the preceding four calendar years:
 
 (1) Name of vessel.
 
@@ -46,6 +44,6 @@ Evaluation Preference For Use of Domestic Shipyards—Applicable To Acquisition 
 
 (2) Reserves the right to request supporting documentation if determined necessary in the proposal evaluation process.
 
-(e) The Department of Defense will provide the information submitted in response to this provision to the congressional defense committees, as required by Section 1017 of Public Law 109-364.
+(e) The Department of Defense will provide the information submitted in response to this provision to the congressional defense committees, as required by section 1017 of Public Law 109-364 (10 U.S.C. 2631 note).
 
-(End of provision)[72 FR 49206, Aug. 28, 2007, as amended at 73 FR 70912, Nov. 24, 2008; 84 FR 4371, Feb. 15, 2019]
+(End of provision)[72 FR 49206, Aug. 28, 2007, as amended at 73 FR 70912, Nov. 24, 2008; 84 FR 4371, Feb. 15, 2019; 89 FR 78992, 78996, Sept. 26, 2024]

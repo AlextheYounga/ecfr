@@ -1,0 +1,3 @@
+##### § 200.215 Never contract with the enemy. #####
+
+Federal agencies, recipients, and subrecipients are subject to the guidance implementing Never Contract with the Enemy in 2 CFR part 183. The guidance in 2 CFR part 183 affects covered contracts, grants, and cooperative agreements that are expected to exceed $50,000 during the period of performance, are performed outside the United States and its territories, and are in support of a contingency operation in which members of the Armed Forces are actively engaged in hostilities.

@@ -1,0 +1,11 @@
+##### § 180.605 How does suspension differ from debarment? #####
+
+Suspension differs from debarment in that:
+
+|                                                                             A suspending official . . .                                                                              |                                               A debarring official . . .                                               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+|(a) Imposes suspension as a temporary status of ineligibility for procurement and nonprocurement transactions, pending completion of an investigation or legal or debarment proceeding|     Imposes debarment for a specified period as a final determination that a person is not presently responsible.      |
+|                                                                                      (b) Must:                                                                                       |                                                                                                                        |
+|                                                 (1) Have adequate evidence that there may be a cause for debarment of a person; and                                                  |                                                                                                                        |
+|                                                   (2) Conclude that immediate action is necessary to protect the Federal interest                                                    |Must conclude, based on a preponderance of the evidence, that the person has engaged in conduct that warrants debarment.|
+|       (c) Usually imposes the suspension first, and then promptly notifies the suspended person, giving the person an opportunity to contest the suspension and have it lifted       |Imposes debarment after giving the respondent notice of the action and an opportunity to contest the proposed debarment.|

@@ -1,5 +1,7 @@
 ##### § 61.215 Ground instructor privileges. #####
 
+Link to an amendment published at 89 FR 80052, Oct. 1, 2024.
+
 (a) A person who holds a basic ground instructor rating is authorized to provide—
 
 (1) Ground training in the aeronautical knowledge areas required for the issuance of a sport pilot certificate, recreational pilot certificate, private pilot certificate, or associated ratings under this part;

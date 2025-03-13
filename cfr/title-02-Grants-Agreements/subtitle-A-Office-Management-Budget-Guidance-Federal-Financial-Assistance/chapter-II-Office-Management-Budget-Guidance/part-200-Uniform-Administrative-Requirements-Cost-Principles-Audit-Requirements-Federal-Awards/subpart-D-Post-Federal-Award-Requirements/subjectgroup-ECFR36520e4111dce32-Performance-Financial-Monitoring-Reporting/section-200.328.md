@@ -1,0 +1,9 @@
+##### § 200.328 Financial reporting. #####
+
+(a) The Federal agency must require only OMB-approved government-wide data elements on recipient financial reports. At the time of publication, this consists of the Federal Financial Report (SF-425); however, this also applies to any future OMB-approved government-wide data elements available from the OMB-designated standards lead.
+
+(b) The Federal agency or pass-through entity must collect financial reports no less than annually. The Federal agency or pass-through entity may not collect financial reports more frequently than quarterly unless a specific condition has been implemented in accordance with § 200.208. To the extent practicable, the Federal agency or pass-through entity should collect financial reports in coordination with performance reports.
+
+(c) The recipient or subrecipient must submit financial reports as required by the Federal award. Reports submitted annually by the recipient or subrecipient must be due no later than 90 calendar days after the reporting period. Reports submitted quarterly or semiannually must be due no later than 30 calendar days after the reporting period.
+
+(d) The final financial report submitted by the recipient must be due no later than 120 calendar days after the conclusion of the period of performance. A subrecipient must submit a final financial report to a pass-through entity no later than 90 calendar days after the conclusion of the period of performance. See also § 200.344. The Federal agency or pass-through entity may extend the due date for any financial report with justification from the recipient or subrecipient.

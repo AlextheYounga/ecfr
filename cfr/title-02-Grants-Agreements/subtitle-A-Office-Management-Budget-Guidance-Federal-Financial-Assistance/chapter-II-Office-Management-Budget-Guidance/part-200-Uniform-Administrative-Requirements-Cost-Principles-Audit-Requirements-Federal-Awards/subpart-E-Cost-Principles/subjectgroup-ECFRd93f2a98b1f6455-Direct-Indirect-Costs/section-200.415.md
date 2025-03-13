@@ -1,0 +1,15 @@
+##### § 200.415 Required certifications. #####
+
+(a) Financial reports must include a certification, signed by an official who is authorized to legally bind the recipient, which reads as follows: “By signing this report, I certify to the best of my knowledge and belief that the report is true, complete, and accurate, and the expenditures, disbursements and cash receipts are for the purposes and objectives set forth in the terms and conditions of the Federal award. I am aware that any false, fictitious, or fraudulent information, or the omission of any material fact, may subject me to criminal, civil or administrative penalties for fraud, false statements, false claims or otherwise. (U.S. Code Title 18, Section 1001 and Title 31, Sections 3729-3730 and 3801-3812).”
+
+(b) Subrecipients under the Federal award must certify to the pass-through entity whenever applying for funds, requesting payment, and submitting financial reports: “I certify to the best of my knowledge and belief that the information provided herein is true, complete, and accurate. I am aware that the provision of false, fictitious, or fraudulent information, or the omission of any material fact, may subject me to criminal, civil, or administrative consequences including, but not limited to violations of U.S. Code Title 18, Sections 2, 1001, 1343 and Title 31, Sections 3729-3730 and 3801-3812.” Each such certification must be maintained pursuant to the requirements of § 200.334. This paragraph applies to all tiers of subrecipients.
+
+(c) Certification of cost allocation plan or indirect cost rate proposal. Each cost allocation plan or indirect cost rate proposal must comply with the following:
+
+(1) A proposal to establish a cost allocation plan or an indirect cost rate, whether submitted to a Federal cognizant agency for indirect costs or maintained on file by the recipient, must be certified by the recipient using the *Certificate of Cost Allocation Plan* or *Certificate of Indirect Costs* as set forth in appendices III through VII, and IX of this part. The certificate must be signed on behalf of the recipient by an individual at a level no lower than the vice president or chief financial officer of the recipient that submits the proposal.
+
+(2) The Federal Government may either disallow all indirect costs or unilaterally establish an indirect cost rate when the recipient fails to submit a certified proposal for establishing a rate. This rate should be based upon audited historical data or other data furnished to the cognizant agency for indirect costs and for which it can be demonstrated that all unallowable costs have been excluded. The rate established must ensure that potentially unallowable costs are not reimbursed. Alternatively, the recipient may use the de minimis indirect cost rate. See § 200.414(f).
+
+(d) Nonprofit organizations must certify that they did not meet the definition of a major nonprofit organization as defined in § 200.414(a), if applicable.
+
+(e) The recipient must certify that the requirements and standards for lobbying (see § 200.450) have been met when submitting its indirect cost rate proposal.

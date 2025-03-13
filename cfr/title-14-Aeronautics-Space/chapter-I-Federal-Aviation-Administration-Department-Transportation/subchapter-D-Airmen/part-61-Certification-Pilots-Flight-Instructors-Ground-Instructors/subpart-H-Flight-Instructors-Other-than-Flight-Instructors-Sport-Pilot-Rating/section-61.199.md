@@ -1,5 +1,7 @@
 ##### § 61.199 Reinstatement requirements of an expired flight instructor certificate. #####
 
+Link to an amendment published at 89 FR 80052, Oct. 1, 2024.
+
 (a) *Flight instructor certificates.* The holder of an expired flight instructor certificate who has not complied with the flight instructor renewal requirements of § 61.197 may reinstate that flight instructor certificate and ratings by filing a completed and signed application with the FAA and satisfactorily completing one of the following reinstatement requirements:
 
 (1) A flight instructor certification practical test, as prescribed by § 61.183(h), for one of the ratings held on the expired flight instructor certificate.

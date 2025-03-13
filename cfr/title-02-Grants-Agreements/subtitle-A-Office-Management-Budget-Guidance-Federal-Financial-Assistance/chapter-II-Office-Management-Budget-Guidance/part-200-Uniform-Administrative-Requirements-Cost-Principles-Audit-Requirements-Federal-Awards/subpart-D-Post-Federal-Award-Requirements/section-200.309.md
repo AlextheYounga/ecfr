@@ -1,0 +1,3 @@
+##### § 200.309 Modifications to Period of Performance. #####
+
+When the Federal agency or pass-through entity approves an extension to a Federal award, or if a recipient extends under § 200.308(g)(2), the period of performance will be amended to end at the completion of the extension. If termination occurs, the period of performance will be amended to end upon the effective date of termination. The start date of a renewal award begins a new and distinct period of performance.

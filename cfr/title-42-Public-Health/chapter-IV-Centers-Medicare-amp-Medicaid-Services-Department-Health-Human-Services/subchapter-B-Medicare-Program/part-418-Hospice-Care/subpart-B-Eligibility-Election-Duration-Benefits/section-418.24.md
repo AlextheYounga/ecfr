@@ -1,22 +1,6 @@
 ##### § 418.24 Election of hospice care. #####
 
-Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
-
-(a) *Filing an election statement.* (1) *General.* An individual who meets the eligibility requirement of § 418.20 may file an election statement with a particular hospice. If the individual is physically or mentally incapacitated, his or her representative (as defined in § 418.3) may file the election statement.
-
-(2) *Notice of election.* The hospice chosen by the eligible individual (or his or her representative) must file the Notice of Election (NOE) with its Medicare contractor within 5 calendar days after the effective date of the election statement.
-
-(3) *Consequences of failure to submit a timely notice of election.* When a hospice does not file the required Notice of Election for its Medicare patients within 5 calendar days after the effective date of election, Medicare will not cover and pay for days of hospice care from the effective date of election to the date of filing of the notice of election. These days are a provider liability, and the provider may not bill the beneficiary for them.
-
-(4) *Exception to the consequences for filing the NOE late.* CMS may waive the consequences of failure to submit a timely-filed NOE specified in paragraph (a)(2) of this section. CMS will determine if a circumstance encountered by a hospice is exceptional and qualifies for waiver of the consequence specified in paragraph (a)(3) of this section. A hospice must fully document and furnish any requested documentation to CMS for a determination of exception. An exceptional circumstance may be due to, but is not limited to the following:
-
-(i) Fires, floods, earthquakes, or similar unusual events that inflict extensive damage to the hospice's ability to operate.
-
-(ii) A CMS or Medicare contractor systems issue that is beyond the control of the hospice.
-
-(iii) A newly Medicare-certified hospice that is notified of that certification after the Medicare certification date, or which is awaiting its user ID from its Medicare contractor.
-
-(iv) Other situations determined by CMS to be beyond the control of the hospice.
+(a) *Election statement.* An individual who meets the eligibility requirement of § 418.20 may file an election statement with a particular hospice. If the individual is physically or mentally incapacitated, his or her representative (as defined in § 418.3) may file the election statement.
 
 (b) *Content of election statement.* The election statement must include the following:
 
@@ -24,7 +8,7 @@ Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
 
 (2) The individual's or representative's acknowledgement that he or she has been given a full understanding of the palliative rather than curative nature of hospice care, as it relates to the individual's terminal illness and related conditions.
 
-(3) Acknowledgement that the individual has been provided information on the hospice's coverage responsibility and that certain Medicare services, as set forth in paragraph (e) of this section, are waived by the election. For Hospice elections beginning on or after October 1, 2020, this would include providing the individual with information indicating that services unrelated to the terminal illness and related conditions are exceptional and unusual and hospice should be providing virtually all care needed by the individual who has elected hospice.
+(3) Acknowledgement that the individual has been provided information on the hospice's coverage responsibility and that certain Medicare services, as set forth in paragraph (g) of this section, are waived by the election. For Hospice elections beginning on or after October 1, 2020, this would include providing the individual with information indicating that services unrelated to the terminal illness and related conditions are exceptional and unusual and hospice should be providing virtually all care needed by the individual who has elected hospice.
 
 (4) The effective date of the election, which may be the first day of hospice care or a later date, but may be no earlier than the date of the election statement.
 
@@ -72,7 +56,21 @@ Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
 
 (5) If the beneficiary dies, revokes, or is discharged prior to signing the addendum (as outlined in paragraphs (d)(1) and (2) of this section), the addendum would not be required to be signed in order for the hospice to receive payment. The hospice must note (on the addendum itself) the reason the addendum was not signed and the addendum would become part of the patient's medical record.
 
-(e) *Duration of election.* An election to receive hospice care will be considered to continue through the initial election period and through the subsequent election periods without a break in care as long as the individual—
+(e) *Notice of election.* The hospice chosen by the eligible individual (or his or her representative) must file the Notice of Election (NOE) with its Medicare contractor within 5 calendar days after the effective date of the election statement.
+
+(1) *Consequences of failure to submit a timely notice of election.* When a hospice does not file the required Notice of Election for its Medicare patients within 5 calendar days after the effective date of election, Medicare will not cover and pay for days of hospice care from the effective date of election to the date of filing of the notice of election. These days are a provider liability, and the provider may not bill the beneficiary for them.
+
+(2) *Exception to the consequences for filing the NOE late.* CMS may waive the consequences of failure to submit a timely-filed NOE specified in paragraph (e)(1) of this section. CMS will determine if a circumstance encountered by a hospice is exceptional and qualifies for waiver of the consequence specified in paragraph (e)(1) of this section. A hospice must fully document and furnish any requested documentation to CMS for a determination of exception. An exceptional circumstance may be due to, but is not limited to, the following:
+
+(i) Fires, floods, earthquakes, or similar unusual events that inflict extensive damage to the hospice's ability to operate.
+
+(ii) A CMS or Medicare contractor systems issue that is beyond the control of the hospice.
+
+(iii) A newly Medicare-certified hospice that is notified of that certification after the Medicare certification date, or which is awaiting its user ID from its Medicare contractor.
+
+(iv) Other situations determined by CMS to be beyond the control of the hospice.
+
+(f) *Duration of election.* An election to receive hospice care will be considered to continue through the initial election period and through the subsequent election periods without a break in care as long as the individual—
 
 (1) Remains in the care of a hospice;
 
@@ -80,7 +78,7 @@ Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
 
 (3) Is not discharged from the hospice under the provisions of § 418.26.
 
-(f) *Waiver of other benefits.* For the duration of an election of hospice care, an individual waives all rights to Medicare payments for the following services:
+(g) *Waiver of other benefits.* For the duration of an election of hospice care, an individual waives all rights to Medicare payments for the following services:
 
 (1) Hospice care provided by a hospice other than the hospice designated by the individual (unless provided under arrangements made by the designated hospice).
 
@@ -92,9 +90,9 @@ Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
 
 (iii) Provided by the individual's attending physician if that physician is not an employee of the designated hospice or receiving compensation from the hospice for those services.
 
-(g) *Re-election of hospice benefits.* If an election has been revoked in accordance with § 418.28, the individual (or his or her representative if the individual is mentally or physically incapacitated) may at any time file an election, in accordance with this section, for any other election period that is still available to the individual.
+(h) *Re-election of hospice benefits.* If an election has been revoked in accordance with § 418.28, the individual (or his or her representative if the individual is mentally or physically incapacitated) may at any time file an election, in accordance with this section, for any other election period that is still available to the individual.
 
-(h) *Changing the attending physician.* To change the designated attending physician, the individual (or representative) must file a signed statement with the hospice that states that he or she is changing his or her attending physician.
+(i) *Changing the attending physician.* To change the designated attending physician, the individual (or representative) must file a signed statement with the hospice that states that he or she is changing his or her attending physician.
 
 (1) The statement must identify the new attending physician, and include the date the change is to be effective and the date signed by the individual (or representative).
 
@@ -102,4 +100,4 @@ Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
 
 (3) The effective date of the change in attending physician cannot be before the date the statement is signed.
 
-[55 FR 50834, Dec. 11, 1990, as amended at 70 FR 70547, Nov. 22, 2005; 79 FR 50509, Aug. 22, 2014; 84 FR 38544, Aug. 6, 2019; 86 FR 42605, Aug. 4, 2021]
+[55 FR 50834, Dec. 11, 1990, as amended at 70 FR 70547, Nov. 22, 2005; 79 FR 50509, Aug. 22, 2014; 84 FR 38544, Aug. 6, 2019; 86 FR 42605, Aug. 4, 2021; 89 FR 64272, Aug. 6, 2024]

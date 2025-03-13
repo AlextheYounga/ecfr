@@ -1,5 +1,7 @@
 ##### § 65.71 Eligibility requirements: General. #####
 
+Link to an amendment published at 89 FR 80053, Oct. 1, 2024.
+
 (a) To be eligible for a mechanic certificate and associated ratings, a person must—
 
 (1) Be at least 18 years of age;

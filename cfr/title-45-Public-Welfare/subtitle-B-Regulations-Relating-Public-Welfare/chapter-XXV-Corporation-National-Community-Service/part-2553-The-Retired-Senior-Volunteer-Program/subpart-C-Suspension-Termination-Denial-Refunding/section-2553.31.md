@@ -1,7 +1,5 @@
 ##### § 2553.31 What are the rules on suspension, termination and denial of refunding of grants? #####
 
-Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
-
 (a) The Chief Executive Officer or designee is authorized to suspend further payments or to terminate payments under any grant providing assistance under the Act whenever he or she determines there is a material failure to comply with applicable terms and conditions of the grant. The Chief Executive Officer shall prescribe procedures to insure that:
 
 (1) Assistance under the Act shall not be suspended for failure to comply with applicable terms and conditions, except in emergency situations for thirty days;
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
 
 (ii) Opportunity to show cause why such action should not be taken;
 
-(3) In any case where an application for refunding is denied for failure to comply with the terms and conditions of the grant, the recipient shall be afforded an opportunity for an informal hearing before an impartial hearing officer, who has been agreed to by the recipient and CNCS; and
+(3) In any case where an application for refunding is denied for failure to comply with the terms and conditions of the grant, the recipient shall be afforded an opportunity for an informal hearing before an impartial hearing officer, who has been agreed to by the recipient and AmeriCorps; and
 
 (4) Assistance under the Act shall not be terminated for failure to comply with applicable terms and conditions unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing.
 

@@ -1,7 +1,5 @@
-##### § 5900.101 Adoption of 2 CFR Part 200. #####
+##### § 5900.101 Adoption of 2 CFR part 200. #####
 
-Link to an amendment published at 89 FR 75445, Sept. 16, 2024.
+The Gulf Coast Ecosystem Restoration Council adopts the Office of Management and Budget guidance in 2 CFR part 200, as revised effective October 1, 2024, except for 2 CFR 200.322(c) (collectively, OMB guidance). This part gives regulatory effect to the OMB guidance.
 
-Under the above authority, the Gulf Coast Ecosystem Restoration Council (Council) adopts the Office of Management and Budget (OMB) Guidance in 2 CFR part 200, as revised in part effective August 13, 2020 and in part effective November 12, 2020. This gives regulatory effect to the revised OMB guidance and supplements the guidance as needed for the Council.
-
-[86 FR 1253, Jan. 8, 2021]
+[89 FR 75445, Sept. 16, 2024]

@@ -1,5 +1,5 @@
 ##### § 700.3 Applicability. #####
 
-(a) Subparts A through D of 2 CFR part 200 apply to for-profit entities. The Federal Acquisition Regulation (FAR) at 48 CFR part 30, Cost Accounting Standards, and Part 31, Contract Cost Principles and Procedures, takes precedence over the cost principles in Subpart E for Federal awards to for-profit entities.
+(a) Subparts A through D of 2 CFR part 200 apply to for-profit entities located in the United States or its territories. The Federal Acquisition Regulation (FAR) at 48 CFR part 30, Cost Accounting Standards, and Part 31, Contract Cost Principles and Procedures, takes precedence over the cost principles in Subpart E for Federal awards to U.S. for-profit entities.
 
-(b) Subpart E applies to foreign organizations and foreign public entities, except where the Federal awarding agency determines that the application of these subparts would be inconsistent with the international obligations of the United States or the statute or regulations of a foreign government.
+(b) Subpart E applies to foreign organizations and foreign public entities, except where the Federal agency determines that the application of these subparts would be inconsistent with the international responsibilities of the United States or the laws of a foreign government. The Federal Acquisition Regulation (FAR) at 48 CFR part 30, Cost Accounting Standards, and Part 31, Contract Cost Principles and Procedures, takes precedence over the cost principles in Subpart E for Federal awards to foreign for-profit entities.

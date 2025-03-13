@@ -1,0 +1,3 @@
+##### § 200.330 Reporting on real property. #####
+
+The Federal agency or pass-through entity must require the recipient or subrecipient to submit reports on the status of real property in which the Federal Government retains an interest. Such reports must be submitted at least annually. In instances where the Federal Government's interest in the real property extends for 15 years or more, the Federal agency or pass-through entity may require the recipient or subrecipient to report at various multi-year frequencies. Reports submitted at multi-year frequencies may not exceed a five-year reporting period. The Federal agency must only require OMB-approved government-wide data elements on recipient real property reports.

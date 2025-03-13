@@ -1,5 +1,7 @@
 ##### § 65.75 Knowledge requirements. #####
 
+Link to an amendment published at 89 FR 80053, Oct. 1, 2024.
+
 (a) Except as specified in paragraph (c) of this section, each applicant for a mechanic certificate or rating must, after meeting the applicable experience requirements of § 65.77, pass a written test, appropriate to the rating sought, which includes the aeronautical knowledge subject areas contained in the Aviation Mechanic General, Airframe, and Powerplant Airman Certification Standards (incorporated by reference, see § 65.23), as appropriate to the rating sought.
 
 (b) The applicant must pass each section of the test before applying for the oral and practical tests prescribed by § 65.79. A report of the written test is sent to the applicant.

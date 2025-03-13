@@ -1,7 +1,5 @@
 ##### § 413.75 Direct GME payments: General requirements. #####
 
-Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
-
 (a) *Statutory basis and scope*—(1) *Basis.* This section and §§ 413.76 through 413.83 implement section 1886(h) of the Act by establishing the methodology for Medicare payment of the cost of direct graduate medical educational activities.
 
 (2) *Scope.* This section and §§ 413.76 through 413.83 apply to Medicare payments to hospitals and hospital-based providers for the costs of approved residency programs in medicine, osteopathy, dentistry, and podiatry for cost reporting periods beginning on or after July 1, 1985.
@@ -36,7 +34,7 @@ Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
 
 *CPI-U* stands for the Consumer Price Index for All Urban Consumers as compiled by the Bureau of Labor Statistics.
 
-*Emergency Medicare GME affiliated group* means at least one home hospital and one or more host hospitals, as those terms are defined below, that meet the requirements at § 413.79(f)(6). For purposes of an emergency Medicare GME affiliated group, the following definitions apply:
+*Emergency Medicare GME affiliated group* means at least one home hospital and one or more host hospitals, as those terms are defined below, that meet the requirements at § 413.79(f)(7). For purposes of an emergency Medicare GME affiliated group, the following definitions apply:
 
 (1) *Home hospital* means a hospital that—
 
@@ -160,4 +158,4 @@ Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
 
 (7) The name of the employer paying the resident's salary.
 
-[69 FR 49254, Aug. 11, 2004, as amended at 70 FR 47489, Aug. 12, 2005; 71 FR 18666, Apr. 12, 2006; 71 FR 48141, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 47412, Aug. 22, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 50418, Aug. 16, 2010; 75 FR 72262, Nov. 24, 2010; 79 FR 50357, Aug. 22, 2014; 86 FR 73512, Dec. 27, 2021; 87 FR 49405, Aug. 10, 2022]
+[69 FR 49254, Aug. 11, 2004, as amended at 70 FR 47489, Aug. 12, 2005; 71 FR 18666, Apr. 12, 2006; 71 FR 48141, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 47412, Aug. 22, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 50418, Aug. 16, 2010; 75 FR 72262, Nov. 24, 2010; 79 FR 50357, Aug. 22, 2014; 86 FR 73512, Dec. 27, 2021; 87 FR 49405, Aug. 10, 2022; 89 FR 69912, Aug. 28, 2024]

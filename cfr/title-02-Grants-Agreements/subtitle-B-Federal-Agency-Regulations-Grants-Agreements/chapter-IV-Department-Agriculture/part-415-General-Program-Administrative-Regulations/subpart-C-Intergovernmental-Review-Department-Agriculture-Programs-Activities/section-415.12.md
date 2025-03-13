@@ -6,7 +6,7 @@
 
 (2) Reaches a mutually agreeable solution with the State process; or
 
-(3) Provides the single point of contact with a written explanation of the decision, as the Secretary in his or her discretion deems appropriate. The Secretary may also supplement the written explanation by also providing the explanation to the single point of contact by telephone, other telecommunication, or other means.
+(3) Provides the single point of contact with a written explanation of the decision, as determined by the Secretary. The Secretary may also supplement the written explanation by also providing the explanation to the single point of contact by telephone, other telecommunication, or other means.
 
 (b) In any explanation under paragraph (a)(3) of this section, the Secretary informs the single point of contact that:
 

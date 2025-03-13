@@ -1,0 +1,3 @@
+##### § 200.441 Fines, penalties, damages and other settlements. #####
+
+Costs resulting from recipient or subrecipient violations of, alleged violations of, or failure to comply with, Federal, State, local, tribal, or foreign laws and regulations are unallowable, except when incurred as a result of compliance with specific provisions of the Federal award, or with the prior written approval of the Federal agency. See § 200.435.

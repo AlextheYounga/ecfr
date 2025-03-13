@@ -1,0 +1,3 @@
+##### § 303.228 How to file an application. #####
+
+Forms and instructions should be obtained from the FDIC's Regional Offices or on the FDIC's website (*www.fdic.gov*), and the application(s) must be filed with the appropriate FDIC Regional Office. An application may be filed by an individual or by an IDI or depository institution holding company on behalf of an individual, or by both. The appropriate Regional Office for an institution-sponsored application is the office covering the state where the institution's home office is located. The appropriate Regional Office for an application filed by an individual is the office covering the state where the person resides. States covered by each FDIC Regional Office can be located on the FDIC's website.

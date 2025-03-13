@@ -1,0 +1,3 @@
+##### § 512.340 Payments subject to the Facility HDPA. #####
+
+CMS adjusts the Adjusted ESRD PPS per Treatment Base Rate by the Facility HDPA on claim lines with Type of Bill 072X, and with condition codes 74 or 76, when the claim is submitted by an ESRD facility that is an ETC Participant with a claim service date during a calendar year subject to adjustment as described in § 512.350 and the beneficiary is at least 18 years old before the first day of the month.

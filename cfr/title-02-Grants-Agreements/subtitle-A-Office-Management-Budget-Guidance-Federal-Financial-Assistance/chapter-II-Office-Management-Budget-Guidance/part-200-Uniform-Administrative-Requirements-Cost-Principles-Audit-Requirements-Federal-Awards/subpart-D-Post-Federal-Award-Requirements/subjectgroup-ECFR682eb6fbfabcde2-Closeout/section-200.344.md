@@ -1,0 +1,19 @@
+##### § 200.344 Closeout. #####
+
+(a) The Federal agency or pass-through entity must close out the Federal award when it determines that all administrative actions and required work of the Federal award have been completed. When the recipient or subrecipient fails to complete the necessary administrative actions or the required work for an award, the Federal agency or pass-through entity must proceed with closeout based on the information available. This section specifies the administrative actions required at the end of the period of performance.
+
+(b) A recipient must submit all reports (financial, performance, and other reports required by the Federal award) no later than 120 calendar days after the conclusion of the period of performance. A subrecipient must submit all reports (financial, performance, and other reports required by a subaward) to the pass-through entity no later than 90 calendar days after the conclusion of the period of performance of the subaward (or an earlier date as agreed upon by the pass-through entity and subrecipient). When justified, the Federal agency or pass-through entity may approve extensions for the recipient or subrecipient. When the recipient does not have a final indirect cost rate covering the period of performance, a final financial report must still be submitted to fulfill the requirements of this section. The recipient must submit a revised final financial report when all applicable indirect cost rates have been finalized.
+
+(c) The recipient must liquidate all financial obligations incurred under the Federal award no later than 120 calendar days after the conclusion of the period of performance. A subrecipient must liquidate all financial obligations incurred under a subaward no later than 90 calendar days after the conclusion of the period of performance of the subaward (or an earlier date as agreed upon by the pass-through entity and subrecipient). When justified, the Federal agency or pass-through entity may approve extensions for the recipient or subrecipient.
+
+(d) The Federal agency or pass-through entity must not delay payments to the recipient or subrecipient for costs meeting the requirements of subpart E of this part.
+
+(e) The recipient or subrecipient must promptly refund any unobligated funds that the Federal agency or pass-through entity paid and that are not authorized to be retained. See OMB Circular A-129 and § 200.346.
+
+(f) The Federal agency or pass-through entity must make all necessary adjustments to the Federal share of costs after closeout reports are received (for example, to reflect the disallowance of any costs or the deobligation of an unliquidated balance).
+
+(g) The recipient or subrecipient must account for any property acquired with Federal funds or received from the Federal Government in accordance with §§ 200.310 through 200.316 and 200.330.
+
+(h) The Federal agency must make every effort to complete all closeout actions no later than one year after the end of the period of performance. If the indirect cost rate has not been finalized and would delay closeout, the Federal agency is authorized to mutually agree with the recipient to close an award using the current or most recently negotiated rate. However, the recipient is not required to agree to a final rate for a Federal award for the purpose of prompt closeout.
+
+(i) If the recipient does not comply with the requirements of this section, including submitting all final reports, the Federal agency must report the recipient's material failure to comply with the terms and conditions of the Federal award in *SAM.gov*. A Federal agency must use the Contractor Performance Assessment Reporting System (CPARS) to enter or amend information in *SAM.gov*. Federal agencies may also pursue other enforcement actions as appropriate. See § 200.339.

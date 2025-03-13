@@ -1,6 +1,6 @@
 ##### 212.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services. #####
 
-Link to an amendment published at 89 FR 78991, Sept. 26, 2024.Link to an amendment published at 89 FR 78998, Sept. 26, 2024.
+Link to an amendment published at 89 FR 78991, Sept. 26, 2024.
 
 (c) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301.
 
@@ -218,6 +218,8 @@ Link to an amendment published at 89 FR 78991, Sept. 26, 2024.Link to an amendme
 
 (OO) Use the clause at 252.225-7064, Restriction on Acquisition of Certain Satellite Components, as prescribed in 225.7004-7(d), to comply with 10 U.S.C. 4864.
 
+(PP) Use the provision at 252.225-7065, Restriction on Acquisition of Fuel for Overseas Contingency Operations, as prescribed in 225.7024-4, to comply with section 843 of the National Defense Authorization Act for Fiscal Year 2022 (Pub. L. 117-81).
+
 (xi) *Part 226—Other Socioeconomic Programs.* (A) Use the clause at 252.226-7001, Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns, as prescribed in 226.104, to comply with section 8021 of Pub. L. 107-248 and similar sections in subsequent DoD appropriations acts.
 
 (B) Use the provision at 252.226-7002, Representation for Demonstration Project for Contractors Employing Persons with Disabilities, as prescribed in 226.7203.
@@ -272,24 +274,22 @@ Link to an amendment published at 89 FR 78991, Sept. 26, 2024.Link to an amendme
 
 (C) Use the clause at 252.246-7008, Sources of Electronic Parts, as prescribed in 246.870-3(b), to comply with section 818(c)(3) of Public Law 112-81, as amended by section 817 of the National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113-291 and section 885 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92).
 
-(xxi) *Part 247—Transportation.* (A) Use the clause at 252.247-7003, Pass-Through of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer, as prescribed in 247.207, to comply with section 884 of Pub. L. 110-417.
+(xxi) *Part 247—Transportation.* (A) Use the clause at 252.247-7003, Pass-Through of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer, as prescribed in 247.207, to comply with section 884 of Public Law 110-417.
 
-(B) Use the provision at 252.247-7022, Representation of Extent of Transportation by Sea, as prescribed in 247.574(a).
+(B) Use the basic or one of the alternates of the clause at 252.247-7023, Transportation of Supplies by Sea, as prescribed in 247.574(a), to comply with the Cargo Preference Act of 1904 (10 U.S.C. 2631(a)).
 
-(C) Use the basic or one of the alternates of the clause at 252.247-7023, Transportation of Supplies by Sea, as prescribed in 247.574(b), to comply with the Cargo Preference Act of 1904 (10 U.S.C. 2631(a)).
+(*1*) Use the basic clause as prescribed in 247.574(a)(1).
 
-(*1*) Use the basic clause as prescribed in 247.574(b)(1).
+(*2*) Use the alternate I clause as prescribed in 247.574(a)(2).
 
-(*2*) Use the alternate I clause as prescribed in 247.574(b)(2).
+(*3*) Use the alternate II clause as prescribed in 247.574(a)(3).
 
-(*3*) Use the alternate II clause as prescribed in 247.574(b)(3).
+(C) Use the clause 252.247-7025, Reflagging or Repair Work, as prescribed in 247.574(b), to comply with 10 U.S.C. 2631(b).
 
-(D) Use the clause 252.247-7025, Reflagging or Repair Work, as prescribed in 247.574(c), to comply with 10 U.S.C. 2631(b).
+(D) Use the provision at 252.247-7026, Evaluation Preference for Use of Domestic Shipyards—Applicable to Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous Trade, as prescribed in 247.574(c), to comply with section 1017 of Public Law 109-364.
 
-(E) Use the provision at 252.247-7026, Evaluation Preference for Use of Domestic Shipyards—Applicable to Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous Trade, as prescribed in 247.574(d), to comply with section 1017 of Pub. L. 109-364.
+(E) Use the clause at 252.247-7027, Riding Gang Member Requirements, as prescribed in 247.574(d), to comply with section 3504 of the National Defense Authorization Act for Fiscal Year 2009 (Pub. L. 110-417).
 
-(F) Use the clause at 252.247-7027, Riding Gang Member Requirements, as prescribed in 247.574(e), to comply with section 3504 of the National Defense Authorization Act for Fiscal Year 2009 (Pub. L. 110-417).
+(F) Use the clause at 252.247-7028, Application for U.S. Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-(G) Use the clause at 252.247-7028, Application for U.S. Government Shipping Documentation/Instructions, as prescribed in 247.207.
-
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 12863, Mar. 1, 2023; 88 FR 17339, Mar. 22, 2023; 88 FR 25512, Apr. 27, 2023; 88 FR 37797, June 9, 2023; 88 FR 46902, 46905, July 20, 2023; 88 FR 67606, 67609, Sept. 29, 2023; 88 FR 80464, Nov. 17, 2023; 88 FR 88537, Dec. 22, 2023; 89 FR 11747, Feb. 15, 2024; 89 FR 20870, Mar. 26, 2024; 89 FR 46813, May 30, 2024; 89 FR 66284, Aug. 15, 2024]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 12863, Mar. 1, 2023; 88 FR 17339, Mar. 22, 2023; 88 FR 25512, Apr. 27, 2023; 88 FR 37797, June 9, 2023; 88 FR 46902, 46905, July 20, 2023; 88 FR 67606, 67609, Sept. 29, 2023; 88 FR 80464, Nov. 17, 2023; 88 FR 88537, Dec. 22, 2023; 89 FR 11747, Feb. 15, 2024; 89 FR 20870, Mar. 26, 2024; 89 FR 46813, May 30, 2024; 89 FR 66284, Aug. 15, 2024; 89 FR 78991, 78998, Sept. 26, 2024]

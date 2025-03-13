@@ -1,6 +1,4 @@
-##### § 2522.475 To what extent must I use the Corporation's selection criteria and priorities when selecting formula programs or operating sites? #####
-
-Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
+##### § 2522.475 To what extent must I use AmeriCorps' selection criteria and priorities when selecting formula programs or operating sites? #####
 
 You must ensure that the selection criteria you use include the following criteria:
 
@@ -18,6 +16,6 @@ You must ensure that the selection criteria you use include the following criter
 
 (g) In the case of applicants other than States, the extent to which the application is consistent with the application of the State in which the projects would be conducted.
 
-(h) Such other criteria as the Corporation considers to be appropriate, following appropriate notice.
+(h) Such other criteria as AmeriCorps considers to be appropriate, following appropriate notice.
 
 [70 FR 39600, July 8, 2005]

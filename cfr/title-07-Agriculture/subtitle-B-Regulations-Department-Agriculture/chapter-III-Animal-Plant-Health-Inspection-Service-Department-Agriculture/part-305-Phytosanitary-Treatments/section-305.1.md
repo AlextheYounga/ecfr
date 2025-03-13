@@ -26,7 +26,7 @@
 
 *Plant Protection and Quarantine (PPQ).* The Plant Protection and Quarantine program of APHIS.
 
-*PPQ Treatment Manual.* A document that contains treatment schedules that are approved by the Administrator for use under this part. The Treatment Manual is available on the Internet at (*http://www.aphis.usda.gov/import\_export/plants/manuals/index.shtml*) or by contacting the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Manuals Unit, 92 Thomas Johnson Drive, Suite 200, Frederick, MD 21702.
+*PPQ Treatment Manual.* A document that contains treatment schedules that are approved by the Administrator for use under this part. The Treatment Manual is available on the internet at *https://acir.aphis.usda.gov/s/treatment-hub,* or by contacting the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Information Services and Manuals Unit, 4700 River Road, Riverdale, MD 20737.
 
 *Quick freeze.* A commercially acceptable method of quick freezing at subzero temperatures with subsequent storage and transportation at not higher than 20 °F. Methods that accomplish this are known as quick freezing, sharp freezing, cold pack, or frozen pack, but may be any equivalent commercially acceptable freezing method.
 
@@ -36,4 +36,4 @@
 
 *Vacuum fumigation.* Fumigation performed in a gas-tight enclosure. Most air in the enclosure is removed and replaced with a small amount of fumigant. The reduction in pressure reduces the required duration of the treatment.
 
-[75 FR 4241, Jan. 26, 2010, as amended at 76 FR 60360, Sept. 29, 2011; 83 FR 5876, Feb. 12, 2018]
+[75 FR 4241, Jan. 26, 2010, as amended at 76 FR 60360, Sept. 29, 2011; 83 FR 5876, Feb. 12, 2018; 89 FR 79734, Oct. 1, 2024]

@@ -1,0 +1,3 @@
+##### § 200.419 Cost accounting standards. #####
+
+An IHE that receive an aggregate total $50 million or more in Federal awards and instruments subject to this subpart (as specified in § 200.101) in its most recently completed fiscal year must comply with the Cost Accounting Standards Board's cost accounting standards located at 48 CFR 9905.501, 9905.502, 9905.505, and 9905.506. CAS-covered contracts and subcontracts awarded to the IHEs are subject to the broader range of CAS requirements at 48 CFR 9900 through 9999 and 48 CFR part 30 (FAR Part 30).

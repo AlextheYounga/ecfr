@@ -1,0 +1,3 @@
+##### § 180.155 How do I know if a person is excluded? #####
+
+Check the System for Award Management (*SAM.gov*) Exclusions to determine whether a person is excluded. The General Services Administration (GSA) maintains *SAM.gov* Exclusions and makes it available, as detailed in subpart E. When a Federal agency takes action to exclude a person under the nonprocurement or procurement debarment and suspension system, the agency enters the information about the excluded person into SAM.gov Exclusions.

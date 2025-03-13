@@ -1,10 +1,8 @@
 ##### 252.204-7007 Alternate A, Annual Representations and Certifications. #####
 
-Link to an amendment published at 89 FR 78991, Sept. 26, 2024.
-
 As prescribed in 204.1202, use the following provision:
 
-Alternate A, Annual Representations and Certifications (NOV 2023)
+Alternate A, Annual Representations and Certifications (OCT 2024)
 
 Substitute the following paragraphs (b), (d), and (e) for paragraphs (b) and (d) of the provision at FAR 52.204-8:
 
@@ -32,8 +30,6 @@ Substitute the following paragraphs (b), (d), and (e) for paragraphs (b) and (d)
 
 (vii) 252.229-7013, Tax Exemptions (Spain)—Representation. Applies to solicitations when contract performance will be in Spain.
 
-(viii) 252.247-7022, Representation of Extent of Transportation by Sea. Applies to all solicitations except those for direct purchase of ocean transportation services or those with an anticipated value at or below the simplified acquisition threshold.
-
 (2) The following representations or certifications in SAM are applicable to this solicitation as indicated by the Contracting Officer: [*Contracting Officer check as appropriate.*]
 
 \_\_\_\_(i) 252.209-7002, Disclosure of Ownership or Control by a Foreign Government.\_\_\_\_(ii) 252.225-7000, Buy American—Balance of Payments Program Certificate.\_\_\_\_(iii) 252.225-7020, Trade Agreements Certificate.\_\_\_\_Use with Alternate I.\_\_\_\_(iv) 252.225-7031, Secondary Arab Boycott of Israel.\_\_\_\_(v) 252.225-7035, Buy American—Free Trade Agreements—Balance of Payments Program Certificate.\_\_\_\_Use with Alternate I.\_\_\_\_Use with Alternate II.\_\_\_\_Use with Alternate III.\_\_\_\_Use with Alternate IV.\_\_\_\_Use with Alternate V.\_\_\_\_ (vi) 252.226-7002, Representation for Demonstration Project for Contractors Employing Persons with Disabilities.\_\_\_\_ (vii) 252.232-7015, Performance-Based Payments—Representation.
@@ -46,4 +42,4 @@ Substitute the following paragraphs (b), (d), and (e) for paragraphs (b) and (d)
 
 Any changes provided by the Offeror are applicable to this solicitation only, and do not result in an update to the representations and certifications located in the SAM database.
 
-(End of provision)[76 FR 58141, Sept. 20, 2011, as amended at 76 FR 71464, Nov. 18, 2011; 77 FR 19130, Mar. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35881, June 15, 2012; 77 FR 43470, July 24, 2012; 78 FR 28758, May 16, 2013; 78 FR 30232, May 22, 2013; 79 FR 17446, Mar. 28, 2014; 79 FR 45664, Aug. 5, 2014; 79 FR 73490, Dec. 11, 2014; 80 FR 5001, Jan. 29, 2015; 83 FR 66073, Dec. 21, 2018; 84 FR 12140, Apr. 1, 2019; 84 FR 30947, June 28, 2019; 84 FR 72237, 72560, Dec. 31, 2019; 85 FR 19688, Apr. 8, 2020; 85 FR 74611, Nov. 23, 2020; 86 FR 27278, May 20, 2021; 88 FR 80466, Nov. 17, 2023]
+(End of provision)[76 FR 58141, Sept. 20, 2011, as amended at 76 FR 71464, Nov. 18, 2011; 77 FR 19130, Mar. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35881, June 15, 2012; 77 FR 43470, July 24, 2012; 78 FR 28758, May 16, 2013; 78 FR 30232, May 22, 2013; 79 FR 17446, Mar. 28, 2014; 79 FR 45664, Aug. 5, 2014; 79 FR 73490, Dec. 11, 2014; 80 FR 5001, Jan. 29, 2015; 83 FR 66073, Dec. 21, 2018; 84 FR 12140, Apr. 1, 2019; 84 FR 30947, June 28, 2019; 84 FR 72237, 72560, Dec. 31, 2019; 85 FR 19688, Apr. 8, 2020; 85 FR 74611, Nov. 23, 2020; 86 FR 27278, May 20, 2021; 88 FR 80466, Nov. 17, 2023; 89 FR 78991, Sept. 26, 2024]

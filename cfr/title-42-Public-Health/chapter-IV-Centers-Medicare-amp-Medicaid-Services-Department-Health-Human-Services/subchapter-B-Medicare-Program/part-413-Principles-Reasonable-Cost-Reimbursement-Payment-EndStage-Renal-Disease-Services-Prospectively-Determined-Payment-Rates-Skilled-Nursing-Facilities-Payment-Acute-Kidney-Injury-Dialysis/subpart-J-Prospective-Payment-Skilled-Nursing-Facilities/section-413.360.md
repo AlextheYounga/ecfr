@@ -1,7 +1,5 @@
 ##### § 413.360 Requirements under the Skilled Nursing Facility (SNF) Quality Reporting Program (QRP). #####
 
-Link to an amendment published at 89 FR 64162, Aug. 6, 2024.
-
 (a) *Participation start date.* Beginning with the FY 2018 program year, a SNF must begin reporting data in accordance with paragraph (b) of this section no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the SNF as operating in the CMS designated data submission system. For purposes of this section, a program year is the fiscal year in which the market basket percentage described in § 413.337(d) is reduced by two percentage points if the SNF does not report data in accordance with paragraph (b) of this section.
 
 (b) *Data submission requirement.* (1) Except as provided in paragraph (c) of this section, and for a program year, SNFs must submit to CMS data on measures specified under sections 1899B(c)(1) and 1899B(d)(1) of the Social Security Act and standardized resident assessment data in accordance with section 1899B(b)(1) of the Social Security Act, in the form and manner, and at a time, specified by CMS.
@@ -74,7 +72,9 @@ Link to an amendment published at 89 FR 64162, Aug. 6, 2024.
 
 (e) *Appeals.* A SNF that is dissatisfied with CMS' decision on a request for reconsideration may file an appeal with the Provider Reimbursement Review Board (PRRB) under 42 CFR part 405, subpart R.
 
-(f) *Data completion threshold.*(1) SNFs must meet or exceed the following data completeness thresholds with respect to a calendar year:
+(f) *Data completion threshold.*
+
+(1) SNFs must meet or exceed the following data completeness thresholds with respect to a program year:
 
 (i) The threshold set at 100 percent completion of measures data and standardized patient assessment data collected using the Minimum Data Set (MDS) on at least 80 percent of the assessments SNFs submit through the CMS designated data submission system for FY 2018 through FY 2025 program years.
 
@@ -82,8 +82,20 @@ Link to an amendment published at 89 FR 64162, Aug. 6, 2024.
 
 (iii) The threshold set at 100 percent for measures data collected and submitted through the Centers for Disease Control and Prevention's (CDC) National Healthcare Safety Network (NHSN) for FY 2023 and for all subsequent payment updates.
 
+(iv) If selected for the data validation process under paragraph (g) of this section, the threshold set at 100 percent submission of medical charts.
+
 (2) These thresholds apply to all measures and standardized patient assessment data requirements adopted into the SNF QRP.
 
-(3) A SNF must meet or exceed both thresholds to avoid receiving a 2-percentage point reduction to their annual payment update for a given fiscal year.
+(3) A SNF must meet or exceed each applicable threshold described in paragraph (f)(1) of this section to avoid receiving the applicable penalty for failure to report quality data set forth in § 413.337(d)(4).
 
-[82 FR 36634, Aug. 4, 2017, as amended at 83 FR 39290, Aug. 8, 2018; 84 FR 38832, Aug. 7, 2019; 87 FR 47618, Aug. 3, 2022; 88 FR 53346, Aug. 7, 2023]
+(g) *Data validation process.* (1) Beginning with the FY 2027 payment year: for all measures that are calculated using Minimum Data Set (MDS) information, CMS will validate the accuracy of this information. The process by which CMS will request medical records and by which SNFs must submit the requested medical records is as follows:
+
+(i) On an annual basis, a CMS contractor will select up to 1,500 SNFs for validation. A SNF is eligible for selection for a year if it submitted at least one MDS record to CMS in the fiscal year that is 2 years prior to the applicable program year, and if the SNF has been randomly selected for a periodic audit for the same year under § 413.338.
+
+(ii) For each SNF selected under this paragraph (g)(1), the CMS contractor will request up to 10 medical records. Each SNF selected will only be required to submit records once in a fiscal year, for a maximum of 10 records for each SNF selected. Each requested medical record must be the same medical record that has been requested for submission by the SNF for the same year under § 413.338. CMS will submit its request in writing to the selected SNF.
+
+(iii) A SNF that receives a request for medical records under this paragraph (g)(1) must submit a digital or paper copy of each of the requested medical records within 45 days of the date of the request.
+
+(2) Beginning with the FY 2027 payment year: the information reported through claims for all claims-based measures are validated for accuracy by Medicare Administrative Contractors (MACs).
+
+[82 FR 36634, Aug. 4, 2017, as amended at 83 FR 39290, Aug. 8, 2018; 84 FR 38832, Aug. 7, 2019; 87 FR 47618, Aug. 3, 2022; 88 FR 53346, Aug. 7, 2023; 89 FR 64162, Aug. 6, 2024]

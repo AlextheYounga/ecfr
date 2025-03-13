@@ -1,5 +1,7 @@
 ##### § 63.35 Knowledge requirements. #####
 
+Link to an amendment published at 89 FR 80053, Oct. 1, 2024.
+
 (a) An applicant for a flight engineer certificate must pass a written test on the following:
 
 (1) The regulations of this chapter that apply to the duties of a flight engineer.

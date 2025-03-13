@@ -1,10 +1,8 @@
 ##### § 418.312 Data submission requirements under the hospice quality reporting program. #####
 
-Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
-
 (a) *General rule.* Except as provided in paragraph (g) of this section, Medicare-certified hospices must submit to CMS data on measures selected under section 1814(i)(5)(C) of the Act in a form and manner, and at a time, specified by the Secretary.
 
-(b) *Submission of Hospice Quality Reporting Program data.* (1) Standardized set of admission and discharge items Hospices are required to complete and submit an admission Hospice Item Set (HIS) and a discharge HIS for each patient to capture patient-level data, regardless of payer or patient age. The HIS is a standardized set of items intended to capture patient-level data.
+(b) *Submission of Hospice Quality Reporting Program data.* (1) Hospices are required to complete and submit a standardized set of items for each patient to capture patient-level data, regardless of payer or patient age. The standardized set of items must be completed no less frequently than at admission, the hospice update visit (HUV), and discharge, as directed in the associated guidance manual and required by the Hospice Quality Reporting Program. Definitions for changes in patient condition that warrant updated assessment, as well as the data elements to be completed for each applicable change in patient condition, are to be provided in sub-regulatory guidance for the current standardized hospice instrument.
 
 (2) Administrative data, such as Medicare claims data, used for hospice quality measures to capture services throughout the hospice stay, are required and fulfill the HQRP requirements for § 418.306(b).
 
@@ -70,4 +68,4 @@ Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
 
 (2) A hospice must meet or exceed the data submission compliance threshold in paragraph (j)(1) of this section to avoid receiving a 4-percentage point reduction to its annual payment update for a given FY as described under § 412.306(b)(2) of this chapter.
 
-[79 FR 50510, Aug. 22, 2014, as amended at 85 FR 53680, Aug. 31, 2020; 86 FR 42606, Aug. 4, 2021; 88 FR 51199, Aug. 2, 2023]
+[79 FR 50510, Aug. 22, 2014, as amended at 85 FR 53680, Aug. 31, 2020; 86 FR 42606, Aug. 4, 2021; 88 FR 51199, Aug. 2, 2023; 89 FR 64272, Aug. 6, 2024]

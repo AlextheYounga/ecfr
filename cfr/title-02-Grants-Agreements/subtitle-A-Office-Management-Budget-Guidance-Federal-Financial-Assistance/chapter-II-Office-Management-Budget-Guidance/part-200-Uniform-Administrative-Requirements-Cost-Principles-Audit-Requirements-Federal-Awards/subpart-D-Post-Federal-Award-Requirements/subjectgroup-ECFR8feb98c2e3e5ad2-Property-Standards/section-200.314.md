@@ -1,0 +1,7 @@
+##### § 200.314 Supplies. #####
+
+See also § 200.453.
+
+(a) Title to supplies acquired under the Federal award will vest upon acquisition in the recipient or subrecipient. When there is a residual inventory of unused supplies exceeding $10,000 in aggregate value at the end of the period of performance, and the supplies are not needed for any other Federal award, the recipient or subrecipient may retain or sell the unused supplies. Unused supplies means supplies that are in new condition, not having been used or opened before. The aggregate value of unused supplies consists of all supply types, not just like-item supplies. The Federal agency or pass-through entity is entitled to compensation in an amount calculated by multiplying the percentage of the Federal agency's or pass-through entity's contribution towards the cost of the original purchase(s) by the current market value or proceeds from the sale. If the supplies are sold, the Federal agency or pass-through entity may permit the recipient or subrecipient to retain, from the Federal share, $1,000 of the proceeds to cover expenses associated with the selling and handling of the supplies.
+
+(b) Unless expressly authorized by Federal statute, the recipient or subrecipient must not use supplies acquired with the Federal award to provide services for a fee that is less than a private company would charge for similar services. This restriction is effective as long as the Federal Government retains an interest in the supplies or as authorized by Federal statute.

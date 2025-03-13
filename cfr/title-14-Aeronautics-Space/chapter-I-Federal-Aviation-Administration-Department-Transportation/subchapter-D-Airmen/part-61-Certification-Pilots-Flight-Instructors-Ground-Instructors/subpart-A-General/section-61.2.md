@@ -1,5 +1,7 @@
 ##### § 61.2 Exercise of Privilege. #####
 
+Link to an amendment published at 89 FR 80049, Oct. 1, 2024.
+
 (a) *Validity.* No person may:
 
 (1) Exercise privileges of a certificate, rating, endorsement, or authorization issued under this part if the certificate, rating or authorization is surrendered, suspended, revoked or expired.

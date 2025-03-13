@@ -1,10 +1,8 @@
 ##### § 2520.30 What capacity-building activities may AmeriCorps members perform? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66614, Aug. 16, 2024.
-
 Capacity-building activities that AmeriCorps members perform should enhance the mission, strategy, skills, and culture, as well as systems, infrastructure, and human resources of an organization that is meeting unmet community needs. Capacity-building activities help an organization gain greater independence and sustainability.
 
-(a) The AmeriCorps members you support under your grant may perform capacity-building activities that advance your program's goals and that are included in, or consistent with, your Corporation-approved grant application.
+(a) The AmeriCorps members you support under your grant may perform capacity-building activities that advance your program's goals and that are included in, or consistent with, your AmeriCorps-approved grant application.
 
 (b) Examples of capacity-building activities your members may perform include, but are not limited to, the following:
 

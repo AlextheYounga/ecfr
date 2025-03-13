@@ -1,0 +1,5 @@
+##### § 200.420 Considerations for selected items of cost. #####
+
+(a) This section provides principles to be applied in establishing the allowability of certain items involved in determining cost, in addition to other requirements of this subpart. These principles apply whether or not a particular cost item is properly treated as a direct or indirect cost.
+
+(b) The following sections are not intended to be a comprehensive list of potential items of cost encountered under Federal awards. Failure to mention a particular item of cost, including as an example in certain sections, is not intended to imply that it is either allowable or unallowable. When determining the allowability for an item of cost, each case should be based on the treatment provided for similar or related items of cost and based on the principles described in §§ 200.402 through 200.411. In case of a discrepancy between the provisions of a specific Federal award and the provisions below, the Federal award governs. Criteria outlined in § 200.403 must be applied in determining allowability.

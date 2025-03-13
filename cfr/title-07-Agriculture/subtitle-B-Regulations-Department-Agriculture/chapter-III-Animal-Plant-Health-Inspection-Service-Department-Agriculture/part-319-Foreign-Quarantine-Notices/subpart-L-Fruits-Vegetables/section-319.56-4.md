@@ -12,7 +12,7 @@
 
 (5) The fruits and vegetables are subject to any other measures deemed appropriate by the Administrator.
 
-(c) *Authorized fruits and vegetables*—(1) *Comprehensive list.* The name and origin of all fruits and vegetables authorized importation under this section, as well as the applicable requirements for their importation, may be found on the internet at *https://epermits.aphis.usda.gov/manual.*
+(c) *Authorized fruits and vegetables*—(1) *Comprehensive list.* The name and origin of all fruits and vegetables authorized importation under this section, as well as the applicable requirements for their importation, may be found on the internet at *https://acir.aphis.usda.gov/s/”*
 
 (2) *Fruits and vegetables authorized importation prior to October 15, 2018.* Fruits and vegetables that were authorized importation under this subpart either directly by permit or by specific regulation as of October 15, 2018 may continue to be imported into the United States under the same requirements that applied before October 15, 2018, except as provided in paragraph (c)(4) of this section.
 
@@ -28,4 +28,4 @@
 
 (ii) If the Administrator determines that any of the phytosanitary measures required for a fruit or vegetable that has been authorized importation under this subpart are no longer necessary to reasonably mitigate the pest risk posed by the fruit or vegetable, APHIS will make new pest risk documentation available for public comment, in accordance with paragraph (c)(3) of this section, prior to allowing importation of the fruit or vegetable subject to the phytosanitary measures specified in the notice.
 
-(Approved by the Office of Management and Budget under control number 0579-0049)[83 FR 46638, Sept. 14, 2018]
+(Approved by the Office of Management and Budget under control number 0579-0049)[83 FR 46638, Sept. 14, 2018, as amended at 89 FR 79734, Oct. 1, 2024]

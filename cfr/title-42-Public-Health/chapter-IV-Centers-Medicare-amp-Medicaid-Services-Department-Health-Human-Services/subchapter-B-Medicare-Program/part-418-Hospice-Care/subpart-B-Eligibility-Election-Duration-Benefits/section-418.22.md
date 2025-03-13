@@ -1,7 +1,5 @@
 ##### § 418.22 Certification of terminal illness. #####
 
-Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
-
 (a) *Timing of certification*—(1) *General rule.* The hospice must obtain written certification of terminal illness for each of the periods listed in § 418.21, even if a single election continues in effect for an unlimited number of periods, as provided in § 418.24(c).
 
 (2) *Basic requirement.* Except as provided in paragraph (a)(3) of this section, the hospice must obtain the written certification before it submits a claim for payment.
@@ -40,7 +38,7 @@ Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
 
 (c) *Sources of certification.* (1) For the initial 90-day period, the hospice must obtain written certification statements (and oral certification statements if required under paragraph (a)(3) of this section) from—
 
-(i) The medical director of the hospice or the physician member of the hospice interdisciplinary group; and
+(i) The medical director of the hospice, the physician designee (as defined in § 418.3), or the physician member of the hospice interdisciplinary group; and
 
 (ii) The individual's attending physician, if the individual has an attending physician. The attending physician must meet the definition of physician specified in § 410.20 of this subchapter.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
 
 (2) File written certifications in the medical record.
 
-[55 FR 50834, Dec. 11, 1990, as amended at 57 FR 36017, Aug. 12, 1992; 70 FR 45144, Aug. 4, 2005; 70 FR 70547, Nov. 22, 2005; 74 FR 39413, Aug. 6, 2009; 75 FR 70463, Nov. 17, 2010; 76 FR 47331, Aug. 4, 2011; 85 FR 19289, Apr. 6, 2020; 88 FR 51199, Aug. 2, 2023]
+[55 FR 50834, Dec. 11, 1990, as amended at 57 FR 36017, Aug. 12, 1992; 70 FR 45144, Aug. 4, 2005; 70 FR 70547, Nov. 22, 2005; 74 FR 39413, Aug. 6, 2009; 75 FR 70463, Nov. 17, 2010; 76 FR 47331, Aug. 4, 2011; 85 FR 19289, Apr. 6, 2020; 88 FR 51199, Aug. 2, 2023; 89 FR 64272, Aug. 6, 2024]

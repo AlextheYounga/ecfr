@@ -1,8 +1,6 @@
 ##### § 2522.450 What types of programs or program models may receive special consideration in the selection process? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
-
-Following the scoring of proposals under § 2522.440 of this part, the Corporation will seek to ensure that its portfolio of approved programs includes a meaningful representation of proposals that address one or more of the following priorities:
+Following the scoring of proposals under § 2522.440 of this part, AmeriCorps will seek to ensure that its portfolio of approved programs includes a meaningful representation of proposals that address one or more of the following priorities:
 
 (a) *Program models:* (1) Programs operated by community organizations, including faith-based organizations, or programs that support the efforts of community organizations, including faith-based organizations, to solve local problems;
 
@@ -40,6 +38,6 @@ Following the scoring of proposals under § 2522.440 of this part, the Corporati
 
 (7) A severely economically distressed community, as demonstrated by Federal and State data.
 
-(d) *Other programs:* Programs that meet any additional priorities as the Corporation determines and disseminates in advance of the selection process.
+(d) *Other programs:* Programs that meet any additional priorities as AmeriCorps determines and disseminates in advance of the selection process.
 
 [70 FR 39600, July 8, 2005]

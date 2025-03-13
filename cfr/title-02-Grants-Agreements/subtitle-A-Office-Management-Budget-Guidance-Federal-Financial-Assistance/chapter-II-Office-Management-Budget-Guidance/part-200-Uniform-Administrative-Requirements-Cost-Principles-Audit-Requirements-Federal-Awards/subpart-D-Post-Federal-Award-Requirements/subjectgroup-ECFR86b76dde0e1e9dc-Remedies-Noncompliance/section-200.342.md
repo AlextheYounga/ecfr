@@ -1,0 +1,3 @@
+##### § 200.342 Opportunities to object, hearings, and appeals. #####
+
+The Federal agency must maintain written procedures for processing objections, hearings, and appeals. Upon initiating a remedy for noncompliance (for example, disallowed costs, a corrective action plan, or termination), the Federal agency must provide the recipient with an opportunity to object and provide information challenging the action. The Federal agency or pass-through entity must comply with any requirements for hearings, appeals, or other administrative proceedings to which the recipient or subrecipient is entitled under any statute or regulation applicable to the action involved.

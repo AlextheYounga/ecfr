@@ -1,7 +1,5 @@
 ##### § 265.9 What information must the State file annually? #####
 
-Link to an amendment published at 89 FR 53877, June 28, 2024.
-
 (a) Each State must file an annual report containing information on the TANF program and the State's MOE program(s) for that year. The report may be filed as:
 
 (1) An addendum to the fourth quarter TANF Data Report; or
@@ -90,9 +88,7 @@ Link to an amendment published at 89 FR 53877, June 28, 2024.
 
 (8) The FY 1995 State expenditures for each program/activity not authorized and allowable as of August 21, 1996, under section 403 of prior law (see § 263.5(b) of this chapter); and
 
-(9) A certification that those families for which the State is claiming MOE expenditures met the State's criteria for “eligible families.”7
-
-7 See appendix I for the reporting form for the Annual Report on State Maintenance-of-Effort Programs.
+(9) A certification that those families for which the State is claiming MOE expenditures met the State's criteria for “eligible families.
 
 (d) If the State has submitted the information required in paragraphs (b) and (c) of this section in the State Plan, it may meet the annual reporting requirements by reference in lieu of re-submission. If the information in the annual report has not changed since the previous annual report, the State may reference this information in lieu of re-submission.
 
@@ -102,4 +98,8 @@ Link to an amendment published at 89 FR 53877, June 28, 2024.
 
 (2) Paragraphs (c)(1), (c)(2), (c)(3), (c)(6), (c)(7), and (c)(8) of this section.
 
-[64 FR 17900, Apr. 12, 1999, as amended at 81 FR 2105, Jan. 15, 2016]
+(f) Each State must submit the percentage of individuals who have not attained 24 years of age, are attending high school or enrolled in an equivalency program, and are work-eligible individuals or were work-eligible individuals as of the time of exit from the program, who obtain a high school degree or its recognized equivalent while receiving assistance under the State program funded under this part or within one year after the individuals exit from the program. The Secondary School Diploma or its Recognized Equivalent Attainment Rate report must include methodology and documentation of data sources.
+
+(g) On a voluntary basis, a State may also submit calculated work outcomes measures that follow the definitions of the Work Outcomes of TANF Exiters (as defined in § 265.3(g)) based on alternative data sources. The report must include documentation of data sources. In addition to the Work Outcomes of TANF Exiters Report, this Supplemental Work Outcomes Report is mandatory for any State that is unable to submit quarterly wage data to the ACF-designated wage match source.
+
+[64 FR 17900, Apr. 12, 1999, as amended at 81 FR 2105, Jan. 15, 2016; 89 FR 53877, June 28, 2024]

@@ -1,49 +1,43 @@
-##### § 415.1 Competition in the awarding of discretionary grants and cooperative agreements. #####
+##### § 415.1 Administrative standards for discretionary grants and cooperative agreements. #####
 
-(a) *Standards for competition.* Except as provided in paragraph (d) of this section, awarding agencies shall enter into discretionary grants and cooperative agreements only after competition. An awarding agency's competitive award process shall adhere to the following standards:
+(a) All USDA awarding agencies must demonstrate a commitment to encouraging free and open competition in all discretionary grant and cooperative agreement funding opportunities. USDA awarding agencies must ensure that all eligible applications for discretionary grants and cooperative agreements receive fair and impartial review, be evaluated only on criteria as stated in the respective notice of funding opportunity, and that no applicant receive an unfair advantage.
 
-(1) Potential applicants must be invited to submit proposals through publications such as the Federal Register, OMB-designated governmentwide website as described in 2 CFR 200.204, professional trade journals, agency or program handbooks, the Assistance Listings, or any other appropriate means of solicitation. In so doing, awarding agencies should consider the broadest dissemination of project solicitations in order to reach the highest number of potential applicants.
+(b) USDA awarding agencies must enter into discretionary grants and cooperative agreements only after competition. Exceptions to this requirement may only be made by USDA awarding agencies where expressly provided by statute, when directed by Congress, where the requirement is determined to be inconsistent with international assistance objectives of USDA, or as specified in paragraph (d) of this section or as approved by the Secretary and OMB under paragraph (e). A USDA awarding agency's competitive award process must adhere to the following standards:
 
-(2) Proposals are to be evaluated objectively by independent reviewers in accordance with written criteria set forth by the awarding agency. Reviewers should make written comments, as appropriate, on each application. Independent reviewers may be from the private sector, another agency, or within the awarding agency, as long as they do not include anyone who has approval authority for the applications being reviewed or anyone who might appear to have a conflict of interest in the role of reviewer of applications. A conflict of interest might arise when the reviewer or the reviewer's immediate family members have been associated with the applicant or applicant organization within the past two years as an owner, partner, officer, director, employee, or consultant; has any financial interest in the applicant or applicant organization; or is negotiating for, or has any arrangement, concerning prospective employment.
+(1) All notices of funding opportunities for discretionary grants and cooperative agreements must be published on *Grants.gov* as described in 2 CFR 200.204(a). When notices of funding opportunities contain an information collection requirement subject to the Paperwork Reduction Act (44 U.S.C. 3501 *et seq.*) or its implementing regulations at 5 CFR part 1320, USDA awarding agencies must seek and obtain OMB approval before collecting information from the public.
 
-(3) An unsolicited application, which is not unique and innovative, shall be competed under the project solicitation it comes closest to fitting. Awarding agency officials will determine the solicitation under which the application is to be evaluated. When the awarding agency official decides that the unsolicited application does not fall under a recent, current, or planned solicitation, a noncompetitive award may be made, if appropriate to do so under the criteria of this section. Otherwise, the application should be returned to the applicant.
+(i) Supplementary to the requirements at paragraph (b)(1), USDA awarding agencies may make use of other methods of disseminating public information concerning notices of funding opportunities. In doing so, USDA awarding agencies must:
 
-(b) *Project solicitations.* A project solicitation by the awarding agency shall include or reference the following, as appropriate:
+(A) Pursue the broadest dissemination of information concerning notices of funding opportunities in order to reach the greatest number and diversity of potential applicants.
 
-(1) A description of the eligible activities which the awarding agency proposes to support and the program priorities;
+(B) Avoid any appearance that an unfair advantage has been provided to any entity, inclusive of the memberships or networks of such entities, which may arise from the use of any dissemination method.
 
-(2) Eligible applicants;
+(C) Provide only public information concerning notices of funding opportunities.
 
-(3) The dates and amounts of funds expected to be available for awards;
+(D) Seek the greatest cost savings to the Government, whenever possible.
 
-(4) Evaluation criteria and weights, if appropriate, assigned to each;
+(ii) Nothing in this part will be interpreted as to limit, impede, or otherwise prevent the attendance of any USDA awarding agency's staff, acting in their official capacity, at a conference, event, or similar activity, for the purposes of disseminating public information concerning notices of funding opportunities.
 
-(5) Methods for evaluating and ranking applications;
+(2) Applications must be evaluated objectively by independent reviewers in accordance with evaluation criteria set forth in writing by the USDA awarding agency. USDA awarding agencies must establish written procedures to gain reasonable assurance that individuals selected to serve as independent reviewers are qualified to conduct any assigned review activity and that applications are scored by independent reviewers solely on the basis of criteria announced in the respective published notice of funding opportunity. Independent reviewers must make written comments or make a written determination of scoring, as appropriate, concerning each application to which they are assigned.
 
-(6) Name and address where proposals should be mailed or emailed and submission deadline(s);
+(i) Independent reviewers may be from the private or public sector, including another Federal agency, or within the awarding agency. Independent reviewers must not be any individual who holds or has been delegated approval or award authority for the applications being reviewed or components thereof.
 
-(7) Any required forms and how to obtain them;
+(ii) Anyone who has or might appear to have a conflict of interest with any element of an application considered for selection or funding will be ineligible to serve as an independent reviewer. A conflict of interest might arise when the prospective independent reviewer, the reviewer's immediate family members, or the reviewer's partner, have been associated with the applicant or applicant organization within the past two years as an owner, partner, officer, director, employee, or consultant; has any financial or other interest in or tangible personal benefit from the applicant or applicant organizations; or is negotiating for, or has any arrangement, concerning prospective employment.
 
-(8) Applicable cost principles and administrative requirements;
+(3) Notwithstanding this paragraph (b), unless directed by Congress or authorized by statute, USDA awarding agencies may, but are not required to, review, evaluate for eligibility, or otherwise consider for funding any unsolicited application, proposal materials, ideas, pitches, or any other request for Federal funds provided by any entity for the purpose of obtaining Federal financial assistance.
 
-(9) Type of funding instrument intended to be used (grant or cooperative agreement); and
+(c) The final decision to award is at the discretion of the awarding official in each USDA awarding agency. The awarding official must consider the ranking, comments, and recommendations from the respective independent reviewers, and any other pertinent information before deciding which applications to approve and their order of approval. Any appeals by applicants regarding the awarding decision must be handled by the awarding agency using existing, written agency appeal procedures.
 
-(10) The Assistance Listings number and title.
+(d) The awarding official may make a determination that competition is not deemed appropriate for a particular transaction. Such determination must be made in writing on a case-by-case basis and be limited to transactions where it can be adequately justified that a noncompetitive award is in the best interest of the Government and necessary to the accomplishment of the goals of USDA. Reasons for considering noncompetitive awards are:
 
-(c) *Approval of applications.* The final decision to award is at the discretion of the awarding/approving official in each agency. The awarding/approving official shall consider the ranking, comments, and recommendations from the independent review group, and any other pertinent information before deciding which applications to approve and their order of approval. Any appeals by applicants regarding the award decision shall be handled by the awarding agency using existing agency appeal procedures or good administrative practice and sound business judgment.
+(1) Nonmonetary awards of property or services.
 
-(d) *Exceptions.* The awarding/approving official may make a determination in writing that competition is not deemed appropriate for a particular transaction. Such determination shall be limited to transactions where it can be adequately justified that a noncompetitive award is in the best interest of the Government and necessary to the accomplishment of the goals of the program. Reasons for considering noncompetitive awards may include, but are not necessarily limited to, the following:
+(2) Awards of less than $100,000.
 
-(1) Nonmonetary awards of property or services;
+(3) Awards to fund continuing work already started under a previous award for which competition for continued support would have a significant adverse effect on continuity or completion of the activity.
 
-(2) Awards of less than $75,000;
+(4) Time constraints associated with a public health, safety, welfare, or national security requirement preclude competition.
 
-(3) Awards to fund continuing work already started under a previous award;
+(e) USDA awarding agencies may establish alternate exceptions from competition for discretionary awards. All such alternative exceptions will be subject to review and approval both by the Secretary and by OMB, pursuant to pursuant to 2 CFR 200.102, and 2 CFR 200.107 when applicable, and publicly set forth in writing by the USDA awarding agency.
 
-(4) Awards which cannot be delayed due to an emergency or a substantial danger to health or safety;
-
-(5) Awards when it is impracticable to secure competition; or
-
-(6) Awards to fund unique and innovative unsolicited applications.
-
-[79 FR 75982, Dec. 19, 2014, as amended at 85 FR 72912, Nov. 16, 2020]
+(f) All actions taken USDA awarding agencies for the purpose of accomplishing any element of Federal financial assistance programs, awards, and any related or subsequent transactions, must comply with the direction set forth in Office of Federal Procurement Policy (OFPP) Policy Letter 11-01 and successor policy regarding the performance of inherently governmental and critical functions.
