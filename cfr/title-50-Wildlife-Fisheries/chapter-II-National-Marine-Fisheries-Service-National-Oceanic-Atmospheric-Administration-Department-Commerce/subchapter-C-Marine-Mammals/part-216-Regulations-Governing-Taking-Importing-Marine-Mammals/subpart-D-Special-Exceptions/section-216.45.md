@@ -1,5 +1,7 @@
 ##### § 216.45 General Authorization for Level B harassment for scientific research. #####
 
+Link to an amendment published at 89 FR 100402, Dec. 12, 2024.
+
 (a) *General Authorization.* (1) Persons are authorized under section 104(c)(3)(C) of the MMPA to take marine mammals in the wild by Level B harassment, as defined in § 216.3, for purposes of bona fide scientific research *Provided,* That:
 
 (i) They submit a letter of intent in accordance with the requirements of paragraph (b) of this section, receive confirmation that the General Authorization applies in accordance with paragraph (c) of this section, and comply with the terms and conditions of paragraph (d) of this section; or

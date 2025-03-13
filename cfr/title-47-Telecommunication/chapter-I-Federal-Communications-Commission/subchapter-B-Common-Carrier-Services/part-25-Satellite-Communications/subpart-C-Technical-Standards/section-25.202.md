@@ -14,11 +14,11 @@ Link to an amendment published at 89 FR 96602, Dec. 5, 2024.
 
 (3) The following frequencies are available for use by the non-voice, non-geostationary mobile-satellite service:
 
-137-138 MHz: Space-to-Earth148-150.05 MHz: Earth-to-space399.9-400.05 MHz: Earth-to-space400.15-401 MHz: Space-to-Earth
+137-138 MHz: Space-to-Earth 148-150.05 MHz: Earth-to-space 399.9-400.05 MHz: Earth-to-space 400.15-401 MHz: Space-to-Earth
 
 (4)(i) The following frequencies are available for use by the 1.6/2.4 GHz Mobile-Satellite Service:
 
-1610-1626.5 MHz: User-to-Satellite Link1613.8-1626.5 MHz: Satellite-to-User Link (secondary)2483.5-2500 MHz: Satellite-to-User Link
+1610-1626.5 MHz: User-to-Satellite Link 1613.8-1626.5 MHz: Satellite-to-User Link (secondary) 2483.5-2500 MHz: Satellite-to-User Link
 
 (ii) The following frequencies are available for use by the 2 GHz Mobile-Satellite Service: 2000-2020 MHz: User-to-Satellite Link; 2180-2200 MHz: Satellite-to-User Link.
 

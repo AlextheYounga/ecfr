@@ -4,12 +4,6 @@
 
 (1) For other than the purpose for which the certificate was issued; or
 
-(2) Carrying persons or property for compensation or hire.
-
-(b) No person may operate an aircraft that has an experimental certificate outside of an area assigned by the Administrator until it is shown that—
-
-(1) The aircraft is controllable throughout its normal range of speeds and throughout all the maneuvers to be executed; and
-
 (2) Carrying persons or property for compensation or hire in operations that:
 
 (i) Require an air carrier or commercial operator certificate issued under part 119 of this chapter;
@@ -19,6 +13,12 @@
 (iii) Require management specifications for a fractional ownership program issued in accordance with subpart K of this part; or
 
 (iv) Are conducted under part 129, 133, or 137 of this chapter.
+
+(b) No person may operate an aircraft that has an experimental certificate outside of an area assigned by the Administrator until it is shown that—
+
+(1) The aircraft is controllable throughout its normal range of speeds and throughout all the maneuvers to be executed; and
+
+(2) The aircraft has no hazardous operating characteristics or design features.
 
 (c) Unless otherwise authorized by the Administrator in special operating limitations, no person may operate an aircraft that has an experimental certificate over a densely populated area or in a congested airway. The Administrator may issue special operating limitations for particular aircraft to permit takeoffs and landings to be conducted over a densely populated area or in a congested airway, in accordance with terms and conditions specified in the authorization in the interest of safety in air commerce.
 

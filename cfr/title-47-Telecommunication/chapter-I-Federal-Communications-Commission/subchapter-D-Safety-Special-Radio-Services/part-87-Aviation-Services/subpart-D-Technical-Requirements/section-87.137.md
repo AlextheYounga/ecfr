@@ -70,4 +70,4 @@
 
 (c) A license to use radiotelephony includes the use of tone signals or signaling devices whose sole function is to establish or maintain voice communications.
 
-[53 FR 28940, Aug. 1, 1988]Editorial Note:For Federal Register citations affecting § 87.137, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[53 FR 28940, Aug. 1, 1988] Editorial Note:For Federal Register citations affecting § 87.137, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

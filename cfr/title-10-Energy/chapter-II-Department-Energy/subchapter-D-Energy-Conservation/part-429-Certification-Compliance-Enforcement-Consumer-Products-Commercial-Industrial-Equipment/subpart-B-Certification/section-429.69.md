@@ -6,7 +6,7 @@
 
 (ii) If only one unit is tested, at each duty point characterized by a flow and speed value, any represented value of fan electrical power (“FEP”), fan shaft input power, or other measure of energy consumption of a basic model for which consumers would favor lower values shall be greater than or equal to the tested value. Represented values other than FEP must be rounded to the nearest hundredth. FEP must be rounded to three significant figures.
 
-(iii) If only one unit is tested, at each duty point characterized by a flow and speed value, any represented value of fan energy index (“FEI”), or other measure of energy consumption of a basic model for which consumers would favor higher values shall be less than or equal to the tested value. .
+(iii) If only one unit is tested, at each duty point characterized by a flow and speed value, any represented value of fan energy index (“FEI”), or other measure of energy consumption of a basic model for which consumers would favor higher values shall be less than or equal to the tested value. Represented values must be rounded to the nearest hundredth.
 
 (iv) If more than one unit is tested, at each duty point characterized by a flow and speed value, any represented value of fan electrical input power (“FEP”), fan shaft input power, or other measure of energy consumption of a basic model for which consumers would favor lower values shall be greater than or equal to the higher of:
 

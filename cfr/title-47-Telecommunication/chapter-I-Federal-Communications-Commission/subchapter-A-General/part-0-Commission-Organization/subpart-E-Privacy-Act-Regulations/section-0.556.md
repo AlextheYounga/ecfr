@@ -30,4 +30,4 @@
 
 (d) In reviewing a record in response to a request to amend, the system manager shall assess the accuracy, relevance, timeliness, or completeness of the record in light of each data element placed into controversy and the use of the record in making decisions that could possibly affect the individual. Moreover, the system manager shall ajudge the merits of any request to delete information based on whether or not the information in controversy is both relevant and necessary to accomplish a statutory purpose required of the Commission by law or executive order of the President.
 
-(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d))[40 FR 44512, Sept. 26, 1975, as amended at 45 FR 39850, June 12, 1980; 49 FR 13369, Apr. 4, 1984; 65 FR 58466, Sept. 29, 2000; 85 FR 64405, Oct. 13, 2020]
+(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d)) [40 FR 44512, Sept. 26, 1975, as amended at 45 FR 39850, June 12, 1980; 49 FR 13369, Apr. 4, 1984; 65 FR 58466, Sept. 29, 2000; 85 FR 64405, Oct. 13, 2020]

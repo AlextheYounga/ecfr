@@ -2,7 +2,7 @@
 
 (a)-(b) [Reserved]
 
-(c) *Requirements applicable to transmitters are as follows:*(1) [Reserved]
+(c) *Requirements applicable to transmitters are as follows:* (1) [Reserved]
 
 (2) The transmitters shall be equipped with suitable indicating instruments for the determination of operating power and with other instruments necessary for proper adjustment, operation, and maintenance of the equipment.
 

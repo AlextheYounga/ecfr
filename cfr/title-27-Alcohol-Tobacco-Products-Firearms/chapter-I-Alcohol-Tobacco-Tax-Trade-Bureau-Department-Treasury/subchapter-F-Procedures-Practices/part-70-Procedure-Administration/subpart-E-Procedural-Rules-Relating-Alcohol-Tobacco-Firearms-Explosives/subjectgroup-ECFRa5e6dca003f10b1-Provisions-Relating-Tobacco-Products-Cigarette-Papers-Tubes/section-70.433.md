@@ -8,4 +8,4 @@
 
 (d) *General.* Detailed information about the payment of taxes on tobacco products, and cigarette papers and tubes, including the forms to be used, records to be kept, and reports and inventories to be filed, is contained in the respective regulations referred to in § 70.431.
 
-(Approved by the Office of Management and Budget under control number 1512-0472)[T.D. ATF-251, 52 FR 19325, May 22, 1987, as amended by T.D. ATF-271, 53 FR 17549, May 17, 1988. Redesignated and amended by T.D. ATF-301, 55 FR 47606, 47654, Nov. 14, 1990; T.D. ATF-450, 66 FR 29029, May 29, 2001]Editorial Note:By T.D. TTB-196, 89 FR 87952, Nov. 6, 2024, § 70.433 was amended by removing the authority citation at the end of the section; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[T.D. ATF-251, 52 FR 19325, May 22, 1987, as amended by T.D. ATF-271, 53 FR 17549, May 17, 1988. Redesignated and amended by T.D. ATF-301, 55 FR 47606, 47654, Nov. 14, 1990; T.D. ATF-450, 66 FR 29029, May 29, 2001; T.D. TTB-196, 89 FR 87952, Nov. 6, 2024]

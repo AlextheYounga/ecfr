@@ -10,4 +10,4 @@
 
 (3) The appropriate rule or order and the sanction, relief or denial thereof.
 
-(Sec. 8(b), 60 Stat. 2422; 5 U.S.C. 1007(b))[28 FR 12425, Nov. 22, 1963, as amended at 41 FR 14873, Apr. 8, 1976; 76 FR 70908, Nov. 16, 2011]
+(Sec. 8(b), 60 Stat. 2422; 5 U.S.C. 1007(b)) [28 FR 12425, Nov. 22, 1963, as amended at 41 FR 14873, Apr. 8, 1976; 76 FR 70908, Nov. 16, 2011]

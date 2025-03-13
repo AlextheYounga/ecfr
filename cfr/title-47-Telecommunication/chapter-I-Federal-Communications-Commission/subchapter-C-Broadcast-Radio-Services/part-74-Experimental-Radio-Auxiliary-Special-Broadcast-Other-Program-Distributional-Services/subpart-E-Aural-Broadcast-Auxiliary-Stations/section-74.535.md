@@ -14,7 +14,7 @@
 
 (i) For operating frequencies below 15 GHz, in any 4 kHz reference bandwidth (BREF), the center frequency of which is removed from the assigned frequency by more than 50 percent up to and including 250 percent of the authorized bandwidth: As specified by the following equation but in no event less than 50 decibels:
 
-A = 35 + 0.8(G − 50) + 10 Log10 B.(Attenuation greater than 80 decibels is not required.)Where:A = Attenuation (in decibels) below the mean output power level.G = Percent removed from the carrier frequency.B = Authorized bandwidth in megahertz.
+A = 35 + 0.8(G − 50) + 10 Log10 B.(Attenuation greater than 80 decibels is not required.) Where:A = Attenuation (in decibels) below the mean output power level.G = Percent removed from the carrier frequency.B = Authorized bandwidth in megahertz.
 
 (ii) For operating frequencies above 15 GHz, in any 1 MHz reference bandwidth (BREF), the center frequency of which is removed from the assigned frequency by more than 50 percent up to and including 250 percent of the authorized bandwidth: As specified by the following equation but in no event less than 11 decibels:
 

@@ -1,0 +1,101 @@
+##### § 1.48-13 Rules relating to the increased credit amount for prevailing wage and apprenticeship. #####
+
+(a) *In general.* If a qualified energy project satisfies the requirements in paragraph (b) of this section, the amount of the credit determined under section 48(a) of the Internal Revenue Code (Code), after the application of section 48(a)(1) through (8), and (15), is equal to the credit determined under section 48(a) (section 48 credit) multiplied by five.
+
+(b) *Requirements.* A qualified energy project satisfies the requirements of this paragraph (b) if it is one of the following—
+
+(1) A project with a maximum net output of less than one megawatt (MW) of electrical (as measured in alternating current) or thermal energy determined based on the nameplate capacity as provided in paragraph (e) of this section (One Megawatt Exception);
+
+(2) A project the construction of which began prior to January 29, 2023; or
+
+(3) A project that meets the prevailing wage requirements of section 48(a)(10)(A), § 1.45-7(a)(2) and (3) and (b) through (d), and paragraph (c) of this section, the apprenticeship requirements of section 45(b)(8) and § 1.45-8, and the recordkeeping and reporting requirements of § 1.45-12.
+
+(c) *Special rule applicable to general prevailing wage requirements*—(1) *In general.* In addition to satisfying the prevailing wage requirements under § 1.45-7(a)(2) and (3) and (b) through (d), a taxpayer must ensure that any laborers and mechanics employed (within the meaning of § 1.45-7) by the taxpayer or any contractor or subcontractor in the construction of such energy project, and for the five-year period beginning on the date such project is placed in service, the alteration or repair of such project, are paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with 40 U.S.C. chapter 31, subchapter IV. Subject to section 48(a)(10)(C) and this paragraph (c), for purposes of determining the increased credit amount under section 48(a)(9)(B)(iii), the taxpayer is deemed to satisfy the prevailing wage requirements of section 48(a)(10)(A)(ii) at the time such project is placed in service.
+
+(2) *Transition waiver of penalty for prevailing wage requirements.* For purposes of the transition waiver described in § 1.45-7(c)(6)(iii), the penalty payment required by § 1.45-7(c)(1)(ii) to cure a failure to satisfy the Prevailing Wage Requirements in paragraph (b)(3) of this section is waived with respect to a laborer or mechanic who performed work in the construction, alteration, or repair of an energy project on or after January 29, 2023, and prior to December 12, 2024, if the taxpayer relied upon Notice 2022-61, 2022-52 I.R.B. 560, or the Proposed Regulations (REG-132569-17) (88 FR 82188), corrected in 89 FR 13293 (Feb. 22, 2024), to determine when the activities of any laborer or mechanic became subject to the prevailing wage requirements, and the taxpayer makes the correction payments required by § 1.45-7(c)(1)(i) with respect to such laborer and mechanics within 180 days of December 12, 2024.
+
+(3) *Exception.* For purposes of satisfying the prevailing wage requirements of paragraph (b)(3) of this section, § 1.45-7(a)(1) does not apply.
+
+(4) *Recapture*—(i) *In general.* In the case of an energy project that receives the increased credit amount under paragraph (a) of this section by reason of satisfying the requirements of paragraph (b)(3) of this section, the increased credit amount is subject to recapture for any project that does not satisfy the prevailing wage requirements in § 1.45-7(b) through (d) and paragraph (c)(1) of this section for any period with respect to an alteration or repair of such project during the five-year period beginning on the date such project is originally placed in service (five-year recapture period) (but that does not cease to be investment credit property within the meaning of section 50(a) of the Code).
+
+(ii) *Recapture event*—(A) *In general.* Any failure to satisfy the prevailing wage requirements in § 1.45-7(b) through (d) and paragraph (c)(1) of this section for any period with respect to the alteration or repair of any project during the five-year recapture period is a recapture event. Any failure to satisfy the prevailing wage requirements in § 1.45-7(b) through (d) and paragraph (c)(1) of this section with respect to the alteration or repair of any project during the five-year recapture period described in paragraph (c)(6) of this section remains subject to the correction and penalty provisions in § 1.45-7(c), including the waiver provisions in § 1.45-7(c)(6). Subject to § 1.45-7(c)(5) and (6), if the correction and penalty payments described in § 1.45-7(c) are not made by the taxpayer on or before the date that is 180 days after the date of a final determination by the IRS (as defined in § 1.45-7(c)(4)(ii)), the cure provision described in § 1.45-7(c) does not apply and the increased credit amount is subject to recapture.
+
+(B) *Yearly determination.* A determination of whether a recapture event has occurred under paragraph (c)(3)(ii) of this section must be made for each taxable year (or portion thereof) occurring within the five-year recapture period, beginning with the taxable year ending after the date the energy project is placed in service. Thus, for each taxable year beginning or ending within the five-year recapture period, the taxpayer must determine whether the prevailing wage requirements of section 48(a)(10)(A), § 1.45-7(b) through (d), and paragraph (c)(1) of this section are satisfied for the recapture year(s) occurring during each taxable year. If no alteration or repair work occurs during the five-year recapture period, the taxpayer is deemed to satisfy the Prevailing Wage Requirements described in paragraph (b)(3) of this section with respect to such taxable year.
+
+(C) *Carrybacks and carryforward adjusted.* In the case of any recapture event described in paragraph (c)(3)(ii)(A) of this section, the carrybacks and carryforwards under section 39 of the Code must be adjusted by reason of such recapture event.
+
+(iii) *Correction and penalty payments not required if taxpayer is subject to recapture under section 48(a)(10)(C).* If the IRS determines that a taxpayer that claimed the increased credit amount under section 48(a)(9)(B)(iii) or transferred a specified credit portion under section 6418 of the Code that includes the increased credit amount under section 48(a)(9)(B)(iii) failed to satisfy the prevailing wage requirements in § 1.45-7(b) through (d) and paragraph (c)(1) of this section for any period with respect to the alteration or repair of any project during the five-year recapture period and the taxpayer does not make the correction and penalty payments provided in § 1.45-7(c), then no penalty is assessed under § 1.45-7, and the increased credit amount is subject to recapture. Taxpayers whose increased credit amount is subject to recapture under this section may retain the amount of the section 48(a) credit (base credit) determined under section 48(a) of this section provided all requirements were met in the year of determination.
+
+(5) *Recapture amount*—(i) *In general.* If a recapture event has occurred as described in paragraph (c)(3)(ii) of this section, the tax under chapter 1 of the Code for the taxable year in which the recapture event occurs is increased by the applicable recapture percentage multiplied by the increased credit amount allowed to the taxpayer pursuant to paragraphs (a) and (b)(3) of this section.
+
+(ii) *Applicable recapture percentage.* If the recapture event occurs:
+
+(A) Within one full year after the property is placed in service, the recapture percentage is 100;
+
+(B) Within one full year after the close of the period described in paragraph (c)(4)(ii)(A) of this section, the recapture percentage is 80;
+
+(C) Within one full year after the close of the period described in paragraph (c)(4)(ii)(B) of this section, the recapture percentage is 60;
+
+(D) Within one full year after the close of the period described in paragraph (c)(4)(ii)(C) of this section, the recapture percentage is 40; or
+
+(E) Within one full year after the close of the period described in paragraph (c)(4)(ii)(D) of this section, the recapture percentage is 20.
+
+(6) *Recapture period.* The five-year recapture period begins on the date the project is placed in service and ends on the date that is five full years after the placed-in-service date. Each 365-day period (366-day period in case of a leap year) within the five-year recapture period is a separate recapture year for recapture purposes.
+
+(7) *Increase in tax for recapture.* The increase in tax under chapter 1 of the Code for the recapture of an increased credit amount claimed under paragraph (a) of this section occurs in the year of the recapture event.
+
+(8) *Annual prevailing wage compliance report.* In addition to the general reporting requirements in § 1.45-12, a taxpayer that has claimed an increased credit amount under paragraph (a) of this section or transferred a specified credit portion under section 6418 that includes an increased credit amount under paragraph (a) of this section is required to provide to the IRS, information on the payment of prevailing wages with respect to any alteration or repair of the project during the recapture period at the time and in the form and manner prescribed in IRS forms or instructions or in publications or guidance published in the Internal Revenue Bulletin. *See* § 601.601 of this chapter.
+
+(9) *Transferred specified credit portions.* In the case of a transferred specified credit portion under section 6418, to which recapture of an increased credit amount under this paragraph (c) applies, the eligible taxpayer is required to notify the transferee taxpayer of the recapture event in accordance with the provisions of § 1.6418-5(f)(2) and the transferee taxpayer is responsible for any amount of increase in tax under section 48(a)(10)(C) and this paragraph (c) in accordance with the provisions of § 1.6418-5(f)(3).
+
+(d) *Energy project defined*—(1) *In general.* For purposes of the increased credit amount provided by section 48(a)(9) and paragraphs (b) and (c) of this section, the domestic content bonus credit amount provided by section 48(a)(12), and the increase in credit rate for energy communities provided in section 48(a)(14), the term *energy project* means one or more energy properties (multiple energy properties) that are operated as part of a single energy project. Multiple energy properties will be treated as one energy project if they are owned by a taxpayer (subject to the related taxpayer rule provided in paragraph (d)(2) of this section) and any four or more of the following factors are present:
+
+(i) The energy properties are constructed on contiguous pieces of land;
+
+(ii) The energy properties are described in a common power purchase, thermal energy, or other off-take agreement or agreements;
+
+(iii) The energy properties have a common intertie;
+
+(iv) The energy properties share a common substation, or thermal energy off-take point;
+
+(v) The energy properties are described in one or more common environmental or other regulatory permits;
+
+(vi) The energy properties are constructed pursuant to a single master construction contract; or
+
+(vii) The construction of the energy properties is financed pursuant to the same loan agreement.
+
+(2) *Time of determination*—(i) *Energy project.* A taxpayer may make the determination that multiple energy properties are an energy project either—
+
+(A) At any point during the construction of the multiple energy properties, or
+
+(B) During the taxable year in which the last such energy property is placed in service.
+
+(ii) *Placed in Service.* An energy project (as defined in § 1.48-13(d)) is considered placed in service *on the date* the last of the energy properties within the energy project is placed in service.
+
+(3) *Related taxpayers*—(i) *Definition.* For purposes of this section, the term *related taxpayers* means members of a group of trades or businesses that are under common control (as defined in § 1.52-1(b)).
+
+(ii) *Related taxpayer rule.* For purposes of this section, related taxpayers are treated as one taxpayer in determining whether multiple energy properties are treated as an energy project with respect to which a section 48 credit may be determined.
+
+(4) *Separate reporting for energy properties within an energy project*—(i) *In general.* While multiple energy properties may be treated as a single energy project for specified purposes, this information must be separately reported for each energy property within an energy project on Form 3468, *Investment Credit,* or any successor form(s), and such form must be filed with the taxpayer's timely filed (including extensions) Federal income tax return for the taxable year in which the energy property is placed in service.
+
+(e) *Nameplate capacity for purposes of the One Megawatt Exception*—(1) *In general.* For purposes of paragraph (b)(1) of this section, whether an energy project has a maximum net output of less than 1 megawatt (MW) of electrical (as measured in alternating current) or thermal energy is determined based on the nameplate capacity. If an energy project is comprised of more than one energy property, the energy project's maximum net output is calculated as the sum of the nameplate capacity of each energy property. If applicable, taxpayers should use the International Standard Organization (ISO) conditions to measure the maximum electrical generating output or usable energy capacity of an energy project. Paragraphs (e)(2) through (7) of this section provide rules for measuring output for different types of energy properties to determine whether the One Megawatt Exception (as provided in paragraph (b)(1) of this section) applies. Because electrochromic glass property (as defined in § 1.48-9(e)(2)(ii)), fiber-optic solar energy property (as defined in § 1.48-9(e)(2)(i)), and microgrid controllers (as defined in § 1.48-9(e)(12)) do not generate electricity or thermal energy, these energy properties are not eligible for the One Megawatt Exception.
+
+(2) *Nameplate capacity for energy properties that generate in direct current for purposes of the One Megawatt Exception.* Only for energy properties that generate electricity in direct current, the taxpayer may choose to determine the maximum net output (in alternating current) of each energy property that is part of the energy project by using the lesser of:
+
+(i) The sum of the nameplate generating capacities within the unit of energy property in direct current, which is deemed the nameplate generating capacity of the unit of energy property in alternating current; or
+
+(ii) The nameplate capacity of the first component of property that inverts the direct current electricity into alternating current.
+
+(3) *Electrical generating energy property.* In the case of an electrical generating energy property, the One Megawatt Exception is determined by using maximum electrical generating output in megawatts that the unit of energy property is capable of producing on a steady state basis and during continuous operation under standard conditions, as measured by the manufacturer and consistent with the definition of nameplate capacity provided in 40 CFR 96.202.
+
+(4) *Electrical energy storage property.* In the case of electrical energy storage property (as defined in § 1.48-9(e)(10)(ii)), the One Megawatt Exception is determined by using the storage device's maximum net output. If the output of electrical energy storage property is in direct current, apply the rules of paragraph (2) of this section.
+
+(5) *Thermal energy storage property and other property generating or distributing thermal energy.* In the case of thermal energy storage property (as defined in § 1.48-9(e)(10)(iii)) and other energy property that generates or distributes thermal energy for productive use (for example, geothermal energy property, GHP property, solar process heat property), the One Megawatt Exception is determined by using the property's maximum net output. The maximum net output in MW is calculated by using a conversion whereby one MW is equal to 3.4 million British Thermal Units per hour (mmBtu/hour) for heating and 284 tons for cooling (Btu per hour/3,412,140 = MW). The maximum net output is the maximum instantaneous rate of discharge and is determined based on the nameplate capacity of the equipment that generates or distributes thermal energy for productive use (including distributing the thermal energy from the storage medium). For purposes of determining the maximum net output of thermal energy storage property, if the nameplate capacity of the thermal energy storage is not available, the nameplate capacity of the equipment delivering thermal energy to the thermal energy storage may be used. For thermal energy storage property and other energy property distributing thermal energy to a building or buildings, the nameplate capacity can be assessed as either the aggregate maximum thermal output of all individual heating or cooling elements within the building or buildings, or as the maximum thermal output that the entire project is capable of delivering to a building or buildings at any given moment. The maximum thermal output an entire project is capable of delivering at any given moment does not take into account the capacity of redundant equipment if such equipment is not operated when the system is at maximum output during normal operation. For thermal energy storage property and other energy property that generates or distributes thermal energy for a productive use, the maximum thermal output that the entire system is capable of delivering is considered to be the greater of the rate of cooling or the rate of heating of the aggregate of the nameplate capacity of the equipment distributing energy for productive use, including distributing the thermal energy from the thermal energy storage medium to the building or buildings. If such nameplate capacity is unavailable, in the case of thermal energy storage property only, the maximum thermal output may instead be considered to be the greater of the rate of cooling or the rate of heating of the aggregate of the nameplate capacity of all the equipment delivering energy to the thermal energy storage property in the project.
+
+(6) *Hydrogen energy storage property and specified clean hydrogen production facilities.* In the case of a hydrogen energy storage property (as defined in § 1.48-9(e)(10)(iv)) or a specified clean hydrogen production facility (as defined in section 48(a)(15)(C)), the One Megawatt Exception is determined by using the property's or facility's maximum net output. The maximum net output in MW is calculated by using a conversion whereby one MW is equal to 3.4 mmBtu/hour of hydrogen or equivalently 10,500 standard cubic feet (scf) per hour of hydrogen.
+
+(7) *Qualified biogas property.* In the case of qualified biogas property, the One Megawatt Exception is determined by the property's maximum net output. The maximum net output in MW is calculated by using a conversion whereby one MW is equal to 3.4 mmBtu/hour. Taxpayers may convert the maximum net output of 3.4 mmBtu/hour into an equivalent maximum net volume flow in scf per hour using the appropriate high heat value conversion factors found in the Environmental Protection Agency (EPA) Greenhouse Gas Reporting Rule (GHGRR) at table C-1 to subpart C of part 98 (40 CFR part 98). Otherwise, taxpayers may calculate their own equivalent volumetric flow if the heat content of the gas is known.
+
+(f) *Applicability date.* This section applies to energy projects placed in service in taxable years ending on or after December 12, 2024, and the construction of which begins after December 12, 2024.
+
+[T.D. 10015, 89 FR 100651, Dec. 12, 2024]

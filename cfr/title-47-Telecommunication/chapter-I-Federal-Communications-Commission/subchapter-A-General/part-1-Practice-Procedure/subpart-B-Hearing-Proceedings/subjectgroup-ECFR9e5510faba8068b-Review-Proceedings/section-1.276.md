@@ -24,4 +24,4 @@
 
 (f) When any party fails to file exceptions within the specified time to an initial decision which proposes to deny its application, such party shall be deemed to have no interest in further prosecution of its application, and its application may be dismissed with prejudice for failure to prosecute.
 
-(Sec. 40, 48 Stat. 1096, as amended; 47 U.S.C. 409)[28 FR 12425, Nov. 22, 1963, as amended at 41 FR 14873, Apr. 8, 1976]
+(Sec. 40, 48 Stat. 1096, as amended; 47 U.S.C. 409) [28 FR 12425, Nov. 22, 1963, as amended at 41 FR 14873, Apr. 8, 1976]

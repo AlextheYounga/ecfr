@@ -34,11 +34,11 @@
 
 (1) Coast stations:
 
-156-162 MHz-50W1 2 13
+156-162 MHz-50W 1 2 13
 
 1 Maximum authorized power at the input terminals of the station antenna.
 
-216-220 MHz2
+216-220 MHz 2
 
 2 See paragraph (h) of this section.
 
@@ -48,7 +48,7 @@
 
 (d) *Ship station frequencies below 27500 kHz.* The maximum power must not exceed the values listed below:
 
-(1) Radiotelegraphy: All ships—2kW3
+(1) Radiotelegraphy: All ships—2kW 3
 
 3 For passenger ships 5000 gross tons and over—8kW. For cable-repair ships operating on radiodetermination frequencies, 15 watts; see § 80.375(b).
 
@@ -58,11 +58,11 @@
 
 (ii) All ships—Open waters; 2000-4000 kHz—150W
 
-2182 kHz—emergency, urgency, or safety ship to shore—400W4
+2182 kHz—emergency, urgency, or safety ship to shore—400W 4
 
 4 For passenger ships 5000 gross tons and over—1kW.
 
-(iii) All ships—Open waters; 4000-27500 kHz—1.5kW5.
+(iii) All ships—Open waters; 4000-27500 kHz—1.5kW 5.
 
 5 For passenger ships 5,000 gross tons and over 3kW.
 
@@ -72,29 +72,29 @@ All ships 415-526.5 kHz—400 WAll ships 1605-4000 kHz—400 WAll ships 4000-275
 
 (e) *Ship stations frequencies above 27500 kHz.* The maximum power must not exceed the values listed below.
 
-(1) Ship stations 156-162 MHz—25W6
+(1) Ship stations 156-162 MHz—25W 6
 
 6 Reducible to 1 watt or less, except for transmitters limited to public correspondence channels and used in an automated system.
 
-(2) Ship stations 216-220 MHz—25W7
+(2) Ship stations 216-220 MHz—25W 7
 
 7 [Reserved]
 
-(3) On board stations 456-468 MHz—4W8
+(3) On board stations 456-468 MHz—4W 8
 
 8 Certification based on a carrier power of 4 watts with transmitter connected to a dummy load of matching impedance. The effective radiated power must not exceed 2 watts.
 
-(4) Ship earth stations 1626.5-1646.5 MHz9
+(4) Ship earth stations 1626.5-1646.5 MHz 9
 
 9 See paragraph (k) of this section.
 
 (5) Ship radar stations with F3N emission—200 mW
 
-(6) EPIRB—121.500 and 243.00 MHz10
+(6) EPIRB—121.500 and 243.00 MHz 10
 
 10 See subpart V of this part.
 
-(7) EPIRB—156.750 and 156.800 MHz10
+(7) EPIRB—156.750 and 156.800 MHz 10
 
 (f) *Fixed stations.* The maximum power must not exceed the values + listed below.
 
@@ -102,11 +102,11 @@ All ships 415-526.5 kHz—400 WAll ships 1605-4000 kHz—400 WAll ships 4000-275
 
 R3E and J3C emission—150WF3E emission—50W
 
-(2) Operational fixed: 72-76 MHz and above 162 MHz11
+(2) Operational fixed: 72-76 MHz and above 162 MHz 11
 
 11 See paragraph (l) of this section.
 
-(3) Alaska—Private fixed:12
+(3) Alaska—Private fixed: 12
 
 12 The frequencies 156.375 MHz and 156.650 MHz are primarily intership frequencies. When authorized for coast stations on a secondary basis, the normal output power must not exceed 1 watt and the maximum output power must not exceed 10 watts.
 

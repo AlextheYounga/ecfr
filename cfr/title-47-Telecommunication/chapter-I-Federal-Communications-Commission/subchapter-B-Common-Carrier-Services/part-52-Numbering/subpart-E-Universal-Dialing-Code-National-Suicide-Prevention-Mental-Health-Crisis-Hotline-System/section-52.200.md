@@ -1,10 +1,8 @@
 ##### § 52.200 Designation of 988 for a National Suicide Prevention and Mental Health Crisis Hotline. #####
 
-Link to an amendment published at 89 FR 88905, Nov. 12, 2024.
-
 (a) 988 is established as the 3-digit dialing code for a national suicide prevention and mental health crisis hotline system maintained by the Assistant Secretary for Mental Health and Substance Use and the Secretary of Veterans Affairs.
 
-(b) All covered providers shall transmit all calls initiated by an end user dialing 988 to the current toll free access number for the National Suicide Prevention Lifeline, presently 1-800-273-8255 (TALK).
+(b) All covered providers shall transmit all calls initiated by an end user dialing 988 to the national suicide prevention and mental health crisis hotline system maintained by the Assistant Secretary for Mental Health and Substance Use and the Secretary of Veterans Affairs.
 
 (c) All covered providers shall complete 10-digit dialing implementation in areas that use 7-digit dialing and have assigned 988 as a central office code as defined in § 52.7(c) by July 16, 2022.
 
@@ -27,3 +25,5 @@ Link to an amendment published at 89 FR 88905, Nov. 12, 2024.
 (D) Permits users generally to receive calls that originate on the public switched telephone network or to terminate calls to the public switched telephone network.
 
 (ii) Does not include any service that is an interconnected VoIP service.
+
+[85 FR 57783, Sept. 16, 2020, as amended at 89 FR 88905, Nov. 12, 2024]

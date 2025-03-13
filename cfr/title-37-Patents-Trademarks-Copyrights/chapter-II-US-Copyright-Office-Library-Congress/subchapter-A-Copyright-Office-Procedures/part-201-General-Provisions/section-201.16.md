@@ -1,5 +1,7 @@
 ##### § 201.16 Verification of a Statement of Account for secondary transmissions made by cable systems and satellite carriers. #####
 
+Link to an amendment published at 89 FR 100359, Dec. 12, 2024.
+
 (a) *General.* This section prescribes procedures pertaining to the verification of a Statement of Account filed with the Copyright Office pursuant to sections 111(d)(1) or 119(b)(1) of title 17 of the United States Code.
 
 (b) *Definitions.* As used in this section:

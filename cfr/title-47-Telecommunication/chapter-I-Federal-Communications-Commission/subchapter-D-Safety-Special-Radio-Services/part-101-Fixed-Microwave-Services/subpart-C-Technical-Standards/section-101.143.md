@@ -11,7 +11,7 @@
 
 (b) For paths shorter than those specified in the table in paragraph (a) of this section, the EIRP shall not exceed the value derived from the following equation:
 
-EIRP = MAXEIRP-40\*log(A/B) dBWWhere: EIRP = The new maximum EIRP (equivalent isotropically radiated power) in dBW. MAXEIRP = Maximum EIRP as set forth in the Table in Section 101.113(a).A = Minimum path length from the Table above for the frequency band in kilometers.B = The actual path length in kilometers.Note to paragraph (b):
+EIRP = MAXEIRP-40\*log(A/B) dBWWhere: EIRP = The new maximum EIRP (equivalent isotropically radiated power) in dBW. MAXEIRP = Maximum EIRP as set forth in the Table in Section 101.113(a). A = Minimum path length from the Table above for the frequency band in kilometers. B = The actual path length in kilometers.Note to paragraph (b):
 
 For transmitters using Automatic Transmitter Power Control, EIRP corresponds to the maximum transmitter power available, not the coordinated transmit power or the nominal transmit power.
 

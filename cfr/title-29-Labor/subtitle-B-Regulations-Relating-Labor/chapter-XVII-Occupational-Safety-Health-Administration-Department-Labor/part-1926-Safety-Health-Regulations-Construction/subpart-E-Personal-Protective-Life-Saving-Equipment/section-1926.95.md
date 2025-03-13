@@ -1,5 +1,7 @@
 ##### § 1926.95 Criteria for personal protective equipment. #####
 
+Link to an amendment published at 89 FR 100346, Dec. 12, 2024.
+
 (a) *Application.* Protective equipment, including personal protective equipment for eyes, face, head, and extremities, protective clothing, respiratory devices, and protective shields and barriers, shall be provided, used, and maintained in a sanitary and reliable condition wherever it is necessary by reason of hazards of processes or environment, chemical hazards, radiological hazards, or mechanical irritants encountered in a manner capable of causing injury or impairment in the function of any part of the body through absorption, inhalation or physical contact.
 
 (b) *Employee-owned equipment.* Where employees provide their own protective equipment, the employer shall be responsible to assure its adequacy, including proper maintenance, and sanitation of such equipment.

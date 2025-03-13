@@ -783,7 +783,7 @@
 |         Laredo         |                       8, 19                       |
 |         Llano          |                        27                         |
 |        Longview        |                       20, S                       |
-|        Lubbock         |             16, \*25, 27, 31, 35, 36              |
+|        Lubbock         |             11, 16, \*25, 27, 31, 35              |
 |         Lufkin         |                        24                         |
 |        McAllen         |                        17                         |
 |        Midland         |                      18, 26                       |

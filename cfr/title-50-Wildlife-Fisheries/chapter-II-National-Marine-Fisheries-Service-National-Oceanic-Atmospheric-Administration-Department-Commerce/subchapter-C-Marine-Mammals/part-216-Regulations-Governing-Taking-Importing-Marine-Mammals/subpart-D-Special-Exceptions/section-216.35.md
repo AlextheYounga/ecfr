@@ -1,5 +1,7 @@
 ##### § 216.35 Permit restrictions. #####
 
+Link to an amendment published at 89 FR 100402, Dec. 12, 2024.
+
 The following restrictions shall apply to all permits issued under this subpart:
 
 (a) The taking, importation, export, or other permitted activity involving marine mammals and marine mammal parts shall comply with the regulations of this subpart.

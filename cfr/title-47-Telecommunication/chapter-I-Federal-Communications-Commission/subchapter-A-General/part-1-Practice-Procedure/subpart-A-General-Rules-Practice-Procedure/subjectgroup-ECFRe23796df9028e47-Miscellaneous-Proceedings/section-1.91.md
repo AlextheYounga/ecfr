@@ -16,4 +16,4 @@
 
 (f) Any order of revocation and/or cease and desist order issued after hearing pursuant to this section shall include a statement of findings and the grounds therefor, shall specify the effective date of the order, and shall be served on the person to whom such order is directed.
 
-(Sec. 312, 48 Stat. 1086, as amended; 47 U.S.C. 312)[28 FR 12415, Nov. 22, 1963, as amended at 85 FR 63172, Oct. 6, 2020]
+(Sec. 312, 48 Stat. 1086, as amended; 47 U.S.C. 312) [28 FR 12415, Nov. 22, 1963, as amended at 85 FR 63172, Oct. 6, 2020]

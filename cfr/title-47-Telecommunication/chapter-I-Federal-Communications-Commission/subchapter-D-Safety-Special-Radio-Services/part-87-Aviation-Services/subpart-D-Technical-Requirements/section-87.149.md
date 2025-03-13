@@ -24,7 +24,7 @@ Brief signalling for the purposes of measuring the quality of a radio channel an
 
 (2) Protected bands (kHz)
 
-4125.0-4128.08376.25-8386.7513360.0-13410.025500.0-25670.0
+4125.0-4128.0 8376.25-8386.75 13360.0-13410.0 25500.0-25670.0
 
 (e) The instantaneous signal, which refers to the peak power that would be measured with the frequency sweep stopped, along with spurious emissions generated from the sweeping signal, must be attenuated below the peak carrier power (in watts) as follows:
 

@@ -81,7 +81,7 @@
 |            ±1.40 × SR             |       20       |
 |            ±2.95 × SR             |       40       |
 
-Where:SR = Symbol Rate,SR = 1 × channel rate for BPSK,SR = 0.5 × channel rate for QPSK.
+Where:SR = Symbol Rate, SR = 1 × channel rate for BPSK,SR = 0.5 × channel rate for QPSK.
 
 The mask shall be defined by drawing straight lines through the above points.
 
@@ -116,4 +116,4 @@ The mask shall be defined by drawing straight lines through the above points.
 
 (m) In the 1435-1452 MHz band, operators of aeronautical telemetry stations are encouraged to take all reasonable steps to ensure that unwanted emissions power does not exceed −28 dBW/27 MHz in the 1400-1427 MHz band. Operators of aeronautical telemetry stations that do not meet this limit shall first attempt to operate in the 1452-1525 MHz band prior to operating in the 1435-1452 MHz band.
 
-[53 FR 28940, Aug. 1, 1988]Editorial Note:For Federal Register citations affecting § 87.139, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[53 FR 28940, Aug. 1, 1988] Editorial Note:For Federal Register citations affecting § 87.139, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
