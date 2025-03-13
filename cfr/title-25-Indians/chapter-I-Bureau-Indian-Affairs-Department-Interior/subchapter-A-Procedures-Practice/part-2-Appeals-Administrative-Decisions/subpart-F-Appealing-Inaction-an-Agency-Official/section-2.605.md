@@ -1,0 +1,3 @@
+##### § 2.605 May I appeal continued inaction by the decision-maker or the next official in the decision-maker's chain of command? #####
+
+Yes. If the official fails to timely direct the decision-maker to respond to the request for decision, or if the decision-maker fails to respond within the time frame identified by the official pursuant to § 2.604, you may appeal the continued inaction by either agency official to the next highest officer in the chain of command above both agency officials. Your appeal must be submitted as provided for in §§ 2.602 and 2.603. The official will respond as provided for in § 2.604.

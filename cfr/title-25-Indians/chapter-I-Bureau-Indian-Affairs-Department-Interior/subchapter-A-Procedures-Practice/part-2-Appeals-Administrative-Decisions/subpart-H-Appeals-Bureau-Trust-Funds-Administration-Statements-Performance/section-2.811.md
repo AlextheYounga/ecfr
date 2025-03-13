@@ -1,0 +1,3 @@
+##### § 2.811 May I request an extension of time to submit my Objection to the Statement of Performance? #####
+
+Yes. Within 60 calendar days of the statement date on your Statement of Performance, you may request an extension of time, submitted in compliance with the provisions of § 2.214, from the decision-maker to submit your Objection to the Statement of Performance. The decision-maker may grant one 30-day extension of time in which to submit your Objection to the Statement of Performance.

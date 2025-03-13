@@ -1,0 +1,3 @@
+##### § 2.106 How does this part comply with the Paperwork Reduction Act? #####
+
+The information collected from the public under this part is cleared and covered by Office of Management and Budget (OMB) Control Number 1076-NEW. Please note that a Federal Agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.

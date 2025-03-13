@@ -1,0 +1,3 @@
+##### § 2.604 What will the next official in the decision-maker's chain of command do in response to my appeal? #####
+
+An official who receives an appeal from the inaction of a decision-maker that complies with the requirements of this subpart will, within 15 days of receiving the appeal, formally direct the decision-maker to respond within 15 days of the decision-maker's receipt of the official direction. The official will send to all interested parties a copy of his or her instructions to the decision-maker.

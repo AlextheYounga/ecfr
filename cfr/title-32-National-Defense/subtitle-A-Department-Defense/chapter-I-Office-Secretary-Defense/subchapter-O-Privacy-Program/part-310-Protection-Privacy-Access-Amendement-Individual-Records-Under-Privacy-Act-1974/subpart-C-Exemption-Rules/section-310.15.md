@@ -1,7 +1,5 @@
 ##### § 310.15 Department of the Army exemptions. #####
 
-Link to an amendment published at 88 FR 42236, June 30, 2023.
-
 (a) *Special exemption.* 5 U.S.C. 552a(d)(5)—Denies individual access to any information compiled in reasonable anticipation of a civil action or proceeding.
 
 (b) *General and specific exemptions.* The Secretary of the Army may exempt Army systems of records from certain requirements of the Privacy Act of 1974. The two kinds of exemptions that require Secretary of the Army enactment are general and specific exemptions. The general exemption authorizes the exemption of a system of records from most requirements of the Act; the specific exemptions authorize the exemption of a system of record from only a few.
@@ -558,13 +556,7 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (K) From subsection (g) because portions of this system of records are compiled for law enforcement purposes and have been exempted from the access provisions of subsections (d) and (f).
 
-(21) *System identifier and name.* A0340-21 OAA, Privacy Case Files.
-
-(i) *Exemption.* During the processing of a Privacy Act request (which may include access requests, amendment requests, and requests for review for initial denials of such requests), exempt materials from other systems of records may in turn become part of the case record in this system. To the extent that copies of exempt records from those `other' systems of records are entered into this system, the Department of the Army hereby claims the same exemptions.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), and (k)(1) through (k)(7).
-
-(iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided to the President and others are not compromised, to protect records used solely as statistical records, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, and to preserve the confidentiality and integrity of Federal evaluation materials. The exemption rule for the original records will identify the specific reasons why the records may be exempt from specific provisions of 5 U.S.C. 552a.
+(21) [Reserved]
 
 (22) *System identifier and name.* A0351-12 DAPE, Applicants/Students, U.S. Military Academy Prep School.
 
@@ -959,3 +951,5 @@ Records transferred to the Federal Records Centers for storage remain under the 
 (K) 5 U.S.C. 552a(b)(11)—Pursuant to the order of a court of competent jurisdiction. The order must be signed by a judge.
 
 (L) 5 U.S.C. 552a(b)(12)—To a consumer reporting agency in accordance with section 3711(e) of Title 31 of the U.S. Code. The name, address, SSN, and other information identifying the individual; amount, status, and history of the claim; and the agency or program under which the case arose may be disclosed. However, before doing so, agencies must complete a series of steps designed to validate the debt and to offer the individual an opportunity to repay it.
+
+[84 FR 14730, Apr. 11, 2019, as amended at 88 FR 42236, June 30, 2023]

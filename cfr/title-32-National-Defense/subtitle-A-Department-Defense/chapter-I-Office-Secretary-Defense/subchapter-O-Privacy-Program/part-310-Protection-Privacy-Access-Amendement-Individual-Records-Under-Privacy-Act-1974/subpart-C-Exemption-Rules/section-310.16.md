@@ -1,7 +1,5 @@
 ##### § 310.16 Department of the Navy exemptions. #####
 
-Link to an amendment published at 88 FR 42236, June 30, 2023.
-
 (a) All systems of records maintained by the DON shall be exempt from the requirements of the access provision of the Privacy Act (5 U.S.C. 552a(d)) under the (k)(1) exemption, to the extent that the system contains information properly classified under E.O. 12958 and that is required by that E.O. to be kept secret in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein that contain isolated items of properly classified information.
 
 (1) *System identifier and name.* N01070-9, White House Support Program.
@@ -308,21 +306,7 @@ Link to an amendment published at 88 FR 42236, June 30, 2023.
 
 (J) Consistent with the legislative purpose of the Privacy Act of 1974, the DON will grant access to nonexempt material in the records being maintained. Disclosure will be governed by the DON's Privacy Regulation, but will be limited to the extent that the identity of confidential sources will not be compromised; subjects of an investigation of an actual or potential criminal violation will not be alerted to the investigation; the physical safety of witnesses, informants and law enforcement personnel will not be endangered, the privacy of third parties will not be violated; and that the disclosure would not otherwise impede effective law enforcement. Whenever possible, information of the above nature will be deleted from the requested documents and the balance made available. The controlling principle behind this limited access is to allow disclosures except those indicated above. The decisions to release information from these systems will be made on a case-by-case basis.
 
-(22) *System identifier and name.* NM05211-1, Privacy Act Request Files and Tracking System.
-
-(i) *Exemption.* During the processing of a Privacy Act request (which may include access requests, amendment requests, and requests for review for initial denials of such requests), exempt materials from other systems of records may in turn become part of the case record in this system. To the extent that copies of exempt records from those “other” systems of records are entered into this system, the DON hereby claims the same exemptions for the records from those “other” systems that are entered into this system, as claimed for the original primary system of which they are a part.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1), (k)(2), (k)(3), (k)(4), (k)(5), (k)(6), and (k)(7).
-
-(iii) *Reason.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, and to preserve the confidentiality and integrity of Federal evaluation materials. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
-
-(23) *System identifier and name.* NM05720-1, FOIA Request/Appeal Files and Tracking System.
-
-(i) *Exemption.* During the processing of a Freedom of Information Act request, exempt materials from other systems of records may in turn become part of the case record in this system. To the extent that copies of exempt records from those `other' systems of records are entered into this system, the DON hereby claims the same exemptions for the records from those `other' systems that are entered into this system, as claimed for the original primary system of which they are a part.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1), (k)(2), (k)(3), (k)(4), (k)(5), (k)(6), and (k)(7).
-
-(iii) *Reason.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, and to preserve the confidentiality and integrity of Federal evaluation materials. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
+(22)-(23) [Reserved]
 
 (24) *System identifier and name.* N05800-2, Professional Responsibility Files.
 
@@ -340,4 +324,4 @@ Link to an amendment published at 88 FR 42236, June 30, 2023.
 
 (iii) *Reason.* The reason for asserting this exemption is ensure the integrity of the security and investigative material compiled for law enforcement purposes by the Department of the Navy and the Department of Defense.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 31431, June 14, 2021]
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 31431, June 14, 2021; 88 FR 42236, June 30, 2023]

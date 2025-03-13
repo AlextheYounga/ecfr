@@ -1,0 +1,3 @@
+##### § 2.700 What is the purpose of this subpart? #####
+
+The purpose of this subpart is to expedite administrative review of a Bureau decision to recognize, or to decline to recognize, a Tribal representative. Provisions in subparts A through F of this part also apply, except that, if a provision in this subpart conflicts with a provision in subparts A through F of this part, the provision in this subpart will govern.

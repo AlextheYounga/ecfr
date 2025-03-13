@@ -1,0 +1,3 @@
+##### § 2.603 How do I submit an appeal of inaction? #####
+
+You may appeal the inaction of a decision-maker by sending a written “appeal from inaction of an official” to the next official in the decision-maker's chain of command. You must enclose a copy of the original request for decision to which the decision-maker has not responded and a copy of the request for decision that you sent to the decision-maker pursuant to § 2.600. If filing by email is permitted, “Appeal of Inaction” must appear in the subject line of the email submission.

@@ -1,0 +1,3 @@
+##### § 2.401 How will the reviewing official determine whether to require an appeal bond? #####
+
+The reviewing official may require an appeal bond if the party requesting the appeal bond can demonstrate that the delay caused by the appeal may result in a measurable and substantial financial loss or damage to Indian Trust Assets. The amount of the appeal bond will be commensurate with the estimated financial loss or damage to Indian Trust Assets.

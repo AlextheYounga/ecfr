@@ -1,0 +1,3 @@
+##### § 2.714 May the reviewing official's decision on Tribal representative recognition be appealed? #####
+
+Yes. The reviewing official's decision is immediately effective, but not final for the Department. Therefore, any participant may appeal the reviewing official's decision as provided for in this part, or pursue judicial review in Federal court. Notwithstanding any other regulation, the reviewing official's Tribal representative recognition decision shall remain in effect and binding on the Department unless and until the reviewing official's decision is reversed by superior agency authority or reversed or stayed by order of a Federal court.

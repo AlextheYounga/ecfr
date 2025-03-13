@@ -1,0 +1,3 @@
+##### § 2.501 May an appealed decision be partially implemented? #####
+
+Yes. The reviewing official may identify any parts of a decision-maker's decision that have not been appealed, to allow the decision-maker to implement those parts of the decision. The reviewing official will notify interested parties of a determination to implement unchallenged components of the decision-maker's decision. An interested party who disagrees with the reviewing official's determination may seek reconsideration by the reviewing official. A request for reconsideration must be filed within 15 days of issuance of the determination.

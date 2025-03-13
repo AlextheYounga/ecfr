@@ -1,0 +1,3 @@
+##### § 2.100 What is the purpose of this part? #####
+
+If you are adversely affected by certain decisions of a Bureau of Indian Affairs (Bureau) official, you can challenge (appeal) that decision to a higher authority within the Department of the Interior (Department) by following the procedures in this part. Except as otherwise provided in this part or in other applicable laws and regulations, you must exhaust the appeal mechanisms available under this part before you can seek review in a Federal district court under the Administrative Procedure Act (5 U.S.C. 704).

@@ -1,7 +1,5 @@
 ##### § 310.20 Defense Intelligence Agency (DIA) exemptions. #####
 
-Link to an amendment published at 88 FR 42236, June 30, 2023.
-
 (a) All systems of records maintained by the Director Intelligence Agency shall be exempt from the requirements of 5 U.S.C. 552a(d) pursuant to 5 U.S.C. 552a(k)(1) to the extent that the system contains any information properly classified under Executive order to be kept secret in the interest of national defense or foreign policy. This exemption, which may be applicable to parts of all systems of records, is necessary because certain record systems not specifically designated for exemption may contain isolated information which has been properly classified.
 
 (b) The Director, Defense Intelligence Agency, designated the systems of records listed below for exemptions under the specified provisions of the Privacy Act of 1974, as amended (Pub. L. 93-579).
@@ -30,9 +28,7 @@ Link to an amendment published at 88 FR 42236, June 30, 2023.
 
 (iii) *Reasons.* The reasons for asserting these exemptions are to ensure the integrity of the adjudication process used by the Agency to determine the suitability, eligibility or qualification for Federal service with the Agency and to make determinations concerning the questions of access to classified materials and activities. The proper execution of this function requires that the Agency have the ability to obtain candid and necessary information in order to fully develop or resolve pertinent information developed in the process. Potential sources, out of fear or retaliation, exposure or other action, may be unwilling to provide needed information or may not be sufficiently frank to be a value in personnel screening, thereby seriously interfering with the proper conduct and adjudication of such matters; and protects information used for medical, psychological evaluations, security questionnaires and polygraph testing.
 
-(4) [Reserved]
-
-(5) [Reserved]
+(4)-(5) [Reserved]
 
 (6) *System identifier and name.* LDIA 10-0002, Foreign Intelligence and Counterintelligence Operation Records.
 
@@ -72,13 +68,7 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, to preserve the confidentiality and integrity of Federal testing materials, and to safeguard evaluation materials used for military promotions when furnished by a confidential source. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
 
-(8) *System identifier and name.* LDIA 0010, Information Requests-Freedom of Information Act (FOIA) and Privacy Act.
-
-(i) *Exemption.* During the course of information requests-FOIA and Privacy Act actions, exempt records/material from other systems of records may become part of this system of records. For such records/material, DIA hereby claims the same exemptions as is claimed for the systems from which such records/material are derived.
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(2) through (k)(7).
-
-(iii) *Reasons.* Records in a system of records are only exempted from pertinent provisions of 5 U.S.C. 552a to the extent such provisions are identified and an exemption claimed. In general, exemptions claimed protect properly classified information relating to national defense and foreign policy; avoid interference during the conduct of criminal, civil, or administrative actions or investigations; ensure protective services provided the President and others are not compromised; protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations; preserve the confidentiality and integrity of Federal testing materials; and safeguard evaluation materials used for military promotions when furnished by a confidential source. The exemption rule(s) for the systems of records from which the records/materials was derived will identify the specific reasons why the records/materials are exempt from provisions of 5 U.S.C. 552a.
+(8) [Reserved]
 
 (9) *System identifier and name.* LDIA 12-0002, Privacy and Civil Liberties Case Management System.
 
@@ -104,4 +94,4 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (iii) *Reasons.* The reasons for asserting these exemptions are to ensure the integrity of an investigative or administrative process and to protect statistical records. The execution requires that information be provided in a free and open manner without fear of retribution or harassment in order to facilitate a just, thorough, and timely resolution during an investigation or administrative action. Disclosures from this system can enable individuals to conceal their wrongdoing or mislead the course of the investigation by concealing, destroying, or fabricating evidence or documents. In addition, disclosures can subject sources and witnesses to harassment or intimidation which may cause individuals to not to seek redress for concerns about occupational safety, health, environmental issues and accident reporting. Information is used to comply regulatory reporting requirements.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 31431, June 14, 2021]
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 31431, June 14, 2021; 88 FR 42236, June 30, 2023]

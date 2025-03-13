@@ -1,0 +1,3 @@
+##### § 2.900 Is there a procedure other than a formal appeal for resolving disputes? #####
+
+Yes. We strongly encourage parties to work together to reach a consensual resolution of disputes whenever possible. Use of an alternative approach to dispute resolution can save time and money, produce more durable and creative solutions, and foster improved relationships. It may be appropriate and beneficial to consider the use of alternative dispute resolution (ADR) processes and techniques at any stage in a dispute. The parties may request information from the decision-maker on the use of an ADR process.

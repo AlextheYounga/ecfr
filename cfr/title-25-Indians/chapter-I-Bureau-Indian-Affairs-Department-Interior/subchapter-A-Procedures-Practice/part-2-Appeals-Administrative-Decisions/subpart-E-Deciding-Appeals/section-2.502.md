@@ -1,0 +1,3 @@
+##### § 2.502 May I withdraw my appeal once it has been filed? #####
+
+Yes. You may withdraw your appeal at any time before the reviewing official issues a decision. To withdraw an appeal, you must write to the reviewing official and all participants stating that you want to withdraw your appeal. If you withdraw your appeal, it will be dismissed by the reviewing official. While the dismissal of a withdrawn appeal is without prejudice, the appeals time frame set out in this part will be unaffected by a withdrawn appeal. Therefore, any refiling of a withdrawn appeal must be within the original filing deadline established pursuant to § 2.104.

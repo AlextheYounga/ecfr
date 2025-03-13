@@ -1,0 +1,3 @@
+##### § 2.824 May I appeal the BTFA's ruling? #####
+
+Yes. The BTFA's ruling may be appealed to the AS-IA. The procedures, requirements, and deadlines set out in §§ 2.816, 2.817, and 2.819 through 2.821 apply to appeals to the AS-IA under this subpart. Submit your Appeal to: U.S. Department of the Interior, Office of the Assistant Secretary—Indian Affairs, MS 4660, 1849 C Street NW, Washington, DC 20240, as provided in § 2.214.

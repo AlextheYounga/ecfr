@@ -1,0 +1,25 @@
+##### § 2.104 How will I know what decisions are appealable under this part? #####
+
+(a) When an Indian Affairs official makes a decision that is subject to an appeal under this part, she or he will transmit the decision to interested parties by U.S. Mail or, upon request, by electronic mail. Unless the decision is immediately effective, and except for decisions that are subject to appeal to IBIA, the official will include the following notice of appeal rights at the end of the decision document:
+
+This decision may be appealed by any person or entity who is adversely affected by the decision. Appeals must be submitted to the—[appropriate reviewing official]—at—[address, including email address]. The appeals process begins when you file with the reviewing official a notice of appeal, complying with the provisions of 25 CFR 2.205-2.207.
+
+*Deadline for Appeal.* Your notice of appeal must be submitted in accordance with the provisions of 25 CFR 2.214 within 30 days of the date you receive notice of this decision pursuant to 25 CFR 2.203. If you do not file a timely appeal, you will have failed to exhaust administrative remedies as required by 25 CFR part 2. If no appeal is timely filed, this decision will become effective at the expiration of the appeal period. No extension of time may be granted for filing a notice of appeal.
+
+*Appeal Contents and Packaging.* Your notice of appeal must comply with the requirements in 25 CFR 2.214. It must clearly identify the decision being appealed. If possible, attach a copy of this decision letter. The notice and the envelope in which it is mailed should be clearly labeled, “Notice of Appeal.” If electronic filing is available, “Notice of Appeal” must appear in the subject line of the email submission. Your notice of appeal must list the names and addresses of the interested parties known to you and certify that you have sent them and this office copies of the notice by any of the mechanisms permitted for transmitting the NOA to the BIA.
+
+*Where to Send Copies of Your Appeal.*
+
+*[For appeals to IA officials, not IBIA]:* In addition to sending your appeal to—[the reviewing official],—you must send a copy of your appeal to this office at the address on the letterhead—[if an email address is included in the letterhead, you may submit your appeals documents via email, with “Notice of Appeal” in the subject line of the email submission].
+
+*[For appeals to the IBIA]:* If the reviewing official is the IBIA, you must also send a copy of your appeal to the AS-IA and to the Associate Solicitor, Division of Indian Affairs. If the reviewing official is the IBIA, your appeal will be governed by the IBIA's regulations, at 43 CFR part 4.
+
+*Assistance.* If you can establish that you are an enrolled member of a federally recognized Tribe and you are not represented by an attorney, you may, within 10 days of receipt of this decision, request assistance from this office in the preparation of your appeal. Our assistance is limited to serving your filings on the interested parties and allowing limited access to government records and other documents in the possession of this office. We cannot obtain an attorney for you or act as your attorney on the merits of the appeal.
+
+(b) If a decision-maker issues a decision that does not include notice of appeal rights, the decision-maker will provide written notice of appeal rights and the decision may be appealed as follows:
+
+(1) If the decision-maker discovers within 30 days of issuing the decision that the decision did not include notice of appeal rights, then the decision-maker will provide written notice of appeal rights to interested parties, and inform them that they may appeal the decision within 30 days from the date of receipt of the notice. If no appeal is filed by the new deadline, the interested parties will have failed to exhaust administrative remedies as required by this part and the decision will become effective.
+
+(2) If the decision-maker does not discover within 30 days of issuing the decision that the decision did not include notice of appeal rights and no administrative appeal is filed within 30 days of the issuance of the decision, then the decision becomes effective 31 days after it was issued.
+
+(3) If the decision-maker discovers, more than 30 days but less than 365 days, after the date of the decision that the decision did not include notice of appeal rights, then the decision-maker will immediately notify the interested parties that the decision was issued without the requisite notice of appeal rights. If the decision has not actually been implemented, the decision-maker shall stay the implementation of the decision and reissue the decision with the appeal rights notice as provided in this section. If the decision has been implemented, the decision maker shall notify the interested parties of that fact, and notify them that they may file a challenge to the decision in Federal court, or pursue the administrative appeal process set out in this section.

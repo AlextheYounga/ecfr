@@ -1,0 +1,3 @@
+##### § 2.804 May I challenge the underlying action that generated the proceeds deposited into my account under this subpart? #####
+
+No. This subpart is solely for the purpose of challenging the accuracy of the activity within the SOP. If you want to challenge the underlying action that generated the proceeds deposited into your trust account, you must contact the BIA agency responsible for the action.

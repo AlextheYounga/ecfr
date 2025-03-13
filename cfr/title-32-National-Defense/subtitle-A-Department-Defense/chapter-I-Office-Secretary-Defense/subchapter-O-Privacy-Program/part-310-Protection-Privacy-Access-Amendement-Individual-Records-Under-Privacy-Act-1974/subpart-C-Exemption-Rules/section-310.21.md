@@ -1,7 +1,5 @@
 ##### § 310.21 Defense Logistics Agency (DLA) exemptions. #####
 
-Link to an amendment published at 88 FR 42236, June 30, 2023.
-
 (a) The Director, DLA or designee may claim an exemption from any provision of the Privacy Act from which an exemption is allowed.
 
 (b) An individual is not entitled to access information that is compiled in reasonable anticipation of a civil action or proceeding. The term “civil action or proceeding” is intended to include court proceedings, preliminary judicial steps, and quasi-judicial administrative hearings or proceedings (*i.e.,* adversarial proceedings that are subject to rules of evidence). Any information prepared in anticipation of such actions or proceedings, to include information prepared to advise DLA officials of the possible legal or other consequences of a given course of action, is protected. The exemption is similar to the attorney work-product privilege except that it applies even when the information is prepared by non-attorneys. The exemption does not apply to information compiled in anticipation of criminal actions or proceedings.
@@ -112,13 +110,7 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (E) From 5 U.S.C. 552a(e)(4)(I), as to the extent that this provision is construed to require more detailed disclosure than the broad, generic information currently published in the system notice, an exemption from this provision is necessary to protect the confidentiality of sources of information and to protect privacy and physical safety of witnesses and informants. DLA will, nevertheless, continue to publish such a notice in broad generic terms as is its current practice.
 
-(6) *System identifier and name.* S510.30 (Specific/General Exemption), Freedom of Information Act/Privacy Act Requests and Administrative Appeal Records.
-
-(i) *Exemption.* During the processing of a Freedom of Information Act/Privacy Act request (which may include access requests, amendment requests, and requests for review for initial denials of such requests), exempt materials from other systems of records may, in turn, become part of the case record in this system. To the extent that copies of exempt records from those “other” systems of records are entered into this system, the Defense Logistics Agency claims the same exemptions for the records from those “other” systems that are entered into this system, as claimed for the original primary system of which they are a part.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1) through (7).
-
-(iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy; to avoid interference during the conduct of criminal, civil, or administrative actions or investigations; to ensure protective services provided the President and others are not compromised; to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations; to preserve the confidentiality and integrity of Federal testing materials; and to safeguard evaluation materials used for military promotions when furnished by a confidential source. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
+(6) [Reserved]
 
 (7) *System identifier and name.* S240.28 DoD (Specific exemption), Case Adjudication Tracking System (CATS).
 
@@ -132,4 +124,4 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (B) From 5 U.S.C. 552a(e)(1), as in the collection of information for investigatory purposes, it is not always possible to determine the relevance and necessity of particular information in the early stages of the investigation. In some cases, it is only after the information is evaluated in light of other information that its relevance and necessity becomes clear. Such information permits more informed decision making by the Department when making required suitability, eligibility, and qualification determinations.
 
-[84 FR 14730, Apr. 11, 2019; 84 FR 16210, Apr. 18, 2019]
+[84 FR 14730, Apr. 11, 2019; 84 FR 16210, Apr. 18, 2019; as amended at 88 FR 42236, June 30, 2023]

@@ -1,7 +1,5 @@
 ##### § 310.25 National Guard Bureau (NGB) exemptions. #####
 
-Link to an amendment published at 88 FR 42236, June 30, 2023.
-
 (a) *General information.* There are two types of exemptions, general and specific. The general exemption authorizes the exemption of a SOR from all but a few requirements of 5 U.S.C. 552a. The specific exemption authorizes exemption of a SOR or portion thereof, from only a few specific requirements. If a new SOR originates for which an exemption is proposed, or an additional or new exemption for an existing SOR is proposed, the exemption shall be submitted with the SORN. No exemption of a SOR shall be considered automatic for all records in the system. The System Manager shall review each requested records and apply the exemptions only when this will serve significant and legitimate purpose of the Federal Government.
 
 (b) *Exemption for classified material.* All SOR maintained by the NGB shall be exempt under section (k)(1) of 5 U.S.C. 552a to the extent that the systems contain any information properly classified under Executive Order 13526 and that is required by that Executive Order to be kept secret in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein which contain isolated items of properly classified information.
@@ -12,13 +10,7 @@ Link to an amendment published at 88 FR 42236, June 30, 2023.
 
 (e) *Specific exemptions.*
 
-(1) *System identifier and name.* INGB 001, Freedom of Information Act (5 U.S.C.) and Privacy Act (5 U.S.C. 552a) Case Files.
-
-(i) *Exemption.* During the course of a 5 U.S.C. 552 or 5 U.S.C. 552a action, exempt materials from other systems of records may, in turn, become part of the case records in this system. To the extent that copies of exempt records from those other systems of records are entered into this 5 U.S.C. 552 or 5 U.S.C. 552a case record, the NGB hereby claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the original primary SOR which they are a part.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1), (k)(2), (k)(3), (k)(4), (k)(5), (k)(6), and (k)(7).
-
-(iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this SOR. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, to preserve the confidentiality and integrity of Federal testing materials, and to safeguard evaluation materials used for military promotions when furnished by a confidential source. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
+(1) [Reserved]
 
 (2) *System identifier and name.* INGB 005, Special Investigation Reports and Files.
 
@@ -39,3 +31,5 @@ When claimed, this exemption allows limited protection of investigative reports 
 (D) From subsections (e)(4)(G) and (H) of 5 U.S.C. 552a because this SOR is compiled for investigative purposes and is exempt from the access provisions of subsections (d) and (f).
 
 (E) From subsection (e)(4)(I) of 5 U.S.C. 552a because to the extent that this provision is construed to require more detailed disclosure than the broad, generic information currently published in the system notice, an exemption from this provision is necessary to protect the confidentiality of sources of information and to protect privacy and physical safety of witnesses and informants.
+
+[84 FR 14730, Apr. 11, 2019, 88 FR 42236, June 30, 2023]

@@ -1,0 +1,3 @@
+##### § 2.601 When must a decision-maker respond to a request to act? #####
+
+A decision-maker receiving a request as specified in § 2.600 has 15 days from receiving the request to issue a written response. The response may be a decision, a procedural order that will further the decision-making process, or a written notice that a decision will be rendered by a date no later than 60 days from the date of the request.

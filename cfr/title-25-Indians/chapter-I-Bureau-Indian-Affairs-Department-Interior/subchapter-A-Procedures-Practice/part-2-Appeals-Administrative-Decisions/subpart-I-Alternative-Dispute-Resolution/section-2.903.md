@@ -1,0 +1,3 @@
+##### § 2.903 What will Indian Affairs do if I request alternative dispute resolution? #####
+
+If all interested parties concur, the reviewing official may stay (discontinue consideration of) the appeal while the parties pursue ADR. Where the parties agree to use ADR, Indian Affairs and other interested parties may seek assistance from the Department of the Interior's Office of Collaborative Action and Dispute Resolution (CADR). CADR can assist in planning and facilitating an effective collaboration or dispute resolution process. Parties are encouraged to consider best practices for engagement, including but not limited to, the use of neutral facilitation and other collaborative problem-solving approaches to promote effective dialogue and conflict resolution.

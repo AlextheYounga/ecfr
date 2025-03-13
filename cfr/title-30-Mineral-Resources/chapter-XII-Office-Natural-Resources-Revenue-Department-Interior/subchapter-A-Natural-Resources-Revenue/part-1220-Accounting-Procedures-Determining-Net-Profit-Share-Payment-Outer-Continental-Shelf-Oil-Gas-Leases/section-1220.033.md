@@ -1,7 +1,5 @@
 ##### § 1220.033 Audits. #####
 
-Link to an amendment published at 88 FR 53793, Aug. 9, 2023.
-
 (a) The accounts of an NPSL lessee or of a contractor of the lessee which are related to NPSL operations shall be subject to audit by DOI or its appointed agent. Where possible, the auditor for DOI shall coordinate audit efforts with other nonoperators, if any. DOI shall have the right to initiate an audit any time within thirty-six months of the due date of the monthly statement that is to be audited or the date that the statement was mailed, whichever is later, provided, however, that audits may not be conducted any more frequently than once every year except upon a showing of fraud or willful misrepresentation.
 
 (b)(1) When nonoperators of an NPSL lease call an audit in accordance with the terms of their operating agreement, the ONRR Director shall be notified of the audit call in the same manner as the operator is notified. DOI may elect to send an auditor with the audit team specified by the nonoperators in lieu of calling for a separate audit by DOI.
@@ -16,6 +14,6 @@ Link to an amendment published at 88 FR 53793, Aug. 9, 2023.
 
 (d) Upon receipt of an agreement by the government auditor that there are no required audit adjustments, upon final determination with respect to any audit adjustment proposed by the government auditor, or upon the lapse of thirty-six months from the due date or date of mailing of the statement of account on an NPSL lease, whichever comes later, the books shall be closed for audit adjustment purposes, except upon a showing of fraud or willful misrepresentation.
 
-(e) Records required to be kept under § 1220.030(a) shall be made available for inspection by any authorized agent of DOI at any time during normal business hours upon the request of the ONRR Director or other authorized official.
+(e) ONRR or its authorized agent may require you to provide records for the audit by one or more of the methods specified in 30 CFR 1217.10.
 
-[45 FR 36800, May 30, 1980, as amended at 75 FR 61087, Oct. 4, 2010]
+[45 FR 36800, May 30, 1980, as amended at 75 FR 61087, Oct. 4, 2010; 88 FR 53793, Aug. 9, 2023]

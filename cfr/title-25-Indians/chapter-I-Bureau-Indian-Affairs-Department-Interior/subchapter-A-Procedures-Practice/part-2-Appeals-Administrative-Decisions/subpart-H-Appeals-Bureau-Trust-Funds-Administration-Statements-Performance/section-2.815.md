@@ -1,0 +1,3 @@
+##### § 2.815 What information will the Decision on my Objection to the Statement of Performance contain? #####
+
+The Decision on your Objection to the Statement of Performance will contain an explanation as to whether the decision-maker agrees or disagrees with your Objection to the Statement of Performance. If the decision-maker agrees with your Objection to the Statement of Performance, a correction will be made and reflected on your Statement of Performance. If the decision-maker disagrees with your Objection to the Statement of Performance, the Decision will provide information about your right to appeal the Decision.

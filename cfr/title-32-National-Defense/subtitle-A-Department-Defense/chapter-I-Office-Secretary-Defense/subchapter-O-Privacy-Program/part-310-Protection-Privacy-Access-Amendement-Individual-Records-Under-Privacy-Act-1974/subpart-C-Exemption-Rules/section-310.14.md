@@ -1,7 +1,5 @@
 ##### § 310.14 Department of the Air Force exemptions. #####
 
-Link to an amendment published at 88 FR 42236, June 30, 2023.
-
 (a) All systems of records maintained by the Department of the Air Force shall be exempt from the requirements of 5 U.S.C. 552a(d) pursuant to 5 U.S.C. 552a(k)(1) to the extent that the system contains any information properly classified under Executive Order 12958 and that is required by Executive Order to be kept classified in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein, which contain isolated items of properly classified information.
 
 (b) An individual is not entitled to have access to any information compiled in reasonable anticipation of a civil action or proceeding (5 U.S.C. 552a(d)(5)).
@@ -94,41 +92,7 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (J) From subsection (g) because this system of records should be exempt to the extent that the civil remedies relate to provisions of 5 U.S.C. 552a from which this rule exempts the system.
 
-(7) *System identifier and name.* F051 AF JA F, Courts-Martial and Article 15 Records.
-
-(i) *Exemption.* (A) Parts of this system may be exempt pursuant to 5 U.S.C. 552a(j)(2) if the information is compiled and maintained by a component of the agency which performs as its principle function any activity pertaining to the enforcement of criminal laws. Therefore, portions of this system of records may be exempt pursuant to 5 U.S.C. 552a(j)(2) from the following subsection of 5 U.S.C. 552a(c)(3), (c)(4), (d), (e)(1), (e)(2), (e)(3), (e)(4)(G), (H) and (I), (e)(5), (e)(8), (f), and (g).
-
-(B) Investigatory material compiled for law enforcement purposes, other than material within the scope of subsection 5 U.S.C. 552a(j)(2), may be exempt pursuant to 5 U.S.C. 552a(k)(2). However, if an individual is denied any right, privilege, or benefit for which he would otherwise be entitled by Federal law or for which he would otherwise be eligible, as a result of the maintenance of the information, the individual will be provided access to the information exempt to the extent that disclosure would reveal the identity of a confidential source.
-
-Note 1 to paragraph (e)(7)(i)(B).
-
-When claimed, this exemption allows limited protection of investigative reports maintained in a system of records used in personnel or administrative actions. Therefore, portions of this system of records may be exempt pursuant to 5 U.S.C. 552a(k)(2) from the following subsections of 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G), (H) and (I), and (f).
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2) and (k)(2).
-
-(iii) *Reasons.* (A) From subsection (c)(3) because the release of the disclosure accounting, for disclosures pursuant to the routine uses published for this system, would permit the subject of a criminal investigation or matter under investigation to obtain valuable information concerning the nature of that investigation which will present a serious impediment to law enforcement.
-
-(B) From subsection (c)(4) because an exemption is being claimed for subsection (d), this subsection will not be applicable.
-
-(C) From subsection (d) because access to the records contained in this system would inform the subject of a criminal investigation of the existence of that investigation, provide the subject of the investigation with information that might enable him to avoid detection or apprehension, and would present a serious impediment to law enforcement.
-
-(D) From subsection (e)(1) because in the course of criminal investigations information is often obtained concerning the violation of laws or civil obligations of others not relating to an active case or matter. In the interests of effective law enforcement, it is necessary that this information be retained since it can aid in establishing patterns of activity and provide valuable leads for other agencies and future cases that may be brought.
-
-(E) From subsection (e)(2) because in a criminal investigation the requirement that information be collected to the greatest extent possible from the subject individual would present a serious impediment to law enforcement in that the subject of the investigation would be placed on notice of the existence of the investigation and would therefore be able to avoid detection.
-
-(F) From subsection (e)(3) because the requirement that individuals supplying information be provided with a form stating the requirements of subsection (e)(3) would constitute a serious impediment to law enforcement in that it could compromise the existence of a confidential investigation, reveal the identity of confidential sources of information and endanger the life and physical safety of confidential informants.
-
-(G) From subsections (e)(4)(G) and (H) because this system of records is exempt from individual access pursuant to subsections (j) and (k) of the Privacy Act of 1974.
-
-(H) From subsection (e)(4)(I) because the identity of specific sources must be withheld in order to protect the confidentiality of the sources of criminal and other law enforcement information. This exemption is further necessary to protect the privacy and physical safety of witnesses and informants.
-
-(I) From subsection (e)(5) because in the collection of information for law enforcement purposes it is impossible to determine in advance what information is accurate, relevant, timely, and complete. With the passage of time, seemingly irrelevant or untimely information may acquire new significance as further investigation brings new details to light and the accuracy of such information can only be determined in a court of law. The restrictions of subsection (e)(5) would restrict the ability of trained investigators and intelligence analysts to exercise their judgment in reporting on investigations and impede the development of intelligence necessary for effective law enforcement.
-
-(J) From subsection (e)(8) because the individual notice requirements of subsection (e)(8) could present a serious impediment to law enforcement as this could interfere with the ability to issue search authorizations and could reveal investigative techniques and procedures.
-
-(K) From subsection (f) because this system of records has been exempted from the access provisions of subsection (d).
-
-(L) From subsection (g) because this system of records is compiled for law enforcement purposes and has been exempted from the access provisions of subsections (d) and (f).
+(7) [Reserved]
 
 (8) *System identifier and name.* F071 JTF A, Computer Network Crime Case System.
 
@@ -330,23 +294,7 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (E) From subsection (e)(4)(I) because to the extent that this provision is construed to require more detailed disclosure than the broad, generic information currently published in the system notice, an exemption from this provision is necessary to protect the confidentiality of sources of information and to protect privacy and physical safety of witnesses and informants.
 
-(19) [Reserved]
-
-(20) *System identifier and name.* F033 AF A, Information Requests—Freedom of Information Act.
-
-(i) *Exemption.* During the processing of a Freedom of Information Act request, exempt materials from `other' systems of records may in turn become part of the case record in this system. To the extent that copies of exempt records from those other systems of records are entered into this system, the Department of the Air Force hereby claims the same exemptions for the records from those `other' systems that are entered into this system, as claimed for the original primary system of which they are a part.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1), (k)(2), (k)(3), (k)(4), (k)(5), (k)(6), and (k)(7).
-
-(iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record, and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, and to preserve the confidentiality and integrity of Federal evaluation materials. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
-
-(21) *System identifier and name.* F033 AF B, Privacy Act Request Files.
-
-(i) *Exemption.* During the processing of a Privacy Act request, exempt materials from other systems of records may in turn become part of the case record in this system. To the extent that copies of exempt records from those `other' systems of records are entered into this system, the Department of the Air Force hereby claims the same exemptions for the records from those `other' systems that are entered into this system, as claimed for the original primary system of which they are a part.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1), (k)(2), (k)(3), (k)(4), (k)(5), (k)(6), and (k)(7).
-
-(iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record, and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, and to preserve the confidentiality and integrity of Federal evaluation materials. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
+(19)-21 [Reserved]
 
 (22) *System identifier and name.* F051 AFJA E, Judge Advocate General's Professional Conduct Files.
 
@@ -422,4 +370,4 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record, and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, and to preserve the confidentiality and integrity of Federal evaluation materials. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 87 FR 37999, June 27, 2022]
+[84 FR 14730, Apr. 11, 2019, as amended at 87 FR 37999, June 27, 2022; 88 FR 42236, June 30, 2023]

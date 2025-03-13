@@ -1,0 +1,3 @@
+##### § 2.814 How long will the decision-maker have to issue a Decision on my Objection to the Statement of Performance? #####
+
+The decision-maker will have 30 calendar days from the date of receipt of your Basis of Objection to the Statement of Performance to issue a Decision on your Objection to the Statement of Performance. If your Basis of Objection is not received when you submit your Objection to the Statement of Performance and an extension of time was not asked for and granted, the decision-maker will dismiss your Objection to the Statement of Performance.

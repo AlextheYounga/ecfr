@@ -1,0 +1,3 @@
+##### § 2.508 May the AS-IA take jurisdiction over an appeal to the IBIA? #####
+
+Yes. The AS-IA has 40 days from the date on which the IBIA received your Notice of Appeal to take jurisdiction from the IBIA. The AS-IA will notify the IBIA in writing of the assumption of jurisdiction and request the administrative record of the appeal. At any time in the 40 days, the AS-IA may notify the IBIA that she or he is not going to take jurisdiction over an appeal, at which point the IBIA will assign a docket number to the appeal under its regulations in 43 CFR part 4. If the IBIA does not receive written notice from the AS-IA within the 40-day period of the AS-IA's intent to take jurisdiction over the appeal, the IBIA will assign a docket number to your appeal.

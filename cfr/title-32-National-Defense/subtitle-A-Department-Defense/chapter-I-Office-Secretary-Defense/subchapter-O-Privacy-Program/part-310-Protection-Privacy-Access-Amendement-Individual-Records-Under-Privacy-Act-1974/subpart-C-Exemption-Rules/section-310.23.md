@@ -1,7 +1,5 @@
 ##### § 310.23 Defense Threat Reduction Agency (DTRA) exemptions. #####
 
-Link to an amendment published at 88 FR 42236, June 30, 2023.
-
 (a) *Exemption for classified material.* All systems of records maintained by the Defense Threat Reduction Agency shall be exempt under section (k)(1) of 5 U.S.C. 552a, to the extent that the systems contain any information properly classified under E.O. 12598 and that is required by that E.O. to be kept secret in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein which contain isolated items of properly classified information.
 
 (1) *System identifier and name.* HDTRA 007, Security Operations.
@@ -28,10 +26,4 @@ Link to an amendment published at 88 FR 42236, June 30, 2023.
 
 (C) From subsection (e)(1), (e)(4)(G), (H), and (I) because it will provide protection against notification of investigatory material including certain reciprocal investigations and counterintelligence information, which might alert a subject to the fact that an investigation of that individual is taking place, and the disclosure of which would weaken the on-going investigation, reveal investigatory techniques, and place confidential informants in jeopardy who furnished information under an express promise that the sources' identity would be held in confidence (or prior to the effective date of the Act, under an implied promise).
 
-(3) *System identifier and name.* HDTRA 021, Freedom of Information Act and Privacy Act Request Case Files.
-
-(i) *Exemption.* During the processing of a Freedom of Information Act or Privacy Act request exempt materials from other systems of records may in turn become part of the case record in this system. To the extent that copies of exempt records from those `other' systems of records are entered into this system, the Defense Threat Reduction Agency claims the same exemptions for the records from those `other' systems that are entered into this system, as claimed for the original primary system of which they are a part.
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(1), (k)(2), (k)(3), (k)(4), (k)(5), (k)(6) and (k)(7).
-
-(iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, to preserve the confidentiality and integrity of Federal testing materials, and to safeguard evaluation materials used for military promotions when furnished by a confidential source. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
+[84 FR 14730, Apr. 11, 2019, as amended at 88 FR 42236, June 30, 2023]
