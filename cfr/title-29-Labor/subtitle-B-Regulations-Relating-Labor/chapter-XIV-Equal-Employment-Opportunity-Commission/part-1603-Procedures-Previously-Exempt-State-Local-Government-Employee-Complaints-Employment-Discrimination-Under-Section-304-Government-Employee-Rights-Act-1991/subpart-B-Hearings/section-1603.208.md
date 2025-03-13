@@ -1,5 +1,7 @@
 ##### § 1603.208 Motions. #####
 
+Link to an amendment published at 89 FR 47853, June 4, 2024.
+
 (a) All motions shall state the specific relief requested. All motions shall be in writing, except that a motion may be made orally during a conference or during the hearing. After providing an opportunity for response, the administrative law judge may rule on an oral motion immediately or may require that it be submitted in writing.
 
 (b) Unless otherwise directed by the administrative law judge, any other party may file a response in support of or in opposition to any written motion within ten (10) business days after service of the motion. If no response is filed within the response period, the party failing to respond shall be deemed to have waived any objection to the granting of the motion. The moving party shall have no right to reply to a response, unless the administrative law judge, in his or her discretion, orders that a reply be filed.

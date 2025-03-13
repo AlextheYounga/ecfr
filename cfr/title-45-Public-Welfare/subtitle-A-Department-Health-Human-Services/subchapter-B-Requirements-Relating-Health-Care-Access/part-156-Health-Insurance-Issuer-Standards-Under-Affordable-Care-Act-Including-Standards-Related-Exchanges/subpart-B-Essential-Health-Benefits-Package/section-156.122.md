@@ -1,7 +1,5 @@
 ##### § 156.122 Prescription drug benefits. #####
 
-Link to an amendment published at 89 FR 26425, Apr. 15, 2024.
-
 (a) A health plan does not provide essential health benefits unless it:
 
 (1) Subject to the exception in paragraph (b) of this section, covers at least the greater of:
@@ -23,6 +21,20 @@ Link to an amendment published at 89 FR 26425, Apr. 15, 2024.
 (C) Prohibit any member with a conflict of interest with respect to the issuer or a pharmaceutical manufacturer from voting on any matters for which the conflict exists.
 
 (D) Require at least 20 percent of its membership to have no conflict of interest with respect to the issuer and any pharmaceutical manufacturer.
+
+(E) For plan years beginning on or after January 1, 2026, include at minimum one patient representative who must:
+
+(*1*) Represent the patient perspective as a member of the P&T committee.
+
+(*2*) Have relevant experience or participation in patient or community-based organizations.
+
+(*3*) Be able to demonstrate the ability to integrate data interpretations with practical patient considerations.
+
+(*4*) Have no fiduciary obligation to a health facility or other health agency and have no material financial interest in the rendering of health services.
+
+(*5*) Have a broad understanding of one or more conditions or diseases, associated treatment options, and research.
+
+(*6*) Disclose financial interests on their conflict-of-interest statements. Disclosed financial interests must include all interests with any entity that would benefit from decisions regarding plan formularies as well as specific information about their financial interests, such as the nature of the relationship and the value of the financial interest.
 
 (ii) *Meeting standards.* The P&T committee must:
 
@@ -110,4 +122,6 @@ Link to an amendment published at 89 FR 26425, Apr. 15, 2024.
 
 (2) A health plan may charge enrollees a different cost-sharing amount for obtaining a covered drug at a retail pharmacy, but all cost sharing will count towards the plan's annual limitation on cost sharing under § 156.130 and must be accounted for in the plan's actuarial value calculated under § 156.135.
 
-[78 FR 12866, Feb. 25, 2013, as amended at 79 FR 30350, May 27, 2014; 80 FR 10871, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 81 FR 53032, Aug. 11, 2016]
+(f) If a health plan covers prescription drugs in excess of the prescription drugs required to be covered under paragraph (a)(1) of this section, the additional prescription drugs are considered an essential health benefit and subject to requirements including the annual limitation on cost sharing and the restriction on annual and lifetime dollar limits, unless coverage of the drug is mandated by State action and is in addition to an essential health benefit pursuant to § 155.170, in which case the drug would not be considered an essential health benefit.
+
+[78 FR 12866, Feb. 25, 2013, as amended at 79 FR 30350, May 27, 2014; 80 FR 10871, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 81 FR 53032, Aug. 11, 2016; 89 FR 26425, Apr. 15, 2024]

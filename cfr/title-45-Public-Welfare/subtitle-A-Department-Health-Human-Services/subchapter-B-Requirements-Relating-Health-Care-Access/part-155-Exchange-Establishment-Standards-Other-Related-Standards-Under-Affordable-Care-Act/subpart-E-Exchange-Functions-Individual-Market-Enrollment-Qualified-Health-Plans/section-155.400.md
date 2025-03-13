@@ -1,7 +1,5 @@
 ##### § 155.400 Enrollment of qualified individuals into QHPs. #####
 
-Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
-
 (a) *General requirements.* The Exchange must accept a QHP selection from an applicant who is determined eligible for enrollment in a QHP in accordance with subpart D, and must—
 
 (1) Notify the issuer of the applicant's selected QHP; and
@@ -30,7 +28,7 @@ Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
 
 (iii) For coverage to be effectuated under retroactive effective dates, as provided for in § 155.420(b)(2), including when retroactive effective dates are due to a delay until after special enrollment period verification, the binder payment must consist of the premium due for all months of retroactive coverage through the first prospective month of coverage, and the deadline for making the binder payment must be no earlier than 30 calendar days from the date the issuer receives the enrollment transaction. If only the premium for 1 month of coverage is paid, only prospective coverage should be effectuated, in accordance with § 155.420(b)(3).
 
-(2) *Premium payment deadline extension.* Exchanges may, and the Federally-facilitated Exchanges and State-Based Exchanges on the Federal Platform will, allow issuers experiencing billing or enrollment problems due to high volume or technical errors to implement a reasonable extension of the binder payment deadlines in paragraph (e)(1) of this section.
+(2) *Premium payment deadline extension.* Exchanges may, and the Federally-facilitated Exchanges and State-based Exchanges on the Federal platform will, allow issuers experiencing billing or enrollment problems due to high volume or technical errors, or issuers directed to do so by applicable State or Federal authorities, to implement a reasonable extension of the binder payment and other premium payment deadlines.
 
 (f) *Processing enrollment transactions.* The Exchange may provide requirements to QHP issuers regarding the instructions for processing electronic enrollment-related transactions.
 
@@ -44,4 +42,4 @@ Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
 
 (h) *Requirements.* A State Exchange may rely on HHS to carry out the requirements of this section and other requirements contained within this subpart through a Federal platform agreement.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94177, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 85 FR 29260, May 14, 2020]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94177, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 85 FR 29260, May 14, 2020; 89 FR 26423, Apr. 15, 2024]

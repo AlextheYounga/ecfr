@@ -1,7 +1,5 @@
 ##### § 155.330 Eligibility redetermination during a benefit year. #####
 
-Link to an amendment published at 89 FR 26422, Apr. 15, 2024.
-
 (a) *General requirement.* The Exchange must redetermine the eligibility of an enrollee in a QHP through the Exchange during the benefit year if it receives and verifies new information reported by an enrollee or identifies updated information through the data matching described in paragraph (d) of this section.
 
 (b) *Requirement for individuals to report changes.* (1) Except as specified in paragraphs (b)(2) and (3) of this section, the Exchange must require an enrollee to report any change with respect to the eligibility standards specified in § 155.305 within 30 days of such change.
@@ -30,7 +28,11 @@ Link to an amendment published at 89 FR 26422, Apr. 15, 2024.
 
 (ii) Comply with the standards specified in paragraph (e)(2) of this section.
 
-(3) *Definition of periodically.* Beginning with the 2021 calendar year, the Exchange must perform the periodic examination of data sources described in paragraph (d)(1)(ii) of this section at least twice in a calendar year. State Exchanges that have implemented a fully integrated eligibility system with their respective State Medicaid programs, that have a single eligibility rules engine that uses MAGI to determine eligibility for advance payments of the premium tax credit, cost-sharing reductions, Medicaid, CHIP, and the BHP, if a BHP is operating in the service area of the Exchange, will be deemed in compliance with the Medicaid/CHIP PDM requirements and, if applicable, BHP PDM requirements, in paragraphs (d)(1)(ii) and (d)(3) of this section.
+(3) *Definition of periodically.* (i) Beginning with the 2021 calendar year, the Exchange must perform the periodic examination of data sources described in paragraphs (d)(1)(ii) of this section at least twice in a calendar year. State Exchanges that have implemented a fully integrated eligibility system with their respective State Medicaid programs, that have a single eligibility rules engine that uses MAGI to determine eligibility for advance payments of the premium tax credit, cost-sharing reductions, Medicaid, CHIP, and the BHP, if a BHP is operating in the service area of the Exchange, will be deemed in compliance with the Medicaid/CHIP PDM requirements and, if applicable, BHP PDM requirements, in paragraphs (d)(1)(ii) and (d)(3) of this section.
+
+(ii) Beginning with the 2025 calendar year, the Exchange must perform the periodic examination of data sources described in paragraph (d)(1)(i) of this section at least twice in a calendar year.
+
+(iii) Notwithstanding the requirements of paragraphs (d)(3)(i) and (ii) of this section, the Secretary has authority to temporarily suspend the requirement that Exchanges conduct the PDM processes described at paragraph (d)(3)(i) or (ii) of this section during certain situations or circumstances that leads to the limited availability of data needed to conduct PDM or of documentation needed for an enrollee to notify the Exchange that the result of PDM is inaccurate as described in paragraph (e)(2)(i)(C) of this section.
 
 (e) *Redetermination and notification of eligibility*—(1) *Enrollee-reported data.* If the Exchange verifies updated information reported by an enrollee, the Exchange must—
 
@@ -92,4 +94,4 @@ Link to an amendment published at 89 FR 26422, Apr. 15, 2024.
 
 (2) When an eligibility redetermination in accordance with this section results in a change in cost-sharing reductions, the Exchange must determine an individual eligible for the category of cost-sharing reductions that corresponds to his or her expected annual household income for the benefit year (subject to the special rule for family policies set forth in § 155.305(g)(3)).
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42318, July 15, 2013; 79 FR 30347, May 27, 2014; 79 FR 53005, Sept. 5, 2014; 81 FR 94177, Dec. 22, 2016; 84 FR 71710, Dec. 27, 2019; 85 FR 29259, May 14, 2020]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42318, July 15, 2013; 79 FR 30347, May 27, 2014; 79 FR 53005, Sept. 5, 2014; 81 FR 94177, Dec. 22, 2016; 84 FR 71710, Dec. 27, 2019; 85 FR 29259, May 14, 2020; 89 FR 26422, Apr. 15, 2024]

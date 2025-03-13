@@ -4,7 +4,7 @@ Upon approval of a local zoning ordinance, a private property owner may apply to
 
 (a) A property owner shall submit an application for a certificate to:
 
-Superintendent,Fire Island National Seashore,120 Laurel Street,Patchogue, New York 11772.
+Superintendent, Fire Island National Seashore, 120 Laurel Street, Patchogue, New York 11772.
 
 (b) An application for a certificate shall contain:
 

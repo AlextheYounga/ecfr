@@ -18,6 +18,6 @@
 
 (b) *Aircraft.* The operation of aircraft is allowed on the entire water surface of Diablo Lake and Ross Lake, except that operating an aircraft under power on water surface areas within 1,000 feet of Diablo Dam or Ross Dam or on those posted as closed for fish spawning is prohibited.
 
-(c) *Weapons.* The following location is designated for target practice between the hours of sunrise and sunset, subject to all applicable Federal, State, and local laws: in the SE1/4 of sec. 19, and the NE1/4 of sec. 30, T. 37 N., R. 12 E., WM, approximately 200 yards northwest of State Route 20 near mile marker 119, the area known as the Newhalem rifle range.
+(c) *Weapons.* The following location is designated for target practice between the hours of sunrise and sunset, subject to all applicable Federal, State, and local laws: in the SE 1/4 of sec. 19, and the NE 1/4 of sec. 30, T. 37 N., R. 12 E., WM, approximately 200 yards northwest of State Route 20 near mile marker 119, the area known as the Newhalem rifle range.
 
 [49 FR 19652, May 9, 1984, as amended at 50 FR 51856, Dec. 20, 1985; 54 FR 48869, Nov. 28, 1989]

@@ -1,7 +1,5 @@
 ##### § 33.120 Monitoring and compliance. #####
 
-Link to an amendment published at 89 FR 26418, Apr. 15, 2024.
-
 (a) *General.* (1) Following the issuance of a final decision to approve a section 1332 waiver by the Secretary and the Secretary of Health and Human Services, as applicable, a State must comply with all applicable Federal laws and regulations, unless expressly waived. A State must, within the timeframes specified in law and regulation come into compliance with any changes in Federal law and regulation affecting section 1332 waivers, unless the provision being changed is expressly waived.
 
 (2) The Secretary and the Secretary of Health and Human Services will examine compliance with Federal and regulatory requirements consistent with § 155.1308(f)(3)(iv) when conducting implementation reviews under paragraph (b) of this section.
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 26418, Apr. 15, 2024.
 
 (3) The Secretary and the Secretary of Health and Human Services will promptly share with a State any complaint that the Secretary and the Secretary of Health and Human Services has received and will also provide notification of any applicable monitoring and compliance issues.
 
-(c) *Post award.* Within 6 months after the implementation date of a section 1332 waiver and annually thereafter, a State must hold a public forum to solicit comments on the progress of a section 1332 waiver. The State must hold the public forum at which members of the public have an opportunity to provide comments and must provide a summary of the forum to the Secretary of Health and Human Services as part of the quarterly report specified in § 33.124(a) that is associated with the quarter in which the forum was held, as well as in the annual report specified in § 33.124(b) that is associated with the year in which the forum was held.
+(c) *Post award.* Within at least 6 months after the implementation date of a section 1332 waiver and annually thereafter, a State must hold a public forum to solicit comments on the progress of a section 1332 waiver. The State must hold the public forum at which members of the public have an opportunity to provide comments and must provide a summary of the forum to the Secretary as part of the quarterly report specified in § 33.124(a) that is associated with the quarter in which the forum was held, as well as in the annual report specified in § 33.124(b) that is associated with the year in which the forum was held. The public forum shall be conducted in an in-person, virtual (that is, one that uses telephonic, digital, and/or web-based platforms), or hybrid (that is, one that provides for both in-person and virtual attendance) format.
 
 (1) *Notification requirements for public forum.* The State must publish the date, time, and location of the public forum in a prominent location on the State's public Web site, at least 30 days prior to the date of the planned public forum.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 89 FR 26418, Apr. 15, 2024.
 
 (2) As part of this required cooperation, a State must submit all requested data and information to the Secretary, the Secretary of Health and Human Services, or the independent evaluator.
 
-[77 FR 11715, Feb. 27, 2012, as amended at 85 FR 71196, Nov. 6, 2020; 86 FR 53502, Sept. 27, 2021]
+[77 FR 11715, Feb. 27, 2012, as amended at 85 FR 71196, Nov. 6, 2020; 86 FR 53502, Sept. 27, 2021; 89 FR 26418, Apr. 15, 2024]

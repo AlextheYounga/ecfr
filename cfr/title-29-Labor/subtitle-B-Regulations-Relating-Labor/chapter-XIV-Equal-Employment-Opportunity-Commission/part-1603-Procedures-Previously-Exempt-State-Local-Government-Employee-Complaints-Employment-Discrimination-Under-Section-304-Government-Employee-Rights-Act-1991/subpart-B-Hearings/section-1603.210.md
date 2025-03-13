@@ -1,5 +1,7 @@
 ##### § 1603.210 Discovery. #####
 
+Link to an amendment published at 89 FR 47853, June 4, 2024.
+
 (a) Unless otherwise ordered by the administrative law judge, discovery may begin as soon as the complaint has been transmitted to the administrative law judge pursuant to § 1603.201. Discovery shall be completed as expeditiously as possible within such time as the administrative law judge directs.
 
 (b) Unless otherwise ordered by the administrative law judge, parties may obtain discovery by written interrogatories (not to exceed 20 interrogatories including subparts), depositions upon oral examination or written questions, requests for production of documents or things for inspection or other purposes, requests for admission or any other method found reasonable and appropriate by the administrative law judge.

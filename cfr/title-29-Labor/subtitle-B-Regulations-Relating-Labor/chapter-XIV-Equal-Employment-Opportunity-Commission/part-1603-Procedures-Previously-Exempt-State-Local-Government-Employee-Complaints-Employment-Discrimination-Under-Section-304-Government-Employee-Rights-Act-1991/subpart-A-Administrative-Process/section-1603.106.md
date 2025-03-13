@@ -1,5 +1,7 @@
 ##### § 1603.106 Computation of time. #####
 
+Link to an amendment published at 89 FR 47852, June 4, 2024.
+
 (a) All time periods in this part that are stated in terms of days are calendar days unless otherwise stated.
 
 (b) A document shall be deemed timely if it is delivered by facsimile not exceeding 20 pages, in person or postmarked before the expiration of the applicable filing period, or, in the absence of a legible postmark, if it is received by mail within five days of the expiration of the applicable filing period.

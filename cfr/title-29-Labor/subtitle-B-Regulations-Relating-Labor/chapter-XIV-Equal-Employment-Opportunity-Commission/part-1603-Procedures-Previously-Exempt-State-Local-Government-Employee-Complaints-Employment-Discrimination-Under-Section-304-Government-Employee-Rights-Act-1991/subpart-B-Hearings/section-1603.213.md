@@ -1,5 +1,7 @@
 ##### § 1603.213 Interlocutory review. #####
 
+Link to an amendment published at 89 FR 47853, June 4, 2024.
+
 (a) Interlocutory review may not be sought except when the administrative law judge determines upon motion of a party or upon his or her own motion that:
 
 (1) The ruling involves a controlling question of law or policy about which there is substantial ground for difference of opinion;

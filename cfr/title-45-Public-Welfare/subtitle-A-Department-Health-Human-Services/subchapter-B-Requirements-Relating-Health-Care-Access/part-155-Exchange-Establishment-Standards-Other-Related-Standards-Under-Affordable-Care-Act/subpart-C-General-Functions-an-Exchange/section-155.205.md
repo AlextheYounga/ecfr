@@ -1,12 +1,6 @@
 ##### § 155.205 Consumer assistance tools and programs of an Exchange. #####
 
-Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
-
-(a) *Call center.* The Exchange must provide for operation of a toll-free call center that addresses the needs of consumers requesting assistance and meets the requirements outlined in paragraphs (c)(1), (2)(i), and (3) of this section, unless it is an Exchange described in paragraphs (a)(1) or (2) of this section, in which case, the Exchange must provide at a minimum a toll-free telephone hotline that includes the capability to provide information to consumers about eligibility and enrollment processes, and to appropriately direct consumers to the applicable Exchange website and other applicable resources.
-
-(1) An Exchange described in this paragraph is one that enters into a Federal platform agreement through which it relies on HHS to operate its eligibility and enrollment functions, as applicable.
-
-(2) An Exchange described in this paragraph is a SHOP that does not provide for enrollment in SHOP coverage through an online SHOP enrollment platform, but rather provides for enrollment through SHOP issuers or agents and brokers registered with the Exchange.
+(a) *Call center.* If the Exchange is not an Exchange described in paragraph (a)(1) or (2) of this section, the Exchange must provide for operation of a toll-free call center that addresses the needs of consumers requesting assistance and meets the requirements outlined in paragraphs (c)(1), (c)(2)(i), and (c)(3) of this section and at § 155.405(c)(2)(ii). At a minimum, the Exchange call center must provide consumers with access to a live call center representative during an Exchange's published hours of operation and a live call center representative who must be able to assist consumers with filing their Exchange application, including providing consumers with information on their eligibility for advance premium tax credits and cost-sharing reductions, facilitating a consumer's comparison of QHPs, and helping consumers complete their Exchange applications for submission to the Exchange. If the Exchange is an Exchange described in paragraph (a)(1) or (2) of this section, the Exchange must provide at a minimum a toll-free telephone hotline that includes the capability to provide information to consumers about eligibility and enrollment processes, and to appropriately direct consumers to the applicable Exchange website and other applicable resources.
 
 (b) *Internet Web site.* The Exchange must maintain an up-to-date Internet Web site that meets the requirements outlined in paragraph (c) of this section and:
 
@@ -42,9 +36,9 @@ Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
 
 (3) Provides applicants with information about Navigators as described in § 155.210 and other consumer assistance services, including the toll-free telephone number of the Exchange call center required in paragraph (a) of this section.
 
-(4) Allows for an eligibility determination to be made in accordance with subpart D of this part.
+(4) Allows for an individual to submit a single streamlined eligibility application to the Exchange in accordance with § 155.405 and for the Exchange to make all determinations of eligibility for enrollment in a QHP and insurance affordability programs, in accordance with subpart D of this part, through the operation of a centralized eligibility and enrollment platform on the Exchange's website; or, if the Exchange is a State-based Exchange on the Federal platform, through the Federal eligibility and enrollment platform.
 
-(5) Allows a qualified individual to select a QHP in accordance with subpart E of this part.
+(5) Allows a qualified individual to select a QHP and allows the Exchange to maintain records of all QHP enrollments, in accordance with subpart E of this part, through the operation of a centralized eligibility and enrollment platform on the Exchange's website; or, if the Exchange is a State-based Exchange on the Federal platform, through the Federal eligibility and enrollment platform.
 
 (6) Makes available by electronic means a calculator to facilitate the comparison of available QHPs after the application of any advance payments of the premium tax credit and any cost-sharing reductions.
 
@@ -86,4 +80,4 @@ Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
 
 (e) *Outreach and education.* The Exchange must conduct outreach and education activities that meet the standards in paragraph (c) of this section to educate consumers about the Exchange and insurance affordability programs to encourage participation.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42859, July 17, 2013; 80 FR 10864, Feb. 27, 2015; 81 FR 12337, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 86 FR 24288, May 5, 2021]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42859, July 17, 2013; 80 FR 10864, Feb. 27, 2015; 81 FR 12337, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 86 FR 24288, May 5, 2021; 89 FR 26419, Apr. 15, 2024]

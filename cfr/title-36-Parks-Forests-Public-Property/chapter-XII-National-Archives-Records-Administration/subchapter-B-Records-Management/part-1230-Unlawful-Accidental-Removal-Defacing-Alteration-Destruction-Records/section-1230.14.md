@@ -1,7 +1,6 @@
 ##### § 1230.14 How do agencies report incidents? #####
 
-The agency must report promptly any unlawful or accidental removal, defacing, alteration, or destruction of records in the custody of that agency to
-NARA, by mail at National Archives and Records Administration; Office of the Chief Records Officer (AC); 8601 Adelphi Road; College Park, MD 20740-6001, or by email at *RM.Communications@nara.gov.*
+The agency must report promptly any unlawful or accidental removal, defacing, alteration, or destruction of records in the custody of that agency to NARA, by mail at National Archives and Records Administration; Office of the Chief Records Officer (AC); 8601 Adelphi Road; College Park, MD 20740-6001, or by email at *RM.Communications@nara.gov.*
 
 (a) The report must include:
 

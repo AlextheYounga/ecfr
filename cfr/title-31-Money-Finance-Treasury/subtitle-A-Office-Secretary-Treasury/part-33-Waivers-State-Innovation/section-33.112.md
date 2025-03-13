@@ -1,7 +1,5 @@
 ##### § 33.112 State public notice requirements. #####
 
-Link to an amendment published at 89 FR 26418, Apr. 15, 2024.
-
 (a) *General.* (1) Prior to submitting an application for a new section 1332 waiver to the Secretary of Health and Human Services for review and consideration, a State must provide a public notice and comment period sufficient to ensure a meaningful level of public input for the application for a section 1332 waiver.
 
 (2) Such public notice and comment period shall include, for a State with one or more Federally-recognized Indian tribes within its borders, a separate process for meaningful consultation with such tribes.
@@ -20,4 +18,8 @@ Link to an amendment published at 89 FR 26418, Apr. 15, 2024.
 
 (2) Such public hearings shall provide an interested party the opportunity to learn about and comment on the contents of the application for a section 1332 waiver.
 
+(3) Such public hearings shall be conducted in an in-person, virtual (that is, one that uses telephonic, digital, and/or web-based platforms), or hybrid (that is, one that provides for both in-person and virtual attendance) format.
+
 (d) *Submission of initial application.* After the State public notice and comment period has concluded, the State may submit an application to the Secretary of Health and Human Services for an initial waiver in accordance with the requirements set forth in § 33.108.
+
+[77 FR 11715, Feb. 27, 2012, as amended at 89 FR 26418, Apr. 15, 2024]

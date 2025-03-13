@@ -1,5 +1,7 @@
 ##### § 7.58 Cape Hatteras National Seashore. #####
 
+Link to an amendment published at 89 FR 47868, June 4, 2024.
+
 (a) *Hunting.* (1) Lands within the Seashore on which hunting is legally permitted are designated as follows:
 
 (i) Ocracoke Island, except Ocracoke village.

@@ -1,7 +1,5 @@
 ##### § 155.430 Termination of Exchange enrollment or coverage. #####
 
-Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
-
 (a) *General requirements.* The Exchange must determine the form and manner in which enrollment in a QHP through the Exchange may be terminated.
 
 (b) *Termination events*—(1) *Enrollee-initiated terminations.* (i) The Exchange must permit an enrollee to terminate his or her coverage or enrollment in a QHP through the Exchange, including as a result of the enrollee obtaining other minimum essential coverage. To the extent the enrollee has the right to terminate the coverage under applicable State laws, including “free look” cancellation laws, the enrollee may do so, in accordance with such laws.
@@ -10,13 +8,15 @@ Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
 
 (iii) The Exchange must establish a process to permit individuals, including enrollees' authorized representatives, to report the death of an enrollee for purposes of initiating termination of the enrollee's Exchange enrollment. The Exchange may require the reporting party to submit documentation of the death. Any applicable premium refund, or premium due, must be processed by the deceased enrollee's QHP in accordance with State law.
 
-(iv) The Exchange must permit an enrollee to retroactively terminate or cancel his or her coverage or enrollment in a QHP in the following circumstances:
+(iv) The Exchange must permit an enrollee to retroactively terminate or cancel the enrollee's coverage or enrollment in a QHP in the following circumstances:
 
 (A) The enrollee demonstrates to the Exchange that he or she attempted to terminate his or her coverage or enrollment in a QHP and experienced a technical error that did not allow the enrollee to terminate his or her coverage or enrollment through the Exchange, and requests retroactive termination within 60 days after he or she discovered the technical error.
 
 (B) The enrollee demonstrates to the Exchange that his or her enrollment in a QHP through the Exchange was unintentional, inadvertent, or erroneous and was the result of the error or misconduct of an officer, employee, or agent of the Exchange or HHS, its instrumentalities, or a non-Exchange entity providing enrollment assistance or conducting enrollment activities. Such enrollee must request cancellation within 60 days of discovering the unintentional, inadvertent, or erroneous enrollment. For purposes of this paragraph (b)(1)(iv)(B), misconduct includes the failure to comply with applicable standards under this part, part 156 of this subchapter, or other applicable Federal or State requirements as determined by the Exchange.
 
 (C) The enrollee demonstrates to the Exchange that he or she was enrolled in a QHP without his or her knowledge or consent by any third party, including third parties who have no connection with the Exchange, and requests cancellation within 60 days of discovering of the enrollment.
+
+(D) In a Federally-facilitated Exchange or a State-based Exchange on the Federal platform, if HHS elects to permit such terminations, and in a State Exchange that elects to permit such terminations, the enrollee demonstrates to the Exchange that the enrollee enrolled in Medicare Part A or B coverage with a retroactive effective date, and requests retroactive termination of QHP coverage within 60 days of the enrollment. The effective date of the retroactive termination must be no earlier than the later of the day before the first day of coverage under Medicare Part A or B, and the day that is six months before the retroactive termination in QHP coverage is requested. A retroactive termination date as described in this paragraph is not available for enrollments in stand-alone dental plans.
 
 (2) *Exchange-initiated terminations.* The Exchange may initiate termination of an enrollee's enrollment in a QHP through the Exchange, and must permit a QHP issuer to terminate such coverage or enrollment, in the following circumstances:
 
@@ -98,4 +98,4 @@ Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
 
 (3) *Reinstatement.* A reinstatement is a correction of an erroneous termination or cancellation action and results in restoration of an enrollment with no break in coverage.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42322, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10867, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 83 FR 17063, Apr. 17, 2018; 85 FR 29260, May 14, 2020; 88 FR 25920, Apr. 27, 2023]
+[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42322, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10867, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 83 FR 17063, Apr. 17, 2018; 85 FR 29260, May 14, 2020; 88 FR 25920, Apr. 27, 2023; 89 FR 26423, Apr. 15, 2024]

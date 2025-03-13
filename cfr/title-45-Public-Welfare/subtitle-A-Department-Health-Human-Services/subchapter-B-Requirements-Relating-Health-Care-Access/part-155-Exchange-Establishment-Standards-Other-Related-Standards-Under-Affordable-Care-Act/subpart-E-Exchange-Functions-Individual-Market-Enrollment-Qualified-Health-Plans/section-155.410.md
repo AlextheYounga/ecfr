@@ -1,7 +1,5 @@
 ##### § 155.410 Initial and annual open enrollment periods. #####
 
-Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
-
 (a) *General requirements.* (1) The Exchange must provide an initial open enrollment period and annual open enrollment periods consistent with this section, during which qualified individuals may enroll in a QHP and enrollees may change QHPs.
 
 (2) The Exchange may only permit a qualified individual to enroll in a QHP or an enrollee to change QHPs during the initial open enrollment period specified in paragraph (b) of this section, the annual open enrollment period specified in paragraph (e) of this section, or a special enrollment period described in § 155.420 of this subpart for which the qualified individual has been determined eligible.
@@ -40,9 +38,11 @@ Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
 
 (4) For the benefit years beginning on or after January 1, 2022—
 
-(i) Subject to paragraph (e)(4)(ii) of this section, the annual open enrollment period begins on November 1 of the calendar year preceding the benefit year and extends through January 15 of the benefit year.
+(i) Subject to paragraphs (e)(4)(ii) and (iii) of this section, the annual open enrollment period begins on November 1 of the calendar year preceding the benefit year and extends through January 15 of the benefit year.
 
-(ii) For State Exchanges not utilizing the Federal platform, for the benefit years beginning on or after January 1, 2022, an alternative annual open enrollment period end date may be adopted, provided the end date is no earlier than December 15 of the calendar year preceding the benefit year.
+(ii) For State Exchanges, for the benefit years beginning on or after January 1, 2025, a later annual open enrollment period end date may be adopted, such that the open enrollment period begins on November 1 of the calendar year preceding the benefit year and ends after January 15 of the benefit year.
+
+(iii) For any State Exchange with an annual open enrollment period that began before November 1, 2023, and ended before January 15, 2024, for the 2024 benefit year, that State Exchange may continue to begin open enrollment before November 1 for consecutive future benefit years, so long as the open enrollment period continues uninterrupted for at least 11 weeks. If such State Exchange changes the date(s) of their annual open enrollment period, it must comply with paragraphs (e)(4)(i) and (ii) for all future annual open enrollment periods.
 
 (f) *Effective date.* (1) For the benefit year beginning on January 1, 2015, the Exchange must ensure coverage is effective—
 
@@ -76,4 +76,4 @@ Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
 
 (g) *Automatic enrollment.* The Exchange may automatically enroll qualified individuals, at such time and in such manner as HHS may specify, and subject to the Exchange demonstrating to HHS that it has good cause to perform such automatic enrollments.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 76218, Dec. 17, 2013; 79 FR 13838, Mar. 11, 2014; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 82 FR 18381, Apr. 18, 2017; 86 FR 53503, Sept. 27, 2021]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 76218, Dec. 17, 2013; 79 FR 13838, Mar. 11, 2014; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 82 FR 18381, Apr. 18, 2017; 86 FR 53503, Sept. 27, 2021; 89 FR 26423, Apr. 15, 2024]

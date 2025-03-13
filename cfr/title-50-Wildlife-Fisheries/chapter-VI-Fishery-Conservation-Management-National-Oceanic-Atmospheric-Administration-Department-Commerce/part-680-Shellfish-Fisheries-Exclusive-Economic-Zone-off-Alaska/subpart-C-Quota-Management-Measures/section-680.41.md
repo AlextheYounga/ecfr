@@ -1,5 +1,7 @@
 ##### § 680.41 Transfer of QS, PQS, IFQ and IPQ. #####
 
+Link to an amendment published at 89 FR 47877, June 4, 2024.
+
 (a) *General.* (1) Transfer of crab QS, PQS, IFQ, or IPQ means any transaction, approved by NMFS, requiring QS or PQS, or the use thereof in the form of IFQ or IPQ, to pass from one person to another, permanently or for a fixed period of time, except that:
 
 (2) A crab IFQ hired master permit issued by NMFS, as described in § 680.4, is not a transfer of crab QS or IFQ; and

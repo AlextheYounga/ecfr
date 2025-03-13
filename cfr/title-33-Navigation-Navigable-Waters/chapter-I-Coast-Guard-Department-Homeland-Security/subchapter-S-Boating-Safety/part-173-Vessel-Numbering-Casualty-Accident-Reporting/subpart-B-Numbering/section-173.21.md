@@ -1,5 +1,7 @@
 ##### § 173.21 Certificate of number required. #####
 
+Link to an amendment published at 89 FR 47863, June 4, 2024.
+
 (a) Except as provided in §§ 173.13 and 173.17, no person may operate a vessel to which this part applies unless it has on board:
 
 (1) A valid certificate of number or temporary certificate for that vessel issued by the issuing authority in the State in which the vessel is principally operated; or

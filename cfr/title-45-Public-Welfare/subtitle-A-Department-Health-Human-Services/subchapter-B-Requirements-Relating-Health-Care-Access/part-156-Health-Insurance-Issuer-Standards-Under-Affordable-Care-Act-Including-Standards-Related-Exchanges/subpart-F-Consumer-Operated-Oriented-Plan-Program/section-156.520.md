@@ -1,7 +1,5 @@
 ##### § 156.520 Loan terms. #####
 
-Link to an amendment published at 89 FR 26426, Apr. 15, 2024.
-
 (a) *Overview of Loans.* Applicants may apply for the following loans under this section: Start-up Loans and Solvency Loans.
 
 (1) *Use of loans.* All loans awarded under this subpart must be used in a manner that is consistent with the FOA, the loan agreement, and all other statutory, regulatory, or other requirements.
@@ -34,6 +32,8 @@ Link to an amendment published at 89 FR 26426, Apr. 15, 2024.
 
 (3) If a plan offered by a loan recipient is deemed to be certified to participate in the Exchanges or loses its deemed status and is no longer certified to participate in the Exchanges, CMS or an entity designated by CMS will provide notice to the Exchanges in which the loan recipient offers CO-OP qualified health plans.
 
-(f) *Conversions.* The loan recipient shall not convert or sell to a for-profit or non-consumer operated entity at any time after receiving a loan under this subpart. The loan recipient shall not undertake any transaction that would result in the CO-OP implementing a governance structure that does not meet the standards in this subpart.
+(f) *Conversions and voluntary terminations.* (1) The loan recipient shall not convert or sell to a for-profit or non-consumer operated entity at any time after receiving a loan under this subpart. The loan recipient shall not undertake any transaction that would result in the CO-OP implementing a governance structure that does not meet the standards in this subpart.
 
-[76 FR 77411, Dec. 13, 2011, as amended at 77 FR 18474, Mar. 27, 2012]
+(2) CMS may, in its sole discretion, approve a request by a loan recipient to voluntarily terminate its loan agreement with CMS, and cease to constitute a QNHII, for the purpose of permitting a loan recipient to pursue innovative business plans that are not otherwise consistent with the requirements of this subpart, provided that all outstanding CO-OP loans issued to the loan recipient are repaid in full prior to termination of the loan agreement, and CMS believes granting the request would meaningfully enhance consumer access to quality, affordable, member-focused, non-profit health care options in affected markets.
+
+[76 FR 77411, Dec. 13, 2011, as amended at 77 FR 18474, Mar. 27, 2012; 89 FR 26426, Apr. 15, 2024]

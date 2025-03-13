@@ -1,16 +1,16 @@
 ##### § 155.105 Approval of a State Exchange. #####
 
-Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
-
 (a) *State Exchange approval requirement.* Each State Exchange must be approved by HHS by no later than January 1, 2013 to offer QHPs on January 1, 2014, and thereafter required in accordance with § 155.106. HHS may consult with other Federal Government agencies in determining whether to approve an Exchange.
 
 (b) *State Exchange approval standards.* HHS will approve the operation of an Exchange established by a State provided that it meets the following standards:
 
 (1) The Exchange is able to carry out the required functions of an Exchange consistent with subparts C, D, E, F, G, H, and K of this part unless the State is approved to operate only a SHOP by HHS pursuant to § 155.100(a)(2), in which case the Exchange must perform the minimum functions described in subpart H and all applicable provisions of other subparts referenced therein;
 
-(2) The Exchange is capable of carrying out the information reporting requirements in accordance with section 36B of the Code, unless the State is approved to operate only a SHOP by HHS pursuant to § 155.100(a)(2); and
+(2) The Exchange is capable of carrying out the information reporting requirements in accordance with section 36B of the Code, unless the State is approved to operate only a SHOP by HHS pursuant to § 155.100(a)(2);
 
-(3) The entire geographic area of the State is in the service area of an Exchange, or multiple Exchanges consistent with § 155.140(b).
+(3) The entire geographic area of the State is in the service area of an Exchange, or multiple Exchanges consistent with § 155.140(b); and
+
+(4) The Exchange first operates a State Exchange on the Federal platform under § 155.106(c), meeting all requirements established under § 155.200(f), for at least one plan year, including its first open enrollment period.
 
 (c) *State Exchange approval process.* In order to have its Exchange approved, a State must:
 
@@ -26,4 +26,4 @@ Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
 
 (2) If an electing State has an approved or conditionally approved Exchange pursuant to § 155.100(a)(2) by January 1, 2013, HHS must (directly or through agreement with a not-for-profit entity) establish and operate an Exchange that facilitates the purchase of health insurance coverage in QHPs in the individual market and operate such Exchange within the State. In this case, the requirements in §§ 155.120(c), 155.130 and subparts C, D, E, F, G, and K of this part will apply to the Exchange operated by HHS.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42313, July 15, 2013; 78 FR 54134, Aug. 30, 2013]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42313, July 15, 2013; 78 FR 54134, Aug. 30, 2013; 89 FR 26419, Apr. 15, 2024]

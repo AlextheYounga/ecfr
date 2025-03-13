@@ -1,5 +1,7 @@
 ##### § 1603.303 Briefs on appeal. #####
 
+Link to an amendment published at 89 FR 47853, June 4, 2024.
+
 (a) The appellant shall file a brief or other written statement within 30 days after the appeal is filed, unless the Commission otherwise directs.
 
 (b) All other parties may file briefs or other written statements within 30 days of service of the appellant's brief or statement.

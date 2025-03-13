@@ -90,4 +90,4 @@ The following definitions apply to this part:
 
 *Wild free-roaming horses and burros* mean all unbranded and unclaimed horses and burros and their progeny that have used lands of the National Forest System on or after December 15, 1971, or do hereafter use these lands as all or part of their habitat, but does not include any horse or burro introduced onto National Forest System lands on or after December 15, 1971, by accident, negligence, or willful disregard of private ownership. Unbranded, claimed horses and burros, where the claim is found to be erroneous, are also considered as wild and free-roaming if they meet the criteria above.
 
-[42 FR 2957, Jan. 14, 1977]Editorial Note:For Federal Register citations affecting § 261.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[42 FR 2957, Jan. 14, 1977] Editorial Note:For Federal Register citations affecting § 261.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

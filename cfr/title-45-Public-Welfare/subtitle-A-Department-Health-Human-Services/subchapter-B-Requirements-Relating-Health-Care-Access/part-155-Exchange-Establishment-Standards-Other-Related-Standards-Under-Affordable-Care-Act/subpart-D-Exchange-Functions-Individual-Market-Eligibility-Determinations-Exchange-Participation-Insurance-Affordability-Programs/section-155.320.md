@@ -1,7 +1,5 @@
 ##### § 155.320 Verification process related to eligibility for insurance affordability programs. #####
 
-Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
-
 (a) *General requirements.* (1) The Exchange must verify information in accordance with this section only for an applicant or tax filer who requested an eligibility determination for insurance affordability programs in accordance with § 155.310(b).
 
 (2) Unless a request for modification is granted in accordance with § 155.315(h), the Exchange must verify or obtain information in accordance with this section before making an eligibility determination for insurance affordability programs, and must use such information in such determination.
@@ -17,6 +15,8 @@ Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
 (B) If the identifying information for one or more individuals does not match a tax record on file with the Secretary of the Treasury that may be disclosed in accordance with section 6103(l)(21) of the Code and its accompanying regulations, the Exchange must proceed in accordance with § 155.315(f)(1).
 
 (ii) *Data regarding MAGI-based income.* For all individuals whose income is counted in calculating a tax filer's household income, as defined in 26 CFR 1.36B-1(e), or an applicant's household income, calculated in accordance with 42 CFR 435.603(d), the Exchange must request data regarding MAGI-based income in accordance with 42 CFR 435.948(a).
+
+(iii) *Payment to use income data through the Verify Current Income Hub service.* Beginning July 1, 2024, State Exchanges that elect the option to access the Verify Current Income service through the Federal Data Services Hub (“the Hub”) to verify an individual's income as described in paragraph (c)(3)(vi)(A) of this section, must reimburse HHS for the costs of their access to and use of the income data provided by the Verify Current Income Hub service. HHS will invoice States monthly for the amount the State must pay to HHS based on their actual utilization of CSI income data from the prior month and this invoiced amount will equal the product of the number of purchased transactions returned from the Verify Current Income Hub service and the price per transaction established under the contract maintained by HHS to provide the VCI Hub service, as well as an administrative fee to account for any direct or indirect costs of making CSI income data accessed through the VCI Hub service available to State Exchanges and State Medicaid and CHIP agencies.
 
 (2) *Verification process for Medicaid and CHIP*—(i) *Household size.* (A) The Exchange must verify household size in accordance with 42 CFR 435.945(a) or through other reasonable verification procedures consistent with the requirements in 42 CFR 435.952.
 
@@ -132,4 +132,4 @@ Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
 
 (2) For purposes of determining eligibility for CHIP, the Exchange must verify whether an applicant who does not attest to being a citizen or a national has satisfactory immigration status to be eligible for CHIP, in accordance with 42 CFR 457.320(b) and if applicable under the State Child Health Plan, section 2107(e)(1)(J) of the Act.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42316, July 15, 2013; 78 FR 54136, Aug. 30, 2013; 79 FR 30347, May 27, 2014; 81 FR 12341, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018; 86 FR 24289, May 5, 2021; 87 FR 27389, May 6, 2022; 88 FR 25918, Apr. 27, 2023]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42316, July 15, 2013; 78 FR 54136, Aug. 30, 2013; 79 FR 30347, May 27, 2014; 81 FR 12341, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018; 86 FR 24289, May 5, 2021; 87 FR 27389, May 6, 2022; 88 FR 25918, Apr. 27, 2023; 89 FR 26421, Apr. 15, 2024]

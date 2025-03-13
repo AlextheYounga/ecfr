@@ -1,5 +1,7 @@
 ##### § 1603.204 Ex parte communications. #####
 
+Link to an amendment published at 89 FR 47852, June 4, 2024.
+
 (a) Oral or written communications concerning the merits of an adjudication between the administrative law judge or decision-making personnel of the Commission and an interested party to the adjudication without providing the other party a chance to participate are prohibited from the time the matter is assigned to an administrative law judge until the Commission has rendered a final decision. Communications concerning the status of the case, the date of a hearing, the method of transmitting evidence to the Commission and other purely procedural questions are permitted.
 
 (b) Decision-making personnel of the Commission include members of the Commission and their staffs and personnel in the Office of Federal Operations, but do not include investigators and intake staff.

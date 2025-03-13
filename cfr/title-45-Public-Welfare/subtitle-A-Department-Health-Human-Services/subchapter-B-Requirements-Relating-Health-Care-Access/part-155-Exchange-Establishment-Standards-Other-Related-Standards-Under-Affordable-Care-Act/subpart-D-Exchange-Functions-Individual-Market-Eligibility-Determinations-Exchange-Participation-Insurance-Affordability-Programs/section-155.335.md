@@ -1,7 +1,5 @@
 ##### § 155.335 Annual eligibility redetermination. #####
 
-Link to an amendment published at 89 FR 26422, Apr. 15, 2024.
-
 (a) *General requirement.* (1) Except as specified in paragraphs (l) and (m) of this section, the Exchange must redetermine the eligibility of a qualified individual on an annual basis.
 
 (2) The Exchange must conduct annual redeterminations required under paragraph (a)(1) of this section using one of the following:
@@ -58,23 +56,35 @@ Link to an amendment published at 89 FR 26422, Apr. 15, 2024.
 
 (i) The Exchange will re-enroll the enrollee in the same plan as the enrollee's current QHP, unless the current QHP is not available through the Exchange;
 
-(ii) If the enrollee's current QHP is not available through the Exchange, the Exchange will re-enroll the enrollee in a QHP within the same product at the same metal level as the enrollee's current QHP that has the most similar network compared to the enrollee's current QHP;
+(ii) If the enrollee's current QHP is not available through the Exchange, the Exchange will re-enroll the enrollee in a QHP within the same product at the same coverage level as described in sections 1302(d) or (e) of the ACA as the enrollee's current QHP that has the most similar network compared to the enrollee's current QHP;
 
-(iii) If the enrollee's current QHP is not available through the Exchange and the enrollee's product no longer includes a QHP at the same metal level as the enrollee's current QHP and—
+(iii) If the enrollee's current QHP is not available through the Exchange and the enrollee's product no longer includes a QHP at the same coverage level as described in sections 1302(d) or (e) of the ACA as the enrollee's current QHP and—
 
-(A) The enrollee's current QHP is a silver level plan, the Exchange will re-enroll the enrollee in a silver level QHP under a different product offered by the same QHP issuer that is most similar to the enrollee's current product and that has the most similar network compared to the enrollee's current QHP. If no such silver level QHP is available for enrollment through the Exchange, the Exchange will re-enroll the enrollee in a QHP under the same product that is one metal level higher or lower than the enrollee's current QHP and that has the most similar network compared to the enrollee's current QHP; or
+(A) The enrollee's current QHP is a silver level plan, the Exchange will re-enroll the enrollee in a silver level QHP under a different product offered by the same QHP issuer that is most similar to the enrollee's current product and that has the most similar network compared to the enrollee's current QHP. If no such silver level QHP is available for enrollment through the Exchange, the Exchange will re-enroll the enrollee in a QHP under the same product that is coverage level higher or lower than the enrollee's current QHP and that has the most similar network compared to the enrollee's current QHP; or
 
-(B) The enrollee's current QHP is not a silver level plan, the Exchange will re-enroll the enrollee in a QHP under the same product that is one metal level higher or lower than the enrollee's current QHP and that has the most similar network compared to the enrollee's current QHP; or
+(B) The enrollee's current QHP is not a silver level plan, the Exchange will re-enroll the enrollee in a QHP under the same product that is one coverage level higher or lower than the enrollee's current QHP and that has the most similar network compared to the enrollee's current QHP;
 
-(iv) If the enrollee's current QHP is not available through the Exchange and the enrollee's product no longer includes a QHP that is at the same metal level as, or one metal level higher or lower than, the enrollee's current QHP, the Exchange will re-enroll the enrollee in any other QHP offered under the product in which the enrollee's current QHP is offered in which the enrollee is eligible to enroll and that has the most similar network compared to the enrollee's current QHP.
+(iv) If the enrollee's current QHP is not available through the Exchange and the enrollee's product no longer includes a QHP that is at the same coverage level as described in sections 1302(d) or (e) of the ACA as, or one coverage level higher or lower than, the enrollee's current QHP, the Exchange will re-enroll the enrollee in any other QHP offered under the product in which the enrollee's current QHP is offered in which the enrollee is eligible to enroll and that has the most similar network compared to the enrollee's current QHP; or
+
+(v) Notwithstanding the other provisions in this paragraph (j)(1), to the extent permitted by applicable State law, if the enrollee's current QHP is a catastrophic plan as described in section 1302(e) of the ACA, and the enrollee will no longer meet the criteria for enrollment in a catastrophic plan as described in section 1302(e)(2) of the ACA:
+
+(A) The Exchange will re-enroll the enrollee in a bronze metal level QHP within the same product as the enrollee's current QHP that has the most similar network compared to the enrollee's current QHP; or
+
+(B) If no bronze plan is available through this product, the Exchange will re-enroll the enrollee in the QHP with the lowest coverage level offered under the product in which the enrollee's current QHP is offered in which the enrollee is eligible to enroll and that has the most similar network compared to the enrollee's current QHP.
 
 (2) No plans under the product under which the QHP in which the enrollee is enrolled are available through the Exchange for renewal, consistent with § 147.106 of this subchapter, the Exchange will enroll the enrollee in a QHP under a different product offered by the same QHP issuer, to the extent permitted by applicable State law, unless the enrollee terminates coverage, including termination of coverage in connection with voluntarily selecting a different QHP, in accordance with § 155.430, as follows, except as provided in paragraph (j)(4) of this section.
 
-(i) The Exchange will re-enroll the enrollee in a QHP at the same metal level as the enrollee's current QHP in the product offered by the same issuer that is the most similar to the enrollee's current product and that has the most similar network compared to the enrollee's current QHP;
+(i) The Exchange will re-enroll the enrollee in a QHP at the same coverage level as the enrollee's current QHP in the product offered by the same issuer that is the most similar to the enrollee's current product and that has the most similar network compared to the enrollee's current QHP;
 
-(ii) If the issuer does not offer another QHP at the same metal level as the enrollee's current QHP, the Exchange will re-enroll the enrollee in a QHP that is one metal level higher or lower than the enrollee's current QHP and that has the most similar network compared to the enrollee's current QHP in the product offered by the same issuer through the Exchange that is the most similar to the enrollee's current product; or
+(ii) If the issuer does not offer another QHP at the same coverage level as the enrollee's current QHP, the Exchange will re-enroll the enrollee in a QHP that is one coverage level higher or lower than the enrollee's current QHP and that has the most similar network compared to the enrollee's current QHP in the product offered by the same issuer through the Exchange that is the most similar to the enrollee's current product;
 
-(iii) If the issuer does not offer another QHP through the Exchange at the same metal level as, or one metal level higher or lower than the enrollee's current QHP, the Exchange will re-enroll the enrollee in any other QHP offered by the same issuer in which the enrollee is eligible to enroll and that has the most similar network compared to the enrollee's current QHP in the product that is most similar to the enrollee's current product.
+(iii) If the issuer does not offer another QHP through the Exchange at the same coverage level as, or one metal level higher or lower than the enrollee's current QHP, the Exchange will re-enroll the enrollee in any other QHP offered by the same issuer in which the enrollee is eligible to enroll and that has the most similar network compared to the enrollee's current QHP in the product that is most similar to the enrollee's current product; or
+
+(iv) Notwithstanding the other provisions in this paragraph (j)(2), to the extent permitted by applicable State law, if the enrollee's current QHP is a catastrophic plan as described in section 1302(e) of the ACA, and the enrollee will no longer meet the criteria for enrollment in a catastrophic plan as described in section 1302(e)(2) of the ACA:
+
+(A) The Exchange will re-enroll the enrollee in a bronze metal level QHP offered by the same issuer in which the enrollee is eligible to enroll and that has the most similar network compared to the enrollee's current QHP in the product that is most similar to the enrollee's current product; or
+
+(B) If no bronze plan is available through this product, the Exchange will re-enroll the enrollee in the QHP with the lowest coverage level offered under the product in which the enrollee's current QHP is offered in which the enrollee is eligible to enroll and that has the most similar network compared to the enrollee's current QHP.
 
 (3) No QHPs from the same issuer are available through the Exchange, the Exchange may enroll the enrollee in a QHP issued by a different issuer, to the extent permitted by applicable State law, unless the enrollee terminates coverage, including termination of coverage in connection with voluntarily selecting a different QHP, in accordance with § 155.430, as follows:
 
@@ -83,6 +93,8 @@ Link to an amendment published at 89 FR 26422, Apr. 15, 2024.
 (ii) If the applicable State regulatory authority declines to provide direction, in a similar QHP from a different issuer, as determined by the Exchange.
 
 (4) The enrollee is determined upon annual redetermination eligible for cost-sharing reductions, in accordance with § 155.305(g), is currently enrolled in a bronze level QHP, and would be re-enrolled in a bronze level QHP under paragraph (j)(1) or (2) of this section, then to the extent permitted by applicable State law, unless the enrollee terminates coverage, including termination of coverage in connection with voluntarily selecting a different QHP, in accordance with § 155.430, at the option of the Exchange, the Exchange may re-enroll such enrollee in a silver level QHP within the same product, with the same provider network, and with a lower or equivalent premium after the application of advance payments of the premium tax credit as the bronze level QHP into which the Exchange would otherwise re-enroll the enrollee under paragraph (j)(1) or (2) of this section.
+
+(5) For purposes of this section, catastrophic coverage is not a coverage level that is considered higher or lower than metal level coverage when re-enrolling an enrollee to a plan that is a metal level higher or lower than their current plan, and an Exchange may not re-enroll an enrollee that has coverage under section 1302(d) into catastrophic coverage.
 
 (k) *Authorization of the release of tax data to support annual redetermination.* (1) The Exchange must have authorization from a qualified individual to obtain updated tax return information described in paragraph (b) of this section for purposes of conducting an annual redetermination.
 
@@ -98,4 +110,4 @@ Link to an amendment published at 89 FR 26422, Apr. 15, 2024.
 
 (m) *Special rule.* The Exchange must not redetermine a qualified individual's eligibility in accordance with this section if the qualified individual's eligibility was redetermined under this section during the prior year, and the qualified individual was not enrolled in a QHP through the Exchange at the time of such redetermination, and has not enrolled in a QHP through the Exchange since such redetermination.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42319, July 15, 2013; 79 FR 53005, Sept. 5, 2014; 81 FR 12342, Mar. 8, 2016; 88 FR 25918, Apr. 27, 2023]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42319, July 15, 2013; 79 FR 53005, Sept. 5, 2014; 81 FR 12342, Mar. 8, 2016; 88 FR 25918, Apr. 27, 2023; 89 FR 26422, Apr. 15, 2024]

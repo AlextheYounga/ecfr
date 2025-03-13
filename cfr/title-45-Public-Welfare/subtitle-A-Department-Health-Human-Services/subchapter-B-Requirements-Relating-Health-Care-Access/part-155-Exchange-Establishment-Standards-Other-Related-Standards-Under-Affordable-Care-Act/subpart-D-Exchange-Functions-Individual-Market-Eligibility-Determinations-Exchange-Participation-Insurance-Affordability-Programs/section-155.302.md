@@ -1,10 +1,8 @@
 ##### § 155.302 Options for conducting eligibility determinations. #####
 
-Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
-
 (a) *Options for conducting eligibility determinations.* The Exchange may satisfy the requirements of this subpart—
 
-(1) Directly, through contracting arrangements in accordance with § 155.110(a), or as a State-based Exchange on the Federal platform through a Federal platform agreement under which HHS carries out eligibility determinations and other requirements contained within this subpart; or
+(1) Directly, through contracting arrangements in accordance with § 155.110(a) under which the Exchange carries out all eligibility determinations for QHP coverage and related insurance affordability programs; or, as a State-based Exchange on the Federal platform, through a Federal platform agreement under which HHS carries out eligibility determinations and other requirements contained within this subpart; or
 
 (2) Through a combination of the approach described in paragraph (a)(1) of this section and one or both of the options described in paragraph (b) or (c) of this section, subject to the standards in paragraph (d) of this section.
 
@@ -50,4 +48,4 @@ Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
 
 (3) Applicable requirements under 45 CFR 155.260, 155.270, and 155.315(i), and section 6103 of the Code for the confidentiality, disclosure, maintenance, and use of information are met.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42314, July 15, 2013; 81 FR 12341, Mar. 8, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42314, July 15, 2013; 81 FR 12341, Mar. 8, 2016; 89 FR 26421, Apr. 15, 2024]

@@ -42,7 +42,7 @@
 
 (iii) You may use only biodegradable materials for bait; if fish or wildlife is used as bait, only the head, bones, viscera, or skin of legally harvested fish and wildlife, the skinned carcasses of furbearers, and unclassified wildlife may be used, except that in Units 7 and 15, fish or fish parts may not be used as bait. Scent lures may be used at registered bait stations.
 
-(iv) You may not use bait within1/4 mile of a publicly maintained road or trail.
+(iv) You may not use bait within 1/4 mile of a publicly maintained road or trail.
 
 (v) You may not use bait within 1 mile of a house or other permanent dwelling, or within 1 mile of a developed campground or developed recreational facility.
 
@@ -794,7 +794,7 @@
 
 (A) You may use bait to hunt black and brown bear between April 15 and June 30; you may use bait to hunt wolves on FWS and BLM lands.
 
-(B) You may not use a steel trap, or a snare using cable smaller than3/32-inch diameter to trap coyotes or wolves in Unit 12 during April and October.
+(B) You may not use a steel trap, or a snare using cable smaller than 3/32-inch diameter to trap coyotes or wolves in Unit 12 during April and October.
 
 (C) One moose without calf may be taken from June 20 through July 31 in the Wrangell-St. Elias National Park and Preserve in Unit 11 or 12 for the Batzulnetas Culture Camp. Two hunters from either Chistochina or Mentasta Village may be designated by the Mt. Sanford Tribal Consortium to receive the Federal subsistence harvest permit. The permit may be obtained from a Wrangell-St. Elias National Park and Preserve office.
 
@@ -1163,7 +1163,7 @@
 
 (C) You may take caribou from a boat moving under power in Unit 18.
 
-(D) You may take moose from a boat moving under power in that portion of Unit 18 west of a line running from the mouth of the Ishkowik River to the closest point of Dall Lake, then to the east bank of the Johnson River at its entrance into Nunavakanukakslak Lake (N 60°59.41′ Latitude; W 162°22.14′ Longitude), continuing upriver along a line1/2 mile south and east of, and paralleling a line along the southerly bank of the Johnson River to the confluence of the east bank of Crooked Creek, then continuing upriver to the outlet at Arhymot Lake, then following the south bank west to the Unit 18 border.
+(D) You may take moose from a boat moving under power in that portion of Unit 18 west of a line running from the mouth of the Ishkowik River to the closest point of Dall Lake, then to the east bank of the Johnson River at its entrance into Nunavakanukakslak Lake (N 60°59.41′ Latitude; W 162°22.14′ Longitude), continuing upriver along a line 1/2 mile south and east of, and paralleling a line along the southerly bank of the Johnson River to the confluence of the east bank of Crooked Creek, then continuing upriver to the outlet at Arhymot Lake, then following the south bank west to the Unit 18 border.
 
 (E) Taking of wildlife in Unit 18 while in possession of lead shot size T, .20 caliber or less in diameter, is prohibited.
 

@@ -1,6 +1,6 @@
 ##### § 155.220 Ability of States to permit agents and brokers and web-brokers to assist qualified individuals, qualified employers, or qualified employees enrolling in QHPs. #####
 
-Link to an amendment published at 89 FR 26420, Apr. 15, 2024.Link to an amendment published at 89 FR 37703, May 6, 2024.
+Link to an amendment published at 89 FR 37703, May 6, 2024.
 
 (a) *General rule.* A State may permit agents, brokers, and web-brokers to—
 
@@ -88,6 +88,8 @@ Link to an amendment published at 89 FR 26420, Apr. 15, 2024.Link to an amendmen
 
 (ii) HHS retains the right to temporarily suspend the ability of a web-broker making its website available to transact information with HHS, if HHS discovers a security and privacy incident or breach, for the period in which HHS begins to conduct an investigation and until the incident or breach is remedied to HHS' satisfaction.
 
+(iii) Web-brokers operating in State Exchanges that do not use the Federal platform that permit other agents and brokers, through a contract or other arrangement, to use their internet website to help an applicant or enrollee complete a QHP selection or complete the Exchange eligibility application must comply with the standards in paragraphs (c)(4)(i)(A), (B), (D) and (F) of this section, except that all references to “Federally-facilitated Exchange” or “HHS” in paragraphs (c)(4)(i)(A), (B), (D), and (F) will be understood to mean “the applicable State Exchange.”
+
 (5) HHS or its designee may periodically monitor and audit an agent, broker, or web-broker under this subpart to assess its compliance with the applicable requirements of this section.
 
 (6) In addition to applicable requirements under § 155.221(b)(4), a web-broker must demonstrate operational readiness and compliance with applicable requirements prior to the web-broker's internet website being used to complete an Exchange eligibility application or a QHP selection, which may include submission or completion, in the form and manner specified by HHS, of the following:
@@ -168,9 +170,9 @@ Link to an amendment published at 89 FR 26420, Apr. 15, 2024.Link to an amendmen
 
 (h) *Request for reconsideration of termination for cause from the Federally-facilitated Exchange*—(1) *Request for reconsideration.* An agent, broker, or web-broker whose agreement with the Federally-facilitated Exchange has been terminated may request reconsideration of such action in the manner and form established by HHS.
 
-(2) *Timeframe for request.* The agent, broker, or web-broker must submit a request for reconsideration to the HHS reconsideration entity within 30 calendar days of the date of the written notice from HHS.
+(2) *Timeframe for request.* The agent, broker, or web-broker must submit a request for reconsideration to the CMS Administrator within 30 calendar days of the written notice from HHS.
 
-(3) *Notice of reconsideration decision.* The HHS reconsideration entity will provide the agent, broker, or web-broker with a written notice of the reconsideration decision within 60 calendar days of the date it receives the request for reconsideration. This decision will constitute HHS' final determination.
+(3) *Notice of reconsideration decision.* The CMS Administrator will provide the agent, broker, or web-broker with a written notice of the reconsideration decision within 60 calendar days of the date the CMS Administrator receives the request for reconsideration. This decision will constitute HHS' final determination.
 
 (i) *Use of agents' and brokers' and web-brokers' internet websites for SHOP.* For plan years beginning on or after January 1, 2015, in States that permit this activity under State law, a SHOP may permit agents, brokers, and web-brokers to use an internet website to assist qualified employers and facilitate enrollment of enrollees in a QHP through the Exchange, under paragraph (c)(3) of this section.
 
@@ -244,4 +246,30 @@ Link to an amendment published at 89 FR 26420, Apr. 15, 2024.Link to an amendmen
 
 (3) The Exchange may collect information from a web-broker during its registration with the Exchange under paragraph (d)(1) of this section, or at another time on an annual basis, in a form and manner to be specified by HHS, sufficient to establish the identities of the individuals who comprise its corporate ownership and leadership and to ascertain any corporate or business relationships it has with other entities that may seek to register with the Federally-facilitated Exchange as web-brokers.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020; 86 FR 24288, May 5, 2021; 87 FR 27388, May 6, 2022; 88 FR 25917, Apr. 27, 2023]
+(n) *Application to State Exchanges that do not use the Federal platform.* A web-broker that assists or enrolls qualified individuals, qualified employers or qualified employees in coverage in a manner that constitutes enrollment through the State Exchange, or assists individual market consumers with submission of applications for advance payments of the premium tax credit and cost-sharing reductions through the State Exchange, must comply with the Federally-facilitated Exchange standards in paragraphs (c)(3)(i)(A), (G), (I), and (j)(2)(i) of this section, including any additional State-specific standards under paragraph (n)(1) of this section, and the State Exchange's operational readiness standards under paragraph (n)(2) of this section. For the purposes of paragraph (j)(2)(i) of this section, references to “HHS” and “the federally facilitated Exchanges” will be understood to mean “the applicable State Exchange, applied for web-brokers”, and the reference to “*HealthCare.gov”* will be understood to mean “the State Exchange website, applied for web-brokers.”
+
+(1) State Exchanges may add State-specific information to the standardized disclaimers and information under paragraphs (c)(3)(i)(A), (G), and (I) of this section that does not conflict with the HHS-provided language.
+
+(2) State Exchanges must establish the form and manner for their web-brokers to demonstrate operational readiness and compliance with applicable requirements in order for the web-broker's internet website being used to complete an Exchange eligibility application or a QHP selection, which may include submission or completion of the following items to the State Exchange, in the form and manner specified by the Exchange:
+
+(i) Operational data including licensure information, points of contact and third-party relationships;
+
+(ii) Enrollment testing, prior to approval or renewal;
+
+(iii) website reviews performed by the State Exchange;
+
+(iv) Security and privacy documentation, including:
+
+(A) Penetration testing results;
+
+(B) Security and privacy assessment reports;
+
+(C) Vulnerability scan results;
+
+(D) Plans of action and milestones; and
+
+(E) System security and privacy plans.
+
+(v) Agreements between the web-broker and the State Exchange.
+
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020; 86 FR 24288, May 5, 2021; 87 FR 27388, May 6, 2022; 88 FR 25917, Apr. 27, 2023; 89 FR 26420, Apr. 15, 2024]

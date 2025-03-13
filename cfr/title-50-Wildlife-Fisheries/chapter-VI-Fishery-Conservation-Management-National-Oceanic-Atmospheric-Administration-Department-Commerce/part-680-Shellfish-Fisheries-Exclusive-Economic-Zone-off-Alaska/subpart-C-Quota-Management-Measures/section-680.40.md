@@ -450,15 +450,25 @@ QS adj. p = Unadjusted West QS p × RAF
 
 (g) *Annual allocation of IFQ*—(1) *General.* IFQ is assigned based on the underlying QS. Except for CVC and CPC QS permit holders who fail to meet the participation requirements at paragraph (g)(2) of this section, the Regional Administrator shall assign crab IFQs to each person who holds QS and submits a complete annual application for crab IFQ/IPQ permit as described under § 680.4. IFQ will be assigned to a crab QS fishery with the appropriate regional designation, QS sector, and IFQ class. This amount will represent the maximum amount of crab that may be harvested from the specified crab QS fishery by the person to whom it is assigned during the specified crab fishing year, unless the IFQ assignment is changed by the Regional Administrator because of an approved transfer, revoked, suspended, or modified under 15 CFR part 904.
 
-(2) *Eligibility for CVC and CPC IFQ.* For each crab fishing year after June 30, 2018, individuals holding CVC or CPC QS permits must meet the participation requirements set forth in paragraphs (g)(2)(i) or (g)(2)(ii) of this section in order to receive CVC or CPC IFQ unless the CVC or CPC QS permit holder meets the exemption provided in paragraph (g)(2)(iii) of this section.
+(2) *Eligibility for CVC IFQ and CPC IFQ.* For each crab fishing year after June 30, 2027, individuals holding CVC QS or CPC QS permits must meet the participation requirements set forth in paragraph (g)(2)(i) of this section in order to receive CVC IFQ or CPC IFQ, unless the CVC QS permit holder or CPC QS permit holder meets the exemption provided in paragraph (g)(2)(ii) of this section.
 
-(i) The individual has participated as crew in at least one delivery of crab in any CR crab fishery during the three crab fishing years preceding the crab fishing year for which the individual is filing an annual crab IFQ permit application. If the individual holds C share QS in a single CR crab fishery and that CR crab fishery is closed to fishing for an entire crab fishing year, NMFS will exclude that crab fishing year when determining whether the individual has satisfied this participation requirement.
+(i) During one of the 3 crab fishing years preceding the crab fishing year for which the individual is filing an annual crab IFQ permit application, the individual has participated as crew in at least:
 
-(ii) The individual was an initial recipient of CVC or CPC QS and participated as crew in at least 30 days of fishing in a commercial fishery managed by the State of Alaska or in a U.S. commercial fishery in the U.S. Exclusive Economic Zone off Alaska during the three crab fishing years preceding the crab fishing year for which the individual is filing an annual crab IFQ permit application. Individuals may combine participation as crew in State and Federal commercial fisheries to meet this requirement. If the individual holds C share QS in a single CR crab fishery and that CR crab fishery is closed to fishing for an entire crab fishing year, NMFS will exclude that crab fishing year when determining whether the individual has satisfied this participation requirement.
+(A) One fishing trip where a delivery of crab is made in any CR fishery; or
 
-(iii) All of the CVC or CPC QS permits held by the individual were acquired using the eligibility criteria in 50 CFR 680.41(c)(1)(vii)(B) and the individual has held those CVC or CPC QS permits for less than three full crab fishing years.
+(B) 30 days of:
 
-(3) *Withholding of CVC or CPC IFQ.* Beginning July 1, 2018, the Regional Administrator will withhold issuance of CVC or CPC IFQ to an individual who has not met the participation requirements set forth in paragraph (g)(2) of this section. The Regional Administrator will withhold an individual's CVC IFQ or CPC IFQ in accordance with the procedures set forth in paragraphs (g)(3)(i) and (ii) of this section.
+(*1*) Fishing in a commercial fishery managed by the State of Alaska or in a Federal commercial fishery in the EEZ off Alaska. Individuals may combine their participation as crew in State of Alaska and Federal commercial fisheries in waters off Alaska to meet this requirement; or
+
+(*2*) On a tender vessel operating in support of a commercial fishery managed by the State of Alaska or in a Federal commercial fishery in the EEZ off Alaska. Individuals may combine their participation as crew on a tender vessel in State of Alaska and Federal commercial fisheries in waters off Alaska to meet this requirement.
+
+(C) Individuals may combine their participation specified in paragraphs (g)(2)(i)(B)(*1*) and (*2*) of this section to meet this requirement.
+
+(D) If the individual holds CVC QS or CPC QS in one or more CR fisheries and all CR crab fisheries for which the QS holder holds QS are closed, NMFS will exclude that crab fishing year when determining whether the individual has satisfied the participation requirements specified in paragraph (g)(2)(i) of this section.
+
+(ii) All of the CVC QS or CPC QS permits held by the individual were acquired using the eligibility criteria in § 680.41(c)(1)(vii)(B) or reissued under paragraph (m)(6) of this section and the individual has held those CVC QS or CPC QS permits for less than 3 crab fishing years.
+
+(3) *Withholding of CVC IFQ or CPC IFQ.* Beginning July 1, 2027, the Regional Administrator will withhold issuance of CVC IFQ or CPC IFQ to an individual who has not met the participation requirements set forth in paragraph (g)(2) of this section. The Regional Administrator will withhold an individual's CVC IFQ or CPC IFQ in accordance with the procedures set forth in paragraphs (g)(3)(i) and (ii) of this section.
 
 (i) *Notice of C Share IFQ Withholding.* The Regional Administrator will issue a Notice of C Share IFQ Withholding to an individual holding CVC or CPC QS if, after reviewing the CVC or CPC QS holder's Application for Annual Crab IFQ Permit, the Regional Administrator determines that the CVC or CPC QS holder has failed to meet the participation requirements in paragraph (g)(2) of this section. A CVC or CPC QS holder who receives a Notice of C Share IFQ Withholding will have 30 days to provide the Regional Administrator with information demonstrating participation as crew that meets the requirements of paragraph (g)(2) of this section.
 
@@ -540,16 +550,28 @@ IPQpf = TACaf × PQSpf/PQS poolf.
 
 (l) *Harvesting and processing privilege.* QS and PQS allocated or permits issued pursuant to this part do not represent either an absolute right to the resource or any interest that is subject to the “takings” provision of the Fifth Amendment of the U.S. Constitution. Rather, such QS, PQS, or permits represent only a harvesting or processing privilege that may be revoked or amended pursuant to the Magnuson-Stevens Act and other applicable law. IPQs do not create a right, title, or interest in any crab until that crab is purchased from a fisherman.
 
-(m) *Participation requirements for retention of CVC QS and CPC QS.* (1) Beginning July 1, 2019, and each crab fishing year thereafter, individuals allocated CVC QS or CPC QS must meet the participation requirements set forth in paragraphs (m)(2)(i) or (m)(2)(ii) of this section in order to retain their CVC QS or CPC QS unless the CVC or CPC QS holder meets the exemption provided in paragraph (m)(5) of this section.
+(m) *Participation requirements for retention of CVC QS and CPC QS.* (1) Beginning July 1, 2028, and each crab fishing year thereafter, individuals allocated CVC QS or CPC QS must meet the participation requirements set forth in paragraph (m)(2) of this section in order to retain their CVC QS or CPC QS unless the CVC QS holder or CPC QS holder meets the exemption provided in paragraph (m)(5) of this section.
 
-(2)(i) The individual has participated as crew in at least one delivery of crab in any CR crab fishery during the previous four consecutive crab fishing years. If the individual holds C share QS in a single CR crab fishery and that CR crab fishery is closed to fishing for an entire crab fishing year, NMFS will exclude that crab fishing year when determining whether the individual has satisfied this participation requirement.
+(2) During one of the 4 crab fishing years preceding the crab fishing year for which the individual is filing an annual crab IFQ permit application, the individual has participated as crew in at least:
 
-(ii) The individual was an initial recipient of CVC QS or CPC QS and participated as crew in at least 30 days of fishing in a commercial fishery managed by the State of Alaska or in a U.S. commercial fishery in the U.S. Exclusive Economic Zone off Alaska during the previous four consecutive crab fishing years. Individuals may combine participation as crew in State and Federal commercial fisheries to meet this requirement. If the individual holds C share QS in a single CR crab fishery and that CR crab fishery is closed to fishing for an entire crab fishing year, NMFS will exclude that crab fishing year when determining whether the individual has satisfied this participation requirement.
+(i) One fishing trip where a delivery of crab is made in any CR fishery; or
+
+(ii) 30 days of:
+
+(A) Fishing in a commercial fishery managed by the State of Alaska or in a Federal commercial fishery in the EEZ off Alaska. Individuals may combine their participation as crew in State and Federal commercial fisheries to meet this requirement; or
+
+(B) On a tender vessel operating in support of a commercial fishery managed by the State of Alaska or in a Federal commercial fishery in the EEZ off Alaska. Individuals may combine their participation as crew on a tender vessel in State and Federal commercial fisheries to meet this requirement.
+
+(iii) Individuals may combine participation specified in paragraphs (m)(2)(ii)(A) and (B) of this section to meet this requirement.
+
+(iv) If the individual holds CVC QS or CPC QS in one or more CR crab fisheries and all CR crab fisheries for which the QS holder holds QS are closed, NMFS will exclude that crab fishing year when determining whether the individual has satisfied the participation requirement specified in this paragraph (m)(2).
 
 (3) An individual issued a CVC QS or CPC QS permit may include information demonstrating compliance with the participation requirements in paragraph (m)(2) of this section with the individual's annual Application for Crab IFQ.
 
 (4) If an individual issued a CVC QS or CPC QS permit fails to meet the participation requirements in paragraph (m)(2) of this section or fails to qualify for the exemption in paragraph (m)(5) of this section, NMFS will revoke all of the individual's CVC QS or CPC QS in accordance with § 680.43.
 
-(5) All of the CVC or CPC QS permits held by the individual were acquired using the eligibility criteria in § 680.41(c)(1)(vii)(B) and the individual has held those CVC or CPC QS permits for less than four full crab fishing years.
+(5) All of the CVC QS or CPC QS permits held by the individual were acquired using the eligibility criteria in § 680.41(c)(1)(vii)(B) or reissued under paragraph (m)(6) of this section, and the person has held those CVC QS or CPC QS permits for less than 4 crab fishing years.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 70 FR 75421, Dec. 20, 2005; 71 FR 32864, June 7, 2006; 73 FR 29983, May 23, 2008; 73 FR 30320, May 27, 2008; 73 FR 35088, June 20, 2008; 73 FR 76190, Dec. 15, 2008; 74 FR 51520, Oct. 7, 2009; 80 FR 15897, Mar. 26, 2015; 87 FR 42394, July 15, 2022]
+(6) For CVC QS or CPC QS revoked by NMFS under regulations paragraph (m)(2) of this section from July 1, 2019, through May 31, 2024, an individual may apply for reissuance of QS with the individual's annual crab IFQ permit application from May 31, 2024 through June 15, 2025.
+
+[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 70 FR 75421, Dec. 20, 2005; 71 FR 32864, June 7, 2006; 73 FR 29983, May 23, 2008; 73 FR 30320, May 27, 2008; 73 FR 35088, June 20, 2008; 73 FR 76190, Dec. 15, 2008; 74 FR 51520, Oct. 7, 2009; 80 FR 15897, Mar. 26, 2015; 87 FR 42394, July 15, 2022; 89 FR 47877, June 4, 2024]

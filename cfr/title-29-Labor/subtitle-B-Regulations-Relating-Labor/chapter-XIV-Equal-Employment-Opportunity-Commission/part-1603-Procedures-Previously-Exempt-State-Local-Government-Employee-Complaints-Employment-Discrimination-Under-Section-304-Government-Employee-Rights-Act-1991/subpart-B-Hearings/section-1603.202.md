@@ -1,5 +1,7 @@
 ##### § 1603.202 Administrative law judge. #####
 
+Link to an amendment published at 89 FR 47852, June 4, 2024.
+
 The administrative law judge shall have all the powers necessary to conduct fair, expeditious, and impartial hearings as provided in 5 U.S.C. 556(c). In addition, the administrative law judge shall have the power to:
 
 (a) Change the time, place or date of the hearing;

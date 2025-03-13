@@ -34,4 +34,4 @@
 
 (f) When we issue a guidance document, we post it on our centralized guidance portal (see § 1213.6(a)).
 
-[85 FR 31979, May 28, 2020, as amended at 87 FR 21024, Apr. 11, 2022]Editorial Note:At 87 FR 21024, Apr. 11, 2022, § 1213.4 was amended; however, a portion of the amendment could not be completed because the section contains two paragraphs designated (f).
+[85 FR 31979, May 28, 2020, as amended at 87 FR 21024, Apr. 11, 2022] Editorial Note:At 87 FR 21024, Apr. 11, 2022, § 1213.4 was amended; however, a portion of the amendment could not be completed because the section contains two paragraphs designated (f).

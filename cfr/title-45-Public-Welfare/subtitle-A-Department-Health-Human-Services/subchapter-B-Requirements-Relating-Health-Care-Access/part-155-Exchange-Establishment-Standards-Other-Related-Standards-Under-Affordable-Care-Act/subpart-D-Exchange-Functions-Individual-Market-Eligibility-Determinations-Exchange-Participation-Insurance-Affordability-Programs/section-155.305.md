@@ -1,7 +1,5 @@
 ##### § 155.305 Eligibility standards. #####
 
-Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
-
 (a) *Eligibility for enrollment in a QHP through the Exchange.* The Exchange must determine an applicant eligible for enrollment in a QHP through the Exchange if he or she meets the following requirements:
 
 (1) *Citizenship, status as a national, or lawful presence.* Is a citizen or national of the United States, or is a non-citizen who is lawfully present in the United States, and is reasonably expected to be a citizen, national, or a non-citizen who is lawfully present for the entire period for which enrollment is sought;
@@ -68,6 +66,14 @@ Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
 
 (4) *Compliance with filing requirement.* The Exchange may not determine a tax filer eligible for advance payments of the premium tax credit (APTC) if HHS notifies the Exchange as part of the process described in § 155.320(c)(3) that APTC payments were made on behalf of either the tax filer or spouse, if the tax filer is a married couple, for two consecutive years for which tax data would be utilized for verification of household income and family size in accordance with § 155.320(c)(1)(i), and the tax filer or the tax filer's spouse did not comply with the requirement to file an income tax return for that year and for the previous year as required by 26 U.S.C. 6011, 6012, and in 26 CFR chapter I, and reconcile APTC for that period.
 
+(i) If HHS notifies the Exchange as part of the process described in § 155.320(c)(3) that APTC payments were made on behalf of either the tax filer or spouse, if the tax filer is a married couple, for 1 year for which tax data would be utilized for verification of household income and family size in accordance with § 155.320(c)(1)(i), and the tax filer or the tax filer's spouse did not comply with the requirement to file an income tax return for that year as required by 26 U.S.C. 6011, 6012, and their implementing regulations and reconcile APTC for that period (“file and reconcile”), the Exchange must:
+
+(A) Send a notification to the tax filer, consistent with the standards applicable to the protection of Federal Tax Information, that informs the tax filer that the Exchange has determined that the tax filer or the tax filer's spouse, if the tax filer is married, has failed to file and reconcile, and educate the tax filer of the need to file and reconcile or risk being determined ineligible for APTC if they fail to file and reconcile for a second consecutive tax year; or
+
+(B) Send a notification to either the tax filer or their enrollee, that informs the tax filer or enrollee that they may be at risk of being determined ineligible for APTC in the future. These notices must educate tax filers or their enrollees on the requirement to file and reconcile, while not directly stating that the IRS indicates the tax filer or the tax filer's spouse, if the tax filer is married, has failed to file and reconcile.
+
+(ii) [Reserved]
+
 (5) *Calculation of advance payments of the premium tax credit.* The Exchange must calculate advance payments of the premium tax credit in accordance with 26 CFR 1.36B-3 and § 155.340(i) of this subpart.
 
 (6) *Collection of Social Security numbers.* The Exchange must require an application filer to provide the Social Security number of a tax filer who is not an applicant only if an applicant attests that the tax filer has a Social Security number and filed a tax return for the year for which tax data would be utilized for verification of household income and family size.
@@ -116,4 +122,4 @@ Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
 
 (ii) Section 5000A(e)(5) of the Code (relating to individuals with hardships).
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42315, July 15, 2013; 87 FR 27388, May 6, 2022; 88 FR 25918, Apr. 27, 2023]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42315, July 15, 2013; 87 FR 27388, May 6, 2022; 88 FR 25918, Apr. 27, 2023; 89 FR 26421, Apr. 15, 2024]

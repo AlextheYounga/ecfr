@@ -1,5 +1,7 @@
 ##### § 1603.108 Settlement and alternative dispute resolution. #####
 
+Link to an amendment published at 89 FR 47852, June 4, 2024.
+
 (a) The parties are at all times free to settle all or part of a complaint on terms that are mutually agreeable. Any settlement reached shall be in writing and signed by both parties and shall identify the allegations resolved. A copy of any settlement shall be served on the Commission.
 
 (b) With the agreement of the parties, the Commission may refer a complaint to a neutral mediator or to any other alternative dispute resolution process authorized by the Administrative Dispute Resolution Act, 5 U.S.C. 571 to 583, or other statute.

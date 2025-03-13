@@ -16,16 +16,16 @@
 
 (b) *Standard sheer profile.* (1) The ordinates of the standard sheer profile are given in table 42.20-65(b)(1):
 
-|            |       Station       |Ordinate (in inches)|Ordinate (in inches)|Factor|
-|------------|---------------------|--------------------|--------------------|------|
-| After half | After Perpendicular |        0.1         |       L + 10       |  1   |
-|            |   1/6 L from A.P    |       0.0444       |      L + 4.44      |  3   |
-|            |   1/3 L from A.P    |       0.0111       |      L + 1.11      |  3   |
-|            |      Amidships      |                    |         0          |  1   |
-|Forward half|      Amidships      |                    |         0          |  1   |
-|            |   1/3 L from F.P    |       0.0222       |      L + 2.22      |  3   |
-|            |   1/6 L from F.P    |       0.0888       |      L + 8.88      |  3   |
-|            |Forward Perpendicular|        0.2         |       L + 20       |  1   |
+|            |              Station              |Ordinate (in inches)|Ordinate (in inches)|Factor|
+|------------|-----------------------------------|--------------------|--------------------|------|
+| After half |        After Perpendicular        |        0.1         |       L + 10       |  1   |
+|            |<sup>1</sup>⁄<sub>6</sub>L from A.P|       0.0444       |      L + 4.44      |  3   |
+|            |<sup>1</sup>⁄<sub>3</sub>L from A.P|       0.0111       |      L + 1.11      |  3   |
+|            |             Amidships             |                    |         0          |  1   |
+|Forward half|             Amidships             |                    |         0          |  1   |
+|            |<sup>1</sup>⁄<sub>3</sub>L from F.P|       0.0222       |      L + 2.22      |  3   |
+|            |<sup>1</sup>⁄<sub>6</sub>L from F.P|       0.0888       |      L + 8.88      |  3   |
+|            |       Forward Perpendicular       |        0.2         |       L + 20       |  1   |
 
 (c) *Measurement of variation from standard sheer profile.* (1) Where the sheer profile differs from the standard, the four ordinates of each profile in the forward or after half shall be multiplied by the appropriate factors given in the table of ordinates. The difference between the sums of the respective products and those of the standard divided by 8 measures the deficiency or excess of sheer in the forward or after half. The arithmetical mean of the excess or deficiency in the forward and after halves measures the excess or deficiency of sheer.
 

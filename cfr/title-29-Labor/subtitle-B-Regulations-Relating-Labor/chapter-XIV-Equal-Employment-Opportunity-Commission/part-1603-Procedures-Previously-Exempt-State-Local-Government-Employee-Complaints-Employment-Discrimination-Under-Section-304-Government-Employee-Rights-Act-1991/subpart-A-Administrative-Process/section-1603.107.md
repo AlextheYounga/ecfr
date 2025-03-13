@@ -1,5 +1,7 @@
 ##### § 1603.107 Dismissals of complaints. #####
 
+Link to an amendment published at 89 FR 47852, June 4, 2024.
+
 (a) Where a complaint on its face, or after further inquiry, is determined to be not timely filed or otherwise fails to state a claim under this part, the Commission shall dismiss the complaint.
 
 (b) Where the complainant cannot be located, the Commission may dismiss the complaint provided that reasonable efforts have been made to locate the complainant and the complainant has not responded within 30 days to a notice sent by the Commission to the complainant's last known address.

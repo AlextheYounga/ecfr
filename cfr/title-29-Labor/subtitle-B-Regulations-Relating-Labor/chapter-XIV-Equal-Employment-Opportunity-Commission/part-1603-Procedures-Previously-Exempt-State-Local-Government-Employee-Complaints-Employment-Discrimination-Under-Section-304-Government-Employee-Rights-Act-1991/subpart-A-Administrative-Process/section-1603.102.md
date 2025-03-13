@@ -1,5 +1,7 @@
 ##### § 1603.102 Filing a complaint. #####
 
+Link to an amendment published at 89 FR 47851, June 4, 2024.
+
 (a) *Who may make a complaint.* Individuals referred to in § 1603.101 who believe they have been discriminated against on the basis of race; color; religion; sex; national origin; age; disability; genetic information; or pregnancy, childbirth, or related medical conditions; or retaliated against for opposing any practice made unlawful by federal laws protecting equal employment opportunity or for participating in any stage of administrative or judicial proceedings under federal laws protecting equal employment opportunity may file a complaint not later than 180 days after the occurrence of the alleged discrimination.
 
 (b) *Where to file a complaint.* A complaint may be filed in person, by mail or by facsimile machine to any Commission office or with any designated agent or representative of the Commission. The addresses of the Commission's District, Field, Area and Local offices appear in 29 CFR 1610.4.

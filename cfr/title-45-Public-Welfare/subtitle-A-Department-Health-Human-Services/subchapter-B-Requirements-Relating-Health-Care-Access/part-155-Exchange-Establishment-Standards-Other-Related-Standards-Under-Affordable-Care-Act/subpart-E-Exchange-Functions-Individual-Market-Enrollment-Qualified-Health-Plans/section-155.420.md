@@ -1,7 +1,5 @@
 ##### § 155.420 Special enrollment periods. #####
 
-Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
-
 (a) *General requirements*—(1) *General parameters.* The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
 
 (2) *Definition of dependent.* For the purpose of this section, “dependent”, has the same meaning as it does in 26 CFR 54.9801-2, referring to any individual who is or who may become eligible for coverage under the terms of a QHP because of a relationship to a qualified individual or enrollee.
@@ -28,11 +26,7 @@ Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
 
 (5) *Prior coverage requirement.* Qualified individuals who are required to demonstrate coverage in the 60 days prior to a qualifying event can either demonstrate that they had minimum essential coverage as described in 26 CFR 1.5000A-1(b) or demonstrate that they had coverage as described in paragraphs (d)(1)(iii) or (iv) of this section for 1 or more days during the 60 days preceding the date of the qualifying event; lived in a foreign country or in a United States territory for 1 or more days during the 60 days preceding the date of the qualifying event; are an Indian as defined by section 4 of the Indian Health Care Improvement Act; or lived for 1 or more days during the 60 days preceding the qualifying event or during their most recent preceding enrollment period, as specified in §§ 155.410 and 155.420, in a service area where no qualified health plan was available through the Exchange.
 
-(b) *Effective dates*—(1) *Regular effective dates.* Except as specified in paragraphs (b)(2) and (3) of this section, for a QHP selection received by the Exchange from a qualified individual—
-
-(i) Between the first and the fifteenth day of any month, the Exchange must ensure a coverage effective date of the first day of the following month; and
-
-(ii) Between the sixteenth and the last day of any month, the Exchange must ensure a coverage effective date of the first day of the second following month.
+(b) *Effective dates*—(1) *Regular effective dates.* Except as specified in paragraphs (b)(2) and (3) of this section, for a QHP selection received by the Exchange from a qualified individual, the Exchange must ensure a coverage effective date of the first day of the month following the QHP selection; except that before January 1, 2025, for a QHP selection received by the Exchange from a qualified individual between the sixteenth and the last day of any month, the Exchange may ensure a coverage effective date of the first day of the second month following QHP selection.
 
 (2) *Special effective dates.* (i) In the case of birth, adoption, placement for adoption, placement in foster care, or child support or other court order as described in paragraph (d)(2)(i) of this section, the Exchange must ensure that coverage is effective for a qualified individual or enrollee on the date of birth, adoption, placement for adoption, placement in foster care, or effective date of court order; or it may permit the qualified individual or enrollee to elect a coverage effective date of the first of the month following plan selection; or in accordance with paragraph (b)(1) of this section. If the Exchange permits the qualified individual or enrollee to elect a coverage effective date of either the first of the month following the date of plan selection or in accordance with paragraph (b)(1) of this section, the Exchange must ensure coverage is effective on the date duly selected by the qualified individual or enrollee.
 
@@ -48,7 +42,7 @@ Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
 
 (vii) If a qualified individual or enrollee, or the dependent of a qualified individual or enrollee, who is eligible for advance payments of the premium tax credit, and whose household income, as defined in 26 CFR 1.36B-1(e), is expected to be no greater than 150 percent of the Federal poverty level, enrolls in a QHP or changes from one QHP to another one time per month in accordance with paragraph (d)(16) of this section, the Exchange must ensure that coverage is effective in accordance with paragraph (b)(1) of this section or on the first day of the month following plan selection, at the option of the Exchange.
 
-(3) *Option for earlier effective dates.* (i) For a QHP selection received by the Exchange under a special enrollment period for which regular effective dates specified in paragraph (b)(1) of this section would apply, the Exchange may provide a coverage effective date that is earlier than specified in such paragraph, and, beginning January 2022, a Federally-facilitated Exchange or a State Exchange on the Federal platform will ensure that coverage is effective on the first day of the month following plan selection.
+(3) *Option for earlier effective dates.* (i) For a QHP selection received by the Exchange under a special enrollment period for which the effective dates of coverage specified in paragraph (b)(1) or (b)(2)(i) of this section would apply, the Exchange may provide a coverage effective date that is earlier than specified in such paragraph.
 
 (ii) For a QHP selection received by the Exchange under a special enrollment period for which special effective dates specified in paragraph (b)(2)(ii) of this section would apply, the Exchange may provide a coverage effective date that is earlier than specified in such paragraph.
 
@@ -144,7 +138,7 @@ Link to an amendment published at 89 FR 26423, Apr. 15, 2024.
 
 (15) The qualified individual or his or her dependent is enrolled in COBRA continuation coverage for which an employer is paying all or part of the premiums, or for which a government entity is providing subsidies, and the employer completely ceases its contributions to the qualified individual's or dependent's COBRA continuation coverage or government subsidies completely cease. The triggering event is the last day of the period for which COBRA continuation coverage is paid for or subsidized, in whole or in part, by an employer or government entity. For purposes of this paragraph, “COBRA continuation coverage” has the meaning provided for in § 144.103 of this subchapter and includes coverage under a similar State program.
 
-(16) At the option of the Exchange, a qualified individual or enrollee, or the dependent of a qualified individual or enrollee, who is eligible for advance payments of the premium tax credit, and whose household income, as defined in 26 CFR 1.36B-1(e), is expected to be no greater than 150 percent of the Federal poverty level, may enroll in a QHP or change from one QHP to another one time per month during periods of time when the applicable taxpayer's applicable percentage for purposes of calculating the premium assistance amount, as defined in section 36B(b)(3)(A) of the Internal Revenue Code, is set at zero.
+(16) At the option of the Exchange, a qualified individual or enrollee, or the dependent of a qualified individual or enrollee, who is eligible for advance payments of the premium tax credit, and whose household income, as defined in 26 CFR 1.36B-1(e), is expected to be at or below 150 percent of the Federal poverty level, may enroll in a QHP or change from one QHP to another one time per month.
 
 (e) *Loss of coverage.* Loss of coverage described in paragraph (d)(1) of this section includes those circumstances described in 26 CFR 54.9801-6(a)(3)(i) through (iii) and in paragraphs (d)(1)(ii) through (iv) of this section. Loss of coverage does not include voluntary termination of coverage or other loss due to—
 

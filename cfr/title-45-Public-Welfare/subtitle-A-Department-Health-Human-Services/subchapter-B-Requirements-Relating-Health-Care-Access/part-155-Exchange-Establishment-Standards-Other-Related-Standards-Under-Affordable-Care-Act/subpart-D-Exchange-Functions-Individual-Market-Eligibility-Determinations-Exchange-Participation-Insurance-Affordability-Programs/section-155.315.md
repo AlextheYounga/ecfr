@@ -1,7 +1,5 @@
 ##### § 155.315 Verification process related to eligibility for enrollment in a QHP through the Exchange. #####
 
-Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
-
 (a) *General requirement.* Unless a request for modification is granted in accordance with paragraph (h) of this section, the Exchange must verify or obtain information as provided in this section in order to determine that an applicant is eligible for enrollment in a QHP through the Exchange.
 
 (b) *Validation of Social Security number.* (1) For any individual who provides his or her Social Security number to the Exchange, the Exchange must transmit the Social Security number and other identifying information to HHS, which will submit it to the Social Security Administration.
@@ -24,13 +22,13 @@ Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
 
 (4) If the information in such data sources is not reasonably compatible with the information provided by the applicant, the Exchange must follow the procedures specified in paragraph (f) of this section. Evidence of immigration status may not be used to determine that an applicant is not a resident of the Exchange service area.
 
-(e) *Verification of incarceration status.* The Exchange must verify an applicant's attestation that he or she meets the requirements of § 155.305(a)(2) by—
+(e) *Verification of incarceration status.* The Exchange must verify an applicant's attestation that the applicant meets the requirements of § 155.305(a)(2) by—
 
-(1) Relying on any electronic data sources that are available to the Exchange and which have been approved by HHS for this purpose, based on evidence showing that such data sources are sufficiently current, accurate, and offer less administrative complexity than paper verification; or
+(1) Accepting an applicant's attestation that they are not currently incarcerated; or
 
-(2) Except as provided in paragraph (e)(3) of this section, if an approved data source is unavailable, accepting his or her attestation without further verification.
+(2) Verifying an applicant's attestation of incarceration status using any electronic data source that is available to the Exchange and which has been approved by HHS for this purpose. HHS will approve an electronic data source for incarceration verification if it provides data that are current and accurate, and if its use minimizes administrative costs and burdens.
 
-(3) To the extent that an applicant's attestation is not reasonably compatible with information from approved data sources described in paragraph (e)(1) of this section or other information provided by the applicant or in the records of the Exchange, the Exchange must follow the procedures specified in § 155.315(f).
+(3) If an Exchange verifies an applicant's attestation of incarceration status using an approved data source under paragraph (e)(2) of this section, to the extent that an applicant's attestation is not reasonably compatible with information from the approved data source or other information provided by the applicant or in the records of the Exchange, the Exchange must follow the procedures specified in § 155.315(f).
 
 (f) *Inconsistencies.* Except as otherwise specified in this subpart, for an applicant for whom the Exchange cannot verify information required to determine eligibility for enrollment in a QHP through the Exchange, advance payments of the premium tax credit, and cost-sharing reductions, including when electronic data is required in accordance with this subpart but data for individuals relevant to the eligibility determination are not included in such data sources or when electronic data from IRS, DHS, or SSA is required but it is not reasonably expected that data sources will be available within 1 day of the initial request to the data source, the Exchange:
 
@@ -76,4 +74,4 @@ Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
 
 (3) To the extent that the Exchange is unable to verify the information required to determine eligibility for enrollment through the Exchange in a QHP that is a catastrophic plan as described in paragraphs (j)(1) and (2) of this section, the Exchange must follow the procedures specified in § 155.315(f), except for § 155.315(f)(4).
 
-[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42316, July 15, 2013; 88 FR 25918, Apr. 27, 2023]
+[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42316, July 15, 2013; 88 FR 25918, Apr. 27, 2023; 89 FR 26421, Apr. 15, 2024]

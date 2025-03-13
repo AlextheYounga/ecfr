@@ -384,4 +384,4 @@
 
 (m) *Swimming.* The swimming or bathing in a natural, historical, or archeological thermal pool or stream that has waters originating entirely from a thermal spring or pool is prohibited.
 
-[36 FR 12014, June 24, 1971]Editorial Note:For Federal Register citations affecting § 7.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[36 FR 12014, June 24, 1971] Editorial Note:For Federal Register citations affecting § 7.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

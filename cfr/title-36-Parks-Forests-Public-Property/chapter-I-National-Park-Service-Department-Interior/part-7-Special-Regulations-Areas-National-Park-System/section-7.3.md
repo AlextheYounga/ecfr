@@ -20,7 +20,7 @@
 
 (7) The revocable permit for eating, drinking, and lodging establishments issued by the Superintendent shall contain general regulatory provisions as hereinafter set forth, and will include such reasonable special conditions relating to the health and safety of visitors both to the park and to the establishments as the Superintendent may deem necessary to cover existing local circumstances, and shall be in a form substantially as follows:
 
-(Front of Permit)U.S. Department of the Interiornational park serviceRevocable Permit for Operation of Eating or Drinking and Lodging Establishments
+(Front of Permit) U.S. Department of the Interior national park serviceRevocable Permit for Operation of Eating or Drinking and Lodging Establishments
 
 Permission is hereby granted \_\_\_\_\_\_\_\_\_\_\_\_, who resides at \_\_\_\_\_\_\_\_\_\_\_\_, to operate during the period of \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, inclusive a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (specify type of establishment) within Glacier National Park on lands privately owned or controlled by him (her) over which the United States exercises exclusive jurisdiction. This permit is subject to the general provisions and any special conditions stated on the reverse hereof.
 
@@ -30,11 +30,11 @@ Superintendent
 
 I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, the permittee named herein, accept this permit subject to the terms, convenants, obligations, and reservations expressed or implied.
 
-Copartnership—permittees sign as “Members of firm”.Corporation—the officer authorized to execute contracts, etc., should sign, with title, the sufficiency of such signature being attested by the Secretary, with corporate seal in lieu of witness.Permittee
+Copartnership—permittees sign as “Members of firm”. Corporation—the officer authorized to execute contracts, etc., should sign, with title, the sufficiency of such signature being attested by the Secretary, with corporate seal in lieu of witness.Permittee
 
 Witness:
 
-NameAddressNameAddress(Reverse of Permit)General Regulatory Provisions of This Permit
+Name Address Name Address (Reverse of Permit)General Regulatory Provisions of This Permit
 
 1. Permittee shall exercise this privilege subject to the supervision of the Superintendent of the Park and shall comply with the regulations of the Secretary of the Interior governing the Park.
 

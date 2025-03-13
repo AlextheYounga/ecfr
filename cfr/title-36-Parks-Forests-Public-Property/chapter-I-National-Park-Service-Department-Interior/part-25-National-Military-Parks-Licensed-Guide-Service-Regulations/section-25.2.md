@@ -10,7 +10,7 @@
 
 (e) Each person licensed to act as a full-time guide will be issued a license in the following form:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Place)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Date)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Place) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Date)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, having successfully passed the examination prescribed for license, is hereby licensed to offer his service as a guide to visitors. This license is issued subject to the condition that the licensee shall comply with all the rules and regulations prescribed for guide service by the Secretary of the Interior and with the prescribed schedule of rates, copies of all of which have been furnished to him.
 
@@ -22,7 +22,7 @@ Failure to act as a guide for any period exceeding 30 days between June 1 and Au
 
 (f) Each person licensed to act as a temporary or part-time guide, during periods of heavy visitation, will be issued a license in the following form:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Place)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Date)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Place) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Date)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, having successfully passed the examination prescribed for license, is hereby licensed to offer service as a guide to visitors. This license is issued subject to the condition that the licensee shall comply with all the rules and regulations prescribed for guide service by the Secretary of the Interior, copies of which have been furnished to him.
 
@@ -32,7 +32,7 @@ This license shall continue in effect for a period of \_\_\_\_\_\_\_\_ days begi
 
 (g) Before being issued a license to act as a guide, each applicant will be required to subscribe to the following agreement:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Place)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Date)*To Superintendent, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ National Military Park.*
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Place) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Date) *To Superintendent, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ National Military Park.*
 
 For and in consideration of the issuance to me a license to act as guide, I hereby accept and agree to observe fully the following conditions:
 
