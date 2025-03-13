@@ -240,4 +240,4 @@ VTOSS means takeoff safety speed for Category A rotorcraft.
 
 *VORTAC* means collocated VOR and TACAN.
 
-[Doc. No. 1150, 27 FR 4590, May 15, 1962]Editorial Note:For Federal Register citations affecting § 1.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Doc. No. 1150, 27 FR 4590, May 15, 1962] Editorial Note:For Federal Register citations affecting § 1.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

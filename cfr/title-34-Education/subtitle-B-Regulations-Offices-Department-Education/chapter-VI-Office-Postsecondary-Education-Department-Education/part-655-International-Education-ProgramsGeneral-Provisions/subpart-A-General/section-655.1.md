@@ -1,5 +1,7 @@
 ##### § 655.1 Which programs do these regulations govern? #####
 
+Link to an amendment published at 89 FR 68757, Aug. 27, 2024.
+
 The regulations in this part govern the administration of the following programs in international education:
 
 (a) The National Resource Centers Program for Foreign Language and Area Studies or Foreign Language and International Studies (section 602 of the Higher Education Act of 1965, as amended);

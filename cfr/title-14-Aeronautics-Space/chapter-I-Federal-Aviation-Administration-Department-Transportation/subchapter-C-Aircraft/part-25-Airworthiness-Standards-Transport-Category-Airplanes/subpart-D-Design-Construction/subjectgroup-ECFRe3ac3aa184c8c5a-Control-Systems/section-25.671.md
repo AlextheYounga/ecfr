@@ -1,5 +1,7 @@
 ##### § 25.671 General. #####
 
+Link to an amendment published at 89 FR 68734, Aug. 27, 2024.
+
 (a) Each control and control system must operate with the ease, smoothness, and positiveness appropriate to its function.
 
 (b) Each element of each flight control system must be designed, or distinctively and permanently marked, to minimize the probability of incorrect assembly that could result in the malfunctioning of the system.

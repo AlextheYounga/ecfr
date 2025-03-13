@@ -1,5 +1,7 @@
 ##### § 25.1309 Equipment, systems, and installations. #####
 
+Link to an amendment published at 89 FR 68735, Aug. 27, 2024.
+
 (a) The equipment, systems, and installations whose functioning is required by this subchapter, must be designed to ensure that they perform their intended functions under any foreseeable operating condition.
 
 (b) The airplane systems and associated components, considered separately and in relation to other systems, must be designed so that—

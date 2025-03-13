@@ -1,5 +1,7 @@
 ##### § 25.901 Installation. #####
 
+Link to an amendment published at 89 FR 68734, Aug. 27, 2024.
+
 (a) For the purpose of this part, the airplane powerplant installation includes each component that—
 
 (1) Is necessary for propulsion;

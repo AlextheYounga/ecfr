@@ -12,7 +12,7 @@ Contracts between charter operators and charter participants shall state:
 
 (e) The amount and schedule of payments;
 
-(f) If a depository agreement as provided in § 380.34(b) is used: That all checks, money orders, and credit card drafts must be made payable to the escrow account at the depository bank (identifying bank)1 or, when the charter is sold to the participant by a retail travel agent, checks and money orders may be made payable to the agent, who must in turn make his check payable to the escrow account at the depository bank;
+(f) If a depository agreement as provided in § 380.34(b) is used: That all checks, money orders, and credit card drafts must be made payable to the escrow account at the depository bank (identifying bank) 1 or, when the charter is sold to the participant by a retail travel agent, checks and money orders may be made payable to the agent, who must in turn make his check payable to the escrow account at the depository bank;
 
 1 If the credit card merchant account is separate from the depository account, it must be used solely as a conduit, i.e., all credit card payments toward Public Charter trips must be immediately remitted to the depository account in full, without holdback, or retention of any portion of the participant's payment. If the depository bank is not the credit card merchant bank, the Department must be satisfied that there are adequate procedural safeguards for the protection of participants' payments.
 

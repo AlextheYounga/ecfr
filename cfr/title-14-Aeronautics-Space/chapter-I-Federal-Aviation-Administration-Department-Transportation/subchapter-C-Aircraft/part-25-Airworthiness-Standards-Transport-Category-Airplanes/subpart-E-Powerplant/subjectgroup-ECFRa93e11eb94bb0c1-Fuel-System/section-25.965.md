@@ -14,7 +14,7 @@
 
 (1) Each complete tank assembly and its supports must be vibration tested while mounted to simulate the actual installation.
 
-(2) Except as specified in paragraph (b)(4) of this section, the tank assembly must be vibrated for 25 hours at an amplitude of not less than1/32 of an inch (unless another amplitude is substantiated) while2/3 filled with water or other suitable test fluid.
+(2) Except as specified in paragraph (b)(4) of this section, the tank assembly must be vibrated for 25 hours at an amplitude of not less than 1/32 of an inch (unless another amplitude is substantiated) while 2/3 filled with water or other suitable test fluid.
 
 (3) The test frequency of vibration must be as follows:
 

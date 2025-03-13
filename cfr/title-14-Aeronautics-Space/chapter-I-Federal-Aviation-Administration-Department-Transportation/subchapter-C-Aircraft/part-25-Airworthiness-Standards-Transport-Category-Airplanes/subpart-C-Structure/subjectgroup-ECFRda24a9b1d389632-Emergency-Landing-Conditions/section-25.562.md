@@ -24,7 +24,7 @@
 
 (5) Each occupant must be protected from serious head injury under the conditions prescribed in paragraph (b) of this section. Where head contact with seats or other structure can occur, protection must be provided so that the head impact does not exceed a Head Injury Criterion (HIC) of 1,000 units. The level of HIC is defined by the equation:
 
-![](/graphics/ec28se91.044.gif)Where:t1 is the initial integration time,t2 is the final integration time, anda(t) is the total acceleration vs. time curve for the head strike, and where(t) is in seconds, and (a) is in units of gravity (g).
+![](/graphics/ec28se91.044.gif)Where: t1 is the initial integration time, t2 is the final integration time, and a(t) is the total acceleration vs. time curve for the head strike, and where (t) is in seconds, and (a) is in units of gravity (g).
 
 (6) Where leg injuries may result from contact with seats or other structure, protection must be provided to prevent axially compressive loads exceeding 2,250 pounds in each femur.
 

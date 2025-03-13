@@ -1,5 +1,7 @@
 ##### § 25.1301 Function and installation. #####
 
+Link to an amendment published at 89 FR 68735, Aug. 27, 2024.
+
 (a) Each item of installed equipment must—
 
 (1) Be of a kind and design appropriate to its intended function;

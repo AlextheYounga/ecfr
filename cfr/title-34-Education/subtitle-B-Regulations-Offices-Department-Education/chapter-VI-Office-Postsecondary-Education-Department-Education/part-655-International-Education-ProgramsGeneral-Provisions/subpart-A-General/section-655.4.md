@@ -1,5 +1,7 @@
 ##### § 655.4 What definitions apply to the International Education Programs? #####
 
+                                                                                        Link to an amendment published at 89 FR 68757, Aug. 27, 2024.
+
                                                                                         (a) *General definitions.* The following terms used in this part and 34 CFR parts 656, 657, 658, 660, 661, and 669 are defined in 2 CFR part 200, subpart A, or 34 CFR 77.1:
 
                                                                                         AcquisitionApplicantApplicationAwardBudgetContractEDGAREquipmentFacilitiesFiscal yearGrantGranteeGrant periodLocal educational agencyNonprofitProjectProject periodPrivatePublicSecretaryState educational agencySupplies(Authority: 20 U.S.C. 1121-1127)

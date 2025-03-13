@@ -1,5 +1,7 @@
 ##### § 655.31 What general selection criteria does the Secretary use? #####
 
+Link to an amendment published at 89 FR 68758, Aug. 27, 2024.
+
 (a) *Plan of operation.* (1) The Secretary reviews each application for information that shows the quality of the plan of operation for the project.
 
 (2) The Secretary looks for information that shows—

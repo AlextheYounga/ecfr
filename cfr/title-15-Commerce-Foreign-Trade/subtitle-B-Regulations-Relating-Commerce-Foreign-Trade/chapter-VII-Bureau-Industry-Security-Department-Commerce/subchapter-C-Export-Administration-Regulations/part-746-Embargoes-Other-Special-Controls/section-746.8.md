@@ -1,6 +1,6 @@
 ##### § 746.8 Sanctions against Russia and Belarus. #####
 
-Link to an amendment published at 89 FR 51664, June 18, 2024.
+Link to an amendment published at 89 FR 51664, June 18, 2024.Link to an amendment published at 89 FR 68543, Aug. 27, 2024.
 
 (a) *License requirements.* Except as described in the exclusions in paragraph (a)(12), and in addition to license requirements specified on the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR and in other provisions of the EAR, including part 744 and other sections of part 746, a license is required as specified under paragraphs (a)(1) through (7). These license requirements follow an order of review, which provides guidance on the relationship between the different license requirements and which ones take precedence for certain items. For purposes of paragraphs (a)(5) through (7) of this section, a license is not required for any item that is listed in supplement nos. 4, 5 or 6 to this part that is also classified under an Export Control Classification Number (ECCN) on the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR. *See* paragraph (a)(1) of this section and part 742 for license requirements for exports, reexports, and transfers to or within Russia or Belarus for items classified in ECCNs, as well as part 744 for end-use and end-user controls that may apply to your transaction. Paragraphs (a)(1) and (2) of this section, are also used for determining license requirements for exports, reexports, and transfers to or within Russia or Belarus of any item that is listed in supplement nos. 4, 5, or 6 to this part and is classified in an ECCN on the CCL in supplement no. 1 to part 774 of the EAR. License requirements in paragraph (a)(4) that apply to exports, reexports, and transfers (in-country) involved in certain end-uses should be reviewed only after license requirements in paragraphs (a)(1) through (a)(3) and (a)(5) through (a)(7) are reviewed.
 
@@ -8,11 +8,7 @@ Link to an amendment published at 89 FR 51664, June 18, 2024.
 
 (2) *Russia/Belarus/Temporarily occupied Crimea region of Ukraine foreign “direct product” (FDP) rule.* A license is required to reexport, export from abroad, or transfer (in-country) to any destination any foreign-produced item subject to the EAR under the Russia/Belarus/Temporarily occupied Crimea region of Ukraine under the FDP rule described in § 734.9(f) of the EAR.
 
-(3) *Russia/Belarus-Military End User FDP rule.* A license is required to reexport, export from abroad, or transfer (in-country) to or within any destination any foreign-produced item subject to the EAR under § 734.9(g) of the EAR.
-
-Note 1 to paragraph (a)(3):
-
-A 'military end user' for purposes of this paragraph is any entity listed on the Entity List in supplement no. 4 to part 744 of the EAR with a Footnote 3 designation.
+(3) *Russia/Belarus-Military End User and Procurement FDP rule.* A license is required to reexport, export from abroad, or transfer (in-country) to or within any destination any foreign-produced item subject to the EAR under § 734.9(g) of the EAR.
 
 (4) *Oil and Gas*—(i) *Certain exploration or production of oil or gas.* A license is required to export, reexport, or transfer (in-country) any item subject to the EAR listed in supplement no. 2 to this part and items specified in ECCNs 0A998, 1C992, 3A229, 3A231, 3A232, 6A991, 8A992, and 8D999 when you “know” that the item will be used directly or indirectly in exploration for, or production of, oil or gas in Russian deepwater (greater than 500 feet) or Arctic offshore locations or shale formations in Russia or Belarus, or are unable to determine whether the item will be used in such projects. Such items include, but are not limited to, drilling rigs, parts for horizontal drilling, drilling and completion equipment, subsea processing equipment, Arctic-capable marine equipment, wireline and down hole motors and equipment, drill pipe and casing, software for hydraulic fracturing, high pressure pumps, seismic acquisition equipment, remotely operated vehicles, compressors, expanders, valves, and risers.
 
@@ -114,4 +110,4 @@ See also § 750.7(c)(1)(xi) of the EAR for the divesture of items within Russia 
 
 (d) *License Applications.* License applications submitted to BIS under this section may include the phrase “§ 746.8” and identify the paragraph (a) license requirement(s) from this section that are applicable. You should include a description such as “paragraph (a)(1) or any of the other paragraph (a) paragraphs that may be applicable to a license application” in Block 9 (Special Purpose) of your license application as described in supplement no. 1 to part 748 of the EAR.
 
-[89 FR 51662, June 18, 2024]
+[89 FR 51662, June 18, 2024, as amended at 89 FR 68543, Aug. 27, 2024]

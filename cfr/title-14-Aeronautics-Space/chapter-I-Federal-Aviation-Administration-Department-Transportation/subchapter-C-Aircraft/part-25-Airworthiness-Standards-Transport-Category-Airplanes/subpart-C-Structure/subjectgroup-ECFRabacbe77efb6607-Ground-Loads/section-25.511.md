@@ -10,7 +10,7 @@
 
 (1) The number of wheels and their physical arrangements. For truck type landing gear units, the effects of any seesaw motion of the truck during the landing impact must be considered in determining the maximum design loads for the fore and aft wheel pairs.
 
-(2) Any differentials in tire diameters resulting from a combination of manufacturing tolerances, tire growth, and tire wear. A maximum tire-diameter differential equal to2/3 of the most unfavorable combination of diameter variations that is obtained when taking into account manufacturing tolerances, tire growth, and tire wear, may be assumed.
+(2) Any differentials in tire diameters resulting from a combination of manufacturing tolerances, tire growth, and tire wear. A maximum tire-diameter differential equal to 2/3 of the most unfavorable combination of diameter variations that is obtained when taking into account manufacturing tolerances, tire growth, and tire wear, may be assumed.
 
 (3) Any unequal tire inflation pressure, assuming the maximum variation to be ±5 percent of the nominal tire inflation pressure.
 

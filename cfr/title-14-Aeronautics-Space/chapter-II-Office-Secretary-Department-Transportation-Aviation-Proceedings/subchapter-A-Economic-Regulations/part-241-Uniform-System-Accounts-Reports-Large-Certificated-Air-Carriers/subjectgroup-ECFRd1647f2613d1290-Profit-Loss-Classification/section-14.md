@@ -162,4 +162,4 @@ Record here all debits of a nonoperating character not provided for otherwise, s
 
 (i) Accruals to allowance for uncollectible nonoperating receivables.
 
-(Secs. 204, 404, 407, and 1002 of the Federal Aviation Act of 1958, as amended, 72 Stat. 743, 760, 766, 788, (49 U.S.C. 1324, 1374, 1377, 1482))[ER-980, 42 FR 38, Jan. 3, 1977, as amended by ER-1013, 42 FR 37516, July 21, 1977; ER-1027, 42 FR 60128, Nov. 25, 1977; ER-1076, 43 FR 46296, Oct. 6, 1978; ER-1401, 50 FR 245, Jan. 3, 1985; Amdt. 241-58, 54 FR 5596, Feb. 6, 1989]
+(Secs. 204, 404, 407, and 1002 of the Federal Aviation Act of 1958, as amended, 72 Stat. 743, 760, 766, 788, (49 U.S.C. 1324, 1374, 1377, 1482)) [ER-980, 42 FR 38, Jan. 3, 1977, as amended by ER-1013, 42 FR 37516, July 21, 1977; ER-1027, 42 FR 60128, Nov. 25, 1977; ER-1076, 43 FR 46296, Oct. 6, 1978; ER-1401, 50 FR 245, Jan. 3, 1985; Amdt. 241-58, 54 FR 5596, Feb. 6, 1989]

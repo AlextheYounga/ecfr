@@ -1,5 +1,7 @@
 ##### § 25.933 Reversing systems. #####
 
+Link to an amendment published at 89 FR 68734, Aug. 27, 2024.
+
 (a) For turbojet reversing systems—
 
 (1) Each system intended for ground operation only must be designed so that during any reversal in flight the engine will produce no more than flight idle thrust. In addition, it must be shown by analysis or test, or both, that—

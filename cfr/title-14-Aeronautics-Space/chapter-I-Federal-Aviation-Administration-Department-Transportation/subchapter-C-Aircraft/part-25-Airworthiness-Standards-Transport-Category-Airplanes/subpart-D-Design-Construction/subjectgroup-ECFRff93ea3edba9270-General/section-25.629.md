@@ -1,5 +1,7 @@
 ##### § 25.629 Aeroelastic stability requirements. #####
 
+Link to an amendment published at 89 FR 68734, Aug. 27, 2024.
+
 (a) *General.* The aeroelastic stability evaluations required under this section include flutter, divergence, control reversal and any undue loss of stability and control as a result of structural deformation. The aeroelastic evaluation must include whirl modes associated with any propeller or rotating device that contributes significant dynamic forces. Compliance with this section must be shown by analyses, wind tunnel tests, ground vibration tests, flight tests, or other means found necessary by the Administrator.
 
 (b) *Aeroelastic stability envelopes.* The airplane must be designed to be free from aeroelastic instability for all configurations and design conditions within the aeroelastic stability envelopes as follows:

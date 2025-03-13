@@ -1,5 +1,7 @@
 ##### § 655.3 What regulations apply to the International Education Programs? #####
 
+Link to an amendment published at 89 FR 68757, Aug. 27, 2024.
+
 The following regulations apply to the International Education Programs:
 
 (a) The Education Department General Administrative Regulations (EDGAR) as follows:

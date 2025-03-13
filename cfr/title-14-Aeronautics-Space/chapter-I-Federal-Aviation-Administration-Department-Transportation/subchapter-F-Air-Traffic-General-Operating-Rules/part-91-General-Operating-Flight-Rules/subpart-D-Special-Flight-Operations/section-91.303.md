@@ -14,4 +14,4 @@ No person may operate an aircraft in aerobatic flight—
 
 (f) When flight visibility is less than 3 statute miles.
 
-For the purposes of this section, aerobatic flight means an intentional maneuver involving an abrupt change in an aircraft's attitude, an abnormal attitude, or abnormal acceleration, not necessary for normal flight.[Doc. No. 18834, 54 FR 34308, Aug. 18, 1989, as amended by Amdt. 91-227, 56 FR 65661, Dec. 17, 1991]
+For the purposes of this section, aerobatic flight means an intentional maneuver involving an abrupt change in an aircraft's attitude, an abnormal attitude, or abnormal acceleration, not necessary for normal flight. [Doc. No. 18834, 54 FR 34308, Aug. 18, 1989, as amended by Amdt. 91-227, 56 FR 65661, Dec. 17, 1991]

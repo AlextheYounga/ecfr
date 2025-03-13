@@ -18,7 +18,7 @@ For each airspeed indicating system, the following apply:
 
 (d) From 1.23 VSR to the speed at which stall warning begins, the IAS must change perceptibly with CAS and in the same sense, and at speeds below stall warning speed the IAS must not change in an incorrect sense.
 
-(e) From VMO to VMO +2/3 (VDF − VMO), the IAS must change perceptibly with CAS and in the same sense, and at higher speeds up to VDF the IAS must not change in an incorrect sense.
+(e) From VMO to VMO + 2/3 (VDF − VMO), the IAS must change perceptibly with CAS and in the same sense, and at higher speeds up to VDF the IAS must not change in an incorrect sense.
 
 (f) There must be no indication of airspeed that would cause undue difficulty to the pilot during the takeoff between the initiation of rotation and the achievement of a steady climbing condition.
 

@@ -120,23 +120,23 @@ A foreign-produced item includes any foreign-produced wafer whether finished or 
 
 (2) *Destination scope of the Russia/Belarus/Temporarily occupied Crimea region of Ukraine FDP rule.* A foreign-produced item meets the destination scope of this paragraph (f)(2) if there is “knowledge” that the foreign-produced item is destined to Russia, Belarus, or the temporarily occupied Crimea region of Ukraine or will be incorporated into or used in the “production” or” development” of any “part,” “component,” or “equipment” specified in any ECCN on the CCL or in supplement no. 6 or 7 to part 746 of the EAR and produced in or destined to Russia, Belarus, or the temporarily occupied Crimea region of Ukraine.
 
-(g) *Russia/Belarus-Military End User FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (g)(1) of this section and the end-user scope in paragraph (g)(2) of this section. See § 746.8 of the EAR for license requirements, license review policy, and license exceptions applicable to foreign-produced items that are subject to the EAR pursuant to this paragraph (g).
+(g) *Russia/Belarus-Military End User and Procurement FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (g)(1) of this section and the end-user scope in paragraph (g)(2) of this section. See § 746.8 of the EAR for license requirements, license review policy, and license exceptions applicable to foreign-produced items that are subject to the EAR pursuant to this paragraph (g).
 
-(1) *Product Scope of Russia/Belarus-Military End User FDP rule.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (g)(1)(i) or (ii) of this section.
+(1) *Product Scope of Russia/Belarus-Military End User and Procurement FDP rule.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (g)(1)(i) or (ii) of this section.
 
 (i) *“Direct product” of “technology” or “software.”* A foreign-produced item meets the product scope of this paragraph (g)(1)(i) if the foreign-produced item is a “direct product” of “technology” or “software” subject to the EAR and specified in any ECCN in product groups D or E in any categories of the CCL; or
 
 (ii) *Product of a complete plant or 'major component' of a plant that is a “direct product.”* A foreign-produced item meets the product scope of this paragraph if the foreign-produced item is produced by any complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” that is specified in any ECCN in product groups D or E in any categories of the CCL.
 
-(2) *End-user scope of the Russia/Belarus-'Military End User' FDP rule.* A foreign-produced item meets the end-user scope of this paragraph (g)(2) if there is “knowledge” that:
+(2) *End-user scope of the Russia/Belarus-Military End User and Procurement FDP rule.* A foreign-produced item meets the end-user scope of this paragraph (g)(2) if there is “knowledge” that:
 
 (i) *Activities involving footnote 3 designated entities.* The foreign-produced item will be incorporated into, or used in the “production” or “development” of any “part,” “component,” or “equipment” produced, purchased, or ordered by any entity with a footnote 3 designation in the license requirement column of the Entity List in supplement no. 4 to part 744 of the EAR; or
 
 (ii) *Footnote 3 designated entities as transaction parties.* Any entity with a footnote 3 designation in the license requirement column of the Entity List in supplement no. 4 to part 744 of the EAR is a party to any transaction involving the foreign-produced item, *e.g.,* as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user.”
 
-Note 3 to paragraph (g).
+Note 3 to paragraph (g):
 
-A 'military end user' for purposes of paragraph (g) is any entity listed on the Entity List in supplement no. 4 to part 744 of the EAR with a footnote 3 designation.
+Footnote 3 may be added to an entity that the End User Review Committee has determined to be either a Russian or Belarusian 'military end user' as defined in § 744.21 of the EAR, or a Russian or Belarusian Procurement Entity that poses a significant risk of involvement in the supply or diversion of items subject to the EAR to procurement networks for Russia's or Belarus's defense industry or intelligence services.
 
 (h) *Advanced computing FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (h)(1) of this section and the destination scope in paragraph (h)(2) of this section. See § 742.6(a)(6) of the EAR for license requirements and license exceptions and § 742.6(b)(10) for license review policy applicable to foreign-produced items that are subject to the EAR under this paragraph (h).
 
@@ -210,4 +210,4 @@ These end-use requirements under paragraph (h) apply when any entity headquarter
 
 (3) *End-user scope of the Iran FDP rule.* A transaction meets the end-user scope of this paragraph (j)(3) if the reexporter or transferor has “knowledge” that the Government of Iran is a party to any transaction involving the foreign-produced item, *e.g.,* as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user.”
 
-[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023; 88 FR 12153, Feb. 27, 2023; 88 FR 33428, May 23, 2023; 88 FR 73488, Oct. 25, 2023; 89 FR 60564, July 26, 2024]
+[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023; 88 FR 12153, Feb. 27, 2023; 88 FR 33428, May 23, 2023; 88 FR 73488, Oct. 25, 2023; 89 FR 60564, July 26, 2024; 89 FR 68542, Aug. 27, 2024]

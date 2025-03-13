@@ -1,5 +1,7 @@
 ##### § 25.1365 Electrical appliances, motors, and transformers. #####
 
+Link to an amendment published at 89 FR 68735, Aug. 27, 2024.
+
 (a) Domestic appliances must be designed and installed so that in the event of failures of the electrical supply or control system, the requirements of § 25.1309(b), (c), and (d) will be satisfied. Domestic appliances are items such as cooktops, ovens, coffee makers, water heaters, refrigerators, and toilet flush systems that are placed on the airplane to provide service amenities to passengers.
 
 (b) Galleys and cooking appliances must be installed in a way that minimizes risk of overheat or fire.
