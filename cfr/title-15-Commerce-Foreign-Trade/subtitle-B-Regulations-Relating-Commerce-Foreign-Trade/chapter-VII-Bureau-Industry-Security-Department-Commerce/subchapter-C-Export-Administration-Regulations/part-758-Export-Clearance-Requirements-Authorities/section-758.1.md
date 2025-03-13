@@ -1,7 +1,5 @@
 ##### § 758.1 The Electronic Export Information (EEI) filing to the Automated Export System (AES). #####
 
-Link to an amendment published at 88 FR 73497, Oct. 25, 2023.
-
 (a) The *Electronic Export Information (EEI) filing to the Automated Export System (AES).* The EEI is used by the Bureau of Census to collect trade statistics and by the Bureau of Industry and Security for export control purposes. The EEI collects basic information such as the names and addresses of the parties to a transaction; the Export Control Classification Number (ECCN) (when required), the Schedule B number or Harmonized Tariff Schedule of the United States (HTS) number, the description, quantity and value of the items exported; and the license authority for the export. The EEI is a statement to the United States Government that the transaction occurred as described.
 
 (b) *When is an EEI filing required to be filed in the AES.* Except when the export of items subject to the EAR is to take place electronically or in an otherwise intangible form, you must file EEI in the AES with the United States Government for items subject to the EAR, including exports by U.S. mail, in the following situations:
@@ -78,6 +76,8 @@ Note 2 to paragraph (g)(4):
 
 If a commodity described in paragraph (g)(4) of this section is exported under License Exception TMP under § 740.9(a)(6) of the EAR for inspection, test, calibration, or repair is not consumed or destroyed in the normal course of authorized temporary use abroad, the commodity must be disposed of or retained in one of the ways specified in § 740.9(a)(14)(i), (ii), or (iii) of the EAR. For example, if a commodity described in paragraph (g)(4) was destroyed while being repaired after being exported under § 740.9(a)(6), the commodity described in paragraph (g)(4) would not be required to be returned. If the entity doing the repair returned a replacement of the commodity to the exporter from the United States, the import would not require an EAR authorization. The entity that exported the commodity described in paragraph (g)(4) and the entity that received the commodity would need to document this as part of their recordkeeping related to this export and subsequent import to the United States.
 
+(5) *Exports of .z items that meet or exceed the performance parameters of ECCN 3A090 or 4A090.* This paragraph (g)(5) imposes a requirement for identifying .z items by “items” level classification in the EEI filing in AES. For any export of .z items controlled under ECCNs 3A001, 4A003, 4A004, 4A005, 5A002, 5A004, 5A992, 5D002, or 5D992 in addition to any other required data for the associated EEI filing, you must include the items paragraph classification (*i.e.,* .z), when applicable, as the first text to appear in the Commodity description block in the EEI filing in AES.
+
 (h) *Power of attorney or other written authorization.* In a “power of attorney” or other written authorization, authority is conferred upon an agent to perform certain specified acts or kinds of acts on behalf of a principal.
 
 (1) An agent must obtain a power of attorney or other written authorization in the following circumstances:
@@ -94,4 +94,4 @@ The Bureau of Census Foreign Trade Regulations impose additional requirements fo
 
 (i) *Filing the Electronic Export Information (EEI).* The EEI must be filed with the United States Government in the manner prescribed by the Bureau of Census Foreign Trade Regulations (15 CFR part 30).
 
-[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018; 85 FR 4178, Jan. 23, 2020; 85 FR 23465, Apr. 28, 2020; 85 FR 83792, Dec. 23, 2020; 86 FR 46595, Aug. 19, 2021]
+[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018; 85 FR 4178, Jan. 23, 2020; 85 FR 23465, Apr. 28, 2020; 85 FR 83792, Dec. 23, 2020; 86 FR 46595, Aug. 19, 2021; 88 FR 73497, Oct. 25, 2023]

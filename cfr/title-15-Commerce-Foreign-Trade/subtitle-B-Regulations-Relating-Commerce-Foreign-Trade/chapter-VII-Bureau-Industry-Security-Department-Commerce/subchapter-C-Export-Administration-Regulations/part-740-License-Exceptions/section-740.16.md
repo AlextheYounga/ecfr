@@ -1,14 +1,12 @@
 ##### § 740.16 Additional permissive reexports (APR). #####
 
-Link to an amendment published at 88 FR 73492, Oct. 25, 2023.
-
 This License Exception allows the following reexports:
 
 (a) *Reexports from Country Group A:1.* Reexports may be made from countries in Country Group A:1, provided that:
 
 (1) The reexport is made in accordance with the conditions of an export authorization from the government of the reexporting country;
 
-(2) The commodities being reexported are not controlled for NP, CB, MT, SI, or CC reasons or described in ECCNs 0A919, 3A001.b.2 or b.3 (except those that are being reexported for use in civil telecommunications applications), 6A002, 6A003; or commodities classified under a 0x5zz ECCN; and
+(2) The commodities being reexported are not controlled for NP, CB, MT, SI, or CC reasons; described in ECCNs 0A919, 3A001.b.2, b.3 (except those that are being reexported for use in civil telecommunications applications), or .z, 6A002, or 6A003; or commodities classified under a 0x5zz ECCN; and
 
 (3) The reexport is destined to *either:*
 
@@ -22,7 +20,7 @@ This License Exception allows the following reexports:
 
 (i) Commodities controlled for nuclear nonproliferation or missile technology reasons;
 
-(ii) Commodities in 3A001.b.2 or b.3 (except those that are being reexported for use in civil telecommunications applications);
+(ii) Commodities in 3A001.b.2, b.3 (except those that are being reexported for use in civil telecommunications applications), or .z;
 
 (iii) “Military commodities” described in ECCN 0A919;
 

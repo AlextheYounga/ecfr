@@ -1,7 +1,5 @@
 ##### § 734.3 Items subject to the EAR. #####
 
-Link to an amendment published at 88 FR 73488, Oct. 25, 2023.
-
 (a) Except for items excluded in paragraph (b) of this section, the following items are subject to the EAR:
 
 (1) All items in the United States, including in a U.S. Foreign Trade Zone or moving intransit through the United States from one foreign country to another;
@@ -14,13 +12,13 @@ Link to an amendment published at 88 FR 73488, Oct. 25, 2023.
 
 (ii) In quantities exceeding the *de minimis* levels, as described in § 734.4(c) or § 734.4(d) of this part;
 
-(4) Certain foreign-produced “direct products” of specified “technology” and “software,” as described in § 736.2(b)(3) of the EAR; and
+(4) Certain foreign-produced “direct products” of specified “technology” and “software,” as described in § 734.9 of the EAR; and
 
 Note to paragraph (a)(4):
 
 Certain foreign-manufactured items developed or produced from U.S.-origin encryption items exported pursuant to License Exception ENC are subject to the EAR. See § 740.17(a) of the EAR.
 
-(5) Certain foreign-produced “direct products” of a complete plant or any major component of a plant as described in § 736.2(b)(3) of the EAR.
+(5) Certain foreign-produced products of a complete plant or any major component of a plant that is a “direct product” of specified “technology” or “software” as described in § 734.9 of the EAR.
 
 (b) The following are not subject to the EAR:
 

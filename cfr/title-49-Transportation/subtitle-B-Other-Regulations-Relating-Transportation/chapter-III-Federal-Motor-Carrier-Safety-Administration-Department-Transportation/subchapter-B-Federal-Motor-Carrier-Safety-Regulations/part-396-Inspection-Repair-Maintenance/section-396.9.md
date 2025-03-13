@@ -1,6 +1,6 @@
 ##### § 396.9 Inspection of motor vehicles and intermodal equipment in operation. #####
 
-(a) *Personnel authorized to perform inspections.* Every special agent of the FMCSA (as defined in appendix B to this subchapter) is authorized to enter upon and perform inspections of a motor carrier's vehicles in operation and intermodal equipment in operation.
+(a) *Personnel authorized to perform inspections.* Every special agent of the FMCSA (as defined in appendix B to part 390 of this chapter) is authorized to enter upon and perform inspections of a motor carrier's vehicles in operation and intermodal equipment in operation.
 
 (b) *Prescribed inspection report.* The Driver Vehicle Examination Report shall be used to record results of motor vehicle inspections and results of intermodal equipment inspections conducted by authorized FMCSA personnel.
 
@@ -20,4 +20,4 @@
 
 (ii) Return the completed roadside inspection form to the issuing agency at the address indicated on the form and retain a copy at the motor carrier's principal place of business, at the intermodal equipment provider's principal place of business, or where the vehicle is housed for 12 months from the date of the inspection.
 
-[73 FR 76824, Dec. 17, 2008, as amended at 75 FR 17252, Apr. 5, 2010; 77 FR 28451, May 14, 2012; 78 FR 58485, Sept. 24, 2013; 81 FR 47731, July 22, 2016]
+[73 FR 76824, Dec. 17, 2008, as amended at 75 FR 17252, Apr. 5, 2010; 77 FR 28451, May 14, 2012; 78 FR 58485, Sept. 24, 2013; 81 FR 47731, July 22, 2016; 88 FR 80193, Nov. 17, 2023]

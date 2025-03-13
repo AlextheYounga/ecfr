@@ -1,6 +1,6 @@
 ##### § 384.228 Examiner training and record checks. #####
 
-For all State and third party CDL test examiners, the State must meet the following 10 requirements:
+For all State and third-party CDL test examiners, the State must meet the following 10 requirements:
 
 (a) Establish examiner training standards for initial and refresher training that provides CDL test examiners with a fundamental understanding of the objectives of the CDL testing program, and with all of the knowledge and skills necessary to serve as a CDL test examiner and assist jurisdictions in meeting the Federal CDL testing requirements.
 
@@ -98,9 +98,9 @@ For all State and third party CDL test examiners, the State must meet the follow
 
 (iv) Calculating the score.
 
-(e) Require all third party skills test examiners to successfully complete a formal CDL test examiner training course and examination before certifying them to administer CDL skills tests. The training course must cover at least the five units of instruction in paragraph (d) of this section.
+(e) Require all third-party skills test examiners to successfully complete a formal CDL test examiner training course and examination before certifying them to administer CDL skills tests. The training course must cover at least the five units of instruction in paragraph (d) of this section.
 
-(f) Require State and third party CDL test examiners to successfully complete a refresher training course and examination every four years to maintain their CDL test examiner certification. The refresher training course must cover at least the following:
+(f) Require State and third-party CDL test examiners to successfully complete a refresher training course and examination every four years to maintain their CDL test examiner certification. The refresher training course must cover at least the following:
 
 (1) For CDL knowledge test examiners, the three units of training described in paragraph (c) of this section.
 
@@ -112,9 +112,9 @@ For all State and third party CDL test examiners, the State must meet the follow
 
 (g) Complete nationwide criminal background check of all skills test examiners prior to certifying them to administer CDL skills tests.
 
-(h)(1) Complete nationwide criminal background check of all State and third party test examiners at the time of hiring.
+(h)(1) Complete nationwide criminal background check of all State and third-party test examiners at the time of hiring.
 
-(2) Complete nationwide criminal background check of any State and third party current test examiner who has not had a nationwide criminal background check.
+(2) Complete nationwide criminal background check of any State and third-party current test examiner who has not had a nationwide criminal background check.
 
 (3) Criteria for not passing the criminal background check must include at least the following:
 
@@ -128,4 +128,4 @@ For all State and third party CDL test examiners, the State must meet the follow
 
 (k) The eight units of training described in paragraphs (c) and (d) of this section may be supplemented with State-specific material and information related to administering CDL knowledge and skills tests.
 
-[76 FR 26895, May 9, 2011, as amended at 78 FR 17882, Mar. 25, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 59073, Oct. 1, 2015]
+[76 FR 26895, May 9, 2011, as amended at 78 FR 17882, Mar. 25, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 59073, Oct. 1, 2015; 88 FR 80182, Nov. 17, 2023]

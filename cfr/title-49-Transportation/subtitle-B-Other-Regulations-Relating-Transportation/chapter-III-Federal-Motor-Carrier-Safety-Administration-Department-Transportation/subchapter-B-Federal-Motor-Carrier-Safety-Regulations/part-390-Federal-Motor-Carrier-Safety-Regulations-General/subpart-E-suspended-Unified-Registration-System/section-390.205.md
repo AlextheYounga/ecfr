@@ -9,3 +9,5 @@
 (3) *Designation of agent for service of process.* All motor carriers (both private and for-hire), brokers and freight forwarders required to register under this subpart must designate an agent for service of process (a person upon whom court or Agency process may be served) following the rules in part 366 of this subchapter:
 
 (b) If an application is subject to a protest period, the Agency will not activate a USDOT Number until expiration of the protest period provided in § 365.115 of this subchapter or—if a protest is received—after FMCSA denies or rejects the protest, as applicable.
+
+Effective Date Note:At 88 FR 80184, Nov. 17, 2023, § 390.205 was suspended indefinitely, effective Nov. 17, 2023.

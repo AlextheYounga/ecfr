@@ -26,6 +26,6 @@
 
 (e) You must submit the application to the address provided in the instructions to the Form OP-2.
 
-(f) You may obtain the application described in paragraph (a) of this section from any FMCSA Division Office or download it from the FMCSA Web site at: *http://www.fmcsa.dot.gov/factsfigs/formspubs.htm.*
+(f) You may obtain the application described in paragraph (a) of this section from any FMCSA Division Office or download it from the FMCSA website at: *https://www.fmcsa.dot.gov/factsfigs/formspubs.htm.*
 
-[82 FR 5303, Jan. 17, 2017]
+[82 FR 5303, Jan. 17, 2017, as amended at 88 FR 80179, Nov. 17, 2023]

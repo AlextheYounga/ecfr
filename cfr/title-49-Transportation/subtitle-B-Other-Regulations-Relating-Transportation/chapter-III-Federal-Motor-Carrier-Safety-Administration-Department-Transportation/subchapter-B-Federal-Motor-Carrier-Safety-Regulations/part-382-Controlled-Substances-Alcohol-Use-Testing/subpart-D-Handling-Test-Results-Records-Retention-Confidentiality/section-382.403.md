@@ -8,6 +8,6 @@
 
 (d) If you have a covered employee who performs multi-DOT agency functions (*e.g.,* an employee drives a commercial motor vehicle and performs pipeline maintenance duties for the same employer), count the employee only on the MIS report for the DOT agency under which he or she is randomly tested. Normally, this will be the DOT agency under which the employee performs more than 50% of his or her duties. Employers may have to explain the testing data for these employees in the event of a DOT agency inspection or audit.
 
-(e) A service agent (*e.g., Consortium/Third party administrator* as defined in 49 CFR 382.107) may prepare the MIS report on behalf of an employer. However, a company official (*e.g., Designated employer representative* as defined in § 382.107) must certify the accuracy and completeness of the MIS report, no matter who prepares it.
+(e) A service agent (*e.g., Consortium/Third-party administrator* as defined in 49 CFR 382.107) may prepare the MIS report on behalf of an employer. However, a company official (*e.g., Designated employer representative* as defined in § 382.107) must certify the accuracy and completeness of the MIS report, no matter who prepares it.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75459, Dec. 31, 2003; 78 FR 58479, Sept. 24, 2013; 83 FR 22875, May 17, 2018; 88 FR 27653, May 2, 2023]
+[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75459, Dec. 31, 2003; 78 FR 58479, Sept. 24, 2013; 83 FR 22875, May 17, 2018; 88 FR 27653, May 2, 2023; 88 FR 80181, Nov. 17, 2023]

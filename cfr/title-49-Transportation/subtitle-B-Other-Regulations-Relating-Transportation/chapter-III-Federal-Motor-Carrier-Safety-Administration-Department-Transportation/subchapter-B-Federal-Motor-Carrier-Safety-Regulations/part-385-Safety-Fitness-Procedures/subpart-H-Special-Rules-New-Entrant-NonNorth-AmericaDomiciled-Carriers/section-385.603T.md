@@ -20,6 +20,6 @@
 
 (c) An applicant must submit the application to the address provided in Form OP-1(NNA).
 
-(d) An applicant may obtain the application forms from any FMCSA Division Office or download them from the FMCSA Web site at: *http://www.fmcsa.dot.gov/forms/forms.htm.*
+(d) An applicant may obtain the application forms from any FMCSA Division Office or download them from the FMCSA website at: *https://www.fmcsa.dot.gov/forms/forms.htm.*
 
-[82 FR 5305, Jan. 17, 2017]
+[82 FR 5305, Jan. 17, 2017, as amended at 88 FR 80182, Nov. 17, 2023]

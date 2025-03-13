@@ -8,4 +8,6 @@ A contract that is initially awarded from the competitive selection of a proposa
 
 (3) The dollar value of the work to be performed pursuant to the contract line item or contract option shall not exceed $100 million in fiscal year 2017 constant dollars. (10 U.S.C. 4004)
 
-[75 FR 32639, June 8, 2010, as amended at 81 FR 17045, Mar. 25, 2016; 84 FR 4365, Feb. 15, 2019; 87 FR 25145, Apr. 28, 2022; 87 FR 76995, Dec. 16, 2022]
+(4) See PGI 234.005-1 for guidance on providing, upon request, the benefits derived from use of this competitive selection method.
+
+[75 FR 32639, June 8, 2010, as amended at 81 FR 17045, Mar. 25, 2016; 84 FR 4365, Feb. 15, 2019; 87 FR 25145, Apr. 28, 2022; 87 FR 76995, Dec. 16, 2022; 88 FR 80466, Nov. 17, 2023]

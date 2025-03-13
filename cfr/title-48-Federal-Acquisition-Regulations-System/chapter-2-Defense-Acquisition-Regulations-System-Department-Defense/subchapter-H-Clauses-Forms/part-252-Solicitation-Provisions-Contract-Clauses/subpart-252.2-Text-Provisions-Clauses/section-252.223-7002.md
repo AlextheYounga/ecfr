@@ -1,8 +1,8 @@
-##### 252.223-7002 Safety precautions for ammunition and explosives. #####
+##### 252.223-7002 Safety Precautions for Ammunition and Explosives. #####
 
 As prescribed in 223.370-5, use the following clause:
 
-Safety Precautions for Ammunition and Explosives (MAY 1994)
+Safety Precautions for Ammunition and Explosives (NOV 2023)
 
 (a) *Definition. Ammunition and explosives,* as used in this clause—
 
@@ -36,7 +36,7 @@ Safety Precautions for Ammunition and Explosives (MAY 1994)
 
 (vi) Other materials having fire or explosive characteristics.
 
-(b) *Safety requirements.* (1) The Contractor shall comply with the requirements of the DoD Contractors' Safety Manual for Ammunition and Explosives, DoD 4145.26-M, hereafter referred to as “the manual,” in effect on the date of the solicitation for this contract. The Contractor shall also comply with any other additional requirements included in the schedule of this contract.
+(b) *Safety requirements.* (1) The Contractor shall comply with the requirements of DoD Manual 4145.26, DoD Contractors' Safety Manual for Ammunition and Explosives, hereafter referred to as “the manual,” in effect on the date of the solicitation for this contract. The Contractor shall also comply with any other additional requirements included in the schedule of this contract.
 
 (2) The Contractor shall allow the Government access to the Contractor's facilities, personnel, and safety program documentation. The Contractor shall allow authorized Government representatives to evaluate safety programs, implementation, and facilities.
 
@@ -84,4 +84,4 @@ Safety Precautions for Ammunition and Explosives (MAY 1994)
 
 (4) The Contractor shall notify the Contracting Officer or authorized representative before issuing any subcontract when it involves ammunition or explosives. If the proposed subcontract represents a change in the place of performance, the Contractor shall request approval for such change in accordance with the clause of this contract entitled “Change in Place of Performance—Ammunition and Explosives”.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 59 FR 27675, May 27, 1994]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 59 FR 27675, May 27, 1994; 88 FR 80466, Nov. 17, 2023]

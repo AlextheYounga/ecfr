@@ -2,7 +2,7 @@
 
 As prescribed in 204.7304(d), use the following provision:
 
-NOTICE OF NIST SP 800-171 DOD ASSESSMENT REQUIREMENTS (MAR 2022)
+NOTICE OF NIST SP 800-171 DOD ASSESSMENT REQUIREMENTS (NOV 2023)
 
 (a) *Definitions.*
 
@@ -10,7 +10,7 @@ NOTICE OF NIST SP 800-171 DOD ASSESSMENT REQUIREMENTS (MAR 2022)
 
 *Covered contractor information system* has the meaning given in the clause 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting, of this solicitation.
 
-(b) *Requirement.* In order to be considered for award, if the Offeror is required to implement NIST SP 800-171, the Offeror shall have a current assessment (*i.e.,* not more than 3 years old unless a lesser time is specified in the solicitation) (see 252.204-7020) for each covered contractor information system that is relevant to the offer, contract, task order, or delivery order. The Basic, Medium, and High NIST SP 800-171 DoD Assessments are described in the NIST SP 800-171 DoD Assessment Methodology located at *https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171.*
+(b) *Requirement.* In order to be considered for award, if the Offeror is required to implement NIST SP 800-171, the Offeror shall have a current assessment (*i.e.,* not more than 3 years old unless a lesser time is specified in the solicitation) (see 252.204-7020) for each covered contractor information system that is relevant to the offer, contract, task order, or delivery order. The Basic, Medium, and High NIST SP 800-171 DoD Assessments are described in the NIST SP 800-171 DoD Assessment Methodology located at *https://www.acq.osd.mil/asda/dpc/cp/cyber/docs/safeguarding/NIST-SP-800-171-Assessment-Methodology-Version-1.2.1-6.24.2020.pdf*
 
 (c) *Procedures.* (1) The Offeror shall verify that summary level scores of a current NIST SP 800-171 DoD Assessment (*i.e.,* not more than 3 years old unless a lesser time is specified in the solicitation) are posted in the Supplier Performance Risk System (SPRS) (*https://www.sprs.csd.disa.mil/*) for all covered contractor information systems relevant to the offer.
 
@@ -68,4 +68,4 @@ NOTICE OF NIST SP 800-171 DOD ASSESSMENT REQUIREMENTS (MAR 2022)
 
 (iii) A High NIST SP 800-171 DoD Assessment may result in documentation in addition to that listed in this section. DoD will retain and protect any such documentation as “Controlled Unclassified Information (CUI)” and intended for internal DoD use only. The information will be protected against unauthorized use and release, including through the exercise of applicable exemptions under the Freedom of Information Act (*e.g.,* Exemption 4 covers trade secrets and commercial or financial information obtained from a contractor that is privileged or confidential).
 
-(End of provision)[85 FR 61520, Sept. 29, 2020, as amended at 87 FR 15818, Mar. 18, 2022]
+(End of provision)[85 FR 61520, Sept. 29, 2020, as amended at 87 FR 15818, Mar. 18, 2022; 88 FR 80466, Nov. 17, 2023]

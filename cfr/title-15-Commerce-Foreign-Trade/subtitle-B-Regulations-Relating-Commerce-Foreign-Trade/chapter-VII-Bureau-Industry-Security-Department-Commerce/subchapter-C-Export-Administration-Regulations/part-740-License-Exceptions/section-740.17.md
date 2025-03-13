@@ -1,8 +1,6 @@
 ##### § 740.17 Encryption commodities, software, and technology (ENC). #####
 
-Link to an amendment published at 88 FR 73492, Oct. 25, 2023.
-
-License Exception ENC authorizes export, reexport, and transfer (in-country) of systems, equipment, commodities, and components therefor that are classified under ECCN 5A002, 5B002, equivalent or related software and technology therefor classified under 5D002 or 5E002, and “cryptanalytic items” and digital forensics items (investigative tools) classified under ECCN 5A004, 5D002 or 5E002. This License Exception ENC does not authorize export or reexport to, transfer (in-country) in, or provision of any service in any country listed in Country Groups E:1 or E:2 in supplement no. 1 to part 740 of the EAR, or release of source code or technology to any national of a country listed in Country Groups E:1 or E:2. Reexports and transfers (in-country) under License Exception ENC are subject to the criteria set forth in paragraph (c) of this section. Paragraphs (b) and (d) of this section set forth information about classifications required by this section. Items described in paragraphs (b)(1) and (b)(3)(i), (ii), or (iv) of this section that meet the criteria set forth in Note 3 to Category 5—Part 2 of the Commerce Control List (the “mass market” note) are classified under ECCN 5A992.c or 5D992.c following self-classification or classification by BIS and are no longer subject to “EI” and “NS” controls. Paragraph (e) sets forth reporting required by this section. For items exported under paragraphs (b)(1), (b)(3)(i), (ii), or (iv) of this section and therefore excluded from paragraph (e) reporting requirements, exporters are reminded of the recordkeeping requirements in part 762 of the EAR and that they may be required to make such records available upon request. All classification requests, and reports submitted to BIS pursuant to this section for encryption items will be reviewed by the ENC Encryption Request Coordinator, Ft. Meade, MD.
+License Exception ENC authorizes export, reexport, and transfer (in-country) of systems, equipment, commodities, and components therefor that are classified under ECCN 5A002, 5B002, equivalent or related software and technology therefor classified under 5D002 or 5E002, and “cryptanalytic items” and digital forensics items (investigative tools) classified under ECCN 5A004, 5D002 or 5E002. This License Exception ENC does not authorize export or reexport to, transfer (in-country) in, or provision of any service in any country listed in Country Groups E:1 or E:2 in supplement no. 1 to part 740 of the EAR, or release of source code or technology to any national of a country listed in Country Groups E:1 or E:2. Reexports and transfers (in-country) under License Exception ENC are subject to the criteria set forth in paragraph (c) of this section. Paragraphs (b) and (d) of this section set forth information about classifications required by this section. Items described in paragraphs (b)(1) and (b)(3)(i), (b)(3)(ii) or (b)(3)(iv) of this section that meet the criteria set forth in Note 3 to Category 5—Part 2 of the Commerce Control List (the “mass market” note) are classified under ECCN 5A992 or 5D992 following self-classification or classification by BIS and are no longer subject to “EI” and “NS” controls. Paragraph (e) sets forth reporting required by this section. For items exported under paragraphs (b)(1), (b)(3)(i), (ii), or (iv) of this section and therefore excluded from paragraph (e) reporting requirements, exporters are reminded of the recordkeeping requirements in part 762 of the EAR and that they may be required to make such records available upon request. All classification requests, and reports submitted to BIS pursuant to this section for encryption items will be reviewed by the ENC Encryption Request Coordinator, Ft. Meade, MD.
 
 (a) *No classification request or reporting required.* License Exception ENC authorizes the export, reexport, or transfer (in-country) to the end users and for the end uses set forth in paragraphs (a)(1) through (3) of this section, without submission of a classification request, self-classification report or sales report to BIS.
 
@@ -38,7 +36,7 @@ Note to paragraph (b) introductory text:
 
 Mass market encryption software that would be considered publicly available under § 734.3(b)(3) of the EAR, and is authorized for export under this paragraph (b), remains subject to the EAR until all applicable classification or self-classification requirements set forth in this section are fulfilled.
 
-(1) *Immediate authorization.* This paragraph (b)(1) authorizes the exports, reexports, and transfers (in-country) of the associated commodities self-classified under ECCNs 5A002.a or 5B002, and equivalent or related software therefor classified under 5D002, except any such commodities, software, or components described in (b)(2) or (3) of this section, subject to submission of a self-classification report in accordance with § 740.17(e)(3) of the EAR. Items described in this paragraph (b)(1) that meet the criteria set forth in Note 3 to Category 5—Part 2 of the Commerce Control List (the “mass market” note) are classified as ECCN 5A992.c or 5D992.c following self-classification or classification by BIS and are removed from “EI” and “NS” controls.
+(1) *Immediate authorization.* This paragraph (b)(1) authorizes the exports, reexports, and transfers (in-country) of the associated commodities self-classified under ECCNs 5A002.a, z.1, or 5B002, and equivalent or related software therefor classified under 5D002, except any such commodities, software, or components described in paragraph (b)(2) or (3) of this section, subject to submission of a self-classification report in accordance with § 740.17(e)(3) of the EAR. Items described in this paragraph (b)(1) that meet the criteria set forth in Note 3 to Category 5—Part 2 of the Commerce Control List (the “mass market” note) are classified as ECCN 5A992 or 5D992 following self-classification or classification by BIS and are removed from “EI” and “NS” controls.
 
 (2) *Classification request required.* Thirty (30) days after the submission of a classification request with BIS in accordance with paragraph (d) of this section and subject to the reporting requirements in paragraph (e) of this section, this paragraph under License Exception ENC authorizes certain exports, reexports, and transfers (in-country) of the items specified in paragraph (b)(2) and submitted for classification.
 
@@ -120,7 +118,7 @@ Commodities, software, and components for the “cryptographic activation” of 
 
 (*2*) *Custom or changeable cryptography.* The cryptographic functionality of the item has been designed or modified to customer specification or can be easily changed by the user*;*
 
-(D) *Quantum cryptography.* ECCN 5A002.c or 5D002 “quantum cryptography” commodities or software;
+(D) *Quantum cryptography.* ECCN 5A002.c, z.3, or 5D002 “quantum cryptography” commodities or software;
 
 (E) [Reserved]
 
@@ -142,15 +140,15 @@ Commodities, software, and components for the “cryptographic activation” of 
 
 Note to paragraph (b)(2):
 
-Commodities, components, and software classified under ECCNs 5A002.b or 5D002.b, for the “cryptographic activation” of commodities or software specified by this paragraph (b)(2) are also controlled under this paragraph (b)(2).
+Commodities, components, and software classified under ECCNs 5A002.b, z.2, or 5D002.b or z.5, for the “cryptographic activation” of commodities or software specified by paragraph (b)(2) of this section are also controlled under paragraph (b)(2) of this section.
 
-(3) *Classification request required for specified commodities, software, and components.* Thirty (30) days after a classification request is submitted to BIS in accordance with paragraph (d) of this section and subject to the reporting requirements in paragraph (e) of this section, this paragraph authorizes exports, reexports, and transfers (in-country) of the items submitted for classification, as further described in this paragraph (b)(3), to any end user, provided the item does not perform the functions, or otherwise meet the specifications, of any item described in paragraph (b)(2) of this section. Items described in paragraph (b)(3)(ii) or (iv) of this section that meet the criteria set forth in Note 3 to Category 5—Part 2 of the CCL (the “mass market” note) are classified under ECCN 5A992.c or 5D992.c following classification by BIS.
+(3) *Classification request required for specified commodities, software, and components.* Thirty (30) days after a classification request is submitted to BIS in accordance with paragraph (d) of this section and subject to the reporting requirements in paragraph (e) of this section, this paragraph authorizes exports, reexports, and transfers (in-country) of the items submitted for classification, as further described in this paragraph (b)(3), to any end user, provided the item does not perform the functions, or otherwise meet the specifications, of any item described in paragraph (b)(2) of this section. Items described in paragraph (b)(3)(ii) or (iv) of this section that meet the criteria set forth in Note 3 to Category 5—Part 2 of the CCL (the “mass market” note) are classified under ECCN 5A992 or 5D992 following classification by BIS.
 
 Note to introductory text of paragraph (b)(3):
 
 Immediately after the classification request is submitted to BIS in accordance with paragraph (d) of this section and subject to the reporting requirements in paragraph (e) of this section, this paragraph also authorizes exports, reexports, transfers (in-country) of the items described in this paragraph (b)(3) to any end user located or headquartered in a country listed in supplement no. 3 to this part.
 
-(i) *Non-“mass market” “components,” toolsets, and toolkits.* Specified components classified under ECCN 5A002.a and equivalent or related software classified under ECCN 5D002 that do not meet the criteria set forth in Note 3 to Category 5—Part 2 of the CCL (the “mass market” note) and are not described by paragraph (b)(2) or (b)(3)(ii) of this section, as follows:
+(i) *Non-“mass market” “components,” toolsets, and toolkits.* Specified components classified under ECCN 5A002.a, or z.1, and equivalent or related software classified under ECCN 5D002 that do not meet the criteria set forth in Note 3 to Category 5—Part 2 of the CCL (the “mass market” note) and are not described by paragraph (b)(2) or (b)(3)(ii) of this section, as follows:
 
 (A) Chips, chipsets, electronic assemblies and field programmable logic devices;
 
@@ -162,9 +160,9 @@ Immediately after the classification request is submitted to BIS in accordance w
 
 (A) *Automated network vulnerability analysis and response.* Automated network analysis, visualization, or packet inspection for profiling network flow, network user or client behavior, or network structure/topology and adapting in real-time to the operating environment; *or*
 
-(B) *Digital forensics and investigative tools.* Items specified in ECCN 5A004.b, 5D002.a.3.b, or 5D002.c.3.b, see supplement no. 1 to part 774 Commerce Control List.
+(B) *Digital forensics and investigative tools.* Items specified in ECCNs: 5A004.b, z.3; 5D002.a.3.b or z.4; or 5D002.c.3.b or z.9 in supplement no. 1 to part 774 of the EAR.
 
-(iv) “*Cryptographic activation” commodities, components, and software.* Commodities, components, and software classified under ECCNs 5A002.b or 5D002.b where the product or cryptographic functionality is not otherwise described in paragraphs (b)(2) or (b)(3)(i) of this section.
+(iv) “*Cryptographic activation” commodities, components, and software.* Commodities, components, and software classified under ECCNs 5A002.b, z.2, or 5D002.b or z.5, where the product or cryptographic functionality is not otherwise described in paragraph (b)(2) or (b)(3)(i) of this section.
 
 (c) *Reexport and transfer (in-country).* Distributors, resellers or other entities who are not original manufacturers of encryption commodities and software are permitted to use License Exception ENC only in instances where the reexport or transfer (in-country) meets the applicable terms and conditions of this section. Transfers of encryption items listed in paragraph (b)(2) of this section to “government end users,” or for government end uses, within the same country are prohibited, unless otherwise authorized by license or license exception.
 
@@ -228,7 +226,7 @@ Immediately after the classification request is submitted to BIS in accordance w
 
 (B) The report must be emailed to *crypt@bis.doc.gov* and *enc@nsa.gov.*
 
-(3) *Self-classification reporting for certain encryption commodities, software, and components.* This paragraph (e)(3) sets forth requirements for self-classification reporting to BIS and the ENC Encryption Request Coordinator (Ft. Meade, MD) of certain encryption commodities, software, and components exported or reexported meeting the criteria specified in paragraph (b)(1) of this section. Specifically, this reporting requirement applies to “mass market” encryption components and 'executable software' that meet the criteria of the Cryptography Note—Note 3 to Category 5—Part 2 of the CCL (“mass market” note) and are classified under ECCN 5A992.c or 5D992.c following self-classification, as well as to non-“mass market” encryption commodities and software that remain classified in ECCN 5A002, 5B002 or 5D002 following self-classification, provided these items are not further described by paragraph (b)(2) or (3) of this section.
+(3) *Self-classification reporting for certain encryption commodities, software, and components.* This paragraph (e)(3) sets forth requirements for self-classification reporting to BIS and the ENC Encryption Request Coordinator (Ft. Meade, MD) of certain encryption commodities, software, and components exported or reexported meeting the criteria specified in paragraph (b)(1) of this section. Specifically, this reporting requirement applies to “mass market” encryption components and 'executable software' that meet the criteria of the Cryptography Note—Note 3 to Category 5—Part 2 of the CCL (“mass market” note) and are classified under ECCN 5A992 or 5D992 following self-classification, as well as to non-“mass market” encryption commodities and software that remain classified in ECCN 5A002, 5B002, or 5D002 following self-classification, provided these items are not further described by paragraph (b)(2) or (3) of this section.
 
 Note to introductory text of paragraph (e)(3):
 
@@ -252,7 +250,7 @@ For the purposes of this paragraph (e)(3), 'executable software' means “softwa
 
 (f) *End-use restrictions.* Notwithstanding the other provisions and authorizations of this section, License Exception ENC is not authorized for any of the following items if the exporter, reexporter, or transferor “knows” or has “reason to know” at the time of export, reexport, or transfer (in-country), including deemed exports and reexports, that the item will be used to affect the confidentiality, integrity, or availability of information or information systems, without authorization by the owner, operator, or administrator of the information system (including the information and processes within such systems):
 
-(1) “Cryptanalytic items,” classified in ECCN 5A004.a, 5D002.a.3.a or c.3.a, or 5E002;
+(1) “Cryptanalytic items,” classified in ECCN 5A004.a, z.1 or z.2, 5D002.a.3.a, c.3.a, z.3, or z.8, or 5E002;
 
 (2) Network penetration tools described in paragraph (b)(2)(i)(F) of this section, and ECCN 5E002 “technology” therefor; or
 
@@ -262,4 +260,4 @@ Note to paragraph (f):
 
 See also § 740.22(c)(4).
 
-[81 FR 64669, Sept. 20, 2016, as amended at 82 FR 27110, June 14, 2017; 83 FR 53750, Oct. 24, 2018; 85 FR 62587, Oct. 5, 2020; 86 FR 16487, Mar. 29, 2021; 87 FR 31951, May 26, 2022]
+[81 FR 64669, Sept. 20, 2016, as amended at 82 FR 27110, June 14, 2017; 83 FR 53750, Oct. 24, 2018; 85 FR 62587, Oct. 5, 2020; 86 FR 16487, Mar. 29, 2021; 87 FR 31951, May 26, 2022; 88 FR 73492, Oct. 25, 2023]

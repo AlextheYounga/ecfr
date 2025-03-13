@@ -1,7 +1,5 @@
 ##### § 740.2 Restrictions on all License Exceptions. #####
 
-Link to an amendment published at 88 FR 73447, Oct. 25, 2023.Link to an amendment published at 88 FR 73491, Oct. 25, 2023.
-
 (a) You may not use *any* License Exception if *any* one or more of the following apply:
 
 (1) Your authorization to use a License Exception has been suspended or revoked, or your intended export does not qualify for a License Exception.
@@ -40,11 +38,13 @@ Link to an amendment published at 88 FR 73447, Oct. 25, 2023.Link to an amendmen
 
 (iii) TSU, under the provisions of § 740.13(a) and (c).
 
-(9) The item is identified in paragraphs (a)(9)(i) and (ii) of this section, being exported, reexported, or transferred (in-country) to or within the People's Republic of China (PRC) or Macau, and the license exception is other than: RPL (excluding 3B090, 3D001 (for 3B090), and 3E001 (for 3B090)), under the provisions of § 740.10, including § 740.10(a)(3)(v), which prohibits exports and reexports of replacement parts to countries in Country Group E:1 (see supplement no. 1 to this part)); GOV, restricted to eligibility under the provisions of § 740.11(b)(2)(ii); or TSU (excluding 3B090, 3D001 (for 3B090), and 3E001 (for 3B090)), under the provisions of § 740.13(a) and (c). Items restricted to eligibility only for the foregoing license exceptions are:
+(9)(i) The item is controlled under ECCN 3B001.a.4, c, d, f.1.b, k to p, 3B002.b or c, or associated software and technology in ECCN 3D001, 3D002, 3D003, or 3E001 and is being exported, reexported, or transferred (in-country) to or within either Macau or a destination specified in Country Group D:5 of supplement no. 1 to this part, and the license exception is other than License Exception GOV, restricted to eligibility under the provisions of § 740.11(b).
 
-(i) Controlled under ECCNs 3A090, 3B090, 4A090, or associated software and technology in 3D001, 3E001, 4D090, and 4E001; or
+(ii) The item is identified in paragraph (a)(9)(ii)(A) or (B) of this section, is being exported, reexported, or transferred (in-country) to or within a destination specified in Country Group D:1, D:4, or D:5, excluding any destination also specified in Country Groups A:5 or A:6, and the license exception is other than: TMP, restricted to eligibility under the provisions of § 740.9(a)(6); NAC, under the provisions of § 740.8; RPL, under the provisions of § 740.10, including § 740.10(a)(3)(v), which prohibits exports and reexports of replacement parts to a destination specified in Country Group E:1 (see supplement no. 1 to this part)); GOV, restricted to eligibility under the provisions of § 740.11(b); or TSU under the provisions of § 740.13(a) and (c). Items restricted to eligibility only for the foregoing license exceptions are:
 
-(ii) A computer, integrated circuit, “electronic assembly” or “component” specified elsewhere on the CCL which meets or exceeds the performance parameters of ECCN 3A090 or 4A090.
+(A) Controlled under ECCNs 3A090, 4A090, or associated software and technology in 3D001, 3E001, 4D090, and 4E001;
+
+(B) An integrated circuit, “electronic assembly” or “component” or related software or technology specified in ECCNs 3A001.z; 3D001 (for “software” for commodities controlled by 3A001.z, 3A090); 3E001 (for “technology” for commodities controlled by 3A001.z); 4A003.z; 4A004.z; 4A005.z; 4D001 (for “software” for commodities controlled by 4A003.z, 4A004.z, and 4A005.z); and 4E001 (for “technology” for commodities controlled by 4A003.z, 4A004.z, 4A005.z); 5A002.z; 5A004.z; 5A992.z; 5D002.z; 5D992.z; 5E002 (for “technology” for commodities controlled by 5A002.z or 5A004.z); “software” specified by 5D002 (for 5A002.z or 5A004.z commodities)); 5E992 (for “technology” for commodities controlled by 5A992.z or “software” controlled by 5D992.z).
 
 (10) The commodity being exported or reexported is subject to the license requirements of § 742.11 of the EAR.
 

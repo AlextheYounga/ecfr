@@ -1,7 +1,5 @@
 ##### § 435.911 Determination of eligibility. #####
 
-Link to an amendment published at 88 FR 65270, Sept. 21, 2023.
-
 (a) *Statutory basis.* This section implements sections 1902(a)(4), (a)(8), (a)(10)(A), (a)(19), and (e)(14) and section 1943 of the Act.
 
 (b)(1) Except as provided in paragraph (b)(2) of this section, applicable modified adjusted gross income standard means 133 percent of the Federal poverty level or, if higher -
@@ -36,4 +34,40 @@ Link to an amendment published at 88 FR 65270, Sept. 21, 2023.
 
 (3) Individuals who otherwise request a determination of eligibility on a basis other than the applicable MAGI standard as described in § 435.603(j) of this part.
 
-[77 FR 17209, Mar. 23, 2012, as amended at 81 FR 86457, Nov. 30, 2016]
+(e) For each individual who has applied for the Part D Low Income Subsidy through the Social Security Administration (SSA) and granted permission for the Social Security Administration to share Low Income Subsidy application data (LIS leads data) with the Medicaid agency for the purpose of submitting an application for the Medicare Savings Programs, the agency must—
+
+(1) Accept, via secure electronic interface, LIS leads data transmitted to the agency from SSA;
+
+(2) Treat received LIS leads data relating to an individual as an application for eligibility under the Medicare Savings Programs, without requiring submission of another application;
+
+(3) Accept LIS leads data, without further verification, unless-
+
+(i) The agency has information that is not reasonably compatible with the leads data; or
+
+(ii) The information provided through the LIS leads data does not support a determination of eligibility for the Medicare Savings Programs;
+
+(4) Not request information or documentation from the individual already provided to SSA through the LIS application and included in the transmission to the agency by SSA unless the agency has information that is not reasonably compatible with the LIS leads data;
+
+(5) Seek additional information that is not in the LIS leads data if needed by the agency to make a determination of eligibility for the Medicare Savings Programs;
+
+(6) Verify an individual's U.S. citizenship or satisfactory immigration status in accordance with §§ 435.406 and 435.956;
+
+(7) Determine the eligibility of the individual for the Medicare Savings Programs promptly and without undue delay, consistent with timeliness standards established under § 435.912; and
+
+(8) If any of the LIS leads data does not support a determination of eligibility under the Medicare Savings Programs—
+
+(i) Determine what additional information is needed to make a determination of eligibility for the Medicare Savings Programs;
+
+(ii) Notify the individual that they may be eligible for assistance with their Medicare premium and/or cost sharing charges, but that additional information is needed for the agency to make a determination of such eligibility;
+
+(iii) Provide the individual with a minimum of 30 days to furnish any information needed by the agency to make such determination of eligibility; and
+
+(iv) Verify the individual's eligibility for the Medicare Savings Programs in accordance with the agency's verification plan developed in accordance with § 435.945(j).
+
+(9) Provide the individual with, in addition to and separate from any requests for additional information necessary for a determination of Medicare Savings Program eligibility, unless CMS approves otherwise,—
+
+(i) Information about the availability of additional Medicaid benefits on other bases, including the scope of such benefits and responsibilities of the individual applying for such benefits; and
+
+(ii) An opportunity to furnish such additional information as may be needed to determine whether the individual is eligible for such additional Medicaid benefits on other bases.
+
+[77 FR 17209, Mar. 23, 2012, as amended at 81 FR 86457, Nov. 30, 2016; 88 FR 65270, Sept. 21, 2023]

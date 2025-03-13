@@ -1,0 +1,3 @@
+##### § 171.31 Requests for Public Financial Disclosure Reports—OGE Form 278. #####
+
+Requests for access to public financial disclosure reports filed with the Department should be made by submitting the information required by 5 CFR 2634.603(c) or a completed Office of Government Ethics request form, OGE Form 201, to *OGE201Request@state.gov* or to the Office of the Assistant Legal Adviser for Ethics and Financial Disclosure, U.S. Department of State, 2201 C Street NW, Washington, DC 20520. The OGE Form 201 may be obtained by visiting *www.oge.gov* or writing to the address in this section.

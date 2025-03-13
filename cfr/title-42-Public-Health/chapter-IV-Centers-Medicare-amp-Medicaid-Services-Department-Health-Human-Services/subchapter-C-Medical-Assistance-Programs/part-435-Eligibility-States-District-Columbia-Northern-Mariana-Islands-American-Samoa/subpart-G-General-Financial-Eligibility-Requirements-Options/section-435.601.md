@@ -1,7 +1,5 @@
 ##### § 435.601 Application of financial eligibility methodologies. #####
 
-Link to an amendment published at 88 FR 65270, Sept. 21, 2023.
-
 (a) *Definitions.* For purposes of this section, *cash assistance financial methodologies* refers to the income and resources methodologies of the AFDC, SSI, or State supplement programs, or, for aged, blind, and disabled individuals in States that use more restrictive criteria than SSI, the methodologies established in accordance with the requirements of §§ 435.121 and 435.230.
 
 (b) *Basic rule for use of non-MAGI financial methodologies.* (1) This section only applies to individuals excepted from application of MAGI-based methods in accordance with § 435.603(j).
@@ -32,7 +30,7 @@ Link to an amendment published at 88 FR 65270, Sept. 21, 2023.
 
 (5) The application of the less restrictive income and resource methodologies permitted under this section must be consistent with the limitations and conditions on FFP specified in subpart K of this part.
 
-(e) [Reserved]
+(e) *Procedures for determining eligibility for the Medicare Savings Program groups.* When a State determines eligibility for a Medicare Savings Program group, for income eligibility the agency must include at least the individuals described in § 423.772 of this chapter in determining family of the size involved.
 
 (f) *State plan requirements.* (1) The State plan must specify that, except to the extent precluded in § 435.602, in determining financial eligibility of individuals, the agency will apply the cash assistance financial methodologies and requirements, unless the agency chooses to apply less restrictive income and resource methodologies in accordance with paragraph (d) of this section.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 88 FR 65270, Sept. 21, 2023.
 
 (ii) The eligibility group or groups to which the less restrictive methodologies will be applied.
 
-[58 FR 4929, Jan. 19, 1993, as amended at 59 FR 43052, Aug. 22, 1994; 81 FR 86456, Nov. 30, 2016]
+[58 FR 4929, Jan. 19, 1993, as amended at 59 FR 43052, Aug. 22, 1994; 81 FR 86456, Nov. 30, 2016; 88 FR 65270, Sept. 21, 2023]

@@ -1,3 +1,7 @@
 ##### 223.7200 Definition. #####
 
-“Arms, ammunition, and explosives (AA&E),” as used in this subpart, means those items within the scope (chapter 1, paragraph B) of DoD 5100.76-M, Physical Security of Sensitive Conventional Arms, Ammunition, and Explosives.
+As used in this subpart—
+
+*Arms, ammunition, and explosives (AA&E)* means those items within the scope of DoD Manual 5100.76, Physical Security of Sensitive Conventional Arms, Ammunition, and Explosives.
+
+[88 FR 80466, Nov. 17, 2023]

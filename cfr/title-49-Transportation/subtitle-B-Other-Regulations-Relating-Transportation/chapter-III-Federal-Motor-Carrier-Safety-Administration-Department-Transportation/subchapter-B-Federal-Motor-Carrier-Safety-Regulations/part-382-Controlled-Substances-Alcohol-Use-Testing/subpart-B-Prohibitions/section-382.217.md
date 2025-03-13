@@ -16,6 +16,6 @@ No employer may allow, require, permit or authorize a driver to operate a commer
 
 (2) Used alcohol within four hours of performing safety-sensitive functions in violation of § 382.207; or
 
-(3) Used a controlled substance.
+(3) Used a controlled substance, except when the use is prescribed by a licensed medical practitioner who is familiar with the driver's medical history and has advised the driver that the substance will not adversely affect the driver's ability to safely operate a commercial motor vehicle.
 
-[81 FR 87724, Dec. 5, 2016]
+[81 FR 87724, Dec. 5, 2016, as amended at 88 FR 80180, Nov. 17, 2023]

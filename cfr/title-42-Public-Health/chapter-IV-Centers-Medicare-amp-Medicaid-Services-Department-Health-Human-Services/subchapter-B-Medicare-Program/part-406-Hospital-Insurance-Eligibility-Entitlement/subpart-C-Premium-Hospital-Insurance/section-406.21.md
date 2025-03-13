@@ -1,7 +1,5 @@
 ##### § 406.21 Individual enrollment. #####
 
-Link to an amendment published at 88 FR 65269, Sept. 21, 2023.
-
 (a) *Basic provision.* An individual who meets the requirements of § 406.20(b) or (c), except as provided in § 406.26(b)(2), may enroll for premium hospital insurance only during his or her—
 
 (1) Initial enrollment period as set forth in paragraph (b) of this section;
@@ -28,6 +26,8 @@ Link to an amendment published at 88 FR 65269, Sept. 21, 2023.
 
 (4) During the period April 1 through September 30, 1981, the general enrollment period was any time after the end of the individual's initial enrollment period. Any eligible individual whose initial enrollment period has ended, or whose previous period of entitlement had terminated, could enroll or reenroll during that 6-month period.
 
+(5) If an individual resides in a State that pays premium hospital insurance for Qualified Medicare Beneficiaries under § 406.32(g) and enrolls or reenrolls during a general enrollment period after January 1, 2023, QMB coverage is effective the month entitlement begins (if the individual is determined eligible for QMB before the month following the month of enrollment), or a month later than the month entitlement begins (if the individual is determined eligible for QMB the month entitlement begins or later).
+
 (d) *“Deemed” initial enrollment period for individual age 65 or over.* (1) If an individual who has attained age 65 fails to enroll during the initial enrollment period because of reliance on incorrect documentary information which led him or her to believe that he or she was not yet age 65, an initial enrollment period may be established for him or her as though he or she had attained age 65 on the date indicated by the incorrect documentary information.
 
 (2) The deemed initial enrollment period will be used to determine the individual's premium and right to enroll in a general enrollment period if such use is advantageous to the individual.
@@ -42,4 +42,4 @@ Link to an amendment published at 88 FR 65269, Sept. 21, 2023.
 
 (ii) If the individual enrolls in premium hospital insurance during any of the last 7 months of the transfer enrollment period, coverage will begin on the first day of the month after the month of enrollment.
 
-[48 FR 12536, Mar. 25, 1983. Redesignated at 51 FR 41338, Nov. 14, 1986, as amended at 53 FR 47203, Nov. 22, 1988; 56 FR 38079, Aug. 12, 1991; 57 FR 36014, Aug. 12, 1992; 61 FR 40345, Aug. 2, 1996; 87 FR 66503, Nov. 3, 2022]
+[48 FR 12536, Mar. 25, 1983. Redesignated at 51 FR 41338, Nov. 14, 1986, as amended at 53 FR 47203, Nov. 22, 1988; 56 FR 38079, Aug. 12, 1991; 57 FR 36014, Aug. 12, 1992; 61 FR 40345, Aug. 2, 1996; 87 FR 66503, Nov. 3, 2022; 88 FR 65269, Sept. 21, 2023]

@@ -2,7 +2,7 @@
 
 As prescribed in 204.7304(e), use the following clause:
 
-NIST SP 800-171 DOD Assessment Requirements (JAN 2023)
+NIST SP 800-171 DOD Assessment Requirements (NOV 2023)
 
 (a) *Definitions.*
 
@@ -44,7 +44,7 @@ NIST SP 800-171 DOD Assessment Requirements (JAN 2023)
 
 (b) *Applicability.* This clause applies to covered contractor information systems that are required to comply with the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171, in accordance with Defense Federal Acquisition Regulation System (DFARS) clause at 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting, of this contract.
 
-(c) *Requirements.* The Contractor shall provide access to its facilities, systems, and personnel necessary for the Government to conduct a Medium or High NIST SP 800-171 DoD Assessment, as described in NIST SP 800-171 DoD Assessment Methodology at *https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171,* if necessary.
+(c) *Requirements.* The Contractor shall provide access to its facilities, systems, and personnel necessary for the Government to conduct a Medium or High NIST SP 800-171 DoD Assessment, as described in NIST SP 800-171 DoD Assessment Methodology at *https://www.acq.osd.mil/asda/dpc/cp/cyber/docs/safeguarding/NIST-SP-800-171-Assessment-Methodology-Version-1.2.1-6.24.2020.pdf,* if necessary.
 
 (d) *Procedures.* Summary level scores for all assessments will be posted in the Supplier Performance Risk System (SPRS) (*https://www.sprs.csd.disa.mil/*) to provide DoD Components visibility into the summary level scores of strategic assessments.
 
@@ -104,8 +104,8 @@ NIST SP 800-171 DOD Assessment Requirements (JAN 2023)
 
 (g) *Subcontracts.* (1) The Contractor shall insert the substance of this clause, including this paragraph (g), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial products or commercial services (excluding commercially available off-the-shelf items).
 
-(2) The Contractor shall not award a subcontract or other contractual instrument, that is subject to the implementation of NIST SP 800-171 security requirements, in accordance with DFARS clause 252.204-7012 of this contract, unless the subcontractor has completed, within the last 3 years, at least a Basic NIST SP 800-171 DoD Assessment, as described in *https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171,* for all covered contractor information systems relevant to its offer that are not part of an information technology service or system operated on behalf of the Government.
+(2) The Contractor shall not award a subcontract or other contractual instrument, that is subject to the implementation of NIST SP 800-171 security requirements, in accordance with DFARS clause 252.204-7012 of this contract, unless the subcontractor has completed, within the last 3 years, at least a Basic NIST SP 800-171 DoD Assessment, as described in *https://www.acq.osd.mil/asda/dpc/cp/cyber/docs/safeguarding/NIST-SP-800-171-Assessment-Methodology-Version-1.2.1-6.24.2020.pdf,* for all covered contractor information systems relevant to its offer that are not part of an information technology service or system operated on behalf of the Government.
 
 (3) If a subcontractor does not have summary level scores of a current NIST SP 800-171 DoD Assessment (*i.e.,* not more than 3 years old unless a lesser time is specified in the solicitation) posted in SPRS, the subcontractor may conduct and submit a Basic Assessment, in accordance with the NIST SP 800-171 DoD Assessment Methodology, to *webptsmh@navy.mil* for posting to SPRS along with the information required by paragraph (d) of this clause.
 
-(End of clause)[85 FR 61520, Sept. 29, 2020, as amended at 87 FR 15818, Mar. 18, 2022; 88 FR 6589, Jan. 31, 2023]
+(End of clause)[85 FR 61520, Sept. 29, 2020, as amended at 87 FR 15818, Mar. 18, 2022; 88 FR 6589, Jan. 31, 2023; 88 FR 80466, Nov. 17, 2023]

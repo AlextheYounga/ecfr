@@ -1,0 +1,3 @@
+##### § 171.30 Purpose and scope. #####
+
+This subpart sets forth the process by which persons may request access to public financial disclosure reports filed with the Department in accordance with sections 101 and 103(l) of the Ethics in Government Act of 1978, as amended, recodified at 5 U.S.C. 13103 and 13105. The retention, public availability, and improper use of these reports are governed by 5 U.S.C. 13107 and 5 CFR 2634.603. It also sets forth the prohibition on access to confidential financial disclosure reports filed under 5 CFR 2634, Subpart I, in accordance with sections 107(a) of the Ethics in Government Act of 1978, 5 U.S.C. 13109 and 5 CFR 2634.604.

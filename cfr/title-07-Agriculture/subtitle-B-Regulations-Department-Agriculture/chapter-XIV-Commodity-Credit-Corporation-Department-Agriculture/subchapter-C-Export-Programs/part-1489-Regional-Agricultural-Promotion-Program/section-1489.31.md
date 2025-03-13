@@ -1,0 +1,3 @@
+##### § 1489.31 Program income. #####
+
+Any revenue or refunds generated from an activity, *e.g.,* participation fees, proceeds of sales, refunds of value added taxes (VAT), the expenditures for which have been wholly or partially reimbursed with RAPP funds, shall be used by the RAPP Participant in furtherance of its approved RAPP activities in the budget period during which the RAPP funds are available for obligation by the RAPP Participant. The use of such revenue or refunds shall be governed by this part. Interest earned on funds advanced by the CCC is not program income.

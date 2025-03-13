@@ -16,7 +16,7 @@
 
 (i) Reaffirm your binding estimate.
 
-(ii) Prepare a new binding estimate prior to loading. The new estimate must be signed by the individual shipper. You should maintain a record of the date, time, and manner that the new estimate was prepared.
+(ii) Prepare a new binding estimate prior to loading. The new estimate must accurately list, in detail, the additional household goods or services included in the shipment. The new estimate must be signed by the individual shipper. You should maintain a record of the date, time, and manner that the new estimate was prepared.
 
 (iii) Agree with the individual shipper, in writing, that both of you will consider the original binding estimate as a non-binding estimate subject to § 375.405.
 
@@ -30,8 +30,8 @@
 
 (11) If you make only a partial delivery of the shipment, you may not demand upon delivery full payment of the binding estimate. You may demand only a prorated percentage of the binding estimate. The prorated percentage must be the percentage of the weight of that portion of the shipment delivered relative to the total weight of the shipment. For example, if you deliver only 2,500 pounds of a shipment weighing 5,000 pounds, you may demand payment at destination for only 50 percent of the binding estimate.
 
-(b) In accordance with § 375.401(a), you may impose a charge for providing a written binding estimate. If you do not provide a binding estimate to an individual shipper, you must provide a non-binding estimate in accordance with § 375.405.
+(b) In accordance with § 375.401(b)(1), you may impose a charge for providing a written binding estimate. If you do not provide a binding estimate to an individual shipper, you must provide a non-binding estimate in accordance with § 375.405.
 
 (c) You must retain a copy of the binding estimate for each move you perform for at least one year from the date you made the estimate and keep it as an attachment to be made an integral part of the bill of lading contract.
 
-[68 FR 35091, June 11, 2003, as amended at 69 FR 10575, Mar. 5, 2004; 69 FR 17317, May 5, 2004; 72 FR 36773, July 5, 2007; 77 FR 36934, June 20, 2012; 87 FR 24447, Apr. 26, 2022]
+[68 FR 35091, June 11, 2003, as amended at 69 FR 10575, Mar. 5, 2004; 69 FR 17317, May 5, 2004; 72 FR 36773, July 5, 2007; 77 FR 36934, June 20, 2012; 87 FR 24447, Apr. 26, 2022; 88 FR 80180, Nov. 17, 2023]

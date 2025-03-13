@@ -7,3 +7,5 @@
 (1) Full name, address and USDOT Numbers of the transferee and transferor.
 
 (2) A copy of the operating authority being transferred.
+
+Effective Date Note:At 88 FR 80179, Nov. 17, 2023, § 365.405 was suspended indefinitely, effective Nov. 17, 2023.

@@ -1,7 +1,5 @@
 ##### § 435.4 Definitions and use of terms. #####
 
-Link to an amendment published at 88 FR 65269, Sept. 21, 2023.
-
 As used in this part—
 
 *AABD* means aid to the aged, blind, and disabled under title XVI of the Act;
@@ -86,6 +84,8 @@ As used in this part—
 
 (5) A program that makes available coverage in a qualified health plan through the Exchange with cost-sharing reductions established under section 1402 of the Affordable Care Act.
 
+*Low-Income Subsidy Application data (LIS leads data)* means data from an individual's application for low-income subsidies under section 1860D-14 of the Act that the Social Security Administration electronically transmits to the appropriate State Medicaid agency as described in section 1144(c)(1) of the Act.
+
 *MAGI-based income* has the meaning provided in § 435.603(e) of this part.
 
 *Mandatory State supplement* means a cash payment a State is required to make under section 212, Pub. L. 93-66 (July 9, 1973) to an aged, blind, or disabled individual. Its purpose is to provide an individual with the same amount of cash assistance he was receiving under OAA, AB, APTD, or AABD if his SSI payment is less than that amount;
@@ -148,4 +148,4 @@ As used in this part—
 
 *Tax dependent* has the same meaning as the term “dependent” under section 152 of the Internal Revenue Code, as an individual for whom another individual claims a deduction for a personal exemption under section 151 of the Internal Revenue Code for a taxable year.
 
-[43 FR 45204, Sept. 29, 1978, as amended at 45 FR 24883, Apr. 11, 1980; 46 FR 6909, Jan. 22, 1981; 46 FR 47984, Sept. 30, 1981; 51 FR 7211, Feb. 28, 1986; 58 FR 4925, Jan. 19, 1993; 66 FR 2666, Jan. 11, 2001; 77 FR 17203, Mar. 23, 2012; 81 FR 86450, Nov. 30, 2016; 87 FR 66510, Nov. 3, 2022]
+[43 FR 45204, Sept. 29, 1978, as amended at 45 FR 24883, Apr. 11, 1980; 46 FR 6909, Jan. 22, 1981; 46 FR 47984, Sept. 30, 1981; 51 FR 7211, Feb. 28, 1986; 58 FR 4925, Jan. 19, 1993; 66 FR 2666, Jan. 11, 2001; 77 FR 17203, Mar. 23, 2012; 81 FR 86450, Nov. 30, 2016; 87 FR 66510, Nov. 3, 2022; 88 FR 65260, Sept. 21, 2023]

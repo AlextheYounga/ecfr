@@ -1,10 +1,8 @@
 ##### § 740.19 Consumer Communications Devices (CCD). #####
 
-Link to an amendment published at 88 FR 73493, Oct. 25, 2023.
-
 (a) *Authorizations.* This section authorizes the export, reexport, or transfer (in-country) of commodities and software to Cuba, Russia, and Belarus subject to the requirements stated in this section. This section does not authorize U.S. owned or controlled entities in third countries to engage in reexports of foreign produced commodities to Cuba for which no license would be issued by the Department of the Treasury pursuant to 31 CFR 515.559.
 
-(b) *Eligible commodities and software.* Commodities and software in paragraphs (b)(1) through (16) of this section are eligible for export, reexport, or transfer (in-country) under this section to and within Cuba, Russia, and Belarus.
+(b) *Eligible commodities and software.* Commodities and “software” in paragraphs (b)(1) through (17) of this section are eligible for export, reexport, or transfer (in-country) under this section to and within Cuba, Russia, and Belarus.
 
 (1) Consumer computers, tablets, and peripherals including microphones, speakers, and headphones designated EAR99 or classified under Export Control Classification Numbers (ECCN) 5A992.c or 4A994.b;
 
@@ -36,7 +34,9 @@ Link to an amendment published at 88 FR 73493, Oct. 25, 2023.
 
 (15) Batteries, chargers, carrying cases and accessories for the equipment described in paragraphs (b)(1) through (15) of this section that are designated EAR99;
 
-(16) Consumer “software” (except “encryption source code”) classified under ECCNs 4D994, 5D991 or 5D992.c or designated EAR99 to be used for equipment described in paragraphs (b)(1) through (16) of this section.
+(16) Consumer “software” (except “encryption source code”) classified under ECCNs 4D994, 5D991 or 5D992.c or designated EAR99 to be used for equipment described in paragraphs (b)(1) through (17) of this section; and
+
+(17) Commodities described under 3A991.p or 4A994.l.
 
 Note 1 to paragraph (b):
 
@@ -70,4 +70,4 @@ d. Telephone call transactions; and
 
 (iv) *Ineligible Belarusian Government officials.* Alyaksandr Lukashenko; Prime Minister and Deputy Prime Ministers; members of the Council of Ministers; members of the Security Council of Belarus; members and employees of the National Assembly of the Republic of Belarus; members and employees of the Supreme Court and the Constitutional Court; Chief and all employees of the General Staff of the armed forces; employees of the Ministry of Defence, including the National Armed Services (Army and Air Force), the National Guard and National Police; and employees of Government Intelligence or Reconnaissance Organizations of the Republic of Belarus, including the Director and employees of the State Security Committee (BKGB); employees of the Ministry of Internal Affairs; employees of state committees; employees of the State Authority for the Military Industry; employees of the Border Control Committee of the Republic of Belarus; chief editors, editors and deputy editors of Belarusian state-run media organizations and programs, including newspapers, television, and radio; offices, services, agencies and other entities organized under or reporting to the federal government.
 
-[74 FR 45989, Sept. 8, 2009, as amended at 80 FR 2289, Jan. 16, 2015; 80 FR 8523, Feb. 18, 2015; 80 FR 56902, Sept. 21, 2015; 81 FR 71367, Oct. 17, 2016; 82 FR 51985, Nov. 9, 2017; 86 FR 4933, Jan. 19, 2021; 87 FR 12237, Mar. 3, 2022; 87 FR 13057, Mar. 8, 2022; 87 FR 34135, June 6, 2022; 87 FR 57079, Sept. 16, 2022]
+[74 FR 45989, Sept. 8, 2009, as amended at 80 FR 2289, Jan. 16, 2015; 80 FR 8523, Feb. 18, 2015; 80 FR 56902, Sept. 21, 2015; 81 FR 71367, Oct. 17, 2016; 82 FR 51985, Nov. 9, 2017; 86 FR 4933, Jan. 19, 2021; 87 FR 12237, Mar. 3, 2022; 87 FR 13057, Mar. 8, 2022; 87 FR 34135, June 6, 2022; 87 FR 57079, Sept. 16, 2022; 88 FR 73493, Oct. 25, 2023]

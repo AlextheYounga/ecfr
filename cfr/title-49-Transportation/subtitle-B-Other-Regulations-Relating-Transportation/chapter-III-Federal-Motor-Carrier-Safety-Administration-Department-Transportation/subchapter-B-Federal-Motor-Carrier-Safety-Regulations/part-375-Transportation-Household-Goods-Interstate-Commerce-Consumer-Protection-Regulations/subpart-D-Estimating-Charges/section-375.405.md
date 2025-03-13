@@ -20,7 +20,7 @@
 
 (i) Reaffirm your non-binding estimate.
 
-(ii) Prepare a new non-binding estimate which must be signed by the individual shipper. You should maintain a record of the date, time, and manner that the new estimate was prepared.
+(ii) Prepare a new non-binding estimate which must be signed by the individual shipper. The new estimate must accurately list, in detail, the additional household goods or services included in the shipment. You should maintain a record of the date, time, and manner that the new estimate was prepared.
 
 (8) Once you load a shipment, failure to execute a new non-binding estimate signifies you have reaffirmed the original non-binding estimate. You may not collect more than 110 percent of the amount of the original non-binding estimate at destination, except as provided in paragraphs (b)(9) and (10) of this section.
 
@@ -32,4 +32,4 @@
 
 (d) You must retain a copy of the non-binding estimate for each move you perform for at least one year from the date you made the estimate and keep it as an attachment to be made an integral part of the bill of lading contract.
 
-[68 FR 35091, June 11, 2003, as amended at 69 FR 10576, Mar. 5, 2004; 72 FR 36773, July 5, 2007; 77 FR 36935, June 20, 2012; 87 FR 24447, Apr. 26, 2022]
+[68 FR 35091, June 11, 2003, as amended at 69 FR 10576, Mar. 5, 2004; 72 FR 36773, July 5, 2007; 77 FR 36935, June 20, 2012; 87 FR 24447, Apr. 26, 2022; 88 FR 80180, Nov. 17, 2023]

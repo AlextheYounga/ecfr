@@ -4,7 +4,7 @@
 
 (b) Each petition filed under this section must:
 
-(1) Be submitted in writing by mail to the Administrator, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE, Washington, DC 20590-0001 or electronically at *www.regulations.gov,* using the general petitions for rulemaking docket listed on FMCSA's website at *www.FMCSA.gov.*
+(1) Be submitted in writing by mail to the Administrator, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE, Washington, DC 20590-0001 or electronically at *www.regulations.gov,* using the general petitions for rulemaking docket listed on FMCSA's website at *www.FMCSA.dot.gov.*
 
 (2) Set forth the text or substance of the rule or amendment proposed, or specify the rule that the petitioner seeks to have interpreted, clarified or withdrawn, as the case may be;
 
@@ -12,4 +12,4 @@
 
 (4) Contain any information, data, research studies, and arguments available to the petitioner to support the action sought.
 
-[85 FR 86849, Dec. 31, 2020]
+[85 FR 86849, Dec. 31, 2020, as amended 88 FR 80183, Nov. 17, 2023]

@@ -26,7 +26,7 @@ The General Counsel (or the General Counsel's delegatee) is authorized:
 
 (3) *Notices under the Change in Bank Control Act.* To revoke acceptance of and return as incomplete a notice filed under the Change in Bank Control Act (12 U.S.C. 1817(j)) or to extend the time during which action must be taken on a notice where the General Counsel determines, with the concurrence of the Director of the Division of Supervision and Regulation, that the notice is materially incomplete under that Act or Regulation Y (12 CFR part 225), or contains material information that is substantially inaccurate.
 
-(d) *Management interlocks*—(1) *General exemptions.* After consultation with the Director of the Division of Supervision and Regulation, to grant exceptions from the prohibitions of Regulation L (12 CFR part 212) or subpart J of Regulation LL (12 CFR part 238 subpart J) under the general exemption of section 212.6 of Regulation L (12 CFR 212.6) or section 238.96 of Regulation LL (12 CFR 238.6).
+(d) *Management interlocks*—(1) *General exemptions.* After consultation with the Director of the Division of Supervision and Regulation, to grant exceptions from the prohibitions of Regulation L (12 CFR part 212) or subpart J of Regulation LL (12 CFR part 238 subpart J) under the general exemption of section 212.6 of Regulation L (12 CFR 212.6) or section 238.96 of Regulation LL (12 CFR 238.96).
 
 (2) *Legacy management interlocks.* After consultation with the Director of the Division of Supervision and Regulation, to approve a request to extend a management interlock permissible under section 206 of the Depository Institution Management Interlocks Act (12 U.S.C. 3205).
 
@@ -77,3 +77,5 @@ The General Counsel (or the General Counsel's delegatee) is authorized:
 (5) Upon conversion of long-term debt pursuant to the conversion trigger, the converted long-term debt would no longer remain outstanding as a liability of the Covered IHC.
 
 (k) *Section 19 of the Federal Deposit Insurance Act.* With the concurrence of the Director of the Division of Supervision and Regulation, to approve or disapprove requests under section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829) where no significant legal, policy or supervisory issues are raised by the specific proposal.
+
+[87 FR 54003, Sept. 1, 2022, as amended at 88 FR 80109, Nov. 17, 2023]

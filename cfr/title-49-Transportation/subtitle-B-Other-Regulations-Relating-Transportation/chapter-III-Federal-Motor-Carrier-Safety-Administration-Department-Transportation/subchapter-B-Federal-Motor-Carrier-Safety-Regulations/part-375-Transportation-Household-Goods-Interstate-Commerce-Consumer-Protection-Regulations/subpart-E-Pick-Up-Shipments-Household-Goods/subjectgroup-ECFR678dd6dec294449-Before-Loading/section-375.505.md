@@ -10,7 +10,7 @@
 
 (3) The individual shipper's name, address, and, if available, telephone number(s).
 
-(4) The form of payment you and your agents will honor at delivery. The payment information must be the same that was entered on the estimate and order for service.
+(4) The form of payment you and your agents will honor at delivery. The payment information must be the same that was entered on the estimate and bill of lading.
 
 (5) When you transport on a collect-on-delivery basis, the name, address, and if furnished, the telephone number, fax number, or email address of a person to notify about the charges. The notification may be made by any method of communication, including, but not limited to, fax transmission; email; overnight courier; or certified mail, return receipt requested.
 
@@ -62,4 +62,4 @@
 
 (h) The bill of lading must be provided to, signed, and dated by the individual shipper at least 3 days before the shipment is scheduled to be loaded. You must provide the individual shipper the opportunity to rescind the bill of lading without any penalty for a 3-day period after the individual shipper signs the bill of lading. If the individual shipper tenders additional items to be moved or requires additional services on the day of the move, resulting in a new binding estimate under § 375.403(a)(6)(ii) or a new non-binding estimate under § 375.405(b)(7)(ii), the corresponding changes to the bill of lading from the new estimate do not require a new 3-day period as otherwise required in this paragraph (h).
 
-[68 FR 35091, June 11, 2003, as amended at 69 FR 10576, Mar. 5, 2004; 72 FR 36774, July 5, 2007; 77 FR 25373, Apr. 30, 2012; 80 FR 59071, Oct. 1, 2015; 83 FR 16224, Apr. 16, 2018; 87 FR 24447, Apr. 26, 2022]
+[68 FR 35091, June 11, 2003, as amended at 69 FR 10576, Mar. 5, 2004; 72 FR 36774, July 5, 2007; 77 FR 25373, Apr. 30, 2012; 80 FR 59071, Oct. 1, 2015; 83 FR 16224, Apr. 16, 2018; 87 FR 24447, Apr. 26, 2022; 88 FR 80180, Nov. 17, 2023]

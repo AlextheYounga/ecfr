@@ -1,7 +1,5 @@
 ##### § 171.26 Exemptions. #####
 
-Link to an amendment published at 88 FR 78232, Nov. 15, 2023.
-
 Systems of records maintained by the Department are authorized to be exempt from certain provisions of the PA under both general and specific exemptions set forth in the Act. In utilizing these exemptions, the Department is exempting only those portions of systems that are necessary for the proper functioning of the Department and that are consistent with the PA. Where compliance would not interfere with or adversely affect the law enforcement process, and/or where it may be appropriate to permit individuals to contest the accuracy of the information collected, the applicable exemption may be waived, either partially or totally, by the Department or the OIG, in the sole discretion of the Department or the OIG, as appropriate. Records exempt under 5 U.S.C. 552a(j) or (k) by the originator of the record remain exempt if subsequently incorporated into any Department system of records, provided the reason for the exemption remains valid and necessary.
 
 (a) *General exemptions.* If exempt records are the subject of an access request, the Department will advise the requester of their existence and of the name and address of the source agency, unless that information is itself exempt from disclosure.
@@ -18,7 +16,7 @@ Systems of records maintained by the Department are authorized to be exempt from
 
 Table 1 to Paragraph (a)(2)(iii)
 
-|                           Title                           | Number  |
+|                           Title                           |   No.   |
 |-----------------------------------------------------------|---------|
 |            Information Access Program Records             |STATE-35.|
 |Office of Inspector General Investigation Management System|STATE-53.|
@@ -31,7 +29,7 @@ Table 1 to Paragraph (a)(2)(iii)
 
 Table 2 to Paragraph (b)(1)
 
-|                                                Title                                                | Number  |
+|                                                Title                                                |   No.   |
 |-----------------------------------------------------------------------------------------------------|---------|
 |                                  Board of Appellate Review Records                                  |STATE-02.|
 |                                    Congressional Correspondence                                     |STATE-43.|
@@ -51,14 +49,13 @@ Table 2 to Paragraph (b)(1)
 |                     Office of Inspector General Investigation Management System                     |STATE-53.|
 |                                 Overseas Citizens Services Records                                  |STATE-05.|
 |                                          Passport Records                                           |STATE-26.|
-|              Personality Cross-Reference Index to the Secretariat Automated Data Index              |STATE-28.|
+|              Personality Cross Reference Index to the Secretariat Automated Data Index              |STATE-28.|
 |                       Personality Index to the Central Foreign Policy Records                       |STATE-29.|
 |                                      Personnel Payroll Records                                      |STATE-30.|
 |                               Records of Domestic Accounts Receivable                               |STATE-23.|
 |Records of the Office of the Assistant Legal Adviser for International Claims and Investment Disputes|STATE-54.|
 |                            Records of the Office of White House Liaison                             |STATE-34.|
 |                                           Refugee Records                                           |STATE-59.|
-|                                Risk Analysis and Management Records                                 |STATE-78.|
 |                                            Rover Records                                            |STATE-41.|
 |                                          Security Records                                           |STATE-36.|
 |                                            Visa Records                                             |STATE-39.|
@@ -67,7 +64,7 @@ Table 2 to Paragraph (b)(1)
 
 Table 3 to Paragraph (b)(2)
 
-|                                  Title                                  | Number  |
+|                                  Title                                  |   No.   |
 |-------------------------------------------------------------------------|---------|
 |                    Board of Appellate Review Records                    |STATE-02.|
 |           Coordinator for the Combating of Terrorism Records            |STATE-06.|
@@ -82,7 +79,7 @@ Table 3 to Paragraph (b)(2)
 |       Office of Inspector General Investigation Management System       |STATE-53.|
 |                   Overseas Citizens Services Records                    |STATE-05.|
 |                            Passport Records                             |STATE-26.|
-|Personality Cross-Reference Index to the Secretariat Automated Data Index|STATE-28.|
+|Personality Cross Reference Index to the Secretariat Automated Data Index|STATE-28.|
 |         Personality Index to the Central Foreign Policy Records         |STATE-29.|
 |                  Risk Analysis and Management Records                   |STATE-78.|
 |                            Security Records                             |STATE-36.|
@@ -92,7 +89,7 @@ Table 3 to Paragraph (b)(2)
 
 Table 4 to Paragraph (b)(3)
 
-|                                  Title                                  | Number  |
+|                                  Title                                  |   No.   |
 |-------------------------------------------------------------------------|---------|
 |                           Extradition Records                           |STATE-11.|
 |                   Information Access Programs Records                   |STATE-35.|
@@ -108,7 +105,7 @@ Table 4 to Paragraph (b)(3)
 
 Table 5 to Paragraph (b)(4)
 
-|               Title               | Number  |
+|               Title               |   No.   |
 |-----------------------------------|---------|
 | Foreign Service Institute Records |STATE-14.|
 |      Human Resources Records      |STATE-31.|
@@ -121,7 +118,7 @@ Table 5 to Paragraph (b)(4)
 
 Table 6 to Paragraph (b)(5)
 
-|                                  Title                                  | Number  |
+|                                  Title                                  |   No.   |
 |-------------------------------------------------------------------------|---------|
 |                  Foreign Assistance Inspection Records                  |STATE-48.|
 |                 Foreign Service Grievance Board Records                 |STATE-13.|
@@ -142,7 +139,7 @@ Table 6 to Paragraph (b)(5)
 
 Table 7 to Paragraph (b)(6)
 
-|                     Title                      | Number  |
+|                     Title                      |   No.   |
 |------------------------------------------------|---------|
 |       Foreign Service Institute Records        |STATE-14.|
 |            Human Resources Records             |STATE-31.|
@@ -154,7 +151,7 @@ Table 7 to Paragraph (b)(6)
 
 Table 8 to Paragraph (b)(7)
 
-|                                  Title                                  | Number  |
+|                                  Title                                  |   No.   |
 |-------------------------------------------------------------------------|---------|
 |                         Human Resources Records                         |STATE-31.|
 |                   Information Access Programs Records                   |STATE-35.|
@@ -162,5 +159,3 @@ Table 8 to Paragraph (b)(7)
 |Personality Cross-Reference Index to the Secretariat Automated Data Index|STATE-28.|
 |         Personality Index to the Central Foreign Policy Records         |STATE-29.|
 |                            Security Records                             |STATE-36.|
-
-[81 FR 19865, Apr. 6, 2016, as amended at 81 FR 33590, May 27, 2016; 85 FR 13483, Mar. 9, 2020; 88 FR 58073, Aug. 25, 2023]

@@ -76,10 +76,10 @@ As used in this part, the following words and terms are construed to mean:
 
 *Utility service vehicle* means any commercial motor vehicle:
 
-(1) Used in the furtherance of repairing, maintaining, or operating any structures or any other physical facilities necessary for the delivery of public utility services, including the furnishing of electric, gas, water, sanitary sewer, telephone, and television cable or community antenna service;
+(1) Used in the furtherance of repairing, maintaining, or operating any structures or any other physical facilities necessary for the delivery of public utility services, including the furnishing of electric, gas, water, sanitary sewer, telephone, television cable or community antenna service, and broadband-internet and cellular telephone operations;
 
 (2) While engaged in any activity necessarily related to the ultimate delivery of such public utility services to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and
 
 (3) Except for any occasional emergency use, operated primarily within the service area of a utility's subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility.
 
-[57 FR 33648, July 30, 1992]Editorial Note:For Federal Register citations affecting § 395.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[57 FR 33648, July 30, 1992]Editorial Note:For Federal Register citations affecting § 395.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

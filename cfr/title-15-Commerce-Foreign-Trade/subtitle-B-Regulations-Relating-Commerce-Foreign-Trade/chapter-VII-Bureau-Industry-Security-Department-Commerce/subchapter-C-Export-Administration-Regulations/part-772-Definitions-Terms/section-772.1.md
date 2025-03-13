@@ -1,7 +1,5 @@
 ##### § 772.1 Definitions of terms as used in the Export Administration Regulations (EAR). #####
 
-Link to an amendment published at 88 FR 73450, Oct. 25, 2023.Link to an amendment published at 88 FR 73497, Oct. 25, 2023.
-
 The following are definitions of terms as used in the Export Administration Regulations (EAR). In this part, references to the EAR are references to 15 CFR chapter VII, subchapter C. Those terms in quotation marks refer to terms used on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR). Parenthetical references following the terms in quotation marks (i.e., (Cat 5)) refer to the CCL category in which that term is found. If a term is used in only one Export Control Classification Number (ECCN) on the CCL, then that term will *not* appear in this part, but will be defined in the Related Definitions paragraph in the List of Items Controlled Section of that ECCN.
 
 *600 series.* ECCNs in the “xY6zz” format on the Commerce Control List (CCL) that control items on the CCL that were previously controlled on the U.S. Munitions List or that are covered by the Wassenaar Arrangement Munitions List (WAML). The “6” indicates the entry is a munitions entry on the CCL. The “x” represents the CCL category and “Y” the CCL product group. The “600 series” constitutes the munitions ECCNs within the larger CCL.
@@ -25,6 +23,24 @@ For the most current list of MDE, see Appendix 1, (Nonrecurring Cost Recoupment 
 *Adaptive control.* (Cat 2)—A control system that adjusts the response from conditions detected during the operation (Ref. ISO 2806-1980).
 
 *Adjusted Peak Performance (APP).* (Cat 4) An adjusted peak rate at which “digital computers” perform 64-bit or larger floating point additions and multiplications. The formula to calculate APP is contained in a technical note at the end of Category 4 of the Commerce Control List.
+
+*Advanced-Node Integrated Circuits (Advanced-Node IC).* For parts 734 and 744 of the EAR, advanced-node integrated circuits include integrated circuits that meet any of the following criteria:
+
+(1) Logic integrated circuits using a non-planar transistor architecture or with a “production” 'technology node' of 16/14 nanometers or less;
+
+(2) NOT AND (NAND) memory integrated circuits with 128 layers or more; or
+
+(3) Dynamic random-access memory (DRAM) integrated circuits using a “production” 'technology node' of 18 nanometer half-pitch or less.
+
+Note 1 to definition of “Advanced-Node Integrated Circuits”:
+
+For the purposes of paragraphs (1) and (3) of this definition, the term technology node refers to the Logic Industry “Node Range” figure described in the International Roadmap for Devices and Systems, 2016 edition (“More Moore” White Paper), available at *https://irds.ieee.org/images/files/pdf/2016\_MM.pdf).*
+
+Technical Note to definition of “Advanced-Node Integrated Circuits”:
+
+For the purposes of paragraph (3) of this definition, the calculation methodology to be used in determining whether a DRAM integrated circuit uses a production technology node of 18 nanometer half-pitch or less is the calculated half-pitch method developed, adopted, and used by the Institute of Electrical and Electronics Engineers (IEEE) and published in the International Roadmap for Devices and Systems (IRDS), as follows:
+
+![](/graphics/er25oc23.000.gif)Cell size factor is 8, 6 or 4 depending on the DRAM architectures. Cell area is defined as Wordline\*Bitline (which takes into consideration both transistor and capacitor dimensions)
 
 *Advisory Committee on Export Policy (ACEP).* The ACEP voting members include the Assistant Secretary of Commerce for Export Administration, and Assistant Secretary-level representatives from the Departments of State, Defense, Justice (for encryption exports), Energy, and the Arms Control and Disarmament Agency. The appropriate representatives of the Joint Chiefs of Staff and the Director of the Nonproliferation Center of the Central Intelligence Agency are non-voting members. The Assistant Secretary of Commerce for Export Administration is the Chair. Appropriate acting Assistant Secretary, Deputy Assistant Secretary or equivalent strength of any agency or department may serve in lieu of the Assistant Secretary of the concerned agency or department. Such representatives, regardless of rank, will speak and vote on behalf of their agencies or departments. The ACEP may invite Assistant Secretary-level representatives of other Government agencies or departments (other than those identified above) to participate in the activities of the ACEP when matters of interest to such agencies or departments are under consideration. Decisions are made by majority vote.
 
@@ -341,6 +357,8 @@ This does not include cases of routing decisions taken on predefined information
 *Exporter.* The person in the United States who has the authority of a principal party in interest to determine and control the sending of items out of the United States.
 
 *Exporting carrier.* Any instrumentality of water, land, or air transportation by which an export is effected, including any domestic air carrier on which any cargo for export is laden or carried.
+
+*Extreme Ultraviolet (EUV).* Extreme Ultraviolet (EUV) means electromagnetic spectrum wavelengths greater than 5 nm and less than 124 nm.
 
 *FADEC systems.* See “full authority digital engine control systems.”
 
@@ -1136,7 +1154,7 @@ The terms 'designed' and 'manufactured' in this definition are synonymous with �
 
 Note 1:
 
-‘Enumerated’ refers to any item (i) on either the USML or CCL not controlled in a ‘catch-all’ paragraph and (ii) when on the CCL, controlled by an ECCN for more than Anti-Terrorism (AT) reasons only. An example of an ‘enumerated’ ECCN is 2A226, which controls valves with the following three characteristics: a “nominal size” of 5 mm or greater; having a bellows seal; *and* wholly made of or lined with aluminum, aluminum alloy, nickel, or nickel alloy containing more than 60% nickel by weight. The CCL also contains notes excluding from control “parts” and “components” “specially designed” for uncontrolled items. Such uncontrolled items are merely ‘described’ and are not ‘enumerated.’ Note 2 to ECCN 1A002 is an example of items excluded from control based on being “specially designed” for a ‘described’ item. Commodities or software in an ECCN controlled only for AT reasons are other examples of items ‘described’ on the CCL. ECCN 2B996, which controls dimensional inspection or measuring systems or equipment not controlled by 2B006, is an example of a commodity ‘described’ in an ECCN controlled only for AT reasons. For purposes of “specially designed,” ECCNs 0B505.c, 0B999, 0D999, 1B999, 1C992, 1C995, 1C997, 1C999, 6A998 (except for .b), and 9A991 are treated as ECCNs controlled exclusively for AT reasons.
+‘Enumerated’ refers to any item (i) on either the USML or CCL not controlled in a ‘catch-all’ paragraph and (ii) when on the CCL, controlled by an ECCN for more than Anti-Terrorism (AT) reasons only. An example of an ‘enumerated’ ECCN is 2A226, which controls valves with the following three characteristics: a “nominal size” of 5 mm or greater; having a bellows seal; *and* wholly made of or lined with aluminum, aluminum alloy, nickel, or nickel alloy containing more than 60% nickel by weight. The CCL also contains notes excluding from control “parts” and “components” “specially designed” for uncontrolled items. Such uncontrolled items are merely ‘described’ and are not ‘enumerated.’ Note 2 to ECCN 1A002 is an example of items excluded from control based on being “specially designed” for a ‘described’ item. Commodities or software in an ECCN controlled only for AT reasons are other examples of items ‘described’ on the CCL. ECCN 2B996, which controls dimensional inspection or measuring systems or equipment not controlled by 2B006, is an example of a commodity ‘described’ in an ECCN controlled only for AT reasons. For purposes of “specially designed,” ECCNs 0B505.c, 0B999, 0D999, 1B999, 1C992, 1C995, 1C997, 1C999, 3A991, 4A994, 5A992 (except for .z), 5D992 (except for .z), 6A998 (except for .b), and 9A991 are treated as ECCNs controlled exclusively for AT reasons.
 
 Note 2:
 

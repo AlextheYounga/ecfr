@@ -64,9 +64,17 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (ii) To extend the time within which a financial holding company must execute a corrective agreement under section 4(m) of the Bank Holding Company Act (12 U.S.C. 1843(m));
 
-(iii) To extend the time limits in, or otherwise modify, corrective agreements under section 4(m) of the Bank Holding Company Act (12 U.S.C. 1843(m)); and
+(iii) To extend the time limits in, or otherwise modify, corrective agreements under section 4(m) of the Bank Holding Company Act (12 U.S.C. 1843(m));
 
-(iv) To determine not to make public any corrective agreement under section 4(m) of the Bank Holding Company Act (12 U.S.C. 1843(m));
+(iv) To determine not to make public any corrective agreement under section 4(m) of the Bank Holding Company Act (12 U.S.C. 1843(m)); and
+
+(v) To acquire shares or assets pursuant to section 4(k) of the Bank Holding Company Act (12 U.S.C. 1843(k)) without prior Board approval up to the following thresholds:
+
+(A) $25 million in consideration for a single transaction;
+
+(B) $125 million in consideration over the past 12 months; and
+
+(C) $400 million in consideration over the entire period the financial holding company is subject to the agreement required by section 4(m) of the Bank Holding Company Act (12 U.S.C. 1843(m)).
 
 (8) *Complementary physical commodity trading activities.* With the concurrence of the General Counsel, to approve requests by financial holding companies to engage in complementary physical commodity trading activities, pursuant to section 4(k)(1)(B) of the Bank Holding Company Act (12 U.S.C. 1843(k)(1)(B)), as an activity that is complementary to permissible commodity derivatives activities, provided that the proposal meets the conditions imposed by the Board approving previous requests and the proposal does not raise any significant legal, policy, or supervisory issues.
 
@@ -174,7 +182,7 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (4) *Examiners.* To select or approve the appointment of Federal Reserve examiners, assistant examiners, and special examiners for the purpose of making examinations for or by the direction of the Board under 12 U.S.C. 325, 338, 625, 1844(c), and 3105(c)(1).
 
-(5) *Capital stock reduction; branch applications; declaration of dividends; investment in bank premises.* To exercise the functions described in § 265.20(e)(5), (11), and (12)(reductions in capital, issuance of subordinated debt, and early retirement of subordinated debt) when the conditions specified in those sections preclude a Reserve Bank from acting on a member bank's request for action or when the Reserve Bank concludes that it should not take action, and to exercise the functions in § 265.20(e)(3), (4), and (7) (approving branch applications, declaration of dividends, and investment in bank premises) in cases in which the Reserve Bank concludes that it should not take action.
+(5) *Capital stock reduction; branch applications; declaration of dividends; investment in bank premises.* To exercise the functions described in §§ 265.20(e)(5) and (11) (reductions in capital and early retirement of subordinated debt) when the conditions specified in those sections preclude a Reserve Bank from acting on a member bank's request for action or when the Reserve Bank concludes that it should not take action, and to exercise the functions in § 265.20(e)(3), (4), and (7) (approving branch applications, declaration of dividends, and investment in bank premises) in cases in which the Reserve Bank concludes that it should not take action.
 
 (6) *Security devices.* To exercise the functions described in § 265.20(e)(8) in those cases in which the appropriate Reserve Bank concludes that it should not take action for good cause.
 
@@ -268,7 +276,7 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (vii) To notify a bank holding company or savings and loan holding company in writing that it may not take advantage of the prior approval exception for well-capitalized bank holding companies or savings and loan holding companies; or
 
-(viii) To approve or disapprove, within 30 days of receipt of receipt of a complete request, a proposed capital distribution; and
+(viii) To approve or disapprove, within 30 days of receipt of a complete request, a proposed capital distribution; and
 
 (ix) To affirm or withdraw objection to a capital plan based on a bank holding company's or savings and loan holding company's written request to reconsider an objection to a capital plan.
 
@@ -296,9 +304,13 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (D) To determine under § 217.1(d)(4) of Regulation Q (12 CFR 217.1(d)(4)) whether the leverage exposure amount, or the amount reflected in a company's reported average total consolidated assets, for an on- or off-balance sheet exposure (under § 217.10 of Regulation Q (12 CFR 217.10)) is inappropriate for the exposure(s) or the circumstances of the company, and, based on this determination, require the company to adjust this amount in the numerator and the denominator for purposes of the company's leverage ratio calculations;
 
-(E) To determine under § 217.1(d)(5) of Regulation Q (12 CFR 217.1(d)(5)) whether the risk-based capital treatment for an exposure, or the treatment provided to an entity that is not consolidated on a company's balance sheet, is commensurate with the risk of the exposure and the relationship of the company to the entity, and, based on this determination, require the company to treat the exposure or entity as if it were consolidated on the company's balance sheet; and
+(E) To determine under § 217.1(d)(5) of Regulation Q (12 CFR 217.1(d)(5)) whether the risk-based capital treatment for an exposure, or the treatment provided to an entity that is not consolidated on a company's balance sheet, is commensurate with the risk of the exposure and the relationship of the company to the entity, and, based on this determination, require the company to treat the exposure or entity as if it were consolidated on the company's balance sheet;
 
-(F) With respect to any deduction or limitation required under Regulation Q, to require under § 217.1(d)(6) of Regulation Q (12 CFR 217.1(d)(6)) a different deduction or limitation provided that such alternative deduction or limitation is commensurate with the company's risk and consistent with safety and soundness.
+(F) With respect to any deduction or limitation required under Regulation Q, to require under § 217.1(d)(6) of Regulation Q (12 CFR 217.1(d)(6)) a different deduction or limitation provided that such alternative deduction or limitation is commensurate with the company's risk and consistent with safety and soundness;
+
+(G) To approve a request by a Board-regulated institution to make or change an election, or a choice of treatment, under § 217.1(g)(2)(ii) of Regulation Q (12 CFR 217.1(g)(2)(ii)); and
+
+(H) To review and adjust estimated total consolidated assets under the definition of “insurance bank holding company” or “insurance savings and loan holding company” in § 217.2 of Regulation Q (12 CFR 217.2) or under § 217.601(b)(2) of Regulation Q (12 CFR 217.601(b)(2)).
 
 (iii)(A) To determine under paragraph (5) of the definition of “distribution” in § 217.2 of Regulation Q (12 CFR 217.2) whether a transaction is in substance a distribution of capital;
 
@@ -494,9 +506,25 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (O) Determine under § 217.210(f)(1) of Regulation Q (12 CFR 217.210(f)(1)) whether or not a company has demonstrated a comprehensive understanding of the features of a securitization exposure.
 
-(7) *Delegations of Authority under Basel I-based Capital Guidelines* (Appendix A to Regulation Y, 12 CFR part 225). (i) To approve under section II.A.l.c.ii.(2) of appendix A to Regulation Y, 12 CFR part 225, a bank or bank holding company's redemption of perpetual preferred stock; and
+(7) *Delegations of Authority under Basel I-based Capital Guidelines* (Appendix A to Regulation Y, 12 CFR part 225). (i) To approve under section II.A.1.c.ii.(2) of appendix A to Regulation Y, 12 CFR part 225, a bank or bank holding company's redemption of perpetual preferred stock; and
 
 (ii) To approve under section II.A.2. of appendix A to Regulation Y, 12 CFR part 225, a bank or bank holding company's redemption of subordinated debt or mandatorily convertible securities prior to the stated maturity.
+
+(8) *Delegations regarding the Building Block Approach in subpart J of Regulation Q (12 CFR part 217, subpart J).*
+
+(i) [Reserved]
+
+(ii) After consultation with the General Counsel:
+
+(A) To require a supervised insurance organization to exclude all or a portion of a particular company capital element from building block available capital, to approve the inclusion on a permanent or temporary basis of a capital resource in building block available capital, to adjust the building block capital requirement and building block available capital of a supervised insurance organization, or to require a supervised insurance organization to take certain actions to better reflect the risk profile of an inventory company or the supervised insurance organization, under § 217.601(d) of Regulation Q (12 CFR 217.601(d));
+
+(B) To require a supervised insurance organization to apply an alternative treatment to a treatment otherwise required by subpart J of Regulation Q (12 CFR part 217 subpart J) under § 217.601(d)(4) of Regulation Q (12 CFR 217.601(d)(4));
+
+(C) To approve a request to exercise a call option on an instrument under § 217.608(a)(1)(v)(A) or § 217.608(a)(2)(iv)(A) of Regulation Q (12 CFR 217.608(a)(1)(v)(A) or 217.608(a)(2)(iv)(A));
+
+(D) To approve a request to redeem or repurchase an instrument under 217.608 (a)(1)(vi) or § 217.608(a)(2)(v) of Regulation Q (12 CFR 217.608(a)(1)(vi) or 217.608(a)(2)(v)); and
+
+(E) To approve a request to include in building block available capital an instrument issued by a company in a supervised insurance organization under § 217.608(g) of Regulation Q (12 CFR 217.608(g)).
 
 (l) *Concentration Limit Actions* (Regulation XX (12 CFR part 251)). (1) To approve requests from financial companies seeking to use an accounting standard or method of estimation other than GAAP to calculate and report liabilities pursuant to section 14 of the Bank Holding Company Act (12 U.S.C. 1852) and Regulation XX (12 CFR part 251);
 
@@ -546,4 +574,4 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (2) With the concurrence of the General Counsel, to prepare and submit to Congress reports under section 37(c) of the Federal Deposit Insurance Act (12 U.S.C. 1831n(c)), and to submit such reports to the Federal Register for publication.
 
-[87 FR 54003, Sept. 1, 2022, as amended at 88 FR 32622, May 22, 2023]
+[87 FR 54003, Sept. 1, 2022, as amended at 88 FR 32622, May 22, 2023; 88 FR 80109, Nov. 17, 2023]Editorial Note:At 88 FR 80109, Nov. 17, 2023, § 265.7(d)(7)(ii)(B)(*3*) was amended by removing “(§§ 252.146 and 252.158)” and adding, in its place, “(12 CFR 252.146 and 252.158)”; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

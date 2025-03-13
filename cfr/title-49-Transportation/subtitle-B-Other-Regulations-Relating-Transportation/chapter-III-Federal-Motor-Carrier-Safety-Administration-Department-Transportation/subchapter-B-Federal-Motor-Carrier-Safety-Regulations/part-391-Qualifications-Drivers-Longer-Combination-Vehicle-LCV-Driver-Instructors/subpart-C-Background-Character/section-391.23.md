@@ -2,7 +2,7 @@
 
 (a) Except as provided in subpart G of this part, each motor carrier shall make the following investigations and inquiries with respect to each driver it employs, other than a person who has been a regularly employed driver of the motor carrier for a continuous period which began before January 1, 1971:
 
-(1) An inquiry, within 30 days of the date the driver's employment begins, to each driver's licensing authority where the driver held or holds a motor vehicle operator's license or permit during the preceding 3 years to obtain that driver's motor vehicle record.
+(1) An inquiry, within 30 days of the date the driver's employment begins, to each State where the driver held or holds a motor vehicle operator's license or permit during the preceding 3 years, to obtain that driver's motor vehicle record covering that driver's prior 3-year driving history.
 
 (2) An investigation of the driver's safety performance history with Department of Transportation regulated employers during the preceding three years.
 
@@ -132,4 +132,4 @@
 
 (4) In the event of a conflict between the medical certification information provided electronically by FMCSA and a paper copy of the medical examiner's certificate, the medical certification information provided electronically by FMCSA shall control.
 
-(Approved by the Office of Management and Budget under control number 2126-0004)[35 FR 6460, Apr. 22, 1970]Editorial Note:For Federal Register citations affecting § 391.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+(Approved by the Office of Management and Budget under control number 2126-0004)[35 FR 6460, Apr. 22, 1970]Editorial Note:For Federal Register citations affecting § 391.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

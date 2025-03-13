@@ -8,7 +8,7 @@ The following persons must be medically examined and certified in accordance wit
 
 (c) Any driver authorized to operate a commercial motor vehicle only within an exempt intra-city zone pursuant to § 391.62, if such driver has not been medically examined and certified as qualified to drive in such zone during the preceding 12 months;
 
-(d) Any driver authorized to operate a commercial motor vehicle only by operation of the exemption in § 391.64, if such driver has not been medically examined and certified as qualified to drive during the preceding 12 months;
+(d) [Reserved]
 
 (e) Any driver who has diabetes mellitus treated with insulin for control and who has obtained a medical examiner's certificate under the standards in § 391.46, if such driver's most recent medical examination and certification as qualified to drive did not occur during the preceding 12 months;
 
@@ -18,4 +18,4 @@ The following persons must be medically examined and certified in accordance wit
 
 (h) On or after June 23, 2025, any person found by a medical examiner not to be physically qualified to operate a commercial motor vehicle under the provisions of paragraph (g)(3) of § 391.43.
 
-[83 FR 47520, Sept. 19, 2018, as amended at 86 FR 32651, June 22, 2021; 87 FR 3419, Jan. 21, 2022]
+[83 FR 47520, Sept. 19, 2018, as amended at 86 FR 32651, June 22, 2021; 87 FR 3419, Jan. 21, 2022; 88 FR 80192, Nov. 17, 2023]

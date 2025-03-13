@@ -5,3 +5,5 @@
 (b) If the State procedures do not allow a motor carrier to file the Form MCSA-1, the URS online application, or to submit updates within the period specified in § 390.201(d)(2), a motor carrier must complete such filings directly with FMCSA.
 
 (c) A for-hire motor carrier, unless providing transportation exempt from the commercial registration requirements of 49 U.S.C. chapter 139, must obtain operating authority as prescribed under § 390.201(b) and part 365 of this subchapter before operating in interstate commerce.
+
+Effective Date Note:At 88 FR 80184, Nov. 17, 2023, § 390.203 was suspended indefinitely, effective Nov. 17, 2023.

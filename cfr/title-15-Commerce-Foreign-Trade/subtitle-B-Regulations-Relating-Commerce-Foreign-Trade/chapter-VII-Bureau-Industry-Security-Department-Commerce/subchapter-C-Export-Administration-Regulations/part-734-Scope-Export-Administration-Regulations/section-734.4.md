@@ -1,12 +1,12 @@
 ##### § 734.4 De minimis U.S. content. #####
 
-Link to an amendment published at 88 FR 73446, Oct. 25, 2023.Link to an amendment published at 88 FR 73488, Oct. 25, 2023.
-
 (a) *Items for which there is no de minimis level.* (1) There is no *de minimis* level for the export from a foreign country of a foreign-made computer with an Adjusted Peak Performance (APP) exceeding that listed in ECCN 4A003.b and containing U.S.-origin controlled semiconductors (other than memory circuits) classified under ECCN 3A001 to Computer Tier 3 destinations; or exceeding an APP listed in ECCN 4A994.b and containing U.S.-origin controlled semiconductors (other than memory circuits) classified under ECCN 3A001 or high speed interconnect devices (ECCN 4A994.j) to Cuba, Iran, North Korea, and Syria.
 
 (2) Foreign produced encryption technology that incorporates U.S. origin encryption technology controlled by ECCN 5E002 is subject to the EAR regardless of the amount of U.S. origin content.
 
-(3) [Reserved]
+(3) There is no *de minimis* level for equipment meeting the parameters in ECCN 3B001.f.1.b.2.b of the Commerce Control List in supplement no. 1 to part 774 of the EAR, when the equipment is destined for use in the “development” or “production” of “advanced-node integrated circuits” and the “advanced-node integrated circuits” meet the parameter specified in paragraph (1) of that definition in § 772.1 of the EAR, unless the country from which the foreign-made item was first exported1 has a commodity specified on an export control list.
+
+1 The Government of Japan added ArF-wet lithography equipment and other advanced semiconductor manufacturing equipment to its control list for all regions on July 23, 2023.
 
 (4) There is no *de minimis* level for U.S.-origin technology controlled by ECCN 9E003.a.1 through a.6, a.8, .h, .i, and .l, when redrawn, used, consulted, or otherwise commingled abroad.
 
@@ -32,7 +32,7 @@ Link to an amendment published at 88 FR 73446, Oct. 25, 2023.Link to an amendmen
 
 (iv) Authorized for License Exception ENC pursuant to § 740.17(b)(1) of the EAR.
 
-(2) U.S.-origin encryption items classified under ECCNs 5A992.c, 5D992.c, or 5E992.b.
+(2) The U.S.-origin encryption items are classified under ECCNs 5A992, 5D992, or 5E992.b.
 
 Note to paragraph (b):
 

@@ -12,8 +12,8 @@ For nonprofit organizations that are FFRDCs, the contracting officer—
 
 (4) Provision for funding unreimbursed costs deemed ordinary and necessary to the FFRDC.
 
-(b) Shall, when a fee is considered appropriate, establish the fee objective in accordance with FFRDC fee policies in the DoD FFRDC Management Plan.
+(b) Shall, when a fee is considered appropriate, establish the fee objective in accordance with FFRDC fee policies in the DoD Instruction 5000.77, DoD Federally Funded Research and Development Center Program.
 
 (c) Shall not use the weighted guidelines method or an alternate structured approach.
 
-[63 FR 63800, Nov. 17, 1998]
+[63 FR 63800, Nov. 17, 1998, as amended at 88 FR 80466, Nov. 17, 2023]

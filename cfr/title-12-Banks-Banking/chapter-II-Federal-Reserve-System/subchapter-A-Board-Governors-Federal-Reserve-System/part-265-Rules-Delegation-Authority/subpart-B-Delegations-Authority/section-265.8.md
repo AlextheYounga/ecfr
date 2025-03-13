@@ -14,9 +14,9 @@ The Director of the Division of Consumer and Community Affairs (or the Director'
 
 (1) Sections 111, 171(a) and 186(a) of the Truth in Lending Act (15 U.S.C. 1610(a), 1666j(a), 1667e(a)) and §§ 226.28 of Regulation Z (12 CFR 226.28) and 213.9 of Regulation M (12 CFR 213.9);
 
-(2) Section 919 of the Electronic Fund Transfer Act (15 U.S.C. 1693q), § 205.12 of Regulation E (12 CFR 205.12); and
+(2) Section 919 of the Electronic Fund Transfer Act (15 U.S.C. 1693q) and § 205.12 of Regulation E (12 CFR 205.12); and
 
-(3) Section 705(f) of the Equal Credit Opportunity Act (15 U.S.C. 1691d(f) and § 202.11 of Regulation B (12 CFR 202.11).
+(3) Section 705(f) of the Equal Credit Opportunity Act (15 U.S.C. 1691d(f)) and § 202.11 of Regulation B (12 CFR 202.11).
 
 (d) *Interpreting the Fair Credit Reporting Act.* To issue interpretations pursuant to section 621(e) of the Fair Credit Reporting Act (15 U.S.C. 1681s(e));
 
@@ -31,3 +31,5 @@ The Director of the Division of Consumer and Community Affairs (or the Director'
 (g) *Public hearings.* To conduct hearings or other proceedings required or permitted by law, concerning consumer law or other matters within the responsibilities of the Division of Consumer and Community Affairs, in consultation with other interested divisions of the Board where appropriate.
 
 (h) *Designation of responsible Reserve Bank for savings and loan holding companies.* With the Director of the Division of Supervision and Regulation, to designate the responsible Reserve Bank of a savings and loan holding company when the standard designation would not result in an efficient allocation of supervisory resources or would not otherwise be appropriate.
+
+[87 FR 54003, Sept. 1, 2022, as amended at 88 FR 80109, Nov. 17, 2023]

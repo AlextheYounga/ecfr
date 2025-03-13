@@ -10,6 +10,6 @@
 
 (b) For purposes of this section, a “new applicant” is an entity applying for a USDOT number and if applicable, operating authority who does not at the time of application have an active registration or USDOT, Motor Carrier (MC), Mexico owned or controlled (MX) or Freight Forwarder (FF) number, and who has never had an active registration or USDOT, MC, MX, or FF number.
 
-(c) Form MCSA-1 is the URS online application, and both the application and its instructions are available from the FMCSA Web site at *http://www.fmcsa.dot.gov/urs.*
+(c) Form MCSA-1 is the URS online application, and both the application and its instructions are available from the FMCSA website at *https://www.fmcsa.dot.gov/urs.*
 
-[82 FR 5299, Jan. 17, 2017]
+[82 FR 5299, Jan. 17, 2017, as amended at 88 FR 80179, Nov. 17, 2023]

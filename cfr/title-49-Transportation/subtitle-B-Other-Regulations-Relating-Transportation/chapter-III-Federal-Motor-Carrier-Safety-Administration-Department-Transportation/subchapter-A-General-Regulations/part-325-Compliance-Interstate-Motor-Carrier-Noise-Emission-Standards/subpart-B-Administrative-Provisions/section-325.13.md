@@ -1,6 +1,6 @@
 ##### § 325.13 Inspection and examination of motor vehicles. #####
 
-(a) Any special agent of the Federal Motor Carrier Safety Administration (designated in appendix B to subchapter B of this chapter) is authorized to inspect, examine, and test a motor vehicle operated by a motor carrier in accordance with the procedures specified in this part for the purpose of ascertaining whether the motor vehicle and equipment installed on the motor vehicle conforms to the Interstate Motor Carrier Noise Emission Standards of the Environmental Protection Agency, 40 CFR part 202.
+(a) *Authority.* Any special agent of the Federal Motor Carrier Safety Administration (designated in appendix B to part 390 of this chapter) is authorized to inspect, examine, and test a motor vehicle operated by a motor carrier in accordance with the procedures specified in this part for the purpose of ascertaining whether the motor vehicle and equipment installed on the motor vehicle conforms to the Interstate Motor Carrier Noise Emission Standards of the Environmental Protection Agency, 40 CFR part 202.
 
 (b) A motor carrier, its officers, drivers, agents, and employees must, at any time, submit a motor vehicle used in its operations for inspection, examination, and testing for the purpose of ascertaining whether the motor vehicle and equipment installed on it conforms to the Interstate Motor Carrier Noise Emission Standards of the Environmental Protection Agency, 40 CFR part 202.
 
@@ -12,4 +12,4 @@
 
 (3) Motor carriers must complete the “Motor Carrier Certification of Action Taken” on Form MCS-141 in accordance with the terms prescribed thereon. Motor carriers must return Forms MCS-141 to the Division Office at the address indicated on Form MCS-141 within fifteen (15) days following the date of the vehicle inspection.
 
-[40 FR 42437, Sept. 12, 1975, as amended at 41 FR 10226, Mar. 10, 1976; 54 FR 50385, Dec. 6, 1989; 60 FR 38743, July 28, 1995; 66 FR 49869, Oct. 1, 2001; 78 FR 58477, Sept. 24, 2013]
+[40 FR 42437, Sept. 12, 1975, as amended at 41 FR 10226, Mar. 10, 1976; 54 FR 50385, Dec. 6, 1989; 60 FR 38743, July 28, 1995; 66 FR 49869, Oct. 1, 2001; 78 FR 58477, Sept. 24, 2013; 88 FR 80179, Nov. 17, 2023]

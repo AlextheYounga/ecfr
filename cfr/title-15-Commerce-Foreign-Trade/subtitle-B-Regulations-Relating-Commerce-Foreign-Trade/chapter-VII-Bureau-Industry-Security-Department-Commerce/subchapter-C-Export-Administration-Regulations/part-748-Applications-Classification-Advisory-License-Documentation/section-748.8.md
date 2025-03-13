@@ -1,7 +1,5 @@
 ##### § 748.8 Unique application and submission requirements. #####
 
-Link to an amendment published at 88 FR 73496, Oct. 25, 2023.
-
 In addition to the instructions contained in supplement no. 1 to this part 748, you must also ensure that the additional requirements for certain items or types of transactions described in this section are addressed in your license application. See supplement no. 2 to this part 748 if your application involves:
 
 (a) Chemicals, medicinals, and pharmaceuticals.
@@ -10,7 +8,7 @@ In addition to the instructions contained in supplement no. 1 to this part 748, 
 
 (c) Digital computers, telecommunications, and related equipment.
 
-(d) [Reserved]
+(d) U.S. person support activities that require a license under § 744.6.
 
 (e) Intransit shipments through the United States.
 
@@ -40,7 +38,9 @@ In addition to the instructions contained in supplement no. 1 to this part 748, 
 
 (r) Encryption classification requests.
 
-(s)-(t) [Reserved]
+(s) Exports of firearms and certain shotguns temporarily in the United States.
+
+(t) “600 Series Major Defense Equipment.”
 
 (u) Aircraft and vessels on temporary sojourn.
 
@@ -52,4 +52,6 @@ In addition to the instructions contained in supplement no. 1 to this part 748, 
 
 (y) Satellite exports.
 
-[61 FR 12812, Mar. 25, 1996, as amended at 64 FR 27146, May 18, 1999; 69 FR 64489, Nov. 5, 2004; 70 FR 8249, Feb. 18, 2005; 70 FR 54629, Sept. 16, 2005; 75 FR 36500, June 25, 2010; 78 FR 22724, Apr. 16, 2013; 79 FR 27436, May 13, 2014; 80 FR 2290, Jan. 16, 2015; 81 FR 64676, Sept. 20, 2016]
+(z) Semiautomatic firearms controlled under ECCN 0A501.a.
+
+[61 FR 12812, Mar. 25, 1996, as amended at 64 FR 27146, May 18, 1999; 69 FR 64489, Nov. 5, 2004; 70 FR 8249, Feb. 18, 2005; 70 FR 54629, Sept. 16, 2005; 75 FR 36500, June 25, 2010; 78 FR 22724, Apr. 16, 2013; 79 FR 27436, May 13, 2014; 80 FR 2290, Jan. 16, 2015; 81 FR 64676, Sept. 20, 2016; 88 FR 73496, Oct. 25, 2023]

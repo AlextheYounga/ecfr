@@ -1,12 +1,10 @@
 ##### § 740.7 Computers (APP). #####
 
-Link to an amendment published at 88 FR 73491, Oct. 25, 2023.
-
 (a) *Scope*—(1) *Commodities.* License Exception APP authorizes exports, reexports and transfers (in-country) of computers, including “electronic assemblies” and specially designed components therefor controlled by ECCN 4A003 exported or reexported separately or as part of a system for consumption in Computer Tier countries as provided by this section. When evaluating your computer to determine License Exception APP eligibility, use the APP parameter to the exclusion of other technical parameters in ECCN 4A003.
 
 (2) *Technology and software.* License Exception APP authorizes exports of technology and software controlled by ECCNs 4D001 and 4E001 specially designed or modified for the “development,” “production,” or “use” of computers, including “electronic assemblies” and specially designed components therefor classified in ECCN 4A003 to Computer Tier countries as provided by this section.
 
-(b) *Restrictions.* (1) Related equipment controlled under ECCN 4A003.g may not be exported or reexported under this License Exception when exported or reexported separately from eligible computers authorized under this License Exception.
+(b) *Restrictions.* (1) Related equipment controlled under ECCN 4A003.g, z.2, or z.4 may not be exported or reexported under this license exception when exported or reexported separately from eligible computers authorized under this license exception.
 
 (2) *Access and release restrictions.* (i) [Reserved]
 

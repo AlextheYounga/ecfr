@@ -86,7 +86,7 @@
 
 (6) Administrative records related to alcohol and controlled substances testing:
 
-(i) Agreements with collection site facilities, laboratories, breath alcohol technicians, screening test technicians, medical review officers, consortia, and third party service providers;
+(i) Agreements with collection site facilities, laboratories, breath alcohol technicians, screening test technicians, medical review officers, consortia, and third-party service providers;
 
 (ii) Names and positions of officials and their role in the employer's alcohol and controlled substances testing program(s);
 
@@ -100,4 +100,4 @@
 
 (2) The information collection requirements of this part are found in the following sections: Sections 382.105, 382.113, 382.301, 382.303, 382.305, 382.307, 382.401, 382.403, 382.405, 382.409, 382.411, 382.601, 382.603.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 67 FR 61821, Oct. 2, 2002; 68 FR 75459, Dec. 31, 2003; 78 FR 58479, Sept. 24, 2013; 81 FR 87725, Dec. 5, 2016; 88 FR 27653, May 2, 2023]
+[66 FR 43103, Aug. 17, 2001, as amended at 67 FR 61821, Oct. 2, 2002; 68 FR 75459, Dec. 31, 2003; 78 FR 58479, Sept. 24, 2013; 81 FR 87725, Dec. 5, 2016; 88 FR 27653, May 2, 2023; 88 FR 80180, Nov. 17, 2023]

@@ -4,4 +4,6 @@ When an acquisition involves AA&E, technical or requirements personnel shall spe
 
 (a) That AA&E is involved; and
 
-(b) Which physical security requirements of DoD 5100.76-M apply.
+(b) Which physical security requirements of DoD Manual 5100.76 apply.
+
+[61 FR 7743, Feb. 29, 1996, as amended at 88 FR 80466, Nov. 17, 2023]

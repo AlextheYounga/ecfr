@@ -1,6 +1,6 @@
 ##### § 395.22 Motor carrier responsibilities—In general. #####
 
-(a) *Registered ELD required.* A motor carrier required to use an ELD must use only an ELD that is listed on the Federal Motor Carrier Safety Administration's registered ELDs list, accessible through the Agency's Web site, *www.fmcsa.dot.gov/devices*.
+(a) *Registered ELD required.* A motor carrier required to use an ELD must use only an ELD that is listed on the Federal Motor Carrier Safety Administration's registered ELDs list, accessible through the Agency's website, *www.fmcsa.dot.gov/devices*.
 
 (b) *User rights management.* (1) This paragraph applies to a motor carrier whose drivers use ELDs and to the motor carrier's support personnel who have been authorized by the motor carrier to access ELD records and make or suggest authorized edits.
 
@@ -53,3 +53,5 @@
 (2) A motor carrier must retain a driver's ELD records so as to protect a driver's privacy in a manner consistent with sound business practices.
 
 (j) *Record production.* When requested by an authorized safety official, a motor carrier must produce ELD records in an electronic format either at the time of the request or, if the motor carrier has multiple offices or terminals, within the time permitted under § 390.29 of this subchapter.
+
+[80 FR 78385, Dec. 16, 2015, as amended at 88 FR 80192, Nov. 17, 2023]

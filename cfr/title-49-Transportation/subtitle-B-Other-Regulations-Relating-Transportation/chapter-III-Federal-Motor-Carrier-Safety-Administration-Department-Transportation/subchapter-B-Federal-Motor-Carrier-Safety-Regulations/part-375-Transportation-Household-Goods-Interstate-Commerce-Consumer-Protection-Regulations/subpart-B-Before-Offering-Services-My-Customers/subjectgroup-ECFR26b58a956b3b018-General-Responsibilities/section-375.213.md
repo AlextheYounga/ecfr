@@ -28,7 +28,7 @@
 
 (3) If you publish the document, you may choose the color and design of the front and back covers of the publication. The following words must appear prominently on the front cover in 12-point or larger bold or full-faced type: “Your Rights and Responsibilities When You Move. Furnished by Your Mover, as Required by Federal Law.” You may substitute your name or trade name in place of “Your Mover” if you wish (for example, *Furnished by XYZ Van Lines, as Required by Federal Law*).
 
-(d) Paragraphs (c)(2) and (c)(3) of this section do not apply to exact copies of appendix A published in the Federal Register, the Code of Federal Regulations, or on FMCSA's Web site.
+(d) Paragraphs (c)(2) and (c)(3) of this section do not apply to exact copies of appendix A published in the Federal Register, the Code of Federal Regulations, or on FMCSA's website.
 
 (e) If you have a website, you are required to display prominently either a link to the DOT publication titled “Ready to Move?—Tips for a Successful Interstate Move” (DOT publication FMCSA-ESA-03-005, or its successor publication) on the FMCSA website or a true and accurate copy of that document on your website.
 
@@ -38,4 +38,4 @@
 
 (2) You must maintain the signed receipt required by paragraph (f)(1) of this section for one year from the date the individual shipper signs the receipt. You are not required to maintain the signed receipt when you do not actually transport household goods or perform related services for the individual shipper who signed the receipt.
 
-[72 FR 36772, July 5, 2007, as amended at 75 FR 72998, Nov. 29, 2010; 77 FR 41704, Nov. 13, 2012; 83 FR 16224, Apr. 16, 2018; 87 FR 24446, Apr. 26, 2022]
+[72 FR 36772, July 5, 2007, as amended at 75 FR 72998, Nov. 29, 2010; 77 FR 41704, Nov. 13, 2012; 83 FR 16224, Apr. 16, 2018; 87 FR 24446, Apr. 26, 2022; 88 FR 80180, Nov. 17, 2023]

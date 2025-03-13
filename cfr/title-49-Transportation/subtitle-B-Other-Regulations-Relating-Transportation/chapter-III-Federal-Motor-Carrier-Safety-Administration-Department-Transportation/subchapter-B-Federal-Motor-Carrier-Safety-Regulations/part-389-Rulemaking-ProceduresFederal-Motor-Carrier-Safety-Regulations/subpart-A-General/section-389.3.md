@@ -1,6 +1,6 @@
 ##### § 389.3 Definitions. #####
 
-*Act* means statutes granting the Secretary authority to regulate motor carrier safety.
+*Act* means statutes granting the Secretary authority to regulate motor carrier safety or commercial activity.
 
 *Administrator* means the Federal Motor Carrier Safety Administrator.
 
@@ -40,4 +40,4 @@
 
 *Written or in writing* means printed, handwritten, typewritten either on paper or other tangible medium, or by any method of electronic documentation such as electronic mail.
 
-[62 FR 37152, July 11, 1997, as amended at 80 FR 32864, June 10, 2015; 85 FR 86848, Dec. 31, 2020]
+[62 FR 37152, July 11, 1997, as amended at 80 FR 32864, June 10, 2015; 85 FR 86848, Dec. 31, 2020; 88 FR 80183, Nov. 17, 2023]

@@ -1,5 +1,7 @@
 ##### § 391.43 Medical examination; certificate of physical examination. #####
 
+Link to an amendment published at 88 FR 80184, Nov. 17, 2023.
+
 (a) Except as provided by paragraph (b) of this section, the medical examination must be performed by a medical examiner listed on the National Registry of Certified Medical Examiners under subpart D of part 390 of this chapter.
 
 (b) Exceptions:
@@ -16,7 +18,7 @@
 
 (d) Any driver authorized to operate a commercial motor vehicle within an exempt intracity zone pursuant to § 391.62 of this part shall furnish the examining medical examiner with a copy of the medical findings that led to the issuance of the first certificate of medical examination which allowed the driver to operate a commercial motor vehicle wholly within an exempt intracity zone.
 
-(e) Any driver operating under a limited exemption authorized by § 391.64 shall furnish the medical examiner with a copy of the annual medical findings of the ophthalmologist or optometrist, as required under § 391.64. If the medical examiner finds the driver qualified under the limited exemption in § 391.64, such fact shall be noted on the Medical Examiner's Certificate.
+(e) [Reserved]
 
 (f) The medical examination shall be performed, and its results shall be recorded on the Medical Examination Report Form, MCSA-5875, set out in this paragraph (f):
 
@@ -36,9 +38,9 @@
 
 (5)(i)(A) Once every calendar month, beginning May 21, 2014 and ending on June 22, 2018, the medical examiner must electronically transmit to FMCSA, via a secure Web account on the National Registry, a completed CMV Driver Medical Examination Results Form, MCSA-5850. The Form must include all information specified for each medical examination conducted during the previous month for any driver who is required to be examined by a medical examiner listed on the National Registry of Certified Medical Examiners.
 
-(B) Beginning June 22, 2018 by midnight (local time) of the next calendar day after the medical examiner completes a medical examination for any driver who is required to be examined by a medical examiner listed on the National Registry of Certified Medical Examiners, the medical examiner must electronically transmit to FMCSA, via a secure FMCSA-designated Web site, a completed CMV Driver Medical Examination Results Form, MCSA-5850. The Form must include all information specified for each medical examination conducted for each driver who is required to be examined by a medical examiner listed on the National Registry of Certified Medical Examiners in accordance with the provisions of this subpart E, and should also include information for each driver who is required by a State to be examined by a medical examiner listed on the National Registry of Certified Medical Examiners in accordance with the provisions of this subpart E and any variances from those provisions adopted by such State.
+(B) Beginning June 22, 2018 by midnight (local time) of the next calendar day after the medical examiner completes a medical examination for any driver who is required to be examined by a medical examiner listed on the National Registry of Certified Medical Examiners, the medical examiner must electronically transmit to FMCSA, via a secure FMCSA-designated website, a completed CMV Driver Medical Examination Results Form, MCSA-5850. The Form must include all information specified for each medical examination conducted for each driver who is required to be examined by a medical examiner listed on the National Registry of Certified Medical Examiners in accordance with the provisions of this subpart E, and should also include information for each driver who is required by a State to be examined by a medical examiner listed on the National Registry of Certified Medical Examiners in accordance with the provisions of this subpart and any variances from those provisions adopted by such State.
 
-(ii) Beginning on June 22, 2015, if the medical examiner does not perform a medical examination of any driver who is required to be examined by a medical examiner listed on the National Registry of Certified Medical Examiners during any calendar month, the medical examiner must report that fact to FMCSA, via a secure FMCSA-designated Web site, by the close of business on the last day of such month.
+(ii) Beginning on June 22, 2015, if the medical examiner does not perform a medical examination of any driver who is required to be examined by a medical examiner listed on the National Registry of Certified Medical Examiners during any calendar month, the medical examiner must report that fact to FMCSA, via a secure FMCSA-designated website, by the close of business on the last day of such month.
 
 (h) The medical examiner's certificate shall be completed in accordance with the following Form MCSA-5876, Medical Examiner's Certificate:
 

@@ -2,9 +2,9 @@
 
 As prescribed in 225.7017-4(b), use the following provision:
 
-Photovoltaic Devices—Certificate (DEC 2022)
+Photovoltaic Devices—Certificate (NOV 2023)
 
-(a) *Definitions.* “Bahrainian photovoltaic device,” “Caribbean Basin photovoltaic device,” “designated country,” “designated country photovoltaic device,” “domestic photovoltaic device,” “foreign photovoltaic device,” “Free Trade Agreement country,” “Free Trade Agreement photovoltaic device,” “Korean photovoltaic device,” “least developed country photovoltaic device,” “Moroccan photovoltaic device,” “Panamanian photovoltaic device,” “Peruvian photovoltaic device,” “photovoltaic device,” “qualifying country,” “qualifying country photovoltaic device,” “United States,” “U.S.-made photovoltaic device,” and “WTO GPA country photovoltaic device” have the meanings given in the Photovoltaic Devices clause of this solicitation.
+(a) *Definitions.* “Bahraini photovoltaic device,” “Caribbean Basin photovoltaic device,” “designated country,” “designated country photovoltaic device,” “domestic photovoltaic device,” “foreign photovoltaic device,” “Free Trade Agreement country,” “Free Trade Agreement photovoltaic device,” “Korean photovoltaic device,” “least developed country photovoltaic device,” “Moroccan photovoltaic device,” “Panamanian photovoltaic device,” “Peruvian photovoltaic device,” “photovoltaic device,” “qualifying country,” “qualifying country photovoltaic device,” “United States,” “U.S.-made photovoltaic device,” and “WTO GPA country photovoltaic device” have the meanings given in the Photovoltaic Devices clause of this solicitation.
 
 (b) *Restrictions.* The following restrictions apply, depending on the estimated aggregate value of photovoltaic devices to be utilized under a resultant contract:
 
@@ -38,7 +38,7 @@ Photovoltaic Devices—Certificate (DEC 2022)
 
 \_\_\_\_ (i) The offeror certifies that each photovoltaic device to be utilized in performance of the contract is a domestic photovoltaic device;
 
-\_\_\_\_ (ii) The offeror certifies that each photovoltaic device to be utilized in performance of the contract is a Free Trade Agreement country photovoltaic device (other than a Bahrainian, Korean, Moroccan, Panamanian, or Peruvian photovoltaic device) or a qualifying country photovoltaic device *[Offeror to specify country of origin\_\_\_\_\_\_];* or
+\_\_\_\_ (ii) The offeror certifies that each photovoltaic device to be utilized in performance of the contract is a Free Trade Agreement country photovoltaic device (other than a Bahraini, Korean, Moroccan, Panamanian, or Peruvian photovoltaic device) or a qualifying country photovoltaic device *[Offeror to specify country of origin\_\_\_\_\_\_];* or
 
 \_\_\_\_ (iii) The offered foreign photovoltaic devices (other than those from countries listed in paragraph (d)(4)(ii) of this provision) are the product of \_\_\_\_\_\_. *[Offeror to specify country of origin, if known, and provide documentation that the cost of a domestic photovoltaic device would be unreasonable in comparison to the cost of the proposed foreign photovoltaic device, i.e. that the price of the foreign photovoltaic device plus 50 percent is less than the price of a comparable domestic photovoltaic device.]*
 
@@ -46,7 +46,7 @@ Photovoltaic Devices—Certificate (DEC 2022)
 
 \_\_\_\_ (i) The offeror certifies that each photovoltaic device to be utilized in performance of the contract is a domestic photovoltaic device;
 
-\_\_\_\_ (ii) The offeror certifies that each photovoltaic device to be utilized in performance of the contract is a Free Trade Agreement country photovoltaic device (other than a Bahrainian, Moroccan, Panamanian, or Peruvian photovoltaic device) or a qualifying country photovoltaic device *[Offeror to specify country of origin\_\_\_\_\_\_];* or
+\_\_\_\_ (ii) The offeror certifies that each photovoltaic device to be utilized in performance of the contract is a Free Trade Agreement country photovoltaic device (other than a Bahraini, Moroccan, Panamanian, or Peruvian photovoltaic device) or a qualifying country photovoltaic device *[Offeror to specify country of origin\_\_\_\_\_\_];* or
 
 \_\_\_\_ (iii) The offered foreign photovoltaic devices (other than those from countries listed in paragraph (d)(5)(ii) of this provision) are the product of \_\_\_\_\_\_. *[Offeror to specify country of origin, if known, and provide documentation that the cost of a domestic photovoltaic device would be unreasonable in comparison to the cost of the proposed foreign photovoltaic device, i.e. that the price of the foreign photovoltaic device plus 50 percent is less than the price of a comparable domestic photovoltaic device.]*
 
@@ -56,4 +56,4 @@ Photovoltaic Devices—Certificate (DEC 2022)
 
 \_\_\_\_ (ii) A designated country photovoltaic device or a qualifying country photovoltaic device. *[Offeror to specify country of origin\_\_\_\_\_\_.]*
 
-(End of provision)[76 FR 78861, Dec. 20, 2011, as amended at 77 FR 13013, Mar. 5, 2012; 77 FR 30358, May 22, 2012; 77 FR 68701, Nov. 16, 2012; 78 FR 65222, Oct. 31, 2013; 78 FR 76995, Dec. 20, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 80 FR 36905, June 26, 2015; 80 FR 72605, Nov. 20, 2015; 80 FR 81471, Dec. 30, 2015; 82 FR 61483, Dec. 28, 2017; 83 FR 62501, Dec. 4, 2018; 84 FR 72247, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 76986, Dec. 16, 2022]
+(End of provision)[76 FR 78861, Dec. 20, 2011, as amended at 77 FR 13013, Mar. 5, 2012; 77 FR 30358, May 22, 2012; 77 FR 68701, Nov. 16, 2012; 78 FR 65222, Oct. 31, 2013; 78 FR 76995, Dec. 20, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 80 FR 36905, June 26, 2015; 80 FR 72605, Nov. 20, 2015; 80 FR 81471, Dec. 30, 2015; 82 FR 61483, Dec. 28, 2017; 83 FR 62501, Dec. 4, 2018; 84 FR 72247, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 76986, Dec. 16, 2022; 88 FR 80467, Nov. 17, 2023]

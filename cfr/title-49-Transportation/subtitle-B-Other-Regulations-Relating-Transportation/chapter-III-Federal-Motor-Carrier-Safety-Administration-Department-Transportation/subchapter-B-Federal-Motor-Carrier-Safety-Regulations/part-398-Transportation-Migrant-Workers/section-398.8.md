@@ -1,6 +1,6 @@
 ##### § 398.8 Administration inspection of motor vehicles in operation. #####
 
-(a) *Administration personnel authorized to perform inspections.* All persons designated as Special Agents of the Federal Motor Carrier Safety Administration, as detailed in Appendix B of chapter III of this title, are authorized to enter upon and perform inspections of motor carrier's vehicles in operation.
+(a) *Administration personnel authorized to perform inspections.* All persons designated as Special Agents of the Federal Motor Carrier Safety Administration, as detailed in appendix B to part 390 of this chapter, are authorized to enter upon and perform inspections of motor carrier's vehicles in operation.
 
 (b) *Prescribed inspection report.* The “Driver/Vehicle Examination Report” shall be used to record findings from motor vehicles selected for final inspection by authorized Administration employees.
 
@@ -16,4 +16,4 @@
 
 (2) Motor carriers shall complete the “Motor Carrier Certification of Action Taken” on the “Driver/Vehicle Examination Report” in accordance with the terms prescribed thereon. Motor carriers shall return the “Driver/Vehicle Examination Reports” to the address indicated on the report within fifteen (15) days following the date of the vehicle inspection.
 
-[83 FR 22881, May 17, 2018]
+[83 FR 22881, May 17, 2018, as amended at 88 FR 80193, Nov. 17, 2023]

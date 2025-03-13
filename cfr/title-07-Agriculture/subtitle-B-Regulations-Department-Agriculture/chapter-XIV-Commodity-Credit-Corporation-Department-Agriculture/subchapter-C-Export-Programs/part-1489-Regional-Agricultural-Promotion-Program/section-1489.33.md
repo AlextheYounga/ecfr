@@ -1,0 +1,3 @@
+##### § 1489.33 Noncompliance with an agreement or this part. #####
+
+If a RAPP Participant fails to comply with any term in its program agreement or approval letter, or this part, the CCC may take one or more of the enforcement actions in 2 CFR part 200 and, if appropriate, initiate a claim against the RAPP Participant, following the procedures set forth in this part. The CCC may also initiate a claim against a RAPP Participant if program income or CCC-provided funds are lost due to an action or omission of the RAPP Participant.

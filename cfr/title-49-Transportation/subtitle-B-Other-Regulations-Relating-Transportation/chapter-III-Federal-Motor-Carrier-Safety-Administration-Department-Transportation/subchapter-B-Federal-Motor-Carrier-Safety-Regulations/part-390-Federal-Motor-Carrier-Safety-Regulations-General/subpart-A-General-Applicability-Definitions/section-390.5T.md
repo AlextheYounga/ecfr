@@ -121,7 +121,7 @@ either—
 
 *Employee* means any individual, other than an employer, who is employed by an employer and who in the course of his or her employment directly affects commercial motor vehicle safety. Such term includes a driver of a commercial motor vehicle (including an independent contractor while in the course of operating a commercial motor vehicle), a mechanic, and a freight handler. Such term does not include an employee of the United States, any State, any political subdivision of a State, or any agency established under a compact between States and approved by the Congress of the United States who is acting within the course of such employment.
 
-*Employer* means any person engaged in a business affecting interstate commerce who owns or leases a commercial motor vehicle in connection with that business, or assigns employees to operate it, but such terms does not include the United States, any State, any political subdivision of a State, or an agency established under a compact between States approved by the Congress of the United States.
+*Employer* means any person engaged in a business affecting interstate commerce who owns or leases a commercial motor vehicle in connection with that business, or assigns employees to operate it, but such term does not include the United States, any State, any political subdivision of a State, or an agency established under a compact between States approved by the Congress of the United States.
 
 *Exempt intracity zone* means the geographic area of a municipality or the commercial zone of that municipality described in appendix A to part 372 of this chapter. The term “exempt intracity zone” does not include any municipality or commercial zone in the State of Hawaii. For purposes of § 391.62 of this chapter, a driver may be considered to operate a commercial motor vehicle wholly within an exempt intracity zone notwithstanding any common control, management, or arrangement for a continuous carriage or shipment to or from a point without such zone.
 
@@ -207,7 +207,7 @@ either—
 
 *Medical variance* means a driver has received one of the following from FMCSA that allows the driver to be issued a medical certificate:
 
-(1) An exemption letter permitting operation of a commercial motor vehicle pursuant to part 381, subpart C, of this chapter or § 391.64 of this chapter;
+(1) An exemption letter permitting operation of a commercial motor vehicle pursuant to part 381, subpart C, of this chapter; or
 
 (2) A skill performance evaluation certificate permitting operation of a commercial motor vehicle pursuant to § 391.49 of this chapter.
 
@@ -265,7 +265,7 @@ either—
 
 *Single-employer driver* means a driver who, in any period of 7 consecutive days, is employed or used as a driver solely by a single motor carrier. This term includes a driver who operates a commercial motor vehicle on an intermittent, casual, or occasional basis.
 
-*Special agent.* See appendix B to this subchapter—Special agents.
+*Special agent.* See appendix B to this part.
 
 *State* means a State of the United States and the District of Columbia and includes a political subdivision of a State.
 
@@ -309,4 +309,4 @@ either—
 
 *Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
 
-[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018; 83 FR 26860, June 11, 2018; 83 FR 48726, Sept. 27, 2018; 84 FR 40294, Aug. 14, 2019; 86 FR 35642, July 7, 2021; 86 FR 57073, Oct. 14, 2021; 87 FR 13208, Mar. 9, 2022]
+[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018; 83 FR 26860, June 11, 2018; 83 FR 48726, Sept. 27, 2018; 84 FR 40294, Aug. 14, 2019; 86 FR 35642, July 7, 2021; 86 FR 57073, Oct. 14, 2021; 87 FR 13208, Mar. 9, 2022; 88 FR 80183, Nov. 17, 2023]

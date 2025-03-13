@@ -10,7 +10,7 @@
 
 (iii) Notice to the driver and motor carrier involved in the case that they may petition for review of the action;
 
-(iv) Notice that a hearing will be granted if the Assistant Administrator determines there are material factual issues in dispute;
+(iv) Notice that a hearing will be granted if the Agency Decisionmaker determines there are material factual issues in dispute;
 
 (v) Notice that failure to petition for review will constitute a waiver of the right to contest the action; and
 

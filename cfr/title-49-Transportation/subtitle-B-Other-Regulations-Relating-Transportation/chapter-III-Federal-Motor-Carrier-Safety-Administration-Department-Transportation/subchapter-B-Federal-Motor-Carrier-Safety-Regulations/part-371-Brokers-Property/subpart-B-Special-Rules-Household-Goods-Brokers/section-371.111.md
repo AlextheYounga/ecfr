@@ -2,7 +2,7 @@
 
 (a) You must provide potential individual shippers with Federal consumer protection information by one of the following three methods:
 
-(1) Provide a hyperlink on your Internet Web site to the FMCSA Web site containing the information in FMCSA's publications “Ready to Move?—Tips for a Successful Interstate Move” and “Your Rights and Responsibilities When You Move.”
+(1) Provide a hyperlink on your Internet website to the FMCSA website containing the information in FMCSA's publications “Ready to Move?—Tips for a Successful Interstate Move” and “Your Rights and Responsibilities When You Move.”
 
 (2) Distribute to each shipper and potential shipper at the time you provide an estimate, copies of FMCSA's publications “Ready to Move?—Tips for a Successful Interstate Move” and “Your Rights and Responsibilities When You Move.”
 
@@ -16,4 +16,4 @@
 
 (e) If you have a website, you are required to display prominently either a link to the Department of Transportation (DOT) publication titled “Ready to Move?—Tips for a Successful Interstate Move” (DOT publication FMCSA-ESA-03-005, or its successor publication) on the FMCSA website or a true and accurate copy of that document on your website.
 
-[75 FR 72996, Nov. 29, 2010, as amended at 83 FR 16224, Apr. 16, 2018; 87 FR 24446, Apr. 26, 2022]
+[75 FR 72996, Nov. 29, 2010, as amended at 83 FR 16224, Apr. 16, 2018; 87 FR 24446, Apr. 26, 2022; 88 FR 80179, Nov. 17, 2023]

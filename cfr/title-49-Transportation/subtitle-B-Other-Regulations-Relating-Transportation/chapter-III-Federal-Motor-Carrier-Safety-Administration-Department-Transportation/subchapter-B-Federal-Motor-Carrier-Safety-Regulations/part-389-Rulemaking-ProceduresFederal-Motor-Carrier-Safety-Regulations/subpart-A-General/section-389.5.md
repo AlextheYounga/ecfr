@@ -6,6 +6,6 @@
 
 (1) At headquarters at any time during regular business hours. Copies may be obtained upon payment of a fee.
 
-(2) On the Web site *regulations.gov,* at any time, by using the uniform resources locator (URL) *http://www.regulations.gov.* Copies may be downloaded or printed.
+(2) On the website *regulations.gov,* at any time, by using the uniform resources locator (URL) *https://www.regulations.gov.* Copies may be downloaded or printed.
 
-[72 FR 55702, Oct. 1, 2007]
+[72 FR 55702, Oct. 1, 2007, as amended at 88 FR 80183, Nov. 17, 2023]

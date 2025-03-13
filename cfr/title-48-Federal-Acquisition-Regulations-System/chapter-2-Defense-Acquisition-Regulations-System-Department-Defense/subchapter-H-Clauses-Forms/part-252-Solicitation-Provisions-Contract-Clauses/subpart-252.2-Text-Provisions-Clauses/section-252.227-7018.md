@@ -2,7 +2,7 @@
 
 As prescribed in 227.7104(a), use the following clause:
 
-Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program (MAR 2023)
+Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program (NOV 2023)
 
 (a) *Definitions.* As used in this clause—
 
@@ -186,17 +186,13 @@ Identification and Assertion of Restrictions on the Government's Use, Release, o
 
 The Contractor asserts for itself, or the persons identified below, that the Government's rights to use, release, or disclose the following technical data or computer software should be restricted:
 
-|Technical data or computer software to be furnished with restrictions<sup>1</sup>|Basis for assertion<sup>2</sup>|Asserted rights category<sup>3</sup>|Name of person asserting restrictions<sup>4</sup>|
-|---------------------------------------------------------------------------------|-------------------------------|------------------------------------|-------------------------------------------------|
-|                                     (LIST)                                      |            (LIST)             |               (LIST)               |                     (LIST)                      |
-
-<sup>1</sup> If the assertion is applicable to items, components, or processes developed at private expense, identify both the technical data and each such item, component, or process.
-
-<sup>2</sup> Generally, development at private expense, either exclusively or partially, is the only basis for asserting restrictions on the Government's rights to use, release, or disclose technical data or computer software. Indicate whether development was exclusively or partially at private expense. If development was not at private expense, enter the specific reason for asserting that the Government's rights should be restricted.
-
-<sup>3</sup> Enter asserted rights category (e.g., limited rights, restricted rights, government purpose rights, or government purpose license rights from a prior contract, SBIR data rights under another contract, or specifically negotiated licenses).
-
-<sup>4</sup> Corporation, individual, or other person, as appropriate.
+|                                                                                                                                                                                  Technical data or computer software to be furnished with restrictions <sup>1</sup>                                                                                                                                                                                  |Basis for assertion <sup>2</sup>|Asserted rights category <sup>3</sup>|Name of person asserting restrictions <sup>4</sup>|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------------------------------|--------------------------------------------------|
+|                                                                                                                                                                                                                        (LIST)                                                                                                                                                                                                                        |             (LIST)             |               (LIST)                |                      (LIST)                      |
+|                                                                                                                               <sup>1</sup> If the assertion is applicable to items, components, or processes developed at private expense, identify both the technical data and each such item, component, or process.                                                                                                                               |                                |                                     |                                                  |
+|<sup>2</sup> Generally, development at private expense, either exclusively or partially, is the only basis for asserting restrictions on the Government's rights to use, release, or disclose technical data or computer software. Indicate whether development was exclusively or partially at private expense. If development was not at private expense, enter the specific reason for asserting that the Government's rights should be restricted.|                                |                                     |                                                  |
+|                                                                                             <sup>3</sup> Enter asserted rights category (e.g., limited rights, restricted rights, government purpose rights, or government purpose license rights from a prior contract, SBIR data rights under another contract, or specifically negotiated licenses).                                                                                              |                                |                                     |                                                  |
+|                                                                                                                                                                                        <sup>4</sup> Corporation, individual, or other person, as appropriate.                                                                                                                                                                                        |                                |                                     |                                                  |
 
 DatePrinted Name and TitleSignature(End of identification and assertion)
 
@@ -238,7 +234,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (h) *Removal of unjustified and nonconforming markings*—(1) *Unjustified markings.* The rights and obligations of the parties regarding the validation of restrictive markings on technical data or computer software furnished or to be furnished under this contract are contained in the Validation of Restrictive Markings on Technical Data and the Validation of Asserted Restrictions—Computer Software clauses of this contract, respectively. Notwithstanding any provision of this contract concerning inspection and acceptance, the Government may ignore or, at the Contractor's expense, correct or strike a marking if, in accordance with the applicable procedures of those clauses, a restrictive marking is determined to be unjustified.
 
-(2) *Nonconforming markings.* A nonconforming marking is a marking placed on technical data or computer software delivered or otherwise furnished to the Government under this contract that is not in the format authorized by this contract. Correction of nonconforming markings is not subject to the Validation of Restrictive Markings on Technical Data or the Validation of Asserted Restrictions—Computer Software clause of this contract. If the Contracting Officer notifies the Contractor of a nonconforming marking or markings and the Contractor fails to remove or correct such markings within sixty (6)) days, the Government may ignore or, at the Contractor's expense, remove or correct any nonconforming markings.
+(2) *Nonconforming markings.* A nonconforming marking is a marking placed on technical data or computer software delivered or otherwise furnished to the Government under this contract that is not in the format authorized by this contract. Correction of nonconforming markings is not subject to the Validation of Restrictive Markings on Technical Data or the Validation of Asserted Restrictions—Computer Software clause of this contract. If the Contracting Officer notifies the Contractor of a nonconforming marking or markings and the Contractor fails to remove or correct such markings within sixty days, the Government may ignore or, at the Contractor's expense, remove or correct any nonconforming markings.
 
 (i) *Relation to patents.* Nothing contained in this clause shall imply a license to the Government under any patent or be construed as affecting the scope of any license or other right otherwise granted to the Government under any patent.
 
@@ -274,4 +270,4 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (3) This limitation on the Government's right to publish for sale shall continue as long as the technical data or computer software are reasonably available to the public for purchase.
 
-[60 FR 33499, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 76 FR 3538, Jan. 20, 2011; 76 FR 11369, Mar. 2, 2011; 78 FR 30239, May 22, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 76997, Dec. 16, 2022; 88 FR 6594, Jan. 31, 2023; 88 FR 17345, Mar. 22, 2023]
+[60 FR 33499, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 76 FR 3538, Jan. 20, 2011; 76 FR 11369, Mar. 2, 2011; 78 FR 30239, May 22, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 76997, Dec. 16, 2022; 88 FR 6594, Jan. 31, 2023; 88 FR 17345, Mar. 22, 2023; 88 FR 80467, Nov. 17, 2023]

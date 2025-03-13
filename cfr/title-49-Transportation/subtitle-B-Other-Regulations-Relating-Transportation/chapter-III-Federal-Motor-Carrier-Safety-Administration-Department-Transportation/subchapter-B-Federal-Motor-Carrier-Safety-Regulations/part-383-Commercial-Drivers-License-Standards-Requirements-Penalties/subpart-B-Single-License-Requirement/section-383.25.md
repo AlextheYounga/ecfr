@@ -2,7 +2,7 @@
 
 (a) A CLP is considered a valid CDL for purposes of behind-the-wheel training on public roads or highways, if all of the following minimum conditions are met:
 
-(1) The CLP holder is at all times accompanied by the holder of a valid CDL who has the proper CDL group and endorsement(s) necessary to operate the CMV. The CDL holder must at all times be physically present in the front seat of the vehicle next to the CLP holder or, in the case of a passenger vehicle, directly behind or in the first row behind the driver and must have the CLP holder under observation and direct supervision.
+(1) The CLP holder is at all times accompanied by the holder of a valid CDL who has the proper CDL group and endorsement(s) necessary to operate the CMV and is otherwise authorized to operate the CMV for that trip. The CDL holder must at all times be physically present in the front seat of the vehicle next to the CLP holder or, in the case of a passenger vehicle, directly behind or in the first row behind the driver and must have the CLP holder under observation and direct supervision.
 
 (2) The CLP holder holds a valid driver's license issued by the same jurisdiction that issued the CLP.
 
@@ -30,4 +30,4 @@
 
 (e) The CLP holder is not eligible to take the CDL skills test in the first 14 days after initial issuance of the CLP.
 
-[76 FR 26879, May 9, 2011, as amended at 83 FR 65571, Dec. 21, 2018; 84 FR 51432, Sept. 30, 2019]
+[76 FR 26879, May 9, 2011, as amended at 83 FR 65571, Dec. 21, 2018; 84 FR 51432, Sept. 30, 2019; 88 FR 80181, Nov. 17, 2023]

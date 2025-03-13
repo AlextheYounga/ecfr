@@ -12,9 +12,7 @@
 
 *Agency Counsel* means the attorney who prosecutes a civil penalty matter on behalf of the Field Administrator.
 
-*Agency decisionmaker* means the FMCSA official authorized to issue a final decision and order of the Agency in an administrative proceeding under this part. The Agency decisionmaker is the Assistant Administrator or any person to whom this decisionmaking authority has been delegated.
-
-*Assistant Administrator* means the Assistant Administrator of the Federal Motor Carrier Safety Administration or an authorized delegee. The Assistant Administrator is the Agency decisionmaker who issues final decisions under this part.
+*Agency Decisionmaker* means the FMCSA official authorized to issue a final decision and order of the Agency in an administrative proceeding under this part. The Agency Decisionmaker is an FMCSA official appointed by the President or otherwise duly authorized.
 
 *Broker* means a person who, for compensation, arranges or offers to arrange the transportation of property by an authorized motor carrier. A motor carrier, or person who is an employee or bona fide agent of a carrier, is not a broker within the meaning of this section when it arranges or offers to arrange the transportation of shipments which it is authorized to transport and which it has accepted and legally bound itself to transport.
 
@@ -30,7 +28,7 @@
 
 *Department* means the U.S. Department of Transportation.
 
-*Docket Operations* means the U.S. Department of Transportation's docket management system, which is the central repository for original copies of all documents filed before the agency decisionmaker.
+*Docket Operations* means the U.S. Department of Transportation's docket management system, which is the central repository for original copies of all documents filed before the Agency Decisionmaker.
 
 *Driver qualification proceeding* means a proceeding commenced under 49 CFR 391.47 or by issuance of a letter of disqualification.
 
@@ -38,7 +36,7 @@
 
 *Field Administrator* means the head of an FMCSA Service Center who has been delegated authority to initiate compliance and enforcement actions on behalf of FMCSA or an authorized delegee.
 
-*Final Agency Order* means the final action by FMCSA issued pursuant to this part by the appropriate Field Administrator (for default judgments under § 386.14) or the Assistant Administrator, or settlement agreements which become the Final Agency Order pursuant to 386.22, or decisions of the Administrative Law Judge, which become the Final Agency Order pursuant to 386.61 or binding arbitration awards. A person who fails to perform the actions directed in the Final Agency Order commits a violation of that order and is subject to an additional penalty as prescribed in subpart G of this part.
+*Final Agency Order* means the final action by FMCSA issued pursuant to this part by the Agency Decisionmaker or settlement agreements which become the Final Agency Order pursuant to § 386.22, or decisions of the Administrative Law Judge, which become the Final Agency Order pursuant to § 386.61 or binding arbitration awards. A person who fails to perform the actions directed in the Final Agency Order commits a violation of that order and is subject to an additional penalty as prescribed in subpart G of this part.
 
 *FMCSRs* means the Federal Motor Carrier Safety Regulations.
 
@@ -56,7 +54,7 @@
 
 *HMRs* means Hazardous Materials Regulations.
 
-*Informal hearing* means a hearing in which the parties have the opportunity to present relevant evidence to a neutral Hearing Officer, who will prepare findings of fact and recommendations for the Agency decisionmaker. The informal hearing will not be on the transcribed record and discovery will not be allowed. Parties will have the opportunity to discuss their case and present testimony and evidence before the Hearing Officer without the formality of a formal hearing.
+*Informal hearing* means a hearing in which the parties have the opportunity to present relevant evidence to a neutral Hearing Officer, who will prepare findings of fact and recommendations for the Agency Decisionmaker. The informal hearing will not be on the transcribed record and discovery will not be allowed. Parties will have the opportunity to discuss their case and present testimony and evidence before the Hearing Officer without the formality of a formal hearing.
 
 *Mail* means U.S. first class mail, U.S. registered or certified mail, or use of a commercial delivery service.
 
@@ -76,6 +74,6 @@
 
 *Secretary* means the Secretary of Transportation.
 
-*Submission of written evidence without hearing* means the submission of written evidence and legal argument to the Agency decisionmaker, or his/her representative, in lieu of a formal or informal hearing.
+*Submission of written evidence without hearing* means the submission of written evidence and legal argument to the Agency Decisionmaker, or his/her representative, in lieu of a formal or informal hearing.
 
-[50 FR 40306, Oct. 2, 1985, as amended at 53 FR 2036, Jan. 26, 1988; 56 FR 10182, Mar. 11, 1991; 65 FR 7755, Feb. 16, 2000; 65 FR 78427, Dec. 15, 2000; 67 FR 61821, Oct. 2, 2002; 70 FR 28748, May 18, 2005; 72 FR 55701, Oct. 1, 2007; 78 FR 58481, Sept. 24, 2013; 86 FR 57071, Oct. 14, 2021]
+[50 FR 40306, Oct. 2, 1985, as amended at 53 FR 2036, Jan. 26, 1988; 56 FR 10182, Mar. 11, 1991; 65 FR 7755, Feb. 16, 2000; 65 FR 78427, Dec. 15, 2000; 67 FR 61821, Oct. 2, 2002; 70 FR 28748, May 18, 2005; 72 FR 55701, Oct. 1, 2007; 78 FR 58481, Sept. 24, 2013; 86 FR 57071, Oct. 14, 2021; 88 FR 80182, Nov. 17, 2023]

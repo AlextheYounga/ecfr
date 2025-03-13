@@ -57,8 +57,10 @@
 
 (ii) Notification of a transfer of operating authority does not relieve a registered entity from the requirement to file an updated Form MCSA-1, the URS online application, every 24 months in accordance with paragraph (d)(3) of this section.
 
-(e) *Availability of form.* Form MCSA-1, the URS online application is available, including complete instructions, from the FMCSA Web site at *http://www.fmcsa.dot.gov/urs.*
+(e) *Availability of form.* Form MCSA-1, the URS online application is available, including complete instructions, from the FMCSA website at *https://www.fmcsa.dot.gov/urs.*
 
-(f) *Where to file.* Persons subject to the registration requirements under this subpart must electronically file Form MCSA-1, the URS online application, on the FMCSA Web site at *http://www.fmcsa.dot.gov/urs.*
+(f) *Where to file.* Persons subject to the registration requirements under this subpart must electronically file Form MCSA-1, the URS online application, on the FMCSA website at *https://www.fmcsa.dot.gov/urs.*
 
 (g) *Exception.* The rules in this subpart do not govern the application by a Mexico-domiciled motor carrier to provide transportation of property or passengers in interstate commerce between Mexico and points in the United States beyond the municipalities and commercial zones along the United States-Mexico international border. The applicable procedures governing transportation by Mexico-domiciled motor carriers are provided in § 390.19.
+
+[80 FR 63712, Oct. 21, 2015, as amended at 88 FR 80184, Nov. 17, 2023]Effective Date Note:At 88 FR 80184, Nov. 17, 2023, § 390.201 was suspended indefinitely, effective Nov. 17, 2023.

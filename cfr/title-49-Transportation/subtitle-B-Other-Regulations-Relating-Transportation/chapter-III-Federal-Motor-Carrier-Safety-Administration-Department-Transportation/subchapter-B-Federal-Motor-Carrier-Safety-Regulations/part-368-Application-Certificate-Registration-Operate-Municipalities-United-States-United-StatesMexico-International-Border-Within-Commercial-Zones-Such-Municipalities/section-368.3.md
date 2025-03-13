@@ -20,6 +20,6 @@
 
 (e) [Reserved]
 
-(f) Form MCSA-1 is the URS online application and is available, including complete instructions, from the FMCSA Web site at *http://www.fmcsa.dot.gov/urs*.
+(f) Form MCSA-1 is the URS online application and is available, including complete instructions, from the FMCSA website at *https://www.fmcsa.dot.gov/urs*.
 
-[67 FR 12660, Mar. 19, 2002, as amended by 78 FR 52648, Aug. 23, 2013; 80 FR 63706, Oct. 21, 2015]Effective Date Note:At 82 FR 5297, Jan. 17, 2017, § 368.3 was suspended, effective Jan. 14, 2017.
+[67 FR 12660, Mar. 19, 2002, as amended by 78 FR 52648, Aug. 23, 2013; 80 FR 63706, Oct. 21, 2015; 88 FR 80179, Nov. 17, 2023]Effective Date Note:At 82 FR 5297, Jan. 17, 2017, § 368.3 was suspended, effective Jan. 14, 2017. At 88 FR 80179, Nov. 17, 2023, the suspension was lifted, § 368.3 was amended, and the section was again suspended indefinitely.

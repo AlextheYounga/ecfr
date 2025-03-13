@@ -2,7 +2,7 @@
 
 Terms used in this part are defined as follows. You may find other terms used in these regulations defined in 49 U.S.C. 13102. The definitions contained in this statute control. If terms are used in this part and the terms are neither defined here nor in 49 U.S.C. 13102, the terms will have the ordinary practical meaning of such terms.
 
-*Advertisement* means any communication to the public in connection with an offer or sale of any interstate household goods transportation service. This includes written or electronic database listings of your name, address, and telephone number in an on-line database or displayed on an Internet web site. This excludes listings of your name, address, and telephone number in a telephone directory or similar publication. However, Yellow Pages advertising is included in the definition.
+*Advertisement* means any communication to the public in connection with an offer or sale of any interstate household goods transportation service. This includes written or electronic database listings of your name, address, and telephone number in an on-line database or displayed on an Internet website. This excludes listings of your name, address, and telephone number in a telephone directory or similar publication. However, Yellow Pages advertising is included in the definition.
 
 *Bill of lading* means both the receipt and the contract for the transportation of the individual shipper's household goods.
 
@@ -66,10 +66,10 @@ Terms used in this part are defined as follows. You may find other terms used in
 
 *Surface Transportation Board* means an independent agency of the United States that regulates household goods carrier tariffs, among other economic regulatory responsibilities.
 
-*Tariff* means an issuance (in whole or in part) containing rates, rules, regulations, classifications or other provisions related to a motor carrier's transportation services. The Surface Transportation Board requires a tariff contain specific items under § 1312.3(a) of this title. These specific items include an accurate description of the services offered to the public and the specific applicable rates (or the basis for calculating the specific applicable rates) and service terms. A tariff must be arranged in a way that allows for the determination of the exact rate(s) and service terms applicable to any given shipment.
+*Tariff* means an issuance (in whole or in part) containing rates, rules, regulations, classifications or other provisions related to a motor carrier's transportation services. The Surface Transportation Board requires a tariff contain specific items under § 1310.3(a) of this title. These specific items include an accurate description of the services offered to the public and the specific applicable rates (or the basis for calculating the specific applicable rates) and service terms. A tariff must be arranged in a way that allows for the determination of the exact rate(s) and service terms applicable to any given shipment.
 
 *We, us,* and *our* means the Federal Motor Carrier Safety Administration (FMCSA).
 
 *You* and *your* means a household goods motor carrier engaged in the interstate transportation of household goods and its household goods agents.
 
-[68 FR 35091, June 11, 2003, as amended at 72 FR 36771, July 5, 2007; 77 FR 36934, June 20, 2012; 77 FR 59823, Oct. 1, 2012; 87 FR 24446, Apr. 26, 2022]
+[68 FR 35091, June 11, 2003, as amended at 72 FR 36771, July 5, 2007; 77 FR 36934, June 20, 2012; 77 FR 59823, Oct. 1, 2012; 87 FR 24446, Apr. 26, 2022; 88 FR 80179, Nov. 17, 2023]
