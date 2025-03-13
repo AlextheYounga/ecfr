@@ -78,7 +78,7 @@
 
 *Nonprofit* means a nonprofit organization that is exempt from Federal income taxation and that is described in section 501(c)(3) or 501(c)(19) of the Internal Revenue Code.
 
-*Obligation* means an order placed for property and services and entering into contracts, subawards, and similar transactions that require payment.
+*Obligation* means an order placed for property and services and entering into contracts, subawards, and similar transactions that require payment. An obligation also means a requirement under federal law or regulation or provision of the award terms and conditions to which a recipient becomes subject as a result of receiving or expending funds.
 
 *Operating expenses* means costs necessary to operate and manage a public transportation system, including driver salaries, fuel, and items having a useful life of less than one year. Operating expenses do not include preventive maintenance activities.
 
@@ -185,3 +185,5 @@
 *Unemployment trust fund* means an unemployment trust fund established under section 904 of the Social Security Act (42 U.S.C. 1104).
 
 *Unit of general local government* has the meaning given to that term in section 102(a)(1) of the Housing and Community Development Act of 1974 (42 U.S.C. 5302(a)(1)).
+
+[88 FR 65026, Sept. 20, 2023, as amended at 88 FR 80589, Nov. 20, 2023]

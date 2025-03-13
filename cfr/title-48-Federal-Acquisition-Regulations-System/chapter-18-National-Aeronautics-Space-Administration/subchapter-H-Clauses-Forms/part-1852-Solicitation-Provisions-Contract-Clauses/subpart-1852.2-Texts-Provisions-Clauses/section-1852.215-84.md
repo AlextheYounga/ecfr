@@ -1,5 +1,7 @@
 ##### 1852.215-84 Ombudsman. #####
 
+Link to an amendment published at 88 FR 80639, Nov. 20, 2023.
+
 As prescribed in 1815.7003, insert the following clause:
 
 Ombudsman (NOV 2011)

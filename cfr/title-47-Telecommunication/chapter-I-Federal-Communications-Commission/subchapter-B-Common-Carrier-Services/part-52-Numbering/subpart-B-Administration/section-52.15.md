@@ -1,5 +1,7 @@
 ##### § 52.15 Central office code administration. #####
 
+Link to an amendment published at 88 FR 80636, Nov. 20, 2023.Link to an amendment published at 88 FR 80637, Nov. 20, 2023.
+
 (a) Central Office Code Administration shall be performed by the NANPA, or another entity or entities, as designated by the Commission.
 
 (b) Duties of the entity or entities performing central office code administration may include, but are not limited to:
