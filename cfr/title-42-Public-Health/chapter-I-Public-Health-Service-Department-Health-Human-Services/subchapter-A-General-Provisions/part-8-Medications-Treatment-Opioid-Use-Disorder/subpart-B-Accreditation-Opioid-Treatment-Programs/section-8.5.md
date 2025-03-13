@@ -1,0 +1,3 @@
+##### § 8.5 Periodic evaluation of Accreditation Bodies. #####
+
+The Secretary will periodically evaluate the performance of Accreditation Bodies primarily by inspecting a selected sample of the OTPs accredited by the Accrediting Body, and by evaluating the Accreditation Body's reports of surveys conducted, to determine whether the OTPs surveyed and accredited by the Accreditation Body are in compliance with applicable standards under this part. The evaluation will include a determination of whether there are major deficiencies in the Accreditation Body's performance that, if not corrected, would warrant withdrawal of the approval of the Accreditation Body under § 8.6.

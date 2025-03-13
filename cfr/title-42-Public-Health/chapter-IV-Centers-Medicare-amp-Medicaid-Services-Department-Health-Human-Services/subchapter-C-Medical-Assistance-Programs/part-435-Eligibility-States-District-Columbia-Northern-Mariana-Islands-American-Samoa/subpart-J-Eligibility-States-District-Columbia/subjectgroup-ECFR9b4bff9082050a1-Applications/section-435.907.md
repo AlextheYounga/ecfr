@@ -1,5 +1,7 @@
 ##### § 435.907 Application. #####
 
+Link to an amendment published at 89 FR 22867, Apr. 2, 2024.
+
 (a) *Basis and implementation.* In accordance with section 1413(b)(1)(A) of the Affordable Care Act, the agency must accept an application from the applicant, an adult who is in the applicant's household, as defined in § 435.603(f), or family, as defined in section 36B(d)(1) of the Code, an authorized representative, or if the applicant is a minor or incapacitated, someone acting responsibly for the applicant, and any documentation required to establish eligibility—
 
 (1) Via the internet Web site described in § 435.1200(f) of this part;

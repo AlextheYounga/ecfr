@@ -1,0 +1,9 @@
+##### § 8.33 Written decision. #####
+
+(a) *Issuance of decision.* The reviewing official shall issue a written decision upholding or denying the suspension, proposed revocation, or adverse action. The decision will set forth the reasons for the decision and describe the basis for that decision in the record. Furthermore, the reviewing official may remand the matter to the respondent for such further action as the reviewing official deems appropriate.
+
+(b) *Date of decision.* The reviewing official will attempt to issue the decision within 15 days of the date of the oral presentation, the date on which the transcript is received, or the date of the last submission by either party, whichever is later. If there is no oral presentation, the decision will normally be issued within 15 days of the date of receipt of the last reply brief. Once issued, the reviewing official will immediately communicate the decision to each party.
+
+(c) *Public notice and communications to the Drug Enforcement Administration (DEA).* (1) If the suspension and proposed revocation of OTP certification are upheld, the revocation of certification will become effective immediately and the public will be notified by publication of a notice in the Federal Register. The Secretary will notify DEA within 5 days that the OTP's registration should be revoked.
+
+(2) If the suspension and proposed revocation of OTP certification are denied, the revocation will not take effect and the suspension will be lifted immediately. Public notice will be given by publication in the Federal Register. The Secretary will notify DEA within 5 days that the OTP's registration should be restored, if applicable.

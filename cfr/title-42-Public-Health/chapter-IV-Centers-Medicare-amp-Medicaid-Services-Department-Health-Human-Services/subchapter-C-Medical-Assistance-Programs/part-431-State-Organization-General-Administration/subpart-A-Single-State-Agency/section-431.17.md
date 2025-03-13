@@ -1,5 +1,7 @@
 ##### § 431.17 Maintenance of records. #####
 
+Link to an amendment published at 89 FR 22865, Apr. 2, 2024.
+
 (a) *Basis and purpose.* This section, based on section 1902(a)(4) of the Act, prescribes the kinds of records a Medicaid agency must maintain, the retention period, and the conditions under which microfilm copies may be substituted for original records.
 
 (b) *Content of records.* A State plan must provide that the Medicaid agency will maintain or supervise the maintenance of the records necessary for the proper and efficient operation of the plan. The records must include—

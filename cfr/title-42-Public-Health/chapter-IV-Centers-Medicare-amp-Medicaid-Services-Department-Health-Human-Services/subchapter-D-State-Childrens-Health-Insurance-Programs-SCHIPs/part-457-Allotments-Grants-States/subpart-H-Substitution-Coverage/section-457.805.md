@@ -1,5 +1,7 @@
 ##### § 457.805 State plan requirement: Procedures to address substitution under group health plans. #####
 
+Link to an amendment published at 89 FR 22877, Apr. 2, 2024.
+
 (a) *State plan requirements.* The state plan must include a description of reasonable procedures to ensure that health benefits coverage provided under the State plan does not substitute for coverage provided under group health plans as defined at § 457.10.
 
 (b) *Limitations.* (1) A state may not, under this section, impose a period of uninsurance which exceeds 90 days from the date a child otherwise eligible for CHIP is disenrolled from coverage under a group health plan.

@@ -1,0 +1,5 @@
+##### § 8.25 Informal review and the reviewing official's response. #####
+
+(a) *Request for review.* Within 30 days of the date of the notice of the suspension or proposed revocation, the appellant must submit a written request to the reviewing official seeking review, unless some other time period is agreed to by the parties. A copy must also be sent to the respondent. The request for review must include a copy of the notice of suspension, proposed revocation, or adverse action, a brief statement of why the decision to suspend, propose revocation, or take an adverse action is incorrect, and the appellant's request for an oral presentation, if desired.
+
+(b) *Acknowledgment.* Within 5 days after receiving the request for review, the reviewing official will send an acknowledgment and advise the appellant of the next steps. The reviewing official will also send a copy of the acknowledgment to the respondent.

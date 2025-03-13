@@ -1,5 +1,7 @@
 ##### § 457.810 Premium assistance programs: Required protections against substitution. #####
 
+Link to an amendment published at 89 FR 22877, Apr. 2, 2024.
+
 A State that operates a premium assistance program, as defined at § 457.10, must provide the protections against substitution of CHIP coverage for coverage under group health plans specified in this section. The State must describe these protections in the State plan; and report on results of monitoring of substitution in its annual reports.
 
 (a) *Period without coverage under a group health plan.* For health benefits coverage provided through premium assistance for group health plans, the following rules apply:

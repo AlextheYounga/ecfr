@@ -1,5 +1,7 @@
 ##### § 235.12 Global Entry program. #####
 
+Link to an amendment published at 89 FR 22628, Apr. 2, 2024.
+
 (a) *Program description.* The Global Entry program is a voluntary international trusted traveler program consisting of an integrated passenger processing system that expedites the movement of low-risk air travelers into the United States by providing an alternate inspection process for pre-approved, pre-screened travelers. In order to participate, a person must meet the eligibility requirements specified in this section, apply in advance, undergo pre-screening by CBP, and be accepted into the program. The Global Entry program allows participants expedited entry into the United States at selected airports identified by CBP at *www.globalentry.gov.* Participants will be processed through the use of CBP-approved technology that will include the use of biometrics to validate identity and to perform enforcement queries.
 
 (b) *Program eligibility criteria*—(1) *Eligible individuals.* The following individuals, who hold a valid, machine-readable passport, a valid, machine-readable U.S. Lawful Permanent Resident Card (Form I-551), or other appropriate travel document as determined by CBP, may apply to participate in Global Entry:

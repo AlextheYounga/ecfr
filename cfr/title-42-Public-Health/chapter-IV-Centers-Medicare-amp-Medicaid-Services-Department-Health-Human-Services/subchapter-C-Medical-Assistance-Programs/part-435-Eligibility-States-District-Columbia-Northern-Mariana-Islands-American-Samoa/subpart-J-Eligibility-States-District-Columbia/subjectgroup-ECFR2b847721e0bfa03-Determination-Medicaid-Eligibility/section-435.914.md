@@ -1,5 +1,7 @@
 ##### § 435.914 Case documentation. #####
 
+Link to an amendment published at 89 FR 22869, Apr. 2, 2024.
+
 (a) The agency must include in each applicant's case record facts to support the agency's decision on his application.
 
 (b) The agency must dispose of each application by a finding of eligibility or ineligibility, unless—

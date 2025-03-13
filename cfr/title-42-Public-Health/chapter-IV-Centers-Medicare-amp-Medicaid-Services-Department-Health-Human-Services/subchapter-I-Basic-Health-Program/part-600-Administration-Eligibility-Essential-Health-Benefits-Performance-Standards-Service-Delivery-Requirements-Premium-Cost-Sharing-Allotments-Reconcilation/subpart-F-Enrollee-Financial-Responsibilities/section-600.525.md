@@ -1,5 +1,7 @@
 ##### § 600.525 Disenrollment procedures and consequences for nonpayment of premiums. #####
 
+Link to an amendment published at 89 FR 22878, Apr. 2, 2024.
+
 (a) *Disenrollment procedures due to nonpayment of premium.* (1) A State must assure that it is in compliance with the disenrollment procedures described in 45 CFR 155.430. This assurance must be reflected in the state's BHP Blueprint.
 
 (2) A State electing to enroll eligible individuals in accordance with 45 CFR 155.410 and 155.420 must comply with the premium grace period standards set forth in 45 CFR 156.270 for required premium payment prior to disenrollment.

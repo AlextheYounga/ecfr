@@ -1,5 +1,7 @@
 ##### § 431.10 Single State agency. #####
 
+Link to an amendment published at 89 FR 22865, Apr. 2, 2024.
+
 (a) *Basis, purpose, and definitions.* (1) This section implements section 1902(a)(4) and (5) of the Act.
 
 (2) For purposes of this part—

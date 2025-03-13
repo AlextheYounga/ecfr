@@ -1,5 +1,7 @@
 ##### § 457.350 Eligibility screening and enrollment in other insurance affordability programs. #####
 
+Link to an amendment published at 89 FR 22875, Apr. 2, 2024.
+
 (a) *State plan requirement.* The State plan shall include a description of the coordinated eligibility and enrollment procedures used, at an initial and any follow-up eligibility determination, including any periodic redetermination, to ensure that:
 
 (1) Only targeted low-income children are furnished CHIP coverage under the plan; and

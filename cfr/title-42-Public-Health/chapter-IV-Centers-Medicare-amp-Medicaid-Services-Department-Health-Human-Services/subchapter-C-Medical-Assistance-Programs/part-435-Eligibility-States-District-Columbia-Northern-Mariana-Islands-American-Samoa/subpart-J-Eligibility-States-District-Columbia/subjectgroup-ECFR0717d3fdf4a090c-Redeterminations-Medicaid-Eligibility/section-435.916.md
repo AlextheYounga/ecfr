@@ -1,5 +1,7 @@
 ##### § 435.916 Periodic renewal of Medicaid eligibility. #####
 
+Link to an amendment published at 89 FR 22869, Apr. 2, 2024.
+
 (a) *Renewal of individuals whose Medicaid eligibility is based on modified adjusted gross income methods (MAGI).* (1) Except as provided in paragraph (d) of this section, the eligibility of Medicaid beneficiaries whose financial eligibility is determined using MAGI-based income must be renewed once every 12 months, and no more frequently than once every 12 months.
 
 (2) Renewal on basis of information available to agency. The agency must make a redetermination of eligibility without requiring information from the individual if able to do so based on reliable information contained in the individual's account or other more current information available to the agency, including but not limited to information accessed through any data bases accessed by the agency under §§ 435.948, 435.949 and 435.956 of this part. If the agency is able to renew eligibility based on such information, the agency must, consistent with the requirements of this subpart and subpart E of part 431 of this chapter, notify the individual—

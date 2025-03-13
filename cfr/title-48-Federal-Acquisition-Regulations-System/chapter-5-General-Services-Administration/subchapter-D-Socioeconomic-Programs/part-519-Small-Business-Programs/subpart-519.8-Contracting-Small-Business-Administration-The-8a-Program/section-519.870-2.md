@@ -1,5 +1,7 @@
 ##### 519.870-2 Contract clauses. #####
 
+Link to an amendment published at 89 FR 22639, Apr. 2, 2024.
+
 (a) Insert the following clauses in solicitations, contracts, and orders issued under GSA's Partnership Agreement:
 
 (1) 552.219-74, Section 8(a) Direct Award;

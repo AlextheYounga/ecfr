@@ -66,18 +66,4 @@
 
 (2) An Enterprise must assign a zero percent risk weight to an asset that is held in a non-guaranteed separate account.
 
-*Government subsidy* means that the property satisfies both of the following criteria:
-
-(i) At least 20 percent of the property's units are restricted to be affordable units per a regulatory agreement, recorded use restriction, a housing-assistance payments contract, or other restrictions codified in loan agreements; and
-
-(ii) The property benefits from one of the following government programs:
-
-(A) Low Income Housing Tax Credits (LIHTC);
-
-(B) Section 8 project-based rental assistance;
-
-(C) Section 515 Rural Rental Housing Loans; or
-
-(D) State/Local affordable housing programs that require the provision of affordable housing for the life of the loan.
-
-[88 FR 82198, Dec. 17, 2020, as amended at 88 FR 83476, Nov. 30, 2023]
+[85 FR 82198, Dec. 17, 2020, as amended at 88 FR 83476, Nov. 30, 2023]

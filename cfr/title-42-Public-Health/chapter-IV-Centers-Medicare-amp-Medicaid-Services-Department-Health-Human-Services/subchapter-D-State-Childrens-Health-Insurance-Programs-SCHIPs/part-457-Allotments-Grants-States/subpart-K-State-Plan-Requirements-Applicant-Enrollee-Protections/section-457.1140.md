@@ -1,5 +1,7 @@
 ##### § 457.1140 Program specific review process: Core elements of review. #####
 
+Link to an amendment published at 89 FR 22877, Apr. 2, 2024.
+
 In adopting the procedures for review of matters described in § 457.1130, a State must ensure that—
 
 (a) Reviews are conducted by an impartial person or entity in accordance with § 457.1150;

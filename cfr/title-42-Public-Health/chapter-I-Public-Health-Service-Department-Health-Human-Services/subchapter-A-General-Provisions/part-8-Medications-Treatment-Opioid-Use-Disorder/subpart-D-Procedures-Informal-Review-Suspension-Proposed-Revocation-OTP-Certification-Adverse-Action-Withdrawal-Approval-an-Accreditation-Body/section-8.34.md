@@ -1,0 +1,3 @@
+##### § 8.34 Court review of final administrative action; exhaustion of administrative remedies. #####
+
+Before any legal action is filed in court challenging the suspension, proposed revocation, or adverse action, respondent shall exhaust administrative remedies provided under this subpart, unless otherwise provided by Federal law. The reviewing official's decision, under § 8.28(e) or § 8.33(a), constitutes final agency action as of the date of the decision.

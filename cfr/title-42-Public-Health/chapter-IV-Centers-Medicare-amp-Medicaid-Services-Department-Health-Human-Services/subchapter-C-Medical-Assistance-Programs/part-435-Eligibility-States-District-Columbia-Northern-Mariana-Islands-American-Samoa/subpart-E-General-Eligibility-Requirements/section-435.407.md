@@ -1,5 +1,7 @@
 ##### § 435.407 Types of acceptable documentary evidence of citizenship. #####
 
+Link to an amendment published at 89 FR 22866, Apr. 2, 2024.
+
 (a) *Stand-alone evidence of citizenship.* The following must be accepted as sufficient documentary evidence of citizenship:
 
 (1) A U.S. passport, including a U.S. Passport Card issued by the Department of State, without regard to any expiration date as long as such passport or Card was issued without limitation.

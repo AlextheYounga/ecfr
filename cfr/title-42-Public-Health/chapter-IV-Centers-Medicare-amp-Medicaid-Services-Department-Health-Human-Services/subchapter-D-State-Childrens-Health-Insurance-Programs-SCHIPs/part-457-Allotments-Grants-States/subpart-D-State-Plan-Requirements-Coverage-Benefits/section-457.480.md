@@ -1,5 +1,7 @@
 ##### § 457.480 Preexisting condition exclusions and relation to other laws. #####
 
+Link to an amendment published at 89 FR 22876, Apr. 2, 2024.
+
 (a) *Preexisting condition exclusions.* (1) Except as permitted under paragraph (a)(2) of this section, the State may not permit the imposition of any pre-existing condition exclusion for covered services under the State plan.
 
 (2) If the State obtains health benefits coverage through payment or a contract for health benefits coverage under a group health plan or group health insurance coverage, the State may permit the imposition of a pre-existing condition exclusion but only to the extent that the exclusion is permitted under the applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (ERISA) and title XXVII of the Public Health Service Act.

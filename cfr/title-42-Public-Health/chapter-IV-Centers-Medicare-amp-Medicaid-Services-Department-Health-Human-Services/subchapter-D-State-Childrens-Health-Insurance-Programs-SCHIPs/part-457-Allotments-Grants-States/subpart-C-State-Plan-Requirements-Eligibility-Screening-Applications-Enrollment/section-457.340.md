@@ -1,5 +1,7 @@
 ##### § 457.340 Application for and enrollment in CHIP. #####
 
+Link to an amendment published at 89 FR 22873, Apr. 2, 2024.
+
 (a) *Application and renewal assistance, availability of program information, and Web site.* The terms of §§ 435.905, 435.906, 435.908, and 435.1200(f) of this chapter apply equally to the State in administering a separate CHIP.
 
 (b) *Use of Social Security number.* The terms of §§ 435.910 and 435.907(e) of this chapter regarding the provision and use of Social Security Numbers and non-applicant information apply equally to the State in administering a separate CHIP.

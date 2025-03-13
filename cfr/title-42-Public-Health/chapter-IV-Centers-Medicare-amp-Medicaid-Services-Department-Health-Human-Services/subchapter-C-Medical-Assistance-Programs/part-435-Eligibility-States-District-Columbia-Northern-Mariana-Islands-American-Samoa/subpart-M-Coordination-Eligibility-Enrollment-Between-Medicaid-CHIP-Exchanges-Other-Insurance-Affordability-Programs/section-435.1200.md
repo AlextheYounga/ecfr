@@ -1,5 +1,7 @@
 ##### § 435.1200 Medicaid agency responsibilities for a coordinated eligibility and enrollment process with other insurance affordability programs. #####
 
+Link to an amendment published at 89 FR 22871, Apr. 2, 2024.
+
 (a) *Statutory basis, purpose, and definitions.*
 
 (1) *Statutory basis and purpose.* This section implements section 1943(b)(3) of the Act as added by section 2201 of the Affordable Care Act to ensure coordinated eligibility and enrollment among insurance affordability programs.

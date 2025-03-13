@@ -1,0 +1,5 @@
+##### § 8.30 Transmission of written communications by reviewing official and calculation of deadlines. #####
+
+(a) *Timely review.* Because of the importance of a timely review, the reviewing official should normally transmit written communications to either party by facsimile transmission, personal service, or commercial overnight delivery service, or certified mail, return receipt requested, in which case the date of transmission or day following mailing will be considered the date of receipt. In the case of communications sent by regular mail, the date of receipt will be considered 3 days after the date of mailing.
+
+(b) *Due date.* In counting days, include Saturdays, Sundays, and holidays. However, if a due date falls on a Saturday, Sunday, or Federal holiday, then the due date is the next Federal working day.

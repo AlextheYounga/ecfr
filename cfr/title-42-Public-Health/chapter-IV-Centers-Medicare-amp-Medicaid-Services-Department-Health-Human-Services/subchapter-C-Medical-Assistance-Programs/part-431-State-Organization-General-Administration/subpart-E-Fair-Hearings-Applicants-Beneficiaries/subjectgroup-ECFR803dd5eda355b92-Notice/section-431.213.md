@@ -1,5 +1,7 @@
 ##### § 431.213 Exceptions from advance notice. #####
 
+Link to an amendment published at 89 FR 22866, Apr. 2, 2024.
+
 The agency may send a notice not later than the date of action if—
 
 (a) The agency has factual information confirming the death of a beneficiary;

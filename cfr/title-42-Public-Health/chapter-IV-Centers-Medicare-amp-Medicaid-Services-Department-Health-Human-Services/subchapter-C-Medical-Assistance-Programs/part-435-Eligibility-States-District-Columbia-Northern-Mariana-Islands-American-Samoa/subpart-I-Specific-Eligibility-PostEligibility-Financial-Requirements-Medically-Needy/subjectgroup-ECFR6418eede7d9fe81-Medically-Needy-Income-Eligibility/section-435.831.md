@@ -1,5 +1,7 @@
 ##### § 435.831 Income eligibility. #####
 
+Link to an amendment published at 89 FR 22867, Apr. 2, 2024.
+
 The agency must determine income eligibility of medically needy individuals in accordance with this section.
 
 (a) *Budget periods.* (1) The agency must use budget periods of not more than 6 months to compute income. The agency may use more than one budget period.

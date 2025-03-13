@@ -1,5 +1,7 @@
 ##### § 435.956 Verification of other non-financial information. #####
 
+Link to an amendment published at 89 FR 22871, Apr. 2, 2024.
+
 (a) *Citizenship and immigration status.* (1)(i) The agency must—
 
 (A) Verify citizenship status through the electronic service established in accordance with § 435.949 or alternative mechanism authorized in accordance with § 435.945(k), if available; and

@@ -1,5 +1,7 @@
 ##### § 457.570 Disenrollment protections. #####
 
+Link to an amendment published at 89 FR 22876, Apr. 2, 2024.
+
 (a) The State must give enrollees reasonable notice of and an opportunity to pay past due premiums, copayments, coinsurance, deductibles or similar fees prior to disenrollment.
 
 (b) The disenrollment process must afford the enrollee an opportunity to show that the enrollee's household income has declined prior to disenrollment for non payment of cost-sharing charges, and in the event that such a showing indicates that the enrollee may have become eligible for Medicaid or for a lower level of cost sharing, the State must facilitate enrolling the child in Medicaid or adjust the child's cost-sharing category as appropriate.

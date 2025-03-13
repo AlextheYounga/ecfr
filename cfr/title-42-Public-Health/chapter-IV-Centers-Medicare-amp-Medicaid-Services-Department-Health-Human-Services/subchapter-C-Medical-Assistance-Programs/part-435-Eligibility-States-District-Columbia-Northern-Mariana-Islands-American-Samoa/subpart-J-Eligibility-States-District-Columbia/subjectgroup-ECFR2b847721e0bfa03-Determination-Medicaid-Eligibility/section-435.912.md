@@ -1,5 +1,7 @@
 ##### § 435.912 Timely determination of eligibility. #####
 
+Link to an amendment published at 89 FR 22867, Apr. 2, 2024.
+
 (a) For purposes of this section—
 
 (1) “Timeliness standards” refer to the maximum period of time in which every applicant is entitled to a determination of eligibility, subject to the exceptions in paragraph (e) of this section.

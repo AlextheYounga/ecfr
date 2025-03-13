@@ -1,5 +1,7 @@
 ##### § 457.65 Effective date and duration of State plans and plan amendments. #####
 
+Link to an amendment published at 89 FR 22873, Apr. 2, 2024.
+
 (a) *Effective date in general.* Except as otherwise limited by this section—
 
 (1) A State plan or plan amendment takes effect on the day specified in the plan or plan amendment, but no earlier than October 1, 1997.

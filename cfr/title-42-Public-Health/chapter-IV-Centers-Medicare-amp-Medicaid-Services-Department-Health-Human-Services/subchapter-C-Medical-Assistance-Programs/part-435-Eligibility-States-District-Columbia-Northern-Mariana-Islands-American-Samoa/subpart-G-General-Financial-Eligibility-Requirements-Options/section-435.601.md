@@ -1,5 +1,7 @@
 ##### § 435.601 Application of financial eligibility methodologies. #####
 
+Link to an amendment published at 89 FR 22866, Apr. 2, 2024.
+
 (a) *Definitions.* For purposes of this section, *cash assistance financial methodologies* refers to the income and resources methodologies of the AFDC, SSI, or State supplement programs, or, for aged, blind, and disabled individuals in States that use more restrictive criteria than SSI, the methodologies established in accordance with the requirements of §§ 435.121 and 435.230.
 
 (b) *Basic rule for use of non-MAGI financial methodologies.* (1) This section only applies to individuals excepted from application of MAGI-based methods in accordance with § 435.603(j).

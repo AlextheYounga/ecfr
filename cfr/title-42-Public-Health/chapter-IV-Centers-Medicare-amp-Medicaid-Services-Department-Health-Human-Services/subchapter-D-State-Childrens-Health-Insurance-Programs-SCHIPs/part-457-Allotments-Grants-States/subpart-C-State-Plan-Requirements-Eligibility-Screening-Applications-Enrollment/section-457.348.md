@@ -1,5 +1,7 @@
 ##### § 457.348 Determinations of Children's Health Insurance Program eligibility by other insurance affordability programs. #####
 
+Link to an amendment published at 89 FR 22875, Apr. 2, 2024.
+
 (a) *Agreements with other insurance affordability programs.* The State must enter into and, upon request, provide to the Secretary one or more agreements with an Exchange and the agencies administering other insurance affordability programs as are necessary to fulfill the requirements of this section, including a clear delineation of the responsibilities of each program to—
 
 (1) Minimize burden on individuals seeking to obtain or renew eligibility or to appeal a determination of eligibility for one or more insurance affordability program;

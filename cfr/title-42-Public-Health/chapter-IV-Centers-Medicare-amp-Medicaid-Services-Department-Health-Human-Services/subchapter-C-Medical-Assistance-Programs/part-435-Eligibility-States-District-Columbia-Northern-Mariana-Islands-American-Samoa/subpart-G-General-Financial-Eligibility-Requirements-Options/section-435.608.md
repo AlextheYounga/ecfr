@@ -1,5 +1,7 @@
 ##### § 435.608 Applications for other benefits. #####
 
+Link to an amendment published at 89 FR 22867, Apr. 2, 2024.
+
 (a) As a condition of eligibility, the agency must require applicants and beneficiaries to take all necessary steps to obtain any annuities, pensions, retirement, and disability benefits to which they are entitled, unless they can show good cause for not doing so.
 
 (b) Annuities, pensions, retirement and disability benefits include, but are not limited to, veterans' compensation and pensions, OASDI benefits, railroad retirement benefits, and unemployment compensation.
