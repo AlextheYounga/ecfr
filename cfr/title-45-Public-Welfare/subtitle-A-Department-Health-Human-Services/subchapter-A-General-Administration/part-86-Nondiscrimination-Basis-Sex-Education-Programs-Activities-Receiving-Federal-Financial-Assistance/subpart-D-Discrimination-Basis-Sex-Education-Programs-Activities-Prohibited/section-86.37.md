@@ -16,4 +16,4 @@
 
 (2) Separate athletic scholarships or grants-in-aid for members of each sex may be provided as part of separate athletic teams for members of each sex to the extent consistent with this paragraph and § 86.41.
 
-(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682; and sec. 844, Education Amendments of 1974, Pub. L. 93-380, 88 Stat. 484)[40 FR 24128, June 4, 1975; 40 FR 39506, Aug. 28, 1975]
+(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682; and sec. 844, Education Amendments of 1974, Pub. L. 93-380, 88 Stat. 484) [40 FR 24128, June 4, 1975; 40 FR 39506, Aug. 28, 1975]

@@ -1,5 +1,7 @@
 ##### § 419.82 Prior authorization for certain covered hospital outpatient department services. #####
 
+Link to an amendment published at 89 FR 94591, Nov. 27, 2024.
+
 (a) *Prior authorization as condition of payment.* As a condition of Medicare payment for the services in the categories of services on the list of hospital outpatient department services requiring prior authorization as specified in § 419.83(a), a provider must submit to CMS or its contractors a prior authorization request in accordance with the requirements of paragraph (c) of this section.
 
 (b) *Denial of claim.* (1) CMS or its contractors will deny a claim for a service that requires prior authorization if the provider has not received a provisional affirmation of coverage on the claim from CMS or its contractor unless the provider is exempt under § 419.83(c).

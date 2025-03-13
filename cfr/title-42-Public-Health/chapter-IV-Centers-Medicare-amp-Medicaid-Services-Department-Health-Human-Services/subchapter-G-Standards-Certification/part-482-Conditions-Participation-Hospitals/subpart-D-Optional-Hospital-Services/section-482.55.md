@@ -1,5 +1,7 @@
 ##### § 482.55 Condition of participation: Emergency services. #####
 
+Link to an amendment published at 89 FR 94592, Nov. 27, 2024.
+
 The hospital must meet the emergency needs of patients in accordance with acceptable standards of practice.
 
 (a) *Standard: Organization and direction.* If emergency services are provided at the hospital—

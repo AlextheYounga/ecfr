@@ -18,4 +18,4 @@
 
 (d) *Effects of past exclusion.* To overcome the effects of past exclusion of students on the basis of sex, each educational institution to which § 86.16 applies shall include in its transition plan, and shall implement, specific steps designed to encourage individuals of the previously excluded sex to apply for admission to such institution. Such steps shall include instituting recruitment programs which emphasize the institution's commitment to enrolling students of the sex previously excluded.
 
-(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[40 FR 24128, June 4, 1975; 40 FR 39506, Aug. 28, 1975]
+(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682) [40 FR 24128, June 4, 1975; 40 FR 39506, Aug. 28, 1975]

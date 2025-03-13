@@ -24,8 +24,7 @@
 
 (2) If income withholding was not appropriate, and a collection was received during the review period, and the case was submitted for Federal and State income tax refund offset, if appropriate, then the case meets the requirements of § 303.6(c)(3) of this chapter, notwithstanding the timeframes for: establishment of cases in § 303.2(b) of this chapter; provision of services in intergovernmental IV-D cases under § 303.7(a)(4) through (8), (b), (c), (d)(2) through (5) and (7) and (10) of this chapter; and location and enforcement of support obligations in §§ 303.3(b)(3) and (5), and 303.6 of this chapter.
 
-(3) I
-f an order needed enforcement during the review period, but income was not withheld or other collections were not received (when income withholding could not be implemented), the State must determine the last required action and determine whether the action was taken within the appropriate timeframes. The following is a list of possible last required actions:
+(3) I f an order needed enforcement during the review period, but income was not withheld or other collections were not received (when income withholding could not be implemented), the State must determine the last required action and determine whether the action was taken within the appropriate timeframes. The following is a list of possible last required actions:
 
 (i) If location activities are necessary, using all appropriate location sources within 75 days according to § 303.3(b)(3) of this chapter. Location sources include: custodial parent, Federal and State Parent Locator Services, U.S. Postal Service, State workforce agency, Department of Motor Vehicles, and credit bureaus;
 

@@ -14,7 +14,7 @@
 
 (C) Is a statement in which the person making such statement has a duty to include such material fact; or
 
-(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $5,5001 for each such claim.
+(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $5,500 1 for each such claim.
 
 1 The amounts specified in this section are updated annually, as adjusted in accordance with the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990 (Pub. L. 101-140), as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (section 701 of Pub. L. 114-74). Annually adjusted amounts are published at 45 CFR part 102.
 
@@ -34,7 +34,7 @@
 
 (B) Is false, factitious, or fraudulent because it omits a material fact that the person making the statement has a duty to include in such statement; and
 
-(ii) Contains, or is accompanied by, an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $5,5002 for each such statement.
+(ii) Contains, or is accompanied by, an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $5,500 2 for each such statement.
 
 2 The amounts specified in this section are updated annually, as adjusted in accordance with the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990 (Pub. L. 101-140), as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (section 701 of Pub. L. 114-74). Annually adjusted amounts are published at 45 CFR part 102.
 

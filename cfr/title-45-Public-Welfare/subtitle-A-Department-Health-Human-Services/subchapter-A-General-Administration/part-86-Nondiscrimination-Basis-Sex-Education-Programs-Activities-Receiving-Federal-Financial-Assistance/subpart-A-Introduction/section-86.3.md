@@ -14,4 +14,4 @@
 
 (d) *Availability of self-evaluation and related materials.* Recipients shall maintain on file for at least three years following completion of the evaluation required under paragraph (c) of this section, and shall provide to the Director upon request, a description of any modifications made pursuant to paragraph (c) (2) of this section and of any remedial steps taken pursuant to paragraph (c) (3) of this section.
 
-(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[40 FR 24128, June 4, 1975; 40 FR 39506, Aug. 28, 1975]
+(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682) [40 FR 24128, June 4, 1975; 40 FR 39506, Aug. 28, 1975]

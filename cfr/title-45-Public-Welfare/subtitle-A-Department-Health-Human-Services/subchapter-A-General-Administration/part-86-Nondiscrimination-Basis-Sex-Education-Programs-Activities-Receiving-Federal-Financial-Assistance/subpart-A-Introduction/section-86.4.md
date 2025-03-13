@@ -10,4 +10,4 @@
 
 (c) *Form.* The Director will specify the form of the assurances required by paragraph (a) of this section and the extent to which such assurances will be required of the applicant's or recipient's subgrantees, contractors, subcontractors, transferees, or successors in interest.
 
-(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[40 FR 24137, June 4, 1975, as amended at 70 FR 24321, May 9, 2005]
+(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682) [40 FR 24137, June 4, 1975, as amended at 70 FR 24321, May 9, 2005]

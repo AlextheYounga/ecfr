@@ -1,5 +1,7 @@
 ##### § 457.101 Small grains crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 93467, Nov. 27, 2024.
+
 The Small Grains Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationSmall Grains Crop Provisions
@@ -207,9 +209,7 @@ In accordance with section 11 of the Basic Provisions, and subject to any provis
 
 8. Causes of Loss
 
-In addition to the provisions under section 12 of the Basic Provisions, any loss covered by this policy must occur within the insurance period.
-
-The specific causes of loss for small grains are:
+In addition to the provisions under section 12 of the Basic Provisions, any loss covered by this policy must occur within the insurance period. The specific causes of loss for small grains are:
 
 (a) Adverse weather conditions;
 

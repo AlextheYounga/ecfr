@@ -1,5 +1,7 @@
 ##### § 411.4 Services for which neither the beneficiary nor any other person is legally obligated to pay. #####
 
+Link to an amendment published at 89 FR 94587, Nov. 27, 2024.
+
 (a) *General rule.* Except as provided in § 411.8(b) (for services paid by a governmental entity), Medicare does not pay for a service if—
 
 (1) The beneficiary has no legal obligation to pay for the service; and

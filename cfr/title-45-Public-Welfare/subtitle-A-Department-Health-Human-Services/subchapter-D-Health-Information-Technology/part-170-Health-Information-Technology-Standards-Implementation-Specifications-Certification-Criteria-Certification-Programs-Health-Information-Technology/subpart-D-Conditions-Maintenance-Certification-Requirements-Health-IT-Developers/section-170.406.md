@@ -14,5 +14,4 @@
 
 (b) *Maintenance of Certification requirement.* (1) A health IT developer, or its authorized representative that is capable of binding the health IT developer, must provide the attestation specified in paragraph (a) of this section semiannually for any Health IT Modules that have or have had an active certification at any time under the ONC Health IT Certification Program during the prior six months.
 
-(2) [Reserved]
-[85 FR 25945, May 1, 2020, as amended at 89 FR 8549, Feb. 8, 2024]
+(2) [Reserved] [85 FR 25945, May 1, 2020, as amended at 89 FR 8549, Feb. 8, 2024]

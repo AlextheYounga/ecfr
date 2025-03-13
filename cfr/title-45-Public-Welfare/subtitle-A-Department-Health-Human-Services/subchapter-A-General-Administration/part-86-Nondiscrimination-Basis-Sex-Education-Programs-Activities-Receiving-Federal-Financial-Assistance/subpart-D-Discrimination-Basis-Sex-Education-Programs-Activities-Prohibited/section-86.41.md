@@ -30,4 +30,4 @@ Unequal aggregate expenditures for members of each sex or unequal expenditures f
 
 (d) *Adjustment period.* A recipient which operates or sponsors interscholastic, intercollegiate, club or intramural athletics at the elementary school level shall comply fully with this section as expeditiously as possible but in no event later than one year from the effective date of this regulation. A recipient which operates or sponsors interscholastic, intercollegiate, club or intramural athletics at the secondary or post-secondary school level shall comply fully with this section as expeditiously as possible but in no event later than three years from the effective date of this regulation.
 
-(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682; and sec. 844, Education Amendments of 1974, Pub. L. 93-380, 88 Stat. 484)[40 FR 24128, June 4, 1975; 40 FR 39506, Aug. 28, 1975]
+(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682; and sec. 844, Education Amendments of 1974, Pub. L. 93-380, 88 Stat. 484) [40 FR 24128, June 4, 1975; 40 FR 39506, Aug. 28, 1975]

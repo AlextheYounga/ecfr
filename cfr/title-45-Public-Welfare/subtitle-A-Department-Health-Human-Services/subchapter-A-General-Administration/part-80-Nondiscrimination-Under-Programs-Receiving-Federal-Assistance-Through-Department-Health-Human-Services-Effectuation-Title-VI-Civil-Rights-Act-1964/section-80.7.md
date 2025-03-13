@@ -12,4 +12,4 @@
 
 (e) *Intimidatory or retaliatory acts prohibited.* No recipient or other person shall intimidate, threaten, coerce, or discriminate against any individual for the purpose of interfering with any right or privilege secured by section 601 of the Act or this part, or because he has made a complaint, testified, assisted, or participated in any manner in an investigation, proceeding or hearing under this part. The identity of complainants shall be kept confidential except to the extent necessary to carry out the purposes of this part, including the conduct of any investigation, hearing, or judicial proceeding arising thereunder.
 
-(Secs. 601, 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d, 2000d-1))[29 FR 16298, Dec. 4, 1964, as amended at 38 FR 17981, 17982, July 5, 1973]
+(Secs. 601, 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d, 2000d-1)) [29 FR 16298, Dec. 4, 1964, as amended at 38 FR 17981, 17982, July 5, 1973]

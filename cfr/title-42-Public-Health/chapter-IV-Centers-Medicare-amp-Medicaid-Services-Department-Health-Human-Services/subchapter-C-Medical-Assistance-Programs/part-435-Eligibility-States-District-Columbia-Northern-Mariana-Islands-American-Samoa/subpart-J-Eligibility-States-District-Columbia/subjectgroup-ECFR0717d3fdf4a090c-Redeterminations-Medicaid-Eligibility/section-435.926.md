@@ -1,5 +1,7 @@
 ##### § 435.926 Continuous eligibility for children. #####
 
+Link to an amendment published at 89 FR 94591, Nov. 27, 2024.
+
 (a) *Basis.* This section implements section 1902(e)(12) of the Act.
 
 (b) *Eligibility.* The agency may provide continuous eligibility for the period specified in paragraph (c) of this section for an individual who is:

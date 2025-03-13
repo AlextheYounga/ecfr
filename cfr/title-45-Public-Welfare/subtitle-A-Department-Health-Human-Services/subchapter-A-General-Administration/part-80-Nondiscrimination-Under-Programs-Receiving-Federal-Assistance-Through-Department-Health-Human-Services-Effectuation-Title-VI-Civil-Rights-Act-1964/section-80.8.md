@@ -8,4 +8,4 @@
 
 (d) *Other means authorized by law.* No action to effect compliance by any other means authorized by law shall be taken until (1) the responsible Department official has determined that compliance cannot be secured by voluntary means, (2) the recipient or other person has been notified of its failure to comply and of the action to be taken to effect compliance, and (3) the expiration of at least 10 days from the mailing of such notice to the recipient or other person. During this period of at least 10 days additional efforts shall be made to persuade the recipient or other person to comply with the regulation and to take such corrective action as may be appropriate.
 
-(Secs. 601, 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d, 2000d-1; sec. 182, 80 Stat. 1209; (42 U.S.C. 2000d-5))[29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14556, Oct. 19, 1967; 38 FR 17982, July 5, 1973]
+(Secs. 601, 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d, 2000d-1; sec. 182, 80 Stat. 1209; (42 U.S.C. 2000d-5)) [29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14556, Oct. 19, 1967; 38 FR 17982, July 5, 1973]

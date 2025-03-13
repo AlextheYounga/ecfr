@@ -1,5 +1,7 @@
 ##### § 406.27 Special enrollment periods for exceptional conditions. #####
 
+Link to an amendment published at 89 FR 94586, Nov. 27, 2024.
+
 (a) *General rule.* Beginning January 1, 2023, in accordance with the Secretary's authority in sections 1837(m) and 1838(g) of the Act, the following SEPs, as defined under § 406.24(a)(4), are provided for individuals that missed a Medicare enrollment period, (as specified in § 406.21, § 406.24, or § 406.25), due to exceptional conditions as determined by the Secretary and established under paragraphs (b) through (f) of this section. SEPs are provided for exceptional conditions that took place on or after January 1, 2023 except as specified in paragraph (e) of this section.
 
 (b) *Special enrollment period for individuals impacted by an emergency or disaster.* An SEP exists for individuals prevented from submitting a timely Medicare enrollment request by an emergency or disaster declared by a Federal, State, or local government entity.

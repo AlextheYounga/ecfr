@@ -1,5 +1,7 @@
 ##### § 416.164 Scope of ASC services. #####
 
+Link to an amendment published at 89 FR 94588, Nov. 27, 2024.
+
 (a) *Included facility services.* ASC services for which payment is packaged into the ASC payment for a covered surgical procedure under § 416.166 include, but are not limited to—
 
 (1) Nursing, technician, and related services;

@@ -1,5 +1,7 @@
 ##### § 410.28 Hospital or CAH diagnostic services furnished to outpatients: Conditions. #####
 
+Link to an amendment published at 89 FR 94587, Nov. 27, 2024.
+
 (a) Medicare Part B pays for hospital or CAH diagnostic services furnished to outpatients, including drugs and biologicals required in the performance of the services (even if those drugs or biologicals are self-administered), if those services meet the following conditions:
 
 (1) They are furnished by or under arrangements made by a participating hospital or participating CAH, except in the case of an SNF resident as provided in § 411.15(p) of this chapter.

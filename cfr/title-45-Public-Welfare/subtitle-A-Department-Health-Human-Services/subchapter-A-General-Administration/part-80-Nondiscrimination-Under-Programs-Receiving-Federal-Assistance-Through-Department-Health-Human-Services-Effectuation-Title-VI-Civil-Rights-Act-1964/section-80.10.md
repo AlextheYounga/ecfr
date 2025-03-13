@@ -18,4 +18,4 @@
 
 (3) If the responsible Department official denies any such request, the applicant or recipient may submit a request for a hearing in writing, specifying why it believes such official to have been in error. It shall thereupon be given an expeditious hearing, with a decision on the record, in accordance with rules of procedure issued by the responsible Department official. The applicant or recipient will be restored to such eligibility if it proves at such hearing that it satisfied the requirements of paragraph (g)(1) of this section. While proceedings under this paragraph are pending, the sanctions imposed by the order issued under paragraph (f) of this section shall remain in effect.
 
-(Sec. 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d-1))[29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14555, Oct. 19, 1967; 38 FR 17981, 17982, July 5, 1973]
+(Sec. 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d-1)) [29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14555, Oct. 19, 1967; 38 FR 17981, 17982, July 5, 1973]

@@ -1,5 +1,7 @@
 ##### § 457.133 Prune crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 93467, Nov. 27, 2024.
+
 The Prune Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationPrune Crop Provisions

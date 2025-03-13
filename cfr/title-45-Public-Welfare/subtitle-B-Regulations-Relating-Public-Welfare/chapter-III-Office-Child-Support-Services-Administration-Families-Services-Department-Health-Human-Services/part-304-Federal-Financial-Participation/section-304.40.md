@@ -51,4 +51,4 @@ In these circumstances, the criteria in paragraphs (b) (1) and (2) or (3) of thi
 
 (ii) Continue payments until the reduced amount of its debt (remaining after the offset), has been paid in full. This second option would result in a shorter payment period.
 
-A retroactive claim for the purpose of this regulation is a claim applicable to any period ending 12 months or more prior to the beginning of the quarter in which the payment is to be made by the Service.[42 FR 28885, June 6, 1977, as amended at 52 FR 273, Jan. 5, 1987; 64 FR 6253, Feb. 9, 1999; 68 FR 25305, May 12, 2003; 81 FR 93568, Dec. 20, 2016]
+A retroactive claim for the purpose of this regulation is a claim applicable to any period ending 12 months or more prior to the beginning of the quarter in which the payment is to be made by the Service. [42 FR 28885, June 6, 1977, as amended at 52 FR 273, Jan. 5, 1987; 64 FR 6253, Feb. 9, 1999; 68 FR 25305, May 12, 2003; 81 FR 93568, Dec. 20, 2016]

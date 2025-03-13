@@ -4,15 +4,15 @@
 
 (b) Block Grants.
 
-(1) Preventive Health and Health Services, 42 U.S.C. 300w-300w-10.1
+(1) Preventive Health and Health Services, 42 U.S.C. 300w-300w-10. 1
 
 1 Certain Public Health Service programs for which the Federated States of Micronesia and the Republic of the Marshall Islands may apply for a consolidated grant.
 
-(2) Alcohol and Drug Abuse and Mental Health Services, 42 U.S.C. 300x-300x-9.2
+(2) Alcohol and Drug Abuse and Mental Health Services, 42 U.S.C. 300x-300x-9. 2
 
 2 See footnote 1 in § 97.12(a)(1).
 
-(3) Maternal and Child Health Services, 42 U.S.C. 701-709.3
+(3) Maternal and Child Health Services, 42 U.S.C. 701-709. 3
 
 3 See footnote 1 in § 97.12(a)(1).
 
@@ -22,7 +22,7 @@
 
 (6) Low-Income Home Energy Assistance, 42 U.S.C. 8621-8629.
 
-(7) Community Youth Activity, 42 U.S.C. 11841.4
+(7) Community Youth Activity, 42 U.S.C. 11841. 4
 
 4 See footnote 1 in § 97.12(a)(1).
 

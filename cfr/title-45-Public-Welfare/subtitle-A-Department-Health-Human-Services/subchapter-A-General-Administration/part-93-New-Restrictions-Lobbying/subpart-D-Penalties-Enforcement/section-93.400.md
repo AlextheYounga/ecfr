@@ -1,6 +1,6 @@
 ##### § 93.400 Penalties. #####
 
-(a) Any person who makes an expenditure prohibited herein shall be subject to a civil penalty of not less than $10,000 and not more than $100,0001 for each such expenditure.
+(a) Any person who makes an expenditure prohibited herein shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 1 for each such expenditure.
 
 1 The amounts specified in this section are updated annually, as adjusted in accordance with the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990 (Pub. L. 101-140), as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (section 701 of Pub. L. 114-74). Annually adjusted amounts are published at 45 CFR part 102.
 

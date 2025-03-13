@@ -12,4 +12,4 @@
 
 (5) In the case of a recipient which does not maintain a leave policy for its students, or in the case of a student who does not otherwise qualify for leave under such a policy, a recipient shall treat pregnancy, childbirth, false pregnancy, termination of pregnancy and recovery therefrom as a justification for a leave of absence for so long a period of time as is deemed medically necessary by the student's physician, at the conclusion of which the student shall be reinstated to the status which she held when the leave began.
 
-(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[40 FR 24137, June 4, 1975, as amended at 70 FR 24321, May 9, 2005]
+(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682) [40 FR 24137, June 4, 1975, as amended at 70 FR 24321, May 9, 2005]

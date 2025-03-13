@@ -1,5 +1,7 @@
 ##### § 457.147 Central and Southern potato crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 93469, Nov. 27, 2024.
+
 The Central and Southern Potato Crop Insurance Provisions for the 2025 and succeeding crop years in counties with a contract change date of June 30, September 30, and November 30, and for the 2026 and succeeding crop years in counties with a contract change date of April 30, are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationCentral and Southern Potato Crop Provisions

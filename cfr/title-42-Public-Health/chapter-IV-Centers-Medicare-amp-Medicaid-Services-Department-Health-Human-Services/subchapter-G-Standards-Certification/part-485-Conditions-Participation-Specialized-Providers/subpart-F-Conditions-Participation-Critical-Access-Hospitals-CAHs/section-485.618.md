@@ -1,5 +1,7 @@
 ##### § 485.618 Condition of participation: Emergency services. #####
 
+Link to an amendment published at 89 FR 94592, Nov. 27, 2024.
+
 The CAH provides emergency care necessary to meet the needs of its inpatients and outpatients.
 
 (a) *Standard: Availability.* Emergency services are available on a 24-hours a day basis.

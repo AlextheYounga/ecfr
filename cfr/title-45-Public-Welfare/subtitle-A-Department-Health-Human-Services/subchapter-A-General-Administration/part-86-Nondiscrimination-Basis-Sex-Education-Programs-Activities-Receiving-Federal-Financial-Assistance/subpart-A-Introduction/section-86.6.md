@@ -8,4 +8,4 @@
 
 (c) *Effect of rules or regulations of private organizations.* The obligation to comply with this part is not obviated or alleviated by any rule or regulation of any organization, club, athletic or other league, or association which would render any applicant or student ineligible to participate or limit the eligibility or participation of any applicant or student, on the basis of sex, in any education program or activity operated by a recipient and which receives Federal financial assistance.
 
-(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[40 FR 24137, June 4, 1975, as amended at 70 FR 24321, May 9, 2005]
+(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682) [40 FR 24137, June 4, 1975, as amended at 70 FR 24321, May 9, 2005]

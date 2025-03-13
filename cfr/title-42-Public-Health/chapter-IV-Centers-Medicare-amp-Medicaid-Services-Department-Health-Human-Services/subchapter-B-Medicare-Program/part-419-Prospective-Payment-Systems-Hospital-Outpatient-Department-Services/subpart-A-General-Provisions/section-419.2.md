@@ -1,5 +1,7 @@
 ##### § 419.2 Basis of payment. #####
 
+Link to an amendment published at 89 FR 94589, Nov. 27, 2024.
+
 (a) *Unit of payment.* Under the hospital outpatient prospective payment system, predetermined amounts are paid for designated services furnished to Medicare beneficiaries. These services are identified by codes established under the Centers for Medicare & Medicaid Services Common Procedure Coding System (HCPCS). The prospective payment rate for each service or procedure for which payment is allowed under the hospital outpatient prospective payment system is determined according to the methodology described in subpart C of this part. The manner in which the Medicare payment amount and the beneficiary copayment amount for each service or procedure are determined is described in subpart D of this part.
 
 (b) *Determination of hospital outpatient prospective payment rates: Packaged costs.* The prospective payment system establishes a national payment rate, standardized for geographic wage differences, that includes operating and capital-related costs that are integral, ancillary, supportive, dependent, or adjunctive to performing a procedure or furnishing a service on an outpatient basis. In general, these packaged costs may include, but are not limited to, the following items and services, the payment for which are packaged or conditionally packaged into the payment for the related procedures or services.

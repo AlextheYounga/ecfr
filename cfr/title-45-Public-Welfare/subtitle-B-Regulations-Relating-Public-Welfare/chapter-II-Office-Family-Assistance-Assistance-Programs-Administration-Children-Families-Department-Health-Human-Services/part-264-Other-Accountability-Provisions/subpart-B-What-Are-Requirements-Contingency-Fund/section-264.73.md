@@ -20,6 +20,6 @@
 
 (A) The State's Federal Medical Assistance Percentage (FMAP) applicable for the fiscal year for which funds were awarded; and
 
-(B)1/12 times the number of months during the fiscal year for which the State received contingency funds.
+(B) 1/12 times the number of months during the fiscal year for which the State received contingency funds.
 
 (2) Subtract the State's proportionate remittance (as reported to the State by ACF) for the overall adjustment of the Contingency Fund for that fiscal year required by section 403(b)(6)(C) of the Act.

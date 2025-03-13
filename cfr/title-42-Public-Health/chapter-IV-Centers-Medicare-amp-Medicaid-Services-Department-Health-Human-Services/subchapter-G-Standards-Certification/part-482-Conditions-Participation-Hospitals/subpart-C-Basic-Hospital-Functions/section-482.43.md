@@ -1,5 +1,7 @@
 ##### § 482.43 Condition of participation: Discharge planning. #####
 
+Link to an amendment published at 89 FR 94592, Nov. 27, 2024.
+
 The hospital must have an effective discharge planning process that focuses on the patient's goals and treatment preferences and includes the patient and his or her caregivers/support person(s) as active partners in the discharge planning for post-discharge care. The discharge planning process and the discharge plan must be consistent with the patient's goals for care and his or her treatment preferences, ensure an effective transition of the patient from hospital to post-discharge care, and reduce the factors leading to preventable hospital readmissions.
 
 (a) *Standard: Discharge planning process.* The hospital's discharge planning process must identify, at an early stage of hospitalization, those patients who are likely to suffer adverse health consequences upon discharge in the absence of adequate discharge planning and must provide a discharge planning evaluation for those patients so identified as well as for other patients upon the request of the patient, patient's representative, or patient's physician.

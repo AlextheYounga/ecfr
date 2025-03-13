@@ -42,4 +42,4 @@
 
 (f) *FY 2000 Five-Year State Plan.* Based on the FY 1999 final review and final Annual Progress and Services Report, and in consultation with a broad range of agencies, organizations, and individuals, the States and eligible Indian Tribes must develop a new five-year CFSP following the requirements of 45 CFR 1357.15.
 
-(This requirement has been approved by the Office of Management and Budget under OMB Control Number 0980-0047. In accordance with the Paperwork Reduction Act of 1995, an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.)[61 FR 58659, Nov. 18, 1996, as amended at 66 FR 58677, Nov. 23, 2001]
+(This requirement has been approved by the Office of Management and Budget under OMB Control Number 0980-0047. In accordance with the Paperwork Reduction Act of 1995, an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.) [61 FR 58659, Nov. 18, 1996, as amended at 66 FR 58677, Nov. 23, 2001]

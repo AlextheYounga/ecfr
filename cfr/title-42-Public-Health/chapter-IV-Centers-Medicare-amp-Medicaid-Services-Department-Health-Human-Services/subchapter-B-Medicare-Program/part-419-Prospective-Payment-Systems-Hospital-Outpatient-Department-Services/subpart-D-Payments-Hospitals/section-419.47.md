@@ -1,4 +1,6 @@
-##### § 419.47 Coding and Payment for Category B Investigational Device Exemption (IDE) Studies #####
+##### § 419.47 Coding and Payment for Category B Investigational Device Exemption (IDE) Studies. #####
+
+Link to an amendment published at 89 FR 94590, Nov. 27, 2024.
 
 (a) *Creation of a new HCPCS code for Category B IDE Studies.* CMS will create a new HCPCS code, or revise an existing HCPCS code, to describe a Category B IDE study, which will include both the treatment and control arms, related device(s) of the study, as well as routine care items and services, as specified under § 405.201 of this chapter, when CMS determines that:
 

@@ -26,11 +26,11 @@ Under this section, a federally conducted program or activity is, in simple term
 
 The *major* programs subject to this regulation are listed below. Each of the components listed above occupies facilities which the public may have occasion to visit, engages in written and oral communication with the public, and hires Federal employees. In addition, some components operate programs which involve extensive public use, as summarized below:
 
-Office of the Secretary—No major operating programs or activities conducted directly by the Federal government.Office of Human Development Services—No major operating programs or activities conducted directly by the Federal government.1
+Office of the Secretary—No major operating programs or activities conducted directly by the Federal government.Office of Human Development Services—No major operating programs or activities conducted directly by the Federal government. 1
 
 1 Financial assistance programs conducted through grants to States and other recipients are covered by the section 504 rule for federally assisted programs at 45 CFR part 84.
 
-Public Health Service—Directly operated programs include the Indian Health Service, and intramural research conducted by the National Institutes of Health.1Health Care Financing Administration—Directly operates the Medicare program.1Social Security Administration—Directly operates the Old Age, Survivors, and Disability Insurance, and Supplemental Security Income for the Aged, Blind, and Disabled programs.Family Support Administration—No major operating programs or activities conducted directly by the Federal government.1
+Public Health Service—Directly operated programs include the Indian Health Service, and intramural research conducted by the National Institutes of Health. 1Health Care Financing Administration—Directly operates the Medicare program. 1Social Security Administration—Directly operates the Old Age, Survivors, and Disability Insurance, and Supplemental Security Income for the Aged, Blind, and Disabled programs.Family Support Administration—No major operating programs or activities conducted directly by the Federal government. 1
 
 One commenter urged the inclusion of a program operated by one component of the Office of the Secretary, and for a list of all programs and activities to be appended to the regulation. In light of the fact that all programs and activities are covered, that a comprehensive list of all programs would be very lengthy, and that such a list would have to be amended frequently as new programs are enacted and existing programs expire, the above list appears to be sufficient.
 

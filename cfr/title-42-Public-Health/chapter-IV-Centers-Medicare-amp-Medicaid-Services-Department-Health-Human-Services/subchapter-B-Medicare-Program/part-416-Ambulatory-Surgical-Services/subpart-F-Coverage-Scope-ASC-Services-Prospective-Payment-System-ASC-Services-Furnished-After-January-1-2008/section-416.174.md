@@ -1,5 +1,7 @@
 ##### § 416.174 Payment for non-opioid pain management drugs and biologicals that function as supplies in surgical procedures. #####
 
+Link to an amendment published at 89 FR 94588, Nov. 27, 2024.
+
 (a) *Eligibility for separate payment for non-opioid pain management drugs and biologicals.* Beginning on or after January 1, 2022, a non-opioid pain management drug or biological that functions as a surgical supply is eligible for separate payment for an applicable calendar year if CMS determines it meets the following requirements through that year's rulemaking:
 
 (1) The drug is approved under a new drug application under section 505(c) of the Federal Food, Drug, and Cosmetic Act (FDCA), under an abbreviated new drug application under section 505(j), or, in the case of a biological product, is licensed under section 351 of the Public Health Service Act. The product has an FDA approved indication for pain management or analgesia.

@@ -48,4 +48,4 @@
 
 (e) *Medical emergencies.* Notwithstanding the foregoing provisions of this section, a recipient of Federal financial assistance shall not be deemed to have failed to comply with paragraph (a) of this section if immediate provision of a service or other benefit to an individual is necessary to prevent his death or serious impairment of his health, and such service or other benefit cannot be provided except by or through a medical institution which refuses or fails to comply with paragraph (a) of this section.
 
-(Secs. 601, 602, 604, Civil Rights Act of 1964, 78 Stat. 252, 253 (42 U.S.C. 2000d, 2000d-1, 2000d-3))[29 FR 16298, Dec. 4, 1964, as amended at 38 FR 17979, 17982, July 5, 1973; 70 FR 24318, May 9, 2005]
+(Secs. 601, 602, 604, Civil Rights Act of 1964, 78 Stat. 252, 253 (42 U.S.C. 2000d, 2000d-1, 2000d-3)) [29 FR 16298, Dec. 4, 1964, as amended at 38 FR 17979, 17982, July 5, 1973; 70 FR 24318, May 9, 2005]

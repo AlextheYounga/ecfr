@@ -12,4 +12,4 @@
 
 (2) The assurance required with respect to an institution of higher education, hospital, or any other institution, insofar as the assurance relates to the institution's practices with respect to admission or other treatment of individuals as students, patients, or clients of the institution or to the opportunity to participate in the provision of services or other benefits to such individuals, shall be applicable to the entire institution.
 
-(Secs. 601, 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d, 2000d-1); sec. 182, 80 Stat. 1209 (42 U.S.C. 2000d-5))[29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14555, Oct. 19, 1967; 38 FR 17980, 17982, July 5, 1973; 70 FR 24318, May 9, 2005]
+(Secs. 601, 602, Civil Rights Act of 1964, 78 Stat. 252 (42 U.S.C. 2000d, 2000d-1); sec. 182, 80 Stat. 1209 (42 U.S.C. 2000d-5)) [29 FR 16298, Dec. 4, 1964, as amended at 32 FR 14555, Oct. 19, 1967; 38 FR 17980, 17982, July 5, 1973; 70 FR 24318, May 9, 2005]

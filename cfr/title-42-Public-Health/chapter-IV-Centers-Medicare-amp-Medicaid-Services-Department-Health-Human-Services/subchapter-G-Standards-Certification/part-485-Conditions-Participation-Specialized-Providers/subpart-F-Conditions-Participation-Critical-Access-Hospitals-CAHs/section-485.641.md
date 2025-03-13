@@ -1,5 +1,7 @@
 ##### § 485.641 Condition of participation: Quality assessment and performance improvement program. #####
 
+Link to an amendment published at 89 FR 94593, Nov. 27, 2024.
+
 The CAH must develop, implement, and maintain an effective, ongoing, CAH-wide, data-driven quality assessment and performance improvement (QAPI) program. The CAH must maintain and demonstrate evidence of the effectiveness of its QAPI program.
 
 (a) *Definitions.* For the purposes of this section—

@@ -1,5 +1,7 @@
 ##### § 457.137 Green pea crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 93467, Nov. 27, 2024.
+
 The Green Pea Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policiesGreen Pea Crop Provisions

@@ -1,6 +1,4 @@
-##### § 102-117.240 What is my agency's financial responsibility to an employee who chooses to move all or part of his/her HHG under the commuted rate system? #####
-
-Link to an amendment published at 89 FR 93199, Nov. 26, 2024.
+##### § 102-117.240 What is my agency's financial responsibility to an employee who chooses to move all or part of their HHG under the commuted rate system? #####
 
 (a) Your agency is responsible for reimbursing the employee what it would cost the Government to ship the employee's HHG by the most cost-effective means available or the employee's actual moving expenses, whichever is less.
 

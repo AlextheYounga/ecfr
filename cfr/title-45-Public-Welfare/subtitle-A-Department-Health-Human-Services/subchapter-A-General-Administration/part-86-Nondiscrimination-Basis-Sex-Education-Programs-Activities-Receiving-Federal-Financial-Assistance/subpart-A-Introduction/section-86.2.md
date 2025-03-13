@@ -84,4 +84,4 @@ As used in this part, the term—
 
 (s) *Transition plan* means a plan subject to the approval of the United States Commissioner of Education pursuant to section 901(a)(2) of the Education Amendments of 1972, under which an educational institution operates in making the transition from being an educational institution which admits only students of one sex to being one which admits students of both sexes without discrimination.
 
-(Secs. 901, 902, 908, Education Amendments of 1972, 20 U.S.C. 1681, 1682, 1687)[40 FR 24137, June 4, 1975, as amended at 70 FR 24320, May 9, 2005; 85 FR 37243, June 19, 2020]
+(Secs. 901, 902, 908, Education Amendments of 1972, 20 U.S.C. 1681, 1682, 1687) [40 FR 24137, June 4, 1975, as amended at 70 FR 24320, May 9, 2005; 85 FR 37243, June 19, 2020]

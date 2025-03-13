@@ -1,5 +1,7 @@
 ##### § 457.154 Processing sweet corn crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 93469, Nov. 27, 2024.
+
 The Processing Sweet Corn Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Processing Sweet Corn Crop Provisions1. Definitions

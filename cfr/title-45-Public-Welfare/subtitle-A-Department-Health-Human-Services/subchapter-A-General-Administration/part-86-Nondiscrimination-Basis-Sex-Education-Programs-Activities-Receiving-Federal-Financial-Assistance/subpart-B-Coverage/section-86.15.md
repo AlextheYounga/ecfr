@@ -10,4 +10,4 @@
 
 (e) *Public institutions of undergraduate higher education.* Subpart C does not apply to any public institution of undergraduate higher education which traditionally and continually from its establishment has had a policy of admitting only students of one sex.
 
-(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[40 FR 24128, June 4, 1975; 40 FR 39506, Aug. 28, 1975]
+(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682) [40 FR 24128, June 4, 1975; 40 FR 39506, Aug. 28, 1975]

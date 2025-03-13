@@ -4,8 +4,7 @@
 
 (b) Any such requests should contain, at a minimum, identifying information needed to locate any given record and a brief description of the item or items of information required in the event the individual wishes to see less than all records maintained about him or her.
 
-(1) In the event an individual, after examination of his or her record, desires to request an amendment or correction of such records, the request must be submitted in writing and addressed to the Corporation for National and Community Service, Office of the General Counsel, Attn: Privacy Act Officer, 250 E Street SW., Washington, DC 20525.
-In his or her written request, the individual shall specify:
+(1) In the event an individual, after examination of his or her record, desires to request an amendment or correction of such records, the request must be submitted in writing and addressed to the Corporation for National and Community Service, Office of the General Counsel, Attn: Privacy Act Officer, 250 E Street SW., Washington, DC 20525. In his or her written request, the individual shall specify:
 
 (i) The system of records from which the record is retrieved;
 
