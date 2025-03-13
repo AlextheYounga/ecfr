@@ -1,6 +1,6 @@
 ##### § 310.25 What conditions apply to acquisitions of Computerized Tribal IV-D Systems? #####
 
-Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107021, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) *APD Approval.* A comprehensive Tribal IV-D agency must have an approved APD in accordance with the applicable requirements of § 310.20 of this part prior to initiating acquisition of a Computerized Tribal IV-D System.
 

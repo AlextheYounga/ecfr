@@ -1,6 +1,6 @@
 ##### § 304.20 Availability and rate of Federal financial participation. #####
 
-Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 107019, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) Federal financial participation at the applicable matching rate is available for:
 

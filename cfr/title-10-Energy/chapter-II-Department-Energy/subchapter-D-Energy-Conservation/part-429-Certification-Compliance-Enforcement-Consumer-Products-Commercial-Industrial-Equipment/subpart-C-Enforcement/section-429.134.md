@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 90 FR 1278, Jan. 7, 2025.Link to a delay published at 90 FR 9001, Feb. 5, 2025.
+Link to an amendment published at 90 FR 1278, Jan. 7, 2025.This amendment was delayed until March 21, 2025, at 90 FR 9001, Feb. 5, 2025.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 

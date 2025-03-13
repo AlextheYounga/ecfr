@@ -1,6 +1,6 @@
 ##### § 307.15 Approval of advance planning documents for computerized support enforcement systems. #####
 
-Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) *Approval of an APD.* The Office shall not approve the APD and annually updated APD unless the document, when implemented, will carry out the requirements of § 307.10, or § 307.11 of this part. Conditions for APD approval are specified in this section.
 

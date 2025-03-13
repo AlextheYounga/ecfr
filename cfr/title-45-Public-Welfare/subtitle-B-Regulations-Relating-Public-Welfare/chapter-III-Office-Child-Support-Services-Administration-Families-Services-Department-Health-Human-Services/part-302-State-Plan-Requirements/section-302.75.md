@@ -1,6 +1,6 @@
 ##### § 302.75 Procedures for the imposition of late payment fees on noncustodial parents who owe overdue support. #####
 
-Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) Effective September 1, 1984, the State plan may provide for imposition of late payment fees on noncustodial parents who owe overdue support.
 

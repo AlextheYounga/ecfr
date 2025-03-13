@@ -1,6 +1,6 @@
 ##### § 301.1 General definitions. #####
 
-Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 When used in this chapter, unless the context otherwise indicates:
 

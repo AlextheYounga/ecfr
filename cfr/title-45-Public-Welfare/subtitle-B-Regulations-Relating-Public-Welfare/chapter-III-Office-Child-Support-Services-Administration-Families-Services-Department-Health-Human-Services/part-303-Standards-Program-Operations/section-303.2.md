@@ -1,6 +1,6 @@
 ##### § 303.2 Establishment of cases and maintenance of case records. #####
 
-Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) The IV-D agency must:
 

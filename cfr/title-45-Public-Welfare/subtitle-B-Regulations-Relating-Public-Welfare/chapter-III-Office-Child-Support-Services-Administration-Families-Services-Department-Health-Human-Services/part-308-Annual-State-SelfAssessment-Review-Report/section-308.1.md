@@ -1,6 +1,6 @@
 ##### § 308.1 Self-assessment implementation methodology. #####
 
-Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) The IV-D agency must ensure the review meets Federal requirements and must maintain responsibility for and control of the results produced and contents of the annual report.
 

@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 90 FR 1283, Jan. 7, 2025.Link to a delay published at 90 FR 9001, Feb. 5, 2025.
+Link to an amendment published at 90 FR 1283, Jan. 7, 2025.This amendment was delayed until Mar. 21, 2025, at at 90 FR 9001, Feb. 5, 2025.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 

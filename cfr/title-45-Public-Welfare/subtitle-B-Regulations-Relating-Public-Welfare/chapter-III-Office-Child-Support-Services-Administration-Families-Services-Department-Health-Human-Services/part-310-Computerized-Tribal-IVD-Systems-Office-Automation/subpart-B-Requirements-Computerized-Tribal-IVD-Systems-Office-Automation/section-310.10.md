@@ -1,6 +1,6 @@
 ##### § 310.10 What are the functional requirements for the Model Tribal IV-D System? #####
 
-Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107021, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 A Model Tribal IV-D System must:
 

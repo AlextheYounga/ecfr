@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 89 FR 105285, Dec. 26, 2024.
+Link to an amendment published at 89 FR 105285, Dec. 26, 2024.This amendment is delayed until Mar. 21, 2025 at 90 FR 9951, Feb. 20, 2025.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 

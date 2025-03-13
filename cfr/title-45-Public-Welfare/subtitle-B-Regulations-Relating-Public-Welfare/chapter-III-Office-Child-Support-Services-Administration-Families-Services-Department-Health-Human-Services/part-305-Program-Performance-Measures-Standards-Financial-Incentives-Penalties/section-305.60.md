@@ -1,6 +1,6 @@
 ##### § 305.60 Types and scope of Federal audits. #####
 
-Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) OCSE will conduct audits, at least once every three years (or more frequently if the State fails to meet performance standards and reliability of data requirements) to assess the completeness, authenticity, reliability, accuracy and security of data and the systems used to process the data in calculating performance indicators under this part;
 

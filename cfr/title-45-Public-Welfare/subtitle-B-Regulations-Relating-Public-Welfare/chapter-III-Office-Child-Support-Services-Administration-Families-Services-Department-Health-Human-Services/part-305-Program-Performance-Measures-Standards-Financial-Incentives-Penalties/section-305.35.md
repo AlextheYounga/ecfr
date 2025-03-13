@@ -1,6 +1,6 @@
 ##### § 305.35 Reinvestment. #####
 
-Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) A State must expend the full amount of incentive payments received under this part to supplement, and not supplant, other funds used by the State to carry out IV-D program activities or funds for other activities approved by the Secretary which may contribute to improving the effectiveness or efficiency of the State's IV-D program, including cost-effective contracts with local agencies, whether or not the expenditures for the activity are eligible for reimbursement under this part.
 

@@ -1,6 +1,6 @@
 ##### § 302.85 Mandatory computerized support enforcement system. #####
 
-Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) *General.* The State plan shall provide that the State will have in effect a computerized support enforcement system:
 

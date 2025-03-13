@@ -1,6 +1,6 @@
 ##### § 310.30 Under what circumstances would FFP be suspended or disallowed in the costs of Computerized Tribal IV-D Systems? #####
 
-Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107021, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) *Suspension of APD approval.* OCSE will suspend approval of the APD for a Computerized Tribal IV-D System approved under this part as of the date that the system ceases to comply substantially with the criteria, requirements, and other provisions of the APD. OCSE will notify a Tribal IV-D agency in writing in a notice of suspension, with such suspension effective as of the date on which there is no longer substantial compliance.
 

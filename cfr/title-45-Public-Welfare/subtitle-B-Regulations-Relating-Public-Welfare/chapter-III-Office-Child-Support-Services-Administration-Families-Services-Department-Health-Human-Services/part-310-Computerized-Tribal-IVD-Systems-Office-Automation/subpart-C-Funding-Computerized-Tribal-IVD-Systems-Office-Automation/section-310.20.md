@@ -1,6 +1,6 @@
 ##### § 310.20 What are the conditions for funding the installation, operation, maintenance and enhancement of Computerized Tribal IV-D Systems and Office Automation? #####
 
-Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107021, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) *Conditions that must be met for FFP at the applicable matching rate in § 309.130(c) of this chapter for Computerized Tribal IV-D Systems.* The following conditions must be met to obtain 100 percent FFP in the costs of installation of the Model Tribal IV-D System and FFP at the applicable matching rate under § 309.130(c) of this chapter in the costs of operation, maintenance, and enhancement of a Computerized Tribal IV-D System:
 

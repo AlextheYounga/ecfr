@@ -1,6 +1,6 @@
 ##### § 305.66 Notice, corrective action year, and imposition of penalty. #####
 
-Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) If a State is found by the Secretary to be subject to a penalty as described in § 305.61, the OCSE will notify the State, in a record, of such finding.
 

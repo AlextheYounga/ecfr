@@ -1,6 +1,6 @@
 ##### § 304.30 Public sources of State's share. #####
 
-Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) Public funds, other than those derived from private resources, used by the IV-D agency for its child support enforcement program may be considered as the State's share in claiming Federal reimbursement where such funds are:
 

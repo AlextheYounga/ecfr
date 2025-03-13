@@ -1,6 +1,6 @@
 ##### § 303.72 Requests for collection of past-due support by Federal tax refund offset. #####
 
-Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) *Past-due support qualifying for offset.* Past-due support as defined in § 301.1 of this chapter qualifies for offset if:
 

@@ -1,6 +1,6 @@
 ##### § 309.20 Who submits a Tribal IV-D program application and where? #####
 
-Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) The authorized representative of the Tribe or Tribal organization must sign and submit the Tribal IV-D program application.
 

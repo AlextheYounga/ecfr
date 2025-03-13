@@ -1,6 +1,6 @@
 ##### § 309.130 How will Tribal IV-D programs be funded and what forms are required? #####
 
-Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 107020, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) *General mechanism.* (1) Tribes and Tribal organizations with approved Tribal plans under title IV-D will receive Federal grant funds in an amount equal to the percentage specified in paragraph (c) of this section of the total amount of approved and allowable expenditures under the plan for the administration of the Tribal child support enforcement program.
 

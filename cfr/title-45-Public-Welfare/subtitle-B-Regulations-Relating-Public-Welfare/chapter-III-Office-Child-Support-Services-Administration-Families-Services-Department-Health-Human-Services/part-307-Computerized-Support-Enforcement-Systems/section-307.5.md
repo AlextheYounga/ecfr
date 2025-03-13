@@ -1,6 +1,6 @@
 ##### § 307.5 Mandatory computerized support enforcement systems. #####
 
-Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 (a) *Basic requirement.* (1) By October 1, 1997, each State must have in effect an operational computerized support enforcement system, which meets Federal requirements under § 302.85(a)(1) of this chapter, OCSE will review each system to certify that these requirements are met; and
 

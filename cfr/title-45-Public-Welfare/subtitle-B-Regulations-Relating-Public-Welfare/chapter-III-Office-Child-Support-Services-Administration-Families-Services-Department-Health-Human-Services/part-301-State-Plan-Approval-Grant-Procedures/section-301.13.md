@@ -1,6 +1,6 @@
 ##### § 301.13 Approval of State plans and amendments. #####
 
-Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 The State plan consists of records furnished by the State to cover its Child Support Enforcement program under title IV-D of the Act. After approval of the original plan by the Office, all relevant changes, required by new statutes, rules, regulations, interpretations, and court decisions, are required to be submitted currently so that the Office may determine whether the plan continues to meet Federal requirements and policies.
 

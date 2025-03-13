@@ -1,6 +1,6 @@
 ##### § 304.23 Expenditures for which Federal financial participation is not available. #####
 
-Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
 Federal financial participation at the applicable matching rate is not available for:
 
