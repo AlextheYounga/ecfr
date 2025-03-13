@@ -1,5 +1,7 @@
 ##### § 429.43 Commercial heating, ventilating, air conditioning (HVAC) equipment (excluding air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 British thermal units per hour and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with less than 65,000 British thermal units per hour cooling capacity). #####
 
+Link to an amendment published at 89 FR 82064, Oct. 9, 2024.
+
 (a) Determination of represented values. Manufacturers must determine the represented values, which include the certified ratings, for each basic model of commercial HVAC equipment either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM.
 
 (1) *Units to be tested.* (i) If the represented value is determined through testing, the general requirements of § 429.11 are applicable; and

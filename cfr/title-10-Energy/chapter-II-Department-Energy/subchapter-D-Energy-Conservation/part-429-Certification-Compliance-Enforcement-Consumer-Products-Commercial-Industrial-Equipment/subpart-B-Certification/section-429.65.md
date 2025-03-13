@@ -1,5 +1,7 @@
 ##### § 429.65 Dedicated-purpose pool pump motors. #####
 
+Link to an amendment published at 89 FR 82068, Oct. 9, 2024.
+
 (a) *Applicability.* This section applies to dedicated purpose motors that are subject to requirements in subpart Z of part 431 of this subchapter. Starting on the compliance date for any standards for dedicated-purpose pool pump motors published after January 1, 2021, manufacturers of dedicated-purpose pool pump motors subject to such standards must make representations of energy efficiency, including representations for certification of compliance, in accordance with this section. Prior to the compliance date for any standards for dedicated-purpose pool pump motors published after January 1, 2021, and on or after April 17, 2023, manufacturers of dedicated-purpose pool pump motors subject to test procedures in subpart Z of part 431 of this subchapter choosing to make representations of energy efficiency must follow the provisions in paragraph (c) of this section.
 
 (b) *Compliance certification.* A manufacturer may not certify the compliance of a dedicated-purpose pool pump motor pursuant to 10 CFR 429.12 unless:

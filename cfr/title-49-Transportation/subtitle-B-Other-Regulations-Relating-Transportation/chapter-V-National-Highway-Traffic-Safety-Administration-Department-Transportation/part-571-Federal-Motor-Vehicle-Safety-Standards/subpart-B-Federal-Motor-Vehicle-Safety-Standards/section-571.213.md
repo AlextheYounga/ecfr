@@ -1,5 +1,7 @@
 ##### § 571.213 Child restraint systems; Applicable unless a vehicle or child restraint system is certified to § 571.213b. #####
 
+Link to an amendment published at 89 FR 81844, Oct. 9, 2024.
+
 S1. *Scope.* This standard specifies requirements for child restraint systems used in motor vehicles and aircraft.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of children killed or injured in motor vehicle crashes and in aircraft.

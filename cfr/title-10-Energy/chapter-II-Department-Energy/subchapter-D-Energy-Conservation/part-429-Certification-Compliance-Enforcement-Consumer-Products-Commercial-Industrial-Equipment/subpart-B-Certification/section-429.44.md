@@ -1,5 +1,7 @@
 ##### § 429.44 Commercial water heating equipment. #####
 
+Link to an amendment published at 89 FR 82066, Oct. 9, 2024.
+
 (a) For residential-duty commercial water heaters, all represented values must be determined in accordance with § 429.17.
 
 (b) *Determination of represented values for all types of commercial water heaters except residential-duty commercial water heaters.* Manufacturers must determine the represented values, which includes the certified ratings, for each basic model of commercial water heating equipment except residential-duty commercial water heaters, either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM as set forth in § 429.70.

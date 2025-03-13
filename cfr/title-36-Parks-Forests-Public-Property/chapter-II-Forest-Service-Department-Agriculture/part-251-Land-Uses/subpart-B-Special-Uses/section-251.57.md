@@ -1,7 +1,5 @@
 ##### § 251.57 Land use fees. #####
 
-Link to an amendment published at 89 FR 72994, Sept. 9, 2024.
-
 (a) Except as otherwise provided in this part or when specifically authorized by the Secretary of Agriculture, special use authorizations shall require the payment in advance of an annual rental fee as determined by the authorized officer.
 
 (1) The fee shall be based on the fair market value of the rights and privileges authorized, as determined by appraisal or other sound business management principles.
@@ -36,4 +34,6 @@ Link to an amendment published at 89 FR 72994, Sept. 9, 2024.
 
 (h) Each ski area permit issued under the National Forest Ski Area Permit Act shall include a clause that provides that the Forest Service may adjust and calculate future land use fees to reflect Forest Service revisions to the existing system for determining land use fees based on fair market value or to comply with any new system for determining land use fees based on fair market value that may be adopted after issuance of the permit.
 
-[45 FR 38327, June 6, 1980, as amended at 51 FR 16683, May 6, 1986; 54 FR 22594, May 25, 1989; 60 FR 45294, Aug. 30, 1995; 63 FR 65967, Nov. 30, 1998; 71 FR 16621, Apr. 3, 2006; 88 FR 84708, Dec. 6, 2023]
+(i) The annual land use fee for a recreation residence permit shall be temporarily reduced during periods of significantly restricted access to or occupancy of the recreation residence. A temporary land use fee reduction for significantly restricted access to or occupancy of a recreation residence shall be calculated by dividing the annual land use fee for the recreation residence permit by 365 to determine the daily land use fee and then multiplying the daily land use fee by the number of days of significantly restricted access to or occupancy of the recreation residence. If significantly restricted access to or occupancy of the recreation residence includes part of one day, that day shall be counted as a whole day. A temporary land use fee reduction during significantly restricted access to or occupancy of a recreation residence shall be applied as a credit to the annual land use fee for the recreation residence permit for the following year.
+
+[45 FR 38327, June 6, 1980, as amended at 51 FR 16683, May 6, 1986; 54 FR 22594, May 25, 1989; 60 FR 45294, Aug. 30, 1995; 63 FR 65967, Nov. 30, 1998; 71 FR 16621, Apr. 3, 2006; 88 FR 84708, Dec. 6, 2023; 89 FR 72994, Sept. 9, 2024]

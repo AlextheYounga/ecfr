@@ -1,5 +1,7 @@
 ##### § 571.213a Standard No. 213a; Child restraint systems—side impact protection. #####
 
+Link to an amendment published at 89 FR 81846, Oct. 9, 2024.
+
 S1. *Scope.* This standard specifies side impact protection requirements for child restraint systems recommended for children in a weight range that includes weights up to 18 kilograms (40 pounds) or by children in a height range that includes heights up to 1100 millimeters (43 inches).
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of children killed or injured in motor vehicle side impacts. Each child restraint system subject to this standard shall also meet all applicable requirements in FMVSS No. 213 (§ 571.213).

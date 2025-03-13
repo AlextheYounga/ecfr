@@ -1,5 +1,7 @@
 ##### § 429.45 Automatic commercial ice makers. #####
 
+Link to an amendment published at 89 FR 82067, Oct. 9, 2024.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to automatic commercial ice makers; and
 
 (2) For each basic model of automatic commercial ice maker selected for testing, a sample of sufficient size shall be randomly selected and tested to ensure that any represented value of energy use, condenser water use, or other measure of consumption of a basic model for which consumers would favor lower values shall be greater than or equal to the higher of:

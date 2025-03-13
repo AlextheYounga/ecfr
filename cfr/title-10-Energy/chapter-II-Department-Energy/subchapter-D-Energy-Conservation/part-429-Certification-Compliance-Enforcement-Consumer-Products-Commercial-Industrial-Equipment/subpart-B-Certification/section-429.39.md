@@ -1,5 +1,7 @@
 ##### § 429.39 Battery chargers. #####
 
+Link to an amendment published at 89 FR 82063, Oct. 9, 2024.
+
 (a) *Determination of represented value.* Manufacturers must determine represented values, which include certified ratings, for each basic model of battery charger in accordance with the following sampling provisions.
 
 (1) *Represented values include:* The unit energy consumption (UEC) in kilowatt-hours per year (kWh/yr), battery discharge energy (Ebatt) in watt hours (Wh), 24-hour energy consumption (E24) in watt hours (Wh), maintenance mode power (Pm) in watts (W), standby mode power (Psb) in watts (W), off mode power (Poff) in watts (W), and duration of the charge and maintenance mode test (tcd) in hours (hrs) for all battery chargers other than uninterruptible power supplies (UPSs); and average load adjusted efficiency (Effavg) for UPSs.

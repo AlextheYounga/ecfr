@@ -1,5 +1,7 @@
 ##### § 429.72 Alternative methods for determining non-energy ratings. #####
 
+Link to an amendment published at 89 FR 82070, Oct. 9, 2024.
+
 (a) *General.* Where § 429.14 through § 429.562 authorize the use of an alternative method for determining a physical or operating characteristic other than the energy consumption or efficiency, such characteristics must be determined either by testing in accordance with the applicable test procedure and applying the specified sampling plan provisions established in those sections or as described in the appropriate product-specific paragraph below. In all cases, the computer-aided design (CAD) models, measurements, and calculations used to determine the rating for the physical or operating characteristic shall be retained as part of the test records underlying the certification of the basic model in accordance with § 429.71.
 
 (b) *Testing.* [Reserved]

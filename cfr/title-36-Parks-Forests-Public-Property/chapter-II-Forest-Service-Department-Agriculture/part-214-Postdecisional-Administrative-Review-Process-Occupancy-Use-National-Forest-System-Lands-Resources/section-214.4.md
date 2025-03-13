@@ -1,7 +1,5 @@
 ##### § 214.4 Decisions that are appealable. #####
 
-Link to an amendment published at 89 FR 72994, Sept. 9, 2024.
-
 To be appealable under this part, a decision must be issued by a Responsible Official in writing and must fall into one of the following categories:
 
 (a) *Livestock grazing.* (1) Modification of a term grazing permit issued under 36 CFR part 222, subpart A. Issuance of annual operating instructions does not constitute a permit modification and is not an appealable decision;
@@ -58,8 +56,10 @@ To be appealable under this part, a decision must be issued by a Responsible Off
 
 (5) Denial of renewal of a special use authorization if it specifically provides for renewal and if the holder requests renewal of the authorization before it expires.
 
+(6) A decision of whether to temporarily reduce the annual land use fee for a recreation residence permit during a period of significantly restricted access to or occupancy of the recreation residence.
+
 (d) *Other land uses.* Denial or revocation of a certification of compliance issued under 36 CFR part 292, subpart C, related to the use, subdivision, and development of privately owned property within the boundaries of the Sawtooth National Recreation Area.
 
 (e) *Paleontological resources.* An authorization or permit issued under the Paleontological Resources Preservation Act of 2009 and 36 CFR part 291 for collection of paleontological resources.
 
-[78 FR 33717, June 5, 2013, as amended at 80 FR 21629, Apr. 17, 2015; 88 FR 84707, Dec. 6, 2023]
+[78 FR 33717, June 5, 2013, as amended at 80 FR 21629, Apr. 17, 2015; 88 FR 84707, Dec. 6, 2023; 89 FR 72994, Sept. 9, 2024]

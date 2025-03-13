@@ -1,5 +1,7 @@
 ##### § 429.68 Air cleaners. #####
 
+Link to an amendment published at 89 FR 82069, Oct. 9, 2024.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to air cleaners; and
 
 (2) For each basic mode of air cleaners, a sample of sufficient size shall be randomly selected and tested to ensure that—

@@ -12,7 +12,7 @@
 |                                       Pieces of stem                                       |         1 per 24 ounces          |           1 per 16 ounces.            |
 |                                  Seeds (in Seeded style)                                   |         12 per 16 ounces         |           15 per 16 ounces.           |
 |                                                                                            |   Maximum (percent by weight)    |                                       |
-|Capstems—Zantes with capstems and loose capstems (include one Zante with each loose capstem)|               11/2               |                   2                   |
+|Capstems—Zantes with capstems and loose capstems (include one Zante with each loose capstem)|    1<sup>1</sup>⁄<sub>2</sub>    |                   2                   |
 |                                          Sugared                                           |                5                 |                  10                   |
 |                               Discolored, damaged, or moldy                                |                5                 |                   7                   |
 |                          Provided these limits are not exceeded:                           |                                  |                                       |

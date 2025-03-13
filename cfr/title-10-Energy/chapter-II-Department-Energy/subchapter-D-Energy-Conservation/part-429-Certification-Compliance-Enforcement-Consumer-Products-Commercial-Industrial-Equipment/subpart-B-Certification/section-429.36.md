@@ -1,5 +1,7 @@
 ##### § 429.36 Dehumidifiers. #####
 
+Link to an amendment published at 89 FR 82062, Oct. 9, 2024.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to dehumidifiers; and
 
 (2) For each basic model of dehumidifier selected for testing, a sample of sufficient size shall be randomly selected and tested to ensure that—

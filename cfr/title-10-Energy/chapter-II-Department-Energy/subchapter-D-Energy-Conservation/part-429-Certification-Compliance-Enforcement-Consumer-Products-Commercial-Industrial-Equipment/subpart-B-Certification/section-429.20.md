@@ -1,5 +1,7 @@
 ##### § 429.20 Residential clothes washers. #####
 
+Link to an amendment published at 89 FR 82061, Oct. 9, 2024.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to residential clothes washers; and
 
 (2) For each basic model of residential clothes washers, a sample of sufficient size shall be randomly selected and tested to ensure that—
