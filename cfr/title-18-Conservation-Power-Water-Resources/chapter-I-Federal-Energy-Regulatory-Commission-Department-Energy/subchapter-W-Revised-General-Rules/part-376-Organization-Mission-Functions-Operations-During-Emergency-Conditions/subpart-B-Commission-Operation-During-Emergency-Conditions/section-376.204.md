@@ -1,4 +1,4 @@
-##### § 376.204 Delegation of Commission authority during emergency conditions #####
+##### § 376.204 Delegation of Commission authority during emergency conditions. #####
 
 (a) *Delegation of authority to one or two Commissioners.* During emergency conditions, the Commission shall function as usual, if a quorum of the Commission is available and capable of acting. If by reason of such conditions a quorum of the Commission is not available and capable of acting, all functions of the Commission are delegated to the Commissioner or Commissioners who are available and capable of acting.
 

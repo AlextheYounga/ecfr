@@ -1,6 +1,6 @@
 ##### § 3555.303 Traditional servicing options. #####
 
-Link to an amendment published at 89 FR 66193, Aug. 15, 2024.
+Link to an amendment published at 89 FR 66193, Aug. 15, 2024.Link to a delay of the above amendment published at 90 FR 9375, Feb. 12, 2025.
 
 (a) *Eligibility.* To be eligible for traditional servicing, all the following conditions must be met:
 

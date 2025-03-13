@@ -1,6 +1,6 @@
 ##### § 3555.304 Special servicing options. #####
 
-Link to an amendment published at 89 FR 66194, Aug. 15, 2024.
+Link to an amendment published at 89 FR 66194, Aug. 15, 2024.Link to a delay of the above amendment published at 90 FR 9375, Feb. 12, 2025.
 
 (a) *General.* (1) Lenders must exhaust traditional servicing options outlined in this part or have determined that use of traditional servicing options would not resolve the delinquency, prior to special servicing options. Lenders must exhaust special servicing options prior to liquidation in accordance with §§ 3555.305 or 3555.306.
 
