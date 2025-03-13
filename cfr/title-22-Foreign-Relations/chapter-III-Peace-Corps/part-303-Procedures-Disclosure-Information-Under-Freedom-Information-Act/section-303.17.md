@@ -34,7 +34,7 @@
 
 (3) The General Counsel, or designee, in consultation with appropriate Peace Corps officials, including the Peace Corps' FOIA Officer, or designee, and in light of the considerations listed in paragraph (d) of this section, will determine whether the person on whom the demand was served should respond to the demand.
 
-(4) To the extent he deems it necessary or appropriate, the General Counsel or designee, may also require from the party causing such demand to be issued or served a plan of all reasonably foreseeable demands, including but not limited to names of all employees and former employees from whom discovery will be sought, areas of inquiry, length of time of proceedings requiring oral testimony and identification of documents to be used or whose production is sought.
+(4) To the extent deemed necessary or appropriate, the General Counsel or designee may also require from the party causing such demand to be issued or served a plan of all reasonably foreseeable demands, including but not limited to names of all employees and former employees from whom discovery will be sought, areas of inquiry, length of time of proceedings requiring oral testimony and identification of documents to be used or whose production is sought.
 
 (c) *Considerations in determining whether production or disclosure should be made pursuant to a demand.* (1) In deciding whether to make disclosures pursuant to a demand, the General Counsel or designee, may consider, among things:
 
@@ -58,4 +58,4 @@
 
 (vii) Disclosure would impair an ongoing Inspector General or Department of Justice investigation.
 
-[68 FR 66008, Nov. 25, 2003, as amended at 79 FR 19820, Apr. 10, 2014. Redesignated and amended at 89 FR 25525, 25530 Apr. 11, 2024]
+[68 FR 66008, Nov. 25, 2003, as amended at 79 FR 19820, Apr. 10, 2014. Redesignated and amended at 89 FR 25525, 25530 Apr. 11, 2024; 89 FR 50522, June 14, 2024]

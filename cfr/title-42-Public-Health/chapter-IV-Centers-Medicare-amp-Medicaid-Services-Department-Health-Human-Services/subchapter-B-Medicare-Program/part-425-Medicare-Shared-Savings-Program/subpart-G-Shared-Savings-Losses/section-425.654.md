@@ -2,7 +2,7 @@
 
 (a) *Calculating county expenditures.* For agreement periods beginning on January 1, 2024, and in subsequent years, CMS does all of the following to determine risk adjusted county fee-for-service expenditures for use in calculating the ACO's regional fee-for-service expenditures:
 
-(i) Determines average county fee-for-service expenditures based on expenditures for the assignable population of beneficiaries in each county in the ACO's regional service area. The assignable population of beneficiaries is identified for the relevant benchmark or performance year using the assignment window or expanded window for assignment that is consistent with the beneficiary assignment methodology selected by the ACO for the performance year according to § 425.400(a)(4)(ii).
+(1)(i) Determines average county fee-for-service expenditures based on expenditures for the assignable population of beneficiaries in each county in the ACO's regional service area. The assignable population of beneficiaries is identified for the relevant benchmark or performance year using the assignment window or expanded window for assignment that is consistent with the beneficiary assignment methodology selected by the ACO for the performance year according to § 425.400(a)(4)(ii).
 
 (ii) Makes separate expenditure calculations for each of the following populations of beneficiaries:
 

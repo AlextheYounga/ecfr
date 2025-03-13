@@ -1,7 +1,5 @@
 ##### § 242.614 Registration and responsibilities of competing consolidators. #####
 
-Link to an amendment published at 89 FR 26617, Apr. 15, 2024.
-
 (a) *Competing consolidator registration*—(1) *Initial Form CC*—(i) *Filing and effectiveness requirement.* No person, other than a national securities exchange or a national securities association:
 
 (A) May receive directly, pursuant to an effective national market system plan, from a national securities exchange or national securities association information with respect to quotations for and transactions in NMS stocks; and
@@ -50,11 +48,11 @@ Link to an amendment published at 89 FR 26617, Apr. 15, 2024.
 
 (d) *Responsibilities of competing consolidators.* Each competing consolidator shall:
 
-(1) Collect from each national securities exchange and national securities association, either directly or indirectly, any information with respect to quotations for and transactions in NMS stocks as provided in § 242.603(b) that is necessary to create a consolidated market data product, as defined in § 242.600(b)(20).
+(1) Collect from each national securities exchange and national securities association, either directly or indirectly, any information with respect to quotations for and transactions in NMS stocks as provided in § 242.603(b) that is necessary to create a consolidated market data product, as defined in § 242.600(b)(25).
 
-(2) Calculate and generate a consolidated market data product, as defined in § 242.600(b)(20), from the information collected pursuant to paragraph (d)(1) of this section.
+(2) Calculate and generate a consolidated market data product, as defined in § 242.600(b)(25), from the information collected pursuant to paragraph (d)(1) of this section.
 
-(3) Make a consolidated market data product, as defined in § 242.600(b)(20), as timestamped as required by paragraph (d)(4) of this section and including the national securities exchange and national securities association data generation timestamp required to be provided by the national securities exchange and national securities association participants by paragraph (e)(2) of this section, available to subscribers on a consolidated basis on terms that are not unreasonably discriminatory.
+(3) Make a consolidated market data product, as defined in § 242.600(b)(25), as timestamped as required by paragraph (d)(4) of this section and including the national securities exchange and national securities association data generation timestamp required to be provided by the national securities exchange and national securities association participants by paragraph (e)(2) of this section, available to subscribers on a consolidated basis on terms that are not unreasonably discriminatory.
 
 (4) Timestamp the information collected pursuant to paragraph (d)(1) of this section upon:
 
@@ -140,4 +138,4 @@ Link to an amendment published at 89 FR 26617, Apr. 15, 2024.
 
 (iii) Listed on exchanges other than NYSE or Nasdaq.
 
-[86 FR 18811, Apr. 9, 2021
+[86 FR 18811, Apr. 9, 2021, as amended at 89 FR 26617, Apr. 15, 2024]

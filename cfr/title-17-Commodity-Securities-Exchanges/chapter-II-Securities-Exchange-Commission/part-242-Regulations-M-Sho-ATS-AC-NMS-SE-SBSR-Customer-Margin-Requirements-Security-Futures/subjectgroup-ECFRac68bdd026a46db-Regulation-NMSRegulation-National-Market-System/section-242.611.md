@@ -1,7 +1,5 @@
 ##### § 242.611 Order protection rule. #####
 
-Link to an amendment published at 89 FR 26616, Apr. 15, 2024.
-
 (a) *Reasonable policies and procedures.* (1) A trading center shall establish, maintain, and enforce written policies and procedures that are reasonably designed to prevent trade-throughs on that trading center of protected quotations in NMS stocks that do not fall within an exception set forth in paragraph (b) of this section and, if relying on such an exception, that are reasonably designed to assure compliance with the terms of the exception.
 
 (2) A trading center shall regularly surveil to ascertain the effectiveness of the policies and procedures required by paragraph (a)(1) of this section and shall take prompt action to remedy deficiencies in such policies and procedures.
@@ -30,8 +28,8 @@ Link to an amendment published at 89 FR 26616, Apr. 15, 2024.
 
 (iii) The price of the trade-through transaction was, for a stopped buy order, lower than the national best bid in the NMS stock at the time of execution or, for a stopped sell order, higher than the national best offer in the NMS stock at the time of execution.
 
-(c) *Intermarket sweep orders.* The trading center, broker, or dealer responsible for the routing of an intermarket sweep order shall take reasonable steps to establish that such order meets the requirements set forth in § 242.600(b)(38).
+(c) *Intermarket sweep orders.* The trading center, broker, or dealer responsible for the routing of an intermarket sweep order shall take reasonable steps to establish that such order meets the requirements set forth in § 242.600(b)(47).
 
 (d) *Exemptions.* The Commission, by order, may exempt from the provisions of this section, either unconditionally or on specified terms and conditions, any person, security, transaction, quotation, or order, or any class or classes of persons, securities, quotations, or orders, if the Commission determines that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.
 
-[70 FR 37620, June 29, 2005, as amended at 83 FR 58429, Nov. 19, 2018; 86 FR 18811, Apr. 9, 2021]
+[70 FR 37620, June 29, 2005, as amended at 83 FR 58429, Nov. 19, 2018; 86 FR 18811, Apr. 9, 2021; 89 FR 26616, Apr. 15, 2024]

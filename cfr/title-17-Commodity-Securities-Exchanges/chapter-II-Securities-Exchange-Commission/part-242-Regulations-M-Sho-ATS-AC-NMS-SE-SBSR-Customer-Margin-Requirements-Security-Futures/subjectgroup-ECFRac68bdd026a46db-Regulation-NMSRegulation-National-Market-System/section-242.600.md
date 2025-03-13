@@ -1,12 +1,8 @@
 ##### § 242.600 NMS security designation and definitions. #####
 
-Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
-
 (a) The term *national market system security* as used in section 11A(a)(2) of the Act (15 U.S.C. 78k-1(a)(2)) shall mean any NMS security as defined in paragraph (b) of this section.
 
-(b) For purposes of Regulation NMS (§§ 242.600 through 242.612), the following definitions shall apply:
-
-(1) *Actionable indication of interest* means any indication of interest that explicitly or implicitly conveys all of the following information with respect to any order available at the venue sending the indication of interest:
+(b)(1) *Actionable indication of interest* means any indication of interest that explicitly or implicitly conveys all of the following information with respect to any order available at the venue sending the indication of interest:
 
 (i) Symbol;
 
@@ -46,37 +42,95 @@ Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
 
 (iv) Has adopted reasonable standards limiting when its quotations change from automated quotations to manual quotations, and vice versa, to specifically defined circumstances that promote fair and efficient access to its automated quotations and are consistent with the maintenance of fair and orderly markets.
 
-(8) *Average effective spread* means the share-weighted average of effective spreads for order executions calculated, for buy orders, as double the amount of difference between the execution price and the midpoint of the national best bid and national best offer at the time of order receipt and, for sell orders, as double the amount of difference between the midpoint of the national best bid and national best offer at the time of order receipt and the execution price.
+(8) *Average effective spread* means the share-weighted average of effective spreads for order executions calculated, for buy orders, as double the amount of difference between the execution price and the midpoint of the national best bid and national best offer at the time of order receipt and, for sell orders, as double the amount of difference between the midpoint of the national best bid and national best offer at the time of order receipt and the execution price. For order executions of midpoint-or-better limit orders, average effective spread shall be calculated from the time such orders first become executable rather than the time of order receipt.
 
-(9) *Average realized spread* means the share-weighted average of realized spreads for order executions calculated, for buy orders, as double the amount of difference between the execution price and the midpoint of the national best bid and national best offer five minutes after the time of order execution and, for sell orders, as double the amount of difference between the midpoint of the national best bid and national best offer five minutes after the time of order execution and the execution price; *provided, however,* that the midpoint of the final national best bid and national best offer disseminated for regular trading hours shall be used to calculate a realized spread if it is disseminated less than five minutes after the time of order execution.
+(9) *Average midpoint* means the share-weighted average of the midpoint of the national best bid and national best offer at the time of order receipt or, for non-marketable limit orders, midpoint-or-better limit orders, and orders submitted with stop prices, at the time such orders first become executable.
 
-(10) *Best bid and best offer* mean the highest priced bid and the lowest priced offer.
+(10) *Average percentage effective spread* means the average effective spread for order executions divided by the average midpoint for order executions.
 
-(11) *Bid* or *offer* means the bid price or the offer price communicated by a member of a national securities exchange or member of a national securities association to any broker or dealer, or to any customer, at which it is willing to buy or sell one or more round lots of an NMS security, as either principal or agent, but shall not include indications of interest.
+(11) *Average percentage realized spread* means the average realized spread for order executions divided by the average midpoint for order executions.
 
-(12) *Block size with respect to* an order means it is:
+(12) *Average quoted spread* means the share-weighted average of the difference between the national best offer and the national best bid at the time of order receipt or, for order executions of midpoint-or-better limit orders, the difference between the national best offer and the national best bid at the time such orders first become executable.
+
+(13) *Average realized spread* means the share-weighted average of realized spreads for order executions calculated, for buy orders, as double the amount of difference between the execution price and the midpoint of the national best bid and national best offer at a specified interval after the time of order execution and, for sell orders, as double the amount of difference between the midpoint and the national best bid and national best offer at a specified interval after the time of order execution and the execution price; provided, however, that the midpoint of the final national best bid and national best offer disseminated for regular trading hours shall be used to calculate a realized spread if it is disseminated less than that specified interval after the time of order execution.
+
+(14) *Best available displayed price* means, with respect to an order to buy, the lower of: the national best offer at the time of order receipt or the price of the best odd-lot order to sell at the time of order receipt as disseminated pursuant to an effective transaction reporting plan or effective national market system plan; and, with respect to an order to sell, the higher of: the national best bid at the time of order receipt or the price of the best odd-lot order to buy at the time of order receipt as disseminated pursuant to an effective transaction reporting plan or effective national market system plan. With respect to a midpoint-or-better limit order, the best available displayed price shall be determined at the time such order becomes executable rather than the time of order receipt.
+
+(15) *Best bid and best offer* mean the highest priced bid and the lowest priced offer.
+
+(16) *Bid or offer* means the bid price or the offer price communicated by a member of a national securities exchange or member of a national securities association to any broker or dealer, or to any customer, at which it is willing to buy or sell one or more round lots of an NMS security, as either principal or agent, but shall not include indications of interest.
+
+(17) *Block size with respect to* an order means it is:
 
 (i) Of at least 10,000 shares; or
 
 (ii) For a quantity of stock having a market value of at least $200,000.
 
-(13) *Categorized by order size* means dividing orders into separate categories for sizes from 100 to 499 shares, from 500 to 1999 shares, from 2000 to 4999 shares, and 5000 or greater shares.
+(18) *Categorized by order size* means dividing orders into separate categories for the following sizes:
 
-(14) *Categorized by order type* means dividing orders into separate categories for market orders, marketable limit orders, inside-the-quote limit orders, at-the-quote limit orders, and near-the-quote limit orders.
+(i) Less than $250 and less than a share;
 
-(15) *Categorized by security* means dividing orders into separate categories for each NMS stock that is included in a report.
+(ii) Less than $250 and odd-lot;
 
-(16) *Competing consolidator* means a securities information processor required to be registered pursuant to § 242.614 (Rule 614) or a national securities exchange or national securities association that receives information with respect to quotations for and transactions in NMS stocks and generates a consolidated market data product for dissemination to any person.
+(iii) Less than $250 and at least a round lot;
 
-(17) *Consolidated display* means:
+(iv) $250 to less than $1,000 and less than a share;
+
+(v) $250 to less than $1,000 and odd-lot;
+
+(vi) $250 to less than $1,000 and at least a round lot;
+
+(vii) $1,000 to less than $5,000 and less than a share;
+
+(viii) $1,000 to less than $5,000 and odd-lot;
+
+(ix) $1,000 to less than $5,000 and at least a round lot;
+
+(x) $5,000 to less than $10,000 and less than a share;
+
+(xi) $5,000 to less than $10,000 and odd-lot;
+
+(xii) $5,000 to less than $10,000 and at least a round lot;
+
+(xiii) $10,000 to less than $20,000 and less than a share;
+
+(xiv) $10,000 to less than $20,000 and odd-lot;
+
+(xv) $10,000 to less than $20,000 and at least a round lot;
+
+(xvi) $20,000 to less than $50,000 and less than a share;
+
+(xvii) $20,000 to less than $50,000 and odd-lot;
+
+(xviii) $20,000 to less than $50,000 and at least a round lot;
+
+(xix) $50,000 to less than $200,000 and less than a share;
+
+(xx) $50,000 to less than $200,000 and odd-lot;
+
+(xxi) $50,000 to less than $200,000 and at least a round lot;
+
+(xxii) $200,000 or more and less than a share;
+
+(xxiii) $200,000 or more and odd-lot; and
+
+(xxiv) $200,000 or more and at least a round lot.
+
+(19) *Categorized by order type* means dividing orders into separate categories for market orders, marketable limit orders (excluding immediate-or-cancel orders), marketable immediate-or-cancel orders, midpoint-or-better limit orders (excluding immediate-or-cancel orders), midpoint-or-better limit orders that are immediate-or-cancel, executable non-marketable limit orders (excluding orders submitted with stop prices, midpoint-or-better limit orders, and immediate-or-cancel orders), executable non-marketable orders that are immediate-or-cancel, executable market orders submitted with stop prices, executable stop marketable limit orders, and executable stop non-marketable limit orders.
+
+(20) *Categorized by security* means dividing orders into separate categories for each NMS stock that is included in a report.
+
+(21) *Competing consolidator* means a securities information processor required to be registered pursuant to § 242.614 (Rule 614) or a national securities exchange or national securities association that receives information with respect to quotations for and transactions in NMS stocks and generates a consolidated market data product for dissemination to any person.
+
+(22) *Consolidated display* means:
 
 (i) The prices, sizes, and market identifications of the national best bid and national best offer for a security; and
 
 (ii) Consolidated last sale information for a security.
 
-(18) *Consolidated last sale information* means the price, volume, and market identification of the most recent transaction report for a security that is disseminated pursuant to an effective national market system plan.
+(23) *Consolidated last sale information* means the price, volume, and market identification of the most recent transaction report for a security that is disseminated pursuant to an effective national market system plan.
 
-(19) *Consolidated market data* means the following data, consolidated across all national securities exchanges and national securities associations:
+(24) *Consolidated market data* means the following data, consolidated across all national securities exchanges and national securities associations:
 
 (i) Core data;
 
@@ -88,9 +142,9 @@ Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
 
 (v) Additional regulatory, administrative, or self-regulatory organization-specific program data elements defined as such pursuant to the effective national market system plan or plans required under § 242.603(b).
 
-(20) *Consolidated market data product* means any data product developed by a competing consolidator that contains consolidated market data or data components of consolidated market data. For purposes of this paragraph (b)(20), data components of consolidated market data include the enumerated elements, and any subcomponent of the enumerated elements, of consolidated market data in paragraph (b)(19) of this section. All consolidated market data products must reflect data consolidated across all national securities exchanges and national securities associations.
+(25) *Consolidated market data product* means any data product developed by a competing consolidator that contains consolidated market data or data components of consolidated market data. For purposes of this paragraph (b)(25), data components of consolidated market data include the enumerated elements, and any subcomponent of the enumerated elements, of consolidated market data in paragraph (b)(24) of this section. All consolidated market data products must reflect data consolidated across all national securities exchanges and national securities associations.
 
-(21) *Core data* means:
+(26) *Core data* means:
 
 (i) The following information with respect to quotations for, and transactions in, NMS stocks:
 
@@ -114,129 +168,141 @@ Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
 
 (J) Auction information.
 
-(ii) For purposes of the calculation and dissemination of core data by competing consolidators, as defined in paragraph (b)(16) of this section, and the calculation of core data by self-aggregators, as defined in paragraph (b)(84) of this section, the best bid and best offer, national best bid and national best offer, protected bid and protected offer, and depth of book data shall include odd-lots that when aggregated are equal to or greater than a round lot; such aggregation shall occur across multiple prices and shall be disseminated at the least aggressive price of all such aggregated odd-lots.
+(ii) For purposes of the calculation and dissemination of core data by competing consolidators, as defined in paragraph (b)(21) of this section, and the calculation of core data by self-aggregators, as defined in paragraph (b)(94) of this section, the best bid and best offer, national best bid and national best offer, protected bid and protected offer, and depth of book data shall include odd-lots that when aggregated are equal to or greater than a round lot; such aggregation shall occur across multiple prices and shall be disseminated at the least aggressive price of all such aggregated odd-lots.
 
-(iii) Competing consolidators shall represent the quotation sizes of the following data elements, if disseminated in a consolidated market data product as defined in paragraph (b)(20) of this section, as the number of shares rounded down to the nearest multiple of a round lot: The best bid and best offer, national best bid and national best offer, protected bid and protected offer, depth of book data, and auction information.
+(iii) Competing consolidators shall represent the quotation sizes of the following data elements, if disseminated in a consolidated market data product as defined in paragraph (b)(25) of this section, as the number of shares rounded down to the nearest multiple of a round lot: The best bid and best offer, national best bid and national best offer, protected bid and protected offer, depth of book data, and auction information.
 
-(iv) Competing consolidators shall attribute the following data elements, if disseminated in a consolidated market data product as defined in paragraph (b)(20) of this section, to the national securities exchange or national securities association that is the source of each such data element: Best bid and best offer, national best bid and national best offer, protected bid and protected offer, transaction reports, last sale data, odd-lot information, depth of book data, and auction information.
+(iv) Competing consolidators shall attribute the following data elements, if disseminated in a consolidated market data product as defined in paragraph (b)(25) of this section, to the national securities exchange or national securities association that is the source of each such data element: Best bid and best offer, national best bid and national best offer, protected bid and protected offer, transaction reports, last sale data, odd-lot information, depth of book data, and auction information.
 
-(22) *Covered order* means any market order or any limit order (including immediate-or-cancel orders) received by a market center during regular trading hours at a time when a national best bid and national best offer is being disseminated, and, if executed, is executed during regular trading hours, but shall exclude any order for which the customer requests special handling for execution, including, but not limited to, orders to be executed at a market opening price or a market closing price, orders submitted with stop prices, orders to be executed only at their full size, orders to be executed on a particular type of tick or bid, orders submitted on a “not held” basis, orders for other than regular settlement, and orders to be executed at prices unrelated to the market price of the security at the time of execution.
+(27) *Covered order* means any market order or any limit order (including immediate-or-cancel orders) received by a market center, broker, or dealer during regular trading hours at a time when a national best bid and national best offer is being disseminated and after the primary listing market has disseminated its first firm, uncrossed quotations in the security, and, if executed, is executed during regular trading hours; or any non-marketable limit order (including an order submitted with a stop price) received by a market center, broker, or dealer outside of regular trading hours, or at a time before the primary listing market has disseminated its first firm, uncrossed quotations in the security, or at a time when a national best bid and national best offer is not being disseminated and, if executed, is executed during regular trading hours. Covered order shall exclude any order for which the customer requests special handling for execution, including, but not limited to, orders to be executed at a market opening price or a market closing price, orders to be executed only at their full size, orders to be executed on a particular type of tick or bid, orders submitted on a “not held” basis, orders for other than regular settlement, and orders to be executed at prices unrelated to the market price of the security at the time of execution.
 
-(23) *Customer* means any person that is not a broker or dealer.
+(28) *Customer* means any person that is not a broker or dealer.
 
-(24) *Customer limit order* means an order to buy or sell an NMS stock at a specified price that is not for the account of either a broker or dealer; *provided, however*, that the term *customer limit* order shall include an order transmitted by a broker or dealer on behalf of a customer.
+(29) *Customer limit order* means an order to buy or sell an NMS stock at a specified price that is not for the account of either a broker or dealer; *provided, however,* that the term *customer limit order* shall include an order transmitted by a broker or dealer on behalf of a customer.
 
-(25) *Customer order* means an order to buy or sell an NMS security that is not for the account of a broker or dealer, but shall not include any order for a quantity of a security having a market value of at least $50,000 for an NMS security that is an option contract and a market value of at least $200,000 for any other NMS security.
+(30) *Customer order* means an order to buy or sell an NMS security that is not for the account of a broker or dealer, but shall not include any order for a quantity of a security having a market value of at least $50,000 for an NMS security that is an option contract and a market value of at least $200,000 for any other NMS security.
 
-(26) *Depth of book data* means all quotation sizes at each national securities exchange and on a facility of a national securities association at each of the next five prices at which there is a bid that is lower than the national best bid and offer that is higher than the national best offer. For these five prices, the aggregate size available at each price, if any, at each national securities exchange and national securities association shall be attributed to such exchange or association.
+(31) *Depth of book data* means all quotation sizes at each national securities exchange and on a facility of a national securities association at each of the next five prices at which there is a bid that is lower than the national best bid and offer that is higher than the national best offer. For these five prices, the aggregate size available at each price, if any, at each national securities exchange and national securities association shall be attributed to such exchange or association.
 
-(27) *Directed order* means an order from a customer that the customer specifically instructed the broker or dealer to route to a particular venue for execution.
+(32) *Directed order* means an order from a customer that the customer specifically instructed the broker or dealer to route to a particular venue for execution.
 
-(28) *Dynamic market monitoring device* means any service provided by a vendor on an interrogation device or other display that:
+(33) *Dynamic market monitoring device* means any service provided by a vendor on an interrogation device or other display that:
 
 (i) Permits real-time monitoring, on a dynamic basis, of transaction reports, last sale data, or quotations with respect to a particular security; and
 
 (ii) Displays the most recent transaction report, last sale data, or quotation with respect to that security until such report, data, or quotation has been superseded or supplemented by the display of a new transaction report, last sale data, or quotation reflecting the next reported transaction or quotation in that security.
 
-(29) *Effective national market system plan* means any national market system plan approved by the Commission (either temporarily or on a permanent basis) pursuant to § 242.608.
+(34) *Effective national market system plan* means any national market system plan approved by the Commission (either temporarily or on a permanent basis) pursuant to § 242.608.
 
-(30) *Effective transaction reporting plan* means any transaction reporting plan approved by the Commission pursuant to § 242.601.
+(35) *Effective transaction reporting plan* means any transaction reporting plan approved by the Commission pursuant to § 242.601.
 
-(31) *Electronic communications network* means, for the purposes of § 242.602(b)(5), any electronic system that widely disseminates to third parties orders entered therein by an exchange market maker or OTC market maker, and permits such orders to be executed against in whole or in part; except that the term *electronic communications network* shall not include:
+(36) *Electronic communications network* means, for the purposes of § 242.602(b)(5), any electronic system that widely disseminates to third parties orders entered therein by an exchange market maker or OTC market maker, and permits such orders to be executed against in whole or in part; except that the term *electronic communications network* shall not include:
 
 (i) Any system that crosses multiple orders at one or more specified times at a single price set by the system (by algorithm or by any derivative pricing mechanism) and does not allow orders to be crossed or executed against directly by participants outside of such times; or
 
 (ii) Any system operated by, or on behalf of, an OTC market maker or exchange market maker that executes customer orders primarily against the account of such market maker as principal, other than riskless principal.
 
-(32) *Exchange market maker* means any member of a national securities exchange that is registered as a specialist or market maker pursuant to the rules of such exchange.
+(37) *Exchange market maker* means any member of a national securities exchange that is registered as a specialist or market maker pursuant to the rules of such exchange.
 
-(33) *Exchange-traded security* means any NMS security or class of NMS securities listed and registered, or admitted to unlisted trading privileges, on a national securities exchange; *provided, however*, that securities not listed on any national securities exchange that are traded pursuant to unlisted trading privileges are excluded.
+(38) *Exchange-traded security* means any NMS security or class of NMS securities listed and registered, or admitted to unlisted trading privileges, on a national securities exchange; *provided, however,* that securities not listed on any national securities exchange that are traded pursuant to unlisted trading privileges are excluded.
 
-(34) *Executed at the quote* means, for buy orders, execution at a price equal to the national best offer at the time of order receipt and, for sell orders, execution at a price equal to the national best bid at the time of order receipt.
+(39) *Executable* means, for any non-marketable buy order (excluding orders submitted with stop prices), that the limit price is equal to or greater than the national best bid during regular trading hours and after the primary listing market has disseminated its first firm, uncrossed quotations in the security, and, for any non-marketable sell order (excluding orders submitted with stop prices), that the limit price is equal to or less than the national best offer during regular trading hours and after the primary listing market has disseminated its first firm, uncrossed quotations in the security. Executable means, for any order submitted with a stop price, that the stop price has been triggered during regular trading hours and after the primary listing market has disseminated its first firm, uncrossed quotations in the security. The time an order becomes executable shall be measured in increments of a millisecond or finer.
 
-(35) *Executed outside the quote* means, for buy orders, execution at a price higher than the national best offer at the time of order receipt and, for sell orders, execution at a price lower than the national best bid at the time of order receipt.
+(40) *Executable stop marketable limit order* means, for buy orders, orders submitted with stop prices that have limit prices that are equal to or greater than the national best offer at the time such orders become executable, and, for sell orders, orders submitted with stop prices that have limit prices that are equal to or less than the national best bid at the time such orders become executable.
 
-(36) *Executed with price improvement* means, for buy orders, execution at a price lower than the national best offer at the time of order receipt and, for sell orders, execution at a price higher than the national best bid at the time of order receipt.
+(41) *Executable stop non-marketable limit order* means, for buy orders, orders submitted with stop prices that have limit prices that are less than the national best offer at the time such orders become executable, and, for sell orders, orders submitted with stop prices that have limit prices that are greater than the national best bid at the time such orders become executable.
 
-(37) *Inside-the-quote limit order, at-the-quote limit order*, and *near-the-quote limit order* mean non-marketable buy orders with limit prices that are, respectively, higher than, equal to, and lower by $0.10 or less than the national best bid at the time of order receipt, and non-marketable sell orders with limit prices that are, respectively, lower than, equal to, and higher by $0.10 or less than the national best offer at the time of order receipt.
+(42) *Executed at the quote* means, for buy orders, execution at a price equal to the national best offer at the time of order receipt and, for sell orders, execution at a price equal to the national best bid at the time of order receipt.
 
-(38) *Intermarket sweep order* means a limit order for an NMS stock that meets the following requirements:
+(43) *Executed outside the best available displayed price* means, for buy orders, execution at a price higher than the best available displayed price; and, for sell orders, execution at a price lower than the best available displayed price.
+
+(44) *Executed outside the quote* means, for buy orders, execution at a price higher than the national best offer at the time of order receipt and, for sell orders, execution at a price lower than the national best bid at the time of order receipt.
+
+(45) *Executed with price improvement* means, for buy orders, execution at a price lower than the national best offer at the time of order receipt and, for sell orders, execution at a price higher than the national best bid at the time of order receipt.
+
+(46) *Executed with price improvement relative to the best available displayed price* means, for buy orders, execution at a price lower the best available displayed price and, for sell orders, execution at a price higher than the best available displayed price.
+
+(47) *Intermarket sweep order* means a limit order for an NMS stock that meets the following requirements:
 
 (i) When routed to a trading center, the limit order is identified as an intermarket sweep order; and
 
 (ii) Simultaneously with the routing of the limit order identified as an intermarket sweep order, one or more additional limit orders, as necessary, are routed to execute against the full displayed size of any protected bid, in the case of a limit order to sell, or the full displayed size of any protected offer, in the case of a limit order to buy, for the NMS stock with a price that is superior to the limit price of the limit order identified as an intermarket sweep order. These additional routed orders also must be marked as intermarket sweep orders.
 
-(39) *Interrogation device* means any securities information retrieval system capable of displaying transaction reports, last sale data, or quotations upon inquiry, on a current basis on a terminal or other device.
+(48) *Interrogation device* means any securities information retrieval system capable of displaying transaction reports, last sale data, or quotations upon inquiry, on a current basis on a terminal or other device.
 
-(40) *Joint self-regulatory organization* plan means a plan as to which two or more self-regulatory organizations, acting jointly, are sponsors.
+(49) *Joint self-regulatory organization plan* means a plan as to which two or more self-regulatory organizations, acting jointly, are sponsors.
 
-(41) *Last sale data* means any price or volume data associated with a transaction.
+(50) *Last sale data* means any price or volume data associated with a transaction.
 
-(42) *Listed equity security* means any equity security listed and registered, or admitted to unlisted trading privileges, on a national securities exchange.
+(51) *Listed equity security* means any equity security listed and registered, or admitted to unlisted trading privileges, on a national securities exchange.
 
-(43) *Listed option* means any option traded on a registered national securities exchange or automated facility of a national securities association.
+(52) *Listed option* means any option traded on a registered national securities exchange or automated facility of a national securities association.
 
-(44) *Make publicly available* means posting on an Internet Web site that is free and readily accessible to the public, furnishing a written copy to customers on request without charge, and notifying customers at least annually in writing that a written copy will be furnished on request.
+(53) *Make publicly available* means posting on an internet website that is free and readily accessible to the public, furnishing a written copy to customers on request without charge, and notifying customers at least annually in writing that a written copy will be furnished on request.
 
-(45) *Manual quotation* means any quotation other than an automated quotation.
+(54) *Manual quotation* means any quotation other than an automated quotation.
 
-(46) *Market center* means any exchange market maker, OTC market maker, alternative trading system, national securities exchange, or national securities association.
+(55) *Market center* means any exchange market maker, OTC market maker, alternative trading system, national securities exchange, or national securities association.
 
-(47) *Marketable limit order* means any buy order with a limit price equal to or greater than the national best offer at the time of order receipt, or any sell order with a limit price equal to or less than the national best bid at the time of order receipt.
+(56) *Marketable limit order* means, with respect to an order received at a time when a national best bid and national best offer is being disseminated and after the primary listing market has disseminated its first firm, uncrossed quotations in the security, any buy order with a limit price equal to or greater than the national best offer at the time of order receipt, or any sell order with a limit price equal to or less than the national best bid at the time of order receipt, and, with respect to an order received at a time when a national best bid and national best offer is not being disseminated, any buy order with a limit price equal to or greater than the national best offer at the time that the national best offer is first disseminated during regular trading hours after the time of order receipt, or any sell order with a limit price equal to or less than the national best bid time at the time that the national best bid is first disseminated during regular trading hours after the time of order receipt. For orders received at a time when the national best bid and national best offer is being disseminated but the primary listing market has not disseminated its first firm, uncrossed quotations in the security, whether an order is a marketable limit order shall be determined from the time that the primary listing market disseminates its first firm, uncrossed quotations in the security.
 
-(48) *Moving ticker* means any continuous real-time moving display of transaction reports or last sale data (other than a dynamic market monitoring device) provided on an interrogation or other display device.
+(57) *Midpoint-or-better limit order* means, with respect to an order received at a time when a national best bid and national best offer is being disseminated and the primary listing market has disseminated its first firm, uncrossed quotations in the security, any non-marketable buy order with a limit price that is equal to or higher than the midpoint of the national best bid and national best offer at the time of order receipt and any non-marketable sell order with a limit price that is equal to or lower than the midpoint of the national best bid and national best offer at the time of order receipt, and, with respect to an order received at a time when a national best bid and national best offer is not being disseminated, any non-marketable buy order with a limit price that is equal to or higher than the midpoint of the national best bid and national best offer at the time that the national best bid and national best offer is first disseminated after the time of order receipt, or any non-marketable sell order with a limit price that is equal to or lower than the midpoint of the national best bid and national best offer at the time that the national best bid and national best offer is first disseminated after the time of order receipt. For orders received at a time when the national best bid and national best offer is being disseminated but the primary listing market has not disseminated its first firm, uncrossed quotations in the security, whether an order is a midpoint-or-better limit order shall be determined from the time that the primary listing market disseminates its first firm, uncrossed quotations in the security.
 
-(49) *Nasdaq security* means any registered security listed on The Nasdaq Stock Market, Inc.
+(58) *Moving ticker* means any continuous real-time moving display of transaction reports or last sale data (other than a dynamic market monitoring device) provided on an interrogation or other display device.
 
-(50) *National best bid and national best offer* means, with respect to quotations for an NMS stock, the best bid and best offer for such stock that are calculated and disseminated on a current and continuing basis by a competing consolidator or calculated by a self-aggregator and, for NMS securities other than NMS stocks, the best bid and best offer for such security that are calculated and disseminated on a current and continuing basis by a plan processor pursuant to an effective national market system plan; provided, that in the event two or more market centers transmit to the plan processor, a competing consolidator or a self-aggregator identical bids or offers for an NMS security, the best bid or best offer (as the case may be) shall be determined by ranking all such identical bids or offers (as the case may be) first by size (giving the highest ranking to the bid or offer associated with the largest size), and then by time (giving the highest ranking to the bid or offer received first in time).
+(59) *Nasdaq security* means any registered security listed on The Nasdaq Stock Market, Inc.
 
-(51) *National market system plan* means any joint self-regulatory organization plan in connection with:
+(60) *National best bid and national best offer* means, with respect to quotations for an NMS stock, the best bid and best offer for such stock that are calculated and disseminated on a current and continuing basis by a competing consolidator or calculated by a self-aggregator and, for NMS securities other than NMS stocks, the best bid and best offer for such security that are calculated and disseminated on a current and continuing basis by a plan processor pursuant to an effective national market system plan; provided, that in the event two or more market centers transmit to the plan processor, a competing consolidator or a self-aggregator identical bids or offers for an NMS security, the best bid or best offer (as the case may be) shall be determined by ranking all such identical bids or offers (as the case may be) first by size (giving the highest ranking to the bid or offer associated with the largest size), and then by time (giving the highest ranking to the bid or offer received first in time).
+
+(61) *National market system plan* means any joint self-regulatory organization plan in connection with:
 
 (i) The planning, development, operation or regulation of a national market system (or a subsystem thereof) or one or more facilities thereof; or
 
-(ii) The development and implementation of procedures and/or facilities designed to achieve compliance by self-regulatory organizations and their members with any section of this Regulation NMS and part 240, subpart A of this chapter promulgated pursuant to section 11A of the Act (15 U.S.C. 78k-1).
+(ii) The development and implementation of procedures and/or facilities designed to achieve compliance by self-regulatory organizations and their members with any section of this Regulation NMS and part 240, subpart A, of this chapter promulgated pursuant to section 11A of the Act (15 U.S.C. 78k-1).
 
-(52) *National securities association* means any association of brokers and dealers registered pursuant to section 15A of the Act (15 U.S.C. 78o-3).
+(62) *National securities association* means any association of brokers and dealers registered pursuant to section 15A of the Act (15 U.S.C. 78o-3).
 
-(53) *National securities exchange* means any exchange registered pursuant to section 6 of the Act (15 U.S.C. 78f).
+(63) *National securities exchange* means any exchange registered pursuant to section 6 of the Act (15 U.S.C. 78f).
 
-(54) *NMS security* means any security or class of securities for which transaction reports are collected, processed, and made available pursuant to an effective transaction reporting plan, or an effective national market system plan for reporting transactions in listed options.
+(64) *NMS security* means any security or class of securities for which transaction reports are collected, processed, and made available pursuant to an effective transaction reporting plan, or an effective national market system plan for reporting transactions in listed options.
 
-(55) *NMS stock* means any NMS security other than an option.
+(65) *NMS stock* means any NMS security other than an option.
 
-(56) *Non-directed order* means any order from a customer other than a directed order.
+(66) *Non-directed order* means any order from a customer other than a directed order.
 
-(57) *Non-marketable limit order* means any limit order other than a marketable limit order.
+(67) *Non-marketable limit order* means any limit order other than a marketable limit order.
 
-(58) *Odd-lot* means an order for the purchase or sale of an NMS stock in an amount less than a round lot.
+(68) *Odd-lot* means an order for the purchase or sale of an NMS stock in an amount less than a round lot.
 
-(59) *Odd-lot information* means:
+(69) *Odd-lot information* means:
 
 (i) Odd-lot transaction data disseminated pursuant to the effective national market system plan or plans required under § 242.603(b) as of April 9, 2021; and
 
 (ii) Odd-lots at a price greater than or equal to the national best bid and less than or equal to the national best offer, aggregated at each price level at each national securities exchange and national securities association.
 
-(60) *Options class* means all of the put option or call option series overlying a security, as defined in section 3(a)(10) of the Act (15 U.S.C. 78c(a)(10)).
+(70) *Options class* means all of the put option or call option series overlying a security, as defined in section 3(a)(10) of the Act (15 U.S.C. 78c(a)(10)).
 
-(61) *Options series* means the contracts in an options class that have the same unit of trade, expiration date, and exercise price, and other terms or conditions.
+(71) *Options series* means the contracts in an options class that have the same unit of trade, expiration date, and exercise price, and other terms or conditions.
 
-(62) *Orders providing liquidity* means orders that were executed against after resting at a trading center.
+(72) *Order size benchmark* means the number of shares of the full displayed size of all protected bids at the same price as the national best bid at the time of order receipt, in the case of a market or limit order to sell, or the full displayed size of all protected offers at the same price as the national best offer at the time of order receipt, in the case of a market or limit order to buy. For midpoint-or-better limit orders, the full displayed size should be measured at the time the order becomes executable rather than the time of order receipt. For each order, the share count shall be capped at the order size.
 
-(63) *Orders removing liquidity* means orders that executed against resting trading interest at a trading center.
+(73) *Orders providing liquidity* means orders that were executed against after resting at a trading center.
 
-(64) *OTC market maker* means any dealer that holds itself out as being willing to buy from and sell to its customers, or others, in the United States, an NMS stock for its own account on a regular or continuous basis otherwise than on a national securities exchange in amounts of less than block size.
+(74) *Orders removing liquidity* means orders that executed against resting trading interest at a trading center.
 
-(65) *Participants*, when used in connection with a national market system plan, means any self-regulatory organization which has agreed to act in accordance with the terms of the plan but which is not a signatory of such plan.
+(75) *OTC market maker* means any dealer that holds itself out as being willing to buy from and sell to its customers, or others, in the United States, an NMS stock for its own account on a regular or continuous basis otherwise than on a national securities exchange in amounts of less than block size.
 
-(66) *Payment for order flow* has the meaning provided in § 240.10b-10 of this chapter.
+(76) *Participants,* when used in connection with a national market system plan, means any self-regulatory organization which has agreed to act in accordance with the terms of the plan but which is not a signatory of such plan.
 
-(67) *Plan processor* means any self-regulatory organization or securities information processor acting as an exclusive processor in connection with the development, implementation and/or operation of any facility contemplated by an effective national market system plan.
+(77) *Payment for order flow* has the meaning provided in § 240.10b-10 of this chapter.
 
-(68) *Primary listing exchange* means, for each NMS stock, the national securities exchange identified as the primary listing exchange in the effective national market system plan or plans required under § 242.603(b).
+(78) *Plan processor* means any self-regulatory organization or securities information processor acting as an exclusive processor in connection with the development, implementation and/or operation of any facility contemplated by an effective national market system plan.
 
-(69) *Profit-sharing relationship* means any ownership or other type of affiliation under which the broker or dealer, directly or indirectly, may share in any profits that may be derived from the execution of non-directed orders.
+(79) *Primary listing exchange* means, for each NMS stock, the national securities exchange identified as the primary listing exchange in the effective national market system plan or plans required under § 242.603(b).
 
-(70) *Protected bid* or *protected offer* means a quotation in an NMS stock that:
+(80) *Profit-sharing relationship* means any ownership or other type of affiliation under which the broker or dealer, directly or indirectly, may share in any profits that may be derived from the execution of non-directed orders.
+
+(81) *Protected bid or protected offer* means a quotation in an NMS stock that:
 
 (i) Is displayed by an automated trading center;
 
@@ -244,25 +310,25 @@ Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
 
 (iii) Is an automated quotation that is the best bid or best offer of a national securities exchange, or the best bid or best offer of a national securities association.
 
-(71) *Protected quotation* means a protected bid or a protected offer.
+(82) *Protected quotation* means a protected bid or a protected offer.
 
-(72) *Published aggregate quotation size* means the aggregate quotation size calculated by a national securities exchange and displayed by a vendor on a terminal or other display device at the time an order is presented for execution to a responsible broker or dealer.
+(83) *Published aggregate quotation size* means the aggregate quotation size calculated by a national securities exchange and displayed by a vendor on a terminal or other display device at the time an order is presented for execution to a responsible broker or dealer.
 
-(73) *Published bid and published offer* means the bid or offer of a responsible broker or dealer for an NMS security communicated by it to its national securities exchange or association pursuant to § 242.602 and displayed by a vendor on a terminal or other display device at the time an order is presented for execution to such responsible broker or dealer.
+(84) *Published bid and published offer* means the bid or offer of a responsible broker or dealer for an NMS security communicated by it to its national securities exchange or association pursuant to § 242.602 and displayed by a vendor on a terminal or other display device at the time an order is presented for execution to such responsible broker or dealer.
 
-(74) *Published quotation size* means the quotation size of a responsible broker or dealer communicated by it to its national securities exchange or association pursuant to § 242.602 and displayed by a vendor on a terminal or other display device at the time an order is presented for execution to such responsible broker or dealer.
+(85) *Published quotation size* means the quotation size of a responsible broker or dealer communicated by it to its national securities exchange or association pursuant to § 242.602 and displayed by a vendor on a terminal or other display device at the time an order is presented for execution to such responsible broker or dealer.
 
-(75) *Quotation* means a bid or an offer.
+(86) *Quotation* means a bid or an offer.
 
-(76) *Quotation size*, when used with respect to a responsible broker's or dealer's bid or offer for an NMS security, means:
+(87) *Quotation size,* when used with respect to a responsible broker's or dealer's bid or offer for an NMS security, means:
 
 (i) The number of shares (or units of trading) of that security which such responsible broker or dealer has specified, for purposes of dissemination to vendors, that it is willing to buy at the bid price or sell at the offer price comprising its bid or offer, as either principal or agent; or
 
 (ii) In the event such responsible broker or dealer has not so specified, a normal unit of trading for that NMS security.
 
-(77) *Regular trading hours* means the time between 9:30 a.m. and 4:00 p.m. Eastern Time, or such other time as is set forth in the procedures established pursuant to § 242.605(a)(2).
+(88) *Regular trading hours* means the time between 9:30 a.m. and 4 p.m. Eastern Time, or such other time as is set forth in the procedures established pursuant to § 242.605(a)(3).
 
-(78) *Regulatory data* means:
+(89) *Regulatory data* means:
 
 (i) Information required to be collected or calculated by the primary listing exchange for an NMS stock and provided to competing consolidators and self-aggregators pursuant to the effective national market system plan or plans required under § 242.603(b), including, at a minimum:
 
@@ -282,19 +348,19 @@ Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
 
 (B) Other regulatory messages including subpenny execution and trade-though exempt indicators.
 
-(iii) For purposes of paragraph (b)(78)(i)(C) of this section, the primary listing exchange that has the largest proportion of companies included in the S&P 500 Index shall monitor the S&P 500 Index throughout the trading day, determine whether a Level 1, Level 2, or Level 3 decline, as defined in self-regulatory organization rules related to Market-Wide Circuit Breakers, has occurred, and immediately inform the other primary listing exchanges of all such declines.
+(iii) For purposes of paragraph (b)(89)(i)(C) of this section, the primary listing exchange that has the largest proportion of companies included in the S&P 500 Index shall monitor the S&P 500 Index throughout the trading day, determine whether a Level 1, Level 2, or Level 3 decline, as defined in self-regulatory organization rules related to Market-Wide Circuit Breakers, has occurred, and immediately inform the other primary listing exchanges of all such declines.
 
-(79) *Responsible broker or dealer* means:
+(90) *Responsible broker or dealer* means:
 
-(i) When used with respect to bids or offers communicated on a national securities exchange, any member of such national securities exchange who communicates to another member on such national securities exchange, at the location (or locations) or through the facility or facilities designated by such national securities exchange for trading in an NMS security a bid or offer for such NMS security, as either principal or agent; *provided, however*, that, in the event two or more members of a national securities exchange have communicated on or through such national securities exchange bids or offers for an NMS security at the same price, each such member shall be considered a *responsible broker or dealer* for that bid or offer, subject to the rules of priority and precedence then in effect on that national securities exchange; and further provided, that for a bid or offer which is transmitted from one member of a national securities exchange to another member who undertakes to represent such bid or offer on such national securities exchange as agent, only the last member who undertakes to represent such bid or offer as agent shall be considered the *responsible broker or dealer* for that bid or offer; and
+(i) When used with respect to bids or offers communicated on a national securities exchange, any member of such national securities exchange who communicates to another member on such national securities exchange, at the location (or locations) or through the facility or facilities designated by such national securities exchange for trading in an NMS security a bid or offer for such NMS security, as either principal or agent; *provided, however,* that, in the event two or more members of a national securities exchange have communicated on or through such national securities exchange bids or offers for an NMS security at the same price, each such member shall be considered a *responsible broker or dealer* for that bid or offer, subject to the rules of priority and precedence then in effect on that national securities exchange; and further provided, that for a bid or offer which is transmitted from one member of a national securities exchange to another member who undertakes to represent such bid or offer on such national securities exchange as agent, only the last member who undertakes to represent such bid or offer as agent shall be considered the *responsible broker or dealer for that bid or offer;* and
 
 (ii) When used with respect to bids and offers communicated by a member of an association to a broker or dealer or a customer, the member communicating the bid or offer (regardless of whether such bid or offer is for its own account or on behalf of another person).
 
-(80) *Revised bid or offer* means a market maker's bid or offer which supersedes its published bid or published offer.
+(91) *Revised bid or offer* means a market maker's bid or offer which supersedes its published bid or published offer.
 
-(81) *Revised quotation size* means a market maker's quotation size which supersedes its published quotation size.
+(92) *Revised quotation size* means a market maker's quotation size which supersedes its published quotation size.
 
-(82) *Round lot* means:
+(93) *Round lot* means:
 
 (i) For any NMS stock for which the prior calendar month's average closing price on the primary listing exchange was $250.00 or less per share, an order for the purchase or sale of an NMS stock of 100 shares;
 
@@ -306,17 +372,17 @@ Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
 
 (v) For any NMS stock for which the prior calendar month's average closing price is not available, an order for the purchase or sale of an NMS stock of 100 shares.
 
-(83) *Self-aggregator* means a broker, dealer, national securities exchange, national securities association, or investment adviser registered with the Commission that receives information with respect to quotations for and transactions in NMS stocks, including all data necessary to generate consolidated market data, and generates consolidated market data solely for internal use. A self-aggregator may make consolidated market data available to its affiliates that are registered with the Commission for their internal use. Except as provided in the preceding sentence, a self-aggregator may not disseminate or otherwise make available consolidated market data, or components of consolidated market data, as provided in paragraph (b)(20) of this section, to any person.
+(94) *Self-aggregator* means a broker, dealer, national securities exchange, national securities association, or investment adviser registered with the Commission that receives information with respect to quotations for and transactions in NMS stocks, including all data necessary to generate consolidated market data, and generates consolidated market data solely for internal use. A self-aggregator may make consolidated market data available to its affiliates that are registered with the Commission for their internal use. Except as provided in the preceding sentence, a self-aggregator may not disseminate or otherwise make available consolidated market data, or components of consolidated market data, as provided in paragraph (b)(25) of this section, to any person.
 
-(84) *Self-regulatory organization* means any national securities exchange or national securities association.
+(95) *Self-regulatory organization* means any national securities exchange or national securities association.
 
-(85) *Self-regulatory organization-specific program data* means:
+(96) *Self-regulatory organization-specific program data* means:
 
 (i) Information related to retail liquidity programs specified by the rules of national securities exchanges and disseminated pursuant to the effective national market system plan or plans required under § 242.603(b) as of April 9, 2021; and
 
 (ii) Other self-regulatory organization-specific information with respect to quotations for or transactions in NMS stocks as specified by the effective national market system plan or plans required under § 242.603(b).
 
-(86) *Specified persons*, when used in connection with any notification required to be provided pursuant to § 242.602(a)(3) and any election (or withdrawal thereof) permitted under § 242.602(a)(5), means:
+(97) *Specified persons,* when used in connection with any notification required to be provided pursuant to § 242.602(a)(3) and any election (or withdrawal thereof) permitted under § 242.602(a)(5), means:
 
 (i) Each vendor;
 
@@ -324,13 +390,13 @@ Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
 
 (iii) The processor for the Options Price Reporting Authority (in the case of a notification for a subject security which is a class of securities underlying options admitted to trading on any national securities exchange).
 
-(87) *Sponsor*, when used in connection with a national market system plan, means any self-regulatory organization which is a signatory to such plan and has agreed to act in accordance with the terms of the plan.
+(98) *Sponsor,* when used in connection with a national market system plan, means any self-regulatory organization which is a signatory to such plan and has agreed to act in accordance with the terms of the plan.
 
-(88) *SRO display-only facility* means a facility operated by or on behalf of a national securities exchange or national securities association that displays quotations in a security, but does not execute orders against such quotations or present orders to members for execution.
+(99) *SRO display-only facility* means a facility operated by or on behalf of a national securities exchange or national securities association that displays quotations in a security, but does not execute orders against such quotations or present orders to members for execution.
 
-(89) *SRO trading facility* means a facility operated by or on behalf of a national securities exchange or a national securities association that executes orders in a security or presents orders to members for execution.
+(100) *SRO trading facility* means a facility operated by or on behalf of a national securities exchange or a national securities association that executes orders in a security or presents orders to members for execution.
 
-(90) *Subject security* means:
+(101) *Subject security* means:
 
 (i) With respect to a national securities exchange:
 
@@ -344,28 +410,28 @@ Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
 
 (B) Any other NMS security for which such member acts in the capacity of an OTC market maker and has in effect an election, pursuant to § 242.602(a)(5)(ii), to communicate to its association bids, offers, and quotation sizes for the purpose of making such bids, offers, and quotation sizes available to a vendor.
 
-(91) *Time of order execution* means the time (to the second) that an order was executed at any venue.
+(102) *Time of order execution* means the time (at a minimum to the millisecond) that an order was executed at any venue.
 
-(92) *Time of order receipt* means the time (to the second) that an order was received by a market center for execution.
+(103) *Time of order receipt* means the time (at a minimum to the millisecond) that an order was received by a market center for execution, or in the case of a broker or dealer that is not acting as a market center, the time (at a minimum to the millisecond) that an order was received by the broker or dealer for execution.
 
-(93) *Time of the transaction* has the meaning provided in § 240.10b-10 of this chapter.
+(104) *Time of the transaction* has the meaning provided in § 240.10b-10 of this chapter.
 
-(94) *Trade-through* means the purchase or sale of an NMS stock during regular trading hours, either as principal or agent, at a price that is lower than a protected bid or higher than a protected offer.
+(105) *Trade-through* means the purchase or sale of an NMS stock during regular trading hours, either as principal or agent, at a price that is lower than a protected bid or higher than a protected offer.
 
-(95) *Trading center* means a national securities exchange or national securities association that operates an SRO trading facility, an alternative trading system, an exchange market maker, an OTC market maker, or any other broker or dealer that executes orders internally by trading as principal or crossing orders as agent.
+(106) *Trading center* means a national securities exchange or national securities association that operates an SRO trading facility, an alternative trading system, an exchange market maker, an OTC market maker, or any other broker or dealer that executes orders internally by trading as principal or crossing orders as agent.
 
-(96) *Trading rotation* means, with respect to an options class, the time period on a national securities exchange during which:
+(107) *Trading rotation* means, with respect to an options class, the time period on a national securities exchange during which:
 
 (i) Opening, re-opening, or closing transactions in options series in such options class are not yet completed; and
 
 (ii) Continuous trading has not yet commenced or has not yet ended for the day in options series in such options class.
 
-(97) *Transaction report* means a report containing the price and volume associated with a transaction involving the purchase or sale of one or more round lots of a security.
+(108) *Transaction report* means a report containing the price and volume associated with a transaction involving the purchase or sale of one or more round lots of a security.
 
-(98) *Transaction reporting association* means any person authorized to implement or administer any transaction reporting plan on behalf of persons acting jointly under § 242.601(a).
+(109) *Transaction reporting association* means any person authorized to implement or administer any transaction reporting plan on behalf of persons acting jointly under § 242.601(a).
 
-(99) *Transaction reporting plan* means any plan for collecting, processing, making available or disseminating transaction reports with respect to transactions in securities filed with the Commission pursuant to, and meeting the requirements of, § 242.601.
+(110) *Transaction reporting plan* means any plan for collecting, processing, making available or disseminating transaction reports with respect to transactions in securities filed with the Commission pursuant to, and meeting the requirements of, § 242.601.
 
-(100) *Vendor* means any securities information processor engaged in the business of disseminating transaction reports, last sale data, or quotations with respect to NMS securities to brokers, dealers, or investors on a real-time or other current and continuing basis, whether through an electronic communications network, moving ticker, or interrogation device.
+(111) *Vendor* means any securities information processor engaged in the business of disseminating transaction reports, last sale data, or quotations with respect to NMS securities to brokers, dealers, or investors on a real-time or other current and continuing basis, whether through an electronic communications network, moving ticker, or interrogation device.
 
-[70 FR 37620, June 29, 2005, as amended at 83 FR 58427, Nov. 19, 2018; 86 FR 18809, Apr. 9, 2021; 86 FR 29196, June 1, 2021]
+[70 FR 37620, June 29, 2005, as amended at 83 FR 58427, Nov. 19, 2018; 86 FR 18809, Apr. 9, 2021; 86 FR 29196, June 1, 2021; 89 FR 26608, Apr. 15, 2024]

@@ -32,7 +32,7 @@
 
 (9) Geological and geophysical information and data, including maps, concerning wells.
 
-(b) The IDA may also withhold information applicable under the Privacy Act of 1974, 5 U.S.C. 552a(j) and (k) when the records are managed within a system of records; see 22 CFR part 308.
+(b) In the event that one or more of the exemptions in paragraph (a) of this section apply, any reasonably segregable portion of a record shall be provided to the requester after deletion of the portions that are exempt. The Peace Corps shall indicate, if technically feasible, the precise amount of information deleted and the exemption under which the deletion is made at the place in the record where the deletion is made, and indicate the exemption under which a deletion is made on the released portion of the record, unless including that indication would harm an interest protected by the exemption. At the discretion of the Peace Corps officials authorized to grant or deny a request for records, it may be possible to provide a requester with:
 
 (1) A summary of information in the exempt portion of a record; or
 
@@ -42,7 +42,7 @@
 
 (d) Records that may be exempt from disclosure pursuant to paragraph (a) of this section may be made available at the discretion of the Peace Corps.
 
-(e) Proprietary information. (1) It is the policy of the Peace Corps to withhold proprietary information that falls within the protection of paragraph (a)(4) of this section. Proprietary information includes trade secrets, or commercial or financial information obtained from a person, the disclosure of which could reasonably be expected to cause substantial competitive harm.
+(e) (1) It is the policy of the Peace Corps to withhold proprietary information that falls within the protection of paragraph (a)(4) of this section. Proprietary information includes trade secrets, or commercial or financial information obtained from a person, the disclosure of which could reasonably be expected to cause substantial competitive harm.
 
 (2) It is also the policy of the Peace Corps to give submitters of arguably proprietary information an adequate opportunity to provide information to the Peace Corps to establish that the information constitutes protected proprietary information.
 
@@ -70,4 +70,6 @@
 
 (7) Whenever a FOIA requester brings suit seeking to compel disclosure of proprietary information, the Peace Corps shall promptly notify the submitter.
 
-[68 FR 66008, Nov. 25, 2003; 68 FR 68695, Dec. 9, 2003, as amended at 79 FR 19819, Apr. 10, 2014; 89 FR 25525, Apr. 11, 2024]
+(f) The IDA may also withhold information applicable under the Privacy Act of 1974, 5 U.S.C. 552a(j) and (k) when the records are managed within a system of records; see 22 CFR part 308.
+
+[68 FR 66008, Nov. 25, 2003; 68 FR 68695, Dec. 9, 2003, as amended at 79 FR 19819, Apr. 10, 2014; 89 FR 25525, Apr. 11, 2024; 89 FR 50522, June 14, 2024]

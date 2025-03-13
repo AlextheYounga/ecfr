@@ -1,10 +1,8 @@
 ##### § 240.3a51-1 Definition of “penny stock”. #####
 
-Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
-
 For purposes of section 3(a)(51) of the Act, the term “penny stock” shall mean any equity security other than a security:
 
-(a) That is an NMS stock, as defined in § 242.600(b)(55) of this chapter, provided that:
+(a) That is an NMS stock, as defined in § 242.600(b)(65) of this chapter, provided that:
 
 (1) The security is registered, or approved for registration upon notice of issuance, on a national securities exchange that has been continuously registered as a national securities exchange since April 20, 1992 (the date of the adoption of Rule 3a51-1 (§ 240.3a51-1) by the Commission); and the national securities exchange has maintained quantitative listing standards that are substantially similar to or stricter than those listing standards that were in place on that exchange on January 8, 2004; or
 
@@ -82,4 +80,4 @@ For purposes of section 3(a)(51) of the Act, the term “penny stock” shall me
 
 (4) The broker or dealer shall preserve, as part of its records, copies of the financial statements required by paragraph (g)(3) of this section for the period specified in 17 CFR 240.17a-4(b).
 
-[57 FR 18032, Apr. 28, 1992, as amended at 58 FR 58101, Oct. 29, 1993; 70 FR 40631, July 13, 2005; 70 FR 46090, Aug. 9, 2005; 83 FR 50221, Oct. 4, 2018; 83 FR 58427, Nov. 19, 2018; 86 FR 18809, Apr. 9, 2021]
+[57 FR 18032, Apr. 28, 1992, as amended at 58 FR 58101, Oct. 29, 1993; 70 FR 40631, July 13, 2005; 70 FR 46090, Aug. 9, 2005; 83 FR 50221, Oct. 4, 2018; 83 FR 58427, Nov. 19, 2018; 86 FR 18809, Apr. 9, 2021; 89 FR 26608, Apr. 15, 2024]

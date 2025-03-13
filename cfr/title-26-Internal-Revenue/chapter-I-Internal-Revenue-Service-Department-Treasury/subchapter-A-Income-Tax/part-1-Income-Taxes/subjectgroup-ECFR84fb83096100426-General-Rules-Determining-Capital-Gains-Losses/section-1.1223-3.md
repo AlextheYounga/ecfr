@@ -64,14 +64,14 @@
 
 (i) *A, B,* and *C* form an equal partnership (*PRS*). In connection with the formation, *A* contributes $5,000 in cash and a capital asset (capital asset 1) with a fair market value of $5,000 and a basis of $2,000; *B* contributes $7,000 in cash and a capital asset (capital asset 2) with a fair market value of $3,000 and a basis of $3,000; and *C* contributes $10,000 in cash. At the time of the contribution, *A* had held the contributed property for two years. Six months later, when *A*'s basis in *PRS* is $7,000, A transfers one-half of *A*'s interest in *PRS* to *T* for $7,000 at a time when *PRS*'s balance sheet (reflecting a cash receipts and disbursements method of accounting) is as follows:
 
-|                      |   ASSETS   |       |               |     |     |
-|----------------------|------------|-------|---------------|-----|-----|
-|    Adjusted basis    |Market value|       |               |     |     |
-|         Cash         |  $22,000   |$22,000|               |     |     |
-|Unrealized Receivables|     0      | 6,000 |               |     |     |
-|   Capital Asset 1    |   2,000    | 5,000 |Capital Asset 2|3,000|9,000|
-|    Capital Assets    |   5,000    |14,000 |               |     |     |
-|        Total         |   27,000   |42,000 |               |     |     |
+|                      |   ASSETS   |       |
+|----------------------|------------|-------|
+|    Adjusted basis    |Market value|       |
+|         Cash         |  $22,000   |$22,000|
+|Unrealized Receivables|     0      | 6,000 |
+|   Capital Asset 1    |   2,000    | 5,000 |
+|    Capital Assets    |   5,000    |14,000 |
+|        Total         |   27,000   |42,000 |
 
 (ii) Although at the time of the transfer *A* has not held *A*'s interest in *PRS* for more than one year, 50 percent of the fair market value of *A*'s interest in *PRS* was received in exchange for a capital asset with a long-term holding period. Therefore, 50 percent of *A*'s interest in *PRS* has a long-term holding period.
 
@@ -93,8 +93,8 @@ In 1997, *A* and *B* each contribute cash of $50,000 to form and become equal pa
 
 (9) *Example 9.* On June 1, 2020, GP contributes $10,000 to PRS for a partnership interest in PRS. On June 30, 2023, GP receives a 20% interest in the profits of PRS that is an Applicable Partnership Interest (API) as defined in § 1.1061-1(a). On June 30, 2025, GP sells its interest in PRS for $30,000. At the time of GP's sale of its interest, the API has a fair market value of $15,000. GP has a divided holding period in its interest in PRS; 50% of the partnership interest has a holding period beginning on June 1, 2020, and 50% has a holding period that begins on June 30, 2023.
 
-(10) *Example 10.* Assume the same facts as in paragraph (f)(9) of this section (*Example 9*), except that on June 30, 2024, GP contributes an additional $5,000 cash to GP prior to GP's sale of its interest in 2025. Immediately after the contribution of the $5,000 on June 30, 2024, GP's interest in PRS has a value of $15,000, not taking into account the value of GP's profits interest in PRS. GP calculates its holding period in the portions not comprised by the profits interest and two-thirds of its holding period runs from June 30, 2020, and one-third runs from June 30, 2024. On June 30, 2025, GP sells its interest for $30,000 and the API has a fair market value of $15,000. Accordingly, on the date of disposition, one-third of GP's interest has a five year holding period from its interest received in 2020 for its $10,000 contribution, one-half of GP's interest has a two year holding period from the profits interest issued on June 30, 2023, and one-sixth of GP's interest has a one year holding period from the contribution of the $5,000.
+(10) *Example 10.* Assume the same facts as in paragraph (f)(9) of this section (*Example 9*), except that on June 30, 2024, GP contributes an additional $5,000 cash to GP prior to GP's sale of its interest in 2025. Immediately after the contribution of the $5,000 on June 30, 2024, GP's interest in PRS has a value of $15,000, not taking into account the value of GP's profits interest in PRS. GP calculates its holding period in the portions not comprised by the profits interest and two-thirds of its holding period runs from June 1, 2020, and one-third runs from June 30, 2024. On June 30, 2025, GP sells its interest for $30,000 and the API has a fair market value of $15,000. Accordingly, on the date of disposition, one-third of GP's interest has a five year holding period from its interest received in 2020 for its $10,000 contribution, one-half of GP's interest has a two year holding period from the profits interest issued on June 30, 2023, and one-sixth of GP's interest has a one year holding period from the contribution of the $5,000.
 
 (g) *Applicability dates.* This section applies to transfers of partnership interests and distributions of property from a partnership that occur on or after September 21, 2000. Paragraphs (b)(5) and (f)(9) and (10) of this section apply to taxable years beginning on or after January 19, 2021.
 
-[T.D. 8902, 65 FR 57099, Sept. 21, 2000, as amended by T.D. 9945, 86 FR 5494, Jan. 19, 2021]
+[T.D. 8902, 65 FR 57099, Sept. 21, 2000, as amended by T.D. 9945, 86 FR 5494, Jan. 19, 2021; T.D. 9945, 89 FR 50526, June 14, 2024]

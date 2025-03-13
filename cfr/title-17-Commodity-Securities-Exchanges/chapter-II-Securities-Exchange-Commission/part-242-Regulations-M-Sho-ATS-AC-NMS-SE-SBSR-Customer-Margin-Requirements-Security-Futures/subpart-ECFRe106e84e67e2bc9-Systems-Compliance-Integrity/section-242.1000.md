@@ -1,7 +1,5 @@
 ##### § 242.1000 Definitions. #####
 
-Link to an amendment published at 89 FR 26617, Apr. 15, 2024.
-
 For purposes of Regulation SCI (§§ 242.1000 through 242.1007), the following definitions shall apply:
 
 *Critical SCI systems* means any SCI systems of, or operated by or on behalf of, an SCI entity that:
@@ -34,7 +32,7 @@ For purposes of Regulation SCI (§§ 242.1000 through 242.1007), the following d
 
 (2) A significant impact on the SCI entity's operations or on market participants.
 
-*Plan processor* has the meaning set forth in § 242.600(b)(67).
+*Plan processor* has the meaning set forth in § 242.600(b)(78).
 
 *Responsible SCI personnel* means, for a particular SCI system or indirect SCI system impacted by an SCI event, such senior manager(s) of the SCI entity having responsibility for such system, and their designee(s).
 
@@ -92,4 +90,4 @@ For purposes of Regulation SCI (§§ 242.1000 through 242.1007), the following d
 
 *Systems intrusion* means any unauthorized entry into the SCI systems or indirect SCI systems of an SCI entity.
 
-[79 FR 72436, Dec. 5, 2014, as amended at 80 FR 81454, Dec. 30, 2015; 83 FR 58429, Nov. 19, 2018; 86 FR 18814, Apr. 9, 2021]
+[79 FR 72436, Dec. 5, 2014, as amended at 80 FR 81454, Dec. 30, 2015; 83 FR 58429, Nov. 19, 2018; 86 FR 18814, Apr. 9, 2021; 89 FR 26617, Apr. 15, 2024]

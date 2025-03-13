@@ -1,6 +1,6 @@
 ##### § 58.1 Purpose and applicability. #####
 
-Link to an amendment published at 89 FR 20056, Mar. 20, 2024.
+Link to an amendment published at 89 FR 20056, Mar. 20, 2024.This amendment was delayed until Dec. 31, 2024, at 89 FR 50523, June 14, 2024.
 
 (a) *Purpose.* This part provides instructions and guidance to recipients of HUD assistance and other responsible entities for conducting an environmental review for a particular project or activity and for obtaining approval of a Request for Release of Funds.
 

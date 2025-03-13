@@ -1,6 +1,6 @@
 ##### § 58.35 Categorical exclusions. #####
 
-Link to an amendment published at 89 FR 20056, Mar. 20, 2024.
+Link to an amendment published at 89 FR 20056, Mar. 20, 2024.This amendment was delayed until Dec. 31, 2024, at 89 FR 50523, June 14, 2024.
 
 Categorical exclusion refers to a category of activities for which no environmental impact statement or environmental assessment and finding of no significant impact under NEPA is required, except in extraordinary circumstances (see § 58.2(a)(3)) in which a normally excluded activity may have a significant impact. Compliance with the other applicable Federal environmental laws and authorities listed in § 58.5 is required for any categorical exclusion listed in paragraph (a) of this section.
 

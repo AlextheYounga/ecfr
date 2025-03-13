@@ -1,7 +1,5 @@
 ##### § 242.204 Close-out requirement. #####
 
-Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
-
 (a) A participant of a registered clearing agency must deliver securities to a registered clearing agency for clearance and settlement on a long or short sale in any equity security by settlement date, or if a participant of a registered clearing agency has a fail to deliver position at a registered clearing agency in any equity security for a long or short sale transaction in that equity security, the participant shall, by no later than the beginning of regular trading hours on the settlement day following the settlement date, immediately close out its fail to deliver position by borrowing or purchasing securities of like kind and quantity; *Provided, however:*
 
 (1) If a participant of a registered clearing agency has a fail to deliver position at a registered clearing agency in any equity security and the participant can demonstrate on its books and records that such fail to deliver position resulted from a long sale, the participant shall by no later than the beginning of regular trading hours on the third consecutive settlement day following the settlement date, immediately close out the fail to deliver position by purchasing or borrowing securities of like kind and quantity;
@@ -34,6 +32,6 @@ Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
 
 (g) *Definitions.* (1) For purposes of this section, the term *settlement date* shall mean the business day on which delivery of a security and payment of money is to be made through the facilities of a registered clearing agency in connection with the sale of a security.
 
-(2) For purposes of this section, the term *regular trading hours* has the same meaning as in § 242.600(b)(77) (Rule 600(b)(77) of Regulation NMS).
+(2) For purposes of this section, the term *regular trading hours* has the same meaning as in § 242.600(b)(88) (Rule 600(b)(88) of Regulation NMS).
 
-[74 FR 38292, July 31, 2009, as amended at 83 FR 58427, Nov. 19, 2018; 86 FR 18809, Apr. 9, 2021]
+[74 FR 38292, July 31, 2009, as amended at 83 FR 58427, Nov. 19, 2018; 86 FR 18809, Apr. 9, 2021; 89 FR 26608, Apr. 15, 2024]

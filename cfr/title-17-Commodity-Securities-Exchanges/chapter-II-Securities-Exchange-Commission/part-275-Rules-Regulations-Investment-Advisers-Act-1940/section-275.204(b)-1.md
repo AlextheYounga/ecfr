@@ -24,11 +24,11 @@ Information on how to file Form PF is available on the Commission's Web site at 
 
 (2) To request a temporary hardship exemption, you must:
 
-(i) Complete and file in paper format, in accordance with the instructions to Form PF, Item A of Section 1a and Section 7 of Form PF, checking the box in Section 1a indicating that you are requesting a temporary hardship exemption, no later than one business day after the electronic Form PF filing was due; and
+(i) Complete and file in paper format, in accordance with the instructions to Form PF, Item A of Section 1a and Section 5 of Form PF, checking the box in Section 1a indicating that you are requesting a temporary hardship exemption, no later than one business day after the electronic Form PF filing was due; and
 
 (ii) Submit the filing that is the subject of the Form PF paper filing in electronic format with the Form PF filing system no later than seven business days after the filing was due.
 
-(3) The temporary hardship exemption will be granted when you file Item A of Section 1a and Section 7 of Form PF, checking the box in Section 1a indicating that you are requesting a temporary hardship exemption.
+(3) The temporary hardship exemption will be granted when you file Item A of Section 1a and Section 5 of Form PF, checking the box in Section 1a indicating that you are requesting a temporary hardship exemption.
 
 (4) The hardship exemptions available under § 275.203-3 do not apply to Form PF.
 
@@ -38,4 +38,4 @@ Information on how to file Form PF is available on the Commission's Web site at 
 
 (2) *Private fund assets* means the investment adviser's assets under management attributable to private funds.
 
-[76 FR 71174, Nov. 16, 2011, as amended at 88 FR 38202, June 12, 2023]
+[76 FR 71174, Nov. 16, 2011]

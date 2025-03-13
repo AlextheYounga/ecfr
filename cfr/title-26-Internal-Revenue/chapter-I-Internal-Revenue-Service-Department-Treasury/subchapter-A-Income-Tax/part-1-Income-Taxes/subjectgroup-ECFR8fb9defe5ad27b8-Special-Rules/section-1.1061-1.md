@@ -46,7 +46,7 @@
 
 *Owner Taxpayer* means the person subject to Federal income tax on net gain with respect to an API or an Indirect API during the taxable year, including an owner of a Passthrough Taxpayer unless the owner of the Passthrough Taxpayer is a Passthrough Entity itself or is excepted under § 1.1061-3(a), (b), or (d).
 
-*Passthrough Entity* means a partnership, trust, estate, S corporation described in § 1.1061-3(b)(2)(i), or passive foreign investment company described in § 1.1061-3(b)(2)(ii).
+*Passthrough Entity* means a partnership, trust, estate, S corporation described in § 1.1061-3(b)(2)(i), or a passive foreign investment company described in § 1.1061-3(b)(2)(ii).
 
 *Passthrough Interest* means an interest in a Passthrough Entity that represents in whole or in part an API.
 
@@ -94,4 +94,4 @@
 
 (b) *Applicability date.* The provisions of this section apply to taxable years of Owner Taxpayers and Passthrough Entities beginning on or after January 19, 2021. An Owner Taxpayer or Passthrough Entity may choose to apply this section to a taxable year beginning after December 31, 2017, provided that they consistently apply the Section 1061 Regulations in their entirety to that year and all subsequent years.
 
-[T.D. 9945, 86 FR 5480, Jan. 19, 2021]
+[T.D. 9945, 86 FR 5480, Jan. 19, 2021, as amended by T.D. 9945, 89 FR 50525, June 14, 2024]
