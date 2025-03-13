@@ -1,8 +1,6 @@
 ##### § 120.706 What are the terms and conditions of an SBA loan to an Intermediary? #####
 
-Link to an amendment published at 89 FR 35690, May 2, 2024.
-
-(a) *Loan Amount.* An Intermediary may not borrow more than $750,000 in the first year of participation in the program. In later years, the Intermediary's obligation to SBA may not exceed an aggregate of $6 million, subject to statutory limitations on the total amount of funds available per state.
+(a) *Loan amount.* An Intermediary may not borrow more than $750,000 in the first year of participation in the program, or more than $3,000,000 in any subsequent year. An Intermediary's obligation to SBA may not exceed an aggregate of $7 million, subject to statutory limitations on the total amount of funds available per state.
 
 (b) *Repayment terms.* During the first year of the loan, an Intermediary is not required to make any payments, but interest accrues from the date that SBA disburses the loan proceeds to the Intermediary. After that, SBA will determine the periodic payments. The loan must be repaid within 10 years.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 89 FR 35690, May 2, 2024.
 
 (f) *Fees.* SBA does not charge Intermediaries any fees for loans under this Program. An Intermediary may, however, pay minimal closing costs to third parties, such as filing and recording fees.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 66 FR 47073, Sept. 11, 2001; 76 FR 63546, Oct. 12, 2011; 87 FR 38909, June 30, 2022]
+[61 FR 3235, Jan. 31, 1996, as amended at 66 FR 47073, Sept. 11, 2001; 76 FR 63546, Oct. 12, 2011; 87 FR 38909, June 30, 2022; 89 FR 35690, May 2, 2024]

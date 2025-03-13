@@ -1,7 +1,5 @@
 ##### § 146.125 Applicability dates. #####
 
-Link to an amendment published at 89 FR 23418, Apr. 3, 2024.
+Section 144.103 of this subchapter and §§ 146.111 through 146.119, 146.143, and 146.145 are applicable for plan years beginning on or after July 1, 2005. Notwithstanding the previous sentence, for short-term, limited-duration insurance sold or issued on or after September 1, 2024, the definition of *short-term, limited-duration insurance* in § 144.103 of this subchapter applies for coverage periods beginning on or after September 1, 2024. For short-term, limited-duration insurance sold or issued before September 1, 2024 (including any subsequent renewal or extension consistent with applicable law), the definition of *short-term, limited-duration insurance* in 45 CFR 144.103, revised as of October 1, 2023, continues to apply, except that paragraph (1)(ii) of the definition of *short-term, limited-duration insurance* in § 144.103 applies for coverage periods beginning on or after September 1, 2024.
 
-Section 144.103, §§ 146.111 through 146.119, 146.143, and 146.145 are applicable for plan years beginning on or after July 1, 2005. Until the applicability date for this regulation, plans and issuers are required to continue to comply with the corresponding sections of 45 CFR parts 144 and 146, contained in the 45 CFR, parts 1 to 199, edition revised as of October 1, 2004. Notwithstanding the previous sentence, the definition of “short-term, limited-duration insurance” in § 144.103 of this subchapter applies October 2, 2018.
-
-[69 FR 78797, Dec. 30, 2004; 70 FR 21147, Apr. 25, 2005, as amended at 81 FR 75326, Oct. 31, 2016; 83 FR 38243, Aug. 3, 2018]
+[89 FR 23418, Apr. 3, 2024]

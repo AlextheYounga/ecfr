@@ -1,7 +1,5 @@
 ##### § 246.7 Certification of participants. #####
 
-Link to an amendment published at 89 FR 28518, Apr. 18, 2024.
-
 (a) *Integration with health services.* To lend administrative efficiency and participant convenience to the certification process, whenever possible, Program intake procedures shall be combined with intake procedures for other health programs or services administered by the State and local agencies. Such merging may include verification procedures, certification interviews, and income computations. Local agencies shall maintain and make available for distribution to all pregnant, postpartum, and breastfeeding women and to parents or caretakers of infants and children applying for and participating in the Program a list of local resources for drug and other harmful substance abuse counseling and treatment.
 
 (b) *Program referral and access.* State and local agencies shall provide WIC Program applicants and participants or their designated proxies with information on other health-related and public assistance programs, and when appropriate, shall refer applicants and participants to such programs.
@@ -362,7 +360,7 @@ I have been advised of my rights and obligations under the Program. I certify th
 
 (9) If a State agency must suspend or terminate benefits to any participant during the participant's certification period due to a shortage of funds for the Program, it shall issue a notice to such participant in advance, as stipulated in paragraph (j)(6) of this section.
 
-(10) During the certification procedure, every Program applicant, parent or caretaker shall be informed that selling or offering to sell WIC benefits, including cash value vouchers, food instruments, EBT cards, or supplemental foods in person, in print, or on-line is a participant violation.
+(10) During WIC certification, every Program applicant, parent, or caretaker shall be informed that selling or offering to sell WIC benefits, cash-value vouchers, paper food instruments, EBT cards, supplemental foods, or breast pumps in person, in print, or on-line is a participant violation.
 
 (k) *Transfer of certification.* (1) Each State agency shall ensure issuance of a Verification of Certification card to every participant who is a member of a family in which there is a migrant farmworker or any other participant who is likely to be relocating during the certification period. Certifying local agencies shall ensure that Verification of Certification cards are fully completed.
 

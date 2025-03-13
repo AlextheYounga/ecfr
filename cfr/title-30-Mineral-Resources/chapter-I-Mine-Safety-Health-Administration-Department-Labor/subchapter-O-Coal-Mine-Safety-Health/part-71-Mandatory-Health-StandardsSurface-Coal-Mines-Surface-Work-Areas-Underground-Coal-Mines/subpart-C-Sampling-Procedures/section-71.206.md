@@ -1,6 +1,8 @@
 ##### § 71.206 Quarterly sampling; designated work positions. #####
 
-Link to an amendment published at 89 FR 28477, Apr. 18, 2024.Link to an amendment published at 89 FR 28478, Apr. 18, 2024.
+Link to an amendment published at 89 FR 28478, Apr. 18, 2024.
+
+The following is required until April 14, 2025:
 
 (a) Each operator shall take one valid representative sample from the DWP during each quarterly period. The quarterly periods are:
 
@@ -111,3 +113,5 @@ January 1-March 31April 1-June 30July 1-September 30October 1-December 31.
 (m) The District Manager may designate for sampling under this section additional work positions at a surface coal mine and at a surface work area of an underground coal mine where a concentration of respirable dust exceeding 50 percent of the standard in effect at the time the sample is taken, or a concentration of respirable dust exceeding 50 percent of the standard established in accordance with § 71.101, has been measured by one or more MSHA valid representative samples.
 
 (n) The District Manager may withdraw from sampling any DWP designated for sampling under paragraph (m) of this section upon finding that the operator is able to maintain continuing compliance with the applicable standard. This finding shall be based on the results of MSHA and operator valid representative samples taken during at least a 12-month period.
+
+[79 FR 24982, May 1, 2014, as amended at 89 FR 28477, Apr. 18, 2024]

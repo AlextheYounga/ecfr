@@ -6,7 +6,7 @@
 
 (i) Name;
 
-(ii) Form of organization, *e.g.,* partnership, corporation, trust, etc.;
+(ii) Form of organization, e.g., partnership, corporation, trust, etc.;
 
 (iii) Name of each person who is a member or otherwise has a direct beneficial interest in the association;
 

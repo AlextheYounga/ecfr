@@ -1,14 +1,14 @@
 ##### § 120.701 Definitions. #####
 
-Link to an amendment published at 89 FR 35689, May 2, 2024.
+*Deposit account* is a demand, time, savings, passbook, or similar account maintained with an insured depository institution (not including an account evidenced by a Certificate of Deposit).
 
-(a) *Deposit account* is a demand, time, savings, passbook, or similar account maintained with an insured depository institution (not including an account evidenced by a Certificate of Deposit).
+*Economically Distressed Area* is a county or equivalent division of local government of a State in which the small business concern is located, in which, according to the most recent data available from the Bureau of the Census, Department of Commerce, not less than 40 percent of residents have an annual income that is at or below the poverty level.
 
-(b) *Grant* is a Federal award of money, or property in lieu of money (including cooperative agreements) to an eligible grantee that must account for its use. The term does not include the provision of technical assistance, revenue sharing, loans, loan guarantees, interest subsidies, insurance, direct appropriations, or any fellowship or other lump sum award.
+*Grant* is a Federal award of money, or property in lieu of money (including cooperative agreements) to an eligible grantee that must account for its use. The term does not include the provision of technical assistance, revenue sharing, loans, loan guarantees, interest subsidies, insurance, direct appropriations, or any fellowship or other lump sum award.
 
-(c) *Insured depository institution* means any Federally insured bank, savings association, or credit union.
+*Insured depository institution* means any federally insured bank, savings association, or credit union.
 
-(d) *Intermediary* is an entity participating in the Microloan Program which makes and services Microloans to eligible small businesses and which provides marketing, management, and technical assistance to its borrowers. It may be:
+*Intermediary* is an entity participating in the Microloan Program which makes and services Microloans to eligible small businesses and which provides marketing, management, and technical assistance to its borrowers. It may be:
 
 (1) A private, nonprofit community development corporation or other entity;
 
@@ -18,10 +18,16 @@ Link to an amendment published at 89 FR 35689, May 2, 2024.
 
 (4) An agency of or a nonprofit entity established by a Native American Tribal Government.
 
-(e) *Microloan* is a short-term, fixed interest rate loan of not more than $50,000 made by an Intermediary to an eligible small business.
+*Microloan* is a short-term, fixed interest rate loan of not more than $50,000 made by an Intermediary to an eligible small business.
 
-(f) *Non-Federal sources* are sources of funds other than the Federal Government and may include indirect costs or in-kind contributions paid for under non-Federal programs. Community Block Development Grants are considered non-Federal sources.
+*Non-Federal sources* are sources of funds other than the Federal Government and may include indirect costs or in-kind contributions paid for under non-Federal programs. Community Block Development Grants are considered non-Federal sources.
 
-(g) *Specialized Intermediary* is an Intermediary which maintains a portfolio of Microloans averaging $10,000 or less.
+*Rural Area* is any political subdivision or unincorporated area:
 
-[61 FR 3235, Jan. 31, 1996, as amended at 66 FR 47073, Sept. 11, 2001; 66 FR 47878, Sept. 14, 2001; 76 FR 63546, Oct. 12, 2011; 80 FR 34046, June 15, 2015; 87 FR 38909, June 30, 2022]
+(1) In a nonmetropolitan county (as defined by the Secretary of Agriculture) or its equivalent thereof; or
+
+(2) In a metropolitan county or its equivalent that has a resident population of less than 20,000 if the Small Business Administration has determined such political subdivision or area to be rural.
+
+*Specialized Intermediary* is an Intermediary which maintains a portfolio of Microloans averaging $10,000 or less.
+
+[89 FR 35689, May 2, 2024]

@@ -1,6 +1,8 @@
 ##### § 75.350 Belt air course ventilation. #####
 
-Link to an amendment published at 89 FR 28479, Apr. 18, 2024.Link to an amendment published at 89 FR 28480, Apr. 18, 2024.
+Link to an amendment published at 89 FR 28480, Apr. 18, 2024.
+
+The following is required until April 14, 2025:
 
 (a) The belt air course must not be used as a return air course; and except as provided in paragraph (b) of this section, the belt air course must not be used to provide air to working sections or to areas where mechanized mining equipment is being installed or removed.
 
@@ -50,4 +52,4 @@ Link to an amendment published at 89 FR 28479, Apr. 18, 2024.Link to an amendmen
 
 (6) An AMS must be installed, operated, examined, and maintained as specified in § 75.351.
 
-[69 FR 17526, Apr. 2, 2004, as amended at 70 FR 37266, June 29, 2005; 71 FR 12269, Mar. 9, 2006; 73 FR 80612, Dec. 31, 2008; 79 FR 24987, May 1, 2014]
+[69 FR 17526, Apr. 2, 2004, as amended at 70 FR 37266, June 29, 2005; 71 FR 12269, Mar. 9, 2006; 73 FR 80612, Dec. 31, 2008; 79 FR 24987, May 1, 2014; 89 FR 28479, Apr. 18, 2024]

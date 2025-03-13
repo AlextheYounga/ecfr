@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 28469, Apr. 18, 2024.
 
-Control of employee exposure to harmful airborne contaminants shall be, insofar as feasible, by prevention of contamination, removal by exhaust ventilation, or by dilution with uncontaminated air. However, where accepted, engineering control measures have not been developed or when necessary by the nature of work involved (for example, while establishing controls or occasional entry into hazardous atmospheres to perform maintenance or investigation), employees may work for reasonable periods of time in concentrations of airborne contaminants exceeding permissible levels if they are protected by appropriate respiratory protective equipment. Whenever respiratory protective equipment is used a program for selection, maintenance, training, fitting, supervision, cleaning, and use shall meet the following minimum requirements:
+The following is required until April 7, 2026. Control of employee exposure to harmful airborne contaminants shall be, insofar as feasible, by prevention of contamination, removal by exhaust ventilation, or by dilution with uncontaminated air. However, where accepted, engineering control measures have not been developed or when necessary by the nature of work involved (for example, while establishing controls or occasional entry into hazardous atmospheres to perform maintenance or investigation), employees may work for reasonable periods of time in concentrations of airborne contaminants exceeding permissible levels if they are protected by appropriate respiratory protective equipment. Whenever respiratory protective equipment is used a program for selection, maintenance, training, fitting, supervision, cleaning, and use shall meet the following minimum requirements:
 
 (a) Respirators approved by NIOSH under 42 CFR part 84 which are applicable and suitable for the purpose intended shall be furnished and miners shall use the protective equipment in accordance with training and instruction.
 
@@ -10,4 +10,4 @@ Control of employee exposure to harmful airborne contaminants shall be, insofar 
 
 (c) When respiratory protection is used in atmospheres immediately harmful to life, the presence of at least one other person with backup equipment and rescue capability shall be required in the event of failure of the respiratory equipment.
 
-[50 FR 4054, Jan. 29, 1985, as amended at 60 FR 30400, June 8, 1995; 60 FR 33723, June 29, 1995; 60 FR 35695, July 11, 1995; 71 FR 16667, Apr. 3, 2006]
+[50 FR 4054, Jan. 29, 1985, as amended at 60 FR 30400, June 8, 1995; 60 FR 33723, June 29, 1995; 60 FR 35695, July 11, 1995; 71 FR 16667, Apr. 3, 2006; 89 FR 28469, Apr. 18, 2024]

@@ -1,7 +1,5 @@
 ##### § 144.103 Definitions. #####
 
-Link to an amendment published at 89 FR 23416, Apr. 3, 2024.
-
 For purposes of parts 146 (group market), 147 (group and individual market), 148 (individual market), 149 (surprise billing and transparency), and 150 (enforcement) of this subchapter, the following definitions apply unless otherwise provided:
 
 *Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.
@@ -186,23 +184,19 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *Public health plan* has the meaning given the term in 45 CFR 146.113(a)(1)(ix).
 
-*Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a contract with an issuer that:
+*Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a policy, certificate, or contract of insurance with an issuer that meets the conditions of paragraph (1) of this definition.
 
-(1) Has an expiration date specified in the contract that is less than 12 months after the original effective date of the contract and, taking into account renewals or extensions, has a duration of no longer than 36 months in total;
+(1) *Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a policy, certificate, or contract of insurance with an issuer that:
 
-(2) With respect to policies having a coverage start date before January 1, 2019, displays prominently in the contract and in any application materials provided in connection with enrollment in such coverage in at least 14 point type the language in the following Notice 1, excluding the heading “Notice 1,” with any additional information required by applicable state law:
+(i) Has an expiration date specified in the policy, certificate, or contract of insurance that is no more than 3 months after the original effective date of the policy, certificate, or contract of insurance, and taking into account any renewals or extensions, has a duration no longer than 4 months in total. For purposes of this paragraph (1)(i), a renewal or extension includes the term of a new short-term, limited-duration insurance policy, certificate, or contract of insurance issued by the same issuer, or if the issuer is a member of a controlled group, any other issuer that is a member of such controlled group, to the same policyholder within the 12-month period beginning on the original effective date of the initial policy, certificate, or contract of insurance; and
 
-Notice 1:
+(ii) Displays prominently on the first page (in either paper or electronic form, including on a website) of the policy, certificate, or contract of insurance, and in any marketing, application, and enrollment materials (including reenrollment materials) provided to individuals at or before the time an individual has the opportunity to enroll (or reenroll) in the coverage, in at least 14-point font, the language in the following notice:
 
-This coverage is not required to comply with certain federal market requirements for health insurance, principally those contained in the Affordable Care Act. Be sure to check your policy carefully to make sure you are aware of any exclusions or limitations regarding coverage of preexisting conditions or health benefits (such as hospitalization, emergency services, maternity care, preventive care, prescription drugs, and mental health and substance use disorder services). Your policy might also have lifetime and/or annual dollar limits on health benefits. If this coverage expires or you lose eligibility for this coverage, you might have to wait until an open enrollment period to get other health insurance coverage. Also, this coverage is not “minimum essential coverage.” If you don't have minimum essential coverage for any month in 2018, you may have to make a payment when you file your tax return unless you qualify for an exemption from the requirement that you have health coverage for that month.
+![](/graphics/er03ap24.064.gif)
 
-(3) With respect to policies having a coverage start date on or after January 1, 2019, displays prominently in the contract and in any application materials provided in connection with enrollment in such coverage in at least 14 point type the language in the following Notice 2, excluding the heading “Notice 2,” with any additional information required by applicable state law:
+(2) For purposes of paragraph (1)(i) of this definition, the term “controlled group” means any group treated as a single employer under section 52(a), 52(b), 414(m), or 414(o) of the Internal Revenue Code of 1986, as amended.
 
-Notice 2:
-
-This coverage is not required to comply with certain federal market requirements for health insurance, principally those contained in the Affordable Care Act. Be sure to check your policy carefully to make sure you are aware of any exclusions or limitations regarding coverage of preexisting conditions or health benefits (such as hospitalization, emergency services, maternity care, preventive care, prescription drugs, and mental health and substance use disorder services). Your policy might also have lifetime and/or annual dollar limits on health benefits. If this coverage expires or you lose eligibility for this coverage, you might have to wait until an open enrollment period to get other health insurance coverage.
-
-(4) If a court holds the 36-month maximum duration provision set forth in paragraph (1) of this definition or its applicability to any person or circumstances invalid, the remaining provisions and their applicability to other people or circumstances shall continue in effect.
+(3) If any provision of this definition is held to be invalid or unenforceable by its terms, or as applied to any entity or circumstance, or stayed pending further agency action, the provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, along with other provisions not found invalid or unenforceable, including as applied to entities not similarly situated or to dissimilar circumstances, unless such holding is that the provision is invalid and unenforceable in all circumstances, in which event the provision shall be severable from the remainder of the definition and shall not affect the remainder thereof.
 
 *Significant break in coverage* has the meaning given the term in 45 CFR 146.113(b)(2)(iii).
 

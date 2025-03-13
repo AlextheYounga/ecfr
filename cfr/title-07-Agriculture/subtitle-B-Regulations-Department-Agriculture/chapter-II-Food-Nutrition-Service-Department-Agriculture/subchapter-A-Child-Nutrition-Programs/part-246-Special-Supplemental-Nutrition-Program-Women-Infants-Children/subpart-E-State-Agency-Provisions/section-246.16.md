@@ -1,7 +1,5 @@
 ##### § 246.16 Distribution of funds. #####
 
-Link to an amendment published at 89 FR 28529, Apr. 18, 2024.
-
 (a) *General.* This paragraph describes the timeframes for distribution of appropriated funds by the Department to participating State agencies and the authority for the Secretary to use appropriated funds for evaluation studies and demonstration projects.
 
 (1) Authorized appropriations to carry out the provisions of this section may be made not more than 1 year in advance of the beginning of the fiscal year in which the funds shall become available for disbursement to the State agencies. The funds shall remain available for the purposes for which appropriated until expended.
@@ -112,23 +110,25 @@ Link to an amendment published at 89 FR 28529, Apr. 18, 2024.
 
 (i) *How do converted funds affect the calculation of my prior year food grant and base NSA grant?* For purposes of establishing a State agency's prior year food grant and base NSA grant under paragraphs (c)(2)(i) and (c)(3)(i) of this section, respectively, amounts converted from food funds to NSA funds under paragraphs (f) and (g) of this section and § 246.14(e) during the preceding fiscal year will be treated as though no conversion had taken place.
 
-(j) *Inflation adjustment of the fruit and vegetable voucher.* The monthly cash value of the fruit and vegetable voucher shall be adjusted annually for inflation. Adjustments are effective the first day of each fiscal year beginning on or after October 1, 2008. The inflation-adjusted value of the voucher shall be equal to a base value increased by a factor based on the Consumer Price Index for fresh fruits and vegetables, as provided in this section.
+(j) *Inflation adjustment of the fruit and vegetable voucher.* The monthly cash value of the fruit and vegetable voucher shall be adjusted annually for inflation. Adjustments are effective the first day of each fiscal year beginning on or after October 1 each year. The inflation-adjusted value of the voucher shall be equal to a base value increased by a factor based on the Consumer Price Index for All Urban Consumers (CPI-U) for fresh fruits and vegetables, as provided in this section.
 
 (1) *Adjustment year.* The adjustment year is the fiscal year that begins October 1 of the current calendar year.
 
-(2) *Base value of the fruit and vegetable voucher.* The base year for calculation of the value of the fruit and vegetable voucher is fiscal year 2008. The base value to be used equals:
+(2) *Base value of the fruit and vegetable voucher.* The base year for calculation of the value of the fruit and vegetable voucher is fiscal year 2022. The base value to be used equals:
 
-(i) $8 for children; and
+(i) $24 for children;
 
-(ii) $10 for women.
+(ii) $43 for pregnant and postpartum women; and
 
-(3) *Adjusted value of the fruit and vegetable voucher.* The adjusted value of the fruit and vegetable voucher is the cash value of the voucher for adjustment years beginning on or after October 1, 2008. The adjusted value is the base value increased by an amount equal to the base value of the fruit and vegetable voucher:
+(iii) $47 for breastfeeding (fully and partially (mostly)) women.
+
+(3) *Adjusted value of the fruit and vegetable voucher.* The adjusted value of the fruit and vegetable voucher is the cash value of the voucher for adjustment years beginning on or after October 1, 2022. The adjusted value is the base value increased by an amount equal to the base value of the fruit and vegetable voucher:
 
 (i) Multiplied by the inflation adjustment described in paragraph (j)(4) of this section; and
 
 (ii) Subject to rounding as described in paragraph (j)(5) of this section.
 
-(4) *Inflation adjustment.* The inflation adjustment of the fruit and vegetable voucher shall equal the percentage (if any) by which the annual average value of the Consumer Price Index for fresh fruits and vegetables, computed from monthly values published by the Bureau of Labor Statistics, for the twelve months ending on March 31 of the fiscal year immediately prior to the adjustment year, exceeds the average of the monthly values of that index for the twelve months ending on March 31, 2007.
+(4) *Inflation adjustment.* The inflation adjustment of the fruit and vegetable voucher shall equal the percentage (if any) by which the annual average value of the Consumer Price Index for fresh fruits and vegetables, computed from monthly values published by the Bureau of Labor Statistics, for the twelve months ending on March 31 of the fiscal year immediately prior to the adjustment year, exceeds the average of the monthly values of that index for the twelve months ending on March 31, 2021.
 
 (5) *Rounding.* If any increase in the cash value of the voucher determined under paragraph (j)(3) of this section is not a multiple of $1, such increase shall be rounded to the next lowest multiple of $1. However, if the adjusted value of the voucher for the adjustment year, as determined under paragraph (j)(3) of this section, is lower than the adjusted value for the fiscal year immediately prior to the adjustment year, then the adjusted value of the voucher will remain unchanged from that immediate prior fiscal year.
 

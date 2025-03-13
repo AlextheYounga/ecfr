@@ -1,8 +1,6 @@
 ##### § 246.11 Nutrition education. #####
 
-Link to an amendment published at 89 FR 28528, Apr. 18, 2024.
-
-(a) *General.* (1) Nutrition education including breastfeeding promotion and support, shall be considered a benefit of the Program, and shall be made available at no cost to the participant. Nutrition education including breastfeeding promotion and support, shall be designed to be easily understood by participants, and it shall bear a practical relationship to participant nutritional needs, household situations, and cultural preferences including information on how to select food for themselves and their families. Nutrition education including breastfeeding promotion and support, shall be thoroughly integrated into participant health care plans, the delivery of supplemental foods, and other Program operations.
+(a) *General.* (1) Nutrition education including breastfeeding promotion and support shall be considered a benefit of the Program and shall be made available at no cost to the participant. Nutrition education including breastfeeding promotion and support, shall be designed to be easily understood by participants, and it shall bear a practical relationship to participant nutritional needs, household situations, and cultural preferences including information on how to select food for themselves and their families as well as the maximum monthly allowances of authorized supplemental foods to which they are entitled as a Program participant.
 
 (2) The State agency shall ensure that nutrition education, including breastfeeding promotion and support, as appropriate, is made available to all participants. Nutrition education may be provided through the local agencies directly, or through arrangements made with other agencies. At the time of certification, the local agency shall stress the positive, long-term benefits of nutrition education and encourage the participant to attend and participate in nutrition education activities. However, individual participants shall not be denied supplemental foods for failure to attend or participate in nutrition education activities.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 28528, Apr. 18, 2024.
 
 (6) Contacts shall be designed to meet different cultural and language needs of Program participants.
 
-[50 FR 6121, Feb. 13, 1985; 50 FR 8098, Feb. 28, 1985, as amended at 58 FR 11507, Feb. 26, 1993; 59 FR 11503, Mar. 11, 1994; 65 FR 53528, Sept. 5, 2000; 71 FR 56731, Sept. 27, 2006; 73 FR 11312, Mar. 3, 2008; 76 FR 59889, Sept. 28, 2011]
+[50 FR 6121, Feb. 13, 1985; 50 FR 8098, Feb. 28, 1985, as amended at 58 FR 11507, Feb. 26, 1993; 59 FR 11503, Mar. 11, 1994; 65 FR 53528, Sept. 5, 2000; 71 FR 56731, Sept. 27, 2006; 73 FR 11312, Mar. 3, 2008; 76 FR 59889, Sept. 28, 2011; 89 FR 28528, Apr. 18, 2024]

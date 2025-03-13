@@ -2,6 +2,8 @@
 
 Link to an amendment published at 89 FR 28485, Apr. 18, 2024.
 
+The following is required until April 14, 2025:
+
 (a) The District Manager will approve respirable dust control plans on a mine-by-mine basis. When approving respirable dust control plans, the District Manager shall consider whether:
 
 (1) The respirable dust control measures would be likely to maintain concentrations of respirable coal mine dust at or below the applicable standard; and
@@ -15,3 +17,5 @@ Link to an amendment published at 89 FR 28485, Apr. 18, 2024.
 (d) The operator shall provide a copy of the current respirable dust control plan required under this part to the part 90 miner. The operator shall not post the original or a copy of the plan on the mine bulletin board.
 
 (e) The operator may review respirable dust control plans and submit proposed revisions to such plans to the District Manager for approval.
+
+[79 FR 24993, May 1, 2014, as amended at 89 FR 28485, Apr. 18, 2024]

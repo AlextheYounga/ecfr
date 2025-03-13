@@ -1,8 +1,6 @@
 ##### § 2590.701-3 Limitations on preexisting condition exclusion period. #####
 
-##### § 2590.701-3 Limitations on preexisting condition exclusion period. #####
-
-(a) *Preexisting condition exclusion defined*—(1) A *preexisting condition exclusion* means a *preexisting condition exclusion* within the meaning of § 2590.701-2.
+(a) *Preexisting condition exclusion defined.* (1) A *preexisting condition exclusion* means a *preexisting condition exclusion* within the meaning of § 2590.701-2.
 
 (2) *Examples.* The rules of this paragraph (a)(1) are illustrated by the following examples:
 

@@ -1,8 +1,8 @@
 ##### § 70.209 Quarterly sampling; designated areas. #####
 
-Link to an amendment published at 89 FR 28475, Apr. 18, 2024.Link to an amendment published at 89 FR 28476, Apr. 18, 2024.
+Link to an amendment published at 89 FR 28476, Apr. 18, 2024.
 
-On February 1, 2016:
+The following is required until April 14, 2025:
 
 (a) The operator shall sample quarterly each designated area (DA) on consecutive production shifts until five valid representative samples are taken. The quarterly periods are:
 
@@ -41,3 +41,5 @@ January 1-March 31April 1-June 30July 1-September 30October 1-December 31.
 (1) Each of the five valid representative samples is at or below the applicable standard; and
 
 (2) The operator has submitted to the District Manager revised dust control parameters as part of the mine ventilation plan applicable to the DA in the citation, and the changes have been approved by the District Manager. The revised parameters shall reflect the control measures used by the operator to abate the violation.
+
+[79 FR 24974, May 1, 2014, as amended at 89 FR 28475, Apr. 18, 2024]

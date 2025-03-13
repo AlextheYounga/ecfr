@@ -1,0 +1,3 @@
+##### § 60.17 Severability. #####
+
+Each section of this part, as well as sections in 30 CFR parts 56, 57, 70, 71, 72, 75, and 90 that address respirable crystalline silica or respiratory protection, is separate and severable from the other sections and provisions. If any provision of this subpart is held to be invalid or unenforceable by its terms, or as applied to any person, entity, or circumstance, or is stayed or enjoined, that provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event the provision shall be severable from these sections and shall not affect the remainder thereof.

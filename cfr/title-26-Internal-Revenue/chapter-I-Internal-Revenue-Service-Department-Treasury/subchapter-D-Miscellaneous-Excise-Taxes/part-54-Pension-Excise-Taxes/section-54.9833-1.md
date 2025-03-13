@@ -1,7 +1,5 @@
 ##### § 54.9833-1 Applicability dates. #####
 
-Link to an amendment published at 89 FR 23413, Apr. 3, 2024.
+Sections 54.9801-1 through 54.9801-6, and 54.9831-1 and this section are applicable for plan years beginning on or after July 1, 2005. Notwithstanding the previous sentence, for short-term, limited-duration insurance sold or issued on or after September 1, 2024, the definition of *short-term, limited-duration insurance* in § 54.9801-2 applies for coverage periods beginning on or after September 1, 2024. For short-term, limited-duration insurance sold or issued before September 1, 2024 (including any subsequent renewal or extension consistent with applicable law), the definition of *short-term, limited-duration insurance* in 26 CFR 54.9801-2, revised as of April 1, 2023, continues to apply, except that paragraph (2) of the definition of *short-term, limited-duration insurance* in § 54.9801-2 applies for coverage periods beginning on or after September 1, 2024.
 
-Sections 54.9801-1 through 54.9801-6, 54.9831-1, and this section are applicable for plan years beginning on or after July 1, 2005. Notwithstanding the previous sentence, the definition of “short-term, limited-duration insurance” in § 54.9801-2 applies October 2, 2018.
-
-[T.D. 9166, 69 FR 78746, Dec. 30, 2004, as amended by T.D. 9791, 81 FR 75325, Oct. 31, 2016; T.D. 9837, 83 FR 38242, Aug. 3, 2018]
+[T.D. 9990, 89 FR 23413, Apr. 3, 2024]

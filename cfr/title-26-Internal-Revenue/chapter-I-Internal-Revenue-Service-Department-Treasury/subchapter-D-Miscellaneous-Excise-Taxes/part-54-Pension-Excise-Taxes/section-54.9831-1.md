@@ -1,7 +1,5 @@
 ##### § 54.9831-1 Special rules relating to group health plans. #####
 
-Link to an amendment published at 89 FR 23412, Apr. 3, 2024.
-
 (a) *Group health plan*—(1) *Defined.* A group health plan means a plan (including a self-insured plan) of, or contributed to by, an employer (including a self-employed person) or employee organization to provide health care (directly or otherwise) to the employees, former employees, the employer, others associated or formerly associated with the employer in a business relationship, or their families.
 
 (2) *Determination of number of plans.* [Reserved]
@@ -172,11 +170,23 @@ Link to an amendment published at 89 FR 23412, Apr. 3, 2024.
 
 (C) The benefits are paid with respect to an event without regard to whether benefits are provided with respect to the event under any group health plan maintained by the same plan sponsor.
 
+(D) For plan years beginning on or after January 1, 2025, with respect to hospital indemnity or other fixed indemnity insurance:
+
+(*1*) The plan or issuer displays prominently on the first page (in either paper or electronic form, including on a website) of any marketing, application, and enrollment materials that are provided to participants at or before the time participants are given the opportunity to enroll in the coverage, in at least 14-point font, the language in the following notice:
+
+![](/graphics/er03ap24.061.gif)
+
+(*2*) If participants are required to reenroll (in either paper or electronic form) for purposes of renewal or reissuance of the insurance, the notice described in paragraph (c)(4)(ii)(D)(*1*) of this section is prominently displayed in any marketing and reenrollment materials provided at or before the time participants are given the opportunity to reenroll in coverage.
+
+(*3*) If a plan or issuer provides a notice satisfying the requirements in paragraphs (c)(4)(ii)(D)(*1*) and (*2*) of this section to a participant, the obligation to provide the notice is considered to be satisfied for both the plan and issuer.
+
 (iii) *Example.* The rules of this paragraph (c)(4) are illustrated by the following example:
 
 Example.(i) *Facts.* An employer sponsors a group health plan that provides coverage through an insurance policy. The policy provides benefits only for hospital stays at a fixed percentage of hospital expenses up to a maximum of $100 a day.
 
 (ii) *Conclusion.* In this *Example,* even though the benefits under the policy satisfy the conditions in paragraph (c)(4)(ii) of this section, because the policy pays a percentage of expenses incurred rather than a fixed dollar amount, the benefits under the policy are not excepted benefits under this paragraph (c)(4). This is the result even if, in practice, the policy pays the maximum of $100 for every day of hospitalization.
+
+(iv) *Severability.* If any provision of this paragraph (c)(4) is held to be invalid or unenforceable by its terms, or as applied to any entity or circumstance, or stayed pending further agency action, the provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, along with other provisions not found invalid or unenforceable, including as applied to entities not similarly situated or to dissimilar circumstances, unless such holding is that the provision is invalid and unenforceable in all circumstances, in which event the provision shall be severable from the remainder of this paragraph (c)(4) and shall not affect the remainder thereof.
 
 (5) *Supplemental benefits.* (i) The following benefits are excepted only if they are provided under a separate policy, certificate, or contract of insurance—
 
@@ -206,4 +216,4 @@ Example.(i) *Facts.* An employer sponsors a group health plan that provides cove
 
 (e) *Determining the average number of employees.* [Reserved]
 
-[T.D. 9166, 69 FR 78746, Dec. 30, 2004; 70 FR 21146, Apr. 25, 2005, as amended by T.D. 9299, 71 FR 75057, Dec. 13, 2006; T.D. 9427, 73 FR 62422, Oct. 20, 2008; T.D. 9464, 74 FR 51678, Oct. 7, 2009; T.D. 9656, 79 FR 10308, Feb. 24, 2014; T.D. 9697, 79 FR 59135, Oct. 1, 2014; T.D. 9714, 80 FR 14004, Mar. 18, 2015; T.D. 9791, 81 FR 75324, Oct. 31, 2016; T.D. 9867, 84 FR 28999, June 20, 2019]
+[T.D. 9166, 69 FR 78746, Dec. 30, 2004; 70 FR 21146, Apr. 25, 2005, as amended by T.D. 9299, 71 FR 75057, Dec. 13, 2006; T.D. 9427, 73 FR 62422, Oct. 20, 2008; T.D. 9464, 74 FR 51678, Oct. 7, 2009; T.D. 9656, 79 FR 10308, Feb. 24, 2014; T.D. 9697, 79 FR 59135, Oct. 1, 2014; T.D. 9714, 80 FR 14004, Mar. 18, 2015; T.D. 9791, 81 FR 75324, Oct. 31, 2016; T.D. 9867, 84 FR 28999, June 20, 2019; T.D. 9990, 89 FR 23412, Apr. 3, 2024]

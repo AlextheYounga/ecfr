@@ -1,5 +1,7 @@
 ##### § 17.156 Eligibility for automobile adaptive equipment. #####
 
+Link to an amendment published at 89 FR 51232, June 17, 2024.
+
 Automobile adaptive equipment may be authorized if the Under Secretary for Health or designee determines that such equipment is deemed necessary to insure that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person's safety and so as to satisfy the applicable standards of licensure established by the State of such person's residency or other proper licensing authority.
 
 (a) Persons eligible for adaptive equipment are:

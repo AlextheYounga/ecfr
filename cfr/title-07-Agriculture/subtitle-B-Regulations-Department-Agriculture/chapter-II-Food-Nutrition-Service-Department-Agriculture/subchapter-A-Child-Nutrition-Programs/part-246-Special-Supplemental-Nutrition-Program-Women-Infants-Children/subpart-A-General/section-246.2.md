@@ -1,7 +1,5 @@
 ##### § 246.2 Definitions. #####
 
-Link to an amendment published at 89 FR 28518, Apr. 18, 2024.
-
 For the purpose of this part and all contracts, guidelines, instructions, forms and other documents related hereto, the term:
 
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).
@@ -45,6 +43,8 @@ For the purpose of this part and all contracts, guidelines, instructions, forms 
 *Days* means calendar days.
 
 *Department* means the U.S. Department of Agriculture.
+
+*Disability* means, with respect to an individual, a physical or mental impairment that substantially limits one or more of the major life activities of such individual, a record of such an impairment, or being regarded as having such an impairment. See 28 CFR 35.108.
 
 *Discount* means, with respect to a State agency that provides Program foods to participants without the use of retail grocery stores (such as a State agency that provides for the home delivery or direct distribution of supplemental food), the amount of the price reduction or other price concession provided to any State agency by the manufacturer or supplier of the particular food product as the result of the purchase of Program food by each such State agency, or its representative, from the manufacturer or supplier.
 
@@ -126,8 +126,6 @@ For the purpose of this part and all contracts, guidelines, instructions, forms 
 
 *IHS* means the Indian Health Service of the U.S. Department of Health and Human Services.
 
-*Individual with disabilities* means a handicapped person as defined in 7 CFR 15b.3.
-
 *Infant formula* means a food that meets the definition of an infant formula in section 201(z) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(z)) and that meets the requirements for an infant formula under section 412 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350a) and the regulations at 21 CFR parts 106 and 107.
 
 *Institution* means any residential accommodation which provides meal service, except private residences and homeless facilities.
@@ -162,7 +160,7 @@ For the purpose of this part and all contracts, guidelines, instructions, forms 
 
 *Partially-redeemed food instrument* means a paper food instrument which is redeemed for less than all of the supplemental foods authorized for that food instrument.
 
-*Participant violation* means any deliberate action of a participant, parent or caretaker of an infant or child participant, or proxy that violates Federal or State statutes, regulations, policies, or procedures governing the Program. Participant violations include, but are not limited to, deliberately making false or misleading statements or deliberately misrepresenting, concealing, or withholding facts, to obtain benefits; selling or offering to sell WIC benefits, including cash-value vouchers, food instruments, EBT cards, or supplemental foods in person, in print, or online; exchanging or attempting to exchange WIC benefits, including cash-value vouchers, food instruments, EBT cards, or supplemental foods for cash, credit, services, non-food items, or unauthorized food items, including supplemental foods in excess of those listed on the participant's food instrument; threatening to harm or physically harming clinic, farmer, or vendor staff; and dual participation.
+*Participant violation* means any deliberate action of a participant, parent, or caretaker of an infant or child participant, or proxy that violates Federal or State statutes, regulations, policies, or procedures governing the Program. Participant violations include, but are not limited to, deliberately making false or misleading statements or deliberately misrepresenting, concealing, or withholding facts, to obtain benefits; selling or offering to sell WIC benefits, cash-value vouchers, paper food instruments, EBT cards, supplemental foods, or breast pumps in person, in print, or online; exchanging or attempting to exchange WIC benefits, cash-value vouchers, paper food instruments, EBT cards, supplemental foods, or breast pumps for cash, credit, services, non-food items, or unauthorized food items, including supplemental foods in excess of those listed on the participant's food instrument; threatening to harm or physically harming clinic, farmer, farmers' market, or vendor staff; and dual participation.
 
 *Participants* means pregnant women, breastfeeding women, postpartum women, infants and children who are receiving supplemental foods or food instruments or cash-value vouchers under the Program, and the breastfed infants of participant breastfeeding women.
 
@@ -240,6 +238,6 @@ For the purpose of this part and all contracts, guidelines, instructions, forms 
 
 *WIC* means the Special Supplemental Nutrition Program for Women, Infants and Children authorized by section 17 of the Child Nutrition Act of 1966, 42 U.S.C. 1786.
 
-*WIC-eligible nutritionals for participants with qualifying conditions (hereafter referred to as “WIC-eligible nutritionals)* means certain enteral products that are specifically formulated to provide nutritional support for individuals with a qualifying condition, when the use of conventional foods is precluded, restricted, or inadequate. Such WIC-eligible nutritionals must serve the purpose of a food, meal or diet (may be nutritionally complete or incomplete) and provide a source of calories and one or more nutrients; be designed for enteral digestion via an oral or tube feeding; and may not be a conventional food, drug, flavoring, or enzyme. WIC-eligible nutritionals include many, but not all, products that meet the definition of medical food in Section 5(b)(3) of the Orphan Drug Act (21 U.S.C. 360ee(b)(3)).
+*WIC-eligible nutritionals for participants with qualifying conditions (hereafter referred to as “WIC-eligible nutritionals”)* means certain enteral products that are specifically formulated and commercially manufactured (as opposed to a naturally occurring foodstuff used in its natural state) to provide nutritional support for individuals with a qualifying condition, when the use of conventional foods is precluded, restricted, or inadequate. Such WIC-eligible nutritionals must serve the purpose of a food, meal, or diet (may be nutritionally complete or incomplete) and provide a source of calories and one or more nutrients; be designed for enteral digestion via an oral or tube feeding; and may not be a conventional food, drug, flavoring, or enzyme. WIC-eligible nutritionals include many, but not all, products that meet the definition of medical food in section 5(b)(3) of the Orphan Drug Act (21 U.S.C. 360ee(b)(3)).
 
 [50 FR 6121, Feb. 13, 1985; 50 FR 8098, Feb. 28, 1985]Editorial Note:For Federal Register citations affecting § 246.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 54.9801-2 Definitions. #####
 
-Link to an amendment published at 89 FR 23410, Apr. 3, 2024.
-
 Unless otherwise provided, the definitions in this section govern in applying the provisions of sections 9801 through 9815 and 9831 through 9833.
 
 *Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.
@@ -92,23 +90,19 @@ Unless otherwise provided, the definitions in this section govern in applying th
 
 *Public Health Service Act (PHS Act)* means the Public Health Service Act (42 U.S.C. 201, *et seq.*).
 
-*Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a contract with an issuer that:
+*Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a policy, certificate, or contract of insurance with an issuer that meets the conditions of paragraph (1) of this definition.
 
-(1) Has an expiration date specified in the contract that is less than 12 months after the original effective date of the contract and, taking into account renewals or extensions, has a duration of no longer than 36 months in total;
+(1) *Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a policy, certificate, or contract of insurance with an issuer that:
 
-(2) With respect to policies having a coverage start date before January 1, 2019, displays prominently in the contract and in any application materials provided in connection with enrollment in such coverage in at least 14 point type the language in the following Notice 1, excluding the heading “Notice 1,” with any additional information required by applicable state law:
+(i) Has an expiration date specified in the policy, certificate, or contract of insurance that is no more than 3 months after the original effective date of the policy, certificate, or contract of insurance, and taking into account any renewals or extensions, has a duration no longer than 4 months in total. For purposes of this paragraph (1)(i), a renewal or extension includes the term of a new short-term, limited-duration insurance policy, certificate, or contract of insurance issued by the same issuer, or if the issuer is a member of a controlled group, any other issuer that is a member of such controlled group, to the same policyholder within the 12-month period beginning on the original effective date of the initial policy, certificate, or contract of insurance; and
 
-Notice 1:
+(ii) Displays prominently on the first page (in either paper or electronic form, including on a website) of the policy, certificate, or contract of insurance, and in any marketing, application, and enrollment materials (including reenrollment materials) provided to individuals at or before the time an individual has the opportunity to enroll (or reenroll) in the coverage, in at least 14-point font, the language in the following notice:
 
-This coverage is not required to comply with certain federal market requirements for health insurance, principally those contained in the Affordable Care Act. Be sure to check your policy carefully to make sure you are aware of any exclusions or limitations regarding coverage of preexisting conditions or health benefits (such as hospitalization, emergency services, maternity care, preventive care, prescription drugs, and mental health and substance use disorder services). Your policy might also have lifetime and/or annual dollar limits on health benefits. If this coverage expires or you lose eligibility for this coverage, you might have to wait until an open enrollment period to get other health insurance coverage. Also, this coverage is not “minimum essential coverage.” If you don't have minimum essential coverage for any month in 2018, you may have to make a payment when you file your tax return unless you qualify for an exemption from the requirement that you have health coverage for that month.
+![](/graphics/er03ap24.060.gif)
 
-(3) With respect to policies having a coverage start date on or after January 1, 2019, displays prominently in the contract and in any application materials provided in connection with enrollment in such coverage in at least 14 point type the language in the following Notice 2, excluding the heading “Notice 2,” with any additional information required by applicable state law:
+(2) For purposes of paragraph (1)(i) of this definition, the term “controlled group” means any group treated as a single employer under section 52(a), 52(b), 414(m), or 414(o) of the Code.
 
-Notice 2:
-
-This coverage is not required to comply with certain federal market requirements for health insurance, principally those contained in the Affordable Care Act. Be sure to check your policy carefully to make sure you are aware of any exclusions or limitations regarding coverage of preexisting conditions or health benefits (such as hospitalization, emergency services, maternity care, preventive care, prescription drugs, and mental health and substance use disorder services). Your policy might also have lifetime and/or annual dollar limits on health benefits. If this coverage expires or you lose eligibility for this coverage, you might have to wait until an open enrollment period to get other health insurance coverage.
-
-(4) If a court holds the 36-month maximum duration provision set forth in paragraph (1) of this definition or its applicability to any person or circumstances invalid, the remaining provisions and their applicability to other people or circumstances shall continue in effect.
+(3) If any provision of this definition is held to be invalid or unenforceable by its terms, or as applied to any entity or circumstance, or stayed pending further agency action, the provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, along with other provisions not found invalid or unenforceable, including as applied to entities not similarly situated or to dissimilar circumstances, unless such holding is that the provision is invalid and unenforceable in all circumstances, in which event the provision shall be severable from the remainder of the definition and shall not affect the remainder thereof.
 
 *Significant break in coverage* means a *significant break in coverage* within the meaning of § 54.9801-4(b)(2)(iii).
 
@@ -120,4 +114,4 @@ This coverage is not required to comply with certain federal market requirements
 
 *Waiting period* means *waiting period* within the meaning of § 54.9815-2708(b).
 
-[T.D. 9166, 69 FR 78746, Dec. 30, 2004, as amended by T.D. 9299, 71 FR 75056, Dec. 13, 2006; T.D. 9427, 73 FR 62420, Oct. 20, 2008; T.D. 9464, 74 FR 51678, Oct. 7, 2009; T.D. 9491, 75 FR 37222, June 28, 2010; T.D. 9656, 79 FR 10304, Feb. 24, 2014; T.D. 9744, 80 FR 72238, Nov. 18, 2015; T.D. 9791, 81 FR 75324, Oct. 31, 2016; T.D. 9837, 83 FR 38241, Aug. 3, 2018; T.D. 9867, 84 FR 28987, June 20, 2019]
+[T.D. 9166, 69 FR 78746, Dec. 30, 2004, as amended by T.D. 9299, 71 FR 75056, Dec. 13, 2006; T.D. 9427, 73 FR 62420, Oct. 20, 2008; T.D. 9464, 74 FR 51678, Oct. 7, 2009; T.D. 9491, 75 FR 37222, June 28, 2010; T.D. 9656, 79 FR 10304, Feb. 24, 2014; T.D. 9744, 80 FR 72238, Nov. 18, 2015; T.D. 9791, 81 FR 75324, Oct. 31, 2016; T.D. 9837, 83 FR 38241, Aug. 3, 2018; T.D. 9867, 84 FR 28987, June 20, 2019; T.D. 9990, 89 FR 23410, Apr. 3, 2024]

@@ -1,5 +1,7 @@
 ##### § 170.205 Content exchange standards and implementation specifications for exchanging electronic health information. #####
 
+Link to an amendment published at 89 FR 51265, June 17, 2024.
+
 The Secretary adopts the following content exchange standards and associated implementation specifications:
 
 (a) *Patient summary record.* (1) [Reserved]

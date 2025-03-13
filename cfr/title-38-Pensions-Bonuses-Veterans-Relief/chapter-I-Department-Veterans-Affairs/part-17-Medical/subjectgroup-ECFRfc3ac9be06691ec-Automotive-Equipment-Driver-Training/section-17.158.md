@@ -1,5 +1,7 @@
 ##### § 17.158 Limitations on assistance. #####
 
+Link to an amendment published at 89 FR 51233, June 17, 2024.
+
 (a) An eligible person shall not be entitled to adaptive equipment for more than two automobiles or other conveyances at any one time or during any four-year period except when due to circumstances beyond control of such person, one of the automobiles or conveyances for which adaptive equipment was provided during the applicable four-year period is no longer available for the use of such person.
 
 (1) Circumstances beyond the control of the eligible person are those where the vehicle was lost due to fire, theft, accident, court action, or when repairs are so costly as to be prohibitive or a different vehicle is required due to a change in the eligible person's physical condition.

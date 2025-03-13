@@ -1,7 +1,5 @@
 ##### § 2590.732 Special rules relating to group health plans. #####
 
-Link to an amendment published at 89 FR 23415, Apr. 3, 2024.
-
 (a) *Group health plan*—(1) *Defined.* A group health plan means an employee welfare benefit plan to the extent that the plan provides medical care (including items and services paid for as medical care) to employees (including both current and former employees) or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise.
 
 (2) *Determination of number of plans.* [Reserved]
@@ -10,23 +8,23 @@ Link to an amendment published at 89 FR 23415, Apr. 3, 2024.
 
 (2) The following requirements apply without regard to paragraph (b)(1) of this section:
 
-(i) Section 2590.702(b) of this Part, as such section applies with respect to genetic information as a health factor.
+(i) Section 2590.702(b) of this part, as such section applies with respect to genetic information as a health factor.
 
-(ii) Section 2590.702(c) of this Part, as such section applies with respect to genetic information as a health factor.
+(ii) Section 2590.702(c) of this part, as such section applies with respect to genetic information as a health factor.
 
-(iii) Section 2590.702(e) of this Part, as such section applies with respect to genetic information as a health factor.
+(iii) Section 2590.702(e) of this part, as such section applies with respect to genetic information as a health factor.
 
-(iv) Section 2590.702-1(b) of this Part.
+(iv) Section 2590.702-1(b) of this part.
 
-(v) Section 2590.702-1(c) of this Part.
+(v) Section 2590.702-1(c) of this part.
 
-(vi) Section 2590.702-1(d) of this Part.
+(vi) Section 2590.702-1(d) of this part.
 
-(vii) Section 2590.702-1(e) of this Part.
+(vii) Section 2590.702-1(e) of this part.
 
-(viii) Section 2590.711 of this Part.
+(viii) Section 2590.711 of this part.
 
-(c) *Excepted benefits*—(1) *In general.* The requirements of this Part do not apply to any group health plan (or any group health insurance coverage) in relation to its provision of the benefits described in paragraph (c)(2), (3), (4), or (5) of this section (or any combination of these benefits).
+(c) *Excepted benefits*—(1) *In general.* The requirements of this part do not apply to any group health plan (or any group health insurance coverage) in relation to its provision of the benefits described in paragraph (c)(2), (3), (4), or (5) of this section (or any combination of these benefits).
 
 (2) *Benefits excepted in all circumstances.* The following benefits are excepted in all circumstances—
 
@@ -150,7 +148,7 @@ Link to an amendment published at 89 FR 23415, Apr. 3, 2024.
 
 (D) *Uniform availability.* The HRA or other account-based group health plan is made available under the same terms to all similarly situated individuals, as defined in § 2590.702(d) of this part, regardless of any health factor (as described in § 2590.702(a)).
 
-(E) *Notice requirement. See* sections 2520.102-3(j)(2) and (3) and 2520.104b-2(a) of this chapter regarding the time, manner, and content for summary plan descriptions (including a description of conditions pertaining to eligibility to receive benefits; annual or lifetime caps or other limits on benefits under the plan; and a description or summary of the benefits).
+(E) *Notice requirement.**See* sections 2520.102-3(j)(2) and (3) and 2520.104b-2(a) of this chapter regarding the time, manner, and content for summary plan descriptions (including a description of conditions pertaining to eligibility to receive benefits; annual or lifetime caps or other limits on benefits under the plan; and a description or summary of the benefits).
 
 (F) *Special rule.* The HRA or other account-based group health plan must not reimburse premiums for short-term, limited-duration insurance (as defined in § 2590.701-2 of this part) if the conditions of this paragraph (c)(3)(viii)(F) are satisfied.
 
@@ -174,11 +172,23 @@ Link to an amendment published at 89 FR 23415, Apr. 3, 2024.
 
 (C) The benefits are paid with respect to an event without regard to whether benefits are provided with respect to the event under any group health plan maintained by the same plan sponsor.
 
+(D) For plan years beginning on or after January 1, 2025, with respect to hospital indemnity or other fixed indemnity insurance:
+
+(*1*) The plan or issuer displays prominently on the first page (in either paper or electronic form, including on a website) of any marketing, application, and enrollment materials that are provided to participants at or before the time participants are given the opportunity to enroll in the coverage, in at least 14-point font, the language in the following notice:
+
+![](/graphics/er03ap24.063.gif)
+
+(*2*) If participants are required to reenroll (in either paper or electronic form) for purposes of renewal or reissuance of the insurance, the notice described in paragraph (c)(4)(ii)(D)(*1*) of this section is prominently displayed in any marketing and reenrollment materials provided at or before the time participants are given the opportunity to reenroll in coverage.
+
+(*3*) If a plan or issuer provides a notice satisfying the requirements in paragraphs (c)(4)(ii)(D)(*1*) and (*2*) of this section to a participant, the obligation to provide the notice is considered to be satisfied for both the plan and issuer.
+
 (iii) *Example.* The rules of this paragraph (c)(4) are illustrated by the following example:
 
 Example.(i) *Facts.* An employer sponsors a group health plan that provides coverage through an insurance policy. The policy provides benefits only for hospital stays at a fixed percentage of hospital expenses up to a maximum of $100 a day.
 
 (ii) *Conclusion.* In this *Example,* even though the benefits under the policy satisfy the conditions in paragraph (c)(4)(ii) of this section, because the policy pays a percentage of expenses incurred rather than a fixed dollar amount, the benefits under the policy are not excepted benefits under this paragraph (c)(4). This is the result even if, in practice, the policy pays the maximum of $100 for every day of hospitalization.
+
+(iv) *Severability.* If any provision of this paragraph (c)(4) is held to be invalid or unenforceable by its terms, or as applied to any entity or circumstance, or stayed pending further agency action, the provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, along with other provisions not found invalid or unenforceable, including as applied to entities not similarly situated or to dissimilar circumstances, unless such holding is that the provision is invalid and unenforceable in all circumstances, in which event the provision shall be severable from the remainder of this paragraph (c)(4) and shall not affect the remainder thereof.
 
 (5) *Supplemental benefits.* (i) The following benefits are excepted only if they are provided under a separate policy, certificate, or contract of insurance—
 
@@ -208,4 +218,4 @@ Example.(i) *Facts.* An employer sponsors a group health plan that provides cove
 
 (e) *Determining the average number of employees.* [Reserved]
 
-[69 FR 78778, Dec. 30, 2004, as amended at 74 FR 51687, Oct. 7, 2009; 79 FR 10312, Feb. 24, 2014; 79 FR 59136, Oct. 1, 2014; 80 FR 14005, Mar. 18, 2015; 81 FR 75325, Oct. 31, 2016; 84 FR 29013, June 20, 2019]
+[69 FR 78778, Dec. 30, 2004, as amended at 74 FR 51687, Oct. 7, 2009; 79 FR 10312, Feb. 24, 2014; 79 FR 59136, Oct. 1, 2014; 80 FR 14005, Mar. 18, 2015; 81 FR 75325, Oct. 31, 2016; 84 FR 29013, June 20, 2019; 89 FR 23415, Apr. 3, 2024]

@@ -1,49 +1,49 @@
 ##### § 1204.504 Delegation of authority to grant leaseholds, permits, and licenses in real property. #####
 
-Link to an amendment published at 89 FR 26759, Apr. 16, 2024.
+(a) *Delegation of authority.* The National Aeronautics and Space Act, as amended, authorizes NASA to grant agreements for the use of NASA-owned and/or -controlled real property. This authority is delegated to the Assistant Administrator for the Office of Strategic Infrastructure and the Director, Facilities Real Estate Division.
 
-(a) *Delegation of authority.* The National Aeronautics and Space Act of 1958, as amended, authorizes NASA to grant leaseholds, permits, and licenses in real property. This authority is delegated to the Assistant Administrator for Strategic Infrastructure and the Director, Facilities Engineering and Real Property Division.
+(b) *Definitions.* The following definitions will apply:
 
-(b) *Definition. Real Property* means land, buildings, other structures and improvements, appurtenances, and fixtures located thereon.
+(1) Real Property refers to land, buildings, structures (including relocatable structures), air space, utility systems, improvements, and appurtenances annexed to land referred to as real property assets. For purposes of NASA use, the term real property also includes related personal property, also known as collateral equipment.
 
-(c) *Determination.* It is hereby determined that grants of leaseholds, permits, or licenses made in accordance with the provisions of this section will not be adverse to the interests of the United States.
+(2) State means the States of the Union, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States.
 
-(d) *Redelegation.* (1) Center Directors with respect to real property under their supervision and management may, subject to the restrictions in paragraph (e) of this section, grant a leasehold, permit, or license to any person or organization, including other Government agencies, a State, or political subdivision or agency thereof. This authority may not be exercised with respect to real property which is proposed for use by a NASA exchange and subject to the provisions of NASA Policy Directive 9050.6, NASA Exchange and Morale Support Activities.
+(3) Person includes any corporation, partnership, firm, association, trust, estate, or other entity.
 
-(2) Center Directors may redelegate this authority to only two senior management officials of the NASA Center concerned.
+(c) *Redelegation.* (1) The Real Estate Branch Chief may, subject to the restrictions in paragraph (d) of this section, grant a leasehold, permit, or license to any Person or organization, including other Government agencies, a State, or political subdivision or agency thereof. This authority may not be exercised with respect to real property which is proposed for use by a NASA exchange and subject to the provisions of NASA Policy Directive 9050.6, NASA Exchange and Morale Support Activities.
 
-(e) *Restrictions.* Except as otherwise specifically provided, no leasehold, permit, or license shall be granted under the authority stated in paragraph (d) of this section unless:
+(2) The Real Estate Branch Chief may redelegate this authority to the appropriate warranted Real Estate Contracting Officer, in accordance with the requirements set forth in NPR 8800.15.
 
-(1) The Director of the Center Director concerned determines:
+(d) *Restrictions.* Except as otherwise specifically provided, no leasehold, permit, or license shall be granted under the authority stated in paragraph (c) of this section unless:
 
-(i) That the interest to be granted is not required for a NASA program.
+(1) The responsible Center Director has provided approval that such leasehold, permit, or license is appropriate.
 
-(ii) That the grantee's exercise of rights granted will not interfere with NASA operations.
+(2) The Center Director provides certification to the appropriate Real Estate Contracting Officer:
 
-(2) Fair value in money is received by NASA on behalf of the Government as consideration.
+(i) That the interest or rights to be granted are not required for a NASA program.
 
-(3) The instrument provides:
+(ii) That the interests or rights to be granted will not be adverse to the interests of the United States nor interfere with NASA operations.
 
-(i) For a term not to exceed 5 years.
+(3) That, in the case of leaseholds fair market value monetary consideration is received by NASA.
 
-(ii) For the termination thereof, in whole or in part, and without cost to the Government if there has been:
+(4) The instrument granting the leasehold, permit, or license in real property is on a form or template approved by or directed to be used by the Real Estate Branch Chief, and provides, at a minimum:
 
-(A) A failure to comply with any term or condition of the grant; or
+(i) For unilateral termination by NASA in the event of:
 
-(B) A determination by the Assistant Administrator for Strategic Infrastructure, the Director, Integrated Asset Management Division, or the Center Director concerned that the interests of the national space program, the national defense, or the public welfare require the termination of the interest granted; and a 30-day notice, in writing, to the grantee that such determination has been made.
+(A) Default by the grantee; or
 
-(iii) That written notice of termination shall be given to the grantee, or its successors or assigns, by the Assistant Administrator for Strategic Infrastructure, the Director, Integrated Asset Management Division, or the Center Director concerned, and that termination shall be effective as of the date specified by such notice.
+(B) Abandonment of the property by the grantee; or
 
-(iv) For any other reservations, exceptions, limitations, benefits, burdens, terms, or conditions necessary to protect the interests of the United States.
+(C) Force majeure circumstances including a determination by Congress, the President, or the NASA Administrator that the interest of the national space program, the national defense, or the public welfare require the termination of the interest granted, with advance, written notice provided to the grantee.
 
-(f) *Waivers.* If, in connection with a proposed grant, the Center Director determines that a waiver from any of the restrictions set forth in paragraph (e) of this section is appropriate, a request may be submitted to the Associate Administrator for Strategic Infrastructure or the Director, Integrated Asset Management Division.
+(ii) A liability waiver, indemnification requirements, environmental requirements, and insurance provisions as needed to suitably protect the United States from damages arising from the grantee's use of NASA real property.
 
-(g) *Services of the Corps of Engineers.* In exercising the authority herein granted, NASA Center Directors, pursuant to the applicable provisions of any cooperative agreement between NASA and the Corps of Engineers (in effect at the time), may:
+(iii) That restoration provisions are provided for in the agreement that protect the interests of the United States and ensure the grantee is responsible for removal of any and all improvements in or on NASA real property.
 
-(1) Utilize the services of the Corps of Engineers, U.S. Army.
+(iv) Such other reservations, exceptions, limitations, benefits, burdens, terms, or conditions as are set forth in the forms and templates for leaseholds, permits, and licenses in real property approved by and directed for use by the Real Estate Branch Chief.
 
-(2) Delegate authority to the Corps of Engineers to execute, on behalf of NASA, any grants of interests in real property as authorized in this section provided that the conditions set forth in paragraphs (e) and (f) of this section are complied with.
+(e) *Waivers.* If, in connection with a proposed grant, the Real Estate Contracting Officer or Center Director determines that a waiver from any of the restrictions set forth in paragraph (d) of this section is appropriate, a request may be submitted to the Assistant Administrator for the Office of Strategic Infrastructure or the Director, Facilities Real Estate Division.
 
-(h) *Distribution of Documents.* One copy of each document granting an interest in real property, including instruments executed by the Corps of Engineers, will be forwarded for filing in the Central Depository for Real Property Documents to: National Aeronautics and Space Administration, Office of Strategic Infrastructure, Washington, DC 20546.
+(f) *Distribution of documents.* One copy of each document granting an interest in real property will be filed in the Central Depository for Real Property Documents at: National Aeronautics and Space Administration, Office of Strategic Infrastructure, Washington, DC 20546.
 
-[51 FR 27528, Aug. 1, 1986, as amended at 56 FR 57592, Nov. 13, 1991; 79 FR 11319, Feb. 28, 2014]
+[89 FR 26759, Apr. 16, 2024]

@@ -1,3 +1,7 @@
-##### § 72.710T xxx #####
+##### § 72.710T Selection, fit, use, and maintenance of approved respirators. #####
 
 Link to an amendment published at 89 FR 28479, Apr. 18, 2024.
+
+As of April 14, 2025: Approved respirators shall be selected, fitted, used, and maintained in accordance with the provisions of a written respiratory protection program consistent with the requirements of ASTM F3387-19. ASTM F3387-19, *Standard Practice for Respiratory Protection,* approved August 1, 2019, is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. This incorporation by reference (IBR) material is available for inspection at the Mine Safety and Health Administration (MSHA) and at the National Archives and Records Administration (NARA). Contact MSHA at: MSHA's Office of Standards, Regulations, and Variances, 201 12th Street South, Arlington, VA 22202-5450; (202) 693-9440; or any Mine Safety and Health Enforcement District Office. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov.* The material may be obtained from ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; *www.astm.org.*
+
+[89 FR 28479, Apr. 18, 2024]

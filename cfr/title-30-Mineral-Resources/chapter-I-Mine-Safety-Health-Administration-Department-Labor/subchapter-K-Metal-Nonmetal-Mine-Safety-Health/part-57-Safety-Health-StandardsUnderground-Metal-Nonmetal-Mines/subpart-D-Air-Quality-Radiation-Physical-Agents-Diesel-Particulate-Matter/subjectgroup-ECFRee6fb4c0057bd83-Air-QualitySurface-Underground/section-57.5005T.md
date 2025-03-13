@@ -1,3 +1,13 @@
-##### § 57.5005T xxx #####
+##### § 57.5005T Control of exposure to airborne contaminants. #####
 
 Link to an amendment published at 89 FR 28470, Apr. 18, 2024.
+
+As of April 8, 2026, the following is required. Control of employee exposure to harmful airborne contaminants shall be, insofar as feasible, by prevention of contamination, removal by exhaust ventilation, or by dilution with uncontaminated air. However, where accepted engineering control measures have not been developed or when necessary by the nature of work involved (for example, while establishing controls or occasional entry into hazardous atmospheres to perform maintenance or investigation), employees may work for reasonable periods of time in concentrations of airborne contaminants exceeding permissible levels if they are protected by appropriate respiratory protective equipment. Whenever respiratory protective equipment is used, its selection, fitting, maintenance, cleaning, training, supervision, and use shall meet the following minimum requirements:
+
+(a) Respirators approved by NIOSH under 42 CFR part 84 which are applicable and suitable for the purpose intended shall be furnished and miners shall use the protective equipment in accordance with training and instruction.
+
+(b) A written respiratory protection program consistent with the requirements of ASTM F3387-19, *Standard Practice for Respiratory Protection,* approved August 1, 2019, which is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. This incorporation by reference (IBR) material is available for inspection at the Mine Safety and Health Administration (MSHA) and at the National Archives and Records Administration (NARA). Contact MSHA at: MSHA's Office of Standards, Regulations, and Variances, 201 12th Street South, Arlington, VA 22202-5450; (202) 693-9440; or any Mine Safety and Health Enforcement District Office. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov.* The material may be obtained from ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; *www.astm.org.*
+
+(c) When respiratory protection is used in atmospheres immediately dangerous to life or health (IDLH), the presence of at least one other person with backup equipment and rescue capability shall be required in the event of failure of the respiratory equipment.
+
+[89 FR 28470, Apr. 18, 2024]

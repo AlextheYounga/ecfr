@@ -1,7 +1,5 @@
 ##### § 148.220 Excepted benefits. #####
 
-Link to an amendment published at 89 FR 23420, Apr. 3, 2024.
-
 The requirements of this part and part 147 of this subchapter do not apply to any individual coverage in relation to its provision of the benefits described in paragraphs (a) and (b) of this section (or any combination of the benefits).
 
 (a) *Benefits excepted in all circumstances.* The following benefits are excepted in all circumstances:
@@ -40,15 +38,17 @@ The requirements of this part and part 147 of this subchapter do not apply to an
 
 (4) Hospital indemnity or other fixed indemnity insurance only if—
 
-(i) The benefits are provided only to individuals who attest, in their fixed indemnity insurance application, that they have other health coverage that is minimum essential coverage within the meaning of section 5000A(f) of the Internal Revenue Code, or that they are treated as having minimum essential coverage due to their status as a bona fide resident of any possession of the United States pursuant to Code section 5000A(f)(4)(B).
+(i) There is no coordination between the provision of benefits and an exclusion of benefits under any other health coverage;
 
-(ii) There is no coordination between the provision of benefits and an exclusion of benefits under any other health coverage.
+(ii) The benefits are paid in a fixed dollar amount per period of hospitalization or illness and/or per service (for example, $100/day or $50/visit) regardless of the amount of expenses incurred and without regard to the amount of benefits provided with respect to the event or service under any other health coverage; and
 
-(iii) The benefits are paid in a fixed dollar amount per period of hospitalization or illness and/or per service (for example, $100/day or $50/visit) regardless of the amount of expenses incurred and without regard to the amount of benefits provided with respect to the event or service under any other health coverage.
+(iii)(A) For coverage periods beginning on or after January 1, 2025, the issuer displays prominently on the first page (in either paper or electronic form, including on a website) of any marketing, application, and enrollment or reenrollment materials that are provided at or before the time an individual has the opportunity to apply, enroll or reenroll in coverage, and on the first page of the policy, certificate, or contract of insurance, in at least 14-point font, the language in the following notice:
 
-(iv) A notice is displayed prominently in the application materials in at least 14 point type that has the following language: “THIS IS A SUPPLEMENT TO HEALTH INSURANCE AND IS NOT A SUBSTITUTE FOR MAJOR MEDICAL COVERAGE. LACK OF MAJOR MEDICAL COVERAGE (OR OTHER MINIMUM ESSENTIAL COVERAGE) MAY RESULT IN AN ADDITIONAL PAYMENT WITH YOUR TAXES.”
+![](/graphics/er03ap24.066.gif)
 
-(v) The requirement of paragraph (b)(4)(iv) of this section applies to all hospital or other fixed indemnity insurance policy years beginning on or after January 1, 2015, and the requirement of paragraph (b)(4)(i) of this section applies to hospital or other fixed indemnity insurance policies issued on or after January 1, 2015, and to hospital or other fixed indemnity policies issued before that date, upon their first renewal occurring on or after October 1, 2016.
+(B) For coverage periods beginning on or after January 1, 2015, and prior to January 1, 2025, the issuer continues to follow the notice provision in 45 CFR 148.220(b)(4)(iv), revised as of October 1, 2023.
+
+(iv) If any provision of this paragraph (b)(4) is held to be invalid or unenforceable by its terms, or as applied to any entity or circumstance, or stayed pending further agency action, the provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, along with other provisions not found invalid or unenforceable, including as applied to entities not similarly situated or to dissimilar circumstances, unless such holding is that the provision is invalid and unenforceable in all circumstances, in which event the provision shall be severable from the remainder of this paragraph (b)(4) and shall not affect the remainder thereof.
 
 (5) Medicare supplemental health insurance (as defined under section 1882(g)(1) of the Social Security Act. 42 U.S.C. 1395ss, also known as Medigap or MedSupp insurance). The requirements of this part 148 (including genetic nondiscrimination requirements), do not apply to Medicare supplemental health insurance policies. However, Medicare supplemental health insurance policies are subject to similar genetic nondiscrimination requirements under section 104 of the Genetic Information Nondiscrimination Act of 2008 (Pub. L. 110-233), as incorporated into the NAIC Model Regulation relating to sections 1882(s)(2)(e) and (x) of the Act (The NAIC Model Regulation can be accessed at *http://www.naic.org.*).
 
@@ -56,4 +56,4 @@ The requirements of this part and part 147 of this subchapter do not apply to an
 
 (7) Similar supplemental coverage provided to coverage under a group health plan (as described in § 146.145(b)(5)(i)(C) of this subchapter).
 
-[62 FR 16995, Apr. 8, 1997; 62 FR 31696, June 10, 1997, as amended at 74 FR 51696, Oct. 7, 2009; 79 FR 30341, May 27, 2014; 81 FR 75327, Oct. 31, 2016]
+[62 FR 16995, Apr. 8, 1997; 62 FR 31696, June 10, 1997, as amended at 74 FR 51696, Oct. 7, 2009; 79 FR 30341, May 27, 2014; 81 FR 75327, Oct. 31, 2016; 89 FR 23420, Apr. 3, 2024]

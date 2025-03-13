@@ -1,5 +1,7 @@
 ##### § 367.40 Fees under the Unified Carrier Registration Plan and Agreement for Registration Years beginning in 2024 and each subsequent registration year thereafter. #####
 
+Link to an amendment published at 89 FR 51275, June 17, 2024.
+
 |Bracket|Number of commercial motor vehicles owned or operated by exempt or non-exempt motor carrier, motor private carrier, or freight forwarder|Fee per entity for exempt or non-  <br/>exempt motor  <br/>carrier, motor  <br/>private carrier, or  <br/>freight forwarder|Fee per entity for broker or leasing company|
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
 |  B1   |                                                                  0-2                                                                   |                                                            $37                                                            |                    $37                     |

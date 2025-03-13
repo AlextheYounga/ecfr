@@ -1,5 +1,7 @@
 ##### § 146.13 Inspector General exemptions. #####
 
+Link to an amendment published at 89 FR 51215, June 17, 2024.
+
 (a) Pursuant to section (j) of the Privacy Act of 1974, the Commission has deemed it necessary to adopt the following exemptions to specified provisions of the Privacy Act:
 
 (1) Pursuant to, and limited by 5 U.S.C. 552a(j)(2), the system of records maintained by the Office of the Inspector General of the Commission entitled “Office of the Inspector General Investigative Files,” shall be exempted from the provisions of 5 U.S.C. 552a (except subsections (b), (c)(1) and (2), (e)(4)(A) through (F), (e)(6), (7), (9), (10), and (11), and (i)) and from 17 CFR 146.3, 146.4, 146.5, 146.6 (b), (d) and (e), 146.7 (a), (c) and (d), 146.8, 146.9, 146.10, 146.11(a) (7), (8) and (9), insofar as the system contains information pertaining to criminal law enforcement investigations.

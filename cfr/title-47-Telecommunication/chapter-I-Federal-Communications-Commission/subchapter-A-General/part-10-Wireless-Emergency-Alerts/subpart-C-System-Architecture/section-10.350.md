@@ -1,6 +1,6 @@
 ##### § 10.350 WEA testing and proficiency training requirements. #####
 
-Link to an amendment published at 88 FR 86837, Dec. 15, 2023.
+Link to an amendment published at 88 FR 86837, Dec. 15, 2023.Link to an update of the above amendment published at 89 FR 51265, June 17, 2024.
 
 This section specifies the testing that is required of Participating CMS Providers.
 

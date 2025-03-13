@@ -1,8 +1,8 @@
 ##### § 56.5001 Exposure limits for airborne contaminants. #####
 
-Link to an amendment published at 89 FR 28468, Apr. 18, 2024.Link to an amendment published at 89 FR 28469, Apr. 18, 2024.
+Link to an amendment published at 89 FR 28469, Apr. 18, 2024.
 
-Except as permitted by § 56.5005—
+The following is required until April 7, 2026. Except as permitted by § 56.5005—
 
 (a) Except as provided in paragraph (b) of this section, the exposure to airborne contaminants shall not exceed, on the basis of a time weighted average, the threshold limit values adopted by the American Conference of Governmental Industrial Hygienists, as set forth and explained in the 1973 edition of the Conference's publication, entitled “TLV's Threshold Limit Values for Chemical Substances in Workroom Air Adopted by ACGIH for 1973,” pages 1 through 54, which are hereby incorporated by reference and made a part hereof. This publication may be obtained from the American Conference of Governmental industrial Hygienists by writing to 1330 Kemper Meadow Drive, Attn: Customer Service, Cincinnati, OH 45240; *http://www.acgih.org”*, or may be examined in any Metal and Nonmetal Mine Safety and Health District Office of the Mine Safety and Health Administration. Excursions above the listed thresholds shall not be of a greater magnitude than is characterized as permissible by the Conference.
 
@@ -22,4 +22,4 @@ Except as permitted by § 56.5005—
 
 (c) Employees shall be withdrawn from areas where there is present an airborne contaminant given a “C” designation by the Conference and the concentration exceeds the threshold limit value listed for that contaminant.
 
-[50 FR 4054, Jan. 29, 1985, as amended at 60 FR 35695, July 11, 1995; 71 FR 16667, Apr. 3, 2006; 73 FR 11303, Feb. 29, 2008; 73 FR 66172, Nov. 7, 2008]
+[50 FR 4054, Jan. 29, 1985, as amended at 60 FR 35695, July 11, 1995; 71 FR 16667, Apr. 3, 2006; 73 FR 11303, Feb. 29, 2008; 73 FR 66172, Nov. 7, 2008; 89 FR 28468, Apr. 18, 2024]

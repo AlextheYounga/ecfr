@@ -1,7 +1,5 @@
 ##### § 460.102 Interdisciplinary team. #####
 
-Link to an amendment published at 89 FR 30845, Apr. 23, 2024.
-
 (a) *Basic requirement.* A PACE organization must meet the following requirements:
 
 (1) Establish an interdisciplinary team, composed of members that fill the roles described in paragraph (b) of this section, at each PACE center to comprehensively assess and meet the individual needs of each participant.
@@ -48,11 +46,31 @@ Link to an amendment published at 89 FR 30845, Apr. 23, 2024.
 
 (ii) Overseeing a participant's use of medical specialists and inpatient care.
 
-(d) *Responsibilities of interdisciplinary team.* (1) The interdisciplinary team is responsible for the following:
+(d) *Responsibilities of interdisciplinary team.* (1) The interdisciplinary team is responsible for the following for each participant:
 
-(i) The initial assessment, periodic reassessments, plan of care, and coordination of 24-hour care delivery.
+(i) *Assessments and plan of care.* The initial assessment, periodic reassessments, and plan of care.
 
-(ii) Documenting all recommendations for care or services and the reason(s) for not approving or providing recommended care or services, if applicable, in accordance with § 460.210(b).
+(ii) *Coordination of care.* Coordination and implementation of 24-hour care delivery that meets participant needs across all care settings, including but not limited to the following:
+
+(A) Ordering, approving, or authorizing all necessary care.
+
+(B) Communicating all necessary care and relevant instructions for care.
+
+(C) Ensuring care is implemented as it was ordered, approved, or authorized by the IDT.
+
+(D) Monitoring and evaluating the participant's condition to ensure that the care provided is effective and meets the participant's needs.
+
+(E) Promptly modifying care when the IDT determines the participant's needs are not met in order to provide safe, appropriate, and effective care to the participant.
+
+(iii) *Documenting recommended services.* Documenting all recommendations for care or services and the reason(s) for not approving or providing recommended care or services, if applicable, in accordance with § 460.210(b).
+
+(iv) *Consideration of recommended services.* The interdisciplinary team must review, assess, and act on recommendations from emergency or urgent care providers, employees, and contractors, including medical specialists. Specifically, the interdisciplinary team must ensure the following requirements are met:
+
+(A) The appropriate member(s) of the interdisciplinary team must review all recommendations from hospitals, emergency departments, and urgent care providers and determine if the recommended services are necessary to meet the participant's medical, physical, social, or emotional needs as expeditiously as the participant's health condition requires, but no later than 48 hours from the time of the participant's discharge.
+
+(B) The appropriate member(s) of the interdisciplinary team must review all recommendations from other employees and contractors and determine if the recommended services are necessary to meet the participant's medical, physical, social, or emotional needs as expeditiously as the participant's health condition requires, but no later than 7 calendar days from the date the recommendation was made.
+
+(C) If recommendations are authorized or approved by the interdisciplinary team or a member of the interdisciplinary team, the services must be promptly arranged and furnished under § 460.98(c).
 
 (2) Each team member is responsible for the following:
 
@@ -80,4 +98,4 @@ Link to an amendment published at 89 FR 30845, Apr. 23, 2024.
 
 (f) *Exchange of information between team members.* The PACE organization must establish, implement, and maintain documented internal procedures governing the exchange of information between team members, contractors, and participants and their caregivers consistent with the requirements for confidentiality in § 460.200(e).
 
-[64 FR 66279, Nov. 24, 1999, as amended at 67 FR 61506, Oct. 1, 2002; 71 FR 71334, 71336, Dec. 8, 2006; 84 FR 25674, June 3, 2019; 86 FR 6132, Jan. 21, 2021]
+[64 FR 66279, Nov. 24, 1999, as amended at 67 FR 61506, Oct. 1, 2002; 71 FR 71334, 71336, Dec. 8, 2006; 84 FR 25674, June 3, 2019; 86 FR 6132, Jan. 21, 2021; 89 FR 30845, Apr. 23, 2024]

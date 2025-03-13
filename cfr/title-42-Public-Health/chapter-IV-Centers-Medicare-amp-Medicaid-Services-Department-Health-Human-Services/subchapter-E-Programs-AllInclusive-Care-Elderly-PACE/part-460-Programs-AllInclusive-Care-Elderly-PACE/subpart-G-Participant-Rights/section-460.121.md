@@ -1,7 +1,5 @@
 ##### § 460.121 Service determination process. #####
 
-Link to an amendment published at 89 FR 30848, Apr. 23, 2024.
-
 (a) *Written procedures.* Each PACE organization must have formal written procedures for identifying and processing service determination requests in accordance with the requirements of this Part.
 
 (b) *What is a service determination request*—(1) *Requests that constitute a service determination request.* Except as provided in paragraph (b)(2) of this section, the following requests constitute service determination requests:
@@ -12,7 +10,15 @@ Link to an amendment published at 89 FR 30848, Apr. 23, 2024.
 
 (iii) A request to continue coverage of a service that the PACE organization is recommending be discontinued or reduced.
 
-(2) *Requests that do not constitute a service determination request.* Requests to initiate, modify, or continue a service do not constitute a service determination request if the request is made prior to completing the development of the initial plan of care.
+(2) *Requests that do not constitute a service determination request.* Requests to initiate, modify, or continue a service do not constitute a service determination request if the request is made prior to completing the development of the initial plan of care. For all requests identified in this section, the interdisciplinary team must—
+
+(i) Document the request; and
+
+(ii) Discuss the request during the care planning meeting, and either:
+
+(A) Approve the requested service and incorporate it into the participant's initial plan of care, or
+
+(B) Document their rationale for not approving the service in the initial plan of care.
 
 (c) *Who can make a service determination request.* Any of the following individuals can make a service determination request:
 
@@ -82,4 +88,4 @@ Link to an amendment published at 89 FR 30848, Apr. 23, 2024.
 
 (m) *Recordkeeping.* The PACE organization must establish and implement a process to document, track, and maintain records related to all processing requirements for service determination requests received both orally and in writing. These records must be available to the interdisciplinary team to ensure that all members remain alert to pertinent participant information.
 
-[86 FR 6132, Jan. 19, 2021, as amended at 88 FR 22345, Apr. 12, 2023]
+[86 FR 6132, Jan. 19, 2021, as amended at 88 FR 22345, Apr. 12, 2023; 89 FR 30848, Apr. 23, 2024]

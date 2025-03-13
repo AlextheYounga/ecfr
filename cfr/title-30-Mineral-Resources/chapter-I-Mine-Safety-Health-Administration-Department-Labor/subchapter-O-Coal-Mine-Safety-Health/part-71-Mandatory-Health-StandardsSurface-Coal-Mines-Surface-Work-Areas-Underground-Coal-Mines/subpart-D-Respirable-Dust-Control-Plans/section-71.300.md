@@ -2,6 +2,8 @@
 
 Link to an amendment published at 89 FR 28478, Apr. 18, 2024.
 
+The following is required until April 14, 2025:
+
 (a) Within 15 calendar days after the termination date of a citation for violation of the applicable standard, the operator shall submit to the District Manager for approval a written respirable dust control plan applicable to the DWP identified in the citation. The respirable dust control plan and revisions thereof shall be suitable to the conditions and the mining system of the coal mine and shall be adequate to continuously maintain respirable dust to at or below the applicable standard at the DWP identified in the citation.
 
 (1) The mine operator shall notify the representative of miners at least 5 days prior to submission of a respirable dust control plan and any revision to a dust control plan. If requested, the mine operator shall provide a copy to the representative of miners at the time of notification;
@@ -21,3 +23,5 @@ Link to an amendment published at 89 FR 28478, Apr. 18, 2024.
 (3) A detailed description of the specific respirable dust control measures used to abate the violation of the respirable dust standard; and
 
 (4) A detailed description of how each of the respirable dust control measures described in response to paragraph (b)(3) of this section will continue to be used by the operator, including at least the specific time, place and manner the control measures will be used.
+
+[79 FR 24985, May 1, 2014, as amended at 89 FR 28478, Apr. 18, 2024]

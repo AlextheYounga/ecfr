@@ -1,29 +1,81 @@
 ##### § 460.106 Plan of care. #####
 
-Link to an amendment published at 89 FR 30845, Apr. 23, 2024.
+(a) *Definition and basic requirements*—(1) *Definition.* For purposes of this section, a “change in participant's status” means a major decline or improvement in a participant's status that will not normally resolve itself without further intervention by staff or by implementing standard disease-related clinical interventions, that has an impact on more than one area of the participant's health status and requires interdisciplinary team review or revision of the care plan, or both.
 
-(a) *Basic requirement.* Within 30 days of the date of enrollment, the interdisciplinary team members specified in § 460.104(a)(2) must develop a comprehensive plan of care for each participant based on the initial comprehensive assessment findings.
+(2) *Basic requirements.* (i) The interdisciplinary team members specified in § 460.102(b) must develop, evaluate, and if necessary, revise a comprehensive person-centered plan of care for each participant.
 
-(b) *Content of plan of care.* The plan of care must meet the following requirements:
+(ii) Each plan of care must do all of the following:
 
-(1) Specify the care needed to meet the participant's medical, physical, emotional, and social needs, as identified in the initial comprehensive assessment.
+(A) Take into consideration the most current assessment findings.
 
-(2) Identify measurable outcomes to be achieved.
+(B) Identify the services to be furnished to attain or maintain the participant's highest practicable level of well-being.
+
+(b) *Timeframes for developing, evaluating, and revising plan of care.* (1) *Initial plan of care.* The interdisciplinary team must complete the initial plan of care within 30 calendar days of the participant's date of enrollment.
+
+(2) *Semi-annual plan of care evaluation.* At least once every 180 calendar days from the date the latest plan of care was finalized the interdisciplinary team must complete a reevaluation of, and if necessary, revisions to each participant's plan of care.
+
+(3) *Change in participant's status.* (i) Except as specified in paragraph (b)(3)(ii) of this section, the interdisciplinary team must complete a re-evaluation of, and if necessary, revisions to a participant's plan of care within 14 calendar days after the PACE organization determines, or should have determined, that there has been a change in the participant's health or psychosocial status, or more expeditiously if the participant's condition requires.
+
+(ii) If a participant is hospitalized within 14 calendar days of the change in participant status, the interdisciplinary team must complete a reevaluation of, and if necessary, revisions to the plan of care as expeditiously as the participant's condition requires but no later than 14 calendar days after the date of discharge from the hospital.
+
+(c) *Content of plan of care.* At a minimum, each plan of care must meet the following requirements:
+
+(1) Identify all of the participant's current medical, physical, emotional, and social needs, including all needs associated with chronic diseases, behavioral disorders, and psychiatric disorders that require treatment or routine monitoring. At a minimum, the care plan must address the following factors:
+
+(i) Vision.
+
+(ii) Hearing.
+
+(iii) Dentition.
+
+(iv) Skin integrity.
+
+(v) Mobility.
+
+(vi) Physical functioning, including activities of daily living.
+
+(vii) Pain management.
+
+(viii) Nutrition, including access to meals that meet the participant's daily nutritional and special dietary needs.
+
+(ix) The participant's ability to live safely in the community, including the safety of their home environment.
+
+(x) Home care.
+
+(xi) Center attendance.
+
+(xii) Transportation.
+
+(xiii) Communication, including any identified language barriers.
+
+(2)(i) Identify each intervention (the care and services) needed to meet each medical, physical, emotional, and social needs.
+
+(ii) It does not have to identify the medications needed to meet the participant's needs if a comprehensive list of medications is already documented elsewhere in the medical record.
 
 (3) Utilize the most appropriate interventions for each care need that advances the participant toward a measurable goal and outcome.
 
-(4) Identify each intervention and how it will be implemented.
+(4) Identify how each intervention will be implemented, including a timeframe for implementation.
 
-(5) Identify how each intervention will be evaluated to determine progress in reaching specified goals and desired outcomes.
+(5) Identify a measurable goal for each intervention.
 
-(c) *Implementation of the plan of care.* (1) The team must implement, coordinate, and monitor the plan of care whether the services are furnished by PACE employees or contractors.
+(6) Identify how the goal for each intervention will be evaluated to determine whether the intervention should be continued, discontinued, or modified.
 
-(2) The team must continuously monitor the participant's health and psychosocial status, as well as the effectiveness of the plan of care, through the provision of services, informal observation, input from participants or caregivers, and communications among members of the interdisciplinary team and other providers.
+(7) The participant's preferences and goals of care.
 
-(d) *Evaluation of plan of care.* On at least a semi-annual basis, the interdisciplinary team must reevaluate the plan of care, including defined outcomes, and make changes as necessary.
+(d) *Implementation of the plan of care.* The team must continuously do all of the following:
 
-(e) *Participant and caregiver involvement in plan of care.* The team must develop, review, and reevaluate the plan of care in collaboration with the participant or caregiver, or both, to ensure that there is agreement with the plan of care and that the participant's concerns are addressed.
+(1) Implement, coordinate, and monitor the plan of care regardless of whether the services are furnished by PACE employees or contractors, across all care settings.
 
-(f) *Documentation.* The team must document the plan of care, and any changes made to it, in the participant's medical record.
+(2) Evaluate and monitor the participant's medical, physical, emotional, and social needs as well as the effectiveness of the plan of care, through the provision of services, informal observation, input from participants or caregivers, and communications among members of the interdisciplinary team and other employees or contractors.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25675, June 3, 2019]
+(e) *Participant and caregiver involvement in plan of care.* (1) The interdisciplinary team must develop, evaluate, and revise each plan of care in collaboration with the participant, the participant's caregiver, or both.
+
+(2) The interdisciplinary team must review and discuss each plan of care with the participant or the participant's caregiver or both before the plan of care is completed to ensure that there is agreement with the plan of care and that the participant's concerns are addressed.
+
+(f) *Documentation.* The team must do all of the following:
+
+(1) Establish and implement a process to document and maintain records related to all requirements for plans of care, in the participant's medical record.
+
+(2) Ensure that the most recent care plan is available to all employees and contractors within the organization as needed.
+
+[89 FR 30845, Apr. 23, 2024]
