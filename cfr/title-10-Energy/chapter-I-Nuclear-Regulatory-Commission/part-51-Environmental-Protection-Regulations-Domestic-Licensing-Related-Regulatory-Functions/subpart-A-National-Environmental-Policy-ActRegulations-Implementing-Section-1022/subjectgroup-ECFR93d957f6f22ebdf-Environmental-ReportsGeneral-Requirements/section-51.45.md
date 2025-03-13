@@ -1,5 +1,7 @@
 ##### § 51.45 Environmental report. #####
 
+Link to an amendment published at 89 FR 106252, Dec. 30, 2024.
+
 (a) *General.* As required by §§ 51.50, 51.53, 51.54, 51.55, 51.60, 51.61, 51.62, or 51.68, as appropriate, each applicant or petitioner for rulemaking shall submit with its application or petition for rulemaking one signed original of a separate document entitled “Applicant's” or “Petitioner's Environmental Report,” as appropriate. An applicant or petitioner for rulemaking may submit a supplement to an environmental report at any time.
 
 (b) *Environmental considerations.* The environmental report shall contain a description of the proposed action, a statement of its purposes, a description of the environment affected, and discuss the following considerations:

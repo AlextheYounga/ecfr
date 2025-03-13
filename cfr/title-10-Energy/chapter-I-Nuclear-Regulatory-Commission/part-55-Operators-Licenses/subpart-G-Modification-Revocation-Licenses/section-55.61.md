@@ -1,5 +1,7 @@
 ##### § 55.61 Modification and revocation of licenses. #####
 
+Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
+
 (a) The terms and conditions of all licenses are subject to amendment, revision, or modification by reason of rules, regulations, or orders issued in accordance with the Act or any amendments thereto.
 
 (b) Any license may be revoked, suspended, or modified, in whole or in part:

@@ -1,16 +1,14 @@
 ##### § 254.4 Application by an ITO. #####
 
-Link to an amendment published at 89 FR 87258, Oct. 31, 2024.
-
 (a) *Application to FNS Regional Office.* An ITO which desires to participate in the Food Distribution Program shall file an application with the FNS Regional Office. The application shall also provide other information requested by FNS, including but not limited to, the tribe's qualification as a reservation as described in § 254.2, paragraph (f). Properly addressed applications shall be acknowledged by the FNS Regional Office in writing within five working days of receipt. FNS shall promptly advise ITOs of the need for additional information if an incomplete application is received.
 
 (b) *Tribal capability.* (1) In determining whether the ITO is potentially capable of effectively and efficiently administering a Food Distribution Program in an FNS Service area, allowing for fulfillment of that potential through training and technical assistance, FNS shall consult with other sources such as the BIA, and shall consider the ITO experience, if any, in operating other government programs, as well as its management and fiscal capabilities. Other factors for evaluation include, but are not limited to, the ITO's ability to:
 
-(i) Order and properly store commodities,
+(i) Order and properly store USDA Foods,
 
 (ii) Certify eligible households,
 
-(iii) Arrange for physical issuance of commodities,
+(iii) Arrange for physical issuance of USDA Foods,
 
 (iv) Keep appropriate records and submit required reports,
 
@@ -26,4 +24,4 @@ Link to an amendment published at 89 FR 87258, Oct. 31, 2024.
 
 (c) *Most capable tribe.* In cases where two or more applicant tribe(s) have overlapping boundaries, FNS shall select the tribe most capable of administering a FDP within that service area.
 
-(The information collection requirements contained in paragaph (a) were approved by the Office of Management and Budget under control number 0584-0316)
+(The information collection requirements contained in paragaph (a) were approved by the Office of Management and Budget under control number 0584-0316)[49 FR 32756, Aug. 16, 1984, as amended at 89 FR 87258, Oct. 31, 2024]

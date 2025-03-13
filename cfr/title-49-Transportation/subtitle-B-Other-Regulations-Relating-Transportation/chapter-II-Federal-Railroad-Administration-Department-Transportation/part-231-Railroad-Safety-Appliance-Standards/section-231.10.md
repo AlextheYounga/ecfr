@@ -58,7 +58,7 @@ b. The term “corner of car” as used in § 231.10 is construed to mean the �
 
 (iii) Carriers are not required to change the location of handholds on cars in service July 1, 1911, except end handholds under end sills, where the appliances are within 3 inches of the required location, except that when cars undergo regular repairs they must then be made to comply with the standards prescribed.
 
-(4) *Manner of application.* Cupola handholds shall be securely fastened with not less than1/2-inch bolts with nuts outside and riveted over or with not less than1/2-inch rivets. See note below.
+(4) *Manner of application.* Cupola handholds shall be securely fastened with not less than 1/2-inch bolts with nuts outside and riveted over or with not less than 1/2-inch rivets. See note below.
 
 (f) *Side handholds*—(1) *Number.* Four.
 
@@ -118,11 +118,11 @@ Minimum diameter—One (1) inch wrought iron, steel, or other material of equiva
 
 (iii) Location:
 
-Vertical—One (1) at each corner of car extending from platform end sill to level of lower horizontal safety railing or to suitable bracket at roof.Horizontal—Upper: Across each end of car near outer edge securely braced with vertical supports not less than 48 nor more than 54 inches above top of platform extending not less than full width of platform excluding hand brake stanchion area.Horizontal—Lower: Across each end of car near outer edge securely braced with vertical supports not less than 36 nor more than 42 inches above top of platform excluding hand brake stanchion area. An opening may be provided near center. Such opening shall be provided with a secure safety chain(s) not less than1/4-inch diameter wrought iron, or steel, or other secure suitable closure.
+Vertical—One (1) at each corner of car extending from platform end sill to level of lower horizontal safety railing or to suitable bracket at roof.Horizontal—Upper: Across each end of car near outer edge securely braced with vertical supports not less than 48 nor more than 54 inches above top of platform extending not less than full width of platform excluding hand brake stanchion area.Horizontal—Lower: Across each end of car near outer edge securely braced with vertical supports not less than 36 nor more than 42 inches above top of platform excluding hand brake stanchion area. An opening may be provided near center. Such opening shall be provided with a secure safety chain(s) not less than 1/4-inch diameter wrought iron, or steel, or other secure suitable closure.
 
 (iv) Manner of application:
 
-Safety railing shall be securely fastened with1/2-inch bolts or rivets when possible and securely supported. A weld at connection of vertical and horizontal safety railing and vertical supports is permissible when those appliances are fabricated as a single unit.
+Safety railing shall be securely fastened with 1/2-inch bolts or rivets when possible and securely supported. A weld at connection of vertical and horizontal safety railing and vertical supports is permissible when those appliances are fabricated as a single unit.
 
 (b) Kick plates
 
@@ -134,7 +134,7 @@ Minimum thickness 10-gauge wrought iron, steel or other material of equivalent s
 
 (iii) Location: One near each side on each and. Outer edge not more than 12 inches from adjacent vertical safety railing with bottom edge near top of platform. Hand brake stand may serve as part of kick plate.
 
-(iv) Manner of application: Securely fastened by1/2-inch bolts or rivets, or weld.
+(iv) Manner of application: Securely fastened by 1/2-inch bolts or rivets, or weld.
 
 (v) Vertical hand rail supports spaced not more than eighteen (18) inches apart may be used in lieu of kick plates.
 

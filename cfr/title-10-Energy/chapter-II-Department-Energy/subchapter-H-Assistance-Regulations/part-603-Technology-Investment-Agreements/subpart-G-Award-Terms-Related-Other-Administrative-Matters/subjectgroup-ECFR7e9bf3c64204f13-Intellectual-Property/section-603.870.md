@@ -1,0 +1,3 @@
+##### § 603.870 Marking of documents related to inventions. #####
+
+To protect the recipient's interest in inventions, the TIA should require the recipient to mark documents disclosing inventions it desires to protect by obtaining a patent. The recipient should mark the documents with a legend identifying them as intellectual property subject to public release or public disclosure restrictions, as provided in 35 U.S.C. 205.

@@ -1,0 +1,3 @@
+##### § 603.835 Program income requirements. #####
+
+A TIA must apply the standards of 10 CFR 600.314 for program income that may be generated. The TIA must also specify if the recipient is to have any obligation to the Federal Government with respect to program income generated after the end of the project period (i.e., the period, as established in the award document, during which Federal support is provided).

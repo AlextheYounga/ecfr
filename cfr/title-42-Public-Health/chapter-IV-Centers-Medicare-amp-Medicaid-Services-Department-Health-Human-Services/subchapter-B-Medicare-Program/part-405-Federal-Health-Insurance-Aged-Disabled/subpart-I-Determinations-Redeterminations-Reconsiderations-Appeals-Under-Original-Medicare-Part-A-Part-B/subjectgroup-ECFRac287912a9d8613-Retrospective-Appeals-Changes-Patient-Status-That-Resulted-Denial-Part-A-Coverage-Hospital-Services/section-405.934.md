@@ -28,7 +28,7 @@
 
 (vii) The procedures for obtaining additional information concerning the decision, such as specific provisions of the policy, manual, regulations, or other rules used in making the decision.
 
-(viii) If an unfavorable or partially favorable decision, information concerning an eligible parties' right to an ALJ hearing, including the applicable amount in controversy requirement and aggregation provisions and other procedures for filing a request for an ALJ hearing under § 405.936.
+(viii) If an unfavorable or partially favorable decision, information concerning an eligible party's right to an ALJ hearing, including the applicable amount in controversy requirement and aggregation provisions and other procedures for filing a request for an ALJ hearing under § 405.936.
 
 (ix) Any other requirements specified by CMS.
 
@@ -99,3 +99,5 @@
 (ii) An eligible party (or the party's representative) files a request for a hearing by an ALJ under § 405.936.
 
 (2) The provisions regarding reopening of a reconsideration in § 405.980(d) and (e) apply in the same manner to unfavorable and partially favorable decisions issued under this section.
+
+[89 FR 83283, Oct. 15, 2024; 89 FR 106363, Dec. 30, 2024]

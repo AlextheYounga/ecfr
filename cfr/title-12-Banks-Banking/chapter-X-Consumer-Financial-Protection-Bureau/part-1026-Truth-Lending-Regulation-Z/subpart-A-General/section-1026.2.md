@@ -1,6 +1,6 @@
 ##### § 1026.2 Definitions and rules of construction. #####
 
-Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
+Link to an amendment published at 89 FR 64577, Aug. 7, 2024.Link to an amendment published at 89 FR 106837, Dec. 30, 2024.
 
 (a) *Definitions.* For purposes of this part, the following definitions apply:
 

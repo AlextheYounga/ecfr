@@ -1,0 +1,3 @@
+##### § 706.10 Policy. #####
+
+It is policy of DOE that NLRB cases falling within the scope of the Labor Management Relations Act at the various DOE installations should be conducted in normal fashion whereever possible, on the basis of open hearings, unclassified records and published decisions. This policy does not preclude adoption of special arrangements which may be required for reasons of program security at any stage of the proceedings in particular areas.

@@ -1,5 +1,7 @@
 ##### § 51.56 Buildings and structures. #####
 
+Link to an amendment published at 89 FR 106234, Dec. 30, 2024.
+
 The packing plant buildings shall be properly constructed and maintained in a sanitary condition, including, but not limited to the following requirements:
 
 (a) There shall be sufficient light consistent with the use to which the particular portion of the building is devoted and to permit efficient cleaning. The grading belts and bins shall be provided with sufficient proper nonglaring light to insure adequacy of grading and inspection operations;

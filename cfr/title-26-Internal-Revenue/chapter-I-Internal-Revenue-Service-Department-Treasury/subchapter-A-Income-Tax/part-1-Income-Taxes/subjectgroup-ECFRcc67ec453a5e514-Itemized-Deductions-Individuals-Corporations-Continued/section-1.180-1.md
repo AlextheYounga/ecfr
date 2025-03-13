@@ -4,4 +4,4 @@
 
 (b) *Land used in farming.* For purposes of section 180(a) and of paragraph (a) of this section, the term *land used in farming* means land used (before or simultaneously with the expenditures described in such section and such paragraph) by the taxpayer or his tenant for the production of crops, fruits, or other agricultural products or for the sustenance of livestock. See section 180(b). Expenditures for the initial preparation of land never previously used for farming purposes by the taxpayer or his tenant (although chargeable to capital account) are not subject to the election. The principles stated in §§ 1.175-3 and 1.175-4 are equally applicable under this section in determining whether the taxpayer is engaged in the business of farming and whether the land is used in farming.
 
-(74 Stat. 1001, 26 U.S.C. 180)[T.D. 6548, 26 FR 1486, Feb. 22, 1961]
+(74 Stat. 1001, 26 U.S.C. 180) [T.D. 6548, 26 FR 1486, Feb. 22, 1961]

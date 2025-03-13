@@ -1,5 +1,7 @@
 ##### § 20.1905 Exemptions to labeling requirements. #####
 
+Link to an amendment published at 89 FR 106250, Dec. 30, 2024.
+
 A licensee is not required to label—
 
 (a) Containers holding licensed material in quantities less than the quantities listed in appendix C to part 20; or

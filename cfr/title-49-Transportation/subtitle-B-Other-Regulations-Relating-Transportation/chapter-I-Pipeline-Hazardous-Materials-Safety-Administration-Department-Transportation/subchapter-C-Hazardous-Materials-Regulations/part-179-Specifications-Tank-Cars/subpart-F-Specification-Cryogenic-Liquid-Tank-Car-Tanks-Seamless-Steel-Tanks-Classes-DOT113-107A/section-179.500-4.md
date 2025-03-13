@@ -1,6 +1,6 @@
 ##### § 179.500-4 Thickness of wall. #####
 
-(a) Minimum thickness of wall of each finished tank shall be such that at a pressure equal to7/10 of the marked test pressure of the tank, the calculated fiber stress in psi at inner wall of tank multiplied by 3.0 will not exceed the tensile strength of any specimen taken from the tank and tested as prescribed in § 179.500-7(b). Minimum wall thickness shall be1/4 inch.
+(a) Minimum thickness of wall of each finished tank shall be such that at a pressure equal to 7/10 of the marked test pressure of the tank, the calculated fiber stress in psi at inner wall of tank multiplied by 3.0 will not exceed the tensile strength of any specimen taken from the tank and tested as prescribed in § 179.500-7(b). Minimum wall thickness shall be 1/4 inch.
 
 (b) Calculations to determine the maximum marked test pressure permitted to be marked on the tank shall be made by the formula:
 

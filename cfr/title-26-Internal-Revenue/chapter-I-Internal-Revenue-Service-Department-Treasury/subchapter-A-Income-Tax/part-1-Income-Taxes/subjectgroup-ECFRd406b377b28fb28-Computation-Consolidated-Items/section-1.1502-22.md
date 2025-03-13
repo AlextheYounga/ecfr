@@ -24,7 +24,7 @@
 
 (c) *Limitations on net capital loss carryovers and carrybacks from separate return limitation years.* The aggregate of the net capital losses of a member arising (or treated as arising) in SRLYs that are included in the determination of consolidated capital gain net income for all consolidated return years of the group under paragraph (a) of this section may not exceed the aggregate of the consolidated capital gain net income for all consolidated return years of the group determined by reference to only the member's items of gain and loss from capital assets as defined in section 1221 and trade or business assets defined in section 1231(b), including the member's losses actually absorbed by the group in the taxable year (whether or not absorbed by the member). The principles of § 1.1502-21(c) (including the SRLY subgroup principles under § 1.1502-21(c)(2)) apply with appropriate adjustments for purposes of applying this paragraph (c).
 
-(d) *Coordination with respect to consolidated return change of ownership limitation occurring in consolidated return years beginning before January 1, 1997.* If a consolidated return change of ownership occurred before January 1, 1997, the principles of § 1.1502-22A(d) apply to determine the amount of the aggregate of the net capital loss attributable to old members of the group (as those terms are defined in § 1.1502-1(g)), that may be included in the net capital loss carryover under paragraph (b) of this section. For this purpose, § 1.1502-1(g) is applied by treating that date as the end of the year of change.
+(d) [Reserved]
 
 (e) *Consolidated net capital loss.* Any excess of losses over gains, as determined under paragraph (a) of this section (without regard to any carryovers or carrybacks), is also referred to as the consolidated net capital loss.
 
@@ -62,4 +62,4 @@
 
 (2) *Prior periods.* For certain taxable years ending on or before June 25, 1999, see § 1.1502-22T in effect prior to June 25, 1999, as contained in 26 CFR part 1 revised April 1, 1999, as applicable.
 
-[T.D. 8823, 64 FR 36114, July 2, 1999]
+[T.D. 8823, 64 FR 36114, July 2, 1999, as amended by T.D. 10018, 89 FR 106868, Dec. 30, 2024]

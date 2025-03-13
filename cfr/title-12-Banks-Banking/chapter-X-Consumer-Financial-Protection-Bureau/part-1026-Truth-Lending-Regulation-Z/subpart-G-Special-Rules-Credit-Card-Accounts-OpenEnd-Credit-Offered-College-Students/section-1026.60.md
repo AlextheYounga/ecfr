@@ -1,5 +1,7 @@
 ##### § 1026.60 Credit and charge card applications and solicitations. #####
 
+Link to an amendment published at 89 FR 106837, Dec. 30, 2024.
+
 (a) *General rules.* The card issuer shall provide the disclosures required under this section on or with a solicitation or an application to open a credit or charge card account.
 
 (1) *Definition of solicitation.* For purposes of this section, the term *solicitation* means an offer by the card issuer to open a credit or charge card account that does not require the consumer to complete an application. A “firm offer of credit” as defined in section 603(l) of the Fair Credit Reporting Act (15 U.S.C. 1681a(l)) for a credit or charge card is a solicitation for purposes of this section.

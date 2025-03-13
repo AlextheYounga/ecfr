@@ -1,0 +1,3 @@
+##### § 603.565 Use of a hybrid instrument. #####
+
+For a RD&D project that is to be carried out by a number of participants, the contracting officer may award a TIA that provides for some participants to perform under fixed-support arrangements and others to perform under expenditure-based arrangements. This approach may be useful, for example, if a commercial firm that is a participant will not accept an agreement with all of the post-award requirements of an expenditure-based award. Before using a fixed-support arrangement for that firm's portion of the project, the agreement must meet the criteria in § 603.305.

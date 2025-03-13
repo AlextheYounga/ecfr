@@ -1,0 +1,3 @@
+##### § 603.825 Government approval of changes in plans. #####
+
+If it is an expenditure-based award, a TIA must require the recipient to obtain the contracting officer's prior approval if there is to be a change in plans that may result in a need for additional Federal funding (this is unnecessary for a fixed-support TIA because the recipient is responsible for additional costs of achieving the outcomes). Other than that, the program official's substantial involvement in the project should ensure that the Government has advance notice of changes in plans.

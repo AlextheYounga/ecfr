@@ -180,10 +180,10 @@
 
 (i) *Effect of an unfavorable or partially favorable decision.* (1) An unfavorable or partially favorable appeal decision is considered binding unless—
 
-(A) It is reopened and revised under the provisions of §§ 405.980 through 405.986; or
+(i) It is reopened and revised under the provisions of §§ 405.980 through 405.986; or
 
-(B) An eligible party (or the party's representative) files a request for reconsideration under § 405.934.
+(ii) An eligible party (or the party's representative) files a request for reconsideration under § 405.934.
 
 (2) The provisions regarding reopening of a redetermination in § 405.980(b) and (c) apply in the same manner to unfavorable or partially favorable decisions issued under this section.
 
-Editorial Note:At 89 FR 83283, Oct. 15, 2024, § 405.932 was added, with incorrect paragraph designations for the two subparagraphs in (i)(1).
+[89 FR 83283, Oct. 15, 2024; 89 FR 106363, Dec. 30, 2024]

@@ -14,7 +14,7 @@ I, (name of signor), certify that I am the person described in and who executed 
 
 Signature.
 
-or;Corporate Form of Acknowledgement
+or; Corporate Form of Acknowledgement
 
 I, (name of signor), certify that I am (title of office) of (name of corporation), that the seal affixed to the foregoing instrument is the corporate seal of said corporation, that the instrument was signed and sealed on behalf of the corporation by authority of its Board of Directors, and that I acknowledge that the execution of the foregoing instrument was the free act and deed of the corporation. I further declare (certify, verify or state) under penalty of perjury (“under the laws of the United States of America” if executed outside the United States of America) that the foregoing is true and correct. Executed on (date).
 
@@ -24,11 +24,11 @@ or;
 
 (3) Substantially as follows:
 
-Individual Form of AcknowledgementState of \_\_\_\_\_\_\_\_\_\_\_\_\_\_County of \_\_\_\_\_\_\_\_\_\_\_\_\_, ss:
+Individual Form of Acknowledgement State of \_\_\_\_\_\_\_\_\_\_\_\_\_\_County of \_\_\_\_\_\_\_\_\_\_\_\_\_, ss:
 
 On this \_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_, 19\_\_, before me, personally appeared (name of signor), to me known to be the person described in and who executed the foregoing instrument and (s)he acknowledged that (s)he executed the same as his/her free act and deed.
 
-(SEAL)Signature of Notary PublicMy Commission expiresCorporate Form of AcknowledgementState of \_\_\_\_\_\_\_\_\_\_\_\_\_\_County of \_\_\_\_\_\_\_\_\_\_\_\_\_, ss:
+(SEAL)Signature of Notary Public My Commission expires Corporate Form of Acknowledgement State of \_\_\_\_\_\_\_\_\_\_\_\_\_\_County of \_\_\_\_\_\_\_\_\_\_\_\_\_, ss:
 
 On this \_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_, 19\_\_ before me personally appeared (name of signor), to me personally known, who being by me duly sworn, says that (s)he is the (title of office) of (name of corporation), that the seal affixed to the foregoing instrument is the corporate seal of said corporation, that said instrument was signed and sealed on behalf of said corporation by authority of its Board of Directors, and (s)he acknowledged that the execution of the foregoing instrument was the free act and deed of said corporation.
 

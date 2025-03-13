@@ -16,7 +16,7 @@
 
 (ii) The subsidiary for any reason ceases to be a member of the group.
 
-(2) *Cross reference.* See § 1.1502-36 for additional rules relating to worthlessness of subsidiary stock on or after September 17, 2008.
+(2) *Cross reference. See* § 1.1502-36 for additional rules relating to worthlessness of subsidiary stock.
 
 (3) *Effective/applicability date.* This paragraph (c) applies to taxable years for which the original consolidated Federal income tax return is due (without extensions) after July 18, 2007. However, taxpayers may apply this paragraph (c) to taxable years beginning on or after January 1, 1995.
 
@@ -94,4 +94,4 @@ Example.(A) *Facts.* P, the common parent of a consolidated group, owns the four
 
 (3) *Applicability date.* This paragraph (j) applies to taxable years for which the original consolidated Federal income tax return is due (without extensions) after February 23, 2023.
 
-[T.D. 8402, 57 FR 9385, Mar. 18, 1992]Editorial Note:For Federal Register citations affecting § 1.1502-80, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 8402, 57 FR 9385, Mar. 18, 1992] Editorial Note:For Federal Register citations affecting § 1.1502-80, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -2,8 +2,7 @@
 
 (a) A Mexico-domiciled motor carrier may request the FMCSA to conduct an administrative review if it believes the FMCSA has committed an error in assigning a safety rating or suspending or revoking the carrier's provisional operating authority or provisional Certificate of Registration under this subpart.
 
-(b) The carrier must submit its request in writing, in English, to FMCSA, ATTN: § 385.113 Request for Administrative Review
-, 1200 New Jersey Ave., SE., Washington, DC 20590-0001.
+(b) The carrier must submit its request in writing, in English, to FMCSA, ATTN: § 385.113 Request for Administrative Review , 1200 New Jersey Ave., SE., Washington, DC 20590-0001.
 
 (c) The carrier's request must explain the error it believes the FMCSA committed in assigning the safety rating or suspending or revoking the carrier's provisional operating authority or provisional Certificate of Registration and include any information or documents that support its argument.
 

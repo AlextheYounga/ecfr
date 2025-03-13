@@ -1,6 +1,6 @@
 ##### § 1355.43 Data reporting requirements. #####
 
-Link to an amendment published at 89 FR 96588, Dec. 5, 2024.
+Link to an amendment published at 89 FR 96588, Dec. 5, 2024.The effective date of this amendment was corrected to read Jan. 4, 2025, at 89 FR 106364, Dec. 30, 2024.
 
 (a) *Report periods and deadlines.* There are two six-month report periods based on the Federal fiscal year: October 1 to March 31 and April 1 to September 30. The title IV-E agency must submit the out-of-home care and adoption assistance data files to ACF within 45 days of the end of the report period (*i.e.,* by May 15 and November 14). If the reporting deadline falls on a weekend, the title IV-E agency has through the end of the following Monday to submit the data file.
 

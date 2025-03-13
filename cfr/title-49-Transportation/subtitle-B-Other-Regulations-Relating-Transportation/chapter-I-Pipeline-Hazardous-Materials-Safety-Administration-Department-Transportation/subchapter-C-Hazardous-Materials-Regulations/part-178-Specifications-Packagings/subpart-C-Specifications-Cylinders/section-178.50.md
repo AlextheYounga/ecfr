@@ -72,7 +72,7 @@ S = [P(1.3D2 + 0.4d2)]/(D2 − d2)Where:S = wall stress in psig;P = minimum test
 
 (2) Specimens must comply with the following:
 
-(i) When a cylinder wall is3/16 inch thick or less, one the following gauge lengths is authorized: A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least twenty-four (24) times the thickness with a width not over six (6) times the thickness.
+(i) When a cylinder wall is 3/16 inch thick or less, one the following gauge lengths is authorized: A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least twenty-four (24) times the thickness with a width not over six (6) times the thickness.
 
 (ii) The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within one inch of each end of the reduced section.
 
@@ -88,7 +88,7 @@ S = [P(1.3D2 + 0.4d2)]/(D2 − d2)Where:S = wall stress in psig;P = minimum test
 
 (iii) For strain measurement, the initial strain reference must be set while the specimen is under a stress of 12,000 psig, and strain indicator reading must be set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
 
 (v) The yield strength must not exceed 73 percent of the tensile strength.
 
@@ -110,7 +110,7 @@ S = [P(1.3D2 + 0.4d2)]/(D2 − d2)Where:S = wall stress in psig;P = minimum test
 
 (iii) On a cylindrical portion of the shell that extends beyond the recessed bottom of the cylinder, constituting an integral and non-pressure part of the cylinder;
 
-(iv) On a metal plate attached to the top of the cylinder or permanent part thereof; sufficient space must be left on the plate to provide for stamping at least six retest dates; the plate must be at least1/16-inch thick and must be attached by welding, or by brazing. The brazing rod must melt at a temperature of 1100 °F. Welding or brazing must be along all the edges of the plate;
+(iv) On a metal plate attached to the top of the cylinder or permanent part thereof; sufficient space must be left on the plate to provide for stamping at least six retest dates; the plate must be at least 1/16-inch thick and must be attached by welding, or by brazing. The brazing rod must melt at a temperature of 1100 °F. Welding or brazing must be along all the edges of the plate;
 
 (v) On the neck, neckring, valve boss, valve protection sleeve, or similar part permanently attached to the top of the cylinder; or
 

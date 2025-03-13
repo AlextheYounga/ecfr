@@ -94,7 +94,7 @@
 
 (10) *Safety concern.* For vehicle tests for which NHTSA reports a safety concern as part of the safety rating, and for overall vehicle scores that are derived from vehicle tests for at least one of which NHTSA reports a safety concern as part of the safety rating, the label must:
 
-(i) In both the rating area in which the safety concern was identified and in the overall vehicle score area, depict, as a superscript to the star rating, the safety concern symbol, as depicted in Figure 4 of this section, at2/3 the font size of the base star, and
+(i) In both the rating area in which the safety concern was identified and in the overall vehicle score area, depict, as a superscript to the star rating, the safety concern symbol, as depicted in Figure 4 of this section, at 2/3 the font size of the base star, and
 
 (ii) Include at the bottom of the overall vehicle score area only as the last line of that area, in no smaller than 8 point type, the related symbol, as depicted in Figure 4 of this section, as a superscript of the rest of the line, and the text “Safety Concern: Visit *www.safercar.gov* or call 1-888-327-4236 for more details.”
 

@@ -30,7 +30,7 @@
 
 (2) The maximum translation-rotation of the midsagittal plane of the headform disk (180-9061 or 9062) in the lateral direction measured, with the rotation transducers specified in 49 CFR 572.200(e) shall be 71 to 81 degrees with respect to the longitudinal axis of the pendulum (see Figure V2-C in appendix A to this subpart) occurring between 50 and 70 ms from time zero;
 
-(3) Peak occipital condyle moment shall not be higher than −36 Nm and not lower than −44 Nm. The moment measured by the upper neck load cell (Mx) shall be adjusted by the following formula: Mx(oc)1= Mx + 0.01778Fy;
+(3) Peak occipital condyle moment shall not be higher than −36 Nm and not lower than −44 Nm. The moment measured by the upper neck load cell (Mx) shall be adjusted by the following formula: Mx(oc) 1= Mx + 0.01778Fy;
 
 1 Mx(oc) is the moment at occipital condyle (Newton-meters) and Fy is the lateral shear force (Newtons) measured by the load cell.
 

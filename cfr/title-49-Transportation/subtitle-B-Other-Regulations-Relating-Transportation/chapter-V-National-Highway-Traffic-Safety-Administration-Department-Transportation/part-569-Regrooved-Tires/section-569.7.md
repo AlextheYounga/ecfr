@@ -6,11 +6,11 @@
 
 (i) The tire being regrooved shall be a regroovable tire;
 
-(ii) After regrooving, cord material below the grooves shall have a protective covering of tread material at least3/32-inch thick;
+(ii) After regrooving, cord material below the grooves shall have a protective covering of tread material at least 3/32-inch thick;
 
 (iii) After regrooving, the new grooves generated into the tread material and any residual original molded tread groove which is at or below the new regrooved depth shall have a minimum of 90 linear inches of tread edges per linear foot of the circumference;
 
-(iv) After regrooving, the new groove width generated into the tread material shall be a minimum of3/16-inch and a maximum of5/16-inch;
+(iv) After regrooving, the new groove width generated into the tread material shall be a minimum of 3/16-inch and a maximum of 5/16-inch;
 
 (v) After regrooving, all new grooves cut into the tread shall provide unobstructed fluid escape passages; and
 

@@ -1,0 +1,5 @@
+##### § 1047.6 Use of physical force when making an arrest. #####
+
+(a) When a protective force officer has the right to make an arrest as discussed above, the protective force officer may use only that physical force which is reasonable and necessary to apprehend and arrest the offender; to prevent the escape of the offender; or to defend himself or herself or a third person from what the protective force officer believes to be the use or threat of imminent use of physical force by the offender. It should be noted that verbal abuse alone by the offender cannot be the basis under any circumstances for use of physical force by a protective force officer.
+
+(b) Protective force officers shall consult the local DOE Office of Chief Counsel and contractor legal counsel, as appropriate, for additional guidance on use of physical force in making arrests.

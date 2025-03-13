@@ -24,6 +24,6 @@
 
 (ii) If the LNG facility adjoins the right-of-way of any highway or railroad, collision by or explosion of a train, tank car, or tank truck that could reasonably be expected to cause the most severe loading.
 
-(b) An LNG storage tank must not be located within a horizontal distance of one mile (1.6 km) from the ends, or1/4 mile (0.4 km) from the nearest point of a runway, whichever is longer. The height of LNG structures in the vicinity of an airport must also comply with Federal Aviation Administration requirements in 14 CFR Section 1.1.
+(b) An LNG storage tank must not be located within a horizontal distance of one mile (1.6 km) from the ends, or 1/4 mile (0.4 km) from the nearest point of a runway, whichever is longer. The height of LNG structures in the vicinity of an airport must also comply with Federal Aviation Administration requirements in 14 CFR Section 1.1.
 
 [45 FR 9203, Feb. 11, 1980, as amended by Amdt. 193-17, 65 FR 10959, Mar. 1, 2000]

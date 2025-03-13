@@ -10,4 +10,4 @@
 
 (d) *Enforcement period.* This section will be subject to enforcement from 1 p.m. on October 22, 2024, through 11:59 p.m. on December 31, 2024. The enforcement period will be announced via on-scene actual notice via VHF-FM marine channel 16.
 
-[Doc. No. USCG-2024-0391, 89 FR 85433, Oct. 28, 2024]
+[Doc. No. USCG-2024-0391, 89 FR 85433, Oct. 28, 2024]Effective Date Note:By USCG-2024-0391, 89 FR 85433, Oct. 28, 2024, sect; 165.T08-0391 was added, effective Oct. 28, 2024, through Dec. 31, 2024.

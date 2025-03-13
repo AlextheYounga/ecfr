@@ -82,4 +82,4 @@ For transloading operations, the following rules must be observed:
 
 (o) All tools and implements used in connection with unloading must be kept free of oil, dirt, and grit.
 
-[Amdt. 174-26, 41 FR 16092, Apr. 15, 1976]Editorial Note:For Federal Register citations affecting § 174.67, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[Amdt. 174-26, 41 FR 16092, Apr. 15, 1976] Editorial Note:For Federal Register citations affecting § 174.67, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

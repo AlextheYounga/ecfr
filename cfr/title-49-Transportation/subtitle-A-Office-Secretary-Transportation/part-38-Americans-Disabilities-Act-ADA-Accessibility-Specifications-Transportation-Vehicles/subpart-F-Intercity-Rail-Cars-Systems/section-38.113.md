@@ -8,7 +8,7 @@
 
 (c) *Signals.* If doors to the platform close automatically or from a remote location, auditory and visual warning signals shall be provided to alert passengers of closing doors.
 
-(d) *Coordination with boarding platforms*—(1) *Requirements.* Cars which provide level-boarding in stations with high platforms shall be coordinated with the boarding platform or mini-high platform design such that the horizontal gap between a car at rest and the platform shall be no greater than 3 inches and the height of the car floor shall be within plus or minus5/8 inch of the platform height. Vertical alignment may be accomplished by car air suspension, platform lifts or other devices, or any combination.
+(d) *Coordination with boarding platforms*—(1) *Requirements.* Cars which provide level-boarding in stations with high platforms shall be coordinated with the boarding platform or mini-high platform design such that the horizontal gap between a car at rest and the platform shall be no greater than 3 inches and the height of the car floor shall be within plus or minus 5/8 inch of the platform height. Vertical alignment may be accomplished by car air suspension, platform lifts or other devices, or any combination.
 
 (2) *Exception.* New cars operating in existing stations may have a floor height within plus or minus 11/2 inches of the platform height.
 

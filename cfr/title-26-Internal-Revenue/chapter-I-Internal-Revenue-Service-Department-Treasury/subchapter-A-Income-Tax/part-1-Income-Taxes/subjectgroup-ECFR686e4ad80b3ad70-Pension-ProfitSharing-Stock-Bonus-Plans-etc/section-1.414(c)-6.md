@@ -1,6 +1,6 @@
 ##### § 1.414(c)-6 Effective date. #####
 
-(a) *General rule.* Except as provided in paragraph (b), (c), (e), or (f) of this section, the provisions of § 1.414(b)-1 and §§ 1.414(c)-1 through 1.414 (c)-4 shall apply for plan years beginning after September 2, 1974.
+(a) *General rule.* Except as provided in paragraph (b), (c), (e), (f), or (g) of this section, the provisions of § 1.414(b)-1 and §§ 1.414(c)-1 through 1.414(c)-4 apply for plan years beginning after September 2, 1974.
 
 (b) *Existing plans.* In the case of a plan in existence on January 1, 1974, unless paragraph (c) of this section applies, the provisions of “§ 1.414 (b)-1 and §§ 1.414(c)-1 through 1.414(c)-4 shall apply for plan years beginning after December 31, 1975. For definition of the term “existing plan”, see § 1.410(a)-2(c).
 
@@ -18,4 +18,8 @@
 
 (ii) Is not such a member for such plan year or period because of the amendments made by such Treasury decision,
 
-such member (whether or not a corporation) nevertheless will be treated as a member of such old group for purposes of section 414(c) for that plan year or period to the extent provided in § 1.1563-1 (d)(2). Also, such member will be treated as a member of an old group for all purposes of the Code for such plan year or period if all the organizations (whether or not corporations) that are members of the old group meet all the requirements of § 1.1563-1(d)(3) with respect to such plan year or period.[T.D. 8179, 53 FR 6611, Mar. 2, 1988. Redesignated by T.D. 9340, 72 FR 41158, July 26, 2007]
+such member (whether or not a corporation) nevertheless will be treated as a member of such old group for purposes of section 414(c) for that plan year or period to the extent provided in § 1.1563-1 (d)(2). Also, such member will be treated as a member of an old group for all purposes of the Code for such plan year or period if all the organizations (whether or not corporations) that are members of the old group meet all the requirements of § 1.1563-1(d)(3) with respect to such plan year or period.
+
+(g) *Special rule.* Notwithstanding paragraph (a), (b), or (c) of this section, § 1.414(c)-2(b)(1) applies to plan years beginning on or after January 1, 2025.
+
+[T.D. 8179, 53 FR 6611, Mar. 2, 1988. Redesignated by T.D. 9340, 72 FR 41158, July 26, 2007; T.D. 10018, 89 FR 106851, Dec. 30, 2024]

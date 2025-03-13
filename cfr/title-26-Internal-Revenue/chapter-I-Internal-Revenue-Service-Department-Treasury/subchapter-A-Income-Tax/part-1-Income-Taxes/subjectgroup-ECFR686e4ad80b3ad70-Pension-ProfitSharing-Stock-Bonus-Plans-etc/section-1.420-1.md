@@ -10,7 +10,7 @@
 
 (2) *Employer-initiated reduction percentage.* The employer-initiated reduction percentage for any taxable year is the fraction B/A, expressed as a percentage, where:
 
-A = The total number of individuals (retired employees plus their spouses plus their dependents) receiving coverage for applicable health benefits as of the day before the first day of the taxable year.B = The total number of individuals included in A whose coverage for applicable health benefits ended during the taxable year by reason of employer action.
+A = The total number of individuals (retired employees plus their spouses plus their dependents) receiving coverage for applicable health benefits as of the day before the first day of the taxable year. B = The total number of individuals included in A whose coverage for applicable health benefits ended during the taxable year by reason of employer action.
 
 (3) *Special rules for taxable years beginning before January 1, 2002.* The following rules apply for purposes of computing the amount in paragraph (b)(1)(ii) of this section if any portion of the cost maintenance period precedes the first day of the first taxable year beginning on or after January 1, 2002—
 

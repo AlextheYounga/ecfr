@@ -1,7 +1,5 @@
 ##### § 571.217 Standard No. 217; Bus emergency exits and window retention and release. #####
 
-Link to an amendment published at 89 FR 86282, Oct. 30, 2024.
-
 S1. *Scope.* This standard establishes requirements for the retention of windows other than windshields in buses, and establishes operating forces, opening dimensions, and markings for bus emergency exits.
 
 S2. *Purpose.* The purpose of this standard is to minimize the likelihood of occupants being thrown from the bus and to provide a means of readily accessible emergency egress.
@@ -9,8 +7,6 @@ S2. *Purpose.* The purpose of this standard is to minimize the likelihood of occ
 S3. *Application.* This standard applies to buses, except buses manufactured for the purpose of transporting persons under physical restraint.
 
 S4. *Definitions. Adjacent seat* means a designated seating position located so that some portion of its occupant space is not more than 10 inches from an emergency exit, for a distance of at least 15 inches measured horizontally and parallel to the exit.
-
-*Daylight opening* means the maximum unobstructed opening of an emergency exit when viewed from a direction perpendicular to the plane of the opening.
 
 *Mid-point of the passenger compartment* means any point on a vertical transverse plane bisecting the vehicle longitudinal centerline that extends between the two vertical transverse planes which define the foremost and rearmost limits of the passenger compartment.
 
@@ -246,6 +242,8 @@ S5.4.3.1 Except as provided in paragraph S5.4.3.2 of this section, no portion of
 
 S5.4.3.2 The restriction in S5.4.3.1(a) of this section does not apply to tracks or track-type devices that are used for mounting seats and/or for wheelchair securement devices.
 
+S5.4.4 *Protrusion Limit on Emergency Exit Window Latches and other related mechanisms.* For buses applicable under S3 of this standard, manufactured on or after October 30, 2027, any emergency exit window latch and other related release mechanisms shall not protrude more than 25 mm (1 inch) into the opening of the emergency exit window when that window is in the open position as described under S5.4.1 and S5.4.2.
+
 S5.5 *Emergency exit identification.*
 
 S5.5.1 In buses other than school buses, and except for windows serving as emergency exits in accordance with S5.2.2.3(b) and doors in buses with a GVWR of 10,000 pounds or less, each emergency exit door shall have the designation “Emergency Door” or “Emergency Exit,” and every other emergency exit shall have the designation “Emergency Exit” followed by concise operating instructions describing each motion necessary to unlatch and open the exit, located within 16 centimeters of the release mechanism.
@@ -284,4 +282,4 @@ S6.3 For the window retention test, windows are installed, closed, and latched (
 
 S6.4 For the emergency exit release and extension tests, windows are installed as in S6.3, seats, armrests, and interior objects near the windows are installed as for normal use, and seats are in the upright position.
 
-![](/graphics/ec01au91.114.gif)![](/graphics/ec01au91.115.gif)![](/graphics/ec01au91.116.gif)![](/graphics/ec01au913c.117.gif)![](/graphics/er30mr12.000.gif)Figure 3 Low and High-Force Access Regions for Emergency Exits Without Adjacent Seats![](/graphics/er18ap18.004.gif)![](/graphics/ec01au91.119.gif)![](/graphics/ec01au91.120.gif)![](/graphics/ec01au91.121.gif)![](/graphics/er19ap02.000.gif)Figure 6B [Reserved]![](/graphics/er19ap02.002.gif)Figure 6D [Reserved]![](/graphics/ec01au91.122.gif)[37 FR 9395, May 10, 1972]Editorial Note:For Federal Register citations affecting § 571.217, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/ec01au91.114.gif)![](/graphics/ec01au91.115.gif)![](/graphics/ec01au91.116.gif)![](/graphics/ec01au913c.117.gif)![](/graphics/er30mr12.000.gif)Figure 3 Low and High-Force Access Regions for Emergency Exits Without Adjacent Seats![](/graphics/er18ap18.004.gif)![](/graphics/ec01au91.119.gif)![](/graphics/ec01au91.120.gif)![](/graphics/ec01au91.121.gif)![](/graphics/er19ap02.000.gif)Figure 6B [Reserved] ![](/graphics/er19ap02.002.gif)Figure 6D [Reserved] ![](/graphics/ec01au91.122.gif)[37 FR 9395, May 10, 1972]Editorial Note:For Federal Register citations affecting § 571.217, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

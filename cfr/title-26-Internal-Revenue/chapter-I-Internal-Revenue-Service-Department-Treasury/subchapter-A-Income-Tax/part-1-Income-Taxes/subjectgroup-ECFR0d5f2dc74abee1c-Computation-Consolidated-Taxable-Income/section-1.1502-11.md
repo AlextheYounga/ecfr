@@ -1,22 +1,18 @@
 ##### § 1.1502-11 Consolidated taxable income. #####
 
-(a) *In general.* The consolidated taxable income for a consolidated return year shall be determined by taking into account:
+(a) *In general.* The consolidated taxable income (CTI) for a consolidated return year is determined by taking into account:
 
-(1) The separate taxable income of each member of the group (see § 1.1502-12 for the computation of separate taxable income);
+(1) The separate taxable income of each member of the group (*see* § 1.1502-12 for the computation of separate taxable income);
 
-(2) Any consolidated net operating loss deduction (see §§ 1.1502-21 (or 1.1502-21A, as appropriate) for the computation of the consolidated net operating loss deduction);
+(2) Any consolidated net operating loss (CNOL) deduction (*see* § 1.1502-21 for the computation of the CNOL deduction);
 
-(3) Any consolidated capital gain net income (net capital gain for taxable years beginning before January 1, 1977) (see §§ 1.1502-22 (or 1.1502-22A, as appropriate) for the computation of the consolidated capital gain net income (net capital gain for taxable years beginning before January 1, 1977));
+(3) Any consolidated capital gain net income (*see* § 1.1502-22 for the computation of consolidated capital gain net income);
 
-(4) Any consolidated section 1231 net loss (see §§ 1.1502-23 (or 1.1502-23A, as appropriate) for the computation of the consolidated section 1231 net loss);
+(4) Any consolidated section 1231 net loss (*see* § 1.1502-23 for the computation of consolidated section 1231 net loss);
 
-(5) Any consolidated charitable contributions deduction (see § 1.1502-24 for the computation of the consolidated charitable contributions deduction);
+(5) Any consolidated charitable contributions deduction (*see* § 1.1502-24 for the computation of the consolidated charitable contributions deduction); and
 
-(6) Any consolidated section 922 deduction (see § 1.1502-25 for the computation of the consolidated section 922 deduction);
-
-(7) Any consolidated dividends received deduction (see § 1.1502-26 for the computation of the consolidated dividends received deduction); and
-
-(8) Any consolidated section 247 deduction (see § 1.1502-27 for the computation of the consolidated section 247 deduction).
+(6) Any consolidated dividends received deduction (*see* § 1.1502-26 for the computation of the consolidated dividends received deduction).
 
 (b) *Elimination of circular stock basis adjustments when there is no excluded COD income*—(1) *In general.* If one member (P) disposes of the stock of another member (S), this paragraph (b) limits the use of S's deductions and losses in the year of disposition and the carryback of items to prior years. The purpose of the limitation is to prevent P's income or gain from the disposition of S's stock from increasing the absorption of S's deductions and losses, because the increased absorption would reduce P's basis (or increase its excess loss account) in S's stock under § 1.1502-32 and, in turn, increase P's income or gain. See paragraph (b)(3) of this section for the application of these principles to P's deduction or loss from the disposition of S's stock, and paragraph (b)(4) of this section for the application of these principles to multiple stock dispositions. This paragraph (b) applies only when no member realizes discharge of indebtedness income that is excluded from gross income under section 108(a) (excluded COD income) during the taxable year of the disposition. See paragraph (c) of this section for rules that apply when a member realizes excluded COD income during the taxable year of the disposition. See § 1.1502-19(c) for the definition of disposition.
 
@@ -26,17 +22,21 @@
 
 (iii) *Examples.* For purposes of the examples in this paragraph (b), unless otherwise stated, P owns all of the only class of S's stock for the entire year, S owns no stock of lower-tier members, the tax year of all persons is the calendar year, all persons use the accrual method of accounting, the facts set forth the only corporate activity, all transactions are between unrelated persons, and tax liabilities are disregarded. The principles of this paragraph (b)(2) are illustrated by the following examples.
 
-Example 1. Limitation on losses with respect to stock gain.(a) P has a $500 basis in S's stock. For Year 1, P has ordinary income of $30 (determined without taking P's gain or loss from the disposition of S's stock into account) and S has an $80 ordinary loss. P sells S's stock for $520 at the close of Year 1.
+(A) *Example 1*. *Limitation on losses with respect to stock gain.*—
 
-(b) To determine the amount of the limitation on S's loss under paragraph (b)(2)(i) of this section, and the effect under § 1.1502-32(b) of the absorption of S's loss on P's basis in S's stock, P's gain or loss from the disposition of S's stock is not taken into account. The group is tentatively treated as having a consolidated net operating loss of $50 (P's $30 of income minus S's $80 loss). Thus, $50 of S's loss is limited under this paragraph (b).
+(*1*) P has a $500 basis in S's stock. For Year 1, P has ordinary income of $30 (determined without taking P's gain or loss from the disposition of S's stock into account) and S has an $80 ordinary loss. P sells S's stock for $520 at the close of Year 1.
 
-(c) Because $30 of S's loss is absorbed in the determination of consolidated taxable income under paragraph (b)(2)(ii) of this section, P's basis in S's stock is reduced under § 1.1502-32(b) from $500 to $470 immediately before the disposition. Consequently, P recognizes a $50 gain from the sale of S's stock and the group has consolidated taxable income of $50 for Year 1 (P's $30 of ordinary income and $50 gain from the sale of S's stock, less the $30 of S's loss). In addition, S's limited loss of $50 is treated as a separate net operating loss attributable to S and, because S ceases to be a member, the loss is apportioned to S under § 1.1502-21 (or § 1.1502-79A, as appropriate) and carried to its first separate return year.
+(*2*) To determine the amount of the limitation on S's loss under paragraph (b)(2)(i) of this section, and the effect under § 1.1502-32(b) of the absorption of S's loss on P's basis in S's stock, P's gain or loss from the disposition of S's stock is not taken into account. The group is tentatively treated as having a consolidated net operating loss of $50 (P's $30 of income minus S's $80 loss). Thus, $50 of S's loss is limited under this paragraph (b).
 
-Example 2. Carrybacks and carryovers.(a) For Year 1, the P group has consolidated taxable income of $30, and a consolidated net capital loss of $100 ($50 attributable to P and $50 to S). At the beginning of Year 2, P has a $300 basis in S's stock. For Year 2, P has ordinary income of $30, and a $20 capital gain (determined without taking the $100 consolidated net capital loss carryover or P's gain or loss from the disposition of S's stock into account), and S has a $100 ordinary loss. P sells S's stock for $280 at the close of Year 2.
+(*3*) Because $30 of S's loss is absorbed in the determination of consolidated taxable income under paragraph (b)(2)(ii) of this section, P's basis in S's stock is reduced under § 1.1502-32(b) from $500 to $470 immediately before the disposition. Consequently, P recognizes a $50 gain from the sale of S's stock and the group has consolidated taxable income of $50 for Year 1 (P's $30 of ordinary income and $50 gain from the sale of S's stock, less the $30 of S's loss). In addition, S's limited loss of $50 is treated as a separate net operating loss attributable to S and, because S ceases to be a member, the loss is apportioned to S under § 1.1502-21 and carried to its first separate return year.
 
-(b) To determine the amount of the limitation under paragraph (b)(2)(i) of this section on S's losses, and the effect of the absorption of S's losses on P's basis in S's stock under § 1.1502-32(b), P's gain or loss from the disposition of S's stock is not taken into account. For Year 2, the P group is tentatively treated as having a $70 consolidated net operating loss (S's $100 ordinary loss, less P's $30 of ordinary income). The P group is also treated as having no consolidated net capital gain in Year 2, because P's $20 capital gain is reduced by $20 of the consolidated net capital loss carryover from Year 1 under section 1212(a) (the absorption of which is attributed equally to P and S). In addition, of the $70 consolidated net operating loss, $30 is carried back to Year 1 and offsets P's ordinary income in that year, and $40 is carried forward. Consequently, $40 of S's operating loss from Year 2, and $40 of the consolidated net capital loss carryover from Year 1 attributable to S, are limited under this paragraph (b).
+(B) *Example 2.**Carrybacks and carryovers.*—
 
-(c) Under paragraph (b)(2)(ii) of this section, the limitation under this paragraph (b) does not affect the absorption of any deductions and losses attributable to P, $60 of S's operating loss from Year 2, and $10 of the consolidated net capital loss from Year 1 attributable to S. Consequently, P's basis in S's stock is reduced under § 1.1502-32(b) by $70, from $300 to $230, and P recognizes a $50 gain from the sale of S's stock in Year 2. Thus, the P group is treated as having a $20 unlimited net operating loss that is carried back to Year 1:
+(*1*) For Year 1, the P group has consolidated taxable income of $30, and a consolidated net capital loss of $100 ($50 attributable to P and $50 to S). At the beginning of Year 2, P has a $300 basis in S's stock. For Year 2, P has ordinary income of $30, and a $20 capital gain (determined without taking the $100 consolidated net capital loss carryover or P's gain or loss from the disposition of S's stock into account), and S has a $100 ordinary loss. P sells S's stock for $280 at the close of Year 2.
+
+(*2*) To determine the amount of the limitation under paragraph (b)(2)(i) of this section on S's losses, and the effect of the absorption of S's losses on P's basis in S's stock under § 1.1502-32(b), P's gain or loss from the disposition of S's stock is not taken into account. For Year 2, the P group is tentatively treated as having a $70 consolidated net operating loss (S's $100 ordinary loss, less P's $30 of ordinary income). The P group is also treated as having no consolidated net capital gain in Year 2, because P's $20 capital gain is reduced by $20 of the consolidated net capital loss carryover from Year 1 under section 1212(a) (the absorption of which is attributed equally to P and S). In addition, of the $70 consolidated net operating loss, $30 is carried back to Year 1 and offsets P's ordinary income in that year, and $40 is carried forward. Consequently, $40 of S's operating loss from Year 2, and $40 of the consolidated net capital loss carryover from Year 1 attributable to S, are limited under this paragraph (b).
+
+(*3*) Under paragraph (b)(2)(ii) of this section, the limitation under this paragraph (b) does not affect the absorption of any deductions and losses attributable to P, $60 of S's operating loss from Year 2, and $10 of the consolidated net capital loss from Year 1 attributable to S. Consequently, P's basis in S's stock is reduced under § 1.1502-32(b) by $70, from $300 to $230, and P recognizes a $50 gain from the sale of S's stock in Year 2. Thus, the P group is treated as having a $20 unlimited net operating loss that is carried back to Year 1:
 
 |              Ordinary income:              |     |
 |--------------------------------------------|-----|
@@ -49,11 +49,15 @@ Example 2. Carrybacks and carryovers.(a) For Year 1, the P group has consolidate
 |                 Sub Total                  | $10 |
 |        Consolidated taxable income         |$(20)|
 
-(d) Under paragraph (b)(2)(ii) of this section, S's $40 ordinary loss from Year 2 that is limited under this paragraph (b) is treated as a separate net operating loss arising in Year 2. Similarly, $40 of the consolidated net capital loss from Year 1 attributable to S is treated as a separate net capital loss carried over from Year 1. Because S ceases to be a member, the $40 net operating loss from Year 2 and the $40 consolidated net capital loss from Year 1 are allocated to S under §§ 1.1502-21 and 1.1502-22, respectively (or § 1.1502-79A, as appropriate) and are carried to S's first separate return year.Example 3. Allocation of basis adjustments.(a) For Year 1, the P group has consolidated taxable income of $100. At the beginning of Year 2, P has a $40 basis in each of the 10 shares of S's stock. For Year 2, P has an $80 ordinary loss (determined without taking into account P's gain or loss from the disposition of S's stock) and S has an $80 ordinary loss. P sells 2 shares of S's stock for $85 each at the close of Year 2.
+(*4*) Under paragraph (b)(2)(ii) of this section, S's $40 ordinary loss from Year 2 that is limited under this paragraph (b) is treated as a separate net operating loss arising in Year 2. Similarly, $40 of the consolidated net capital loss from Year 1 attributable to S is treated as a separate net capital loss carried over from Year 1. Because S ceases to be a member, the $40 net operating loss from Year 2 and the $40 consolidated net capital loss from Year 1 are allocated to S under §§ 1.1502-21 and 1.1502-22, respectively and are carried to S's first separate return year.
 
-(b) Under paragraph (b)(2)(i) of this section, the amount of the limitation on S's loss is determined by tentatively treating the P group as having a $160 consolidated net operating loss for Year 2. Of this amount, $100 is carried back under section 172 and absorbed in Year 1 ($50 attributable to S and $50 attributable to P). Consequently, $30 of S's loss is limited under this paragraph (b).
+(C) *Example 3.**Allocation of basis adjustments.*—
 
-(c) Under paragraph (b)(2)(ii) of this section, the limitation under this paragraph (b) does not affect the absorption of P's $80 ordinary loss or $50 of S's ordinary loss. Consequently, P's basis in each share of S's stock is reduced from $40 to $35 under § 1.1502-32(b), and P recognizes a $100 gain from the sale of the 2 shares. Thus, the P group is treated as having a $30 unlimited net operating loss:
+(*1*) For Year 1, the P group has consolidated taxable income of $100. At the beginning of Year 2, P has a $40 basis in each of the 10 shares of S's stock. For Year 2, P has an $80 ordinary loss (determined without taking into account P's gain or loss from the disposition of S's stock) and S has an $80 ordinary loss. P sells 2 shares of S's stock for $85 each at the close of Year 2.
+
+(*2*) Under paragraph (b)(2)(i) of this section, the amount of the limitation on S's loss is determined by tentatively treating the P group as having a $160 consolidated net operating loss for Year 2. Of this amount, $100 is carried back under section 172 and absorbed in Year 1 ($50 attributable to S and $50 attributable to P). Consequently, $30 of S's loss is limited under this paragraph (b).
+
+(*3*) Under paragraph (b)(2)(ii) of this section, the limitation under this paragraph (b) does not affect the absorption of P's $80 ordinary loss or $50 of S's ordinary loss. Consequently, P's basis in each share of S's stock is reduced from $40 to $35 under § 1.1502-32(b), and P recognizes a $100 gain from the sale of the 2 shares. Thus, the P group is treated as having a $30 unlimited net operating loss:
 
 |             Ordinary loss:              |      |
 |-----------------------------------------|------|
@@ -66,9 +70,9 @@ Example 2. Carrybacks and carryovers.(a) For Year 1, the P group has consolidate
 |                Sub Total                | $100 |
 |Unlimited consolidated net operating loss|$(30) |
 
-(d) A portion of the $130 of unlimited operating losses for Year 2 is fully absorbed in that year, and a portion is carried back to Year 1. Thus, $61.50 of P's $80 loss ($100 multiplied by $80/$130) and $38.50 of S's $50 unlimited loss ($100 multiplied by $50/$130) are absorbed in Year 2. P's remaining $18.50 of loss and S's remaining $11.50 of loss are not subject to limitation and are carried back and absorbed in Year 1.
+(*4*) A portion of the $130 of unlimited operating losses for Year 2 is fully absorbed in that year, and a portion is carried back to Year 1. Thus, $61.50 of P's $80 loss ($100 multiplied by $80/$130) and $38.50 of S's $50 unlimited loss ($100 multiplied by $50/$130) are absorbed in Year 2. P's remaining $18.50 of loss and S's remaining $11.50 of loss are not subject to limitation and are carried back and absorbed in Year 1.
 
-(e) Under paragraph (b)(2)(ii) of this section, S's $30 of loss limited under this paragraph (b) is treated as a separate net operating loss.
+(*5*) Under paragraph (b)(2)(ii) of this section, S's $30 of loss limited under this paragraph (b) is treated as a separate net operating loss.
 
 (3) *Loss dispositions*—(i) *General rule.* The principles of paragraph (b)(2) of this section apply to the extent necessary to carry out the purposes of paragraph (b)(1) of this section if P recognizes a deduction or loss from the disposition of S's stock.
 
@@ -218,8 +222,8 @@ Example 4. Excess loss account taken into account.(i) *Facts.* P is the common p
 
 (6) *Additional rules for multiple dispositions.* [Reserved]
 
-(7) *Effective date.* This paragraph (c) applies to dispositions of subsidiary stock that occur after March 22, 2005. Taxpayers may apply § 1.1502-11(c) of REG-167265-03 (2004-15 IRB 730) (see § 601.601(d)(2) of this chapter) in whole, but not in part, to any disposition of subsidiary stock that occurs on or before March 22, 2005, if a member of the group realized excluded COD income after August 29, 2003, in the taxable year that includes the date of the disposition of such subsidiary stock.
+(7) *Effective date.* This paragraph (c) applies to dispositions of subsidiary stock that occur after March 22, 2005.
 
 (d) *Disallowance of loss attributable to pre-1966 distributions.* No loss shall be allowed upon the sale or other disposition of stock, bonds, or other obligations of a member or former member to the extent that such loss is attributable to a distribution made in an affiliated year beginning before January 1, 1966, out of earnings and profits accumulated before the distributing corporation became a member.
 
-[T.D. 7246, 38 FR 759, Jan. 4, 1973]Editorial Note:For Federal Register citations affecting § 1.1502-11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 7246, 38 FR 759, Jan. 4, 1973] Editorial Note:For Federal Register citations affecting § 1.1502-11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

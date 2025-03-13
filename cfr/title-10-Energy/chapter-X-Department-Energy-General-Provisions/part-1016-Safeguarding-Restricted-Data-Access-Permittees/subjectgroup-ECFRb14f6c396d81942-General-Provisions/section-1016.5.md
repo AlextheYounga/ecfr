@@ -1,0 +1,5 @@
+##### § 1016.5 Submission of procedures by access permit holder. #####
+
+No access permit holder shall have access to Restricted Data until he has submitted to the DOE a written statement of his procedures for the safeguarding of Restricted Data and for the security education of his employees, and DOE shall have determined and informed the permittee that his procedures for the safeguarding of Restricted Data are in compliance with the regulations in this part and that his procedures for the security education of his employees, who will have access to Restricted Data, are informed about and understand the regulations in this part. These procedures must ensure that employees with access to Restricted Data are informed about and understand who is authorized or required to classify and declassify RD and FRD information and classified matter as well as how documents containing RD or FRD are marked (see 10 CFR part 1045) and safeguarded.
+
+[82 FR 41506, Sept. 1, 2017]

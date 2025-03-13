@@ -179,4 +179,4 @@
 | 26E |                                       For closed cargo transport units, a non-metallic lining is required when not in effectively sealed, sift-proof packages.                                       |
 | 27E |                                                                 For closed cargo transport units, a non-metallic lining is required.                                                                 |
 
-[Amdt. 176-30, 55 FR 52693, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 176.84, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[Amdt. 176-30, 55 FR 52693, Dec. 21, 1990] Editorial Note:For Federal Register citations affecting § 176.84, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

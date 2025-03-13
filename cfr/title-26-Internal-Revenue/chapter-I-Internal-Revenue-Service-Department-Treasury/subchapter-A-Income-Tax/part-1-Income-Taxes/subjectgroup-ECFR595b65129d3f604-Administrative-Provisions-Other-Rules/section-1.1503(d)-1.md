@@ -40,7 +40,7 @@
 
 (6) *Subject to tax.* For purposes of determining whether a domestic corporation or another entity is subject to an income tax of a foreign country on its income, the fact that it has no actual income tax liability to the foreign country for a particular taxable year shall not be taken into account.
 
-(7) *Foreign country* includes any possession of the United States.
+(7) *Foreign country* includes any U.S. territory (as defined in § 1.1502-1(l)).
 
 (8) *Consolidated group* has the meaning provided in § 1.1502-1(h).
 
@@ -112,4 +112,4 @@
 
 (3) *Signature requirement.* When an election, agreement, statement, rebuttal, computation, or other information is required pursuant to section 1503(d) and these regulations to be attached to and filed by the due date (including extensions) of a U.S. tax return and signed under penalties of perjury by the person who signs the return, the attachment and filing of an unsigned copy is considered to satisfy such requirement, provided the taxpayer retains the original in its records in the manner specified by § 1.6001-1(e).
 
-[T.D. 9315, 72 FR 12914, Mar. 19, 2007, as amended by T.D. 9896, 85 FR 19855, Apr. 8, 2020]
+[T.D. 9315, 72 FR 12914, Mar. 19, 2007, as amended by T.D. 9896, 85 FR 19855, Apr. 8, 2020; T.D. 10018, 89 FR 106878, Dec. 30, 2024]

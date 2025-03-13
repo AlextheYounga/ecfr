@@ -1,3 +1,5 @@
 ##### § 51.52 Licensing and identification of certain official devices. #####
 
+Link to an amendment published at 89 FR 106234, Dec. 30, 2024.
+
 The Administrator may issue licenses permitting the manufacture, identification, distribution, and sale of any official device designated as a USDA color standard, defect guide or other similar aid under such terms and conditions as may be specified by the Administrator. Licenses shall be available to all persons meeting conditions prescribed by the Administrator, shall be nonexclusive, and shall be revocable for cause. No person shall manufacture, identify, distribute or sell any such official device except at the direction of or under license from the Administrator. Such official devices may be marked, tagged or otherwise designated with the prefix “USDA” together with other identifying words or symbols, as prescribed by the license.

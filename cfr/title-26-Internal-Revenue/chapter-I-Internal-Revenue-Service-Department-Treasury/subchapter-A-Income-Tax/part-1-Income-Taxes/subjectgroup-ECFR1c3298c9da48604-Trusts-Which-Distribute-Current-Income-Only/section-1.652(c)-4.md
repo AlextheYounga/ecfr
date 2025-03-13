@@ -27,7 +27,7 @@ Example.(a) Under the terms of a simple trust all of the income is to be distrib
 |                                                 | 7,600 |   |
 |      Income computed under section 643(b)       |92,400 |   |
 
-One-half ($46,200) of the income of $92,400 is currently distributable to each beneficiary.(c) The distributable net income of the trust computed under section 643(a) is $91,100, determined as follows (cents are disregarded in the computation):
+One-half ($46,200) of the income of $92,400 is currently distributable to each beneficiary. (c) The distributable net income of the trust computed under section 643(a) is $91,100, determined as follows (cents are disregarded in the computation):
 
 |                                  Rents                                  |$25,000|      |
 |-------------------------------------------------------------------------|-------|------|
@@ -42,7 +42,7 @@ One-half ($46,200) of the income of $92,400 is currently distributable to each b
 |                                                                         | ————  |7,925 |
 |                        Distributable net income                         |       |91,100|
 
-In computing the distributable net income of $91,100, the taxable income of the trust was computed with the following modifications: No deductions were allowed for distributions to the beneficiaries and for personal exemption of the trust (section 643(a) (1) and (2)); capital gains were excluded and no deduction under section 1202 (relating to the 50-percent deduction for long-term capital gains) was taken into account (section 643(a)(3)); the tax-exempt interest (as adjusted for expenses) and the dividend exclusion of $50 were included (section 643(a) (5) and (7)). Since all of the income of the trust is required to be currently distributed, no deduction is allowable for depreciation in the absence of specific provisions in the governing instrument providing for the keeping of the trust corpus intact. See section 167(h) and the regulations thereunder.(d) The deduction allowable to the trust under section 651(a) for distributions to the beneficiaries is $67,025, computed as follows:
+In computing the distributable net income of $91,100, the taxable income of the trust was computed with the following modifications: No deductions were allowed for distributions to the beneficiaries and for personal exemption of the trust (section 643(a) (1) and (2)); capital gains were excluded and no deduction under section 1202 (relating to the 50-percent deduction for long-term capital gains) was taken into account (section 643(a)(3)); the tax-exempt interest (as adjusted for expenses) and the dividend exclusion of $50 were included (section 643(a) (5) and (7)). Since all of the income of the trust is required to be currently distributed, no deduction is allowable for depreciation in the absence of specific provisions in the governing instrument providing for the keeping of the trust corpus intact. See section 167(h) and the regulations thereunder. (d) The deduction allowable to the trust under section 651(a) for distributions to the beneficiaries is $67,025, computed as follows:
 
 |Distributable net income computed under section 643(a) (see paragraph (c))|$91,100|      |
 |--------------------------------------------------------------------------|-------|------|
@@ -52,7 +52,7 @@ In computing the distributable net income of $91,100, the taxable income of the 
 |                                                                          | ————  |24,075|
 |       Distributable net income as determined under section 651(b)        |67,025 |      |
 
-Since the amount of the income ($92,400) required to be distributed currently by the trust exceeds the distributable net income ($67,025) as computed under section 651(b), the deduction allowable under section 651(a) is limited to the distributable net income of $67,025.(e) The taxable income of the trust is $7,200 computed as follows:
+Since the amount of the income ($92,400) required to be distributed currently by the trust exceeds the distributable net income ($67,025) as computed under section 651(b), the deduction allowable under section 651(a) is limited to the distributable net income of $67,025. (e) The taxable income of the trust is $7,200 computed as follows:
 
 |                Rents                 |$25,000|      |
 |--------------------------------------|-------|------|
@@ -68,7 +68,7 @@ Since the amount of the income ($92,400) required to be distributed currently by
 |                                      | ————  |82,750|
 |            Taxable income            |       |7,200 |
 
-The trust is not allowed a deduction for the portion ($975) of the trustee's commissions allocable to tax-exempt interest in computing its taxable income.(f) In determining the character of the amounts includible in the gross income of A and B, it is assumed that the trustee elects to allocate to rents the expenses not directly attributable to a specific item of income other than the portion ($975) of such expenses allocated to tax-exempt interest. The allocation of expenses among the items of income is shown below:
+The trust is not allowed a deduction for the portion ($975) of the trustee's commissions allocable to tax-exempt interest in computing its taxable income. (f) In determining the character of the amounts includible in the gross income of A and B, it is assumed that the trustee elects to allocate to rents the expenses not directly attributable to a specific item of income other than the portion ($975) of such expenses allocated to tax-exempt interest. The allocation of expenses among the items of income is shown below:
 
 |                                                      | Rents |Dividends|Tax-exempt interest|       Total       |
 |------------------------------------------------------|-------|---------|-------------------|-------------------|

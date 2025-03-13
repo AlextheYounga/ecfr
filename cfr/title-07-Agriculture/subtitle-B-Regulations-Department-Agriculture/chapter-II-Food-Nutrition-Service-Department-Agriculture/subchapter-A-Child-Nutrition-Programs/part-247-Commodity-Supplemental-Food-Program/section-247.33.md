@@ -1,8 +1,6 @@
 ##### § 247.33 Fair hearings. #####
 
-Link to an amendment published at 89 FR 87247, Oct. 31, 2024.
-
-(a) *What is a fair hearing?* A fair hearing is a process that allows a CSFP applicant or participant to appeal an adverse action, which may include the denial or discontinuance of program benefits, disqualification from the program, or a claim to repay the value of commodities received as a result of fraud. State and local agencies must ensure that CSFP applicants and participants understand their right to appeal an adverse action through the fair hearing process, which includes providing written notification of the individual's right to a fair hearing along with notification of the adverse action. Such notification is not required at the expiration of a certification period.
+(a) *What is a fair hearing?* A fair hearing is a process that allows a CSFP applicant or participant to appeal an adverse action, which may include the denial or discontinuance of program benefits, disqualification from the program, or a claim to repay the value of USDA Foods received as a result of fraud. State and local agencies must ensure that CSFP applicants and participants understand their right to appeal an adverse action through the fair hearing process, which includes providing written notification of the individual's right to a fair hearing along with notification of the adverse action. Such notification is not required at the expiration of a certification period.
 
 (b) *What are the basic requirements the State agency must follow in establishing procedures to be used in fair hearings?* The State agency must establish simple, clear, uniform rules of procedure to be used in fair hearings, including, at a minimum, the procedures outlined in this section. The State agency may use alternate procedures if approved by FNS. The rules of procedure must be available for public inspection and copying.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 87247, Oct. 31, 2024.
 
 (n) *What further steps may an individual take if a hearing decision is not in his or her favor?* If a hearing decision upholds the State or local agency's action, and a State-level review or rehearing process is available, the State or local agency must describe to the individual any State-level review or rehearing process. The State or local agency must also inform the individual of the right of the individual to pursue judicial review of the decision.
 
-[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38751, July 9, 2014]
+[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38751, July 9, 2014; 89 FR 87247, Oct. 31, 2024]

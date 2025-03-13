@@ -22,16 +22,14 @@
 
 (3) The amount of any other indebtedness which, if included, would result in a duplication of amounts in the aggregate indebtedness of such affiliated group.
 
-(d) *Aggregate projected earnings.* In the case of an affiliated group of corporations (whether or not such group files a consolidated return under section 1501), the aggregate projected earnings of such group shall be computed by separately determining the projected earnings of each member of such group under paragraph (d) of § 1.279-5, and then adding together such separately determined amounts, except that:
+(d) *Aggregate projected earnings.* In the case of an affiliated group of corporations (whether or not such group files a consolidated return under section 1501), the aggregate projected earnings of such group is computed by separately determining the projected earnings of each member of such group under paragraph (d) of § 1.279-5, and then adding together such separately determined amounts, except that—
 
-(1) A dividend (a distribution which is described in section 301(c)(1) other than a distribution described in section 243(c)(1)) distributed by one member to another member shall be eliminated, and
+(1) A dividend (a distribution which is described in section 301(c)(1) other than a distribution described in section 243(c)(1)) distributed by one member to another member is eliminated;
 
-(2) In determining the earnings and profits of any member of an affiliated group, there shall be eliminated any amount of interest income received or accrued, and of interest expense paid or incurred, which is attributable to intercompany indebtedness,
+(2) In determining the earnings and profits of any member of an affiliated group, there is eliminated any amount of interest income received or accrued, and of interest expense paid or incurred, which is attributable to intercompany indebtedness; and
 
-(3) No gain or loss shall be recognized in any transaction between members of the affiliated group, and
-
-(4) Members of an affiliated group who file a consolidated return shall not apply the provisions of § 1.1502-18 dealing with inventory adjustments in determining earnings and profits for purposes of this section.
+(3) No gain or loss is recognized in any transaction between members of the affiliated group.
 
 (e) *Aggregate interest to be paid or incurred.* For purposes of section 279(c)(4), in determining the aggregate annual interest to be paid or incurred by an affiliated group of corporations, the annual interest to be paid or incurred by each member of such affiliated group shall be separately calculated under paragraph (e) of § 1.279-5, and such separately calculated amounts shall be added together, except that any amount of annual interest to be paid or incurred on any intercompany indebtedness shall be eliminated from such aggregate interest.
 
-[T.D. 7262, 38 FR 5850, Mar. 5, 1973, as amended by T.D. 8560, 59 FR 41675, Aug. 15, 1994; T.D. 8597, 60 FR 36679, July 18, 1995]
+[T.D. 7262, 38 FR 5850, Mar. 5, 1973, as amended by T.D. 8560, 59 FR 41675, Aug. 15, 1994; T.D. 8597, 60 FR 36679, July 18, 1995; T.D. 10018, 89 FR 106851, Dec. 30, 2024]

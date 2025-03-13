@@ -1,6 +1,6 @@
 ##### § 179.100-20 Stamping. #####
 
-(a) To certify that the tank complies with all specification requirements, each tank shall be plainly and permanently stamped in letters and figures at least3/8 inch high into the metal near the center of both outside heads as follows:
+(a) To certify that the tank complies with all specification requirements, each tank shall be plainly and permanently stamped in letters and figures at least 3/8 inch high into the metal near the center of both outside heads as follows:
 
 |                                            |Example of required stamping|
 |--------------------------------------------|----------------------------|

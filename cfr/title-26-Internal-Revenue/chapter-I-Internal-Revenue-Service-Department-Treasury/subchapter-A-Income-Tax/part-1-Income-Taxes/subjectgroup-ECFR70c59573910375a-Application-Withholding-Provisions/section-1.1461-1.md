@@ -180,4 +180,4 @@
 
 (j) *Applicability date.* The rules of this section apply to returns required to be filed for taxable years ending on or after December 31, 2023. (For returns required to be filed for taxable years ending before December 31, 2023, see this section as in effect and contained in 26 CFR part 1, as revised April 1, 2022.)
 
-[T.D. 8734, 62 FR 53467, Oct. 14, 1997]Editorial Note:For Federal Register citations affecting § 1.1461-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 8734, 62 FR 53467, Oct. 14, 1997] Editorial Note:For Federal Register citations affecting § 1.1461-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

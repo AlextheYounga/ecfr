@@ -14,7 +14,7 @@
 
 (A) When an appraisal is determined to be unnecessary, the agency shall prepare a waiver valuation.
 
-(*1*) Waiver valuations are not appraisals by definition in this part (*See* § 24.2). Persons preparing or reviewing a waiver valuation are precluded from complying with Standards Rules 1, 2, 3, and 4 of the “Uniform Standards of Professional Appraisal Practice,” as promulgated by the Appraisal Standards Board of The Appraisal Foundation1 (*see* appendix A to this part, sections 24.102(c) and 24.103(a).)
+(*1*) Waiver valuations are not appraisals by definition in this part (*See* § 24.2). Persons preparing or reviewing a waiver valuation are precluded from complying with Standards Rules 1, 2, 3, and 4 of the “Uniform Standards of Professional Appraisal Practice,” as promulgated by the Appraisal Standards Board of The Appraisal Foundation 1 (*see* appendix A to this part, sections 24.102(c) and 24.103(a).)
 
 1 Uniform Standards of Professional Appraisal Practice (USPAP). Published by The Appraisal Foundation, a nonprofit educational organization. Copies may be ordered from The Appraisal Foundation.
 

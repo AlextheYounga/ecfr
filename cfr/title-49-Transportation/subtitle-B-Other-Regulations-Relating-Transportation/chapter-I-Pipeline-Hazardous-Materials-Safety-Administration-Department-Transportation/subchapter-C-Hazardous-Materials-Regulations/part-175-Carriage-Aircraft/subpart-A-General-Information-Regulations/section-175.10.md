@@ -202,4 +202,4 @@
 
 (c) The requirements to submit incident reports as required under §§ 171.15 and 171.16 of this subchapter apply to the air carrier.
 
-[71 FR 14604, Mar. 22, 2006]Editorial Note:For Federal Register citations affecting § 175.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[71 FR 14604, Mar. 22, 2006] Editorial Note:For Federal Register citations affecting § 175.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

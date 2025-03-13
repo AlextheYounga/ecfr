@@ -117,19 +117,19 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − dT12)Where:S = wall stress in psi;P = test pres
 
 (i) The test must be performed after the hydrostatic test.
 
-(ii) The test must be between knife edges, wedge shaped, 60° angle, rounded to1/2 inch radius. For lots of 30 or less, physical tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to the same heat treatment as the finished cylinder.
+(ii) The test must be between knife edges, wedge shaped, 60° angle, rounded to 1/2 inch radius. For lots of 30 or less, physical tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to the same heat treatment as the finished cylinder.
 
 (j) *Physical test and specimens for spheres and cylinders.* Spheres and cylinders must be subjected to a physical test as follows:
 
 (1) Physical test for spheres are required on 2 specimens cut from a flat representative sample plate of the same heat taken at random from the steel used to produce the sphere. This flat steel from which the 2 specimens are to be cut must receive the same heat-treatment as the spheres themselves. Sample plates must be taken for each lot of 200 or less spheres.
 
-(2) Specimens for spheres must have a gauge length 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times the thickness with a width not over 6 times the thickness is authorized when a wall is not over3/16 inch thick.
+(2) Specimens for spheres must have a gauge length 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times the thickness with a width not over 6 times the thickness is authorized when a wall is not over 3/16 inch thick.
 
 (3) Physical test for cylinders is required on 2 specimens cut from 1 cylinder taken at random out of each lot of 200 or less. For lots of 30 or less, physical tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to the same heat treatment as the finished cylinder.
 
 (4) Specimens for cylinders must conform to the following:
 
-(i) A gauge length of 8 inches with a width not over 11/2 inches, or a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times the thickness with a width not over 6 times the thickness is authorized when a cylinder wall is not over3/16 inch thick.
+(i) A gauge length of 8 inches with a width not over 11/2 inches, or a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times the thickness with a width not over 6 times the thickness is authorized when a cylinder wall is not over 3/16 inch thick.
 
 (ii) The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within 1 inch of each end of the reduced section. Heating of the specimen for any purpose is not authorized.
 
@@ -141,7 +141,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − dT12)Where:S = wall stress in psi;P = test pres
 
 (iii) For the purpose of strain measurement, the initial strain must be set while the specimen is under a stress of 12,000 psi and the strain indicator reading being set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
 
 (k) *Acceptable results for physical and flattening tests.* Either of the following is an acceptable result:
 

@@ -1,5 +1,7 @@
 ##### § 1282.1 Definitions. #####
 
+Link to an amendment published at 89 FR 106275, Dec. 30, 2024.
+
 (a) *Statutory terms.* All terms defined in the Safety and Soundness Act are used in accordance with their statutory meaning unless otherwise defined in paragraph (b) of this section.
 
 (b) *Other terms.* As used in this part, the term:

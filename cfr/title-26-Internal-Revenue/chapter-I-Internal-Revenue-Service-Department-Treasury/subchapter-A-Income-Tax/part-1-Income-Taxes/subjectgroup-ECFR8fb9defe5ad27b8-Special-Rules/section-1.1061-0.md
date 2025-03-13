@@ -8,8 +8,7 @@ This section lists the captions that appear in §§ 1.1061-1 through 1.1061-6.
 
 (b) Applicability date.
 
-§ 1.1061-2
-Applicable partnership interests and applicable trades or businesses.
+§ 1.1061-2 Applicable partnership interests and applicable trades or businesses.
 
 (a) API rules and examples.
 

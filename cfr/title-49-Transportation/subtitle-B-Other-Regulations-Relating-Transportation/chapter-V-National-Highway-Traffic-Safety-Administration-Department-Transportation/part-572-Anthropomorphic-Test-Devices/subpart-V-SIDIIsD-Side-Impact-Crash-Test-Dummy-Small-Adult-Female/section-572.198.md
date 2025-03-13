@@ -18,7 +18,7 @@
 
 (8) The impactor is specified in 49 CFR 572.200(a).
 
-(9) The impactor is guided, if needed, so that at contact with the pelvis, its longitudinal axis is within ±1 degree of a horizontal plane and perpendicular to the midsagittal plane of the dummy. The centerpoint of the impactor's face is in line within 2 mm of the longitudinal centerline of the1/4-20x1/2 flat head cap screw through the center of the acetabulum load cell (SA572-S68), as shown in Figure V8-A in appendix A to this subpart;
+(9) The impactor is guided, if needed, so that at contact with the pelvis, its longitudinal axis is within ±1 degree of a horizontal plane and perpendicular to the midsagittal plane of the dummy. The centerpoint of the impactor's face is in line within 2 mm of the longitudinal centerline of the 1/4-20x1/2 flat head cap screw through the center of the acetabulum load cell (SA572-S68), as shown in Figure V8-A in appendix A to this subpart;
 
 (10) The dummy's pelvis is impacted at the acetabulum at 6.7 ±0.1 m/s.
 

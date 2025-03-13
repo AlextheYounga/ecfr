@@ -1,12 +1,10 @@
 ##### § 253.8 Administrative disqualification procedures for intentional program violation. #####
 
-Link to an amendment published at 89 FR 87257, Oct. 31, 2024.
-
 (a) *What is an intentional program violation?* An intentional program violation is considered to have occurred when a household member knowingly, willingly, and with deceitful intent:
 
 (1) Makes a false or misleading statement, or misrepresents, conceals, or withholds facts in order to obtain Food Distribution Program benefits which the household is not entitled to receive; or
 
-(2) Commits any act that violates a Federal statute or regulation relating to the acquisition or use of Food Distribution Program commodities.
+(2) Commits any act that violates a Federal statute or regulation relating to the acquisition or use of Food Distribution Program USDA Foods.
 
 (b) *What are the disqualification penalties for an intentional program violation?* Household members determined by the State agency to have committed an intentional program violation will be ineligible to participate in the program:
 
@@ -36,7 +34,7 @@ Link to an amendment published at 89 FR 87257, Oct. 31, 2024.
 
 (8) The State agency must establish claims, and pursue collection as appropriate, on all substantiated cases of intentional program violation in accordance with § 253.9.
 
-(f) *What are the requirements for the notice of disqualification?* (1) Within 10 days of substantiating the intentional program violation, the State agency must issue to the household member a notice of disqualification. The notice must allow an advance notice period of at least 10 days. The disqualification must begin with the next scheduled distribution of commodities that follows the expiration of the advance notice period, unless the household member requests a fair hearing. A notice must still be issued in instances where the household member is not currently eligible or participating in the program.
+(f) *What are the requirements for the notice of disqualification?* (1) Within 10 days of substantiating the intentional program violation, the State agency must issue to the household member a notice of disqualification. The notice must allow an advance notice period of at least 10 days. The disqualification must begin with the next scheduled distribution of USDA Foods that follows the expiration of the advance notice period, unless the household member requests a fair hearing. A notice must still be issued in instances where the household member is not currently eligible or participating in the program.
 
 (2) The notice must conform to the requirements of § 253.7(b)(3)(iii)(C) for notices of adverse action.
 
@@ -48,9 +46,9 @@ Link to an amendment published at 89 FR 87257, Oct. 31, 2024.
 
 (ii) A statement that the hearing does not prevent the Tribal, Federal, State, or local government from prosecuting the household member in a civil or criminal court action, or from collecting any overissuance(s).
 
-(h) *What are the procedures for applying disqualification penalties?* (1) If the household member did not request a fair hearing, the disqualification must begin with the next scheduled distribution of commodities that follows the expiration of the advance notice period of the notice of adverse action. If the commodities are normally made available to the household within a specific period of time (for example, from the first day of the month through the tenth day of the month), the effective date of the disqualification will be the first day of that period. The State agency must apply the disqualification period (that is, 12 months, 24 months, or permanent) specified in the notice of disqualification. The State agency must advise any remaining household members if the household's benefits will change or if the household is no longer eligible as a result of the disqualification.
+(h) *What are the procedures for applying disqualification penalties?* (1) If the household member did not request a fair hearing, the disqualification must begin with the next scheduled distribution of USDA Foods that follows the expiration of the advance notice period of the notice of adverse action. If the USDA Foods are normally made available to the household within a specific period of time (for example, from the first day of the month through the tenth day of the month), the effective date of the disqualification will be the first day of that period. The State agency must apply the disqualification period (that is, 12 months, 24 months, or permanent) specified in the notice of disqualification. The State agency must advise any remaining household members if the household's benefits will change or if the household is no longer eligible as a result of the disqualification.
 
-(2) If the household member requested a fair hearing and the disqualification was upheld by the fair hearing official, the disqualification must begin with the next scheduled distribution of commodities that follows the date the hearing decision is issued. If the commodities are normally made available to the household within a specific period of time (for example, from the first day of the month through the tenth day of the month), the effective date of the disqualification will be the first day of that period. The State agency must apply the disqualification period (that is, 12 months, 24 months, or permanent) specified in the notice of disqualification. No further administrative appeal procedure exists after an adverse fair hearing decision. The decision by a fair hearing official is binding on the State agency. The household member, however, may seek relief in a court having appropriate jurisdiction. As provided under § 253.7(h)(11)(iii)(B), the State agency must advise any remaining household members if the household's benefits will change, or if the household is no longer eligible as a result of the disqualification.
+(2) If the household member requested a fair hearing and the disqualification was upheld by the fair hearing official, the disqualification must begin with the next scheduled distribution of USDA Foods that follows the date the hearing decision is issued. If the USDA Foods are normally made available to the household within a specific period of time (for example, from the first day of the month through the tenth day of the month), the effective date of the disqualification will be the first day of that period. The State agency must apply the disqualification period (that is, 12 months, 24 months, or permanent) specified in the notice of disqualification. No further administrative appeal procedure exists after an adverse fair hearing decision. The decision by a fair hearing official is binding on the State agency. The household member, however, may seek relief in a court having appropriate jurisdiction. As provided under § 253.7(h)(11)(iii)(B), the State agency must advise any remaining household members if the household's benefits will change, or if the household is no longer eligible as a result of the disqualification.
 
 (3) Once a disqualification has begun, it must continue uninterrupted for the duration of the penalty period (that is, 12 months; 24 months; or permanent). Changes in the eligibility of the disqualified household member's household will not interrupt or shorten the disqualification period.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 87257, Oct. 31, 2024.
 
 (5) If the case was referred for Tribal, Federal, State, or local prosecution and the court of appropriate jurisdiction imposed a disqualification penalty, the State agency must follow the court order.
 
-[64 FR 73384, Dec. 30, 1999]
+[64 FR 73384, Dec. 30, 1999, as amended at 89 FR 87257, Oct. 31, 2024]

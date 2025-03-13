@@ -57,9 +57,9 @@ Example.(a) Corporation T and its three subsidiaries, U, V, and W, are a group o
 
 (c) *Parent-subsidiary group under common control*—(1) *In general.* The term “parent-subsidiary group under common control” means one or more chains of organizations conducting trades or businesses that are connected through ownership of a controlling interest with a common parent organization if—
 
-(i) A controlling interest in each of the organizations, except the common parent organization, is owned (directly and with the application of § 1.414(c)-4(b)(1), relating to options) by one or more of the other organizations; and
+(i) A controlling interest in each of the organizations, except the common parent organization, is owned (directly and with the application of § 1.414(c)-4(b)(1), (2), and (3)) by one or more of the other organizations; and
 
-(ii) The common parent organization owns (directly and with the application of § 1.414(c)-4(b)(1), relating to options) a controlling interest in at least one of the other organizations, excluding, in computing the controlling interest, any direct ownership interest by the other organizations.
+(ii) The common parent organization owns (directly and with the application of § 1.414(c)-4(b)(1), (2), and (3)) a controlling interest in at least one of the other organizations, excluding, in computing the controlling interest, any direct ownership interest by the other organizations.
 
 (2) *Controlling interest defined.* For purposes of this paragraph, the term “controlling interest” means:
 
@@ -117,4 +117,8 @@ The five or fewer persons whose ownership is considered for purposes of the cont
 
 (B) Is not such a member for such taxable year because of the amendments made by such Treasury decision,
 
-such organization (whether or not a corporation) nevertheless will be treated as a member of such old group if all the organizations (whether or not corporations) that are members of the old group meet all the requirements of § 1.1563-1(d)(3) with respect to such taxable year.(Secs. 44B, 381, and 7805 of the Internal Revenue Code of 1954 (92 Stat. 2834, 26 U.S.C. 44B); 91 Stat. 148, 26 U.S.C. 381(c)(26); 68A Stat. 917, 26 U.S.C. 7805)[T.D. 7553, 43 FR 31322, July 21, 1978, as amended by T.D. 7921, 48 FR 52904, Nov. 23, 1983; T.D. 7955, 49 FR 19975, May 11, 1984; T.D. 8179, 53 FR 6605, Mar. 2, 1988; 53 FR 8302, Mar. 14, 1988; 53 FR 16408, May 9, 1988; T.D. 8540, 59 FR 30102, June 10, 1994; T.D. 8179, 84 FR 33002, July 11, 2019]
+such organization (whether or not a corporation) nevertheless will be treated as a member of such old group if all the organizations (whether or not corporations) that are members of the old group meet all the requirements of § 1.1563-1(d)(3) with respect to such taxable year.
+
+(i) *Applicability date.* This section applies to taxable years beginning on or after January 1, 2025. *See* 26 CFR 1.52-1, as revised April 1, 2024, for taxable years beginning before January 1, 2025.
+
+(Secs. 44B, 381, and 7805 of the Internal Revenue Code of 1954 (92 Stat. 2834, 26 U.S.C. 44B); 91 Stat. 148, 26 U.S.C. 381(c)(26); 68A Stat. 917, 26 U.S.C. 7805)[T.D. 7553, 43 FR 31322, July 21, 1978, as amended by T.D. 7921, 48 FR 52904, Nov. 23, 1983; T.D. 7955, 49 FR 19975, May 11, 1984; T.D. 8179, 53 FR 6605, Mar. 2, 1988; 53 FR 8302, Mar. 14, 1988; 53 FR 16408, May 9, 1988; T.D. 8540, 59 FR 30102, June 10, 1994; T.D. 8179, 84 FR 33002, July 11, 2019; T.D. 10018, 89 FR 106851, Dec. 30, 2024]

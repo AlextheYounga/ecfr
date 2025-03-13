@@ -6,7 +6,7 @@
 
 *Outer packagings:*
 
-Steel drum: 1A2Plastic drum: 1H2Plywood drum: 1DFiber drum: 1GSteel box: 4ANatural wood box: 4C1 or 4C2Plywood box: 4DReconstituted wood box: 4FFiberboard box: 4GExpanded plastic box: 4H1Solid plastic box: 4H2
+Steel drum: 1A2 Plastic drum: 1H2 Plywood drum: 1D Fiber drum: 1G Steel box: 4A Natural wood box: 4C1 or 4C2 Plywood box: 4D Reconstituted wood box: 4F Fiberboard box: 4G Expanded plastic box: 4H1 Solid plastic box: 4H2
 
 *Inner packagings:*
 

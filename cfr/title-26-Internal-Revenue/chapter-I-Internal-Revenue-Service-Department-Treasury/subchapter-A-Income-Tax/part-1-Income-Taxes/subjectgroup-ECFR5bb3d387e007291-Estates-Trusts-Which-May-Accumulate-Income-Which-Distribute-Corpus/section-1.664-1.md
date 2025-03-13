@@ -290,4 +290,4 @@ See paragraph (d)(4) of this section for rules relating to the year of inclusion
 
 (iii) The trust is not amended before December 31, 1975, and the grantor is on such date and at all times thereafter under a mental disability to change the terms of the trust.
 
-[T.D. 7202, 37 FR 16913, Aug. 23, 1972]Editorial Note:For Federal Register citations affecting § 1.664-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 7202, 37 FR 16913, Aug. 23, 1972] Editorial Note:For Federal Register citations affecting § 1.664-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

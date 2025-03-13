@@ -8,4 +8,4 @@
 
 (c) Enforcement period. This safety zone will be enforced from 9:30 p.m. to 10:00 p.m. on May 25, June 15, July 5, July 6, July 13, July 20, July 27, August 3, August 10, August 17, August 24, August 31, and December 31, 2024.
 
-[Doc. No. USCG-2024-0321, 89 FR 43319, May 17, 2024]
+[Doc. No. USCG-2024-0321, 89 FR 43319, May 17, 2024]Effective Date Note:By USCG-2024-0321, 89 FR 43319, May 17, 2024, sect; 165.T08-0321 was added, effective May 25, 2024, through Dec. 31, 2024.

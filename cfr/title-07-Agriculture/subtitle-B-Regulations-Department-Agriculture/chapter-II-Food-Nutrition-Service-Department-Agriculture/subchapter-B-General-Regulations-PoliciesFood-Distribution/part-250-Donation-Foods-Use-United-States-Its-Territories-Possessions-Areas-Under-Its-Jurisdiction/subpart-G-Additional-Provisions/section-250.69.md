@@ -1,47 +1,65 @@
 ##### § 250.69 Disasters. #####
 
-Link to an amendment published at 89 FR 87247, Oct. 31, 2024.
+(a) *Use of USDA Foods to provide congregate meals.* The distributing agency may provide USDA Foods from current inventories, either at the distributing or recipient agency level, to a disaster organization (as defined in § 250.2), for use in providing congregate meals to persons in need of food assistance as a result of a Presidentially declared disaster or emergency (hereinafter referred to collectively as a “disaster”). FNS approval is not required for such use.
 
-(a) *Use of donated foods to provide congregate meals.* The distributing agency may provide donated foods from current inventories, either at the distributing or recipient agency level, to a disaster organization (as defined in § 250.2), for use in providing congregate meals to persons in need of food assistance as a result of a Presidentially declared disaster or emergency (hereinafter referred to collectively as a “disaster”). FNS approval is not required for such use. However, the distributing agency must notify FNS that such assistance is to be provided, and the period of time that it is expected to be needed. The distributing agency may extend such period of assistance as needs dictate, but must notify FNS of such extension.
+(1) *Notification of congregate meals activity to FNS.* Prior to using USDA Foods for congregate meals under this section, the distributing agency must notify FNS that such assistance is to be provided, and the period of time that it is expected to be needed. The distributing agency may extend such period of assistance as needs dictate but must notify FNS of such extension.
 
-(b) *Use of donated foods for distribution to households.* Subject to FNS approval, the distributing agency may provide donated foods from current inventories, either at the distributing or recipient agency level, to a disaster organization, for distribution to households in need of food assistance because of a disaster. Such distribution may continue for the period that FNS has determined to be necessary to meet the needs of such households. However, households receiving disaster SNAP (D-SNAP) benefits are not eligible to receive such donated food assistance.
-
-(c) *Approval of disaster organization.* Before distribution of donated foods to a disaster organization, the distributing agency must review and approve such organization's application in accordance with applicable FNS guidance, which must be submitted to the distributing agency either electronically or in written form. The distributing agency must also submit such application to FNS for review and approval before permitting distribution of donated foods to households.
-
-(1) The disaster organization's application must, to the extent possible, include the following information:
+(2) *Selection of disaster organizations for disaster congregate meal service by the distributing agency.* Distributing agencies are responsible for choosing disaster organizations to implement congregate meal service, subject to FNS approval as described in paragraph (a)(1) of this section. Before distribution of USDA Foods to a disaster organization for congregate meal service, the distributing agency must review and approve such organization's application in accordance with applicable FNS guidance. A disaster organization's application must be submitted to the distributing agency in written form. The disaster organization's application must, to the extent possible, include the following information at a minimum:
 
 (i) A description of the disaster situation;
 
 (ii) The number of people requiring assistance;
 
-(iii) The period of time for which donated foods are requested;
+(iii) The period of time for which USDA Foods are requested;
 
-(iv) The quantity and types of food needed; and
+(iv) The quantity and types of USDA Foods needed; and
 
-(v) The number and location of sites where donated foods are to be used, to the extent that such information is known.
+(v) The name, number, and location of sites where USDA Foods are to be used, to the extent that such information is known.
 
-(2) In addition to the information required in paragraph (c)(1) of this section, disaster organizations applying to distribute donated foods to households must include the following information in their application:
+(3) *Eligibility of emergency relief workers for congregate meals.* The disaster organization may use USDA Foods to provide meals to any emergency relief workers at the congregate feeding site who are directly engaged in providing relief assistance.
 
-(i) An explanation as to why such distribution is needed;
+(b) *Use of USDA Foods for distribution to households.* Subject to FNS approval, the distributing agency may provide USDA Foods from current inventories in accordance with paragraph (c) of this section, either at the distributing or recipient agency level, to a disaster organization, for distribution to households in need of food assistance because of a disaster. Once approved, such distribution may continue for the period that FNS has determined to be necessary to meet the needs of such households. Distributing agencies may request an extension of the distribution period, subject to FNS approval.
 
-(ii) The method(s) of distribution available; and
+(1) *FNS approval of disaster household distribution.* Before permitting the distribution of USDA Foods to a disaster organization for household distribution, the distributing agency must submit an application to FNS for review and approval. The distributing agency's application must, to the extent possible, include the following information:
 
-(iii) A statement assuring that D-SNAP benefits and donated food assistance will not be provided simultaneously to individual households, and a description of the system that will be implemented to prevent such dual participation.
+(i) A description of the disaster situation;
 
-(d) *Information from households.* If the issuance of D-SNAP benefits has been approved, the distributing agency must ensure that the disaster organization obtains the following information from households receiving donated foods, and reports such information to the distributing agency:
+(ii) The number of people requiring assistance;
 
-(1) The name and address of the household members applying for assistance;
+(iii) The period of time for which USDA Foods are requested;
 
-(2) The number of household members; and
+(iv) The quantity and types of USDA Foods needed;
 
-(3) A statement from the head of the household certifying that the household is in need of food assistance, is not receiving D-SNAP benefits, and understands that the sale or exchange of donated foods is prohibited.
+(v) The name, number, and location of sites where USDA Foods are to be used, to the extent that such information is known;
 
-(e) *Eligibility of emergency relief workers for congregate meals.* The disaster organization may use donated foods to provide meals to any emergency relief workers at the congregate feeding site who are directly engaged in providing relief assistance.
+(vi) An explanation as to why household distribution is needed; and
 
-(f) *Reporting and recordkeeping requirements.* The distributing agency must report to FNS the number and location of sites where donated foods are used in congregate meals or household distribution as these sites are established. The distributing agency must also report the types and amounts of donated foods from distributing or recipient agency storage facilities used in disaster assistance, utilizing form FNS-292A, *Report of Commodity Distribution for Disaster Relief,* which must be submitted electronically, within 45 days from the termination of disaster assistance. This form must also be used to request replacement of donated foods, in accordance with paragraph (g) of this section. The distributing agency must maintain records of reports and other information relating to disasters.
+(vii) The method(s) of distribution available.
 
-(g) *Replacement of donated foods.* In order to ensure replacement of donated foods used in disasters, the distributing agency must submit to FNS a request for such replacement, utilizing form FNS-292A, *Report of Commodity Distribution for Disaster Relief,* within 45 days following the termination of disaster assistance. The distributing agency may request replacement of foods used from inventories in which donated foods are commingled with other foods (*i.e.,* at storage facilities of recipient agencies utilizing single inventory management), if the recipient agency received donated foods of the same type as the foods used during the year preceding the onset of the disaster assistance. FNS will replace such foods in the amounts used, or in the amount of like donated foods received during the preceding year, whichever is less.
+(2) *Selection of a disaster organization for disaster household distribution of USDA Foods.* Distributing agencies are responsible for choosing disaster organizations to implement a disaster household distribution, subject to FNS approval as described in paragraph (b)(1) of this section. Before distribution of USDA Foods to a disaster organization, the distributing agency must review and approve such organization's application in accordance with applicable FNS guidance, which must be submitted to the distributing agency either electronically or in written form. The distributing agency must also submit such application to FNS for review and approval before permitting distribution of USDA Foods to households.
 
-(h) *Reimbursement of transportation costs.* In order to receive reimbursement for any costs incurred in transporting donated foods within the State, or from one State to another, for use in disasters, the distributing agency must submit a public voucher to FNS with documentation of such costs. FNS will review the request and reimburse the distributing agency.
+(c) *Limitation on impacts to other programs.* Distributing agencies must ensure that the operation of disaster congregate meal service and/or disaster household distribution is not administered in lieu of regular program operations nor does it negatively impact the distribution of USDA Foods through other programs administered by the distributing agency.
 
-[81 FR 23113, Apr. 19, 2016]
+(d) *Reporting and recordkeeping requirements.* The distributing agency must report the following to FNS:
+
+(1) The number, names, and locations of sites where USDA Foods are used in congregate meals or household distribution as these sites are established.
+
+(2) The types and amounts of USDA Foods from distributing or recipient agency storage facilities used in disaster assistance, utilizing form FNS-292A, *Report of Commodity Distribution for Disaster Relief,* which must be submitted electronically, within 45 days from the termination of disaster assistance. This form must also be used to request replacement of USDA Foods, in accordance with paragraph (e) of this section. The distributing agency must maintain records of reports and other information relating to disasters.
+
+(3) If the distributing agency is operating disaster household distribution per 250.69(b), the distributing agency must submit a biweekly report to FNS, utilizing the format requested by FNS, for the approved disaster period. This report must be submitted electronically biweekly as long as the disaster household distribution continues operation. Biweekly reports must include:
+
+(i) The weekly distribution start and end dates;
+
+(ii) The total number of individual household members receiving assistance at all locations;
+
+(iii) Material identification codes for USDA Foods distributed;
+
+(iv) the USDA Foods description of the foods distributed; and
+
+(v) the total units of each food distributed.
+
+(e) *Replacement of USDA Foods.* In order to ensure replacement of USDA Foods used in disasters, the distributing agency must submit to FNS a request for such replacement, utilizing form FNS-292A, *Report of Commodity Distribution for Disaster Relief,* within 45 days following the termination of disaster assistance. The distributing agency may request replacement of USDA Foods used from inventories in which USDA Foods are commingled with other foods (*i.e.,* at storage facilities of recipient agencies utilizing single inventory management), if the recipient agency received USDA Foods of the same type as the foods used during the year preceding the onset of the disaster assistance. FNS will replace such USDA Foods in the amounts used, or in the amount of like USDA Foods received during the preceding year, whichever is less.
+
+(f) *Reimbursement of transportation costs.* In order to receive reimbursement for any costs incurred in transporting USDA Foods within the State, or from one State to another, for use in disasters, the distributing agency must submit a public voucher to FNS with documentation of such costs. FNS will review the request and reimburse the distributing agency.
+
+[89 FR 87247, Oct. 31, 2024]

@@ -1,5 +1,7 @@
 ##### § 73.60 Additional requirements for physical protection at nonpower reactors. #####
 
+Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
+
 Each nonpower reactor licensee who, pursuant to the requirements of part 70 of this chapter, possesses at any site or contiguous sites subject to control by the licensee uranium-235 (contained in uranium enriched to 20 percent or more in the U-235 isotope), uranium-233, or plutonium, alone or in any combination in a quantity of 5000 grams or more computed by the formula, grams = (grams contained U-235) + 2.5 (grams U-233 + grams plutonium), shall protect the special nuclear material from theft or diversion pursuant to the requirements of paragraphs 73.67 (a), (b), (c), and (d), in addition to this section, except that a licensee is exempt from the requirements of paragraphs (a), (b), (c), (d), and (e) of this section to the extent that it possesses or uses special nuclear material that is not readily separable from other radioactive material and that has a total external radiation level in excess of 1 gray (100 rad) per hour at a distance of 1 meter (3.3 feet) from any accessible surface without intervening shielding.
 
 (a) *Access requirements.* (1) Special nuclear material shall be stored or processed only in a material access area. No activities other than those which require access to special nuclear material or equipment employed in the process, use, or storage of special nuclear material, shall be permitted within a material access area.

@@ -84,4 +84,4 @@
 
 (e) *Effective and enforcement periods.* This section will be effective from June 1, 2024, through 11:59 p.m. on May 31, 2027. But it will only be enforced during active construction or other instances which may cause a hazard to navigation deemed necessary by the First Coast Guard District Commander. The First Coast Guard District Commander will make notification of the exact dates and times in advance of each enforcement period for the locations above in paragraph (a) of this section to the local maritime community through the Local Notice to Mariners and will issue a Broadcast Notice to Mariners via marine channel 16 (VHF-FM) as soon as practicable in response to an emergency. If the project is completed before May 31, 2027, enforcement of the safety zones will be suspended, and notice given via Local Notice to Mariners. The First Coast Guard District Local Notice to Mariners can be found at: *https://www.navcen.uscg.gov.*
 
-[USCG-2024-0134, 89 FR 42801, May 16, 2024]
+[USCG-2024-0134, 89 FR 42801, May 16, 2024]Effective Date Note:By USCG-2024-0134, 89 FR 42801, May 16, 2024, § 147.T01-0134 was added, effective June 1, 2024, through May 31, 2027.

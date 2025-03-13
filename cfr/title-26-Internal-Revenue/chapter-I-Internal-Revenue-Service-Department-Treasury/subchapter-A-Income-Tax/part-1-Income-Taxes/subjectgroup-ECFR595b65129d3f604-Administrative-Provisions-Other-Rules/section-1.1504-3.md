@@ -22,7 +22,7 @@
 
 (1) *QOF stock as not stock for purposes of affiliation to join in the filing of a consolidated return*—(i) *Facts.* P wholly owns S, which wholly owns corporation Q1. P, S, and Q1 are members of the P group. In 2021, S sells an asset to an unrelated party and realizes $500x of eligible gain. S contributes $500x to Q1 and properly elects to defer the eligible gain under section 1400Z-2(a) and § 1.1400Z2(a)-1. At such time, Q1 qualifies and elects to be treated as a QOF, but the P group does not elect to consolidate Q1 under paragraph (b)(2) of this section.
 
-(ii) *Analysis.* Under paragraph (b)(1) of this section, stock of a QOF C corporation (qualifying or otherwise) is not treated as stock for purposes of determining whether the QOF C corporation may join in the filing of a consolidated return. Thus, because no election has been made under paragraph (b)(2) of this section, once Q1 becomes a QOF, Q1 ceases to be affiliated with the P group members for purposes of section 1501, and it deconsolidates from the P group. See §§ 1.1502-1 through 1.1502-100 generally for the consequences of deconsolidation.
+(ii) *Analysis.* Under paragraph (b)(1) of this section, stock of a QOF C corporation (qualifying or otherwise) is not treated as stock for purposes of determining whether the QOF C corporation may join in the filing of a consolidated return. Thus, because no election has been made under paragraph (b)(2) of this section, once Q1 becomes a QOF, Q1 ceases to be affiliated with the P group members for purposes of section 1501, and it deconsolidates from the P group. *See* the consolidated return regulations generally for the consequences of deconsolidation.
 
 (2) [Reserved]
 
@@ -34,4 +34,4 @@
 
 (ii) To rely on the rules in proposed § 1.1400Z2(g)-1 contained in the notice of proposed rulemaking (REG-120186-18) published on May 1, 2019, but only if applied in a consistent manner for all such taxable years.
 
-[T.D. 9889, 85 FR 2000, Jan. 13, 2020; 85 FR 19086, Apr. 6, 2020]
+[T.D. 9889, 85 FR 2000, Jan. 13, 2020; 85 FR 19086, Apr. 6, 2020; T.D. 10018, 89 FR 106878, Dec. 30, 2024]

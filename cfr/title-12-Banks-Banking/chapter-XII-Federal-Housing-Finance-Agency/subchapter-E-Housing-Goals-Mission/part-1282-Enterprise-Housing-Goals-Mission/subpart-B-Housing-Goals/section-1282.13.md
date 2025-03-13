@@ -1,5 +1,7 @@
 ##### § 1282.13 Multifamily special affordable housing goal and subgoals. #####
 
+Link to an amendment published at 89 FR 106275, Dec. 30, 2024.
+
 (a) *Multifamily housing goal and subgoals.* An Enterprise shall be in compliance with a multifamily housing goal or subgoal if its performance under the housing goal or subgoal meets or exceeds the benchmark level for the goal or subgoal, respectively.
 
 (b) *Multifamily low-income housing goal.* The percentage share of dwelling units in multifamily residential housing financed by mortgages purchased by each Enterprise that consists of dwelling units affordable to low-income families shall meet or exceed 61 percent of the total number of dwelling units in multifamily residential housing financed by mortgages purchased by the Enterprise in each year for 2023 and 2024.

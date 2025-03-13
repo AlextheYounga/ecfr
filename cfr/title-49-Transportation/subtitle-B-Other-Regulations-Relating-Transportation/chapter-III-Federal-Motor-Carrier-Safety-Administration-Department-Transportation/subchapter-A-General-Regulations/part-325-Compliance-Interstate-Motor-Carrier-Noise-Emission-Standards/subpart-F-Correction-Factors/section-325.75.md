@@ -1,4 +1,4 @@
-##### § 325.75 Ground surface correction factors.1 #####
+##### § 325.75 Ground surface correction factors. 1 #####
 
 1 Table 1, in § 325.7 is a tabulation of the maximum allowable sound level readings taking into account both the distance correction factors contained in § 325.73 and the ground surface correction factors contained in § 325.75.
 

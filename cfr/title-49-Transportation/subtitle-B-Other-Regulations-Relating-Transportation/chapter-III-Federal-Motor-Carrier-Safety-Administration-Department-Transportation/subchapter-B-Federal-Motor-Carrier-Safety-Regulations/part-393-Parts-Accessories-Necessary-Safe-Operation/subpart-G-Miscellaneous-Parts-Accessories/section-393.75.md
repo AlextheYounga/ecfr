@@ -10,9 +10,9 @@
 
 (4) Has a cut to the extent that the ply or belt material is exposed.
 
-(b) Any tire on the front wheels of a bus, truck, or truck tractor shall have a tread groove pattern depth of at least4/32 of an inch when measured at any point on a major tread groove. The measurements shall not be made where tie bars, humps, or fillets are located.
+(b) Any tire on the front wheels of a bus, truck, or truck tractor shall have a tread groove pattern depth of at least 4/32 of an inch when measured at any point on a major tread groove. The measurements shall not be made where tie bars, humps, or fillets are located.
 
-(c) Except as provided in paragraph (b) of this section, tires shall have a tread groove pattern depth of at least2/32 of an inch when measured in a major tread groove. The measurement shall not be made where tie bars, humps or fillets are located.
+(c) Except as provided in paragraph (b) of this section, tires shall have a tread groove pattern depth of at least 2/32 of an inch when measured in a major tread groove. The measurement shall not be made where tie bars, humps or fillets are located.
 
 (d) No bus shall be operated with regrooved, recapped or retreaded tires on the front wheels.
 

@@ -1,5 +1,7 @@
 ##### § 140.11 Amounts of financial protection for certain reactors. #####
 
+Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
+
 (a) Each licensee is required to have and maintain financial protection:
 
 (1) In the amount of $1,000,000 for each nuclear reactor he is authorized to operate at a thermal power level not exceeding ten kilowatts;

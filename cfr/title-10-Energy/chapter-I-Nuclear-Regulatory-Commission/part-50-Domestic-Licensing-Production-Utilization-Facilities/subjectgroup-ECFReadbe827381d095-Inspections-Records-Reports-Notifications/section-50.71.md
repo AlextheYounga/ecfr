@@ -1,5 +1,7 @@
 ##### § 50.71 Maintenance of records, making of reports. #####
 
+Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
+
 (a) Each licensee, including each holder of a construction permit or early site permit, shall maintain all records and make all reports, in connection with the activity, as may be required by the conditions of the license or permit or by the regulations, and orders of the Commission in effectuating the purposes of the Act, including Section 105 of the Act, and the Energy Reorganization Act of 1974, as amended. Reports must be submitted in accordance with § 50.4 or 10 CFR 52.3, as applicable.
 
 (b) With respect to any production or utilization facility of a type described in § 50.21(b) or 50.22, or a testing facility, each licensee and each holder of a construction permit shall submit its annual financial report, including the certified financial statements, to the Commission, as specified in § 50.4, upon issuance of the report. However, licensees and holders of a construction permit who submit a Form 10-Q with the Securities and Exchange Commission or a Form 1 with the Federal Energy Regulatory Commission, need not submit the annual financial report or the certified financial statement under this paragraph.

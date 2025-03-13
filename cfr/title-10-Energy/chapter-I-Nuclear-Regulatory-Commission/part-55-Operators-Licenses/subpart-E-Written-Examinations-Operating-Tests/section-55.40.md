@@ -1,5 +1,7 @@
 ##### § 55.40 Implementation. #####
 
+Link to an amendment published at 89 FR 106252, Dec. 30, 2024.
+
 (a) The Commission shall use the criteria in NUREG-1021, “Operator Licensing Examination Standards for Power Reactors,”1 in effect six months before the examination date to prepare the written examinations required by §§ 55.41 and 55.43 and the operating tests required by § 55.45. The Commission shall also use the criteria in NUREG-1021 to evaluate the written examinations and operating tests prepared by power reactor facility licensees pursuant to paragraph (b) of this section.
 
 1 Copies of NUREGs may be purchased from the Superintendent of Documents, U.S. Government Publishing Office, P.O. Box 38082, Washington, DC 20402-9328. Copies are also available from the National Technical Information Service, 5301 Shawnee Road, Alexandria, VA 22312. A copy is available for inspection and/or copying in the NRC Public Document Room, One White Flint North, 11555 Rockville Pike (O-1 F21), Rockville, MD.

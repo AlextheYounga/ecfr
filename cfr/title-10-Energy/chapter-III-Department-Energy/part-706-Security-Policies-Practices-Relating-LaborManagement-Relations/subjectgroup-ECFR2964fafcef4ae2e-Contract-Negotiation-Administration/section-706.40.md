@@ -1,0 +1,3 @@
+##### § 706.40 Final responsibility of DOE in security matters. #####
+
+On all matters of security at all Government-owned, privately operated DOE installations, DOE retains absolute and final authority, and neither the security rules nor their administration are matters for collective bargaining between management and labor, insofar as DOE security regulations affect the collective bargaining process, the security policies and regulations will be made known to both parties. To the fullest extent feasible DOE will consult with representatives of management and labor in formulating security rules and regulations that affect the collective bargaining process.

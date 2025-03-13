@@ -1,0 +1,5 @@
+##### § 600.104 Subawards. #####
+
+Unless sections of this subpart specifically exclude subrecipients from coverage, all DOE recipients, including State, local and Indian tribal governments, shall apply the provisions of this subpart to subrecipients performing work under awards if such subrecipients are institutions of higher education, hospitals, or other non-profit organizations organizations. Thus, this subpart is applicable to those types of organizations regardless of the type of recipient receiving the primary award. State and local government subrecipients are subject to the provisions of 10 CFR part 600, subpart C, “Uniform Administrative Requirements for Grants and Cooperative Agreements to State and Local Governments.” For-profit subrecipients are subject to the provisions of 10 CFR part 600, subpart D, Administrative Requirements for Grants and Cooperative Agreements with For-Profit Organizations.
+
+[59 FR 53266, Oct. 21, 1994, as amended at 68 FR 50650, Aug. 21, 2003]

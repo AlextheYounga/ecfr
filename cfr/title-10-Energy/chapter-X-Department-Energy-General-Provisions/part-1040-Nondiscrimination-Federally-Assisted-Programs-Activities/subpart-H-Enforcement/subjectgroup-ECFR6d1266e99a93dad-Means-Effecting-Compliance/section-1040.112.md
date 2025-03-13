@@ -1,0 +1,3 @@
+##### § 1040.112 Noncompliance with assurances. #####
+
+If an applicant fails or refuses to furnish an assurance required under § 1040.4 of subpart A of this part, or otherwise fails or refuses to comply with a requirement imposed by this part, such as § 1040.102(c), subpart G of this part, action to refuse Federal financial assistance shall be taken in accordance with procedures of § 1040.114 of this subpart.

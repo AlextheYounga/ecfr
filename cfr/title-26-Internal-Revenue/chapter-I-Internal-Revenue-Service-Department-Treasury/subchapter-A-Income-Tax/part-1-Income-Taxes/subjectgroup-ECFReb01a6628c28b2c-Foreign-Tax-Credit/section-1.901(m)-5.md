@@ -70,19 +70,7 @@
 
 (1) *Example 1: CAA followed by disposition: Fully taxable for both U.S. income tax and foreign income tax purposes*—(i) *Facts.* (A) On January 1, Year 1, USP acquires all of the stock of CFC1 in a qualified stock purchase (as defined in section 338(d)(3)) to which section 338(a) applies (Section 338 Acquisition). At the time of the Section 338 Acquisition, CFC1 owns a single asset (Asset A) that is located in Country F. Asset A gives rise to income that is taken into account for Country F tax purposes. Asset A is tangible personal property that, under the applicable cost recovery method in the hands of CFC1, is depreciable over 5 years. There are no cost recovery deductions available for Country F tax purposes with respect to Asset A. Immediately before the Section 338 Acquisition, Asset A has a U.S. basis of 10u and a foreign basis of 40u. Immediately after the Section 338 Acquisition, Asset A has a U.S. basis of 100u and foreign basis of 40u.
 
-(B) On July 1, Year 2, Asset A is transferred to an unrelated third
-party in exchange for 120u in a transaction in which all realized gain
-is recognized for both U.S. income tax and Country F tax purposes
-(subsequent transaction). For U.S. income tax purposes, CFC1
-recognizes U.S. disposition gain of 50u (amount realized of 120u, less
-U.S. basis of 70u (100u cost basis, less 30u of accumulated
-depreciation)) with respect to Asset A. The 30u of accumulated
-depreciation is the sum of 20u of depreciation in Year 1 (100u cost
-basis/5 years) and 10u of depreciation in Year 2 ((100u cost basis/5
-years) × 6/12). For Country F tax purposes, CFC1 recognizes foreign
-disposition gain of 80u (amount realized of 120u, less foreign basis
-of 40u) with respect to Asset A. Immediately after the subsequent
-transaction, Asset A has a U.S. basis and a foreign basis of 120u.
+(B) On July 1, Year 2, Asset A is transferred to an unrelated third party in exchange for 120u in a transaction in which all realized gain is recognized for both U.S. income tax and Country F tax purposes (subsequent transaction). For U.S. income tax purposes, CFC1 recognizes U.S. disposition gain of 50u (amount realized of 120u, less U.S. basis of 70u (100u cost basis, less 30u of accumulated depreciation)) with respect to Asset A. The 30u of accumulated depreciation is the sum of 20u of depreciation in Year 1 (100u cost basis/5 years) and 10u of depreciation in Year 2 ((100u cost basis/5 years) × 6/12). For Country F tax purposes, CFC1 recognizes foreign disposition gain of 80u (amount realized of 120u, less foreign basis of 40u) with respect to Asset A. Immediately after the subsequent transaction, Asset A has a U.S. basis and a foreign basis of 120u.
 
 (ii) *Result.* (A) Under § 1.901(m)-2(b)(1), USP's acquisition of the stock of CFC1 in the Section 338 Acquisition is a section 338 CAA. Under § 1.901(m)-2(c)(i), Asset A is an RFA with respect to Country F tax because it is relevant in determining the foreign income of CFC1 for Country F tax purposes. Under § 1.901(m)-4(b), the basis difference with respect to Asset A is 90u (100u−10u). Under § 1.901(m)-1(a)(37), CFC1 is the RFA owner (U.S.) with respect to Asset A. Under § 1.901(m)-1(a)(28), CFC1 is a foreign payor for Country F tax purposes. Under § 1.901(m)-1(a)(41), CFC1 is the section 901(m) payor with respect to a foreign income tax amount for which CFC1 is the foreign payor (see § 1.901-2(f)(1)).
 

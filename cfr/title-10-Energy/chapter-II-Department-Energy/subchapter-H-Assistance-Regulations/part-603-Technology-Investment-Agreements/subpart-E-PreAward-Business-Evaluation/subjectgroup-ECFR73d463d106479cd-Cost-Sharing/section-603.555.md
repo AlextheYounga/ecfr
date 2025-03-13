@@ -1,0 +1,3 @@
+##### § 603.555 Value of other contributions. #####
+
+For types of participant contributions other than those addressed in §§ 603.535 through 603.550, the general rule is that the contracting officer is to value each contribution consistently with the cost principles or standards in § 603.625 and § 603.635 that apply to the participant making the contribution. When valuing services and property donated by parties other than the participants, the contracting officer may use as guidance the provisions of 10 CFR 600.313(b)(2) through (b)(5).

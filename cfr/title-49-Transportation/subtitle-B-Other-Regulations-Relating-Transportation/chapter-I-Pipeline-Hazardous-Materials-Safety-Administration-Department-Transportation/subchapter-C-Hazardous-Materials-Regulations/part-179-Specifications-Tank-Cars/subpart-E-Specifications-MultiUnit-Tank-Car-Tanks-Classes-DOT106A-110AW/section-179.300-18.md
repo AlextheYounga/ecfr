@@ -1,6 +1,6 @@
 ##### § 179.300-18 Stamping. #####
 
-(a) To certify that the tank complies with all specification requirements, each tank shall be plainly and permanently stamped in letters and figures3/8 inch high into the metal of valve end chime as follows:
+(a) To certify that the tank complies with all specification requirements, each tank shall be plainly and permanently stamped in letters and figures 3/8 inch high into the metal of valve end chime as follows:
 
 (1) DOT Specification number.
 

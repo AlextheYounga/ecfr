@@ -1,5 +1,7 @@
 ##### § 1282.11 General. #####
 
+Link to an amendment published at 89 FR 106275, Dec. 30, 2024.
+
 (a) *General.* Pursuant to the requirements of the Safety and Soundness Act (12 U.S.C. 4561-4564, 4566), this subpart establishes:
 
 (1) Three single-family owner-occupied purchase money mortgage housing goals, a single-family owner-occupied purchase money mortgage housing subgoal, a single-family refinancing mortgage housing goal, a multifamily special affordable housing goal, and two multifamily special affordable housing subgoals;

@@ -1,7 +1,5 @@
 ##### § 247.1 Definitions. #####
 
-Link to an amendment published at 89 FR 87244, Oct. 31, 2024.
-
 Following is a list of definitions that apply to the Commodity Supplemental Food Program (CSFP).
 
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).
@@ -16,8 +14,6 @@ Following is a list of definitions that apply to the Commodity Supplemental Food
 
 *Certification period* means the period during which a CSFP participant may continue to receive benefits under CSFP without a formal review of eligibility.
 
-*Commodities* means nutritious foods purchased by USDA to supplement the diets of CSFP participants.
-
 *CSFP* means the Commodity Supplemental Food Program.
 
 *Department* means the U.S. Department of Agriculture.
@@ -25,8 +21,6 @@ Following is a list of definitions that apply to the Commodity Supplemental Food
 *Disqualification* means the act of ending Program participation of a participant as a punitive sanction.
 
 *Dual participation* means the simultaneous participation by an individual in CSFP at more than one distribution site.
-
-*Elderly persons* means persons at least 60 years of age.
 
 *Fiscal year* means the period from October 1 through the following September 30.
 
@@ -36,7 +30,7 @@ Following is a list of definitions that apply to the Commodity Supplemental Food
 
 *Nonprofit agency* means a private agency or organization with tax-exempt status under the Internal Revenue Code, or that has applied for tax-exempt status with the Internal Revenue Service.
 
-*Proxy* means any person designated by a participant, or by the participant's adult parent or caretaker, to obtain supplemental foods on behalf of the participant.
+*Proxy* means any person designated by a participant or caretaker to obtain USDA Foods on behalf of the participant.
 
 *7 CFR part 250* means the Department's regulations pertaining to the donation of foods for use in USDA food distribution programs.
 
@@ -46,8 +40,10 @@ Following is a list of definitions that apply to the Commodity Supplemental Food
 
 *State Plan* means the document that describes the manner in which the State agency intends to administer the program in the State.
 
-*Subdistributing agency* means an agency or organization that has entered into an agreement with the State agency to perform functions normally performed by the State, such as entering into agreements with eligible recipient agencies under which commodities are made available, ordering commodities and/or making arrangements for the storage and delivery of such commodities on behalf of eligible recipient agencies.
+*Subdistributing agency* means an agency or organization that has entered into an agreement with the State agency to perform functions normally performed by the State, such as entering into agreements with eligible recipient agencies under which USDA Foods are made available, ordering USDA Foods and/or making arrangements for the storage and delivery of such USDA Foods on behalf of eligible recipient agencies.
+
+*USDA Foods* means nutritious foods purchased by USDA to supplement the diets of CSFP participants, also referred to as donated foods.
 
 *USDA implementing regulations* include the following: 2 CFR part 400, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards; 2 CFR part 415, General Program Administrative Regulations; 2 CFR part 416, General Program Administrative Regulations for Grants and Cooperative Agreements to State and Local Governments; and 2 CFR part 418, New Restrictions on Lobbying.
 
-[70 FR 47063, Aug. 11, 2005, as amended at 81 FR 66495, Sept. 28, 2016; 85 FR 68721, Oct. 30, 2020]
+[70 FR 47063, Aug. 11, 2005, as amended at 81 FR 66495, Sept. 28, 2016; 85 FR 68721, Oct. 30, 2020, 89 FR 87244, Oct. 31, 2024]

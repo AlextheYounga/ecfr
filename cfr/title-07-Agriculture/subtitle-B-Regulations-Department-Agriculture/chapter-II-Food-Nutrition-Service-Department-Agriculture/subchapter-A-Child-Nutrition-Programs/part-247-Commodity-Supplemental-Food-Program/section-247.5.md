@@ -1,18 +1,16 @@
 ##### § 247.5 State and local agency responsibilities. #####
 
-Link to an amendment published at 89 FR 87244, Oct. 31, 2024.Link to a correction published at 89 FR 104393, Dec. 23, 2024.
-
 State and local agencies are responsible for administering the program in accordance with the provisions of this part, and with the provisions of part 250 of this chapter, as applicable. Although the State agency may delegate some responsibilities to another agency, the State agency is ultimately responsible for all aspects of program administration. The following is an outline of the major responsibilities of State and local agencies; it is not intended to be all-inclusive.
 
 (a) *What are the major responsibilities shared by State and local agencies?* The major responsibilities shared by State and local agencies include:
 
 (1) Entering into required agreements;
 
-(2) Ordering commodities for distribution;
+(2) Ordering USDA Foods for distribution;
 
-(3) Storing and distributing commodities;
+(3) Storing and distributing USDA Foods;
 
-(4) Establishing procedures for resolving complaints about commodities;
+(4) Establishing procedures for resolving complaints about USDA Foods;
 
 (5) Complying with civil rights requirements;
 
@@ -48,9 +46,13 @@ State and local agencies are responsible for administering the program in accord
 
 (13) Ensuring compliance with Federal audit requirements;
 
-(14) Providing guidance to local agencies, as needed; and
+(14) Providing guidance to local agencies, as needed;
 
-(15) Ensuring that program participation does not exceed the State agency's caseload allocation on an average monthly basis.
+(15) Ensuring that program participation does not exceed the State agency's caseload allocation on an average monthly basis;
+
+(16) Making publicly available a list of all CSFP local agencies on a publicly available internet web page. The State agency must post the name, address, and telephone number for each local agency. The list must be updated, at a minimum, on an annual basis; and
+
+(17) Posting the State Plan that is currently in use on a publicly available internet web page.
 
 (c) *What are the major local agency responsibilities?* The major local agency responsibilities include:
 
@@ -66,8 +68,8 @@ State and local agencies are responsible for administering the program in accord
 
 (6) Informing applicants of their rights and responsibilities in the program;
 
-(7) Meeting the special needs of the homebound elderly, to the extent possible; and
+(7) Meeting the special needs of homebound participants, to the extent possible; and
 
 (8) Pursuing claims against participants.
 
-[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38750, July 9, 2014; 85 FR 68721, Oct. 30, 2020]
+[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38750, July 9, 2014; 85 FR 68721, Oct. 30, 2020; 89 FR 87244, Oct. 31, 2024; 89 FR 104393, Dec. 23, 2024]

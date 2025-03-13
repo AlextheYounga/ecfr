@@ -1,7 +1,6 @@
 ##### § 1.401-10 Definitions relating to plans covering self-employed individuals. #####
 
-(a) *In general.* (1) Certain self-employed individuals may be covered by a qualified pension, annuity, or profit- sharing plan for taxable years beginning after December 31, 1962.
-This section contains definitions relating to plans covering self-employed individuals.
+(a) *In general.* (1) Certain self-employed individuals may be covered by a qualified pension, annuity, or profit- sharing plan for taxable years beginning after December 31, 1962. This section contains definitions relating to plans covering self-employed individuals.
 
 (2) A self-employed individual is covered under a qualified plan during the period beginning with the date a contribution is first made by, or for, him under the qualified plan and ending when there are no longer funds under the plan which can be used to provide him or his beneficiaries with benefits.
 

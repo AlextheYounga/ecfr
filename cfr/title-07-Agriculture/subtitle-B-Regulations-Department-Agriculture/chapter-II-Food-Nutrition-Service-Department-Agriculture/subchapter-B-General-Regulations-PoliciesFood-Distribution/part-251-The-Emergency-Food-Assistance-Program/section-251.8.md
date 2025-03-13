@@ -1,8 +1,6 @@
 ##### § 251.8 Payment of funds for administrative costs. #####
 
-Link to an amendment published at 89 FR 87251, Oct. 31, 2024.
-
-(a) *Availability and allocation of funds.* Funds made available to the Department for State and local costs associated with the distribution of commodities under this part shall, in any fiscal year, be distributed to each State agency on the basis of the funding formula defined in § 251.3(h).
+(a) *Availability and allocation of funds.* Funds made available to the Department for State and local costs associated with the distribution of USDA Foods under this part shall, in any fiscal year, be distributed to each State agency on the basis of the funding formula defined in § 251.3(h).
 
 (b) *Uniform Federal Assistance regulations.* Funds provided under this section shall be subject to the regulations issued under 2 CFR part 200, and USDA implementing regulations at 2 CFR parts 400 and 416, as applicable.
 
@@ -12,15 +10,15 @@ Link to an amendment published at 89 FR 87251, Oct. 31, 2024.
 
 (3) Each State agency shall return to FNS any funds made available under this section either through the original allocation or through subsequent reallocations which are unobligated as of the end of the fiscal year for which they were made available. Such return shall be made as soon as practicable but in no event later than 30 days following demand made by FNS.
 
-(d) *Priority for eligible recipient agencies distributing USDA commodities.* State agencies and eligible recipient agencies distributing administrative funds must ensure that the administrative funding needs of eligible recipient agencies which receive USDA commodities are met, relative to both USDA commodities and any non-USDA commodities they may receive, before such funding is made available to eligible recipient agencies which distribute only non-USDA commodities.
+(d) *Priority for eligible recipient agencies distributing USDA Foods.* State agencies and eligible recipient agencies distributing administrative funds must ensure that the administrative funding needs of eligible recipient agencies which receive USDA Foods are met, relative to both USDA Foods and any non-USDA foods they may receive before such funding is made available to eligible recipient agencies which distribute only non-USDA foods.
 
-(e) *Use of funds*—(1) *Allowable administrative costs.* State agencies and eligible recipient agencies may use funds made available under this part to pay the direct expenses associated with the distribution of USDA commodities and commodities secured from other sources to the extent that the commodities are ultimately distributed by eligible recipient agencies which have entered into agreements in accordance with § 251.2. Direct expenses include the following, regardless of whether they are charged to TEFAP as direct or indirect costs:
+(e) *Use of funds*— (1) *Allowable administrative costs.* State agencies and eligible recipient agencies may use funds made available under this part to pay the direct expenses associated with the distribution of USDA Foods and foods secured from other sources to the extent that the foods are ultimately distributed by eligible recipient agencies which have entered into agreements in accordance with § 251.2. Direct expenses include the following, regardless of whether they are charged to TEFAP as direct or indirect costs:
 
-(i) The intrastate and interstate transport, storing, handling, repackaging, processing, and distribution of commodities (including donated wild game); except that for interstate expenditures to be allowable, the commodities must have been specifically earmarked for the particular State or eligible recipient agency which incurs the cost;
+(i) The intrastate and interstate transport, storing, handling, repackaging, processing, and distribution of foods (including donated wild game); except that for interstate expenditures to be allowable, the foods must have been specifically earmarked for the particular State or eligible recipient agency which incurs the cost;
 
 (ii) Costs associated with determinations of eligibility, verification, and documentation;
 
-(iii) Costs of providing information to persons receiving USDA commodities concerning the appropriate storage and preparation of such commodities;
+(iii) Costs of providing information to persons receiving USDA Foods concerning the appropriate storage and preparation of such foods;
 
 (iv) Costs involved in publishing announcements of times and locations of distribution; and
 
@@ -38,8 +36,8 @@ Link to an amendment published at 89 FR 87251, Oct. 31, 2024.
 
 (ii) Any funds allocated to or expended by the State agency to cover costs incurred by eligible recipient agencies which are not emergency feeding organizations shall not count toward meeting the pass-through requirement.
 
-(iii) State agencies must not charge for commodities made available under this part to eligible recipient agencies.
+(iii) State agencies must not charge for USDA Foods made available under this part to eligible recipient agencies.
 
 (f) *Recovery and reallocation.* If, during the course of the fiscal year, the Department determines that a State agency is unable to use all of the funds allocated to it during the fiscal year, the Department shall recover or withhold and reallocate such unused funds among other States.
 
-[51 FR 12823, Apr. 16, 1986, as amended at 59 FR 16974, Apr. 11, 1994; 64 FR 72906, Dec. 29, 1999; 74 FR 62474, Nov. 30, 2009; 81 FR 23115, Apr. 19, 2016]
+[51 FR 12823, Apr. 16, 1986, as amended at 59 FR 16974, Apr. 11, 1994; 64 FR 72906, Dec. 29, 1999; 74 FR 62474, Nov. 30, 2009; 81 FR 23115, Apr. 19, 2016; 89 FR 87251, Oct. 31, 2024]

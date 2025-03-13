@@ -34,7 +34,7 @@
 
 (ii) Must have a maximum water capacity of 450 L (119 gallons).
 
-(iii) Except for liquefied nitrous oxide and carbon dioxide, contents of the damaged or leaking cylinder must be limited in pressure and volume so that if totally discharged into the salvage cylinder, the pressure in the salvage cylinder will not exceed5/4 of the MAWP at 55 °C (131 °F).
+(iii) Except for liquefied nitrous oxide and carbon dioxide, contents of the damaged or leaking cylinder must be limited in pressure and volume so that if totally discharged into the salvage cylinder, the pressure in the salvage cylinder will not exceed 5/4 of the MAWP at 55 °C (131 °F).
 
 (iv) Must have gaskets, valves and fittings that are compatible with the hazardous materials contained within.
 
@@ -102,4 +102,4 @@
 
 (6) The overpack requirements of § 173.25 do not apply to large salvage packagings used in accordance with this paragraph.
 
-[Amdt. 173-224, 55 FR 52607, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[Amdt. 173-224, 55 FR 52607, Dec. 21, 1990] Editorial Note:For Federal Register citations affecting § 173.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

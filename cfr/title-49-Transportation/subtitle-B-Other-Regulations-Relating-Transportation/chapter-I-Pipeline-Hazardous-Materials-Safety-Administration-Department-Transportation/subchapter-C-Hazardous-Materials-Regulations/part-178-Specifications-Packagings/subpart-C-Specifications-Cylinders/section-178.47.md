@@ -87,7 +87,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Test pressu
 
 (1) For spheres the test must be at the weld between parallel steel plates on a press with welded seam at right angles to the plates. Test one sphere taken at random out of each lot of 200 or less after the hydrostatic test. Any projecting appurtenances may be cut off (by mechanical means only) prior to crushing.
 
-(2) For cylinders the test must be between knife edges, wedge shaped, 60° angle, rounded to1/2-inch radius. Test one cylinder taken at random out of each lot of 200 or less, after the hydrostatic test.
+(2) For cylinders the test must be between knife edges, wedge shaped, 60° angle, rounded to 1/2-inch radius. Test one cylinder taken at random out of each lot of 200 or less, after the hydrostatic test.
 
 (n) *Acceptable results for flattening and burst tests.* Acceptable results for flattening and burst tests are as follows:
 

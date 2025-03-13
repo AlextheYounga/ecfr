@@ -1,5 +1,7 @@
 ##### § 1.6045-0 Table of contents. #####
 
+Link to an amendment published at 89 FR 106958, Dec. 30, 2024.
+
 In order to facilitate the use of § 1.6045-1, this section lists the paragraphs contained in § 1.6045-1.
 
 § 1.6045-1 Returns of information of brokers and barter exchanges.

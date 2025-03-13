@@ -8,7 +8,7 @@
 
 1 Actual elevation, Ea, for each 155-foot track segment in the body of the curve is determined by averaging the elevation for 11 points through the segment at 15.5-foot spacing. If the curve length is less than 155 feet, the points are averaged through the full length of the body of the curve.
 
-Eu = Qualified cant deficiency2 (inches) of the vehicle type.
+Eu = Qualified cant deficiency 2 (inches) of the vehicle type.
 
 2 If the actual elevation, Ea, and degree of curvature, D, change as a result of track degradation, then the actual cant deficiency for the maximum allowable posted timetable operating speed, Vmax, may be greater than the qualified cant deficiency, Eu. This actual cant deficiency for each curve may not exceed the qualified cant deficiency, Eu, plus 1 inch.
 

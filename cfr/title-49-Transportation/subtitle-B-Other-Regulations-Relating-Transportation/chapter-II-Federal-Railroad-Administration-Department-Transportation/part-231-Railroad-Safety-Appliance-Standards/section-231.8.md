@@ -48,7 +48,7 @@
 
 (3) *Location.* On cars with continuous running boards, one at right end of each side. On cars with side running boards, one at each end of each running board.
 
-(4) *Manner of application.* Ladders shall be securely fastened with not less than1/2-inch bolts or rivets.
+(4) *Manner of application.* Ladders shall be securely fastened with not less than 1/2-inch bolts or rivets.
 
 (e) *Side handholds*—(1) *Number.* Four or more.
 

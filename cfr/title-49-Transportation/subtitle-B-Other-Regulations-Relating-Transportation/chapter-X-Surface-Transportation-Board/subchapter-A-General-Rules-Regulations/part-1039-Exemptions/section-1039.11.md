@@ -104,4 +104,4 @@ Excluded from this exemption are any movements for which a finding of market dom
 
 (b) *Conditions.* Carriers must continue to comply with Board accounting and reporting requirements. All railroad tariffs pertaining to the transportation of these miscellaneous commodities will no longer apply. This exemption shall remain in effect, unless modified or revoked by a subsequent order of this Board.
 
-[48 FR 24901, June 3, 1983]Editorial Note:For Federal Register citations affecting § 1039.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[48 FR 24901, June 3, 1983] Editorial Note:For Federal Register citations affecting § 1039.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

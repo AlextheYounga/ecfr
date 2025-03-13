@@ -1,5 +1,7 @@
 ##### § 55.59 Requalification. #####
 
+Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
+
 (a) *Requalification requirements.* Each licensee shall—
 
 (1) Successfully complete a requalification program developed by the facility licensee that has been approved by the Commission. This program shall be conducted for a continuous period not to exceed 24 months in duration.

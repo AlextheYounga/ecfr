@@ -20,4 +20,4 @@
 
 (e) *Penalties.* Those who violate this section are subject to the penalties set forth in 46 U.S.C. 70036.
 
-[USCG-2024-0658, 89 FR 60825, July 29, 2024]
+[USCG-2024-0658, 89 FR 60825, July 29, 2024]Effective Date Note:At 89 FR 6825, July 29, 2024, § 165.T08-0658, was added, effective Aug. 1, 2024, through Dec. 31, 2024.

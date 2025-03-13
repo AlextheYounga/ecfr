@@ -70,7 +70,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psig;P = 2 times se
 
 (ii) One cylinder must be selected from each lot and be hydrostatically pressure tested to destruction. If this cylinder bursts below five (5) times the service pressure, then two additional cylinders from the same lot as the previously tested cylinder must be selected and subjected to this test. If either of these cylinders fails by bursting below five (5) times the service pressure then the entire lot must be rejected. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(j) *Flattening test.* Following the hydrostatic test, one cylinder taken at random out of each lot of 200 or less, must be subjected to a flattening test that is between knife edges, wedge shaped, 60° angle, rounded to1/2 inch radius.
+(j) *Flattening test.* Following the hydrostatic test, one cylinder taken at random out of each lot of 200 or less, must be subjected to a flattening test that is between knife edges, wedge shaped, 60° angle, rounded to 1/2 inch radius.
 
 (k) *Physical test.* A physical test must be conducted to determine yield strength, tensile strength, elongation, and reduction of area of material, as follows:
 
@@ -78,7 +78,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psig;P = 2 times se
 
 (2) Specimens must conform to the following:
 
-(i) A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times the thickness with a width not over 6 times the thickness is authorized when a cylinder wall is not over3/16 inch thick.
+(i) A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times the thickness with a width not over 6 times the thickness is authorized when a cylinder wall is not over 3/16 inch thick.
 
 (ii) The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within one inch of each end of the reduced section.
 
@@ -94,13 +94,13 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psig;P = 2 times se
 
 (iii) For the purpose of strain measurement, the initial strain must be set while the specimen is under a stress of 12,000 psi and the strain indicator reading being set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
 
 (l) *Acceptable results for physical and flattening tests.* Acceptable results for the physical and flattening tests are an elongation of at least 40 percent for a 2 inch gauge length or at least 20 percent in other cases and a yield strength not over 73 percent of tensile strength. In this instance the flattening test is required, without cracking, to six times the wall thickness with a weld 90° from the direction of the applied load. Two rings cut from the ends of length of pipe used in production of a lot may be used for the flattening test provided the rings accompany the lot which they represent in all thermal processing operations. At least one of the rings must pass the flattening test.
 
 (m) *Leakage test.* All spun cylinders and plugged cylinders must be tested for leakage by gas or air pressure after the bottom has been cleaned and is free from all moisture, subject to the following conditions:
 
-(1) Pressure, approximately the same as but no less than service pressure, must be applied to one side of the finished bottom over an area of at least1/16 of the total area of the bottom but not less than3/4 inch in diameter, including the closure, for at least 1 minute, during which time the other side of the bottom exposed to pressure must be covered with water and closely examined for indications of leakage. Except as provided in paragraph (n) of this section, cylinders which are leaking must be rejected.
+(1) Pressure, approximately the same as but no less than service pressure, must be applied to one side of the finished bottom over an area of at least 1/16 of the total area of the bottom but not less than 3/4 inch in diameter, including the closure, for at least 1 minute, during which time the other side of the bottom exposed to pressure must be covered with water and closely examined for indications of leakage. Except as provided in paragraph (n) of this section, cylinders which are leaking must be rejected.
 
 (2) A spun cylinder is one in which an end closure in the finished cylinder has been welded by the spinning process.
 

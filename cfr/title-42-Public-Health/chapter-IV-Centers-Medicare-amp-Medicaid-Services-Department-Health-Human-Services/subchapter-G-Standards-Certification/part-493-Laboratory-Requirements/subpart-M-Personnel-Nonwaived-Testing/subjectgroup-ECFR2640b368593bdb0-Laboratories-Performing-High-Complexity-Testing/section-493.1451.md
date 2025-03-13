@@ -1,7 +1,5 @@
 ##### § 493.1451 Standard: Technical supervisor responsibilities. #####
 
-Link to an amendment published at 88 FR 90043, Dec. 28, 2023.
-
 The technical supervisor is responsible for the technical and scientific oversight of the laboratory. The technical supervisor is not required to be on site at all times testing is performed; however, he or she must be available to the laboratory on an as needed basis to provide supervision as specified in (a) of this section.
 
 (a) The technical supervisor must be accessible to the laboratory to provide on-site, telephone, or electronic consultation; and
@@ -38,7 +36,7 @@ The technical supervisor is responsible for the technical and scientific oversig
 
 (9) Evaluating and documenting the performance of individuals responsible for high complexity testing at least semiannually during the first year the individual tests patient specimens. Thereafter, evaluations must be performed at least annually unless test methodology or instrumentation changes, in which case, prior to reporting patient test results, the individual's performance must be reevaluated to include the use of the new test methodology or instrumentation.
 
-(c) In cytology, the technical supervisor or the individual qualified under § 493.1449(k)(2)—
+(c) In cytology, the technical supervisor or the individual qualified under § 493.1449(e)(2)—
 
 (1) May perform the duties of the cytology general supervisor and the cytotechnologist, as specified in §§ 493.1471 and 493.1485, respectively;
 
@@ -52,4 +50,4 @@ The technical supervisor is responsible for the technical and scientific oversig
 
 (6) If responsible for screening cytology slide preparations, must document the number of cytology slides screened in 24 hours and the number of hours devoted during each 24-hour period to screening cytology slides.
 
-[57 FR 7172, Feb. 28, 1992, as amended at 58 FR 5235, Jan. 19, 1993; 68 FR 3714, Jan. 24, 2003]
+[57 FR 7172, Feb. 28, 1992, as amended at 58 FR 5235, Jan. 19, 1993; 68 FR 3714, Jan. 24, 2003; 88 FR 90043, Dec. 28, 2023]

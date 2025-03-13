@@ -1,5 +1,7 @@
 ##### § 51.44 Disposition of fees. #####
 
+Link to an amendment published at 89 FR 106234, Dec. 30, 2024.
+
 (a) The fees collected for services rendered shall be disposed of as follows:
 
 (1) Fees for inspections made by inspectors acting exclusively for the Agricultural Marketing Service shall be remitted promptly to the Agricultural Marketing Service.

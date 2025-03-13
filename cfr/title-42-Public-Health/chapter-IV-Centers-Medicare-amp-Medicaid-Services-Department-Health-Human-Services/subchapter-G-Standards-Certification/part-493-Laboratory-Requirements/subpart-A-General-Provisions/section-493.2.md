@@ -1,7 +1,5 @@
 ##### § 493.2 Definitions. #####
 
-Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
-
 As used in this part, unless the context indicates otherwise—
 
 *Acceptance limit* means the symmetrical tolerance (plus and minus) around the target value.
@@ -64,6 +62,8 @@ This definition includes any foreign institution of higher education that HHS or
 
 *Confirmatory testing* means testing performed by a second analytical procedure that could be used to substantiate or bring into question the result of an initial laboratory test.
 
+*Continuing education (CE) credit hours* means either continuing medical education (CME) or continuing education units (CEUs). The CE credit hours must cover the applicable laboratory director responsibilities and be obtained prior to qualifying as a laboratory director.
+
 *Credible allegation of compliance* means a statement or documentation that—
 
 (1) Is made by a representative of a laboratory that has a history of having maintained a commitment to compliance and of taking corrective action when required;
@@ -76,11 +76,15 @@ This definition includes any foreign institution of higher education that HHS or
 
 *Distributive testing* means laboratory testing performed on the same specimen, or an aliquot of it, that requires sharing it between two or more laboratories to obtain all data required to complete an interpretation or calculation necessary to provide a final reportable result for the originally ordered test. When such testing occurs at multiple locations with different CLIA certificates, it is considered distributive testing.
 
+*Doctoral degree* means an earned post-baccalaureate degree with at least 3 years of graduate level study that includes research related to clinical laboratory testing or advanced study in clinical laboratory science, medical laboratory science, or medical technology. For purposes of this part, doctoral degrees do not include doctors of medicine (MD), doctors of osteopathy (DO), doctors of podiatric medicine (DPM), doctors of veterinary medicine (DVM) degrees, or honorary degrees.
+
 *Equivalency* means that an accreditation organization's or a State laboratory program's requirements, taken as a whole, are equal to or more stringent than the CLIA requirements established by CMS, taken as whole. It is acceptable for an accreditation organization's or State laboratory program's requirements to be organized differently or otherwise vary from the CLIA requirements, as long as
 
 (1) All of the requirements taken as a whole would provide at least the same protection as the CLIA requirements taken as a whole; and
 
 (2) A finding of noncompliance with respect to CLIA requirements taken as a whole would be matched by a finding of noncompliance with the accreditation or State requirements taken as a whole.
+
+*Experience directing or supervising* means that the director or supervisory experience must be obtained in a facility that meets the definition of a laboratory under this section and is not excepted under § 493.3(b).
 
 *FDA-cleared or approved test system* means a test system cleared or approved by the FDA through the premarket notification (510(k)) or premarket approval (PMA) process for in-vitro diagnostic use. Unless otherwise stated, this includes test systems exempt from FDA premarket clearance or approval.
 
@@ -94,7 +98,9 @@ This definition includes any foreign institution of higher education that HHS or
 
 *Laboratory* means a facility for the biological, microbiological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings. These examinations also include procedures to determine, measure, or otherwise describe the presence or absence of various substances or organisms in the body. Facilities only collecting or preparing specimens (or both) or only serving as a mailing service and not performing testing are not considered laboratories.
 
-*Midlevel practitioner* means a nurse midwife, nurse practitioner, or physician assistant, licensed by the State within which the individual practices, if such licensing is required in the State in which the laboratory is located.
+*Laboratory training or experience* means that the training or experience must be obtained in a facility that meets the definition of a laboratory under this section and is not excepted under § 493.3(b).
+
+*Midlevel practitioner* means a nurse midwife, nurse practitioner, nurse anesthetist, clinical nurse specialist, or physician assistant licensed by the State within which the individual practices, if such licensing is required in the State in which the laboratory is located.
 
 *Nonwaived test* means any test system, assay, or examination that has not been found to meet the statutory criteria specified at section 353(d)(3) of the Public Health Service Act.
 
@@ -182,4 +188,4 @@ Example:Assume the State survey agency, CMS or other CMS agent performs 200 samp
 
 *Waived test* means a test system, assay, or examination that HHS has determined meets the CLIA statutory criteria as specified for waiver under section 353(d)(3) of the Public Health Service Act.
 
-[57 FR 7139, Feb. 28, 1992, as amended at 57 FR 7236, Feb. 28, 1992; 57 FR 34013, July 31, 1992; 57 FR 35761, Aug. 11, 1992; 58 FR 5220, Jan. 19, 1993; 58 FR 48323, Sept. 15, 1993; 60 FR 20043, Apr. 24, 1995; 63 FR 26732, May 14, 1998; 68 FR 3702, Jan. 24, 2003; 68 FR 50723, Aug. 22, 2003; 79 FR 25480, May 2, 2014; 79 FR 27157, May 12, 2014; 85 FR 54873, Sept. 2, 2020; 87 FR 41232, July 11, 2022; 88 FR 90035, Dec. 28, 2023]
+[57 FR 7139, Feb. 28, 1992, as amended at 57 FR 7236, Feb. 28, 1992; 57 FR 34013, July 31, 1992; 57 FR 35761, Aug. 11, 1992; 58 FR 5220, Jan. 19, 1993; 58 FR 48323, Sept. 15, 1993; 60 FR 20043, Apr. 24, 1995; 63 FR 26732, May 14, 1998; 68 FR 3702, Jan. 24, 2003; 68 FR 50723, Aug. 22, 2003; 79 FR 25480, May 2, 2014; 79 FR 27157, May 12, 2014; 85 FR 54873, Sept. 2, 2020; 87 FR 41232, July 11, 2022; 88 FR 90035, Dec. 28, 2023; 88 FR 90035, Dec. 28, 2023]

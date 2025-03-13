@@ -2,7 +2,7 @@
 
 (a) *Content of the request.* (1) The request for an ALJ hearing or a review of a QIC dismissal must be made in writing. The request must include all of the following—
 
-(i) The name, address, and Medicare health number of the beneficiary whose claim is being appealed, and the beneficiary's telephone number if the beneficiary is the appealing party and not represented.
+(i) The name, address, and Medicare number of the beneficiary whose claim is being appealed, and the beneficiary's telephone number if the beneficiary is the appealing party and not represented.
 
 (ii) The name, address, and telephone number, of the appellant, when the appellant is not the beneficiary.
 
@@ -58,4 +58,4 @@
 
 (5) A determination granting a request to extend the filing deadline is not subject to further review.
 
-[82 FR 5112, Jan. 17, 2017, as amended at 84 FR 19870, May 7, 2019]
+[82 FR 5112, Jan. 17, 2017, as amended at 84 FR 19870, May 7, 2019; 89 FR 106363, Dec. 30, 2024]

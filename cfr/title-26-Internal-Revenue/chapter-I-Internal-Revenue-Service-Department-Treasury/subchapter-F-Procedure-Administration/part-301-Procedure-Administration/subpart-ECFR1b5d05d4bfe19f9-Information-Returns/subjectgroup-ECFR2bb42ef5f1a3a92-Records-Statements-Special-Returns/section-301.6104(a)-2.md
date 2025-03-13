@@ -30,4 +30,4 @@
 
 (e) *Applicant.* For purposes of this section, § 301.6104(a)-3 (relating to Internal Revenue Service letters and documents open to public inspection) and § 301.6104(a)-5 (relating to the withholding of certain information from public inspection), an “applicant” includes, but is not limited to, an employer, plan administrator (as defined in section 414(g)), labor union, bank, or insurance company that files an application for a determination letter.
 
-(Secs. 6104(a)(1)(A), 6104(a)(1)(B), and 7805 of the Internal Revenue Code of 1954 (72 Stat. 1660, 88 Stat. 940, 68A Stat. 917; 26 U.S.C. 6104(a)(1)(A), 6104(a)(1)(B), 7805))[T.D. 7845, 47 FR 50487, Nov. 8, 1982]
+(Secs. 6104(a)(1)(A), 6104(a)(1)(B), and 7805 of the Internal Revenue Code of 1954 (72 Stat. 1660, 88 Stat. 940, 68A Stat. 917; 26 U.S.C. 6104(a)(1)(A), 6104(a)(1)(B), 7805)) [T.D. 7845, 47 FR 50487, Nov. 8, 1982]

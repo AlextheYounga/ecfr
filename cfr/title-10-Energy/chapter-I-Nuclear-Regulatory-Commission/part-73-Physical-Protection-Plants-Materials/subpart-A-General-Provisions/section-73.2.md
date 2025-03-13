@@ -1,5 +1,7 @@
 ##### § 73.2 Definitions. #####
 
+Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
+
 As used in this part:
 
 (a) Terms defined in parts 50, 52, 70, and 95 of this chapter have the same meaning when used in this part.

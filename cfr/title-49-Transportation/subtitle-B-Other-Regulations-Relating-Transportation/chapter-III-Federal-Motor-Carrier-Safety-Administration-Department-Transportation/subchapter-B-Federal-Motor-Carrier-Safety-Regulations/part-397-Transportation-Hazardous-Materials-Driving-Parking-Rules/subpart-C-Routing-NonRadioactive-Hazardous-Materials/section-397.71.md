@@ -8,7 +8,7 @@
 
 (i) The factors listed in paragraph (b)(9) of this section; and
 
-(ii) The DOT “Guidelines for Applying Criteria to Designate Routes for Transporting Hazardous Materials,” DOT/RSPA/OHMT-89-02, July 19891 or its most current version; or an equivalent routing analysis which adequately considers overall risk to the public.
+(ii) The DOT “Guidelines for Applying Criteria to Designate Routes for Transporting Hazardous Materials,” DOT/RSPA/OHMT-89-02, July 1989 1 or its most current version; or an equivalent routing analysis which adequately considers overall risk to the public.
 
 1 This document may be obtained from Federal Motor Carrier Safety Administration, Office of Enforcement and Compliance (MC-SE), 1200 New Jersey Ave., SE., Washington, DC 20590-0001.
 

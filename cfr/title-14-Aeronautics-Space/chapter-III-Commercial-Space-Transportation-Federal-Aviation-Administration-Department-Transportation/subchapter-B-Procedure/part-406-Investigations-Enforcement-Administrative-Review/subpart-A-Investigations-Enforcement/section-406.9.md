@@ -1,6 +1,6 @@
 ##### § 406.9 Civil penalties. #####
 
-(a) *Civil penalty liability.* Under 51 U.S.C. 50917(c), a person found by the Federal Aviation Administration (FAA) to have violated a requirement of the Act, a regulation issued under the Act, or any term or condition of a license or permit issued or transferred under the Act, is liable to the United States for a civil penalty of not more than $292,181 for each violation. A separate violation occurs for each day the violation continues.
+(a) *Civil penalty liability.* Under 51 U.S.C. 50917(c), a person found by the Federal Aviation Administration (FAA) to have violated a requirement of the Act, a regulation issued under the Act, or any term or condition of a license or permit issued or transferred under the Act, is liable to the United States for a civil penalty of not more than $299,772 for each violation. A separate violation occurs for each day the violation continues.
 
 (b) *Delegations.* The authority to impose civil penalties is exercised by an agency attorney as described in § 406.105.
 
@@ -78,4 +78,4 @@
 
 (k) *Compromise.* The FAA may compromise or remit a civil penalty that has been proposed or imposed under this section.
 
-[Doc. No. FAA-2001-8607, 66 FR 2180, Jan. 10, 2001, as amended by Amdt. 406-4, 72 FR 17017, Apr. 6, 2007; 72 FR 68475, Dec. 5, 2007; 75 FR 30693, June 2, 2010; Amdt. 406-7, 77 FR 20532, Apr. 5, 2012; 79 FR 61992, Oct. 16, 2014; Amdt. 406-10, 81 FR 43469, July 5, 2016; Doc. No. FAA-2016-7004, Amdt. 406-11, 82 FR 17101, Apr. 10, 2017; 83 FR 60743, Nov. 27, 2018; 84 FR 37070, July 31, 2019; 86 FR 1755, Jan. 11, 2021; 86 FR 23251, May 3, 2021; 87 FR 15865, Mar. 21, 2022; 88 FR 1124, Jan. 6, 2023; 88 FR 89559, Dec. 28, 2023]
+[Doc. No. FAA-2001-8607, 66 FR 2180, Jan. 10, 2001, as amended by Amdt. 406-4, 72 FR 17017, Apr. 6, 2007; 72 FR 68475, Dec. 5, 2007; 75 FR 30693, June 2, 2010; Amdt. 406-7, 77 FR 20532, Apr. 5, 2012; 79 FR 61992, Oct. 16, 2014; Amdt. 406-10, 81 FR 43469, July 5, 2016; Doc. No. FAA-2016-7004, Amdt. 406-11, 82 FR 17101, Apr. 10, 2017; 83 FR 60743, Nov. 27, 2018; 84 FR 37070, July 31, 2019; 86 FR 1755, Jan. 11, 2021; 86 FR 23251, May 3, 2021; 87 FR 15865, Mar. 21, 2022; 88 FR 1124, Jan. 6, 2023; 88 FR 89559, Dec. 28, 2023; 89 FR 106292, Dec. 30, 2024]

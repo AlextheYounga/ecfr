@@ -1,14 +1,16 @@
 ##### § 493.1407 Standard; Laboratory director responsibilities. #####
 
-Link to an amendment published at 88 FR 90039, Dec. 28, 2023.
-
 The laboratory director is responsible for the overall operation and administration of the laboratory, including the employment of personnel who are competent to perform test procedures, and record and report test results promptly, accurate, and proficiently and for assuring compliance with the applicable regulations.
 
 (a) The laboratory director, if qualified, may perform the duties of the technical consultant, clinical consultant, and testing personnel, or delegate these responsibilities to personnel meeting the qualifications of §§ 493.1409, 493.1415, and 493.1421, respectively.
 
 (b) If the laboratory director reapportions performance of his or her responsibilities, he or she remains responsible for ensuring that all duties are properly performed.
 
-(c) The laboratory director must be accessible to the laboratory to provide onsite, telephone or electronic consultation as needed.
+(c) The laboratory director must:
+
+(1) Be onsite at least once every 6 months, with at least 4 months between the minimum two on-site visits. Laboratory directors may elect to be on-site more frequently and must continue to be accessible to the laboratory to provide telephone or electronic consultation as needed; and
+
+(2) Provide documentation of these visits, including evidence of performing activities that are part of the laboratory director responsibilities.
 
 (d) Each individual may direct no more than five laboratories.
 
@@ -56,4 +58,4 @@ The laboratory director is responsible for the overall operation and administrat
 
 (14) Specify, in writing, the responsibilities and duties of each consultant and each person, engaged in the performance of the preanalytic, analytic, and postanalytic phases of testing, that identifies which examinations and procedures each individual is authorized to perform, whether supervision is required for specimen processing, test performance or results reporting, and whether consultant or director review is required prior to reporting patient test results.
 
-[57 FR 7172, Feb. 28, 1992, as amended at 68 FR 3713, Jan. 24, 2003]
+[57 FR 7172, Feb. 28, 1992, as amended at 68 FR 3713, Jan. 24, 2003; 88 FR 90039, Dec. 28, 2023]

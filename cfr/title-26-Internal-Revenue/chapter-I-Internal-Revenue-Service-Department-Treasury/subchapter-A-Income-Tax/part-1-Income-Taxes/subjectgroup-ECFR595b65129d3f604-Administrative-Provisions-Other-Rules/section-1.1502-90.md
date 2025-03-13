@@ -400,32 +400,16 @@ The following list contains the major headings in §§ 1.1502-91 through 1.1502-
 
 (2) Election statement.
 
-§ 1.1502-97 Special rules under section 382 for members under the jurisdiction of a court in a title 11 or similar case. [Reserved]§ 1.1502-98 Coordination with sections 383 and 163(j).§ 1.1502-99 Effective dates.
+§ 1.1502-97 Special rules under section 382 for members under the jurisdiction of a court in a title 11 or similar case. [Reserved]§ 1.1502-98 Coordination with sections 383 and 163(j).§ 1.1502-99 Effective/applicability dates.
 
-(a) Effective date.
+(a) In general.
 
-(b) Special rules.
+(b) Reattribution of losses under § 1.1502-36(d)(6).
 
-(1) Election to treat subgroup parent requirement as satisfied.
+(c) Application to section 163(j).
 
-(2) Principal purpose of avoiding a limitation.
+(1) Sections 1.382-2 and 1.382-5.
 
-(3) Ceasing to be a member of a loss subgroup.
+(2) Sections 1.382-6 and 1.383-1.
 
-(i) Ownership change of a loss subgroup.
-
-(ii) Expiration of 5-year period.
-
-(4) Reattribution of net operating loss carryovers under § 1.1502-36(d)(6).
-
-(5) Election to apportion net unrealized built-in gain.
-
-(c) Testing period may include a period beginning before June 25, 1999.
-
-(1) In general.
-
-(2) Transition rule for net unrealized built-in losses.
-
-(d) Application to section 163(j).
-
-[T.D. 8824, 64 FR 36128, July 2, 1999, as amended by T.D. 9304, 71 FR 76907, Dec. 22, 2006; T.D. 9329, 72 FR 32805, June 14, 2007; T.D. 9424, 73 FR 53986, Sept. 17, 2008; T.D. 9905, 85 FR 56843, Sept. 14, 2020]
+[T.D. 8824, 64 FR 36128, July 2, 1999, as amended by T.D. 9304, 71 FR 76907, Dec. 22, 2006; T.D. 9329, 72 FR 32805, June 14, 2007; T.D. 9424, 73 FR 53986, Sept. 17, 2008; T.D. 9905, 85 FR 56843, Sept. 14, 2020; T.D. 10018, 89 FR 106877, Dec. 30, 2024]

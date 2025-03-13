@@ -16,9 +16,9 @@
 
 (v) Drawing No. 180-3005, Washer, Clamping;
 
-(vi) Drawing No. 9000021, Screw, SHCS3/8-16 × 1 NYLOK;
+(vi) Drawing No. 9000021, Screw, SHCS 3/8-16 × 1 NYLOK;
 
-(vii) Drawing No. 900005, Screw, SHCS1/4-20 ×5/8 NYLOK;
+(vii) Drawing No. 900005, Screw, SHCS 1/4-20 × 5/8 NYLOK;
 
 (viii) Drawing No. 180-4000, Lower Torso Assembly Complete;
 

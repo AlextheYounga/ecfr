@@ -1,5 +1,7 @@
 ##### § 55.53 Conditions of licenses. #####
 
+Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
+
 Each license contains and is subject to the following conditions whether stated in the license or not:
 
 (a) Neither the license nor any right under the license may be assigned or otherwise transferred.

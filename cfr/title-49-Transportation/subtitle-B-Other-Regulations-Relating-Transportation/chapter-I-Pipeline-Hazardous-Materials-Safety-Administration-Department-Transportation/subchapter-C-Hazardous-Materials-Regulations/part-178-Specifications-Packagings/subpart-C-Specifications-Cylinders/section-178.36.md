@@ -28,7 +28,7 @@ S = A1 P/A2where:S = tensile stress—p.s.i.;M = bending moment-inch pounds—(w
 
 (2) As permitted in paragraph (d) of this section.
 
-(3) Cylinders used solely in anhydrous ammonia service may have a1/2 inch diameter bar welded within their concave bottoms.
+(3) Cylinders used solely in anhydrous ammonia service may have a 1/2 inch diameter bar welded within their concave bottoms.
 
 (f) *Wall thickness.* For cylinders with service pressure less than 900 psig, the wall stress may not exceed 24,000 psig. A minimum wall thickness of 0.100 inch is required for any cylinder over 5 inches outside diameter. Wall stress calculation must be made by using the following formula:
 
@@ -48,13 +48,13 @@ S = [P(1.3D2 + 0.4d2)]/(D2−d2)Where:S = wall stress in psi;P = minimum test pr
 
 (1) The test must be by water-jacket or direct expansion method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Each cylinder must be tested to a minimum of5/3 times service pressure.
+(2) Each cylinder must be tested to a minimum of 5/3 times service pressure.
 
 (3) The minimum test pressure must be maintained for at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
 (4) Permanent, volumetric expansion may not exceed 10 percent of the total volumetric expansion at test pressure.
 
-(j) *Flattening test.* A flattening test must be performed on one cylinder taken at random out of each lot of 200 or less, by placing the cylinder between wedge shaped knife edges having a 60° included angle, rounded to1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or less, flattening tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to same heat treatment as the finished cylinder.
+(j) *Flattening test.* A flattening test must be performed on one cylinder taken at random out of each lot of 200 or less, by placing the cylinder between wedge shaped knife edges having a 60° included angle, rounded to 1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or less, flattening tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to same heat treatment as the finished cylinder.
 
 (k) *Physical test.* A physical test must be conducted to determine yield strength, tensile strength, elongation, and reduction of area of material as follows:
 
@@ -62,7 +62,7 @@ S = [P(1.3D2 + 0.4d2)]/(D2−d2)Where:S = wall stress in psi;P = minimum test pr
 
 (2) Specimens must conform to the following:
 
-(i) Gauge length of 8 inches with a width of not over 11/2 inches, a gauge length of 2 inches with a width of not over 11/2 inches, or a gauge length of at least 24 times thickness with width not over 6 times thickness is authorized when cylinder wall is not over3/16 inch thick.
+(i) Gauge length of 8 inches with a width of not over 11/2 inches, a gauge length of 2 inches with a width of not over 11/2 inches, or a gauge length of at least 24 times thickness with width not over 6 times thickness is authorized when cylinder wall is not over 3/16 inch thick.
 
 (ii) The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within 1 inch of each end of the reduced section.
 
@@ -78,7 +78,7 @@ S = [P(1.3D2 + 0.4d2)]/(D2−d2)Where:S = wall stress in psi;P = minimum test pr
 
 (iii) For the purpose of strain measurement, the initial strain must be set while the specimen is under a stress of 12,000 psig and the strain indicator reading must be set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
 
 (l) *Acceptable results for physical and flattening tests.* Either of the following is an acceptable result:
 
@@ -88,7 +88,7 @@ S = [P(1.3D2 + 0.4d2)]/(D2−d2)Where:S = wall stress in psi;P = minimum test pr
 
 (m) *Leakage test.* All spun cylinders and plugged cylinders must be tested for leakage by gas or air pressure after the bottom has been cleaned and is free from all moisture subject to the following conditions and limitations:
 
-(1) Pressure, approximately the same as but no less than service pressure, must be applied to one side of the finished bottom over an area of at least1/16 of the total area of the bottom but not less than3/4 inch in diameter, including the closure, for at least 1 minute, during which time the other side of the bottom exposed to pressure must be covered with water and closely examined for indications of leakage. Except as provided in paragraph (n) of this section, a cylinder that is leaking must be rejected.
+(1) Pressure, approximately the same as but no less than service pressure, must be applied to one side of the finished bottom over an area of at least 1/16 of the total area of the bottom but not less than 3/4 inch in diameter, including the closure, for at least 1 minute, during which time the other side of the bottom exposed to pressure must be covered with water and closely examined for indications of leakage. Except as provided in paragraph (n) of this section, a cylinder that is leaking must be rejected.
 
 (2) A spun cylinder is one in which an end closure in the finished cylinder has been welded by the spinning process.
 

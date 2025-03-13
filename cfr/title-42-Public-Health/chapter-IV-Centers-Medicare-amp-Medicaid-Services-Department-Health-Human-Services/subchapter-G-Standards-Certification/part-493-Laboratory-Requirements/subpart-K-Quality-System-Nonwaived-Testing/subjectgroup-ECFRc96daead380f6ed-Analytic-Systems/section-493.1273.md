@@ -1,10 +1,8 @@
 ##### § 493.1273 Standard: Histopathology. #####
 
-Link to an amendment published at 88 FR 90038, Dec. 28, 2023.
-
 (a) As specified in § 493.1256(e)(3), fluorescent and immunohistochemical stains must be checked for positive and negative reactivity each time of use. For all other differential or special stains, a control slide of known reactivity must be stained with each patient slide or group of patient slides. Reaction(s) of the control slide with each special stain must be documented.
 
-(b) The laboratory must retain stained slides, specimen blocks, and tissue remnants as specified in § 493.1105. The remnants of tissue specimens must be maintained in a manner that ensures proper preservation of the tissue specimens until the portions submitted for microscopic examination have been examined and a diagnosis made by an individual qualified under § 493.1449(b), (l), or (m).
+(b) The laboratory must retain stained slides, specimen blocks, and tissue remnants as specified in § 493.1105. The remnants of tissue specimens must be maintained in a manner that ensures proper preservation of the tissue specimens until the portions submitted for microscopic examination have been examined and a diagnosis made by an individual qualified under § 493.1449(b), (f), or (g).
 
 (c) An individual who has successfully completed a training program in neuromuscular pathology approved by HHS may examine and provide reports for neuromuscular pathology.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 88 FR 90038, Dec. 28, 2023.
 
 (f) The laboratory must document all control procedures performed, as specified in this section.
 
-[68 FR 3703, Jan. 24, 2003; 68 FR 50724, Aug. 22, 2003]
+[68 FR 3703, Jan. 24, 2003; 68 FR 50724, Aug. 22, 2003, as amended at 88 FR 90038, Dec. 28, 2023]

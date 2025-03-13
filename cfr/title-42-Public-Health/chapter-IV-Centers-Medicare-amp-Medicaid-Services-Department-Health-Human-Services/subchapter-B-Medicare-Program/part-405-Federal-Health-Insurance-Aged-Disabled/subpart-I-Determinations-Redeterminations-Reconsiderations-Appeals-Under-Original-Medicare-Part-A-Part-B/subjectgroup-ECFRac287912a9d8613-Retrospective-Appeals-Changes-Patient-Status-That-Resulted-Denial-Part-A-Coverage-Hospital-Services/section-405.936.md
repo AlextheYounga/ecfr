@@ -14,9 +14,7 @@
 
 (4) Any payments made, including coinsurance and deductible, for the Part B outpatient hospital claim, and as applicable, the SNF claim must not reduce the calculation of the amount in controversy for the purposes of a hearing or judicial review under this paragraph.
 
-(d) *Notice and content of an ALJ or attorney adjudicator decision.* (1) If the ALJ or attorney adjudicator determines that the inpatient admission, and as applicable, eligible SNF services, satisfied the relevant criteria for Part A coverage at the time the services were furnished, then the ALJ or attorney adjudicator issues notice of the favorable decision to the eligible party (or the party's representative).
-
-(i) [Reserved]
+(d) *Notice and content of an ALJ or attorney adjudicator decision.* (1)(i) If the ALJ or attorney adjudicator determines that the inpatient admission, and as applicable, eligible SNF services, satisfied the relevant criteria for Part A coverage at the time the services were furnished, then the ALJ or attorney adjudicator issues notice of the favorable decision to the eligible party (or the party's representative).
 
 (ii) The ALJ or attorney adjudicator also notifies the hospital and SNF, as applicable, in the case of a favorable determination for Part A coverage.
 
@@ -103,3 +101,5 @@
 (ii) An eligible party (or the party's representative) files a request for Medicare Appeals Council review under § 405.938.
 
 (2) The provisions regarding reopening of an ALJ or attorney adjudicator decision in § 405.980(d) and (e) apply in the same manner to unfavorable and partially favorable decisions issued under this section.
+
+[89 FR 83283, Oct. 15, 2024; 89 FR 106363, Dec. 30, 2024]

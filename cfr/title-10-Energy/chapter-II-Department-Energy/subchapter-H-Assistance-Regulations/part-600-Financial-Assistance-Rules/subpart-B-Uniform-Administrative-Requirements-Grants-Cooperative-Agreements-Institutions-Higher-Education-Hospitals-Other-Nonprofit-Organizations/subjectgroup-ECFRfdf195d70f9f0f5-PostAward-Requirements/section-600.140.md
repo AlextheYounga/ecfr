@@ -1,0 +1,3 @@
+##### § 600.140 Purpose of procurement standards. #####
+
+Sections 600.141 through 600.148 set forth standards for use by recipients in establishing procedures for the procurement of supplies and other expendable property, equipment, real property and other services with Federal funds. These standards are furnished to ensure that such materials and services are obtained in an effective manner and in compliance with the provisions of applicable Federal statutes and executive orders. No additional procurement standards or requirements shall be imposed by DOE upon recipients, unless specifically required by Federal statute or executive order or in accordance with the deviation procedures of § 600.4.

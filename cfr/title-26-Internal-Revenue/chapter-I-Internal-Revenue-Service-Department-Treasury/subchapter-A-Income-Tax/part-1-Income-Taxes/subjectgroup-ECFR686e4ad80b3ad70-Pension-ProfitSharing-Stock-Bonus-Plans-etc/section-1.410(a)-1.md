@@ -36,8 +36,7 @@
 
 (iv) A plan established and maintained by a society, order, or association described in section 501(c) (8) or (9), if no part of the contributions to or under such plan are made by employers of participants in such plan.
 
-(2) *Participation requirements.* A plan described in subparagraph (1) of this paragraph shall, for purposes of section 401(a), be treated as meeting the requirements of section 410 if such plan meets the coverage requirements resulting from the application of section 401(a)(3) as in effect on September 1, 1974.
-In applying the rules of that paragraph (d) to plans described in this paragraph (c) employees whose principal duties consist in supervising the work of other employees shall be treated as officers, shareholders, and highly compensated employees.
+(2) *Participation requirements.* A plan described in subparagraph (1) of this paragraph shall, for purposes of section 401(a), be treated as meeting the requirements of section 410 if such plan meets the coverage requirements resulting from the application of section 401(a)(3) as in effect on September 1, 1974. In applying the rules of that paragraph (d) to plans described in this paragraph (c) employees whose principal duties consist in supervising the work of other employees shall be treated as officers, shareholders, and highly compensated employees.
 
 (d) *Supersession.* Section 11.410(a)-1 through 11.410(d)-1 inclusive, of the Temporary Income Tax Regulation under the Employee Retirement Income Security Act of 1974 are superseded by this section and §§ 1.410(a)-2 through 1.410(d)-1.
 

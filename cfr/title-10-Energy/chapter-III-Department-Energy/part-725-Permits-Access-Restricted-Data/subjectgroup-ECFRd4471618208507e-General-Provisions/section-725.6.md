@@ -1,0 +1,3 @@
+##### § 725.6 Categories of available information. #####
+
+For administrative purposes DOE has categorized Restricted Data which will be made available to permittees in the categories as set forth in appendix A to this part. Top Secret information; information pertaining to the design, manufacture or utilization of atomic weapons; and defense information other than Restricted Data are not included in these categories and will not be made available under this part.

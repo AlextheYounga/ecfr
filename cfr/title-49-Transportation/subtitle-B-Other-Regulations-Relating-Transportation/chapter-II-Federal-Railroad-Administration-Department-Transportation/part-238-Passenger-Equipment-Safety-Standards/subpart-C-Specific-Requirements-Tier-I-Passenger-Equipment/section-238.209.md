@@ -4,7 +4,7 @@
 
 (1) The skin covering the forward-facing end of each locomotive, including a cab car and an MU locomotive, shall be:
 
-(i) Equivalent to a1/2-inch steel plate with a yield strength of 25,000 pounds-per-square-inch—material of a higher yield strength may be used to decrease the required thickness of the material provided at least an equivalent level of strength is maintained;
+(i) Equivalent to a 1/2-inch steel plate with a yield strength of 25,000 pounds-per-square-inch—material of a higher yield strength may be used to decrease the required thickness of the material provided at least an equivalent level of strength is maintained;
 
 (ii) Designed to inhibit the entry of fluids into the occupied cab area of the equipment; and
 

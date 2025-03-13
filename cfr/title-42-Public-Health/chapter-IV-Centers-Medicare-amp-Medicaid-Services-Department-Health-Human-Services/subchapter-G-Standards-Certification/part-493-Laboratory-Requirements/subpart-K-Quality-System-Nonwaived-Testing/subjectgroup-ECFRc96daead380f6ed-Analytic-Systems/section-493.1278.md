@@ -1,97 +1,61 @@
 ##### § 493.1278 Standard: Histocompatibility. #####
 
-Link to an amendment published at 88 FR 90038, Dec. 28, 2023.
-
 (a) *General.* The laboratory must meet the following requirements:
 
-(1) An audible alarm system must be used to monitor the storage temperature of specimens (donor and beneficiary) and reagents. The laboratory must have an emergency plan for alternate storage.
+(1) Use a continuous monitoring system and alert system to monitor the storage temperature of specimens (donor and recipient) and reagents and notify laboratory personnel when temperature limits are exceeded.
 
-(2) All patient specimens must be easily retrievable.
+(2) Establish and follow written policies and procedures for the storage and retention of specimens based on the specific type of specimen. All specimens must be easily retrievable. The laboratory must have an emergency plan for alternate storage.
 
-(3) Reagent typing sera inventory prepared in-house must indicate source, bleeding date and identification number, reagent specificity, and volume remaining.
+(3) If the laboratory uses immunologic reagents to facilitate or enhance the isolation or identification of lymphocytes or lymphocyte subsets, the efficacy of the methods must be monitored with appropriate quality control procedures.
 
-(4) If the laboratory uses immunologic reagents (for example, antibodies, antibody-coated particles, or complement) to facilitate or enhance the isolation of lymphocytes, or lymphocyte subsets, the efficacy of the methods must be monitored with appropriate quality control procedures.
+(4) Participate in at least one national or regional cell exchange program, if available, or develop an exchange system with another laboratory in order to validate interlaboratory reproducibility.
 
-(5) Participate in at least one national or regional cell exchange program, if available, or develop an exchange system with another laboratory in order to validate interlaboratory reproducibility.
+(b) *Human leukocyte antigen (HLA) typing.* The laboratory must do the following:
 
-(b) *HLA typing.* The laboratory must do the following:
+(1) Use HLA antigen terminology that conforms to the World Health Organization (WHO) Nomenclature Committee for Factors of the HLA System.
 
-(1) Use a technique(s) that is established to optimally define, as applicable, HLA Class I and II specificities.
+(2) Have available and follow written criteria for determining when antigen and allele typing are required.
 
-(2) HLA type all potential transplant beneficiaries at a level appropriate to support clinical transplant protocol and donor selection.
+(c) *Antibody screening and identification.* The laboratory must make a reasonable effort to have available monthly serum specimens for all potential transplant recipients for periodic antibody screening, identification, and crossmatch.
 
-(3) HLA type cells from organ donors referred to the laboratory.
+(d) *Crossmatching.* For each type of crossmatch that a laboratory performs, the laboratory must do the following, as applicable:
 
-(4) Use HLA antigen terminology that conforms to the latest report of the World Health Organization (W.H.O.) Committee on Nomenclature. Potential new antigens not yet approved by this committee must have a designation that cannot be confused with W.H.O. terminology.
-
-(5) Have available and follow written criteria for the following:
-
-(i) The preparation of cells or cellular extracts (for example, solubilized antigens and nucleic acids), as applicable to the HLA typing technique(s) performed.
-
-(ii) Selecting typing reagents, whether prepared in-house or commercially.
-
-(iii) Ensuring that reagents used for typing are adequate to define all HLA-A, B and DR specificities that are officially recognized by the most recent W.H.O. Committee on Nomenclature and for which reagents are readily available.
-
-(iv) The assignment of HLA antigens.
-
-(v) When antigen redefinition and retyping are required.
-
-(6) Check each HLA typing by testing, at a minimum the following:
-
-(i) A positive control material.
-
-(ii) A negative control material in which, if applicable to the technique performed, cell viability at the end of incubation is sufficient to permit accurate interpretation of results. In assays in which cell viability is not required, the negative control result must be sufficiently different from the positive control result to permit accurate interpretation of results.
-
-(iii) Positive control materials for specific cell types when applicable (that is, T cells, B cells, and monocytes).
-
-(c) *Disease-associated studies.* The laboratory must check each typing for disease-associated HLA antigens using control materials to monitor the test components and each phase of the test system to ensure acceptable performance.
-
-(d) *Antibody Screening.* The laboratory must do the following:
-
-(1) Use a technique(s) that detects HLA-specific antibody with a specificity equivalent or superior to that of the basic complement-dependent microlymphocytotoxicity assay.
-
-(2) Use a method that distinguishes antibodies to HLA Class II antigens from antibodies to Class I antigens to detect antibodies to HLA Class II antigens.
-
-(3) Use a panel that contains all the major HLA specificities and common splits. If the laboratory does not use commercial panels, it must maintain a list of individuals for fresh panel bleeding.
-
-(4) Make a reasonable attempt to have available monthly serum specimens for all potential transplant beneficiaries for periodic antibody screening and crossmatch.
-
-(5) Have available and follow a written policy consistent with clinical transplant protocols for the frequency of screening potential transplant beneficiary sera for preformed HLA-specific antibodies.
-
-(6) Check each antibody screening by testing, at a minimum the following:
-
-(i) A positive control material containing antibodies of the appropriate isotype for the assay.
-
-(ii) A negative control material.
-
-(7) As applicable, have available and follow written criteria and procedures for antibody identification to the level appropriate to support clinical transplant protocol.
-
-(e) *Crossmatching.* The laboratory must do the following:
-
-(1) Use a technique(s) documented to have increased sensitivity in comparison with the basic complement-dependent microlymphocytotoxicity assay.
+(1) Establish and follow written policies and procedures for performing a crossmatch.
 
 (2) Have available and follow written criteria for the following:
 
-(i) Selecting appropriate patient serum samples for crossmatching.
+(i) Defining donor and recipient HLA antigens, alleles, and antibodies to be tested;
 
-(ii) The preparation of donor cells or cellular extracts (for example, solubilized antigens and nucleic acids), as applicable to the crossmatch technique(s) performed.
+(ii) Defining the criteria necessary to assess a recipient's alloantibody status;
 
-(3) Check each crossmatch and compatibility test for HLA Class II antigenic differences using control materials to monitor the test components and each phase of the test system to ensure acceptable performance.
+(iii) Assessing recipient antibody presence or absence on an ongoing basis;
 
-(f) *Transplantation.* Laboratories performing histocompatibility testing for transfusion and transplantation purposes must do the following:
+(iv) Typing the donor, to include those HLA antigens to which antibodies have been identified in the potential recipient, as applicable;
 
-(1) Have available and follow written policies and protocols specifying the histocompatibility testing (that is, HLA typing, antibody screening, compatibility testing and crossmatching) to be performed for each type of cell, tissue or organ to be transfused or transplanted. The laboratory's policies must include, as applicable—
+(v) Describing the circumstances in which pre- and post-transplant confirmation testing of donor and recipient specimens is required;
 
-(i) Testing protocols for cadaver donor, living, living-related, and combined organ and tissue transplants;
+(vi) Making available all applicable donor and recipient test results to the transplant team;
 
-(ii) Testing protocols for patients at high risk for allograft rejection; and
+(vii) Ensuring immunologic assessments are based on test results obtained from a test report from a CLIA-certified laboratory; and
 
-(iii) The level of testing required to support clinical transplant protocols (for example, antigen or allele level).
+(viii) Defining time limits between recipient testing and the performance of a crossmatch.
 
-(2) For renal allotransplantation and combined organ and tissue transplants in which a kidney is to be transplanted, have available results of final crossmatches before the kidney is transplanted.
+(3) The test report must specify the type of crossmatch performed.
 
-(3) For nonrenal transplantation, if HLA testing and final crossmatches were not performed prospectively because of an emergency situation, the laboratory must document the circumstances, if known, under which the emergency transplant was performed, and records of the transplant must reflect any information provided to the laboratory by the patient's physician.
+(e) *Transplantation.* Laboratories performing histocompatibility testing for infusion and transplantation purposes must establish and follow written policies and procedures specifying the histocompatibility testing (that is, HLA typing, antibody screening and identification, and crossmatching) to be performed for each type of cell, tissue, or organ to be infused or transplanted. The laboratory's policies and procedures must include, as applicable—
 
-(g) *Documentation.* The laboratory must document all control procedures performed, as specified in this section.
+(1) Testing protocols that address:
 
-[68 FR 3703, Jan. 24, 2003; 68 FR 50724, Aug. 22, 2003]
+(i) Transplant type (organ, tissue, cell);
+
+(ii) Donor (living, deceased, or paired): and
+
+(iii) Recipient (high risk vs. unsensitized);
+
+(2) Type and frequency of testing required to support clinical transplant protocols; and
+
+(3) Process to obtain a recipient specimen, if possible, for crossmatch that is collected on the day of the transplant and prior to transplantation. If the laboratory is unable to obtain a recipient specimen on the day of the transplant, the laboratory must have a process to document its efforts to obtain the specimen.
+
+(f) *Documentation.* The laboratory must document all control procedures performed, as specified in this section.
+
+[88 FR 90038, Dec. 28, 2023]

@@ -1,5 +1,7 @@
 ##### § 51.57 Facilities. #####
 
+Link to an amendment published at 89 FR 106234, Dec. 30, 2024.
+
 Each packing plant shall be equipped with adequate sanitary facilities and accommodations, including but not being limited to the following:
 
 (a) There shall be a sufficient number of adequately lighted toilet rooms, ample in size and conveniently located. Toilet rooms shall be adequately screened and equipped with self-closing doors, and shall have independent outside ventilation;

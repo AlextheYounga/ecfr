@@ -1,0 +1,3 @@
+##### § 600.141 Recipient responsibilities. #####
+
+The standards contained in this section do not relieve the recipient of the contractual responsibilities arising under its contract(s). The recipient is the responsible authority, without recourse to DOE regarding the settlement and satisfaction of all contractual and administrative issues arising out of procurements entered into in support of an award or other agreement. This includes disputes, claims, protests of award, source evaluation or other matters of a contractual nature. Matters concerning violation of statute are to be referred to such Federal, State or local authority as may have proper jurisdiction.

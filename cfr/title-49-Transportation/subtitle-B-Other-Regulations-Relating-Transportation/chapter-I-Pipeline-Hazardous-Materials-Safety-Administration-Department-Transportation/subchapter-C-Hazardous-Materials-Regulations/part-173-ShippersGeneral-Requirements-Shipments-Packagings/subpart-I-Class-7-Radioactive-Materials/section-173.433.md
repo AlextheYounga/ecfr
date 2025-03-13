@@ -54,7 +54,7 @@
 
 (g) *Shipping papers and labeling.* For mixtures of radionuclides, the radionuclides (n) that must be shown on shipping papers and labels in accordance with §§ 172.203 and 172.403 of this subchapter, respectively, must be determined on the basis of the following formula:
 
-![](/graphics/er26ja04.008.gif)Where:n + m represents all the radionuclides in the mixture;m are the radionuclides that do not need to be considered;a(i) is the activity of radionuclide i in the mixture; andA(i) is the A1 or A2 value, as appropriate for radionuclide i.
+![](/graphics/er26ja04.008.gif)Where:n + m represents all the radionuclides in the mixture; m are the radionuclides that do not need to be considered; a(i) is the activity of radionuclide i in the mixture; andA(i) is the A1 or A2 value, as appropriate for radionuclide i.
 
 (h) Tables 7 and 8 are as follows:
 

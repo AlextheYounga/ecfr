@@ -34,7 +34,7 @@
 
 (4) *Manner of application.* (i) Steps exceeding 18 inches in depth shall have an additional tread and be laterally braced.
 
-(ii) Sill steps shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and, riveted over, or with1/2-inch rivets.
+(ii) Sill steps shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and, riveted over, or with 1/2-inch rivets.
 
 (e) *Side handholds*—(1) *Number.* Four or more.
 

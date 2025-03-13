@@ -1,7 +1,5 @@
 ##### § 253.2 Definitions. #####
 
-Link to an amendment published at 89 FR 87254, Oct. 31, 2024.Link to a correction published at 89 FR 104393, Dec. 23, 2024.
-
 *Disabled member* means a member of a household who:
 
 (1) Receives supplemental security income benefits under title XVI of the Social Security Act or disability or blindness payments under titles I, II, X, XIV, or XVI of the Social Security Act;
@@ -32,11 +30,15 @@ Link to an amendment published at 89 FR 87254, Oct. 31, 2024.Link to a correctio
 
 *Indian tribal household* means a household in which at least one household member is recognized as a tribal member by any Indian tribe, as defined in paragraph (d) of this section.
 
-*Indian tribal organization (ITO)* means: (1) The recognized governing body of any Indian tribe on a reservation; or (2) the tribally recognized intertribal organization which the recognized governing bodies of two or more Indian tribes on a reservation authorize to operate the Food Stamp Program or a Food Distribution Program on their behalf.
+*Indian Tribal Organization (ITO)* means:
+
+(1) The recognized governing body of any Indian tribe on a reservation; or
+
+(2) The tribally recognized intertribal organization which the recognized governing bodies of two or more Indian tribes on a reservation authorize to operate SNAP or a Food Distribution Program on their behalf.
 
 *Indian tribe* means (1) any Indian tribe, Band, or other organized Indian group, for example, a Rancheria, Pueblo, or colony, and including any Alaska Native village or regional or village corporation (established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688)), and that is on a reservation and recognized as eligible for Federal programs and services provided to Indians because of their status as Indians; or (2) any Indian tribe or Band on a reservation holding a treaty with a State government.
 
-*Overissuance* means the dollar value of commodities issued to a household that exceeds the dollar value of commodities it was eligible to receive.
+*Overissuance* means the dollar value of USDA Foods issued to a household that exceeds the dollar value of USDA Foods it was eligible to receive.
 
 *Reservation* means the geographically defined area or areas over which an ITO exercises governmental jurisdiction so long as such area or areas are legally recognized by the Federal or a State government as being set aside for the use of Indians.
 
@@ -44,10 +46,10 @@ Link to an amendment published at 89 FR 87254, Oct. 31, 2024.Link to a correctio
 
 *State agency* means:
 
-(1) The agency of State government, including the local offices thereof, which enters into an agreement with FNS for the distribution of commodities on all or part of an Indian reservation, and
+(1) The agency of State government, including the local offices thereof, which enters into an agreement with FNS for the distribution of USDA Foods on all or part of an Indian reservation, and
 
-(2) The ITO of any Indian tribe, determined by the Department to be capable of effectively administering a Food Distribution Program, which enters into an agreement with FNS for the distribution of commodities on all or part of an Indian reservation.
+(2) The ITO of any Indian tribe, determined by the Department to be capable of effectively administering a Food Distribution Program, which enters into an agreement with FNS for the distribution of USDA Foods on all or part of an Indian reservation.
 
-*Urban place* means a town or city with a population of 10,000 or more.
+(3) State agencies are also referred to as FDPIR administering agencies.
 
-[44 FR 35928, June 19, 1979. Redesignated and amended by Amdt. 1, 47 FR 14137, Apr. 2, 1982; 59 FR 1449, Jan. 11, 1994; 64 FR 73382, Dec. 30, 1999; 75 FR 4473, Jan. 28, 2010]
+[44 FR 35928, June 19, 1979. Redesignated and amended by Amdt. 1, 47 FR 14137, Apr. 2, 1982; 59 FR 1449, Jan. 11, 1994; 64 FR 73382, Dec. 30, 1999; 75 FR 4473, Jan. 28, 2010; 89 FR 87254, Oct. 31, 2024; 89 FR 104393, Dec. 23, 2024]

@@ -122,7 +122,7 @@
 
 (2) Except as otherwise provided in the procedural schedule adopted by the Board in any particular proceeding, petitions for waiver or clarification must be filed at least 45 days before the application is filed.
 
-(3) No replies to a petition for waiver will be permitted, except where a proceeding involving the same parties and a related transaction is pending before us.1 When a reply is permitted, the petition shall be served by first-class mail on all parties to the pending proceedings, with a reply due within 10 days of service. Replies to a petition for clarification shall be permitted within 10 days of the petition's filing.
+(3) No replies to a petition for waiver will be permitted, except where a proceeding involving the same parties and a related transaction is pending before us. 1 When a reply is permitted, the petition shall be served by first-class mail on all parties to the pending proceedings, with a reply due within 10 days of service. Replies to a petition for clarification shall be permitted within 10 days of the petition's filing.
 
 1 See *Itel Corp.—Control-Green Bay and W. R. Co.,* 354 I.C.C. 232, 233 (1978).
 
@@ -206,4 +206,4 @@
 
 (8) AAR compilations of bad order ratios, equipment ownership and repair statistics, and freight car order figures.
 
-[47 FR 9844, Mar. 8, 1982]Editorial Note:For Federal Register citations affecting § 1180.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[47 FR 9844, Mar. 8, 1982] Editorial Note:For Federal Register citations affecting § 1180.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

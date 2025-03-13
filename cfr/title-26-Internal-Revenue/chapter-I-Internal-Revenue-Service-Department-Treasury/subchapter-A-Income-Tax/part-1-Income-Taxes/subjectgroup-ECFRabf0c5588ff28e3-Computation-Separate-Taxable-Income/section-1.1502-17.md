@@ -1,6 +1,6 @@
 ##### § 1.1502-17 Methods of accounting. #####
 
-(a) *General rule.* The method of accounting to be used by each member of the group shall be determined in accordance with the provisions of section 446 as if such member filed a separate return. For treatment of depreciable property after a transfer within the group, see paragraph (g) of § 1.1502-12.
+(a) *General rule.* The method of accounting to be used by each member of the group is determined in accordance with the provisions of section 446 as if such member filed a separate return.
 
 (b) *Adjustments required if method of accounting changes*—(1) *General rule.* If a member of a group changes its method of accounting for a consolidated return year, the terms and conditions prescribed by the Commissioner under section 446(e), including section 481(a) where applicable, shall apply to the member. If the requirements of section 481(b) are met because applicable adjustments under section 481(a) are substantial, the increase in tax for any prior year shall be computed upon the basis of a consolidated return or a separate return, whichever was filed for such prior year.
 
@@ -20,6 +20,6 @@ Example 3. Changing inventory sub-method.(a) Corporation P is a member of a cons
 
 (b) Under paragraph (c) of this section, S must maintain two pools (manufacturing and resale) to the same extent that P would be required to maintain those pools under § 1.472-8 if it had not formed S.
 
-(e) *Effective dates.* Paragraph (b) of this section applies to changes in method of accounting effective for years beginning on or after July 12, 1995. For changes in method of accounting effective for years beginning before that date, see § 1.1502-17 (as contained in the 26 CFR part 1 edition revised as of April 1, 1995). Paragraphs (c) and (d) apply with respect to acquisitions occurring or activities undertaken in years beginning on or after July 12, 1995.
+(e) *Effective dates.* Paragraph (b) of this section applies to changes in method of accounting effective for years beginning on or after July 12, 1995. Paragraphs (c) and (d) of this section apply with respect to acquisitions occurring or activities undertaken in years beginning on or after July 12, 1995.
 
-[T.D. 6894, 31 FR 11794, Sept. 8, 1966, as amended by T.D. 8597, 60 FR 36708, July 18, 1995]
+[T.D. 6894, 31 FR 11794, Sept. 8, 1966, as amended by T.D. 8597, 60 FR 36708, July 18, 1995; T.D. 10018, 89 FR 106867, Dec. 30, 2024]

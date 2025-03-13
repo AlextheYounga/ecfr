@@ -2,7 +2,7 @@
 
 The caption summary must be in the following form. The information symbolized by numbers is identified in the key as follows:
 
-Surface Transportation BoardNotice of ExemptionSTB Finance Docket No.(1)—Exemption (2)-(3)
+Surface Transportation BoardNotice of ExemptionSTB Finance Docket No. (1)—Exemption (2)-(3)
 
 (1) Has filed a notice of exemption to (2) (3)'s line between (4). Comments must be filed with the Board and served on (5). (6). Key to symbols:
 

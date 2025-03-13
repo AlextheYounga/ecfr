@@ -1,0 +1,7 @@
+##### § 431.224 Uniform test method for the measurement of energy consumption for traffic signal modules and pedestrian modules. #####
+
+(a) *Scope.* This section provides the test procedures for measuring, pursuant to EPCA, the maximum wattage and nominal wattage of traffic signal modules and pedestrian modules. For purposes of 10 CFR part 431 and EPCA, the test procedures for measuring the maximum wattage and nominal wattage of traffic signal modules and pedestrian modules shall be the test procedures specified in § 431.223(b).
+
+(b) *Testing and Calculations.* Determine the nominal wattage and maximum wattage of each covered traffic signal module or pedestrian module by conducting the test procedure set forth in Environmental Protection Agency, “ENERGY STAR Program Requirements for Traffic Signals,” Version 1.1, section 1, “Definitions,” and section 4, “Test Criteria.” (Incorporated by reference, see § 431.223) Use a wattmeter having an accuracy of ±1% to measure the nominal wattage and maximum wattage of a red and green traffic signal module, and a pedestrian module when conducting the photometric and colormetric tests as specified by the testing procedures in VTCSH 2005.
+
+[71 FR 71373, Dec. 8, 2006]

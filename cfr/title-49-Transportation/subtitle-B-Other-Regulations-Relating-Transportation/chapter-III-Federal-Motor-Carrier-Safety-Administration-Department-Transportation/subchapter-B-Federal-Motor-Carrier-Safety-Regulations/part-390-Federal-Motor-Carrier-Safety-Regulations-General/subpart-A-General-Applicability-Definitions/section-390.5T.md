@@ -30,8 +30,7 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Charter transportation of passengers* means transportation, using a bus, of a group of persons who pursuant to a common purpose, under a single contract, at a fixed charge for the motor vehicle, have acquired the exclusive use of the motor vehicle to travel together under an itinerary either specified in advance or modified after having left the place of origin.
 
-*Coerce* or *Coercion* means
-either—
+*Coerce* or *Coercion* means either—
 
 (1) A threat by a motor carrier, shipper, receiver, or transportation intermediary, or their respective agents, officers or representatives, to withhold business, employment or work opportunities from, or to take or permit any adverse employment action against, a driver in order to induce the driver to operate a commercial motor vehicle under conditions which the driver stated would require him or her to violate one or more of the regulations, which the driver identified at least generally, that are codified at 49 CFR parts 171 through 173, 177 through 180, 380 through 383, or 390 through 399, or § 385.415 or § 385.421T of this chapter, or the actual withholding of business, employment, or work opportunities or the actual taking or permitting of any adverse employment action to punish a driver for having refused to engage in such operation of a commercial motor vehicle; or
 

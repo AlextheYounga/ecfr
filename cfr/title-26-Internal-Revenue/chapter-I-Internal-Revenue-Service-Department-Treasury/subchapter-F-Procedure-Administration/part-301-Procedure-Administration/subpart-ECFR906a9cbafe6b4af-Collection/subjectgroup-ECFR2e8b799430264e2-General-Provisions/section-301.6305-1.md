@@ -60,4 +60,4 @@ Upon request, the individual assessed shall be furnished a copy of pertinent par
 
 (e) *Internal Revenue regional service centers.* For purposes of this section, the terms “district director or his delegate” and “district director” include the director of the Internal Revenue service center or his delegate, as the case may be.
 
-(Sec. 7805, Internal Revenue Code of 1954 (68A Stat. 917; 26 U.S.C. 7805); sec. 2332(a) of the Omnibus Budget Reconciliation Act of 1981 (95 Stat. 357), amending sec. 464(a) of the Social Security Act (88 Stat. 2351))[T.D. 7576, 43 FR 59376, Dec. 20, 1978, as amended by T.D. 7808, 47 FR 5713, Feb. 8, 1982; T.D. 8939, 66 FR 2820, Jan. 12, 2001]Receipt of Payment
+(Sec. 7805, Internal Revenue Code of 1954 (68A Stat. 917; 26 U.S.C. 7805); sec. 2332(a) of the Omnibus Budget Reconciliation Act of 1981 (95 Stat. 357), amending sec. 464(a) of the Social Security Act (88 Stat. 2351)) [T.D. 7576, 43 FR 59376, Dec. 20, 1978, as amended by T.D. 7808, 47 FR 5713, Feb. 8, 1982; T.D. 8939, 66 FR 2820, Jan. 12, 2001] Receipt of Payment

@@ -91,7 +91,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)where:S = wall stress in pounds psi;P = mini
 
 (2) Specimens must conform to the following:
 
-(i) A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with width not over 11/2 inches, or a gauge length at least 24 times thickness with a width not over 6 times thickness (authorized when cylinder wall is not over1/16 inch thick).
+(i) A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with width not over 11/2 inches, or a gauge length at least 24 times thickness with a width not over 6 times thickness (authorized when cylinder wall is not over 1/16 inch thick).
 
 (ii) The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within one inch of each end of the reduced section.
 
@@ -107,7 +107,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)where:S = wall stress in pounds psi;P = mini
 
 (iii) For the purpose of strain measurement, the initial strain reference must be set while the specimen is under a stress of 12,000 psi and the strain indicator reading being set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
 
 (k) *Acceptable results for physical tests.* Physical properties must meet the limits specified in paragraph (o)(1), table 1, of this section, for the particular steel in the annealed condition. The specimens must show at least a 20 percent elongation for a 2-inch gage length. Except that the percentage may be reduced numerically by 2 for each 7,500 psi increment of tensile strength above 100,000 psi to a maximum of 5 such increments. Yield strength and tensile strength must meet the requirements of paragraph (o)(1), table 1, of this section.
 
@@ -129,7 +129,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)where:S = wall stress in pounds psi;P = mini
 
 (iv) For each 1,000 feet of weld made with the same heat of welding rod or wire.
 
-(v) All impact test specimens must be of the charpy type, keyhole or milled U-notch, and must conform in all respects to ASTM E 23 (IBR, see § 171.7 of this subchapter). Each set of impact specimens must be taken across the weld and have the notch located in the weld metal. When the cylinder material thickness is 2.5 mm or thicker, impact specimens must be cut from a cylinder or welded test plate used for the tensile or bend test specimens. The dimension along the axis of the notch must be reduced to the largest possible of 10 mm, 7.5 mm, 5 mm or 2.5 mm, depending upon cylinder thickness. When the material in the cylinder or welded test plate is not of sufficient thickness to prepare 2.5 mm impact test specimens, 2.5 mm specimens must be prepared from a welded test plate made from1/8 inch thick material meeting the requirements specified in paragraph (o)(1), table 1, of this section and having a carbon analysis of .05 minimum, but not necessarily from one of the heats used in the lot of cylinders. The test piece must be welded by the same welding procedure as used on the particular cylinder seam being qualified and must be subjected to the same heat treatment.
+(v) All impact test specimens must be of the charpy type, keyhole or milled U-notch, and must conform in all respects to ASTM E 23 (IBR, see § 171.7 of this subchapter). Each set of impact specimens must be taken across the weld and have the notch located in the weld metal. When the cylinder material thickness is 2.5 mm or thicker, impact specimens must be cut from a cylinder or welded test plate used for the tensile or bend test specimens. The dimension along the axis of the notch must be reduced to the largest possible of 10 mm, 7.5 mm, 5 mm or 2.5 mm, depending upon cylinder thickness. When the material in the cylinder or welded test plate is not of sufficient thickness to prepare 2.5 mm impact test specimens, 2.5 mm specimens must be prepared from a welded test plate made from 1/8 inch thick material meeting the requirements specified in paragraph (o)(1), table 1, of this section and having a carbon analysis of .05 minimum, but not necessarily from one of the heats used in the lot of cylinders. The test piece must be welded by the same welding procedure as used on the particular cylinder seam being qualified and must be subjected to the same heat treatment.
 
 (vi) Impact test specimens must be cooled to the design service temperature. The apparatus for testing the specimens must conform to requirements of ASTM Standard E 23. The test piece, as well as the handling tongs, must be cooled for a length of time sufficient to reach the service temperature. The temperature of the cooling device must be maintained within a range of plus or minus 3 °F. The specimen must be quickly transferred from the cooling device to the anvil of the testing machine and broken within a time lapse of not more than six seconds.
 

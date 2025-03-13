@@ -2,7 +2,7 @@
 
 (a) *Scope*—(1) *In general.* This section provides rules for determining whether a modification of the terms of a debt instrument results in an exchange for purposes of § 1.1001-1(a). This section applies to any modification of a debt instrument, regardless of the form of the modification. For example, this section applies to an exchange of a new instrument for an existing debt instrument, or to an amendment of an existing debt instrument. This section also applies to a modification of a debt instrument that the issuer and holder accomplish indirectly through one or more transactions with third parties. This section, however, does not apply to exchanges of debt instruments between holders.
 
-(2) *Qualified tender bonds.* This section does not apply for purposes of determining whether tax-exempt bonds that are qualified tender bonds are reissued for purposes of sections 103 and 141 through 150.
+(2) *Tax-exempt bonds.* For special rules governing whether tax-exempt bonds are retired for purposes of sections 103 and 141 through 150 of the Internal Revenue Code, *see* § 1.150-3.
 
 (b) *General rule.* For purposes of § 1.1001-1(a), a significant modification of a debt instrument, within the meaning of this section, results in an exchange of the original debt instrument for a modified instrument that differs materially either in kind or in extent. A modification that is not a significant modification is not an exchange for purposes of § 1.1001-1(a). Paragraphs (c) and (d) of this section define the term *modification* and contain examples illustrating the application of the rule. Paragraphs (e) and (f) of this section provide rules for determining when a modification is a significant modification. Paragraph (f) of this section also provides rules for determining whether the modified instrument received in an exchange will be classified as an instrument or property right that is not debt for federal income tax purposes. Paragraph (g) of this section contains examples illustrating the application of the rules in paragraphs (e) and (f) of this section.
 
@@ -86,7 +86,7 @@ Example 12. Alteration requiring consent.The original terms of a bond include a 
 
 (ii) *In general.* A change in the yield of a debt instrument is a significant modification if the yield computed under paragraph (e)(2)(iii) of this section varies from the annual yield on the unmodified instrument (determined as of the date of the modification) by more than the greater of—
 
-(A)1/4 of one percent (25 basis points); or
+(A) 1/4 of one percent (25 basis points); or
 
 (B) 5 percent of the annual yield of the unmodified instrument (.05 × annual yield).
 
@@ -246,4 +246,4 @@ Example 9. Improvement to collateral securing nonrecourse debt.A parcel of land 
 
 (2) *Exception.* Paragraph (f)(7) of this section applies to an alteration of the terms of a debt instrument on or after January 7, 2011. A taxpayer, however, may rely on paragraph (f)(7) of this section for alterations of the terms of a debt instrument occurring before that date.
 
-[T.D. 8675, 61 FR 32930, June 26, 1996; 61 FR 47822, Sept. 11, 1996; 76 FR 1064, Jan. 7, 2011; T.D. 9533, 76 FR 39282, July 6, 2011; T.D. 9637, 78 FR 54760, Sept. 6, 2013]
+[T.D. 8675, 61 FR 32930, June 26, 1996; 61 FR 47822, Sept. 11, 1996; 76 FR 1064, Jan. 7, 2011; T.D. 9533, 76 FR 39282, July 6, 2011; T.D. 9637, 78 FR 54760, Sept. 6, 2013; T.D. 10020, 89 FR 106320, Dec. 30, 2024]

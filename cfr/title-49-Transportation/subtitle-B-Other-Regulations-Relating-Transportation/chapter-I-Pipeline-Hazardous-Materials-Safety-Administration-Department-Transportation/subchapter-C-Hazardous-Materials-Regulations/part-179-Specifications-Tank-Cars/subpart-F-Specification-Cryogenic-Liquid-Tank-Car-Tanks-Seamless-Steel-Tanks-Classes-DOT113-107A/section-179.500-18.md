@@ -34,7 +34,7 @@ Steel used was verified as to chemical analysis and record thereof is attached h
 
 Before necking-down ends, each tank was measured at each location prescribed in § 179.500-4(c) and minimum wall thickness in inches at each location was recorded; maximum inside diameter in inches at each location was recorded; value of D in inches at each location was calculated and recorded; maximum fiber stress in wall at location showing larger value for
 
-(*D*2 + *d*2)/(*D*2−*d*2)was calculated for7/10 the marked test pressure and recorded. Calculations were made by the formula:*S*=[0.7*P*(*D*2−*d*2)/(*D*2 + *d*2)]
+(*D*2 + *d*2)/(*D*2−*d*2)was calculated for 7/10 the marked test pressure and recorded. Calculations were made by the formula:*S*=[0.7*P*(*D*2−*d*2)/(*D*2 + *d*2)]
 
 Hydrostatic tests, tensile test of material, and other tests as prescribed in this specification, were made in the presence of the inspector, and all material and tanks accepted were found to be in compliance with the requirements of this specification. Records thereof are attached hereto.
 

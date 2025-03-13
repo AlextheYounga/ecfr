@@ -1,5 +1,7 @@
 ##### § 51.59 Operations and operating procedures. #####
 
+Link to an amendment published at 89 FR 106234, Dec. 30, 2024.
+
 (a) The inspector shall refuse to permit the use of the official shield with grade mark or continuous inspection legend on packages if the produce is from a field or orchard having a disease or other condition which may not be apparent on individual specimens at packing time but which may cause the product to materially decrease in quality after packing.
 
 (b) All products which are certified shall be subjected to continuous inspection throughout the packing operations.

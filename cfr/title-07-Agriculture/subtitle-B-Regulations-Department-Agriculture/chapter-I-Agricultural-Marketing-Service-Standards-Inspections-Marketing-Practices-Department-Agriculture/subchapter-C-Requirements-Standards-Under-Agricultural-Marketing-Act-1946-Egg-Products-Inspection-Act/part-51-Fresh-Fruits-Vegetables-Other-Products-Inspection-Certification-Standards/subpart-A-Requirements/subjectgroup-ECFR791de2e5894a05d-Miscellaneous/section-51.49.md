@@ -1,5 +1,7 @@
 ##### § 51.49 Approved identifications. #####
 
+Link to an amendment published at 89 FR 106234, Dec. 30, 2024.
+
 (a) *Grade marks.* The approved shield mark with the appropriate U.S. grade designation may be used on containers, labels or otherwise indicated on the package when: (1) The product has been packed under continuous inspection as provided by the Inspection Service, (2) the plant in which the product is packed is maintained under good commercial sanitary practices, and (3) the product has been certified by an inspector as meeting the requirements of U.S. Grade A, U.S. Grade No. 1, or a higher U.S. grade as shown within the shield. The shields with approved grade designation for use shall be similar in form and design to the examples in figures 1 and 2 of this section.
 
 ![](/graphics/ec02se91.039.gif)![](/graphics/ec02se91.040.gif)

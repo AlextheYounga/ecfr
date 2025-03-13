@@ -8,7 +8,7 @@
 
 Draft Federal Register Notice. The petitioner shall submit a draft notice of its petition to be published by the Board within 20 days of the petition's filing with the Board. The draft notice shall be in the form set forth below:
 
-STB No. AB-\_\_\_ (Sub-No.\_\_\_)Notice of Petition for Exemption To Abandon or To Discontinue Service
+STB No. AB-\_\_\_ (Sub-No.\_\_\_) Notice of Petition for Exemption To Abandon or To Discontinue Service
 
 On (insert date petition was filed with the Board) (name of petitioner) filed with the Surface Transportation Board, Washington, D.C. 20423, a petition for exemption for the abandonment of (the discontinuance of service on) a line of railroad known as\_\_\_, extending from railroad milepost near (station name) to (the end of line or rail milepost) near (station name), which traverses through \_\_\_ (ZIP Codes) United States Postal Service ZIP Codes, a distance of \_\_\_ miles, in [County(ies), State(s)]. The line for which the abandonment (or discontinuance) exemption request was filed includes the stations of (list all stations on the line in order of milepost number, indicating milepost location).
 

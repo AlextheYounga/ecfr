@@ -1,5 +1,7 @@
 ##### § 50.2 Definitions. #####
 
+Link to an amendment published at 89 FR 106250, Dec. 30, 2024.
+
 As used in this part,
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto.
