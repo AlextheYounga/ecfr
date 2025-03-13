@@ -1,7 +1,5 @@
 ##### § 50.59 Changes, tests, and experiments. #####
 
-Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
-
 (a) Definitions for the purposes of this section:
 
 (1) *Change* means a modification or addition to, or removal from, the facility or procedures that affects a design function, method of performing or controlling the function, or an evaluation that demonstrates that intended functions will be accomplished.
@@ -30,7 +28,7 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (ii) Inconsistent with the analyses or descriptions in the final safety analysis report (as updated).
 
-(b) This section applies to each holder of an operating license issued under this part or a combined license issued under part 52 of this chapter, including the holder of a license authorizing operation of a nuclear power reactor that has submitted the certification of permanent cessation of operations required under § 50.82(a)(1) or § 50.110 or a reactor licensee whose license has been amended to allow possession of nuclear fuel but not operation of the facility.
+(b) This section applies to each holder of an operating license issued under this part or a combined license issued under part 52 of this chapter, including the holder of a license authorizing the operation of a nuclear power reactor that has submitted the certification of permanent cessation of operations required under § 50.82(a)(1) or § 50.110, a reactor licensee whose license has been amended to allow possession of nuclear fuel but not operation of the facility, or a non-power production or utilization facility that has permanently ceased operations.
 
 (c)(1) A licensee may make changes in the facility as described in the final safety analysis report (as updated), make changes in the procedures as described in the final safety analysis report (as updated), and conduct tests or experiments not described in the final safety analysis report (as updated) without obtaining a license amendment pursuant to § 50.90 only if:
 
@@ -66,4 +64,4 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (3) The records of changes in the facility must be maintained until the termination of an operating license issued under this part, a combined license issued under part 52 of this chapter, or the termination of a license issued under 10 CFR part 54, whichever is later. Records of changes in procedures and records of tests and experiments must be maintained for a period of 5 years.
 
-[64 FR 53613, Oct. 4, 1999, as amended at 66 FR 64738, Dec. 14, 2001; 72 FR 49500, Aug. 28, 2007; 89 FR 57720, July 16, 2024]
+[64 FR 53613, Oct. 4, 1999, as amended at 66 FR 64738, Dec. 14, 2001; 72 FR 49500, Aug. 28, 2007; 89 FR 57720, July 16, 2024; 89 FR 106251, Dec. 30, 2024]

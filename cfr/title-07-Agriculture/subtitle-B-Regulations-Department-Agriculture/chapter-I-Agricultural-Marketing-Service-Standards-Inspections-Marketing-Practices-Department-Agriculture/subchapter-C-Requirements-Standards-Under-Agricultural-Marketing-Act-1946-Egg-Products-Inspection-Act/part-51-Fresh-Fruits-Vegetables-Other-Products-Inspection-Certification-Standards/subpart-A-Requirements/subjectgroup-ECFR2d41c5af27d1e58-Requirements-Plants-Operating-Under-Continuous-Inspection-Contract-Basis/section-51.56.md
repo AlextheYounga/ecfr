@@ -1,6 +1,6 @@
 ##### § 51.56 Buildings and structures. #####
 
-Link to an amendment published at 89 FR 106234, Dec. 30, 2024.
+Link to an amendment published at 89 FR 106234, Dec. 30, 2024.This amendment was delayed until Mar. 20, 2025, at 90 FR 8367, Jan. 29, 2025.
 
 The packing plant buildings shall be properly constructed and maintained in a sanitary condition, including, but not limited to the following requirements:
 

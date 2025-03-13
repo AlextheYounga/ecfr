@@ -1,7 +1,5 @@
 ##### § 55.61 Modification and revocation of licenses. #####
 
-Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
-
 (a) The terms and conditions of all licenses are subject to amendment, revision, or modification by reason of rules, regulations, or orders issued in accordance with the Act or any amendments thereto.
 
 (b) Any license may be revoked, suspended, or modified, in whole or in part:
@@ -14,6 +12,6 @@ Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
 
 (4) For any conduct determined by the Commission to be a hazard to safe operation of the facility.
 
-(5) For the sale, use or possession of illegal drugs, or refusal to participate in the facility drug and alcohol testing program, or a confirmed positive test for drugs, drug metabolites, or alcohol in violation of the conditions and cutoff levels established by § 55.53(j) or the consumption of alcoholic beverages within the protected area of power reactors or the controlled access area of non-power reactors, or a determination of unfitness for scheduled work as a result of the consumption of alcoholic beverages.
+(5) For the sale, use or possession of illegal drugs, or refusal to participate in the facility drug and alcohol testing program, or a confirmed positive test for drugs, drug metabolites, or alcohol in violation of the conditions and cutoff levels established by § 55.53(j) or the consumption of alcoholic beverages within the protected area of power reactors or the controlled access area of utilization facilities licensed under 10 CFR part 50 that are not power reactors, or a determination of unfitness for scheduled work as a result of the consumption of alcoholic beverages.
 
-[52 FR 9460, Mar. 25, 1987, as amended at 56 FR 32070, July 15, 1991]
+[52 FR 9460, Mar. 25, 1987, as amended at 56 FR 32070, July 15, 1991; 89 FR 106253, Dec. 30, 2024]

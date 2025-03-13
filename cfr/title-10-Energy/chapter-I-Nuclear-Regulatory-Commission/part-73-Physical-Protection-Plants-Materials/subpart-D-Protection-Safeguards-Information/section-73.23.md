@@ -1,8 +1,6 @@
 ##### § 73.23 Protection of Safeguards Information—Modified Handling: Specific requirements. #####
 
-Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
-
-This section contains specific requirements for the protection of Safeguards Information in the hands of any person subject to the requirements of § 73.21(a)(1)(ii) and research and test reactors that possess special nuclear material of moderate strategic significance or special nuclear material of low strategic significance. The requirements of this section distinguish Safeguards Information requiring modified handling requirements (SGI-M) from the specific Safeguards Information handling requirements applicable to facilities and materials needing a higher level of protection, as set forth in § 73.22.
+This section contains specific requirements for the protection of Safeguards Information in the hands of any person subject to the requirements of § 73.21(a)(1)(ii) and non-power reactors that possess special nuclear material of moderate strategic significance or special nuclear material of low strategic significance. The requirements of this section distinguish Safeguards Information requiring modified handling requirements (SGI-M) from the specific Safeguards Information handling requirements applicable to facilities and materials needing a higher level of protection, as set forth in § 73.22.
 
 (a) *Information to be protected.* The types of information and documents that must be protected as Safeguards Information—Modified Handling include non-public security-related requirements such as protective measures, interim compensatory measures, additional security measures, and the following, as applicable:
 
@@ -104,4 +102,4 @@ If Safeguards Information designated as Safeguards Information-Modified Handling
 
 (i) *Destruction of matter containing Safeguards Information designated as Safeguards Information-Modified Handling.* Documents or other matter containing Safeguards Information shall be destroyed when no longer needed. The information can be destroyed by burning, shredding, or any other method that precludes reconstruction by means available to the public at large. Piece sizes no wider than one quarter inch composed of several pages or documents and thoroughly mixed are considered completely destroyed.
 
-[73 FR 63577, Oct. 24, 2008, as amended at 88 FR 15890, Mar. 14, 2023]
+[73 FR 63577, Oct. 24, 2008, as amended at 88 FR 15890, Mar. 14, 2023; 89 FR 106253, Dec. 30, 2024]

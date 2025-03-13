@@ -1,3 +1,5 @@
-##### § 51.56 xxx #####
+##### § 51.56 Environmental report—non-power production or utilization facility. #####
 
-Link to an amendment published at 89 FR 106252, Dec. 30, 2024.
+Each applicant for a non-power production or utilization construction permit or facility license, or renewal of a non-power production or utilization facility license issued pursuant to § 50.21(a) or (c) or § 50.22 of this chapter shall submit a separate document, entitled “Applicant's Environmental Report” or “Supplement to Applicant's Environmental Report,” as appropriate, with its application to: ATTN: Document Control Desk, Director, Office of Nuclear Reactor Regulation. The environmental report or supplement shall contain the information specified in § 51.45. If the application is for a renewal of a license for which the applicant has previously submitted an environmental report, the supplement, to the extent applicable, shall include an analysis of any environmental impacts resulting from operational experience or a change in operations, and an analysis of any environmental impacts that may result from proposed decommissioning activities.
+
+[89 FR 106252, Dec. 30, 2024]

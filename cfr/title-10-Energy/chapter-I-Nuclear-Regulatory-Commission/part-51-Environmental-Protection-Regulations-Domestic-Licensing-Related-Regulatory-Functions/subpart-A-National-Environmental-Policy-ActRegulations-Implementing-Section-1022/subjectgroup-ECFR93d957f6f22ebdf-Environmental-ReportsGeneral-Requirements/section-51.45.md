@@ -1,8 +1,6 @@
 ##### § 51.45 Environmental report. #####
 
-Link to an amendment published at 89 FR 106252, Dec. 30, 2024.
-
-(a) *General.* As required by §§ 51.50, 51.53, 51.54, 51.55, 51.60, 51.61, 51.62, or 51.68, as appropriate, each applicant or petitioner for rulemaking shall submit with its application or petition for rulemaking one signed original of a separate document entitled “Applicant's” or “Petitioner's Environmental Report,” as appropriate. An applicant or petitioner for rulemaking may submit a supplement to an environmental report at any time.
+(a) *General.* As required by §§ 51.50, 51.53, 51.54, 51.55, 51.56, 51.60, 51.61, 51.62, or 51.68, as appropriate, each applicant or petitioner for rulemaking shall submit with its application or petition for rulemaking one signed original of a separate document entitled “Applicant's” or “Petitioner's Environmental Report,” as appropriate. An applicant or petitioner for rulemaking may submit a supplement to an environmental report at any time.
 
 (b) *Environmental considerations.* The environmental report shall contain a description of the proposed action, a statement of its purposes, a description of the environment affected, and discuss the following considerations:
 
@@ -22,4 +20,4 @@ Link to an amendment published at 89 FR 106252, Dec. 30, 2024.
 
 (e) *Adverse information.* The information submitted pursuant to paragraphs (b) through (d) of this section should not be confined to information supporting the proposed action but should also include adverse information.
 
-[49 FR 9381, Mar. 12, 1984, as amended at 61 FR 28486, June 5, 1996; 61 FR 66542, Dec. 18, 1996; 68 FR 58810, Oct. 10, 2003; 72 FR 49511, Aug. 28, 2007; 72 FR 57443, Oct. 9, 2007; 73 FR 22787, Apr. 28, 2008; 76 FR 56965, Sept. 15, 2011]
+[49 FR 9381, Mar. 12, 1984, as amended at 61 FR 28486, June 5, 1996; 61 FR 66542, Dec. 18, 1996; 68 FR 58810, Oct. 10, 2003; 72 FR 49511, Aug. 28, 2007; 72 FR 57443, Oct. 9, 2007; 73 FR 22787, Apr. 28, 2008; 76 FR 56965, Sept. 15, 2011; 89 FR 106252, Dec. 30, 2024]

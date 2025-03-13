@@ -1,7 +1,5 @@
 ##### § 50.75 Reporting and recordkeeping for decommissioning planning. #####
 
-Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
-
 (a) This section establishes requirements for indicating to NRC how a licensee will provide reasonable assurance that funds will be available for the decommissioning process. For power reactor licensees (except a holder of a manufacturing license under part 52 of this chapter), reasonable assurance consists of a series of steps as provided in paragraphs (b), (c), (e), and (f) of this section. Funding for the decommissioning of power reactors may also be subject to the regulation of Federal or State Government agencies (e.g., Federal Energy Regulatory Commission (FERC) and State Public Utility Commissions) that have jurisdiction over rate regulation. The requirements of this section, in particular paragraph (c) of this section, are in addition to, and not substitution for, other requirements, and are not intended to be used by themselves or by other agencies to establish rates.
 
 (b) Each power reactor applicant for or holder of an operating license, and each applicant for a combined license under subpart C of 10 CFR part 52 for a production or utilization facility of the type and power level specified in paragraph (c) of this section shall submit a decommissioning report, as required by § 50.33(k).
@@ -29,7 +27,7 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (2) An adjustment factor at least equal to 0.65 L + 0.13 E + 0.22 B is to be used where L and E are escalation factors for labor and energy, respectively, and are to be taken from regional data of U.S. Department of Labor Bureau of Labor Statistics and B is an escalation factor for waste burial and is to be taken from NRC report NUREG-1307, “Report on Waste Burial Charges.”
 
-(d)(1) Each non-power reactor applicant for or holder of an operating license for a production or utilization facility shall submit a decommissioning report as required by § 50.33(k) of this part.
+(d)(1) Each applicant for or holder of an operating license for a non-power production or utilization facility shall submit a decommissioning report as required by § 50.33(k) of this part.
 
 (2) The report must:
 
@@ -61,7 +59,7 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (C) For commercial companies that issue bonds, a guarantee of funds by the applicant or licensee for decommissioning costs based on a financial test may be used if the guarantee and test are as contained in appendix C to 10 CFR part 30. For commercial companies that do not issue bonds, a guarantee of funds by the applicant or licensee for decommissioning costs may be used if the guarantee and test are as contained in appendix D to 10 CFR part 30. For non-profit entities, such as colleges, universities, and non-profit hospitals, a guarantee of funds by the applicant or licensee may be used if the guarantee and test are as contained in appendix E to 10 CFR part 30. A guarantee by the applicant or licensee may not be used in any situation in which the applicant or licensee has a parent company holding majority control of voting stock of the company.
 
-(iv) For a power reactor licensee that is a Federal licensee, or for a non-power reactor licensee that is a Federal, State, or local government licensee, a statement of intent containing a cost estimate for decommissioning, and indicating that funds for decommissioning will be obtained when necessary.
+(iv) For a power reactor licensee that is a Federal licensee, or for a non-power production or utilization facility licensee that is a Federal, State, or local government licensee, a statement of intent containing a cost estimate for decommissioning, and indicating that funds for decommissioning will be obtained when necessary.
 
 (v) Contractual obligation(s) on the part of a licensee's customer(s), the total amount of which over the duration of the contract(s) will provide the licensee's total share of uncollected funds estimated to be needed for decommissioning pursuant to §§ 50.75(c), 50.75(f), or § 50.82. To be acceptable to the NRC as a method of decommissioning funding assurance, the terms of the contract(s) shall include provisions that the electricity buyer(s) will pay for the decommissioning obligations specified in the contract(s), notwithstanding the operational status either of the licensed power reactor to which the contract(s) pertains or force majeure provisions. All proceeds from the contract(s) for decommissioning funding will be deposited to the external sinking fund. The NRC reserves the right to evaluate the terms of any contract(s) and the financial qualifications of the contracting entity or entities offered as assurance for decommissioning funding.
 
@@ -77,7 +75,7 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (3) Each power reactor licensee shall at or about 5 years prior to the projected end of operations submit a preliminary decommissioning cost estimate which includes an up-to-date assessment of the major factors that could affect the cost to decommission.
 
-(4) Each non-power reactor licensee shall at or about 2 years prior to the projected end of operations submit a preliminary decommissioning plan containing a cost estimate for decommissioning and an up-to-date assessment of the major factors that could affect planning for decommissioning. Factors to be considered in submitting this preliminary plan information include—
+(4) Each non-power production or utilization facility licensee shall at or about 2 years prior to the projected end of operations submit a preliminary decommissioning plan containing a cost estimate for decommissioning and an up-to-date assessment of the major factors that could affect planning for decommissioning. Factors to be considered in submitting this preliminary plan information include—
 
 (i) The decommissioning alternative anticipated to be used. The requirements of § 50.82(b)(4)(i) must be considered at this time;
 
@@ -89,7 +87,7 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (v) Other site specific factors which could affect decommissioning planning and cost.
 
-(5) If necessary, the cost estimate, for power and non-power reactors, shall also include plans for adjusting levels of funds assured for decommissioning to demonstrate that a reasonable level of assurance will be provided that funds will be available when needed to cover the cost of decommissioning.
+(5) If necessary, the cost estimate, for power reactors and non-power production or utilization facilities, shall also include plans for adjusting levels of funds assured for decommissioning to demonstrate that a reasonable level of assurance will be provided that funds will be available when needed to cover the cost of decommissioning.
 
 (g) Each licensee shall keep records of information important to the safe and effective decommissioning of the facility in an identified location until the license is terminated by the Commission. If records of relevant information are kept for other purposes, reference to these records and their locations may be used. Information the Commission considers important to decommissioning consists of—
 
@@ -129,4 +127,4 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (5) The provisions of paragraphs (h)(1) through (h)(3) of this section do not apply to any licensee that as of December 24, 2003, has existing license conditions relating to decommissioning trust agreements, so long as the licensee does not elect to amend those license conditions. If a licensee with existing license conditions relating to decommissioning trust agreements elects to amend those conditions, the license amendment shall be in accordance with the provisions of paragraph (h) of this section.
 
-[53 FR 24049, June 27, 1988, as amended at 58 FR 68731, Dec. 29, 1993; 59 FR 1618, Jan. 12, 1994; 61 FR 39301, July 29, 1996; 63 FR 50480, Sept. 22, 1998; 63 FR 57236, Oct. 27, 1998; 68 FR 19727, Apr. 22, 2003; 67 FR 78350, Dec. 24, 2002; 68 FR 12571, Mar. 17, 2003; 68 FR 65388, Nov. 20, 2003; 72 FR 49502, Aug. 28, 2007; 73 FR 5722, Jan. 31, 2008; 77 FR 35571, June 17, 2012; 83 FR 30288, June 28, 2018; 84 FR 65644, Nov. 29, 2019; 87 FR 68031, Nov. 14, 2022]
+[53 FR 24049, June 27, 1988, as amended at 58 FR 68731, Dec. 29, 1993; 59 FR 1618, Jan. 12, 1994; 61 FR 39301, July 29, 1996; 63 FR 50480, Sept. 22, 1998; 63 FR 57236, Oct. 27, 1998; 68 FR 19727, Apr. 22, 2003; 67 FR 78350, Dec. 24, 2002; 68 FR 12571, Mar. 17, 2003; 68 FR 65388, Nov. 20, 2003; 72 FR 49502, Aug. 28, 2007; 73 FR 5722, Jan. 31, 2008; 77 FR 35571, June 17, 2012; 83 FR 30288, June 28, 2018; 84 FR 65644, Nov. 29, 2019; 87 FR 68031, Nov. 14, 2022; 89 FR 106251, Dec. 30, 2024]

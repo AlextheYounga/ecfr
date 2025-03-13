@@ -1,17 +1,15 @@
 ##### § 140.11 Amounts of financial protection for certain reactors. #####
 
-Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
-
 (a) Each licensee is required to have and maintain financial protection:
 
 (1) In the amount of $1,000,000 for each nuclear reactor he is authorized to operate at a thermal power level not exceeding ten kilowatts;
 
 (2) In the amount of $1,500,000 for each nuclear reactor he is authorized to operate at a thermal power level in excess of ten kilowatts but not in excess of one megawatt;
 
-(3) In the amount of $2,500,000 for each nuclear reactor other than a testing reactor or a reactor licensed under section 104b of the Act which he is authorized to operate at a thermal power level exceeding one megawatt but not in excess of ten megawatts; and
+(3) In the amount of $2,500,000 for each nuclear reactor other than a testing facility or a reactor licensed under section 104b of the Act which he is authorized to operate at a thermal power level exceeding one megawatt but not in excess of ten megawatts; and
 
 (4) In an amount equal to the sum of $500,000,000 and the amount available as secondary financial protection (in the form of private liability insurance available under an industry retrospective rating plan providing for deferred premium charges equal to the pro rata share of the aggregate public liability claims and costs, excluding costs payment of which is not authorized by section 170o.(1)(D) of the Act, in excess of that covered by primary financial protection) for each nuclear reactor which is licensed to operate and which is designed for the production of electrical energy and has a rated capacity of 100,000 electrical kilowatts or more: Provided, however, that under such a plan for deferred premium charges for each nuclear reactor that is licensed to operate, no more than $158,026,000 with respect to any nuclear incident (plus any surcharge assessed under subsection 170o.(1)(E) of the Act) and no more than $24,714,000 per incident within one calendar year shall be charged. *Except that,* where a person is authorized to operate a combination of 2 or more nuclear reactors located at a single site, each of which has a rated capacity of 100,000 or more electrical kilowatts but not more than 300,000 electrical kilowatts with a combined rated capacity of not more than 1,300,000 electrical kilowatts, each such combination of reactors shall be considered to be a single nuclear reactor for the sole purpose of assessing the applicable financial protection required under this section.
 
 (b) In any case where a person is authorized under parts 50, 52, or 54 of this chapter to operate two or more nuclear reactors at the same location, the total primary financial protection required of the licensee for all such reactors is the highest amount which would otherwise be required for any one of those reactors; provided, that such primary financial protection covers all reactors at the location.
 
-[25 FR 2944, Apr. 7, 1960]Editorial Note:For Federal Register citations affecting § 140.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[25 FR 2944, Apr. 7, 1960, as amended at 89 FR 106253, Dec. 30, 2024]Editorial Note:For Federal Register citations affecting § 140.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

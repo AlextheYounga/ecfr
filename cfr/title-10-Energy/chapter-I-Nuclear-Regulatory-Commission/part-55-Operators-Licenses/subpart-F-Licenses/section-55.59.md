@@ -1,7 +1,5 @@
 ##### § 55.59 Requalification. #####
 
-Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
-
 (a) *Requalification requirements.* Each licensee shall—
 
 (1) Successfully complete a requalification program developed by the facility licensee that has been approved by the Commission. This program shall be conducted for a continuous period not to exceed 24 months in duration.
@@ -136,6 +134,6 @@ Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
 
 (6) *Alternative training programs.* The requirements of this section may be met by requalification programs conducted by persons other than the facility licensee if the requalification programs are similar to the program described in paragraphs (c) (1) through (5) of this section and the alternative program has been approved by the Commission.
 
-(7) *Applicability to research and test reactor facilities.* To accommodate specialized modes of operation and differences in control, equipment, and operator skills and knowledge, the requalification program for each licensed operator and senior operator of a research reactor or test reactor facility must conform generally but need not be identical to the requalification program outlined in paragraphs (c) (1) through (6) of this section. Significant deviations from the requirements of paragraphs (c) (1) through (6) of this section will be permitted only if supported by written justification and approved by the Commission.
+(7) *Applicability to utilization facilities licensed under 10 CFR part 50 that are not power reactors.* To accommodate specialized modes of operation and differences in control, equipment, and operator skills and knowledge, the requalification program for each licensed operator and senior operator of a utilization facility licensed under 10 CFR part 50 that is not a power reactor must conform generally but need not be identical to the requalification program outlined in paragraphs (c) (1) through (6) of this section. Significant deviations from the requirements of paragraphs (c) (1) through (6) of this section will be permitted only if supported by written justification and approved by the Commission.
 
-[52 FR 9460, Mar. 25, 1987, as amended at 59 FR 5938, Feb. 9, 1994; 66 FR 52668, Oct. 17, 2001, 81 FR 86909, Dec. 2, 2016]
+[52 FR 9460, Mar. 25, 1987, as amended at 59 FR 5938, Feb. 9, 1994; 66 FR 52668, Oct. 17, 2001, 81 FR 86909, Dec. 2, 2016; 89 FR 106253, Dec. 30, 2024]

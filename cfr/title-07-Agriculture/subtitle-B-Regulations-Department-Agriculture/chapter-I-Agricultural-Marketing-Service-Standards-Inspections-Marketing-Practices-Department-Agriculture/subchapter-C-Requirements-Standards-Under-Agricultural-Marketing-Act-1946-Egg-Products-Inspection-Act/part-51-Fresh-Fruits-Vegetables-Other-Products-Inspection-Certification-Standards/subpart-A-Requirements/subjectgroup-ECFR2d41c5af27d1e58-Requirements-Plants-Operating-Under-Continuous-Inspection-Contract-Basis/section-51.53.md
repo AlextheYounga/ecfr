@@ -1,5 +1,5 @@
 ##### § 51.53 Continuous inspections. #####
 
-Link to an amendment published at 89 FR 106234, Dec. 30, 2024.
+Link to an amendment published at 89 FR 106234, Dec. 30, 2024.This amendment was delayed until Mar. 20, 2025, at 90 FR 8367, Jan. 29, 2025.
 
 Continuous inspection service which is associated with the use of the approved shield showing the U.S. grade, the approved continuous inspection legend, or both, on the container may be furnished whenever inspectors are available, the facilities and conditions are satisfactory for the conduct of the service, and there is a signed contract between the applicant and the Department or a cooperative Federal-State Inspection Agency in which it is agreed that such service will be conducted subject to regulations governing the inspection and certification of fresh fruits, vegetables, and other products, contained in this part and any additional and supplemental instructions issued by the Department or such instructions issued by a cooperating agency which are not inconsistent with those issued by the Department.

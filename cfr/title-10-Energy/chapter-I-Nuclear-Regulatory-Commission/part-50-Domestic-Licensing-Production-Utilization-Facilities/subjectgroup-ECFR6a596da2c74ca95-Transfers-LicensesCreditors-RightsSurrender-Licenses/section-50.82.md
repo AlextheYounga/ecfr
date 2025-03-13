@@ -1,7 +1,5 @@
 ##### § 50.82 Termination of license. #####
 
-Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
-
 For power reactor licensees who, before the effective date of this rule, either submitted a decommissioning plan for approval or possess an approved decommissioning plan, the plan is considered to be the PSDAR submittal required under paragraph (a)(4) of this section and the provisions of this section apply accordingly. For power reactor licensees whose decommissioning plan approval activities have been relegated to notice of opportunity for a hearing under subpart G of 10 CFR part 2, the public meeting convened and 90-day delay of major decommissioning activities required in paragraphs (a)(4)(ii) and (a)(5) of this section shall not apply, and any orders arising from proceedings under subpart G of 10 CFR part 2 shall continue and remain in effect absent any orders from the Commission.
 
 (a) For power reactor licensees—
@@ -98,9 +96,9 @@ For power reactor licensees who, before the effective date of this rule, either 
 
 (ii) The final radiation survey and associated documentation, including an assessment of dose contributions associated with parts released for use before approval of the license termination plan, demonstrate that the facility and site have met the criteria for decommissioning in 10 CFR part 20, subpart E.
 
-(b) For non-power reactor licensees—
+(b) For non-power production or utilization facility licensees—
 
-(1) A licensee that permanently ceases operations must make application for license termination within 2 years following permanent cessation of operations, and in no case later than 1 year prior to expiration of the operating license. Each application for termination of a license must be accompanied or preceded by a proposed decommissioning plan. The contents of the decommissioning plan are specified in paragraph (b)(4) of this section.
+(1) A licensee that permanently ceases operations must make application for license termination within 2 years following permanent cessation of operations, and for testing facilities licensed under § 50.21(c) or facilities licensed under § 50.22, in no case later than 1 year prior to expiration of the operating license. Each application for termination of a license must be accompanied or preceded by a proposed decommissioning plan. The contents of the decommissioning plan are specified in paragraph (b)(4) of this section.
 
 (2) For decommissioning plans in which the major dismantlement activities are delayed by first placing the facility in storage, planning for these delayed activities may be less detailed. Updated detailed plans must be submitted and approved prior to the start of these activities.
 
@@ -130,6 +128,10 @@ For power reactor licensees who, before the effective date of this rule, either 
 
 (ii) The terminal radiation survey and associated documentation demonstrate that the facility and site are suitable for release in accordance with the criteria for decommissioning in 10 CFR part 20, subpart E.
 
-(c) For a facility that has permanently ceased operation before the expiration of its license, the collection period for any shortfall of funds will be determined, upon application by the licensee, on a case-by-case basis taking into account the specific financial situation of each licensee.
+(c) The collection period for any shortfall of funds will be determined, upon application by the licensee, on a case-by-case basis taking into account the specific financial situation of each holder of the following licenses:
 
-[61 FR 39301, July 29, 1996, as amended at 62 FR 39091, July 21, 1997; 68 FR 19727, Apr. 22, 2003; 76 FR 35571, June 17, 2011; 79 FR 66603, Nov. 10, 2014; 89 FR 57720, July 16, 2024]
+(1) A non-power production or utilization facility licensed under § 50.21(a) or (c), other than a testing facility, that has permanently ceased operations.
+
+(2) A facility licensed under § 50.21(b) or § 50.22, or a testing facility, that has permanently ceased operation before the expiration of its license.
+
+[61 FR 39301, July 29, 1996, as amended at 62 FR 39091, July 21, 1997; 68 FR 19727, Apr. 22, 2003; 76 FR 35571, June 17, 2011; 79 FR 66603, Nov. 10, 2014; 89 FR 57720, July 16, 2024; 89 FR 106251, Dec. 30, 2024]

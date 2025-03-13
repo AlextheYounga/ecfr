@@ -1,7 +1,5 @@
 ##### § 50.2 Definitions. #####
 
-Link to an amendment published at 89 FR 106250, Dec. 30, 2024.
-
 As used in this part,
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto.
@@ -140,7 +138,21 @@ As used in this part,
 
 *Non-power production or utilization facility* means a production or utilization facility, licensed under § 50.21(a) or (c), or § 50.22, as applicable, that is not a nuclear power reactor or a production facility as defined under paragraphs (1) and (2) of the definition of *Production facility* in this section.
 
-*Non-power reactor* means a research or test reactor licensed under §§ 50.21(c) or 50.22 of this part for research and development.
+*Non-power reactor* means:
+
+(1) A testing facility; or
+
+(2) A research reactor, which is a non-power production or utilization facility that is a nuclear reactor licensed under § 50.21(c):
+
+(i) For which a safety assessment demonstrates accident radiation doses consistent with § 50.34(a)(1)(i); and
+
+(ii) That is not a testing facility; or
+
+(3) A commercial or industrial reactor, which is a non-power production or utilization facility that is a nuclear reactor licensed under § 50.22:
+
+(i) For which a safety assessment demonstrates accident radiation doses consistent with § 50.34(a)(1)(i); and
+
+(ii) That is not a testing facility.
 
 *Notification* means the telephonic communication to the NRC Operations Center or written transmittal of information to the NRC Document Control Desk.
 
@@ -210,17 +222,11 @@ For nuclear power reactors of the direct cycle boiling water type, the reactor c
 
 *Substantial safety hazard* means, for the purposes of § 50.55(e) of this chapter, a loss of safety function to the extent that there is a major reduction in the degree of protection provided to public health and safety for any facility or activity authorized by the construction permit issued under this part.
 
-*Testing facility* means a nuclear reactor which is of a type described in § 50.21(c) of this part and for which an application has been filed for a license authorizing operation at:
+*Testing facility* means a non-power production or utilization facility that is a nuclear reactor licensed under § 50.21(c) or § 50.22 for which:
 
-(1) A thermal power level in excess of 10 megawatts; or
+(1) Analyzed accident radiation doses are in excess of the dose criterion for facilities not subject to 10 CFR part 100 set forth in § 50.34(a)(1)(i); or
 
-(2) A thermal power level in excess of 1 megawatt, if the reactor is to contain:
-
-(i) A circulating loop through the core in which the applicant proposes to conduct fuel experiments; or
-
-(ii) A liquid fuel loading; or
-
-(iii) An experimental facility in the core in excess of 16 square inches in cross-section.
+(2) The Commission determines that the design, operation, or use and the associated risk warrant classification as a testing facility.
 
 *Total Effective Dose Equivalent* (TEDE) means the sum of the effective dose equivalent (for external exposures) and the committed effective dose equivalent (for internal exposures).
 

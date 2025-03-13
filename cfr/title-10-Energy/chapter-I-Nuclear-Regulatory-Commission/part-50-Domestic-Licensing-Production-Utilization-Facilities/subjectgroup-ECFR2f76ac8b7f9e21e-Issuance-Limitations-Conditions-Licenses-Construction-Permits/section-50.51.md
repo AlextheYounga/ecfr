@@ -1,8 +1,6 @@
 ##### § 50.51 Continuation of license. #####
 
-Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
-
-(a) Each license will be issued for a fixed period of time to be specified in the license but in no case to exceed 40 years from date of issuance. Where the operation of a facility is involved, the Commission will issue the license for the term requested by the applicant or for the estimated useful life of the facility if the Commission determines that the estimated useful life is less than the term requested. Where construction of a facility is involved, the Commission may specify in the construction permit the period for which the license will be issued if approved pursuant to § 50.56. Licenses may be renewed by the Commission upon the expiration of the period. Renewal of operating licenses for nuclear power plants is governed by 10 CFR part 54. Application for termination of license is to be made pursuant to § 50.82.
+(a) Except as noted in § 50.51(c), each license will be issued for a fixed period of time to be specified in the license but in no case to exceed 40 years from date of issuance. Where the operation of a facility is involved, the Commission will issue the license for the term requested by the applicant or for the estimated useful life of the facility if the Commission determines that the estimated useful life is less than the term requested. Where construction of a facility is involved, the Commission may specify in the construction permit the period for which the license will be issued if approved pursuant to § 50.56. Licenses may be renewed by the Commission upon the expiration of the period. Renewal of operating licenses for nuclear power plants is governed by 10 CFR part 54. Application for termination of license is to be made pursuant to § 50.82.
 
 (b) Each license for a facility that has permanently ceased operations, continues in effect beyond the expiration date to authorize ownership and possession of the production or utilization facility, until the Commission notifies the licensee in writing that the license is terminated. During such period of continued effectiveness the licensee shall—
 
@@ -10,4 +8,6 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (2) Conduct activities in accordance with all other restrictions applicable to the facility in accordance with the NRC regulations and the provisions of the specific 10 CFR part 50 license for the facility.
 
-[56 FR 64976, Dec. 13, 1991, as amended at 61 FR 39300, July 29, 1996]
+(c) Each non-power production or utilization facility license issued under § 50.21(a) or (c), other than a testing facility license, after January 29, 2025, will be issued with no fixed license term.
+
+[56 FR 64976, Dec. 13, 1991, as amended at 61 FR 39300, July 29, 1996; 89 FR 106251, Dec. 30, 2024]

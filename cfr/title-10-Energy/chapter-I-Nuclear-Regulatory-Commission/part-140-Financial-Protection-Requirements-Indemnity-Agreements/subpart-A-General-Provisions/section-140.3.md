@@ -1,7 +1,5 @@
 ##### § 140.3 Definitions. #####
 
-Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
-
 As used in this part:
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto.
@@ -48,17 +46,7 @@ As used in this part:
 
 (2) Any material artificially enriched by any of the foregoing, but does not include source material.
 
-*Testing reactor* means a nuclear reactor which is of a type described in § 50.21(c) of this chapter and for which an application has been filed for a license authorizing operation at:
-
-(1) A thermal power level in excess of 10 megawatts; or
-
-(2) A thermal power level in excess of 1 megawatt, if the reactor is to contain:
-
-(i) A circulating loop through the core in which the applicant proposes to conduct fuel experiments; or
-
-(ii) A liquid fuel loading; or
-
-(iii) An experimental facility in the core in excess of 16 square inches in cross-section.
+*Testing facility* is defined at 10 CFR 50.2.
 
 *Uranium enrichment facility* means:
 
@@ -66,4 +54,4 @@ As used in this part:
 
 (2) Any equipment or device, or important component part especially designed for such equipment or device, capable of separating the isotopes of uranium or enriching uranium in the isotope 235.
 
-[83 FR 30288, June 28, 2018]
+[83 FR 30288, June 28, 2018, as amended at 89 FR 106253, Dec. 30, 2024]

@@ -1,7 +1,5 @@
 ##### § 20.1905 Exemptions to labeling requirements. #####
 
-Link to an amendment published at 89 FR 106250, Dec. 30, 2024.
-
 A licensee is not required to label—
 
 (a) Containers holding licensed material in quantities less than the quantities listed in appendix C to part 20; or
@@ -18,7 +16,7 @@ A licensee is not required to label—
 
 (f) Installed manufacturing or process equipment, such as reactor components, piping, and tanks; or
 
-(g) Containers holding licensed material (other than sealed sources that are either specifically or generally licensed) at a facility licensed under Parts 50 or 52 of this chapter, not including non-power reactors, that are within an area posted under the requirements in § 20.1902 if the containers are:
+(g) Containers holding licensed material (other than sealed sources that are either specifically or generally licensed) at a facility licensed under Parts 50 or 52 of this chapter, not including non-power production or utilization facilities, that are within an area posted under the requirements in § 20.1902 if the containers are:
 
 (1) Conspicuously marked (such as by providing a system of color coding of containers) commensurate with the radiological hazard;
 
@@ -26,4 +24,4 @@ A licensee is not required to label—
 
 (3) Subject to plant procedures to ensure they are appropriately labeled, as specified at § 20.1904 before being removed from the posted area.
 
-[56 FR 23401, May 21, 1991, as amended at 60 FR 20185, Apr. 25, 1995; 72 FR 68059, Dec. 4, 2007]
+[56 FR 23401, May 21, 1991, as amended at 60 FR 20185, Apr. 25, 1995; 72 FR 68059, Dec. 4, 2007; 89 FR 106250, Dec. 30, 2024]

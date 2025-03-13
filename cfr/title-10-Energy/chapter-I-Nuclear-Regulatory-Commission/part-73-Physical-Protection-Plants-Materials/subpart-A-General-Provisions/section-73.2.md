@@ -1,7 +1,5 @@
 ##### § 73.2 Definitions. #####
 
-Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
-
 As used in this part:
 
 (a) Terms defined in parts 50, 52, 70, and 95 of this chapter have the same meaning when used in this part.
@@ -85,6 +83,8 @@ As used in this part:
 *NICS response* means a response provided by the FBI, as the result of a firearms background check against the NICS. A NICS response provided by the FBI may be “proceed,” “delayed,” or “denied.”
 
 *NICS transaction number* or *NTN* means the identification number created by the FBI to track firearms background checks upon entry of the information into the FBI's system. The NICS response and the NTN are the information returned by the FBI, following a firearms background check.
+
+*Non-power reactor* is defined at 10 CFR 50.2.
 
 *Person* means (1) any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, government agency other than the Commission or the Department of Energy (DOE), (except that the DOE shall be considered a person to the extent that its facilities are subject to the licensing and related regulatory authority of the Commission pursuant to section 202 of the Energy Reorganization Act of 1974 and sections 104, 105, and 202 of the Uranium Mill Tailings Radiation Control Act of 1978), any state or political subdivision of a state, or any political subdivision of any government or nation, or other entity; and (2) any legal successor, representative, agent, or agency of the foregoing.
 

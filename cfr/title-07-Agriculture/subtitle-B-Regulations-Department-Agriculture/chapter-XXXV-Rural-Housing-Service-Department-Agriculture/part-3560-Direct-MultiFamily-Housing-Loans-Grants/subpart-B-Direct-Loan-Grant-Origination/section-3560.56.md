@@ -1,6 +1,6 @@
 ##### § 3560.56 Processing section 515 housing proposals. #####
 
-Link to an amendment published at 89 FR 106980, Dec. 31, 2024.
+Link to an amendment published at 89 FR 106980, Dec. 31, 2024.Link to a delay of the above amendment published at 90 FR 8367, Jan. 29, 2025.
 
 Processing requirements for farm labor housing proposals are found in subpart L of this part for Off-Farm and subpart M of this part for On-Farm.
 

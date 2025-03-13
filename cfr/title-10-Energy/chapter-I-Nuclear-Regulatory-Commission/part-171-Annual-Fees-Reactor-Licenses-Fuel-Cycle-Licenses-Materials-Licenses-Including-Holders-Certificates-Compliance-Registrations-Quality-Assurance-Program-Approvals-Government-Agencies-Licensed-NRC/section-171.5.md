@@ -1,7 +1,5 @@
 ##### § 171.5 Definitions. #####
 
-Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
-
 *Budget* means the funds appropriated by Congress for the NRC for each fiscal year, and if that appropriation is not passed on or before September 1 for that fiscal year, the funds most recently appropriated by Congress for the most recent fiscal year.
 
 *Budget authority* means the authority, in the form of an appropriation, provided by law and becoming available during the year, to enter into obligations that will result in immediate or future outlays involving Federal Government funds. The appropriation is an authorization by an Act of Congress that permits the NRC to incur obligations and to make payments out of the Treasury for specified purposes. Fees assessed pursuant to Public Law 115-439 are based on the NRC's budget authority.
@@ -66,7 +64,7 @@ Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
 
 *Registration holder* as used in this part means any manufacturer or initial distributor of a sealed source or device containing a sealed source that holds a certificate of registration issued by the NRC or a holder of a registration for a sealed source or device manufactured in accordance with the unique specifications of, and for use by, a single applicant.
 
-*Research reactor* means a nuclear reactor licensed by the Commission under the authority of subsection 104c of the Act and pursuant to the provisions of § 50.21(c) of this chapter for operation at a thermal power level of 10 megawatts or less, and which is not a testing facility as defined in this section.
+*Research reactor* is defined at 10 CFR 170.3.
 
 *Small modular reactor (SMR)* for the purposes of calculating fees means the class of power reactors having a licensed thermal power rating less than or equal to 1,000 MWt per module. This rating is based on the thermal power equivalent of an SMR with an electrical power generating capacity of 300 MWe or less per module.
 
@@ -92,20 +90,10 @@ Source material does not include special nuclear material.
 
 (2) Any material artificially enriched by any of the foregoing, but does not include source material.
 
-*Testing facility* means a nuclear reactor licensed by the Commission under the authority of subsection 104c of the Act and pursuant to the provisions of § 50.21(c) of this chapter for operation at:
-
-(1) A thermal power level in excess of 10 megawatts; or
-
-(2) A thermal power level in excess of 1 megawatt, if the reactor is to contain:
-
-(i) A circulating loop through the core in which the applicant proposes to conduct fuel experiments; or
-
-(ii) A liquid fuel loading; or
-
-(iii) An experimental facility in the core in excess of 16 square inches in cross-section.
+*Testing facility* is defined at 10 CFR 50.2.
 
 *Variable fee* means an annual fee component that is added to the minimum fee. The variable fee is designed to gradually increase as licensed thermal power capacity is added within the bundled unit fee assessment tier. The variable fee is calculated as the product of the incremental increase in the thermal power rating multiplied by the variable rate.
 
 *Variable rate* means the factor used to calculate the variable fee component of the annual fee. To determine the total annual fee, the incremental increase in the licensed thermal power rating within the fee assessment tier is multiplied by the variable rate resulting in a variable fee that is added to the minimum fee. There is a different factor for each SMR or bundled unit fee assessment tier. Each factor represents the difference between the lower licensed thermal power rating within each tier and the actual thermal power rating for the unit or site.
 
-[51 FR 33230, Sept. 18, 1986, as amended at 53 FR 52652, Dec. 29, 1988; 56 FR 31505, July 10, 1991; 57 FR 32714, July 23, 1992; 58 FR 38695, July 20, 1993; 65 FR 36964, June 12, 2000; 66 FR 32474, June 14, 2001; 67 FR 42634, June 24, 2002; 71 FR 30752, May 30, 2006; 72 FR 35936, Oct. 1, 2007; 81 FR 32627, May 24, 2016; 81 FR 45964, July 15, 2016; 83 FR 29652, June 25, 2018; 86 FR 32177, June 16, 2021; 88 FR 39145, June 15, 2023]
+[51 FR 33230, Sept. 18, 1986, as amended at 53 FR 52652, Dec. 29, 1988; 56 FR 31505, July 10, 1991; 57 FR 32714, July 23, 1992; 58 FR 38695, July 20, 1993; 65 FR 36964, June 12, 2000; 66 FR 32474, June 14, 2001; 67 FR 42634, June 24, 2002; 71 FR 30752, May 30, 2006; 72 FR 35936, Oct. 1, 2007; 81 FR 32627, May 24, 2016; 81 FR 45964, July 15, 2016; 83 FR 29652, June 25, 2018; 86 FR 32177, June 16, 2021; 88 FR 39145, June 15, 2023; 89 FR 106253, Dec. 30, 2024]

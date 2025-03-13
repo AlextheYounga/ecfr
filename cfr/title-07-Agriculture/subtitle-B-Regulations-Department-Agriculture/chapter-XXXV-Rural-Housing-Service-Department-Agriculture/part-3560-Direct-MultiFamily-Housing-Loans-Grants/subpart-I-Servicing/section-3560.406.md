@@ -1,6 +1,6 @@
 ##### § 3560.406 MFH ownership transfers or sales. #####
 
-Link to an amendment published at 89 FR 106980, Dec. 31, 2024.
+Link to an amendment published at 89 FR 106980, Dec. 31, 2024.Link to a delay of the above amendment published at 90 FR 8367, Jan. 29, 2025.
 
 (a) *General.* The provisions of this section apply to ownership transfers or sales (e.g., title transfers) involving an Agency financed housing project. The provisions cover situations where Agency loans are being assumed as a part of a housing project transfer or sale.
 

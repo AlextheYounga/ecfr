@@ -1,6 +1,6 @@
 ##### § 51.46 Denial of inspection service. #####
 
-Link to an amendment published at 89 FR 106234, Dec. 30, 2024.
+Link to an amendment published at 89 FR 106234, Dec. 30, 2024.This amendment was delayed until Mar. 20, 2025, at 90 FR 8367, Jan. 29, 2025.
 
 Any or all benefits of the act may be denied any person for any of the following reasons: (a) Any willful misrepresentation or deceptive or fraudulent practice made or committed by any person in connection with the making or filing of an application for inspection service; (b) any fradulent or unauthorized use, alteration, or imitation of any certificate issued pursuant to the regulations in this subpart; (c) any interference with or obstruction of any inspector or official sampler in the performance of his duties, by intimidation, threat, assault or any other improper means; or (d) any willful violation of the regulations in this subpart may be deemed sufficient cause for debarring the person found guilty thereof from any or all benefits of the acts, after notice and opportunity for hearing has been accorded him. The Rules of Practice Governing Formal Adjudicatory Proceedings Instituted by the Secretary Under Various Statutes set forth in §§ 1.130 through 1.151 of this title and the Supplemental Rules of Practice in part 50 of this chapter shall govern proceedings conducted pursuant to this section.
 

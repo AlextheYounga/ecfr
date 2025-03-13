@@ -1,7 +1,5 @@
 ##### § 50.36 Technical specifications. #####
 
-Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
-
 (a)(1) Each applicant for a license authorizing operation of a production or utilization facility shall include in his application proposed technical specifications in accordance with the requirements of this section. A summary statement of the bases or reasons for such specifications, other than those covering administrative controls, shall also be included in the application, but shall not become part of the technical specifications.
 
 (2) Each applicant for a design certification or manufacturing license under part 52 of this chapter shall include in its application proposed generic technical specifications in accordance with the requirements of this section for the portion of the plant that is within the scope of the design certification or manufacturing license application.
@@ -38,7 +36,7 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (5) *Administrative controls.* Administrative controls are the provisions relating to organization and management, procedures, recordkeeping, review and audit, and reporting necessary to assure operation of the facility in a safe manner. Each licensee shall submit any reports to the Commission pursuant to approved technical specifications as specified in § 50.4.
 
-(6) *Decommissioning.* This paragraph applies only to nuclear power reactor facilities that have submitted the certifications required by § 50.82(a)(1) and to non-power reactor facilities which are not authorized to operate. Technical specifications involving safety limits, limiting safety system settings, and limiting control system settings; limiting conditions for operation; surveillance requirements; design features; and administrative controls will be developed on a case-by-case basis.
+(6) *Decommissioning.* This paragraph applies only to nuclear power reactor facilities that have submitted the certifications required by § 50.82(a)(1) and to non-power production or utilization facilities which are not authorized to operate. Technical specifications involving safety limits, limiting safety system settings, and limiting control system settings; limiting conditions for operation; surveillance requirements; design features; and administrative controls will be developed on a case-by-case basis.
 
 (7) *Initial notification.* Reports made to the Commission by licensees in response to the requirements of this section must be made as follows:
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 106251, Dec. 30, 2024.
 
 (e) The provisions of this section apply to each nuclear reactor licensee whose authority to operate the reactor has been removed by license amendment, order, or regulation.
 
-[33 FR 18612, Dec. 17, 1968, as amended at 48 FR 33860, July 26, 1983; 51 FR 40308, Nov. 6, 1986; 53 FR 19249, May 27, 1988; 60 FR 36959, July 19, 1995; 61 FR 39299, July 29, 1996; 72 FR 49493, Aug. 28, 2007; 73 FR 54932, Sept. 24, 2008; 84 FR 63568, Nov. 18, 2019]
+[33 FR 18612, Dec. 17, 1968, as amended at 48 FR 33860, July 26, 1983; 51 FR 40308, Nov. 6, 1986; 53 FR 19249, May 27, 1988; 60 FR 36959, July 19, 1995; 61 FR 39299, July 29, 1996; 72 FR 49493, Aug. 28, 2007; 73 FR 54932, Sept. 24, 2008; 84 FR 63568, Nov. 18, 2019; 89 FR 106251, Dec. 30, 2024]

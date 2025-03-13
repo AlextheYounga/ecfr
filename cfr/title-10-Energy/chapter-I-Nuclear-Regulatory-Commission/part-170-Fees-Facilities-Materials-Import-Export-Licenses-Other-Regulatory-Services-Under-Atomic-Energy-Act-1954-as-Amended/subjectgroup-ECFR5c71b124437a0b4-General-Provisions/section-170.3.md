@@ -1,7 +1,5 @@
 ##### § 170.3 Definitions. #####
 
-Link to an amendment published at 89 FR 106253, Dec. 30, 2024.
-
 As used in this part:
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto;
@@ -88,7 +86,11 @@ As used in this part:
 
 (iii) Facilities in which processing is conducted pursuant to a license issued under parts 30 and 70 of this chapter, or equivalent regulations of an Agreement State, for the receipt, possession, use, and transfer of irradiated special nuclear material, which authorizes the processing of the irradiated material on a batch basis for the separation of selected fission products and limits the process batch to not more than 100 grams of uranium enriched in the isotope 235 and not more than 15 grams of any other special nuclear material.
 
-*Research reactor* means a nuclear reactor licensed by the Commission under the authority of subsection 104c of the Act and pursuant to the provisions of § 50.21(c) of this chapter for operation at a thermal power level of 10 megawatts or less, and which is not a *testing facility* as defined in this section.
+*Research reactor* means a non-power production or utilization facility, as defined in 10 CFR 50.2, that is a nuclear reactor licensed under 10 CFR 50.21(c):
+
+(i) For which a safety assessment demonstrates accident radiation doses consistent with 10 CFR 50.34(a)(1)(i); and
+
+(ii) That is not a testing facility.
 
 *Sealed source* means any byproduct material that is encased in a capsule designed to prevent leakage or escape of the byproduct material.
 
@@ -116,17 +118,7 @@ As used in this part:
 
 *Special projects* means specific services provided by the Commission for which fees are not otherwise specified in this chapter. This includes, but is not limited to, contested hearings on licensing actions directly related to U.S. Government national security initiatives (as determined by the NRC), topical report reviews, early site reviews, waste solidification activities, activities related to the tracking and monitoring of shipment of classified matter, services provided to certify licensee, vendor, or other private industry personnel as instructors for 10 CFR part 55 reactor operators, reviews of financial assurance submittals that do not require a license amendment, reviews of responses to Confirmatory Action Letters, reviews of uranium recovery licensees' land-use survey reports, and reviews of 10 CFR 50.71 final safety analysis reports. Special projects does not include activities otherwise exempt from fees under this part. It also does not include those contested hearings for which a fee exemption is granted in § 170.11(a)(2), including those related to individual plant security modifications.
 
-*Testing facility* means a nuclear reactor licensed by the Commission under the authority of subsection 104c of the Act and pursuant to the provisions of § 50.21(c) of this chapter for operation at:
-
-(1) A thermal power level in excess of 10 megawatts; or
-
-(2) A thermal power level in excess of 1 megawatt, if the reactor is to contain:
-
-(i) A circulating loop through the core in which the applicant proposes to conduct fuel experiments; or
-
-(ii) A liquid fuel loading; or
-
-(iii) An experimental facility in the core in excess of 16 square inches in cross-section.
+*Testing facility* is defined at 10 CFR 50.2.
 
 *Touhy request* means a request for NRC records or NRC testimony that is made pursuant to the NRC's regulations at 10 CFR 9.200 through 9.204.
 
