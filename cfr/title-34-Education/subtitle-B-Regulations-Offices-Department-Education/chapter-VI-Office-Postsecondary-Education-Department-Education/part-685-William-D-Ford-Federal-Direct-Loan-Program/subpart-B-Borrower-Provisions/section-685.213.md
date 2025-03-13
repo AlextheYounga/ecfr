@@ -132,4 +132,4 @@
 
 (3) If the borrower notifies the Secretary that they do not wish to receive the discharge, the borrower will remain responsible for repayment of the borrower's loans in accordance with the terms and conditions of the promissory notes that the borrower signed.
 
-(Approved by the Office of Management and Budget under control number 1845-0065)[77 FR 66142, Nov. 1, 2012, as amended at 84 FR 65007, Nov. 26, 2019; 86 FR 46982, Aug. 23, 2021; 87 FR 66058, Nov. 1, 2022; 88 FR 43065, July 6, 2023]
+[77 FR 66142, Nov. 1, 2012, as amended at 84 FR 65007, Nov. 26, 2019; 86 FR 46982, Aug. 23, 2021; 87 FR 66058, Nov. 1, 2022; 88 FR 43065, July 6, 2023]

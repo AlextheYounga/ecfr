@@ -6,7 +6,7 @@
 
 *Administrator* means the Administrator of the Federal Emergency Management Agency.
 
-*Arbitration Administrator* means the FEMA official responsible for administering arbitration procedures to resolve disputes regarding a claim. Contact information for the Arbitration Administrator can be found online at *http://www.fema.gov/hermits-peak.*
+*Arbitration Administrator* means the FEMA official responsible for administering arbitration procedures to resolve disputes regarding a claim. Contact information for the Arbitration Administrator can be found online at *https://www.fema.gov/hermits-peak.*
 
 *Authorized Official* means an employee of the United States who is delegated with authority by the Director of the Claims Office to render binding determinations on claims and to determine compensation due to claimants under the Act.
 
@@ -24,7 +24,7 @@
 
 *Good Cause,* for purposes of extending the deadline for filing, supplementing a claim, or reopening a claim includes, but is not limited to: instances where a claimant, through no fault of their own, may not be able to access needed documentation in time to submit a claim or transmit relevant information or data; or where damage is found after a claim has been submitted; or other instances in which the Director of the Claims Office, in their discretion, determines that an undue hardship or change in circumstances on the claimant warrants an extension of a deadline or the supplementation or reopening of existing claims.
 
-*Hermit's Peak/Calf Canyon Fire* means
+*Hermit's Peak/Calf Canyon Fire* means:
 
 (1) The fire resulting from the initiation by the U.S. Forest Service of a prescribed burn in the Santa Fe National Forest in San Miguel County, New Mexico on April 6, 2022;
 
@@ -38,7 +38,7 @@
 
 *Indian Tribe* means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or components reservation individually identified (including parenthetically) in the list published most recently as of September 30, 2022, pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994.
 
-*Individual Assistance* means the FEMA program established under Subchapter IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as amended, 42 U.S.C. 5121, *et seq.,* which provides assistance to individuals and families adversely affected by a major disaster or an emergency.
+*Individual Assistance* means the FEMA program established under subchapter IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as amended, 42 U.S.C. 5121, *et seq.,* which provides assistance to individuals and families adversely affected by a major disaster or an emergency.
 
 *Injured Person* means an individual, regardless of citizenship or alien status; or an Indian Tribe, Tribal corporation, corporation, partnership, company, association, county, township, city, State, school district, or other non-Federal entity that suffered injury resulting from the Hermit's Peak/Calf Canyon Fire. The term Injured Person includes an Indian Tribe with respect to any claim relating to property or natural resources held in trust for the Indian Tribe by the United States. Lenders holding mortgages or security interests on property affected by the Hermit's Peak/Calf Canyon Fire and lien holders are not an “Injured Person” for purposes of the Act.
 
@@ -52,8 +52,8 @@
 
 *Release and Certification Form* means a document in the manner prescribed by section 104(e) of the Act that all claimants who have received or are awarded compensatory damages under the Act must execute and return to the Claims Office as required by § 296.30(c).
 
-*Subsistence Resources* means food and other items obtained through hunting, fishing, firewood gathering, timbering, grazing or agricultural activities undertaken by the claimant without financial remuneration, on land damaged by the Hermit's Peak/Calf Canyon Fire.
-
 *Subrogee* means an insurer or other third party that has paid to a claimant compensation for Injury and is subrogated to any right that the claimant has to receive payment under the Act.
+
+*Subsistence Resources* means food and other items obtained through hunting, fishing, firewood and other natural resource gathering, timbering, grazing or agricultural activities undertaken by the claimant without financial remuneration, on land damaged by the Hermit's Peak/Calf Canyon Fire.
 
 *Tribal Member* means an enrolled member of an Indian Tribe.

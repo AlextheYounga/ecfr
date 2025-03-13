@@ -1,5 +1,7 @@
 ##### § 74.790 Permissible service of TV translator and LPTV stations. #####
 
+Link to an amendment published at 88 FR 59468, Aug. 29, 2023.Link to an amendment published at 88 FR 59469, Aug. 29, 2023.
+
 (a) TV translator stations provide a means whereby the signals of broadcast stations may be retransmitted to areas in which direct reception of such stations is unsatisfactory due to distance or intervening terrain barriers.
 
 (b) Except as provided in paragraph (f) of this section, a TV translator station may be used only to receive the signals of a TV broadcast station, another TV translator station, a TV translator relay station, a television intercity relay station, a television STL station, or other suitable sources such as a CARS or common carrier microwave station, for the simultaneous retransmission of the programs and signals of a TV broadcast station. Such retransmissions may be accomplished by any of the following means:

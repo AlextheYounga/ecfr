@@ -1,0 +1,7 @@
+##### § 1002.111 Recordkeeping. #####
+
+(a) *Record retention.* A covered financial institution shall retain evidence of compliance with this subpart, which includes a copy of its small business lending application register, for at least three years after the register is required to be submitted to the Bureau pursuant to § 1002.109.
+
+(b) *Certain information kept separate from the rest of the application.* A financial institution shall maintain, separately from the rest of the application and accompanying information, an applicant's responses to the financial institution's inquiries pursuant to this subpart regarding whether an applicant for a covered credit transaction is a minority-owned business, a women-owned business, and/or an LGBTQI+-owned business under § 1002.107(a)(18), and regarding the ethnicity, race, and sex of the applicant's principal owners under § 1002.107(a)(19).
+
+(c) *Limitation on personally identifiable information in certain records retained under this section.* In reporting a small business lending application register pursuant to § 1002.109, maintaining the register pursuant to paragraph (a) of this section, and maintaining a separate record of information pursuant to paragraph (b) of this section, a financial institution shall not include any name, specific address, telephone number, email address, or any other personally identifiable information concerning any individual who is, or is connected with, an applicant, other than as required pursuant to § 1002.107 or paragraph (b) of this section.

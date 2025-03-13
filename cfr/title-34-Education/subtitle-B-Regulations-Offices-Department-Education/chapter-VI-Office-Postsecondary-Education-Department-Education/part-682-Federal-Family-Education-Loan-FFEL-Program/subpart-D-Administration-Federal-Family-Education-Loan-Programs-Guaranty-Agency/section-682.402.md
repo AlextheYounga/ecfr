@@ -162,15 +162,19 @@
 
 (ii) If the Secretary does not approve the borrower's total and permanent disability discharge request, the lender must resume collection of the loan and is deemed to have exercised forbearance of payment of both principal and interest from the date collection activity was suspended. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period, except if the lender is a guaranty agency it may not capitalize accrued interest.
 
-(8) *Borrower's responsibilities after a total and permanent disability discharge.* During the three-year period described in paragraph (c)(6)(i) of this section, the borrower must—
+(8) *Lender and guaranty agency actions.* (i) If the Secretary approves the borrower's total and permanent disability discharge application—
 
-(i) Promptly notify the Secretary of any changes in the borrower's address or phone number;
+(A) The lender must submit a disability claim to the guaranty agency, in accordance with paragraph (g)(1) of this section;
 
-(ii) Promptly notify the Secretary if the borrower's annual earnings from employment exceed the amount specified in paragraph (c)(6)(i)(A) of this section;
+(B) If the claim satisfies the requirements of paragraph (g)(1) of this section and § 682.406, the guaranty agency must pay the claim submitted by the lender;
 
-(iii) Provide the Secretary, upon request, with documentation of the borrower's annual earnings from employment, on a form approved by the Secretary; or
+(C) After receiving a claim payment from the guaranty agency, the lender must return to the sender any payments received by the lender after the date the physician certified the borrower's loan discharge application or after the date the Secretary received the SSA notice of award for SSDI or SSI benefits as well as any payments received after claim payment from or on behalf of the borrower;
 
-(iv) Promptly notify the Secretary if the borrower receives a notice from the SSA indicating that the borrower is no longer disabled or that the borrower's continuing disability review will no longer be the five- to seven-year period indicated in the SSA notice of award for SSDI or SSI benefits.
+(D) The Secretary reimburses the guaranty agency for a disability claim paid to the lender after the agency pays the claim to the lender; and
+
+(E) The guaranty agency must assign the loan to the Secretary within 45 days of the date the guaranty agency pays the disability claim and receives the reimbursement payment, or within 45 days of the date the guaranty agency receives the notice described in paragraph (c)(3)(iii) of this section if a guaranty agency is the lender.
+
+(ii) If the Secretary does not approve the borrower's total and permanent disability discharge request, the lender must resume collection of the loan and is deemed to have exercised forbearance of payment of both principal and interest from the date collection activity was suspended. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period, except if the lender is a guaranty agency it may not capitalize accrued interest.
 
 (9) *Discharge without an application.* The Secretary will discharge a loan under this section without an application or any additional documentation from the borrower if the Secretary—
 
@@ -338,7 +342,7 @@
 
 (7) *Lender responsibilities.* (i) A lender shall comply with the requirements prescribed in paragraph (d) of this section. In the absence of specific instructions from a guaranty agency or the Secretary, if a lender receives information from a source it believes to be reliable indicating that an existing or former borrower may be eligible for a loan discharge under paragraph (d) of this section, the lender shall immediately notify the guaranty agency, and suspend any efforts to collect from the borrower on any loan received for the program of study for which the loan was made (but may continue to receive borrower payments).
 
-(ii) If the borrower fails to submit a completed application described in paragraph (d)(3) of this section within 90days of being notified of that option, the lender shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period. Upon resuming collection, the lender provides the borrower with another discharge application and an explanation of the requirements and procedures for obtaining a discharge.
+(ii) If the borrower fails to submit a completed application described in paragraph (d)(3) of this section within 90 days of being notified of that option, the lender shall resume collection and shall be deemed to have exercised forbearance of payment of principal and interest from the date the lender suspended collection activity. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period. Upon resuming collection, the lender provides the borrower with another discharge application and an explanation of the requirements and procedures for obtaining a discharge.
 
 (iii) The lender shall file a closed school claim with the guaranty agency in accordance with § 682.402(g) no later than 60 days after the lender receives a completed application described in paragraph (d)(3) of this section from the borrower, or notification from the agency that the Secretary approved the borrower's appeal in accordance with paragraph (d)(6)(ii)(K)(*3*) of this section.
 
@@ -1000,4 +1004,4 @@
 
 (5) Includes the period between the filing of the petition for relief and the date on which the proceeding is completed or dismissed, unless payments have been made during that period in amounts sufficient to meet the amount owed under the repayment schedule in effect when the petition was filed.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.402, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.402, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

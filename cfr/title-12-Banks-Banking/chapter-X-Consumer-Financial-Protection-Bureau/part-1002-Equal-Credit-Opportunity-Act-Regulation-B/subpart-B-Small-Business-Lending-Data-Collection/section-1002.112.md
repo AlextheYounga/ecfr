@@ -1,0 +1,17 @@
+##### § 1002.112 Enforcement. #####
+
+(a) *Administrative enforcement and civil liability.* A violation of section 704B of the Act or this subpart is subject to administrative sanctions and civil liability as provided in sections 704 (15 U.S.C. 1691c) and 706 (15 U.S.C. 1691e) of the Act, where applicable.
+
+(b) *Bona fide errors.* A bona fide error in compiling, maintaining, or reporting data with respect to a covered application is one that was unintentional and occurred despite the maintenance of procedures reasonably adapted to avoid such an error. A bona fide error is not a violation of the Act or this subpart. A financial institution is presumed to maintain procedures reasonably adapted to avoid such errors with respect to a given data field if the number of errors found in a random sample of the financial institution's submission for the data field does not equal or exceed a threshold specified by the Bureau for this purpose in appendix F to this part. However, an error is not a bona fide error if either there is a reasonable basis to believe the error was intentional or there is evidence that the financial institution does not or has not maintained procedures reasonably adapted to avoid such errors.
+
+(c) *Safe harbors*—(1) *Incorrect entry for application date.* A financial institution does not violate the Act or this subpart if it reports on its small business lending application register an application date that is within three business days of the actual application date pursuant to § 1002.107(a)(2).
+
+(2) *Incorrect entry for census tract.* An incorrect entry for census tract is not a violation of the Act or this subpart if the financial institution obtained the census tract by correctly using a geocoding tool provided by the FFIEC or the Bureau.
+
+(3) *Incorrect entry for NAICS code.* An incorrect entry for a 3-digit NAICS code is not a violation of the Act or this subpart, provided that the financial institution obtained the 3-digit NAICS code by:
+
+(i) Relying on an applicant's representations or on an appropriate third-party source, in accordance with § 1002.107(b), regarding the NAICS code; or
+
+(ii) Identifying the NAICS code itself, provided that the financial institution maintains procedures reasonably adapted to correctly identify a 3-digit NAICS code.
+
+(4) *Incorrect determination of small business status, covered credit transaction, or covered application.* A financial institution that initially collects data regarding whether an applicant for a covered credit transaction is a minority-owned business, a women-owned business, or an LGBTQI+-owned business, and the ethnicity, race, and sex of the applicant's principal owners pursuant to § 1002.107(a)(18) and (19) but later concludes that it should not have collected such data does not violate the Act or this regulation if the financial institution, at the time it collected this data, had a reasonable basis for believing that the application was a covered application for a covered credit transaction from a small business pursuant to §§ 1002.103, 1002.104, and 1002.106, respectively. A financial institution seeking to avail itself of this safe harbor shall comply with the requirements of this subpart as otherwise required pursuant to §§ 1002.107, 1002.108, and 1002.111 with respect to the collected data.

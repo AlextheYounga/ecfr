@@ -1,0 +1,13 @@
+##### § 1002.110 Publication of data and other disclosures. #####
+
+(a) *Publication of small business lending application registers and associated financial institution information.* The Bureau shall make available to the public generally the data reported to it by financial institutions pursuant to § 1002.109, subject to deletions or modifications made by the Bureau if the Bureau determines that the deletion or modification of the data would advance a privacy interest. The Bureau shall make such data available on an annual basis.
+
+(b) *Publication of aggregate data.* The Bureau may compile and aggregate data submitted by financial institutions pursuant to § 1002.109, and make any compilations or aggregations of such data publicly available as the Bureau deems appropriate.
+
+(c) *Statement of financial institution's small business lending data available on the Bureau's website.* A covered financial institution shall make available to the public on its website, or otherwise upon request, a statement that the covered financial institution's small business lending application register, as modified by the Bureau pursuant to § 1002.110(a), is or will be available from the Bureau. A financial institution shall use language provided by the Bureau, or substantially similar language, to satisfy the requirement to provide a statement pursuant to this paragraph (c).
+
+(d) *Availability of statements.* A covered financial institution shall make the notice required by paragraph (c) of this section available to the public on its website when it submits a small business lending application register to the Bureau pursuant to § 1002.109(a)(1), and shall maintain the notice for as long as it has an obligation to retain its small business lending application registers pursuant to § 1002.111(a).
+
+(e) *Further disclosure prohibited*—(1) *Disclosure by a financial institution.* A financial institution shall not disclose or provide to a third party the information it collects pursuant to § 1002.107(a)(18) and (19) except to further compliance with the Act or this part or as required by law.
+
+(2) *Disclosure by a third party.* A third party that obtains information collected pursuant to § 1002.107(a)(18) and (19) for the purpose of furthering compliance with the Act or this part is prohibited from any further disclosure of such information except to further compliance with the Act or this part or as required by law.

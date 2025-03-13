@@ -1,6 +1,6 @@
 ##### § 296.21 Allowable damages. #####
 
-(a) *Allowable damages.* The Act provides for the payment of actual compensatory damages for Injury or loss of property, business loss, and financial loss. The laws of the State of New Mexico will apply to the calculation of damages. Damages must be reasonable in amount.
+(a) *Allowable damages.* The Act provides for the payment of actual compensatory damages for injury or loss of property, business loss, and financial loss. The laws of the State of New Mexico will apply to the calculation of damages. Damages must be reasonable in amount.
 
 (b) *Exclusions.* Punitive damages, statutory damages under section 30-32-4 of the New Mexico Statutes Annotated (2019), interest on claims, attorney's fees and agents' fees incurred in prosecuting a claim under the Act or an insurance policy, and adjusting costs incurred by an insurer or other third party with the rights of a subrogee that may be owed by a claimant as a consequence of receiving an award are not recoverable from FEMA. The cost to a claimant of prosecuting a claim under the Act does not constitute compensatory damages and is not recoverable from FEMA, except as provided in § 296.31(b).
 
@@ -8,13 +8,13 @@
 
 (1) *Real property and contents.* Compensatory damages for the damage or destruction of real property and its contents may include the reasonable cost of reconstruction of a structure comparable in design, construction materials, size, and improvements, taking into account post-fire construction costs in the community in which the structure existed before the fire and current building codes and standards. Compensatory damages may also include the cost of removing debris and burned trees, including hazardous materials or soils, stabilizing the land, replacing contents, and compensation for any decrease in the value of land on which the structure sat pursuant to paragraph (c)(3) of this section.
 
-(2) *Reforestation and revegetation.* Compensation for the replacement of destroyed trees and other landscaping will not exceed 25 percent of the pre-fire value of the structure and lot.
+(2) *Reforestation and revegetation.* Compensatory damages may be awarded for the cost of replacement of destroyed trees and landscaping.
 
 (3) *Decrease in the value of real property.* Compensatory damages may be awarded for a decrease in the value of real property that a claimant owned before the Hermit's Peak/Calf Canyon Fire if:
 
 (i) The claimant sells the real property in a good faith, arm's length transaction that is closed no later than November 14, 2024 and realizes a loss in the pre-fire value; or
 
-(ii) The claimant can establish that the value of the real property was permanently diminished as a result of the Hermit's Peak/Calf Canyon Fire.
+(ii) The claimant can establish that the value of the real property was significantly diminished long-term as a result of the Hermit's Peak/Calf Canyon Fire.
 
 (4) *Subsistence.* Compensatory damages will be awarded for lost Subsistence Resources.
 
@@ -26,6 +26,8 @@
 
 (iv) Long-term damage awards for subsistence resources will be made to claimants in the form of lump sum cash payments.
 
+(5) *Physical infrastructure.* Compensatory damages may be awarded for the damage to physical infrastructure, including damages to irrigation infrastructure such as acequia systems.
+
 (d) *Business loss.* Compensatory damages may be awarded for damage to tangible assets or inventory, including timber, crops, and other natural resources; business interruption losses; overhead costs; employee wages for work not performed; loss of business net income; and any other loss that the Administrator determines to be appropriate for inclusion as a business loss.
 
 (e) *Financial loss.* Compensatory damages may be awarded for increased mortgage interest costs, insurance deductibles, temporary living or relocation expenses, lost wages or personal income, emergency staffing expenses, debris removal and other cleanup costs, costs of reasonable heightened risk reduction, premiums for flood insurance, and any other loss that the Administrator determines to be appropriate for inclusion as financial loss.
@@ -34,13 +36,13 @@
 
 (2) *Flood insurance.* FEMA will reimburse claimants for flood insurance premiums to be paid on or before May 31, 2024 if, as a result of the Hermit's Peak/Calf Canyon Fire, a claimant who was not required to purchase flood insurance before the Hermit's Peak/Calf Canyon Fire is required to purchase flood insurance or the claimant did not maintain flood insurance before the Fire but purchased flood insurance after the Fire due to fear of heightened flood risk. Alternatively, FEMA may provide flood insurance to such claimants directly through a group or blanket policy.
 
-(3) *Out of pocket expenses for treatment of mental health conditions.* FEMA may reimburse an individual claimant for reasonable out of pocket expenses incurred for treatment of a mental health condition rendered by a licensed mental health professional, which condition resulted from the Hermit's Peak/Calf Canyon Fire. FEMA will not reimburse for treatment rendered after April 6, 2024.
+(3) *Out of pocket expenses for treatment of mental health conditions.* FEMA may reimburse an individual claimant for reasonable out of pocket expenses incurred for treatment of a mental health condition rendered by a licensed mental health professional, which condition resulted from or was worsened by the Hermit's Peak/Calf Canyon Fire. FEMA will not reimburse for treatment identified after November 14, 2024.
 
-(4) *Donations.* FEMA will compensate claimants for the cost of merchandise, use of equipment or other non-personal services, directly or indirectly donated to survivors of the Hermit's Peak/Calf Canyon Fire not later than September 20, 2022. Donations will be valued at cost.
+(4) *Donations.* FEMA will compensate claimants for the cost of merchandise, use of equipment or other non-personal services, directly or indirectly donated to survivors of the Hermit's Peak/Calf Canyon Fire not later than November 14, 2022. Donations will be valued at cost.
 
-(5) *Heightened Risk Reduction.* FEMA will reimburse claimants for the costs incurred to implement reasonable measures necessary to reduce risks from natural hazards heightened by the Hermit's Peak/Calf Canyon Fire to the level of risk prevailing before the Hermit's Peak/Calf Canyon Fire. Such measures may include, for example, risk reduction projects that reduce an increased risk from flooding, mudslides, and landslides in and around burn scars. Compensation under this section may not exceed 25 percent of the higher of payments from all sources (*i.e.,* the Act, insurance proceeds, FEMA assistance under the Stafford Act) for damage to the structure and lot, or the pre-fire value of the structure and lot. Claimants seeking compensation for heightened risk reduction must include the claim in their Notice of Loss by November 14, 2024 or an amended Notice of Loss filed no later than November 14, 2025. Claimants should take into account current building codes and standards and must complete the risk reduction project for which they receive compensation.
+(5) *Heightened risk reduction.* FEMA will reimburse claimants for the costs incurred to implement reasonable measures necessary to reduce risks from natural hazards heightened by the Hermit's Peak/Calf Canyon Fire to the level of risk prevailing before the Hermit's Peak/Calf Canyon Fire. Such measures may include, for example, risk reduction projects that reduce an increased risk from flooding, mudslides, and landslides in and around burn scars. Claimants seeking compensation for heightened risk reduction must include the claim in their Notice of Loss by November 14, 2024 or an amended Notice of Loss filed no later than November 14, 2025. Claimants should take into account current building codes and standards and must complete the risk reduction project for which they receive compensation.
 
-(f) *Insurance and other benefits.* The Act allows FEMA to compensate Injured Persons only for damages not paid, or will not be paid, by insurance or other third-party payments or settlements.
+(f) *Insurance and other benefits.* The Act allows FEMA to compensate Injured Persons only for damages not paid, and that will not be paid, by insurance or other third-party payments or settlements.
 
 (1) *Insurance.* Claimants who carry insurance will be required to disclose the name of the insurer(s) and the nature of the insurance and provide the Claims Office with such insurance documentation as the Claims Office reasonably requests.
 
