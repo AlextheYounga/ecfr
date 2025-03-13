@@ -1,13 +1,39 @@
-##### § 4284.508 Use of grant funds. #####
+##### § 4284.508 Compliance with other laws and regulations. #####
 
-Grant funds may be used to pay up to 75 percent (95 percent where the grantee is a 1994 Institution) of the cost of establishing and operating centers for rural cooperative development. Matching funds contributed by the applicant may include a loan from another federal source. Grant funds may be used for, but are not limited to, providing the following to individuals, cooperatives, small businesses and other similar entities in rural areas served by the Center:
+The Agency, Applicants, and Recipients must comply with all applicable laws and regulations. An effort has been made to identify the most-commonly cited laws and regulations and to reference them as follows:
 
-(a) Applied research, feasibility, environmental and other studies that may be useful for the purpose of cooperative development.
+(a) *Federal laws.* Federal laws are codified in the United States Code (U.S.C.). A selection of laws is identified as follows:
 
-(b) Collection, interpretation and dissemination of principles, facts, technical knowledge, or other information for the purpose of cooperative development.
+(1) Equal Credit Opportunity Act (15 U.S.C. 1691 *et seq.*).
 
-(c) Providing training and instruction for the purpose of cooperative development.
+(2) Consumer Credit Protection Act (15 U.S.C. 1601 *et seq.*).
 
-(d) Providing loans and grants for the purpose of cooperative development in accordance with the subpart.
+(3) Americans with Disabilities Act of 1990 (42 U.S.C. 12101 *et seq.*).
 
-(e) Providing technical assistance, research services and advisory services for the purpose of cooperative development.
+(4) The Civil Rights Act of 1964, Title VI (42 U.S.C. 2000d *et seq.*).
+
+(5) The Rehabilitation Act of 1973, Section 504 (29 U.S.C. 794).
+
+(b) *Federal regulations.* Federal regulations are codified in the Code of Federal Regulations (CFR). In particular, 2 CFR parts 1 through 200 address items such as universal identifiers, reporting Subaward and executive compensation, debarment and suspension, drug-free workplaces, administrative requirements, cost principles, and audit requirements. We particularly encourage Applicants and Recipients to become familiar with 2 CFR part 200 in its entirety.
+
+(c) *Departmental regulations.* Departmental regulations are those regulations that are specific to awards made through the USDA. They are codified in the CFR. A selection of applicable regulations is identified as follows:.
+
+(1) *2 CFR parts 400 through 499.* These parts include USDA's adoption of Federal administrative requirements and cost principles. They also include regulations on debarment and suspension, lobbying, drug-free workplaces, and research awards.
+
+(2) *7 CFR part 11.* This part includes USDA's procedures for administrative appeals, as handled by its National Appeals Division.
+
+(3) *7 CFR part 15.* This part includes USDA's procedures for compliance with nondiscrimination laws and regulations.
+
+(d) *Agency regulations.* Agency regulations are those regulations that are specific to awards made through the Agency and they may also be specific to a program. They are codified in the CFR. A selection of those regulations is as follows:
+
+(1) *7 CFR part 1900.* This part covers delegations of authority, Adverse Decisions and administrative appeals, applicability of Federal law, and processing and servicing grant awards.
+
+(2) *7 CFR part 1901, subpart E.* This subpart covers civil rights compliance requirements.
+
+(3) *7 CFR part 1951.* This part covers servicing grant awards, including unauthorized assistance.
+
+(4) *7 CFR part 1970.* This part covers environmental policies and considerations.
+
+(e) *Access to laws and regulations.* (1) Laws may be accessed through the U.S.C. At the time this subpart was published, the U.S.C. may be accessed electronically at this website: *https://uscode.house.gov/.*
+
+(2) Regulations may be accessed through the CFR. At the time this subpart was published, the CFR may be accessed electronically at this website: *https://www.ecfr.gov/.*

@@ -1,5 +1,7 @@
 ##### 212.505 Applicability of certain laws to contracts for the acquisition of COTS items. #####
 
+Link to an amendment published at 89 FR 90236, Nov. 15, 2024.
+
 Commercially available off-the-shelf (COTS) items are a subset of commercial products. Therefore, any laws listed at FAR 12.503, FAR 12.504, 212.503, or 212.504 are also not applicable or modified in their applicability to contracts for the acquisition of COTS items. In addition to the laws listed at FAR 12.505 as specifically not applicable to COTS items, the following laws are not applicable to contracts for the acquisition of COTS items:
 
 (1) 10 U.S.C. 391, Reporting on Cyber Incidents with Respect to Networks and Information Systems of Operationally Critical Contractors and Certain Other Contractors, and 10 U.S.C. 393, Reporting on Penetrations of Networks and Information Systems of Certain Contractors.

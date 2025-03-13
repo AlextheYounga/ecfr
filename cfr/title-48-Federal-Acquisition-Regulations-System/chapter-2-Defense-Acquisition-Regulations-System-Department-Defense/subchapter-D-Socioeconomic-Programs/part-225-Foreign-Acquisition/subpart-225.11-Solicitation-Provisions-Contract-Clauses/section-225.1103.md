@@ -1,5 +1,7 @@
 ##### 225.1103 Other provisions and clauses. #####
 
+Link to an amendment published at 89 FR 90237, Nov. 15, 2024.
+
 (1) Unless the contracting officer knows that the prospective contractor is not a domestic concern, use the clause at 252.225-7005, Identification of Expenditures in the United States, in solicitations and contracts that—
 
 (i) Exceed the simplified acquisition threshold; and

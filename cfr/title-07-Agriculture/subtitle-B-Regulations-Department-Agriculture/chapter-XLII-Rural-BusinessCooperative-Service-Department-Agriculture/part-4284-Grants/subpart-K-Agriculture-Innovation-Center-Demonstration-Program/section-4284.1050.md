@@ -1,0 +1,5 @@
+##### § 4284.1050 Award selection. #####
+
+(a) The Agency will review applications to determine if they are eligible for assistance based on requirements in this subpart, and other applicable Federal laws and regulations. If the Agency determines that your application meets the requirements, it will be scored by a panel of USDA employees in accordance with the merit evaluation criteria and point allocation specified in § 4284.1040(c). The review panel will convene to reach a consensus on the scores for each of the eligible applications. Applications will be ranked solely based on the points awarded, and they will be funded in rank order until available funds are expended or a minimum score of 40 points is reached. If an application cannot be fully funded, the Agency may offer partial funding to the extent funds are available.
+
+(b) If an application is ranked and not funded, it will not be carried forward into the next funding competition.

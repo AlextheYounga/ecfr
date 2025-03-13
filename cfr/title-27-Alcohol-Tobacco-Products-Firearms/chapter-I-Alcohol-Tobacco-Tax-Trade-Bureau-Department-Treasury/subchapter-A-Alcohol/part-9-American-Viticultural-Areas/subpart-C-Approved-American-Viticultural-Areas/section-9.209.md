@@ -1,7 +1,5 @@
 ##### § 9.209 Calistoga. #####
 
-Link to an amendment published at 89 FR 83434, Oct. 16, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Calistoga”. For purposes of part 4 of this chapter, “Calistoga” is a term of viticultural significance.
 
 (b) *Approved maps.* The appropriate maps used to determine the boundary of the Calistoga viticultural area are four United States Geological Survey 1:24,000 scale topographic quadrangle maps. They are titled:
@@ -30,9 +28,9 @@ Link to an amendment published at 89 FR 83434, Oct. 16, 2024.
 
 (7) Continues northeasterly along the driveway for 300 feet to its intersection with another driveway, and then continues north-northeast in a straight line to the 400-foot contour line;
 
-(8) Follows the 400-foot contour line easterly approximately 0.7 miles to its intersection with an unimproved dirt road (an extension of a road known locally as the North Fork of Crystal Springs Road), which lies in the Carne Humana Land Grant approximately 1,400 feet southwest of the northwest corner of section 11, T8N/R6W on the St. Helena map;
+(8) Follows the 400-foot contour line easterly approximately 0.6 mile to its intersection with the eastern edge of the Calistoga map, denoted by a north-south longitude line labeled as longitude 122 degrees, 30 minutes;
 
-(9) Continues northerly along the unimproved dirt road approximately 2,700 feet to its intersection with the 880-foot contour line in section 2, T8N/R6W;
+(9) Continues north along the longitude line approximately 0.5 mile to its intersection with the 880-foot contour line in section 2, T8N/R6W;
 
 (10) Follows the meandering 880-foot contour line northwesterly, crossing onto the Calistoga map in section 2, T8N/R6W, and continues along the 880-foot contour line through section 3, T8N/R6W, sections 34 and 35, T9N/R6W, (with a brief return to the St. Helena map in section 35), to the 880-contour line's intersection with Biter Creek in the northeast quadrant of section 34, T9N/R6W;
 
@@ -46,4 +44,4 @@ Link to an amendment published at 89 FR 83434, Oct. 16, 2024.
 
 (d) *Transition Period.* A label containing the word “Calistoga” in the brand name approved prior to December 8, 2009 may not be used on wine bottled on or after December 10, 2012 if the wine does not conform to the standards for use of the label set forth in § 4.39(i) of this chapter.
 
-[T.D. TTB-83, 74 FR 64612, Dec. 8, 2009]
+[T.D. TTB-83, 74 FR 64612, Dec. 8, 2009, as amended by T.D. TTB-197, 89 FR 83434, Oct. 16, 2024]

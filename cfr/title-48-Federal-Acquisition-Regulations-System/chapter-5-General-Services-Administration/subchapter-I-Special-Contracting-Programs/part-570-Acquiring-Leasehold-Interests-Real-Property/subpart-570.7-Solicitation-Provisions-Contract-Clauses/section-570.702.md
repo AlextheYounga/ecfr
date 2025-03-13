@@ -1,5 +1,7 @@
 ##### 570.702 GSAR solicitation provisions. #####
 
+Link to an amendment published at 89 FR 90240, Nov. 15, 2024.
+
 Each SFO must include provisions substantially the same as the following, unless the contracting officer determines that the provision is not appropriate. The contracting officer shall document the file with the basis for omitting or substantially changing a provision.
 
 552.270-1 Instructions to Offerors—Acquisition of Leasehold Interests in Real Property. Use the provision with its Alternate I if it is advantageous to the Government to allow offers to be submitted up to the exact time specified for award. Use the provision with its Alternate II if the Government intends to award without discussions.

@@ -1,5 +1,7 @@
 ##### 212.504 Applicability of certain laws to subcontracts for the acquisition of commercial products and commercial services. #####
 
+Link to an amendment published at 89 FR 90236, Nov. 15, 2024.
+
 (a) The following laws are not applicable to subcontracts at any tier for the acquisition of commercial products, commercial services, or commercial components:
 
 (i) 10 U.S.C. 2391 note, Notification of Substantial Impact on Employment.

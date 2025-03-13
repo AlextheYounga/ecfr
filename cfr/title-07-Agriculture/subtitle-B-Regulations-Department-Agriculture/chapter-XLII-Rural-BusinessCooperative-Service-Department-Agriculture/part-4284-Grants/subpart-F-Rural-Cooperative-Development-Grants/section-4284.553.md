@@ -1,0 +1,3 @@
+##### § 4284.553 Award approval. #####
+
+Applicants whose applications are eligible for financial assistance and that score high enough to be funded will have their awards approved by the Agency once the Applicant has met all of the conditions of the award. The approval will be conveyed through the execution of Form RD 4280-2, which is the Financial Assistance Agreement, and provides all terms of the award. Once the award has been approved, the Recipient may begin work on the Project and incur costs.

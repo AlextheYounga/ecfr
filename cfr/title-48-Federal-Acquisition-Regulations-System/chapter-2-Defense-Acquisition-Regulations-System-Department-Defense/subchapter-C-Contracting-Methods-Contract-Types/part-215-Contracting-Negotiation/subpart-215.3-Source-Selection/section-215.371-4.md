@@ -1,5 +1,7 @@
 ##### 215.371-4 Exceptions. #####
 
+Link to an amendment published at 89 FR 90236, Nov. 15, 2024.
+
 (a) The requirements at section 215.371-2 do not apply to—
 
 (1) Acquisitions at or below the simplified acquisition threshold;

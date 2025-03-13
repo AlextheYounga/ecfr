@@ -1,0 +1,3 @@
+##### § 4284.552 Notification of unsuccessful Applicants. #####
+
+Applicants whose applications are ineligible for financial assistance or did not score high enough to be funded will be notified as soon as is practicable. The notification will be in writing using an Adverse Decision Letter. This letter will outline the reason(s) for the Agency's decision and any dispute resolution alternatives available to the Applicant.

@@ -1,0 +1,9 @@
+##### § 4284.932 Simplified application. #####
+
+Applicants that will submit an application where paragraphs (a), (b), and/or (c) of this section apply may submit a simplified application, which means submission of a Feasibility Study or Business Plan for the Project is not required. The waiver of the requirement to submit a Feasibility Study and Business Plan does not change the proposal evaluation or scoring criteria that pertain to issues that might be supported by a Feasibility Study or Business Plan, so Applicants are encouraged to thoroughly document applications with their Project plans and expectations for success. All other eligibility requirements remain the same.
+
+(a) *Working Capital Grant request of less than $50,000.* Applicants requesting less than $50,000 may submit a Market Expansion or Emerging Market simplified application. These types of applications must provide adequate documentation to demonstrate the expected increases in customer base and revenues resulting from the Project that will benefit the Applicant(s) supplying more than 50 percent of the Agricultural Commodity for the Project.
+
+(b) *Market Expansion request of $50,000 or more.* Agricultural Producers who can demonstrate that their Project meets the definition of Market Expansion, may submit a simplified application. Applicants must submit a Marketing Plan with their simplified application. However, a Business Plan may be submitted in lieu of a Marketing Plan. Agricultural Producer Group, Farmer or Rancher Cooperative, and Majority-Controlled Producer-Based Business Venture applicant types are not eligible for Market Expansion Projects.
+
+(c) *Food Safety.* Applicants that will submit an application where more than 50 percent of the Project Costs will be used for post-harvest Food Safety purposes related to the processing and/or marketing of a Value-Added Agricultural Product may submit a simplified application.

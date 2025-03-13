@@ -1,5 +1,7 @@
 ##### § 685.209 Income-driven repayment plans. #####
 
+Link to an amendment published at 89 FR 90230, Nov. 15, 2024.
+
 (a) *General.* Income-driven repayment (IDR) plans are repayment plans that base the borrower's monthly payment amount on the borrower's income and family size. The four IDR plans are—
 
 (1) The Revised Pay As You Earn (REPAYE) plan, which may also be referred to as the Saving on a Valuable Education (SAVE) plan;
