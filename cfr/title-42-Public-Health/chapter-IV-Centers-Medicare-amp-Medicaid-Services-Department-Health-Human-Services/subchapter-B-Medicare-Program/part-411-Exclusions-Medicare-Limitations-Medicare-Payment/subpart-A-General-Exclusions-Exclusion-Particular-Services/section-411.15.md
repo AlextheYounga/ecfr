@@ -1,7 +1,5 @@
 ##### § 411.15 Particular services excluded from coverage. #####
 
-Link to an amendment published at 89 FR 98558, Dec. 9, 2024.
-
 The following services are excluded from coverage:
 
 (a) Routine physical checkups such as:
@@ -69,6 +67,8 @@ The following services are excluded from coverage:
 (D) The extraction of teeth to prepare the jaw for radiation treatment of neoplastic disease.
 
 (E) Dental or oral examination performed as part of a comprehensive workup prior to, medically necessary diagnostic and treatment services to eliminate an oral or dental infection prior to or contemporaneously with, and medically necessary diagnostic and treatment services to address dental or oral complications after, treatment of head and neck cancer using radiation, chemotherapy, surgery, or any combination of these.
+
+(F) Dental or oral examination performed as part of a comprehensive workup prior to, or contemporaneously with, Medicare-covered dialysis services when used in the treatment of end stage renal disease (ESRD); and medically necessary diagnostic and treatment services to eliminate an oral or dental infection prior to, or contemporaneously with, Medicare-covered dialysis services when used in the treatment of ESRD.
 
 (ii) Ancillary services and supplies furnished incident to covered dental services are not excluded, and Medicare payment may be made under Part A or Part B, as applicable, whether the service is performed in the inpatient or outpatient setting, including, but not limited to the administration of anesthesia, diagnostic x-rays, use of operating room, and other related procedures.
 

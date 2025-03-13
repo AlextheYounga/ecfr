@@ -1,5 +1,7 @@
 ##### § 303.72 Requests for collection of past-due support by Federal tax refund offset. #####
 
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+
 (a) *Past-due support qualifying for offset.* Past-due support as defined in § 301.1 of this chapter qualifies for offset if:
 
 (1) There has been an assignment of the support rights under section 408(a)(3) of the Act or section 471(a)(17) of the Act to the State making the request for offset or the IV-D agency is providing services under § 302.33 of this chapter.

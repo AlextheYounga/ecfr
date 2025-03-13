@@ -1,7 +1,5 @@
 ##### § 413.237 Outliers. #####
 
-Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
-
 (a) The following definitions apply to this section.
 
 (1) *ESRD outlier services* are the following items and services that are included in the ESRD PPS bundle:
@@ -17,6 +15,8 @@ Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
 (v) Renal dialysis equipment and supplies, except for capital-related assets that are home dialysis machines (as defined in § 413.236(a)(2)), that receive the transitional add-on payment adjustment as specified in § 413.236, after the payment period has ended.
 
 (vi) As of January 1, 2012, the laboratory tests that comprise the Automated Multi-Channel Chemistry panel are excluded from the definition of outlier services.
+
+(vii) Renal dialysis drugs and biological products that are Composite Rate Services as defined in § 413.171.
 
 (2) *Adult predicted ESRD outlier services Medicare allowable payment (MAP) amount* means the predicted per-treatment case-mix adjusted amount for ESRD outlier services furnished to an adult beneficiary by an ESRD facility.
 
@@ -38,4 +38,4 @@ Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
 
 (2) The adult or pediatric predicted ESRD outlier services MAP amount plus the adult or pediatric fixed dollar loss amount, as applicable.
 
-[75 FR 49201, Aug. 12, 2010, as amended at 76 FR 70314, Nov. 10, 2011; 78 FR 72252, Dec. 2, 2013; 79 FR 66262, Nov. 6, 2014; 80 FR 69077, Nov. 6, 2015; 84 FR 60806, Nov. 8, 2019; 85 FR 71487, Nov. 9, 2020]
+[75 FR 49201, Aug. 12, 2010, as amended at 76 FR 70314, Nov. 10, 2011; 78 FR 72252, Dec. 2, 2013; 79 FR 66262, Nov. 6, 2014; 80 FR 69077, Nov. 6, 2015; 84 FR 60806, Nov. 8, 2019; 85 FR 71487, Nov. 9, 2020; 89 FR 89212, Nov. 12, 2024]

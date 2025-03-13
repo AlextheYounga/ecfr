@@ -26,13 +26,13 @@ d = 1.609 × h0.40 × p0.20where:d is the radial distance in kilometersh is the 
 
 (1) If the radial antenna HAAT is less than 150 meters:
 
-d = 8.577 × h0.24 × p0.19where: d is the radial distance in kilometers h is the radial antenna HAAT in meters p is the radial ERP in Watts
+d = 8.577 × h0.24 × p0.19where:d is the radial distance in kilometersh is the radial antenna HAAT in metersp is the radial ERP in Watts
 
 Whenever the actual HAAT is less than 30 meters (98 feet), 30 must be used as the value for h in the above formula.
 
 (2) If the radial antenna HAAT is 150 meters or more:
 
-d = 12.306 × h0.23 × p0.14where: d is the radial distance in kilometers h is the radial antenna HAAT in meters p is the radial ERP in Watts
+d = 12.306 × h0.23 × p0.14where:d is the radial distance in kilometersh is the radial antenna HAAT in metersp is the radial ERP in Watts
 
 (3) The value used for p in the above formulas must not be less than 27 dB less than the maximum ERP in any direction, or 0.1 Watt, whichever is more.
 
@@ -40,7 +40,7 @@ d = 12.306 × h0.23 × p0.14where: d is the radial distance in kilometers h is t
 
 (e) *UHF service contour.* For base stations transmitting on the UHF channels, the radial distance from the transmitting antenna to the service contour along each cardinal radial is calculated as follows:
 
-d = 1.726 × h0.35 × p0.18where: d is the radial distance in kilometers h is the radial antenna HAAT in meters p is the radial ERP in Watts
+d = 1.726 × h0.35 × p0.18where:d is the radial distance in kilometersh is the radial antenna HAAT in metersp is the radial ERP in Watts
 
 (1) Whenever the actual HAAT is less than 30 meters (98 feet), 30 must be used as the value for h in the above formula.
 
@@ -52,7 +52,7 @@ d = 1.726 × h0.35 × p0.18where: d is the radial distance in kilometers h is th
 
 (1) If the radial antenna HAAT is less than 150 meters:
 
-d = 9.471 × h0.23 × p0.15where: d is the radial distance in kilometers h is the radial antenna HAAT in meters p is the radial ERP in Watts
+d = 9.471 × h0.23 × p0.15where:d is the radial distance in kilometersh is the radial antenna HAAT in metersp is the radial ERP in Watts
 
 Whenever the actual HAAT is less than 30 meters (98 feet), 30 must be used as the value for h in the above formula.
 

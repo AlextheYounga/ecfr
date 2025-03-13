@@ -4,4 +4,4 @@
 
 (b) *Minor changes to the period of employment.* The *Application for Temporary Employment Certification* may be amended to make minor changes in the total period of employment before the CO issues a final determination. Changes will not be effective until submitted in writing and approved by the CO. In considering whether to approve the request, the CO will review the reason(s) for the request, determine whether the reason(s) are on the whole justified, and take into account the effect any change(s) would have on the adequacy of the underlying test of the domestic labor market for the job opportunity. An employer must demonstrate that the change to the period of employment could not have been foreseen, and the crops or commodities will be in jeopardy prior to the expiration of an additional recruitment period. Upon acceptance of an amendment, the CO will submit to the SWA any necessary modification to the job order.
 
-[87 FR 61791, Oct. 12, 2022, as amended at 89 FR 34063, Apr. 29, 2024] Post-Acceptance Requirements
+[87 FR 61791, Oct. 12, 2022, as amended at 89 FR 34063, Apr. 29, 2024]Post-Acceptance Requirements

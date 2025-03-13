@@ -1,13 +1,13 @@
-##### § 93.411 Final HHS action with settlement or finding of research misconduct. #####
+##### § 93.411 Final HHS action with a settlement or finding of research misconduct. #####
 
-When a final HHS action results in a settlement or research misconduct finding, ORI may:
+When a final HHS action results in a settlement or research misconduct finding(s), ORI may:
 
-(a) Provide final notification of any research misconduct findings and HHS administrative actions to the respondent, the relevant institution, the complainant, and HHS officials. The debarring official may provide a separate notice of final HHS action on any debarment or suspension actions.
+(a) Provide final notification of any research misconduct findings and HHS administrative actions to the respondent, the relevant institution, and appropriate HHS officials.
 
-(b) Identify publications which require correction or retraction and prepare and send a notice to the relevant journal.
+(b) Provide final notification of any research misconduct findings and HHS administrative actions to the complainant(s).
 
-(c) Publish notice of the research misconduct findings.
+(c) Send a notice to the relevant journal, publisher, data repository, or other similar entity identifying publications or research records that require correction or retraction.
 
-(d) Notify the respondent's current employer.
+(d) Publish notice of the research misconduct findings.
 
-(e) Take any other actions authorized by law.
+(e) Notify the respondent's current employer if the employer is an institution subject to this part.

@@ -1,7 +1,5 @@
 ##### § 419.82 Prior authorization for certain covered hospital outpatient department services. #####
 
-Link to an amendment published at 89 FR 94591, Nov. 27, 2024.
-
 (a) *Prior authorization as condition of payment.* As a condition of Medicare payment for the services in the categories of services on the list of hospital outpatient department services requiring prior authorization as specified in § 419.83(a), a provider must submit to CMS or its contractors a prior authorization request in accordance with the requirements of paragraph (c) of this section.
 
 (b) *Denial of claim.* (1) CMS or its contractors will deny a claim for a service that requires prior authorization if the provider has not received a provisional affirmation of coverage on the claim from CMS or its contractor unless the provider is exempt under § 419.83(c).
@@ -30,10 +28,12 @@ Link to an amendment published at 89 FR 94591, Nov. 27, 2024.
 
 (ii) CMS or its contractor will issue a non-affirmation to the provider if it is determined that applicable Medicare coverage, coding, and payment rules in chapter IV of this title or in Title XVIII of the Social Security Act are not met.
 
-(iii) The provisional affirmation or non-affirmation will be issued within 10 business days of receipt of the prior authorization request.
+(iii) The provisional affirmation or non-affirmation will be issued within 7-calendar days of receipt of the prior authorization request.
 
 (2) *Review of expedited review request.* Upon receipt of a request for expedited review, CMS or its contractor will complete an expedited review of the prior authorization request if it is determined that a delay could seriously jeopardize the beneficiary's life, health, or ability to regain maximum function, and issue a provisional affirmation or non-affirmation decision in accordance with paragraph (d)(1) of this section within 2 business days of the expedited review request.
 
 (e) *Resubmission.* (1) A provider may resubmit a prior authorization request, upon receipt of a non-affirmation, consistent with the requirements in paragraph (c)(1) of this section.
 
 (2) A provider may resubmit a request for expedited review consistent with the requirements in paragraph (c)(1) of this section.
+
+[84 FR 61491, Nov. 12, 2019, as amended at 89 FR 94591, Nov. 27, 2024]

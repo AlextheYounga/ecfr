@@ -1,7 +1,5 @@
 ##### § 58.35 Categorical exclusions. #####
 
-Link to an amendment published at 89 FR 20056, Mar. 20, 2024.This amendment was delayed until Dec. 31, 2024, at 89 FR 50523, June 14, 2024.
-
 Categorical exclusion refers to a category of activities for which no environmental impact statement or environmental assessment and finding of no significant impact under NEPA is required, except in extraordinary circumstances (see § 58.2(a)(3)) in which a normally excluded activity may have a significant impact. Compliance with the other applicable Federal environmental laws and authorities listed in § 58.5 is required for any categorical exclusion listed in paragraph (a) of this section.
 
 (a) *Categorical exclusions subject to § 58.5.* The following activities are categorically excluded under NEPA, but may be subject to review under authorities listed in § 58.5:
@@ -54,8 +52,10 @@ Categorical exclusion refers to a category of activities for which no environmen
 
 (7) Approval of supplemental assistance (including insurance or guarantee) to a project previously approved under this part, if the approval is made by the same responsible entity that conducted the environmental review on the original project and re-evaluation of the environmental findings is not required under § 58.47.
 
+(8) HUD's guarantee of loans for one- to-four family dwellings on trust land and on fee land within an Indian reservation and on fee land owned by the Indian Tribe outside the Tribe's Indian Reservation boundaries, under the Direct Guarantee procedure for the Section 184 Indian Housing loan guarantee program without any review or approval of the application for the loan guarantee by HUD or the responsible entity or approval of the loan guarantee by HUD before the execution of the contract for construction or rehabilitation and the loan closing.
+
 (c) *Circumstances requiring NEPA review.* If a responsible entity determines that an activity or project identified in paragraph (a) or (b) of this section, because of extraordinary circumstances and conditions at or affecting the location of the activity or project, may have a significant environmental effect, it shall comply with all the requirements of this part.
 
 (d) The Environmental Review Record (ERR) must contain a well organized written record of the process and determinations made under this section.
 
-[61 FR 19122, Apr. 30, 1996, as amended at 63 FR 15272, Mar. 30, 1998; 68 FR 56129, Sept. 29, 2003; 78 FR 68734, Nov. 15, 2013]
+[61 FR 19122, Apr. 30, 1996, as amended at 63 FR 15272, Mar. 30, 1998; 68 FR 56129, Sept. 29, 2003; 78 FR 68734, Nov. 15, 2013; 89 FR 20056, Mar. 20, 2024]

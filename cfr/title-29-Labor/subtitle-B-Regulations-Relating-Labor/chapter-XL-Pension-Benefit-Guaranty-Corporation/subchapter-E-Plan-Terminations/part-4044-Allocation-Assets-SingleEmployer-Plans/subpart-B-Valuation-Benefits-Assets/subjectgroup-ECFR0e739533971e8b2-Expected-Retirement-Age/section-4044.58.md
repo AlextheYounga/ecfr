@@ -1,27 +1,25 @@
 ##### § 4044.58 Tables used to determine expected retirement age. #####
 
-Link to an amendment published at 89 FR 104043, Dec. 20, 2024.
-
 The following tables are used for determining expected retirement age under §§ 4044.55 through 4044.57.
 
-|                                     If participant reaches URA in year—                                      |   Participant's retirement rate category is—    |                                                                        |     |     |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------|-----|-----|
-|                     Low <sup>2</sup> if monthly  <br/>benefit at URA  <br/>is less than—                     |Medium <sup>3</sup> if monthly benefit at URA is—|High <sup>4</sup> if monthly  <br/>benefit at URA  <br/>is greater than—|     |     |
-|                                                    From—                                                     |                       To—                       |                                                                        |     |     |
-|                                                     2025                                                     |                       802                       |                                  802                                   |3,388|3,388|
-|                                                     2026                                                     |                       821                       |                                  821                                   |3,466|3,466|
-|                                                     2027                                                     |                       839                       |                                  839                                   |3,546|3,546|
-|                                                     2028                                                     |                       859                       |                                  859                                   |3,627|3,627|
-|                                                     2029                                                     |                       879                       |                                  879                                   |3,711|3,711|
-|                                                     2030                                                     |                       899                       |                                  899                                   |3,796|3,796|
-|                                                     2031                                                     |                       919                       |                                  919                                   |3,883|3,883|
-|                                                     2032                                                     |                       941                       |                                  941                                   |3,973|3,973|
-|                                                     2033                                                     |                       962                       |                                  962                                   |4,064|4,064|
-|                                                2034 or later                                                 |                       984                       |                                  984                                   |4,157|4,157|
-|<sup>1</sup> Applicable tables for valuation dates before 2024 are available on PBGC's website (www.pbgc.gov).|                                                 |                                                                        |     |     |
-|                                           <sup>2</sup> Table II-A.                                           |                                                 |                                                                        |     |     |
-|                                           <sup>3</sup> Table II-B.                                           |                                                 |                                                                        |     |     |
-|                                           <sup>4</sup> Table II-C.                                           |                                                 |                                                                        |     |     |
+|                               If participant  <br/>reaches URA in  <br/>year—                                |      Participant's retirement rate category is—       |                                                                        |     |     |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------|-----|-----|
+|                     Low <sup>2</sup> if monthly  <br/>benefit at URA  <br/>is less than—                     |Medium <sup>3</sup> if monthly benefit  <br/>at URA is—|High <sup>4</sup> if monthly  <br/>benefit at URA is  <br/>greater than—|     |     |
+|                                                    From—                                                     |                          To—                          |                                                                        |     |     |
+|                                                     2026                                                     |                          825                          |                                  825                                   |3,486|3,486|
+|                                                     2027                                                     |                          844                          |                                  844                                   |3,566|3,566|
+|                                                     2028                                                     |                          864                          |                                  864                                   |3,648|3,648|
+|                                                     2029                                                     |                          884                          |                                  884                                   |3,732|3,732|
+|                                                     2030                                                     |                          904                          |                                  904                                   |3,818|3,818|
+|                                                     2031                                                     |                          925                          |                                  925                                   |3,906|3,906|
+|                                                     2032                                                     |                          946                          |                                  946                                   |3,996|3,996|
+|                                                     2033                                                     |                          968                          |                                  968                                   |4,088|4,088|
+|                                                     2034                                                     |                          990                          |                                  990                                   |4,182|4,182|
+|                                                2035 or later                                                 |                         1,013                         |                                 1,013                                  |4,278|4,278|
+|<sup>1</sup> Applicable tables for valuation dates before 2025 are available on PBGC's website (www.pbgc.gov).|                                                       |                                                                        |     |     |
+|                                           <sup>2</sup> Table II-A.                                           |                                                       |                                                                        |     |     |
+|                                           <sup>3</sup> Table II-B.                                           |                                                       |                                                                        |     |     |
+|                                           <sup>4</sup> Table II-C.                                           |                                                       |                                                                        |     |     |
 
 |Participant's earliest retirement age at valuation date|Unreduced retirement age|   |   |   |   |   |   |   |   |   |   |
 |-------------------------------------------------------|------------------------|---|---|---|---|---|---|---|---|---|---|
@@ -122,4 +120,4 @@ The following tables are used for determining expected retirement age under §§
 |                          69                           |                        |   |   |   |   |   |   |   |   |69 |69 |
 |                          70                           |                        |   |   |   |   |   |   |   |   |   |70 |
 
-[89 FR 48306, June 6, 2024]
+[89 FR 48306, June 6, 2024, as amended at 89 FR 104043, Dec. 20, 2024]

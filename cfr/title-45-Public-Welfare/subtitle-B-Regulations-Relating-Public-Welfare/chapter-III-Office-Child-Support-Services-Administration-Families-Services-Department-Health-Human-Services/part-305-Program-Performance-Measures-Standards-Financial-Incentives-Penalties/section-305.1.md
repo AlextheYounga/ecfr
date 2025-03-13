@@ -1,5 +1,7 @@
 ##### § 305.1 Definitions. #####
 
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+
 The definitions found in § 301.1 of this chapter are also applicable to this part. In addition, for purposes of this part:
 
 (a) The term *IV-D case* means a parent (mother, father, or putative father) who is now or eventually may be obligated under law for the support of a child or children receiving services under the title IV-D program. A parent is a separate IV-D case for each family with a dependent child or children that the parent may be obligated to support. If both parents are absent and liable or potentially liable for support of a child or children receiving services under the IV-D program, each parent is considered a separate IV-D case. In counting cases for the purposes of this part, States may exclude cases closed under § 303.11 and cases over which the State has no jurisdiction. Lack of jurisdiction cases are those in which a non-custodial parent resides in the civil jurisdictional boundaries of another country or federally recognized Indian Tribe and no income or assets of this individual are located or derived from outside that jurisdiction and the State has no other means through which to enforce the order.

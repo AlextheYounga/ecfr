@@ -1,5 +1,7 @@
 ##### § 302.85 Mandatory computerized support enforcement system. #####
 
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+
 (a) *General.* The State plan shall provide that the State will have in effect a computerized support enforcement system:
 
 (1) This guide is available on the OCSE Web site; and

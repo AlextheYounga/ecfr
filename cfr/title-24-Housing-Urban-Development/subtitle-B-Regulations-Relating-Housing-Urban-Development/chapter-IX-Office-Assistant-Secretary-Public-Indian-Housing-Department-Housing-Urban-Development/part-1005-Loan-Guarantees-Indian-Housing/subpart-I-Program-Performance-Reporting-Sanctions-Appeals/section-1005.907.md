@@ -1,0 +1,13 @@
+##### § 1005.907 Sanctions and civil money penalties. #####
+
+(a) Where the Direct Guarantee Lender, Non-Direct Guarantee Lender, Holder or Servicer fails to comply with this part, including failure to maintain adequate accounting records, failure to adequately service loans, or failure to exercise proper credit or underwriting judgment, or becomes ineligible to participate pursuant to § 1005.225, or has engaged in practices otherwise detrimental to the interest of a Borrower or the United States, including but not limited to, failure to provide timely reporting, or failure to follow underwriting requirements set forth in this part, or failure to comply with Section 184 Program Guidance when it specifically provides times, processes, and procedures for complying with the requirements of this part, HUD may take any combination of the following actions:
+
+(1) Either temporarily or permanently terminate a Director Guarantee Lender or Non-Direct Guarantee Lender's status. If such action is taken and the terminated Direct Guarantee Lender wishes to maintain servicing rights to the Section 184 Guaranteed Loans, the terminated Direct Guarantee Lender must seek HUD approval as prescribed in Section 184 Program Guidance.
+
+(2) Bar the Direct Guarantee Lender or Holder from acquiring additional Section 184 Guaranteed Loans.
+
+(3) Require that the Direct Guarantee Lender assume not less than 10 percent of any loss on further Section 184 Guaranteed Loans made by the Direct Guarantee Lender.
+
+(4) Require that the Direct Guarantee Lender, Non-Direct Guarantee Lender, Holder, or Servicer comply with a corrective action plan or amend the Direct Guarantee Lender, Non-Direct Guarantee Lender or Holder's quality control plan, subject to HUD approval, to remedy the non-compliance with this part and any process prescribed by Section 184 Program Guidance. The plan shall also address methods to prevent the reoccurrence of any practices that are detrimental to the interest of the Borrower or HUD. The corrective action plan or amended quality control plan shall afford the Direct Guarantee Lender, Non-Direct Guarantee Lender, or Holder reasonable time to return to compliance.
+
+(b) HUD is authorized pursuant to 12 U.S.C. 1715z-13a(g)(2) to impose civil money penalties upon Direct Guarantee Lenders, Non-Direct Guarantee Lender, or Holders as set forth in 24 CFR part 30. The violations for which a civil money penalty may be imposed are listed in subpart B of 24 CFR part 30.

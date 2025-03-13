@@ -1,7 +1,5 @@
 ##### § 414.605 Definitions. #####
 
-Link to an amendment published at 89 FR 98559, Dec. 9, 2024.
-
 As used in this subpart, the following definitions apply to both land and water (hereafter collectively referred to as “ground”) ambulance services and to air ambulance services unless otherwise specified:
 
 *Advanced life support (ALS) assessment* is an assessment performed by an ALS crew as part of an emergency response that was necessary because the patient's reported condition at the time of dispatch was such that only an ALS crew was qualified to perform the assessment. An ALS assessment does not necessarily result in a determination that the patient requires an ALS level of service.
@@ -25,6 +23,16 @@ As used in this subpart, the following definitions apply to both land and water 
 (6) Surgical airway.
 
 (7) Intraosseous line.
+
+(8) Prehospital blood transfusion which includes:
+
+(i) Administration of low titer O+ and O− whole blood (WBT);
+
+(ii) Administration of packed red blood cells (PRBCs);
+
+(iii) Administration of plasma; or
+
+(iv) Administration of a combination of PRBCs and plasma.
 
 *Advanced life support (ALS) personnel* means an individual trained to the level of the emergency medical technician-intermediate (EMT-Intermediate) or paramedic. The EMT-Intermediate is defined as an individual who is qualified, in accordance with State and local laws, as an EMT-Basic and who is also qualified in accordance with State and local laws to perform essential advanced techniques and to administer a limited number of medications. The EMT-Paramedic is defined as possessing the qualifications of the EMT-Intermediate and also, in accordance with State and local laws, as having enhanced skills that include being able to administer additional interventions and medications.
 
@@ -58,4 +66,4 @@ As used in this subpart, the following definitions apply to both land and water 
 
 *Urban area* means a Metropolitan Statistical Area, as defined by the Executive Office of Management and Budget.
 
-[67 FR 9132, Feb. 27, 2002, as amended at 68 FR 67693, Dec. 5, 2003; 71 FR 69787, Dec. 1, 2006; 80 FR 71382, Nov. 16, 2015; 84 FR 63193, Nov. 15, 2019]
+[67 FR 9132, Feb. 27, 2002, as amended at 68 FR 67693, Dec. 5, 2003; 71 FR 69787, Dec. 1, 2006; 80 FR 71382, Nov. 16, 2015; 84 FR 63193, Nov. 15, 2019; 89 FR 98559, Dec. 9, 2024]

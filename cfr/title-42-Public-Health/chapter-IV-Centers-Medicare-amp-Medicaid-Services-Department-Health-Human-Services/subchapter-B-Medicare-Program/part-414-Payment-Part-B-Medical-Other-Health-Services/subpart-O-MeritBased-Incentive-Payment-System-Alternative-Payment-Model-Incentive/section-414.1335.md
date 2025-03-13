@@ -1,8 +1,6 @@
 ##### § 414.1335 Data submission criteria for the quality performance category. #####
 
-Link to an amendment published at 89 FR 98561, Dec. 9, 2024.
-
-(a) *Criteria.* A MIPS eligible clinician, group, virtual group, subgroup, or APM Entity must submit data on MIPS quality measures in one of the following manners, as applicable:
+(a) *Criteria.* Except as provided in paragraph (b) of this section, a MIPS eligible clinician, group, virtual group, subgroup, or APM Entity must submit data on MIPS quality measures in one of the following manners, as applicable:
 
 (1) *For Medicare Part B claims measures, MIPS CQMs, eCQMs, or QCDR measures.* (i) Except as provided in paragraph (a)(1)(ii) of this section, submits data on at least six measures, including at least one outcome measure. If an applicable outcome measure is not available, reports one other high priority measure. If fewer than six measures apply to the MIPS eligible clinician, group, virtual group, or APM Entity, reports on each measure that is applicable.
 
@@ -28,6 +26,6 @@ Link to an amendment published at 89 FR 98561, Dec. 9, 2024.
 
 (ii) [Reserved]
 
-(b) [Reserved]
+(b) *Special rule for the APM Performance Pathway (APP) Plus measure set.* A MIPS eligible clinician, group, or APM Entity that reports the APP Plus measure set via the APP must report on all measures included in the APP Plus measure set, except for administrative claims-based quality measures as provided in § 414.1325(a)(2)(i).
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017; 83 FR 60079, Nov. 23, 2018; 84 FR 63195, Nov. 15, 2019; 88 FR 79534, Nov. 16, 2023]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017; 83 FR 60079, Nov. 23, 2018; 84 FR 63195, Nov. 15, 2019; 88 FR 79534, Nov. 16, 2023; 89 FR 98561, Dec. 9, 2024]

@@ -1,0 +1,3 @@
+##### § 1005.901 Performance reviews. #####
+
+HUD may conduct periodic performance reviews of Direct Guarantee Lenders, Non-Direct Guarantee Lenders, Holders, and Servicers. These may include analytical reviews, customer surveys and on-site or remote monitoring reviews. These reviews may include, but are not limited to, an evaluation of compliance with this part. HUD will provide written notice of its assessment and any proposed corrective action, if applicable.

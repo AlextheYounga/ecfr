@@ -1,5 +1,7 @@
 ##### § 38.745 Disposition of applications. #####
 
+Link to an amendment published at 89 FR 107003, Dec. 31, 2024.
+
 (a) *Disposition of applications.* Upon review of an application and dependent on availability of funds, VA will:
 
 (1) Approve the application for funding, in whole or in part, for such amount of funds, and subject to such conditions that VA deems necessary or desirable;

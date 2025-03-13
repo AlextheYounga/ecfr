@@ -1,5 +1,7 @@
 ##### § 303.5 Establishment of paternity. #####
 
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+
 (a) For all cases referred to the IV-D agency or applying for services under § 302.33 of this chapter in which paternity has not been established, the IV-D agency must, as appropriate:
 
 (1) Provide an alleged father the opportunity to voluntarily acknowledge paternity in accordance with § 302.70(a)(5)(iii); and

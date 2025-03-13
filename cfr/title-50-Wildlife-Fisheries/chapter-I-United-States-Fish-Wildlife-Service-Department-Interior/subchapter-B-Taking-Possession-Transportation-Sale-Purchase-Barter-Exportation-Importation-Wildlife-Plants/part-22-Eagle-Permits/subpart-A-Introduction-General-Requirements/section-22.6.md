@@ -32,6 +32,8 @@ In addition to the definitions contained in part 10 of this subchapter, and unle
 
 *General permit* means a permit that has nationwide or regional standard conditions for a category, or categories, of activities that are substantially similar in nature.
 
+*Humane and healthful conditions* means using methods supported by the best available science that minimize fear, pain, stress, and suffering of a migratory bird held in possession. This definition applies during capture, possession (temporary or long term), and transport. Humane and healthful conditions pertain to handling (*e.g.,* during capture, care, release, restraint, and training), housing (whether temporary, permanent, or during transport), shelter, feeding and watering, sanitation, ventilation, protection from predators and vermin, and, as applicable, enrichment, veterinary care, and euthanasia.
+
 *Import* for the purpose of this part does not include the transportation of any dead bald or golden eagles, or their parts, nests, or dead eggs into the United States when accompanied with a valid transportation permit.
 
 *Important eagle-use area* means an eagle nest, foraging area, or communal roost site that eagles rely on for breeding, sheltering, or feeding, and the landscape features surrounding such nest, foraging area, or roost site that are essential for the continued viability of the site for breeding, feeding, or sheltering eagles.
@@ -62,4 +64,4 @@ In addition to the definitions contained in part 10 of this subchapter, and unle
 
 *Transportation into or out of the United States* for the purpose of this part means that the permitted item or items transported into or out of the United States do not change ownership at any time, they are not transferred from one person to another in the pursuit of gain or profit, and they are transported into or out of the United States for Indian religious purposes, or for scientific or exhibition purposes under the conditions and during the time period specified on a transportation permit for the items.
 
-[39 FR 1183, Jan. 4, 1974, as amended at 48 FR 57300, Dec. 29, 1983; 64 FR 50472, Sept. 17, 1999; 72 FR 31139, June 5, 2007; 74 FR 46876, Sept. 11, 2009; 81 FR 91550, Dec. 16, 2016; Redesignated at 87 FR 884, Jan. 7, 2022; 89 FR 9958, Feb. 12, 2024]
+[39 FR 1183, Jan. 4, 1974, as amended at 48 FR 57300, Dec. 29, 1983; 64 FR 50472, Sept. 17, 1999; 72 FR 31139, June 5, 2007; 74 FR 46876, Sept. 11, 2009; 81 FR 91550, Dec. 16, 2016; Redesignated at 87 FR 884, Jan. 7, 2022; 89 FR 9958, Feb. 12, 2024; 89 FR 107043, Dec. 31, 2024]

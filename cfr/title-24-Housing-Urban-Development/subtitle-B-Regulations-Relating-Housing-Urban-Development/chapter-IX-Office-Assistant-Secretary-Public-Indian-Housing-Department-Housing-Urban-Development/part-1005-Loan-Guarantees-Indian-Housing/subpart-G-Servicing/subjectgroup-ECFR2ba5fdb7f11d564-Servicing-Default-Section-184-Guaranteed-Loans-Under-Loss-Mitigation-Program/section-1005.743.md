@@ -1,0 +1,7 @@
+##### § 1005.743 Relief for Borrower in military service. #####
+
+(a) *Postponement of principal payments.* If the Borrower is a person in “military service,” as such term is defined in the Servicemembers Civil Relief Act (50 U.S.C. 3901-4043), the Servicer may, by written agreement with the Borrower, postpone for the period of military service and three months thereafter any part of the monthly payment which represents the Amortization of principal. The agreement shall contain a provision for the resumption of monthly payments after such a period in amounts which will completely amortize the Section 184 Guaranteed Loan within the maturity as provided in the original loan term.
+
+(b) *Forbearance.* Forbearance plans may be available to Borrowers in military service pursuant to § 1005.745(e).
+
+(c) *Postponement of foreclosure.* If at any time during default the Borrower is a person in “military service,” as such term is defined in the Servicemembers Civil Relief Act, the period during which the Borrower is in such military service shall be excluded in computing the period within which the Servicer shall complete First Legal Action to acquire the property or Tribal notice under § 1005.759(a). No postponement or delay in the prosecution of foreclosure proceedings during the period the Borrower is in such military service shall be construed as failure on the part of the Servicer to exercise reasonable diligence in prosecuting such proceedings to completion as required by this subpart.

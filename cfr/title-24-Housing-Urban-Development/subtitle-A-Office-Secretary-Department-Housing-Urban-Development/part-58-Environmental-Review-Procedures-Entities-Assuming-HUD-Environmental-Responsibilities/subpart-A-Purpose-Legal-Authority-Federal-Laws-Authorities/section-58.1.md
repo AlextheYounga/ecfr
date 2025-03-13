@@ -1,7 +1,5 @@
 ##### § 58.1 Purpose and applicability. #####
 
-Link to an amendment published at 89 FR 20056, Mar. 20, 2024.This amendment was delayed until Dec. 31, 2024, at 89 FR 50523, June 14, 2024.
-
 (a) *Purpose.* This part provides instructions and guidance to recipients of HUD assistance and other responsible entities for conducting an environmental review for a particular project or activity and for obtaining approval of a Request for Release of Funds.
 
 (b) *Applicability.* This part applies to activities and projects where specific statutory authority exists for recipients or other responsible entities to assume environmental responsibilities. Programs and activities subject to this part include:
@@ -36,7 +34,7 @@ Link to an amendment published at 89 FR 20056, Mar. 20, 2024.This amendment was 
 
 (ii) Section 806 for Native Hawaiian Housing Block Grants (25 U.S.C. 4226);
 
-(11) Indian Housing Loan Guarantees authorized by section 184 of the Housing and Community Development Act of 1992, in accordance with section 184(k) (12 U.S.C. 1715z-13a(k)); and
+(11) Indian Housing Loan Guarantees authorized by section 184 of the Housing and Community Development Act of 1992 on trust land and on fee land within an Indian reservation, and on fee land owned by the Indian Tribe outside of the Tribe's Indian reservation boundaries, in accordance with section 184(k) (12 U.S.C. 1715z-13a(k)); and
 
 (12) Grants for Housing Opportunities for Persons with AIDS (HOPWA) under the AIDS Housing Opportunity Act, as follows: competitive grants beginning with Fiscal Year 2001 and all formula grants, in accordance with section 856(h) (42 U.S.C. 12905(h)); all grants for Fiscal Year 1999 and prior years, in accordance with section 207(c) of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999 (Pub. L. 105-276, approved October 21, 1998).
 
@@ -44,4 +42,4 @@ Link to an amendment published at 89 FR 20056, Mar. 20, 2024.This amendment was 
 
 (d) To the extent permitted by applicable laws and the applicable regulations of the Council on Environmental Quality, the Assistant Secretary for Community Planning and Development may, for good cause and with appropriate conditions, approve waivers and exceptions or establish criteria for exceptions from the requirements of this part.
 
-[61 FR 19122, Apr. 30, 1996, as amended at 68 FR 56127, Sept. 29, 2003]
+[61 FR 19122, Apr. 30, 1996, as amended at 68 FR 56127, Sept. 29, 2003; 89 FR 20056, Mar. 20, 2024]

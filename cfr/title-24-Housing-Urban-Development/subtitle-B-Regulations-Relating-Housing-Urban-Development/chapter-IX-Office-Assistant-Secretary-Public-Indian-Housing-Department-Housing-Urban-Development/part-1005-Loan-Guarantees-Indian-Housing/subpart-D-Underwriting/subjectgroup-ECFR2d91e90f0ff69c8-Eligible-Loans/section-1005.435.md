@@ -1,0 +1,3 @@
+##### § 1005.435 Eligible collateral. #####
+
+A Section 184 Guaranteed Loan may be secured by any collateral authorized under existing Federal law or applicable State or Tribal law. The collateral must be sufficient to cover the amount of the loan, as determined by the Direct Guarantee Lender and approved by HUD. Improvements on Trust Lands may be considered as eligible collateral. Trust Land cannot be considered as part of the eligible collateral.

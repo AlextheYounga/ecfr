@@ -1,12 +1,20 @@
 ##### § 405.1845 Composition of Board; hearings, decisions, and remands. #####
 
-Link to an amendment published at 89 FR 69909, Aug. 28, 2024.
+(a) *Composition of the Board.* The Board consists of five members appointed by the Secretary.
 
-(a) The Board will consist of five members appointed by the Secretary. All shall be knowledgeable in the field of cost reimbursement. At least one shall be a certified public accountant. Two Board members shall be representative of providers of services.
+(1) All members must be knowledgeable in the field of payment of providers under Medicare Part A.
 
-(b) The term of office for Board members shall be 3 years, except that initial appointments may be for such shorter terms as the Secretary may designate to permit staggered terms of office. No member shall serve more than two consecutive 3-year terms of office. The Secretary shall have the authority to terminate a Board member's term of office for good cause.
+(2) At least one member must be a certified public accountant.
 
-(c) *Composition of the Board.* The Secretary designates one member of the Board as Chairperson. The Chairperson coordinates and directs the administrative activities of the Board and the conduct of proceedings before the Board. CMS provides administrative support for the Board. Under the direction of the Chairperson, the Board is solely responsible for the content of its decisions.
+(3) At least two Board members must be representative of providers of services.
+
+(b) *Terms of office.* The term of office for Board members must be 3 years, except that initial appointments may be for such shorter terms as the Secretary may designate to permit staggered terms of office.
+
+(1) No member may serve more than three consecutive terms of office.
+
+(2) The Secretary has the authority to terminate a Board member's term of office for good cause.
+
+(c) *Role of the Chairperson.* The Secretary designates one member of the Board as Chairperson. The Chairperson coordinates and directs the administrative activities of the Board and the conduct of proceedings before the Board. CMS provides administrative support for the Board. Under the direction of the Chairperson, the Board is solely responsible for the content of its decisions.
 
 (d) *Quorum.* (1) The Board must have a quorum in order to issue one of the decisions specified as final, or deemed final by the Administrator, under § 405.1875(a)(2)(i), (a)(2)(iii), and (a)(2)(iv), but a quorum is not required for other Board actions.
 
@@ -34,4 +42,4 @@ Link to an amendment published at 89 FR 69909, Aug. 28, 2024.
 
 (3) A Board remand order is not subject to immediate Administrator review unless the Administrator determines that the remand order might otherwise evade his or her review (as described in § 405.1875(a)(2)(iv) of this subpart).
 
-[39 FR 34515, Sept. 26, 1974, as amended at 41 FR 52051, Nov. 26, 1976. Redesignated at 42 FR 52826, Sept. 30, 1977, as amended at 73 FR 30256, May 23, 2008; 85 FR 59019, Sept. 18, 2020]
+[39 FR 34515, Sept. 26, 1974, as amended at 41 FR 52051, Nov. 26, 1976. Redesignated at 42 FR 52826, Sept. 30, 1977, as amended at 73 FR 30256, May 23, 2008; 85 FR 59019, Sept. 18, 2020; 89 FR 69909, Aug. 28, 2024]

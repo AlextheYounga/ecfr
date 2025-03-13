@@ -1,5 +1,7 @@
 ##### § 303.2 Establishment of cases and maintenance of case records. #####
 
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+
 (a) The IV-D agency must:
 
 (1) Make applications for child support services readily accessible to the public;

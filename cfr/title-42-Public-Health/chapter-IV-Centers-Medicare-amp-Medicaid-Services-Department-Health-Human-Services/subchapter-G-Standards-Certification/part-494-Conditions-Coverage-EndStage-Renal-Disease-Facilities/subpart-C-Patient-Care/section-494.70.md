@@ -1,12 +1,10 @@
 ##### § 494.70 Condition: Patients' rights. #####
 
-Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
-
 The dialysis facility must inform patients (or their representatives) of their rights (including their privacy rights) and responsibilities when they begin their treatment and must protect and provide for the exercise of those rights.
 
 (a) *Standard: Patients' rights.* The patient has the right to—
 
-(1) Respect, dignity, and recognition of his or her individuality and personal needs, and sensitivity to his or her psychological needs and ability to cope with ESRD;
+(1) Respect, dignity, and recognition of his or her individuality and personal needs, and sensitivity to his or her psychological needs and ability to cope with kidney failure;
 
 (2) Receive all information in a way that he or she can understand;
 
@@ -24,7 +22,7 @@ The dialysis facility must inform patients (or their representatives) of their r
 
 (9) Be informed of facility policies regarding the reuse of dialysis supplies, including hemodialyzers;
 
-(10) Be informed by the physician, nurse practitioner, clinical nurse specialist, or physician's assistant treating the patient for ESRD of his or her own medical status as documented in the patient's medical record, unless the medical record contains a documented contraindication;
+(10) Be informed by the physician, nurse practitioner, clinical nurse specialist, or physician's assistant treating the patient for kidney failure of his or her own medical status as documented in the patient's medical record, unless the medical record contains a documented contraindication;
 
 (11) Be informed of services available in the facility and charges for services not covered under Medicare;
 
@@ -50,7 +48,7 @@ The dialysis facility must inform patients (or their representatives) of their r
 
 (1) Be informed annually, on a timely basis for each plan year, of all available health coverage options, including but not limited to Medicare, Medicaid, CHIP and individual market plans. This must include information on:
 
-(i) How plans in the individual market will affect the patient's access to, and costs for the providers and suppliers, services, and prescription drugs that are currently within the individual's ESRD plan of care as well as those likely to result from other documented health care needs. This must include an overview of the health-related and financial risks and benefits of the individual market plans available to the patient (including plans offered through and outside the Exchange).
+(i) How plans in the individual market will affect the patient's access to, and costs for the providers and suppliers, services, and prescription drugs that are currently within the individual's plan of care as well as those likely to result from other documented health care needs. This must include an overview of the health-related and financial risks and benefits of the individual market plans available to the patient (including plans offered through and outside the Exchange).
 
 (ii) Medicare and Medicaid/Children's Health Insurance Coverage (CHIP) coverage, including Medicare Savings Programs, and how enrollment in those programs will affect the patient's access to and costs for health care providers, services, and prescription drugs that are currently within the individual's plan of care.
 
@@ -62,4 +60,4 @@ The dialysis facility must inform patients (or their representatives) of their r
 
 (d) *Standard: Posting of rights.* The dialysis facility must prominently display a copy of the patient's rights in the facility, including the current State agency and ESRD network mailing addresses and telephone complaint numbers, where it can be easily seen and read by patients.
 
-[73 FR 20475, Apr. 15, 2008, as amended at 81 FR 90227, Dec. 14, 2016]
+[73 FR 20475, Apr. 15, 2008, as amended at 81 FR 90227, Dec. 14, 2016; 89 FR 89213, Nov. 12, 2024]

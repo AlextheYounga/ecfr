@@ -1,7 +1,5 @@
 ##### § 660.131 Pacific whiting fishery management measures. #####
 
-Link to an amendment published at 89 FR 101533, Dec. 16, 2024.
-
 (a) *General.* This section applies to the MS sector, the C/P sector, the Pacific whiting IFQ fishery, and Shorebased IFQ vessels targeting Pacific whiting under trip limits outside the Pacific whiting primary season.
 
 (b) *Pacific whiting primary seasons and Pacific whiting trip limits*—(1) *Pacific whiting fishery primary seasons.* (i) For the Pacific whiting IFQ fishery, the primary season is the period(s) of the large-scale Pacific whiting target fishery conducted after the primary season start date.
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 101533, Dec. 16, 2024.
 
 (*2*) South of 40°30′ N. lat.—April 15.
 
-(3) *Pacific whiting trip limits.* For Shorebased IFQ Program vessels targeting Pacific whiting outside the primary season, the “per trip” limit for whiting is announced in Table 1 of this subpart. The per-trip limit is a routine management measure under § 660.60(c). This trip limit includes any whiting caught shoreward of 100 fm (183 m) in the Eureka management-area. The per-trip limit for other groundfish species are announced in Table 1 (North) and Table 1 (South) of this subpart and apply as follows:
+(3) *Pacific whiting trip limits.* For Shorebased IFQ Program vessels targeting Pacific whiting outside the primary season, the “per trip” limit for whiting is announced in table 1b of this subpart. The per-trip limit is a routine management measure under § 660.60(c). This trip limit includes any whiting caught shoreward of 100 fm (183 m) in the Eureka management area. The per-trip limit for other groundfish species are announced in tables 1b (North) and 1b (South) of this subpart and apply as follows:
 
 (i) During the groundfish cumulative limit periods both before and after the primary whiting season, vessels may use either small and/or large footrope gear, but are subject to the more restrictive trip limits for those entire cumulative periods.
 
@@ -52,7 +50,7 @@ Link to an amendment published at 89 FR 101533, Dec. 16, 2024.
 
 (1) The vessel makes meal (ground dried fish), oil, or minced (ground flesh) product, but does not make, and does not have on board, surimi (fish paste with additives), fillets (meat from the side of the fish, behind the head and in front of the tail), or headed and gutted fish (head and viscera removed).
 
-(2) The amount of whole whiting on board does not exceed the trip limit (if any) allowed under § 660.60(c), subpart C, or Tables 1 (North) or 1 (South) in subpart D.
+(2) The amount of whole whiting on board does not exceed the trip limit (if any) allowed under § 660.60(c) or table 1b (North) or 1b (South) in subpart D.
 
 (3) Any trawl net and doors on board are stowed in a secured and covered manner, and detached from all towing lines, so as to be rendered unusable for fishing.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 89 FR 101533, Dec. 16, 2024.
 
 (i) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018; 84 FR 63988, Nov. 19, 2019; 84 FR 65926, Dec. 2, 2019; 87 FR 77006, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018; 84 FR 63988, Nov. 19, 2019; 84 FR 65926, Dec. 2, 2019; 87 FR 77006, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023; 89 FR 101533, Dec. 16, 2024]

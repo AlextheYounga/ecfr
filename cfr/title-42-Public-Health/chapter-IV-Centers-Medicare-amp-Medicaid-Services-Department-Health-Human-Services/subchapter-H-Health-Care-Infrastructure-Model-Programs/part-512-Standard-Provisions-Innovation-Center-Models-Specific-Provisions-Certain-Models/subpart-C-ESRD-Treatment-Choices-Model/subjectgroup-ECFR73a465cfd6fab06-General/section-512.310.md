@@ -1,7 +1,5 @@
 ##### § 512.310 Definitions. #####
 
-Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
-
 For purposes of this subpart, the following definitions apply.
 
 *Adjusted ESRD PPS per Treatment Base Rate* means the per treatment payment amount as defined in § 413.230 of this chapter, including patient-level adjustments and facility-level adjustments, and excluding any applicable training adjustment, add-on payment amount, outlier payment amount, transitional drug add-on payment adjustment (TDAPA) amount, and transitional add-on payment adjustment for new and innovative equipment and supplies (TPNIES) amount.
@@ -16,15 +14,21 @@ For purposes of this subpart, the following definitions apply.
 
 *Comparison Geographic Area(s)* means those HRRs that are not Selected Geographic Areas.
 
-*ESRD Beneficiary* means a beneficiary who meets either of the following:
+*ESRD Beneficiary* means a beneficiary who meets any of the following:
 
 (1) Is receiving dialysis or other services for end-stage renal disease, up to and including the month in which the beneficiary receives a kidney transplant up to and including the month in which the beneficiary receives a kidney transplant.
 
-(2) Has already received a kidney transplant and has a non-AKI dialysis or MCP claim—
+(2) Has already received a kidney transplant and has a non-AKI dialysis or MCP claim at least 12 months after the beneficiary's latest transplant date.
 
-(i) At least 12 months after the beneficiary's latest transplant date; or
+(3) Has a kidney transplant failure less than 12 months after the beneficiary's latest transplant date as identified by:
 
-(ii) Less than 12 months after the beneficiary's latest transplant date and has a kidney transplant failure diagnosis code documented on any Medicare claim.
+(i) Two or more MCP claims in the180 days following the date on which the kidney transplant was received;
+
+(ii) 24 or more maintenance dialysis treatments at any time after 180 days following the transplant date; or,
+
+(iii) Indication of a transplant failure after the beneficiary's date of transplant based on data from the Scientific Registry of Transplant Recipients (SRTR) database.
+
+(4) If a beneficiary meets more than one of criteria described in paragraphs (3)(i) through (iii) of this definition, the beneficiary will be considered an ESRD beneficiary starting with the earliest month in which transplant failure was recorded.
 
 *ESRD facility* means an ESRD facility as specified in § 413.171 of this chapter.
 
@@ -76,4 +80,4 @@ For purposes of this subpart, the following definitions apply.
 
 *Transplant waitlist rate* means the rate of ESRD Beneficiaries attributed to the ETC Participant who were on the kidney transplant waitlist during the MY, as described in § 512.365(c)(1)(i)-(ii) and § 512.365(c)(2)(i)-(ii).
 
-[85 FR 61362, Sept. 29, 2020, as amended at 86 FR 62020, Nov. 8, 2021]
+[85 FR 61362, Sept. 29, 2020, as amended at 86 FR 62020, Nov. 8, 2021; 89 FR 89213, Nov. 12, 2024]

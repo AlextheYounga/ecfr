@@ -1,0 +1,5 @@
+##### § 93.318 Retention and custody of the institutional record and all sequestered evidence. #####
+
+(a) *Maintenance of institutional record and all sequestered evidence.* An institution must maintain the institutional record and all sequestered evidence including physical objects (regardless of whether the evidence is part of the institutional record) in a secure manner for seven years after completion of the proceeding or the completion of any HHS proceeding involving the research misconduct allegation under subparts D and E of this part, whichever is later, unless custody has been transferred to HHS under paragraph (b) of this section or ORI advises otherwise in writing.
+
+(b) *Provision for HHS custody.* On request, institutions must transfer custody, or provide copies, to HHS of the institutional record or any component of the institutional record and any sequestered evidence (regardless of whether the evidence is included in the institutional record) for ORI to conduct its oversight review, develop the administrative record, or present the administrative record in any proceeding under subparts D and E of this part.

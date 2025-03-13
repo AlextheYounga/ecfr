@@ -1,7 +1,5 @@
 ##### § 62.23 WYO Companies authorized. #####
 
-Link to an amendment published at 89 FR 87309, Nov. 1, 2024.
-
 (a) Pursuant to section 1345 of the Act, the Federal Insurance Administrator may enter into arrangements with individual private sector property insurance companies or other insurers, such as public entity risk sharing organizations. Under these arrangements, such companies or other insurers may offer flood insurance coverage under the program to eligible applicants. Such WYO companies may offer flood coverage to policyholders insured by them under their own property business lines of insurance, pursuant to their customary business practices, including their usual arrangements with agents and producers. WYO companies may sell flood insurance coverage in any State in which the WYO company is authorized to engage in the business of property insurance. Other WYO insurers may offer flood insurance coverage to their pool members insured by them under their own property business lines of coverage, pursuant to their customary business practices. These other WYO insurers may provide flood coverage in any State that has authorized the other insurer to provide property coverage to its members. Arrangements entered into by WYO companies or other insurers under this subpart must be in the form and substance of the standard arrangement, titled “Financial Assistance/Subsidy Arrangement.” Each year, at least six months before the effective date of the “Financial Assistance/Subsidy Arrangement,” FEMA must publish in the Federal Register and make available to the WYO companies the terms for subscription or re-subscription to the “Financial Assistance/Subsidy Arrangement.”
 
 (b) Any duly authorized insurer so engaged in the Program shall be a WYO Company. (The term “WYO Company” shall include the following kinds of insurers: Public entity risk-sharing organizations, an association of local governments, a State association of political subdivisions, a State-sponsored municipal league, and other intergovernmental risk-sharing pool for covering public entity structures.)
@@ -30,7 +28,7 @@ Link to an amendment published at 89 FR 87309, Nov. 1, 2024.
 
 (6) Flood insurance coverage will be issued by the WYO Company on a separate policy form and will not be added, by endorsement, to the Company's other property insurance forms.
 
-(7) Premium payment plans can be offered by the WYO Company so long as the net premium depository requirements specified under the NFIP/WYO Program accounting procedures are met. A cancellation by the WYO Company for non-payment of premium will not produce a pro rata return of the net premium deposit to the WYO Company.
+(7) Premium payment plans must be offered by the WYO Company under the terms prescribed by the Administrator in § 61.10(a)(1).
 
 (8) NFIP business will not be assumed by the WYO Companies at any time other than at renewal time, at which time the insurance producer may submit the business to the WYO Company as new business. However, it is permissible to cancel and rewrite flood policies to obtain concurrent expiration dates with other policies covering the property.
 
@@ -110,4 +108,4 @@ Link to an amendment published at 89 FR 87309, Nov. 1, 2024.
 
 (iii) Remind the insured that similar coverage may be available at significantly lower cost and advise that the policy can be cancelled at any time during the policy year and a pro rata refund provided for the unearned portion of the premium in the event the insured purchases another policy that is acceptable to satisfy the requirements of the 1973 Act.
 
-[61 FR 51219, Oct. 1, 1996, as amended at 64 FR 56176, Oct. 18, 1999; 67 FR 13549, Mar. 22, 2002; 69 FR 45610, July 30, 2004; 74 FR 15341, Apr. 3, 2009; 81 FR 84490, Nov. 23, 2016]
+[61 FR 51219, Oct. 1, 1996, as amended at 64 FR 56176, Oct. 18, 1999; 67 FR 13549, Mar. 22, 2002; 69 FR 45610, July 30, 2004; 74 FR 15341, Apr. 3, 2009; 81 FR 84490, Nov. 23, 2016; 89 FR 87309, Nov. 1, 2024]

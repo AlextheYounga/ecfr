@@ -1,0 +1,5 @@
+##### § 1005.847 Final payment. #####
+
+(a) HUD's payment of a claim(s) shall be deemed as final payment to the Holder, notwithstanding the Holder's ability to present additional claim(s) in accordance with § 1005.807 as applicable. The Holder shall have no further rights against the Borrower or HUD when there is a final payment. This paragraph does not preclude HUD from seeking reimbursement of costs and return of amounts from the Holder or Originating Direct Guarantee Lender pursuant to §§ 1005.849 and 1005.851.
+
+(b) In cases where HUD reconveys the property to the Holder and HUD is reimbursed for all expenses and Holder returns all amounts pursuant to §§ 1005.849 and 1005.851, provisions under paragraph (a) of this section shall not apply. However, the resubmission of the Claim, if any, shall be subject to § 1005.849(b) and any additional processes as prescribed by Section 184 Program Guidance.

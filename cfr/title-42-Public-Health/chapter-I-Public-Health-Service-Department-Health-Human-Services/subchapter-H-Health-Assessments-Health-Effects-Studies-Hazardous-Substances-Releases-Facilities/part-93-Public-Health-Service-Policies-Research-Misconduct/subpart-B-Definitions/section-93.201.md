@@ -1,3 +1,3 @@
-##### § 93.201 Allegation. #####
+##### § 93.201 Administrative action. #####
 
-*Allegation* means a disclosure of possible research misconduct through any means of communication. The disclosure may be by written or oral statement or other communication to an institutional or HHS official.
+Administrative action means an HHS action, consistent with § 93.407, taken in response to a research misconduct proceeding to protect the health and safety of the public, to promote the integrity of PHS-supported biomedical or behavioral research, biomedical or behavioral research training, or activities related to that research or research training, or to conserve public funds.

@@ -1,7 +1,5 @@
 ##### § 5.33 Business combinations involving a national bank or Federal savings association. #####
 
-Link to an amendment published at 89 FR 78218, Sept. 25, 2024.
-
 (a) *Authority.* 12 U.S.C. 24(Seventh), 93a, 181, 214a, 214b, 215, 215a, 215a-1, 215a-3, 215b, 215c, 1462a, 1463, 1464, 1467a, 1828(c), 1831u, 2903, and 5412(b)(2)(B).
 
 (b) *Scope.* This section sets forth the provisions governing business combinations and the standards for:
@@ -30,11 +28,7 @@ Link to an amendment published at 89 FR 78218, Sept. 25, 2024.
 
 (v) The assumption by a national bank or a Federal savings association of any deposit liabilities of another insured depository institution or any deposit accounts or other liabilities of a credit union or any other institution that will become deposits at the national bank or Federal savings association.
 
-(3) *Business reorganization* means either:
-
-(i) A business combination between eligible banks and eligible savings associations, or between an eligible bank or an eligible savings association and an eligible depository institution, that are controlled by the same holding company or that will be controlled by the same holding company prior to the combination; or
-
-(ii) A business combination between an eligible bank or an eligible savings association and an interim national bank or interim Federal savings association chartered in a transaction in which a person or group of persons exchanges its shares of the eligible bank or eligible savings association for shares of a newly formed holding company and receives after the transaction substantially the same proportional share interest in the holding company as it held in the eligible bank or eligible savings association (except for changes in interests resulting from the exercise of dissenters' rights), and the reorganization involves no other transactions involving the bank or savings association.
+(3) [Reserved]
 
 (4) *Company* means a corporation, limited liability company, partnership, business trust, association, or similar organization.
 
@@ -256,21 +250,7 @@ Link to an amendment published at 89 FR 78218, Sept. 25, 2024.
 
 (ii) Unless otherwise specified in Federal law, all filings required by the applicable State procedures must be made to the OCC.
 
-(i) *Expedited review for business reorganizations and streamlined applications.* A filing that qualifies as a business reorganization as defined in paragraph (d)(3) of this section, or a filing that qualifies as a streamlined application as described in paragraph (j) of this section, is deemed approved by the OCC as of the 15th day after the close of the comment period, unless the OCC notifies the filer that the filing is not eligible for expedited review, or the expedited review process is extended, under § 5.13(a)(2). An application under this paragraph must contain all necessary information for the OCC to determine if it qualifies as a business reorganization or streamlined application.
-
-(j) *Streamlined applications.* (1) A filer may qualify for a streamlined business combination application in the following situations:
-
-(i) At least one party to the transaction is an eligible bank or eligible savings association, and all other parties to the transaction are eligible banks, eligible savings associations, or eligible depository institutions, the resulting national bank or resulting Federal savings association will be well capitalized immediately following consummation of the transaction, and the total assets of the target institution are no more than 50 percent of the total assets of the acquiring bank or Federal savings association, as reported in each institution's Consolidated Report of Condition and Income filed for the quarter immediately preceding the filing of the application;
-
-(ii) The acquiring bank or Federal savings association is an eligible bank or eligible savings association, the target bank or savings association is not an eligible bank, eligible savings association, or an eligible depository institution, the resulting national bank or resulting Federal savings association will be well capitalized immediately following consummation of the transaction, and the filers in a prefiling communication request and obtain approval from the appropriate OCC licensing office to use the streamlined application;
-
-(iii) The acquiring bank or Federal savings association is an eligible bank or eligible savings association, the target bank or savings association is not an eligible bank, eligible savings association, or an eligible depository institution, the resulting bank or resulting Federal savings association will be well capitalized immediately following consummation of the transaction, and the total assets acquired do not exceed 10 percent of the total assets of the acquiring national bank or acquiring Federal savings association, as reported in each institution's Consolidated Report of Condition and Income filed for the quarter immediately preceding the filing of the application; or
-
-(iv) In the case of a transaction under paragraph (g)(4) of this section, the acquiring bank is an eligible bank, the resulting national bank will be well capitalized immediately following consummation of the transaction, the filers in a prefiling communication request and obtain approval from the appropriate OCC licensing office to use the streamlined application, and the total assets acquired do not exceed 10 percent of the total assets of the acquiring national bank, as reported in the bank's Consolidated Report of Condition and Income filed for the quarter immediately preceding the filing of the application.
-
-(2) Notwithstanding paragraph (j)(1) of this section, a filer does not qualify for a streamlined business combination application if the transaction is part of a conversion under part 192 of this chapter.
-
-(3) When a business combination qualifies for a streamlined application, the filer should consult the Comptroller's Licensing Manual to determine the abbreviated application information required by the OCC. The OCC encourages prefiling communications between the filers and the appropriate OCC licensing office before filing under paragraph (j) of this section.
+(i)-(j) [Reserved]
 
 (k) *Exit notice to OCC*—(1) *Notice required.* As provided in paragraphs (g)(7)(ii), (g)(8)(iii), and (g)(9)(ii) of this section, a national bank or Federal savings association engaging in a consolidation or merger in which it is not the filer and the resulting institution must file a notice rather than an application to the appropriate OCC licensing office advising of its intention.
 
@@ -368,4 +348,4 @@ Link to an amendment published at 89 FR 78218, Sept. 25, 2024.
 
 (ii) The authorized unissued shares or the treasury shares of voting stock of the resulting national bank or Federal stock savings association to be issued or delivered under the plan of merger or consolidation, plus those initially issuable upon conversion of any securities to be issued or delivered under such plan, do not exceed 20 percent of the total shares of voting stock of such national bank or Federal stock savings association outstanding immediately prior to the effective date of the consolidation or merger.
 
-[85 FR 80448, Dec. 11, 2020; 86 FR 1255, Jan. 8, 2021]
+[85 FR 80448, Dec. 11, 2020; 86 FR 1255, Jan. 8, 2021, as amended at 89 FR 78218, Sept. 25, 2024]

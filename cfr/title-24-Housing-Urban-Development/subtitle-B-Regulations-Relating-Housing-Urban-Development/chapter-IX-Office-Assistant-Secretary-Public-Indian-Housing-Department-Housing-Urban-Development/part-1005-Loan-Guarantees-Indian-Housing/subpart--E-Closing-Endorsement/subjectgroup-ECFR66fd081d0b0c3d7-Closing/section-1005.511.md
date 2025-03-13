@@ -1,0 +1,3 @@
+##### § 1005.511 Late fee. #####
+
+When the monthly Section 184 Guaranteed Loan payment is 15 or more days in arrears, the Servicer may collect from Borrower a late fee of up to four percent of the overdue payment of principal and interest, or any other limit as established by HUD through public notice with an opportunity for comment. The late fee provision must appear on the note executed at closing.

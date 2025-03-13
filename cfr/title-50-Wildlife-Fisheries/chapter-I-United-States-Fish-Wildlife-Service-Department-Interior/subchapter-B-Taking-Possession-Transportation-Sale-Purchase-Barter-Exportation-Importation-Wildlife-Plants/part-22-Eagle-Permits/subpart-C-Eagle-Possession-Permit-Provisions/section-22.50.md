@@ -1,6 +1,6 @@
-##### § 22.50 Eagle scientific and eagle exhibition permits. #####
+##### § 22.50 Eagle scientific and exhibition permits. #####
 
-We may, under the provisions of this section, issue a permit authorizing the taking, possession, transportation within the United States, or transportation into or out of the United States of lawfully possessed bald eagles or golden eagles, or their parts, nests, or eggs for the scientific or exhibition purposes of public museums, public scientific societies, or public zoological parks. We will not issue a permit under this section that authorizes the transportation into or out of the United States of any live bald or golden eagles, or any live eggs of these birds.
+We may, under the provisions of this section, issue a permit authorizing the taking, possession, transportation within the United States, or transportation into or out of the United States of lawfully possessed bald eagles or golden eagles, or their parts, nests, or eggs for the scientific or exhibition purposes of public museums, public scientific societies, or public zoological parks. A permit is not required if your activities fall within the authorization for exhibition use of eagle specimens (§ 22.15). We will not issue a permit under the regulations in this section that authorizes the transport into or out of the United States of any live bald or golden eagles, or any viable eggs of these birds.
 
 (a) *How do I apply if I want a permit for scientific and exhibition purposes?* (1) You must submit applications for permits to take, possess, or transport within the United States lawfully acquired live or dead bald or golden eagles, or their parts, nests, or live or dead eggs for scientific or exhibition purposes to the appropriate Regional Director—Attention: Migratory Bird Permit Office. You can find addresses for the Regional Directors in 50 CFR 2.2.
 
@@ -34,4 +34,4 @@ We may, under the provisions of this section, issue a permit authorizing the tak
 
 (d) *Tenure of permits.* The tenure of permits to take bald or golden eagles for scientific or exhibition purposes shall be that shown on the face of the permit.
 
-[39 FR 1183, Jan. 4, 1974, as amended at 63 FR 52638, Oct. 1, 1998; 64 FR 50472, Sept. 17, 1999; 79 FR 43966, July 29, 2014. Redesignated and amended at 87 FR 884, Jan. 7, 2022]
+[39 FR 1183, Jan. 4, 1974, as amended at 63 FR 52638, Oct. 1, 1998; 64 FR 50472, Sept. 17, 1999; 79 FR 43966, July 29, 2014. Redesignated and amended at 87 FR 884, Jan. 7, 2022; 89 FR 107043, Dec. 31, 2024]

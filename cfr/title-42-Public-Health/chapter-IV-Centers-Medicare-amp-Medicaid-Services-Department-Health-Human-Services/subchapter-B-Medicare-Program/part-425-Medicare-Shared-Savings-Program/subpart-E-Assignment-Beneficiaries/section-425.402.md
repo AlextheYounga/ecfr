@@ -1,7 +1,5 @@
 ##### § 425.402 Basic assignment methodology. #####
 
-Link to an amendment published at 89 FR 98568, Dec. 9, 2024.
-
 (a) For performance years 2012 through 2015, CMS employs the following step-wise methodology to assign Medicare beneficiaries to an ACO after identifying all patients that had at least one primary care service with a physician who is an ACO professional of that ACO:
 
 (1)(i) Identify all primary care services rendered by primary care physicians during one of the following:
@@ -112,7 +110,7 @@ Link to an amendment published at 89 FR 98568, Dec. 9, 2024.
 
 (D) If a beneficiary has designated a provider or supplier outside the ACO who is a primary care physician as defined at § 425.20, a physician with a specialty designation included at paragraph (c) of this section, or a nurse practitioner, physician assistant, or clinical nurse specialist, as responsible for coordinating their overall care, the beneficiary is not added to the ACO's list of assigned beneficiaries under the assignment methodology in paragraph (b) of this section.
 
-(ii) For performance years starting on January 1, 2019, and subsequent performance years:
+(ii) For performance years starting on January 1, 2019, through 2024:
 
 (A) The beneficiary meets the eligibility criteria established at § 425.401(a) and must not be excluded by the criteria at § 425.401(b). The exclusion criteria at § 425.401(b) apply for purposes of determining beneficiary eligibility for alignment to an ACO based on the beneficiary's designation of an ACO professional as responsible for coordinating their overall care under paragraph (e) of this section, regardless of the ACO's assignment methodology selection under § 425.226(a)(1).
 
@@ -121,6 +119,24 @@ Link to an amendment published at 89 FR 98568, Dec. 9, 2024.
 (C) If a beneficiary has designated a provider or supplier outside the ACO as responsible for coordinating their overall care, the beneficiary is not added under the assignment methodology in paragraph (b) of this section to the ACO's list of assigned beneficiaries for a 12-month performance year or the ACO's list of assigned beneficiaries for a 6-month performance year, which is based on the entire CY 2019 as provided in § 425.609.
 
 (D) The beneficiary is not assigned to an entity participating in a model tested or expanded under section 1115A of the Act under which claims-based assignment is based solely on claims for services other than primary care services and for which there has been a determination by the Secretary that waiver of the requirement in section 1899(c)(2)(B) of the Act is necessary solely for purposes of testing the model.
+
+(iii) For performance year 2025 and subsequent performance years:
+
+(A) The beneficiary meets the eligibility criteria established at § 425.401(a) and must not be excluded by the criteria at § 425.401(b). The exclusion criteria at § 425.401(b) apply for purposes of determining beneficiary eligibility for alignment to an ACO based on the beneficiary's designation of an ACO professional as responsible for coordinating their overall care under paragraph (e) of this section, regardless of the ACO's assignment methodology selection under § 425.226(a)(1).
+
+(B) The beneficiary must have designated an ACO professional as responsible for coordinating their overall care.
+
+(C) If a beneficiary has designated a provider or supplier outside the ACO as responsible for coordinating their overall care, the beneficiary is not added under the assignment methodology in paragraph (b) of this section to the ACO's list of assigned beneficiaries for a 12-month performance year.
+
+(D) The beneficiary is not assigned to an entity participating in a model tested or expanded under section 1115A of the Act that meets the following conditions—
+
+(*1*) Claims-based assignment for the model is based solely on either—
+
+(*i*) Claims for primary care and/or other services related to treatment of one or more specific diseases or conditions targeted by the model; or
+
+(*ii*) Claims for services other than primary care services; and
+
+(*2*) There has been a determination by the Secretary that waiver of the requirement in section 1899(c)(2)(B) of the Act is necessary solely for purposes of testing the model.
 
 (3) The ACO, ACO participants, ACO providers/suppliers, ACO professionals, and other individuals or entities performing functions and services related to ACO activities are prohibited from providing or offering gifts or other remuneration to Medicare beneficiaries as inducements for influencing a Medicare beneficiary's decision to designate or not to designate an ACO professional under paragraph (e) of this section. The ACO, ACO participants, ACO providers/suppliers, ACO professionals, and other individuals or entities performing functions and services related to ACO activities must not, directly or indirectly, commit any act or omission, nor adopt any policy that coerces or otherwise influences a Medicare beneficiary's decision to designate or not to designate an ACO professional as responsible for coordinating their overall care under paragraph (e) of this section, including but not limited to the following:
 
@@ -142,4 +158,4 @@ Link to an amendment published at 89 FR 98568, Dec. 9, 2024.
 
 (iii) If a CCN enrolled under the TIN of an ACO participant at the start of the performance year enrolls under a different TIN during a performance year, CMS will continue to treat services billed by the CCN as services furnished by the ACO participant it was enrolled under at the start of the performance year for purposes of determining beneficiary assignment to the ACO for the applicable performance year.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 87 FR 70234, Nov. 18, 2022; 88 FR 79545, Nov. 16, 2023]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 87 FR 70234, Nov. 18, 2022; 88 FR 79545, Nov. 16, 2023; 89 FR 98568, Dec. 9, 2024]

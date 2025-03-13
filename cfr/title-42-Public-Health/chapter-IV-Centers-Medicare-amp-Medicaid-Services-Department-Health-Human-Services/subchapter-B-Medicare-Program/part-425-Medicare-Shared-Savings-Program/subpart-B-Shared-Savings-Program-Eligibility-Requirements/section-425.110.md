@@ -1,7 +1,5 @@
 ##### § 425.110 Number of ACO professionals and beneficiaries. #####
 
-Link to an amendment published at 89 FR 98566, Dec. 9, 2024.
-
 (a)(1) The ACO must include primary care ACO professionals that are sufficient for the number of Medicare fee-for-service beneficiaries assigned to the ACO under subpart E of this part. The ACO must have at least 5,000 assigned beneficiaries.
 
 (2) CMS deems an ACO to have initially satisfied the requirement to have at least 5,000 assigned beneficiaries as specified in paragraph (a)(1) of this section if 5,000 or more beneficiaries are historically assigned to the ACO participants in each of the 3 benchmark years, as calculated using the assignment methodology set forth in subpart E of this part. In the case of the third benchmark year, CMS uses the most recent data available to estimate the number of assigned beneficiaries.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 98566, Dec. 9, 2024.
 
 (1) While under a CAP, the ACO remains eligible for shared savings and liable for shared losses.
 
-(2) If the ACO's assigned population is not at least 5,000 by the end of the performance year specified by CMS in its request for a CAP, CMS terminates the participation agreement and the ACO is not eligible to share in savings for that performance year.
+(2) For performance years starting before January 1, 2025, if the ACO's assigned population is not at least 5,000 by the end of the performance year specified by CMS in its request for a corrective action plan (CAP), CMS terminates the participation agreement and the ACO is not eligible to share in savings for that performance year.
 
 (3) In determining financial performance for an ACO with fewer than 5,000 assigned beneficiaries, the MSR/MLR is calculated as follows:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 98566, Dec. 9, 2024.
 
 (B) The MSR and MLR revert to the fixed level previously selected by the ACO for any subsequent performance year in the agreement period in which the ACO's assigned beneficiary population is 5,000 or more.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32835, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 68063, Dec. 31, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32835, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 68063, Dec. 31, 2018; 89 FR 98566, Dec. 9, 2024]

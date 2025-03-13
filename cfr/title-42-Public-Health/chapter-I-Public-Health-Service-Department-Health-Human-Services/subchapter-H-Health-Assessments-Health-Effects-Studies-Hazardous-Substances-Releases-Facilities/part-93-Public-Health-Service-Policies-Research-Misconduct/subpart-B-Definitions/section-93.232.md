@@ -1,0 +1,3 @@
+##### § 93.232 Research. #####
+
+Research means a systematic experiment, study, evaluation, demonstration, or survey designed to develop or contribute to general knowledge (basic research) or specific knowledge (applied research) by establishing, discovering, developing, elucidating, or confirming information or underlying mechanisms related to biological causes, functions, or effects; diseases; treatments; or related matters to be studied.

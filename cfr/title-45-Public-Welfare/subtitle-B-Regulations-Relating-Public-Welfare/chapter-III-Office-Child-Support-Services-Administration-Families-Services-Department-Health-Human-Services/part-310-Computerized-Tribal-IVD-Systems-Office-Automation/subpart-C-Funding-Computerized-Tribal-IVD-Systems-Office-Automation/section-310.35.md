@@ -1,5 +1,7 @@
 ##### § 310.35 Under what circumstances would emergency FFP be available for Computerized Tribal IV-D Systems? #####
 
+Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
+
 (a) *Conditions that must be met for emergency FFP.* OCSE will consider waiving the approval requirements for acquisitions in emergency situations, such as natural or man-made disasters, upon receipt of a written request from the comprehensive Tribal IV-D agency. In order for OCSE to consider waiving the approval requirements in § 310.25 of this part, the following conditions must be met:
 
 (1) The comprehensive Tribal IV-D agency must submit a written request to OCSE prior to the acquisition of any ADP equipment or services. The written request must be sent by registered mail and include:

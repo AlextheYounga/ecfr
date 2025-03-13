@@ -12,9 +12,15 @@
 
 *Bird.* Any member of the class *aves* other than poultry.
 
+*Buffer zone.* The zone within a control area that immediately surrounds an infected zone.
+
+*Control area.* The area around a premises infected with highly pathogenic avian influenza and consisting of an infected zone and a buffer zone, the bounds of which are determined and communicated to producers by Federal or State officials.
+
 *Department.* The United States Department of Agriculture.
 
 *Disease.* Foot-and-mouth disease, contagious pleuropneumonia, Newcastle disease, highly pathogenic avian influenza, infectious salmon anemia, spring viremia of carp, or any other communicable disease of livestock or poultry that in the opinion of the Secretary constitutes an emergency and threatens the livestock or poultry of the United States.
+
+*Infected zone.* The zone within a control area that immediately surrounds a premises infected with highly pathogenic avian influenza, up to the beginning of the buffer zone.
 
 *Highly pathogenic avian influenza.* (1) Any influenza virus that kills at least 75 percent of eight 4- to 6-week-old susceptible chickens within 10 days following intravenous inoculation with 0.2 ml of a 1:10 dilution of a bacteria-free, infectious allantoic fluid;
 
@@ -44,4 +50,4 @@
 
 *State.* Each of the States of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands of the United States, or any other territory or possession of the United States.
 
-[61 FR 56882, Nov. 5, 1996, as amended at 67 FR 17610, Apr. 11, 2002; 69 FR 27827, May 17, 2004; 74 FR 18287, Apr. 22, 2009; 78 FR 19082, Mar. 29, 2013; 83 FR 15492, Apr. 11, 2018; 83 FR 40438, Aug. 15, 2018]
+[61 FR 56882, Nov. 5, 1996, as amended at 67 FR 17610, Apr. 11, 2002; 69 FR 27827, May 17, 2004; 74 FR 18287, Apr. 22, 2009; 78 FR 19082, Mar. 29, 2013; 83 FR 15492, Apr. 11, 2018; 83 FR 40438, Aug. 15, 2018; 89 FR 106995, Dec. 31, 2024]

@@ -1,7 +1,5 @@
 ##### § 407.23 Special enrollment periods for exceptional conditions. #####
 
-Link to an amendment published at 89 FR 94587, Nov. 27, 2024.
-
 (a) *General rule:* Beginning January 1, 2023, in accordance with the Secretary's authority in sections 1837(m) and 1838(g) of the Act, the following SEPs, as defined under § 406.24(a)(4) of this subchapter, are provided for individuals who missed a Medicare enrollment period (as specified in § 407.21, § 407.15 or § 407.20 of this subchapter) due to exceptional conditions as determined by the Secretary and established under paragraphs (b) through (f) of this section. SEPs are provided for exceptional conditions that took place on or after January 1, 2023 except as specified in paragraph (e) of this section.
 
 (b) *Special enrollment period for individuals impacted by an emergency or disaster.* An SEP exists for individuals prevented from submitting a timely Medicare enrollment request by an emergency or disaster declared by a Federal, State, or local government entity.
@@ -24,15 +22,19 @@ Link to an amendment published at 89 FR 94587, Nov. 27, 2024.
 
 (3) *Entitlement.* Entitlement begins the first day of the month following the month of enrollment, so long as the date is on or after January 1, 2023.
 
-(d) *SEP for formerly incarcerated individuals.* An SEP exists for Medicare eligible individuals who are released from the custody of penal authorities as described in § 411.4(b) of this subchapter on or after January 1, 2023.
+(d) *SEP for formerly incarcerated individuals.* An SEP exists for Medicare eligible individuals who are no longer incarcerated on or after January 1, 2023.
 
-(1) *SEP parameters.* An individual is eligible for this SEP if they demonstrate that they are eligible for Medicare and failed to enroll or reenroll in SMI due to being in custody of penal authorities, and there is a record of release either through discharge documents or data available to SSA.
+(1) *SEP parameters and duration before January 1, 2025*—(i) *Eligibility.* An individual is eligible for this SEP if they are released from the custody of penal authorities between January 1, 2023, and December 31, 2024, as described in § 411.4(b) of this subchapter. The individual must demonstrate that they are eligible for Medicare and failed to enroll or reenroll in SMI due to being in the custody of penal authorities and there is a record of release either through discharge documents or data available to SSA.
 
-(2) *SEP duration.* The SEP starts the day of the individual's release from the custody of penal authorities and ends the last day of the 12th month after the month in which the individual is released from the custody of penal authorities.
+(ii) *SEP duration.* The SEP starts the day of the individual's release from the custody of penal authorities and ends the last day of the 12th month after the month in which the individual is released from the custody of penal authorities.
+
+(2) *SEP parameters and duration beginning January 1, 2025*—(i) *Eligibility.* An individual is eligible for this SEP if they are released from confinement in a jail, prison, or other penal institution or correctional facility on or after January 1, 2025, and demonstrate that they are eligible for Medicare and failed to enroll or reenroll in SMI due to being so confined, and there is a record of release, either through documentation of discharge or data available to SSA. Individuals released to and residing in halfway houses after incarceration are not considered incarcerated or in confinement for the purposes of this SEP.
+
+(ii) *SEP duration.* The SEP starts the day an individual is released from confinement as determined by SSA and ends the last day of the 12th month after the month in which the individual is released from confinement in a jail, prison, or other penal institution or correctional facility.
 
 (3) *Entitlement*—(i) *General rule.* Entitlement begins the first day of the month following the month of enrollment, so long as the date is on after January 1, 2023.
 
-(ii) *Special rule.* An individual has the option of requesting entitlement for a retroactive period of up to 6 months provided the date does not precede release from incarceration and the individual pays the monthly premiums for the period of coverage (as required under § 406.31). If the application is filed within the first 6 months of the SEP, the effective date is retroactive to the date of their release from incarceration. If the application is filed in the last 6 months of the SEP, the coverage effective date is retroactive to 6 months after the date of release from incarceration.
+(ii) *Special rule.* An individual has the option of requesting entitlement for a retroactive period of up to 6 months provided the date does not precede the month of their release from incarceration, the date is on or after January 1, 2023, and the individual pays the monthly premiums for the period of coverage (as required under § 408.4 of this subchapter). If retroactive enrollment is requested and the application is filed within the first 6 months of the SEP, the effective date is retroactive to the beginning of the month of their release from incarceration. If retroactive enrollment is requested and the application is filed in the last 6 months of the SEP, the coverage effective date is retroactive to the 6th month before the month of enrollment.
 
 (e) *Special enrollment period for termination of Medicaid coverage.* An SEP exists for individuals whose Medicaid eligibility is terminated.
 
@@ -68,4 +70,4 @@ Link to an amendment published at 89 FR 94587, Nov. 27, 2024.
 
 (3) *Entitlement.* Entitlement begins the first day of the month following the month of enrollment, so long as the date is on or after January 1, 2023.
 
-[87 FR 66505, Nov. 3, 2022]
+[87 FR 66505, Nov. 3, 2022, as amended at 89 FR 94587, Nov. 27, 2024]

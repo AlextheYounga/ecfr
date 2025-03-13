@@ -1,14 +1,12 @@
 ##### § 413.234 Drug designation process. #####
 
-Link to an amendment published at 87 FR 67302, Nov. 7, 2022.Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *ESRD PPS functional category.* A distinct grouping of drugs or biological products, as determined by CMS, whose end action effect is the treatment or management of a condition or conditions associated with ESRD.
 
 *New renal dialysis drug or biological product.* An injectable, intravenous, oral or other form or route of administration drug or biological product that is used to treat or manage a condition(s) associated with ESRD. It must be approved by the Food and Drug Administration (FDA) on or after January 1, 2020, under section 505 of the Federal Food, Drug, and Cosmetic Act or section 351 of the Public Health Service Act, commercially available, have an HCPCS application submitted in accordance with the official Level II HCPCS coding procedures, and designated by CMS as a renal dialysis service under § 413.171. Oral-only drugs are excluded until January 1, 2025.
 
-*Oral-only drug.* A drug or biological product with no injectable equivalent or other form of administration other than an oral form.
+*Oral-only drug.* A drug or biological product with no injectable functional equivalent or other form of administration other than an oral form.
 
 (b) *Drug designation process.* New renal dialysis drugs or biological products are included in the ESRD PPS bundled payment using the following drug designation process:
 
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 67302, Nov. 7, 2022.Link to an amendment
 
 (iii) The new renal dialysis drug or biological product is added to the ESRD PPS bundled payment following payment of the transitional drug add-on payment adjustment.
 
-(c) *Transitional drug add-on payment adjustment.* A new renal dialysis drug or biological product is paid for using a transitional drug add-on payment adjustment, which is based on 100 percent of average sales price (ASP). If ASP is not available then the transitional drug add-on payment adjustment is based on 100 percent of wholesale acquisition cost (WAC) and, when WAC is not available, the payment is based on the drug manufacturer's invoice. Notwithstanding the provisions in paragraphs (c)(1) and (2) of this section, if CMS does not receive a full calendar quarter of ASP data for a new renal dialysis drug or biological product within 30 days of the last day of the 3rd calendar quarter after we begin applying the transitional drug add-on payment adjustment for the product, CMS will no longer apply the transitional drug add-on payment adjustment for that product beginning no later than 2-calendar quarters after we determine a full calendar quarter of ASP data is not available. If CMS stops receiving the latest full calendar quarter of ASP data for a new renal dialysis drug or biological product during the applicable time period specified in paragraph (c)(1) or (2) of this section, CMS will no longer apply the transitional drug add-on payment adjustment for the product beginning no later than 2-calendar quarters after CMS determines that the latest full calendar quarter of ASP data is not available.
+(c) *Transitional drug add-on payment adjustment.* A new renal dialysis drug or biological product is paid for using a transitional drug add-on payment adjustment, which is based on 100 percent of average sales price (ASP), except as provided in paragraph (c)(4) of this section. If ASP is not available then the transitional drug add-on payment adjustment is based on 100 percent of wholesale acquisition cost (WAC) and, when WAC is not available, the payment is based on the drug manufacturer's invoice. Notwithstanding the provisions in paragraphs (c)(1) and (2) of this section, if CMS does not receive a full calendar quarter of ASP data for a new renal dialysis drug or biological product within 30 days of the last day of the 3rd calendar quarter after we begin applying the transitional drug add-on payment adjustment for the product, CMS will no longer apply the transitional drug add-on payment adjustment for that product beginning no later than 2-calendar quarters after we determine a full calendar quarter of ASP data is not available. If CMS stops receiving the latest full calendar quarter of ASP data for a new renal dialysis drug or biological product during the applicable time period specified in paragraph (c)(1) or (2) of this section, CMS will no longer apply the transitional drug add-on payment adjustment for the product beginning no later than 2-calendar quarters after CMS determines that the latest full calendar quarter of ASP data is not available.
 
 (1) A new renal dialysis drug or biological product that is considered included in the ESRD PPS base rate is paid the transitional drug add-on payment adjustment for 2 years.
 
@@ -43,6 +41,8 @@ Link to an amendment published at 87 FR 67302, Nov. 7, 2022.Link to an amendment
 (ii) [Reserved]
 
 (3) For any new renal dialysis drug or biological product that is eligible for payment using the transitional drug add-on payment adjustment described in paragraphs (b)(1)(iii) and (c)(1) of this section, CMS applies a post-TDAPA add-on payment adjustment to all ESRD PPS claims that is calculated using the methodology set forth in paragraph (g) of this section. CMS will apply the post-TDAPA add-on payment adjustment beginning 8 calendar quarters after the first calendar quarter in which the transitional drug add-on payment adjustment is paid for the applicable product, and ending 12 calendar quarters after the end of the last calendar quarter in which the transitional drug add-on payment adjustment is paid for the applicable product. If CMS stops receiving the latest full calendar quarter of ASP data for the applicable renal dialysis drug or biological product during the applicable time period specified in paragraph (c)(1) of this section or during the 3-year period following such applicable time period, CMS will not pay any post-TDAPA add-on payment adjustment for such product in any future year.
+
+(4) For calendar years 2025 and 2026, the transitional drug add-on payment adjustment amount for a phosphate binder is based on 100 percent of ASP plus an additional amount derived from 6 percent of per-patient phosphate binder spending based on utilization and cost data.
 
 (d) *Oral-only drug determination.* An oral-only drug is no longer considered oral-only if an injectable or other form of administration of the oral-only drug is approved by the Food and Drug Administration.
 
@@ -182,4 +182,4 @@ Link to an amendment published at 87 FR 67302, Nov. 7, 2022.Link to an amendment
 
 (5) The post-TDAPA add-on payment adjustment that is applied to an ESRD PPS claim is adjsuted by any applicable patient-level case-mix adjustments under § 413.235.
 
-[80 FR 69077, Nov. 6, 2015, as amended at 83 FR 57070, Nov. 14, 2018; 84 FR 60803, Nov. 8, 2019; 85 FR 71485, Nov. 9, 2020; 88 FR 76506, Nov. 6, 2023]
+[80 FR 69077, Nov. 6, 2015, as amended at 83 FR 57070, Nov. 14, 2018; 84 FR 60803, Nov. 8, 2019; 85 FR 71485, Nov. 9, 2020; 87 FR 67302, Nov. 7, 2022; 88 FR 76506, Nov. 6, 2023; 89 FR 89212, Nov. 12, 2024]

@@ -1,5 +1,7 @@
 ##### § 38.725 Notice of Funding Availability (NOFA). #####
 
+Link to an amendment published at 89 FR 107003, Dec. 31, 2024.
+
 When funds are available for VLGP grants, VA will publish a NOFA in the Federal Register and in *Grants.gov* (*http://www.grants.gov*). The NOFA will identify:
 
 (a) The location for obtaining VLGP grant applications, including the specific forms that will be required;

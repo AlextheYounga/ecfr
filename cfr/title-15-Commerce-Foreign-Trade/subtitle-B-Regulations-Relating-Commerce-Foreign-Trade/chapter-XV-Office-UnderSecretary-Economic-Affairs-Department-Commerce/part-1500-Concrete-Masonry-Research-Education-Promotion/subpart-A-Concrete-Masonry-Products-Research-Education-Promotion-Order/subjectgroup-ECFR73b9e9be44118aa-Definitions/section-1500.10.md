@@ -1,0 +1,3 @@
+##### § 1500.10 Education. #####
+
+*Education* means programs that will educate or communicate the benefits of concrete masonry products in safe and environmentally sustainable development, advancements in concrete masonry product technology and development, and other information and programs designed to generate increased demand for commercial, residential, multi-family, and institutional projects using concrete masonry products and to generally enhance the image of concrete masonry products.

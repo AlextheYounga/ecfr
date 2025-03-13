@@ -1,13 +1,11 @@
 ##### § 660.232 Limited entry daily trip limit (DTL) fishery for sablefish. #####
 
-Link to an amendment published at 89 FR 101536, Dec. 16, 2024.
-
 (a) *Limited entry DTL fisheries both north and south of 36° N. lat.* (1) Before the start of the sablefish primary season, all sablefish landings made by a vessel declared into the limited entry fixed gear fishery and authorized by § 660.231(a) to fish in the sablefish primary season will be subject to the restrictions and limits of the limited entry DTL fishery for sablefish specified in this section and which is governed by routine management measures imposed under § 660.60(c), subpart C.
 
 (2) Following the start of the primary season, all sablefish landings made by a vessel declared into the limited entry fixed gear fishery and authorized by § 660.231(a) to fish in the primary season will count against the primary season cumulative limit(s) associated with the sablefish-endorsed permit(s) registered for use with that vessel. A vessel that is eligible to fish in the sablefish primary season may fish in the DTL fishery for sablefish once that vessels' primary season sablefish limit(s) have been landed, or after the close of the primary season, whichever occurs earlier (as described at § 660.231(b)(1). If the vessel continues to fish in the limited entry fixed gear fishery for any part of the remaining fishing year, any subsequent sablefish landings by that vessel will be subject to the restrictions and limits of the limited entry DTL fishery for sablefish.
 
-(3) Vessels registered for use with a limited entry fixed gear permit that does not have a sablefish endorsement may fish in the limited entry DTL fishery, consistent with regulations at § 660.230, for as long as that fishery is open during the fishing year, subject to routine management measures imposed under § 660.60(c), Subpart C. DTL limits for the limited entry fishery north and south of 36° N. lat. are provided in Tables 2 (North) and 2 (South) of this subpart.
+(3) Vessels registered for use with a limited entry fixed gear permit that does not have a sablefish endorsement may fish in the limited entry DTL fishery, consistent with regulations at § 660.230, for as long as that fishery is open during the fishing year, subject to routine management measures imposed under § 660.60(c), Subpart C. DTL limits for the limited entry fishery north and south of 36° N lat. are provided in tables 2b (North) and 2b (South) of this subpart.
 
 (b) A vessel that is jointly registered, and has participated or will participate in both the limited entry fixed gear fishery and the Shorebased IFQ Program during the fishing year, is subject to crossover provisions described at § 660.60(h)(7), subpart C.
 
-[81 FR 84432, Nov. 23, 2016]
+[81 FR 84432, Nov. 23, 2016, as amended at 89 FR 101536, Dec. 16, 2024]

@@ -1,5 +1,7 @@
 ##### § 308.1 Self-assessment implementation methodology. #####
 
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+
 (a) The IV-D agency must ensure the review meets Federal requirements and must maintain responsibility for and control of the results produced and contents of the annual report.
 
 (b) *Sampling.* A State must either review all of its cases or conduct sampling which meets the following conditions:

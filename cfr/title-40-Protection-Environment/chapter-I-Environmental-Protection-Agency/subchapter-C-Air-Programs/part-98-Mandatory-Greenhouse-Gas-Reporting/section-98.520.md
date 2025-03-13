@@ -1,0 +1,5 @@
+##### § 98.520 Definition of the source category. #####
+
+(a) The ceramics manufacturing source category consists of any facility that uses nonmetallic, inorganic materials, many of which are clay-based, to produce ceramic products such as bricks and roof tiles, wall and floor tiles, table and ornamental ware (household ceramics), sanitary ware, refractory products, vitrified clay pipes, expanded clay products, inorganic bonded abrasives, and technical ceramics (*e.g.,* aerospace, automotive, electronic, or biomedical applications). For the purposes of this subpart, ceramics manufacturing processes include facilities that annually consume at least 2,000 tons of carbonates, either as raw materials or as a constituent in clay, which is heated to a temperature sufficient to allow the calcination reaction to occur, and operate a ceramics manufacturing process unit.
+
+(b) A ceramics manufacturing process unit is a kiln, dryer, or oven used to calcine clay or other carbonate-based materials for the production of a ceramics product.

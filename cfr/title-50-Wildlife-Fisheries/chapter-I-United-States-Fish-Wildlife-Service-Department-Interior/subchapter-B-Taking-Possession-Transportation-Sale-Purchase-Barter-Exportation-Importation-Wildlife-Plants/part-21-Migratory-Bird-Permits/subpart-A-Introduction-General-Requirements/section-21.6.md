@@ -14,6 +14,8 @@ In addition to definitions contained in part 10 of this chapter, and unless the 
 
 *Hacking* is the temporary release of a raptor held for falconry to the wild so that it must survive on its own.
 
+*Humane and healthful conditions* means using methods supported by the best available science that minimize fear, pain, stress, and suffering of a migratory bird held in possession. This definition applies during capture, possession (temporary or long term), and transport. Humane and healthful conditions pertain to handling (*e.g.,* during capture, care, release, restraint, and training), housing (whether temporary, permanent, or during transport), shelter, feeding and watering, sanitation, ventilation, protection from predators and vermin, and, as applicable, enrichment, veterinary care, and euthanasia.
+
 *Hybrid* means any bird that results from a cross of genetic material between two separate taxa when one or both are listed at 50 CFR 10.13, and any progeny of those birds.
 
 *Imprint,* for the purposes of falconry, means a bird that is hand-raised, from 2 weeks of age until it has fledged, and has identified itself with humans rather than its own species. An imprinted bird is considered to be so for its entire lifetime.
@@ -34,4 +36,4 @@ In addition to definitions contained in part 10 of this chapter, and unless the 
 
 *Significant adverse effect on a population,* as used in § 21.42, means an effect that could, within a reasonable period of time, diminish the capacity of a population of migratory bird species to sustain itself at a biologically viable level. A population is “biologically viable” when its ability to maintain its genetic diversity, to reproduce, and to function effectively in its native ecosystem is not significantly harmed. This effect may be characterized by increased risk to the population from actions that cause direct mortality or a reduction in fecundity. Assessment of impacts should take into account yearly variations and migratory movements of the impacted species. Due to the significant variability in potential military readiness activities and the species that may be impacted, determinations of significant measurable decline will be made on a case-by-case basis.
 
-[48 FR 31607, July 8, 1983, as amended at 64 FR 32774, June 17, 1999; 71 FR 45986, Aug. 10, 2006; 72 FR 8949, Feb. 28, 2007; 72 FR 46408, Aug. 20, 2007; 73 FR 59465, Oct. 8, 2008; 75 FR 931, Jan. 7, 2010; 78 FR 65578, 65864, Nov. 1, 2013; 84 FR 28773, June 20, 2019. Redesignated and amended at 87 FR 880, Jan. 7, 2022]
+[48 FR 31607, July 8, 1983, as amended at 64 FR 32774, June 17, 1999; 71 FR 45986, Aug. 10, 2006; 72 FR 8949, Feb. 28, 2007; 72 FR 46408, Aug. 20, 2007; 73 FR 59465, Oct. 8, 2008; 75 FR 931, Jan. 7, 2010; 78 FR 65578, 65864, Nov. 1, 2013; 84 FR 28773, June 20, 2019. Redesignated and amended at 87 FR 880, Jan. 7, 2022; 89 FR 107039, Dec. 31, 2024]

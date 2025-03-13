@@ -1,7 +1,5 @@
 ##### § 419.43 Adjustments to national program payment and beneficiary copayment amounts. #####
 
-Link to an amendment published at 89 FR 94590, Nov. 27, 2024.
-
 (a) *General rule.* CMS determines national prospective payment rates for hospital outpatient department services and determines a wage adjustment factor to adjust the portion of the APC payment and national beneficiary copayment amount attributable to labor-related costs for relative differences in labor and labor-related costs across geographic regions in a budget neutral manner.
 
 (b) *Labor-related portion of payment and copayment rates for hospital outpatient services.* CMS determines the portion of hospital outpatient costs attributable to labor and labor-related costs (known as the “labor-related portion” of hospital outpatient costs) in accordance with § 419.31(c)(1).
@@ -114,4 +112,30 @@ Link to an amendment published at 89 FR 94590, Nov. 27, 2024.
 
 (3) *Budget neutrality.* CMS establishes the payment adjustment under paragraph (j)(2) of this section in a budget neutral manner.
 
-[65 FR 18542, Apr. 7, 2000, as amended at 65 FR 47677, Aug. 3, 2000; 66 FR 55856, Nov. 2, 2001; 69 FR 832, Jan. 6, 2004; 70 FR 68727, Nov. 10, 2005; 70 FR 76178, Dec. 23, 2005; 71 FR 68227, Nov. 24, 2006; 72 FR 66932, Nov. 27, 2007; 73 FR 68814, Nov. 18, 2008; 75 FR 72265, Nov. 24, 2010; 76 FR 74583, Nov. 30, 2011; 81 FR 79879, Nov. 14, 2016; 87 FR 72291, Nov. 23, 2022]
+(k) *Payment for non-opioid pain management drugs and biologicals*—(1) *Eligibility for separate payment for non-opioid pain management drugs and biologicals.* From January 1, 2025, through December 31, 2027, a drug or biological is eligible for separate payment for an applicable calendar year if CMS determines it meets the following requirements through that year's rulemaking:
+
+(i) The drug is approved under a new drug application under section 505(c) of the Federal Food, Drug, and Cosmetic Act (FDCA), under an abbreviated new drug application under section 505(j) of the FDCA, or, in the case of a biological product, is licensed under section 351 of the Public Health Service Act. The product has a label indication approved by the Food and Drug Administration to reduce postoperative pain, or produce postsurgical or regional analgesia, without acting upon the body's opioid receptors.
+
+(ii) The drug or biological does not have transitional pass-through payment status under § 419.64. In the case where a drug or biological otherwise meets the requirements under this section and has transitional pass-through payment status that expires during the calendar year, the drug or biological will qualify for separate payment as specified in this paragraph (k) during such calendar year on the first day of the next calendar year quarter following the expiration of its pass-through status.
+
+(iii) The drug or biological has payment that is packaged into a payment for a covered OPD service (or group of services) under a policy in this section.
+
+(2) *Eligibility for separate payment for non-opioid medical devices.* From January 1, 2025, through December 31, 2027, a medical device is eligible for separate payment for an applicable calendar year if CMS determines it meets the following requirements through that year's rulemaking:
+
+(i) The medical device, is used to deliver a therapy to reduce postoperative pain, or produce postsurgical or regional analgesia, and has an application under section 515 of the FDCA that has been approved with respect to the device, been cleared for market under section 510(k) of the FDCA, or is exempt from the requirements of 510(k) of the FDCA pursuant to section 510(l) or (m) or 520(g) of the FDCA.
+
+(ii) The medical device has demonstrated the ability to replace, reduce, or avoid intraoperative or postoperative opioid use or the quantity of opioids prescribed in a clinical trial or through data published in a peer-reviewed journal.
+
+(iii) The medical device does not have transitional pass-through payment status under § 419.66. In the case where a medical device otherwise meets the requirements under this section and has transitional pass-through payment status that expires during the calendar year, the medical device will qualify for separate payment as specified in this paragraph (k)(2) during such calendar year on the first day of the next calendar year quarter following the expiration of its pass-through status.
+
+(iv) The medical device has payment that is packaged into a payment for a covered OPD service (or group of services) under a policy in this section.
+
+(3) *Payment amount.* From January 1, 2025, through December 31, 2027, the amount of payment for a qualifying non-opioid treatment for pain relief is as follows:
+
+(i) For a qualifying drug or biological as defined in paragraph (k)(1) of this section, the amount of payment is the amount determined under section 1847A for the drug or biological that exceeds the portion of the otherwise applicable Medicare OPD fee schedule that the Secretary determines is associated with the drug or biological, subject to paragraph (k)(3)(iii) of this section.
+
+(ii) For a qualifying medical device as defined in paragraph (k)(2) of this section, the amount of payment is the amount of the hospital's charges for the device, adjusted to cost, that exceeds the portion of the otherwise applicable Medicare OPD fee schedule that the Secretary determines is associated with the device, subject to paragraph (k)(3)(iii) of this section.
+
+(iii) The payment amounts in paragraph (k)(3)(i) and (ii) of this section shall not exceed the estimated average of 18 percent of the OPD fee schedule amount of the volume weighted average of the most frequent five OPD primary procedures into which a non-opioid treatment for pain relief would be packaged.
+
+[65 FR 18542, Apr. 7, 2000, as amended at 65 FR 47677, Aug. 3, 2000; 66 FR 55856, Nov. 2, 2001; 69 FR 832, Jan. 6, 2004; 70 FR 68727, Nov. 10, 2005; 70 FR 76178, Dec. 23, 2005; 71 FR 68227, Nov. 24, 2006; 72 FR 66932, Nov. 27, 2007; 73 FR 68814, Nov. 18, 2008; 75 FR 72265, Nov. 24, 2010; 76 FR 74583, Nov. 30, 2011; 81 FR 79879, Nov. 14, 2016; 87 FR 72291, Nov. 23, 2022; 89 FR 94590, Nov. 27, 2024]

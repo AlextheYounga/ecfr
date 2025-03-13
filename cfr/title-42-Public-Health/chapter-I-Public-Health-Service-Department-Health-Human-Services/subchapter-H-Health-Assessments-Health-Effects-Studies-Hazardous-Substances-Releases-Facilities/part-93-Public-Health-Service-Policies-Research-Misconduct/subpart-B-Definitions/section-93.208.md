@@ -1,3 +1,3 @@
-##### § 93.208 Evidence. #####
+##### § 93.208 Day. #####
 
-*Evidence* means any document, tangible item, or testimony offered or obtained during a research misconduct proceeding that tends to prove or disprove the existence of an alleged fact.
+Day means calendar day unless otherwise specified. If a deadline falls on a Saturday, Sunday, or Federal holiday, the deadline will be extended to the next day that is not a Saturday, Sunday, or Federal holiday.

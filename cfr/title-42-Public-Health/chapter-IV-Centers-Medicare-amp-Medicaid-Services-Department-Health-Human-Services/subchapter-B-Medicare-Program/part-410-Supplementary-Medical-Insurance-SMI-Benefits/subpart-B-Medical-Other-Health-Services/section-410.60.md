@@ -1,7 +1,5 @@
 ##### § 410.60 Outpatient physical therapy services: Conditions. #####
 
-Link to an amendment published at 89 FR 98556, Dec. 9, 2024.
-
 (a) *Basic rule.* Except as specified in paragraph (a)(3)(iii) of this section, Medicare Part B pays for outpatient physical therapy services only if they are furnished by an individual meeting the qualifications in part 484 of this chapter for a physical therapist or an appropriately supervised physical therapist assistant but only under the following conditions:
 
 (1) They are furnished to a beneficiary while he or she is under the care of a physician who is a doctor of medicine, osteopathy, or podiatric medicine.
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 98556, Dec. 9, 2024.
 
 (i) By a provider as defined in § 489.2 of this chapter, or by others under arrangements with, and under the supervision of, a provider; or
 
-(ii) By, or under the direct supervision (or as specified otherwise) of, a physical therapist in private practice as described in paragraph (c) of this section; or
+(ii) By, or under the general supervision (or as specified otherwise) of, a physical therapist in private practice as described in paragraph (c) of this section; or
 
 (iii) By, or incident to the service of, a physician, physician assistant, clinical nurse specialist, or nurse practitioner when those professionals may perform physical therapy services under State law. When a physical therapy service is provided incident to the service of a physician, physician's assistant, clinical nurse specialist, or nurse practitioner, by anyone other than a physician, physician assistant, clinical nurse specialist, or nurse practitioner, the service and the person who furnishes the service must meet the standards and conditions that apply to physical therapy and physical therapists, except that a license to practice physical therapy in the State is not required.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 89 FR 98556, Dec. 9, 2024.
 
 (iv) Treat individuals who are patients of the practice and for whom the practice collects fees for the services furnished.
 
-(2) *Supervision of physical therapy services.* Except as otherwise provided in this paragraph, physical therapy services are performed by, or under the direct supervision of, a physical therapist in private practice. All services not performed personally by the therapist must be performed by employees of the practice, directly supervised by the therapist, and included in the fee for the therapist's services. Remote therapeutic monitoring services may be performed by a physical therapist assistant under the general supervision of the physical therapist in private practice; services performed by an unenrolled physical therapist must be under the direct supervision of the physical therapist.
+(2) *Supervision of physical therapy services.* Except as otherwise provided in this paragraph (c)(2), physical therapy services are performed by, or under the general supervision of, a physical therapist in private practice. All services not performed personally by the therapist must be performed by employees of the practice, generally supervised by the therapist, and included in the fee for the therapist's services. Physical therapy services may be performed by a physical therapist assistant under the general supervision of the physical therapist in private practice; services performed by an unenrolled physical therapist must be under the direct supervision of the physical therapist.
 
 (d) *Excluded services.* No service is included as an outpatient physical therapy service if it would not be included as an inpatient hospital service if furnished to a hospital or CAH inpatient.
 
@@ -86,4 +84,4 @@ Link to an amendment published at 89 FR 98556, Dec. 9, 2024.
 
 (B) For 2028 and each year thereafter, the applicable medical review threshold is determined by increasing the medical review threshold in effect for the previous year (starting with $3,000 for 2017) by the increase in the Medicare Economic Index for the current year.
 
-[63 FR 58906, Nov. 2, 1998, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66422, Nov. 15, 2004; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 83 FR 60073, Nov. 23, 2018; 84 FR 63188, Nov. 15, 2019; 86 FR 65664, Nov. 19, 2021; 88 FR 79527, Nov. 16, 2023]
+[63 FR 58906, Nov. 2, 1998, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66422, Nov. 15, 2004; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 83 FR 60073, Nov. 23, 2018; 84 FR 63188, Nov. 15, 2019; 86 FR 65664, Nov. 19, 2021; 88 FR 79527, Nov. 16, 2023; 89 FR 98556, Dec. 9, 2024]

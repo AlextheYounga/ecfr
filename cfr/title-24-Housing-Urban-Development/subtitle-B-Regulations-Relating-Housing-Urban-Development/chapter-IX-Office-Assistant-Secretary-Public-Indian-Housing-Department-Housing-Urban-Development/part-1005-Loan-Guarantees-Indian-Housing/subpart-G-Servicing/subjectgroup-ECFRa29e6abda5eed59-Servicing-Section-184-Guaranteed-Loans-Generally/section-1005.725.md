@@ -1,0 +1,3 @@
+##### § 1005.725 Handling prepayments. #####
+
+Notwithstanding the terms of the Section 184 Guaranteed Loan, the Servicer shall accept a prepayment at any time and in any amount. Monthly interest on the Section 184 Guaranteed Loan must be calculated on the actual unpaid principal balance of the Section 184 Guaranteed Loan as of the date the prepayment is received, and not as of the next payment due date.

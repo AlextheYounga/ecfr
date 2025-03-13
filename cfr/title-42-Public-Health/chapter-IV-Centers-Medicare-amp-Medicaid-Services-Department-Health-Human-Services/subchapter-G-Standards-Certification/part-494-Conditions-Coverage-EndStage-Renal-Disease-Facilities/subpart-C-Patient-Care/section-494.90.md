@@ -1,7 +1,5 @@
 ##### § 494.90 Condition: Patient plan of care. #####
 
-Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
-
 The interdisciplinary team as defined at § 494.80 must develop and implement a written, individualized comprehensive plan of care that specifies the services necessary to address the patient's needs, as identified by the comprehensive assessment and changes in the patient's condition, and must include measurable and expected outcomes and estimated timetables to achieve these outcomes. The outcomes specified in the patient plan of care must be consistent with current evidence-based professionally-accepted clinical practice standards.
 
 (a) *Standard: Development of patient plan of care.* The interdisciplinary team must develop a plan of care for each patient. The plan of care must address, but not be limited to, the following:
@@ -46,7 +44,7 @@ The interdisciplinary team as defined at § 494.80 must develop and implement a 
 
 (iii) Implement plan of care changes to address the issues identified in paragraph (b)(3)(ii) of this section.
 
-(4) The dialysis facility must ensure that all dialysis patients are seen by a physician, nurse practitioner, clinical nurse specialist, or physician's assistant providing ESRD care at least monthly, as evidenced by a monthly progress note placed in the medical record, and periodically while the hemodialysis patient is receiving in-facility dialysis.
+(4) The dialysis facility must ensure that all dialysis patients are seen by a physician, nurse practitioner, clinical nurse specialist, or physician's assistant providing dialysis care at least monthly, as evidenced by a monthly progress note placed in the medical record, and periodically while the hemodialysis patient is receiving in-facility dialysis.
 
 (c) *Standard: Transplantation referral tracking.* The interdisciplinary team must—
 
@@ -57,3 +55,5 @@ The interdisciplinary team as defined at § 494.80 must develop and implement a 
 (3) Communicate with the transplant center regarding patient transplant status at least annually, and when there is a change in transplant candidate status.
 
 (d) *Standard: Patient education and training.* The patient care plan must include, as applicable, education and training for patients and family members or caregivers or both, in aspects of the dialysis experience, dialysis management, infection prevention and personal care, home dialysis and self-care, quality of life, rehabilitation, transplantation, and the benefits and risks of various vascular access types.
+
+[73 FR 20475, Apr. 15, 2008, as amended at 89 FR 89213, Nov. 12, 2024]

@@ -1,5 +1,11 @@
-##### § 93.405 Notifying the respondent of findings of research misconduct and HHS administrative actions. #####
+##### § 93.405 Notifying the respondent of findings of research misconduct and proposed HHS administrative actions. #####
 
-(a) When the ORI makes a finding of research misconduct or seeks to impose or enforce HHS administrative actions, other than debarment or suspension, it notifies the respondent in a charge letter. In cases involving a debarment or suspension action, the HHS debarring official issues a notice of proposed debarment or suspension to the respondent as part of the charge letter. The charge letter includes the ORI findings of research misconduct and the basis for them and any HHS administrative actions. The letter also advises the respondent of the opportunity to contest the findings and administrative actions under Subpart E of this part.
+(a) When ORI makes a finding of research misconduct or proposes HHS administrative actions, it notifies the respondent in a charge letter. The charge letter:
 
-(b) The ORI sends the charge letter by certified mail or a private delivery service to the last known address of the respondent or the last known principal place of business of the respondent's attorney.
+(1) Includes ORI's findings of research misconduct, including the basis for such findings in the administrative record, and any proposed HHS administrative actions;
+
+(2) Advises the respondent how to access the administrative record; and
+
+(3) Informs the respondent of the opportunity to contest the findings and proposed HHS administrative actions under subpart E of this part.
+
+(b) ORI sends the charge letter by certified mail, private delivery service, or electronic mail or other electronic means to the last known address of the respondent or the last known principal place of business of the respondent's attorney, if represented.

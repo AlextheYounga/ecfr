@@ -1,0 +1,19 @@
+##### § 98.493 Calculating GHG emissions. #####
+
+(a) Calculate GHG emissions required to be reported in § 98.492(a) using the applicable methods in paragraph (b) of this section.
+
+(b) For each coke calcining unit, calculate GHG emissions according to the applicable provisions in paragraphs (b)(1) through (4) of this section.
+
+(1) If you operate and maintain a CEMS that measures CO2 emissions according to subpart C of this part, you must calculate and report CO2 emissions under this subpart by following the Tier 4 Calculation Methodology specified in § 98.33(a)(4) and all associated requirements for Tier 4 in subpart C of this part. Auxiliary fuel use CO2 emissions should be calculated in accordance with subpart C of this part and subtracted from the CO2 CEMS emissions to determine process CO2 emissions. Other coke calcining units must either install a CEMS that complies with the Tier 4 Calculation Methodology in subpart C of this part or follow the requirements of paragraph (b)(2) of this section.
+
+(2) Calculate the CO2 emissions from the coke calcining unit using monthly measurements and equation 1 to this paragraph (b)(2).
+
+Equation 1 to paragraph (b)(2)![](/graphics/er25ap24.068.gif)Where:CO2 = Annual CO2 emissions (metric tons CO2/year).m = Month index.Min,m = Mass of green coke fed to the coke calcining unit in month “m” from facility records (metric tons/year).CCGC.m = Mass fraction carbon content of green coke fed to the coke calcining unit from facility measurement data in month “m” (metric ton carbon/metric ton green coke). If measurements are made more frequently than monthly, determine the monthly average as the arithmetic average for all measurements made during the calendar month.Mout,m = Mass of marketable petroleum coke produced by the coke calcining unit in month “m” from facility records (metric tons petroleum coke/year).Mdust,m = Mass of petroleum coke dust removed from the process through the dust collection system of the coke calcining unit in month “m” from facility records (metric ton petroleum coke dust/year). For coke calcining units that recycle the collected dust, the mass of coke dust removed from the process is the mass of coke dust collected less the mass of coke dust recycled to the process.CCMPC,m = Mass fraction carbon content of marketable petroleum coke produced by the coke calcining unit in month “m” from facility measurement data (metric ton carbon/metric ton petroleum coke). If measurements are made more frequently than monthly, determine the monthly average as the arithmetic average for all measurements made during the calendar month.44 = Molecular weight of CO2 (kg/kg-mole).12 = Atomic weight of C (kg/kg-mole).
+
+(3) Calculate CH4 emissions using equation 2 to this paragraph (b)(3).
+
+Equation 2 to paragraph (b)(3)![](/graphics/er25ap24.069.gif)Where:CH4 = Annual methane emissions (metric tons CH4/year).CO2 = Annual CO2 emissions calculated in paragraph (b)(1) or (2) of this section, as applicable (metric tons CO2/year).EmF1 = Default CO2 emission factor for petroleum coke from table C-1 to subpart C of this part (kg CO2/MMBtu).EmF2 = Default CH4 emission factor for “Petroleum Products (All fuel types in table C-1)” from table C-2 to subpart C of this part (kg CH4/MMBtu).
+
+(4) Calculate N2O emissions using equation 3 to this paragraph (b)(4).
+
+Equation 3 to paragraph (b)(4)![](/graphics/er25ap24.070.gif)Where:N2O = Annual nitrous oxide emissions (metric tons N2O/year).CO2 = Annual CO2 emissions calculated in paragraph (b)(1) or (2) of this section, as applicable (metric tons CO2/year).EmF1 = Default CO2 emission factor for petroleum coke from table C-1 to subpart C of this part (kg CO2/MMBtu).EmF3 = Default N2O emission factor for “Petroleum Products (All fuel types in table C-1)” from table C-2 to subpart C of this part (kg N2O/MMBtu).

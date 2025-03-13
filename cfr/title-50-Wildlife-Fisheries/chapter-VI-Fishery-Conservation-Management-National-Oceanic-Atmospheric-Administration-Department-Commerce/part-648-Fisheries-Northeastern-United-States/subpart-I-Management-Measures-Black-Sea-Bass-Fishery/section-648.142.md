@@ -1,7 +1,5 @@
 ##### § 648.142 Black sea bass specifications. #####
 
-Link to an amendment published at 89 FR 79783, Oct. 1, 2024.
-
 (a) *Specifications.* Commercial quota, recreational landing limit, research set-aside, and other specification measures. The Monitoring Committee will recommend to the MAFMC and the ASMFC, through the specification process, for use in conjunction with the ACL and ACT, sector-specific research set-asides, estimates of the sector-related discards, a recreational harvest limit, a commercial quota, along with other measures, as needed, that are projected to prevent overages of the applicable specified limits or targets for each sector as prescribed in the FMP. The following measures are to be considered by the Monitoring Committee:
 
 (1) Research quota set from a range of 0 to 3 percent of the maximum allowed.
@@ -32,6 +30,8 @@ Link to an amendment published at 89 FR 79783, Oct. 1, 2024.
 
 (14) Modification of the existing AM measures and ACT control rules utilized by the Black Sea Bass Monitoring Committee.
 
+(15) A commercial quota overage buffer, of up to 5 percent, that would be used to determine when a Federal in-season closure would be triggered.
+
 (b) *Specification fishing measures.* The MAFMC shall review the Monitoring Committee recommendations and, based on the recommendations and public comment, make recommendations to the Regional Administrator on measures projected to constrain the sectors to the applicable limit or target as prescribed in the FMP. Included in the recommendation will be supporting documents, as appropriate, concerning the environmental and economic impacts of the final rule. The Regional Administrator will review these recommendations and any recommendations of the ASMFC. After such review, the Regional Administrator will publish a proposed rule in the Federal Register to implement a commercial quota, a recreational harvest limit, and additional management measures for the commercial fishery.
 
 (c) *Distribution of annual commercial quota.* The black sea bass commercial quota will be allocated on a coastwide basis.
@@ -52,4 +52,4 @@ Link to an amendment published at 89 FR 79783, Oct. 1, 2024.
 
 (e) *Research quota.* See § 648.22(g).
 
-[84 FR 65704, Nov. 29, 2019; 88 FR 14510, Mar. 9, 2023]
+[84 FR 65704, Nov. 29, 2019; 88 FR 14510, Mar. 9, 2023; 89 FR 79783, Oct. 1, 2024]

@@ -1,0 +1,3 @@
+##### § 1005.421 Certification of appraisal amount. #####
+
+A Section 184 Guaranteed Loan must be accompanied by a sales contract satisfactory to HUD, executed by the seller, whereby the seller agrees that before any sale of the property, the seller will deliver to the purchaser of the property a certification of the appraisal, in a form satisfactory to HUD, setting forth the amount of the appraised value of the property.

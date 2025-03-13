@@ -1,3 +1,5 @@
-##### § 93.214 Institutional member. #####
+##### § 93.214 Good faith. #####
 
-*Institutional member* or *members* means a person who is employed by, is an agent of, or is affiliated by contract or agreement with an institution. Institutional members may include, but are not limited to, officials, tenured and untenured faculty, teaching and support staff, researchers, research coordinators, clinical technicians, postdoctoral and other fellows, students, volunteers, agents, and contractors, subcontractors, and subawardees, and their employees.
+(a) Good faith as applied to a complainant or witness means having a reasonable belief in the truth of one's allegation or testimony, based on the information known to the complainant or witness at the time. An allegation or cooperation with a research misconduct proceeding is not in good faith if made with knowledge of or reckless disregard for information that would negate the allegation or testimony.
+
+(b) Good faith as applied to an institutional or committee member means cooperating with the research misconduct proceeding by impartially carrying out the duties assigned for the purpose of helping an institution meet its responsibilities under this part. An institutional or committee member does not act in good faith if their acts or omissions during the research misconduct proceedings are dishonest or influenced by personal, professional, or financial conflicts of interest with those involved in the research misconduct proceeding.

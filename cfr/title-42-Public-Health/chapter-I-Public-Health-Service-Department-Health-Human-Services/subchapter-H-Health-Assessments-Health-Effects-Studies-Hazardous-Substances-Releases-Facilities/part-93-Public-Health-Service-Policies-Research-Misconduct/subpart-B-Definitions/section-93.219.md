@@ -1,3 +1,3 @@
-##### § 93.219 Preponderance of the evidence. #####
+##### § 93.219 Institutional member. #####
 
-*Preponderance of the evidence* means proof by information that, compared with that opposing it, leads to the conclusion that the fact at issue is more probably true than not.
+Institutional member or members means an individual (or individuals) who is employed by, is an agent of, or is affiliated by contract or agreement with an institution. Institutional members may include, but are not limited to, officials, tenured and untenured faculty, teaching and support staff, researchers, research coordinators, technicians, postdoctoral and other fellows, students, volunteers, subject matter experts, consultants, or attorneys, or employees or agents of contractors, subcontractors, or sub-awardees.

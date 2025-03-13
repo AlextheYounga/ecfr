@@ -1,7 +1,5 @@
 ##### § 414.502 Definitions. #####
 
-Link to an amendment published at 89 FR 98559, Dec. 9, 2024.
-
 For purposes of this subpart—
 
 *Actual list charge* means the publicly available rate on the first day the new advanced diagnostic laboratory test (ADLT) is obtainable by a patient who is covered by private insurance, or marketed to the public as a test a patient can receive, even if the test has not yet been performed on that date.
@@ -56,9 +54,9 @@ For purposes of this subpart—
 
 *Blood bank or center* means an entity whose primary function is the performance or responsibility for the performance of, the collection, processing, testing, storage and/or distribution of blood or blood components intended for transfusion and transplantation.
 
-*Data collection period* is the 6 months from January 1 through June 30, during which applicable information is collected and that precedes the data reporting period, except that for the data reporting period of January 1, 2024 through March 31, 2024, the data collection period is January 1, 2019 through June 30, 2019.
+*Data collection period* is the 6 months from January 1 through June 30, during which applicable information is collected and that precedes the data reporting period, except that for the data reporting period of January 1, 2026, through March 31, 2026, the data collection period is January 1, 2019, through June 30, 2019.
 
-*Data reporting period* is the 3-month period, January 1 through March 31, during which a reporting entity reports applicable information to CMS and that follows the preceding data collection period, except that for the data collection period of January 1, 2019 through June 30, 2019, the data reporting period is January 1, 2024 through March 31, 2024.
+*Data reporting period* is the 3-month period, January 1 through March 31, during which a reporting entity reports applicable information to CMS and that follows the preceding data collection period, except that for the data collection period of January 1, 2019, through June 30, 2019, the data reporting period is January 1, 2026, through March 31, 2026.
 
 *National Provider Identifier* (NPI) means the standard unique health identifier used by health care providers for billing payors, assigned by the National Plan and Provider Enumeration System (NPPES) in 45 CFR part 162.
 
@@ -116,4 +114,4 @@ For purposes of this subpart—
 
 *Taxpayer Identification Number* (TIN) means a Federal taxpayer identification number or employer identification number as defined by the IRS in 26 CFR 301.6109-1.
 
-[71 FR 69786, Dec. 1, 2006, as amended at 72 FR 66401, Nov. 27, 2007; 81 FR 41098, June 23, 2016; 83 FR 60074, Nov. 23, 2018; 84 FR 61490, Nov. 12, 2019; 85 FR 85028, Dec. 28, 2020; 87 FR 70225, Nov. 18, 2022; 88 FR 79531, Nov. 16, 2023]
+[71 FR 69786, Dec. 1, 2006, as amended at 72 FR 66401, Nov. 27, 2007; 81 FR 41098, June 23, 2016; 83 FR 60074, Nov. 23, 2018; 84 FR 61490, Nov. 12, 2019; 85 FR 85028, Dec. 28, 2020; 87 FR 70225, Nov. 18, 2022; 88 FR 79531, Nov. 16, 2023; 89 FR 98559, Dec. 9, 2024]

@@ -1,7 +1,5 @@
 ##### § 405.2462 Payment for RHC and FQHC services. #####
 
-Link to an amendment published at 89 FR 98553, Dec. 9, 2024.
-
 (a) *Payment to independent RHCs that are authorized to bill under the reasonable cost system.* (1) RHCs that are authorized to bill under the reasonable cost system are paid on the basis of an all-inclusive rate, subject to a payment limit per visit determined in paragraph (b) of this section, for each beneficiary visit for covered services. This rate is determined by the Medicare Administration Contractor (MAC), in accordance with this subpart and general instructions issued by CMS.
 
 (2) The amount payable by the MAC for a visit is determined in accordance with paragraphs (i)(1) and (2) of this section.
@@ -84,7 +82,7 @@ Link to an amendment published at 89 FR 98553, Dec. 9, 2024.
 
 (3) Furnishing of care to a beneficiary receiving a comprehensive initial Medicare visit (that is an initial preventive physical examination or an initial annual wellness visit) or a subsequent annual wellness visit.
 
-(f) *Payment to grandfathered tribal FQHCs.* (1) A “grandfathered tribal FQHC” is a FQHC that:
+(f) *Payment to historically excepted tribal FQHCs.* (1) A “historically excepted tribal FQHC” is a FQHC that:
 
 (i) Is operated by a tribe or tribal organization under the Indian Self-Determination Education and Assistance Act (ISDEAA);
 
@@ -92,7 +90,7 @@ Link to an amendment published at 89 FR 98553, Dec. 9, 2024.
 
 (iii) Is not operating as a provider-based department of an IHS hospital.
 
-(2) A grandfathered tribal FQHC is paid at the Medicare outpatient per visit rate as set annually by the IHS.
+(2) A historically excepted tribal FQHC is paid at the Medicare outpatient per visit rate as set annually by the IHS.
 
 (3) The payment rate is not adjusted:
 
@@ -108,7 +106,7 @@ Link to an amendment published at 89 FR 98553, Dec. 9, 2024.
 
 (i) Eighty (80) percent of the lesser of the FQHC's actual charge or the PPS encounter rate for FQHCs authorized to bill under the PPS; or
 
-(ii) Eighty (80) percent of the lesser of a grandfathered tribal FQHC's actual charge, or the outpatient rate for Medicare as set annually by the IHS for grandfathered tribal FQHCs that are authorized to bill at this rate.
+(ii) Eighty (80) percent of the lesser of a historically excepted tribal FQHC's actual charge, or the outpatient rate for Medicare as set annually by the IHS for historically excepted tribal FQHCs that are authorized to bill at this rate.
 
 (2) No deductible is applicable to FQHC services.
 
@@ -128,20 +126,20 @@ Link to an amendment published at 89 FR 98553, Dec. 9, 2024.
 
 (3) *HCPCS coding.* FQHCs and RHCs are required to submit HCPCS and other codes as required in reporting services furnished.
 
-(j) *Payment amount for intensive outpatient services.* An RHC is paid the payment rate determined under § 419.21(a) of this chapter for services described under § 410.44 of this chapter. There are no adjustments to this rate.
+(j) *Payment amount for intensive outpatient services.* (1) An RHC is paid the payment rate determined under § 419.21(a) of this chapter for services described under § 410.44 of this chapter. There are no adjustments to this rate.
 
-(1) If the deductible has been fully met by the beneficiary prior to the RHC service, Medicare pays eighty (80) percent of the payment amount determined under paragraph (j)(1) of this section.
+(i) If the deductible has been fully met by the beneficiary prior to the RHC service, Medicare pays eighty (80) percent of the payment amount determined under this paragraph (j)(1).
 
-(2) If the deductible has not been fully met by the beneficiary prior to the RHC service, Medicare pays eighty (80) percent of the difference between the remaining deductible and the payment amount determined under paragraph (j)(1) of this section; or
+(ii) If the deductible has not been fully met by the beneficiary prior to the RHC service, Medicare pays eighty (80) percent of the difference between the remaining deductible and the payment amount determined under this paragraph (j)(1); or
 
-(3) If the deductible has not been fully met by the beneficiary prior to the RHC service, no payment is made to the RHC if the deductible is equal to or exceeds the payment amount determined under paragraph (j)(1) of this section.
+(iii) If the deductible has not been fully met by the beneficiary prior to the RHC service, no payment is made to the RHC if the deductible is equal to or exceeds the payment amount determined under this paragraph (j)(1).
 
-(4) FQHCs are paid the payment rate determined under § 419.21(a) of this chapter for services described under § 410.44 of this chapter. There are no adjustments to this rate, except that grandfathered tribal FQHCs are paid pursuant to paragraph (j)(4)(ii) of this section.
+(2) FQHCs are paid the payment rate determined under § 419.21(a) of this chapter for services described under § 410.44 of this chapter. There are no adjustments to this rate, except that historically excepted tribal FQHCs are paid pursuant to paragraph (j)(2)(ii) of this section.
 
-(i) Medicare pays eighty (80) percent of the lesser of the FQHC's actual charge or the payment rate determined under paragraph (j)(2) of this section; or
+(i) Medicare pays eighty (80) percent of the lesser of the FQHC's actual charge or the payment rate determined under paragraph (j)(1)(ii) of this section; or
 
-(ii) Medicare pays eighty (80) percent of the lesser of a grandfathered tribal FQHC's actual charge or the amount described under paragraphs (f)(2) and (3) of this section.
+(ii) Medicare pays eighty (80) percent of the lesser of a historically excepted tribal FQHC's actual charge or the amount described under paragraphs (f)(2) and (3) of this section.
 
 (iii) No deductible is applicable to FQHC services.
 
-[79 FR 25477, May 2, 2014, as amended at 80 FR 71371, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018; 86 FR 65660, Nov. 19, 2021; 88 FR 82176, Nov. 22, 2023]
+[79 FR 25477, May 2, 2014, as amended at 80 FR 71371, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018; 86 FR 65660, Nov. 19, 2021; 88 FR 82176, Nov. 22, 2023; 89 FR 98553, Dec. 9, 2024]

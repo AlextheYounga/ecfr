@@ -1,0 +1,3 @@
+##### § 1005.605 Remittance of Up-Front Loan Guarantee Fee. #####
+
+The Direct Guarantee Lender shall remit the Up-Front Loan Guarantee Fee to HUD within 15 days after settlement, using the payment system as prescribed by Section 184 Program Guidance. The Direct Guarantee Lender shall provide an account reconciliation of the Up-Front Loan Guarantee Fee in the time and manner as may be prescribed in Section 184 Program Guidance.

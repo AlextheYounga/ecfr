@@ -1,0 +1,3 @@
+##### § 1005.601 Scope and method of payment. #####
+
+HUD shall charge a one-time Section 184 Up-Front Loan Guarantee Fee, and a recurring Annual Loan Guarantee Fee where applicable, which will be collected by a Direct Guarantee Lender or Servicer as required by §§ 1005.603 and 1005.607 and remitted to HUD as required by §§ 1005.605 and 1005.609. The fees collected by the Direct Guarantee Lender or Servicer on behalf of HUD shall be payable to HUD in cash, in the manner prescribed by Section 184 Program Guidance.

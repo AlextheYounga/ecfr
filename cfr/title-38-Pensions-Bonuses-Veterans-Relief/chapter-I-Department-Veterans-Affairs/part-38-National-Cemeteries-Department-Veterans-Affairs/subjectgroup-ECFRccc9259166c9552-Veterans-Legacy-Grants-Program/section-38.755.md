@@ -1,5 +1,7 @@
 ##### § 38.755 Grant agreement. #####
 
+Link to an amendment published at 89 FR 107003, Dec. 31, 2024.
+
 After a grant is approved for award, VA will draft a grant agreement to be executed by VA and the grantee. Upon execution of the grant agreement, VA will obligate the grant amount. The grant agreement will provide that the recipient agrees, and will ensure that each subrecipient (if applicable) agrees, to:
 
 (a) Operate the program in accordance with the provisions of §§ 38.710 through

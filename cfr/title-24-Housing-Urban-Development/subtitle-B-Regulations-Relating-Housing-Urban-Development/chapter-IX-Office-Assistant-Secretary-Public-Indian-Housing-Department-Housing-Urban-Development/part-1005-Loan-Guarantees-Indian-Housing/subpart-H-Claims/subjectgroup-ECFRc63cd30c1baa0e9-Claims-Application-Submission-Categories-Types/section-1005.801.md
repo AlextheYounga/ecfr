@@ -1,0 +1,3 @@
+##### § 1005.801 Purpose. #####
+
+This subpart sets forth requirements that are applicable to a Servicer's submission of an application for a Claim for a Section 184 Guaranteed Loan benefits to HUD. The Servicer's submission of the Claim shall be in compliance with this subpart and must follow the process details as set forth in Section 184 Program Guidance. This subpart also sets forth requirements for processing and payment of the Claim.

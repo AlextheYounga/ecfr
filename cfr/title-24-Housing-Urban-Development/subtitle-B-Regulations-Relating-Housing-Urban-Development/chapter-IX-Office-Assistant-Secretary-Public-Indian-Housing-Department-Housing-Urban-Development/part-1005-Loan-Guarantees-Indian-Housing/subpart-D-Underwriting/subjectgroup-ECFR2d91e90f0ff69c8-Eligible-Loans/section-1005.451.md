@@ -1,0 +1,3 @@
+##### § 1005.451 Agreed interest rate. #####
+
+The loan shall bear interest at the rate agreed upon by the Direct Guarantee Lender and the Borrower and determined by HUD to be reasonable. The agreed upon interest rate may not exceed the rate generally charged in the area for mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government, or a rate determined by HUD, whichever is lower. The agreed upon interest rate must not take into consideration a Borrower's credit score in accordance with § 1005.409 and must not be based on risk-based pricing.

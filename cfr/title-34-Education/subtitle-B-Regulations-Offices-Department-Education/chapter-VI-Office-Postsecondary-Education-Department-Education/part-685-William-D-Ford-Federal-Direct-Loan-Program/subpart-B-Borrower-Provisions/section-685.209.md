@@ -256,7 +256,7 @@ Link to an amendment published at 89 FR 90230, Nov. 15, 2024.
 
 (iii) An amount collected through administrative wage garnishment or Federal Offset that is equivalent to the amount a borrower would owe on the 10-year standard plan.
 
-(6)(i) A borrower may obtain credit toward forgiveness as defined in paragraph (k) of this section for any months in which a borrower was in a deferment or forbearance not listed in paragraph (k)(4)(iv) of this section by making an additional payment equal to or greater than their current IDR payment, including a payment of $0, for a deferment or forbearance that ended within 3 years of the additional repayment date and occurred after July 1, 2024.
+(6)(i) A borrower may obtain credit toward forgiveness as defined in paragraph (k) of this section for any months in which a borrower was in a deferment or forbearance not listed in paragraph (k)(4)(iv) of this section, other than periods in an in-school deferment, by making an additional payment equal to or greater than their current IDR payment, including a payment of $0, for a deferment or forbearance that ended within 3 years of the additional repayment date and occurred after July 1, 2024.
 
 (ii) Upon request, the Secretary informs the borrower of the months for which the borrower can make payments under paragraph (k)(6)(i) of this section.
 
@@ -314,4 +314,4 @@ Link to an amendment published at 89 FR 90230, Nov. 15, 2024.
 
 (3) The income information used to calculate the payment under paragraph (f) of this section includes the point at which the loan defaulted.
 
-[88 FR 43900, July 10, 2023; 89 FR 46331, May 29, 2024]
+[88 FR 43900, July 10, 2023; 89 FR 46331, May 29, 2024, as amended at 89 FR 107001, Dec. 31, 2024]

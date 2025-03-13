@@ -1,0 +1,3 @@
+##### § 1005.729 Section 184 Guaranteed Loan collection action. #####
+
+A Servicer shall take prompt action to collect amounts due from Borrowers to minimize the number of accounts in default status. The Servicer must exhaust all reasonable possibilities of collection, including assessing the Borrower's financial circumstances for loss mitigation options in accordance with § 1005.739. No Servicer shall commence foreclosure, assign the loan to HUD, or acquire title to a property until the requirements of this subpart have been completed.

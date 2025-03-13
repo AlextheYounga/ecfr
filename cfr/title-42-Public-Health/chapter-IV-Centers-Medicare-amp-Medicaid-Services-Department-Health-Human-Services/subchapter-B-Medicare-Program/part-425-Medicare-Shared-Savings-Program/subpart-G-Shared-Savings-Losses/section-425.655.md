@@ -1,7 +1,5 @@
 ##### § 425.655 Calculating the regional risk score growth cap adjustment factor. #####
 
-Link to an amendment published at 89 FR 98576, Dec. 9, 2024.
-
 (a) *General.* This section describes the methodology for calculating the regional risk score growth cap adjustment factor that will be applied to the regional growth rate component of the three-way blend used to update the historical benchmark as described in § 425.652(b) for agreement periods beginning on January 1, 2024, and in subsequent years.
 
 (b) *Calculating county risk scores.* CMS does all of the following to determine county prospective HCC and demographic risk scores for use in calculating the ACO's regional risk scores:
@@ -44,7 +42,7 @@ Link to an amendment published at 89 FR 98576, Dec. 9, 2024.
 
 (iv) Aged/non-dual eligible Medicare and Medicaid beneficiaries.
 
-(2) Determines the aggregate growth in regional risk scores by calculating a weighted average of the growth in regional prospective HCC risk scores or demographic risk scores, as applicable, across the populations described in paragraph (d)(1) of this section. When calculating the weighted average growth in prospective HCC risk scores or demographic risk scores, as applicable, the weight applied to the growth in risk scores for each Medicare enrollment type is equal to the product of the ACO's regionally adjusted historical benchmark expenditures for that enrollment type and the ACO's performance year assigned beneficiary person years for that enrollment type.
+(2) Determines the aggregate growth in regional risk scores by calculating a weighted average of the growth in regional prospective HCC risk scores or demographic risk scores, as applicable, across the populations described in paragraph (d)(1) of this section. When calculating the weighted average growth in prospective HCC risk scores or demographic risk scores, as applicable, the weight applied to the growth in risk scores for each Medicare enrollment type is equal to the product of the ACO's historical benchmark expenditures, adjusted in accordance with § 425.652(a)(8), for that enrollment type and the ACO's performance year assigned beneficiary person years for that enrollment type.
 
 (e) *Determining the cap on regional risk score growth.* CMS determines the cap on regional prospective HCC risk score growth by:
 
@@ -76,4 +74,4 @@ Link to an amendment published at 89 FR 98576, Dec. 9, 2024.
 
 (ii) If the growth in regional prospective HCC risk scores determined in paragraph (d)(1) for the enrollment type exceeds the cap on regional risk score growth determined in paragraph (e) of this section, CMS will set the regional risk score growth cap adjustment factor for that enrollment type equal to the growth in regional prospective HCC risk scores for the enrollment type determined in paragraph (d)(1) of this section divided by the cap on regional risk score growth determined in paragraph (e) of this section.
 
-[88 FR 79549, Nov. 16, 2023]
+[88 FR 79549, Nov. 16, 2023, as amended at 89 FR 98576, Dec. 9, 2024]

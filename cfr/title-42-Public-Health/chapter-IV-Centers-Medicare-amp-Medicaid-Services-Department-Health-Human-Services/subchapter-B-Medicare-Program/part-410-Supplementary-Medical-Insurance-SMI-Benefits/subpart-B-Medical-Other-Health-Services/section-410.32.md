@@ -1,7 +1,5 @@
 ##### § 410.32 Diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests: Conditions. #####
 
-Link to an amendment published at 89 FR 98555, Dec. 9, 2024.
-
 (a) *Ordering diagnostic tests.* Except as otherwise provided in this section, all diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests must be ordered by the physician who is treating the beneficiary, that is, the physician who furnishes a consultation or treats a beneficiary for a specific medical problem and who uses the results in the management of the beneficiary's specific medical problem. Tests not ordered by the physician who is treating the beneficiary are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
 
 (1) *Mammography exception.* A physician who meets the qualification requirements for an interpreting physician under section 354 of the Public Health Service Act as provided in § 410.34(a)(7) may order a diagnostic mammogram based on the findings of a screening mammogram even though the physician does not treat the beneficiary.
@@ -43,7 +41,7 @@ Link to an amendment published at 89 FR 98555, Dec. 9, 2024.
 
 (i) *General supervision* means the procedure is furnished under the physician's overall direction and control, but the physician's presence is not required during the performance of the procedure. Under general supervision, the training of the nonphysician personnel who actually perform the diagnostic procedure and the maintenance of the necessary equipment and supplies are the continuing responsibility of the physician.
 
-(ii) *Direct supervision* in the office setting means the physician (or other supervising practitioner) must be present in the office suite and immediately available to furnish assistance and direction throughout the performance of the procedure. It does not mean that the physician (or other supervising practitioner) must be present in the room when the procedure is performed. Through December 31, 2024, the presence of the physician (or other practitioner) includes virtual presence through audio/video real-time communications technology (excluding audio-only).
+(ii) *Direct supervision* in the office setting means that the physician (or other supervising practitioner) must be present in the office suite and immediately available to furnish assistance and direction throughout the performance of the service. It does not mean that the physician (or other supervising practitioner) must be present in the room when the service is performed. Through December 31, 2025, the presence of the physician (or other practitioner) includes virtual presence through audio/video real-time communications technology (excluding audio-only).
 
 (iii) *Personal supervision* means a physician must be in attendance in the room during the performance of the procedure.
 
@@ -119,4 +117,4 @@ Link to an amendment published at 89 FR 98555, Dec. 9, 2024.
 
 (e) *Diagnostic laboratory tests furnished in hospitals and CAHs.* The provisions of paragraphs (a) and (d)(2) through (d)(4) of this section, inclusive, of this section apply to all diagnostic laboratory test furnished by hospitals and CAHs to outpatients.
 
-[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 54871, Sept. 2, 2020; 85 FR 85026, Dec. 28, 2020; 87 FR 70223, Nov. 18, 2022; 88 FR 79525, Nov. 16, 2023]
+[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 54871, Sept. 2, 2020; 85 FR 85026, Dec. 28, 2020; 87 FR 70223, Nov. 18, 2022; 88 FR 79525, Nov. 16, 2023; 89 FR 98555, Dec. 9, 2024]

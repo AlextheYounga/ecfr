@@ -1,5 +1,7 @@
 ##### § 404.1588 Your responsibility to tell us of events that may change your disability status. #####
 
+Link to an amendment published at 89 FR 107259, Dec. 31, 2024.
+
 (a) *Your responsibility to report changes to us.* If you are entitled to cash benefits or to a period of disability because you are disabled, you should promptly tell us if—
 
 (1) Your condition improves;

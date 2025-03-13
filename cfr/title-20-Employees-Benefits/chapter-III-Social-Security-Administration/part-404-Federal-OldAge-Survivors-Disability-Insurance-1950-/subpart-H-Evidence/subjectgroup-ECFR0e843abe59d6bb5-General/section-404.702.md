@@ -1,5 +1,7 @@
 ##### § 404.702 Definitions. #####
 
+Link to an amendment published at 89 FR 107258, Dec. 31, 2024.
+
 As used in this subpart:
 
 *Apply* means to sign a form or statement that the Social Security Administration accepts as an application for benefits under the rules set out in subpart G.

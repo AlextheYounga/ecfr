@@ -1,7 +1,5 @@
 ##### § 405.2463 What constitutes a visit. #####
 
-Link to an amendment published at 89 FR 98554, Dec. 9, 2024.
-
 (a) *Visit—General.* (1) For RHCs, a visit is either of the following:
 
 (i) Face-to-face encounter (or, for mental health disorders only, an encounter that meets the requirements under paragraph (b)(3) of this section) between an RHC patient and one of the following:
@@ -54,7 +52,7 @@ Link to an amendment published at 89 FR 98554, Dec. 9, 2024.
 
 (ii) Diabetes outpatient self-management training visit.
 
-(3) *Visit-Mental health.* A mental health visit is a face-to-face encounter or an encounter furnished using interactive, real-time, audio and video telecommunications technology or audio-only interactions in cases where the patient is not capable of, or does not consent to, the use of video technology for the purposes of diagnosis, evaluation or treatment of a mental health disorder, including an in-person mental health service, beginning January 1, 2025, furnished within 6 months prior to the furnishing of the telecommunications service and that an in-person mental health service (without the use of telecommunications technology) must be provided at least every 12 months while the beneficiary is receiving services furnished via telecommunications technology for diagnosis, evaluation, or treatment of mental health disorders, unless, for a particular 12-month period, the physician or practitioner and patient agree that the risks and burdens outweigh the benefits associated with furnishing the in-person item or service, and the practitioner documents the reasons for this decision in the patient's medical record, between an RHC or FQHC patient and one of the following:
+(3) *Visit-Mental health.* A mental health visit is a face-to-face encounter or an encounter furnished using interactive, real-time, audio and video telecommunications technology or audio-only interactions in cases where the patient is not capable of, or does not consent to, the use of video technology for the purposes of diagnosis, evaluation or treatment of a mental health disorder, including an in-person mental health service, beginning January 1, 2026, furnished within 6 months prior to the furnishing of the telecommunications service and that an in-person mental health service (without the use of telecommunications technology) must be provided at least every 12 months while the beneficiary is receiving services furnished via telecommunications technology for diagnosis, evaluation, or treatment of mental health disorders, unless, for a particular 12-month period, the physician or practitioner and patient agree that the risks and burdens outweigh the benefits associated with furnishing the in-person item or service, and the practitioner documents the reasons for this decision in the patient's medical record, between an RHC or FQHC patient and one of the following:
 
 (i) Clinical psychologist.
 
@@ -78,10 +76,10 @@ Link to an amendment published at 89 FR 98554, Dec. 9, 2024.
 
 (3) For FQHCs that are authorized to bill under the reasonable cost system, Medicare pays for more than 1 visit per day when a DSMT or MNT visit is furnished on the same day as a visit described in paragraph (c)(1) of this section are met.
 
-(4) For FQHCs billing under the PPS, and grandfathered tribal FQHCs that are authorized to bill as a FQHC at the outpatient per visit rate for Medicare as set annually by the Indian Health Service—
+(4) For FQHCs billing under PPS, and historically excepted tribal FQHCs that are authorized to bill as a FQHC at the outpatient per visit rate for Medicare as set annually by the Indian Health Service—
 
 (i) Suffers an illness or injury subsequent to the first visit that requires additional diagnosis or treatment on the same day; or
 
 (ii) Has a medical visit and a mental health visit or intensive outpatient services on the same day.
 
-[79 FR 68001, Nov. 13, 2014, as amended at 80 FR 71372, Nov. 16, 2015; 86 FR 65661, Nov. 19, 2021; 87 FR 70222, Nov. 18, 2022; 88 FR 79524, Nov. 16, 2023; 88 FR 82176, Nov. 22, 2023]
+[79 FR 68001, Nov. 13, 2014, as amended at 80 FR 71372, Nov. 16, 2015; 86 FR 65661, Nov. 19, 2021; 87 FR 70222, Nov. 18, 2022; 88 FR 79524, Nov. 16, 2023; 88 FR 82176, Nov. 22, 2023; 89 FR 98554, Dec. 9, 2024]

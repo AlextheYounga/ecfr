@@ -10,4 +10,4 @@
 
 (3) When the property was used for the benefit of the Board at the direction, or with the consent, of a supervisor.
 
-(45 U.S.C. 231f(b)(5)) [45 FR 57709, Aug. 29, 1980, as amended at 48 FR 51448, Nov. 9, 1983]
+(45 U.S.C. 231f(b)(5))[45 FR 57709, Aug. 29, 1980, as amended at 48 FR 51448, Nov. 9, 1983]

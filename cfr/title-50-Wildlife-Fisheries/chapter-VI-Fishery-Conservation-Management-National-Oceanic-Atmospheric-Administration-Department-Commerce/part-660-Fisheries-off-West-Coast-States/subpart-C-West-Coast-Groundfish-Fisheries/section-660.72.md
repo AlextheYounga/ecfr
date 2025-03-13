@@ -1,7 +1,5 @@
 ##### § 660.72 Latitude/longitude coordinates defining the 50 fm (91 m) through 75 fm (137 m) depth contours. #####
 
-Link to an amendment published at 89 FR 101527, Dec. 16, 2024.
-
 Boundaries for some GCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 50 fm (91 m) through 75 fm (137 m) depth contours.
 
 (a) The 50-fm (91-m) depth contour between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
@@ -194,17 +192,17 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (94) 39°40.16′ N. lat., 123°52.41′ W. long.;
 
-(95) 39°30.12′ N. lat., 123°52.92′ W. long.;
+(95) 39°32.47′ N lat., 123°52.25′ W long.;
 
-(96) 39°24.53′ N. lat., 123°55.16′ W. long.;
+(96) 39°21.86′ N lat., 123°54.13′ W long.;
 
-(97) 39°11.58′ N. lat., 123°50.93′ W. long.;
+(97) 39°8.35′ N lat., 123°49.67′ W long.;
 
-(98) 38°57.50′ N. lat., 123°51.10′ W. long.;
+(98) 38°57.50′ N lat., 123°49.42′ W long.;
 
-(99) 38°55.13′ N. lat., 123°51.14′ W. long.;
+(99) 38°51.20′ N lat., 123°46.09′ W long.;
 
-(100) 38°28.58′ N. lat., 123°22.84′ W. long.;
+(100) 38°29.47′ N lat., 123°20.19′ W long.;
 
 (101) 38°14.60′ N. lat., 123°09.92′ W. long.;
 
@@ -1992,4 +1990,4 @@ and connecting back to 48°30.15′ N. lat., 124°56.12′ W. long.
 
 (10) 32°37.38′ N lat., 119°19.45′ W long.
 
-[69 FR 77051, Dec. 23, 2004, as amended at 71 FR 8500, Feb. 17, 2006; 71 FR 78672, Dec. 29, 2006; 74 FR 9898, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27530, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 84 FR 63974, Nov. 19, 2019; 87 FR 77016, Dec. 16, 2022; 88 FR 83845, Dec. 1, 2023]
+[69 FR 77051, Dec. 23, 2004, as amended at 71 FR 8500, Feb. 17, 2006; 71 FR 78672, Dec. 29, 2006; 74 FR 9898, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27530, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 84 FR 63974, Nov. 19, 2019; 87 FR 77016, Dec. 16, 2022; 88 FR 83845, Dec. 1, 2023; 89 FR 101527, Dec. 16, 2024]

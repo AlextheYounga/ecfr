@@ -1,6 +1,6 @@
 ##### § 64.2010 Safeguards on the disclosure of customer proprietary network information. #####
 
-Link to a delay published at 88 FR 85814, Dec. 8, 2023.Link to a correction published at 88 FR 88261, Dec. 21, 2023.
+Link to an amendment published at 88 FR 85814, Dec. 8, 2023.Link to a correction published at 88 FR 88261, Dec. 21, 2023.
 
 (a) *Safeguarding CPNI.* Telecommunications carriers must take reasonable measures to discover and protect against attempts to gain unauthorized access to CPNI. Telecommunications carriers must properly authenticate a customer prior to disclosing CPNI based on customer-initiated telephone contact, online account access, or an in-store visit.
 

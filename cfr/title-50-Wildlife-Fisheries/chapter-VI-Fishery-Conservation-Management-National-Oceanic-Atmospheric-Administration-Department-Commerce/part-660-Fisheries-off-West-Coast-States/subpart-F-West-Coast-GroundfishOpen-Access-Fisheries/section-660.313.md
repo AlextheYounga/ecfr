@@ -2,7 +2,7 @@
 
 (a) *General.* General reporting requirements specified at § 660.13(a) through (c), subpart C, apply to the open access fishery.
 
-(b) *Declaration reports for vessels using nontrawl gear.* Declaration reporting requirements for open access vessels using nontrawl gear (all types of open access gear other than non-groundfish trawl gear) are specified at § 660.13(d), subpart C.
+(b) *Declaration reports for vessels using non-trawl gear.* Declaration reporting requirements for open access vessels using non-trawl gear (all types of open access gear other than non-groundfish trawl gear) are specified at § 660.13(d), subpart C.
 
 (c) *Declaration reports for vessels using non-groundfish trawl gear.* Declaration reporting requirements for open access vessels using non-groundfish trawl gear are specified at § 660.13(d), subpart C.
 
@@ -70,4 +70,4 @@
 
 (5) *Reporting requirements when a temporary waiver has been granted.* Receivers that have been granted a temporary waiver from the requirement to submit electronic fish tickets must submit on paper the same data as is required on electronic fish tickets within 24 hours of the date of landing during the period that the waiver is in effect. Paper fish tickets must be sent by facsimile to NMFS, West Coast Region, Sustainable Fisheries Division, 206-526-6736 or by delivering it in person to 7600 Sand Point Way NE., Seattle, WA 98115. The requirements for submissions of paper tickets in this paragraph are separate from, and in addition to existing state requirements for landing receipts or fish receiving tickets.
 
-[81 FR 84432, Nov. 23, 2016]
+[81 FR 84432, Nov. 23, 2016, as amended at 89 FR 101522, Dec. 16, 2024]

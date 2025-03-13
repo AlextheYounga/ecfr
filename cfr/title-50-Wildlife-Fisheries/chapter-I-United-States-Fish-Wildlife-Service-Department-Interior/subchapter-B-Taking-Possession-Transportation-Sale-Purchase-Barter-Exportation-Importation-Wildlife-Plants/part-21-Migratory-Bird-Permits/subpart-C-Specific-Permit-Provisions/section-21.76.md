@@ -1,6 +1,6 @@
 ##### § 21.76 Rehabilitation permits. #####
 
-(a) *What is the permit requirement?* Except as provided in § 21.12, a rehabilitation permit is required to take, temporarily possess, or transport any migratory bird for rehabilitation purposes. However, any person who finds a sick, injured, or orphaned migratory bird may, without a permit, take possession of the bird in order to immediately transport it to a permitted rehabilitator.
+(a) *What is the permit requirement?* Except as provided in § 21.22, a rehabilitation permit is required to take, temporarily possess, or transport any migratory bird for rehabilitation purposes. However, any person who finds a sick, injured, or orphaned migratory bird may, without a permit, take possession of the bird for immediate transport to a permitted rehabilitator or licensed veterinarian.
 
 (b) *What are the general permit provisions?* (1) The permit authorizes you to:
 
@@ -38,9 +38,9 @@
 
 (e) *What are the standard conditions for this permit?* In addition to the general permit conditions set forth in part 13 of this chapter, rehabilitation permits are subject to the following conditions:
 
-(1) *Facilities.* You must conduct the activities authorized by this permit in appropriate facilities that are approved and identified on the face of your permit. In evaluating whether caging dimensions are adequate, the Service will use as a guideline the standards developed by the National Wildlife Rehabilitators Association and the International Wildlife Rehabilitation Council (*Minimum Standards for Wildlife Rehabilitation, 2000*). 1 The Regional Migratory Bird Permit Office will authorize variation from the standards where doing so is reasonable and necessary to accommodate a particular rehabilitator's circumstances, unless a determination is made that such variation will jeopardize migratory birds. However, except as provided by paragraph (f)(2)(i) of this section, all facilities must adhere to the following criteria:
+(1) *Facilities.* You must conduct the activities authorized by this permit in appropriate facilities that are approved and identified on the face of your permit. In evaluating facilities, Service approved guidance will be used unless the rehabilitator demonstrates that variation from the guidance is humane for the bird(s) and both reasonable and necessary to accommodate the rehabilitator's particular circumstances. However, except as provided by paragraph (f)(2)(i) of this section, all facilities must comply with the following criteria:
 
-1 Copies may be obtained by contacting either the National Wildlife Rehabilitators Association, *https://nwrawildlife.org/;* or the International Wildlife Rehabilitation Council, *https://theiwrc.org.*
+1 [Reserved]
 
 (i) Rehabilitation facilities for migratory birds must be secure and provide protection from predators, domestic animals, undue human disturbance, sun, wind, and inclement weather.
 
@@ -84,7 +84,7 @@
 
 (v) You may place nonreleasable live birds that are suitable for use in educational programs, foster parenting, research projects, or other permitted activities with persons permitted or otherwise authorized to possess such birds, with prior approval from your issuing Migratory Bird Permit Office.
 
-(vi)(A) You may donate dead birds and parts thereof, except threatened and endangered species, and bald and golden eagles, to persons authorized by permit to possess migratory bird specimens or exempted from permit requirements under § 21.12.
+(vi)(A) You may donate dead birds and parts thereof, except threatened and endangered species, bald eagles, and golden eagles, to persons authorized by permit to possess migratory bird specimens or exempted from permit requirements under the regulations in subpart B of this part.
 
 (B) You must obtain approval from your issuing office before disposing of or transferring any live or dead endangered or threatened migratory bird specimen, parts, or feathers.
 
@@ -134,4 +134,4 @@
 
 (h) *How long is a migratory bird rehabilitation permit valid?* Your rehabilitation permit will expire on the date designated on the face of the permit unless amended or revoked. No rehabilitation permit will have a term exceeding 5 years.
 
-[68 FR 61137, Oct. 27, 2003, as amended at 73 FR 59477, Oct. 8, 2008; 75 FR 29918, May 28, 2010; 79 FR 43965, July 29, 2014. Redesignated and amended at 87 FR 881, Jan. 7, 2022]
+[68 FR 61137, Oct. 27, 2003, as amended at 73 FR 59477, Oct. 8, 2008; 75 FR 29918, May 28, 2010; 79 FR 43965, July 29, 2014. Redesignated and amended at 87 FR 881, Jan. 7, 2022; 89 FR 107042, Dec. 31, 2024]

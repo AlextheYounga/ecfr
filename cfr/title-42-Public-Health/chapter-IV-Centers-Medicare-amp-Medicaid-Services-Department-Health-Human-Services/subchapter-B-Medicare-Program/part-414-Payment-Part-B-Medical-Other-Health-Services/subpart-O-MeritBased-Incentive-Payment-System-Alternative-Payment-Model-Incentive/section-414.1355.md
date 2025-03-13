@@ -1,7 +1,5 @@
 ##### § 414.1355 Improvement activities performance category. #####
 
-Link to an amendment published at 89 FR 98561, Dec. 9, 2024.
-
 (a) For a MIPS payment year, CMS uses improvement activities included in the MIPS final inventory of improvement activities established by CMS through rulemaking to assess performance in the improvement activities performance category.
 
 (b) Unless a different scoring weight is assigned by CMS under section 1848(q)(5)(F) of the Act, performance in the improvement activities performance category comprises:
@@ -30,4 +28,20 @@ Link to an amendment published at 89 FR 98561, Dec. 9, 2024.
 
 (9) Integrated behavioral and mental health, such as measuring or evaluating such practices as: Co-location of behavioral health and primary care services; shared/integrated behavioral health and primary care records; cross training of MIPS eligible clinicians, and integrating behavioral health with primary care to address substance use disorders or other behavioral health conditions, as well as integrating mental health with primary care.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 83 FR 60079, Nov. 23, 2018]
+(d) CMS may remove an improvement activity from MIPS based on one or more of the following factors, provided however CMS may retain an improvement activity that meets one or more of the following factors if CMS determines the benefit of retaining the activity outweighs the benefit of removing it:
+
+(1) *Factor 1:* Activity is duplicative of another activity.
+
+(2) *Factor 2:* There is an alternative activity with a stronger relationship to quality care or improvements in clinical practice.
+
+(3) *Factor 3:* Activity does not align with current clinical guidelines or practice.
+
+(4) *Factor 4:* Activity does not align with at least one meaningful measures area.
+
+(5) *Factor 5:* Activity does not align with the quality, cost, or Promoting Interoperability performance categories.
+
+(6) *Factor 6:* There have been no attestations of the activity for 3 consecutive years.
+
+(7) *Factor 7:* Activity is obsolete.
+
+[81 FR 77537, Nov. 4, 2016, as amended at 83 FR 60079, Nov. 23, 2018; 89 FR 98561, Dec. 9, 2024]

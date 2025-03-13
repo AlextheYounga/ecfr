@@ -1,0 +1,5 @@
+##### § 1005.821 Coverage of title evidence. #####
+
+(a) Evidence of title or Title Status Report shall include the recordation of the conveyance or assignment to HUD. The evidence of title, the Title Status Report or direct verification from the Tribe or TDHE, shall further show that, according to the public or Tribal records, there are no outstanding prior liens, including any past-due and unpaid ground rents, general taxes or special assessments, if applicable, on the date of conveyance or assignment.
+
+(b) If the title evidence and Title Status Report are acceptable generally in the community in which the property is situated, such title evidence and Title Status Report shall be satisfactory to HUD and shall be considered Good and Marketable Title. In cases of disagreement, HUD will make the final determination in its sole discretion.

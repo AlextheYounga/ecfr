@@ -1,7 +1,5 @@
 ##### § 494.100 Condition: Care at home. #####
 
-Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
-
 A dialysis facility that is certified to provide services to home patients must ensure through its interdisciplinary team, that home dialysis services are at least equivalent to those provided to in-facility patients and meet all applicable conditions of this part.
 
 (a) *Standard: Training.* The interdisciplinary team must oversee training of the home dialysis patient, the designated caregiver, or self-dialysis patient before the initiation of home dialysis or self-dialysis (as defined in § 494.10) and when the home dialysis caregiver or home dialysis modality changes. The training must—
@@ -12,7 +10,7 @@ A dialysis facility that is certified to provide services to home patients must 
 
 (3) Be conducted for each home dialysis patient and address the specific needs of the patient, in the following areas:
 
-(i) The nature and management of ESRD.
+(i) The nature and management of their kidney failure.
 
 (ii) The full range of techniques associated with the treatment modality selected, including effective use of dialysis supplies and equipment in achieving and delivering the physician's prescription of Kt/V or URR, and effective administration of erythropoiesis-stimulating agent(s) (if prescribed) to achieve and maintain a target level hemoglobin or hematocrit as written in patient's plan of care.
 
@@ -63,3 +61,5 @@ A dialysis facility that is certified to provide services to home patients must 
 (vii) Identifying a plan and arranging for emergency back-up dialysis services when needed.
 
 (2) The dialysis facility must maintain a recordkeeping system that ensures continuity of care and patient privacy. This includes items and services furnished by durable medical equipment (DME) suppliers referred to in § 414.330(a)(2) of this chapter.
+
+[73 FR 20475, Apr. 15, 2008, as amended at 89 FR 89213, Nov. 12, 2024]

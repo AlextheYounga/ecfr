@@ -22,4 +22,4 @@ The Commission issues the following types of experimental authorizations:
 
 (g) An experimental license is not required when operation of a radiofrequency device is fully contained within an anechoic chamber or a Faraday cage.
 
-[78 FR 25162, Apr. 29, 2013, as amended at 84 FR 25690, June 4, 2019] General Filing Requirements
+[78 FR 25162, Apr. 29, 2013, as amended at 84 FR 25690, June 4, 2019]General Filing Requirements

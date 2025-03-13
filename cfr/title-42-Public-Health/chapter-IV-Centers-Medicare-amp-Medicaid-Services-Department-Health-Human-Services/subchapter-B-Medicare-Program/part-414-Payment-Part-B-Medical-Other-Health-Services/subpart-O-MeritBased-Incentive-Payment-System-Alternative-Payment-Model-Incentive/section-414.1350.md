@@ -1,7 +1,5 @@
 ##### § 414.1350 Cost performance category. #####
 
-Link to an amendment published at 89 FR 98561, Dec. 9, 2024.
-
 (a) *Specification of cost measures.* For purposes of assessing performance of MIPS eligible clinicians on the cost performance category, CMS specifies cost measures for a performance period.
 
 (b) *Attribution.* (1) Cost measures are attributed at the TIN/NPI level for the 2017 thorough 2019 performance periods.
@@ -46,4 +44,16 @@ Link to an amendment published at 89 FR 98561, Dec. 9, 2024.
 
 (5) 30 percent of the MIPS final score for MIPS payment year 2024 and each subsequent MIPS payment year.
 
-[83 FR 60079, Nov. 23, 2018, as amended at 84 FR 63195, Nov. 15, 2019, 85 FR 85031, Dec. 28, 2020; 86 FR 65671, Nov. 19, 2021; 88 FR 79535, Nov. 16, 2023]
+(e) *Cost measure removal criteria.* CMS may remove a cost measure from MIPS based on one or more of the following factors, provided however CMS may retain a cost measure that meets one or more of the following factors if CMS determines the benefit of retaining the measure outweighs the benefit of removing it.
+
+(1) It is not feasible to implement the measure specifications.
+
+(2) A measure steward is no longer able to maintain the cost measure.
+
+(3) The implementation costs or negative unintended consequences associated with a cost measure outweigh the benefit of its continued use in the MIPS cost performance category.
+
+(4) The measure specifications do not reflect current clinical practice or guidelines.
+
+(5) The availability of a more applicable measure, including a measure that applies across settings, applies across populations, or is more proximal in time to desired patient outcomes for the particular topic.
+
+[83 FR 60079, Nov. 23, 2018, as amended at 84 FR 63195, Nov. 15, 2019, 85 FR 85031, Dec. 28, 2020; 86 FR 65671, Nov. 19, 2021; 88 FR 79535, Nov. 16, 2023; 89 FR 98561, Dec. 9, 2024]

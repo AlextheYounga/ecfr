@@ -1,7 +1,5 @@
 ##### § 483.80 Infection control. #####
 
-Link to an amendment published at 89 FR 88485, Nov. 7, 2024.
-
 The facility must establish and maintain an infection prevention and control program designed to provide a safe, sanitary, and comfortable environment and to help prevent the development and transmission of communicable diseases and infections.
 
 (a) *Infection prevention and control program.* The facility must establish an infection prevention and control program (IPCP) that must include, at a minimum, the following elements:
@@ -102,36 +100,46 @@ The facility must establish and maintain an infection prevention and control pro
 
 (f) *Annual review.* The facility will conduct an annual review of its IPCP and update their program, as necessary.
 
-(g) *COVID-19 reporting.* Until December 31, 2024, with the exception of the requirements in paragraph (g)(1)(viii) of this section, the facility must do all of the following:
+(g) *Respiratory illness reporting*—(1) *Ongoing reporting.* The facility must electronically report information on acute respiratory illnesses, including influenza, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)/coronavirus 2019 (COVID-19), and respiratory syncytial virus (RSV).
 
-(1) Electronically report information about COVID-19 in a standardized format specified by the Secretary. To the extent as required by the Secretary, this report must include the following:
+(i) The report must be in a standardized format and frequency specified by the Secretary.
 
-(i) Suspected and confirmed COVID-19 infections among residents and staff, including residents previously treated for COVID-19.
+(ii) To the extent as required by the Secretary, this report must include all of the following data elements:
 
-(ii) Total deaths and COVID-19 deaths among residents and staff.
+(A) Facility census (defined as the total number of residents occupying a bed at this facility for at least 24 hours during the week of data collection).
 
-(iii) Personal protective equipment and hand hygiene supplies in the facility.
+(B) Resident vaccination status for a limited set of respiratory illnesses, including but not limited to the following:
 
-(iv) Ventilator capacity and supplies in the facility.
+(*1*) Influenza.
 
-(v) Resident beds and census.
+(*2*) SARS-CoV-2/COVID-19.
 
-(vi) Access to COVID-19 testing while the resident is in the facility.
+(*3*) RSV.
 
-(vii) Staffing shortages.
+(C) Confirmed, resident cases of a limited set of respiratory illnesses, including but not limited to the following:
 
-(viii) The COVID-19 vaccine status of residents and staff, including total numbers of residents and staff, numbers of residents and staff vaccinated, numbers of each dose of COVID-19 vaccine received, and COVID-19 vaccination adverse events.
+(*1*) Influenza.
 
-(ix) Therapeutics administered to residents for treatment of COVID-19.
+(*2*) SARS-CoV-2/COVID-19.
 
-(2) Provide the information specified in paragraph (g)(1) of this section weekly, unless the Secretary specifies a lesser frequency, to the Centers for Disease Control and Prevention's National Healthcare Safety Network. This information will be posted publicly by CMS to support protecting the health and safety of residents, personnel, and the general public.
+(*3*) RSV.
 
-(3) Inform residents, their representatives, and families of those residing in facilities by 5 p.m. the next calendar day following the occurrence of either a single confirmed infection of COVID-19, or three or more residents or staff with new-onset of respiratory symptoms occurring within 72 hours of each other. This information must do all of the following:
+(D) Hospitalized residents with confirmed cases of a limited set of respiratory illnesses, including but not limited to the following:
 
-(i) Not include personally identifiable information.
+(*1*) Influenza.
 
-(ii) Include information on mitigating actions implemented to prevent or reduce the risk of transmission, including if normal operations of the facility will be altered.
+(*2*) SARS-CoV-2/COVID-19.
 
-(iii) Include any cumulative updates for residents, their representatives, and families at least weekly or by 5 p.m. the next calendar day following the subsequent occurrence of either: Each time a confirmed infection of COVID-19 is identified, or whenever three or more residents or staff with new onset of respiratory symptoms occur within 72 hours of each other.
+(*3*) RSV.
 
-[81 FR 68868, Oct. 4, 2016, as amended at 85 FR 27627, May 8, 2020; 85 FR 54873, Sept. 2, 2020; 86 FR 26335, May 13, 2021; 86 FR 61619, Nov. 5, 2021; 86 FR 62421, Nov. 9, 2021; 88 FR 36510, June 5, 2023; 89 FR 41000, May 10, 2024]
+(2) *Public health emergency (PHE) reporting.* In the event that the Secretary has declared a national, State, or local PHE for an acute infectious illness, the facility must also electronically report all of the following data elements in a standardized format and frequency specified by the Secretary:
+
+(i) Relevant confirmed infections for staff.
+
+(ii) Supply inventory shortages.
+
+(iii) Staffing shortages.
+
+(iv) Relevant medical countermeasures and therapeutic inventories, usage, or both.
+
+[81 FR 68868, Oct. 4, 2016, as amended at 85 FR 27627, May 8, 2020; 85 FR 54873, Sept. 2, 2020; 86 FR 26335, May 13, 2021; 86 FR 61619, Nov. 5, 2021; 86 FR 62421, Nov. 9, 2021; 88 FR 36510, June 5, 2023; 89 FR 41000, May 10, 2024; 89 FR 88485, Nov. 7, 2024]

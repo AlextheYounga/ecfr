@@ -10,4 +10,4 @@
 
 (b) If in the opinion of the Deputy General Counsel an electric railway has the characteristic set forth in either paragraphs (a)(1), (2), or (a)(3) of this section, he will conclude that it is an employer under the act and if the operator concurs in such opinion, the decision will be made final by the Board. If the operator does not concur in the conclusion reached the question will be submitted to the Interstate Commerce Commission for determination.
 
-(45 U.S.C. 231f(b)(5)) [4 FR 1478, Apr. 7, 1939, as amended at 48 FR 51448, Nov. 9, 1983]
+(45 U.S.C. 231f(b)(5))[4 FR 1478, Apr. 7, 1939, as amended at 48 FR 51448, Nov. 9, 1983]

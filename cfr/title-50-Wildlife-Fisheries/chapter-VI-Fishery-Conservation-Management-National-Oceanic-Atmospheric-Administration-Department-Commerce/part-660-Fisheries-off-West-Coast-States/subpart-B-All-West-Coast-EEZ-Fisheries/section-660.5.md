@@ -1,14 +1,12 @@
 ##### § 660.5 Shared Ecosystem Component Species. #####
 
-Link to an amendment published at 89 FR 101522, Dec. 16, 2024.
-
 (a) *General.* The FMPs implemented in this part 660 each contain ecosystem component species specific to each FMP, as well as a group of ecosystem component species shared between all of the FMPs. Ecosystem component species shared between all of the Pacific Fishery Management Council's FMPs, and known collectively as “Shared EC Species,” are:
 
 (1) Round herring (*Etrumeus teres*) and thread herring (*Ophisthonema libertate* and *O. medirastre*).
 
 (2) Mesopelagic fishes of the families *Myctophidae, Bathylagidae, Paralepididae,* and *Gonostomatidae*.
 
-(3) Pacific sand lance (*Ammodytes hexapterus*).
+(3) Pacific sand lance (*Ammodytes personatus*)
 
 (4) Pacific saury (*Cololabis saira*).
 
@@ -23,3 +21,5 @@ Link to an amendment published at 89 FR 101522, Dec. 16, 2024.
 (1) 10 mt combined weight of all Shared EC Species from any fishing trip; or
 
 (2) 30 mt combined weight of all Shared EC Species in any calendar year.
+
+[81 FR 19057, Apr. 4, 2016, as amended at 89 FR 101522, Dec. 16, 2024]

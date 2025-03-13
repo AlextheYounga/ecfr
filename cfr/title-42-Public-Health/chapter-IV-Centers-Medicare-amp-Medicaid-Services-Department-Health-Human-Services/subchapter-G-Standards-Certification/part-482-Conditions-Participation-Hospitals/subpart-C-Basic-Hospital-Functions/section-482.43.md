@@ -1,7 +1,5 @@
 ##### § 482.43 Condition of participation: Discharge planning. #####
 
-Link to an amendment published at 89 FR 94592, Nov. 27, 2024.
-
 The hospital must have an effective discharge planning process that focuses on the patient's goals and treatment preferences and includes the patient and his or her caregivers/support person(s) as active partners in the discharge planning for post-discharge care. The discharge planning process and the discharge plan must be consistent with the patient's goals for care and his or her treatment preferences, ensure an effective transition of the patient from hospital to post-discharge care, and reduce the factors leading to preventable hospital readmissions.
 
 (a) *Standard: Discharge planning process.* The hospital's discharge planning process must identify, at an early stage of hospitalization, those patients who are likely to suffer adverse health consequences upon discharge in the absence of adequate discharge planning and must provide a discharge planning evaluation for those patients so identified as well as for other patients upon the request of the patient, patient's representative, or patient's physician.
@@ -24,7 +22,9 @@ The hospital must have an effective discharge planning process that focuses on t
 
 (b) *Standard: Discharge of the patient and provision and transmission of the patient's necessary medical information.* The hospital must discharge the patient, and also transfer or refer the patient where applicable, along with all necessary medical information pertaining to the patient's current course of illness and treatment, post-discharge goals of care, and treatment preferences, at the time of discharge, to the appropriate post-acute care service providers and suppliers, facilities, agencies, and other outpatient service providers and practitioners responsible for the patient's follow-up or ancillary care.
 
-(c) *Standard: Requirements related to post-acute care services.* For those patients discharged home and referred for HHA services, or for those patients transferred to a SNF for post-hospital extended care services, or transferred to an IRF or LTCH for specialized hospital services, the following requirements apply, in addition to those set out at paragraphs (a) and (b) of this section:
+(c) *Standard: Transfer protocols.* Effective July 1, 2025, the hospital must have written policies and procedures for transferring patients under its care (inclusive of inpatient services) to the appropriate level of care (including to another hospital) as needed to meet the needs of the patient. The hospital must also provide annual training to relevant staff regarding the hospital policies and procedures for transferring patients under its care.
+
+(d) *Standard: Requirements related to post-acute care services.* For those patients discharged home and referred for HHA services, or for those patients transferred to a SNF for post-hospital extended care services, or transferred to an IRF or LTCH for specialized hospital services, the following requirements apply, in addition to those set out at paragraphs (a) and (b) of this section:
 
 (1) The hospital must include in the discharge plan a list of HHAs, SNFs, IRFs, or LTCHs that are available to the patient, that are participating in the Medicare program, and that serve the geographic area (as defined by the HHA) in which the patient resides, or in the case of a SNF, IRF, or LTCH, in the geographic area requested by the patient. HHAs must request to be listed by the hospital as available.
 
@@ -38,4 +38,4 @@ The hospital must have an effective discharge planning process that focuses on t
 
 (3) The discharge plan must identify any HHA or SNF to which the patient is referred in which the hospital has a disclosable financial interest, as specified by the Secretary, and any HHA or SNF that has a disclosable financial interest in a hospital under Medicare. Financial interests that are disclosable under Medicare are determined in accordance with the provisions of part 420, subpart C, of this chapter.
 
-[84 FR 51882, Sept. 30, 2019]
+[84 FR 51882, Sept. 30, 2019, as amended at 89 FR 94592, Nov. 27, 2024]

@@ -1,3 +1,3 @@
-##### § 93.217 Office of Research Integrity or ORI. #####
+##### § 93.217 Institutional Certifying Official. #####
 
-*Office of Research Integrity* or *ORI* means the office to which the HHS Secretary has delegated responsibility for addressing research integrity and misconduct issues related to PHS supported activities.
+Institutional Certifying Official means the institutional official responsible for assuring on behalf of an institution that the institution has written policies and procedures for addressing allegations of research misconduct, in compliance with this part; and complies with its own policies and procedures and the requirements of this part. The Institutional Certifying Official is responsible for certifying the content of the institution's annual report, which contains information specified by ORI on the institution's compliance with this part, and ensuring the report is submitted to ORI, as required.

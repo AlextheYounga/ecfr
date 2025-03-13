@@ -1,5 +1,7 @@
 ##### § 301.1 General definitions. #####
 
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+
 When used in this chapter, unless the context otherwise indicates:
 
 *Act* means the Social Security Act, and the title referred to is title IV-D of that Act.

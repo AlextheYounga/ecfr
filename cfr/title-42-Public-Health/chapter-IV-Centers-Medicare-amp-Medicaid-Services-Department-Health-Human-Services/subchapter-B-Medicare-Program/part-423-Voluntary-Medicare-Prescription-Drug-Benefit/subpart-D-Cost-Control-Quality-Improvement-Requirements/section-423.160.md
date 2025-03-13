@@ -1,7 +1,5 @@
 ##### § 423.160 Standards for electronic prescribing. #####
 
-Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
-
 (a) *General rules.* (1) Part D sponsors must establish and maintain an electronic prescription drug program that complies with the applicable standards in paragraph (b) of this section when transmitting, directly or through an intermediary, prescriptions and prescription-related information using electronic media for covered Part D drugs for Part D eligible individuals.
 
 (2) Except as provided in paragraph (a)(3) of this section, prescribers and dispensers that transmit, directly or through an intermediary, prescriptions and prescription-related information using electronic media (including entities transmitting prescriptions or prescription-related information where the prescriber is required by law to issue a prescription for a patient to a non-prescribing provider, such as a nursing facility, that in turn forwards the prescription to a dispenser), must comply with the applicable standards in paragraph (b) of this section when e-prescribing for covered Part D drugs for Part D eligible individuals.
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (ii) Pertains to the electronic transmission of medication history and of information on eligibility, benefits, and prescriptions with respect to covered Part D drugs under Part D of Title XVIII of the Act.
 
-(5) Beginning on January 1, 2021, prescribers must, except in the circumstances described in paragraphs (a)(5)(i) through (iii) of this section, conduct prescribing for at least 70 percent of their Schedule II, III, IV, and V controlled substances that are Part D drugs electronically using the applicable standards in paragraph (b) of this section, subject to the exemption in paragraph (a)(3)(iii) of this section. Prescriptions written for a beneficiary in a long-term care facility will not be included in determining compliance until January 1, 2025. Compliance actions against prescribers who do not meet the compliance threshold based on prescriptions written for a beneficiary in a long-term care facility will commence on or after January 1, 2025. Compliance actions against prescribers who do not meet the compliance threshold based on other prescriptions will commence on or after January 1, 2023. Prescribers will be exempt from this requirement in the following situations:
+(5) Beginning on January 1, 2021, prescribers must, except in the circumstances described in paragraphs (a)(5)(i) through (iii) of this section, conduct prescribing for at least 70 percent of their Schedule II, III, IV, and V controlled substances that are Part D drugs electronically using the applicable standards in paragraph (b) of this section, subject to the exemption in paragraph (a)(3)(iii) of this section. Prescriptions written for a beneficiary in a long-term care facility will not be included in determining compliance until January 1, 2028. Compliance actions against prescribers who do not meet the compliance threshold based on prescriptions written for a beneficiary in a long-term care facility will commence on or after January 1, 2028. Compliance actions against prescribers who do not meet the compliance threshold based on other prescriptions will commence on or after January 1, 2023. Prescribers will be exempt from this requirement in the following situations:
 
 (i) Prescriber issues 100 or fewer controlled substance prescriptions for Part D drugs per calendar year as determined using CMS claims data with dates of service as of December 31st of the current year.
 
@@ -102,4 +100,4 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (5) NCPDP Formulary and Benefit Standard, Implementation Guide Version 60, ANSI-approved April 12, 2023.
 
-[89 FR 51263, June 17, 2024]
+[89 FR 51263, June 17, 2024, as amended by 89 FR 98565, Dec. 9, 2024]

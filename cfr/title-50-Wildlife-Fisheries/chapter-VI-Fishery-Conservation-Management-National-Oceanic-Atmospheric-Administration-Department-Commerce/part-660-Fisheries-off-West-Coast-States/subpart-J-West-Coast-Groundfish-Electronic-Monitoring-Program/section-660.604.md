@@ -1,7 +1,5 @@
 ##### § 660.604 Vessel and first receiver responsibilities. #####
 
-Link to an amendment published at 89 FR 101544, Dec. 16, 2024.
-
 (a) *General.* This section lays out the requirements for catcher vessels to obtain an exemption to use EM in place of 100-percent observer coverage required by the Shorebased IFQ Program (§ 660.140(h)(1)(i)) and MS Co-op Program (§ 660.150(j)(1)(i)(B)). Requirements are also described for first receivers receiving landings from EM trips.
 
 (b) *Vessel owner responsibilities.* To use EM under this section, vessel owners must:
@@ -226,9 +224,7 @@ Link to an amendment published at 89 FR 101544, Dec. 16, 2024.
 
 (4) *Optimized retention bottom trawl and non-whiting midwater trawl trips.* On a declared optimized retention trip using bottom trawl gear, or midwater trawl gear in which Pacific whiting constitutes less than 50 percent of the catch by weight at landing, the vessel owner and operator are responsible for the following:
 
-(i) The vessel must retain IFQ species (as defined at § 660.140(c)), except for Arrowtooth flounder, English sole, Dover sole, deep sea sole, Pacific sanddab, Pacific whiting, lingcod and starry flounder; must retain salmon and eulachon; and must retain the following non-IFQ species: greenland turbot; slender sole; hybrid sole; c-o sole; bigmouth sole; fantail sole; hornyhead turbot; spotted turbot; California halibut; northern rockfish; black rockfish; blue rockfish; shortbelly rockfish; olive rockfish; Puget Sound rockfish; semaphore rockfish; walleye pollock; slender codling; Pacific tom cod; with exceptions listed in paragraphs (p)(4)(i)(A) and (B) of this section.
-
-(A) Mutilated and depredated fish may be discarded.
+(i) The vessel must retain IFQ species (as defined at § 660.140(c)), except for Arrowtooth flounder, English sole, Dover sole, deep sea sole, Pacific sanddab, Pacific whiting, lingcod, sablefish, starry flounder, and rex sole; must retain salmon and eulachon; and must retain the following non-IFQ species: Greenland turbot, slender sole, hybrid sole, c-o sole, bigmouth sole, fantail sole, hornyhead turbot, spotted turbot, northern rockfish, black rockfish, blue rockfish, shortbelly rockfish, olive rockfish, Puget Sound rockfish, semaphore rockfish, walleye pollock, slender codling, and Pacific tom cod, with exceptions listed in paragraphs (p)(4)(i)(A) and (B) of this section.
 
 (B) A discard that is the result of an event that is beyond the control of the vessel operator or crew, such as a safety issue or mechanical failure, is permitted.
 
@@ -274,4 +270,4 @@ Link to an amendment published at 89 FR 101544, Dec. 16, 2024.
 
 (ii) *Seabirds, marine mammals, and sea turtles.* Albatross must reported to the U.S. Fish and Wildlife Service (541-867-4558 extension 237 or 503-231-6179 as soon as possible and directions for surrendering must be followed. Marine mammals and sea turtles must be reported to NMFS as soon as possible (206-526-6550) and directions for surrendering or disposal must be followed. Whole body specimens must be labeled with the vessel name, electronic fish ticket number, and date of landing. Whole body specimens must be kept frozen or on ice until arrangements for surrendering or disposing are completed. Unless directed otherwise, after reporting is completed, seabirds, marine mammals, and sea turtles may be disposed by incinerating, rendering, composting, or returning the carcasses to sea.
 
-[84 FR 31160, June 28, 2019; 84 FR 36035, July 26, 2019, as amended at 84 FR 67680, Dec. 11, 2019; 85 FR 74614, Nov. 23, 2020; 86 FR 55527, Oct. 6, 2021; 87 FR 59714, Oct. 3, 2022; 87 FR 77007, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023]
+[84 FR 31160, June 28, 2019; 84 FR 36035, July 26, 2019, as amended at 84 FR 67680, Dec. 11, 2019; 85 FR 74614, Nov. 23, 2020; 86 FR 55527, Oct. 6, 2021; 87 FR 59714, Oct. 3, 2022; 87 FR 77007, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023; 89 FR 101544, Dec. 16, 2024]

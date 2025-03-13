@@ -12,7 +12,7 @@
 
 (2) The professional status of each person for whom a fee is claimed who performed services on behalf of the claimant (if such professional status is other than attorney, a definition of the professional status of such individual must be included in the fee petition, including a statment of that individual's professional training, education and experience) and a statement that the attorney was a member in good standing of a state bar at the time the services were performed;
 
-(3) The number of hours, in 1/4 hour increments, devoted by each person who performed services on behalf of the claimant and the dates on which such services were performed in each category of work;
+(3) The number of hours, in1/4 hour increments, devoted by each person who performed services on behalf of the claimant and the dates on which such services were performed in each category of work;
 
 (4) The normal billing rate for each person who performed services on behalf of the claimant. The rate awarded by the Board shall be based on what is reasonable and customary in the area where the services were rendered for a person of that particular professional status.
 

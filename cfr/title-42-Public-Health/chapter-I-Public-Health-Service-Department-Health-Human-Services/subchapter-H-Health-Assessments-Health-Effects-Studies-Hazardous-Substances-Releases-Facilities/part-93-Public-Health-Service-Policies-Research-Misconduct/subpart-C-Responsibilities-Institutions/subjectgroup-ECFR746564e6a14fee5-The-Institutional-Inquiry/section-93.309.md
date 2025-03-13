@@ -1,25 +1,37 @@
 ##### § 93.309 Reporting to ORI on the decision to initiate an investigation. #####
 
-(a) Within 30 days of finding that an investigation is warranted, the institution must provide ORI with the written finding by the responsible institutional official and a copy of the inquiry report which includes the following information—
+(a) Within 30 days of determining that an investigation is warranted, the institution must provide ORI with a copy of the inquiry report, which includes the following information:
 
-(1) The name and position of the respondent;
+(1) The names, professional aliases, and positions of the respondent and complainant;
 
-(2) A description of the allegations of research misconduct;
+(2) A description of the allegation(s) of research misconduct;
 
 (3) The PHS support, including, for example, grant numbers, grant applications, contracts, and publications listing PHS support;
 
-(4) The basis for recommending that the alleged actions warrant an investigation; and
+(4) The composition of the inquiry committee, if used, including name(s), position(s), and subject matter expertise;
 
-(5) Any comments on the report by the respondent or the complainant.
+(5) Inventory of sequestered research records and other evidence and description of how sequestration was conducted;
 
-(b) The institution must provide the following information to ORI on request—
+(6) Transcripts of any transcribed interviews;
 
-(1) The institutional policies and procedures under which the inquiry was conducted;
+(7) Timeline and procedural history;
 
-(2) The research records and evidence reviewed, transcripts or recordings of any interviews, and copies of all relevant documents; and
+(8) Any scientific or forensic analyses conducted;
 
-(3) The charges for the investigation to consider.
+(9) The basis for recommending that the allegation(s) warrant an investigation;
 
-(c) *Documentation of decision not to investigate.* Institutions must keep sufficiently detailed documentation of inquiries to permit a later assessment by ORI of the reasons why the institution decided not to conduct an investigation. Consistent with § 93.317, institutions must keep these records in a secure manner for at least 7 years after the termination of the inquiry, and upon request, provide them to ORI or other authorized HHS personnel.
+(10) The basis on which any allegation(s) do not merit an investigation;
 
-(d) *Notification of special circumstances.* In accordance with § 93.318, institutions must notify ORI and other PHS agencies, as relevant, of any special circumstances that may exist.
+(11) Any comments on the inquiry report by the respondent or the complainant; and
+
+(12) Any institutional actions implemented, including communications with journals or funding agencies.
+
+(b) The institution must provide the following information to ORI whenever requested:
+
+(1) The institutional policies and procedures under which the inquiry was conducted; and
+
+(2) The research records and other evidence reviewed, and copies of all relevant documents.
+
+(c) Institutions must keep detailed documentation of inquiries to permit a later assessment by ORI of the reasons why the institution decided not to investigate. Such documentation must be retained in accordance with § 93.318.
+
+(d) In accordance with § 93.305(g), institutions must notify ORI of any special circumstances that may exist.

@@ -1,7 +1,5 @@
 ##### § 425.316 Monitoring of ACOs. #####
 
-Link to an amendment published at 89 FR 98567, Dec. 9, 2024.
-
 (a) *General rule.* (1) In order to ensure that the ACO continues to satisfy the eligibility and program requirements under this part, CMS monitors and assesses the performance of ACOs, their ACO participants, and ACO providers/suppliers.
 
 (2) CMS employs a range of methods to monitor and assess the performance of ACOs, ACO participants, and ACO providers/suppliers, including but not limited to any of the following, as appropriate:
@@ -62,4 +60,14 @@ Link to an amendment published at 89 FR 98567, Dec. 9, 2024.
 
 (3) If an ACO remains an ACO experienced with performance-based risk Medicare ACO initiatives or a high revenue ACO after a deadline specified by CMS pursuant to compliance action under this section, the ACO must repay all advance investment payments it received. CMS will provide written notification to the ACO of the amount due and the ACO must pay such amount no later than 90 days after the receipt of such notification.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 68069, Dec. 31, 2018; 85 FR 85039, Dec. 28, 2020; 87 FR 70233, Nov. 18, 2022; 88 FR 79544, Nov. 16, 2023]
+(f) *Monitoring ACO eligibility for and use of prepaid shared savings.* (1) CMS monitors an ACO that receives prepaid shared savings pursuant to § 425.640 to ensure ACO compliance with § 425.640(e) and to determine whether it would be appropriate to withhold or terminate an ACO's prepaid shared savings under § 425.640(h).
+
+(2) If CMS determines that an ACO receiving prepaid shared savings is using the funds for a prohibited use under § 425.640(e)(2), fails to spend the funding in accordance with § 425.640(e)(1)(i) and (ii), or spends more than 50 percent of the estimated annual payment amount on staffing and healthcare infrastructure CMS:
+
+(i) Will require the ACO to reallocate the funding as permitted by § 425.640(e) and submit an updated spend plan demonstrating the reallocation by a deadline specified by CMS.
+
+(ii) May take compliance action as specified in §§ 425.216, 425.218, and 425.640(h)(1).
+
+(3) If an ACO fails to reallocate prepaid shared savings it received as described in paragraph (f)(2)(i) of this section by a deadline specified by CMS, the ACO must repay all prepaid shared savings it received and may be subject to compliance action as specified in §§ 425.216 and 425.218. CMS will provide written notification to the ACO of the amount due and the ACO must pay such amount no later than 90 days after the receipt of such notification.
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 68069, Dec. 31, 2018; 85 FR 85039, Dec. 28, 2020; 87 FR 70233, Nov. 18, 2022; 88 FR 79544, Nov. 16, 2023; 89 FR 98567, Dec. 9, 2024]

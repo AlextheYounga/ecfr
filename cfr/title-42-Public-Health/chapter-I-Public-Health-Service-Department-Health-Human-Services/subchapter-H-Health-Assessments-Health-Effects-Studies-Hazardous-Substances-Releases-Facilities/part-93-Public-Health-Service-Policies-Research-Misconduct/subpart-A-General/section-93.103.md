@@ -1,11 +1,9 @@
-##### § 93.103 Research misconduct. #####
+##### § 93.103 Requirements for findings of research misconduct. #####
 
-*Research misconduct* means fabrication, falsification, or plagiarism in proposing, performing, or reviewing research, or in reporting research results.
+A finding of research misconduct made under this part requires that:
 
-(a) Fabrication is making up data or results and recording or reporting them.
+(a) There be a significant departure from accepted practices of the relevant research community; and
 
-(b) Falsification is manipulating research materials, equipment, or processes, or changing or omitting data or results such that the research is not accurately represented in the research record.
+(b) The misconduct be committed intentionally, knowingly, or recklessly; and
 
-(c) Plagiarism is the appropriation of another person's ideas, processes, results, or words without giving appropriate credit.
-
-(d) Research misconduct does not include honest error or differences of opinion.
+(c) The allegation be proven by a preponderance of the evidence.

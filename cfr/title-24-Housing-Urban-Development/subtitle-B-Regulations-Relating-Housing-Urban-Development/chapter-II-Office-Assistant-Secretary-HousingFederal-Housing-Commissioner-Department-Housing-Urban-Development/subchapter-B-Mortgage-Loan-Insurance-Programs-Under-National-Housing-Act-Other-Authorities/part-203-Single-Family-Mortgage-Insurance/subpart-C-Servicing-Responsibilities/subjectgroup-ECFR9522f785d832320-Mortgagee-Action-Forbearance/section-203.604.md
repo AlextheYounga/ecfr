@@ -1,33 +1,47 @@
 ##### § 203.604 Contact with the mortgagor. #####
 
-Link to an amendment published at 89 FR 63098, Aug. 2, 2024.
+(a) For mortgages insured pursuant to this part, except those mortgages insured on Indian Land pursuant to section 248 of the National Housing Act:
 
-(a) [Reserved]
+(1) The mortgagee must conduct a meeting with the mortgagor, or make a reasonable effort to arrange such a meeting, before three full monthly installments due on the mortgage are unpaid and at least 30 days before foreclosure is commenced, or at least 30 days before assignment is requested if the mortgage is insured on Hawaiian homelands pursuant to section 247 of the National Housing Act. The meeting with the mortgagor must be conducted in a manner as determined by the Secretary.
 
-(b) The mortgagee must have a face-to-face interview with the mortgagor, or make a reasonable effort to arrange such a meeting, before three full monthly installments due on the mortgage are unpaid. If default occurs in a repayment plan arranged other than during a personal interview, the mortgagee must have a face-to-face meeting with the mortgagor, or make a reasonable attempt to arrange such a meeting within 30 days after such default and at least 30 days before foreclosure is commenced, or at least 30 days before assignment is requested if the mortgage is insured on Hawaiian home land pursuant to section 247 or Indian land pursuant to section 248 or if assignment is requested under § 203.350(d) for mortgages authorized by section 203(q) of the National Housing Act.
+(i) If default occurs on a repayment plan, the mortgagee must conduct a meeting with the mortgagor, or make a reasonable effort to arrange such a meeting, no later than 30 days after such default.
 
-(c) A face-to-face meeting is not required if:
+(ii) [Reserved]
 
-(1) The mortgagor does not reside in the mortgaged property,
+(2) A meeting with the mortgagor is not required if:
 
-(2) The mortgaged property is not within 200 miles of the mortgagee, its servicer, or a branch office of either,
+(i) The mortgagor has clearly indicated that they will not cooperate in the meeting;
 
-(3) The mortgagor has clearly indicated that he will not cooperate in the interview,
+(ii) The mortgagor is on a repayment plan to bring the mortgage current, and the mortgagor is meeting the terms of the repayment plan; or
 
-(4) A repayment plan consistent with the mortgagor's circumstances is entered into to bring the mortgagor's account current thus making a meeting unnecessary, and payments thereunder are current, or
+(iii) A reasonable effort to arrange a meeting with the mortgagor is unsuccessful.
 
-(5) A reasonable effort to arrange a meeting is unsuccessful.
+(3) A reasonable effort to arrange a meeting with the mortgagor shall consist of, at a minimum, two verifiable attempts to contact the mortgagor utilizing methods determined by the Secretary.
 
-(d) A reasonable effort to arrange a face-to-face meeting with the mortgagor shall consist at a minimum of one letter sent to the mortgagor certified by the Postal Service as having been dispatched. Such a reasonable effort to arrange a face-to-face meeting shall also include at least one trip to see the mortgagor at the mortgaged property, unless the mortgaged property is more than 200 miles from the mortgagee, its servicer, or a branch office of either, or it is known that the mortgagor is not residing in the mortgaged property.
+(b) For mortgages insured on Indian Land pursuant to section 248 of the National Housing Act:
 
-(e)(1) For mortgages insured pursuant to section 248 of the National Housing Act, the provisions of paragraphs (b), (c) and (d) of this section are applicable, except that a face-to-face meeting with the mortgagor is required, and a reasonable effort to arrange such a meeting shall include at least one trip to see the mortgagor at the mortgaged property, notwithstanding that such property is more than 200 miles from the mortgagee, its servicer, or a branch office of either. In addition, the mortgagee must document that it has made at least one telephone call to the mortgagor for the purpose of trying to arrange a face-to-face interview. The mortgagee may appoint an agent to perform its responsibilities under this paragraph.
+(1) The mortgagee must conduct a face-to-face meeting with the mortgagor, or make a reasonable effort to arrange such a meeting, before three full monthly installments due on the mortgage are unpaid and at least 30 days before assignment is requested.
 
-(2) The mortgagee must also:
+(i) If default occurs on a repayment plan arranged other than during a face-to-face meeting, the mortgagee must have a face-to-face meeting with the mortgagor, or make a reasonable effort to arrange such a meeting, within 30 days after default or at least 30 days before assignment is requested.
 
-(i) Inform the mortgagor that HUD will make information regarding the status and payment history of the mortgagor's loan available to local credit bureaus and prospective creditors;
+(ii) [Reserved]
 
-(ii) Inform the mortgagor of other available assistance, if any;
+(2) A face-to-face meeting is not required if:
+
+(i) The mortgagor has clearly indicated that they will not cooperate in the meeting;
+
+(ii) The mortgagor is on a repayment plan to bring the mortgage current, and the mortgagor is meeting the terms of the repayment plan; or
+
+(iii) A reasonable effort to arrange a meeting with the mortgagor is unsuccessful.
+
+(3) A reasonable effort to arrange a face-to-face meeting with the mortgagor shall include at a minimum, one letter sent to the mortgagor certified by the Postal Service as having been dispatched and at least one trip to see the mortgagor at the mortgaged property. In addition, the mortgagee must document that it has made at least one telephone call to the mortgagor for the purpose of trying to arrange a face-to-face meeting. The mortgagee may appoint an agent to perform its responsibilities under paragraph (b) of this section.
+
+(4) The mortgagee must also:
+
+(i) Inform the mortgagor that HUD will make information regarding the status and payment history of the mortgagor's loan available to credit bureaus and prospective creditors;
+
+(ii) Inform the mortgagor of other available assistance, if any; and
 
 (iii) Inform the mortgagor of the names and addresses of HUD officials to whom further communications may be addressed.
 
-(Approved by the Office of Management and Budget under control number 2502-0340)[41 FR 49736, Nov. 10, 1976, as amended at 51 FR 21873, June 16, 1986; 52 FR 48202, Dec. 21, 1987; 53 FR 9869, Mar. 28, 1988; 61 FR 35019, July 3, 1996; 61 FR 36266, July 9, 1996]
+[89 FR 63098, Aug. 2, 2024]

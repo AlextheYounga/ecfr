@@ -1,7 +1,5 @@
 ##### § 484.105 Condition of participation: Organization and administration of services. #####
 
-Link to an amendment published at 89 FR 88485, Nov. 7, 2024.
-
 The HHA must organize, manage, and administer its resources to attain and maintain the highest practicable functional capacity, including providing optimal care to achieve the goals and outcomes identified in the patient's plan of care, for each patient's medical, nursing, and rehabilitative needs. The HHA must assure that administrative and supervisory functions are not delegated to another agency or organization, and all services not furnished directly are monitored and controlled. The HHA must set forth, in writing, its organizational structure, including lines of authority, and services furnished.
 
 (a) *Standard: Governing body.* A governing body (or designated persons so functioning) must assume full legal authority and responsibility for the agency's overall management and operation, the provision of all home health services, fiscal operations, review of the agency's budget and its operational plans, and its quality assessment and performance improvement program.
@@ -73,3 +71,21 @@ The HHA must organize, manage, and administer its resources to attain and mainta
 (3) *Preparation of plan and budget.* The overall plan and budget is prepared under the direction of the governing body of the HHA by a committee consisting of representatives of the governing body, the administrative staff, and the medical staff (if any) of the HHA.
 
 (4) *Annual review of plan and budget.* The overall plan and budget is reviewed and updated at least annually by the committee referred to in paragraph (i)(3) of this section under the direction of the governing body of the HHA.
+
+(i) *HHA acceptance-to-service.* An HHA must do both of the following:
+
+(1) Develop, implement, and maintain through an annual review, a patient acceptance-to-service policy that is applied consistently to each prospective patient referred for home health care, which addresses criteria related to the HHA's capacity to provide patient care, including, but not limited to, all of the following:
+
+(i) Anticipated needs of the referred prospective patient.
+
+(ii) Case load and case mix of the HHA.
+
+(iii) Staffing levels of the HHA.
+
+(iv) Skills and competencies of the HHA staff.
+
+(2)(i) Make available to the public accurate information regarding the services offered by the HHA and any limitations related to types of specialty services, service duration, or service frequency.
+
+(ii) Review the information specified in paragraph (i)(2)(i) of this section as frequently as the services are changed, but no less often than annually.
+
+[82 FR 4578, Jan. 13, 2017, as amended at 89 FR 88485, Nov. 7, 2024]

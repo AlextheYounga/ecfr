@@ -1,5 +1,7 @@
 ##### § 304.40 Repayment of Federal funds by installments. #####
 
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+
 (a) *Basic conditions.* When a State has been reimbursed Federal funds for expenditures claimed under title IV-D, which is later determined to be unallowable for Federal financial participation, the State may make repayment of such Federal funds in installments provided:
 
 (1) The amount of the repayment exceeds 21/2 percent of the estimated annual State share of expenditures for the IV-D program as set forth in paragraph (b) of this section; and

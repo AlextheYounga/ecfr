@@ -1,31 +1,45 @@
-##### § 93.313 Institutional investigation report. #####
+##### § 93.313 Investigation report. #####
 
-The final institutional investigation report must be in writing and include:
+A final investigation report for each respondent must be in writing and include:
 
-(a) *Allegations.* Describe the nature of the allegations of research misconduct.
+(a) Description of the nature of the allegation(s) of research misconduct, including any additional allegation(s) addressed during the research misconduct proceeding.
 
-(b) *PHS support.* Describe and document the PHS support, including, for example, any grant numbers, grant applications, contracts, and publications listing PHS support.
+(b) Description and documentation of the PHS support, including, for example, any grant numbers, grant applications, contracts, and publications listing PHS support.
 
-(c) *Institutional charge.* Describe the specific allegations of research misconduct for consideration in the investigation.
+(c) Description of the specific allegation(s) of research misconduct for consideration in the investigation of the respondent.
 
-(d) *Policies and procedures.* If not already provided to ORI with the inquiry report, include the institutional policies and procedures under which the investigation was conducted.
+(d) Composition of investigation committee, including name(s), position(s), and subject matter expertise.
 
-(e) *Research records and evidence.* Identify and summarize the research records and evidence reviewed, and identify any evidence taken into custody but not reviewed.
+(e) Inventory of sequestered research records and other evidence, except records the institution did not consider or rely on; and a description of how any sequestration was conducted during the investigation. This inventory must include manuscripts and funding proposals that were considered or relied on during the investigation.
 
-(f) *Statement of findings.* For each separate allegation of research misconduct identified during the investigation, provide a finding as to whether research misconduct did or did not occur, and if so—
+(f) Transcripts of all interviews conducted, as described in § 93.310(g).
 
-(1) Identify whether the research misconduct was falsification, fabrication, or plagiarism, and if it was intentional, knowing, or in reckless disregard;
+(g) Identification of the specific published papers, manuscripts submitted but not accepted for publication (including online publication), PHS funding applications, progress reports, presentations, posters, or other research records that allegedly contained the falsified, fabricated, or plagiarized material.
 
-(2) Summarize the facts and the analysis which support the conclusion and consider the merits of any reasonable explanation by the respondent;
+(h) Any scientific or forensic analyses conducted.
 
-(3) Identify the specific PHS support;
+(i) If not already provided to ORI, the institutional policies and procedures under which the investigation was conducted.
 
-(4) Identify whether any publications need correction or retraction;
+(j) Any comments made by the respondent and complainant on the draft investigation report and the investigation committee's consideration of those comments.
 
-(5) Identify the person(s) responsible for the misconduct; and
+(k) A statement for each separate allegation of whether the investigation committee recommends a finding of research misconduct.
 
-(6) List any current support or known applications or proposals for support that the respondent has pending with non-PHS Federal agencies.
+(1) If the investigation committee recommends a finding of research misconduct for an allegation, the investigation report must, for that allegation:
 
-(g) *Comments.* Include and consider any comments made by the respondent and complainant on the draft investigation report.
+(i) Identify the individual(s) who committed the research misconduct.
 
-(h) *Maintain and provide records.* Maintain and provide to ORI upon request all relevant research records and records of the institution's research misconduct proceeding, including results of all interviews and the transcripts or recordings of such interviews.
+(ii) Indicate whether the research misconduct was falsification, fabrication, and/or plagiarism.
+
+(iii) Indicate whether the research misconduct was committed intentionally, knowingly, or recklessly.
+
+(iv) State whether the other requirements for a finding of research misconduct, as described in § 93.103, have been met.
+
+(v) Summarize the facts and the analysis which support the conclusion and consider the merits of any explanation by the respondent.
+
+(vi) Identify the specific PHS support.
+
+(vii) Identify whether any publications need correction or retraction.
+
+(2) If the investigation committee does not recommend a finding of research misconduct for an allegation, the investigation report must provide a detailed rationale.
+
+(3) List of any current support or known applications or proposals for support that the respondent has pending with PHS and non-PHS Federal agencies.

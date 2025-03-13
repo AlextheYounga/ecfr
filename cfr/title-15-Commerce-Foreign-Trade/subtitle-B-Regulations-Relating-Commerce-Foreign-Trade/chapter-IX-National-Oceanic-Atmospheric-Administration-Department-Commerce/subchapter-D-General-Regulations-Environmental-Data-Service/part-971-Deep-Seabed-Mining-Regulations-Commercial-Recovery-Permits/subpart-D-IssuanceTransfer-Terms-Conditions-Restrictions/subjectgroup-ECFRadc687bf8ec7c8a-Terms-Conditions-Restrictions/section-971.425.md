@@ -1,0 +1,3 @@
+##### § 971.425 Changes of circumstances. #####
+
+Each permit must require the permittee to advise the Administrator of any changes of circumstances which might constitute a revision which would be a major change under § 971.412(c). Changes in ownership, financing, and use conflicts are examples, as are technology or methodology changes including those which might result in significant adverse environmental effects.

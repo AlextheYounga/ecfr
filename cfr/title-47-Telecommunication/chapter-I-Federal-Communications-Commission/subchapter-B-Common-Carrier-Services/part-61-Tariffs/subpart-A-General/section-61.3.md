@@ -132,7 +132,7 @@ Average Price Cap CMT Revenue per Line Month in a study area = Price Cap CMT Rev
 
 (aaa) *Zone Average Revenue per Line.* The amount calculated as follows:
 
-Zone Average Revenue per Line = (25% \* (Loop + Port)) + U (Uniform revenue per line adjustment)Where:Loop = the price for unbundled loops in a UNE zone. Port = the price for switch ports in that UNE zone. U = [(Average Price Cap CMT Revenue per Line month in a study area \* price cap local exchange carrier Base Period Lines) − (25% \* Σ (price cap local exchange carrier Base Period Lines in a UNE Zone \* ((Loop + Port ) for all zones)))] ÷ price cap local exchange carrier Base Period Lines in a study area.
+Zone Average Revenue per Line = (25% \* (Loop + Port)) + U (Uniform revenue per line adjustment)Where:Loop = the price for unbundled loops in a UNE zone.Port = the price for switch ports in that UNE zone.U = [(Average Price Cap CMT Revenue per Line month in a study area \* price cap local exchange carrier Base Period Lines) − (25% \* Σ (price cap local exchange carrier Base Period Lines in a UNE Zone \* ((Loop + Port ) for all zones)))] ÷ price cap local exchange carrier Base Period Lines in a study area.
 
 (bbb) *Access Stimulation.* (1) A Competitive Local Exchange Carrier serving end user(s) or an IPES Provider serving end user(s) engages in Access Stimulation when it satisfies either paragraph (bbb)(1)(i) or (ii) of this section; and a rate-of-return local exchange carrier serving end user(s) engages in Access Stimulation when it satisfies either paragraph (bbb)(1)(i) or (iii) of this section.
 

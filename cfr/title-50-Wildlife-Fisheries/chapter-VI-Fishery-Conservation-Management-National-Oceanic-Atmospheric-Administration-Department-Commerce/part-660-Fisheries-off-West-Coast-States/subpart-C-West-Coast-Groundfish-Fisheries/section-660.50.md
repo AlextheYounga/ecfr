@@ -1,7 +1,5 @@
 ##### § 660.50 Pacific Coast treaty Indian fisheries. #####
 
-Link to an amendment published at 89 FR 101525, Dec. 16, 2024.
-
 (a) *Pacific Coast treaty Indian tribes have treaty rights.* Pacific Coast treaty Indian tribes have treaty rights to harvest groundfish in their usual and accustomed fishing areas in U.S. waters. In 1994, the United States formally recognized that the four Washington coastal treaty Indian tribes (Makah, Quileute, Hoh, and Quinault) have treaty rights to fish for groundfish in the Pacific Ocean, and concluded that, in general terms, the quantification of those rights is 50 percent of the harvestable surplus of groundfish that pass through the tribes U&A fishing areas.
 
 (b) *Pacific Coast treaty Indian tribes.* For the purposes of this part, Pacific Coast treaty Indian tribes means the Hoh Indian Tribe, Makah Indian Tribe, Quileute Indian Tribe and the Quinault Indian Nation.
@@ -24,50 +22,76 @@ Link to an amendment published at 89 FR 101525, Dec. 16, 2024.
 
 (4) *Fishing outside the U&A fishing area or without a groundfish allocation.* Fishing by a member of a Pacific Coast treaty Indian tribe outside the applicable Indian tribe's U&A fishing area, or for a species of groundfish not covered by an allocation, set-aside, or regulation under this section, is subject to the regulations in the other sections of subpart C through subpart G of this part. Treaty fisheries operating within tribal allocations are prohibited from operating outside the U&A fishing areas described at § 660.4, subpart A.
 
-(f) *Pacific Coast treaty Indian fisheries allocations, harvest guidelines, and set-asides.* Catch amounts may be specified in this section and in Tables 1a and 2a to subpart C of this part. Trip limits for certain species were recommended by the tribes and the Council and are specified in paragraph (g) of this section.
+(f) *Pacific Coast treaty Indian fisheries allocations, harvest guidelines, and set-asides.* Trip limits for certain species were recommended by the Tribes and the Council and are specified in paragraph (g) of this section.
 
-(1) *Black rockfish.* (i) Harvest guidelines for commercial harvests of black rockfish by members of the Pacific Coast Indian tribes using hook and line gear will be established biennially for two subsequent one-year periods for the areas between the U.S.-Canadian border and Cape Alava (48°09.50′ N. lat.) and between Destruction Island (47°40′ N. lat.) and Leadbetter Point (46°38.17′ N. lat.), in accordance with the procedures for implementing harvest specifications and management measures. Pacific Coast treaty Indians fishing for black rockfish in these areas under these harvest guidelines are subject to the provisions in this section, and not to the restrictions in other sections of subparts C through G of this part.
+(1) *Arrowtooth flounder.* The Tribal harvest guideline is 2,041 mt per year.
 
-(ii) For the commercial harvest of black rockfish off Washington State, a treaty Indian tribes' harvest guideline is set at 30,000 lb (13,608 kg) for the area north of Cape Alava, WA (48°09.50′ N. lat) and 10,000 lb (4,536 kg) for the area between Destruction Island, WA (47°40′ N. lat.) and Leadbetter Point, WA (46°38.17′ N. lat.). This harvest guideline applies and is available to the Pacific Coast treaty Indian tribes. There are no tribal harvest restrictions for black rockfish in the area between Cape Alava and Destruction Island.
+(2) *Big skate.* The Tribal harvest guideline is 15 mt per year.
 
-(2) *Sablefish.* (i) The sablefish allocation to Pacific coast treaty Indian Tribes is 10 percent of the sablefish ACL for the area north of 36° N. lat. This allocation represents the total amount available to the treaty Indian fisheries before deductions for discard mortality.
+(3) *Black rockfish off Washington.* (i) Harvest guidelines for commercial harvests of black rockfish by members of the Pacific Coast Indian Tribes using hook-and-line gear will be established biennially for two subsequent 1-year periods for the areas between the U.S.-Canadian border and Cape Alava (48°09.50′ N lat.) and between Destruction Island (47°40′ N lat.) and Leadbetter Point (46°38.17′ N lat.), in accordance with the procedures for implementing harvest specifications and management measures. Pacific Coast treaty Indians fishing for black rockfish in these areas under these harvest guidelines are subject to the provisions in this section, and not to the restrictions in subparts C through G of this part.
 
-(ii) The Tribal allocation is 849 mt in 2023 and 773 mt in 2024 per year. This allocation is, for each year, 10 percent of the Monterey through Vancouver area (North of 36° N lat.) ACL. The Tribal allocation is reduced by 1.7 percent for estimated discard mortality.
+(ii) For the commercial harvest of black rockfish off Washington State, a treaty Indian Tribes' harvest guideline is set at 30,000 lb (13,608 kg) for the area north of Cape Alava, WA (48°09.50′ N lat.) and 10,000 lb (4,536 kg) for the area between Destruction Island, WA (47°40′ N lat.) and Leadbetter Point, WA (46°38.17′ N lat.). This harvest guideline applies and is available to the Pacific Coast treaty Indian Tribes. There are no Tribal harvest restrictions for black rockfish in the area between Cape Alava and Destruction Island.
 
-(3) *Lingcod.* Lingcod taken in the treaty fisheries are subject to a harvest guideline of 250 mt.
+(4) *Canary rockfish.* The Tribal harvest guideline is 50 mt per year.
 
-(4) *Pacific whiting.* The Tribal allocation for 2024 is 71,755.95 mt.
+(5) *Darkblotched rockfish.* The Tribal harvest guideline is 5 mt per year.
 
-(5) *Pacific cod.* There is a tribal harvest guideline of 500 mt of Pacific cod per year. The tribes will manage their fisheries to stay within this harvest guideline.
+(6) *Dover sole.* The Tribal harvest guideline is 1,497 mt per year.
 
-(6) *Petrale sole.* For petrale sole, treaty fishing vessels are restricted to a fleetwide harvest target of 350 mt each year.
+(7) *English sole.* The Tribal harvest guideline is 200 mt per year.
 
-(7) *Yellowtail rockfish.* Yellowtail rockfish taken in the directed tribal mid-water trawl fisheries are subject to a catch limit of 1,000 mt for the entire fleet, per year.
+(8) *Lingcod.* The Tribal harvest guideline is 250 mt per year.
 
-(8) *Spiny dogfish.* Spiny dogfish taken in the treaty fisheries are subject to an overall expected total spiny dogfish catch of 275 mt per year.
+(9) *Longnose skate.* The Tribal harvest guideline is 220 mt per year.
 
-(9) *Widow rockfish.* Widow rockfish taken in the directed tribal midwater trawl fisheries are subject to a catch limit of 200 mt for the entire fleet, per year.
+(10) *Minor nearshore rockfish.* The Tribal harvest guideline is 1.5 mt per year.
 
-(g) *Pacific Coast treaty Indian fisheries management measures.* Trip limits for certain species were recommended by the tribes and the Council and are specified here.
+(11) *Minor shelf rockfish.* The Tribal harvest guideline is 30 mt per year.
 
-(1) *Rockfish.* The tribes will require full retention of all overfished rockfish species and all other marketable rockfish species during treaty fisheries.
+(12) *Minor slope rockfish.* The Tribal harvest guideline is 36 mt per year.
 
-(2) *Yelloweye rockfish*—are subject to a 100-lb (45-kg) trip limit.
+(13) *Other flatfish.* The Tribal harvest guideline is 60 mt per year.
 
-(3) *Other rockfish*—(i) *Minor nearshore rockfish.* Minor nearshore rockfish are subject to a 300-lb (136-kg) trip limit per species or species group, or to the non-tribal limited entry trip limit for those species if those limits are less restrictive than 300 lb (136 kg) per trip. Limited entry trip limits for waters off Washington are specified in Table 1 (North) to subpart D, and Table 2 (North) to subpart E of this part.
+(14) *Pacific cod.* The Tribal harvest guideline is 500 mt per year.
 
-(ii) *Minor shelf rockfish and minor slope rockfish.* Redstripe rockfish are subject to an 800 lb (363 kg) trip limit. Minor shelf (excluding redstripe rockfish), and minor slope rockfish groups are subject to a 300 lb (136 kg) trip limit per species or species group, or to the non-tribal limited entry fixed gear trip limit for those species if those limits are less restrictive than 300 lb (136 kg) per trip. Limited entry fixed gear trip limits are specified in Table 2 (North) to subpart E of this part.
+(15) *Pacific ocean perch.* The Tribal harvest guideline is 130 mt per year.
 
-(iii) *Other rockfish.* All other rockfish, not listed specifically in paragraph (g) of this section, are subject to a 300 lb (136 kg) trip limit per species or species group, or to the non-tribal limited entry trip limit for those species if those limits are less restrictive than 300 lb (136 kg) per trip. Limited entry trip limits for waters off Washington are specified in Table 1 (North) to subpart D, and Table 2 (North) to subpart E of this part.
+(16) *Pacific spiny dogfish.* The Tribal harvest guideline is 275 mt per year.
 
-(4) *Pacific whiting.* Tribal whiting processed at-sea by non-tribal vessels, must be transferred within the tribal U&A from a member of a Pacific Coast treaty Indian tribe fishing under this section.
+(17) *Pacific whiting.* The Tribal whiting allocation will be announced annually in conjunction with the Total Allowable Catch (TAC) setting process of the Whiting Act.
 
-(5) *Groundfish without a tribal allocation.* Makah tribal members may use midwater trawl gear to take and retain groundfish for which there is no tribal allocation and will be subject to the trip landing and frequency and size limits applicable to the limited entry fishery.
+(18) *Petrale sole.* The harvest guideline is 290 mt per year.
 
-(6) *EFH.* Measures implemented to minimize adverse impacts to groundfish EFH, as described in § 660.12 of this subpart, do not apply to tribal fisheries in their U&A fishing areas described at § 660.4, subpart A.
+(19) *Sablefish.* (i) The sablefish allocation to Pacific coast treaty Indian Tribes is 10 percent of the sablefish ACL for the area north of 36° N lat. This allocation represents the total amount available to the treaty Indian fisheries before deductions for discard mortality.
 
-(7) *Small footrope trawl gear.* Makah tribal members fishing in the bottom trawl fishery may use only small footrope (less than or equal to 8 inches (20.3 cm)) bottom trawl gear.
+(ii) The Tribal allocation is 2,869 mt in 2025 and 2,724 mt in 2026. This allocation is, for each year, 10 percent of the Monterey through Vancouver area (North of 36° N lat.) ACL, including estimated discard mortality.
+
+(20) *Starry flounder.* The Tribal harvest guideline is 2 mt per year.
+
+(21) *Thornyheads.* The Tribal harvest guideline for shortspine thornyhead is 50 mt per year and the Tribal harvest guideline for longspine thornyhead is 30 mt per year.
+
+(22) *Washington cabezon/kelp greenling.* The Tribal harvest guideline is 2 mt per year.
+
+(23) *Widow rockfish.* Widow rockfish taken in the directed Tribal midwater trawl fisheries are subject to a catch limit of 200 mt for the entire fleet, per year.
+
+(24) *Yelloweye rockfish.* The Tribal harvest guideline is 8 mt per year.
+
+(25) *Yellowtail rockfish.* Yellowtail rockfish taken in the directed Tribal mid-water trawl fisheries are subject to a catch limit of 1,000 mt for the entire fleet, per year.
+
+(g) *Pacific coast treaty Indian fisheries management measures.* Trip limits for certain species were recommended by the Tribes and the Council and are specified here.
+
+(1) *Rockfish.* The Tribes will require full retention of all overfished rockfish species and all other marketable rockfish species during treaty fisheries.
+
+(2) *Yelloweye rockfish.* Subject to a 200-lb (90-kg) trip limit.
+
+(3) *Pacific whiting.* Tribal whiting processed at-sea by non-Tribal vessels, must be transferred within the Tribal U&A from a member of a Pacific Coast treaty Indian Tribe fishing under this section.
+
+(4) *Groundfish without a Tribal allocation.* Makah Tribal members may use midwater trawl gear to take and retain groundfish for which there is no Tribal allocation and will be subject to the trip landing and frequency and size limits applicable to the limited entry fishery.
+
+(5) *EFH.* Measures implemented to minimize adverse impacts to groundfish EFH, as described in § 660.12, do not apply to Tribal fisheries in their U&A fishing areas described at § 660.4, subpart A.
+
+(6) *Small footrope trawl gear.* Makah Tribal members fishing in the bottom trawl fishery may use only small footrope (less than or equal to 8 inches (20.3 cm)) bottom trawl gear.
 
 (h) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 82300, Dec. 30, 2010; 76 FR 27529, May 11, 2011; 76 FR 28903, May 19, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 78 FR 26532, May 7, 2013; 79 FR 27204, May 13, 2014; 80 FR 12572, Mar. 10, 2015; 80 FR 27593, May 14, 2015; 81 FR 30208, May 16, 2016; 81 FR 36807, June 8, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 21321, May 8, 2017; 83 FR 22405, May 15, 2018; 83 FR 63991, Dec. 12, 2018; 84 FR 20584, May 10, 2019; 85 FR 36812, June 18, 2020; 85 FR 79893, Dec. 11, 2020; 86 FR 10867, Feb. 23, 2021; 86 FR 32809, June 23, 2021; 87 FR 33441, June 2, 2022; 87 FR 77015, Dec. 16, 2022; 88 FR 34787, May 31, 2023; 88 FR 89315, Dec. 27, 2023; 89 FR 52403, June 24, 2024]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 82300, Dec. 30, 2010; 76 FR 27529, May 11, 2011; 76 FR 28903, May 19, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 78 FR 26532, May 7, 2013; 79 FR 27204, May 13, 2014; 80 FR 12572, Mar. 10, 2015; 80 FR 27593, May 14, 2015; 81 FR 30208, May 16, 2016; 81 FR 36807, June 8, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 21321, May 8, 2017; 83 FR 22405, May 15, 2018; 83 FR 63991, Dec. 12, 2018; 84 FR 20584, May 10, 2019; 85 FR 36812, June 18, 2020; 85 FR 79893, Dec. 11, 2020; 86 FR 10867, Feb. 23, 2021; 86 FR 32809, June 23, 2021; 87 FR 33441, June 2, 2022; 87 FR 77015, Dec. 16, 2022; 88 FR 34787, May 31, 2023; 88 FR 89315, Dec. 27, 2023; 89 FR 52403, June 24, 2024; 89 FR 101525, Dec. 16, 2024]

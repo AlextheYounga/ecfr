@@ -1,3 +1,9 @@
-##### § 660.334 xxx #####
+##### § 660.334 Open access non-groundfish salmon troll fishery—management measures. #####
 
-Link to an amendment published at 89 FR 101539, Dec. 16, 2024.
+(a) *General.* This section includes management measures applicable to vessels that incidentally take and retain groundfish while participating in the West Coast salmon fishery under the regulations at part 660, subpart H (herein referred to as “salmon troll fishery”). All salmon troll vessels that take and retain groundfish species are subject to the open access trip limits, seasons, size limits, and Non-Trawl RCA restrictions listed in tables 3a (North), 3b (North), 3a (South), and 3b (South) to this subpart, unless otherwise stated in this section.
+
+(b) *Trip limits.* (1) In the area north of 40° 10′ N lat., salmon trollers may retain and land up to 500 lb (227 kg) of yellowtail rockfish per month as long as salmon is on board, both within and outside of the Non-Trawl RCA. Salmon trollers may retain and land up to 1 lingcod per 2 Chinook per trip, plus 1 lingcod per trip, up to a trip limit of 10 lingcod, on a trip where any fishing occurs within the Non-Trawl RCA. The lingcod limit only applies during times when lingcod retention is allowed and is not “CLOSED”. These limits are within the limits described in table 3b (North), and not in addition to those limits.
+
+(2) In the area south of 40° 10′ N lat., salmon trollers may retain and land up to 1 lb (0.45 kg) of yellowtail rockfish for every 2 lb (0.90 kg) of Chinook salmon landed, with a cumulative limit of 200 lb (91 kg)/month, both within and outside of the Non-Trawl RCA. This limit is within the trip limits for shelf rockfish, and not in addition to those limits. All groundfish species are subject to the open access limits, seasons, size limits, and RCA restrictions listed in tables 3a (South) and 3b (South) to this subpart, unless otherwise stated here.
+
+[89 FR 101539, Dec. 16, 2024]

@@ -50,24 +50,4 @@
 
 (j) *Caloosahatchee River Bridge (SR 29), Mile 103, Labelle, Florida.* The Caloosahatchee River bridge (SR 29), mile 103, shall open on signal, except that from 7 a.m. to 9 a.m. and from 4 p.m. to 6 p.m., Monday through Friday, except Federal holidays, the bridge need not open. Exempt vessels shall be passed at any time.
 
-(k) Florida East Coast Railroad (FEC) Bridge, mile 7.41, at Stuart. The draw shall operate as follows:
-
-(1) The drawbridge will be maintained in the fully open-to-navigation position, except during periods when it is closed for the passage of train traffic, to conduct inspections, and to perform maintenance and repairs authorized by the Coast Guard.
-
-(2) The drawbridge will not be closed for more than 50 consecutive minutes in any given hour during daytime operations (6 a.m. to 8 p.m.) and for more than 7 total hours during daytime operations (6 a.m. to 8 p.m.).
-
-(3) Notwithstanding paragraph (k)(1), the drawbridge will open and remain open to navigation for a fixed 10-minute period at the top of each hour from 6 a.m. to 8 p.m.
-
-(4) From 8:01 p.m. until 5:59 a.m. daily, the drawbridge will remain in the fully open-to-navigation position, except during periods when it is closed for the passage of train traffic, to conduct inspections, and to perform maintenance and repairs authorized by the Coast Guard. The drawbridge will not be closed more than 60 consecutive minutes.
-
-(5) If a train is in the track circuit at the start of a fixed opening period, the opening may be delayed up to, but not more than, five minutes. Once the train has cleared the circuit, the bridge must open immediately for navigation to begin the fixed opening period.
-
-(6) The drawbridge will be tended from 6 a.m. to 8 p.m., daily. The bridge tender will monitor VHF-FM channels 9 and 16 and will provide estimated times of drawbridge openings and closures, or any operational information requested. Operational information will be provided 24 hours a day by telephone at (772) 403-1005.
-
-(7) The drawbridge owner will maintain a mobile application. The drawbridge owner will publish drawbridge opening times, and the drawbridge owner will provide timely updates to schedules, including but not limited to, impacts due to emergency circumstances, inspections, maintenance, and repairs authorized by the Coast Guard.
-
-(8) Signs will be posted and visible to marine traffic, displaying VHF radio contact information, application information, and the telephone number for the bridge tender.
-
-(9) A copy of the drawbridge logbook for the previous week will be provided to the Seventh Coast Guard District Bridge Manager by 4 p.m. each Monday.
-
-[CGD7 85-50, 51 FR 12319, Apr. 10, 1986]Editorial Note:For Federal Register citations affecting § 117.317, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 89 FR 64369, Aug. 7, 2024, § 117.261 was amended by staying paragraph (c) and adding paragraph (k), effective Aug. 9, 2024 through Dec. 31, 2024. At 89 FR 71184, Sept. 3, 2024, the instruction was corrected to read “Section 117.317, effective Sept. 3, 2024.
+[CGD7 85-50, 51 FR 12319, Apr. 10, 1986]Editorial Note:For Federal Register citations affecting § 117.317, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

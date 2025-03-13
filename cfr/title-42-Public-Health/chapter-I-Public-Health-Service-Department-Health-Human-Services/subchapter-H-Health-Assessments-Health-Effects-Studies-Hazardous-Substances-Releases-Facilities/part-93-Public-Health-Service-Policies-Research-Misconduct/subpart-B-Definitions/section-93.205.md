@@ -1,3 +1,3 @@
-##### § 93.205 Debarment or suspension. #####
+##### § 93.205 Charge letter. #####
 
-*Debarment* or *suspension* means the Government wide exclusion, whether temporary or for a set term, of a person from eligibility for Federal grants, contracts, and cooperative agreements under the HHS regulations at 45 CFR part 76 (nonprocurement) and 48 CFR subparts 9.4 and 309.4 (procurement).
+Charge letter means the written notice, as well as any amendments to the notice, sent to the respondent stating the findings of research misconduct and any proposed HHS administrative actions.

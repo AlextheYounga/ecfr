@@ -1,3 +1,3 @@
-##### § 93.213 Institution. #####
+##### § 93.213 Funding component. #####
 
-*Institution* means any individual or person that applies for or receives PHS support for any activity or program that involves the conduct of biomedical or behavioral research, biomedical or behavioral research training, or activities related to that research or training. This includes, but is not limited to colleges and universities, PHS intramural biomedical or behavioral research laboratories, research and development centers, national user facilities, industrial laboratories or other research institutes, small research institutions, and independent researchers.
+Funding component means any organizational unit of the PHS authorized to award grants, contracts, or cooperative agreements for any activity covered by this part involving research or research training; funding components may be agencies, bureaus, centers, institutes, divisions, offices, or other awarding units within the PHS.

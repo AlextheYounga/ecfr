@@ -1,5 +1,7 @@
 ##### § 416.702 Definitions. #####
 
+Link to an amendment published at 89 FR 107259, Dec. 31, 2024.
+
 For purposes of this subpart—
 
 *Essential person* means someone whose presence was believed to be necessary for your welfare under the State program that preceded the SSI program. (See §§ 416.220 through 416.223 of this part.)

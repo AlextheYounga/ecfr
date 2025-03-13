@@ -1,7 +1,5 @@
 ##### § 425.308 Public reporting and transparency. #####
 
-Link to an amendment published at 89 FR 98566, Dec. 9, 2024.
-
 (a) *ACO public reporting Web page.* Each ACO must create and maintain a dedicated Web page on which it publicly reports the information set forth in paragraph (b) of this section. The ACO must report the address of such Web page to CMS in a form and manner specified by CMS and must notify CMS of changes to the web address in the form and manner specified by CMS.
 
 (b) *Information to be reported.* The ACO must publicly report the following information in a standardized format specified by CMS:
@@ -60,8 +58,16 @@ Link to an amendment published at 89 FR 98566, Dec. 9, 2024.
 
 (ii) The number of ACO participants, ACO providers/suppliers, and ACO professionals that are excluded under § 425.507(b) that voluntarily reported and received a MIPS Promoting Interoperability performance category score for the applicable performance year.
 
+(10) Information updated annually about the ACO's use of prepaid shared savings under § 425.640, for each performance year, including the following:
+
+(i) Total amount of any prepaid shared savings received from CMS.
+
+(ii) The ACO's spend plan.
+
+(iii) An itemization of how prepaid shared savings were spent during the year, including expenditure categories, the dollar amounts spent on the various categories, information about which groups of beneficiaries received direct beneficiary services that were purchased with prepaid shared savings and investments that were made in the ACO with prepaid shared savings, how these direct beneficiary services were provided to beneficiaries and how the direct beneficiary services and investments supported the care of beneficiaries, any changes to the spend plan as submitted under § 425.640(d)(2) (if applicable), and such other information as may be specified by CMS.
+
 (c) *Approval of public reporting information.* Information reported on an ACO's public reporting Web page in compliance with the requirements of the standardized format specified by CMS is not subject to marketing review and approval under § 425.310.
 
 (d) *Public reporting by CMS.* CMS may publicly report ACO-specific information, including but not limited to the ACO public reporting Web page address and the information required to be publicly reported under paragraph (b) of this section.
 
-[80 FR 32840, June 9, 2015, as amended at 83 FR 68068, Dec. 31, 2018; 87 FR 70232, Nov. 18, 2022; 88 FR 79544, Nov. 16, 2023]
+[80 FR 32840, June 9, 2015, as amended at 83 FR 68068, Dec. 31, 2018; 87 FR 70232, Nov. 18, 2022; 88 FR 79544, Nov. 16, 2023; 89 FR 98566, Dec. 9, 2024]

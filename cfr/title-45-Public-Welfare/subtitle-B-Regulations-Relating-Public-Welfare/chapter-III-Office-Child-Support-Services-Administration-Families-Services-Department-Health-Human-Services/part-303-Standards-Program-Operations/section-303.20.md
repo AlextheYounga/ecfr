@@ -1,5 +1,7 @@
 ##### § 303.20 Minimum organizational and staffing requirements. #####
 
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+
 (a) The organizational structure of the IV-D agency (see § 302.12) provides for administration or supervision of all the functions for which it is responsible under the State plan, is appropriate to the size and scope of the program in the State, and contains clearly established lines for administrative and supervisory authority.
 
 (b) There is an organizational structure and sufficient staff to fulfill the following required State level functions:

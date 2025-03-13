@@ -1,7 +1,5 @@
 ##### § 413.236 Transitional add-on payment adjustment for new and innovative equipment and supplies. #####
 
-Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
-
 (a) *Basis and definitions.* (1) Effective January 1, 2020, this section establishes an add-on payment adjustment to support ESRD facilities in the uptake of new and innovative renal dialysis equipment and supplies under the ESRD prospective payment system under the authority of section 1881(b)(14)(D)(iv) of the Social Security Act.
 
 (2) For purposes of this section, the following definitions apply:
@@ -26,13 +24,13 @@ Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
 
 (3) Is commercially available by January 1 of the particular calendar year, meaning the year in which the payment adjustment would take effect;
 
-(4) Has a complete Healthcare Common Procedure Coding System (HCPCS) Level II code application submitted, in accordance with the HCPCS Level II coding procedures on the CMS website, by the HCPCS Level II code application deadline for biannual Coding Cycle 2 for durable medical equipment, orthotics, prosthetics and supplies (DMEPOS) items and services as specified in the HCPCS Level II coding guidance on the CMS website prior to the particular calendar year;
+(4) Has a complete Healthcare Common Procedure Coding System (HCPCS) Level II code application submitted, in accordance with the HCPCS Level II coding procedures on the CMS website, by the HCPCS Level II code application deadline for biannual Coding Cycle 2 for non-drug and non-biological items, supplies, and services as specified in the HCPCS Level II coding guidance on the CMS website prior to the particular calendar year;
 
 (5) Is innovative, meaning it meets the criteria specified in § 412.87(b)(1) of this chapter; and
 
 (6) Is not a capital-related asset, except for capital-related assets that are home dialysis machines.
 
-(c) *Announcement of determinations and deadline for consideration of new renal dialysis equipment or supply applications.* CMS will consider whether a new renal dialysis supply or equipment meets the eligibility criteria specified in paragraph (b) of this section and announce the results in the Federal Register as part of its annual updates and changes to the ESRD prospective payment system. CMS will only consider a complete application received by CMS by February 1 prior to the particular calendar year. FDA marketing authorization for the equipment or supply must occur by the HCPCS Level II code application deadline for biannual Coding Cycle 2 for DMEPOS items and services as specified in the HCPCS Level II coding guidance on the CMS website prior to the particular calendar year.
+(c) Announcement of determinations and deadline for consideration of new renal dialysis equipment or supply applications. CMS will consider whether a new renal dialysis supply or equipment meets the eligibility criteria specified in paragraph (b) of this section and announce the results in the Federal Register as part of its annual updates and changes to the ESRD prospective payment system. CMS will only consider a complete application received by CMS by February 1 prior to the particular calendar year. FDA marketing authorization for the equipment or supply must occur by the HCPCS Level II code application deadline for biannual Coding Cycle 2 for non-drug and non-biological items, supplies, and services as specified in the HCPCS Level II coding guidance on the CMS website prior to the particular calendar year.
 
 (d) *Transitional add-on payment adjustment for new and innovative equipment and supplies.* A new and innovative renal dialysis equipment or supply will be paid for using a transitional add-on payment adjustment for new and innovative equipment and supplies based on 65 percent of the MAC-determined price, as specified in paragraph (e) of this section. For capital-related assets that are home dialysis machines, payment is based on 65 percent of the pre-adjusted per treatment amount, as specified in paragraph (f)(1)(ii) of this section.
 
@@ -86,4 +84,4 @@ Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
 
 (v) Effective January 1, 2022, CMS annually updates the amount determined in paragraph (f)(3)(iv) of this section by the ESRD bundled market basket percentage increase factor minus the productivity adjustment factor.
 
-[84 FR 60805, Nov. 8, 2019, as amended at 85 FR 71486, Nov. 9, 2020; 88 FR 76506, Nov. 6, 2023]
+[84 FR 60805, Nov. 8, 2019, as amended at 85 FR 71486, Nov. 9, 2020; 88 FR 76506, Nov. 6, 2023; 89 FR 89212, Nov. 12, 2024]

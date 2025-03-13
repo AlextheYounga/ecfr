@@ -1,0 +1,5 @@
+##### § 904.272 Petition for reconsideration. #####
+
+Unless an order or Initial Decision of the Judge specifically provides otherwise, any party may file a petition for reconsideration of an order or Initial Decision issued by the Judge. Such petitions must state the matter claimed to have been erroneously decided, and the alleged errors and relief sought must be specified with particularity. Petitions must be filed within 20 days after the service of such order or Initial Decision. The filing of a petition for reconsideration shall operate as a stay of an order or Initial Decision or its effectiveness date unless specifically so ordered by the Judge. Within 15 days after the petition is filed, any party to the administrative proceeding may file an answer in support or in opposition.
+
+[87 FR 38940, June 30, 2022]

@@ -1,7 +1,5 @@
 ##### § 660.25 Permits. #####
 
-Link to an amendment published at 89 FR 101524, Dec. 16, 2024.
-
 (a) *General.* Each of the permits or licenses in this section has different conditions or privileges as part of the permit or license. The permits or licenses in this section confer a conditional privilege of participating in the Pacific coast groundfish fishery, in accordance with Federal regulations in 50 CFR part 660, subparts C through G.
 
 (b) *Limited entry permit*—(1) *Eligibility and registration*—(i) *General.* In order for a vessel to be used to fish in the limited entry fishery, the vessel owner must hold a limited entry permit and, through SFD, must register that vessel for use with a limited entry permit. When participating in the limited entry fishery, a vessel is authorized to fish with the gear type endorsed on the limited entry permit registered for use with that vessel, except that the MS permit does not have a gear endorsement. There are three types of gear endorsements: Trawl, longline, and pot (or trap). All limited entry permits, except the MS permit, have size endorsements; a vessel registered for use with a limited entry permit must comply with the vessel size requirements of this subpart. A sablefish endorsement is also required for a vessel to be used to fish in the primary season for the limited entry fixed gear sablefish fishery, north of 36° N. lat. Certain limited entry permits will also have endorsements required for participation in a specific fishery, such as the MS/CV endorsement and the C/P endorsement.
@@ -56,7 +54,7 @@ Link to an amendment published at 89 FR 101524, Dec. 16, 2024.
 
 (*3*) *Exemption status.* If at any time a change occurs relative to the qualifying criteria described at paragraph (b)(3)(iv)(C)(*1*), the vessel owner to whom the ownership limitation exemption applies must notify NMFS within 30 calendar days. If such changes mean the vessel owner no longer meets the qualifying criteria, the ownership limitation exemption becomes automatically null and void 30 calendar days after the date the vessel owner no longer meets the qualifying criteria. At any time, NMFS may request that the vessel owner submit a new exemption application. If NMFS at any time finds the vessel owner no longer meets the qualifying criteria described at paragraph (b)(3)(iv)(C)(*1*) of this section NMFS will issue an IAD, which may be appealed, as described at paragraph (g) of this section.
 
-(v) *MS/CV endorsement.* An MS/CV endorsement on a trawl limited entry permit conveys a conditional privilege that allows a vessel registered to it to fish in either the co-op or non-coop fishery in the MS Co-op Program described at § 660.150, subpart D. The provisions for the MS/CV-endorsed limited entry permit, including eligibility, renewal, change of permit ownership, vessel registration, combinations, accumulation limits, fees, and appeals are described at § 660.150. Each MS/CV endorsement has an associated catch history assignment (CHA) that is permanently linked as originally issued by NMFS and which cannot be divided or registered separately to another limited entry trawl permit. Regulations detailing this process and MS/CV-endorsed permit combinations are outlined in § 660.150(g)(2), subpart D.
+(v) *MS/CV endorsement.* An MS/CV endorsement on a trawl limited entry permit conveys a conditional privilege that allows a vessel registered to it to fish in either the co-op or non-cooperative fishery in the MS Co-op Program described at § 660.150, subpart D. The provisions for the MS/CV-endorsed limited entry permit, including eligibility, renewal, change of permit ownership, vessel registration, combinations, accumulation limits, fees, and appeals are described at § 660.150. Each MS/CV endorsement has an associated catch history assignment (CHA) that is permanently linked as originally issued by NMFS and which cannot be divided or registered separately to another limited entry trawl permit. Regulations detailing this process and MS/CV-endorsed permit combinations are outlined in § 660.150(g)(2), subpart D.
 
 (vi) *C/P endorsement.* A C/P endorsement on a trawl limited entry permit conveys a conditional privilege that allows a vessel registered to it to fish in the C/P Co-op Program described at § 660.160. The provisions for the C/P-endorsed limited entry permit, including eligibility, renewal, change of permit ownership, vessel registration, combinations, fees, and appeals are described at § 660.160(e).
 
@@ -154,9 +152,9 @@ Link to an amendment published at 89 FR 101524, Dec. 16, 2024.
 
 (d) *First receiver site license.* The first receiver site license conveys a conditional privilege to a first receiver to receive, purchase, or take custody, control or possession of landings from the Shorebased IFQ Program. The first receiver site license is issued for a person and a unique physical site consistent with the terms and conditions required to account for and weigh the landed species. A first receiver site license is not a limited entry permit. The provisions for the First Receiver Site License, including eligibility, registration, change of ownership, fees, and appeals are described at § 660.140(f), subpart D.
 
-(e) *Co-op permit*—(1) *MS co-op permit.* An MS co-op permit conveys a conditional privilege to an eligible co-op entity to receive and manage a coop's allocation of designated species and species groups. An MS co-op permit is not a limited entry permit. The provisions for the MS co-op permit, including eligibility, annual registration, fees, and appeals are described in the MS Co-op Program at § 660.150, subpart D.
+(e) *Co-op permit*—(1) *MS co-op permit.* An MS co-op permit conveys a conditional privilege to an eligible co-op entity to receive and manage a cooperative's allocation of designated species and species groups. An MS co-op permit is not a limited entry permit. The provisions for the MS co-op permit, including eligibility, annual registration, fees, and appeals are described in the MS Co-op Program at § 660.150, subpart D.
 
-(2) *C/P co-op permit.* A C/P co-op permit conveys a conditional privilege to an eligible co-op entity to receive and manage a coop's allocation of designated species and species groups. A C/P co-op permit is not a limited entry permit. The provisions for the C/P co-op permit, including eligibility, annual registration, fees, and appeals are described in the C/P Co-op Program at § 660.160, subpart D.
+(2) *C/P co-op permit.* A C/P co-op permit conveys a conditional privilege to an eligible co-op entity to receive and manage a cooperative's allocation of designated species and species groups. A C/P co-op permit is not a limited entry permit. The provisions for the C/P co-op permit, including eligibility, annual registration, fees, and appeals are described in the C/P Co-op Program at § 660.160, subpart D.
 
 (f) *Permit fees.* The Regional Administrator is authorized to charge fees to cover administrative expenses related to issuance of permits including initial issuance, renewal, permit registration, vessel registration, replacement, and appeals. The appropriate fee must accompany each application.
 
@@ -204,4 +202,56 @@ Link to an amendment published at 89 FR 101524, Dec. 16, 2024.
 
 (v) Shall be considered a grant of permission to the holder of the permit, license, or account to engage in activities permitted by such permit, license, or account.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78381, Dec. 15, 2010; 76 FR 53835, Aug. 30, 2011; 76 FR 74734, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 81 FR 84426, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 85 FR 37029, June 19, 2020; 85 FR 68003, Oct. 27, 2020; 86 FR 26442, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 86 FR 59875, Oct. 29, 2021; 86 FR 70422, Dec. 10, 2021; 87 FR 77014, Dec. 16, 2022; 87 FR 77005, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023]
+(i) *Directed open access permit*—(1) *Permit information.* This section applies to vessels that take and retain, possess, or land groundfish in the West Coast groundfish directed open access fishery, as defined in § 660.11 under “Open Access Fishery”. Starting on March 1, 2025, no person shall take and retain, possess, or land groundfish as part of the directed open access fishery, unless SFD has issued them a permit valid for the groundfish directed open access fishery.
+
+(i) *Validity.* The following section applies to vessel for permits under this paragraph (i):
+
+(A) A permit issued under this paragraph (i) is valid only for the vessel for which it is registered.
+
+(B) A permit issued under this paragraph (i) not registered for use with a particular vessel is not valid.
+
+(C) Only a person eligible to own a documented vessel under the terms of 46 U.S.C. 12103 may be issued or may hold a directed open access vessel permit.
+
+(D) No individual may alter, erase, mutilate, or forge any permit or document issued under this section. Any such permit or document that is intentionally altered, erased, mutilated, or forged is invalid.
+
+(ii) *Transferability.* Permits are not transferable. A permit issued under this paragraph (i) is valid only for the vessel for which it is registered. A change in ownership, documentation, or name of the registered vessel, or transfer of the ownership of the registered vessel will render the permit invalid.
+
+(A) A vessel owner must contact SFD if the vessel for which the permit is issued is sold, ownership of the vessel is transferred, the vessel is renamed, or any other reason for which the documentation of the vessel is changed as the change may invalidate the current permit.
+
+(B) In the case where a permit is invalidated due to a change in documentation, a new permit application is required. To submit a new application, please complete the process outlined in paragraph (i)(2) of this section.
+
+(iii) *Civil Procedures.* SFD may suspend, revoke, or modify any permit issued under this section under policies and procedures in title 15 CFR part 904, or other applicable regulations in this chapter.
+
+(2) *Applications.* A vessel owner who wants to engage in the West Coast groundfish directed open access fishery, as defined in section § 660.11, must apply for the directed open access permit using the application form in paragraph (i)(2)(i) of this section.
+
+(i) *Application form.* To apply for a directed open access permit, an individual must submit a complete permit application to the SFD West Coast Region through the NOAA Fisheries Pacific Coast Groundfish and Halibut Portal—Log In web page at *https://www.webapps.nwfsc.noaa.gov/apex/ifq/f?p=120:LOGIN\_DESKTOP.*
+
+(ii) *Required documentation.* A complete application consists of:
+
+(A) An application form that contains valid responses for all required data fields, information, and signatures.
+
+(B) A copy of the current (not expired) U.S. Coast Guard Documentation Form or state registration form for the vessel.
+
+(C) Payment of required fees as required at paragraph (f) of this section.
+
+(D) Additional documentation SFD may require as it deems necessary to make a determination on the application.
+
+(iii) *Application review, approval or denial, and appeals*—(A) *Application review.* Applications for groundfish directed open access permits issued under this paragraph (i) must be received a minimum of 15 days before intending to participate in the fishery to allow for processing time.
+
+(B) *Approved application.* SFD shall issue a vessel permit upon receipt of a completed permit application, including all required information listed in paragraph (i)(2)(ii) of this section, submitted through the Pacific Coast Groundfish and Halibut Portal, and a cleared sanctions check.
+
+(C) *Denied application.* If the application is denied, SFD will issue an initial administrative decision (IAD) that will explain the denial in writing. SFD may decline to act on a permit application that is incomplete, or if the vessel or vessel owner is subject to sanction provisions of the Magnuson-Stevens Act at 16 U.S.C. 1858(a) and implementing regulations at 15 CFR part 904, subpart D.
+
+(D) *Appeals.* In cases where the applicant disagrees with SFD's decision on a permit application, the applicant may file an appeal following the procedures described at paragraph (g) of this section.
+
+(iv) *Issuance.* Upon review and approval of a directed open access permit application, SFD will issue a permit under this paragraph (i) electronically to the permit owner.
+
+(A) *Duration.* A permit issued under this paragraph (i) is valid until the first date of renewal, except as provided in this paragraph (i). The date of renewal will be the last day of the vessel owner's birth month, following the year after the permit is issued (*e.g.,* if the birth month is March and the permit is issued on October 3, 2026, the permit will remain valid through March 31, 2027). The permit owner is responsible for renewing their directed open access permit. Any permit not renewed by the renewal date will expire and is no longer valid.
+
+(*1*) For permits issued in 2025, the date of renewal will be the last day of the vessel owner's birth month in 2026 (*e.g.,* if the birth month is October and the permit is issued on March 3, 2025, the permit will remain valid through October 31, 2026).
+
+(*2*) [Reserved]
+
+(B) *Display.* A copy (electronic or paper) of the permit issued under this subpart must be available for inspection by an authorized officer when the vessel is operating in the groundfish open access fishery, defined at § 660.11.
+
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78381, Dec. 15, 2010; 76 FR 53835, Aug. 30, 2011; 76 FR 74734, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 81 FR 84426, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 85 FR 37029, June 19, 2020; 85 FR 68003, Oct. 27, 2020; 86 FR 26442, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 86 FR 59875, Oct. 29, 2021; 86 FR 70422, Dec. 10, 2021; 87 FR 77014, Dec. 16, 2022; 87 FR 77005, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023; 89 FR 101522, 101524, Dec. 16, 2024]

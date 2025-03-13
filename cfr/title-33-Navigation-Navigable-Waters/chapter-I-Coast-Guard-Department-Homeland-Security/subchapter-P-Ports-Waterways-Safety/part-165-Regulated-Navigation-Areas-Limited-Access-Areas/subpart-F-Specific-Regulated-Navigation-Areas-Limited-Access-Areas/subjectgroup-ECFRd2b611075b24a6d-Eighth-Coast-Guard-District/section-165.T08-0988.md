@@ -16,6 +16,8 @@
 
 (2) To seek permission to enter, contact Vessel Traffic Service (VTS) Port Arthur on VHF channel 01A, or the COTP's on scene representative on VHF channel 13 or 16. Those in the safety zone must comply with all lawful orders or directions given to them by the COTP or the COTP's designated representative.
 
-(d) *Enforcement periods.* The safety zone in paragraph (a) of this section is in effect from January 20, 2023, through December 31, 2024. This section will be subject to enforcement when high pressure tests are being conducted. Mariners will be informed of enforcement zone and enforcement periods by Broadcast Notice to Mariners, VTS Advisory, and the presence of enforcement vessels displaying flashing blue law enforcement lights.
+(d) *Enforcement periods.* The safety zones in paragraph (a) of this section is in effect from January 20, 2023, through June 30, 2025. This section will be subject to enforcement when high pressure tests are being conducted. Mariners will be informed of enforcement zone and enforcement periods by Broadcast Notice to Mariners, VTS Advisory, and the presence of enforcement vessels displaying flashing blue law enforcement lights.
 
-[USCG-2022-0988, 88 FR 1147, Jan. 9, 2023]Effective Date Note:By USCG-2022-0988, 88 FR 1147, Jan. 9, 2023, § 165.T08-0988 was added, effective Jan. 20, 2023 until Dec. 31, 2024.
+[USCG-2022-0988, 88 FR 1147, Jan. 9, 2023, as amended by USCG-2022-0988, 89 FR 100745, Dec. 13, 2024]Effective Date Notes:1. By USCG-2022-0988, 88 FR 1147, Jan. 9, 2023, § 165.T08-0988 was added, effective Jan. 20, 2023 until Dec. 31, 2024.
+
+2. By USCG-2022-0988, 89 FR 100745, Dec. 13, 2024, § 165.T08-0988 was amended by revising paragraph (d), effective Dec. 13, 2024 through June 30, 2025, and extending the effectiveness of the section until June 30, 2025.

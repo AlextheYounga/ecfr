@@ -1,5 +1,7 @@
 ##### § 38.715 Definitions. #####
 
+Link to an amendment published at 89 FR 107002, Dec. 31, 2024.
+
 For purposes of this part and any Notice of Funding Availability (NOFA) issued pursuant to this part:
 
 (a) *Applicant* means an eligible entity that submits a VLGP grant application that is announced in a NOFA.

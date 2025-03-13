@@ -1,4 +1,4 @@
-##### § 21.85 Raptor propagation permits. #####
+##### 21.85 Raptor propagation permitting. #####
 
 (a) *Legal basis for regulating raptor propagation.* (1) Among other actions, the Migratory Bird Treaty Act (MBTA) (16 U.S.C. 703 *et seq.*) prohibits any person from capturing from the wild, possessing, purchasing, bartering, selling, or offering to purchase, barter, or sell raptors (vultures, kites, eagles, hawks, caracaras, falcons, and owls) listed in § 10.13 of this chapter unless the activities are allowed by Federal permit issued pursuant to this part and part 13 of this chapter, or as permitted by regulations in this part.
 
@@ -94,7 +94,7 @@
 
 (j) *Care of nestlings by an individual who does not hold a migratory bird permit.* Another person may temporarily care for and band nestlings you hold from the time they are hatched until they are fully feathered. You may allow the other person to keep the nestlings at another location. You must give the individual a letter authorizing him or her to care for the nestlings, beginning on the date of your letter. The care might be part of each day during the nestling period so that the nestlings can be fed, or it might be a series of full days if transport to and from the breeding facility is not practical or needed.
 
-(k) *Disposition of molted feathers from a live raptor or carcasses of raptors held under your permit.* (1) You may donate the body or feathers of any species you possess under your propagation permit to any person or institution exempt under § 21.12 or authorized by permit to acquire and possess such parts or feathers.
+(k) *Disposition of molted feathers from a live raptor or carcasses of raptors held under your permit.* (1) You may donate the body or feathers of any species you possess under your propagation permit to any person or entity exempt from the permit requirement under the regulations in subpart B of this part or authorized by permit to acquire and possess such parts or feathers.
 
 (2) For any raptor you hold under your propagation permit, if the bird was banded or microchipped prior to its death, you may keep the body to have the feathers available for imping or to have the body mounted by a taxidermist. You may use the mount in propagation activities or in giving conservation education programs. If the bird was banded, you must leave the band on the body. If the bird has an implanted microchip, the microchip must be placed inside the mounted bird.
 
@@ -166,4 +166,4 @@
 
 (y) *Permit expiration.* Your Federal permit may be valid for up to 5 years from when it is issued or renewed. It will expire on the same day as your State permit, unless your State permit is for a period longer than 5 years, or unless we amend, suspend, or revoke it.
 
-[76 FR 29667, May 23, 2011. Redesignated and amended at 87 FR 881, 882, Jan. 7, 2022]
+[76 FR 29667, May 23, 2011. Redesignated and amended at 87 FR 881, 882, Jan. 7, 2022; 89 FR 107042, Dec. 31, 2024]

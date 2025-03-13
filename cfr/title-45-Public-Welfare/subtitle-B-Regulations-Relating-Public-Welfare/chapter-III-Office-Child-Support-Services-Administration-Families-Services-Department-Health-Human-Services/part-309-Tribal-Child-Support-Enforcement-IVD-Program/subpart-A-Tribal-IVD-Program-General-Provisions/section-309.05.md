@@ -1,5 +1,7 @@
 ##### § 309.05 What definitions apply to this part? #####
 
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+
 The following definitions apply to this part:
 
 *IV-D services* are the services that are authorized or required for the establishment of paternity, establishment, modification, and enforcement of support orders, and location of noncustodial parents under title IV-D of the Act, this rule, the Tribal IV-D plan and program instructions issued by the Department.

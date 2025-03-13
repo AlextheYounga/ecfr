@@ -1,0 +1,3 @@
+##### § 904.253 Closing of record. #####
+
+At the conclusion of the hearing, the evidentiary record shall be closed unless the Judge directs otherwise. Once the record is closed, no additional evidence shall be accepted except upon a showing that the evidence is material and that there was good cause for failure to produce it in a timely fashion. The Judge shall reflect in the record, however, any approved correction to the transcript.

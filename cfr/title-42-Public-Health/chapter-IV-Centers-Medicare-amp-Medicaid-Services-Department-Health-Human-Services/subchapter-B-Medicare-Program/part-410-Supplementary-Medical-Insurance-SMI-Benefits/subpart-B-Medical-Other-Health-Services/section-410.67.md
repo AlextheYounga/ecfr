@@ -1,7 +1,5 @@
 ##### § 410.67 Medicare coverage and payment of Opioid use disorder treatment services furnished by Opioid treatment programs. #####
 
-Link to an amendment published at 89 FR 98556, Dec. 9, 2024.
-
 (a) *Basis and scope—* (1) *Basis.* This section implements sections 1861(jjj), 1861(s)(2)(HH), 1833(a)(1)(CC) and 1834(w) of the Act which provide for coverage of opioid use disorder treatment services furnished by an opioid treatment program and the payment of a bundled payment under Part B to an opioid treatment program for opioid use disorder treatment services that are furnished to a beneficiary during an episode of care beginning on or after January 1, 2020.
 
 (2) *Scope.* This section sets forth the criteria for an opioid treatment program, the scope of opioid use disorder treatment services, and the methodology for determining the bundled payments to opioid treatment programs for furnishing opioid use disorder treatment services.
@@ -24,13 +22,25 @@ Link to an amendment published at 89 FR 98556, Dec. 9, 2024.
 
 (v) Toxicology testing.
 
-(vi) Intake activities, including initial medical examination services required under § 8.12(f)(2) of this title and initial assessment services required under § 8.12(f)(4) of this title. Services to initiate treatment with buprenorphine may be furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. In cases where audio-video communications technology is not available to the beneficiary, services to initiate treatment with buprenorphine may be furnished using audio-only telephone calls if all other applicable requirements are met.
+(vi) Intake activities, including initial medical examination services required under § 8.12(f)(2) of this title and initial assessment services required under § 8.12(f)(4) of this title.
 
-(vii) Periodic assessment services required under § 8.12(f)(4) of this title, that are furnished during a face-to-face encounter, including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. During the Public Health Emergency, as defined in § 400.200 of this chapter, and through the end of CY 2024, in cases where a beneficiary does not have access to two-way audio-video communications technology, periodic assessments can be furnished using audio-only telephone calls if all other applicable requirements are met.
+(A) For intake activities furnished via communications technology, the following flexibilities apply:
+
+(*1*) Services to initiate treatment with buprenorphine may be furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. In cases where audio-video communications technology is not available to the beneficiary, services to initiate treatment with buprenorphine may be furnished using audio-only telephone calls if all other applicable requirements are met.
+
+(*2*) Services to initiate treatment with methadone may be furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements, if the OTP practitioner determines that an adequate evaluation of the patient can be accomplished through audio-video communication technology.
+
+(B) [Reserved]
+
+(vii) Periodic assessment services required under § 8.12(f)(4) of this title, that are furnished during a face-to-face encounter, including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. In cases where a beneficiary does not have access to two-way audio-video communications technology, periodic assessments can be furnished using audio-only telephone calls if all other applicable requirements are met.
 
 (viii) Opioid antagonist medications that are approved by the Food and Drug Administration under section 505 of the Federal Food, Drug, and Cosmetic Act for the emergency treatment of known or suspected opioid overdose and overdose education furnished in conjunction with opioid antagonist medication.
 
 (ix) Opioid treatment program (OTP) intensive outpatient services, which means one or more services specified in § 410.44(a)(4) when furnished by an OTP as part of a distinct and organized intensive ambulatory treatment program for the treatment of opioid use disorder (OUD) and that offers less than 24-hour daily care other than in an individual's home or in an inpatient or residential setting. OTP intensive outpatient services are reasonable and necessary for the diagnosis or active treatment of the individual's condition; are reasonably expected to improve or maintain the individual's condition and functional level and to prevent relapse or hospitalization; and are furnished in accordance with a physician or non-physician practitioner (as defined in section 1842(b)(18)(C) of the Act) certification and plan of care, as permitted by State law and scope of practice requirements, in which a physician or non-physician practitioner must certify that the individual has a need for a minimum of nine hours of services per week and requires a higher level of care intensity compared to other non-intensive outpatient OTP services. OTP intensive outpatient services do not include FDA-approved opioid agonist or antagonist medications for the treatment of OUD or opioid antagonist medications for the emergency treatment of known or suspected opioid overdose, or toxicology testing.
+
+(x) Coordinated care and/or referral services, provided by an OTP to link a beneficiary with community resources to address unmet health-related social needs or the need and interest for harm reduction interventions and recovery support services that significantly limit the ability to diagnose or treat a patient's opioid use disorder.
+
+(xi) Patient navigational services and/or peer recovery support services, when provided directly by an OTP or through referral, in order to assist patients with an OUD in navigating the health system and accessing supportive services, and/or to provide support in meeting patient-driven OUD treatment and recovery goals.
 
 (c) *Requirements for opioid treatment programs.* To participate in the Medicare program and receive payment, an opioid treatment program must meet all of the following:
 
@@ -104,9 +114,13 @@ Link to an amendment published at 89 FR 98556, Dec. 9, 2024.
 
 (F) For OTP intensive outpatient services, an adjustment will be made when at least nine OTP intensive outpatient services described in paragraph (ix) of the definition of *opioid use disorder treatment service* in paragraph (b) of this section are furnished in a week. This adjustment will be based on the per diem payment rate for intensive outpatient services at hospital-based programs defined at § 410.44(c) and multiplied by a factor of three for a weekly payment adjustment.
 
-(ii) The payment amounts for the non-drug component of the bundled payment for an episode of care, the adjustments for counseling or therapy, intake activities, periodic assessments, and OTP intensive outpatient services, and the non-drug component of the adjustment for take-home supplies of opioid antagonist medications will be geographically adjusted using the geographic adjustment factor described in § 414.26 of this chapter. For purposes of this adjustment, OUD treatment services that are furnished via an OTP mobile unit will be treated as if they were furnished at the physical location of the OTP registered with the Drug Enforcement Administration (DEA) and certified by SAMHSA.
+(G) Coordinated care and/or referral services described in paragraph (x) of the definition of opioid use disorder treatment service in paragraph (b) of this section, an adjustment will be made when each additional 30 minutes of these services are furnished.
 
-(iii) The payment amounts for the non-drug component of the bundled payment for an episode of care, the adjustments for counseling or therapy, intake activities, periodic assessments and OTP intensive outpatient services, and the non-drug component of the adjustment for take-home supplies of opioid antagonist medications will be updated annually using the Medicare Economic Index described in § 405.504(d) of this chapter.
+(H) Patient navigational services and/or peer recovery support services described in paragraph (xi) of the definition of opioid use disorder treatment service in paragraph (b) of this section, an adjustment will be made when each additional 30 minutes of these services are furnished.
+
+(ii) The payment amounts for the non-drug component of the bundled payment for an episode of care, the adjustments for counseling or therapy, intake activities, periodic assessments, OTP intensive outpatient services, coordinated care and/or referral services, patient navigational services and/or peer recovery support services, and the non-drug component of the adjustment for take-home supplies of opioid antagonist medications will be geographically adjusted using the Geographic Adjustment Factor described in § 414.26 of this subchapter. For purposes of this adjustment, OUD treatment services that are furnished via an OTP mobile unit will be treated as if they were furnished at the physical location of the OTP registered with the Drug Enforcement Administration (DEA) and certified by SAMHSA.
+
+(iii) The payment amounts for the non-drug component of the bundled payment for an episode of care, the adjustments for counseling or therapy, intake activities, periodic assessments, OTP intensive outpatient services, coordinated care and/or referral services, patient navigational services and/or peer recovery support services, and the non-drug component of the adjustment for take-home supplies of opioid antagonist medications will be updated annually using the Medicare Economic Index described in § 405.504(d) of this subchapter.
 
 (5) Payment for medications delivered, administered or dispensed to a beneficiary as part of the bundled payment or an adjustment to the bundled payment under paragraph (d)(4)(i) of this section is considered a duplicative payment if a claim for delivery, administration or dispensing of the same medications for the same beneficiary on the same date of service was also separately paid under Medicare Part B or Part D. CMS will recoup the duplicative payment made to the opioid treatment program.
 
@@ -114,4 +128,4 @@ Link to an amendment published at 89 FR 98556, Dec. 9, 2024.
 
 (e) *Beneficiary cost-sharing.* A beneficiary copayment amount of zero will apply.
 
-[84 FR 63189, Nov. 15, 2019, as amended at 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 85026, Dec. 28, 2020; 86 FR 65664, 66036, Nov. 19, 2021; 87 FR 70224, Nov. 18, 2022; 88 FR 79528, Nov. 16, 2023; 88 FR 82178, Nov. 22, 2023]
+[84 FR 63189, Nov. 15, 2019, as amended at 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 85026, Dec. 28, 2020; 86 FR 65664, 66036, Nov. 19, 2021; 87 FR 70224, Nov. 18, 2022; 88 FR 79528, Nov. 16, 2023; 88 FR 82178, Nov. 22, 2023; 89 FR 98556, Dec. 9, 2024]

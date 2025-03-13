@@ -1,6 +1,6 @@
 ##### § 301.15 Grants. #####
 
-Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
 
 To States with approved plans, a grant is made each quarter for expenditures under the plan for the administration of the Child Support Enforcement program. The determination as to the amount of a grant to be made to a State is based upon documents submitted by the IV-D agency containing information required under the Act and such other pertinent facts as may be found necessary.
 

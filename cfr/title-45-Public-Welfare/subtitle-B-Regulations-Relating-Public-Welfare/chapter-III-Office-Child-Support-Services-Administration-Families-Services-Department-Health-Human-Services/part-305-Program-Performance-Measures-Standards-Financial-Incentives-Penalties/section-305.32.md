@@ -1,5 +1,7 @@
 ##### § 305.32 Requirements applicable to calculations. #####
 
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+
 In calculating the amount of incentive payments or penalties, the following conditions apply:
 
 (a) Each measure is based on data submitted for the Federal fiscal year. The Federal fiscal year runs from October 1st of one year through September 30th of the following year.

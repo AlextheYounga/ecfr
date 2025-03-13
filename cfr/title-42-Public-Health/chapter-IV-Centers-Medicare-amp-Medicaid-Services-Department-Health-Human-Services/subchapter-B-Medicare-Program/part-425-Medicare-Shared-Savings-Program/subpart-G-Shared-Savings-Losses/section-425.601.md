@@ -1,7 +1,5 @@
 ##### § 425.601 Establishing, adjusting, and updating the benchmark for agreement periods beginning on or after July 1, 2019, and before January 1, 2024. #####
 
-Link to an amendment published at 89 FR 98570, Dec. 9, 2024.
-
 (a) *Computing per capita Medicare Part A and Part B benchmark expenditures for an ACO's first agreement period.* For agreement periods beginning on July 1, 2019, and in subsequent years, in computing an ACO's historical benchmark for its first agreement period under the Shared Savings Program, CMS determines the per capita Parts A and B fee-for-service expenditures for beneficiaries that would have been assigned to the ACO in any of the 3 most recent years prior to the start of the agreement period using the ACO participant TINs identified before the start of the agreement period as required under § 425.118(a) and the beneficiary assignment methodology selected by the ACO for the first performance year of the agreement period as required under § 425.400(a)(4)(ii). CMS does all of the following:
 
 (1) Calculates the payment amounts included in Parts A and B fee-for-service claims using a 3-month claims run out with a completion factor.
@@ -90,11 +88,15 @@ Link to an amendment published at 89 FR 98570, Dec. 9, 2024.
 
 (*2*) For negative adjustments, the per capita dollar amount for a Medicare enrollment type is capped at negative 5 percent of the national per capita expenditure amount for the enrollment type for BY3.
 
-(9) For the second and each subsequent performance year during the term of the agreement period, the ACO's benchmark is adjusted for the following, as applicable: For the addition and removal of ACO participants or ACO providers/suppliers in accordance with § 425.118(b), for a change to the ACO's beneficiary assignment methodology selection under § 425.226(a)(1), and for a change to the beneficiary assignment methodology specified in subpart E of this part. To adjust the benchmark, CMS does the following:
+(9) For the second and each subsequent performance year during the term of the agreement period, the ACO's benchmark is adjusted for the following, as applicable: For the addition and removal of ACO participants or ACO providers/suppliers in accordance with § 425.118(b), for a change to the ACO's beneficiary assignment methodology selection under § 425.226(a)(1), for a change to the beneficiary assignment methodology specified in subpart E of this part, for changes in values used in benchmark calculations as a result of issuance of a revised initial determination under § 425.315, and for changes in values used in benchmark calculations as a result of the performance year being affected by significant, anomalous, and highly suspect billing under § 425.672. To adjust the benchmark, CMS does the following:
 
 (i) Takes into account the expenditures of beneficiaries who would have been assigned to the ACO in any of the 3 most recent years prior to the start of the agreement period.
 
 (ii) Redetermines the regional adjustment amount under paragraph (a)(8) of this section, according to the ACO's assigned beneficiaries for BY3.
+
+(iii) Recalculates benchmark year expenditures to account for the impact of improper payments, for the benchmark year corresponding to a performance year for which CMS issued a revised initial determination under § 425.315. In recalculating expenditures for the benchmark year, CMS applies the calculation methodology applied in recalculating expenditures for the corresponding performance year in accordance with § 425.674.
+
+(iv) Recalculates expenditures used in Shared Savings Program benchmark calculations under this section, to exclude the same HCPCS or CPT codes identified as displaying significant, anomalous, and highly suspect billing patterns in calculation of performance year expenditures, in accordance with § 425.672.
 
 (10) The historical benchmark is further adjusted at the time of reconciliation for a performance year to account for changes in severity and case mix of the ACO's assigned beneficiary population as described under §§ 425.605(a), 425.609(c), and 425.610(a).
 
@@ -218,4 +220,4 @@ Link to an amendment published at 89 FR 98570, Dec. 9, 2024.
 
 (2) When updating the benchmark using the methodology set forth in paragraph (b) of this section and § 425.609(c), CMS updates the benchmark based on growth between BY3 and CY 2019.
 
-[83 FR 68071, Dec. 31, 2018, as amended at 85 FR 85042, Dec. 28, 2020; 87 FR 70237, Nov. 18, 2022; 88 FR 79547, Nov. 16, 2023]
+[83 FR 68071, Dec. 31, 2018, as amended at 85 FR 85042, Dec. 28, 2020; 87 FR 70237, Nov. 18, 2022; 88 FR 79547, Nov. 16, 2023; 89 FR 98570, Dec. 9, 2024]

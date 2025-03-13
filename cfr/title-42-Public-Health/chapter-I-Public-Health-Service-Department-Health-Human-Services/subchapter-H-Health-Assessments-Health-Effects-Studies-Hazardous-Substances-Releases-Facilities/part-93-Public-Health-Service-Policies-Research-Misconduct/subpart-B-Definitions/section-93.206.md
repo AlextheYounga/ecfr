@@ -1,7 +1,3 @@
-##### § 93.206 Debarring official. #####
+##### § 93.206 Complainant. #####
 
-*Debarring official* means an official authorized to impose debarment or suspension. The HHS debarring official is either—
-
-(a) The Secretary; or
-
-(b) An official designated by the Secretary.
+Complainant means an individual who in good faith makes an allegation of research misconduct.

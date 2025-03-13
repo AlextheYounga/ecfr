@@ -1,7 +1,5 @@
 ##### § 425.630 Option to receive advance investment payments. #####
 
-Link to an amendment published at 89 FR 98571, Dec. 9, 2024.
-
 (a) *Purpose.* Advance investment payments are intended to encourage low-revenue ACOs that are inexperienced with risk to participate in the Shared Savings Program and to provide additional resources to such ACOs in order to support care improvement for underserved beneficiaries.
 
 (b) *Eligibility.* An ACO is eligible to receive advance investment payments as specified in this section if CMS determines that all of the following criteria are met:
@@ -70,11 +68,15 @@ Link to an amendment published at 89 FR 98571, Dec. 9, 2024.
 
 (2) If the amount of shared savings earned by the ACO is revised upward by CMS for any reason, CMS will reduce the redetermined amount of shared savings by the amount of advance investment payments made to the ACO as of the date of the redetermination. If the amount of shared savings earned by the ACO is revised downward by CMS for any reason, the ACO will not receive a refund of any portion of the advance investment payments previously recouped or otherwise repaid.
 
-(3) Except as provided for in paragraphs (g)(4) of this section and § 425.316(e)(3), for each performance year, CMS will not recover an amount of advance investment payments greater than the shared savings earned by an ACO in that performance year.
+(3) Except as provided for in paragraphs (g)(4) through (6) of this section and § 425.316(e)(3), for each performance year, CMS will not recover an amount of advance investment payments greater than the shared savings earned by an ACO in that performance year.
 
 (4) If an ACO terminates its participation agreement during the agreement period in which it received an advance investment payment, the ACO must repay all advance investment payments it received, unless the ACO terminated its current participation agreement under § 425.220 at the end of performance year 2 or later during the agreement period in which it received advance investment payments and immediately enters a new agreement period to continue its participation in the program. CMS will provide written notification to the ACO of the amount due and the ACO must pay such amount no later than 90 days after the receipt of such notification.
 
-(5) In the event of bankruptcy—
+(5) If an ACO notifies CMS that it no longer wants to participate in the advance investment payment option but does want to continue its participation in the Shared Savings Program, the ACO must repay all outstanding advance investment payments it received. CMS will provide written notice to the ACO of the amount due and the ACO must pay such amount no later than 90 days after the receipt of such notification.
+
+(6) If CMS terminates the participation agreement of an ACO that has an outstanding balance of advance investment payments owed to CMS, the ACO must repay any outstanding advance investment payments it received. CMS will provide written notification to the ACO of the amount due and the ACO must pay such amount no later than 90 days after the receipt of such notification.
+
+(7) In the event of bankruptcy—
 
 (i) If an ACO has filed a bankruptcy petition, whether voluntary or involuntary, the ACO must provide written notice of the bankruptcy to CMS and to the U.S. Attorney's Office in the district where the bankruptcy was filed, unless final payment for the agreement period has been made by either CMS or the ACO and all administrative or judicial review proceedings relating to any payments under the Shared Savings Program have been fully and finally resolved.
 
@@ -84,9 +86,11 @@ Link to an amendment published at 89 FR 98571, Dec. 9, 2024.
 
 (i) Fails to comply with the requirements of this section;
 
-(ii) Meets any of the grounds for ACO termination set forth in § 425.218(b); or
+(ii) Meets any of the grounds for ACO termination set forth in § 425.218(b);
 
-(iii) Voluntarily terminates its participation agreement in accordance with § 425.220(a).
+(iii) Voluntarily terminates its participation agreement in accordance with § 425.220(a); or
+
+(iv) Voluntarily terminates payments of advance investment payments but continues its participation in the Shared Savings Program.
 
 (2) *Eligibility sanction.* CMS will terminate an ACO's advance investment payments in accordance with § 425.316(e) if the ACO no longer meets the eligibility requirements specified in paragraphs (b)(3) and (b)(4) of this section.
 
@@ -98,4 +102,4 @@ Link to an amendment published at 89 FR 98571, Dec. 9, 2024.
 
 (2) In a form and manner and by a deadline specified by CMS, the ACO must report to CMS the same information it is required to publicly report under § 425.308(b)(8).
 
-[87 FR 70242, Nov. 18, 2022, as amended at 88 FR 79548, Nov. 16, 2023]
+[87 FR 70242, Nov. 18, 2022, as amended at 88 FR 79548, Nov. 16, 2023; 89 FR 98571, Dec. 9, 2024]

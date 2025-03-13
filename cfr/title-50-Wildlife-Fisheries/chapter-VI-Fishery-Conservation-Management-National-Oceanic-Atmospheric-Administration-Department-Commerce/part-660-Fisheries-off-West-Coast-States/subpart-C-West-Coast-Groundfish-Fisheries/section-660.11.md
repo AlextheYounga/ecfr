@@ -1,7 +1,5 @@
 ##### § 660.11 General definitions. #####
 
-Link to an amendment published at 89 FR 101522, Dec. 16, 2024.
-
 These definitions are specific to the fisheries covered in subparts C through G of this part.
 
 *Acceptable Biological Catch (ABC)* means a harvest specification that is set below the overfishing limit to account for scientific uncertainty in the estimate of OFL, and other scientific uncertainty.
@@ -62,19 +60,17 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (iv) *Cowcod Conservation Areas* are defined at § 660.70.
 
-(v) *Farallon Islands* is defined at § 660.70.
+(v) *Groundfish Exclusion Areas or GEAs* are closed areas intended to mitigate potential impacts to sensitive environments from certain groundfish fishing activity. GEAs may prohibit fishing by certain groundfish sectors or certain groundfish gear types. Geographic coordinates for GEAs are defined at § 660.70.
 
-(vi) *Groundfish Exclusion Areas or GEAs* are closed areas intended to mitigate potential impacts to sensitive environments from certain groundfish fishing activity. GEAs may prohibit fishing by certain groundfish sectors or certain groundfish gear types. Geographic coordinates for GEAs are defined at § 660.70.
+(vi) *Rockfish Conservation Areas or RCAs.* RCA restrictions are detailed in subparts D through G of this part. RCAs may apply to a single gear type or to a group of gear types such as “trawl RCAs” or “non-trawl RCAs.” Specific latitude and longitude coordinates for RCA boundaries that approximate the depth contours selected for trawl, non-trawl, and recreational RCAs are provided in §§ 660.71 through 660.74. Also provided in §§ 660.71 through 660.74, are references to islands and rocks that serve as reference points for the RCAs.
 
-(vii) *Rockfish Conservation Areas or RCAs.* RCA restrictions are detailed in subparts D through G of this part. RCAs may apply to a single gear type or to a group of gear types such as “trawl RCAs” or “non-trawl RCAs.” Specific latitude and longitude coordinates for RCA boundaries that approximate the depth contours selected for trawl, non-trawl, and recreational RCAs are provided in §§ 660.71 through 660.74. Also provided in §§ 660.71 through 660.74, are references to islands and rocks that serve as reference points for the RCAs.
+(A) *Trawl (Limited Entry and Open Access Non-groundfish Trawl Gears) RCAs.* The Trawl RCAs are intended to protect a complex of species, such as overfished shelf rockfish species, and have boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the limited entry Trawl RCA throughout the year are provided in table 1a (North) subpart D of this part. Boundaries for the open access non-groundfish Trawl RCA throughout the year are provided in § 660.333(e). Boundaries of the Trawl RCAs may be modified by NMFS inseason pursuant to § 660.60(c).
 
-(A) *Trawl (Limited Entry and Open Access Non-groundfish Trawl Gears) RCAs.* The trawl RCAs are intended to protect a complex of species, such as overfished shelf rockfish species, and have boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the limited entry trawl RCA throughout the year are provided in Table 1 (North) subpart D of this part. Boundaries for the open access non-groundfish trawl RCA throughout the year are provided in Table 3 (South) subpart F of this part. Boundaries of the trawl RCAs may be modified by NMFS inseason pursuant to § 660.60(c).
-
-(B) *Non-Trawl (Limited Entry Fixed Gear and Open Access Non-trawl Gears) RCAs.* Non-trawl RCAs are intended to protect a complex of species, such as overfished shelf rockfish species, and have boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the non-trawl RCA throughout the year are provided in Table 2 (North) and Table 2 (South) of subpart E of this part, and Table 3 (North) and Table 3 (South) of subpart F of this part, and may be modified by NMFS inseason pursuant to § 660.60(c).
+(B) *Non-Trawl (Limited Entry Fixed Gear and Open Access Non-Trawl Gears) RCAs.* Non-Trawl RCAs are intended to protect a complex of species, such as overfished shelf rockfish species, and have boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the Non-Trawl RCA throughout the year are provided in tables 2a (North) and 2a (South) of subpart E of this part and tables 3a (North) and 3a (South) of subpart F of this part and may be modified by NMFS inseason pursuant to § 660.60(c).
 
 (C) *Recreational RCAs.* Recreational RCAs are closed areas intended to protect overfished rockfish species. In the EEZ seaward of California, recreational RCAs are also intended to limit catch of non-overfished groundfish species. Recreational RCAs may either have boundaries defined by general depth contours or boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the recreational RCAs throughout the year are provided in the text in subpart G of this part under each state (Washington, Oregon and California) and may be modified by NMFS inseason pursuant to § 660.60(c).
 
-(viii) *Yelloweye Rockfish Conservation Areas* or *YRCAs* are defined at § 660.70.
+(vii) *Yelloweye Rockfish Conservation Areas* or *YRCAs* are defined at § 660.70.
 
 (2) *Essential Fish Habitat Conservation Area* or *EFHCA* means an area created and enforced to contribute to the protection of groundfish essential fish habitat. Regulations at §§ 660.75 through 660.79 define EFHCA boundaries. Fishing prohibitions associated with EFHCAs, which are found at §§ 660.12, 660.112, 660.212, and 660.312, are in addition to those prohibitions associated with other conservation areas.
 
@@ -134,7 +130,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (iii) *Trammel net* means a gillnet made with two or more walls joined to a common float line.
 
-(5) *Fixed gear (anchored nontrawl gear)* means the following gear types: longline, trap or pot, set net, and stationary hook-and-line (including commercial vertical hook-and-line) gears.
+(5) *Fixed gear (anchored non-trawl gear)* means the following gear types: longline, trap or pot, set net, and stationary hook-and-line (including commercial vertical hook-and-line) gears.
 
 (6) *Hook-and-line* means one or more hooks attached to one or more lines. It may be stationary (commercial vertical hook-and-line) or mobile (troll).
 
@@ -206,11 +202,9 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Gear testing* means the deployment of lawful gear without retaining fish, for the following purposes, including, but not limited to: Deployment of nets using open codends; calibration of engines and transmission under load (*i.e.,* towing a net with an open codend); deployment of wire and/or doors; testing new electronic equipment associated with deploying fishing gear; and testing and calibration of newly installed propulsion systems (*i.e.,* engine, transmission, shaft, propeller, etc.).
 
-*Grandfathered or first generation,* when referring to a limited entry sablefish-endorsed permit owner, means those permit owners who owned a sablefish-endorsed limited entry permit prior to November 1, 2000, and are, therefore, exempt from certain requirements of the sablefish permit stacking program within the parameters of the regulations at § 660.25(b), subpart C and § 660.231, subpart E.
-
 *Groundfish* means species managed by the PCGFMP, specifically:
 
-(1) *Sharks:* Leopard shark, *Triakis semifasciata;* soupfin shark, *Galeorhinus zyopterus;* spiny dogfish, *Squalus suckleyi.*
+(1) *Sharks:* Leopard shark, *Triakis semifasciata;* soupfin shark, *Galeorhinus zyopterus;* Pacific spiny dogfish, *Squalus suckleyi.*
 
 (2) *Skates:* “Skates” in the PCGFMP include all genera and species in the family Arhynchobatidae that occur off Washington, Oregon, and California, including but not limited to Aleutian skate, *Bathyraja aleutica;* Bering/sandpaper skate, *B. interrupta;* big skate, *Raja binoculata;* California skate, *R. inornata;* longnose skate, *R. rhina;* roughtail/black skate, *B. trachura.*
 
@@ -226,35 +220,37 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (ii) Between 46°16′ N lat. and 42° N lat. (Oregon): Cabezon, *S. marmoratus* and kelp greenling, *H. decagrammus.*
 
-(7) *Rockfish:* “Rockfish” in the PCGFMP include all genera and species of the family Scorpaenidae that occur off Washington, Oregon, and California, even if not listed below, including longspine thornyhead, *Sebastolobus altivelis,* and shortspine thornyhead, *S. alascanus.* Where species below are listed both in a geographic category (nearshore, shelf, slope) and as an area-specific listing (north or south of 40°10′ N. lat.) those species are managed within a “minor” rockfish complex in that area-specific listing.
+(7) *Rockfish:* “Rockfish” in the PCGFMP include all genera and species of the family Scorpaenidae that occur off Washington, Oregon, and California, even if not listed below, including longspine thornyhead, *Sebastolobus altivelis,* and shortspine thornyhead, *S. alascanus.* Where species below are listed both in a geographic category (nearshore, shelf, slope) and as an area-specific listing (north or south of 40°10′ N lat.) those species are managed within a complex in that area-specific listing.
 
-(i) Nearshore rockfish includes black rockfish, *Sebastes melanops* (off Washington and California) and the following nearshore rockfish species managed in “minor rockfish” complexes:
+(i) Nearshore rockfish includes black rockfish, *Sebastes melanops* (off Washington and California) and the following nearshore rockfish species managed in complexes:
 
-(A) North of 46°16′ N lat. (Washington) and between 42°00′ N lat. and 40°10′ N lat. (northern California): Black and yellow rockfish, *S. chrysomelas;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* China rockfish, *S. nebulosus;* copper rockfish, *S. caurinus;* deacon rockfish, *S. diaconus,* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
+(A) *Nearshore Rockfish Complex North of 46°16′ N lat. (Washington):* Black and yellow rockfish, *S. chrysomelas;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* China rockfish, *S. nebulosus;* copper rockfish, *S. caurinus;* deacon rockfish, *S. diaconus,* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
 
-(B) Between 46°16′ N lat. and 42° N lat. (Oregon): Black and yellow rockfish, *S. chrysomelas;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* China rockfish, *S. nebulosus;* copper rockfish, *S. caurinus;* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
+(B) *Nearshore Rockfish Complex between 46°16′ N lat. and 42° N lat. (Oregon):* Black and yellow rockfish, *S. chrysomelas;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* China rockfish, *S. nebulosus;* copper rockfish, *S. caurinus;* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens;* olive rockfish, *S. serranoides;* quillback rockfish, *S. maliger;* treefish, *S. serriceps.*
 
-(C) Between 46°16′ N lat. and 42° N lat. (Oregon): Black rockfish, *S. melanops,* blue rockfish, *S. mystinus,* and deacon rockfish, *S. diaconus.*
+(C) *Black/blue/deacon Rockfish Complex between 46°16′ N lat. and 42° N lat. (Oregon):* Black rockfish, *S. melanops,* blue rockfish, *S. mystinus,* and deacon rockfish, *S. diaconus.*
 
-(D) South of 40°10′ N lat. (Southern California): Nearshore rockfish are divided into three management categories:
+(D) *Nearshore Rockfish Complex between 42° N lat. and 40°10′ N lat. (northern California):* Black and yellow rockfish, *S. chrysomelas;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* China rockfish, *S. nebulosus;* copper rockfish, *S. caurinus;* deacon rockfish, *S. diaconus,* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens;* olive rockfish, *S. serranoides;* treefish, *S. serriceps.*
 
-(*1*) Shallow nearshore rockfish consists of black and yellow rockfish, S. chrysomelas; China rockfish, S. nebulosus; gopher rockfish, S. carnatus; grass rockfish, S. rastrelliger; kelp rockfish, S. atrovirens.
+(E) *Nearshore Rockfish Complex South of 40°10′ N lat. (Southern California):* Nearshore rockfish are divided into three management categories:
 
-(*2*) Deeper nearshore rockfish consists of black rockfish, S. melanops; blue rockfish, S. mystinus; brown rockfish, S. auriculatus; calico rockfish, S. dalli; copper rockfish, S. caurinus; deacon rockfish, S. diaconus; olive rockfish, S. serranoides; quillback rockfish, S. maliger; treefish, S. serriceps.
+(*1*) Shallow nearshore rockfish consists of black and yellow rockfish, *S. chrysomelas;* China rockfish, *S. nebulosus;* gopher rockfish, *S. carnatus;* grass rockfish, *S. rastrelliger;* kelp rockfish, *S. atrovirens.*
 
-(*3*) California scorpionfish, Scorpaena guttata.
+(*2*) Deeper nearshore rockfish consists of black rockfish, *S. melanops;* blue rockfish, *S. mystinus;* brown rockfish, *S. auriculatus;* calico rockfish, *S. dalli;* copper rockfish, *S. caurinus;* deacon rockfish, *S. diaconus;* olive rockfish, *S. serranoides;* treefish, *S. serriceps.*
 
-(ii) *Shelf rockfish* includes bocaccio, *Sebastes paucispinis;* canary rockfish, *S. pinniger;* chilipepper, *S. goodei;* cowcod, *S. levis;* shortbelly rockfish, *S. jordani;* widow rockfish, *S. entomelas;* yelloweye rockfish, *S. ruberrimus;* yellowtail rockfish, *S. flavidus* and the following shelf rockfish species managed in “minor rockfish” complexes:
+(*3*) California scorpionfish, *Scorpaena guttata.*
 
-(A) *Shelf Rockfish North of 40°10′ N. lat.:* Bronzespotted rockfish, *S. gilli;* bocaccio, *S. paucispinis;* chameleon rockfish, *S. phillipsi;* chilipepper, *S. goodei;* cowcod, *S. levis;* dusky rockfish, *S. ciliatus;* dwarf-red rockfish, *S. rufianus;* flag rockfish, *S. rubrivinctus;* freckled rockfish, *S. lentiginosus;* greenblotched rockfish, *S. rosenblatti;* greenspotted rockfish, *S. chlorostictus;* greenstriped rockfish, *S. elongatus;* halfbanded rockfish, *S. semicinctus;* harlequin rockfish, *S. variegatus;* honeycomb rockfish, *S. umbrosus;* Mexican rockfish, *S. macdonaldi;* pink rockfish, *S. eos;* pinkrose rockfish, *S. simulator;* pygmy rockfish, *S. wilsoni;* redstripe rockfish, *S. proriger;* rosethorn rockfish, *S. helvomaculatus;* rosy rockfish, *S. rosaceus;* silvergray rockfish, *S. brevispinis;* speckled rockfish, *S. ovalis;* squarespot rockfish, *S. hopkinsi;* starry rockfish, *S. constellatus;* stripetail rockfish, *S. saxicola;* sunset rockfish, *S. crocotulus;* swordspine rockfish, *S. ensifer;* tiger rockfish, *S. nigrocinctus;* vermilion rockfish, *S. miniatus.*
+(ii) *Shelf rockfish* includes bocaccio, *Sebastes paucispinis;* canary rockfish, *S. pinniger;* chilipepper, *S. goodei;* cowcod, *S. levis;* shortbelly rockfish, *S. jordani;* widow rockfish, *S. entomelas;* yelloweye rockfish, *S. ruberrimus;* yellowtail rockfish, *S. flavidus* and the following shelf rockfish species managed in complexes:
 
-(B) *Shelf Rockfish South of 40°10′ N. lat.:* Bronzespotted rockfish, *S. gilli;* chameleon rockfish, *S. phillipsi;* dusky rockfish, *S. ciliatus;* dwarf-red rockfish, *S. rufianus;* flag rockfish, *S. rubrivinctus;* freckled rockfish, *S. lentiginosus;* greenblotched rockfish, *S. rosenblatti;* greenspotted rockfish, *S. chlorostictus;* greenstriped rockfish, *S. elongatus;* halfbanded rockfish, *S. semicinctus;* harlequin rockfish, *S. variegatus;* honeycomb rockfish, *S. umbrosus;* Mexican rockfish, *S. macdonaldi;* pink rockfish, *S. eos;* pinkrose rockfish, *S. simulator;* pygmy rockfish, *S. wilsoni;* redstripe rockfish*, S. proriger;* rosethorn rockfish, *S. helvomaculatus;* rosy rockfish, *S. rosaceus;* silvergray rockfish, *S. brevispinis;* speckled rockfish, *S. ovalis;* squarespot rockfish, *S. hopkinsi;* starry rockfish, *S. constellatus;* stripetail rockfish, *S. saxicola;* sunset rockfish, *S. crocotulus;* swordspine rockfish, *S. ensifer;* tiger rockfish, *S. nigrocinctus;* vermilion rockfish, *S. miniatus;* yellowtail rockfish, *S. flavidus.*
+(A) *Shelf Rockfish Complex North of 40°10′ N lat.:* Bronzespotted rockfish, *S. gilli;* bocaccio, *S. paucispinis;* chameleon rockfish, *S. phillipsi;* chilipepper, *S. goodei;* cowcod, *S. levis;* dusky rockfish, *S. ciliatus;* dwarf-red rockfish, *S. rufianus;* flag rockfish, *S. rubrivinctus;* freckled rockfish, *S. lentiginosus;* greenblotched rockfish, *S. rosenblatti;* greenspotted rockfish, *S. chlorostictus;* greenstriped rockfish, *S. elongatus;* halfbanded rockfish, *S. semicinctus;* harlequin rockfish, *S. variegatus;* honeycomb rockfish, *S. umbrosus;* Mexican rockfish, *S. macdonaldi;* pink rockfish, *S. eos;* pinkrose rockfish, *S. simulator;* pygmy rockfish, *S. wilsoni;* redstripe rockfish, *S. proriger;* rosethorn rockfish, *S. helvomaculatus;* rosy rockfish, *S. rosaceus;* silvergray rockfish, *S. brevispinis;* speckled rockfish, *S. ovalis;* squarespot rockfish, *S. hopkinsi;* starry rockfish, *S. constellatus;* stripetail rockfish, *S. saxicola;* sunset rockfish, *S. crocotulus;* swordspine rockfish, *S. ensifer;* tiger rockfish, *S. nigrocinctus;* vermilion rockfish, *S. miniatus.*
 
-(iii) *Slope rockfish* includes darkblotched rockfish, *S. crameri;* Pacific ocean perch, *S. alutus;* splitnose rockfish, *S. diploproa;* and the following slope rockfish species managed in “minor rockfish” complexes:
+(B) *Shelf Rockfish Complex South of 40°10′ N lat.:* Bronzespotted rockfish, *S. gilli;* chameleon rockfish, *S. phillipsi;* dusky rockfish, *S. ciliatus;* dwarf-red rockfish, *S. rufianus;* flag rockfish, *S. rubrivinctus;* freckled rockfish, *S. lentiginosus;* greenblotched rockfish, *S. rosenblatti;* greenspotted rockfish, *S. chlorostictus;* greenstriped rockfish, *S. elongatus;* halfbanded rockfish, *S. semicinctus;* harlequin rockfish, *S. variegatus;* honeycomb rockfish, *S. umbrosus;* Mexican rockfish, *S. macdonaldi;* pink rockfish, *S. eos;* pinkrose rockfish, *S. simulator;* pygmy rockfish, *S. wilsoni;* redstripe rockfish, *S. proriger;* rosethorn rockfish, *S. helvomaculatus;* rosy rockfish, *S. rosaceus;* silvergray rockfish, *S. brevispinis;* speckled rockfish, *S. ovalis;* squarespot rockfish, *S. hopkinsi;* starry rockfish, *S. constellatus;* stripetail rockfish, *S. saxicola;* sunset rockfish, *S. crocotulus;* swordspine rockfish, *S. ensifer;* tiger rockfish, *S. nigrocinctus;* vermilion rockfish, *S. miniatus;* yellowtail rockfish, *S. flavidus.*
 
-(A) *Slope Rockfish North of 40°10′ N. lat.:* Aurora rockfish, *Sebastes aurora;* bank rockfish, *S. rufus;* blackgill rockfish, *S. melanostomus;* blackspotted rockfish, *S. melanostictus;* redbanded rockfish, *S. babcocki;* rougheye rockfish, *S. aleutianus;* sharpchin rockfish, *S. zacentrus;* shortraker rockfish, *S. borealis;* splitnose rockfish, *S. diploproa;* yellowmouth rockfish, *S. reedi*.
+(iii) *Slope rockfish* includes darkblotched rockfish, *Sebastes crameri;* Pacific ocean perch, *S. alutus;* splitnose rockfish, *S. diploproa;* and the following slope rockfish species managed in complexes:
 
-(B) *Slope Rockfish South of 40°10′ N. lat.:* Aurora rockfish, *Sebastes aurora;* bank rockfish, *S. rufus;* blackgill rockfish, *S. melanostomus;* blackspotted rockfish, *S. melanostictus;* Pacific ocean perch, *S. alutus;* redbanded rockfish, *S. babcocki;* rougheye rockfish, *S. aleutianus;* sharpchin rockfish, *S. zacentrus;* shortraker rockfish, *S. borealis;* yellowmouth rockfish, *S. reedi*.
+(A) *Slope Rockfish Complex North of 40°10′ N lat.:* Aurora rockfish, *S. aurora;* bank rockfish, *S. rufus;* blackgill rockfish, *S. melanostomus;* blackspotted rockfish, *S. melanostictus;* redbanded rockfish, *S. babcocki;* rougheye rockfish, *S. aleutianus;* sharpchin rockfish, *S. zacentrus;* shortraker rockfish, *S. borealis;* splitnose rockfish, *S. diploproa;* yellowmouth rockfish, *S. reedi.*
+
+(B) *Slope Rockfish Complex South of 40°10′ N lat.:* Aurora rockfish, *S. aurora;* bank rockfish, *S. rufus;* blackgill rockfish, *S. melanostomus;* blackspotted rockfish, *S. melanostictus;* Pacific ocean perch, *S. alutus;* redbanded rockfish, *S. babcocki;* rougheye rockfish, *S. aleutianus;* sharpchin rockfish, *S. zacentrus;* shortraker rockfish, *S. borealis;* yellowmouth rockfish, *S. reedi.*
 
 (8) Flatfish: Arrowtooth flounder (arrowtooth turbot), *Atheresthes stomias;* butter sole, *Isopsetta isolepis;* curlfin sole, *Pleuronichthys decurrens;* Dover sole, *Microstomus pacificus;* English sole, *Parophrys vetulus;* flathead sole, *Hippoglossoides elassodon;* Pacific sanddab, *Citharichthys sordidus;* petrale sole, *Eopsetta jordani;* rex sole, *Glyptocephalus zachirus;* rock sole, *Lepidopsetta bilineata;* sand sole, *Psettichthys melanostictus;* starry flounder, *Platichthys stellatus.* Where regulations of subparts C through G of this part refer to landings limits for “other flatfish,” those limits apply to all flatfish cumulatively taken except for those flatfish species specifically listed in Tables 1a and 2a of this subpart. (*i.e.,* “other flatfish” includes butter sole, curlfin sole, flathead sole, Pacific sanddab, rex sole, rock sole, and sand sole.)
 
@@ -294,15 +290,15 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Mobile transceiver unit* means a vessel monitoring system or VMS device, as set forth at § 660.14, subpart C installed on board a vessel that is used for vessel monitoring and transmitting the vessel's position as required by subpart C.
 
-*Non-groundfish fishery* means any fishing using non-groundfish trawl gear or nontrawl gear when targeting salmon, HMS, CPS, crab, prawn, or any other species not managed under the PCGFMP. Non-groundfish fishery is sometimes referred to as the incidental open access fishery in which groundfish could be encountered with the gear used, regardless of whether groundfish is retained.
+*Non-groundfish fishery* means any fishing using non-groundfish trawl gear or non-trawl gear when targeting salmon, HMS, CPS, crab, prawn, or any other species not managed under the PCGFMP. Non-groundfish fishery is sometimes referred to as the incidental open access fishery in which groundfish could be encountered with the gear used, regardless of whether groundfish is retained.
 
 *Non-groundfish trawl (previously “exempted” trawl)* means any trawl gear other than the Pacific Coast groundfish trawl gear that is authorized for use with a valid groundfish limited entry permit endorsed for trawl gear. Non-groundfish trawl gear includes trawl gear used to fish for pink shrimp, ridgeback prawn, California halibut south of Pt. Arena, and sea cucumbers south of Pt. Arena.
 
 *Nontrawl fishery* means
 
-(1) For the purpose of allocations at § 660.55, subpart C, nontrawl fishery means the limited entry fixed gear fishery, the open access fishery, and the recreational fishery.
+(1) For the purpose of allocations at § 660.55, subpart C, non-trawl fishery means the limited entry fixed gear fishery, the open access fishery, and the recreational fishery.
 
-(2) For the purposes of all other management measures in subparts C through G of this part, nontrawl fishery means fishing with any legal limited entry fixed gear or open access non-trawl groundfish gear other than trawl gear (groundfish trawl gear and non-groundfish trawl gear), but does not include the recreational fishery.
+(2) For the purposes of all other management measures in subparts C through G of this part, non-trawl fishery means fishing with any legal limited entry fixed gear or open access non-trawl groundfish gear other than trawl gear (groundfish trawl gear and non-groundfish trawl gear), but does not include the recreational fishery.
 
 *North-South management area* means the management areas defined in paragraph (1) of this definition, or defined and bounded by one or more or the commonly used geographic coordinates set out in paragraph (2) of this definition for the purposes of implementing different management measures in separate geographic areas of the U.S. West Coast.
 
@@ -421,9 +417,9 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Open access fishery* means the fishery composed of commercial vessels using open access gear fished pursuant to the harvest guidelines, quotas, and other management measures governing the harvest of open access allocations (detailed in § 660.55) or governing the fishing activities of open access vessels (detailed in subpart F of this part). Any commercial vessel that is not registered to a limited entry permit and which takes and retains, possesses or lands groundfish is a participant in the open access groundfish fishery.
 
-(1) For the purpose of the non-trawl logbook requirements at § 660.13 and the provision to fish inside the nontrawl RCA at § 660.330(b)(3), directed open access fishery means that a fishing vessel is target fishing for groundfish under the requirements of 50 CFR 660 subpart F, is only declared into an open access groundfish gear type or sector as defined in § 660.13(d)(4)(iv)(A), and has not declared into any other gear type or sector.
+(1) *Directed open access fishery* means that a fishing vessel is target fishing (defined at § 660.11) for groundfish and is only declared into a directed open access groundfish gear type or sector as defined in § 660.13(d)(4)(iv)(A). In addition to the requirements in subpart F of this part, fishing vessels participating in the directed open access fishery must be registered to a directed open access permit described at § 660.25(i) and are also subject to the non-trawl logbook requirement at § 660.13(a)(3).
 
-(2) [Reserved]
+(2) *Incidental open access fishery* means that a fishing vessel is retaining groundfish incidentally to a non-groundfish target species (see “Incidental catch or incidental species”).
 
 *Open access gear* means all types of fishing gear except:
 
@@ -545,4 +541,4 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Weighted gear* means any fishing gear that is combined with an object intended to make the bait, lure or hook sink (*e.g.* lead or steel sinkers).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019; 84 FR 63972, Nov. 19, 2019; 85 FR 35600, June 11, 2020; 85 FR 79892, Dec. 11, 2020; 86 FR 10867, Feb. 23, 2021; 87 FR 59728, Oct. 3, 2022; 87 FR 77014, Dec. 16, 2022; 88 FR 83840, Dec. 1, 2023]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019; 84 FR 63972, Nov. 19, 2019; 85 FR 35600, June 11, 2020; 85 FR 79892, Dec. 11, 2020; 86 FR 10867, Feb. 23, 2021; 87 FR 59728, Oct. 3, 2022; 87 FR 77014, Dec. 16, 2022; 88 FR 83840, Dec. 1, 2023; 89 FR 101522, Dec. 16, 2024]

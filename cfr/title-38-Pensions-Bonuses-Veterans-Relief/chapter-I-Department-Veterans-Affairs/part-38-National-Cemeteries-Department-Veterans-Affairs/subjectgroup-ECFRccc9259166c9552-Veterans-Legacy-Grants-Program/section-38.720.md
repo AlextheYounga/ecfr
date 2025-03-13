@@ -1,5 +1,7 @@
 ##### § 38.720 Grants—general. #####
 
+Link to an amendment published at 89 FR 107003, Dec. 31, 2024.
+
 (a) *Grants.* VA may award VLGP grants to eligible recipients selected under § 38.730 of this part.
 
 (b) *Maximum amounts.* The maximum grant amount to be awarded to each grantee and the total maximum amount for all grants will be specified in the annually published NOFA.

@@ -1,7 +1,7 @@
-##### § 93.314 Institutional appeals. #####
+##### § 93.314 Decision by the Institutional Deciding Official. #####
 
-(a) While not required by this part, if the institution's procedures provide for an appeal by the respondent that could result in a reversal or modification of the findings of research misconduct in the investigation report, the institution must complete any such appeal within 120 days of its filing. Appeals from personnel or similar actions that would not result in a reversal or modification of the findings of research misconduct are excluded from the 120-day limit.
+The Institutional Deciding Official is responsible for making a final determination of research misconduct findings. This determination must be provided in a written decision that includes:
 
-(b) If unable to complete any appeals within 120 days, the institution must ask ORI for an extension in writing and provide an explanation for the request.
+(a) Whether the institution found research misconduct and, if so, who committed the misconduct; and
 
-(c) ORI may grant requests for extension for good cause. If ORI grants an extension, it may direct the institution to file periodic progress reports.
+(b) A description of relevant institutional actions taken or to be taken.

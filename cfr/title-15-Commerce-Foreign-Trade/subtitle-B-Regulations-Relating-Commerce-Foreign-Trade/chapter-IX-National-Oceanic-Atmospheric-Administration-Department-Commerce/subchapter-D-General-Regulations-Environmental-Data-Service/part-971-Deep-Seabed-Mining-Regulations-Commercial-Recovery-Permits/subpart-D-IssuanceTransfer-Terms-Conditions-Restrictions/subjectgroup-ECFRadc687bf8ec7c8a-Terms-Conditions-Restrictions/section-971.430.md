@@ -1,0 +1,3 @@
+##### § 971.430 Other Federal requirements. #####
+
+Pursuant to § 971.211, another Federal agency, or a State acting under Federal authority, upon review of a commercial recovery permit application submitted under this part, may propose that certain TCRs be added to the permit, to assure compliance with any law or regulation within that agency's area of responsibility. The Administrator will include appropriate TCRs in a permit.

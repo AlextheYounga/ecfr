@@ -1,3 +1,3 @@
-##### § 93.215 Investigation. #####
+##### § 93.215 Inquiry. #####
 
-*Investigation* means the formal development of a factual record and the examination of that record leading to a decision not to make a finding of research misconduct or to a recommendation for a finding of research misconduct which may include a recommendation for other appropriate actions, including administrative actions.
+Inquiry means preliminary information-gathering and preliminary fact-finding that meets the criteria and follows the procedures of § 93.307 through § 93.309.

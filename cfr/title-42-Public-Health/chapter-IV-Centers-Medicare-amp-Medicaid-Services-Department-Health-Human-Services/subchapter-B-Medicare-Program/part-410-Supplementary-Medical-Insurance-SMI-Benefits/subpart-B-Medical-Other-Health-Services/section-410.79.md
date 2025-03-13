@@ -1,7 +1,5 @@
 ##### § 410.79 Medicare Diabetes Prevention Program expanded model: Conditions of coverage. #####
 
-Link to an amendment published at 89 FR 98557, Dec. 9, 2024.
-
 (a) Medicare Diabetes Prevention Program (MDPP) services will be available beginning on April 1, 2018.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 98557, Dec. 9, 2024.
 
 *CDC-approved DPP curriculum* refers to the content of the core sessions, core maintenance sessions, and ongoing maintenance sessions. The curriculum may be either the CDC-preferred curriculum as designated by the CDC DPRP Standards or an alternative curriculum approved for use in DPP by the CDC.
 
-*Combination delivery.* MDPP sessions that are delivered by trained Coaches and are furnished in a manner consistent with the DPRP Standards for distance learning and in-person sessions for each individual participant.
+*Combination with an online component* refers to sessions that are delivered as a combination of online (non-live) with in-person or distance learning.
 
 *Core maintenance session* means an MDPP service that—
 
@@ -40,6 +38,8 @@ Link to an amendment published at 89 FR 98557, Dec. 9, 2024.
 
 *Full-Plus CDC DPRP recognition* refers to organizations that have met the Full CDC DPRP recognition, and at the time full recognition is achieved, has met the following retention criterion: Eligible participants in the evaluation cohort must have been retained at the following percentages: A minimum of 50 percent at the beginning of the fourth month since the cohorts held their first sessions; A minimum of 40 percent at the beginning of the seventh month since the cohorts held their first sessions; and A minimum of 30 percent at the beginning of the tenth month since the cohorts held their first sessions.
 
+*In-person with a distance learning component* refers to DPP sessions that are delivered in person by trained Coaches where participants have the option of attending sessions via MDPP distance learning.
+
 *Make-up session* means a core session or a core maintenance session furnished to an MDPP beneficiary when the MDPP beneficiary misses a regularly scheduled core session or core maintenance session.
 
 *MDPP beneficiary* means a Medicare beneficiary who meets the criteria specified in paragraph (c)(1)(i) of this section, who has initiated the MDPP services period by attending the first core session, and for whom the MDPP services period has not ended as specified in paragraph (c)(3) of this section.
@@ -58,11 +58,11 @@ Link to an amendment published at 89 FR 98557, Dec. 9, 2024.
 
 *Ongoing maintenance session interval* means one of the up to four consecutive 3-month time periods during the ongoing services period described in paragraph (c)(2)(ii) of this section, during which an MDPP supplier offers at least one ongoing maintenance session to an MDPP beneficiary per month.
 
-*Online delivery* refers to an MDPP session that is delivered online for all participants and is furnished in a manner consistent with the DPRP Standards for online sessions. The program is experienced through the internet via phone, tablet, laptop, in an asynchronous classroom where participants are experiencing the content on their own time without a live Coach teaching the content. However, live Coach interaction should be provided to each participant no less than once per week during the first 6 months and once per month during the second 6 months. Emails and text messages can count toward the requirement for live coach interaction as long as there is bi-directional communication between coach and participant.
+*Online* means sessions that are delivered 100 percent through the internet via phone, tablet, or laptop in an asynchronous (non-live) classroom where participants are experiencing the content on their own time without a live (including non-artificial intelligence (AI)) Coach teaching the content. These sessions must be furnished in a manner consistent with the DPRP Standards for online sessions. Live Coach interaction must be offered to each participant during weeks when the participant has engaged with content. Emails and text messages can count toward the requirement for live Coach interaction if there is bi-directional communication between the Coach and participant. Chat bots and AI forums do not count as live Coach interaction.
 
 *Required minimum weight loss* refers to the percentage by which the beneficiary's updated weight is less than the baseline weight. The required minimum weight loss percentage is 5 percent.
 
-*Set of MDPP services* means the series of MDPP sessions, composed of core sessions, core maintenance sessions, and subject to paragraph (c)(3) of this section, ongoing maintenance sessions, offered over the course of the MDPP services period.
+*Set of MDPP services* means the series of MDPP sessions, composed of core sessions and core maintenance sessions, and subject to paragraph (c)(3) of this section offered over the course of the MDPP services period.
 
 *Virtual make-up session* means a make-up session that is not furnished in person and that is furnished in a manner consistent with the DPRP standards for virtual sessions.
 
@@ -100,7 +100,7 @@ Link to an amendment published at 89 FR 98557, Dec. 9, 2024.
 
 (ii) [Reserved]
 
-(d) *Make-up sessions.* (1) An MDPP supplier may offer a make-up session to an MDPP beneficiary who missed a regularly scheduled session. If an MDPP supplier offers one or more make-up sessions to an MDPP beneficiary, each such session must be furnished in accordance with the following requirements:
+(d) *Make-up sessions.* (1) An MDPP supplier may offer a make-up session to an MDPP beneficiary who missed a regularly scheduled session. MDPP make-up sessions may only use in-person or distance learning delivery. If an MDPP supplier offers one or more make-up sessions to an MDPP beneficiary, each such session must be furnished in accordance with the following requirements:
 
 (i) The curriculum furnished during the make-up session must address the same CDC-approved DPP curriculum topic as the regularly scheduled session that the beneficiary missed;
 
@@ -144,7 +144,7 @@ Link to an amendment published at 89 FR 98557, Dec. 9, 2024.
 
 (B) Via digital technology, such as scales that transmit weights securely via wireless or cellular transmission; or
 
-(C) Self-reported weight measurements from the at-home digital scale of the MDPP beneficiary. Self-reported weights must be obtained during live, synchronous online video technology, such as video chatting or video conferencing, wherein the MDPP coach observes the beneficiary weighing themselves and views the weight indicated on the at-home digital scale, a date-stamped photo or video recording of the beneficiary's weight with the beneficiary visible on the scale, or a recording of the beneficiary's weight, with the beneficiary visible on the scale, submitted by the MDPP beneficiary to the MDPP supplier. The photo or video must clearly document the weight of the MDPP beneficiary as it appears on his/her digital scale on the date associated with the billable MDPP session.
+(C) Self-reported weight measurements from the at-home digital scale of the MDPP beneficiary. Self-reported weights must be obtained during live, synchronous online video technology, such as video chatting or video conferencing, where in the MDPP Coach observes the beneficiary weighing themselves and views the weight indicated on the at-home digital scale, or the MDPP supplier receives one (1) or two (2) date-stamped photo(s) or a video recording of the beneficiary's weight, with the beneficiary visible on the scale, submitted by the MDPP beneficiary to the MDPP supplier. Photo or video must clearly document the weight of the MDPP beneficiary as it appears on their digital scale on the date associated with the billable MDPP session. If choosing to submit one photo, this photo must show the beneficiary's weight on the scale with the beneficiary visible in their home. If choosing to submit 2 photos, one photo must show the beneficiary's weight on the digital scale, and a second photo must show the beneficiary visible in their home. All photos must be date-stamped.
 
 (iv) The virtual session limits described in paragraphs (d)(2) and (d)(3)(i) and (ii) of this section do not apply, and MDPP suppliers may provide all MDPP sessions virtually, through distance learning or a combination of in-person or distance learning, during the PHE as defined in § 400.200 of this chapter or applicable 1135 waiver event. If the beneficiary began the MDPP services period virtually, or changed from in-person to virtual services during the Extended flexibilities period, a PHE as defined in § 400.200 of this chapter or applicable 1135 waiver event, he/she may continue to receive the Set of MDPP services virtually even after the PHE or 1135 waiver event has concluded, until the end of the beneficiary's MDPP services period, so long as the provision of virtual services complies with all of the following requirements:
 
@@ -164,7 +164,7 @@ Link to an amendment published at 89 FR 98557, Dec. 9, 2024.
 
 (*2*) Up to 6 virtual sessions offered monthly during the core maintenance session interval periods, months 7 through 12 of the MDPP services period.
 
-(*3*) No more than 12 virtual sessions offered monthly during the ongoing maintenance session intervals, months 13 through 24.
+(*3*) No more than 12 virtual sessions offered monthly during the ongoing maintenance session intervals, months 13 through 24 for beneficiaries enrolled before January 1, 2022.
 
 (v) MDPP suppliers may suspend the in-person delivery of the set of MDPP services, when necessary due to the applicable 1135 waiver event, and subsequently resume in-person services either upon the end date of the 1135 waiver event emergency period or an effective date specified by CMS. Upon resumption of the set of MDPP services on an in-person basis, the following paragraphs apply:
 
@@ -182,8 +182,8 @@ Link to an amendment published at 89 FR 98557, Dec. 9, 2024.
 
 (*1*) For an MDPP beneficiary who began receiving the set of MDPP services before March 31, 2020, has suspended services during an applicable 1135 waiver event, and then elects to restart the set of MDPP services at the first core session, the MDPP supplier must record a new baseline weight on the date of first core session that restarts the set of MDPP services.
 
-(*2*) For an MDPP beneficiary who began receiving the set of MDPP services on or after January 1, 2021, has suspended services during an applicable 1135 waiver event, and then resumes the set of MDPP services either at the most recent attendance session of record or restarts the ongoing maintenance session interval in which they were participating at the start of the applicable 1135 waiver event, the MDPP supplier must use the baseline weight recorded at the beneficiary's first core session.
+(*2*) For an MDPP beneficiary who began receiving the Set of MDPP services on or after January 1, 2021, has suspended services during an applicable 1135 waiver event, the MDPP supplier must use the baseline weight recorded at the beneficiary's first core session.
 
 (vi) The minimum weight loss requirements for beneficiary eligibility in the ongoing maintenance session intervals described in paragraphs (c)(1)(ii)(B) and (c)(1)(iii)(B) of this section are waived only for MDPP beneficiaries who were receiving the MDPP set of services prior to January 1, 2021.
 
-[81 FR 80552, Nov. 15, 2016; 81 FR 81698, Nov. 18, 2016, as amended at 82 FR 53358, Nov. 15, 2017; 85 FR 19287, Apr. 6, 2020; 85 FR 85027, Dec. 28, 2020; 86 FR 65666, Nov. 19, 2021; 88 FR 79528, Nov. 16, 2023]
+[81 FR 80552, Nov. 15, 2016; 81 FR 81698, Nov. 18, 2016, as amended at 82 FR 53358, Nov. 15, 2017; 85 FR 19287, Apr. 6, 2020; 85 FR 85027, Dec. 28, 2020; 86 FR 65666, Nov. 19, 2021; 88 FR 79528, Nov. 16, 2023; 89 FR 98557, Dec. 9, 2024]

@@ -1,10 +1,10 @@
 ##### § 387.307 Property broker surety bond or trust fund. #####
 
-This section is effective January 16, 2025.
+This section is effective January 16, 2026.
 
 (a) *Security.* A broker must have a surety bond or trust fund of $75,000 in effect. FMCSA will not register a broker until a surety bond or trust fund for the full limits of liability prescribed herein is in effect. The broker registration shall remain in effect only as long as a surety bond or trust fund remains in effect and shall ensure the financial responsibility of the broker. Evidence of a surety bond must be filed using FMCSA's prescribed Form BMC-84. Evidence of a trust fund with a financial institution must be filed using FMCSA's prescribed Form BMC-85. The surety bond or the trust fund shall ensure the financial responsibility of the broker by providing for payments to shippers or motor carriers if the broker fails to carry out its contracts, agreements, or arrangements for the supplying of transportation by authorized motor carriers.
 
-(b) *Acceptable assets.* Beginning on January 16, 2026, trust funds under this section must contain assets aggregating to $75,000 that can be liquidated to cash within 7 calendar days. As of this date, acceptable assets included in any trust fund filed under this section are limited to cash, irrevocable letters of credit issued by a federally insured depository institution, and Treasury bonds.
+(b) *Acceptable assets.* Trust funds under this section must contain assets aggregating to $75,000 that can be liquidated to cash within 7 calendar days. Acceptable assets included in any trust fund filed under this section are limited to cash, irrevocable letters of credit issued by a federally insured depository institution, and Treasury bonds.
 
 (c) *Financial institution.* When used in this section and in forms prescribed under this section, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, shall mean each agent, agency, branch or office within the United States of any person, as defined by the ICC Termination Act, doing business in one or more of the capacities:
 
@@ -18,11 +18,9 @@ This section is effective January 16, 2025.
 
 (5) A thrift institution (savings bank, building and loan association, credit union, industrial bank or other);
 
-(6) An insurance company;
+(6) An insurance company; or
 
-(7) Until January 16, 2026, a loan or finance company; or
-
-(8) A person subject to supervision by any State or Federal bank supervisory authority.
+(7) A person subject to supervision by any State or Federal bank supervisory authority.
 
 (d) *Forms and Procedures.* (1) Forms for broker surety bonds and trust agreements. Form BMC-84 broker surety bond will be filed with FMCSA for the full security limits under paragraph (a) of this section; or Form BMC-85 broker trust fund agreement will be filed with FMCSA for the full security limits under paragraph (a) of this section.
 
@@ -76,4 +74,4 @@ This section is effective January 16, 2025.
 
 (2) If FMCSA initiates a suspension action pursuant to paragraph (g)(1) of this section it shall provide written notice to the surety company or financial institution, provide 30 calendar days (extended to the next business day if the final day of the period falls on a weekend or Federal holiday) for the surety company or financial institution to provide evidence contesting such proposed suspension, and then render a final decision in writing.
 
-[88 FR 78672, Nov. 16, 2023]Effective Date Note:At 88 FR 78656, Nov. 16, 2023, § 387.307 was stayed, effective Jan. 16, 2024, until Jan. 16, 2025.Editorial Note:At 89 FR 90622, Nov. 18, 2024, § 387.307 was amended; however, the amendment could not be incorporated because the section was stayed.
+[88 FR 78672, Nov. 16, 2023, as amended at 89 FR 107026, Dec. 31, 2024]Effective Date Note:At 88 FR 78656, Nov. 16, 2023, § 387.307 was stayed, effective Jan. 16, 2024, until Jan. 16, 2025. At 89 FR 107026, Dec. 31, 2024, the suspension was lifted and § 387.307 was amended. In that same document, § 387.307 was again stayed, effective Dec. 31, 2024, until Jan. 16, 2026.

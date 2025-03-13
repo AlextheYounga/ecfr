@@ -1,7 +1,5 @@
 ##### § 419.2 Basis of payment. #####
 
-Link to an amendment published at 89 FR 94589, Nov. 27, 2024.
-
 (a) *Unit of payment.* Under the hospital outpatient prospective payment system, predetermined amounts are paid for designated services furnished to Medicare beneficiaries. These services are identified by codes established under the Centers for Medicare & Medicaid Services Common Procedure Coding System (HCPCS). The prospective payment rate for each service or procedure for which payment is allowed under the hospital outpatient prospective payment system is determined according to the methodology described in subpart C of this part. The manner in which the Medicare payment amount and the beneficiary copayment amount for each service or procedure are determined is described in subpart D of this part.
 
 (b) *Determination of hospital outpatient prospective payment rates: Packaged costs.* The prospective payment system establishes a national payment rate, standardized for geographic wage differences, that includes operating and capital-related costs that are integral, ancillary, supportive, dependent, or adjunctive to performing a procedure or furnishing a service on an outpatient basis. In general, these packaged costs may include, but are not limited to, the following items and services, the payment for which are packaged or conditionally packaged into the payment for the related procedures or services.
@@ -34,7 +32,7 @@ Link to an amendment published at 89 FR 94589, Nov. 27, 2024.
 
 (14) Intraoperative items and services;
 
-(15) Drugs, biologicals, and radiopharmaceuticals that function as supplies when used in a diagnostic test or procedure (including but not limited to, diagnostic radiopharmaceuticals, contrast agents, and pharmacologic stress agents;
+(15) Drugs, biologicals, and radiopharmaceuticals that function as supplies when used in a diagnostic test or procedure (including but not limited to, diagnostic radiopharmaceuticals with per-day costs at or below the per-day diagnostic radiopharmaceutical packaging threshold for the applicable year, contrast agents, and pharmacologic stress agents);
 
 (16) Drugs and biologicals that function as supplies when used in a surgical procedure (including, but not limited to, skin substitutes and similar products that aid wound healing and implantable biologicals);
 
@@ -60,4 +58,4 @@ Link to an amendment published at 89 FR 94589, Nov. 27, 2024.
 
 (8) Corneal tissue acquisition or procurement costs for corneal transplant procedures.
 
-[65 FR 18542, Apr. 7, 2000, as amended at 66 FR 59922, Nov. 30, 2001; 70 FR 47490, Aug. 12, 2005; 77 FR 68558, Nov. 15, 2012; 78 FR 75196, Dec. 10, 2013; 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015]
+[65 FR 18542, Apr. 7, 2000, as amended at 66 FR 59922, Nov. 30, 2001; 70 FR 47490, Aug. 12, 2005; 77 FR 68558, Nov. 15, 2012; 78 FR 75196, Dec. 10, 2013; 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 89 FR 94589, Nov. 27, 2024]

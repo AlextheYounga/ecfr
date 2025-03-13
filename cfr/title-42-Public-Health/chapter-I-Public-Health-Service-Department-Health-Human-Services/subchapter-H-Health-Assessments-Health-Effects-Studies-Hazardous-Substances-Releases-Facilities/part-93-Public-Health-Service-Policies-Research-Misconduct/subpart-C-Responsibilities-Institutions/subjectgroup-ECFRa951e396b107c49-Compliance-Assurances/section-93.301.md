@@ -1,9 +1,13 @@
-##### § 93.301 Institutional assurances. #####
+##### § 93.301 Research integrity assurances. #####
 
-(a) *General policy.* An institution with PHS supported biomedical or behavioral research, research training or activities related to that research or research training must provide PHS with an assurance of compliance with this part, satisfactory to the Secretary. PHS funding components may authorize funds for biomedical and behavioral research, research training, or activities related to that research or research training only to institutions that have approved assurances and required renewals on file with ORI.
+(a) *General policy.* (1) An institution that applies for or receives PHS support for biomedical or behavioral research, biomedical or behavioral research training, or activities related to that research or research training, must provide HHS with an assurance of compliance with this part by establishing and then maintaining an active research integrity assurance.
 
-(b) *Institutional Assurance.* The responsible institutional official must assure on behalf of the institution that the institution—
+(2) PHS funding components may only authorize release of funds for extramural biomedical and behavioral research, biomedical and behavioral research training, or activities related to that research or research training, to institutions with an active research integrity assurance on file with ORI.
 
-(1) Has written policies and procedures in compliance with this part for inquiring into and investigating allegations of research misconduct; and
+(b) *Research integrity assurance.* The Institutional Certifying Official must assure on behalf of the institution, initially and then annually thereafter, that the institution:
 
-(2) Complies with its own policies and procedures and the requirements of this part.
+(1) Has written policies and procedures for addressing allegations of research misconduct, in compliance with this part.
+
+(2) Complies with its policies and procedures for addressing allegations of research misconduct.
+
+(3) Complies with all provisions of this part.

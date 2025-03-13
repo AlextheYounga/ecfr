@@ -1,0 +1,5 @@
+##### § 1005.909 Appeals process. #####
+
+(a) Lenders denied participation in the Section 184 Program pursuant to subpart B of this part, or a Direct Guarantee Lender, Non-Direct Guarantee Lender, Holder, or Servicer subject to sanctions pursuant to § 1005.907, may appeal to HUD's Office of Loan Guarantee within 15 days, or other timeframe as prescribed in Section 184 Program Guidance. After consideration of the Lender, Direct Guarantee Lender, Non-Direct Guarantee Lender, Holder or Servicer's appeal, HUD shall advise the Lender, Direct Guarantee Lender, Non-Direct Guarantee Lender, Holder or Servicer in writing whether the denial is rescinded, modified or affirmed. The Lender, Direct Guarantee Lender, Non-Direct Guarantee Lender, Holder, or Servicer may then appeal such decision to the Deputy Assistant Secretary for Office of Native American Programs, or his or her designee. A decision by the Deputy Assistant Secretary or designee shall constitute final agency action.
+
+(b) Hearings to challenge the imposition of civil money penalties shall be conducted according to the applicable rules of 24 CFR part 30.

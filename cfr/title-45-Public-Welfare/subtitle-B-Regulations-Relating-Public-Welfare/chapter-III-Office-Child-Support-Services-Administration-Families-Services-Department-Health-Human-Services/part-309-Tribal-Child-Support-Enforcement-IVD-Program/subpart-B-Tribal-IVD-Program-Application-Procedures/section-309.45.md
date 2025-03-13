@@ -1,5 +1,7 @@
 ##### § 309.45 When and how may a Tribe or Tribal organization request reconsideration of a disapproval action? #####
 
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+
 (a) Except as specified under paragraphs (g) and (h) of this section, a Tribe or Tribal organization may request reconsideration of the disapproval of a Tribal IV-D application, plan or plan amendment by filing a written Request for Reconsideration to the Secretary within 60 days of the date of the Notice of Disapproval.
 
 (b) The Request for Reconsideration must include:

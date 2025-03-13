@@ -1,5 +1,7 @@
 ##### § 310.5 What options are available for Computerized Tribal IV-D Systems and office automation? #####
 
+Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
+
 (a) *Allowable computerized support enforcement systems for a Comprehensive Tribal IV-D agency.* A comprehensive Tribal IV-D agency may have in effect an operational computerized support enforcement system that meets Federal requirements under this part.
 
 (b) *Computerized Tribal IV-D Systems.* A Computerized Tribal IV-D System must be one of the design options listed below. A comprehensive Tribal IV-D program may automate its case processing and recordkeeping processes through:

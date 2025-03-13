@@ -1,3 +1,3 @@
-##### § 93.216 Notice. #####
+##### § 93.216 Institution. #####
 
-*Notice* means a written communication served in person, sent by mail or its equivalent to the last known street address, facsimile number or e-mail address of the addressee. Several sections of Subpart E of this part have special notice requirements.
+Institution means any person that applies for or receives PHS support for any activity or program that involves the conduct of biomedical or behavioral research, biomedical or behavioral research training, or activities related to that research or training. This includes, but is not limited to, colleges and universities, PHS intramural biomedical or behavioral research laboratories, research and development centers, national user facilities, industrial laboratories or other research institutes, research institutions, and independent researchers.

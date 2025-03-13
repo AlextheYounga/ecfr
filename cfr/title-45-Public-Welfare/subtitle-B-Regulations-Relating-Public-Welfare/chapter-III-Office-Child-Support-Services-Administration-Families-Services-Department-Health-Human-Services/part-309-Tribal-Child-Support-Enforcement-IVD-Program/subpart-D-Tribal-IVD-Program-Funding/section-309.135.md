@@ -1,5 +1,7 @@
 ##### § 309.135 What requirements apply to funding, obligating and liquidating Federal title IV-D grant funds? #####
 
+Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
+
 (a) *Funding period*—(1) *Ongoing funding.* Federal title IV-D grant funds will be awarded to Tribes and Tribal organizations for use during a 12-month period equivalent to the Federal fiscal year of October 1 through September 30.
 
 (2) *Initial grant.* A Tribe or Tribal organization may request that its initial IV-D grant be awarded for a funding period of less than one year (but at least six months) or more than one year (but not to exceed 17 months) to enable its program funding cycle to coincide with the funding period specified in paragraph (a)(1) of this section.

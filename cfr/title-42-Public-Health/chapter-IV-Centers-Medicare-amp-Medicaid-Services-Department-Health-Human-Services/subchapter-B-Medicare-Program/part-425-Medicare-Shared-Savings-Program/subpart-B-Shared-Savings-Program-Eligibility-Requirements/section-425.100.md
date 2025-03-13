@@ -1,7 +1,5 @@
 ##### § 425.100 General. #####
 
-Link to an amendment published at 89 FR 98566, Dec. 9, 2024.
-
 (a) Under the Shared Savings Program, ACO participants may work together to manage and coordinate care for Medicare fee-for-service beneficiaries through an ACO that meets the criteria specified in this part. The ACO must become accountable for the quality, cost, and overall care of the Medicare fee-for-service beneficiaries assigned to the ACO.
 
 (b) An ACO is eligible to receive payments for shared savings under subpart G of this part if all of the following conditions are met:
@@ -16,4 +14,6 @@ Link to an amendment published at 89 FR 98566, Dec. 9, 2024.
 
 (d) An ACO is eligible to receive advance investment payments if it meets the criteria under § 425.630(b).
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32834, June 9, 2015; 83 FR 60092, Nov. 23, 2018; 83 FR 68083, Dec. 31, 2018; 85 FR 85038, Dec. 28, 2020; 87 FR 70232, Nov. 18, 2022]
+(e) An ACO is eligible to receive prepaid shared savings if it meets the criteria under § 425.640(b).
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32834, June 9, 2015; 83 FR 60092, Nov. 23, 2018; 83 FR 68083, Dec. 31, 2018; 85 FR 85038, Dec. 28, 2020; 87 FR 70232, Nov. 18, 2022; 89 FR 98566, Dec. 9, 2024]

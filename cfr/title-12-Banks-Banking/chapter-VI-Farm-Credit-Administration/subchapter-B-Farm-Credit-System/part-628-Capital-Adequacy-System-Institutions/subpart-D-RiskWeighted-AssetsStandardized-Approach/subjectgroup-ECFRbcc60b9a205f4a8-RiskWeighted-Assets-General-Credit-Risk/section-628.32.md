@@ -1,7 +1,5 @@
 ##### § 628.32 General risk weights. #####
 
-Link to an amendment published at 89 FR 25130, Apr. 10, 2024.
-
 (a) *Sovereign exposures*—(1) *Exposures to the U.S. Government.* (i) Notwithstanding any other requirement in this subpart, a System institution must assign a 0-percent risk weight to:
 
 (A) An exposure to the U.S. Government, its central bank, or a U.S. Government agency; and
@@ -142,7 +140,9 @@ Link to an amendment published at 89 FR 25130, Apr. 10, 2024.
 
 (4) A loan modified or restructured solely pursuant to the U.S. Treasury's Home Affordable Mortgage Program is not modified or restructured for purposes of this section.
 
-(h)-(j) [Reserved]
+(h)-(i) [Reserved]
+
+(j) *High volatility commercial real estate (HVCRE) exposures.* A System institution must assign a 150-percent risk weight to an HVCRE exposure.
 
 (k) *Past due and nonaccrual exposures.* Except for a sovereign exposure or a residential mortgage exposure, a System institution must determine a risk weight for an exposure that is 90 days or more past due or in nonaccrual status according to the requirements set forth in this paragraph (k).
 
@@ -164,4 +164,4 @@ Link to an amendment published at 89 FR 25130, Apr. 10, 2024.
 
 (6) [Reserved]
 
-[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021]
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021; 89 FR 25130, Apr. 10, 2024]

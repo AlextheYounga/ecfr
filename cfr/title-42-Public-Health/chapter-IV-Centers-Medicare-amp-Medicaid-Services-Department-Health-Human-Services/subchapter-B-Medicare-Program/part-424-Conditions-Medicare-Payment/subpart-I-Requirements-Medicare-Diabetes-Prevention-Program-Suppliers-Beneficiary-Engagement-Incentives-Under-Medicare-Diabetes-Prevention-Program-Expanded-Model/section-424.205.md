@@ -1,7 +1,5 @@
 ##### § 424.205 Requirements for Medicare Diabetes Prevention Program suppliers. #####
 
-Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
-
 (a) *Definitions.* In addition to the definitions specified at § 410.79(b) and § 414.84(a) of this subchapter, the following definitions apply to this section:
 
 *Administrative location* means a physical location associated with the MDPP supplier's operations where they are the primary operator in the space, from where coaches are dispatched or based, and where MDPP services may or may not be furnished.
@@ -78,9 +76,9 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (10) Except as allowed under paragraph (d)(8) of this section, the MDPP supplier must offer an MDPP beneficiary no fewer than all of the following:
 
-(i) 16 in-person core sessions no more frequently than weekly for the first 6 months of the MDPP services period, which beginnings on the date of attendance at the first such core session.
+(i) 16 in-person or distance learning core sessions no more frequently than weekly for the first 6 months of the MDPP services period, which begins on the date of attendance at the first such core session.
 
-(ii) 1 in-person core maintenance session each month during months 7 through 12 (6 months total) of the MDPP services period.
+(ii) 1 in-person or distance learning core maintenance session each month during months 7 through 12 (6 months total) of the MDPP services period.
 
 (11) Before the initial core session is furnished, the MDPP supplier must disclose detailed information about the set of MDPP services to each MDPP beneficiary to whom it wishes to begin furnishing MDPP services. Such information must include all of the following:
 
@@ -140,13 +138,13 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (i) Organizational information, including MDPP supplier name, CDC DPRP number, and NPI.
 
-(ii) Basic beneficiary information for each MDPP beneficiary in attendance, including but not limited to beneficiary name, HICN, or MBI, age.
+(ii) Basic beneficiary information for each MDPP beneficiary in attendance, including but not limited to beneficiary name, Medicare Beneficiary Identifier (MBI), and age.
 
 (iii) Evidence that each such beneficiary satisfied the eligibility requirements under § 410.79(c) of this chapter at the time of service.
 
 (2) The documentation for each MDPP session attended by an MDPP must be established contemporaneous with the furnishing of MDPP services and must include at least all of the following:
 
-(i) Documentation of the type of session, whether a core session, a core maintenance session, an in-person make-up session, or a virtual make-up session.
+(i) Documentation of the type of session (in-person or distance learning).
 
 (ii) Identification of which CDC-approved DPRP curriculum was associated with the session.
 
@@ -162,13 +160,13 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (5) The MDPP supplier's records must include an attestation from the MDPP supplier that, as applicable, the MDPP beneficiary for which it is submitting a claim—
 
-(i) Has attended their first, fourth or ninth core session, as applicable, if the claim submitted is for a performance payment under § 414.84(b)(1), (2), or (3) of this chapter.
+(i) Has achieved the required minimum 5-percent weight loss as measured in accordance with § 410.79(e)(3)(iii) of this chapter during a core session or core maintenance session furnished by that supplier, if the claim submitted is for a performance payment under § 414.84(b)(1) of this chapter.
 
-(ii) Has attended at least three core maintenance sessions, achieved required minimum weight loss, or both, as applicable, if the claim submitted is for a performance payment under § 414.84(b)(4) of this chapter.
+(ii) Has achieved the required minimum 5-percent weight loss as measured in-person during a core session or core maintenance session furnished by that supplier, if the claim submitted is for a performance payment under § 414.84(b)(1) of this chapter.
 
-(iii) Has achieved at least a 9-percent weight loss percentage as measured in accordance with § 410.79(e)(3)(iii) of this chapter during a core session or core maintenance session furnished by that supplier, if the claim submitted is for a performance payment under § 414.84(b)(7) of this chapter.
+(iii) Has achieved at least a 9-percent weight loss percentage as measured in accordance with § 410.79(e)(3)(iii) of this chapter during a core session or core maintenance session furnished by that supplier, if the claim submitted is for a performance payment under § 414.84(b)(2) of this chapter.
 
-(iv) Has achieved at least a 9-percent weight loss percentage as measured in-person during a core session, core maintenance session, or ongoing maintenance session furnished by that supplier, if the claim submitted is for a performance payment under § 414.84(b)(7) of this chapter.
+(iv) Has achieved at least a 9-percent weight loss percentage as measured in-person during a core session or core maintenance session furnished by that supplier, if the claim submitted is for a performance payment under § 414.84(b)(2) of this chapter.
 
 (6) The MDPP supplier must maintain all records required under this section for a period of 10 years from the last day of the MDPP beneficiary's receipt of MDPP services provided by the MDPP supplier or from the date of completion of any audit, evaluation, inspection, or investigation, whichever is later, unless either of the following apply:
 
@@ -208,4 +206,4 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (2) An MDPP supplier may appeal an enrollment denial or revocation decision in accordance with the procedures specified in part 498 of this chapter. References to suppliers in that section apply to MDPP suppliers.
 
-[82 FR 53364, Nov. 15, 2017,as amended at 86 FR 65682, Nov. 19, 2021; 88 FR 79540, Nov. 16, 2023]
+[82 FR 53364, Nov. 15, 2017,as amended at 86 FR 65682, Nov. 19, 2021; 88 FR 79540, Nov. 16, 2023; 89 FR 98565, Dec. 9, 2024]

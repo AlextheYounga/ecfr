@@ -1,12 +1,14 @@
 ##### § 410.26 Services and supplies incident to a physician's professional services: Conditions. #####
 
-Link to an amendment published at 89 FR 98555, Dec. 9, 2024.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Auxiliary personnel* means any individual who is acting under the supervision of a physician (or other practitioner), regardless of whether the individual is an employee, leased employee, or independent contractor of the physician (or other practitioner) or of the same entity that employs or contracts with the physician (or other practitioner), has not been excluded from the Medicare, Medicaid and all other federally funded health care programs by the Office of Inspector General or had his or her Medicare enrollment revoked, and meets any applicable requirements to provide incident to services, including licensure, imposed by the State in which the services are being furnished.
 
-(2) *Direct supervision* means the level of supervision by the physician (or other practitioner) of auxiliary personnel as defined in § 410.32(b)(3)(ii).
+(2) *Direct supervision* means, except as provided in paragraphs (a)(2)(i) and (ii) of this section, the level of supervision by the physician (or other practitioner) of auxiliary personnel as defined in § 410.32(b)(3)(ii). For the following services furnished after December 31, 2025, the presence of the physician (or other practitioner) required for direct supervision may include virtual presence through audio/video real-time communications technology (excluding audio-only):
+
+(i) Services furnished incident to the services of a physician or other practitioner when provided by auxiliary personnel employed by the billing practitioner and working under their direct supervision and for which the underlying Healthcare Common Procedure Coding System (HCPCS) code has been assigned a PC/TC indicator of `5'.
+
+(ii) Office or other outpatient visits for the evaluation and management of an established patient that may not require the presence of a physician or other qualified health care practitioner.
 
 (3)  *General supervision* means the service is furnished under the physician's (or other practitioner's) overall direction and control, but the physician's (or other practitioner's) presence is not required during the performance of the service.
 
@@ -44,4 +46,4 @@ Link to an amendment published at 89 FR 98555, Dec. 9, 2024.
 
 (2) Physical therapy, occupational therapy and speech-language pathology services provided incident to a physician's professional services are subject to the provisions established in §§ 410.59(a)(3)(iii), 410.60(a)(3)(iii), and 410.62(a)(3)(ii).
 
-[51 FR 41339, Nov. 14, 1986, as amended at 66 FR 55328, Nov. 1, 2001; 67 FR 20684, Apr. 26, 2002; 69 FR 66421, Nov. 15, 2004; 77 FR 69361, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 14870, Mar. 20, 2015; 80 FR 71372, Nov. 16, 2015; 81 FR 80552, Nov. 15, 2016; 87 FR 70223, Nov. 18, 2022]
+[51 FR 41339, Nov. 14, 1986, as amended at 66 FR 55328, Nov. 1, 2001; 67 FR 20684, Apr. 26, 2002; 69 FR 66421, Nov. 15, 2004; 77 FR 69361, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 14870, Mar. 20, 2015; 80 FR 71372, Nov. 16, 2015; 81 FR 80552, Nov. 15, 2016; 87 FR 70223, Nov. 18, 2022; 89 FR 98555, Dec. 9, 2024]

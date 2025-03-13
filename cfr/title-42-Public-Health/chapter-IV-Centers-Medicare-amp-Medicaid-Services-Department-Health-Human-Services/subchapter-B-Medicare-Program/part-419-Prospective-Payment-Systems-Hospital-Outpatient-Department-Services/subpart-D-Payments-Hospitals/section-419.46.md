@@ -1,7 +1,5 @@
 ##### § 419.46 Requirements under the Hospital Outpatient Quality Reporting (OQR) Program. #####
 
-Link to an amendment published at 89 FR 94590, Nov. 27, 2024.
-
 (a) *Statutory authority.* Section 1833(t)(17) of the Act authorizes the Secretary to implement a quality reporting program in a manner so as to provide for a 2.0 percentage point reduction in the OPD fee schedule increase factor for a subsection (d) hospital (as defined in section 1886(d)(1)(B)) that does not submit data required to be submitted on measures in accordance with the Secretary's requirements in this part.
 
 (b) *Participation in the Hospital OQR Program.* To participate in the Hospital OQR Program, a hospital as defined in section 1886(d)(1)(B) of the Act and is paid under the OPPS must—
@@ -82,7 +80,7 @@ Link to an amendment published at 89 FR 94590, Nov. 27, 2024.
 
 (i) *Retention and removal of quality measures under the Hospital OQR Program*—(1) *General rule for the retention of quality measures.* Quality measures adopted for the Hospital OQR Program measure set for a previous payment determination year are retained for use in subsequent payment determination years, except when they are removed, suspended, or replaced as set forth in paragraphs (i)(2) and (3) of this section.
 
-(2) *Immediate measure removal.* For cases in which CMS believes that the continued use of a measure as specified raises patient safety concerns, CMS will immediately remove a quality measure from the Hospital OQR Program and will promptly notify hospitals and the public of the removal of the measure and the reasons for its removal through the Hospital OQR Program ListServ and the CMS website.
+(2) *Immediate measure suspension.* If CMS determines that the collection and reporting activities related to a measure potentially raise patient safety concerns, CMS will immediately suspend the measure from the Hospital OQR Program and promptly notify hospitals and the public of the suspension. CMS will propose to retain, modify, or remove the suspended measure in the next feasible rulemaking cycle.
 
 (3) *Measure removal, suspension, or replacement through the rulemaking process.* Unless a measure raises specific safety concerns as set forth in paragraph (i)(2) of this section, CMS will use the regular rulemaking process to remove, suspend, or replace quality measures in the Hospital OQR Program to allow for public comment.
 
@@ -112,4 +110,10 @@ Link to an amendment published at 89 FR 94590, Nov. 27, 2024.
 
 (iii) *Application of measure removal factors.* The benefits of removing a measure from the Hospital OQR Program will be assessed on a case-by-case basis. Under this case-by-case approach, a measure will not be removed solely on the basis of meeting any specific factor.
 
-[78 FR 75196, Dec. 10, 2013, as amended at 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 81 FR 79879, Nov. 14, 2016; 82 FR 52637, Nov. 13, 2017; 82 FR 59497, Dec. 14, 2017; 83 FR 59179, Nov. 21, 2018; 85 FR 86302, Dec. 29, 2020; 86 FR 63993, Nov. 16, 2021; 87 FR 72291, Nov. 23, 2022; 88 FR 82180, Nov. 22, 2023]
+(j) *Requirements for submission of electronic clinical quality measures (eCQMs) under the Hospital OQR Program.* (1) Hospitals must utilize certified technology updated to be consistent with the Office of the National Coordinator for Health Information Technology's health information technology (IT) certification criteria, as adopted and updated in 45 CFR 170.315.
+
+(2) Hospitals must use electronic health record technology certified to all eCQMs that are available to report under the Hospital OQR Program.
+
+(3) Hospitals must use the most recent version of the eCQM electronic measure specifications for the applicable reporting period available on the Electronic Clinical Quality Improvement Resource Center website at *https://ecqi.healthit.gov/*, or another website as designated by CMS.
+
+[78 FR 75196, Dec. 10, 2013, as amended at 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 81 FR 79879, Nov. 14, 2016; 82 FR 52637, Nov. 13, 2017; 82 FR 59497, Dec. 14, 2017; 83 FR 59179, Nov. 21, 2018; 85 FR 86302, Dec. 29, 2020; 86 FR 63993, Nov. 16, 2021; 87 FR 72291, Nov. 23, 2022; 88 FR 82180, Nov. 22, 2023; 89 FR 94590, Nov. 27, 2024]

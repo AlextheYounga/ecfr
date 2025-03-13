@@ -419,17 +419,17 @@
 
 (12) *Feathers that a falconry bird or birds molts.* (i) For imping (replacing a damaged feather with a molted feather), you may possess tail feathers and primary and secondary wing feathers for each species of raptor you possess or previously held for as long as you have a valid falconry permit. You may receive feathers for imping from other permitted falconers, wildlife rehabilitators, or propagators in the United States, and you may give feathers to them. You may not buy, sell, or barter such feathers.
 
-(ii) You may donate feathers from a falconry bird, except golden eagle feathers, to any person or institution with a valid permit to have them, or to anyone exempt from the permit requirement under § 21.12.
+(ii) You may donate feathers from a falconry bird, except golden eagle feathers, to any person or entity with a valid permit to possess them, or to anyone exempt from the permit requirement under the regulations in subpart B of this part.
 
 (iii) Except for primary or secondary flight feathers or retrices from a golden eagle, you are not required to gather feathers that are molted or otherwise lost by a falconry bird. You may leave the feathers where they fall, store them for imping, or destroy them. However, you must collect molted flight feathers and retrices from a golden eagle. If you choose not to keep them for imping, you must send them to the National Eagle Repository.
 
 (iv) We request that you send all feathers (including body feathers) that you collect from any falconry golden eagle and that you do not need for imping, to the National Eagle Repository at the following address: U.S. Fish and Wildlife Service, National Eagle Repository, Rocky Mountain Arsenal, Building 128, Commerce City, Colorado 80022. The telephone number at the Repository is 303-287-2110.
 
-(v) If your permit expires or is revoked, you must donate the feathers of any species of falconry raptor except a golden eagle to any person or any institution exempt from the permit requirement under § 21.12 or authorized by permit to acquire and possess the feathers. If you do not donate the feathers, you must burn, bury, or otherwise destroy them.
+(v) If your permit expires or is revoked, you must donate the feathers of any species of falconry raptor except a golden eagle to any person or any entity exempt from the permit requirement under the regulations in subpart B of this part or authorized by permit to acquire and possess the feathers. If you do not donate the feathers, you must burn, bury, or otherwise destroy them.
 
 (13) *Disposition of carcasses of falconry birds that die.* (i) You must send the entire body of a golden eagle you held for falconry, including all feathers, talons, and other parts, to the National Eagle Repository.
 
-(ii) You may donate the body or feathers of any other species of falconry raptor to any person or institution exempt under § 21.12 or authorized by permit to acquire and possess such parts or feathers.
+(ii) You may donate the body or feathers of any other species of falconry raptor to any person or entity exempt from the permit requirement under the regulations in subpart B of this part or authorized by permit to acquire and possess such parts or feathers.
 
 (iii) If the bird was banded or microchipped prior to its death, you may keep the body of any falconry raptor except that of a golden eagle. You may keep the body so that the feathers are available for imping, or you may have the body mounted by a taxidermist. You may use the mount in giving conservation education programs. If the bird was banded, you must leave the band on the body. If the bird has an implanted microchip, you must leave the microchip in place.
 
@@ -545,4 +545,4 @@
 
 (2) Information on each permit granted, including changes in status from Apprentice Falconer to General Falconer or General Falconer to Master Falconer, and moves of falconers or their facilities must be entered into the State's, tribe's, or territory's database within 30 days of the granting of the permit or a falconer's change in status. New additions to the State, tribal, or territorial database must be forwarded to us monthly.
 
-[73 FR 59465, Oct. 8, 2008, as amended at 74 FR 64640, Dec. 8, 2009; 75 FR 931, Jan. 7, 2010; 75 FR 3395, Jan. 21, 2010; 75 FR 81141, Dec. 27, 2010; 76 FR 71912, Nov. 21, 2011; 77 FR 66408, Nov. 5, 2012; 78 FR 35152, June 12, 2013; 78 FR 72832, Dec. 4, 2013; 80 FR 38015, July 2, 2015. Redesignated and amended at 87 FR 881, Jan. 7, 2022]
+[73 FR 59465, Oct. 8, 2008, as amended at 74 FR 64640, Dec. 8, 2009; 75 FR 931, Jan. 7, 2010; 75 FR 3395, Jan. 21, 2010; 75 FR 81141, Dec. 27, 2010; 76 FR 71912, Nov. 21, 2011; 77 FR 66408, Nov. 5, 2012; 78 FR 35152, June 12, 2013; 78 FR 72832, Dec. 4, 2013; 80 FR 38015, July 2, 2015. Redesignated and amended at 87 FR 881, Jan. 7, 2022; 89 FR 107042, Dec. 31, 2024]

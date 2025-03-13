@@ -1,0 +1,3 @@
+##### § 93.236 Research record. #####
+
+Research record means the record of data or results that embody the facts resulting from scientific inquiry. Data or results may be in physical or electronic form. Examples of items, materials, or information that may be considered part of the research record include, but are not limited to, research proposals, raw data, processed data, clinical research records, laboratory records, study records, laboratory notebooks, progress reports, manuscripts, abstracts, theses, records of oral presentations, online content, lab meeting reports, and journal articles.

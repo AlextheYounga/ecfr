@@ -2,7 +2,7 @@
 
 (a) *Permit requirement.* A banding or marking permit is required before any person may capture migratory birds for banding or marking purposes or use official bands issued by the Service for banding or marking any migratory bird.
 
-(b) *Application procedures.* Applications for banding or marking permits shall be submitted by letter of application addressed to the Bird Banding Laboratory, Office of Migratory Bird Management, U.S. Fish and Wildlife Service, Laurel, Maryland 20708. Each such application shall contain the general information and certification set forth by § 13.12(a) of this subchapter plus the following additional information:
+(b) *Application procedures.* Applications for banding or marking permits shall be submitted by letter of application addressed to the Bird Banding Laboratory, U.S. Geological Survey, Laurel, Maryland 20708. Each such application shall contain the general information and certification set forth by § 13.12(a) of this subchapter plus the following additional information:
 
 (1) Species and numbers proposed to be banded or marked;
 
@@ -24,4 +24,4 @@
 
 (d) *Term of permit.* A banding or marking permit issued or renewed under this part expires on the date designated on the face of the permit unless amended or revoked, but the term of the permit shall not exceed three (3) years from the date of issuance or renewal.
 
-[39 FR 1178, Jan. 4, 1974, as amended at 54 FR 38151, Sept. 14, 1989. Redesignated and amended at 87 FR 881, Jan. 7, 2022]
+[39 FR 1178, Jan. 4, 1974, as amended at 54 FR 38151, Sept. 14, 1989. Redesignated and amended at 87 FR 881, Jan. 7, 2022; 89 FR 107042, Dec. 31, 2024]

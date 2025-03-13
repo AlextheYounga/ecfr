@@ -18,4 +18,5 @@ Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
 
 (f) The Commission shall retain the authority to look behind 5G Fund support recipients' annual reports and to take action to address any violations.
 
-Effective Date Note:At 85 FR 75822, Nov. 25, 2020, § 54.1018 was revised, however, paragraphs (a), (b) and (c) have a delayed effective date.
+Effective Date Note:At 85 FR 75822, Nov. 25, 2020,
+§ 54.1018 was revised, however, paragraphs (a), (b) and (c) have a delayed effective date.

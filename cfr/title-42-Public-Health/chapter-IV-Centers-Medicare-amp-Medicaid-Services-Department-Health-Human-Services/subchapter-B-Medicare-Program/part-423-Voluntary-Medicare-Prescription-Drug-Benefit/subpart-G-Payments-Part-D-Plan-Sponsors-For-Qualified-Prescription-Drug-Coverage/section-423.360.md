@@ -1,7 +1,5 @@
 ##### § 423.360 Reporting and returning of overpayments. #####
 
-Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
-
 (a) *Definitions.* For the purposes of this section the following definitions are applicable:
 
 *Applicable reconciliation* means the later of either the annual deadline for submitting—
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (b) *General rule.* If a Part D sponsor has identified that it has received an overpayment, the Part D sponsor must report and return that overpayment in the form and manner set forth in this section.
 
-(c) *Identified overpayment.* The Part D sponsor has identified an overpayment when the Part D sponsor has determined, or should have determined through the exercise of reasonable diligence, that the Part D sponsor has received an overpayment.
+(c) *Identified overpayment.* The Part D sponsor has identified an overpayment when the Part D sponsor knowingly receives or retains an overpayment. The term “knowingly” has the meaning set forth in 31 U.S.C. 3729(b)(1)(A).
 
 (d) *Reporting and returning of an overpayment.* A Part D sponsor must report and return any overpayment it received no later than 60 days after the date on which it identified it received an overpayment.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (f) *Look-back period.* A Part D sponsor must report and return any overpayment identified within the 6 most recent completed payment years.
 
-[79 FR 29963, May 23, 2014]
+[79 FR 29963, May 23, 2014, as amended at 89 FR 98565, Dec. 9, 2024]

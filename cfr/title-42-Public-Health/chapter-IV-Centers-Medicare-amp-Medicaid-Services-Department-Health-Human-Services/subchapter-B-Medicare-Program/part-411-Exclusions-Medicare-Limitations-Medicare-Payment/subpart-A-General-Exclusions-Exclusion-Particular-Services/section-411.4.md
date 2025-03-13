@@ -1,17 +1,43 @@
-##### § 411.4 Services for which neither the beneficiary nor any other person is legally obligated to pay. #####
+##### § 411.4 Items and services for which neither the beneficiary nor any other person is legally obligated to pay. #####
 
-Link to an amendment published at 89 FR 94587, Nov. 27, 2024.
+(a) *General rule.* Except in the case of federally qualified health center services and as provided in § 411.8(b) (for services paid by a governmental entity), Medicare may not pay for an item or service under Part A or Part B if—
 
-(a) *General rule.* Except as provided in § 411.8(b) (for services paid by a governmental entity), Medicare does not pay for a service if—
+(1) The individual has no legal obligation to pay for the item or service; and
 
-(1) The beneficiary has no legal obligation to pay for the service; and
+(2) No other person (by reason of such individual's membership in a prepayment plan or otherwise) has a legal obligation to provide or pay for the item or service.
 
-(2) No other person or organization (such as a prepayment plan of which the beneficiary is a member) has a legal obligation to provide or pay for that service.
+(b) *Special conditions for payment for items or services furnished to an individual in the custody of a penal authority.* (1) An individual in the custody of a penal authority is considered to have a legal obligation to pay for items or services furnished to the individual only if the following conditions are met:
 
-(b) *Special conditions for services furnished to individuals in custody of penal authorities.* Individuals who are in custody include, but are not limited to, individuals who are under arrest, incarcerated, imprisoned, escaped from confinement, under supervised release, on medical furlough, required to reside in mental health facilities, required to reside in halfway houses, required to live under home detention, or confined completely or partially in any way under a penal statute or rule. Payment may be made for services furnished to individuals or groups of individuals who are in the custody of police or other penal authorities or in the custody of a government agency under a penal statute only if the following conditions are met:
+(i) State or local law requires the individual to pay the cost of items and services that the individual receives;
 
-(1) State or local law requires those individuals or groups of individuals to repay the cost of medical services they receive while in custody.
+(ii) The penal authority enforces the requirement to pay for items or services by billing all individuals who receive such items or services, whether or not covered by Medicare or any other health insurance; and
 
-(2) The State or local government entity enforces the requirement to pay by billing all such individuals, whether or not covered by Medicare or any other health insurance, and by pursuing collection of the amounts they owe in the same way and with the same vigor that it pursues the collection of other debts.
+(iii) The penal authority pursues collection of amounts owed for items or services received in the same way and with the same vigor that it pursues the collection of other debts.
 
-[54 FR 41734, Oct. 11, 1989, as amended at 72 FR 47410, Aug. 22, 2007]
+(2) For purposes of this paragraph (b), a penal authority means a police department or other law enforcement agency, a government agency operating under a penal statute, or a State, local or Federal jail, prison, penitentiary, or similar institution.
+
+(3) For purposes of this paragraph (b)—
+
+(i) An individual is considered to be in the custody of a penal authority if the individual is:
+
+(A) Incarcerated in a jail, prison, penitentiary, or similar institution;
+
+(B) Temporarily outside of a jail, prison, penitentiary, or similar institution on medical furlough or similar arrangement;
+
+(C) Escaped from confinement by a penal authority; or
+
+(D) Required to reside in a mental health facility under a penal statute or rule.
+
+(ii) Individuals who are not considered to be in the custody of a penal authority include, but are not limited to, individuals who are—
+
+(A) Released to the community pending trial (including those in pretrial community supervision and those released pursuant to cash bail);
+
+(B) On parole;
+
+(C) On probation;
+
+(D) On home detention or home confinement; or
+
+(E) Required to live in a halfway house or other community-based transitional facility.
+
+[89 FR 94587, Nov. 27, 2024]

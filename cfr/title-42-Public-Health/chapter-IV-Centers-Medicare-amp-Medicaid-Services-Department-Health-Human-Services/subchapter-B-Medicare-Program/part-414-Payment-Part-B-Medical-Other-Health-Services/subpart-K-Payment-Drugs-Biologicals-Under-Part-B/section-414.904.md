@@ -1,7 +1,5 @@
 ##### § 414.904 Average sales price as the basis for payment. #####
 
-Link to an amendment published at 89 FR 98559, Dec. 9, 2024.
-
 (a) *Method of payment.* Payment for a drug furnished on or after January 1, 2005 is based on the lesser of—
 
 (1) The actual charge on the claim for program benefits; or
@@ -122,16 +120,50 @@ Link to an amendment published at 89 FR 98559, Dec. 9, 2024.
 
 (B) The payment amount that would have been determined for such drug or biological if section 1847A(c)(6)(C)(ii) were not applied.
 
+(6) *Radiopharmaceuticals furnished in settings other than the hospital outpatient department.* Medicare administrative contractors must determine payment limits for radiopharmaceuticals based on any methodology used to determine payment limits for radiopharmaceuticals in place on or prior to November 2003. Such methodology may include, but is not limited to, the use of invoice-based pricing.
+
 (f) Except as otherwise specified (see paragraph (e)(2) of this section) for infusion drugs, the payment limits are updated quarterly.
 
 (g) The payment limit is computed without regard to any special packaging, labeling, or identifiers on the dosage form or product or package.
 
 (h) The payment amount is subject to applicable deductible and coinsurance.
 
-(i) If manufacturer ASP data is not available prior to the publication deadline for quarterly payment limits and the unavailability of manufacturer ASP data significantly changes the quarterly payment limit for the billing code when compared to the prior quarter's billing code payment limit, the payment limit is calculated by carrying over the most recent available manufacturer ASP price from a previous quarter for an NDC in the billing code, adjusted by the weighted average of the change in the manufacturer ASPs for the NDCs that were reported for both the most recently available previous quarter and the current quarter.
+(i) *Manufacturer's average sales price (ASP) data not available prior to the publication deadline for quarterly payment limits.* For circumstances in which manufacturer's ASP data is not available prior to the publication deadline for quarterly payment limits as described in this section, payment limit must be determined as follows:
+
+(1) For a multiple source drug (as defined in § 414.902)—
+
+(i) In circumstances in which negative or zero manufacturer's ASP data is reported for one or more, but not all, NDCs associated with a billing and payment code for that drug for a given quarter, the payment limit for the given quarter is calculated using only NDCs for that drug with positive manufacturer's ASP data, except in circumstances described in paragraph (i)(1)(iii) of this section.
+
+(ii) In circumstances in which negative or zero manufacturer's ASP data is reported for all NDCs associated with a billing and payment code for that drug for a given quarter, the payment limit for the given quarter is calculated by carrying over all positive manufacturer's ASP data from the most recently available previous quarter with positive manufacturer's ASP data for at least one NDC until at least one NDC for the drug has positive manufacturer's ASP data for a quarter.
+
+(iii) In circumstances in which manufacturer's ASP data is not available and the unavailability of the manufacturer's ASP data results in a significant change in the ASP payment limit compared to the previous quarter, the payment limit is calculated by carrying over the most recently available ASP data for the individual NDC(s), adjusted by the weighted average of the change in the manufacturer's ASP data for the NDCs that were reported for both the most recently available previous quarter and the current quarter.
+
+(2) For a single source drug, excluding biosimilar biological products (both as defined in § 414.902)—
+
+(i) In circumstances in which negative or zero manufacturer's ASP data is reported for one or more, but not all, NDCs associated with a billing and payment code for that drug for a given quarter, the payment limit for the given quarter is calculated using only NDCs for that drug with positive manufacturer's ASP data.
+
+(ii) In circumstances in which negative or zero manufacturer's ASP data is reported for all NDCs associated with a billing and payment code for that drug for a given quarter, the payment limit for the given quarter is the lesser of the following until at least one NDC for the drug has positive manufacturer's ASP data for a quarter:
+
+(A) 106 percent of the volume-weighted average of the most recently available positive manufacturer's ASP data from a previous quarter in which at least one NDC for the drug has positive manufacturer's ASP data for the quarter. If the payment limit from such quarter was based on 106 percent of the wholesale acquisition cost because of the application of paragraph (d)(1) of this section, that payment limit is carried over; or
+
+(B) 106 percent of the wholesale acquisition cost. If there is more than one WAC per billing unit for the drug, the payment limit is set using the lowest WAC per billing unit.
+
+(3) For a biosimilar biological product (as defined in § 414.902)—
+
+(i) In circumstances in which negative or zero manufacturer's ASP data is reported for one or more, but not all, NDCs for a given quarter, the payment limit for the given quarter is calculated using only NDCs with positive manufacturer's ASP data.
+
+(ii) In circumstances in which negative or zero manufacturer's ASP data is reported for all NDCs for a given quarter, the payment limit for the given quarter is the sum of the following until at least one NDC for the drug has positive manufacturer's ASP data for a quarter:
+
+(A) The volume-weighted average of the most recently available positive manufacturer's ASP data from a previous quarter; and
+
+(B) Either:
+
+(*1*) If the biosimilar is not a qualifying biosimilar (as both are defined at § 414.902), 6 percent of the amount determined under section 1847A(b)(4) of the Act for the reference biological product (as defined in § 414.902) for the given quarter; or
+
+(*2*) If the biosimilar is a qualifying biosimilar (as both are defined at § 414.902), 8 percent of the amount determined under section 1847A(b)(4) of the Act for the reference biological product (as defined in § 414.902) for the given quarter.
 
 (j) *Biosimilar biological products*—(1) *In general.* Except as provided in paragraph (j)(2), effective January 1, 2016, the payment amount for a biosimilar biological product (as defined in § 414.902), for all NDCs assigned to such product, is the sum of the average sales price of all NDCs assigned to the biosimilar biological products included within the same billing and payment code as determined under section 1847A(b)(6) of the Act, and 6 percent of the amount determined under section 1847A(b)(4) of the Act for the reference biological product (as defined in § 414.902).
 
 (2) *Temporary increase in Medicare Part B payment for qualifying biosimilar biological products.* In the case of a qualifying biosimilar biological product (as defined in § 414.902) that is furnished during the applicable 5-year period (as defined in § 414.902) for such product, the payment amount for such product with respect to such period is the sum determined under as determined under section 1847A(b)(6) of the Act and 8 percent of the amount determined under section 1847A(b)(4) of the Act for the reference biological product (as defined in § 414.902).
 
-[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 70332, Nov. 21, 2005; 71 FR 69788, Dec. 1, 2006; 72 FR 66402, Nov. 27, 2007; 73 FR 69937, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73626, Nov. 29, 2010; 76 FR 73473, Nov. 28, 2011; 77 FR 69368, Nov. 16, 2012; 80 FR 71382, Nov. 16, 2015; 82 FR 53363, Nov. 15, 2017; 83 FR 60074, Nov. 23, 2018; 85 FR 71197, Nov. 6, 2020; 86 FR 65669, Nov. 19, 2021; 87 FR 70226, Nov. 18, 2022; 88 FR 79532, Nov. 16, 2023]
+[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 70332, Nov. 21, 2005; 71 FR 69788, Dec. 1, 2006; 72 FR 66402, Nov. 27, 2007; 73 FR 69937, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73626, Nov. 29, 2010; 76 FR 73473, Nov. 28, 2011; 77 FR 69368, Nov. 16, 2012; 80 FR 71382, Nov. 16, 2015; 82 FR 53363, Nov. 15, 2017; 83 FR 60074, Nov. 23, 2018; 85 FR 71197, Nov. 6, 2020; 86 FR 65669, Nov. 19, 2021; 87 FR 70226, Nov. 18, 2022; 88 FR 79532, Nov. 16, 2023; 89 FR 98559, Dec. 9, 2024]

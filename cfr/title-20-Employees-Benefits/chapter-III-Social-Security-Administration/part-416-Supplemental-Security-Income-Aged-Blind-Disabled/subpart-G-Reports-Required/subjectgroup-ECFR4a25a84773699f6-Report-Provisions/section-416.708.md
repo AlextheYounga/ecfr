@@ -1,5 +1,7 @@
 ##### § 416.708 What you must report. #####
 
+Link to an amendment published at 89 FR 107259, Dec. 31, 2024.
+
 This section describes the events that you must report to us. They are—
 
 (a) *A change of address.* You must report to us any change in your mailing address and any change in the address where you live.

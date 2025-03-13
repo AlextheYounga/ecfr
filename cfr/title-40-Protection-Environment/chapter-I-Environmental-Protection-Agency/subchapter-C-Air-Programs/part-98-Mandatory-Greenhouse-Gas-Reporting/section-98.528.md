@@ -1,0 +1,19 @@
+##### § 98.528 Definitions. #####
+
+All terms used of this subpart have the same meaning given in the Clean Air Act and subpart A of this part.
+
+|                                                                      Carbonate                                                                       |                Mineral name(s)                 |CO<sub>2</sub> emission  <br/>factor <sup>a</sup>|
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------|
+|                                                                   BaCO<sub>3</sub>                                                                   |          Witherite, Barium carbonate           |                      0.223                      |
+|                                                                   CaCO<sub>3</sub>                                                                   |Limestone, Calcium Carbonate, Calcite, Aragonite|                      0.440                      |
+|                                                       Ca(Fe,Mg,Mn)(CO<sub>3</sub>)<sub>2</sub>                                                       |             Ankerite <sup>b</sup>              |                   0.408-0.476                   |
+|                                                           CaMg(CO<sub>3</sub>)<sub>2</sub>                                                           |                    Dolomite                    |                      0.477                      |
+|                                                                   FeCO<sub>3</sub>                                                                   |                    Siderite                    |                      0.380                      |
+|                                                             K<sub>2</sub> CO<sub>3</sub>                                                             |              Potassium carbonate               |                      0.318                      |
+|                                                            Li<sub>2</sub> CO<sub>3</sub>                                                             |               Lithium carbonate                |                      0.596                      |
+|                                                                   MgCO<sub>3</sub>                                                                   |                   Magnesite                    |                      0.522                      |
+|                                                                   MnCO<sub>3</sub>                                                                   |                 Rhodochrosite                  |                      0.383                      |
+|                                                            Na<sub>2</sub> CO<sub>3</sub>                                                             |           Sodium carbonate, Soda ash           |                      0.415                      |
+|                                                                   SrCO<sub>3</sub>                                                                   |       Strontium carbonate, Strontianite        |                      0.298                      |
+|           <sup>a</sup> Emission factors are in units of metric tons of CO<sub>2</sub> emitted per metric ton of carbonate-based material.            |                                                |                                                 |
+|<sup>b</sup> Ankerite emission factors are based on a formula weight range that assumes Fe, Mg, and Mn are present in amounts of at least 1.0 percent.|                                                |                                                 |

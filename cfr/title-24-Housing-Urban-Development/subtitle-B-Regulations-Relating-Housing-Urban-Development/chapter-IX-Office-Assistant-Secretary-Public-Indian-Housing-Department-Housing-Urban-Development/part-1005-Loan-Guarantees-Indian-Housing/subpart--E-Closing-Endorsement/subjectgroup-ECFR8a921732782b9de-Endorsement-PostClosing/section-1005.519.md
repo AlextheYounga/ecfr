@@ -1,0 +1,3 @@
+##### § 1005.519 Creation of the contract. #####
+
+The loan shall be a Section 184 Guaranteed Loan from the date of the issuance of a Loan Guarantee Certificate. The Direct Guarantee Lender is thereafter bound by the regulations in this subpart with the same force and to the same extent as if a separate contract had been executed relating to the Section 184 Guaranteed Loan, including the provisions of the regulations in this subpart and 12 U.S.C. 1715z-13a.

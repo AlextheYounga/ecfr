@@ -4,7 +4,8 @@
 
 (2) If a complaint is submitted directly to the Regional Administrator and if they determine that the nature and scope of a complaint described in paragraph (a) of this section is such that the time required to exhaust the administrative procedures at the SWA level would adversely affect a significant number of individuals, the RA must accept the complaint and take the following action:
 
-(i) If the complaint is filed against an employer, the regional office must process the complaint in a manner consistent with the requirements imposed upon State agencies by §§ 658.411 and 658.418. A hearing must be offered to the parties once the Regional Administrator makes a determination on the complaint.
+(i) If the complaint is filed against an employer, the regional office must process the complaint in a manner consistent with the requirements imposed upon State agencies by §§ 658.411 and 658.418.
+A hearing must be offered to the parties once the Regional Administrator makes a determination on the complaint.
 
 (ii) If the complaint is filed against a SWA, the regional office must follow procedures established at § 658.411(d).
 

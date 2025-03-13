@@ -22,4 +22,4 @@
 
 (g) If the subject matter or the determination to open or close a meeting is changed, the agency will publicly announce the change and the vote of each member at the earliest practicable time. The announcement will contain a finding that agency business requires the change and that no earlier announcement of the change was possible.
 
-(47 U.S.C. 154, 155, 303) [42 FR 12867, Mar. 7, 1977, as amended at 44 FR 12425, Mar. 7, 1979; 44 FR 70472, Dec. 7, 1979; 64 FR 2150, Jan. 13, 1999]
+(47 U.S.C. 154, 155, 303)[42 FR 12867, Mar. 7, 1977, as amended at 44 FR 12425, Mar. 7, 1979; 44 FR 70472, Dec. 7, 1979; 64 FR 2150, Jan. 13, 1999]

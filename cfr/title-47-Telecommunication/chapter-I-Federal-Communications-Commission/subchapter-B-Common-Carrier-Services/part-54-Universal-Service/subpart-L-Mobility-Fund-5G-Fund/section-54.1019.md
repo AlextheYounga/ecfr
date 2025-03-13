@@ -24,4 +24,5 @@ Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
 
 (d) All data submitted in and certified to in any service milestone report shall be subject to verification by the Administrator for compliance with the 5G Fund performance requirements specified in § 54.1015(c).
 
-Effective Date Note:At 85 FR 75822, Nov. 25, 2020, § 54.1019 was revised, however, paragraphs (a)(1) through (a)(4) have a delayed effective date.
+Effective Date Note:At 85 FR 75822, Nov. 25, 2020,
+§ 54.1019 was revised, however, paragraphs (a)(1) through (a)(4) have a delayed effective date.

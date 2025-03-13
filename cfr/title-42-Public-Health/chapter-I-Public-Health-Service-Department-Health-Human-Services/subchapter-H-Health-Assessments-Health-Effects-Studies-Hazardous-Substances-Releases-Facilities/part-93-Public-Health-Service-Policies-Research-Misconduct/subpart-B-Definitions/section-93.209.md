@@ -1,3 +1,3 @@
-##### § 93.209 Funding component. #####
+##### § 93.209 Departmental Appeals Board or DAB. #####
 
-*Funding component* means any organizational unit of the PHS authorized to award grants, contracts, or cooperative agreements for any activity that involves the conduct of biomedical or behavioral research, research training or activities related to that research or research training, e.g., agencies, bureaus, centers, institutes, divisions, or offices and other awarding units within the PHS.
+Departmental Appeals Board or DAB means the organization, within the HHS Office of the Secretary, established to conduct hearings and provide impartial review of disputed decisions made by HHS operating components.

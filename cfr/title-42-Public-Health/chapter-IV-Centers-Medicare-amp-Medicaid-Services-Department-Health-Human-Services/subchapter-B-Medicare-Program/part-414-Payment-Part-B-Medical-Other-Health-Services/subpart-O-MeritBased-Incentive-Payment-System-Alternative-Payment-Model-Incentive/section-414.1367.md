@@ -1,7 +1,5 @@
 ##### § 414.1367 APM performance pathway. #####
 
-Link to an amendment published at 89 FR 98562, Dec. 9, 2024.
-
 (a) *General.* Beginning with the 2023 MIPS payment year, the APM Performance Pathway is a MIPS scoring methodology available to MIPS eligible clinicians identified on the Participation List or Affiliated Practitioner List of an APM Entity participating in a MIPS APM.
 
 (b) *Criteria for MIPS APMs.* MIPS APMs are those in which:
@@ -10,11 +8,15 @@ Link to an amendment published at 89 FR 98562, Dec. 9, 2024.
 
 (2) The APM bases payment on quality measures and cost/utilization.
 
-(c) *MIPS performance category scoring in the APM Performance Pathway*—(1) *Quality.* Except as provided in paragraphs (c)(1)(i) and (ii) of this section, the quality performance category score is calculated for a MIPS eligible clinician, group, or APM Entity group in accordance with § 414.1380(b)(1) based on the APM Performance Pathway quality measure set established by CMS through rulemaking for a MIPS payment year.
+(c) *MIPS performance category scoring in the APM Performance Pathway*—(1) *Quality.* Except as provided in paragraphs (c)(1)(i) and (ii) of this section, the quality performance category score is calculated for a MIPS eligible clinician, group, or APM Entity group in accordance with § 414.1380(b)(1) based on the quality measure set applicable to the MIPS eligible clinician, group, or APM Entity group under paragraph (c)(1)(iii) of this section and established by CMS through rulemaking for a MIPS payment year.
 
 (i) Each submitted measure that does not have a benchmark or meet the case minimum requirement is excluded from the MIPS eligible clinician, group, or APM Entity group's total measure achievement points and total available measure achievement points.
 
 (ii) Any measure that is identified as topped out is not subject to the scoring cap described at § 414.1380(b)(1)(iv).
+
+(iii)(A) For performance periods beginning prior to CY 2025 and MIPS payment years beginning prior to 2027, a MIPS eligible clinician, group, or APM Entity group must report the APM Performance Pathway quality measure set.
+
+(B) Beginning with the CY 2025 performance period/2027 MIPS payment year, a MIPS eligible clinician, group, or APM Entity group may choose to report either the APM Performance Pathway quality measure set or the APP Plus quality measure set.
 
 (2) *Cost.* The cost performance category weight is zero percent for MIPS eligible clinicians who are scored through the APM Performance Pathway.
 
@@ -40,4 +42,4 @@ Link to an amendment published at 89 FR 98562, Dec. 9, 2024.
 
 (e) *Final score.* The final score is calculated for a MIPS eligible clinician, group, or APM Entity in accordance with § 414.1380(c).
 
-[85 FR 85031, Dec. 28, 2020]
+[85 FR 85031, Dec. 28, 2020, as amended at 89 FR 98562, Dec. 9, 2024]

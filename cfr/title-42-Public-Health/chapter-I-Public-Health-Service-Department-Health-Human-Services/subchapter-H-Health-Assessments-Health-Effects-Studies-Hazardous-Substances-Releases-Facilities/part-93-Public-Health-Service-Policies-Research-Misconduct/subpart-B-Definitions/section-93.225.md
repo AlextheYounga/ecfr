@@ -1,3 +1,3 @@
-##### § 93.225 Respondent. #####
+##### § 93.225 Office of Research Integrity or ORI. #####
 
-*Respondent* means the person against whom an allegation of research misconduct is directed or who is the subject of a research misconduct proceeding.
+Office of Research Integrity or ORI means the office established by Public Health Service Act section 493 (42 U.S.C. 289b) and to which the HHS Secretary has delegated responsibility for addressing research integrity and misconduct issues related to PHS-supported activities.

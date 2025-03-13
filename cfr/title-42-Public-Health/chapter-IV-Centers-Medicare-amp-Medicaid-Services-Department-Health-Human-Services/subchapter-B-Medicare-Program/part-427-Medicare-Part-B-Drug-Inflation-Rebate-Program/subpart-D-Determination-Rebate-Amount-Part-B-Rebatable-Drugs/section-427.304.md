@@ -1,0 +1,7 @@
+##### § 427.304 Adjustments for changes to billing and payment codes. #####
+
+(a) *Changes in billing unit dose description.* If there has been a change to the dose description for a Part B rebatable drug (causing a new billing and payment code to be assigned), CMS will calculate a conversion factor based on the ratio of the billing unit dose description for the current billing and payment code to the billing unit dose description for the prior billing and payment code. CMS will apply the conversion factor to the payment amount in the payment amount benchmark quarter, as set forth in § 427.302(d), before applying the percentage by which the rebate period CPI-U for the calendar quarter exceeds the benchmark period CPI-U.
+
+(b) *Instances when a new billing and payment code is assigned.* If a new billing and payment code is assigned for a Part B rebatable drug, CMS will use the payment amount in the payment amount benchmark quarter, the payment amount benchmark quarter, and the benchmark quarter CPI-U of the prior billing and payment code to calculate the per unit Part B rebate amount under § 427.302.
+
+(c) *Documentation.* CMS will maintain a crosswalk reflecting the changes in billing and payment codes and dose descriptions as applicable.

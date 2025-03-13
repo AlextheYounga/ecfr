@@ -1,7 +1,5 @@
 ##### § 424.24 Requirements for medical and other health services furnished by providers under Medicare Part B. #####
 
-Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
-
 (a) *Exempted services.* Certification is not required for the following:
 
 (1) Hospital services and supplies incident to physicians' services furnished to outpatients. The exemption applies to drugs and biologicals that cannot be self-administered, but not to partial hospitalization services, as set forth in paragraph (e) of this section.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (b) *General rule.* Medicare Part B pays for medical and other health services furnished by providers (and not exempted under paragraph (a) of this section) only if a physician certifies the content specified in paragraph (c)(1) or (4), (d)(1), or (e)(1) of this section, as appropriate.
 
-(c) *Outpatient physical therapy and speech-language pathology services*—(1) *Content of certification.* (i) The individual needs, or needed, physical therapy or speech pathology services.
+(c) *Outpatient physical therapy, occupational therapy, and speech-language pathology services*—(1) *Content of certification.* (i) The individual needs, or needed, physical therapy, occupational therapy, or speech-language pathology services.
 
 (ii) The services were furnished while the individual was under the care of a physician, nurse practitioner, clinical nurse specialist, or physician assistant.
 
@@ -20,13 +18,15 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (3) *Signature.* (i) If the plan of treatment is established by a physician, nurse practitioner, clinical nurse specialist, or physician assistant, the certification must be signed by that physician or nonphysician practitioner.
 
-(ii) If the plan of treatment is established by a physical therapist or speech-language pathologist, the certification must be signed by a physician or by a nurse practitioner, clinical nurse specialist, or physician assistant who has knowledge of the case.
+(ii) If the plan of treatment is established by a physical therapist, occupational therapist, or speech-language pathologist, the certification must be signed by a physician or by a nurse practitioner, clinical nurse specialist, or physician assistant who has knowledge of the case, except as specified in paragraph (c)(5) of this section.
 
 (4) *Recertification*—(i) *Timing.* Recertification is required at least every 90 days.
 
 (ii) *Content.* When it is recertified, the plan or other documentation in the patient's record must indicate the continuing need for physical therapy, occupational therapy or speech-language pathology services.
 
 (iii) *Signature.* The physician, nurse practitioner, clinical nurse specialist, or physician assistant who reviews the plan must recertify the plan by signing the medical record.
+
+(5) *Treatment plan.* If the plan of treatment is established by a physical therapist, occupational therapist, or speech-language pathologist, and there is a written order or referral from the individual's physician, nurse practitioner (NP), physician assistant (PA), or clinical nurse specialist (CNS) in the patient's record and the therapist has documented evidence that the plan of treatment has been delivered to the physician, NP, PA, or CNS within 30 days of completion of the initial evaluation, the certification does not need to be signed by a physician, NP, CNS, or PA who has knowledge of the case. If there is no written order or referral from the individual's physician, NP, CNS, or PA, in the patient's record, the therapist must obtain the signature of the physician, NP, PA, or CNS on the plan of treatment in accordance with paragraph (c)(3) of this section. No references to an order or referral in this subsection shall be construed to require an order or referral for outpatient physical therapy, occupational therapy, or speech-language pathology services.
 
 (d) *Intensive outpatient services: Content of certification and plan of treatment requirements*—
 
@@ -96,4 +96,4 @@ Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
 
 (4) *Recertification.* Recertification of continued need for services is not required.
 
-[53 FR 6638, Mar. 2, 1988; 53 FR 12945, Apr. 20, 1988, as amended at 56 FR 8845, 8853, Mar. 1, 1991; 63 FR 58912, Nov. 2, 1998; 65 FR 18548, Apr. 7, 2000; 71 FR 69788, Dec. 1, 2006; 72 FR 66405, Nov. 27, 2007; 88 FR 82182, Nov. 22, 2023]
+[53 FR 6638, Mar. 2, 1988; 53 FR 12945, Apr. 20, 1988, as amended at 56 FR 8845, 8853, Mar. 1, 1991; 63 FR 58912, Nov. 2, 1998; 65 FR 18548, Apr. 7, 2000; 71 FR 69788, Dec. 1, 2006; 72 FR 66405, Nov. 27, 2007; 88 FR 82182, Nov. 22, 2023; 89 FR 98565, Dec. 9, 2024]

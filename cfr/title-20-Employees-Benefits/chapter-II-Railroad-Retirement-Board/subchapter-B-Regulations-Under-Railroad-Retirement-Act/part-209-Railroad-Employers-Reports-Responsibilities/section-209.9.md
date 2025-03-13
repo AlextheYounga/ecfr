@@ -16,4 +16,4 @@
 
 (c) Employers submitting adjustment reports covering pay for time lost as an employee shall report this compensation as provided for in § 211.3 of this chapter. Adjustment reports may be submitted to the Board each month.
 
-(Approved by the Office of Management and Budget under control number 3220-0008) [49 FR 46729, Nov. 28, 1984. Redesignated and amended at 63 FR 32613, June 15, 1998]
+(Approved by the Office of Management and Budget under control number 3220-0008)[49 FR 46729, Nov. 28, 1984. Redesignated and amended at 63 FR 32613, June 15, 1998]

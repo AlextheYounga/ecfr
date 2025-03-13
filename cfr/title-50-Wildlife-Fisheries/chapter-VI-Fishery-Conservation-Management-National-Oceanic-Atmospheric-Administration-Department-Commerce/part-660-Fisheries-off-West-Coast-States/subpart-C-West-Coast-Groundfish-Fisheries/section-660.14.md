@@ -1,7 +1,5 @@
 ##### § 660.14 Vessel Monitoring System (VMS) requirements. #####
 
-Link to an amendment published at 89 FR 101524, Dec. 16, 2024.
-
 (a) *What is a VMS?* A VMS consists of a NMFS OLE type-approved mobile transceiver unit that automatically determines the vessel's position and transmits it to a NMFS OLE type-approved communications service provider. The communications service provider receives the transmission and relays it to NMFS OLE.
 
 (b) *Who is Required to Have a VMS?* The following vessels are required to install a NMFS OLE type-approved mobile transceiver unit and to arrange for a NMFS OLE type-approved communications service provider to receive and relay transmissions to NMFS OLE prior to fishing:
@@ -48,7 +46,7 @@ Link to an amendment published at 89 FR 101524, Dec. 16, 2024.
 
 (ii) *Outside areas exemption.* When the vessel will be operating seaward of the EEZ off Washington, Oregon, or California continuously for more than 7 consecutive days and a valid exemption report has been received by NMFS OLE, the VMS mobile transceiver unit transmissions may be reduced or discontinued from the time the vessel leaves the EEZ off the coasts of Washington, Oregon or California until the time that the vessel re-enters the EEZ off the coasts of Washington, Oregon or California. Under this exemption, the vessel owner or operator can request that NMFS OLE reduce or discontinue the VMS transmissions after receipt of an exemption report, if the vessel is equipped with a VMS transceiver unit that NMFS OLE has approved for this exemption.
 
-(iii) *Permit exemption.* If the limited entry permit had a change in vessel registration so that it is no longer registered to the vessel (for the purposes of this section, this includes permits placed into “unidentified” status), the vessel may be exempted from VMS requirements providing the vessel is not used in a fishery requiring VMS off the States of Washington, Oregon or California (0-200 nm offshore) for the remainder of the fishing year. If the vessel is used to fish in this area for any species of fish at any time during the remaining portion of the fishing year without being registered to a limited entry permit, the vessel is required to have and use VMS.
+(iii) *Permit exemption.* If a limited entry permit had a change in vessel registration so that it is no longer registered to the vessel (for the purposes of this section, this includes permits placed into “unidentified” status); or if a directed open access permit has not yet been renewed, NMFS may exempt the vessel from VMS requirements providing the vessel is not used in a fishery requiring VMS off the States of Washington, Oregon, or California (0-200 nm (5.6-370.4 km) offshore) for the remainder of the fishing year.
 
 (iv) *Long-term departure exemption.* A vessel participating in the open access fishery that is required to have VMS under paragraph (b)(2) of this section may be exempted from VMS provisions after the end of the fishing year in which it used non-groundfish trawl gear, providing the vessel submits a completed exemption report signed by the vessel owner that includes a statement signed by the vessel owner indicating that the vessel will not use non-groundfish trawl gear to fish in the EEZ during the new fishing year. A vessel participating in the open access fishery that is required to have VMS under paragraph (b)(3) of this section also may be exempted from VMS provisions after the end of the fishing year in which it fished in the open access fishery, providing the vessel submits a completed exemption report signed by the vessel owner that includes a statement signed by the vessel owner indicating that the vessel will not be used to take and retain or possess groundfish in the EEZ or land groundfish taken in the EEZ during the new fishing year.
 
@@ -72,4 +70,4 @@ Link to an amendment published at 89 FR 101524, Dec. 16, 2024.
 
 (9) Pay all charges levied by the communication service provider as necessary to ensure continuous operation of the VMS transceiver units.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 85 FR 35600, June 11, 2020; 87 FR 11599, Mar. 2, 2022; 88 FR 83841, Dec. 1, 2023]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 85 FR 35600, June 11, 2020; 87 FR 11599, Mar. 2, 2022; 88 FR 83841, Dec. 1, 2023; 89 FR 101524, Dec. 16, 2024]

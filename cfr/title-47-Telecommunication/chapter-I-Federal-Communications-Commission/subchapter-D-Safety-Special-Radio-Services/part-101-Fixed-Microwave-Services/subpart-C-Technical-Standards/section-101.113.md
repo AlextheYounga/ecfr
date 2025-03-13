@@ -60,11 +60,11 @@
 
 (c)(1) *Transmitter power limitations.* Point-to-point stations in the 29.1-29.25 GHz band for the LMDS backbone between LMDS hubs shall be limited to a maximum allowable e.i.r.p. density per carrier of 23 dBW/MHz in any one megahertz in clear air, and may exceed this limit by employment of adaptive power control in cases where link propagation attenuation exceeds the clear air value due to precipitation and only to the extent that the link is impaired.
 
-(2) *Hub transmitter EIRP spectral area, density limit.* LMDS applicants shall demonstrate that, under clear air operating conditions, the maximum aggregate of LMDS transmitting hub stations in a Basic Trading Area in the 29.1-29.25 GHz band will not transmit a co-frequency hub-to-subscriber e.i.r.p. spectral area density in any azimuthal direction in excess of X dBW/(MHz-km 2) when averaged over any 4.375 MHz band, where X is defined in Table 1. Individual hub stations may exceed their clear air e.i.r.p.s by employment of adaptive power control in cases where link propagation attenuation exceeds the clear air value and only to the extent that the link is impaired.
+(2) *Hub transmitter EIRP spectral area, density limit.* LMDS applicants shall demonstrate that, under clear air operating conditions, the maximum aggregate of LMDS transmitting hub stations in a Basic Trading Area in the 29.1-29.25 GHz band will not transmit a co-frequency hub-to-subscriber e.i.r.p. spectral area density in any azimuthal direction in excess of X dBW/(MHz-km2) when averaged over any 4.375 MHz band, where X is defined in Table 1. Individual hub stations may exceed their clear air e.i.r.p.s by employment of adaptive power control in cases where link propagation attenuation exceeds the clear air value and only to the extent that the link is impaired.
 
 (i) The e.i.r.p. aggregate spectral area density is calculated as follows:
 
-![](/graphics/er28au96.732.gif)where: N = number of co-frequency hubs in BTA.A = Area of BTA in km 2. pi = spectral power density into antenna of i-th hub (in W/MHz).gi = gain of i-th hub antenna at zero degree elevation angle.Each pi and gi are in the same 1 MHz within the designated frequency band.
+![](/graphics/er28au96.732.gif)where:N = number of co-frequency hubs in BTA.A = Area of BTA in km2.pi = spectral power density into antenna of i-th hub (in W/MHz).gi = gain of i-th hub antenna at zero degree elevation angle.Each pi and gi are in the same 1 MHz within the designated frequency band.
 
 (ii) The climate zones in Table 1 are defined for different geographic locations within the US as shown in Appendix 28 of the ITU Radio Regulations.
 
@@ -80,7 +80,7 @@
 
 (i) The e.i.r.p. aggregate spectral area density is calculated as follows:
 
-![](/graphics/er28au96.733.gif)where:N = number of co-frequency hubs in BTA.A = Area of BTA in km2. e.i.r.p. (ai) = equivalent isotropic radiated spectral power density of the i-th hub (in W/MHz) at elevation angle a where a is the angle in degrees of elevation above horizon. e.i.r.p.(0°) is the hub e.i.r.p. area density at the horizon used in Section 101.113c(2). The nominal antenna pattern will be used for elevation angles between 0° and 8°, and average levels will be used for angles beyond 8°, where average levels will be calculated by sampling the antenna patterns in each 1° interval between 8° and 9015, dividing by 83.
+![](/graphics/er28au96.733.gif)where:N = number of co-frequency hubs in BTA.A = Area of BTA in km2.e.i.r.p. (ai) = equivalent isotropic radiated spectral power density of the i-th hub (in W/MHz) at elevation angle a where a is the angle in degrees of elevation above horizon. e.i.r.p.(0°) is the hub e.i.r.p. area density at the horizon used in Section 101.113c(2). The nominal antenna pattern will be used for elevation angles between 0° and 8°, and average levels will be used for angles beyond 8°, where average levels will be calculated by sampling the antenna patterns in each 1° interval between 8° and 9015, dividing by 83.
 
 |Elevation angle (a)|            Relative e.i.r.p. density (dBW/MHz-km <sup>2</sup>)            |
 |-------------------|---------------------------------------------------------------------------|

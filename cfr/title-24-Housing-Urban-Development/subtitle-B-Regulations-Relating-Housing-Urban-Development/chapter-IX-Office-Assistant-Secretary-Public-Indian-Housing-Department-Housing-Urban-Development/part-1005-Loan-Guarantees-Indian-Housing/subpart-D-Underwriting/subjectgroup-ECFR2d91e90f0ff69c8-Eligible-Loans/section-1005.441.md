@@ -1,0 +1,3 @@
+##### § 1005.441 Section 184 Guaranteed Loan limit. #####
+
+The Section 184 Guaranteed Loan limit is the level set by HUD for the Section 184 Approved Program Area and is based upon the location of the property. The limit that is in effect on the date the Section 184 Program case number is issued in accordance with § 1005.445 shall apply, regardless of the closing date. The limit shall be revised periodically by HUD and published in Section 184 Program guidance.

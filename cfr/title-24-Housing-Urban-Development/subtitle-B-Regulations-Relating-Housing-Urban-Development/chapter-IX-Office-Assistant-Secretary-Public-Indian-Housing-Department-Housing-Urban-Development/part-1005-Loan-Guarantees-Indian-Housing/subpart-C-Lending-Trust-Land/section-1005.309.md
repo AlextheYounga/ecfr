@@ -1,0 +1,3 @@
+##### § 1005.309 Tribal duty to report proposed changes and actual changes. #####
+
+Based on the timeframe as prescribed by Section 184 Program Guidance, the Tribe must notify HUD of any proposed changes in the Tribe's foreclosure, eviction, lease, and lien priority ordinances or contact information. Tribes shall obtain HUD approval of the changes in the foreclosure, eviction, lease, and lien priority ordinances. HUD will provide written notification to the Tribe of HUD's review of the proposed ordinance changes and advise the Tribe whether the updated documents meet the requirements of this subpart.

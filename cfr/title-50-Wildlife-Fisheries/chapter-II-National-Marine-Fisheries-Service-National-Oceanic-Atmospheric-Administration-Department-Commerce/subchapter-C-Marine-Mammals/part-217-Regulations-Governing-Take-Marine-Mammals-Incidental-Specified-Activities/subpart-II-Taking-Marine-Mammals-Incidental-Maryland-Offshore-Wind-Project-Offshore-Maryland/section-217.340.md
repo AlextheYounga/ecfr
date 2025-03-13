@@ -1,0 +1,7 @@
+##### § 217.340 Specified activity and specified geographical region. #####
+
+(a) Regulations in this subpart apply to activities associated with the Maryland Offshore Wind Project (hereafter referred to as the “Project”) by US Wind, Inc. (hereafter referred to as “LOA Holder”), and those persons it authorizes or funds to conduct activities on its behalf in the area outlined in paragraph (b) of this section. Requirements imposed on LOA Holder must be implemented by those persons it authorizes or funds to conduct activities on its behalf.
+
+(b) The specified geographical region is the Mid-Atlantic Bight, defined as waters from Cape Hatteras, North Carolina to Cape Cod, Massachusetts and extending into the west Atlantic to the 100-meter (m) isobath, and includes, but is not limited to, the Bureau of Ocean Energy Management (BOEM) Lease Area Outer Continental Shelf (OCS)-A 0490 Commercial Lease of Submerged Lands for Renewable Energy Development, along the relevant Export Cable Corridors (ECC), and at the sea-to-shore transition points located within Delaware Seashore State Park.
+
+(c) The specified activities are impact pile driving of wind turbine generator (WTG), offshore substation (OSS), and a meteorological tower (Met tower) foundations; high-resolution geophysical (HRG) site characterization surveys; vessel transit within the specified geographical region to transport crew, supplies, and materials; WTG and OSS operation; fishery and ecological monitoring surveys; placement of scour protection; and trenching, laying, and cable burial activities.

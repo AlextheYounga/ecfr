@@ -1,3 +1,3 @@
-##### § 93.223 Research misconduct proceeding. #####
+##### § 93.223 Knowingly. #####
 
-*Research misconduct proceeding* means any actions related to alleged research misconduct taken under this part, including but not limited to, allegation assessments, inquiries, investigations, ORI oversight reviews, hearings, and administrative appeals.
+To act knowingly means to act with awareness of the act.

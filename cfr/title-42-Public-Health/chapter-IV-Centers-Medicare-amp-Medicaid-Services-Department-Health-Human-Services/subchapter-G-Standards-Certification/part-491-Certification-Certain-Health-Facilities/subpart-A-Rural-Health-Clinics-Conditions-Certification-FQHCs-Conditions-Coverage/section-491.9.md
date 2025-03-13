@@ -1,12 +1,12 @@
 ##### § 491.9 Provision of services. #####
 
-Link to an amendment published at 89 FR 98599, Dec. 9, 2024.
-
 (a) *Basic requirements.* (1) All services offered by the clinic or center are furnished in accordance with applicable Federal, State, and local laws; and
 
 (2) The clinic or center is primarily engaged in providing outpatient health services and meets all other conditions of this subpart.
 
-(3) The laboratory requirements in paragraph (c)(2) of this section apply to RHCs, but do not apply to FQHCs.
+(3) The RHC must provide primary care services.
+
+(4) The laboratory requirements in paragraph (c)(2) of this section apply to RHCs, but do not apply to FQHCs.
 
 (b) *Patient care policies.* (1) The clinic's or center's health care services are furnished in accordance with appropriate written policies which are consistent with applicable State law.
 
@@ -28,15 +28,11 @@ Link to an amendment published at 89 FR 98599, Dec. 9, 2024.
 
 (i) Chemical examinations of urine by stick or tablet method or both (including urine ketones);
 
-(ii) Hemoglobin or hematocrit;
+(ii) Blood glucose;
 
-(iii) Blood glucose;
+(iii) Pregnancy tests; and
 
-(iv) Examination of stool specimens for occult blood;
-
-(v) Pregnancy tests; and
-
-(vi) Primary culturing for transmittal to a certified laboratory.
+(iv) Collection of patient specimens for transmittal to a certified laboratory for culturing.
 
 (3) *Emergency.* The clinic or center provides medical emergency procedures as a first response to common life-threatening injuries and acute illness and has available the drugs and biologicals commonly used in life saving procedures, such as analgesics, anesthetics (local), antibiotics, anticonvulsants, antidotes and emetics, serums and toxoids.
 
@@ -50,4 +46,4 @@ Link to an amendment published at 89 FR 98599, Dec. 9, 2024.
 
 (2) If the agreements are not in writing, there is evidence that patients referred by the clinic or center are being accepted and treated.
 
-[57 FR 24983, June 12, 1992, as amended at 58 FR 63536, Dec. 2, 1993; 84 FR 51832, Sept. 30, 2019]
+[57 FR 24983, June 12, 1992, as amended at 58 FR 63536, Dec. 2, 1993; 84 FR 51832, Sept. 30, 2019; 89 FR 98599, Dec. 9, 2024]

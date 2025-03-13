@@ -1,7 +1,3 @@
-##### § 93.200 Administrative action. #####
+##### § 93.200 Accepted practices of the relevant research community. #####
 
-*Administrative action* means—
-
-(a) An HHS action in response to a research misconduct proceeding taken to protect the health and safety of the public, to promote the integrity of PHS supported biomedical or behavioral research, research training, or activities related to that research or research training and to conserve public funds; or
-
-(b) An HHS action in response either to a breach of a material provision of a settlement agreement in a research misconduct proceeding or to a breach of any HHS debarment or suspension.
+Accepted practices of the relevant research community means those practices established by 42 CFR part 93 and by PHS funding components, as well as commonly accepted professional codes or norms within the overarching community of researchers and institutions that apply for and receive PHS awards.

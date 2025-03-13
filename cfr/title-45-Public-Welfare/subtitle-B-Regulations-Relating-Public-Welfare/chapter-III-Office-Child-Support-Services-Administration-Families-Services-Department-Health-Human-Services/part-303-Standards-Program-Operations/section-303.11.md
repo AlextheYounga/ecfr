@@ -1,6 +1,6 @@
 ##### § 303.11 Case closure criteria. #####
 
-Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
 
 (a) The IV-D agency shall establish a system for case closure.
 

@@ -1,11 +1,7 @@
-##### § 93.315 Notice to ORI of institutional findings and actions. #####
+##### § 93.315 Institutional appeals. #####
 
-The institution must give ORI the following:
+(a) If a respondent appeals an institution's finding(s) of research misconduct or institutional actions, the institution must promptly notify ORI.
 
-(a) *Investigation Report.* Include a copy of the report, all attachments, and any appeals.
+(b) If the institution has not transmitted its institutional record to ORI in accordance with § 93.316 prior to the appeal, the institution must wait until the appeal is concluded to transmit its institutional record. The institution must ensure that the complete record of the appeal is included in the institutional record consistent with § 93.220(a)(5).
 
-(b) *Final institutional action.* State whether the institution found research misconduct, and if so, who committed the misconduct.
-
-(c) *Findings.* State whether the institution accepts the investigation's findings.
-
-(d) *Institutional administrative actions.* Describe any pending or completed administrative actions against the respondent.
+(c) If the institution has transmitted its institutional record to ORI in accordance with § 93.316 prior to the appeal, the institution must provide ORI a complete record of the appeal once the appeal is concluded.

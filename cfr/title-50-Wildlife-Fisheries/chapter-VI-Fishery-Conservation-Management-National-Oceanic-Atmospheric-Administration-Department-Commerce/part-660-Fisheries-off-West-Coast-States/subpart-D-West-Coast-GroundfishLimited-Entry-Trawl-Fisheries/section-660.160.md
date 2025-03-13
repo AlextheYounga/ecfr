@@ -108,15 +108,15 @@
 
 (*ii*) All C/P-endorsed limited entry member permits identified by permit number.
 
-(*iii*) A description of the coop's plan to adequately monitor and account for the catch of Pacific whiting and non-whiting groundfish, and to monitor and account for the catch of prohibited species.
+(*iii*) A description of the cooperative's plan to adequately monitor and account for the catch of Pacific whiting and non-whiting groundfish, and to monitor and account for the catch of prohibited species.
 
 (*iv*) A clause stating that if a permit is registered to a new permit owner during the effective period of the co-op agreement, any new owners of that member permit would be co-op members and are required to comply with membership restrictions in the co-op agreement.
 
-(*v*) A description of the coop's enforcement and penalty provisions adequate to maintain catch of Pacific whiting and non-whiting groundfish within the allocations.
+(*v*) A description of the cooperative's enforcement and penalty provisions adequate to maintain catch of Pacific whiting and non-whiting groundfish within the allocations.
 
 (*vi*) A description of measures to reduce catch of overfished species.
 
-(*vii*) A clause describing how the annual report will be produced to document the coop's catch, bycatch data, and any other significant activities undertaken by the co-op during the year, and the submission deadlines for that report.
+(*vii*) A clause describing how the annual report will be produced to document the cooperative's catch, bycatch data, and any other significant activities undertaken by the co-op during the year, and the submission deadlines for that report.
 
 (*viii*) Identification of the designated co-op manager.
 
@@ -536,4 +536,4 @@
 
 (H) The person or entity has the ability through any means whatsoever to control or have a controlling influence over the entity to which a permit associated QS is registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54910, Sept. 8, 2022; 87 FR 77027, Dec. 16, 2022; 87 FR 77006, Dec. 16, 2022; 88 FR 81358, 81359, Nov. 22, 2023]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54910, Sept. 8, 2022; 87 FR 77027, Dec. 16, 2022; 87 FR 77006, Dec. 16, 2022; 88 FR 81358, 81359, Nov. 22, 2023; 89 FR 101522, Dec. 16, 2024]

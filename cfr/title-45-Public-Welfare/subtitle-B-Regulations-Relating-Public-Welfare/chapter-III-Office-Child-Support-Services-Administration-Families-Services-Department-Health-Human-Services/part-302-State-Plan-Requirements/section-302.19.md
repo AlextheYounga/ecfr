@@ -1,5 +1,7 @@
 ##### § 302.19 Bonding of employees. #####
 
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+
 The State plan shall provide that the following requirements and criteria to bond employees are in effect:
 
 (a) *IV-D responsibility.* The IV-D agency will insure that every person, who has access to or control over funds collected under the child support enforcement program, is covered by a bond against loss resulting from employee dishonesty.

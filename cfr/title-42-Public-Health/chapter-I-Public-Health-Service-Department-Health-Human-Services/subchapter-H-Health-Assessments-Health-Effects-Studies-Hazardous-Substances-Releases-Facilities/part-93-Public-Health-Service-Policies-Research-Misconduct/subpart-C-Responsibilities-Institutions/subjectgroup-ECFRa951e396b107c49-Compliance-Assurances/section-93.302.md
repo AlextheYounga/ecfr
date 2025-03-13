@@ -1,15 +1,19 @@
-##### § 93.302 Institutional compliance with assurances. #####
+##### § 93.302 Maintaining active research integrity assurances. #####
 
-(a) *Compliance with assurance.* ORI considers an institution in compliance with its assurance if the institution—
+(a) *Compliance with this part.* ORI considers an institution in compliance with this part when it:
 
-(1) Establishes policies and procedures according to this part, keeps them in compliance with this part, and upon request, provides them to ORI, other HHS personnel, and members of the public;
+(1) Has policies and procedures for addressing allegations of research misconduct according to this part, keeps those policies in compliance with this part, and upon request, provides them to ORI and other HHS components.
 
-(2) Takes all reasonable and practical specific steps to foster research integrity consistent with § 93.300, including—
+(2) Complies with its policies and procedures for addressing allegations of research misconduct.
 
-(i) Informs the institution's research members participating in or otherwise involved with PHS supported biomedical or behavioral research, research training or activities related to that research or research training, including those applying for support from any PHS funding component, about its policies and procedures for responding to allegations of research misconduct, and the institution's commitment to compliance with the policies and procedures; and
+(3) Complies with all provisions of this part.
 
-(ii) Complies with its policies and procedures and each specific provision of this part.
+(4) Takes all reasonable and practical specific steps to foster research integrity consistent with § 93.300, including but not limited to:
 
-(b) *Annual report.* An institution must file an annual report with ORI which contains information specified by ORI on the institution's compliance with this part.
+(i) Informing the institution's members about its policies and procedures for addressing allegations of research misconduct, and the institution's commitment to compliance with the policies and procedures; and
 
-(c) *Additional information.* Along with its assurance or annual report, an institution must send ORI such other aggregated information as ORI may request on the institution's research misconduct proceedings covered by this part and the institution's compliance with the requirements of this part.
+(ii) Making its policies and procedures for addressing allegations of research misconduct publicly available.
+
+(b) *Annual report.* An institution must file an annual report with ORI, which contains information specified by ORI, on the institution's compliance with this part. The Institutional Certifying Official is responsible for certifying the content of this report and for ensuring the report is submitted as required.
+
+(c) *Additional information.* Along with its annual report, an institution must send ORI such other information as ORI may request on the institution's research misconduct proceedings covered by this part and the institution's compliance with the requirements of this part.

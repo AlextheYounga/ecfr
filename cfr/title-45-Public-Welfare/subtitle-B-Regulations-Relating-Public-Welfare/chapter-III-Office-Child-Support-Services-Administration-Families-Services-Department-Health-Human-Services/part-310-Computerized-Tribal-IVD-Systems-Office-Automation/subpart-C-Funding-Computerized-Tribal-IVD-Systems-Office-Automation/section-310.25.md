@@ -1,5 +1,7 @@
 ##### § 310.25 What conditions apply to acquisitions of Computerized Tribal IV-D Systems? #####
 
+Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
+
 (a) *APD Approval.* A comprehensive Tribal IV-D agency must have an approved APD in accordance with the applicable requirements of § 310.20 of this part prior to initiating acquisition of a Computerized Tribal IV-D System.
 
 (b) *Procurements.* Requests for Proposals (RFP) and similar procurement documents, contracts, and contract amendments involving costs eligible for FFP, must be submitted to OCSE for approval prior to release of the procurement document, and prior to the execution of the resultant contract when a procurement is anticipated to or will exceed the Simplified Acquisition Threshold;

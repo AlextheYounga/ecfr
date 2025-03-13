@@ -1,5 +1,7 @@
 ##### § 54.306 Alaska Plan for Rate-of-Return Carriers Serving Alaska. #####
 
+Link to an amendment published at 89 FR 107227, Dec. 31, 2024.
+
 (a) *Election of support.* For purposes of subparts A, B, C, D, H, I, J, K and M of this part, rate-of-return carriers (as that term is defined in § 54.5) serving Alaska have a one-time option to elect to participate in the Alaska Plan on a state-wide basis. Carriers exercising this option shall receive the lesser of;
 
 (1) Support as described in paragraph (c) of this section or

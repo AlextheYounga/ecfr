@@ -1,0 +1,9 @@
+##### § 1005.817 Conveyance of Good and Marketable Title. #####
+
+(a) *Satisfactory conveyance of title and transfer of possession.* The Servicer shall tender to HUD a satisfactory conveyance of title and transfer of possession of the property. The deed or other instrument of conveyance shall convey Good and Marketable Title to the property, which shall be accompanied by title evidence satisfactory to HUD.
+
+(b) *Conveyance of property without Good and Marketable Title.* (1) If the title to the property conveyed by the Holder to HUD does not have Good and Marketable Title, the Holder must correct any title defect within 60 days after receiving notice from HUD, or within such further time as HUD may approve in writing.
+
+(2) If the defect is not corrected within 60 days, or such further time as HUD approves in writing, the Holder must reimburse HUD's costs of holding the property. Such holding costs accrue on a daily basis and include interest on the amount of the loan guarantee benefits paid to the Holder at an interest rate set in conformity with the Treasury Fiscal Requirements Manual from the date of such notice to the date the defect is corrected or until HUD reconveys the property to the Holder, as described in paragraph (b)(3) of this section. The daily holding costs to be charged to the Holder shall also include the costs specified in § 1005.851.
+
+(3) If the title defect is not corrected within a reasonable time, as determined by HUD, HUD will, after notice, reconvey the property to the Holder and the Holder must reimburse HUD in accordance with §§ 1005.849 and 1005.851.

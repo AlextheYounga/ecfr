@@ -1,0 +1,3 @@
+##### § 1005.835 Claim payment not conclusive evidence of claim meeting all HUD requirements. #####
+
+Payment of any claim by HUD is not conclusive evidence of compliance with the subparts D or G of this part. HUD reserves the right to conduct post-claim payment review of claims. Where non-compliance with any requirements of this part is identified, HUD will take appropriate action against the Holder, Originating Direct Guarantee Lender and/or Servicer, including but not limited to HUD's remedies under § 1005.805 and sanctions under §§ 1005.905 and 1005.907.

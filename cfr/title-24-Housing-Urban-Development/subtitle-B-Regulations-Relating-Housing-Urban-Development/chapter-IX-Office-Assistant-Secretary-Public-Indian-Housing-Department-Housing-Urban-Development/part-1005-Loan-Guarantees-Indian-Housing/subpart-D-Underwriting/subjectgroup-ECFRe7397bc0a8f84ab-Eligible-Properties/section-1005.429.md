@@ -1,0 +1,25 @@
+##### § 1005.429 Eligibility of Loans covering manufactured homes. #####
+
+A Loan covering a manufactured home (as defined in 24 CFR part 3280), shall be eligible for a Section 184 Guaranteed Loan when the following requirements have been met:
+
+(a) *For manufactured homes located on a fee simple property.* (1) A manufactured home, as erected on the property, must be installed in accordance with 24 CFR part 3286; conform with property standards under § 1005.419; and shall have been constructed in accordance with 24 CFR part 3280, as evidenced by the certification label.
+
+(2) The Loan shall cover the manufactured home(s) and site, shall constitute a loan on a property, and classified and taxed as real estate, as applicable.
+
+(3) In the case of a manufactured home which has not been permanently erected on a site for more than one year prior to the date of the application for the Loan Guarantee Certificate:
+
+(i) A manufactured home shall be erected on a site-built permanent foundation and shall be permanently attached thereto by anchoring devices adequate for all loads in accordance with 24 CFR part 3286. The towing hitch or running gear, which includes axles, brakes, wheels, and other parts of the chassis that operate only during transportation, shall have been removed. The finished grade level beneath the manufactured home shall be at least two feet above the 100-year return frequency flood elevation. The site, site improvements, and all other features of the property not addressed by the Manufactured Home Construction and Safety Standards shall meet or exceed applicable requirements of the Minimum Property Standards (MPS).
+
+(ii) The space beneath a manufactured home shall be enclosed by continuous foundation-type construction designed to resist all forces to which it is subject without transmitting forces to the building superstructure. The enclosure shall be adequately secured to the perimeter of the manufactured home and be constructed of materials that conform to MPS requirements for foundations.
+
+(iii) A manufactured home shall be braced and stiffened before it leaves the factory to resist racking and potential damage during transportation.
+
+(iv) Section 1005.433 is modified to the extent provided in this paragraph. Applications relating to the guarantee of loans under this paragraph (a) must be accompanied by an agreement in a form satisfactory to HUD executed by the seller or manufacturer or such other person as HUD may require, agreeing that in the event of any sale or conveyance of the property within a period of one year beginning with the date of initial occupancy, the seller, manufacturer, or such other person will, at the time of such sale or conveyance, deliver to the purchaser or owner of such property the manufacturer's warranty on a form prescribed by HUD. This warranty shall provide that the manufacturer's warranty is in addition to and not in derogation of all other rights and remedies the purchaser or owner may have, and a warranty in form satisfactory to HUD warranting that the manufactured home, the foundation, positioning, and anchoring of the manufactured home to its permanent foundation, and all site improvements are constructed in substantial conformity with the plans and specifications (including amendments thereof or changes and variations therein which have been approved in writing by HUD) on which HUD has based its valuation of the property. The warranty shall also expressly state that the manufactured home sustained no hidden damage during transportation, and if the manufactured home is a double-wide, that the sections were properly joined and sealed. The warranty must provide that upon the sale or conveyance of the property and delivery of the warranty, the seller, builder, or such other person will promptly furnish HUD with a conformed copy of the warranty establishing by the purchaser's receipt thereon that the original warranty has been delivered to the purchaser in accordance with this section.
+
+(4) In the case of a manufactured home which has been permanently erected on a site for more than one year prior to the date of the application for the Section 184 Guaranteed Loan:
+
+(i) A manufactured home shall be permanently anchored to and supported by permanent footings and shall have permanently installed utilities that are protected from freezing. The space beneath the manufactured home shall be a properly enclosed crawl space.
+
+(ii) The site, site improvements, and all other features of the property not addressed by 24 CFR parts 3280 and 3286 shall meet or exceed HUD requirements. The finished grade level beneath the manufactured home shall be at or above the 100-year return frequency flood elevation.
+
+(b) *For manufactured homes located on Trust Land.* Manufactured homes on Trust Land shall meet manufactured home installation standards pursuant to Tribal laws, if any. In the absence of Tribal laws, the requirements in paragraphs (a)(1), (3), and (4) of this section shall apply and other such requirements as established by Section 184 Program Guidance.

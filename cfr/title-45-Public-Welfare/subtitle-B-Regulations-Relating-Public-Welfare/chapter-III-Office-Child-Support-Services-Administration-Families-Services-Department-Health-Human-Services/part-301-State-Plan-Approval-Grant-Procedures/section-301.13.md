@@ -1,5 +1,7 @@
 ##### § 301.13 Approval of State plans and amendments. #####
 
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+
 The State plan consists of records furnished by the State to cover its Child Support Enforcement program under title IV-D of the Act. After approval of the original plan by the Office, all relevant changes, required by new statutes, rules, regulations, interpretations, and court decisions, are required to be submitted currently so that the Office may determine whether the plan continues to meet Federal requirements and policies.
 
 (a) *Submittal.* State plans and revisions of the plans are submitted first to the State governor or his designee for review in accordance with § 301.12, and then to the regional office. The States are encouraged to obtain consultation of the regional staff when a plan is in process of preparation or revision.

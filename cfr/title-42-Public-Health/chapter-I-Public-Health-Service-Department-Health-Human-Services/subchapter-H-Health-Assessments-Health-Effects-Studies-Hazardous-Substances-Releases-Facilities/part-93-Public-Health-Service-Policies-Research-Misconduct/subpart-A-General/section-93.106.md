@@ -1,11 +1,7 @@
-##### § 93.106 Evidentiary standards. #####
+##### § 93.106 Confidentiality. #####
 
-The following evidentiary standards apply to findings made under this part.
+(a) Disclosure of the identity of respondents, complainants, and witnesses while conducting the research misconduct proceedings is limited, to the extent possible, to those who need to know, as determined by the institution, consistent with a thorough, competent, objective, and fair research misconduct proceeding, and as allowed by law. Those who need to know may include institutional review boards, journals, editors, publishers, co-authors, and collaborating institutions. This limitation on disclosure of the identity of respondents, complainants, and witnesses no longer applies once an institution has made a final determination of research misconduct findings. The institution, however, must disclose the identity of respondents, complainants, or other relevant persons to ORI pursuant to an ORI review of research misconduct proceedings under this part.
 
-(a) *Standard of proof.* An institutional or HHS finding of research misconduct must be proved by a preponderance of the evidence.
+(b) Except as may otherwise be prescribed by applicable law, confidentiality must be maintained for any records or evidence from which research subjects might be identified. Disclosure is limited to those who need to know to carry out a research misconduct proceeding.
 
-(b) *Burden of proof.* (1) The institution or HHS has the burden of proof for making a finding of research misconduct. The destruction, absence of, or respondent's failure to provide research records adequately documenting the questioned research is evidence of research misconduct where the institution or HHS establishes by a preponderance of the evidence that the respondent intentionally, knowingly, or recklessly had research records and destroyed them, had the opportunity to maintain the records but did not do so, or maintained the records and failed to produce them in a timely manner and that the respondent's conduct constitutes a significant departure from accepted practices of the relevant research community.
-
-(2) The respondent has the burden of going forward with and the burden of proving, by a preponderance of the evidence, any and all affirmative defenses raised. In determining whether HHS or the institution has carried the burden of proof imposed by this part, the finder of fact shall give due consideration to admissible, credible evidence of honest error or difference of opinion presented by the respondent.
-
-(3) The respondent has the burden of going forward with and proving by a preponderance of the evidence any mitigating factors that are relevant to a decision to impose administrative actions following a research misconduct proceeding.
+(c) This section does not prohibit institutions from managing published data or acknowledging that data may be unreliable.

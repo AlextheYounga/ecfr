@@ -1,3 +1,3 @@
-##### § 93.203 Complainant. #####
+##### § 93.203 Allegation. #####
 
-*Complainant* means a person who in good faith makes an allegation of research misconduct.
+Allegation means a disclosure of possible research misconduct through any means of communication and brought directly to the attention of an institutional or HHS official.

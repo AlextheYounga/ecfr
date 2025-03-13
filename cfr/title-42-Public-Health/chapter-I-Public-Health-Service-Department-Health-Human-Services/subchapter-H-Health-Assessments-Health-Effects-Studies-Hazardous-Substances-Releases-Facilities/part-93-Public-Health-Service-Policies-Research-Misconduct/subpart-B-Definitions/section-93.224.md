@@ -1,3 +1,3 @@
-##### § 93.224 Research record. #####
+##### § 93.224 Notice. #####
 
-*Research record* means the record of data or results that embody the facts resulting from scientific inquiry, including but not limited to, research proposals, laboratory records, both physical and electronic, progress reports, abstracts, theses, oral presentations, internal reports, journal articles, and any documents and materials provided to HHS or an institutional official by a respondent in the course of the research misconduct proceeding.
+Notice means a written or electronic communication served in person or sent by mail or its equivalent to the last known street address, facsimile number, or email address of the addressee.

@@ -30,4 +30,5 @@
 
 (e) *Compliance reviews.* If the Administrator determines subsequent to the Year Six Final Service Milestone that a support recipient does not have sufficient evidence to demonstrate that it continues to offer service that meets the 5G Fund performance requirements specified in § 54.1015(c) to all of the eligible square kilometers in the state as required by the Year Six Final Service Milestone, the Administrator shall immediately recover a percentage of support from the support recipient as specified in paragraphs (c)(1) through(c)(3) and (d) of this section.
 
-Effective Date Note:At 85 FR 75822, Nov. 25, 2020, § 54.1020 was revised, however, paragraphs (a), (b), and (c)(1) and (c)(2) have a delayed effective date.
+Effective Date Note:At 85 FR 75822, Nov. 25, 2020,
+§ 54.1020 was revised, however, paragraphs (a), (b), and (c)(1) and (c)(2) have a delayed effective date.

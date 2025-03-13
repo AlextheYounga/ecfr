@@ -1,3 +1,3 @@
-##### § 93.212 Inquiry. #####
+##### § 93.212 Falsification. #####
 
-*Inquiry* means preliminary information-gathering and preliminary fact-finding that meets the criteria and follows the procedures of §§ 93.307-93.309.
+Falsification means manipulating research materials, equipment, or processes, or changing or omitting data or results such that the research is not accurately represented in the research record.

@@ -1,0 +1,3 @@
+##### § 93.230 PHS support. #####
+
+PHS support means PHS funding, or applications or proposals for PHS funding, for biomedical or behavioral research, biomedical or behavioral research training, or activities related to that research or training, that may be provided through: funding for PHS intramural research; PHS grants, cooperative agreements, or contracts; subawards, contracts, or subcontracts under those PHS funding instruments; or salary or other payments under PHS grants, cooperative agreements, or contracts.

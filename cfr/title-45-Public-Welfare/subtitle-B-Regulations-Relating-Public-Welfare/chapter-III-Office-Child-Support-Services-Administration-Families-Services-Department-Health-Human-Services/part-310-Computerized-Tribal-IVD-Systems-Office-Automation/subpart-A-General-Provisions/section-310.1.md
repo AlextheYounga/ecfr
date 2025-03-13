@@ -1,5 +1,7 @@
 ##### § 310.1 What definitions apply to this part? #####
 
+Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
+
 (a) The following definitions apply to this part and part 309:
 
 (1) *Automated Data Processing Services (ADP Services)* means services for installation, maintenance, operation, and enhancement of ADP equipment and software performed by a comprehensive Tribal IV-D agency or for that agency through a services agreement or other contractual relationship with a State, another Tribe or private sector entity.

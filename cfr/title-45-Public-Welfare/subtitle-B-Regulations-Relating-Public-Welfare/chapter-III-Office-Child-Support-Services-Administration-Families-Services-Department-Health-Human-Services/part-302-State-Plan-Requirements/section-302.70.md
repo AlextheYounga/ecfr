@@ -1,5 +1,7 @@
 ##### § 302.70 Required State laws. #####
 
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+
 (a) *Required Laws.* The State plan shall provide that, in accordance with sections 454(20) and 466 of the Act and part 303 of this chapter, the State has in effect laws providing for, and has implemented procedures to improve, program effectiveness:
 
 (1) Procedures for carrying out a program of withholding under which new or existing support orders are subject to the State law governing withholding so that a portion of the noncustodial parent's wages may be withheld, in accordance with the requirements set forth in § 303.100 of this chapter;

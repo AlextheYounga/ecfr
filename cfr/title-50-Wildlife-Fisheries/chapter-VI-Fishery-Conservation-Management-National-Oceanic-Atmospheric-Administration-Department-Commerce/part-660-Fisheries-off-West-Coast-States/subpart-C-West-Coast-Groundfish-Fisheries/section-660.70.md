@@ -1,7 +1,5 @@
 ##### § 660.70 Groundfish conservation areas. #####
 
-Link to an amendment published at 89 FR 101527, Dec. 16, 2024.
-
 (a) *General.* Groundfish conservation area (GCA) is defined in § 660.11. This section defines GCAs whose shapes are not exclusively defined by boundary lines approximating depth contours found in §§ 660.71 through 660.74 or commonly used geographic coordinates at § 660.11. Fishing activity that is prohibited or permitted within a particular GCA is detailed at subparts C through G of part 660.
 
 (b) *North Coast Recreational Yelloweye Rockfish Conservation Area.* The North Coast Recreational Yelloweye Rockfish Conservation Area (YRCA) is a C-shaped area off the northern Washington coast intended to protect yelloweye rockfish. The North Coast Recreational YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
@@ -396,9 +394,7 @@ and connecting back to 48°11.77′ N. lat., 125°13.03′ W. long.
 
 (iv) 32°20.00′ N lat., 119°37.00′ W long.
 
-(u) *Farallon Islands.* The Farallon Islands, off San Francisco and San Mateo Counties, include Southeast Farallon Island, Middle Farallon Island, North Farallon Island and Noon Day Rock. Generally, the State of California prohibits fishing for groundfish between the shoreline and the 10-fm (18-m) depth contour around the Farallon Islands.
-
-(v) *Cordell Bank.* Cordell Bank is located offshore of California's Marin County. Generally, fishing for groundfish is prohibited within Cordell Bank as defined by specific latitude and longitude coordinates. The Cordell Bank closed area is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
+(u) *Cordell Bank.* Cordell Bank is located offshore of California's Marin County. Generally, fishing for groundfish is prohibited within Cordell Bank as defined by specific latitude and longitude coordinates. The Cordell Bank closed area is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:
 
 (1) 38°03.18′ N lat., 123°20.77′ W long.;
 
@@ -418,4 +414,4 @@ and connecting back to 48°11.77′ N. lat., 125°13.03′ W. long.
 
 (9) 38°00.00′ N lat., 123°23.08′ W long.; and connecting back to 38°03.18′ N lat., 123°20.77′ W long.
 
-[71 FR 78663, Dec. 29, 2006, as amended at 72 FR 53167, Sept. 18, 2007; 74 FR 9893, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 53835, Aug. 30, 2011; 82 FR 9640, Feb. 7, 2017; 84 FR 63973, Nov. 19, 2019; 88 FR 83842, Dec. 1, 2023]
+[71 FR 78663, Dec. 29, 2006, as amended at 72 FR 53167, Sept. 18, 2007; 74 FR 9893, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 53835, Aug. 30, 2011; 82 FR 9640, Feb. 7, 2017; 84 FR 63973, Nov. 19, 2019; 88 FR 83842, Dec. 1, 2023; 89 FR 101527, Dec. 16, 2024]

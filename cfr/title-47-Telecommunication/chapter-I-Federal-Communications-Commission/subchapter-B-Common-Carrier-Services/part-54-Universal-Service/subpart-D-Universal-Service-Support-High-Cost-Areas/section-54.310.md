@@ -1,5 +1,7 @@
 ##### § 54.310 Connect America Fund for Price Cap Territories—Phase II. #####
 
+Link to an amendment published at 89 FR 107228, Dec. 31, 2024.
+
 (a) *Geographic areas eligible for support.* Connect America Phase II support may be made available for census blocks or other areas identified as eligible by public notice, including locations identified by the forward-looking cost model as extremely high-cost. The number of supported locations will be identified for each area eligible for support will be identified by public notice.
 
 (b) *Term of support.* Connect America Phase II model-based support shall be provided to price cap carriers that elect to make a state-level commitment for six years. Connect America Phase II support awarded through a competitive bidding process shall be provided for ten years.

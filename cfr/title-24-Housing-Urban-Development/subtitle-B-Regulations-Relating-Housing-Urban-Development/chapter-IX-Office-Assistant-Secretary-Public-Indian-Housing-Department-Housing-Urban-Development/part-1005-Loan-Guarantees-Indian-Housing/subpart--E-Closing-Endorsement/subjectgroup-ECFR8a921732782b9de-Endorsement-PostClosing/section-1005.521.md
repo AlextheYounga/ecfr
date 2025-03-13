@@ -1,0 +1,3 @@
+##### § 1005.521 Pre-endorsement review and requirements. #####
+
+Direct Guarantee Lender must complete a pre-endorsement review of the endorsement case binder. This review must be conducted by staff not involved in the originating, processing, or underwriting of the Loan. This review must also confirm that the loan was underwritten by an approved Direct Guarantee Lender. The endorsement case binder must contain all documentation relied upon by the Direct Guarantee Lender to justify its decision to approve the Loan in accordance with subpart D of this part. Upon finalizing the pre-endorsement review, the Direct Guarantee Lender must certify that all required documents are submitted and meet the requirements of § 1005.503.

@@ -1,7 +1,5 @@
 ##### § 416.171 Determination of payment rates for ASC services. #####
 
-Link to an amendment published at 89 FR 94588, Nov. 27, 2024.
-
 (a) *Standard methodology.* The standard methodology for determining the national unadjusted payment rate for ASC services is to calculate the product of the applicable conversion factor and the relative payment weight established under § 416.167(b), unless otherwise indicated in this section.
 
 (1) *Conversion factor for CY 2008.* CMS calculates a conversion factor so that payment for ASC services furnished in CY 2008 would result in the same aggregate amount of expenditures as would be made if the provisions in this Subpart F did not apply, as estimated by CMS.
@@ -32,7 +30,7 @@ Link to an amendment published at 89 FR 94588, Nov. 27, 2024.
 
 (b) *Exception.* The national ASC payment rates for the following items and services are not determined in accordance with paragraph (a) of this section but are paid an amount derived from the payment rate for the equivalent item or service set under the payment system established in part 419 of this subchapter as updated annually in the Federal Register and/or via the Internet on the CMS Web site. If a payment rate is not available, the following items and services are designated as contractor-priced:
 
-(1) Covered ancillary services specified in § 416.164(b), with the exception of radiology services and certain diagnostic tests as provided in § 416.164(b)(5) and non-opioid pain management drugs and biologicals that function as a supply when used in a surgical procedure as determined by CMS under § 416.174.
+(1) Covered ancillary services specified in § 416.164(b), with the exception of radiology services and certain diagnostic tests as provided in § 416.164(b)(5) and non-opioid pain management drugs, biologicals, and medical devices as determined by CMS under § 416.174.
 
 (2) The device portion of device-intensive procedures, which are procedures that—
 
@@ -66,4 +64,4 @@ Link to an amendment published at 89 FR 94588, Nov. 27, 2024.
 
 (2) For CY 2009 and subsequent calendar years, CMS adjusts the ASC relative payment weights under § 416.167(b)(2) as needed so that any updates and adjustments made under § 419.50(a) of this subchapter are budget neutral as estimated by CMS.
 
-[72 FR 42545, Aug. 2, 2007, as amended at 75 FR 72264, Nov. 24, 2010; 76 FR 74582, Nov. 30, 2011; 77 FR 277, Jan. 4, 2012; 77 FR 68558, Nov. 15, 2012; 79 FR 67030, Nov. 10, 2014; 81 FR 79879, Nov. 14, 2016; 83 FR 59178, Nov. 21, 2018; 84 FR 61490, Nov. 12, 2019; 86 FR 63993, Nov. 16, 2021; 88 FR 82179, Nov. 22, 2023]
+[72 FR 42545, Aug. 2, 2007, as amended at 75 FR 72264, Nov. 24, 2010; 76 FR 74582, Nov. 30, 2011; 77 FR 277, Jan. 4, 2012; 77 FR 68558, Nov. 15, 2012; 79 FR 67030, Nov. 10, 2014; 81 FR 79879, Nov. 14, 2016; 83 FR 59178, Nov. 21, 2018; 84 FR 61490, Nov. 12, 2019; 86 FR 63993, Nov. 16, 2021; 88 FR 82179, Nov. 22, 2023; 89 FR 94588, Nov. 27, 2024]

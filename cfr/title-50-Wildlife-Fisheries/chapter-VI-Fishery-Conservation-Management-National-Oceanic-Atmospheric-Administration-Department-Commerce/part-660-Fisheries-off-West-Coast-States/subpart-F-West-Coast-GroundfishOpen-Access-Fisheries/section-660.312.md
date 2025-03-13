@@ -1,7 +1,5 @@
 ##### § 660.312 Open access fishery—prohibitions. #####
 
-Link to an amendment published at 89 FR 101538, Dec. 16, 2024.
-
 In addition to the general prohibitions specified in §§ 660.12 and 600.725 of this chapter, it is unlawful for any person to:
 
 (a) *General.* (1) Take and retain, possess, or land groundfish in excess of the landing limit for the open access fishery without having a valid limited entry permit for the vessel affixed with a gear endorsement for the gear used to catch the fish.
@@ -13,6 +11,8 @@ In addition to the general prohibitions specified in §§ 660.12 and 600.725 of 
 (4) Mix fish from more than one landing, where one or more of the landings includes any amount of sablefish, prior to the fish being sorted and weighed for reporting on an electronic fish ticket under § 660.313(f).
 
 (5) Process, sell, or discard any fish if that fish includes any amount of sablefish, that has not been accounted for on an electronic fish ticket under § 660.313(f).
+
+(6) Take and retain, possess, or land groundfish in the directed open access fishery without having a valid directed open access permit for the vessel.
 
 (b) *Recordkeeping and reporting.* (1) Fail to comply with all recordkeeping and reporting requirements at § 660.13, subpart C, including failure to submit information, or submission of inaccurate or false information on any report required at § 660.13(d), subpart C, and § 660.313.
 
@@ -28,7 +28,7 @@ In addition to the general prohibitions specified in §§ 660.12 and 600.725 of 
 
 (d) *Fishing in conservation areas with open access gears.* (1) Operate a vessel with non-groundfish trawl gear onboard in any applicable GCA (as defined at § 660.330(d)) except for purposes of continuous transiting, with all trawl gear stowed in accordance with § 660.330(b), or except as authorized in the groundfish management measures published at § 660.330.
 
-(2) Operate a vessel in an applicable GCA (as defined at § 660.330(d) that has nontrawl gear onboard and is not registered to a limited entry permit on a trip in which the vessel is used to take and retain or possess groundfish in the EEZ, possess or land groundfish taken in the EEZ, except for purposes of continuous transiting, with all groundfish nontrawl gear stowed in accordance with § 660.330(b), or except as authorized in the groundfish management measures published at § 660.330.
+(2) Operate a vessel in an applicable GCA (as defined at § 660.330(d) that has non-trawl gear onboard and is not registered to a limited entry permit on a trip in which the vessel is used to take and retain or possess groundfish in the EEZ, possess or land groundfish taken in the EEZ, except for purposes of continuous transiting, with all groundfish non-trawl gear stowed in accordance with § 660.330(b), or except as authorized in the groundfish management measures published at § 660.330.
 
 (3) Fish with bottom contact gear (defined at § 660.11) within specific EFHCAs or the DECA, as specified in § 660.12(a).
 
@@ -40,6 +40,6 @@ In addition to the general prohibitions specified in §§ 660.12 and 600.725 of 
 
 (7) Fish with bottom trawl gear (defined at § 660.11), other than demersal seine, unless otherwise specified in this section or § 660.330, within the EEZ in the following EFHCAs (defined at § 660.79): Brush Patch, Trinidad Canyon, Mad River Rough Patch, Samoa Deepwater, Eel River Canyon, Blunts Reef, Mendocino Ridge, Delgada Canyon, Tolo Bank, Navarro Canyon, Point Arena North, Point Arena South Biogenic Area, the Football, Gobbler's Knob, Point Reyes Reef, Cordell Bank/Biogenic Area, Rittenburg Bank, Farallon Islands/Fanny Shoal/Cochrane Bank, Farallon Escarpment, Half Moon Bay, Pescadero Reef, Pigeon Point Reef, Ascension Canyonhead, South of Davenport, Monterey Bay/Canyon, West of Sobranes Point, Point Sur Deep, Big Sur Coast/Port San Luis, La Cruz Canyon, West of Piedras Blancas State Marine Conservation Area, East San Lucia Bank, Point Conception, Hidden Reef/Kidney Bank, Catalina Island, Potato Bank, Cherry Bank, Cowcod EFHCA East, and Southern California Bight.
 
-(8) Fish inside the nontrawl RCA with any gear type other than those specified at § 660.330(b)(3). In addition, a vessel may not carry more than one gear type as specified at § 660.330(b)(3) on board while declared to fish inside the nontrawl RCA (see § 660.13(d)(4)(iv)(A) for valid declarations for use inside the nontrawl RCA).
+(8) Fish inside the Non-Trawl RCA with any gear type other than those specified at § 660.330(b)(3). In addition, a vessel may not carry more than one gear type as specified at § 660.330(b)(3) on board while declared to fish inside the Non-Trawl RCA (see § 660.13(d)(4)(iv)(A) for valid declarations for use inside the Non-Trawl RCA).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 81 FR 84433, Nov. 23, 2016; 84 FR 63992, Nov. 19, 2019; 88 FR 83852, Dec. 1, 2023]
+[75 FR 60897, Oct. 1, 2010, as amended at 81 FR 84433, Nov. 23, 2016; 84 FR 63992, Nov. 19, 2019; 88 FR 83852, Dec. 1, 2023; 89 FR 101522, 101538, Dec. 16, 2024]

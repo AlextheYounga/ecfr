@@ -1,5 +1,7 @@
 ##### § 54.320 Compliance and recordkeeping for the high-cost program. #####
 
+Link to an amendment published at 89 FR 107233, Dec. 31, 2024.
+
 (a) Eligible telecommunications carriers authorized to receive universal service high-cost support are subject to random compliance audits and other investigations to ensure compliance with program rules and orders.
 
 (b) All eligible telecommunications carriers shall retain all records required to demonstrate to auditors that the support received was consistent with the universal service high-cost program rules. This documentation must be maintained for at least ten years from the receipt of funding. All such documents shall be made available upon request to the Commission and any of its Bureaus or Offices, the Administrator, and their respective auditors.
@@ -18,7 +20,8 @@
 
 (iv) *Tier 4.* If an eligible telecommunications carrier has a compliance gap of 50 percent or more of the number of locations that the eligible telecommunications carrier is required to have built out to or, in the case of Alaska Plan mobile-carrier participants, population covered by the specified technology, middle mile, and speed of service in the carrier's approved performance plan, by the interim milestone:
 
-(A) USAC will withhold 50 percent of the eligible telecommunications carrier's monthly support for that support area, and the eligible telecommunications carrier will be required to file quarterly reports. As with the other tiers, as the eligible telecommunications carrier reports that it has lessened the extent of its non-compliance, and the Wireline Competition Bureau or Wireless Telecommunications Bureau issues a letter to that effect, it will move down the tiers until it reaches Tier 1 (or no longer is out of compliance with the relevant interim milestone).
+(A) USAC will withhold 50 percent of the eligible telecommunications carrier's monthly support for that support area, and the eligible telecommunications carrier will be required to file quarterly reports.
+As with the other tiers, as the eligible telecommunications carrier reports that it has lessened the extent of its non-compliance, and the Wireline Competition Bureau or Wireless Telecommunications Bureau issues a letter to that effect, it will move down the tiers until it reaches Tier 1 (or no longer is out of compliance with the relevant interim milestone).
 
 (B) If after having 50 percent of its support withheld for six months the eligible telecommunications carrier has not reported that it is eligible for Tier 3 status (or one of the other lower tiers), USAC will withhold 100 percent of the eligible telecommunications carrier's monthly support and will commence a recovery action for a percentage of support that is equal to the eligible telecommunications carrier's compliance gap plus 10 percent of the ETC's support that has been disbursed to that date.
 

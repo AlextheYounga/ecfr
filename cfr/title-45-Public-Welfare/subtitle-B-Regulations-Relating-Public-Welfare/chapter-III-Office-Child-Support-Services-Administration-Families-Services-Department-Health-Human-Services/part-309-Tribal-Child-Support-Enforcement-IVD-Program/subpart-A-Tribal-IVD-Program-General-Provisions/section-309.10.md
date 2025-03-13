@@ -1,5 +1,7 @@
 ##### § 309.10 Who is eligible to apply for and receive Federal funding to operate a Tribal IV-D program? #####
 
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+
 The following Tribes or Tribal organizations are eligible to apply to receive Federal funding to operate a Tribal IV-D program meeting the requirements of this part:
 
 (a) An Indian Tribe with at least 100 children under the age of majority as defined by Tribal law or code, in the population subject to the jurisdiction of the Tribal court or administrative agency.

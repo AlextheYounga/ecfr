@@ -1,7 +1,5 @@
 ##### § 410.152 Amounts of payment. #####
 
-Link to an amendment published at 89 FR 98558, Dec. 9, 2024.
-
 (a) *General provisions*—(1) *Exclusion from incurred expenses.* As used in this section, “incurred expenses” are expenses incurred by an individual, during his or her coverage period, for covered Part B services, excluding the following:
 
 (i) Expenses incurred for services for which the beneficiary is entitled to have payment made under Medicare Part A or would be so entitled except for the application of the Part A deductible and coinsurance requirements.
@@ -163,5 +161,39 @@ Link to an amendment published at 89 FR 98558, Dec. 9, 2024.
 (m) *Amount of payment: Rebatable drugs.* In the case of a rebatable drug (as defined in section 1847A(i)(2)(A) of the Act), including a selected drug (as defined in section 1192(c) of the Act), furnished by providers on or after April 1, 2023, in a calendar quarter during which the payment amount for such drug as specified in section 1847A(i)(3)(A)(ii)(I)(aa) or (bb), as applicable, exceeds the inflation-adjusted amount (as defined in section 1847A(i)(3)(C) of the Act) for such drug, Medicare Part B pays, subject to the deductible, the difference between the allowed payment amount determined under section 1847A of the Act and 20 percent of the inflation-adjusted amount, which is applied as a percent to the payment amount for such calendar quarter.
 
 (n) *Amount of payment: Insulin furnished through an item of durable medical equipment.* For insulin furnished on or after July 1, 2023 through an item of durable medical equipment (as defined in § 414.202), Medicare Part B pays the difference between the applicable payment amount for such insulin and the coinsurance amount, with the coinsurance amount not to exceed $35 for a month's supply.
+
+(o) *Amount of payment: Drugs covered as additional preventive services (DCAPS).* For a drug covered as an additional preventive service, as defined at § 410.64, payment must be made as follows:
+
+(1) Payment for a drug covered as an additional preventive service, per section 1861(a)(1)(W)(ii) of the Act and paragraphs (l)(11) of this section and § 410.160(b)(13), is 100 percent of the lesser of—
+
+(i) The actual charge on the claim for program benefits; or
+
+(ii) The amount determined under the fee schedule as described in paragraph (o)(3) of this section.
+
+(2) Payment for the supplying or administration of a drug covered as an additional preventive service per section 1861(a)(1)(W)(ii) of the Act and paragraphs (l)(11) of this section and § 410.160(b)(13), is 100 percent of the lesser of—
+
+(i) The actual charge on the claim for program benefits; or
+
+(ii) The amount determined under the fee schedule as described in paragraph (o)(4) of this section.
+
+(3) The payment limit for a drug covered as an additional preventive service, as defined at § 410.64, appears on the DCAPS fee schedule and is determined as follows:
+
+(i) If Average Sales Price (ASP) data is available for the drug, consistent with part 414, subpart J, of this chapter, then the payment limit is determined using the methodology set forth in section 1847A of the Act and according to the provisions in part 414, subpart K, of this chapter.
+
+(ii) If ASP data is not available, then the payment limit is determined according to the most recently published National Average Drug Acquisition Cost (NADAC) prices for the drug and is the lesser of the median NADAC price of all generic forms of the drug or the lowest NADAC price brand name product.
+
+(iii) If ASP data and NADAC prices are not available, then the payment limit is determined according to the most recently published pharmaceutical pricing data for the drug as included in the Federal Supply Schedule (FSS), as managed by the Department of Veterans Affairs per 48 CFR part 38, and is the lesser of the median FSS price of all generic forms of the drug or the lowest FSS price brand name product.
+
+(iv) If ASP data, NADAC prices, and FSS pharmaceutical prices are not available, then the payment limit is the invoice price determined by the MAC.
+
+(4) The payment limits for supplying and administering a drug covered as an additional preventive service, as defined at § 410.64, appear on the DCAPS fee schedule and are determined as follows:
+
+(i) For a drug that is supplied by a pharmacy, the payment limit for a supplying fee is as follows:
+
+(A) For the first prescription that the pharmacy provides to a beneficiary in a 30-day period for a drug covered as an additional preventive service, $24.
+
+(B) For all subsequent prescriptions that the pharmacy provides to a beneficiary in a 30-day period for a drug covered as an additional preventive service, $16.
+
+(ii) For a drug that is administered by a physician or a non-physician practitioner, the payment limit for administration is set in accordance with part 414, subpart B, of this chapter. This fee is not subject to the Part B deductible, per § 410.160(b)(13). This fee is equal to 100 percent of the Medicare payment amount established under the applicable payment methodology, per paragraph (l)(11) of this section.
 
 [51 FR 41339, Nov. 14, 1986; 52 FR 4499, Feb. 12, 1987]Editorial Note:For Federal Register citations affecting § 410.152, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

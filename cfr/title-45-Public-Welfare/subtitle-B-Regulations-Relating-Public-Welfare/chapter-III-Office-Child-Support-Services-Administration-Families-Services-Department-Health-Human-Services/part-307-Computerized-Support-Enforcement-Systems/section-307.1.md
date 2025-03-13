@@ -1,5 +1,7 @@
 ##### § 307.1 Definitions. #####
 
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+
 (a) *Alternative approach to APD requirements* means that the State has developed an APD that does not meet all conditions for APD approval in § 307.15(b) resulting in the need for a waiver under § 307.5.
 
 (b) *Business day* means a day on which State offices are open for business.

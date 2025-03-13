@@ -1,3 +1,3 @@
-##### § 93.204 Contract. #####
+##### § 93.204 Assessment. #####
 
-*Contract* means an acquisition instrument awarded under the HHS Federal Acquisition Regulation (FAR), 48 CFR Chapter 1, excluding any small purchases awarded pursuant to FAR Part 13.
+Assessment means a consideration of whether an allegation of research misconduct appears to fall within the definition of research misconduct; appears to involve PHS-supported biomedical or behavioral research, biomedical or behavioral research training, or activities related to that research or research training; and is sufficiently credible and specific so that potential evidence of research misconduct may be identified. The assessment only involves the review of readily accessible information relevant to the allegation.

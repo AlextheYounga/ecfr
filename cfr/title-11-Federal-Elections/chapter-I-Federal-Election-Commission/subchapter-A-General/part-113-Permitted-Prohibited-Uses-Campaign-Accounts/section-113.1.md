@@ -1,7 +1,5 @@
 ##### § 113.1 Definitions (52 U.S.C. 30114). #####
 
-Link to an amendment published at 89 FR 78206, Sept. 25, 2024.
-
 When used in this part—
 
 (a) *Funds donated. Funds donated* means all funds, including, but not limited to, gifts, loans, advances, credits or deposits of money which are donated for the purpose of supporting the activities of a Federal or State officeholder; but does not mean funds appropriated by Congress, a State legislature, or another similar public appropriating body, or personal funds of the officeholder donated to an account containing only those personal funds.
@@ -104,4 +102,14 @@ When used in this part—
 
 (9) *Recordkeeping.* For those uses of campaign funds described in paragraphs (g)(1)(i) and (g)(1)(ii) of this section that involve both personal use and either campaign or office-holder use, a contemporaneous log or other record must be kept to document the dates and expenses related to the personal use of the campaign funds. The log must be updated whenever campaign funds are used for personal expenses, as described in paragraph (g)(1) of this section, rather than for campaign or office-holder expenses. The log or other record must also be maintained and preserved for 3 years after the report disclosing the disbursement is filed, pursuant to 11 CFR 102.9 and 104.14(b).
 
-[45 FR 15124, Mar. 7, 1980, as amended at 56 FR 34126, July 25, 1991; 60 FR 7874, Feb. 9, 1995; 67 FR 38361, June 4, 2002; 67 FR 76978, Dec. 13, 2002; 73 FR 79602, Dec. 30, 2008; 75 FR 32, Jan. 4, 2010; 79 FR 77849, Dec. 29, 2014; 81 FR 34863, June 1, 2016; 89 FR 13, Jan. 2, 2024]
+(10) *Candidate and federal officeholder security.* The use of campaign funds to pay for the reasonable costs of security measures for a federal candidate, federal officeholder, member of their family, and employees—as defined in 26 CFR 31.3401(c)-1)—of the candidate's campaign or the federal officeholder's office, is not personal use, so long as the security measures address ongoing dangers or threats that would not exist irrespective of the individual's status or duties as a federal candidate or federal officeholder. Disbursements for security measures must be for the usual and normal charge for such goods or services. *Usual and normal charge* means, in the case of goods, the price of those goods in the market in which they are ordinarily purchased, and, in the case of services, the hourly or piecework charge for the services at a commercially reasonable rate prevailing at the time the services were rendered. Examples of such security measures include, but are not limited to:
+
+(i) Non-structural security devices, such as security hardware, locks, alarm systems, motion detectors, and security camera systems;
+
+(ii) Structural security devices, such as wiring, lighting, gates, doors, and fencing, so long as such devices are intended solely to provide security and not to improve the property or increase its value;
+
+(iii) Security personnel and services that are bona fide, legitimate, and professional; and
+
+(iv) Cybersecurity software, devices, and services.
+
+[45 FR 15124, Mar. 7, 1980, as amended at 56 FR 34126, July 25, 1991; 60 FR 7874, Feb. 9, 1995; 67 FR 38361, June 4, 2002; 67 FR 76978, Dec. 13, 2002; 73 FR 79602, Dec. 30, 2008; 75 FR 32, Jan. 4, 2010; 79 FR 77849, Dec. 29, 2014; 81 FR 34863, June 1, 2016; 89 FR 13, Jan. 2, 2024; 89 FR 78206, Sept. 25, 2024]

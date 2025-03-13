@@ -1,0 +1,3 @@
+##### § 1005.307 Tribal annual recertification. #####
+
+A Tribe shall recertify annually to HUD whether it continues to meet the requirements of this subpart, on a form and by a deadline prescribed by Section 184 Program Guidance. Recertification shall include Tribal certification of no changes to the Tribe's foreclosure, eviction, lease, and lien priority ordinances. The Tribe shall provide any updated contact information and similar information that may be required under Section 184 Program Guidance.

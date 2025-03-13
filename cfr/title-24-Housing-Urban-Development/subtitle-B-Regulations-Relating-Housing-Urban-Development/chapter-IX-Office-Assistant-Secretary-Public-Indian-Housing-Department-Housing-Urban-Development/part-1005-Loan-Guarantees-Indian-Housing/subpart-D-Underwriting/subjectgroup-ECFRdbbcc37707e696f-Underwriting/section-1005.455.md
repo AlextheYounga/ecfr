@@ -1,0 +1,7 @@
+##### § 1005.455 Direct guarantee underwriting. #####
+
+(a) *Underwriter due diligence.* A Direct Guarantee Lender shall exercise the same level of care which it would exercise in obtaining and verifying information for a Loan in which the Direct Guarantee Lender would be entirely dependent on the property as security to protect its investment. Direct Guarantee Lender procedures that evidence such due diligence shall be incorporated as part of the quality control plan required under § 1005.219. Compliance with HUD-prescribed underwriting guidelines shall be the minimum standard of due diligence in underwriting the Loans. Failure to comply with HUD-prescribed underwriting guidelines may result in sanctions in accordance with §§ 1005.905 and 1005.907.
+
+(b) *Evaluating the Borrower(s) qualifications.* The Direct Guarantee Lender shall evaluate the Borrower's credit characteristics, the adequacy and stability of the Borrower's income to meet the periodic payments under the loan and all other obligations, the adequacy of the Borrower's available assets to close the transaction, the Borrower's management capacity and grant performance, if applicable, and render an underwriting decision in accordance with applicable regulations, policies, and procedures.
+
+(c) *Assumption.* Applications for the assumption of an existing Section 184 Guaranteed Loan shall be underwritten using the same Borrower eligibility and underwriting standards in accordance with this subpart.

@@ -3363,4 +3363,4 @@ The provisions of paragraphs (d)(53)(i) through (iii) of this section shall not 
 
 (iii) The GOES satellite receiver shall not claim protection from existing and future stations in the fixed service (ITU Radio Regulation No. 5.43A does not apply).
 
-[49 FR 2373, Jan. 19, 1984] Editorial Note: For Federal Register citations affecting § 2.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[49 FR 2373, Jan. 19, 1984]Editorial Note: For Federal Register citations affecting § 2.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

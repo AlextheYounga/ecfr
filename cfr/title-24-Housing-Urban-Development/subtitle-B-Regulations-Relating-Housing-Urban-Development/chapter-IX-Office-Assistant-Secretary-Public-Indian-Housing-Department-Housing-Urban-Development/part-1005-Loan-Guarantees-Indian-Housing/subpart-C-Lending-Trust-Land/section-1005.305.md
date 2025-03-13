@@ -1,0 +1,3 @@
+##### § 1005.305 Approval of Tribal application. #####
+
+HUD shall review applications under § 1005.303 and where all requirements of § 1005.301 are met, HUD shall provide written notification of the approval of the Tribe to participate in the Section 184 Program. If HUD determines the application is incomplete, or the documents submitted do not comply with the requirements of this subpart or any process prescribed in Section 184 Program Guidance, HUD will work with the Tribe to cure the deficiencies before there is a denial of the application.

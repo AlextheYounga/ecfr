@@ -1,8 +1,6 @@
 ##### § 410.52 Home dialysis services, supplies, and equipment: Scope and conditions. #####
 
-Link to an amendment published at 89 FR 89211, Nov. 12, 2024.
-
-(a) Medicare Part B pays for the following services, supplies, and equipment furnished to an ESRD patient in his or her home:
+(a) Medicare Part B pays for the following services, supplies, and equipment furnished to a patient with ESRD or an individual with Acute Kidney Injury (AKI) as defined in § 413.371 of this chapter in his or her home:
 
 (1) Purchase or rental, installation, and maintenance of all dialysis equipment necessary for home dialysis, and reconditioning of this equipment. Dialysis equipment includes, but is not limited to, artificial kidney and automated peritoneal dialysis machines, and support equipment such as blood pumps, bubble detectors, and other alarm systems.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 89 FR 89211, Nov. 12, 2024.
 
 (b) Home dialysis support services specified in paragraph (a)(3) of this section must be furnished in accordance with a written treatment plan that is prepared and reviewed by a team consisting of the individual's physician and other qualified professionals. (Section 494.90 of this chapter contains details on patient plans of care).
 
-[51 FR 41339, Nov. 14, 1986, as amended at 56 FR 43709, Sept. 4, 1991; 59 FR 26959, May 25, 1994; 73 FR 20474, Apr. 15, 2008]
+[51 FR 41339, Nov. 14, 1986, as amended at 56 FR 43709, Sept. 4, 1991; 59 FR 26959, May 25, 1994; 73 FR 20474, Apr. 15, 2008; 89 FR 89211, Nov. 12, 2024]

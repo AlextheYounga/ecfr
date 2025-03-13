@@ -1,7 +1,5 @@
 ##### § 485.618 Condition of participation: Emergency services. #####
 
-Link to an amendment published at 89 FR 94592, Nov. 27, 2024.
-
 The CAH provides emergency care necessary to meet the needs of its inpatients and outpatients.
 
 (a) *Standard: Availability.* Emergency services are available on a 24-hours a day basis.
@@ -48,6 +46,20 @@ The CAH provides emergency care necessary to meet the needs of its inpatients an
 
 (4) The request, as specified in paragraph (d)(3)(iii) of this section, and the withdrawal of the request, may be submitted to us at any time, and are effective upon submission.
 
-(e) *Standard: Coordination with emergency response systems.* The CAH must, in coordination with emergency response systems in the area, establish procedures under which a doctor of medicine or osteopathy is immediately available by telephone or radio contact on a 24-hours a day basis to receive emergency calls, provide information on treatment of emergency patients, and refer patients to the CAH or other appropriate locations for treatment.
+(e) *Standard: Emergency services readiness.* Effective July 1, 2025, in accordance with the complexity and scope of services offered, there must be adequate provisions (as required under paragraphs (b) and (c) of this section) and protocols to meet the emergency needs of patients.
 
-[58 FR 30671, May 26, 1993, as amended at 62 FR 46037, Aug. 29, 1997; 64 FR 41544, July 30, 1999; 67 FR 80041, Dec. 31, 2002; 69 FR 49271, Aug. 11, 2004; 71 FR 68230, Nov. 24, 2006]
+(1) *Protocols.* Protocols must be consistent with nationally recognized and evidence-based guidelines for the care of patients with emergency conditions, including but not limited to patients with obstetrical emergencies, complications, and immediate post-delivery care.
+
+(2) *Staff training.* Applicable staff, as identified by the CAH, must be trained annually on the protocols and provisions implemented pursuant to this section.
+
+(i) The governing body must identify and document which staff must complete such training.
+
+(ii) The CAH must document in the staff personnel records that the training was successfully completed.
+
+(iii) The CAH must be able to demonstrate staff knowledge on such training.
+
+(iv) The CAH must use findings from its QAPI program, as required at § 485.641, to inform staff training needs and any additions, revisions, or updates to training topics on an ongoing basis.
+
+(f) *Standard: Coordination with emergency response systems.* The CAH must, in coordination with emergency response systems in the area, establish procedures under which a doctor of medicine or osteopathy is immediately available by telephone or radio contact on a 24-hours a day basis to receive emergency calls, provide information on treatment of emergency patients, and refer patients to the CAH or other appropriate locations for treatment.
+
+[58 FR 30671, May 26, 1993, as amended at 62 FR 46037, Aug. 29, 1997; 64 FR 41544, July 30, 1999; 67 FR 80041, Dec. 31, 2002; 69 FR 49271, Aug. 11, 2004; 71 FR 68230, Nov. 24, 2006; 89 FR 94592, Nov. 27, 2024]

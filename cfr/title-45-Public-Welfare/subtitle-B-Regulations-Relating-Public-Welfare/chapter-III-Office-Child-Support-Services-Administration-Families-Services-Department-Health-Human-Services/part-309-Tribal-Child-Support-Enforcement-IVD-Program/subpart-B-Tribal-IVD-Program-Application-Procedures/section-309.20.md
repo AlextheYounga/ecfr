@@ -1,5 +1,7 @@
 ##### § 309.20 Who submits a Tribal IV-D program application and where? #####
 
+Link to an amendment published at 89 FR 107020, Dec. 31, 2024.
+
 (a) The authorized representative of the Tribe or Tribal organization must sign and submit the Tribal IV-D program application.
 
 (b) Applications must be submitted to the Office of Child Support Enforcement, Attention: Federal Office of Child Support Enforcement , with a copy to the appropriate regional office.

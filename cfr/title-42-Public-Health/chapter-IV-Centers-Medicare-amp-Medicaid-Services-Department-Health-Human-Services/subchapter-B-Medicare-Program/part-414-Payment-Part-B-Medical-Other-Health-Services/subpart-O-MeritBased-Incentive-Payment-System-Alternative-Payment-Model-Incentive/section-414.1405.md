@@ -1,7 +1,5 @@
 ##### § 414.1405 Payment. #####
 
-Link to an amendment published at 89 FR 98564, Dec. 9, 2024.
-
 (a) *General.* Each MIPS eligible clinician receives a MIPS payment adjustment factor, and if applicable an additional MIPS payment adjustment factor for exceptional performance, for a MIPS payment year determined by comparing their final score to the performance threshold and additional performance threshold for the year.
 
 (b) *Performance threshold.* A performance threshold will be specified for each MIPS payment year.
@@ -29,6 +27,12 @@ Link to an amendment published at 89 FR 98564, Dec. 9, 2024.
 (ii) The performance threshold for the 2025 MIPS payment year is 75 points. The prior period used to determine the performance threshold is the 2019 MIPS payment year.
 
 (iii) The performance threshold for the 2026 MIPS payment year is 75 points. The prior period to determine the performance threshold is the 2019 MIPS payment year.
+
+(10) Pursuant to the methodology established at paragraph (g)(2) of this section:
+
+(i) The performance threshold for the 2027 MIPS payment year is 75 points. The prior period used to determine the performance threshold is the 2019 MIPS payment year.
+
+(ii) [Reserved]
 
 (c) *Applicable percent.* For MIPS payment year 2019, 4 percent. For MIPS payment year 2020, 5 percent. For MIPS payment year 2021, 7 percent. For MIPS payment year 2022 and each subsequent MIPS payment year, 9 percent.
 
@@ -58,6 +62,8 @@ Link to an amendment published at 89 FR 98564, Dec. 9, 2024.
 
 (3) Either have a specified payment amount or are paid according to a methodology for calculating a model-specific payment that is applied in a consistent manner to all model participants, such that application of the MIPS payment adjustment factors would potentially interfere with CMS's ability to effectively evaluate the impact of the APM.
 
-(g) *Performance threshold methodology.* For each of the 2024, 2025, and 2026 MIPS payment years, the performance threshold is the mean of the final scores for all MIPS eligible clinicians from a prior period as specified under paragraph (b) of this section.
+(g) *Performance threshold methodology.* (1) For each of the 2024, 2025, and 2026 MIPS payment years, the performance threshold is the mean of the final scores for all MIPS eligible clinicians from a prior period as specified under paragraph (b)(9) of this section.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53960, Nov. 16, 2017; 83 FR 60089, Nov. 23, 2018; 84 FR 63200, Nov. 15, 2019; 86 FR 65681, Nov. 19, 2021; 87 FR 70229, Nov. 18, 2022; 88 FR 79538, Nov. 16, 2023; 89 FR 9784, Feb. 12, 2024]
+(2) For each of the 2027, 2028, and 2029 MIPS payment years, the performance threshold is the mean of the final scores for all MIPS eligible clinicians from a prior period as specified under paragraph (b)(10) of this section.
+
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53960, Nov. 16, 2017; 83 FR 60089, Nov. 23, 2018; 84 FR 63200, Nov. 15, 2019; 86 FR 65681, Nov. 19, 2021; 87 FR 70229, Nov. 18, 2022; 88 FR 79538, Nov. 16, 2023; 89 FR 9784, Feb. 12, 2024; 89 FR 98564, Dec. 9, 2024]

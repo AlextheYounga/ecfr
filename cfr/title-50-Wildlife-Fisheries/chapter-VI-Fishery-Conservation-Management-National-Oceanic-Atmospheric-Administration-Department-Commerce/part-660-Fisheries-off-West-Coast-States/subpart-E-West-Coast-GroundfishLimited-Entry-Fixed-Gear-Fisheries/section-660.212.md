@@ -20,7 +20,7 @@ These prohibitions are specific to the limited entry fixed gear fisheries and to
 
 (2) Fish with bottom contact gear (defined at § 660.11) within specific EFHCAs or the DECA, as specified in § 660.12(a).
 
-(3) Fish inside the nontrawl RCA with any gear type other than those specified at § 660.230(b)(6). In addition, a vessel may not carry more than one gear type as specified at § 660.230(b)(6) on board while declared to fish inside the nontrawl RCA (see § 660.13(d)(4)(iv)(A) for valid declarations for use inside the nontrawl RCA).
+(3) Fish inside the Non-Trawl RCA with any gear type other than those specified at § 660.230(b)(6). In addition, a vessel may not carry more than one gear type as specified at § 660.230(b)(6) on board while declared to fish inside the Non-Trawl RCA (see § 660.13(d)(4)(iv)(A) for valid declarations for use inside the Non-Trawl RCA).
 
 (d) *Sablefish fisheries.* (1) Take and retain, possess or land sablefish under the tier limits provided for the limited entry, fixed gear sablefish primary season, described in § 660.231(b)(3), from a vessel that is not registered to a limited entry permit with a sablefish endorsement.
 
@@ -28,4 +28,4 @@ These prohibitions are specific to the limited entry fixed gear fisheries and to
 
 (3) Process sablefish taken at-sea in the limited entry fixed gear sablefish primary fishery defined at § 660.231, from a vessel that does not have a sablefish at-sea processing exemption, described at § 660.25(b)(6)(i).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78427, Dec. 15, 2010; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 81 FR 84430, Nov. 23, 2016; 84 FR 63991, Nov. 19, 2019; 88 FR 83848, Dec. 1, 2023]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78427, Dec. 15, 2010; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 81 FR 84430, Nov. 23, 2016; 84 FR 63991, Nov. 19, 2019; 88 FR 83848, Dec. 1, 2023; 89 FR 101522, Dec. 16, 2024]

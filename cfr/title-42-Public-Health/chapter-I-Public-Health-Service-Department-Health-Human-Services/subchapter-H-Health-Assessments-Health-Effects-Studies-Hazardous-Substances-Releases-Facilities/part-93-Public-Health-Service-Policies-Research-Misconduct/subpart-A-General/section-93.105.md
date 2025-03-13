@@ -1,11 +1,9 @@
-##### § 93.105 Time limitations. #####
+##### § 93.105 Evidentiary standards. #####
 
-(a) *Six-year limitation.* This part applies only to research misconduct occurring within six years of the date HHS or an institution receives an allegation of research misconduct.
+(a) *Standard of proof.* An institutional or HHS finding of research misconduct must be proved by a preponderance of the evidence.
 
-(b) *Exceptions to the six-year limitation.* Paragraph (a) of this section does not apply in the following instances:
+(b) *Burden of proof.* (1) The institution or HHS has the burden of proof for making a finding of research misconduct. A respondent's destruction of research records documenting the questioned research is evidence of research misconduct where the institution or HHS establishes by a preponderance of the evidence that the respondent intentionally or knowingly destroyed records after being informed of the research misconduct allegations. A respondent's failure to provide research records documenting the questioned research is evidence of research misconduct where the respondent claims to possess the records but refuses to provide them upon request.
 
-(1) *Subsequent use exception.* The respondent continues or renews any incident of alleged research misconduct that occurred before the six-year limitation through the citation, republication or other use for the potential benefit of the respondent of the research record that is alleged to have been fabricated, falsified, or plagiarized.
+(2) The respondent has the burden of going forward with and proving, by a preponderance of the evidence, all affirmative defenses raised. In determining whether HHS or the institution has carried the burden of proof imposed by this part, the finder of fact shall give due consideration to admissible, credible evidence of honest error or difference of opinion presented by the respondent.
 
-(2) *Health or safety of the public exception.* If ORI or the institution, following consultation with ORI, determines that the alleged misconduct, if it occurred, would possibly have a substantial adverse effect on the health or safety of the public.
-
-(3) *“Grandfather” exception.* If HHS or an institution received the allegation of research misconduct before the effective date of this part.
+(3) The respondent has the burden of going forward with and proving, by a preponderance of the evidence, any mitigating factors relevant to a decision to impose administrative actions after a research misconduct proceeding.

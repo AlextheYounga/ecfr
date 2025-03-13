@@ -12,4 +12,4 @@
 
 (4) Any other payment of compensation which anticipates no further payments under the Act.
 
-(Approved by the Office of Management and Budget under control number 1215-0024)(Pub. L. No. 96-511) [42 FR 45302, Sept. 9, 1977, as amended at 49 FR 18294, Apr. 30, 1984; 50 FR 399, Jan. 3, 1985]
+(Approved by the Office of Management and Budget under control number 1215-0024)(Pub. L. No. 96-511)[42 FR 45302, Sept. 9, 1977, as amended at 49 FR 18294, Apr. 30, 1984; 50 FR 399, Jan. 3, 1985]

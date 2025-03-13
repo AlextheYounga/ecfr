@@ -140,7 +140,7 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 
 (6) Weigh fish taken and retained aboard the vessel without operating and maintaining a video monitoring system that meets the performance and technical requirements specified at § 660.15(e).
 
-(d) *MS Co-op Program (co-op and non-coop fisheries).* (1) Catch, take, or harvest fish in the mothership non-coop fishery with a vessel that is not registered to a current MS/CV-endorsed limited entry trawl permit.
+(d) *MS Co-op Program (co-op and non-cooperative fisheries).* (1) Catch, take, or harvest fish in the mothership non-cooperative fishery with a vessel that is not registered to a current MS/CV-endorsed limited entry trawl permit.
 
 (2) Receive catch, process catch, or otherwise fish as a mothership vessel if it is not registered to a current MS permit.
 
@@ -154,9 +154,9 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 
 (7) Transfer catch from a single haul to more than one permitted MS vessel.
 
-(8) Catch, take, or harvest fish for a MS co-op with a vessel that has not been identified by the co-op as a vessel authorized to harvest that coop's allocation.
+(8) Catch, take, or harvest fish for a MS co-op with a vessel that has not been identified by the co-op as a vessel authorized to harvest that cooperative's allocation.
 
-(9) Catch, take, or harvest fish in the non-coop fishery with a vessel registered to an MS/CV-endorsed permit in the same year the MS/CV-endorsed permit was registered to a vessel that fished as a member of a co-op in the MS Co-op Program.
+(9) Catch, take, or harvest fish in the non-cooperative fishery with a vessel registered to an MS/CV-endorsed permit in the same year the MS/CV-endorsed permit was registered to a vessel that fished as a member of a co-op in the MS Co-op Program.
 
 (10) Sort or discard any portion of the catch taken by a catcher vessel in the MS Co-op Program before the catcher vessel observer completes sampling of the catch, except for minor operational amounts of catch lost by a catcher vessel provided the observer has accounted for the discard (*i.e.,* a maximized retention fishery).
 
@@ -186,4 +186,4 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 
 (9) Retain and process more than 1 mt of Shared EC Species other than squid species in any calendar year; or, retain and process more than 40 mt of any Shared EC squid species in any calendar year.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 63986, Nov. 19, 2019; 85 FR 37029, June 19, 2020; 85 FR 35601, June 11, 2020; 86 FR 26442, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 11599, Mar. 2, 2022; 87 FR 77005, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 63986, Nov. 19, 2019; 85 FR 37029, June 19, 2020; 85 FR 35601, June 11, 2020; 86 FR 26442, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 11599, Mar. 2, 2022; 87 FR 77005, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023; 89 FR 101522, Dec. 16, 2024]

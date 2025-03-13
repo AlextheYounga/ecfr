@@ -1,0 +1,5 @@
+##### § 970.518 Environmental protection requirements. #####
+
+(a) Each exploration license must contain such terms, conditions and restrictions, established by the Administrator, which prescribe actions the licensee must take in the conduct of exploration activities to assure protection of the environment. The Administrator will establish these pursuant to § 970.702.
+
+(b) Before establishing the terms, conditions and restrictions pertaining to environmental protection, the Administrator will consult with the Administrator of the Environmental Protection Agency, the Secretary of State and the Secretary of the department in which the Coast Guard is operating. He also will take into account and give due consideration to the information contained in the final EIS prepared with respect to that proposed license.

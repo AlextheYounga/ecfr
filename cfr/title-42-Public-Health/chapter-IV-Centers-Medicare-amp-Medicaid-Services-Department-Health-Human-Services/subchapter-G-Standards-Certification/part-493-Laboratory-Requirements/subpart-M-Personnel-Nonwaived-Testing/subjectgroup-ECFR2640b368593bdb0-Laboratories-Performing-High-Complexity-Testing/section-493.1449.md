@@ -174,4 +174,4 @@ The technical supervisor requirements for “laboratory training or experience, 
 
 (j) Notwithstanding any other provision of this section, an individual is considered qualified as a technical supervisor under this section if they were qualified and serving as a technical supervisor for high complexity testing in a CLIA-certified laboratory as of December 28, 2024, and have done so continuously since December 28, 2024.
 
-[57 FR 7172, Feb. 28, 1992, as amended at 58 FR 5234, Jan. 19, 1993; 88 FR 90041, Dec. 28, 2023]
+[88 FR 90041, Dec. 28, 2023]

@@ -1,5 +1,7 @@
 ##### § 38.730 Applications. #####
 
+Link to an amendment published at 89 FR 107003, Dec. 31, 2024.
+
 To apply for a grant, an eligible entity must submit to VA a complete application package, as described in the NOFA. Applications will be accepted only through *Grants.gov* (*http://www.grants.gov*). A complete grant application, as further described in the NOFA, includes standard forms specified in the NOFA and the following:
 
 (a) *Project description.* Each project must serve a minimum of one VA national cemetery, State Veterans' cemetery, or Tribal Veterans' cemetery. The applicant must provide a narrative project description that demonstrates the best approach for attaining required results as set forth in the NOFA;

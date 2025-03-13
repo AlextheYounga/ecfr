@@ -37,7 +37,6 @@ Each individual performing moderate complexity testing must—
 (H) The skills required to assess and verify the validity of patient test results through the evaluation of quality control sample values prior to reporting patient test results.
 
 (7) For blood gas analysis, the individual must—
-
 (i) Be qualified under paragraph (b)(1), (2), (3), (4), (5), or (6) of this section; or
 
 (ii)(A) Have earned a bachelor's degree in respiratory therapy or cardiovascular technology from an accredited institution; and

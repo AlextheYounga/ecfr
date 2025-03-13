@@ -122,7 +122,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (*5*) The dates and amounts of disbursements to the fish buyer, or other parties, of interest earned on deposits.
 
-(c) *MS Co-op Program (co-op and non-coop fisheries)*—(1) *Economic data collection (EDC) program.* The following persons are required to submit a complete economic data collection form as specified at § 660.114.
+(c) *MS Co-op Program (co-op and non-cooperative fisheries)*—(1) *Economic data collection (EDC) program.* The following persons are required to submit a complete economic data collection form as specified at § 660.114.
 
 (i) All owners, lessees, and charterers of a catcher vessel registered to a limited entry trawl MS/CV-endorsed permit.
 
@@ -138,7 +138,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (i) The mothership sector's annual allocation of Pacific whiting and the permitted mothership co-op allocation;
 
-(ii) The mothership coop's actual retained and discarded catch of Pacific whiting, salmon, Pacific halibut, rockfish, groundfish, and other species on a vessel-by-vessel basis;
+(ii) The mothership cooperative's actual retained and discarded catch of Pacific whiting, salmon, Pacific halibut, rockfish, groundfish, and other species on a vessel-by-vessel basis;
 
 (iii) A description of the method used by the mothership co-op to monitor performance of co-op vessels that participated in the fishery;
 
@@ -210,7 +210,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (i) The C/P sector's annual allocation of Pacific whiting;
 
-(ii) The C/P coop's actual retained and discarded catch of Pacific whiting, salmon, Pacific halibut, rockfish, groundfish, and other species on a vessel-by-vessel basis;
+(ii) The C/P cooperative's actual retained and discarded catch of Pacific whiting, salmon, Pacific halibut, rockfish, groundfish, and other species on a vessel-by-vessel basis;
 
 (iii) A description of the method used by the C/P co-op to monitor performance of cooperative vessels that participated in the fishery;
 
@@ -326,4 +326,4 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (D) A description of any amendments to the terms of the SMP that were approved by NMFS during the fishing year in which the SMP was approved and the reasons the amendments to the SMP were made.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78385, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74740, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 81 FR 27010, May 5, 2016; 81 FR 84430, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 68806, Dec. 17, 2019; 86 FR 10869, Feb. 23, 2021; 87 FR 77005, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78385, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74740, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 81 FR 27010, May 5, 2016; 81 FR 84430, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 68806, Dec. 17, 2019; 86 FR 10869, Feb. 23, 2021; 87 FR 77005, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023; 89 FR 101522, Dec. 16, 2024]

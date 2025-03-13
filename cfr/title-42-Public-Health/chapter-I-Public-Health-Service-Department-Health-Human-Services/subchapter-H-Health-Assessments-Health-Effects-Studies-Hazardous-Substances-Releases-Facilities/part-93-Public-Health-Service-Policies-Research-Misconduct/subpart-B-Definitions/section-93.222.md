@@ -1,3 +1,3 @@
-##### § 93.222 Research. #####
+##### § 93.222 Investigation. #####
 
-*Research* means a systematic experiment, study, evaluation, demonstration or survey designed to develop or contribute to general knowledge (basic research) or specific knowledge (applied research) relating broadly to public health by establishing, discovering, developing, elucidating or confirming information about, or the underlying mechanism relating to, biological causes, functions or effects, diseases, treatments, or related matters to be studied.
+Investigation means the formal development of a factual record and the examination of that record that meets the criteria and follows the procedures of §§ 93.310 through 93.317.

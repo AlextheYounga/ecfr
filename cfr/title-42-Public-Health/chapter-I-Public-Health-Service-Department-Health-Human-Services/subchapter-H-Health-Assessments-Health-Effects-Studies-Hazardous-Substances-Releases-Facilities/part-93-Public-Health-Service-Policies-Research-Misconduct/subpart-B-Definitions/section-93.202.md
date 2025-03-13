@@ -1,3 +1,3 @@
-##### § 93.202 Charge letter. #####
+##### § 93.202 Administrative record. #####
 
-*Charge letter* means the written notice, as well as any amendments to the notice, that are sent to the respondent stating the findings of research misconduct and any HHS administrative actions. If the charge letter includes a debarment or suspension action, it may be issued jointly by the ORI and the debarring official.
+Administrative record comprises: the institutional record; any information provided by the respondent to ORI, including but not limited to the transcript of any virtual or in-person meetings under § 93.403(b) between the respondent and ORI, and correspondence between the respondent and ORI; any additional information provided to ORI while the case is pending before ORI; and any analysis or additional information generated or obtained by ORI. Any analysis or additional information generated or obtained by ORI will also be made available to the respondent.
