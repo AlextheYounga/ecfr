@@ -14,6 +14,6 @@
 
 (g) The draw of the Fort Street Bridge, mile 2.20, is required to operate a radiotelephone, and shall open on signal except from January 1 through March 31 when the bridge shall open on signal if provided a 12-hour advance notice.
 
-(h) The draw of the Dix Avenue Bridge, mile 2.73, is remotely operated, is required to operate a radiotelephone, and shall open on signal except from January 1 through March 31 when the bridge shall open on signal if provided a 12-hour advance notice.
+(h) The draw of the Dix Avenue Bridge, mile 2.73, is required to operate a radiotelephone, and shall open on signal except from January 1 through March 31 when the bridge shall open on signal if provided a 12-hour advance notice.
 
-[USCG-2020-0513, 86 FR 19575, Apr. 14, 2021, as amended by USCG-2023-0183, 88 FR 89576, Dec. 28, 2023]
+[USCG-2020-0513, 86 FR 19575, Apr. 14, 2021, as amended by USCG-2023-0183, 88 FR 89576, Dec. 28, 2023; 89 FR 14744, Feb. 29, 2024]

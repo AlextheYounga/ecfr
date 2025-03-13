@@ -1,5 +1,7 @@
 ##### § 117.847 Ashtabula River. #####
 
+Link to an amendment published at 89 FR 14746, Feb. 29, 2024.
+
 (a) The draw of the Fifth Street bridge, mile 1.4 at Ashtabula, shall open on signal for the passage of commercial and emergency vessels and on the hour and half hour for all other vessels.
 
 (b) The draw of the Norfolk Southern Bridge, mile 1.5 at Ashtabula, is remotely operated, is required to operate a radiotelephone, and shall open on signal from April 1 through November 30 from 7 a.m. to 11 p.m. At all other times the draw shall open on signal if at least 24 hours notice is given.
