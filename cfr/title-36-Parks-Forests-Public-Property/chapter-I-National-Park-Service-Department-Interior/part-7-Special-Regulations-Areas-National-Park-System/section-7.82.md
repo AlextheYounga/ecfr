@@ -8,7 +8,7 @@
 
 (ii) The frozen surface of Lake Superior from Sand Point to the mainland unit's eastern boundary;
 
-(iii) The 1/4 mile section of the Big Sand Bay Road that passes through the park mainland unit to non-NPS property.
+(iii) The1/4 mile section of the Big Sand Bay Road that passes through the park mainland unit to non-NPS property.
 
 (2) Snowmobile use is authorized solely for the purpose of providing access for legal forms of:
 

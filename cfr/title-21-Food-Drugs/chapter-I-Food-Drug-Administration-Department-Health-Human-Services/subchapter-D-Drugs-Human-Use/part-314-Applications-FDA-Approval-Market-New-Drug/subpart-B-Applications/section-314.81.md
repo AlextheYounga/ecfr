@@ -1,5 +1,7 @@
 ##### § 314.81 Other postmarketing reports. #####
 
+Link to an amendment published at 89 FR 105331, Dec. 26, 2024.
+
 (a) *Applicability.* Each applicant shall make the reports for each of its approved applications and abbreviated applications required under this section and section 505(k) of the act.
 
 (b) *Reporting requirements.* The applicant shall submit to the Food and Drug Administration at the specified times two copies of the following reports:

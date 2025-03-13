@@ -1,4 +1,4 @@
-##### § 2807.20 When must I amend my application, seek an amendment of my grant, or obtain a new grant? #####
+##### § 2807.20 When must I amend my application, seek an amendment of my grant or lease, or obtain a new grant or lease? #####
 
 (a) You must amend your application or seek an amendment of your grant when there is a proposed substantial deviation in location or use.
 

@@ -1,10 +1,10 @@
 ##### § 261.2 Definitions. #####
 
-Link to an amendment published at 89 FR 92815, Nov. 25, 2024.
-
 The following definitions apply to this part:
 
 *Administrative unit.* A National Forest, a National Grassland, a purchase unit, a land utilization project, Columbia River Gorge National Scenic Area, Land Between the Lakes, Lake Tahoe Basin Management Unit, Midewin National Tallgrass Prairie, or other comparable unit of the National Forest System.
+
+*Alcoholic beverage* means alcoholic beverage as defined by State law.
 
 *Archaeological resource* means any material remains of prehistoric or historic human life or activities which are of archaeological interest and are at least 50 years of age, and the physical site, location, or context in which they are found.
 
@@ -22,11 +22,17 @@ The following definitions apply to this part:
 
 *Commercial use or activity—* any use or activity on National Forest System lands (a) where an entry or participation fee is charged, or (b) where the primary purpose is the sale of a good or service, and in either case, regardless of whether the use or activity is intended to produce a profit.
 
+*Controlled substance* means a drug or other substance, its immediate precursor included in schedules I, II, III, IV, or V of section 202 of the Controlled Substance Act (21 U.S.C. 812), or a drug or other substance added to these schedules under the terms of the Act.
+
 *Damaging* means to injure, mutilate, deface, destroy, cut, chop, girdle, dig, excavate, kill or in any way harm or disturb.
 
-*Developed recreation site* means an area which has been improved or developed for recreation.
+*Developed recreation site* has the same meaning as in chapter 50 of Forest Service Handbook 2309.13.
 
 *Distribution of printed material—* disseminating, posting, affixing, or erecting printed material as defined in this section.
+
+*Exploding target* means a binary explosive consisting of two separate components (usually an oxidizer like ammonium nitrate and a fuel such as aluminum or another metal) that is designed to explode when struck by a bullet.
+
+*Firework* has the same meaning as in 27 CFR 555.11 or a successor regulation.
 
 *Forest officer* means an employee of the Forest Service.
 
@@ -70,7 +76,11 @@ The following definitions apply to this part:
 
 *Publicly nude* means nude in any place where a person may be observed by another person. Any person is nude if the person has failed to cover the rectal area, pubic area or genitals. A female person is also nude if she has failed to cover both breasts below a point immediately above the top of the areola. Each such covering must be fully opaque. No person under the age of 10 years shall be considered publicly nude.
 
+*Pyrotechnic device* has the same meaning as the term “articles pyrotechnic” in 27 CFR 555.11 or a successor regulation.
+
 *Recreation fee* means a standard amenity recreation fee, an expanded amenity recreation fee, or a special recreation permit fee as defined in section 802(8) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801(8)).
+
+*Recreation site* has the same meaning as in chapter 50 of Forest Service Handbook 2309.13.
 
 *Residence.* Any structure or shelter, whether temporary or permanent, including, but not limited to, buildings, buses, cabins, campers, houses, lean-tos, mills, mobile homes, motor homes, pole barns, recreational vehicles, sheds, shops, tents and trailers, which is being used, capable of being used, or designed to be used, in whole or in part, full or part-time, as living or sleeping quarters by any person, including a guard or watchman.
 
@@ -92,4 +102,4 @@ The following definitions apply to this part:
 
 *Wild free-roaming horses and burros* mean all unbranded and unclaimed horses and burros and their progeny that have used lands of the National Forest System on or after December 15, 1971, or do hereafter use these lands as all or part of their habitat, but does not include any horse or burro introduced onto National Forest System lands on or after December 15, 1971, by accident, negligence, or willful disregard of private ownership. Unbranded, claimed horses and burros, where the claim is found to be erroneous, are also considered as wild and free-roaming if they meet the criteria above.
 
-[42 FR 2957, Jan. 14, 1977] Editorial Note:For Federal Register citations affecting § 261.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[42 FR 2957, Jan. 14, 1977]Editorial Note:For Federal Register citations affecting § 261.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

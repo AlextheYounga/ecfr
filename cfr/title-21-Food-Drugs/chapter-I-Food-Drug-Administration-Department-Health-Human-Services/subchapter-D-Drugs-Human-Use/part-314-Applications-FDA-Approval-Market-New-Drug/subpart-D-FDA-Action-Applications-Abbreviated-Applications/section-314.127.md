@@ -1,5 +1,7 @@
 ##### § 314.127 Refusal to approve an ANDA. #####
 
+Link to an amendment published at 89 FR 105331, Dec. 26, 2024.
+
 (a) FDA will refuse to approve an ANDA for a new drug under section 505(j) of the Federal Food, Drug, and Cosmetic Act for any of the following reasons, unless the requirement has been waived under § 314.99:
 
 (1) The methods used in, or the facilities and controls used for, the manufacture, processing, and packing of the drug product are inadequate to ensure and preserve its identity, strength, quality, and purity.

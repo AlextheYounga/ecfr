@@ -1,5 +1,7 @@
 ##### § 1304.103 Health, safety, and environmental standards. #####
 
+Link to an amendment published at 89 FR 104882, Dec. 26, 2024.
+
 (a) *Wastewater.* Floating cabins shall comply with § 1304.2(d) with regard to discharges into navigable waters of the United States. All discharges, sewage, and wastewater, and the pumping, collection, storage, transport, and treatment of sewage and wastewater shall be managed in accordance with all applicable federal, state, and local laws and regulations. If a floating cabin is documented to be in violation of any federal, state, or local discharge or water quality regulation by the respective regulatory agency, TVA is authorized to revoke the permit and require removal of the floating cabin from the Tennessee River System if the violation is not corrected as specified by the regulatory agency in accordance with the agency's requirements.
 
 (b) *Flotation.* Floating cabins shall comply with the requirements for flotation devices and material contained in § 1304.400.

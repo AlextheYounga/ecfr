@@ -30,7 +30,7 @@ ExamplesDelta Queen Steamboat (Cincinnati, OH)Adams Memorial (Rock Creek Cemeter
 
 (l) *Site.* A site is the location of a significant event, a prehistoric or historic occupation or activity, or a building or structure, whether standing, ruined, or vanished, where the location itself maintains historical or archeological value regardless of the value of any existing structure.
 
-ExamplesCabin Creek Battlefield (Pensacola vicinity, OK) Mound Cemetery Mound (Chester vicinity, OH)Mud Springs Pony Express Station Site (Dalton vicinity, NE)
+ExamplesCabin Creek Battlefield (Pensacola vicinity, OK)Mound Cemetery Mound (Chester vicinity, OH)Mud Springs Pony Express Station Site (Dalton vicinity, NE)
 
 (m) *State Historic Preservation Officer.* The State Historic Preservation Officer is the person who has been designated by the Governor or chief executive or by State statute in each State to administer the State Historic Preservation Program, including identifying and nominating eligible properties to the National Register and otherwise administering applications for listing historic properties in the National Register.
 
@@ -40,7 +40,7 @@ ExamplesCabin Creek Battlefield (Pensacola vicinity, OK) Mound Cemetery Mound (C
 
 (p) *Structure.* A structure is a work made up of interdependent and interrelated parts in a definite pattern of organization. Constructed by man, it is often an engineering project large in scale.
 
-ExamplesSwanton Covered Railroad Bridge (Swanton vicinity, VT)Old Point Loma Lighthouse (San Diego, CA) North Point Water Tower (Milwaukee, WI) Reber Radio Telescope (Green Bay vicinity, WI)
+ExamplesSwanton Covered Railroad Bridge (Swanton vicinity, VT)Old Point Loma Lighthouse (San Diego, CA)North Point Water Tower (Milwaukee, WI)Reber Radio Telescope (Green Bay vicinity, WI)
 
 (q) *Thematic Group Format submission.* A Thematic Group Format submission for nominating properties to the National Register is one which includes a finite group of resources related to one another in a clearly distinguishable way. They may be related to a single historic person, event, or developmental force; of one building type or use, or designed by a single architect; of a single archeological site form, or related to a particular set of archeological research problems.
 

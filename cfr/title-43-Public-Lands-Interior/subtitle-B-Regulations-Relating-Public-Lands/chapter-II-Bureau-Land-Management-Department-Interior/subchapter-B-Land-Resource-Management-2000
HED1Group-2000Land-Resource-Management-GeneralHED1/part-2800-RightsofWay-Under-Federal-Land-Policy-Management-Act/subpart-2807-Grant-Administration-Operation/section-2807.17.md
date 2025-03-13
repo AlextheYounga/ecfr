@@ -1,4 +1,4 @@
-##### § 2807.17 Under what conditions may BLM suspend or terminate my grant? #####
+##### § 2807.17 Under what conditions may BLM suspend or terminate my grant or lease? #####
 
 (a) BLM may suspend or terminate your grant if you do not comply with applicable laws and regulations or any terms, conditions, or stipulations of the grant (such as rent payments), or if you abandon the right-of-way.
 

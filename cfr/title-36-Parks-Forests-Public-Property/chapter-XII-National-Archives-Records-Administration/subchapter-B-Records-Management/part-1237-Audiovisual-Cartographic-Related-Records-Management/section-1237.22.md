@@ -12,6 +12,7 @@ Agencies must:
 
 (e) Avoid rolling and folding maps and drawings. Store permanent maps and drawings flat in shallow drawer map cases in acid-free folders.
 
-(f) Do not laminate original oversize records. Consult NARA for preservation, storage, and treatment options, by mail at National Archives and Records Administration; Preservation Programs (RX); 8601 Adelphi Road; College Park, MD 20740-6001.
+(f) Do not laminate original oversize records. Consult
+NARA for preservation, storage, and treatment options, by mail at National Archives and Records Administration; Preservation Programs (RX); 8601 Adelphi Road; College Park, MD 20740-6001.
 
 [74 FR 51014, Oct. 2, 2009, as amended at 83 FR 13657, Mar. 30, 2018]

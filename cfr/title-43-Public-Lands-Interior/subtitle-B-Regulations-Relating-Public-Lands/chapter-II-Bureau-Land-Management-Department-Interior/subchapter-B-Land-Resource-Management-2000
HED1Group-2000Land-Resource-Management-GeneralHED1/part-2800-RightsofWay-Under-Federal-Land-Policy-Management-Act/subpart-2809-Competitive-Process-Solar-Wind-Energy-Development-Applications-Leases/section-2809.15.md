@@ -20,7 +20,7 @@
 
 (1) Make payments by personal check, cashier's check, certified check, bank draft, or money order, or by other means deemed acceptable by the BLM, payable to the Department of the Interior—Bureau of Land Management;
 
-(2) By the close of official business hours on the day on which the BLM conducts the competitive process or such other time as the BLM may have specified in the offer notices, submit for each parcel:
+(2) By the close of official business hours on the day on which the BLM conducts the competitive process or such other time as the BLM may have specified in the offer notices, submit for each parcel;
 
 (3) Within 15 calendar days after the day on which the BLM conducts the competitive process, submit the balance of the bonus bid (after the variable offsets are applied under paragraph (c) of this section) to the BLM office conducting the process; and
 
@@ -30,4 +30,4 @@
 
 (e) The successful bidder will not become the preferred applicant or be offered a lease and the BLM will keep all money that has been submitted with the competitive process if the successful bidder does not satisfy the requirements of paragraph (d) of this section. In this case, the BLM may make the next highest bidder the successful bidder under § 2809.17(b) or re-offer the lands.
 
-[81 FR 92224, Dec. 19, 2016, as amended at 89 FR 35683, May 1, 2024]
+[81 FR 92224, Dec. 19, 2016, as amended at 89 FR 35683, May 1, 2024; 89 FR 104890, Dec. 26, 2024]

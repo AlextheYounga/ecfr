@@ -18,7 +18,7 @@
 
 (iii) The route beginning on the beach adjacent to the Gulf of Mexico approximately 11 miles south of Yarborough Pass and ending with its intersection with the Back Road approximately one mile west of the beach. This route is locally known as the Dunn Ranch Road.
 
-(iv) Travel is permitted in an area within 200 feet of the north bank of the Mansfield Channel, beginning on the beach adjacent to the Gulf of Mexico and ending approximately 3/4 mile west of the beach.
+(iv) Travel is permitted in an area within 200 feet of the north bank of the Mansfield Channel, beginning on the beach adjacent to the Gulf of Mexico and ending approximately3/4 mile west of the beach.
 
 (b) *Hunting.* (1) Hunting is prohibited, except that during the open season prescribed by State and Federal agencies, the hunting of waterfowl is allowed upon the waters of Laguna Madre wherever a floating vessel of any type is capable of being operated, at whatever tide level may exist. Provided, however, that the waters surrounding North and South Bird Islands and other designated rookery islands are closed to all hunting as posted. Hunting, where authorized, is allowed in accordance with all applicable Federal, State and local laws for the protection of wildlife.
 

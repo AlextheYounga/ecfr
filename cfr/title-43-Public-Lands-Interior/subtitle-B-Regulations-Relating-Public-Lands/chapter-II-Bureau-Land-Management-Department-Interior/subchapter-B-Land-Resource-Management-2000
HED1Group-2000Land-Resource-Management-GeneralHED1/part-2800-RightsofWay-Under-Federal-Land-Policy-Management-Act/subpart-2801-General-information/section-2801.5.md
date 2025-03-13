@@ -90,24 +90,6 @@
 
 *Megawatt hour (MWh) rate* means the 5 calendar-year average of the annual average wholesale electricity prices per MWh for the major trading hubs serving the 11 western States of the continental United States.
 
-*Megawatt rate* means the price of each MW of capacity for various solar and wind energy technologies as determined by the MW rate formula. Current MW rates are found on the BLM's MW rate schedule, which can be obtained at any BLM office or at *http://www.blm.gov.* The MW rate is calculated by multiplying the total hours per year by the net capacity factor, by the MW hour (MWh) price, and by the rate of return, where:
-
-(i) *Net capacity factor* means the average operational time divided by the average potential operational time of a solar or wind energy development, multiplied by the current technology efficiency rates. The BLM establishes net capacity factors for different technology types but may determine another net capacity factor to be more appropriate, on a case-by-case or regional basis, to reflect changes in technology, such as a solar or wind project that employs energy storage technologies, or if a grant or lease holder or applicant is able to demonstrate that another net capacity factor is appropriate for a particular project or region. The net capacity factor for each technology type is:
-
-(A) Photovoltaic (PV)—20 percent;
-
-(B) Concentrated photovoltaic (CPV) and concentrated solar power (CSP)—25 percent;
-
-(C) CSP with storage capacity of 3 hours or more—30 percent; and
-
-(D) Wind energy—35 percent;
-
-(ii) *Megawatt hour (MWh) price* means the 5 calendar-year average of the annual weighted average wholesale prices per MWh for the major trading hubs serving the 11 western States of the continental United States (U.S.);
-
-(iii) *Rate of return* means the relationship of income (to the property owner) to revenue generated from authorized solar and wind energy development facilities based on the 10-year average of the 20-year U.S. Treasury bond yield rounded to the nearest one-tenth percent; and
-
-(iv) *Hours per year* means the total number of hours in a year, which, for purposes of this part, means 8,760 hours.
-
 *Minimum vegetation clearance distance* (MVCD) means the calculated distance (stated in feet or meters) that is used to prevent flashover between conductors and vegetation for various altitudes and operating voltages. The MVCD is measured from a conductor's maximum operating sag to vegetation on public lands within the linear right-of-way for a powerline facility and on public lands adjacent to either side of the linear right-of-way for a powerline facility for purposes of felling or pruning hazard trees, which the right-of-way holder uses to determine whether vegetation poses a system reliability hazard to the powerline facility.
 
 *Monetary value of the rights and privileges you seek* means the objective value of the right-of-way or what the right-of-way grant is worth in financial terms to the applicant.
@@ -184,4 +166,4 @@
 
 *Zone* means a geographic grouping necessary for linear right-of-way rent assessment purposes, covering all lands in the contiguous United States.
 
-[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92205, Dec. 19, 2016; 89 FR 25956, Apr. 12, 2024; 89 FR 41331, May 13, 2024; 89 FR 35677, May 1, 2024; 89 FR 53870, June 28, 2024]
+[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92205, Dec. 19, 2016; 89 FR 25956, Apr. 12, 2024; 89 FR 41331, May 13, 2024; 89 FR 35677, May 1, 2024; 89 FR 53870, June 28, 2024; 89 FR 104890, Dec. 26, 2024]

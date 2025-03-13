@@ -67,28 +67,4 @@ You must pay the greater of either an annual acreage rent or a capacity fee. The
 
 (c) *Implementation of the acreage rent and capacity fee.* The rates for acreage rent and capacity fees apply to all grants and leases issued after the effective date of this rule, and to existing grants and leases if the holder elects to continue paying under the rate setting methodology established at the time of your authorization per § 2806.51(c).
 
-(d) *Scheduled rate adjustment.* Under the scheduled rate adjustment method (see § 2806.51), the BLM will update your per acre zone rate and MW rate as follows:
-
-(1) The BLM will calculate your payments using the per acre zone rate (see § 2806.52(a)(1)) and MW rate (see § 2806.52(b)(1)) in place when your grant is issued, or for existing grants, the per acre zone rate and MW rate in place prior to December 19, 2016, as adjusted under paragraph (d)(6) of this section;
-
-(2) The per acre zone rate will increase:
-
-(i) Annually, beginning after the first full calendar year plus any initial partial year following issuance of your grant, by the average annual change in the IPD-GDP as described in § 2806.22(b); and
-
-(ii) Every 5 years, beginning after the first 5 calendar years, plus any initial partial year, following issuance of your grant, by 20 percent;
-
-(3) The MW rate will increase by 20 percent every 5 years, beginning after the first 5 years, plus the initial partial year, if any, your grant is in effect;
-
-(4) The BLM will not apply the phase-in to your MW rate under § 2806.52(b)(4) or the reduction under § 2806.52(c);
-
-(5) If the approved POD for your project provides for staged development, the BLM will calculate the MW capacity fee using the MW capacity approved for the current stage plus any previously approved stages, multiplied by the MW rate, as described under this section.
-
-(6) For grants in place prior to January 18, 2017 that select the scheduled rate adjustment method offered under § 2806.51(c), the per acre zone rate and the MW rate in place prior to December 19, 2016 will be adjusted for the first year's payment using the scheduled rate adjustment method as follows:
-
-(i) The per acre zone rate will increase by the average annual change in the IPD-GDP as described in § 2806.22(b) plus 20 percent;
-
-(ii) The MW rate will increase by 20 percent; and
-
-(iii) Subsequent increases will be performed as set forth in paragraphs (d)(2) and (3) of this section from the date of the initial adjustment under this paragraph (d).
-
-[81 FR 92217, Dec. 19, 2016, as amended at 89 FR 25964, Apr. 12, 2024; 89 FR 35680, May 1, 2024]
+[81 FR 92217, Dec. 19, 2016, as amended at 89 FR 25964, Apr. 12, 2024; 89 FR 35680, May 1, 2024; 89 FR 104890, Dec. 26, 2024]

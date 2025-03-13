@@ -1,10 +1,10 @@
 ##### § 800.501 Procedures for notices. #####
 
-Link to an amendment published at 89 FR 93184, Nov. 26, 2024.
-
 (a) Except as otherwise prohibited under paragraph (j) of this section, a party or parties to a proposed or completed transaction may file a voluntary notice of the transaction with the Committee. Voluntary notice to the Committee is filed by sending an electronic copy of the notice that includes, in English, the information set out in § 800.502, including the certification required under paragraph (l) of that section, and paying the fee required under subpart K of this part. For electronic submission instructions, see the Committee's section of the Department of the Treasury website.
 
-(b) If the Committee determines that a transaction for which no voluntary notice has been filed under this part, and with respect to which the Committee has not informed the parties in writing that the Committee has concluded all action under section 721, may be a covered transaction and may raise national security considerations, the Staff Chairperson, acting on the recommendation of the Committee, may request the parties to the transaction to provide to the Committee the information necessary to determine whether the transaction is a covered transaction, and if the Committee determines that the transaction is a covered transaction, to file a notice of such covered transaction under paragraph (a) of this section.
+(b)(1) If the Committee determines that a transaction for which no voluntary notice or declaration has been submitted under this part, and with respect to which the Committee has not informed the parties in writing that the Committee has concluded all action under section 721, may be a covered transaction and may raise national security considerations, the Staff Chairperson, acting on the recommendation of the Committee, may request the parties to the transaction or other persons to provide to the Committee information necessary to determine whether the transaction is a covered transaction, whether the transaction may raise national security considerations, or, as appropriate, whether the transaction is a transaction for which a submission is or was required under § 800.401.
+
+(2) If the Committee determines that a transaction referred to under paragraph (b)(1) of this section is a covered transaction and may raise national security considerations, the Staff Chairperson, acting on the recommendation of the Committee, may request the parties to file a notice of such covered transaction under paragraph (a) of this section.
 
 (c) With respect to any transaction:
 
@@ -50,4 +50,4 @@ Link to an amendment published at 89 FR 93184, Nov. 26, 2024.
 
 (j) No party to a transaction may file a notice under paragraph (a) of this section if the transaction has been the subject of a declaration submitted under subpart D and the Committee has not yet taken action with respect to the transaction under § 800.407.
 
-[85 FR 3124, Jan. 17, 2020, as amended at 85 FR 23740, Apr. 29, 2020]
+[85 FR 3124, Jan. 17, 2020, as amended at 85 FR 23740, Apr. 29, 2020; 89 FR 93184, Nov. 26, 2024]

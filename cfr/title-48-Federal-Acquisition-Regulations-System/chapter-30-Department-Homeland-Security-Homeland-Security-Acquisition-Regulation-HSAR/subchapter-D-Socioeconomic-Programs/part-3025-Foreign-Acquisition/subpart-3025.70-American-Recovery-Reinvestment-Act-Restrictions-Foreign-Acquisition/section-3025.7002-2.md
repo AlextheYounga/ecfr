@@ -1,7 +1,5 @@
 ##### 3025.7002-2 Exceptions. #####
 
-Link to an amendment published at 89 FR 92852, Nov. 25, 2024.
-
 Acquisitions in the following categories are not subject to the restrictions in (HSAR) 48 CFR 3025.7002-1:
 
 (a) Acquisitions at or below the simplified acquisition threshold.
@@ -20,12 +18,14 @@ Acquisitions in the following categories are not subject to the restrictions in 
 
 (ii) A written justification by the requiring activity, with specificity, why such alternatives are unacceptable.
 
-(d) Acquisitions of items listed in FAR 48 CFR 25.104.
+(d) Acquisitions of items listed in (FAR) 48 CFR 25.104.
 
 (e) Emergency acquisitions by activities located outside the United States.
 
 (f) Acquisitions by vessels in foreign waters.
 
-(g) Acquisitions of incidental amounts of cotton, other natural fibers, wool or other item covered by (HSAR) 48 CFR 3025.7002-1(a)-(b) incorporated in an end product, for which the estimated value of the item so covered is not more than 10 percent of the total price of the end product.
+(g) The acquisition of covered items in 3052.7002-1(a) and (b) containing non-compliant fibers when the total value of the non-compliant fibers contained in the end item does not exceed 10 percent of the total purchase price of the end item.
 
-(h) Acquisitions of items otherwise covered by (HSAR) 48 CFR 3025.7002-1(a) and (b) for which restricting a procurement of the items to those that have been grown, reprocessed, reused, or produced in the United States would be inconsistent with United States obligations under international agreements. Acquisitions of products that are eligible products per (FAR) 48 CFR subpart 25.4 are not covered by these restrictions; see (HSAR) 48 CFR 3025.7003-2 for specific application of trade agreements.
+(h) Acquisitions of items otherwise covered by (HSAR) 48 CFR 3025.7002-1(a) and (b) for which restricting a procurement of the items to those that have been grown, reprocessed, reused, or produced in the United States would be inconsistent with United States obligations under international agreements. Acquisitions of products that are eligible products per (FAR) 48 CFR subpart 25.4 are not covered by these restrictions; see (HSAR) 48 CFR 3025.7002-3 for specific application of trade agreements.2
+
+[74 FR 41349, Aug. 17, 2009, as amended at 89 FR 92852, Nov. 25, 2024]

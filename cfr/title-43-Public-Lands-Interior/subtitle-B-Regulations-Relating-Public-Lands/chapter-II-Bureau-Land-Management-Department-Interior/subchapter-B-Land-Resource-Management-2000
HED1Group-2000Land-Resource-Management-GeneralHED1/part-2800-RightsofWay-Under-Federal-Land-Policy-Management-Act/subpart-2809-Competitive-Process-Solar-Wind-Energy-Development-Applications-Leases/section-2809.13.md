@@ -1,4 +1,4 @@
-##### § 2809.13 How will the BLM conduct competitive offers? #####
+##### § 2809.13 How will the BLM conduct competitive processes? #####
 
 (a) *Variety of competitive procedures available.* The BLM may use any type of competitive process or procedure to conduct its competitive offer, and any method, including the use of the Internet, to conduct the actual auction or competitive bid procedure. Possible bid procedures could include, but are not limited to: Sealed bidding, oral auctions, modified competitive bidding, electronic bidding, and any combination thereof.
 

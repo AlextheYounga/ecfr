@@ -1,8 +1,8 @@
-##### § 2809.18 What terms and conditions apply to leases? #####
+##### § 2809.18 What terms and conditions apply to a solar and wind energy development lease? #####
 
 The lease will be issued subject to the following terms and conditions:
 
-(a) *Site control.* A lease provides site control to the leaseholder. The term of your lease will be consistent with § 2805.11(b) and will terminate on December 31 of the final year of the lease term. You may submit an application for renewal under § 2805.14(g). A leaseholder may not construct any facilities on the right-of-way until the BLM issues a notice to proceed or other written form of approval to begin surface disturbing activities.
+(a) *Site Control.* A lease provides site control to the leaseholder. The term of your lease will be consistent with § 2805.11(c) and will terminate on December 31 of the final year of the lease term. You may submit an application for renewal under § 2805.14(g). A leaseholder may not construct any facilities on the right-of-way until the BLM issues a notice to proceed or other written form of approval to begin surface disturbing activities.
 
 (b) *Rent.* You must pay any rent as specified in § 2806.52.
 
@@ -26,4 +26,4 @@ The lease will be issued subject to the following terms and conditions:
 
 (g) *Due diligence of operations.* You must start construction within 5 years and begin generation of electricity no later than 7 years from the date of lease issuance, as specified in your approved POD. A request for an extension may be granted for up to 3 years with a show of good cause and approval by the BLM.
 
-[81 FR 92224, Dec. 19, 2016, as amended at 89 FR 35684, May 1, 2024]
+[81 FR 92224, Dec. 19, 2016, as amended at 89 FR 35684, May 1, 2024; 89 FR 104890, Dec. 26, 2024]

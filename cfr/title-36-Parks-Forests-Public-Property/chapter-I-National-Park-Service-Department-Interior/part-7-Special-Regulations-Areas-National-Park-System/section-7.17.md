@@ -2,7 +2,7 @@
 
 (a) *Alcoholic beverages*—(1) *Possession.* The possession or consumption of a bottle, can, or other receptacle containing an alcoholic beverage which has been opened, a seal broken, or the contents of which have been partially removed is prohibited, except in residences or other areas specifically authorized by the superintendent as to time and place.
 
-(2) *Definition—Alcoholic beverages.* Any liquid beverage containing 1/2 of 1 percent or more of alcohol by weight.
+(2) *Definition—Alcoholic beverages.* Any liquid beverage containing1/2 of 1 percent or more of alcohol by weight.
 
 (b) *Bicycles.* (1) The Superintendent may authorize bicycle use on all or portions of each of the following trails:
 

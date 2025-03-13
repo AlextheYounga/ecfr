@@ -1,7 +1,5 @@
 ##### § 740.2 Restrictions on all License Exceptions. #####
 
-Link to an amendment published at 89 FR 93167, Nov. 26, 2024.
-
 (a) You may not use *any* License Exception if *any* one or more of the following apply:
 
 (1) Your authorization to use a License Exception has been suspended or revoked, or your intended export does not qualify for a License Exception.
@@ -127,6 +125,8 @@ Item-specific license exception availability is specific to each ECCN 0Y521 entr
 (23) Exports, reexports, or transfers (in-country) of semi-automatic firearms or shotguns controlled under ECCNs 0A506, 0A507, or 0A508 sold under a contract or otherwise part of an export that includes $4,000,000 or more of such items are not eligible for any license exceptions except to personnel and agencies of the U.S. Government under License Exception GOV (§ 740.11(b) of the EAR), for official use by an agency of NATO, or where a license exception would otherwise be available for the export, reexport, or transfer (in-country) of such items to a destination specified in Country Groups A:5 or A:6 (see supplement no. 1 to part 740 of the EAR) except Mexico, South Africa, or Turkey.
 
 (24) Exporters of items controlled under ECCNs 0A501, 0A502, 0A504, 0A505, 0A506, 0A507, 0A508, or 0A509 wishing to use an EAR license exception for such items must first have the consignee obtain and provide to the exporter an import certification or equivalent document, if the importing country requires one, prior to using an EAR license exception.
+
+(25) No license exception is available for the export, reexport, or transfer (in-country) to or within Pakistan of items controlled under ECCNs 1B999, 2A992, 2B999 (except 2B999.h.2), 3A992, 3A999, or 6A996 (see § 742.6(a)(12) of the EAR), apart from TMP (limited to 740.9(a)(1), (a)(4), (a)(5), (a)(10), (b)(2), and (b)(3)), RPL (740.10), or GOV (740.11(a), (b), or (d)).
 
 Note to paragraph (a):
 

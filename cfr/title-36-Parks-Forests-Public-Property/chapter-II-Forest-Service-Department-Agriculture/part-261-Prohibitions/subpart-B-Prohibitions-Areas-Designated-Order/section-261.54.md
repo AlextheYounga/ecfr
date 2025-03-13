@@ -1,7 +1,5 @@
 ##### § 261.54 National Forest System roads. #####
 
-Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
-
 When provided by an order, the following are prohibited:
 
 (a) Using any type of vehicle prohibited by the order.
@@ -14,6 +12,4 @@ When provided by an order, the following are prohibited:
 
 (e) Being on the road.
 
-(f) Operating a vehicle carelessly, recklessly, or without regard for the rights or safety of other persons or in a manner or at a speed that would endanger or be likely to endanger any person or property.
-
-[42 FR 2957, Jan. 14, 1977, as amended at 46 FR 33521, June 30, 1981]
+[42 FR 2957, Jan. 14, 1977, as amended at 46 FR 33521, June 30, 1981; 89 FR 92816, Nov. 25, 2024]

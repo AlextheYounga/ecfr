@@ -1,5 +1,7 @@
 ##### § 701.4 General authorities and duties of Federal credit union directors. #####
 
+Link to an amendment published at 89 FR 104876, Dec. 26, 2024.
+
 (a) *General direction and control of a Federal credit union.* The board of directors is responsible for the general direction and control of the affairs of each Federal credit union. While a Federal credit union board of directors may delegate the execution of operational functions to Federal credit union personnel, the ultimate responsibility of each Federal credit union's board of directors for that Federal credit union's direction and control is non-delegable.
 
 (b) *Duties of Federal credit union directors.* Each Federal credit union director has the duty to:

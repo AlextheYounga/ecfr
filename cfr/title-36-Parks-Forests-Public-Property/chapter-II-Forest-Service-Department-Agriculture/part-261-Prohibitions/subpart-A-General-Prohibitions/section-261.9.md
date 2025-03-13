@@ -1,7 +1,5 @@
 ##### § 261.9 Property. #####
 
-Link to an amendment published at 89 FR 92815, Nov. 25, 2024.
-
 The following are prohibited:
 
 (a) Damaging any natural feature or other property of the United States.
@@ -22,4 +20,6 @@ The following are prohibited:
 
 (i) Excavating, damaging, or removing any cave resource from a cave without a special use authorization, or removing any cave resource for commercial purposes.
 
-[46 FR 33520, June 30, 1981, as amended at 49 FR 25450, June 21, 1984; 51 FR 30356, Aug. 26, 1986; 59 FR 31152, June 17, 1994; 80 FR 21629, Apr. 17, 2015]
+(j) Damaging or removing without authorization any personal property that belongs to another person.
+
+[46 FR 33520, June 30, 1981, as amended at 49 FR 25450, June 21, 1984; 51 FR 30356, Aug. 26, 1986; 59 FR 31152, June 17, 1994; 80 FR 21629, Apr. 17, 2015; 89 FR 92815, Nov. 25, 2024]

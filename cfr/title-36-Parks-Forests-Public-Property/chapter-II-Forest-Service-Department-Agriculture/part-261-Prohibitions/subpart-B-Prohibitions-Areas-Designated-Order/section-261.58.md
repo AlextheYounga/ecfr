@@ -1,16 +1,14 @@
 ##### § 261.58 Occupancy and use. #####
 
-Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
-
 When provided by an order, the following are prohibited:
 
 (a) Camping for a period longer than allowed by the order.
 
-(b) Entering or using a developed recreation site or portion thereof.
+(b) Entering or using a recreation site or portion thereof.
 
 (c) Entering or remaining in a campground during night periods prescribed in the order except for persons who are occupying such campgrounds.
 
-(d) Occupying a developed recreation site with prohibited camping equipment prescribed by the order.
+(d) Occupying a recreation site with prohibited camping equipment prescribed by the order.
 
 (e) Camping.
 
@@ -58,7 +56,7 @@ When provided by an order, the following are prohibited:
 
 (aa) Riding, hitching, tethering or hobbling a horse or other saddle or pack animal in violation of posted instructions.
 
-(bb) Possessing a beverage which is defined as an alcoholic beverage by State law.
+(bb) Possessing an alcoholic beverage.
 
 (cc) Possessing or storing any food or refuse, as specified in the order.
 
@@ -66,4 +64,4 @@ When provided by an order, the following are prohibited:
 
 (ee) Depositing any body waste in caves except into receptacles provided for that purpose.
 
-[42 FR 2597, Jan. 14, 1977, as amended at 42 FR 35959, July 13, 1977; 43 FR 32136, July 25, 1978; 46 FR 33521, June 30, 1981; 52 FR 19347, May 22, 1987; 59 FR 31152, June 17, 1994]
+[42 FR 2597, Jan. 14, 1977, as amended at 42 FR 35959, July 13, 1977; 43 FR 32136, July 25, 1978; 46 FR 33521, June 30, 1981; 52 FR 19347, May 22, 1987; 59 FR 31152, June 17, 1994; 89 FR 92816, Nov. 25, 2024]

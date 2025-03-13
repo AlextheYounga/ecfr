@@ -1,10 +1,8 @@
 ##### § 102-118.150 What are the major mandatory terms and conditions governing the use of passenger transportation documents? #####
 
-Link to an amendment published at 89 FR 93196, Nov. 26, 2024.
-
 The mandatory terms and conditions governing the use of passenger transportation documents are:
 
-(a) Government travel must be via the lowest cost available, that meets travel requirements; e.g., Government contract, fare, through, excursion, or reduced one way or round trip fare. This should be done by entering the term “lowest coach” on the Government travel document if the specific fare basis is not known;
+(a) Government travel must be via the lowest cost available that meets travel requirements (*e.g.,* Government contract, fare, through, excursion, or reduced one way or round trip fare);
 
 (b) The U.S. Government is not responsible for charges exceeding those applicable to the type, class, or character authorized in transportation documents;
 
@@ -21,3 +19,5 @@ The mandatory terms and conditions governing the use of passenger transportation
 (h) The TSP must not honor any request containing erasures or alterations unless the TD contains the authentic, valid initials of the issuing official; and
 
 (i) Additional mandatory terms and conditions are in this part and the “U. S. Government Passenger Transportation—Handbook.”
+
+[65 FR 24569, Apr. 26, 2000, as amended at 89 FR 93196, Nov. 26, 2024]

@@ -1,7 +1,5 @@
 ##### § 102-118.115 Must my agency use a GBL? #####
 
-Link to an amendment published at 89 FR 93196, Nov. 26, 2024.
+No. Your agency is required to use commercial payment practices to the maximum extent possible. Your agency may use a GBL as needed for domestic shipments and should use a GBL for international shipments. When used for shipments, a GBL is a receipt of goods, evidence of title, and a contract of carriage for Government shipments and was developed to protect the interest of the U.S. Government.
 
-No, your agency is not required to use a GBL and must use commercial payment practices to the maximum extent possible. Effective March 31, 2002, your agency must phase out the use of the GBL for domestic shipments. After this date, your agency may use the GBL solely for international shipments.
-
-[65 FR 24569, Apr. 26, 2000, as amended at 66 FR 48812, Sept. 24, 2001; 87 FR 32324, May 31, 2022]
+[89 FR 93196, Nov. 26, 2024]

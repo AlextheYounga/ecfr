@@ -18,7 +18,7 @@
 
 (1) ANSI X3.54-1986 (“ANSI X3.54”), American National Standard: Recorded Magnetic Tape for Information Interchange (6250 CPI, Group Coded Recording), 1986, IBR approved for § 1235.46.
 
-(2) ANSI X3.180-1990 (“ANSI X3.180”), American National Standard: Magnetic Tape and Cartridge for Information Interchange—18-Track, Parallel, 1/2 inch (12.65 mm), 37871 cpi (1491 cpmm), Group-Coded—Requirements for Recording, 1990, IBR approved for § 1235.46.
+(2) ANSI X3.180-1990 (“ANSI X3.180”), American National Standard: Magnetic Tape and Cartridge for Information Interchange—18-Track, Parallel,1/2 inch (12.65 mm), 37871 cpi (1491 cpmm), Group-Coded—Requirements for Recording, 1990, IBR approved for § 1235.46.
 
 (3) ANSI/NISO/ISO 9660-1990 (“ANSI/NISO/ISO 9660”), American National Standard for Volume and File Structure of CD-ROM for Information Exchange, 1990, IBR approved for § 1235.46.
 

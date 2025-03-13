@@ -1,15 +1,11 @@
 ##### § 261.4 Disorderly conduct. #####
 
-Link to an amendment published at 89 FR 92815, Nov. 25, 2024.
+The following are prohibited when committed intentionally to cause, or recklessly to create a substantial risk of causing, public alarm, nuisance, jeopardy, or violence:
 
-The following are prohibited:
+(a) Engaging in fighting or any threatening or other violent behavior.
 
-(a) Engaging in fighting.
+(b) Making an utterance or performing an act that is obscene or threatening or that is made or performed in a manner that is likely to inflict injury or incite an immediate breach of peace.
 
-(b) Addressing any offensive, derisive, or annoying communication to any other person who is lawfully present when such communication has a direct tendency to cause acts of violence by the person to whom, individually, the remark is addressed.
+(c) Making noise that is unreasonable considering the nature and purpose of the conduct, location, and time.
 
-(c) Make statements or other actions directed toward inciting or producing imminent lawless action and likely to incite or produce such action.
-
-(d) Causing public inconvenience, annoyance, or alarm by making unreasonably loud noise.
-
-[46 FR 33520, June 30, 1981]
+[89 FR 92815, Nov. 25, 2024]

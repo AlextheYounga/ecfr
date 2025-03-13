@@ -1,10 +1,8 @@
 ##### § 261.50 Orders. #####
 
-Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
+(a) The Chief, each Regional Forester, each Experiment Station Director, the head of each administrative unit, their deputies, or persons acting in these positions may issue orders, consistent with their delegations of authority, that close or restrict the use of described areas by applying the prohibitions authorized in this subpart, individually or in combination.
 
-(a) The Chief, each Regional Forester, each Experiment Station Director, the Administrator of the Lake Tahoe Basin Management Unit and each Forest Supervisor may issue orders which close or restrict the use of described areas within the area over which he has jurisdiction. An order may close an area to entry or may restrict the use of an area by applying any or all of the prohibitions authorized in this subpart or any portion thereof.
-
-(b) The Chief, each Regional Forester, each Experiment Station Director, the Administrator of the Lake Tahoe Basin Management Unit and each Forest Supervisor may issue orders which close or restrict the use of any National Forest System road or trail within the area over which he has jurisdiction.
+(b) The Chief, each Regional Forester, each Experiment Station Director, the head of each administrative unit, their deputies, or persons acting in these positions may issue orders, consistent with their delegations of authority, that close or restrict the use of any National Forest System road or National Forest System trail.
 
 (c) Each order shall:
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
 
 (f) Any person wishing to use a National Forest System road or trail or a portion of the National Forest System, should contact the Forest Supervisor, Director, Administrator, or District Ranger to ascertain the special restrictions which may be applicable thereto.
 
-[42 FR 2957, Jan. 14, 1977; 42 FR 24739, May 16, 1977, as amended at 42 FR 35959, July 13, 1977; 46 FR 33521, June 30, 1981; 66 FR 3218, Jan. 12, 2001]
+[42 FR 2957, Jan. 14, 1977; 42 FR 24739, May 16, 1977, as amended at 42 FR 35959, July 13, 1977; 46 FR 33521, June 30, 1981; 66 FR 3218, Jan. 12, 2001; 89 FR 92816, Nov. 25, 2024]

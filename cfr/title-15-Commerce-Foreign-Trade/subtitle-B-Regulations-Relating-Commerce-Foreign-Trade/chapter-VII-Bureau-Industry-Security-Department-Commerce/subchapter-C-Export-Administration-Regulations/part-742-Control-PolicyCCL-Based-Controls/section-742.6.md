@@ -1,7 +1,5 @@
 ##### § 742.6 Regional stability. #####
 
-Link to an amendment published at 89 FR 93167, Nov. 26, 2024.
-
 (a) *License requirements.* The following controls are maintained in support of U.S. foreign policy to maintain regional stability:
 
 (1) *RS Column 1 license requirements in general.* A license is required for exports and reexports to all destinations, except Australia, Canada, or the United Kingdom, for all items in ECCNs on the CCL that include RS Column 1 in the Country Chart column of the “License Requirements” section. Transactions described in paragraph (a)(2), (3), or (9) of this section are subject to the RS Column 1 license requirements set forth in those paragraphs rather than the license requirements set forth in this paragraph (a)(1).
@@ -64,6 +62,8 @@ Link to an amendment published at 89 FR 93167, Nov. 26, 2024.
 
 (11) *License requirement for ECCN 3B993, 3B994, 3D993, 3D994, 3E993, and 3E994.* A license is required for the export, reexport, or transfer (in-country) of items specified in ECCN 3B993, 3B994, 3D993, 3D994, 3E993, or 3E994 to a Footnote 5 designated entity listed on the Entity List in supplement no. 4 to part 744 of the EAR when the item is not subject to the EAR pursuant to § 734.4(a)(9) or § 734.9(e)(3) of the EAR. See § 744.11(a)(2)(v)(a) for license requirements for these items when subject to the EAR pursuant to §§ 734.4(a)(9) and 734.9(e)(3) of the EAR.
 
+(12) *RS requirements that apply to Pakistan.* A license is required to export, reexport, or transfer (in-country) to or within Pakistan the following items: 1B999 (“Specific Processing Equipment, n.e.s.”); 2A992 (“Piping, fittings and valves made of, or lined with stainless, copper-nickel alloy or other alloy steel containing 10% or more nickel and/or chromium”); 2B999 (“Specific Processing Equipment, n.e.s.”), except 2B999.h.2; 3A992 (“General purpose electronic equipment not controlled by 3A002”); 3A999 (“Specific Processing Equipment, n.e.s.”); and 6A996 (“ 'Magnetometers' not controlled by ECCN 6A006, 'Superconductive' electromagnetic sensors, and 'specially designed' 'components' therefor”).
+
 (b) *Licensing policy*—(1) *Licensing policy for RS Column 1 items.* (i) Applications for exports and reexports of ECCN 0A501, 0A502, 0A504, 0A505, 0A506, 0A507, 0A508, 0A509, 0B501, 0B505, 0D501, 0D505, 0E501, 0E504, and 0E505 items, 9x515, and “600 series” items will be reviewed under the following policies:
 
 (A) Applications for exports and reexports of ECCN 0A501, 0A502, 0A504, 0A505, 0A506, 0A507, 0A508, 0A509, 0B501, 0B505, 0D501, 0D505, 0E501, 0E504, and 0E505 items; 9x515 and “600 series” items will be reviewed on a case-by-case basis to determine whether the transaction is contrary to the national security or foreign policy interests of the United States, including the foreign policy interest of promoting the observance of human rights throughout the world.
@@ -115,6 +115,8 @@ Link to an amendment published at 89 FR 93167, Nov. 26, 2024.
 (11) *License review policy for items specified in paragraph (a)(10).* License applications to export or reexport items described in paragraph (a)(10) of this section to destinations specified in Country Group A:1, A:5, and A:6, see supplement no. 1 to part 740 of the EAR, will be reviewed with a presumption of approval. License applications to export or reexport items described in paragraph (a)(10) of this section to destinations specified in Country Groups D:1 or D:5 of supplement no. 1 to part 740 of the EAR will be reviewed under a presumption of denial. License applications to export or reexport items described in paragraph (a)(10) of this section to any other destination will be reviewed on a case-by-case basis, unless subject to a more restrictive RS policy in this section.
 
 (12) *License review policy for paragraph (a)(11).* The license review policy for items subject to a license pursuant to paragraph (a)(11) of this section will be reviewed as specified in the license review policy column for the listed entity. See also § 744.11(a)(2)(v) of the EAR.
+
+(13) Applications for the export, reexport, or transfer (in-country) of any item that requires a license pursuant to paragraph (a)(12) of this section will be reviewed on a case-by-case basis to determine whether the proposed export, reexport, or transfer (in-country) presents an unacceptable risk of use in, or diversion to, an end use or end user of concern, as set forth in part 744 of the EAR. If it is determined that the proposed export, reexport, or transfer (in-country) poses an unacceptable risk of use in, or diversion to, an end use or end user of concern, the application will be denied.
 
 (c)(1) *Contract sanctity date:* March 21, 2003. This contract sanctity date applies only to items controlled under ECCNs 2A983, 2D983 and 2E983 destined for countries not listed in Country Group E (supplement 1 to part 740). See parts 742 and 746 for the contract sanctity requirements applicable to exports and reexports to countries listed in Country Group E.
 

@@ -1,12 +1,6 @@
 ##### § 802.104 Applicability rule. #####
 
-Link to an amendment published at 89 FR 93185, Nov. 26, 2024.
-
-(a) The regulations in this part do not apply to any transaction for which:
-
-(1) The completion date is prior to February 13, 2020; or
-
-(2) The parties to the transaction have executed, prior to February 13, 2020, a binding written agreement, or other binding document, establishing the material terms of the transaction.
+(a) Except as provided in paragraphs (b) and (c) of this section and otherwise in this part, the regulations in this part apply from February 13, 2020.
 
 (b) The regulations in this part adopted by the final rule published in the Federal Register on January 17, 2020 (85 FR 3158), shall apply to any transaction for which:
 
@@ -26,4 +20,4 @@ Link to an amendment published at 89 FR 93185, Nov. 26, 2024.
 
 (2) The parties to the transaction have executed a binding written agreement, or other binding document, establishing the material terms of the transaction on or after December 9, 2024.
 
-[89 FR 88133, Nov. 7, 2024; 89 FR 90592, Nov. 18, 2024]
+[89 FR 88133, Nov. 7, 2024; 89 FR 90592, Nov. 18, 2024, as amended at 89 FR 93185, Nov. 26, 2024] Editorial Note:At 89 FR 93185, Nov. 26, 2024, § 802.104 was amended by adding paragraph (c). However, the amendment could not be incorporated because paragraph (c) already exists.

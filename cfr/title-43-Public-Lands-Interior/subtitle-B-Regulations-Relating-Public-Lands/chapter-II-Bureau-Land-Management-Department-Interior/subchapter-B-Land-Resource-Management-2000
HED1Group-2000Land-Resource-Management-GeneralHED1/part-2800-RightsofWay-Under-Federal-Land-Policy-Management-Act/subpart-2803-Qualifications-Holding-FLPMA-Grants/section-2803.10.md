@@ -1,4 +1,4 @@
-##### § 2803.10 Who may hold a grant? #####
+##### § 2803.10 Who may hold a grant or lease? #####
 
 To hold a grant under these regulations, you must be:
 

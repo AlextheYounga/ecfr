@@ -12,7 +12,7 @@
 
 (d) Penetrations in the walls must not reduce the specified fire resistance ratings. The fire resistance ratings of structural elements and construction assemblies must be in accordance with ASTM E 119-98 (incorporated by reference, see § 1234.3).
 
-(e) The fire resistive rating of the roof must be a minimum of 1/2 hour for all records storage facilities, or must be protected by an automatic sprinkler system designed, installed, and maintained in accordance with NFPA 13 (incorporated by reference, see § 1234.3).
+(e) The fire resistive rating of the roof must be a minimum of1/2 hour for all records storage facilities, or must be protected by an automatic sprinkler system designed, installed, and maintained in accordance with NFPA 13 (incorporated by reference, see § 1234.3).
 
 (f) Openings in fire barrier walls separating records storage areas must be avoided to the greatest extent possible. If openings are necessary, they must be protected by self-closing or automatic Class A fire doors, or equivalent doors that maintain the same rating as the wall.
 

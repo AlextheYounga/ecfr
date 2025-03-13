@@ -1,10 +1,8 @@
 ##### § 261.10 Occupancy and use. #####
 
-Link to an amendment published at 89 FR 92815, Nov. 25, 2024.
-
 The following are prohibited:
 
-(a) Constructing, placing, or maintaining any kind of road, trail, structure, fence, enclosure, communication equipment, significant surface disturbance, or other improvement on National Forest System lands or facilities without a special-use authorization, contract, or approved operating plan when such authorization is required.
+(a) Constructing, placing, or maintaining any kind of road, trail, structure, fence, enclosure, communications equipment, sign, or other improvement on National Forest System lands or facilities or making a significant surface disturbance on National Forest System lands without a special use authorization, contract, approved plan of operations, or other written authorization when that written authorization is required.
 
 (b) Construction, reconstructing, improving, maintaining, occupying or using a residence on National Forest System lands unless authorized by a special-use authorization or approved operating plan when such authorization is required.
 
@@ -18,7 +16,7 @@ The following are prohibited:
 
 (3) Into or within any cave.
 
-(e) Abandoning any personal property.
+(e) Leaving personal property unattended for longer than 72 hours, except in locations where longer periods have been designated.
 
 (f) Placing a vehicle or other object in such a manner that it is an impediment or hazard to the safety or convenience of any person.
 
@@ -38,8 +36,14 @@ The following are prohibited:
 
 (n) Failing to pay any special use fee or other charges as required.
 
-(o) Discharging or igniting a firecracker, rocket or other firework, or explosive into or within any cave.
+(o) Use or occupancy of National Forest System lands or facilities without a special use authorization, contract, approved plan of operations, or other written authorization when that written authorization is required.
 
-(p) Use or occupancy of National Forest System lands or facilities without an approved operating plan when such authorization is required.
+(p) Knowingly or intentionally possessing any controlled substance in violation of Federal law.
 
-[42 FR 2957, Jan. 14, 1977, as amended at 46 FR 33520, June 30, 1981; 49 FR 25450, June 21, 1984; 53 FR 16550, May 10, 1988; 59 FR 31152, June 17, 1994; 60 FR 45295, Aug. 30, 1995; 66 FR 3218, Jan. 12, 2001; 69 FR 41965, July 13, 2004; 73 FR 65999, Nov. 6, 2008]
+(q) Knowingly or intentionally possessing any drug paraphernalia in violation of State law.
+
+(r) Possessing any alcoholic beverage in violation of State law.
+
+(s) Providing any alcoholic beverage to a minor in violation of State law.
+
+[42 FR 2957, Jan. 14, 1977, as amended at 46 FR 33520, June 30, 1981; 49 FR 25450, June 21, 1984; 53 FR 16550, May 10, 1988; 59 FR 31152, June 17, 1994; 60 FR 45295, Aug. 30, 1995; 66 FR 3218, Jan. 12, 2001; 69 FR 41965, July 13, 2004; 73 FR 65999, Nov. 6, 2008; 89 FR 92815, Nov. 25, 2024]

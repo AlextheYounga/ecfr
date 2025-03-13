@@ -30,7 +30,7 @@ As used in this subpart:
 
 *Tour vessel* means any motor vessel of less than 100 tons gross (U.S. System) or 2,000 tons gross (International Convention System) engaged in transport of passengers for hire and certificated to carry more than 12 passengers overnight or more than 49 passengers for daytime use.
 
-*Transit* means to operate a motor vessel under power and continuously so as to accomplish 1/2 nautical mile of littoral (i.e., along the shore) travel.
+*Transit* means to operate a motor vessel under power and continuously so as to accomplish1/2 nautical mile of littoral (i.e., along the shore) travel.
 
 *Vessel* includes every type or description of craft used as a means of transportation on the water, including a buoyant device permitting or capable of free flotation and a seaplane while operating on the water.
 

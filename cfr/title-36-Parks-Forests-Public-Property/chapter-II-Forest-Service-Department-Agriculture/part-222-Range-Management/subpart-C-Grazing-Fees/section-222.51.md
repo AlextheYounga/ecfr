@@ -10,4 +10,4 @@
 
 (3) Prices Paid Index means the following selected components from the National Agricultural Statistics Service “Annual National Index of Prices Paid by Farmers for Goods and Services” adjusted by the weights indicated in parentheses to reflect livestock production costs in the Western States:
 
-1. Fuels and Energy (14.5); 2. Farm and Motor Supplies (12.0); 3. Autos and Trucks (4.5); 4. Tractors and Self-Propelled Machinery (4.5); 5. Other Machinery (12.0); 6. Building and Fencing Materials (14.5); 7. Interest (6.0); 8. Farm Wage Rates (14.0); 9. Farm Services (18.0).[44 FR 24843, Apr. 27, 1979, as amended at 53 FR 2984, Feb. 2, 1988]
+1. Fuels and Energy (14.5);2. Farm and Motor Supplies (12.0);3. Autos and Trucks (4.5);4. Tractors and Self-Propelled Machinery (4.5);5. Other Machinery (12.0);6. Building and Fencing Materials (14.5);7. Interest (6.0);8. Farm Wage Rates (14.0);9. Farm Services (18.0).[44 FR 24843, Apr. 27, 1979, as amended at 53 FR 2984, Feb. 2, 1988]

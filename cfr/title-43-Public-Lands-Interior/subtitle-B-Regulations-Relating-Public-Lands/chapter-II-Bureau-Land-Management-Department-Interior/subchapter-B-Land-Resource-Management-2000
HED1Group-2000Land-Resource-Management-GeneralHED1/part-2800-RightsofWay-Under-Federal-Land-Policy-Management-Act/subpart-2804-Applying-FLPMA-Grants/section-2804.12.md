@@ -68,6 +68,6 @@
 
 (i) *Inter-agency coordination.* You may request, in writing, an exemption from the requirements of this section if you can demonstrate to the BLM that you have satisfied similar requirements by participating in an inter-agency coordination process with another Federal, State, local, or Tribal authority. No exemption is approved until you receive BLM approval in writing.
 
-(j) Your application will not be complete until you have met or addressed the requirements of this section to the satisfaction of the BLM. The BLM will notify you in writing when your application is complete.
+(j) Complete applications: Your application will not be complete until you have met or addressed the requirements of this section to the satisfaction of the BLM. The BLM will notify you in writing when your application is complete.
 
-[81 FR 92207, Dec. 19, 2016, as amended at 89 FR 25959, Apr. 12, 2024; 89 FR 35678, May 1, 2024]
+[81 FR 92207, Dec. 19, 2016, as amended at 89 FR 25959, Apr. 12, 2024; 89 FR 35678, May 1, 2024; 89 FR 104890, Dec. 26, 2024]

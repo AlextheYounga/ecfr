@@ -1,11 +1,11 @@
 ##### § 102-118.545 What information must a TSP claim include? #####
 
-Link to an amendment published at 89 FR 93198, Nov. 26, 2024.
+All claims filed with GSA Transportation Audits Division either using TAMS (preferred) or via email (*protests@gsa.gov*) must include:
 
-Transportation service provider (TSP) claims received by GSA or its designee must include one of the following:
+(a) The transportation document.
 
-(a) The signature of an individual or party legally entitled to receive payment for services on behalf of the TSP;
+(b) An explanation for the claim.
 
-(b) The signature of the TSP's agent or attorney accompanied by a duly executed power of attorney or other documentary evidence of the agent's or attorney's right to act for the TSP; or
+(c) Any additional supporting documentation.
 
-(c) An electronic signature, when mutually agreed upon.
+[89 FR 93198, Nov. 26, 2024]

@@ -10,7 +10,7 @@
 
 (2) Lumber, construction timbers, or cants for remanufacture, except western red cedar, meeting current American Lumber Standards Grades or Pacific Lumber Inspection Bureau Export R or N list clear grades, sawn on 4 sides, not to exceed 12 inches (30.5 cm) thick. To determine whether such lumber, timbers, or cants meet this grading standard, the shipper of record must have in its possession for each shipment or order and available for inspection, upon the request of the Forest Service, a legible copy of a lumber inspection certificate certified by a lumber inspection/grading organization generally recognized by the industry as setting a selling standard.
 
-(3) Lumber, construction timbers, or cants for remanufacture, except western red cedar, that do not meet the grades referred to in paragraph (a)(2) of this section and are sawn on 4 sides, with wane less than 1/4 of any face, not exceeding 83/4 inches (22.2 cm) thick.
+(3) Lumber, construction timbers, or cants for remanufacture, except western red cedar, that do not meet the grades referred to in paragraph (a)(2) of this section and are sawn on 4 sides, with wane less than1/4 of any face, not exceeding 83/4 inches (22.2 cm) thick.
 
 (4) Chips, pulp, or pulp products.
 

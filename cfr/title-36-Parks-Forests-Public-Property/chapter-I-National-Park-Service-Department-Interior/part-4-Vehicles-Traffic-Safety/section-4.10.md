@@ -10,6 +10,6 @@
 
 (2) Operating a motor vehicle in a manner that causes unreasonable damage to the surface of a park road or route.
 
-(3) Operating a motor vehicle on a route or area designated for off-road motor vehicle use, from 1/2 hour after sunset to 1/2 hour before sunrise, without activated headlights and taillights that meet the requirements of State law for operation on a State highway.
+(3) Operating a motor vehicle on a route or area designated for off-road motor vehicle use, from1/2 hour after sunset to1/2 hour before sunrise, without activated headlights and taillights that meet the requirements of State law for operation on a State highway.
 
 [52 FR 10683, Apr. 2, 1987, as amended at 80 FR 36476, June 25, 2015]
