@@ -1,5 +1,7 @@
 ##### § 2.950 Transition periods. #####
 
+Link to an amendment published at 88 FR 67115, Sept. 29, 2023.
+
 (a) As of July 13, 2015 the Commission will no longer accept applications for Commission issued grants of equipment certification.
 
 (b) Prior to September 15, 2015 a TCB shall be accredited to either ISO/IEC Guide 65 or ISO/IEC 17065 (incorporated by reference, see § 2.910). On or after September 15, 2015 a TCB shall be accredited to ISO/IEC 17065.

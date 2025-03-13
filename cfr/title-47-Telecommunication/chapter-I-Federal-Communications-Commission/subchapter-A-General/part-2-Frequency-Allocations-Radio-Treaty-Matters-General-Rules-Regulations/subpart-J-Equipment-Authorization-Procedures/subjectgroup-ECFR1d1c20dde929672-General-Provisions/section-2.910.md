@@ -1,5 +1,7 @@
 ##### § 2.910 Incorporation by reference. #####
 
+Link to an amendment published at 88 FR 67114, Sept. 29, 2023.
+
 (a) The materials listed in this section are incorporated by reference in this part. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval, and notice of any change in these materials will be published in the Federal Register. All approved material is available for inspection at the Federal Communications Commission, located at the address indicated in 47 CFR 0.401(a), Tel: (202) 418-0270, and is available from the sources listed in this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) International Electrotechnical Commission (IEC), IEC Central Office, 3, rue de Varembe, CH-1211 Geneva 20, Switzerland, Email: *inmail@iec.ch, www.iec.ch.*

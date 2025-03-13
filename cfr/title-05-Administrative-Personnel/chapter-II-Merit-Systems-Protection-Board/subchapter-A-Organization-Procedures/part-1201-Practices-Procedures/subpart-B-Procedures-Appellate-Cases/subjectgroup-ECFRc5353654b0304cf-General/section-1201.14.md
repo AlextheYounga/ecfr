@@ -1,5 +1,7 @@
 ##### § 1201.14 Electronic filing procedures. #####
 
+Link to an amendment published at 88 FR 67056, Sept. 29, 2023.
+
 (a) *General.* This section prescribes the rules and procedures by which parties and representatives to proceedings within the MSPB's appellate and original jurisdiction may file and receive documents in electronic form.
 
 (b) *Matters subject to electronic filing.* Subject to the registration requirement of paragraph (e) of this section, parties and representatives may use electronic filing (e-filing) to do any of the following:

@@ -1,5 +1,7 @@
 ##### § 351.408 Calculation of normal value of merchandise from nonmarket economy countries. #####
 
+Link to an amendment published at 88 FR 67080, Sept. 29, 2023.
+
 (a) *Introduction.* In identifying dumping from a nonmarket economy country, the Secretary normally will calculate normal value by valuing the nonmarket economy producers' factors of production in a market economy country. (*See* section 773(c) of the Act.) This section clarifies when and how this special methodology for nonmarket economies will be applied.
 
 (b) *Economic Comparability.* In determining whether a country is at a level of economic development comparable to the nonmarket economy under section 773(c)(2)(B) or section 773(c)(4)(A) of the Act, the Secretary will place primary emphasis on *per capita* GDP as the measure of economic comparability.

@@ -1,10 +1,8 @@
 ##### § 54.703 The Administrator's Board of Directors. #####
 
-Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
-
 (a) The Administrator shall have a Board of Directors separate from the Board of Directors of the National Exchange Carrier Association. The National Exchange Carrier Association's Board of Directors shall be prohibited from participating in the functions of the Administrator.
 
-(b) *Board composition.* The independent subsidiary's Board of Directors shall consist of nineteen (19) directors:
+(b) *Board composition.* The independent subsidiary's Board of Directors shall consist of twenty (20) directors:
 
 (1) Three directors shall represent incumbent local exchange carriers, with one director representing the Bell Operating Companies and GTE, one director representing ILECs (other than the Bell Operating Companies) with annual operating revenues in excess of $40 million, and one director representing ILECs (other than the Bell Operating Companies) with annual operating revenues of $40 million or less;
 
@@ -28,9 +26,11 @@ Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
 
 (11) One director shall represent state telecommunications regulators;
 
-(12) One director shall represent state consumer advocates; and
+(12) One director shall represent state consumer advocates;
 
-(13) The Chief Executive Officer of the Administrator.
+(13) One director shall represent Tribal communities; and
+
+(14) The Chief Executive Officer of the Administrator.
 
 (c) *Selection process for board of directors.* (1) Sixty (60) days prior to the expiration of a director's term, the industry or non-industry group that is represented by such director on the Administrator's Board of Directors, as specified in paragraph (b) of this section, shall nominate by consensus a new director. The industry or non-industry group shall submit the name of its nominee for a seat on the Administrator's Board of Directors, along with relevant professional and biographical information about the nominee, to the Chairman of the Federal Communications Commission. Only members of the industry or non-industry group that a Board member will represent may submit a nomination for that position.
 
@@ -44,4 +44,4 @@ Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
 
 (f) Each member of the Administrator's Board of Directors shall be entitled to receive reimbursement for expenses directly incurred as a result of his or her participation on the Administrator's Board of Directors.
 
-[63 FR 70573, Dec. 21, 1998, as amended at 67 FR 13226, Mar. 21, 2002]
+[63 FR 70573, Dec. 21, 1998, as amended at 67 FR 13226, Mar. 21, 2002; 88 FR 55410, Aug. 15, 2023]

@@ -1,7 +1,5 @@
 ##### § 431.12 Definitions. #####
 
-Link to an amendment published at 88 FR 36150, June 1, 2023.
-
 The following definitions apply for purposes of this subpart, and of subparts U and V of this part. Any words or terms not defined in this Section or elsewhere in this part shall be defined as provided in Section 340 of the Act.
 
 *Accreditation* means recognition by an accreditation body that a laboratory is competent to test the efficiency of electric motors according to the scope and procedures given in IEEE 112-2017 Test Method B, CSA C390-10, or IEC 60034-2-1:2014 Method 2-1-1B (incorporated by reference, see § 431.15).
@@ -292,6 +290,24 @@ With the exception of the NEMA Motor Standards MG1-1967 (incorporated by referen
 
 *Special purpose electric motor* means any electric motor, other than a general purpose motor or definite electric purpose motor, which has special operating characteristics or special mechanical construction, or both, designed for a particular application.
 
+*Specialized frame size* means an electric motor frame size for which the rated output power of the motor exceeds the motor frame size limits specified for standard frame size. Specialized frame sizes have maximum diameters corresponding to the following NEMA Frame Sizes:
+
+|Motor horsepower/standard kilowatt equivalent|Maximum NEMA frame diameters|        |      |        |    |        |    |   |
+|---------------------------------------------|----------------------------|--------|------|--------|----|--------|----|---|
+|                   2 Pole                    |           4 Pole           | 6 Pole |8 Pole|        |    |        |    |   |
+|                  Enclosed                   |            Open            |Enclosed| Open |Enclosed|Open|Enclosed|Open|   |
+|                    1/.75                    |             48             |        |  48  |   48   | 48 |   48   |140 |140|
+|                   1.5/1.1                   |             48             |   48   |  48  |   48   |140 |  140   |140 |140|
+|                    2/1.5                    |             48             |   48   |  48  |   48   |140 |  140   |180 |180|
+|                    3/2.2                    |            140             |   48   | 140  |  140   |180 |  180   |180 |180|
+|                    5/3.7                    |            140             |  140   | 140  |  140   |180 |  180   |210 |210|
+|                   7.5/5.5                   |            180             |  140   | 180  |  180   |210 |  210   |210 |210|
+|                   10/7.5                    |            180             |  180   | 180  |  180   |210 |  210   |    |   |
+|                    15/11                    |            210             |  180   | 210  |  210   |    |        |    |   |
+|                    20/15                    |            210             |  210   | 210  |  210   |    |        |    |   |
+
+*Standard frame size* means a motor frame size that aligns with the specifications in NEMA MG 1-2016, section 13.2 for open motors, and NEMA MG 1-2016, section 13.3 for enclosed motors (incorporated by reference, see § 431.15).
+
 *Submersible electric motor* means an electric motor that:
 
 (1) Is intended to operate continuously only while submerged in liquid;
@@ -304,4 +320,4 @@ With the exception of the NEMA Motor Standards MG1-1967 (incorporated by referen
 
 *Totally enclosed non-ventilated (TENV) electric motor* means an electric motor that is built in a frame-surface cooled, totally enclosed configuration that is designed and equipped to be cooled only by free convection.
 
-[69 FR 61923, Oct. 21, 2004, as amended at 74 FR 12071, Mar. 23, 2009; 77 FR 26633, May 4, 2012; 78 FR 75993, Dec. 13, 2013; 79 FR 31009, May 29, 2014; 86 FR 21, Jan. 4, 2021; 87 FR 63654, Oct. 19, 2022; 87 FR 64689, Oct. 26, 2022]
+[69 FR 61923, Oct. 21, 2004, as amended at 74 FR 12071, Mar. 23, 2009; 77 FR 26633, May 4, 2012; 78 FR 75993, Dec. 13, 2013; 79 FR 31009, May 29, 2014; 86 FR 21, Jan. 4, 2021; 87 FR 63654, Oct. 19, 2022; 87 FR 64689, Oct. 26, 2022; 88 FR 36150, Sept. 29, 2023]

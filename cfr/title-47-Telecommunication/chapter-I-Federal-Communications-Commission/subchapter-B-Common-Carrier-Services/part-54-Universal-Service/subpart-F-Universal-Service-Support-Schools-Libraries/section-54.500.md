@@ -1,7 +1,5 @@
 ##### § 54.500 Terms and definitions. #####
 
-Link to an amendment published at 88 FR 55409, Aug. 15, 2023.
-
 *Basic maintenance.* A service is eligible for support as a “basic maintenance” service if, but for the maintenance at issue, the internal connection would not function and serve its intended purpose with the degree of reliability ordinarily provided in the marketplace to entities receiving such services. Basic maintenance services do not include services that maintain equipment that is not supported by E-rate or that enhance the utility of equipment beyond the transport of information, or diagnostic services in excess of those necessary to maintain the equipment's ability to transport information.
 
 *Billed entity.* A “billed entity” is the entity that remits payment to service providers for services rendered to eligible schools and libraries.
@@ -50,8 +48,10 @@ Link to an amendment published at 88 FR 55409, Aug. 15, 2023.
 
 *State telecommunications network.* A “state telecommunications network” is a state government entity that procures, among other things, telecommunications offerings from multiple service providers and bundles such offerings into packages available to schools, libraries, or rural health care providers that are eligible for universal service support, or a state government entity that provides, using its own facilities, such telecommunications offerings to such schools, libraries, and rural health care providers.
 
+*Tribal.* An entity is “Tribal” for purposes of E-Rate funding if it is a school operated by or receiving funding from the Bureau of Indian Education (BIE), or if it is a school or library operated by any Tribe, Band, Nation, or other organized group or community, including any Alaska native village, regional corporation, or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 *et seq.*)) that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
 *Voice services.* “Voice services” include local phone service, long distance service, plain old telephone service (POTS), radio loop, 800 service, satellite telephone, shared telephone service, Centrex, wireless telephone service such as cellular, interconnected voice over Internet protocol (VoIP), and the circuit capacity dedicated to providing voice services.
 
 *Wide area network.* For purposes of this subpart, a “wide area network” is a voice or data network that provides connections from one or more computers within an eligible school or library to one or more computers or networks that are external to such eligible school or library. Excluded from this definition is a voice or data network that provides connections between or among instructional buildings of a single school campus or between or among non-administrative buildings of a single library branch.
 
-[63 FR 2128, Jan. 13, 1998, as amended at 68 FR 36942, June 20, 2003; 76 FR 56302, Sept. 13, 2011; 79 FR 49197, Aug. 19, 2014; 79 FR 68634, Nov. 18, 2014; 87 FR 8210, Feb. 14, 2022]
+[63 FR 2128, Jan. 13, 1998, as amended at 68 FR 36942, June 20, 2003; 76 FR 56302, Sept. 13, 2011; 79 FR 49197, Aug. 19, 2014; 79 FR 68634, Nov. 18, 2014; 87 FR 8210, Feb. 14, 2022; 88 FR 55409, Aug. 15, 2023]

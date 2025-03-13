@@ -1,5 +1,7 @@
 ##### § 73.1660 Acceptability of broadcast transmitters. #####
 
+Link to an amendment published at 88 FR 67116, Sept. 29, 2023.
+
 (a)(1) An AM, FM, or TV transmitter shall be approved for compliance with the requirements of this part following the Supplier's Declaration of Conformity procedures described in subpart J of part 2 of this chapter.
 
 Note 1 to paragraph (a)(1):

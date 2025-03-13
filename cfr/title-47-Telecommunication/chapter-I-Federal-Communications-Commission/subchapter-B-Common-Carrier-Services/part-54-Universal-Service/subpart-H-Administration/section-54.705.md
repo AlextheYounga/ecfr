@@ -1,7 +1,5 @@
 ##### § 54.705 Committees of the Administrator's Board of Directors. #####
 
-Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
-
 (a) *Schools and Libraries Committee*—(1) *Committee functions.* The Schools and Libraries Committee shall oversee the administration of the schools and libraries support mechanism by the Schools and Libraries Division. The Schools and Libraries Committee shall have the authority to make decisions concerning:
 
 (i) How the Administrator projects demand for the schools and libraries support mechanism;
@@ -30,9 +28,11 @@ Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
 
 (iii) One service provider representative;
 
-(iv) One at-large representative elected by the Administrator's Board of Directors; and
+(iv) One Tribal community representative;
 
-(v) The Administrator's Chief Executive Officer.
+(v) One at-large representative elected by the Administrator's Board of Directors; and
+
+(vi) The Administrator's Chief Executive Officer.
 
 (b) *Rural Health Care Committee*—(1) *Committee functions.* The Rural Health Care Committee shall oversee the administration of the rural health care support mechanism by the Rural Health Care Division. The Rural Health Care Committee shall have authority to make decisions concerning:
 
@@ -82,4 +82,4 @@ Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
 
 (2) The budgets prepared by each Committee shall be subject to Board review as part of the Administrator's combined budget. The Board shall not modify the budgets prepared by the Committees of the Board unless such modification is approved by a two-thirds vote of a quorum of the Board, as defined in the Administrator's by-laws.
 
-[63 FR 70574, Dec. 21, 1998, as amended at 65 FR 38690, June 21, 2000; 65 FR 57739, Sept. 26, 2000; 66 FR 59728, Nov. 30, 2001; 79 FR 49204, Aug. 19, 2014]
+[63 FR 70574, Dec. 21, 1998, as amended at 65 FR 38690, June 21, 2000; 65 FR 57739, Sept. 26, 2000; 66 FR 59728, Nov. 30, 2001; 79 FR 49204, Aug. 19, 2014; 88 FR 55410, Aug. 15, 2023]

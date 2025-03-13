@@ -1,5 +1,7 @@
 ##### § 351.303 Filing, document identification, format, translation, service, and certification of documents. #####
 
+Link to an amendment published at 88 FR 67079, Sept. 29, 2023.
+
 (a) *Introduction.* This section contains the procedural rules regarding filing, document identification, format, service, translation, and certification of documents and applies to all persons submitting documents to the Department for consideration in an antidumping or countervailing duty proceeding.
 
 (b) *Filing*—(1) *In general.* Persons must address all documents to the Secretary of Commerce, Attention: Enforcement and Compliance, APO/Dockets Unit, Room 18022, U.S. Department of Commerce, 14th Street and Constitution Avenue, NW., Washington, DC 20230. An electronically filed document must be received successfully in its entirety by the Department's electronic records system, ACCESS, by 5 p.m. Eastern Time on the due date. Where applicable, a submitter must manually file a document between the hours of 8:30 a.m. and 5 p.m. Eastern Time on business days (see § 351.103(b)). For both electronically filed and manually filed documents, if the applicable due date falls on a non-business day, the Secretary will accept documents that are filed on the next business day. A manually filed document must be accompanied by a cover sheet generated in ACCESS, in accordance with § 351.303(b)(3).

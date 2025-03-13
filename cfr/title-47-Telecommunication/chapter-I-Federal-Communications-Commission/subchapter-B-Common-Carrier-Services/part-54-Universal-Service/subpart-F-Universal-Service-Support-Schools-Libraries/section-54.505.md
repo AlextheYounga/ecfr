@@ -1,7 +1,5 @@
 ##### § 54.505 Discounts. #####
 
-Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
-
 (a) *Discount mechanism.* Discounts for eligible schools and libraries shall be set as a percentage discount from the pre-discount price.
 
 (b) *Discount percentages.* Except as provided in paragraph (f), the discounts available to eligible schools and libraries shall range from 20 percent to 90 percent of the pre-discount price for all eligible services provided by eligible providers, as defined in this subpart. The discounts available to a particular school, library, or consortium of only such entities shall be determined by indicators of poverty and high cost.
@@ -16,7 +14,7 @@ Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
 
 (4) School districts, library systems, or other billed entities shall calculate discounts on supported services described in § 54.502(a) that are shared by two or more of their schools, libraries, or consortia members by calculating an average discount based on the applicable district-wide discounts of all member schools and libraries. School districts, library systems, or other billed entities shall ensure that, for each year in which an eligible school or library is included for purposes of calculating the aggregate discount rate, that eligible school or library shall receive a proportionate share of the shared services for which support is sought. For schools, the discount shall be a simple average of the applicable district-wide percentage for all schools sharing a portion of the shared services. For libraries, the average discount shall be a simple average of the applicable discounts to which the libraries sharing a portion of the shared services are entitled.
 
-(c) *Matrices.* Except as provided in paragraphs (d) and (f) of this section, the Administrator shall use the following matrices to set discount rates to be applied to eligible category one and category two services purchased by eligible schools, school districts, libraries, or consortia based on the institution's level of poverty and location in an “urban” or “rural” area.
+(c) *Matrices.* Except as provided in paragraphs (d), (f), and (g) of this section, the Administrator shall use the following matrices to set discount rates to be applied to eligible category one and category two services purchased by eligible schools, school districts, libraries, or consortia based on the institution's level of poverty and location in an “urban” or “rural” area.
 
 |                                                        |Category one schools and libraries discount matrix|Category two schools and libraries discount matrix|                    |                    |
 |--------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------|--------------------|
@@ -45,4 +43,6 @@ Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
 
 (3) *Tribal libraries.* When a State government, Tribal government, or federal agency provides funding for special construction charges for a broadband connection to a library operated by Tribal governments, the Administrator shall match the governmental entity's contribution on a one-dollar-to-one-dollar basis up to an additional 10 percent discount, provided however that the total support from federal universal service and the governmental entity may not exceed 100 percent.
 
-[62 FR 32948, June 17, 1997, as amended at 62 FR 41304, Aug. 1, 1997; 63 FR 2130, Jan. 13, 1998; 63 FR 70572, Dec. 21, 1998; 75 FR 75414, Dec. 3, 2010; 79 FR 49201, Aug. 19, 2014; 79 FR 68634, Nov. 18, 2014; 80 FR 5989, Feb. 4, 2015]
+(g) *Tribal Library Category Two Discount Level.* For the costs of category two services, Tribal libraries at the highest discount level shall receive a 90 percent discount.
+
+[62 FR 32948, June 17, 1997, as amended at 62 FR 41304, Aug. 1, 1997; 63 FR 2130, Jan. 13, 1998; 63 FR 70572, Dec. 21, 1998; 75 FR 75414, Dec. 3, 2010; 79 FR 49201, Aug. 19, 2014; 79 FR 68634, Nov. 18, 2014; 80 FR 5989, Feb. 4, 2015; 88 FR 55410, Aug. 15, 2023]

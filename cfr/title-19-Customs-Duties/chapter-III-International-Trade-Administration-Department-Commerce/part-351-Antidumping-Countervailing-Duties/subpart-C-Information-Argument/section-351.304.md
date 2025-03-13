@@ -1,5 +1,7 @@
 ##### § 351.304 Establishing business proprietary treatment of information. #####
 
+Link to an amendment published at 88 FR 67079, Sept. 29, 2023.
+
 (a) *Claim for business proprietary treatment.* (1) Any person that submits factual information to the Secretary in connection with a proceeding may:
 
 (i) Request that the Secretary treat any part of the submission as business proprietary information that is subject to disclosure only under an administrative protective order,

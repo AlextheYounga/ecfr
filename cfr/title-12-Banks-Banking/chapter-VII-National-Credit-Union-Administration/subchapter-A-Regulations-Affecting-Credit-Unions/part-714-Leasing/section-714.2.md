@@ -1,5 +1,7 @@
 ##### § 714.2 What are the permissible leasing arrangements? #####
 
+Link to an amendment published at 88 FR 67601, Sept. 29, 2023.
+
 (a) You may engage in direct leasing. In direct leasing, you purchase personal property from a vendor, becoming the owner of the property at the request of your member, and then lease the property to that member.
 
 (b) You may engage in indirect leasing. In indirect leasing, a third party leases property to your member and you then purchase that lease from the third party for the purpose of leasing the property to your member. You do not have to purchase the leased property if you comply with the requirements of § 714.3.

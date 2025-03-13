@@ -1,5 +1,7 @@
 ##### § 68.162 Requirements for Telecommunication Certification Bodies. #####
 
+Link to an amendment published at 88 FR 67116, Sept. 29, 2023.
+
 (a) Telecommunication certification bodies (TCBs) designated by the National Institute of Standards and Technology (NIST), or designated by another authority pursuant to an bilateral or multilateral mutual recognition agreement or arrangement to which the United States is a party, shall comply with the following requirements.
 
 (b) *Certification methodology.* (1) The certification system shall be based on type testing as identified in ISO/IEC 17065.

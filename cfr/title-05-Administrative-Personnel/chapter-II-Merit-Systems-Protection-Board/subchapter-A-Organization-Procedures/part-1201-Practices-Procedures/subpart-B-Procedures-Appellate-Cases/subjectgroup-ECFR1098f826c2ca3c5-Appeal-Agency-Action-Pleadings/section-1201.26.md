@@ -1,5 +1,7 @@
 ##### § 1201.26 Number of pleadings, service, and response. #####
 
+Link to an amendment published at 88 FR 67058, Sept. 29, 2023.
+
 (a) *Number.* The appellant must file two copies of both the appeal and all attachments with the appropriate Board office, unless the appellant files an appeal in electronic form under § 1201.14.
 
 (b) *Service*—(1) *Service by the Board.* The appropriate office of the Board will mail a copy of the appeal to each party to the proceeding other than the appellant. It will attach to each copy a service list, consisting of a list of the names and addresses of the parties to the proceeding or their designated representatives.

@@ -1,5 +1,7 @@
 ##### § 1201.24 Content of an appeal; right to hearing. #####
 
+Link to an amendment published at 88 FR 67058, Sept. 29, 2023.
+
 (a) *Content.* Only an appellant, his or her designated representative, or a party properly substituted under § 1201.35 may file an appeal. Appeals may be in any format, including letter form. An appeal may be filed in electronic form provided that the requirements of § 1201.14 have been satisfied. All appeals must contain the following:
 
 (1) The name, address, and telephone number of the appellant, and the name and address of the agency that took the action;

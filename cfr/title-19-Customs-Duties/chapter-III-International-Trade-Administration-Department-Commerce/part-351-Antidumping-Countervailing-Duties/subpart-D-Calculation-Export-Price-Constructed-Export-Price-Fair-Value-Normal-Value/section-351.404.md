@@ -1,5 +1,7 @@
 ##### § 351.404 Selection of the market to be used as the basis for normal value. #####
 
+Link to an amendment published at 88 FR 67080, Sept. 29, 2023.
+
 (a) *Introduction.* Although in most circumstances sales of the foreign like product in the home market are the most appropriate basis for determining normal value, section 773 of the Act also permits use of sales to a third country or constructed value as the basis for normal value. This section clarifies the rules for determining the basis for normal value.
 
 (b) *Determination of viable market*—(1) *In general.* The Secretary will consider the exporting country or a third country as constituting a viable market if the Secretary is satisfied that sales of the foreign like product in that country are of sufficient quantity to form the basis of normal value.

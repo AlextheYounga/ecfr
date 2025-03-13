@@ -1,5 +1,7 @@
 ##### § 2.948 Measurement facilities. #####
 
+Link to an amendment published at 88 FR 67115, Sept. 29, 2023.
+
 (a) Equipment authorized under the certification procedure shall be tested at a laboratory that is accredited in accordance with paragraph (e) of this section.
 
 (b) A laboratory that makes measurements of equipment subject to an equipment authorization under the certification procedure or Supplier's Declaration of Conformity shall compile a description of the measurement facilities employed.
