@@ -38,4 +38,4 @@ As used in this part, the term:
 
 (3) *Class 3 electric bicycle* means an electric bicycle equipped with a motor that provides assistance only when the rider is pedaling, and that ceases to provide assistance when the bicycle reaches the speed of 28 miles per hour.
 
-[39 FR 26893, July 24, 1974, as amended at 44 FR 34909, June 15, 1979; 85 FR 67298, Oct. 22, 2020]
+[39 FR 26893, July 24, 1974, as amended at 44 FR 34909, June 15, 1979; 85 FR 67298, Oct. 22, 2020; 86 FR 59041, Oct. 26, 2021]

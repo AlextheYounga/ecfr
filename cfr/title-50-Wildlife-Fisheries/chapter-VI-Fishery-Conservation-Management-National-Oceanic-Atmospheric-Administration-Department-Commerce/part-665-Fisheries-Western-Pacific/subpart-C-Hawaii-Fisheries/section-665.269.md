@@ -1,7 +1,5 @@
 ##### § 665.269 Annual Catch Limits (ACL). #####
 
-Link to an amendment published at 88 FR 88836, Dec. 26, 2023.
-
 (a) *General.* The ACLs limiting the amount of precious coral that may be taken in any precious coral permit area during the fishing year are listed in paragraph (c) of this section. Only live coral is counted toward the ACL. The accounting period for each fishing year for all precious coral ACLs begins July 1 and ends June 30 of the following year.
 
 (b) *Reserves and reserve release.* The ACL for exploratory area X-P-H will be held in reserve for harvest by vessels of the United States in the following manner:
@@ -15,8 +13,6 @@ Link to an amendment published at 88 FR 88836, Dec. 26, 2023.
 (4) NMFS will publish in the Federal Register a notification of the Regional Administrator's determination and a summary of the information on which it is based as soon as practicable after the determination is made.
 
 (c) *Precious coral.* In accordance with § 665.4, the ACLs for MHI precious coral permit areas for each fishing year are as follows:
-
-Table 1 to Paragraph (c)
 
 |Type of coral bed|       Area and coral group       |2022-23 ACL (lb)|2023-24 ACL (lb)|2024-25 ACL (lb)|
 |-----------------|----------------------------------|----------------|----------------|----------------|
@@ -39,6 +35,6 @@ No fishing for coral is authorized in refugia.
 
 Note 2 to § 665.269:
 
-A moratorium on gold coral harvesting is in effect through June 30, 2023.
+A moratorium on gold coral harvesting is in effect through June 30, 2028.
 
-[85 FR 26624, May 5, 2020, as amended at 88 FR 14082, Mar. 7, 2023]
+[85 FR 26624, May 5, 2020, as amended at 88 FR 14082, Mar. 7, 2023; 88 FR 88836, Dec. 26, 2023]

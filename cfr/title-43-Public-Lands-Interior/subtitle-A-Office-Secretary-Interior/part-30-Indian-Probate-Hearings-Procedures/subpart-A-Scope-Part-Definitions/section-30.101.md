@@ -70,8 +70,6 @@
 
 *Home agency* means the agency that serves the Tribe in which the decedent is a member or where the decedent's IIM account originated.
 
-*Individual Indian Money (IIM) account* means an interest bearing account for trust funds held by the Secretary that belong to a person who has an interest in trust assets. These accounts are under the control and management of the Secretary.
-
 *Indian* means, for the purposes of the Act:
 
 (1) Any person who is a member of a federally recognized Indian tribe, is eligible to become a member of any federally recognized Indian tribe, or is an owner (as of October 27, 2004) of a trust or restricted interest in land;
@@ -93,6 +91,8 @@
 (4) Any tribe having a statutory option to purchase the trust or restricted property interest of a decedent; or
 
 (5) Any co-owner exercising a purchase option.
+
+*Individual Indian Money (IIM) account* means an interest bearing account for trust funds held by the Secretary that belong to a person who has an interest in trust assets. These accounts are under the control and management of the Secretary.
 
 *Interrogatories* means written questions submitted to another party for responses as part of discovery.
 

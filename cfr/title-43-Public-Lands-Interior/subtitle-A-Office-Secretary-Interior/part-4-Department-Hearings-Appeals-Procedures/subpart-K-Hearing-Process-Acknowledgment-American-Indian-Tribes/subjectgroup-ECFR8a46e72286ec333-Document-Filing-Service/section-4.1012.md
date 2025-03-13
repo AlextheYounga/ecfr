@@ -22,4 +22,6 @@
 
 (d) *Nonconforming documents.* If any document submitted for filing under this subpart does not comply with the requirements of this subpart or any applicable order, it may be rejected. If the defect is minor, the filer may be notified of the defect and given a chance to correct it.
 
+(e) A document may be electronically transmitted under the terms specified in OHA Standing Orders on Electronic Transmission.
+
 [36 FR 7186, Apr. 15, 1971, as amended at 88 FR 5794, Jan. 30, 2023]

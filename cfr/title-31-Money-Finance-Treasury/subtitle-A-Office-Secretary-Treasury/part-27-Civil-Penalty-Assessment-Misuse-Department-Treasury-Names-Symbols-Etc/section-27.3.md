@@ -20,7 +20,7 @@
 
 (b) *Disclaimers.* Any determination of whether a person has violated the provisions of paragraph (a) of this section shall be made without regard to any use of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
 
-(c) *Civil penalty.* An assessing official may impose a civil penalty on any person who violates the provisions of paragraph (a) of this section. The amount of a civil monetary penalty shall not exceed $9,399 for each and every use of any material in violation of paragraph (a), except that such penalty shall not exceed $46,989 for each and every use if such use is in a broadcast or telecast.
+(c) *Civil penalty.* An assessing official may impose a civil penalty on any person who violates the provisions of paragraph (a) of this section. The amount of a civil monetary penalty shall not exceed $9,704 (2024) for each and every use of any material in violation of paragraph (a), except that such penalty shall not exceed $48,512 for each and every use if such use is in a broadcast or telecast.
 
 (d) *Time limitations.* (1) Civil penalties imposed under this part must be assessed before the end of the three year period beginning on the date of offense charged.
 
@@ -28,4 +28,4 @@
 
 (e) *Criminal proceeding.* No civil penalty may be imposed under this part with respect to any violation of paragraph (a) of this section after a criminal proceeding on the same violation has been commenced by indictment or information under 31 U.S.C. 333(d).
 
-[62 FR 42213, Aug. 6, 1997, as amended at 84 FR 3106, Feb. 11, 2019; 84 FR 15956, Apr. 17, 2019; 85 FR 10064, Feb. 21, 2020; 86 FR 12539, Mar. 4, 2021; 88 FR 16886, Mar. 21, 2023]
+[62 FR 42213, Aug. 6, 1997, as amended at 84 FR 3106, Feb. 11, 2019; 84 FR 15956, Apr. 17, 2019; 85 FR 10064, Feb. 21, 2020; 86 FR 12539, Mar. 4, 2021; 88 FR 16886, Mar. 21, 2023; 89 FR 4819, Jan. 25, 2024]

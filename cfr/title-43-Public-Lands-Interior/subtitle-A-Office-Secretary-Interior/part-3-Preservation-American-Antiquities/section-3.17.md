@@ -6,4 +6,4 @@ Note to § 3.17:
 
 Regulations concerning curation of federally owned or administered archeological collections are found in 36 CFR part 79. Objects excavated under the Antiquities Act may be eligible for disposal under subpart E of 36 CFR part 79.
 
-[87 FR 22462, Apr. 15, 2022]
+[19 FR 8838, Dec. 23, 1954, as amended at 87 FR 22462, Apr. 15, 2022]

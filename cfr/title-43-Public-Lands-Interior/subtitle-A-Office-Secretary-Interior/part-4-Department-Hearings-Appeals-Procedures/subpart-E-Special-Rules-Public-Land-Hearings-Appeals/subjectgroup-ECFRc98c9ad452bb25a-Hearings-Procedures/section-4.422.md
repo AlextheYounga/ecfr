@@ -1,4 +1,4 @@
-##### § 4.422 Documents. #####
+##### § 4.422 Documents; filing and service. #####
 
 (a) *Grace period for filing.* Whenever a document is required under this subpart to be filed within a certain time and it is not received in the proper office during that time, the delay in filing will be waived if the document is filed not later than 10 days after it was required to be filed and it is determined that the document was transmitted or probably transmitted to the office in which the filing is required before the end of the period in which it was required to be filed. Determinations under this paragraph shall be made by the officer before whom is pending the appeal or contest in connection with which the document is required to be filed. This paragraph does not apply to requests for postponement of hearings under §§ 4.452-1 and 4.452-2.
 
