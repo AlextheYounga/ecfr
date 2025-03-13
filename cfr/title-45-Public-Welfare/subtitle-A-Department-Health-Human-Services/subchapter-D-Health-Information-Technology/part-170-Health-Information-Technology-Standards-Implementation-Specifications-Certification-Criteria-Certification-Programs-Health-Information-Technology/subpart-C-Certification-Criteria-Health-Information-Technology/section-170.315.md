@@ -1,6 +1,6 @@
 ##### § 170.315 2015 Edition health IT certification criteria. #####
 
-Link to an amendment published at 89 FR 1429, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.Link to a correction published at 89 FR 8548, Feb. 8, 2024.
+Link to an amendment published at 89 FR 1429, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.Link to a correction published at 89 FR 8548, Feb. 8, 2024.Link to a correction published at 89 FR 16470, Mar. 7, 2024.
 
 The Secretary adopts the following certification criteria for health IT. Health IT must be able to electronically perform the following capabilities in accordance with all applicable standards and implementation specifications adopted in this part:
 

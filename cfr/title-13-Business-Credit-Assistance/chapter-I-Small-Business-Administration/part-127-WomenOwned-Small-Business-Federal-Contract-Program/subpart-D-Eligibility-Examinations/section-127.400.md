@@ -10,4 +10,6 @@ Any concern seeking to remain a certified WOSB or EDWOSB must undergo a program 
 
 *Example to paragraph (b).* Concern B is certified by a third-party certifier to be eligible for the WOSB Program on July 20, 2023. Concern B is considered a certified WOSB that is eligible to receive WOSB contracts (as long as it is small for the size standard corresponding to the NAICS code assigned to the contract) through July 19, 2026. Concern B must request a program examination from SBA or notify SBA that it has requested a program examination from a third-party certifier, by June 20, 2026, to continue participating in the WOSB Program after July 19, 2026.
 
-[88 FR 26214, Apr. 27, 2023]
+(c) The SBA Administrator or designee may postpone the program examination and recertification process in appropriate, extraordinary circumstances.
+
+[88 FR 26214, Apr. 27, 2023, as amended at 89 FR 16446, Mar. 7, 2024]
