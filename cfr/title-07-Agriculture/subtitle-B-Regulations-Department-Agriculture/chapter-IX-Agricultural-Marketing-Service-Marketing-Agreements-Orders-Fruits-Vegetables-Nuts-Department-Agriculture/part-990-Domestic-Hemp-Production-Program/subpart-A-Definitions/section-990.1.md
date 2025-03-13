@@ -102,4 +102,6 @@ Words used in this subpart in the singular form shall be deemed to impart the pl
 
 *Tribal government.* The governing body of an Indian Tribe.
 
-*USDA licensee.* A person, partnership, or corporation licensed under the USDA planto grow hemp under the terms established in this part and who produces hemp.
+*USDA licensee.* A person, partnership, or corporation licensed under the USDA plan to grow hemp under the terms established in this part and who produces hemp.
+
+[86 FR 5680, Jan. 19, 2021, as amended at 88 FR 82236, Nov. 24, 2023]

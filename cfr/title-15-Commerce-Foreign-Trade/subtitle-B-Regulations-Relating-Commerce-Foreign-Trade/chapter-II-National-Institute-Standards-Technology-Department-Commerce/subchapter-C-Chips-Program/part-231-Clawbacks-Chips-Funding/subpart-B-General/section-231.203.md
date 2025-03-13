@@ -1,0 +1,5 @@
+##### § 231.203 Prohibition on certain joint research or technology licensing. (Technology Clawback) #####
+
+(a) During the applicable term of a Federal financial assistance award under 15 U.S.C. 4652, a covered entity may not knowingly engage in any joint research or technology licensing with a foreign entity of concern that relates to a technology or product that raises national security concerns.
+
+(b) Notwithstanding paragraph (a) of this section, this prohibition will not apply to joint research or technology licensing that relate to technology or products that raise national security concerns that were ongoing prior to the Secretary's determination that such technology or products raised national security concerns. Any such ongoing joint research or technology licensing shall be memorialized in the required agreement.

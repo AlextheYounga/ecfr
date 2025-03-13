@@ -1,0 +1,5 @@
+##### § 231.205 Retention of records. #####
+
+(a) During the 10-year period beginning on the date of the Federal financial assistance award under 15 U.S.C. 4652 and for a period of seven years following any significant transaction involving the material expansion of semiconductor manufacturing capacity in a foreign country of concern, a covered entity or member of the affiliated group planning or engaging in any such significant transaction involving the material expansion of semiconductor manufacturing capacity in a foreign country of concern shall maintain records related to the significant transaction in a manner consistent with the recordkeeping practices used in their ordinary course of business for such transactions.
+
+(b) A covered entity that is notified that a transaction is being reviewed by the Secretary shall immediately take steps to retain all records relating to such transaction, including if those records are maintained by a member of the affiliated group or by related entities.

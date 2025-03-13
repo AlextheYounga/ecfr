@@ -20,7 +20,7 @@ No person shall handle any lot of potatoes unless such potatoes meet the require
 
 (2) *All other varieties.* “Slightly skinned.”
 
-(3) *Exceptions.* (i) Subject to complaince with paragraph (b)(3)(iii) of this section, any lot of potatoes not exceeding a total of 50 hundredweight of such variety may be handled for any producer without regard to the foregoing maturity requirements.
+(3) *Exceptions.* (i) Subject to compliance with paragraph (b)(3)(iii) of this section, any lot of potatoes not exceeding a total of 50 hundredweight of such variety may be handled for any producer without regard to the foregoing maturity requirements.
 
 (ii) If an officially inspected lot of potatoes meets the foregoing maturity requirements, but fails to meet the grade and size requirements, the lot may be regraded. If, after regrading, such lot then meets the grade and size requirements but fails to meet the maturity requirements, as indicated by the applicable Federal-State inspection certificate, such lot if not exceeding 100 hundredweight shall be exempt from the foregoing maturity requirements if the handler complies with paragraph (b)(3)(iii) of this section.
 
@@ -28,29 +28,25 @@ No person shall handle any lot of potatoes unless such potatoes meet the require
 
 (c) *Pack and marking.* (1) When 50-pound containers (except master containers) of potatoes are marked with a count, size or similar designation, they must meet the count, average count and weight ranges for the count designation listed below.
 
-|      Size      |          Range          |              |              |
-|----------------|-------------------------|--------------|--------------|
-|     Count      |Average count<sup>1</sup>|    Weight    |              |
-| Larger than 50 |     (<sup>2</sup>)      |(<sup>3</sup>)|(<sup>4</sup>)|
-|       50       |          45-55          |    48-53     |    12-19     |
-|       60       |          54-66          |    57-63     |    10-16     |
-|       70       |          63-77          |    67-74     |     9-15     |
-|       80       |          72-88          |    76-84     |     8-13     |
-|       90       |          81-99          |    86-95     |     7-12     |
-|      100       |         90-110          |    95-105    |     6-10     |
-|      110       |         99-121          |   105-116    |     5-9      |
-|      120       |         108-132         |   114-126    |     4-8      |
-|      130       |         117-143         |   124-137    |     4-8      |
-|      140       |         126-154         |   133-147    |     4-8      |
-|Smaller than 140|     (<sup>2</sup>)      |(<sup>3</sup>)|     4-8      |
-
-<sup>1</sup> Applicable to lots.
-
-<sup>2</sup> 10 percent over or under.
-
-<sup>3</sup> 5 percent over or under.
-
-<sup>4</sup> 15 ounces or larger.
+|                 Size                 |          Range           |              |              |
+|--------------------------------------|--------------------------|--------------|--------------|
+|                Count                 |Average count <sup>1</sup>|    Weight    |              |
+|            Larger than 50            |      (<sup>2</sup>)      |(<sup>3</sup>)|(<sup>4</sup>)|
+|                  50                  |          45-55           |    48-53     |    12-19     |
+|                  60                  |          54-66           |    57-63     |    10-16     |
+|                  70                  |          63-77           |    67-74     |     9-15     |
+|                  80                  |          72-88           |    76-84     |     8-13     |
+|                  90                  |          81-99           |    86-95     |     7-12     |
+|                 100                  |          90-110          |    95-105    |     6-10     |
+|                 110                  |          99-121          |   105-116    |     5-9      |
+|                 120                  |         108-132          |   114-126    |     4-8      |
+|                 130                  |         117-143          |   124-137    |     4-8      |
+|                 140                  |         126-154          |   133-147    |     4-8      |
+|           Smaller than 140           |      (<sup>2</sup>)      |(<sup>3</sup>)|     4-8      |
+|   <sup>1</sup> Applicable to lots.   |                          |              |              |
+|<sup>2</sup> 10 percent over or under.|                          |              |              |
+|<sup>3</sup> 5 percent over or under. |                          |              |              |
+|  <sup>4</sup> 15 ounces or larger.   |                          |              |              |
 
 The following tolerances by weight, are provided for potatoes in any lot which fail to meet the weight range for the designated count:
 
@@ -70,7 +66,7 @@ The following tolerances by weight, are provided for potatoes in any lot which f
 
 (1) No handler shall handle potatoes unless such potatoes are inspected by either the Idaho Federal-State Inspection Service or Oregon Federal-State Inspection Service and are covered and accompanied by a valid inspection certificate, numbered notesheet, or shipping clearance report: *Provided,* That a valid inspection certificate, numbered notesheet, or shipping clearance report is not required to accompany positive lot identified potatoes.
 
-(2) Each lot shipped shall be accompanied by a copy of a valid inspection certificate, a numbered notesheet, shipping clearance report, or the lot must meet PLI requirements established by the Fresh Products Branch, Fruit and Vegetable Division, Agricultural Marketing Service of the U.S. Department of Agriculture.
+(2) Each lot shipped shall be accompanied by a copy of a valid inspection certificate, a numbered notesheet, shipping clearance report, or the lot must meet PLI requirements established by the Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service of the U.S. Department of Agriculture.
 
 (3) Inspection certificates, numbered notesheets or shipping clearance reports for potatoes to be shipped must be issued within four days of such shipment. Otherwise, such potatoes, including lots that are positive lot identified, can only be shipped if a new inspection is performed to verify that the potatoes meet the requirements specified in paragraphs (a), (b), and (c) of this section. If the subsequent inspection verifies that the lot meets the requirements of paragraphs (a), (b), and (c) of this section, a new certificate, a new numbered notesheet, or a new shipping clearance report shall be issued and, if positive lot identified, shall reference the original PLI number, and a new PLI number need not be applied to the lot. However, if upon subsequent inspection, the lot does not meet the requirements specified in either paragraphs (a), (b), or (c) of this section, the lot shall be reconditioned in the presence of an authorized representative of the Idaho Federal-State Inspection Service or Oregon Federal-State Inspection Service prior to the close of the business day. If the lot is reconditioned prior to the close of the business day, a new certificate, a new numbered notesheet, or a new shipping clearance report must be issued, and either a new PLI number must be applied to the lot or the original PLI number must be modified. If the PLI numbered lot is not reconditioned prior to the close of the business day, all PLI numbers must be obliterated. Any inspection certificate, numbered notesheet, or shipping clearance report issued upon a subsequent inspection, including when a lot is reconditioned, must be issued within four days of shipment of the potatoes.
 
@@ -130,4 +126,4 @@ The following tolerances by weight, are provided for potatoes in any lot which f
 
 (h) *Definitions.* The terms *U.S. Extra No. 1, U.S. No. 1, U.S. No. 2, Size B, fairly clean, moderately skinned,* and *slightly skinned* shall have the same meaning as when used in the United States Standards for Potatoes (7 CFR 51.1540-51.1566), including the tolerances set forth therein. The term *prepeeling* means the commercial preparation in a prepeeling plant of clean, sound, fresh potatoes by washing, peeling, or otherwise removing the outer skin, trimming, sorting, and properly treating to prevent discoloration preparatory to sale in one or more of the styles of peeled potatoes described in § 52.2422 of the United States Standards for Peeled Potatoes (7 CFR 52.2421-52.2433). The term *other processing* has the same meaning as the term appearing in the act and includes, but is not restricted to, potatoes for dehydration, chips, shoestrings, starch, and flour. It includes only that preparation of potatoes for market which involves the application of heat or cold to such an extent that the natural form or stability of the commodity undergoes a substantial change. The act of peeling, cooling, slicing, dicing, or applying material to prevent oxidation does not constitute “other processing.” The terms *Idaho Utility* grade and *Oregon Utility* grade shall have the same meaning as when used in the standards for potatoes for the respective State. Other terms used in this section shall have the same meaning as when used in Marketing Agreement No. 98 and Order No. 945, both as amended.
 
-(Secs. 1-19, 48 Stat. 31, as amended; 7 U.S.C. 601-674)[47 FR 34355, Aug. 9, 1982, as amended at 52 FR 5530, Feb. 25, 1987; 52 FR 41695, Oct. 30, 1987; 53 FR 48634, Dec. 2, 1988; 57 FR 62167, Dec. 30, 1992; 59 FR 46723, Sept. 12, 1994; 60 FR 57905, Nov. 24, 1995; 65 FR 25627, May 3, 2000; 65 FR 48144, Aug. 7, 2000; 67 FR 66531, Nov. 1, 2002; 70 FR 21330, Apr. 26, 2005; 71 FR 29567, May 23, 2006; 74 FR 45734, Sept. 4, 2009; 79 FR 45675, Aug. 6, 2014; 83 FR 49779, Oct. 3, 2018; 86 FR 50839, Sept. 13, 2021]
+(Secs. 1-19, 48 Stat. 31, as amended; 7 U.S.C. 601-674)[47 FR 34355, Aug. 9, 1982]Editorial Note:For Federal Register citations affecting § 945.341, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

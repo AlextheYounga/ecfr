@@ -10,7 +10,7 @@
 
 (5) *USDA Inspector* means an inspector of the Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, or any other duly authorized employee of the Department.
 
-(6) *Importation* means release from custody of the U.S. Bureau of Customs.
+(6) *Importation* means release from custody of the U.S. Customs and Border Protection.
 
 (7) *Limited use* means the use of processed olives in the production of packaged olives of the halved, segmented (wedged), sliced, or chopped styles, as defined in said standards.
 
@@ -30,12 +30,8 @@
 
 (v) A lot of canned ripe olives is considered to meet the requirements of this section if all or most of the sample units meet the requirements specified in tables 1 through 4 of this section: *Provided,* That the number of sample units which do not meet the requirements specified in tables 1 through 4 of this section does not exceed the acceptance number prescribed for in the sample size provided in table I of 7 CFR 52.38: *Provided further,* That there is no off flavor in any sample unit.
 
-Table 1—Whole and Pitted Style
-
-[Defects by count per 50 olives]
-
 |                  FLAVOR                  |                                                Reasonably good; no “off” flavor                                                 |
-|:-----------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 |         FLAVOR (Green Ripe Type)         |                                           Free from objectionable flavors of any kind                                           |
 |                SALOMETER                 |                                            Acceptable range in degrees: 3.0 to 14.0                                             |
 |                  COLOR                   |  Reasonably uniform with not less than 60% having a color equal or darker than the USDA Composite Color Standard for Ripe Type  |
@@ -52,12 +48,8 @@ Table 1—Whole and Pitted Style
 |            Mechanical Damage             |                                                         Not more than 5                                                         |
 |         Split Pits or Misshapen          |                                                         Not more than 5                                                         |
 
-Table 2—Sliced, Segmented (Wedged), and Halved Styles
-
-[Defects by count per 255]
-
 |          FLAVOR          |                              Reasonably good; no “off” flavor                               |
-|:-------------------------|:--------------------------------------------------------------------------------------------|
+|--------------------------|---------------------------------------------------------------------------------------------|
 |        SALOMETER         |                          Acceptable range in degrees: 3.0 to 14.0                           |
 |          COLOR           |Reasonably uniform with no units lighter than the USDA Composite Color Standard for Ripe Type|
 |        CHARACTER         |                           Not more than 13 grams excessively soft                           |
@@ -67,12 +59,8 @@ Table 2—Sliced, Segmented (Wedged), and Halved Styles
 |           HEVM           |                              Not more than 2 units per sample                               |
 |Broken Pieces and End Caps|                              Not more than 125 grams by weight                              |
 
-Table 3—Chopped Style
-
-[Defects by count per 255 grams]
-
 |        FLAVOR        |                              Reasonably good; no “off” flavor                               |
-|:---------------------|:--------------------------------------------------------------------------------------------|
+|----------------------|---------------------------------------------------------------------------------------------|
 |      SALOMETER       |                          Acceptable range in degrees: 3.0 to 14.0                           |
 |        COLOR         |Reasonably uniform with no units lighter than the USDA Composite Color Standard for Ripe Type|
 |       DEFECTS:       |                                                                                             |
@@ -80,12 +68,8 @@ Table 3—Chopped Style
 |     Major Stems      |                                       Not more than 3                                       |
 |         HEVM         |                              Not more than 2 units per sample                               |
 
-Table 4—Broken Pitted Style
-
-[Defects by count per 255 grams]
-
 |        FLAVOR        |                              Reasonably good; no “off” flavor                               |
-|:---------------------|:--------------------------------------------------------------------------------------------|
+|----------------------|---------------------------------------------------------------------------------------------|
 |      SALOMETER       |                          Acceptable range in degrees: 3.0 to 14.0                           |
 |        COLOR         |Reasonably uniform with no units lighter than the USDA Composite Color Standard for Ripe Type|
 |      CHARACTER       |                           Not more than 13 grams excessively soft                           |
@@ -114,7 +98,7 @@ Table 4—Broken Pitted Style
 
 (11) Canned pitted ripe olives not identifiable as to variety or variety group shall be at least “Small” as defined in § 52.3754 of the U.S. Standards for Grades of Canned Ripe Olives.
 
-(12) Imported bulk olives when used in the production of canned ripe olives must be inspected and certified as prescribed in this section. Imported bulk olives which do not meet the applicable minimum size requirements specified in paragraphs (b)(2) through (b)(11) of this section may be imported after August 1, 1996, for limited-use, but any such olives so used shall not be smaller than the following applicable minimum size:
+(12) Imported bulk olives when used in the production of canned ripe olives must be inspected and certified as prescribed in this section. Imported bulk olives which do not meet the applicable minimum size requirements specified in paragraphs (b)(2) through (b)(11) of this section may be imported after August 1, 1996, for limited use, but any such olives so used shall not be smaller than the following applicable minimum size:
 
 (i) Whole ripe olives of Variety Group 1, except Ascolano, Barouni, or St. Agostino varieties, of a size that not more than 35 percent of the olives, by count, may be smaller than1/105 pound (4.3 grams) each.
 
@@ -160,4 +144,4 @@ Table 4—Broken Pitted Style
 
 (j) The minimum quality, size, and maturity requirements of this section shall not be applicable to olives imported for charitable organizations or processing for oil, but shall be subject to the safeguard provisions contained in § 944.350.
 
-[47 FR 51349, Nov. 15, 1982, as amended at 49 FR 34441, Aug. 31, 1984; 49 FR 44448, Nov. 7, 1984; 52 FR 38225, Oct. 15, 1987; 56 FR 49671, Oct. 1, 1991; 57 FR 36355, Aug. 13, 1992; 58 FR 69186, Dec. 30, 1993; 59 FR 38106, July 27, 1994; 59 FR 46910, Sept. 13, 1994; 60 FR 42774, Aug. 17, 1995; 61 FR 13059, Mar. 26, 1996; 61 FR 40510, Aug. 5, 1996; 62 FR 1244, Jan. 9, 1997; 74 FR 2808, Jan. 16, 2009; 81 FR 87412, Dec. 5, 2016; 85 FR 12294, Mar. 6, 2020]
+[47 FR 51349, Nov. 15, 1982]Editorial Note:For Federal Register citations affecting § 944.401, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

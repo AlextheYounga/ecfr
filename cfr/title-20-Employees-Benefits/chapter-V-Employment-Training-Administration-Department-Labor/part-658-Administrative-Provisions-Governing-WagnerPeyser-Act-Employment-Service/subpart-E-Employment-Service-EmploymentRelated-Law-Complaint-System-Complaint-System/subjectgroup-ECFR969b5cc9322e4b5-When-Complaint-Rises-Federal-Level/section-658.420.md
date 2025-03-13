@@ -1,5 +1,7 @@
 ##### § 658.420 Responsibilities of the Employment and Training Administration regional office. #####
 
+Link to an amendment published at 88 FR 82733, Nov. 24, 2023.
+
 (a) Each Regional Administrator must establish and maintain a Complaint System within each ETA regional office.
 
 (b) The Regional Administrator must designate Department of Labor officials to handle ES regulation-related complaints as follows:

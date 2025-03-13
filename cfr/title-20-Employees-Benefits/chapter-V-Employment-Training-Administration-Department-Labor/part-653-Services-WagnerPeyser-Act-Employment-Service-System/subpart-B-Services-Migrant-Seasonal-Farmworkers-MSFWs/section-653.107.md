@@ -1,5 +1,7 @@
 ##### § 653.107 Outreach and Agricultural Outreach Plan. #####
 
+Link to an amendment published at 88 FR 82726, Nov. 24, 2023.
+
 (a) *State Workforce Agency (SWA) outreach responsibilities.* (1) Each SWA must provide an adequate number of outreach staff to conduct MSFW outreach in their service areas. SWA Administrators must ensure State Monitor Advocates (SMAs) and outreach staff coordinate their outreach efforts with WIOA title I sec. 167 grantees as well as with public and private community service agencies and MSFW groups.
 
 (2) As part of their outreach, SWAs must ensure outreach staff:

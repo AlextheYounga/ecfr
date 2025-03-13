@@ -38,8 +38,8 @@
 
 (4) If the handler is to acquire the raisins after they are reconditioned, his obligation with respect to such raisins shall be based on the weight of the raisins (if stemmed, adjusted to natural condition weight) after they have been reconditioned.
 
-(5) The Committee shall establish, with the approval of the Secretary, such additional rules and procedures as may be necessary to insure adequate control of off-grade raisins, including, but not limited to, the reconditioning of off-grade raisins, the disposition and use of unsuccessfully reconditioned raisins, and the disposition and use of residual matter from reconditioning operations.
+(5) The Committee shall establish, with the approval of the Secretary, such additional rules and procedures as may be necessary to ensure adequate control of off-grade raisins, including, but not limited to, the reconditioning of off-grade raisins, the disposition and use of unsuccessfully reconditioned raisins, and the disposition and use of residual matter from reconditioning operations.
 
 (f) *Blending.* No handler shall blend raisins except: (1) Incidental to reconditioning raisins as permitted under rules and procedures established by the Committee, with the approval of the Secretary; (2) blending standard raisins with standard raisins; or (3) blending raisins which meet the minimum grade standards for packed raisins with other raisins which meet such standards.
 
-[25 FR 12813, Dec. 14, 1960, as amended at 29 FR 9483, July 11, 1964; 32 FR 12161, Aug. 24, 1967; 32 FR 18086, Dec. 19, 1967; 42 FR 37201, July 20, 1977; 83 FR 53969, 53973, Oct. 26, 2018]
+[25 FR 12813, Dec. 14, 1960, as amended at 29 FR 9483, July 11, 1964; 32 FR 12161, Aug. 24, 1967; 32 FR 18086, Dec. 19, 1967; 42 FR 37201, July 20, 1977; 83 FR 53969, 53973, Oct. 26, 2018; 88 FR 82236, Nov. 24, 2023]

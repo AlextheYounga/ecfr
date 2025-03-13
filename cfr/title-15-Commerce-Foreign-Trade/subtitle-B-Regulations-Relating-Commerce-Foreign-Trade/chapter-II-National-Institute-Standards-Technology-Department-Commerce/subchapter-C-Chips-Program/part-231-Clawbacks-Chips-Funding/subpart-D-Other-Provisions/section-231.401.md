@@ -1,0 +1,3 @@
+##### § 231.401 Amendment. #####
+
+Not later than August 9, 2024, and not less frequently than once every two years thereafter for the eight-year period after the last award of Federal financial assistance under 15 U.S.C. 4652 is made, the Secretary, after public notice and an opportunity for comment, if applicable and necessary, will issue a public notice identifying any additional semiconductors included in the meaning of the term “legacy semiconductor.”

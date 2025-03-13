@@ -1,0 +1,3 @@
+##### § 231.301 Procedures for notifying the Secretary of significant transactions. #####
+
+During the 10-year period beginning on the date of the Federal financial assistance award under 15 U.S.C. 4652, the covered entity shall submit a notification to the Secretary regarding any planned significant transactions of the covered entity or members of the affiliated group that may involve the material expansion of semiconductor manufacturing capacity in a foreign country of concern, regardless of whether the covered entity believes the transaction falls within an exception in 15 U.S.C. 4652(a)(6)(C)(ii). A notification must include the information set forth in § 231.302 and be submitted to *notifications@chips.gov.*

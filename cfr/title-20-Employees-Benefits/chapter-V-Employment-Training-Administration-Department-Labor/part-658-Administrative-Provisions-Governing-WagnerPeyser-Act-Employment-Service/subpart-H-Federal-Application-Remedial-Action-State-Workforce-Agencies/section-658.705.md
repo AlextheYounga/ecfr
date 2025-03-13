@@ -1,5 +1,7 @@
 ##### § 658.705 Decision to decertify. #####
 
+Link to an amendment published at 88 FR 82736, Nov. 24, 2023.
+
 (a) Within 30 business days of receiving a request for decertification, the ETA Assistant Secretary must review the case and must decide whether to proceed with decertification.
 
 (b) The Assistant Secretary must grant the request for decertification unless he/she makes a finding that:

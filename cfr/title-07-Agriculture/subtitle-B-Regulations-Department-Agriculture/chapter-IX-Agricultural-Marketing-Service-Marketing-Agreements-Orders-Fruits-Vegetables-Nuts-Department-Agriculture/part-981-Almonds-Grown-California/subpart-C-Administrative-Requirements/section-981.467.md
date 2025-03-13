@@ -18,4 +18,4 @@
 
 (d) For the 1990-91 crop year only, the reserve disposition obligation date is extended until September 1, 1992, and the date for submitting documentation verifying reserve dispositions is extended to December 1, 1992.
 
-[42 FR 19322, Apr. 13, 1977, as amended at 56 FR 10508, Mar. 13, 1991; 56 FR 51150, Oct. 10, 1991; 57 FR 27353, June 19, 1992; 61 FR 32922, June 26, 1996]At 88 FR 67627, Oct. 2, 2023, §§981.467 was stayed indefinitely.
+[42 FR 19322, Apr. 13, 1977, as amended at 56 FR 10508, Mar. 13, 1991; 56 FR 51150, Oct. 10, 1991; 57 FR 27353, June 19, 1992; 61 FR 32922, June 26, 1996]Editorial Note:At 88 FR 82235, Nov. 24, 2023, § 981.467 was amended; however, the amendments could not be incorporated because the section was stayed indefinitely at 88 FR 67627, Oct. 2, 2023.At 88 FR 67627, Oct. 2, 2023, §§981.467 was stayed indefinitely.

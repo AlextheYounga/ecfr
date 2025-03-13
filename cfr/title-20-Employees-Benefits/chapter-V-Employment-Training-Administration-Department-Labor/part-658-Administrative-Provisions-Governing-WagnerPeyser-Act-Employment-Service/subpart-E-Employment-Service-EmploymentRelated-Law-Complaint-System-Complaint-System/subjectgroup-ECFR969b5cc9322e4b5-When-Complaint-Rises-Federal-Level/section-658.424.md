@@ -1,5 +1,7 @@
 ##### § 658.424 Proceedings before the Office of Administrative Law Judges. #####
 
+Link to an amendment published at 88 FR 82733, Nov. 24, 2023.
+
 (a) If a party requests a hearing pursuant to § 658.421 or § 658.707, the Regional Administrator must:
 
 (1) Send the party requesting the hearing, and all other parties to the prior State level hearing, a written notice (hard copy or electronic) that the matter will be referred to the Office of Administrative Law Judges for a hearing;

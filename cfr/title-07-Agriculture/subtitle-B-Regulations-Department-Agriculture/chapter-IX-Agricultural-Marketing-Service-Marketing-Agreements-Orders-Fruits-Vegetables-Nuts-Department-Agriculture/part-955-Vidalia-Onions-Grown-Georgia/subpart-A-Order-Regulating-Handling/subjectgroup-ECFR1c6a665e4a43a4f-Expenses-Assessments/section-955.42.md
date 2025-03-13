@@ -8,6 +8,8 @@
 
 (d) The payment of assessments for the maintenance and functioning of the committee may be required under this part throughout the period it is in effect irrespective of whether particular provisions of this part are suspended or become inoperative.
 
-(e) To provide funds for the administration of the provisions of this part during the initial fiscal period or the first part of a fiscal period when neither sufficient operating reserve funds nor sufficient revenue from assessments on the current seasons's shipments are available, the committee may accept payment of assessments in advance or may borrow money for such purposes.
+(e) To provide funds for the administration of the provisions of this part during the initial fiscal period or the first part of a fiscal period when neither sufficient operating reserve funds nor sufficient revenue from assessments on the current season's shipments are available, the committee may accept payment of assessments in advance or may borrow money for such purposes.
 
 (f) The committee may impose a late payment charge or an interest charge or both, on any handler who fails to pay any assessment in a timely manner. Such time and the rates shall be recommended by the committee and approved by the Secretary.
+
+[55 FR 717, Jan. 9, 1990, as amended at 88 FR 82234, Nov. 24, 2023]

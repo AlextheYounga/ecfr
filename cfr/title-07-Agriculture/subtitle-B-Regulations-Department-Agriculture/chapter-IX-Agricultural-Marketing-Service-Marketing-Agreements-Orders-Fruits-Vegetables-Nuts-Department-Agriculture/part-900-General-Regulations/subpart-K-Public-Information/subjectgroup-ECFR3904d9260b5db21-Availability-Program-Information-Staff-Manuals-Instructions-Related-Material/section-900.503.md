@@ -6,6 +6,14 @@ Freedom of Information Act Officer (FOIA Request). Agricultural Marketing Servic
 
 (b) The request shall identify each record with reasonable specificity as prescribed in § 1.3 of this title.
 
-(c) The FOIA Officer is authorized to receive requests and to exercise the authority to (1) make determinations to grant requests or deny initial requests, (2) extend the administrative deadline, (3) make discretinary release of exempt records, and (4) make determinations regarding charges pursuant to the fee schedule.
+(c) The FOIA Officer is authorized to receive requests and to exercise the authority to
 
-[44 FR 39151, July 5, 1979]
+(1) Make determinations to grant requests or deny initial requests,
+
+(2) Extend the administrative deadline,
+
+(3) Make discretionary release of exempt records, and
+
+(4) Make determinations regarding charges pursuant to the fee schedule.
+
+[44 FR 39151, July 5, 1979, as amended at 88 FR 82231, Nov. 24, 2023]

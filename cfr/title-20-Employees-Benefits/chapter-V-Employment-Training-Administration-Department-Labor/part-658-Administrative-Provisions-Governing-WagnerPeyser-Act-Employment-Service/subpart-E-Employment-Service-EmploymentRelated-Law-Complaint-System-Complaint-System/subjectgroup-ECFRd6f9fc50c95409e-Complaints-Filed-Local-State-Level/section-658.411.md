@@ -1,5 +1,7 @@
 ##### § 658.411 Action on complaints. #####
 
+Link to an amendment published at 88 FR 82731, Nov. 24, 2023.
+
 (a) *Filing complaints.*
 
 (1) Whenever an individual indicates an interest in filing a complaint under this subpart with an ES office, the SWA, or outreach staff, the individual receiving the complaint must offer to explain the operation of the Complaint System and must offer to take the complaint in writing.

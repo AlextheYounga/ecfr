@@ -1,5 +1,7 @@
 ##### § 658.425 Decision of Department of Labor Administrative Law Judge. #####
 
+Link to an amendment published at 88 FR 82733, Nov. 24, 2023.
+
 (a) The ALJ may:
 
 (1) Rule that he/she lacks jurisdiction over the case;

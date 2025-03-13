@@ -8,9 +8,9 @@
 
 (4) *Person* means any individual, partnership, corporation, association, or other business unit.
 
-(5) *USDA inspector* means a Federal or Federal-State inspector, Food Safety and Quality Service, United States Department of Agriculture, or any other duly authorized employee of the USDA.
+(5) *USDA inspector* means a Federal or Federal-State inspector, Specialty Crops Inspection Division, Specialty Crops Program, United States Department of Agriculture, or any other duly authorized employee of the USDA.
 
-(6) *Importation* means release from custody of the United States Bureau of Customs.
+(6) *Importation* means release from custody of the U.S. Customs and Border Protection.
 
 (b) *Grade and size requirements.* Except as provided in paragraph (d) of this section, no person shall import into the United States any lot of filberts unless the filberts meet the following requirements, which are identical to those for filberts grown in Oregon and Washington and handled pursuant to Order No. 982, as amended (7 CFR part 982):
 
@@ -84,4 +84,4 @@ definitions
 
 (v) *Insect injury* means that the insect, frass or web is present, or the kernel or portion of kernel show definite evidence of insect feeding.
 
-[42 FR 64899, Dec. 29, 1977, as amended at 45 FR 63482, Sept. 25, 1980; 47 FR 12612, Mar. 24, 1982; 48 FR 34015, July 27, 1983; 74 FR 2809, Jan. 16, 2009; 85 FR 12296, Mar. 6, 2020]
+[42 FR 64899, Dec. 29, 1977, as amended at 45 FR 63482, Sept. 25, 1980; 47 FR 12612, Mar. 24, 1982; 48 FR 34015, July 27, 1983; 74 FR 2809, Jan. 16, 2009; 85 FR 12296, Mar. 6, 2020; 88 FR 82237, Nov. 24, 2023]

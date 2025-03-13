@@ -2,7 +2,7 @@
 
 As prescribed in 1846.7003, use the following clause:
 
-Contractor Counterfeit Electronic Part Detection and Avoidance. (DATE)
+Contractor Counterfeit Electronic Part Detection and Avoidance (OCT 2023)
 
 (a) *Definitions.* As used in this clause—
 
@@ -70,4 +70,4 @@ Contractor Counterfeit Electronic Part Detection and Avoidance. (DATE)
 
 (f) *Corrective Action.* In the event that the covered contractor supplies a counterfeit electronic part, suspect counterfeit electronic part or end item, component, or assembly containing a counterfeit electronic part to NASA, the covered contractor shall take such corrective actions as the Administrator considers necessary to remedy the use or inclusion of additional counterfeit electronic parts, suspect counterfeit electronic part or end items, components, or assemblies containing a counterfeit electronic part.
 
-(End of clause)[85 FR 52928, Aug. 28, 2020, as amended at 88 FR 64385, Sept. 19, 2023]
+(End of clause)[85 FR 52928, Aug. 28, 2020, as amended at 88 FR 64385, Sept. 19, 2023; 88 FR 82276, Nov. 24, 2023]

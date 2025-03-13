@@ -20,7 +20,7 @@
 
 (A) The alternative method must be part of the State or Tribe's hemp plan and is subject to USDA approval.
 
-(B) The alternative method must have the potential to ensure, at a confidence level of 95 percent, that the cannabi*s*plant species *Cannabis sativa* L. that will be subject to the alternative method will not test above the acceptable hemp THC level. The alternative method may consider one or more of the following factors:
+(B) The alternative method must have the potential to ensure, at a confidence level of 95 percent, that the cannabis plant species *Cannabis sativa* L. that will be subject to the alternative method will not test above the acceptable hemp THC level. The alternative method may consider one or more of the following factors:
 
 (*1*) Seed certification process or process that identifies varieties that have consistently demonstrated to result in compliant hemp plants in that State or territory of the Indian Tribe;
 
@@ -97,3 +97,5 @@
 (ii) Is more stringent than this part or Subtitle G of the Act.
 
 (2) *References in plans.* A State or Tribal plan may include a reference to a law of the State or Indian Tribe regulating the production of hemp, to the extent that the law is consistent with this part.
+
+[86 FR 5680, Jan. 19, 2021, as amended at 88 FR 82236, Nov. 24, 2023]

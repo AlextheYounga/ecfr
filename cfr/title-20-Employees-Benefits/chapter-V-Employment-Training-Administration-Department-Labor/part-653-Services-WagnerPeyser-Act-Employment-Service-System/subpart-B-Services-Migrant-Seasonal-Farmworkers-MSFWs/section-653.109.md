@@ -1,5 +1,7 @@
 ##### § 653.109 Data collection and performance accountability measures. #####
 
+Link to an amendment published at 88 FR 82729, Nov. 24, 2023.
+
 SWAs must:
 
 (a) Collect career service indicator data for the career services specified in WIOA sec. 134(c)(2)(A)(xii).

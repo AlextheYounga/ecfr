@@ -1,5 +1,7 @@
 ##### § 658.417 State hearings. #####
 
+Link to an amendment published at 88 FR 82732, Nov. 24, 2023.
+
 (a) The hearing described in § 658.411(d)(5) must be held by State hearing officials. A State hearing official may be any State official authorized to hold hearings under State law. Examples of hearing officials are referees in State unemployment compensation hearings and officials of the State agency authorized to preside at State administrative hearings.
 
 (b) The State hearing official may decide to conduct hearings on more than one complaint concurrently if he/she determines that the issues are related or that the complaints will be handled more expeditiously if conducted together.

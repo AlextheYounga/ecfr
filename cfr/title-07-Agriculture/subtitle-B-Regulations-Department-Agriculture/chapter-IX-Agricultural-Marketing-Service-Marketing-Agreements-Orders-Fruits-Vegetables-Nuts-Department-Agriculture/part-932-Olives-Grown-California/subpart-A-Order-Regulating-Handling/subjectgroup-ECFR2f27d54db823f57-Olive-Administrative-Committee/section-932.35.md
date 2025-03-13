@@ -10,7 +10,7 @@ The committee shall have, among others, the following duties:
 
 (d) To submit to the Secretary such available information with respect to olives as he may request or as the committee may deem desirable and pertinent;
 
-(e) To select, from among its members, a chairman and other officers, and to adopt such rules and regulations for the conduct of its business as it may deem advisable;
+(e) To select, from among its members, a chairperson and other officers, and to adopt such rules and regulations for the conduct of its business as it may deem advisable;
 
 (f) To appoint or employ such other persons as it may deem necessary, and to determine the salaries and define the duties of each such person;
 
@@ -26,4 +26,4 @@ The committee shall have, among others, the following duties:
 
 (l) To investigate compliance with the provisions of this part.
 
-[30 FR 12629, Oct. 2, 1965, as amended at 33 FR 11266, Aug. 8, 1968; 47 FR 32907, July 30, 1982]
+[30 FR 12629, Oct. 2, 1965, as amended at 33 FR 11266, Aug. 8, 1968; 47 FR 32907, July 30, 1982; 88 FR 82232, Nov. 24, 2023]

@@ -22,6 +22,6 @@ As used in this subpart, the terms as defined in the act shall apply with equal 
 
 (j) The term *mediator* means any officer or employee of the Service designated by the Administrator, pursuant to the act, to mediate a bona fide dispute with reference to terms and conditions of the sale of milk or its products between a producer cooperative and purchasers, handlers, processors, or distributors of milk or its products;
 
-(k) The term *hearing clerk* means the hearing clerk, United States Departent of Agriculture, Washington, DC.
+(k) The term *hearing clerk* means the hearing clerk, United States Department of Agriculture, Washington, DC.
 
-[25 FR 5907, June 28, 1960, as amended at 26 FR 7797, Aug. 22, 1961; 28 FR 579, Jan. 23, 1963; 37 FR 8059, Apr. 25, 1972]
+[25 FR 5907, June 28, 1960, as amended at 26 FR 7797, Aug. 22, 1961; 28 FR 579, Jan. 23, 1963; 37 FR 8059, Apr. 25, 1972; 88 FR 82231, Nov. 24, 2023]

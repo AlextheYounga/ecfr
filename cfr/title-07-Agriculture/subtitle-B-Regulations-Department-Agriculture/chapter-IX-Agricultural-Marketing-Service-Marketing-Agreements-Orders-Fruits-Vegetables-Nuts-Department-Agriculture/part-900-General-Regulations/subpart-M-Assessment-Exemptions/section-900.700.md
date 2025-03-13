@@ -14,7 +14,7 @@
 
 (5) For exempted products, any handler so exempted shall be obligated to pay the portion of the assessment associated with the other authorized activities under such part or parts other than marketing promotion, including paid advertising.
 
-(c) *Assessment exemption application.* (1) To be exempt from paying assessments for these purposes under a part or parts listed in paragraph (a) of this section, the handler shall submit an application to the board or committee established under the applicable part or parts prior to or during the assessment period. This application, Form FV-649, “Certified Organic Handler Application for Exemption from Market Promotion Assessments Paid Under Federal Marketing Orders,” shall include:
+(c) *Assessment exemption application.* (1) To be exempt from paying assessments for these purposes under a part or parts listed in paragraph (a) of this section, the handler shall submit an application to the board or committee established under the applicable part or parts prior to or during the assessment period. This application, Form SC-649, “Certified Organic Handler Application for Exemption from Market Promotion Assessments Paid Under Federal Marketing Orders,” shall include:
 
 (i) The date, applicable committee or board, and Federal marketing order number;
 
@@ -48,4 +48,4 @@
 
 (5) Within 30 days following the applicable assessment period, the committee or board shall re-compute the applicable assessment rate for handlers exempt under this section based on the actual expenditures incurred during the applicable assessment period. The Secretary shall review, and if appropriate, approve any change in the portion of the assessment rate for market promotion applicable to exempt handlers, and authorize adjustments for any overpayments or collection of underpayments.
 
-[80 FR 82020, Dec. 31, 2015]
+[80 FR 82020, Dec. 31, 2015, as amended at 88 FR 82232, Nov. 24, 2023]

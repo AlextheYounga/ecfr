@@ -4,7 +4,7 @@ For the purpose of this part, the pack specifications prescribed for the packing
 
 (a) *Numerical designations.* Each of the following is a numerical size category described by the range of the size counts of prunes per pounds included in the respective size categories expressed as follows or in an applicable equivalent range expressed in the metric system per 500 grams: 15/20, 15/22, 18/24, 20/30, 25/35, 30/40, 35/45, 40/50, 50/60, 60/70, 70/80, 75/85, 80/90, and 90/100.
 
-(b) *Nomenclature designations.* Each of the following is a nonmenclature size category:
+(b) *Nomenclature designations.* Each of the following is a nomenclature size category:
 
 (1) Extra large;
 
@@ -24,4 +24,4 @@ For the purpose of this part, the pack specifications prescribed for the packing
 
 (4) *Small, breakfast, petite,* or *economy* means any size count which falls within the range of 85 to 100 prunes, inclusive, per pound.
 
-[26 FR 8281, Sept. 2, 1961, as amended at 49 FR 35930, Sept. 13, 1984]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.515 was suspended indefinitely.
+[26 FR 8281, Sept. 2, 1961, as amended at 49 FR 35930, Sept. 13, 1984; 88 FR 82236, Nov. 24, 2023]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.515 was suspended indefinitely. At 88 FR 82236, Nov. 24, 2023, the suspension was lifted, an amendment was made to § 993.515, and the section was stayed indefinitely.

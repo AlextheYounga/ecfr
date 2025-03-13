@@ -14,10 +14,10 @@
 
 (b) The limitations set forth in paragraph (a) of this section shall not apply to master containers for individual packages of avocados: *Provided,* That the markings or labels, if any, on the individual packages within such master containers do not conflict with the markings or labels on the master container.
 
-(c) No handler shall handle any avocados for the fresh market in 20 bushel plastic field bins to destinations inside the production area.
+(c) No handler shall handle any avocados for the fresh market in 20-bushel plastic field bins to destinations inside the production area.
 
 (d) Avocados handled for the fresh market in containers other than those authorized under § 915.305(a) and shipped to destinations within the production area must be packed in 1-bushel containers.
 
 (e) All containers in which the avocados are packed must be new, and clean in appearance, without marks, stains, or other evidence of previous use.
 
-[63 FR 37480, July 13, 1998, as amended at 64 FR 69383, Dec. 13, 1999; 65 FR 15205, Mar. 22, 2000; 70 FR 36470, June 24, 2005; 73 FR 66719, Nov. 12, 2008]
+[63 FR 37480, July 13, 1998, as amended at 64 FR 69383, Dec. 13, 1999; 65 FR 15205, Mar. 22, 2000; 70 FR 36470, June 24, 2005; 73 FR 66719, Nov. 12, 2008; 88 FR 82232, Nov. 24, 2023]

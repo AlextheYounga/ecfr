@@ -1,0 +1,3 @@
+##### § 231.115 Semiconductor. #####
+
+*Semiconductor* means an integrated electronic device or system most commonly manufactured using materials such as, but not limited to, silicon, silicon carbide, or III-V compounds, and processes such as, but not limited to, lithography, deposition, and etching. Such devices and systems include but are not limited to analog and digital electronics, power electronics, and photonics, for memory, processing, sensing, actuation, and communications applications.

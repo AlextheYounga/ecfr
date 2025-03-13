@@ -1,0 +1,5 @@
+##### § 231.204 Additional conditions on certain joint research or technology licensing. #####
+
+(a) In addition to the conditions of the Technology Clawback (§ 231.203), the Secretary will specify, in the required agreement with the covered entity, any additional measures that covered entities must take to mitigate the risk of circumvention of the Technology Clawback, including measures that will allow the Secretary to recover up to the full amount of the Federal financial assistance provided to the covered entity, if, during the term applicable to the award, any related entity engages in joint research or technology licensing that would violate the Technology Clawback if engaged in by the covered entity.
+
+(b) For purposes of this rule, a related entity is any entity that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the covered entity.

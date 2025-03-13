@@ -1,6 +1,6 @@
 ##### § 1045.80 What are the classification and declassification presumptions? #####
 
-(a) The Director, Office of Classification and the Associate Under Secretary of Environment, Health, Safety and Security consider the presumptions in paragraph (b)(1) of this section before applying the criteria in § 1045.70. These presumptions concern information in certain but not all nuclear-related areas that may generally be presumed to be RD or are generally unclassified. The term “generally” here means that as a rule, but not necessarily in every case, the information in the identified area is presumed classified or not classified as indicated. Inclusion of specific existing information in one of the presumption categories does not mean that new information in a category is or is not classified, but only that arguments to differ from the presumed classification status of the information should use the appropriate presumption as a starting point.
+(a) The Director, Office of Classification and the Director, Office of Environment, Health, Safety and Security consider the presumptions in paragraph (b)(1) of this section before applying the criteria in § 1045.70. These presumptions concern information in certain but not all nuclear-related areas that may generally be presumed to be RD or are generally unclassified. The term “generally” here means that as a rule, but not necessarily in every case, the information in the identified area is presumed classified or not classified as indicated. Inclusion of specific existing information in one of the presumption categories does not mean that new information in a category is or is not classified, but only that arguments to differ from the presumed classification status of the information should use the appropriate presumption as a starting point.
 
 (b) Information in the following areas is presumed to be RD:
 
@@ -46,4 +46,4 @@
 
 (14) The simple association or simple presence of any material (*i.e.,* element, compound, isotope, alloy, etc.) at a specified DOE site.
 
-Editorial Note:At 88 FR 41294, June 26, 2023, § 1045.80(a) was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[83 FR 66007, Dec. 21, 2018, as amended at 88 FR 82238, Nov. 24, 2023]

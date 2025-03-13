@@ -18,7 +18,7 @@ The referendum agent shall also:
 
 (1) When the order requires approval by an appropriate health authority before a person meets the definition of producer, only those persons having such approval and who otherwise meet the definition may be regarded as producers. When the definition of producer requires the shipment of milk to a handler or a plant as well as health authority approval, only those persons having such approval and whose milk was received by a handler or at a plant may be regarded as producers.
 
-(2) When the order requries shipment to a handler or to a plant, without regard to health authority approval, a person may not be regarded as a producer, except as provided in paragraph (b)(6) of this section, unless his name appears on the handler's producer records.
+(2) When the order requires shipment to a handler or to a plant, without regard to health authority approval, a person may not be regarded as a producer, except as provided in paragraph (b)(6) of this section, unless his name appears on the handler's producer records.
 
 (3) In the case of a producer that is other than an individual, the business unit shall be regarded as the producer.
 
@@ -41,3 +41,5 @@ The referendum agent shall also:
 (ii) The cooperative association may cast only one ballot for all such producers.
 
 (iii) Whenever more than one cooperative association claims the right to vote for a producer only the cooperative association which furnished evidence satisfactory to the referendum agent that such association was in fact marketing the milk of the producer on the date of the referendum order may vote for such producer.
+
+[30 FR 15412, Dec. 15, 1965, as amended at 88 FR 82231, Nov. 24, 2023]

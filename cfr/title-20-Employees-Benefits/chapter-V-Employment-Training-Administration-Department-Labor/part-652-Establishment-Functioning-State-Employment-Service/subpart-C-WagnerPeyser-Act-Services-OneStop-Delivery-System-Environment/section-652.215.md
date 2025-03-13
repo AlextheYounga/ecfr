@@ -1,5 +1,7 @@
 ##### § 652.215 Can Wagner-Peyser Act-funded activities be provided through a variety of staffing models? #####
 
+Link to an amendment published at 88 FR 82726, Nov. 24, 2023.
+
 Yes, Wagner-Peyser Act-funded activities can be provided through a variety of staffing models. They are not required to be provided by State merit-staff employees; however, States may still choose to do so.
 
 [85 FR 626, Jan. 6, 2020]

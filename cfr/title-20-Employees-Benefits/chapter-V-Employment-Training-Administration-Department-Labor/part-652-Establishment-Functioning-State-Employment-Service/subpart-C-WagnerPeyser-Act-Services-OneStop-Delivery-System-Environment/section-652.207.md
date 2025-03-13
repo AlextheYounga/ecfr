@@ -1,5 +1,7 @@
 ##### § 652.207 How does a State meet the requirement for universal access to services provided under the Wagner-Peyser Act? #####
 
+Link to an amendment published at 88 FR 82726, Nov. 24, 2023.
+
 (a) A State has discretion in how it meets the requirement for universal access to services provided under the Wagner-Peyser Act. In exercising this discretion, a State must meet the Wagner-Peyser Act's requirements.
 
 (b) These requirements are:

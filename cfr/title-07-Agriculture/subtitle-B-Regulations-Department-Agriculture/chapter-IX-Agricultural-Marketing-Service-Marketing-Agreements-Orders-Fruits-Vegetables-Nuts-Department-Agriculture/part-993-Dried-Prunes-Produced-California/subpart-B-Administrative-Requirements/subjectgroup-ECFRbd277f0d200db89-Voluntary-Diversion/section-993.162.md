@@ -22,7 +22,7 @@
 
 (2) Leaving unharvested the entire production of prune plums from a solid block of bearing trees designated by the producer applying for the diversion of removing prune plum trees prior to harvest; and/or
 
-(3) Such other diversions as may be authorized by he Committee and approved by the Secretary.
+(3) Such other diversions as may be authorized by the Committee and approved by the Secretary.
 
 (4) In accordance with § 993.62(c), eligible diversion shall not apply to prune plums, which would not, under normal producer practices, be dried and delivered to a handler. On or before July 20 of each crop year when the Committee recommends a reserve pool and diversion program (except the Committee with the approval of the Secretary may extend this date by not more than 10 business days if warranted by a late crop), the Committee shall identify, with the approval of the Secretary, the acceptable method(s) of voluntary prune plum diversion through reasonable publicity to producers, commercial dehydrators, handlers, and the cooperative bargaining association(s). For the purposes of this section, cooperative bargaining association means a nonprofit cooperative association of dried prune producers engaged within the production area in bargaining with handlers as to price and otherwise arranging for the sale of natural condition dried prunes of its members.
 
@@ -74,4 +74,4 @@
 
 (g) *Costs.* Pursuant to § 993.62(g), the costs pertaining to diversion are to be defrayed by payment of fees by the producer or cooperative marketing association to whom a diversion certificate is issued. After authorized diversion operations for a crop year are completed, the Committee shall ascertain its costs of diversion operations during such crop year. If the total amount represented by the deposit fees which accompanied the applications for diversion exceeds such costs, each producer, and each cooperative marketing association, entitled thereto shall receive a proportionate refund of the net amount. Such refund shall be calculated in the same proportion as the quantity of prune plums diverted by each such producer, and each such cooperative marketing association, is to the total quantity of prune plums diverted: *Provided,* That the Committee may prescribe a minimum charge to cover costs of processing each application for diversion submitted to it.
 
-[35 FR 12323, Aug. 1, 1970, as amended at 36 FR 15039, Aug. 12, 1971; 48 FR 57261, Dec. 29, 1983; 68 FR 17270, Apr. 9, 2003]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.162 was suspended indefinitely.
+[35 FR 12323, Aug. 1, 1970, as amended at 36 FR 15039, Aug. 12, 1971; 48 FR 57261, Dec. 29, 1983; 68 FR 17270, Apr. 9, 2003; 88 FR 82236, Nov. 24, 2023]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.162 was suspended indefinitely. At 88 FR 82236, Nov. 24, 2023, the suspension was lifted, an amendment was made to § 993.162, and the section was stayed indefinitely.

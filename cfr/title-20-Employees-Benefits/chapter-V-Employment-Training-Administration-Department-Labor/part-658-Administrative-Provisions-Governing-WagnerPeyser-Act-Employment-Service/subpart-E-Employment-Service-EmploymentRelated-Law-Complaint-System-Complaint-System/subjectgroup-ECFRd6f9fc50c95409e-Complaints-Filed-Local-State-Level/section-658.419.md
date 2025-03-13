@@ -1,5 +1,7 @@
 ##### § 658.419 Apparent violations. #####
 
+Link to an amendment published at 88 FR 82732, Nov. 24, 2023.
+
 (a) If a SWA, an ES office employee, or outreach staff observes, has reason to believe, or is in receipt of information regarding a suspected violation of employment-related laws or ES regulations by an employer, except as provided at § 653.503 of this chapter (field checks) or § 658.411 (complaints), the employee must document the suspected violation and refer this information to the ES Office Manager.
 
 (b) If the employer has filed a job order with the ES office within the past 12 months, the ES office must attempt informal resolution provided at § 658.411.

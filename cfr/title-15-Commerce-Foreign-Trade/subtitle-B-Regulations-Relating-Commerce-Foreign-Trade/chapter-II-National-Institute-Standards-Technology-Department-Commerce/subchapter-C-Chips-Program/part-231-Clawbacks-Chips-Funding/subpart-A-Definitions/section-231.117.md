@@ -1,0 +1,3 @@
+##### § 231.117 Semiconductor manufacturing capacity. #####
+
+*Semiconductor manufacturing capacity* means the productive capacity of a facility for semiconductor manufacturing. In the case of a wafer production facility, semiconductor manufacturing capacity is measured in wafers per year. In the case of a semiconductor fabrication facility, semiconductor manufacturing capacity is measured in wafer starts per year. In the case of a semiconductor fabrication facility for wafers designed for wafer-to-wafer bonding structure, semiconductor manufacturing capacity is measured in stacked wafers per year. In the case of a packaging facility, semiconductor manufacturing capacity is measured in packages per year.

@@ -1,0 +1,3 @@
+##### § 231.116 Semiconductor manufacturing. #####
+
+*Semiconductor manufacturing* means semiconductor wafer production, semiconductor fabrication or semiconductor packaging. Semiconductor wafer production includes the processes of wafer slicing, polishing, cleaning, epitaxial deposition, and metrology. Semiconductor fabrication includes the process of forming devices such as transistors, poly capacitors, non-metal resistors, and diodes on a wafer of semiconductor material. Semiconductor packaging means the process of enclosing a semiconductor in a protective container (package) and providing external power and signal connectivity for the assembled integrated circuit.

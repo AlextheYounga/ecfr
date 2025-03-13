@@ -2,9 +2,9 @@
 
 (a) *Inspection stations.* Processed olives shall be sampled and inspected only at an inspection station which shall be any olive processing plant having facilities for in-line or lot inspection which are satisfactory to the Inspection Service and the Committee; or an olive processing plant which has an approved Quality Assurance Program in effect.
 
-(b) *Inspection—General.* Inspection of packaged olives for conformance with § 932.52 shall be by a Quality Assurance Program approved by the Processed Products Branch (PPB), USDA; or by in-line or lot inspection. A PPB approved Quality Assurance Program shall be pursuant to a Quality Assurance contract as referred to in § 52.2.
+(b) *Inspection—General.* Inspection of packaged olives for conformance with § 932.52 shall be by a Quality Assurance Program approved by the Specialty Crops Inspection Division (SCI), USDA; or by in-line or lot inspection. A PPB approved Quality Assurance Program shall be pursuant to a Quality Assurance contract as referred to in § 52.2.
 
-(c) *Certification.* (1) Each handler shall furnish daily to the Inspection Service a copy of a pack report for the preceding work day which shall contain at least the following:
+(c) *Certification.* (1) Each handler shall furnish daily to the Inspection Service a copy of a pack report for the preceding workday which shall contain at least the following:
 
 (i) The total number of cases of packaged olives;
 
@@ -74,10 +74,6 @@
 
 (f) *Size designations.* (1) In lieu of the size designations specified in § 932.52(a)(2), except as provided in § 932.51(a) (1) and (2), canned whole ripe olives, other than those of the “tree-ripened” type, shall conform to the marketing order size designations listed in table 1 contained herein, and shall be of a size not smaller than the applicable size requirements, tolerances, and percentages listed in paragraph (h) of this section.
 
-Table I—Canned Whole Ripe Olive Sizes Average Count Ranges
-
-[Per Pound]
-
 |           Size designation           |        Variety group 1        |Variety group 2|              |              |
 |--------------------------------------|-------------------------------|---------------|--------------|--------------|
 |Except Ascolano, Barouni, St. Agostino|Ascolano, Barouni, St. Agostino|    Obliza     |Except Obliza |              |
@@ -88,10 +84,8 @@ Table I—Canned Whole Ripe Olive Sizes Average Count Ranges
 |                Jumbo                 |             47-60             |     47-60     |    47-60     |    47-60     |
 |               Colossal               |             33-46             |     33-46     |    33-46     |    33-46     |
 |            Sup. Colossal             |        (<sup>1</sup>)         |(<sup>1</sup>) |(<sup>1</sup>)|(<sup>1</sup>)|
-
-<sup>1</sup> 32 or fewer.
-
-N.A.—Not Applicable.
+|      <sup>1</sup> 32 or fewer.       |                               |               |              |              |
+|         N.A.—Not Applicable.         |                               |               |              |              |
 
 (2) The size of the canned whole olives shall conform with the applicable count per pound range indicated in table I of paragraph (f)(1) of this section. When the count per pound of whole olives falls between two count ranges, the size designation shall be that of the smaller size. The average count for canned whole ripe olives is determined from all containers in the sample and is calculated on the basis of the drained weight of the olives.
 
@@ -107,8 +101,6 @@ N.A.—Not Applicable.
 
 (g) *Size Certification.* (1) When limited-use size olives for limited-use styles are authorized during a crop year and a handler elects to have olives sized pursuant to § 932.51(a)(2)(i), any lot of limited-use size olives may be used in the production of packaged olives for limited-use styles if such olives are within the average count range in table II contained herein for that variety group, and meet such further mid-point or acceptable count requirements for the average count range in each size as approved by the committee.
 
-Table II—Limited Use Size Olives
-
 |                      Variety                      |Average count range (per pound)|
 |---------------------------------------------------|-------------------------------|
 |Group 1, except Ascolano, Barouni, and St. Agostino|       76-90, inclusive.       |
@@ -117,10 +109,6 @@ Table II—Limited Use Size Olives
 |                  Group 2, Obliza                  |      128-140, inclusive.      |
 
 (2) When limited-use size olives are not authorized for limited-use styles during a crop year and a handler elects to have olives sized pursuant to § 932.51(a)(2)(ii), any lot of canning-sized olives may be used in the production of packaged olives for whole, pitted, or limited-use styles if such olives are within the average count range in table III contained herein for that variety group, and meet such further mid-point or acceptable count requirements for the average count range in each size as approved by the committee.
-
-Table III—Canned Whole Ripe Olive Sizes Average Count Ranges
-
-[Per Pound]
 
 |           Size designation           |        Variety group 1        |Variety group 2|              |              |
 |--------------------------------------|-------------------------------|---------------|--------------|--------------|
@@ -132,10 +120,8 @@ Table III—Canned Whole Ripe Olive Sizes Average Count Ranges
 |                Jumbo                 |             47-60             |     47-60     |    47-60     |    47-60     |
 |               Colossal               |             33-46             |     33-46     |    33-46     |    33-46     |
 |            Sup. Colossal             |        (<sup>1</sup>)         |(<sup>1</sup>) |(<sup>1</sup>)|(<sup>1</sup>)|
-
-<sup>1</sup> 32 or fewer.
-
-N.A.—Not Applicable.
+|      <sup>1</sup> 32 or fewer.       |                               |               |              |              |
+|         N.A.—Not Applicable.         |                               |               |              |              |
 
 (h) Canned whole ripe olives, other than those of the “tree-ripened” type, shall be of a size not smaller than the following applicable size requirements, tolerances and percentages:
 
@@ -163,4 +149,4 @@ N.A.—Not Applicable.
 
 (ii) For olives of any designation except the medium size, not more than 5 percent, by count, of such olives may weigh less than 1/127 pound each.
 
-[31 FR 12635, Sept. 27, 1966, as amended at 33 FR 15632, Oct. 23, 1968; 36 FR 24795, Dec. 23, 1971; 48 FR 54212, Dec. 1, 1983; 52 FR 38224, Oct. 15, 1987; 52 FR 49346, Dec. 31, 1987; 57 FR 36353, Aug. 13, 1992; 59 FR 38106, July 27, 1994; 59 FR 55341, Nov. 7, 1994; 62 FR 1244, Jan. 9, 1997]
+[31 FR 12635, Sept. 27, 1966, as amended at 33 FR 15632, Oct. 23, 1968; 36 FR 24795, Dec. 23, 1971; 48 FR 54212, Dec. 1, 1983; 52 FR 38224, Oct. 15, 1987; 52 FR 49346, Dec. 31, 1987; 57 FR 36353, Aug. 13, 1992; 59 FR 38106, July 27, 1994; 59 FR 55341, Nov. 7, 1994; 62 FR 1244, Jan. 9, 1997; 88 FR 82233, Nov. 24, 2023]

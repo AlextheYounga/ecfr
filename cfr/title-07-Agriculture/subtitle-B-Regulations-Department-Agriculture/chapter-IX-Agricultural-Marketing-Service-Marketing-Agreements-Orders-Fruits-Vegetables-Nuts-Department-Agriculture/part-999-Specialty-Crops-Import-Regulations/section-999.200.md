@@ -18,11 +18,11 @@
 
 (9) *Person* means any individual, partnership, corporation, association, or other business unit.
 
-(10) *Fruit and Vegetable Division* means the Fruit and Vegetable Division of the Agricultural Marketing Service, U.S. Department of Agriculture, Washington, DC 20250.
+(10) *Specialty Crops Program* means the Specialty Crops Program of the Agricultural Marketing Service, U.S. Department of Agriculture, Washington, DC 20250.
 
-(11) *USDA inspector* means an inspector of the Processed Products Standardization and Inspection Branch, Fruit and Vegetable Division, or any other duly authorized employee of the USDA.
+(11) *USDA inspector* means an inspector of the Specialty Crops Inspection Division, Specialty Crops Program, or any other duly authorized employee of the USDA.
 
-(12) *Importation* means release from custody of the U.S. Bureau of Customs.
+(12) *Importation* means release from custody of U.S. Customs and Border Protection.
 
 (13) *Undersized prunes* means those prunes that pass freely through a round opening 23/32 of an inch in diameter.
 
@@ -34,7 +34,7 @@
 
 (4) No person may import any lot of pitted macerated prunes for human consumption as pitted macerated prunes unless the lot does not exceed an average of 2 percent by count of prunes with whole pits and/or pit fragments 2 mm or longer; and four of ten subsamples examined have no more than 2 percent by count with whole pits and/or pit fragments 2 mm or longer.
 
-(5) Any person may import any lot of prunes, except any lot containing undersized prunes, pitted prunes or pitted macerated prunes, into the United States for use in human consumption outlets as prune products in which the prunes lose their form and character as prunes by conversion prior to consumption if the prunes are inspected and an inspection certificate issued with respect thereto, and each lot meets the grade requirements set forth in paragraphs (1), (2), and (3) of exhibit A of this section, and the importer first files as a condition of such importation an executed Form FV-6—‘Importer's Exempt Commodity Form.’.
+(5) Any person may import any lot of prunes, except any lot containing undersized prunes, pitted prunes or pitted macerated prunes, into the United States for use in human consumption outlets as prune products in which the prunes lose their form and character as prunes by conversion prior to consumption if the prunes are inspected and an inspection certificate issued with respect thereto, and each lot meets the grade requirements set forth in paragraphs (1), (2), and (3) of exhibit A of this section, and the importer first files as a condition of such importation an executed Form SC-6—‘Importer's Exempt Commodity Form.’.
 
 (c) *Inspection and certification requirements*—(1) *Inspection.* Inspection shall be performed by a USDA inspector in accordance with the regulations governing inspection and certification of processed fruits and vegetables, processed products thereof, and certain other processed food products (part 52 of this title). The cost of each such inspection and related certification shall be borne by the applicant.
 
@@ -54,9 +54,9 @@
 
 (d) *Exemptions.* Notwithstanding any other provisions of this section, the importation of any lot of prunes which in the aggregate does not exceed 150 pounds, net weight, and any prunes that are so denatured as to render them unfit for human consumption shall be exempt from the requirements of this section.
 
-(e) *Additional requirements*—(1) *General.* Prior to importation of any prunes, the person importing such prunes shall file an inspection certificate with the Collector of Customs at the port at which the customs entry is filed. In addition, if such prunes are manufacturing grade substandard prunes, such person shall also file with the Collector of Customs an executed Form FV-6—‘Importer's Exempt Commodity Form.’ Promptly after such filing, such person shall transmit a copy of this form to the Fruit and Vegetable Division. No person may import, sell, or use any manufacturing grade substandard prunes other than for use as set forth in paragraph (b)(5) of this section. Each person importing manufacturing grade substandard prunes shall obtain from each purchaser, no later than the time of delivery to such purchaser, and file with the Fruit and Vegetable Division not later than the 5th day of the month following the month in which the prunes were delivered, an executed Form FV-6—‘Importer's Exempt Commodity Form.’ One copy of this executed form shall be retained by the importer and one copy shall be retained by the purchaser.
+(e) *Additional requirements*—(1) *General.* Prior to importation of any prunes, the person importing such prunes shall file an inspection certificate with the Collector of Customs at the port at which the customs entry is filed. In addition, if such prunes are manufacturing grade substandard prunes, such person shall also file with the Collector of Customs an executed Form SC-6—`Importer's Exempt Commodity Form.' Promptly after such filing, such person shall transmit a copy of this form to the Specialty Crops Program. No person may import, sell, or use any manufacturing grade substandard prunes other than for use as set forth in paragraph (b)(5) of this section. Each person importing manufacturing grade substandard prunes shall obtain from each purchaser, no later than the time of delivery to such purchaser, and file with the Specialty Crops Program not later than the 5th day of the month following the month in which the prunes were delivered, an executed Form SC-6—`Importer's Exempt Commodity Form.' One copy of this executed form shall be retained by the importer and one copy shall be retained by the purchaser.
 
-(2) *Manufacturing Grade Substandard Prune—sale by other than importer.* Each wholesaler or other reseller of manufacturing grade substandard prunes should, for his or her protection, obtain from each purchaser and hold in his or her files an executed Form FV-6—‘Importer's Exempt Commodity Form’ covering each sale during the calendar year.
+(2) *Manufacturing Grade Substandard Prune—sale by other than importer.* Each wholesaler or other reseller of manufacturing grade substandard prunes should, for his or her protection, obtain from each purchaser and hold in his or her files an executed Form SC-6—‘Importer's Exempt Commodity Form’ covering each sale during the calendar year.
 
 (f) *Reconditioning.* Nothing contained in this section shall preclude the reconditioning of failing lots of prunes, prior to importation, so that such prunes may be made eligible to meet the requirements prescribed pursuant to paragraphs (b)(1) through (5), as applicable, of this section.
 
@@ -112,4 +112,4 @@ C. *Maximum tolerances.* Tolerance allowances shall be on a weight basis and sha
 
 (6) The combined tolerance allowance for off-color, inferior meat condition, end cracks, fermentation, skin or flesh damage, scab, burned, mold, imbedded dirt, insect infestation, and decay shall not exceed fifteen percent (15%), except that the first eight percent (8%) of end cracks shall be given one-half value and any additional percentage of end cracks shall be given full value.
 
-[36 FR 18782, Sept. 22, 1971, as amended at 47 FR 47230, Oct. 25, 1982; 57 FR 56245, Nov. 27, 1992; 59 FR 38113, July 27, 1994; 60 FR 57910, Nov. 24, 1995; 74 FR 2809, Jan. 16, 2009]Effective Date Note:At 74 FR 2809, Jan. 16, 2009, § 999.200 was suspended indefinitely.
+[36 FR 18782, Sept. 22, 1971, as amended at 47 FR 47230, Oct. 25, 1982; 57 FR 56245, Nov. 27, 1992; 59 FR 38113, July 27, 1994; 60 FR 57910, Nov. 24, 1995; 74 FR 2809, Jan. 16, 2009; 88 FR 82236, Nov. 24, 2023]Effective Date Note:At 74 FR 2809, Jan. 16, 2009, § 999.200 was suspended indefinitely. At 88 FR 82236, Nov. 24, 2023, the suspension was lifted, amendments were made to § 999.200, and the section was stayed indefinitely.

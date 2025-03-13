@@ -1,5 +1,7 @@
 ##### § 653.103 Process for migrant and seasonal farmworkers to participate in workforce development activities. #####
 
+Link to an amendment published at 88 FR 82726, Nov. 24, 2023.
+
 (a) Each one-stop center must determine whether participants are MSFWs as defined at § 651.10 of this chapter.
 
 (b) All SWAs will ensure that MSFWs who are English Language Learners (ELLs) receive, free of charge, the language assistance necessary to afford them meaningful access to the programs, services, and information offered by the one-stop centers.

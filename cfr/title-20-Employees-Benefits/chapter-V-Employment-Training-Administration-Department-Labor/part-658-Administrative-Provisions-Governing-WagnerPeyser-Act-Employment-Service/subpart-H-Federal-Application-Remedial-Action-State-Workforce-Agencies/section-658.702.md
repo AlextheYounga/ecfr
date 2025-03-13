@@ -1,5 +1,7 @@
 ##### § 658.702 Initial action by the Regional Administrator. #####
 
+Link to an amendment published at 88 FR 82736, Nov. 24, 2023.
+
 (a) The ETA Regional Administrator is responsible for ensuring that all SWAs in his/her region are in compliance with ES regulations.
 
 (b) Wherever a Regional Administrator discovers or is apprised of possible SWA violations of ES regulations by the review and assessment activities under subpart G of this part, or through required reports or written complaints from individuals, organizations, or employers which are elevated to the Department after the exhaustion of SWA administrative remedies, the Regional Administrator must conduct an investigation. Within 10 business days after receipt of the report or other information, the Regional Administrator must make a determination whether there is probable cause to believe that a SWA has violated ES regulations.

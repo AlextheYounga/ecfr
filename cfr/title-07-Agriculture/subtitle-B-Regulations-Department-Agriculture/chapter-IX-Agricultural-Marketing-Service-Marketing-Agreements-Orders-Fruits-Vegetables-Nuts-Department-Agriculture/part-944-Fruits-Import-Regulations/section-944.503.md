@@ -16,10 +16,10 @@
 
 (b) The Federal or Federal-State Inspection Service, F&V, AMS, USDA, is designated as the governmental inspection service for certifying the grade, size, quality, and maturity of table grapes that are imported into the United States. Inspection by the Federal or Federal-State Inspection Service with evidence thereof in the form of an official inspection certificate, issued by the respective service, applicable to the particular shipment of table grapes, is required on all imports. The inspection and certification services will be available upon application in accordance with the rules and regulations governing inspection and certification of fresh fruits, vegetables, and other products (7 CFR part 51) and in accordance with the Procedure for Requesting Inspection and designating the Agencies to Perform Requested Inspection and Certification (7 CFR 944.400).
 
-(c) The term *importation* means release from custody of the United States Customs Service.
+(c) The term *importation* means release from custody of the U.S. Customs and Border Protection.
 
 (d) Any lot or portion thereof which fails to meet the import requirements, and is not being imported for purposes of processing or donation to charitable organizations, prior to or after reconditioning may be exported or disposed of under the supervision of the Federal or Federal-State Inspection Service with the costs of certifying the disposal of said lot borne by the importer.
 
 (e) The grade, size, quality, and maturity requirements of this section shall not be applicable to grapes imported for processing or donation to charitable organizations, but shall be subject to the safeguard provisions contained in § 944.350.
 
-[51 FR 12502, Apr. 11, 1986, as amended at 51 FR 13209, Apr. 18, 1986; 52 FR 31979, Aug. 25, 1987; 53 FR 22128, June 14, 1988; 58 FR 21537, Apr. 22, 1993; 58 FR 69186, Dec. 30, 1993; 59 FR 67619, 67620, Dec. 30, 1994; 60 FR 33681, June 29, 1995; 63 FR 28480, May 26, 1998; 69 FR 18801, Apr. 9, 2004; 74 FR 3419, Jan. 21, 2009; 74 FR 11277, Mar. 17, 2009; 75 FR 17034, Apr. 5, 2010; 80 FR 68424, Nov. 5, 2015; 81 FR 24459, Apr. 26, 2016]
+[51 FR 12502, Apr. 11, 1986]Editorial Note:For Federal Register citations affecting § 944.503, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

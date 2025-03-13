@@ -1,5 +1,7 @@
 ##### § 679.21 Prohibited species bycatch management. #####
 
+Link to an amendment published at 88 FR 82769, Nov. 24, 2023.
+
 (a) *General.* (1) See § 679.2 and Table 2b to this part for definition of prohibited species.
 
 (2) *Prohibited species catch restrictions.* The operator of each vessel engaged in directed fishing for groundfish in the GOA or BSAI must:

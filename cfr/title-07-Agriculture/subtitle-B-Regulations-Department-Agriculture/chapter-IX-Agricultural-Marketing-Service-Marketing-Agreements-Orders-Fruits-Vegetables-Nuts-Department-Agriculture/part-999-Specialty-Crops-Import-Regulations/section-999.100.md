@@ -8,15 +8,15 @@
 
 (4) *Person* means any individual, partnership, corporation, association, or other business unit.
 
-(5) *USDA Inspector* means any Federal or Federal-State inspector of the Fresh Products Standardization and Inspection Branch of the Fruit and Vegetable Division, Consumer and Marketing Service, United States Department of Agriculture.
+(5) *USDA Inspector* means any Federal or Federal-State inspector of the Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service, United States Department of Agriculture.
 
-(6) *Importation of walnuts* means the release of walnuts from the custody of the United States Customs Service.
+(6) *Importation of walnuts* means the release of walnuts from the custody of the U.S. Customs and Border Protection.
 
 (b) *Grade and size regulations.* No person may import walnuts (Juglans regia) into the United States unless such walnuts have been inspected and certified by a USDA inspector as meeting the following requirements:
 
 (1) *Inshell walnuts.* All inshell walnuts shall be of a quality equal to or better than the requirements of U.S. No. 2 and “baby” size as prescribed in the United States Standards for Walnuts (Juglans regia) in the Shell (§§ 51.2945 through 51.2966 of this title); or
 
-(2) *Shelled walnuts.* All shelled walnuts shall be of a quality equal to or better than the requirements for U.S. Commercial Grade as prescribed in the United States Standards for Shelled Walnuts (Juglans regia) (§§ 51.2275 through 51.2294 of this title excluding §§ 51.2278(b), 51.2284 and 51.2285) effective January 25, 1959, except that the minimum size shall be pieces not more than five percent of which will pass through a round opening6/64 inch in diameter and no other size requirements shall apply.
+(2) *Shelled walnuts.* All shelled walnuts shall be of a quality equal to or better than the requirements for U.S. Commercial Grade as prescribed in the United States Standards for Shelled Walnuts (Juglans regia) (§§ 51.2275 through 51.2294 of this title excluding §§ 51.2278(b), 51.2284 and 51.2285), except that the minimum size shall be pieces not more than five percent of which will pass through a round opening6/64 inch in diameter and no other size requirements shall apply.
 
 (c) *Inspection and certification.* (1) All inspections and certifications required by paragraph (b) of this section shall be made by USDA inspectors in accordance with the regulations governing the inspection and certification of fresh fruits, vegetables, and other products (Part 51 of this title). The cost of inspection and certification shall be borne by the applicant.
 
@@ -48,4 +48,4 @@
 
 (g) *Compliance.* Any person violating any of the provisions of this regulation is subject to a forfeiture in the amount prescribed in section 608a(5) of the Agricultural Marketing Agreement Act of 1937, as amended (7 U.S.C. 601-674), or, upon conviction, a penalty in the amount prescribed in section 608c(14) of said act, or to both such forfeiture and penalty. False representations in any matter within the jurisdiction of any agency of the United States, knowing it to be false, is a violation of 18 U.S.C. 1001 which provides for a fine or imprisonment or both.
 
-[29 FR 230, Jan. 9, 1964, as amended at 40 FR 29263, July 11, 1975; 41 FR 2075, Jan. 14, 1976; 42 FR 35146, July 8, 1977; 58 FR 69190, Dec. 30, 1993; 74 FR 2809, Jan. 16, 2009; 85 FR 12296, Mar. 6, 2020]
+[29 FR 230, Jan. 9, 1964, as amended at 40 FR 29263, July 11, 1975; 41 FR 2075, Jan. 14, 1976; 42 FR 35146, July 8, 1977; 58 FR 69190, Dec. 30, 1993; 74 FR 2809, Jan. 16, 2009; 85 FR 12296, Mar. 6, 2020; 88 FR 82236, Nov. 24, 2023]

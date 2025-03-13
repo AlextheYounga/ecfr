@@ -1,0 +1,3 @@
+##### § 231.111 Predominately serves the market. #####
+
+*Predominately serves the market* means that at least 85 percent of the output of the semiconductor manufacturing facility (*e.g.,* wafers, semiconductor devices, or packages) by value is incorporated into final products (*i.e.,* not an intermediate product that is used as factor inputs for producing other goods) that are used or consumed in that market.

@@ -1,5 +1,7 @@
 ##### § 658.421 Handling of Wagner-Peyser Act Employment Service regulation-related complaints. #####
 
+Link to an amendment published at 88 FR 82733, Nov. 24, 2023.
+
 (a)(1) Except as provided below in paragraph (a)(2) of this section, no complaint alleging a violation of the ES regulations may be handled at the ETA regional office level until the complainant has exhausted the SWA administrative remedies set forth at §§ 658.411 through 658.418. If the Regional Administrator determines that a complaint has been prematurely filed with an ETA regional office, the Regional Administrator must inform the complainant within 10 working days in writing that the complainant must first exhaust those remedies before the complaint may be filed in the regional office. A copy of this letter and a copy of the complaint also must be sent to the State Administrator.
 
 (2) If a complaint is submitted directly to the Regional Administrator and if he/she determines that the nature and scope of a complaint described in paragraph (a) of this section is such that the time required to exhaust the administrative procedures at the SWA level would adversely affect a significant number of individuals, the RA must accept the complaint and take the following action:

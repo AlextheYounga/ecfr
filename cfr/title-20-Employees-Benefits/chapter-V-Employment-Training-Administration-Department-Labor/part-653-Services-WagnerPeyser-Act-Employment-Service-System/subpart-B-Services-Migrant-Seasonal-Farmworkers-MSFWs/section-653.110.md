@@ -1,5 +1,7 @@
 ##### § 653.110 Disclosure of data. #####
 
+Link to an amendment published at 88 FR 82730, Nov. 24, 2023.
+
 (a) SWAs must disclose to the public, on written request, in conformance with applicable State and Federal law, the data collected by SWAs and ES offices pursuant to § 653.109, if possible within 10 business days after receipt of the request.
 
 (b) If a request for data held by a SWA is made to the ETA national or regional office, the ETA must forward the request to the SWA for response.

@@ -1,5 +1,7 @@
 ##### § 627.2795 Voluntary liquidation. #####
 
+Link to an amendment published at 88 FR 82246, Nov. 24, 2023.
+
 (a) A Farm Credit institution may voluntarily liquidate by a resolution of its board of directors, but only with the consent of, and in accordance with a plan of liquidation approved by, the Farm Credit Administration Board. Upon adoption of such resolution to liquidate, the Farm Credit institution shall submit the proposed voluntary liquidation plan to the Farm Credit Administration for preliminary approval. The Farm Credit Administration Board, in its discretion, may appoint a receiver as part of an approved liquidation plan. If a receiver is appointed for the Farm Credit institution as part of a voluntary liquidation, the receivership shall be conducted pursuant to subpart B of this part, except to the extent that an approved plan of liquidation provides otherwise.
 
 (b) If the Farm Credit Administration Board gives preliminary approval to the liquidation plan, the board of directors of the Farm Credit institution shall submit the resolution to liquidate and the liquidation plan to the stockholders for approval.

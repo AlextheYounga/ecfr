@@ -10,7 +10,7 @@
 
 (4) *Person* means any individual, partnership, corporation, association, or other business unit.
 
-(5) *USDA inspector* means an inspector of the Specialty Crops Inspection Division, Fruit and Vegetable Program, Agricultural Marketing Service, U.S. Department of Agriculture, or any other duly authorized employee of the U.S. Department of Agriculture.
+(5) *USDA inspector* means an inspector of the Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, or any other duly authorized employee of the U.S. Department of Agriculture.
 
 (6) *Importation of raisins* means the release of raisins from custody of the U.S. Customs and Border Protection.
 
@@ -60,4 +60,4 @@
 
 (h) *Compliance.* Any person violating any of the provisions of this regulation is subject to a forfeiture in the amount prescribed in section 8a(5) of the Agricultural Marketing Agreement Act of 1937, as amended (sections 1-19, 48 Stat. 31, as amended; 7 U.S.C. 601-674), or, upon conviction, a penalty in the amount prescribed in section 8c(14) of said act, or to both such forfeiture and penalty. False representation to an agency of the United States in any matter within its jurisdiction, knowing it to be false, is a violation of 18 U.S.C. 1001 which provides for a fine or imprisonment or both.
 
-[37 FR 5282, Mar. 14, 1972, as amended at 37 FR 13635, July 12, 1972; 37 FR 23820, Nov. 9, 1972; 41 FR 52646, Dec. 1, 1976; 43 FR 47972, Oct. 18, 1978; 43 FR 57863, Dec. 11, 1978; 45 FR 65513, Oct. 3, 1980; 47 FR 51731, Nov. 17, 1982; 50 FR 45808, Nov. 4, 1985; 53 FR 34715, Sept. 8, 1988; 67 FR 57505, Sept. 11, 2002; 74 FR 2809, Jan. 16, 2009; 80 FR 15678, Mar. 25, 2015; 81 FR 84403, Nov. 23, 2016; 85 FR 12296, Mar. 6, 2020]
+[37 FR 5282, Mar. 14, 1972, as amended at 37 FR 13635, July 12, 1972; 37 FR 23820, Nov. 9, 1972; 41 FR 52646, Dec. 1, 1976; 43 FR 47972, Oct. 18, 1978; 43 FR 57863, Dec. 11, 1978; 45 FR 65513, Oct. 3, 1980; 47 FR 51731, Nov. 17, 1982; 50 FR 45808, Nov. 4, 1985; 53 FR 34715, Sept. 8, 1988; 67 FR 57505, Sept. 11, 2002; 74 FR 2809, Jan. 16, 2009; 80 FR 15678, Mar. 25, 2015; 81 FR 84403, Nov. 23, 2016; 85 FR 12296, Mar. 6, 2020; 88 FR 82237, Nov. 24, 2023]

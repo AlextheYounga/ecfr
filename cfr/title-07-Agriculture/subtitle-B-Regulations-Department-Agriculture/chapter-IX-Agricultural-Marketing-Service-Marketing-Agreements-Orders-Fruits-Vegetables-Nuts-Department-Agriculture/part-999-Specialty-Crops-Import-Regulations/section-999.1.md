@@ -12,7 +12,7 @@
 
 (6) *Person* means any individual, partnership, corporation, association, or other business unit.
 
-(7) *USDA inspector* means an inspector of the Specialty Crops Inspection Division, Fruit and Vegetable Program, or any other duly authorized employee of the USDA.
+(7) *USDA inspector* means an inspector of the Specialty Crops Inspection Division, Specialty Crops Program, or any other duly authorized employee of the USDA.
 
 (8) *Inspection certificate* means a written statement or memorandum report issued by a USDA inspector setting forth in addition to appropriate descriptive information the quality and condition of the product inspected, and in the case of imported dates, a statement of meeting or failing, as applicable, the U.S. import requirements under section 8e of the AMA Act of 1937.
 
@@ -52,4 +52,4 @@
 
 (h) *Compliance.* Any person who violates any provision of this section shall be subject to a forfeiture in the amount prescribed in section 8a(5) of the Agricultural Marketing Agreement Act of 1937, as amended (sections 1-19, 48 Stat. 31, as amended; 7 U.S.C. 601-674), or, upon conviction, a penalty in the amount prescribed in section 8c(14) of said act, or to both such forfeiture and penalty. False representations to an agency of the United States on any matter within its jurisdiction, knowing it to be false, is a violation of 18 U.S.C. 1001 which provides for a fine or imprisonment or both.
 
-[28 FR 3469, Apr. 10, 1963, as amended at 31 FR 960, Jan. 25, 1966; 33 FR 15986, Oct. 31, 1968; 36 FR 6736, Apr. 8, 1971; 58 FR 69190, Dec. 30, 1993; 74 FR 2808, Jan. 16, 2009; 80 FR 15678, Mar. 25, 2015; 81 FR 87412, Dec. 5, 2016]
+[28 FR 3469, Apr. 10, 1963, as amended at 31 FR 960, Jan. 25, 1966; 33 FR 15986, Oct. 31, 1968; 36 FR 6736, Apr. 8, 1971; 58 FR 69190, Dec. 30, 1993; 74 FR 2808, Jan. 16, 2009; 80 FR 15678, Mar. 25, 2015; 81 FR 87412, Dec. 5, 2016; 88 FR 82236, Nov. 24, 2023]

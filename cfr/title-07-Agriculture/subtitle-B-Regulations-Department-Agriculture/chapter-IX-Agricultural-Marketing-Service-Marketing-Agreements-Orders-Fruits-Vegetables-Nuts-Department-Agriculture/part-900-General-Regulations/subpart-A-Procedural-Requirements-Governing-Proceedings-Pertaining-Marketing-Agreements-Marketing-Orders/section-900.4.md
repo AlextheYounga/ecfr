@@ -8,7 +8,7 @@
 
 (ii) By mailing a true copy of the notice of hearing, using a postal or other delivery service or electronic communication, to each of the persons known to the Administrator to be interested therein;
 
-(iii) By issuing a press release containing the complete text or a summary of the contents of the notice of hearing and making the same available to such newspapers in the area proposed to be subjected to regulation as reasonably will tend to bring the ntoice to the attention of the persons interested therein;
+(iii) By issuing a press release containing the complete text or a summary of the contents of the notice of hearing and making the same available to such newspapers in the area proposed to be subjected to regulation as reasonably will tend to bring the notice to the attention of the persons interested therein;
 
 (iv) By forwarding copies of the notice of hearing addressed to the governors of such of the several States of the United States and to executive heads of such of the Territories and possessions of the United States as the Administrator, having due regard for the subject matter of the proposal and the public interest, shall determine, should be notified.
 
@@ -18,4 +18,4 @@
 
 (d) *Alternative procedures.* The Administrator may establish alternative procedures for the proceeding that are in addition to or in lieu of one or more procedures in this subpart, provided that the procedures are consistent with 5 U.S.C. 556 and 557. The alternative procedures must be described in the notice of hearing, as required in paragraph (a) of this section.
 
-[25 FR 5907, June 28, 1960, as amended at 83 FR 52944, Oct. 19, 2018; 85 FR 41174, July 9, 2020]
+[25 FR 5907, June 28, 1960, as amended at 83 FR 52944, Oct. 19, 2018; 85 FR 41174, July 9, 2020; 88 FR 82231, Nov. 24, 2023]

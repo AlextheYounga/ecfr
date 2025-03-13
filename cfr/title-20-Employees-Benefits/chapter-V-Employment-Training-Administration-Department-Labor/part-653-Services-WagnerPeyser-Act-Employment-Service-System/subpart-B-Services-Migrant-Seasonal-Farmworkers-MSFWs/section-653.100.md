@@ -1,5 +1,7 @@
 ##### § 653.100 Purpose and scope of subpart. #####
 
+Link to an amendment published at 88 FR 82726, Nov. 24, 2023.
+
 (a) This subpart sets forth the principal regulations of the Wagner-Peyser Act Employment Service (ES) concerning the provision of services for MSFWs consistent with the requirement that all services of the workforce development system be available to all job seekers in an equitable fashion. This includes ensuring MSFWs have access to these services in a way that meets their unique needs. MSFWs must receive services on a basis which is qualitatively equivalent and quantitatively proportionate to services provided to non-MSFWs.
 
 (b) This subpart contains requirements that State Workforce Agencies (SWAs) establish a system to monitor their own compliance with ES regulations governing services to MSFWs.

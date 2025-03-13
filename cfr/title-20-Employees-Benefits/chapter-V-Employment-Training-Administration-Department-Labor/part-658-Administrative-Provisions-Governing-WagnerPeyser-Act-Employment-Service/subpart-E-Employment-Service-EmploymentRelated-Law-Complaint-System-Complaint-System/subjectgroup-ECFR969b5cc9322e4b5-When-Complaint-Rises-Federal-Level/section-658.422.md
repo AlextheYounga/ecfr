@@ -1,5 +1,7 @@
 ##### § 658.422 Handling of employment-related law complaints by the Regional Administrator. #####
 
+Link to an amendment published at 88 FR 82733, Nov. 24, 2023.
+
 (a) This section applies to all complaints submitted directly to the Regional Administrator or his/her representative.
 
 (b) Each complaint filed by an MSFW alleging violation(s) of employment-related laws must be taken in writing, logged, and referred to the appropriate enforcement agency for prompt action.

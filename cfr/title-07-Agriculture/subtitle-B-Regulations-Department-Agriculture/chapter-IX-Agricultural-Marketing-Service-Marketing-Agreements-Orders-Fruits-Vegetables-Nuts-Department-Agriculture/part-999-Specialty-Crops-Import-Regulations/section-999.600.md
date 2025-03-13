@@ -16,7 +16,7 @@
 
 (7) *Inshell pistachios* means pistachios that have shells that have not been removed.
 
-(8) *Inspection Service* means the Federal Inspection Service, Fruit and Vegetable Programs, Agricultural Marketing Service, USDA, or the Federal-State Inspection Programs.
+(8) *Inspection Service* means the Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service, USDA, or the Federal-State Inspection Programs.
 
 (9) *Inspector* means any inspector authorized by USDA to draw and prepare pistachio samples.
 
@@ -46,8 +46,6 @@
 
 (2) Lot samples shall be drawn from each lot of pistachios designated for aflatoxin testing, and individual test samples shall be prepared by, or under the supervision of, an inspector. Each sample shall be drawn and prepared in accordance with the sample size requirements outlined in Tables 1 and 2 below. The gross weight of the inshell lot and test samples for aflatoxin testing and the minimum number of incremental samples required are shown in Table 1. The gross weight of the kernel lot and test samples for aflatoxin testing and the minimum number of incremental samples required is shown in Table 2. If more than one test sample is necessary, the test samples shall be designated by the inspector as Test Sample #1 and Test Sample #2. Each sample shall be placed in a suitable container, with the lot number clearly identified, and the importer shall submit it, along with a copy of the customs entry documentation, to a USDA or USDA-accredited laboratory. The importer shall assume all costs for shipping samples to the laboratory.
 
-Table 1—Inshell Pistachio Lot Sampling Increments for Aflatoxin Certification
-
 |Lot weight  <br/>(lbs.)|Minimum number of incremental samples for the lot sample|Total weight of lot sample  <br/>(kilograms)|Weight of test sample  <br/>(kilograms)|
 |-----------------------|--------------------------------------------------------|--------------------------------------------|---------------------------------------|
 |      220 or less      |                           10                           |                    2.0                     |                  2.0                  |
@@ -58,8 +56,6 @@ Table 1—Inshell Pistachio Lot Sampling Increments for Aflatoxin Certification
 |     4,401-11,000      |                           60                           |                    12.0                    |                  6.0                  |
 |     11,001-22,000     |                           80                           |                    16.0                    |                  8.0                  |
 |    22,001-150,000     |                          100                           |                    20.0                    |                 10.0                  |
-
-Table 2—Shelled Pistachio Kernel Lot Sampling Increments for Aflatoxin Certification
 
 |Lot weight  <br/>(lbs.)|Minimum number of incremental samples for the lot sample|Total weight of lot sample  <br/>(kilograms)|Weight of test sample  <br/>(kilograms)|
 |-----------------------|--------------------------------------------------------|--------------------------------------------|---------------------------------------|
@@ -106,7 +102,7 @@ Table 2—Shelled Pistachio Kernel Lot Sampling Increments for Aflatoxin Certifi
 
 (3) *Failed lot reporting.* If a lot fails to meet the aflatoxin requirements of this part, the testing laboratory shall electronically submit the results to USDA as described in paragraph (h) of this section within 10 working days of the test failure. This information must be submitted each time a lot fails aflatoxin testing.
 
-(h) *Reports and Recordkeeping: Notification of Aflatoxin Levels.* Each USDA or USDA-accredited laboratory shall notify the Marketing Order and Agreement Division, Specialty Crops Program, AMS, USDA of all aflatoxin test results for all lots by electronically submitting this form within 10 days of testing through a format specified by the Secretary.
+(h) *Reports and Recordkeeping: Notification of Aflatoxin Levels.* Each USDA or USDA-accredited laboratory shall notify the Market Development Division, Specialty Crops Program, AMS, USDA of all aflatoxin test results for all lots by electronically submitting this form within 10 days of testing through a format specified by the Secretary.
 
 (i) *Exemptions.* Any importer may import pistachios free of the requirements of this section if such importer imports a quantity not exceeding a total of 5,000 dried pounds between September 1 and August 31 of each year. Substandard pistachios imported for use in non-human consumption outlets shall be subject to the safeguard provisions contained in § 999.500.
 
@@ -120,4 +116,4 @@ Table 2—Shelled Pistachio Kernel Lot Sampling Increments for Aflatoxin Certifi
 
 (n) *Other import requirements.* The provisions of this section do not supersede any restrictions or prohibitions on pistachios under the Federal Plant Quarantine Act of 1912, or any other applicable laws or regulations of city, county, State, or Federal Agencies including the Federal Food, Drug and Cosmetic Act.
 
-[77 FR 51691, Aug. 27, 2012, as amended at 81 FR 87412, Dec. 5, 2016; 85 FR 12296, Mar. 6, 2020]
+[77 FR 51691, Aug. 27, 2012, as amended at 81 FR 87412, Dec. 5, 2016; 85 FR 12296, Mar. 6, 2020; 88 FR 82237, Nov. 24, 2023]

@@ -10,7 +10,7 @@
 
 (4) Such avocados are in containers marked with a Federal-State Inspection Service lot stamp number, when handled in containers authorized under § 915.305: Provided, That when inspection occurs after palletization, only all exposed or outside containers of avocados must be plainly marked with the lot stamp number corresponding to the lot inspection conducted by an authorized inspector.
 
-(5) Such avocados are in containers marked with a Federal-State Inspection Service (FSIS) lot stamp number applied to an adhesive tape seal affixed to the container in a manner to prevent the container from being opened and/or the fruit being removed without breaking the seal, when handled in containers other than those authorized under § 915.305. The stamp and tape shall be affixed to the container by the FSIS or by the handler under the supervision of the FSIS. Only stamps and tape which have been approved by the Fresh Products Branch, Fruit and Vegetable Division, Agricultural Marketing Service, U.S. Department of Agriculture, may be used for purposes of stamping and sealing containers to meet these requirements.
+(5) Such avocados are in containers marked with a Federal-State Inspection Service (FSIS) lot stamp number applied to an adhesive tape seal affixed to the container in a manner to prevent the container from being opened and/or the fruit being removed without breaking the seal, when handled in containers other than those authorized under § 915.305. The stamp and tape shall be affixed to the container by the FSIS or by the handler under the supervision of the FSIS. Only stamps and tape which have been approved by the Specialty Crops Inspection Division, Specialty Crops Program, Agricultural Marketing Service, U.S. Department of Agriculture, may be used for purposes of stamping and sealing containers to meet these requirements.
 
 (6) Such avocados when handled in containers authorized under § 915.305, except for those to export destinations, are marked once with the grade of fruit in letters and numbers at least 1 inch in height on the top or one side of the container, not to include the bottom.
 
@@ -20,4 +20,4 @@
 
 (c) Terms pertaining to grades and standard pack mean the same as those defined in the United States Standards for Florida Avocados (7 CFR 51.3050 through 51.3069).
 
-[50 FR 32553, Aug. 13, 1985, as amended at 56 FR 36080, July 31, 1991; 57 FR 3716, Jan. 31, 1992; 57 FR 48931, Oct. 29, 1992; 60 FR 42770, Aug. 17, 1995; 61 FR 31006, June 19, 1996; 63 FR 37480, July 13, 1998; 73 FR 66719, Nov. 12, 2008; 78 FR 51043, Aug. 20, 2013; 79 FR 67039, Nov. 12, 2014]
+[50 FR 32553, Aug. 13, 1985, as amended at 56 FR 36080, July 31, 1991; 57 FR 3716, Jan. 31, 1992; 57 FR 48931, Oct. 29, 1992; 60 FR 42770, Aug. 17, 1995; 61 FR 31006, June 19, 1996; 63 FR 37480, July 13, 1998; 73 FR 66719, Nov. 12, 2008; 78 FR 51043, Aug. 20, 2013; 79 FR 67039, Nov. 12, 2014; 88 FR 82232, Nov. 24, 2023]

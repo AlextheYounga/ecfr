@@ -1,5 +1,7 @@
 ##### § 679.91 Amendment 80 Program annual harvester privileges. #####
 
+Link to an amendment published at 88 FR 82770, Nov. 24, 2023.
+
 (a) *Assigning an Amendment 80 QS permit to an Amendment 80 cooperative or Amendment 80 limited access fishery*—(1) *General.* (i) Each calendar year, each Amendment 80 QS permit, associated Amendment 80 vessel, and Amendment 80 LLP license must be assigned to an Amendment 80 cooperative or the Amendment 80 limited access fishery in order to use that Amendment 80 QS permit, associated Amendment 80 vessel, and Amendment 80 LLP license to catch, process, or receive Amendment 80 species, crab PSC, or halibut PSC assigned to the Amendment 80 sector.
 
 (ii) NMFS will assign an Amendment 80 QS permit(s), associated Amendment 80 vessel(s), and Amendment 80 LLP license(s) held by an Amendment 80 QS holder to an Amendment 80 cooperative if that Amendment 80 QS permit(s), associated Amendment 80 vessel(s), and Amendment 80 LLP license(s) is designated on an application for CQ that is approved by the Regional Administrator as described under paragraph (b) of this section.

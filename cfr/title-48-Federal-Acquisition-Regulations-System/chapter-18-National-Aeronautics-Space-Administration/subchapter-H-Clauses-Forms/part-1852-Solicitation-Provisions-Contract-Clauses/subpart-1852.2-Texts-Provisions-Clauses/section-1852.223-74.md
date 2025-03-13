@@ -2,7 +2,7 @@
 
 As prescribed in 1823.570-2, insert the following clause:
 
-Drug- and Alcohol-Free Workforce (NOV 2015)
+Drug- and Alcohol-Free Workforce (OCT 2023)
 
 (a) Definitions.
 
@@ -50,4 +50,4 @@ Drug- and Alcohol-Free Workforce (NOV 2015)
 
 (g) The Contractor shall insert a clause containing all the terms of this clause, including this paragraph (g), in all subcontracts in which work is performed by an employee in a sensitive position, except subcontracts for Commercial Products and Commercial Services (see FAR parts 2 and 12).
 
-(End of clause)[61 FR 7226, Feb. 27, 1996, as amended at 69 FR 60968, Oct. 14, 2004; 80 FR 60554, Oct. 7, 2015; 88 FR 64385, Sept. 19, 2023]
+(End of clause)[61 FR 7226, Feb. 27, 1996, as amended at 69 FR 60968, Oct. 14, 2004; 80 FR 60554, Oct. 7, 2015; 88 FR 64385, Sept. 19, 2023; 88 FR 82275, Nov. 24, 2023]

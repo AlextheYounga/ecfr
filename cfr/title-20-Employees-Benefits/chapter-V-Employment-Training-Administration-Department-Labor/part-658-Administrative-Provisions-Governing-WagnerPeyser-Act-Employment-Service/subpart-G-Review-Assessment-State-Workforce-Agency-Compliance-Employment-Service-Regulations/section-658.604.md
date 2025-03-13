@@ -1,5 +1,7 @@
 ##### § 658.604 Assessment and evaluation of program performance data. #####
 
+Link to an amendment published at 88 FR 82736, Nov. 24, 2023.
+
 (a) State Workforce Agencies must compile program performance data required by the Department, including statistical information on program operations.
 
 (b) The Department must use the program performance data in assessing and evaluating whether each SWA has complied with ES regulations and its State Plan.

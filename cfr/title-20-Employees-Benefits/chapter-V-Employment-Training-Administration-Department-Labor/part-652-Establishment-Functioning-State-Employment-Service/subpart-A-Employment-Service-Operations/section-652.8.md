@@ -1,5 +1,7 @@
 ##### § 652.8 Administrative provisions. #####
 
+Link to an amendment published at 88 FR 82725, Nov. 24, 2023.
+
 (a) *Administrative requirements.* The Employment Security Manual is not applicable to funds appropriated under the Wagner-Peyser Act. Except as provided for in paragraph (f) of this section, administrative requirements and cost principles applicable to grants under this part are as specified in 2 CFR parts 200 and 2900 which govern the Uniform Guidelines, cost principles, and audit requirements for Federal awards.
 
 (b) *Management systems, reporting, and recordkeeping.* (1) The State must ensure that a financial system provides fiscal control and accounting procedures sufficient to permit preparation of required reports, and the tracing of funds to a level of expenditure adequate to establish that funds have not been expended in violation of the restrictions on the use of such funds. (sec. 10(a) of the Wagner-Peyser Act)

@@ -8,6 +8,6 @@
 
 (3) Any changes in location or production as reported for the preceding year.
 
-(b) In order to enable the Committee to insure compliance and verify furnished information, each producer requesting an annual allotment shall permit the Committee or its representatives, whenever necessary, to measure the producer's spearmint acreage.
+(b) In order to enable the Committee to ensure compliance and verify furnished information, each producer requesting an annual allotment shall permit the Committee or its representatives, whenever necessary, to measure the producer's spearmint acreage.
 
-[46 FR 43130, Aug. 27, 1981]
+[46 FR 43130, Aug. 27, 1981, as amended at 88 FR 82235, Nov. 24, 2023]

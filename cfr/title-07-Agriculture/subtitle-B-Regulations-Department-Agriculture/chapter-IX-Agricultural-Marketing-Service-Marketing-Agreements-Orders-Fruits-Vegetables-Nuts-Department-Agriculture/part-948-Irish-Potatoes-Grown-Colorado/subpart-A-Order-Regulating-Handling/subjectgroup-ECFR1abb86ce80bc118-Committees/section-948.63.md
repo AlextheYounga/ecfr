@@ -2,7 +2,7 @@
 
 (a) Each committee shall:
 
-(1) Meet and organize as soon as practical after the beginning of each term of office, select a chairman and such other officers' as may be necessary, select subcommittees and adopt such rules and procedures for the conduct of its business as it may deem advisable;
+(1) Meet and organize as soon as practical after the beginning of each term of office, select a chairperson and such other officers as may be necessary, select subcommittees and adopt such rules and procedures for the conduct of its business as it may deem advisable;
 
 (2) Act as intermediary between the Secretary and any producer or handler;
 
@@ -33,3 +33,5 @@
 (4) Submit to each area committee such available information as may be requested; and
 
 (5) Call joint meetings of area committees on matters requiring consideration of statewide marketing policies when requested to do so by an area committee.
+
+[25 FR 7092, July 27, 1960. Redesignated at 26 FR 12751, Dec. 30, 1961, as amended at 88 FR 82234, Nov. 24, 2023]

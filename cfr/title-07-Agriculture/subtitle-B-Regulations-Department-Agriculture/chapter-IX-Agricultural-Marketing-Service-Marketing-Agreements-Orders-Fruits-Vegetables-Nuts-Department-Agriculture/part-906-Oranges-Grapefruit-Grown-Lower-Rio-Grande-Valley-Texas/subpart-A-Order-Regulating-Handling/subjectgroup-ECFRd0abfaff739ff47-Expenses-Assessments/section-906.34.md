@@ -6,4 +6,6 @@
 
 (c) The rate of assessment may be increased at any time by the Secretary if he finds such increase is necessary in order that the money collected shall be adequate to cover the committee's expenses during a given fiscal period. Such increase shall be applicable to all fruit handled during such fiscal period.
 
-(d) The payment of assessments for the maintenance and functining of the committee may be required under this part throughout the period it is in effect irrespective of whether particular provisions of this part are suspended or become inoperative.
+(d) The payment of assessments for the maintenance and functioning of the committee may be required under this part throughout the period it is in effect irrespective of whether particular provisions of this part are suspended or become inoperative.
+
+[25 FR 9093, Sept. 22, 1960. Redesignated at 26 FR 12751, Dec. 30, 1961, as amended at 88 FR 82232, Nov. 24, 2023]

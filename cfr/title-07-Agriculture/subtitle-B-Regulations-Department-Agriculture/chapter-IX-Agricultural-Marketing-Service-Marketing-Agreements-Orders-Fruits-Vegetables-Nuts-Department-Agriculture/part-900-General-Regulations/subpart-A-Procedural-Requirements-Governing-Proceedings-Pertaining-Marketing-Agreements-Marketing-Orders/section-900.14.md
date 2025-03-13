@@ -8,6 +8,6 @@
 
 (d) *Effective date of marketing order.* No marketing order shall become effective less than 30 days after its publication in the Federal Register, unless the Secretary, upon good cause found and published with the order, fixes an earlier effective date therefor: *Provided,* That no marketing order shall become effective as to any person sought to be charged thereunder before either (1) it has been filed with the Office of the Federal Register, or (2) such person has received actual notice of the issuance and terms of the marketing order.
 
-(e) *Notice of issuance.* After issuance of a marketing order, such order shall be filed with the hearing clerk, and notice therof, together with notice of the effective date, shall be given by publication in the Federal Register. (7 U.S.C. 610(c).)
+(e) *Notice of issuance.* After issuance of a marketing order, such order shall be filed with the hearing clerk, and notice thereof, together with notice of the effective date, shall be given by publication in the Federal Register. (7 U.S.C. 610(c).)
 
-[25 FR 5907, June 28, 1960, as amended at 53 FR 15659, May 3, 1988]
+[25 FR 5907, June 28, 1960, as amended at 53 FR 15659, May 3, 1988; 88 FR 82231, Nov. 24, 2023]
