@@ -1,5 +1,7 @@
 ##### § 230.498A Summary Prospectuses for separate accounts offering variable annuity and variable life insurance contracts. #####
 
+Link to an amendment published at 89 FR 60085, July 24, 2024.
+
 (a) *Definitions.* For purposes of this section:
 
 *Class* means a class of a Contract that varies principally with respect to distribution-related fees and expenses.

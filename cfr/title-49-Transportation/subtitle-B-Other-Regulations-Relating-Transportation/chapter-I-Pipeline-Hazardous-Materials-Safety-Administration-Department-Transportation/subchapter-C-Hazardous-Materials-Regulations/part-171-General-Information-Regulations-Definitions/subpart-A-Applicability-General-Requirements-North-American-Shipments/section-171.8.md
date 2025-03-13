@@ -1,7 +1,5 @@
 ##### § 171.8 Definitions and abbreviations. #####
 
-Link to an amendment published at 89 FR 52992, June 24, 2024.
-
 In this subchapter,
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration.
@@ -727,7 +725,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Train* means one or more engines coupled with one or more rail cars, except during switching operations or where the operation is that of classifying and assembling rail cars within a railroad yard for the purpose of making or breaking up trains.
 
-*Train consist* means a written record of the contents and location of each rail car in a train.
+*Train consist information* means a hard (printed) copy or electronic record of the position and contents of each hazardous material rail car where the record includes the information required by § 174.26 of this subchapter.
 
 *Trainship* means a vessel other than a rail car ferry or carfloat, specifically equipped to transport railroad vehicles, and fitted with installed securing devices to tie down each vehicle.
 

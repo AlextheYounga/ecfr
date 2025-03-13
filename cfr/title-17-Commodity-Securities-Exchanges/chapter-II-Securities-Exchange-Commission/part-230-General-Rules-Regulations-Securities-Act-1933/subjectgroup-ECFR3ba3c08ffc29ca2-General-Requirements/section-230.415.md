@@ -1,5 +1,7 @@
 ##### § 230.415 Delayed or continuous offering and sale of securities. #####
 
+Link to an amendment published at 89 FR 60083, July 24, 2024.
+
 (a) Securities may be registered for an offering to be made on a continuous or delayed basis in the future, *Provided,* That:
 
 (1) The registration statement pertains only to:

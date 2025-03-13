@@ -1,7 +1,5 @@
 ##### § 180.503 Definitions. #####
 
-Link to an amendment published at 89 FR 52994, June 24, 2024.
-
 The following definitions and those contained in §§ 171.8 and 179.2 of this subchapter apply:
 
 *Coating/lining owner* means the person with the financial responsibility for purchasing and maintaining the integrity of the interior coating or lining.
@@ -59,6 +57,4 @@ Subparagraph (f)(2) may require thickness tests at an interval different from th
 
 *Tank car tank* means the shell, heads, tank shell and head weld joints, attachment welds, sumps, nozzles, flanges, and all other components welded thereto that are either in contact with the lading or contain the lading.
 
-*Train consist* means a written record of the contents and location of each rail car in a train.
-
-[77 FR 37986, June 25, 2012, as amended at 81 FR 35546, June 2, 2016]
+[77 FR 37986, June 25, 2012, as amended at 81 FR 35546, June 2, 2016; 89 FR 52994, June 24, 2024]

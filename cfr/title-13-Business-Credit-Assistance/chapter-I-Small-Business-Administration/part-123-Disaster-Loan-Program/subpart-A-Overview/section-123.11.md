@@ -1,5 +1,7 @@
 ##### § 123.11 Does SBA require collateral for any of its disaster loans? #####
 
+Link to an amendment published at 89 FR 59831, July 24, 2024.
+
 (a) When collateral is not required:
 
 (1) *Economic injury disaster loans.* Generally, SBA will not require that you pledge collateral to secure an economic injury disaster loan of $25,000 or less.

@@ -1,5 +1,7 @@
 ##### § 123.507 Under what circumstances will SBA consider waiving the $2 million loan limit? #####
 
+Link to an amendment published at 89 FR 59831, July 24, 2024.
+
 SBA will consider waiving the $2 million limit if you can certify to the following conditions and SBA approves of such certification based on the information supplied in your application:
 
 (a) Your small business is a major source of employment. A major source of employment is a business concern that, on or after the date of the disaster:

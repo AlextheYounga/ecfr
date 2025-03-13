@@ -1,5 +1,7 @@
 ##### § 230.497 Filing of investment company prospectuses—number of copies. #####
 
+Link to an amendment published at 89 FR 60085, July 24, 2024.
+
 (a) Five copies of every form of prospectus sent or given to any person prior to the effective date of the registration statement that varies from the form or forms of prospectus included in the registration statement filed pursuant to § 230.402(a) shall be filed as part of the registration statement not later than the date that form of prospectus is first sent or given to any person, except that an investment company advertisement under § 230.482 shall be filed under this paragraph (a) (but not as part of the registration statement) unless filed under paragraph (i) of this section.
 
 (b) For unit investment trusts filing on § 274.12 of this chapter (Form N-8B-2) or § 239.16 of this chapter (Form S-6), within five days after the effective date of a registration statement or the commencement of a public offering after the effective date of a registration statement, whichever occurs later, 10 copies of each form of prospectus used after the effective date in connection with such offering shall be filed with the Commission in the exact form in which it was used. A registrant must submit an Interactive Data File (as defined in § 232.11 of this chapter) if required by the form on which it files its registration statement.
