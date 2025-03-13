@@ -1,5 +1,7 @@
 ##### § 416.1141 When the presumed value rule applies. #####
 
+Link to an amendment published at 89 FR 21210, Mar. 27, 2024.
+
 The presumed value rule applies whenever we must count in-kind support and maintenance as unearned income and the one-third reduction rule does not apply. This means that the presumed value rule applies if you are living—
 
 (a) In another person's household (as described in § 416.1132(b)) but not receiving both food and shelter from that person;

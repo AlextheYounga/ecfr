@@ -30,4 +30,4 @@
 
 (f) *Third country sales and constructed value.* The Secretary normally will calculate normal value based on sales to a third country rather than on constructed value if adequate information is available and verifiable (*see* section 773(a)(4) of the Act (use of constructed value)).
 
-[62 FR 27379, May 19, 1997, as amended at 88 FR 67077, Sept. 29, 2023]
+[62 FR 27379, May 19, 1997, as amended at 88 FR 67080, Sept. 29, 2023]

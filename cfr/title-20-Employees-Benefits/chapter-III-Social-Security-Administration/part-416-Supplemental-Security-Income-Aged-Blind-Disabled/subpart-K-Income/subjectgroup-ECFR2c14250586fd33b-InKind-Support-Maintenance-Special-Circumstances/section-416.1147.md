@@ -1,5 +1,7 @@
 ##### § 416.1147 How we value in-kind support and maintenance for a couple. #####
 
+Link to an amendment published at 89 FR 21210, Mar. 27, 2024.
+
 (a) *Both members of a couple live in another person's household and receive food and shelter from that person.* When both of you live in another person's household throughout a month and receive food and shelter from that person, we apply the one-third reduction to the Federal benefit rate for a couple (§ 416.1131).
 
 (b) *One member of a couple lives in another person's household and receives food and shelter from that person and the other member of the couple is in a medical institution.* (1) If one of you is living in the household of another person who provides you with both food and shelter, and the other is temporarily absent from the household as provided in § 416.1149(c)(1) (in a medical institution that receives substantial Medicaid payments for his or her care (§ 416.211(b))), and is ineligible in the month for either benefit payable under § 416.212, we compute your benefits as if you were separately eligible individuals (see § 416.414(b)(3)). This begins with the first full calendar month that one of you is in the medical institution. The one living in another person's household is eligible at an eligible individual's Federal benefit rate and one-third of that rate is counted as income not subject to any income exclusions. The one in the medical institution cannot receive more than the reduced benefit described in § 416.414(b)(3)(i).

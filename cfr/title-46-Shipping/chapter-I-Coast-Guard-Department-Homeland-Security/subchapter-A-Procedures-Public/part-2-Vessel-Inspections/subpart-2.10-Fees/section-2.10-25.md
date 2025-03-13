@@ -1,8 +1,18 @@
 ##### § 2.10-25 Definitions. #####
 
-Link to an amendment published at 88 FR 89607, Dec. 28, 2023.
-
 The following definitions apply to this subpart:
+
+*Alternative Compliance Program option* means the option described in 46 CFR part 8, subpart D.
+
+*Annual vessel inspection fee* means the fee charged for inspection and related services provided by the Coast Guard to determine whether a vessel meets the requirements to maintain its Certificate of Inspection.
+
+*Coast Guard option* means an option used by—
+
+(1) A vessel inspected under a 46 CFR subchapter that is not participating in the Alternative Compliance Program described in 46 CFR part 8, subpart D;
+
+(2) A vessel inspected under a 46 CFR subchapter that is not participating in the Streamlined Inspection Program described in 46 CFR part 8, subpart E; or
+
+(3) A vessel inspected under 46 CFR subchapter M that is not participating in the Towing Safety Management System option described in 46 CFR part 138.
 
 *Drill ship MODU* means a mobile offshore drilling unit with a ship shape displacement hull intended for operation in the floating condition.
 
@@ -64,7 +74,7 @@ The following definitions apply to this subpart:
 
 *Sailing school vessel* means a vessel of less than 500 gross tons, carrying more than 6 individuals who are sailing school instructors or sailing school students, principally equipped for propulsion by sail even if the vessel has an auxiliary means of propulsion, and owned or demise chartered and operated by a qualified organization during such times as the vessel is operated exclusively for the purposes of sailing instruction.
 
-*Sea-going towing vessel* means a sea-going commercial vessel engaged in or intending to engage in the service of pulling, pushing or hauling alongside, or any combination of pulling, pushing or hauling alongside, that has been issued a Certificate of Inspection under the provisions of subchapter I of this chapter.
+*Seagoing towing vessel* means a commercial vessel 300 gross tons or more engaged in or intending to engage in the service of pulling, pushing, or hauling alongside, or any combination of pulling, pushing, or hauling alongside, and that makes voyages beyond the Boundary Line as defined by 46 U.S.C. 103, and has been issued a Certificate of Inspection under the provisions of subchapter I of this chapter.
 
 *Self-elevating MODU* means a mobile offshore drilling unit with movable legs capable of raising its hull above the surface of the sea.
 
@@ -84,6 +94,8 @@ The following definitions apply to this subpart:
 
 *State* means a State of the United States, Guam, Puerto Rico, the Virgin Islands, American Samoa, the District of Columbia, the Northern Mariana Islands and any other territory or possession of the United States.
 
+*Streamlined Inspection Program option* means the option described in 46 CFR part 8, subpart E.
+
 *Submersible MODU* means a mobile offshore drilling unit intended for drilling operations in the bottom-bearing condition, having the main deck connected to an underwater hull or pontoons by way of columns or caissons.
 
 *Submersible vessel* means a vessel that is capable of operating below the surface of the water.
@@ -94,10 +106,14 @@ The following definitions apply to this subpart:
 
 *Tankship* means any tank vessel propelled by power or sail, including an integrated tug and barge designed to operate together only in the pushing mode.
 
+*Towing Safety Management System option* means the option described in 46 CFR part 138 for towing vessels subject to 46 CFR subchapter M.
+
+*Towing vessel* means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling alongside, or any combination of pulling, pushing, or hauling alongside.
+
 *User fee anniversary date* means the date on which a vessel's annual inspection fee is due each year. Once established by the Coast Guard, a vessel's user fee anniversary date remains fixed for as long as the vessel remains in service.
 
 *Vessel identification number* (VIN) means a U.S. official number, a number assigned by a State, a number assigned by the Coast Guard, or a Lloyd's Register of Shipping identification number issued to a U.S. or foreign commercial vessel for purposes of vessel identification. For U.S. vessels, VIN means the number listed on the Certificate of Inspection. For foreign vessels, VIN means either the Lloyd's Register of Shipping identification number or the number assigned by the Coast Guard.
 
 *Youth* means an individual 21 years of age or younger.
 
-[CGD 91-030, 60 FR 13563, Mar. 13, 1995, as amended by CGD 96-067, 62 FR 19232, Apr. 21, 1997; CGD 97-057, 62 FR 51041, Sept. 30, 1997; CGD 96-067, 63 FR 59474, Nov. 4, 1998; USCG 2008-1107; 74 FR 63628, Dec. 4, 2009; USCG-2012-0208, 79 FR 48924, Aug. 18, 2014; USCG-2006-24412, 81 FR 40100, June 20, 2016]
+[CGD 91-030, 60 FR 13563, Mar. 13, 1995, as amended by CGD 96-067, 62 FR 19232, Apr. 21, 1997; CGD 97-057, 62 FR 51041, Sept. 30, 1997; CGD 96-067, 63 FR 59474, Nov. 4, 1998; USCG 2008-1107; 74 FR 63628, Dec. 4, 2009; USCG-2012-0208, 79 FR 48924, Aug. 18, 2014; USCG-2006-24412, 81 FR 40100, June 20, 2016; USCG-2018-0538, 88 FR 89607, Dec. 28, 2023]

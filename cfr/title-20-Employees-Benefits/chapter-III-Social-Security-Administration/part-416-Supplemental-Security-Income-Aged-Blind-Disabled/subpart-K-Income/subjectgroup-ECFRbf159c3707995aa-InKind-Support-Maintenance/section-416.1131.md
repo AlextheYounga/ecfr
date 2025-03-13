@@ -1,5 +1,7 @@
 ##### § 416.1131 The one-third reduction rule. #####
 
+Link to an amendment published at 89 FR 21210, Mar. 27, 2024.
+
 (a) *What the rule is.* Instead of determining the actual dollar value of in-kind support and maintenance, we count one-third of the Federal benefit rate as additional income if you (or you and your eligible spouse)—
 
 (1) Live in another person's household (see § 416.1132) for a full calendar month except for temporary absences (see § 416.1149), and

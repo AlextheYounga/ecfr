@@ -1,5 +1,7 @@
 ##### § 416.1133 What is a pro rata share of household operating expenses. #####
 
+Link to an amendment published at 89 FR 21210, Mar. 27, 2024.
+
 (a) *General.* If you pay your pro rata share toward monthly household operating expenses, you are living in your own household and are not receiving in-kind support and maintenance from anyone else in the household. The one-third reduction, therefore, does not apply to you. (If you are receiving food or shelter from someone outside the household, we value it under the rule in § 416.1140.)
 
 (b) *How we determine a pro rata share.* Your pro rata share of household operating expenses is the average monthly household operating expenses (based on a reasonable estimate if exact figures are not available) divided by the number of people in the household, regardless of age.

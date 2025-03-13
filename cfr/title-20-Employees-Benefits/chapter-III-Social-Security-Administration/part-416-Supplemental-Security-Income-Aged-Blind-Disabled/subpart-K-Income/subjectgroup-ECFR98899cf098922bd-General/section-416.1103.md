@@ -1,5 +1,7 @@
 ##### § 416.1103 What is not income? #####
 
+Link to an amendment published at 89 FR 21209, Mar. 27, 2024.
+
 Some things you receive are not income because you cannot use them as food or shelter, or use them to obtain food or shelter. In addition, what you receive from the sale or exchange of your own property is not income; it remains a resource. The following are some items that are not income:
 
 (a) *Medical care and services.* Medical care and services are not income if they are any of the following:

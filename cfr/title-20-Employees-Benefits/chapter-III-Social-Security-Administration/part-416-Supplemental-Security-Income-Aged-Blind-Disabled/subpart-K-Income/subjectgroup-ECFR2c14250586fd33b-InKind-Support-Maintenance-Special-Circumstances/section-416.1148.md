@@ -1,5 +1,7 @@
 ##### § 416.1148 If you have both in-kind support and maintenance and income that is deemed to you. #####
 
+Link to an amendment published at 89 FR 21211, Mar. 27, 2024.
+
 (a) *The one-third reduction and deeming of income.* If you live in the household of your spouse, parent, essential person, or sponsor whose income can be deemed to you, or the household of a parent whose income is not deemed to you because of the provisions of § 416.1165(i), the one-third reduction does not apply to you. The rules on deeming income are in §§ 416.1160 through 416.1169. However, if you live in another person's household as described in § 416.1131, and someone whose income can be deemed to you lives in the same household, we must apply both the one-third reduction and the deeming rules to you.
 
 (b) *The presumed value rule and deeming of income.* (1) If you live in the same household with someone whose income can be deemed to you (§§ 416.1160 through 416.1169), or with a parent whose income is not deemed to you because of the provisions of § 416.1165(i), any food or shelter that person provides is not income to you. However, if you receive any food or shelter from another source, it is income and we value it under the presumed value rule (§ 416.1140). We also apply the deeming rules.

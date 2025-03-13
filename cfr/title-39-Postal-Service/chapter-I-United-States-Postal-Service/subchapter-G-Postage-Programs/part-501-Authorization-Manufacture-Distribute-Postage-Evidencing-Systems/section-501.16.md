@@ -1,7 +1,5 @@
 ##### § 501.16 PC postage payment methodology. #####
 
-Link to an amendment published at 89 FR 13981, Feb. 26, 2024.
-
 (a) The PC Postage customer is permitted to make payments for postage in one of two ways: Automated clearinghouse (ACH) transfer or credit card.
 
 (b) The provider must make payments on behalf of the customer to the Postal Service in accordance with contractual and/or regulatory responsibilities.
@@ -12,7 +10,15 @@ Link to an amendment published at 89 FR 13981, Feb. 26, 2024.
 
 (2) Credit cards.
 
-(d) *Financial responsibility for returned payments.* The provider must reimburse the Postal Service upon request for any returned checks or ACH debits for postage payments. The provider must, upon first becoming aware of a returned check or ACH debit, immediately lock the customer account to prevent resetting the account until the provider receives confirmation of payment for the returned item. If a penalty or fine is assessed against the Postal Service for returned checks or ACH debit payments from a provider's customer, the Postal Service may request reimbursement for such penalty or fine from the provider. The provider is required to remit the amount of the returned item plus the amount of the reimbursement request, to the extent applicable, to the Postal Service within ten (10) banking days. Invoices will be created monthly for returns and/or applicable penalties or fines incurred for the previous month. The 10 banking days will start once the invoice is mailed. The provider has discretion to decide whether to charge its customer for any such reimbursement costs (of penalties or fines) the provider pays to the Postal Service in connection with the customer's returned check or ACH debit.
+(d) The provider must reimburse the Postal Service for returned payments promptly, comply with NACHA rules, and maintain customer ACH agreements.
+
+(1) *Financial responsibility for returned payments.* The provider must reimburse the Postal Service upon request for any returned payments. The provider must, upon first becoming aware of a returned payment, immediately lock the customer account to prevent resetting the account until the provider receives confirmation of payment for the returned payment. If a fee, penalty or fine is assessed against the Postal Service for returned payments from a provider's customer, the Postal Service may request reimbursement for such fee, penalty or fine from the provider. The provider is required to remit the amount of the returned payment plus the amount of the reimbursement request, to the extent applicable, to the Postal Service within ten (10) banking days. Invoices will be created monthly for returns and/or applicable penalties or fines incurred for the previous month. The ten (10) banking days will start once the invoice is mailed. The provider has discretion to decide whether to charge its customer for any such reimbursement costs (of fees, penalties or fines) the provider pays to the Postal Service in connection with the customer's returned payment.
+
+(2) *Responsibility to comply with NACHA rules.* The provider is required to comply with the most recent edition of the NACHA rules, published annually by the North American Clearing House Association. Failure to comply may result in revocation of access to applicable Postal Service ACH programs.
+
+(3) *Responsibility to maintain customer ACH agreements.* The provider must obtain and store an agreement with each and every customer utilizing ACH debit as a payment method. The customer agreement must authorize the provider to debit the designated bank account identified to pay for postage through the Postal Service account of its choice. The agreement must have at least the following elements: Company Name (if applicable), Name and Title and Address of the person entering into the agreement, Contact Information (Phone Number, Fax Number and eMail Address as applicable), Date and Signature (or appropriate electronic signature evidence) of Agreement, Customer's Bank Name, Bank Routing Number, Account Number and Account Type (Checking or Savings, Business or Personal) being agreed to transact upon, an Attestation that the person submitting the form is authorized to act on behalf of the account, and Termination Date of the Agreement (if applicable). A revision period until August 31, 2024, will be provided to update agreement forms to include the minimum data elements listed. The agreement must be stored for at least two years after termination of the agreement, must be easily reproducible, and must be provided electronically to the Postal Service within three business days of electronic written request by the Postal Service in a format that can be easily and readily used for all NACHA and ACH related purposes including, without limitation, audit and defense of claims. The Postal Service will provide specific written guidance separately if requested. Failure to comply may result in revocation of access to applicable Postal Service ACH programs.
+
+(4) *Credit cards.* Unless otherwise established in a written agreement between the Postal Service and the provider, the provider is fully responsible for its own credit card compliance.
 
 (e) *Refunds.* The provider issues a refund to a customer for any unused postage in a Postage Evidencing System. After verification by the Postal Service, the provider will be reimbursed by the Postal Service for the individual refunds provided to customers by the provider.
 
@@ -70,7 +76,7 @@ By signing this agreement with the provider, you represent that you have read th
 
 (B) Does not owe any money to the Postal Service and is not a controlling member or officer of an entity that owes money to the Postal Service, and
 
-(C) Authorizes the PC Postage provider to disclose the customer's personal information to the Postal Service and such other information retained by the PC Postage provider that may enable the Postal Service to collect debts owed to it;
+(C) Authorizes the PC Postage provider to disclose the customer's personal information to the Postal Service, and such other information retained by the PC Postage provider that may enable the Postal Service to collect debts owed to it, and has the proper authority to disclose such information;
 
 (iii) Maintain a complete and accurate record for each customer, which includes such customer's current name and a valid U.S. address that is sufficient for service of process under the law, as well as a copy of all terms agreed to by the customer and the date of such agreements;
 
@@ -82,4 +88,4 @@ By signing this agreement with the provider, you represent that you have read th
 
 (6) In the event that the Postal Service fails to exercise or delays exercising any right, remedy, or privilege under this paragraph, such failure or delay shall not operate as a waiver thereof or of any other provision hereof, nor shall any single or partial exercise of any right, remedy, or privilege preclude any further exercise of the same. The rights and remedies available to the Postal Service under this paragraph are cumulative and in addition to, and do not diminish, any rights or remedies otherwise available to the Postal Service.
 
-[72 FR 33163, June 15, 2007, as amended at 75 FR 56472, Sept. 16, 2010; 79 FR 10995, Feb. 27, 2014; 80 FR 42392, July 17, 2015; 82 FR 15465, Mar. 29, 2017; 85 FR 12873, Mar. 5, 2020]
+[72 FR 33163, June 15, 2007, as amended at 75 FR 56472, Sept. 16, 2010; 79 FR 10995, Feb. 27, 2014; 80 FR 42392, July 17, 2015; 82 FR 15465, Mar. 29, 2017; 85 FR 12873, Mar. 5, 2020; 89 FR 13981, Feb. 26, 2024]

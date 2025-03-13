@@ -14,4 +14,4 @@ Link to an amendment published at 89 FR 20837, Mar. 25, 2024.
 
 (3) *Manufacturing overhead, general expenses, and profit.* For manufacturing overhead, general expenses, and profit, the Secretary normally will use non-proprietary information gathered from producers of identical or comparable merchandise in the surrogate country.
 
-[62 FR 27379, May 19, 1997, as amended at 78 FR 46804, Aug. 2, 2013; 88 FR 67080, Sept. 29, 20223]
+[62 FR 27379, May 19, 1997, as amended at 78 FR 46804, Aug. 2, 2013; 88 FR 67080, Sept. 29, 2023]

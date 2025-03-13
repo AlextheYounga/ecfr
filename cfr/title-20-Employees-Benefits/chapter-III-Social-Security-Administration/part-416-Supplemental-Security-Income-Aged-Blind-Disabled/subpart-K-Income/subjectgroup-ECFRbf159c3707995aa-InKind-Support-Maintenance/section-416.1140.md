@@ -1,5 +1,7 @@
 ##### § 416.1140 The presumed value rule. #####
 
+Link to an amendment published at 89 FR 21210, Mar. 27, 2024.
+
 (a) *How we apply the presumed value rule.* (1) When you receive in-kind support and maintenance and the one-third reduction rule does not apply, we use the presumed value rule. Instead of determining the actual dollar value of any food or shelter you receive, we presume that it is worth a maximum value. This maximum value is one-third of your Federal benefit rate plus the amount of the general income exclusion described in § 416.1124(c)(12).
 
 (2) The presumed value rule allows you to show that your in-kind support and maintenance is not equal to the presumed value. We will not use the presumed value if you show us that—

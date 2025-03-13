@@ -1,7 +1,5 @@
 ##### § 17.84 Species-specific rules—vertebrates. #####
 
-Link to an amendment published at 88 FR 77036, Nov. 8, 2023.
-
 (a) Guam kingfisher, sihek (*Todiramphus cinnamominus*).
 
 (1) *Where is the occurrence of sihek designated as a nonessential experimental population (NEP)?* The nonessential experimental population (NEP) area for the sihek is Palmyra Atoll. Palmyra Atoll is located in the Northern Line Islands, approximately 1,000 miles (1,609 km) south of Honolulu, Hawaii (5° 53′N latitude, 162° 05′W longitude). The extent of the NEP area for sihek is the 250 ha (618 ac) of emergent land distributed among 25 islands, inclusive of the lagoons surrounding those islands.
@@ -314,7 +312,7 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (12) We will not include a reevaluation of the “nonessential experimental” designation for these populations during our review of the initial five year reintroduction program. We do not foresee any likely situation justifying alteration of the nonessential experimental status of these populations. Should any such alteration prove necessary and it results in a substantial modification to black-footed ferret management on non-Federal lands, any private landowner who consented to the introduction of black-footed ferrets on their lands may rescind their consent, and at their request, we will relocate the ferrets pursuant to paragraph (g)(4)(iii) of this section.
 
-![](/graphics/ec01jn91.003.gif)![](/graphics/ec01jn91.004.gif)![](/graphics/ec01jn91.005.gif)![](/graphics/er05oc23.062.gif)![](/graphics/er01oc98.095.gif)![](/graphics/er13oc00.006.gif)![](/graphics/er16my03.021.gif)![](/graphics/er30oc15.016.gif)
+![](/graphics/ec01jn91.03.gif)![](/graphics/ec01jn9104.gif)![](/graphics/ec01jn91.005.gif)![](/graphics/er05oc23.062.gif)![](/graphics/er01oc98.095.gif)![](/graphics/er13oc00.006.gif)![](/graphics/er16my03.021.gif)![](/graphics/er30oc15.016.gif)
 
 (h) Whooping crane (*Grus americana*). (1) The whooping crane populations identified in paragraphs (h)(9)(i) through (iv) of this section are nonessential experimental populations (NEPs) as defined in § 17.80.
 
@@ -358,7 +356,7 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (ii) The States of Colorado, Idaho, New Mexico, and Utah, and the western half of the State of Wyoming (the Rocky Mountain NEP).
 
-(iii) That portion of the eastern contiguous United States that includes the States of Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, North Carolina, Ohio, South Carolina, Tennessee, Virginia, West Virginia, and Wisconsin (the Eastern Migratory NEP). Whooping cranes within this population are expected to occur mostly within the States of Wisconsin, Illinois, Indiana, Kentucky, Tennessee, Georgia, and Florida. The additional States included within the experimental population area are those expected to receive occasional use by the cranes, or which may be used as breeding or wintering areas in the event of future population expansion.
+(iii) That portion of the eastern contiguous United States that includes the States of Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, North Carolina, Ohio, South Carolina, Tennessee, Virginia, West Virginia, and Wisconsin (the Eastern Migratory NEP). Whooping cranes within this population are expected to occur mostly within the States of Wisconsin, Ilinois, Indiana, Kentucky, Tennessee, Georgia, and Florida. The additional States included within the experimental population area are those expected to receive occasional use by the cranes, or which may be used as breeding or wintering areas in the event of future population expansion.
 
 (iv) The entire State of Louisiana (the Louisiana Nonmigratory NEP). The reintroduction site is the White Lake Wetlands Conservation Area of southwestern Louisiana in Vermilion Parish. Current information indicates that White Lake is the historic location of a resident nonmigratory population of whooping cranes that bred and reared young in Louisiana. Whooping cranes within this nonmigratory population are expected to occur mostly within the White Lake Wetlands Conservation Area and the nearby wetlands in Vermilion Parish. The marshes and wetlands of southwestern Louisiana are expected to receive occasional use by the cranes and may be used in the event of future population expansion.
 
@@ -492,7 +490,7 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (2) *Determinations.* The Mexican wolf population reestablished in the Mexican Wolf Experimental Population Area (MWEPA), identified in paragraph (k)(4) of this section, is one nonessential experimental population. This nonessential experimental population will be managed according to the provisions of this rule. The Service does not intend to change the nonessential experimental designation to essential experimental, threatened, or endangered. Critical habitat cannot be designated under the nonessential experimental classification, 16 U.S.C. 1539(j)(2)(C)(ii).
 
-(3) *Definitions.* Key terms used in this rule have the following definitions:
+(3) *Definitions.* Key terms used in this rule have the following dfinitions:
 
 *Active den* means a den or a specific site above or below ground that is used by Mexican wolves on a daily basis to bear and raise pups, typically between approximately April 1 and July 31. More than one den site may be used in a single season.
 
@@ -954,7 +952,205 @@ The boundaries of the Experimental Population Area are delineated by U.S. 93 fro
 
 ![](/graphics/er13se07.002.gif)
 
-(n) [Reserved]
+(n) Wolf, gray (*Canis lupus*). (1) *Purpose.* The regulations in this paragraph (n) set forth the provisions of a rule to establish an experimental population of gray wolves. The Service finds that establishment of an experimental population of gray wolves as described in this paragraph (n) will further the conservation of the species.
+
+(2) *Determinations.* The gray wolves identified in paragraph (n)(3) of this section constitute a nonessential experimental population (NEP) under § 17.81(c)(2). These wolves will be managed in accordance with the provisions of this rule in the boundaries of the NEP area within the State of Colorado or any Tribal reservation found in the State that has a wolf management plan, as further provided in this rule. Furthermore, the State of Colorado or any Tribe within the State that has a wolf management plan consistent with this rule can request to assume the lead authority for wolf management under this rule within the borders of the NEP area in the State or reservation as set forth in paragraph (n)(10) of this section.
+
+(3) *Designated area.* The Colorado NEP area encompasses the entire State of Colorado. All gray wolves found in the wild within the boundary of the Colorado NEP area are considered nonessential experimental animals. Any gray wolf that is outside the Colorado NEP area, with the exception of wolves in the States of Idaho, Minnesota, Montana, Wyoming, and portions of the States of Oregon, Washington, and Utah, is considered endangered. Any wolf originating from the Colorado NEP area and dispersing beyond its borders may be managed by the wolf management regulations established for that area or may be returned to the Colorado NEP area.
+
+(4) *Definitions.* Key terms used in this rule have the following meanings:
+
+*Designated agent*—An employee of a Federal, State, or Tribal agency that is authorized or directed by the Service to conduct gray wolf management consistent with this rule.
+
+*Intentional harassment*—The deliberate and pre-planned harassment of wolves, including by less-than-lethal munitions that are designed to cause physical discomfort and temporary physical injury but not death.
+
+*In the act of attacking*—The actual biting, wounding, grasping, or killing of livestock or working dogs or chasing, molesting, or harassing by wolves that would indicate to a reasonable person that such biting, wounding, grasping, or killing of livestock or working dogs is likely to occur at any moment.
+
+*Landowner*—Any of the following entities:
+
+(A) An owner or lessee of private land, or their immediate family members, or the owner's employees, contractors, or volunteers who are currently employed to actively work on that private land.
+
+(B) The owners, or their employees or contractors, of livestock that are currently and legally grazed on private land and herding and guarding animals (such as alpacas, llamas, or donkeys) and other leaseholders on private land, such as outfitters or guides who lease hunting rights from private landowners.
+
+(C) Individuals legally using Tribal lands in the State of Colorado.
+
+*Livestock*—Cattle, sheep, pigs, horses, mules, goats, domestic bison, and herding and guarding animals (alpacas, llamas, donkeys, and certain breeds of dogs commonly used for herding or guarding livestock). Livestock excludes dogs that are not being used for livestock guarding or herding.
+
+*Livestock producer*—A person who is actively engaged in farming/ranching and receives income from the production of livestock.
+
+*Non-injurious*—Does not cause either temporary or permanent physical damage or death.
+
+*Opportunistic harassment*—Harassment without the conduct of prior purposeful actions to attract, track, wait for, or search out the wolf. Opportunistic harassment includes scaring wolves with noise (e.g., yelling or shooting firearms into the air), movement (e.g., running or driving toward the wolf), or objects (e.g., throwing a rock at a wolf or releasing bear pepper spray).
+
+*Private land*—All land other than that under Federal Government ownership and administration and including Tribal reservations.
+
+*Public land*—Federal land such as that administered by the National Park Service, U.S. Fish and Wildlife Service, Bureau of Land Management, Bureau of Reclamation, U.S. Department of Agriculture's Forest Service, Department of Defense, or other agencies within the Federal Government.
+
+*Public land permittee*—A person or that person's employee who has an active, valid Federal land-use permit to use specific Federal lands to graze livestock or operate an outfitter or guiding business that uses livestock and Tribal members who legally graze their livestock on ceded public lands under recognized Tribal treaty rights. This term does not include private individuals or organizations who have Federal permits for other activities on public land such as collecting firewood, mushrooms, antlers, or Christmas trees, logging, mining, oil or gas development, or other uses that do not require livestock.
+
+*Relocation*—Capture and movement to another location.
+
+*Remove*—Place in captivity or kill.
+
+*Research*—Scientific studies resulting in data that will lend to enhancement of the survival of the gray wolf.
+
+*Rule*—The regulations in this paragraph (n).
+
+*Tribal land*—Any lands where title is either held in trust by the United States for the benefit of an Indian Tribe or individual Indian or held by an Indian Tribe or individual Indian subject to restrictions by the United States against alienation (*i.e.,* sale or transfer).
+
+*Unacceptable impact*—Tribally determined decline in a wild ungulate population or herd where wolf predation is a major cause of the population or herd not meeting established Tribal management goals on Tribal land. The Tribal determination must be peer-reviewed and reviewed and commented on by the public prior to a final, written determination by the Service that an unacceptable impact has occurred and that wolf removal will benefit the affected ungulate herd or population.
+
+*Working dogs*—Guard or herding dogs typically used in livestock production.
+
+*Wounded*—Exhibiting scraped or torn hide or flesh, bleeding, or other evidence of physical damage caused by a wolf.
+
+(5) *Allowable forms of take of gray wolves.* Take of gray wolves in the experimental population is allowed without a permit only in these specific circumstances: opportunistic harassment; intentional harassment; take in defense of human life; take to protect human safety; take by designated agents to remove depredating wolves; incidental take; take under any previously authorized permits issued by the Service; take per authorizations for employees of designated agents; take for research purposes; and take to protect livestock animals and working dogs. Consistent with the requirements of the State or Tribe, take is allowed on private land. Take on public land is allowed as specified in paragraph (n)(5)(iv)(A) of this section. Other than as expressly provided by the regulations in this rule, all other forms of take are considered a violation of section 9 of the Act. Any wolf or wolf part taken legally must be turned over to the Service unless otherwise specified in this rule. Any take of wolves must be reported as set forth in paragraph (n)(6) of this section.
+
+(i) *Opportunistic harassment.* Anyone may conduct opportunistic harassment of any gray wolf in a non-injurious manner at any time. Opportunistic harassment must be reported to the Service or a designated agent within 7 days as set forth in paragraph (n)(6) of this section.
+
+(ii) *Intentional harassment.* After we or a designated agent have confirmed wolf activity on private land or a public land grazing allotment, we or the designated agent may issue written take authorization, with appropriate conditions, valid for not longer than 1 year to any landowner or public land permittee to intentionally harass wolves. The harassment must occur in the area and under the conditions as specifically identified in the written take authorization. Intentional harassment must be reported to the Service or a designated agent(s) within 7 days as set forth in paragraph (n)(6) of this section. The provisions in this paragraph (n)(5)(ii) do not apply if there is evidence of unusual attractants or artificial or intentional feeding.
+
+(iii) *Take by landowners on their private land.* Landowners may take wolves on their private land in the following two additional circumstances:
+
+(A) Consistent with State or Tribal requirements, any landowner may take a gray wolf in the act of attacking livestock or working dogs on private land (owned or leased), provided that there is no evidence of intentional baiting, feeding, or deliberate attractants of wolves. To preserve physical evidence that the livestock or working dogs were recently attacked by a wolf or wolves, the carcass of any wolf taken and surrounding area must not be disturbed. The Service or designated agent must be able to confirm that the livestock or dogs were wounded, harassed, molested, or killed by wolves. The take of any wolf without such evidence of a direct and immediate threat may be referred to the appropriate authorities for prosecution.
+
+(B) The Service or designated agent may issue a “depredation” written take authorization of limited duration (45 days or fewer) to a landowner or their employees to take up to a specified (by the Service or our designated agent) number of wolves on their private land if:
+
+(*1*) The landowner has had at least one depredation by wolves on livestock that has been confirmed by the Service or our designated agent within the last 30 days; and
+
+(*2*) The Service or our designated agent has determined that depredating wolves routinely occur on the private land and present a significant risk to the health and safety of livestock; and
+
+(*3*) The Service or our designated agent has authorized lethal removal of wolves from those same private lands.
+
+(*4*) The authorizations set forth by this paragraph (n)(5)(iii)(B) may be terminated at any time once threats have been resolved or minimized.
+
+(iv) *Take on public land.* Consistent with State or Tribal requirements, any livestock producer and public land permittee (see definitions in paragraph (n)(4) of this section) who is legally using public land under a valid Federal land-use permit may, without prior written authorization, take a gray wolf in the act of attacking livestock or working dogs on the person's allotment or other area authorized for the person's use.
+
+(A) The Service or designated agent must be able to confirm that the livestock or working dog was wounded, harassed, molested, or killed by a wolf or wolves. To preserve physical evidence that the take was conducted according to this rule, the carcass of any wolf taken and the area surrounding it should not be disturbed. Any person legally present on public land may immediately take a wolf that is in the act of attacking the individual's livestock animal or working dog, provided conditions described in paragraph (n)(5)(iii)(A) of this section for private land (*i.e.,* “in the act of attacking”) are met. Any take or method of take on public land must be consistent with the laws and regulations on those public lands.
+
+(B) The Service or our designated agent may issue a “depredation” written take authorization of limited duration (45 days or fewer) to a public land grazing permittee to take up to a specified (by the Service or our designated agent) number of wolves on that permittee's active livestock grazing allotment if all of the following situations occur:
+
+(*1*) The grazing allotment has had at least one depredation by wolves on livestock that has been confirmed by the Service or our designated agent within the last 30 days; and
+
+(*2*) The Service or our designated agent has determined that depredating wolves routinely occur on that allotment and present a significant risk to the health and safety of livestock; and
+
+(*3*) The Service or our designated agent has authorized lethal removal of wolves from that same allotment.
+
+(*4*) The authorizations set forth by this paragraph (n)(5)(iv)(B) may be terminated at any time once threats have been resolved or minimized.
+
+(*5*) Any take or method of take on public land must be consistent with the rules and regulations on those public lands.
+
+(v) *Agency take of wolves that depredate livestock.* The Service or our designated agent may carry out harassment, nonlethal control measures, relocation, placement in captivity, or lethal control of depredating wolves. The Service or our designated agent will consider:
+
+(A) Evidence of wounded livestock or working dogs or remains of livestock or working dogs that show that the injury or death was caused by wolves, or evidence that wolves were in the act of attacking livestock or working dogs;
+
+(B) The likelihood that additional wolf-caused losses or attacks may occur if no control action is taken;
+
+(C) Any evidence of unusual attractants or artificial or intentional feeding of wolves; and
+
+(D) Evidence that animal husbandry practices recommended in approved allotment plans and annual operating plans were followed.
+
+(vi) *Take in defense of human life.* Any person may take a gray wolf in defense of the individual's life or the life of another person. The taking of a wolf without an immediate and direct threat to human life may be referred to the appropriate authorities for prosecution.
+
+(vii) *Take to protect human safety.* The Service or our designated agent may promptly remove any wolf that we or our designated agent determines to be a threat to human life or safety.
+
+(viii) *Incidental take.* Take of a gray wolf is allowed if the take is accidental and/or incidental to an otherwise lawful activity and if reasonable due care was practiced to avoid such take and such take is reported within 24 hours as set forth at paragraph (n)(6) of this section. We may refer incidental take that does not meet these provisions to the appropriate authorities for prosecution. Shooters have the responsibility to identify their target before shooting. Shooting a wolf as a result of mistaking it for another species is not considered incidental take and may be referred to the appropriate authorities for prosecution.
+
+(ix) *Take under permits.* Any person with a valid permit issued by the Service under 50 CFR 17.32, or our designated agent, may take wolves in the wild, pursuant to terms of the permit.
+
+(x) *Additional take authorization for agency employees.* When acting in the course of official duties, any employee of the Service or a designated agent may take a wolf, when necessary, in regard to the release, tracking, monitoring, recapture, and management of the NEP or to:
+
+(A) Aid or euthanize a sick, injured, or orphaned wolf and transfer it to a licensed veterinarian for care;
+
+(B) Dispose of a dead specimen;
+
+(C) Salvage a dead specimen that may be used for scientific study;
+
+(D) Aid in law enforcement investigations involving wolves (collection of specimens for necropsy, etc.); or
+
+(E) Remove wolves with abnormal physical or behavioral characteristics, as determined by the Service or our designated agent, from passing on or teaching those traits to other wolves.
+
+(F) Such take must be reported to the Service as set forth in paragraph (n)(6) of this section, and specimens are to be retained or disposed of only in accordance with directions from the Service.
+
+(xi) *Take of gray wolves that are contributing to unacceptable impacts to wild ungulate populations or herds on Tribal land.* This exception requires Tribes to develop a science-based proposal that must, at a minimum, include the following information:
+
+(A) The basis of ungulate population or herd management objectives;
+
+(B) Data indicating that the ungulate herd is below management objectives;
+
+(C) Data indicating that wolves are a major cause of the ungulate population decline;
+
+(D) Why wolf removal is a warranted solution to help restore the ungulate herd to management objectives;
+
+(E) The level and duration of wolf removal being proposed;
+
+(F) How ungulate population response to wolf removal will be measured and control actions adjusted for effectiveness; and
+
+(G) Demonstration that attempts were and are being made to address other identified major causes of ungulate herd or population declines or of Tribal government commitment to implement possible remedies or conservation measures in addition to wolf removal.
+
+(H) The proposal described in this paragraph (n)(5)(xi) must be subjected to both public and peer review prior to being finalized and submitted to the Service for review. Peer review must include at least three independent peer reviewers with relevant expertise in the subject matter who are not staff of the Tribe submitting the proposal. Before wolf removals can be authorized, the Service will evaluate the information in the proposal and provide a written determination to the requesting Tribal game and fish agency on whether such actions are scientifically based and warranted.
+
+(xii) *Take for research purposes.* Permits are available and required, except as otherwise allowed by this rule, for scientific purposes, enhancement of propagation or survival, educational purposes, or other purposes consistent with the Act (50 CFR 17.32). Scientific studies should be reasonably expected to result in data that will lead to development of sound management of the gray wolf and to enhancement of its survival as a species.
+
+(6) *Reporting requirements.* Except as otherwise specified in this rule or in an authorization, any take of a gray wolf must be reported to the Service or our designated agent as follows: Lethal take must be reported within 24 hours, and opportunistic or intentional harassment must be reported within 7 days. We will allow additional reasonable time if access to the site is limited.
+
+(i) Report any take of wolves, including opportunistic harassment or intentional harassment, to U.S. Fish and Wildlife Service, Colorado Ecological Services Field Office Supervisor (134 Union Boulevard, Suite 670, Lakewood, Colorado 80225; *ColoradoES@fws.gov*), or a Service-designated agent of another Federal, State, or Tribal agency.
+
+(ii) Unless otherwise specified in this paragraph (n), any wolf or wolf part taken legally must be turned over to the Service, which will determine the disposition of any live or dead wolves.
+
+(7) *Prohibitions.* Take of any gray wolf in the NEP is prohibited, except as provided in paragraphs (n)(5) and (8) of this section. Specifically, the following actions are prohibited by this rule:
+
+(i) No person shall possess, sell, deliver, carry, transport, ship, import, or export by any means whatsoever, any wolf or part thereof from the experimental population taken in violation of the regulations in this paragraph (n) or in violation of applicable State or Tribal fish and wildlife laws or regulations or the Act.
+
+(ii) It is unlawful for any person to attempt to commit, solicit another to commit, or cause to be committed any offense defined in this paragraph (n).
+
+(8) *Monitoring.* Gray wolves in the NEP area will be monitored by radio telemetry or other standard wolf population monitoring techniques as appropriate. Any animal that is sick, injured, or otherwise in need of special care may be captured by authorized personnel of the Service or our designated agent and given appropriate care. Such an animal will be released back into its respective area as soon as possible, unless physical or behavioral problems make it necessary to return the animal to captivity or euthanize it. If a gray wolf is taken into captivity for care or is euthanized, it must be reported to the Service within 24 hours or as soon as reasonably appropriate.
+
+(9) *Review and evaluation of the success or failure of the NEP.* Radio transmitters, remote cameras, surveys of roads and trails to document wolf sign, and other monitoring techniques will be used to document wolf reproductive success, abundance, and distribution in Colorado post-release.
+
+(i) To evaluate progress toward achieving State downlisting and delisting criteria, the State of Colorado will summarize monitoring information in an annual report. The report, due by June 30 of each year, will describe wolf conservation and management activities that occurred in Colorado for as long as the gray wolf is federally listed during any portion of a calendar or biological year. The annual report may include, but not be limited to: post-release wolf movements and behavior; wolf minimum counts or abundance estimates; reproductive success and recruitment; territory use and distribution; cause-specific wolf mortalities; and a summary of wolf conflicts and associated management activities to minimize wolf conflict risk.
+
+(ii) To assess the reintroduction program, the Service will evaluate Colorado's wolf reintroduction and management program in a summary report each year that wolf reintroductions occur in the State and for a minimum of 5 years after reintroductions are complete. If the Service determines that modifications to reintroduction protocols and wolf monitoring and management activities are needed, the Service will coordinate closely with the State to ensure progress toward achieving their State recovery goals while concurrently minimizing wolf-related conflicts in Colorado.
+
+(10) *Memorandum of Agreement (MOA).* The State of Colorado or any Tribe within the State, subject to the terms of this rule, may request an MOA from the Service to take over lead management responsibility and authority to implement this rule by managing the nonessential experimental gray wolves in the State or on a Tribal reservation, and implement all parts of their State or Tribal plan that are consistent with this rule, provided that the State or Tribe has a wolf management plan approved by the Service.
+
+(i) The State or Tribal request for wolf management under an MOA must demonstrate:
+
+(A) That authority and management capability reside in the State or Tribe to conserve the gray wolf throughout the geographical range of the experimental population within the State of Colorado or within the Tribal reservation;
+
+(B) That the State or Tribe has an acceptable conservation program for the gray wolf, throughout the NEP area within the State or Tribal reservation, including the requisite authority and capacity to carry out that conservation program;
+
+(C) Exactly what parts of the State or Tribal plan the State or Tribe intends to implement within the framework of this rule; and
+
+(D) That the State or Tribal management progress will be reported to the Service on at least an annual basis so the Service can determine if State or Tribal management was conducted in full compliance with this rule.
+
+(ii) The Service will approve such a request upon a finding that the applicable criteria are met and that approval is not likely to jeopardize the continued existence of the gray wolf.
+
+(iii) If the Service approves the request, the Service will enter into an MOA with the State or Tribe.
+
+(iv) An MOA for State or Tribal management as provided in this rule may allow the State of Colorado or any Tribe within the State to become designated agents and lead management of the nonessential experimental gray wolf population within the borders of their jurisdictions in accordance with the State's or Tribe's wolf management plan, except that:
+
+(A) The MOA may not provide for any form of management inconsistent with the protection provided to the species under this rule, without further opportunity for appropriate public comment and review and amendment of this rule.
+
+(B) The MOA cannot vest the State of Colorado or any Tribe within the State with any authority over matters concerning section 4 of the Act (determining whether a species warrants listing).
+
+(C) In the absence of a Tribal wolf management plan or cooperative agreement, the MOA cannot vest the State of Colorado with the authority to issue written authorizations for wolf take on reservations. The Service will retain the authority to issue these written authorizations until a Tribal wolf management plan is developed.
+
+(D) The MOA for State or Tribal wolf management must provide for joint law enforcement responsibilities to ensure that the Service also has the authority to enforce the State or Tribal management program prohibitions on take.
+
+(E) The MOA may not authorize wolf take beyond that stated in the rule but may be more restrictive.
+
+(v) The authority for the MOA will be the Act, the Fish and Wildlife Act of 1956 (16 U.S.C. 742a-742j), and the Fish and Wildlife Coordination Act (16 U.S.C. 661-667e), and any applicable treaty.
+
+(vi) In order for the MOA to remain in effect, the Service must find, on an annual basis, that the management under the MOA is not jeopardizing the continued existence of the gray wolf in the NEP. The Service or State or Tribe may terminate the MOA upon 90 days' notice if:
+
+(A) Management under the MOA is likely to jeopardize the continued existence of the gray wolf in the NEP;
+
+(B) The State or Tribe has failed materially to comply with this rule, the MOA, or any relevant provision of the State or Tribal wolf management plan;
+
+(C) The Service determines that biological circumstances within the range of the gray wolf indicate that delisting the species is warranted; or
+
+(D) The States or Tribes determine that they no longer want the wolf management authority vested in them by the Service in the MOA.
 
 (o) Boulder darter (*Etheostoma wapiti*). (1) *Where is the boulder darter designated as a nonessential experimental population (NEP)?* (i) The NEP area for the boulder darter is within the species' historic range and is defined as follows: Shoal Creek (from Shoal Creek mile 41.7 (66.7 km)) at the mouth of Long Branch, Lawrence County, TN, downstream to the backwaters of Wilson Reservoir (Shoal Creek mile 14 (22 km)) at Goose Shoals, Lauderdale County, AL, including the lower 5 miles (8 km) of all tributaries that enter this reach.
 

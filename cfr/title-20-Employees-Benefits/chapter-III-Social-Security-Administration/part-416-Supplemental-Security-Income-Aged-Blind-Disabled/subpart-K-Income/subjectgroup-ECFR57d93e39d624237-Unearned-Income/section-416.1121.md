@@ -1,5 +1,7 @@
 ##### § 416.1121 Types of unearned income. #####
 
+Link to an amendment published at 89 FR 21209, Mar. 27, 2024.
+
 Some types of unearned income are—
 
 (a) *Annuities, pensions, and other periodic payments.* This unearned income is usually related to prior work or service. It includes, for example, private pensions, social security benefits, disability benefits, veterans benefits, worker's compensation, railroad retirement annuities and unemployment insurance benefits.

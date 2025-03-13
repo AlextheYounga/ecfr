@@ -1,5 +1,7 @@
 ##### § 416.1149 What is a temporary absence from your living arrangement. #####
 
+Link to an amendment published at 89 FR 21211, Mar. 27, 2024.
+
 (a) *General.* A temporary absence may be due to employment, hospitalization, vacations, or visits. The length of time an absence can be temporary varies depending on the reason for your absence. For purposes of valuing in-kind support and maintenance under §§ 416.1130 through 416.1148, we apply the rules in this section. In general, we will find a temporary absence from your permanent living arrangement if you (or you and your eligible spouse)—
 
 (1) Become a resident of a public institution, or a public or private medical treatment facility where you otherwise would be subject to the reduced benefit rate described in § 416.414, and you are eligible for the benefits payable under § 416.212; or
