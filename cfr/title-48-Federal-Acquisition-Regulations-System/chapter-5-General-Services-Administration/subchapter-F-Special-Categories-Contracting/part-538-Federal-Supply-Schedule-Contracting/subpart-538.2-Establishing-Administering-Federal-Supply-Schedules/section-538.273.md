@@ -1,5 +1,7 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 89 FR 63328, Aug. 5, 2024.
+
 The following clauses and provisions apply to FSS solicitations and contracts, unless otherwise excepted (see 538.001) or as otherwise stated below. For example, if only used in solicitations, the prescription will clearly state this. If the language does not specify “solicitations” then the clause applies to both FSS solicitations and contracts.
 
 (a) Insert the following provisions in FSS solicitations:

@@ -1,0 +1,9 @@
+##### § 15.19 Effective date of a final determination. #####
+
+(a) A final determination under § 15.17 shall be provided to the Department of Health and Human Services and sent by certified or registered mail to the individual and to the entity employing or sponsoring such individual if the individual is currently an officer, employee, contractor, or health professional volunteer of an entity described in 42 U.S.C. 233(g)(4) or a health professional, officer, employee, or contractor of a free clinic described in 42 U.S.C. 233(o). In the event the individual is no longer an officer, employee, contractor, or health professional volunteer of an entity described in 42 U.S.C. 233(g)(4), or a health professional, officer, employee, or contractor of a free clinic described in 42 U.S.C. 233(o), the determination shall be sent by certified or registered mail to the individual and to the last entity described in 42 U.S.C. 233(g)(4) or free clinic described in 42 U.S.C. 233(o) at which such individual was an officer, employee, contractor, health professional volunteer, or health professional.
+
+(b) A final determination shall be effective upon the date the written determination is received by such entity or free clinic.
+
+(c) A final determination that an individual provider shall not be deemed to be an employee of the Public Health Service shall apply to all acts or omissions of the individual occurring after the date the adverse final determination is received by such entity or free clinic.
+
+(d) The Attorney General will inform the National Practitioner Data Bank of any final determination under § 15.17 that an individual shall not be deemed to be an employee of the Public Health Service for purposes of 42 U.S.C. 233.

@@ -1,5 +1,7 @@
 ##### 25.701 Restrictions administered by the Department of the Treasury on acquisitions of supplies or services from prohibited sources. #####
 
+Link to an amendment published at 89 FR 61338, July 30, 2024.
+
 (a) Except as authorized by OFAC, agencies and their contractors and subcontractors must not acquire any supplies or services if any proclamation, Executive order, or statute administered by OFAC, or if OFAC's implementing regulations at 31 CFR Chapter V, would prohibit such a transaction by a person subject to the jurisdiction of the United States.
 
 (b) Except as authorized by OFAC, most transactions involving Cuba, Iran, and Sudan are prohibited, as are most imports from Burma or North Korea into the United States or its outlying areas. In addition, lists of entities and individuals subject to economic sanctions are included in OFAC's List of Specially Designated Nationals and Blocked Persons at *http://www.treas.gov/offices/enforcement/ofac/sdn.* More information about these restrictions, as well as updates, is available in OFAC's regulations at 31 CFR Chapter V and/or on OFAC's website at *http://www.treas.gov/offices/enforcement/ofac.*

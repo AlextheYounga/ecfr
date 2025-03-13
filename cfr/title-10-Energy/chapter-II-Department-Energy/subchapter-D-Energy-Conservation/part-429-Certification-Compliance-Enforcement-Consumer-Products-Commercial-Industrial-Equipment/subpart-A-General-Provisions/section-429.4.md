@@ -1,7 +1,5 @@
 ##### § 429.4 Materials incorporated by reference. #####
 
-Link to an amendment published at 89 FR 44032, May 20, 2024.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE and at the National Archives and Records Administration (NARA). Contact DOE at: U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, www.energy.gov/eere/buildings/building-technologies-office.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to:*www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street, NW., Suite 402, Washington, DC 20036, 202-872-5955, or go to *www.aham.org.*
@@ -16,13 +14,13 @@ Link to an amendment published at 89 FR 44032, May 20, 2024.
 
 (1) AHRI Standard 210/240-2023, (“AHRI 210/240-2023”), *2023 Standard for Performance Rating of Unitary Air-conditioning & Air-source Heat Pump Equipment,* copyright 2020; IBR approved for § 429.67.
 
-(2) ANSI/AHRI Standard 340/360-2007, (“AHRI-340/360-2007”), 2007 Standard for Performance Rating of Commercial and Industrial Unitary Air-Conditioning and Heat Pump Equipment, with Addenda 1 and 2, ANSI approved October 27, 2011, IBR approved for § 429.43.
+(2) AHRI Standard 390 (I-P)-2021, (“AHRI 390-2021”), *2021 Standard for Performance Rating of Single Package Vertical Air-conditioners And Heat Pumps,* IBR approved for § 429.134.
 
-(3) AHRI Standard 390 (I-P)-2021, (“AHRI 390-2021”), *2021 Standard for Performance Rating of Single Package Vertical Air-conditioners And Heat Pumps,* IBR approved for § 429.134.
+(3) AHRI Standard 600-2023 (I-P) (“AHRI 600-2023”), *2023 Standard for Performance Rating of Water/Brine to Air Heat Pump Equipment,* approved September 11, 2023; IBR approved for § 429.43.
 
-(4) AHRI Standard 600-2023 (I-P) (“AHRI 600-2023”), *2023 Standard for Performance Rating of Water/Brine to Air Heat Pump Equipment,* approved September 11, 2023; IBR approved for § 429.43.
+(4) AHRI Standard 1230(I-P) (“AHRI 1230-2021”), *2021 Standard for Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment,* copyright 2021; IBR approved for §§ 429.43; 429.134.
 
-(5) AHRI Standard 1230(I-P) (“AHRI 1230-2021”), *2021 Standard for Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment,* copyright 2021; IBR approved for §§ 429.43; 429.134.
+(5) AHRI Standard 1340-2023 (I-P) (“AHRI 1340-2023”), *2023 Standard for Performance Rating of Commercial and Industrial Unitary Air-conditioning and Heat Pump Equipment,* approved November 16, 2023; IBR approved for §§ 429.43; 429.134.
 
 (6) AHRI Standard 1360-2022 (I-P) (“AHRI 1360-2022”), *2022 Standard for Performance Rating of Computer and Data Processing Room Air Conditioners,* copyright 2022; IBR approved for § 429.43.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 44032, May 20, 2024.
 
 (2) [Reserved]
 
-[76 FR 12451, Mar. 7, 2011, as amended at 77 FR 65977, Oct. 31, 2012; 80 FR 79668, Dec. 23, 2015; 81 FR 35264, June 1, 2016; 81 FR 89303, Dec. 9, 2016; 81 FR 90118, Dec. 13, 2016; 82 FR 36917, Aug. 7, 2017; 87 FR 63891, Oct. 20, 2022; 87 FR 75166, Dec. 7, 2022; 87 FR 77317, Dec. 16, 2022; 88 FR 21836, Apr. 11, 2023; 88 FR 31126, May 15, 2023; 88 FR 67040, Sept. 28, 2023; 88 FR 84226, Dec. 4, 2023]
+[76 FR 12451, Mar. 7, 2011, as amended at 77 FR 65977, Oct. 31, 2012; 80 FR 79668, Dec. 23, 2015; 81 FR 35264, June 1, 2016; 81 FR 89303, Dec. 9, 2016; 81 FR 90118, Dec. 13, 2016; 82 FR 36917, Aug. 7, 2017; 87 FR 63891, Oct. 20, 2022; 87 FR 75166, Dec. 7, 2022; 87 FR 77317, Dec. 16, 2022; 88 FR 21836, Apr. 11, 2023; 88 FR 31126, May 15, 2023; 88 FR 67040, Sept. 28, 2023; 88 FR 84226, Dec. 4, 2023; 89 FR 44032, May 20, 2024]

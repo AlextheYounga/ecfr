@@ -1,7 +1,5 @@
 ##### § 128.200 What are the requirements a concern must meet to qualify as a VOSB or SDVOSB? #####
 
-Link to an amendment published at 89 FR 48269, June 6, 2024.
-
 (a) *Qualification as a VOSB.* To qualify as a VOSB, a business entity must be:
 
 (1) A small business concern as defined in part 121 of this chapter under the size standard corresponding to any NAICS code listed in its SAM profile;
@@ -16,4 +14,6 @@ Link to an amendment published at 89 FR 48269, June 6, 2024.
 
 (c) *VOSB and SDVOSB certification requirement.* (1) A concern must be certified as a VOSB or SDVOSB pursuant to § 128.300 in order to be awarded a VOSB or SDVOSB set-aside or sole source contract. Any small business concern that submits a complete certification application to SBA on or before December 31, 2023, shall be eligible to self-certify for SDVOSB sole source or set-aside contracts (other than VA contracts) until SBA declines or approves the concern's application. Any small business concern that does not submit a complete SDVOSB certification application to SBA on or before December 31, 2023, will no longer be eligible to self-certify for SDVOSB sole source or set-aside contracts effective January 1, 2024.
 
-(2) Other small business concerns that meet the eligibility requirements of this part but do not seek SDVOSB set-aside or sole source contracts may continue to self-certify their SDVOSB status, receive prime contract or subcontract awards that are not SDVOSB set-aside or sole source contracts, and count toward an agency's goal for SDVOSB awards.
+(2) A concern must be certified pursuant to § 128.300 to receive a prime contract that is to be counted by a Federal agency for the purposes of meeting participation goals for SDVOSBs or to receive a subcontract from a Federal prime contractor for the purpose of meeting subcontracting goals for SBVOSBs in Federal procurement contracts. Any small business concern that submits a complete certification application to SBA on or before December 22, 2024, shall be eligible to self-certify for a Federal prime or subcontract that counts towards SDVOSB goaling purposes or SDVOSB subcontracting goals, respectively, until SBA declines or approves the concern's application. Any small business concern that does not submit a complete SDVOSB certification application to SBA on or before December 22, 2024, will no longer be eligible to self-certify for a Federal prime or subcontract that counts towards SDVOSB goaling purposes or SDVOSB subcontracting goals, respectively.
+
+[87 FR 73412, Nov. 29, 2022, as amended at 89 FR 48269, June 6, 2024]

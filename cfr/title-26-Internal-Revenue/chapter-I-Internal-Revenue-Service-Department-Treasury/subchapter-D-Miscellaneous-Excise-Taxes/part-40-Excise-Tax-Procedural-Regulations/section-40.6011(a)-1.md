@@ -1,10 +1,8 @@
 ##### § 40.6011(a)-1 Returns. #####
 
-Link to an amendment published at 89 FR 55511, July 5, 2024.
-
 (a) *In general*—(1) *Return required.* The return of any tax to which this part 40 applies must be made on Form 720, *Quarterly Federal Excise Tax Return,* according to the instructions applicable to the form. The requirement for filing a return under this part 40 applies separately to each tax listed by IRS Number on Form 720. Except as provided in this paragraph (a)(1), an entry must be made on the line for the IRS Number in order to file a return of the tax corresponding to that number. The entry on an IRS Number line of the word “none,” “zero,” or comparable entry clearly indicating a denial of liability constitutes a return of that tax. The entry of the word “none” across the return or in the summary portion, provided it clearly indicates a denial of liability for all taxes, constitutes a return of all taxes listed on Form 720.
 
-(2) *Period covered by return*—(i) *In general.* Except as provided in paragraphs (b) and (c) of this section, the return must be made for a period of one calendar quarter. A return must be filed for the first calendar quarter in which liability for tax is incurred (or in which tax must be collected and paid over) and for each subsequent calendar quarter, whether or not liability is incurred (or tax must be collected and paid over) during that subsequent quarter, until a final return under § 40.6011(a)-2 is filed. In the case of one-time filings (as defined in § 40.6011(a)-2(b)) and returns of floor stocks taxes under § 40.6011(a)-2(c), a first return is also a final return.
+(2) *Period covered by return*—(i) *In general.* Except as provided in paragraphs (b) through (d) of this section, the return must be made for a period of one calendar quarter. A return must be filed for the first calendar quarter in which liability for tax is incurred (or in which tax must be collected and paid over) and for each subsequent calendar quarter, whether or not liability is incurred (or tax must be collected and paid over) during that subsequent quarter, until a final return under § 40.6011(a)-2 is filed. In the case of one-time filings (as defined in § 40.6011(a)-2(b)) and returns of floor stocks taxes under § 40.6011(a)-2(c), a first return is also a final return.
 
 (ii) *First return.* A person's return is a first return if the person was not required under this part 40 to file a return (other than a final return) for the preceding period.
 
@@ -32,4 +30,12 @@ Link to an amendment published at 89 FR 55511, July 5, 2024.
 
 (2) *Applicability date.* This paragraph (c) applies to returns that report liability imposed by section 4375 or 4376.
 
-[T.D. 8442, 57 FR 48177, Oct. 22, 1992, as amended by T.D. 8659, 61 FR 10452, Mar. 14, 1996; 61 FR 58005, Nov. 12, 1996; T.D. 8748, 63 FR 25, Jan. 2, 1998; T.D. 8879, 65 FR 17153, Mar. 31, 2000; T.D. 8887, 65 FR 36326, June 8, 2000; T.D. 8963, 66 FR 41776, Aug. 9, 2001; T.D. 9602, 77 FR 72728, Dec. 6, 2012]
+(d) *Tax on the sale of designated drugs.* A return that reports liability imposed by section 5000D of the Internal Revenue Code must be made for a period of one calendar quarter. A return must be filed for each calendar quarter in which liability for the tax imposed by section 5000D is incurred. There is no requirement that a return be filed for a calendar quarter in which there is no liability imposed by section 5000D.
+
+(e) *Applicability dates*—(1) *Paragraph (a)(2)(i).* Paragraph (a)(2)(i) of this section applies to returns filed for calendar quarters beginning on or after October 1, 2023. For rules that apply before October 1, 2023, see 26 CFR part 40, revised as of April 1, 2024.
+
+(2) *Paragraph (c). See* paragraph (c)(2) of this section.
+
+(3) *Paragraph (d).* Paragraph (d) of this section applies to returns filed for calendar quarters beginning on and after October 1, 2023.
+
+[T.D. 8442, 57 FR 48177, Oct. 22, 1992, as amended by T.D. 8659, 61 FR 10452, Mar. 14, 1996; 61 FR 58005, Nov. 12, 1996; T.D. 8748, 63 FR 25, Jan. 2, 1998; T.D. 8879, 65 FR 17153, Mar. 31, 2000; T.D. 8887, 65 FR 36326, June 8, 2000; T.D. 8963, 66 FR 41776, Aug. 9, 2001; T.D. 9602, 77 FR 72728, Dec. 6, 2012; T.D. 10003, 89 FR 55511, July 5, 2024]

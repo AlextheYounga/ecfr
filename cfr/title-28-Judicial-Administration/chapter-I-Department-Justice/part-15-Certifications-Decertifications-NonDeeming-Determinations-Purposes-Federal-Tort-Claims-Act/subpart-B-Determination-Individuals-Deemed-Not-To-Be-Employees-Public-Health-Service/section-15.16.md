@@ -1,0 +1,3 @@
+##### § 15.16 Recommended decision. #####
+
+Within a reasonable time after the close of the record of the hearings conducted under § 15.14, the administrative law judge shall certify the record to the adjudicating official and shall submit to the adjudicating official written findings of fact, conclusions of law, and a recommended decision. The administrative law judge shall promptly make copies of the findings of fact, conclusions of law, and recommended decision available to the parties and the Secretary.

@@ -1,5 +1,7 @@
 ##### 552.216-70 Economic Price Adjustment—FSS Multiple Award Schedule Contracts. #####
 
+Link to an amendment published at 89 FR 63328, Aug. 5, 2024.
+
 As prescribed in 516.203-4(a), insert the following clause:
 
 Economic Price Adjustment—FSS Multiple Award Schedule Contracts (SEP 1999)

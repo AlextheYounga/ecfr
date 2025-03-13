@@ -1,7 +1,5 @@
 ##### § 40.6302(c)-1 Deposits. #####
 
-Link to an amendment published at 89 FR 55511, July 5, 2024.
-
 (a) *In general*—(1) *Semimonthly deposits required.* Except as provided by statute, or by paragraph (e) of this section, each person required under § 40.6011(a)-1(a)(2) to file a quarterly return must make a deposit of tax for each semimonthly period (as defined in § 40.0-1(c)) in which tax liability is incurred.
 
 (2) *Treatment of taxes imposed by chapter 33.* For purposes of this part 40, tax imposed by chapter 33 (relating to communications and air transportation) is treated as a tax liability incurred during the semimonthly period—
@@ -60,14 +58,18 @@ Link to an amendment published at 89 FR 55511, July 5, 2024.
 
 (iii) Section 4682(h) (relating to floor stocks tax on ozone-depleting chemicals);
 
-(iv) Sections 4375 and 4376 (relating to fees on health insurance policies and self-insured health plans); and
+(iv) Sections 4375 and 4376 (relating to fees on health insurance policies and self-insured insurance plans);
 
-(v) Section 5000B (relating to indoor tanning services).
+(v) Section 5000B (relating to indoor tanning services); and
+
+(vi) Section 5000D (relating to the sale of designated drugs).
 
 (2) *One-time filings.* No deposit is required in the case of any taxes reportable on a one-time filing (as defined in § 40.6011(a)-2(b)).
 
 (3) *De minimis exception.* For any calendar quarter, no deposit is required if the net tax liability for the quarter does not exceed $2,500.
 
-(f) *Effective/applicability date.* This section applies to deposits and payments made after March 31, 2013. For rules that apply before that date, see 26 CFR part 40 (revised as of April 1, 2013).
+(f) *Applicability dates*—(1) *Paragraphs (a) through (d).* Paragraphs (a) through (d) of this section apply to deposits and payments made after March 31, 2013. For rules that apply before March 31, 2013, see 26 CFR part 40, revised as of April 1, 2013.
 
-[T.D. 8963, 66 FR 41776, Aug. 9, 2001, as amended by T.D. 9486, 75 FR 33686, June 15, 2010; T.D. 9507, 75 FR 75903, Dec. 7, 2010; T.D. 9602, 77 FR 72728, Dec. 6, 2012; T.D. 9621, 78 FR 34846, June 11, 2013]
+(2) *Paragraph (e).* Paragraph (e) of this section applies to calendar quarters beginning on or after October 1, 2023. For rules that apply before October 1, 2023, *see* 26 CFR part 40, revised as of April 1, 2024.
+
+[T.D. 8963, 66 FR 41776, Aug. 9, 2001, as amended by T.D. 9486, 75 FR 33686, June 15, 2010; T.D. 9507, 75 FR 75903, Dec. 7, 2010; T.D. 9602, 77 FR 72728, Dec. 6, 2012; T.D. 9621, 78 FR 34846, June 11, 2013; T.D. 10003, 89 FR 55511, July 5, 2024]

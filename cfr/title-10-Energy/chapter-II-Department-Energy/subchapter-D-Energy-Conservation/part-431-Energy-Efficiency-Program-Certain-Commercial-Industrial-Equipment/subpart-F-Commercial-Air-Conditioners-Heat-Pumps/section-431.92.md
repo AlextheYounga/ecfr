@@ -1,28 +1,12 @@
 ##### § 431.92 Definitions concerning commercial air conditioners and heat pumps. #####
 
-Link to an amendment published at 89 FR 44035, May 20, 2024.
-
 The following definitions apply for purposes of this subpart, and of subparts J through M of this part. Any words or terms not defined in this section or elsewhere in this part shall be defined as provided in 42 U.S.C. 6311. For definitions that reference the application for which the equipment is marketed, DOE will consider any publicly available document published by the manufacturer (*e.g.,* product literature, catalogs, and packaging labels) to determine marketing intent. For definitions in this section that pertain to computer room air conditioners, italicized terms within a definition indicate terms that are separately defined in this section.
 
 *Applied Coefficient of performance,* or *ACOP* means the ratio of the heating capacity to the power input, including system pump power, for water-source heat pumps. ACOP is expressed in watts per watt and determined according to appendix C1 of this subpart.
 
-*Basic model* includes:
+*Basic model* means:
 
-(1) *Computer room air conditioners* means all units manufactured by one manufacturer within a single equipment class, having the same primary energy source (*e.g.,* electric or gas), and which have the same or comparably performing compressor(s), heat exchangers, and air moving system(s) that have a common “nominal” cooling capacity.
-
-(2) *Direct expansion-dedicated outdoor air system* means all units manufactured by one manufacturer, having the same primary energy source (*e.g.,* electric or gas), within a single equipment class; with the same or comparably performing compressor(s), heat exchangers, ventilation energy recovery system(s) (if present), and air moving system(s) that have a common “nominal” moisture removal capacity.
-
-(3) *Packaged terminal air conditioner (PTAC) or packaged terminal heat pump (PTHP)* means all units manufactured by one manufacturer within a single equipment class, having the same primary energy source (*e.g.,* electric or gas), and which have the same or comparable compressors, same or comparable heat exchangers, and same or comparable air moving systems that have a cooling capacity within 300 Btu/h of one another.
-
-(4) *Single package vertical units* means all units manufactured by one manufacturer within a single equipment class, having the same primary energy source (*e.g.,* electric or gas), and which have the same or comparably performing compressor(s), heat exchangers, and air moving system(s) that have a rated cooling capacity within 1500 Btu/h of one another.
-
-(5) *Small, large, and very large air-cooled or water-cooled commercial package air conditioning and heating equipment**(excluding air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h cooling capacity)* means all units manufactured by one manufacturer within a single equipment class, having the same or comparably performing compressor(s), heat exchangers, and air moving system(s) that have a common “nominal” cooling capacity.
-
-(6) *Small, large, and very large water source heat pump* means all units manufactured by one manufacturer within a single equipment class, having the same primary energy source (*e.g.,* electric or gas), and which have the same or comparable compressors, same or comparable heat exchangers, and same or comparable “nominal” capacity.
-
-(7) *Variable refrigerant flow systems (excluding air-cooled, three-phase, variable refrigerant flow air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h)* means all units manufactured by one manufacturer within a single equipment class, having the same primary energy source (e.g., electric or gas), and which have the same or comparably performing compressor(s) that have a common “nominal” cooling capacity and the same heat rejection medium (e.g., air or water) (includes VRF water source heat pumps).
-
-(8) *Air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h* and *air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h* means all units manufactured by one manufacturer, having the same primary energy source, and, which have essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency; where essentially identical electrical, physical, and functional (or hydraulic) characteristics means:
+(1) *For air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h.* All units manufactured by one manufacturer, having the same primary energy source, and, which have essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency; where essentially identical electrical, physical, and functional (or hydraulic) characteristics means:
 
 (i) For split systems manufactured by outdoor unit manufacturers (OUMs): all individual combinations having the same model of outdoor unit, which means comparably performing compressor(s) [a variation of no more than five percent in displacement rate (volume per time) as rated by the compressor manufacturer, and no more than five percent in capacity and power input for the same operating conditions as rated by the compressor manufacturer], outdoor coil(s) [no more than five percent variation in face area and total fin surface area; same fin material; same tube material], and outdoor fan(s) [no more than ten percent variation in airflow and no more than twenty percent variation in power input];
 
@@ -30,11 +14,25 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 
 (iii) For single-package systems: all individual models having comparably performing compressor(s) [no more than five percent variation in displacement rate (volume per time) rated by the compressor manufacturer, and no more than five percent variations in capacity and power input rated by the compressor manufacturer corresponding to the same compressor rating conditions], outdoor coil(s) and indoor coil(s) [no more than five percent variation in face area and total fin surface area; same fin material; same tube material], outdoor fan(s) [no more than ten percent variation in outdoor airflow], and indoor blower(s) [no more than ten percent variation in indoor airflow, with no more than twenty percent variation in fan motor power input];
 
-(iv) Except that,
+(iv) Except that:
 
-(A) For single-package systems and single-split systems, manufacturers may instead choose to make each individual model/combination its own basic model provided the testing and represented value requirements in 10 CFR 429.67 of this chapter are met; and
+(A) For single-package systems and single-split systems, manufacturers may instead choose to make each individual model/combination its own basic model provided the testing and represented value requirements in 10 CFR 429.67 are met; and
 
 (B) For multi-split, multi-circuit, and multi-head mini-split combinations, a basic model may not include both individual small-duct, high velocity (SDHV) combinations and non-SDHV combinations even when they include the same model of outdoor unit. The manufacturer may choose to identify specific individual combinations as additional basic models.
+
+(2) *For commercial package air conditioning and heating equipment (excluding air-cooled, three-phase, commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 Btu/h).* All units manufactured by one manufacturer within a single equipment class, having the same or comparably performing compressor(s), heat exchangers, and air moving system(s) that have a common “nominal” cooling capacity.
+
+(3) *For computer room air conditioners.* All units manufactured by one manufacturer within a single equipment class, having the same primary energy source (*e.g.,* electric or gas), and which have the same or comparably performing compressor(s), heat exchangers, and air moving system(s) that have a common “nominal” cooling capacity.
+
+(4) *For direct expansion-dedicated outdoor air system.* All units manufactured by one manufacturer, having the same primary energy source (*e.g.,* electric or gas), within a single equipment class; with the same or comparably performing compressor(s), heat exchangers, ventilation energy recovery system(s) (if present), and air moving system(s) that have a common “nominal” moisture removal capacity.
+
+(5) *For packaged terminal air conditioner (PTAC) or packaged terminal heat pump (PTHP).* All units manufactured by one manufacturer within a single equipment class, having the same primary energy source (*e.g.,* electric or gas), and which have the same or comparable compressors, same or comparable heat exchangers, and same or comparable air moving systems that have a cooling capacity within 300 Btu/h of one another.
+
+(6) *For single package vertical units.* All units manufactured by one manufacturer within a single equipment class, having the same primary energy source (*e.g.,* electric or gas), and which have the same or comparably performing compressor(s), heat exchangers, and air moving system(s) that have a rated cooling capacity within 1500 Btu/h of one another.
+
+(7) *For variable refrigerant flow systems (excluding air-cooled, three-phase, variable refrigerant flow air conditioners and heat pumps with a cooling capacity of less than 65,000 Btu/h).* All units manufactured by one manufacturer within a single equipment class, having the same primary energy source (*e.g.,* electric or gas), and which have the same or comparably performing compressor(s) that have a common “nominal” cooling capacity and the same heat rejection medium (*e.g.,* air or water) (includes VRF water source heat pumps).
+
+(8) *For water-source heat pumps.* All units manufactured by one manufacturer within a single equipment class, having the same primary energy source (*e.g.,* electric or gas), and which have the same or comparable compressors, same or comparable heat exchangers, and same or comparable “nominal” cooling capacity.
 
 *Ceiling-mounted* means a configuration of a *computer room air conditioner* for which the unit housing the evaporator coil is configured for indoor installation on or through a ceiling.
 
@@ -42,7 +40,9 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 
 *Ceiling-mounted non-ducted* means a configuration of a *ceiling-mounted computer room air conditioner* that is configured only for use without discharge ducting.
 
-*Coefficient of Performance,* or *COP* means the ratio of the produced cooling effect of an air conditioner or heat pump (or its produced heating effect, depending on the mode of operation) to its net work input, when both the cooling (or heating) effect and the net work input are expressed in identical units of measurement.
+*Coefficient of performance,* or *COP,* means the ratio of the produced cooling effect of an air conditioner or heat pump (or its produced heating effect, depending on the mode of operation) to its net work input, when both the cooling (or heating) effect and the net work input are expressed in identical units of measurement. For air-cooled commercial package air conditioning and heating equipment (excluding equipment with a cooling capacity less than 65,000 Btu/h), COP is measured per appendix A to this subpart.
+
+*Coefficient of performance 2,* or *COP2,* means the ratio of the produced cooling effect of an air conditioner or heat pump (or its produced heating effect, depending on the mode of operation) to its net work input, when both the cooling (or heating) effect and the net work input are expressed in identical units of measurement. COP2 must be used with a subscript to indicate the outdoor temperature in degrees Fahrenheit at which the COP2 was measured (*e.g.,* COP217 for COP2 measured at 17 °F). For air-cooled commercial package air conditioning and heating equipment (excluding equipment with a cooling capacity less than 65,000 Btu/h), COP2 is measured per appendix A1 to this subpart.
 
 *Commercial package air-conditioning and heating equipment* means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air-conditioning heat pumps for commercial application.
 
@@ -50,21 +50,23 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 
 *Direct expansion-dedicated outdoor air system,* or *DX-DOAS,* means a unitary dedicated outdoor air system that is capable of dehumidifying air to a 55 °F dew point—when operating under Standard Rating Condition A as specified in Table 4 or Table 5 of AHRI 920-2020 (incorporated by reference, see § 431.95) with a barometric pressure of 29.92 in Hg—for any part of the range of airflow rates advertised in manufacturer materials, and has a moisture removal capacity of less than 324 lb/h.
 
-*Double-duct air conditioner or heat pump* means air-cooled commercial package air conditioning and heating equipment that—
+*Double-duct air conditioner or heat pump* means air-cooled commercial package air conditioning and heating equipment that meets the following criteria—
 
-(1) Is either a horizontal single package or split-system unit; or a vertical unit that consists of two components that may be shipped or installed either connected or split;
+(1) Is either a horizontal single package or split-system unit; or a vertical unit that consists of two components that may be shipped or installed either connected or split; or a vertical single package unit that is not intended for exterior mounting on, adjacent interior to, or through an outside wall;
 
-(2) Is intended for indoor installation with ducting of outdoor air from the building exterior to and from the unit, as evidenced by the unit and/or all of its components being non-weatherized, including the absence of any marking (or listing) indicating compliance with UL 1995, “Heating and Cooling Equipment,” or any other equivalent requirements for outdoor use;
+(2) Is intended for indoor installation with ducting of outdoor air from the building exterior to and from the unit (*e.g.,* the unit and/or all of its components are non-weatherized);
 
-(3)(i) If it is a horizontal unit, a complete unit has a maximum height of 35 inches; (ii) If it is a vertical unit, a complete unit has a maximum depth of 35 inches; and
+(3) If it is a horizontal unit, the complete unit shall have a maximum height of 35 inches or the unit shall have components that do not exceed a maximum height of 35 inches. If it is a vertical unit, the complete (split, connected, or assembled) unit shall have components that do not exceed a maximum depth of 35 inches; and
 
-(4) Has a rated cooling capacity greater than or equal to 65,000 Btu/h and up to 300,000 Btu/h.
+(4) Has a rated cooling capacity greater than or equal to 65,000 Btu/h and less than 300,000 Btu/h.
 
 *Down-flow* means a configuration of *floor-mounted computer room air conditioner* in which return air enters above the top of the evaporator coil and discharge air leaves below the bottom of the evaporator coil.
 
 *Ducted Condenser* means a configuration of *computer room air conditioner* for which the condenser or condensing unit that manufacturer's installation instructions indicate is intended to exhaust condenser air through a duct(s).
 
-*Energy Efficiency Ratio,* or *EER* means the ratio of the produced cooling effect of an air conditioner or heat pump to its net work input, expressed in Btu/watt-hour.
+*Energy efficiency ratio,* or *EER,* means the ratio of the produced cooling effect of an air conditioner or heat pump to its net work input, expressed in Btu/watt-hour. For commercial package air conditioning and heating equipment (excluding air-cooled equipment with a cooling capacity less than 65,000 Btu/h), EER is measured per appendix A to this subpart.
+
+*Energy efficiency ratio 2,* or *EER2,* means the ratio of the produced cooling effect of an air conditioner or heat pump to its net work input, expressed in Btu/watt-hour. For commercial package air conditioning and heating equipment (excluding air-cooled equipment with a cooling capacity less than 65,000 Btu/h), EER2 is measured per appendix A1 to this subpart.
 
 *Floor-mounted* means a configuration of a *computer room air conditioner* for which the unit housing the evaporator coil is configured for indoor installation on a solid floor, raised floor, or floor-stand. Floor-mounted *computer room air conditioners* are one of the following three configurations: *down-flow, horizontal-flow,* and *up-flow.*
 
@@ -78,7 +80,7 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 
 *Integrated energy efficiency ratio,* or *IEER,* means a weighted average calculation of mechanical cooling EERs determined for four load levels and corresponding rating conditions, expressed in Btu/watt-hour. IEER is measured:
 
-(1) Per appendix A to this subpart for air-cooled small (≥65,000 Btu/h), large, and very large commercial package air conditioning and heating equipment;
+(1) Per appendix A to this subpart for commercial package air conditioning and heating equipment (excluding air-cooled equipment with a cooling capacity less than 65,000 Btu/h);
 
 (2) Per appendix C1 to this subpart for water-source heat pumps;
 
@@ -89,6 +91,10 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 *Integrated seasonal coefficient of performance 2* or *ISCOP2,* means a seasonal weighted-average heating efficiency for heat pump dedicated outdoor air systems, expressed in W/W, as measured according to appendix B of this subpart.
 
 *Integrated seasonal moisture removal efficiency 2,* or *ISMRE2,* means a seasonal weighted average dehumidification efficiency for dedicated outdoor air systems, expressed in lbs. of moisture/kWh, as measured according to appendix B of this subpart.
+
+*Integrated ventilation and heating efficiency,* or *IVHE,* means a sum of the space heating provided (Btu) divided by the sum of the energy consumed (Wh), including mechanical heating, supplementary electric resistance heating, and heating season ventilation operating modes. IVHE with subscript C (IVHEC) refers to the IVHE of heat pumps using a cold-climate heating load line. For air-cooled commercial package air conditioning and heating equipment (excluding equipment with a cooling capacity less than 65,000 Btu/h), IVHE and IVHEC are measured per appendix A1 to this subpart.
+
+*Integrated ventilation, economizing, and cooling,* or *IVEC,* means a sum of the space cooling provided (Btu) divided by the sum of the energy consumed (Wh), including mechanical cooling, economizing, and cooling season ventilation operating modes. For commercial package air conditioning and heating equipment (excluding air-cooled equipment with a cooling capacity less than 65,000 Btu/h), IVEC is measured per appendix A1 to this subpart.
 
 *Large commercial package air-conditioning and heating equipment* means commercial package air-conditioning and heating equipment that is rated—
 
@@ -222,4 +228,4 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 
 *Water-source heat pump* means commercial package air-conditioning and heating equipment that is a single-phase or three-phase reverse-cycle heat pump that uses a circulating water loop as the heat source for heating and as the heat sink for cooling. The main components are a compressor, refrigerant-to-water heat exchanger, refrigerant-to-air heat exchanger, refrigerant expansion devices, refrigerant reversing valve, and indoor fan (except that coil-only units do not include an indoor fan). Such equipment includes, but is not limited to, water-to-air water-loop heat pumps.
 
-[69 FR 61969, Oct. 21, 2004, as amended at 70 FR 60415, Oct. 18, 2005; 73 FR 58828, Oct. 7, 2008; 74 FR 12073, Mar. 23, 2009; 76 FR 12503, Mar. 7, 2011; 77 FR 28988, May 16, 2012; 78 FR 79598, Dec. 31, 2013; 80 FR 42664, July 17, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2529, Jan. 15, 2016; 87 FR 45197, July 27, 2022; 87 FR 63896, Oct. 20, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77325, Dec. 16, 2022; 88 FR 21838, Apr. 11, 2023; 88 FR 36386, 36424, June 2, 2023; 88 FR 84228, Dec. 4, 2023]
+[69 FR 61969, Oct. 21, 2004, as amended at 70 FR 60415, Oct. 18, 2005; 73 FR 58828, Oct. 7, 2008; 74 FR 12073, Mar. 23, 2009; 76 FR 12503, Mar. 7, 2011; 77 FR 28988, May 16, 2012; 78 FR 79598, Dec. 31, 2013; 80 FR 42664, July 17, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2529, Jan. 15, 2016; 87 FR 45197, July 27, 2022; 87 FR 63896, Oct. 20, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77325, Dec. 16, 2022; 88 FR 21838, Apr. 11, 2023; 88 FR 36386, 36424, June 2, 2023; 88 FR 84228, Dec. 4, 2023; 89 FR 44035, May 20, 2024]

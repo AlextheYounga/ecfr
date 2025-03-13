@@ -1,5 +1,7 @@
 ##### 25.403 World Trade Organization Government Procurement Agreement and Free Trade Agreements. #####
 
+Link to an amendment published at 89 FR 61338, July 30, 2024.
+
 (a) Eligible products from WTO GPA and FTA countries are entitled to the nondiscriminatory treatment specified in 25.402(a)(1). The WTO GPA and FTAs specify procurement procedures designed to ensure fairness (see 25.408).
 
 (b) *Thresholds.* (1) To determine whether the acquisition of products by lease, rental, or lease-purchase contract (including lease-to-ownership, or lease-with-option-to purchase) is covered by the WTO GPA or an FTA, calculate the estimated acquisition value as follows:
