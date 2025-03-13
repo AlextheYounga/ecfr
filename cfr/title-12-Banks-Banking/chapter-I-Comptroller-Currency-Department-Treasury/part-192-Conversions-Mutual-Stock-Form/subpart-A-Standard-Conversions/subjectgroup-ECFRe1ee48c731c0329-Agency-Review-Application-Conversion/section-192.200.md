@@ -1,5 +1,7 @@
 ##### § 192.200 Review, approval, or denial of application for conversion. #####
 
+Link to an amendment published at 89 FR 22068, Mar. 29, 2024.
+
 (a) *Standards for review of application.* The appropriate Federal banking agency may approve an application for conversion only if:
 
 (1) The conversion complies with this part;

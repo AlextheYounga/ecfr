@@ -1,5 +1,7 @@
 ##### § 207.6 Disclosure of covered agreements. #####
 
+Link to an amendment published at 89 FR 22068, Mar. 29, 2024.
+
 (a) *Applicability date.* This section applies only to covered agreements entered into after November 12, 1999.
 
 (b) *Disclosure of covered agreements to the public*—(1) *Disclosure required.* Each NGEP and each insured depository institution or affiliate that enters into a covered agreement must promptly make a copy of the covered agreement available to any individual or entity upon request.

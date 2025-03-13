@@ -1,5 +1,7 @@
 ##### § 474.2 Definitions. #####
 
+Link to an amendment published at 89 FR 22059, Mar. 29, 2024.
+
 For the purposes of this part, the term:
 
 *Combined energy consumption value* means the weighted average of the Urban Dynamometer Driving Schedule and the Highway Fuel Economy Driving Schedule energy consumption values (weighted 55/45 percent, respectively), as determined by the Environmental Protection Agency in accordance with 40 CFR parts 86 and 600.

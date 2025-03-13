@@ -12,10 +12,12 @@
 
 (2) *Holidays.* If the last day for filing an appeal or civil action falls on a Federal holiday in the District of Columbia, the time is extended pursuant to 35 U.S.C. 21(b).
 
-(c) *Extension of time.* (1) The Director, or his designee, may extend the time for filing an appeal, or commencing a civil action, upon written request if:
+(c) *Extension of time.* (1) The Director, or the Director's designee, may extend the time for filing an appeal, or commencing a civil action, upon written request if:
 
 (i) Requested before the expiration of the period for filing an appeal or commencing a civil action, and upon a showing of good cause; or
 
 (ii) Requested after the expiration of the period for filing an appeal of commencing a civil action, and upon a showing that the failure to act was the result of excusable neglect.
 
-(2) The request must be filed as provided in § 104.2 of this title.
+(2) The request must be filed with the Director by electronic mail to the email address indicated on the United States Patent and Trademark Office's web page for the Office of the General Counsel. This electronically submitted request will be accorded a receipt date, which is the date in Eastern Time when the correspondence is received in the Office, regardless of whether that date is a Saturday, Sunday, or Federal holiday within the District of Columbia. If there is some circumstance in which electronic mail cannot be used, submission may be by Priority Mail Express® to the Office of the Solicitor, United States Patent and Trademark Office, Mail Stop 8, P.O. Box 1450, Alexandria, Virginia 22313-1450.
+
+[77 FR 48677, Aug. 14, 2012, as amended at 89 FR 22086, Mar. 29, 2024]

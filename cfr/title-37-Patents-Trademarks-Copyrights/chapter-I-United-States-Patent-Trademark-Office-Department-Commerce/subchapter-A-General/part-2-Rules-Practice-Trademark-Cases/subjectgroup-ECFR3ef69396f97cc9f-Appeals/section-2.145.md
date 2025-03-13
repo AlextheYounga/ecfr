@@ -4,7 +4,7 @@
 
 (2) In all appeals under section 21(a), the appellant must take the following steps:
 
-(i) File the notice of appeal with the Director, addressed to the Office of the General Counsel, as provided in § 104.2 of this chapter;
+(i) File the notice of appeal with the Director by electronic mail sent to the email address indicated on the United States Patent and Trademark Office's web page for the Office of the General Counsel. This electronically submitted notice will be accorded a receipt date, which is the date in Eastern Time when the correspondence is received in the Office, regardless of whether that date is a Saturday, Sunday, or Federal holiday within the District of Columbia. If there is some circumstance in which electronic mail cannot be used, submission may be by Priority Mail Express® or by means at least as fast and reliable as Priority Mail Express® to the Office of the Solicitor, United States Patent and Trademark Office, Mail Stop 8, P.O. Box 1450, Alexandria, Virginia 22313-1450;
 
 (ii) File a copy of the notice of appeal with the Trademark Trial and Appeal Board via ESTTA; and
 
@@ -20,7 +20,7 @@
 
 (2) If an adverse party to an appeal taken to the United States Court of Appeals for the Federal Circuit by a defeated party in an inter partes proceeding elects to have all further review proceedings conducted under section 21(b) of the Act, that party must take the following steps:
 
-(i) File a notice of election with the Director, addressed to the Office of the General Counsel, as provided in § 104.2 of this chapter;
+(i) File a notice of election with the Director by electronic mail sent to the email address indicated on the United States Patent and Trademark Office's web page for the Office of the General Counsel. This electronically submitted notice will be accorded a receipt date, which is the date in Eastern Time when the correspondence is received in the Office, regardless of whether that date is a Saturday, Sunday, or Federal holiday within the District of Columbia. If there is some circumstance in which electronic mail cannot be used, submission may be by Priority Mail Express® or by means at least as fast and reliable as Priority Mail Express® to the Office of the Solicitor, United States Patent and Trademark Office, Mail Stop 8, P.O. Box 1450, Alexandria, Virginia 22313-1450;
 
 (ii) File a copy of the notice of election with the Trademark Trial and Appeal Board via ESTTA; and
 
@@ -48,6 +48,8 @@
 
 (ii) Requested after the expiration of the period for filing an appeal or commencing a civil action, and upon a showing that the failure to act was the result of excusable neglect.
 
-(2) The request must be filed as provided in § 104.2 of this chapter and addressed to the attention of the Office of the Solicitor. A copy of the request should also be filed with the Trademark Trial and Appeal Board via ESTTA.
+(2)(i) The request must be filed with the Director by electronic mail sent to the email address indicated on the United States Patent and Trademark Office's web page for the Office of the General Counsel. This electronically submitted notice will be accorded a receipt date, which is the date in Eastern Time when the correspondence is received in the Office, regardless of whether that date is a Saturday, Sunday, or Federal holiday within the District of Columbia. If there is some circumstance in which electronic mail cannot be used, submission may be by Priority Mail Express® or by means at least as fast and reliable as Priority Mail Express® to the Office of the Solicitor, United States Patent and Trademark Office, Mail Stop 8, P.O. Box 1450, Alexandria, Virginia 22313-1450.
 
-[81 FR 69986, Oct. 7, 2016, as amended at 81 FR 89383, Dec. 12, 2016; 86 FR 64331, Nov. 17, 2021]
+(ii) A copy of the request should also be filed with the Trademark Trial and Appeal Board via ESTTA.
+
+[81 FR 69986, Oct. 7, 2016, as amended at 81 FR 89383, Dec. 12, 2016; 86 FR 64331, Nov. 17, 2021; 89 FR 22085, Mar. 29, 2024]

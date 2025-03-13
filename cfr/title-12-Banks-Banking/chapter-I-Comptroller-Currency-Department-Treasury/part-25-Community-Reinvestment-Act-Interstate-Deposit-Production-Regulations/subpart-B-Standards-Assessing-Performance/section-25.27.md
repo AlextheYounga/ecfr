@@ -1,5 +1,7 @@
 ##### § 25.27 Strategic plan. #####
 
+Link to an amendment published at 89 FR 22067, Mar. 29, 2024.
+
 (a) *Alternative election.* The appropriate Federal banking agency will assess a bank's or savings association's record of helping to meet the credit needs of its assessment area(s) under a strategic plan if:
 
 (1) The bank or savings association has submitted the plan to the appropriate Federal banking agency as provided for in this section;

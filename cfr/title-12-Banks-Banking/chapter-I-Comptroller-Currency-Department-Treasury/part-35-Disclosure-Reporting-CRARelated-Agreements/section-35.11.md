@@ -1,5 +1,7 @@
 ##### § 35.11 Other definitions and rules of construction used in this part. #####
 
+Link to an amendment published at 89 FR 22068, Mar. 29, 2024.
+
 (a) *Affiliate.* “Affiliate” means—
 
 (1) Any company that controls, is controlled by, or is under common control with another company; and

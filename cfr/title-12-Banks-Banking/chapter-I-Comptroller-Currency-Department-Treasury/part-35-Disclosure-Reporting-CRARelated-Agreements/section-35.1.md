@@ -1,5 +1,7 @@
 ##### § 35.1 Purpose and scope of this part. #####
 
+Link to an amendment published at 89 FR 22067, Mar. 29, 2024.
+
 (a) *General.* This part implements section 711 of the Gramm-Leach-Bliley Act (12 U.S.C. 1831y). That section requires any nongovernmental entity or person, insured depository institution, or affiliate of an insured depository institution that enters into a covered agreement to—
 
 (1) Make the covered agreement available to the public and the appropriate Federal banking agency; and

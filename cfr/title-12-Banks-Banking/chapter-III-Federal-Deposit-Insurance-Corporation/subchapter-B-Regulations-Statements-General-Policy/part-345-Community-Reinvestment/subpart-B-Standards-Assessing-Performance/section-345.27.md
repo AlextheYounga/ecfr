@@ -1,5 +1,7 @@
 ##### § 345.27 Strategic plan. #####
 
+Link to an amendment published at 89 FR 22069, Mar. 29, 2024.
+
 (a) *Alternative election.* The FDIC will assess a bank's record of helping to meet the credit needs of its assessment area(s) under a strategic plan if:
 
 (1) The bank has submitted the plan to the FDIC as provided for in this section;

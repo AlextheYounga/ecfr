@@ -1,6 +1,6 @@
 ##### § 228.11 Authority, purposes, and scope. #####
 
-Link to an amendment published at 89 FR 7188, Feb. 1, 2024.
+Link to an amendment published at 89 FR 7188, Feb. 1, 2024.Link to an amendment published at 89 FR 22068, Mar. 29, 2024.
 
 (a) *Authority.* The Board of Governors of the Federal Reserve System (the Board) issues this part to implement the Community Reinvestment Act (12 U.S.C. 2901 *et seq.*) (CRA). The regulations comprising this part are issued under the authority of the CRA and under the provisions of the United States Code authorizing the Board:
 

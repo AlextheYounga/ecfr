@@ -1,5 +1,7 @@
 ##### § 346.4 Fulfillment of the CRA. #####
 
+Link to an amendment published at 89 FR 22069, Mar. 29, 2024.
+
 (a) *List of factors that are in fulfillment of the CRA.* Fulfillment of the CRA, for purposes of this part, means the following list of factors—
 
 (1) *Comments to a Federal banking agency or included in CRA public file.* Providing or refraining from providing written or oral comments or testimony to any Federal banking agency concerning the performance under the CRA of an insured depository institution or CRA affiliate that is a party to the agreement or an affiliate of a party to the agreement or written comments that are required to be included in the CRA public file of any such insured depository institution; or

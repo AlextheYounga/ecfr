@@ -1,5 +1,7 @@
 ##### § 474.3 Petroleum-equivalent fuel economy calculation. #####
 
+Link to an amendment published at 89 FR 22059, Mar. 29, 2024.
+
 (a) The petroleum-equivalent fuel economy for an electric vehicle is calculated as follows:
 
 (1) Determine the electric vehicle's Urban Dynamometer Driving Schedule energy consumption value and the Highway Fuel Economy Driving Schedule energy consumption value in units of Watt-hours per mile;
