@@ -1,5 +1,5 @@
 ##### § 791.106 Recordkeeping requirement. #####
 
-Link to an amendment published at 89 FR 96895, Dec. 6, 2024.
+Upon notification that an ICTS Transaction is under review, such as, though not limited to, through a demand for information or documents related to an ICTS Transaction under § 791.101 or a notification that an Initial Determination concerning an ICTS Transaction has been made, a notified person must immediately take steps to retain any and all records relating to such Transaction and must retain such records for no less than ten (10) years following a Final Determination made under § 791.109 or as otherwise indicated in the Final Determination. If a notified person receives no notification that an Initial Determination concerning an ICTS Transaction has been made within ten (10) years of notification that an ICTS Transaction is under review, then the recordkeeping obligation will extend for ten (10) years following the initial notification of an ICTS Transaction review unless the notified person is informed otherwise by the Secretary.
 
-Upon notification that an ICTS Transaction is under review or that an initial determination concerning an ICTS Transaction has been made, a notified person must immediately take steps to retain any and all records relating to such transaction.
+[89 FR 96895, Dec. 6, 2024]

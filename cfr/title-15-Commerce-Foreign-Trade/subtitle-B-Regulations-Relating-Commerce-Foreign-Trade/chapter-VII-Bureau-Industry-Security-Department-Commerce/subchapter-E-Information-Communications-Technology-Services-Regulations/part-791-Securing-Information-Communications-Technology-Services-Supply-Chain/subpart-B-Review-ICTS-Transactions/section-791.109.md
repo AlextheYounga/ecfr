@@ -1,20 +1,18 @@
-##### § 791.109 Final determination. #####
+##### § 791.109 Final Determination. #####
 
-Link to an amendment published at 89 FR 96896, Dec. 6, 2024.
-
-(a) For each transaction for which the Secretary issues an initial determination that an ICTS Transaction is prohibited, the Secretary shall issue a final determination as to whether the ICTS Transaction is:
+(a) For each Covered ICTS Transaction for which the Secretary issues an Initial Determination, the Secretary shall issue a Final Determination as to whether the Covered ICTS Transaction is:
 
 (1) Prohibited;
 
 (2) Not prohibited; or
 
-(3) Permitted, at the Secretary's discretion, pursuant to the adoption of negotiated mitigation measures.
+(3) Permitted, at the Secretary's discretion, pursuant to the adoption of mitigation measures.
 
-(b) Unless the Secretary determines in writing that additional time is necessary, the Secretary shall issue the final determination within 180 days of accepting a referral and commencing the initial review of the ICTS Transaction pursuant to § 791.103.
+(b) Unless the Secretary, at the Secretary's sole discretion, determines in writing that additional time is necessary, the Secretary shall issue the Final Determination within 180 days of serving the Initial Determination pursuant to § 791.105(b)(3).
 
-(c) If the Secretary determines that an ICTS Transaction is prohibited, the Secretary shall have the discretion to direct the least restrictive means necessary to tailor the prohibition to address the undue or unacceptable risk posed by the ICTS Transaction.
+(c) If the Secretary determines that a Covered ICTS Transaction is prohibited, the Secretary shall direct the means that the Secretary assesses to be necessary to address the undue or unacceptable risk posed by the Covered ICTS Transaction.
 
-(d) The final determination shall:
+(d) The Final Determination shall:
 
 (1) Be written, signed, and dated;
 
@@ -22,22 +20,24 @@ Link to an amendment published at 89 FR 96896, Dec. 6, 2024.
 
 (3) Be unclassified and contain no reference to classified national security information;
 
-(4) Consider and address any information received from a party to the ICTS Transaction;
+(4) Consider and address any information received from a party or parties to the transaction;
 
-(5) Direct, if applicable, the timing and manner of the cessation of the ICTS Transaction;
+(5) Direct, if applicable, the timing and manner of the cessation of the Covered ICTS Transaction;
 
-(6) Explain, if applicable, that a final determination that the ICTS Transaction is not prohibited does not preclude the future review of transactions related in any way to the ICTS Transaction;
+(6) Explain, if applicable, that a Final Determination that the Covered ICTS Transaction is not prohibited does not preclude the future review of transactions related in any way to the Covered ICTS Transaction;
 
-(7) Include, if applicable, a description of the mitigation measures agreed upon by the party or parties to the ICTS Transaction and the Secretary; and
+(7) Include, if applicable, a description of the mitigation measures agreed upon by the party or parties to the transaction and the Secretary;
 
-(8) State the penalties a party will face if it fails to comply fully with any mitigation agreement or direction, including violations of IEEPA, or other violations of law.
+(8) State the penalties a party will face if it fails to comply fully with any mitigation agreement or direction, including violations of IEEPA, or other violations of law; and
 
-(e) The written, signed, and dated final determination shall be sent to:
+(9) Include, if applicable, how the Department may transition a mitigation agreement to a prohibition should a party or parties fail to comply with any mitigation agreement or obligations, or violate IEEPA or other law.
 
-(1) The parties to the ICTS Transaction via registered U.S. mail and electronic mail; and
+(e) The written, signed, and dated Final Determination shall be sent to:
+
+(1) The party or parties to the transaction that are identified in the Final Determination via registered U.S. mail and electronic mail; and
 
 (2) The appropriate agency heads.
 
-(f) The results of final written determinations to prohibit an ICTS Transaction shall be published in the Federal Register. The publication shall omit any confidential business information.
+(f) The Secretary shall publish a notice of any Final Determination to prohibit an ICTS Transaction in the Federal Register. The Secretary shall also publish a notice of Final Determination for any ICTS Transaction for which the Secretary published a notice of an Initial Determination. The Secretary may publish a notice of a Final Determination to mitigate an ICTS Transaction in the Federal Register. Any notice of a Final Determination that is published in the Federal Register shall omit any confidential business information.
 
-[86 FR 4923, Jan. 19, 2021. Redesignated and amended at 89 FR 58265, July 18, 2024]
+[89 FR 96896, Dec. 6, 2024]

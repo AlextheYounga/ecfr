@@ -1,12 +1,14 @@
 ##### § 791.2 Definitions. #####
 
-Link to an amendment published at 89 FR 96892, Dec. 6, 2024.
-
-*Appropriate agency heads* means the Secretary of the Treasury, the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the United States Trade Representative, the Director of National Intelligence, the Administrator of General Services, the Chairman of the Federal Communications Commission, and the heads of any other executive departments and agencies the Secretary determines is appropriate.
+*Appropriate agency heads* means the Secretary of the Treasury, the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the United States Trade Representative, the Director of National Intelligence, the Administrator of General Services, the Chairman of the Federal Communications Commission, and the heads of any other executive departments and agencies the Secretary determines is appropriate, or their designees.
 
 *Commercial item* has the same meaning given to it in Federal Acquisition Regulation (48 CFR part 2.101).
 
 *Connected software application* means software, a software program, or a group of software programs, that is designed to be used on an end-point computing device and includes as an integral functionality, the ability to collect, process, or transmit data via the internet.
+
+*Covered ICTS Transaction* means an ICTS Transaction or a class of ICTS Transactions that meets the criteria set forth in § 791.3.
+
+*Dealing in* means the activity of buying, selling, reselling, receiving, licensing, or acquiring ICTS, or otherwise doing or engaging in business involving the conveyance of ICTS.
 
 *Department* means the United States Department of Commerce.
 
@@ -22,15 +24,25 @@ Link to an amendment published at 89 FR 96892, Dec. 6, 2024.
 
 *IEEPA* means the International Emergency Economic Powers Act (50 U.S.C. 1701, *et seq.*).
 
+*Importation* means the process or activity of bringing foreign ICTS to or into the United States, regardless of the means of conveyance, including via electronic transmission.
+
 *Information and communications technology or services* or *ICTS* means any hardware, software, including connected software applications, or other product or service, including cloud-computing services, primarily intended to fulfill or enable the function of information or data processing, storage, retrieval, or communication by electronic means (including electromagnetic, magnetic, and photonic), including through transmission, storage, or display.
 
-*Party or parties to a transaction* means a person engaged in an ICTS Transaction, including the person acquiring the ICTS and the person from whom the ICTS is acquired. Party or parties to a transaction include entities designed, or otherwise used with the intention, to evade or circumvent application of the Executive Order. For purposes of this rule, this definition does not include common carriers, except to the extent that a common carrier knew or should have known (as the term “knowledge” is defined in 15 CFR 772.1) that it was providing transportation services of ICTS to one or more of the parties to a transaction that has been prohibited in a final written determination made by the Secretary or, if permitted subject to mitigation measures, in violation of such mitigation measures.
+*Party or parties to a Transaction* means a person or persons engaged in an ICTS Transaction or class of ICTS Transactions, including, but not limited to the following: designer, developer, provider, buyer, purchaser, seller, transferor, licensor, broker, acquiror, intermediary (including consignee), and end user. Party or parties to a Transaction include entities designed, or otherwise used with the intention, to evade or circumvent application of the Executive Order. For purposes of this rule, this definition does not include common carriers, except to the extent that a common carrier knew or should have known (as the term “knowledge” is defined in 15 CFR 772.1) that it was providing transportation services of ICTS to one or more of the parties to a Transaction that has been prohibited in a final written determination made by the Secretary or, if permitted subject to mitigation measures, in violation of such mitigation measures.
 
 *Person* means an individual or entity.
 
-*Person owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary* means any person, wherever located, who acts as an agent, representative, or employee, or any person who acts in any other capacity at the order, request, or under the direction or control, of a foreign adversary or of a person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized in whole or in majority part by a foreign adversary; any person, wherever located, who is a citizen or resident of a nation-state controlled by a foreign adversary; any corporation, partnership, association, or other organization organized under the laws of a nation-state controlled by a foreign adversary; and any corporation, partnership, association, or other organization, wherever organized or doing business, that is owned or controlled by a foreign adversary.
+*Person owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary* means:
 
-*Secretary* means the Secretary of Commerce or the Secretary's designee.
+(1) Any person, wherever located, who acts as an agent, representative, or employee, or any person who acts in any other capacity at the order, request, or under the direction or control, of a foreign adversary or of a person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized in whole or in majority part by a foreign adversary;
+
+(2) Any person, wherever located, who is a citizen or resident of a foreign adversary or a country controlled by a foreign adversary, and is not a United States citizen or permanent resident of the United States;
+
+(3) Any corporation, partnership, association, or other organization with a principal place of business in, headquartered in, incorporated in, or otherwise organized under the laws of a foreign adversary or a country controlled by a foreign adversary; or
+
+(4) Any corporation, partnership, association, or other organization, wherever organized or doing business, that is owned or controlled by a foreign adversary, to include circumstances in which any person identified in paragraphs (1) through (3) of this definition possesses the power, direct or indirect, whether or not exercised, through the ownership of a majority or a dominant minority of the total outstanding voting interest in an entity, board representation, proxy voting, a special share, contractual arrangements, formal or informal arrangements to act in concert, or other means, to determine, direct, or decide important matters affecting an entity.
+
+*Secretary* means the Secretary of Commerce or the Secretary's designee, including for example the Under Secretary of Commerce for Industry and Security or the Executive Director of the Office of Information and Communications Technology and Services.
 
 *Sensitive personal data* means:
 
@@ -60,8 +72,8 @@ Link to an amendment published at 89 FR 96892, Dec. 6, 2024.
 
 *Undue or unacceptable risk* means those risks identified in Section 1(a)(ii) of the Executive Order.
 
-*United States person* means any United States citizen; any permanent resident alien; or any entity organized under the laws of the United States or any jurisdiction within the United States (including such entity's foreign branches).
+*United States person* means any United States citizen; any permanent resident alien; any entity organized under the laws of the United States or any jurisdiction within the United States (including such entity's foreign branches); or any person in the United States.
 
 *Via the internet* means using internet protocols to transmit data, including, but not limited to, transmissions by cable, telephone lines, wireless methods, satellites, or other means.
 
-[86 FR 4923, Jan. 19, 2021, as amended at 88 FR 39357, June 16, 2023]
+[86 FR 4923, Jan. 19, 2021, as amended at 88 FR 39357, June 16, 2023; 89 FR 96892, Dec. 6, 2024]

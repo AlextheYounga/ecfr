@@ -1,7 +1,9 @@
-##### § 791.104 First interagency consultation. #####
+##### § 791.104 First interagency notification. #####
 
-Link to an amendment published at 89 FR 96895, Dec. 6, 2024.
+(a) If the Secretary assesses that an ICTS Transaction meets the criteria under § 791.103(b), the Secretary shall memorialize that assessment, provide the assessment to the appropriate agency heads, and offer the appropriate agency heads twenty-one (21) days to comment in writing on the Secretary's assessment.
 
-Upon finding that an ICTS Transaction likely meets the criteria set forth in § 791.103(c) during the initial review under § 791.103, the Secretary shall notify the appropriate agency heads and, in consultation with them, shall determine whether the ICTS Transaction meets the criteria set forth in § 791.103(c).
+(b) If the Secretary does not receive written comments on the assessment from an appropriate agency head within twenty-one (21) days of notification, the Secretary may presume that agency has no comments.
 
-[86 FR 4923, Jan. 19, 2021. Redesignated and amended at 89 FR 58265, July 18, 2024]
+(c) The Secretary may, at the Secretary's discretion, modify or revise the assessment based on comments received from the appropriate agency heads. The Secretary retains discretion to make an Initial Determination, as provided in § 791.105, regardless of the comments received.
+
+[89 FR 96895, Dec. 6, 2024]
