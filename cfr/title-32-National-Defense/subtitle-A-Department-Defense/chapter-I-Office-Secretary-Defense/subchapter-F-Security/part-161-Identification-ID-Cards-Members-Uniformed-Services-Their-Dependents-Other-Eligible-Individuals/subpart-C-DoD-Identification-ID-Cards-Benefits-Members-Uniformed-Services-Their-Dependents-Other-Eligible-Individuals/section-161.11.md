@@ -1,5 +1,7 @@
 ##### § 161.11 Benefits For National Guard and Reserve members of the uniformed services. #####
 
+Link to an amendment published at 89 FR 11180, Feb. 14, 2024.
+
 This section describes the benefits for National Guard and Reserve members of the uniformed services and their eligible dependents. Benefits for members of the Retired Reserve and their eligible dependents are described in § 161.13. Benefits for surviving dependents of deceased National Guard and Reserve members are described in § 161.17.
 
 (a) *National Guard and Reserve members.* National Guard and Reserve members are eligible for benefits based on being ordered to periods of active duty or full-time National Guard duty or active status in the SelRes, including Ready Reserve and Standby Reserve and participation in the Reserve Officer Training Corps.

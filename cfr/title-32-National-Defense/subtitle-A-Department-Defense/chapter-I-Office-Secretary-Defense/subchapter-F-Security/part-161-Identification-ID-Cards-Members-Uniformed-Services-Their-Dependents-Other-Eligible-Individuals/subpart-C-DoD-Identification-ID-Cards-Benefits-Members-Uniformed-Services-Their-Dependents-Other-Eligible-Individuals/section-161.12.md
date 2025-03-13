@@ -1,5 +1,7 @@
 ##### § 161.12 Benefits for former uniformed services members. #####
 
+Link to an amendment published at 89 FR 11181, Feb. 14, 2024.
+
 This section describes the benefits for former uniformed services members and their eligible dependents. Former members are eligible to receive retired pay, at age 60, for non-regular service in accordance with 10 U.S.C. chapter 1223, but have been discharged from their respective Service or agency and maintain no military affiliation.
 
 (a) *Former members and their eligible dependents.* Former members and their dependents are eligible for benefits as shown in Table 6 to this subpart.

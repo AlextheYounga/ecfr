@@ -1,5 +1,7 @@
 ##### § 161.3 Definitions. #####
 
+Link to an amendment published at 89 FR 11179, Feb. 14, 2024.
+
 Unless otherwise noted, these terms and their definitions are for the purpose of this part.
 
 *20/20/20, 20/20/15, or 10/20/10.* See definition of “former spouse.”

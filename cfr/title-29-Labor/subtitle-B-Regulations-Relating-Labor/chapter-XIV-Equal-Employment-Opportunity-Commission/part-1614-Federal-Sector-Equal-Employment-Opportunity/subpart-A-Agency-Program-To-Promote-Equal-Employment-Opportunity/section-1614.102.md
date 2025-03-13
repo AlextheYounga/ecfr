@@ -8,7 +8,7 @@
 
 (3) Conduct a continuing campaign to eradicate every form of prejudice or discrimination from the agency's personnel policies, practices and working conditions;
 
-(4) Communicate the agency's equal employment opportunity policy and program and its employment needs to all sources of job candidates without regard to race, color, religion, sex, national origin, age, disability, or genetic information, and solicit their recruitment assistance on a continuing basis;
+(4) Communicate the agency's equal employment opportunity policy and program and its employment needs to all sources of job candidates without regard to race; color; religion; sex; national origin; age; disability; genetic information; or pregnancy, childbirth, or related medical conditions; and solicit their recruitment assistance on a continuing basis;
 
 (5) Review, evaluate and control managerial and supervisory performance in such a manner as to insure a continuing affirmative application and vigorous enforcement of the policy of equal opportunity, and provide orientation, training and advice to managers and supervisors to assure their understanding and implementation of the equal employment opportunity policy and program;
 
@@ -62,4 +62,4 @@
 
 (f) Unless prohibited by law or executive order, the Commission, in its discretion and for good cause shown, may grant agencies prospective variances from the complaint processing procedures prescribed in this Part. Variances will permit agencies to conduct pilot projects of proposed changes to the complaint processing requirements of this Part that may later be made permanent through regulatory change. Agencies requesting variances must identify the specific section(s) of this Part from which they wish to deviate and exactly what they propose to do instead, explain the expected benefit and expected effect on the process of the proposed pilot project, indicate the proposed duration of the pilot project, and discuss the method by which they intend to evaluate the success of the pilot project. Variances will not be granted for individual cases and will usually not be granted for more than 24 months. The Director of the Office of Federal Operations for good cause shown may grant requests for extensions of variances for up to an additional 12 months. Pilot projects must require that participants knowingly and voluntarily opt-in to the pilot project. Requests for variances should be addressed to the Director, Office of Federal Operations.
 
-[57 FR 12646, Apr. 10, 1992, as amended at 64 FR 37655, July 12, 1999; 67 FR 35735, May 21, 2002; 74 FR 63984, Dec. 7, 2009; 77 FR 43504, July 25, 2012]
+[57 FR 12646, Apr. 10, 1992, as amended at 64 FR 37655, July 12, 1999; 67 FR 35735, May 21, 2002; 74 FR 63984, Dec. 7, 2009; 77 FR 43504, July 25, 2012; 89 FR 11171, Feb. 14, 2024]

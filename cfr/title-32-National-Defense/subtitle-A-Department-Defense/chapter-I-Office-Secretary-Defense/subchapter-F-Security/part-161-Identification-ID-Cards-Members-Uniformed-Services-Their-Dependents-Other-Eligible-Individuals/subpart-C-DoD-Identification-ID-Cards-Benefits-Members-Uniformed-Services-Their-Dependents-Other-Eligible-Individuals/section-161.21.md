@@ -1,5 +1,7 @@
 ##### § 161.21 Benefits for retired civilian personnel. #####
 
+Link to an amendment published at 89 FR 11193, Feb. 14, 2024.
+
 (a) *Retired DoD civilian employees.* Retired appropriated and non-appropriated fund employees of the DoD are eligible for benefits as shown in Table 45 to this subpart. The Under Secretary of Defense for Personnel and Readiness Memorandum, “Department of Defense Civilian Retiree Identification Cards,” authorized the issuance of a DoD ID card to this population.
 
 Table 45 to Subpart C of Part 161—Benefits for Retired DoD Civilian Employees

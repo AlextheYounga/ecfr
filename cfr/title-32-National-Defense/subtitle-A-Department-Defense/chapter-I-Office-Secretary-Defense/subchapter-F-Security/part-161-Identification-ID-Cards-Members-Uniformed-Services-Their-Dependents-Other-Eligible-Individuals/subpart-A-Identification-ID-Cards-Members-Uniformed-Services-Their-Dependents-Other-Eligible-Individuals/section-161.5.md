@@ -1,5 +1,7 @@
 ##### § 161.5 Responsibilities. #####
 
+Link to an amendment published at 89 FR 11179, Feb. 14, 2024.
+
 (a) The USD(P&R) shall:
 
 (1) Oversee implementation of the procedures within this part.

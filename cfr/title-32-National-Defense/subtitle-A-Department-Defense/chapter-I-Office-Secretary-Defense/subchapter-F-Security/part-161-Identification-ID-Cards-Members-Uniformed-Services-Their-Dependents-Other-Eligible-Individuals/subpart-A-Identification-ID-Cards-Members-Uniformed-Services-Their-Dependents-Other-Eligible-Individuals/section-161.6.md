@@ -1,5 +1,7 @@
 ##### § 161.6 Procedures. #####
 
+Link to an amendment published at 89 FR 11179, Feb. 14, 2024.
+
 (a) The DoD ID card life cycle shall be supported by an infrastructure that is predicated on a systems-based model for credentialing as described in FIPS Publication 201-2. Paragraphs (a)(1) through (7) of this section represent the baseline requirements for the life cycle of all DoD ID cards. The specific procedures and sequence of order for these items will vary based on the applicant's employment status or affiliation with the DoD and the type of ID card issued. Detailed procedures of the ID card life cycle for each category of applicant and type of ID card shall be provided by the responsible agency.
 
 (1) *Sponsorship and eligibility.* Sponsorship shall incorporate the processes for confirming eligibility for an ID card. The sponsor is the person affiliated with the DoD or other Federal agency who takes responsibility for verifying and authorizing the applicant's need for an ID card. Applicants for a CAC must be sponsored by a DoD government official or employee.

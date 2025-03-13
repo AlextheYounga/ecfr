@@ -1,0 +1,5 @@
+##### § 1602.45 Additional reporting requirements. #####
+
+The Commission reserves the right to require reports, other than that designated as the Elementary-Secondary Information Report EEO-5, about the employment practices of private or public individual school systems, districts, or schools, or groups thereof, whenever, in its judgment, special or supplemental reports are necessary to accomplish the purposes of title VII, the ADA, GINA, or the PWFA. Any system for the requirement of such reports will be established in accordance with the procedures referred to in section 709(c) of title VII, section 107 of the ADA, section 207(a) of GINA, or section 104 of the PWFA and as otherwise prescribed by law.
+
+[38 FR 27619, Sept. 25, 1973, as amended at 56 FR 35756, July 26, 1991; 74 FR 63983, Dec. 7, 2009; 89 FR 11170, Feb. 14, 2024]

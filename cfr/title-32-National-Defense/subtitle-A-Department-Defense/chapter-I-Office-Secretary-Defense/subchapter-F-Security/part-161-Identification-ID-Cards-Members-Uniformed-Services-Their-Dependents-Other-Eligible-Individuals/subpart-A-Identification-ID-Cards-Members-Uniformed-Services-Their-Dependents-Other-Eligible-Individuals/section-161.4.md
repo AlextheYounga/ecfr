@@ -1,5 +1,7 @@
 ##### § 161.4 Policy. #####
 
+Link to an amendment published at 89 FR 11179, Feb. 14, 2024.
+
 (a) It is DoD policy that a distinct DoD ID card shall be issued to uniformed service members, their dependents, DoD civilian employees, and other eligible individuals and will be used as proof of identity and DoD affiliation.
 
 (b) DoD ID cards shall serve as the Geneva Convention Card for eligible personnel in accordance with DoD Instruction 1000.1, “Identity Cards Required by the Geneva Convention” (available at *http://www.dtic.mil/whs/directives/corres/pdf/100001p.pdf*).

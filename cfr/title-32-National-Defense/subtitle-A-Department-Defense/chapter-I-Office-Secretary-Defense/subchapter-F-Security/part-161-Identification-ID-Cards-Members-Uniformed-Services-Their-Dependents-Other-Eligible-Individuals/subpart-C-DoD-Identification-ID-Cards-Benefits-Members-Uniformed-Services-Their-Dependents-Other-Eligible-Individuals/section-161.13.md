@@ -1,5 +1,7 @@
 ##### § 161.13 Benefits for retired members of the uniformed services. #####
 
+Link to an amendment published at 89 FR 11182, Feb. 14, 2024.
+
 This section describes the benefits for retired uniformed service members entitled to retired pay and their eligible dependents. Retired uniformed service members are entitled to retired pay and eligible for benefits administered by the uniformed services in accordance with 10 U.S.C., DoD Instruction 1330.17, DoD Instruction 1330.21, DoD Instruction 1015.10, and TRICARE Policy Manual 6010.57-M (available at *http://www.tricare.mil/contracting/healthcare/t3manuals/change2/tp08/c8s9\_1.pdf*). This includes voluntary, temporary, and permanent disability retired list (PDRL) retirees. Benefits for former members and their eligible dependents are described in § 161.12.
 
 (a) *Retired members.* Benefits for voluntary retired members and PDRL retirees are shown in Table 7 to this subpart. Benefits for temporary disability retired list (TDRL) retirees are shown in Table 8 to this subpart.

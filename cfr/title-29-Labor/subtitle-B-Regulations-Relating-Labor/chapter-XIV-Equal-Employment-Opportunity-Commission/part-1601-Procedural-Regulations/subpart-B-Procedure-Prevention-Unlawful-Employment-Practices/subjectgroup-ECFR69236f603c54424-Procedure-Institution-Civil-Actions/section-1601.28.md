@@ -4,11 +4,11 @@
 
 (2) When a person claiming to be aggrieved requests, in writing, that a notice of right to sue be issued, and the charge to which the request relates is filed against a respondent other than a government, governmental agency or political subdivision, the Commission may issue such notice as described in § 1601.28(e) with copies to all parties, at any time prior to the expiration of 180 days from the date of filing of the charge with the Commission; provided that the District Director, the Field Director, the Area Director, the Local Director, the Director of the Office of Field Programs or upon delegation, the Director of Field Management Programs has determined that it is probable that the Commission will be unable to complete its administrative processing of the charge within 180 days from the filing of the charge and has attached a written certificate to that effect.
 
-(3) Issuance of a notice of right to sue shall terminate further proceeding of any charge that is not a Commissioner charge unless the District Director; Field Director; Area Director; Local Director; Director of the Office of Field Programs or upon delegation, the Director of Field Management Programs; or the General Counsel, determines at that time or at a later time that it would effectuate the purpose of title VII, the ADA, or GINA to further process the charge. Issuance of a notice of right to sue shall not terminate the processing of a Commissioner charge.
+(3) Issuance of a notice of right to sue shall terminate further proceeding of any charge that is not a Commissioner charge unless the District Director; Field Director; Area Director; Local Director; Director of the Office of Field Programs or upon delegation, the Director of Field Management Programs; or the General Counsel, determines at that time or at a later time that it would effectuate the purpose of title VII, the ADA, GINA, or the PWFA to further process the charge. Issuance of a notice of right to sue shall not terminate the processing of a Commissioner charge.
 
 (4) The issuance of a notice of right to sue does not preclude the Commission from offering such assistance to a person issued such notice as the Commission deems necessary or appropriate.
 
-(b) *Issuance of notice of right to sue following Commission disposition of charge.* (1) Where the Commission has found reasonable cause to believe that title VII, the ADA, or GINA has been violated, has been unable to obtain voluntary compliance with title VII, the ADA, or GINA, and where the Commission has decided not to bring a civil action against the respondent, it will issue a notice of right to sue on the charge as described in § 1601.28(e) to:
+(b) *Issuance of notice of right to sue following Commission disposition of charge.* (1) Where the Commission has found reasonable cause to believe that title VII, the ADA, GINA, or the PWFA has been violated, has been unable to obtain voluntary compliance with title VII, the ADA, GINA, or the PWFA, and where the Commission has decided not to bring a civil action against the respondent, it will issue a notice of right to sue on the charge as described in § 1601.28(e) to:
 
 (i) The person claiming to be aggrieved, or,
 
@@ -34,7 +34,7 @@
 
 (e) *Content of notice of right to sue.* The notice of right to sue shall include:
 
-(1) Authorization to the aggrieved person to bring a civil action under title VII, the ADA, or GINA pursuant to section 706(f)(1) of title VII, section 107 of the ADA, or section 207 of GINA within 90 days from receipt of such authorization;
+(1) Authorization to the aggrieved person to bring a civil action under title VII, the ADA, GINA, or the PWFA pursuant to section 706(f)(1) of title VII, section 107 of the ADA, section 207 of GINA, or section 104 of the PWFA within 90 days from receipt of such authorization;
 
 (2) Advice concerning the institution of such civil action by the person claiming to be aggrieved, where appropriate;
 
@@ -42,4 +42,4 @@
 
 (4) The Commission's decision, determination, or dismissal, as appropriate.
 
-[42 FR 55388, Oct. 14, 1977, as amended at 44 FR 4669, Jan. 23, 1979; 45 FR 73037, Nov. 4, 1980; 47 FR 46275, Oct. 18, 1982; 48 FR 19165, Apr. 28, 1983; 49 FR 13024, Apr. 2, 1984; 49 FR 13874, Apr. 9, 1984; 52 FR 26959, July 17, 1987; 54 FR 32061, Aug. 4, 1989; 56 FR 9624, 9625, Mar. 7, 1991; 71 FR 26829, May 9, 2006; 74 FR 63982, Dec. 7, 2009; 85 FR 65218, Oct. 15, 2020]
+[42 FR 55388, Oct. 14, 1977, as amended at 44 FR 4669, Jan. 23, 1979; 45 FR 73037, Nov. 4, 1980; 47 FR 46275, Oct. 18, 1982; 48 FR 19165, Apr. 28, 1983; 49 FR 13024, Apr. 2, 1984; 49 FR 13874, Apr. 9, 1984; 52 FR 26959, July 17, 1987; 54 FR 32061, Aug. 4, 1989; 56 FR 9624, 9625, Mar. 7, 1991; 71 FR 26829, May 9, 2006; 74 FR 63982, Dec. 7, 2009; 85 FR 65218, Oct. 15, 2020; 89 FR 11169, Feb. 14, 2024]

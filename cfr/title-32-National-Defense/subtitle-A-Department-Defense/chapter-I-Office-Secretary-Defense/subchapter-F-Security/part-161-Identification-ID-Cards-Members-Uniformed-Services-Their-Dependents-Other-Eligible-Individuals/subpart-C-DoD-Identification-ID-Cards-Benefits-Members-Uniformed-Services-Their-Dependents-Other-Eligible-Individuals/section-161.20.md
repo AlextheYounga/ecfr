@@ -1,5 +1,7 @@
 ##### § 161.20 Benefits for civilian personnel. #####
 
+Link to an amendment published at 89 FR 11189, Feb. 14, 2024.
+
 Civilian personnel may be eligible for certain benefits described in this section based on their affiliation with DoD, Service-specific guidelines, or other authorizing conditions. The definition of “civilian personnel” (e.g., civilian employee, DoD contractor, Red Cross employee) is specific to each benefit set described.
 
 (a) Civilian personnel in the United States may be issued a DoD ID card as a condition of employment or assignment in accordance with subpart B of this part. Civilian personnel in the United States are eligible for benefits as shown in Table 29 to this subpart.

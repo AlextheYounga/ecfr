@@ -1,5 +1,7 @@
 ##### § 161.16 Benefits for transitional health care members and dependents. #####
 
+Link to an amendment published at 89 FR 11184, Feb. 14, 2024.
+
 This section shows the benefits for THC members and their eligible dependents. THC (formerly the TAMP) was instituted in section 502 of Public Law 101-510, “Department of Defense Appropriations Bill Fiscal Year 1991” effective October 1, 1990. Section 706 of Public Law 108-375, “National Defense Authorization Act of for Fiscal Year 2005” made the THC program permanent and made the medical eligibility 180 days for all eligible uniformed services members. Section 651 of Public Law 110-181 extended 2 years' commissary and exchange benefits to THC members. Section 734 of Public Law 110-417, “National Defense Authorization Act for Fiscal Year 2009” extended THC benefits to uniformed service members separating from active duty who agree to become members of the SelRes of the Ready Reserve of a reserve component. Uniformed service members separated as uncharacterized entry-level separations do not qualify for THC.
 
 Table 15 to Subpart C of Part 161—Benefits for THC Members and Dependents

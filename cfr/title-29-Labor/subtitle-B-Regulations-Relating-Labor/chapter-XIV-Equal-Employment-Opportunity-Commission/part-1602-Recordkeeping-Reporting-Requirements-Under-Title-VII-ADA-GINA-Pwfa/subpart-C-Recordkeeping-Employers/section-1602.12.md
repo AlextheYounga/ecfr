@@ -1,0 +1,5 @@
+##### § 1602.12 Records to be made or kept. #####
+
+The Commission has not adopted any requirement, generally applicable to employers, that records be made or kept. It reserves the right to impose recordkeeping requirements upon individual employers or groups of employers subject to its jurisdiction whenever, in its judgment, such records (a) are necessary for the effective operation of the EEO-1 reporting system or of any special or supplemental reporting system as described above; or (b) are further required to accomplish the purposes of title VII, the ADA, GINA, or the PWFA. Such record-keeping requirements will be adopted in accordance with the procedures referred to in section 709(c) of title VII, section 107 of the ADA, section 207(a) of GINA, or section 104 of the PWFA, and otherwise prescribed by law.
+
+(Approved by the Office of Management and Budget under control number 3046-0040)[31 FR 2833, Feb. 17, 1966, as amended at 46 FR 63268, Dec. 31, 1981; 56 FR 35755, July 26, 1991; 74 FR 63983, Dec. 7, 2009; 89 FR 11170, Feb. 14, 2024]

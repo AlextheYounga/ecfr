@@ -1,5 +1,7 @@
 ##### § 161.15 Benefits for Disabled American Veterans (DAV). #####
 
+Link to an amendment published at 89 FR 11183, Feb. 14, 2024.
+
 This section describes the benefits for DAVs rated as 100 percent disabled or incapable of pursuing substantially gainful employment by the VA and their eligible dependents. Neither DAVs nor their eligible dependents receive CHC or DC benefits from the DoD based on their affiliation. Honorably discharged veterans rated by the VA as 100 percent disabled or incapable of pursuing substantially gainful employment from a service-connected injury or disease, and their dependents, are eligible for benefits as shown in Table 14 to this subpart.
 
 Table 14 to Subpart C of Part 161—Benefits for 100 Percent DAVs and Dependents

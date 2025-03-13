@@ -1,5 +1,7 @@
 ##### § 161.10 Benefits for active duty members of the uniformed services. #####
 
+Link to an amendment published at 89 FR 11180, Feb. 14, 2024.
+
 This section describes the benefits for active duty uniformed services members and their eligible dependents administered by the uniformed services in accordance with 10 U.S.C. chapter 55. Descriptions of benefits for National Guard and Reserve members and their eligible dependents are contained in § 161.11. Descriptions of benefits for surviving dependents of active duty uniformed services members are contained in § 161.17.
 
 (a) *Active duty service members.* Active duty uniformed services members are eligible for benefits administered by the uniformed services as shown in Table 1 to this subpart.

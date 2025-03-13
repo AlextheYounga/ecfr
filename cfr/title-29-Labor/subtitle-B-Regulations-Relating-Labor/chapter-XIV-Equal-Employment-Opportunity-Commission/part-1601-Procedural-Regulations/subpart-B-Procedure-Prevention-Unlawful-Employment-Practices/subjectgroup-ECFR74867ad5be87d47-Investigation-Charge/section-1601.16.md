@@ -1,6 +1,6 @@
 ##### § 1601.16 Access to and production of evidence; testimony of witnesses; procedure and authority. #####
 
-(a) To effectuate the purposes of title VII, the ADA, and GINA, any member of the Commission shall have the authority to sign and issue a subpoena requiring:
+(a) To effectuate the purposes of title VII, the ADA, GINA, and the PWFA, any member of the Commission shall have the authority to sign and issue a subpoena requiring:
 
 (1) The attendance and testimony of witnesses;
 
@@ -20,4 +20,4 @@ Any District Director, and the Director of the Office of Field Programs, or upon
 
 (e) Witnesses who are subpoenaed pursuant to § 1601.16(a) shall be entitled to the same fees and mileage that are paid witnesses in the courts of the United States.
 
-[43 FR 30798, July 18, 1978, as amended at 47 FR 46275, Oct. 18, 1982; 51 FR 29098, Aug. 14, 1986; 54 FR 32061, Aug. 4, 1989; 55 FR 14245, Apr. 17, 1990; 56 FR 9624, Mar. 7, 1991; 71 FR 26828, May 9, 2006; 74 FR 3430, Jan. 21, 2009; 74 FR 63983, Dec. 7, 2009; 85 FR 65218, Oct. 15, 2020]
+[43 FR 30798, July 18, 1978, as amended at 47 FR 46275, Oct. 18, 1982; 51 FR 29098, Aug. 14, 1986; 54 FR 32061, Aug. 4, 1989; 55 FR 14245, Apr. 17, 1990; 56 FR 9624, Mar. 7, 1991; 71 FR 26828, May 9, 2006; 74 FR 3430, Jan. 21, 2009; 74 FR 63983, Dec. 7, 2009; 85 FR 65218, Oct. 15, 2020; 89 FR 11169, Feb. 14, 2024]

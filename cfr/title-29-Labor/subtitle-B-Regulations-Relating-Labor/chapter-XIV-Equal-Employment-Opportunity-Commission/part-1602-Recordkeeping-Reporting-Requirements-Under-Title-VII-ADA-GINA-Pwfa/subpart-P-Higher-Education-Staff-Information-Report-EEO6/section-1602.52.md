@@ -1,0 +1,3 @@
+##### § 1602.52 Commission's remedy for failure to file. #####
+
+Any institution of higher education failing or refusing to keep records, in accordance with § 1602.48 or § 1602.49 of subpart O of this part, or failing or refusing to file Report EEO-6 when required to do so, in accordance with § 1602.50 of this part, may be compelled to keep records or to file by order of a United States District Court upon application of the Commission, or the Attorney General in a case involving a public institution.

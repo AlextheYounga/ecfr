@@ -1,6 +1,6 @@
 ##### § 1603.102 Filing a complaint. #####
 
-(a) *Who may make a complaint.* Individuals referred to in § 1603.101 who believe they have been discriminated against on the basis of race, color, religion, sex, national origin, age, disability, or genetic information, or retaliated against for opposing any practice made unlawful by federal laws protecting equal employment opportunity or for participating in any stage of administrative or judicial proceedings under federal laws protecting equal employment opportunity may file a complaint not later than 180 days after the occurrence of the alleged discrimination.
+(a) *Who may make a complaint.* Individuals referred to in § 1603.101 who believe they have been discriminated against on the basis of race; color; religion; sex; national origin; age; disability; genetic information; or pregnancy, childbirth, or related medical conditions; or retaliated against for opposing any practice made unlawful by federal laws protecting equal employment opportunity or for participating in any stage of administrative or judicial proceedings under federal laws protecting equal employment opportunity may file a complaint not later than 180 days after the occurrence of the alleged discrimination.
 
 (b) *Where to file a complaint.* A complaint may be filed in person, by mail or by facsimile machine to any Commission office or with any designated agent or representative of the Commission. The addresses of the Commission's District, Field, Area and Local offices appear in 29 CFR 1610.4.
 
@@ -18,4 +18,4 @@
 
 (e) *Misfiled complaint.* A charge filed pursuant to 29 CFR part 1601 or part 1626, that is later deemed to be a matter under this part, shall be processed as a complaint under this part and shall relate back to the date of the initial charge or complaint. A complaint filed under this part that is later deemed to be a matter under 29 CFR part 1601 or part 1626 shall be processed as a charge under the appropriate regulation and shall relate back to the date of the initial complaint.
 
-[62 FR 17543, Apr. 10, 1997, as amended at 71 FR 26829, May 9, 2006; 74 FR 63983, Dec. 7, 2009]
+[62 FR 17543, Apr. 10, 1997, as amended at 71 FR 26829, May 9, 2006; 74 FR 63983, Dec. 7, 2009; 89 FR 11170, Feb. 14, 2024]

@@ -2,7 +2,7 @@
 
 (a) State and local fair employment practice agencies or authorities which qualify under section 706(c) of title VII and this section shall be designated as “FEP agencies.” The qualifications for designation under section 706(c) are as follows:
 
-(1) That the state or political subdivision has a fair employment practice law which makes unlawful employment practices based upon race, color, religion, sex, national origin, disability, or genetic information; and
+(1) That the state or political subdivision has a fair employment practice law which makes unlawful employment practices based upon race; color; religion; sex; national origin; disability; genetic information; or pregnancy, childbirth, or related medical conditions; and
 
 (2) That the State or political subdivision has either established a State or local authority or authorized an existing State or local authority that is empowered with respect to employment practices found to be unlawful, to do one of three things: To grant relief from the practice; to seek relief from the practice; or to institute criminal proceedings with respect to the practice.
 
@@ -18,8 +18,8 @@
 
 (4) A detailed statement as to how the agency or authority meets the qualifications of paragraph (a) (1) and (2) of § 1601.70.
 
-(d) Where both State and local FEP agencies exist, the Commission reserves the right to defer to the State FEP agency only. However, where there exist agencies of concurrent jurisdiction, the Commission may defer to the FEP agency which would best serve the purposes of title VII, the ADA, or GINA, or to both.
+(d) Where both State and local FEP agencies exist, the Commission reserves the right to defer to the State FEP agency only. However, where there exist agencies of concurrent jurisdiction, the Commission may defer to the FEP agency which would best serve the purposes of title VII, the ADA, GINA, or the PWFA, or to both.
 
 (e) The Chair or his or her designee, will provide to the Attorney General of the concerned State (and corporation counsel of a concerned local government, if appropriate) an opportunity to comment upon aspects of State or local law which might affect the qualifications of any new agency in that State otherwise cognizable under this section.
 
-[45 FR 33606, May 20, 1980, as amended at 47 FR 53733, Nov. 29, 1982. Redesignated and amended at 56 FR 9625, Mar. 7, 1991; 60 FR 46220, Sept. 6, 1995; 74 FR 63982, Dec. 7, 2009; 85 FR 65219, Oct. 15, 2020]
+[45 FR 33606, May 20, 1980, as amended at 47 FR 53733, Nov. 29, 1982. Redesignated and amended at 56 FR 9625, Mar. 7, 1991; 60 FR 46220, Sept. 6, 1995; 74 FR 63982, Dec. 7, 2009; 85 FR 65219, Oct. 15, 2020; 89 FR 11169, 11170, Feb. 14, 2024]

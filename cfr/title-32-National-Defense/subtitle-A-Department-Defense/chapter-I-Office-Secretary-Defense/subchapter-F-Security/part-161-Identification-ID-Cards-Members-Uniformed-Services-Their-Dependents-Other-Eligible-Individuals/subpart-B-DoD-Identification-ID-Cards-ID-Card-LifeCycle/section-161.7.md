@@ -1,5 +1,7 @@
 ##### § 161.7 ID card life-cycle procedures. #####
 
+Link to an amendment published at 89 FR 11179, Feb. 14, 2024.Link to an amendment published at 89 FR 11180, Feb. 14, 2024.
+
 (a) *Sponsorship and eligibility.* In accordance with this part, sponsorship shall incorporate the processes for confirming eligibility for an ID card. The sponsor is the person affiliated with the DoD or other Federal agency who takes responsibility for verifying and authorizing the applicant's need for an ID card. Applicants for a CAC shall be sponsored by a DoD Government official or employee.
 
 (1) The population categories and specific ID cards for which applicants are eligible are listed in Appendix 1 of this section. The majority of these populations are eligible to be sponsored for an ID card based on either their employment status with the DoD or their authorization to receive DoD benefits and entitlements. Examples of these population categories include, but are not limited to: Uniformed services personnel; DoD civilian employees; military retirees; certain DoD beneficiaries; and the eligible dependents for these categories.

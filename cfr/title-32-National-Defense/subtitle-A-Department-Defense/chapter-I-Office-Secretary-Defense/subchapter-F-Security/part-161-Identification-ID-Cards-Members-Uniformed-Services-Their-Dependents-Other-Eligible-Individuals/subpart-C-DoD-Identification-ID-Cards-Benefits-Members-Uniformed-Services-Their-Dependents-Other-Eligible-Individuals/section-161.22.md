@@ -1,5 +1,7 @@
 ##### § 161.22 Benefits for foreign affiliates. #####
 
+Link to an amendment published at 89 FR 11193, Feb. 14, 2024.
+
 (a) *Sponsored NATO and PFP personnel in the United States.* Active duty officer and enlisted personnel of NATO and PFP countries serving in the United States under the sponsorship or invitation of the DoD or a Military Service and their accompanying dependents living in the sponsor's U.S. household are eligible for benefits as shown in Table 47 to this subpart.
 
 Table 47 to Subpart C of Part 161—Benefits for Sponsored NATO and PFP Personnel and Accompanying Dependents in the United States

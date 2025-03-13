@@ -1,5 +1,7 @@
 ##### § 161.17 Benefits for surviving dependents. #####
 
+Link to an amendment published at 89 FR 11184, Feb. 14, 2024.
+
 This section describes the benefits for surviving dependents of active duty deceased uniformed services members, deceased National Guard and Reserve service members, deceased MOH recipients, and deceased 100 percent DAV. Surviving children who are adopted by a non-military member after the death of the sponsor remain eligible for all benefits as shown in this section.
 
 (a) *Surviving dependents of active duty deceased members.* Surviving dependents of members who died while on active duty under orders that specified a period of more than 30 days or members who died while in a retired with pay status are eligible for benefits as shown in Table 16 to this subpart.

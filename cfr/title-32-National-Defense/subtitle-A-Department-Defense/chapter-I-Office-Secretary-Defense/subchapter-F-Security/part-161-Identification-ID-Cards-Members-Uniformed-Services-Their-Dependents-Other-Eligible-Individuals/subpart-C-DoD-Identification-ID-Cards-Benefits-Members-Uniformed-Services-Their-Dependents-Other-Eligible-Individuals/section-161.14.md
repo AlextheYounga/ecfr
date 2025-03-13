@@ -1,5 +1,7 @@
 ##### § 161.14 Benefits for MOH recipients. #####
 
+Link to an amendment published at 89 FR 11182, Feb. 14, 2024.
+
 This section describes the benefits for MOH recipients and their dependents who are authorized pursuant to section 706 of Public Law 106-398, “National Defense Authorization Act for Fiscal Year 2001” and who are not otherwise entitled to military medical and dental care. Section 706 of Public Law 106-398 authorized MOH recipients not otherwise entitled to military medical and dental care and their dependents to be given care in the same manner that such care is provided to former uniformed service members who are entitled to military retired pay and the dependents of those former members. Eligibility for the benefits described in Table 13 to this subpart begins on the date of award of the MOH but no earlier than October 30, 2000.
 
 Table 13 to Subpart C of Part 161—Benefits for MOH Recipients and Dependents

@@ -4,4 +4,4 @@
 
 (b) Witnesses who testify as provided in paragraph (a) of this section shall be entitled to the same fees and mileage that are paid witnesses in the courts of the United States.
 
-[42 FR 55388, Oct. 14, 1977, as amended at 56 FR 9624, Mar. 7, 1991; 74 FR 63983, Dec. 7, 2009]
+[42 FR 55388, Oct. 14, 1977, as amended at 56 FR 9624, Mar. 7, 1991; 74 FR 63983, Dec. 7, 2009]Editorial Note:At 89 FR 11169, Feb. 14, 2024, § 1601.17 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

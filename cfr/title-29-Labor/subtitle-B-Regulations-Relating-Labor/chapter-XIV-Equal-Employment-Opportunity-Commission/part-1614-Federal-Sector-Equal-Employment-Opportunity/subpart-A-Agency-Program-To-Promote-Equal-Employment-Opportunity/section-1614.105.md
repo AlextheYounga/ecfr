@@ -1,6 +1,6 @@
 ##### § 1614.105 Pre-complaint processing. #####
 
-(a) Aggrieved persons who believe they have been discriminated against on the basis of race, color, religion, sex, national origin, age, disability, or genetic information must consult a Counselor prior to filing a complaint in order to try to informally resolve the matter.
+(a) Aggrieved persons who believe they have been discriminated against on the basis of race; color; religion; sex; national origin; age; disability; genetic information; or pregnancy, childbirth, or related medical conditions must consult a Counselor prior to filing a complaint in order to try to informally resolve the matter.
 
 (1) An aggrieved person must initiate contact with a Counselor within 45 days of the date of the matter alleged to be discriminatory or, in the case of personnel action, within 45 days of the effective date of the action.
 
@@ -20,4 +20,4 @@
 
 (g) The Counselor shall not attempt in any way to restrain the aggrieved person from filing a complaint. The Counselor shall not reveal the identity of an aggrieved person who consulted the Counselor, except when authorized to do so by the aggrieved person, or until the agency has received a discrimination complaint under this part from that person involving that same matter.
 
-[57 FR 12646, Apr. 10, 1992, as amended at 64 FR 37656, July 12, 1999; 74 FR 63984, Dec. 7, 2009]
+[57 FR 12646, Apr. 10, 1992, as amended at 64 FR 37656, July 12, 1999; 74 FR 63984, Dec. 7, 2009; 89 FR 11171, Feb. 14, 2024]

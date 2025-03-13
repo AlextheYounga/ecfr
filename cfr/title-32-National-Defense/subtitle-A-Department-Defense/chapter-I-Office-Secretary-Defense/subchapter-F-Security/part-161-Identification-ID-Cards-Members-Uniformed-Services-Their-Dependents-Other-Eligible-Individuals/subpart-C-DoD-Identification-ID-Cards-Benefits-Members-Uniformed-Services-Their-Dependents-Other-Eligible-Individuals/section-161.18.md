@@ -1,5 +1,7 @@
 ##### § 161.18 Benefits for abused dependents. #####
 
+Link to an amendment published at 89 FR 11188, Feb. 14, 2024.
+
 (a) Abused dependents of active duty uniformed services members entitled to retired pay based on 20 or more years of service who, on or after October, 23, 1992, while a member, have their eligibility to receive retired pay terminated as a result of misconduct involving the abuse of the spouse or dependent child pursuant to 10 U.S.C. 1408(h), are eligible for benefits as shown in Table 22 to this subpart. For the purposes of these benefits the eligible spouse or child may not reside in the household of the sponsor. See § 161.19 for additional information on abused dependents under the 10/20/10 former spouse rule.
 
 Table 22 to Subpart C of Part 161—Benefits for Abused Dependents of Retirement Eligible Uniformed Services Members

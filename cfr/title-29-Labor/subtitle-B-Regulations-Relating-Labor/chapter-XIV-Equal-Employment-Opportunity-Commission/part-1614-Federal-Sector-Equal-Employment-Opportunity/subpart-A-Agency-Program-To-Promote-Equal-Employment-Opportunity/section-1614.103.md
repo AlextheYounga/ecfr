@@ -1,6 +1,6 @@
 ##### § 1614.103 Complaints of discrimination covered by this part. #####
 
-(a) Individual and class complaints of employment discrimination and retaliation prohibited by title VII (discrimination on the basis of race, color, religion, sex and national origin), the ADEA (discrimination on the basis of age when the aggrieved individual is at least 40 years of age), the Rehabilitation Act (discrimination on the basis of disability), the Equal Pay Act (sex-based wage discrimination), or GINA (discrimination on the basis of genetic information) shall be processed in accordance with this part. Complaints alleging retaliation prohibited by these statutes are considered to be complaints of discrimination for purposes of this part.
+(a) Individual and class complaints of employment discrimination and retaliation prohibited by title VII (discrimination on the basis of race, color, religion, sex and national origin), the ADEA (discrimination on the basis of age when the aggrieved individual is at least 40 years of age), the Rehabilitation Act (discrimination on the basis of disability), the Equal Pay Act (sex-based wage discrimination), GINA (discrimination on the basis of genetic information), or the PWFA (discrimination on the basis of pregnancy, childbirth, or related medical conditions) shall be processed in accordance with this part. Complaints alleging retaliation prohibited by these statutes are considered to be complaints of discrimination for purposes of this part.
 
 (b) This part applies to:
 
@@ -32,4 +32,4 @@
 
 (5) Equal Pay Act complaints of employees whose services are performed within a foreign country or certain United States territories as provided in 29 U.S.C. 213(f).
 
-[57 FR 12646, Apr. 10, 1992, as amended at 64 FR 37655, July 12, 1999; 74 FR 63984, Dec. 7, 2009; 77 FR 43504, July 25, 2012]
+[57 FR 12646, Apr. 10, 1992, as amended at 64 FR 37655, July 12, 1999; 74 FR 63984, Dec. 7, 2009; 77 FR 43504, July 25, 2012; 89 FR 11171, Feb. 14, 2024]
