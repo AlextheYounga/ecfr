@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 89 FR 20349, Mar. 22, 2024.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -182,9 +180,15 @@ Link to an amendment published at 89 FR 20349, Mar. 22, 2024.
 
 (*2*) Transit or enter the Habitat Management Areas specified in § 648.370, except as provided by § 648.370(i).
 
-(B) *Scallop Rotational Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Scallop Rotational Areas closed to the scallop fishery through the specifications or framework adjustment processes specified in § 648.55.
+(B) *Scallop Rotational Areas.* (*1*) Fish for, possess, or land scallops in or from a Scallop Rotational Area unless it is participating in and complies with the requirements of the Scallop Access Area program defined in § 648.59(b) through (g).
 
-(*2*) Transit or enter the Scallop Rotational Areas, except as provided by § 648.59(a) or (b).
+(*2*) Enter or transit Scallop Rotational Areas on a declared federal scallop trip, as described in § 648.59(a)(1), unless the Scallop Rotational Area has been defined as “available for continuous transit” as provided by § 648.59(a)(2) and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+
+(*3*) Enter a Scallop Rotational Area defined as “available for continuous transit”, as provided by § 648.59(a)(2), on a declared Federal scallop trip and not continuously transit through the area, unless it is participating in and complies with the Scallop Access Area Program Requirements.
+
+(C) *Western Gulf of Maine Closure Area.*
+
+(*1*) Enter or transit the Western Gulf of Maine Closure Area, as defined in § 648.81(a)(4) on a declared federal scallop trip.
 
 (vii) *Scallop sectors.* Fail to comply with any of the requirements or restrictions for general category scallop sectors specified in § 648.63.
 
@@ -260,7 +264,7 @@ Link to an amendment published at 89 FR 20349, Mar. 22, 2024.
 
 (vi) *Scallop Rotational Area Management Program and Scallop Access Area Program requirements.* (A) Fail to comply with any of the provisions and specifications of § 648.59.
 
-(B) Transit the Area II Scallop Rotational Area or the New York Bight Scallop Rotational Area, as defined in § 648.60(b) and (j), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+(B) [Reserved]
 
 (C) Fish for, possess, or land scallops in or from a Scallop Access Area in excess of the vessel's remaining specific allocation for that area as specified in § 648.59(b)(3) or the amount permitted to be landed from that area.
 
@@ -308,7 +312,7 @@ Link to an amendment published at 89 FR 20349, Mar. 22, 2024.
 
 (D) Fish for, possess, or land scallops in or from any Scallop Access Area without an observer on board, unless the vessel owner, operator, or manager has received a waiver to carry an observer for the specified trip and area fished.
 
-(E) Transit the Area II Scallop Rotational Area or New York Bight Scallop Rotational Area, as defined in § 648.60(b) and (j), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+(E) [Reserved]
 
 (vi) *Sectors.* Fail to comply with any of the requirements and restrictions for General Category sectors and harvesting cooperatives specified in § 648.63.
 

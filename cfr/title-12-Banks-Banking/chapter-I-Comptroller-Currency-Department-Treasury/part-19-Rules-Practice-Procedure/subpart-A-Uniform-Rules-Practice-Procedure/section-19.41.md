@@ -1,3 +1,3 @@
 ##### § 19.41 Stays pending judicial review. #####
 
-The commencement of proceedings for judicial review of a final decision and order of the Comptroller may not, unless specifically ordered by the Comptroller or a reviewing court, operate as a stay of any order issued by the Comptroller. The Comptroller may, in his or her discretion, and on such terms as he or she finds just, stay the effectiveness of all or any part of an order pending a final decision on a petition for review of that order.
+The commencement of proceedings for judicial review of a final decision and order of the Comptroller may not, unless specifically ordered by the Comptroller or a reviewing court, operate as a stay of any order issued by the Comptroller. The Comptroller may, in its discretion, and on such terms as the Comptroller finds just, stay the effectiveness of all or any part of an order pending a final decision on a petition for review of that order.

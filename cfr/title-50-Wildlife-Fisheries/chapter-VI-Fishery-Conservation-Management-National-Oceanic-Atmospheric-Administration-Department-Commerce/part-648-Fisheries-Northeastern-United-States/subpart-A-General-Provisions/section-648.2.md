@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 89 FR 20348, Mar. 22, 2024.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -99,6 +97,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 *Common pool vessel,* with respect to the NE multispecies fishery, means any vessel issued a limited access NE multispecies permit or open access NE multispecies Handgear B permit that is not a member of an approved sector for a particular fishing year and that is not operating under the provisions of an approved sector operations plan. Such vessels must use a NE multispecies DAS, or be fishing under the provisions of a limited access NE multispecies Small Vessel or Handgear A permit, or an open access Handgear B permit, to land regulated species or ocean pout, and must comply with effort controls, trip limits, gear restricted areas, and other provisions specified in this part. Vessels fishing under the provisions of the common pool are also referred to as non-sector vessels.
 
 *Conger eel* means *Conger oceanicus.*
+
+*Continuous transit or transit,* with respect to the Atlantic Sea Scallop Fishery, means that a vessel has fishing gear stowed and not available for immediate use, as described in this section, and travels through an area with a direct heading, consistent with navigational safety, while maintaining expeditious headway throughout the transit without loitering or delay.
 
 *Council* means the New England Fishery Management Council (NEFMC) for the Atlantic herring, Atlantic sea scallop, Atlantic deep-sea red crab, NE multispecies, monkfish, and NE skate fisheries; or the Mid-Atlantic Fishery Management Council (MAFMC) for the Atlantic mackerel, Atlantic chub mackerel, *Illex* squid, longfin squid, and butterfish; Atlantic surfclam and ocean quahog; summer flounder, scup, and black sea bass; spiny dogfish; Atlantic bluefish; and tilefish fisheries.
 

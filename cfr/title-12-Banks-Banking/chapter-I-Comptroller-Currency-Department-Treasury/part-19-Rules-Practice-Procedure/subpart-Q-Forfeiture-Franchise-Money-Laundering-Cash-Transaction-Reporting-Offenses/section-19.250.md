@@ -1,0 +1,3 @@
+##### § 19.250 Scope. #####
+
+Except as provided in this subpart, subpart A of this part applies to proceedings by the Comptroller to determine whether, pursuant to 12 U.S.C. 93(d) or 12 U.S.C. 1464(w), as applicable, to terminate all rights, privileges, and franchises of a national bank, Federal savings association, or Federal branch or agency convicted of a criminal offense under 18 U.S.C. 1956 or 1957 or 31 U.S.C. 5322 or 5324.

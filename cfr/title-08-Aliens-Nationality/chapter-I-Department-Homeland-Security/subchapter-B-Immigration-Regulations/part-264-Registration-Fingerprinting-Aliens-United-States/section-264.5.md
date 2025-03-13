@@ -1,8 +1,6 @@
 ##### § 264.5 Application for a replacement Permanent Resident Card. #####
 
-Link to an amendment published at 89 FR 6399, Jan. 31, 2024.
-
-(a) *Filing instructions.* A request to replace a Permanent Resident Card must be filed in accordance with the appropriate form instructions and with the fee specified in 8 CFR 106.2; except that no fee is required for an application filed pursuant to paragraphs (b)(7) through (9) of this section, or paragraphs (d)(2) or (4) of this section.
+(a) *Filing instructions.* A request to replace a Permanent Resident Card must be filed in accordance with the appropriate form instructions and with the fee specified in 8 CFR 106.2.
 
 (b) *Permanent residents required to file.* A permanent resident shall apply for a replacement Permanent Resident Card:
 
@@ -54,4 +52,4 @@ Link to an amendment published at 89 FR 6399, Jan. 31, 2024.
 
 (i) *Waiver of requirements.* USCIS may waive the photograph, in person filing, and fingerprinting requirements of this section in cases of confinement due to advanced age or physical infirmity.
 
-[58 FR 48779, Sept. 20, 1993, as amended at 59 FR 1466, Jan. 11, 1994; 59 FR 33905, July 1, 1994; 63 FR 12987, Mar. 17, 1998; 63 FR 70316, Dec. 21, 1998; 65 FR 57724, Sept. 26, 2000; 74 FR 26940, June 5, 2009; 76 FR 53795, Aug. 29, 2011; 85 FR 46927, Aug. 3, 2020]
+[58 FR 48779, Sept. 20, 1993, as amended at 59 FR 1466, Jan. 11, 1994; 59 FR 33905, July 1, 1994; 63 FR 12987, Mar. 17, 1998; 63 FR 70316, Dec. 21, 1998; 65 FR 57724, Sept. 26, 2000; 74 FR 26940, June 5, 2009; 76 FR 53795, Aug. 29, 2011; 85 FR 46927, Aug. 3, 2020; 89 FR 6399, Jan. 31, 2024]

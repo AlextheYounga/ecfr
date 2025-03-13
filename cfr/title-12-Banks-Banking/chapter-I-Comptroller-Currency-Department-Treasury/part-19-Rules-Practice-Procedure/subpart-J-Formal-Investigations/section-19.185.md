@@ -1,0 +1,3 @@
+##### § 19.185 Dilatory, obstructionist, or insubordinate conduct. #####
+
+Any OCC designated representative conducting an investigative proceeding will report to the Comptroller any instances where any person has engaged in dilatory, obstructionist, or insubordinate conduct during the course of the proceeding or any other instance involving a violation of this part. The Comptroller may take such action as the circumstances warrant, including exclusion of the offending individual or individuals from participation in the proceedings.

@@ -1,0 +1,3 @@
+##### § 19.218 Stay of decision concerning award. #####
+
+Any proceedings on an application for fees under this subpart will be automatically stayed until the OCC's final disposition of the decision on which the application is based and either the time period for seeking judicial review expires, or if review has been sought, until final disposition is made by a court and no further judicial review is available.

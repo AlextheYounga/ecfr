@@ -4,20 +4,18 @@
 
 (b) *When papers are deemed to be filed or served.* (1) Filing and service are deemed to be effective:
 
-(i) In the case of personal service or same day commercial courier delivery, upon actual service;
+(i) In the case of transmission by electronic mail or other electronic means, upon transmittal by the serving party;
 
-(ii) In the case of overnight commercial delivery service, U.S. Express Mail delivery, or first class, registered, or certified mail, upon deposit in or delivery to an appropriate point of collection;
+(ii) In the case of overnight delivery service or first class, registered, or certified mail, upon deposit in or delivery to an appropriate point of collection; or
 
-(iii) In the case of transmission by electronic media, as specified by the authority receiving the filing, in the case of filing, and as agreed among the parties, in the case of service.
+(iii) In the case of personal service or same day courier delivery, upon actual service.
 
-(2) The effective filing and service dates specified in paragraph (b)(1) of this section may be modified by the Board of Directors or administrative law judge in the case of filing or by agreement of the parties in the case of service.
+(2) The effective filing and service dates specified in paragraph (b)(1) of this section may be modified by the Board of Directors or ALJ in the case of filing or by agreement of the parties in the case of service.
 
 (c) *Calculation of time for service and filing of responsive papers.* Whenever a time limit is measured by a prescribed period from the service of any notice or paper, the applicable time limits are calculated as follows:
 
-(1) If service is made by first class, registered, or certified mail, add three calendar days to the prescribed period;
+(1) If service is made by electronic mail or other electronic means or by same day courier delivery, add one calendar day to the prescribed period;
 
-(2) If service is made by express mail or overnight delivery service, add one calendar day to the prescribed period; or
+(2) If service is made by overnight delivery service, add two calendar days to the prescribed period; or
 
-(3) If service is made by electronic media transmission, add one calendar day to the prescribed period, unless otherwise determined by the Board of Directors or the administrative law judge in the case of filing, or by agreement among the parties in the case of service.
-
-[56 FR 37975, Aug. 9, 1991, as amended at 61 FR 20348, May 6, 1996]
+(3) If service is made by first class, registered, or certified mail, add three calendar days to the prescribed period.

@@ -1,5 +1,7 @@
 ##### § 61.58 Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered. #####
 
+Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
+
 (a) Except as otherwise provided in this section, to serve as pilot in command of an aircraft that is type certificated for more than one required pilot flight crewmember or is turbojet-powered, a person must—
 
 (1) Within the preceding 12 calendar months, complete a pilot-in-command proficiency check in an aircraft that is type certificated for more than one required pilot flight crewmember or is turbojet-powered; and

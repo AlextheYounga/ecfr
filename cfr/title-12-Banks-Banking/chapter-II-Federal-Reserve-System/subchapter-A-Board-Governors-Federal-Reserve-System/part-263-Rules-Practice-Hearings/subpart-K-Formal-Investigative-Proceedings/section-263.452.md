@@ -1,0 +1,7 @@
+##### § 263.452 Conduct of a formal investigative proceeding. #####
+
+(a) A formal investigative proceeding may be initiated upon issuance of an order of investigation by the Board or by the General Counsel or his or her designees in accordance with 12 CFR 265.6. The order of investigation must indicate the purpose of the formal investigative proceeding and designate the Board's representatives to direct the conduct of the investigation.
+
+(b) Any person who is compelled or requested to furnish documentary evidence or testimony at a formal investigative proceeding may, upon request, inspect a copy of the order of investigation at a time and place that the Board's designated representative determines to be appropriate. Any person who is compelled or requested to furnish documentary evidence or testimony in a formal investigative proceeding may not refuse to comply with a subpoena on the grounds that the order of investigation was not made available in advance of the date of production or testimony set forth in a subpoena.
+
+(c) Copies of an order of investigation may not be produced to or retained by any person except with the express written approval of the Board officer supervising the investigation. The Board may provide a copy of an order of investigation, in whole or in part, if the Board officer concludes, in the officer's discretion, that disclosure of the order of investigation would not infringe upon the privacy of persons involved in the investigation or impede the conduct of the investigation.

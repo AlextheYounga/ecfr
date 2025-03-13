@@ -1,9 +1,7 @@
 ##### § 117.847 Ashtabula River. #####
 
-Link to an amendment published at 89 FR 14746, Feb. 29, 2024.
+(a) The draw of the Fifth Street Bridge, mile 1.4, over the Ashtabula River shall open on signal for the passage of vessels on the hour and half hour, except from October 10 through May 1 when no drawtender is required to be in attendance and the bridge will open on signal with a 12-hour advance notice from vessels.
 
-(a) The draw of the Fifth Street bridge, mile 1.4 at Ashtabula, shall open on signal for the passage of commercial and emergency vessels and on the hour and half hour for all other vessels.
+(b) The draw of the Norfolk Southern Railroad Bridge, mile 1.5, over the Ashtabula River shall open on signal and may be remotely operated. The bridge owner shall maintain and monitor a 2-way public address system, VHF-FM Marine Radio, and telephone. From October 10 through May 1 the bridge will open on signal with a 12-hour advance notice from vessels. The bridge shall display a sign readable from vessels approaching the bridge from upriver or down river and readable for 500 feet that states: the name of the bridge; the river mile; that the bridge is remotely operated; and that mariners may signal the bridge to open by sounding one prolonged blast followed by one short blast of the horn, calling via VHF-FM Marine Radio Channel 16, or by calling the number posted by the owner. The sign shall also include language notifying mariners that from October 10 through May 1 the bridge requires a 12-hour advance notice for openings by calling the number posted by the owner.
 
-(b) The draw of the Norfolk Southern Bridge, mile 1.5 at Ashtabula, is remotely operated, is required to operate a radiotelephone, and shall open on signal from April 1 through November 30 from 7 a.m. to 11 p.m. At all other times the draw shall open on signal if at least 24 hours notice is given.
-
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended by USCG-1999-5832, 64 FR 34712, June 29, 1999; USCG-2009-0968, 74 FR 63612, Dec. 4, 2009]
+[USCG-2023-0189, 89 FR 14746, Feb. 29, 2024]

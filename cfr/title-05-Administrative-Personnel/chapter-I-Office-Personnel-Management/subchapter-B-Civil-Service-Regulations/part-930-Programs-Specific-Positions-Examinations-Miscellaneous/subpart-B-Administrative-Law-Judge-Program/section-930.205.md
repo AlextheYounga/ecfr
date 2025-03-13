@@ -1,7 +1,5 @@
 ##### § 930.205 Administrative law judge pay system. #####
 
-Link to an amendment published at 89 FR 5756, Jan. 30, 2024.
-
 (a) OPM assigns each administrative law judge position to one of the three levels of basic pay, AL-3, AL-2 or AL-1 of the administrative law judge pay system established under 5 U.S.C. 5372 in accordance with this section. Pay level AL-3 has six rates of basic pay, A, B, C, D, E, and F.
 
 (1) The rate of basic pay for AL-3, rate A, may not be less than 65 percent of the rate of basic pay for level IV of the Executive Schedule. The rate of basic pay for AL-1 may not exceed the rate for level IV of the Executive Schedule.
@@ -22,22 +20,32 @@ Link to an amendment published at 89 FR 5756, Jan. 30, 2024.
 
 (d) Administrative law judges must serve at least 1 year in each AL pay level, or in an equivalent or higher level in positions in the Federal service, before advancing to the next higher level and may advance only one level at a time.
 
-(e) Except as provided in paragraph (f) of this section, upon appointment to an administrative law judge position and placement in level AL-3, an administrative law judge is paid at the minimum rate A of AL-3. He or she is automatically advanced successively to rates B, C, and D of that level upon completion of 52 weeks of service in the next lower rate, and to rates E and F of that level upon completion of 104 weeks of service in the next lower rate. Time in a non-pay status is generally creditable service when computing the 52-or 104-week period as long as it does not exceed 2 weeks per year for each 52 weeks of service. However, absence due to uniformed service or compensable injury is fully creditable upon reemployment as provided in part 353 of this chapter.
+(e) Except as provided in paragraphs (f) and (g) of this section, upon appointment to an administrative law judge position and placement in level AL-3, an administrative law judge is paid at the minimum rate A of AL-3. He or she is automatically advanced successively to rates B, C, and D of that level upon completion of 52 weeks of service in the next lower rate, and to rates E and F of that level upon completion of 104 weeks of service in the next lower rate. Time in a non-pay status is generally creditable service when computing the 52-or 104-week period as long as it does not exceed 2 weeks per year for each 52 weeks of service. However, absence due to uniformed service or compensable injury is fully creditable upon reemployment as provided in part 353 of this chapter.
 
-(f) Upon appointment to a position at AL-3, an administrative law judge may be paid at the minimum rate A, unless the administrative law judge is eligible for the higher rate B, C, D, E, or F because of prior service or superior qualifications, as provided in paragraphs (f)(1) and (f)(2) of this section.
+(f) When an applicant to an administrative law judge position at AL-3 has prior Federal service, the agency may set pay at a higher than minimum rate up to the lowest rate of basic pay that equals or exceeds the applicant's highest previous Federal rate of basic pay, not to exceed the maximum rate F. Before setting pay under this paragraph, an agency must establish a policy regarding use of this pay-setting authority that includes the following elements:
 
-(1) An agency may offer an administrative law judge applicant with prior Federal service a higher than minimum rate up to the lowest rate of basic pay that equals or exceeds the applicant's highest previous Federal rate of basic pay, not to exceed the maximum rate F.
+(1) Designation of officials with the authority to approve and set pay under this paragraph;
 
-(2) With prior OPM approval, an agency may pay the rate of pay that is next above the applicant's existing pay or earnings up to the maximum rate F. The agency may offer a higher than minimum rate to:
+(2) Whether use of this authority is discretionary or mandatory;
 
-(i) An administrative law judge applicant with superior qualifications (as defined in § 930.202) who is within reach for appointment from an administrative law judge certificate of eligibles; or
+(3) The factors the designated officials may or must consider in determining the rate at which to set the applicant's pay, which must include how the rate of basic pay has been set for other administrative law judges; and
 
-(ii) A former administrative law judge with superior qualifications who is eligible for reinstatement.
+(4) Documentation and recordkeeping requirements sufficient to allow reconstruction of the action.
 
-(g) With prior OPM approval, an agency, on a one-time basis, may advance an administrative law judge in an AL-3 position with added administrative and managerial duties and responsibilities one rate above the administrative law judge's current AL-3 pay rate, up to the maximum rate F.
+(g) With prior OPM approval, an agency may offer a higher than minimum rate, up to the maximum rate F, to an administrative law judge applicant or a former administrative law judge with superior qualifications who is eligible for appointment to a position at AL-3. An agency request to OPM must include:
 
-(h) Upon appointment to an administrative law judge position placed at AL-2 or AL-1, an administrative law judge is paid at the established rate for the level.
+(1) A description of the superior qualifications (as defined in § 930.202) of the applicant or former administrative law judge;
 
-(i) An employing agency may reduce the level or rate of basic pay of an administrative law judge under § 930.211.
+(2) How pay has been set for administrative law judges who had similar qualifications (based on the level, type, or quality of the applicant's or former administrative law judge's skills or competencies or other qualities and experiences) and who have been newly appointed to positions that are similar to the administrative law judge's position (based on the position's occupational series, organization, geographic location, or other job-relevant factors), if applicable; and
 
-(j) With prior OPM approval, an employing agency may reduce the level of basic pay of an administrative law judge if the administrative law judge submits to the employing agency a written request for a voluntary reduction due to personal reasons.
+(3) The proposed rate of basic pay and a justification for that rate, except an agency may not consider an applicant's or former administrative law judge's salary history (*i.e.,* existing salary or prior salary) or a salary from a competing job offer.
+
+(h) With prior OPM approval, an agency, on a one-time basis, may advance an administrative law judge in an AL-3 position with added administrative and managerial duties and responsibilities one rate above the administrative law judge's current AL-3 pay rate, up to the maximum rate F.
+
+(i) Upon appointment to an administrative law judge position placed at AL-2 or AL-1, an administrative law judge is paid at the established rate for the level.
+
+(j) An employing agency may reduce the level or rate of basic pay of an administrative law judge under § 930.211.
+
+(k) With prior OPM approval, an employing agency may reduce the level of basic pay of an administrative law judge if the administrative law judge submits to the employing agency a written request for a voluntary reduction due to personal reasons.
+
+[72 FR 12954, Mar. 20, 2007, as amended at 89 FR 5756, Jan. 30, 2024]

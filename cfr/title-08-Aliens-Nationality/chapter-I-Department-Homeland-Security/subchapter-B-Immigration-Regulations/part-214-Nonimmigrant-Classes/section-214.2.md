@@ -1,7 +1,5 @@
 ##### § 214.2 Special requirements for admission, extension, and maintenance of status. #####
 
-Link to an amendment published at 89 FR 6397, Jan. 31, 2024.Link to a correction published at 89 FR 20105, Mar. 21, 2024.
-
 Table 1 to § 214.2—Section Contents
 
 |                                                                                                                                                                             |
@@ -210,13 +208,13 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (iii) *Substantive changes.* Approval of USCIS must be obtained where there will be a substantive change in the terms or conditions of E status. The treaty alien must file a new application in accordance with the instructions on the form prescribed by USCIS requesting extension of stay in the United States, plus evidence of continued eligibility for E classification in the new capacity. Or the alien may obtain a visa reflecting the new terms and conditions and subsequently apply for admission at a port-of-entry. USCIS will deem there to have been a substantive change necessitating the filing of a new application where there has been a fundamental change in the employing entity's basic characteristics, such as a merger, acquisition, or sale of the division where the alien is employed.
 
-(iv) *Non-substantive changes.* Neither prior approval nor a new application is required if there is no substantive, or fundamental, change in the terms or conditions of the alien's employment which would affect the alien's eligibility for E classification. Further, prior approval is not required if corporate changes occur which do not affect the previously approved employment relationship, or are otherwise non-substantive. To facilitate admission, the alien may:
+(iv) *Non-substantive changes.* Neither prior approval nor a new application is required if there is no substantive, or fundamental, change in the terms or conditions of the alien's employment that would affect the alien's eligibility for E classification. Further, prior approval is not required if corporate changes occur which do not affect the previously approved employment relationship or are otherwise non-substantive. To facilitate admission, the alien may:
 
 (A) Present a letter from the treaty-qualifying company through which the alien attained E classification explaining the nature of the change;
 
-(B) Request a new approval notice reflecting the non-substantive change by filing an application with a description of the change, or;
+(B) Request a new approval notice reflecting the non-substantive change by filing an application with a description of the change; or
 
-(C) Apply directly to Department of State for a new E visa reflecting the change. An alien who does not elect one of the three options contained in paragraph (e)(8)(iv) (A) through (C) of this section, is not precluded from demonstrating to the satisfaction of the immigration officer at the port-of-entry in some other manner, his or her admissibility under section 101(a)(15)(E) of the Act.
+(C) Apply directly to Department of State for a new E visa reflecting the change. An alien who does not elect one of the three options contained in paragraphs (e)(8)(iv)(A) through (C) of this section, is not precluded from demonstrating to the satisfaction of the immigration officer at the port-of-entry in some other manner, his or her admissibility under section 101(a)(15)(E) of the Act.
 
 (v) *Advice.* To request advice from USCIS as to whether a change is substantive, an alien may file an application with a complete description of the change. In cases involving multiple employees, an alien may request that USCIS determine if a merger or other corporate restructuring requires the filing of separate applications by filing a single application and attaching a list of the related receipt numbers for the employees involved and an explanation of the change or changes.
 
@@ -1128,7 +1126,7 @@ Table 3 to Paragraph (h)—Paragraph Contents
 
 (5) *Petition for alien to perform agricultural labor or services of a temporary or seasonal nature (H-2A)*—(i) *Filing a petition*—(A) *General.* An H-2A petition must be filed on the form prescribed by USCIS with a single valid temporary agricultural labor certification. The petition may be filed by either the employer listed on the temporary labor certification, the employer's agent, or the association of United States agricultural producers named as a joint employer on the temporary labor certification.
 
-(B) *Multiple beneficiaries.* The total number of beneficiaries of a petition or series of petitions based on the same temporary labor certification may not exceed the number of workers indicated on that document. A single petition can include more than one named beneficiary if the total number is 25 or less and does not exceed the number of positions indicated on the relating temporary labor certification.
+(B) *Multiple beneficiaries.* The total number of beneficiaries of a petition or series of petitions based on the same temporary labor certification may not exceed the number of workers indicated on that document. A single petition can include more than one named beneficiary if the total number is 25 or fewer and does not exceed the number of positions indicated on the relating temporary labor certification.
 
 (C) [Reserved]
 
@@ -2533,7 +2531,7 @@ Table 4 to Paragraph (m)—Paragraph Contents
 
 (C) Upon the designated school official's information and belief, employment comparable to the proposed employment is not available to the student in the country of the student's foreign residence.
 
-(ii) *Application.* An M-1 student must apply for permission to accept employment for practical training on Form I-765 or successor form, with fee as contained in 8 CFR part 106, accompanied by a properly endorsed Form I-20 or successor form by the DSO for practical training. The application must be submitted before the program end date listed on the student's Form I-20 or successor form but not more than 90 days before the program end date. By recommending practical training in SEVIS and endorsing the Form I-20 or successor form, the DSO certifies that—
+(ii) *Application.* An M-1 student must apply for permission to accept employment for practical training on Form I-765, with fee as contained in 8 CFR part 106, accompanied by a properly endorsed Form I-20 by the designated school official for practical training. The application must be submitted before the program end date listed on the student's Form I-20 but not more than 90 days before the program end date. The designated school official must certify on Form I-538 that:
 
 (A) The proposed employment is recommended for the purpose of practical training;
 
@@ -3203,7 +3201,7 @@ Table 4 to Paragraph (m)—Paragraph Contents
 
 (5) *Filing of petitions for international cultural exchange visitor program*—(i) *General.* A United States employer seeking to bring in international cultural exchange visitors must file a petition on the form prescribed by USCIS, with the applicable fee, along with appropriate documentation. A new petition on the form prescribed by USCIS, with the applicable fee, must be filed with the appropriate service center each time a qualified employer wants to bring in additional international cultural exchange visitors. Each person named on an approved petition will be admitted only for the duration of the approved program. Replacement or substitution may be made for any person named on an approved petition as provided in paragraph (q)(6) of this section, but only for the remainder of the approved program.
 
-(ii) *Petition for multiple participants.* The petitioner may include more than one participant on the petition. The petitioner shall include the name, date of birth, nationality, and other identifying information required on the petition for each participant. The petitioner must also indicate the United States consulate at which each participant will apply for a Q-1 visa. For participants who are visa-exempt under 8 CFR 212.1(a), the petitioner must indicate the port of entry at which each participant will apply for admission to the United States.
+(ii) *Petition for multiple participants.* The petitioner may include up to 25 named participants on a petition. The petitioner shall include the name, date of birth, nationality, and other identifying information required on the petition for each participant. The petitioner must also indicate the United States consulate at which each participant will apply for a Q-1 visa. For participants who are visa-exempt under 8 CFR 212.1(a), the petitioner must indicate the port of entry at which each participant will apply for admission to the United States.
 
 (iii) *Service, labor, or training in more than one location.* A petition which requires the international cultural exchange visitor to engage in employment or training (with the same employer) in more than one location must include an itinerary with the dates and locations of the services, labor, or training.
 
@@ -3371,7 +3369,7 @@ Table 4 to Paragraph (m)—Paragraph Contents
 
 (C) The primary purpose of the spouse or children coming to the United States must be to join or accompany the principal R-1 alien.
 
-(5) *Extension of stay or readmission.* An R-1 alien who is maintaining status or is seeking readmission and who satisfies the eligibility requirements of this section may be granted an extension of R-1 stay or readmission in R-1 status for the validity period of the petition, up to 30 months, provided the total period of time spent in R-1 status does not exceed a maximum of five years. A Petition for a Nonimmigrant Worker to request an extension of R-1 status must be filed by the employer with a supplement prescribed by USCIS containing attestations required by this section, the fee specified in 8 CFR part 106, and the supporting evidence, in accordance with the applicable form instructions.
+(5) *Extension of stay or readmission.* An R-1 alien who is maintaining status or is seeking readmission and who satisfies the eligibility requirements of this section may be granted an extension of R-1 stay or readmission in R-1 status for the validity period of the petition, up to 30 months, provided the total period spent in R-1 status does not exceed a maximum of 5 years. A Petition for a Nonimmigrant Worker to request an extension of R-1 status must be filed by the employer with a supplement prescribed by USCIS containing attestations required by this section, the fee specified in 8 CFR part 106, and the supporting evidence, in accordance with the applicable form instructions.
 
 (6) *Limitation on total stay.* An alien who has spent five years in the United States in R-1 status may not be readmitted to or receive an extension of stay in the United States under the R visa classification unless the alien has resided abroad and has been physically present outside the United States for the immediate prior year. The limitations in this paragraph shall not apply to R-1 aliens who did not reside continually in the United States and whose employment in the United States was seasonal or intermittent or was for an aggregate of six months or less per year. In addition, the limitations shall not apply to aliens who reside abroad and regularly commute to the United States to engage in part-time employment. To qualify for this exception, the petitioner and the alien must provide clear and convincing proof that the alien qualifies for such an exception. Such proof shall consist of evidence such as arrival and departure records, transcripts of processed income tax returns, and records of employment abroad.
 
@@ -3893,7 +3891,7 @@ Table 5 to Paragraph (w)—Paragraph Contents
 
 (iv) Comply with all Federal and Commonwealth requirements relating to employment, including but not limited to nondiscrimination, occupational safety, and minimum wage requirements.
 
-(5) *Petition requirements.* An employer who seeks to classify an alien as a CW-1 worker must file a petition with USCIS and pay the requisite petition fee plus the CNMI education funding fee and the fraud prevention and detection fee as prescribed in the form instructions and 8 CFR part 106. If the beneficiary will perform services for more than one employer, each employer must file a separate petition with fees with USCIS.
+(5) *Petition requirements.* An employer who seeks to classify an alien as a CW-1 worker must file a petition with USCIS and pay the requisite petition fee plus the CNMI education funding fee and the fraud prevention and detection fee as prescribed in 8 CFR part 106. If the beneficiary will perform services for more than one employer, each employer must file a separate petition with fees with USCIS.
 
 (6) *Appropriate documents.* Documentary evidence establishing eligibility for CW status is required. A petition must be accompanied by:
 
@@ -3977,7 +3975,7 @@ Table 5 to Paragraph (w)—Paragraph Contents
 
 (iii) If the eligible spouse and/or minor child(ren) are present in the CNMI, the spouse or child(ren) may apply for CW-2 dependent status on Form I-539 (or such alternative form as USCIS may designate) in accordance with the form instructions. The CW-2 status may not be approved until approval of the CW-1 petition.
 
-(16) *Biometrics and other information.* The beneficiary of a CW-1 petition or the spouse or child applying for a grant or, extension of CW-2 status, or a change of status to CW-2 status, must submit biometric information as requested by USCIS.
+(16) *Biometrics and other information.* The beneficiary of a CW-1 petition or the spouse or child applying for a grant or extension of CW-2 status, or a change of status to CW-2 status, must submit biometric information as requested by USCIS.
 
 (17) *Period of admission.* (i) A CW-1 nonimmigrant will be admitted for the period of petition validity, plus up to 10 days before the validity period begins and 10 days after the validity period ends. The CW-1 nonimmigrant may not work except during the validity period of the petition. A CW-2 spouse will be admitted for the same period as the principal alien. A CW-2 minor child will be admitted for the same period as the principal alien, but such admission will not extend beyond the child's 18th birthday.
 

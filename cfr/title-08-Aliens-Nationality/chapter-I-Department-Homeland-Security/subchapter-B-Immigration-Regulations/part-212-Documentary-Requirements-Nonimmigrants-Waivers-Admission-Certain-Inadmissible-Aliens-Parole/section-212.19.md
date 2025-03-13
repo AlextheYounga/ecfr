@@ -1,7 +1,5 @@
 ##### § 212.19 Parole for entrepreneurs. #####
 
-Link to an amendment published at 89 FR 6396, Jan. 31, 2024.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Entrepreneur* means an alien who possesses a substantial ownership interest in a start-up entity and has a central and active role in the operations of that entity, such that the alien is well-positioned, due to his or her knowledge, skills, or experience, to substantially assist the entity with the growth and success of its business. For purposes of this section, an alien may be considered to possess a substantial ownership interest if he or she possesses at least a 10 percent ownership interest in the start-up entity at the time of adjudication of the initial grant of parole and possesses at least a 5 percent ownership interest in the start-up entity at the time of adjudication of a subsequent period of re-parole. During the period of initial parole, the entrepreneur may continue to reduce his or her ownership interest in the start-up entity, but must, at all times during the period of initial parole, maintain at least a 5 percent ownership interest in the entity. During the period of re-parole, the entrepreneur may continue to reduce his or her ownership interest in the start-up entity, but must, at all times during the period of parole, maintain an ownership interest in the entity.
@@ -44,7 +42,7 @@ Link to an amendment published at 89 FR 6396, Jan. 31, 2024.
 
 (iii) *Alternative criteria.* An alien who satisfies the criteria in paragraph (b)(2)(ii)(A) of this section and partially meets one or both of the criteria in paragraph (b)(2)(ii)(B) of this section may alternatively meet the standard described in paragraph (b)(2)(i) of this section by providing other reliable and compelling evidence of the start-up entity's substantial potential for rapid growth and job creation.
 
-(c) *Additional periods of parole*—(1) *Filing of re-parole request form.* Before expiration of the initial period of parole, an entrepreneur parolee may request an additional period of parole based on the same start-up entity that formed the basis for his or her initial period of parole granted under this section. To request such parole, an entrepreneur parolee must timely file Form I-941, Application for Entrepreneur Parole, with USCIS, with the required fee and supporting documentation in accordance with the form instructions, demonstrating eligibility as provided in paragraph (c)(2) of this section.
+(c) *Additional periods of parole*—(1) *Filing of re-parole request form.* Before expiration of the initial period of parole, an entrepreneur parolee may request an additional period of parole based on the same start-up entity that formed the basis for his or her initial period of parole granted under this section. To request such parole, an entrepreneur parolee must timely file an application for entrepreneur parole with USCIS on the form prescribed by USCIS with the required fee and supporting documentation in accordance with the form instructions, demonstrating eligibility as provided in paragraph (c)(2) of this section.
 
 (2) *Criteria for consideration*—(i) *In general.* An alien may be considered for re-parole under this section if the alien demonstrates that a grant of parole will continue to provide a significant public benefit to the United States based on his or her role as an entrepreneur of a start-up entity.
 
@@ -70,7 +68,7 @@ Link to an amendment published at 89 FR 6396, Jan. 31, 2024.
 
 (4) *Appeals and motions to reopen.* There is no appeal from a denial of parole under this section. USCIS will not consider a motion to reopen or reconsider a denial of parole under this section. On its own motion, USCIS may reopen or reconsider a decision to deny the Application for Entrepreneur Parole (Form I-941), in accordance with 8 CFR 103.5(a)(5).
 
-(e) *Collection of biometric information.* An alien seeking an initial grant of parole or re-parole before October 2, 2020 will be required to submit biometric information. An alien seeking an initial grant of parole or re-parole may be required to submit biometric information.
+(e) *Collection of biometric information.* An alien seeking an initial grant of parole or re-parole will be required to submit biometric information.
 
 (f) *Limitations.* No more than three entrepreneurs may be granted parole under this section based on the same start-up entity. An alien shall not receive more than one initial grant of entrepreneur parole or more than one additional grant of entrepreneur re-parole based on the same start-up entity, for a maximum period of parole of five years.
 
@@ -86,7 +84,7 @@ Link to an amendment published at 89 FR 6396, Jan. 31, 2024.
 
 (i) *Conditions on parole.* As a condition of parole under this section, a parolee must maintain household income that is greater than 400 percent of the federal poverty line for his or her household size as defined by the Department of Health and Human Services. USCIS may impose other such reasonable conditions in its sole discretion with respect to any alien approved for parole under this section, and it may request verification of the parolee's compliance with any such condition at any time. Violation of any condition of parole may lead to termination of the parole in accordance with paragraph (k) of this section or denial of re-parole.
 
-(j) *Reporting of material changes.* An alien granted parole under this section must immediately report any material change(s) to USCIS. If the entrepreneur will continue to be employed by the start-up entity and maintain a qualifying ownership interest in the start-up entity, the entrepreneur must submit a form prescribed by USCIS, with any applicable fee in accordance with the form instructions to notify USCIS of the material change(s). The entrepreneur parolee must immediately notify USCIS in writing if he or she will no longer be employed by the start-up entity or ceases to possess a qualifying ownership stake in the start-up entity.
+(j) *Reporting of material changes.* An alien granted parole under this section must immediately report any material change(s) to USCIS. If the entrepreneur will continue to be employed by the start-up entity and maintain a qualifying ownership interest in the start-up entity, the entrepreneur must submit a form prescribed by USCIS, with any applicable fee in accordance with the form instructions to notify USCIS of the material change(s). The entrepreneur parolee must immediately notify USCIS in writing if they will no longer be employed by the start-up entity or ceases to possess a qualifying ownership stake in the start-up entity.
 
 (k) *Termination of parole*—(1) *In general.* DHS, in its discretion, may terminate parole granted under this section at any time and without prior notice or opportunity to respond if it determines that the alien's continued parole in the United States no longer provides a significant public benefit. Alternatively, DHS, in its discretion, may provide the alien notice and an opportunity to respond prior to terminating the alien's parole under this section.
 
@@ -108,4 +106,4 @@ Link to an amendment published at 89 FR 6396, Jan. 31, 2024.
 
 (l) *Increase of investment and revenue amount requirements.* The investment and revenue amounts in this section will be automatically adjusted every 3 years by the Consumer Price Index and posted on the USCIS Web site at *www.uscis.gov.* Investment and revenue amounts adjusted under this paragraph will apply to all applications filed on or after the beginning of the fiscal year for which the adjustment is made.
 
-[82 FR 5286, Jan. 17, 2017, as amended at 85 FR 46923, Aug. 3, 2020; 86 FR 50841, Sept. 13, 2021]
+[82 FR 5286, Jan. 17, 2017, as amended at 85 FR 46923, Aug. 3, 2020; 86 FR 50841, Sept. 13, 2021; 89 FR 6396, Jan. 31, 2024]

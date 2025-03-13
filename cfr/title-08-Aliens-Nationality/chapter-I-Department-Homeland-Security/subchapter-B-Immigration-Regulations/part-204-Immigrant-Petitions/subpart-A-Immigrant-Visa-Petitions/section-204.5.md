@@ -1,7 +1,5 @@
 ##### § 204.5 Petitions for employment-based immigrants. #####
 
-Link to an amendment published at 89 FR 6396, Jan. 31, 2024.
-
 (a) *General.* A petition to classify an alien under section 203(b)(1), 203(b)(2), or 203(b)(3) of the Act must be filed on Form I-140, Petition for Immigrant Worker. A petition to classify an alien under section 203(b)(4) (as it relates to special immigrants under section 101(a)(27)(C)) must be filed on kForm I-360, Petition for Amerasian, Widow, or Special Immigrant. A separate Form I-140 or I-360 must be filed for each beneficiary, accompanied by the applicable fee. A petition is considered properly filed if it is:
 
 (1) Accepted for processing under the provisions of part 103;
@@ -398,12 +396,12 @@ If the alien was employed outside the United States during such two years, the p
 
 (4) *Application for employment authorization.* (i) To request employment authorization, an eligible applicant described in paragraph (p)(1), (2), or (3) of this section must:
 
-(A) File an application for employment authorization (Form I-765), with USCIS, in accordance with 8 CFR 274a.13(a) and the form instructions.
+(A) File an application for employment authorization with USCIS, in accordance with 8 CFR 274a.13(a) and the form instructions.
 
-(B) Submit biometric information as may be provided in the applicable form instructions.
+(B) Submit biometric information in accordance with the applicable form instructions.
 
-(ii) Employment authorization under this paragraph may be granted solely in 1-year increments, but not to exceed the period of the alien's authorized admission.
+(ii) Employment authorization under this paragraph may be granted solely in 1-year increments.
 
 (5) *Ineligibility for employment authorization.* An alien is not eligible for employment authorization, including renewal of employment authorization, under this paragraph if the alien has been convicted of any felony or two or more misdemeanors.
 
-[56 FR 60905, Nov. 29, 1991, as amended at 59 FR 502, Jan. 5, 1994; 59 FR 27229, May 26, 1994; 60 FR 29753, June 6, 1995; 61 FR 33305, June 27, 1996; 67 FR 49563, July 31, 2002; 73 FR 72291, Nov. 26, 2008; 73 FR 78127, Dec. 19, 2008; 74 FR 26936, June 5, 2009; 81 FR 2083, Jan. 15, 2016; 81 FR 82484, Nov. 18, 2016; 85 FR 46922, Aug. 3, 2020]
+[56 FR 60905, Nov. 29, 1991, as amended at 59 FR 502, Jan. 5, 1994; 59 FR 27229, May 26, 1994; 60 FR 29753, June 6, 1995; 61 FR 33305, June 27, 1996; 67 FR 49563, July 31, 2002; 73 FR 72291, Nov. 26, 2008; 73 FR 78127, Dec. 19, 2008; 74 FR 26936, June 5, 2009; 81 FR 2083, Jan. 15, 2016; 81 FR 82484, Nov. 18, 2016; 85 FR 46922, Aug. 3, 2020; 89 FR 6396, Jan. 31, 2024]

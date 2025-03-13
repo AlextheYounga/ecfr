@@ -1,7 +1,5 @@
 ##### § 930.201 Coverage. #####
 
-Link to an amendment published at 89 FR 5756, Jan. 30, 2024.
-
 (a) This subpart applies to individuals appointed under 5 U.S.C. 3105 for proceedings required to be conducted in accordance with 5 U.S.C. 556 and 557 and to administrative law judge positions.
 
 (b) Administrative law judge positions are in the competitive service. Except as otherwise stated in this subpart, the rules and regulations applicable to positions in the competitive service apply to administrative law judge positions.
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 5756, Jan. 30, 2024.
 
 (4) Approve noncompetitive personnel actions for administrative law judges, including but not limited to promotions, transfers, reinstatements, restorations, and reassignments;
 
-(5) Approve personnel actions related to pay for administrative law judges under § 930.205(c), (f)(2), (g), and (j);
+(5) Approve personnel actions related to pay for administrative law judges under § 930.205(c), (g), (h), and (k);
 
 (6) Approve an intra-agency detail or assignment of an administrative law judge to a non-administrative law judge position that lasts more than 120 days or when an administrative law judge cumulates a total of more than 120 days for more than one detail or assignment within the preceding 12 months;
 
@@ -43,3 +41,5 @@ Link to an amendment published at 89 FR 5756, Jan. 30, 2024.
 (3) The responsibility to ensure the independence of the administrative law judge; and
 
 (4) The responsibility to obtain OPM's approval before taking any of the personnel actions described in paragraphs (e)(4) through (8) of this section.
+
+[72 FR 12954, Mar. 20, 2007, as amended at 89 FR 5756, Jan. 30, 2024]

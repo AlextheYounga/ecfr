@@ -1,0 +1,5 @@
+##### § 19.211 Answer to application. #####
+
+(a) *Filing of answer.* Except as provided in § 19.213, Enforcement Counsel may file an answer to an application within 30 days after service of the application. Unless Enforcement Counsel requests an extension of time for filing or files a statement of intent to negotiate a settlement under § 19.213, failure to file an answer within the 30-day period may be treated as a consent to the award requested.
+
+(b) *Content of answer.* The answer must explain in detail any objections to the award requested and identify the facts relied on in support of the Enforcement Counsel's position. If the answer is based on any alleged facts not already in the record of the proceeding, Enforcement Counsel must include with the answer either supporting affidavits or a request for further proceedings under § 19.214.

@@ -1,0 +1,5 @@
+##### § 328.8 Policies and procedures. #####
+
+(a) *Policies and Procedures.* An insured depository institution must establish and maintain written policies and procedures to achieve compliance with this part. Such policies and procedures must be commensurate with the nature, size, complexity, scope, and potential risk of the deposit-taking activities of the insured depository institution and must include, as appropriate, provisions related to monitoring and evaluating activities of persons that provide deposit-related services to the insured depository institution or offer the insured depository institution's deposit-related products or services to other parties.
+
+(b) *Reservation of authority.* Nothing in this section shall be construed to limit the FDIC's authority to address violations of this part, the FDIC's authority to interpret the rules in this part, or any other authority the FDIC has pursuant to any other laws or regulations.

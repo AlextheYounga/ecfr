@@ -1,7 +1,5 @@
 ##### § 346.11 Other definitions and rules of construction used in this part. #####
 
-Link to an amendment published at 89 FR 22069, Mar. 29, 2024.
-
 (a) *Affiliate.* “Affiliate” means—
 
 (1) Any company that controls, is controlled by, or is under common control with another company; and
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 22069, Mar. 29, 2024.
 
 (c) *CRA affiliate.* A “CRA affiliate” of an insured depository institution is any company that is an affiliate of an insured depository institution to the extent, and only to the extent, that the activities of the affiliate were considered by the appropriate Federal banking agency when evaluating the CRA performance of the institution at its most recent CRA examination prior to the agreement. An insured depository institution or affiliate also may designate any company as a CRA affiliate at any time prior to the time a covered agreement is entered into by informing the NGEP that is a party to the agreement of such designation.
 
-(d) *CRA public file.* “CRA public file” means the public file maintained by an insured depository institution and described in 12 CFR 345.43.
+(d) *CRA public file.* “CRA public file” means the public file maintained by an insured depository institution and described in § 345.43 of appendix G to 12 CFR part 345.
 
 (e) *Executive officer.* The term “executive officer” has the same meaning as in § 215.2(e)(1) of the Board of Governors of the Federal Reserve System's Regulation O (12 CFR 215.2(e)(1)).
 
@@ -55,3 +53,5 @@ Link to an amendment published at 89 FR 22069, Mar. 29, 2024.
 (m) *State savings association.* “State savings association” has the same meaning as in section 3(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(3)).
 
 (n) *Term of agreement.* An agreement that does not have a fixed termination date is considered to terminate on the last date on which any party to the agreement makes any payment or provides any loan or other resources under the agreement, unless the relevant supervisory agency for the agreement otherwise notifies each party in writing.
+
+[80 FR 23692, Apr. 29, 2015, as amended at 89 FR 22069, Mar. 29, 2024]

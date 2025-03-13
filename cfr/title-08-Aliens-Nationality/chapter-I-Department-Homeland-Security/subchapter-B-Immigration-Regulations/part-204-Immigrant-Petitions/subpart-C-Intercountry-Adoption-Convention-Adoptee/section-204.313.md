@@ -1,8 +1,6 @@
 ##### § 204.313 Filing and adjudication of a Form I-800. #####
 
-Link to an amendment published at 89 FR 6396, Jan. 31, 2024.
-
-(a) *When to file.* Once a Form I-800A has been approved and the Central Authority has proposed placing a child for adoption by the petitioner, the petitioner may file the Form I-800. The petitioner must complete the Form I-800 in accordance with the instructions that accompany the Form I-800, and must sign the Form I-800 personally. In the case of a married petitioner, one spouse cannot sign for the other, even under a power of attorney or similar agency arrangement. The petitioner may then file the Form I-800 with the stateside or overseas USCIS office or the visa issuing post that has jurisdiction under 8 CFR 204.308(b) to adjudicate the Form I-800, together with the evidence specified in this section and the filing fee specified in 8 CFR 106.2, if more than one Form I-800 is filed for children who are not birth siblings.
+(a) *When to file.* Once a Form I-800A has been approved and the Central Authority has proposed placing a child for adoption by the petitioner, the petitioner may file the Form I-800. The petitioner must complete the Form I-800 in accordance with the instructions that accompany the Form I-800 and sign the Form I-800 personally. In the case of a married petitioner, one spouse cannot sign for the other, even under a power of attorney or similar agency arrangement. The petitioner may then file the Form I-800 with the stateside or overseas USCIS office or the visa issuing post that has jurisdiction under § 204.308(b) to adjudicate the Form I-800, together with the evidence specified in this section and the filing fee specified in 8 CFR 106.2, if more than one Form I-800 is filed for children who are not birth siblings.
 
 (b) *What to include on the Form.* (1) The petitioner must specify on the Form I-800 either that:
 
@@ -96,4 +94,4 @@ Link to an amendment published at 89 FR 6396, Jan. 31, 2024.
 
 (3) If a Department of State officer finds, either at the provisional approval stage or the final approval stage, that the Form I-800 is “not clearly approvable,” or that 8 CFR 204.309(b) warrants denial of the Form I-800, the Department of State officer will forward the Form I-800 and accompanying evidence to the USCIS office with jurisdiction over the place of the child's habitual residence for review and decision.
 
-[72 FR 56854, Oct. 4, 2007, as amended at 85 FR 46922, Aug. 3, 2020]
+[72 FR 56854, Oct. 4, 2007, as amended at 85 FR 46922, Aug. 3, 2020; 89 FR 6396, Jan. 31, 2024]

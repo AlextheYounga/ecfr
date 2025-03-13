@@ -1,7 +1,5 @@
 ##### § 1240.41 Operational requirements for CRT and other securitization exposures. #####
 
-Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
-
 (a) *Operational criteria for traditional securitizations.* An Enterprise that transfers exposures it has purchased or otherwise acquired to a securitization SPE or other third party in connection with a traditional securitization may exclude the exposures from the calculation of its risk-weighted assets only if each condition in this section is satisfied. An Enterprise that meets these conditions must hold risk-based capital against any credit risk it retains in connection with the securitization. An Enterprise that fails to meet these conditions must hold risk-based capital against the transferred exposures as if they had not been securitized and must deduct from common equity tier 1 capital any after-tax gain-on-sale resulting from the transaction. The conditions are:
 
 (1) The exposures are not reported on the Enterprise's consolidated balance sheet under GAAP;
@@ -72,9 +70,11 @@ Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
 
 (4) The Enterprise obtains a well-reasoned opinion from legal counsel that confirms the enforceability of the credit risk transfer in all relevant jurisdictions;
 
-(5) Any clean-up calls relating to the credit risk transfer are eligible clean-up calls; and
+(5) Any clean-up calls relating to the credit risk transfer are eligible clean-up calls;
 
-(6) The Enterprise includes in its periodic disclosures under the Federal securities laws, or in other appropriate public disclosures, a reasonably detailed description of—
+(6) Any time-based calls relating to the credit risk transfer are eligible time-based calls; and
+
+(7) The Enterprise includes in its periodic disclosures under the Federal securities laws, or in other appropriate public disclosures, a reasonably detailed description of—
 
 (i) The material recourse or other risks that might reduce the effectiveness of the credit risk transfer in transferring the credit risk on the underlying exposures to third parties; and
 
@@ -95,3 +95,5 @@ Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
 (D) For resecuritization exposures, performance information on the underlying securitization exposures, for example, the issuer name and credit quality, and the characteristics and performance of the exposures underlying the securitization exposures; and
 
 (ii) On an on-going basis (no less frequently than quarterly), evaluating, reviewing, and updating as appropriate the analysis required under paragraph (d)(1) of this section for each securitization exposure.
+
+[85 FR 82198, Dec. 17, 2020, as amended at 88 FR 83481, Nov. 30, 2023]

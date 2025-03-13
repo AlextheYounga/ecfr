@@ -1,7 +1,5 @@
 ##### § 24.2 Definitions. #####
 
-Link to an amendment published at 89 FR 22067, Mar. 29, 2024.
-
 For purposes of this part, the following definitions apply:
 
 (a) *Adequately capitalized* has the same meaning as adequately capitalized in 12 CFR 6.4.
@@ -20,7 +18,7 @@ For purposes of this part, the following definitions apply:
 
 (ii) The balance of a bank's allowance for loan and lease losses or adjusted allowances for credit losses, as applicable, not included in the bank's tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (b)(2)(i) of this section, as reported in the Call Report.
 
-(c) *Community and economic development entity* (CEDE) means an entity that makes investments or conducts activities that primarily benefit low- and moderate-income individuals, low- and moderate-income areas, or other areas targeted by a governmental entity for redevelopment, or would receive consideration as “qualified investments” under 12 CFR 25.23. The following is a non-exclusive list of examples of the types of entities that may be CEDEs:
+(c) *Community and economic development entity* (CEDE) means an entity that makes investments or conducts activities that primarily benefit low- and moderate-income individuals, low- and moderate-income areas, or other areas targeted by a governmental entity for redevelopment, or would receive consideration as “qualified investments” under § 25.23 of appendix G to 12 CFR part 25. The following is a non-exclusive list of examples of the types of entities that may be CEDEs:
 
 (1) National bank community development corporation subsidiaries;
 
@@ -54,7 +52,7 @@ For purposes of this part, the following definitions apply:
 
 (4) Is not subject to a cease and desist order, consent order, formal written agreement, or Prompt Corrective Action directive (*see* 12 CFR part 6, subpart B) or, if subject to any such order, agreement or directive, is informed in writing by the OCC that the bank may be treated as an “eligible bank” for purposes of this part.
 
-(f) *Low-income and moderate-income* have the same meanings as “low-income” and “moderate-income” in 12 CFR 25.12(m).
+(f) *Low-income and moderate-income* have the same meanings as “low-income” and “moderate-income” in § 25.12(m) of appendix G to 12 CFR part 25.
 
 (g) *Significant risk to the deposit insurance fund* means a substantial probability that any Federal deposit insurance fund could suffer a loss.
 
@@ -62,4 +60,4 @@ For purposes of this part, the following definitions apply:
 
 (i) *Well capitalized* has the same meaning as well capitalized in 12 CFR 6.4.
 
-[61 FR 49660, Sept. 23, 1996, as amended at 68 FR 48775, Aug. 15, 2003; 73 FR 22244, Apr. 24, 2008; 73 FR 46534, Aug. 11, 2008; 79 FR 11312, Feb. 28, 2014; 84 FR 4240, Feb. 14, 2019; 84 FR 61795, Nov. 13, 2019; 84 FR 69298, Dec. 18, 2019]
+[61 FR 49660, Sept. 23, 1996, as amended at 68 FR 48775, Aug. 15, 2003; 73 FR 22244, Apr. 24, 2008; 73 FR 46534, Aug. 11, 2008; 79 FR 11312, Feb. 28, 2014; 84 FR 4240, Feb. 14, 2019; 84 FR 61795, Nov. 13, 2019; 84 FR 69298, Dec. 18, 2019; 89 FR 22067, Mar. 29, 2024]

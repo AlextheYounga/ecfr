@@ -1,7 +1,5 @@
 ##### § 330.1 Definitions. #####
 
-Link to an amendment published at 87 FR 4470, Jan. 28, 2022.
-
 For the purposes of this part:
 
 (a) *Act* means the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*).
@@ -28,7 +26,7 @@ For the purposes of this part:
 
 (l) *Natural person* means a human being.
 
-(m) *Non-contingent trust interest* means a trust interest capable of determination without evaluation of contingencies except for those covered by the present worth tables and rules of calculation for their use set forth in § 20.2031-7 of the Federal Estate Tax Regulations (26 CFR 20.2031-7) or any similar present worth or life expectancy tables which may be adopted by the Internal Revenue Service.
+(m) [Reserved]
 
 (n) *Sole proprietorship* means a form of business in which one person owns all the assets of the business, in contrast to a partnership or corporation.
 
@@ -38,8 +36,6 @@ For the purposes of this part:
 
 (q) *Trust funds* means funds held by an insured depository institution as trustee pursuant to any irrevocable trust established pursuant to any statute or written trust agreement.
 
-(r) *Trust interest* means the interest of a beneficiary in an irrevocable express trust (other than an employee benefit plan) created either by written trust instrument or by statute, but does not include any interest retained by the settlor.
+(r)-(s) [Reserved]
 
-(s) [Reserved]
-
-[63 FR 25756, May 11, 1998, as amended at 71 FR 14631, Mar. 23, 2006; 73 FR 61660, Oct. 17, 2008; 74 FR 47716, Sept. 17, 2009; 75 FR 49365, Aug. 13, 2010; 75 FR 69583, Nov. 15, 2010; 76 FR 4816, Jan. 27, 2011; 76 FR 41395, July 14, 2011; 78 FR 56588, Sept. 13, 2013; 80 FR 65921, Oct. 28, 2015]
+[63 FR 25756, May 11, 1998, as amended at 71 FR 14631, Mar. 23, 2006; 73 FR 61660, Oct. 17, 2008; 74 FR 47716, Sept. 17, 2009; 75 FR 49365, Aug. 13, 2010; 75 FR 69583, Nov. 15, 2010; 76 FR 4816, Jan. 27, 2011; 76 FR 41395, July 14, 2011; 78 FR 56588, Sept. 13, 2013; 80 FR 65921, Oct. 28, 2015; 87 FR 4470, Jan. 28, 2022]

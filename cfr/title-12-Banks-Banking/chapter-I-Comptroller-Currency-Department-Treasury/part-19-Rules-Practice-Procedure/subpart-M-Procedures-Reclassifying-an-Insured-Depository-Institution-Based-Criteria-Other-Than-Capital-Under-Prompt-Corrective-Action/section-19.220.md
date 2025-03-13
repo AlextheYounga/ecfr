@@ -1,0 +1,3 @@
+##### § 19.220 Scope. #####
+
+This subpart applies to the procedures afforded to any insured depository institution that has been reclassified to a lower capital category by a notice or order issued by the OCC pursuant to section 38 of the FDIA (12 U.S.C. 1831o) and 12 CFR part 6 (prompt corrective action). For purposes of this subpart, *insured depository institution* means an insured national bank, an insured Federal savings association, an insured Federal savings bank, or an insured Federal branch of a foreign bank.

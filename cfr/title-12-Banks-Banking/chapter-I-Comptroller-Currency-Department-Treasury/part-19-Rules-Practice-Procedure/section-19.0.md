@@ -1,0 +1,3 @@
+##### § 19.0 Applicability date. #####
+
+Subparts A through D and H, I, J, L, M, N, P, and Q of this part apply to adjudicatory proceedings initiated on or after April 1, 2024. The Rules of Practice and Procedure for national banks, Federal savings associations, and Federal branches and agencies that were in effect prior to April 1, 2024, set forth in appendix A to this part, continue to apply to adjudicatory proceedings initiated before April 1, 2024, unless the parties otherwise stipulate that the rules in this part, effective April 1, 2024, apply.

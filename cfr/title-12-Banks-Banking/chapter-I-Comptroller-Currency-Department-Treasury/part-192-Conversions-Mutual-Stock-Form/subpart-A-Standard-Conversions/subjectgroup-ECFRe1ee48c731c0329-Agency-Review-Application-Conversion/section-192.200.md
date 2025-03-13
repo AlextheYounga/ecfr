@@ -1,7 +1,5 @@
 ##### § 192.200 Review, approval, or denial of application for conversion. #####
 
-Link to an amendment published at 89 FR 22068, Mar. 29, 2024.
-
 (a) *Standards for review of application.* The appropriate Federal banking agency may approve an application for conversion only if:
 
 (1) The conversion complies with this part;
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 22068, Mar. 29, 2024.
 
 (8) A savings association may not represent or imply that the appropriate Federal banking agency approved the appraisal.
 
-(c) *Compliance with the Community Reinvestment Act.* The appropriate Federal banking agency will review the savings association's compliance record under 12 CFR part 195 and its business plan to determine how the savings association will serve the convenience and needs of its communities after the conversion.
+(c) *Compliance with the Community Reinvestment Act.* The appropriate Federal banking agency will review the savings association's compliance record under 12 CFR part 25 and its business plan to determine how the savings association will serve the convenience and needs of its communities after the conversion.
 
 (1) Based on this review, the appropriate Federal banking agency may approve the application, deny the application, or approve the application on the condition that the savings association will improve its CRA performance or that the savings association will address the particular credit or lending needs of the communities that it will serve.
 
@@ -37,3 +35,5 @@ Link to an amendment published at 89 FR 22068, Mar. 29, 2024.
 (d) *Additional information.* The appropriate Federal banking agency may request that a savings association amend its application if further explanation is necessary, material is missing, or material needs correction.
 
 (e) *Denial of application.* The appropriate Federal banking agency will deny an application if the application does not meet the requirements of this subpart, unless the appropriate Federal banking agency waives the requirement under § 192.5(c).
+
+[85 FR 42643, July 14, 2020, as amended at 89 FR 22068, Mar. 29, 2024]

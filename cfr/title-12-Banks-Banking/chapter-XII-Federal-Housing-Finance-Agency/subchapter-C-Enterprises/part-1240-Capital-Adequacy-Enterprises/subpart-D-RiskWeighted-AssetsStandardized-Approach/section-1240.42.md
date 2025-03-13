@@ -1,7 +1,5 @@
 ##### § 1240.42 Risk-weighted assets for CRT and other securitization exposures. #####
 
-Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
-
 (a) *Securitization risk weight approaches.* Except as provided elsewhere in this section or in § 1240.41:
 
 (1) An Enterprise must deduct from common equity tier 1 capital any after-tax gain-on-sale resulting from a securitization and apply a 1,250 percent risk weight to the portion of a CEIO that does not constitute after-tax gain-on-sale.
@@ -32,7 +30,7 @@ Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
 
 (ii) The risk-based capital impact to the Enterprise of providing such implicit support.
 
-(f) *Interest-only mortgage-backed securities.* Regardless of any other provisions in this subpart, the risk weight for a non-credit-enhancing interest-only mortgage-backed security may not be less than 100 percent.
+(f) *Interest-only mortgage-backed securities.* For non-credit-enhancing interest-only mortgage-backed securities that are not subject to § 1240.32(c), the risk weight may not be less than 100 percent.
 
 (g) *Nth-to-default credit derivatives*—(1) *Protection provider.* An Enterprise may assign a risk weight using the SSFA in § 1240.43 to an nth-to-default credit derivative in accordance with this paragraph (g). An Enterprise must determine its exposure in the nth-to-default credit derivative as the largest notional amount of all the underlying exposures.
 
@@ -65,3 +63,5 @@ Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
 (A) If the Enterprise purchases credit protection from a counterparty that is not a securitization SPE, the Enterprise must determine the risk weight for the exposure according to this subpart D.
 
 (B) If the Enterprise purchases the credit protection from a counterparty that is a securitization SPE, the Enterprise must determine the risk weight for the exposure according to § 1240.42, including § 1240.42(a)(4) for a credit derivative that has a first priority claim on the cash flows from the underlying exposures of the securitization SPE (notwithstanding amounts due under interest rate or currency derivative contracts, fees due, or other similar payments).
+
+[85 FR 82198, Dec. 17, 2020, as amended at 88 FR 83481, Nov. 30, 2023]

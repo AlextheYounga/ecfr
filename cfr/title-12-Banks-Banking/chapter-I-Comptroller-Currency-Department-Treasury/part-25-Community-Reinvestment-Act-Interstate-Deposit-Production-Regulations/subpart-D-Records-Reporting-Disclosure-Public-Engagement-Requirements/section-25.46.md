@@ -1,0 +1,11 @@
+##### § 25.46 Public engagement. #####
+
+(a) *In general.* The appropriate Federal banking agency encourages communication between members of the public and banks or savings associations, including through members of the public submitting written public comments regarding community credit needs and opportunities as well as a bank's or savings association's record of helping to meet community credit needs. The appropriate Federal banking agency will take these comments into account in connection with the bank's or savings association's next scheduled CRA examination.
+
+(b) *Submission of public comments.* Members of the public may submit public comments regarding community credit needs and a bank's or savings association's CRA performance by submitting comments to the appropriate Federal banking agency at *“CRAComments@occ.treas.gov*, or by mailing comments to: Compliance Risk Policy Division, Bank Supervision Policy, OCC, Washington, DC 20219, for banks and Federal savings associations; or *CRACommentCollector@fdic.gov*, or by mailing comments to the address of the appropriate FDIC regional office found at *https://www.fdic.gov/resources/bankers/community-reinvestment-act/cra-regional-contacts-list.html*, for State savings associations.
+
+(c) *Timing of public comments.* If the appropriate Federal banking agency receives a public comment before the close date of a bank's or savings association's CRA examination, the public comment will be considered in connection with that CRA examination. If the appropriate Federal banking agency receives a public comment after the close date of a bank's or savings association's CRA examination, it will be considered in connection with the bank's or savings association's subsequent CRA examination.
+
+(d) *Distribution of public comments.* The appropriate Federal banking agency will forward all public comments received regarding a bank's or savings association's CRA performance to the bank or savings association.
+
+[89 FR 7165, Feb. 1, 2024, as amended at 89 FR 7168, Feb. 1, 2024]

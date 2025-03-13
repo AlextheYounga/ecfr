@@ -1,7 +1,5 @@
 ##### § 1240.32 General risk weights. #####
 
-Link to an amendment published at 88 FR 83476, Nov. 30, 2023.
-
 (a) *Exposures to the U.S. government.* (1) Notwithstanding any other requirement in this subpart, an Enterprise must assign a zero percent risk weight to:
 
 (i) An exposure to the U.S. government, its central bank, or a U.S. government agency; and
@@ -14,7 +12,9 @@ Link to an amendment published at 88 FR 83476, Nov. 30, 2023.
 
 (c) *Exposures to GSEs.* (1) An Enterprise must assign a zero percent risk weight to any MBS guaranteed by the Enterprise (other than any retained CRT exposure).
 
-(2) An Enterprise must assign a 20 percent risk weight to an exposure to another GSE, including an MBS guaranteed by the other Enterprise.
+(2) An Enterprise must assign a 5 percent risk weight to an exposure to the other Enterprise in a commingled security.
+
+(3) An Enterprise must assign a 20 percent risk weight to an exposure to another GSE, including an MBS guaranteed by the other Enterprise, except for exposures under paragraph (c)(2) of this section.
 
 (d) *Exposures to depository institutions and credit unions.* (1) An Enterprise must assign a 20 percent risk weight to an exposure to a depository institution or credit union that is organized under the laws of the United States or any state thereof, except as otherwise provided under paragraph (d)(2) of this section.
 
@@ -58,8 +58,26 @@ Link to an amendment published at 88 FR 83476, Nov. 30, 2023.
 
 (ii) DTAs arising from temporary differences that the Enterprise could not realize through net operating loss carrybacks.
 
-(5) An Enterprise must assign a 100 percent risk weight to all assets not specifically assigned a different risk weight under this subpart and that are not deducted from tier 1 or tier 2 capital pursuant to § 1240.22.
+(5) An Enterprise must assign a 20 percent risk weight to guarantee assets.
+
+(6) An Enterprise must assign a 100 percent risk weight to all assets not specifically assigned a different risk weight under this subpart and that are not deducted from tier 1 or tier 2 capital pursuant to § 1240.22.
 
 (j) *Insurance assets.* (1) An Enterprise must risk-weight the individual assets held in a separate account that does not qualify as a non-guaranteed separate account as if the individual assets were held directly by the Enterprise.
 
 (2) An Enterprise must assign a zero percent risk weight to an asset that is held in a non-guaranteed separate account.
+
+*Government subsidy* means that the property satisfies both of the following criteria:
+
+(i) At least 20 percent of the property's units are restricted to be affordable units per a regulatory agreement, recorded use restriction, a housing-assistance payments contract, or other restrictions codified in loan agreements; and
+
+(ii) The property benefits from one of the following government programs:
+
+(A) Low Income Housing Tax Credits (LIHTC);
+
+(B) Section 8 project-based rental assistance;
+
+(C) Section 515 Rural Rental Housing Loans; or
+
+(D) State/Local affordable housing programs that require the provision of affordable housing for the life of the loan.
+
+[88 FR 82198, Dec. 17, 2020, as amended at 88 FR 83476, Nov. 30, 2023]

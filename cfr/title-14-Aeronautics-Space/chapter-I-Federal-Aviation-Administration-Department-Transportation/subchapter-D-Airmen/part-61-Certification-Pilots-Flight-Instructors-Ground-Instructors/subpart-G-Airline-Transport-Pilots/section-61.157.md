@@ -1,5 +1,7 @@
 ##### § 61.157 Flight proficiency. #####
 
+Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
+
 (a) *General.* (1) The practical test for an airline transport pilot certificate is given for—
 
 (i) An airplane category and single engine class rating.

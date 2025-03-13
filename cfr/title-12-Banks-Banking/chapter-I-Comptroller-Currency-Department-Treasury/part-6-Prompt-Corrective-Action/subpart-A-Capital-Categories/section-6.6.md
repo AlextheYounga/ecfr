@@ -1,7 +1,5 @@
 ##### § 6.6 Mandatory and discretionary supervisory actions. #####
 
-Link to an amendment published at 88 FR 89842, Dec. 28, 2023.
-
 (a) *Mandatory supervisory actions*—(1) *Provisions applicable to all national banks and Federal savings associations.* All national banks and Federal savings associations are subject to the restrictions contained in section 38(d) of the FDI Act on payment of distributions and management fees.
 
 (2) *Provisions applicable to undercapitalized, significantly undercapitalized, and critically undercapitalized national banks or Federal savings associations.* Immediately upon receiving notice or being deemed to have notice, as provided in § 6.3, that the national bank or Federal savings association is undercapitalized, significantly undercapitalized, or critically undercapitalized, the national bank or Federal savings association shall become subject to the provisions of section 38 of the FDI Act:
@@ -24,4 +22,6 @@ Link to an amendment published at 88 FR 89842, Dec. 28, 2023.
 
 (ii) Restricting payments on subordinated debt of the national bank or Federal savings association (section 38 (h)(2)).
 
-(b) *Discretionary supervisory actions.* In taking any action under section 38 that is within the OCC's discretion to take in connection with a national bank or Federal savings association that is deemed to be undercapitalized, significantly undercapitalized, or critically undercapitalized, or has been reclassified as undercapitalized or significantly undercapitalized; an officer or director of such national bank or Federal savings association; or a company that controls such national bank or Federal savings association, the OCC shall follow the procedures for issuing directives under subpart B of this part and subpart N of part 19 of this chapter with respect to national banks and subpart B of this part and § 165.9 of this chapter with respect to Federal savings associations, unless otherwise provided in section 38 of the FDI Act or this part.
+(b) *Discretionary supervisory actions.* In taking any action under section 38 that is within the OCC's discretion to take in connection with a national bank or Federal savings association that is deemed to be undercapitalized, significantly undercapitalized, or critically undercapitalized, or has been reclassified as undercapitalized or significantly undercapitalized; an officer or director of such national bank or Federal savings association; or a company that controls such national bank or Federal savings association, the OCC shall follow the procedures for issuing directives under subpart B of this part and subpart N of part 19 of this chapter, unless otherwise provided in section 38 of the FDI Act or this part.
+
+[78 FR 62275, Oct. 11, 2013, as amended at 88 FR 89842, Dec. 28, 2023]

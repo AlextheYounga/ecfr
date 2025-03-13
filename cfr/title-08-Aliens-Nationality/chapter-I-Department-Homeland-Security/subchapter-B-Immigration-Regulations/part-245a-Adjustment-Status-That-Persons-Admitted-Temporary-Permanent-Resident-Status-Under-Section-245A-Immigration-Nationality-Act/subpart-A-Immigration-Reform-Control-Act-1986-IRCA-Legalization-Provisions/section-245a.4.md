@@ -1,7 +1,5 @@
 ##### § 245a.4 Adjustment to lawful resident status of certain nationals of countries for which extended voluntary departure has been made available. #####
 
-Link to an amendment published at 89 FR 6399, Jan. 31, 2024.
-
 (a) *Definitions.* As used in this section:
 
 (1) *Act* means the Immigration and Nationality Act, as amended by the Immigration Reform and Control Act of 1986.

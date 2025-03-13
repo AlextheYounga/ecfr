@@ -1,7 +1,5 @@
 ##### § 697.6 Dealer permits. #####
 
-Link to an amendment published at 88 FR 67677, Oct. 2, 2023.
-
 (a) *General.* Any person who receives, for a commercial purpose (other than solely for transport on land), American lobster or Jonah crabs from the owner or operator of a vessel issued a valid permit under this part, or any person who receives, for a commercial purpose (other than solely for transport on land), American lobster or Jonah crabs, managed by this part, must have been issued, and have in his/her possession, a valid permit issued under this section.
 
 (b) *Dealer application.* Applicants for a dealer permit under this section must submit a completed permit application on an appropriate form obtained from the Regional Administrator. To be complete, an application must contain at least the following information, and any other information specified on the application form or otherwise required by the Regional Administrator: Company name, place(s) of business, mailing address(es) and telephone number(s); owner's name; dealer permit number (if a renewal); and name and signature of the person responsible for the truth and accuracy of the report. If the dealer is a corporation, a copy of the Certificate of Incorporation; and the names and addresses of all shareholders owning 25 percent or more of the corporation's shares, must be included with the application. If the dealer is a partnership, a copy of the Partnership Agreement and the names and addresses of all partners; if there is more than one partner, names of all partners having more than a 25 percent interest; and name and signature of all partner or partners authorized must be included with the application. The application must be signed by the applicant and submitted to the Regional Administrator at least 30 days prior to the date on which the applicant needs the permit. The Regional Administrator will notify the applicant of any deficiency in the application.
@@ -36,7 +34,7 @@ Link to an amendment published at 88 FR 67677, Oct. 2, 2023.
 
 (A) Inshore Exempted Species, as defined in § 648.2 of this chapter, are not required to be reported under this part;
 
-(B) When purchasing or receiving fish from a vessel landing in a port located outside of the Northeast Region (Maine, New Hampshire, Massachusetts, Connecticut, Rhode Island, New York, New Jersey, Pennsylvania, Maryland, Delaware, Virginia and North Carolina), only purchases or receipts of species managed by the Northeast Region under this part (American lobster or Jonah crab), and part 648 of this chapter, must be reported. Other reporting requirements may apply to those species not managed by the Greater Atlantic Region, which are not affected by this paragraph (n); and
+(B) When purchasing or receiving fish from a vessel landing in a port located outside of the Greater Atlantic Region (Maine, New Hampshire, Massachusetts, Connecticut, Rhode Island, New York, New Jersey, Pennsylvania, Maryland, Delaware, Virginia and North Carolina), only purchases or receipts of species managed by the Greater Atlantic Region under this part (American lobster or Jonah crab), and part 648 of this chapter, must be reported. Other reporting requirements may apply to those species not managed by the Greater Atlantic Region, which are not affected by this paragraph (n); and
 
 (C) Dealers issued a permit for Atlantic bluefin tuna under part 635 of this chapter are not required to report their purchases or receipts of Atlantic bluefin tuna under this part. Other reporting requirements, as specified in § 635.5 of this chapter, apply to the receipt of Atlantic bluefin tuna.
 
@@ -72,4 +70,4 @@ Link to an amendment published at 88 FR 67677, Oct. 2, 2023.
 
 (s) *Additional dealer reporting requirements.* All persons issued a lobster dealer permit or a Jonah crab dealer permit under this part are subject to the reporting requirements set forth in paragraph (n) of this section, as well as §§ 648.6 and 648.7 of this chapter, whichever is most restrictive.
 
-[64 FR 68248, Dec. 6, 1999, as amended at 74 FR 37549, July 29, 2009; 84 FR 61579, Nov. 13, 2019]
+[64 FR 68248, Dec. 6, 1999, as amended at 74 FR 37549, July 29, 2009; 84 FR 61579, Nov. 13, 2019; 88 FR 67677, Oct. 2, 2023]

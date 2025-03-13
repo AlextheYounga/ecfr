@@ -1,5 +1,7 @@
 ##### § 1903.8 Representatives of employers and employees. #####
 
+Link to an amendment published at 89 FR 22601, Apr. 1, 2024.
+
 (a) Compliance Safety and Health Officers shall be in charge of inspections and questioning of persons. A representative of the employer and a representative authorized by his employees shall be given an opportunity to accompany the Compliance Safety and Health Officer during the physical inspection of any workplace for the purpose of aiding such inspection. A Compliance Safety and Health Officer may permit additional employer representatives and additional representatives authorized by employees to accompany him where he determines that such additional representatives will further aid the inspection. A different employer and employee representative may accompany the Compliance Safety and Health Officer during each different phase of an inspection if this will not interfere with the conduct of the inspection.
 
 (b) Compliance Safety and Health Officers shall have authority to resolve all disputes as to who is the representative authorized by the employer and employees for the purpose of this section. If there is no authorized representative of employees, or if the Compliance Safety and Health Officer is unable to determine with reasonable certainty who is such representative, he shall consult with a reasonable number of employees concerning matters of safety and health in the workplace.

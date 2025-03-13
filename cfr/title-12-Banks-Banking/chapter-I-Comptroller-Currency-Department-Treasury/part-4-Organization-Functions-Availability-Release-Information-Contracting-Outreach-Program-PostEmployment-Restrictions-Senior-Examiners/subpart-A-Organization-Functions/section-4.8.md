@@ -1,3 +1,13 @@
-##### § 4.8 xxx #####
+##### § 4.8 Service of process upon the OCC or the Comptroller. #####
 
-Link to an amendment published at 88 FR 89842, Dec. 28, 2023.
+(a) *Scope.* Paragraphs (b) through (d) of this section apply to service of process upon the OCC, the Comptroller acting in their official capacity, officers (officials who are not employees of the OCC, such as an administrative law judge (ALJ) or employees of the OCC who are sued in their official capacity), and officers or employees of the OCC who are sued in an individual capacity for an act or omission occurring in connection with duties performed on the behalf of the OCC.
+
+(b) *Actions in Federal courts.* Service of process for actions in Federal courts should be made upon the OCC, the Comptroller, or officers or employees of the OCC under the procedures set forth in the Federal Rules of Civil Procedure governing the service of process upon the United States and its agencies, corporations, officers, or employees.
+
+(c) *Actions in State courts.* Service of process for actions in State courts should be made upon the OCC, the Comptroller, or officers or employees of the OCC by sending copies of the summons and complaint by registered or certified mail, same day courier service, or overnight delivery service to the Chief Counsel, Office of the Comptroller of the Currency, Washington, DC 20219. In these actions, parties also are encouraged to provide copies of the summons and complaint to the appropriate United States Attorney in accordance with the procedures set forth in Rule 4(i) of the Federal Rules of Civil Procedure.
+
+(d) *Receipt of summons or complaint.* Only the Washington, DC headquarters office of the OCC is authorized to accept service of a summons or complaint. The OCC, the Comptroller, and officers or employees of the OCC must be served with a copy of the summons or complaint at the Washington, DC headquarters office in accordance with paragraphs (b) or (c) of this section.
+
+(e) *Service of process upon a national bank, Federal savings association, or Federal branch or agency of a foreign bank.* The OCC is not an agent for service of process upon a national bank, Federal savings association, or Federal branch or agency of a foreign bank. Parties seeking to serve a national bank, Federal savings association, or Federal branch or agency of a foreign bank must serve the summons or complaint upon the institution in accordance with the laws and procedures for the court in which the action has been filed.
+
+[88 FR 89842, Dec. 28, 2023]

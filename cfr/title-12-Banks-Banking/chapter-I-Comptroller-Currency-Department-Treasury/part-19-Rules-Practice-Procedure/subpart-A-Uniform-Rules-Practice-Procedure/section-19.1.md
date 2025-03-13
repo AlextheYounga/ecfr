@@ -16,7 +16,7 @@ This subpart prescribes Uniform Rules of practice and procedure applicable to ad
 
 (2) Sections 22 and 23 of the Federal Reserve Act (“FRA”), or any regulation issued thereunder, and certain unsafe or unsound practices and breaches of fiduciary duty, pursuant to 12 U.S.C. 504 and 505;
 
-(3) Section 106(b) of the Bank Holding CompanyAmendments of 1970, pursuant to 12 U.S.C. 1972(2)(F);
+(3) Section 106(b) of the Bank Holding Company Amendments of 1970, pursuant to 12 U.S.C. 1972(2)(F);
 
 (4) Any provision of the Change in Bank Control Act of 1978 or any regulation or order issued thereunder, and certain unsafe or unsound practices and breaches of fiduciary duty, pursuant to 12 U.S.C. 1817(j)(16);
 
@@ -30,16 +30,20 @@ This subpart prescribes Uniform Rules of practice and procedure applicable to ad
 
 (9) Section 1120 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (“FIRREA”) (12 U.S.C. 3349), or any order or regulation issued thereunder;
 
-(10) The terms of any final or temporary order issued under section 8 of the FDIA or any written agreement executed by the OCC, the terms of any condition imposed in writing by the OCC in connection with the grant of an application or request, certain unsafe or unsound practices, breaches of fiduciary duty, or any law or regulation not otherwise provided herein, pursuant to 12 U.S.C. 1818(i)(2);
+(10) The terms of any final or temporary order issued under section 8 of the FDIA or any written agreement executed by the OCC or the former Office of Thrift Supervision (OTS), the terms of any condition imposed in writing by the OCC or the former OTS in connection with the grant of an application or request, certain unsafe or unsound practices, breaches of fiduciary duty, or any law or regulation not otherwise provided in this section, pursuant to 12 U.S.C. 1818(i)(2);
 
-(11) Any provision of law referenced in section 102(f) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(f)) or any order or regulation issued thereunder; and
+(11) Any provision of law referenced in section 102(f) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(f)) or any order or regulation issued thereunder;
 
 (12) Any provision of law referenced in 31 U.S.C. 5321 or any order or regulation issued thereunder;
 
+(13) Section 5 of the Home Owners' Loan Act (HOLA) or any regulation or order issued thereunder, pursuant to 12 U.S.C. 1464(d), (s), and (v);
+
+(14) Section 9 of the HOLA or any regulation or order issued thereunder, pursuant to 12 U.S.C. 1467(d); and
+
+(15) Section 10 of the HOLA, pursuant to 12 U.S.C. 1467a(r);
+
 (f) Remedial action under section 102(g) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(g));
 
-(g) Removal, prohibition, and civil monetary penalty proceedings under section 10(k) of the FDI Act (12 U.S.C. 1820(k)) for violations of the post-employment restrictions imposed by that section; and
+(g) Removal, prohibition, and civil monetary penalty proceedings under section 10(k) of the FDIA (12 U.S.C. 1820(k)) for violations of the post-employment restrictions imposed by section 10(k); and
 
-(h) This subpart also applies to all other adjudications required by statute to be determined on the record after opportunity for an agency hearing, unless otherwise specifically provided for in the Local Rules.
-
-[56 FR 38028, Aug. 9, 1991, as amended at 61 FR 20334, May 6, 1996; 70 FR 69638, Nov. 17, 2005]
+(h) This subpart also applies to all other adjudications required by statute to be determined on the record after opportunity for an agency hearing, unless otherwise specifically provided for in the Local Rules (see § 19.3(j)).

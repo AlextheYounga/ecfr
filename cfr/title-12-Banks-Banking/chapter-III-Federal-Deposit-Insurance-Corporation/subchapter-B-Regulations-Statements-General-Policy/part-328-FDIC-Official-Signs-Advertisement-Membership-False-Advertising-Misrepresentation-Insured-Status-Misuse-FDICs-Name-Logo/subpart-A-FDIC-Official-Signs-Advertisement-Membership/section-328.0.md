@@ -1,0 +1,3 @@
+##### § 328.0 Purpose. #####
+
+Subpart A of this part describes the official signs and advertising statement and prescribes their use by insured depository institutions, as well as other signs to prevent customer confusion in the event non-deposit products are offered by an insured depository institution. Subpart A applies to insured depository institutions, including insured branches of foreign banks, but does not apply to non-insured offices or branches of insured depository institutions located in foreign countries.

@@ -1,7 +1,5 @@
 ##### § 531.212 Superior qualifications and special needs pay-setting authority. #####
 
-Link to an amendment published at 89 FR 5754, Jan. 30, 2024.
-
 (a) *Agency authority.* (1) An agency may use the superior qualifications or special needs pay-setting authority in 5 U.S.C. 5333 to set the payable rate of basic pay for an employee above the minimum rate of the highest applicable rate range for the employee's position of record. The superior qualifications or special needs pay-setting authority may be used for—
 
 (i) A first appointment (regardless of tenure) as a civilian employee of the Federal Government; or
@@ -50,27 +48,29 @@ Link to an amendment published at 89 FR 5754, Jan. 30, 2024.
 
 (2) The candidate fills a special agency need. An agency may determine that a candidate fills a special agency need if the type, level, or quality of skills and competencies or other qualities and experiences possessed by the candidate are relevant to the requirements of the position and are essential to accomplishing an important agency mission, goal, or program activity. A candidate also may meet the special needs criteria by meeting agency workforce needs, as documented in the agency's strategic human capital plan.
 
-(c) *Pay rate determination.* An agency may consider one or more of the following factors, as applicable in the case at hand, to determine the step at which to set an employee's payable rate of basic pay using the superior qualifications and special needs pay-setting authority:
+(c) *Pay rate determination.* To determine the step at which to set an employee's payable rate of basic pay using the superior qualifications and special needs pay-setting authority, an agency must consider:
 
-(1) The level, type, or quality of the candidate's skills or competencies;
+(1) The step at which pay has been set for employees who had similar qualifications (based on the level, type, or quality of the candidate's skills or competencies or other qualities and experiences) and who have been newly appointed to positions that are similar to the candidate's position (based on the position's occupational series, grade level, organization, geographic location, or other job-relevant factors), if applicable; and
 
-(2) The candidate's existing salary, recent salary history, or salary documented in a competing job offer (taking into account the location where the salary was or would be earned and comparing the salary to payable rates of basic pay in the same location);
+(2) One or more of the following factors, as applicable in the case at hand:
 
-(3) Significant disparities between Federal and non-Federal salaries for the skills and competencies required in the position to be filled;
+(i) The level, type, or quality of the candidate's skills or competencies;
 
-(4) Existing labor market conditions and employment trends, including the availability and quality of candidates for the same or similar positions;
+(ii) Significant disparities between Federal and non-Federal salaries for the skills and competencies required in the position to be filled;
 
-(5) The success of recent efforts to recruit candidates for the same or similar positions;
+(iii) Existing labor market conditions and employment trends, including the availability and quality of candidates for the same or similar positions;
 
-(6) Recent turnover in the same or similar positions;
+(iv) The success of recent efforts to recruit candidates for the same or similar positions;
 
-(7) The importance/criticality of the position to be filled and the effect on the agency if it is not filled or if there is a delay in filling it;
+(v) Recent turnover in the same or similar positions;
 
-(8) The desirability of the geographic location, duties, and/or work environment associated with the position;
+(vi) The importance/criticality of the position to be filled and the effect on the agency if it is not filled or if there is a delay in filling it;
 
-(9) Agency workforce needs, as documented in the agency's strategic human capital plan; or
+(vii) The desirability of the geographic location, duties, and/or work environment associated with the position;
 
-(10) Other relevant factors.
+(viii) Agency workforce needs, as documented in the agency's strategic human capital plan; or
+
+(ix) Other relevant factors, except that an agency may not consider the candidate's salary history (*i.e.,* existing salary or prior salary) or a salary from a competing job offer.
 
 (d) *Consideration of recruitment incentive.* In determining whether to use the superior qualifications and special needs pay-setting authority and the level at which the employee's payable rate of basic pay should be set, an agency must consider the possibility of authorizing a recruitment incentive under 5 CFR part 575, subpart A.
 
@@ -80,10 +80,10 @@ Link to an amendment published at 89 FR 5754, Jan. 30, 2024.
 
 (i) The superior qualifications of the candidate under paragraph (b)(1) of this section or the special agency need for the candidate's services under paragraph (b)(2) of this section which justifies a higher than minimum rate;
 
-(ii) An explanation of the factor(s) and supporting documentation under paragraph (c) of this section which were used to justify the rate at which the employee's pay is set. The written documentation must explain how the factors directly relate to the rate approved; and
+(ii) An explanation of the factors and supporting documentation under paragraph (c) of this section which were used to justify the rate at which the employee's pay is set. The written documentation must explain how the factors directly relate to the rate approved; and
 
 (iii) The reasons for authorizing a higher than minimum rate instead of or in addition to a recruitment incentive under 5 CFR part 575, subpart A.
 
 (f) *Ensuring compliance.* An agency must establish appropriate internal guidelines and evaluation procedures to ensure compliance with the law, this section of OPM regulations, and agency policies.
 
-[70 FR 31291, May 31, 2005, as amended at 73 FR 66152, Nov. 7, 2008; 77 FR 28222, May 11, 2012; 78 FR 49362, Aug. 14, 2013]
+[70 FR 31291, May 31, 2005, as amended at 73 FR 66152, Nov. 7, 2008; 77 FR 28222, May 11, 2012; 78 FR 49362, Aug. 14, 2013; 89 FR 5754, Jan. 30, 2024]

@@ -1,0 +1,53 @@
+##### § 25.26 Limited purpose banks and savings associations. #####
+
+(a) *Bank and savings association request for designation as a limited purpose bank or savings association.* To receive a designation as a limited purpose bank or savings association, a bank or savings association must file a written request with the appropriate Federal banking agency at least 90 days prior to the proposed effective date of the designation. If the appropriate Federal banking agency approves the designation, it remains in effect until the bank or savings association requests revocation of the designation or until one year after the appropriate Federal banking agency notifies a limited purpose bank or savings association that the appropriate Federal banking agency has revoked the designation on the appropriate Federal banking agency's own initiative.
+
+(b) *Performance evaluation*—(1) *In general.* To evaluate a limited purpose bank or savings association, the appropriate Federal banking agency applies the Community Development Financing Test for Limited Purpose Banks and Savings Associations as described in paragraphs (c) through (f) of this section.
+
+(2) *Additional consideration*—(i) *Community development services.* The appropriate Federal banking agency may adjust a limited purpose bank's or savings association's institution rating from “Satisfactory” to “Outstanding” where a bank or savings association requests and receives additional consideration for services that would qualify under the Community Development Services Test in § 25.25.
+
+(ii) *Additional consideration for low-cost education loans.* A limited purpose bank or savings association may request and receive additional consideration at the institution level for providing low-cost education loans to low-income borrowers pursuant to 12 U.S.C. 2903(d), regardless of the limited purpose bank's or savings association's overall institution rating.
+
+(c) *Community Development Financing Test for Limited Purpose Banks and Savings Associations*—(1) *In general.* Pursuant to § 25.21, the Community Development Financing Test for Limited Purpose Banks and Savings Associations evaluates a limited purpose bank's or savings association's record of helping to meet the credit needs of its entire community through community development loans and community development investments (*i.e.,* the bank's or savings association's community development financing performance).
+
+(2) *Allocation.* The appropriate Federal banking agency considers community development loans and community development investments allocated pursuant to paragraph I.b of appendix B to this part.
+
+(d) *Facility-based assessment area evaluation.* The appropriate Federal banking agency evaluates a limited purpose bank's or savings association's community development financing performance in a facility-based assessment area and assigns a conclusion in the facility-based assessment area based on the appropriate Federal banking agency's:
+
+(1) Consideration of the dollar volume of the limited purpose bank's or savings association's community development loans and community development investments that benefit or serve the facility-based assessment area; and
+
+(2) A review of the impact and responsiveness of the limited purpose bank's or savings association's community development loans and community development investments that benefit or serve a facility-based assessment area, as provided in § 25.15.
+
+(e) *State or multistate MSA evaluation.* The appropriate Federal banking agency evaluates a limited purpose bank's or savings association's community development financing performance in each State or multistate MSA, as applicable pursuant to §§ 25.19 and 25.28(c), and assigns a conclusion for the bank's or savings association's performance in the State or multistate MSA based on the appropriate Federal banking agency's consideration of the following two components:
+
+(1) *Component one—facility-based assessment area performance conclusions in a State or multistate MSA.* A limited purpose bank's or savings association's community development financing performance in its facility-based assessment areas in the State or multistate MSA; and
+
+(2) *Component two—State or multistate MSA performance.* The dollar volume of the limited purpose bank's or savings association's community development loans and community development investments that benefit or serve the State or multistate MSA and a review of the impact and responsiveness of those loans and investments, as provided in § 25.15.
+
+(f) *Nationwide area evaluation.* The appropriate Federal banking agency evaluates a limited purpose bank's or savings association's community development financing performance in the nationwide area, pursuant to § 25.19, and assigns a conclusion for the institution based on the appropriate Federal banking agency's consideration of the following two components:
+
+(1) *Component one—facility-based assessment area performance.* The limited purpose bank's or savings association's community development financing performance in all of its facility-based assessment areas; and
+
+(2) *Component two—nationwide area performance.* The limited purpose bank's or savings association's community development financing performance in the nationwide area based on the following metrics and benchmarks in paragraphs (f)(2)(i) through (iv) of this section and a review of the impact and responsiveness of the bank's or savings association's community development loans and community development investments in paragraph (f)(2)(v) of this section.
+
+(i) *Limited Purpose Bank Community Development Financing Metric.* The Limited Purpose Bank Community Development Financing Metric measures the dollar volume of a bank's or savings association's community development loans and community development investments that benefit or serve all or part of the nationwide area compared to the bank's or savings association's assets calculated pursuant to paragraph III.a of appendix B to this part.
+
+(ii) *Community Development Financing Benchmarks.* The appropriate Federal banking agency compares the Limited Purpose Bank Community Development Financing Metric to the following benchmarks:
+
+(A) *Nationwide Limited Purpose Bank Community Development Financing Benchmark.* The Nationwide Limited Purpose Bank Community Development Financing Benchmark measures the dollar volume of community development loans and community development investments of depository institutions designated as limited purpose banks or savings associations or savings associations pursuant to paragraph (a) of this section or designated as limited purpose banks or savings associations pursuant to 12 CFR 228.26(a) or 345.26(a) reported pursuant to § 25.42(b) or 12 CFR 228.42(b) or 345.42(b) that benefit and serve all or part of the nationwide area compared to assets for those depository institutions, calculated pursuant to paragraph III.b of appendix B to this part; and
+
+(B) *Nationwide Asset-Based Community Development Financing Benchmark.* The Nationwide Asset-Based Community Development Financing Benchmark measures the dollar volume of community development loans and community development investments that benefit or serve all or part of the nationwide area of all depository institutions that reported pursuant to § 25.42(b) or 12 CFR 228.42(b) or 345.42(b) compared to assets for those depository institutions, calculated pursuant to paragraph III.c of appendix B to this part.
+
+(iii) *Limited Purpose Bank and savings association Community Development Investment Metric.* For a limited purpose bank or savings association that had assets greater than $10 billion as of December 31 in both of the prior two calendar years, the Limited Purpose Bank Community Development Investment Metric measures the dollar volume of the bank's or savings association's community development investments that benefit or serve all or part of the nationwide area, excluding mortgage-backed securities, compared to the bank's or savings association's assets, calculated pursuant to paragraph III.d of appendix B to this part.
+
+(iv) *Nationwide Asset-Based Community Development Investment Benchmark.* (A) For a limited purpose bank or savings association that had assets greater than $10 billion as of December 31 in both of the prior two calendar years, the appropriate Federal banking agency compares the Limited Purpose Bank Community Development Investment Metric to the Nationwide Asset-Based Community Development Investment Benchmark. This comparison may only contribute positively to the bank's or savings association's Community Development Financing Test for Limited Purpose Banks and Savings Associations conclusion for the institution.
+
+(B) The Nationwide Asset-Based Community Development Investment Benchmark measures the dollar volume of community development investments that benefit or serve all or part of the nationwide area, excluding mortgage-backed securities, of all depository institutions that had assets greater than $10 billion as of December 31 in both of the prior two calendar years, compared to assets for those depository institutions, calculated pursuant to paragraph III.e of appendix B to this part.
+
+(v) *Impact and responsiveness review.* The appropriate Federal banking agency reviews the impact and responsiveness of the bank's or savings association's community development loans and community development investments that benefit or serve the nationwide area, as provided in § 25.15.
+
+(g) *Community Development Financing Test for Limited Purpose Banks and Savings Associations performance conclusions and ratings*—(1) *Conclusions.* Pursuant to § 25.28 and appendix C to this part, the appropriate Federal banking agency assigns conclusions for a limited purpose bank's or savings association's Community Development Financing Test for Limited Purpose Banks and Savings Associations performance in each facility-based assessment area, each State or multistate MSA, as applicable, and for the institution. In assigning conclusions under this performance test, the appropriate Federal banking agency may consider performance context information as provided in § 25.21(d).
+
+(2) *Ratings.* Pursuant to § 25.28 and appendix D to this part, the appropriate Federal banking agency incorporates a limited purpose bank's or savings association's Community Development Financing Test for Limited Purpose Banks and Savings Associations conclusions into its State or multistate MSA ratings, as applicable, and its institution rating.
+
+[89 FR 7165, Feb. 1, 2024, as amended at 89 FR 7167, Feb. 1, 2024]

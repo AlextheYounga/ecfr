@@ -1,5 +1,7 @@
 ##### § 65.123 Additional type ratings: Requirements. #####
 
+Link to an amendment published at 89 FR 22520, Apr. 1, 2024.
+
 A certificated parachute rigger who applies for an additional type rating must—
 
 (a) Present evidence satisfactory to the Administrator that he has packed at least 20 parachutes of the type for which he seeks a rating, in accordance with the manufacturer's instructions and under the supervision of a certificated parachute rigger holding a rating for that type or a person holding an appropriate military rating; and

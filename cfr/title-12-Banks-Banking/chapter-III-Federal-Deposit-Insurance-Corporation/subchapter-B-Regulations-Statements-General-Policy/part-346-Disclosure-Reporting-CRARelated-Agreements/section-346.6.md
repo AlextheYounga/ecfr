@@ -1,7 +1,5 @@
 ##### § 346.6 Disclosure of covered agreements. #####
 
-Link to an amendment published at 89 FR 22069, Mar. 29, 2024.
-
 (a) *Applicability date.* This section applies only to covered agreements entered into after November 12, 1999.
 
 (b) *Disclosure of covered agreements to the public*—(1) *Disclosure required.* Each NGEP and each insured depository institution or affiliate that enters into a covered agreement must promptly make a copy of the covered agreement available to any individual or entity upon request.
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 22069, Mar. 29, 2024.
 
 (6) *Reasonable copy and mailing fees.* Each NGEP and each insured depository institution or affiliate may charge an individual or entity that requests a copy of a covered agreement a reasonable fee not to exceed the cost of copying and mailing the agreement.
 
-(7) *Use of CRA public file by insured depository institution or affiliate.* An insured depository institution and any affiliate of an insured depository institution may fulfill its obligation under this paragraph (b) by placing a copy of the covered agreement in the insured depository institution's CRA public file if the institution makes the agreement available in accordance with the procedures set forth in 12 CFR 345.43.
+(7) *Use of CRA public file by insured depository institution or affiliate.* An insured depository institution and any affiliate of an insured depository institution may fulfill its obligation under this paragraph (b) by placing a copy of the covered agreement in the insured depository institution's CRA public file if the institution makes the agreement available in accordance with the procedures set forth in § 345.43 of appendix G to 12 CFR part 345.
 
 (c) *Disclosure by NGEPs of covered agreements to the relevant supervisory agency.* (1) Each NGEP that is a party to a covered agreement must provide the following within 30 days of receiving a request from the relevant supervisory agency—
 
@@ -59,3 +57,5 @@ Link to an amendment published at 89 FR 22069, Mar. 29, 2024.
 (ii) The obligation of an insured depository institution or affiliate to provide a covered agreement to the relevant supervisory agency under this paragraph (d)(2) terminates 36 months after the end of the term of the agreement.
 
 (3) *Joint filings.* In the event that 2 or more insured depository institutions or affiliates are parties to a covered agreement, the insured depository institution(s) and affiliate(s) may jointly file the documents required by this paragraph (d). Any joint filing must identify the insured depository institution(s) and affiliate(s) for whom the filings are being made.
+
+[80 FR 23692, Apr. 29, 2015, as amended at 89 FR 22069, Mar. 29, 2024]

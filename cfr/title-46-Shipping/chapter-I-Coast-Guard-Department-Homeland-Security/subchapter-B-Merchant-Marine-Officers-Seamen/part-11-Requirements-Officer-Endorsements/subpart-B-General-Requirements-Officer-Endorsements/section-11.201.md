@@ -1,7 +1,5 @@
 ##### § 11.201 General requirements for national and STCW officer endorsements. #####
 
-Link to an amendment published at 88 FR 67984, Oct. 3, 2023.
-
 (a) *General.* In addition to the requirements of part 10 of this subchapter, the applicant for an officer endorsement, whether original, renewal, duplicate, or raise of grade, must establish to the satisfaction of the Coast Guard that he or she possesses all the qualifications necessary (including but not limited to age, experience, character, physical health, citizenship, approved training, professional competence, and a test for dangerous drugs) before the Coast Guard will issue to him or her a merchant mariner credential (MMC). An applicant for any STCW endorsement must hold the appropriate national endorsement unless otherwise specified.
 
 (b) *English language requirements.* Except as provided in § 11.467(h) of this part, an applicant for an officer endorsement must demonstrate an ability to speak and understand English as found in the navigation rules, aids to navigation publications, emergency equipment instructions, machinery instructions, and radiotelephone communications instructions.
@@ -82,11 +80,11 @@ Link to an amendment published at 88 FR 67984, Oct. 3, 2023.
 
 (2) If information about the applicant's habits of life and character is brought to the attention of the Coast Guard after an original license, certificate of registry, or officer endorsement has been issued, and if such information reasonably supports the conclusion that the applicant cannot be entrusted with the duties and responsibilities of the license, certificate of registry, or officer endorsement issued, or indicates that the application for the license, certificate of registry, or officer endorsement was false or incomplete, the Coast Guard may notify the holder in writing that the license, certificate of registry, or officer endorsement is considered null and void, direct the holder to return the credential to the Coast Guard, and advise the holder that, upon return of the credential, the appeal procedures of § 10.237 of this subchapter apply.
 
-(h) *Firefighting certificate.* (1) Applicants for an original officer endorsement in the following categories must present a certificate of completion from a firefighting course of instruction that has been approved by the Coast Guard. The firefighting course must have been completed within the past 5 years, or if it was completed more than 5 years before the date of application, the applicant must provide evidence of maintaining the standard of competence in accordance with the firefighting requirements for the credential sought.
+(h) *Firefighting certificate.* (1) Applicants for an original officer endorsement in the following categories must present a certificate of completion from a firefighting course of instruction relevant to the endorsement being sought that has been approved by the Coast Guard. The firefighting course must have been completed within the past 5 years, or if it was completed more than 5 years before the date of application, the applicant must provide evidence of maintaining the standard of competence in accordance with the firefighting requirements for the credential sought.
 
 (2) The following categories must meet the requirements for basic and advanced firefighting in Regulations VI/1 and VI/3 of the STCW Convention and Tables A-VI/1-2 and A-VI/3 of the STCW Code (both incorporated by reference, see § 11.102 of this part):
 
-(i) National officer endorsements as master or mate on seagoing vessels of 200 GRT or more.
+(i) All national officer endorsements as master or mate on seagoing vessels of 200 GRT or more.
 
 (ii) All national officer endorsements for master or mate (pilot) of towing vessels, except apprentice mate (steersman) of the vessels, on oceans.
 
@@ -100,9 +98,17 @@ Link to an amendment published at 88 FR 67984, Oct. 3, 2023.
 
 (3) The following categories must meet the requirements for basic firefighting in Regulation VI/1 of the STCW Convention and Table A-VI/1-2 of the STCW Code:
 
-(i) Officer endorsement as master on vessels of less than 500 GT in ocean service.
+(i) All officer endorsements as master on vessels of less than 500 GT in ocean service.
 
-(ii) All officer endorsements for master or mate (pilot) of towing vessels, except apprentice mate (steersman) of towing vessels, in all services except oceans.
+(ii) All officer endorsements for master or mate (pilot) of towing vessels for service on near-coastal waters, except apprentice mate (steersman) of towing vessels.
+
+(iii) All officer endorsements for master or mate (pilot) of towing vessels for service on Great Lakes, except apprentice mate (steersman) of towing vessels.
+
+(iv) All officer endorsements as master or mate (pilot) of towing vessels for service on inland waters or Western Rivers, except apprentice mate (steersman) of towing vessels.
+
+(A) The Coast Guard will accept a Coast Guard-approved modified basic firefighting course, which is the basic firefighting training described in paragraph (h)(3) of this section modified to only cover the equipment, fire prevention procedures, and firefighting operations required on towing vessels on inland waters or Western Rivers routes required in 46 CFR parts 140 and 142. A mariner who completes this modified basic firefighting course will be issued an endorsement that is restricted to inland waters or Western Rivers.
+
+(B) To increase in scope to Great Lakes, near-coastal or oceans, the applicant will be required to complete the firefighting course appropriate to the route sought.
 
 (4) Applicants for a raise of grade of an officer endorsement who have not previously met the requirements of paragraph (h) of this section must do so.
 
@@ -138,6 +144,6 @@ Link to an amendment published at 88 FR 67984, Oct. 3, 2023.
 
 (k) *Radar observer.* Applicants for an endorsement as radar observer must present a certificate of completion from a radar observer course as required by § 11.480 of this part.
 
-(l) *Restrictions.* The Coast Guard may modify the service and examination requirements in this part to satisfy the unique qualification requirements of an applicant or distinct group of mariners. The Coast Guard may also lower the age requirement for OUPV applicants. The authority granted by an officer endorsement will be restricted to reflect any modifications made under the authority of this paragraph.
+(l) *Restrictions.* The Coast Guard may modify the service, training and examination requirements in this part to satisfy the unique qualification requirements of an applicant or distinct group of mariners. The Coast Guard may also lower the age requirement for OUPV applicants. The authority granted by an officer endorsement will be restricted to reflect any modifications made under the authority of this paragraph.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58275, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2017-1025, 85 FR 57765, Sept. 16, 2020]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58275, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2017-1025, 85 FR 57765, Sept. 16, 2020; USCG-2020-0492, 88 FR 67984, Oct. 3, 2023]

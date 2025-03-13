@@ -1,8 +1,6 @@
 ##### § 240.63 Application process. #####
 
-Link to an amendment published at 89 FR 6398, Jan. 31, 2024.
-
-(a) *Form and fees.* Except as provided in paragraph (b) of this section, the application must be made on the form prescribed by USCIS for this program and filed in accordance with the instructions for that form. An applicant who submitted to EOIR a completed Form EOIR-40, Application for Suspension of Deportation, before the effective date of the form prescribed by USCIS may apply with the Service by submitting the completed Form EOIR-40 attached to a completed first page of the application. Each application must be filed with the required fees as provided in 8 CFR 106.2.
+(a) *Form and fees.* Except as provided in paragraph (b) of this section, the application must be made on the form prescribed by USCIS for this program and filed in accordance with the instructions for that form. An applicant who submitted to EOIR a completed, Application for Suspension of Deportation, before the effective date of the form prescribed by USCIS may apply with USCIS by submitting the completed Application for Suspension of Deportation attached to a completed first page of the application. Each application must be filed with the required fees as provided in 8 CFR 106.2.
 
 (b) *Applications filed with EOIR.* If jurisdiction rests with the Immigration Court under § 260.62(b), the application must be made on the Form I-881, if filed subsequent to June 21, 1999. The application form, along with any supporting documents, must be filed with the Immigration Court and served on the Service's district counsel in accordance with the instructions on or accompanying the form. Applications for suspension of deportation or special rule cancellation of removal filed prior to June 21, 1999 shall be filed on Form EOIR-40.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 89 FR 6398, Jan. 31, 2024.
 
 (4) Knowing placement of false information on the application may subject the person supplying that information to criminal penalties under title 18 of the United States Code and to civil penalties under section 274C of the Act.
 
-[64 FR 27876, May 21, 1999, as amended at 74 FR 26939, June 5, 2009; 85 FR 46926, Aug. 3, 2020]
+[64 FR 27876, May 21, 1999, as amended at 74 FR 26939, June 5, 2009; 85 FR 46926, Aug. 3, 2020; 89 FR 6398, Jan. 31, 2024]

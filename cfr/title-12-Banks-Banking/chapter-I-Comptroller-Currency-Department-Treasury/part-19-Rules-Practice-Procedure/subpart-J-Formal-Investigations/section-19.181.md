@@ -1,3 +1,3 @@
 ##### § 19.181 Confidentiality of formal investigations. #####
 
-Information or documents obtained in the course of a formal investigation are confidential and may be disclosed only in accordance with the provisions of part 4 of this chapter.
+The entire record of any formal investigative proceeding, including the resolution or order of the Comptroller authorizing or terminating the proceeding; all subpoenas issued by the OCC during the investigation; and all information, documents, and transcripts obtained by the OCC in the course of a formal investigation, are confidential and may be disclosed only in accordance with the provisions of part 4 of this chapter or pursuant to OCC discovery obligations under subpart A of this part.

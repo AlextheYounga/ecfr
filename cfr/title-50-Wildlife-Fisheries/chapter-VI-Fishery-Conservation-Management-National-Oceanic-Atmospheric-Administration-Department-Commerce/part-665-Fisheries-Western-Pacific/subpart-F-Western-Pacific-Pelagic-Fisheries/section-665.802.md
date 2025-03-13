@@ -1,7 +1,5 @@
 ##### § 665.802 Prohibitions. #####
 
-Link to an amendment published at 89 FR 15063, Mar. 1, 2024.
-
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) Falsify or fail to make and/or file all reports of western Pacific pelagic MUS landings, containing all data and in the exact manner, as required by applicable state law or regulation, as specified in § 665.14(a), provided that the person is required to do so by applicable state law or regulation.
@@ -44,7 +42,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (y) Fail to comply with other terms and conditions that the Regional Administrator imposes by written notice to either the permit holder or the designated agent of the permit holder to facilitate the details of observer placement.
 
-(z) Fail to fish in accordance with the seabird take mitigation techniques set forth at §§ 665.815(a)(1) or 665.815(a)(2) when operating a vessel registered for use under a Hawaii longline limited access permit.
+(z) Fail to fish in accordance with the seabird take mitigation techniques set forth at § 665.815(a) when operating a vessel registered for use under a Hawaii longline limited access permit.
 
 (aa)-(bb) [*Reserved*]
 
@@ -66,17 +64,17 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (kk) Engage in shallow-setting from a vessel registered for use under any longline permit issued under § 665.801 north of the Equator (0° lat.) with bait other than mackerel-type bait, in violation of § 665.813(g).
 
-(ll) [*Reserved*]
+(ll) Fail to use weighted branch lines or a bird curtain that meets the specifications at § 665.815(a)(1)(i) through (vii) when operating a side-setting vessel that is registered for use under a Hawaii longline limited access permit, when making deep-sets or shallow-sets north of lat. 23° N, or shallow-sets south of lat. 23° N in violation of § 665.815(a)(1).
 
-(mm) Fail to use a line setting machine or line shooter, with weighted branch lines, to set the main longline when operating a vessel that is registered for use under a Hawaii longline limited access permit and equipped with monofilament main longline, when making deep sets north of 23° N. lat., in violation of § 665.815(a)(1) or (a)(2).
+(mm) Fail to use a line shooter with weighted branch lines to set the main longline, and fail to use a tori line system prior to the first hook being set that meets the specifications of § 665.815(a)(3)(i)(A) through (E) when operating a stern-setting vessel that is registered for use under a Hawaii longline limited access permit and equipped with monofilament main longline, when making deep-sets north of lat. 23° N in violation of § 665.815(a)(3).
 
-(nn) Fail to employ basket-style longline gear such that the mainline is deployed slack when operating a vessel registered for use under a Hawaii longline limited access north of 23° N. lat., in violation of § 665.815(a)(2)(v).
+(nn) Fail to employ basket-style longline gear such that the mainline is deployed slack when operating a vessel registered for use under a Hawaii longline limited access permit north of lat. 23° N, in violation of § 665.815(a)(4).
 
-(oo) Fail to maintain and use blue dye to prepare thawed bait when operating a vessel registered for use under a Hawaii longline limited access permit that is fishing north of 23° N. lat., in violation of § 665.815(a)(2)(vi) through (viii).
+(oo) Fail to maintain and use blue dye to prepare thawed bait when operating a stern-setting vessel registered for use under a Hawaii longline limited access permit when making shallow-sets, in violation of § 665.815(a)(2)(vi) and (vii).
 
-(pp) Fail to retain, handle, and discharge fish, fish parts, and spent bait, strategically when operating a vessel registered for use under a Hawaii longline limited access permit that is fishing north of 23° N. lat., in violation of § 665.815(a)(2)(i) through (iv).
+(pp) Fail to retain, handle, and discharge fish, fish parts, and spent bait, strategically when operating a stern-setting vessel registered for use under a Hawaii longline limited access permit when making shallow-sets, in violation of § 665.815(a)(2)(i) through (iv).
 
-(qq) Fail to be begin the deployment of longline gear at least 1 hour after local sunset or fail to complete the setting process before local sunrise from a vessel registered for use under a Hawaii longline limited access permit while shallow-setting north of 23° N. lat., in violation of § 665.815(a)(4).
+(qq) Fail to begin the deployment of longline gear at least 1 hour after local sunset or fail to complete the setting process before local sunrise from a stern-setting vessel registered for use under a Hawaii longline limited access permit while shallow-setting, in violation of § 665.815(a)(2)(v).
 
 (rr) Fail to handle short-tailed albatrosses that are caught by pelagic longline gear in a manner that maximizes the probability of their long-term survival, in violation of § 665.815(b).
 
@@ -94,4 +92,4 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (zz) Use a vessel that is greater than 50 ft (15.4 m) LOA to squid jig fish in EEZ waters around American Samoa, CNMI, Guam, Hawaii, or PRIA, without a Western Pacific squid jig fishing permit registered for use with that vessel, in violation of § 665.801(g).
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37288, June 27, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 60649, Oct. 4, 2012; 79 FR 64111, Oct. 28, 2014; 85 FR 57997, Sept. 17, 2020; 86 FR 55745, Oct. 7, 2021; 87 FR 25156, Apr. 28, 2022]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37288, June 27, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 60649, Oct. 4, 2012; 79 FR 64111, Oct. 28, 2014; 85 FR 57997, Sept. 17, 2020; 86 FR 55745, Oct. 7, 2021; 87 FR 25156, Apr. 28, 2022; 89 FR 15063, Mar. 1, 2024]

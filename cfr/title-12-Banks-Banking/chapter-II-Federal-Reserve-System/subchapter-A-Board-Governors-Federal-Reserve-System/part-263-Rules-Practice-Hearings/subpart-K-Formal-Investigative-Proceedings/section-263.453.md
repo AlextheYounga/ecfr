@@ -1,0 +1,3 @@
+##### § 263.453 Powers of the designated representative. #####
+
+The designated representative conducting the formal investigative proceeding will have the power to administer oaths and affirmations, to take and preserve testimony under oath, to issue subpoenas *ad testificandum* and subpoenas *duces tecum* and to apply for their enforcement to the United States District Court for the judicial district or the United States court in any territory in which the witness or company subpoenaed resides or conducts business, or such other judicial district provided by law.

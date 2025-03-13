@@ -12,7 +12,7 @@
 
 (4) Internal executive branch legal advice or legal opinions addressed to executive branch officials;
 
-(5) Agency statements of specific applicability, including advisory or legal opinions directed to particular parties about circumstance-specific questions (*e.g.,* case or investigatory letters responding to complaints, warning letters), notices regarding particular locations or facilities (*e.g.,* guidance pertaining to the use, operation, or control of a Government facility or property), and correspondence with individual persons or entities (*e.g.,* congressional correspondence), except documents ostensibly directed to a particular party but designed to guide the conduct of the broader regulated public;
+(5) Agency statements of specific applicability, including advisory or legal opinions directed to particular parties about circumstance-specific questions (e.g., case or investigatory letters responding to complaints, warning letters), notices regarding particular locations or facilities (e.g., guidance pertaining to the use, operation, or control of a Government facility or property), and correspondence with individual persons or entities (e.g., congressional correspondence), except documents ostensibly directed to a particular party but designed to guide the conduct of the broader regulated public;
 
 (6) Legal briefs, other filings with a court or administrative tribunal, records or communications produced in a legal proceeding, or positions taken in litigation or enforcement actions;
 

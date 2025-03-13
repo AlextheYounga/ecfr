@@ -1,0 +1,3 @@
+##### § 19.222 Request for rescission of reclassification. #####
+
+Any insured depository institution that has been reclassified under part 6 of this chapter and this subpart, may, upon a change in circumstances, request in writing that the OCC reconsider the reclassification, and may propose that the reclassification be rescinded and that any directives issued in connection with the reclassification be modified, rescinded, or removed. Unless otherwise ordered by the OCC, the insured depository institution will remain subject to the reclassification and to any directives issued in connection with that reclassification while such request is pending before the OCC.

@@ -1,7 +1,5 @@
 ##### § 1240.34 Multifamily mortgage exposures. #####
 
-Link to an amendment published at 88 FR 83478, Nov. 30, 2023.
-
 (a) *Definitions.* Subject to any additional instructions set forth on Table 1 to this paragraph (a), for purposes of this section:
 
 *Acquisition debt-service-coverage ratio (acquisition DSCR)* means, with respect to a multifamily mortgage exposure, the amount equal to:
@@ -16,11 +14,27 @@ Link to an amendment published at 88 FR 83478, Nov. 30, 2023.
 
 (ii) The value of the multifamily property securing the multifamily mortgage exposure.
 
+*Affordable unit* means a unit within a property securing a multifamily mortgage exposure that can be rented by occupants with income less than or equal to 80 percent of the area median income where the property resides.
+
 *Debt-service-coverage ratio* (*DSCR)* means, with respect to a multifamily mortgage exposure:
 
 (i) The acquisition DSCR of the multifamily mortgage exposure if the loan age of the multifamily mortgage exposure is less than 6; or
 
 (ii) The MTMDSCR of the multifamily mortgage exposure.
+
+*Government subsidy* means that the property satisfies both of the following criteria:
+
+(i) At least 20 percent of the property's units are restricted to be affordable units per a regulatory agreement, recorded use restriction, a housing-assistance payments contract, or other restrictions codified in loan agreements; and
+
+(ii) The property benefits from one of the following government programs:
+
+(A) Low Income Housing Tax Credits (LIHTC);
+
+(B) Section 8 project-based rental assistance;
+
+(C) Section 515 Rural Rental Housing Loans; or
+
+(D) State/Local affordable housing programs that require the provision of affordable housing for the life of the loan.
 
 *Interest-only (IO)* means a multifamily mortgage exposure that requires only payment of interest without any principal amortization during all or part of the loan term.
 
@@ -82,7 +96,7 @@ Link to an amendment published at 88 FR 83478, Nov. 30, 2023.
 
 *Unpaid principal balance (UPB)* means the outstanding loan amount of a multifamily mortgage exposure.
 
-![](/graphics/er17de20.024.gif)
+Table 1 to Paragraph (a)—Permissible Values and Additional Instructions![](/graphics/er30no23.028.gif)
 
 (b) *Risk weight*—(1) *In general.* Subject to paragraphs (b)(2) and (3) of this section, an Enterprise must assign a risk weight to a multifamily mortgage exposure equal to:
 
@@ -108,4 +122,8 @@ Link to an amendment published at 88 FR 83478, Nov. 30, 2023.
 
 (d) *Combined risk multiplier.* The combined risk multiplier for a multifamily mortgage exposure is equal to the product of each of the applicable risk multipliers set forth on table 4 to this paragraph (d).
 
-![](/graphics/er17de20.027.gif)
+Table 4 to Paragraph (d)—Multifamily Risk Multipliers![](/graphics/er30no23.029.gif)
+
+1 If a multifamily mortgage exposure is collateralized by multiple properties, calculate a weighted average government subsidy multiplier by assigning a 0.6 multiplier to each property with a government subsidy and 1.0 multiplier to each property without a government subsidy, and using the total number of units in a property as weights.
+
+ 85 FR 82198, Dec. 17, 2020, as amended at 88 FR 83478, Nov. 30, 2023]

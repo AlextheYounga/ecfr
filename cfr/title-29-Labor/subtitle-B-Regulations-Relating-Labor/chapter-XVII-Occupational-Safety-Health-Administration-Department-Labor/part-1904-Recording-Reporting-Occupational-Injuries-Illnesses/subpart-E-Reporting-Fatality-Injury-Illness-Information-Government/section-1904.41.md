@@ -1,7 +1,5 @@
 ##### § 1904.41 Electronic submission of Employer Identification Number (EIN) and injury and illness records to OSHA. #####
 
-Link to an amendment published at 88 FR 47346, July 21, 2023.
-
 (a) *Basic requirements*—(1) *Annual electronic submission of information from OSHA Form 300A Summary of Work-Related Injuries and Illnesses.* (i) If your establishment had 20-249 employees at any time during the previous calendar year, and your establishment is classified in an industry listed in appendix A to subpart E of this part, then you must electronically submit information from OSHA Form 300A Summary of Work-Related Injuries and Illnesses to OSHA or OSHA's designee. You must submit the information once a year, no later than the date listed in paragraph (c) of this section of the year after the calendar year covered by the form.
 
 (ii) If your establishment had 250 or more employees at any time during the previous calendar year, and this part requires your establishment to keep records, then you must electronically submit information from OSHA Form 300A Summary of Work-Related Injuries and Illnesses to OSHA or OSHA's designee. You must submit the information once a year, no later than the date listed in paragraph (c) of this section of the year after the calendar year covered by the form.

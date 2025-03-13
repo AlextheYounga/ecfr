@@ -1,7 +1,5 @@
 ##### § 531.221 Maximum payable rate rule. #####
 
-Link to an amendment published at 89 FR 5755, Jan. 30, 2024.
-
 (a) *General.* (1) An agency may apply the maximum payable rate rule as described in this section to determine an employee's payable rate of basic pay under the GS pay system at a rate higher than the otherwise applicable rate upon reemployment, transfer, reassignment, promotion, demotion, change in type of appointment, termination of a critical position pay authority under 5 CFR part 535, movement from a non-GS pay system, or termination of grade or pay retention under 5 CFR part 536. (Note: Special rules for GM employees are provided in § 531.247.) A payable rate set under this section must take effect on the effective date of the action involved. This section may not be used to set an employee's rate of basic pay retroactively unless a retroactive action is required to comply with a nondiscretionary agency policy.
 
 (2) At its discretion, an agency may set an employee's rate(s) of basic pay at the maximum rate identified under this section or at a lower rate. However, the employee's rate may not be lower than the rate to which he or she is entitled under any other applicable pay-setting rule.
@@ -11,6 +9,18 @@ Link to an amendment published at 89 FR 5755, Jan. 30, 2024.
 (4) In applying this section, an agency must treat a critical position pay rate under 5 CFR part 535 as if it were a rate under a non-GS pay system, as described in paragraph (d) of this section.
 
 (5) In applying this section, an agency must treat an adjusted GS rate that includes market pay under 38 U.S.C. 7431(c) as if it were a rate under a non-GS pay system, as described in paragraph (d) of this section.
+
+(6) Before setting pay under this section, an agency must establish a policy on its use of the maximum payable rate rule that includes—
+
+(i) Designation of officials with the authority to approve and set pay under this section;
+
+(ii) Any situations in which the agency must use the authority;
+
+(iii) Any situations in which the agency may exercise its discretion in using the authority;
+
+(iv) Consideration of the step at which pay has been set for other employees performing similar work in the organization (based on the position's occupational series, grade level, types of duties, or other job-relevant factors) and any other factors the designated official(s) may or must consider in determining the step at which to set the employee's pay between the employee's entitlement under any other applicable pay-setting rule and the employee's maximum payable rate; and
+
+(v) Documentation and recordkeeping requirements sufficient to allow reconstruction of the action.
 
 (b) *When highest previous rate is based on a GS rate or LEO special base rate.* When an employee's highest previous rate (as determined under § 531.222) is based on a GS rate or an LEO special base rate paid under the GS pay system, an agency must determine the maximum payable rate of basic pay that may be paid to the employee as follows:
 
@@ -44,4 +54,4 @@ Link to an amendment published at 89 FR 5755, Jan. 30, 2024.
 
 (3) After setting the employee's rate of basic pay in the current highest applicable rate range (not to exceed the maximum payable rate), the agency must determine any underlying rate of basic pay to which the employee is entitled at the determined step rate.
 
-[70 FR 31291, May 31, 2005, as amended at 73 FR 66152, Nov. 7, 2008]
+[70 FR 31291, May 31, 2005, as amended at 73 FR 66152, Nov. 7, 2008; 89 FR 5755, Jan. 30, 2024]

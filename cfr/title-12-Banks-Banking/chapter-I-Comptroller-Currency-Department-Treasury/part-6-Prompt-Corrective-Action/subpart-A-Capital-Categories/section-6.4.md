@@ -1,7 +1,5 @@
 ##### § 6.4 Capital measures and capital categories. #####
 
-Link to an amendment published at 88 FR 89842, Dec. 28, 2023.
-
 (a) *Capital measures.* (1) For purposes of section 38 of the FDI Act and this part, the relevant capital measures shall be:
 
 (i) Total Risk-Based Capital Measure: the total risk-based capital ratio;
@@ -114,8 +112,8 @@ Link to an amendment published at 88 FR 89842, Dec. 28, 2023.
 
 (d) *Reclassification based on supervisory criteria other than capital.* The OCC may reclassify a well capitalized national bank or Federal savings association as adequately capitalized and may require an adequately capitalized or an undercapitalized national bank or Federal savings association to comply with certain mandatory or discretionary supervisory actions as if the national bank or Federal savings association were in the next lower capital category (except that the OCC may not reclassify a significantly undercapitalized national bank or Federal savings association as critically undercapitalized) (each of these actions are hereinafter referred to generally as reclassifications) in the following circumstances:
 
-(1) *Unsafe or unsound condition.* The OCC has determined, after notice and opportunity for hearing pursuant to subpart M of part 19 of this chapter with respect to national banks and § 165.8 of this chapter with respect to Federal savings associations, that the national bank or Federal savings association is in unsafe or unsound condition; or
+(1) *Unsafe or unsound condition.* The OCC has determined, after notice and opportunity for hearing pursuant to subpart M of part 19 of this chapter, that the national bank or Federal savings association is in unsafe or unsound condition; or
 
-(2) *Unsafe or unsound practice.* The OCC has determined, after notice and opportunity for hearing pursuant to subpart M of part 19 of this chapter with respect to national banks and § 165.8 of this chapter with respect to Federal savings associations, that in the most recent examination of the national bank or Federal savings association, the national bank or Federal savings association received, and has not corrected a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, or liquidity.
+(2) *Unsafe or unsound practice.* The OCC has determined, after notice and opportunity for hearing pursuant to subpart M of part 19 of this chapter, that in the most recent examination of the national bank or Federal savings association, the national bank or Federal savings association received, and has not corrected a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, or liquidity.
 
-[78 FR 62275, Oct. 11, 2013, as amended at 79 FR 24539, May 1, 2014; 84 FR 61794, Nov. 13, 2019; 85 FR 10968, Feb. 26, 2020; 85 FR 32989, June 1, 2020]
+[78 FR 62275, Oct. 11, 2013, as amended at 79 FR 24539, May 1, 2014; 84 FR 61794, Nov. 13, 2019; 85 FR 10968, Feb. 26, 2020; 85 FR 32989, June 1, 2020; 88 FR 89842, Dec. 28, 2023]

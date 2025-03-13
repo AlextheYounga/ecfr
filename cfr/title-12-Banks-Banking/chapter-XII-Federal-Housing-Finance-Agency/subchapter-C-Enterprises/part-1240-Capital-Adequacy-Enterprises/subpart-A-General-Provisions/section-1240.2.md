@@ -1,7 +1,5 @@
 ##### § 1240.2 Definitions. #####
 
-Link to an amendment published at 88 FR 83474, Nov. 30, 2023.
-
 As used in this part:
 
 *Acquired CRT exposure* means, with respect to an Enterprise:
@@ -16,29 +14,29 @@ As used in this part:
 
 *Adjusted total assets* means the sum of the items described in paragraphs (1) though (9) of this definition, as adjusted pursuant to paragraph (9) of this definition for a clearing member Enterprise:
 
-(1) The balance sheet carrying value of all of the Enterprise's on-balance sheet assets, plus the value of securities sold under a repurchase transaction or a securities lending transaction that qualifies for sales treatment under GAAP, less amounts deducted from tier 1 capital under § 1240.22(a), (c), and (d), and less the value of securities received in security-for-security repo-style transactions, where the Enterprise acts as a securities lender and includes the securities received in its on-balance sheet assets but has not sold or re-hypothecated the securities received;
+(1) The balance sheet carrying value of all of the Enterprise's on-balance sheet assets, plus the value of securities sold under a repurchase transaction or a securities lending transaction that qualifies for sales treatment under Generally Accepted Accounting Principles (GAAP), less amounts deducted from tier 1 capital under § 1240.22(a), (c), and (d), and less the value of securities received in security-for-security repo-style transactions, where the Enterprise acts as a securities lender and includes the securities received in its on-balance sheet assets but has not sold or re-hypothecated the securities received, *less* the fair value of any derivative contracts;
 
-(2) The potential future credit exposure (PFE) for each derivative contract or each single-product netting set of derivative contracts (including a cleared transaction except as provided in paragraph (9) of this definition and, at the discretion of the Enterprise, excluding a forward agreement treated as a derivative contract that is part of a repurchase or reverse repurchase or a securities borrowing or lending transaction that qualifies for sales treatment under GAAP), to which the Enterprise is a counterparty as determined under § 1240.36, but without regard to § 1240.36(c), provided that:
+(2)(i) The potential future exposure (PFE) for each netting set to which the Enterprise is a counterparty (including cleared transactions except as provided in paragraph (9) of this definition and, at the discretion of the Enterprise, excluding a forward agreement treated as a derivative contract that is part of a repurchase or reverse repurchase or a securities borrowing or lending transaction that qualifies for sales treatment under GAAP), as determined under § 1240.36(c)(7), in which the term C in § 1240.36(c)(7)(i) equals zero, and, for any counterparty that is not a commercial end-user, multiplied by 1.4. For purposes of this paragraph, an Enterprise may set the value of the term C in § 1240.36(c)(7)(i) equal to the amount of collateral posted by a clearing member client of the Enterprise in connection with the client-facing derivative transactions within the netting set; and
 
-(i) An Enterprise may choose to exclude the PFE of all credit derivatives or other similar instruments through which it provides credit protection when calculating the PFE under § 1240.36, but without regard to § 1240.36(c), provided that it does not adjust the net-to-gross ratio (NGR); and
+(ii) An Enterprise may choose to exclude the PFE of all credit derivatives or other similar instruments through which it provides credit protection when calculating the PFE under § 1240.36(c), provided that it does so consistently over time for the calculation of the PFE for all such instruments;
 
-(ii) An Enterprise that chooses to exclude the PFE of credit derivatives or other similar instruments through which it provides credit protection pursuant to paragraph (2)(i) of this definition must do so consistently over time for the calculation of the PFE for all such instruments;
+(3)(i)(A) The replacement cost of each derivative contract or single product netting set of derivative contracts to which the Enterprise is a counterparty, calculated according to the following formula, and, for any counterparty that is not a commercial end-user, multiplied by 1.4:
 
-(3)(i) The amount of cash collateral that is received from a counterparty to a derivative contract and that has offset the mark-to-fair value of the derivative asset, or cash collateral that is posted to a counterparty to a derivative contract and that has reduced the Enterprise's on-balance sheet assets, unless such cash collateral is all or part of variation margin that satisfies the conditions in paragraphs (3)(iv) through (vii) of this definition;
+*Replacement Cost* = max{*V*−*CVM*r + *CVM*p*;* 0}Where:(*1*) *V* equals the fair value for each derivative contract or each single-product netting set of derivative contracts (including a cleared transaction except as provided in paragraph (9) of this definition and, at the discretion of the Enterprise, excluding a forward agreement treated as a derivative contract that is part of a repurchase or reverse repurchase or a securities borrowing or lending transaction that qualifies for sales treatment under GAAP);(*2*) *CVM*r equals the amount of cash collateral received from a counterparty to a derivative contract and that satisfies the conditions in paragraphs (3)(ii) through (vi) of this definition, or, in the case of a client-facing derivative transaction, the amount of collateral received from the clearing member client; and(*3*) *CVM*p equals the amount of cash collateral that is posted to a counterparty to a derivative contract and that has not offset the fair value of the derivative contract and that satisfies the conditions in paragraphs (3)(ii) through (vi) of this definition, or, in the case of a client-facing derivative transaction, the amount of collateral posted to the clearing member client;
 
-(ii) The variation margin is used to reduce the current credit exposure of the derivative contract, calculated as described in § 1240.36(b), and not the PFE;
+(B) Notwithstanding paragraph (3)(i)(A) of this definition, where multiple netting sets are subject to a single variation margin agreement, an Enterprise must apply the formula for replacement cost provided in § 1240.36(c)(10)(i), in which the term CMA may only include cash collateral that satisfies the conditions in paragraphs (3)(ii) through (vi) of this definition; and
 
-(iii) For the purpose of the calculation of the NGR described in § 1240.36(b)(2)(ii)(B), variation margin described in paragraph (3)(ii) of this definition may not reduce the net current credit exposure or the gross current credit exposure;
+(C) For purposes of paragraph (3)(i)(A) of this definition, an Enterprise must treat a derivative contract that references an index as if it were multiple derivative contracts each referencing one component of the index if the Enterprise elected to treat the derivative contract as multiple derivative contracts under § 1240.36(c)(5)(vi);
 
-(iv) For derivative contracts that are not cleared through a QCCP, the cash collateral received by the recipient counterparty is not segregated (by law, regulation, or an agreement with the counterparty);
+(ii) For derivative contracts that are not cleared through a QCCP, the cash collateral received by the recipient counterparty is not segregated (by law, regulation, or an agreement with the counterparty);
 
-(v) Variation margin is calculated and transferred on a daily basis based on the mark-to-fair value of the derivative contract;
+(iii) Variation margin is calculated and transferred on a daily basis based on the mark-to-fair value of the derivative contract;
 
-(vi) The variation margin transferred under the derivative contract or the governing rules of the CCP or QCCP for a cleared transaction is the full amount that is necessary to fully extinguish the net current credit exposure to the counterparty of the derivative contracts, subject to the threshold and minimum transfer amounts applicable to the counterparty under the terms of the derivative contract or the governing rules for a cleared transaction;
+(iv) The variation margin transferred under the derivative contract or the governing rules of the CCP or QCCP for a cleared transaction is the full amount that is necessary to fully extinguish the net current credit exposure to the counterparty of the derivative contracts, subject to the threshold and minimum transfer amounts applicable to the counterparty under the terms of the derivative contract or the governing rules for a cleared transaction;
 
-(vii) The variation margin is in the form of cash in the same currency as the currency of settlement set forth in the derivative contract, provided that for the purposes of this paragraph (3)(vii), currency of settlement means any currency for settlement specified in the governing qualifying master netting agreement and the credit support annex to the qualifying master netting agreement, or in the governing rules for a cleared transaction; and
+(v) The variation margin is in the form of cash in the same currency as the currency of settlement set forth in the derivative contract, provided that for the purposes of this paragraph, currency of settlement means any currency for settlement specified in the governing qualifying master netting agreement and the credit support annex to the qualifying master netting agreement, or in the governing rules for a cleared transaction; and
 
-(viii) The derivative contract and the variation margin are governed by a qualifying master netting agreement between the legal entities that are the counterparties to the derivative contract or by the governing rules for a cleared transaction, and the qualifying master netting agreement or the governing rules for a cleared transaction must explicitly stipulate that the counterparties agree to settle any payment obligations on a net basis, taking into account any variation margin received or provided under the contract if a credit event involving either counterparty occurs;
+(vi) The derivative contract and the variation margin are governed by a qualifying master netting agreement between the legal entities that are the counterparties to the derivative contract or by the governing rules for a cleared transaction, and the qualifying master netting agreement or the governing rules for a cleared transaction must explicitly stipulate that the counterparties agree to settle any payment obligations on a net basis, taking into account any variation margin received or provided under the contract if a credit event involving either counterparty occurs;
 
 (4) The effective notional principal amount (that is, the apparent or stated notional principal amount multiplied by any multiplier in the derivative contract) of a credit derivative, or other similar instrument, through which the Enterprise provides credit protection, provided that:
 
@@ -108,7 +106,11 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 *Allowances for loan and lease losses (ALLL)* means valuation allowances that have been established through a charge against earnings to cover estimated credit losses on loans, lease financing receivables or other extensions of credit as determined in accordance with GAAP. For purposes of this part, *ALLL* includes allowances that have been established through a charge against earnings to cover estimated credit losses associated with off-balance sheet credit exposures as determined in accordance with GAAP.
 
+*Backtesting* means the comparison of an Enterprise's internal estimates with actual outcomes during a sample period not used in model development. In this context, backtesting is one form of out-of-sample testing.
+
 *Bankruptcy remote* means, with respect to an entity or asset, that the entity or asset would be excluded from an insolvent entity's estate in receivership, insolvency, liquidation, or similar proceeding.
+
+*Basis derivative contract* means a non-foreign-exchange derivative contract (*i.e.,* the contract is denominated in a single currency) in which the cash flows of the derivative contract depend on the difference between two risk factors that are attributable solely to one of the following derivative asset classes: Interest rate, credit, equity, or commodity.
 
 *Carrying value* means, with respect to an asset, the value of the asset on the balance sheet of an Enterprise as determined in accordance with GAAP. For all assets other than available-for-sale debt securities or purchased credit deteriorated assets, the carrying value is not reduced by any associated credit loss allowance that is determined in accordance with GAAP.
 
@@ -148,6 +150,24 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (2) Other than to the extent necessary for the counterparty to comply with applicable law.
 
+*Commercial end-user* means an entity that:
+
+(1)(i) Is using derivative contracts to hedge or mitigate commercial risk; and
+
+(ii)(A) Is not an entity described in section 2(h)(7)(C)(i)(I) through (VIII) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)(i)(I) through (VIII)); or
+
+(B) Is not a “financial entity” for purposes of section 2(h)(7) of the Commodity Exchange Act (7 U.S.C. 2(h)) by virtue of section 2(h)(7)(C)(iii) of the Act (7 U.S.C. 2(h)(7)(C)(iii)); or
+
+(2)(i) Is using derivative contracts to hedge or mitigate commercial risk; and
+
+(ii) Is not an entity described in section 3C(g)(3)(A)(i) through (viii) of the Securities Exchange Act of 1934 (15 U.S.C. 78c-3(g)(3)(A)(i) through (viii)); or
+
+(3) Qualifies for the exemption in section 2(h)(7)(A) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(A)) by virtue of section 2(h)(7)(D) of the Act (7 U.S.C. 2(h)(7)(D)); or
+
+(4) Qualifies for an exemption in section 3C(g)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78c-3(g)(1)) by virtue of section 3C(g)(4) of the Act (15 U.S.C. 78c-3(g)(4)).
+
+*Commingled security* means a resecuritization of UMBS in which one or more of the underlying exposures is a UMBS guaranteed by the other Enterprise or is a resecuritization of UMBS guaranteed by the other Enterprise.
+
 *Commitment* means any legally binding arrangement that obligates an Enterprise to extend credit or to purchase assets.
 
 *Common equity tier 1 capital* is defined in § 1240.20(b).
@@ -176,6 +196,8 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (9) A separate account.
 
+*Credit default swap (CDS)* means a financial contract executed under standard industry documentation that allows one party (the protection purchaser) to transfer the credit risk of one or more exposures (reference exposure(s)) to another party (the protection provider) for a certain period of time.
+
 *Credit derivative* means a financial contract executed under standard industry credit derivative documentation that allows one party (the protection purchaser) to transfer the credit risk of one or more exposures (reference exposure(s)) to another party (the protection provider) for a certain period of time.
 
 *Credit-enhancing interest-only strip (CEIO)* means an on-balance sheet asset that, in form or in substance:
@@ -190,13 +212,11 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 *Credit union* means an insured credit union as defined under the Federal Credit Union Act (12 U.S.C. 1752 *et seq.*).
 
+*Credit valuation adjustment (CVA)* means the fair value adjustment to reflect counterparty credit risk in valuation of OTC derivative contracts.
+
 *CRT special purpose entity (CRT SPE)* means a corporation, trust, or other entity organized for the specific purpose of bearing credit risk transferred through a CRT, the activities of which are limited to those appropriate to accomplish this purpose.
 
 *Current Expected Credit Losses (CECL)* means the current expected credit losses methodology under GAAP.
-
-*Current exposure* means, with respect to a netting set, the larger of zero or the fair value of a transaction or portfolio of transactions within the netting set that would be lost upon default of the counterparty, assuming no recovery on the value of the transactions.
-
-*Current exposure methodology* means the method of calculating the exposure amount for over-the-counter derivative contracts in § 1240.36(b).
 
 *Custodian* means a financial institution that has legal custody of collateral provided to a CCP.
 
@@ -356,6 +376,16 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 *Eligible single-family lender risk share* means any partial or full recourse agreement or similar agreement (other than a participation agreement) between an Enterprise and the seller or servicer of a single-family mortgage exposure pursuant to which the seller or servicer agrees either to reimburse the Enterprise for losses arising out of the default of the single-family mortgage exposure or to repurchase or replace the single-family mortgage exposure in the event of the default of the single-family mortgage exposure.
 
+*Eligible time-based call* means a time-based call that:
+
+(1) Is exercisable solely at the discretion of the originating Enterprise, provided the Enterprise obtains FHFA's non-objection prior to exercising the time-based call;
+
+(2) Is not structured to avoid allocating credit losses to investors or otherwise structured to provide at most *de minimis* credit protection to the securitization or credit risk transfer; and
+
+(3) Is exercisable no less than five years after the securitization or credit risk transfer issuance date or effective date, where the underlying collateral is mortgage exposures with amortization terms greater than 20 years.
+
+(4) Is exercisable no less than four years after the securitization or credit risk transfer issuance date or effective date, where the underlying collateral is mortgage exposures with amortization terms of 20 years or less.
+
 *Equity exposure* means:
 
 (1) A security or instrument (whether voting or non-voting and whether certificated or not certificated) that represents a direct or an indirect ownership interest in, and is a residual claim on, the assets and income of a company, unless:
@@ -380,11 +410,11 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 *Exposure amount* means:
 
-(1) For the on-balance sheet component of an exposure (including a mortgage exposure); an OTC derivative contract; a repo-style transaction or an eligible margin loan for which the Enterprise determines the exposure amount under § 1240.39; a cleared transaction; a default fund contribution; or a securitization exposure), the Enterprise's carrying value of the exposure.
+(1) For the on-balance sheet component of an exposure (including a mortgage exposure); (other than an OTC derivative contract; a repo-style transaction or an eligible margin loan for which the Enterprise determines the exposure amount under § 1240.39; a cleared transaction; a default fund contribution; or a securitization exposure), the Enterprise's carrying value of the exposure.
 
 (2) For the off-balance sheet component of an exposure (other than an OTC derivative contract; a repo-style transaction or an eligible margin loan for which the Enterprise calculates the exposure amount under § 1240.39; a cleared transaction; a default fund contribution; or a securitization exposure), the notional amount of the off-balance sheet component multiplied by the appropriate credit conversion factor (CCF) in § 1240.35.
 
-(3) For an exposure that is an OTC derivative contract, the exposure amount determined under § 1240.36.
+(3) For an exposure that is an OTC derivative contract, the exposure amount or exposure at default (EAD) determined under § 1240.36.
 
 (4) For an exposure that is a cleared transaction, the exposure amount determined under § 1240.37.
 
@@ -414,7 +444,7 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (vii) Money market fund shares and other mutual fund shares if a price for the shares is publicly quoted daily; and
 
-(2) In which the Enterprise has a perfected, first-priority security interest or, outside of the United States, the legal equivalent thereof (with the exception of cash on deposit and notwithstanding the prior security interest of any custodial agent or any priority security interest granted to a CCP in connection with collateral posted to that CCP).
+(2) In which the Enterprise has a perfected, first-priority security interest or, outside of the United States, the legal equivalent thereof, (with the exception of cash on deposit; and notwithstanding the prior security interest of any custodial agent or any priority security interest granted to a CCP in connection with collateral posted to that CCP).
 
 *Gain-on-sale* means an increase in the equity capital of an Enterprise resulting from a traditional securitization other than an increase in equity capital resulting from:
 
@@ -428,6 +458,10 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 *Guarantee* means a financial guarantee, letter of credit, insurance, or other similar financial instrument (other than a credit derivative) that allows one party (beneficiary) to transfer the credit risk of one or more specific exposures (reference exposure) to another party (protection provider).
 
+*Guarantee asset* means the present value of a future consideration to be received for providing a financial guarantee on a portfolio of mortgage exposures not recognized on the balance sheet.
+
+*Independent collateral* means financial collateral, other than variation margin, that is subject to a collateral agreement, or in which an Enterprise has a perfected, first-priority security interest or, outside of the United States, the legal equivalent thereof (with the exception of cash on deposit; notwithstanding the prior security interest of any custodial agent or any prior security interest granted to a CCP in connection with collateral posted to that CCP), and the amount of which does not change directly in response to the value of the derivative contract or contracts that the financial collateral secures.
+
 *Investment grade* means that the entity to which the Enterprise is exposed through a loan or security, or the reference entity with respect to a credit derivative, has adequate capacity to meet financial commitments for the projected life of the asset or exposure. Such an entity or reference entity has adequate capacity to meet financial commitments if the risk of its default is low and the full and timely repayment of principal and interest is expected.
 
 *Minimum transfer amount* means the smallest amount of variation margin that may be transferred between counterparties to a netting set pursuant to the variation margin agreement.
@@ -438,15 +472,13 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 *Multifamily mortgage exposure* means an exposure that is secured by a first or subsequent lien on a property with five or more residential units.
 
-*Mortgage servicing assets (MSAs)* means the contractual rights owned by an Enterprise to service for a fee mortgage loans that are owned by others.
+*Mortgage servicing assets (MSAs)* means the contractual rights to service mortgage loans for a fee.
 
 *Multilateral development bank (MDB)* means the International Bank for Reconstruction and Development, the Multilateral Investment Guarantee Agency, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, the European Bank for Reconstruction and Development, the European Investment Bank, the European Investment Fund, the Nordic Investment Bank, the Caribbean Development Bank, the Islamic Development Bank, the Council of Europe Development Bank, and any other multilateral lending institution or regional development bank in which the U.S. government is a shareholder or contributing member or which FHFA determines poses comparable credit risk.
 
-*Netting set* means a group of transactions with a single counterparty that are subject to a qualifying master netting agreement or a qualifying cross-product master netting agreement. For derivative contracts, netting set also includes a single derivative contract between an Enterprise and a single counterparty. For purposes of calculating risk-based capital requirements using the internal models methodology in subpart E of this part, this term does not cover a transaction:
+*Net independent collateral amount* means the fair value amount of the independent collateral, as adjusted by the standard supervisory haircuts under § 1240.39(b)(2)(ii), as applicable, that a counterparty to a netting set has posted to an Enterprise less the fair value amount of the independent collateral, as adjusted by the standard supervisory haircuts under § 1240.39(b)(2)(ii), as applicable, posted by the Enterprise to the counterparty, excluding such amounts held in a bankruptcy remote manner or posted to a QCCP and held in conformance with the operational requirements in § 1240.3.
 
-(1) That is not subject to such a master netting agreement; or
-
-(2) Where the Enterprise has identified specific wrong-way risk.
+*Netting set* means a group of transactions with a single counterparty that are subject to a qualifying master netting agreement or a qualifying cross-product master netting agreement. For derivative contracts, netting set also includes a single derivative contract between an Enterprise and a single counterparty.
 
 *Non-guaranteed separate account* means a separate account where the insurance company:
 
@@ -511,6 +543,8 @@ E\* = max {0, [ΣEi− ΣCi]}
 (iii) Has not otherwise been determined by FHFA to not be a QCCP due to its financial condition, risk profile, failure to meet supervisory risk management standards, or other weaknesses or supervisory concerns that are inconsistent with the risk weight assigned to qualifying central counterparties under § 1240.37.
 
 (3) A QCCP that fails to meet the requirements of a QCCP in the future may still be treated as a QCCP under the conditions specified in § 1240.3(f).
+
+*Qualifying cross-product master netting agreement* means a qualifying master netting agreement that provides for termination and close-out netting across multiple types of financial transactions or qualifying master netting agreements in the event of a counterparty's default, provided that the underlying financial transactions are OTC derivative contracts, eligible margin loans, or repo-style transactions. In order to treat an agreement as a qualifying cross-product master netting agreement for purposes of this subpart, an Enterprise must comply with the requirements of § 1240.3(c) with respect to that agreement.
 
 *Qualifying master netting agreement* means a written, legally enforceable agreement provided that:
 
@@ -612,6 +646,8 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (2) The counterparty and the reference asset of the transaction, are affiliates or are the same entity.
 
+*Speculative grade* means the reference entity has adequate capacity to meet financial commitments in the near term, but is vulnerable to adverse economic conditions, such that should economic conditions deteriorate, the reference entity would present an elevated default risk.
+
 *Standardized market risk-weighted assets* means the standardized measure for spread risk calculated under § 1240.204(a) multiplied by 12.5.
 
 *Standardized total risk-weighted assets* means:
@@ -628,13 +664,17 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (v) Total risk-weighted assets for equity exposures as calculated under § 1240.52;
 
-(vi) Risk-weighted assets for operational risk, as calculated under § 1240.162(c) or § 1240.162(d), as applicable; and
+(vi) Credit valuation adjustment (CVA) risk-weighted assets as calculated under § 1240.36(d);
 
-(vii) Standardized market risk-weighted assets; minus
+(vii) Risk-weighted assets for operational risk, as calculated under § 1240.162(c) or § 1240.162(d), as applicable; and
+
+(viii) Standardized market risk-weighted assets, as calculated under § 1240.204; minus
 
 (2) Excess eligible credit reserves not included in the Enterprise's tier 2 capital.
 
 *Subsidiary* means, with respect to a company, a company controlled by that company.
+
+*Sub-speculative grade* means the reference entity depends on favorable economic conditions to meet its financial commitments, such that should such economic conditions deteriorate the reference entity likely would default on its financial commitments.
 
 *Synthetic securitization* means a transaction in which:
 
@@ -649,6 +689,8 @@ E\* = max {0, [ΣEi− ΣCi]}
 *Tier 1 capital* means the sum of common equity tier 1 capital and additional tier 1 capital.
 
 *Tier 2 capital* is defined in § 1240.20(d).
+
+*Time-based call* means a contractual provision that permits an originating Enterprise to redeem a securitization exposure on or after a specified redemption or cancellation date.
 
 *Total capital* has the meaning given in section 1303(23) of the Safety and Soundness Act (12 U.S.C. 4502(23)).
 
@@ -696,10 +738,20 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 *Underlying exposures* means one or more exposures that have been securitized in a securitization transaction.
 
+*Uniform Mortgage-backed Security (UMBS)* means the same as that defined in § 1248.1.
+
+*Value-at-Risk (VaR)* means the estimate of the maximum amount that the value of one or more exposures could decline due to market price or rate movements during a fixed holding period within a stated confidence interval.
+
+*Variation margin* means financial collateral that is subject to a collateral agreement provided by one party to its counterparty to meet the performance of the first party's obligations under one or more transactions between the parties as a result of a change in value of such obligations since the last time such financial collateral was provided.
+
 *Variation margin agreement* means an agreement to collect or post variation margin.
+
+*Variation margin amount* means the fair value amount of the variation margin, as adjusted by the standard supervisory haircuts under § 1240.39(b)(2)(ii), as applicable, that a counterparty to a netting set has posted to an Enterprise less the fair value amount of the variation margin, as adjusted by the standard supervisory haircuts under § 1240.39(b)(2)(ii), as applicable, posted by the Enterprise to the counterparty.
 
 *Variation margin threshold* means the amount of credit exposure of an Enterprise to its counterparty that, if exceeded, would require the counterparty to post variation margin to the Enterprise pursuant to the variation margin agreement.
 
+*Volatility derivative contract* means a derivative contract in which the payoff of the derivative contract explicitly depends on a measure of the volatility of an underlying risk factor to the derivative contract.
+
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022]
+[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022; 88 FR 83474, Nov. 30, 2023]

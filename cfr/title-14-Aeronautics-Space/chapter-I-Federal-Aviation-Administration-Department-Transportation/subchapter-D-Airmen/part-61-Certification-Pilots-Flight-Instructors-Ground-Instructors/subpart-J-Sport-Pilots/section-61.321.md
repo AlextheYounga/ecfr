@@ -1,5 +1,7 @@
 ##### § 61.321 How do I obtain privileges to operate an additional category or class of light-sport aircraft? #####
 
+Link to an amendment published at 89 FR 22518, Apr. 1, 2024.
+
 If you hold a sport pilot certificate and seek to operate an additional category or class of light-sport aircraft, you must—
 
 (a) Receive a logbook endorsement from the authorized instructor who trained you on the applicable aeronautical knowledge areas specified in § 61.309 and areas of operation specified in § 61.311. The endorsement certifies you have met the aeronautical knowledge and flight proficiency requirements for the additional light-sport aircraft privilege you seek;

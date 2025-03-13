@@ -1,7 +1,5 @@
 ##### § 697.4 Vessel permits and trap tags. #####
 
-Link to an amendment published at 88 FR 67676, Oct. 2, 2023.
-
 (a) *Limited access American lobster permit.* Any vessel of the United States that fishes for, possesses, or lands American lobster or Jonah crab in or harvested from the EEZ must have been issued and carry on board a valid Federal limited access lobster permit. The requirement in this paragraph (a) does not apply to: Charter, head, and commercial dive vessels that possess 6 or fewer American lobsters per person or 50 Jonah crab per person aboard the vessel if such lobsters or crabs are not intended for, nor used, in trade, barter or sale; recreational fishing vessels; and vessels that fish exclusively in state waters for American lobster or Jonah crab.
 
 (1) *Eligibility.* To be eligible for issuance or renewal of a Federal limited access lobster permit, a vessel must:
@@ -88,4 +86,74 @@ Link to an amendment published at 88 FR 67676, Oct. 2, 2023.
 
 (p) *Permit category change.* A vessel permit category change (for individuals who possess a dual Federal limited access permit for American lobster and black sea bass and who restrict fishing operations to Area 5) may be issued by the Regional Administrator when requested in writing by the owner or by an authorized representative of a vessel meeting the eligibility requirements under § 697.26(a).
 
-[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 14501, Mar. 13, 2001; 68 FR 14925, Mar. 27, 2003; 71 FR 13037, Mar. 14, 2006; 77 FR 32431, June 1, 2012; 79 FR 19021, Apr. 7, 2014; 84 FR 61579, Nov. 13, 2019; 88 FR 67676, Oct. 2, 2023]
+(q) *Fishing Vessel Trip Reports*—(1) *Information to be Submitted.* Beginning April 1, 2024, all federally permitted lobster vessels must maintain onboard the vessel and submit an electronic fishing log to NMFS for each fishing trip. Both the vessel permit owner and the vessel permit operator are responsible for ensuring the report is accurate and is filed. The report must be filed regardless of species fished for or taken during the trip and this report must be entered into and submitted through a software application approved by NMFS. The report must contain the following information:
+
+(i) Vessel name;
+
+(ii) USCG documentation number (or state registration number, if undocumented);
+
+(iii) Permit number;
+
+(iv) Date/time left port on fishing trip;
+
+(v) Date/time returned from port on fishing trip;
+
+(vi) Trip type (commercial, recreational, party, or charter);
+
+(vii) Number of crew;
+
+(viii) Number of anglers (if a charter or party boat);
+
+(ix) Gear fished;
+
+(x) Lobster trawl/string information;
+
+(A) Total number of trawls/strings in the water;
+
+(B) Average number of pots per trawl/string;
+
+(C) Total number of pots in the water;
+
+(xi) Entrance (ring/hoop) size;
+
+(xii) Chart area fished, based on the location of the start of haul back;
+
+(xiii) Latitude/longitude where the majority of fishing effort occurred;
+
+(xiv) Average depth where the majority of fishing effort occurred;
+
+(xv) Total number of strings hauled per chart area per trip;
+
+(xvi) Average soak time per trawl/string;
+
+(xvii) Hail weight, in pounds (or count of individual fish, if a party or charter vessel), by species, of all species, or parts of species;
+
+(xviii) Dealer permit number;
+
+(xix) Dealer name;
+
+(xx) Date sold, port and state landed; and
+
+(xxi) Vessel operator's name, signature, and operator's permit number (if applicable).
+
+(xxii) Total number of traps hauled by chart area;
+
+(xxiii) Number of traps in chart area fished;
+
+(xxiv) Average number of traps per string hauled in the chart area fished;
+
+(xxv) Number of buoy lines in the chart area fished; and
+
+(xxvi) Total number of buoy lines in the water.
+
+(2) *When to fill out a vessel trip report.* Vessel trip reports required by paragraph (q)(1)(i) of this section must be filled out with all required information, except for information not yet ascertainable, prior to entering port. Information that may be considered unascertainable prior to entering port includes dealer name, dealer permit number, and date sold. Vessel trip reports must be completed as soon as the missing information is ascertained.
+
+(3) *Inspection.* All persons required to submit reports under this part must make these reports and their underlying information available for inspection immediately upon the request of an authorized officer or an employee of NMFS designated by the Regional Administrator to make such inspections.
+
+(4) *Submitting reports*—(i) For any vessel issued a valid lobster permit, or eligible to renew a limited access permit under this part, fishing vessel trip reports, required by paragraph (b)(1) of this section, must be submitted within 48 hours of the conclusion of a trip.
+
+(ii) For the purposes of paragraph (q)(4)(i) of this section, the date when fish are offloaded from a commercial vessel will establish the conclusion of a commercial trip.
+
+(iii) For the purposes of paragraph (q)(4)(i) of this section, the date a charter/party vessel enters port will establish the conclusion of a for-hire trip.
+
+[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 14501, Mar. 13, 2001; 68 FR 14925, Mar. 27, 2003; 71 FR 13037, Mar. 14, 2006; 77 FR 32431, June 1, 2012; 79 FR 19021, Apr. 7, 2014; 84 FR 61579, Nov. 13, 2019; 88 FR 67676, Oct. 2, 2023; 88 FR 67676, Oct. 2, 2023]

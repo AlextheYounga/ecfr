@@ -1,20 +1,18 @@
 ##### § 103.40 Genealogical research requests. #####
 
-Link to an amendment published at 89 FR 6385, Jan. 31, 2024.
-
 (a) *Nature of requests.* Genealogy requests are requests for searches and/or copies of historical records relating to a deceased person, usually for genealogy and family history research purposes.
 
-(b) *Forms.* USCIS provides on its website at *https://www.uscis.gov/genealogy* the required forms in electronic versions: Genealogy Index Search Request, or Genealogy Records Request.
+(b) *Forms.* USCIS provides on its website at *https://www.uscis.gov/records/genealogy* the required forms in electronic versions: Genealogy Index Search Request or Genealogy Records Request.
 
-(c) *Required information.* Genealogical Research Requests may be submitted to request one or more separate records relating to an individual. A separate request must be submitted for each individual searched. All requests for records or index searches must include the individual's:
+(c) *Required information.* Genealogical research requests may be submitted to request one or more separate records relating to an individual. A separate request must be submitted for everyone searched. All requests for records or index searches must include the individual's:
 
 (1) Full name (including variant spellings of the name and/or aliases, if any).
 
 (2) Date of birth, at least as specific as a year.
 
-(3) Place of birth, at least as specific as a country and preferably the country name at the time of the individual's immigration or naturalization.
+(3) Place of birth, at least as specific as a country and the country name at the time of the individual's immigration or naturalization if known.
 
-(d) *Optional information.* To better ensure a successful search, a Genealogical Research Request may include each individual's:
+(d) *Optional information.* To better ensure a successful search, a genealogical research request may include everyone's:
 
 (1) Date of arrival in the United States.
 
@@ -22,17 +20,13 @@ Link to an amendment published at 89 FR 6385, Jan. 31, 2024.
 
 (3) Names of parents, spouse, and children if applicable and available.
 
-(e) *Additional information required to retrieve records.* For a Genealogy Records Request, requests for copies of historical records or files must:
+(e) *Additional information required to retrieve records.* For a Genealogy Records Request, requests for copies of historical records or files must identify the record by number or other specific data used by the Genealogy Program Office to retrieve the record as follows:
 
-(1) Identify the record by number or other specific data used by the Genealogy Program Office to retrieve the record as follows:
+(1) C-Files must be identified by a naturalization certificate number.
 
-(i) C-Files must be identified by a naturalization certificate number.
+(2) Forms AR-2 and A-Files numbered below 8 million must be identified by Alien Registration Number.
 
-(ii) Forms AR-2 and A-Files numbered below 8 million must be identified by Alien Registration Number.
-
-(iii) Visa Files must be identified by the Visa File Number. Registry Files must be identified by the Registry File Number (for example, R-12345).
-
-(2) [Reserved]
+(3) Visa Files must be identified by the Visa File Number. Registry Files must be identified by the Registry File Number (for example, R-12345).
 
 (f) *Information required for release of records.* (1) Documentary evidence must be attached to a Genealogy Records Request or submitted in accordance with the instructions on the Genealogy Records Request form.
 
@@ -44,4 +38,4 @@ Link to an amendment published at 89 FR 6385, Jan. 31, 2024.
 
 (h) *Processing of paper record copy requests.* This service is designed for requestors who can identify a specific record or file to be retrieved, copied, reviewed, and released. Requestors may identify one or more files in a single request.
 
-[85 FR 46915, Aug. 3, 2020]
+[85 FR 46915, Aug. 3, 2020, as amended at 89 FR 6385, Jan. 31, 2024]

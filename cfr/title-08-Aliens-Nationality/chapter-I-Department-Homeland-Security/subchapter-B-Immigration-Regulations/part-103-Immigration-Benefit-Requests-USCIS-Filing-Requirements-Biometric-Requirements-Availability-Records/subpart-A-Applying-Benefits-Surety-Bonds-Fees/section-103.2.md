@@ -1,8 +1,6 @@
 ##### § 103.2 Submission and adjudication of benefit requests. #####
 
-Link to an amendment published at 89 FR 6384, Jan. 31, 2024.
-
-(a) *Filing*—(1) *Preparation and submission.* Every form, benefit request, or other document must be submitted to DHS and executed in accordance with the form instructions regardless of a provision of 8 CFR chapter I to the contrary. The form's instructions are hereby incorporated into the regulations requiring its submission. Each form, benefit request, or other document must be filed with the fee(s) required by regulation. All USCIS fees are generally are non-refundable regardless of if the benefit request or other service is approved, denied, or selected, or how much time the adjudication or processing requires. Except as otherwise provided in this chapter I, fees must be paid when the request is filed or submitted.
+(a) *Filing*—(1) *Preparation and submission.* Every form, benefit request, or other document must be submitted to DHS and executed in accordance with the form instructions regardless of a provision of 8 CFR chapter I to the contrary. Each form, benefit request, or other document must be filed with the fee(s) required by regulation. Filing fees generally are non-refundable regardless of the outcome of the benefit request, or how much time the adjudication requires, and any decision to refund a fee is at the discretion of USCIS. Except as otherwise provided in this chapter I, fees must be paid when the request is filed or submitted.
 
 (2) *Signature.* An applicant or petitioner must sign his or her benefit request. However, a parent or legal guardian may sign for a person who is less than 14 years old. A legal guardian may sign for a mentally incompetent person. By signing the benefit request, the applicant or petitioner, or parent or guardian certifies under penalty of perjury that the benefit request, and all evidence submitted with it, either at the time of filing or thereafter, is true and correct. Unless otherwise specified in this chapter, an acceptable signature on a benefit request that is being filed with the USCIS is one that is either handwritten or, for benefit requests filed electronically as permitted by the instructions to the form, in electronic format.
 
@@ -24,9 +22,19 @@ Link to an amendment published at 89 FR 6384, Jan. 31, 2024.
 
 (C) Filed in compliance with the regulations governing the filing of the specific application, petition, form, or request; and
 
-(D) Submitted with the correct fee(s). If a check or other financial instrument used to pay a fee is returned as unpayable because of insufficient funds, USCIS will resubmit the payment to the remitter institution one time. If the instrument used to pay a fee is returned as unpayable a second time, the filing may be rejected. Financial instruments returned as unpayable for a reason other than insufficient funds will not be redeposited. If a check or other financial instrument used to pay a fee is dated more than one year before the request is received, the payment and request may be rejected.
+(D) Submitted with the correct fee(s). Every form, benefit request, or other document that requires a fee payment must be submitted with the correct fee(s).
+
+(*1*) If USCIS accepts a benefit request and determines later that the request was not accompanied by the correct fee, USCIS may reject or deny the request. If the benefit request was approved when USCIS determines the correct fee was not paid, the approval may be revoked upon notice.
+
+(*2*) If a check or other financial instrument used to pay a fee is dishonored, declined, or returned because of insufficient funds, USCIS will resubmit the payment to the remitter institution one time. If the instrument used to pay a fee is dishonored, declined, or returned a second time, the filing may be rejected or denied.
+
+(*3*) Financial instruments dishonored, declined, or returned for any reason other than insufficient funds, including but not limited to when an applicant, petitioner, or requestor places a stop payment on a financial instrument will not be resubmitted, and any immigration benefit request or request for action filed with USCIS may be rejected or denied regardless of whether USCIS has begun processing the request or already taken action on a case. Credit cards that are declined for any reason will not be resubmitted.
+
+(*4*) If a check or other financial instrument used to pay a fee is dated more than one year before the request is received, the payment and request may be rejected.
 
 (iii) A rejection of a filing with USCIS may not be appealed.
+
+(iv) Unless otherwise provided in this title, only one of the same benefit request as defined in 8 CFR 1.2 may be submitted at a time or while the same request is pending. If more than one materially identical requests are submitted, USCIS may reject one at its discretion. For purposes of this section, a motion to reopen or reconsider and an appeal that is filed on the same decision will be considered a duplicate request.
 
 (b) *Evidence and processing*—(1) *Demonstrating eligibility.* An applicant or petitioner must establish that he or she is eligible for the requested benefit at the time of filing the benefit request and must continue to be eligible through adjudication. Each benefit request must be properly completed and filed with all initial evidence required by applicable regulations and other USCIS instructions. Any evidence submitted in connection with a benefit request is incorporated into and considered part of the request.
 
@@ -106,7 +114,7 @@ Link to an amendment published at 89 FR 6384, Jan. 31, 2024.
 
 (C) *Approval notices with attached Arrival-Departure Records.* USCIS will send an original paper approval notice with an attached Arrival-Departure Record, reflecting USCIS's approval of an applicant's request for an extension of stay or change of status, to the official business address of the applicant's or petitioner's attorney or accredited representative, as reflected on a properly executed Notice of Entry of Appearance as Attorney or Accredited Representative or in the address section of the online representative account profile in USCIS's electronic immigration system, unless the applicant specifically requests that the original approval notice with an attached Arrival-Departure Record be sent directly to his or her mailing address.
 
-(iii) *Secure identity documents.* (A) USCIS may send secure identification documents, such as a Permanent Resident Card or Employment Authorization Document, only to the applicant or self-petitioner unless the applicant or self-petitioner specifically consents to having his or her secure identification document sent to a designated agent, their attorney or accredited representative or record, as specified on the form instructions.
+(iii) *Secure identity documents.* (A) USCIS will send secure identification documents, such as a Permanent Resident Card or Employment Authorization Document, only to the applicant or self-petitioner unless the applicant or self-petitioner specifically consents to having his or her secure identification document sent to a designated agent or their attorney or accredited representative of record, as specified on the form instructions.
 
 (B) The designated agent, or attorney or accredited representative, will be required to provide identification and sign for receipt of the secure document.
 

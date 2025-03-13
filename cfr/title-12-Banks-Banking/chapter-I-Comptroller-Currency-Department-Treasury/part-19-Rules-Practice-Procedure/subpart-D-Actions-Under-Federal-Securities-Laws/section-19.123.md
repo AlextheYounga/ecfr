@@ -1,0 +1,5 @@
+##### § 19.123 Cease-and-desist authority. #####
+
+(a) *Scope.* Except as provided in this section, subpart A of this part applies to proceedings by the Comptroller to determine whether, pursuant to authority contained in sections 12(i) and 21C of the Exchange Act (15 U.S.C. 78*l*(i) and 78u-3), the Comptroller may initiate cease-and-desist proceedings against a national bank or Federal savings association for violations of sections 10A(m), 12, 13, 14(a), 14(c), 14(d), 14(f), and 16 of the Exchange Act (15 U.S.C. 78j-1(m), 78*l,* 78m, 78n(a), 78n(c), 78n(d), 78n(f), and 78p); sections 302, 303, 304, 306, 401(b), 404, 406, and 407 of the Sarbanes-Oxley Act of 2002 as amended (15 U.S.C. 7241, 7242, 7243, 7244, 7261, 7262, 7264, and 7265); or regulations or rules issued thereunder.
+
+(b) *Public basis of proceedings; private hearings.* All proceedings under this section must be commenced, and the notice of charges must be filed, on a public basis, unless otherwise ordered by the Comptroller. Pursuant to § 19.33(a), any request for a private hearing may be filed within 20 days of service of the notice.

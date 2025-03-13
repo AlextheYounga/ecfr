@@ -1,115 +1,255 @@
 ##### § 345.12 Definitions. #####
 
-Link to an amendment published at 89 FR 7205, Feb. 1, 2024.Link to an amendment published at 89 FR 7206, Feb. 1, 2024.
+Link to an amendment published at 89 FR 7206, Feb. 1, 2024.
 
 For purposes of this part, the following definitions apply:
 
-(a) *Affiliate* means any company that controls, is controlled by, or is under common control with another company. The term *control* has the meaning given to that term in 12 U.S.C. 1841(a)(2), and a company is under common control with another company if both companies are directly or indirectly controlled by the same company.
+*Affiliate* means any company that controls, is controlled by, or is under common control with another company. The term “control” has the same meaning given to that term in 12 U.S.C. 1841(a)(2), and a company is under common control with another company if both companies are directly or indirectly controlled by the same company.
 
-(b) *Area median income* means:
+*Affordable housing* means activities described in § 345.13(b).
 
-(1) The median family income for the MSA, if a person or geography is located in an MSA, or for the metropolitan division, if a person or geography is located in an MSA that has been subdivided into metropolitan divisions; or
+*Area median income* means:
 
-(2) The statewide nonmetropolitan median family income, if a person or geography is located outside an MSA.
+(1) The median family income for the MSA (as defined in this section), if an individual, family, household, or census tract is located in an MSA that has not been subdivided into metropolitan divisions, or for the metropolitan division, if an individual, family, household, or census tract is located in an MSA that has been subdivided into metropolitan divisions; or
 
-(c) *Assessment area* means a geographic area delineated in accordance with § 345.41.
+(2) The statewide nonmetropolitan median family income, if an individual, family, household, or census tract is located in a nonmetropolitan area.
 
-(d) *Remote Service Facility (RSF)* means an automated, unstaffed banking facility owned or operated by, or operated exclusively for, the bank, such as an automated teller machine, cash dispensing machine, point-of-sale terminal, or other remote electronic facility, at which deposits are received, cash dispersed, or money lent.
+*Assets* means a bank's total assets as reported in Schedule RC of the Consolidated Reports of Condition and Income as filed under 12 U.S.C. 161, 324, 1464, or 1817, as applicable (Call Report), or Schedule RAL of the Report of Assets and Liabilities of U.S. Branches and Agencies of Foreign Banks as filed under 12 U.S.C. 1817(a), 3102(b), or 3105(c)(2), as applicable.
 
-(e) *Bank* means a State nonmember bank, as that term is defined in section 3(e)(2) of the Federal Deposit Insurance Act, as amended (FDIA) (12 U.S.C. 1813(e)(2)), with Federally insured deposits, except as provided in § 345.11(c). The term bank also includes an insured State branch as defined in § 345.11(c).
+*Bank* means a State nonmember bank, as that term is defined in section 3(e)(2) of the Federal Deposit Insurance Act (FDIA) (12 U.S.C. 1813(e)(2)), with federally insured deposits, except as defined in § 345.11(c). The term bank also includes an insured State branch as defined in § 345.11(c).
 
-(f) *Branch* means a staffed banking facility authorized as a branch, whether shared or unshared, including, for example, a mini-branch in a grocery store or a branch operated in conjunction with any other local business or nonprofit organization. The term “branch” only includes a “domestic branch” as that term is defined in section 3(o) of the FDIA (12 U.S.C. 1813(o)).
+*Branch* means a staffed banking facility, whether shared or unshared, that the FDIC approved or authorized as a branch and that is open to, and accepts deposits from, the general public.
 
-(g) *Community development* means:
+*Census tract* means a census tract delineated by the U.S. Census Bureau.
 
-(1) Affordable housing (including multifamily rental housing) for low- or moderate-income individuals;
+*Closed-end home mortgage loan* has the same meaning given to the term “closed-end mortgage loan” in 12 CFR 1003.2, excluding loan transactions set forth in 12 CFR 1003.3(c)(1) through (10) and (13) and multifamily loans as defined in this section.
 
-(2) Community services targeted to low- or moderate-income individuals;
+*Combination of loan dollars and loan count* means, when applied to a particular ratio, the average of:
 
-(3) Activities that promote economic development by financing businesses or farms that meet the size eligibility standards of the Small Business Administration's Development Company or Small Business Investment Company programs (13 CFR 121.301) or have gross annual revenues of $1 million or less; or
+(1) The ratio calculated using loans measured in dollar volume; and
 
-(4) Activities that revitalize or stabilize—
+(2) The ratio calculated using loans measured in number of loans.
 
-(i) Low-or moderate-income geographies;
+*Community development* means activities described in § 345.13(b) through (l).
 
-(ii) Designated disaster areas; or
+Community Development Financial Institution (CDFI) means an entity that satisfies the definition in section 103(5)(A) of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702(5)) and is certified by the U.S. Department of the Treasury's Community Development Financial Institutions Fund as meeting the requirements set forth in 12 CFR 1805.201(b).
 
-(iii) Distressed or underserved nonmetropolitan middle-income geographies designated by the Board of Governors of the Federal Reserve System, FDIC, and Office of the Comptroller of the Currency, based on—
+*Community development investment* means a lawful investment, including a legally binding commitment to invest, that is reported on Schedule RC-L of the Call Report or on Schedule L of the Report of Assets and Liabilities of U.S. Branches and Agencies of Foreign Banks, as applicable; deposit; membership share; grant; or monetary or in-kind donation that supports community development, as described in § 345.13.
 
-(A) Rates of poverty, unemployment, and population loss; or
+*Community development loan* means a loan, including a legally binding commitment to extend credit, such as a standby letter of credit, that supports community development, as described in § 345.13. A community development loan does not include any home mortgage loan considered under the Retail Lending Test in § 345.22, with the exception of one-to-four family home mortgage loans for rental housing with affordable rents in nonmetropolitan areas under § 345.13(b)(3).
 
-(B) Population size, density, and dispersion. Activities revitalize and stabilize geographies designated based on population size, density, and dispersion if they help to meet essential community needs, including needs of low- and moderate-income individuals.
+*Community development services* means the performance of volunteer services by a bank's or its affiliate's board members or employees, performed on behalf of the bank, where those services:
 
-(h) *Community development loan* means a loan that:
+(1) Support community development, as described in § 345.13; and
 
-(1) Has as its primary purpose community development; and
+(2) Are related to the provision of financial services, which include credit, deposit, and other personal and business financial services, or services that reflect a board member's or an employee's expertise at the bank or affiliate, such as human resources, information technology, and legal services.
 
-(2) Except in the case of a wholesale or limited purpose bank:
+*Consumer loan* means a loan to one or more individuals for household, family, or other personal expenditures and that is one of the following types of loans:
 
-(i) Has not been reported or collected by the bank or an affiliate for consideration in the bank's assessment as a home mortgage, small business, small farm, or consumer loan, unless the loan is for a multifamily dwelling (as defined in § 1003.2(n) of this title); and
+(1) *Automobile loan,* as reported in Schedule RC-C of the Call Report;
 
-(ii) Benefits the bank's assessment area(s) or a broader statewide or regional area that includes the bank's assessment area(s).
+(2) *Credit card loan,* as reported as “credit card” in Schedule RC-C of the Call Report;
 
-(i) *Community development service* means a service that:
+(3) *Other revolving credit plan,* as reported in Schedule RC-C of the Call Report; and
 
-(1) Has as its primary purpose community development;
+(4) *Other consumer loan,* as reported in Schedule RC-C of the Call Report.
 
-(2) Is related to the provision of financial services; and
+*County* means any county, county equivalent, or statistically equivalent entity as used by the U.S. Census Bureau pursuant to title 13 of the U.S. Code.
 
-(3) Has not been considered in the evaluation of the bank's retail banking services under § 345.24(d).
+*Deposit location* means:
 
-(j) *Consumer loan* means a loan to one or more individuals for household, family, or other personal expenditures. A consumer loan does not include a home mortgage, small business, or small farm loan. Consumer loans include the following categories of loans:
+(1) For banks that collect, maintain, and report deposits data as provided in § 345.42, the address on file with the bank for purposes of the Customer Identification Program required by 31 CFR 1020.220 or another documented address at which the depositor resides or is located.
 
-(1) *Motor vehicle loan,* which is a consumer loan extended for the purchase of and secured by a motor vehicle;
+(2) For banks that do not collect, maintain, and report deposits data as provided in § 345.42, the county of the bank facility to which the deposits are assigned in the FDIC's Summary of Deposits.
 
-(2) *Credit card loan,* which is a line of credit for household, family, or other personal expenditures that is accessed by a borrower's use of a “credit card,” as this term is defined in § 1026.2 of this title;
+*Depository institution* means any institution subject to the CRA, as described in § 345.11 and 12 CFR 25.11 and 228.11.
 
-(3) *Other secured consumer loan,* which is a secured consumer loan that is not included in one of the other categories of consumer loans; and
+*Deposits* has the following meanings:
 
-(4) *Other unsecured consumer loan,* which is an unsecured consumer loan that is not included in one of the other categories of consumer loans.
+(1) For banks that collect, maintain, and report deposits data as provided in § 345.42, *deposits* means deposits in domestic offices of individuals, partnerships, and corporations, and of commercial banks and other depository institutions in the United States as defined in Schedule RC-E of the Call Report; deposits does not include U.S. Government deposits, State and local government deposits, domestically held deposits of foreign governments or official institutions, or domestically held deposits of foreign banks or other foreign financial institutions; and
 
-(k) *Geography* means a census tract delineated by the United States Bureau of the Census in the most recent decennial census.
+(2) For banks that do not collect, maintain, and report deposits data as provided in § 345.42, *deposits* means a bank's deposits as reported in the FDIC's Summary of Deposits as required under 12 CFR 304.3(c).
 
-(l) *Home mortgage loan* means a closed-end mortgage loan or an open-end line of credit as these terms are defined under § 1003.2 of this title and that is not an excluded transaction under § 1003.3(c)(1) through (10) and (13) of this title.
+*Digital delivery system* means a channel through which banks offer retail banking services electronically, such as online banking or mobile banking.
 
-(m) *Income level* includes:
+*Distressed or underserved nonmetropolitan middle-income census tract* means a census tract publicly designated as such by the Board of Governors of the Federal Reserve System (Board), the FDIC, and the Office of the Comptroller of the Currency (OCC), based on the criteria in paragraphs (1) and (2) of this definition, compiled in a list, and published annually by the Federal Financial Institutions Examination Council (FFIEC).
 
-(1) *Low-income,* which means an individual income that is less than 50 percent of the area median income or a median family income that is less than 50 percent in the case of a geography.
+(1) A nonmetropolitan middle-income census tract is designated as distressed if it is in a county that meets one or more of the following criteria:
 
-(2) *Moderate-income,* which means an individual income that is at least 50 percent and less than 80 percent of the area median income or a median family income that is at least 50 and less than 80 percent in the case of a geography.
+(i) An unemployment rate of at least 1.5 times the national average;
 
-(3) *Middle-income,* which means an individual income that is at least 80 percent and less than 120 percent of the area median income or a median family income that is at least 80 and less than 120 percent in the case of a geography.
+(ii) A poverty rate of 20 percent or more; or
 
-(4) *Upper-income,* which means an individual income that is 120 percent or more of the area median income or a median family income that is 120 percent or more in the case of a geography.
+(iii) A population loss of 10 percent or more between the previous and most recent decennial census or a net population loss of five percent or more over the five-year period preceding the most recent census.
 
-(n) *Limited purpose bank* means a bank that offers only a narrow product line (such as credit card or motor vehicle loans) to a regional or broader market and for which a designation as a limited purpose bank is in effect, in accordance with § 345.25(b).
+(2) A nonmetropolitan middle-income census tract is designated as underserved if it meets the criteria for population size, density, and dispersion that indicate the area's population is sufficiently small, thin, and distant from a population center that the census tract is likely to have difficulty financing the fixed costs of meeting essential community needs. The criteria for these designations are based on the Urban Influence Codes established by the U.S. Department of Agriculture's Economic Research Service numbered “7,” “10,” “11,” or “12.”
 
-(o) *Loan location.* A loan is located as follows:
+*Evaluation period* means the period, generally in calendar years, during which a bank conducted the activities that the FDIC evaluates in a CRA examination, in accordance with the FDIC's guidelines and procedures.
 
-(1) A consumer loan is located in the geography where the borrower resides;
+*Facility-based assessment area* means a geographic area delineated pursuant to § 345.16.
 
-(2) A home mortgage loan is located in the geography where the property to which the loan relates is located; and
+*High Opportunity Area* means an area identified by the Federal Housing Finance Agency for purposes of the Duty to Serve Underserved Markets regulation in 12 CFR part 1282, subpart C.
 
-(3) A small business or small farm loan is located in the geography where the main business facility or farm is located or where the loan proceeds otherwise will be applied, as indicated by the borrower.
+*Home mortgage loan* means a closed-end home mortgage loan or an open-end home mortgage loan as these terms are defined in this section.
 
-(p) *Loan production office* means a staffed facility, other than a branch, that is open to the public and that provides lending-related services, such as loan information and applications.
+Income level includes:
 
-(q) *Metropolitan division* means a metropolitan division as defined by the Director of the Office of Management and Budget.
+(1) *Low-income,* which means:
 
-(r) *MSA* means a metropolitan statistical area as defined by the Director of the Office of Management and Budget.
+(i) For individuals, families, or households, income that is less than 50 percent of the area median income; or
 
-(s) *Nonmetropolitan area* means any area that is not located in an MSA.
+(ii) For a census tract, a median family income that is less than 50 percent of the area median income.
 
-(t) *Qualified investment* means a lawful investment, deposit, membership share, or grant that has as its primary purpose community development.
+(2) *Moderate-income,* which means:
 
-(u) *Small bank*—(1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.564 billion. *Intermediate small bank* means a small bank with assets of at least $391 million as of December 31 of both of the prior two calendar years and less than $1.564 billion as of December 31 of either of the prior two calendar years.
+(i) For individuals, families, or households, income that is at least 50 percent and less than 80 percent of the area median income; or
 
-(2) *Adjustment.* The dollar figures in paragraph (u)(1) of this section shall be adjusted annually and published by the FDIC, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve-month period ending in November, with rounding to the nearest million.
+(ii) For a census tract, a median family income that is at least 50 percent and less than 80 percent of the area median income.
 
-(v) *Small business loan* means a loan included in “loans to small businesses” as defined in the instructions for preparation of the Consolidated Report of Condition and Income.
+(3) *Middle-income,* which means:
 
-(w) *Small farm loan* means a loan included in “loans to small farms” as defined in the instructions for preparation of the Consolidated Report of Condition and Income.
+(i) For individuals, families, or households, income that is at least 80 percent and less than 120 percent of the area median income; or
 
-(x) *Wholesale bank* means a bank that is not in the business of extending home mortgage, small business, small farm, or consumer loans to retail customers, and for which a designation as a wholesale bank is in effect, in accordance with § 345.25(b).
+(ii) For a census tract, a median family income that is at least 80 percent and less than 120 percent of the area median income.
 
-[60 FR 22201, May 4, 1995]Editorial Note:For Federal Register citations affecting § 345.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(4) *Upper-income,* which means:
+
+(i) For individuals, families, or households, income that is 120 percent or more of the area median income; or
+
+(ii) For a census tract, a median family income that is 120 percent or more of the area median income.
+
+*Intermediate bank* means a bank, excluding a bank designated as a limited purpose bank pursuant to § 345.26, that had assets of at least $600 million as of December 31 in both of the prior two calendar years and less than $2 billion as of December 31 in either of the prior two calendar years. The FDIC adjusts and publishes the figures in this definition annually, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each 12-month period ending in November, with rounding to the nearest million.
+
+*Large bank* means a bank, excluding a bank designated as a limited purpose bank pursuant to § 345.26, that had assets of at least $2 billion as of December 31 in both of the prior two calendar years. The FDIC adjusts and publishes the figure in this definition annually, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each 12-month period ending in November, with rounding to the nearest million.
+
+*Large depository institution* means any depository institution, excluding depository institutions designated as limited purpose banks or savings associations pursuant to 12 CFR 25.26(a) and depository institutions designated as limited purpose banks pursuant to 345.26(a) or 12 CFR 228.26(a), that meets the asset size threshold of a large bank.
+
+*Limited purpose bank* means a bank that is not in the business of extending closed-end home mortgage loans, small business loans, small farm loans, or automobile loans evaluated under § 345.22 to retail customers, except on an incidental and accommodation basis, and for which a designation as a limited purpose bank is in effect, pursuant to § 345.26.
+
+*Loan location.* A loan is located as follows:
+
+(1) A consumer loan is located in the census tract where the borrower resides at the time that the borrower submits the loan application;
+
+(2) A home mortgage loan or a multifamily loan is located in the census tract where the property securing the loan is located; and
+
+(3) A small business loan or small farm loan is located in the census tract where the main business facility or farm is located or where the borrower will otherwise apply the loan proceeds, as indicated by the borrower.
+
+*Low-cost education loan* means any private education loan, as defined in section 140(a)(7) of the Truth in Lending Act (15 U.S.C. 1650(a)(8)) (including a loan under a State or local education loan program), originated by the bank for a student at an “institution of higher education,” as generally defined in sections 101 and 102 of the Higher Education Act of 1965 (20 U.S.C. 1001 and 1002), implemented in 34 CFR part 600, with interest rates and fees no greater than those of comparable education loans offered directly by the U.S. Department of Education. Such rates and fees are specified in section 455 of the Higher Education Act of 1965 (20 U.S.C. 1087e).
+
+*Low-income credit union (LICU*) has the same meaning given to that term in 12 CFR 701.34.
+
+*Low-Income Housing Tax Credit (LIHTC)* means a Federal tax credit for housing persons of low income pursuant to section 42 of the Internal Revenue Code of 1986 (26 U.S.C. 42).
+
+*Major product line* means a product line that the FDIC evaluates in a particular Retail Lending Test Area, pursuant to § 345.22(d)(2) and paragraphs II.b.1 and II.b.2 of appendix A to this part.
+
+*Majority automobile lender* means a bank for which more than 50 percent of its home mortgage loans, multifamily loans, small business loans, small farm loans, and automobile loans were automobile loans, as determined pursuant to paragraph II.b.3 of appendix A to this part.
+
+*Metropolitan area* means any MSA.
+
+*Metropolitan division* has the same meaning as that term is defined by the Director of the Office of Management and Budget.
+
+*Military bank* means a bank whose business predominantly consists of serving the needs of military personnel who serve or have served in the U.S. Armed Forces (including the U.S. Air Force, U.S. Army, U.S. Coast Guard, U.S. Marine Corps, U.S. Navy, and U.S. Space Force) or their dependents. A bank whose business predominantly consists of serving the needs of military personnel or their dependents means a bank whose most important customer group is military personnel or their dependents.
+
+*Minority depository institution (MDI) means:*
+
+(1) For purposes of activities conducted pursuant to 12 U.S.C. 2907(a), “minority depository institution” as defined in 12 U.S.C. 2907(b)(1); and
+
+(2) For all other purposes:
+
+(i) “Minority depository institution” as defined in 12 U.S.C. 2907(b)(1);
+
+(ii) “Minority depository institution” as defined in section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (FIRREA) (12 U.S.C. 1463 note); or
+
+(iii) A depository institution considered to be a minority depository institution by the appropriate Federal banking agency. For purposes of this paragraph (2)(iii), “appropriate Federal banking agency” has the meaning given to it in 12 U.S.C. 1813(q).
+
+*Mission-driven nonprofit organization* means an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) and exempt from taxation under section 501(a) of the Internal Revenue Code that benefits or serves primarily low- or moderate-income individuals or communities, small businesses, or small farms.
+
+*MSA* means a metropolitan statistical area delineated by the Director of the Office of Management and Budget, pursuant to 44 U.S.C. 3504(e)(3) and (10), 31 U.S.C. 1104(d), and Executive Order 10253 (June 11, 1951).
+
+*Multifamily loan* means an extension of credit that is secured by a lien on a “multifamily dwelling” as defined in 12 CFR 1003.2.
+
+*Multistate MSA* means an MSA that crosses a State boundary.
+
+*Nationwide area* means the entire United States and its territories.
+
+*Native Land Area means:*
+
+(1) All land within the limits of any Indian reservation under the jurisdiction of the United States, as described in 18 U.S.C. 1151(a);
+
+(2) All dependent Indian communities within the borders of the United States whether within the original or subsequently acquired territory thereof, and whether within or without the limits of a State, as described in 18 U.S.C. 1151(b);
+
+(3) All Indian allotments, the Indian titles to which have not been extinguished, including rights-of-way running through the same, as defined in 18 U.S.C. 1151(c);
+
+(4) Any land held in trust by the United States for tribes or Native Americans or tribally-held restricted fee land;
+
+(5) Reservations established by a State government for a tribe or tribes recognized by the State;
+
+(6) Any Native village, as defined in 43 U.S.C. 1602(c), in Alaska;
+
+(7) Lands that have the status of Hawaiian Home Lands as defined in section 204 of the Hawaiian Homes Commission Act, 1920 (42 Stat. 108), as amended;
+
+(8) Areas defined by the U.S. Census Bureau as Alaska Native Village Statistical Areas, Oklahoma Tribal Statistical Areas, Tribal-Designated Statistical Areas, or American Indian Joint-Use Areas; and
+
+(9) Land areas of State-recognized Indian tribes and heritage groups that are defined and recognized by individual States and included in the U.S. Census Bureau's annual Boundary and Annexation Survey.
+
+*New Markets Tax Credit (NMTC)* means a Federal tax credit pursuant to section 45D of the Internal Revenue Code of 1986 (26 U.S.C. 45D).
+
+*Nonmetropolitan area* means any area that is not located in an MSA.
+
+*Open-end home mortgage loan* has the same meaning as given to the term “open-end line of credit” in 12 CFR 1003.2, excluding loan transactions set forth in 12 CFR 1003.3(c)(1) through (10) and (13) and multifamily loans as defined in this section.
+
+*Operating subsidiary,* for purposes of this part, means an operating subsidiary as described in 12 CFR 5.34.
+
+*Other delivery system* means a channel, other than branches, remote services facilities, or digital delivery systems, through which banks offer retail banking services.
+
+*Outside retail lending area* means the geographic area delineated pursuant to § 345.18.
+
+*Persistent poverty county* means a county that has had poverty rates of 20 percent or more for 30 years, as publicly designated by the Board, FDIC, and OCC, compiled in a list, and published annually by the FFIEC.
+
+*Product line* means a bank's loans in one of the following, separate categories in a particular Retail Lending Test Area:
+
+(1) Closed-end home mortgage loans;
+
+(2) Small business loans;
+
+(3) Small farm loans; and
+
+(4) Automobile loans, if a bank is a majority automobile lender or opts to have its automobile loans evaluated pursuant to § 345.22.
+
+*Remote service facility* means an automated, virtually staffed, or unstaffed banking facility owned or operated by, or operated exclusively for, a bank, such as an automated teller machine (ATM), interactive teller machine, cash dispensing machine, or other remote electronic facility, that is open to the general public and at which deposits are accepted, cash dispersed, or money lent.
+
+*Reported loan* means:
+
+(1) A home mortgage loan or a multifamily loan reported by a bank pursuant to the Home Mortgage Disclosure Act, as implemented by 12 CFR part 1003; or
+
+(2) A small business loan or a small farm loan reported by a bank pursuant to § 345.42.
+
+*Retail banking products* means credit and deposit products or programs that facilitate a lending or depository relationship between the bank and consumers, small businesses, or small farms.
+
+*Retail banking services* means retail financial services provided by a bank to consumers, small businesses, or small farms and include a bank's systems for delivering retail financial services.
+
+*Retail lending assessment area* means a geographic area delineated pursuant to § 345.17.
+
+*Retail Lending Test Area* means a facility-based assessment area, a retail lending assessment area, or an outside retail lending area.
+
+*Small bank* means a bank, excluding a bank designated as a limited purpose bank pursuant to § 345.26, that had assets of less than $600 million as of December 31 in either of the prior two calendar years. The FDIC adjusts and publishes the dollar figure in this definition annually based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each 12-month period ending in November, with rounding to the nearest million.
+
+*Small business* means a business, other than a farm, that had gross annual revenues for its preceding fiscal year of $5 million or less.
+
+*Small business loan* means, notwithstanding the definition of “small business” in this section, a loan included in “loans to small businesses” as reported in Schedule RC-C of the Call Report.
+
+*Small farm* means a farm that had gross annual revenues for its preceding fiscal year of $5 million or less.
+
+*Small farm loan* means, notwithstanding the definition of “small farm” in this section, a loan included in “loans to small farms” as reported in Schedule RC-C of the Call Report.
+
+*State* means a U.S. State or territory, and includes the District of Columbia.
+
+*Targeted census tract* means:
+
+(1) A low-income census tract or a moderate-income census tract; or
+
+(2) A distressed or underserved nonmetropolitan middle-income census tract.
+
+*Tribal government* means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list most recently published pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
+
+*Women's depository institution (WDI)* means “women's depository institution” as defined in 12 U.S.C. 2907(b)(2).

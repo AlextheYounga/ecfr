@@ -1,8 +1,8 @@
 ##### § 263.50 Purpose and scope. #####
 
-(a) This subpart prescribes the rules of practice and procedure governing formal adjudications set forth in § 263.50(b) of this subpart, and supplements the rules of practice and procedure contained in subpart A of this part.
+(a) This subpart prescribes the rules of practice and procedure governing formal adjudications set forth in paragraph (b) of this section, and supplements the rules of practice and procedure contained in subpart A of this part.
 
-(b) The rules and procedures of this subpart and subpart A of this part shall apply to the formal adjudications set forth in § 263.1 of subpart A and to the following adjudications:
+(b) The rules and procedures of this subpart and subpart A of this part will apply to the formal adjudications set forth in § 263.1 and to the following adjudications:
 
 (1) Suspension of a member bank from use of credit facilities of the Federal Reserve System under section 4 of the FRA (12 U.S.C. 301);
 
@@ -30,8 +30,6 @@
 
 (13) Reclassification of a member bank on grounds of unsafe and unsound practice under section 38(g)(1) of the FDI Act (12 U.S.C. 1831o(g)(1));
 
-(14) Issuance of an order requiring a member bank to dismiss a director or senior executive officer under section 38 (e)(5) and 38(f)(2) (F)(ii) of the FDI Act (12 U.S.C. 1831o(e)(5) and 1831o(f)(2) (F)(ii));
+(14) Issuance of an order requiring a member bank to dismiss a director or senior executive officer under section 38 (e)(5) and 38(f)(2) (F)(ii) of the FDI Act (12 U.S.C. 1831o(e)(5) and 1831o(f)(2) (F)(ii)); and
 
 (15) Adjudications under section 10 of the HOLA (12 U.S.C. 1467a).
-
-[56 FR 38052, Aug. 9, 1991, as amended at 57 FR 13001, Apr. 15, 1992; 57 FR 44888, Sept. 29, 1992; 76 FR 56603, Sept. 13, 2011]

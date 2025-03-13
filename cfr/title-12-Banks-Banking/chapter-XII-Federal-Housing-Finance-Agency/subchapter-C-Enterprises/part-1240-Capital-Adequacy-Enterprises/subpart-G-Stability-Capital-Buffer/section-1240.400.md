@@ -1,7 +1,5 @@
 ##### § 1240.400 Stability capital buffer. #####
 
-Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
-
 (a) *Definitions.* For purposes of this subpart:
 
 (1) *Mortgage assets* means, with respect to an Enterprise, the dollar amount equal to the sum of:
@@ -32,22 +30,8 @@ Link to an amendment published at 88 FR 83481, Nov. 30, 2023.
 
 (5) Multiplied by the adjusted total assets of the Enterprise, as of December 31 of the previous calendar year.
 
-(c) *Effective date of an adjusted stability capital buffer*—(1) *Increase in stability capital buffer.* An increase in the stability capital buffer of an Enterprise under this section will take effect (*i.e.,* be incorporated into the maximum payout ratio under table 1 to paragraph (b)(5) in § 1240.11) on January 1 of the year that is one full calendar year after the increased stability capital buffer was calculated.
+(c) *Effective date of an adjusted stability capital buffer*—(1) *Increase in stability capital buffer.* An increase in the stability capital buffer of an Enterprise under this section will take effect (*i.e.,* be incorporated into the maximum payout ratio under table 1 to paragraph (b)(5) in § 1240.11) on January 1 of the year that is one full calendar year after the increased stability capital buffer was calculated, provided that where a stability capital buffer under paragraph (c)(2) of this section is calculated to be a decrease in the stability capital buffer from the previously calculated scheduled increase applicable on the same January 1, the decreased stability capital buffer under paragraph (c)(2) shall take effect.
 
 (2) *Decrease in stability capital buffer.* A decrease in the stability capital buffer of an Enterprise will take effect (*i.e.,* be incorporated into the maximum payout ratio under table 1 to paragraph (b)(5) in § 1240.11) on January 1 of the year immediately following the calendar year in which the decreased stability capital buffer was calculated.
 
-(d) *Initial stability capital buffer.* Notwithstanding anything to the contrary in this section, the stability capital buffer of an Enterprise as of January 1, 2021, is equal to—
-
-(1) The ratio of:
-
-(i) The mortgage assets of the Enterprise as of December 31, 2020; to
-
-(ii) The residential mortgage debt outstanding as of December 31, 2020, as published by FHFA;
-
-(2) Minus 0.05;
-
-(3) Multiplied by 5;
-
-(4) Divided by 100; and
-
-(5) Multiplied by the adjusted total assets of the Enterprise as of December 31, 2020.
+[85 FR 82198, Dec. 17, 2020, as amended at 88 FR 83481, Nov. 30, 2023]

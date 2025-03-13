@@ -1,24 +1,19 @@
 ##### § 648.64 Flounder Stock sub-ACLs and AMs for the scallop fishery. #####
 
-Link to an amendment published at 89 FR 20353, Mar. 22, 2024.
-
 (a) As specified in § 648.55(d), and pursuant to the biennial framework adjustment process specified in § 648.90, the scallop fishery shall be allocated a sub-ACL for the Georges Bank and Southern New England/Mid-Atlantic stocks of yellowtail flounder and the northern and southern stocks of windowpane flounder. The sub-ACLs for the yellowtail flounder stocks and the windowpane flounder stocks are specified in § 648.90(a)(4)(iii)(C) and (E) of the NE multispecies regulations, respectively.
 
 (b) *Accountability Measure Areas*—(1) *Georges Bank Accountability Measure Area.* The Georges Bank Accountability Measure Area is defined by straight lines, except where noted, connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-|Point|N latitude| W longitude  |     Note     |
-|-----|----------|--------------|--------------|
-|GBAM1|  41°30′  |    67°20′    |              |
-|GBAM2|  41°30′  |(<sup>1</sup>)|(<sup>2</sup>)|
-|GBAM3|  40°30′  |(<sup>3</sup>)|(<sup>2</sup>)|
-|GBAM4|  40°30′  |    67°20′    |              |
-|GBAM1|  41°30′  |    67°20′    |              |
-
-<sup>1</sup> The intersection of 41°30′ N lat. and the U.S.-Canada Maritime Boundary, approximately 41°30′ N lat., 66°34.73′ W long.
-
-<sup>2</sup> From Point GBAM2 connected to Point GBAM3 along the U.S.-Canada Maritime Boundary.
-
-<sup>3</sup> The intersection of 40°30′ N lat. and the U.S.-Canada Maritime Boundary, approximately, 65°44.34′ W long.
+|                                                               Point                                                                |N latitude| W longitude  |     Note     |
+|------------------------------------------------------------------------------------------------------------------------------------|----------|--------------|--------------|
+|                                                               GBAM1                                                                |  41°30′  |    67°20′    |              |
+|                                                               GBAM2                                                                |  41°30′  |(<sup>1</sup>)|(<sup>2</sup>)|
+|                                                               GBAM3                                                                |  40°30′  |(<sup>3</sup>)|(<sup>2</sup>)|
+|                                                               GBAM4                                                                |  40°30′  |    67°20′    |              |
+|                                                               GBAM1                                                                |  41°30′  |    67°20′    |              |
+|<sup>1</sup> The intersection of 41°30′ N lat. and the U.S.-Canada Maritime Boundary, approximately 41°30′ N lat., 66°34.73′ W long.|          |              |              |
+|                  <sup>2</sup> From Point GBAM2 connected to Point GBAM3 along the U.S.-Canada Maritime Boundary.                   |          |              |              |
+|       <sup>3</sup> The intersection of 40°30′ N lat. and the U.S.-Canada Maritime Boundary, approximately, 65°44.34′ W long.       |          |              |              |
 
 (2) *Mid-Atlantic Accountability Measure Area.* The Mid-Atlantic Accountability Measure Areas is defined as the area west of 71° W Long., outside of the Sea Scallop Access Areas.
 
@@ -50,12 +45,12 @@ Link to an amendment published at 89 FR 20353, Mar. 22, 2024.
 
 (f) *Northern windowpane flounder accountability measure.* (1) Unless otherwise specified in § 648.90(a)(5)(iv) of the NE multispecies regulations, if the Northern windowpane flounder sub-ACL for the scallop fishery is exceeded and an accountability measure is triggered as described in § 648.90(a)(5)(iv), the Georges Bank Accountability Measure Area, described in (b)(1) of this section, shall be considered the Northern Windowpane Flounder Gear Restricted Area. Scallop vessels fishing in that area for the period of time specified in paragraph (f)(2) of this section must comply with the gear restrictions specified in paragraph (c) of this section.
 
-(2) *Duration of gear restricted area.* The Northern Windowpane Flounder Gear Restricted Area shall remain in effect for the period of time based on the corresponding percent overage of the Georges Bank yellowtail flounder sub-ACL, as follows:
+(2) The Northern Windowpane Flounder Gear Restricted Area shall remain in effect for the period of time based on the corresponding percent overage of the northern windowpane flounder sub-ACL, as follows:
 
-|Percent overage of sub-ACL|Duration of gear  <br/>restriction|
-|--------------------------|----------------------------------|
-|        20 or less        | November 15 through December 31. |
-|     Greater than 20      |April through March (year round). |
+|Percent overage of sub-ACL|  Duration of gear restriction   |
+|--------------------------|---------------------------------|
+|        20 or less        |November 15 through December 31. |
+|     Greater than 20      |April through March (year-round).|
 
 (g) *Southern windowpane accountability measure.* (1) Unless otherwise specified in § 648.90(a)(5)(iv) of the NE multispecies regulations, if the southern windowpane flounder sub-ACL for the scallop fishery is exceeded and an accountability measure is triggered as described in § 648.90(a)(5)(iv), the Mid-Atlantic Accountability Measure Area, described in paragraph (b)(2) of this section, shall be considered the Southern Windowpane Flounder Gear Restricted Area. Scallop vessels participating in the DAS, or LAGC IFQ scallop fishery for the period of time specified in paragraph (g)(2) of this section must comply with the gear restrictions specified in paragraph (c) of this section when fishing in open areas. This accountability measure does not apply to scallop vessels fishing in Sea Scallop Access Areas.
 
@@ -70,4 +65,4 @@ Link to an amendment published at 89 FR 20353, Mar. 22, 2024.
 
 (2) *If reliable information is not available to make a mid-year determination,* after the end of the scallop fishing year the Regional Administrator shall determine whether the flounder stock sub-ACL was exceeded and if an accountability measure was triggered as described in § 648.90(a)(5)(iv). The determination shall include the amount of the overage, specified as a percentage of the overall sub-ACL for the specific flounder stock. Based on this determination, the Regional Administrator shall implement the AM in accordance with the APA in Year 3 (*e.g.,* an accountability measure would be implemented in fishing year 2016 for an overage that occurred in fishing year 2014) and attempt to notify owners of limited access and LAGC scallop vessels by letter identifying the length of the gear restricted area and a summary of the flounder stock catch and overage information.
 
-[83 FR 17311, Apr. 19, 2018]
+[83 FR 17311, Apr. 19, 2018, as amended at 89 FR 20353, Mar. 22, 2024]

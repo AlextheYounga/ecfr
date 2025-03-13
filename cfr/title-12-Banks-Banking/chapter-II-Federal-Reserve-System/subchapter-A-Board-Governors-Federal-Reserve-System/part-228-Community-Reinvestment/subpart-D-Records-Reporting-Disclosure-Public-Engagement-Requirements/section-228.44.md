@@ -1,0 +1,3 @@
+##### § 228.44 Public notice by banks. #####
+
+A bank must provide in the public area of its main office and each of its branches the appropriate public notice set forth in appendix F to this part. Only a branch of a bank having more than one facility-based assessment area must include the bracketed material in the notice for branch offices. Only a bank that is an affiliate of a holding company must include the next to the last sentence of the notices. A bank must include the last sentence of the notices only if it is an affiliate of a holding company that is not prevented by statute from acquiring additional depository institutions.

@@ -1,7 +1,5 @@
 ##### § 214.14 Alien victims of certain qualifying criminal activity. #####
 
-Link to an amendment published at 89 FR 6398, Jan. 31, 2024.
-
 (a) *Definitions.* As used in this section, the term:
 
 (1) *BIWPA* means Battered Immigrant Women Protection Act of 2000 of the Victims of Trafficking and Violence Protection Act of 2000, div. B, Violence Against Women Act of 2000, tit. V, Pub. L. 106-386, 114 Stat. 1464, (2000), *amended by* Violence Against Women and Department of Justice Reauthorization Act of 2005, tit. VIII, Pub. L. 109-162, 119 Stat. 2960 (2006), *amended by* Violence Against Women and Department of Justice Reauthorization Act—Technical Corrections, Pub. L. 109-271, 120 Stat. 750 (2006).
@@ -66,7 +64,7 @@ Link to an amendment published at 89 FR 6398, Jan. 31, 2024.
 
 (4) The qualifying criminal activity occurred in the United States (including Indian country and U.S. military installations) or in the territories or possessions of the United States, or violated a U.S. federal law that provides for extraterritorial jurisdiction to prosecute the offense in a U.S. federal court.
 
-(c) *Application procedures for U nonimmigrant status*—(1) *Filing a petition.* USCIS has sole jurisdiction over all petitions for U nonimmigrant status. An alien seeking U-1 nonimmigrant status must submit, Form I-918, Petition for U Nonimmigrant Status, and initial evidence to USCIS in accordance with this paragraph and the instructions to Form I-918. A petitioner who received interim relief is not required to submit initial evidence with Form I-918 if he or she wishes to rely on the law enforcement certification and other evidence that was submitted with the request for interim relief.
+(c) *Application procedures for U nonimmigrant status*—(1) *Filing a petition.* USCIS has sole jurisdiction over all petitions for U nonimmigrant status. An alien seeking U-1 nonimmigrant status must submit a Petition for U Nonimmigrant Status on the form prescribed by USCIS, and initial evidence to USCIS in accordance with this paragraph (c)(1) and the form instructions. A petitioner who received interim relief is not required to submit initial evidence with a Petition for U Nonimmigrant Status if he or she is relying on the law enforcement certification and other evidence that was submitted with the request for interim relief.
 
 (i) *Petitioners in pending immigration proceedings.* An alien who is in removal proceedings under section 240 of the Act, 8 U.S.C. 1229a, or in exclusion or deportation proceedings initiated under former sections 236 or 242 of the Act, 8 U.S.C. 1226 and 1252 (as in effect prior to April 1, 1997), and who would like to apply for U nonimmigrant status must file a Form I-918 directly with USCIS. U.S. Immigration and Customs Enforcement (ICE) counsel may agree, as a matter of discretion, to file, at the request of the alien petitioner, a joint motion to terminate proceedings without prejudice with the immigration judge or Board of Immigration Appeals, whichever is appropriate, while a petition for U nonimmigrant status is being adjudicated by USCIS.
 
@@ -194,4 +192,4 @@ Link to an amendment published at 89 FR 6398, Jan. 31, 2024.
 
 (i) *Removal proceedings.* Nothing in this section prohibits USCIS from instituting removal proceedings under section 240 of the Act, 8 U.S.C. 1229(a), for conduct committed after admission, for conduct or a condition that was not disclosed to USCIS prior to the granting of U nonimmigrant status, for misrepresentations of material facts in Form I-918 or Form I-918, Supplement A and supporting documentation, or after revocation of U nonimmigrant status.
 
-[72 FR 53036, Sept. 17, 2007, as amended at 72 FR 54813, Sept. 27, 2007; 74 FR 55738, Oct. 28, 2009; 78 FR 18472, Mar. 27, 2013; 85 FR 46925, Aug. 3, 2020]
+[72 FR 53036, Sept. 17, 2007, as amended at 72 FR 54813, Sept. 27, 2007; 74 FR 55738, Oct. 28, 2009; 78 FR 18472, Mar. 27, 2013; 85 FR 46925, Aug. 3, 2020; 89 FR 6398, Jan. 31, 2024]

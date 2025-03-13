@@ -1,5 +1,7 @@
 ##### § 61.419 How do I obtain privileges to provide training in an additional category or class of light-sport aircraft? #####
 
+Link to an amendment published at 89 FR 22518, Apr. 1, 2024.
+
 If you hold a flight instructor certificate with a sport pilot rating and seek to provide training in an additional category or class of light-sport aircraft you must—
 
 (a) Receive a logbook endorsement from the authorized instructor who trained you on the applicable areas of operation specified in § 61.409 certifying you have met the aeronautical knowledge and flight proficiency requirements for the additional category and class flight instructor privilege you seek;

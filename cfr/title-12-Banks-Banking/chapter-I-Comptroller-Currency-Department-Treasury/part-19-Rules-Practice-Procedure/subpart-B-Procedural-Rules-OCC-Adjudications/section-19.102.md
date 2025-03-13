@@ -1,0 +1,3 @@
+##### § 19.102 Civil money penalties. #####
+
+A respondent must pay civil money penalties assessed pursuant to subpart A of this part within 60 days after the issuance of the notice of assessment unless the OCC requires a different time for payment. A respondent that has made a timely request for a hearing to challenge the assessment of the penalty is not required to pay the penalty until the OCC has issued a final order of assessment. In these instances, the respondent must pay the penalty within 60 days of service of the order unless the OCC requires a different time for payment.

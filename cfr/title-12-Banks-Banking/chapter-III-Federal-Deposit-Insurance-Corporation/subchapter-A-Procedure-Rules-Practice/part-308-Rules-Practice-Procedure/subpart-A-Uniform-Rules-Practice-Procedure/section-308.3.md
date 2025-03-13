@@ -2,27 +2,29 @@
 
 For purposes of this subpart, unless explicitly stated to the contrary:
 
-*Administrative law judge* means one who presides at an administrative hearing under authority set forth at 5 U.S.C. 556.
+(a) *Administrative law judge (ALJ)* means one who presides at an administrative hearing under authority set forth at 5 U.S.C. 556.
 
-*Administrative Officer* means an inferior officer of the Federal Deposit Insurance Corporation, duly appointed by the Board of Directors of the Federal Deposit Insurance Corporation to serve as the Board's designee to hear certain motions or requests in an adjudicatory proceeding and to be the official custodian of the record for the Federal Deposit Insurance Corporation.
+(b) *Administrative Officer* means an inferior officer of the Federal Deposit Insurance Corporation (FDIC), duly appointed by the Board of Directors of the FDIC to serve as the Board's designee to hear certain motions or requests in an adjudicatory proceeding and to be the official custodian of the record for the FDIC.
 
-*Adjudicatory proceeding* means a proceeding conducted pursuant to these rules and leading to the formulation of a final order other than a regulation.
+(c) *Adjudicatory proceeding* means a proceeding conducted pursuant to these rules and leading to the formulation of a final order other than a regulation.
 
-*Assistant Administrative Officer* means an inferior officer of the Federal Deposit Insurance Corporation, duly appointed by the Board of Directors of the Federal Deposit Insurance Corporation to serve as the Board's designee to hear certain motions or requests in an adjudicatory proceeding upon the designation or unavailability of the Administrative Officer.
+(d) *Assistant Administrative Officer* means an inferior officer of the FDIC, duly appointed by the Board of Directors of the FDIC to serve as the Board's designee to hear certain motions or requests in an adjudicatory proceeding upon the designation or unavailability of the Administrative Officer.
 
-*Board of Directors* or *Board* means the Board of Directors of the Federal Deposit Insurance Corporation or its designee.
+(e) *Board of Directors* or *Board* means the Board of Directors of the FDIC or its designee.
 
-*Decisional employee* means any member of the Federal Deposit Insurance Corporation's or administrative law judge's staff who has not engaged in an investigative or prosecutorial role in a proceeding and who may assist the Board of Directors, the administrative law judge, or the Administrative Officer, or the Assistant Administrative Officer, in preparing orders, recommended decisions, decisions, and other documents under the Uniform Rules.
+(f) *Decisional employee* means any member of the FDIC's or ALJ's staff who has not engaged in an investigative or prosecutorial role in a proceeding and who may assist the Board of Directors, ALJ or the Administrative Officer, in preparing orders, recommended decisions, decisions, and other documents under the Uniform Rules.
 
-*Designee* of the Board of Directors means officers or officials of the Federal Deposit Insurance Corporation acting pursuant to authority delegated by the Board of Directors.
+(g) *Designee* of the Board of Directors means officers or officials of the FDIC acting pursuant to authority delegated by the Board of Directors.
 
-*Enforcement Counsel* means any individual who files a notice of appearance as counsel on behalf of the FDIC in an adjudicatory proceeding.
+(h) *Electronic signature* means affixing the equivalent of a signature to an electronic document filed or transmitted electronically.
 
-*FDIC* means the Federal Deposit Insurance Corporation.
+(i) *Enforcement Counsel* means any individual who files a notice of appearance as counsel on behalf of the FDIC in an adjudicatory proceeding.
 
-*Final order* means an order issued by the FDIC with or without the consent of the affected institution or the institution-affiliated party, that has become final, without regard to the pendency of any petition for reconsideration or review.
+(j) *FDIC* means the Federal Deposit Insurance Corporation.
 
-*Institution* includes:
+(k) *Final order* means an order issued by the FDIC with or without the consent of the affected institution or the institution-affiliated party that has become final, without regard to the pendency of any petition for reconsideration or review.
+
+(l) *Institution* includes:
 
 (1) Any bank as that term is defined in section 3(a) of the FDIA (12 U.S.C. 1813(a));
 
@@ -34,22 +36,20 @@ For purposes of this subpart, unless explicitly stated to the contrary:
 
 (5) Any foreign bank or company to which section 8 of the IBA (12 U.S.C. 3106), applies or any subsidiary (other than a bank) thereof; and
 
-(6) Any federal agency as that term is defined in section 1(b) of the IBA (12 U.S.C. 3101(5)).
+(6) Any Federal agency as that term is defined in section 1(b) of the IBA (12 U.S.C. 3101(5)).
 
-*Investigation* means any investigation conducted pursuant to section 10(c) of the FDIA or pursuant to section 5(d)(1)(B) of HOLA (12 U.S.C. 1464(d)(1)(B)).
+(m) *Institution-affiliated party* means any institution-affiliated party as that term is defined in section 3(u) of the FDIA (12 U.S.C. 1813(u).
 
-*Local Rules* means those rules promulgated by the FDIC in those subparts of this part other than subpart A.
+(n) *Local Rules* means those rules promulgated by the FDIC in those subparts of this part other than this subpart.
 
-*Office of Financial Institution Adjudication* (OFIA) means the executive body charged with overseeing the administration of administrative enforcement proceedings of the Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve Board (FRB), the FDIC, and the National Credit Union Administration (NCUA).
+(o) *Office of Financial Institution Adjudication (OFIA)* means the executive body charged with overseeing the administration of administrative enforcement proceedings of the Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve Board (Board of Governors), the FDIC, and the National Credit Union Administration (NCUA).
 
-*Party* means the FDIC and any person named as a party in any notice.
+(p) *Party* means the FDIC and any person named as a party in any notice.
 
-*Person* means an individual, sole proprietor, partnership, corporation, unincorporated association, trust, joint venture, pool, syndicate, agency, or other entity or organization, including an institution as defined in this section.
+(q) *Person* means an individual, sole proprietor, partnership, corporation, unincorporated association, trust, joint venture, pool, syndicate, agency, or other entity or organization, including an institution as defined in this section.
 
-*Respondent* means any party other than the FDIC.
+(r) *Respondent* means any party other than the FDIC.
 
-*Uniform Rules* means those rules in subpart A of this part that pertain to the types of formal administrative enforcement actions set forth at § 308.1 and as specified in subparts B through P of this part.
+(s) *Uniform Rules* means those rules in this subpart A that pertain to the types of formal administrative enforcement actions set forth at § 308.1, and as specified in subparts B through P of this part.
 
-*Violation* includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
-
-[56 FR 37975, Aug. 9, 1991, as amended at 80 FR 5012, Jan. 30, 2015; 86 FR 2247, Jan. 12, 2021]
+(t) *Violation* means any violation as that term is defined in section 3(v) of the FDIA (12 U.S.C. 1813(v)).

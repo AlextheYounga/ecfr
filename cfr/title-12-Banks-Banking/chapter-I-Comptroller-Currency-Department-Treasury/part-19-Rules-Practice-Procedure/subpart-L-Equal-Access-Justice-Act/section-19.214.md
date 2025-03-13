@@ -1,0 +1,5 @@
+##### § 19.214 Further proceedings. #####
+
+(a) *Process for requesting further proceedings or additional information.* At the request of either the applicant or Enforcement Counsel, or on the presiding officer's own initiative, the presiding officer may, if necessary for a full and fair decision on the application, order the filing of additional written submissions; hold an informal conference or oral argument; or allow for discovery or hold an evidentiary hearing with respect to issues other than whether the OCC's position was substantially justified (such as those involving the applicant's eligibility or substantiation of fees or expenses). Any written submissions must be made, oral argument held, discovery conducted, and evidentiary hearing held as promptly as possible so as not to delay a decision on the application for fees.
+
+(b) *Requirement to identify additional information sought and reason for requesting additional proceedings.* A request for further proceedings under this section must specifically identify the information sought or the disputed issues and must explain why the additional proceedings are necessary to resolve the issues.
