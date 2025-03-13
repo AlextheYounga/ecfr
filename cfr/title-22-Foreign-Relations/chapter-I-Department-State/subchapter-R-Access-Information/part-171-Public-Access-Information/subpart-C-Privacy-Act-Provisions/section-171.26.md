@@ -1,5 +1,7 @@
 ##### § 171.26 Exemptions. #####
 
+Link to an amendment published at 88 FR 78232, Nov. 15, 2023.
+
 Systems of records maintained by the Department are authorized to be exempt from certain provisions of the PA under both general and specific exemptions set forth in the Act. In utilizing these exemptions, the Department is exempting only those portions of systems that are necessary for the proper functioning of the Department and that are consistent with the PA. Where compliance would not interfere with or adversely affect the law enforcement process, and/or where it may be appropriate to permit individuals to contest the accuracy of the information collected, the applicable exemption may be waived, either partially or totally, by the Department or the OIG, in the sole discretion of the Department or the OIG, as appropriate. Records exempt under 5 U.S.C. 552a(j) or (k) by the originator of the record remain exempt if subsequently incorporated into any Department system of records, provided the reason for the exemption remains valid and necessary.
 
 (a) *General exemptions.* If exempt records are the subject of an access request, the Department will advise the requester of their existence and of the name and address of the source agency, unless that information is itself exempt from disclosure.
