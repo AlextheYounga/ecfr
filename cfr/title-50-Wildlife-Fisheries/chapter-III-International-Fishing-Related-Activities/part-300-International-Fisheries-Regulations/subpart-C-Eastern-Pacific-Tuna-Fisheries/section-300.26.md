@@ -1,5 +1,7 @@
 ##### § 300.26 Vessel monitoring system (VMS). #####
 
+Link to an amendment published at 89 FR 54726, July 2, 2024.
+
 (a) *Assistant Director (AD), NOAA Office of Law Enforcement, Pacific Islands Division (or designee) and VMS Helpdesk contact information and business hours.* (1) The contact information for the AD for the purpose of this section: 1845 Wasp Blvd., Building 176, Honolulu, HI 96818; telephone: (808) 725-6100; facsimile: 808-725-6199; email: *pidvms@noaa.gov;* business hours: Monday through Friday, except Federal holidays, 8 a.m. to 4:30 p.m., Hawaii Standard Time.
 
 (2) The contact information for the NOAA Office of Law Enforcement's VMS Helpdesk is telephone: (888) 219-9228, ext. 2; email: *ole.helpdesk@noaa.gov.* The business hours of the VMS Helpdesk are Monday through Friday, except Federal holidays, 7 a.m. to 11 p.m., Eastern Time.

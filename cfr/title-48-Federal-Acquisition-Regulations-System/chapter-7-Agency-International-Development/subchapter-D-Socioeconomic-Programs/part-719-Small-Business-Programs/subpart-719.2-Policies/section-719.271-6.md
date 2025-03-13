@@ -10,15 +10,13 @@
 
 (4) [Reserved]
 
+(5) Personal services contract requirements (see 719.270).
+
 (b) *Preparation of Form USAID 1410-14 (the Small Business/Minority Business Enterprise Procurement Review Form).* (1) The contracting officer shall prepare the subject form in an original and 3 copies and forward the original and 2 copies to OSDBU within one working day of receipt by the contracting activity of a procurement requisition.
 
 (2) The contracting officer will attach to his/her transmittal a complete copy of the procurement request and a copy of the recommended source list as furnished by the technical office and supplemented by him/her.
 
 (3) The contracting officer shall complete blocks 2, 3, 4, 5, 9, and 10 (when appropriate) prior to submittal to OSDBU.
-
-(4) [Reserved]
-
-(5) Personal services contract requirements (see 719.270).
 
 (c) *Screening of Form USAID 1410-14 by OSDBU.* (1) OSDBU will screen the contracting officer's recommendations on set-aside potential, small business subcontracting opportunities, and section 8(a) subcontracting, and furnish him/her with either a written concurrence in his/her recommendations or written counter-recommendations on the original and duplicate copy within five working days from receipt of the form from the contracting officer.
 

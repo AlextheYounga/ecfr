@@ -1,7 +1,5 @@
 ##### § 200.30-5 Delegation of authority to Director of Division of Investment Management. #####
 
-Link to an amendment published at 88 FR 37987, June 12, 2023.
-
 Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act of 1934, as amended,
 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Investment Management, to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
@@ -49,33 +47,33 @@ Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act 
 
 (b) With respect to matters pertaining to investment companies registered under the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*), pooled investment funds or accounts, and the general assets or separate accounts of insurance companies, all arising under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), and the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), the same functions as are delegated to the Director of the Division of Corporation Finance in regard to companies other than such investment companies in paragraphs (a), (e), and (f) of § 200.30-1.
 
-(b-1) *With respect to the Securities Act of 1933.* (1) To issue notices with respect to applications for orders under section 3(a)(2) exempting from section 5 interests or participations issued in connection with stock bonus, pension, profit-sharing, or annuity plans covering employees some or all of whom are employees within the meaning of section 401(c)(1) of the Internal Revenue Code of 1954 where, upon examination, the matter does not appear to the Director to present issues not previously settled by the Commission or to raise questions of fact or policy indicating that the public interest or the interest of investors requires that a hearing be held.
+(c) *With respect to the Securities Act of 1933.* (1) To issue notices with respect to applications for orders under section 3(a)(2) exempting from section 5 interests or participations issued in connection with stock bonus, pension, profit-sharing, or annuity plans covering employees some or all of whom are employees within the meaning of section 401(c)(1) of the Internal Revenue Code of 1954 where, upon examination, the matter does not appear to the Director to present issues not previously settled by the Commission or to raise questions of fact or policy indicating that the public interest or the interest of investors requires that a hearing be held.
 
 (2) To authorize the issuance of orders where a notice has been issued and no request for a hearing has been received from any interested person within the period specified in the notice and the matter involved presents no issue that the Director believes has not been settled previously by the Commission and it does not appear to the Director to be necessary in the public interest or the interest of investors that a hearing be held.
 
-(b-2) With respect to post-effective amendments filed pursuant to § 230.485(a) or § 230.486(a) of this chapter:
+(3) With respect to post-effective amendments filed pursuant to § 230.485(a) or § 230.486(a) of this chapter:
 
-(1) To suspend the operation of paragraph (a) of such sections and to issue written notices to registrants of such suspensions;
+(i) To suspend the operation of paragraph (a) of such sections and to issue written notices to registrants of such suspensions;
 
-(2) To determine such amendments to be effective within shorter periods of time than the sixtieth day after the filing thereof.
+(ii) To determine such amendments to be effective within shorter periods of time than the sixtieth day after the filing thereof.
 
-(b-3) With respect to post-effective amendments filed pursuant to § 230.485(b) or § 230.486(b) of this chapter:
+(4) With respect to post-effective amendments filed pursuant to § 230.485(b) or § 230.486(b) of this chapter:
 
-(1) To approve additional purposes for post-effective amendments which shall be eligible for immediate effectiveness pursuant to paragraph (b) of such sections.
+(i) To approve additional purposes for post-effective amendments which shall be eligible for immediate effectiveness pursuant to paragraph (b) of such sections.
 
-(2) To suspend the operation of paragraph (b) of such sections and to issue written notices to registrants of such suspensions.
+(ii) To suspend the operation of paragraph (b) of such sections and to issue written notices to registrants of such suspensions.
 
-(b-4) With respect to registration statements filed pursuant to paragraph (a) of Rule 487 under the Act (17 CFR 230.487(a)):
+(5) With respect to registration statements filed pursuant to paragraph (a) of Rule 487 under the Act (17 CFR 230.487(a)):
 
-(1) To suspend the operation of said paragraph (a) and to issue written notices to registrants of such suspensions.
+(i) To suspend the operation of said paragraph (a) and to issue written notices to registrants of such suspensions.
 
-(b-5) With respect to registration statements filed pursuant to paragraph (a) of rule 488 under the Act (17 CFR 230.488(a)):
+(6) With respect to registration statements filed pursuant to paragraph (a) of rule 488 under the Act (17 CFR 230.488(a)):
 
-(1) To suspend the operation of said paragraphs and to issue written notices to registrants of such suspensions;
+(i) To suspend the operation of said paragraphs and to issue written notices to registrants of such suspensions;
 
-(2) To determine such amendments to be effective within shorter periods of time than the thirtieth day after the filing thereof.
+(ii) To determine such amendments to be effective within shorter periods of time than the thirtieth day after the filing thereof.
 
-(c) With respect to the Securities Act of 1933 and Regulation E thereunder (§ 230.601 *et seq.* of this chapter):
+(d) With respect to the Securities Act of 1933 and Regulation E thereunder (§ 230.601 *et seq.* of this chapter):
 
 (1) To authorize the offering of securities:
 
@@ -89,7 +87,7 @@ Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act 
 
 (4) To permit the withdrawal of any notification, or any exhibit or other documents filed as a part thereof, pursuant to Rule 604(d) (§ 230.604(d) of this chapter).
 
-(c-1) With respect to the Securities Exchange Act of 1934:
+(e) With respect to the Securities Exchange Act of 1934:
 
 (1) To grant and deny applications filed pursuant to section 24(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78x(b)) and § 240.24b-2 of this chapter (Rule 24b-2) for confidential treatment of information filed pursuant to section 13(f) of that Act (15 U.S.C. 78m(f)) and § 240.13f-1 of this chapter (Rule 13f-1) and the instructions to Form N-PX (§§ 249.326 and 274.129 of this chapter).
 
@@ -99,9 +97,9 @@ Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act 
 
 (4) To administer the provisions of section 24(d) of the Act (15 U.S.C. 78x(d)).
 
-(d) To issue certifications to investment companies that are principally engaged in the furnishing of capital to corporations that are principally engaged in the development or exploitation of inventions, technological improvements, new processes, or products not previously generally available, under Section 851(e) of the Internal Revenue Code of 1986 (26 U.S.C. 851(e)), where applications from the investment companies do not present issues that have not been previously settled by the Commission and do not require a hearing.
+(f) To issue certifications to investment companies that are principally engaged in the furnishing of capital to corporations that are principally engaged in the development or exploitation of inventions, technological improvements, new processes, or products not previously generally available, under Section 851(e) of the Internal Revenue Code of 1986 (26 U.S.C. 851(e)), where applications from the investment companies do not present issues that have not been previously settled by the Commission and do not require a hearing.
 
-(e) With respect to the Investment Advisers Act of 1940 (15 U.S.C. 80b-1 to 80b-22):
+(g) With respect to the Investment Advisers Act of 1940 (15 U.S.C. 80b-1 to 80b-22):
 
 (1) Pursuant to section 203(c) of the Act (15 U.S.C. 80b-3(c)): To authorize the issuance of orders granting registration of investment advisers within 45 days of the filing of an application for registration as an investment adviser (or within such longer period as to which the applicant consents).
 
@@ -117,22 +115,22 @@ Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act 
 
 (7) Pursuant to section 203A(d) of the Act (15 U.S.C. 80b-3a(d)), to set the terms of, and grant or deny as appropriate, continuing hardship exemptions under § 275.203-3 of this chapter.
 
-(f) To consult on behalf of the Commission pursuant to sections 5318A(a)(4), 5318A(e)(2) and 5318(h)(2) of the Bank Secrecy Act (31 U.S.C. 5318A(a)(4), 5318A(e)(2) and 5318(h)(2)) with respect to matters described in § 200.20b.
+(h) To consult on behalf of the Commission pursuant to sections 5318A(a)(4), 5318A(e)(2) and 5318(h)(2) of the Bank Secrecy Act (31 U.S.C. 5318A(a)(4), 5318A(e)(2) and 5318(h)(2)) with respect to matters described in § 200.20b.
 
-(g) To consult on behalf of the Commission pursuant to the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (USA PATRIOT Act), as amended (Pub. L. 107-56 (2001), 115 Stat. 272) with respect to matters described in § 200.20b.
+(i) To consult on behalf of the Commission pursuant to the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (USA PATRIOT Act), as amended (Pub. L. 107-56 (2001), 115 Stat. 272) with respect to matters described in § 200.20b.
 
-(h) Notwithstanding anything in the foregoing:
+(j) Notwithstanding anything in the foregoing:
 
 (1) [Reserved]
 
 (2) In any case in which the Director of the Division of Investment Management believes it appropriate, the Director may submit the matter to the Commission.
 
-(i) With respect to the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*), the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), and Regulation S-T thereunder (part 232 of this chapter), to grant or deny a request submitted under Regulation S-T to adjust the filing date of an electronic filing.
+(k) With respect to the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*), the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), and Regulation S-T thereunder (part 232 of this chapter), to grant or deny a request submitted under Regulation S-T to adjust the filing date of an electronic filing.
 
-(j) With respect to the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*) and rule 8b-25 thereunder (§ 270.8b-25), the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), and Regulation S-T thereunder (part 232 of this chapter), to set the terms of, and grant or deny as appropriate, continuing hardship exemptions under rule 202 of Regulation S-T (§ 232.202 of this chapter) from the electronic submission requirements of Regulation S-T (part 232 of this chapter).
+(l) With respect to the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*) and rule 8b-25 thereunder (§ 270.8b-25), the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), and Regulation S-T thereunder (part 232 of this chapter), to set the terms of, and grant or deny as appropriate, continuing hardship exemptions under rule 202 of Regulation S-T (§ 232.202 of this chapter) from the electronic submission requirements of Regulation S-T (part 232 of this chapter).
 
-(k) With respect to Regulation S-T (part 232 of this chapter), to grant or deny a request to adjust the filing date of a filing submitted under Regulation S-T.
+(m) With respect to Regulation S-T (part 232 of this chapter), to grant or deny a request to adjust the filing date of a filing submitted under Regulation S-T.
 
-(l) With respect to Regulation S-T (part 232 of this chapter), to set the terms of, and grant or deny as appropriate, continuing hardship exemptions pursuant to rule 202 of Regulation S-T (§§ 232.202 of this chapter) from the electronic submission requirements of Regulation S-T (part 232 of this chapter).
+(n) With respect to Regulation S-T (part 232 of this chapter), to set the terms of, and grant or deny as appropriate, continuing hardship exemptions pursuant to rule 202 of Regulation S-T (§§ 232.202 of this chapter) from the electronic submission requirements of Regulation S-T (part 232 of this chapter).
 
 [41 FR 29376, July 16, 1976]Editorial Note:For Federal Register citations affecting § 200.30-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
