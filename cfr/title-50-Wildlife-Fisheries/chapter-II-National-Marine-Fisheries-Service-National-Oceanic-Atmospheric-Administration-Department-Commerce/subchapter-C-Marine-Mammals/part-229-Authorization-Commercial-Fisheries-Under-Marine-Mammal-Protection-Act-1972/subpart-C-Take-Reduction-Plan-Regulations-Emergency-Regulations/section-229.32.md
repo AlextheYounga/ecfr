@@ -1,5 +1,7 @@
 ##### § 229.32 Atlantic large whale take reduction plan regulations. #####
 
+Link to an amendment published at 89 FR 8349, Feb. 7, 2024.
+
 (a) *Purpose and scope*—(1) *Whales and fixed gear fisheries.* The purpose of this section is to implement the Atlantic Large Whale Take Reduction Plan to reduce incidental mortality and serious injury of fin, humpback, and right whales in specific Category I and Category II commercial fisheries from Maine through Florida. Specific Category I and II commercial fisheries within the scope of the Plan are identified and updated in the annual List of Fisheries. The measures identified in the Atlantic Large Whale Take Reduction Plan are also intended to benefit minke whales, which are not designated as a strategic stock, but are known to be taken incidentally in gillnet and trap/pot fisheries. The gear types affected by this plan include gillnets (*e.g.,* anchored, drift, and shark) and traps/pots. The Assistant Administrator may revise the requirements set forth in this section in accordance with paragraph (i) of this section;
 
 (2) *Regulated waters*—(i) *U.S. Atlantic waters.* The regulations in this section apply to all U.S. waters in the Atlantic except for the areas exempted in paragraph (a)(3) of this section;

@@ -4,4 +4,4 @@
 
 (b) Board members shall serve during the term of office for which they are selected and have qualified and until their successors are selected and have qualified.
 
-[38 FR 7123, Mar. 16, 1973, as amended at 49 FR 2093, Jan. 18, 1984]
+[38 FR 7123, Mar. 16, 1973, as amended at 49 FR 2093, Jan. 18, 1984; 89 FR 863, Jan. 8, 2024]
