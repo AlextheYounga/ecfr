@@ -150,4 +150,4 @@ If an affected party has designated, in writing, a person to receive a notice on
 
 *Voluntary employee contributions* means amounts contributed by an employee to a plan, pursuant to the provisions of the plan, that are not mandatory employee contributions.
 
-[61 FR 34010, July 1, 1996]Editorial Note:For Federal Register citations affecting § 4001.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[61 FR 34010, July 1, 1996]Editorial Note:For Federal Register citations affecting § 4001.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

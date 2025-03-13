@@ -1,8 +1,6 @@
-##### § 388.108 Requests for Commission records not available through the Public Reference Room (FOIA requests). #####
+##### § 388.108 Requests for Commission records not available from the Commission's website, https://www.ferc.gov. #####
 
-Link to an amendment published at 88 FR 74033, Oct. 30, 2023.
-
-(a)(1) Except as provided in paragraph (a)(2) of this section, a person may request access to Commission records, including records maintained in electronic format, that are not available through the Public Reference Room, by using the following procedures:
+(a)(1) Except as provided in paragraph (a)(2) of this section, a person may request access to Commission records, including records maintained in electronic format, that are not available through the Commission's website, *https://www.ferc.gov,* by using the following procedures:
 
 (i) The request must be in writing, addressed to the Director, Office of External Affairs, and clearly marked “Freedom of Information Act Request.”
 
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 74033, Oct. 30, 2023.
 
 (b)(1) *Multitrack processing.* Upon receipt of a request, the Director, Office of External Affairs, will place the request in one of three tracks for processing:
 
-(i) Track One—records that are readily identifiable and were previously cleared for release (including those subject to multiple requests and placed in the Public Reference Room);
+(i) Track One—records that are readily identifiable and were previously cleared for release (including those subject to multiple requests and placed on *https://www.ferc.gov*);
 
 (ii) Track Two—records that are readily identifiable, and require limited review; and
 
@@ -54,4 +52,4 @@ Link to an amendment published at 88 FR 74033, Oct. 30, 2023.
 
 (e) The procedure for appeal of denial of a request for Commission records, or denial of a request for expedited processing, is set forth in § 388.110.
 
-[Order 488, 53 FR 1473, Jan. 20, 1988, as amended by Order 562, 58 FR 62521, Nov. 29, 1993; Order 597, 63 FR 5453, Feb. 3, 1998; Order 832, 81 FR 86575, Dec. 1, 2016]
+[Order 488, 53 FR 1473, Jan. 20, 1988, as amended by Order 562, 58 FR 62521, Nov. 29, 1993; Order 597, 63 FR 5453, Feb. 3, 1998; Order 832, 81 FR 86575, Dec. 1, 2016; Order 899, 88 FR 74033, Oct. 30, 2023]

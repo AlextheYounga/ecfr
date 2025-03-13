@@ -1,8 +1,7 @@
 ##### § 1315.22 Procedure for applying for individual manufacturing quotas. #####
 
-Link to an amendment published at 88 FR 60143, Aug. 31, 2023.
-
-Any person who is registered to manufacture ephedrine, pseudoephedrine, or phenylpropanolamine and who desires to manufacture a quantity of the chemical must apply on DEA Form 189 for a manufacturing quota for the quantity of the chemical. Copies of DEA Form 189 may be obtained from the Office of Diversion Control Web site, and must be filed (on or before April 1 of the year preceding the calendar year for which the manufacturing quota is being applied) with the UN Reporting & Quota Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. A separate application must be made for each chemical desired to be manufactured. The applicant must state the following:
+Any person who is registered to manufacture ephedrine, pseudoephedrine, or phenylpropanolamine and who desires to manufacture a quantity of the chemical must apply on DEA Form 189 for a manufacturing quota for the quantity of the chemical and shall state separately for each subcategory, as defined in § 1315.07, each quantity of such chemical.
+Copies of DEA Form 189 may be obtained from the Office of Diversion Control Web site, and must be filed (on or before April 1 of the year preceding the calendar year for which the manufacturing quota is being applied) with the UN Reporting & Quota Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. A separate application must be made for each chemical desired to be manufactured. The applicant must state the following:
 
 (a) The name and DEA Chemical Code Number, as set forth in part 1310 of this chapter, of the chemical.
 
@@ -36,4 +35,4 @@ Any person who is registered to manufacture ephedrine, pseudoephedrine, or pheny
 
 (vi) Recent unforeseen emergencies such as floods and fires.
 
-[72 FR 37448, July 10, 2007, as amended at 73 FR 73555, Dec. 3, 2008; 75 FR 10684, Mar. 9, 2010]
+[72 FR 37448, July 10, 2007, as amended at 73 FR 73555, Dec. 3, 2008; 75 FR 10684, Mar. 9, 2010; 88 FR 60143, Aug. 31, 2023]

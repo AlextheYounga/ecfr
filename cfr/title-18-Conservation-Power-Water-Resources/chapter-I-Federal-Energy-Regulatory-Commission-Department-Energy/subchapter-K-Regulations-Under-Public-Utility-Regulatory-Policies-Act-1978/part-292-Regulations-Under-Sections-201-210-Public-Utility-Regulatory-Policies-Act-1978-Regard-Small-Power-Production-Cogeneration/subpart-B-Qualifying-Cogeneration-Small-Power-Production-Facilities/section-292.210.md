@@ -1,7 +1,5 @@
 ##### § 292.210 Petition alleging commitment of substantial monetary resources before October 16, 1986. #####
 
-Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
-
 (a) An applicant covered by § 292.203(c) whose application for license or exemption was filed on or after October 16, 1986, but before April 16, 1988, may file a petition for exception from the requirement in § 292.208(b)(3) and the moratorium described in § 292.203(c)(2). The petition must show that prior to October 16, 1986, the applicant committed substantial monetary resources (as that term is defined in § 292.202(r)) to the development of the project.
 
 (b) Subject to rebuttal under paragraph (d)(7)(ii) of this section, a showing of the commitment of substantial monetary resources will be presumed if the applicant held a preliminary permit for the project and had completed environmental consultations pursuant to § 4.38 of this chapter before October 16, 1986.
@@ -38,10 +36,10 @@ Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
 
 (8) If the application is deficient pursuant to § 4.32(e) of this chapter, the applicant must include with the information correcting those deficiencies a statement of the costs expended to make the corrections.
 
-(e) *Processing of petition.* (1) The Commission will issue a notice of the petition filed under this section and publish the notice in the Federal Register. The petition will be available for inspection and copying during regular business hours in the Public Reference Room maintained by the Division of Public Information.
+(e) *Processing of petition.* (1) The Commission will issue a notice of the petition filed under this section and publish the notice in the Federal Register. The petition will be available to inspect or to download on the Commission's website, *https://www.ferc.gov.*
 
 (2) *Comments on the petition.* The Commission will provide the public 45 days from the date the notice of the petition is issued to submit comments. The applicant for license or exemption has 15 days after the expiration of the public comment period to respond to the comments filed with the Commission.
 
 (3) *Commission action on petition.* The Director of the Office of Energy Projects will determine whether or not the applicant for license or exemption has made the showing required under this section.
 
-[Order 499, 53 FR 27003, July 18, 1988, as amended by Order 699, 72 FR 45325, Aug. 14, 2007]
+[Order 499, 53 FR 27003, July 18, 1988, as amended by Order 699, 72 FR 45325, Aug. 14, 2007; Order 899, 88 FR 74032, Oct. 30, 2023]

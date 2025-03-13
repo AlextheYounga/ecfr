@@ -1,10 +1,8 @@
 ##### § 284.221 General rule; transportation by interstate pipelines on behalf of others. #####
 
-Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
-
 (a) *Blanket certificate.* Any interstate pipeline may apply under this section for a single blanket certificate authorizing the transportation of natural gas on behalf of others in accordance with this subpart. A certificate of public convenience and necessity under this section is granted pursuant to section 7 of the Natural Gas Act.
 
-(b) *Application procedure.* (1) An application for a blanket certificate under this section must be filed electronically. The format for the electronic application filing can be obtained at the Federal Energy Regulatory Commission, Division of Information Services, Public Reference and Files Maintenance Branch, Washington, DC 20426, and must include:
+(b) *Application procedure.* (1) An application for a blanket certificate under this section must be filed electronically. The format for the electronic application filing available through the Commission's website, *https://www.ferc.gov,* and must include:
 
 (i) The name of the interstate pipeline; and
 
@@ -52,4 +50,4 @@ Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
 
 (3) The delivery points to which natural gas volumes may be reassigned under this paragraph include facilities authorized to be constructed and operated only under § 157.211 and the prior notice conditions of § 157.205 of this chapter.
 
-[Order 436, 50 FR 42496, Oct. 18, 1985, as amended by Order 433-A, 51 FR 43607, Dec. 3, 1986; Order 636, 57 FR 13317, Apr. 16, 1992; Order 636-A, 57 FR 36217, Aug. 12, 1992; Order 581, 60 FR 53073, Oct. 11, 1995; Order 603, 64 FR 26610, May 14, 1999; Order 637, 65 FR 10222, Feb. 25, 2000; Order 637-A, 65 FR 35765, June 5, 2000]
+[Order 436, 50 FR 42496, Oct. 18, 1985, as amended by Order 433-A, 51 FR 43607, Dec. 3, 1986; Order 636, 57 FR 13317, Apr. 16, 1992; Order 636-A, 57 FR 36217, Aug. 12, 1992; Order 581, 60 FR 53073, Oct. 11, 1995; Order 603, 64 FR 26610, May 14, 1999; Order 637, 65 FR 10222, Feb. 25, 2000; Order 637-A, 65 FR 35765, June 5, 2000; Order 899, 88 FR 74031, Oct. 30, 2023]

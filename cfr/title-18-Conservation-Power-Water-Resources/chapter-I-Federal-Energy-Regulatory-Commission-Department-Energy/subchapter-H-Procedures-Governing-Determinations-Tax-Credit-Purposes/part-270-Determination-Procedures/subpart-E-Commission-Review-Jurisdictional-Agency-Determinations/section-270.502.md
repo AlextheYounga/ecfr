@@ -1,7 +1,5 @@
 ##### § 270.502 Commission review of final determinations. #####
 
-Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
-
 (a) *Review by Commission.* Except as provided in paragraphs (b), (c) and (d) of this section, a determination submitted to the Commission by a jurisdictional agency will become final 45 days after the date on which the Commission received notice of the determination, unless within the 45 day period, the Commission:
 
 (1) Makes a preliminary finding that:
@@ -30,7 +28,7 @@ Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
 
 (3) Withdrawal of an application will nullify such application and the notice of determination on such application.
 
-(e) *Public notice.* The Commission will publish notice of the preliminary finding in the Federal Register and will post the notice in its Public Reference Room. The notice will set forth the reasons for the preliminary finding.
+(e) *Public notice.* The Commission will publish notice of the preliminary finding in the Federal Register and will post the notice on the Commission's website, *https://www.ferc.gov.* The notice will set forth the reasons for the preliminary finding.
 
 (f) *Procedures following notice of preliminary finding.* Any state or federal agency or any person may submit, within 30 days after issuance of the preliminary finding, written comments, and request an informal conference with the Commission staff. Any jurisdictional agency, any state agency and any person receiving notice under paragraph (a)(2) of this section may request an informal conference with the Commission staff. All timely requests for conferences will be granted. Notice of, and permission to attend, such conferences will be given to persons identified in paragraph (a)(2) of this section and to state or federal agencies or persons who submitted comments under this paragraph.
 
@@ -41,3 +39,5 @@ Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
 (3) A final order issued under paragraph (g)(1) or (g)(2) of this section will either affirm, reverse, or remand the determination of the jurisdictional agency. Such order will state the specific basis for the Commission's action. Notice of the issuance of such order will be given to the jurisdictional agency, to participants in the proceeding before the jurisdictional agency, and to participants in the proceeding before the Commission under paragraph (d) of this section and under § 270.503.
 
 (4) In the event that the Commission fails to issue a final order within 120 days after issuance of the preliminary finding, the determination of the jurisdictional agency shall become final.
+
+[Order 616, 65 FR 45865, July 26, 2000, as amended by Order 899, 88 FR 74031, Oct. 30, 2023]

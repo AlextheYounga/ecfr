@@ -1,7 +1,5 @@
 ##### § 250.16 Format of compliance plan for transportation services and affiliate transactions. #####
 
-Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
-
 (a) *Who must comply.* An interstate natural gas pipeline that transports natural gas for others pursuant to Subparts B or G of Part 284 of this chapter and is affiliated, as that term is defined in § 358.3 of this chapter, in any way with a natural gas marketing or brokering entity and conducts transportation transactions with its marketing or brokering affiliate must comply with the requirements of this section. The requirements of this section also apply to pipeline sales operating units to the extent provided in § 284.286 of this chapter.
 
 (b) *Tariff requirements.* An interstate pipeline must maintain tariff provisions containing the following:
@@ -14,11 +12,11 @@ Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
 
 (2) The current log of allocation data for marketing affiliates must be posted on the pipeline's Internet Web site, operated pursuant to § 284.12 of this chapter. The posting must conform with the requirements of § 284.12 of this chapter and the pipeline's tariff requirements relating to Internet Web sites. Access to the information must be provided using the same protocols and procedures used for the pipeline's Internet Web site.
 
-(3) The log of affiliate and non-affiliate information must be provided to the Commission upon request and must be made available to the public under Subpart D of Part 385 of this chapter. When requested by the Commission, the information must be provided, within a reasonable time, according to the specifications and format contained in Form No. 592, which can be obtained at the Federal Energy Regulatory Commission, Public Reference and Files Maintenance Branch, Washington, DC 20426.
+(3) The log of affiliate and non-affiliate information must be provided to the Commission upon request and must be made available to the public under 18 CFR part 385, subpart D. When requested by the Commission, the information must be provided, within a reasonable time, according to the specifications and format contained in Form No. 592, which can be obtained on the Commission's website, *https://www.ferc.gov.*
 
 (d) *Transportation Discount Information.* (1) A pipeline that provides transportation service at a discounted rate must maintain, for each billing period, the following information: the name of the shipper being provided the discount; the affiliate's role in the transportation transaction (i.e., shipper, marketer, supplier, seller); the duration of the discount; the maximum rate or fee; the rate or fee actually charged during the billing period; and the quantity of gas scheduled at the discounted rate during the billing period for each delivery point. The discount information with respect to each transaction must be maintained for three years from the date the transaction commences.
 
-(2) The discount information must be made available to the Commission upon request and to the public under Subpart D of Part 385 of this chapter. When requested by the Commission, the information must be provided, within a reasonable time, according to the specifications and format contained in Form No. 592, which can be obtained at the Federal Energy Regulatory Commission, Public Reference and Files Maintenance Branch, Washington, DC 20426.
+(2) The discount information must be made available to the Commission upon request and to the public under 18 CFR part 385, subpart D. When requested by the Commission, the information must be provided, within a reasonable time, according to the specifications and format contained in Form No. 592, which can be obtained on the Commission's website, *https://www.ferc.gov.*
 
 (e) *Penalty for failure to comply.* (1) Any person who transports gas for others pursuant to subpart B or G of part 284 of this chapter and who knowingly violates the requirements of §§ 358.4 and 358.5 of this chapter, this section, or § 284.13 of this chapter will be subject, pursuant to sections 311(c), 501, and 504(b)(6) of the Natural Gas Policy Act of 1978, to a civil penalty, which the Commission may assess, of not more than $1,496,035 for any one violation.
 

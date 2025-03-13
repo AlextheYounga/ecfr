@@ -1,7 +1,5 @@
 ##### § 341.1 Electronic filing of tariffs and related materials. #####
 
-Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
-
 (a) *General rule.* Filings of tariff publications and related materials must be made electronically.
 
 (b) *Requirement for signature.* All filings must be signed in compliance with the following:
@@ -18,8 +16,8 @@ Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
 
 (3) All signatures on the filing or any document included in the filing must comply, where applicable, with the requirements in § 385.2005 of this chapter with respect to sworn declarations or statements and electronic signatures.
 
-(c) *Format requirements for electronic filing.* The requirements and formats for electronic filing are listed in instructions for electronic filing and for each form. These formats are available on the Internet at *http://www.ferc.gov* and can be obtained at the Federal Energy Regulatory Commission, Public Reference Room, 888 First Street, NE., Washington, DC 20426.
+(c) *Format requirements for electronic filing.* The requirements and formats for electronic filing are listed in instructions for electronic filing and for each form. These formats are available through the Commission's website, *https://www.ferc.gov.*
 
 (d) Only filings filed and designated as filings with statutory action dates in accordance with these electronic filing requirements and formats will be considered to have statutory action dates. Filings not properly filed and designated as having statutory action dates will not become effective, pursuant to the Interstate Commerce Act, should the Commission not act by the requested action date.
 
-[Order 714, 73 FR 57536, Oct. 3, 2008, as amended by Order 714-A, 79 FR 29077, May 21, 2014]
+[Order 714, 73 FR 57536, Oct. 3, 2008, as amended by Order 714-A, 79 FR 29077, May 21, 2014; Order 899, 88 FR 74032, Oct. 30, 2023]

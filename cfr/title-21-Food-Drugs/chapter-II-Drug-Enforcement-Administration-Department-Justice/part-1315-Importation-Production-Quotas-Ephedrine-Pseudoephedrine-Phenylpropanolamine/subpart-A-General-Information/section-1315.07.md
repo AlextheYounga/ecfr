@@ -1,3 +1,15 @@
-##### § 1315.07 xxx #####
+##### § 1315.07 Subcategories of manufacturing and procurement quota. #####
 
-Link to an amendment published at 88 FR 60142, Aug. 31, 2023.
+The five subcategories are:
+
+(a) Quota for Commercial Sale is a quota for the amount of bulk active pharmaceutical ingredients (API) initially acquired by a registrant for the manufacture of ephedrine, pseudoephedrine, and phenylpropanolamine products and bulk API acquired by outsourcing facilities, manufacturers, etc. This type of quota shall only be used to support commercial manufacturing efforts and shall not be used to support other manufacturing efforts.
+
+(b) Quota for Transfer is a quota for the amount of material moved from one registrant to another and does not include material captured under procurement quota for commercial sale. Examples include: 1. Bulk API being transferred back to the original registrant after milling; 2. Transfer of in-process material or finished dosage-forms for additional manufacturing efforts (coating, beading, encapsulation, and so forth) back to the preceding registrant; and 3. Return of material after the specified manufacturing activity has been completed.
+
+(c) Quota for Product Development is a quota for the amount of material needed for product development and validation manufacturing efforts. This quota is limited to that activity *only* and only for the development efforts noted in the application; it shall not be used or substituted for commercial production or the development of a different product. This quota is issued with the understanding that this material is not intended for commercial use, with the exception of FDA-approved or OTC Monograph validation batches. Validation batches shall be noted specifically in an application and shall be considered product development material that will be taken into account once a product is FDA-approved for commercial sale. No inventory shall be granted for these efforts, nor shall replacement quota be considered for destroyed material issued under this quota subcategory.
+
+(d) Quota for Replacement is a type of individual manufacturing quota or procurement quota that is granted to a registrant after the registrant disposes of material that was initially intended for commercial sale, but for some reason was unable to be marketed. This quota is separate and shall not count against a registrant's other issued quota. Replacement quota will be granted on a case by case basis. The merits of the request shall be determined by the registrant's justification. Replacement quota is intended to replace material from the current quota year and shall not be used to replace disposed samples, analytical samples, product development material or inventory acquired under previous quota years.
+
+(e) Quota for Packaging/Repackaging and Labeling/Relabeling is quota for the amount of material moved to a registrant to undergo packaging and labeling activities. This quota is limited to that activity *only* and only for the packaging/repackaging and labeling/relabeling noted in the application; it shall not be used or substituted for commercial production or the packaging of a different product.
+
+[88 FR 60142, Aug. 31, 2023]

@@ -1,5 +1,7 @@
 ##### § 209.4 Amounts and payments for subscriptions and cancellations; timing and rate of dividends. #####
 
+Link to an amendment published at 88 FR 83318, Nov. 29, 2023.
+
 (a) *Amount of subscription.* The total subscription of a member bank (other than a mutual savings bank) shall equal six percent of its capital and surplus as shown on its most recent Call Report. After a member bank files a Call Report, the appropriate Reserve Bank will adjust the member bank's Reserve Bank capital stock subscription to equal six percent of the member bank's capital and surplus.
 
 (b) *Mutual savings banks.* The total subscription of a member bank that is a mutual savings bank shall equal six-tenths of 1 percent of its total deposit liabilities as shown on its most recent Call Report. After a member bank that is a mutual savings bank files a Call Report, the appropriate Reserve Bank will adjust the member bank's Reserve Bank capital stock subscription to equal six-tenths of 1 percent of the member bank's total deposit liabilities. If a mutual savings bank has a deposit with the appropriate Reserve Bank in lieu of Reserve Bank capital stock, its deposit obligation shall be adjusted in a like manner.

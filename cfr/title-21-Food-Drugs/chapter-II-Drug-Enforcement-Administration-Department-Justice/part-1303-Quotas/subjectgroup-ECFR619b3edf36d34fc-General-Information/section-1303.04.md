@@ -1,0 +1,21 @@
+##### § 1303.04 Subcategories of manufacturing and procurement quotas. #####
+
+The five subcategories of manufacturing and procurement quotas are:
+
+(a) *Quota for commercial sale.* This is a quota for the amount of bulk active pharmaceutical ingredients (API) initially acquired by a registrant for the manufacture of approved schedule I or II controlled substance drug products by the Food and Drug Administration (FDA), and bulk API acquired by outsourcing facilities, manufacturers, etc. This quota category is used to capture bulk API moving from a bulk manufacturer to other registered manufacturers for their commercial manufacturing efforts. This type of quota may only be used to support commercial manufacturing efforts and may not be used to support other manufacturing efforts.
+
+(b) *Quota for transfer.* This is a quota for the amount of material moved upstream from one registrant to another and does not include material captured under procurement quota for commercial sale. Examples include:
+
+(1) Bulk API being transferred back to the original registrant after milling;
+
+(2) Transfer of in-process material or finished dosage-forms for additional manufacturing efforts (coating, beading, encapsulation, and so forth) back to the preceding registrant; and
+
+(3) Return of material after the specified manufacturing activity has been completed or return of rejected material to the upstream manufacturer for destruction or additional processing.
+
+(c) *Quota for product development.* This is a quota for the amount of material needed for product development and validation of manufacturing efforts. This quota is limited to that activity *only* and only for the development efforts noted in the application; it shall not be used or substituted for commercial production or the development of a different product. This quota is issued with the understanding that this material is not intended for commercial use, with the exception of post-FDA approved validation batches. Validation batches shall be noted specifically in an application and shall be considered product development material that will be taken into account for net disposal once a product is FDA-approved for commercial sale. No inventory will be granted for these efforts, nor will replacement quota be considered for destroyed material issued under this quota subcategory.
+
+(d) *Quota for replacement.* This is a type of individual manufacturing quota or procurement quota that is granted to a registrant after the registrant disposes of material that was initially intended for commercial sale, but for some reason was unable to be marketed. This quota is separate and shall not count against a registrant's other issued quota. Replacement quota will be granted on a case-by-case basis. The merits of the request will be determined by the specifics of the registrant's justification and situation. DEA will review the submitted DEA Form 41 or DEA Form 222 documenting the destruction of the controlled substance and evaluate the justification for the destruction to determine if replacement quota is warranted and whether or not the destroyed material is required to meet the legitimate demand of the market. Replacement quota is intended to replace material from the current quota year and not a means to replace disposed samples, analytical samples, product development material, or inventory acquired under previous quota years.
+
+(e) *Quota for packaging/repackaging and labeling/relabeling.* This is the quota for the amount of material moved to a registrant to undergo packaging and labeling activities. This quota is limited to that activity *only* and only for the packaging/repackaging and labeling/relabeling noted in the application; it may not be used or substituted for commercial production. Packaging/repackaging and labeling/relabeling quota is intended for tracking of schedules I and II controlled substances as they undergo packaging/labeling activities; however, packaging/repackaging and labeling/relabeling quotas shall not be counted against the aggregate production quotas.
+
+[88 FR 60139, Aug. 31, 2023]

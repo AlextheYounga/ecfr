@@ -1,14 +1,10 @@
 ##### § 388.109 Fees for record requests. #####
 
-Link to an amendment published at 88 FR 74033, Oct. 30, 2023.
+(a) *Fees for records available through the Commission's website.* (1) The fee for finding and duplicating records available from the Commission's website, *https://www.ferc.gov,* will vary depending on the size and complexity of the request. A person can obtain a copy of the schedule of fees from the Commission's website, *https://www.ferc.gov.* In addition, copies of data extracted from the Commission's files through electronic media are available on a reimbursable basis, upon written request to the Commission.
 
-(a) *Fees for records available through the Public Reference Room*—(1) *General rule.* The fee for finding and duplicating records available in the Commission's Public Reference Room will vary depending on the size and complexity of the request. A person can obtain a copy of the schedule of fees in person or by mail from the Public Reference Room. This schedule is also available on the Commission's Web site. Copies of documents also may be made on self-service duplicating machines located in the Public Reference Room. In addition, copies of data extracted from the Commission's files through electronic media are available on a reimbursable basis, upon written request to the Public Reference Room.
+(2) Stenographic reports of Commission hearings are made by a private contractor. Interested persons may obtain copies of public hearing transcripts from the contractor at prices set in the contract, or through the search and duplication service noted above. Copies of the contract are available for public inspection on the Commission's website, *https://www.ferc.gov.*
 
-(2) Stenographic reports of Commission hearings are made by a private contractor. Interested persons may obtain copies of public hearing transcripts from the contractor at prices set in the contract, or through the search and duplication service noted above. Copies of the contract are available for public inspection in the Public Reference Room.
-
-(3) Copies of transcripts, electronic recordings, or minutes of Commission meetings closed to public observation containing material nonexempt pursuant to § 375.206(f) of this chapter are also available at the actual cost of duplication or transcription.
-
-(b) *Fees for records not available through the Public Reference Room (FOIA or CEII requests).* The cost of duplication of records not available in the Public Reference Room will depend on the number of documents requested, the time necessary to locate the documents requested, and the category of the persons requesting the records. The procedures for appeal of requests for fee waiver or reduction are set forth in § 388.110.
+(b) *Fees for records not available through the Commission's website (FOIA or CEII requests).* The cost of duplication of records not available from the Commission's website, *https://www.ferc.gov,* will depend on the number of documents requested, the time necessary to locate the documents requested, and the category of the persons requesting the records. The procedures for appeal of denial of requests for fee waiver or reduction are set forth in § 388.110.
 
 (1) *Definitions:* For the purpose of paragraph (b) of this section.
 
@@ -80,4 +76,4 @@ Link to an amendment published at 88 FR 74033, Oct. 30, 2023.
 
 (2) If a court determines that exceptional circumstances exist, the Commission's failure to comply with a time limit will be excused for the length of time provided by the court order.
 
-[Order 488, 53 FR 1473, Jan. 20, 1988, as amended by Order 597, 63 FR 5454, Feb. 3, 1998; Order 640, 65 FR 33448, May 24, 2000; Order 625, 67 FR 21996, May 2, 2002; Order 648, 69 FR 41191, July 8, 2004; 72 FR 63985, Nov. 14, 2007; 73 FR 45609, Aug. 6, 2008; Order 832, 81 FR 86575, Dec. 1, 2016]
+[Order 488, 53 FR 1473, Jan. 20, 1988, as amended by Order 597, 63 FR 5454, Feb. 3, 1998; Order 640, 65 FR 33448, May 24, 2000; Order 625, 67 FR 21996, May 2, 2002; Order 648, 69 FR 41191, July 8, 2004; 72 FR 63985, Nov. 14, 2007; 73 FR 45609, Aug. 6, 2008; Order 832, 81 FR 86575, Dec. 1, 2016; Order 899, 88 FR 74033, Oct. 30, 2023]

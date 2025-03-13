@@ -1,7 +1,5 @@
 ##### § 284.13 Reporting requirements for interstate pipelines. #####
 
-Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
-
 An interstate pipeline that provides transportation service under subparts B or G of this part must comply with the following reporting requirements.
 
 (a) *Cross references.* The pipeline must comply with the requirements in Part 358, Part 250, and Part 260 of this chapter, where applicable.
@@ -74,7 +72,7 @@ An interstate pipeline that provides transportation service under subparts B or 
 
 (4) Pipelines that are not required to comply with the index of customers posting and filing requirements of this section must comply with the index of customer requirements applicable to transportation and sales under Part 157 as set forth under § 154.111(b) and (c) of this chapter.
 
-(5) The requirements for the electronic index can be obtained from the Federal Energy Regulatory Commission, Division of Information Services, Public Reference and Files Maintenance Branch, Washington, DC 20426.
+(5) The requirements for the electronic index are available through the Commission's website, *https://www.ferc.gov.*
 
 (d) *Capacity and flow information.* (1) An interstate pipeline must provide on its Internet web site and in downloadable file formats, in conformity with § 284.12 of this part, equal and timely access to information relevant to the availability of all transportation services whenever capacity is scheduled, including, but not limited to, the availability of capacity at receipt points, on the mainline, at delivery points, and in storage fields, whether the capacity is available directly from the pipeline or through capacity release, the total design capacity of each point or segment on the system, the amount scheduled at each point or segment whenever capacity is scheduled, and all planned and actual service outages or reductions in service capacity. An interstate pipeline must also provide information about the volumes of no-notice transportation provided pursuant to § 284.7(a)(4). This information must be posted at each receipt and delivery point before 11:30 a.m. central clock time three days after the day of gas flow and must reflect the pipeline's best estimate. Updated information must be posted at each receipt and delivery point as necessary within ten business days after the month of gas flow.
 
@@ -84,4 +82,4 @@ An interstate pipeline that provides transportation service under subparts B or 
 
 (f) *Location codes.* An interstate pipeline must maintain a posting on its publicly available Internet Web site of the pipeline's location names and codes for all current and inactive receipt and delivery points on its system, including, for each point: Direction of flow, the location of the point, the location zone if such exists, the Commission company identification code (CID), if any, of the upstream and/or downstream entity, the location type, the current status as active and inactive, and the date(s) the point becomes active or inactive. The pipeline must provide the information in downloadable file formats, in conformity with the requirements of 18 CFR 284.12 of this chapter.
 
-[Order 637, 65 FR 10221, Feb. 25, 2000, as amended by Order 637-A, 65 FR 35765, June 5, 2000; Order 2004, 68 FR 69157, Dec. 11, 2003; Order 712, 73 FR 37092, June 30, 2008; Order 720, 73 FR 73517, Dec. 2, 2008; Order 720-B, 75 FR 44900, July 30, 2010; Order 757, 77 FR 4224, Jan. 27, 2012; Order 587-W, 80 FR 67312, Nov. 2, 2015; Order 587-X, 81 FR 15432, Mar. 23, 2016]
+[Order 637, 65 FR 10221, Feb. 25, 2000, as amended by Order 637-A, 65 FR 35765, June 5, 2000; Order 2004, 68 FR 69157, Dec. 11, 2003; Order 712, 73 FR 37092, June 30, 2008; Order 720, 73 FR 73517, Dec. 2, 2008; Order 720-B, 75 FR 44900, July 30, 2010; Order 757, 77 FR 4224, Jan. 27, 2012; Order 587-W, 80 FR 67312, Nov. 2, 2015; Order 587-X, 81 FR 15432, Mar. 23, 2016; Order 899, 88 FR 74031, Oct. 30, 2023]

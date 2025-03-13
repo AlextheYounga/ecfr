@@ -1,7 +1,5 @@
 ##### § 1315.34 Obtaining an import quota. #####
 
-Link to an amendment published at 88 FR 60144, Aug. 31, 2023.
-
 (a) Any person who is registered to import ephedrine, pseudoephedrine, or phenylpropanolamine, or whose requirement of registration is waived pursuant to § 1309.24(c) of this chapter, and who desires to import during the next calendar year any ephedrine, pseudoephedrine, or phenylpropanolamine or drug products containing these chemicals, must apply on DEA Form 488 for an import quota for the chemical. A separate application must be made for each chemical desired to be imported.
 
 (b) The applicant must provide the following information in the application:
@@ -32,10 +30,10 @@ Link to an amendment published at 88 FR 60144, Aug. 31, 2023.
 
 (e) The Administrator may at his discretion request additional information from an applicant.
 
-(f) On or before July 1 of the year preceding the calendar year during which the quota shall be effective, the Administrator shall issue to each qualified applicant an import quota authorizing him to import:
+(f) On or before December 1 of the year preceding the calendar year during which the quota shall be effective, the Administrator shall issue to each qualified applicant an import quota authorizing him to import:
 
 (1) All quantities of the chemical necessary to manufacture products that registered manufacturers are authorized to manufacture pursuant to § 1315.23; and
 
 (2) Such other quantities of the chemical that the applicant has applied to import and that are consistent with his past imports, the estimated medical, scientific, and industrial needs of the United States, the establishment and maintenance of reserve stocks, and the total quantity of the chemical that will be produced.
 
-[72 FR 37448, July 10, 2007, as amended at 75 FR 10684, Mar. 9, 2010]
+[72 FR 37448, July 10, 2007, as amended at 75 FR 10684, Mar. 9, 2010; 88 FR 60144, Aug. 31, 2023]

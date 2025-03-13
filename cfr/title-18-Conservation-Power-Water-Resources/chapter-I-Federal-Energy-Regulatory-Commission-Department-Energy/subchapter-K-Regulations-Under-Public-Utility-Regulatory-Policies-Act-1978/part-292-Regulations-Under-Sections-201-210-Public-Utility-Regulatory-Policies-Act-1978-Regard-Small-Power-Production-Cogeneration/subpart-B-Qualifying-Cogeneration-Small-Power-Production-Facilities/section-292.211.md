@@ -1,7 +1,5 @@
 ##### § 292.211 Petition for initial determination on whether a project has a substantial adverse effect on the environment (AEE petition). #####
 
-Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
-
 (a) An applicant that has filed a petition under § 292.210 may also file an AEE petition with the Commission for an initial determination on whether the project satisfies the requirement that it has no substantial adverse effect on the environment as specified in § 292.208(b)(1).
 
 (b) The filing of the AEE petition does not relieve the applicant of the filing requirements of § 292.208(c).
@@ -32,7 +30,7 @@ Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
 
 (ii) The Commission will publish notice of the Director's initial finding in the Federal Register.
 
-(h) *Notice and comment on the mitigative measures.* (1) The Commission will issue notice of the mitigative measures filed by an applicant under paragraph (g)(2) of this section and will publish the notice in the Federal Register. The mitigative measures will be on file and available for inspection or copying during regular business hours in the Public Reference Room maintained by the Division of Public Information;
+(h) *Notice and comment on the mitigative measures.* (1) The Commission will issue notice of the mitigative measures filed by an applicant under paragraph (g)(2) of this section and will publish the notice in the Federal Register. The mitigative measures will be on file and available to inspect or to download on the Commission's website, *https://www.ferc.gov.*
 
 (2) The Commission will provide the State and interested persons within 90 days from the date the notice is issued to review and submit comments on the mitigative measures. The applicant for license or exemption has 15 days after the expiration of the public comment period to respond to the comments filed with the Commission.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
 
 (ii) Any interested person, including a State, demonstrates that the project will have a substantial adverse effect on the environment related to the environmental attributes listed in paragraph (k)(2)(i) of this section.
 
-[Order 499, 53 FR 27004, July 18, 1988, as amended by Order 499-A, 53 FR 40724, Oct. 18, 1988; Order 699, 72 FR 45325, Aug. 14, 2007]
+[Order 499, 53 FR 27004, July 18, 1988, as amended by Order 499-A, 53 FR 40724, Oct. 18, 1988; Order 699, 72 FR 45325, Aug. 14, 2007; Order 899, 88 FR 74032, Oct. 30, 2023]

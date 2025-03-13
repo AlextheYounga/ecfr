@@ -1,12 +1,8 @@
-##### § 388.106 Requests for Commission records available in the Public Reference Room and from the Commission's web site, http://www.ferc.gov. #####
+##### § 388.106 Requests for Commission records available from the Commission's website, https://www.ferc.gov. #####
 
-Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
+(a) Publicly available documents may be obtained electronically from the Commission's website, *https://www.ferc.gov,* or by requesting them from the *public.referenceroom@ferc.gov* by reasonably describing the records sought. Additional information on charges and services is available on the website.
 
-(a)(1) A Public Reference Room is maintained at the Commission's headquarters and is open during regular business hours as provided in § 375.101(c) of this chapter. Publicly available documents may be obtained in person or in writing from the Public Reference Room by reasonably describing the records sought. Additional information on charges and services is available on the Web site and in the Public Reference Room.
-
-(2) Documents created by or received by FERC on or after November 1981 also are available on the Commission's Web site through its document management system. These may also be accessed in person using a personal computer in the Public Reference Room.
-
-(b) The public records of the Commission that are available for inspection and copying upon request in the Public Reference Room, or are otherwise available under paragraph (a)(2) of this section, include:
+(b) The public records of the Commission that are available for inspection and copying upon request via the Commission's website, include:
 
 (1) Applications, declarations, complaints, petitions, and other papers seeking Commission action;
 
@@ -74,4 +70,4 @@ The *formal record* does not include proposed testimony or exhibits not offered 
 
 (3) *Matter or proceeding* means the Commission's elucidation of the relevant facts and applicable law, consideration thereof, and action thereupon with respect to a particular subject within the Commission's jurisdiction, initiated by a filing or submittal or a Commission notice or order.
 
-[Order 488, 53 FR 1473, Jan. 20, 1988, as amended by Order 597, 63 FR 5453, Feb. 3, 1998; Order 647, 69 FR 32440, June 10, 2004; Order 832, 81 FR 86575, Dec. 1, 2016]
+[Order 488, 53 FR 1473, Jan. 20, 1988, as amended by Order 597, 63 FR 5453, Feb. 3, 1998; Order 647, 69 FR 32440, June 10, 2004; Order 832, 81 FR 86575, Dec. 1, 2016; Order 899, 88 FR 74033, Oct. 30, 2023]

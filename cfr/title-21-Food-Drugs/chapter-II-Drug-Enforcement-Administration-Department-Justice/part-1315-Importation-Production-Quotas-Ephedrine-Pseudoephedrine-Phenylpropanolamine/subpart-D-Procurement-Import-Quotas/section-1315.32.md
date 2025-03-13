@@ -1,8 +1,7 @@
 ##### § 1315.32 Obtaining a procurement quota. #####
 
-Link to an amendment published at 88 FR 60144, Aug. 31, 2023.
-
-(a) Any person who is registered to manufacture ephedrine, pseudoephedrine, or phenylpropanolamine, or whose requirement of registration is waived pursuant to § 1309.24 of this chapter, and who desires to use during the next calendar year any ephedrine, pseudoephedrine, or phenylpropanolamine for purposes of manufacturing (including repackaging or relabeling), must apply on DEA Form 250 for a procurement quota for the chemical. A separate application must be made for each chemical desired to be procured or used.
+(a) Any person who is registered to manufacture ephedrine, pseudoephedrine, or phenylpropanolamine, or whose requirement of registration is waived pursuant to § 1309.24 of this chapter, and who desires to use during the next calendar year any ephedrine, pseudoephedrine, or phenylpropanolamine for purposes of manufacturing (including repackaging or relabeling), must apply on DEA Form 250 for a procurement quota for the chemical and shall state separately for each subcategory, as defined in 21 CFR 1315.07, each quantity of such chemical.
+A separate application must be made for each chemical desired to be procured or used.
 
 (b) The applicant must state separately all of the following:
 
@@ -18,7 +17,7 @@ Link to an amendment published at 88 FR 60144, Aug. 31, 2023.
 
 (e) DEA Form 250 must be filed on or before April 1 of the year preceding the calendar year for which the procurement quota is being applied. Copies of DEA Form 250 may be obtained from the Office of Diversion Control Web site, and must be filed with the UN Reporting & Quota Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 
-(f) The Administrator shall, on or before July 1 of the year preceding the calendar year during which the quota shall be effective, issue to each qualified applicant a procurement quota authorizing him to procure and use:
+(f) The Administrator shall, on or before December 1 of the year preceding the calendar year during which the quota shall be effective, issue to each qualified applicant a procurement quota authorizing him to procure and use:
 
 (1) All quantities of the chemical necessary to manufacture products that the applicant is authorized to manufacture pursuant to § 1315.23; and
 
@@ -26,7 +25,7 @@ Link to an amendment published at 88 FR 60144, Aug. 31, 2023.
 
 (g) Any person to whom a procurement quota has been issued may at any time request an adjustment in the quota by applying to the Administrator with a statement showing the need for the adjustment. The application must be filed with the UN Reporting & Quota Section, Diversion Control Division, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. The Administrator shall increase or decrease the procurement quota of the person if and to the extent that he finds, after considering the factors enumerated in paragraph (f) of this section and any occurrences since the issuance of the procurement quota, that the need justifies an adjustment.
 
-(h) Any person to whom a procurement quota has been issued, authorizing that person to procure and use a quantity of ephedrine, pseudoephedrine, or phenylpropanolamine during the current calendar year, must, at or before the time of placing an order with another manufacturer or importer requiring the distribution of a quantity of the chemical, certify in writing to the other registrant that the quantity of ephedrine, pseudoephedrine, or phenylpropanolamine ordered does not exceed the person's unused and available procurement quota of the chemical for the current calendar year. The written certification must be executed by a person authorized to sign the registration application pursuant to § 1301.13 or § 1309.32(g) of this chapter or by a person granted power of attorney under § 1315.33 to sign the certifications. A copy of such certification must be retained by the person procuring the quantity of ephedrine, pseudoephedrine, or phenylpropanolamine for two years from the date of the certification. Registrants must not fill an order from persons required to apply for a procurement quota under paragraph (b) of this section unless the order is accompanied by a certification as required under this section.
+(h) Any person to whom a procurement quota has been issued, authorizing that person to procure and use a quantity of ephedrine, pseudoephedrine, or phenylpropanolamine during the current calendar year, must, at or before the time of placing an order with another registrant requiring the distribution of a quantity of the chemical, certify in writing to the other registrant that the quantity of ephedrine, pseudoephedrine, or phenylpropanolamine ordered does not exceed the person's unused and available procurement quota of the chemical for the current calendar year. The written certification must be executed by a person authorized to sign the registration application pursuant to § 1301.13 or § 1309.32(g) of this chapter or by a person granted power of attorney under § 1315.33 to sign the certifications. A copy of such certification must be retained by the person procuring the quantity of ephedrine, pseudoephedrine, or phenylpropanolamine for two years from the date of the certification. Registrants must not fill an order from persons required to apply for a procurement quota under paragraph (b) of this section unless the order is accompanied by a certification as required under this section.
 
 (i) The certification required by paragraph (h) of this section must contain all of the following:
 
@@ -44,4 +43,4 @@ Link to an amendment published at 88 FR 60144, Aug. 31, 2023.
 
 (7) The signature of the individual authorized to sign a certification as provided in paragraph (h) of this section.
 
-[72 FR 37448, July 10, 2007, as amended at 73 FR 73555, Dec. 3, 2008; 75 FR 10684, Mar. 9, 2010]
+[72 FR 37448, July 10, 2007, as amended at 73 FR 73555, Dec. 3, 2008; 75 FR 10684, Mar. 9, 2010; 88 FR 60144, Aug. 31, 2023]

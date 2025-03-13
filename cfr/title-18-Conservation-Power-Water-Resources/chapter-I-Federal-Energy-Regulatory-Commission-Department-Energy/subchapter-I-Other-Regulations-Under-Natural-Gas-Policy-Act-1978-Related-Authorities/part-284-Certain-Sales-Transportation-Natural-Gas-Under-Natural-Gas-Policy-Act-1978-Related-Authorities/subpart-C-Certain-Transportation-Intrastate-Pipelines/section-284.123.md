@@ -1,7 +1,5 @@
 ##### § 284.123 Rates and charges. #####
 
-Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
-
 (a) *General rule.* Rates and charges for transportation of natural gas authorized under § 284.122(a) shall be fair and equitable as determined in accordance with paragraph (b) of this section.
 
 (b) *Election of rates.* (1) Subject to the conditions in §§ 284.7 and 284.9 of this chapter, an intrastate pipeline may elect to:
@@ -46,7 +44,7 @@ Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
 
 (iii) All signatures on the filing or any document included in the filing must comply, where applicable, with the requirements in § 385.2005 of this chapter with respect to sworn declarations or statements and electronic signatures.
 
-(3) *Format requirements for electronic filing.* The requirements and formats for electronic filing are listed in instructions for electronic filing and for each form. These formats are available on the Internet at *http://www.ferc.gov* and can be obtained at the Federal Energy Regulatory Commission, Public Reference Room, 888 First Street, NE., Washington, DC 20426.
+(3) *Format requirements for electronic filing.* The requirements and formats for electronic filing are listed in instructions for electronic filing and for each form. These formats are available through the Commission's website, *https://www.ferc.gov.*
 
 (g) *Election of Notice Procedures*—(1) *Applicability.* An intrastate pipeline filing for approval of rates, a statement of operating conditions, and any amendments or modifications thereto pursuant to this section may use the notice procedures in this paragraph. Any intrastate pipeline electing to use these notice procedures for a filing must clearly state its election to use these procedures in the filing. Such filing is approved and the rates deemed fair and equitable and not in excess of the amount that an interstate pipeline would be permitted to charge for similar transportation service if the requirements in paragraph (g)(8) of this section have been fulfilled.
 
@@ -84,4 +82,4 @@ Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
 
 (2) The withdrawal motion will become effective, and the filing will be deemed withdrawn at the end of 15 days from the date of filing of the withdrawal motion, if no order disallowing the motion is issued within that period. If an answer in opposition is filed within the 15-day period, the withdrawal is not effective until an order accepting the withdrawal is issued.
 
-[44 FR 52184, Sept. 7, 1979, as amended at 44 FR 66791, Nov. 21, 1979; Order 394, 49 FR 35364, Sept. 7, 1984; Order 436, 50 FR 42496, Oct. 18, 1985; 50 FR 52276, Dec. 23, 1985; Order 581, 60 FR 53073, Oct. 11, 1995; Order 714, 73 FR 57535, Oct. 3, 2008; Order 781, 78 FR 45862, July 30, 2013; Order 849, 83 FR 36715, July 30, 2018; Order 849-B, 86 FR 29506, June 2, 2021]
+[44 FR 52184, Sept. 7, 1979, as amended at 44 FR 66791, Nov. 21, 1979; Order 394, 49 FR 35364, Sept. 7, 1984; Order 436, 50 FR 42496, Oct. 18, 1985; 50 FR 52276, Dec. 23, 1985; Order 581, 60 FR 53073, Oct. 11, 1995; Order 714, 73 FR 57535, Oct. 3, 2008; Order 781, 78 FR 45862, July 30, 2013; Order 849, 83 FR 36715, July 30, 2018; Order 849-B, 86 FR 29506, June 2, 2021; Order 899, 88 FR 74031, Oct. 30, 2023]
