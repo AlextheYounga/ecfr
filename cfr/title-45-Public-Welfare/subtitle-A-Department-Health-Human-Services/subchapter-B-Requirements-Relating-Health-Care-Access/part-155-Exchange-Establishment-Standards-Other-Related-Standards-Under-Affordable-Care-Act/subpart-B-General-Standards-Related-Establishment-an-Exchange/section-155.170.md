@@ -1,5 +1,7 @@
 ##### § 155.170 Additional required benefits. #####
 
+Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
+
 (a) *Additional required benefits.* (1) A State may require a QHP to offer benefits in addition to the essential health benefits.
 
 (2) A benefit required by State action taking place on or before December 31, 2011 is considered an EHB. A benefit required by State action taking place on or after January 1, 2012, other than for purposes of compliance with Federal requirements, is considered in addition to the essential health benefits.

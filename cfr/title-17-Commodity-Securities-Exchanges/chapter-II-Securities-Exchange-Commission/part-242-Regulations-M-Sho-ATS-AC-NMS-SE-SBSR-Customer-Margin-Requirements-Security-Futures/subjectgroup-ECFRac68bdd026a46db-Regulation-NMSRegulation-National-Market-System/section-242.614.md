@@ -1,5 +1,7 @@
 ##### § 242.614 Registration and responsibilities of competing consolidators. #####
 
+Link to an amendment published at 89 FR 26617, Apr. 15, 2024.
+
 (a) *Competing consolidator registration*—(1) *Initial Form CC*—(i) *Filing and effectiveness requirement.* No person, other than a national securities exchange or a national securities association:
 
 (A) May receive directly, pursuant to an effective national market system plan, from a national securities exchange or national securities association information with respect to quotations for and transactions in NMS stocks; and

@@ -1,5 +1,7 @@
 ##### § 156.115 Provision of EHB. #####
 
+Link to an amendment published at 89 FR 26425, Apr. 15, 2024.
+
 (a) Provision of EHB means that a health plan provides benefits that—
 
 (1) Are substantially equal to the EHB-benchmark plan including:

@@ -1,5 +1,7 @@
 ##### § 155.1312 State public notice requirements. #####
 
+Link to an amendment published at 89 FR 26424, Apr. 15, 2024.
+
 (a) *General.* (1) Prior to submitting an application for a new section 1332 waiver to the Secretary for review and consideration, a State must provide a public notice and comment period sufficient to ensure a meaningful level of public input for the application for a section 1332 waiver.
 
 (2) Such public notice and comment period shall include, for a State with one or more Federally-recognized Indian tribes within its borders, a separate process for meaningful consultation with such tribes.

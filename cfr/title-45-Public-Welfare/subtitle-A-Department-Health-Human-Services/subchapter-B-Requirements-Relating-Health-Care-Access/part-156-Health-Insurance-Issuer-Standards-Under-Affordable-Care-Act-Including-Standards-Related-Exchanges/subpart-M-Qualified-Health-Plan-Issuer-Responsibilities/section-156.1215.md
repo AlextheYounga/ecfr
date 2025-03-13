@@ -1,5 +1,7 @@
 ##### § 156.1215 Payment and collections processes. #####
 
+Link to an amendment published at 89 FR 26426, Apr. 15, 2024.
+
 (a) *Netting of payments and charges for 2014.* In 2014, as part of its monthly payment and collections process, HHS will net payments owed to QHP issuers and their affiliates under the same taxpayer identification number against amounts due to the Federal government from the QHP issuers and their affiliates under the same taxpayer identification number for advance payments of the premium tax credit, advance payments of cost-sharing reductions, and payment of Federally-facilitated Exchange user fees.
 
 (b) *Netting of payments and charges for later years.* As part of its payment and collections process, HHS may net payments owed to issuers and their affiliates operating under the same tax identification number against amounts due to the Federal government from the issuers and their affiliates under the same taxpayer identification number for advance payments of the premium tax credit, advance payments of and reconciliation of cost-sharing reductions, payment of Federally-facilitated Exchange user fees, payment of State Exchanges utilizing the Federal platform user fees, and risk adjustment, reinsurance, and risk corridors payments and charges.

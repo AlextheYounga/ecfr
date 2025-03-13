@@ -1,5 +1,7 @@
 ##### § 155.320 Verification process related to eligibility for insurance affordability programs. #####
 
+Link to an amendment published at 89 FR 26421, Apr. 15, 2024.
+
 (a) *General requirements.* (1) The Exchange must verify information in accordance with this section only for an applicant or tax filer who requested an eligibility determination for insurance affordability programs in accordance with § 155.310(b).
 
 (2) Unless a request for modification is granted in accordance with § 155.315(h), the Exchange must verify or obtain information in accordance with this section before making an eligibility determination for insurance affordability programs, and must use such information in such determination.

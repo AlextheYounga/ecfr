@@ -1,5 +1,7 @@
 ##### § 155.1320 Monitoring and compliance. #####
 
+Link to an amendment published at 89 FR 26424, Apr. 15, 2024.
+
 (a) *General.* (1) Following the issuance of a final decision to approve a section 1332 waiver by the Secretary and the Secretary of the Treasury, as applicable, a State must comply with all applicable Federal laws and regulations, unless expressly waived. A State must, within the timeframes specified in law and regulation come into compliance with any changes in Federal law and regulation affecting section 1332 waivers, unless the provision being changed is expressly waived.
 
 (2) The Secretary and the Secretary of the Treasury will examine compliance with Federal and regulatory requirements consistent with § 155.1308(f)(3)(iv) when conducting implementation reviews under paragraph (b) of this section.

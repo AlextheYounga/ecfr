@@ -1,5 +1,7 @@
 ##### § 240.3a51-1 Definition of “penny stock”. #####
 
+Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
+
 For purposes of section 3(a)(51) of the Act, the term “penny stock” shall mean any equity security other than a security:
 
 (a) That is an NMS stock, as defined in § 242.600(b)(55) of this chapter, provided that:

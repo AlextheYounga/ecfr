@@ -1,5 +1,7 @@
 ##### § 156.202 Non-standardized plan option limits. #####
 
+Link to an amendment published at 89 FR 26425, Apr. 15, 2024.
+
 A QHP issuer in a Federally-facilitated Exchange or a State-based Exchange on the Federal platform:
 
 (a) For plan year 2024, is limited to offering four non-standardized plan options per product network type, as the term is described in the definition of “product” at § 144.103 of this subchapter, metal level (excluding catastrophic plans), and inclusion of dental and/or vision benefit coverage (as defined in paragraph (c) of this section), in any service area.

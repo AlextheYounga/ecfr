@@ -1,5 +1,7 @@
 ##### § 600.320 Determination of eligibility for and enrollment in a standard health plan. #####
 
+Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
+
 (a) Determining eligibility to enroll in a standard health plan may be performed by a State or through delegation to a local governmental entity, including a governmental entity that determines eligibility for Medicaid or CHIP, and may be delegated by the State to an Exchange that is a government agency.
 
 (b) *Timely determinations.* The terms of 42 CFR 435.912 (relating to timely determinations of eligibility under the Medicaid program) apply to eligibility determinations for enrollment in a standard health plan exclusive of § 435.912(c)(3)(i). The standards established by the State must be included in the BHP Blueprint.

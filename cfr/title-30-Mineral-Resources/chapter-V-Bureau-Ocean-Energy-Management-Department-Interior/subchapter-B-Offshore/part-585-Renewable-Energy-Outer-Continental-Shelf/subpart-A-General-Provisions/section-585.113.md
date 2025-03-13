@@ -72,8 +72,6 @@ Terms used in this part have the meanings as defined in this section:
 
 *Outer Continental Shelf* (OCS) means all submerged lands lying seaward and outside of the area of lands beneath navigable waters as defined in the Submerged Lands Act (43 U.S.C. 1301) and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control or within the exclusive economic zone of the United States and adjacent to any territory of the United States; and does not include any area conveyed by Congress to a territorial government for administration.
 
-*Outer Continental Shelf (OCS)* means all submerged lands lying seaward and outside of the area of lands beneath navigable waters, as defined in section 2 of the Submerged Lands Act (43 U.S.C. 1301), whose subsoil and seabed appertain to the United States and are subject to its jurisdiction and control.
-
 *Person* means, in addition to a natural person, an association (including partnerships and joint ventures); a Federal agency; a State; a political subdivision of a State; a Native American Tribal government; or a private, public, or municipal corporation.
 
 *Project,* for the purposes of defining the source of revenues to be shared, means a lease ROW, RUE, or Alternate Use RUE on which the activities authorized under this part and/or 30 CFR part 285 or 586 are conducted on the OCS. The term “project” may be used elsewhere in this rule to refer to these same authorized activities, the facilities used to conduct these activities, or to the geographic area of the project, *i.e.,* the project area.

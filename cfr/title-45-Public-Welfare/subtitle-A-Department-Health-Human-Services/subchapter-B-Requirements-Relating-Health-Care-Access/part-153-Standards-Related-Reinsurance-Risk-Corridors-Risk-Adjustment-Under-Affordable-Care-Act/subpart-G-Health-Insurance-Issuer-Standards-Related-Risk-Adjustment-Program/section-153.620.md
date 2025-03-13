@@ -1,5 +1,7 @@
 ##### § 153.620 Compliance with risk adjustment standards. #####
 
+Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
+
 (a) *Issuer support of data validation.* An issuer that offers risk adjustment covered plans must comply with any data validation requests by the State or HHS on behalf of the State.
 
 (b) *Issuer records maintenance requirements.* An issuer that offers risk adjustment covered plans must also maintain documents and records, whether paper, electronic, or in other media, sufficient to enable the evaluation of the issuer's compliance with applicable risk adjustment standards, for each benefit year for at least 10 years, and must make those documents and records available upon request to HHS, the OIG, the Comptroller General, or their designees, or in a State where the State is operating risk adjustment, the State or its designee to any such entity, for purposes of verification, investigation, audit or other review.

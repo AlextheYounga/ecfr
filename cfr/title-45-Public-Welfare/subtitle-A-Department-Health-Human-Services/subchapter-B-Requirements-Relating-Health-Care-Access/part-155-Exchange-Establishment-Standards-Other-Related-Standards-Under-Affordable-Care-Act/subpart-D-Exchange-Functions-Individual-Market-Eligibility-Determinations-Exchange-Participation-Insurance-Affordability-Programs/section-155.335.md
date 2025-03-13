@@ -1,5 +1,7 @@
 ##### § 155.335 Annual eligibility redetermination. #####
 
+Link to an amendment published at 89 FR 26422, Apr. 15, 2024.
+
 (a) *General requirement.* (1) Except as specified in paragraphs (l) and (m) of this section, the Exchange must redetermine the eligibility of a qualified individual on an annual basis.
 
 (2) The Exchange must conduct annual redeterminations required under paragraph (a)(1) of this section using one of the following:

@@ -1,5 +1,7 @@
 ##### § 242.204 Close-out requirement. #####
 
+Link to an amendment published at 89 FR 26608, Apr. 15, 2024.
+
 (a) A participant of a registered clearing agency must deliver securities to a registered clearing agency for clearance and settlement on a long or short sale in any equity security by settlement date, or if a participant of a registered clearing agency has a fail to deliver position at a registered clearing agency in any equity security for a long or short sale transaction in that equity security, the participant shall, by no later than the beginning of regular trading hours on the settlement day following the settlement date, immediately close out its fail to deliver position by borrowing or purchasing securities of like kind and quantity; *Provided, however:*
 
 (1) If a participant of a registered clearing agency has a fail to deliver position at a registered clearing agency in any equity security and the participant can demonstrate on its books and records that such fail to deliver position resulted from a long sale, the participant shall by no later than the beginning of regular trading hours on the third consecutive settlement day following the settlement date, immediately close out the fail to deliver position by purchasing or borrowing securities of like kind and quantity;

@@ -1,5 +1,7 @@
 ##### § 156.520 Loan terms. #####
 
+Link to an amendment published at 89 FR 26426, Apr. 15, 2024.
+
 (a) *Overview of Loans.* Applicants may apply for the following loans under this section: Start-up Loans and Solvency Loans.
 
 (1) *Use of loans.* All loans awarded under this subpart must be used in a manner that is consistent with the FOA, the loan agreement, and all other statutory, regulatory, or other requirements.

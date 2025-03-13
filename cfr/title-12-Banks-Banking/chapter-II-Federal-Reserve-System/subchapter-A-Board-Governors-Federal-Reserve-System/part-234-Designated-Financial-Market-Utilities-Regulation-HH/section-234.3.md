@@ -1,6 +1,4 @@
-##### § 234.3 Standards for payment systems. #####
-
-Link to an amendment published at 89 FR 18766, Mar. 15, 2024.
+##### § 234.3 Standards for designated financial market utilities. #####
 
 (a) A designated financial market utility must implement rules, procedures, or operations designed to ensure that it meets or exceeds the following risk-management standards with respect to its payment, clearing, and settlement activities.
 
@@ -40,7 +38,7 @@ Link to an amendment published at 89 FR 18766, Mar. 15, 2024.
 
 (i) Risk-management policies, procedures, and systems that enable the designated financial market utility to identify, measure, monitor, and manage the risks that arise in or are borne by the designated financial market utility, including those posed by other entities as a result of interdependencies;
 
-(ii) Risk-management policies, procedures, and systems that enable the designated financial market utility to identify, measure, monitor, and manage the material risks that it poses to other entities, such as other financial market utilities, settlement banks, liquidity providers, or service providers, as a result of interdependencies; and
+(ii) Risk-management policies, procedures, and systems that enable the designated financial market utility to identify, measure, monitor, and manage the material risks that it poses to other entities, such as other financial market utilities, trade repositories, settlement banks, liquidity providers, or service providers, as a result of interdependencies; and
 
 (iii) Integrated plans for the designated financial market utility's recovery and orderly wind-down that—
 
@@ -56,7 +54,7 @@ Link to an amendment published at 89 FR 18766, Mar. 15, 2024.
 
 (F) Include procedures for informing the Board, as soon as practicable, if the designated financial market utility is considering initiating recovery or orderly wind-down; and
 
-(G) Are reviewed the earlier of every two years or following changes to the system or the environment in which the designated financial market utility operates that would significantly affect the viability or execution of the plans.
+(G) Are reviewed the earlier of every two years or after changes to the system or the environment in which the designated financial market utility operates that would significantly affect the viability or execution of the plans.
 
 (4) *Credit risk.* The designated financial market utility effectively measures, monitors, and manages its credit exposures to participants and those arising from its payment, clearing, and settlement processes. In this regard, the designated financial market utility maintains sufficient financial resources to cover its credit exposure to each participant fully with a high degree of confidence. In addition, the designated financial market utility—
 
@@ -222,27 +220,73 @@ Link to an amendment published at 89 FR 18766, Mar. 15, 2024.
 
 (17) *Operational risk.* The designated financial market utility manages its operational risks by establishing a robust operational risk-management framework that is approved by the board of directors. In this regard, the designated financial market utility—
 
-(i) Identifies the plausible sources of operational risk, both internal and external, and mitigates their impact through the use of appropriate systems, policies, procedures, and controls that are reviewed, audited, and tested periodically and after major changes;
+(i) Identifies the plausible sources of operational risk, both internal and external, and mitigates their impact through the use of appropriate systems, policies, procedures, and controls—including those specific systems, policies, procedures, or controls required pursuant to this paragraph (a)(17)—that are reviewed, audited, and tested periodically and after major changes such that—
 
-(ii) Identifies, monitors, and manages the risks its operations might pose to other financial market utilities and trade repositories, if any;
+(A) The designated financial market utility conducts tests—
 
-(iii) Has policies and systems that are designed to achieve clearly defined objectives to ensure a high degree of security and operational reliability;
+(*1*) In accordance with a documented testing framework that addresses, at a minimum, scope, frequency, participation, interdependencies, and reporting; and
+
+(*2*) That assess whether the designated financial market utility's systems, policies, procedures, or controls function as intended;
+
+(B) The designated financial market utility reviews the design, implementation, and testing of affected and similar systems, policies, procedures, and controls, after material operational incidents, including the material operational incidents described in paragraph (a)(17)(vi)(A) of this section, or after changes to the environment in which the designated financial market utility operates that could significantly affect the plausible sources or mitigants of operational risk; and
+
+(C) The designated financial market utility remediates as soon as possible, following established governance processes, deficiencies in systems, policies, procedures, or controls identified in the process of review or testing;
+
+(ii) Identifies, monitors, and manages the risks its operations might pose to other entities such as those referenced in paragraph (a)(3)(ii) of this section;
+
+(iii) Has systems, policies, procedures, and controls that are designed to achieve clearly defined objectives to ensure a high degree of security and operational reliability;
 
 (iv) Has systems that have adequate, scalable capacity to handle increasing stress volumes and achieve the designated financial market utility's service-level objectives;
 
-(v) Has comprehensive physical, information, and cyber security policies, procedures, and controls that address potential and evolving vulnerabilities and threats;
+(v) Has comprehensive physical, information, and cyber security policies, procedures, and controls that enable the designated financial market utility to identify, monitor, and manage potential and evolving vulnerabilities and threats;
 
-(vi) Has business continuity management that provides for rapid recovery and timely resumption of critical operations and fulfillment of its obligations, including in the event of a wide-scale disruption or a major disruption; and
+(vi) Has a documented framework for incident management that provides for the prompt detection, analysis, and escalation of an incident, appropriate procedures for addressing an incident, and incorporation of lessons learned following an incident. This framework includes a plan for notification and communication of material operational incidents to identified relevant entities that ensures the designated financial market utility—
 
-(vii) Has a business continuity plan that—
+(A) Immediately notifies the Board, in accordance with the process established by the Board, when the designated financial market utility activates its business continuity plan or has a reasonable basis to conclude that—
 
-(A) Incorporates the use of a secondary site that is located at a sufficient geographical distance from the primary site to have a distinct risk profile;
+(*1*) There is an actual or likely disruption, or material degradation, to any critical operations or services, or to its ability to fulfill its obligations on time; or
 
-(B) Is designed to enable critical systems, including information technology systems, to recover and resume operations no later than two hours following disruptive events;
+(*2*) There is unauthorized entry or a vulnerability that could allow unauthorized entry into the designated financial market utility's computer, network, electronic, technical, automated, or similar systems that affects or has the potential to affect its critical operations or services; and
 
-(C) Is designed to enable it to complete settlement by the end of the day of the disruption, even in case of extreme circumstances; and
+(B) Establishes criteria and processes providing for timely communication and responsible disclosure of material operational incidents to the designated financial market utility's participants and other relevant entities, such that—
 
-(D) Is tested at least annually.
+(*1*) Affected participants are notified immediately of actual disruptions or material degradations to any critical operations or services, or to the designated financial market utility's ability to fulfill its obligations on time; and
+
+(*2*) Participants and other relevant entities, as identified in the designated financial market utility's plan for notification and communication, are notified in a timely manner of material operational incidents described in paragraph (a)(17)(vi)(A) of this section, as appropriate, taking into account the risks and benefits of the disclosure to the designated financial market utility and such participants and other relevant entities;
+
+(vii) Has business continuity management that provides for rapid recovery and timely resumption of critical operations and services and fulfillment of its obligations, including in the event of a wide-scale disruption or a major disruption;
+
+(viii) Has a business continuity plan that—
+
+(A) Incorporates the use of two sites providing for sufficient redundancy supporting critical operations that are located at a sufficient geographical distance from each other to have a distinct risk profile;
+
+(B) Is designed to enable critical systems, including information technology systems, to recover and resume critical operations and services no later than two hours following disruptive events;
+
+(C) Is designed to enable it to complete settlement by the end of the day of the disruption, even in case of extreme circumstances;
+
+(D) Sets out criteria and processes by which the designated financial market utility will reestablish availability for affected participants and other entities following a disruption to the designated financial market utility's critical operations or services;
+
+(E) Provides for testing, pursuant to the requirements under paragraphs (a)(17)(i)(A) and (C) of this section, at least annually, of the designated financial market utility's business continuity arrangements, including the people, processes, and technologies of the sites required under paragraph (a)(17)(viii)(A) of this section, such that—
+
+(*1*) The designated financial market utility can demonstrate that it can run live production at the sites required under paragraph (a)(17)(viii)(A) of this section;
+
+(*2*) The designated financial market utility assesses the capability of its systems and effectiveness of its procedures for data recovery and data reconciliation to meet the recovery and resumption objectives under paragraphs (a)(17)(viii)(B) and (C) of this section, even in case of extreme circumstances, including in the event of data loss or data corruption; and
+
+(*3*) The designated financial market utility can demonstrate that it has geographically dispersed staff who can effectively run the operations and manage the business of the designated financial market utility; and
+
+(F) Is reviewed, pursuant to the requirements under paragraphs (a)(17)(i)(B) and (C) of this section, at least annually, in order to—
+
+(*1*) Incorporate lessons learned from actual and averted disruptions; and
+
+(*2*) Update scenarios and assumptions in order to ensure responsiveness to the evolving risk environment and incorporate new and evolving sources of operational risk; and
+
+(ix) Has systems, policies, procedures, and controls that effectively identify, monitor, and manage risks associated with third-party relationships, and that ensure that, for any service that is performed for the designated financial market utility by a third party, risks are identified, monitored, and managed to the same extent as if the designated financial market utility were performing the service itself. In this regard, the designated financial market utility—
+
+(A) Regularly conducts risk assessments of third parties;
+
+(B) Establishes information-sharing arrangements, as appropriate, with third parties that provide services material to any of the designated financial market utility's critical operations or services; and
+
+(C) Addresses in its business continuity management and testing, as appropriate, third parties that provide services material to any of the designated financial market utility's critical operations or services.
 
 (18) *Access and participation requirements.* The designated financial market utility has objective, risk-based, and publicly disclosed criteria for participation, which permit fair and open access. The designated financial market utility—
 
@@ -304,8 +348,8 @@ Link to an amendment published at 89 FR 18766, Mar. 15, 2024.
 
 (E) *List of publicly available resources.* A list of publicly available resources, including those referenced in the disclosure, that may help a reader understand how the designated financial market utility controls its risks and addresses the requirements set forth in this paragraph (a); and
 
-(v) Updates the public disclosure under paragraph (a)(23)(iv) of this section the earlier of every two years or following changes to its system or the environment in which it operates that would significantly change the accuracy of the statements provided under paragraph (a)(23)(iv) of this section.
+(v) Updates the public disclosure under paragraph (a)(23)(iv) of this section the earlier of every two years or to reflect changes to its system or the environment in which it operates that would significantly change the accuracy of the statements provided under paragraph (a)(23)(iv) of this section.
 
 (b) The Board, by order, may apply heightened risk-management standards to a particular designated financial market utility in accordance with the risks presented by that designated financial market utility. The Board, by order, may waive the application of a standard or standards to a particular designated financial market utility where the risks presented by or the design of that designated financial market utility would make the application of the standard or standards inappropriate.
 
-[77 FR 45919, Aug. 2, 2012, as amended at 79 FR 65558, Nov. 5, 2014]
+[77 FR 45919, Aug. 2, 2012, as amended at 79 FR 65558, Nov. 5, 2014; Reg. HH, 89 FR 18766, Mar. 15, 2024]

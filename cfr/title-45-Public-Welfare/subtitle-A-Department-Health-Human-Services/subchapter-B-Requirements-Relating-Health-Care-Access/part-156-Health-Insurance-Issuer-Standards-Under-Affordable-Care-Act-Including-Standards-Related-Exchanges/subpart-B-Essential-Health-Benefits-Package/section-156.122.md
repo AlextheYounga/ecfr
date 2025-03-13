@@ -1,5 +1,7 @@
 ##### § 156.122 Prescription drug benefits. #####
 
+Link to an amendment published at 89 FR 26425, Apr. 15, 2024.
+
 (a) A health plan does not provide essential health benefits unless it:
 
 (1) Subject to the exception in paragraph (b) of this section, covers at least the greater of:

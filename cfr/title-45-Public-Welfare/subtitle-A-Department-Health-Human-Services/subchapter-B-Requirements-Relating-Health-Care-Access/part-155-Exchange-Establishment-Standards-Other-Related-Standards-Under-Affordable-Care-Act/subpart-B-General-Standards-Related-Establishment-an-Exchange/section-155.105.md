@@ -1,5 +1,7 @@
 ##### § 155.105 Approval of a State Exchange. #####
 
+Link to an amendment published at 89 FR 26419, Apr. 15, 2024.
+
 (a) *State Exchange approval requirement.* Each State Exchange must be approved by HHS by no later than January 1, 2013 to offer QHPs on January 1, 2014, and thereafter required in accordance with § 155.106. HHS may consult with other Federal Government agencies in determining whether to approve an Exchange.
 
 (b) *State Exchange approval standards.* HHS will approve the operation of an Exchange established by a State provided that it meets the following standards:

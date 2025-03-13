@@ -1,5 +1,7 @@
 ##### § 242.611 Order protection rule. #####
 
+Link to an amendment published at 89 FR 26616, Apr. 15, 2024.
+
 (a) *Reasonable policies and procedures.* (1) A trading center shall establish, maintain, and enforce written policies and procedures that are reasonably designed to prevent trade-throughs on that trading center of protected quotations in NMS stocks that do not fall within an exception set forth in paragraph (b) of this section and, if relying on such an exception, that are reasonably designed to assure compliance with the terms of the exception.
 
 (2) A trading center shall regularly surveil to ascertain the effectiveness of the policies and procedures required by paragraph (a)(1) of this section and shall take prompt action to remedy deficiencies in such policies and procedures.

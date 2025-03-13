@@ -46,7 +46,25 @@
 
 (1) The total principal obligation for a loan to purchase a new manufactured home and a lot on which to place the home shall not exceed the sum of the following itemized amounts, up to a maximum set according to an index established by HUD in paragraph (h)(3) of this section and updated through notice which shall establish separate loan limits for single-section homes and multi-section homes:
 
+(i) 130 percent of the sum of the wholesale (base) prices of the home and any itemized options and the charge for freight, as detailed in the manufacturer's invoice;
+
+(ii) The charge for any sales taxes to be paid by the dealer, as detailed in the manufacturer's invoice;
+
+(iii) The actual dealer's cost of transportation to the homesite, set-up and anchoring, including the rental of wheels and axles (if not included in the freight charge);
+
+(iv) The actual dealer's cost of purchasing and installing a central air conditioning system or heat pump, if not installed by the manufacturer;
+
+(v) The appraised value of the developed manufactured home lot (as determined by a HUD-approved appraisal, including on-site water and utility connections, sanitary facilities, site improvements and landscaping) or the purchase price, whichever is less;
+
+(vi) The actual dealer's cost of appurtenances to the home such as a permanent foundation, garage, carport or patio; and
+
+(vii) Any applicable charges authorized at § 201.25(b).
+
 (2) The total principal obligation for a Combination Loan, to purchase an existing manufactured home and lot, shall not exceed the lesser of the following amounts, up to a maximum set according to an index established by HUD in paragraph (h)(3) of this section and updated through notice which shall establish separate loan limits for single-section homes and multi-section homes:
+
+(i) 95 percent of the total appraised value of the home, the lot, and any appurtenances (as determined by a HUD-approved appraisal), plus 95 percent of any applicable charges authorized at § 201.25(b); or
+
+(ii) 95 percent of the purchase price of the home, the lot, and any appurtenances.
 
 (3) The purchase price of a manufactured home and a lot financed with a combination loan shall include the retail cost to the borrower of all items set forth in the purchase contract or contracts, including any applicable charges authorized under § 201.25(b).
 
@@ -78,4 +96,4 @@
 
 (3) In paragraphs (d)(1) and (2) of this section, the combination manufactured home and lot loan limits shall be increased to be the sum of the applicable loan limit for the manufactured home loan in paragraph (b)(1) and the lot loan limit in paragraph (c) of this section, except that the loan limit shall not be lowered.
 
-[50 FR 43523, Oct. 25, 1985, as amended at 52 FR 33406, Sept. 3, 1987; 53 FR 8880, Mar. 18, 1988; 54 FR 10537, Mar. 14, 1989; 54 FR 36264, Aug. 31, 1989; 56 FR 52429, Oct. 18, 1991; 57 FR 45246, Sept. 30, 1992; 58 FR 41001, July 30, 1993; 59 FR 9084, Feb. 25, 1994; 61 FR 19796, May 2, 1996; 62 FR 20082, Apr. 24, 1997; 89 FR 14587, Feb. 28, 2024]
+[50 FR 43523, Oct. 25, 1985, as amended at 52 FR 33406, Sept. 3, 1987; 53 FR 8880, Mar. 18, 1988; 54 FR 10537, Mar. 14, 1989; 54 FR 36264, Aug. 31, 1989; 56 FR 52429, Oct. 18, 1991; 57 FR 45246, Sept. 30, 1992; 58 FR 41001, July 30, 1993; 59 FR 9084, Feb. 25, 1994; 61 FR 19796, May 2, 1996; 62 FR 20082, Apr. 24, 1997; 89 FR 14587, Feb. 28, 2024; 89 FR 26105, Apr. 15, 2024]
