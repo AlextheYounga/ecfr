@@ -1,5 +1,7 @@
 ##### § 52.1852 Grades of raisins with seeds—except layer or cluster. #####
 
+Link to an amendment published at 88 FR 71461, Oct. 17, 2023.
+
 (a) “U.S. Grade A” is the quality of Raisins with Seeds that have similar varietal characteristics; that have a good typical color with not more than 10 percent, by weight, that may be dark reddish-brown berries; that have a good characteristic flavor; that show development characteristics of raisins prepared from well-matured grapes; with not less than 80 percent, by weight, of raisins that are well-matured or reasonably well-matured; that contain not more than 18 percent, by weight, of moisture, except that any seeded raisins may contain not more than 19 percent, by weight, of moisture; and meet the additional requirements as outlined in Table II of this subpart.
 
 (b) “U.S. Grade B” is the quality of Raisins with Seeds that have similar varietal characteristics; that have a reasonably good typical color with not more than 15 percent, by weight, that may be dark reddish-brown berries; that have a good characteristic flavor; that show development characteristics of raisins prepared from reasonably well-matured grapes; with not less than 70 percent, by weight, of raisins that are well-matured or reasonably well matured; that contain not more than 18 percent, by weight, of moisture, except that any seeded raisins may contain not more than 19 percent, by weight, of moisture; and meet the additional requirements as outlined in Table II of this subpart.

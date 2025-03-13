@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 88 FR 51217, Aug. 3, 2023.Link to an amendment published at 88 FR 67934, Oct. 3, 2023.
+Link to an amendment published at 88 FR 67934, Oct. 3, 2023.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -244,35 +244,37 @@ Renewed Certificate Expiration Date: April 19, 2060.
 
 Model Number: TN-32, TN-32A, TN-32B.
 
-Certificate Number: 1025.
+*Certificate Number:* 1025.
 
-Initial Certificate Effective Date: April 10, 2000.
+*Initial Certificate Effective Date:* April 10, 2000, superseded by Renewed Initial Certificate Effective Date: October 17, 2023.
 
-Amendment Number 1 Effective Date: November 13, 2001.
+*Amendment Number 1 Effective Date:* November 13, 2001, superseded by Renewed Amendment Number 1 Effective Date: October 17, 2023.
 
-Amendment Number 2 Effective Date: May 29, 2002.
+*Amendment Number 2 Effective Date:* May 29, 2002, superseded by Renewed Amendment Number 2 Effective Date: October 17, 2023.
 
-Amendment Number 3 Effective Date: October 1, 2003.
+*Amendment Number 3 Effective Date:* October 1, 2003, superseded by Renewed Amendment Number 3 Effective Date: October 17, 2023.
 
-Amendment Number 4 Effective Date: October 27, 2004.
+*Amendment Number 4 Effective Date:* October 27, 2004, superseded by Renewed Amendment Number 4 Effective Date: October 17, 2023.
 
-Amendment Number 5 Effective Date: July 24, 2007.
+*Amendment Number 5 Effective Date:* July 24, 2007, superseded by Renewed Amendment Number 5 Effective Date: October 17, 2023.
 
-Amendment Number 6 Effective Date: October 4, 2010.
+*Amendment Number 6 Effective Date:* October 4, 2010, superseded by Renewed Amendment Number 6 Effective Date: October 17, 2023.
 
-Amendment Number 7 Effective Date: March 4, 2019.
+*Amendment Number 7 Effective Date:* March 4, 2019, superseded by Renewed Amendment Number 7 Effective Date: October 17, 2023.
 
-Amendment Number 8 Effective Date: March 4, 2019.
+*Amendment Number 8 Effective Date:* March 4, 2019, superseded by Renewed Amendment Number 8 Effective Date: October 17, 2023.
 
-SAR Submitted by: NAC International, Inc.
+*Safety Analysis Report (SAR) Submitted by:* NAC International, Inc.
 
-SAR Title: Final Safety Analysis Report for the NAC Multi-Purpose Canister System (NAC-MPC System).
+*SAR Title:* Final Safety Analysis Report for the NAC Multi-Purpose Canister System (NAC-MPC System).
 
-Docket Number: 72-1025.
+*Docket Number:* 72-1025.
 
-Certificate Expiration Date: April 10, 2020.
+*Certificate Expiration Date:* May 31, 2020.
 
-Model Number: NAC-MPC.
+*Renewed Certificate Expiration Date:* April 10, 2060.
+
+*Model Number:* NAC-MPC System.
 
 Certificate Number: 1026.
 

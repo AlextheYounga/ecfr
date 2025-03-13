@@ -1,5 +1,7 @@
 ##### § 52.1857 Grades of zante currant raisins. #####
 
+Link to an amendment published at 88 FR 71461, Oct. 17, 2023.
+
 (a) “U.S. Grade A” is the quality of Zante Currant Raisins that have similar varietal characteristics; that have a good typical color; that have a good characteristic flavor; that show development characteristics of raisins prepared from well-matured grapes; that have not less than 75 percent, by weight, of raisins that are well-matured or reasonably well matured; that contain not more than 20 percent, by weight, of moisture; and meet the additional requirements as outlined in Table V of this subpart.
 
 Table V—Allowances for Defects in Zante Currant Raisins

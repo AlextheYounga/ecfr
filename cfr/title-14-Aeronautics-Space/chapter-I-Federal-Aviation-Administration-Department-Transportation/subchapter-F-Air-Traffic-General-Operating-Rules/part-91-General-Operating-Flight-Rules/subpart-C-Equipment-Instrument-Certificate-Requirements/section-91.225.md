@@ -1,5 +1,7 @@
 ##### § 91.225 Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use. #####
 
+Link to an amendment published at 88 FR 71476, Oct. 17, 2023.
+
 (a) After January 1, 2020, unless otherwise authorized by ATC, no person may operate an aircraft in Class A airspace unless the aircraft has equipment installed that—
 
 (1) Meets the performance requirements in TSO-C166b, Extended Squitter Automatic Dependent Surveillance-Broadcast (ADS-B) and Traffic Information Service-Broadcast (TIS-B) Equipment Operating on the Radio Frequency of 1090 Megahertz (MHz); and

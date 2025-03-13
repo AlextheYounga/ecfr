@@ -866,7 +866,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |      Jellico       |                        18                         |   |
 |    Johnson City    |                         9                         |   |
 |     Kingsport      |                        32                         |   |
-|     Knoxville      |              7, 10, 15, 26, \*29, 34              |   |
+|     Knoxville      |             10, 15, 21, 26, \*29, 34              |   |
 |      Lebanon       |                        25                         |   |
 |     Lexington      |                       \*27                        |   |
 |      Memphis       |         13, 23, 25, 28, \*29, 30, 31, 33          |   |

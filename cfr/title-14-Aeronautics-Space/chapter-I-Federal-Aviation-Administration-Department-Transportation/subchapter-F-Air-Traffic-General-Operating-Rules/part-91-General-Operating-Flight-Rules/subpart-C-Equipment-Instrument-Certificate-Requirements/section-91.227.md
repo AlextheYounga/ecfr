@@ -1,5 +1,7 @@
 ##### § 91.227 Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment performance requirements. #####
 
+Link to an amendment published at 88 FR 71477, Oct. 17, 2023.
+
 (a) *Definitions.* For the purposes of this section:
 
 *ADS-B Out* is a function of an aircraft's onboard avionics that periodically broadcasts the aircraft's state vector (3-dimensional position and 3-dimensional velocity) and other required information as described in this section.

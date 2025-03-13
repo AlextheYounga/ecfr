@@ -20,7 +20,7 @@ Authorization Validated End-User (VEU) permits the export, reexport, and transfe
 
 (c) *Item restrictions.* Items controlled under the EAR for missile technology (MT) and crime control (CC) reasons may not be exported or reexported under this authorization.
 
-(d) *End-use restrictions.* Items obtained under authorization VEU in China may be used only for civil end uses and may not be used for any activities described in part 744 of the EAR. Items obtained under authorization VEU in India may be used for either civil or military end uses and may not be used for any activities described in part 744 of the EAR. Exports, reexports, or transfers made under authorization VEU may be made to an end user listed in Supplement No. 7 to this part only if the items will be consigned to and for use by the validated end user. Eligible end-users who obtain items under VEU may only:
+(d) *End-use restrictions.* Items obtained under authorization VEU in China may be used only for civil end uses and may not be used for any activities described in part 744 of the EAR. Items obtained under authorization VEU in China may be used only for civil end uses and may not be used for any activities described in part 744 of the EAR. The restrictions of §§ 744.6(c)(2)(i) through (iii) and 744.23(a)(1)(iii) and (a)(2)(iii) do not apply to VEUs identified in supplement no. 7 to part 748 as excluded from §§ 744.6(c)(2)(i) through (iii) and 744.23(a)(1)(iii) and (a)(2)(iii). Items obtained under authorization VEU in India may be used for either civil or military end uses and may not be used for any activities described in part 744 of the EAR. Exports, reexports, or transfers made under authorization VEU may be made to an end user listed in Supplement No. 7 to this part only if the items will be consigned to and for use by the validated end user. Eligible end-users who obtain items under VEU may only:
 
 (1) Use such items at the end-user's own facility located in an eligible destination or at a facility located in an eligible destination over which the end-user demonstrates effective control;
 
@@ -56,4 +56,4 @@ Authorizations set forth in supplement no. 7 to this part are country-specific. 
 
 (i) *Records.* Records of items that were shipped under Authorization VEU prior to the removal of a license requirement or the availability of a license exception remain subject to the review requirements of paragraph (f)(2) of this section on and after the date that the license requirement was removed or the license exception became applicable.
 
-[72 FR 33660, June 19, 2007, as amended at 72 FR 56011, Oct. 2, 2007; 73 FR 37, Jan. 2, 2008; 77 FR 75013, Dec. 19, 2012; 78 FR 13470, Feb. 28, 2013; 82 FR 6220, Jan. 19, 2017]
+[72 FR 33660, June 19, 2007, as amended at 72 FR 56011, Oct. 2, 2007; 73 FR 37, Jan. 2, 2008; 77 FR 75013, Dec. 19, 2012; 78 FR 13470, Feb. 28, 2013; 82 FR 6220, Jan. 19, 2017; 88 FR 71480, Oct. 17, 2023]

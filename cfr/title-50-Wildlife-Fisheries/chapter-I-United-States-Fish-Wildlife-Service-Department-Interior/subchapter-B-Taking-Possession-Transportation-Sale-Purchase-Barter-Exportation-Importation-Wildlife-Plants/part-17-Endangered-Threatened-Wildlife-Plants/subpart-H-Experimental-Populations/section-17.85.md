@@ -1,5 +1,7 @@
 ##### § 17.85 Species-specific rules—invertebrates. #####
 
+Link to an amendment published at 88 FR 71672, Oct. 17, 2023.
+
 (a) *Seventeen mollusks in the Tennessee River.* The species in the following table comprise nonessential experimental populations (NEPs):
 
 |            Common name             |        Scientific name         |

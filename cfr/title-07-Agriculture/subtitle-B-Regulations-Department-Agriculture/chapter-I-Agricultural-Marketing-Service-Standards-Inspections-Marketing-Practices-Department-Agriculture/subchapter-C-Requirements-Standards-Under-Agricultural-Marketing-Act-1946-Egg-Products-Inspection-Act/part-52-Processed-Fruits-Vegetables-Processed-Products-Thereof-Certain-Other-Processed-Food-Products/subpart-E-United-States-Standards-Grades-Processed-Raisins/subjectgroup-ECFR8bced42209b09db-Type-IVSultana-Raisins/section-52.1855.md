@@ -1,5 +1,7 @@
 ##### § 52.1855 Grades of Sultana raisins. #####
 
+Link to an amendment published at 88 FR 71461, Oct. 17, 2023.
+
 (a) “U.S. Grade A” is the quality of Sultana Raisins that have similar varietal characteristics; that have a good typical color; that have a good characteristic flavor; that show development characteristics of raisins prepared from well-matured grapes; with not less than 80 percent, by weight, of raisins that are well-matured or reasonably well-matured; and that contain not more than 18 percent, by weight, of moisture, and that meet the additional requirements outlined in Table IV of this subpart.
 
 (b) “U.S. Grade B” is the quality of Sultana Raisins that have similar varietal characteristics; that have a reasonably good typical color; that have a good characteristic flavor; that show development characteristics of raisins prepared from reasonably well-matured grapes; with not less than 70 percent, by weight, of raisins that are well-matured or reasonably well-matured; and that contain not more than 18 percent, by weight, of moisture, and that meet the additional requirements as outlined in Table IV of this subpart.
