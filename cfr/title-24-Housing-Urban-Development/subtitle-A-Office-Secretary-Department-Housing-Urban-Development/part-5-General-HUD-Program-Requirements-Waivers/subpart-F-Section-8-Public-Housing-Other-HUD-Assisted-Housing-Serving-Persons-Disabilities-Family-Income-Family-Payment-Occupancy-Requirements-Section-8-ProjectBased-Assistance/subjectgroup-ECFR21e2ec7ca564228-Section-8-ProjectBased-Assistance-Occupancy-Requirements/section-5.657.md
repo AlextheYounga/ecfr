@@ -1,8 +1,6 @@
 ##### § 5.657 Section 8 project-based assistance programs: Reexamination of family income and composition. #####
 
-Link to an amendment published at 89 FR 38290, May 7, 2024.
-
-(a) *Applicability.* This section states requirements for reexamination of family income and composition in the Section 8 project-based assistance programs, except for the moderate rehabilitation and the project-based certificate or voucher programs.
+(a) *Applicability.* This section states requirements for reexamination of family income and composition in the Section 8 project-based assistance programs, except for the moderate rehabilitation and the project-based voucher programs.
 
 (b) *Regular reexamination.* The owner must conduct a reexamination and redetermination of family income and composition at least annually.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (2) HUD may revise the amount of de minimis error in this paragraph (f) through a rulemaking published in the Federal Register for public comment.
 
-[65 FR 16720, Mar. 29, 2000, as amended at 81 FR 12371, Mar. 8, 2016; 82 FR 58340, Dec. 12, 2017; 85 FR 27139, May 7, 2020; 88 FR 9661, Feb. 14, 2023]
+[65 FR 16720, Mar. 29, 2000, as amended at 81 FR 12371, Mar. 8, 2016; 82 FR 58340, Dec. 12, 2017; 85 FR 27139, May 7, 2020; 88 FR 9661, Feb. 14, 2023; 89 FR 38290, May 7, 2024]

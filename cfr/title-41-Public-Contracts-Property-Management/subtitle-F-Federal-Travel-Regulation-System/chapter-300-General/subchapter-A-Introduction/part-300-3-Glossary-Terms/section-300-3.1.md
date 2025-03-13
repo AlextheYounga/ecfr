@@ -1,7 +1,5 @@
 ##### § 300-3.1 What do the following terms mean? #####
 
-Link to an amendment published at 89 FR 37978, May 7, 2024.
-
 *Accompanied baggage*—Government property and personal property of the traveler necessary for official travel.
 
 *Actual expense*—Payment of authorized actual expenses incurred, up to the limit prescribed by the Administrator of GSA or agency, as appropriate. Entitlement to reimbursement is contingent upon entitlement to per diem, and is subject to the same definitions and rules governing per diem.
@@ -298,6 +296,10 @@ Certain jurisdictions may have limits or prohibit the operation or use of innova
 
 (c) *Incidental expenses.* Fees and tips given to porters, baggage carriers, hotel staff, and staff on ships.
 
+Note 1 to definition of “Per diem allowance”.
+
+For the purposes of chapter 302 of this subtitle, laundry/dry cleaning expenses are part of the incidental expenses portion of the per diem allowance for temporary quarters subsistence expenses (TQSE) and temporary quarters (TQ) lodging taxes are separately reimbursable TQSE miscellaneous expenses (see § 302-6.28 and part 302-16 of this subtitle).
+
 *Place of public accommodation*—Any inn, hotel, or other establishment within a State that provides lodging to transient guests, excluding:
 
 (a) An establishment owned by the Federal Government;
@@ -307,6 +309,8 @@ Certain jurisdictions may have limits or prohibit the operation or use of innova
 (c) An establishment containing not more than 5 rooms for rent or hire that is also occupied as a residence by the proprietor of that establishment.
 
 *Post of duty*—An official station outside CONUS.
+
+*Presidentially-Declared Disaster*—A major disaster or emergency declared by the President of the United States pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as amended (42 U.S.C. 5121 *et seq.*).
 
 *Privately owned aircraft*—An aircraft that is owned or leased by an employee for personal use. It is not owned, leased, chartered, or rented by a Government agency, nor is it rented or leased by an employee for use in carrying out official Government business.
 

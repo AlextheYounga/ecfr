@@ -1,8 +1,6 @@
 ##### § 5.655 Section 8 project-based assistance programs: Owner preferences in selection for a project or unit. #####
 
-Link to an amendment published at 89 FR 38290, May 7, 2024.
-
-(a) *Applicability.* This section applies to the section 8 project-based assistance programs. The section describes requirements concerning the Section 8 owner's selection of residents to occupy a project or unit, except for the moderate rehabilitation and the project-based certificate or voucher programs.
+(a) *Applicability.* This section applies to the section 8 project-based assistance programs. The section describes requirements concerning the Section 8 owner's selection of residents to occupy a project or unit, except for the moderate rehabilitation and the project-based voucher programs.
 
 (b) *Selection*—(1) *Selection for owner's project or unit.* Selection for occupancy of a project or unit is the function of the Section 8 owner. However, selection is subject to the income-eligibility and income-targeting requirements in § 5.653.
 
@@ -44,4 +42,4 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (5) *Preference for single persons who are elderly, displaced, homeless or persons with disabilities over other single persons.* The owner may adopt a preference for admission of single persons who are age 62 or older, displaced, homeless, or persons with disabilities over other single persons.
 
-[65 FR 16720, Mar. 29, 2000]
+[65 FR 16720, Mar. 29, 2000, as amended at 89 FR 38290, May 7, 2024]

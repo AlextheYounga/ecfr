@@ -12,7 +12,7 @@
 
 (b) *Additional rules.* The head of the agency having jurisdiction over a free use area may establish and publish additional rules for collecting petrified wood for noncommercial purposes to supplement those included in paragraph (a) of this section.
 
-[48 FR 27015, June 10, 1983, as amended at 66 FR 58909, Nov. 23, 2001]Group 3700—Multiple Use; MiningNote:
+[48 FR 27015, June 10, 1983, as amended at 66 FR 58909, Nov. 23, 2001] Group 3700—Multiple Use; Mining Note:
 
 The information collection requirements contained in part 3730 of Group 3700 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1004-0110. The information is being collected to permit the authorized officer to determine whether an applicant is qualified to hold a lease for the exploration, development and utilization of minerals on all public lands withdrawn for power development. The information will be used to make this determination. A response is required to obtain a benefit.
 

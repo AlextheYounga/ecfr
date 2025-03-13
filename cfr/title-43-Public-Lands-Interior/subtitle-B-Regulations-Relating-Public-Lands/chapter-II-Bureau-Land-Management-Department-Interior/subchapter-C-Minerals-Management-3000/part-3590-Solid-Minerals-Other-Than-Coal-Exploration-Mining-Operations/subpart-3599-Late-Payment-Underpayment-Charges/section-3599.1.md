@@ -10,6 +10,6 @@
 
 (e) Late payment charges apply to all underpayments and payments received after the date due. These charges include rentals; production, minimum, or advance royalties; assessments for liquidated damages; administrative fees and payments by purchaser of royalty taken-in-kind or any other payments, fees, or assessments that a lessee/operator/permittee/payor/or purchaser of royalty taken-in-kind is required to pay by a specified date. The failure to pay past due amounts, including late payment charges, will result in the initiation of other enforcement proceedings.
 
-[47 FR 22528, May 25, 1982. Redesignated at 48 FR 36588, Aug. 12, 1983. Redesignated at 51 FR 15212, Apr. 22, 1986]Group 3600—Mineral Materials DisposalNote:
+[47 FR 22528, May 25, 1982. Redesignated at 48 FR 36588, Aug. 12, 1983. Redesignated at 51 FR 15212, Apr. 22, 1986] Group 3600—Mineral Materials DisposalNote:
 
 The information collection requirements contained in parts 3600, 3610 and 3620 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1004-0103. The information is being collected to allow the authorized officer to determine if the applicant is qualified to purchase or have free use of mineral materials on the public lands. The obligation to respond is required to obtain a benefit.

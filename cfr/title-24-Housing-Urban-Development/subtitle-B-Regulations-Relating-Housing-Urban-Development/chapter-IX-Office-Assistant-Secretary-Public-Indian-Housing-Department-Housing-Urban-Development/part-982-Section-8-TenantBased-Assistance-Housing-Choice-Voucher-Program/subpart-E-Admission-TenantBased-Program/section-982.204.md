@@ -1,6 +1,6 @@
 ##### § 982.204 Waiting list: Administration of waiting list. #####
 
-(a) *Admission from waiting list.* Except for special admissions, participants must be selected from the PHA waiting list. The PHA must select participants from the waiting list in accordance with admission policies in the PHA administrative plan.
+(a) *Admission from waiting list.* Except for special admissions, participants must be selected from the PHA waiting list. The PHA must select participants from the waiting list in accordance with admission policies in the PHA Administrative Plan.
 
 (b) *Organization of waiting list.* The PHA must maintain information that permits the PHA to select participants from the waiting list in accordance with the PHA admission policies. The waiting list must contain the following information for each applicant listed:
 
@@ -14,7 +14,7 @@
 
 (5) Racial or ethnic designation of the head of household.
 
-(c) *Removing applicant names from the waiting list.* (1) The PHA administrative plan must state PHA policy on when applicant names may be removed from the waiting list. The policy may provide that the PHA will remove names of applicants who do not respond to PHA requests for information or updates.
+(c) *Removing applicant names from the waiting list.* (1) The PHA Administrative Plan must state PHA policy on when applicant names may be removed from the waiting list. The policy may provide that the PHA will remove names of applicants who do not respond to PHA requests for information or updates.
 
 (2) An PHA decision to withdraw from the waiting list the name of an applicant family that includes a person with disabilities is subject to reasonable accommodation in accordance with 24 CFR part 8. If the applicant did not respond to the PHA request for information or updates because of the family member's disability, the PHA must reinstate the applicant in the family's former position on the waiting list.
 

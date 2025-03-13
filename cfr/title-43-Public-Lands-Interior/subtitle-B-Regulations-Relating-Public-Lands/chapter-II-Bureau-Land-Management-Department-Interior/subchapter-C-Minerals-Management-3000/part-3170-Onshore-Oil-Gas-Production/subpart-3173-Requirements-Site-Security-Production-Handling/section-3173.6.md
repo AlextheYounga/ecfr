@@ -10,10 +10,10 @@ When water is drained from a production storage tank, the operator, purchaser, o
 
 (d) Date of the opening gauge;
 
-(e) Opening gauge (gauged manually or automatically), TOV, and free-water measurements, all to the nearest1/2 inch;
+(e) Opening gauge (gauged manually or automatically), TOV, and free-water measurements, all to the nearest 1/2 inch;
 
 (f) Unique identifying number of each seal removed;
 
-(g) Closing gauge (gauged manually or automatically) and TOV measurement to the nearest1/2 inch; and
+(g) Closing gauge (gauged manually or automatically) and TOV measurement to the nearest 1/2 inch; and
 
 (h) Unique identifying number of each seal installed.

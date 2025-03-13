@@ -1,7 +1,5 @@
 ##### § 1000.302 What are the definitions applicable for the IHBG formula? #####
 
-Link to an amendment published at 89 FR 38339, May 7, 2024.
-
 *Allowable Expense Level (AEL) factor.* In rental projects, AEL is the per-unit per-month dollar amount of expenses which was used to compute the amount of operating subsidy used prior to October 1, 1997 for the Low Rent units developed under the 1937 Act. The “AEL factor” is the relative difference between a local area AEL and the national weighted average for AEL.
 
 *Date of Full Availability (DOFA)* means the last day of the month in which substantially all the units in a housing development are available for occupancy.
@@ -66,7 +64,7 @@ Link to an amendment published at 89 FR 38339, May 7, 2024.
 
 *Section 8* means the making of housing assistance payments to eligible families leasing existing housing pursuant to the provisions of the 1937 Act.
 
-*Section 8 unit* means the contract annualized housing assistance payments (certificates, vouchers, and project based) under the Section 8 program.
+*Section 8 unit* means the contract annualized housing assistance payments (vouchers, and project based) under the Section 8 program.
 
 *Substantial housing services* are:
 
@@ -96,4 +94,4 @@ Link to an amendment published at 89 FR 38339, May 7, 2024.
 
 (6) A refrigerator.
 
-[63 FR 12349, Mar. 12, 1998, as amended at 72 FR 20023, Apr. 20, 2007; 77 FR 71527, Dec. 3, 2012; 81 FR 83680, Nov. 22, 2016]
+[63 FR 12349, Mar. 12, 1998, as amended at 72 FR 20023, Apr. 20, 2007; 77 FR 71527, Dec. 3, 2012; 81 FR 83680, Nov. 22, 2016; 89 FR 38339, May 7, 2024]

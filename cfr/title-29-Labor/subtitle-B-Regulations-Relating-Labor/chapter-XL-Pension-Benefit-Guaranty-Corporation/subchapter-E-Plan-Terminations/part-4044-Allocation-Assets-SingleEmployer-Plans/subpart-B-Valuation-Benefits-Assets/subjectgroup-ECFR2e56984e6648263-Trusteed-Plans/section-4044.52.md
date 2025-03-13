@@ -1,5 +1,7 @@
 ##### § 4044.52 Valuation of benefits. #####
 
+Link to an amendment published at 89 FR 48300, June 6, 2024.
+
 The plan administrator shall value all benefits as of the valuation date by—
 
 (a) Using the mortality assumptions prescribed by § 4044.53 and the interest assumptions prescribed in appendix B to this part;

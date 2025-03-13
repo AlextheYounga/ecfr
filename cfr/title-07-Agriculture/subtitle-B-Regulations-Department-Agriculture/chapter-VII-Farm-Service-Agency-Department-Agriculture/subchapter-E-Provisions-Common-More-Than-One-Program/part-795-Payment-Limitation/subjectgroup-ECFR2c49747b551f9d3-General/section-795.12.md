@@ -1,6 +1,6 @@
 ##### § 795.12 Minor children. #####
 
-(a) A minor child and his parents or guardian (or other person responsible for him) shall be considered as one person, except that the minor child may be considered as a separate person if such minor child is a producer on a farm in which the parents or guardian or other person responsible for him (including any entity in which the parents or guardian or other person responsible for him has a substantial interest, i.e., more than a 20-percent interest) takes no part in the operation of the farm (including any activities as a custom farmer) and owns no interest in the farm or allotment or in any portion of the production on the farm, and if such minor child:
+(a) A minor child and his parents or guardian (or other person responsible for him) shall be considered as one person, except that the minor child may be considered as a separate person if such minor child is a producer on a farm in which the parents or guardian or other person responsible for him (including any entity in which the parents or guardian or other person responsible for him has a substantial interest, *i.e.*, more than a 20-percent interest) takes no part in the operation of the farm (including any activities as a custom farmer) and owns no interest in the farm or allotment or in any portion of the production on the farm, and if such minor child:
 
 (1) Is represented by a court-appointed guardian who is required by law to make a separate accounting for the minor and ownership of the farm is vested in the minor, or
 

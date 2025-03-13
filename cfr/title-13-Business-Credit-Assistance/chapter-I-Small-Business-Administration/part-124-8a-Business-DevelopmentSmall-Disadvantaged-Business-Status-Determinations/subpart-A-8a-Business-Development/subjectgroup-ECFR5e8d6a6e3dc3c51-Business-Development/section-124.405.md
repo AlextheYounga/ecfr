@@ -1,7 +1,6 @@
 ##### § 124.405 How does a Participant obtain Federal Government surplus property? #####
 
-(a) *General.* (1) Pursuant to 15 U.S.C. 636(j)(13)(F), eligible Participants may receive surplus Federal Government property from State Agencies for Surplus Property (SASPs).
-The procedures set forth in 41 CFR part 102-37 and this section will be used to transfer surplus personal property to eligible Participants.
+(a) *General.* (1) Pursuant to 15 U.S.C. 636(j)(13)(F), eligible Participants may receive surplus Federal Government property from State Agencies for Surplus Property (SASPs). The procedures set forth in 41 CFR part 102-37 and this section will be used to transfer surplus personal property to eligible Participants.
 
 (2) The surplus personal property which may be transferred to SASPs for further transfer to eligible Participants includes all personal property which has become available for donation pursuant to 41 CFR 102-37.30.
 

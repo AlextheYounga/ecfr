@@ -48,7 +48,7 @@ In addition, the affirmative action plan shall include the following:
 
 (B) The affirmative action plan of each contractor and subcontractor shall contain goals and timetables based upon the overall goals and timetables set by the applicant or recipient for the segment of the ANGTS upon which the contractor or subcontractor will work.
 
-(iii) It shall not be a violation of this part for a recipient, contractor or subcontractor to extend a preference in employment consistent with 41 CFR 60-2.12(j). For the purpose of this section the term “reservation” in Alaska shall be the same as in 25 CFR 80.1, 91.1, and 93.1.1
+(iii) It shall not be a violation of this part for a recipient, contractor or subcontractor to extend a preference in employment consistent with 41 CFR 60-2.12(j). For the purpose of this section the term “reservation” in Alaska shall be the same as in 25 CFR 80.1, 91.1, and 93.1. 1
 
 1Editorial Note: In the March 30, 1982, Federal Register, these sections were redesignated as 25 CFR 286.1, 101.1, and 103.1, respectively.
 

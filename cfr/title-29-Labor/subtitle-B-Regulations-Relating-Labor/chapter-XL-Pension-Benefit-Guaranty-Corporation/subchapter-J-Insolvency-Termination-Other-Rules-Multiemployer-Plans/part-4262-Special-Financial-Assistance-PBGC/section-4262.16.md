@@ -1,5 +1,7 @@
 ##### § 4262.16 Conditions for special financial assistance. #####
 
+Link to an amendment published at 89 FR 48309, June 6, 2024.
+
 (a) *In general.* A plan that receives special financial assistance must be administered in accordance with the conditions in this section.
 
 (b) *Benefit increases.* This paragraph (b) applies to benefits and benefit increases described in section 4022A(b)(1) of ERISA without regard to the time the benefit or benefit increase has been in effect. This paragraph (b) does not apply to the reinstatement of benefits that were suspended under section 305(e)(9) or 4245(a) of ERISA (as provided under § 4262.15) or a restoration of benefits under 26 CFR 1.432(e)(9)-1(e)(3).

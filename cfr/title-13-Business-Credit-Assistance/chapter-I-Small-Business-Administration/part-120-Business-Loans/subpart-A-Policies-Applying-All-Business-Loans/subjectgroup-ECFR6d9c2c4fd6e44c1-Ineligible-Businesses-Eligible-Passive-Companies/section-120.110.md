@@ -22,8 +22,7 @@ The following types of businesses are ineligible:
 
 (j) Government-owned entities (except for businesses owned or controlled by a Native American tribe);
 
-(k)-
-(l) [Reserved]
+(k)- (l) [Reserved]
 
 (m) Loan packagers earning more than one third of their gross annual revenue from packaging SBA loans;
 

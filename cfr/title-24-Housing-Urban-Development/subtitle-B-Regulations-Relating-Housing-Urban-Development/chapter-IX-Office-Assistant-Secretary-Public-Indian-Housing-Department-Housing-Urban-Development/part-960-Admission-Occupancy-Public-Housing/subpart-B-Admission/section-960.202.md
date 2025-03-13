@@ -1,7 +1,5 @@
 ##### § 960.202 Tenant selection policies. #####
 
-Link to an amendment published at 89 FR 38293, May 7, 2024.
-
 (a) *Selection policies, generally.* (1) The PHA shall establish and adopt written policies for admission of tenants.
 
 (2) These policies shall provide for and include the following:
@@ -32,7 +30,9 @@ Link to an amendment published at 89 FR 38293, May 7, 2024.
 
 (C) The number of qualifying low income families who commence occupancy during the fiscal year of PHA public housing units located in census tracts with a poverty rate of 30 percent or more. For this purpose, qualifying low income family means a low income family other than an extremely low income family.
 
-(c) *Adoption and availability of tenant selection policies.* These selection policies shall:
+(c) *Priority for tenant-based and project-based voucher families displaced due to HQS non-compliance.* The PHA must adopt a preference for tenant-based and project-based families displaced due to HQS noncompliance in accordance with § 982.404(e)(2) and § 983.208(d)(6)(ii).
+
+(d) *Adoption and availability of tenant selection policies.* These selection policies shall:
 
 (1) Be duly adopted and implemented;
 
@@ -41,3 +41,5 @@ Link to an amendment published at 89 FR 38293, May 7, 2024.
 (3) Be consistent with the fair housing and equal opportunity provisions of § 5.105 of this title; and
 
 (4) Be submitted to the HUD field office upon request from that office.
+
+[66 FR 28799, May 24, 2001, as amended at 89 FR 38293, May 7, 2024]

@@ -1,7 +1,5 @@
 ##### § 5.514 Delay, denial, reduction or termination of assistance. #####
 
-Link to an amendment published at 89 FR 38290, May 7, 2024.
-
 (a) *General.* Assistance to a family may not be delayed, denied, reduced or terminated because of the immigration status of a family member except as provided in this section.
 
 (b) *Restrictions on delay, denial, reduction or termination of assistance*—(1) *Restrictions on reduction, denial or termination of assistance for applicants and tenants.* Assistance to an applicant or tenant shall not be delayed, denied, reduced, or terminated, on the basis of ineligible immigration status of a family member if:
@@ -64,11 +62,9 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (2) *Informal hearing procedures*—(i) *Tenants assisted under a Section 8 covered program:* For tenants assisted under a Section 8 covered program, the procedures for the hearing before the responsible entity are set forth in:
 
-(A) *For Section 8 Moderate Rehabilitation assistance:* 24 CFR part 882;
+(A) *For Section 8 Moderate Rehabilitation assistance:* 24 CFR part 882; and
 
-(B) *For Section 8 tenant-based assistance:* 24 CFR part 982; or
-
-(C) *For Section 8 project-based certificate program:* 24 CFR part 983.
+(B) *For Section 8 tenant-based assistance:* 24 CFR part 982.
 
 (ii) *Tenants assisted under any other Section 8 covered program or a Public Housing covered program:* For tenants assisted under a Section 8 covered program not listed in paragraph (f)(3)(i) of this section or a Public Housing covered program, the procedures for the hearing before the responsible entity are set forth in 24 CFR part 966.
 
@@ -112,7 +108,7 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (9) The final informal hearing decision.
 
-(i) *Termination of assisted occupancy.* (1) Under Housing covered programs, and in the Section 8 covered programs other than the Section 8 Rental Certificate, Rental Voucher, and Moderate Rehabilitation programs, assisted occupancy is terminated by:
+(i) *Termination of assisted occupancy.* (1) Under Housing covered programs, and in the Section 8 covered programs other than the Section 8 Rental Voucher, and Moderate Rehabilitation programs, assisted occupancy is terminated by:
 
 (i) If permitted under the lease, the responsible entity notifying the tenant that because of the termination of assisted occupancy the tenant is required to pay the HUD-approved market rent for the dwelling unit.
 
@@ -120,6 +116,6 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (iii) The responsible entity evicting the tenant. While the tenant continues in occupancy of the unit, the responsible entity may continue to receive assistance payments if action to terminate the tenancy under an assisted lease is promptly initiated and diligently pursued, in accordance with the terms of the lease, and if eviction of the tenant is undertaken by judicial action pursuant to State and local law. Action by the responsible entity to terminate the tenancy and to evict the tenant must be in accordance with applicable HUD regulations and other HUD requirements. For any jurisdiction, HUD may prescribe a maximum period during which assistance payments may be continued during eviction proceedings and may prescribe other standards of reasonable diligence for the prosecution of eviction proceedings.
 
-(2) In the Section 8 Rental Certificate, Rental Voucher, and Moderate Rehabilitation programs, assisted occupancy is terminated by terminating assistance payments. (See provisions of this section concerning termination of assistance.) The PHA shall not make any additional assistance payments to the owner after the required procedures specified in this section have been completed. In addition, the PHA shall not approve a lease, enter into an assistance contract, or process a portability move for the family after those procedures have been completed.
+(2) In the Section 8 Rental Voucher, and Moderate Rehabilitation programs, assisted occupancy is terminated by terminating assistance payments. (See provisions of this section concerning termination of assistance.) The PHA shall not make any additional assistance payments to the owner after the required procedures specified in this section have been completed. In addition, the PHA shall not approve a lease, enter into an assistance contract, or process a portability move for the family after those procedures have been completed.
 
-[61 FR 13616, Mar. 27, 1996, as amended at 61 FR 60539, Nov. 29, 1996; 64 FR 25731, May 12, 1999]
+[61 FR 13616, Mar. 27, 1996, as amended at 61 FR 60539, Nov. 29, 1996; 64 FR 25731, May 12, 1999; 89 FR 38290, May 7, 2024]

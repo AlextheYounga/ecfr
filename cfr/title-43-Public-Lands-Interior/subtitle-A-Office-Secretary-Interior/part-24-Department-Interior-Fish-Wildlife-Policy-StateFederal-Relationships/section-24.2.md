@@ -1,6 +1,6 @@
 ##### § 24.2 Purpose. #####
 
-(a) The purpose of the Department of the Interior Fish and Wildlife Policy is to clarify and support the broad authorities and responsibilities of Federal2 and State agencies responsible for the management of the nation's fish and wildlife and to identify and promote cooperative agency management relationships which advance scientifically-based resource management programs. This policy is intended to reaffirm the basic role of the States in fish and resident wildlife management, especially where States have primary authority and responsibility, and to foster improved conservation of fish and wildlife.
+(a) The purpose of the Department of the Interior Fish and Wildlife Policy is to clarify and support the broad authorities and responsibilities of Federal 2 and State agencies responsible for the management of the nation's fish and wildlife and to identify and promote cooperative agency management relationships which advance scientifically-based resource management programs. This policy is intended to reaffirm the basic role of the States in fish and resident wildlife management, especially where States have primary authority and responsibility, and to foster improved conservation of fish and wildlife.
 
 2 Hereinafter, the Bureau of Reclamation, Bureau of Land Management, Fish and Wildlife Service, and National Park Service will be referred to collectively as “Federal agencies.”
 

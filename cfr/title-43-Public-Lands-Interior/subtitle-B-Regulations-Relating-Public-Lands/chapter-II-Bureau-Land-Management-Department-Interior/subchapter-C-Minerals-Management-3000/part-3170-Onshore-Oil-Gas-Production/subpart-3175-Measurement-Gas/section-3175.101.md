@@ -2,7 +2,7 @@
 
 (a) Manifolds and gauge lines connecting the pressure taps to the secondary device must:
 
-(1) Have a nominal diameter of not less than3/8-inch, including ports and valves;
+(1) Have a nominal diameter of not less than 3/8-inch, including ports and valves;
 
 (2) Be sloped upwards from the pressure taps at a minimum pitch of 1 inch per foot of length with no visible sag;
 

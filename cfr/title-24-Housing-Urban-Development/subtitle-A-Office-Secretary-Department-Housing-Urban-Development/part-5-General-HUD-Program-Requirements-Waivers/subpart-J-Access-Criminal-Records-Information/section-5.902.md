@@ -1,7 +1,5 @@
 ##### § 5.902 Definitions. #####
 
-Link to an amendment published at 89 FR 38290, May 7, 2024.
-
 (a) *Terms found elsewhere.* The following terms used in this subpart are defined in subpart A of this part: *1937 Act, drug, federally assisted housing, household, HUD, public housing, public housing agency (PHA), Section 8.*
 
 (b) *Additional terms* used in this subpart are as follows:
@@ -14,4 +12,6 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 *Owner.* The owner of federally assisted housing.
 
-*Responsible entity.* For the public housing program, the Section 8 tenant-based assistance program (part 982 of this title), the Section 8 project-based certificate or project-based voucher program (part 983 of this title), and the Section 8 moderate rehabilitation program (part 882 of this title), *responsible entity* means the PHA administering the program under an Annual Contributions Contract with HUD. For all other Section 8 programs, responsible entity means the Section 8 owner.
+*Responsible entity.* For the public housing program, the Section 8 tenant-based assistance program (part 982 of this title), the Section 8 project-based voucher program (part 983 of this title), and the Section 8 moderate rehabilitation program (part 882 of this title), *responsible entity* means the PHA administering the program under an Annual Contributions Contract with HUD. For all other Section 8 programs, responsible entity means the Section 8 owner.
+
+[66 FR 28794, May 24, 2001, as amended at 89 FR 38290, May 7, 2024]

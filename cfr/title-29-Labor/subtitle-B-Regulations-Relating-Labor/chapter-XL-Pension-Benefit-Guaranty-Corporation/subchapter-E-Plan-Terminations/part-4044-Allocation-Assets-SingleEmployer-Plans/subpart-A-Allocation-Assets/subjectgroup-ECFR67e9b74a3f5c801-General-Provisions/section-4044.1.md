@@ -1,5 +1,7 @@
 ##### § 4044.1 Purpose and scope. #####
 
+Link to an amendment published at 89 FR 48300, June 6, 2024.
+
 This part implements section 4044 of ERISA, which contains rules for allocating a plan's assets when the plan terminates. These rules have been in effect since September 2, 1974, the date of enactment of ERISA. This part applies to any single-employer plan covered by title IV of ERISA that submits a notice of intent to terminate, or for which PBGC commences an action to terminate the plan under section 4042 of ERISA.
 
 (a) *Subpart A.* Sections 4044.1 through 4044.4 set forth general rules for applying §§ 4044.10 through 4044.17. Sections 4044.10 through 4044.17 interpret the rules and describe procedures for allocating plan assets to priority categories 1 through 6.

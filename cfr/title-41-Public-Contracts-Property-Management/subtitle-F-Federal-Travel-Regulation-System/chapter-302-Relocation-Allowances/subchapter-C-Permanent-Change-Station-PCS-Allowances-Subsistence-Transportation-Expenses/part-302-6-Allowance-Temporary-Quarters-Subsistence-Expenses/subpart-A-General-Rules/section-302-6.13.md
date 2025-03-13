@@ -1,3 +1,3 @@
-##### § 302-6.13 How soon may I/we begin occupying temporary quarters at Government expense? #####
+##### § 302-6.13 What is the latest period for which TQSE reimbursement may begin? #####
 
-As soon as your agency has authorized you to receive a TQSE allowance and you have signed a service agreement.
+The period must begin before the maximum time for completing all aspects of your relocation under § 302-2.9.

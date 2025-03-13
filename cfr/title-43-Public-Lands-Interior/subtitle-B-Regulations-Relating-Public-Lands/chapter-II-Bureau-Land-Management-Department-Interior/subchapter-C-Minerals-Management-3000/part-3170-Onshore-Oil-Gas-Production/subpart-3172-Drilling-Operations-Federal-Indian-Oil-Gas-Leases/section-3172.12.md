@@ -34,7 +34,7 @@
 
 (9) *Mud.* Each of the intervals between plugs shall be filled with mud of sufficient density to exert hydrostatic pressure exceeding the greatest formation pressure encountered while drilling such interval. In the absence of other information at the time plugging is approved, a minimum mud weight of 9 pounds per gallon shall be specified.
 
-(10) *Surface cap.* All casing shall be cut-off at the base of the cellar or 3 feet below final restored ground level (whichever is deeper). The well bore shall then be covered with a metal plate at least1/4 inch thick and welded in place, or a 4-inch pipe, 10-feet in length, 4 feet above ground and embedded in cement as specified by the authorized officer. The well location and identity shall be permanently inscribed. A weep hole shall be left if a metal plate is welded in place.
+(10) *Surface cap.* All casing shall be cut-off at the base of the cellar or 3 feet below final restored ground level (whichever is deeper). The well bore shall then be covered with a metal plate at least 1/4 inch thick and welded in place, or a 4-inch pipe, 10-feet in length, 4 feet above ground and embedded in cement as specified by the authorized officer. The well location and identity shall be permanently inscribed. A weep hole shall be left if a metal plate is welded in place.
 
 (11) *Cellar.* The cellar shall be filled with suitable material as specified by the authorized officer and the surface restored in accordance with the instructions of the authorized officer.
 

@@ -134,7 +134,7 @@ A lease may be issued if, after consultation with the state, the surface managem
 
 (3) *Exemptions.* This criterion does not apply to lands: To which the operator made substantial legal and financial commitments prior to January 4, 1977; on which surface coal mining operations were being conducted on August 3, 1977; or which include operations on which a permit has been issued.
 
-(r)(1) *Criterion Number 18.* Federal lands with National Resource Waters, as identified by states in their water quality management plans, and a buffer zone of Federal lands1/4 mile from the outer edge of the far banks of the water, shall be unsuitable.
+(r)(1) *Criterion Number 18.* Federal lands with National Resource Waters, as identified by states in their water quality management plans, and a buffer zone of Federal lands 1/4 mile from the outer edge of the far banks of the water, shall be unsuitable.
 
 (2) *Exception.* The buffer zone may be eliminated or reduced in size where the surface management agency determines that it is not necessary to protect the National Resource Waters.
 

@@ -1,5 +1,7 @@
 ##### § 4043.65 Transfer of benefit liabilities. #####
 
+Link to an amendment published at 89 FR 48300, June 6, 2024.
+
 (a) *Reportable event.* Advance notice is required for a transfer of benefit liabilities, as described in § 4043.32(a).
 
 (b) *Waivers*—(1) *Complete plan transfer.* Notice under this section is waived if the transfer is a transfer of all of the transferor plan's benefit liabilities and assets to one other plan.

@@ -2,21 +2,23 @@
 
 Link to an amendment published at 89 FR 38295, May 7, 2024.
 
-(a) *PHA briefing of family.* (1) When the PHA selects a family to participate in a tenant-based program, the PHA must give the family an oral briefing. The briefing must include information on the following subjects:
+(a) *Oral briefing.* When the PHA selects a family to participate in a tenant-based program, the PHA must give the family an oral briefing.
+
+(1) The briefing must include information on the following subjects:
 
 (i) A description of how the program works;
 
-(ii) Family and owner responsibilities; and
+(ii) Family and owner responsibilities;
 
-(iii) Where the family may lease a unit, including renting a dwelling unit inside or outside the PHA jurisdiction, and any information on selecting a unit that HUD provides.
+(iii) Where the family may lease a unit, including renting a dwelling unit inside or outside the PHA jurisdiction, and any information on selecting a unit that HUD provides;
 
-(2) An explanation of how portability works. The PHA may not discourage the family from choosing to live anywhere in the PHA jurisdiction, or outside the PHA jurisdiction under portability procedures, unless otherwise expressly authorized by statute, regulation, PIH Notice, or court order. The family must be informed of how portability may affect the family's assistance through screening, subsidy standards, payment standards, and any other elements of the portability process which may affect the family's assistance.
+(iv) An explanation of how portability works; and
 
-(3) The briefing must also explain the advantages of areas that do not have a high concentration of low-income families.
+(v) An explanation of the advantages of areas that do not have a high concentration of low-income families.
 
-(4) In briefing a family that includes any disabled person, the PHA must take appropriate steps to ensure effective communication in accordance with 24 CFR 8.6.
+(2) The PHA may not discourage the family from choosing to live anywhere in the PHA jurisdiction, or outside the PHA jurisdiction under portability procedures, unless otherwise expressly authorized by statute, regulation, PIH Notice, or court order. The family must be informed of how portability may affect the family's assistance through screening, subsidy standards, payment standards, and any other elements of the portability process which may affect the family's assistance.
 
-(5) In briefing a welfare-to-work family, the PHA must include specification of any local obligations of a welfare-to-work family and an explanation that failure to meet these obligations is grounds for PHA denial of admission or termination of assistance.
+(3) The PHA must take appropriate steps to ensure effective communication in accordance with 24 CFR 8.6 and 28 CFR part 35, subpart E, and must provide information on the reasonable accommodation process.
 
 (b) *Information packet.* When a family is selected to participate in the program, the PHA must give the family a packet that includes information on the following subjects:
 
@@ -38,20 +40,22 @@ Link to an amendment published at 89 FR 38295, May 7, 2024.
 
 (7) A statement of the PHA policy on providing information about a family to prospective owners;
 
-(8) PHA subsidy standards, including when the PHA will consider granting exceptions to the standards;
+(8) PHA subsidy standards, including when the PHA will consider granting exceptions to the standards as allowed by 24 CFR 982.402(b)(8), and when exceptions are required as a reasonable accommodation for persons with disabilities under Section 504, the Fair Housing Act, or the Americans with Disabilities Act;
 
 (9) Materials (*e.g.*, brochures) on how to select a unit and any additional information on selecting a unit that HUD provides.
 
-(10) Information on federal, State and local equal opportunity laws, and a copy of the housing discrimination complaint form;
+(10) Information on Federal, State, and local equal opportunity laws, the contact information for the Section 504 coordinator, a copy of the housing discrimination complaint form, and information on how to request a reasonable accommodation or modification (including information on requesting exception payment standards as a reasonable accommodation) under Section 504, the Fair Housing Act, and the Americans with Disabilities Act;
 
 (11) A list of landlords known to the PHA who may be willing to lease a unit to the family or other resources (*e.g.*, newspapers, organizations, online search tools) known to the PHA that may assist the family in locating a unit. PHAs must ensure that the list of landlords or other resources covers areas outside of poverty or minority concentration.
 
-(12) Notice that if the family includes a disabled person, the family may request a current listing of accessible units known to the PHA that may be available;
+(12) Notice that if the family includes a person with disabilities, the PHA is subject to the requirement under 24 CFR 8.28(a)(3) to provide a current listing of accessible units known to the PHA and, if necessary, other assistance in locating an available accessible dwelling unit;
 
 (13) Family obligations under the program;
 
-(14) Family obligations under the program, including any obligations of a welfare-to-work family.
+(14) The advantages of areas that do not have a high concentration of low-income families which may include, access to accessible and high-quality housing, transit, employment opportunities, educational opportunities, recreational facilities, public safety stations, retail services, and health services; and
 
-(15) The advantages of areas that do not have a high concentration of low-income families.
+(15) A description of when the PHA is required to give a participant family the opportunity for an informal hearing and how to request a hearing.
 
-(Approved by the Office of Management and Budget under control number 2577-0169)[60 FR 34695, July 3, 1995, as amended at 60 FR 45661, Sept. 1, 1995; 61 FR 27163, May 30, 1996; 64 FR 26644, May 14, 1999; 64 FR 50229, Sept. 15, 1999; 64 FR 56912, Oct. 21, 1999; 80 FR 50572, Aug. 20, 2015; 80 FR 52619, Sept. 1, 2015]
+(c) *Providing information for persons with limited English proficiency (LEP).* The PHA must take reasonable steps to ensure meaningful access by persons with limited English proficiency in accordance with Title VI of the Civil Rights Act of 1964 and HUD's implementing regulations at 24 CFR part 1.
+
+(Approved by the Office of Management and Budget under control number 2577-0169)[60 FR 34695, July 3, 1995, as amended at 60 FR 45661, Sept. 1, 1995; 61 FR 27163, May 30, 1996; 64 FR 26644, May 14, 1999; 64 FR 50229, Sept. 15, 1999; 64 FR 56912, Oct. 21, 1999; 80 FR 50572, Aug. 20, 2015; 80 FR 52619, Sept. 1, 2015; 89 FR 38295, May 7, 2024]

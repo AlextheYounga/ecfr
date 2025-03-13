@@ -22,7 +22,7 @@ EAR = (EA ÷ LI) × 100where:EAR = Earmarked Asset Ratio.EA = Average Earmarked 
 
 (d) *How to compute your Earmarked Profit (Loss) if Earmarked Asset Ratio is 100 percent.* (1) (i) If your Earmarked Asset Ratio from paragraph (b) of this section is 100 percent, use the following formula to compute your Earmarked Profit (Loss):
 
-EP = NI + IK + EMEwhere:EP = Earmarked Profit (Loss)NI = Net Income (Loss), as reported on SBA Form 468 except as otherwise provided in this paragraph (d)(1)IK = Unrealized Appreciation (Depreciation) on Earmarked Assets that you are distributing as an In-Kind Distribution under § 107.1580EME = Excess Management Expenses
+EP = NI + IK + EMEwhere:EP = Earmarked Profit (Loss) NI = Net Income (Loss), as reported on SBA Form 468 except as otherwise provided in this paragraph (d)(1) IK = Unrealized Appreciation (Depreciation) on Earmarked Assets that you are distributing as an In-Kind Distribution under § 107.1580 EME = Excess Management Expenses
 
 (ii) For the purpose of determining Net Income (Loss), leverage fees paid to SBA and partnership syndication costs that you incur must be capitalized and amortized on a straight-line basis over not less than five years.
 

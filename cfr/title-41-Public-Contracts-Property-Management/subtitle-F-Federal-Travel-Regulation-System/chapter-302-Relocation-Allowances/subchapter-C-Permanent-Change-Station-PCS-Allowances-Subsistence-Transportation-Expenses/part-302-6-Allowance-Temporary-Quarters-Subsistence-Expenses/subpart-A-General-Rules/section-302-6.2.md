@@ -1,5 +1,3 @@
-##### § 302-6.2 What are “temporary quarters subsistence expenses (TQSE)”? #####
+##### § 302-6.2 What is the purpose of the TQSE allowance? #####
 
-“Temporary quarters subsistence expenses” or “TQSE” are subsistence expenses incurred by an employee and/or the employee's immediate family while occupying temporary quarters. TQSE does not include transportation expenses incurred during occupancy of temporary quarters (see § 302-6.18 for details).
-
-[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2010-02, 75 FR 24437, May 5, 2010; FTR Case 2022-05, 89 FR 12255, Feb. 16, 2024]
+The TQSE allowance is intended to reimburse an employee reasonably and equitably for subsistence expenses incurred when it is necessary to occupy temporary quarters incident to an official relocation or temporary change of station.

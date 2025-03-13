@@ -1,7 +1,5 @@
 ##### § 891.125 Site and neighborhood standards. #####
 
-Link to an amendment published at 89 FR 38292, May 7, 2024.
-
 All sites must meet the following site and neighborhood requirements:
 
 (a) The site must be adequate in size, exposure, and contour to accommodate the number and type of units proposed, and adequate utilities (water, sewer, gas, and electricity) and streets must be available to service the site.
@@ -34,7 +32,7 @@ All sites must meet the following site and neighborhood requirements:
 
 (E) Minority elderly or disabled households, as applicable (or minority families, for projects funded under §§ 891.655 through 891.790), have benefitted from local activities (e.g., acquisition and write-down of sites, tax relief programs for homeowners, acquisitions of units for use as assisted housing units) undertaken to expand choice for minority households (or families) outside of areas of minority concentration.
 
-(F) A significant proportion of minority elderly or disabled households, as applicable (or minority households, for projects funded under §§ 891.655 through 891.790), have been successful in finding units in nonminority areas under the Section 8 Certificate and Housing Voucher programs.
+(F) A significant proportion of minority elderly or disabled households, as applicable (or minority households, for projects funded under §§ 891.655 through 891.790), have been successful in finding units in nonminority areas under the Section 8 Housing Voucher programs.
 
 (G) Comparable housing opportunities have been made available outside areas of minority concentration through other programs.
 
@@ -45,3 +43,5 @@ All sites must meet the following site and neighborhood requirements:
 (e) The housing must be accessible to social, recreational, educational, commercial, and health facilities and services, and other municipal facilities and services that are at least equivalent to those typically found in neighborhoods consisting largely of unassisted, standard housing of similar market rents.
 
 (f) For the Section 811 Program of Supportive Housing for Persons with Disabilities, the additional site and neighborhood requirements in § 891.320 apply.
+
+[61 FR 11956, Mar. 22, 1996, as amended at 89 FR 38292, May 7, 2024]

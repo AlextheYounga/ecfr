@@ -1,7 +1,5 @@
 ##### § 5.801 Uniform financial reporting standards. #####
 
-Link to an amendment published at 89 FR 38290, May 7, 2024.
-
 (a) *Applicability.* This subpart H implements uniform financial reporting standards for:
 
 (1) Public housing agencies (PHAs) receiving assistance under sections 5, 9, or 14 of the 1937 Act (42 U.S.C. 1437c, 1437g, and 1437*l*) (Public Housing);
@@ -10,17 +8,17 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (i) Section 8 project-based housing assistance payments programs, including, but not limited to, the Section 8 New Construction, Substantial Rehabilitation, Loan Management Set-Aside, Property Disposition, and Moderate Rehabilitation (including the Single Room Occupancy program for homeless individuals);
 
-(ii) Section 8 Project-Based Certificate programs;
+(ii) Section 8 Project-Based Voucher programs;
 
 (iii) Any program providing Section 8 project-based renewal contracts; and
 
-(iv) Section 8 tenant-based assistance under the Section 8 Certificate and Voucher program.
+(iv) Section 8 tenant-based assistance under the Section 8 Voucher program.
 
 (3) Owners of housing assisted under any Section 8 project-based housing assistance payments program:
 
 (i) Including, but not limited to, the Section 8 New Construction, Substantial Rehabilitation, Loan Management Set-Aside, and Property Disposition programs;
 
-(ii) Excluding the Section 8 Moderate Rehabilitation Program (which includes the Single Room Occupancy program for homeless individuals) and the Section 8 Project-Based Certificate Program;
+(ii) Excluding the Section 8 Moderate Rehabilitation Program (which includes the Single Room Occupancy program for homeless individuals) and the Section 8 Project-Based Voucher Program;
 
 (4) Owners of multifamily projects receiving direct or indirect assistance from HUD, or with mortgages insured, coinsured, or held by HUD, including but not limited to housing under the following HUD programs:
 
@@ -90,4 +88,4 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (f) *Responsibility for submission of financial report.* The responsibility for submission of the financial report due to HUD under this section rests with the individuals and entities listed in paragraph (a) of this section.
 
-[63 FR 46591, Sept. 1, 1998, as amended at 64 FR 1505, Jan. 11, 1999; 64 FR 33755, June 24, 1999; 65 FR 16295, Mar. 27, 2000; 67 FR 53451, Aug. 15, 2002; 77 FR 55134, Sept. 7, 2012; 78 FR 57060, Sept. 17, 2013; 79 FR 55362, Sept. 16, 2014; 80 FR 75934, Dec. 7, 2015; 89 FR 30276, Apr. 23, 2024]
+[63 FR 46591, Sept. 1, 1998, as amended at 64 FR 1505, Jan. 11, 1999; 64 FR 33755, June 24, 1999; 65 FR 16295, Mar. 27, 2000; 67 FR 53451, Aug. 15, 2002; 77 FR 55134, Sept. 7, 2012; 78 FR 57060, Sept. 17, 2013; 79 FR 55362, Sept. 16, 2014; 80 FR 75934, Dec. 7, 2015; 89 FR 30276, Apr. 23, 2024; 89 FR 38290, May 7, 2024]

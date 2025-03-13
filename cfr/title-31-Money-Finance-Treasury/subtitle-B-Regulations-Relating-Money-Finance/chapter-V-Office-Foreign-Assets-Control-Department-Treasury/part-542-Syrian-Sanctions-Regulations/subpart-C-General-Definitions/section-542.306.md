@@ -1,3 +1,5 @@
-##### § 542.306 Information and communications technology. #####
+##### § 542.306 Financial, material, or technological support. #####
 
-The term *information and communications technology* means any hardware, software, or other product or service primarily intended to fulfill or enable the function of information processing and communication by electronic means, including transmission and display, including via the Internet.
+The term *financial, material, or technological support,* as used in § 542.201(a)(1)(i), (a)(2)(ii)(L), and (a)(3)(ii)(C), means any property, tangible or intangible, including but not limited to currency, financial instruments, securities, or any other transmission of value; weapons or related materiel; chemical or biological agents; explosives; false documentation or identification; communications equipment; computers; electronic or other devices or equipment; technologies; lodging; safe houses; facilities; vehicles or other means of transportation; or goods. “Technologies” as used in this definition means specific information necessary for the development, production, or use of a product, including related technical data such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, or other recorded instructions.
+
+[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024.]

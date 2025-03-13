@@ -1,7 +1,5 @@
 ##### § 92.253 Tenant protections and selection. #####
 
-Link to an amendment published at 89 FR 38290, May 7, 2024.
-
 (a) *Lease.* There must be a written lease between the tenant and the owner of rental housing assisted with HOME funds that is for a period of not less than 1 year, unless by mutual agreement between the tenant and the owner a shorter period is specified. The lease must incorporate the VAWA lease term/addendum required under § 92.359(e), except as otherwise provided by § 92.359(b).
 
 (b) *Prohibited lease terms.* The lease may not contain any of the following provisions:
@@ -44,7 +42,7 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (C) Such services cannot be provided in a nonsegregated setting. The families must not be required to accept the services offered at the project. In advertising the project, the owner may advertise the project as offering services for a particular type of disability; however, the project must be open to all otherwise eligible persons with disabilities who may benefit from the services provided in the project.
 
-(4) Do not exclude an applicant with a certificate or voucher under the Section 8 Tenant-Based Assistance: Housing Choice Voucher Program (24 CFR part 982) or an applicant participating in a HOME tenant-based rental assistance program because of the status of the prospective tenant as a holder of such certificate, voucher, or comparable HOME tenant-based assistance document.
+(4) Do not exclude an applicant with a voucher under the Section 8 Tenant-Based Assistance: Housing Choice Voucher Program (24 CFR part 982) or an applicant participating in a HOME tenant-based rental assistance program because of the status of the prospective tenant as a holder of such voucher or comparable HOME tenant-based assistance document.
 
 (5) Provide for the selection of tenants from a written waiting list in the chronological order of their application, insofar as is practicable;
 
@@ -52,4 +50,4 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (7) Comply with the VAWA requirements prescribed in § 92.359.
 
-[61 FR 48750, Sept. 16, 1996, as amended at 67 FR 61756, Oct. 1, 2002; 78 FR 44674, July 24, 2013; 81 FR 80803, Nov. 16, 2016]
+[61 FR 48750, Sept. 16, 1996, as amended at 67 FR 61756, Oct. 1, 2002; 78 FR 44674, July 24, 2013; 81 FR 80803, Nov. 16, 2016; 89 FR 38290, May 7, 2024]

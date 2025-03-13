@@ -6,7 +6,6 @@
 
 (c) *High pressure or loss of circulation.* The operator shall take immediate steps and utilize necessary resources to maintain or restore control of any well in which the pressure equilibrium has become unbalanced.
 
-(d) *Protection of fresh water and other minerals.* The operator shall isolate freshwater-bearing and other usable water containing 5,000 ppm or less of dissolved solids and other mineral-bearing formations and protect them from contamination.
-Tests and surveys of the effectiveness of such measures shall be conducted by the operator using procedures and practices approved or prescribed by the authorized officer.
+(d) *Protection of fresh water and other minerals.* The operator shall isolate freshwater-bearing and other usable water containing 5,000 ppm or less of dissolved solids and other mineral-bearing formations and protect them from contamination. Tests and surveys of the effectiveness of such measures shall be conducted by the operator using procedures and practices approved or prescribed by the authorized officer.
 
 [47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983, further amended at 53 FR 17363, May 16, 1988; 80 FR 16222, Mar. 26, 2015; 82 FR 61949, Dec. 29, 2017]

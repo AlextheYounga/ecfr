@@ -1,7 +1,5 @@
 ##### § 903.6 What information must a PHA provide in the 5-Year Plan? #####
 
-Link to an amendment published at 89 FR 38292, May 7, 2024.
-
 (a) A PHA must include in its 5-Year Plan a statement of:
 
 (1) The PHA's mission for serving the needs of low-income, very low-income and extremely low-income families in the PHA's jurisdiction; and
@@ -16,4 +14,6 @@ Link to an amendment published at 89 FR 38292, May 7, 2024.
 
 (2) The progress the PHA has made in meeting the goals and objectives described in the PHA's previous 5-Year Plan.
 
-[65 FR 81222, Dec. 22, 2000, as amended at 73 FR 72344, Nov. 28, 2008; 75 FR 66262, Oct. 27, 2010]
+(c) If a PHA intends to select one or more projects for project-based assistance without competition in accordance with § 983.51(c), the PHA must include a statement of this intent in its 5-Year Plan (or an amendment to the 5-Year Plan) in order to notify the public prior to making a noncompetitive selection.
+
+[65 FR 81222, Dec. 22, 2000, as amended at 73 FR 72344, Nov. 28, 2008; 75 FR 66262, Oct. 27, 2010; 89 FR 38292, May 7, 2024]

@@ -1,3 +1,5 @@
-##### § 542.531 Authorization of emergency medical services. #####
+##### § 542.531 Emergency medical services. #####
 
-The provision of nonscheduled emergency medical services in the United States to persons whose property and interests in property are blocked pursuant to § 542.201(a) is authorized, provided that all receipt of payment for such services must be specifically licensed.
+The provision and receipt of nonscheduled emergency medical services that are prohibited by this part are authorized.
+
+[89 FR 58322, June 6, 2024]

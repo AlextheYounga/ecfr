@@ -10,11 +10,11 @@
 
 (4) Date of the opening gauge;
 
-(5) Opening gauge measurement (gauged manually or automatically) to the nearest1/2 inch;
+(5) Opening gauge measurement (gauged manually or automatically) to the nearest 1/2 inch;
 
 (6) Unique identifying number of each seal removed;
 
-(7) Closing gauge measurement (gauged manually or automatically) to the nearest1/2 inch;
+(7) Closing gauge measurement (gauged manually or automatically) to the nearest 1/2 inch;
 
 (8) Unique identifying number of each seal installed;
 

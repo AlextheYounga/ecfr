@@ -1,5 +1,7 @@
 ##### § 4044.56 XRA when a participant need not retire to receive a benefit. #####
 
+Link to an amendment published at 89 FR 48306, June 6, 2024.
+
 (a) *Applicability.* Except as provided in § 4044.57, the plan administrator shall determine the XRA under this section when plan provisions or established plan practice do not require a participant to retire from his or her job to begin receiving his or her early retirement benefit.
 
 (b) *Data needed.* The plan administrator shall determine for each participant—

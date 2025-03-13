@@ -1,0 +1,3 @@
+##### § 2361.4 Responsibility. #####
+
+The Bureau of Land Management is responsible for the surface and subsurface management of the Reserve, including protecting surface resources from environmental degradation and assuring maximum protection of significant resource values in Special Areas. The Act authorizes the Bureau to prepare rules and regulations necessary to carry out surface management and protection duties.

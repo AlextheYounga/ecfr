@@ -1,7 +1,5 @@
-##### § 542.311 New investment. #####
+##### § 542.311 Interest. #####
 
-The term *new investment* means a transaction after 12:01 a.m. eastern daylight time, August 18, 2011, that constitutes:
+Except as otherwise provided in this part, the term *interest,* when used with respect to property (e.g., “an interest in property”), means an interest of any nature whatsoever, direct or indirect.
 
-(a) A commitment or contribution of funds or other assets; or
-
-(b) A loan or other extension of credit as defined in § 542.310.
+[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024.]

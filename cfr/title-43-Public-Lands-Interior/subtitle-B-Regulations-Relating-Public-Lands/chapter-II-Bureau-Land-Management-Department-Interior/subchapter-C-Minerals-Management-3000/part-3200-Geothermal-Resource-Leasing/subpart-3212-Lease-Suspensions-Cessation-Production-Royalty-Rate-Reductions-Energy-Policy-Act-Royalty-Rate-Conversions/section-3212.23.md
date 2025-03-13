@@ -4,4 +4,4 @@
 
 (b) The production incentive will apply only to the increase in net generation. The increase in generation for any month in which the production incentive is in effect will be determined as follows:
 
-![](/graphics/er02my07.002.gif)where:i is a month for which a production incentive is in effect;ΔGi is the increase in generation for month i to which the production incentive applies;Ga,i is the actual generation in month i;1t,i is the target generation in month i, as provided in § 3212.19(b).
+![](/graphics/er02my07.002.gif)where:i is a month for which a production incentive is in effect; ΔGi is the increase in generation for month i to which the production incentive applies; Ga,i is the actual generation in month i;1t,i is the target generation in month i, as provided in § 3212.19(b).

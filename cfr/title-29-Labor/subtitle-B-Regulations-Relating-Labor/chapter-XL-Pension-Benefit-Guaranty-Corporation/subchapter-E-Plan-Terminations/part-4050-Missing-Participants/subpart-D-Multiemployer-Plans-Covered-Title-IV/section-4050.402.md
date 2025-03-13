@@ -1,5 +1,7 @@
 ##### § 4050.402 Definitions. #####
 
+Link to an amendment published at 89 FR 48309, June 6, 2024.
+
 The following terms are defined in § 4001.2 of this chapter: Annuity, Code, ERISA, insurer, PBGC, person, and plan sponsor. In addition, for purposes of this subpart:
 
 *Accrual cessation date* for a participant under a subpart D plan means the date the participant stopped accruing benefits under the terms of the plan.

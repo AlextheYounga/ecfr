@@ -8,7 +8,7 @@
 
 (b) The Agency may require partial or full graduation.
 
-(1) In a partial graduation, all FLP loans of one type (i.e. all chattel loans or all real estate loans) must be paid in full by refinancing with other credit with or without an Agency guarantee.
+(1) In a partial graduation, all FLP loans of one type (*i.e.* all chattel loans or all real estate loans) must be paid in full by refinancing with other credit with or without an Agency guarantee.
 
 (2) In a full graduation, all FLP loans are paid in full by refinancing with other credit with or without an Agency guarantee.
 

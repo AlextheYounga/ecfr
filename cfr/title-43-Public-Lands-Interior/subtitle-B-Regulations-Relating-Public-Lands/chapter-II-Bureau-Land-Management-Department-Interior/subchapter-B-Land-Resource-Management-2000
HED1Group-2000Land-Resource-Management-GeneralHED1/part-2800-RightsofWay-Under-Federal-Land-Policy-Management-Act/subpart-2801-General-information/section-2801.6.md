@@ -6,8 +6,7 @@ Link to an amendment published at 89 FR 35677, May 1, 2024.
 
 (1) Grants for necessary transportation or other systems and facilities which are in the public interest and which require the use of public lands for the purposes identified in 43 U.S.C. 1761, and administering, amending, assigning, renewing, and terminating them;
 
-(2) Grants to Federal departments or agencies for all systems and facilities identified in
-§ 2801.9(a), including grants for transporting by pipeline and related facilities, commodities such as oil, natural gas, synthetic liquid or gaseous fuels, and any refined products produced from them; and
+(2) Grants to Federal departments or agencies for all systems and facilities identified in § 2801.9(a), including grants for transporting by pipeline and related facilities, commodities such as oil, natural gas, synthetic liquid or gaseous fuels, and any refined products produced from them; and
 
 (3) Grants issued on or before October 21, 1976, under then existing statutory authority, unless application of these regulations would diminish or reduce any rights conferred by the original grant or the statute under which it was issued. Where there would be a diminishment or reduction in any right, the grant or statute applies.
 

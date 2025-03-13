@@ -1,7 +1,5 @@
 ##### § 972.218 Conversion assessment components. #####
 
-Link to an amendment published at 89 FR 38293, May 7, 2024.
-
 The conversion assessment contains five elements, as described below:
 
 (a) *Cost analysis.* A PHA must conduct a cost analysis comparing the cost of providing Section 8 tenant-based assistance with the cost of continuing to operate the development as public housing for the remainder of its useful life. The cost methodology necessary to conduct the cost comparisons for voluntary conversions has not yet been finalized. PHAs may not undertake conversions under this subpart until the effective date of the cost methodology, which will be announced in the Federal Register. Once effective, the cost methodology will be codified as an appendix to this part.
@@ -20,7 +18,7 @@ The conversion assessment contains five elements, as described below:
 
 (2) In conducting this assessment, a PHA must take into account:
 
-(i) Its overall use of rental certificates or vouchers under lease and the success rates of using Section 8 tenant-based assistance in the community for the appropriate bedroom sizes, including recent success rates for units renting at or below the established payment standard; and
+(i) Its overall use of rental vouchers under lease and the success rates of using Section 8 tenant-based assistance in the community for the appropriate bedroom sizes, including recent success rates for units renting at or below the established payment standard; and
 
 (ii) Any particular characteristics of the specific residents of the public housing which may affect their ability to be housed (such as large household size or the presence of an elderly or disabled family member).
 
@@ -33,3 +31,5 @@ The conversion assessment contains five elements, as described below:
 (3) Other substantial impacts on the neighborhood.
 
 (e) *Conversion implementation.* If a PHA intends to convert the development (or a portion of it) to tenant-based assistance, the conversion assessment must include a description of any actions the PHA plans to take in converting the development. This must include a general description of the planned future uses of the development, and the means and timetable for accomplishing such uses.
+
+[68 FR 54619, Sept. 17, 2003, as amended at 89 FR 38293, May 7, 2024]

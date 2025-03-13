@@ -1,5 +1,7 @@
 ##### § 922.11 Definitions. #####
 
+Link to an amendment published at 89 FR 48287, June 6, 2024.
+
 The following definitions shall apply to this part, unless modified by the definitions for a specific subpart or regulation:
 
 *Abandoning* means leaving without intent to remove any structure, material, or other matter on or in the seabed or submerged lands of a Sanctuary. For Thunder Bay National Marine Sanctuary and Underwater Preserve, abandoning means leaving without intent to remove any structure, material or other matter on the lake bottom associated with underwater cultural resources.

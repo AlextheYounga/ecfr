@@ -1,5 +1,7 @@
 ##### § 4010.8 Plan actuarial information. #####
 
+Link to an amendment published at 89 FR 48299, June 6, 2024.
+
 (a) *Required information.* Except as provided elsewhere in this part, for each plan (other than an exempt plan) maintained by any member of the filer's controlled group, each filer is required to provide, in accordance with the instructions on PBGC's Web site, *http://www.pbgc.gov,* the following actuarial information determined (except as specified below) as of the end of plan year ending within the filer's information year—
 
 (1) The number of—

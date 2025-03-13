@@ -1,6 +1,6 @@
 ##### § 3422.3-1 Bidding systems. #####
 
-(a) The provisions of 10 CFR part 3781 are not applicable to this part.
+(a) The provisions of 10 CFR part 378 1 are not applicable to this part.
 
 1 Redesignated as 30 CFR part 260 and removed at 48 FR 1182, Jan. 11, 1983.
 

@@ -1,0 +1,3 @@
+##### § 302-6.207 What factors should we consider in determining whether quarters are temporary? #####
+
+In determining whether quarters are “temporary”, you should consider factors such as reasonable time when the employee's residence at the old official station becomes temporary and no longer suitable for permanent residence (*e.g.,* household goods have been shipped and are unavailable to the employee and their immediate family), the duration of the lease, movement of household goods into the quarters, the type of quarters, the employee's expressions of intent, attempts to secure a permanent dwelling, and the length of time the employee occupies the quarters.

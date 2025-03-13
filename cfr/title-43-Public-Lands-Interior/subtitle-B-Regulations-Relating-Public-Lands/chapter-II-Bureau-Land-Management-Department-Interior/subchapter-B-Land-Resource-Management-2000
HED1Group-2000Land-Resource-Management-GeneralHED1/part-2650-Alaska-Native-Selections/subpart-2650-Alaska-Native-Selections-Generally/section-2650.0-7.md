@@ -1,6 +1,6 @@
 ##### § 2650.0-7 References. #####
 
-(a) Native enrollment procedures are contained in 25 CFR part 43h.1
+(a) Native enrollment procedures are contained in 25 CFR part 43h. 1
 
 1 At 47 FR 13327, Mar. 30, 1982, part 43h of Title 25 was redesignated as part 69.
 

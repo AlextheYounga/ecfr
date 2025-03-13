@@ -1,6 +1,6 @@
 ##### § 130.200 Eligible entities. #####
 
-The following entities are eligible to operate an SBDC network:
+ The following entities are eligible to operate an SBDC network:
 
 (a) A public or private institution of higher education;
 

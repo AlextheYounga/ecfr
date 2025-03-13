@@ -1,5 +1,7 @@
 ##### § 922.1 Purposes and applicability of the regulations. #####
 
+Link to an amendment published at 89 FR 48286, June 6, 2024.
+
 (a) The purposes of this part are:
 
 (1) To implement title III of the Marine Protection, Research, and Sanctuaries Act of 1972, as amended (16 U.S.C. 1431 *et seq.,* also known as the National Marine Sanctuaries Act (NMSA or Act)), the Florida Keys National Marine Sanctuary and Protection Act (FKNMSPA) (Pub. L. 101-605) and the Hawaiian Islands National Marine Sanctuary Act (sections 2301-2307 of Pub. L. 102-587); and

@@ -1,3 +1,3 @@
-##### § 302-6.17 Am I eligible for a TQSE allowance if I transfer to a foreign area? #####
+##### § 302-6.17 What effect do partial days of temporary quarters occupancy have on my authorized period for claiming TQSE reimbursement? #####
 
-No, you may not receive a TQSE allowance under this part when you transfer to an area outside the United States. However, you may qualify for a comparable allowance under the Standardized Regulations (Government Civilians, Foreign Areas) prescribed by the Department of State.
+Occupancy of temporary quarters is based on calendar days and partial days are counted as full days of TQSE. You may not receive reimbursement under both TQSE allowance and another subsistence expenses allowance within the same day, with one exception. If you claim TQSE reimbursement on the same day that official travel en route to your new official station ends, your per diem will be computed under applicable partial day rules, and you also may be reimbursed for actual TQSE you incur after 6 p.m. of that day.

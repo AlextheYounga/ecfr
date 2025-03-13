@@ -1,25 +1,5 @@
-##### § 983.155 Completion of housing. #####
+##### § 983.155 Completion of work. #####
 
-(a) *Completion deadline.* The owner must develop and complete the housing in accordance with the Agreement. The Agreement must specify the deadlines for completion of the housing and for submission by the owner of the required evidence of completion.
+(a) *General requirement.* The owner must submit evidence and certify to the PHA, in the form and manner required by the PHA's Administrative Plan, that development activity under § 983.152 or substantial improvement under §§ 983.207(d) or 983.212 has been completed, and that all such work was completed in accordance with the applicable requirements. The PHA must review the evidence to determine whether the development activity or substantial improvement was completed in accordance with the applicable requirements.
 
-(b) *Required evidence of completion*—(1) *Minimum submission.* At a minimum, the owner must submit the following evidence of completion to the PHA in the form and manner required by the PHA:
-
-(i) Owner certification that the work has been completed in accordance with the HQS and all requirements of the Agreement; and
-
-(ii) Owner certification that the owner has complied with labor standards and equal opportunity requirements in development of the housing.
-
-(2) *Additional documentation.* At the discretion of the PHA, the Agreement may specify additional documentation that must be submitted by the owner as evidence of housing completion. For example, such documentation may include:
-
-(i) A certificate of occupancy or other evidence that the units comply with local requirements (such as code and zoning requirements); and
-
-(ii) An architect's certification that the housing complies with:
-
-(A) HUD housing quality standards;
-
-(B) State, local, or other building codes;
-
-(C) Zoning;
-
-(D) The rehabilitation work write-up (for rehabilitated housing) or the work description (for newly constructed housing); or
-
-(E) Any additional design or quality requirements pursuant to the Agreement.
+(b) *PHA-owned units.* In the case of PHA-owned units, the owner must submit evidence and certify to the independent entity (see § 983.57(b)(3)), in the form and manner required by the PHA's Administrative Plan, that development activity under § 983.152 or substantial improvement under §§ 983.207(d) or 983.212 has been completed, and that all such work was completed in accordance with the applicable requirements. The independent entity must review the evidence to determine whether the development activity or substantial improvement was completed in accordance with the applicable requirements.

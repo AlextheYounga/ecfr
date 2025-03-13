@@ -1,5 +1,3 @@
-##### § 302-6.11 What methods may my agency use to reimburse me for TQSE? #####
+##### § 302-6.11 May my immediate family and I occupy temporary quarters at different locations? #####
 
-Your agency will reimburse you for TQSE under the actual expense method unless it permits the “lump sum” reimbursement method as an alternative. If your agency makes both methods available to you, you may select the one you prefer.
-
-[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2011-01, 76 FR 18338, Apr. 1, 2011]
+Yes. Under various circumstances, you and your immediate family may need to occupy temporary quarters at different locations (*e.g.,* if you must report to the new official station while the immediate family delays the relocation to have family members complete the school year) (see § 302-6.16 regarding concurrent TQSE).

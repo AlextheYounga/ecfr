@@ -1,81 +1,65 @@
-##### § 982.503 Payment standard amount and schedule. #####
+##### § 982.503 Payment standard areas, schedule, and amounts. #####
 
-Link to an amendment published at 89 FR 38300, May 7, 2024.
+(a) *Payment standard areas.* (1) Annually, HUD publishes fair market rents (FMRs) for U.S. Postal Service ZIP code areas, metropolitan areas, and nonmetropolitan counties (see 24 CFR 888.113). Within each of these FMR areas, the applicable FMR is:
 
-(a) *Payment standard schedule.* (1) HUD publishes the fair market rents for each market area in the United States (see part 888 of this title). The PHA must adopt a payment standard schedule that establishes voucher payment standard amounts for each FMR area in the PHA jurisdiction. For each FMR area, the PHA must establish payment standard amounts for each “unit size.” Unit size is measured by number of bedrooms (zero-bedroom, one-bedroom, and so on).
+(i) The HUD-published Small Area FMR for:
 
-(2) The payment standard amounts on the PHA schedule are used to calculate the monthly housing assistance payment for a family (§ 982.505).
+(A) Any metropolitan area designated as a Small Area FMR area by HUD in accordance with 24 CFR 888.113(c)(1).
 
-(3) The PHA voucher payment standard schedule shall establish a single payment standard amount for each unit size. For each unit size, the PHA may establish a single payment standard amount for the whole FMR area, or may establish a separate payment standard amount for each designated part of the FMR area.
+(B) Any area where a PHA has notified HUD that the PHA will voluntarily use SAFMRs in accordance with 24 CFR 888.113(c)(3).
 
-(b) *Establishing payment standard amounts.* (1)(i) The PHA may establish the payment standard amount for a unit size at any level between 90 percent and 110 percent of the published FMR for that unit size. HUD approval is not required to establish a payment standard amount in that range (“basic range”). The PHA must revise the payment standard amount no later than 3 months following the effective date of the published FMR if a change is necessary to stay within the basic range.
+(ii) The HUD-published metropolitan FMR for any other metropolitan area.
 
-(ii) The PHA may establish a separate payment standard amount within the basic range for a designated part of an FMR area.
+(iii) The HUD-published FMR for any other non-metropolitan county.
 
-(iii) A PHA that is not in a designated Small Area FMR area or has not opted to voluntarily implement Small Area FMRs under 24 CFR 888.113(c)(3) may establish exception payment standards for a ZIP code area above the basic range for the metropolitan FMR based on the HUD published Small Area FMRs. The PHA may establish an exception payment standard up to 110 percent of the HUD published Small Area FMR for that ZIP code area. The PHA must notify HUD if it establishes an exception payment standard based on the Small Area FMR. The exception payment standard must apply to the entire ZIP code area.
+(2) The PHA must adopt a payment standard schedule that establishes voucher payment standard amounts for each FMR area in the PHA jurisdiction. These payment standard amounts are used to calculate the monthly housing assistance payment for a family (§ 982.505).
 
-(iv) At the request of a PHA administering the HCV program under Small Area FMRs under § 888.113(c)(3), HUD may approve an exception payment standard for a Small Area FMR area above the 110 percent of the published FMR in accordance with conditions set forth by Notice in the Federal Register. The requirements of paragraph (c) of this section do not apply to these exception payment standard requests and approvals.
+(3) The PHA may designate payment standard areas within each FMR area. The PHA may establish different payment standard amounts for such designated areas. If the PHA designates payment standard areas, then it must include in its Administrative Plan the criteria used to determine the designated areas and the payment standard amounts for those areas.
 
-(v) The PHA may establish an exception payment standard of not more than 120 percent of the published FMR if required as a reasonable accommodation in accordance with 24 CFR part 8 for a family that includes a person with a disability. Any unit approved under an exception payment standard must still meet the reasonable rent requirements found at § 982.507.
+(i) The PHA may designate payment standard areas within which payment standards will be established according to paragraph (c) (basic range) or paragraph (d) (exception payment standard), of this section.
 
-(vi) The PHA may establish an exception payment standard of more than 120 percent of the published FMR if required as a reasonable accommodation in accordance with 24 CFR part 8 for a family that includes a person with a disability after approval from HUD. Any unit approved under an exception payment standard must still meet the reasonable rent requirements found at § 982.507.
+(ii) A PHA-designated payment standard area may be no smaller than a census tract block group.
 
-(2) Except as described in paragraphs (b)(1)(iii) through (v) of this section, the PHA must request HUD approval to establish a payment standard amount that is higher or lower than the basic range. HUD has sole discretion to grant or deny approval of a higher or lower payment standard amount. Paragraphs (c) and (e) of this section describe the requirements for approval of a higher payment standard amount (“exception payment standard amount”).
+(b) *Payment standard schedule.* For each payment standard area, the PHA must establish a payment standard amount for each unit size, measured by number of bedrooms (zero-bedroom, one-bedroom, and so on). These payment standard amounts comprise the PHA's payment standard schedule.
 
-(c) *HUD approval of exception payment standard amount*—(1) *HUD discretion.* At HUD's sole discretion, HUD may approve a payment standard amount that is higher than the basic range for a designated part of the fair market rent area (called an “exception area”). HUD may approve an exception payment standard amount in accordance with this paragraph (c) of this section for all units, or for all units of a given unit size, leased by program families in the exception area. Any PHA with jurisdiction in the exception area may use the HUD-approved exception payment standard amount.
+(c) *Basic range payment standard amounts.* A basic range payment standard amount is any dollar amount that is in the range from 90 percent up to 110 percent of the published FMR for a unit size.
 
-(2) *Above 110 percent of FMR to 120 percent of published FMR.* The HUD Field Office may approve an exception payment standard amount from above 110 percent of the published FMR to 120 percent of the published FMR (upper range) if the HUD Field Office determines that approval is justified by the median rent method or the 40th percentile rent or the Small Area FMR method as described in paragraph (c)(2)(ii) of this section (and that such approval is also supported by an appropriate program justification in accordance with paragraph (c)(4) of this section).
+(1) The PHA may establish a payment standard amount within the basic range without HUD approval or prior notification to HUD.
 
-(i) *Median rent method.* In the median rent method, HUD determines the exception payment standard amount by multiplying the FMR times a fraction of which the numerator is the median gross rent of the exception area and the denominator is the median gross rent of the entire FMR area. In this method, HUD uses median gross rent data from the most recent decennial United States census, and the exception area may be any geographic entity within the FMR area (or any combination of such entities) for which median gross rent data is provided in decennial census products.
+(2) The PHA's basic range payment standard amount for each unit size may be based on the same percentage of the published FMR (*i.e.,* all payment standard amounts may be set at 100 percent of the FMR), or the PHA may establish different payment standard amounts for different unit sizes (for example, 90 percent for efficiencies, 100 percent for 1-bedroom units, 110 percent for larger units).
 
-(ii) *40th percentile rent or Small Area FMR method.* In this method, HUD determines that the area exception payment standard amount equals application of the 40th percentile of rents for standard quality rental housing in the exception area or the Small Area FMR. HUD determines whether the 40th percentile rent or Small Area FMR applies in accordance with the methodology described in 24 CFR 888.113 for determining FMRs. A PHA must present statistically representative rental housing survey data to justify HUD approval.
+(3) The PHA must revise its payment standard amounts and schedule no later than 3 months following the effective date of the published FMR if revisions are necessary to stay within the basic range.
 
-(3) *Above 120 percent of FMR.* (i) At the request of a PHA, the Assistant Secretary for Public and Indian Housing may approve an exception payment standard amount for the total area of a county, PHA jurisdiction, or place if the Assistant Secretary determines that:
+(d) *Exception payment standard amounts.* An exception payment standard amount is a dollar amount that exceeds 110 percent of the published FMR.
 
-(A) Such approval is necessary to prevent financial hardship for families;
+(1) The PHA may establish exception payment standard amounts for all units, or for units of a particular size. The exception payment standard may be established for a designated part of the FMR area (called an “exception area”) or for the entire FMR area. The exception area must meet the minimum area requirement at § 982.503(a)(3)(ii).
 
-(B) Such approval is supported by statistically representative rental housing survey data to justify HUD approval in accordance with the methodology described in § 888.113 of this title; and
+(2) A PHA that is not in a designated Small Area FMR area or has not opted voluntarily to implement Small Area FMRs under 24 CFR 888.113(c)(3) may establish exception payment standards for a ZIP code area that exceed the basic range for the metropolitan area or county FMR as long as the amounts established by the PHA do not exceed 110 percent of the HUD published SAFMR for the applicable ZIP code. The exception payment standard must apply to the entire ZIP code area. If an exception area crosses one or more FMR boundaries, then the maximum exception payment standard amount that a PHA may adopt for the exception area without HUD approval is 110 percent of the ZIP code area with the lowest SAFMR amount. If the PHA qualifies for an exception payment standard above 110 percent of the applicable FMR under paragraph (d)(3) or (4) of this section, it may establish exception payment standards up to the same percentage of the SAFMR for the applicable ZIP code.
 
-(C) Such approval is also supported by an appropriate program justification in accordance with paragraph (c)(4) of this section.
+(3) A PHA may establish exception payment standard amounts between 110 percent and 120 percent of the applicable FMR for such duration as HUD specifies by notice upon notification to HUD that the PHA meets at least one of the following criteria:
 
-(ii) For purposes of paragraph (c)(3) of this section, the term “place” is an incorporated place or a U.S. Census designated place. An incorporated place is established by State law and includes cities, boroughs, towns, and villages. A U.S. Census designated place is the statistical counterpart of an incorporated place.
+(i) Fewer than 75 percent of the families to whom the PHA issued tenant-based rental vouchers during the most recent 12-month period for which there is success rate data available have become participants in the voucher program;
 
-(4) *Program justification.* (i) HUD will only approve an exception payment standard amount (pursuant to paragraph (c)(2) or paragraph (c)(3) of this section) if HUD determines that approval of such higher amount is needed either:
+(ii) More than 40 percent of families with tenant-based rental assistance administered by the agency pay more than 30 percent of adjusted income as the family share; or
 
-(A) To help families find housing outside areas of high poverty, or
+(iii) Such other criteria as the Secretary establishes by notice.
 
-(B) Because voucher holders have trouble finding housing for lease under the program within the term of the voucher.
+(4) Except as provided in paragraphs (d)(2), (3), and (5) of this section, the PHA must request approval from HUD to establish an exception payment standard amount that exceeds 110 percent of the applicable FMR. In its request to HUD, the PHA must provide rental market data demonstrating that the requested exception payment standard amount is needed for families to access rental units. The rental market data must include a rent estimate for the entire FMR area compared with a rent estimate for the proposed exception area. To apply the exception payment standard to the entire FMR area, the rental market data provided by the PHA must also provide data that demonstrates that the annual percentage of rent inflation in the FMR area is greater than the rental inflation adjustment factor in the calculation of the published FMR. Once HUD has approved the exception payment standard for the requesting PHA, any other PHA with jurisdiction in the HUD approved exception payment standard area may also use the exception payment standard amount.
 
-(ii) HUD will only approve an exception payment standard amount (pursuant to paragraph (c)(3) of this section) after six months from the date of HUD approval of an exception payment standard pursuant to paragraph (c)(2) of this section for the area.
+(5) If required as a reasonable accommodation in accordance with 24 CFR part 8 for a person with a disability, the PHA may establish, without HUD approval or prior notification to HUD, an exception payment standard amount for an individual family that does not exceed 120 percent of the applicable FMR. A PHA may establish a payment standard greater than 120 percent of the applicable FMR as a reasonable accommodation for a person with a disability in accordance with 24 CFR part 8, after requesting and receiving HUD approval.
 
-(5) *Population.* The total population of HUD-approved exception areas in an FMR area may not include more than 50 percent of the population of the FMR area, except when applying Small Area FMR exception areas under paragraph (b)(1)(iii) of this section.
+(e) *Payment standard amount below 90 percent of the applicable FMR.* HUD may consider a PHA request for approval to establish a payment standard amount that is lower than the basic range. At HUD's sole discretion, HUD may approve PHA establishment of a payment standard lower than the basic range. In determining whether to approve the PHA request, HUD will consider appropriate factors, including rent burden of families assisted under the program. Unless it is necessary to prevent termination of program participants, HUD will not approve a lower payment standard if the proposed payment standard would, if it were used to calculate the housing assistance payments for current participants in the PHA's voucher program using currently available data, cause the family share for more than 40 percent of participants with tenant-based rental assistance to exceed 30 percent of adjusted monthly income.
 
-(6) *Withdrawal or modification.* At any time, HUD may withdraw or modify approval to use an exception payment standard amount.
+(f) *Phaseout of success rate payment standard amounts.* HUD will no longer approve success rate payment standards. However, a PHA that was approved to establish a success rate payment standard amount under this paragraph as in effect prior to June 6, 2024 shall not be required to reduce such payment standard amount as a result of the discontinuance of success rate payment standards.
 
-(d) *HUD approval of payment standard amount below the basic range.* HUD may consider a PHA request for approval to establish a payment standard amount that is lower than the basic range. At HUD's sole discretion, HUD may approve PHA establishment of a payment standard lower than the basic range. In determining whether to approve the PHA request, HUD will consider appropriate factors, including rent burden of families assisted under the program. HUD will not approve a lower payment standard if the family share for more than 40 percent of participants in the PHA's voucher program exceeds 30 percent of adjusted monthly income. Such determination may be based on the most recent examinations of family income.
+(g) *Payment standard protection for PHAs that meet deconcentration objectives.* This paragraph applies only to a PHA with jurisdiction in an FMR area where the FMR had previously been set at the 50th percentile rent to provide a broad range of housing opportunities throughout a metropolitan area, pursuant to 24 CFR 888.113(i)(3), but is now set at the 40th percentile rent.
 
-(e) *HUD approval of success rate payment standard amounts.* In order to increase the number of voucher holders who become participants, HUD may approve requests from PHAs whose FMRs are computed at the 40th percentile rent to establish higher, success rate payment standard amounts. A success rate payment standard amount is defined as any amount between 90 percent and 110 percent of the 50th percentile rent, calculated in accordance with the methodology described in § 888.113 of this title.
+(1) Such a PHA may obtain HUD Field Office approval of a payment standard amount based on the 50th percentile rent if the PHA scored the maximum number of points on the deconcentration bonus indicator in 24 CFR 985.3(h) in the prior year, or in two of the last three years.
 
-(1) A PHA may obtain HUD Field Office approval of success rate payment standard amounts provided the PHA demonstrates to HUD that it meets the following criteria:
+(2) HUD approval of payment standard amounts based on the 50th percentile rent shall be for all unit sizes in the FMR area that had previously been set at the 50th percentile rent pursuant to 24 CFR 888.113(i)(3). A PHA may opt to establish a payment standard amount based on the 50th percentile rent for one or more unit sizes in all or a designated part of the PHA jurisdiction within the FMR area.
 
-(i) Fewer than 75 percent of the families to whom the PHA issued rental vouchers during the most recent 6 month period for which there is success rate data available have become participants in the voucher program;
-
-(ii) The PHA has established payment standard amounts for all unit sizes in the entire PHA jurisdiction within the FMR area at 110 percent of the published FMR for at least the 6 month period referenced in paragraph (e)(1)(i) of this section and up to the time the request is made to HUD; and
-
-(iii) The PHA has a policy of granting automatic extensions of voucher terms to at least 90 days to provide a family who has made sustained efforts to locate suitable housing with additional search time.
-
-(2) In determining whether to approve the PHA request to establish success rate payment standard amounts, HUD will consider whether the PHA has a SEMAP overall performance rating of “troubled”. If a PHA does not yet have a SEMAP rating, HUD will consider the PHA's SEMAP certification.
-
-(3) HUD approval of success rate payment standard amounts shall be for all unit sizes in the FMR area. A PHA may opt to establish a success rate payment standard amount for one or more unit sizes in all or a designated part of the PHA jurisdiction within the FMR area.
-
-(f) *Payment standard protection for PHAs that meet deconcentration objectives.* Paragraph (f) of this section applies only to a PHA with jurisdiction in an FMR area where the FMR had previously been set at the 50th percentile rent to provide a broad range of housing opportunities throughout a metropolitan area, pursuant to § 888.113(i)(3), but is now set at the 40th percentile rent.
-
-(1) Such a PHA may obtain HUD Field Office approval of a payment standard amount based on the 50th percentile rent if the PHA scored the maximum number of points on the deconcentration bonus indicator in § 985.3(h) in the prior year, or in two of the last three years.
-
-(2) HUD approval of payment standard amounts based on the 50th percentile rent shall be for all unit sizes in the FMR area that had previously been set at the 50th percentile rent pursuant to § 888.113(i)(3). A PHA may opt to establish a payment standard amount based on the 50th percentile rent for one or more unit sizes in all or a designated part of the PHA jurisdiction within the FMR area.
-
-(g) *HUD review of PHA payment standard schedules.* (1) HUD will monitor rent burdens of families assisted in a PHA's voucher program. HUD will review the PHA's payment standard for a particular unit size if HUD finds that 40 percent or more of such families occupying units of that unit size currently pay more than 30 percent of adjusted monthly income as the family share. Such determination may be based on the most recent examinations of family income.
+(h) *HUD review of PHA payment standard schedules.* (1) HUD will monitor rent burdens of families assisted with tenant-based rental assistance in a PHA's voucher program. HUD will review the PHA's payment standard for a particular unit size if HUD finds that 40 percent or more of such families occupying units of that unit size currently pay more than 30 percent of adjusted monthly income as the family share. Such determination may be based on the most recent examinations of family income.
 
 (2) After such review, HUD may, at its discretion, require the PHA to modify payment standard amounts for any unit size on the PHA payment standard schedule. HUD may require the PHA to establish an increased payment standard amount within the basic range.
 
-[64 FR 26648, May 14, 1999; 64 FR 49658, Sept. 14, 1999, as amended at 64 FR 56914, Oct. 21, 1999; 65 FR 16822, Mar. 30, 2000; 65 FR 58874, Oct. 2, 2000; 66 FR 30568, June 6, 2001; 67 FR 56688, Sept. 4, 2002; 80 FR 8246, Feb. 17, 2015; 81 FR 12376, Mar. 8, 2016; 81 FR 80582, Nov. 16, 2016]
+[89 FR 38300, May 7, 2024]

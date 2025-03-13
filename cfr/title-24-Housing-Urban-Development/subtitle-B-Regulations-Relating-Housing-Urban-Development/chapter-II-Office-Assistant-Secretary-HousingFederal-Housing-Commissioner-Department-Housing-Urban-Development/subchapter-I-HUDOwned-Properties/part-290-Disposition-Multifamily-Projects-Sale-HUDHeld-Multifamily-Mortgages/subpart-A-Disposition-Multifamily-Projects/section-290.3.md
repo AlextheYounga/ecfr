@@ -1,7 +1,5 @@
 ##### § 290.3 Definitions. #####
 
-Link to an amendment published at 89 FR 38290, May 7, 2024.
-
 The terms *Department* and *URA* are defined in 24 CFR part 5. The following definitions apply to this part:
 
 *Cooperative* means a nonprofit, limited equity, or consumer cooperative as defined under 24 CFR part 213. It may include mutual housing associations.
@@ -44,8 +42,10 @@ The terms *Department* and *URA* are defined in 24 CFR part 5. The following def
 
 (3) The shortage of housing is resulting in rent increases that exceed normal increases commensurate with the costs of operating rental housing;
 
-(4) A significant number, or proportion, of the households holding Section 8 certificates or rental vouchers are unable to find adequate housing because of the shortage of rental housing, including PHA data showing a lower than average percentage of units under lease and a longer than average time required to find units.
+(4) A significant number, or proportion, of the households holding Section 8 rental vouchers are unable to find adequate housing because of the shortage of rental housing, including PHA data showing a lower than average percentage of units under lease and a longer than average time required to find units.
 
 *Unsubsidized project* means a multifamily housing project that is not a subsidized project.
 
 *Useful life* means, generally, twenty years, but it may be more or less, as determined by the Department.
+
+[61 FR 11685, Mar. 21, 1996, as amended at 89 FR 38290, May 7, 2024]

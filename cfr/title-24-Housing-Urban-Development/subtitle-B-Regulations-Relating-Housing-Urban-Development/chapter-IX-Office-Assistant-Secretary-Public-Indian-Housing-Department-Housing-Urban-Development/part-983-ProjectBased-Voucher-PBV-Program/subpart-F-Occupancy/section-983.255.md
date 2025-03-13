@@ -1,10 +1,8 @@
 ##### § 983.255 Tenant screening. #####
 
-Link to an amendment published at 89 FR 38334, May 7, 2024.
-
 (a) *PHA option.* (1) The PHA has no responsibility or liability to the owner or any other person for the family's behavior or suitability for tenancy. However, the PHA may opt to screen applicants for family behavior or suitability for tenancy and may deny admission to an applicant based on such screening.
 
-(2) The PHA must conduct any such screening of applicants in accordance with policies stated in the PHA administrative plan.
+(2) The PHA must conduct tenant screening of applicants in accordance with policies stated in the PHA Administrative Plan.
 
 (b) *Owner responsibility.* (1) The owner is responsible for screening and selection of the family to occupy the owner's unit.
 
@@ -30,8 +28,8 @@ Link to an amendment published at 89 FR 38334, May 7, 2024.
 
 (3) The PHA must give the family a description of the PHA policy on providing information to owners.
 
-(4) The PHA policy must provide that the PHA will give the same types of information to all owners.
+(4) The PHA policy must be stated in the Administrative Plan and provide that the PHA will give the same types of information to all owners.
 
 (d) The protections for victims of domestic violence, dating violence, sexual assault, or stalking in 24 CFR part 5, subpart L, apply to tenant screening.
 
-[70 FR 59913, Oct. 13, 2005, as amended at 73 FR 72345, Nov. 28, 2008; 75 FR 66264, Oct. 27, 2010; 81 FR 80818, Nov. 16, 2016]
+[70 FR 59913, Oct. 13, 2005, as amended at 73 FR 72345, Nov. 28, 2008; 75 FR 66264, Oct. 27, 2010; 81 FR 80818, Nov. 16, 2016; 89 FR 38334, May 7, 2024]

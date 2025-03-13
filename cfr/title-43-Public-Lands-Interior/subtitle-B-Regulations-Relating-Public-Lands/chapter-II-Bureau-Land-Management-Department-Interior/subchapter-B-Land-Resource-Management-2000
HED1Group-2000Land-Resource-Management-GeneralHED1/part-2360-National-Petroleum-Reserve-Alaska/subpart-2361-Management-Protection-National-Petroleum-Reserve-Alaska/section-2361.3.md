@@ -1,3 +1,3 @@
-##### § 2361.3 Unauthorized use and occupancy. #####
+##### § 2361.3 Authority. #####
 
-Any person who violates or fails to comply with regulations of this subpart is subject to prosecution, including trespass and liability for damages, pursuant to the appropriate laws.
+The primary statutory authority for this subpart is the Naval Petroleum Reserves Production Act of 1976, as amended by the Department of the Interior Appropriations Act, Fiscal Year 1981 (Pub. L. 96-514). Additional authority is provided by the Federal Land Policy and Management Act (43 U.S.C. 1701 *et seq.*)—other than the land use planning and wilderness study requirements, which do not apply to the Reserve under 42 U.S.C. 6506a(c)—and the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 *et seq.*).

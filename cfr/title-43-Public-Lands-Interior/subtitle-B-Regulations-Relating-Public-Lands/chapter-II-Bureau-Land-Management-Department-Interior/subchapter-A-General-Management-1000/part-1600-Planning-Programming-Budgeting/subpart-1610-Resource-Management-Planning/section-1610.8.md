@@ -16,4 +16,4 @@
 
 (2) A land disposal action may be considered before a resource management plan is scheduled for preparation, through a planning analysis, using the process described in § 1610.5-5 of this title for amending a plan.
 
-[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005; 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]Group 1700—Program Management
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005; 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017] Group 1700—Program Management

@@ -1,5 +1,7 @@
 ##### § 4281.13 Benefit valuation methods—in general. #####
 
+Link to an amendment published at 89 FR 48309, June 6, 2024.
+
 Except as otherwise provided in § 4281.16 (regarding plans that are closing out), the plan sponsor must value benefits as of the valuation date by—
 
 (a) Using the interest assumptions described in Table I of appendix B to part 4044 of this chapter;

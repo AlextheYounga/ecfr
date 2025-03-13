@@ -1,3 +1,3 @@
-##### § 302-6.16 May I receive a TQSE allowance if I am receiving another subsistence expenses allowance? #####
+##### § 302-6.16 May the period for which I am authorized to claim TQSE reimbursement for myself be different from that of my immediate family? #####
 
-No, with one exception. You may receive a cost-of-living allowance payable under 5 U.S.C. 5941 in addition to a TQSE allowance.
+No, the eligibility period for which you are authorized to claim TQSE reimbursement for yourself and for each member of your immediate family must run concurrently.

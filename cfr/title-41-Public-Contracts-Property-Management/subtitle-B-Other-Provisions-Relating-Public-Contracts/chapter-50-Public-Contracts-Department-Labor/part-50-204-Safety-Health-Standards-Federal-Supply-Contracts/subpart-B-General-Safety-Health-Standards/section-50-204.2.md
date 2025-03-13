@@ -4,17 +4,17 @@
 
 (1) U.S. Department of Labor—Title 29 CFR—
 
-Part 1501—Safety and Health Regulations for Ship Repairing.Part 1502—Safety and Health Regulations for Shipbuilding.Part 1503—Safety and Health Regulations for Shipbreaking.Part 1504—Safety and Health Regulations for Longshoring.Part 1910—Subpart C through Subpart S (national consensus standards).
+Part 1501—Safety and Health Regulations for Ship Repairing. Part 1502—Safety and Health Regulations for Shipbuilding. Part 1503—Safety and Health Regulations for Shipbreaking. Part 1504—Safety and Health Regulations for Longshoring. Part 1910—Subpart C through Subpart S (national consensus standards).
 
 (2) U.S. Department of Interior, Bureau of Mines.
 
 (i) In Chapter I of Title 30, Code of Federal Regulations, the standards requiring safe and healthful working conditions or surroundings in:
 
-Subchapter B—Respiratory Protective Apparatus; Tests for Permissibility; Fees.Subchapter C—Explosives and Related Articles; Tests for Permissibility and Suitability.Subchapter D—Electrical Equipment, Lamps, Methane Detectors; Tests for Permissibility; Fees.Subchapter O—Coal Mine Health and Safety.
+Subchapter B—Respiratory Protective Apparatus; Tests for Permissibility; Fees. Subchapter C—Explosives and Related Articles; Tests for Permissibility and Suitability. Subchapter D—Electrical Equipment, Lamps, Methane Detectors; Tests for Permissibility; Fees. Subchapter O—Coal Mine Health and Safety.
 
 (ii) In Chapter II of Title 30 the standards requiring safe and healthful working conditions or surroundings in:
 
-Part 211—Coal-Mining Operating and Safety Regulations.Part 216—Operating and Safety Regulations Governing the Mining of Coal in Alaska.Part 221—Oil and Gas Operating Regulations.Part 231—Operating and Safety Regulations Governing the Mining of Potash; Oil Shale, Sodium, and Phosphate; Sulphur; and Gold, Silver, or Quicksilver; and Other Nonmetallic Minerals, Including Silica Sand.
+Part 211—Coal-Mining Operating and Safety Regulations. Part 216—Operating and Safety Regulations Governing the Mining of Coal in Alaska. Part 221—Oil and Gas Operating Regulations. Part 231—Operating and Safety Regulations Governing the Mining of Potash; Oil Shale, Sodium, and Phosphate; Sulphur; and Gold, Silver, or Quicksilver; and Other Nonmetallic Minerals, Including Silica Sand.
 
 (3) U.S. Department of Transportation: 49 CFR parts 171-179 and 14 CFR part 103 Hazardous material regulation—Transportation of compressed gases.
 

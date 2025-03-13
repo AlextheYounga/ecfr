@@ -1,0 +1,3 @@
+##### § 302-6.23 What is the “applicable per diem rate” under the TQSE reimbursement methods? #####
+
+The “applicable per diem rate” is the rate in effect for the locality at the old or new official station or combination thereof, wherever temporary quarters will be occupied. The applicable per diem rate could be the standard CONUS, CONUS non-standard area (NSA), or OCONUS non-foreign locality per diem rate as determined by GSA or the Department of Defense.

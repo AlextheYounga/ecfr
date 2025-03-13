@@ -14,7 +14,7 @@ Radiation Symbol
 
 (b) *Radiation areas.* Each radiation area shall be conspicuously posted with a sign or signs bearing the radiation caution symbol and the words:
 
-Caution2
+Caution 2
 
 2 Or “Danger”.
 
@@ -22,7 +22,7 @@ Radiation Area
 
 (c) *High radiation area.* (1) Each high radiation area shall be conspicuously posted with a sign or signs bearing the radiation caution symbol and the words:
 
-Caution2High Radiation Area
+Caution 2High Radiation Area
 
 (2) Each high radiation area shall be equipped with a control device which shall either cause the level of radiation to be reduced below that at which an individual might receive a dose of 100 millirems in 1 hour upon entry into the area or shall energize a conspicuous visible or audible alarm signal in such a manner that the individual entering and the employer or a supervisor of the activity are made aware of the entry. In the case of a high radiation area established for a period of 30 days or less, such control device is not required.
 
@@ -30,23 +30,23 @@ Caution2High Radiation Area
 
 (2) Each airborne radioactivity area shall be conspicuously posted with a sign or signs bearing the radiation caution symbol and the words:
 
-Caution2Airborne Radioactivity Area
+Caution 2Airborne Radioactivity Area
 
 (e) *Additional requirements.* (1) Each area or room in which radioactive material is used or stored and which contains any radioactive material (other than natural uranium or thorium) in any amount exceeding 10 times the quantity of such material specified in appendix C to 10 CFR part 20 shall be conspiciously posted with a sign or signs bearing the radiation caution symbol and the words:
 
-Caution2Radioactive Materials
+Caution 2Radioactive Materials
 
 (2) Each area or room in which natural uranium or thorium is used or stored in an amount exceeding 100 times the quantity specified in appendix C to 10 CFR part 20 shall be conspicuously posted with a sign or signs bearing the radiation caution symbol and the words:
 
-Caution2Radioactive Materials
+Caution 2Radioactive Materials
 
 (f) *Containers.* (1) Each container in which is transported, stored, or used a quantity of any radioactive material (other than natural uranium or thorium) greater than the quantity of such material specified in appendix C to 10 CFR part 20 shall bear a durable, clearly visible label bearing the radiation caution symbol and the words:
 
-Caution2Radioactive Materials
+Caution 2Radioactive Materials
 
 (2) Each container in which natural uranium or thorium is transported, stored, or used in a quantity greater than 10 times the quantity specified in appendix C to 10 CFR part 20 shall bear a durable, clearly visible label bearing the radiation caution symbol and the words:
 
-Caution2
+Caution 2
 
 2 Or “Danger”.
 

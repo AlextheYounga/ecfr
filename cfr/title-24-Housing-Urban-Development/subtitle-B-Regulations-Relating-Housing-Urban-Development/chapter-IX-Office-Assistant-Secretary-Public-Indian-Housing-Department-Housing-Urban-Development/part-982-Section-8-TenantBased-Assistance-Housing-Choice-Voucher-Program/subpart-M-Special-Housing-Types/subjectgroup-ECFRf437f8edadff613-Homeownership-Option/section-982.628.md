@@ -4,7 +4,7 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (a) *Initial requirements applicable to the unit.* The PHA must determine that the unit satisfies all of the following requirements:
 
-(1) The unit is eligible. (See § 982.352. Paragraphs (a)(6), (a)(7) and (b) of § 982.352 do not apply.)
+(1) The unit is eligible. (See § 982.352. Paragraphs (a)(6) and (b) of § 982.352 do not apply.)
 
 (2) The unit is either a one-unit property (including a manufactured home) or a single dwelling unit in a cooperative or condominium.
 
@@ -20,13 +20,13 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (c) *PHA disapproval of seller.* The PHA may not commence homeownership assistance for occupancy of a home if the PHA has been informed (by HUD or otherwise) that the seller of the home is debarred, suspended, or subject to a limited denial of participation under 2 CFR part 2424.
 
-(d) *PHA-owned units.* Homeownership assistance may be provided for the purchase of a unit that is owned by the PHA that administers the assistance under the consolidated ACC (including a unit owned by an entity substantially controlled by the PHA), only if all of the following conditions are satisfied:
+(d) *PHA-owned units.* A family may purchase a PHA-owned unit, as defined in § 982.4, with homeownership assistance only if the following conditions are satisfied:
 
 (1) The PHA must inform the family, both orally and in writing, that the family has the right to purchase any eligible unit and a PHA-owned unit is freely selected by the family without PHA pressure or steering;
 
 (2) The unit is not ineligible housing;
 
-(3) The PHA must obtain the services of an independent agency, in accordance with § 982.352(b)(1)(iv)(B) and (C), to perform the following PHA functions:
+(3) The PHA must obtain the services of an independent entity, as defined in § 982.4 and in accordance with § 982.352(b)(1)(v)(B), to perform the following PHA functions:
 
 (i) Inspection of the unit for compliance with the HQS, in accordance with § 982.631(a);
 
@@ -46,6 +46,6 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (2) Construction of the unit has been completed; and
 
-(3) The unit has passed the required Housing Quality Standards (HQS) inspection (see § 982.631(a)) and independent inspection (see § 982.631(b)).
+(3) The unit has passed the required HQS inspection (see § 982.631(a)) and independent inspection (see § 982.631(b)).
 
-[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64494, Oct. 18, 2002; 67 FR 65865, Oct. 28, 2002; 67 FR 67522, Nov. 6, 2002; 72 FR 59938, Oct. 22, 2007; 72 FR 73496, Dec. 27, 2007; 88 FR 30504, May 11, 2023]
+[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64494, Oct. 18, 2002; 67 FR 65865, Oct. 28, 2002; 67 FR 67522, Nov. 6, 2002; 72 FR 59938, Oct. 22, 2007; 72 FR 73496, Dec. 27, 2007; 88 FR 30504, May 11, 2023; 89 FR 38304, May 7, 2024]

@@ -120,7 +120,7 @@ For the purpose of this part:
 
 (v) *Reasonable accommodation*—(1) The term *reasonable accommodation* means:
 
-(i) Modifications or adjustments to a job application process that enable a qualified applicant who is a disabled veteran to be considered for the position such applicant desires;1 or
+(i) Modifications or adjustments to a job application process that enable a qualified applicant who is a disabled veteran to be considered for the position such applicant desires; 1 or
 
 1 A contractor's duty to provide a reasonable accommodation with respect to applicants who are disabled veterans is not limited to those who ultimately demonstrate that they are qualified to perform the job in issue. Disabled veteran applicants must be provided a reasonable accommodation with respect to the application process if they are qualified with respect to that process (e.g., if they present themselves at the correct location and time to fill out an application).
 

@@ -30,7 +30,7 @@ This section applies to Leverage issued by a Section 301(d) Licensee on or befor
 
 (e) *Definition of “Total Funds Available for Investment”.* Total Funds Available for Investment means the result obtained from the following formula:
 
-T = .90 × (CA + LI)Where:T = Total funds available for investmentCA = Total current assetsLI = Total Loans and Investment at cost (as reported on SBA Form 468), net of current maturities
+T = .90 × (CA + LI) Where: T = Total funds available for investment CA = Total current assets LI = Total Loans and Investment at cost (as reported on SBA Form 468), net of current maturities
 
 (f) *Definition of “Venture Capital Financing”.* Venture Capital Financing means an investment represented by common or preferred stock, a limited partnership interest, or a similar ownership interest; or by an unsecured debt instrument that is subordinated by its terms to all other borrowings of the issuer.
 

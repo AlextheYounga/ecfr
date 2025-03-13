@@ -1,6 +1,6 @@
 ##### § 3173.9 Required recordkeeping for inventory and seal records. #####
 
-(a) The operator must perform an end-of-month inventory (gauged manually or automatically) that records: TOV in storage (measured to the nearest1/2 inch) subtracting free water, the volume not corrected for temperature/S&W, and the volume as reported to ONRR on the OGOR;
+(a) The operator must perform an end-of-month inventory (gauged manually or automatically) that records: TOV in storage (measured to the nearest 1/2 inch) subtracting free water, the volume not corrected for temperature/S&W, and the volume as reported to ONRR on the OGOR;
 
 (1) The end-of-month inventory must be completed within ± 3 days of the last day of the calendar month; or
 

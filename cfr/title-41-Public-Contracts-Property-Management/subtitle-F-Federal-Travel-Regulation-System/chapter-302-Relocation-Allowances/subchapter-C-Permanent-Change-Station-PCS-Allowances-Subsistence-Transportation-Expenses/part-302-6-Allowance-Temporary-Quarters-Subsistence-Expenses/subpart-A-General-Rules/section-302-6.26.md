@@ -1,0 +1,5 @@
+##### § 302-6.26 May I receive an advance of funds for TQSE? #####
+
+(a) *TQSE-LP and TQSE-AE methods.* You may receive an advance of funds if authorized in accordance with your agency policy and § 302-2.24 of this chapter. Your agency may advance the amount of funds necessary to cover your estimated TQSE expenses for up to 30 days. Your agency may subsequently advance additional funds for periods up to 30 days.
+
+(b) *TQSE-LS method.* You will not receive an advance of funds as your agency will offer a one-time lump sum payment as close as is reasonably possible to the time you will begin occupancy of temporary quarters; no additional payments will be authorized. If your TQSE-LS payment is more than adequate to cover your actual TQSE expenses, any balance belongs to you (*e.g.,* your agency authorizes and you accept a lump sum payment for 15 days of TQSE and you vacate temporary quarters after 10 days, you would retain the remaining balance for the 5 days of TQSE not incurred).

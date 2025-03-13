@@ -44,7 +44,7 @@
 
 (d) *Expeditious hearing process.* Where a hearing for a participant family is required under this section, the PHA must proceed with the hearing in a reasonably expeditious manner upon the request of the family.
 
-(e) *Hearing procedures*—(1) *Administrative plan.* The administrative plan must state the PHA procedures for conducting informal hearings for participants.
+(e) *Hearing procedures*—(1) *Administrative Plan.* The Administrative Plan must state the PHA procedures for conducting informal hearings for participants.
 
 (2) *Discovery*—(i) *By family.* The family must be given the opportunity to examine before the PHA hearing any PHA documents that are directly relevant to the hearing. The family must be allowed to copy any such document at the family's expense. If the PHA does not make the document available for examination on request of the family, the PHA may not rely on the document at the hearing.
 

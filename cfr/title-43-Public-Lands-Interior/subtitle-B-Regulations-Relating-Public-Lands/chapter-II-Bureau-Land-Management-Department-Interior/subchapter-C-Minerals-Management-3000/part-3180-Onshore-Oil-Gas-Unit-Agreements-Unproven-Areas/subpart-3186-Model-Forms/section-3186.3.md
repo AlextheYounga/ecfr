@@ -8,7 +8,7 @@ This indenture, dated as of the \_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_
 
 Witnesseth: Whereas under the provisions of the Act of February 25, 1920, 41 Stat. 437, 30 U.S.C. secs. 181, *et seq.,* as amended by the Act of August 8, 1946, 60 Stat. 950, the Secretary of the Interior, on the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, approved a unit agreement \_\_\_\_\_\_ Unit Area, wherein \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ is designated as Unit Operator, and
 
-Whereas said \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ has resigned as such Operator1 and the designation of a successor Unit Operator is now required pursuant to the terms thereof; and
+Whereas said \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ has resigned as such Operator 1 and the designation of a successor Unit Operator is now required pursuant to the terms thereof; and
 
 1 Where the designation of a successor Unit Operator is required for any reason other than resignation, such reason shall be substituted for the one stated.
 

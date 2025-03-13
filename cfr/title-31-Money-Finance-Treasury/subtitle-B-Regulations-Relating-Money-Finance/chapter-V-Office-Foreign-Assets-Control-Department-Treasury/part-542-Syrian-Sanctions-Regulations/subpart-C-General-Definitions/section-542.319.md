@@ -1,3 +1,5 @@
-##### § 542.319 United States person; U.S. person. #####
+##### § 542.319 Petroleum or petroleum products of Syrian origin. #####
 
-The term *United States person* or *U.S. person* means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States.
+The term *petroleum or petroleum products of Syrian origin* means petroleum or petroleum products of Syrian origin pursuant to Country of Origin definitions of U.S. Customs and Border Protection.
+
+[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024.]

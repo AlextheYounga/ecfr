@@ -46,7 +46,7 @@
 |---------|------------------------------------------------------------------|-----------------------|
 |  Minor  |Install, repair, or replace wind direction indicator, as necessary|    20 to 40 days.     |
 
-(6) A minimum 5-foot chain-link, 5-strand barbed wire, or comparable type fence and gate(s) that restrict(s) public access shall be required when storage tanks are located within1/4 mile of or contained inside a city or incorporated limits of a town or within1/4 mile of an occupied residence, school, church, park, playground, school bus stop, place of business, or where the public could reasonably be expected to frequent.
+(6) A minimum 5-foot chain-link, 5-strand barbed wire, or comparable type fence and gate(s) that restrict(s) public access shall be required when storage tanks are located within 1/4 mile of or contained inside a city or incorporated limits of a town or within 1/4 mile of an occupied residence, school, church, park, playground, school bus stop, place of business, or where the public could reasonably be expected to frequent.
 
 |Violation|                      Corrective action                       |Normal abatement period|
 |---------|--------------------------------------------------------------|-----------------------|
@@ -72,7 +72,7 @@
 |---------|------------------------------------------|-----------------------|
 |  Minor  |Post, move, or alter sign(s), as necessary|     5 to 20 days.     |
 
-(3) Fencing and gate(s), as specified in paragraph (b)(6) of this section, shall be required when production facilities are located within1/4 mile of or contained inside a city or incorporated limits of a town or within1/4 mile of an occupied residence, school, church, park, playground, school bus stop, place of business, or any other area where the public could reasonably be expected to frequent. Flowlines are exempted from this additional fencing requirement.
+(3) Fencing and gate(s), as specified in paragraph (b)(6) of this section, shall be required when production facilities are located within 1/4 mile of or contained inside a city or incorporated limits of a town or within 1/4 mile of an occupied residence, school, church, park, playground, school bus stop, place of business, or any other area where the public could reasonably be expected to frequent. Flowlines are exempted from this additional fencing requirement.
 
 |Violation|                       Corrective action                       |Normal abatement period|
 |---------|---------------------------------------------------------------|-----------------------|

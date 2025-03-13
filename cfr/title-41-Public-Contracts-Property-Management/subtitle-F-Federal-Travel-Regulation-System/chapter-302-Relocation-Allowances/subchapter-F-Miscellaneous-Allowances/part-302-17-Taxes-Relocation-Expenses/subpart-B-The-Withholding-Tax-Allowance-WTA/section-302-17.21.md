@@ -1,7 +1,5 @@
 ##### § 302-17.21 What relocation expenses does the WTA cover? #####
 
-Link to an amendment published at 89 FR 37984, May 7, 2024.
-
 The WTA covers certain allowances, reimbursements, and/or direct payments to vendors, to the extent that each of them is taxable income. In particular, the WTA covers:
 
 (a) En route lodging, meals and incidental expenses—Reimbursements for lodging, meals and incidental expenses while en route to the new official station for you and your immediate family member(s). (See part 302-4 of this chapter).
@@ -10,7 +8,7 @@ The WTA covers certain allowances, reimbursements, and/or direct payments to ven
 
 (c) Househunting trip—Travel (including per diem and transportation) expenses for you and/or your spouse for a round trip to the new official station to seek permanent residence quarters. Househunting is covered regardless of whether reimbursed under the per diem allowance or lump sum method. (See part 302-5 of this chapter).
 
-(d) Temporary quarters—Subsistence expenses for you and your immediate family during occupancy of temporary quarters at the old or new official station. Temporary quarters are covered regardless of whether reimbursed under the actual expense or lump sum method. (See part 302-6 of this chapter).
+(d) Temporary quarters—Subsistence expenses for you and your immediate family during occupancy of temporary quarters at the old or new official station. Temporary quarters are covered regardless of whether reimbursed under the lodgings-plus, actual expense, or lump sum method. (See part 302-6 of this chapter).
 
 (e) Transportation and temporary storage of personal property—Transportation and temporary storage of household goods (HHG) and at Government expense for employees who transferred between official stations. (See part 302-7 of this chapter).
 
@@ -28,4 +26,4 @@ The WTA covers certain allowances, reimbursements, and/or direct payments to ven
 
 (l) Miscellaneous expense allowance—Miscellaneous expenses for defraying certain relocation expenses not covered by other relocation benefits. (See part 302-16 of this chapter).
 
-[FTR Amdt. 2020-02, 84 FR 64782, Nov. 25, 2019]
+[FTR Amdt. 2020-02, 84 FR 64782, Nov. 25, 2019, as amended by FTR Case 2022-02; 89 FR 37984, May 7, 2024]

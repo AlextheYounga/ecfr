@@ -1,7 +1,5 @@
 ##### § 982.641 Homeownership option: Applicability of other requirements. #####
 
-Link to an amendment published at 89 FR 38304, May 7, 2024.
-
 (a) *General.* The following types of provisions (located in other subparts of this part) do not apply to assistance under the homeownership option:
 
 (1) Any provisions concerning the Section 8 owner or the HAP contract between the PHA and owner;
@@ -50,9 +48,11 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (1) Section 982.403 (Terminating HAP contract when unit is too small);
 
-(2) Section 982.404 (Maintenance: Owner and family responsibility; PHA remedies); and
+(2) Section 982.404 (Maintenance: Owner and family responsibility; PHA remedies);
 
-(3) Section 982.405 (PHA initial and periodic unit inspection).
+(3) Section 982.405 (PHA unit inspection); and
+
+(4) Section 982.406 (Use of alternative inspections).
 
 (e) *Subpart J requirements.* The requirements of subpart J of this part (Housing Assistance Payments Contract and Owner Responsibility) (§§ 982.451-456) do not apply to assistance under the homeownership option.
 
@@ -62,7 +62,7 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (2) Section 982.516 (Family income and composition: Regular and interim reexaminations); and
 
-(3) Section 982.517 (Utility allowance schedule).
+(3) Section 982.517 (Utility allowance schedule), except that § 982.517(d) does not apply because the utility allowance is always based on the size of the home bought by the family with homeownership assistance.
 
 (g) *Subpart L requirements.* The following provisions of subpart L of this part do not apply to assistance under the homeownership option:
 
@@ -82,4 +82,4 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (2) Sections 982.622-982.624.
 
-[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64494, Oct. 18, 2002; 80 FR 8247, Feb. 17, 2015; 80 FR 50575, Aug. 20, 2015]
+[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64494, Oct. 18, 2002; 80 FR 8247, Feb. 17, 2015; 80 FR 50575, Aug. 20, 2015; 89 FR 38304, May 7, 2024]

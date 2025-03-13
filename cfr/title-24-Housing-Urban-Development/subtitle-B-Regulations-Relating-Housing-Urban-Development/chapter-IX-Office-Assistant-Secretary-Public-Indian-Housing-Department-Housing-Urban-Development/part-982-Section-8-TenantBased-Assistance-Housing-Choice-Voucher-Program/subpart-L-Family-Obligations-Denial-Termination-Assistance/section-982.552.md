@@ -1,7 +1,5 @@
 ##### § 982.552 PHA denial or termination of assistance for family. #####
 
-Link to an amendment published at 89 FR 38303, May 7, 2024.
-
 (a) *Action or inaction by family.* (1) A PHA may deny assistance for an applicant or terminate assistance for a participant under the programs because of the family's action or failure to act as described in this section or § 982.553. The provisions of this section do not affect denial or termination of assistance for grounds other than action or failure to act by the family.
 
 (2) Denial of assistance for an applicant may include any or all of the following: denying listing on the PHA waiting list, denying or withdrawing a voucher, refusing to enter into a HAP contract or approve a lease, and refusing to process or provide assistance under portability procedures.
@@ -38,13 +36,11 @@ Link to an amendment published at 89 FR 38303, May 7, 2024.
 
 (vii) If the family breaches an agreement with the PHA to pay amounts owed to a PHA, or amounts paid to an owner by a PHA. (The PHA, at its discretion, may offer a family the opportunity to enter an agreement to pay amounts owed to a PHA or amounts paid to an owner by a PHA. The PHA may prescribe the terms of the agreement.)
 
-(viii) If a family participating in the FSS program fails to comply, without good cause, with the family's FSS contract of participation.
+(viii) If the family has engaged in or threatened abusive or violent behavior toward PHA personnel.
 
-(ix) If the family has engaged in or threatened abusive or violent behavior toward PHA personnel.
+(ix) If a welfare-to-work (WTW) family fails, willfully and persistently, to fulfill its obligations under the welfare-to-work voucher program.
 
-(x) If a welfare-to-work (WTW) family fails, willfully and persistently, to fulfill its obligations under the welfare-to-work voucher program.
-
-(xi) If the family has been engaged in criminal activity or alcohol abuse as described in § 982.553.
+(x) If the family has been engaged in criminal activity or alcohol abuse as described in § 982.553.
 
 (2) *Consideration of circumstances.* In determining whether to deny or terminate assistance because of action or failure to act by members of the family:
 
@@ -66,6 +62,6 @@ Link to an amendment published at 89 FR 38303, May 7, 2024.
 
 (3) The PHA informal hearing procedures.
 
-(e) *Applicant screening.* The PHA may at any time deny program assistance for an applicant in accordance with the PHA policy, as stated in the PHA administrative plan, on screening of applicants for family behavior or suitability for tenancy.
+(e) *Applicant screening.* The PHA may at any time deny program assistance for an applicant in accordance with the PHA policy, as stated in the PHA Administrative Plan, on screening of applicants for family behavior or suitability for tenancy.
 
-(Approved by the Office of Management and Budget under control number 2577-0169)[60 FR 34695, July 3, 1995, as amended at 60 FR 45661, Sept. 1, 1995; 61 FR 13627, Mar. 27, 1996; 63 FR 23865, Apr. 30, 1998; 64 FR 26650, May 14, 1999; 64 FR 49659, Sept. 14, 1999; 64 FR 56915, Oct. 21, 1999; 65 FR 16823, Mar. 30, 2000; 66 FR 28805, May 24, 2001; 70 FR 77744, Dec. 30, 2005; 73 FR 72345, Nov. 28, 2008; 75 FR 66264, Oct. 27, 2010; 80 FR 8247, Feb. 17, 2015; 81 FR 80817, Nov. 16, 2016; 88 FR 9676, Feb. 14, 2023]
+(Approved by the Office of Management and Budget under control number 2577-0169)[60 FR 34695, July 3, 1995, as amended at 60 FR 45661, Sept. 1, 1995; 61 FR 13627, Mar. 27, 1996; 63 FR 23865, Apr. 30, 1998; 64 FR 26650, May 14, 1999; 64 FR 49659, Sept. 14, 1999; 64 FR 56915, Oct. 21, 1999; 65 FR 16823, Mar. 30, 2000; 66 FR 28805, May 24, 2001; 70 FR 77744, Dec. 30, 2005; 73 FR 72345, Nov. 28, 2008; 75 FR 66264, Oct. 27, 2010; 80 FR 8247, Feb. 17, 2015; 81 FR 80817, Nov. 16, 2016; 88 FR 9676, Feb. 14, 2023; 89 FR 38303, May 7, 2024]

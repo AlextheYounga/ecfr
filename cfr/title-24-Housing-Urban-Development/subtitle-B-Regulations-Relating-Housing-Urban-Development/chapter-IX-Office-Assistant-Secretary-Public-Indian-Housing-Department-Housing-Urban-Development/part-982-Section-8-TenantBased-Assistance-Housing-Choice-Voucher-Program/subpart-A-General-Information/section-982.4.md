@@ -1,12 +1,16 @@
 ##### § 982.4 Definitions. #####
 
-Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment published at 89 FR 38293, May 7, 2024.
+Link to an amendment published at 89 FR 38293, May 7, 2024.
 
-(a) *Definitions found elsewhere*—(1) *General definitions.* The following terms are defined in part 5, subpart A of this title: 1937 Act, covered person, drug, drug-related criminal activity, federally assisted housing, guest, household, HUD, MSA, other person under the tenant's control, public housing, Section 8, and violent criminal activity.
+(a) *Definitions found elsewhere.* (1) The following terms are defined in 24 CFR part 5, subpart A: 1937 Act, Covered person, Drug, Drug-related criminal activity, federally assisted housing, Guest, Household, HUD, MSA, Other person under the tenant's control, Public housing, Section 8, and Violent criminal activity.
 
-(2) *Definitions concerning family income and rent.* The terms “adjusted income,” “annual income,” “extremely low income family,” “tenant rent,” “total tenant payment,” “utility allowance,” “utility reimbursement,” and “welfare assistance” are defined in part 5, subpart F of this title. The definitions of “tenant rent” and “utility reimbursement” in part 5, subpart F of this title do not apply to the HCV program under part 982.
+(2) The following terms are defined in 24 CFR part 5, subpart D: Disabled family, Elderly family, Near-elderly family, and Person with disabilities.
+
+(3) The following terms are defined in 24 CFR part 5, subpart F: Adjusted income, Annual income, Extremely low income family, Total tenant payment, Utility allowance, and Welfare assistance.
 
 (b) In addition to the terms listed in paragraph (a) of this section, the following definitions apply:
+
+*Abatement.* Stopping HAP payments to an owner with no potential for retroactive payment.
 
 *Absorption.* For purposes of subpart H, the point at which a receiving PHA starts making assistance payments with funding under its consolidated ACC, rather than billing, the initial PHA.
 
@@ -14,13 +18,17 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment
 
 *Administrative fee reserve* (formerly “operating reserve”). Account established by PHA from excess administrative fee income. The administrative fee reserve must be used for housing purposes. See § 982.155.
 
-*Administrative plan.* The plan that describes PHA policies for administration of the HCV program. See § 982.54.
+*Administrative Plan.* The plan that describes PHA policies for administration of the HCV program. See § 982.54.
 
 *Admission.* The point when the family becomes a participant in the program. The date used for this purpose is the effective date of the first HAP contract for a family (first day of initial lease term) in the tenant-based program.
 
 *Applicant* (applicant family). A family that has applied for admission to the HCV program but is not yet a program participant.
 
+*Authorized voucher units.* The number of units for which a PHA is authorized to make assistance payments to owners under its annual contributions contract.
+
 *Budget authority.* An amount authorized and appropriated by the Congress for payment to PHAs under the HCV program. For each funding increment in the program, budget authority is the maximum amount that may be paid by HUD to the PHA over the ACC term of the funding increment.
+
+*Building.* A structure with a roof and walls that contains one or more dwelling units.
 
 *Common space.* In shared housing: Space available for use by the assisted family and other occupants of the unit.
 
@@ -36,7 +44,7 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment
 
 *Downpayment assistance grant.* A form of homeownership assistance in the homeownership option: A single downpayment assistance grant for the family. If a family receives a downpayment assistance grant, a PHA may not make monthly homeownership assistance payments for the family. A downpayment assistance grant is applied to the downpayment for purchase of the home or reasonable and customary closing costs required in connection with purchase of the home.
 
-*Fair market rent (FMR).* The rent, including the cost of utilities (except telephone), as established by HUD for units of varying sizes (by number of bedrooms), that must be paid in the housing market area to rent privately owned, existing, decent, safe and sanitary rental housing of modest (non-luxury) nature with suitable amenities. See periodic publications in the Federal Register in accordance with 24 CFR part 888.
+*Fair market rent (FMR).* The rent, including the cost of utilities (except telephone), as established by HUD for units of varying sizes (by number of bedrooms), that must be paid in the housing market area to rent privately owned, existing, decent, safe and sanitary rental housing of modest (non-luxury) nature with suitable amenities. In the HCV program, the FMR may be established at the ZIP code level (see definition of Small Area Fair Market Rents), metropolitan area level, or non-metropolitan county level.
 
 *Family.* A person or group of persons, as determined by the PHA consistent with 24 CFR 5.403, approved to reside in a unit with assistance under the program. See “family composition” at § 982.201(c).
 
@@ -49,6 +57,10 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment
 *Family unit size.* The appropriate number of bedrooms for a family, as determined by the PHA under the PHA subsidy standards.
 
 *First-time homeowner.* In the homeownership option: A family of which no member owned any present ownership interest in a residence of any family member during the three years before commencement of homeownership assistance for the family. The term “first-time homeowner” includes a single parent or displaced homemaker (as those terms are defined in 12 U.S.C. 12713) who, while married, owned a home with his or her spouse, or resided in a home owned by his or her spouse.
+
+*Foster adult.* A member of the household who is 18 years of age or older and meets the definition of a foster adult under State law. In general, a foster adult is a person who is 18 years of age or older, is unable to live independently due to a debilitating physical or mental condition and is placed with the family by an authorized placement agency or by judgment, decree, or other order of any court of competent jurisdiction.
+
+*Foster child.* A member of the household who meets the definition of a foster child under State law. In general, a foster child is placed with the family by an authorized placement agency (*e.g.,* public child welfare agency) or by judgment, decree, or other order of any court of competent jurisdiction.
 
 *Funding increment.* Each commitment of budget authority by HUD to a PHA under the consolidated annual contributions contract for the PHA program.
 
@@ -74,7 +86,11 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment
 
 (2) An additional payment to the family if the total assistance payment exceeds the rent to owner.
 
-*Housing quality standards (HQS).* The minimum quality standards developed by HUD in accordance with 24 CFR 5.703 for the HCV program or the HUD approved alternative standard for the PHA under 24 CFR 5.703(g).
+*Housing quality standards (HQS).* The minimum quality standards developed by HUD in accordance with 24 CFR 5.703 for the HCV program, including any variations approved by HUD for the PHA under 24 CFR 5.705(a)(3).
+
+*Independent entity.* (i) The unit of general local government; however, if the PHA itself is the unit of general local government or an agency of such government, then only the next level of general local government (or an agency of such government) or higher may serve as the independent entity; or
+
+(ii) A HUD-approved entity that is autonomous and recognized under State law as a separate legal entity from the PHA. The entity must not be connected financially (except regarding compensation for services performed for PHA-owned units) or in any other manner that could result in the PHA improperly influencing the entity.
 
 *Initial PHA.* In portability, the term refers to both:
 
@@ -116,6 +132,28 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment
 
 *PHA plan.* The annual plan and the 5-year plan as adopted by the PHA and approved by HUD in accordance with part 903 of this chapter.
 
+*PHA-owned unit.* (i) A dwelling unit in a project that is:
+
+(A) Owned by the PHA (including having a controlling interest in the entity that owns the project);
+
+(B) Owned by an entity wholly controlled by the PHA; or
+
+(C) Owned by a limited liability company or limited partnership in which the PHA (or an entity wholly controlled by the PHA) holds a controlling interest in the managing member or general partner.
+
+(ii) A controlling interest is:
+
+(A) Holding more than 50 percent of the stock of any corporation;
+
+(B) Having the power to appoint more than 50 percent of the members of the board of directors of a non-stock corporation (such as a nonprofit corporation);
+
+(C) Where more than 50 percent of the members of the board of directors of any corporation also serve as directors, officers, or employees of the PHA;
+
+(D) Holding more than 50 percent of all managing member interests in an LLC;
+
+(E) Holding more than 50 percent of all general partner interests in a partnership; or
+
+(F) Equivalent levels of control in other ownership structures.
+
 *Portability.* Renting a dwelling unit with Section 8 tenant-based assistance outside the jurisdiction of the initial PHA.
 
 *Premises.* The building or complex in which the dwelling unit is located, including common areas and grounds.
@@ -152,13 +190,19 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment
 
 *Rent to owner.* The total monthly rent payable to the owner under the lease for the unit. Rent to owner covers payment for any housing services, maintenance and utilities that the owner is required to provide and pay for.
 
+*Request for Tenancy Approval (RFTA).* A form (form HUD-52517) submitted by or on behalf of a family to a PHA once the family has identified a unit that it wishes to rent using tenant-based voucher assistance.
+
 *Residency preference.* A PHA preference for admission of families that reside anywhere in a specified area, including families with a member who works or has been hired to work in the area (“residency preference area”).
 
 *Residency preference area.* The specified area where families must reside to qualify for a residency preference.
 
+*Section 8 Management Assessment Program (SEMAP).* A system used by HUD to measure PHA performance in key Section 8 program areas. See 24 CFR part 985.
+
 *Shared housing.* A unit occupied by two or more families. The unit consists of both common space for shared use by the occupants of the unit and separate private space for each assisted family. A special housing type: see § 982.615 to § 982.618.
 
 *Single room occupancy housing* (SRO). A unit that contains no sanitary facilities or food preparation facilities, or contains either, but not both, types of facilities. A special housing type: see § 982.602 to § 982.605.
+
+*Small Area Fair Market Rents (SAFMRs or Small Area FMRs).* Small Area FMRs are FMRs established for U.S. Postal Service ZIP code areas and are calculated in accordance with 24 CFR 888.113(a) and (b).
 
 *Special admission.* Admission of an applicant that is not on the PHA waiting list or without considering the applicant's waiting list position.
 
@@ -172,6 +216,8 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment
 
 *Tenant.* The person or persons (other than a live-in aide) who executes the lease as lessee of the dwelling unit.
 
+*Tenant-paid utilities.* Utilities and services that are not included in the rent to owner and are the responsibility of the assisted family, regardless of whether the payment goes to the utility company or the owner. The utilities and services are those necessary in the locality to provide housing that complies with HQS. The utilities and services may also include those required by HUD through a Federal Register notice after providing opportunity for public comment.
+
 *Utility reimbursement.* The portion of the housing assistance payment which exceeds the amount of the rent to owner. (See § 982.514(b)).
 
 *Voucher holder.* A family holding a voucher with an unexpired term (search time).
@@ -182,4 +228,6 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment
 
 *Welfare-to-work (WTW) families.* Families assisted by a PHA with voucher funding awarded to the PHA under the HUD welfare-to-work voucher program (including any renewal of such WTW funding for the same purpose).
 
-[63 FR 23857, Apr. 30, 1998; 63 FR 31625, June 10, 1998, as amended at 64 FR 26641, May 14, 1999; 64 FR 49658, Sept. 14, 1999; 64 FR 56887, 56911, Oct. 21, 1999; 65 FR 16821, Mar. 30, 2000; 65 FR 55161, Sept. 12, 2000; 66 FR 28804, May 24, 2001; 66 FR 33613, June 22, 2001; 67 FR 64492, Oct. 18, 2002; 77 FR 5675, Feb. 3, 2012; 80 FR 8245, Feb. 17, 2015; 80 FR 50572, Aug. 20, 2015; 88 FR 30503, May 11, 2023]
+*Withholding.* Stopping HAP payments to an owner while holding them for potential retroactive disbursement.
+
+[63 FR 23857, Apr. 30, 1998; 63 FR 31625, June 10, 1998, as amended at 64 FR 26641, May 14, 1999; 64 FR 49658, Sept. 14, 1999; 64 FR 56887, 56911, Oct. 21, 1999; 65 FR 16821, Mar. 30, 2000; 65 FR 55161, Sept. 12, 2000; 66 FR 28804, May 24, 2001; 66 FR 33613, June 22, 2001; 67 FR 64492, Oct. 18, 2002; 77 FR 5675, Feb. 3, 2012; 80 FR 8245, Feb. 17, 2015; 80 FR 50572, Aug. 20, 2015; 88 FR 30503, May 11, 2023; 89 FR 38293, May 7, 2024]

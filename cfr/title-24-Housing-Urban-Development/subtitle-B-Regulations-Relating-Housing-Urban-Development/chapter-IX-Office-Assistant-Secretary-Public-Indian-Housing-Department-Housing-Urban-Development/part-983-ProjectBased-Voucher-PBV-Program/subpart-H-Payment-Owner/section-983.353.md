@@ -1,7 +1,5 @@
 ##### § 983.353 Tenant rent; payment to owner. #####
 
-Link to an amendment published at 89 FR 38338, May 7, 2024.
-
 (a) *PHA determination.* (1) The tenant rent is the portion of the rent to owner paid by the family. The PHA determines the tenant rent in accordance with HUD requirements.
 
 (2) Any changes in the amount of the tenant rent will be effective on the date stated in a notice by the PHA to the family and the owner.
@@ -20,6 +18,8 @@ Link to an amendment published at 89 FR 38338, May 7, 2024.
 
 (d) *Utility reimbursement.* (1) If the amount of the utility allowance exceeds the total tenant payment, the PHA shall pay the amount of such excess as a reimbursement for tenant-paid utilities (“utility reimbursement”) and the tenant rent to the owner shall be zero.
 
-(2) The PHA either may pay the utility reimbursement to the family or may pay the utility bill directly to the utility supplier on behalf of the family.
+(2) The PHA must describe in its Administrative Plan its policies on paying the utility reimbursement directly to the family or directly to the utility supplier.
 
 (3) If the PHA chooses to pay the utility supplier directly, the PHA must notify the family of the amount paid to the utility supplier.
+
+[70 FR 59913, Oct. 13, 2005, as amended at 89 FR 38338, May 7, 2024]

@@ -1,0 +1,3 @@
+##### § 302-6.28 Are temporary quarters lodging taxes and laundry/dry cleaning expenses included in the TQSE amount? #####
+
+Temporary quarters lodging taxes are not included in your daily temporary quarters lodging rate and may be documented as a separate TQSE-LP or TQSE-AE miscellaneous expense. Lodging taxes for TQSE-LS are included in your overall lump sum amount. Laundry/dry cleaning expenses are included in your incidental portion of the daily M&IE allowance and are not separately reimbursed.

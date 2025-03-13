@@ -12,7 +12,7 @@
 
 (5) *Defense Logistics Agency (DLA) Federal Supply Catalog for Civil Agencies.* This publication (available in hard copy only) includes NSN's for which DLA is the single source of supply for civil agencies. These NSN's may not necessarily have a DOD user recorded. The publication contains descriptive and management data for items not usually listed in the GSA catalog but which might be required by civil agencies.
 
-(b) Agencies may obtain without charge copies of the DLA Federal Supply Catalog for Civil Agencies, described in paragraph (a)(6)1 of this section by contacting the Defense Logistics Services Center, DLSC-TP, Federal Center, Battle Creek, MI 49016. To obtain copies of the publications described in paragraphs (a) (1) through (5) of this section, agencies may submit a request in writing to the same address shown above, except that the applicable mail distribution code is DLSC-AP. Information concerning the charges for the latter publications is available from DLSC-AP.
+(b) Agencies may obtain without charge copies of the DLA Federal Supply Catalog for Civil Agencies, described in paragraph (a)(6) 1 of this section by contacting the Defense Logistics Services Center, DLSC-TP, Federal Center, Battle Creek, MI 49016. To obtain copies of the publications described in paragraphs (a) (1) through (5) of this section, agencies may submit a request in writing to the same address shown above, except that the applicable mail distribution code is DLSC-AP. Information concerning the charges for the latter publications is available from DLSC-AP.
 
 1 At 46 FR 35645, July 10, 1981, paragraph (a)(6) of § 101-30.401-1 was removed.
 

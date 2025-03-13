@@ -1,3 +1,3 @@
-##### § 302-6.10 May my immediate family and I occupy temporary quarters at different locations? #####
+##### § 302-6.10 Where may I/we occupy temporary quarters at Government expense? #####
 
-Yes. For example, if you must vacate your home at the old official station and report to the new official station and your family remains behind until the end of the school year, you may need to occupy temporary quarters at the new official station while your family occupies temporary quarters at the old official station.
+You and/or your immediate family may occupy temporary quarters in the United States at Government expense within reasonable proximity (approximately 50 miles) of the geographical area of your old and/or new official stations. Neither you nor your immediate family may be reimbursed for occupying temporary quarters at any other location, unless justified by special circumstances (*e.g.,* the temporary quarters location is subject to a Presidentially-Declared Disaster) that are reasonably related to your transfer.

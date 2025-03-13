@@ -10,7 +10,6 @@
 
 (3) No noncompetitive lease may issue for any lands unless and until they have satisfied the requirements of § 3110.1(b) of this title.
 
-(b) *Lease.* Only lands that have been offered competitively under subpart 3120 of this title, and for which no bid has been received, shall be available for noncompetitive lease. Such lands shall become available for a period of 2 years beginning on the first business day following the last day of the competitive oral or internet-based auction, or when formal nominations have been requested as specified in § 3120.3-1 of this title, or the first business day following the posting of the Notice of Competitive Lease Sale, and ending on that same day 2 years later.
-A lease may be issued from an offer properly filed any time within the 2-year noncompetitive leasing period.
+(b) *Lease.* Only lands that have been offered competitively under subpart 3120 of this title, and for which no bid has been received, shall be available for noncompetitive lease. Such lands shall become available for a period of 2 years beginning on the first business day following the last day of the competitive oral or internet-based auction, or when formal nominations have been requested as specified in § 3120.3-1 of this title, or the first business day following the posting of the Notice of Competitive Lease Sale, and ending on that same day 2 years later. A lease may be issued from an offer properly filed any time within the 2-year noncompetitive leasing period.
 
 [53 FR 22840, June 17, 1988; 53 FR 31958, Aug. 22, 1988; 81 FR 59905, Aug. 31, 2016]

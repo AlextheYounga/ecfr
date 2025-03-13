@@ -1,10 +1,8 @@
 ##### § 5.630 Minimum rent. #####
 
-Link to an amendment published at 89 FR 38290, May 7, 2024.
-
 (a) *Minimum rent.* (1) The PHA must charge a family no less than a minimum monthly rent established by the responsible entity, except as described in paragraph (b) of this section.
 
-(2) For the public housing program and the section 8 moderate rehabilitation, and certificate or voucher programs, the PHA may establish a minimum rent of up to $50.
+(2) For the public housing program and the section 8 moderate rehabilitation or voucher programs, the PHA may establish a minimum rent of up to $50.
 
 (3) For other section 8 programs, the minimum rent is $25.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (3) *Public housing: Grievance hearing concerning PHA denial of request for hardship exemption.* If a public housing family requests a hearing under the PHA grievance procedure, to review the PHA's determination denying or limiting the family's claim to a financial hardship exemption, the family is not required to pay any escrow deposit in order to obtain a grievance hearing on such issues.
 
-[65 FR 16718, Mar. 29, 2000]
+[65 FR 16718, Mar. 29, 2000, as amended at 89 FR 38290, May 7, 2024]

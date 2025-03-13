@@ -1,33 +1,91 @@
-##### § 983.10 Project-based certificate (PBC) program. #####
+##### § 983.10 PBV provisions in the Administrative Plan. #####
 
-Link to an amendment published at 89 FR 38308, May 7, 2024.Link to a correction of the above amendment published at 89 FR 46020, May 28, 2024.
+(a) *PHA policymaking discretion.* If a PHA exercises its discretion to operate a PBV program, the PHA's Administrative Plan as required by 24 CFR 982.54 of this title must include all the PHA's local policies on PBV-related matters over which the PHA is exercising its policymaking discretion.
 
-(a) *What is it?* “PBC program” means project-based assistance attached to units pursuant to an Agreement executed by a PHA and owner before January 16, 2001, and in accordance with:
+(b) *PHA policies.* The PHA Administrative Plan must cover, at a minimum, the following PHA policies, as applicable:
 
-(1) The regulations for the PBC program at 24 CFR part 983, codified as of May 1, 2001 and contained in 24 CFR part 983 revised as of April 1, 2002; and
+(1) The definition of “project” as consistent with this part (§ 983.3(b));
 
-(2) Section 8(d)(2) of the 1937 Act, as in effect before October 21, 1998 (the date of enactment of Title V of Public Law 105-276, the Quality Housing and Work Responsibility Act of 1998, codified at 42 U.S.C. 1437 *et seq.*).
+(2) The program cap:
 
-(b) *What rules apply?* Units under the PBC program are subject to the provisions of 24 CFR part 983, codified as of May 1, 2001, with the following exceptions:
+(i) A description of the types and availability of services that will qualify units under the supportive services authority under the program cap (§ 983.6(d)(1)(iii)); and
 
-(1) *PBC renewals.* (i) *General.* Consistent with the PBC HAP contract, at the sole option of the PHA, HAP contracts may be renewed for terms for an aggregate total (including the initial and any renewal terms) of 15 years, subject to the availability of appropriated funds.
+(ii) The PHA's policy limiting Family Unification Program assistance normally available for eligible families and youth described in Section 8(x)(2) of the U.S. Housing Act to youth (§ 983.6(d)(2)(ii));
 
-(ii) *Renewal of PBC as PBV.* At the sole discretion of the PHA, upon the request of an owner, PHAs may renew a PBC HAP contract as a PBV HAP contract. All PBV regulations (including 24 CFR part 983, subpart G—Rent to Owner) apply to a PBC HAP contract renewed as a PBV HAP contract with the exception of §§ 983.51, 983.56, and 983.57(b)(1). In addition, the following conditions apply:
+(3) A description of the circumstances under which the PHA will use the competitive and noncompetitive selection methods and the procedures for submission and selection of PBV proposals (§ 983.51(a));
 
-(A) The term of the HAP contract for PBC contracts renewed as PBV contracts shall be consistent with § 983.205.
+(4) The project cap:
 
-(B) A PHA must make the determination, within one year before expiration of a PBC HAP contract, that renewal of the contract under the PBV program is appropriate to continue providing affordable housing for low-income families.
+(i) The PHA's policy limiting Family Unification Program assistance normally available for eligible families and youth described in Section 8(x)(2) of the U.S. Housing Act to youth (§ 983.54(c)(2)(ii)); and
 
-(C) The renewal of PBC assistance as PBV assistance is effectuated by the execution of a PBV HAP contract addendum as prescribed by HUD and a PBV HAP contract for existing housing.
+(ii) A description of the types and availability of services that will qualify units under the supportive services exception from the project cap (§ 983.54(c)(2)(iii));
 
-(2) *Housing quality standards.* The regulations in 24 CFR 982.401 (housing quality standards) (HQS) apply to units assisted under the PBC program.
+(5) The site selection standards:
 
-(i) *Special housing types.* HQS requirements for eligible special housing types, under this program, apply (See 24 CFR 982.605. 982.609 and 982.614).
+(i) The PHA's standard for deconcentrating poverty and expanding housing and economic opportunities (§ 983.55(b)(1)); and
 
-(ii) *Lead-based paint requirements.* The Lead-based Paint Poisoning Prevention Act (42 U.S.C. 4821-4846), the Residential Lead-based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4851-4856), and implementing regulations at 24 CFR part 35, subparts A, B, H, and R of this title, apply to the PBC program.
+(ii) The PHA's site selection policy (§ 983.55(c));
 
-(iii) *HQS enforcement.* The regulations in 24 CFR parts 982 and 983 do not create any right of the family or any party, other than HUD or the PHA, to require enforcement of the HQS requirements or to assert any claim against HUD or the PHA for damages, injunction, or other relief for alleged failure to enforce the HQS.
+(6) PHA inspection policies:
 
-(c) *Statutory notice requirements.* In addition to provisions of 24 CFR part 983 codified as of May 1, 2001, § 983.206 applies to the PBC program.
+(i) The timing of an initial inspection of existing housing (§ 983.103(c)(1));
 
-[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36166, June 25, 2014; 88 FR 30504, May 11, 2023]
+(ii) Whether the PHA adopts for initial inspection of PBV existing housing the non-life-threatening deficiencies option, the alternative inspection option, or both, and whether the PHA adopts for periodic inspection of PBV housing the alternative inspection option. If so, state all policies as required by 24 CFR 982.54(d)(21)(ii) and (iii), as they relate to the PHA's PBV program (§ 983.103(c)(2) through (4) and (e)(3));
+
+(iii) The frequency of periodic inspections (§ 983.103(e) and (i)); and
+
+(iv) Any verification methods other than on-site inspection for different inspection types or for different HQS deficiencies (§ 983.103(h)).
+
+(7) A description of the circumstances (if any) under which the PHA will establish additional requirements for quality, architecture, or design of PBV housing at the time of initial rehabilitation or new construction (§§ 983.154(e)(11), 983.157(e)(4));
+
+(8) A description of the circumstances (if any) under which the PHA will enter a PBV HAP contract for newly constructed and rehabilitated housing without first entering into an Agreement or execute an Agreement after construction or rehabilitation that complied with applicable requirements of § 983.153 has commenced (§ 983.154(f)(1));
+
+(9) The PHA's policy on the form and manner in which the owner must submit evidence and certify that work has been completed (§ 983.155);
+
+(10) Rehabilitated housing developed after HAP contract execution:
+
+(i) A description of the circumstances (if any) under which the PHA will enter a PBV HAP contract for rehabilitated housing that allows for development activity to occur after HAP contract execution (§ 983.157(a)(2));
+
+(ii) The timing of the initial inspection (§ 983.157(c)(4));
+
+(iii) The form and manner of owner notifications of changes in the status of contract units (§ 983.157(e)(5)); and
+
+(iv) The period for compliance (if any) for development activity that has not been completed by the deadline (§ 983.157(h)(1));
+
+(11) The PHA's policy on amending PBV HAP contracts to substitute or add contract units (§ 983.207(f));
+
+(12) PHA housing quality policies;
+
+(i) A description of the circumstances (if any) under which the PHA will establish additional requirements for continued compliance with quality, architecture, or design of PBV housing during the term of the HAP contract (§ 983.208(a)(3));
+
+(ii) The PHA's policy on the conditions under which it will withhold HAP and the conditions under which it will abate HAP or terminate the contract for units other than the unit with HQS deficiencies (§ 983.208(d)); and
+
+(iii) The PHA's policy on assisting families with relocating and finding a new unit (§ 983.208(d)(6)(iii));
+
+(13) A description of the PHA's waiting list policies for admission to PBV units, including any information on the owner waiting list policy (§ 983.251(c) and (e));
+
+(14) A description of the PHA's policy on whether to conduct tenant screening and offer information to an owner (§ 983.255(a)(2) and (c)(4));
+
+(15) The PHA's policy on continued housing assistance for a family that occupies a wrong-sized unit or a unit with accessibility features that the family does not require (§ 983.260(b));
+
+(16) The PHA's policy on a family's right to move:
+
+(i) The form of tenant-based rental assistance that the PHA will offer families (§ 983.261(b)); and
+
+(ii) The procedures for tenants to request tenant-based rental assistance to move (§ 983.261(c));
+
+(17) The PHA's policy regarding which options it will take if a unit is no longer qualified for excepted status or the increased program cap (§ 983.262(b)(4));
+
+(18) The PHA's policy regarding continued occupancy of a unit under the increased program cap for supportive housing for persons with disabilities or elderly persons and units excepted based on elderly or disabled family status after a change in family composition removing the elderly family member or family member with a disability (§ 983.262(c)(3)(ii), (d)(1), and (d)(2));
+
+(19) The PHA's policy regarding the PHA-determined amount it will use to calculate rent to owner (§ 983.301(b)(1) and (c)(2)(i));
+
+(20) The PHA's policy on the required timing and form of owner requests for a rent increase (§ 983.302(a)(1));
+
+(21) The PHA's policy on providing vacancy payments, including the required form and manner of requests for vacancy payments (§ 983.352(b)(1) and (4));
+
+(22) The PHA's policy on utility reimbursements (§ 983.353(d)(2)); and
+
+(23) The PHA's policy on applying SAFMRs to its PBV program per 24 CFR 888.113(h).
+
+[89 FR 38308, May 7, 2024, as amended at 89 FR 46020, May 28, 2024]

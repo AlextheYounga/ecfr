@@ -1,5 +1,7 @@
 ##### 552.238-88 GSA Advantage!®. #####
 
+Link to an amendment published at 89 FR 48337, June 6, 2024.
+
 As prescribed in 538.273(d)(12), insert the following clause:
 
 GSA Advantage!® (MAY 2019)

@@ -1,3 +1,15 @@
-##### § 542.304 Financial, material, or technological support. #####
+##### § 542.304 Effective date. #####
 
-The term *financial, material, or technological support,* as used in § 542.201(a)(1)(i), (a)(2)(ii)(L), and (a)(3)(ii)(C), means any property, tangible or intangible, including but not limited to currency, financial instruments, securities, or any other transmission of value; weapons or related materiel; chemical or biological agents; explosives; false documentation or identification; communications equipment; computers; electronic or other devices or equipment; technologies; lodging; safe houses; facilities; vehicles or other means of transportation; or goods. “Technologies” as used in this definition means specific information necessary for the development, production, or use of a product, including related technical data such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, or other recorded instructions.
+The term *effective date* refers to the effective date of the applicable prohibitions and directives contained in this part as follows:
+
+(a) With respect to prohibited transfers or other dealings in blocked property and interests in property of the Government of Syria, as defined in § 542.305, 12:01 a.m. eastern daylight time, August 18, 2011;
+
+(b) With respect to a person whose property and interests in property are blocked pursuant to § 542.201(a)(2)(i), 1:00 p.m. eastern daylight time, April 29, 2011, for persons listed in the Annex to Executive Order 13572 of April 29, 2011, and 1:00 p.m. eastern daylight time, May 18, 2011, for persons listed in the Annex to Executive Order 13573 of May 18, 2011;
+
+(c) With respect to a person whose property and interests in property are blocked pursuant to § 542.201(a)(3)(i), 12:01 a.m. eastern daylight time, April 23, 2012;
+
+(d) With respect to a person whose property and interests in property are otherwise blocked pursuant to § 542.201, the earlier of the date of actual or constructive notice that such person's property and interests in property are blocked; and
+
+(e) With respect to the prohibitions set forth in §§ 542.206 through 542.210, 12:01 a.m. eastern daylight time, August 18, 2011.
+
+[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024.]

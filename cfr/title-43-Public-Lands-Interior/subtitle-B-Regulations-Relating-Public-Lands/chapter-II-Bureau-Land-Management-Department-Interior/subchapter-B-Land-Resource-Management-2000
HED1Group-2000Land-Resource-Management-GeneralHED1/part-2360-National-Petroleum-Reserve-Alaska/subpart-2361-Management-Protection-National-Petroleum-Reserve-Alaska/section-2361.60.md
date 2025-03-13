@@ -1,0 +1,3 @@
+##### § 2361.60 Co-stewardship opportunities in management of Special Areas and subsistence. #####
+
+In accordance with the Bureau's co-stewardship guidance, the Bureau will seek opportunities to engage federally recognized Tribes in co-stewardship for management of Special Areas and subsistence resources throughout the Reserve. Co-stewardship opportunities may include co-management, collaborative and cooperative management, and tribally led stewardship, and can be implemented through cooperative agreements, memoranda of understanding, self-governance agreements, and other mechanisms. The Bureau may also partner with Alaska Native Claims Settlement Act corporations, local governments, or organizations as provided by law.

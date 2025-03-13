@@ -1,6 +1,6 @@
 ##### § 542.203 Holding of funds in interest-bearing accounts; investment and reinvestment. #####
 
-(a) Except as provided in paragraphs (e) or (f) of this section, or as otherwise directed by OFAC, any U.S. person holding funds, such as currency, bank deposits, or liquidated financial obligations, subject to § 542.201(a) shall hold or place such funds in a blocked interest-bearing account located in the United States.
+(a) Except as provided in paragraphs (e) or (f) of this section, or as otherwise directed by OFAC, any U.S. person holding funds, such as currency, bank deposits, or liquidated financial obligations, subject to § 542.201 shall hold or place such funds in a blocked interest-bearing account located in the United States.
 
 (b)(1) For purposes of this section, the term *blocked interest-bearing account* means a blocked account:
 
@@ -14,10 +14,10 @@
 
 (d) For purposes of this section, if interest is credited to a separate blocked account or subaccount, the name of the account party on each account must be the same.
 
-(e) Blocked funds held in instruments the maturity of which exceeds 180 days at the time the funds become subject to § 542.201(a) may continue to be held until maturity in the original instrument, provided any interest, earnings, or other proceeds derived therefrom are paid into a blocked interest-bearing account in accordance with paragraphs (a) or (f) of this section.
+(e) Blocked funds held in instruments the maturity of which exceeds 180 days at the time the funds become subject to § 542.201 may continue to be held until maturity in the original instrument, provided any interest, earnings, or other proceeds derived therefrom are paid into a blocked interest-bearing account in accordance with paragraphs (a) or (f) of this section.
 
-(f) Blocked funds held in accounts or instruments outside the United States at the time the funds become subject to § 542.201(a) may continue to be held in the same type of accounts or instruments, provided the funds earn interest at rates that are commercially reasonable.
+(f) Blocked funds held in accounts or instruments outside the United States at the time the funds become subject to § 542.201 may continue to be held in the same type of accounts or instruments, provided the funds earn interest at rates that are commercially reasonable.
 
 (g) This section does not create an affirmative obligation for the holder of blocked tangible property, such as chattels or real estate, or of other blocked property, such as debt or equity securities, to sell or liquidate such property. However, OFAC may issue licenses permitting or directing such sales or liquidation in appropriate cases.
 
-(h) Funds subject to this section may not be held, invested, or reinvested in a manner that provides immediate financial or economic benefit or access to any person whose property and interests in property are blocked pursuant to § 542.201(a), nor may their holder cooperate in or facilitate the pledging or other attempted use as collateral of blocked funds or other assets.
+(h) Funds subject to this section may not be held, invested, or reinvested in a manner that provides immediate financial or economic benefit or access to any person whose property and interests in property are blocked pursuant to § 542.201, nor may their holder cooperate in or facilitate the pledging or other attempted use as collateral of blocked funds or other assets.

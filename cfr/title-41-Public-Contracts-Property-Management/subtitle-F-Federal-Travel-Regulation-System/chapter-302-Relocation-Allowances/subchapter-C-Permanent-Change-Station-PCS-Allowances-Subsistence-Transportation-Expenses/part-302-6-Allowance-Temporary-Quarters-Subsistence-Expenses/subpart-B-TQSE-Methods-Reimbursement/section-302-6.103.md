@@ -1,0 +1,3 @@
+##### § 302-6.103 May my agency reduce my TQSE allowance below the “maximum allowable amount”? #####
+
+Yes, if the estimated daily amount of your TQSE is determined in advance to be lower than the maximum daily amount, your agency may reduce the maximum allowable amount to your expected expenses provided the new applicable amount is annotated on the relocation authorization before you occupy temporary quarters. However, see § 302-6.30 regarding househunting trips.

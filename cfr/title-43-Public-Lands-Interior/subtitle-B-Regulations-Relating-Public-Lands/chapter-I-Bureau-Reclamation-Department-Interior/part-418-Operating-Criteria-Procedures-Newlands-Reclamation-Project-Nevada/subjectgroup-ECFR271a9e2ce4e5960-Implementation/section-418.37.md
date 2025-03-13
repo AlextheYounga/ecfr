@@ -8,7 +8,7 @@
 
 (d) If there is a natural drought and the shortage to the headgates is equal to or greater than the deficit, then the deficit is reduced to zero. If the shortage to headgates is less than the deficit then the deficit is reduced by an amount equal to the headgate shortage. During a natural drought, if the percentage of maximum headgate entitlement delivered is 75 percent or more then the District will be subject to the target efficiencies and resultant deficits or credits.
 
-(e) If the District has a deficit in Lahontan Reservoir and earns incentive water, the incentive water must be used to eliminate the deficit before it can be used for any other purpose. The deficit must be credited on a 1 to 1 basis (i.e., actual efficiency savings rather than1/3-2/3 for incentive water).
+(e) If the District has a deficit in Lahontan Reservoir and earns incentive water, the incentive water must be used to eliminate the deficit before it can be used for any other purpose. The deficit must be credited on a 1 to 1 basis (i.e., actual efficiency savings rather than 1/3-2/3 for incentive water).
 
 (f) An example of the penalty concept is:
 

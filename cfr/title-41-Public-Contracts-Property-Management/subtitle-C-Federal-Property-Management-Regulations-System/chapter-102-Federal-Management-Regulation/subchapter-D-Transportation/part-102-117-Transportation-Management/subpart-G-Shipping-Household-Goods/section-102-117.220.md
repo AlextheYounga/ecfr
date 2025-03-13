@@ -14,4 +14,4 @@
 
 (b) As an alternative to the choices in paragraph (a) of this section, you may request the Department of State to assist with shipments of HHG moving to, from, and between foreign countries or international shipments originating in the continental United States. The nearest U.S. Embassy or Consulate may assist with arrangements of movements originating abroad. For further information contact:
 
-Department of StateTransportation Operations2201 C Street, NW.Washington, DC 20520[65 FR 60060, Oct. 6, 2000; 65 FR 81405, Dec. 26, 2000, as amended at 87 FR 32323, May 31, 2022]
+Department of State Transportation Operations 2201 C Street, NW. Washington, DC 20520[65 FR 60060, Oct. 6, 2000; 65 FR 81405, Dec. 26, 2000, as amended at 87 FR 32323, May 31, 2022]

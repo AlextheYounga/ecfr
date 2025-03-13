@@ -1,5 +1,7 @@
 ##### § 4044.51 Benefits to be valued. #####
 
+Link to an amendment published at 89 FR 48300, June 6, 2024.
+
 (a) *Form of benefit.* The plan administrator shall determine the form of each benefit to be valued in accordance with the following rules:
 
 (1) If a benefit is in pay status as of the valuation date, the plan administrator shall value the form of the benefit being paid.

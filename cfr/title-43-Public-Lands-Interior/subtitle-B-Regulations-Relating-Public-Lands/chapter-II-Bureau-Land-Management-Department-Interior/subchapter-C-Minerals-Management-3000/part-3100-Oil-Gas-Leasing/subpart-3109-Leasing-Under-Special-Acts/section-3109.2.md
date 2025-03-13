@@ -28,13 +28,13 @@
 
 (3) *Ross Lake and Lake Chelan National Recreation Areas.* (i) All of Lake Chelan National Recreation Area;
 
-(ii) All lands within1/2 mile of Gorge, Diablo and Ross Lakes measured from the shoreline at maximum surface elevation;
+(ii) All lands within 1/2 mile of Gorge, Diablo and Ross Lakes measured from the shoreline at maximum surface elevation;
 
 (iii) All lands proposed for or designated as wilderness;
 
-(iv) All lands within1/2 mile of State Highway 20;
+(iv) All lands within 1/2 mile of State Highway 20;
 
-(v) Pyramid Lake Research Natural Area and all lands within1/2 mile of its boundaries.
+(v) Pyramid Lake Research Natural Area and all lands within 1/2 mile of its boundaries.
 
 (4) *Glen Canyon National Recreation Area.* Those units closed to mineral disposition within the natural zone, development zone, cultural zone and portions of the recreation and resource utilization zone as shown on the map numbered 80,022A, dated March 1980, entitled “Mineral Management Plan—Glen Canyon National Recreation Area.” This map is available for public inspection in the Office of the Superintendent and the office of the State Directors, Bureau of Land Management, Arizona and Utah.
 

@@ -1,7 +1,5 @@
 ##### § 982.635 Homeownership option: Amount and distribution of monthly homeownership assistance payment. #####
 
-Link to an amendment published at 89 FR 38304, May 7, 2024.
-
 (a) *Amount of monthly homeownership assistance payment.* While the family is residing in the home, the PHA shall pay a monthly homeownership assistance payment on behalf of the family that is equal to the *lower of:*
 
 (1) The payment standard minus the total tenant payment; or
@@ -16,11 +14,7 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (2) If the home is located in an exception payment standard area, the PHA must use the appropriate payment standard for the exception payment standard area.
 
-(3) The payment standard for a family is the greater of:
-
-(i) The payment standard (as determined in accordance with paragraphs (b)(1) and (b)(2) of this section) at the commencement of homeownership assistance for occupancy of the home; or
-
-(ii) The payment standard (as determined in accordance with paragraphs (b)(1) and (b)(2) of this section) at the most recent regular reexamination of family income and composition since the commencement of homeownership assistance for occupancy of the home.
+(3) The payment standard amount may not be lower than what the payment standard amount was at commencement of homeownership assistance.
 
 (4) The PHA must use the same payment standard schedule, payment standard amounts, and subsidy standards pursuant to §§ 982.402 and 982.503 for the homeownership option as for the rental voucher program.
 
@@ -40,7 +34,7 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (vi) The PHA utility allowance for the home;
 
-(vii) Principal and interest on mortgage debt incurred to finance costs for major repairs, replacements or improvements for the home. If a member of the family is a person with disabilities, such debt may include debt incurred by the family to finance costs needed to make the home accessible for such person, if the PHA determines that allowance of such costs as homeownership expenses is needed as a reasonable accommodation so that the homeownership option is readily accessible to and usable by such person, in accordance with part 8 of this title; and
+(vii) Principal and interest on mortgage debt incurred to finance costs for major repairs, replacements or improvements for the home. If a member of the family is a person with disabilities, such debt may include debt incurred by the family to finance costs needed to make the home accessible for such person, if the PHA determines that allowance of such costs as homeownership expenses is needed as a reasonable accommodation so that the homeownership option is readily accessible to and usable by such person, in accordance with parts 8 and 100 of this title; and
 
 (viii) Land lease payments (where a family does not own fee title to the real property on which the home is located; see § 982.628(b)).
 
@@ -58,7 +52,7 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (vi) The PHA utility allowance for the home; and
 
-(vii) Principal and interest on debt incurred to finance major repairs, replacements or improvements for the home. If a member of the family is a person with disabilities, such debt may include debt incurred by the family to finance costs needed to make the home accessible for such person, if the PHA determines that allowance of such costs as homeownership expenses is needed as a reasonable accommodation so that the homeownership option is readily accessible to and usable by such person, in accordance with part 8 of this title.
+(vii) Principal and interest on debt incurred to finance major repairs, replacements or improvements for the home. If a member of the family is a person with disabilities, such debt may include debt incurred by the family to finance costs needed to make the home accessible for such person, if the PHA determines that allowance of such costs as homeownership expenses is needed as a reasonable accommodation so that the homeownership option is readily accessible to and usable by such person, in accordance with parts 8 and 100 of this title.
 
 (4) If the home is a cooperative or condominium unit, homeownership expenses may also include cooperative or condominium operating charges or maintenance fees assessed by the condominium or cooperative homeowner association.
 
@@ -70,4 +64,4 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (e) *Automatic termination of homeownership assistance.* Homeownership assistance for a family terminates automatically 180 calendar days after the last homeownership assistance payment on behalf of the family. However, a PHA has the discretion to grant relief from this requirement in those cases where automatic termination would result in extreme hardship for the family.
 
-[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64494, Oct. 18, 2002]
+[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64494, Oct. 18, 2002; 89 FR 38304, May 7, 2024]

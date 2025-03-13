@@ -1,6 +1,6 @@
 ##### § 982.315 Family break-up. #####
 
-(a)(1) The PHA has discretion to determine which members of an assisted family continue to receive assistance in the program if the family breaks up. The PHA administrative plan must state PHA policies on how to decide who remains in the program if the family breaks up.
+(a)(1) The PHA has discretion to determine which members of an assisted family continue to receive assistance in the program if the family breaks up. The PHA Administrative Plan must state PHA policies on how to decide who remains in the program if the family breaks up.
 
 (2) If the family break-up results from an occurrence of domestic violence, dating violence, sexual assault, or stalking as provided in 24 CFR part 5, subpart L (Protection for Victims of Domestic Violence, Dating Violence, Sexual Assault, or Stalking), the PHA must ensure that the victim retains assistance.
 

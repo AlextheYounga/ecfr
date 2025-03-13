@@ -1,7 +1,5 @@
 ##### § 665.253 Annual Catch Limits (ACL) and Annual Catch Targets (ACT). #####
 
-Link to an amendment published at 89 FR 37986, May 7, 2024.
-
 (a) *Deepwater Shrimp.* (1) In accordance with § 665.4, the ACLs for each fishing year are as follows:
 
 |Fishing year| 2022  | 2023  | 2024  | 2025  |
@@ -12,10 +10,10 @@ Link to an amendment published at 89 FR 37986, May 7, 2024.
 
 (b) *MHI Kona crab.* (1) In accordance with § 665.4, the ACLs and ACTs for each fishing year are as follows:
 
-|Fishing  <br/>year| 2020 | 2021 | 2022 | 2023 |
-|------------------|------|------|------|------|
-|     ACL (lb)     |30,802|30,802|30,802|30,802|
-|     ACT (lb)     |25,491|25,491|25,491|25,491|
+|Fishing year| 2024 | 2025 | 2026 |
+|------------|------|------|------|
+|  ACL (lb)  |30,802|30,802|30,802|
+|  ACT (lb)  |25,491|25,491|25,491|
 
 (2) When the ACT is projected to be reached based on analyses of available information, the Regional Administrator shall publish a document to that effect in the Federal Register and shall use other means to notify affected fishermen. The document will include an advisement that the fishery will be closed beginning on a specified date, which is not earlier than 7 days after the date of filing the closure notice for public inspection at the Office of the Federal Register, until the end of the fishing year in which the ACL is reached.
 
@@ -23,4 +21,4 @@ Link to an amendment published at 89 FR 37986, May 7, 2024.
 
 (4) If landings exceed the specified ACL in a fishing year, the Regional Administrator will reduce the ACL and the ACT for the subsequent year by the amount of the overage.
 
-[85 FR 79929, Dec. 11, 2020, as amended at 88 FR 14082, Mar. 7, 2023]
+[85 FR 79929, Dec. 11, 2020, as amended at 88 FR 14082, Mar. 7, 2023; 89 FR 37986, May 7, 2024]

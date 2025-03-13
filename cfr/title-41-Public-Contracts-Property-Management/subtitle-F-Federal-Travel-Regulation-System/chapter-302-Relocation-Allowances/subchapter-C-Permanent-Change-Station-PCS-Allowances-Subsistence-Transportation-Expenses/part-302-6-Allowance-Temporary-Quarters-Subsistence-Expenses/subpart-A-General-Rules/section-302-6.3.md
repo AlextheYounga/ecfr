@@ -1,3 +1,3 @@
-##### § 302-6.3 What is the purpose of the TQSE allowance? #####
+##### § 302-6.3 What are “temporary quarters”? #####
 
-The TQSE allowance is intended to reimburse an employee reasonably and equitably for subsistence expenses incurred when it is necessary to occupy temporary quarters.
+The term “temporary quarters” refers to lodging obtained for the purpose of temporary occupancy from a private or commercial source incident to an official relocation or temporary change of station.

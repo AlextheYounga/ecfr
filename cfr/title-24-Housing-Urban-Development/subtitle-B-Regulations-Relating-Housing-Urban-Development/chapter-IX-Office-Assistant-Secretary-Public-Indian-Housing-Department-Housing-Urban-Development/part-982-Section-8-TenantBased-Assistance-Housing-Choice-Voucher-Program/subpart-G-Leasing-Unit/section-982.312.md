@@ -1,6 +1,6 @@
 ##### § 982.312 Absence from unit. #####
 
-(a) The family may be absent from the unit for brief periods. For longer absences, the PHA administrative plan establishes the PHA policy on how long the family may be absent from the assisted unit. However, the family may not be absent from the unit for a period of more than 180 consecutive calendar days in any circumstance, or for any reason. At its discretion, the PHA may allow absence for a lesser period in accordance with PHA policy.
+(a) The family may be absent from the unit for brief periods. For longer absences, the PHA Administrative Plan establishes the PHA policy on how long the family may be absent from the assisted unit. However, the family may not be absent from the unit for a period of more than 180 consecutive calendar days in any circumstance, or for any reason. At its discretion, the PHA may allow absence for a lesser period in accordance with PHA policy.
 
 (b) Housing assistance payments terminate if the family is absent for longer than the maximum period permitted. The term of the HAP contract and assisted lease also terminate.
 
@@ -12,7 +12,7 @@
 
 (2) The PHA may adopt appropriate techniques to verify family occupancy or absence, including letters to the family at the unit, phone calls, visits or questions to the landlord or neighbors.
 
-(e) The PHA administrative plan must state the PHA policies on family absence from the dwelling unit. The PHA absence policy includes:
+(e) The PHA Administrative Plan must state the PHA policies on family absence from the dwelling unit. The PHA absence policy includes:
 
 (1) How the PHA determines whether or when the family may be absent, and for how long. For example, the PHA may establish policies on absences because of vacation, hospitalization or imprisonment; and
 

@@ -1,7 +1,5 @@
 ##### § 91.2 Applicability. #####
 
-Link to an amendment published at 89 FR 38290, May 7, 2024.
-
 (a) The following formula grant programs are covered by the consolidated plan:
 
 (1) The Community Development Block Grant (CDBG) programs (see 24 CFR part 570, subparts D and I);
@@ -50,8 +48,8 @@ Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (17) Competitive grants under the Housing Opportunities for Persons With AIDS (HOPWA) program (see 24 CFR part 574).
 
-(c) Other programs do not require consistency with an approved consolidated plan. However, HUD funding allocations for the Section 8 Certificate and Voucher Programs are to be made in a way that enables participating jurisdictions to carry out their consolidated plans.
+(c) Other programs do not require consistency with an approved consolidated plan. However, HUD funding allocations for the Section 8 Voucher Programs are to be made in a way that enables participating jurisdictions to carry out their consolidated plans.
 
 (d) The Public Housing Agency Plan submission (PHA Plan) (see 24 CFR part 903) includes a certification by the appropriate state or local official that the PHA Plan is consistent with the applicable consolidated plan for the jurisdiction in which the public housing agency is located and must describe the manner in which the applicable contents of the PHA Plan are consistent with the consolidated plan.
 
-[60 FR 1896, Jan. 5, 1995, as amended at 60 FR 16379, Mar. 30, 1995; 64 FR 50223, Sept. 15, 1999; 71 FR 6961, Feb. 9, 2006; 76 FR 75966, Dec. 5, 2011; 80 FR 5219, Jan. 30, 2015]
+[60 FR 1896, Jan. 5, 1995, as amended at 60 FR 16379, Mar. 30, 1995; 64 FR 50223, Sept. 15, 1999; 71 FR 6961, Feb. 9, 2006; 76 FR 75966, Dec. 5, 2011; 80 FR 5219, Jan. 30, 2015; 89 FR 38290, May 7, 2024]

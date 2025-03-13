@@ -1,0 +1,3 @@
+##### § 302-6.30 May my agency reduce my authorized number of TQSE days if I am authorized a househunting trip? #####
+
+Your agency may reduce the total number of days you are authorized for TQSE by the number of househunting days (*e.g.,* instead of authorizing 60 days of TQSE your agency can authorize 50 days to account for your 10-day househunting trip); however, the percentage multiplier used for calculating TQSE may not be reduced based on the number of days used for a househunting trip.

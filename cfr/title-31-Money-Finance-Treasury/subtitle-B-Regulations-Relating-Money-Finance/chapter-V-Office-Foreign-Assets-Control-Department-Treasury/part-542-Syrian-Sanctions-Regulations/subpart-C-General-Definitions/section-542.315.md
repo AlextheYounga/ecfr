@@ -1,3 +1,9 @@
-##### § 542.315 Property; property interest. #####
+##### § 542.315 New investment. #####
 
-The terms *property* and *property interest* include, but are not limited to, money, checks, drafts, bullion, bank deposits, savings accounts, debts, indebtedness, obligations, notes, guarantees, debentures, stocks, bonds, coupons, any other financial instruments, bankers acceptances, mortgages, pledges, liens or other rights in the nature of security, warehouse receipts, bills of lading, trust receipts, bills of sale, any other evidences of title, ownership or indebtedness, letters of credit and any documents relating to any rights or obligations thereunder, powers of attorney, goods, wares, merchandise, chattels, stocks on hand, ships, goods on ships, real estate mortgages, deeds of trust, vendors' sales agreements, land contracts, leaseholds, ground rents, real estate and any other interest therein, options, negotiable instruments, trade acceptances, royalties, book accounts, accounts payable, judgments, patents, trademarks or copyrights, insurance policies, safe deposit boxes and their contents, annuities, pooling agreements, services of any nature whatsoever, contracts of any nature whatsoever, and any other property, real, personal, or mixed, tangible or intangible, or interest or interests therein, present, future, or contingent.
+The term *new investment* means a transaction after 12:01 a.m. eastern daylight time, August 18, 2011, that constitutes:
+
+(a) A commitment or contribution of funds or other assets; or
+
+(b) A loan or other extension of credit as defined in § 542.314.
+
+[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024.]

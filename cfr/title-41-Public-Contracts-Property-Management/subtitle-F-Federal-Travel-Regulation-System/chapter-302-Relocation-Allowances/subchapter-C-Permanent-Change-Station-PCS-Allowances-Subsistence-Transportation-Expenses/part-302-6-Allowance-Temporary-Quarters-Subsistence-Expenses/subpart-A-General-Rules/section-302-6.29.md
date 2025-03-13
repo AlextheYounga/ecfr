@@ -1,0 +1,5 @@
+##### § 302-6.29 How long may I be authorized to claim TQSE reimbursement? #####
+
+(a) *TQSE-LP and TQSE-AE methods.* Your agency may initially authorize you to claim expenses in increments of 30 days or less, not to exceed 60 consecutive days. Your agency may authorize an extension of up to 60 additional consecutive days, for a maximum total of 120 consecutive days, if your agency determines that there is a compelling reason for you to continue occupying temporary quarters.
+
+(b) *TQSE-LS method.* If your agency offers, and you select TQSE-LS, your agency may authorize a lump sum for each day authorized up to a maximum of 30 consecutive days of TQSE; no extensions are allowed under the lump sum payment method. You will not receive additional TQSE reimbursement if the lump sum payment is not adequate to cover your actual TQSE.

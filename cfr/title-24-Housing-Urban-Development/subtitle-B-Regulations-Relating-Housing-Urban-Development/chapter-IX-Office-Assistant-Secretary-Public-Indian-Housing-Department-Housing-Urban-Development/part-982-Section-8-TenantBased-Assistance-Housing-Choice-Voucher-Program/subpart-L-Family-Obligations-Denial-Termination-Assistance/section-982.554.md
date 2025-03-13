@@ -2,7 +2,7 @@
 
 (a) *Notice to applicant.* The PHA must give an applicant for participation prompt notice of a decision denying assistance to the applicant. The notice must contain a brief statement of the reasons for the PHA decision. The notice must also state that the applicant may request an informal review of the decision and must describe how to obtain the informal review.
 
-(b) *Informal review process.* The PHA must give an applicant an opportunity for an informal review of the PHA decision denying assistance to the applicant. The administrative plan must state the PHA procedures for conducting an informal review. The PHA review procedures must comply with the following:
+(b) *Informal review process.* The PHA must give an applicant an opportunity for an informal review of the PHA decision denying assistance to the applicant. The Administrative Plan must state the PHA procedures for conducting an informal review. The PHA review procedures must comply with the following:
 
 (1) The review may be conducted by any person or persons designated by the PHA, other than a person who made or approved the decision under review or a subordinate of this person.
 

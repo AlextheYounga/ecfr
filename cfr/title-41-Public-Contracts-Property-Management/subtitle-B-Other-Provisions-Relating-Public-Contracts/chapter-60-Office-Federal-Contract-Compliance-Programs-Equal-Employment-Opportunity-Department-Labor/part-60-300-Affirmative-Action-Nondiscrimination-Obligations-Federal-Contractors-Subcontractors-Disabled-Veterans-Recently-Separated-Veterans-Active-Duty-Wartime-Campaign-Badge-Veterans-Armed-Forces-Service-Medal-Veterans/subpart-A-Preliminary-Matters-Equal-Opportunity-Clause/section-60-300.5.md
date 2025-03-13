@@ -2,7 +2,7 @@
 
 (a) *Government contracts.* Each contracting agency and each contractor shall include the following equal opportunity clause in each of its covered Government contracts or subcontracts (and modifications, renewals, or extensions thereof if not included in the original contract):
 
-EQUAL OPPORTUNITY FOR VEVRAA PROTECTED VETERANS3
+EQUAL OPPORTUNITY FOR VEVRAA PROTECTED VETERANS 3
 
 3 The definitions set forth in 41 CFR 60-300.2 apply to the terms used throughout this Clause, and they are incorporated herein by reference.
 

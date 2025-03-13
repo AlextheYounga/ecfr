@@ -60,9 +60,9 @@
 
 (6) A mentor that provides a subcontract to its protégé that is a covered territory business, or that has its principal office located in the Commonwealth of Puerto Rico, may:
 
-(i) receive positive consideration for the mentor's past performance evaluation, and (ii) apply costs incurred for providing training to such protege toward the subcontracting goals contained in the subcontracting plan of the mentor.
+ (i) receive positive consideration for the mentor's past performance evaluation, and (ii) apply costs incurred for providing training to such protege toward the subcontracting goals contained in the subcontracting plan of the mentor.
 
-(ii) [Reserved]
+ (ii) [Reserved]
 
 (e) *Written agreement.* (1) The mentor and protégé firms must enter a written agreement setting forth an assessment of the protégé's needs and providing a detailed description and timeline for the delivery of the assistance the mentor commits to provide to address those needs (*e.g.,* management and or technical assistance; loans and/or equity investments; bonding; use of equipment; export assistance; assistance as a subcontractor under prime contracts being performed by the protégé; cooperation on joint venture projects; or subcontracts under prime contracts being performed by the mentor). The mentor-protégé agreement must:
 

@@ -1,7 +1,6 @@
 ##### § 3162.3-2 Subsequent well operations. #####
 
-(a) A proposal for further well operations shall be submitted by the operator on Form 3160-5 for approval by the authorized officer prior to commencing operations to redrill, deepen, perform casing repairs, plug-back, alter casing, recomplete in a different interval, perform water shut off, commingling production between intervals and/or conversion to injection.
-If there is additional surface disturbance, the proposal shall include a surface use plan of operations. A subsequent report on these operations also will be filed on Form 3160-5. The authorized officer may prescribe that each proposal contain all or a portion of the information set forth in § 3162.3-1 of this title.
+(a) A proposal for further well operations shall be submitted by the operator on Form 3160-5 for approval by the authorized officer prior to commencing operations to redrill, deepen, perform casing repairs, plug-back, alter casing, recomplete in a different interval, perform water shut off, commingling production between intervals and/or conversion to injection. If there is additional surface disturbance, the proposal shall include a surface use plan of operations. A subsequent report on these operations also will be filed on Form 3160-5. The authorized officer may prescribe that each proposal contain all or a portion of the information set forth in § 3162.3-1 of this title.
 
 (b) Unless additional surface disturbance is involved and if the operations conform to the standard of prudent operating practice, prior approval is not required for routine fracturing or acidizing jobs, or recompletion in the same interval; however, a subsequent report on these operations must be filed on Form 3160-5.
 

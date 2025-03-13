@@ -34,9 +34,9 @@
 
 (C) Either obtain two consecutive identical gauging measurements for any tank regardless of size, or:
 
-(*1*) For tanks of 1,000 bbl or less in capacity, three consecutive measurements that are within 1/4-inch of each other and average these three measurements to the nearest1/4 inch; or
+(*1*) For tanks of 1,000 bbl or less in capacity, three consecutive measurements that are within 1/4-inch of each other and average these three measurements to the nearest 1/4 inch; or
 
-(*2*) For tanks greater than 1,000 bbl in capacity, three consecutive measurements within1/8 inch of each other, averaging these three measurements to the nearest1/8 inch.
+(*2*) For tanks greater than 1,000 bbl in capacity, three consecutive measurements within 1/8 inch of each other, averaging these three measurements to the nearest 1/8 inch.
 
 (D) A suitable product-indicating paste may be used on the tape to facilitate the reading. The use of chalk or talcum powder is prohibited; and
 

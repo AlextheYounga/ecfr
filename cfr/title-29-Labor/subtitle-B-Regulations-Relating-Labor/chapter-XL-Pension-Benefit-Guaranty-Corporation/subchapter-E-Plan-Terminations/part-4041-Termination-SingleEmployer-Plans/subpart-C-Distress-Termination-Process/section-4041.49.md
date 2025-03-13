@@ -1,5 +1,7 @@
 ##### § 4041.49 Verification of plan sufficiency prior to closeout. #####
 
+Link to an amendment published at 89 FR 48299, June 6, 2024.
+
 (a) *General rule.* Before distributing plan assets pursuant to a closeout under § 4041.50, the plan administrator must verify whether the plan's assets are still sufficient to provide for benefits at the level determined by the PBGC, *i.e.,* guaranteed benefits or benefit liabilities. If the plan administrator finds that the plan is no longer able to provide for benefits at the level determined by the PBGC, then paragraph (b) or (c) of this section, as appropriate, will apply.
 
 (b) *Subsequent insufficiency for guaranteed benefits.* When a plan administrator finds that a plan is no longer sufficient for guaranteed benefits, the plan administrator must promptly notify the PBGC in writing of that fact and may take no further action to implement the plan termination, pending the PBGC's determination and notice pursuant to paragraph (b)(1) or (b)(2) of this section.

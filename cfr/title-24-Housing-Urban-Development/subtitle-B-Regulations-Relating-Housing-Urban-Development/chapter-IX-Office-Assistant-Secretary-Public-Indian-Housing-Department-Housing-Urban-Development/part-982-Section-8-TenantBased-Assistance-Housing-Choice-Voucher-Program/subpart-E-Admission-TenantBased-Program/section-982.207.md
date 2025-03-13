@@ -1,6 +1,6 @@
 ##### § 982.207 Waiting list: Local preferences in admission to program. #####
 
-(a) *Establishment of PHA local preferences.* (1) The PHA may establish a system of local preferences for selection of families admitted to the program. PHA selection preferences must be described in the PHA administrative plan.
+(a) *Establishment of PHA local preferences.* (1) The PHA may establish a system of local preferences for selection of families admitted to the program. PHA selection preferences must be described in the PHA Administrative Plan.
 
 (2) The PHA system of local preferences must be based on local housing needs and priorities, as determined by the PHA. In determining such needs and priorities, the PHA shall use generally accepted data sources. The PHA shall consider public comment on the proposed public housing agency plan (as received pursuant to § 903.17 of this chapter) and on the consolidated plan for the relevant jurisdiction (as received pursuant to part 91 of this title).
 
@@ -34,6 +34,6 @@
 
 (d) *Preference for higher-income families.* The PHA must not select families for admission to the program in an order different from the order on the waiting list for the purpose of selecting higher income families for admission to the program.
 
-(e) *Verification of selection method.* The method for selecting applicants from a preference category must leave a clear audit trail that can be used to verify that each applicant has been selected in accordance with the method specified in the administrative plan.
+(e) *Verification of selection method.* The method for selecting applicants from a preference category must leave a clear audit trail that can be used to verify that each applicant has been selected in accordance with the method specified in the Administrative Plan.
 
 [64 FR 26643, May 14, 1999, as amended at 64 FR 56912, Oct. 21, 1999; 65 FR 16821, Mar. 30, 2000; 81 FR 80816, Nov. 16, 2016]

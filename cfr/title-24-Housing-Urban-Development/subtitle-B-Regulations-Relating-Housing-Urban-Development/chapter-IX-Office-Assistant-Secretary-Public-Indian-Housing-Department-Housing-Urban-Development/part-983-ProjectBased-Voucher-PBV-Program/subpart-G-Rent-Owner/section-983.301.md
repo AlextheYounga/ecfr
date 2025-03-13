@@ -1,7 +1,5 @@
 ##### § 983.301 Determining the rent to owner. #####
 
-Link to an amendment published at 89 FR 38336, May 7, 2024.
-
 (a) *Initial and redetermined rents.* (1) The amount of the initial and redetermined rent to owner is determined in accordance with this section and § 983.302.
 
 (2) The amount of the initial rent to owner is established at the beginning of the HAP contract term. For rehabilitated or newly constructed housing, the Agreement states the estimated amount of the initial rent to owner, but the actual amount of the initial rent to owner is established at the beginning of the HAP contract term.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 38336, May 7, 2024.
 
 (b) *Amount of rent to owner.* Except for certain tax credit units as provided in paragraph (c) of this section, the rent to owner must not exceed the lowest of:
 
-(1) An amount determined by the PHA, not to exceed 110 percent of the applicable fair market rent (or any exception payment standard approved by the Secretary) for the unit bedroom size minus any utility allowance;
+(1) An amount determined by the PHA in accordance with the Administrative Plan not to exceed 110 percent of the applicable fair market rent (or the amount of any applicable exception payment standard) for the unit bedroom size minus any utility allowance;
 
 (2) The reasonable rent; or
 
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 38336, May 7, 2024.
 
 (2) In the case of a contract unit described in paragraph (c)(1) of this section, the rent to owner must not exceed the lowest of:
 
-(i) The tax credit rent minus any utility allowance;
+(i) An amount determined by the PHA in accordance with the Administrative Plan, not to exceed the tax credit rent minus any utility allowance;
 
 (ii) The reasonable rent; or
 
@@ -46,14 +44,18 @@ Link to an amendment published at 89 FR 38336, May 7, 2024.
 
 (e) *Reasonable rent.* The PHA shall determine the reasonable rent in accordance with § 983.303. The rent to the owner for each contract unit may at no time exceed the reasonable rent, except in cases where, the PHA has elected within the HAP contract not to reduce rents below the initial rent to owner and, upon redetermination of the rent to owner, the reasonable rent would result in a rent below the initial rent. If the PHA has not elected within the HAP contract to establish the initial rent to owner as the rent floor, the rent to owner shall not at any time exceed the reasonable rent.
 
-(f) *Use of FMRs and utility allowance schedule in determining the amount of rent to owner*—(1) *Amounts used.* (i) *Determination of initial rent (at beginning of HAP contract term).* When determining the initial rent to owner, the PHA shall use the most recently published FMR in effect and the utility allowance schedule in effect at execution of the HAP contract. At its discretion, the PHA may use the amounts in effect at any time during the 30-day period immediately before the beginning date of the HAP contract.
+(f) *Use of FMRs and utility allowance schedule in determining the amount of rent to owner.* (1) When determining the initial rent to owner, the PHA shall use the most recently published FMR in effect and the utility allowance schedule in effect at execution of the HAP contract. At its discretion, the PHA may use the amounts in effect at any time during the 30-day period immediately before the beginning date of the HAP contract.
 
-(ii) *Redetermination of rent to owner.* When redetermining the rent to owner, the PHA shall use the most recently published FMR and the PHA utility allowance schedule in effect at the time of redetermination. At its discretion, the PHA may use the amounts in effect at any time during the 30-day period immediately before the redetermination date.
+(2) When redetermining the rent to owner, the PHA shall use the most recently published FMR and the PHA utility allowance schedule in effect at the time of redetermination. At its discretion, the PHA may use the amounts in effect at any time during the 30-day period immediately before the redetermination date.
 
-(2) *Exception payment standard and PHA utility allowance schedule.* (i) Any HUD-approved exception payment standard amount under 24 CFR 982.503(c) applies to both the tenant-based and project-based voucher programs. HUD will not approve a different exception payment standard amount for use in the PBV program.
+(3)(i) For PBV projects that are not located in a designated SAFMR area under 24 CFR 888.113(c)(1), or for PBV projects not located in a ZIP code where the PHA has opted in under 24 CFR 888.113(c)(3), any exception payment standard amount approved under 24 CFR 982.503(d)(2)-(4) applies for purposes of paragraphs (b)(1) and (c)(1)(iv) of this section. HUD will not approve a different payment standard amount for use in the PBV program.
 
-(ii) The PHA may not establish or apply different utility allowance amounts for the PBV program. The same PHA utility allowance schedule applies to both the tenant-based and PBV programs.
+(ii) For PBV projects that are located in a designated SAFMR area under 24 CFR 888.113(c)(1), or for PBV projects located in a ZIP code where the PHA has opted in under 24 CFR 888.113(c)(3), an exception payment standard amount approved under 24 CFR 982.503(d)(3)-(4) will apply for purposes of paragraphs (b)(1) and (c)(1)(iv) of this section only if the PHA has adopted a policy applying SAFMRs to its PBV program and met all other requirements in accordance with 24 CFR 888.113(h).
 
-(g) *PHA-owned units.* For PHA-owned PBV units, the initial rent to owner and the annual redetermination of rent at the annual anniversary of the HAP contract are determined by the independent entity approved by HUD in accordance with § 983.59. The PHA must use the rent to owner established by the independent entity.
+(4) HUD may establish a process allowing PHAs to adopt project-specific utility allowances by notification in the Federal Register subject to public comment. Absent the establishment of such a project-specific utility allowance, the PHA's utility allowance schedule as determined under 24 CFR 982.517(b)(2)(i) or (ii) applies to both the tenant-based and PBV programs.
 
-[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36169, June 25, 2014; 81 FR 80583, Nov. 16, 2016]
+(5) The PHA must continue to use the applicable utility allowance schedule for the purpose of determining the initial rent to owner and redetermining the rent to owner for contract units, as outlined in this 24 CFR 983.301, regardless of whether the PHA approves a higher utility allowance as a reasonable accommodation for a person with disabilities living in a contract unit (see 24 CFR 982.517(e)).
+
+(g) *PHA-owned units.* For PHA-owned PBV units, the initial rent to owner and the annual redetermination of rent at the annual anniversary of the HAP contract must be determined by the independent entity approved by HUD in accordance with § 983.57. The PHA must use the rent to owner established by the independent entity.
+
+[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36169, June 25, 2014; 81 FR 80583, Nov. 16, 2016; 89 FR 38336, May 7, 2024]

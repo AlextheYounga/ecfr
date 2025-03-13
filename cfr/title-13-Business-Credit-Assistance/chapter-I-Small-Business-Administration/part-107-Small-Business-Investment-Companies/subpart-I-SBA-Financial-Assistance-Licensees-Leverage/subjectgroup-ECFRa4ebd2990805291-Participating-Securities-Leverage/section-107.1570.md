@@ -34,11 +34,11 @@ If you have outstanding Participating Securities or Earmarked Assets, you may ma
 
 (2) *SBA's share of Distribution.* (i) If your Capital Impairment Percentage under § 107.1840 is zero, SBA's percentage share of any Distribution under this paragraph (b) equals:
 
-[Leverage /(Leverage + Leverageable Capital)] × 100In this formula, use Leverage and Leverageable Capital as of the date of the Distribution, after giving effect to any Distribution under § 107.1560 and paragraph (a) of this section.
+[Leverage /(Leverage + Leverageable Capital)] × 100 In this formula, use Leverage and Leverageable Capital as of the date of the Distribution, after giving effect to any Distribution under § 107.1560 and paragraph (a) of this section.
 
 (ii) If your Capital Impairment Percentage under § 107.1840 is greater than zero, you must modify the formula in paragraph (b)(2)(i) of this section by replacing Leverageable Capital with:
 
-Leverageable Capital × (100% − CIP)where “CIP” is your Capital Impairment Percentage or 100 percent, whichever is less.
+Leverageable Capital × (100% − CIP) where “CIP” is your Capital Impairment Percentage or 100 percent, whichever is less.
 
 (3) *How SBA will apply Distributions.* Any amounts you distribute to SBA, or its designated agent or Trustee, under this paragraph (b) will be applied as a repayment or redemption of Leverage in the order set forth in § 107.1560(g)(3) through (g)(5).
 

@@ -28,9 +28,9 @@
 
 (4) To operate a publishing house, sales outlet, or other office in Syria.
 
-Note to paragraph (b) of § 542.532:
+Note 1 to paragraph (b) of § 542.532:
 
-The importation from Syria and the exportation to Syria of information or informational materials, as defined in § 542.307, whether commercial or otherwise, regardless of format or medium of transmission, are exempt from the prohibitions and regulations of this part. See § 542.211(b).
+The importation from Syria and the exportation to Syria of information or informational materials, as defined in § 542.310, whether commercial or otherwise, regardless of format or medium of transmission, are exempt from the prohibitions and regulations of this part. See § 542.211(b).
 
 (c) This section does not authorize U.S. persons to engage the services of publishing houses or translators in Syria that involves dealing in property unless such activity is primarily for the dissemination of written publications in Syria.
 
@@ -46,4 +46,4 @@ The importation from Syria and the exportation to Syria of information or inform
 
 (5) The exportation of information subject to licensing requirements under the ITAR or exchanges of information that are subject to regulation by other government agencies.
 
-[80 FR 19532, Apr. 13, 2015]
+[80 FR 19532, Apr. 13, 2015, as amended at 89 FR 48322, June 6, 2024]

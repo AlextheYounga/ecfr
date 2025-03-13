@@ -1,3 +1,3 @@
-##### § 302-6.9 Where may I/we occupy temporary quarters at Government expense? #####
+##### § 302-6.9 Who may occupy temporary quarters at Government expense? #####
 
-You and/or your immediate family may occupy temporary quarters at Government expense within reasonable proximity of your old and/or new official stations. Neither you nor your immediate family may be reimbursed for occupying temporary quarters at any other location, unless justified by special circumstances that are reasonably related to your transfer.
+Only you and/or your immediate family, as annotated on the relocation authorization, may occupy temporary quarters at Government expense.

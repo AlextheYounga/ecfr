@@ -12,4 +12,4 @@ Agencies will not be discharged of their accountability and responsibility under
 
 (e) The holding agency has submitted to the appropriate office mentioned in paragraph (a) of § 2372.1 a copy of, or the case file on, easements, leases, or other encumbrances with which the holding agency or its predecessors have burdened the lands or interests therein.
 
-[35 FR 9559, June 13, 1970]Group 2400—Land Classification
+[35 FR 9559, June 13, 1970] Group 2400—Land Classification

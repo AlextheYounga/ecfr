@@ -1,7 +1,5 @@
 ##### § 5.504 Definitions. #####
 
-Link to an amendment published at 89 FR 38289, May 7, 2024.
-
 (a) The definitions *1937 Act, HUD, Public Housing Agency (PHA),* and *Section 8* are defined in subpart A of this part.
 
 (b) As used in this subpart E:
@@ -36,13 +34,11 @@ Link to an amendment published at 89 FR 38289, May 7, 2024.
 
 *Public Housing covered programs* means the public housing programs administered by the Assistant Secretary for Public and Indian Housing under title I of the 1937 Act. This definition does not encompass HUD's Indian Housing programs administered under title II of the 1937 Act. Further, this term does not include those programs providing assistance under section 8 of the 1937 Act. (See definition of “Section 8 Covered Programs” in this section.)
 
-*Responsible* entity means the person or entity responsible for administering the restrictions on providing assistance to noncitizens with ineligible immigrations status. The entity responsible for administering the restrictions on providing assistance to noncitizens with ineligible immigration status under the various covered programs is as follows:
+*Responsible entity* means the person or entity responsible for administering the restrictions on providing assistance to noncitizens with ineligible immigrations status. The entity responsible for administering the restrictions on providing assistance to noncitizens with ineligible immigration status under the various covered programs is as follows:
 
 (1) For the Section 235 Program, the mortgagee.
 
-(2) For Public Housing, the Section 8 Rental Certificate, the Section 8 Rental Voucher, and the Section 8 Moderate Rehabilitation programs, the PHA administering the program under an ACC with HUD.
-
-(3) For all other Section 8 programs, the Section 236 Program, and the Rent Supplement Program, the owner.
+(2) For Public Housing, the Section 8 Rental Voucher, and the Section 8 Moderate Rehabilitation programs, the PHA administering the program under an ACC with HUD.
 
 *Section 8 covered programs* means all HUD programs which assist housing under Section 8 of the 1937 Act, including Section 8-assisted housing for which loans are made under section 202 of the Housing Act of 1959.
 
@@ -51,3 +47,5 @@ Link to an amendment published at 89 FR 38289, May 7, 2024.
 *Section 214 covered programs* is the collective term for the HUD programs to which the restrictions imposed by Section 214 apply. These programs are set forth in § 5.500.
 
 *Tenant* means an individual or a family renting or occupying an assisted dwelling unit. For purposes of this subpart E, the term tenant will also be used to include a homebuyer, where appropriate.
+
+[61 FR 5202, Feb. 9, 1996, as amended at 89 FR 38289, May 7, 2024]

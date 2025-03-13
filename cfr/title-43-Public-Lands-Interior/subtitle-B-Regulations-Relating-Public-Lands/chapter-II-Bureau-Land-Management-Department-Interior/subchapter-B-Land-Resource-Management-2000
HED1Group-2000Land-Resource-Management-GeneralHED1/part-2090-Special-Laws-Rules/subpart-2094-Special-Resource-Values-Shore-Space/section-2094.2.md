@@ -4,4 +4,4 @@
 
 (b) Except as to trade and manufacturing sites, and home and headquarters sites, any applications to enter and notices of settlement which cover lands extending more than 160 rods along the shore of any navigable water will be considered as a petition for waiver of the 160-rod limitation mentioned in paragraph (a) of this section, provided that it is accompanied by a showing that the lands are not necessary for harborage, landing and wharf purposes and that the public interests will not be injured by waiver of the limitation.
 
-Group 2100—AcquisitionsGroup 2200—Exchanges
+Group 2100—Acquisitions Group 2200—Exchanges

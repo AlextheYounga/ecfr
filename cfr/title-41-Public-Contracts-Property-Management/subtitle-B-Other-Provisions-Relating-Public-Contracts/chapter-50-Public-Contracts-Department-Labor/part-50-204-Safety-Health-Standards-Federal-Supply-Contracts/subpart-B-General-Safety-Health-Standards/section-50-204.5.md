@@ -14,7 +14,7 @@
 
 (4) The following are some of the machines which usually require point of operation guarding:
 
-Guillotine cutters.Shears.Alligator shears.Power presses.Milling machines.Power saws.Jointers.Portable power tools.Forming rolls and calenders.
+Guillotine cutters. Shears. Alligator shears. Power presses. Milling machines. Power saws. Jointers. Portable power tools. Forming rolls and calenders.
 
 (d) Revolving drums, barrels and containers shall be guarded by an enclosure which is interlocked with the drive mechanism, so that the barrel, drum or container cannot revolve unless the guard enclosure is in place.
 

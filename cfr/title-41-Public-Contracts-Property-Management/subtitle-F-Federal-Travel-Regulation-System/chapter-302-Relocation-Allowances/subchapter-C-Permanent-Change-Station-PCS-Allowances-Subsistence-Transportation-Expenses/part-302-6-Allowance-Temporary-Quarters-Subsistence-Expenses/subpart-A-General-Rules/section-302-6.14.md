@@ -1,3 +1,3 @@
-##### § 302-6.14 How is my TQSE allowance affected if my temporary quarters become my permanent residence quarters? #####
+##### § 302-6.14 When does my authorized period for TQSE reimbursement end? #####
 
-If your temporary quarters become your permanent residence quarters, you may receive a TQSE allowance only if you show in a manner satisfactory to your agency that you initially intended to occupy the quarters temporarily.
+The period for TQSE reimbursement ends at midnight on either the day before you and/or any member of your immediate family occupies permanent residence quarters (even if some, but not all household goods have been delivered such that the residence is suitable for permanent occupancy), or the day your authorized period for TQSE reimbursement expires, whichever occurs first. (See § 302-6.207 for details.)

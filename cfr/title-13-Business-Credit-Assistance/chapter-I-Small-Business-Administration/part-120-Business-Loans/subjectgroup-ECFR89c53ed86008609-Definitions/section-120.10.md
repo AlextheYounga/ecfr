@@ -66,8 +66,7 @@ The following terms have the same meaning wherever they are used in this part. D
 
 *Rentable Property* is the total square footage of all buildings or facilities used for business operations.
 
-*Risk Rating* is an SBA internal composite rating assigned to individual SBA Lenders and Intermediaries that reflects the risk associated with the SBA Lender's or Intermediary's portfolio of SBA loans.
-Risk Ratings currently range from one to five, with one representing the least risk and five representing the most risk, and may be revised by SBA from time to time as published in the Federal Register through notice and comment.
+*Risk Rating* is an SBA internal composite rating assigned to individual SBA Lenders and Intermediaries that reflects the risk associated with the SBA Lender's or Intermediary's portfolio of SBA loans. Risk Ratings currently range from one to five, with one representing the least risk and five representing the most risk, and may be revised by SBA from time to time as published in the Federal Register through notice and comment.
 
 *Rural Area* is a political subdivision or unincorporated area in a non-metropolitan county (as defined by the Department of Agriculture), or, if in a metropolitan county, any such subdivision or area with a resident population under 20,000 which is designated by SBA as rural.
 

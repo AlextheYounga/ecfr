@@ -1,6 +1,6 @@
 ##### § 120.1051 Frequency of reviews and examinations. #####
 
-SBA may conduct reviews and examinations of SBA Lenders and Intermediaries on a periodic basis. SBA may consider, but is not limited to, the following factors in determining frequency:
+ SBA may conduct reviews and examinations of SBA Lenders and Intermediaries on a periodic basis. SBA may consider, but is not limited to, the following factors in determining frequency:
 
 (a) Results of monitoring, including an SBA Lender's or Intermediary's Risk Rating;
 

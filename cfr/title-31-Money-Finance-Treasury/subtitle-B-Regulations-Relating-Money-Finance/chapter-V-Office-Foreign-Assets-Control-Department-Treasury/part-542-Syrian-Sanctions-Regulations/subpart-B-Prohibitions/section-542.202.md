@@ -1,8 +1,8 @@
 ##### § 542.202 Effect of transfers violating the provisions of this part. #####
 
-(a) Any transfer after the effective date that is in violation of any provision of this part or of any regulation, order, directive, ruling, instruction, or license issued pursuant to this part, and that involves any property or interest in property blocked pursuant to § 542.201(a), is null and void and shall not be the basis for the assertion or recognition of any interest in or right, remedy, power, or privilege with respect to such property or property interest.
+(a) Any transfer after the effective date that is in violation of any provision of this part or of any regulation, order, directive, ruling, instruction, or license issued pursuant to this part, and that involves any property or interest in property blocked pursuant to § 542.201, is null and void and shall not be the basis for the assertion or recognition of any interest in or right, remedy, power, or privilege with respect to such property or property interest.
 
-(b) No transfer before the effective date shall be the basis for the assertion or recognition of any right, remedy, power, or privilege with respect to, or any interest in, any property or interest in property blocked pursuant to § 542.201(a), unless the person who holds or maintains such property, prior to that date, had written notice of the transfer or by any written evidence had recognized such transfer.
+(b) No transfer before the effective date shall be the basis for the assertion or recognition of any right, remedy, power, or privilege with respect to, or any interest in, any property or interest in property blocked pursuant to § 542.201, unless the person who holds or maintains such property, prior to that date, had written notice of the transfer or by any written evidence had recognized such transfer.
 
 (c) Unless otherwise provided, a license or other authorization issued by OFAC before, during, or after a transfer shall validate such transfer or make it enforceable to the same extent that it would be valid or enforceable but for the provisions of this part and any regulation, order, directive, ruling, instruction, or license issued pursuant to this part.
 
@@ -24,4 +24,4 @@ Note to paragraph (d) of § 542.202:
 
 The filing of a report in accordance with the provisions of paragraph (d)(3) of this section shall not be deemed evidence that the terms of paragraphs (d)(1) and (2) of this section have been satisfied.
 
-(e) Unless licensed pursuant to this part, any attachment, judgment, decree, lien, execution, garnishment, or other judicial process is null and void with respect to any property and interests in property blocked pursuant to § 542.201(a).
+(e) Unless licensed pursuant to this part, any attachment, judgment, decree, lien, execution, garnishment, or other judicial process is null and void with respect to any property and interests in property blocked pursuant to § 542.201.

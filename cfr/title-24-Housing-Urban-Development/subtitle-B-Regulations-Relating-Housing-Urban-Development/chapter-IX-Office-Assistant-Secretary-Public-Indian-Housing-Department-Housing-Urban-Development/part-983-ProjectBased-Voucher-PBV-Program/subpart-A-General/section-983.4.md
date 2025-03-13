@@ -1,14 +1,10 @@
 ##### § 983.4 Cross-reference to other Federal requirements. #####
 
-Link to an amendment published at 89 FR 38306, May 7, 2024.
-
 The following provisions apply to assistance under the PBV program.
 
 *Civil money penalty.* Penalty for owner breach of HAP contract. See 24 CFR 30.68.
 
 *Debarment.* Prohibition on use of debarred, suspended, or ineligible contractors. See 24 CFR 5.105(c) and 2 CFR part 2424.
-
-*Definitions.* See 24 CFR part 5, subpart D.
 
 *Disclosure and verification of income information.* See 24 CFR part 5, subpart B.
 
@@ -44,4 +40,4 @@ The following provisions apply to assistance under the PBV program.
 
 *Waiver of HUD rules.* See 24 CFR 5.110.
 
-[70 FR 59913, Oct. 13, 2005, as amended at 72 FR 73497, Dec. 27, 2007; 73 FR 72345, Nov. 28, 2008; 75 FR 66264, Oct. 24, 2010; 79 FR 36165, June 25, 2014; 81 FR 80818, Nov. 16, 2016; 85 FR 61568, Sept. 29, 2020]
+[70 FR 59913, Oct. 13, 2005, as amended at 72 FR 73497, Dec. 27, 2007; 73 FR 72345, Nov. 28, 2008; 75 FR 66264, Oct. 24, 2010; 79 FR 36165, June 25, 2014; 81 FR 80818, Nov. 16, 2016; 85 FR 61568, Sept. 29, 2020; 89 FR 38306, May 7, 2024]

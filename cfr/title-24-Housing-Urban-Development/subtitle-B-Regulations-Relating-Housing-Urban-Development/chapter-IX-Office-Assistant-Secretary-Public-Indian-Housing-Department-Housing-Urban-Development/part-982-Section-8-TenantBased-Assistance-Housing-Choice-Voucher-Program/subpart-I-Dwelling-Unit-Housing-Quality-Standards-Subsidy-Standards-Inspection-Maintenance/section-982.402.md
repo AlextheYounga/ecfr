@@ -1,7 +1,5 @@
 ##### § 982.402 Subsidy standards. #####
 
-Link to an amendment published at 89 FR 38296, May 7, 2024.Link to a correction of the above amendment published at 89 FR 46020, May 28, 2024.
-
 (a) *Purpose.* (1) The PHA must establish subsidy standards that determine the number of bedrooms needed for families of different sizes and compositions.
 
 (2) For each family, the PHA determines the appropriate number of bedrooms under the PHA subsidy standards (family unit size).
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 38296, May 7, 2024.Link to a correction 
 
 (1) The subsidy standards must provide for the smallest number of bedrooms needed to house a family without overcrowding.
 
-(2) The subsidy standards must be consistent with space requirements under the housing quality standards (See § 982.401).
+(2) The subsidy standards must be consistent with space requirements under the HQS (See § 982.401).
 
 (3) The subsidy standards must be applied consistently for all families of like size and composition.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 89 FR 38296, May 7, 2024.Link to a correction 
 
 (2) The family may lease an otherwise acceptable dwelling unit with more bedrooms than the family unit size. However, utility allowances must follow § 982.517(d).
 
-[60 FR 34695, July 3, 1995, as amended at 63 FR 23861, Apr. 30, 1998; 64 FR 26646, May 14, 1999; 81 FR 12375, Mar. 8, 2016; 88 FR 30503, May 11, 2023]
+[60 FR 34695, July 3, 1995, as amended at 63 FR 23861, Apr. 30, 1998; 64 FR 26646, May 14, 1999; 81 FR 12375, Mar. 8, 2016; 88 FR 30503, May 11, 2023; 89 FR 38296, May 7, 2024; 89 FR 46020, May 28, 2024]

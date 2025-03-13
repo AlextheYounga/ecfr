@@ -1,5 +1,7 @@
 ##### § 4044.41 General valuation rules. #####
 
+Link to an amendment published at 89 FR 48300, June 6, 2024.
+
 (a) *Valuation of benefits*—(1) *Trusteed plans.* The plan administrator of a plan that has been or will be placed into trusteeship by the PBGC shall value plan benefits in accordance with §§ 4044.51 through 4044.57.
 
 (2) *Non-trusteed plans.* The plan administrator of a non-trusteed plan shall value plan benefits in accordance with §§ 4044.71 through 4044.75. If a plan is unable to satisfy all benefits assigned to priority categories 1 through 4 on the distribution date, the PBGC will place it into trusteeship and the plan administrator shall re-value the benefits in accordance with §§ 4044.51 through 4044.57.

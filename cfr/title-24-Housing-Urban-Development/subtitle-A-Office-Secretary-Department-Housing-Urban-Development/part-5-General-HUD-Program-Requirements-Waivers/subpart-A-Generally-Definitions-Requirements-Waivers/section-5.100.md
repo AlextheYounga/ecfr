@@ -1,7 +1,5 @@
 ##### § 5.100 Definitions. #####
 
-Link to an amendment published at 89 FR 38289, May 7, 2024.
-
 The following definitions apply to this part and also in other regulations, as noted:
 
 *1937 Act* means the United States Housing Act of 1937 (42 U.S.C. 1437 *et seq.*)
@@ -58,7 +56,7 @@ The following definitions apply to this part and also in other regulations, as n
 
 *Homeownership counseling* means housing counseling related to homeownership and residential mortgage loans when provided in connection with HUD's Housing Counseling Program, or required by or provided in connection with HUD Programs as defined in § 5.111. Homeownership counseling is housing counseling that covers the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including financing, refinancing, default, and foreclosure, and other financial decisions) and the sale or other disposition of a home.
 
-*Household,* for purposes of 24 CFR part 5, subpart I, and parts, 960, 966, 882, and 982, means the family and PHA-approved live-in aide.
+*Household,* for purposes of 24 CFR part 5, subpart I, and parts 960, 966, 882, and 982 of this title, means the family, foster children and adults, and PHA-approved live-in aide.
 
 *Housing counseling* is independent, expert advice customized to the need of the consumer to address the consumer's housing barriers and to help achieve their housing goals and must include the following processes: Intake; financial and housing affordability analysis; an action plan, except for reverse mortgage counseling; and a reasonable effort to have follow-up communication with the client when possible. The content and process of housing counseling must meet the standards outlined in 24 CFR part 214. Homeownership counseling and rental counseling are types of housing counseling.
 
@@ -88,11 +86,11 @@ The following definitions apply to this part and also in other regulations, as n
 
 *Rental housing counseling* means counseling related to the rental of residential property, which may include counseling regarding future homeownership opportunities when provided in connection with HUD's Housing Counseling Program, or required under or provided in connection with HUD Programs as defined in § 5.111. Rental housing counseling may also include the decision to rent, responsibilities of tenancy, affordability of renting and eviction prevention.
 
-*Responsible entity* means:
+*Responsible entity* means the person or entity responsible for administering the restrictions on providing assistance to noncitizens with ineligible immigrations status. The entity responsible for administering the restrictions on providing assistance to noncitizens with ineligible immigration status under the various covered programs is as follows:
 
-(1) For the public housing program, the Section 8 tenant-based assistance program (part 982 of this title), and the Section 8 project-based certificate or voucher programs (part 983 of this title), and the Section 8 moderate rehabilitation program (part 882 of this title), responsible entity means the PHA administering the program under an ACC with HUD;
+(1) For the Section 235 Program, the mortgagee.
 
-(2) For all other Section 8 programs, responsible entity means the Section 8 project owner.
+(2) For Public Housing, the Section 8 Rental Voucher, and the Section 8 Moderate Rehabilitation programs, the PHA administering the program under an ACC with HUD.
 
 *Section 8* means section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f).
 
@@ -112,4 +110,4 @@ The following definitions apply to this part and also in other regulations, as n
 
 *Violent criminal activity* means any criminal activity that has as one of its elements the use, attempted use, or threatened use of physical force substantial enough to cause, or be reasonably likely to cause, serious bodily injury or property damage.
 
-[61 FR 5202, Feb. 9, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 65 FR 16715, Mar. 29, 2000; 66 FR 28791, May 24, 2001; 77 FR 5674, Feb. 3, 2012; 81 FR 64782, Sept. 21, 2016; 81 FR 90657, Dec. 14, 2016; 81 FR 92635, Dec. 20, 2016; 88 FR 9654, Feb. 14, 2023]
+[61 FR 5202, Feb. 9, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 65 FR 16715, Mar. 29, 2000; 66 FR 28791, May 24, 2001; 77 FR 5674, Feb. 3, 2012; 81 FR 64782, Sept. 21, 2016; 81 FR 90657, Dec. 14, 2016; 81 FR 92635, Dec. 20, 2016; 88 FR 9654, Feb. 14, 2023; 89 FR 38289, May 7, 2024]

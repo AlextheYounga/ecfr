@@ -8,4 +8,4 @@
 
 (b) The Interior Board of Land Appeals will issue a decision on the merits of an appeal of a wildfire management decision under paragraph (a) of this section within the time limits prescribed in 43 CFR 4.416.
 
-[68 FR 33804, June 5, 2003]Group 4200—Grazing Administration; Alaska; Livestock
+[68 FR 33804, June 5, 2003] Group 4200—Grazing Administration; Alaska; Livestock

@@ -1,5 +1,7 @@
 ##### § 4041A.43 Benefit forms. #####
 
+Link to an amendment published at 89 FR 48300, June 6, 2024.
+
 (a) *General rule.* Except as provided in paragraph (b) of this section, the sponsor of a plan that is closed out shall provide for the payment of any benefit attributable to employer contributions only in the form of an annuity.
 
 (b) *Exceptions.* The plan sponsor may pay a benefit attributable to employer contributions in a form other than an annuity if:

@@ -1,9 +1,3 @@
-##### § 302-6.7 Under what circumstances will I receive a TQSE allowance? #####
+##### § 302-6.7 Must my agency authorize payment of a TQSE allowance? #####
 
-You will receive a TQSE allowance if:
-
-(a) Your agency authorizes it before you occupy the temporary quarters (the agency authorization must specify the period of time allowed for you to occupy temporary quarters);
-
-(b) You have signed a service agreement; and
-
-(c) You meet any additional conditions your agency has established.
+No, TQSE is a discretionary allowance. Your agency determines whether it is in the Government's interest to pay TQSE.

@@ -1,15 +1,15 @@
 ##### § 983.205 Term of HAP contract. #####
 
-Link to an amendment published at 89 FR 38325, May 7, 2024.
+(a) *Initial term.* The PHA may enter into a HAP contract with an owner for an initial term of up to 20 years for each contract unit. The length of the term of the HAP contract for any contract unit may not be less than one year, nor more than 20 years.
 
-(a) *15-year initial term.* The PHA may enter into a HAP contract with an owner for an initial term of up to 15 years for each contract unit. The length of the term of the HAP contract for any contract unit may not be less than one year, nor more than 15 years. In the case of PHA-owned units, the term of the initial HAP contract shall be determined in accordance with § 983.59.
+(b) *Extension of term.* The PHA and owner may agree at any time before expiration of the HAP contract to execute one or more extensions of the HAP contract term. The following conditions apply:
 
-(b) *Extension of term.* A PHA may agree to enter into an extension at the time of the initial HAP contract term or any time before expiration of the contract, for an additional term of up to 15 years if the PHA determines an extension is appropriate to continue providing affordable housing for low-income families. A HAP contract extension may not exceed 15 years. A PHA may provide for multiple extensions; however, in no circumstance may such extensions exceed 15 years, cumulatively. Extensions after the initial extension are allowed at the end of any extension term provided that not more than 24 months prior to the expiration of the previous extension contract, the PHA agrees to extend the term, and that such extension is appropriate to continue providing affordable housing for low-income families or to expand housing opportunities. Extensions after the initial extension term shall not begin prior to the expiration date of the previous extension term. Subsequent extensions are subject to the same limitations described in this paragraph. Any extension of the term must be on the form and subject to the conditions prescribed by HUD at the time of the extension. In the case of PHA-owned units, any extension of the initial term of the HAP contract shall be determined in accordance with § 983.59.
+(1) Each extension executed must have a term that does not exceed 20 years;
 
-(c) *Termination by PHA—insufficient funding.* (1) The HAP contract must provide that the term of the PHA's contractual commitment is subject to the availability of sufficient appropriated funding (budget authority) as determined by HUD or by the PHA in accordance with HUD instructions. For purposes of this section, “sufficient funding” means the availability of appropriations, and of funding under the ACC from such appropriations, to make full payment of housing assistance payments payable to the owner for any contract year in accordance with the terms of the HAP contract.
+(2) At no time may the total remaining term of the HAP contract, with extensions, exceed 40 years;
 
-(2) The availability of sufficient funding must be determined by HUD or by the PHA in accordance with HUD instructions. If it is determined that there may not be sufficient funding to continue housing assistance payments for all contract units and for the full term of the HAP contract, the PHA has the right to terminate the HAP contract by notice to the owner for all or any of the contract units. Such action by the PHA shall be implemented in accordance with HUD instructions.
+(3) Before agreeing to an extension, the PHA must determine that the extension is appropriate to continue providing affordable housing for low-income families or to expand housing opportunities; and
 
-(d) *Termination by owner—reduction below initial rent.* The owner may terminate the HAP contract, upon notice to the PHA, if the amount of the rent to owner for any contract unit, as adjusted in accordance with § 983.302, is reduced below the amount of the initial rent to owner (rent to owner at the beginning of the HAP contract term). In this case, the assisted families residing in the contract units will be offered tenant-based voucher assistance.
+(4) Each extension must be on the form and subject to the conditions prescribed by HUD at the time of the extension.
 
-[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36168, June 25, 2014]
+[89 FR 38325, May 7, 2024]

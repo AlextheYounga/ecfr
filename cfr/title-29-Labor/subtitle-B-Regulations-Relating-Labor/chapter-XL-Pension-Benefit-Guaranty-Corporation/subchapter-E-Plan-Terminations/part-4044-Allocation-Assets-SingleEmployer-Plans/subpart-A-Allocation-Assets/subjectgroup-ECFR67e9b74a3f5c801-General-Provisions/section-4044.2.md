@@ -1,5 +1,7 @@
 ##### § 4044.2 Definitions. #####
 
+Link to an amendment published at 89 FR 48300, June 6, 2024.
+
 (a) The following terms are defined in § 4001.2 of this chapter: annuity, bankruptcy filing date, basic-type benefit, Code, distribution date, earliest retirement age at valuation date, ERISA, expected retirement age (XRA), fair market value, guaranteed benefit, insurer, IRS, irrevocable commitment, majority owner, mandatory employee contributions, nonbasic-type benefit, nonforfeitable benefit, non-PPA 2006 bankruptcy termination, normal retirement age, notice of intent to terminate, PBGC, person, plan, plan administrator, single-employer plan, termination date, unreduced retirement age (URA), and voluntary employee contributions.
 
 (b) For purposes of this part:

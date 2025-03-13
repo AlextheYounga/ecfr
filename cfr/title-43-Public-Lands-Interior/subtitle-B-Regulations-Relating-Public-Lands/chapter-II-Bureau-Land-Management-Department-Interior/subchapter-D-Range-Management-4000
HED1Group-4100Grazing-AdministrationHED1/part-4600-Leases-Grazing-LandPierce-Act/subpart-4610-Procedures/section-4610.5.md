@@ -2,7 +2,7 @@
 
 The procedure in placing improvements on any lands leased under the Pierce Act, will, so far as practicable, be the same as provided under subpart 4120 of subchapter D.
 
-[35 FR 9546, June 13, 1970. Redesignated and amended at 61 FR 29031, June 7, 1996]Group 4700—Wild Free-Roaming Horse and Burro ManagementNote:
+[35 FR 9546, June 13, 1970. Redesignated and amended at 61 FR 29031, June 7, 1996] Group 4700—Wild Free-Roaming Horse and Burro ManagementNote:
 
 The information collection requirements contained in Group 4700 have been approved by the Office of Management and Budget and assigned clearance number 1004-0042. The information is being collected to permit the authorized officer to remove wild horses and burros from private land and to determine whether an application for adoption of and title to wild horses or burros should be granted. Responses are required to obtain benefits.
 

@@ -2,7 +2,7 @@
 
 Unless otherwise stated, the definitions in this section apply to all grains. All other definitions unique to a particular grain are contained in the appropriate subpart for that grain.
 
-(a) *Distinctly low quality.* Grain that is obviously of inferior quality because it is in an unusual state or condition, and that cannot be graded properly by use of other grading factors provided in the standards. Distinctly low quality includes the presence of any objects too large to enter the sampling device; i.e., large stones, wreckage, or similar objects.
+(a) *Distinctly low quality.* Grain that is obviously of inferior quality because it is in an unusual state or condition, and that cannot be graded properly by use of other grading factors provided in the standards. Distinctly low quality includes the presence of any objects too large to enter the sampling device; *i.e.*, large stones, wreckage, or similar objects.
 
 (b) *Moisture.* Water content in grain as determined by an approved device according to procedures prescribed in FGIS instructions.
 

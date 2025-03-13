@@ -40,4 +40,4 @@ Harold R. Tyler, Jr.,*Deputy Attorney General and Chairman of the Equal Employme
 
 Because of its equal employment opportunity responsibilities under the State and Local Government Fiscal Assistance Act of 1972 (the revenue sharing act), the Department of Treasury was invited to participate in the formulation of this policy statement; and it concurs and joins in the adoption of this policy statement.
 
-Done this 26th day of August 1976.Richard Albrecht,*General Counsel,* *Department of the Treasury.*
+Done this 26th day of August 1976.Richard Albrecht, *General Counsel,* *Department of the Treasury.*

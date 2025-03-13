@@ -1,5 +1,3 @@
-##### § 302-6.18 May I be reimbursed for transportation expenses incurred while I am occupying temporary quarters? #####
+##### § 302-6.18 How is my TQSE allowance affected if my temporary quarters become my permanent residence quarters? #####
 
-Transportation expenses incurred in the vicinity of the temporary quarters are not TQSE, and therefore, there is no authority to pay such expenses under TQSE.
-
-[FTR Amdt. 2010-02, 75 FR 24437, May 5, 2010]
+If your temporary quarters become your permanent residence quarters, you may receive a TQSE allowance only if you show in a manner satisfactory to your agency that you initially intended to occupy the quarters temporarily. You will not be entitled to TQSE once your agency determines that your temporary quarters are your permanent residence. (See § 302-6.207 for details.)

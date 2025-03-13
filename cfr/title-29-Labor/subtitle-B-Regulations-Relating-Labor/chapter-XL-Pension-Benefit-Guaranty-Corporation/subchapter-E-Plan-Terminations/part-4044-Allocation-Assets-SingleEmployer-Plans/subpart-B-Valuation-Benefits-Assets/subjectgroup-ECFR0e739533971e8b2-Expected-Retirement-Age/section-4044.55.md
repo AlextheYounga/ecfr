@@ -1,5 +1,7 @@
 ##### § 4044.55 XRA when a participant must retire to receive a benefit. #####
 
+Link to an amendment published at 89 FR 48306, June 6, 2024.
+
 (a) *Applicability.* Except as provided in § 4044.57, the plan administrator shall determine the XRA under this section when plan provisions or established plan practice require a participant to retire from his or her job to begin receiving an early retirement benefit.
 
 (b) *Data needed.* The plan administrator shall determine for each participant who is entitled to an early retirement benefit—

@@ -2,11 +2,11 @@
 
 Link to an amendment published at 89 FR 38304, May 7, 2024.
 
-(a) The homeownership option is used to assist a family residing in a home purchased and owned by one or more members of the family.
+(a) *Applicability.* The homeownership option is used to assist a family residing in a home purchased and owned by one or more members of the family.
 
-(b) A family assisted under the homeownership option may be a newly admitted or existing participant in the program.
+(b) *Family status.* A family assisted under the homeownership option may be a newly admitted or existing participant in the program.
 
-(c) *Forms of homeownership assistance.* (1) A PHA may provide one of two forms of homeownership assistance for a family:
+(c) *Forms of homeownership assistance.* (1) *Allowable forms of homeownership assistance.* A PHA may provide one of two forms of homeownership assistance for a family:
 
 (i) Monthly homeownership assistance payments; or
 
@@ -22,9 +22,9 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (2) If the PHA offers both forms of homeownership assistance, the family chooses which form of homeownership assistance to receive.
 
-(f) The PHA must approve a live-in aide if needed as a reasonable accommodation so that the program is readily accessible to and useable by persons with disabilities in accordance with part 8 of this title. (See § 982.316 concerning occupancy by a live-in aide.)
+(f) *Live-in aide.* The PHA must approve a live-in aide if needed as a reasonable accommodation so that the program is readily accessible to and useable by persons with disabilities in accordance with part 8 of this title. (See § 982.316 concerning occupancy by a live-in aide.)
 
-(g) The PHA must have the capacity to operate a successful Section 8 homeownership program. The PHA has the required capacity if it satisfies either paragraph (g)(1), (g)(2), or (g)(3) of this section.
+(g) *PHA capacity.* The PHA must have the capacity to operate a successful Section 8 homeownership program. The PHA has the required capacity if it satisfies either paragraph (g)(1), (g)(2), or (g)(3) of this section.
 
 (1) The PHA establishes a minimum homeowner downpayment requirement of at least 3 percent of the purchase price for participation in its Section 8 homeownership program, and requires that at least one percent of the purchase price come from the family's personal resources;
 
@@ -80,4 +80,4 @@ Link to an amendment published at 89 FR 38304, May 7, 2024.
 
 (3) *Downpayment assistance grant.* The following provision only applies to homeownership assistance in the form of a downpayment assistance grant: Section 982.643 (Downpayment assistance grants).
 
-[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64493, Oct. 18, 2002; 80 FR 8247, Feb. 17, 2015]
+[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64493, Oct. 18, 2002; 80 FR 8247, Feb. 17, 2015; 89 FR 38304, May 7, 2024]

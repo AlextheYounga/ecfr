@@ -4,7 +4,7 @@ Link to an amendment published at 89 FR 38338, May 7, 2024.
 
 This section states the performance indicators that are used to assess PHA Section 8 management. HUD will use the verification method identified for each indicator in reviewing the accuracy of an PHA's annual SEMAP certification. HUD will prepare a SEMAP profile for each PHA and will assign a rating for each indicator as shown. If the HUD verification method for the indicator relies on data in MTCS and HUD determines those data are insufficient to verify the PHA's certification on the indicator due to the PHA's failure to adequately report family data, HUD will assign a zero rating for the indicator. The method for selecting the PHA's quality control sample under paragraphs (a), (b), (c) and (f) of this section must leave a clear audit trail that can be used to verify that the PHA's quality control sample was drawn in an unbiased manner.
 
-An PHA that expends less than $300,000 in Federal awards and whose Section 8 programs are not audited by an independent auditor (IA), will not be rated under the SEMAP indicators in paragraphs (a) through (g) of this section for which the annual IA audit report is a HUD verification method. For those PHAs, the SEMAP score and overall performance rating will be determined based only on the remaining indicators in paragraphs (i) through (o) of this section as applicable. Although the SEMAP performance rating will not be determined using the indicators in paragraphs (a) through (g) of this section, PHAs not subject to Federal audit requirements must still complete the SEMAP certification for these indicators and performance under the indicators is subject to HUD confirmatory reviews.
+A PHA that expends less than its Federal award expenditure threshold in 2 CFR Subpart F, and whose Section 8 programs are not audited by an independent auditor (IA), will not be rated under the SEMAP indicators in paragraphs (a) through (g) of this section for which the annual IA audit report is a HUD verification method.
 
 (a) *Selection from the waiting list.* (1) This indicator shows whether the PHA has written policies in its administrative plan for selecting applicants from the waiting list and whether the PHA follows these policies when selecting applicants for admission from the waiting list. (24 CFR 982.54(d)(1) and 982.204(a))
 
@@ -18,7 +18,7 @@ An PHA that expends less than $300,000 in Federal awards and whose Section 8 pro
 
 (ii) The PHA's SEMAP certification does not support the statement in paragraph (a)(3)(i) of this section. 0 points.
 
-(b) *Reasonable rent.* (1) This indicator shows whether the PHA has and implements a reasonable written method to determine and document for each unit leased that the rent to owner is reasonable based on current rents for comparable unassisted units: At the time of initial leasing; if there is any increase in the rent to owner; at the HAP contract anniversary if there is a 10 percent decrease in the published fair market rent (FMR) in effect 60 days before the HAP contract anniversary. The PHA's method must take into consideration the location, size, type, quality and age of the units, and the amenities, housing services, and maintenance and utilities provided by the owners in determining comparability and the reasonable rent. (24 CFR 982.4, 24 CFR 982.54(d)(15), 982.158(f)(7) and 982.507)
+(b) *Reasonable rent.* (1) This indicator shows whether the PHA has and implements a reasonable written method to determine and document for each unit leased that the rent to owner is reasonable based on current rents for comparable unassisted units: At the time of initial leasing; if there is any increase in the rent to owner; at the HAP contract anniversary if there is a 10 percent decrease in the published fair market rent (FMR) in effect 60 days before the HAP contract anniversary. The PHA's method must take into consideration the location, size, type, quality and age of the units, and the amenities, housing services, and maintenance and utilities provided by the owners in determining comparability and the reasonable rent. (24 CFR 982.4, 24 CFR 982.54(d)(15), 982.158(f)(7), 982.507, and 983.303)
 
 (2) HUD verification method: The IA annual audit report covering the PHA fiscal year entered on the SEMAP certification and on-site confirmatory review if performed.
 
@@ -26,7 +26,7 @@ An PHA that expends less than $300,000 in Federal awards and whose Section 8 pro
 
 (A) The PHA has a reasonable written method to determine reasonable rent which considers location, size, type, quality and age of the units and the amenities, housing services, and maintenance and utilities provided by the owners; and
 
-(B) Based on the PHA's quality control sample of tenant files, the PHA follows its written method to determine reasonable rent and has documented its determination that the rent to owner is reasonable in accordance with § 982.507 of this chapter for at least 98 percent of units sampled at the time of initial leasing, if there is any increase in the rent to owner, and at the HAP contract anniversary if there is a 10 percent decrease in the published FMR in effect 60 days before the HAP contract anniversary. 20 points.
+(B) Based on the PHA's quality control sample of tenant files, the PHA follows its written method to determine reasonable rent and has documented its determination that the rent to owner is reasonable in accordance with §§ 982.507 and 983.303 of this chapter, as applicable for at least 98 percent of units sampled at the time of initial leasing, if there is any increase in the rent to owner, and at the HAP contract anniversary if there is a 10 percent decrease in the published FMR in effect 60 days before the HAP contract anniversary. 20 points.
 
 (ii) The PHA's SEMAP certification includes the statements in paragraph (b)(3)(i) of this section, except that the PHA documents its determination of reasonable rent for only 80 to 97 percent of units sampled at initial leasing, if there is any increase in the rent to owner, and at the HAP contract anniversary if there is a 10 percent decrease in the published FMR in effect 60 days before the HAP contract anniversary. 15 points.
 
@@ -38,7 +38,7 @@ An PHA that expends less than $300,000 in Federal awards and whose Section 8 pro
 
 (3) Rating: (i) The PHA's SEMAP certification states that, based on the PHA's quality control sample of tenant files, for at least 90 percent of families:
 
-(A) The PHA obtains third party verification of reported family annual income, the value of assets totalling more than $5,000, expenses related to deductions from annual income, and other factors that affect the determination of adjusted income, and uses the verified information in determining adjusted income, and/or documents tenant files to show why third party verification was not available;
+(A) The PHA obtains third party verification, as appropriate, of reported family annual income, the value of assets, expenses related to deductions from annual income, and other factors that affect the determination of adjusted income, and uses the verified information in determining adjusted income, and/or documents tenant files to show why third party verification was not available;
 
 (B) The PHA properly attributes and calculates allowances for any medical, child care, and/or disability assistance expenses; and
 
@@ -60,7 +60,7 @@ An PHA that expends less than $300,000 in Federal awards and whose Section 8 pro
 
 (2) HUD verification method: The IA annual audit report covering the PHA fiscal year entered on the SEMAP certification and on-site confirmatory review if performed.
 
-(3) Rating: (i) The PHA's SEMAP certification states that an PHA supervisor or other qualified person performed quality control HQS reinspections during the PHA fiscal year for a sample of units under contract which meets the minimum sample size requirements specified in § 983.2 under PHA's quality control sample. The PHA's SEMAP certification also states that the reinspected sample was drawn from recently completed HQS inspections (i.e., performed during the 3 months preceding the quality control reinspection) and was drawn to represent a cross section of neighborhoods and the work of a cross section of inspectors. 5 points.
+(3) Rating: (i) The PHA's SEMAP certification states that an PHA supervisor or other qualified person performed quality control HQS reinspections during the PHA fiscal year for a sample of units under contract which meets the minimum sample size requirements specified in § 985.2 under PHA's quality control sample. The PHA's SEMAP certification also states that the reinspected sample was drawn from recently completed HQS inspections (i.e., performed during the 3 months preceding the quality control reinspection) and was drawn to represent a cross section of neighborhoods and the work of a cross section of inspectors. 5 points.
 
 (ii) The PHA's SEMAP certification does not support the statements in paragraph (e)(3)(i) of this section. 0 points.
 
@@ -108,15 +108,15 @@ An PHA that expends less than $300,000 in Federal awards and whose Section 8 pro
 
 (ii) The data submitted by the PHA for the deconcentration bonus does not show that the PHA met the requirements for bonus points in paragraph (h)(1)(i), (ii) or (iii) of this section. 0 points.
 
-(i) *Payment standards.* (1) This indicator shows whether the PHA has adopted a payment standard schedule that establishes voucher payment standard amounts by unit size for each FMR area in the PHA jurisdiction, and, if applicable, separate payment standard amounts by unit size for a PHA-designated part of an FMR area, which payment standards do not exceed 110 percent of the current applicable published FMRs and which are not less than 90 percent of the current applicable published FMRs (unless a higher or lower payment standard amount is approved by HUD). (§ 982.503 of this chapter.) For purposes of this paragraph, payment standards that do not exceed 110 percent of the current applicable published FMRs include exception payment standards established by the PHA in accordance with 982.503(c)(iii).
+(i) *Payment standards.* (1) This indicator shows whether the PHA has adopted payment standard schedule(s) in accordance with § 982.503.
 
 (2) HUD verification method: PHA data submitted on the SEMAP certification form concerning payment standards.
 
 (3) Rating:
 
-(i) The PHA's voucher program payment standard schedule contains payment standards which do not exceed 110 percent of the current applicable published FMR and which are not less than 90 percent of the current applicable published FMR (unless a higher or lower payment standard amount is approved by HUD). 5 points.
+(i) The PHA's voucher program payment standard schedule contains payment standards set in accordance with 24 CFR 982.503. 5 points.
 
-(ii) The PHA's voucher program payment standard schedule contains payment standards which exceed 110 percent of the current applicable published FMRs or which are less than 90 percent of the current applicable published FMRs (unless a higher or lower payment standard amount is approved by HUD). 0 points.
+(ii) The PHA's voucher program payment standard schedule contains payment standards that were not set in accordance with § 982.503. 0 points.
 
 (j) *Annual reexaminations.* (1) This indicator shows whether the PHA completes a reexamination for each participating family at least every 12 months. (24 CFR 5.617).
 
@@ -130,9 +130,9 @@ An PHA that expends less than $300,000 in Federal awards and whose Section 8 pro
 
 (iii) More than 10 percent of all PHA reexaminations are more than 2 months overdue. 0 points.
 
-(k) *Correct tenant rent calculations.* (1) This indicator shows whether the PHA correctly calculates tenant rent in the rental certificate program and the family's share of the rent to owner in the rental voucher program. (24 CFR 982 subpart K).
+(k) *Correct tenant rent calculations.* (1) This indicator shows whether the PHA correctly calculates the family's share of the rent to owner in the rental voucher program. (24 CFR part 982, subpart K).
 
-(2) HUD verification method: MTCS report—Shows percent of tenant rent and family's share of the rent to owner calculations that are incorrect based on data sent to HUD by the PHA on Forms HUD-50058. The MTCS data used for verification cover only voucher program and regular certificate program tenancies, and do not include rent calculation discrepancies for manufactured home owner rentals of manufactured home spaces under the certificate program or for proration of assistance under the noncitizen rule.
+(2) HUD verification method: MTCS report—Shows percent of tenant rent and family's share of the rent to owner calculations that are incorrect based on data sent to HUD by the PHA on Forms HUD-50058. The MTCS data used for verification cover only voucher program tenancies, and do not include rent calculation discrepancies for manufactured home owner rentals of manufactured home spaces for proration of assistance under the noncitizen rule.
 
 (3) Ratings:
 
@@ -140,27 +140,27 @@ An PHA that expends less than $300,000 in Federal awards and whose Section 8 pro
 
 (ii) More than 2 percent of PHA tenant rent and family's share of the rent to owner calculations are incorrect. 0 points.
 
-(l) *Pre-contract housing quality standards (HQS) inspections.* (1) This indicator shows whether newly leased units pass HQS inspection on or before the beginning date of the assisted lease and HAP contract. (24 CFR 982.305).
+(l) *Initial unit inspections.* (1) This indicator shows whether newly leased units pass HQS inspection within the time period required. This includes both initial and turnover inspections for the PBV program. (24 CFR 982.305 and 983.103(b) through (d)).
 
-(2) HUD verification method: MTCS report—Shows percent of newly leased units where the beginning date of the assistance contract is before the date the unit passed HQS inspection.
+(2) HUD verification method: MTCS report—Shows percent of newly leased units where the beginning date of the assistance contract is before the date the unit passed the initial unit inspection or, if the PHA employed the PHA initial inspection option for non-life- threatening deficiencies or alternative inspections, the timing requirements for the applicable PHA initial inspection option.
 
 (3) Rating:
 
-(i) 98 to 100 percent of newly leased units passed HQS inspection before the beginning date of the assisted lease and HAP contract. 5 points.
+(i) 98 to 100 percent of newly leased units passed HQS inspection within the time period required. 5 points.
 
-(ii) Fewer than 98 percent of newly leased units passed HQS inspection before the beginning date of the assisted lease and HAP contract. 0 points.
+(ii) Fewer than 98 percent of newly leased units passed HQS inspection within the time period required. 0 points.
 
-(m) *Annual HQS inspections.* (1) This indicator shows whether the PHA inspects each unit under contract at least annually. (24 CFR 982.405(a))
+(m) *Periodic HQS inspections.* (1) This indicator shows whether the PHA has met its periodic inspection requirement for its units under contract (24 CFR 982.405 and 983.103(e)).
 
 (2) HUD verification method: MTCS report—Shows percent of HQS inspections that are more than 2 months overdue. The 2-month allowance is provided only to accommodate a possible lag in the PHA's electronic reporting of the annual HQS inspection on Form HUD-50058, and to allow the processing of the data into MTCS. The 2-month allowance provided here for rating purposes does not mean that any delay in completing annual HQS inspections is permitted.
 
 (3) Rating:
 
-(i) Fewer than 5 percent of annual HQS inspections of units under contract are more than 2 months overdue. 10 points.
+(i) Fewer than 5 percent of periodic HQS inspections of units under contract are more than 2 months overdue. 10 points.
 
-(ii) 5 to 10 percent of all annual HQS inspections of units under contract are more than 2 months overdue. 5 points.
+(ii) 5 to 10 percent of all periodic HQS inspections of units under contract are more than 2 months overdue. 5 points.
 
-(iii) More than 10 percent of all annual HQS inspections of units under contract are more than 2 months overdue. 0 points.
+(iii) More than 10 percent of all periodic HQS inspections of units under contract are more than 2 months overdue. 0 points.
 
 (n) *Lease-up.* The provisions of this paragraph (n) apply to the first SEMAP certification due after July 2, 2012.
 
@@ -192,7 +192,7 @@ An PHA that expends less than $300,000 in Federal awards and whose Section 8 pro
 
 (vi) The PHA has filled fewer than 60 percent of its mandatory FSS slots and less than 30 percent of FSS families have escrow account balances. 0 points.
 
-(p) *Success rate of voucher holders.* (1) This indicator shows whether voucher holders were successful in leasing units with voucher assistance. This indicator applies only to PHAs that have received approval to establish success rate payment standard amounts in accordance with § 982.503(e). This indicator becomes initially effective for the second full PHA fiscal year following the date of HUD approval of success rate payment standard amounts.
+(p) *Success rate of voucher holders.* (1) This indicator shows whether voucher holders were successful in leasing units with voucher assistance. This indicator applies only to PHAs that established success rate payment standard amounts in accordance with § 982.503(f) prior to June 6, 2024.
 
 (2) HUD verification method: MTCS Report.
 
@@ -200,8 +200,6 @@ An PHA that expends less than $300,000 in Federal awards and whose Section 8 pro
 
 (A) 75 percent; or
 
-(B) The proportion of families issued rental vouchers that became participants in the program during the six month period utilized to determine eligibility for success rate payment standards under § 982.503(e)(1) plus 5 percentage points; and
+(B) The proportion of families issued rental vouchers that became participants in the program during the six month period utilized to determine eligibility for success rate payment standards under § 982.503(f) plus 5 percentage points; and
 
-(ii) The percent of units leased during the last PHA fiscal year was 95 percent or more, or the percent of allocated budget authority expended during the last PHA fiscal year was 95 percent or more following the methodology of § 985.3(n).
-
-[63 FR 48555, Sept. 10, 1998, as amended at 64 FR 40497, July 26, 1999; 64 FR 67983, Dec. 3, 1999; 65 FR 16733, Mar. 29, 2000; 65 FR 16823, Mar. 30, 2000; 65 FR 58875, Oct. 2, 2000; 66 FR 50005, Oct. 1, 2001; 77 FR 32018, May 31, 2012; 81 FR 80583, Nov. 16, 2016]
+[63 FR 48555, Sept. 10, 1998, as amended at 64 FR 40497, July 26, 1999; 64 FR 67983, Dec. 3, 1999; 65 FR 16733, Mar. 29, 2000; 65 FR 16823, Mar. 30, 2000; 65 FR 58875, Oct. 2, 2000; 66 FR 50005, Oct. 1, 2001; 77 FR 32018, May 31, 2012; 81 FR 80583, Nov. 16, 2016; 89 FR 38338, May 7, 2024]

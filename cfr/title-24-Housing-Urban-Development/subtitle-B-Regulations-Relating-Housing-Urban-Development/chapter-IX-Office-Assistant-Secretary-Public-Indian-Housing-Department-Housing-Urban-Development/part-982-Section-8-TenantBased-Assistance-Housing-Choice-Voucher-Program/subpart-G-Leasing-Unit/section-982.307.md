@@ -1,6 +1,6 @@
 ##### § 982.307 Tenant screening. #####
 
-(a) *PHA option and owner responsibility.* (1) The PHA has no liability or responsibility to the owner or other persons for the family's behavior or suitability for tenancy. However, the PHA may opt to screen applicants for family behavior or suitability for tenancy. The PHA must conduct any such screening of applicants in accordance with policies stated in the PHA administrative plan.
+(a) *PHA option and owner responsibility.* (1) The PHA has no liability or responsibility to the owner or other persons for the family's behavior or suitability for tenancy. However, the PHA may opt to screen applicants for family behavior or suitability for tenancy. The PHA must conduct any such screening of applicants in accordance with policies stated in the PHA Administrative Plan.
 
 (2) The owner is responsible for screening and selection of the family to occupy the owner's unit. At or before PHA approval of the tenancy, the PHA must inform the owner that screening and selection for tenancy is the responsibility of the owner.
 

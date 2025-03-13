@@ -6,4 +6,4 @@
 
 Note to § 542.505:
 
-*See* § 542.515 which authorizes, subject to certain restrictions, the operation of an account in a U.S. financial institution for an individual in Syria other than an individual whose property and interests in property are blocked pursuant to § 542.201(a).
+*See* § 542.515 which authorizes, subject to certain restrictions, the operation of an account in a U.S. financial institution for an individual in Syria other than an individual whose property and interests in property are blocked pursuant to § 542.201.
