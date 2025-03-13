@@ -1,5 +1,7 @@
 ##### § 412.165 Performance scoring under the Hospital Value-Based Purchasing (VBP) Program. #####
 
+Link to an amendment published at 88 FR 59333, Aug. 28, 2023.
+
 (a) *Points awarded based on hospital performance.* (1) CMS will award points to hospitals for performance on each measure for which the hospital reports the applicable minimum number of cases during the applicable performance period.
 
 (2) CMS will award from 1 to 9 points for achievement to each hospital whose performance on a measure during the applicable performance period meets or exceeds the achievement threshold but is less than the benchmark for that measure.

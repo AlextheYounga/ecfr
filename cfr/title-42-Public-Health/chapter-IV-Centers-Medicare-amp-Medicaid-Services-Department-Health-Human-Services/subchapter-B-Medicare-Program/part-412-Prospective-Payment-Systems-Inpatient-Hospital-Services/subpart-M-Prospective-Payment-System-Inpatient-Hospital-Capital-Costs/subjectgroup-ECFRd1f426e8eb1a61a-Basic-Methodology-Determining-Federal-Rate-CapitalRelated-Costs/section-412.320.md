@@ -1,5 +1,7 @@
 ##### § 412.320 Disproportionate share adjustment factor. #####
 
+Link to an amendment published at 88 FR 59334, Aug. 28, 2023.
+
 (a) *Criteria for classification.* A hospital is classified as a “disproportionate share hospital” for the purposes of capital prospective payments if either of the following conditions is met:
 
 (1) The hospital is located in an urban area, has 100 or more beds as determined in accordance with § 412.105(b), and serves low-income patients as determined under § 412.106(b).

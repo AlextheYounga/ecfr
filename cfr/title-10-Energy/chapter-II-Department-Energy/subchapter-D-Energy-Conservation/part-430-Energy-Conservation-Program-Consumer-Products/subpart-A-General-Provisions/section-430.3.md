@@ -366,7 +366,7 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 
 (5) IEC 62301, *Household electrical appliances—Measurement of standby power,* first edition, June 2005; IBR approved for appendices I, I1 to subpart B.
 
-(6) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01); IBR approved for appendices C1, C2, D1, D2, F, G, I, I1, J, J2, N, O, P, Q, U, X1, Y, Y1, Z, BB, CC, CC1, EE, and FF to subpart B.
+(6) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, C2, D1, D2, F, G, I I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC, CC1, EE, and FF to subpart B.
 
 (7) IEC 62301, (“IEC 62301-DD”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01); Section 5—Measurements, IBR approved for appendix DD to subpart B.
 

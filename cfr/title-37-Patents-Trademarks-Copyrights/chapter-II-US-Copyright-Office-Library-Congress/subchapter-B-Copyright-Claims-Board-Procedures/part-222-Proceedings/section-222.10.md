@@ -1,7 +1,5 @@
 ##### § 222.10 Response to counterclaim. #####
 
-Link to an amendment published at 88 FR 48380, July 27, 2023.
-
 (a) *Filing a response to a counterclaim.* Within 30 days following the Board's issuance of notification that a counterclaim is compliant under 37 CFR 224.1, a claimant against whom a counterclaim has been asserted (counterclaim respondent) shall file a response to the counterclaim through eCCB using the response form provided by the Board.
 
 (b) *Content of response to a counterclaim.* The response to a counterclaim shall include—
@@ -16,7 +14,9 @@ Link to an amendment published at 88 FR 48380, July 27, 2023.
 
 (5) For misrepresentation counterclaims, as set forth in 37 CFR 222.9(c)(2)(iii), a statement describing in detail the dispute regarding the alleged misrepresentation, including any defenses as well as an explanation of why the counterclaim respondent believes the identified words do not constitute misrepresentation; and
 
-(6) A certification under penalty of perjury by the claimant, the claimant's legal counsel, or the claimant's *authorized representative* that the information provided in the response to the counterclaim is accurate and truthful to the best of the certifying person's knowledge and, if the certifying person is not the counterclaim respondent, that the certifying person has confirmed the accuracy of the information with the counterclaim respondent. The certification shall include the typed signature of the certifying person.
+(6) For counterclaims arising under an agreement, as set forth in 37 CFR 222.9(c)(2)(iv), a statement describing in detail the dispute regarding the contractual counterclaim, including any defenses as well as an explanation of why the counterclaim respondent believes the counterclaimant's position regarding the agreement lacks merit; and
+
+(7) A certification under penalty of perjury by the claimant, the claimant's legal counsel, or the claimant's *authorized representative* that the information provided in the response to the counterclaim is accurate and truthful to the best of the certifying person's knowledge and, if the certifying person is not the counterclaim respondent, that the certifying person has confirmed the accuracy of the information with the counterclaim respondent. The certification shall include the typed signature of the certifying person.
 
 (c) *Additional matter.* The counterclaim respondent may also include, as attachments to or files that accompany the counterclaim response, any material the counterclaim respondent believes play a significant role in setting forth the facts of the claim, such as:
 
@@ -36,4 +36,4 @@ Link to an amendment published at 88 FR 48380, July 27, 2023.
 
 (d) *Failure to file counterclaim response.* A failure to file a counterclaim response within the timeframe required by this section may constitute a default under 17 U.S.C. 1506(u), and the Board may begin default proceedings under part 227 of this subchapter.
 
-[87 FR 17004, Mar. 25, 2022, as amended at 87 FR 30077, May 17, 2022; 87 FR 36060, June 15, 2022; 87 FR 77520, Dec. 19, 2022]
+[87 FR 17004, Mar. 25, 2022, as amended at 87 FR 30077, May 17, 2022; 87 FR 36060, June 15, 2022; 87 FR 77520, Dec. 19, 2022; 88 FR 48380, July 27, 2023]

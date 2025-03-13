@@ -1,5 +1,7 @@
 ##### § 412.103 Special treatment: Hospitals located in urban areas and that apply for reclassification as rural. #####
 
+Link to an amendment published at 88 FR 59332, Aug. 28, 2023.
+
 (a) *General criteria.* A prospective payment hospital that is located in an urban area (as defined in subpart D of this part) may be reclassified as a rural hospital if it submits an application in accordance with paragraph (b) of this section and meets any of the following conditions:
 
 (1) The hospital is located in a rural census tract of a Metropolitan Statistical Area (MSA) as determined under the most recent version of the Goldsmith Modification, the Rural-Urban Commuting Area codes, as determined by the Office of Rural Health Policy (ORHP) of the Health Resources and Services Administration, which is available via the ORHP Web site at: *http://www.ruralhealth.hrsa.gov* or from the U.S. Department of Health and Human Services, Health Resources and Services Administration, Office of Rural Health Policy, 5600 Fishers Lane, Room 9A-55, Rockville, MD 20857.

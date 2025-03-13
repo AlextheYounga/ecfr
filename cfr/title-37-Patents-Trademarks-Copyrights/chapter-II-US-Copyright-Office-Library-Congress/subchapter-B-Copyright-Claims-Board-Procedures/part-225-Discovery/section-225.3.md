@@ -1,7 +1,5 @@
 ##### § 225.3 Standard requests for the production of documents. #####
 
-Link to an amendment published at 88 FR 48381, July 27, 2023.
-
 (a) *General.* Parties in an *active proceeding* shall use the relevant set of *standard requests for the production of documents* provided on the Board's website. *Standard requests for the production of documents* shall include copies of:
 
 (1) All documents the party is likely to use in support of its claims, counterclaims, or defenses;
@@ -52,7 +50,23 @@ Link to an amendment published at 88 FR 48381, July 27, 2023.
 
 (2) Documents directly pertaining to the truth or falsity of any representations made in the notification or counter notification.
 
-(f) *Document searches and productions*—(1) *General.* Each party shall have an obligation to conduct a reasonable search for any responsive documents of any files in its possession or under its control, including the files of any of the party's agents, employees, representatives, or others acting on the party's behalf who the party reasonably believes may have responsive documents.
+(f) *For a counterclaimant asserting a counterclaim arising under an agreement.* In addition to the information in paragraph (a) of this section, the *standard requests for the production of documents* for a party asserting a counterclaim arising under an agreement shall include copies of:
+
+(1) The agreement at issue in the counterclaim arising under an agreement, including any amendments or revisions;
+
+(2) Documents related to the agreement at issue, including any amendments or revisions and documents related to the validity of and the parties' performance under the agreement; and
+
+(3) Documents relevant to damages arising out of the counterclaim, including documents sufficient to show the damages suffered by the counterclaimant related to violation of the agreement in question.
+
+(g) *For a counterclaim respondent responding to a counterclaim arising under an agreement.* In addition to the information in paragraph (a) of this section, the *standard requests for the production of documents* for a counterclaim respondent responding to a counterclaim arising under an agreement shall include copies of:
+
+(1) The agreement at issue in the counterclaim arising under an agreement, including any amendments or revisions;
+
+(2) Documents related to the agreement at issue, including any amendments or revisions and documents related to the validity of and the parties' performance under the agreement; and
+
+(3) Documents relevant to damages, including documents sufficient to show the lack of damages suffered by the counterclaimant related to the counterclaim respondent's alleged violation of the agreement in question.
+
+(h) *Document searches and productions*—(1) *General.* Each party shall have an obligation to conduct a reasonable search for any responsive documents of any files in its possession or under its control, including the files of any of the party's agents, employees, representatives, or others acting on the party's behalf who the party reasonably believes may have responsive documents.
 
 (2) *Electronically stored information.* Documents responsive to the *standard requests for the production of documents,* or any additional requests permitted by the Board, shall include electronically stored information (ESI), including emails and computer files. A reasonable search under the circumstances shall include the ESI of the party and the party's agents, employees, representatives, or others acting on the party's behalf who the party reasonably believes may have responsive documents, except that—
 
@@ -64,6 +78,6 @@ Link to an amendment published at 88 FR 48381, July 27, 2023.
 
 (4) *Duty to update.* A party has an obligation to preserve all material documents and to update its production of documents by providing to the other parties any documents it later finds responsive to the Board's *standard requests for the production of documents* or any other document requests allowed by the Board as soon as practicable after the discovery of such documents.
 
-(g) *Privileged documents.* Confidential communications with external counsel or in-house counsel reflecting or seeking legal advice related to the merits of the proceeding shall be considered privileged and need not be produced or logged. Parties must seek leave of the Board to withhold additional documents as privileged by filing a request with the Board. Requests to withhold additional documents as privileged and any responses thereto shall follow the procedures set forth in § 220.5(a)(1) of this subchapter.
+(i) *Privileged documents.* Confidential communications with external counsel or in-house counsel reflecting or seeking legal advice related to the merits of the proceeding shall be considered privileged and need not be produced or logged. Parties must seek leave of the Board to withhold additional documents as privileged by filing a request with the Board. Requests to withhold additional documents as privileged and any responses thereto shall follow the procedures set forth in § 220.5(a)(1) of this subchapter.
 
-[87 FR 30082, May 17, 2022; 87 FR 36061, June 15, 2022; 87 FR 77521, Dec. 19, 2022]
+[87 FR 30082, May 17, 2022; 87 FR 36061, June 15, 2022; 87 FR 77521, Dec. 19, 2022; 88 FR 48381, July 27, 2023]

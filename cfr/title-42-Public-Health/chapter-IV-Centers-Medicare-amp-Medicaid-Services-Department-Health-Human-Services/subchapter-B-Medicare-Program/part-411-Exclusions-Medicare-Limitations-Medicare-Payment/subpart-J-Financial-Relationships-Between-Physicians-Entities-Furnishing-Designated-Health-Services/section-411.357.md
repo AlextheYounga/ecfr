@@ -1,5 +1,7 @@
 ##### § 411.357 Exceptions to the referral prohibition related to compensation arrangements. #####
 
+Link to an amendment published at 88 FR 59328, Aug. 28, 2023.
+
 For purposes of § 411.353, the following compensation arrangements do not constitute a financial relationship:
 
 (a) *Rental of office space.* Payments for the use of office space made by a lessee to a lessor if the arrangement meets the following requirements:

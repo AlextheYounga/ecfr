@@ -1,7 +1,5 @@
 ##### § 222.9 Counterclaim. #####
 
-Link to an amendment published at 88 FR 48380, July 27, 2023.
-
 (a) *Asserting a counterclaim.* Any party can assert a counterclaim falling under the jurisdiction of the Board that also—
 
 (1) Arises out of the same transaction or occurrence as the initial claim; or
@@ -114,11 +112,19 @@ Link to an amendment published at 88 FR 48380, July 27, 2023.
 
 (vii) An explanation of the alleged misrepresentation;
 
-(6) For infringement counterclaims, misrepresentation counterclaims, and counterclaims arising under an agreement as provided in paragraph (a)(2), a statement describing the harm suffered by the counterclaimant(s) as a result of the alleged activity and the relief sought by the counterclaimant(s). Such statement may, but is not required to, include an estimate of any monetary relief sought;
+(6) For a counterclaim arising under an agreement asserted under paragraph (c)(2)(iv) of this section—
 
-(7) A statement describing the relationship between the initial claim and the counterclaim; and
+(i) A description of the agreement that the counterclaim is based upon;
 
-(8) A certification under penalty of perjury by the counterclaimant or the counterclaimant's legal counsel or *authorized representative* that the information provided in the counterclaim is accurate and truthful to the best of the certifying person's knowledge and, if the certifying person is not the counterclaimant, that the certifying person has confirmed the accuracy of the information with the counterclaimant. The certification shall include the typed signature of the certifying person.
+(ii) A brief statement describing how the agreement pertains to the same transaction or occurrence that is the subject of the infringement claim against the counterclaimant; and
+
+(iii) A brief statement describing how the agreement could affect the relief awarded to the claimant;
+
+(7) For infringement counterclaims, misrepresentation counterclaims, and counterclaims arising under an agreement as provided in paragraph (a)(2), a statement describing the harm suffered by the counterclaimant(s) as a result of the alleged activity and the relief sought by the counterclaimant(s). Such statement may, but is not required to, include an estimate of any monetary relief sought;
+
+(8) A statement describing the relationship between the initial claim and the counterclaim; and
+
+(9) A certification under penalty of perjury by the counterclaimant or the counterclaimant's legal counsel or *authorized representative* that the information provided in the counterclaim is accurate and truthful to the best of the certifying person's knowledge and, if the certifying person is not the counterclaimant, that the certifying person has confirmed the accuracy of the information with the counterclaimant. The certification shall include the typed signature of the certifying person.
 
 (d) *Additional matter.* The counterclaimant may also include, as attachments to or files that accompany the counterclaim, any material the counterclaimant believes plays a significant role in setting forth the facts of the counterclaim, such as:
 
@@ -138,4 +144,4 @@ Link to an amendment published at 88 FR 48380, July 27, 2023.
 
 (e) *Timing of counterclaim.* A counterclaim must be served and filed with the respondent's response unless the Board, for good cause, permits a counterclaim to be asserted at a subsequent time.
 
-[87 FR 17004, Mar. 25, 2022, as amended at 87 FR 77520, Dec. 19, 2022]
+[87 FR 17004, Mar. 25, 2022, as amended at 87 FR 77520, Dec. 19, 2022; 88 FR 48380, July 27, 2023]

@@ -1,7 +1,5 @@
 ##### § 225.2 Standard interrogatories. #####
 
-Link to an amendment published at 88 FR 48380, July 27, 2023.
-
 (a) *General.* Parties in an *active proceeding* shall use the set of *standard interrogatories* provided on the Board's website. *Standard interrogatories* shall consist of information pertaining to:
 
 (1) The identity of witnesses whom the parties plan to use in the proceeding, including contact information for the witnesses, if known, and a brief description of the subject matter on which they may testify;
@@ -78,6 +76,34 @@ Link to an amendment published at 88 FR 48380, July 27, 2023.
 
 (3) Identification and a description of any communications with the internet service provider, the parties, or others related to the notification or counter notification at issue.
 
-(f) *Duty to update.* A party has an obligation to update its interrogatory responses and serve updated responses on the other parties as soon as practicable after the discovery of new or updated information.
+(f) *For a counterclaimant asserting a counterclaim arising under an agreement.* In addition to the information in paragraph (a) of this section, the *standard interrogatories* for a counterclaimant asserting a counterclaim arising under an agreement shall consist of information pertaining to:
 
-[87 FR 30082, May 17, 2022, as amended at 87 FR 77521, Dec. 19, 2022]
+(1) Identification and a description of the specific terms or provisions of the agreement the counterclaim respondent is alleged to have violated;
+
+(2) The basis for the counterclaimant's belief that the agreement was valid;
+
+(3) The basis for the counterclaimant's belief that the agreement was violated;
+
+(4) The basis for the counterclaimant's belief that the agreement could affect the relief that might be awarded to the claimant;
+
+(5) A description of the counterclaimant's performance under the agreement, as relevant to the counterclaim;
+
+(6) Identification and a description of any inadequacies in performance under the agreement by the counterclaim respondent; and
+
+(7) If the agreement at issue in the counterclaim is oral, a description of the terms and provisions of the agreement.
+
+(g) *For a counterclaim respondent responding to a counterclaim arising under an agreement.* In addition to the information in paragraph (a) of this section, the *standard interrogatories* for a counterclaim respondent responding to a counterclaim arising under an agreement shall consist of information pertaining to:
+
+(1) All defenses asserted to the counterclaim arising under an agreement and the basis for those assertions. Defenses listed in timely answers and timely updated answers to the *standard interrogatories* shall be considered by the Board and will not require an amendment of the counterclaim response;
+
+(2) The basis for any other reasons the counterclaim respondent believes that it did not violate the agreement or that the agreement was not valid;
+
+(3) The basis for any belief by the counterclaim respondent that the agreement does not affect the relief that might be awarded to the claimant;
+
+(4) A description of the counterclaim respondent's performance under the agreement, as relevant to the counterclaim; and
+
+(5) Identification and a description of any inadequacies in performance under the agreement by the counterclaimant.
+
+(h) *Duty to update.* A party has an obligation to update its interrogatory responses and serve updated responses on the other parties as soon as practicable after the discovery of new or updated information.
+
+[87 FR 30082, May 17, 2022, as amended at 87 FR 77521, Dec. 19, 2022; 88 FR 48380, July 27, 2023]

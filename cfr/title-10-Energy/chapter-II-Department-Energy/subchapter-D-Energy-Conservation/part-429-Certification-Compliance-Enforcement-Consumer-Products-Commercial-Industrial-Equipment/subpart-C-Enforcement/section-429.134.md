@@ -1,7 +1,5 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 88 FR 48357, July 27, 2023.
-
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
 (b) *Refrigerators, refrigerator-freezers, and freezers*—(1) *Verification of total refrigerated volume.* The total refrigerated volume of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:
@@ -435,7 +433,7 @@ The outdoor ventilation airflow rate shall be determined at 0 in. H2O external s
 
 (z) *Dishwashers*—(1) *Determination of Most Energy-Intensive Cycle.* For any dishwasher basic model that does not meet the specified cleaning index threshold at a given soil load, the most energy-intensive cycle will be determined through testing as specified in sections 4.1.1 and 5.2 of appendix C2 to subpart B of part 430.
 
-(2) [Reserved]
+(2) *Detergent dosing requirement.* For any dishwasher basic model certified in accordance with the test procedure at appendix C1 to subpart B of part 430 of this chapter, DOE will conduct enforcement testing using the detergent dosing requirement that was used by the manufacturer as the basis for certifying compliance with the applicable energy conservation standard, in accordance with the applicable test procedure and certification reporting requirements.
 
 (aa) *Computer room air conditioners.* The following provisions apply for assessment and enforcement testing of models subject to energy conservation standards denominated in terms of NSenCOP.
 
@@ -463,4 +461,4 @@ The outdoor ventilation airflow rate shall be determined at 0 in. H2O external s
 
 (ii) If the representative value of active electrical power is not within five percent of the certified active electrical power, the mean measured active electrical power (either for a single unit sample or the average for a multiple unit sample) determined from the tested units will serve as the basis for calculation of the integrated thermal efficiency standard for the basic model.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77324, Dec. 16, 2022; 88 FR 3276, Jan. 18, 2023; 88 FR 15537, Mar. 13, 2023; 88 FR 17975, Mar. 24, 2023; 88 FR 21838, Apr. 11, 2023; 88 FR 28837, May 4, 2023; 88 FR 40472, June 21, 2023; 88 FR 34362, May 26, 2023; 88 FR 34702, May 30, 2023]
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77324, Dec. 16, 2022; 88 FR 3276, Jan. 18, 2023; 88 FR 15537, Mar. 13, 2023; 88 FR 17975, Mar. 24, 2023; 88 FR 21838, Apr. 11, 2023; 88 FR 28837, May 4, 2023; 88 FR 40472, June 21, 2023; 88 FR 34362, May 26, 2023; 88 FR 34702, May 30, 2023; 88 FR 48357, July 27, 2023]

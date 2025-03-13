@@ -1,5 +1,7 @@
 ##### § 412.108 Special treatment: Medicare-dependent, small rural hospitals. #####
 
+Link to an amendment published at 88 FR 59332, Aug. 28, 2023.
+
 (a) *Criteria for classification as a Medicare-dependent, small rural hospital*—
 
 (1) *General considerations.* For cost reporting periods beginning on or after April 1, 1990, and ending before October 1, 1994, or for discharges occurring on or after October 1, 1997, and before October 1, 2022, a hospital is classified as a Medicare-dependent, small rural hospital if it meets all of the following conditions:

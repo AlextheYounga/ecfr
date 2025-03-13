@@ -1,5 +1,7 @@
 ##### § 488.1 Definitions. #####
 
+Link to an amendment published at 88 FR 59335, Aug. 28, 2023.
+
 As used in this part—
 
 *Act* means the Social Security Act.

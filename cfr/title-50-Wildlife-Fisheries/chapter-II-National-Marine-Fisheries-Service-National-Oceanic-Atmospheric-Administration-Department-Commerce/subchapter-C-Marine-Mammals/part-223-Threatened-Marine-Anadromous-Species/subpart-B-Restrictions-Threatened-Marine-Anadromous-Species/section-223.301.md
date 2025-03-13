@@ -1,5 +1,7 @@
 ##### § 223.301 Special rules—marine and anadromous fishes. #####
 
+Link to an amendment published at 88 FR 58520, Aug. 28, 2023.
+
 (a) *Middle Columbia River steelhead (Oncorhynchus mykiss.*) (1) The Middle Columbia River steelhead located in the geographic areas identified in paragraph (a)(4) of this section comprise a nonessential, experimental population (NEP).
 
 (2) *Take of this species that is allowed in the NEP area.* (i) Taking of Middle Columbia River (MCR) steelhead that is otherwise prohibited by paragraph (a)(3) of this section and 50 CFR 223.203(a), provided that the taking is unintentional; not due to negligent conduct; and incidental to, and not the purpose of, the carrying out of an otherwise lawful activity. Examples of otherwise lawful activities include recreational fishing, recreation, agriculture, forestry, municipal usage, and other similar activities, which are carried out in accordance with Federal, state, and local laws and regulations as well as applicable tribal regulations.

@@ -1,5 +1,7 @@
 ##### § 489.102 Requirements for providers. #####
 
+Link to an amendment published at 88 FR 59336, Aug. 28, 2023.
+
 (a) Hospitals, critical access hospitals, skilled nursing facilities, nursing facilities, home health agencies, providers of home health care (and for Medicaid purposes, providers of personal care services), hospices, and religious nonmedical health care institutions must maintain written policies and procedures concerning advance directives with respect to all adult individuals receiving medical care, or patient care in the case of a patient in a religious nonmedical health care institution, by or through the provider and are required to:
 
 (1) Provide written information to such individuals concerning—
