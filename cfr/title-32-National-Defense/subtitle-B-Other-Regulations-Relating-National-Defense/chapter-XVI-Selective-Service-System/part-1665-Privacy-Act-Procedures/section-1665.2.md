@@ -1,8 +1,6 @@
 ##### § 1665.2 Requests for access. #####
 
-Link to an amendment published at 89 FR 35005, May 1, 2024.
-
-(a) Requirement for written requests. Individuals desiring to gain access to a record pertaining to them in a system of records maintained by SSS must submit their request in writing in accord with the procedures set forth in paragraph (b) below.
+(a) Requirement for written or electronic requests. Individuals desiring to gain access to a record pertaining to them in a system of records maintained by SSS must submit their request in writing or electronically (as specified in § 1665.1(a)) in accord with the procedures set forth in paragraph (b) below.
 
 (b) *Procedures*—(1) *Content of the request.* (i) The request for access to a record in a system of records shall be addressed to the records manager, at the address cited above, and shall name the system of records or contain a description of such system of records. The request should state that the request is pursuant to the Privacy Act of 1974. In the absence of specifying solely the Privacy Act of 1974 and, if the request may be processed under both the Freedom of Information Act and the Privacy Act and the request specifies both or neither act, the procedures under the Privacy Act of 1974 will be employed. The individual will be advised that the procedures of the Privacy Act will be utilized, of the existence and the general effect of the Freedom of Information Act, and the difference between procedures under the two acts (e.g. fees, time limits, access). The request should contain necessary information to verify the identity of the requester (see § 1665.2(b)(2)(vi)). In addition, the requester should include any other information which may assist in the rapid identification of the record for which access is being requested (e.g., maiden name, dates of employment, etc.) as well as any other identifying information contained in and required by SSS Notice of Systems of Records.
 
@@ -43,3 +41,5 @@ Link to an amendment published at 89 FR 35005, May 1, 2024.
 (vii) *Exceptions.* (A) Nothing in these regulations shall be construed to entitle an individual the right to access to any information compiled in reasonable anticipation of a civil action or proceeding. The mere fact that records in a system of records are frequently the subject of litigation does not bring those systems of records within the scope of this provision. This provision is not intended to preclude access by an individual to the records which are available to that individual under the other processes such as the Freedom of Information Act or the rules of civil procedure.
 
 (B) Within any system of records pertaining to possible violations of the Military Selective Service Act, the identity of or any information pertaining to any individual who provides information relating to a suspected violator will not be revealed to the suspected violator. This exemption is made under the provision of 5 U.S.C. 552a(k)(2).
+
+[47 FR 7224, Feb. 18, 1982, as amended at 89 FR 35005, May 1, 2024]

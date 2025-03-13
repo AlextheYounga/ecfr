@@ -1,5 +1,7 @@
 ##### § 635.2 Definitions. #####
 
+Link to an amendment published at 89 FR 47103, May 31, 2024.
+
 In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 of this chapter, the terms used in this part have following meanings. If applicable, the terms used in this part supercede those used in § 600.10:
 
 *Archival tag* means a device that is implanted or affixed to a fish to electronically record scientific information about the migratory behavior of that fish.

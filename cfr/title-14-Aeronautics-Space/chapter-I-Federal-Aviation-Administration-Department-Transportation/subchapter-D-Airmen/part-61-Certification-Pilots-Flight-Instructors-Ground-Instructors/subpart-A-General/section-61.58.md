@@ -1,7 +1,5 @@
 ##### § 61.58 Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered. #####
 
-Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
-
 (a) Except as otherwise provided in this section, to serve as pilot in command of an aircraft that is type certificated for more than one required pilot flight crewmember or is turbojet-powered, a person must—
 
 (1) Within the preceding 12 calendar months, complete a pilot-in-command proficiency check in an aircraft that is type certificated for more than one required pilot flight crewmember or is turbojet-powered; and
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
 
 (d) The pilot-in-command proficiency check required by paragraph (a) of this section may be accomplished by satisfactory completion of one of the following:
 
-(1) A pilot-in-command proficiency check conducted by a person authorized by the Administrator, consisting of the aeronautical knowledge areas, areas of operations, and tasks required for a type rating, in an aircraft that is type certificated for more than one pilot flight crewmember or is turbojet-powered;
+(1) A pilot-in-command proficiency check conducted by a person authorized by the Administrator, consisting of the areas of operation contained in the applicable Airman Certification Standards or Practical Test Standards (incorporated by reference, see § 61.14); as listed in appendix A of this part appropriate to the rating held, in an aircraft that is type certificated for more than one pilot flight crewmember or is turbojet powered;
 
 (2) The practical test required for a type rating, in an aircraft that is type certificated for more than one required pilot flight crewmember or is turbojet-powered;
 
@@ -62,4 +60,4 @@ Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
 
 (i) If a pilot takes the pilot-in-command proficiency check required by this section in the calendar month before or the calendar month after the month in which it is due, the pilot is considered to have taken it in the month in which it was due for the purpose of computing when the next pilot-in-command proficiency check is due.
 
-[Doc. No. 25910, 62 FR 40899, July 30, 1997, as amended by Amdt. 61-109, 68 FR 54559, Sept. 17, 2003; Amdt. 61-112, 70 FR 54814, Sept. 16, 2005; Amdt. 61-128, 76 FR 54106, Aug. 31, 2011; 76 FR 63184, Oct. 12, 2011; Docket No. FAA-2022-1355, Amdt. No. 61-151, 87 FR 75845, Dec. 9, 2022]
+[Doc. No. 25910, 62 FR 40899, July 30, 1997, as amended by Amdt. 61-109, 68 FR 54559, Sept. 17, 2003; Amdt. 61-112, 70 FR 54814, Sept. 16, 2005; Amdt. 61-128, 76 FR 54106, Aug. 31, 2011; 76 FR 63184, Oct. 12, 2011; Docket No. FAA-2022-1355, Amdt. No. 61-151, 87 FR 75845, Dec. 9, 2022; Docket No. FAA-2022-1463; Amdt. No.61-153, 89 FR 22517, Apr. 1, 2024]

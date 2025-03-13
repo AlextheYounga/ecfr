@@ -1,6 +1,6 @@
 ##### § 550.1011 Bond requirements for pipeline right-of-way holders. #####
 
-Link to an amendment published at 89 FR 31590, Apr. 24, 2024.
+Link to an amendment published at 89 FR 31590, Apr. 24, 2024.Link to an amendment published at 89 FR 47081, May 31, 2024.
 
 (a) When you apply for, or are the holder of, a right-of-way, you must:
 

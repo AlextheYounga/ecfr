@@ -24,6 +24,4 @@
 
 (8) Nothing in these regulations shall prohibit the U.S. Army Corps of Engineers from requiring the relocation or movement of vessels in a declared flood emergency.
 
-(c) *Enforcement.* Violations of these regulated navigation areas should be reported to the Captain of the Port, Miami. Persons in violation of these regulations will be subject to civil penalty under § 165.13(b) of this part.
-
-[CGD07-97-019, 62 FR 50512, Sept. 26, 1997]
+[CGD07-97-019, 62 FR 50512, Sept. 26, 1997, as amended by USCG-2018-0533, 85 FR 8173, Feb. 13, 2020]

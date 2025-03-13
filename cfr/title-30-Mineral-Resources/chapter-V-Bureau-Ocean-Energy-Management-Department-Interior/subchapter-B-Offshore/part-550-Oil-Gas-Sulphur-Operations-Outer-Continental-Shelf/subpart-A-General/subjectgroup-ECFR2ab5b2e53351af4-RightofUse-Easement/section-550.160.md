@@ -1,6 +1,6 @@
 ##### § 550.160 When will BOEM grant me a right-of-use and easement, and what requirements must I meet? #####
 
-Link to an amendment published at 89 FR 31589, Apr. 24, 2024.
+Link to an amendment published at 89 FR 31589, Apr. 24, 2024.Link to an amendment published at 89 FR 47081, May 31, 2024.
 
 BOEM may grant you a right-of-use and easement on leased and unleased lands on the OCS, if you meet these requirements:
 

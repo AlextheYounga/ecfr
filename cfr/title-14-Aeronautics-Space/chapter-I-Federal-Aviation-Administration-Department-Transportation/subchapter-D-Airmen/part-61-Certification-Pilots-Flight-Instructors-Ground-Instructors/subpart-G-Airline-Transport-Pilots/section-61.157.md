@@ -1,7 +1,5 @@
 ##### § 61.157 Flight proficiency. #####
 
-Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
-
 (a) *General.* (1) The practical test for an airline transport pilot certificate is given for—
 
 (i) An airplane category and single engine class rating.
@@ -32,25 +30,23 @@ Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
 
 (d) *Upgrading type ratings.* Any type rating(s) and limitations on a pilot certificate of an applicant who completes an airline transport pilot practical test will be included at the airline transport pilot certification level, provided the applicant passes the practical test in the same category and class of aircraft for which the applicant holds the type rating(s).
 
-(e) *Areas of operation.* (1) For an airplane category—single engine class rating:
+(e) *Areas of Operation.* A practical test will include normal and abnormal procedures, as applicable, within the areas of operation for practical tests for an airplane category and powered-lift category rating. (1) For an airplane category—single engine class rating:
 
 (i) Preflight preparation;
 
 (ii) Preflight procedures;
 
-(iii) Takeoff and departure phase;
+(iii) Takeoffs and Landings;
 
 (iv) In-flight maneuvers;
 
-(v) Instrument procedures;
+(v) Stall Prevention;
 
-(vi) Landings and approaches to landings;
+(vi) Instrument procedures;
 
-(vii) Normal and abnormal procedures;
+(vii) Emergency operations; and
 
-(viii) Emergency procedures; and
-
-(ix) Postflight procedures.
+(viii) Postflight procedures.
 
 (2) For an airplane category—multiengine class rating:
 
@@ -58,19 +54,17 @@ Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
 
 (ii) Preflight procedures;
 
-(iii) Takeoff and departure phase;
+(iii) Takeoffs and Landings;
 
 (iv) In-flight maneuvers;
 
-(v) Instrument procedures;
+(v) Stall Prevention.
 
-(vi) Landings and approaches to landings;
+(vi) Instrument procedures;
 
-(vii) Normal and abnormal procedures;
+(vii) Emergency operations; and
 
-(viii) Emergency procedures; and
-
-(ix) Postflight procedures.
+(viii) Postflight procedures.
 
 (3) For a powered-lift category rating:
 
@@ -78,7 +72,7 @@ Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
 
 (ii) Preflight procedures;
 
-(iii) Takeoff and departure phase;
+(iii) Takeoffs and Departure phase;
 
 (iv) In-flight maneuvers;
 
@@ -86,11 +80,9 @@ Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
 
 (vi) Landings and approaches to landings;
 
-(vii) Normal and abnormal procedures;
+(vii) Emergency operations; and
 
-(viii) Emergency procedures; and
-
-(ix) Postflight procedures.
+(viii) Postflight procedures.
 
 (4) For a rotorcraft category—helicopter class rating:
 
@@ -146,4 +138,4 @@ Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
 
 (j) *Waiver authority.* An Examiner who conducts a practical test may waive any task for which the FAA has provided waiver authority.
 
-[Doc. No. FAA-2006-26661, 74 FR 42560, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53647, Oct. 20, 2009; Amdt. 61-130, 78 FR 42375, July 15, 2013]
+[Doc. No. FAA-2006-26661, 74 FR 42560, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53647, Oct. 20, 2009, as amended at Amdt. 61-130, 78 FR 42375, July 15, 2013; Docket No. FAA-2022-1463; Amdt. No.61-153, 89 FR 22517, Apr. 1, 2024]

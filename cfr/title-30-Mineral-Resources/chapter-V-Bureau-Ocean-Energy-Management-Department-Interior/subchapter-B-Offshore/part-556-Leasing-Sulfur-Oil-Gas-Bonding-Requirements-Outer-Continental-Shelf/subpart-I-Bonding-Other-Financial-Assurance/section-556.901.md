@@ -1,6 +1,6 @@
 ##### § 556.901 Additional bonds. #####
 
-Link to an amendment published at 89 FR 31594, Apr. 24, 2024.
+Link to an amendment published at 89 FR 31594, Apr. 24, 2024.Link to an amendment published at 89 FR 47081, May 31, 2024.
 
 (a) This paragraph explains what bonds you must provide before lease exploration activities commence.
 

@@ -1,0 +1,5 @@
+##### § 900.11 NEPA lead agency and selection of NEPA joint lead agency. #####
+
+(a) For a proposed electric transmission project that is accepted for the Integrated Interagency Pre-Application (IIP) Process under § 900.5, DOE shall serve as the NEPA lead agency to prepare an environmental review document to serve the needs of all relevant Federal entities. A NEPA joint lead agency to prepare the environmental review document may also be designated pursuant to this section, no later than by the IIP Process review meeting.
+
+(b) The NEPA joint lead agency, if any, shall be the Federal entity with the most significant interest in the management of Federal lands or waters that would be traversed or affected by the proposed project. DOE shall make this determination in consultation with all Federal entities that manage Federal lands or waters traversed or affected by the proposed project. For a proposed project that would traverse lands managed by both the USDA and the DOI, DOE will request that USDA and DOI determine the appropriate NEPA joint lead agency, if any.

@@ -1,7 +1,5 @@
 ##### § 61.57 Recent flight experience: Pilot in command. #####
 
-Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
-
 (a) *General experience.* (1) Except as provided in paragraph (e) of this section, no person may act as a pilot in command of an aircraft carrying passengers or of an aircraft certificated for more than one pilot flight crewmember unless that person has made at least three takeoffs and three landings within the preceding 90 days, and—
 
 (i) The person acted as the sole manipulator of the flight controls; and
@@ -54,7 +52,7 @@ Link to an amendment published at 89 FR 22517, Apr. 1, 2024.
 
 (B) Use a view-limiting-device while practicing performance maneuvers, performance airspeeds, navigation, slow flight, and stalls.
 
-(d) *Instrument proficiency check.* (1) Except as provided in paragraph (e) of this section, a person who has failed to meet the instrument experience requirements of paragraph (c) of this section for more than six calendar months may reestablish instrument currency only by completing an instrument proficiency check. The instrument proficiency check must consist of at least the following areas of operation:
+(d) *Instrument proficiency check.* (1) Except as provided in paragraph (e) of this section, a person who has failed to meet the instrument experience requirements of paragraph (c) of this section for more than six calendar months may reestablish instrument currency only by completing an instrument proficiency check. The instrument proficiency check must include the areas of operation contained in the applicable Airman Certification Standards (incorporated by reference, see § 61.14) as listed in appendix A of this part as appropriate to the rating held.
 
 (i) Air traffic control clearances and procedures;
 

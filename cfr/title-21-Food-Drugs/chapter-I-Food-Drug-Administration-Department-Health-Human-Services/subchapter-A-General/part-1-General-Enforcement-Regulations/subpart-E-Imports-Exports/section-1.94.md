@@ -1,5 +1,7 @@
 ##### § 1.94 Hearing on refusal of admission or destruction. #####
 
+Link to an amendment published at 89 FR 47080, May 31, 2024.
+
 (a) If it appears that the article may be subject to refusal of admission or that the article is a drug that may be subject to destruction under section 801(a) of the Federal Food, Drug, and Cosmetic Act, the division director shall give the owner or consignee a written or electronic notice to that effect, stating the reasons therefor. The notice shall specify a place and a period of time during which the owner or consignee shall have an opportunity to introduce testimony. Upon timely request giving reasonable grounds therefor, such time and place may be changed. Such testimony shall be confined to matters relevant to the admissibility or destruction of the article, and may be introduced orally or in writing.
 
 (b) If such owner or consignee submits or indicates his or her intention to submit an application for authorization to relabel or perform other action to bring the article into compliance with the Federal Food, Drug, and Cosmetic Act or to render it other than a food, drug, device, or cosmetic, such testimony shall include evidence in support of such application. If such application is not submitted at or prior to the hearing on refusal of admission, the division director shall specify a time limit, reasonable in the light of the circumstances, for filing such application.

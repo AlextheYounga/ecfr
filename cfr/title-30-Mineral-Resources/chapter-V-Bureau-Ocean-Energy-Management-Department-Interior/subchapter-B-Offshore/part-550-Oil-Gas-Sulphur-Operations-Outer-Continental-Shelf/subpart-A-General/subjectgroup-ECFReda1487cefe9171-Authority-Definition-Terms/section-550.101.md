@@ -1,6 +1,6 @@
 ##### § 550.101 Authority and applicability. #####
 
-Link to an amendment published at 89 FR 31585, Apr. 24, 2024.
+Link to an amendment published at 89 FR 47081, May 31, 2024.Link to an amendment published at 89 FR 31585, Apr. 24, 2024.
 
 The Secretary of the Interior (Secretary) authorized the Bureau of Ocean Energy Management (BOEM) to regulate oil, gas, and sulphur exploration, development, and production operations on the Outer Continental Shelf (OCS). Under the Secretary's authority, the Director requires that all operations:
 

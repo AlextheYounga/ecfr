@@ -1,6 +1,6 @@
 ##### § 550.199 Paperwork Reduction Act statements—information collection. #####
 
-Link to an amendment published at 89 FR 31590, Apr. 24, 2024.
+Link to an amendment published at 89 FR 31590, Apr. 24, 2024.Link to an amendment published at 89 FR 47081, May 31, 2024.
 
 (a) OMB has approved the information collection requirements in part 550 under 44 U.S.C. 3501 *et seq.* The table in paragraph (e) of this section lists the subpart in the rule requiring the information and its title, provides the OMB control number, and summarizes the reasons for collecting the information and how BOEM uses the information. The associated BOEM forms required by this part are listed at the end of this table with the relevant information.
 

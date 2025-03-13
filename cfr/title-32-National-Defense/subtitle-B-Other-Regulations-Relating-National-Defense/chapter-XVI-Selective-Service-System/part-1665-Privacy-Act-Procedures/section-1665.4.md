@@ -1,8 +1,6 @@
 ##### § 1665.4 Requests to amend records. #####
 
-Link to an amendment published at 89 FR 35005, May 1, 2024.
-
-(a) *Requirement for written requests.* Individuals desiring to amend a record that pertains to them in a system of records maintained by SSS must submit their request in writing in accord with the procedures set forth herein. Records not subject to the Privacy Act of 1974 will not be amended in accord with these provisions. However, individuals who believe that such records are inaccurate may bring this to the attention of SSS.
+(a) *Requirement for written or electronic requests.* Individuals desiring to amend a record that pertains to them in a system of records maintained by SSS must submit their request in writing or electronically (as specified in § 1665.1(a)) in accord with the procedures set forth herein. Records not subject to the Privacy Act of 1974 will not be amended in accord with these provisions. However, individuals who believe that such records are inaccurate may bring this to the attention of SSS.
 
 (b) *Procedures.* (1)(i) The requests to amend a record in a system of records shall be addressed to the records manager. Included in the request shall be the name of the system and a brief description of the record proposed for amendment. In the event the request to amend the record is the result of the individual's having gained access to the record in accordance with the provisions concerning access to records as set forth above, copies of previous correspondence between the requester and SSS will serve in lieu of a separate description of the record.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 89 FR 35005, May 1, 2024.
 (vi) A description of any other procedures which may be required of the individual in order to process the appeal.
 
 (3) If the nature of the request for the correction of the system of records precludes a decision within 10 days, the individual making the request will be informed within 10 days of the extended date for a decision. Such a decision will be issued as soon as it is reasonably possible, normally within 30 days from the receipt of the request (excluding Saturdays, Sundays, and legal Federal holidays) unless unusual circumstances preclude completing action within that time. If the expected completion date for the decision indicated cannot be met, the individual will be advised of the delay of a revised date when the decision may be expected to be completed.
+
+[47 FR 7224, Feb. 18, 1982, as amended at 89 FR 35005, May 1, 2024]

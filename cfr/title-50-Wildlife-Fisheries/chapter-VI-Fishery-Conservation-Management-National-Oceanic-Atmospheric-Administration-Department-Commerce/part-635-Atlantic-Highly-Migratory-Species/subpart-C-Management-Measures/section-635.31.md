@@ -1,5 +1,7 @@
 ##### § 635.31 Restrictions on sale and purchase. #####
 
+Link to an amendment published at 89 FR 47104, May 31, 2024.
+
 (a) *Atlantic tunas.* (1) A person that owns or operates a vessel from which an Atlantic tuna is landed or offloaded may sell such Atlantic tuna only if that vessel has a valid HMS Charter/Headboat permit with a commercial sale endorsement; a valid Atlantic Tunas General, Harpoon, Longline, or Trap category permit; or a valid HMS Commercial Caribbean Small Boat permit issued under this part, and the appropriate category has not been closed, as specified at § 635.28(a). However, no person may sell a BFT smaller than the large medium size class. Also, no large medium or giant BFT taken by a person aboard a vessel with an Atlantic HMS Charter/Headboat permit fishing in the Gulf of Mexico at any time, or fishing outside the Gulf of Mexico when the fishery under the General category has been closed, may be sold (see § 635.23(c)). A person may sell Atlantic BFT only to a dealer that has a valid permit for purchasing Atlantic BFT issued under this part. A person may not sell or purchase Atlantic tunas harvested with speargun fishing gear.
 
 (2) Dealers may purchase Atlantic tunas only from a vessel that has a valid commercial permit for Atlantic tunas issued under this part in the appropriate category and the appropriate category has not been closed, as specified at § 635.28(a).

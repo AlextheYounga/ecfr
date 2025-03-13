@@ -1,6 +1,6 @@
 ##### § 556.104 Information collection and proprietary information. #####
 
-Link to an amendment published at 89 FR 31590, Apr. 24, 2024.
+Link to an amendment published at 89 FR 31590, Apr. 24, 2024.Link to an amendment published at 89 FR 47081, May 31, 2024.
 
 (a) *Information collection.* (1) The Office of Management and Budget (OMB) approved the collection of information under 44 U.S.C. 3501-3521), and assigned OMB Control Number 1010-0006. The title of this collection of information is “Leasing of Sulfur or Oil and Gas in the Outer Continental Shelf (30 CFR part 550, part 556, and part 560).”
 

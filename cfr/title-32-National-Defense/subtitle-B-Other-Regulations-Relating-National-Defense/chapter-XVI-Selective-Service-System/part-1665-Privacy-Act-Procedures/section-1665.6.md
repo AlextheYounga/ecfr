@@ -1,7 +1,5 @@
 ##### § 1665.6 Schedule of fees. #####
 
-Link to an amendment published at 89 FR 35006, May 1, 2024.
-
 (a) *Prohibitions against charging fees.* Individuals will not be charged for:
 
 (1) The search and review of the record.
@@ -20,8 +18,8 @@ Link to an amendment published at 89 FR 35006, May 1, 2024.
 
 (2) Fees should be paid in full prior to issuance of requested copies. In the event the requester is in arrears for previous requests, copies will not be provided for any subsequent request until the arrears have been paid in full.
 
-(3) Remittance shall be in the form of cash, a personal check or bank draft drawn on a bank in the United States, or postal money order. Remittances shall be made payable to the order of the Selective Service System and mailed or delivered to the records manager, Selective Service System, Arlington, VA 22209-2425.
+(3) Remittance shall be in the form of cash, a personal check or bank draft drawn on a bank in the United States, or postal money order. Remittances shall be made payable to the order of the Selective Service System and mailed or delivered to the records manager, Selective Service System, 1501 Wilson Blvd., Suite 700, Arlington, VA 22209.
 
 (4) A receipt of fees paid will be given upon request.
 
-[47 FR 7224, Feb. 18, 1982; 69 FR 1525, Jan. 9, 2004]
+[47 FR 7224, Feb. 18, 1982; 69 FR 1525, Jan. 9, 2004, as amended at 89 FR 35006, May 1, 2024]

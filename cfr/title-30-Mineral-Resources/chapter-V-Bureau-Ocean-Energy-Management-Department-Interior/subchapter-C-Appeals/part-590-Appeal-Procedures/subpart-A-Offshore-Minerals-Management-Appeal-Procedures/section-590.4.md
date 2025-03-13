@@ -1,6 +1,6 @@
 ##### § 590.4 How do I file an appeal? #####
 
-Link to an amendment published at 89 FR 31598, Apr. 24, 2024.
+Link to an amendment published at 89 FR 31598, Apr. 24, 2024.Link to an amendment published at 89 FR 47081, May 31, 2024.
 
 For your appeal to be filed, BOEM must receive all of the following within 60 days after you receive the decision or order:
 

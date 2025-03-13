@@ -1,6 +1,6 @@
 ##### § 590.7 Do I have to comply with the decision or order while my appeal is pending? #####
 
-Link to an amendment published at 89 FR 31598, Apr. 24, 2024.
+Link to an amendment published at 89 FR 31598, Apr. 24, 2024.Link to an amendment published at 89 FR 47081, May 31, 2024.
 
 (a) The decision or order is effective during the 60-day period for filing an appeal under § 590.3 unless:
 

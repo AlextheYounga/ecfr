@@ -1,7 +1,5 @@
 ##### § 23.501 Swap confirmation. #####
 
-Link to an amendment published at 89 FR 35001, May 1, 2024.
-
 (a) *Confirmation.* Subject to the compliance schedule in paragraph (c) of this section:
 
 (1) Each swap dealer and major swap participant entering into a swap transaction with a counterparty that is a swap dealer or major swap participant shall execute a confirmation for the swap transaction as soon as technologically practicable, but in any event by the end of first business day following the day of execution.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 35001, May 1, 2024.
 
 (4) Swaps executed on a swap execution facility, designated contract market, or submitted for clearing by a derivatives clearing organization.
 
-(i) Any swap transaction executed on a swap execution facility or designated contract market shall be deemed to satisfy the requirements of this section, provided that the rules of the swap execution facility or designated contract market establish that confirmation of all terms of the transaction shall take place at the same time as execution.
+(i) Any swap transaction executed on or pursuant to the rules of a swap execution facility or designated contract market shall be deemed to satisfy the requirements of this section, provided that the rules of the swap execution facility or designated contract market establish that confirmation of all terms of the transaction shall take place as soon as technologically practicable after execution.
 
 (ii) Any swap transaction submitted for clearing by a derivatives clearing organization shall be deemed to satisfy the requirements of this section, provided that:
 
@@ -116,4 +114,4 @@ Link to an amendment published at 89 FR 35001, May 1, 2024.
 
 (v) “Other commodity swap” means any swap not included in the credit, equity, foreign exchange, or interest rate asset classes, including, without limitation, any swap for which the primary underlying item is a physical commodity or the price or any other aspect of a physical commodity.
 
-[77 FR 55960, Sept. 11, 2012]
+[77 FR 55960, Sept. 11, 2012, as amended at 89 FR 35001, May 1, 2024]

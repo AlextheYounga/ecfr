@@ -1,6 +1,6 @@
 ##### § 556.105 Acronyms and definitions. #####
 
-Link to an amendment published at 89 FR 31590, Apr. 24, 2024.
+Link to an amendment published at 89 FR 31590, Apr. 24, 2024.Link to an amendment published at 89 FR 47081, May 31, 2024.
 
 (a) Acronyms and terms used in this part have the following meanings:
 
