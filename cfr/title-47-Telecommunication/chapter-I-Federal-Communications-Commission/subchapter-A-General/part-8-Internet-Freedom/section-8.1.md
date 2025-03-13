@@ -1,12 +1,10 @@
 ##### § 8.1 Transparency. #####
 
-Link to an amendment published at 88 FR 52043, Aug. 7, 2023.
-
 (a) Any person providing broadband internet access service shall publicly disclose accurate information regarding the network management practices, performance characteristics, and commercial terms of its broadband internet access services sufficient to enable consumers to make informed choices regarding the purchase and use of such services and entrepreneurs and other small businesses to develop, market, and maintain internet offerings. Such disclosure shall be made via a publicly available, easily accessible website or through transmittal to the Commission.
 
-(1) Any person providing broadband internet access service shall create and display an accurate broadband consumer label for each stand-alone broadband internet access service it currently offers for purchase. The label must be prominently displayed, publicly available, and easily accessible to consumers, including consumers with disabilities, at the point of sale with the content and in the format prescribed by the Federal Communications Commission (Commission) in figure 1 to this paragraph (a)(1).
+(1) Any person providing broadband internet access service shall create and display an accurate broadband consumer label for each stand-alone broadband internet access service it currently offers for purchase. The label must be prominently displayed, publicly available, and easily accessible to consumers, including consumers with disabilities, at the point of sale with the content and in the format prescribed by the Commission in “[Fixed or Mobile] Broadband Consumer Disclosure,” in figure 1 to this paragraph.
 
-Figure 1 to Paragraph (a)(1)—[Fixed or Mobile] Broadband Consumer Disclosure Label![](/graphics/er16de22.036.gif)
+Figure 1 to Paragraph (a)(1)—[Fixed or Mobile] Broadband Consumer Disclosure Label![](/graphics/er07au23.715.gif)
 
 (2) Broadband internet access service providers shall display the label required under paragraph (a)(1) of this section at each point of sale. “Point of sale” is defined to mean a provider's website and any alternate sales channels through which the provider's broadband internet access service is sold, including a provider-owned retail location, third-party retail location, and over the phone. For labels displayed on provider websites, the label must be displayed in close proximity to the associated advertised service plan. “Point of sale” also means the time a consumer begins investigating and comparing broadband service offerings available to them at their location. “Point of sale” for purposes of the E-Rate and Rural Health Care programs is defined as the time a service provider submits its bid to a program participant. Providers participating in the E-Rate and Rural Health Care programs must provide their labels to program participants when they submit their bids to participants. Broadband internet access service providers that offer online account portals to their customers shall also make each customer's label easily accessible to the customer in such portals.
 
@@ -24,4 +22,4 @@ Figure 1 to Paragraph (a)(1)—[Fixed or Mobile] Broadband Consumer Disclosure L
 
 (c) A network management practice is reasonable if it is appropriate and tailored to achieving a legitimate network management purpose, taking into account the particular network architecture and technology of the broadband internet access service.
 
-[83 FR 7922, Feb. 22, 2018, as amended at 87 FR 76978, Dec. 16, 2022]
+[83 FR 7922, Feb. 22, 2018, as amended at 87 FR 76978, Dec. 16, 2022; 88 FR 52043, Aug. 7, 2023]
