@@ -1,5 +1,7 @@
 ##### § 54.505 Discounts. #####
 
+Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
+
 (a) *Discount mechanism.* Discounts for eligible schools and libraries shall be set as a percentage discount from the pre-discount price.
 
 (b) *Discount percentages.* Except as provided in paragraph (f), the discounts available to eligible schools and libraries shall range from 20 percent to 90 percent of the pre-discount price for all eligible services provided by eligible providers, as defined in this subpart. The discounts available to a particular school, library, or consortium of only such entities shall be determined by indicators of poverty and high cost.

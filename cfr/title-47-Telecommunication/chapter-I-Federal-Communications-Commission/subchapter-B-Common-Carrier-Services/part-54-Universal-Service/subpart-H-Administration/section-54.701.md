@@ -1,5 +1,7 @@
 ##### § 54.701 Administrator of universal service support mechanisms. #####
 
+Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
+
 (a) The Universal Service Administrative Company is appointed the permanent Administrator of the federal universal service support mechanisms, subject to a review after one year by the Federal Communications Commission to determine that the Administrator is administering the universal service support mechanisms in an efficient, effective, and competitively neutral manner.
 
 (b) The Administrator shall establish a nineteen (19) member Board of Directors, as set forth in § 54.703. The Administrator's Board of Directors shall establish three Committees of the Board of Directors, as set forth in § 54.705: (1) the Schools and Libraries Committee, which shall oversee the schools and libraries support mechanism; (2) the Rural Health Care Committee, which shall oversee the rural health care support mechanism; and (3) the High Cost and Low Income Committee, which shall oversee the high cost and low income support mechanism. The Board of Directors shall not modify substantially the power or authority of the Committees of the Board without prior approval from the Federal Communications Commission.

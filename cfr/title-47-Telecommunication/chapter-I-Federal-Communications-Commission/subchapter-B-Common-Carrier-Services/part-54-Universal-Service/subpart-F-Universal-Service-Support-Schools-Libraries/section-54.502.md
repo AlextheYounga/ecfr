@@ -1,6 +1,6 @@
 ##### § 54.502 Eligible services. #####
 
-Link to an amendment published at 84 FR 70036, Dec. 20, 2019.
+Link to an amendment published at 84 FR 70036, Dec. 20, 2019.Link to an amendment published at 88 FR 55409, Aug. 15, 2023.
 
 (a) *Supported services.* All supported services are listed in the Eligible Services List as updated annually in accordance with paragraph (d) of this section. The services in this subpart will be supported in addition to all reasonable charges that are incurred by taking such services, such as state and federal taxes. Charges for termination liability, penalty surcharges, and other charges not included in the cost of taking such service shall not be covered by the universal service support mechanisms. The supported services fall within the following general categories:
 

@@ -1,5 +1,7 @@
 ##### § 502.19 Primary management official. #####
 
+Link to an amendment published at 88 FR 55370, Aug. 15, 2023.
+
 *Primary management official means:*
 
 (a) The person having management responsibility for a management contract;

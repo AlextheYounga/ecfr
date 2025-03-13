@@ -1,5 +1,7 @@
 ##### § 54.501 Eligible recipients. #####
 
+Link to an amendment published at 88 FR 55409, Aug. 15, 2023.
+
 (a) *Schools.* (1) Only schools meeting the statutory definition of “elementary school” or “secondary school” as defined in § 54.500 of this subpart, and not excluded under paragraphs (a)(2) or (3) of this section shall be eligible for discounts on telecommunications and other supported services under this subpart.
 
 (2) Schools operating as for-profit businesses shall not be eligible for discounts under this subpart.

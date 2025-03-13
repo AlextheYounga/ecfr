@@ -1,5 +1,7 @@
 ##### § 54.703 The Administrator's Board of Directors. #####
 
+Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
+
 (a) The Administrator shall have a Board of Directors separate from the Board of Directors of the National Exchange Carrier Association. The National Exchange Carrier Association's Board of Directors shall be prohibited from participating in the functions of the Administrator.
 
 (b) *Board composition.* The independent subsidiary's Board of Directors shall consist of nineteen (19) directors:

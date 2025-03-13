@@ -1,5 +1,7 @@
 ##### § 556.4 Background investigations. #####
 
+Link to an amendment published at 88 FR 55371, Aug. 15, 2023.
+
 A tribe shall perform a background investigation for each primary management official and for each key employee of a gaming operation.
 
 (a) A tribe shall request from each primary management official and from each key employee all of the following information:

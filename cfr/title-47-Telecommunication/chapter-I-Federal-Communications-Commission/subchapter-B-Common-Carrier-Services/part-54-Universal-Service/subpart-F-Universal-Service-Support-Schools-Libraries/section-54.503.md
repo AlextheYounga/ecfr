@@ -1,5 +1,7 @@
 ##### § 54.503 Competitive bidding requirements. #####
 
+Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
+
 (a) All entities participating in the schools and libraries universal service support program must conduct a fair and open competitive bidding process, consistent with all requirements set forth in this subpart.
 
 Note to paragraph (a):

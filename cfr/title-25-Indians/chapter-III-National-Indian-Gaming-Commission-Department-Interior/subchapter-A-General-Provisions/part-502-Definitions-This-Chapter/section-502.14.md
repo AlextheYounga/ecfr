@@ -1,5 +1,7 @@
 ##### § 502.14 Key employee. #####
 
+Link to an amendment published at 88 FR 55370, Aug. 15, 2023.
+
 *Key employee* means:
 
 (a) A person who performs one or more of the following functions:
