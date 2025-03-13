@@ -162,7 +162,7 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (*2*) Target population changes that warrant modifications to care management approaches.
 
-(*3*) Changes in a SNP's plan benefit package between consecutive contract years that can considerably impact critical functions necessary to maintain member well-being and are related SNP operations.
+(*3*) Changes in a SNP's plan benefit package between consecutive contract years that can considerably impact critical functions necessary to maintain member well-being and are related to SNP operations.
 
 (*4*) Changes in level of authority or oversight for personnel conducting care coordination activities (for example, medical provider to non-medical provider, clinical vs. non-clinical personnel).
 
@@ -178,4 +178,4 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (G) When a deficiency is identified in the off-cycle MOC revision(s) submitted by a SNP, the SNP has one opportunity to submit a corrected off-cycle revision between June 1st and November 30th of each calendar year.
 
-[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021; 86 FR 29528, June 2, 2021; 87 FR 22427, Apr. 14, 2022; 87 FR 27894, May 9, 2022; 88 FR 22328, Apr. 12, 2023; 89 FR 30817, Apr. 23, 2024]
+[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021; 86 FR 29528, June 2, 2021; 87 FR 22427, Apr. 14, 2022; 87 FR 27894, May 9, 2022; 88 FR 22328, Apr. 12, 2023; 89 FR 30817, Apr. 23, 2024; 89 FR 79451, Sept. 30, 2024]

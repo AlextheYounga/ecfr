@@ -1,7 +1,5 @@
 ##### § 75.220 Procedures the Department uses under § 75.219(a). #####
 
-Link to an amendment published at 89 FR 70326, Aug. 29, 2024.
-
 If the special circumstances of § 75.219(a) appear to exist for an application, the Secretary uses the following procedures:
 
 (a) The Secretary assembles a board to review the application.
@@ -10,7 +8,7 @@ If the special circumstances of § 75.219(a) appear to exist for an application,
 
 (1) A program officer of the program under which the applicant wants a grant;
 
-(2) An employee from the Office of the Chief Financial Officer (OCFO) with responsibility for grant policy; and
+(2) An employee from the Office of Finance and Operations (OFO) with responsibility for grant policy; and
 
 (3) A Department employee who is not a program officer of the program but who is qualified to evaluate the application.
 
@@ -28,4 +26,4 @@ If the special circumstances of § 75.219(a) appear to exist for an application,
 
 (f) Even if the Secretary does not select the application for funding, the applicant may submit its application under the procedures in Subpart C of this part.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)[45 FR 22497, Apr. 3, 1980. Redesignated at 45 FR 77368, Nov. 21, 1980, as amended at 45 FR 86297, Dec. 30, 1980; 64 FR 50391, Sept. 16, 1999]
+[45 FR 22497, Apr. 3, 1980. Redesignated at 45 FR 77368, Nov. 21, 1980, as amended at 45 FR 86297, Dec. 30, 1980; 64 FR 50391, Sept. 16, 1999; 89 FR 70326, Aug. 29, 2024]

@@ -1,5 +1,7 @@
 ##### § 5001.2 Structure. #####
 
+Link to an amendment published at 89 FR 79704, Sept. 30, 2024.
+
 This part is divided into six subparts as described in paragraphs (a) through (f) of this section. The provisions are applicable to each guaranteed loan made under this part, except as may be otherwise indicated. This part also contains several appendices as identified in paragraph (g) of this section.
 
 (a) *Subpart A.* Subpart A contains provisions that are applicable to each guaranteed loan made under this part, except as may be otherwise indicated. Topics covered include definitions; exception authority; appeal and review rights; general lender responsibilities; special initiatives; approvals, regulations, and forms; and standards for financial information.

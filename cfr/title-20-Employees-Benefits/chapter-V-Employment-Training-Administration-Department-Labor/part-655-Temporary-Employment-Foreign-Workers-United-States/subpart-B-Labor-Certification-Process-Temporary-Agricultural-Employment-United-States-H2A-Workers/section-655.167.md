@@ -38,4 +38,4 @@
 
 (d) *Additional retention requirement for agricultural associations filing an Application for Temporary Employment Certification.* In addition to the documents specified in paragraph (c) of this section, associations must retain documentation substantiating their status as an employer or agent, as specified in § 655.131.
 
-[87 FR 61791, Oct. 12, 2022, as amended at 89 FR 34063, Apr. 29, 2024] Post-Certification
+[87 FR 61791, Oct. 12, 2022, as amended at 89 FR 34063, Apr. 29, 2024]Post-Certification

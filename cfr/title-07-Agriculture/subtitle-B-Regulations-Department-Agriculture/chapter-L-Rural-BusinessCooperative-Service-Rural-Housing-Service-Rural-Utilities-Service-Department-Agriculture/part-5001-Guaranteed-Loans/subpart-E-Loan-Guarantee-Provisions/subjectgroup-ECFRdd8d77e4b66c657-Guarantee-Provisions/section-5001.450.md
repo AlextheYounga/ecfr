@@ -1,5 +1,7 @@
 ##### § 5001.450 General. #####
 
+Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
+
 (a) *Full faith and credit.* A loan note guarantee issued under this part constitutes an obligation supported by the full faith and credit of the United States and is incontestable except for fraud or misrepresentation of which a lender or holder has actual knowledge at the time it becomes such lender or holder, or which a lender or holder participates in or condones.
 
 (b) *Conditions of guarantee.* A guaranteed loan under this part will be evidenced by a loan note guarantee issued by the Agency.

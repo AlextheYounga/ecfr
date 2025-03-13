@@ -1,5 +1,7 @@
 ##### § 5001.307 Specific application requirements for REAP projects. #####
 
+Link to an amendment published at 89 FR 79721, Sept. 30, 2024.
+
 In addition to the requirements specified in § 5001.303, a lender seeking a loan guarantee for a REAP project must submit the information identified below based on total project costs.
 
 (a) *Borrower eligibility information.* (1) Eligible borrowers must meet the definition of agricultural producer or rural small business as defined in § 5001.3. Agricultural producers seeking funding for a RES or EEI project may apply as either a rural small business or as an agricultural producer, provided they meet the applicable eligibility requirements. Agricultural producers seeking funding for an EEE project must be eligible and apply as an Agricultural Producer.

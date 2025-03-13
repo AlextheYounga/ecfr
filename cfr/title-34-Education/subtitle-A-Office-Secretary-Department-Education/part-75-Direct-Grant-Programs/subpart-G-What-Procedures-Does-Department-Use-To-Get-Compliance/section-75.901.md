@@ -1,8 +1,6 @@
 ##### § 75.901 Suspension and termination. #####
 
-Link to an amendment published at 89 FR 70334, Aug. 29, 2024.
-
-The Secretary may use the Office of Administrative Law Judges to resolve disputes that are not subject to other procedures. See, for cross-reference, the following:
+The Secretary may use the Office of Administrative Law Judges to resolve disputes. See, for cross-reference, the following:
 
 (a) 2 CFR 200.338 (Remedies for noncompliance).
 
@@ -16,4 +14,4 @@ The Secretary may use the Office of Administrative Law Judges to resolve dispute
 
 (f) 2 CFR 200.344 (Post-closeout adjustments and continuing responsibilities).
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)[79 FR 76093, Dec. 19, 2014]
+[79 FR 76093, Dec. 19, 2014, as amended at 89 FR 70334, Aug. 29, 2024]

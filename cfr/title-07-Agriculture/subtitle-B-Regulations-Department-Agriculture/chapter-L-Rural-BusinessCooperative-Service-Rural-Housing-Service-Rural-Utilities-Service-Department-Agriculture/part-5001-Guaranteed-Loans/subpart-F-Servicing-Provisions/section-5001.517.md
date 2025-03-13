@@ -1,5 +1,7 @@
 ##### § 5001.517 Liquidation. #####
 
+Link to an amendment published at 89 FR 79728, Sept. 30, 2024.
+
 In the event of one or more incidents of default or third-party actions that the borrower cannot or will not cure or eliminate within a reasonable period of time, the lender, with Agency consent, must provide for liquidation in accordance with paragraphs (a) through (n) of this section. The lender is responsible for initiating actions immediately and as necessary to assure a prompt, orderly liquidation that will provide maximum recovery. The Agency reserves the right to unilaterally conclude that liquidation is necessary and require the lender to assign the collateral to the Agency and the Agency will then liquidate the loan per paragraph (o) of this section.
 
 (a) *Decision to liquidate.* A decision to liquidate a loan or proceed otherwise must be made when the lender determines that the default cannot be cured or when the Agency and the lender determine that it is in the best interest of the Agency and the lender to liquidate. The decision to liquidate or proceed otherwise with the borrower must be made as soon as possible when one or more of the following exist:

@@ -1,5 +1,7 @@
 ##### § 5001.130 Lender eligibility requirements. #####
 
+Link to an amendment published at 89 FR 79715, Sept. 30, 2024.
+
 To become a lender under this part, the lending entity must meet the requirements specified in paragraphs (a) through (d) of this section, as applicable, and become an approved participant in the Agency's electronic system. Paragraph (e) of this section contains provisions associated with lenders that have already been approved by the Agency under one of the guaranteed loan programs identified in § 5001.1of this part. If not yet an Agency-approved lender, the lending entity must include with the application a request for lender approval in accordance with this section.
 
 (a) *General.* The lending entity must:

@@ -24,7 +24,7 @@
 
 (1) The date by which PDE or DIR data must be accepted by CMS to be included in the reopening, which is at least 90 calendar days after the date of the notification.
 
-(2) A statement indicating the Part D contracts or types of contracts that is included in the reopening.
+(2) A statement indicating the Part D contracts or types of contracts that are included in the reopening.
 
 (f) CMS announces when it has completed a reopening and provide the sponsor(s) with all of the following information:
 
@@ -42,4 +42,4 @@
 
 (2) For a target reopening, CMS includes only Part D sponsor contracts that meet the criteria for inclusion in a global reopening as specified in paragraph (1) of this section and that CMS specifies for inclusion in the reopening as provided in paragraph (e)(2) or (f)(2) of this section.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 80 FR 7964, Feb. 12, 2015; 89 FR 30837, Apr. 23, 2024]
+[70 FR 4525, Jan. 28, 2005, as amended at 80 FR 7964, Feb. 12, 2015; 89 FR 30837, Apr. 23, 2024; 89 FR 79452, Sept. 30, 2024]

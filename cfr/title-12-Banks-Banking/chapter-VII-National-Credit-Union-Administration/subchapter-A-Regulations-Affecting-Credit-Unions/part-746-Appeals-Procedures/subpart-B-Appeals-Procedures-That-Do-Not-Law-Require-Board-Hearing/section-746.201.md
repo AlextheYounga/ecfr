@@ -1,5 +1,7 @@
 ##### § 746.201 Authority, purpose, and scope. #####
 
+Link to an amendment published at 89 FR 79393, Sept. 30, 2024.
+
 (a) *Authority.* This subpart is issued pursuant to sections 120, 207, and 209 of the Federal Credit Union Act (12 U.S.C. 1766, 1787, and 1789).
 
 (b) *Purpose.* This subpart provides generally uniform procedures by which petitioners may appeal initial agency determinations to the NCUA Board under this part.

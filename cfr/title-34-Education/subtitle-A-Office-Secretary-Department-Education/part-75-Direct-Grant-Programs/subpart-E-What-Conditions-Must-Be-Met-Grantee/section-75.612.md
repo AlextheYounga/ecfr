@@ -1,7 +1,11 @@
-##### § 75.612 Supervision and inspection by the grantee. #####
+##### § 75.612 Avoidance of flood hazards. #####
 
-Link to an amendment published at 89 FR 70332, Aug. 29, 2024.
+In planning the construction or real property project, a grantee must, consistent with Executive Order (E.O.) 11988 of May 24, 1977, E.O. 13690 of January 30, 2015, and E.O. 14030 of May 20, 2021—
 
-A grantee shall maintain competent architectural engineering supervision and inspection at the construction site to insure that the work conforms to the approved drawings and specifications.
+(a) Evaluate flood hazards in connection with the construction;
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+(b) As far as practicable, avoid uneconomic, hazardous, or unnecessary use of flood plains in connection with the construction;
+
+(c) Mitigate flood hazards through design such as elevating systems and first floor elevations above flood level plus freeboard; and
+
+(d) Summarize remaining flood risks in a memorandum. CITA\>[89 FR 70332, Aug. 29, 2024]

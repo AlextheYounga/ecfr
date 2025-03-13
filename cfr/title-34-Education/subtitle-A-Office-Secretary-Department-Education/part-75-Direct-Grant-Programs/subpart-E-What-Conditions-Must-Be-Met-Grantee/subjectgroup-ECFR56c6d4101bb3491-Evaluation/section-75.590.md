@@ -1,7 +1,5 @@
 ##### § 75.590 Evaluation by the grantee. #####
 
-Link to an amendment published at 89 FR 70331, Aug. 29, 2024.
-
 (a) If the application notice for a competition required applicants to describe how they would evaluate their projects, each grantee under that competition must demonstrate to the Department that—
 
 (1) The evaluation meets the standards of the evaluation in the approved application for the project; and
@@ -16,4 +14,16 @@ Link to an amendment published at 89 FR 70331, Aug. 29, 2024.
 
 (3) The effect of the project on the participants served by the project, if any.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474.)[78 FR 49354, Aug. 13, 2013]
+(c) An application notice for a competition may require each grantee under that competition to do one or more of the following:
+
+(1) Conduct an independent evaluation;
+
+(2) Make public the final report, including results of any required independent evaluation;
+
+(3) Ensure that the data from the independent evaluation are made available to third-party researchers consistent with the requirements in 34 CFR part 97, Protection of Human Subjects, and other applicable laws;
+
+(4) Submit the final evaluation to the Education Resources Information Center (ERIC), which is administered by the Institute of Education Sciences; or
+
+(5) Submit the final performance report under the grant to ERIC.
+
+[78 FR 49354, Aug. 13, 2013, as amended at 89 FR 70331, Aug. 29, 2024]

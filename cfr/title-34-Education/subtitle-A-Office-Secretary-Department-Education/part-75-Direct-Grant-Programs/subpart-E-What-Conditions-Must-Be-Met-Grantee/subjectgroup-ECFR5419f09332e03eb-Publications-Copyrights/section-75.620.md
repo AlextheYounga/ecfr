@@ -1,11 +1,7 @@
 ##### § 75.620 General conditions on publication. #####
 
-Link to an amendment published at 89 FR 70333, Aug. 29, 2024.
-
 (a) *Content of materials.* Subject to any specific requirements that apply to its grant, a grantee may decide the format and content of project materials that it publishes or arranges to have published.
 
-(b) *Required statement.* The grantee shall ensure that any publication that contains project materials also contains the following statements:
+(b) *Required statement.* The grantee must ensure that any publication that contains project materials also contains the following statement: The contents of this [insert type of publication; such as book, report, film, website, and web page] were developed under a grant from the U.S. Department of Education (Department). The Department does not mandate or prescribe practices, models, or other activities described or discussed in this document. The contents of this [insert type of publication] may contain examples of, adaptations of, and links to resources created and maintained by another public or private organization. The Department does not control or guarantee the accuracy, relevance, timeliness, or completeness of this outside information. The content of this [insert type of publication] does not necessarily represent the policy of the Department. This publication is not intended to represent the views or policy of, or be an endorsement of any views expressed or materials provided by, any Federal agency.
 
-The contents of this (insert type of publication; e.g., book, report, film) were developed under a grant from the Department of Education. However, those contents do not necessarily represent the policy of the Department of Education, and you should not assume endorsement by the Federal Government.
-
-(Authority: 20 U.S.C. 1221e-3 and 3474)[45 FR 22497, Apr. 3, 1980. Redesignated at 45 FR 77368, Nov. 21, 1980, as amended at 45 FR 86297, Dec. 30, 1980]
+[89 FR 70333, Aug. 29, 2024]

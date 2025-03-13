@@ -1,0 +1,5 @@
+##### § 76.128 What is a consolidated grant? #####
+
+A consolidated grant is a grant to an Insular Area for any two or more State-administered formula grant programs. The amount of the consolidated grant is the sum of the allocations the Insular Area receives under each of the programs included in the consolidated grant if there had been no consolidation.
+
+Example 1 to § 76.128.Assume the Virgin Islands applies for a consolidated grant that includes funds under the Carl D. Perkins Career and Technical Education Act of 2006 and title I, part A; title II, part A; and title IV, part A of the Elementary and Secondary Education Act of 1965. If the Virgin Islands' allocation under the formula for each of these four programs is $150,000, the total consolidated grant to the Virgin Islands would be $600,000.[47 FR 17421, Apr. 22, 1982, as amended at 89 FR 70335, Aug. 29, 2024]

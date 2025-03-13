@@ -1,5 +1,7 @@
 ##### § 5001.104 Eligible WWD projects and requirements. #####
 
+Link to an amendment published at 89 FR 79710, Sept. 30, 2024.
+
 For a WWD project to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102 and this section and be for a borrower eligible to submit an application for the project in accordance with § 5001.120.
 
 (a) *Type of project.* The project must be for one or more of the following:

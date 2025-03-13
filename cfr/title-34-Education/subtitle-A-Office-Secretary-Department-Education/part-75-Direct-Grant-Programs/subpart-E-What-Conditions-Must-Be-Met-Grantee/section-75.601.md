@@ -1,7 +1,11 @@
-##### § 75.601 Applicant's assessment of environmental impact. #####
+##### § 75.601 Approval of the construction. #####
 
-Link to an amendment published at 89 FR 70331, Aug. 29, 2024.
+(a) The Secretary approves a direct grantee construction project—
 
-An applicant shall include with its application its assessment of the impact of the proposed construction on the quality of the environment in accordance with section 102(2)(C) of the National Environmental Policy Act of 1969 and Executive Order 11514 (34 FR 4247).
+(1) When the initial grant application is approved; or
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+(2) After the grant has been awarded.
+
+(b) A grantee may not advertise or place the construction project on the market for bidding until after the Secretary has approved the project.
+
+[89 FR 70331, Aug. 29, 2024]

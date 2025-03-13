@@ -1,7 +1,5 @@
 ##### § 416.1121 Types of unearned income. #####
 
-Link to an amendment published at 89 FR 21209, Mar. 27, 2024.
-
 Some types of unearned income are—
 
 (a) *Annuities, pensions, and other periodic payments.* This unearned income is usually related to prior work or service. It includes, for example, private pensions, social security benefits, disability benefits, veterans benefits, worker's compensation, railroad retirement annuities and unemployment insurance benefits.
@@ -20,6 +18,6 @@ Example:If you receive $2,000 from your uncle's life insurance policy and you sp
 
 (g) *Gifts and inheritances.* A gift is something you receive which is not repayment to you for goods or services you provided and which is not given to you because of a legal obligation on the giver's part. An inheritance is something that comes to you as a result of someone's death. It can be in cash or in kind, including any right in real or personal property. Gifts and inheritances occasioned by the death of another person, to the extent that they are used to pay the expenses of the deceased's last illness and burial, as defined in paragraph (e) of this section, are not considered income.
 
-(h) *Support and maintenance in kind.* This is food, or shelter furnished to you. Our rules for valuing this income depend on your living arrangement. We use one rule if you are living in the household of a person who provides you with both food and shelter. We use different rules for other situations where you receive food or shelter. We discuss all of the rules in §§ 416.1130 through 416.1147.
+(h) *Support and maintenance in-kind.* This is shelter furnished to you that we value depending on your living arrangement. (Food is not included in the calculations of in-kind support and maintenance.) We use one rule if you are living in another person's household, you receive shelter from others living in the household, and others within the household pay for or provide you with all of your meals. We use different rules for other situations in which you receive shelter. We discuss all of the rules in §§ 416.1130 through 416.1148.
 
-[45 FR 65547, Oct. 3, 1980, as amended at 56 FR 36000, July 30, 1991; 59 FR 43471, Aug. 24, 1994; 70 FR 6345, Feb. 7, 2005]
+[45 FR 65547, Oct. 3, 1980, as amended at 56 FR 36000, July 30, 1991; 59 FR 43471, Aug. 24, 1994; 70 FR 6345, Feb. 7, 2005; 89 FR 21209, Mar. 27, 2024]

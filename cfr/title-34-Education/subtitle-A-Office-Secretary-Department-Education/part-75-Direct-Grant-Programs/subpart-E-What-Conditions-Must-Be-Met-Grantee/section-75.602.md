@@ -1,25 +1,43 @@
-##### § 75.602 Preservation of historic sites must be described in the application. #####
+##### § 75.602 Planning the construction. #####
 
-Link to an amendment published at 89 FR 70331, Aug. 29, 2024.
+(a) In planning the construction project, a grantee—
 
-(a) An applicant shall describe in its application the relationship of the proposed construction to and probable effect on any district, site, building, structure, or object that is:
+(1) Must ensure that the design is functional, economical, and not elaborate in design or extravagant in the use of materials compared with facilities of a similar type constructed in the State or other applicable geographic area;
 
-(1) Included in the National Register of Historic Places; or
+(2) May consider excellence of architecture and design and inclusion of works of art. A grantee must not spend more than 1 percent of the cost of the project on works of art; and
 
-(2) Eligible under criteria established by the Secretary of Interior for inclusion in the National Register of Historic Places.
+(3) May make reasonable provision, consistent with the other uses to be made of the construction, for areas that are adaptable for artistic and other cultural activities.
 
-Cross Reference:
+(b) In developing the proposed budget for the construction project, a grantee—
 
-See 36 CFR part 60 for these criteria.
+(1) Must ensure that sufficient funds are available to meet any non-Federal share of the cost of the construction project;
 
-(b) In deciding whether to make a grant, the Secretary considers:
+(2) May include sufficient funds for commissioning of energy, HVAC, and water systems and to train personnel in the proper operation of such building systems;
 
-(1) The information provided by the applicant under paragraph (a) of this section; and
+(3) For new construction and major rehabilitation projects, may consider life-cycle cost analysis for major design decisions to the extent possible;
 
-(2) Any comments by the Advisory Council on Historic Preservation.
+(4) May budget for reasonable and predictable contingency costs consistent with 2 CFR 200.433; and
 
-Cross Reference:
+(5) May budget for school and community education about the construction project including its energy, environmental, and health features and benefits.
 
-See 36 CFR part 800, which provides for comments from the Council.
+(c) Prior to approving a construction project under § 75.601, the Secretary considers a grantee's compliance with the following requirements, as applicable:
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+(1) Title to site (§ 75.610).
+
+(2) Environmental impact assessment (§ 75.611).
+
+(3) Avoidance of flood hazards (§ 75.612).
+
+(4) Compliance with the Coastal Barrier Resources Act (§ 75.613).
+
+(5) Preservation of historic sites (§ 75.614).
+
+(6) Build America, Buy America Act (§ 75.615).
+
+(7) Energy conservation (§ 75.616).
+
+(8) Access for individuals with disabilities (§ 75.617).
+
+(9) Safety and health standards (§ 75.618).
+
+[89 FR 70331, Aug. 29, 2024]

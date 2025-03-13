@@ -1,6 +1,6 @@
-##### § 423.153 Drug utilization management, quality assurance, medication therapy management programs (MTMPs), drug management programs, and access to Medicare Parts A and B claims data extracts. #####
+##### § 423.153 Drug utilization management, quality assurance, medication therapy management (MTM) programs, drug management programs, and access to Medicare Parts A and B claims data extracts. #####
 
-(a) *General rule.* Each Part D sponsor must have established, for covered Part D drugs furnished through a Part D plan, a drug utilization management program, quality assurance measures and systems, and an MTMP as described in paragraphs (b), (c), and (d) of this section. No later than January 1, 2022, a Part D plan sponsor must have established a drug management program for at-risk beneficiaries enrolled in their prescription drug benefit plans to address overutilization of frequently abused drugs, as described in paragraph (f) of this section.
+(a) *General rule.* Each Part D sponsor must have established, for covered Part D drugs furnished through a Part D plan, a drug utilization management program, quality assurance measures and systems, and an MTM program as described in paragraphs (b), (c), and (d) of this section. No later than January 1, 2022, a Part D plan sponsor must have established a drug management program for at-risk beneficiaries enrolled in their prescription drug benefit plans to address overutilization of frequently abused drugs, as described in paragraph (f) of this section.
 
 (b) *Drug utilization management.* A Part D sponsor must have established a reasonable and appropriate drug utilization management program that address all of the following:
 
@@ -46,7 +46,7 @@
 
 (5) Provision of information to CMS regarding its quality assurance measures and systems, according to guidelines specified by CMS.
 
-(d)(1) *General rule.* A Part D sponsor must have established a MTM program that—
+(d) *Medication therapy management (MTM) program*—(1) *General rule.* A Part D sponsor must have established a MTM program that—
 
 (i) Is designed to ensure that covered Part D drugs prescribed to targeted beneficiaries described in paragraph (d)(2) of this section are appropriately used to optimize therapeutic outcomes through improved medication use;
 
@@ -58,9 +58,9 @@
 
 (v) Must enroll targeted beneficiaries using an opt-out method of enrollment only.
 
-(vi) Must target beneficiaries for enrollment in the MTMP at least quarterly during each plan year.
+(vi) Must target beneficiaries for enrollment in the MTM program at least quarterly during each plan year.
 
-(vii) Must offer a minimum level of medication therapy management services for each beneficiary enrolled in the MTMP that includes all of the following:
+(vii) Must offer a minimum level of medication therapy management services for each beneficiary enrolled in the MTM program that includes all of the following:
 
 (A) Interventions for both beneficiaries and prescribers.
 
@@ -130,7 +130,7 @@
 
 (ii) Disclose to CMS upon request the amount of the management and dispensing fees and the portion paid for MTM services to pharmacists and others upon request. Reports of these amounts are protected under the provisions of section 1927(b)(3)(D) of the Act.
 
-(6) *MTM program reporting.* A Part D sponsor must provide CMS with information regarding the procedures and performance of its MTMP, according to guidelines specified by CMS.
+(6) *MTM program reporting.* A Part D sponsor must provide CMS with information regarding the procedures and performance of its MTM program, according to guidelines specified by CMS.
 
 (e) *Exception for private fee-for-service MA plans offering qualified prescription drug coverage.* In the case of an MA plan described in § 422.4(a)(3) of this chapter providing qualified prescription drug coverage, the requirements under paragraphs (b) and (d) of this section do not apply.
 
@@ -400,7 +400,7 @@
 
 (iv) Include a program size estimate.
 
-(g) *Prescription drug plan sponsors' access to Medicare Parts A and B claims data extracts.* (i) Beginning in plan year 2020, a PDP sponsor may submit a request to CMS for the data described in paragraph (g)(2) of this section about enrollees in its prescription drug plans.
+(g) *Prescription drug plan sponsors' access to Medicare Parts A and B claims data extracts.* (1)(i) Beginning in plan year 2020, a PDP sponsor may submit a request to CMS for the data described in paragraph (g)(2) of this section about enrollees in its prescription drug plans.
 
 (ii) CMS makes the data requested in paragraph (g)(1)(i) of this section available to eligible PDP sponsors, in accordance with all applicable laws. The data is provided at least quarterly on a specified release date, and in an electronic format to be determined by CMS.
 
@@ -436,4 +436,4 @@
 
 (5) *Ensuring the privacy and security of data.* As a condition of receiving the requested data, the PDP sponsor must attest that it will adhere to the permitted uses and limitations on the use of the Medicare claims data listed in paragraphs (g)(3) and (4) of this section.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21573, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019; 86 FR 6116, Jan. 19, 2021; 89 FR 30834, Apr. 23, 2024]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21573, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019; 86 FR 6116, Jan. 19, 2021; 89 FR 30834, Apr. 23, 2024; 89 FR 79452, Sept. 30, 2024]

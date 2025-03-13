@@ -1,5 +1,7 @@
 ##### § 5001.122 Ineligible uses of loan funds. #####
 
+Link to an amendment published at 89 FR 79713, Sept. 30, 2024.
+
 Projects that receive a loan guarantee under this part cannot use the guaranteed loan funds for those expenses or purposes identified in paragraphs (a) through (m) of this section and for any other item the Agency identifies in accordance with § 5001.10.
 
 (a) Payment in excess of actual costs (*e.g.,* profit, overhead, indirect costs, and wages to owners) incurred by the contractor or other service provider on a contract or agreement that has been entered into at less than an arm's length transaction or has a potential for a conflict of interest. In situations where there is common ownership or an otherwise closely-related company is being paid to do construction or installation work for a borrower, only documented costs associated with the construction or installation can be paid with guaranteed loan funds and cannot include any profit or wages to such related Person.

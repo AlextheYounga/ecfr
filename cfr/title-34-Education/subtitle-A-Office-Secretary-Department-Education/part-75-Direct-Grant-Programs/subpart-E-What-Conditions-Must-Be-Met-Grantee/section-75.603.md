@@ -1,7 +1,7 @@
-##### § 75.603 Grantee's title to site. #####
+##### § 75.603 Beginning the construction. #####
 
-Link to an amendment published at 89 FR 70332, Aug. 29, 2024.
+(a) A grantee must begin work on the construction project within a reasonable time after the Secretary has approved the project under § 75.601.
 
-A grantee must have or obtain a full title or other interest in the site, including right of access, that is sufficient to insure the grantee's undisturbed use and possession of the facilities for 50 years or the useful life of the facilities, whichever is longer.
+(b) A grantee must follow all applicable procurement standards in 2 CFR part 200, subpart D, when advertising or placing the project on the market for bidding.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+[89 FR 70331, Aug. 29, 2024]

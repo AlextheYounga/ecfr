@@ -1,13 +1,7 @@
 ##### § 79.2 What definitions apply to these regulations? #####
 
-Link to an amendment published at 89 FR 70343, Aug. 29, 2024.
-
-*Department* means the U.S. Department of Education.
-
 *Order* means Executive Order 12372, issued July 14, 1982, amended April 8, 1983, and titled “Intergovernmental Review of Federal Programs.”
 
-*Secretary* means the Secretary of the U.S. Department of Education or an official or employee of the Department acting for the Secretary under a delegation of authority.
+*State* means any of the 50 States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the U.S. Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-*State* means any of the 50 states, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, the U.S. Virgin Islands, or the Trust Territory of the Pacific Islands.
-
-(Authority: E.O. 12372)
+[48 FR 29166, June 24, 1983, as amended at 89 FR 70343, Aug. 29, 2024]

@@ -1,5 +1,7 @@
 ##### § 5001.507 Lender transfer. #####
 
+Link to an amendment published at 89 FR 79727, Sept. 30, 2024.
+
 (a) After the issuance of a loan note guarantee, a lender may sell or transfer the entire loan to a new lender with prior written approval of the Agency. The Agency may approve the sale or transfer to a new lender if the following conditions are met. The new lender:
 
 (1) Is an eligible lender in accordance with § 5001.130 of this part and is approved as such;

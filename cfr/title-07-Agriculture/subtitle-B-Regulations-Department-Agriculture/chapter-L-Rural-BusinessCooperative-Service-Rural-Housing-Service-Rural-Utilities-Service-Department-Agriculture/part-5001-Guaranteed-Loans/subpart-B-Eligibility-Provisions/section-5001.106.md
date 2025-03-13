@@ -1,5 +1,7 @@
 ##### § 5001.106 Eligible REAP—Renewable Energy System (RES) projects and requirements. #####
 
+Link to an amendment published at 89 FR 79711, Sept. 30, 2024.
+
 For a REAP RES Project to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102(a) through (c) and in paragraphs (a) through (e) of this section and be for a borrower eligible to submit an application for the project in accordance with § 5001.126. If taxable bonds are utilized as debt instruments the provisions of § 5001.105(b)(19) must be met.
 
 (a) The project must be for—

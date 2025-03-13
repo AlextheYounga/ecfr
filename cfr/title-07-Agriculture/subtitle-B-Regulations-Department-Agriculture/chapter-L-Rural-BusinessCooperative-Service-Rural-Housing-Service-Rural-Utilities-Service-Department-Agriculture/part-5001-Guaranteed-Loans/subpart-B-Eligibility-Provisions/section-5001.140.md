@@ -1,5 +1,7 @@
 ##### § 5001.140 Cooperative stock/cooperative equity. #####
 
+Link to an amendment published at 89 FR 79716, Sept. 30, 2024.
+
 Loan guarantees described in paragraphs (a) through (d) of this section are only available under B&I guaranteed loans.
 
 (a) *Cooperative stock purchase program.* The Agency may guarantee loans for the purchase of cooperative stock by individual farmers or ranchers in a farmer or rancher cooperative established for the purpose of processing an agricultural commodity. The cooperative may contract for services to process agricultural commodities or otherwise process value-added agricultural products during the five-year period beginning on the operation startup date of the cooperative in order to provide adequate time for the planning and construction of the processing facility of the cooperative.

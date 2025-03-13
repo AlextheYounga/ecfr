@@ -1,5 +1,7 @@
 ##### § 741.3 Criteria. #####
 
+Link to an amendment published at 89 FR 79393, Sept. 30, 2024.
+
 In determining the insurability of a credit union which makes application for insurance and in continuing the insurability of its accounts pursuant to title II of the Act, the following criteria shall be applied:
 
 (a) *Reserves*—(1) *General rule.* State-chartered credit unions are subject to section 216 of the Act, 12 U.S.C. 1790d, and to part 702 and subpart L of part 747 of this chapter.

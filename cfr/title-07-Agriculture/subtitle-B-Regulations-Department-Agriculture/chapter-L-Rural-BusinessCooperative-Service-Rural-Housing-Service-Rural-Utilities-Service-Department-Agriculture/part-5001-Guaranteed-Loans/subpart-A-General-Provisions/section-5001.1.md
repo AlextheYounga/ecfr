@@ -1,5 +1,7 @@
 ##### § 5001.1 General. #####
 
+Link to an amendment published at 89 FR 79704, Sept. 30, 2024.
+
 (a) This part contains the regulations for Community Facilities, Water and Waste Disposal, Business and Industry, and Rural Energy for America Program loans guaranteed by the Agency and applies to lenders, holders, borrowers, and other parties involved in making, guaranteeing, holding, servicing, and liquidating such loans. The loan guarantee programs covered by this regulation are more fully described as:
 
 (1) Community Programs Guaranteed Loans (5 U.S.C. 301 and 7 U.S.C. 1989) as authorized by Section 306(a)(1) of the Consolidated Farm and Rural Development Act, 7 U.S.C. 1926(a)(1), as administered by the Rural Housing Service (RHS), herein after referred to as CF.

@@ -1,5 +1,7 @@
 ##### § 5001.315 Application evaluation and award provisions. #####
 
+Link to an amendment published at 89 FR 79721, Sept. 30, 2024.
+
 (a) *General.* The Agency will evaluate all Applications according to the provisions of this part and may require the lender to obtain additional assistance in those areas where the lender does not have the necessary expertise to originate or service the guaranteed loan. For the purposes of this paragraph (a), “those areas” mean:
 
 (1) The type and complexity of the financing (*e.g.,* asset-based financing, cash flow financing, and bond financing); and

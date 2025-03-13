@@ -1,5 +1,7 @@
 ##### § 5001.207 Environmental responsibilities. #####
 
+Link to an amendment published at 89 FR 79720, Sept. 30, 2024.
+
 Actions taken under this part must comply with 7 CFR part 1970. The Agency is responsible for ensuring that the requirements of the National Environmental Policy Act of 1969 (under 40 CFR part 1500) and related compliance actions, such as Section 106 of the National Historic Preservation Act (under 36 CFR part 800) and section 7 of the Endangered Species Act, are met. The Agency will complete the appropriate level of environmental review in accordance with 7 CFR part 1970, “Environmental Policies and Procedures.”
 
 (a) *Borrower and lender responsibilities.* Both the borrower and lender must take into consideration the potential environmental impacts of the project at the earliest planning stages. The Agency recommends that the lender contact the Agency to determine environmental requirements as soon as practicable after deciding to apply for a guarantee under this part.

@@ -1,11 +1,11 @@
-##### § 75.611 Avoidance of flood hazards. #####
+##### § 75.611 Environmental impact assessment. #####
 
-Link to an amendment published at 89 FR 70332, Aug. 29, 2024.
+(a) When a grantee's construction or real property acquisition project is considered a “Major Federal Action,” as defined in 40 CFR 1508.1(q), the grantee must include an assessment of the impact of the proposed construction on the quality of the environment in accordance with section 102(2)(C) of the National Environmental Policy Act of 1969 (NEPA) (42 U.S.C. 4332(2)(C)) and Executive Order 11514 (35 FR 4247).
 
-In planning the construction, a grantee shall, in accordance with the provisions of Executive Order 11988 of February 10, 1978 (43 FR 6030) and rules and regulations that may be issued by the Secretary to carry out those provisions:
+(b) If a grantee's construction or real property project is not considered a “Major Federal Action” under NEPA, a NEPA environmental impact assessment is not required; however—
 
-(a) Evaluate flood hazards in connection with the construction; and
+(1) An environmental impact assessment may be required under State or local requirements; and
 
-(b) As far as practicable, avoid uneconomic, hazardous, or unnecessary use of flood plains in connection with the construction.
+(2) Grantees are encouraged to perform some type of environmental assessment for projects that involve breaking ground, such as projects to expand the size of an existing building or replace an outdated building.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+[89 FR 70332, Aug. 29, 2024]

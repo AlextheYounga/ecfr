@@ -8,4 +8,4 @@ In addition to meeting other requirements, a person must file an application to 
 
 (c) Provide the right to appeal if the person is dissatisfied with the decision (see part 260 of this chapter).
 
-(Approved by the Office of Management and Budget under control numbers 3220-0030, 3220-0031 and 3220-0042) [47 FR 7647, Feb. 22, 1982, as amended at 52 FR 11017, Apr. 6, 1987]
+(Approved by the Office of Management and Budget under control numbers 3220-0030, 3220-0031 and 3220-0042)[47 FR 7647, Feb. 22, 1982, as amended at 52 FR 11017, Apr. 6, 1987]

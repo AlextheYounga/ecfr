@@ -1,5 +1,7 @@
 ##### § 5001.116 Ineligible CF projects. #####
 
+Link to an amendment published at 89 FR 79712, Sept. 30, 2024.
+
 The following are ineligible projects for the CF program only:
 
 (a) For industrial park sites, the financing of on-site utility systems or business and industrial buildings.

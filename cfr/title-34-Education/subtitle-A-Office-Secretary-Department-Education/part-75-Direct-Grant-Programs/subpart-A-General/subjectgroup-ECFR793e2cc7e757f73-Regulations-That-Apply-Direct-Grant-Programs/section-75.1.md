@@ -1,13 +1,19 @@
 ##### § 75.1 Programs to which part 75 applies. #####
 
-Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+(a) *General.* (1) The regulations in this part apply to each direct grant program of the Department of Education, except as specified in these regulations for direct formula grant programs, as referenced in paragraph (c)(3) of this section.
 
-(a) The regulations in part 75 apply to each direct grant program of the Department of Education.
+(2) The Department administers two kinds of direct grant programs. A direct grant program is either a discretionary grant program or a formula grant program other than a State-administered formula grant program covered by 34 CFR part 76.
 
-(b) If a direct grant program does not have implementing regulations, the Secretary implements the program under the authorizing statute and, to the extent consistent with the authorizing statute, under the General Education Provisions Act and the regulations in this part. For the purposes of this part, the term “direct grant program” includes any grant program of the Department other than a program whose authorizing statute or implementing regulations provide a formula for allocating program funds among eligible States. With respect to Public Law 81-874 (the Impact Aid Program), the term “direct grant program” includes only the entitlement increase for children with disabilities under section 3(d)(2)(C) of Public Law 81-874 (20 U.S.C. 238(d)(2)(C) and disaster assistance under section 7 of that law (20 U.S.C. 241-1).
+(3) If a direct grant program does not have implementing regulations, the Secretary implements the program under the applicable statutes and regulations and, to the extent consistent with the applicable statutes and regulations, under the General Education Provisions Act and the regulations in this part. With respect to the Impact Aid Program (Title VII of the Elementary and Secondary Education Act of 1965), see 34 CFR 222.19 for the limited applicable regulations in this part.
 
-Note:
+(b) *Discretionary grant programs.* A discretionary grant program is one that permits the Secretary to use discretionary judgment in selecting applications for funding.
 
-See part 76 for the general regulations that apply to programs that allocate funds among eligible States. For a description of the two kinds of direct grant programs see § 75.200. Paragraph (b) of that section describes discretionary grant programs. Paragraph (c) of that section describes formula grant programs. Also see §§ 75.201, 75.209, and 75.210 for the selection criteria for discretionary grant programs that do not have implementing regulations or whose implementing regulations do not include selection criteria.
+(c) *Formula grant programs.* (1) A formula grant program is one that entitles certain applicants to receive grants if they meet the requirements of the program. Applicants do not compete with each other for the funds, and each grant is either for a set amount or for an amount determined under a formula.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)[45 FR 22497, Apr. 3, 1980, as amended at 45 FR 28669, Apr. 29, 1980. Redesignated at 45 FR 77368, Nov. 21, 1980, as amended at 45 FR 84059, Dec. 22, 1980, 50 FR 29330, July 18, 1985; 52 FR 27803, July 24, 1987; 57 FR 30336, July 8, 1992; 60 FR 63873, Dec. 12, 1995]
+(2) The Secretary applies the applicable statutes and regulations to fund projects under a formula grant program.
+
+(3) For specific regulations in this part that apply to the selection procedures and grant-making processes for direct formula grant programs, see §§ 75.215 and 75.230.
+
+*Note 1 to § 75.1:* See 34 CFR part 76 for the general regulations that apply to programs that allocate funds by formula among eligible States.
+
+[89 FR 70320, Aug. 29, 2024]

@@ -45,16 +45,15 @@ Systems of records maintained by the Department are authorized to be exempt from
 |                     Office of Inspector General Investigation Management System                     |STATE-53.|
 |                                 Overseas Citizens Services Records                                  |STATE-05.|
 |                                          Passport Records                                           |STATE-26.|
-|              Personality Cross Reference Index to the Secretariat Automated Data Index              |STATE-28.|
-|                       Personality Index to the Central Foreign Policy Records                       |STATE-29.|
+|              Personality Cross-Reference Index to the Secretariat Automated Data Index              |STATE-28.|
 |                                      Personnel Payroll Records                                      |STATE-30.|
 |                               Records of Domestic Accounts Receivable                               |STATE-23.|
 |Records of the Office of the Assistant Legal Adviser for International Claims and Investment Disputes|STATE-54.|
 |                            Records of the Office of White House Liaison                             |STATE-34.|
 |                                           Refugee Records                                           |STATE-59.|
+|                                Risk Analysis and Management Records                                 |STATE-78.|
 |                                            Rover Records                                            |STATE-41.|
 |                                          Security Records                                           |STATE-36.|
-|                 Special Presidential Envoy for Hostage Affairs and Related Records                  |STATE-60 |
 |                                            Visa Records                                             |STATE-39.|
 
 (2) *Exempt under 5 U.S.C. 552a(k)(2).* Records contained within the following systems of records are exempt under this section to the extent that they consist of investigatory material compiled for law enforcement purposes, subject to the limitations set forth in 5 U.S.C. 552a(k)(2).
@@ -74,11 +73,9 @@ Systems of records maintained by the Department are authorized to be exempt from
 |       Office of Inspector General Investigation Management System       |STATE-53.|
 |                   Overseas Citizens Services Records                    |STATE-05.|
 |                            Passport Records                             |STATE-26.|
-|Personality Cross Reference Index to the Secretariat Automated Data Index|STATE-28.|
-|         Personality Index to the Central Foreign Policy Records         |STATE-29.|
+|Personality Cross-Reference Index to the Secretariat Automated Data Index|STATE-28.|
 |                  Risk Analysis and Management Records                   |STATE-78.|
 |                            Security Records                             |STATE-36.|
-|   Special Presidential Envoy for Hostage Affairs and Related Records    |STATE-60 |
 |                              Visa Records                               |STATE-39.|
 
 (3) *Exempt under 5 U.S.C. 552a(k)(3).* Records contained within the following systems of records are exempt under this section to the extent that they are maintained in connection with providing protective services pursuant to 18 U.S.C. 3056.
@@ -91,7 +88,6 @@ Systems of records maintained by the Department are authorized to be exempt from
 |                   Overseas Citizens Services Records                    |STATE-05.|
 |                            Passport Records                             |STATE-26.|
 |Personality Cross-Reference Index to the Secretariat Automated Data Index|STATE-28.|
-|         Personality Index to the Central Foreign Policy Records         |STATE-29.|
 |                            Security Records                             |STATE-36.|
 |                              Visa Records                               |STATE-39.|
 
@@ -143,7 +139,6 @@ Systems of records maintained by the Department are authorized to be exempt from
 |                   Information Access Programs Records                   |STATE-35.|
 |                   Overseas Citizens Services Records                    |STATE-25.|
 |Personality Cross-Reference Index to the Secretariat Automated Data Index|STATE-28.|
-|         Personality Index to the Central Foreign Policy Records         |STATE-29.|
 |                            Security Records                             |STATE-36.|
 
-[88 FR 71740, Oct. 18, 2023, as amended at 88 FR 78232, Nov. 15, 2023]
+[88 FR 71740, Oct. 18, 2023, as amended at 88 FR 78232, Nov. 15, 2023; 89 FR 79435, Sept. 30, 2024]

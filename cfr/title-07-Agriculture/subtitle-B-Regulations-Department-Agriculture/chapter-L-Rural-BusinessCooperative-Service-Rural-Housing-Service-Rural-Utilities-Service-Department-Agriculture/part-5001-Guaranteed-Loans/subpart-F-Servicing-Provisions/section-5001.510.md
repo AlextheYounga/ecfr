@@ -1,5 +1,7 @@
 ##### § 5001.510 Subordination of lien position. #####
 
+Link to an amendment published at 89 FR 79727, Sept. 30, 2024.
+
 (a) *Request for subordination.* A lender seeking a subordination of its lien position in collateral must submit a written request to the Agency. The lender must include in the request a financial analysis of the servicing action. The financial analysis must be fully supported by current financial statements, less than 90 calendar days old, of the borrower and guarantors. The lender must receive written Agency approval prior to the subordination.
 
 (b) *Agency approval.* Agency approval of the subordination request requires that:

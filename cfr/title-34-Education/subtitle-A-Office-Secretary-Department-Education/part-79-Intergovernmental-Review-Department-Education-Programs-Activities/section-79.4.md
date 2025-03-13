@@ -1,23 +1,21 @@
 ##### § 79.4 What are the Secretary's general responsibilities under the Order? #####
 
-Link to an amendment published at 89 FR 70343, Aug. 29, 2024.Link to a correction published at 89 FR 79147, Sept. 27, 2024.
+(a) The Secretary provides opportunities for consultation by elected officials of those State and local governments that would provide the nonfederal funds for, or that would be directly affected by, proposed federal financial assistance from the Department.
 
-(a) The Secretary provides opportunities for consultation by elected officials of those state and local governments that would provide the nonfederal funds for, or that would be directly affected by, proposed federal financial assistance from the Department.
+(b) If a State adopts a process under the Order to review and coordinate proposed federal financial assistance, the Secretary, to the extent permitted by law:
 
-(b) If a state adopts a process under the Order to review and coordinate proposed federal financial assistance, the Secretary, to the extent permitted by law:
+(1) Uses the State process to determine official views of State and local elected officials;
 
-(1) Uses the state process to determine official views of state and local elected officials;
+(2) Communicates with State and local elected officials as early in a program planning cycle as is reasonably feasible to explain specific plans and actions;
 
-(2) Communicates with state and local elected officials as early in a program planning cycle as is reasonably feasible to explain specific plans and actions;
+(3) Makes efforts to accommodate State and local elected officials' concerns with proposed federal financial assistance that are communicated through the State process;
 
-(3) Makes efforts to accommodate state and local elected official's concerns with proposed federal financial assistance that are communicated through the state process;
+(4) Allows the States to simplify and consolidate existing federally required State plan submissions;
 
-(4) Allows the states to simplify and consolidate existing federally required state plan submissions;
+(5) Where State planning and budgeting systems are sufficient and where permitted by law, encourages the substitution of State plans for federally required State plans;
 
-(5) Where state planning and budgeting systems are sufficient and where permitted by law, encourages the substitution of state plans for federally required state plans;
+(6) Seeks the coordination of views of affected State and local elected officials in one State with those of another State when proposed federal financial assistance has an impact on interstate metropolitan urban centers or other interstate areas; and
 
-(6) Seeks the coordination of views of affected state and local elected officials in one state with those of another state when proposed federal financial assistance has an impact on interstate metropolitan urban centers or other interstate areas; and
+(7) Supports State and local governments by discouraging the reauthorization or creation of any planning organization which is federally funded, which has a limited purpose, and which is not adequately representative of, or accountable to, State or local elected officials.
 
-(7) Supports state and local governments by discouraging the reauthorization or creation of any planning organization which is federally funded, which has a limited purpose, and which is not adequately representative of, or accountable to, state or local elected officials.
-
-(Authority: E.O. 12372, Sec. 2)
+(Authority: E.O. 12372, Sec. 2) [48 FR 29166, June 24, 1983, as amended at 89 FR 70343, Aug. 29, 2024]

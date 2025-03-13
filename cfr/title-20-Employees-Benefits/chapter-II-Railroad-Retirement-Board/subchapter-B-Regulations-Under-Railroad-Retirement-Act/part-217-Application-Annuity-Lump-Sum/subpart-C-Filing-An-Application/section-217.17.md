@@ -28,4 +28,4 @@ An application may be signed according to the following rules:
 
 (3) An alternative signature or signature proxy acceptable to the Railroad Retirement Board. An example of an alternative signature is attestation, which refers to the action taken by a Railroad Retirement Board (RRB) employee of confirming and annotating RRB records of the applicant's intent to file or complete an application or related form, the applicant's affirmation under penalty of perjury that the information provided is correct, and the applicant's agreement to sign the application or related form.
 
-(Approved by the Office of Management and Budget under control numbers 3220-0002, 3220-0030, 3220-0031 and 3220-0042) [47 FR 7647, Feb. 22, 1982, as amended at 54 FR 13364, Apr. 3, 1989; 76 FR 60373, Sept. 29, 2011]
+(Approved by the Office of Management and Budget under control numbers 3220-0002, 3220-0030, 3220-0031 and 3220-0042)[47 FR 7647, Feb. 22, 1982, as amended at 54 FR 13364, Apr. 3, 1989; 76 FR 60373, Sept. 29, 2011]

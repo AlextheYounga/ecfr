@@ -1,5 +1,7 @@
 ##### § 5001.521 Loss calculations and payment. #####
 
+Link to an amendment published at 89 FR 79729, Sept. 30, 2024.
+
 Unless the Agency anticipates a future recovery, the Agency will make a final settlement with the lender after the collateral is liquidated or after settlement and compromise of all parties has been completed. The Agency has the right to recover losses paid under the guarantee from any party that may be liable.
 
 (a) *Report of loss form.* The lender must use the report of loss form for all estimated and final loss claim requests.

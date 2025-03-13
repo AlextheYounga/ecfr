@@ -78,7 +78,7 @@
 
 (ii) Must limit new enrollment in the D-SNP to individuals enrolled in, or in the process of enrolling in, the Medicaid MCO.
 
-(2) Beginning in 2030, such D-SNPs may only enroll (or continue to cover individuals enrolled in (or in the process of enrolling in) the Medicaid MCO, except that such D-SNPs may continue to implement deemed continued eligibility requirements as described in § 422.52(d).
+(2) Beginning in 2030, such D-SNPs may only enroll (or continue to cover) individuals enrolled in (or in the process of enrolling in) the Medicaid MCO, except that such D-SNPs may continue to implement deemed continued eligibility requirements as described in § 422.52(d).
 
 (3)(i) If a State Medicaid agency's contract(s) with the MA organization differentiates enrollment into D-SNPs by age group or to align enrollment in each D-SNP with the eligibility or benefit design used in the State's Medicaid managed care program(s) (as defined in § 438.2), the MA organization, its parent organization, or an entity that shares a parent organization with the MA organization may offer one or more additional D-SNPs for full-benefit dual eligible individuals in the same service area in accordance with the group (or groups) eligible for D-SNPs based on provisions of the contract with the State Medicaid agency under § 422.107.
 
@@ -88,4 +88,4 @@
 
 (B) PPO D-SNPs is subject to paragraph (h)(1) of this section, the HMO D-SNP(s) not subject to paragraph (h)(1) of this section may continue if they no longer accept new enrollment of full-benefit dual eligible individuals in the same service area as the plan (or plans) subject to paragraph (h)(1) of this section.
 
-[63 FR 35099, June 26, 1998, as amended at 65 FR 40328, June 29, 2000; 83 FR 16734, Apr. 16, 2018; 85 FR 33908, June 2, 2020; 88 FR 22334, Apr. 12, 2023; 89 FR 30824, Apr. 23, 2024]
+[63 FR 35099, June 26, 1998, as amended at 65 FR 40328, June 29, 2000; 83 FR 16734, Apr. 16, 2018; 85 FR 33908, June 2, 2020; 88 FR 22334, Apr. 12, 2023; 89 FR 30824, Apr. 23, 2024; 89 FR 79451, Sept. 30, 2024]

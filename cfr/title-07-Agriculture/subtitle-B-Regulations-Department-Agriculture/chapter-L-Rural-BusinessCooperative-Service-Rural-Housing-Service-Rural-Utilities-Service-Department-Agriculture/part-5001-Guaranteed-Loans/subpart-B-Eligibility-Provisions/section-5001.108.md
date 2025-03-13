@@ -1,5 +1,7 @@
 ##### § 5001.108 Eligible REAP—Energy Efficient Equipment and Systems (EEE) projects and requirements. #####
 
+Link to an amendment published at 89 FR 79712, Sept. 30, 2024.
+
 For a REAP EEE project to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102(a) through (c) and in paragraphs (a) through (d) of this section and be for a borrower that is an agricultural producer eligible to submit an application for the project in accordance with § 5001.126. If the borrower plans to use taxable bonds as debt instruments the provision § 5001.105(b)(19) must be met.
 
 (a) The project must be for the purchase and installation of energy efficient equipment or systems for agricultural production or processing that exceed the following standards:

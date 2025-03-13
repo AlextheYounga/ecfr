@@ -1,5 +1,7 @@
 ##### § 5001.105 Eligible B&I projects and requirements. #####
 
+Link to an amendment published at 89 FR 79710, Sept. 30, 2024.
+
 For a B&I project to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102, be for a borrower eligible to submit an application for the project in accordance with § 5001.126, and the uses of loan funds include, but are not limited to, the following:
 
 (a) *Purpose.* The purpose of the project must be to improve, develop, or finance business, industry, and employment and improve the economic and environmental climate in rural communities; the conservation, development, and use of water for aquaculture purposes; and reducing reliance on nonrenewable energy resources through development and construction of solar energy and other renewable energy systems.

@@ -1,5 +1,7 @@
 ##### § 5001.452 Loan closing and conditions precedent to issuance of loan note guarantee. #####
 
+Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
+
 (a) The lender must not close the guaranteed loan until all conditions of the conditional commitment are met.
 
 (b) Simultaneously with or immediately after the guaranteed loan closing, the lender must provide to the Agency the guarantee fee, and the following forms and documents:

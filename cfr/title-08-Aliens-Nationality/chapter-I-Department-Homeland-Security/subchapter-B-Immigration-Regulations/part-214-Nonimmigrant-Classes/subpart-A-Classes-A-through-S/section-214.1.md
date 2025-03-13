@@ -1,7 +1,5 @@
 ##### § 214.1 Requirements for admission, extension, and maintenance of status. #####
 
-Link to an amendment published at 89 FR 3330, Jan. 18, 2024.
-
 (a) *General*—(1) *Nonimmigrant classes.* For the purpose of administering the nonimmigrant provisions of the Act, the following administrative subclassifications of nonimmigrant classifications as defined in section 101(a)(15) of the Act are established:
 
 (i) Section 101(a)(15)(B) is divided into (B)(i) for visitors for business and (B)(ii) for visitors for pleasure;
@@ -170,7 +168,7 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (vii) Any nonimmigrant who is classified according to section 101(a)(15)(Q)(ii) of the Act beyond a total of 3 years.
 
-(viii) Any nonimmigrant admitted pursuant to the Guam-CNMI Visa Waiver Program, as provided in section 212(l) of the Act.
+(viii) Any nonimmigrant admitted pursuant to the Guam-CNMI Visa Waiver Program, or its sub-program, the CNMI Economic Vitality & Security Travel Authorization Program (EVS-TAP), as provided in section 212(l) of the Act.
 
 (4) *Timely filing and maintenance of status.* An extension of stay may not be approved for an applicant who failed to maintain the previously accorded status or where such status expired before the application or petition was filed, except that failure to file before the period of previously authorized status expired may be excused in the discretion of the Service and without separate application, with any extension granted from the date the previously authorized stay expired, where it is demonstrated at the time of filing that:
 

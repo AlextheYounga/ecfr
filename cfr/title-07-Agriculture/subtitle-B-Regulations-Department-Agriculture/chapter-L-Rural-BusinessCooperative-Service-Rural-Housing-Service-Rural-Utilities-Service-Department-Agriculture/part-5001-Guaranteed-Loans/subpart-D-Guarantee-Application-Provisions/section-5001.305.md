@@ -1,5 +1,7 @@
 ##### § 5001.305 Specific application requirements for WWD projects. #####
 
+Link to an amendment published at 89 FR 79720, Sept. 30, 2024.
+
 In addition to the requirements specified in § 5001.303, a lender seeking a loan guarantee for a WWD project must submit the documents specified in paragraphs (a) through (c) of this section.
 
 (a) *Engineering documentation.* (1) Engineering documentation must meet the level of detail the lender would typically require for a standard commercial loan, and include, at a minimum, a description of the proposed project, a cost estimate, the number of residential and non-residential connections, and the population served. The lender may request assistance to clarify the Agency's requirements and regulations; however, the Agency does not provide technical oversight or recommendations as to the technical feasibility of the project.

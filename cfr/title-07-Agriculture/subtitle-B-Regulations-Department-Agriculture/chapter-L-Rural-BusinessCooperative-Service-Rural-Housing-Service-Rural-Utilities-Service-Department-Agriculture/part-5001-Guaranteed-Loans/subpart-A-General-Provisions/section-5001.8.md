@@ -1,5 +1,7 @@
 ##### § 5001.8 Approvals, regulations, and forms. #####
 
+Link to an amendment published at 89 FR 79708, Sept. 30, 2024.
+
 (a) When Agency approval or concurrence is required, it must be in writing and must be obtained prior to any action taken for which approval or concurrence is required. Written communication from an authorized Agency official, including any written communication approving, concurring, or otherwise communicating an Agency decision on a matter when such decision is required, may be transmitted via an electronic Agency system in accordance with Electronic Signatures in Global and National Commerce Act (ESIGN) of 2000 (114 Stat. 464) (E-Sign Act).
 
 (b) All references to statutes and regulations include any and all successor statutes and regulations.

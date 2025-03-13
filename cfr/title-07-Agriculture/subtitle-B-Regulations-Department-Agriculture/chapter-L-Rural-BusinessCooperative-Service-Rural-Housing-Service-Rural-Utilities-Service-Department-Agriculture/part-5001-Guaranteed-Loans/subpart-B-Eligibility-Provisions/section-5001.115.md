@@ -1,5 +1,7 @@
 ##### § 5001.115 Ineligible projects—general. #####
 
+Link to an amendment published at 89 FR 79712, Sept. 30, 2024.
+
 The Agency will not issue a loan guarantee under this part for any of the projects identified in this section, unless otherwise noted. The following are ineligible projects for the CF, WWD, B&I and REAP programs:
 
 (a) Any investment or arbitrage, or any speculative real estate investment other than cooperative stock, transferable stock, cooperative equity in accordance with § 5001.140 and NMTC projects in accordance with § 5001.141.

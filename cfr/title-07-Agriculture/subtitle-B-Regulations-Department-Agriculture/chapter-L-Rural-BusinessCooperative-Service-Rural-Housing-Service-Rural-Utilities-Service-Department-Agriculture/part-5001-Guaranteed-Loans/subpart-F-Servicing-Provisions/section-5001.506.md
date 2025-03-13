@@ -1,5 +1,7 @@
 ##### § 5001.506 Loan transfers and assumptions. #####
 
+Link to an amendment published at 89 FR 79727, Sept. 30, 2024.
+
 (a) *General.* A lender must obtain prior written Agency approval in accordance with paragraph (c) of this section before the lender conducts a transfer and assumption of a guaranteed loan. The transferee will assume a loan amount at least equal to the outstanding loan balance or the present market value of the collateral, whichever is less. If the transferor is to receive a payment for their equity, the total debt must be assumed. The following conditions must be met:
 
 (1) All transfers and assumptions will have a fee as provided by § 5001.509(b).

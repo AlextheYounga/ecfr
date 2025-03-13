@@ -1,5 +1,7 @@
 ##### § 5001.107 REAP—Energy Efficiency Improvement (EEI) projects and requirements. #####
 
+Link to an amendment published at 89 FR 79711, Sept. 30, 2024.
+
 For a REAP EEI project to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102(a) through (c) and also specified in paragraphs (a) through (d) of this section and be for a borrower eligible to submit an application for the project in accordance with § 5001.126. If taxable bonds are utilized as debt instruments the provisions of § 5001.105(b)(19) must be met.
 
 (a) The EEI project must use less energy on an annual basis than the original building and/or equipment that it will improve or replace as demonstrated in an energy Assessment or energy Audit as applicable.

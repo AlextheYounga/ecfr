@@ -1,5 +1,7 @@
 ##### § 5001.459 Replacement of loan note guarantee and assignment guarantee agreement. #####
 
+Link to an amendment published at 89 FR 79727, Sept. 30, 2024.
+
 If a loan note guarantee or assignment guarantee agreement has been lost, stolen, destroyed, mutilated, or defaced while in the custody of the lender or holder, the Agency may issue a replacement to the lender or holder, as applicable under the conditions described in paragraphs (a) through (b) of this section. The lender is prohibited from altering or modifying or approving any alterations to or modifications of any loan documents without the prior written approval of the Agency.
 
 (a) *Replacement requirements.* The lender must coordinate the activities of the party who seeks the replacement documents and must submit the required documents to the Agency for processing. The requirements for replacement are as follows:

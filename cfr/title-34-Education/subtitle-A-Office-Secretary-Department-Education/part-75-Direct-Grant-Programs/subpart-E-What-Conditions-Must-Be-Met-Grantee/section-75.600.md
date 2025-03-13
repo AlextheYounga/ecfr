@@ -1,11 +1,17 @@
-##### § 75.600 Use of a grant for construction: Purpose of §§ 75.601-75.615. #####
+##### § 75.600 Applicability of using grant funds for construction or real property. #####
 
-Link to an amendment published at 89 FR 70331, Aug. 29, 2024.
+(a) As used in this section, the terms “construction” and “minor remodeling” have the meanings given those terms in 34 CFR 77.1(c).
 
-Sections 75.601-75.615 apply to:
+(b) Except as provided in paragraph (c) of this section, §§ 75.600 through 75.618 apply to—
 
-(a) An applicant that requests funds for construction; and
+(1) An applicant that requests funds for construction or real property acquisition; and
 
-(b) A grantee whose grant includes funds for construction.
+(2) A grantee whose grant includes funds for construction or real property acquisition.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+(c) Sections 75.600 through 75.618 do not apply to grantees in—
+
+(1) Programs prohibited from using funds for construction or real property acquisition under § 75.533; and
+
+(2) Projects determined by the Secretary to be minor remodeling under 34 CFR 77.1(c).
+
+[89 FR 70331, Aug. 29, 2024]

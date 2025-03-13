@@ -1,5 +1,7 @@
 ##### § 5001.3 Definitions. #####
 
+Link to an amendment published at 89 FR 79704, Sept. 30, 2024.
+
 The following definitions are applicable to the capitalized terms used in this part.
 
 *Administrator* means the Administrator of the Rural Housing Service, the Rural Utilities Service, or the Rural Business-Cooperative Service (or the applicable Service's successor), as applicable, within the Rural Development mission area of the U.S. Department of Agriculture (USDA).

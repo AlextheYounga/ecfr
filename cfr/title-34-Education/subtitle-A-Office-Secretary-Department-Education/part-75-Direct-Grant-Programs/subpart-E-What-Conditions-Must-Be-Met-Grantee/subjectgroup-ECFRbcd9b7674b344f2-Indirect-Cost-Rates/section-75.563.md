@@ -1,7 +1,13 @@
-##### § 75.563 Restricted indirect cost rate—programs covered. #####
+##### § 75.563 Restricted indirect cost rate or cost allocation plans—programs covered. #####
 
-Link to an amendment published at 89 FR 70330, Aug. 29, 2024.
+If a grantee or subgrantee decides to charge indirect costs to a program that is subject to a statutory prohibition on using Federal funds to supplant non-Federal funds, the grantee must—
 
-If a grantee decides to charge indirect costs to a program that has a statutory requirement prohibiting the use of Federal funds to supplant non-Federal funds, the grantee shall use a restricted indirect cost rate computed under 34 CFR 76.564 through 76.569.
+(a) Use a negotiated restricted indirect cost rate or restricted cost allocation plan compliant with 34 CFR 76.564 through 76.569; or
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)[59 FR 59583, Nov. 17, 1994]
+(b) Elect to use an indirect cost rate of 8 percent of the modified total direct costs (MTDC) base if the grantee or subgrantee does not have a negotiated restricted indirect cost rate. MTDC is defined in 2 CFR 200.1. If the Secretary determines that the grantee or subgrantee would have a lower rate under 34 CFR 76.564 through 76.569, the lower rate must be used on the affected program.
+
+(c) If the grantee has established a threshold for equipment that is lower than the amount specified in the Uniform Guidance, the grantee must use that threshold to exclude equipment from the MTDC base.
+
+(d) For purposes of the MTDC base and application of the 8 percent rate, MTDC includes up to the amount specified in the definition of MTDC in the Uniform Guidance of each subaward, each year.
+
+[89 FR 70330, Aug. 29, 2024]

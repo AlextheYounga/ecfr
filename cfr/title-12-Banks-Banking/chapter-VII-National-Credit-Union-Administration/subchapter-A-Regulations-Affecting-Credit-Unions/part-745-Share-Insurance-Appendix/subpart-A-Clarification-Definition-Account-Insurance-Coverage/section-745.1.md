@@ -1,5 +1,7 @@
 ##### § 745.1 Definitions. #####
 
+Link to an amendment published at 89 FR 79414, Sept. 30, 2024.
+
 (a) The terms *account* or *accounts* as used in this part mean share, share certificate or share draft accounts (or their equivalent under state law, as determined by the Board in the case of insured state-chartered credit unions) of a member (which includes other credit unions, public units and nonmembers where permitted under the Act) in a credit union of a type approved by the Board which evidences money or its equivalent received or held by a credit union in the usual course of business and for which it has given or is obligated to give credit to the account of the member.
 
 (b) The terms *member* or *members* as used in this part mean those persons enumerated in the credit union's field of membership who have been elected to membership in accordance with the Act or state law in the case of state-chartered credit unions. It also includes those nonmembers permitted under the Act to maintain accounts in an insured credit union, including nonmember credit unions and nonmember public units and political subdivisions.

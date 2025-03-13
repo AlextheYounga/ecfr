@@ -1,5 +1,7 @@
 ##### § 5001.511 Repurchases from holders. #####
 
+Link to an amendment published at 89 FR 79728, Sept. 30, 2024.
+
 (a) *General.* A holder can make written demand on either the lender or the Agency to repurchase the unpaid guarantee portion of the loan when the borrower is in monetary default or when the lender has failed to pay the holder its pro-rata share of any payment made by the borrower within 30 days of the lender's receipt thereof from the borrower. When making written demand on the lender, the holder must concurrently send a copy of the demand letter to the Agency.
 
 (1) The lender is encouraged to repurchase the guarantee, upon written demand of a holder, to facilitate the accounting of funds, resolve any loan problem, and resolve the monetary default, where and when reasonable. The benefit to the lender is that it may re-assign the guaranteed portion of the loan and then continue collection of its servicing fee, if any, when the monetary default is cured.

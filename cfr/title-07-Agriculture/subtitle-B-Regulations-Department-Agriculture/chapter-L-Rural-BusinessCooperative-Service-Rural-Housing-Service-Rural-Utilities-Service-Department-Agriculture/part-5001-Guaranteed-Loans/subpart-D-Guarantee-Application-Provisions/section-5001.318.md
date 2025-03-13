@@ -1,5 +1,7 @@
 ##### § 5001.318 B&I project priority point system. #####
 
+Link to an amendment published at 89 FR 79722, Sept. 30, 2024.
+
 This section applies to B&I projects seeking a loan guarantee. When applications on hand have the same priority score, the Agency will give preference to applications involving guaranteed loans from veterans. To receive veteran points, a veteran or veterans must own 20 percent or more interest in the borrower and the borrower must sign a certification in its application to indicate that the borrower has veteran status. A maximum of 100 points can be awarded.
 
 (a) *Population priority.* If the project is located in an unincorporated area or in a city with a population under 25,000, 5 points will be awarded.

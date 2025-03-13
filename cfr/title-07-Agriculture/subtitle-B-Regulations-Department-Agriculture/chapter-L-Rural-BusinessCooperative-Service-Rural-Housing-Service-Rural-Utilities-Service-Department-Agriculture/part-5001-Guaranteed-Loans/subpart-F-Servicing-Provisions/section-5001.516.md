@@ -1,5 +1,7 @@
 ##### § 5001.516 Protective advances. #####
 
+Link to an amendment published at 89 FR 79728, Sept. 30, 2024.
+
 Protective advances are allowed only when they are necessary to preserve the value of the collateral. Therefore, a lender must exercise sound judgment in determining that the protective advance preserves collateral and recovery is actually enhanced by making the advance.
 
 (a) Protective advances must be reasonable with respect to the outstanding loan amount and the value of the collateral being preserved.

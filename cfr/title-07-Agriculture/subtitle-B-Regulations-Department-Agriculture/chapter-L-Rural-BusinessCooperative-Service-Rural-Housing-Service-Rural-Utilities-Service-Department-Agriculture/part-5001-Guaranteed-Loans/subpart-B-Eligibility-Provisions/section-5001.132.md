@@ -1,5 +1,7 @@
 ##### § 5001.132 Maintenance of approved lender status. #####
 
+Link to an amendment published at 89 FR 79716, Sept. 30, 2024.
+
 Continuation of approved lender status under this part is not automatic. Lenders may lose their approved lender status as described in paragraph (a) of this section. The Agency may also revoke a lender's status as an approved lender or debar the approved lender, as described in paragraph (b) of this section.
 
 (a) *Loss of approved lender status.* A lender will lose its approved status if it—

@@ -1,5 +1,7 @@
 ##### § 5001.316 CF project priority point system and reservation of funds. #####
 
+Link to an amendment published at 89 FR 79722, Sept. 30, 2024.
+
 This section applies to CF projects seeking a loan guarantee. Paragraphs (a) through (d) of this section outline the criteria and amount of priority points that may be awarded to an application. The highest possible priority score is 55. Paragraph (e) of this section outlines the reservation of funds for projects located in rural areas of 20,000 population or less.
 
 (a) *Population priority.* If the project will be located in a rural community having a population of less than 20,000—15 points.

@@ -1,5 +1,7 @@
 ##### § 5001.401 Interest rate provisions. #####
 
+Link to an amendment published at 89 FR 79725, Sept. 30, 2024.
+
 Interest rates, interest rate caps, and incremental interest rate adjustment limitations on a guaranteed loan are negotiated between the Lender and the borrower. The interest rate for a guaranteed loan can be either fixed or variable, or a combination thereof, as long as it is a legal rate. Interest rates cannot be more than those rates the lender customarily charges its borrowers for non-guaranteed loans in similar circumstances in the ordinary course of business. The Agency encourages each lender to use the secondary market and pass interest-rate savings on to the borrower.
 
 (a) *Different rates on guaranteed and unguaranteed portion of the* guaranteed *loan.* It is permissible to have different interest rates on the guaranteed and unguaranteed portions of the loan.

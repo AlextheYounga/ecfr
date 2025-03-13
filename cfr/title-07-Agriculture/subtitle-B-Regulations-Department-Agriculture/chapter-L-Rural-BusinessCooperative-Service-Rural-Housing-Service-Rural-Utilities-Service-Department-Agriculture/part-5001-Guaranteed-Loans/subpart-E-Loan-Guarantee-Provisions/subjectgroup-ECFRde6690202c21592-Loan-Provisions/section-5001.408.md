@@ -1,5 +1,7 @@
 ##### § 5001.408 Participation or assignment of guaranteed loan. #####
 
+Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
+
 (a) *General.* The lender may obtain participation in the loan or assign all or part of the guaranteed portion of the guaranteed loan on the secondary market subject to the conditions specified in paragraphs (a)(1) through (5) of this section or retain the entire guaranteed loan.
 
 (1) *Participation.* The lender may obtain participation in the loan under its normal operating procedures; however, the lender must retain title to and possession of the promissory note(s) and retain the lender's interest in the collateral.

@@ -1,39 +1,27 @@
 ##### § 103.21 Processing of petitions filed after voluntary recognition. #####
 
-Link to an amendment published at 89 FR 63026, Aug. 1, 2024.
+(a) An employer's voluntary recognition of a labor organization as exclusive bargaining representative of a unit of the employer's employees, based on a showing of the union's majority status, bars the processing of an election petition for a reasonable period of time for collective bargaining between the employer and the labor organization.
 
-(a) An employer's voluntary recognition of a labor organization as exclusive bargaining representative of an appropriate unit of the employer's employees under section 9(a) of the Act, and the first collective-bargaining agreement executed by the parties on or after the date of such voluntary recognition, will not bar the processing of an election petition unless:
+(b) A reasonable period of time for collective bargaining, during which the voluntary-recognition bar will apply, is defined as no less than 6 months after the parties' first bargaining session and no more than 1 year after that date.
 
-(1) The employer and/or the labor organization notifies the Regional Office that recognition has been granted;
+(c) In determining whether a reasonable period of time for collective bargaining has elapsed in a given case, the following factors will be considered:
 
-(2) The employer posts, in conspicuous places, including all places where notices to employees are customarily posted, a notice of recognition (provided by the Regional Office) informing employees that recognition has been granted and that they have a right to file a petition during a 45-day “window period” beginning on the date the notice is posted;
+(1) Whether the parties are bargaining for an initial collective-bargaining agreement;
 
-(3) The employer distributes the notice described in paragraph (a)(2) of this section electronically to employees in the petitioned-for unit, if the employer customarily communicates with its employees electronically; and
+(2) The complexity of the issues being negotiated and of the parties' bargaining processes;
 
-(4) 45 days from the posting date pass without a properly supported petition being filed.
+(3) The amount of time elapsed since bargaining commenced and the number of bargaining sessions;
 
-(5) The notice described in paragraph (a)(2) of this section shall state as follows:
+(4) The amount of progress made in negotiations and how near the parties are to concluding an agreement; and
 
-Federal law gives employees the right to form, join, or assist a union and to choose not to engage in these protected activities.
+(5) Whether the parties are at impasse.
 
-An employer may lawfully recognize a union based on evidence (such as signed authorization cards) indicating that a majority of employees in an appropriate bargaining unit desire its representation, without an election supervised by the National Labor Relations Board.
+(d) In each case where a reasonable period of time is at issue, the burden of proof is on the proponent of the voluntary-recognition bar to show that further bargaining should be required before an election petition may be processed.
 
-Once an employer recognizes a union as the employees' exclusive bargaining representative, the employer has an obligation to bargain with the union in good faith in an attempt to reach a collective-bargaining agreement, and that obligation is not delayed or otherwise impacted by this notice.
+(e) Notwithstanding paragraph (a), an employer's voluntary recognition of a labor organization as exclusive bargaining representative of a unit of the employer's employees will not preclude the processing of a petition filed by a competing labor organization where authorized by Board precedent.
 
-The National Labor Relations Board is an agency of the United States Government and does not endorse any choice about whether employees should keep the recognized union, file a petition to certify the recognized union, file a petition to decertify the recognized union, or support or oppose a representation petition filed by another union.
+(f) This section shall be applicable to an employer's voluntary recognition of a labor organization on or after September 30, 2024.
 
-[Employer] on [date] recognized [Union] as the employees' exclusive bargaining representative based on evidence indicating that a majority of employees in [described bargaining unit] desire its representation.
+(g) The provisions of this section are intended to be severable. If any paragraph of this section is held to be unlawful, the remaining paragraphs of this section not deemed unlawful are intended to remain in effect to the fullest extent permitted by law.
 
-All employees, including those who previously signed cards in support of [Union], have the right to be represented by a union of their choice or by no union at all.
-
-Within 45 days from the date of this notice, a petition supported by 30 percent or more of the unit employees may be filed with the National Labor Relations Board for a secret-ballot election to determine whether or not the unit employees wish to be represented by [Union], or 30 percent or more of the unit employees can support another union's filing of a petition to represent them.
-
-Any properly supported petition filed within the 45-day window period will be processed according to the National Labor Relations Board's normal procedures.
-
-A petition may be filed within the 45-day window period even if [Employer] and [Union] have already reached a collective-bargaining agreement.
-
-If no petition is filed within the 45-day window period, the Union's status as the unit employees' exclusive bargaining representative will be insulated from challenge for a reasonable period of time, and if [Employer] and [Union] reach a collective-bargaining agreement during that insulated reasonable period, an election cannot be held for the duration of that collective-bargaining agreement, up to 3 years.
-
-(b) This section shall be applicable to an employer's voluntary recognition on or after the effective date of this rule.
-
-[85 FR 18399, Apr. 1, 2020]
+[89 FR 63026, Aug. 1, 2024]

@@ -1,5 +1,7 @@
 ##### § 745.9-1 Trust accounts. #####
 
+Link to an amendment published at 89 FR 79415, Sept. 30, 2024.
+
 (a) For purposes of this section, “trust” refers to an irrevocable trust.
 
 (b) All trust interests (as defined in § 745.2(d)(4)), for the same beneficiary, deposited in an account and established pursuant to valid trust agreements created by the same settlor (grantor) shall be added together and insured up to the SMSIA in the aggregate, separately from other accounts of the trustee of such trust funds or the settlor or beneficiary of such trust arrangements.

@@ -1,4 +1,7 @@
-##### § 745.2 General principles applicable in determining insurance of accounts. #####
+##### § 745.2 General principles applicable in determining insurance of accounts.
+- #####
+
+Link to an amendment published at 89 FR 79414, Sept. 30, 2024.
 
 (a) *General.* This part provides for determination by the Board of the amount of members' insured accounts. The rules for determining the insurance coverage of accounts maintained by members in the same or different rights and capacities in the same insured credit union are set forth in the following provisions of this part. The appendix provides examples of the application of these rules to various factual situations. While the provisions of this part govern in determining share insurance coverage, to the extent local law enters into a share insurance determination, the local law of the jurisdiction in which the insured credit union's principal office is located will control over the local law of other jurisdictions where the insured credit union has offices or service facilities.
 

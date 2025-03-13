@@ -1,8 +1,6 @@
 ##### § 75.135 Competition exception for proposed implementation sites, implementation partners, or service providers. #####
 
-Link to an amendment published at 89 FR 70321, Aug. 29, 2024.
-
-(a) When entering into a contract with implementation sites or partners, an applicant is not required to comply with the competition requirements in 2 CFR 200.320(c) and (d), if—
+(a) When entering into a contract with implementation sites or partners, an applicant is not required to comply with the competition requirements in 2 CFR 200.320(b), if—
 
 (1) The contract is with an entity that agrees to provide a site or sites where the applicant would conduct the project activities under the grant;
 
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 70321, Aug. 29, 2024.
 
 (3) The implementation sites or partner entities are included in the application in order to meet a regulatory, statutory, or priority requirement related to the competition.
 
-(b) When entering into a contract for data collection, data analysis, evaluation services, or essential services, an applicant may select a provider using the informal, small-purchase procurement procedures in 2 CFR 200.320(b), regardless of whether that applicant would otherwise be subject to that part or whether the evaluation contract would meet the standards for a small purchase order, if—
+(b) When entering into a contract for data collection, data analysis, evaluation services, or essential services, an applicant may select a provider using the informal, small-purchase procurement procedures in 2 CFR 200.320(a)(2), regardless of whether that applicant would otherwise be subject to that part or whether the evaluation contract would meet the standards for a small purchase order, if—
 
 (1) The contract is with the data collection, data analysis, evaluation service, or essential service provider;
 
@@ -26,4 +24,4 @@ Link to an amendment published at 89 FR 70321, Aug. 29, 2024.
 
 (f) For the purposes of this section, *essential service* means a product or service directly related to the grant that would, if not provided, have a detrimental effect on the grant.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)[78 FR 49352, Aug. 13, 2013, as amended at 79 FR 76091, Dec. 19, 2014; 80 FR 67264, Nov. 2, 2015]
+(Authority: 20 U.S.C. 1221e-3 and 3474)[78 FR 49352, Aug. 13, 2013, as amended at 79 FR 76091, Dec. 19, 2014; 80 FR 67264, Nov. 2, 2015; 89 FR 70321, Aug. 29, 2024]

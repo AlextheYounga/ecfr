@@ -1,7 +1,5 @@
 ##### § 212.1 Documentary requirements for nonimmigrants. #####
 
-Link to an amendment published at 89 FR 3327, Jan. 18, 2024.
-
 A valid unexpired visa that meets the requirements of part 215, subpart B, of this chapter, if applicable, and an unexpired passport, shall be presented by each arriving nonimmigrant alien except that the passport validity period for an applicant for admission who is a member of a class described in section 102 of the Act is not required to extend beyond the date of his application for admission if so admitted, and except as otherwise provided in the Act, this chapter, and for the following classes:
 
 (a) *Citizens of Canada or Bermuda, Bahamian nationals or British subjects resident in certain islands*—(1) *Canadian citizens.* A visa is generally not required for Canadian citizens, except those Canadians that fall under nonimmigrant visa categories E, K, S, or V as provided in paragraphs (h), (l), and (m) of this section and 22 CFR 41.2. A valid unexpired passport is required for Canadian citizens arriving in the United States, except when meeting one of the following requirements:
@@ -168,7 +166,7 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (iv) Be in possession of a round trip ticket that is nonrefundable and nontransferable and bears a confirmed departure date not exceeding forty-five days from the date of admission to Guam or the CNMI. “Round trip ticket” includes any return trip transportation ticket issued by a participating carrier, electronic ticket record, airline employee passes indicating return passage, individual vouchers for return passage, group vouchers for return passage for charter flights, or military travel orders which include military dependents for return to duty stations outside the United States on U.S. military flights;
 
-(v) Be in possession of a completed and signed Guam-CNMI Visa Waiver Information Form (CBP Form I-736);
+(v) On or after November 29, 2024, receive electronic travel authorization pursuant to paragraph (q)(9) of this section; prior to this date, receive electronic travel authorization pursuant to paragraph (q)(9) of this section or be in possession of a completed and signed Guam-CNMI Visa Waiver Information Form (CBP Form I-736);
 
 (vi) Be in possession of a completed and signed I-94 (see § 1.4), Arrival-Departure Record (CBP Form I-94);
 
@@ -178,9 +176,7 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (ix) Waive any right to review or appeal an immigration officer's determination of admissibility at the port of entry into Guam or the CNMI;
 
-(x) Waive any right to contest any action for deportation or removal, other than on the basis of: An application for withholding of removal under section 241(b)(3) of the INA; withholding or deferral of removal under the regulations implementing Article 3 of the United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment; or, an application for asylum if permitted under section 208 of the Act; and
-
-(xi) If a resident of Taiwan, possess a Taiwan National Identity Card and a valid Taiwan passport with a valid re-entry permit issued by the Taiwan Ministry of Foreign Affairs.
+(x) Waive any right to contest any action for deportation or removal, other than on the basis of: An application for withholding of removal under section 241(b)(3) of the INA; withholding or deferral of removal under the regulations implementing Article 3 of the United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment; or, an application for asylum if permitted under section 208 of the Act.
 
 (2) *Program Countries and Geographic Areas*—(i) *General Eligibility Criteria.* (A) A country or geographic area may not participate in the Guam-CNMI Visa Waiver Program if the country or geographic area poses a threat to the welfare, safety or security of the United States, its territories, or commonwealths;
 
@@ -194,7 +190,7 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (A) *Hong Kong Special Administrative Region (Hong Kong).* To be eligible to participate in the program as a result of a connection to Hong Kong, the following documentation is required: A Hong Kong Special Administrative Region (SAR) passport with a Hong Kong identification card; or a British National (Overseas) (BN(O)) passport with a Hong Kong identification card.
 
-(B) *Taiwan.* To be eligible to participate in the program as a result of a connection to Taiwan, one must be a resident of Taiwan who begins his or her travel in Taiwan and who travels on direct flights from Taiwan to Guam or the CNMI without an intermediate layover or stop, except that the flights may stop in a territory of the United States en route.
+(B) *Taiwan.* To be eligible to participate in the program as a result of a connection to Taiwan, one must be a resident of Taiwan who begins his or her travel in Taiwan and who travels on direct flights from Taiwan to Guam or the CNMI without an intermediate layover or stop, except that the flights may stop in a territory of the United States en route, and must be in possession of a Taiwan National Identity Card and a valid Taiwan passport with a valid re-entry permit issued by the Taiwan Ministry of Foreign Affairs.
 
 (iii) *Significant Economic Benefit Criteria.* If, in addition to the considerations enumerated under paragraph (q)(2)(i) of this section, DHS determines that the CNMI has received a significant economic benefit from the number of visitors for pleasure from particular countries during the period of May 8, 2007 through May 8, 2008, those countries are eligible to participate in the Guam-CNMI Visa Waiver Program unless the Secretary of Homeland Security determines that such country's inclusion in the Guam-CNMI Visa Waiver Program would represent a threat to the welfare, safety, or security of the United States and its territories.
 
@@ -206,7 +202,7 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (iii) A country or geographic area may be suspended from the Guam-CNMI Visa Waiver Program by the Secretary of Homeland Security, in consultation with the Secretary of the Interior and the Secretary of State, based on the evaluation of all factors the Secretary deems relevant including, but not limited to, electronic travel authorization, procedures for reporting lost and stolen passports, repatriation of aliens, rates of refusal for nonimmigrant visitor visas, overstays, exit systems and information exchange.
 
-(4) Admission under this section renders an alien ineligible for:
+(4) *Ineligibility due to admission under the Guam-CNMI Visa Waiver Program.* Admission under this section renders an alien ineligible for:
 
 (i) Adjustment of status to that of a temporary resident or, except as provided by section 245(i) of the Act or as an immediate relative as defined in section 201(b) of the Act, to that of a lawful permanent resident.
 
@@ -228,13 +224,13 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (C) Issued by a carrier which has entered into an agreement described in paragraph (q)(5) of this section.
 
-(iv) Transport an alien in possession of a completed and signed Guam-CNMI Visa Waiver Information Form (CBP Form I-736), and
+(iv) On or after November 29, 2024, transport an alien who has received electronic travel authorization pursuant to paragraph (q)(9) of this section; prior to this date, transport an alien who has received electronic travel authorization pursuant to paragraph (q)(9) of this section or an alien in possession of a completed and signed Guam-CNMI Visa Waiver Information Form (CBP Form I-736), and
 
-(v) Transport an alien in possession of completed I-94, Arrival-Departure Record (CBP Form I-94).
+(v) Transport an alien in possession of completed I-94, Arrival-Departure Record (CBP Form I-94) (see § 1.4).
 
-(6) *Bonding.* The Secretary may require a bond on behalf of an alien seeking admission under the Guam-CNMI Visa Waiver Program, in addition to the requirements enumerated in this section, when the Secretary deems it appropriate. Such bonds may be required of an individual alien or of an identified subset of participants.
+(6) [Reserved]
 
-(7) *Maintenance of status*—(i) *Satisfactory departure.* If an emergency prevents an alien admitted under the Guam-CNMI Visa Waiver Program, as set forth in this paragraph (q), from departing from Guam or the CNMI within his or her period of authorized stay, an immigration officer having jurisdiction over the place of the alien's temporary stay may, in his or her discretion, grant a period of satisfactory departure not to exceed 15 days. If departure is accomplished during that period, the alien is to be regarded as having satisfactorily accomplished the visit without overstaying the allotted time.
+(7) *Maintenance of status—satisfactory departure.* If an emergency prevents an alien admitted under the Guam-CNMI Visa Waiver Program, as set forth in this paragraph (q), from departing from Guam or the CNMI within the alien's period of authorized stay, an immigration officer having jurisdiction over the place of the alien's temporary stay may, in the officer's discretion, grant a period of satisfactory departure not to exceed 15 days. If departure is accomplished during that period, the alien is to be regarded as having satisfactorily accomplished the visit without overstaying the allotted time.
 
 (8) *Inadmissibility and Deportability*—(i) *Determinations of inadmissibility.* (A) An alien who applies for admission under the provisions of the Guam-CNMI Visa Waiver Program, who is determined by an immigration officer to be inadmissible to Guam or the CNMI under one or more of the grounds of inadmissibility listed in section 212 of the Act (other than for lack of a visa), or who is in possession of and presents fraudulent or counterfeit travel documents, will be refused admission into Guam or the CNMI and removed. Such refusal and removal shall be effected without referral of the alien to an immigration judge for further inquiry, examination, or hearing, except that an alien who presents himself or herself as an applicant for admission to Guam under the Guam-CNMI Visa Waiver Program, who applies for asylum, withholding of removal under section 241(b)(3) of the INA or withholding or deferral of removal under the regulations implementing Article 3 of the United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment must be issued a Form I-863, Notice of Referral to Immigration Judge, for a proceeding in accordance with 8 CFR 208.2(c)(1) and (2). The provisions of 8 CFR subpart 208 subpart A shall not apply to an alien present or arriving in the CNMI seeking to apply for asylum prior to January 1, 2030. No application for asylum may be filed pursuant to section 208 of the Act by an alien present or arriving in the CNMI prior to January 1, 2030; however, aliens physically present in the CNMI during the transition period who express a fear of persecution or torture only may establish eligibility for withholding of removal pursuant to INA 241(b)(3) or pursuant to the regulations implementing Article 3 of the United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.
 
@@ -242,10 +238,144 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (C) Refusal of admission under this paragraph shall not constitute removal for purposes of the Act.
 
-(ii) *Determination of deportability.* (A) An alien who has been admitted to either Guam or the CNMI under the provisions of this section who is determined by an immigration officer to be deportable from either Guam or the CNMI under one or more of the grounds of deportability listed in section 237 of the Act, shall be removed from either Guam or the CNMI to his or her country of nationality or last residence. Such removal will be determined by DHS authority that has jurisdiction over the place where the alien is found, and will be effected without referral of the alien to an immigration judge for a determination of deportability, except that an alien admitted to Guam under the Guam-CNMI Visa Waiver Program who applies for asylum or other form of protection from persecution or torture must be issued a Form I-863 for a proceeding in accordance with 8 CFR 208.2(c)(1) and (2). The provisions of 8 CFR part 208 subpart A shall not apply to an alien present or arriving in the CNMI seeking to apply for asylum prior to January 1, 2030. No application for asylum may be filed pursuant to section 208 of the INA by an alien present or arriving in the CNMI prior to January 1, 2030; however, aliens physically present or arriving in the CNMI prior to January 1, 2030, may apply for withholding of removal under section 241(b)(3) of the Act and withholding and deferral of removal under the regulations implementing Article 3 of the United Nations Convention Against Torture, Inhuman or Degrading Treatment or Punishment.
+(ii) *Determination of deportability.* (A) An alien who has been admitted to either Guam or the CNMI under the provisions of this section who is determined by an immigration officer to be deportable from either Guam or the CNMI under one or more of the grounds of deportability listed in section 237 of the Act, shall be removed from either Guam or the CNMI to the alien's country of nationality or last residence. Such removal will be determined by DHS authority that has jurisdiction over the place where the alien is found, and will be effected without referral of the alien to an immigration judge for a determination of deportability, except that an alien admitted to Guam under the Guam-CNMI Visa Waiver Program who applies for asylum or other form of protection from persecution or torture must be issued a Form I-863 for a proceeding in accordance with 8 CFR 208.2(c)(1) and (2). The provisions of 8 CFR part 208 subpart A shall not apply to an alien present or arriving in the CNMI seeking to apply for asylum prior to January 1, 2030. No application for asylum may be filed pursuant to section 208 of the INA by an alien present or arriving in the CNMI prior to January 1, 2030; however, aliens physically present or arriving in the CNMI prior to January 1, 2030, may apply for withholding of removal under section 241(b)(3) of the Act and withholding and deferral of removal under the regulations implementing Article 3 of the United Nations Convention Against Torture, Inhuman or Degrading Treatment or Punishment.
 
-(B) Removal by DHS under paragraph (b)(1) of this section is equivalent in all respects and has the same consequences as removal after proceedings conducted under section 240 of the Act.
+(B) Removal by DHS under paragraph (q)(8)(ii)(A) of this section is equivalent in all respects and has the same consequences as removal after proceedings conducted under section 240 of the Act.
 
 (iii) *Removal of inadmissible aliens who arrived by air or sea.* Removal of an alien from Guam or the CNMI under this section may be effected using the return portion of the round trip passage presented by the alien at the time of entry to Guam and the CNMI. Such removal shall be on the first available means of transportation to the alien's point of embarkation to Guam or the CNMI. Nothing in this part absolves the carrier of the responsibility to remove any inadmissible or deportable alien at carrier expense, as provided in the carrier agreement.
+
+(9) *Electronic Travel Authorization*—(i) *Travel authorization required.* Each nonimmigrant alien intending to travel to Guam or the CNMI under the Guam-CNMI Visa Waiver Program on or after November 29, 2024, must, within the time specified in paragraph (q)(9)(ii) of this section, receive a travel authorization, which is a positive determination of eligibility to travel to the United States under the Guam-CNMI Visa Waiver Program, from CBP. In order to receive a travel authorization, each nonimmigrant alien intending to travel to Guam or the CNMI under the Guam-CNMI Visa Waiver Program must provide the data elements set forth in paragraph (q)(9)(iii) of this section to CBP, in English, in the manner specified herein. Prior to this date, travelers must either receive an electronic travel authorization pursuant to this subparagraph or provide the required information via a completed and signed paper Guam-CNMI Visa Waiver Information Form (CBP Form I-736) upon arrival.
+
+(ii) *Time.* Each alien falling within the provisions of paragraph (q)(9)(i) of this section must receive a travel authorization prior to embarking on a carrier for travel to Guam or the CNMI.
+
+(iii) *Required elements.* CBP will collect such information as the Secretary deems necessary to issue a travel authorization, as reflected by the electronic Guam-CNMI Visa Waiver Information Form (Form I-736).
+
+(iv) *Duration*—(A) *General rule.* A travel authorization issued under the Guam-CNMI Visa Waiver Program will be valid for a period of two years from the date of issuance, unless the passport of the authorized alien will expire in less than two years, in which case the authorization will be valid until the date of expiration of the passport.
+
+(B) *Exception.* For travelers from countries or geographic areas which have not entered into agreements with the United States whereby their passports are recognized as valid for the return of the bearer to the country or geographic area of the foreign-issuing authority for a period of six months beyond the expiration date specified in the passport, a travel authorization issued under the Guam-CNMI Visa Waiver Program is not valid beyond the six months prior to the expiration date of the passport. Travelers from these countries or geographic areas whose passports will expire in six months or less will not receive a travel authorization.
+
+(C) *Changes to the validity period.* The Secretary, in consultation with the Secretary of State, may increase or decrease the Guam-CNMI Visa Waiver Program travel authorization validity period otherwise authorized by subparagraph (A) for a designated Guam-CNMI Visa Waiver Program country or geographic area. Notice of any change to the Guam-CNMI Visa Waiver Program travel authorization validity periods will be published in the Federal Register. The Guam-CNMI Visa Waiver Program website will be updated to reflect the specific Guam-CNMI Visa Waiver Program travel authorization validity period for each Guam-CNMI Visa Waiver Program country or geographic area.
+
+(v) *New travel authorization required.* A new travel authorization is required if any of the following occurs:
+
+(A) The alien is issued a new passport;
+
+(B) The alien's name changes;
+
+(C) The alien's gender changes;
+
+(D) The alien's country of citizenship changes; or
+
+(E) The circumstances underlying the alien's previous responses to any of the Guam-CNMI Visa Waiver Information Form (Form I-736) questions requiring a “yes” or “no” response (eligibility questions) have changed.
+
+(vi) *Limitations*—(A) *Current authorization period.* A travel authorization under the Guam-CNMI Visa Waiver Program is a positive determination that an alien is eligible, and grants the alien permission, to travel to Guam or the CNMI under the Guam-CNMI Visa Waiver Program and to apply for admission under the Guam-CNMI Visa Waiver Program during the period of time the travel authorization is valid. A travel authorization under the Guam-CNMI Visa Waiver Program is not a determination that the alien is admissible to Guam, the CNMI, or the United States. A determination of admissibility is made only after an applicant for admission is inspected by a CBP officer at a U.S. port of entry in Guam or the CNMI.
+
+(B) *Not a determination of visa eligibility.* A determination under the Guam-CNMI Visa Waiver Program that an alien is not eligible to travel to Guam or the CNMI under the Guam-CNMI Visa Waiver Program is not a determination that the alien is ineligible for a visa to travel to Guam, the CNMI, or the United States and does not preclude the alien from applying for a visa before a United States consular officer.
+
+(C) *Revocation.* A determination under the Guam-CNMI Visa Waiver Program that an alien is eligible to travel to Guam or the CNMI to apply for admission under the Guam-CNMI Visa Waiver Program may be revoked at the discretion of the Secretary.
+
+(10) *Severability.* The provisions of paragraphs (q) and (r) of this section are separate and severable from one another. If any provision is stayed or determined to be invalid, the remaining provisions shall continue in effect.
+
+(r) *Aliens admissible under the Commonwealth of the Northern Mariana Islands (CNMI) Economic Vitality & Security Travel Authorization Program (EVS-TAP)*—(1) *Description.* In accordance with Public Law 110-229, the Secretary, in consultation with the Secretaries of the Departments of the Interior and State, may waive the visa requirement in the case of a nonimmigrant alien who seeks admission to Guam or the Commonwealth of the Northern Mariana Islands (CNMI). The requirements for the Guam-CNMI Visa Waiver program are set forth in paragraph (q) of this section. Also in accordance with Public Law 110-229 and the process provided therein, the Secretary may add countries to the list of those whose nationals may obtain a visa waiver, with any special requirements the Secretary may impose. The CNMI Economic Vitality & Security Travel Authorization Program (EVS-TAP) is a restricted travel authorization sub-program of the Guam-CNMI Visa Waiver Program that allows a nonimmigrant alien who is a national of the People's Republic of China (PRC) to be admitted to the CNMI only without a visa in specified circumstances. A visa is still required for a nonimmigrant alien who is a national of the PRC seeking to be admitted to Guam.
+
+(2) *Eligibility.* To be admissible under the CNMI EVS-TAP, prior to embarking on a carrier for travel to the CNMI, the nonimmigrant alien must:
+
+(i) Be a national of the PRC;
+
+(ii) Be classifiable as a visitor for business or pleasure;
+
+(iii) Be solely entering and staying on the CNMI for a period not to exceed 14 days;
+
+(iv) Be in possession of a round trip ticket that is nonrefundable and nontransferable and bears a confirmed departure date not exceeding 14 days from the date of admission to the CNMI. “Round trip ticket” includes any return trip transportation ticket issued by a participating carrier, electronic ticket record, airline employee passes indicating return passage, individual vouchers for return passage, group vouchers for return passage for charter flights, or military travel orders which include military dependents for return to duty stations outside the United States on U.S. military flights;
+
+(v) Receive an electronic travel authorization from CBP pursuant to paragraph (r)(9) of this section;
+
+(vi) Be in possession of a completed and signed I-94 (see § 1.4), Arrival-Departure Record (CBP Form I-94);
+
+(vii) Be in possession of a valid unexpired ICAO compliant, machine readable passport issued by the PRC;
+
+(viii) Have not previously violated the terms of any prior admissions or parole;
+
+(ix) Waive any right to review or appeal an immigration officer's determination of admissibility at the port of entry into the CNMI; and
+
+(x) Waive any right to contest any action for deportation or removal, other than on the basis of: an application for withholding of removal under section 241(b)(3) of the INA; withholding or deferral of removal under the regulations implementing Article 3 of the United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment; or, after December 31, 2029, an application for asylum if permitted under section 208 of the Act.
+
+(3) *Suspension or Discontinuation of Program.* (i) The Secretary may suspend the CNMI EVS-TAP for good cause including, but not limited to the following circumstances: (A) The admissions of visitors from the PRC have resulted in an unacceptable number of visitors from the PRC remaining unlawfully in the CNMI, unlawfully obtaining entry to other parts of the United States, or seeking withholding of removal or asylum; or (B) Visitors from the PRC pose a risk to law enforcement or security interests, including the enforcement of immigration laws of the CNMI or the United States.
+
+(ii) The Secretary, in consultation with the Secretary of the Interior and the Secretary of State, may also discontinue the CNMI EVS-TAP based on the evaluation of all factors the Secretary deems relevant including, but not limited to, electronic travel authorization, procedures for reporting lost and stolen passports, repatriation of aliens, rates of refusal for nonimmigrant visitor visas, overstays, exit systems, and information exchange.
+
+(4) *Ineligibility due to admission under the CNMI EVS-TAP.* Admission under this section renders an alien ineligible for:
+
+(i) Adjustment of status to that of a temporary resident or, except as provided by section 245(i) of the Act or as an immediate relative as defined in section 201(b) of the Act, to that of a lawful permanent resident.
+
+(ii) Change of nonimmigrant status; or
+
+(iii) Extension of stay.
+
+(5) *Requirements for transportation lines.* A transportation line bringing any alien to the CNMI pursuant to this section must:
+
+(i) Enter into a contract on CBP Form I-760, made by the Commissioner of U.S. Customs and Border Protection on behalf of the government;
+
+(ii) Transport an alien only if the alien is a national of the PRC and is in possession of a valid unexpired ICAO compliant, machine readable passport issued by the PRC;
+
+(iii) Transport an alien only if the alien is in possession of a round trip ticket as defined in paragraph (r)(2)(iv) of this section bearing a confirmed departure date not exceeding 14 days from the date of admission to the CNMI which the carrier will unconditionally honor when presented for return passage. This ticket must be:
+
+(A) Valid for a period of not less than one year,
+
+(B) Nonrefundable except in the country in which issued or in the country of the alien's nationality or residence, and
+
+(C) Issued by a carrier which has entered into an agreement described in paragraph (r)(5) of this section.
+
+(iv) Transport an alien only if the alien has received electronic travel authorization from CBP pursuant to paragraph (r)(9) of this section.
+
+(6) [Reserved]
+
+(7) *Maintenance of status*—*satisfactory departure.* If an emergency prevents an alien admitted under the CNMI EVS-TAP, as set forth in this paragraph (r), from departing from the CNMI within the alien's period of authorized stay, an immigration officer having jurisdiction over the place of the alien's temporary stay may, in the officer's discretion, grant a period of satisfactory departure not to exceed 15 days. If departure is accomplished during that period, the alien is to be regarded as having satisfactorily accomplished the visit without overstaying the allotted time.
+
+(8) *Inadmissibility and Deportability*—(i) *Determinations of inadmissibility.* (A) An alien who applies for admission under the provisions of the CNMI EVS-TAP, who is determined by an immigration officer to be inadmissible to the CNMI under one or more of the grounds of inadmissibility listed in section 212 of the Act (other than for lack of a visa), or who is in possession of and presents fraudulent or counterfeit travel documents, will be refused admission into the CNMI and removed. Such refusal and removal shall be effected without referral of the alien to an immigration judge for further inquiry, examination, or hearing. The provisions of 8 CFR subpart 208 subpart A shall not apply to an alien present or arriving in the CNMI seeking to apply for asylum prior to January 1, 2030. No application for asylum may be filed pursuant to section 208 of the Act by an alien present or arriving in the CNMI prior to January 1, 2030; however, aliens physically present in the CNMI during the transition period who express a fear of persecution or torture only may establish eligibility for withholding of removal pursuant to INA 241(b)(3) or pursuant to the regulations implementing Article 3 of the United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.
+
+(B) The removal of an alien under this section may be deferred if the alien is paroled into the custody of a Federal, State, or local law enforcement agency for criminal prosecution or punishment. This section in no way diminishes the discretionary authority of the Secretary enumerated in section 212(d) of the Act.
+
+(C) Refusal of admission under this paragraph shall not constitute removal for purposes of the Act.
+
+(ii) *Determination of deportability.* (A) An alien who has been admitted to the CNMI under the provisions of this section who is determined by an immigration officer to be deportable from the CNMI under one or more of the grounds of deportability listed in section 237 of the Act, shall be removed from the CNMI to the alien's country of nationality or last residence. Such removal will be determined by DHS authority that has jurisdiction over the place where the alien is found, and will be effected without referral of the alien to an immigration judge for a determination of deportability. The provisions of 8 CFR part 208 subpart A shall not apply to an alien present or arriving in the CNMI seeking to apply for asylum prior to January 1, 2030. No application for asylum may be filed pursuant to section 208 of the INA by an alien present or arriving in the CNMI prior to January 1, 2030; however, aliens physically present or arriving in the CNMI prior to January 1, 2030, may apply for withholding of removal under section 241(b)(3) of the Act and withholding and deferral of removal under the regulations implementing Article 3 of the United Nations Convention Against Torture, Inhuman or Degrading Treatment or Punishment.
+
+(B) Removal by DHS under paragraph (r)(8)(ii)(A) of this section is equivalent in all respects and has the same consequences as removal after proceedings conducted under section 240 of the Act.
+
+(iii) *Removal of inadmissible aliens who arrived by air or sea.* Removal of an alien from the CNMI under this section may be effected using the return portion of the round trip passage presented by the alien at the time of entry to the CNMI. Such removal shall be on the first available means of transportation to the alien's point of embarkation to the CNMI. Nothing in this part absolves the carrier of the responsibility to remove any inadmissible or deportable alien at carrier expense, as provided in the carrier agreement.
+
+(9) *Electronic Travel Authorization*—(i) *Travel authorization required.* Each nonimmigrant alien intending to travel to the CNMI under the CNMI EVS-TAP as described in paragraph (r)(1) of this section must, within the time specified in paragraph (r)(9)(ii) of this section, receive a travel authorization from CBP, which is a positive determination of eligibility to travel to the United States under the CNMI EVS-TAP. In order to receive a travel authorization, each nonimmigrant alien intending to travel to the CNMI under the CNMI EVS-TAP must provide the information set forth in paragraph (r)(9)(iii) of this section electronically to CBP, in English, in the manner specified herein.
+
+(ii) *Time.* Each alien falling within the provisions of paragraph (r)(9)(i) of this section must receive a travel authorization prior to embarking on a carrier for travel to the CNMI.
+
+(iii) *Required elements.* CBP will collect such information as the Secretary deems necessary to issue a travel authorization, as reflected by the electronic CNMI EVS-TAP application questions.
+
+(iv) *Duration*—(A) *General rule.* A travel authorization issued under the CNMI EVS-TAP will be valid for a period of one year from the date of issuance.
+
+(B) *Exceptions.* If the passport of the authorized alien will expire in less than one year but greater than six months, the authorization will be valid until six months prior to the expiration date of the passport. Travelers whose passports will expire in six months or less will not receive a travel authorization.
+
+(C) *Changes to the validity period.* The Secretary, in consultation with the Secretary of State, may increase or decrease the CNMI EVS-TAP travel authorization validity period otherwise authorized by paragraph (r)(9)(iv)(A) of this section. Notice of any change to the CNMI EVS-TAP travel authorization validity period will be published in the Federal Register. The CNMI EVS-TAP website will be updated to reflect the travel authorization validity period.
+
+(v) *New travel authorization required.* A new travel authorization is required if any of the following occurs:
+
+(A) The alien is issued a new passport;
+
+(B) The alien's name changes;
+
+(C) The alien's gender changes;
+
+(D) The alien's country of citizenship changes; or
+
+(E) The circumstances underlying the alien's previous responses to any of the CNMI EVS-TAP questions requiring a “yes” or “no” response (eligibility questions) have changed.
+
+(vi) *Limitations*—(A) *Current authorization period.* A travel authorization under the CNMI EVS-TAP is a positive determination that an alien is eligible, and grants the alien permission, to travel to the CNMI under the CNMI EVS-TAP and to apply for admission under the CNMI EVS-TAP during the period of time the travel authorization is valid. A travel authorization under the CNMI EVS-TAP is not a determination that the alien is admissible to the CNMI. A determination of admissibility is made only after an applicant for admission is inspected by a CBP officer at a U.S. port of entry in the CNMI.
+
+(B) *Not a determination of visa eligibility.* A determination under the CNMI EVS-TAP that an alien is not eligible to travel to the CNMI under the CNMI EVS-TAP is not a determination that the alien is ineligible for a visa to travel to the CNMI and does not preclude the alien from applying for a visa before a United States consular officer.
+
+(C) *Revocation.* A determination under the CNMI EVS-TAP that an alien is eligible to travel to the CNMI to apply for admission under the CNMI EVS-TAP may be revoked at the discretion of the Secretary.
+
+(10) *Severability.* The provisions of paragraphs (q) and (r) of this section are separate and severable from one another. If any provision is stayed or determined to be invalid, the remaining provisions shall continue in effect.
+
+(11) *Implementation date.* The requirements of this paragraph will take effect 45 days after the publication by the Secretary of notification in the Federal Register announcing the implementation of CNMI EVS-TAP.
 
 [26 FR 12066, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 212.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,15 @@
-##### § 75.614 Grantee must have operational funds. #####
+##### § 75.614 Preservation of historic sites. #####
 
-Link to an amendment published at 89 FR 70332, Aug. 29, 2024.
+(a) A grantee must describe the relationship of the proposed construction to, and probable effect on, any district, site, building, structure, or object that is—
 
-A grantee shall insure that, when construction is completed, sufficient funds will be available for effective operation and maintenance of the facilities.
+(1) Included in the National Register of Historic Places; or
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+(2) Eligible under criteria established by the Secretary of the Interior for inclusion in the National Register of Historic Places.
+
+(b) In deciding whether to approve a construction project, the Secretary considers—
+
+(1) The information provided by the grantee under paragraph (a) of this section; and
+
+(2) Any comments received by the Advisory Council on Historic Preservation (see 36 CFR part 800).
+
+[89 FR 70332, Aug. 29, 2024]

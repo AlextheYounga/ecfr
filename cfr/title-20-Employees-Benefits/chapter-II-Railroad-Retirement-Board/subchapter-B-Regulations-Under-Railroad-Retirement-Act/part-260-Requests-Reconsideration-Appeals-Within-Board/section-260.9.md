@@ -30,4 +30,4 @@
 
 (h) *Review of decisions rendered prior to appeal to Board.* The Board may, on its own motion, review or cause to be reviewed any decision issued by a subordinate official or employee under this part.
 
-(The information collection requirements contained in paragraph (b) were approved by the Office of Management and Budget under control number 3220-0007) [47 FR 36809, Aug. 24, 1982, as amended at 50 FR 19523, May 9, 1985; 52 FR 11017, Apr. 6, 1987; 67 FR 77155, Dec. 17, 2002; 68 FR 6820, Feb. 11, 2003]
+(The information collection requirements contained in paragraph (b) were approved by the Office of Management and Budget under control number 3220-0007)[47 FR 36809, Aug. 24, 1982, as amended at 50 FR 19523, May 9, 1985; 52 FR 11017, Apr. 6, 1987; 67 FR 77155, Dec. 17, 2002; 68 FR 6820, Feb. 11, 2003]

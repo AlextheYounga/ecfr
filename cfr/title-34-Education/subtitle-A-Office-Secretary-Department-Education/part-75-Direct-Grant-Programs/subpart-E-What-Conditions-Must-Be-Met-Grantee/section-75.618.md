@@ -1,7 +1,13 @@
-##### § 75.618 Charges for use of equipment or supplies. #####
+##### § 75.618 Safety and health standards. #####
 
-Link to an amendment published at 89 FR 70333, Aug. 29, 2024.
+In planning for and designing a construction project,
 
-A grantee may not charge students or school personnel for the ordinary use of equipment or supplies purchased with grant funds.
+(a) A grantee must comply with the following:
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+(1) The standards under the Occupational Safety and Health Act of 1970 (See 29 CFR part 1910).
+
+(2) State and local codes, to the extent that they are more stringent.
+
+(b) A grantee may use additional standards and best practices to support health and wellbeing of students and staff.
+
+[89 FR 70333, Aug. 29, 2024]

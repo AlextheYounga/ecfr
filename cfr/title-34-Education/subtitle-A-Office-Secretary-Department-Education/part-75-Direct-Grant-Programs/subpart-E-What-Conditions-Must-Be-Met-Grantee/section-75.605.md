@@ -1,9 +1,9 @@
-##### § 75.605 Beginning the construction. #####
+##### § 75.605 After the construction. #####
 
-Link to an amendment published at 89 FR 70332, Aug. 29, 2024.
+(a) A grantee must ensure that sufficient funds will be available for effective operation and maintenance of the facilities after the construction is complete.
 
-(a) A grantee shall begin work on construction within a reasonable time after the grant for the construction is made.
+(b) A grantee must operate and maintain the facilities in accordance with applicable Federal, State, and local requirements.
 
-(b) Before construction is advertised or placed on the market for bidding, the grantee shall get approval by the Secretary of the final working drawings and specifications.
+(c) A grantee must maintain all financial records, supporting documents, statistical records, and other non-Federal entity records pertinent to the construction project consistent with 2 CFR 200.334.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+[89 FR 70332, Aug. 29, 2024]

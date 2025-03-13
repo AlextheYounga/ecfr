@@ -1,5 +1,7 @@
 ##### § 5001.121 Eligible uses of loan funds. #####
 
+Link to an amendment published at 89 FR 79712, Sept. 30, 2024.
+
 Guaranteed loan funds can only be used for the items specified in this section. In addition, RD may allow a recipient of a loan guarantee under this Part to use up to 10 percent of project funds to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
 
 (a) *CF projects.* Guaranteed loan funds for an essential CF project receiving a loan guarantee under § 5001.1 may be used to pay the expenses identified in paragraphs (a)(1) through (3) of this section.

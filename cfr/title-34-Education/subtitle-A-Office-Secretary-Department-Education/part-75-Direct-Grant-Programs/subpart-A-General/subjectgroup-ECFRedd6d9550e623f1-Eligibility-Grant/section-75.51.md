@@ -1,8 +1,6 @@
 ##### § 75.51 How to prove nonprofit status. #####
 
-Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
-
-(a) Under some programs, an applicant must show that it is a nonprofit organization. (See the definition of *nonprofit* in 34 CFR 77.1.)
+(a) Under some programs, an applicant must show that it is a nonprofit organization.
 
 (b) An applicant may show that it is a nonprofit organization by any of the following means:
 
@@ -18,4 +16,4 @@ Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
 
 (4) Any item described in paragraphs (b)(1) through (3) of this section if that item applies to a State or national parent organization, together with a statement by the State or parent organization that the applicant is a local nonprofit affiliate.
 
-[45 FR 22497, Apr. 3, 1980, as amended at 85 FR 82126, Dec. 17, 2020; 89 FR 15702, Mar. 4, 2024]
+[45 FR 22497, Apr. 3, 1980, as amended at 85 FR 82126, Dec. 17, 2020; 89 FR 15702, Mar. 4, 2024; 89 FR 70320, Aug. 29, 2024]

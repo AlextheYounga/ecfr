@@ -1,5 +1,7 @@
 ##### § 5001.126 Borrower eligibility. #####
 
+Link to an amendment published at 89 FR 79714, Sept. 30, 2024.
+
 To be eligible for a loan guarantee under this part, a Borrower must meet the requirements specified in this section at the time of each guaranteed loan's approval and through issuance of the loan note guarantee. A borrower must meet the eligibility requirements specified in paragraph (a) of this section and in paragraphs (b) through (e), as applicable, of this section.
 
 (a) *Legal authority and responsibility.* The borrower must have, or obtain before issuance of the loan note guarantee, the legal authority necessary to construct, operate, and maintain the proposed Project and services and to obtain, give security for, and repay the proposed loan.

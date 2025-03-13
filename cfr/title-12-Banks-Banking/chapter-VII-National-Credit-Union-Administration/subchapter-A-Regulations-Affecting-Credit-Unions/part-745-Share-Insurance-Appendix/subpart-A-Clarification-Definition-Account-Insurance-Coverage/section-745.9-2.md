@@ -1,5 +1,7 @@
 ##### § 745.9-2 Retirement and other employee benefit plan accounts. #####
 
+Link to an amendment published at 89 FR 79415, Sept. 30, 2024.
+
 (a) *Pass-through share insurance.* Any shares of an employee benefit plan in an insured credit union shall be insured on a “pass-through” basis, in the amount of up to the SMSIA for the non-contingent interest of each plan participant, in accordance with § 745.2 of this part. An insured credit union that is not “well capitalized” or “adequately capitalized,” as those terms are defined in 12 U.S.C. 1790d(c), may not accept employee benefit plan deposits. The terms “employee benefit plan” and “pass-through share insurance” are given the same meaning in this section as in 12 U.S.C. 1787(k)(4).
 
 (b) *Treatment of contingent interests.* In the event that participants' interests in an employee benefit plan are not capable of evaluation in accordance with the provisions of this section, or an account established for any such plan includes amounts for future participants in the plan, payment by the NCUA with respect to all such interests shall not exceed the SMSIA in the aggregate.

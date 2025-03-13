@@ -8,4 +8,4 @@
 
 (d) The Department of Labor will maintain a publicly available list of agents and recruiters (including government registration numbers, if any) who are party to the agreements employers submit, as well as the persons and entities the employer identified as hired by or working for the recruiter and the locations in which they are operating.
 
-[89 FR 34063, Apr. 29, 2024] Processing of Applications for Temporary Employment Certification
+[89 FR 34063, Apr. 29, 2024]Processing of Applications for Temporary Employment Certification

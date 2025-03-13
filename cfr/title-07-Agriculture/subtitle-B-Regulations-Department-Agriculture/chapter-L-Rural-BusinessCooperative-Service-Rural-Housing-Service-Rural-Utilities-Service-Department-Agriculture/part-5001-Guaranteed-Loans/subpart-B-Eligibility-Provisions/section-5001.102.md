@@ -1,5 +1,7 @@
 ##### § 5001.102 Project eligibility—general. #####
 
+Link to an amendment published at 89 FR 79709, Sept. 30, 2024.
+
 To be eligible for a loan guarantee under this part, a project must meet the requirements specified in this section and those in the applicable section in §§ 5001.103 through 5001.108.
 
 (a) *Service area.* For projects with a defined service area, the boundaries for the proposed service area must be chosen in such a way that no user or area will be excluded because of race, color, religion, sex, marital status, age, disability, or national origin. This does not preclude financing or constructing:

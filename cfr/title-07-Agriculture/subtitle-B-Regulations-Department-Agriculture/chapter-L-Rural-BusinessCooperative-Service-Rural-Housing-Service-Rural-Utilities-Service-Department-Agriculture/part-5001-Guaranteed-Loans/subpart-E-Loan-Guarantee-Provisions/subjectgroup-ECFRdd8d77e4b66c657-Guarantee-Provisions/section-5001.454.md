@@ -1,5 +1,7 @@
 ##### § 5001.454 Guarantee fee. #####
 
+Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
+
 The guarantee fee is a one-time, non-refundable fee paid by the lender to the Agency at or before loan closing and is required to be paid before the Agency will issue the loan note guarantee. The lender may pass the guarantee fee on to the borrower.
 
 (a) *Guarantee fee calculation.* The one-time guarantee fee is calculated by multiplying the total loan amount by the percentage of guarantee by the guarantee fee rate, which may vary by program.

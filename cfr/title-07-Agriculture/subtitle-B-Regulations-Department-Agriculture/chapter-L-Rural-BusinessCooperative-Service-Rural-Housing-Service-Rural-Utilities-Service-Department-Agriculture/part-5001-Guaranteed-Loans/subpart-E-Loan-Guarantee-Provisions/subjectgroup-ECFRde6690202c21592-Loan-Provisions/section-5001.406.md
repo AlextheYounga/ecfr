@@ -1,5 +1,7 @@
 ##### § 5001.406 Guaranteed loan amounts. #####
 
+Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
+
 Applicable guaranteed loan amounts depend on the type of project and the source of its funding.
 
 (a) *CF projects.* The maximum amount of a CF guaranteed loan that may be made to a borrower, including the guaranteed and unguaranteed portions of any CF guaranteed loans, the outstanding principal and interest balance of any existing CF guaranteed loans, and any new CF guaranteed loan that is the subject of an application must not exceed $100 million.

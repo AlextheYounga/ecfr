@@ -1,12 +1,10 @@
 ##### § 75.62 Requirements applicable to entities making certain awards. #####
 
-Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
-
 (a) An entity that provides a fellowship, scholarship, or discretionary grant to an individual under a grant from, or an agreement with, the Secretary shall require the individual who applies for such an award to provide with his or her application a certification under the penalty of perjury—
 
 (1) That the individual is eligible under § 75.60; and
 
-(2) That the individual has not been debarred or suspended by a judge under section 5301 of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 853a).
+(2) That the individual has not been debarred or suspended by a judge under section 421 of the Controlled Substances Act (21 U.S.C. 862).
 
 (b) An entity subject to this section may not award a fellowship, scholarship, or discretionary grant to an individual if—
 
@@ -18,4 +16,4 @@ Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
 
 (d) The Secretary may require an entity subject to this section to provide a list of the individuals to whom fellowship, scholarship, or discretionary grant awards have been made or are proposed to be made by the entity.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+[57 FR 30337, July 8, 1992, as amended at 89 FR 70320, Aug. 29, 2024]

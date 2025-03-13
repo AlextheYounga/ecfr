@@ -1,0 +1,3 @@
+##### § 299.28 Continuation of a bypass. #####
+
+The Secretary continues a bypass until the Secretary determines, in consultation with the relevant agency, consortium, or entity and representatives of the affected private school children, teachers or other educational personnel, or families, that there will no longer be any failure or inability on the part of the agency, consortium, or entity to meet the requirements for providing services.

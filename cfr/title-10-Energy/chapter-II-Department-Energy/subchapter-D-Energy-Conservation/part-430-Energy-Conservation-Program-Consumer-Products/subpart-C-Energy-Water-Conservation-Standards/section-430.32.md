@@ -1053,16 +1053,17 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 
 (ii) Combination cooler refrigeration products manufactured on or after January 31, 2029, shall have an Annual Energy Use (AEU) no more than:
 
-|                                                                                                        Product class                                                                                                        | AEU  <br/>(kWh/yr) |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-|                                                                                  (A) C-3A. Cooler with all-refrigerator—automatic defrost                                                                                   |   4.11AV + 117.4   |
-|                                                                            (B) C-3A-BI. Built-in cooler with all-refrigerator—automatic defrost                                                                             |   4.67AV + 133.0   |
-|                                                          (C) C-5-BI. Built-in cooler with refrigerator-freezer with automatic defrost with bottom-mounted freezer                                                           |5.47AV + 196.2 + 28I|
-|                                                                  (D) C-9. Cooler with upright freezer with automatic defrost without an automatic icemaker                                                                  |5.58AV + 147.7 + 28I|
-|                                                            (E) C-9-BI. Built-in cooler with upright freezer with automatic defrost without an automatic icemaker                                                            |6.38AV + 168.8 + 28I|
-|                                                                              (F) C-13A. Compact cooler with all-refrigerator—automatic defrost                                                                              |   4.74AV + 155.0   |
-|                                                                        (G) C-13A-BI. Built-in compact cooler with all-refrigerator—automatic defrost                                                                        |   5.22AV + 170.5   |
-|**Note:** AV = Total adjusted volume, expressed in ft<sup>3</sup>, as determined in appendix A to subpart B of this part. I = 1 for a product with an automatic icemaker and = 0 for a product without an automatic icemaker.|                    |
+|                                                 Product class                                                 | AEU  <br/>(kWh/yr)  |
+|---------------------------------------------------------------------------------------------------------------|---------------------|
+|                             C-3A. Cooler with all-refrigerator—automatic defrost                              |   4.11AV + 117.4.   |
+|                       C-3A-BI. Built-in cooler with all-refrigerator—automatic defrost                        |   4.67AV + 133.0.   |
+|     C-5-BI. Built-in cooler with refrigerator-freezer with automatic defrost with bottom-mounted freezer      |5.47AV + 196.2 + 28I.|
+|                            C-9. Cooler with upright freezer with automatic defrost                            |5.58AV + 147.7 + 28I.|
+|                      C-9-BI. Built-in cooler with upright freezer with automatic defrost                      |6.38AV + 168.8 + 28I.|
+|                         C-13A. Compact cooler with all-refrigerator—automatic defrost                         |   4.74AV + 155.0.   |
+|                   C-13A-BI. Built-in compact cooler with all-refrigerator—automatic defrost                   |   5.22AV + 170.5.   |
+|AV = Total adjusted volume, expressed in ft<sup>3</sup>, as determined in appendix A to subpart B of this part.|                     |
+|      I = 1 for a product with an automatic icemaker and = 0 for a product without an automatic icemaker.      |                     |
 
 (bb) *Rough service lamps and vibration service lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, rough service lamps manufactured on or after January 25, 2018 must:
 

@@ -1,7 +1,5 @@
 ##### § 75.127 Eligible parties may apply as a group. #####
 
-Link to an amendment published at 89 FR 70321, Aug. 29, 2024.
-
 (a) Eligible parties may apply as a group for a grant.
 
 (b) Depending on the program under which a group of eligible parties seeks assistance, the term used to refer to the group may vary. The list that follows contains some of the terms used to identify a group of eligible parties:
@@ -10,8 +8,12 @@ Link to an amendment published at 89 FR 70321, Aug. 29, 2024.
 
 (2) Consortium.
 
-(3) Joint applicants.
+(3) Partnership.
 
-(4) Cooperative arrangements.
+(4) Joint applicants.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+(5) Cooperative arrangements.
+
+(c) In the case of a group application submitted in accordance with §§ 75.127 through 75.129, all parties in the group must be eligible applicants under the competition.
+
+[45 FR 22497, Apr. 3, 1980, as amended at 89 FR 70321, Aug. 29, 2024]

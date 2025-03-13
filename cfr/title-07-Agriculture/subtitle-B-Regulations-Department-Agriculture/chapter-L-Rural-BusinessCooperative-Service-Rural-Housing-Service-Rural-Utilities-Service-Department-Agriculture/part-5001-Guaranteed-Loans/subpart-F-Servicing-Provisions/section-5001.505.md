@@ -1,5 +1,7 @@
 ##### § 5001.505 Collateral inspection and release. #####
 
+Link to an amendment published at 89 FR 79727, Sept. 30, 2024.
+
 (a) *Inspection of collateral.* The lender must inspect the collateral as often as necessary to properly service the guaranteed Loan.
 
 (b) *Release of collateral.* The lender must provide written justification for the release and obtain Agency approval before releasing any collateral. The lender is not required to provide justification for the release of collateral when the loan is not in default or liquidation and the collateral being released is a working asset, such as accounts receivable, inventory, and work-in-progress, that are routinely depleted or sold and proceeds used for the normal course of business operations.

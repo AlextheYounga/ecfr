@@ -1,5 +1,7 @@
 ##### § 5001.204 Personal, partnership, and corporate guarantees. #####
 
+Link to an amendment published at 89 FR 79718, Sept. 30, 2024.
+
 The provisions of this section do not apply to passive investors.
 
 (a) Except as provided in paragraph (c) of this section, Agency-approved, unsecured personal, partnership, and corporate guarantees for the full term of the guaranteed loan and at least equal to the guarantor's percent interest or membership in the borrower times the guaranteed loan amount are required from any person or entity owning a 20-percent or greater interest or membership in the borrower. In the event a portion of the borrower's ownership interest stock is sold or transferred, the Agency reserves the right to require personal or corporate guarantees from the new owners of a 20-percent or more interest in the borrower.

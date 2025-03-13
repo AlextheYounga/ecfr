@@ -1,5 +1,7 @@
 ##### § 5001.306 Specific application requirements for B&I projects. #####
 
+Link to an amendment published at 89 FR 79721, Sept. 30, 2024.
+
 In addition to the requirements specified in § 5001.303, as applicable, a lender requesting a B&I loan guarantee must submit the information specified in paragraph (a) of this section if the guaranteed loan amount is more than $600,000, or in (b) of this section if the guaranteed loan amount is $600,000 or less.
 
 (a) *Applications requesting a guaranteed loan in an amount greater than $600,000.* (1) The Agency is required to submit project information to the United States Department of Labor for their concurrence if the proposed guaranteed loan is in excess of $1,000,000.00 and will increase direct employment by more than 50 employees. The lender must provide sufficient project and demographic information to the Agency for completion of a Department of Labor review.

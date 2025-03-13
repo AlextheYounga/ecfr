@@ -1,5 +1,7 @@
 ##### § 5001.127 Borrower ineligibility conditions. #####
 
+Link to an amendment published at 89 FR 79715, Sept. 30, 2024.
+
 A potential borrower is ineligible for a guaranteed loan under this part as identified in paragraphs (a) through (g) of this section. The borrower remains ineligible until the condition causing ineligibility is resolved.
 
 (a) An entity is ineligible if any of the conditions identified in paragraphs (a)(1) through (4) of this section applies to the borrower, any owner with more than 20 percent ownership interest in the borrower, or any owner with control of the borrower.

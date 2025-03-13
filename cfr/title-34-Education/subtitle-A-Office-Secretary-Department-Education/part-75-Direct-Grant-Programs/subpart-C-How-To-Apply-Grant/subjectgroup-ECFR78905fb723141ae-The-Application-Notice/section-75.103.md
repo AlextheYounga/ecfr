@@ -1,9 +1,7 @@
 ##### § 75.103 Deadline date for preapplications. #####
 
-Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
-
 (a) If the Secretary invites or requires preapplications under a program, the application notice for the program sets a deadline date for preapplications.
 
-(b) An applicant shall submit its preapplication in accordance with the procedures for applications in § 75.102(b) and (d).
+(b) An applicant shall submit its preapplication in accordance with the procedures for applications in § 75.102(d).
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+[57 FR 30337, July 8, 1992, as amended at 89 FR 70320, Aug. 29, 2024]

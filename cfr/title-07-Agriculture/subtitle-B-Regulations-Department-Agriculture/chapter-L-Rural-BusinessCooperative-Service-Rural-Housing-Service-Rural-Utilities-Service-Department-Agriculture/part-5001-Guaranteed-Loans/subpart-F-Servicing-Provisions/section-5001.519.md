@@ -1,5 +1,7 @@
 ##### § 5001.519 Bankruptcy. #####
 
+Link to an amendment published at 89 FR 79728, Sept. 30, 2024.
+
 (a) *Lender's responsibilities.* The lender is responsible for protecting the guaranteed loan and the collateral securing it in bankruptcy and any related appellate proceedings. These responsibilities include, but are not limited to, the following:
 
 (1) Taking actions that result in greater recoveries and avoiding actions that are likely not to be cost-effective;

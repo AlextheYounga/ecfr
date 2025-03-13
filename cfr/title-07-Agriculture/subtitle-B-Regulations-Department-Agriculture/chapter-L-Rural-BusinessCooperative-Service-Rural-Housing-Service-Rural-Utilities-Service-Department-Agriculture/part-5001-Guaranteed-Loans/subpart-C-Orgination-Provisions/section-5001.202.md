@@ -1,4 +1,6 @@
-##### § 5001.202 Lender's credit evaluation #####
+##### § 5001.202 Lender's credit evaluation. #####
+
+Link to an amendment published at 89 FR 79717, Sept. 30, 2024.
 
 For each application, the lender must prepare a credit evaluation that is consistent with Agency standards found in this part.
 

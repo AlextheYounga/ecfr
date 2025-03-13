@@ -1,5 +1,7 @@
 ##### § 5001.319 REAP project priority point system. #####
 
+Link to an amendment published at 89 FR 79722, Sept. 30, 2024.
+
 This section applies to REAP projects seeking a loan guarantee. On a periodic basis, the Agency will compete each complete and eligible RES, EEI, and EEE application that is ready to be funded and whose priority score, as determined in this section, meets or exceeds the minimum priority score. Applications that do not meet the applicable minimum score will be considered as provided in § 5001.315(c)(2). A maximum score of 90 points is possible.
 
 (a) *Environmental benefits.* The Agency will award up to 5 points under this criterion based on documentation in the application that the project will have a positive effect on resource conservation, public health, and the environment. If the project will have a positive impact on:

@@ -1,5 +1,7 @@
 ##### § 5001.205 General project monitoring requirements. #####
 
+Link to an amendment published at 89 FR 79718, Sept. 30, 2024.
+
 In complying with the requirements of this section, the lender may rely on written materials and other reports provided by an independent engineer and other qualified consultants.
 
 (a) *Design requirements.* The lender must ensure that all facilities constructed with guaranteed loan funds are:

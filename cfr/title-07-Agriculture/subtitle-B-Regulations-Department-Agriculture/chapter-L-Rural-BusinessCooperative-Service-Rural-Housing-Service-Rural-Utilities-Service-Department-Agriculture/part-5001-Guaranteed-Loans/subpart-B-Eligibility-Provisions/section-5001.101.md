@@ -1,5 +1,7 @@
 ##### § 5001.101 Introduction #####
 
+Link to an amendment published at 89 FR 79709, Sept. 30, 2024.
+
 This subpart addresses the eligibility provisions for projects, borrowers, and lenders. This subpart also includes provisions for projects involving the purchase of cooperative stock or cooperative equity, the conversion of businesses to cooperatives or Employee Stock Ownership Plans (ESOP), and New Markets Tax Credits (NMTC).
 
 (a) *Project eligibility.* Sections 5001.102 through 5001.108 identify requirements for projects to be eligible to receive a loan guarantee under this part. Section 5001.115 identifies types of projects that are not eligible for a loan guarantee under this part. The Agency will not issue a loan guarantee under this part for any project that does not meet the applicable eligibility criteria as specified.

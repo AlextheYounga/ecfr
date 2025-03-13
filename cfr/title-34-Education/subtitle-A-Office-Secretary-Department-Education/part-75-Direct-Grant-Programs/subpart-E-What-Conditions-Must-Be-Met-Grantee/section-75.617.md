@@ -1,7 +1,9 @@
-##### § 75.617 Compliance with the Coastal Barrier Resources Act. #####
+##### § 75.617 Access for individuals with disabilities. #####
 
-Link to an amendment published at 89 FR 70333, Aug. 29, 2024.
+A grantee must comply with the following Federal regulations on access by individuals with disabilities that apply to the construction of facilities:
 
-A recipient may not use, within the Coastal Barrier Resources System, funds made available under a program administered by the Secretary for any purpose prohibited by 31 U.S.C. chapter 55 (sections 3501-3510).
+(a) For residential facilities: 24 CFR part 40.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474, 31 U.S.C. 3504, 3505)[57 FR 30339, July 8, 1992]
+(b) For non-residential facilities: 41 CFR 102-76.60 to 102-76.95.
+
+[89 FR 70333, Aug. 29, 2024]

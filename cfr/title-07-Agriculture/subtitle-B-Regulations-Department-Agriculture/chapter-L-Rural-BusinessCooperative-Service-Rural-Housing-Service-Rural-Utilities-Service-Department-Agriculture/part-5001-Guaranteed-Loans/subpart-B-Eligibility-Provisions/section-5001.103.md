@@ -1,5 +1,7 @@
 ##### § 5001.103 Eligible CF projects and requirements. #####
 
+Link to an amendment published at 89 FR 79709, Sept. 30, 2024.
+
 For a CF projects to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102 and this section and be for a borrower eligible to submit an application for the project in accordance with § 5001.126.
 
 (a) *Type of project.* The project must be for the construction, enlargement, extension, or to otherwise improve an essential community facility. Essential community facilities include, but are not limited to:

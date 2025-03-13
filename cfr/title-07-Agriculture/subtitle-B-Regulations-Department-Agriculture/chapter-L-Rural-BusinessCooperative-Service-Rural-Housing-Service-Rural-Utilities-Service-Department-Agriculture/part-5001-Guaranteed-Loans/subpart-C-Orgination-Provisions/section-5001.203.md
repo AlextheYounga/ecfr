@@ -1,5 +1,7 @@
 ##### § 5001.203 Appraisals. #####
 
+Link to an amendment published at 89 FR 79718, Sept. 30, 2024.
+
 Appraisals of collateral are required as set forth in this section. The lender is responsible for ensuring that appraisal values adequately reflect the actual value of the collateral based on an arm's length transaction. Completed appraisals should be submitted when the application is filed. If the appraisal has not been completed when the application is filed, the lender must submit an estimated appraised value. Prior to the issuance of the loan note guarantee, the estimated value must be supported with an appraisal acceptable to the agency.
 
 (a) *Newly-acquired chattel.* A bill of sale may be submitted to support the value of newly-acquired chattel.

@@ -1,5 +1,7 @@
 ##### § 745.3 Single ownership accounts. #####
 
+Link to an amendment published at 89 FR 79415, Sept. 30, 2024.
+
 (a) Funds owned by an individual and deposited in the manner set forth below shall be added together and insured up to the SMSIA in the aggregate.
 
 (1) *Individual accounts.* Funds owned by an individual (or by the husband-wife community of which the individual is a member) and deposited in one or more accounts in the individual's own name shall be insured up to the SMSIA in the aggregate.

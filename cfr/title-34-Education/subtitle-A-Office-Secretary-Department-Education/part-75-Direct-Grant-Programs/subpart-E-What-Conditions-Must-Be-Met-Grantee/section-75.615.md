@@ -1,7 +1,5 @@
-##### § 75.615 Operation and maintenance by the grantee. #####
+##### § 75.615 Build America, Buy America Act. #####
 
-Link to an amendment published at 89 FR 70333, Aug. 29, 2024.
+A grantee must comply with the requirements of the Build America, Buy America Act, Pub. L. 117-58, § 70901 through 70927 and implementing regulations, as applicable.
 
-A grantee shall operate and maintain the facilities in accordance with applicable Federal, State, and local requirements.
-
-(Authority: 20 U.S.C. 1221e-3 and 3474)
+[89 FR 70333, Aug. 29, 2024]

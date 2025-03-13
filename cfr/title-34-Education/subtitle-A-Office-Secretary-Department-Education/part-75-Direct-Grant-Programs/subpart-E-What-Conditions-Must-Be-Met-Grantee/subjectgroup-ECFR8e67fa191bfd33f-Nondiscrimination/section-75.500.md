@@ -1,15 +1,13 @@
 ##### § 75.500 Constitutional rights, freedom of inquiry, and Federal statutes and regulations on nondiscrimination. #####
 
-Link to an amendment published at 89 FR 70329, Aug. 29, 2024.
+(a) Each grantee must comply with the following statutes and regulations:
 
-(a) Each grantee shall comply with the following statutes and regulations:
-
-|                           Subject                            |                                 Statute                                  |   Regulation   |
-|--------------------------------------------------------------|--------------------------------------------------------------------------|----------------|
-|Discrimination on the basis of race, color, or national origin|Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d through 2000d-4)|34 CFR part 100.|
-|              Discrimination on the basis of sex              |    Title IX of the Education Amendments of 1972 (20 U.S.C. 1681-1683)    |34 CFR part 106.|
-|           Discrimination on the basis of handicap            |      Section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794)       |34 CFR part 104.|
-|             Discrimination on the basis of age.              |           The Age Discrimination Act (42 U.S.C. 6101 et seq.)            |34 CFR part 110.|
+|                           Subject                            |                               Statute                               |  Regulations   |
+|--------------------------------------------------------------|---------------------------------------------------------------------|----------------|
+|Discrimination on the basis of race, color, or national origin| Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.)  |34 CFR part 100.|
+|          Discrimination on the basis of disability           |    Section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794)    |34 CFR part 104.|
+|              Discrimination on the basis of sex              |Title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.)|34 CFR part 106.|
+|              Discrimination on the basis of age              |       Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.)       |34 CFR part 110.|
 
 (b)(1) Each grantee that is an institution of higher education, as defined in 20 U.S.C. 1002(a), that is public and that is legally required to abide by the First Amendment to the U.S. Constitution (hereinafter “public institution”), must also comply with the First Amendment to the U.S. Constitution, including protections for freedom of speech, association, press, religion, assembly, petition, and academic freedom, as a material condition of the Department's grant. The Department will determine that a public institution has not complied with the First Amendment only if there is a final, non-default judgment by a State or Federal court that the public institution or an employee of the public institution, acting in his or her official capacity, violated the First Amendment. A final judgment is a judgment that the public institution chooses not to appeal or that is not subject to further appeal. Absent such a final, non-default judgment, the Department will deem the public institution to be in compliance with the First Amendment.
 
@@ -23,4 +21,4 @@ Link to an amendment published at 89 FR 70329, Aug. 29, 2024.
 
 (e) A grantee that is a covered entity as defined in 34 CFR 108.3 shall comply with the nondiscrimination requirements of the Boy Scouts of America Equal Access Act, 20 U.S.C. 7905, 34 CFR part 108.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)[85 FR 59978, Sept. 23, 2020]
+(Authority: 20 U.S.C. 1221e-3 and 3474)[85 FR 59978, Sept. 23, 2020, as amended at 89 FR 70329, Aug. 29, 2024]

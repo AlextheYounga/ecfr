@@ -1,5 +1,7 @@
 ##### § 5001.303 Applications for loan guarantee. #####
 
+Link to an amendment published at 89 FR 79720, Sept. 30, 2024.
+
 The Agency will accept applications on a continuous basis. For each loan guarantee request, the lender must submit to the Agency a complete application that is in conformance with this section, and §§ 5001.304 through 5001.307, as applicable.
 
 (a) *Complete applications.* Lenders must submit complete applications in order to be considered for loan guarantees. Lenders are encouraged to submit a complete application in a single package; however, the Agency may accept the environmental information required by the Agency and initiate and complete its environmental reviews in advance of receiving a complete application. If an application is incomplete, the Agency will notify the lender in writing of the items necessary to address the incomplete application. Upon receipt of a complete application, the Agency will complete its evaluation.
