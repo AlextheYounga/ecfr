@@ -80,7 +80,7 @@ This compartment is not to be used as a storage area. Storage of combustible mat
 
 (iv) The fireplace or fireplace stove shall not be installed in a sleeping room.
 
-(v) Hearth extension shall be of noncombustible material not less than3/8-inch thick. The hearth shall extend at least 16 inches in front or and at least 8 inches beyond each side of the fireplace or fireplace stove opening. Furthermore the hearth shall extend over the entire surface beneath a fireplace stove and beneath an elevated or overhanging fireplace.
+(v) Hearth extension shall be of noncombustible material not less than 3/8-inch thick. The hearth shall extend at least 16 inches in front or and at least 8 inches beyond each side of the fireplace or fireplace stove opening. Furthermore the hearth shall extend over the entire surface beneath a fireplace stove and beneath an elevated or overhanging fireplace.
 
 (vi) The label on each solid fuel-burning fireplace and solid fuel-burning fireplace stove shall include the following wording: For use with solid fuel only.
 

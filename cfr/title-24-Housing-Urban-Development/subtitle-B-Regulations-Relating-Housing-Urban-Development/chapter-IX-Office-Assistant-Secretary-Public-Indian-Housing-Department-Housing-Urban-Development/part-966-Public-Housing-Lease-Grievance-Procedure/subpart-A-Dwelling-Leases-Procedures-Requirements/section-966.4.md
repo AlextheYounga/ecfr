@@ -116,8 +116,7 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (11) To act, and cause household members or guests to act, in a manner which will not disturb other residents' peaceful enjoyment of their accommodations and will be conducive to maintaining the project in a decent, safe and sanitary condition;
 
-(12)
-(i) To assure that no tenant, member of the tenant's household, or guest engages in:
+(12) (i) To assure that no tenant, member of the tenant's household, or guest engages in:
 
 (A) *Criminal activity.* (*1*) Any criminal activity that threatens the health, safety or right to peaceful enjoyment of the premises by other residents;
 

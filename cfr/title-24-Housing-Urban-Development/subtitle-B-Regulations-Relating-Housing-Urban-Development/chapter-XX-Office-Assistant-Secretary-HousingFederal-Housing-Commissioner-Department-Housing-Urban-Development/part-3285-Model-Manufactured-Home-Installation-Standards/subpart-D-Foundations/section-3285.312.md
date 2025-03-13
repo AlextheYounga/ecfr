@@ -10,7 +10,7 @@
 
 (2) *Pressure-treated wood.*
 
-(i) Pressure-treated wood footings must consist of a minimum of two layers of nominal 2-inch thick pressure-treated wood, a single layer of nominal3/4-inch thick, pressure-treated plywood with a maximum size of 16 inches by 16 inches, or at least two layers of3/4-inch thick, pressure-treated plywood for sizes greater than 16 inches by 16 inches. Plywood used for this purpose is to be rated exposure 1 or exterior sheathing, in accordance with PS1-95, Construction and Industrial Plywood (incorporated by reference, see § 3285.4).
+(i) Pressure-treated wood footings must consist of a minimum of two layers of nominal 2-inch thick pressure-treated wood, a single layer of nominal 3/4-inch thick, pressure-treated plywood with a maximum size of 16 inches by 16 inches, or at least two layers of 3/4-inch thick, pressure-treated plywood for sizes greater than 16 inches by 16 inches. Plywood used for this purpose is to be rated exposure 1 or exterior sheathing, in accordance with PS1-95, Construction and Industrial Plywood (incorporated by reference, see § 3285.4).
 
 (ii) Pressure treated lumber is to be treated with a water-borne adhesive, in accordance with AWPA Standard U1-04 (incorporated by reference, see § 3285.4) for Use Category 4B ground contact applications.
 

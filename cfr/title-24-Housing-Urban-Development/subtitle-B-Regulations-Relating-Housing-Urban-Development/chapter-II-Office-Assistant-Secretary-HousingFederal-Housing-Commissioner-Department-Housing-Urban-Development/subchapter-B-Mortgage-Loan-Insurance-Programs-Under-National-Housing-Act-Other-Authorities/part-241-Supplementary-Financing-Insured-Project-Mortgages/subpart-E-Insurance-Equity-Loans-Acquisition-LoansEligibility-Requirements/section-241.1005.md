@@ -2,7 +2,7 @@
 
 (a) All of the definitions of § 241.1 apply to equity and acquisition loans insured under subpart E of this part except the following definitions:
 
-§ 241.1(i)—Borrower;§ 241.1(k)—Energy conserving improvements;§ 241.1(1)—Solar energy system.
+§ 241.1(i)—Borrower; § 241.1(k)—Energy conserving improvements; § 241.1(1)—Solar energy system.
 
 (b) As used in subpart E of this part, the following terms have the meaning indicated:
 

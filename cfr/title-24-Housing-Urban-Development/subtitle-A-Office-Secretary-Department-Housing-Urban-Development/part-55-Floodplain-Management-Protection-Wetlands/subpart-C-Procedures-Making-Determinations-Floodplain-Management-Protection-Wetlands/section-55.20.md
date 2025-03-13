@@ -132,8 +132,7 @@ Except for actions covered by § 55.14, the decision making process for complian
 
 (iii) If the proposed activity is located in or affects a community with environmental justice concerns, the reevaluation must address public input provided during environmental justice outreach, if conducted, and must document the ways in which the activity, in light of information analyzed, mitigation measures applied, and alternatives selected, serves to reduce any historical environmental disparities related to flood risk or wetlands impacts in the community.
 
-(g) *Step 7.* (1)
-If the reevaluation results in a determination that there is no practicable alternative to locating the proposal in the FFRMS floodplain or the wetland, publish a final notice that includes:
+(g) *Step 7.* (1) If the reevaluation results in a determination that there is no practicable alternative to locating the proposal in the FFRMS floodplain or the wetland, publish a final notice that includes:
 
 (i) The reasons why the proposal must be located in the floodplain or wetland;
 

@@ -104,7 +104,7 @@ Each laboratory shall notify the administrator of any change in its submission r
 
 (4) *Subcontractors.* If a testing laboratory plans to subcontract any of its testing to other laboratories, only approved laboratories acceptable to the administrator shall be used.
 
-(5) *Laboratory quality control.* The laboratory shall develop operating quality control procedures acceptable to the administrator. The procedures of the American Council of Independent Laboratories1 may be used as a guideline.
+(5) *Laboratory quality control.* The laboratory shall develop operating quality control procedures acceptable to the administrator. The procedures of the American Council of Independent Laboratories 1 may be used as a guideline.
 
 1 Copies are available from the American Council of Independent Laboratories, Inc., 1725 “K” Street, NW., Washington, DC 20006.
 

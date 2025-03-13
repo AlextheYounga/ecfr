@@ -1,5 +1,7 @@
 ##### § 203.604 Contact with the mortgagor. #####
 
+Link to an amendment published at 89 FR 63098, Aug. 2, 2024.
+
 (a) [Reserved]
 
 (b) The mortgagee must have a face-to-face interview with the mortgagor, or make a reasonable effort to arrange such a meeting, before three full monthly installments due on the mortgage are unpaid. If default occurs in a repayment plan arranged other than during a personal interview, the mortgagee must have a face-to-face meeting with the mortgagor, or make a reasonable attempt to arrange such a meeting within 30 days after such default and at least 30 days before foreclosure is commenced, or at least 30 days before assignment is requested if the mortgage is insured on Hawaiian home land pursuant to section 247 or Indian land pursuant to section 248 or if assignment is requested under § 203.350(d) for mortgages authorized by section 203(q) of the National Housing Act.

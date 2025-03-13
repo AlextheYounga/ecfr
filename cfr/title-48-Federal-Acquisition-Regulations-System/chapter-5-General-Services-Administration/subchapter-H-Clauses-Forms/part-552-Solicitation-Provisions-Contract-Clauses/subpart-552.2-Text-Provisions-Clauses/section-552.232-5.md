@@ -1,8 +1,6 @@
 ##### 552.232-5 Payments under Fixed-Price Construction Contracts. #####
 
-Link to an amendment published at 89 FR 55088, July 3, 2024.
-
-As prescribed in 552.111(b), insert the following clause:
+As prescribed in 532.111, insert the following clause:
 
 Payments Under Fixed-Price Construction Contracts (MAR 2019)
 
@@ -20,4 +18,4 @@ FAR 52.232-5, Payments under Fixed-Price Construction Contracts, is supplemented
 
 (f) GSA will not be obligated to issue final payment unless the Contractor has furnished to the Contracting Officer a release of claims against the Government relating to the contract, and submitted all required product warranties, as-built drawings, operating manuals, and other items as specified in the contract. The Contractor may reserve from the release specific claims only if such claims are explicitly identified with stated claim amounts.
 
-(End of clause)[84 FR 3719, Feb. 13, 2019, as amended at 86 FR 55524, Oct. 6, 2021]
+(End of clause)[84 FR 3719, Feb. 13, 2019, as amended at 86 FR 55524, Oct. 6, 2021; 89 FR 55088, July 3, 2024]

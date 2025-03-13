@@ -36,7 +36,7 @@ In planning the use of these funds, the LHA shall recognize that for a number of
 
 (*a*) Counseling and training during development phase:
 
-SalariesMaterials, supplies and expendable equipmentContract costsOther costs
+Salaries Materials, supplies and expendable equipment Contract costs Other costs
 
 (*b*) Establishment and initial operation of HBA
 

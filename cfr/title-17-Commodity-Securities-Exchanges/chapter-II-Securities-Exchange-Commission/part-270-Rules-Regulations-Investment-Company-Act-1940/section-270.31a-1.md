@@ -1,7 +1,5 @@
 ##### § 270.31a-1 Records to be maintained by registered investment companies, certain majority-owned subsidiaries thereof, and other persons having transactions with registered investment companies. #####
 
-Link to an amendment published at 89 FR 47789, June 3, 2024.
-
 (a) Every registered investment company, and every underwriter, broker, dealer, or investment adviser which is a majority-owned subsidiary of such a company, shall maintain and keep current the accounts, books, and other documents relating to its business which constitute the record forming the basis for financial statements required to be filed pursuant to section 30 of the Investment Company Act of 1940 and of the auditor's certificates relating thereto.
 
 (b) Every registered investment company shall maintain and keep current the following books, accounts, and other documents:
@@ -54,6 +52,18 @@ Instruction.
 
 (12) The term “other records” as used in the expressions “journals (or other records of original entry)” and “ledger accounts (or other records)” shall be construed to include, where appropriate, copies of voucher checks, confirmations, or similar documents which reflect the information required by the applicable rule or rules in appropriate sequence and in permanent form, including similar records developed by the use of automatic data processing systems.
 
+(13)(i) The written policies and procedures required to be adopted and implemented pursuant to § 248.30(a)(1);
+
+(ii) The written documentation of any detected unauthorized access to or use of customer information, as well as any response to, and recovery from such unauthorized access to or use of customer information required by § 248.30(a)(3);
+
+(iii) The written documentation of any investigation and determination made regarding whether notification is required pursuant to § 248.30(a)(4), including the basis for any determination made, any written documentation from the United States Attorney General related to a delay in notice, as well as a copy of any notice transmitted following such determination;
+
+(iv) The written policies and procedures required to be adopted and implemented pursuant to § 248.30(a)(5)(i);
+
+(v) The written documentation of any contract or agreement entered into pursuant to § 248.30(a)(5); and
+
+(vi) The written policies and procedures required to be adopted and implemented pursuant to § 248.30(b)(2).
+
 (c) Every underwriter, broker, or dealer which is a majority-owned subsidiary of a registered investment company shall maintain in the form prescribed therein such accounts, books and other documents as are required to be maintained by brokers and dealers by rule adopted under section 17 of the Securities Exchange Act of 1934.
 
 (d) Every depositer of any registered investment company, and every principal underwriter for any registered investment company other than a closed-end investment company, shall maintain such accounts, books and other documents as are required to be maintained by brokers and dealers by rule adopted under section 17 of the Securities Exchange Act of 1934, to the extent such records are necessary or appropriate to record such person's transactions with such registered investment company.
@@ -62,4 +72,4 @@ Instruction.
 
 (f) Every investment adviser not a majority-owned subsidiary of a registered investment company shall maintain such accounts, books and other documents as are required to be maintained by registered investment advisers by rule adopted under section 204 of the Investment Advisers Act of 1940, to the extent such records are necessary or appropriate to record such person's transactions with such registered investment company.
 
-(Sec. 31, 54 Stat. 838; 15 U.S.C. 80a-30)[27 FR 11993, Dec. 5, 1962, as amended at 61 FR 13983, Mar. 28, 1996; 62 FR 64986, Dec. 9, 1997; 79 FR 47968, Aug. 14, 2014; 80 FR 58155, Sept. 25, 2015]
+(Sec. 31, 54 Stat. 838; 15 U.S.C. 80a-30)[27 FR 11993, Dec. 5, 1962, as amended at 61 FR 13983, Mar. 28, 1996; 62 FR 64986, Dec. 9, 1997; 79 FR 47968, Aug. 14, 2014; 80 FR 58155, Sept. 25, 2015; 89 FR 47789, June 3, 2024]

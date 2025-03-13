@@ -126,7 +126,7 @@ Infiltration Heat-Loss = 0.7 (T) (ft. of perimeter), BTU/hr.where: T = 70 minus 
 
 (e) *Air supply ducts within ceiling cavity.* Where supply ducts are located in ceiling cavities, the influence of the duct on cavity temperatures shall be considered in calculating envelope heat loss or heat gain.
 
-(f) The supply duct loss (and/or heat gain where applicable—See § 3280.511) shall be calculated using the actual duct surface area and the actual thickness of insulation between the duct and outside of the manufactured home. If there is an air space of at least1/2 inch between the duct and the insulation, heat loss/gain need not be calculated if the cavity in which the duct is located is assumed to be at living space temperature. The average temperature inside the supply duct, including ducts installed outside the manufactured home, shall be assumed to be 130 F for purposes of calculation of heat loss and 60 F for heat gain.
+(f) The supply duct loss (and/or heat gain where applicable—See § 3280.511) shall be calculated using the actual duct surface area and the actual thickness of insulation between the duct and outside of the manufactured home. If there is an air space of at least 1/2 inch between the duct and the insulation, heat loss/gain need not be calculated if the cavity in which the duct is located is assumed to be at living space temperature. The average temperature inside the supply duct, including ducts installed outside the manufactured home, shall be assumed to be 130 F for purposes of calculation of heat loss and 60 F for heat gain.
 
 (g) *Return air cavities.* Cavities used as return air plenums shall be considered to be at living space temperature.
 

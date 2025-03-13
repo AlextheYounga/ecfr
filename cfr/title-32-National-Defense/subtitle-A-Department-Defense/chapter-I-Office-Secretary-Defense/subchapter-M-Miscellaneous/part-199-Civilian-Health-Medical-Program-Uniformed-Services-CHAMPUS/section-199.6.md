@@ -1,7 +1,5 @@
 ##### § 199.6 TRICARE—authorized providers. #####
 
-Link to an amendment published at 89 FR 45767, May 24, 2024.
-
 (a) *General.* This section sets forth general policies and procedures that are the basis for the CHAMPUS cost-sharing of medical services and supplies provided by institutions, individuals, or other types of providers. Providers seeking payment from the Federal Government through programs such as CHAMPUS have a duty to familiarize themselves with, and comply with, the program requirements.
 
 (1) *Listing of provider does not guarantee payment of benefits.* The fact that a type of provider is listed in this section is not to be construed to mean that CHAMPUS will automatically pay a claim for services or supplies provided by such a provider. The provider who actually furnishes the service(s) must, in fact, meet all licensing and other requirements established by this part to be an authorized provider; the provider must not be the subject of sanction under § 199.9; and, cost-sharing of the services must not otherwise be prohibited by this part. In addition, the patient must in fact be an eligible beneficiary and the services or supplies billed must be authorized and medically necessary, regardless of the standing of the provider.
@@ -155,10 +153,6 @@ Only the Secretary of Defense, the Secretary of Health and Human Services, or th
 (H) Has in effect an operating plan and budget.
 
 (I) Is accredited by the JCAH or meets such other requirements as the Secretary of Health and Human Services, the Secretary of Transportation, or the Secretary of Defense finds necessary in the interest of the health and safety of patients who are admitted to and furnished services in the institution.
-
-Note to paragraph (b)(4)(i)(I):
-
-For the duration of Medicare's “Hospitals Without Walls” initiative for the coronavirus disease 2019 (COVID-19) outbreak, any entity that temporarily enrolls with Medicare as a hospital may be temporarily exempt from certain institutional requirements for acute care hospitals under TRICARE. To the extent practicable, the Director, Defense Health Agency (DHA), will adopt by administrative policy any process requirement related to Medicare's Hospitals Without Walls initiative.
 
 (ii) *Organ transplant centers.* To obtain TRICARE approval as an organ transplant center, the center must be a Medicare approved transplant center or meet the criteria as established by the Executive Director, TMA, or a designee.
 
@@ -744,7 +738,7 @@ An infirmary in a boarding school also may qualify under this provision, subject
 
 (v) *Training status exclusion.* Individual health care professionals who are allowed to render health care services only under direct and ongoing supervision as training to be credited towards earning a clinical academic degree or other clinical credential required for the individual to practice independently are excluded from provider status as established by this paragraph (c) for the duration of such training.
 
-(2) *Conditions of authorization*—(i) *Professional license requirement.* The individual must be currently licensed to render professional health care services in each state in which the individual renders services to CHAMPUS beneficiaries. Such license is required when a specific state provides, but does not require, license for a specific category of individual professional provider. The license must be at full clinical practice level to meet this requirement. A temporary license at the full clinical practice level is acceptable. During the period of national emergency for the global coronavirus 2019 (COVID-19) pandemic, a license is not required in the United States for each state in which the provider practices, so long as the provider holds an equivalent license in another state, the state in which the provider is practicing permits such practice under its interstate licensing requirements or the state licensing requirements have been preempted by Federal law, and the provider is not affirmatively barred or restricted from practicing in any state. During the COVID-19 pandemic, providers overseas are not required to be licensed in each nation in which the provider operates, so long as the provider holds an equivalent license in another nation, the host nation permits such practice under its licensing requirements, and the provider is not on the Department of Health and Human Services sanction list.
+(2) *Conditions of authorization*—(i) *Professional license requirement.* The individual must be currently licensed to render professional health care services in each state in which the individual renders services to CHAMPUS beneficiaries. Such license is required when a specific state provides, but does not require, license for a specific category of individual professional provider. The license must be at full clinical practice level to meet this requirement. A temporary license at the full clinical practice level is acceptable.
 
 (ii) *Professional certification requirement.* When a state does not license a specific category of individual professional, certification by a Qualified Accreditation Organization, as defined in § 199.2, is required. Certification must be at full clinical practice level. A temporary certification at the full clinical practice level is acceptable.
 

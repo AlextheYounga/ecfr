@@ -6,23 +6,23 @@
 
 (i) .035-inch or thicker high pressure laminated plastic panel countertop;
 
-(ii)1/4-inch or thicker unfinished plywood with phenolic or urea glue;
+(ii) 1/4-inch or thicker unfinished plywood with phenolic or urea glue;
 
 (iii) Unfinished dimension lumber (1-inch or thicker nominal boards);
 
-(iv)3/8-inch or thicker unfinished particleboard with phenolic or urea binder;
+(iv) 3/8-inch or thicker unfinished particleboard with phenolic or urea binder;
 
 (v) Natural gum-varnished or latex- or alkyd-painted:
 
-(A)1/4-inch or thicker plywood, or
+(A) 1/4-inch or thicker plywood, or
 
-(B)3/8-inch or thicker particleboard, or
+(B) 3/8-inch or thicker particleboard, or
 
 (C) 1-inch or thicker nominal board;
 
-(vi)5/16-inch gypsum board with decorative wallpaper; and
+(vi) 5/16-inch gypsum board with decorative wallpaper; and
 
-(vii)1/4-inch or thicker unfinished hardboard,
+(vii) 1/4-inch or thicker unfinished hardboard,
 
 (2) Flame-spread rating-25 to 200,
 
@@ -30,7 +30,7 @@
 
 (ii) Mineral-base acoustic tile;
 
-(iii)5/16-inch or thicker unfinished gypsum wallboard (both latex- or alkyd-painted); and
+(iii) 5/16-inch or thicker unfinished gypsum wallboard (both latex- or alkyd-painted); and
 
 (iv) Ceramic tile.
 
@@ -52,7 +52,7 @@
 
 (c) Fire protective requirements.
 
-(1) Materials used to surface the following areas shall be of limited combustible material (e.g.,5/16-inch gypsum board, etc.):
+(1) Materials used to surface the following areas shall be of limited combustible material (e.g., 5/16-inch gypsum board, etc.):
 
 (i) The exposed wall adjacent to the cooking range (see § 3280.203(b)(4));
 

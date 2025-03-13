@@ -16,8 +16,8 @@
 
 (1) The average per unit hard costs of rehabilitation for the assisted units is calculated using the following formula:
 
-Per Unit Hard Costs of Rehabilitation $ = (a/c) + (b/d)Where:a = Rehabilitation hard costs for all assisted units (not including common areas and exterior surfaces)b = Rehabilitation hard costs for common areas and exterior painted surfacesc = Number of federally assisted unitsd = Total number of units
+Per Unit Hard Costs of Rehabilitation $ = (a/c) + (b/d) Where: a = Rehabilitation hard costs for all assisted units (not including common areas and exterior surfaces) b = Rehabilitation hard costs for common areas and exterior painted surfaces c = Number of federally assisted units d = Total number of units
 
 (2) The average Federal assistance per assisted dwelling unit is calculated using the following formula:
 
-Per unit Federal assistance = e/cWhere:e = Total Federal assistance for the projectc = Number of federally assisted units[69 FR 34272, June 21, 2004]
+Per unit Federal assistance = e/cWhere: e = Total Federal assistance for the project c = Number of federally assisted units[69 FR 34272, June 21, 2004]

@@ -4,7 +4,7 @@
 
 (2) *Hot water supply.* Each manufactured home equipped with a kitchen sink, and bathtub and/or shower shall be provided with a hot water supply system including a listed water heater.
 
-(b) *Water outlets and supply connections*—(1) *Water connection.* Each manufactured home with a water distribution system shall be equipped with a3/4 inch threaded inlet connection. This connection shall be tagged or marked “Fresh Water Connection” (or marked “Fresh Water Fill”). A matching cap or plug shall be provided to seal the water inlet when it is not in use, and shall be permanently attached to the manufactured home or water supply piping. When a master cold water shutoff full flow valve is not installed on the main feeder line in an accessible location, the manufacturer's installation instructions shall indicate that such a valve is to be installed in the water supply line adjacent to the home. When a manufactured home includes expandable rooms or is composed of two or more units, fittings or connectors designed for such purpose shall be provided to connect any water piping. When not connected, the water piping shall be protected by means of matching threaded caps or plugs.
+(b) *Water outlets and supply connections*—(1) *Water connection.* Each manufactured home with a water distribution system shall be equipped with a 3/4 inch threaded inlet connection. This connection shall be tagged or marked “Fresh Water Connection” (or marked “Fresh Water Fill”). A matching cap or plug shall be provided to seal the water inlet when it is not in use, and shall be permanently attached to the manufactured home or water supply piping. When a master cold water shutoff full flow valve is not installed on the main feeder line in an accessible location, the manufacturer's installation instructions shall indicate that such a valve is to be installed in the water supply line adjacent to the home. When a manufactured home includes expandable rooms or is composed of two or more units, fittings or connectors designed for such purpose shall be provided to connect any water piping. When not connected, the water piping shall be protected by means of matching threaded caps or plugs.
 
 (2) *Prohibited connections.* (i) The installation of potable water supply piping or fixture or appliance connections shall be made in a manner to preclude the possibility of backflow.
 
@@ -66,7 +66,7 @@
 |      5 or more       |          3/4          |            7/8             |3/4|
 |\*6 ft maximum length.|                       |                            |   |
 
-*Exceptions to table:*3/8 inch nominal diameter or1/2 inch OD minimum size for clothes washing or dishwashing machines, unless larger size is recommended by the fixture manufacturer.1/2 inch nominal diameter or5/8 inch OD minimum size for flushometer or metering type valves unless otherwise specified in their listing. No galvanized screw piping shall be less than1/2 inch iron pipe size.
+*Exceptions to table:*3/8 inch nominal diameter or 1/2 inch OD minimum size for clothes washing or dishwashing machines, unless larger size is recommended by the fixture manufacturer. 1/2 inch nominal diameter or 5/8 inch OD minimum size for flushometer or metering type valves unless otherwise specified in their listing. No galvanized screw piping shall be less than 1/2 inch iron pipe size.
 
 (2) *Sizing procedure.* Both hot and cold water piping systems shall be computed by the following method:
 

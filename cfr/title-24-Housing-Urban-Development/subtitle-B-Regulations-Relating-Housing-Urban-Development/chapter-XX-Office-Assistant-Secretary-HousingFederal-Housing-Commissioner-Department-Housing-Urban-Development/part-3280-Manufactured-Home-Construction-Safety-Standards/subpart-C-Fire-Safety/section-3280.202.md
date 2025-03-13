@@ -44,7 +44,7 @@ The following definitions are applicable to subparts C, H, and I of the Standard
 
 (1) The definition contained in Chapter 2 of NFPA 220-1995, Standard on Types of Building Construction; or
 
-(2)5/16-inch or thicker gypsum board.
+(2) 5/16-inch or thicker gypsum board.
 
 *Noncombustible material:* A material meeting the definition contained in Chapter 2 of NFPA 220-1995, Standard on Types of Building Construction.
 

@@ -36,7 +36,7 @@
 
 All right, title, and interest of the undersigned is hereby assigned (without warranty, except that the loan qualifies for insurance) to the United States of America (HUD).
 
-(Financial Institution)By:Title:Date:If the assignment does not appear on the note or other instrument that is assigned, it shall be duly executed on an allonge which is attached to such note or other instrument.
+(Financial Institution) By: Title: Date:If the assignment does not appear on the note or other instrument that is assigned, it shall be duly executed on an allonge which is attached to such note or other instrument.
 
 (g) *Denial of insurance claim.* The Secretary may deny a claim for insurance in whole or in part based upon a violation of these regulations, unless a waiver of compliance with the regulations is granted under § 201.5.
 

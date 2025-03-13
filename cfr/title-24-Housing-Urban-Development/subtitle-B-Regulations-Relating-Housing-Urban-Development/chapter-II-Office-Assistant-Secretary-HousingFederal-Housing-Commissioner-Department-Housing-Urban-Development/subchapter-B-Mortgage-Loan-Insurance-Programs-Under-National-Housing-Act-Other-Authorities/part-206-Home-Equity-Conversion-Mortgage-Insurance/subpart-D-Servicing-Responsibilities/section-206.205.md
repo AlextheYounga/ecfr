@@ -58,8 +58,7 @@
 
 (B) The mortgagee shall provide the borrower with a written notification within 30 days of the mortgagee receiving notification that a property charge payment is outstanding. The borrower shall have 30 days to respond to the mortgagee to explain the circumstances which resulted in the non-payment. (C) If there is no available principal limit from which the mortgagee can pay the property charge amount in full, and the borrower fails to pay the property charges, the mortgage will become due and payable under § 206.27(c)(2).
 
-(ii) *Fully-Funded LESA for a fixed interest rate HECM with no remaining funds.* If the LESA is exhausted and the borrower fails to make property charge payments, the mortgage will become due and payable under § 206.27(c)(2).
-—
+(ii) *Fully-Funded LESA for a fixed interest rate HECM with no remaining funds.* If the LESA is exhausted and the borrower fails to make property charge payments, the mortgage will become due and payable under § 206.27(c)(2). —
 
 (iii) *Partially-Funded LESA with remaining funds.* If funds remain in the LESA and the borrower fails to make property charge payments, the mortgagee shall:
 

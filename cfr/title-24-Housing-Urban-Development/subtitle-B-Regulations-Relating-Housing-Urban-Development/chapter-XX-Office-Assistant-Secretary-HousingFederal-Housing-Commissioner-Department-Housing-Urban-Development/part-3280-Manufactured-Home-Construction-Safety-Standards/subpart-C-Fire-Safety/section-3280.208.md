@@ -2,13 +2,13 @@
 
 (a) *General.* Foam plastic thermal insulating materials shall not be used within the cavity of walls (not including doors) or ceilings or be exposed to the interior of the home unless:
 
-(1) The foam plastic insulating material is protected by an interior finish of5/16-inch thick gypsum board or equivalent material for all cavities where the material is to be installed; or
+(1) The foam plastic insulating material is protected by an interior finish of 5/16-inch thick gypsum board or equivalent material for all cavities where the material is to be installed; or
 
 (2) The foam plastic is used as a sheathing or siding backerboard, and it:
 
 (i) Has a flame spread rating of 75 or less and a smoke-developed rating of 450 or less (not including outer covering of sheathing);
 
-(ii) Does not exceed3/8-inch in thickness; and
+(ii) Does not exceed 3/8-inch in thickness; and
 
 (iii) Is separated from the interior of the manufactured home by a minimum of 2 inches of mineral fiber insulation or an equivalent thermal barrier; or
 

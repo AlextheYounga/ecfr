@@ -34,7 +34,7 @@
 
 *Certification test site.* A site used for the purpose of anchor assembly qualification testing in accordance with this section.
 
-*Cohesive soil.* A soil with sufficient clay content to exhibit substantial plastic behavior when moist or wet (i.e., able to be readily molded or rolled into a1/8 -inch thread at a wide range of moisture contents).
+*Cohesive soil.* A soil with sufficient clay content to exhibit substantial plastic behavior when moist or wet (i.e., able to be readily molded or rolled into a 1/8 -inch thread at a wide range of moisture contents).
 
 *Ground anchor manufacturer.* Any person or company engaged in manufacturing or importing ground anchor assemblies.
 
@@ -46,7 +46,7 @@
 
 (3) *Determination of soil classification*—(i) *General description of soil classification.* The general description of soil classification is to be determined in accordance with the methods specified in the Table to § 3285.202.
 
-(ii) *Standards for identification of soil and soil classification.* The soil test torque probe method must be used at the certification test site for soil classification. At a minimum, the soil test torque probe must be used at three sample locations representative of the extent of the certification site test area. Soil characteristics must be measured at a depth below ground surface of not greater than the anchor helix depth and not less than2/3 of the anchor helix depth for each ground anchor depth evaluated within the test area. The lowest torque probe value resulting in the highest soil classification number must be used. Additional guidance regarding the soil test torque probe method is available at the Appendix to this section and at § 3282.202.
+(ii) *Standards for identification of soil and soil classification.* The soil test torque probe method must be used at the certification test site for soil classification. At a minimum, the soil test torque probe must be used at three sample locations representative of the extent of the certification site test area. Soil characteristics must be measured at a depth below ground surface of not greater than the anchor helix depth and not less than 2/3 of the anchor helix depth for each ground anchor depth evaluated within the test area. The lowest torque probe value resulting in the highest soil classification number must be used. Additional guidance regarding the soil test torque probe method is available at the Appendix to this section and at § 3282.202.
 
 (iii) *Classification in non-cohesive soils.* Ground anchor assemblies must be tested and listed or certified, and labeled for use in non-cohesive soil. Ground anchor assemblies are permitted to be tested, listed or certified, and labeled for use in cohesive soil.
 
@@ -86,7 +86,7 @@ As a recommended practice, the test rig soil reactions (bearing pads) should not
 
 (vi) *Angle of pull.* Where the test apparatus configuration results in a changing angle of pull due to anchor assembly displacement during a lateral angle pull test, the angle of pull at the ultimate anchor load is to be recorded as the load angle for the test. Load angles are to be measured relative to the plane of the ground surface and shall be permitted to be rounded to the nearest 5-degree increment.
 
-(vii) *Displacement measurement.* Vertical displacement (for all tests) and horizontal displacement (for lateral angle pull tests) must be measured relative to the centerline of the test apparatus' connection to the ground anchor assembly (anchor head) and the ground. A stable ground reference point for displacement measurements must be located independent of the test apparatus and not closer to the anchor assembly than the soil reaction points of the test apparatus. Displacement measurements shall be taken using a device with not less than1/8-inch reading increments. Measurements shall be permitted to be rounded to the nearest1/8-inch increment.
+(vii) *Displacement measurement.* Vertical displacement (for all tests) and horizontal displacement (for lateral angle pull tests) must be measured relative to the centerline of the test apparatus' connection to the ground anchor assembly (anchor head) and the ground. A stable ground reference point for displacement measurements must be located independent of the test apparatus and not closer to the anchor assembly than the soil reaction points of the test apparatus. Displacement measurements shall be taken using a device with not less than 1/8-inch reading increments. Measurements shall be permitted to be rounded to the nearest 1/8-inch increment.
 
 (8) *Anchor assembly field test methods.* (i) An anchor assembly must be tested in accordance with one or more of the assembly configurations addressed in paragraphs (b)(8)(iii), (iv) and (v) of this section. The as-tested configuration of any anchor assembly is a condition of the listing or certification. Alternate configurations are acceptable provided test conditions appropriately simulate actual end-use conditions and the as-tested configuration is addressed in the manufacturer's installation instructions.
 
@@ -98,7 +98,7 @@ As a recommended practice, the test rig soil reactions (bearing pads) should not
 
 (B) A stabilizer plate is to be driven vertically on the side of the ground anchor shaft facing the tensioning equipment three inches (3″) from the shaft and the top of the plate must be installed flush with the soil surface or not more than one inch below the soil surface.
 
-(C) The ground anchor is to be driven to its full depth into the soil with the bottom of the anchor head not more than3/4 inch (3/4″) above the stabilizer plate.
+(C) The ground anchor is to be driven to its full depth into the soil with the bottom of the anchor head not more than 3/4 inch (3/4″) above the stabilizer plate.
 
 (D) The ground anchor head is to be attached to the tensioning equipment such that the tension load and displacement can be recorded. The tensioning equipment must be positioned to load the ground anchor and stabilizer plate at the minimum angle to the test site ground surface for which the anchor is being evaluated.
 

@@ -24,7 +24,7 @@
 
 (i) *Dead load.* Measure and record initial elevation of the truss or trusses in the test position at no load. Apply to the top and bottom chords of the truss dead loads that are representative of the actual weights of materials to be supported by the truss. However, the dead load may only be applied as indicated in paragraph (e)(4) of this section for ongoing follow-up testing. Dead loads to be applied to the truss test assembly are permitted to include only the weights of materials supported by the truss and not the weight of the truss itself. However, readings from load cells (when used) on which the test truss rests must reflect the sum of the applied load plus the weight of the truss. Apply dead loads and hold for 5 minutes. Measure and record the deflections.
 
-(ii) *Live load.* Maintaining the dead loads, apply live load to the top chord in approximate1/4 live load increments until dead load plus the live load is reached. Measure and record the deflections no sooner than one minute after each1/4 live load increment has been applied and 5 minutes after the full live load has been reached.
+(ii) *Live load.* Maintaining the dead loads, apply live load to the top chord in approximate 1/4 live load increments until dead load plus the live load is reached. Measure and record the deflections no sooner than one minute after each 1/4 live load increment has been applied and 5 minutes after the full live load has been reached.
 
 (iii) *Initial recovery phase.* Remove the design live load but not the dead load. Measure and record the deflections 5 minutes after the total live load has been removed.
 
@@ -54,7 +54,7 @@
 
 (ii) *Dead load.* Measure and record initial elevation of the truss or trusses in the test position at no load. Apply to the top and bottom chords of the truss dead loads that are representative of the actual weights of materials to be supported by the truss. However, the dead load may only be applied as indicated in paragraph (e)(4) of this section for ongoing follow-up testing. Dead loads to be applied to the truss test assembly shall be permitted to include only the weights of materials supported by the truss, and not the weight of the truss itself. However, readings from load cells (when used) on which the test truss rests must reflect the sum of the applied load plus the weight of the truss. Apply dead loads and hold for 5 minutes. Measure and record the deflections.
 
-(iii) *Live load.* Maintaining the dead loads, apply live load at a uniform rate to the top chord in approximate1/4 live load increments until the dead load plus the live load is reached. Measure and record the deflections no sooner than one minute after each1/4 live load increment has been applied and 5 minutes after the full live load has been reached.
+(iii) *Live load.* Maintaining the dead loads, apply live load at a uniform rate to the top chord in approximate 1/4 live load increments until the dead load plus the live load is reached. Measure and record the deflections no sooner than one minute after each 1/4 live load increment has been applied and 5 minutes after the full live load has been reached.
 
 (iv) *Initial recovery phase.* Remove the design live load but not the dead load. Measure and record the deflections 5 minutes after the design live load has been removed.
 

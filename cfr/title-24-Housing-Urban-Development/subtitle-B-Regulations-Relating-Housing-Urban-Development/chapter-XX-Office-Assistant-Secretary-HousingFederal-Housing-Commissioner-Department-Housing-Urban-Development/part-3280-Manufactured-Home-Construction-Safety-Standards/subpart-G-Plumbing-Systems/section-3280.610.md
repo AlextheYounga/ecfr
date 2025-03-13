@@ -6,7 +6,7 @@
 
 (b) *Materials*—(1) *Pipe.* Drainage piping must be standard weight galvanized steel, brass, copper tube DWV, listed Scheduled 40 ABS plastic, listed Scheduled 40 PVC plastic, cast iron, or other listed or approved materials.
 
-(2) *Fittings.* Drainage fittings shall be recessed drainage pattern with smooth interior waterways of the same diameter as the piping and shall be of a material conforming to the type of piping used. Drainage fittings shall be designed to provide for a1/4 inch per foot grade in horizontal piping.
+(2) *Fittings.* Drainage fittings shall be recessed drainage pattern with smooth interior waterways of the same diameter as the piping and shall be of a material conforming to the type of piping used. Drainage fittings shall be designed to provide for a 1/4 inch per foot grade in horizontal piping.
 
 (i) Fittings for screw pipe shall be cast iron, malleable iron, brass, or listed plastic with standard pipe threads.
 
@@ -56,6 +56,6 @@
 
 (3) *Horizontal to horizontal and vertical to horizontal.* Horizontal drainage lines connecting with other horizontal drainage lines or vertical drainage lines connected with horizontal drainage lines shall enter through 45-degree “Y” branches, long-turn “TY” branches, or other approved or listed fittings or combination of fittings having equivalent sweep.
 
-(h) *Grade of horizontal drainage piping.* Except for fixture connections on the inlet side of the trap, horizontal drainage piping shall be run in practical alignment and have a uniform grade of not less than1/4 inch per foot toward the manufactured home drain outlet. Where it is impractical, due to the structural features or arrangement of any manufactured home, to obtain a grade of1/4 inch per foot, the pipe or piping may have a grade of not less than1/8 inch per foot, when a full size cleanout is installed at the upper end.
+(h) *Grade of horizontal drainage piping.* Except for fixture connections on the inlet side of the trap, horizontal drainage piping shall be run in practical alignment and have a uniform grade of not less than 1/4 inch per foot toward the manufactured home drain outlet. Where it is impractical, due to the structural features or arrangement of any manufactured home, to obtain a grade of 1/4 inch per foot, the pipe or piping may have a grade of not less than 1/8 inch per foot, when a full size cleanout is installed at the upper end.
 
 [40 FR 58752, Dec. 18, 1975. Redesignated at 44 FR 20679, Apr. 6, 1979, as amended at 52 FR 4586, Feb. 12, 1987; 58 FR 55015, Oct. 25, 1993; 78 FR 73986, Dec. 9, 2013; 86 FR 2521, Jan. 12, 2021]

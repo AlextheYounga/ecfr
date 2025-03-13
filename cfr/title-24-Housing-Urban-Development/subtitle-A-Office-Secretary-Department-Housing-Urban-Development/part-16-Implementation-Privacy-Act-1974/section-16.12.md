@@ -10,7 +10,7 @@
 
 (b) The copying fees prescribed by paragraph (a) of this section are:
 
-$0.10 Each copy of each page, up to 81/2″ × 14″ made by photocopy or similar process.$0.20 Each page of computer printout without regard to the number of carbon copies concurrently printed.
+$0.10 Each copy of each page, up to 81/2″ × 14″ made by photocopy or similar process. $0.20 Each page of computer printout without regard to the number of carbon copies concurrently printed.
 
 (c) Payment of fees under this section shall be made in cash, or preferably by check or money order payable to the “Treasurer of the United States.” Payment shall be delivered or sent to the office stated in the billing notice or, if none is stated, to the Privacy Act Officer processing the request. Payment may be required in the form of a certified check in appropriate circumstances. Postage stamps will not be accepted.
 

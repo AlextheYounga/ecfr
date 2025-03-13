@@ -20,4 +20,4 @@ The decision-making process in § 55.20 shall not apply to the following categor
 
 (f) Special projects for the purpose of improving the energy or water efficiency of utilities or installing renewable energy that involve the repair, rehabilitation, modernization, weatherization, or improvement of existing structures or infrastructure, do not meet the thresholds for “substantial improvement” under § 55.2(b)(12), and do not include the installation of equipment below the FFRMS floodplain elevation; and
 
-[89 FR 30909, Apr. 23, 2024]Editorial Note:At 89 FR 30909, Apr. 23, 2024, § 55.13 was added; the text provided ended with "; and".
+[89 FR 30909, Apr. 23, 2024] Editorial Note:At 89 FR 30909, Apr. 23, 2024, § 55.13 was added; the text provided ended with "; and".

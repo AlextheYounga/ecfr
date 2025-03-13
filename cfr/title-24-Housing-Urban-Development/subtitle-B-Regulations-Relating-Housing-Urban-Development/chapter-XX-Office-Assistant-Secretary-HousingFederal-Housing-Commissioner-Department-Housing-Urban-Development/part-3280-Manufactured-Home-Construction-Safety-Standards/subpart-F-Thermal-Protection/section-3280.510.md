@@ -8,11 +8,11 @@ The manufactured home manufacturer shall permanently affix the following “Cert
 
 (c) *Operating economy certification temperature.* The temperature to be specified for operating economy and energy conservation shall be 20 °F or 30% of the design temperature difference, whichever is greater, added to the temperature specified as the heating system capacity certification temperature without storm windows or insulating glass in Zones 1 and 2 and with storm windows or insulating glass in Zone 3. Design temperature difference is 70° minus the heating system capacity certification temperature in degrees Fahrenheit.
 
-HEATING CERTIFICATEHome ManufacturerPlant LocationHome Model(Include Uo Value Zone Map)
+HEATING CERTIFICATE Home Manufacturer Plant Location Home Model (Include Uo Value Zone Map)
 
 This manufactured home has been thermally insulated to conform with the requirements of the Federal Manufactured Home Construction and Safety Standards for all locations within Uo Value Zone \_\_\_\_.
 
-Heating Equipment ManufacturerHeating Equipment Model
+Heating Equipment Manufacturer Heating Equipment Model
 
 The above heating equipment has the capacity to maintain an average 70F temperature in this home at outdoor temperatures of [see paragraph (b) of this section] F. To maximize furnace operating economy and to conserve energy, it is recommended that this home be installed where the outdoor winter design temperature (97 1/2%) is not higher than [see paragraph (c) of this section] F degrees Fahrenheit.
 

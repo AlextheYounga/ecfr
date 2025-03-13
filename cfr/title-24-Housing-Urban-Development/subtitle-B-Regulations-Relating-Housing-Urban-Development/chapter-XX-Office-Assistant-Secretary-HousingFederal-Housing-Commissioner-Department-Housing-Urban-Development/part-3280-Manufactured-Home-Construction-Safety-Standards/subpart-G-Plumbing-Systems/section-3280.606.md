@@ -16,7 +16,7 @@
 
 (8) *Length of tailpiece.* The vertical distance from a trap to the fixture outlet shall not exceed 24 inches.
 
-(9) *Installation.* (i) *Grade of trap arm.* The piping between a “P” trap and the fixture tee or the vented waste line shall be graded1/4 inch per foot towards the vent and in no event shall have a slope greater than its diameter. The vent opening at fixture tees shall not be below the weir of the “P” trap outlet.
+(9) *Installation.* (i) *Grade of trap arm.* The piping between a “P” trap and the fixture tee or the vented waste line shall be graded 1/4 inch per foot towards the vent and in no event shall have a slope greater than its diameter. The vent opening at fixture tees shall not be below the weir of the “P” trap outlet.
 
 (ii) *Trap arm offset.* The piping between the “P” trap and vent may change direction or be offset horizontally with the equivalent of no more than 180 degrees total change in direction with a maximum of 90 degrees by any one fitting.
 
@@ -26,7 +26,7 @@
 
 (b) *Cleanout openings*—(1) *Location of cleanout fittings.* (i) Cleanouts shall be installed if the drainage system cannot be cleaned through fixtures, drains, or vents. Cleanouts shall also be provided when fittings of more than 45 degrees are used to affect an offset except where long turn ells are used which provide sufficient “sweep” for cleaning.
 
-(ii) A full size cleanout shall be installed at the upper end of any section of drain piping which does not have the required minimum slope of1/4 inch per foot grade.
+(ii) A full size cleanout shall be installed at the upper end of any section of drain piping which does not have the required minimum slope of 1/4 inch per foot grade.
 
 (iii) A cleaning tool shall not be required to pass through more than 360 degrees of fittings, excluding removable “P” traps, to reach any part of the drainage system. Water closets may be removed for drainage system access.
 

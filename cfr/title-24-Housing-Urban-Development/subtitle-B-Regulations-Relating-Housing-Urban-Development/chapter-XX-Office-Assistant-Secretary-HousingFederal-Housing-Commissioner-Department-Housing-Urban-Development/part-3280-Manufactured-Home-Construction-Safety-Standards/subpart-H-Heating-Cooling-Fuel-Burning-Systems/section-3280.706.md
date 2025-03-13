@@ -10,9 +10,9 @@
 
 (3) Copper tubing must be annealed type, Grade K or L conforming to the Standard Specification for Seamless Copper Water Tube, ASTM B88-93, or shall comply with ASTM B280-1995, Standard Specification for Seamless Copper Tube for Air Conditioning and Refrigeration Field Service.
 
-(4) Steel tubing shall have a minimum wall thickness of 0.032 inch for diameters up to1/2 inch and 0.049 inch for diameters1/2 inch and larger. Steel tubing shall be constructed in accordance with the Specification for Electric-Resistance-Welded Coiled Steel Tubing for Gas and Field Oil Lines, ASTM, A539-90a, and shall be externally corrosion protected.
+(4) Steel tubing shall have a minimum wall thickness of 0.032 inch for diameters up to 1/2 inch and 0.049 inch for diameters 1/2 inch and larger. Steel tubing shall be constructed in accordance with the Specification for Electric-Resistance-Welded Coiled Steel Tubing for Gas and Field Oil Lines, ASTM, A539-90a, and shall be externally corrosion protected.
 
-(c) *Size of oil piping.* The minimum size of all fuel oil tank piping connecting outside tanks to the appliance shall be no smaller than3/8 inch OD copper tubing or1/4 inch IPS. If No. 1 fuel oil is used with a listed automatic pump (fuel lifter), copper tubing shall be sized as specified by the pump manufacturer.
+(c) *Size of oil piping.* The minimum size of all fuel oil tank piping connecting outside tanks to the appliance shall be no smaller than 3/8 inch OD copper tubing or 1/4 inch IPS. If No. 1 fuel oil is used with a listed automatic pump (fuel lifter), copper tubing shall be sized as specified by the pump manufacturer.
 
 (d) *Joints for oil piping.* All pipe joints in the piping system, unless welded or brazed, shall be threaded joints which comply with ANSI/ASME B1.20.1-1983, Pipe Threads, General Purpose (Inch). The material used for brazing pipe connections shall have a melting temperature in excess of 1,000 F.
 

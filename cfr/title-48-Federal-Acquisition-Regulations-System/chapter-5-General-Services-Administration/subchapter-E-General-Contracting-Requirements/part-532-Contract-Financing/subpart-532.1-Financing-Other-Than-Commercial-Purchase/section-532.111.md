@@ -1,9 +1,5 @@
-##### 532.111 Contract clauses for non-commercial purchases. #####
+##### 532.111 Contract Clauses for non-commercial purchases (FAR DEVIATION). #####
 
-Link to an amendment published at 89 FR 55086, July 3, 2024.Link to an amendment published at 89 FR 55088, July 3, 2024.
+Construction contracts. Insert the clause at 552.232-5, Payments under Fixed-Price Construction Contracts, in solicitations and contracts when a fixed-price construction contract is contemplated.
 
-(a) *FAR deviation.* GSA has a FAR deviation that allows use of the clause at 552.232-1 in lieu of the FAR clause at 52.232-1. Insert the clause at 552.232-1, Payments, in solicitations and contracts when a fixed-price supply contract, a fixed-price service contract, or a contract for nonregulated communication services is contemplated, in lieu of the FAR clause at 52.232-1.
-
-(b) *Construction contracts.* Insert the clause at 552.232-5, Payments under Fixed-Price Construction Contracts, in solicitations and contracts when a fixed-price construction contract is contemplated.
-
-[86 FR 55520, Oct. 6, 2021]
+[89 FR 55088, July 3, 2024]

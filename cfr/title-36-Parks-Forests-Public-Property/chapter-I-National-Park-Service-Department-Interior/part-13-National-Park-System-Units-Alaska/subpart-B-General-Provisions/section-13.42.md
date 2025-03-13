@@ -1,7 +1,5 @@
 ##### § 13.42 Taking of wildlife in national preserves. #####
 
-Link to an amendment published at 89 FR 55072, July 3, 2024.
-
 (a) Hunting and trapping are allowed in national preserves in accordance with applicable Federal and non-conflicting State law and regulation.
 
 (b) Violating a provision of either Federal or non-conflicting State law or regulation is prohibited.
@@ -12,7 +10,9 @@ Link to an amendment published at 89 FR 55072, July 3, 2024.
 
 (e) Persons transporting wildlife through park areas must identify themselves and the location where the wildlife was taken when requested by NPS law enforcement personnel.
 
-(f)-(g) [Reserved]
+(f) Using bait is prohibited except for taking furbearers with a trap under a trapping license. Using bait to attract or take bears is prohibited.
+
+(g) [Reserved]
 
 (h) The Superintendent may prohibit or restrict the non-subsistence taking of wildlife in accordance with the provisions of § 13.50.
 
@@ -24,4 +24,6 @@ Link to an amendment published at 89 FR 55072, July 3, 2024.
 
 (j) Collecting, capturing, or possessing living wildlife is prohibited unless expressly authorized by federal statute or pursuant to § 2.5 of this chapter. A falconry permit or other permit issued by the State of Alaska does not provide the required authorization. These collecting activities are not hunting or trapping activities and therefore are not allowed in national preserves under paragraph (a) of this section. This regulation does not prohibit the use of trained raptors for hunting activities where authorized by applicable federal and state law.
 
-[80 FR 64343, Oct. 23, 2015, as amended at 82 FR 3632, Jan. 12, 2017; 85 FR 35191, June 9, 2020]
+(k) The paragraphs of this section are separate and severable from one another. If any paragraph or portion of this section is stayed or determined to be invalid, or the applicability of any paragraph of this section to any person or entity is held invalid, it is NPS's intention that the validity of the remainder of those parts shall not be affected, with the remaining sections to continue in effect.
+
+[80 FR 64343, Oct. 23, 2015, as amended at 82 FR 3632, Jan. 12, 2017; 85 FR 35191, June 9, 2020; 89 FR 55072, July 3, 2024]

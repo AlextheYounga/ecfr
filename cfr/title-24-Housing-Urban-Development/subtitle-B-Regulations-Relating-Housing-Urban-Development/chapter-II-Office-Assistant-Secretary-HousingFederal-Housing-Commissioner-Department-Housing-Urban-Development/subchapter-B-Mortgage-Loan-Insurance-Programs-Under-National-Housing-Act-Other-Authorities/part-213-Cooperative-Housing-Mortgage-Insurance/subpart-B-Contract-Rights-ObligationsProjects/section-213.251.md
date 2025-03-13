@@ -2,7 +2,7 @@
 
 (a) All of the provisions of subpart B, part 207 of this chapter covering mortgages insured under section 207 of the National Housing Act, apply with full force and effect to mortgages insured under section 213 of the National Housing Act, except the following provisions:
 
-Sec.207.251 Definitions.207.252 First, second, and third premiums.207.254 Form of endorsement.
+Sec. 207.251 Definitions. 207.252 First, second, and third premiums. 207.254 Form of endorsement.
 
 (b) For the purposes of this subpart, all references in part 207 of this chapter to section 207 of the National Housing Act shall be deemed to refer to section 213 of the Act, and all references in part 207 of this chapter to the General Insurance Fund shall be deemed to refer to the Cooperative Management Housing Insurance Fund in cases involving mortgages which are the obligation of the Cooperative Management Housing Insurance Fund.
 

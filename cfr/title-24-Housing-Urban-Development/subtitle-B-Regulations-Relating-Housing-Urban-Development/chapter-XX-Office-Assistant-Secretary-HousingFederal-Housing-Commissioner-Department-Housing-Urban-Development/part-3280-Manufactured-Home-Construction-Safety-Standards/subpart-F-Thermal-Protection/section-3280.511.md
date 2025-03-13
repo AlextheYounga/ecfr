@@ -4,13 +4,13 @@
 
 (1) *Alternative I.* If a central air conditioning system is provided by the home manufacturer, the heat gain calculation necessary to properly size the air conditioning equipment shall be in accordance with procedures outlined in chapter 22 of the 1989 ASHRAE Handbook of Fundamentals, with an assumed location and orientation. The following shall be supplied in the Comfort Cooling Certificate:
 
-Air Conditioner ManufacturerAir Conditioner Model
+Air Conditioner Manufacturer Air Conditioner Model
 
 Certified Capacity \_\_\_\_\_\_ BTU/Hr. in accordance with the appropriate Air Conditioning and Refrigeration Institute Standards
 
 The central air conditioning system provided with this home has been sized, assuming an orientation of the front (hitch) end of the home facing \_\_\_\_\_\_ and is designed on the basis of a 75 °F indoor temperature and an outdoor temperature of \_\_ °F dry bulb and \_\_ °F wet bulb.
 
-Example Alternate ICOMFORT COOLING CERTIFICATEManufactured Home MfgPlant LocationManufactured Home ModelAir Conditioner Manufacturer
+Example Alternate I COMFORT COOLING CERTIFICATE Manufactured Home Mfg Plant Location Manufactured Home Model Air Conditioner Manufacturer
 
 Certified Capacity \_\_\_\_\_\_ BTU/Hr. in accordance with the appropriate Air Conditioning and Refrigeration Institute Standards.
 
@@ -20,7 +20,7 @@ The temperature to which this home can be cooled will change depending upon the 
 
 (2) *Alternative 2.* For each home suitable for a central air cooling system, the manufacturer shall provide the following statement: “This air distribution system of this home is suitable for the installation of a central air conditioning system.”
 
-Example Alternate 2COMFORT COOLING CERTIFICATEManufactured Home ManufacturerPlant LocationManufactured Home Model
+Example Alternate 2COMFORT COOLING CERTIFICATE Manufactured Home Manufacturer Plant Location Manufactured Home Model
 
 This air distribution system of this home is suitable for the installation of central air conditioning.
 
@@ -30,7 +30,7 @@ Information necessary to calculate cooling loads at various locations and orient
 
 (3) *Alternative 3.* If the manufactured home is not equipped with an air supply duct system, or if the manufacturer elects not to designate the home as being suitable for the installation of a central air conditioning system, the manufacturer shall provide the following statement: “This air distribution system of this home has not been designed in anticipation of its use with a central air conditioning system.”
 
-Example Alternate 3COMFORT COOLING CERTIFICATEManufactured Home MfgPlant LocationManufactured Home Model
+Example Alternate 3COMFORT COOLING CERTIFICATE Manufactured Home Mfg Plant Location Manufactured Home Model
 
 The air distribution system of this home has not been designed in anticipation of its use with a central air conditioning system.
 

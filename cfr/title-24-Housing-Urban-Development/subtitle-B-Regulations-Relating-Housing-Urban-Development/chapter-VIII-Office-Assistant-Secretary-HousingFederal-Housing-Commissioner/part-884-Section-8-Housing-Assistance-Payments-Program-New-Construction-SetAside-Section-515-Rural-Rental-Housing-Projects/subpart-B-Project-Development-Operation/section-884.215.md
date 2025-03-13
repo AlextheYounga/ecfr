@@ -18,7 +18,7 @@ c. The Lessor shall not discriminate against the Lessee in the provision of serv
 
 d. The Lessor shall provide the following services and maintenance:
 
-LessorByDateLesseeDate
+Lessor By Date Lessee Date
 
 (c) *Prohibited provisions.* Lease clauses which fall within the classifications listed below shall not be included in any Lease.
 

@@ -1,7 +1,5 @@
 ##### § 270.31a-2 Records to be preserved by registered investment companies, certain majority-owned subsidiaries thereof, and other persons having transactions with registered investment companies. #####
 
-Link to an amendment published at 89 FR 47789, June 3, 2024.
-
 (a) Every registered investment company shall:
 
 (1) Preserve permanently, the first two years in an easily accessible place, all books and records required to be made pursuant to paragraphs (1) through (4) of § 270.31a-1(b);
@@ -16,7 +14,9 @@ Link to an amendment published at 89 FR 47789, June 3, 2024.
 
 (6) Preserve for a period not less than six years, the first two years in an easily accessible place, any documents or other written information considered by the directors of the investment company pursuant to section 15(c) of the Act (15 U.S.C. 80a-15(c)) in approving the terms or renewal of a contract or agreement between the company and an investment adviser; and
 
-(7) Preserve for a period not less than six years, the first two years in an easily accessible place, any shareholder report required by § 270.30e-1 (including any version posted on a website or otherwise provided electronically) that is not filed with the Commission in the exact form in which it was used.
+(7) Preserve for a period not less than six years, the first two years in an easily accessible place, any shareholder report required by § 270.30e-1 (including any version posted on a website or otherwise provided electronically) that is not filed with the Commission in the exact form in which it was used; and
+
+(8) Preserve for a period not less than six years, the first two years in an easily accessible place, the records required by § 270.31a-1(b)(13) apart from any policies and procedures thereunder and, in the case of policies and procedures required under § 270.31a-1(b)(13), preserve a copy of such policies and procedures in effect, or that at any time within the past six years were in effect, in an easily accessible place.
 
 (b) Every underwriter, broker, or dealer which is a majority-owned subsidiary of a registered investment company shall preserve for the periods prescribed therein such accounts, books and other documents as are required to be preserved by brokers and dealers by rule adopted under section 17 of the Securities Exchange Act of 1934.
 
@@ -56,4 +56,4 @@ Link to an amendment published at 89 FR 47789, June 3, 2024.
 
 (4) Notwithstanding the provisions of paragraphs (a) through (e) of this section, any record, book or other document may be destroyed in accordance with a plan previously submitted to and approved by the Commission. A plan shall be deemed to have been approved by the Commission if notice to the contrary has not been received within 90 days after submission of the plan to the Commission.
 
-[27 FR 11994, Dec. 5, 1962, as amended at 38 FR 7797, Mar. 26, 1973; 51 FR 42209, Nov. 24, 1986; 53 FR 3880, Feb. 10, 1988; 66 FR 3759, Jan. 16, 2001; 66 FR 29228, May 30, 2001; 69 FR 46390, Aug. 2, 2004; 81 FR 82138, Nov. 18, 2016; 87 FR 72850, Nov. 25, 2022; 88 FR 51523, Aug. 3, 2023]
+[27 FR 11994, Dec. 5, 1962, as amended at 38 FR 7797, Mar. 26, 1973; 51 FR 42209, Nov. 24, 1986; 53 FR 3880, Feb. 10, 1988; 66 FR 3759, Jan. 16, 2001; 66 FR 29228, May 30, 2001; 69 FR 46390, Aug. 2, 2004; 81 FR 82138, Nov. 18, 2016; 87 FR 72850, Nov. 25, 2022; 88 FR 51523, Aug. 3, 2023; 89 FR 47789, June 3, 2024]

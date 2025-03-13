@@ -20,7 +20,7 @@
 
 The Manufacturer of this unit certifies that it is a Park Model Recreational Vehicle designed only for recreational use, and not for use as a primary residence or for permanent occupancy. The manufacturer of this unit further certifies that this unit has been built in accordance with the ANSI A119.5-15 consensus standard for Park Model Recreational Vehicles.
 
-(3) *Text of Notice.* The text of the Manufacturer's Notice, aside from the Manufacturer's Notice's title shall be legible and typed using letters at least1/2 inch in size.
+(3) *Text of Notice.* The text of the Manufacturer's Notice, aside from the Manufacturer's Notice's title shall be legible and typed using letters at least 1/2 inch in size.
 
 (4) *Removal of Manufacturer's Notice.* The Manufacturer's Notice shall not be removed by any party until the entire sales transaction has been completed.
 

@@ -1,7 +1,5 @@
 ##### § 199.17 TRICARE program. #####
 
-Link to an amendment published at 89 FR 45767, May 24, 2024.
-
 (a) *Establishment.* The TRICARE program is established for the purpose of implementing a comprehensive managed health care program for the delivery and financing of health care services in the Military Health System.
 
 (1) *Purpose.* The TRICARE program implements a number of improvements primarily through modernized managed care support contracts that include special arrangements with civilian sector health care providers and better coordination between military medical treatment facilities (MTFs) and these civilian providers to deliver an integrated, health care delivery system that provides beneficiaries with access to high quality healthcare. Implementation of these improvements, to include enhanced access, improved health outcomes, increased efficiencies and elimination of waste, in addition to improving and maintaining operational medical force readiness, includes adoption of special rules and procedures not ordinarily followed under CHAMPUS or MTF requirements. This section establishes those special rules and procedures.
@@ -258,8 +256,6 @@ Link to an amendment published at 89 FR 45767, May 24, 2024.
 
 (ii) Cost-sharing for maternity care services shall be determined in accordance with § 199.4(e)(16).
 
-(iii) Cost-sharing and copayments (including deductibles) shall be waived for in-network telehealth services during the national emergency for the global coronavirus 2019 (COVID-19) pandemic. This temporary waiver provision terminates July 1, 2022 or the date of termination of the President's declared national emergency for COVID-19, whichever is earlier.
-
 (4) *Special transition rule for the last quarter of calendar year 2017.* In order to transition enrollment fees, deductibles, and catastrophic caps from a fiscal year basis to a calendar year basis, the following special rules apply for the last quarter of calendar year 2017:
 
 (A) A Prime enrollee's enrollment fee for the quarter is one-fourth of the enrollment fee for fiscal year 2017.
@@ -426,4 +422,4 @@ Link to an amendment published at 89 FR 45767, May 24, 2024.
 
 (w) *Administrative procedures.* The Assistant Secretary of Defense (Health Affairs), the Director, and MTF Commanders (or other authorized officials) are authorized to establish administrative requirements and procedures, consistent with this section, this part, and other applicable DoD Directives or Instructions, for the implementation and operation of the TRICARE program.
 
-[82 FR 45448, Sept. 29, 2017, as amended at 84 FR 4333, Feb. 15, 2019; 85 FR 27927, May 12, 2020; 87 FR 33014, June 1, 2022; 87 FR 46886, Aug. 1, 2022]
+[82 FR 45448, Sept. 29, 2017, as amended at 84 FR 4333, Feb. 15, 2019; 85 FR 27927, May 12, 2020; 87 FR 33014, June 1, 2022; 87 FR 46886, Aug. 1, 2022; 89 FR 45767, May 24, 2024]

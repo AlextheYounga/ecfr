@@ -4,6 +4,6 @@ Yes. In addition to the amounts established for planning and administrative expe
 
 (a) Determine the 5-year average of administration and planning amounts, not including reserve amounts, expended in a tribal program year.
 
-(b) Establish1/4 of that amount for the total eligible reserve.
+(b) Establish 1/4 of that amount for the total eligible reserve.
 
 [77 FR 71527, Dec. 3, 2012]

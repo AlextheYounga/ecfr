@@ -1,7 +1,6 @@
 ##### § 291.1 Purpose and general requirements. #####
 
-(a) *Purpose.* (1)
-This part governs the acquisition, possession, and disposition of one-to-four family properties acquired by the Federal Housing Administration (FHA) through foreclosure of an insured or Secretary-held mortgage or loan under the National Housing Act, or acquired by HUD under section 204(g) of the National Housing Act (12 U.S.C. 1710(g)). HUD will issue detailed policies and procedures that must be followed in specific areas.
+(a) *Purpose.* (1) This part governs the acquisition, possession, and disposition of one-to-four family properties acquired by the Federal Housing Administration (FHA) through foreclosure of an insured or Secretary-held mortgage or loan under the National Housing Act, or acquired by HUD under section 204(g) of the National Housing Act (12 U.S.C. 1710(g)). HUD will issue detailed policies and procedures that must be followed in specific areas.
 
 (2) The purpose of the property disposition program is to dispose of properties in a manner that expands homeownership opportunities, strengthens neighborhoods and communities, and ensures a maximum return to the mortgage insurance funds.
 

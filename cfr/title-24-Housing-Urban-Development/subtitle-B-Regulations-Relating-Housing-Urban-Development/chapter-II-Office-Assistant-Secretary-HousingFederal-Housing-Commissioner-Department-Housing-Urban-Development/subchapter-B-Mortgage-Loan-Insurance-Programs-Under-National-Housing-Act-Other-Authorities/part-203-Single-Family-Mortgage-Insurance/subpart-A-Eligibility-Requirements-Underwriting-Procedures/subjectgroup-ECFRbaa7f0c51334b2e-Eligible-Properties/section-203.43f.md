@@ -14,7 +14,7 @@ A mortgage covering a one-family manufactured home (as defined in 24 CFR 3280.2(
 
 (iii) The manufactured home shall have an overall coefficient of heat transmission (“Uo” value) calculated in accordance with the procedures of NFPA 501 BM-1976 (“Mobile Home Heating, Cooling Load Calculations”) that does not exceed the following for all locations within the following climatic zones:
 
-Zone I .145Zone II .099Zone III1 .087NFPA 501 BM-1976 is incorporated by reference and is issued by and available from the National Fire Protection Association, Batterymarch Park, Quincy, MA 02269.
+Zone I .145Zone II .099Zone III 1 .087NFPA 501 BM-1976 is incorporated by reference and is issued by and available from the National Fire Protection Association, Batterymarch Park, Quincy, MA 02269.
 
 1 Zone III includes Alaska, Montana, Wyoming, North and South Dakota, Minnesota, Wisconsin, Michigan, Maine, New Hampshire, and Vermont.
 

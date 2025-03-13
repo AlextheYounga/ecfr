@@ -26,7 +26,7 @@
 
 (iv) Flush tanks shall be fitted with an overflow pipe large enough to prevent flooding at the maximum flow rate of the ball cock. Overflow pipes shall discharge into the toilet, through the tank.
 
-(v) *Floor Connection.* Water closets must be securely bolted to an approved flange or other approved fitting that is secured to the floor by means of corrosion-resistant screws. The bolts must be of solid brass or other corrosion-resistant material and must not be less than1/4 inch in diameter. A watertight seal must be made between the water closet and flange or other approved fitting by use of a gasket, sealing compound, or listed connector device.
+(v) *Floor Connection.* Water closets must be securely bolted to an approved flange or other approved fitting that is secured to the floor by means of corrosion-resistant screws. The bolts must be of solid brass or other corrosion-resistant material and must not be less than 1/4 inch in diameter. A watertight seal must be made between the water closet and flange or other approved fitting by use of a gasket, sealing compound, or listed connector device.
 
 (vi) *Floor connection.* Water closets shall be securely bolted to an approved flange or other approved fitting which is secured to the floor by means of corrosion-resistant screws. The bolts shall be of solid brass or other corrosion-resistant material and shall be not less than one-fourth inch in diameter. A watertight seal shall be made between the water closet and flange or other approved fitting by use of a gasket or sealing compound.
 

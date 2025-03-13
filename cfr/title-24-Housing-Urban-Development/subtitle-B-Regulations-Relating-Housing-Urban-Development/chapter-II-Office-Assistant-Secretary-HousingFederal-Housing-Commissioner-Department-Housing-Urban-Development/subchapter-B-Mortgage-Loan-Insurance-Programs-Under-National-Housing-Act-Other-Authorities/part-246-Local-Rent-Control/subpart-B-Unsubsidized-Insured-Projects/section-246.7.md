@@ -6,7 +6,7 @@ At least 30 days before filing a formal request to HUD for preemption of local r
 
 (b) Posted in at least 3 conspicuous places within each structure or building in which the affected dwelling units are located.
 
-The Notice shall contain the addresses where the materials, which constitute a complete submission as required by § 246.8 in support of the proposed preemption request, are to be made available to tenants as well as the required information in the following equivalent format:Notice to Tenants of Intention To File a Request to HUD for Preemption of Local Rent Control RegulationsDate of Notice
+The Notice shall contain the addresses where the materials, which constitute a complete submission as required by § 246.8 in support of the proposed preemption request, are to be made available to tenants as well as the required information in the following equivalent format: Notice to Tenants of Intention To File a Request to HUD for Preemption of Local Rent Control Regulations Date of Notice
 
 Take notice that on (Date) we requested the (Name) board to review our application for redetermination of permitted rents.
 

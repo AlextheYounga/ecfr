@@ -18,7 +18,7 @@
 
 (2) *Not in person.* If the individual making a request does not appear in person before a Privacy Act Officer, the information set forth in § 16.3(b)(1) and a certificate of a notary public or equivalent officer empowered to administer oaths must accompany the request. The certificate within or attached to the letter must be substantially in accord with the following text:
 
-City of \_\_\_\_\_\_\_\_\_\_County of \_\_\_\_\_\_\_\_\_\_:
+City of \_\_\_\_\_\_\_\_\_\_ County of \_\_\_\_\_\_\_\_\_\_:
 
 ss \_\_\_\_\_\_\_\_\_\_ (name of individual), who affixed (his) (her) signature below in my presence, came before me, a \_\_\_\_\_\_\_\_ (title), in and for the aforesaid County and State, this \_\_\_\_\_\_ day of \_\_\_\_\_\_, 19—, and established (his) (her) identity to my satisfaction.
 

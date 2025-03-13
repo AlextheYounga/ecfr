@@ -1,7 +1,5 @@
 ##### § 240.17Ad-7 Record retention. #####
 
-Link to an amendment published at 89 FR 47785, June 3, 2024.
-
 (a) The records required by § 240.17Ad-6(a)(1), (3)(i), (6) or (11) shall be maintained for a period of not less than two years, the first six months in an easily accessible place.
 
 (b) The records required by § 240.17Ad-6(a) (2), (3)(ii), (4), (5) or (7) shall be maintained for a period of not less than two years, the first year in an easily accessible place.
@@ -76,4 +74,20 @@ Link to an amendment published at 89 FR 47785, June 3, 2024.
 
 (i) The records required by §§ 240.17Ad-17(d) and 240.17Ad-19(c) shall be maintained for a period of not less than three years, the first year in an easily accessible place.
 
-[42 FR 32414, June 24, 1977, as amended at 47 FR 54063, Dec. 1, 1982; 62 FR 52237, Oct. 7, 1997; 66 FR 21659, May 1, 2001; 68 FR 74401, Dec. 23, 2003; 68 FR 75054, Dec. 29, 2003; 78 FR 4874, Jan. 23, 2013]
+(j) [Reserved]
+
+(k) Every registered transfer agent shall maintain in an easily accessible place:
+
+(1) The written policies and procedures required to be adopted and implemented pursuant to § 248.30(a)(1) of this chapter for no less than three years after the termination of the use of the policies and procedures;
+
+(2) The written documentation of any detected unauthorized access to or use of customer information, as well as any response to, and recovery from such unauthorized access to or use of customer information required by § 248.30(a)(3) of this chapter for no less than three years from the date when the records were made;
+
+(3) The written documentation of any investigation and determination made regarding whether notification is required pursuant to § 248.30(a)(4) of this chapter, including the basis for any determination made, any written documentation from the United States Attorney General related to a delay in notice, as well as a copy of any notice transmitted following such determination, for no less than three years from the date when the records were made;
+
+(4) The written policies and procedures required to be adopted and implemented pursuant to § 248.30(a)(5)(i) of this chapter until three years after the termination of the use of the policies and procedures;
+
+(5) The written documentation of any contract or agreement entered into pursuant to § 248.30(a)(5) of this chapter until three years after the termination of such contract or agreement; and
+
+(6) The written policies and procedures required to be adopted and implemented pursuant to § 248.30(b)(2) of this chapter for no less than three years after the termination of the use of the policies and procedures.
+
+[42 FR 32414, June 24, 1977, as amended at 47 FR 54063, Dec. 1, 1982; 62 FR 52237, Oct. 7, 1997; 66 FR 21659, May 1, 2001; 68 FR 74401, Dec. 23, 2003; 68 FR 75054, Dec. 29, 2003; 78 FR 4874, Jan. 23, 2013. Redesignated and amended at 89 FR 47785, June 3, 2024]

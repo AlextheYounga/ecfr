@@ -20,4 +20,4 @@ This section shall apply to capital advances under the Section 202 Program and t
 
 (2) Occupy, or receive assistance for the occupancy of, a unit or residential space governed under this part 891 while occupying, or receiving assistance for the occupancy of, another unit assisted under any Federal housing assistance program, including any section 8 program.
 
-(Approved by the Office of Management and Budget under control number 2502-0470)[61 FR 11956, Mar. 22, 1996, as amended at 82 FR 58340, Dec. 12, 2017]
+(Approved by the Office of Management and Budget under control number 2502-0470) [61 FR 11956, Mar. 22, 1996, as amended at 82 FR 58340, Dec. 12, 2017]

@@ -10,7 +10,7 @@
 
 (3) Copper tubing must be annealed type, Grade K or L, conforming to the Standard Specification for Seamless Copper Water Tube, ASTM B88-93, or must comply with the Standard Specification for Seamless Copper Tube for Air Conditioning and Refrigeration Service, ASTM B280-1995. Copper tubing must be internally tinned.
 
-(4) Steel tubing must have a minimum wall thickness of 0.032 inch for tubing of1/2 inch diameter and smaller and 0.049 inch for diameters1/2 inch and larger. Steel tubing must be in accordance with ASTM Standard Specification for Electric-Resistance-Welded Coiled Steel Tubing for Gas and Fuel Oil Lines, ASTM A539-1999, and must be externally corrosion protected.
+(4) Steel tubing must have a minimum wall thickness of 0.032 inch for tubing of 1/2 inch diameter and smaller and 0.049 inch for diameters 1/2 inch and larger. Steel tubing must be in accordance with ASTM Standard Specification for Electric-Resistance-Welded Coiled Steel Tubing for Gas and Fuel Oil Lines, ASTM A539-1999, and must be externally corrosion protected.
 
 (5) Corrugated stainless steel tubing (CSST) systems must be listed and installed in accordance with ANSI/IAS LC-1-1997, Fuel Gas Piping Systems Using Corrugated Stainless Steel Tubing (CSST) (incorporated by reference, see § 3280.4), and the requirements of this section.
 
@@ -28,11 +28,11 @@
 
 (6) Suitable protective coverings for the connection device(s) when separated, shall be permanently attached to the device or flexible connector.
 
-(7) When a quick disconnect device is installed, a 3 inch by 13/4 inch minimum size tag made of etched, metal-stamped or embossed brass, stainless steel, anodized or alcalde aluminum not less than 0.020 inch thick or other approved material (e.g., 0.005 inch plastic laminates) shall be permanently attached on the exterior wall adjacent to the access to the “quick disconnect” device. Each tag shall be legibly inscribed with the following information using letters no smaller than1/4 inch high:
+(7) When a quick disconnect device is installed, a 3 inch by 13/4 inch minimum size tag made of etched, metal-stamped or embossed brass, stainless steel, anodized or alcalde aluminum not less than 0.020 inch thick or other approved material (e.g., 0.005 inch plastic laminates) shall be permanently attached on the exterior wall adjacent to the access to the “quick disconnect” device. Each tag shall be legibly inscribed with the following information using letters no smaller than 1/4 inch high:
 
 Do Not Use Tools To Separate the “Quick-Disconnect” Device
 
-(d) *Gas pipe sizing.* Gas piping systems shall be sized so that the pressure drop to any appliance inlet connection from any gas supply connection, when all appliances are in operation at maximum capacity, is not more than 0.5 inch water column as determined on the basis of test, or in accordance with table 3280.705(d). When determining gas pipe sizing in the table, gas shall be assumed to have a specific gravity of 0.65 and rated at 1000 B.T.U. per cubic foot. The natural gas supply connection(s) shall be not less than the size of the gas piping but shall be not smaller than3/4 inch nominal pipe size.
+(d) *Gas pipe sizing.* Gas piping systems shall be sized so that the pressure drop to any appliance inlet connection from any gas supply connection, when all appliances are in operation at maximum capacity, is not more than 0.5 inch water column as determined on the basis of test, or in accordance with table 3280.705(d). When determining gas pipe sizing in the table, gas shall be assumed to have a specific gravity of 0.65 and rated at 1000 B.T.U. per cubic foot. The natural gas supply connection(s) shall be not less than the size of the gas piping but shall be not smaller than 3/4 inch nominal pipe size.
 
 |         ID (in.)         |10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
 |--------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|

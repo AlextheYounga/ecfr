@@ -30,7 +30,7 @@
 
 (m) Boxes, fittings, and cabinets shall be securely fastened in place, and shall be supported from a structural member of the home, either directly or by using a substantial brace. Snap-in type boxes provided with special wall or ceiling brackets that securely fasten boxes in walls or ceilings shall be permitted.
 
-(n) Outlet boxes must fit closely to openings in combustible walls and ceilings and must be flush with the finish surface or project therefrom. In walls and ceilings of noncombustible material, outlet boxes and fittings must be installed so that the front edge of the box or fitting will not be set back from the finished surface more than1/4 inch. Plaster, drywall, or plasterboard surfaces that are broken or incomplete must be repaired so that there will be no gaps or open spaces greater than1/8 inch at the edge of the box or fitting.
+(n) Outlet boxes must fit closely to openings in combustible walls and ceilings and must be flush with the finish surface or project therefrom. In walls and ceilings of noncombustible material, outlet boxes and fittings must be installed so that the front edge of the box or fitting will not be set back from the finished surface more than 1/4 inch. Plaster, drywall, or plasterboard surfaces that are broken or incomplete must be repaired so that there will be no gaps or open spaces greater than 1/8 inch at the edge of the box or fitting.
 
 (o) Appliances having branch-circuit terminal connections which operate at temperatures higher than 60 °C (140 °F) shall have circuit conductors as described in paragraphs (p) (1) and (2) of this section:
 

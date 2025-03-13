@@ -1,8 +1,6 @@
-##### 527.409 Contract clauses. #####
+##### 527.409 Contract clauses (FAR DEVIATION). #####
 
-Link to an amendment published at 89 FR 55086, July 3, 2024.
-
-GSA has a FAR deviation that allows use of the clauses in paragraphs (a) and (b) of this section in lieu of the FAR clause at 52.227-17.
+GSA has a deviation from FAR 52.227-17 that allows use of the clauses in paragraphs (a) and (b) of this section in lieu of the FAR clause at 52.227-17.
 
 (a) Except as provided in paragraph (b) of this section, insert the clause at 552.227-70, Government Rights (Unlimited), in lieu of the FAR clause at 52.227-17, in solicitations and contracts for—
 
@@ -16,4 +14,4 @@ GSA has a FAR deviation that allows use of the clauses in paragraphs (a) and (b)
 
 (2) Construction contracts involving architect-engineer services.
 
-[86 FR 55520, Oct. 6, 2021]
+[86 FR 55520, Oct. 6, 2021, as amended at 89 FR 55086, July 3, 2024]

@@ -2,7 +2,7 @@
 
 (a) *Applicable standards.* (1) Plastic bathtub units, plastic shower receptors and stalls, plastic lavatories, and plastic water closet bowls and tanks shall be designed, assembled and tested in compliance with the following standards, which are incorporated by reference:
 
-ANSI Z124.1—(1980) Plastic Bathtub UnitsANSI Z124.2—(1980) Plastic Shower Receptors and StallsANSI Z124.3—(1980) Plastic LavatoriesANSI Z124.4—(1983) Plastic Water Closet Bowls and Tanks
+ANSI Z124.1—(1980) Plastic Bathtub Units ANSI Z124.2—(1980) Plastic Shower Receptors and Stalls ANSI Z124.3—(1980) Plastic Lavatories ANSI Z124.4—(1983) Plastic Water Closet Bowls and Tanks
 
 (2) These standards have been approved by the Director of the Federal Register for incorporation by reference. They are available from the American National Standards Institute, Inc., 11 West 42nd Street, New York, NY 10036. The standards are also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 

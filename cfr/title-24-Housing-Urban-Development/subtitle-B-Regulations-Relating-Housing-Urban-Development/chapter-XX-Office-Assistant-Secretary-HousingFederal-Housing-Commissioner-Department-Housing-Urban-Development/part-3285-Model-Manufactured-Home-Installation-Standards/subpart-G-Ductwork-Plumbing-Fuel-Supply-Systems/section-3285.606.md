@@ -8,7 +8,7 @@
 
 (d) Air conditioning or heating ducts must be installed in accordance with applicable requirements of the duct manufacturer installation instructions.
 
-(e) The duct must be suspended or supported above the ground by straps or other means that are spaced at a maximum distance not to exceed 4′-0″ or as otherwise permitted by the installation instructions. When straps are used to support a flexible type duct, the straps must be at least1/2″ wider than the spacing of the metal spirals encasing the duct. The ducts must be installed such that the straps cannot slip between any two spirals and arranged under the floor to prevent compression or kinking in any location, as shown in Figures A and B to this section. In-floor crossover ducts are permitted, in accordance with § 3285.606(g).
+(e) The duct must be suspended or supported above the ground by straps or other means that are spaced at a maximum distance not to exceed 4′-0″ or as otherwise permitted by the installation instructions. When straps are used to support a flexible type duct, the straps must be at least 1/2″ wider than the spacing of the metal spirals encasing the duct. The ducts must be installed such that the straps cannot slip between any two spirals and arranged under the floor to prevent compression or kinking in any location, as shown in Figures A and B to this section. In-floor crossover ducts are permitted, in accordance with § 3285.606(g).
 
 (f) Crossover ducts outside the thermal envelope must be insulated with materials that conform to designs consistent with part 3280, subpart F of this chapter.
 

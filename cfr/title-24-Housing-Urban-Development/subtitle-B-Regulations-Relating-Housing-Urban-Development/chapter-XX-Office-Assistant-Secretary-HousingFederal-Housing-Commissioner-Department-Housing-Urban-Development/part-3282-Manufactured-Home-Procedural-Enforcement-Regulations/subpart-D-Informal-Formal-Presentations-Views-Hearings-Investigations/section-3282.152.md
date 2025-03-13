@@ -42,4 +42,4 @@
 
 (ii) An appropriate order.
 
-The presiding officer's decision shall be final and shall constitute the Final Determination of the Secretary unless reversed or modified within 30 days by the Secretary. Notice of the Final Determination shall be given in writing, and transmitted by registered or certified mail, return receipt requested, to all participants in the proceeding. The Final Determination shall be conclusive with respect to persons whose interests were represented.[41 FR 19852, May 13, 1976, as amended at 51 FR 34467, Sept. 29, 1986]
+The presiding officer's decision shall be final and shall constitute the Final Determination of the Secretary unless reversed or modified within 30 days by the Secretary. Notice of the Final Determination shall be given in writing, and transmitted by registered or certified mail, return receipt requested, to all participants in the proceeding. The Final Determination shall be conclusive with respect to persons whose interests were represented. [41 FR 19852, May 13, 1976, as amended at 51 FR 34467, Sept. 29, 1986]

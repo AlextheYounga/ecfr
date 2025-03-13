@@ -1,7 +1,5 @@
 ##### § 275.204-2 Books and records to be maintained by investment advisers. #####
 
-Link to an amendment published at 89 FR 47789, June 3, 2024.
-
 (a) Every investment adviser registered or required to be registered under section 203 of the Act (15 U.S.C. 80b-3) shall make and keep true, accurate and current the following books and records relating to its investment advisory business;
 
 (1) A journal or journals, including cash receipts and disbursements, records, and any other records of original entry forming the basis of entries in any ledger.
@@ -125,6 +123,18 @@ Link to an amendment published at 89 FR 47789, June 3, 2024.
 (23) A copy of any *fairness opinion* or *valuation opinion* and material business relationship summary *distributed* pursuant to § 275.211(h)(2)-2, along with a record of each addressee and the corresponding date(s) sent.
 
 (24) A copy of any notification, consent or other document *distributed* or received pursuant to § 275.211(h)(2)-1, along with a record of each addressee and the corresponding date(s) sent for each such document distributed by the adviser.
+
+(25)(i) The written policies and procedures required to be adopted and implemented pursuant to § 248.30(a)(1);
+
+(ii) The written documentation of any detected unauthorized access to or use of customer information, as well as any response to, and recovery from such unauthorized access to or use of customer information required by § 248.30(a)(3) of this chapter;
+
+(iii) The written documentation of any investigation and determination made regarding whether notification is required pursuant to § 248.30(a)(4) of this chapter, including the basis for any determination made, any written documentation from the United States Attorney General related to a delay in notice, as well as a copy of any notice transmitted following such determination;
+
+(iv) The written policies and procedures required to be adopted and implemented pursuant to § 248.30(a)(5)(i) of this chapter;
+
+(v) The written documentation of any contract or agreement entered into pursuant to § 248.30(a)(5) of this chapter; and
+
+(vi) The written policies and procedures required to be adopted and implemented pursuant to § 248.30(b)(2) of this chapter.
 
 (b) If an investment adviser subject to paragraph (a) of this section has custody or possession of securities or funds of any client, the records required to be made and kept under paragraph (a) of this section shall include:
 

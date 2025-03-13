@@ -1,7 +1,5 @@
 ##### § 17.41 Species-specific rules—birds. #####
 
-Link to an amendment published at 89 FR 55113, July 3, 2024.
-
 (a) Streaked horned lark (*Eremophila alpestris strigata*).
 
 (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to streaked horned lark. Except as provided under paragraph (a)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
@@ -220,7 +218,89 @@ Link to an amendment published at 89 FR 55113, July 3, 2024.
 
 (vi) Incidental take resulting from prescribed burns, grazing, and mowing or other mechanical treatment activities in existing moist soil management units or prior converted croplands (e.g., impoundments for rice or other cereal grain production) is allowed.
 
-(g)-(j) [Reserved]
+(g)-(h) [Reserved]
+
+(i) Mount Rainier white-tailed ptarmigan (*Lagopus leucura rainierensis*).
+
+(1) *Prohibitions.* The following prohibition that applies to endangered wildlife also applies to the Mount Rainier white-tailed ptarmigan. Except as provided under paragraph (i)(2) of this section and § 17.4, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of a commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* With regard to this subspecies, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (4) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(v) Take in accordance with these provisions:
+
+(A) *Human safety and emergency response.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of carrying out official emergency response activities related to human safety and the protection of natural resources.
+
+(B) *Lawful outdoor recreation.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of lawfully conducting outdoor recreational activities, such as hiking (including associated authorized pack animals and domestic dogs handled in compliance with existing regulations), camping, backcountry skiing, mountain biking, snowmobiling, climbing, and hunting where these activities are allowed. We consider outdoor recreation lawful if it is carried out in accordance with the recreation rules and limits established by the State, Federal, or Tribal agency managing the land.
+
+(C) *Habitat restoration actions.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of carrying out authorized habitat restoration consistent with the conservation needs of Mount Rainier white-tailed ptarmigan. We consider habitat restoration and enhancement activities authorized if they are consistent with Mount Rainier white-tailed ptarmigan conservation prescriptions or objectives that are specifically included in established Federal, State, or Tribal conservation plans and documents.
+
+(D) *Predator control.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of carrying out lawful, authorized predator control for the purpose of Mount Rainier white-tailed ptarmigan conservation if reasonable care is practiced to minimize effects to Mount Rainier white-tailed ptarmigan. Predator control activities may include the use of fencing, trapping, shooting, and toxicants to control predators, and related activities such as performing efficacy surveys, trap checks, and maintenance duties. Any predator control conducted for the purposes of conservation of Mount Rainier white-tailed ptarmigan is considered authorized if it is carried out in accordance with the rules and limits established by the State, Federal, or Tribal agency managing the land and coordinated in in advance with the Service.
+
+(E) *Forest management.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of carrying out legal and authorized forest management activities, including, but not limited to, timber harvest, and fire and vegetation management. We consider forest management activities legal and authorized if they are carried out in accordance with the forest practices rules and limits established by the State, Federal, or Tribal agency managing the land.
+
+(F) *Routine maintenance to infrastructure.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of carrying out authorized routine maintenance of public or private infrastructure (*e.g.,* buildings, roads, parking lots, viewpoints, trails, designated camp sites, developed ski areas, and helicopter landing pads) and supporting infrastructure (*e.g.,* benches, signs, safety features) within or adjacent to Mount Rainier white-tailed ptarmigan habitat. We consider maintenance activities authorized if they are carried out in accordance with the rules established by the State, Federal, or Tribal agency managing the land. This exception does not extend to take associated with the development of new infrastructure.
+
+(G) *Reporting and disposal requirements.* Any take (injury or mortality) of Mount Rainier white-tailed ptarmigan associated with the actions excepted under paragraphs (i)(2)(v)(A) through (G) of this section must be reported to the Service and authorized State wildlife officials within 72 hours, and specimens may be disposed of only in accordance with directions from the Service. Reports should be made to the Service's Office of Law Enforcement; contact information for that office is located at 50 CFR 10.22.
+
+(i) Mount Rainier white-tailed ptarmigan (*Lagopus leucura rainierensis*).
+
+(1) *Prohibitions.* The following prohibition that applies to endangered wildlife also applies to the Mount Rainier white-tailed ptarmigan. Except as provided under paragraph (i)(2) of this section and § 17.4, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of a commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* With regard to this subspecies, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (4) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(v) Take in accordance with these provisions:
+
+(A) *Human safety and emergency response.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of carrying out official emergency response activities related to human safety and the protection of natural resources.
+
+(B) *Lawful outdoor recreation.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of lawfully conducting outdoor recreational activities, such as hiking (including associated authorized pack animals and domestic dogs handled in compliance with existing regulations), camping, backcountry skiing, mountain biking, snowmobiling, climbing, and hunting where these activities are allowed. We consider outdoor recreation lawful if it is carried out in accordance with the recreation rules and limits established by the State, Federal, or Tribal agency managing the land.
+
+(C) *Habitat restoration actions.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of carrying out authorized habitat restoration consistent with the conservation needs of Mount Rainier white-tailed ptarmigan. We consider habitat restoration and enhancement activities authorized if they are consistent with Mount Rainier white-tailed ptarmigan conservation prescriptions or objectives that are specifically included in established Federal, State, or Tribal conservation plans and documents.
+
+(D) *Predator control.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of carrying out lawful, authorized predator control for the purpose of Mount Rainier white-tailed ptarmigan conservation if reasonable care is practiced to minimize effects to Mount Rainier white-tailed ptarmigan. Predator control activities may include the use of fencing, trapping, shooting, and toxicants to control predators, and related activities such as performing efficacy surveys, trap checks, and maintenance duties. Any predator control conducted for the purposes of conservation of Mount Rainier white-tailed ptarmigan is considered authorized if it is carried out in accordance with the rules and limits established by the State, Federal, or Tribal agency managing the land and coordinated in in advance with the Service.
+
+(E) *Forest management.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of carrying out legal and authorized forest management activities, including, but not limited to, timber harvest, and fire and vegetation management. We consider forest management activities legal and authorized if they are carried out in accordance with the forest practices rules and limits established by the State, Federal, or Tribal agency managing the land.
+
+(F) *Routine maintenance to infrastructure.* A person may incidentally take Mount Rainier white-tailed ptarmigan in the course of carrying out authorized routine maintenance of public or private infrastructure (*e.g.,* buildings, roads, parking lots, viewpoints, trails, designated camp sites, developed ski areas, and helicopter landing pads) and supporting infrastructure (*e.g.,* benches, signs, safety features) within or adjacent to Mount Rainier white-tailed ptarmigan habitat. We consider maintenance activities authorized if they are carried out in accordance with the rules established by the State, Federal, or Tribal agency managing the land. This exception does not extend to take associated with the development of new infrastructure.
+
+(G) *Reporting and disposal requirements.* Any take (injury or mortality) of Mount Rainier white-tailed ptarmigan associated with the actions excepted under paragraphs (i)(2)(v)(A) through (G) of this section must be reported to the Service and authorized State wildlife officials within 72 hours, and specimens may be disposed of only in accordance with directions from the Service. Reports should be made to the Service's Office of Law Enforcement; contact information for that office is located at 50 CFR 10.22.
+
+(j) [Reserved]
 
 (k) Lesser prairie-chicken *(Tympanuchus pallidicinctus),* Northern Distinct Population Segment (DPS). The Northern DPS of the lesser prairie-chicken pertains to lesser prairie-chickens found northeast of a line starting in Colorado at 37.9868 N, 105.0133 W, going through northeastern New Mexico, and ending in Texas at 31.7351 N, 98.3773 W, NAD83, as shown in the map:
 
@@ -364,4 +444,4 @@ Figure 1 to paragraph (k)![](/graphics/er25no22.032.gif)
 
 (vii) Conduct activities as authorized by a captive-bred wildlife registration under § 17.21(g) for endangered wildlife.
 
-[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022; 87 FR 64720, Oct. 26, 2022; 87 FR 72753, Nov. 25, 2022; 87 FR 73971, Dec. 2, 2022; 88 FR 46949, July 20, 2023; 89 FR 23940, Apr. 5, 2024]
+[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022; 87 FR 64720, Oct. 26, 2022; 87 FR 72753, Nov. 25, 2022; 87 FR 73971, Dec. 2, 2022; 88 FR 46949, July 20, 2023; 89 FR 23940, Apr. 5, 2024; 89 FR 55113, July 3, 2024]

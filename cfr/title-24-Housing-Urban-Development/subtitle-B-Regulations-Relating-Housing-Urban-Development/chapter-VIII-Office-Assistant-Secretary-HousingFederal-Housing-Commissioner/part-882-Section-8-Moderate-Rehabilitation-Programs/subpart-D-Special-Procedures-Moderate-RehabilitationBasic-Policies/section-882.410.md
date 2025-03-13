@@ -12,4 +12,4 @@
 
 (b) *Overall limitation.* Notwithstanding any other provisions of this part, adjustments as provided in this section must not result in material differences between the rents charged for assisted and comparable unassisted units, as determined by the PHA (and approved by HUD in the case of adjustments under paragraph (a)(2) of this section). However, unless the rents have been adjusted in accordance with § 882.409, this limitation should not be construed to prohibit differences in rents between assisted and comparable unassisted units to the extent that differences existed with respect to the initial Contract Rents.
 
-(Approved by the Office of Management and Budget under OMB approval number 2577-0196)[47 FR 34379, Aug. 9, 1982, as amended at 59 FR 47773, Sept. 16, 1994]
+(Approved by the Office of Management and Budget under OMB approval number 2577-0196) [47 FR 34379, Aug. 9, 1982, as amended at 59 FR 47773, Sept. 16, 1994]

@@ -4,7 +4,7 @@
 
 (b) *Fireblocking materials.* Fireblocking must consist of the following materials:
 
-(1) Minimum one inch nominal lumber,5/16 inch thick gypsum board, or equivalent fire resistive materials; or
+(1) Minimum one inch nominal lumber, 5/16 inch thick gypsum board, or equivalent fire resistive materials; or
 
 (2) Other Listed or Approved Materials;
 

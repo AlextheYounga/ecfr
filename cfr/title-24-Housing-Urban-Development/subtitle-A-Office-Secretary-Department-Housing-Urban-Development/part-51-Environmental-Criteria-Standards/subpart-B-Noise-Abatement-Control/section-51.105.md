@@ -14,4 +14,4 @@
 
 (6) Other sites which are not exposed to noise above Ldn 65 and which meet program objectives are generally not available.
 
-The above factors shall be documented and made part of the project file.[44 FR 40861, July 12, 1979, as amended at 61 FR 13334, Mar. 26, 1996]
+The above factors shall be documented and made part of the project file. [44 FR 40861, July 12, 1979, as amended at 61 FR 13334, Mar. 26, 1996]

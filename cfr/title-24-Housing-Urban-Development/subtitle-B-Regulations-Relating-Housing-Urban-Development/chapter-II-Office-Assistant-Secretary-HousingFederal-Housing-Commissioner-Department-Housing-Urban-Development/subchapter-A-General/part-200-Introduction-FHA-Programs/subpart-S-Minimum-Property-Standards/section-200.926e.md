@@ -4,7 +4,7 @@ The following shall be used in Table No. R-202, Climatic and Geographic Design C
 
 (a) *Roof live loads.*
 
-Roof slope 3 in 12 or less: 20 psfRoof slope over 3 in 12: 15 psfRoof used as deck: 40 psf
+Roof slope 3 in 12 or less: 20 psf Roof slope over 3 in 12: 15 psf Roof used as deck: 40 psf
 
 (b) *Roof snow load.* The roof snow load shall be in accordance with section 7 of ASCE 7-88.
 

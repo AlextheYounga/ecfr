@@ -1,10 +1,8 @@
-##### 552.212-4 Contract Terms and Conditions—Commercial Products and Commercial Services (FAR DEVIATION 52.212-4). #####
-
-Link to an amendment published at 89 FR 55086, July 3, 2024.
+##### 552.212-4 Contract Terms and Conditions—Commercial Products and Commercial Services (FAR DEVIATION). #####
 
 As prescribed in 512.301(b), replace subparagraph (g)(2), paragraph (s), and paragraph (u) of FAR clause 52.212-4. Also, add paragraph (w) to FAR clause 52.212-4.
 
-Contract Terms and Conditions—Commercial Products and Commercial Services (FAR DEVIATION) (JAN, 2022)
+Contract Terms and Conditions—Commercial Products and Commercial Services (DEVIATION FAR 52.212-4) (JAN 2023)
 
 (g)(2) The due date for making invoice payments by the designated payment office is the later of the following two events:
 
@@ -96,4 +94,4 @@ Contract Terms and Conditions—Commercial Products and Commercial Services (FAR
 
 (2) If any language, provision, or clause of this agreement conflicts or is inconsistent with the preceding paragraph (w)(1), the language, provisions, or clause of paragraph (w)(1) shall prevail to the extent of such inconsistency.
 
-(End of clause)[74 FR 54918, Oct. 26, 2009, as amended at 83 FR 7634, Feb. 22, 2018; 86 FR 68443, Dec. 2, 2021; 87 FR 76112, Dec. 13, 2022]
+(End of clause)[74 FR 54918, Oct. 26, 2009, as amended at 83 FR 7634, Feb. 22, 2018; 86 FR 68443, Dec. 2, 2021; 87 FR 76112, Dec. 13, 2022; 89 FR 55086, July 3, 2024]
