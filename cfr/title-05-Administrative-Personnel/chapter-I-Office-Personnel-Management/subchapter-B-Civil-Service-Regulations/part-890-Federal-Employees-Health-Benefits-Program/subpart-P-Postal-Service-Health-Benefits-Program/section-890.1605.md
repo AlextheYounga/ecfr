@@ -18,15 +18,23 @@
 
 (3) During the transitional Open Season, a Postal Service employee in a nonpay status, such as leave without pay, except for the case of a 365-day period of nonpay status as set forth at § 890.303(e), may enroll in a PSHB plan or may be automatically enrolled in a PSHB plan pursuant to paragraph (b)(2) of this section.
 
-(c) *Automatic enrollment.* Each Postal Service employee or Postal Service annuitant who is enrolled in a current plan and does not enroll or make an election not to enroll, for the initial contract year, will be automatically enrolled in a PSHB plan by OPM as follows:
+(c) *Automatic enrollment.* Each Postal Service employee or Postal Service annuitant who is enrolled in an FEHB plan on December 31, 2024, and does not make an enrollment action during the transitional Open Season under paragraph (b) of this section, will be automatically enrolled in the PSHB Program as follows:
 
-(1) In a PSHB plan by the carrier of the individual's current plan if the carrier offers only one plan under this subpart.
+(1) *Into corresponding plan.* Individuals enrolled in a carrier's 2024 FEHB plan where the carrier offers the same plan in 2025 in FEHB and offers a 2025 PSHB plan with at least one option that has equivalent benefits and cost sharing and in the same geographic area as the 2025 FEHB plan, will be enrolled in that 2025 PSHB plan and into an option as follows:
 
-(2) If the carrier of the individual's current plan offers more than one health benefits plan or option under this subpart, in the plan and option offered by that carrier that provides coverage with equivalent benefits and cost sharing to the individual's current plan and option, as determined by OPM.
+(i) *Equivalent option.* Individuals enrolled in a carrier's 2024 FEHB option where the carrier offers that option in 2025 in FEHB and also offers a 2025 PSHB option with equivalent benefits and cost sharing as the 2025 FEHB option, as determined by OPM, will be automatically enrolled into that 2025 PSHB option; or
 
-(3) If there is no such plan as identified by OPM in paragraph (c)(1) or (2) of this section, in the lowest-cost nationwide plan option offered under this subpart that is not a high deductible health plan and does not charge an association or membership fee as determined by OPM.
+(ii) *No equivalent option.* Individuals enrolled in a carrier's 2024 FEHB option where the carrier does not offer a 2025 PSHB option that meets the criteria in (1)(i), will be automatically enrolled into the lowest-cost option of the 2025 PSHB plan, that is not a High Deductible Health Plan (HDHP) and does not charge an association or membership fee, except that if the only option is an HDHP, then the individual will be enrolled in that HDHP option.
 
-(4) All enrollments under paragraph (c)(1) of this section will be in the same enrollment type as the current enrollment type.
+(2) *Into a 2025 PSHB plan where the carrier offers no 2025 FEHB plan.* Individuals enrolled in a carrier's 2024 FEHB plan where the carrier offers no 2025 FEHB plan and offers a 2025 PSHB plan with at least one option with similar benefits and cost sharing and in the same geographic area as the 2024 FEHB plan, as determined by OPM, will be enrolled in that 2025 PSHB plan and into an option as follows:
+
+(i) *Similar option.* Individuals enrolled in a carrier's 2024 FEHB option where the carrier offers a 2025 PSHB option with similar benefits and cost sharing as the 2024 FEHB option, as determined by OPM, will be automatically enrolled into that 2025 PSHB option; or
+
+(ii) *No similar option.* Individuals enrolled in a carrier's 2024 FEHB option where the carrier does not offer a 2025 PSHB option that meets the criteria in paragraph (c)(2)(i) of this section, will be automatically enrolled into the lowest-cost option of the 2025 PSHB plan, or in the case where the 2025 PSHB plan has two or more options, into the lowest-cost option that is not a High Deductible Health Plan (HDHP) and does not charge an association or membership fee.
+
+(3) *Into different plan.* Individuals enrolled in a carrier's 2024 FEHB plan where paragraphs (c)(1) and (2) of this section do not apply will be enrolled in the lowest-cost nationwide PSHB option, consistent with § 890.301(n).
+
+(4) *Same enrollment type.* Individuals automatically enrolled under this section will be automatically enrolled into the same enrollment type as the individual's 2024 enrollment type.
 
 (d) *Automatic enrollment—effect on family members.* A Postal Service employee or Postal Service annuitant automatically enrolled under paragraph (c) of this section will be enrolled in the same enrollment type they were enrolled in immediately preceding the initial contract year. The enrollee's family member(s), if eligible, will be covered under the same enrollment type they were covered under immediately preceding the initial contract year.
 
@@ -43,3 +51,5 @@
 (3) OPM may, in its discretion, deem other individuals or groups of individuals to have met the requirement to show that they were unable to enroll for cause beyond their control.
 
 (4) Unless required to be a prospective change by governing premium conversion under part 892 of this chapter, a belated Open Season enrollment or enrollment change, coverage, and premium obligation take effect on January 1 of the contract year.
+
+[88 FR 20403, Apr. 6, 2023, as amended at 89 FR 85028, Oct. 24, 2024]

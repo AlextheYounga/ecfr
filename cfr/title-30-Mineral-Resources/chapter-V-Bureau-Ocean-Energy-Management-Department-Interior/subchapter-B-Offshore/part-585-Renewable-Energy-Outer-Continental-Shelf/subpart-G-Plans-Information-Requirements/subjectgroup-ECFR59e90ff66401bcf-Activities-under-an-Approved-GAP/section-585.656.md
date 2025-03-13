@@ -1,0 +1,3 @@
+##### § 585.656 What must I do if I cease activities approved in my GAP before the end of my term? #####
+
+You must notify BOEM any time you cease activities under your approved GAP without an approved suspension. If you cease activities for an indefinite period that exceeds 6 months, BOEM may cancel your lease or grant under § 585.422, as applicable, and you must initiate the decommissioning process, as set forth in 30 CFR part 285, subpart I.

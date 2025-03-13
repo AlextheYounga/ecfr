@@ -1,0 +1,3 @@
+##### § 585.651 When may I construct complex or significant OCS facilities on my limited lease or any facilities on my project easement proposed under my GAP? #####
+
+If you are applying for a project easement or installing a facility or a combination of facilities on your limited lease deemed by BOEM to be complex or significant, as provided in § 585.648(a)(1), you also must comply with the requirements of 30 CFR part 285, subpart G, and submit your safety management system description required by 30 CFR 285.810 before construction may begin.

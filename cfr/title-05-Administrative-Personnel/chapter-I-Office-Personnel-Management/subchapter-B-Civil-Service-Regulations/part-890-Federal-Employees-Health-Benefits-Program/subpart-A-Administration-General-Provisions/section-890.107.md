@@ -16,4 +16,6 @@
 
 (e) A suit for equitable relief founded on 5 U.S.C. chapter 89 that is based on 5 U.S.C. 8902(p) and is governed by 5 CFR part 890 must be brought against OPM by December 31 of the 3rd year after the year in which disputed services were rendered.
 
-[61 FR 15179, Apr. 5, 1996, as amended at 86 FR 36947, July 13, 2021]
+(f) A suit to compel enrollment or for equitable relief from an adverse enrollment action founded on 5 U.S.C. chapter 89 that is based on information received by OPM pursuant to an agreement with a source agency as defined at § 890.1602, to determine whether Postal Service annuitants or family members of such annuitants satisfy the enrollment requirements set forth in 5 U.S.C. 8903c, may not be brought later than December 31 of the 3rd year after the year in which the enrollment action was effectuated, and will be limited to the record that was before OPM when it effectuated the enrollment action.
+
+[61 FR 15179, Apr. 5, 1996, as amended at 86 FR 36947, July 13, 2021; 89 FR 85028, Oct. 24, 2024]

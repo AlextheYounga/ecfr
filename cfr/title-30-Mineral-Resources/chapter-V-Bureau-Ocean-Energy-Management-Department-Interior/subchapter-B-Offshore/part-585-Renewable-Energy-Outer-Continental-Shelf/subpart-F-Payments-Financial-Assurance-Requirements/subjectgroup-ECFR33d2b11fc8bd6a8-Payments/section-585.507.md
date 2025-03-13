@@ -2,7 +2,7 @@
 
 (a) You must pay rent to ONRR as provided in 30 CFR 1218.51 for your project easement in the amount of $5 per acre, subject to a minimum of $450 per year, unless specified otherwise in the lease.
 
-(1) The size of the project easement will be determined according to § 85.628(g)(1).
+(1) The size of the project easement will be determined according to § 585.628(g)(1).
 
 (2) The size of a project easement area for an accessory platform is limited to the areal extent of anchor chains and other facilities and devices associated with the accessory.
 

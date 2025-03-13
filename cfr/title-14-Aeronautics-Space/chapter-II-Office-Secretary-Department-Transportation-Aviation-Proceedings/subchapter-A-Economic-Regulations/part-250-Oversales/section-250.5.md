@@ -1,5 +1,7 @@
 ##### § 250.5 Amount of denied boarding compensation for passengers denied boarding involuntarily. #####
 
+Link to an amendment published at 89 FR 84818, Oct. 24, 2024.
+
 (a) Subject to the exceptions provided in § 250.6, a carrier to whom this part applies as described in § 250.2 shall pay compensation in interstate air transportation to passengers who are denied boarding involuntarily from an oversold flight as follows:
 
 (1) No compensation is required if the carrier offers alternate transportation that, at the time the arrangement is made, is planned to arrive at the airport of the passenger's first stopover, or if none, the airport of the passenger's final destination not later than one hour after the planned arrival time of the passenger's original flight;

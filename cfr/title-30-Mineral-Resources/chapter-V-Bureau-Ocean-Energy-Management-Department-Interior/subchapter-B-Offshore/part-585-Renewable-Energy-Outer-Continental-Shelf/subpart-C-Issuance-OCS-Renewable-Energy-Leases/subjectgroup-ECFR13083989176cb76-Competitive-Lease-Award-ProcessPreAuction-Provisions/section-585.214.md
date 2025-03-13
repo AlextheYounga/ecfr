@@ -12,7 +12,7 @@
 
 (iv) Requirements for performance under the lease, including site-specific lease stipulations and environmental mitigation measures;
 
-(2) Steps a bidder must take to ensure eligibility to participate in the auction (e.g.,\> financial forms, bid deposits);
+(2) Steps a bidder must take to ensure eligibility to participate in the auction (e.g. financial forms, bid deposits);
 
 (3) The availability and potential value of bidding credit(s), if any are offered, and the actions or commitments required to obtain them.
 

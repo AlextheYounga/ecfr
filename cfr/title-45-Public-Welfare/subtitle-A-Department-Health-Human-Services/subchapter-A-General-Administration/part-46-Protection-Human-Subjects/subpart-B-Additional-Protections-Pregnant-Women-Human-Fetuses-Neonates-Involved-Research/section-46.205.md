@@ -18,7 +18,7 @@
 
 (ii) The purpose of the research is the development of important biomedical knowledge which cannot be obtained by other means and there will be no added risk to the neonate resulting from the research; and
 
-(2) The legally effective informed consent of either parent of the neonate or, if neither parent is able to consent because of unavailability, incompetence, or temporary incapacity, the legally effective informed consent of either parent's legally authorized representative is obtained in accord with subpart A of this part, except that the consent of the father or his legally authorized representative need not be obtained if the pregnancy resulted from rape or incest.
+(2) The legally effective informed consent of either parent of the neonate or, if neither parent is able to consent because of unavailability, incompetence, or temporary incapacity, the legally effective informed consent of either parent's legally authorized representative is obtained in accord with the pre-2018 Requirements or the 2018 Requirements, as applicable, except that the consent of the father or his legally authorized representative need not be obtained if the pregnancy resulted from rape or incest.
 
 (c) *Nonviable neonates.* After delivery nonviable neonate may not be involved in research covered by this subpart unless all of the following additional conditions are met:
 
@@ -30,6 +30,8 @@
 
 (4) The purpose of the research is the development of important biomedical knowledge that cannot be obtained by other means; and
 
-(5) The legally effective informed consent of both parents of the neonate is obtained in accord with subpart A of this part, except that the waiver and alteration provisions of § 46.116(c) and (d) do not apply. However, if either parent is unable to consent because of unavailability, incompetence, or temporary incapacity, the informed consent of one parent of a nonviable neonate will suffice to meet the requirements of this paragraph (c)(5), except that the consent of the father need not be obtained if the pregnancy resulted from rape or incest. The consent of a legally authorized representative of either or both of the parents of a nonviable neonate will not suffice to meet the requirements of this paragraph (c)(5).
+(5) The legally effective informed consent of both parents of the neonate is obtained in accord with the pre-2018 Requirements or the 2018 Requirements, as applicable, except that the waiver and alteration provisions of § 46.116 of the pre-2018 Requirements or the 2018 Requirements do not apply. However, if either parent is unable to consent because of unavailability, incompetence, or temporary incapacity, the informed consent of one parent of a nonviable neonate will suffice to meet the requirements of this paragraph (c)(5), except that the consent of the father need not be obtained if the pregnancy resulted from rape or incest. The consent of a legally authorized representative of either or both of the parents of a nonviable neonate will not suffice to meet the requirements of this paragraph (c)(5).
 
-(d) *Viable neonates.* A neonate, after delivery, that has been determined to be viable may be included in research only to the extent permitted by and in accord with the requirements of subparts A and D of this part.
+(d) *Viable neonates.* A neonate, after delivery, that has been determined to be viable may be included in the research only to the extent permitted by and in accord with the requirements of the pre-2018 Requirements or the 2018 Requirements, as applicable, and subpart D of this part.
+
+[66 FR 56778, Nov. 13, 2001, as amended at 89 FR 84825, Oct. 24, 2024]

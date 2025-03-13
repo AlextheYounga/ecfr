@@ -1,5 +1,7 @@
 ##### § 250.9 Written explanation of denied boarding compensation and boarding priorities, and verbal notification of denied boarding compensation. #####
 
+Link to an amendment published at 89 FR 84818, Oct. 24, 2024.
+
 (a) Every carrier shall furnish passengers who are denied boarding involuntarily from flights on which they hold confirmed reserved space immediately after the denied boarding occurs, a written statement explaining the terms, conditions, and limitations of denied boarding compensation, and describing the carriers' boarding priority rules and criteria. The carrier shall also furnish the statement to any person upon request at all airport ticket selling positions which are in the charge of a person employed exclusively by the carrier, or by it jointly with another person or persons, and at all boarding locations being used by the carrier.
 
 (b) The statement shall read as follows:
