@@ -88,16 +88,8 @@
 
 (iv) Actions taken to advertise the military spouse hiring authority, and any other actions taken to promote the hiring of military spouses.
 
-(2) As required by section 573(d) of Public Law 115-232, each agency shall report annually until August 13, 2023, and separate from the report required in paragraph (h)(1) of this section on the following:
+(2) Agencies must send their reports electronically to OPM's Employee Services, VETS Office at *militaryspouse@opm.gov.*
 
-(i) The number of relocating and non-relocating spouses of current military members appointed under this authority;
-
-(ii) The types of positions filled (by title, series, and grade level); and
-
-(iii) The effectiveness of this hiring authority.
-
-(3) Agencies should send their reports electronically to OPM's Employee Services, VETS Office at *militaryspouse@opm.gov*.
-
-(4) Agencies are also required to send their reports separately and directly to Department of Labor (DOL) at *milspouse@dol.gov*.
+(3) Agencies are also required to send their reports separately and directly to Department of Labor (DOL) at *milspouse@dol.gov*.
 
 [74 FR 40476, Aug. 12, 2009, as amended at 76 FR 54072, Aug. 31, 2011; 86 FR 52396, Sept. 21, 2021; 88 FR 66678, Sept. 28, 2023]

@@ -1,5 +1,7 @@
 ##### § 4401.102 Prohibited and restricted financial interests and transactions. #####
 
+Link to an amendment published at 89 FR 14574, Feb. 28, 2024.
+
 (a) *Applicability.* The requirements of this section apply to all securities holdings or transactions effected, directly or indirectly, by or on behalf of a member or employee, the member's or employee's spouse, the member's or employee's unemancipated minor child, or any person for whom the member or employee serves as legal guardian. A member or employee is deemed to have sufficient interest in the securities holdings and transactions of his or her spouse, unemancipated minor child, or person for whom the member or employee serves as legal guardian that such holdings or transactions are subject to all the terms of this part.
 
 (b) *In general.* (1) Members and employees are prohibited from purchasing or selling any security while in possession of material nonpublic information regarding that security. Nonpublic information has the meaning as provided in 5 CFR 2635.703(b).

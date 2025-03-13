@@ -170,6 +170,8 @@ In addition to the definitions set forth in sec. 3 of the Workforce Innovation a
 
 *State hearing official* means a State official designated to preside at State administrative hearings convened to resolve complaints involving ES regulations pursuant to subpart E of part 658 of this chapter.
 
+*State Workforce Agency (SWA) official* means an individual employed by the State Workforce Agency or any of its subdivisions.
+
 *State Workforce Development Board* or *State WDB* means the entity within a State appointed by the Governor under sec. 101 of WIOA.
 
 *Supply State(s)* means a State that potentially has U.S. workers who may be recruited for referral through the Agricultural Recruitment System to the area of intended employment in a different State.
@@ -274,4 +276,4 @@ WLMI also may include, as either source data or as outputs of analysis of source
 
 *Work test* means activities designed to ensure that an individual whom a State determines to be eligible for unemployment insurance benefits is able to work, available for work, and actively seeking work in accordance with the State's unemployment compensation law.
 
-[81 FR 56333, Aug. 19, 2016, as amended at 85 FR 625, Jan. 6, 2020; 88 FR 82723, Nov. 24, 2023]
+[81 FR 56333, Aug. 19, 2016, as amended at 85 FR 625, Jan. 6, 2020; 88 FR 82723, Nov. 24, 2023; 89 FR 14582, Feb. 28, 2024]

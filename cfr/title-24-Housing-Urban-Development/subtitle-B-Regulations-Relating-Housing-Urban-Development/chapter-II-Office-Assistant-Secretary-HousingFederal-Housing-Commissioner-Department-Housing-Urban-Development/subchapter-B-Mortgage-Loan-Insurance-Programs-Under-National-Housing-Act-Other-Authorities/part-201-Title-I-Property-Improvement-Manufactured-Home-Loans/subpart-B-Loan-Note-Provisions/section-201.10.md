@@ -1,5 +1,7 @@
 ##### § 201.10 Loan amounts. #####
 
+Link to an amendment published at 89 FR 14587, Feb. 28, 2024.
+
 (a) *Property improvement loans.* (1) The total principal obligation for a property improvement loan shall not exceed the actual cost of the project plus any applicable fees and charges authorized at § 201.25(b), up to the following maximum loan amounts:
 
 (i) Single family property improvement loans—$25,000, except that a loan for a manufactured home that qualifies as real property shall be limited to $17,500.
