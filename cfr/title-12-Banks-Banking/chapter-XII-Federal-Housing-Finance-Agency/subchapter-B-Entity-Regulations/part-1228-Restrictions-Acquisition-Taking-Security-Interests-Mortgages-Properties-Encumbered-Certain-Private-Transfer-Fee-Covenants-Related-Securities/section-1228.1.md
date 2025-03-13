@@ -1,5 +1,7 @@
 ##### § 1228.1 Definitions. #####
 
+Link to an amendment published at 89 FR 17716, Mar. 12, 2024.
+
 For the purposes of this part, the following definitions apply:
 
 *Adjacent or contiguous property* means property that borders the burdened community, *provided that* such adjacent or contiguous property may be separated from the burdened community by public right of way.

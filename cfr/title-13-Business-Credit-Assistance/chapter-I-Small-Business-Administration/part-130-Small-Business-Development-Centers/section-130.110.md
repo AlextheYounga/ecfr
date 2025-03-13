@@ -86,7 +86,7 @@
 
 *Office of Small Business Development Centers (OSBDC).* The SBA program office providing leadership and program oversight, managing the funding formula, program budget, and the establishment and maintenance of all program policy over the national SBDC network.
 
-*Overmatched amount.* Contributions of non-Federal cash and of non-cash resources for authorized SBDC activities in excess of the statutorily required match.
+*Overmatched amount.* Overmatched amounts are those which are derived from eligible matching sources; are reasonable, allowable, and allocable to the SBDC program; are over and above the minimum match required to the federal expenditures; and are included on the required SBDC financial reporting to SBA for the project period.
 
 *Prior approval.* The written concurrence from the appropriate SBA AA/SBDC, Deputy Associate Administrator for the Office of Small Business Development Centers, Grants Management Officer, Grants Management Specialist, or Program Manager for a proposed action or amendment to the SBDC cooperative agreement.
 
@@ -132,4 +132,4 @@
 
 *Training record.* A record that provides aggregate data about a training event to include training topic and program format.
 
-[60 FR 31056, June 13, 1995, as amended at 88 FR 76639, Nov. 7, 2023]
+[60 FR 31056, June 13, 1995, as amended at 88 FR 76639, Nov. 7, 2023; 89 FR 17717, Mar. 12, 2024]

@@ -1,5 +1,7 @@
 ##### § 236.3 Policy. #####
 
+Link to an amendment published at 89 FR 17747, Mar. 12, 2024.
+
 It is DoD policy to:
 
 (a) Establish a comprehensive approach to require safeguarding of covered defense information on covered contractor information systems and to require contractor cyber incident reporting.

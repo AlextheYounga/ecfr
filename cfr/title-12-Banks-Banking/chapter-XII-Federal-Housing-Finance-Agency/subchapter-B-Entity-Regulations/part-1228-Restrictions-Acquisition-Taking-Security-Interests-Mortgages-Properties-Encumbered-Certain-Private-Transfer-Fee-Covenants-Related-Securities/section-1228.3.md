@@ -1,3 +1,5 @@
 ##### § 1228.3 Prospective application and effective date. #####
 
+Link to an amendment published at 89 FR 17716, Mar. 12, 2024.
+
 This part shall apply only to mortgages on properties encumbered by private transfer fee covenants if those covenants are created on or after February 8, 2011. This part shall not apply to mortgages on properties encumbered by private transfer fee covenants if those covenants are created pursuant to an agreement entered into before February 8, 2011, applicable to land that is identified in the agreement, and the agreement was in settlement of litigation or approved by a government agency or body. This part also applies to securities backed by mortgages to which this part applies, and to securities issued after February 8, 2011, backed by revenue from private transfer fees regardless of when the covenants were created. The regulated entities shall comply with this part not later July 16, 2012.

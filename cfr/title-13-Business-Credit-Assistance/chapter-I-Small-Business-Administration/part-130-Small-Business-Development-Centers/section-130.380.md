@@ -4,7 +4,7 @@
 
 (1) Court orders require the SBA Administrator to do so in any civil or criminal enforcement action initiated by a Federal or state agency; or
 
-(2) The Administrator considers such a disclosure to be necessary for the purpose of conducting a financial audit of a center, not including those required under § 130.830, as determined on a case-by-case basis when formal requests are made by a Federal or state agency. Such formal requests must justify and document the need for individual client contact and/or program activity data to the satisfaction of the Administrator; or
+(2) The Administrator considers such a disclosure to be necessary for the purpose of conducting a financial audit of a small business development center, not including those required under § 130.830; or
 
 (3) SBA requires client contact data to directly survey SBDC clients.
 
@@ -32,4 +32,4 @@
 
 (f) This section does not restrict the Agency in any way from access and use of program performance data.
 
-[88 FR 76644, Nov. 7, 2023]
+[88 FR 76644, Nov. 7, 2023, as amended at 89 FR 17717, Mar. 12, 2024]

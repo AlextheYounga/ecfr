@@ -1,5 +1,7 @@
 ##### § 236.5 DoD's DIB CS program. #####
 
+Link to an amendment published at 89 FR 17747, Mar. 12, 2024.
+
 (a) All contractors that are CDCs and meet the requirements set forth in § 236.7 are eligible to join the voluntary DIB CS program as a DIB participant.
 
 (b) Under the voluntary activities of the DIB CS program, the Government and each DIB participant will execute a standardized agreement, referred to as a Framework Agreement (FA) to share, in a timely and secure manner, on a recurring basis, and to the greatest extent possible, cybersecurity information.

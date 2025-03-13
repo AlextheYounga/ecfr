@@ -18,7 +18,7 @@
 
 (2) An overmatched amount can be applied as matching funds for any funding increase (*i.e.,* supplemental funds) received by the SBDC during the budget period, as long as the total cash match contributed by the SBDC is 50 percent or more of the total SBA funds tendered during the budget period and provided that the total match is still 100 percent.
 
-(3) Allowable overmatched amounts which have not been used in the manner described in this section may, with the approval of the AA/SBDC, be used as a credit to offset any confirmed audit disallowances applicable only to the budget period in which the overmatched amount exists and the two previous budget periods. Such offsetting funds will be considered matching funds.
+(3) Allowable overmatched amounts which have not been used in the manner described in this section may, with the approval of the AA/SBDC, be used as a credit to offset any confirmed audit disallowances applicable only to the budget period in which the overmatched amount exists and the two previous budget periods. Such offsetting funds may be applied to Federal or matching accounts.
 
 (h) The following sources cannot be used as matching funds for the SBDC network:
 
@@ -36,4 +36,4 @@
 
 (7) Funds or other resources provided for an agreed upon scope of work inconsistent with the authorized activities of the SBDC Program.
 
-[60 FR 31056, June 13, 1995, as amended at 88 FR 76645, Nov. 7, 2023]
+[60 FR 31056, June 13, 1995, as amended at 88 FR 76645, Nov. 7, 2023; 89 FR 17717, Mar. 12, 2024]

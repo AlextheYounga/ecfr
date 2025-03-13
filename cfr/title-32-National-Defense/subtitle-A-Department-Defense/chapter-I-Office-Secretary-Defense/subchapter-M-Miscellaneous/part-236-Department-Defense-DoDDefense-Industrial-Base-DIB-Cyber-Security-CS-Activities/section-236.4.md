@@ -1,5 +1,7 @@
 ##### § 236.4 Mandatory cyber incident reporting procedures. #####
 
+Link to an amendment published at 89 FR 17747, Mar. 12, 2024.
+
 (a) *Applicability and order of precedence.* The requirement to report cyber incidents shall be included in all forms of agreements (*e.g.,* contracts, grants, cooperative agreements, other transaction agreements, technology investment agreements, and any other type of legal instrument or agreement) between the Government and the contractor in which covered defense information resides on, or transits covered contractor information systems or under which a contractor provides operationally critical support, and shall be identical to those requirements provided in this section (*e.g.,* by incorporating the requirements of this section by reference, or by expressly setting forth such reporting requirements consistent with those of this section). Any inconsistency between the relevant terms and condition of any such agreement and this section shall be resolved in favor of the terms and conditions of the agreement, provided and to the extent that such terms and conditions are authorized to have been included in the agreement in accordance with applicable laws and regulations.
 
 (b) *Cyber incident reporting requirement.* When a contractor discovers a cyber incident that affects a covered contractor information system or the covered defense information residing therein or that affects the contractor's ability to provide operationally critical support, the contractor shall:

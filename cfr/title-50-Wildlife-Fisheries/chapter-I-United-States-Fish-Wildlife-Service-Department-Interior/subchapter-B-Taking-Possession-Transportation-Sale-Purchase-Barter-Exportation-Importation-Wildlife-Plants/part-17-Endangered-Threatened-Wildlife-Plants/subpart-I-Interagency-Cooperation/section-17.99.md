@@ -12093,7 +12093,7 @@ Nihoa 4—*Sesbania tomentosa,* and Necker 1—*Sesbania tomentosa,* identified 
 
 (2) Elevations between sea level and 84 m (0 and 276 ft).
 
-Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end of part 17.
+Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end of part 17.Link to an amendment published at 89 FR 17959, Mar. 12, 2024.
 
 (i) *Oahu.* Critical habitat units are described below. Maps were created in GIS, with coordinates in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's Internet site, *http://www.fws.gov/pacificislands*; at *http://www.regulations.gov* at Docket No. FWS-R1-ES-2010-0043; and at the field office responsible for the designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2. Existing manmade features and structures, such as buildings, roads, railroads, airports, runways, other paved areas, lawns, and other urban landscaped areas, existing trails, campgrounds and their immediate surrounding landscaped area, scenic lookouts, remote helicopter landing sites, and existing fences are not included in the critical habitat designation. Federal actions limited to those areas, therefore, would not trigger a consultation under section 7 of the Act unless they may affect the species or physical or biological features in adjacent critical habitat.
 
@@ -17136,7 +17136,7 @@ Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mes
 
 *Melicope cornuta* var. *decurrens* (NCN)
 
-Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mesic—Unit 3, Oahu—Dry Cliff—Unit 1, Oahu—Dry Cliff—Unit 2, Oahu—Dry Cliff—Unit 3, Oahu—Dry Cliff—Unit 4, Oahu—Dry Cliff—Unit 6, Oahu—Dry Cliff—Unit 7a, Oahu—Dry Cliff—Unit 7b, and Oahu—Dry Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Melicope cornuta* var. *decurrens on Oahu.*
+Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mesic—Unit 3, Oahu—Dry Cliff—Unit 1, Oahu—Dry Cliff—Unit 2, Oahu—Dry Cliff—Unit 3, Oahu—Dry Cliff—Unit 4, Oahu—Dry Cliff—Unit 6, Oahu—Dry Cliff—Unit 7a, Oahu—Dry Cliff—Unit 7b, and Oahu—Dry Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Melicope cornuta* var. *decurrens* on Oahu.
 
 (i) In units Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, and Oahu—Lowland Mesic—Unit 3, the physical and biological features of critical habitat are:
 

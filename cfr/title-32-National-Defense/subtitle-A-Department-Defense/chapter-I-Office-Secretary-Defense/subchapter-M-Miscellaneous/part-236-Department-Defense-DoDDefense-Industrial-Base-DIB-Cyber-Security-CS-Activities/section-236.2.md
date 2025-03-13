@@ -1,5 +1,7 @@
 ##### § 236.2 Definitions. #####
 
+Link to an amendment published at 89 FR 17747, Mar. 12, 2024.
+
 As used in this part:
 
 *Access to media* means provision of media, or access to media physically or remotely to DoD personnel, as determined by the contractor.

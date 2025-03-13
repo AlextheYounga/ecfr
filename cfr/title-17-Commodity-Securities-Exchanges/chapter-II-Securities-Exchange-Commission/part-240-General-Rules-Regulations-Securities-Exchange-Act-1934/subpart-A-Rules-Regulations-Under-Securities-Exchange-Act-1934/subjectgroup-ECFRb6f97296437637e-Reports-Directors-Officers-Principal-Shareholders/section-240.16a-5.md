@@ -1,0 +1,3 @@
+##### § 240.16a-5 Odd-lot dealers. #####
+
+Transactions by an odd-lot dealer (a) in odd-lots as reasonably necessary to carry on odd-lot transactions, or (b) in round lots to offset odd-lot transactions previously or simultaneously executed or reasonably anticipated in the usual course of business, shall be exempt from the provisions of section 16(a) of the Act with respect to participation by such odd-lot dealer in such transaction.

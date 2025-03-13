@@ -1,5 +1,7 @@
 ##### § 236.6 General provisions of DoD's DIB CS program. #####
 
+Link to an amendment published at 89 FR 17748, Mar. 12, 2024.
+
 (a) Confidentiality of information that is exchanged under the DIB CS program will be protected to the maximum extent authorized by law, regulation, and policy. DoD and DIB participants each bear responsibility for their own actions under the voluntary DIB CS program.
 
 (b) All DIB CS participants may participate in the Department of Homeland Security's Enhanced Cybersecurity Services (ECS) program (*http://www.dhs.gov/enhanced-cybersecurity-services*).

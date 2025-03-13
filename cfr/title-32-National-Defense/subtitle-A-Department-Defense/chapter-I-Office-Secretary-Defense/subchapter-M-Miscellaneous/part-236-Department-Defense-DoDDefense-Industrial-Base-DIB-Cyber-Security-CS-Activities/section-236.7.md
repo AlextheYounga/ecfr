@@ -1,5 +1,7 @@
 ##### § 236.7 DoD's DIB CS program requirements. #####
 
+Link to an amendment published at 89 FR 17749, Mar. 12, 2024.
+
 (a) To participate in the DIB CS program, a contractor must be a CDC and shall:
 
 (1) Have an existing active FCL to at least the Secret level granted under the NISPOM (DoD 5220.22-M); and

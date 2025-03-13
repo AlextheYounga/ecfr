@@ -1,5 +1,7 @@
 ##### § 275.204(b)-1 Reporting by investment advisers to private funds. #####
 
+Link to an amendment published at 89 FR 18060, Mar. 12, 2024.
+
 (a) *Reporting by investment advisers to private funds on Form PF.* If you are an investment adviser registered or required to be registered under section 203 of the Act (15 U.S.C. 80b-3), you act as an investment adviser to one or more private funds and, as of the end of your most recently completed fiscal year, you managed private fund assets of at least $150 million, you must complete and file a report on Form PF (17 CFR 279.9) by following the instructions in the Form, which specify the information that an investment adviser must provide. Your initial report on Form PF is due no later than the last day on which your next update would be timely in accordance with paragraph (e) if you had previously filed the Form; provided that you are not required to file Form PF with respect to any fiscal quarter or fiscal year ending prior to the date on which your registration becomes effective.
 
 (b) *Electronic filing.* You must file Form PF electronically with the Form PF filing system on the Investment Adviser Registration Depository (IARD).
