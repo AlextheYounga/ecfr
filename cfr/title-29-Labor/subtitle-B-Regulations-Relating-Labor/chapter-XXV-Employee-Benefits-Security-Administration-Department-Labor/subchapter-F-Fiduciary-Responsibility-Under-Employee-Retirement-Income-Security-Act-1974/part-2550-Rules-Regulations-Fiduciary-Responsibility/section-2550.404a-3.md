@@ -1,5 +1,7 @@
 ##### § 2550.404a-3 Safe harbor for distributions from terminated individual account plans. #####
 
+Link to an amendment published at 89 FR 43657, May 17, 2024.
+
 (a) *General.* (1) This section provides a safe harbor under which a fiduciary (including a qualified termination administrator, within the meaning of § 2578.1(g) of this chapter) of a terminated individual account plan, as described in paragraph (a)(2) of this section, will be deemed to have satisfied its duties under section 404(a) of the Employee Retirement Income Security Act of 1974, as amended (the Act)), 29 U.S.C. 1001 *et seq.,* in connection with a distribution described in paragraph (b) of this section.
 
 (2) This section shall apply to an individual account plan only if—

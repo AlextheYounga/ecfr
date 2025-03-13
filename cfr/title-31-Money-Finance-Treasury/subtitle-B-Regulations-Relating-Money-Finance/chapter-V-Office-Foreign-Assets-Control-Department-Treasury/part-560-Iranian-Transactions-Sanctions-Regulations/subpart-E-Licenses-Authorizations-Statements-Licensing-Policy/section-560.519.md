@@ -20,7 +20,7 @@
 
 (1) No goods, technology, or software listed on the Commerce Control List in the EAR, 15 CFR part 774, supplement No. 1 (CCL), or that requires a license under part 744 of the EAR, or controlled by the United States Department of State under the International Traffic in Arms Regulations, 22 CFR parts 120 through 130, may be exported or reexported to Iran without separate authorization from the Office of Foreign Assets Control.
 
-Note to paragraph (c)(1) of § 560.519:
+Note 1 to paragraph (c)(1):
 
 The Commerce Control List in the EAR, 15 CFR part 774, supplement No. 1, includes items such as many laptop computers, personal computers, cell phones, personal digital assistants and other wireless handheld devices/blackberries, and other similar items. The exportation or reexportation of these items to Iran, even on a temporary basis, is prohibited, unless specifically authorized in a license issued pursuant to this part in a manner consistent with the Iran-Iraq Arms Nonproliferation Act of 1992 and other relevant law.
 
@@ -34,6 +34,12 @@ The Commerce Control List in the EAR, 15 CFR part 774, supplement No. 1, include
 
 (d) For the purposes of this section, the term *news reporting organization* means an entity whose primary purpose is the gathering and dissemination of news to the general public.
 
-Note to § 560.519:
+Note 2 to § 560.519:
 
 For a specific licensing policy governing the establishment and operation of news bureaus in the United States by Iranian news organizations, see § 560.549.
+
+Note 3 to § 560.519:
+
+*See* § 560.540 for a general license authorizing the exportation, reexportation, or provision to Iran of certain services, software, and hardware incident to the exchange of communications.
+
+[77 FR 64666, Oct. 22, 2012, as amended by 89 FR 43312, May 17, 2024]

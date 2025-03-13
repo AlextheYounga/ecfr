@@ -1,5 +1,7 @@
 ##### § 2578.1 Termination of abandoned individual account plans. #####
 
+Link to an amendment published at 89 FR 43659, May 17, 2024.
+
 (a) *General.* The purpose of this part is to establish standards for the termination and winding up of an individual account plan (as defined in section 3(34) of the Employee Retirement Income Security Act of 1974 (ERISA or the Act)) with respect to which a qualified termination administrator (as defined in paragraph (g) of this section) has determined there is no responsible plan sponsor or plan administrator within the meaning of section 3(16)(B) and (A) of the Act, respectively, to perform such acts.
 
 (b) *Finding of abandonment.* (1) A qualified termination administrator may find an individual account plan to be abandoned when:

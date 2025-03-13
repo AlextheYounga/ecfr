@@ -1,5 +1,7 @@
 ##### § 2520.103-13 Special terminal report for abandoned plans. #####
 
+Link to an amendment published at 89 FR 43657, May 17, 2024.
+
 (a) *General.* The terminal report required to be filed by the qualified termination administrator pursuant to § 2578.1(d)(2)(viii) of this chapter shall consist of the items set forth in paragraph (b) of this section. Such report shall be filed in accordance with the method of filing set forth in paragraph (c) of this section and at the time set forth in paragraph (d) of this section.
 
 (b) *Contents.* The terminal report described in paragraph (a) of this section shall contain:

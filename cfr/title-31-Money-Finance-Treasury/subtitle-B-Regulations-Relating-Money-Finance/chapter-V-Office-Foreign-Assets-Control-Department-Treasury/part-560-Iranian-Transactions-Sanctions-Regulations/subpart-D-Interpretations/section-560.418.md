@@ -13,3 +13,9 @@ The release of technology or software in the United States, or the release of U.
 Note 2 to § 560.418:
 
 The transfer to a foreign national of technology subject to regulations administered by the U.S. Department of State or other agencies of the U.S. Government may require authorization by those agencies.
+
+Note 3 to § 560.418:
+
+*See* § 560.540 for a general license authorizing the exportation, reexportation, or provision to Iran of certain services, software, and hardware incident to the exchange of communications.
+
+[77 FR 64666, Oct. 22, 2012, as amended at 89 FR 43312, May 17, 2024]

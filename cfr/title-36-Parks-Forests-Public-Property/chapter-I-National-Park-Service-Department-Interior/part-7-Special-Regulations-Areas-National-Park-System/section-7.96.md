@@ -1,5 +1,7 @@
 ##### § 7.96 National Capital Region. #####
 
+Link to an amendment published at 89 FR 43322, May 17, 2024.
+
 (a) *Applicability of regulations.* This section applies to all park areas administered by National Capital Region in the District of Columbia and in Arlington, Fairfax, Loudoun, Prince William, and Stafford Counties and the City of Alexandria in Virginia and Prince Georges, Charles, Anne Arundel, and Montgomery Counties in Maryland and to other federal reservations in the environs of the District of Columbia, policed with the approval or concurrence of the head of the agency having jurisdiction or control over such reservations, pursuant to the provisions of the act of March 17, 1948 (62 Stat. 81).
 
 (b) *Athletics*—(1) *Permits for organized games.* Playing baseball, football, croquet, tennis, and other organized games or sports except pursuant to a permit and upon the grounds provided for such purposes, is prohibited.

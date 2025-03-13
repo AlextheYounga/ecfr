@@ -1,14 +1,12 @@
 ##### § 381.129 False or misleading labeling or containers. #####
 
-Link to an amendment published at 89 FR 19495, Mar. 18, 2024.
-
 (a) No poultry product subject to the Act shall have any false or misleading labeling or any container that is so made, formed, or filled as to be misleading. However, established trade names and other labeling and containers which are not false or misleading and which are approved by the Administrator in the regulations or in specific cases are permitted.
 
 (b) No statement, word, picture, design, or device which is false or misleading in any particular or conveys any false impression or gives any false indication of origin, identity, or quality, shall appear on any label. For example:
 
 (1) Official grade designations such as the letter grades A, B, and C may be used in labeling individual carcasses of poultry or containers of poultry products only if such articles have been graded by a licensed grader of the Federal or Federal-State poultry grading service and found to qualify for the indicated grade.
 
-(2) Terms having geographical significance with reference to a particular locality may be used only when the product was produced in that locality.
+(2) Statements, words, pictures, designs, or devices having geographical significance with reference to a particular locality must be made in accordance with § 317.8(b)(1) of this chapter.
 
 (3) “Fresh frozen”, “quick frozen”, “frozen fresh”, and terms of similar import apply only to ready-to-cook poultry processed in accordance with § 381.66(f)(1). Ready-to-cook poultry handled in any other manner and dressed poultry may be labeled “frozen” only if it is frozen in accordance with § 381.66(f)(2) under Department supervision and is in fact in a frozen state. “Individually quick frozen (Kind)” and terms of similar import are applicable only to poultry products that are frozen as stated on the label and whose component parts can be easily separated at time of packing.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 89 FR 19495, Mar. 18, 2024.
 
 (f) A country of origin statement on the label of any poultry product “covered commodity” as defined in 7 CFR part 65, subpart A, that is to be sold by a “retailer,” as defined in 7 CFR 65.240, must comply with the requirements in 7 CFR 65.300 and 65.400.
 
-[37 FR 9706, May 16, 1972, as amended at 39 FR 28516, Aug. 8, 1974; 39 FR 42339, Dec. 5, 1974; 55 FR 5977, Feb. 21, 1990; 60 FR 44412, Aug. 25, 1995; 61 FR 66200, Dec. 17, 1996; 61 FR 68821, Dec. 30, 1996; 66 FR 54916, Oct. 31, 2001; 73 FR 50703, Aug. 28, 2008; 76 FR 82078, Dec. 30, 2011; 78 FR 66838, Nov. 7, 2013; 79 FR 49637, Aug. 21, 2014]
+[37 FR 9706, May 16, 1972, as amended at 39 FR 28516, Aug. 8, 1974; 39 FR 42339, Dec. 5, 1974; 55 FR 5977, Feb. 21, 1990; 60 FR 44412, Aug. 25, 1995; 61 FR 66200, Dec. 17, 1996; 61 FR 68821, Dec. 30, 1996; 66 FR 54916, Oct. 31, 2001; 73 FR 50703, Aug. 28, 2008; 76 FR 82078, Dec. 30, 2011; 78 FR 66838, Nov. 7, 2013; 79 FR 49637, Aug. 21, 2014; 89 FR 19495, Mar. 18, 2024]
