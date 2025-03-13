@@ -650,7 +650,7 @@ The entire screening and testing procedure shall be explained to the test subjec
 
 (1) During threshold screening as well as during fit testing, subjects shall wear an enclosure about the head and shoulders that is approximately 12 inches in diameter by 14 inches tall with at least the front portion clear and that allows free movements of the head when a respirator is worn. An enclosure substantially similar to the 3M hood assembly, parts # FT 14 and # FT 15 combined, is adequate.
 
-(2) The test enclosure shall have a3/4-inch (1.9 cm) hole in front of the test subject's nose and mouth area to accommodate the nebulizer nozzle.
+(2) The test enclosure shall have a 3/4-inch (1.9 cm) hole in front of the test subject's nose and mouth area to accommodate the nebulizer nozzle.
 
 (3) The test subject shall don the test enclosure. Throughout the threshold screening test, the test subject shall breathe through his/her slightly open mouth with tongue extended. The subject is instructed to report when he/she detects a sweet taste.
 
@@ -706,9 +706,9 @@ If the test subject eats or drinks something sweet before the screening test, he
 
 (12) Since the nebulizer has a tendency to clog during use, the test operator must make periodic checks of the nebulizer to ensure that it is not clogged. If clogging is found at the end of the test session, the test is invalid.
 
-4. BitrexTM (Denatonium Benzoate) Solution Aerosol Qualitative Fit Test Protocol
+4. Bitrex TM (Denatonium Benzoate) Solution Aerosol Qualitative Fit Test Protocol
 
-The BitrexTM (Denatonium benzoate) solution aerosol QLFT protocol uses the published saccharin test protocol because that protocol is widely accepted. Bitrex is routinely used as a taste aversion agent in household liquids which children should not be drinking and is endorsed by the American Medical Association, the National Safety Council, and the American Association of Poison Control Centers. The entire screening and testing procedure shall be explained to the test subject prior to the conduct of the screening test.
+The Bitrex TM (Denatonium benzoate) solution aerosol QLFT protocol uses the published saccharin test protocol because that protocol is widely accepted. Bitrex is routinely used as a taste aversion agent in household liquids which children should not be drinking and is endorsed by the American Medical Association, the National Safety Council, and the American Association of Poison Control Centers. The entire screening and testing procedure shall be explained to the test subject prior to the conduct of the screening test.
 
 (a) Taste Threshold Screening.
 
@@ -716,7 +716,7 @@ The Bitrex taste threshold screening, performed without wearing a respirator, is
 
 (1) During threshold screening as well as during fit testing, subjects shall wear an enclosure about the head and shoulders that is approximately 12 inches (30.5 cm) in diameter by 14 inches (35.6 cm) tall. The front portion of the enclosure shall be clear from the respirator and allow free movement of the head when a respirator is worn. An enclosure substantially similar to the 3M hood assembly, parts # FT 14 and # FT 15 combined, is adequate.
 
-(2) The test enclosure shall have a3/4 inch (1.9 cm) hole in front of the test subject's nose and mouth area to accommodate the nebulizer nozzle.
+(2) The test enclosure shall have a 3/4 inch (1.9 cm) hole in front of the test subject's nose and mouth area to accommodate the nebulizer nozzle.
 
 (3) The test subject shall don the test enclosure. Throughout the threshold screening test, the test subject shall breathe through his or her slightly open mouth with tongue extended. The subject is instructed to report when he/she detects a bitter taste.
 
@@ -834,7 +834,7 @@ The following quantitative fit testing procedures have been demonstrated to be a
 
 (5) The combination of substitute air-purifying elements, test agent and test agent concentration shall be such that the test subject is not exposed in excess of an established exposure limit for the test agent at any time during the testing process, based upon the length of the exposure and the exposure limit duration.
 
-(6) The sampling port on the test specimen respirator shall be placed and constructed so that no leakage occurs around the port (e.g., where the respirator is probed), a free air flow is allowed into the sampling line at all times, and there is no interference with the fit or performance of the respirator. The in-mask sampling device (probe) shall be designed and used so that the air sample is drawn from the breathing zone of the test subject, midway between the nose and mouth and with the probe extending into the facepiece cavity at least1/4 inch.
+(6) The sampling port on the test specimen respirator shall be placed and constructed so that no leakage occurs around the port (e.g., where the respirator is probed), a free air flow is allowed into the sampling line at all times, and there is no interference with the fit or performance of the respirator. The in-mask sampling device (probe) shall be designed and used so that the air sample is drawn from the breathing zone of the test subject, midway between the nose and mouth and with the probe extending into the facepiece cavity at least 1/4 inch.
 
 (7) The test setup shall permit the person administering the test to observe the test subject inside the chamber during the test.
 

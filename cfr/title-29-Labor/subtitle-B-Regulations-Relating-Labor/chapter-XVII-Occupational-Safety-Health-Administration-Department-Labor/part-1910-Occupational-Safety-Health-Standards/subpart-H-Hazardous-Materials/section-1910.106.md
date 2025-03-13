@@ -205,7 +205,7 @@ This paragraph may be used for operating pressures not exceeding 1 p.s.i.g.
 
 (*d*) For tanks and storage vessels designed for pressure over 1 p.s.i.g., the total rate of venting shall be determined in accordance with Table H-10, except that when the exposed wetted area of the surface is greater than 2,800 square feet, the total rate of venting shall be calculated by the following formula:
 
-CFH = 1,107A0.82Where;*CFH* = Venting requirement, in cubic feet of free air per hour.*A* = Exposed wetted surface, in square feet.Note:
+CFH = 1,107A 0.82Where;*CFH* = Venting requirement, in cubic feet of free air per hour.*A* = Exposed wetted surface, in square feet.Note:
 
 The foregoing formula is based on *Q = 21,000A*0.82.
 

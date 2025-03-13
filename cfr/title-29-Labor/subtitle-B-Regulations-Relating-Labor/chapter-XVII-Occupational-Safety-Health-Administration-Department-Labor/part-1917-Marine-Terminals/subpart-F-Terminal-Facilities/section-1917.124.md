@@ -12,13 +12,13 @@
 
 (4) Positive means shall be used to prevent railcars or highway vehicles from being moved while dockboards or bridge plates are in position.
 
-(5) Be designed, constructed, and maintained to prevent vehicles from running off the edge.10
+(5) Be designed, constructed, and maintained to prevent vehicles from running off the edge. 10
 
 10 When the gap to be bridged to greater than 36 inches (.91 m), an acceptable means of preventing vehicles from running off the edge is a minimum side board height of two and three-quarter inches.
 
 (6) Dockboards shall be well maintained.
 
-(d) *Ramps.* (1) Ramps shall be strong enough to support the loads imposed on them and be designed, constructed, and maintained to prevent vehicles from running off the edge.11
+(d) *Ramps.* (1) Ramps shall be strong enough to support the loads imposed on them and be designed, constructed, and maintained to prevent vehicles from running off the edge. 11
 
 11 When the gap to be bridged is greater than 36 inches (.91 m), an acceptable means of preventing vehicles from running off the edge is a minumum side board height of two and three-quarter inches.
 

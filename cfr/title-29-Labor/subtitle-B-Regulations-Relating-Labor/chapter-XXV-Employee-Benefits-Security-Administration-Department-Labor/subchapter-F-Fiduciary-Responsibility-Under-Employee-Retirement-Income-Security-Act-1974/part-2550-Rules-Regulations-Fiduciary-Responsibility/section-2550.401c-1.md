@@ -12,7 +12,7 @@
 
 (i) The insurer is the employer maintaining the plan, or a party in interest which is wholly owned by the employer maintaining the plan; and
 
-(ii) The requirements of section 408(b)(5) of the Act are met.1
+(ii) The requirements of section 408(b)(5) of the Act are met. 1
 
 1 The Department notes that, because section 401(c)(1)(D) of the Act and the definition of Transition Policy preclude the issuance of any additional Transition Policies after December 31, 1998, the requirement for independent fiduciary authorization of the acquisition or purchase of the Transition Policy in paragraph (b) no longer has any application.
 

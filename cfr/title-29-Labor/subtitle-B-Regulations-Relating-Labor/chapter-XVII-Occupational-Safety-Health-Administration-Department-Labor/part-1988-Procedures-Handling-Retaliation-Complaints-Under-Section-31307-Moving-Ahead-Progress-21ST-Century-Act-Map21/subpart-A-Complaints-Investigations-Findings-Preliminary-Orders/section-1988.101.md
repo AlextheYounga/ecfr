@@ -22,8 +22,7 @@ As used in this part:
 
 *MAP-21* means Section 31307 of the Moving Ahead for Progress in the 21st Century Act of 2012, Pub. L. 112-141, 126 Stat. 405, 765 (July 6, 2012) (codified at 49 U.S.C. 30171).
 
-*Motor vehicle* means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, but does not include a
-vehicle operated only on a rail line.
+*Motor vehicle* means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, but does not include a vehicle operated only on a rail line.
 
 *Motor vehicle equipment* means—
 

@@ -482,7 +482,7 @@ See figure III in appendix B of this section for a description of a typical butt
 
 (iii) Suspension wire rope grade shall be at least improved plow steel or equivalent.
 
-(iv) Suspension wire ropes shall be sized to conform with the required design factor, but shall not be less than5/16 inch (7.94 mm) in diameter.
+(iv) Suspension wire ropes shall be sized to conform with the required design factor, but shall not be less than 5/16 inch (7.94 mm) in diameter.
 
 (v) No more than one reverse bend in six wire rope lays shall be permitted.
 
@@ -832,7 +832,7 @@ All existing installations subject to this appendix shall also comply with parag
 
 (11) *Open spaces between guardrails and toeboards.* The spaces between the intermediate guardrail and platform toeboard on the building side of the working platform, and between the top guardrail and the toeboard on other sides of the platform, shall be filled with metalic mesh or similar material that will reject a ball one inch in diameter. The installed mesh shall be capable of withstanding a load of 100 pounds applied horizontally over any area of 144 square inches. If the space between the platform and the building face does not exceed eight inches, and the platform is restrained by guides, the mesh may be omitted on the front side.
 
-(12) *Flooring.* The platform flooring shall be of the nonskid type, and if of open construction, shall reject a9/16-inch diameter ball, or be provided with a screen below the floor to reject a9/16-inch diameter ball.
+(12) *Flooring.* The platform flooring shall be of the nonskid type, and if of open construction, shall reject a 9/16-inch diameter ball, or be provided with a screen below the floor to reject a 9/16-inch diameter ball.
 
 (13) *Access gates.* Where access gates are provided, they shall be self-closing and self-locking.
 
@@ -870,7 +870,7 @@ All existing installations subject to this appendix shall also comply with parag
 
 F = S × N/WWhereS = Manufacturer's rated breaking strength of one rope.N = Number of ropes under load.W = Maximum static load on all ropes with the platform and its rated load at any point of its travel.
 
-(iv) Hoisting ropes shall be sized to conform with the required factor of safety, but in no case shall the size be less than5/16 inch diameter.
+(iv) Hoisting ropes shall be sized to conform with the required factor of safety, but in no case shall the size be less than 5/16 inch diameter.
 
 (v) Winding drums shall have at least three turns of rope remaining when the platform has landed at the lowest possible point of its travel.
 

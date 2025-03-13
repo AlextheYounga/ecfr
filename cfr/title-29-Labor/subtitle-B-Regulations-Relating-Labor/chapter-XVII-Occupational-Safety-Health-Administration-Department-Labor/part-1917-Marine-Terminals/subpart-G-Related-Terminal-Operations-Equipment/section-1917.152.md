@@ -1,4 +1,4 @@
-##### § 1917.152 Welding, cutting and heating (hot work)12 (See also § 1917.2, definition of Hazardous cargo, materials, substance, or atmosphere). #####
+##### § 1917.152 Welding, cutting and heating (hot work) 12 (See also § 1917.2, definition of Hazardous cargo, materials, substance, or atmosphere). #####
 
 12 The U.S. Coast Guard, at 33 CFR 126.15(c), requires prior permission of the Captain of the Port if welding or other hot work is to be carried out at a facility where dangerous cargoes as defined by 33 CFR 126.07 are located or being handled.
 

@@ -210,17 +210,17 @@ DANGERMDAMAY CAUSE CANCERCAUSES DAMAGE TO THE LIVERRESPIRATORY PROTECTION AND PR
 
 (B) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (k)(2)(i)(A) of this section:
 
-DANGERMDAMAY CAUSE CANCERLIVER TOXINAUTHORIZED PERSONNEL ONLYRESPIRATORS AND PROTECTIVE CLOTHING MAY BE REQUIRED TO BE WORN IN THIS AREA
+DANGER MDA MAY CAUSE CANCER LIVER TOXIN AUTHORIZED PERSONNEL ONLY RESPIRATORS AND PROTECTIVE CLOTHING MAY BE REQUIRED TO BE WORN IN THIS AREA
 
 (ii) *Labels.* Prior to June 1, 2015, employers may include the following information workplace labels in lieu of the labeling requirements in paragraph (k)(1) of this section:
 
 (A) For pure MDA:
 
-DANGERCONTAINS MDAMAY CAUSE CANCERLIVER TOXIN
+DANGER CONTAINS MDA MAY CAUSE CANCER LIVER TOXIN
 
 (B) For mixtures containing MDA:
 
-DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
+DANGER CONTAINS MDA CONTAINS MATERIALS WHICH MAY CAUSE CANCER LIVER TOXIN
 
 (3) *Safety data sheets (SDS).* In meeting the obligation to provide safety data sheets, employers shall make appropriate use of the information found in Appendices A and B to § 1910.1050.
 
@@ -802,7 +802,7 @@ After allowing the layers to separate, approximately 1 mL aliquots of the toluen
 
 The toluene layers are treated and analyzed.
 
-AnalysisGC conditionsZone temperatures:Column—220 degrees CInjector—235 degrees CDetector—335 degrees CGas flows, Ar/CH4 Column—28 mL/min(95/5) Purge—40 mL/minInjection volume: 5.0 uLColumn: 6 ft ×1/8 in ID glass, 3% OV-101 on 100/120 Gas Chrom QRetention time of MDA derivative: 3.5 minChromatogram
+AnalysisGC conditionsZone temperatures:Column—220 degrees CInjector—235 degrees CDetector—335 degrees CGas flows, Ar/CH4 Column—28 mL/min(95/5) Purge—40 mL/minInjection volume: 5.0 uLColumn: 6 ft × 1/8 in ID glass, 3% OV-101 on 100/120 Gas Chrom QRetention time of MDA derivative: 3.5 minChromatogram
 
 Peak areas or heights are measured by an integrator or other suitable means.
 

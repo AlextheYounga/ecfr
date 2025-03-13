@@ -28,7 +28,7 @@
 
 (C) Ensure that each employee tightens the seatbelt sufficiently to confine the employee to the protected area provided by the ROPS.
 
-(ii) Each seatbelt shall meet the requirements set forth in Society of Automotive Engineers Standard SAE J4C, 1965 Motor Vehicle Seat Belt Assemblies,2 except as noted hereafter:
+(ii) Each seatbelt shall meet the requirements set forth in Society of Automotive Engineers Standard SAE J4C, 1965 Motor Vehicle Seat Belt Assemblies, 2 except as noted hereafter:
 
 2 Copies may be obtained from the Society of Automotive Engineers, 400 Commonwealth Drive, Warrendale, PA 15096.
 

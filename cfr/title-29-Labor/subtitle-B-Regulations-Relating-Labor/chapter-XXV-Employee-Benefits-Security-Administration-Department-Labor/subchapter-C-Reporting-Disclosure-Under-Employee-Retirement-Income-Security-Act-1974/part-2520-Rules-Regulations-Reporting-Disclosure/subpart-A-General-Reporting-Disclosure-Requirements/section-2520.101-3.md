@@ -74,7 +74,7 @@
 
 (2) *Form and content of model notice.*
 
-Important Notice Concerning Your RightsUnder The [Enter Name of Individual Account Plan][Enter date of notice]
+Important Notice Concerning Your Rights Under The [Enter Name of Individual Account Plan] [Enter date of notice]
 
 1. This notice is to inform you that the [enter name of plan] will be [enter reasons for blackout period, as appropriate: changing investment options, changing recordkeepers, etc.].
 

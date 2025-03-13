@@ -14,8 +14,7 @@
 
 (5) The actual or reasonably approximate amount expended by an employee as temporary excess home-to-work travel expenses incurred (i) because the employer has moved the plant to another town before the employee has had an opportunity to find living quarters at the new location or (ii) because the employee, on a particular occasion, is required to report for work at a place other than his regular workplace.
 
-The foregoing list is intended to be illustrative rather than
-exhaustive.
+The foregoing list is intended to be illustrative rather than exhaustive.
 
 (c) *Payments excluding expenses.* (1) It should be noted that only the actual or reasonably approximate amount of the expense is excludable from the regular rate. If the amount paid as “reimbursement” is disproportionately large, the excess amount will be included in the regular rate.
 

@@ -12,7 +12,7 @@ OSHA is defining suddenly incapacitating medical ailments consistent with the Am
 
 (2) Each employee newly assigned to supervisory duties after that date shall be required to meet the provisions of this paragraph within 90 days of such assignment.
 
-(3) The accident prevention course shall consist of instruction suited to the particular operations involved.13
+(3) The accident prevention course shall consist of instruction suited to the particular operations involved. 13
 
 13 The following are recommended topics: Safety responsibility and authority; elements of accidents prevention; attitudes, leadership and motivation; hazards of longshoring, including peculiar local circumstances; hazard identification and elimination; applicable regulations; and accident investigations.
 

@@ -54,4 +54,4 @@
 
 (2) Disclosure of consultation program information which identifies employers who have requested the services of a consultant would adversely affect the operation of the OSHA consultation program as well as breach the confidentiality of commercial information not customarily disclosed by the employer. Accordingly, the state shall keep such information confidential. The state shall provide consultation program information requested by OSHA, including information which identifies employers who have requested consultation services. OSHA may use such information to administer the consultation program and to evaluate state and federal performance under that program, but shall, to the maximum extent permitted by law, treat information which identifies specific employers as exempt from public disclosure.
 
-(Approved by the Office of Management and Budget under control number 1218-0110)[49 FR 25094, June 19, 1984, as amended at 54 FR 24333, June 7, 1989; 65 FR 64291, Oct. 26, 2000]
+(Approved by the Office of Management and Budget under control number 1218-0110) [49 FR 25094, June 19, 1984, as amended at 54 FR 24333, June 7, 1989; 65 FR 64291, Oct. 26, 2000]

@@ -258,13 +258,13 @@ DANGERINORGANIC ARSENICMAY CAUSE CANCERDO NOT EAT, DRINK OR SMOKEWEAR RESPIRATOR
 
 (ii) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (p)(2)(i) of this section:
 
-DANGERINORGANIC ARSENICCANCER HAZARDAUTHORIZED PERSONNEL ONLYNO SMOKING OR EATINGRESPIRATOR REQUIRED
+DANGER INORGANIC ARSENIC CANCER HAZARD AUTHORIZED PERSONNEL ONLY NO SMOKING OR EATING RESPIRATOR REQUIRED
 
 (iii) The employer shall ensure that signs required by this paragraph (p) are illuminated and cleaned as necessary so that the legend is readily visible.
 
 (3)(i) Prior to June 1, 2015, in lieu of the labeling requirements in paragraphs (p)(1)(i) of this section, employers may apply precautionary labels to all shipping and storage containers of inorganic arsenic, and to all products containing inorganic arsenic, bearing the following legend:
 
-DANGERCONTAINS INORGANIC ARSENICCANCER HAZARDHARMFUL IF INHALED OR SWALLOWEDUSE ONLY WITH ADEQUATE VENTILATION OR RESPIRATORY PROTECTION
+DANGER CONTAINS INORGANIC ARSENIC CANCER HAZARD HARMFUL IF INHALED OR SWALLOWED USE ONLY WITH ADEQUATE VENTILATION OR RESPIRATORY PROTECTION
 
 (ii) Labels are not required when the inorganic arsenic in the product is bound in such a manner so as to make unlikely the possibility of airborne exposure to inorganic arsenic. (Possible examples of products not requiring labels are semiconductors, light emitting diodes and glass.)
 
@@ -466,7 +466,7 @@ The following three sections quoted from “Occupational Diseases: A Guide to Th
 
 A. *Local*—Trivalent arsenic compounds are corrosive to the skin. Brief contact has no effect but prolonged contact results in a local hyperemia and later vesicular or pustular eruption. The moist mucous membranes are most sensitive to the irritant action. Conjunctiva, moist and macerated areas of skin, the eyelids, the angles of the ears, nose, mouth, and respiratory mucosa are also vulnerable to the irritant effects. The wrists are common sites of dermatitis, as are the genitalia if personal hygiene is poor. Perforations of the nasal septum may occur. Arsenic trioxide and pentoxide are capable of producing skin sensitization and contact dermatitis. Arsenic is also capable of producing keratoses, especially of the palms and soles.
 
-B. *Systemic*—The acute toxic effects of arsenic are generally seen following ingestion of inorganic arsenical compounds. This rarely occurs in an industrial setting. Symptoms develop within1/2 to 4 hours following ingestion and are usually characterized by constriction of the throat followed by dysphagia, epigastric pain, vomiting, and watery diarrhea. Blood may appear in vomitus and stools. If the amount ingested is sufficiently high, shock may develop due to severe fluid loss, and death may ensue in 24 hours. If the acute effects are survived, exfoliative dermatitis and peripheral neuritis may develop.
+B. *Systemic*—The acute toxic effects of arsenic are generally seen following ingestion of inorganic arsenical compounds. This rarely occurs in an industrial setting. Symptoms develop within 1/2 to 4 hours following ingestion and are usually characterized by constriction of the throat followed by dysphagia, epigastric pain, vomiting, and watery diarrhea. Blood may appear in vomitus and stools. If the amount ingested is sufficiently high, shock may develop due to severe fluid loss, and death may ensue in 24 hours. If the acute effects are survived, exfoliative dermatitis and peripheral neuritis may develop.
 
 Cases of acute arsenical poisoning due to inhalation are exceedingly rare in industry. When it does occur, respiratory tract symptoms—cough, chest pain, dyspnea—giddiness, headache, and extreme general weakness precede gastrointestinal symptoms. The acute toxic symptoms of trivalent arsenical poisoning are due to severe inflammation of the mucous membranes and greatly increased permeability of the blood capillaries.
 

@@ -26,4 +26,4 @@
 
 (f) *Computation of time.* The PBGC applies the rules in subpart D of part 4000 of this chapter to compute any time period under this part.
 
-(Approved by the Office of Management and Budget under control number 1212-0031)[61 FR 34108, July 1, 1996, as amended at 68 FR 61356, Oct. 28, 2003]
+(Approved by the Office of Management and Budget under control number 1212-0031) [61 FR 34108, July 1, 1996, as amended at 68 FR 61356, Oct. 28, 2003]

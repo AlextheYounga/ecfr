@@ -34,4 +34,4 @@
 
 (f) *Disclosure of information.* Any party submitting information pursuant to this section may include a statement of whether any of the information is of a nature that its disclosure may not be required under the Freedom of Information Act, 5 U.S.C. 552. The statement should specify the information that may not be subject to disclosure and the grounds therefor.
 
-(Approved by the Office of Management and Budget under control number 1212-0021)[61 FR 34084, July 1, 1996, as amended at 68 FR 61355, Oct. 28, 2003]
+(Approved by the Office of Management and Budget under control number 1212-0021) [61 FR 34084, July 1, 1996, as amended at 68 FR 61355, Oct. 28, 2003]

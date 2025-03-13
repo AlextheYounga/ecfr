@@ -114,7 +114,7 @@ When the employee is standing or walking on a surface which the employer demonst
 
 (C) Floors of enclosed areas containing grain dryers located inside the facility.
 
-(ii) The employer shall immediately remove any fugitive grain dust accumulations whenever they exceed1/8 inch (.32 cm) at priority housekeeping areas, pursuant to the housekeeping program, or shall demonstrate and assure, through the development and implementation of the housekeeping program, that equivalent protection is provided.
+(ii) The employer shall immediately remove any fugitive grain dust accumulations whenever they exceed 1/8 inch (.32 cm) at priority housekeeping areas, pursuant to the housekeeping program, or shall demonstrate and assure, through the development and implementation of the housekeeping program, that equivalent protection is provided.
 
 (3) The use of compressed air to blow dust from ledges, walls, and other areas shall only be permitted when all machinery that presents an ignition source in the area is shut-down, and all other known potential ignition sources in the area are removed or controlled.
 
@@ -284,7 +284,7 @@ Another method of controlling dust emissions is enclosing the conveying system, 
 
 The use of edible oil sprayed on or into a moving stream of grain is another method which has been used to control dust emissions. Tests performed using this method have shown that the oil treatment can reduce dust emissions. Repeated handling of the grain may necessitate additional oil treatment to prevent liberation of dust. However, before using this method, operators of grain handling facilities should be aware that the Food and Drug Administration must approve the specific oil treatment used on products for food or feed.
 
-As a part of the housekeeping program, grain elevators are required to address accumulations of dust at priority areas using the action level. The standard specifies a maximum accumulation of1/8 inch dust, measurable by a ruler or other measuring device, anywhere within a priority area as the upper limit at which time employers must initiate action to remove the accumulations using designated means or methods. Any accumulation in excess of this amount and where no action has been initiated to implement cleaning would constitute a violation of the standard, unless the employer can demonstrate equivalent protection. Employers should make every effort to minimize dust accumulations on exposed surfaces since dust is the fuel for a fire or explosion, and it is recognized that a1/8 inch dust accumulation is more than enough to fuel such occurrences.
+As a part of the housekeeping program, grain elevators are required to address accumulations of dust at priority areas using the action level. The standard specifies a maximum accumulation of 1/8 inch dust, measurable by a ruler or other measuring device, anywhere within a priority area as the upper limit at which time employers must initiate action to remove the accumulations using designated means or methods. Any accumulation in excess of this amount and where no action has been initiated to implement cleaning would constitute a violation of the standard, unless the employer can demonstrate equivalent protection. Employers should make every effort to minimize dust accumulations on exposed surfaces since dust is the fuel for a fire or explosion, and it is recognized that a 1/8 inch dust accumulation is more than enough to fuel such occurrences.
 
 8. Filter Collectors
 

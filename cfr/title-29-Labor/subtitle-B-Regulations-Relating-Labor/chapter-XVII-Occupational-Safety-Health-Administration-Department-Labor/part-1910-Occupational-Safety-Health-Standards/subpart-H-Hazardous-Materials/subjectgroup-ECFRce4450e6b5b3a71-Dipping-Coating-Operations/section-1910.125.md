@@ -12,7 +12,7 @@ If you use flammable liquids, you must comply with the requirements of this sect
 
 (i) A capacity greater than 150 gallons (568 L); or
 
-(ii) A liquid surface area greater than 10 feet2 (0.95 m2).
+(ii) A liquid surface area greater than 10 feet 2 (0.95 m2).
 
 (2) You must also ensure that:
 
@@ -76,9 +76,9 @@ If you use flammable liquids, you must comply with the requirements of this sect
 
 (f) What fire protection must I provide? (1) You must provide the fire protection required by this paragraph (f) for:
 
-(i) Any dip tank having a capacity of at least 150 gallons (568 L) or a liquid surface area of at least 4 feet2 (0.38 m1); and
+(i) Any dip tank having a capacity of at least 150 gallons (568 L) or a liquid surface area of at least 4 feet 2 (0.38 m 1); and
 
-(ii) Any hardening or tempering tank having a capacity of at least 500 gallons (1893 L) or a liquid surface area of at least 25 feet2 (2.37 m2).
+(ii) Any hardening or tempering tank having a capacity of at least 500 gallons (1893 L) or a liquid surface area of at least 25 feet 2 (2.37 m 2).
 
 (2) For every vapor area, you must provide:
 

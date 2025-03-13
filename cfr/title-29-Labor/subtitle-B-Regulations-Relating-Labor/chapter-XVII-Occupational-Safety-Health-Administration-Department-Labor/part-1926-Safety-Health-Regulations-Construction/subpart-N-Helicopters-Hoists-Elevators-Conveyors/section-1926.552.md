@@ -30,15 +30,15 @@
 
 (ii) Gates or bars protecting the entrances to hoistways shall be equipped with a latching device.
 
-(3) Overhead protective covering of 2-inch planking,3/4-inch plywood, or other solid material of equivalent strength, shall be provided on the top of every material hoist cage or platform.
+(3) Overhead protective covering of 2-inch planking, 3/4-inch plywood, or other solid material of equivalent strength, shall be provided on the top of every material hoist cage or platform.
 
 (4) The operator's station of a hoisting machine shall be provided with overhead protection equivalent to tight planking not less than 2 inches thick. The support for the overhead protection shall be of equal strength.
 
 (5) Hoist towers may be used with or without an enclosure on all sides. However, whichever alternative is chosen, the following applicable conditions shall be met:
 
-(i) When a hoist tower is enclosed, it shall be enclosed on all sides for its entire height with a screen enclosure of1/2-inch mesh, No. 18 U.S. gauge wire or equivalent, except for landing access.
+(i) When a hoist tower is enclosed, it shall be enclosed on all sides for its entire height with a screen enclosure of 1/2-inch mesh, No. 18 U.S. gauge wire or equivalent, except for landing access.
 
-(ii) When a hoist tower is not enclosed, the hoist platform or car shall be totally enclosed (caged) on all sides for the full height between the floor and the overhead protective covering with1/2-inch mesh of No. 14 U.S. gauge wire or equivalent. The hoist platform enclosure shall include the required gates for loading and unloading. A 6-foot high enclosure shall be provided on the unused sides of the hoist tower at ground level.
+(ii) When a hoist tower is not enclosed, the hoist platform or car shall be totally enclosed (caged) on all sides for the full height between the floor and the overhead protective covering with 1/2-inch mesh of No. 14 U.S. gauge wire or equivalent. The hoist platform enclosure shall include the required gates for loading and unloading. A 6-foot high enclosure shall be provided on the unused sides of the hoist tower at ground level.
 
 (6) Car arresting devices shall be installed to function in case of rope failure.
 
@@ -58,7 +58,7 @@
 
 (6) A door or gate shall be provided at each entrance to the car which shall protect the full width and height of the car entrance opening.
 
-(7) Overhead protective covering of 2-inch planking,3/4-inch plywood or other solid material or equivalent strength shall be provided on the top of every personnel hoist.
+(7) Overhead protective covering of 2-inch planking, 3/4-inch plywood or other solid material or equivalent strength shall be provided on the top of every personnel hoist.
 
 (8) Doors or gates shall be provided with electric contacts which do not allow movement of the hoist when door or gate is open.
 
@@ -74,7 +74,7 @@
 
 (14) Ropes: (i) The minimum number of hoisting ropes used shall be three for traction hoists and two for drum-type hoists.
 
-(ii) The minimum diameter of hoisting and counterweight wire ropes shall be1/2-inch.
+(ii) The minimum diameter of hoisting and counterweight wire ropes shall be 1/2-inch.
 
 (iii) Safety factors:
 
@@ -103,7 +103,7 @@
 
 (17)(i) Personnel hoists used in bridge tower construction shall be approved by a registered professional engineer and erected under the supervision of a qualified engineer competent in this field.
 
-(ii) When a hoist tower is not enclosed, the hoist platform or car shall be totally enclosed (caged) on all sides for the full height between the floor and the overhead protective covering with3/4-inch mesh of No. 14 U.S. gauge wire or equivalent. The hoist platform enclosure shall include the required gates for loading and unloading.
+(ii) When a hoist tower is not enclosed, the hoist platform or car shall be totally enclosed (caged) on all sides for the full height between the floor and the overhead protective covering with 3/4-inch mesh of No. 14 U.S. gauge wire or equivalent. The hoist platform enclosure shall include the required gates for loading and unloading.
 
 (iii) These hoists shall be inspected and maintained on a weekly basis. Whenever the hoisting equipment is exposed to winds exceeding 35 miles per hour it shall be inspected and put in operable condition before reuse.
 

@@ -12,7 +12,7 @@ Wherever this section applies, an employee's exposure to any substance listed in
 
 (1)(i) The cumulative exposure for an 8-hour work shift shall be computed as follows:
 
-E = (Ca Ta + Cb Tb + ...Cn Tn) ÷ 8Where:E is the equivalent exposure for the working shift.C is the concentration during any period of time T where the concentration remains constant.T is the duration in hours of the exposure at the concentration C.The value of E shall not exceed the 8-hour time weighted average specified in subpart Z of 29 CFR part 1915 for the material involved.
+E = (Ca Ta + Cb Tb + ...Cn Tn) ÷ 8Where:E is the equivalent exposure for the working shift. C is the concentration during any period of time T where the concentration remains constant. T is the duration in hours of the exposure at the concentration C.The value of E shall not exceed the 8-hour time weighted average specified in subpart Z of 29 CFR part 1915 for the material involved.
 
 (ii) To illustrate the formula prescribed in paragraph (d)(1)(i) of this section, assume that Substance A has an 8-hour time weighted average limit of 100 ppm noted in Table Z—Shipyards. Assume that an employee is subject to the following exposure:
 

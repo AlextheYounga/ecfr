@@ -10,4 +10,4 @@
 
 (e) *Method and date of issuance.* The PBGC applies the rules in subpart B of part 4000 of this chapter to determine permissible methods of issuance under this subpart. The PBGC applies the rules in subpart C of part 4000 of this chapter to determine the date that an issuance under this subpart was provided.
 
-(Approved by the Office of Management and Budget under control number 1212-0021)[61 FR 34084, July 1, 1996, as amended at 68 FR 61355, Oct. 28, 2003]
+(Approved by the Office of Management and Budget under control number 1212-0021) [61 FR 34084, July 1, 1996, as amended at 68 FR 61355, Oct. 28, 2003]

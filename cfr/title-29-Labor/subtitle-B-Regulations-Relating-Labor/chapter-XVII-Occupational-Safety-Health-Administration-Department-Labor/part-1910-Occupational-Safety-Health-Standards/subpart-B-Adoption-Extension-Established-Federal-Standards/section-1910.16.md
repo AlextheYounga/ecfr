@@ -76,7 +76,7 @@ Exposures to nonionizing radiation emissions from commercial vessel transmitters
 
 (xiii) *Toxic and hazardous substances.* Subpart Z applies to marine cargo handling activities except for the following:
 
-(A) When a substance or cargo is contained within a sealed, intact means of packaging or containment complying with Department of Transportation or International Maritime Organization requirements;2
+(A) When a substance or cargo is contained within a sealed, intact means of packaging or containment complying with Department of Transportation or International Maritime Organization requirements; 2
 
 2 The International Maritime Organization publishes the International Maritime Dangerous Goods Code to aid compliance with the international legal requirements of the International Convention for the Safety of Life at Sea, 1960.
 

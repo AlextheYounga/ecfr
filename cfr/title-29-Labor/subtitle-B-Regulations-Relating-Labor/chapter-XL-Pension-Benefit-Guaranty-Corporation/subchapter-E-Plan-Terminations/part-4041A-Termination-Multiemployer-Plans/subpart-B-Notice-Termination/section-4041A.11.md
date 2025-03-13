@@ -10,4 +10,4 @@
 
 (d) *How and where to file.* Filings with PBGC under this subpart must be submitted in accordance with the rules in subpart A of part 4000 of this chapter. See § 4000.4 of this chapter for information on where to file.
 
-(Approved by the Office of Management and Budget under control number 1212-0020)[61 FR 34052, July 1, 1996, as amended at 80 FR 55745, Sept. 17, 2015; 84 FR 18722, May 2, 2019]
+(Approved by the Office of Management and Budget under control number 1212-0020) [61 FR 34052, July 1, 1996, as amended at 80 FR 55745, Sept. 17, 2015; 84 FR 18722, May 2, 2019]

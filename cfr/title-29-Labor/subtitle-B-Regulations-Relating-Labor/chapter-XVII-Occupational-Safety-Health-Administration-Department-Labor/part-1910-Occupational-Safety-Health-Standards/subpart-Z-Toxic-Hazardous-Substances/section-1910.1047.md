@@ -182,13 +182,13 @@ DANGERETHYLENE OXIDEMAY CAUSE CANCERMAY DAMAGE FERTILITY OR THE UNBORN CHILDRESP
 
 (B) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (j)(2)(i)(A) of this section:
 
-DANGERETHYLENE OXIDECANCER HAZARD AND REPRODUCTIVE HAZARDAUTHORIZED PERSONNEL ONLYRESPIRATORS AND PROTECTIVE CLOTHING MAY BE REQUIRED TO BE WORN IN THIS AREA
+DANGER ETHYLENE OXIDE CANCER HAZARD AND REPRODUCTIVE HAZARD AUTHORIZED PERSONNEL ONLY RESPIRATORS AND PROTECTIVE CLOTHING MAY BE REQUIRED TO BE WORN IN THIS AREA
 
 (ii) *Labels.* (A) The employer shall ensure that labels are affixed to all containers of EtO whose contents are capable of causing employee exposure at or above the action level or whose contents may reasonably be foreseen to cause employee exposure above the excursion limit, and that the labels remain affixed when the containers of EtO leave the workplace. For the purposes of this paragraph (j)(2)(ii), reaction vessels, storage tanks, and pipes or piping systems are not considered to be containers.
 
 (B) Prior to June 1, 2015, employers may include the following information on containers of EtO in lieu of the labeling requirements in paragraph (j)(1)(i) of this section:
 
-(*1*) DANGERCONTAINS ETHYLENE OXIDECANCER HAZARD AND REPRODUCTIVE HAZARD;(*2*) A warning statement against breathing airborne concentrations of EtO.
+(*1*) DANGER CONTAINS ETHYLENE OXIDE CANCER HAZARD AND REPRODUCTIVE HAZARD;(*2*) A warning statement against breathing airborne concentrations of EtO.
 
 (C) The labeling requirements under this section do not apply where EtO is used as a pesticide, as such term is defined in the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 *et seq.*), when it is labeled pursuant to that Act and regulations issued under that Act by the Environmental Protection Agency.
 
@@ -790,7 +790,7 @@ This includes an additional plus or minus 5% for sampling error.
 
 3.1.1 Gas chromatograph equipped with a linearized electron capture detector.
 
-3.1.2 GC column capable of separating the derivative of ethylene oxide (2-bromoethanol) from any interferences and the 1% CS2 in benzene solvent. The column used for validation studies was: 10 ft ×1/8 inch stainless steel 20% SP-2100, .1% Carbowax 1500 on 100/120 Supelcoport.
+3.1.2 GC column capable of separating the derivative of ethylene oxide (2-bromoethanol) from any interferences and the 1% CS2 in benzene solvent. The column used for validation studies was: 10 ft × 1/8 inch stainless steel 20% SP-2100, .1% Carbowax 1500 on 100/120 Supelcoport.
 
 3.1.3 An electronic integrator or some other suitable method of measuring peak areas.
 

@@ -488,7 +488,7 @@ Appendix C to § 1910.95—Audiometric Measuring InstrumentsThis appendix is Man
 
 2. Self-recording audiometers shall comply with the following requirements:
 
-(A) The chart upon which the audiogram is traced shall have lines at positions corresponding to all multiples of 10 dB hearing level within the intensity range spanned by the audiometer. The lines shall be equally spaced and shall be separated by at least1/4 inch. Additional increments are optional. The audiogram pen tracings shall not exceed 2 dB in width.
+(A) The chart upon which the audiogram is traced shall have lines at positions corresponding to all multiples of 10 dB hearing level within the intensity range spanned by the audiometer. The lines shall be equally spaced and shall be separated by at least 1/4 inch. Additional increments are optional. The audiogram pen tracings shall not exceed 2 dB in width.
 
 (B) It shall be possible to set the stylus manually at the 10-dB increment lines for calibration purposes.
 

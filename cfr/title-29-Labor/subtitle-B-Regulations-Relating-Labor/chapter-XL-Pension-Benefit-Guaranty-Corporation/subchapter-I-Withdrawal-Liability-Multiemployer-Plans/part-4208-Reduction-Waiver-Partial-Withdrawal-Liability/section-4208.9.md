@@ -34,4 +34,4 @@
 
 (2) The amendment would not significantly increase the PBGC's risk of loss with respect to the plan.
 
-(Approved by the Office of Management and Budget under control no. 1212-0039)[61 FR 34093, July 1, 1996, as amended at 68 FR 61355, Oct. 28, 2003]
+(Approved by the Office of Management and Budget under control no. 1212-0039) [61 FR 34093, July 1, 1996, as amended at 68 FR 61355, Oct. 28, 2003]

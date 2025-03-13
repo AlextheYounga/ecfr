@@ -86,15 +86,15 @@
 
 (10) Backrails and toeboards shall be in accordance with the requirements of paragraph (j) of this section.
 
-(f) *Painters' suspended scaffolds.* (1) The supporting hooks of swinging scaffolds shall be constructed to be equivalent in strength to mild steel or wrought iron, shall be forged with care, shall be not less than7/8 inch in diameter, and shall be secured to a safe anchorage at all times.
+(f) *Painters' suspended scaffolds.* (1) The supporting hooks of swinging scaffolds shall be constructed to be equivalent in strength to mild steel or wrought iron, shall be forged with care, shall be not less than 7/8 inch in diameter, and shall be secured to a safe anchorage at all times.
 
-(2) The ropes supporting a swinging scaffold shall be equivalent in strength to first-grade3/4 inch diameter manila rope properly rigged into a set of standard 6 inch blocks consisting of at least one double and one single block.
+(2) The ropes supporting a swinging scaffold shall be equivalent in strength to first-grade 3/4 inch diameter manila rope properly rigged into a set of standard 6 inch blocks consisting of at least one double and one single block.
 
 (3) Manila and wire ropes shall be carefully examined before each operation and thereafter as frequently as may be necessary to ensure their safe condition.
 
 (4) Each end of the scaffold platform shall be supported by a wrought iron or mild steel stirrup or hanger, which in turn is supported by the suspension ropes.
 
-(5) Stirrups shall be constructed so as to be equivalent in strength to wrought iron3/4 inch in diameter.
+(5) Stirrups shall be constructed so as to be equivalent in strength to wrought iron 3/4 inch in diameter.
 
 (6) The stirrups shall be formed with a horizontal bottom member to support the platform, shall be provided with means to support the guardrail and midrail and shall have a loop or eye at the top for securing the supporting hook on the block.
 
@@ -112,11 +112,11 @@
 
 (ii) The side rails of ladders in ladder-type platforms shall be equivalent in strength to a beam of clear straight-grained spruce of the dimensions contained in Table E-2 in § 1915.118.
 
-(iii) The side rails shall be tied together with tie rods. The tie rods shall be not less than5/16 inch in diameter, located no more than 5 feet apart, pass through the rails, and be riveted up tight against washers at both ends.
+(iii) The side rails shall be tied together with tie rods. The tie rods shall be not less than 5/16 inch in diameter, located no more than 5 feet apart, pass through the rails, and be riveted up tight against washers at both ends.
 
-(iv) The rungs shall be of straight-grained oak, ash, or hickory, not less than 11/8 inches diameter, with7/8 inch tenons mortised into the side rails not less than7/8 inch and shall be spaced no more than 18 inches on centers.
+(iv) The rungs shall be of straight-grained oak, ash, or hickory, not less than 11/8 inches diameter, with 7/8 inch tenons mortised into the side rails not less than 7/8 inch and shall be spaced no more than 18 inches on centers.
 
-(v) Flooring strips shall be spaced no more than5/8 inch apart except at the side rails, where 1 inch spacing is permissible.
+(v) Flooring strips shall be spaced no more than 5/8 inch apart except at the side rails, where 1 inch spacing is permissible.
 
 (vi) Flooring strips shall be cleated on their undersides.
 
@@ -148,7 +148,7 @@
 
 (vi) The platform shall be not more than 24 inches wide.
 
-(vii) The platform shall be formed of boards7/8 inch in thickness by not less than 6 inches in width, nailed tightly together, and extending to the outside face of the stringers.
+(vii) The platform shall be formed of boards 7/8 inch in thickness by not less than 6 inches in width, nailed tightly together, and extending to the outside face of the stringers.
 
 (viii) The ends of all platform boards shall rest on the top of the cross beams, shall be securely nailed, and at no intermediate points in the length of the platform shall there be any cantilever ends.
 

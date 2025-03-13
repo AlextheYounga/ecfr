@@ -16,4 +16,4 @@
 
 (f) The application shall be signed by the applicant with respect to the eligibility of the applicant and by the attorney of the applicant with respect to fees and expenses sought. It shall also contain or be accompanied by a written verification under oath or under penalty of perjury that the information provided in the application is true and correct.
 
-(Approved by the Office of Management and Budget under control number 1225-0013)[46 FR 63021, Dec. 29, 1981, as amended at 47 FR 14696, Apr. 6, 1982]
+(Approved by the Office of Management and Budget under control number 1225-0013) [46 FR 63021, Dec. 29, 1981, as amended at 47 FR 14696, Apr. 6, 1982]

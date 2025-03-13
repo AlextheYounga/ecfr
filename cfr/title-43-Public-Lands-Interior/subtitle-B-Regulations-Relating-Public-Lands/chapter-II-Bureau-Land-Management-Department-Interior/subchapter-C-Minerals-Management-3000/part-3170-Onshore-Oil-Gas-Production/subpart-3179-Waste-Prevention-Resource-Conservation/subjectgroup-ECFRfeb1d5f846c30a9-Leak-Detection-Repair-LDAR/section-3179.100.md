@@ -1,5 +1,7 @@
 ##### § 3179.100 Leak detection and repair program. #####
 
+Link to an amendment published at 89 FR 92606, Nov. 22, 2024.
+
 (a) Pursuant to paragraph (b) of this section, the operator must maintain a BLM administrative statewide LDAR program designed to prevent the waste of Federal or Indian gas.
 
 (b) Operators must submit a statewide LDAR program to the BLM state office with jurisdiction over the production for review. The LDAR program must cover operations and production equipment located on a Federal or Indian oil and gas lease and not operations and production equipment located on State or private tracts, even though those tracts are committed to a federally approved unit PA or CA. When there is a change of operator, the new operator must update the LDAR program on the annual update and revision timeline. Operators must submit the LDAR program in writing for review until such time as the BLM's electronic filing system is capable of receiving LDAR program submissions. At minimum, the LDAR program must contain the following information, as applicable:

@@ -418,7 +418,7 @@ C. Storage: Protect against physical damage to BD containers. Outside or detache
 
 D. Usual Shipping Containers: Liquefied BD is contained in steel pressure apparatus.
 
-E. Electrical Equipment: Electrical installations in Class I hazardous locations, as defined in Article 500 of the National Electrical Code, should be in accordance with Article 501 of the Code. If explosion-proof electrical equipment is necessary, it shall be suitable for use in Group B. Group D equipment may be used if such equipment is isolated in accordance with Section 501-5(a) by sealing all conduit1/2- inch size or larger. See Venting of Deflagrations (NFPA No. 68, 1994), National Electrical Code (NFPA No. 70, 1996), Static Electricity (NFPA No. 77, 1993), Lightning Protection Systems (NFPA No. 780, 1995), and Fire Hazard Properties of Flammable Liquids, Gases and Volatile Solids (NFPA No. 325, 1994).
+E. Electrical Equipment: Electrical installations in Class I hazardous locations, as defined in Article 500 of the National Electrical Code, should be in accordance with Article 501 of the Code. If explosion-proof electrical equipment is necessary, it shall be suitable for use in Group B. Group D equipment may be used if such equipment is isolated in accordance with Section 501-5(a) by sealing all conduit 1/2- inch size or larger. See Venting of Deflagrations (NFPA No. 68, 1994), National Electrical Code (NFPA No. 70, 1996), Static Electricity (NFPA No. 77, 1993), Lightning Protection Systems (NFPA No. 780, 1995), and Fire Hazard Properties of Flammable Liquids, Gases and Volatile Solids (NFPA No. 325, 1994).
 
 F. Fire Fighting: Stop flow of gas. Use water to keep fire-exposed containers cool. Fire extinguishers and quick drenching facilities must be readily available, and you should know where they are and how to operate them.
 
@@ -710,7 +710,7 @@ The detection limit of the overall procedure was 0.60 µg per sample (90 ppb or 
 
 The reliable quantitation limit was 1.03 µg per sample (155 ppb or 343 µg/m3). This was the smallest amount of analyte which could be quantitated within the limits of a recovery of at least 75% and a precision (±1.96 SD) of ±25% or better.
 
-1.2.4. Sensitivity1
+1.2.4. Sensitivity 1
 
 1 The reliable quantitation limit and detection limits reported in the method are based upon optimization of the instrument for the smallest possible amount of analyte. When the target concentration of an analyte is exceptionally higher than these limits, they may not be attainable at the routine operation parameters.
 
@@ -736,7 +736,7 @@ Samples collected from a controlled test atmosphere and a draft copy of this pro
 
 *2.1.1.* Samples are collected by use of a personal sampling pump that can be calibrated to within ±5% of the recommended 0.05 L/min sampling rate with the sampling tube in line.
 
-*2.1.2.* Samples are collected with laboratory prepared sampling tubes. The sampling tube is constructed of silane-treated glass and is about 5-cm long. The ID is 4 mm and the OD is 6 mm. One end of the tube is tapered so that a glass wool end plug will hold the contents of the tube in place during sampling. The opening in the tapered end of the sampling tube is at least one-half the ID of the tube (2 mm). The other end of the sampling tube is open to its full 4-mm ID to facilitate packing of the tube. Both ends of the tube are fire-polished for safety. The tube is packed with 2 sections of pretreated charcoal which has been coated with TBC. The tube is packed with a 50-mg backup section, located nearest the tapered end, and with a 100-mg sampling section of charcoal. The two sections of coated adsorbent are separated and retained with small plugs of silanized glass wool. Following packing, the sampling tubes are sealed with two7/32 inch OD plastic end caps. Instructions for the pretreatment and coating of the charcoal are presented in Section 4.1 of this method.
+*2.1.2.* Samples are collected with laboratory prepared sampling tubes. The sampling tube is constructed of silane-treated glass and is about 5-cm long. The ID is 4 mm and the OD is 6 mm. One end of the tube is tapered so that a glass wool end plug will hold the contents of the tube in place during sampling. The opening in the tapered end of the sampling tube is at least one-half the ID of the tube (2 mm). The other end of the sampling tube is open to its full 4-mm ID to facilitate packing of the tube. Both ends of the tube are fire-polished for safety. The tube is packed with 2 sections of pretreated charcoal which has been coated with TBC. The tube is packed with a 50-mg backup section, located nearest the tapered end, and with a 100-mg sampling section of charcoal. The two sections of coated adsorbent are separated and retained with small plugs of silanized glass wool. Following packing, the sampling tubes are sealed with two 7/32 inch OD plastic end caps. Instructions for the pretreatment and coating of the charcoal are presented in Section 4.1 of this method.
 
 2.2. Reagents
 
@@ -784,13 +784,13 @@ There are no known interferences to the sampling method.
 
 3. Analytical procedure3.1. Apparatus
 
-*3.1.1.* A gas chromatograph (GC), equipped with a flame ionization detector (FID).2
+*3.1.1.* A gas chromatograph (GC), equipped with a flame ionization detector (FID). 2
 
 2 A Hewlett-Packard Model 5840A GC was used for this evaluation. Injections were performed using a Hewlett-Packard Model 7671A automatic sampler.
 
-*3.1.2.* A GC column capable of resolving the analytes from any interference.3
+*3.1.2.* A GC column capable of resolving the analytes from any interference. 3
 
-3 A 20-ft ×1/8-inch OD stainless steel GC column containing 20% FFAP on 80/100 mesh Chromabsorb W-AW-DMCS was used for this evaluation.
+3 A 20-ft × 1/8-inch OD stainless steel GC column containing 20% FFAP on 80/100 mesh Chromabsorb W-AW-DMCS was used for this evaluation.
 
 *3.1.3.* Vials, glass 2-mL with Teflon-lined caps.
 
@@ -798,7 +798,7 @@ There are no known interferences to the sampling method.
 
 3.2. Reagents
 
-*3.2.1.* Carbon disulfide.4
+*3.2.1.* Carbon disulfide. 4
 
 4 Fisher Scientific Company A.C.S. Reagent Grade solvent was used in this evaluation.
 
@@ -806,13 +806,13 @@ The benzene contaminant that was present in the carbon disulfide was used as an 
 
 *3.2.2.* Nitrogen, hydrogen and air, GC grade.
 
-*3.2.3.* BD of known high purity.5
+*3.2.3.* BD of known high purity. 5
 
 5 Matheson Gas Products, CP Grade 1,3-butadiene was used in this study.
 
 3.3. Standard preparation
 
-*3.3.1.* Prepare standards by diluting known volumes of BD gas with carbon disulfide. This can be accomplished by injecting the appropriate volume of BD into the headspace above the 1-mL of carbon disulfide contained in sealed 2-mL vial. Shake the vial after the needle is removed from the septum.6
+*3.3.1.* Prepare standards by diluting known volumes of BD gas with carbon disulfide. This can be accomplished by injecting the appropriate volume of BD into the headspace above the 1-mL of carbon disulfide contained in sealed 2-mL vial. Shake the vial after the needle is removed from the septum. 6
 
 6 A standard containing 7.71 µg/mL (at ambient temperature and pressure) was prepared by diluting 4 µL of the gas with 1-mL of carbon disulfide.
 
@@ -844,7 +844,7 @@ Carrier gas flow rate: 30 mL/min
 
 Injection volume: 0.80 µL
 
-GC column: 20-ft ×1/8-in OD stainless steel GC column containing 20%
+GC column: 20-ft × 1/8-in OD stainless steel GC column containing 20%
 
 FFAP on 80/100 Chromabsorb W-AW-DMCS.
 
@@ -888,7 +888,7 @@ ppm = (mg/m3)(24.46)/54.09Where:mg/m3 = result from Section 3.7.3.24.46 = molar 
 
 *4.1.1.1.* Magnetic stirrer and stir bar.
 
-*4.1.1.2.* Tube furnace capable of maintaining a temperature of 700 °C and equipped with a quartz tube that can hold 30 g of charcoal.8
+*4.1.1.2.* Tube furnace capable of maintaining a temperature of 700 °C and equipped with a quartz tube that can hold 30 g of charcoal. 8
 
 8 A Lindberg Type 55035 Tube furnace was used in this evaluation.
 
@@ -900,15 +900,15 @@ ppm = (mg/m3)(24.46)/54.09Where:mg/m3 = result from Section 3.7.3.24.46 = molar 
 
 4.1.2. Reagents
 
-*4.1.2.1.* Phosphoric acid, 10% by weight, in water.9
+*4.1.2.1.* Phosphoric acid, 10% by weight, in water. 9
 
 9 Baker Analyzed” Reagent grade was diluted with water for use in this evaluation.
 
-*4.1.2.2.* 4-tert-Butylcatechol (TBC).10
+*4.1.2.2.* 4-tert-Butylcatechol (TBC). 10
 
 10 The Aldrich Chemical Company 99% grade was used in this evaluation.
 
-*4.1.2.3.* Specially cleaned coconut shell charcoal, 20/40 mesh.11
+*4.1.2.3.* Specially cleaned coconut shell charcoal, 20/40 mesh. 11
 
 11 Specially cleaned charcoal was obtained from Supelco, Inc. for use in this evaluation. The cleaning process used by Supelco is proprietary.
 

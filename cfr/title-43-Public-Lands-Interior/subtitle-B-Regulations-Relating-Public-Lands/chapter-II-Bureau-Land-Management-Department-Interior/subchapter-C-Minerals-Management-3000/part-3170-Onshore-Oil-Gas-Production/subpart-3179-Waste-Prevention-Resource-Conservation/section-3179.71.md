@@ -1,5 +1,7 @@
 ##### § 3179.71 Measurement of flared oil-well gas volume. #####
 
+Link to an amendment published at 89 FR 92605, Nov. 22, 2024.
+
 (a) The operator may commingle flared gas from more than one lease, unit PA, or CA to a common high-pressure flare without BLM approval, subject to the allocation requirement in paragraph (h). The site facility diagram required under § 3173.11 must indicate that the high-pressure flare is a common, commingled flare and list the leases, unit PAs, or CAs contributing gas to the common flare.
 
 (b) The operator must measure flared gas for high-pressure flares for volumes greater than 1,050 Mcf per month above the averaging period. For high-pressure flares measuring less than or equal to 1,050 Mcf per month over the averaging period and for low-pressure flares, operators may estimate the volume flared, as described in paragraph (h) of this section.

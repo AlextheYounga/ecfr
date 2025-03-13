@@ -475,7 +475,7 @@ When the U.S Navy contracts directly with a contract employer and the Navy ship'
 
 (s) *Appendices.* Non-mandatory Appendix A to this section is a guideline to assist employers and employees in complying with the requirements of this section, and to provide them with other useful information. The information in Appendix A does not add to, or in any way revise, the requirements of this section.
 
-Appendix A to § 1915.89 (Non-Mandatory)—Typical Minimal Lockout/Tags-Plus ProceduresGeneralLockout/Tags-Plus ProcedureLockout/Tags-Plus Procedure for[Name of company for single procedure or identification of machinery, equipment, or system if multiple procedures used.]Purpose
+Appendix A to § 1915.89 (Non-Mandatory)—Typical Minimal Lockout/Tags-Plus ProceduresGeneralLockout/Tags-Plus ProcedureLockout/Tags-Plus Procedure for [Name of company for single procedure or identification of machinery, equipment, or system if multiple procedures used.]Purpose
 
 This procedure establishes the minimum requirements for the lockout/tags-plus application of energy-isolating devices on vessels and vessel sections, and for landside facilities whenever servicing is done on machinery, equipment, or systems in shipyards. This procedure shall be used to ensure that all potentially hazardous-energy sources have been isolated and the machinery, equipment, or system to be serviced has been rendered inoperative through the use of lockout or tags-plus procedures before employees perform any servicing when the energization or start-up of the machinery, equipment, or system, or the release of hazardous energy could cause injury.
 

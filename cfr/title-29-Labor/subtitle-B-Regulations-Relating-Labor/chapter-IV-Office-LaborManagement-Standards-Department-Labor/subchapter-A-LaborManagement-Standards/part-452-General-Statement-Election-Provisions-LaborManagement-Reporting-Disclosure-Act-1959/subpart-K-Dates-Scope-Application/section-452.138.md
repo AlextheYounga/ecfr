@@ -1,10 +1,10 @@
 ##### § 452.138 Application of other laws. #####
 
-(a) Section 40359 provides that no labor organization shall be required by law to conduct elections of officers with greater frequency or in a different form or manner than is required by its own constitution or bylaws, except as otherwise provided by the election provisions of the Act.
+(a) Section 403 59 provides that no labor organization shall be required by law to conduct elections of officers with greater frequency or in a different form or manner than is required by its own constitution or bylaws, except as otherwise provided by the election provisions of the Act.
 
 59 Act, sec. 403.
 
-(b) The remedy60 provided in the Act for challenging an election already conducted is exclusive.61 However, existing rights and remedies to enforce the constitutions and bylaws of such organizations before an election has been held are unaffected by the election provisions. Section 60362 which applies to the entire Act, states that except where explicitly provided to the contrary, nothing in the Act shall take away any right or bar any remedy of any union member under other Federal law or law of any State.
+(b) The remedy 60 provided in the Act for challenging an election already conducted is exclusive. 61 However, existing rights and remedies to enforce the constitutions and bylaws of such organizations before an election has been held are unaffected by the election provisions. Section 603 62 which applies to the entire Act, states that except where explicitly provided to the contrary, nothing in the Act shall take away any right or bar any remedy of any union member under other Federal law or law of any State.
 
 60 Act, sec. 402.
 

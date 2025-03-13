@@ -252,13 +252,13 @@ DANGERBENZENEMAY CAUSE CANCERHIGHLY FLAMMABLE LIQUID AND VAPORDO NOT SMOKEWEAR R
 
 (ii) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (j)(2)(i) of this section:
 
-DANGERBENZENECANCER HAZARDFLAMMABLE—NO SMOKINGAUTHORIZED PERSONNEL ONLYRESPIRATOR REQUIRED
+DANGER BENZENE CANCER HAZARD FLAMMABLE—NO SMOKING AUTHORIZED PERSONNEL ONLY RESPIRATOR REQUIRED
 
 (iii) The employer shall ensure that labels or other appropriate forms of warning are provided for containers of benzene within the workplace. There is no requirement to label pipes. The labels shall comply with the requirements of paragraph (j)(1) of this section and § 1910.1200(f).
 
 (iv) Prior to June 1, 2015, employers shall include the following legend or similar language on the labels or other appropriate forms of warning:
 
-DANGERCONTAINS BENZENECANCER HAZARD
+DANGER CONTAINS BENZENE CANCER HAZARD
 
 (3) *Information and training.* (i) The employer shall provide employees with information and training at the time of their initial assignment to a work area where benzene is present. If exposures are above the action level, employees shall be provided with information and training at least annually thereafter.
 
@@ -550,7 +550,7 @@ I. OSHA Method 12 for Air SamplesAnalyte: BenzeneMatrix: AirProcedure: Adsorptio
 
 3.3. Gas chromatograph equipped with a flame ionization detector.
 
-3.4. Column (10-ft ×1/8-in stainless steel) packed with 80/100 Supelcoport coated with 20 percent SP 2100, 0.1 percent CW 1500.
+3.4. Column (10-ft × 1/8-in stainless steel) packed with 80/100 Supelcoport coated with 20 percent SP 2100, 0.1 percent CW 1500.
 
 3.5. An electronic integrator or some other suitable method for measuring peak area.
 

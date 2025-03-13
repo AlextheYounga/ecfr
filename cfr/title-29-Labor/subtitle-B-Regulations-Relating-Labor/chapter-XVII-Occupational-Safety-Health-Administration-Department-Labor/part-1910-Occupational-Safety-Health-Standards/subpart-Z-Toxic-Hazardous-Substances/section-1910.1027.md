@@ -448,7 +448,7 @@ DANGERCADMIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGS AND KIDNEYSWEAR RESPIRATORY 
 
 (iv) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (m)(2)(ii) of this section:
 
-DANGERCADMIUMCANCER HAZARDCAN CAUSE LUNG AND KIDNEY DISEASEAUTHORIZED PERSONNEL ONLYRESPIRATORS REQUIRED IN THIS AREA
+DANGERCADMIUM CANCER HAZARD CAN CAUSE LUNG AND KIDNEY DISEASE AUTHORIZED PERSONNEL ONLY RESPIRATORS REQUIRED IN THIS AREA
 
 (3) *Warning labels.* (i) Shipping and storage containers containing cadmium or cadmium compounds shall bear appropriate warning labels, as specified in paragraph (m)(1) of this section.
 
@@ -458,7 +458,7 @@ DANGERCONTAINS CADMIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGS AND KIDNEYSAVOID CR
 
 (iii) Prior to June 1, 2015, employers may include the following information on shipping and storage containers containing cadmium, cadmium compounds, or cadmium contaminated clothing, equipment, waste, scrap, or debris in lieu of the labeling requirements specified in paragraphs (m)(1)(i) and (m)(3)(ii) of this section:
 
-DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY DISEASE
+DANGER CONTAINS CADMIUM CANCER HAZARD AVOID CREATING DUST CAN CAUSE LUNG AND KIDNEY DISEASE
 
 (iv) Where feasible, installed cadmium products shall have a visible label or other indication that cadmium is present.
 
@@ -1063,7 +1063,7 @@ If the concentration of cadmium in a sample solution is too low for quantitation
 
 Previously, two OSHA sampling and analytical methods for cadmium were used concurrently (5.3., 5.4.). Both of these methods also required 0.8-µm mixed cellulose ester membrane filters for the collection of air samples. These cadmium air filter samples were analyzed by either flame atomic absorption spectroscopy (5.3.) or inductively coupled plasma/atomic emission spectroscopy (ICP-AES) (5.4.). Neither of these two analytical methods have adequate sensitivity for measuring workplace exposure to airborne cadmium at the new lower TWA and Action Level TWA PEL levels when consecutive samples are taken on one employee and the sample results need to be averaged with other samples to determine a single TWA.
 
-The inclusion of two atomic absorption analytical techniques in the new sampling and analysis method for airborne cadmium permits quantitation of sample results over a broad range of exposure levels and sampling periods. The flame AAS analytical technique included in this method is similar to the previous procedure given in the General Metals Method ID-121 (5.3.) with some modifications. The sensitivity of the AAS-HGA analytical technique included in this method is adequate to measure exposure levels at1/10 the Action Level TWA, or lower, when less than full-shift samples need to be averaged together.
+The inclusion of two atomic absorption analytical techniques in the new sampling and analysis method for airborne cadmium permits quantitation of sample results over a broad range of exposure levels and sampling periods. The flame AAS analytical technique included in this method is similar to the previous procedure given in the General Metals Method ID-121 (5.3.) with some modifications. The sensitivity of the AAS-HGA analytical technique included in this method is adequate to measure exposure levels at 1/10 the Action Level TWA, or lower, when less than full-shift samples need to be averaged together.
 
 1.4. Properties (5.5.)
 
@@ -2862,7 +2862,7 @@ For each quality control sample analyzed, the value F/T (defined in the glossary
 
 The control limit for a particular pool is then given by the mean plus or minus 2 standard deviations (X ±3σ).
 
-The control limits may be no greater than 40% of the mean F/T value. If three standard deviations are greater than 40% of the mean F/T value, then analysis of compliance samples may not begin.1 Instead, an investigation into the causes of the large standard deviation should begin, and the inadequacies must be remedied. Then, control limits must be reestablished which will mean repeating the running 20 quality control samples from each pool over 20 days.
+The control limits may be no greater than 40% of the mean F/T value. If three standard deviations are greater than 40% of the mean F/T value, then analysis of compliance samples may not begin. 1 Instead, an investigation into the causes of the large standard deviation should begin, and the inadequacies must be remedied. Then, control limits must be reestablished which will mean repeating the running 20 quality control samples from each pool over 20 days.
 
 1 Note that the value,“40%” may change over time as experience is gained with the program.
 
@@ -2912,7 +2912,7 @@ Attachment 2—Creatinine in Urine (Jaffe Procedure)
 
 Intended use: The CREA pack is used in the Du Pont ACA ® discrete clinical analyzer to quantitatively measure creatinine in serum and urine.
 
-Summary: The CREA method employs a modification of the kinetic Jaffe reaction reported by Larsen. This method has been reported to be less susceptible than conventional methods to interference from non-creatinine, Jaffe-positive compounds.1
+Summary: The CREA method employs a modification of the kinetic Jaffe reaction reported by Larsen. This method has been reported to be less susceptible than conventional methods to interference from non-creatinine, Jaffe-positive compounds. 1
 
 A split sample comparison between the CREA method and a conventional Jaffe procedure on Autoanalyzer ® showed a good correlation. (See Specific Performance Characteristics).
 
@@ -2953,19 +2953,19 @@ Storage of Unprocessed Packs: Store at 2-8 °C. Do not freeze. Do not expose to 
 
 Expiration: Refer to EXPIRATION DATE on the tray label.
 
-Specimen Collection: Serum or urine can be collected and stored by normal procedures.2
+Specimen Collection: Serum or urine can be collected and stored by normal procedures. 2
 
-Known Interfering Substances3
+Known Interfering Substances 3
 
 • Serum Protein Influence—Serum protein levels exert a direct influence on the CREA assay. The following should be taken into account when this method is used for urine samples and when it is calibrated:
 
-Aqueous creatinine standards or urine specimens will give CREA results depressed by approximately 0.7 mg/dL [62 µmol/L]d and will be less precise than samples containing more than 3 g/dL [30 g/L] protein.
+Aqueous creatinine standards or urine specimens will give CREA results depressed by approximately 0.7 mg/dL [62 µmol/L] d and will be less precise than samples containing more than 3 g/dL [30 g/L] protein.
 
 All urine specimens should be diluted with an albumin solution to give a final protein concentration of at least 3 g/dL [30 g/L]. Du Pont Enzyme Diluent (Cat. #790035-901) may be used for this purpose.
 
-• High concentration of endrogenous bilirubin (\>20 mg/dL [\>342 µmol/L]) will give depressed CREA results (average depression 0.8 mg/dL [71 µmol/L]).4
+• High concentration of endrogenous bilirubin (\>20 mg/dL [\>342 µmol/L]) will give depressed CREA results (average depression 0.8 mg/dL [71 µmol/L]). 4
 
-• Grossly hemolyzed (hemoglobin \>100 mg/dL [\>62 µmol/L]) or visibly lipemic specimens may cause falsely elevated CREA results.5 6
+• Grossly hemolyzed (hemoglobin \>100 mg/dL [\>62 µmol/L]) or visibly lipemic specimens may cause falsely elevated CREA results. 5 6
 
 • The following cephalosporin antibiotics do not interfere with the CREA method when present at the concentrations indicated. Systematic inaccuracies (bias) due to these substances are less than or equal to 0.1 mg/dL [8.84 µmol/L] at CREA concentrations of approximately 1 mg/dL [88 µmol/L].
 
@@ -3015,7 +3015,7 @@ CALIBRATION: The general calibration procedure is described in the Calibration/V
 
 The following information should be considered when calibrating the CREA method.
 
-• Assay Range: 0-20 mg/mL [0-1768 µmol/L]e.• Reference Material: Protein containing primary standardsf or secondary calibrators such as Du Pont Elevated Chemistry Control (Cat. #790035903) and Normal Chemistry Control (Cat.•#790035905)g.• Suggested Calibration Levels: 1,5,20, mg/mL [88, 442, 1768 µmol/L].• Calibration Scheme: 3 levels, 3 packs per level.• Frequency: Each new pack lot. Every 3 months for any one pack lot.
+• Assay Range: 0-20 mg/mL [0-1768 µmol/L] e.• Reference Material: Protein containing primary standards f or secondary calibrators such as Du Pont Elevated Chemistry Control (Cat. #790035903) and Normal Chemistry Control (Cat.•#790035905) g.• Suggested Calibration Levels: 1,5,20, mg/mL [88, 442, 1768 µmol/L].• Calibration Scheme: 3 levels, 3 packs per level.• Frequency: Each new pack lot. Every 3 months for any one pack lot.
 
 e. For the results in S.I. units [µmol/L] the conversion factory is 88.4.
 
@@ -3074,7 +3074,7 @@ i. Reference interval data obtained from 200 apparently healthy individuals (71 
 
 Each laboratory should establish its own reference intervals for CREA as performed on the analyzer.
 
-Specific Performance Characteristicsj
+Specific Performance Characteristics j
 
 | Material  |   Mean    |Standard deviation (% CV)|          |
 |-----------|-----------|-------------------------|----------|
@@ -3094,7 +3094,7 @@ k. Specimens at each level were analyzed in duplicate for twenty days. The withi
 
 l. Model equation for regression statistics is:
 
-![](/graphics/ec15no91.189.gif)Assay Rangem0.0-20.0 mg/dl[0-1768 µmol]
+![](/graphics/ec15no91.189.gif)Assay Range m0.0-20.0 mg/dl[0-1768 µmol]
 
 m. See REPRODUCIBILITY for method performance within the assay range.
 

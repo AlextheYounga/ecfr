@@ -30,7 +30,7 @@
 
 (l) *Securing cargo.* Cargo loaded or discharged during Ro-Ro operations shall be secured to prevent sliding loads.
 
-(m) *Authorized personnel.* Only authorized persons shall be permitted on any deck while loading or discharging operations are being conducted. Such authorized persons shall be equipped with high visibility vests (or equivalent protection10).
+(m) *Authorized personnel.* Only authorized persons shall be permitted on any deck while loading or discharging operations are being conducted. Such authorized persons shall be equipped with high visibility vests (or equivalent protection 10).
 
 10 Decals on hard hats will not be considered equivalent protection for the purposes of this paragraph.
 

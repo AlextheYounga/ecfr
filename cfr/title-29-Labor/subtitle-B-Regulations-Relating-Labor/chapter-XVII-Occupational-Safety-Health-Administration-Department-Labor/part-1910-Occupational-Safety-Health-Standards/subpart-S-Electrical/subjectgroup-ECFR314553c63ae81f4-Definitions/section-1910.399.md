@@ -264,7 +264,7 @@ Note to the definition of “identified:”
 
 Some examples of ways to determine suitability of equipment for a specific purpose, environment, or application include investigations by a nationally recognized testing laboratory (through listing and labeling), inspection agency, or other organization recognized under the definition of “acceptable.”
 
-*Induction heating.* The heating of a nominally conductive material due to its own I2R losses when the material is placed in a varying electromagnetic field.
+*Induction heating.* The heating of a nominally conductive material due to its own I 2R losses when the material is placed in a varying electromagnetic field.
 
 *Insulated.* Separated from other conducting surfaces by a dielectric (including air space) offering a high resistance to the passage of current.
 

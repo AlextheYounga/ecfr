@@ -80,7 +80,7 @@
 
 (4) Installation shall be in such a manner that the front end of the unit will be slightly higher than the rear, so as to cause the cutting head to return gently to the starting position when released by the operator.
 
-(5) Ripping and ploughing shall be against the direction in which the saw turns. The direction of the saw rotation shall be conspicuously marked on the hood. In addition, a permanent label not less than 11/2 inches by3/4 inch shall be affixed to the rear of the guard at approximately the level of the arbor, reading as follows: “Danger: Do Not Rip or Plough From This End”.
+(5) Ripping and ploughing shall be against the direction in which the saw turns. The direction of the saw rotation shall be conspicuously marked on the hood. In addition, a permanent label not less than 11/2 inches by 3/4 inch shall be affixed to the rear of the guard at approximately the level of the arbor, reading as follows: “Danger: Do Not Rip or Plough From This End”.
 
 (i) *Bandsaws and band resaws.* (1) All portions of the saw blade shall be enclosed or guarded, except for the working portion of the blade between the bottom of the guide rolls and the table. Bandsaw wheels shall be fully encased. The outside periphery of the enclosure shall be solid. The front and back of the band wheels shall be either enclosed by solid material or by wire mesh or perforated metal. Such mesh or perforated metal shall be not less than 0.037 inch (U.S. Gage No. 20), and the openings shall be not greater than three-eighths inch. Solid material used for this purpose shall be of an equivalent strength and firmness. The guard for the portion of the blade between the sliding guide and the upper-saw-wheel guard shall protect the saw blade at the front and outer side. This portion of the guard shall be self-adjusting to raise and lower with the guide. The upper-wheel guard shall be made to conform to the travel of the saw on the wheel.
 
@@ -132,7 +132,7 @@
 
 (3) All double-spindle shapers shall be provided with a spindle starting and stopping device for each spindle.
 
-(n) *Planing, molding, sticking, and matching machines.* (1) Each planing, molding, sticking, and matching machine shall have all cutting heads, and saws if used, covered by a metal guard. If such guard is constructed of sheet metal, the material used shall be not less than1/16 inch in thickness, and if cast iron is used, it shall be not less than three-sixteenths inch in thickness.
+(n) *Planing, molding, sticking, and matching machines.* (1) Each planing, molding, sticking, and matching machine shall have all cutting heads, and saws if used, covered by a metal guard. If such guard is constructed of sheet metal, the material used shall be not less than 1/16 inch in thickness, and if cast iron is used, it shall be not less than three-sixteenths inch in thickness.
 
 (2) Where an exhaust system is used, the guards shall form part or all of the exhaust hood and shall be constructed of metal of a thickness not less than that specified in paragraph (h)(1) of this section.
 

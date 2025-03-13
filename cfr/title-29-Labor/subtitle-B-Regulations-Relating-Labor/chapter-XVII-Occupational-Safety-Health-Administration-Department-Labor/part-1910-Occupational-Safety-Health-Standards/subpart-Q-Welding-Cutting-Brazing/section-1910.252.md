@@ -214,7 +214,7 @@ This flux when heated gives off fumes that may irritate eyes, nose and throat.
 
 (2) *Ventilation for general welding and cutting*—(i) *General.* Mechanical ventilation shall be provided when welding or cutting is done on metals not covered in paragraphs (c)(5) through (c)(12) of this section. (For specific materials, see the ventilation requirements of paragraphs (c)(5) through (c)(12) of this section.)
 
-(A) In a space of less than 10,000 cubic feet (284 m3) per welder.
+(A) In a space of less than 10,000 cubic feet (284 m 3) per welder.
 
 (B) In a room having a ceiling height of less than 16 feet (5 m).
 

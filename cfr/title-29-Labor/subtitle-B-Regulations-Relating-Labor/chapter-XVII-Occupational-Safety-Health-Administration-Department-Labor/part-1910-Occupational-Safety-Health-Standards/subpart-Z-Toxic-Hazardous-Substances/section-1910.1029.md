@@ -414,11 +414,11 @@ WEAR RESPIRATORY PROTECTION IN THIS AREA
 
 (v) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (l)(2)(i) of this section:
 
-DANGERCANCER HAZARDAUTHORIZED PERSONNEL ONLYNO SMOKING OR EATING
+DANGER CANCER HAZARD AUTHORIZED PERSONNEL ONLY NO SMOKING OR EATING
 
 (vi) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (l)(2)(ii) of this section:
 
-DANGERRESPIRATOR REQUIRED
+DANGER RESPIRATOR REQUIRED
 
 (3) *Labels.* (i) The employer shall ensure that labels of containers of contaminated protective clothing and equipment include the following information:
 
@@ -426,7 +426,7 @@ CONTAMINATED WITH COKE EMISSIONSMAY CAUSE CANCERDO NOT REMOVE DUST BY BLOWING OR
 
 (ii) Prior to June 1, 2015, employers may include the following information on contaminated protective clothing and equipment in lieu of the labeling requirements in paragraph (l)(3)(i) of this section:
 
-CAUTIONCLOTHING CONTAMINATED WITH COKE EMISSIONSDO NOT REMOVE DUST BY BLOWING OR SHAKING
+CAUTION CLOTHING CONTAMINATED WITH COKE EMISSIONS DO NOT REMOVE DUST BY BLOWING OR SHAKING
 
 (m) *Recordkeeping*—(1) *Exposure measurements.* The employer shall establish and maintain an accurate record of all measurements taken to monitor employee exposure to coke oven emissions required in paragraph (e) of this section.
 

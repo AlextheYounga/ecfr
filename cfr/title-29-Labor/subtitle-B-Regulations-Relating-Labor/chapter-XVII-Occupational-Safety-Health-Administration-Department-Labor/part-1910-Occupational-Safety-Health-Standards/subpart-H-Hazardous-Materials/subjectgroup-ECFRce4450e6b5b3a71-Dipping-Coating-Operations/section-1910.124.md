@@ -52,7 +52,7 @@
 
 (1) Locker space or other storage space to prevent contamination of the employee's street clothes;
 
-(2) An emergency shower and eye-wash station close to the dipping or coating operation. In place of this equipment, you may use a water hose that is at least 4 feet (1.22 m) long and at least3/4 of an inch (18 mm) thick with a quick-opening valve and carrying a pressure of 25 pounds per square inch (1.62 k/cm2) or less; and
+(2) An emergency shower and eye-wash station close to the dipping or coating operation. In place of this equipment, you may use a water hose that is at least 4 feet (1.22 m) long and at least 3/4 of an inch (18 mm) thick with a quick-opening valve and carrying a pressure of 25 pounds per square inch (1.62 k/cm2) or less; and
 
 (3) At least one basin with a hot-water faucet for every 10 employees who work with such liquids. (See paragraph (d) of § 1910.141.)
 

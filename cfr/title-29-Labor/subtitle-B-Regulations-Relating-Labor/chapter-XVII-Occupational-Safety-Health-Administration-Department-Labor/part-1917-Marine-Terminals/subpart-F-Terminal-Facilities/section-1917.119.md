@@ -8,11 +8,11 @@
 
 (3) Rungs shall be continuous members between rails. Each rung of a double-rung ladder (two side rails and a center rail) shall extend the full width of the ladder.
 
-(4) Width between side rails at the base of the ladder shall be at least 12 inches (30.48 cm) for ladders 10 feet (3.05 m) or less in overall length, and shall increase at least1/4 inch (0.64 cm) for each additional 2 feet (0.61 m) of ladder length.
+(4) Width between side rails at the base of the ladder shall be at least 12 inches (30.48 cm) for ladders 10 feet (3.05 m) or less in overall length, and shall increase at least 1/4 inch (0.64 cm) for each additional 2 feet (0.61 m) of ladder length.
 
 (c) *Standards for manufactured portable ladders.* Portable manufactured ladders obtained after January 21, 1998 shall bear identification indicating that they meet the appropriate ladder construction requirements of the following standards:
 
-ANSI A14.1-1990, Safety Requirements for Portable Wood LaddersANSI A14.2-1990, Safety Requirements for Portable Metal LaddersANSI A14.5-1992, Safety Requirements for Portable Reinforced Plastic Ladders
+ANSI A14.1-1990, Safety Requirements for Portable Wood Ladders ANSI A14.2-1990, Safety Requirements for Portable Metal Ladders ANSI A14.5-1992, Safety Requirements for Portable Reinforced Plastic Ladders
 
 (d) *Standards for job-made portable ladders.* Job-made ladders shall:
 
@@ -20,7 +20,7 @@ ANSI A14.1-1990, Safety Requirements for Portable Wood LaddersANSI A14.2-1990, S
 
 (2) Are capable of supporting a 250-pound (1,112 N) load without deformation; and
 
-(3) Have a minimum width between side rails of 12 inches (30.48 cm) for ladders 10 feet (3.05 m) in height. Width between rails shall increase at least1/4 inch (0.64 cm) for each additional 2 feet (0.61 m) of ladder length.
+(3) Have a minimum width between side rails of 12 inches (30.48 cm) for ladders 10 feet (3.05 m) in height. Width between rails shall increase at least 1/4 inch (0.64 cm) for each additional 2 feet (0.61 m) of ladder length.
 
 (e) *Maintenance and inspection.* (1) The employer shall maintain portable ladders in safe condition. Ladders with the following defects shall not be used and either shall be tagged as unusable if kept on the premises or shall be removed from the worksite:
 

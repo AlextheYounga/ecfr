@@ -262,7 +262,7 @@ In addition to the applicable requirements of § 1926.451, the following require
 
 (10) Before a scaffold is moved, each employee on the scaffold shall be made aware of the move.
 
-(x) *Repair bracket scaffolds.* (1) Brackets shall be secured in place by at least one wire rope at least1/2 inch (1.27 cm) in diameter.
+(x) *Repair bracket scaffolds.* (1) Brackets shall be secured in place by at least one wire rope at least 1/2 inch (1.27 cm) in diameter.
 
 (2) Each bracket shall be attached to the securing wire rope (or ropes) by a positive locking device capable of preventing the unintentional detachment of the bracket from the rope, or by equivalent means.
 
@@ -270,7 +270,7 @@ In addition to the applicable requirements of § 1926.451, the following require
 
 (4) Platforms shall be secured to the brackets in a manner that will prevent the separation of the platforms from the brackets and the movement of the platforms or the brackets on a completed scaffold.
 
-(5) When a wire rope is placed around the structure in order to provide a safe anchorage for personal fall arrest systems used by employees erecting or dismantling scaffolds, the wire rope shall meet the requirements of subpart M of this part, but shall be at least5/16 inch (0.8 cm) in diameter.
+(5) When a wire rope is placed around the structure in order to provide a safe anchorage for personal fall arrest systems used by employees erecting or dismantling scaffolds, the wire rope shall meet the requirements of subpart M of this part, but shall be at least 5/16 inch (0.8 cm) in diameter.
 
 (6) Each wire rope used for securing brackets in place or as an anchorage for personal fall arrest systems shall be protected from damage due to contact with edges, corners, protrusions, or other discontinuities of the supporting structure or scaffold components.
 

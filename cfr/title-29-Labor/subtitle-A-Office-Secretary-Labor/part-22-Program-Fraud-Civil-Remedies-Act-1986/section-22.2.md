@@ -78,4 +78,4 @@
 
 (ii) A grant, loan, or benefit from,
 
-the authority, or any State, political subdivision of a State, or other party, if the United States Government provides any portion of the money or property under such contractor for such grant, loan, or benefit, or if the Government will reimburse such State, political subdivision, or party for any portion of the money or property under such contract or for such grant, loan, or benefit.[52 FR 48492, Dec. 22, 1987, as amended at 61 FR 19985, May 3, 1996; 72 FR 37098, July 9, 2007; 86 FR 1781, Jan. 11, 2021]
+the authority, or any State, political subdivision of a State, or other party, if the United States Government provides any portion of the money or property under such contractor for such grant, loan, or benefit, or if the Government will reimburse such State, political subdivision, or party for any portion of the money or property under such contract or for such grant, loan, or benefit. [52 FR 48492, Dec. 22, 1987, as amended at 61 FR 19985, May 3, 1996; 72 FR 37098, July 9, 2007; 86 FR 1781, Jan. 11, 2021]

@@ -1,7 +1,5 @@
 ##### § 146.180 Treatment of non-Federal governmental plans. #####
 
-Link to an amendment published at 89 FR 77751, Sept. 23, 2024.
-
 (a) *Opt-out election for self-funded non-Federal governmental plans*—(1) *Requirements subject to exemption.* The PHS Act requirements described in this paragraph are the following:
 
 (i) Limitations on preexisting condition exclusion periods in accordance with section 2701 of the PHS Act as codified before enactment of the Affordable Care Act.
@@ -18,15 +16,17 @@ Link to an amendment published at 89 FR 77751, Sept. 23, 2024.
 
 (vii) Coverage of dependent students on a medically necessary leave of absence under section 2728 of the PHS Act.
 
-(2) *General rule.* For plan years beginning on or after September 23, 2010, a sponsor of a non-Federal governmental plan may elect to exempt its plan, to the extent the plan is not provided through health insurance coverage (that is, it is self-funded), from one or more of the requirements described in paragraphs (a)(1)(iv) through (vii) of this section.
+(2) *General rule.* For plans years beginning on or after September 23, 2010, a sponsor of a non-Federal governmental plan may elect to exempt its plan, to the extent the plan is not provided through health insurance coverage (that is self-funded), from one or more of the requirements described in paragraphs (a)(1)(iv) through (vii) of this section, except as provided in paragraphs (a)(3) and (f)(1) of this section with respect to the requirements described in paragraph (a)(1)(v) of this section.
 
-(3) *Special rule for certain collectively bargained plans.* In the case of a plan that is maintained pursuant to a collective bargaining agreement that was ratified before March 23, 2010, and whose sponsor made an election to exempt its plan from any of the requirements described in paragraphs (a)(1)(i) through (iii) of this section, the provisions of paragraph (a)(2) of this section apply for plan years beginning after the expiration of the term of the agreement.
+(3) *Sunset of election option related to parity in mental health and substance use disorder benefits.* A sponsor of a non-Federal governmental plan may not newly elect to exempt its plans from the requirements described in paragraph (a)(1)(v) of this section on or after December 29, 2022.
 
-(4) *Examples*—(i) *Example 1.* A non-Federal governmental employer has elected to exempt its self-funded group health plan from all of the requirements described in paragraph (a)(1) of this section. The plan year commences September 1 of each year. The plan is not subject to the provisions of paragraph (a)(2) of this section until the plan year that commences on September 1, 2011. Accordingly, for that plan year and any subsequent plan years, the plan sponsor may elect to exempt its plan only from the requirements described in paragraphs (a)(1)(iv) through (vii) of this section.
+(4) *Special rule for certain collectively bargained plans.* In the case of a plan that is maintained pursuant to a collective bargaining agreement that was ratified before March 23, 2010, and whose sponsor made an election to exempt its plan from any of the requirements described in paragraphs (a)(1)(i) through (iii) of this section, the provisions of paragraph (a)(2) of this section apply for plan years beginning after the expiration of the term of the agreement.
 
-(ii) *Example 2.* A non-Federal governmental employer has elected to exempt its collectively bargained self-funded plan from all of the requirements described in paragraph (a)(1) of this section. The collective bargaining agreement applies to five plan years, October 1, 2009 through September 30, 2014. For the plan year that begins on October 1, 2014, the plan sponsor is no longer permitted to elect to exempt its plan from the requirements described in paragraph (a)(1) of this section. Accordingly, for that plan year and any subsequent plan years, the plan sponsor may elect to exempt its plan only from the requirements described in paragraphs (a)(1)(iv) through (vii) of this section.
+(5) *Examples*—(i) *Example 1.* A non-Federal governmental employer has elected to exempt its self-funded group health plan from all of the requirements described in paragraph (a)(1) of this section. The plan year commences September 1st of each year. The plan is not subject to the provisions of paragraph (a)(2) of this section until the plan year that commences on September 1, 2011. Accordingly, for that plan year and any subsequent plan years, the plan sponsor may elect to exempt its plan only from the requirements described in paragraphs (a)(1)(iv) through (vii) of this section, subject to paragraphs (a)(3) and (f)(1) of this section with respect to the requirements described in paragraph (a)(1)(v) of this section.
 
-(5) *Limitations.* (i) An election under this section cannot circumvent a requirement of the PHS Act to the extent the requirement applied to the plan before the effective date of the election.
+(ii) *Example 2.* A non-Federal governmental employer has elected to exempt its collectively bargained self-funded plan from all of the requirements described in paragraph (a)(1) of this section. The collective bargaining agreement applies to 5 plan years, October 1, 2009, through September 30, 2014. For the plan year that begins on October 1, 2014, the plan sponsor is no longer permitted to elect to exempt its plan from the requirements described in paragraphs (a)(1)(i) through (iii) of this section. Accordingly, for that plan year and any subsequent plan years, the plan sponsor may elect to exempt its plan only from the requirements described in paragraphs (a)(1)(iv) through (vii) of this section, subject to paragraphs (a)(3) and (f)(1) of this section with respect to the requirements described in paragraph (a)(1)(v) of this section.
+
+(6) *Limitations.* (i) An election under this section cannot circumvent a requirement of the PHS Act to the extent the requirement applied to the plan before the effective date of the election.
 
 (A) *Example 1.* A plan is subject to requirements of section 2727 of the PHS Act, under which a plan that covers medical and surgical benefits with respect to a mastectomy must cover reconstructive surgery and certain other services following a mastectomy. An enrollee who has had a mastectomy receives reconstructive surgery on August 24. Claims with respect to the surgery are submitted to and processed by the plan in September. The group health plan commences a new plan year each September 1. Effective September 1, the plan sponsor elects to exempt its plan from section 2727 of the PHS Act. The plan cannot, on the basis of its exemption election, decline to pay for the claims incurred on August 24.
 
@@ -34,13 +34,13 @@ Link to an amendment published at 89 FR 77751, Sept. 23, 2024.
 
 (ii) If a group health plan is co-sponsored by two or more employers, then only plan enrollees of the non-Federal governmental employer(s) with a valid election under this section are affected by the election.
 
-(6) *Stop-loss or excess risk coverage.* For purposes of this section—
+(7) *Stop-loss or excess risk coverage.* For purposes of this section—
 
-(i) Subject to paragraph (a)(6)(ii) of this section, the purchase of stop-loss or excess risk coverage by a self-funded non-Federal governmental plan does not prevent an election under this section.
+(i) Subject to paragraph (a)(7)(ii) of this section, the purchase of stop-loss or excess risk coverage by a self-funded non-Federal governmental plan does not prevent an election under this section.
 
 (ii) Regardless of whether coverage offered by an issuer is designated as “stop-loss” coverage or “excess risk” coverage, if it is regulated as group health insurance under an applicable State law, then for purposes of this section, a non-Federal governmental plan that purchases the coverage is considered to be fully insured. In that event, a plan may not be exempted under this section from the requirements described in paragraph (a)(1) of this section.
 
-(7) *Construction.* Nothing in this part should be construed as imposing collective bargaining obligations on any party to the collective bargaining process.
+(8) *Construction.* Nothing in this part should be construed as imposing collective bargaining obligations on any party to the collective bargaining process.
 
 (b) *Form and manner of election*—(1) *Election requirements.* The election must meet the following requirements:
 
@@ -128,7 +128,7 @@ Link to an amendment published at 89 FR 77751, Sept. 23, 2024.
 
 (iv) A statement identifying which of the listed requirements, if any, apply under the terms of the plan, or as required by State law, without regard to an exemption under this section.
 
-(f) *Subsequent elections*—(1) *Election renewal.* A plan sponsor may renew an election under this section through subsequent elections. The timeliness standards described in paragraph (c) of this section apply to election renewals under paragraph (f) of this section.
+(f) *Subsequent elections*—(1) *Election renewal.* A plan sponsor may renew an election under this section through subsequent elections. Notwithstanding the previous sentence and except as provided in paragraph (f)(4)(iii) of this section, an election with respect to the requirements described in paragraph (a)(1)(v) of this section expiring on or after June 27, 2023, may not be renewed. The timeliness standards described in paragraph (c) of this section apply to election renewals under paragraph (f) of this section.
 
 (2) *Form and manner of renewal.* Except for the requirement to forward to CMS a copy of the notice to enrollees under paragraph (b)(1)(viii) of this section, the plan sponsor must comply with the election requirements of paragraph (b)(1) of this section. In lieu of providing a copy of the notice under paragraph (b)(1)(viii) of this section, the plan sponsor may include a statement that the notice has been, or will be, provided to enrollees as specified under paragraph (e) of this section.
 
@@ -137,6 +137,8 @@ Link to an amendment published at 89 FR 77751, Sept. 23, 2024.
 (4) *Special rules regarding renewal of an election under a collective bargaining agreement.* (i) If protracted negotiations with respect to a new agreement result in an extension of the term of the prior agreement (as provided under paragraph (b)(2)(i) of this section) under which an election under this section was in effect, the plan must comply with the enrollee notification requirements of paragraph (e)(1) of this section, and, following closure of the collective bargaining process, must file an election renewal with CMS as provided under paragraph (c)(2) of this section.
 
 (ii) If a single plan applies to more than one bargaining unit, and the plan is governed by collective bargaining agreements of varying lengths, paragraph (c)(2) of this section, with respect to an election renewal, applies to the plan as governed by the agreement that results in the earliest filing date.
+
+(iii) In the case of a plan that is subject to multiple collective bargaining agreements of varying lengths and that has an election with respect to the requirements described in paragraph (a)(1)(v) of this section in effect as of December 29, 2022, that expires on or after June 27, 2023, the plan may extend such election until the date on which the term of the last such agreement expires.
 
 (g) *Requirements not subject to exemption*—(1) *Genetic information.* Without regard to an election under this section that exempts a non-Federal governmental plan from any or all of the provisions of §§ 146.111 and 146.121, the exemption election must not be construed to exempt the plan from any provisions of this part that pertain to genetic information.
 
@@ -172,4 +174,4 @@ Link to an amendment published at 89 FR 77751, Sept. 23, 2024.
 
 (2) Prohibiting a sponsor of a non-Federal governmental plan within the State from making an election under this section.
 
-[79 FR 30336, May 27, 2014]
+[79 FR 30336, May 27, 2014, as amended at 89 FR 77751, Sept. 23, 2024]

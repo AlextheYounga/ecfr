@@ -4,4 +4,4 @@
 
 (b) The net worth exhibit shall be included in the public record of the proceeding in which an award is sought.
 
-(Approved by the Office of Management and Budget under control number 1225-0013)[46 FR 63021, Dec. 29, 1981, as amended at 47 FR 14696, Apr. 6, 1982]
+(Approved by the Office of Management and Budget under control number 1225-0013) [46 FR 63021, Dec. 29, 1981, as amended at 47 FR 14696, Apr. 6, 1982]

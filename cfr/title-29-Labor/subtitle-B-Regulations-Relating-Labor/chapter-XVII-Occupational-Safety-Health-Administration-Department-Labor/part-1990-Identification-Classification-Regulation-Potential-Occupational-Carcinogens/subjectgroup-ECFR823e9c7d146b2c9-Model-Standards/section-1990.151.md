@@ -1,6 +1,6 @@
 ##### § 1990.151 Model standard pursuant to section 6(b) of the Act. #####
 
-Occupational Exposure to \_\_\_\_\_\_\_\_Permanent Standard (insert section number of standard)
+Occupational Exposure to \_\_\_\_\_\_\_\_ Permanent Standard (insert section number of standard)
 
 (a) *Scope and application*—(1) *General.* This section applies to all occupational exposures to \_\_\_ or to (specify those uses or classes of uses of \_\_\_ [Chemical Abstracts Service Registry Number 0000] which are covered by the standard, including, where appropriate, the type of exposure to be regulated by the standard) except as provided in paragraph (a)(2).
 
@@ -242,7 +242,7 @@ Specify, as appropriate, some or all of the following information, or any other 
 
 (2) *Signs.* (i) The employer shall post signs to clearly indicate all workplaces. (Specify as appropriate the description of the area to be signposted such as “where employees are exposed to \_\_\_\_\_\_\_\_\_\_\_\_,” or “where exposures exceed the action level,” or “where exposures exceed the PEL,” or “which are regulated areas”). The signs shall bear the following legend:
 
-DANGER(insert appropriate trade or common names)CANCER HAZARDAUTHORIZED PERSONNEL ONLY
+DANGER (insert appropriate trade or common names) CANCER HAZARD AUTHORIZED PERSONNEL ONLY
 
 (ii) The employer shall assure that signs required by this paragraph are illuminated and cleaned as necessary so that the legend is readily visible.
 
@@ -252,7 +252,7 @@ DANGER(insert appropriate trade or common names)CANCER HAZARDAUTHORIZED PERSONNE
 
 (ii) The employer shall assure that the precautionary labels required by this paragraph are readily visible and legible. The labels shall bear the following legend:
 
-DANGERCONTAINS \_\_\_\_\_\_CANCER HAZARDNote:
+DANGER CONTAINS \_\_\_\_\_\_CANCER HAZARDNote:
 
 Utilize the clause “POTENTIAL CANCER HAZARD” if it is appropriate to include a signs and labels provision for a Category II potential carcinogen.
 

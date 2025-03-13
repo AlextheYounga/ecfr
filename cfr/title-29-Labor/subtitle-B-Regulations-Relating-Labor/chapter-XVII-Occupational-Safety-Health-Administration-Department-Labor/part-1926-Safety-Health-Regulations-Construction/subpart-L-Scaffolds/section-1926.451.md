@@ -232,9 +232,9 @@ Pursuant to an administrative stay effective November 29, 1996 and published in 
 
 (xii) Guardrails meeting the requirements of paragraph (g)(4) of this section shall be provided on the open sides and ends of each landing.
 
-(xiii) Riser height shall be uniform, within1/4 inch, (0.6 cm) for each flight of stairs. Greater variations in riser height are allowed for the top and bottom steps of the entire system, not for each flight of stairs.
+(xiii) Riser height shall be uniform, within 1/4 inch, (0.6 cm) for each flight of stairs. Greater variations in riser height are allowed for the top and bottom steps of the entire system, not for each flight of stairs.
 
-(xiv) Tread depth shall be uniform, within1/4 inch, for each flight of stairs.
+(xiv) Tread depth shall be uniform, within 1/4 inch, for each flight of stairs.
 
 (5) Ramps and walkways. (i) Ramps and walkways 6 feet (1.8 m) or more above lower levels shall have guardrail systems which comply with subpart M of this part—Fall Protection;
 
@@ -323,7 +323,7 @@ Scaffolds and materials may be closer to power lines than specified above where 
 
 (iv) The ladder legs shall be secured to prevent them from slipping or being pushed off the platform.
 
-(16) Platforms shall not deflect more than1/60 of the span when loaded.
+(16) Platforms shall not deflect more than 1/60 of the span when loaded.
 
 (17) To reduce the possibility of welding current arcing through the suspension wire rope when performing welding from suspended scaffolds, the following precautions shall be taken, as applicable:
 
@@ -409,7 +409,7 @@ The fall protection requirements for employees installing suspension scaffold su
 
 (i) The area below the scaffold to which objects can fall shall be barricaded, and employees shall not be permitted to enter the hazard area; or
 
-(ii) A toeboard shall be erected along the edge of platforms more than 10 feet (3.1 m) above lower levels for a distance sufficient to protect employees below, except on float (ship) scaffolds where an edging of3/4 × 11/2 inch (2 × 4 cm) wood or equivalent may be used in lieu of toeboards;
+(ii) A toeboard shall be erected along the edge of platforms more than 10 feet (3.1 m) above lower levels for a distance sufficient to protect employees below, except on float (ship) scaffolds where an edging of 3/4 × 11/2 inch (2 × 4 cm) wood or equivalent may be used in lieu of toeboards;
 
 (iii) Where tools, materials, or equipment are piled to a height higher than the top edge of the toeboard, paneling or screening extending from the toeboard or platform to the top of the guardrail shall be erected for a distance sufficient to protect employees below; or
 
@@ -429,6 +429,6 @@ The fall protection requirements for employees installing suspension scaffold su
 
 (i) Capable of withstanding, without failure, a force of at least 50 pounds (222 n) applied in any downward or horizontal direction at any point along the toeboard (toeboards built in accordance with appendix A to this subpart will be deemed to meet this requirement); and
 
-(ii) At least three and one-half inches (9 cm) high from the top edge of the toeboard to the level of the walking/working surface. Toeboards shall be securely fastened in place at the outermost edge of the platform and have not more than1/4 inch (0.7 cm) clearance above the walking/working surface. Toeboards shall be solid or with openings not over one inch (2.5 cm) in the greatest dimension.
+(ii) At least three and one-half inches (9 cm) high from the top edge of the toeboard to the level of the walking/working surface. Toeboards shall be securely fastened in place at the outermost edge of the platform and have not more than 1/4 inch (0.7 cm) clearance above the walking/working surface. Toeboards shall be solid or with openings not over one inch (2.5 cm) in the greatest dimension.
 
 [61 FR 46107, Aug. 30, 1996, as corrected and amended at 61 FR 59831, 59832, Nov. 25, 1996]Effective Date Note:At 61 FR 59832, Nov. 25, 1996, § 1926.451(b)(2)(i) was amended and certain requirements stayed until Nov. 25, 1997, or until further rulemaking has been completed, whichever is later.

@@ -4,7 +4,7 @@ This section shall apply to ship repairing, shipbuilding and shipbreaking.
 
 (a) Floor stand and bench mounted abrasive wheels used for external grinding shall be provided with safety guards (protection hoods). The maximum angular exposure of the grinding wheel periphery and sides shall be not more than 90 degrees, except that when work requires contact with the wheel below the horizontal plane of the spindle, the angular exposure shall not exceed 125 degrees. In either case the exposure shall begin not more than 65 degrees above the horizontal plane of the spindle. Safety guards shall be strong enough to withstand the effect of a bursting wheel.
 
-(b) Floor and bench mounted grinders shall be provided with work rests which are rigidly supported and readily adjustable. Such work rests shall be kept a distance not to exceed1/8 inch from the surface of the wheel.
+(b) Floor and bench mounted grinders shall be provided with work rests which are rigidly supported and readily adjustable. Such work rests shall be kept a distance not to exceed 1/8 inch from the surface of the wheel.
 
 (c) Cup type wheels used for external grinding shall be protected by either a revolving cup guard or a band type guard in accordance with the provisions of the United States of America Standard Safety Code for the Use, Care, and Protection of Abrasive Wheels, B7.1-1964. All other portable abrasive wheels used for external grinding shall be provided with safety guards (protection hoods) meeting the requirements of paragraph (e) of this section, except as follows:
 

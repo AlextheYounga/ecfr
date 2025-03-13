@@ -415,7 +415,7 @@ DANGERLEADMAY DAMAGE FERTILITY OR THE UNBORN CHILDCAUSES DAMAGE TO THE CENTRAL N
 
 (v) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (m)(2)(ii) of this section:
 
-WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATING
+WARNING LEAD WORK AREA POISON NO SMOKING OR EATING
 
 (n) *Recordkeeping*—(1) *Exposure monitoring.* (i) The employer shall establish and maintain an accurate record of all monitoring required in paragraph (d) of this section.
 
@@ -661,7 +661,7 @@ DANGERLEADMAY DAMAGE FERTILITY OR THE UNBORN CHILDCAUSES DAMAGE TO THE CENTRAL N
 
 However, prior to June 1, 2016, employers may use the following legend in lieu of that specified above:
 
-WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATINGxii. recordkeeping—paragraph (n)
+WARNING LEAD WORK AREA POISON NO SMOKING OR EATINGxii. recordkeeping—paragraph (n)
 
 Your employer is required to keep all records of exposure monitoring for airborne lead. These records must include the name and job classification of employees measured, details of the sampling and analytic techniques, the results of this sampling, and the type of respiratory protection being worn by the person sampled. Your employer is also required to keep all records of biological monitoring and medical examination results. These must include the names of the employees, the physician's written opinion, and a copy of the results of the examination. All of the above kinds of records must be kept for 40 years, or for at least 20 years after your termination of employment, whichever is longer.
 
@@ -709,7 +709,7 @@ B. Additional information about the standard, its enforcement, and your employer
 
 Appendix C to § 1910.1025—Medical Surveillance Guidelinesintroduction
 
-The primary purpose of the Occupational Safety and Health Act of 1970 is to assure, so far as possible, safe and healthful working conditions for every working man and woman. The occupational health standard for inorganic lead1 was promulgated to protect workers exposed to inorganic lead including metallic lead, all inorganic lead compounds and organic lead soaps.
+The primary purpose of the Occupational Safety and Health Act of 1970 is to assure, so far as possible, safe and healthful working conditions for every working man and woman. The occupational health standard for inorganic lead 1 was promulgated to protect workers exposed to inorganic lead including metallic lead, all inorganic lead compounds and organic lead soaps.
 
 1 The term inorganic lead used throughout the medical surveillance appendices is meant to be synonymous with the definition of lead set forth in the standard.
 

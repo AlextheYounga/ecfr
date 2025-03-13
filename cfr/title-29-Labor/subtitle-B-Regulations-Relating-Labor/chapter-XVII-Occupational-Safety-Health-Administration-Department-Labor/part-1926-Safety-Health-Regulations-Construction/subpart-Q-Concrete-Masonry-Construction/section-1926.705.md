@@ -12,9 +12,9 @@
 
 (f) Jacks/lifting units shall have a safety device installed which will cause the jacks/lifting units to support the load in any position in the event any jack/lifting unit malfunctions or loses its lifting ability.
 
-(g) Jacking operations shall be synchronized in such a manner to ensure even and uniform lifting of the slab. During lifting, all points at which the slab is supported shall be kept within1/2 inch of that needed to maintain the slab in a level position.
+(g) Jacking operations shall be synchronized in such a manner to ensure even and uniform lifting of the slab. During lifting, all points at which the slab is supported shall be kept within 1/2 inch of that needed to maintain the slab in a level position.
 
-(h) If leveling is automatically controlled, a device shall be installed that will stop the operation when the1/2inch tolerance set forth in paragraph (g) of this section is exceeded or where there is a malfunction in the jacking (lifting) system.
+(h) If leveling is automatically controlled, a device shall be installed that will stop the operation when the 1/2inch tolerance set forth in paragraph (g) of this section is exceeded or where there is a malfunction in the jacking (lifting) system.
 
 (i) If leveling is maintained by manual controls, such controls shall be located in a central location and attended by a competent person while lifting is in progress. In addition to meeting the definition in § 1926.32(f), the competent person must be experienced in the lifting operation and with the lifting equipment being used.
 

@@ -72,7 +72,7 @@ When employees are using stilts, the top edge height of the top rail, or equival
 
 (6) Materials, scrap pieces, equipment, and tools which have fallen into the safety net shall be removed as soon as possible from the net and at least before the next work shift.
 
-(7) The maximum size of each safety net mesh opening shall not exceed 36 square inches (230 cm2) nor be longer than 6 inches (15 cm) on any side, and the opening, measured center-to-center of mesh ropes or webbing, shall not be longer than 6 inches (15 cm). All mesh crossings shall be secured to prevent enlargement of the mesh opening.
+(7) The maximum size of each safety net mesh opening shall not exceed 36 square inches (230 cm 2) nor be longer than 6 inches (15 cm) on any side, and the opening, measured center-to-center of mesh ropes or webbing, shall not be longer than 6 inches (15 cm). All mesh crossings shall be secured to prevent enlargement of the mesh opening.
 
 (8) Each safety net (or section of it) shall have a border rope for webbing with a minimum breaking strength of 5,000 pounds (22.2 kN).
 
@@ -292,7 +292,7 @@ This provision does not apply to cast iron manhole covers or steel grates used o
 
 (2) Toeboards shall be capable of withstanding, without failure, a force of at least 50 pounds (222 N) applied in any downward or outward direction at any point along the toeboard.
 
-(3) Toeboards shall be a minimum of 31/2 inches (9 cm) in vertical height from their top edge to the level of the walking/working surface. They shall have not more than1/4 inch (0.6 cm) clearance above the walking/working surface. They shall be solid or have openings not over 1 inch (2.5 cm) in greatest dimension.
+(3) Toeboards shall be a minimum of 31/2 inches (9 cm) in vertical height from their top edge to the level of the walking/working surface. They shall have not more than 1/4 inch (0.6 cm) clearance above the walking/working surface. They shall be solid or have openings not over 1 inch (2.5 cm) in greatest dimension.
 
 (4) Where tools, equipment, or materials are piled higher than the top edge of a toeboard, paneling or screening shall be erected from the walking/working surface or toeboard to the top of a guardrail system's top rail or midrail, for a distance sufficient to protect employees below.
 

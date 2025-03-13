@@ -8,7 +8,7 @@
 
 (3) Be equipped with hand holds or other effective means to permit safe handling; and
 
-(4) Be designed, constructed, and maintained to prevent vehicles from running off the edge.3
+(4) Be designed, constructed, and maintained to prevent vehicles from running off the edge. 3
 
 3 When the gap to be bridged is greater than 36 inches (.91m), an acceptalbe means of preventing vehicles from running off the edge is a minimum side board height of two and three-quarter inches.
 
@@ -22,7 +22,7 @@
 
 (4) Be properly secured; and
 
-(5) Be designed, constructed, and maintained to prevent vehicles from running off the edge.4
+(5) Be designed, constructed, and maintained to prevent vehicles from running off the edge. 4
 
 4 When the gap to be bridged is greater than 36 inches (.91m), an acceptable means of preventing vehicles from running off the edge is a minimum side board height of two and three-quarter inches.
 

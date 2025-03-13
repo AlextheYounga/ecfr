@@ -6,7 +6,7 @@
 
 (2) Stairs shall be installed between 30° and 50° from horizontal.
 
-(3) Riser height and tread depth shall be uniform within each flight of stairs, including any foundation structure used as one or more treads of the stairs. Variations in riser height or tread depth shall not be over1/4-inch (0.6 cm) in any stairway system.
+(3) Riser height and tread depth shall be uniform within each flight of stairs, including any foundation structure used as one or more treads of the stairs. Variations in riser height or tread depth shall not be over 1/4-inch (0.6 cm) in any stairway system.
 
 (4) Where doors or gates open directly on a stairway, a platform shall be provided, and the swing of the door shall not reduce the effective width of the platform to less than 20 inches (51 cm).
 

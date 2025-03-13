@@ -2,7 +2,7 @@
 
 (a) *General.* (1) Except as provided in paragraph (a)(2) of this section, where steel joists are used and columns are not framed in at least two directions with solid web structural steel members, a steel joist shall be field-bolted at the column to provide lateral stability to the column during erection. For the installation of this joist:
 
-(i) A vertical stabilizer plate shall be provided on each column for steel joists. The plate shall be a minimum of 6 inch by 6 inch (152 mm by 152 mm) and shall extend at least 3 inches (76 mm) below the bottom chord of the joist with a13/16 inch (21 mm) hole to provide an attachment point for guying or plumbing cables.
+(i) A vertical stabilizer plate shall be provided on each column for steel joists. The plate shall be a minimum of 6 inch by 6 inch (152 mm by 152 mm) and shall extend at least 3 inches (76 mm) below the bottom chord of the joist with a 13/16 inch (21 mm) hole to provide an attachment point for guying or plumbing cables.
 
 (ii) The bottom chords of steel joists at columns shall be stabilized to prevent rotation during erection.
 
@@ -40,9 +40,9 @@
 
 (10) A bridging terminus point shall be established before bridging is installed. (See appendix C to this subpart.)
 
-(b) *Attachment of steel joists and steel joist girders.* (1) Each end of “K” series steel joists shall be attached to the support structure with a minimum of two1/8-inch (3 mm) fillet welds 1 inch (25 mm) long or with two1/2-inch (13 mm) bolts, or the equivalent.
+(b) *Attachment of steel joists and steel joist girders.* (1) Each end of “K” series steel joists shall be attached to the support structure with a minimum of two 1/8-inch (3 mm) fillet welds 1 inch (25 mm) long or with two 1/2-inch (13 mm) bolts, or the equivalent.
 
-(2) Each end of “LH” and “DLH” series steel joists and steel joist girders shall be attached to the support structure with a minimum of two1/4-inch (6 mm) fillet welds 2 inches (51 mm) long, or with two3/4-inch (19 mm) bolts, or the equivalent.
+(2) Each end of “LH” and “DLH” series steel joists and steel joist girders shall be attached to the support structure with a minimum of two 1/4-inch (6 mm) fillet welds 2 inches (51 mm) long, or with two 3/4-inch (19 mm) bolts, or the equivalent.
 
 (3) Except as provided in paragraph (b)(4) of this section, each steel joist shall be attached to the support structure, at least at one end on both sides of the seat, immediately upon placement in the final erection position and before additional joists are placed.
 

@@ -46,4 +46,4 @@
 
 (e) No certification shall be issued until any deficiencies considered by the accredited person to constitute a currently unsatisfactory condition have been corrected. Replacement parts shall be of equal or better quality than original equipment and suitable for the purpose. In the event deficiencies remain uncorrected and no certification therefore is issued, the accredited person shall inform the nearest district office of the Administration of the circumstances.
 
-(Section 1919.90 contains a collection of information which has been approved by the Office of Management and Budget under OMB Control No. 1218-0003)[39 FR 22096, June 19, 1974, as amended at 61 FR 5509, Feb. 13, 1996]
+(Section 1919.90 contains a collection of information which has been approved by the Office of Management and Budget under OMB Control No. 1218-0003) [39 FR 22096, June 19, 1974, as amended at 61 FR 5509, Feb. 13, 1996]

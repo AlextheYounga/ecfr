@@ -608,7 +608,7 @@ DANGERCONTAINS ASBESTOS FIBERSMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSDO NOT BREAT
 
 (B)(*1*) Prior to June 1, 2015, employers may include the following information on raw materials, mixtures or labels of bags or containers of protective clothing and equipment, scrap, waste, and debris containing asbestos fibers in lieu of the labeling requirements in paragraphs (k)(7)(ii) and (k)(7)(iii)(A) of this section:
 
-DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
+DANGERCONTAINS ASBESTOS FIBERS AVOID CREATING DUST CANCER AND LUNG DISEASE HAZARD
 
 (*2*) Labels shall also contain a warning statement against breathing asbestos fibers.
 
@@ -622,7 +622,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (ii) The warning signs required by this paragraph (k)(8) shall bear the following legend:
 
-DANGERASBESTOSMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAUTHORIZED PERSONNEL ONLY
+DANGERASBESTOS MAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAUTHORIZED PERSONNEL ONLY
 
 (iii) In addition, where the use of respirators and protective clothing is required in the regulated area under this section, the warning signs shall include the following:
 
@@ -634,7 +634,7 @@ WEAR RESPIRATORY PROTECTIONAND PROTECTIVE CLOTHING IN THIS AREA
 
 (vi) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (k)(8)(ii) of this section:
 
-DANGERASBESTOSCANCER AND LUNG DISEASE HAZARDAUTHORIZED PERSONNEL ONLY
+DANGER ASBESTOS CANCER AND LUNG DISEASE HAZARD AUTHORIZED PERSONNEL ONLY
 
 (vii) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (k)(8)(iii) of this section:
 
@@ -1019,7 +1019,7 @@ Asbestos fiber possesses a high tensile strength along its axis, is chemically i
 
 2.2. The detection limit for this method is 4.0 fibers per 100 fields or 5.5 fibers/mm2. This was determined using an equation to estimate the maximum CV possible at a specific concentration (95% confidence) and a Lower Control Limit of zero. The CV value was then used to determine a corresponding concentration from historical CV vs fiber relationships. As an example:
 
-Lower Control Limit (95% Confidence) = AC—1.645(CV)(AC)Where:AC = Estimate of the airborne fiber concentration (fibers/cc) Setting the Lower Control Limit = 0 and solving for CV:0 = AC—1.645(CV)(AC)CV = 0.61
+Lower Control Limit (95% Confidence) = AC—1.645(CV)(AC) Where: AC = Estimate of the airborne fiber concentration (fibers/cc) Setting the Lower Control Limit = 0 and solving for CV: 0 = AC—1.645(CV)(AC) CV = 0.61
 
 This value was compared with CV vs. count curves. The count at which CV = 0.61 for Leidel-Busch counting statistics (8.9.) or for an OSHA Salt Lake Technical Center (OSHA-SLTC) CV curve (see appendix A for further information) was 4.4 fibers or 3.9 fibers per 100 fields, respectively. Although a lower detection limit of 4 fibers per 100 fields is supported by the OSHA-SLTC data, both data sets support the 4.5 fibers per 100 fields value.
 
@@ -1039,7 +1039,7 @@ fiberglassanhydrateplant fibersperlite veinsgypsumsome synthetic fibersmembrane 
 
 The use of electron microscopy or optical tests such as polarized light, and dispersion staining may be used to differentiate these materials from asbestos when necessary.
 
-5. Sampling5.1. Equipment
+5. Sampling 5.1. Equipment
 
 *5.1.1.* Sample assembly (The assembly is shown in figure 3). Conductive filter holder consisting of a 25-mm diameter, 3-piece cassette having a 50-mm long electrically conductive extension cowl. Backup pad, 25-mm, cellulose. Membrane filter, mixed-cellulose ester (MCE), 25-mm, plain, white, 0.4 to 1.2-µm pore size.
 
@@ -1113,7 +1113,7 @@ While sampling, observe the filter with a small flashlight. If there is a visibl
 
 *5.3.3.* To avoid the possibility of sample contamination, always ship bulk samples in separate mailing containers.
 
-6. Analysis6.1. Safety Precautions
+6. Analysis 6.1. Safety Precautions
 
 *6.1.1.* Acetone is extremely flammable and precautions must be taken not to ignite it. Avoid using large containers or quantities of acetone. Transfer the solvent in a ventilated laboratory hood. Do not use acetone near any open flame. For generation of acetone vapor, use a spark free heat source.
 
@@ -1223,7 +1223,7 @@ Completely align the microscope according to the manufacturer's instructions. Th
 
 (7) Count all the fibers in at least 20 fields. Continue counting until either 100 fibers are counted or 100 fields have been viewed; whichever occurs first. Count all the fibers in the final field.
 
-(8) Fibers lying entirely within the boundary of the Walton-Beckett graticule field shall receive a count of 1. Fibers crossing the boundary once, having one end within the circle shall receive a count of1/2. Do not count any fiber that crosses the graticule boundary more than once. Reject and do not count any other fibers even though they may be visible outside the graticule area. If a fiber touches the circle, it is considered to cross the line.
+(8) Fibers lying entirely within the boundary of the Walton-Beckett graticule field shall receive a count of 1. Fibers crossing the boundary once, having one end within the circle shall receive a count of 1/2. Do not count any fiber that crosses the graticule boundary more than once. Reject and do not count any other fibers even though they may be visible outside the graticule area. If a fiber touches the circle, it is considered to cross the line.
 
 (9) Count bundles of fibers as one fiber unless individual fibers can be clearly identified and each individual fiber is clearly not connected to another counted fiber. See figure 1 for counting conventions.
 
@@ -1261,11 +1261,11 @@ The analyses done by the counters to establish the slide bank may be used for an
 
 7.1. Calculate the estimated airborne asbestos fiber concentration on the filter sample using the following formula:
 
-![](/graphics/er10au94.027.gif)Where:AC = Airborne fiber concentrationFB = Total number of fibers greater than 5 µm countedFL = Total number of fields counted on the filterBFB = Total number of fibers greater than 5 µm counted in the blankBFL = Total number of fields counted on the blankECA = Effective collecting area of filter (385 mm2 nominal for a 25-mm filter.)FR = Pump flow rate (L/min)MFA = Microscope count field area (mm2 ). This is 0.00785 mm2 for a Walton-Beckett Graticule.T = Sample collection time (min)1,000 = Conversion of L to ccNote:
+![](/graphics/er10au94.027.gif)Where: AC = Airborne fiber concentration FB = Total number of fibers greater than 5 µm counted FL = Total number of fields counted on the filter BFB = Total number of fibers greater than 5 µm counted in the blank BFL = Total number of fields counted on the blank ECA = Effective collecting area of filter (385 mm2 nominal for a 25-mm filter.) FR = Pump flow rate (L/min) MFA = Microscope count field area (mm2 ). This is 0.00785 mm2 for a Walton-Beckett Graticule. T = Sample collection time (min) 1,000 = Conversion of L to cc Note:
 
 The collection area of a filter is seldom equal to 385 mm2. It is appropriate for laboratories to routinely monitor the exact diameter using an inside micrometer. The collection area is calculated according to the formula:
 
-Area = π(d/2)27.2. Short-cut Calculation
+Area = π(d/2) 27.2. Short-cut Calculation
 
 Since a given analyst always has the same interpupillary distance, the number of fields per filter for a particular analyst will remain constant for a given size filter. The field size for that analyst is constant (i.e. the analyst is using an assigned microscope and is not changing the reticle).
 
@@ -1279,7 +1279,7 @@ The following recount criterion is for a pair of counts that estimate AC in fibe
 
 Reject a pair of counts if:
 
-![](/graphics/er29jn95.001.gif)Where:AC1 = lower estimated airborne fiber concentrationAC2 = higher estimated airborne fiber concentrationACavg = average of the two concentration estimatesCVFB = CV for the average of the two concentration estimates
+![](/graphics/er29jn95.001.gif)Where: AC1 = lower estimated airborne fiber concentration AC2 = higher estimated airborne fiber concentration ACavg = average of the two concentration estimates CVFB = CV for the average of the two concentration estimates
 
 If a pair of counts are rejected by this criterion then, recount the rest of the filters in the submitted set. Apply the test and reject any other pairs failing the test. Rejection shall include a memo to the industrial hygienist stating that the sample failed a statistical test for homogeneity and the true air concentration may be significantly different than the reported value.
 
@@ -1315,11 +1315,11 @@ The OSHA asbestos regulations require each laboratory to establish a quality con
 
 Each sample was counted by 2 to 5 different counters independently of one another. The standard deviation and the CV statistic was calculated for each sample. This data was then plotted on a graph of CV vs. fibers/mm2. A least squares regression was performed using the following equation:
 
-CV = antilog10[A(log10(x))2 + B(log10(x)) + C]Where:x = the number of fibers/mm2
+CV = antilog10[A(log10(x))2 + B(log10(x)) + C] Where: x = the number of fibers/mm2
 
 Application of least squares gave:
 
-A = 0.182205B = −0.973343C = 0.327499
+A = 0.182205 B = −0.973343 C = 0.327499
 
 Using these values, the equation becomes:
 
@@ -1327,7 +1327,7 @@ CV = antilog10[0.182205(log10 (x))2−0.973343(log 10(x)) + 0.327499]Sampling Pu
 
 This correction is used if a difference greater than 5% in ambient temperature and/or pressure is noted between calibration and sampling sites and the pump does not compensate for the differences.
 
-![](/graphics/er10au94.030.gif)Where:Qact = actual flow rateQcal = calibrated flow rate (if a rotameter was used, the rotameter value)Pcal = uncorrected air pressure at calibrationPact = uncorrected air pressure at sampling siteTact = temperature at sampling site (K)Tcal = temperature at calibration (K)Walton-Beckett Graticule
+![](/graphics/er10au94.030.gif)Where: Qact = actual flow rate Qcal = calibrated flow rate (if a rotameter was used, the rotameter value) Pcal = uncorrected air pressure at calibration Pact = uncorrected air pressure at sampling site Tact = temperature at sampling site (K) Tcal = temperature at calibration (K) Walton-Beckett Graticule
 
 When ordering the Graticule for asbestos counting, specify the exact disc diameter needed to fit the ocular of the microscope and the diameter (mm) of the circular counting area. Instructions for measuring the dimensions necessary are listed:
 
@@ -1353,7 +1353,7 @@ Example: If PL = 108 µm, AL = 2.93 mm and D = 100 µm, then,
 
 Measure the field diameter, D (acceptable range: 100 ±2 µm) with a stage micrometer upon receipt of the graticule from the manufacturer. Determine the field area (mm2).
 
-Field Area = π(D/2)2If D = 100 µm = 0.1 mm, thenField Area = π(0.1 mm/2)2 = 0.00785 mm2
+Field Area = π(D/2)2If D = 100 µm = 0.1 mm, then Field Area = π(0.1 mm/2)2 = 0.00785 mm2
 
 The Graticule is available from: Graticules Ltd., Morley Road, Tonbridge TN9 IRN, Kent, England (Telephone 011-44-732-359061). Also available from PTR Optics Ltd., 145 Newton Street, Waltham, MA 02154 [telephone (617) 891-6000] or McCrone Accessories and Components, 2506 S. Michigan Ave., Chicago, IL 60616 [phone (312) 842-7100]. The graticule is custom made for each microscope.
 
@@ -1768,7 +1768,7 @@ The nominal chemical compositions for the asbestos minerals were given in Sectio
 
 Possible physiologic results of respiratory exposure to asbestos are mesothelioma of the pleura or peritoneum, interstitial fibrosis, asbestosis, pneumoconiosis, or respiratory cancer. The possible consequences of asbestos exposure are detailed in the NIOSH Criteria Document or in the OSHA Asbestos Standards 29 CFR 1910.1001 and 29 CFR 1926.1101 and 29 CFR 1915.1001.
 
-2. Sampling Procedure2.1. Equipment for Sampling
+2. Sampling Procedure 2.1. Equipment for Sampling
 
 (a) Tube or cork borer sampling device
 
@@ -1842,7 +1842,7 @@ The analysis of asbestos samples can be divided into two major parts: sample pre
 
 (h) High dispersion index of refraction oils (Special for dispersion staining.)
 
-n = 1.550n = 1.585n = 1.590n = 1.605n = 1.620n = 1.670n = 1.680n = 1.690
+n = 1.550 n = 1.585 n = 1.590 n = 1.605 n = 1.620 n = 1.670 n = 1.680 n = 1.690
 
 (i) A set of index of refraction oils from about n = 1.350 to n = 2.000 in n = 0.005 increments. (Standard for Becke line analysis.)
 
@@ -1860,7 +1860,7 @@ n = 1.550n = 1.585n = 1.590n = 1.605n = 1.620n = 1.670n = 1.680n = 1.690
 
 (p) Decalcifying solution (Baxter Scientific Products) Ethylenediaminetetraacetic Acid,
 
-Tetrasodium0.7 g/lSodium Potassium Tartrate8.0 mg/literHydrochloric Acid99.2 g/literSodium Tartrate0.14 g/liter
+Tetrasodium0.7 g/l Sodium Potassium Tartrate8.0 mg/liter Hydrochloric Acid99.2 g/liter Sodium Tartrate0.14 g/liter
 
 (q) Tetrahydrofuran (THF)
 
@@ -1971,11 +1971,11 @@ Report the area occluded by asbestos as the concentration. This estimate does no
 
 (7) Where successive concentrations have been made by chemical or physical means, the amount reported is the percentage of the material in the “as submitted” or original state. The percentage determined by microscopy is multiplied by the fractions remaining after pre-preparation steps to give the percentage in the original sample. For example:
 
-Step 1. 60% remains after heating at 550 °C for 1 h.Step 2. 30% of the residue of step 1 remains after dissolution of carbonate in 0.1 m HCl.Step 3. Microvisual estimation determines that 5% of the sample is chrysotile asbestos.
+Step 1. 60% remains after heating at 550 °C for 1 h. Step 2. 30% of the residue of step 1 remains after dissolution of carbonate in 0.1 m HCl. Step 3. Microvisual estimation determines that 5% of the sample is chrysotile asbestos.
 
 The reported result is:
 
-R = (Microvisual result in percent) × (Fraction remaining after step 2) × (Fraction remaining of original sample after step 1)R = (5) × (.30) × (.60) = 0.9%
+R = (Microvisual result in percent) × (Fraction remaining after step 2) × (Fraction remaining of original sample after step 1) R = (5) × (.30) × (.60) = 0.9%
 
 (8) Report the percent and type of asbestos present. For samples where asbestos was identified, but is less than 1.0%, report “Asbestos present, less than 1.0%.” There must have been at least two observed fibers or fiber bundles in the two preparations to be reported as present. For samples where asbestos was not seen, report as “None Detected.”
 
@@ -1989,7 +1989,7 @@ Light is electromagnetic energy. It travels from its source in packets called qu
 
 In any given direction away from the filament, the electric vector is perpendicular to the direction of travel of a light ray. While perpendicular, its orientation is random about the travel axis. If the electric vectors from all the light rays were lined up by passing the light through a filter that would only let light rays with electric vectors oriented in one direction pass, the light would then be *POLARIZED.*
 
-Polarized light interacts with matter in the direction of the electric vector. This is the polarization direction. Using this property it is possible to use polarized light to probe different materials and identify them by how they interact with light. The speed of light in a vacuum is a constant at about 2.99 × 108 m/s. When light travels in different materials such as air, water, minerals or oil, it does not travel at this speed. It travels slower. This slowing is a function of both the material through which the light is traveling and the wavelength or frequency of the light. In general, the more dense the material, the slower the light travels. Also, generally, the higher the frequency, the slower the light will travel. The ratio of the speed of light in a vacuum to that in a material is called the index of refraction (n). It is usually measured at 589 nm (the sodium D line). If white light (light containing all the visible wavelengths) travels through a material, rays of longer wavelengths will travel faster than those of shorter wavelengths, this separation is called dispersion. Dispersion is used as an identifier of materials as described in Section 4.6.
+Polarized light interacts with matter in the direction of the electric vector. This is the polarization direction. Using this property it is possible to use polarized light to probe different materials and identify them by how they interact with light. The speed of light in a vacuum is a constant at about 2.99 × 10 8 m/s. When light travels in different materials such as air, water, minerals or oil, it does not travel at this speed. It travels slower. This slowing is a function of both the material through which the light is traveling and the wavelength or frequency of the light. In general, the more dense the material, the slower the light travels. Also, generally, the higher the frequency, the slower the light will travel. The ratio of the speed of light in a vacuum to that in a material is called the index of refraction (n). It is usually measured at 589 nm (the sodium D line). If white light (light containing all the visible wavelengths) travels through a material, rays of longer wavelengths will travel faster than those of shorter wavelengths, this separation is called dispersion. Dispersion is used as an identifier of materials as described in Section 4.6.
 
 4.2. Material Properties
 
@@ -2019,7 +2019,7 @@ The color depends on the difference of the two visible indices of refraction and
 
 For this test, align the fiber at 45° to the polarization directions in order to maximize the contribution to each of the optical axes. The colors seen are called retardation colors. They arise from the recombination of light which has traveled through the two separate directions of the crystal. One of the rays is retarded behind the other since the light in that direction travels slower. On recombination, some of the colors which make up white light are enhanced by constructive interference and some are suppressed by destructive interference. The result is a color dependent on the difference between the indices and the thickness of the crystal. The proper colors, thicknesses, and retardations are shown on a Michel-Levy chart. The three items, retardation, thickness and birefringence are related by the following relationship:
 
-R = t(nγ—α)R = retardation, t = crystal thickness in µm, andα,γ = indices of refraction.
+R = t(nγ—α) R = retardation, t = crystal thickness in µm, and α,γ = indices of refraction.
 
 Examination of the equation for asbestos minerals reveals that the visible colors for almost all common asbestos minerals and fiber sizes are shades of gray and black. The eye is relatively poor at discriminating different shades of gray. It is very good at discriminating different colors. In order to compensate for the low retardation, a compensator is added to the light train between the polarization elements. The compensator used for this test is a gypsum plate of known thickness and birefringence. Such a compensator when oriented at 45° to the polarizer direction, provides a retardation of 530 nm of the 530 nm wavelength color. This enhances the red color and gives the background a characteristic red to red-magenta color. If this “full-wave” compensator is in place when the asbestos preparation is inserted into the light train, the colors seen on the fibers are quite different. Gypsum, like asbestos has a fast axis and a slow axis. When a fiber is aligned with its fast axis in the same direction as the fast axis of the gypsum plate, the ray vibrating in the slow direction is retarded by both the asbestos and the gypsum. This results in a higher retardation than would be present for either of the two minerals. The color seen is a second order blue. When the fiber is rotated 90° using the rotating stage, the slow direction of the fiber is now aligned with the fast direction of the gypsum and the fast direction of the fiber is aligned with the slow direction of the gypsum. Thus, one ray vibrates faster in the fast direction of the gypsum, and slower in the slow direction of the fiber; the other ray will vibrate slower in the slow direction of the gypsum and faster in the fast direction of the fiber. In this case, the effect is subtractive and the color seen is a first order yellow. As long as the fiber thickness does not add appreciably to the color, the same basic colors will be seen for all asbestos types except crocidolite. In crocidolite the colors will be weaker, may be in the opposite directions, and will be altered by the blue absorption color natural to crocidolite. Hundreds of other materials will give the same colors as asbestos, and therefore, this test is not definitive for asbestos. The test is useful in discriminating against fiberglass or other amorphous fibers such as some synthetic fibers. Certain synthetic fibers will show retardation colors different than asbestos; however, there are some forms of polyethylene and aramid which will show morphology and retardation colors similar to asbestos minerals. This test must be supplemented with a positive identification test when birefringent fibers are present which can not be excluded by morphology. This test is relatively ineffective for use on fibers less than 1 µm in diameter. For positive confirmation TEM or SEM should be used if no larger bundles or fibers are visible.
 

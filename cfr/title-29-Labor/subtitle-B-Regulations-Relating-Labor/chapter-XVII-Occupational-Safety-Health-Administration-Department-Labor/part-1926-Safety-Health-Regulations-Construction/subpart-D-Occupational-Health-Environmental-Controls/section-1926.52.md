@@ -28,6 +28,6 @@ Where:*F*e = The equivalent noise exposure factor.*T* = The period of noise expo
 
 (iii) A sample computation showing an application of the formula in paragraph (d)(2)(ii) of this section is as follows. An employee is exposed at these levels for these periods:
 
-110 db A1/4 hour.100 db A1/2 hour.90 db A 11/2 hours.*F*e = (1/4/1/2) + (1/2/2) + (11/2/8)*F*e = 0.500 + 0.25 + 0.188*F*e = 0.938Since the value of *F*e does not exceed unity, the exposure is within permissible limits.
+110 db A 1/4 hour.100 db A 1/2 hour.90 db A 11/2 hours.*F*e = (1/4/1/2) + (1/2/2) + (11/2/8)*F*e = 0.500 + 0.25 + 0.188*F*e = 0.938Since the value of *F*e does not exceed unity, the exposure is within permissible limits.
 
 (e) Exposure to impulsive or impact noise should not exceed 140 dB peak sound pressure level.

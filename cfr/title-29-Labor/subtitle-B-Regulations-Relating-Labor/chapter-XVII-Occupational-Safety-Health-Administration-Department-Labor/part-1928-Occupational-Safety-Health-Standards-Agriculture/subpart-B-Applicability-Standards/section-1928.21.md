@@ -24,4 +24,4 @@
 
 (b) Except to the extent specified in paragraph (a) of this section, the standards contained in subparts B through T and subpart Z of part 1910 of this title do not apply to agricultural operations.
 
-(Section 1928.21 contains a collection of information which has been approved by the Office of Management and Budget under OMB control number 1218-0072)[40 FR 18257, Apr. 25, 1975, as amended at 42 FR 38569, July 29, 1977; 52 FR 31886, Aug. 24, 1987; 59 FR 36700, July 19, 1994; 59 FR 51748, Oct. 12, 1994; 61 FR 5510, Feb. 13, 1996; 61 FR 9255, Mar. 7, 1996; 86 FR 61555, Nov. 5, 2021]
+(Section 1928.21 contains a collection of information which has been approved by the Office of Management and Budget under OMB control number 1218-0072) [40 FR 18257, Apr. 25, 1975, as amended at 42 FR 38569, July 29, 1977; 52 FR 31886, Aug. 24, 1987; 59 FR 36700, July 19, 1994; 59 FR 51748, Oct. 12, 1994; 61 FR 5510, Feb. 13, 1996; 61 FR 9255, Mar. 7, 1996; 86 FR 61555, Nov. 5, 2021]

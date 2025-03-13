@@ -104,9 +104,9 @@
 
 (c) *Manifolding of cylinders*—(1) *Fuel-gas manifolds.* (i) Manifolds shall be approved either separately for each component part or as an assembled unit.
 
-(ii) Except as provided in paragraph (c)(1)(iii) of this section fuel-gas cylinders connected to one manifold inside a building shall be limited to a total capacity not exceeding 300 pounds (135.9 kg) of liquefied petroleum gas or 3,000 cubic feet (84 m3) of other fuel-gas. More than one such manifold with connected cylinders may be located in the same room provided the manifolds are at least 50 feet (15 m) apart or separated by a noncombustible barrier at least 5 feet (1.5 m) high having a fire-resistance rating of at least one-half hour.
+(ii) Except as provided in paragraph (c)(1)(iii) of this section fuel-gas cylinders connected to one manifold inside a building shall be limited to a total capacity not exceeding 300 pounds (135.9 kg) of liquefied petroleum gas or 3,000 cubic feet (84 m 3) of other fuel-gas. More than one such manifold with connected cylinders may be located in the same room provided the manifolds are at least 50 feet (15 m) apart or separated by a noncombustible barrier at least 5 feet (1.5 m) high having a fire-resistance rating of at least one-half hour.
 
-(iii) Fuel-gas cylinders connected to one manifold having an aggregate capacity exceeding 300 pounds (135.9 kg) of liquefied petroleum gas or 3,000 cubic feet (84 m3) of other fuel-gas shall be located outdoors, or in a separate building or room constructed in accordance with paragraphs (f)(6)(i)(H) and (f)(6)(i)(I) of this section.
+(iii) Fuel-gas cylinders connected to one manifold having an aggregate capacity exceeding 300 pounds (135.9 kg) of liquefied petroleum gas or 3,000 cubic feet (84 m 3) of other fuel-gas shall be located outdoors, or in a separate building or room constructed in accordance with paragraphs (f)(6)(i)(H) and (f)(6)(i)(I) of this section.
 
 (iv) Separate manifold buildings or rooms may also be used for the storage of drums of calcium carbide and cylinders containing fuel gases as provided in paragraph (b)(3) of this section. Such buildings or rooms shall have no open flames for heating or lighting and shall be well-ventilated.
 
@@ -116,11 +116,11 @@
 
 (ii) Oxygen manifolds shall not be located in an acetylene generator room. Oxygen manifolds shall be separated from fuel-gas cylinders or combustible materials (especially oil or grease), a minimum distance of 20 feet (6.1 m) or by a noncombustible barrier at least 5 feet (1.5 m) high having a fire-resistance rating of at least one-half hour.
 
-(iii) Except as provided in paragraph (c)(2)(iv) of this section, oxygen cylinders connected to one manifold shall be limited to a total gas capacity of 6,000 cubic feet (168 m3). More than one such manifold with connected cylinders may be located in the same room provided the manifolds are at least 50 feet (15 m) apart or separated by a noncombustible barrier at least 5 feet (1.5 m) high having a fire-resistance rating of at least one-half hour.
+(iii) Except as provided in paragraph (c)(2)(iv) of this section, oxygen cylinders connected to one manifold shall be limited to a total gas capacity of 6,000 cubic feet (168 m 3). More than one such manifold with connected cylinders may be located in the same room provided the manifolds are at least 50 feet (15 m) apart or separated by a noncombustible barrier at least 5 feet (1.5 m) high having a fire-resistance rating of at least one-half hour.
 
-(iv) An oxygen manifold, to which cylinders having an aggregate capacity of more than 6,000 cubic feet (168 m3) of oxygen are connected, should be located outdoors or in a separate noncombustible building. Such a manifold, if located inside a building having other occupancy, shall be located in a separate room of noncombustible construction having a fire-resistance rating of at least one-half hour or in an area with no combustible material within 20 feet (6.1 m) of the manifold.
+(iv) An oxygen manifold, to which cylinders having an aggregate capacity of more than 6,000 cubic feet (168 m 3) of oxygen are connected, should be located outdoors or in a separate noncombustible building. Such a manifold, if located inside a building having other occupancy, shall be located in a separate room of noncombustible construction having a fire-resistance rating of at least one-half hour or in an area with no combustible material within 20 feet (6.1 m) of the manifold.
 
-(v) An oxygen manifold or oxygen bulk supply system which has storage capacity of more than 13,000 cubic feet (364 m3) of oxygen (measured at 14.7 psia (101 kPa) and 70 °F (21.1 °C)), connected in service or ready for service, or more than 25,000 cubic feet (700 m3) of oxygen (measured at 14.7 psia (101 kPa) and 70 °F (21.1 °C)), including unconnected reserves on hand at the site, shall comply with the provisions of the Standard for Bulk Oxygen Systems at Consumer Sites, NFPA No. 566-1965.
+(v) An oxygen manifold or oxygen bulk supply system which has storage capacity of more than 13,000 cubic feet (364 m 3) of oxygen (measured at 14.7 psia (101 kPa) and 70 °F (21.1 °C)), connected in service or ready for service, or more than 25,000 cubic feet (700 m 3) of oxygen (measured at 14.7 psia (101 kPa) and 70 °F (21.1 °C)), including unconnected reserves on hand at the site, shall comply with the provisions of the Standard for Bulk Oxygen Systems at Consumer Sites, NFPA No. 566-1965.
 
 (vi) High-pressure oxygen manifolds shall be provided with approved pressure-regulating devices.
 
@@ -158,7 +158,7 @@ Low-Pressure ManifoldDo Not Connect High-Pressure CylindersMaximum Pressure—25
 
 (iii) When acetylene cylinders are coupled, approved flash arresters shall be installed between each cylinder and the coupler block. For outdoor use only, and when the number of cylinders coupled does not exceed three, one flash arrester installed between the coupler block and regulator is acceptable.
 
-(iv) The aggregate capacity of fuel-gas cylinders connected to a portable manifold inside a building shall not exceed 3,000 cubic feet (84 m3) of gas.
+(iv) The aggregate capacity of fuel-gas cylinders connected to a portable manifold inside a building shall not exceed 3,000 cubic feet (84 m 3) of gas.
 
 (v) Acetylene and liquefied fuel-gas cylinders shall be manifolded in a vertical position.
 

@@ -1,6 +1,6 @@
 ##### § 1917.30 Emergency action plans. #####
 
-(a) *Emergency action plans*—(1) *Scope and application.* This paragraph (a) requires all employers to develop and implement an emergency action plan.3a The emergency action plan shall be in writing (except as provided in paragraph (a)(5)(iv) of this section) and shall cover those designated actions employers and employees must take to ensure employee safety from fire and other emergencies.
+(a) *Emergency action plans*—(1) *Scope and application.* This paragraph (a) requires all employers to develop and implement an emergency action plan. 3a The emergency action plan shall be in writing (except as provided in paragraph (a)(5)(iv) of this section) and shall cover those designated actions employers and employees must take to ensure employee safety from fire and other emergencies.
 
 3a When an employer directs his employees to respond to an emergency that is beyond the scope of the Emergency Action Plan developed in accordance with this section, then § 1910.120(q) of this chapter shall apply.
 

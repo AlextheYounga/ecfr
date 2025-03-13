@@ -2,7 +2,7 @@
 
 (a) *Penalty charge.* Subject to the provisions of § 4007.13, if any premium payment due under this part is not paid by the due date under this part, PBGC will assess a late payment penalty charge as determined under this paragraph (a), except to the extent the charge is waived under paragraphs (b) through (h) of this section. The amount determined under this paragraph (a) will be based on the number of months (counting any portion of a month as a whole month) from the due date to the date of payment. The penalty rate is—
 
-(1) For any amount of unpaid premium that is paid on or before the date PBGC issues the first written notice to any person liable for the premium that there is or may be a premium delinquency (for example, a premium bill, a letter initiating a premium compliance review, a notice of filing error in premium determination, or a letter questioning a failure to make a premium filing),1/2 percent per month, to a maximum penalty charge of 25 percent of the unpaid premium; or
+(1) For any amount of unpaid premium that is paid on or before the date PBGC issues the first written notice to any person liable for the premium that there is or may be a premium delinquency (for example, a premium bill, a letter initiating a premium compliance review, a notice of filing error in premium determination, or a letter questioning a failure to make a premium filing), 1/2 percent per month, to a maximum penalty charge of 25 percent of the unpaid premium; or
 
 (2) For any amount of unpaid premium that is paid after that date, 21/2 percent per month, to a maximum penalty charge of 50 percent of the unpaid premium.
 

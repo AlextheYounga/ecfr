@@ -1,6 +1,6 @@
 ##### § 548.405 Representative period. #####
 
-(a) The application must set forth the facts relied upon to show that the established basic rate is substantially equivalent to the average hourly earnings of the employee exclusive of overtime premiums over a representative period of time.21 The basic rate will be considered “substantially equivalent” to the average hourly earnings of the employee if, during a representative period, the employee's total overtime earnings calculated at the basic rate in accordance with the applicable overtime provisions are approximately equal to the employee's total overtime earnings computed on his average hourly earnings for each workweek in accordance with section 7(a) of the Act.22
+(a) The application must set forth the facts relied upon to show that the established basic rate is substantially equivalent to the average hourly earnings of the employee exclusive of overtime premiums over a representative period of time. 21 The basic rate will be considered “substantially equivalent” to the average hourly earnings of the employee if, during a representative period, the employee's total overtime earnings calculated at the basic rate in accordance with the applicable overtime provisions are approximately equal to the employee's total overtime earnings computed on his average hourly earnings for each workweek in accordance with section 7(a) of the Act. 22
 
 21 See §§ 778.200 through 778.207 of this chapter for further discussion of overtime premiums which may be excluded from the regular rate of pay.
 

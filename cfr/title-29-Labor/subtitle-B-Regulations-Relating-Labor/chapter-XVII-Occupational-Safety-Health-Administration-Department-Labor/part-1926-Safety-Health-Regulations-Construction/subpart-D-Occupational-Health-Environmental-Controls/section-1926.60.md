@@ -240,21 +240,21 @@ DANGERMDAMAY CAUSE CANCERCAUSES DAMAGE TO THE LIVERRESPIRATORY PROTECTION AND PR
 
 (B) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (l)(2)(i)(A) of this section:
 
-DANGERMDAMAY CAUSE CANCERLIVER TOXINAUTHORIZED PERSONNEL ONLYRESPIRATORS AND PROTECTIVE CLOTHING MAY BE REQUIRED TO BE WORN IN THIS AREA
+DANGER MDA MAY CAUSE CANCER LIVER TOXIN AUTHORIZED PERSONNEL ONLY RESPIRATORS AND PROTECTIVE CLOTHING MAY BE REQUIRED TO BE WORN IN THIS AREA
 
 (ii) *Labels.* (A) The employer shall ensure that labels or other appropriate forms of warning are provided for containers of MDA within the workplace. The labels shall comply with the requirements of § 1910.1200(f) and shall include at least the following information for pure MDA and mixtures containing MDA:
 
-DANGERCONTAINS MDAMAY CAUSE CANCERCAUSES DAMAGE TO THE LIVER
+DANGER CONTAINS MDA MAY CAUSE CANCER CAUSES DAMAGE TO THE LIVER
 
 (B) Prior to June 1, 2015, employers may include the following information workplace labels in lieu of the labeling requirements in paragraph (l)(2)(ii)(A) of this section:
 
 (*1*) For Pure MDA:
 
-DANGERCONTAINS MDAMAY CAUSE CANCERLIVER TOXIN
+DANGER CONTAINS MDA MAY CAUSE CANCER LIVER TOXIN
 
 (*2*) For mixtures containing MDA:
 
-DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
+DANGER CONTAINS MDA CONTAINS MATERIALS WHICH MAY CAUSE CANCER LIVER TOXIN
 
 (3) *Information and training.* (i) The employer shall provide employees with information and training on MDA, in accordance with 29 CFR 1910.1200(h), at the time of initial assignment and at least annually thereafter.
 

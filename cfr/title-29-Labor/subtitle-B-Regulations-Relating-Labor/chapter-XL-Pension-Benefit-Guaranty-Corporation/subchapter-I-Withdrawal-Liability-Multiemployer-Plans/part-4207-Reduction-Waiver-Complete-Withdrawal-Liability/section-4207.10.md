@@ -32,4 +32,4 @@
 
 (2) The rule would increase the PBGC's risk of loss with respect to the plan.
 
-(Approved by the Office of Management and Budget under control number 1212-0044)[61 FR 34088, July 1, 1996, as amended at 68 FR 61355, Oct. 28, 2003]
+(Approved by the Office of Management and Budget under control number 1212-0044) [61 FR 34088, July 1, 1996, as amended at 68 FR 61355, Oct. 28, 2003]

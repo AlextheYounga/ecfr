@@ -86,4 +86,4 @@ Example 1:Plan P makes a participant loan to A at the fixed interest rate of 8% 
 
 (g) *Effective date.* This section is effective for all participant loans granted or renewed after October 18, 1989, except with respect to paragraph (d)(2) of this section relating to specific plan provisions. Paragraph (d)(2) of this section is effective for participant loans granted or renewed on or after the last day of the first plan year beginning on or after January 1, 1989.
 
-(Approved by the Office of Management and Budget under control number 1210-0076)[54 FR 30528, July 20, 1989]
+(Approved by the Office of Management and Budget under control number 1210-0076) [54 FR 30528, July 20, 1989]

@@ -44,7 +44,7 @@
 
 (2) The employer shall direct employees to stay clear of the area beneath a suspended container.
 
-(e) Each employee working in the immediate area of container handling equipment or in the terminal's traffic lanes shall wear a high visibility vest (or equivalent protection).7
+(e) Each employee working in the immediate area of container handling equipment or in the terminal's traffic lanes shall wear a high visibility vest (or equivalent protection). 7
 
 7 Decals on hard hats will not be considered equivalent protection for the purposes of this paragraph.
 
@@ -62,7 +62,7 @@ High visibility vests or equivalent protection means high visibility/retro-refle
 
 (B) The condition of the box is sound;
 
-(C) The speed of hoisting and lowering is moderated when heavily ladened containers8 are encountered;
+(C) The speed of hoisting and lowering is moderated when heavily ladened containers 8 are encountered;
 
 8 A heavily laden container is one that is loaded to within 20 percent of its rated capacity.
 

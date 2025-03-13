@@ -18,7 +18,7 @@
 
 (ii) One 55-gallon open drum of water with two fire pails may be substituted for a fire extinguisher having a 2A rating.
 
-(iii) A1/2-inch diameter garden-type hose line, not to exceed 100 feet in length and equipped with a nozzle, may be substituted for a 2A-rated fire extinguisher, providing it is capable of discharging a minimum of 5 gallons per minute with a minimum hose stream range of 30 feet horizontally. The garden-type hose lines shall be mounted on conventional racks or reels. The number and location of hose racks or reels shall be such that at least one hose stream can be applied to all points in the area.
+(iii) A 1/2-inch diameter garden-type hose line, not to exceed 100 feet in length and equipped with a nozzle, may be substituted for a 2A-rated fire extinguisher, providing it is capable of discharging a minimum of 5 gallons per minute with a minimum hose stream range of 30 feet horizontally. The garden-type hose lines shall be mounted on conventional racks or reels. The number and location of hose racks or reels shall be such that at least one hose stream can be applied to all points in the area.
 
 (iv) One or more fire extinguishers, rated not less than 2A, shall be provided on each floor. In multistory buildings, at least one fire extinguisher shall be located adjacent to stairway.
 

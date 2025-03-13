@@ -16,7 +16,7 @@
 
 (8) Fixed leads shall be provided with ladder, and adequate rings, or similar attachment points, so that the loft worker may engage his safety belt lanyard to the leads. If the leads are provided with loft platforms(s), such platform(s) shall be protected by standard guardrails.
 
-(9) Steam hose leading to a steam hammer or jet pipe shall be securely attached to the hammer with an adequate length of at least1/4-inch diameter chain or cable to prevent whipping in the event the joint at the hammer is broken. Air hammer hoses shall be provided with the same protection as required for steam lines.
+(9) Steam hose leading to a steam hammer or jet pipe shall be securely attached to the hammer with an adequate length of at least 1/4-inch diameter chain or cable to prevent whipping in the event the joint at the hammer is broken. Air hammer hoses shall be provided with the same protection as required for steam lines.
 
 (10) Safety chains, or equivalent means, shall be provided for each hose connection to prevent the line from thrashing around in case the coupling becomes disconnected.
 

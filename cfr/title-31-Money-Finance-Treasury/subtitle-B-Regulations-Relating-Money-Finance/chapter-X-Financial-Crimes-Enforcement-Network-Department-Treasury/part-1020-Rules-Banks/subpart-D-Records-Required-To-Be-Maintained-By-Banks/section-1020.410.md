@@ -14,7 +14,7 @@
 
 (E) The identity of the beneficiary's bank; and
 
-(F) As many of the following items as are received with the payment order: 1
+(F) As many of the following items as are received with the payment order:1
 
 1 For funds transfers effected through the Federal Reserve's Fedwire funds transfer system, only one of the items is required to be retained, if received with the payment order, until such time as the bank that sends the order to the Federal Reserve Bank completes its conversion to the expanded Fedwire message format.
 

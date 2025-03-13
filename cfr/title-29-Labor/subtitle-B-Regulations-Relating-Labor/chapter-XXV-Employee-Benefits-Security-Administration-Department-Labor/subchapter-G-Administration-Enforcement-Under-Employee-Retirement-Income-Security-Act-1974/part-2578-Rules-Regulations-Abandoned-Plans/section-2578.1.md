@@ -210,7 +210,7 @@
 
 (i) *Model notices.* Appendices to this part contain model notices that are intended to assist qualified termination administrators in discharging the notification requirements under this section. Their use is not mandatory. However, the use of appropriately completed model notices will be deemed to satisfy the requirements of paragraphs (b)(5), (c)(3), (d)(2)(vi), (d)(2)(ix), and (j)(6) of this section.
 
-(j) *Special rules for Chapter 7 ERISA Plans.* (1) *In general.* This paragraph (j) contains special rules for individual account plans of sponsors in liquidation under chapter 7 of the United States Bankruptcy Code (Chapter 7 ERISA Plans). These special rules modify, augment, or supersede otherwise applicable provisions in paragraphs (a) through (i) of this section.
+(j) *Special rules for Chapter 7 ERISA Plans*—(1) *In general.* This paragraph (j) contains special rules for individual account plans of sponsors in liquidation under chapter 7 of the United States Bankruptcy Code (Chapter 7 ERISA Plans). These special rules modify, augment, or supersede otherwise applicable provisions in paragraphs (a) through (i) of this section.
 
 (2) *Deemed abandonment.* If the sponsor of an individual account plan is in liquidation under chapter 7 of the United States Bankruptcy Code, the requirements of paragraph (b) do not apply, and the Chapter 7 ERISA Plan shall be considered abandoned upon the entry of an order for relief, except that the plan shall cease to be considered abandoned if at any time before the plan is deemed terminated pursuant to paragraph (c) of this section, the plan sponsor's chapter 7 liquidation proceeding is dismissed or converted to a proceeding under a different chapter of the United States Bankruptcy Code.
 

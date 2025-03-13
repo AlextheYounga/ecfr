@@ -460,7 +460,7 @@ DANGERLEAD WORK AREAMAY DAMAGE FERTILITY OR THE UNBORN CHILDCAUSES DAMAGE TO THE
 
 (v) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (m)(1)(i) of this section:
 
-WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATING
+WARNING LEAD WORK AREA POISON NO SMOKING OR EATING
 
 (n) *Recordkeeping*—(1) *Exposure assessment.* (i) The employer shall establish and maintain an accurate record of all monitoring and other data used in conducting employee exposure assessments as required in paragraph (d) of this section.
 
@@ -726,7 +726,7 @@ DANGERLEAD WORK AREAMAY DAMAGE FERTILITY OR THE UNBORN CHILDCAUSES DAMAGE TO THE
 
 Prior to June 1, 2016, employers may use the following legend in lieu of that specified above:
 
-WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATINGXII. Recordkeeping—Paragraph (N)
+WARNING LEAD WORK AREA POISON NO SMOKING OR EATINGXII. Recordkeeping—Paragraph (N)
 
 Your employer is required to keep all records of exposure monitoring for airborne lead. These records must include the name and job classification of employees measured, details of the sampling and analytical techniques, the results of this sampling, and the type of respiratory protection being worn by the person sampled. Such records are to be retained for at least 30 years. Your employer is also required to keep all records of biological monitoring and medical examination results. These records must include the names of the employees, the physician's written opinion, and a copy of the results of the examination. Medical records must be preserved and maintained for the duration of employment plus 30 years. However, if the employee's duration of employment is less than one year, the employer need not retain that employee's medical records beyond the period of employment if they are provided to the employee upon termination of employment.
 

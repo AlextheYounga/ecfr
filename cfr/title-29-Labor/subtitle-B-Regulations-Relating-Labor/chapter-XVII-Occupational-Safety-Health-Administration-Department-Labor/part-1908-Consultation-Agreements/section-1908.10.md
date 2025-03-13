@@ -24,4 +24,4 @@
 
 (f) *Termination.* Either party may terminate a Cooperative Agreement under this part upon 30 days' written notice to the other party.
 
-(Approved by the Office of Management and Budget under control number 1218-0110)[49 FR 25094, June 19, 1984, as amended at 54 FR 24333, June 7, 1989]
+(Approved by the Office of Management and Budget under control number 1218-0110) [49 FR 25094, June 19, 1984, as amended at 54 FR 24333, June 7, 1989]

@@ -90,7 +90,7 @@ The National Electrical Code, NFPA 70, contains guidelines for determining the t
 
 (ii) Each room, section, or area shall be considered individually in determining its classification.
 
-(iii) All threaded conduit shall be threaded with an NPT (National (American) Standard Pipe Taper) standard conduit cutting die that provides3/4-in. taper per foot. The conduit shall be made wrench tight to prevent sparking when fault current flows through the conduit system and to ensure the explosionproof or flameproof integrity of the conduit system where applicable.
+(iii) All threaded conduit shall be threaded with an NPT (National (American) Standard Pipe Taper) standard conduit cutting die that provides 3/4-in. taper per foot. The conduit shall be made wrench tight to prevent sparking when fault current flows through the conduit system and to ensure the explosionproof or flameproof integrity of the conduit system where applicable.
 
 (iv) Equipment provided with threaded entries for field wiring connection shall be installed in accordance with paragraph (g)(2)(iv)(A) or (g)(2)(iv)(B) of this section.
 

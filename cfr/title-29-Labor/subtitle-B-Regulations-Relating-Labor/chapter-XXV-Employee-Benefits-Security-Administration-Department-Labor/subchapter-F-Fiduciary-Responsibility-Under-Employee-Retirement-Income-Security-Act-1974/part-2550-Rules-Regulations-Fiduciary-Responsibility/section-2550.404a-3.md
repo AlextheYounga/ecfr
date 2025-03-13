@@ -74,7 +74,7 @@
 
 (3) Both the fiduciary's selection of a transferee plan (described in paragraph (d)(1)(i) or (d)(1)(ii) of this section) or account (described in paragraph (d)(1)(iii)(A) of this section) and the investment of funds would not result in a prohibited transaction under section 406 of the Act, or if so prohibited such actions are exempted from the prohibited transaction provisions by a prohibited transaction exemption issued pursuant to section 408(a) of the Act.
 
-(e) *Notice to participants and beneficiaries.* (1) *Content.* Each participant or beneficiary of the plan shall be furnished a notice written in a manner calculated to be understood by the average plan participant and containing the following:
+(e) *Notice to participants and beneficiaries*—(1) *Content.* Each participant or beneficiary of the plan shall be furnished a notice written in a manner calculated to be understood by the average plan participant and containing the following:
 
 (i) The name of the plan;
 

@@ -288,7 +288,7 @@
 
 (4) In facilities that become parties to the settlement agreement included in appendix A, engineering controls required by paragraph (f) of this section shall be implemented no later than December 31, 2008.
 
-Appendix A to § 1910.1026In the United States Court of Appeals for the Third CircuitSurface Finishing Industry Council et al., Petitioners, v. U.S. Occupational Safety and Health Administration, Respondent.[Docket No. 06-2272 and consolidated cases]Public Citizen Health Research Group et al., Petitioners, v. Occupational Safety and Health Administration, United States Department of Labor, Respondent.[Docket No. 06-1818]Settlement Agreement
+Appendix A to § 1910.1026 In the United States Court of Appeals for the Third Circuit Surface Finishing Industry Council et al., Petitioners, v. U.S. Occupational Safety and Health Administration, Respondent.[Docket No. 06-2272 and consolidated cases]Public Citizen Health Research Group et al., Petitioners, v. Occupational Safety and Health Administration, United States Department of Labor, Respondent.[Docket No. 06-1818]Settlement Agreement
 
 The parties to this Settlement Agreement (“Agreement”) are the Occupational Safety and Health Administration, United States Department of Labor (“OSHA”), the Surface Finishing Industry Council or its successors (“SFIC”), surface-finishing and metal-finishing facilities which have opted into this Agreement pursuant to paragraph 7 (“Company” or “Companies”), Public Citizen Health Research Group (“HRG”), and the United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union (“Steelworkers”).
 
@@ -330,7 +330,7 @@ The parties to this Settlement Agreement (“Agreement”) are the Occupational 
 
 Agreed to this 25th day of October, 2006.
 
-Baruch A. Fellner,Counsel for SFIC, Gibson, Dunn & Crutcher LLP, 1050 Connecticut Avenue, NW., Washington, DC 20036, (202) 955-8500.Lauren S. Goodman,Counsel for OSHA, United States Department of Labor, Office of the Solicitor, 200 Constitution Avenue, NW., Washington, DC 20210, (202) 693-5445.Scott L. Nelson,Counsel for HRG and the Steelworkers, Public Citizen Litigation Group, 1600 20th Street, NW., Washington, DC 20009, (202) 588-7724.Exhibit AAvailable Engineering and Work Practice Controls
+Baruch A. Fellner,Counsel for SFIC, Gibson, Dunn & Crutcher LLP, 1050 Connecticut Avenue, NW., Washington, DC 20036, (202) 955-8500.Lauren S. Goodman,Counsel for OSHA, United States Department of Labor, Office of the Solicitor, 200 Constitution Avenue, NW., Washington, DC 20210, (202) 693-5445.Scott L. Nelson,Counsel for HRG and the Steelworkers, Public Citizen Litigation Group, 1600 20th Street, NW., Washington, DC 20009, (202) 588-7724.Exhibit A Available Engineering and Work Practice Controls
 
 The Companies agree that work towards the implementation of these available engineering and work practice controls should not be delayed to accommodate their completion by December 31, 2008. The Companies are encouraged to implement from among these controls as soon as practicable.
 
@@ -374,7 +374,7 @@ The Companies agree that work towards the implementation of these available engi
 
 • *Other methods.* Companies are constantly determining best work practices and technological controls through laboratory research and practical experience. Companies will implement other engineering and work practice controls as necessary and as practicable to reduce potential hexavalent chromium workplace exposures.
 
-Exhibit BWorkplace Tasks Requiring Respirators Where PEL Is Exceeded
+Exhibit B Workplace Tasks Requiring Respirators Where PEL Is Exceeded
 
 Some well-known and relatively few, discrete tasks related to metal finishing activities result in potentially higher workplace exposures of hexavalent chromium. Where the applicable PEL for hexavalent chromium is exceeded, respirators shall be worn to conduct the following activities:
 

@@ -2,7 +2,7 @@
 
 (a) *Formula for redemption value.* We determine the redemption value of a bond for the accrual date (the first day of each month beginning with the fourth month from the issue date) in accordance with this section and the following formula:
 
-FV = PV × {[1 + (i ÷ 2)] (m/6)} whereFV (future value) = redemption value on redemption date rounded to the nearest cent.PV (present value) = redemption value at the beginning of the semiannual rate periodi = savings bonds rate converted to decimal form by dividing by 100.m = number of full calendar months outstanding during the semiannual rate period. 1
+FV = PV × {[1 + (i ÷ 2)] (m/6)}whereFV (future value) = redemption value on redemption date rounded to the nearest cent.PV (present value) = redemption value at the beginning of the semiannual rate periodi = savings bonds rate converted to decimal form by dividing by 100.m = number of full calendar months outstanding during the semiannual rate period.1
 
 1 The following hypothetical example illustrates how this formula is applied:
 

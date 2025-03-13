@@ -50,8 +50,7 @@
 
 (10) American National Standards Institute (ANSI) Z89.1-2003, American National Standard for Industrial Head Protection; IBR approved for § 1915.155(b). Copies of ANSI Z89.1-2003 are available for purchase only from the International Safety Equipment Association, 1101 Wilson Boulevard, Suite 1425, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; website: *www.safetyequipment.org.*
 
-(11) American National Standards Institute (ANSI) Z89.1-1997, American National Standard for Personnel Protection—Protective Headwear for Industrial
-Workers—Requirements; IBR approved for § 1915.155(b). Copies of ANSI Z89.1-1997 are available for purchase only from the International Safety Equipment Association, 1101 Wilson Boulevard, Suite 1425, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; website: *www.safetyequipment.org.*
+(11) American National Standards Institute (ANSI) Z89.1-1997, American National Standard for Personnel Protection—Protective Headwear for Industrial Workers—Requirements; IBR approved for § 1915.155(b). Copies of ANSI Z89.1-1997 are available for purchase only from the International Safety Equipment Association, 1101 Wilson Boulevard, Suite 1425, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; website: *www.safetyequipment.org.*
 
 (12) ANSI/IESNA RP-7-01, Recommended Practice for Lighting Industrial Facilities, ANSI approved July 26, 2001, IBR approved for *§ 1915.82(a).*
 

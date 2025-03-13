@@ -630,7 +630,7 @@ WEAR RESPIRATORY PROTECTION AND PROTECTIVE CLOTHING IN THIS AREA
 
 (C) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (k)(7)(ii)(A) of this section:
 
-DANGERASBESTOSCANCER AND LUNG DISEASE HAZARDAUTHORIZED PERSONNEL ONLY
+DANGER ASBESTOS CANCER AND LUNG DISEASE HAZARD AUTHORIZED PERSONNEL ONLY
 
 (D) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (k)(7)(ii)(B) of this section:
 
@@ -648,7 +648,7 @@ DANGERCONTAINS ASBESTOS FIBERSMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSDO NOT BREAT
 
 (iv) (A) Prior to June 1, 2015, employers may include the following information on raw materials, mixtures or labels of bags or containers of protective clothing and equipment, scrap, waste, and debris containing asbestos fibers in lieu of the labeling requirements in paragraphs (k)(8)(ii) and (k)(8)(iii) of this section:
 
-DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
+DANGERCONTAINS ASBESTOS FIBERS AVOID CREATING DUST CANCER AND LUNG DISEASE HAZARD
 
 (B) Labels shall also contain a warning statement against breathing asbestos fibers.
 
@@ -1243,7 +1243,7 @@ Completely align the microscope according to the manufacturer's instructions. Th
 
 (7) Count all the fibers in at least 20 fields. Continue counting until either 100 fibers are counted or 100 fields have been viewed; whichever occurs first. Count all the fibers in the final field.
 
-(8) Fibers lying entirely within the boundary of the Walton-Beckett graticule field shall receive a count of 1. Fibers crossing the boundary once, having one end within the circle shall receive a count of1/2. Do not count any fiber that crosses the graticule boundary more than once. Reject and do not count any other fibers even though they may be visible outside the graticule area. If a fiber touches the circle, it is considered to cross the line.
+(8) Fibers lying entirely within the boundary of the Walton-Beckett graticule field shall receive a count of 1. Fibers crossing the boundary once, having one end within the circle shall receive a count of 1/2. Do not count any fiber that crosses the graticule boundary more than once. Reject and do not count any other fibers even though they may be visible outside the graticule area. If a fiber touches the circle, it is considered to cross the line.
 
 (9) Count bundles of fibers as one fiber unless individual fibers can be clearly identified and each individual fiber is clearly not connected to another counted fiber. See Figure 1 for counting conventions.
 
@@ -1369,7 +1369,7 @@ When ordering the Graticule for asbestos counting, specify the exact disc diamet
 
 Measure the field diameter, D (acceptable range: 100 ±2 µm) with a stage micrometer upon receipt of the graticule from the manufacturer. Determine the field area (mm2).
 
-Field Area = †(D/2)2If D = 100 µm = 0.1 mm, thenField Area = †(0.1 mm/2)2 = 0.00785 mm2
+Field Area = †(D/2) 2If D = 100 µm = 0.1 mm, thenField Area = †(0.1 mm/2) 2 = 0.00785 mm 2
 
 The Graticule is available from: Graticules Ltd., Morley Road, Tonbridge TN9 IRN, Kent, England (Telephone 011-44-732-359061). Also available from PTR Optics Ltd., 145 Newton Street, Waltham, MA 02154 [telephone (617) 891-6000] or McCrone Accessories and Components, 2506 S. Michigan Ave., Chicago, IL 60616 [phone (312)-842-7100]. The graticule is custom made for each microscope.
 

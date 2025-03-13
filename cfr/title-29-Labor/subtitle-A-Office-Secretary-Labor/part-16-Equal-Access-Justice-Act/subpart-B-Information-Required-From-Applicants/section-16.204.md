@@ -12,4 +12,4 @@
 
 (4) Issuance of a final order or any other final resolution of a proceeding, such as a settlement or voluntary dismissal, which is not subject to a petition for reconsideration, or, in the case of an abatement, the end of the abatement period or the date on which an order is issued terminating the abatement period.
 
-(Approved by the Office of Management and Budget under control number 1225-0013)[46 FR 63021, Dec. 29, 1981, as amended at 47 FR 14696, Apr. 6, 1982]
+(Approved by the Office of Management and Budget under control number 1225-0013) [46 FR 63021, Dec. 29, 1981, as amended at 47 FR 14696, Apr. 6, 1982]

@@ -16,7 +16,7 @@
 
 (6) The use of hoses for hoisting or lowering tools shall not be permitted.
 
-(7) All hoses exceeding1/2-inch inside diameter shall have a safety device at the source of supply or branch line to reduce pressure in case of hose failure.
+(7) All hoses exceeding 1/2-inch inside diameter shall have a safety device at the source of supply or branch line to reduce pressure in case of hose failure.
 
 (8) Airless spray guns of the type which atomize paints and fluids at high pressures (1,000 pounds or more per square inch) shall be equipped with automatic or visible manual safety devices which will prevent pulling of the trigger to prevent release of the paint or fluid until the safety device is manually released.
 

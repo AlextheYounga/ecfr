@@ -68,6 +68,6 @@
 
 *Shipyard firefighting*—the activity of rescue, fire suppression, and property conservation involving buildings, enclosed structures, vehicles, vessels, aircraft, or similar properties involved in a fire or emergency situation.
 
-*Small hose system*—a system of hoses ranging in diameter from5/8″ (1.6 cm) up to 11/2″ (3.8 cm) which is for the use of employees and which provides a means for the control and extinguishment of incipient stage fires.
+*Small hose system*—a system of hoses ranging in diameter from 5/8″ (1.6 cm) up to 11/2″ (3.8 cm) which is for the use of employees and which provides a means for the control and extinguishment of incipient stage fires.
 
 *Standpipe*—a fixed fire protection system consisting of piping and hose connections used to supply water to approved hose lines or sprinkler systems. The hose may or may not be connected to the system.

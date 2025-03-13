@@ -56,7 +56,7 @@
 
 (B) The condition of the box is sound;
 
-(C) The speed of hoisting and lowering is moderated when heavily ladened containers5 are encountered;
+(C) The speed of hoisting and lowering is moderated when heavily ladened containers 5 are encountered;
 
 5 A heavily laden container is one that is loaded to within 20 percent of its rated capacity.
 
@@ -82,7 +82,7 @@
 
 (i) *Portable ladder access.* When other safer means are available, portable ladders shall not be used in gaining access to container stacks more than two containers high.
 
-(j) *Fall protection*—(1) *Containers being handled by container gantry cranes.* (i) After July 26, 1999, where a container gantry crane is being used to handle containers, the employer shall ensure that no employee is on top of a container. Exception: An employee may be on top of a container only to perform a necessary function that cannot be eliminated by the use of positive container securing devices.6
+(j) *Fall protection*—(1) *Containers being handled by container gantry cranes.* (i) After July 26, 1999, where a container gantry crane is being used to handle containers, the employer shall ensure that no employee is on top of a container. Exception: An employee may be on top of a container only to perform a necessary function that cannot be eliminated by the use of positive container securing devices. 6
 
 6 Examples of work that may not be eliminated by positive container securing devices and that may require employees to work on top of containers include, but are not limited to: installing or removing bridge clamps; hooking up or detaching over-height containers; or freeing a jammed semi-automatic twist lock.
 
@@ -106,7 +106,7 @@
 
 (5) Each component of a fall protection system shall be designed and used to prevent accidental disengagement.
 
-(6) Each fall protection system's fixed anchorages shall be capable of sustaining a force of 5,000 pounds (22.2 kN) or be certified as capable of sustaining at least twice the potential impact load of an employee's fall. Such certification must be made by a qualified person.7 When more than one employee is attached to an anchorage, these limits shall be multiplied by the number of employees attached.
+(6) Each fall protection system's fixed anchorages shall be capable of sustaining a force of 5,000 pounds (22.2 kN) or be certified as capable of sustaining at least twice the potential impact load of an employee's fall. Such certification must be made by a qualified person. 7 When more than one employee is attached to an anchorage, these limits shall be multiplied by the number of employees attached.
 
 7 For the purposes of this paragraph, qualified person means one with a recognized degree or professional certificate and extensive knowledge and experience in the subject field who is capable of design, analysis, evaluation and specifications in the subject work, project, or product.
 
@@ -118,7 +118,7 @@
 
 (iii) A visible or audible indicator shall be present to alert the exposed employee(s) when the remote shut-off is operational.
 
-(8) Fall protection system components, other than the anchorages, shall be certified as a unit of being capable of sustaining at least twice the potential impact load of an employee's fall. Such certification shall be made by a qualified person.8
+(8) Fall protection system components, other than the anchorages, shall be certified as a unit of being capable of sustaining at least twice the potential impact load of an employee's fall. Such certification shall be made by a qualified person. 8
 
 8 For the purposes of this paragraph, qualified person means one with a recognized degree or professional certificate and extensive knowledge and experience in the subject field who is capable of design, analysis, evaluation and specifications in the subject work, project, or product.
 

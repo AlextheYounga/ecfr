@@ -1,6 +1,6 @@
 ##### § 452.5 Effect of violation on outcome. #####
 
-Since the remedy under section 402 is contingent upon a finding by the court, among other things, that the violation “may have affected the outcome of an election”5 the Secretary as a matter of policy will not file suit to enforce the election provisions unless the violations found are such that the outcome may have been affected.6
+Since the remedy under section 402 is contingent upon a finding by the court, among other things, that the violation “may have affected the outcome of an election” 5 the Secretary as a matter of policy will not file suit to enforce the election provisions unless the violations found are such that the outcome may have been affected. 6
 
 5 Act, sec. 402(b) (29 U.S.C. 482).
 

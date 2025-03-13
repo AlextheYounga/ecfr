@@ -60,7 +60,7 @@ DANGERFORMALDEHYDEMAY CAUSE CANCERCAUSES SKIN, EYE, AND RESPIRATORY IRRITATIONAU
 
 (ii) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (e)(1)(i) of this section:
 
-DANGERFORMALDEHYDEIRRITANT AND POTENTIAL CANCER HAZARDAUTHORIZED PERSONNEL ONLY
+DANGER FORMALDEHYDE IRRITANT AND POTENTIAL CANCER HAZARD AUTHORIZED PERSONNEL ONLY
 
 (2) The employer shall limit access to regulated areas to authorized persons who have been trained to recognize the hazards of formaldehyde.
 
@@ -122,11 +122,11 @@ DANGERFORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENTMAY CAUSE CANCERCAUSES SKIN,
 
 (C) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (h)(2)(ii)(A) of this section:
 
-DANGERFORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENTAVOID INHALATION AND SKIN CONTACT
+DANGER FORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENT AVOID INHALATION AND SKIN CONTACT
 
 (D) Prior to June 1, 2015, employers may include the following information on containers of protective clothing and equipment in lieu of the labeling requirements in paragraphs (h)(2)(ii)(B) of this section:
 
-DANGERFORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENTAVOID INHALATION AND SKIN CONTACT
+DANGER FORMALDEHYDE-CONTAMINATED [CLOTHING] EQUIPMENT AVOID INHALATION AND SKIN CONTACT
 
 (iii) The employer shall assure that only persons trained to recognize the hazards of formaldehyde remove the contaminated material from the storage area for purposes of cleaning, laundering, or disposal.
 
@@ -642,7 +642,7 @@ The reliable quantitation limit and detection limits reported in the method are 
 
 2.1.1 Samples are collected by use of a personal sampling pump that can be calibrated to within ±5% of the recommended 0.1 L/min sampling rate with the sampling tube in line.
 
-2.1.2 Samples are collected with laboratory prepared sampling tubes. The sampling tube is constructed of silane treated glass and is about 8-cm long. The ID is 4 mm and the OD is 6 mm. One end of the tube is tapered so that a glass wool end plug will hold the contents of the tube in place during sampling. The other end of the sampling tube is open to its full 4-mm ID to facilitate packing of the tube. Both ends of the tube are fire-polished for safety. The tube is packed with a 75-mg backup section, located nearest the tapered end and a 150-mg sampling section of pretreated XAD-2 adsorbent which has been coated with 2-HMP. The two sections of coated adsorbent are separated and retained with small plugs of silanized glass wool. Following packing, the sampling tubes are sealed with two7/32 inch OD plastic end caps. Instructions for the pretreatment and the coating of XAD-2 adsorbent are presented in Section 4 of this method.
+2.1.2 Samples are collected with laboratory prepared sampling tubes. The sampling tube is constructed of silane treated glass and is about 8-cm long. The ID is 4 mm and the OD is 6 mm. One end of the tube is tapered so that a glass wool end plug will hold the contents of the tube in place during sampling. The other end of the sampling tube is open to its full 4-mm ID to facilitate packing of the tube. Both ends of the tube are fire-polished for safety. The tube is packed with a 75-mg backup section, located nearest the tapered end and a 150-mg sampling section of pretreated XAD-2 adsorbent which has been coated with 2-HMP. The two sections of coated adsorbent are separated and retained with small plugs of silanized glass wool. Following packing, the sampling tubes are sealed with two 7/32 inch OD plastic end caps. Instructions for the pretreatment and the coating of XAD-2 adsorbent are presented in Section 4 of this method.
 
 2.1.3 Sampling tubes, similar to those recommended in this method, are marketed by Supelco, Inc. These tubes were not available when this work was initiated; therefore, they were not evaluated.
 
@@ -692,7 +692,7 @@ The reliable quantitation limit and detection limits reported in the method are 
 
 3.1.1 A gas chromatograph (GC), equipped with a nitrogen selective detector. A Hewlett-Packard Model 5840A GC fitted with a nitrogen-phosphorus flame ionization detector (NPD) was used for this evaluation. Injections were performed using a Hewlett-Packard Model 7671A automatic sampler.
 
-3.1.2 A GC column capable of resolving the analytes from any interference. A 6 ft ×1/4 in OD (2mm ID) glass GC column containing 10% UCON 50-HB-5100 + 2% KOH on 80/100 mesh Chromosorb W-AW was used for the evaluation. Injections were performed on-column.
+3.1.2 A GC column capable of resolving the analytes from any interference. A 6 ft × 1/4 in OD (2mm ID) glass GC column containing 10% UCON 50-HB-5100 + 2% KOH on 80/100 mesh Chromosorb W-AW was used for the evaluation. Injections were performed on-column.
 
 3.1.3 Vials, glass 2-mL with Teflon-lined caps.
 
@@ -738,7 +738,7 @@ The reliable quantitation limit and detection limits reported in the method are 
 
 3.5.1 GC *Conditions*
 
-*Column Temperature:*Bi-level temperature program—First level: 100 to 140 °C at 4 °C/min following completion of the first level.Second level: 140 to 180 °C at 20 °C/min following completion of the first level.Isothermal period: Hold column at 180 °C until the recorder pen returns to baseline (usually about 25 min after injection).*Injector temperature:* 180 °C*Helium flow rate:* 30 mL/min (detector response will be reduced if nitrogen is substituted for helium carrier gas).*Injection volume:* 0.8 µL*GC column:* Six-ft ×1/4-in OD (2 mm ID) glass GC column containing 10% UCON 50-HB-5100 + 2% KOH on 80/100 Chromosorb W-AW.
+*Column Temperature:*Bi-level temperature program—First level: 100 to 140 °C at 4 °C/min following completion of the first level.Second level: 140 to 180 °C at 20 °C/min following completion of the first level.Isothermal period: Hold column at 180 °C until the recorder pen returns to baseline (usually about 25 min after injection).*Injector temperature:* 180 °C*Helium flow rate:* 30 mL/min (detector response will be reduced if nitrogen is substituted for helium carrier gas).*Injection volume:* 0.8 µL*GC column:* Six-ft × 1/4-in OD (2 mm ID) glass GC column containing 10% UCON 50-HB-5100 + 2% KOH on 80/100 Chromosorb W-AW.
 
 *NPD conditions:*
 

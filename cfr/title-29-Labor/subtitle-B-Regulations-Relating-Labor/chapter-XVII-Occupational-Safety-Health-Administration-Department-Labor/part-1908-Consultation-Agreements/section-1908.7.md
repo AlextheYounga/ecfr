@@ -44,4 +44,4 @@
 
 (4) If, however, the employer chooses to provide a copy of the consultant's report to a compliance officer, it may be used as a factor in determining the extent to which an inspection is required and as a factor in determining proposed penalties. When, during the course of a compliance inspection, an OSHA compliance officer identifies the existence of serious hazards previously identified as a result of a consultative visit, the Area Director shall have authority to assess minimum penalties if the employer is in good faith complying with the recommendations of a consultant after such consultative visit.
 
-(Approved by the Office of Management and Budget under control number 1218-0110)[49 FR 25094, June 19, 1984, as amended at 54 FR 24333, June 7, 1989; 65 FR 64292, Oct. 26, 2000]
+(Approved by the Office of Management and Budget under control number 1218-0110) [49 FR 25094, June 19, 1984, as amended at 54 FR 24333, June 7, 1989; 65 FR 64292, Oct. 26, 2000]

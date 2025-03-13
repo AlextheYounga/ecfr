@@ -66,7 +66,7 @@
 
 (ii) For mounted wheels 2 inches (5 cm) and smaller in diameter used in portable operations.
 
-(4) Work rests shall be used on fixed grinding machines. Work rests shall be rigidly constructed and adjustable for wheel wear. They shall be adjusted closely to the wheel with a maximum opening of1/8-inch (3.18 mm) and shall be securely clamped. Adjustment shall not be made while the wheel is in motion.
+(4) Work rests shall be used on fixed grinding machines. Work rests shall be rigidly constructed and adjustable for wheel wear. They shall be adjusted closely to the wheel with a maximum opening of 1/8-inch (3.18 mm) and shall be securely clamped. Adjustment shall not be made while the wheel is in motion.
 
 (5) Grinding wheels shall fit freely on the spindle. The spindle nut shall be tightened only enough to hold the wheel in place.
 

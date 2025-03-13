@@ -104,7 +104,7 @@
 
 (iii) *Class III standpipe system* means a combined system of hose which is for the use of employees trained in the use of hose operations and which is capable of furnishing effective water discharge during the more advanced stages of fire (beyond the incipient stage) in the interior of workplaces. Hose outlets are available for both 11/2″ (3.8 cm) and 21/2″ (6.3 cm) hose.
 
-(iv) *Small hose system* means a system of hose ranging in diameter from5/8″ (1.6 cm up to 11/2″ (3.8 cm) which is for the use of employees and which provides a means for the control and extinguishment of incipient stage fires.
+(iv) *Small hose system* means a system of hose ranging in diameter from 5/8″ (1.6 cm up to 11/2″ (3.8 cm) which is for the use of employees and which provides a means for the control and extinguishment of incipient stage fires.
 
 (40) *Total flooding system* means a fixed suppression system which is arranged to automatically discharge a predetermined concentration of agent into an enclosed space for the purpose of fire extinguishment or control.
 

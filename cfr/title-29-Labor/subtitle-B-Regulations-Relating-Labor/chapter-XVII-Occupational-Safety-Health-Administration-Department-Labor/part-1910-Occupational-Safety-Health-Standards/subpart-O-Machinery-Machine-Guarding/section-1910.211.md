@@ -75,7 +75,7 @@ Surface Feet Per Minute = 3.1416 × diameter in inches × r.p.m. ÷ 12 or .262 �
 |Larger than 12 inches to 23 inches|         3/8         |
 |      Larger than 23 inches       |         1/2         |
 
-(ii) Maximum hole size for cutting-off wheels should not be larger than1/4-wheel diameter.
+(ii) Maximum hole size for cutting-off wheels should not be larger than 1/4-wheel diameter.
 
 (14) *Abrasive wheel* means a cutting tool consisting of abrasive grains held together by organic or inorganic bonds. Diamond and reinforced wheels are included.
 

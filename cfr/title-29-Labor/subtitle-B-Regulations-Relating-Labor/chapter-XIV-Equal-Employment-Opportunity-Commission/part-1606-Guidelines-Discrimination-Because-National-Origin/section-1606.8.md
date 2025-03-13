@@ -1,6 +1,6 @@
 ##### § 1606.8 Harassment. #####
 
-(a) The Commission has consistently held that harassment on the basis of national origin is a violation of title VII. An employer has an affirmative duty to maintain a working environment free of harassment on the basis of national origin.8
+(a) The Commission has consistently held that harassment on the basis of national origin is a violation of title VII. An employer has an affirmative duty to maintain a working environment free of harassment on the basis of national origin. 8
 
 8 See CD CL68-12-431 EU (1969), CCH EEOC Decisions ¶ 6085, 2 FEP Cases 295; CD 72-0621 (1971), CCH EEOC Decisions ¶ 6311, 4 FEP Cases 312; CD 72-1561 (1972), CCH EEOC Decisions ¶ 6354, 4 FEP Cases 852; CD 74-05 (1973), CCH EEOC Decisions ¶ 6387, 6 FEP Cases 834; CD 76-41 (1975), CCH EEOC Decisions ¶ 6632. See also, Amendment to *Guidelines on Discrimination Because of Sex,* § 1604.11(a) n. 1, 45 FR 7476 sy 74677 (November 10, 1980).
 

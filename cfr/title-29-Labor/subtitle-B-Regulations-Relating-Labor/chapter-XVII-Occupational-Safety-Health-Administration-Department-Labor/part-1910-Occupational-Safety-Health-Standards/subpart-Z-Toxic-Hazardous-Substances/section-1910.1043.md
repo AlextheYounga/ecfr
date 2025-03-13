@@ -216,7 +216,7 @@ DANGERCOTTON DUSTCAUSES DAMAGE TO LUNGS(BYSSINOSIS)WEAR RESPIRATORY PROTECTION I
 
 (2) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (j)(1) of this section:
 
-WARNINGCOTTON DUST WORK AREAMAY CAUSE ACUTE OR DELAYEDLUNG INJURY(BYSSINOSIS)RESPIRATORSREQUIRED IN THIS AREA
+WARNING COTTON DUST WORK AREA MAY CAUSE ACUTE OR DELAYED LUNG INJURY (BYSSINOSIS) RESPIRATORS REQUIRED IN THIS AREA
 
 (k) *Recordkeeping*—(1) *Exposure measurements.* (i) The employer shall establish and maintain an accurate record of all measurements required by paragraph (d) of this section.
 

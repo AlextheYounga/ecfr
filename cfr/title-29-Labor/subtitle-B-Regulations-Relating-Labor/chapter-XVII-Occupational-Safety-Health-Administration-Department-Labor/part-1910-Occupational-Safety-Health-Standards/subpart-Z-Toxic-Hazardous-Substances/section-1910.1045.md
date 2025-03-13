@@ -234,13 +234,13 @@ DANGERACRYLONITRILE (AN)MAY CAUSE CANCERRESPIRATORY PROTECTION MAY BE REQURED IN
 
 (iii) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (p)(2)(i) of this section:
 
-DANGERACRYLONITRILE (AN)CANCER HAZARDAUTHORIZED PERSONNEL ONLYRESPIRATORS MAY BE REQUIRED
+DANGER ACRYLONITRILE (AN) CANCER HAZARD AUTHORIZED PERSONNEL ONLY RESPIRATORS MAY BE REQUIRED
 
 (3) *Labels.* (i) The employer shall ensure that precautionary labels are in compliance with paragraph (p)(1)(i) of this section and are affixed to all containers of liquid AN and AN-based materials not exempted under paragraph (a)(2) of this section. The employer shall ensure that the labels remain affixed when the materials are sold, distributed, or otherwise leave the employer's workplace.
 
 (ii) Prior to June 1, 2015, employers may include the following information on precautionary labels required by this paragraph (p)(3) in lieu of the labeling requirements in paragraph (p)(1) of this section:
 
-DANGERCONTAINS ACRYLONITRILE (AN)CANCER HAZARD
+DANGER CONTAINS ACRYLONITRILE (AN) CANCER HAZARD
 
 (iii) The employer shall ensure that the precautionary labels required by this paragraph (p)(3) are readily visible and legible.
 
@@ -632,7 +632,7 @@ The method can also be used for the simultaneous analysis of two or more substan
 
 6.3 Gas chromatograph equipped with a flame ionization detector.
 
-6.4 Column (4-ft ×1/4-in stainless steel) packed with 50/80 mesh Poropak, type Q.
+6.4 Column (4-ft × 1/4-in stainless steel) packed with 50/80 mesh Poropak, type Q.
 
 6.5 An electronic integrator or some other suitable method for measuring peak areas.
 
@@ -776,7 +776,7 @@ The NIOSH recommended method for low levels for acrylonitrile is a modification 
 
 (2) The analytical column and conditions are:
 
-Column: 20 percent SP-1000 on 80/100 Supelcoport 10 feet ×1/8 inch S.S.
+Column: 20 percent SP-1000 on 80/100 Supelcoport 10 feet × 1/8 inch S.S.
 
 Conditions:Injector temperature: 200 °C.Detector temperature: 100 °C.Column temperature: 85 °C.Helium flow: 25 ml/min.Air flow: 450 ml/min.Hydrogen flow: 55 ml/min.
 

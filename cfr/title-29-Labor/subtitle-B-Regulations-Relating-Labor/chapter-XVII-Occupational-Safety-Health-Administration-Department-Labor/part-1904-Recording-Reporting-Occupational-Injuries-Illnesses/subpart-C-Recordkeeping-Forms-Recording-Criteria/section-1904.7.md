@@ -84,7 +84,7 @@
 
 (C) Cleaning, flushing or soaking wounds on the surface of the skin;
 
-(D) Using wound coverings such as bandages, Band-AidsTM, gauze pads, etc.; or using butterfly bandages or Steri-StripsTM (other wound closing devices such as sutures, staples, etc., are considered medical treatment);
+(D) Using wound coverings such as bandages, Band-Aids TM, gauze pads, etc.; or using butterfly bandages or Steri-Strips TM (other wound closing devices such as sutures, staples, etc., are considered medical treatment);
 
 (E) Using hot or cold therapy;
 

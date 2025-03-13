@@ -1126,7 +1126,7 @@ A.4.2.1.2.5 The results of positive bronchial challenge tests are considered to 
 
 A.4.2.1.3 Animal studies
 
-A.4.2.1.2.3 Data from appropriate animal studies2 which may be indicative of the potential of a substance to cause sensitization by inhalation in humans3 may include:
+A.4.2.1.2.3 Data from appropriate animal studies 2 which may be indicative of the potential of a substance to cause sensitization by inhalation in humans 3 may include:
 
 2 At this writing, recognized and validated animal models for the testing of respiratory hypersensitivity are not available. Under certain circumstances, data from animal studies may provide valuable information in a weight of evidence assessment.
 
@@ -1285,7 +1285,7 @@ A.5.2.2.3 Classification for heritable effects in human germ cells is made on th
 
 A.5.2.2.4 The classification of substances shall be based on the total weight of evidence available, using expert judgment. In those instances where a single well-conducted test is used for classification, it shall provide clear and unambiguously positive results. The relevance of the route of exposure used in the study of the substance compared to the route of human exposure should also be taken into account.
 
-A.5.3 Classification Criteria for Mixtures5
+A.5.3 Classification Criteria for Mixtures 5
 
 5*It should be noted that the classification criteria for health hazards usually include a tiered scheme in which test data available on the complete mixture are considered as the first tier in the evaluation, followed by the applicable bridging principles, and lastly, cut-off values/concentration limits or additivity. However, this approach is not used for Germ Cell Mutagenicity. These criteria for Germ Cell Mutagenicity consider the cut-off values/concentration limits as the primary tier and allow the classification to be modified only on a case-by-case evaluation based on available test data for the mixture as a whole.*
 
@@ -1362,7 +1362,7 @@ A.6 CarcinogenicityA.6.1 Definitions
 
 Classification of a substance or mixture as posing a carcinogenic hazard is based on its inherent properties and does not provide information on the level of the human cancer risk which the use of the substance or mixture may represent.
 
-A.6.2 Classification Criteria for Substances6
+A.6.2 Classification Criteria for Substances 6
 
 6*See Non-mandatory appendix F of this section, part A for further guidance regarding hazard classification for carcinogenicity. This appendix is consistent with the GHS and is provided as guidance excerpted from the International Agency for Research on Cancer (IARC) “Monographs on the Evaluation of Carcinogenic Risks to Humans” (2006).*
 
@@ -1416,7 +1416,7 @@ A.6.2.5.4 The classification should also take into consideration whether or not 
 
 A.6.2.5.5 It is important that whatever is known of the physico-chemical, toxicokinetic and toxicodynamic properties of the substances, as well as any available relevant information on chemical analogues, *i.e.,* structure activity relationship, is taken into consideration when undertaking classification.
 
-A.6.3 Classification Criteria for Mixtures7
+A.6.3 Classification Criteria for Mixtures 7
 
 7*It should be noted that the classification criteria for health hazards usually include a tiered scheme in which test data available on the complete mixture are considered as the first tier i the evaluation, followed by the applicable bridging principles, and lastly, cut-off values/concentration limit or addivity. However, this approach is not used for Carcinogenicity. These criteria for Carcinogenicity consider the cut-off values/concentration limits as the primary tier and allow the classification to be modified only on a case-by-case evaluation based on available test data for the mixture as a whole.*
 
@@ -1436,7 +1436,7 @@ A.6.3.3 Classification of mixtures when data are not available for the complete 
 
 Where the mixture itself has not been tested to determine its carcinogenic hazard, but there are sufficient data on both the individual ingredients and similar tested mixtures to adequately characterize the hazards of the mixture, these data will be used in accordance with the following bridging principles as found in paragraph A.0.5 of this Appendix: Dilution; Batching; and Substantially similar mixtures.
 
-A.6.4 Classification of Carcinogenicity8
+A.6.4 Classification of Carcinogenicity 8
 
 8*See Non-mandatory appendix f of this section for further guidance regarding hazard classification for carcinogenicity and how to relate carcinogenicity classification information from IARC and NTP to GHS.*
 
@@ -1536,7 +1536,7 @@ A.7.2.5.8 In principle, adverse effects on reproduction seen only at very high d
 
 A.7.2.5.9 However, specification of the actual “limit dose” will depend upon the test method that has been employed to provide the test results.
 
-A.7.3 Classification Criteria for Mixtures9
+A.7.3 Classification Criteria for Mixtures 9
 
 9 It should be noted that the classification criteria for health hazards usually include a tiered scheme in which test data available on the complete mixture are considered as the first tier in the evaluation, followed by the applicable bridging principles, and lastly, cut-off values/concentration limits or additivity. However, this approach is not used for Reproductive Toxicity. These criteria for Reproductive Toxicity consider the cut-off values/concentration limits as the primary tier and allow the classification to be modified only on a case-by-case evaluation based on available test data for the mixture as a whole.
 
@@ -2531,7 +2531,7 @@ The specimen to be used for the test shall be made of the following materials:
 
 B.17 Desensitized ExplosivesB.17.1 Definitions and General Considerations
 
-*Desensitized explosives* are solid or liquid explosive chemicals which are phlegmatized10 to suppress their explosive properties in such a manner that they do not mass explode and do not burn too rapidly and therefore may be exempted from the hazard class “Explosives” (Chapter B.1; *see* also Note 2 of paragraph B.1.3).11
+*Desensitized explosives* are solid or liquid explosive chemicals which are phlegmatized 10 to suppress their explosive properties in such a manner that they do not mass explode and do not burn too rapidly and therefore may be exempted from the hazard class “Explosives” (Chapter B.1; *see* also Note 2 of paragraph B.1.3).11
 
 10 Phlegmatized means that a substance (or “phlegmatizer”) has been added to an explosive to enhance its safety in handling and transport. The phlegmatizer renders the explosive insensitive, or less sensitive, to the following actions: heat, shock, impact, percussion or friction. Typical phlegmatizing agents include, but are not limited to: wax, paper, water, polymers (such as chlorofluoropolymers), alcohol and oils (such as petroleum jelly and paraffin).
 
@@ -2670,7 +2670,7 @@ C.3.2 Where the chemical manufacturer, importer, or distributor chooses to add s
 
 C.3.3 Where an ingredient with unknown acute toxicity is used in a mixture at a concentration ≥1%, and the mixture is not classified based on testing of the mixture as a whole, a statement that X% of the mixture consists of ingredient(s) of unknown acute toxicity (oral/dermal/inhalation) is required on the label and safety data sheet.
 
-C.4 Requirements for Signal Words, Hazard Statements, Pictograms, and Precautionary Statements![](/graphics/er09oc24.009.gif)![](/graphics/er09oc24.010.gif)![](/graphics/er09oc24.011.gif)![](/graphics/er09oc24.012.gif)![](/graphics/er20my24.234.gif)![](/graphics/er20my24.235.gif)![](/graphics/er20my24.236.gif)![](/graphics/er20my24.237.gif)![](/graphics/er20my24.238.gif)![](/graphics/er20my24.239.gif)![](/graphics/er20my24.240.gif)![](/graphics/er20my24.241.gif)![](/graphics/er20my24.242.gif)![](/graphics/er20my24.243.gif)![](/graphics/er20my24.244.gif)![](/graphics/er20my24.245.gif)![](/graphics/er20my24.246.gif)![](/graphics/er20my24.247.gif)![](/graphics/er20my24.248.gif)![](/graphics/er20my24.249.gif)![](/graphics/er20my24.250.gif)![](/graphics/er20my24.251.gif)![](/graphics/er20my24.252.gif)![](/graphics/er20my24.253.gif)![](/graphics/er20my24.254.gif)![](/graphics/er20my24.255.gif)![](/graphics/er20my24.256.gif)![](/graphics/er20my24.257.gif)![](/graphics/er20my24.258.gif)![](/graphics/er20my24.259.gif)![](/graphics/er20my24.260.gif)![](/graphics/er20my24.261.gif)![](/graphics/er20my24.262.gif)![](/graphics/er20my24.263.gif)![](/graphics/er20my24.264.gif)![](/graphics/er20my24.265.gif)![](/graphics/er20my24.266.gif)![](/graphics/er20my24.267.gif)![](/graphics/er20my24.268.gif)![](/graphics/er20my24.269.gif)![](/graphics/er20my24.270.gif)![](/graphics/er20my24.271.gif)![](/graphics/er20my24.272.gif)![](/graphics/er20my24.273.gif)![](/graphics/er20my24.274.gif)![](/graphics/er20my24.275.gif)![](/graphics/er20my24.276.gif)![](/graphics/er20my24.277.gif)![](/graphics/er20my24.278.gif)![](/graphics/er20my24.279.gif)![](/graphics/er20my24.280.gif)![](/graphics/er20my24.281.gif)![](/graphics/er20my24.282.gif)![](/graphics/er20my24.283.gif)![](/graphics/er20my24.284.gif)![](/graphics/er20my24.285.gif)![](/graphics/er20my24.286.gif)![](/graphics/er20my24.287.gif)![](/graphics/er20my24.288.gif)![](/graphics/er20my24.289.gif)![](/graphics/er20my24.290.gif)![](/graphics/er20my24.291.gif)![](/graphics/er20my24.292.gif)![](/graphics/er20my24.293.gif)![](/graphics/er20my24.294.gif)![](/graphics/er20my24.295.gif)![](/graphics/er20my24.296.gif)Appendix D to § 1910.1200—Safety Data Sheets (Mandatory)
+C.4 Requirements for Signal Words, Hazard Statements, Pictograms, and Precautionary Statements ![](/graphics/er09oc24.009.gif)![](/graphics/er09oc24.010.gif)![](/graphics/er09oc24.011.gif)![](/graphics/er09oc24.012.gif)![](/graphics/er20my24.234.gif)![](/graphics/er20my24.235.gif)![](/graphics/er20my24.236.gif)![](/graphics/er20my24.237.gif)![](/graphics/er20my24.238.gif)![](/graphics/er20my24.239.gif)![](/graphics/er20my24.240.gif)![](/graphics/er20my24.241.gif)![](/graphics/er20my24.242.gif)![](/graphics/er20my24.243.gif)![](/graphics/er20my24.244.gif)![](/graphics/er20my24.245.gif)![](/graphics/er20my24.246.gif)![](/graphics/er20my24.247.gif)![](/graphics/er20my24.248.gif)![](/graphics/er20my24.249.gif)![](/graphics/er20my24.250.gif)![](/graphics/er20my24.251.gif)![](/graphics/er20my24.252.gif)![](/graphics/er20my24.253.gif)![](/graphics/er20my24.254.gif)![](/graphics/er20my24.255.gif)![](/graphics/er20my24.256.gif)![](/graphics/er20my24.257.gif)![](/graphics/er20my24.258.gif)![](/graphics/er20my24.259.gif)![](/graphics/er20my24.260.gif)![](/graphics/er20my24.261.gif)![](/graphics/er20my24.262.gif)![](/graphics/er20my24.263.gif)![](/graphics/er20my24.264.gif)![](/graphics/er20my24.265.gif)![](/graphics/er20my24.266.gif)![](/graphics/er20my24.267.gif)![](/graphics/er20my24.268.gif)![](/graphics/er20my24.269.gif)![](/graphics/er20my24.270.gif)![](/graphics/er20my24.271.gif)![](/graphics/er20my24.272.gif)![](/graphics/er20my24.273.gif)![](/graphics/er20my24.274.gif)![](/graphics/er20my24.275.gif)![](/graphics/er20my24.276.gif)![](/graphics/er20my24.277.gif)![](/graphics/er20my24.278.gif)![](/graphics/er20my24.279.gif)![](/graphics/er20my24.280.gif)![](/graphics/er20my24.281.gif)![](/graphics/er20my24.282.gif)![](/graphics/er20my24.283.gif)![](/graphics/er20my24.284.gif)![](/graphics/er20my24.285.gif)![](/graphics/er20my24.286.gif)![](/graphics/er20my24.287.gif)![](/graphics/er20my24.288.gif)![](/graphics/er20my24.289.gif)![](/graphics/er20my24.290.gif)![](/graphics/er20my24.291.gif)![](/graphics/er20my24.292.gif)![](/graphics/er20my24.293.gif)![](/graphics/er20my24.294.gif)![](/graphics/er20my24.295.gif)![](/graphics/er20my24.296.gif)Appendix D to § 1910.1200—Safety Data Sheets (Mandatory)
 
 A safety data sheet (SDS) shall include the information specified in Table D.1 under the section number and heading indicated for sections 1-11 and 16. While each section of the SDS must contain all of the specified information, preparers of safety data sheets are not required to present the information in any particular order within each section. If no relevant information is found for any given subheading within a section, the SDS shall clearly indicate that no applicable information is available. Sections 12-15 may be included in the SDS, but are not mandatory.
 
@@ -2777,7 +2777,7 @@ Appendix F to § 1910.1200—Guidance for Hazard Classifications Re: Carcinogeni
 
 The mandatory criteria for classification of a chemical for carcinogenicity under HCS (§ 1910.1200) are found in Appendix A.6 to this section. This non-mandatory Appendix provides additional guidance on hazard classification for carcinogenicity. Part A of Appendix F includes background guidance provided by GHS based on the Preamble of the International Agency for Research on Cancer (IARC) “Monographs on the Evaluation of Carcinogenic Risks to Humans” (2006). Part B provides IARC classification information. Part C provides background guidance from the National Toxicology Program (NTP) “Report on Carcinogens” (RoC), and Part D is a table that compares GHS carcinogen hazard categories to carcinogen classifications under IARC and NTP, allowing classifiers to be able to use information from IARC and NTP RoC carcinogen classifications to complete their classifications under the GHS, and thus the HCS.
 
-Part A: Background Guidance1
+Part A: Background Guidance 1
 
 1*The text of Appendix F, Part A, on the IARC Monographs, is paraphrased from the 2006 Preamble to the “Monographs on the Evaluation of Carcinogenic Risks to Humans”; the Classifier is referred to the full IARC Preamble for the complete text. The text is not part of the agreed GHS text on the harmonized system developed by the OECD Task Force-HCL.*
 
@@ -2829,11 +2829,11 @@ Tumor Type, Reduced Tumor Latency
 
 Unusual tumor types or tumors occurring with reduced latency may add to the weight of evidence for the carcinogenic potential of a substance, even if the tumors are not statistically significant.
 
-Toxicokinetic behavior is normally assumed to be similar in animals and humans, at least from a qualitative perspective. On the other hand, certain tumor types in animals may be associated with toxicokinetics or toxicodynamics that are unique to the animal species tested and may not be predictive of carcinogenicity in humans. Very few such examples have been agreed internationally. However, one example is the lack of human relevance of kidney tumors in male rats associated with compounds causing α2u-globulin nephropathy (IARC, Scientific Publication N° 1472). Even when a particular tumor type may be discounted, expert judgment must be used in assessing the total tumor profile in any animal experiment.
+Toxicokinetic behavior is normally assumed to be similar in animals and humans, at least from a qualitative perspective. On the other hand, certain tumor types in animals may be associated with toxicokinetics or toxicodynamics that are unique to the animal species tested and may not be predictive of carcinogenicity in humans. Very few such examples have been agreed internationally. However, one example is the lack of human relevance of kidney tumors in male rats associated with compounds causing α2u-globulin nephropathy (IARC, Scientific Publication N° 147 2). Even when a particular tumor type may be discounted, expert judgment must be used in assessing the total tumor profile in any animal experiment.
 
 2*While most international agencies do not consider kidney tumors coincident with α2u-globulin nephropathy to be a predictor of risk in humans, this view is not universally held. (See: Doi et al., 2007).*
 
-Part B: International Agency for Research on Cancer (IARC)3
+Part B: International Agency for Research on Cancer (IARC) 3
 
 3*Preamble of the International Agency for Research on Cancer (IARC) “Monographs on the Evaluation of Carcinogenic Risks to Humans” (2006).*
 
@@ -2855,13 +2855,13 @@ Group 2B: The agent is *possibly carcinogenic to humans.*
 
 This category is used for agents for which there is *limited evidence of carcinogenicity* in humans and less than *sufficient evidence of carcinogenicity* in experimental animals. It may also be used when there is *inadequate evidence of carcinogenicity* in humans but there is *sufficient evidence of carcinogenicity* in experimental animals. In some instances, an agent for which there is *inadequate evidence of carcinogenicity* in humans and less than *sufficient evidence of carcinogenicity* in experimental animals together with supporting evidence from mechanistic and other relevant data may be placed in this group. An agent may be classified in this category solely on the basis of strong evidence from mechanistic and other relevant data.
 
-Part C: National Toxicology Program (NTP), “Report on Carcinogens”, Background GuidanceNTP Listing Criteria4
+Part C: National Toxicology Program (NTP), “Report on Carcinogens”, Background GuidanceNTP Listing Criteria 4
 
 4*See:**http://ntp.niehs.nih.gov/go/15209.*
 
 The criteria for listing an agent, substance, mixture, or exposure circumstance in the Report on Carcinogens (RoC) are as follows:
 
-Known To Be A Human Carcinogen: There is sufficient evidence of carcinogenicity from studies in humans5 that indicates a causal relationship between exposure to the agent, substance, or mixture, and human cancer.
+Known To Be A Human Carcinogen: There is sufficient evidence of carcinogenicity from studies in humans 5 that indicates a causal relationship between exposure to the agent, substance, or mixture, and human cancer.
 
 5*This evidence can include traditional cancer epidemiology studies, data from clinical studies, and/or data derived from the study of tissues or cells from humans exposed to the substance in question that can be useful for evaluating whether a relevant cancer mechanism is operating in people.*
 

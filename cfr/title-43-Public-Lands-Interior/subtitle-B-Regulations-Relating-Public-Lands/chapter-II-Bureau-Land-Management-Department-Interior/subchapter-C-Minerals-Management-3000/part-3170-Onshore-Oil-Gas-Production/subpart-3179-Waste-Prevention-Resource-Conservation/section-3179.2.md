@@ -1,5 +1,7 @@
 ##### § 3179.2 Scope. #####
 
+Link to an amendment published at 89 FR 92605, Nov. 22, 2024.
+
 (a) Except as provided in provided paragraph (b), this subpart applies to:
 
 (1) All onshore Federal and Indian (other than The Osage Nation) oil and gas leases, units, and communitized areas;

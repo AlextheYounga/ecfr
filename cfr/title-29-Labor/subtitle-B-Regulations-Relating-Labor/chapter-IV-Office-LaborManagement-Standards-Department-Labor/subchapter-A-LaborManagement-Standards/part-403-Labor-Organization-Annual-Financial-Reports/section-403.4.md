@@ -38,7 +38,7 @@ Each document attached contains the specific information called for in 29 CFR 40
 
 Furthermore, we certify that the terminal reports required by 29 CFR 403.4(b)(5) and 29 CFR 403.5(a) have been filed for any local labor organizations which have lost their identity through merger, consolidation, or otherwise on whose behalf a simplified annual report was filed for the last reporting period.
 
-(Format for Simplified Annual Reporting)simplified annual reportAffiliation name:Designation name and number:Unit name:Mailing address:Name of person:Number and street:City, State and zip:File number:Period covered:From ThroughNames and Titles of president and treasurer or corresponding principal officers
+(Format for Simplified Annual Reporting)simplified annual reportAffiliation name: Designation name and number: Unit name: Mailing address: Name of person: Number and street: City, State and zip: File number: Period covered: From ThroughNames and Titles of president and treasurer or corresponding principal officers
 
 For certification see NHQ file folder file number:
 

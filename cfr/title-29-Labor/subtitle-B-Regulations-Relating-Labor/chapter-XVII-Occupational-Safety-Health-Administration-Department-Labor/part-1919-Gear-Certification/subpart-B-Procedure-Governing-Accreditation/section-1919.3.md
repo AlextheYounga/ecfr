@@ -20,4 +20,4 @@
 
 (8) Any additional information the applicant deems to be pertinent.
 
-(Section 1919.3 contains a collection of information which has been approved by the Office of Management and Budget under OMB Control No. 1218-0003)[39 FR 22096, June 19, 1974, as amended at 61 FR 5509, Feb. 13, 1996]
+(Section 1919.3 contains a collection of information which has been approved by the Office of Management and Budget under OMB Control No. 1218-0003) [39 FR 22096, June 19, 1974, as amended at 61 FR 5509, Feb. 13, 1996]

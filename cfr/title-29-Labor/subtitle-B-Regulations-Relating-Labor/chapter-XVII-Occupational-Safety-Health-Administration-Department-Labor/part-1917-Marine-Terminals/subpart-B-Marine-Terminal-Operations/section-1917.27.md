@@ -10,7 +10,7 @@ OSHA is defining suddenly incapacitating medical ailments consistent with the Am
 
 (b) *Supervisory accident prevention proficiency.* (1) After October 3, 1985 immediate supervisors of cargo-handling operations of more than five (5) persons shall satisfactorily complete a course in accident prevention. Employees newly assigned to supervisory duties after that date shall be required to meet the provisions of this paragraph within ninety (90) days of such assignment.
 
-(2) The course shall consist of instruction suited to the particular operations involved.3
+(2) The course shall consist of instruction suited to the particular operations involved. 3
 
 3 The following are recommended topics: (i) Safety responsibility and authority; (ii) elements of accident prevention; (iii) attitudes, leadership and motivation; (iv) hazards of longshoring, including peculiar local circumstances; (v) hazard identification and elimination; (vi) applicable regulations; and (vii) accident investigations.
 

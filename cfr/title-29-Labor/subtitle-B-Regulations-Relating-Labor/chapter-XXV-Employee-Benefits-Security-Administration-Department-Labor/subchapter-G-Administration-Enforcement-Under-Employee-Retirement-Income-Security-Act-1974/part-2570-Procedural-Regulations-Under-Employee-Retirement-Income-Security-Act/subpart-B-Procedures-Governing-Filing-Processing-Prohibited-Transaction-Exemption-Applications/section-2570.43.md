@@ -6,7 +6,7 @@
 
 (2) A supplemental statement in the following form:
 
-You are hereby notified that the United States Department of Labor is considering granting an exemption from the prohibited transaction restrictions of the Employee Retirement Income Security Act of 1974, the Internal Revenue Code of 1986, or the Federal Employees' Retirement System Act of 1986. The exemption under consideration is summarized in the enclosed [Summary of Proposed Exemption and described in greater detail in the accompanying]1 Notice of Proposed Exemption. As a person who may be affected by this exemption, you have the right to comment on the proposed exemption by [date].2 [If you may be materially affected by the grant of the exemption, you also have the right to request a hearing on the exemption by [date].]3
+You are hereby notified that the United States Department of Labor is considering granting an exemption from the prohibited transaction restrictions of the Employee Retirement Income Security Act of 1974, the Internal Revenue Code of 1986, or the Federal Employees' Retirement System Act of 1986. The exemption under consideration is summarized in the enclosed [Summary of Proposed Exemption and described in greater detail in the accompanying] 1 Notice of Proposed Exemption. As a person who may be affected by this exemption, you have the right to comment on the proposed exemption by [date].2 [If you may be materially affected by the grant of the exemption, you also have the right to request a hearing on the exemption by [date].] 3
 
 1 To be added in instances where the Department requires the applicant to furnish a Summary of Proposed Exemption to interested persons as described in paragraph (d) of this section.
 

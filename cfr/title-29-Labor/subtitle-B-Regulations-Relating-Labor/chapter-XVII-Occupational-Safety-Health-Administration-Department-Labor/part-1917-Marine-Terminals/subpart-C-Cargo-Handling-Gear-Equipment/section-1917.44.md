@@ -1,8 +1,8 @@
-##### § 1917.44 General rules applicable to vehicles.4 #####
+##### § 1917.44 General rules applicable to vehicles. 4 #####
 
 4 The United States Coast Guard at 33 CFR 126.15(d) and (e) has additional regulations applicable to vehicles in terminals.
 
-(a) The requirements of this section apply to general vehicle use within marine terminals. *Exception:* The provisions of paragraphs (c) and (l) of this section do not apply when preempted by applicable regulations of the Department of Transportation.5
+(a) The requirements of this section apply to general vehicle use within marine terminals. *Exception:* The provisions of paragraphs (c) and (l) of this section do not apply when preempted by applicable regulations of the Department of Transportation. 5
 
 5 Department of Transportation regulations in 49 CFR part 393, Subpart C—Brakes, address the immobilization of trailer road wheels prior to disconnection of the trailer and until braking is again provided. Section 49 CFR 393.84 addresses the condition of flooring. These DOT rules apply when the motor carrier is engaged in interstate commerce or in the transport of certain hazardous items wholly within a municipality or the commercial zone thereof.
 
@@ -80,7 +80,7 @@
 
 (ix) Before assembly, wheel components shall be inspected, and damaged rim components shall not be reused.
 
-(5) *Charts and manuals.* (i) The employer shall provide a chart containing as a minimum the instructions and information provided in the United States Department of Transportation, National Highway Traffic Safety Administration (NHTSA) publication “Safety Precautions for Mounting and Demounting Tube-Type Truck/Bus Tires” and “Multi-Piece Rim Wheel Matching Chart,” and pertinent to the type(s) of multi-piece rim wheels being serviced. The chart shall be available in the terminal's service area.6
+(5) *Charts and manuals.* (i) The employer shall provide a chart containing as a minimum the instructions and information provided in the United States Department of Transportation, National Highway Traffic Safety Administration (NHTSA) publication “Safety Precautions for Mounting and Demounting Tube-Type Truck/Bus Tires” and “Multi-Piece Rim Wheel Matching Chart,” and pertinent to the type(s) of multi-piece rim wheels being serviced. The chart shall be available in the terminal's service area. 6
 
 6 NHTSA charts are available from General Services Division, National Highway Traffic Safety Administration, Attention: N48-51, 400 Seventh Street, SW., Washington, D.C. 20590. Industry charts are available upon request from the manufacturer.
 

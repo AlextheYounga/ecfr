@@ -66,7 +66,7 @@ Free fall of the load line hoist is prohibited (*see* § 1926.1426(d); the use o
 
 (5) All welding of the personnel platform and its components must be performed by a certified welder familiar with the weld grades, types and material specified in the platform design.
 
-(6) The personnel platform must be equipped with a guardrail system which meets the requirements of subpart M of this part, and must be enclosed at least from the toeboard to mid-rail with either solid construction material or expanded metal having openings no greater than1/2 inch (1.27 cm). Points to which personal fall arrest systems are attached must meet the anchorage requirements in subpart M of this part.
+(6) The personnel platform must be equipped with a guardrail system which meets the requirements of subpart M of this part, and must be enclosed at least from the toeboard to mid-rail with either solid construction material or expanded metal having openings no greater than 1/2 inch (1.27 cm). Points to which personal fall arrest systems are attached must meet the anchorage requirements in subpart M of this part.
 
 (7) A grab rail must be installed inside the entire perimeter of the personnel platform except for access gates/doors.
 
@@ -78,7 +78,7 @@ Free fall of the load line hoist is prohibited (*see* § 1926.1426(d); the use o
 
 (9) Headroom must be sufficient to allow employees to stand upright in the platform.
 
-(10) In addition to the use of hard hats, employees must be protected by overhead protection on the personnel platform when employees are exposed to falling objects. The platform overhead protection must not obscure the view of the operator or platform occupants (such as wire mesh that has up to1/2 inch openings), unless full protection is necessary.
+(10) In addition to the use of hard hats, employees must be protected by overhead protection on the personnel platform when employees are exposed to falling objects. The platform overhead protection must not obscure the view of the operator or platform occupants (such as wire mesh that has up to 1/2 inch openings), unless full protection is necessary.
 
 (11) All edges exposed to employee contact must be smooth enough to prevent injury.
 

@@ -34,25 +34,25 @@
 
 (*i*) Forming rolls and calenders.
 
-(5) *Exposure of blades.* When the periphery of the blades of a fan is less than 7 feet (2.128 m) above the floor or working level, the blades shall be guarded. The guard shall have openings no larger than1/2 inch (1.27 cm).
+(5) *Exposure of blades.* When the periphery of the blades of a fan is less than 7 feet (2.128 m) above the floor or working level, the blades shall be guarded. The guard shall have openings no larger than 1/2 inch (1.27 cm).
 
 (6) *Anchoring fixed machinery.* Machines designed for a fixed location shall be securely anchored to prevent walking or moving.
 
-(7) *Guarding of abrasive wheel machinery—exposure adjustment.* Safety guards of the types described in paragraphs (b) (8) and (9) of this section, where the operator stands in front of the opening, shall be constructed so that the peripheral protecting member can be adjusted to the constantly decreasing diameter of the wheel. The maximum angular exposure above the horizontal plane of the wheel spindle as specified in paragraphs (b) (8) and (9) of this section shall never be exceeded, and the distance between the wheel periphery and the adjustable tongue or the end of the peripheral member at the top shall never exceed1/4 inch (0.635 cm). (See Figures I-1 through I-6.)
+(7) *Guarding of abrasive wheel machinery—exposure adjustment.* Safety guards of the types described in paragraphs (b) (8) and (9) of this section, where the operator stands in front of the opening, shall be constructed so that the peripheral protecting member can be adjusted to the constantly decreasing diameter of the wheel. The maximum angular exposure above the horizontal plane of the wheel spindle as specified in paragraphs (b) (8) and (9) of this section shall never be exceeded, and the distance between the wheel periphery and the adjustable tongue or the end of the peripheral member at the top shall never exceed 1/4 inch (0.635 cm). (See Figures I-1 through I-6.)
 
 ![](/graphics/er07mr96.000.gif)
 
-Figure I-1 Figure I-2
+ Figure I-1 Figure I-2
 
 *Correct*
 
 Showing adjustable tongue giving required angle protection for all sizes of wheel used.![](/graphics/er07mr96.001.gif)
 
-Figure I-3 Figure I-4
+ Figure I-3 Figure I-4
 
 *Correct*Showing movable guard with opening small enough to give required protection for the smallest size wheel used.![](/graphics/er07mr96.002.gif)
 
-Figure I-5 Figure I-6
+ Figure I-5 Figure I-6
 
 *Incorrect*
 
@@ -62,17 +62,17 @@ Showing movable guard with size of opening correct for full size wheel but too l
 
 ![](/graphics/er07mr96.003.gif)
 
-Figure I-7 Figure I-8
+ Figure I-7 Figure I-8
 
 Wherever the nature of the work requires contact with the wheel below the horizontal plane of the spindle, the exposure shall not exceed 125° (See Figures I-9 and I-10.)![](/graphics/er07mr96.004.gif)
 
-Figure I-9 Figure I-10
+ Figure I-9 Figure I-10
 
 (9) *Cylindrical grinders.* The maximum angular exposure of the grinding wheel periphery and sides for safety guards used on cylindrical grinding machines shall not exceed 180°. This exposure shall begin at a point not more than 65° above the horizontal plane of the wheel spindle. (See Figures I-11 and I-12 and paragraph (b)(7) of this section.)
 
 ![](/graphics/er07mr96.005.gif)
 
-Figure I-11 Figure I-12
+ Figure I-11 Figure I-12
 
 (c) *Personal protective equipment.* Employees using hand and power tools and exposed to the hazard of falling, flying, abrasive, and splashing objects, or exposed to harmful dusts, fumes, mists, vapors, or gases shall be provided with the particular personal protective equipment necessary to protect them from the hazard. All personal protective equipment shall meet the requirements and be maintained according to subparts D and E of this part.
 

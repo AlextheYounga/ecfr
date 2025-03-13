@@ -14,4 +14,4 @@
 
 (e) The application shall be signed by the applicant or an authorized officer with respect to the eligibility of the applicant and by the attorney of the applicant with respect to fees and expenses sought. It shall also contain or be accompanied by a written verification under oath or under penalty of perjury that the information provided in the application is true and correct.
 
-(Approved by the Office of Management and Budget under control number 1512-0444, for applications filed with the Bureau of Alcohol, Tobacco and Firearms) (5 U.S.C. 552(a) (80 Stat. 383, as amended)) [47 FR 20765, May 14, 1982, as amended at 49 FR 14944, Apr. 16, 1984]
+(Approved by the Office of Management and Budget under control number 1512-0444, for applications filed with the Bureau of Alcohol, Tobacco and Firearms)(5 U.S.C. 552(a) (80 Stat. 383, as amended))[47 FR 20765, May 14, 1982, as amended at 49 FR 14944, Apr. 16, 1984]

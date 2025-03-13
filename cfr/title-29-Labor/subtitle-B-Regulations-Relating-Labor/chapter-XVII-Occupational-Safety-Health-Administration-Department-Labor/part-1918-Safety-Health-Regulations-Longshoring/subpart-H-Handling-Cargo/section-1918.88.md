@@ -14,7 +14,7 @@
 
 (g) *Rescue boat.* When employees are working on rafts or booms, a rescue boat capable of effecting an immediate rescue shall be available. Powered rescue boats are required when the current exceeds one knot.
 
-(h) *Log rafts.* When an employee is working logs out of the water, walking sticks11 (safety sticks) shall be provided as follows:
+(h) *Log rafts.* When an employee is working logs out of the water, walking sticks 11 (safety sticks) shall be provided as follows:
 
 11 A “walking stick” is two logs bolted or otherwise secured together with two or three planks firmly attached on top that serves as a floating walking and working surface and that is used in the loading of logs onto vessels from the water.
 

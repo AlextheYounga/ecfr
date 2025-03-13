@@ -182,7 +182,7 @@ CANCER-SUSPECT AGENT AREAAUTHORIZED PERSONNEL ONLY
 
 (iv) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (l)(2)(ii) of this section:
 
-CANCER-SUSPECT AGENT IN THIS AREAPROTECTIVE EQUIPMENT REQUIREDAUTHORIZED PERSONNEL ONLY
+CANCER-SUSPECT AGENT IN THIS AREAPROTECTIVE EQUIPMENT REQUIRED AUTHORIZED PERSONNEL ONLY
 
 (3) *Labels.* (i) In addition to the other requirements in this paragraph (l), the employer shall ensure that labels for containers of polyvinyl chloride resin waste from reactors or other waste contaminated with vinyl chloride are legible and include the following information:
 
@@ -194,7 +194,7 @@ CONTAMINATED WITH VINYL CHLORIDECANCER-SUSPECT AGENT
 
 (4) Prior to June 1, 2015, employers may include the following information for containers of polyvinyl chloride in lieu of the labeling requirements in paragraphs (l)(1)(i) of this section:
 
-POLYVINYL CHLORIDE (OR TRADE NAME)ContainsVINYL CHLORIDEVINYL CHLORIDE IS A CANCER-SUSPECT AGENT
+POLYVINYL CHLORIDE (OR TRADE NAME) ContainsVINYL CHLORIDE VINYL CHLORIDE IS A CANCER-SUSPECT AGENT
 
 (5)(i) Prior to June 1, 2015, employers may include either the following information in either paragraph (l)(5)(i) or (l)(5)(ii) of this section on containers of vinyl chloride in lieu of the labeling requirements in paragraph (l)(1)(i) of this section:
 
@@ -238,4 +238,4 @@ C. Additional serum tests: Lactic acid dehydrogenase, lactic acid dehydrogenase 
 
 D. For a more comprehensive examination on repeated abnormal serum tests: Hepatitis B antigen, and liver scanning.
 
-[39 FR 35896, Oct. 4, 1974. Redesignated at 40 FR 23072, May 28, 1975]Editorial Note:For Federal Register citations affecting § 1910.1017, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[39 FR 35896, Oct. 4, 1974. Redesignated at 40 FR 23072, May 28, 1975] Editorial Note:For Federal Register citations affecting § 1910.1017, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

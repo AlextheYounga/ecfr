@@ -1,7 +1,5 @@
 ##### § 50.4 Stakeholder participation. #####
 
-Link to an amendment published at 89 FR 84472, Oct. 23, 2024.
-
 A Project Participation Plan is required to ensure stakeholders have access to accurate and timely information on the proposed project and permit application process.
 
 (a) *Project Participation Plan.* An applicant must develop a Project Participation Plan and file it with the pre-filing materials under § 50.5(c)(7) that:
@@ -14,7 +12,7 @@ A Project Participation Plan is required to ensure stakeholders have access to a
 
 (4) Includes an Environmental Justice Public Engagement Plan that addresses all targeted outreach to identified environmental justice communities. This plan must summarize comments received from potentially impacted environmental justice communities during any previous outreach activities and describe planned targeted outreach activities with such communities during the pre-filing process and after the filing of an application, including efforts to identify, engage, and accommodate people with limited English proficiency. This plan must also describe how the applicant will conduct outreach to environmental justice communities about any potential mitigation measures.
 
-(5) Includes a Tribal Engagement Plan that addresses all targeted outreach to identified Indian Tribes. This plan must summarize comments received from potentially affected Indian Tribes during any previous outreach activities and describe planned targeted outreach activities with such communities during the pre-filing process and after the filing of an application. This plan must also describe how the applicant will engage Indian Tribes about any potential mitigation measures.
+(5) Includes a Tribal Engagement Plan that addresses all targeted outreach to identified Indian Tribes. This plan must summarize comments received from potentially affected Indian Tribes during any previous outreach activities and describe planned targeted outreach activities with such Tribes during the pre-filing process and after the filing of an application. This plan must also describe how the applicant will engage Indian Tribes about any potential mitigation measures. If rights-of-way over or across land owned in trust or restricted status must be obtained, this plan must describe how the applicant will engage with the relevant Indian Tribe or individual Indian landowners to obtain the necessary permissions, including consent to access Tribal land to prepare information required by the application (*e.g.,* to survey), if applicable, and ensure communications with Indian Tribes are honest, factually accurate, and respectful of Tribal sovereignty.
 
 (b) *Document Availability.* (1) Within three business days of the date the pre-filing materials are filed or application is issued a docket number, an applicant must ensure that:
 
@@ -74,4 +72,4 @@ A Project Participation Plan is required to ensure stakeholders have access to a
 
 (5) Access to critical energy infrastructure information is subject to the requirements of § 388.113 of this chapter.
 
-[71 FR 69465, Dec. 1, 2006, as amended at 89 FR 46730, May 29, 2024]
+[71 FR 69465, Dec. 1, 2006, as amended at 89 FR 46730, May 29, 2024; 89 FR 84472, Oct. 23, 2024]

@@ -1,6 +1,6 @@
 ##### § 1918.100 Emergency action plans. #####
 
-(a) *Scope and application.* This section requires all employers to develop and implement an emergency action plan.14 The emergency action plan shall be in writing (except as provided in the last sentence of paragraph (e)(3) of this section) and shall cover those designated actions employers and employees must take to ensure employee safety from fire and other emergencies.
+(a) *Scope and application.* This section requires all employers to develop and implement an emergency action plan. 14 The emergency action plan shall be in writing (except as provided in the last sentence of paragraph (e)(3) of this section) and shall cover those designated actions employers and employees must take to ensure employee safety from fire and other emergencies.
 
 14 When an employer directs his employees to respond to an emergency that is beyond the scope of the Emergency Action Plan, a plan developed in accordance with § 1910.120(q) of this chapter shall apply.
 

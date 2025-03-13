@@ -476,7 +476,7 @@ Prudent chemical management includes the following processes:
 
 (g) Peroxide formers should be dated upon receipt, again dated upon opening, and stored away from heat and light with tight-fitting, nonmetal lids.
 
-(h) Open shelves used for chemical storage should be secured to the wall and contain3/4-inch lips. Secondary containment devices should be used as necessary.
+(h) Open shelves used for chemical storage should be secured to the wall and contain 3/4-inch lips. Secondary containment devices should be used as necessary.
 
 (i) Consult the SDS and keep incompatibles separate during transport, storage, use, and disposal.
 

@@ -224,7 +224,7 @@ WEAR RESPIRATORY PROTECTION AND PROTECTIVE CLOTHING IN THIS AREA
 
 (C) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (j)(4)(ii)(A) of this section:
 
-DANGERASBESTOSCANCER AND LUNG DISEASEHAZARDAUTHORIZED PERSONNEL ONLY
+DANGER ASBESTOS CANCER AND LUNG DISEASE HAZARD AUTHORIZED PERSONNEL ONLY
 
 (D) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (j)(4)(ii)(B) of this section:
 
@@ -723,7 +723,7 @@ A rotating mechanical stage is convenient for use with polarized light.
 
 *6.2.9.* Precleaned glass slides, 25 mm × 75 mm. One end can be frosted for convenience in writing sample numbers, etc., or paste-on labels can be used.
 
-*6.2.10.* Cover glass #11/2.
+*6.2.10.* Cover glass #1 1/2.
 
 *6.2.11.* Scalpel (#10, curved blade).
 
@@ -805,7 +805,7 @@ Completely align the microscope according to the manufacturer's instructions. Th
 
 (7) Count all the fibers in at least 20 fields. Continue counting until either 100 fibers are counted or 100 fields have been viewed; whichever occurs first. Count all the fibers in the final field.
 
-(8) Fibers lying entirely within the boundary of the Walton-Beckett graticule field shall receive a count of 1. Fibers crossing the boundary once, having one end within the circle shall receive a count of1/2. Do not count any fiber that crosses the graticule boundary more than once. Reject and do not count any other fibers even though they may be visible outside the graticule area. If a fiber touches the circle, it is considered to cross the line.
+(8) Fibers lying entirely within the boundary of the Walton-Beckett graticule field shall receive a count of 1. Fibers crossing the boundary once, having one end within the circle shall receive a count of 1/2. Do not count any fiber that crosses the graticule boundary more than once. Reject and do not count any other fibers even though they may be visible outside the graticule area. If a fiber touches the circle, it is considered to cross the line.
 
 (9) Count bundles of fibers as one fiber unless individual fibers can be clearly identified and each individual fiber is clearly not connected to another counted fiber. See Figure 1 for counting conventions.
 
@@ -935,7 +935,7 @@ The Graticule is available from: Graticules Ltd., Morley Road, Tonbridge TN9 IRN
 |     11      |  0  |        Fiber crosses graticule twice.        |
 |     12      | 1/2 |   Although split, fiber only crosses once.   |
 
-![](/graphics/er10au94.006.gif)Appendix C to § 1910.1001 [Reserved]Appendix D to § 1910.1001—Medical Questionnaires; Mandatory![](/graphics/er14my19.000.gif)![](/graphics/er14my19.001.gif)![](/graphics/er14my19.002.gif)![](/graphics/er14my19.003.gif)![](/graphics/er14my19.004.gif)![](/graphics/er14my19.005.gif)![](/graphics/er14my19.006.gif)![](/graphics/er14my19.007.gif)![](/graphics/er14my19.008.gif)![](/graphics/er14my19.009.gif)![](/graphics/er14my19.010.gif)![](/graphics/er14my19.011.gif)![](/graphics/er14my19.012.gif)![](/graphics/er14my19.013.gif)![](/graphics/er14my19.014.gif)![](/graphics/er14my19.015.gif)![](/graphics/er14my19.016.gif)Appendix E to § 1910.1001—Classification of Chest X-Rays—Mandatory
+![](/graphics/er10au94.006.gif)Appendix C to § 1910.1001 [Reserved]Appendix D to § 1910.1001—Medical Questionnaires; Mandatory ![](/graphics/er14my19.000.gif)![](/graphics/er14my19.001.gif)![](/graphics/er14my19.002.gif)![](/graphics/er14my19.003.gif)![](/graphics/er14my19.004.gif)![](/graphics/er14my19.005.gif)![](/graphics/er14my19.006.gif)![](/graphics/er14my19.007.gif)![](/graphics/er14my19.008.gif)![](/graphics/er14my19.009.gif)![](/graphics/er14my19.010.gif)![](/graphics/er14my19.011.gif)![](/graphics/er14my19.012.gif)![](/graphics/er14my19.013.gif)![](/graphics/er14my19.014.gif)![](/graphics/er14my19.015.gif)![](/graphics/er14my19.016.gif)Appendix E to § 1910.1001—Classification of Chest X-Rays—Mandatory
 
 (a) Chest X-rays shall be classified in accordance with the Guidelines for the use of the ILO International Classification of Radiographs of Pneumoconioses (revised edition 2011) (incorporated by reference, see § 1910.6), and recorded on a classification form following the format of the CDC/NIOSH (M) 2.8 form. As a minimum, the content within the bold lines of this form (items 1 through 4) shall be included. This form is not to be submitted to NIOSH.
 

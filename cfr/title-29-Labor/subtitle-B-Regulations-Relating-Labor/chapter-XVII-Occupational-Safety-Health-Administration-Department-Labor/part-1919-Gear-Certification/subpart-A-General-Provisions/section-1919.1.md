@@ -4,7 +4,7 @@
 
 (b) Accreditation is not required, and the regulations of this part are not applicable, under the following circumstances:
 
-(1) When cargo gear certification is performed for vessels inspected and certificated under the authority of the U.S. Coast Guard,1 or for foreign vessels certificated under the requirements of a foreign nation or by persons acceptable for certification purposes by a foreign nation.
+(1) When cargo gear certification is performed for vessels inspected and certificated under the authority of the U.S. Coast Guard, 1 or for foreign vessels certificated under the requirements of a foreign nation or by persons acceptable for certification purposes by a foreign nation.
 
 1 Jurisdiction of the U.S. Coast Guard extends to matters within the scope of title 52 of the Revised Statutes and Acts supplementary or amendatory thereto (46 U.S.C. 1-1388, passim); to matters within the regulatory authority of the U.S. Coast Guard under the provisions of the Espionage Act of June 15, 1917, as amended (40 Stat. 220; 50 U.S.C. 191 et seq.; 22 U.S.C. 401 et seq.) or to matters within the regulatory authority of the U.S. Coast Guard under section 4(e) of the Outer Continental Shelf Lands Act of Aug. 7, 1953 (67 Stat. 462; 43 U.S.C. 1333).
 

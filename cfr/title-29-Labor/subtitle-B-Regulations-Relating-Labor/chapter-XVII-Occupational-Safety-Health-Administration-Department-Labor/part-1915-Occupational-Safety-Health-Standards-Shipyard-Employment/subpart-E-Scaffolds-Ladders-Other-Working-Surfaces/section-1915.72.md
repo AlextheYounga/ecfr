@@ -18,15 +18,15 @@ The provisions of this section shall apply to ship repairing, shipbuilding and s
 
 (2) Side rails shall be dressed on all sides and kept free of splinters.
 
-(3) All knots shall be sound and hard. The use of material containing loose knots is prohibited. Knots shall not appear on the narrow face of the rail and, when in the side face, shall be not more than1/2 inch in diameter or within1/2 inch of the edge of the rail or nearer than 3 inches to a tread or rung.
+(3) All knots shall be sound and hard. The use of material containing loose knots is prohibited. Knots shall not appear on the narrow face of the rail and, when in the side face, shall be not more than 1/2 inch in diameter or within 1/2 inch of the edge of the rail or nearer than 3 inches to a tread or rung.
 
-(4) Pitch pockets not exceeding1/8 inch in width, 2 inches in length and1/2 inch in depth are permissible in wood side rails, provided that not more than one such pocket appears in each 4 feet of length.
+(4) Pitch pockets not exceeding 1/8 inch in width, 2 inches in length and 1/2 inch in depth are permissible in wood side rails, provided that not more than one such pocket appears in each 4 feet of length.
 
-(5) The width between side rails at the base shall be not less than 111/2 inches for ladders 10 feet or less in length. For longer ladders this width shall be increased at least1/4 inch for each additional 2 feet in length.
+(5) The width between side rails at the base shall be not less than 111/2 inches for ladders 10 feet or less in length. For longer ladders this width shall be increased at least 1/4 inch for each additional 2 feet in length.
 
 (6) Side rails shall be at least 15/8 × 35/8 inches in cross section.
 
-(7) Cleats (meaning rungs rectangular in cross section with the wide dimension parallel to the rails) shall be of the material used for side rails, straight-grained and free from knots. Cleats shall be mortised into the edges of the side rails1/2 inch, or filler blocks shall be used on the rails between the cleats. The cleats shall be secured to each rail with three 10d common wire nails or fastened with through bolts or other fasteners of equivalent strength. Cleats shall be uniformly spaced not more than 12 inches apart.
+(7) Cleats (meaning rungs rectangular in cross section with the wide dimension parallel to the rails) shall be of the material used for side rails, straight-grained and free from knots. Cleats shall be mortised into the edges of the side rails 1/2 inch, or filler blocks shall be used on the rails between the cleats. The cleats shall be secured to each rail with three 10d common wire nails or fastened with through bolts or other fasteners of equivalent strength. Cleats shall be uniformly spaced not more than 12 inches apart.
 
 (8) Cleats 20 inches or less in length shall be at least 25/32 × 3 inches in cross section. Cleats over 20 inches but not more than 30 inches in length shall be at least 25/32 × 33/4 inches in cross section.
 

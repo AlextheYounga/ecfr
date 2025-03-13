@@ -452,7 +452,7 @@ DANGERCADMIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGS AND KIDNEYSWEAR RESPIRATORY 
 
 (iv) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (m)(2)(ii) of this section:
 
-DANGERCADMIUMCANCER HAZARDCAN CAUSE LUNG AND KIDNEY DISEASEAUTHORIZED PERSONNEL ONLYRESPIRATORS REQUIRED IN THIS AREA
+DANGER CADMIUM CANCER HAZARD CAN CAUSE LUNG AND KIDNEY DISEASE AUTHORIZED PERSONNEL ONLY RESPIRATORS REQUIRED IN THIS AREA
 
 (3) *Warning labels.* (i) Shipping and storage containers containing cadmium or cadmium compounds shall bear appropriate warning labels, as specified in paragraph (m)(1) of this section.
 
@@ -464,7 +464,7 @@ DANGERCONTAINS CADMIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGS AND KIDNEYSAVOID CR
 
 (iv) Prior to June 1, 2015, employers may include the following information on shipping and storage containers containing cadmium, cadmium compounds, or cadmium-contaminated clothing, equipment, waste, scrap, or debris in lieu of the labeling requirements specified in paragraphs (m)(3)(i) and (m)(3)(ii) of this section:
 
-DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY DISEASE
+DANGER CONTAINS CADMIUM CANCER HAZARD AVOID CREATING DUST CAN CAUSE LUNG AND KIDNEY DISEASE
 
 (4) *Employee information and training.* (i) The employer shall train each employee who is potentially exposed to cadmium in accordance with the requirements of this section. The employer shall institute a training program, ensure employee participation in the program, and maintain a record of the contents of the training program.
 

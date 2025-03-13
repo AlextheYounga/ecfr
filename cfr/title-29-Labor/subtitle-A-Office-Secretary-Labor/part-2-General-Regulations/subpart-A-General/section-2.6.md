@@ -4,4 +4,4 @@
 
 (b) *Designation.* The Assistant Secretary for Administration and Management, and such heads of the Administrations and Offices of the Department of Labor as he may designate for such purpose, is authorized to perform all of the duties and exercise all of the authority of the Secretary under the Federal Claims Collection Act of 1966, the aforementioned Joint Regulations of the Attorney General and the Comptroller General, and the regulations in this section.
 
-(Sec. 3, 80 Stat. 309; 31 U.S.C. 952)[34 FR 9122, June 10, 1969, as amended at 72 FR 37098, July 9, 2007]
+(Sec. 3, 80 Stat. 309; 31 U.S.C. 952) [34 FR 9122, June 10, 1969, as amended at 72 FR 37098, July 9, 2007]

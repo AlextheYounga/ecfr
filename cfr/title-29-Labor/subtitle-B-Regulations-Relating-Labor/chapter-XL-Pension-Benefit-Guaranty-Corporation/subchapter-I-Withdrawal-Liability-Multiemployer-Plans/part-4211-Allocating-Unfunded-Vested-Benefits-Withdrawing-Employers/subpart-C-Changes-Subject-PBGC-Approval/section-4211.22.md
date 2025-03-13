@@ -26,4 +26,4 @@
 
 (e) *Additional information.* In addition to the information listed in paragraph (d) of this section, the PBGC may require the plan sponsor to submit any other information that the PBGC determines is necessary for the review of an alternative allocation method or modification to an allocation method.
 
-(Approved by the Office of Management and Budget under control number 1212-0035)[61 FR 34097, July 1, 1996, as amended at 68 FR 61355, Oct. 28, 2003]
+(Approved by the Office of Management and Budget under control number 1212-0035) [61 FR 34097, July 1, 1996, as amended at 68 FR 61355, Oct. 28, 2003]

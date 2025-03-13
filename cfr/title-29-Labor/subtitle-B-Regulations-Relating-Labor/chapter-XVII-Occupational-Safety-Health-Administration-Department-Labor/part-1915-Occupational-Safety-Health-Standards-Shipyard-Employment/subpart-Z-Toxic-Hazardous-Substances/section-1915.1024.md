@@ -136,8 +136,7 @@
 
 (iii) The PAPR provides adequate protection to the employee in accordance with paragraph (g)(2) of this standard.
 
-(h) *Personal protective clothing and equipment*—
-(1) *Provision and use.* Where airborne exposure exceeds, or can reasonably be expected to exceed, the TWA PEL or STEL, the employer must provide at no cost, and ensure that each employee uses, appropriate personal protective clothing and equipment in accordance with the written exposure control plan required under paragraph (f)(1) of this standard and OSHA's Personal Protective Equipment standards for shipyards (subpart I of this part).
+(h) *Personal protective clothing and equipment*— (1) *Provision and use.* Where airborne exposure exceeds, or can reasonably be expected to exceed, the TWA PEL or STEL, the employer must provide at no cost, and ensure that each employee uses, appropriate personal protective clothing and equipment in accordance with the written exposure control plan required under paragraph (f)(1) of this standard and OSHA's Personal Protective Equipment standards for shipyards (subpart I of this part).
 
 (2) *Removal of personal protective clothing and equipment.* (i) The employer must ensure that each employee removes all personal protective clothing and equipment required by this standard at the end of the work shift or at the completion of all tasks involving beryllium, whichever comes first.
 
@@ -251,7 +250,7 @@
 
 (vi) The employer must ensure that each employee receives a copy of the written medical opinion described in paragraph (k)(6) of this standard within 45 days of any medical examination (including any follow-up BeLPT required under paragraph (k)(3)(ii)(E) of this standard) performed for that employee.
 
-(7) *CBD diagnostic center.*(i) The employer must provide an evaluation at no cost to the employee at a CBD diagnostic center that is mutually agreed upon by the employer and the employee. The evaluation at the CBD diagnostic center must be scheduled within 30 days, and must occur within a reasonable time, of:
+(7) *CBD diagnostic center.* (i) The employer must provide an evaluation at no cost to the employee at a CBD diagnostic center that is mutually agreed upon by the employer and the employee. The evaluation at the CBD diagnostic center must be scheduled within 30 days, and must occur within a reasonable time, of:
 
 (A) The employer's receipt of a physician's written medical opinion to the employer that recommends referral to a CBD diagnostic center; or
 

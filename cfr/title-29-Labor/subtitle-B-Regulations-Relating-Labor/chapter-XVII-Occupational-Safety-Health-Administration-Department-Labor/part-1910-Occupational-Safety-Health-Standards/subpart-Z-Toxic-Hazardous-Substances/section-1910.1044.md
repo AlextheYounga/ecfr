@@ -222,7 +222,7 @@ DANGER1,2-Dibromo-3-chloropropaneMAY CAUSE CANCERWEAR RESPIRATORY PROTECTION IN 
 
 (ii) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (o)(2) of this section:
 
-DANGER1,2-Dibromo-3-chloropropane(Insert appropriate trade or common names)CANCER HAZARDAUTHORIZED PERSONNEL ONLYRESPIRATOR REQUIRED
+DANGER 1,2-Dibromo-3-chloropropane (Insert appropriate trade or common names) CANCER HAZARD AUTHORIZED PERSONNEL ONLY RESPIRATOR REQUIRED
 
 (3) *Labels.* (i) Where DBCP or products containing DBCP are sold, distributed or otherwise leave the employer's workplace bearing appropriate labels required by EPA under the regulations in 40 CFR Part 162, the labels required by this paragraph (o)(3) need not be affixed.
 
@@ -230,7 +230,7 @@ DANGER1,2-Dibromo-3-chloropropane(Insert appropriate trade or common names)CANCE
 
 (iii) Prior to June 1, 2015, employers may include the following information on containers of DBCP or products containing DBCP, DBCP-contaminated protective devices or work clothing or DBCP-contaminated portable vacuums in lieu of the labeling requirements in paragraphs (j)(2)(v), (k)(l)(iii)(b) and (o)(1)(i) of this section:
 
-DANGER1,2-Dibromo-3-chloropropaneCANCER HAZARD
+DANGER 1,2-Dibromo-3-chloropropane CANCER HAZARD
 
 (p) *Recordkeeping*—(1) *Exposure monitoring.* (i) The employer shall establish and maintain an accurate record of all monitoring required by paragraph (f) of this section.
 
@@ -516,7 +516,7 @@ In performing semen analyses certain minimal but specific criteria should be met
 
 3. Each semen specimen should be collected in a clean, widemouthed, glass jar (not necessarily pre-sterilized) in a manner designated by the examining physician. Any part of the seminal fluid exam should be initialed *only after liquifaction* is complete, i.e., 30 to 45 minutes after collection.
 
-4. Semen volume should be measured to the nearest1/10 of a cubic centimeter.
+4. Semen volume should be measured to the nearest 1/10 of a cubic centimeter.
 
 5. Sperm density should be determined using routine techniques involving the use of a white cell pipette and a hemocytometer chamber. The immobilizing fluid most effective and most easily obtained for this process is distilled water.
 

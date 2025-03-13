@@ -38,6 +38,6 @@
 
 (d) *Other requirements.* All abrasive wheels and tools used by employees shall meet other applicable requirements of American National Standards Institute, B7.1-1970, Safety Code for the Use, Care and Protection of Abrasive Wheels.
 
-(e) *Work rests.* On offhand grinding machines, work rests shall be used to support the work. They shall be of rigid construction and designed to be adjustable to compensate for wheel wear. Work rests shall be kept adjusted closely to the wheel with a maximum opening of1/8 inch (0.3175 cm) to prevent the work from being jammed between the wheel and the rest, which may cause wheel breakage. The work rest shall be securely clamped after each adjustment. The adjustment shall not be made with the wheel in motion.
+(e) *Work rests.* On offhand grinding machines, work rests shall be used to support the work. They shall be of rigid construction and designed to be adjustable to compensate for wheel wear. Work rests shall be kept adjusted closely to the wheel with a maximum opening of 1/8 inch (0.3175 cm) to prevent the work from being jammed between the wheel and the rest, which may cause wheel breakage. The work rest shall be securely clamped after each adjustment. The adjustment shall not be made with the wheel in motion.
 
 [44 FR 8577, Feb. 9, 1979; 44 FR 20940, Apr. 6, 1979, as amended at 58 FR 35175, June 30, 1993]

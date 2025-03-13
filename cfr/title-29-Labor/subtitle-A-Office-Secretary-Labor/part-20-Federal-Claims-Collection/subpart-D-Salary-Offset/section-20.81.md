@@ -20,4 +20,4 @@ Unless otherwise required by law or these regulations, any oral hearing under th
 
 (f) Upon completion of the hearing, the administrative law judge shall transmit to the debtor a written decision. This decision shall state, at a minimum: The facts purported to evidence the nature and origin of the alleged debt; the administrative law judge's findings and conclusions, as to the employee's and/or creditor agency's grounds; the amount and validity of the alleged debt; and, where applicable, the repayment schedule. If appropriate, the notification shall also indicate any changes in the information to the extent such information differs from that provided in the notification under § 20.78(b).
 
-(Approved by the Office of Management and Budget under control number 1225-0038)[52 FR 3772, Feb. 5, 1987; 52 FR 13563, Apr. 23, 1987]
+(Approved by the Office of Management and Budget under control number 1225-0038) [52 FR 3772, Feb. 5, 1987; 52 FR 13563, Apr. 23, 1987]

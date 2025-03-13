@@ -150,7 +150,7 @@
 
 (ix)(*a*) Fasteners shall not be driven directly into materials such as brick or concrete closer than 3 inches from the unsupported edge or corner, or into steel surfaces closer than one-half inch from the unsupported edge or corner, unless a special guard, fixture, or jig is used. (Exception: Low-velocity tools may drive no closer than 2 inches from an edge in concrete or one-fourth inch in steel.)
 
-(*b*) When fastening other materials, such as a 2- by 4-inch wood section to a concrete surface, it is permissible to drive a fastener of no greater than7/32-inch shank diameter not closer than 2 inches from the unsupported edge or corner of the work surface.
+(*b*) When fastening other materials, such as a 2- by 4-inch wood section to a concrete surface, it is permissible to drive a fastener of no greater than 7/32-inch shank diameter not closer than 2 inches from the unsupported edge or corner of the work surface.
 
 (x) Fasteners shall not be driven through existing holes unless a positive guide is used to secure accurate alignment.
 

@@ -6,4 +6,4 @@
 
 (c) Complaints and petitions should make reference to this § 1912a.14 and be filed and addressed as follows:
 
-Assistant Secretary of Labor for Occupational Safety and HealthUnited States Department of LaborWashington, D.C. 20210.
+Assistant Secretary of Labor for Occupational Safety and Health United States Department of Labor Washington, D.C. 20210.

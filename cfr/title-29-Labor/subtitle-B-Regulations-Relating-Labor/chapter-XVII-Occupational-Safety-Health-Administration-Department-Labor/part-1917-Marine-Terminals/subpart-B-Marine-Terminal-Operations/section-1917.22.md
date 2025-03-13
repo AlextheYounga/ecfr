@@ -1,4 +1,4 @@
-##### § 1917.22 Hazardous cargo2 (See § 1917.2(p)). #####
+##### § 1917.22 Hazardous cargo 2 (See § 1917.2(p)). #####
 
 2 The Department of Transportation and the United States Coast Guard apply requirements related to handling, storing and transportation of hazardous cargo (see 33 CFR part 126, 46 CFR, 49 CFR).
 

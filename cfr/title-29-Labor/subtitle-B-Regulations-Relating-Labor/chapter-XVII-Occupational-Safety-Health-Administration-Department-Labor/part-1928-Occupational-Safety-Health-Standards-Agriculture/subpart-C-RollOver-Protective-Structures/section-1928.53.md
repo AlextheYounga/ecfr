@@ -47,7 +47,7 @@
 
 (ii) The following definitions shall apply:
 
-*W* = Tractor weight (see 29 CFR 1928.51(a)) in lb (*W*″ in kg);*E*is = Energy input to be absorbed during side loading in ft-lb (*E*″is in J [joules]);*E*is = 723 + 0.4 *W* (*E*″is = 100 + 0.12 *W*″);*E*ir = Energy input to be absorbed during rear loading in ft-lb (*E*″ir in J);*E*ir = 0.47 *W* (*E*″ir = 0.14 *W*″);*L* = Static load, lbf [pounds force], (N) [newtons];*D* = Deflection under *L*, in. (mm);*L-D* = Static load-deflection diagram;*L*max = Maximum observed static load;*Load Limit* = Point on a continuous *L-D* curve where the observed static load is 0.8 *L*max on the down slope of the curve (see Figure C-5);*E*u = Strain energy absorbed by the protective enclosure in ft-lbs (J); area under the *L-D* curve;*FER* = Factor of energy ratio;*FER*is = *E*u/*E*is; and*FER*ir = *E*u/*E*ir.
+*W* = Tractor weight (see 29 CFR 1928.51(a)) in lb (*W*″ in kg);*E*is = Energy input to be absorbed during side loading in ft-lb (*E*″is in J [joules]);*E*is = 723 + 0.4 *W* (*E*″is = 100 + 0.12 *W*″);*E*ir = Energy input to be absorbed during rear loading in ft-lb (*E*″ir in J); *E*ir = 0.47 *W* (*E*″ir = 0.14 *W*″);*L* = Static load, lbf [pounds force], (N) [newtons]; *D* = Deflection under *L*, in. (mm); *L-D* = Static load-deflection diagram; *L*max = Maximum observed static load; *Load Limit* = Point on a continuous *L-D* curve where the observed static load is 0.8 *L*max on the down slope of the curve (see Figure C-5); *E*u = Strain energy absorbed by the protective enclosure in ft-lbs (J); area under the *L-D* curve; *FER* = Factor of energy ratio; *FER*is = *E*u/*E*is; and *FER*ir = *E*u/*E*ir.
 
 (iii) The test procedures shall be as follows:
 
@@ -129,11 +129,11 @@
 
 (e) *Performance requirements*—(1) *General requirements.* (i) The protective enclosure structural members or other parts in the operator area may be deformed in these tests, but shall not shatter or leave sharp edges exposed to the operator. They shall not encroach on a transverse plane passing through points *d* and *f* within the projected area defined by dimensions *d, e,* and *g,* or on the dimensions shown in Figures C-13 and C-14, as follows:
 
-*d* = 2 in. (51 mm) inside of the protective structure to the vertical centerline of the seat;*e* = 30 in. (762 mm) at the longitudinal centerline;*f* = Not greater than 4 in. (102 mm) measured forward of the seat-reference point (“*SRP*”) at the longitudinal centerline as shown in Figure C-14;*g* = 24 in. (610 mm) minimum;*h* = 17.5 in. (445 mm) minimum; and*j* = 2.0 in. (51 mm) measured from the outer periphery of the steering wheel.
+*d* = 2 in. (51 mm) inside of the protective structure to the vertical centerline of the seat; *e* = 30 in. (762 mm) at the longitudinal centerline; *f* = Not greater than 4 in. (102 mm) measured forward of the seat-reference point (“*SRP*”) at the longitudinal centerline as shown in Figure C-14; *g* = 24 in. (610 mm) minimum; *h* = 17.5 in. (445 mm) minimum; and *j* = 2.0 in. (51 mm) measured from the outer periphery of the steering wheel.
 
 (ii) The protective structure and connecting fasteners must pass the static or dynamic tests described in paragraphs (d)(2), (d)(3), or (d)(4) of this section at a metal temperature of 0 °F (−8 °C) or below, or exhibit Charpy V-notch impact strengths as follows:
 
-10-mm × 10-mm (0.394-in. × 0.394-in.) specimen: 8.0 ft-lb (10.8 J) at −20 °F (−30 °C);10-mm × 7.5-mm (0.394-in. × 0.296-in.) specimen: 7.0 ft-lb (9.5 J) at −20 °F (−30 °C);10-mm × 5-mm (0.394-in. × 0.197-in.) specimen: 5.5 ft-lb (7.5 J) at −20 °F (−30 °C); or10-mm × 2.5-mm (0.394-in. × 0.098-in.) specimen: 4.0 ft-lb (5.5 J) at −20 °F (−30 °C).
+10-mm × 10-mm (0.394-in. × 0.394-in.) specimen: 8.0 ft-lb (10.8 J) at −20 °F (−30 °C); 10-mm × 7.5-mm (0.394-in. × 0.296-in.) specimen: 7.0 ft-lb (9.5 J) at −20 °F (−30 °C);10-mm × 5-mm (0.394-in. × 0.197-in.) specimen: 5.5 ft-lb (7.5 J) at −20 °F (−30 °C); or10-mm × 2.5-mm (0.394-in. × 0.098-in.) specimen: 4.0 ft-lb (5.5 J) at −20 °F (−30 °C).
 
 Specimens shall be longitudinal and taken from flat stock, tubular, or structural sections before forming or welding for use in the protective enclosure. Specimens from tubular or structural sections shall be taken from the middle of the side of greatest dimension, not to include welds.
 

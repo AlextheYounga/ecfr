@@ -1,5 +1,5 @@
 ##### § 452.40 Prior office holding. #####
 
-A requirement that candidates for office have some prior service in a lower office is not considered reasonable.26
+A requirement that candidates for office have some prior service in a lower office is not considered reasonable. 26
 
 26*Wirtz* v. *Hotel, Motel and Club Employees Union, Local 6,* 391 U.S. 492 at 504. The Court stated that the union, in applying such a rule, “\* \* \* assumes that rank and file union members are unable to distinguish qualified from unqualified candidates for particular offices without a demonstration of a candidate's performance in other offices. But Congress' model of democratic elections was political elections in this Country, and they are not based on any such assumption. Rather, in those elections the assumption is that voters will exercise common sense and judgment in casting their ballots. Local 6 made no showing that citizens assumed to make discriminating judgments in public elections cannot be relied on to make such judgments when, voting as union members \* \* \*.”

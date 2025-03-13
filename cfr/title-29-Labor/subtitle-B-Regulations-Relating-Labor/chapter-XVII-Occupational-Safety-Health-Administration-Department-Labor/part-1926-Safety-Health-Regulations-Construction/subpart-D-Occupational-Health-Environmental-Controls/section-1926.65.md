@@ -913,7 +913,7 @@ A. Totally-encapsulating chemical protective suit pressure test
 
 4.1 Source of compressed air.
 
-4.2 Test apparatus for suit testing, including a pressure measurement device with a sensitivity of at least1/4 inch water gauge.
+4.2 Test apparatus for suit testing, including a pressure measurement device with a sensitivity of at least 1/4 inch water gauge.
 
 4.3 Vent valve closure plugs or sealing tape.
 
@@ -1109,9 +1109,9 @@ The following constitute Level A equipment; it may be used as appropriate;
 
 2. Totally-encapsulating chemical-protective suit.
 
-3. Coveralls.1
+3. Coveralls. 1
 
-4. Long underwear.1
+4. Long underwear. 1
 
 5. Gloves, outer, chemical-resistant.
 
@@ -1119,7 +1119,7 @@ The following constitute Level A equipment; it may be used as appropriate;
 
 7. Boots, chemical-resistant, steel toe and shank.
 
-8. Hard hat (under suit).1
+8. Hard hat (under suit). 1
 
 9. Disposable protective suit, gloves and boots (depending on suit construction, may be worn over totally-encapsulating suit).
 
@@ -1131,7 +1131,7 @@ The following constitute Level B equipment; it may be used as appropriate.
 
 2. Hooded chemical-resistant clothing (overalls and long-sleeved jacket; coveralls; one or two-piece chemical-splash suit; disposable chemical-resistant overalls).
 
-3. Coveralls.1
+3. Coveralls. 1
 
 4. Gloves, outer, chemical-resistant.
 
@@ -1139,13 +1139,13 @@ The following constitute Level B equipment; it may be used as appropriate.
 
 6. Boots, outer, chemical-resistant steel toe and shank.
 
-7. Boot-covers, outer, chemical-resistant (disposable).1
+7. Boot-covers, outer, chemical-resistant (disposable). 1
 
-8. Hard hat.1
+8. Hard hat. 1
 
 9. [Reserved]
 
-10. Face shield.1
+10. Face shield. 1
 
 III. *Level C*—The concentration(s) and type(s) of airborne substance(s) is known and the criteria for using air purifying respirators are met.
 
@@ -1155,7 +1155,7 @@ The following constitute Level C equipment; it may be used as appropriate.
 
 2. Hooded chemical-resistant clothing (overalls; two-piece chemical-splash suit; disposable chemical-resistant overalls).
 
-3. Coveralls.1
+3. Coveralls. 1
 
 1 Optional, as applicable.
 
@@ -1163,15 +1163,15 @@ The following constitute Level C equipment; it may be used as appropriate.
 
 5. Gloves, inner, chemical-resistant.
 
-6. Boots (outer), chemical-resistant steel toe and shank.1
+6. Boots (outer), chemical-resistant steel toe and shank. 1
 
-7. Boot-covers, outer, chemical-resistant (disposable)1.
+7. Boot-covers, outer, chemical-resistant (disposable) 1.
 
-8. Hard hat.1
+8. Hard hat. 1
 
-9. Escape mask.1
+9. Escape mask. 1
 
-10. Face shield.1
+10. Face shield. 1
 
 IV. *Level D*—A work uniform affording minimal protection, used for nuisance contamination only.
 
@@ -1179,19 +1179,19 @@ The following constitute Level D equipment; it may be used as appropriate:
 
 1. Coveralls.
 
-2. Gloves.1
+2. Gloves. 1
 
 3. Boots/shoes, chemical-resistant steel toe and shank.
 
-4. Boots, outer, chemical-resistant (disposable).1
+4. Boots, outer, chemical-resistant (disposable). 1
 
 5. Safety glasses or chemical splash goggles \*.
 
-6. Hard hat.1
+6. Hard hat. 1
 
-7. Escape mask.1
+7. Escape mask. 1
 
-8. Face shield.1
+8. Face shield. 1
 
 *Part B.* The types of hazards for which levels A, B, C, and D protection are appropriate are described below:
 

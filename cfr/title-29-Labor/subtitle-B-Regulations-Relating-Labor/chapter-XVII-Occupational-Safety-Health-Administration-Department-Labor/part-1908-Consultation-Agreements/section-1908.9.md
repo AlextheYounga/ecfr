@@ -18,4 +18,4 @@
 
 (c) *State reporting.* For Federal monitoring and evaluation purposes, the State shall compile and submit such factual and statistical data in the format and at the frequency required by the Assistant Secretary. The State shall prepare and submit to the RA any narrative reports, including copies of written reports to employers as may be required by the Assistant Secretary.
 
-(Approved by the Office of Management and Budget under control number 1218-0110)[49 FR 25094, June 19, 1984, as amended at 54 FR 24333, June 7, 1989]
+(Approved by the Office of Management and Budget under control number 1218-0110) [49 FR 25094, June 19, 1984, as amended at 54 FR 24333, June 7, 1989]

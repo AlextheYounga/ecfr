@@ -12,7 +12,7 @@
 
 (5) Fasteners shall not be driven into soft materials unless such materials are backed by a substance that will prevent the pin or fastener from passing completely through and creating a flying missile hazard on the opposite side.
 
-(6) Unless a special guard, fixture or jig is used, fasteners shall not be driven directly into materials such as brick or concrete within 3 inches of the unsupported edge or corner, or into steel surfaces within1/2 inch of the unsupported edge or corner. When fastening other material, such as 2 × 4 inch lumber to a concrete surface, fasteners of greater than7/32 inch shank diameter shall not be used and fasteners shall not be driven within 2 inches of the unsupported edge or corner of the work surface.
+(6) Unless a special guard, fixture or jig is used, fasteners shall not be driven directly into materials such as brick or concrete within 3 inches of the unsupported edge or corner, or into steel surfaces within 1/2 inch of the unsupported edge or corner. When fastening other material, such as 2 × 4 inch lumber to a concrete surface, fasteners of greater than 7/32 inch shank diameter shall not be used and fasteners shall not be driven within 2 inches of the unsupported edge or corner of the work surface.
 
 (7) Fasteners shall not be driven through existing holes unless a positive guide is used to secure accurate alignment.
 

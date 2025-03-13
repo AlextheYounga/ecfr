@@ -6,4 +6,4 @@
 
 (c) *Fee.* Each application for change in enrollment will be accompanied by a check or money order in the amount of $5, payable to the Bureau of Alcohol, Tobacco and Firearms.
 
-(Approved by the Office of Management and Budget under control number 1512-0418) (5 U.S.C. 552(a) (80 Stat. 383, as amended))[42 FR 33026, June 29, 1977, as amended at 49 FR 14944, Apr. 16, 1984]
+(Approved by the Office of Management and Budget under control number 1512-0418)(5 U.S.C. 552(a) (80 Stat. 383, as amended))[42 FR 33026, June 29, 1977, as amended at 49 FR 14944, Apr. 16, 1984]

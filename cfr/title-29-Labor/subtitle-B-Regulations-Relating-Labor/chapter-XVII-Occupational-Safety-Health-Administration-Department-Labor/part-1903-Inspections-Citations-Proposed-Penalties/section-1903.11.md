@@ -8,4 +8,4 @@
 
 (d) Section 11(c)(1) of the Act provides: “No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this Act or has testified or is about to testify in any such proceeding or because of the exercise by such employee on behalf of himself or others of any right afforded by this Act.”
 
-(Approved by the Office of Management and Budget under control number 1218-0064)[36 FR 17850, Sept. 4, 1973, as amended at 54 FR 24333, June 7, 1989]
+(Approved by the Office of Management and Budget under control number 1218-0064) [36 FR 17850, Sept. 4, 1973, as amended at 54 FR 24333, June 7, 1989]
