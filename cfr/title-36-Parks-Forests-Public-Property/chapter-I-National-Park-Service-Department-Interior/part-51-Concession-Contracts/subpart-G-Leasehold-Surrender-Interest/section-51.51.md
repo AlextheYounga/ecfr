@@ -1,7 +1,5 @@
 ##### § 51.51 What special terms must I know to understand leasehold surrender interest? #####
 
-Link to an amendment published at 88 FR 90118, Dec. 29, 2023.
-
 To understand leasehold surrender interest, you must refer to these definitions, applicable in the singular or the plural, whenever these terms are used in this part:
 
 *Arbitration* means binding arbitration conducted by an arbitration panel. All arbitration proceedings conducted under the authority of this subpart or subpart H of this part will utilize the following procedures unless otherwise agreed by the concessioner and the Director. One member of the arbitration panel will be selected by the concessioner, one member will be selected by the Director, and the third (neutral) member will be selected by the two party-appointed members. The neutral arbiter must be a licensed real estate appraiser. The expenses of the neutral arbiter and other associated common costs of the arbitration will be borne equally by the concessioner and the Director. The arbitration panel will adopt procedures that treat each party equally, give each party the opportunity to be heard, and give each party a fair opportunity to present its case. Adjudicative procedures are not encouraged but may be adopted by the panel if determined necessary in the circumstances of the dispute. Determinations must be made by a majority of the members of the panel and will be binding on the concessioner and the Director.
@@ -20,7 +18,7 @@ To understand leasehold surrender interest, you must refer to these definitions,
 
 *Fixtures and non-removable equipment* are manufactured items of personal property of independent form and utility necessary for the basic functioning of a structure that are affixed to and considered to be part of the structure such that title is with the Director as real property once installed. Fixtures and non-removable equipment do not include building materials (e.g., wallboard, flooring, concrete, cinder blocks, steel beams, studs, window frames, windows, rafters, roofing, framing, siding, lumber, insulation, wallpaper, paint, etc.). Because of their special circumstances, floating docks (but not other types of floating property) constructed by a concessioner pursuant to the terms of a leasehold surrender interest concession contract are considered to be non-removable equipment for leasehold surrender interest purposes only. Except as otherwise indicated in this part, the term “fixture” as used in this part includes the term “non-removable equipment.”
 
-*Leasehold surrender interest solely* means a right to payment in accordance with this part for related capital improvements that a concessioner makes or provides within a park area on lands owned by the United States pursuant to this part and under the terms and conditions of an applicable concession contract. The existence of a leasehold surrender interest does not give the concessioner, or any other person, any right to conduct business in a park area, to utilize the related capital improvements, or to prevent the Director or another person from utilizing the related capital improvements. The existence of a leasehold surrender interest does not include any interest in the land on which the related capital improvements are located.
+*Leasehold surrender interest* means a right to payment in accordance with this part for related capital improvements that a concessioner makes or provides within a park area on lands owned by the United States pursuant to this part and under the terms and conditions of an applicable concession contract. The existence of a leasehold surrender interest does not give the concessioner, or any other person, any right to conduct business in a park area, to utilize the related capital improvements, or to prevent the Director or another person from utilizing the related capital improvements. The existence of a leasehold surrender interest does not include any interest in the land on which the related capital improvements are located.
 
 *Leasehold surrender interest concession contract* means a concession contract that provides for leasehold surrender interest in capital improvements.
 
@@ -32,11 +30,11 @@ To understand leasehold surrender interest, you must refer to these definitions,
 
 (3) Less depreciation of the related capital improvement on the basis of its condition as of the date of termination or expiration of the applicable leasehold surrender interest concession contract, or, if applicable, the date on which a concessioner ceases to utilize a related capital improvement (*e.g.,* where the related capital improvement is taken out of service by the Director pursuant to the terms of a concession contract).
 
-*Major rehabilitation* means a planned, comprehensive rehabilitation of an existing structure that:
+*Major rehabilitation* means a planned rehabilitation of an existing structure that the Director determines:
 
-(1) The Director approves in advance and determines is completed within 18 months from start of the rehabilitation work (unless a longer period of time is approved by the Director in special circumstances); and
+(1) The construction cost of which exceeds thirty percent of the pre-rehabilitation value of the structure; and
 
-(2) The construction cost of which exceeds fifty percent of the pre-rehabilitation value of the structure.
+(2) Improves visitor health, safety, and enjoyment or the health and safety of concessioner employees and will either enhance the property's overall value, prolong its useful life, or adapt it to new uses.
 
 *Pre-rehabilitation value* of an existing structure means the replacement cost of the structure less depreciation.
 
@@ -49,3 +47,5 @@ To understand leasehold surrender interest, you must refer to these definitions,
 *Structure* means a building, dock, or similar edifice affixed to the land so as to be part of the real estate. A structure may include both constructed infrastructure (*e.g.,* water, power and sewer lines) and constructed site improvements (*e.g.,* paved roads, retaining walls, sidewalks, paved driveways, paved parking areas) that are permanently affixed to the land so as to be part of the real estate and that are in direct support of the use of a building, dock, or similar edifice. Landscaping that is integral to the construction of a structure is considered as part of a structure. Interior furnishings that are not fixtures are not part of a structure.
 
 *Substantial completion of a capital improvement* means the condition of a capital improvement construction project when the project is substantially complete and ready for use and/or occupancy.
+
+[65 FR 20668, Apr. 17, 2000, as amended at 88 FR 90118, Dec. 29, 2023]

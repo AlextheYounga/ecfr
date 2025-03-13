@@ -1,7 +1,5 @@
 ##### § 51.17 What are the selection factors? #####
 
-Link to an amendment published at 88 FR 90118, Dec. 29, 2023.
-
 (a) The five principal selection factors are:
 
 (1) The responsiveness of the proposal to the objectives, as described in the prospectus, of protecting, conserving, and preserving resources of the park area;
@@ -18,6 +16,8 @@ Link to an amendment published at 88 FR 90118, Dec. 29, 2023.
 
 (1) The quality of the offeror's proposal to conduct its operations in a manner that furthers the protection, conservation and preservation of park area and other resources through environmental management programs and activities, including, without limitation, energy conservation, waste reduction, and recycling. A prospectus may exclude this secondary factor if the prospectus solicits proposals for a concession contract that is anticipated to have annual gross receipts of less than $100,000 and the activities that will be conducted under the contract are determined by the Director as likely to have only limited impacts on the resources of the park area; and
 
-(2) Any other selection factors the Director may adopt in furtherance of the purposes of this part, including where appropriate and otherwise permitted by law, the extent to which a proposal calls for the employment of Indians (including Native Alaskans) and/or involvement of businesses owned by Indians, Indian tribes, Native Alaskans, or minority or women-owned businesses in operations under the proposed concession contract.
+(2) Any other selection factors the Director may adopt in furtherance of the purposes of this part, including, where appropriate and otherwise permitted by law, the extent to which a proposal calls for the employment of Indians (including Native Alaskans) and/or involvement of businesses owned by Indians, Indian Tribes, Native Alaskans, or minority or women-owned businesses in operations under the proposed concession contract. When appropriate, the Director will include a secondary selection factor requesting suggestions for new services.
 
 (c) A prospectus may include subfactors under each of the principal and secondary factors to describe specific elements of the selection factor.
+
+[65 FR 20668, Apr. 17, 2000, as amended at 88 FR 90118, Dec. 29, 2023]

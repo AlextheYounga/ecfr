@@ -128,7 +128,11 @@ Example:Assume the State survey agency, CMS or other CMS agent performs 200 samp
 
 *Repeat proficiency testing referral* means a second instance in which a proficiency testing sample, or a portion of a sample, is referred, for any reason, to another laboratory for analysis prior to the laboratory's proficiency testing program event cut-off date within the period of time encompassing the two prior survey cycles (including initial certification, recertification, or the equivalent for laboratories surveyed by an approved accreditation organization).
 
+*Replacement certificate* means an active CLIA certificate that is reissued with no changes made.
+
 *Reportable range* means the span of test result values over which the laboratory can establish or verify the accuracy of the instrument or test system measurement response.
+
+*Revised certificate* means an active CLIA certificate that is reissued with changes to one or more fields displayed on the certificate, such as the laboratory's name, address, laboratory director, or approved specialties/subspecialties. For purposes of this part, revised certificates do not include the issuance, renewal, change in certificate type, or reinstatement of a terminated certificate with a gap in service.
 
 *Sample* in proficiency testing means the material contained in a vial, on a slide, or other unit that contains material to be tested by proficiency testing program participants. When possible, samples are of human origin.
 
@@ -164,4 +168,4 @@ Example:Assume the State survey agency, CMS or other CMS agent performs 200 samp
 
 *Waived test* means a test system, assay, or examination that HHS has determined meets the CLIA statutory criteria as specified for waiver under section 353(d)(3) of the Public Health Service Act.
 
-[57 FR 7139, Feb. 28, 1992, as amended at 57 FR 7236, Feb. 28, 1992; 57 FR 34013, July 31, 1992; 57 FR 35761, Aug. 11, 1992; 58 FR 5220, Jan. 19, 1993; 58 FR 48323, Sept. 15, 1993; 60 FR 20043, Apr. 24, 1995; 63 FR 26732, May 14, 1998; 68 FR 3702, Jan. 24, 2003; 68 FR 50723, Aug. 22, 2003; 79 FR 25480, May 2, 2014; 79 FR 27157, May 12, 2014; 85 FR 54873, Sept. 2, 2020]
+[57 FR 7139, Feb. 28, 1992, as amended at 57 FR 7236, Feb. 28, 1992; 57 FR 34013, July 31, 1992; 57 FR 35761, Aug. 11, 1992; 58 FR 5220, Jan. 19, 1993; 58 FR 48323, Sept. 15, 1993; 60 FR 20043, Apr. 24, 1995; 63 FR 26732, May 14, 1998; 68 FR 3702, Jan. 24, 2003; 68 FR 50723, Aug. 22, 2003; 79 FR 25480, May 2, 2014; 79 FR 27157, May 12, 2014; 85 FR 54873, Sept. 2, 2020; 88 FR 90035, Dec. 28, 2023]

@@ -1,8 +1,6 @@
 ##### § 17.47 Special rules—insects. #####
 
-(a) Cassius blue butterfly (*Leptotes cassius theonus*), Ceraunus blue butterfly (*Hemiargus ceraunus antibubastus*), and Nickerbean blue butterfly (*Cyclargus ammon*).
-
-(1) The provisions of § 17.31(c) apply to these species (cassius blue butterfly, ceraunus blue butterfly, nickerbean blue butterfly), regardless of whether in the wild or in captivity, and also apply to the progeny of any such butterfly.
+(a) Cassius blue butterfly (*Leptotes cassius theonus*), Ceraunus blue butterfly (*Hemiargus ceraunus antibubastus*), and Nickerbean blue butterfly (*Cyclargus ammon*). (1) The provisions of § 17.31(c) apply to these species (cassius blue butterfly, ceraunus blue butterfly, nickerbean blue butterfly), regardless of whether in the wild or in captivity, and also apply to the progeny of any such butterfly.
 
 (2) Any violation of State law will also be a violation of the Act.
 
@@ -10,17 +8,17 @@
 
 (4) Collection of the cassius blue butterfly, ceraunus blue butterfly, and nickerbean blue butterfly is prohibited in coastal counties south of Interstate 4 and extending to the boundaries of the State of Florida at the endpoints of Interstate 4 at Tampa and Daytona Beach. Specifically, such activities are prohibited in the following counties: Brevard, Broward, Charlotte, Collier, De Soto, Hillsborough, Indian River, Lee, Manatee, Pinellas, Sarasota, St. Lucie, Martin, Miami-Dade, Monroe, Palm Beach, and Volusia.
 
-(b) Dakota skipper (*Hesperia dacotae*). (1) *Which populations of the Dakota skipper are covered by this special rule?* This rule covers the distribution of Dakota skipper in the United States.
+(b) Dakota skipper (*Hesperia dacotae*)—(1) *Which populations of the Dakota skipper are covered by this special rule?* This rule covers the distribution of Dakota skipper in the United States.
 
 (2) *Prohibitions.* Except as noted in paragraph (b)(3) of this section, all prohibitions and provisions of §§ 17.31 and 17.32 apply to the Dakota skipper.
 
 (3) *Exemptions from prohibitions.* Incidental take of Dakota skipper will not be a violation of section 9 of the Act if it occurs as a result of the following activities (except where explicitly stated otherwise, these activities must be associated with livestock ranching):
 
-(i) *Fence construction and maintenance.*
+(i) Fence construction and maintenance.
 
 (ii) *Livestock gathering and management.* The installation and maintenance of corrals, loading chutes, and other livestock working facilities must be carefully sited with respect to the location and distribution of important Dakota skipper habitat.
 
-(iii) *Development and maintenance of livestock watering facilities.*
+(iii) Development and maintenance of livestock watering facilities.
 
 (iv) *Noxious weed control.* Incidental take of Dakota skipper that results from spraying of herbicides is not a violation of section 9 of the Act, except such take that results from broadcast spraying, which is the application of herbicides evenly across the entire application area. Incidental take that results from mowing to control one or more noxious weed species would also not be a violation of section 9 of the Act.
 
@@ -28,7 +26,7 @@
 
 (vi) *Mowing section line rights-of-way and recreational trails.* Mowing of section line rights-of-way (typically disturbed soil that has been contoured for a roadway) would not be a violation of section 9 of the Act. Mowing of recreational trails (travelways established either through construction or use that are intended for and passable by foot traffic, bicycles, in-line skates, wheelchairs, or cross-country skis) would not be a violation of section 9 of the Act, regardless of whether the trails are associated with livestock ranching.
 
-(vii) *Livestock (cattle, bison, or horse) grazing on private, State, or tribal land.*
+(vii) Livestock (cattle, bison, or horse) grazing on private, State, or tribal land.
 
 (c) Western glacier stonefly (*Zapada glacier*) and meltwater lednian stonefly (*Lednia tumana*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to western glacier stonefly and meltwater lednian stonefly except as provided under paragraph (c)(2) of this section and §§ 17.4 and 17.5. It is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to these species:
 
@@ -96,7 +94,7 @@
 
 ![](/graphics/er15oc20.001.gif)
 
-(e) Hermes copper butterfly (*Lycaena hermes*).—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to Hermes copper butterfly. Except as provided under paragraph (e)(2) of this section and §§17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+(e) Hermes copper butterfly (*Lycaena hermes*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to Hermes copper butterfly. Except as provided under paragraph (e)(2) of this section and §§17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
 (i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
 
@@ -237,9 +235,7 @@ Table 1 to Paragraph (f)(3)(v)(G)
 
 (H) *Reporting and disposal requirements.* Any injury or mortality of Fender's blue butterfly associated with the actions excepted under paragraphs (f)(3)(v)(A) through (E) of this section must be reported to the Service and authorized State wildlife officials within 5 calendar days, and specimens may be disposed of only in accordance with directions from the Service. Reports should be made to the Service's Office of Law Enforcement (contact information is at § 10.22 of this subchapter) or the Service's Oregon Fish and Wildlife Office and to the State of Oregon Department of Parks and Recreation, Stewardship Section, which has jurisdiction over invertebrate species. The Service may allow additional reasonable time for reporting if access to these offices is limited due to closure.
 
-(g) Puerto Rican harlequin butterfly (*Atlantea tulita*).
-
-(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Puerto Rican harlequin butterfly. Except as provided under paragraph (g)(2) of this section and § 17.4, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+(g) Puerto Rican harlequin butterfly (*Atlantea tulita*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Puerto Rican harlequin butterfly. Except as provided under paragraph (g)(2) of this section and § 17.4, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
 (i) Import or export, as set forth at § 17.21(b).
 

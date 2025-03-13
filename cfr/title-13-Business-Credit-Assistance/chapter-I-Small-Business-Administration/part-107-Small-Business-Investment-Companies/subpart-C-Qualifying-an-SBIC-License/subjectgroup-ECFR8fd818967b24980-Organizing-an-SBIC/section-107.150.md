@@ -1,6 +1,6 @@
 ##### § 107.150 Management-ownership diversification requirement. #####
 
-Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
+Link to an amendment published at 89 FR 3547, Jan. 19, 2024.Link to a correction published at 89 FR 5421, Jan. 29, 2024.
 
 (a) *Diversification requirement.* (Also referenced in this part as the “diversity requirement.”) You must satisfy the requirements in paragraphs (b), (c) and (d) of this section:
 

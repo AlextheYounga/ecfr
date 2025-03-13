@@ -1,6 +1,6 @@
 ##### § 104.3 Contents of reports (52 U.S.C. 30104(b), 30114). #####
 
-Link to an amendment published at 89 FR 216, Jan. 2, 2024.
+Link to an amendment published at 89 FR 216, Jan. 2, 2024.Link to a correction published at 89 FR 5421, Jan. 29, 2024.
 
 (a) *Reporting of receipts.* Each report filed under § 104.1 shall disclose the total amount of receipts for the reporting period and for the calendar year (or for the election cycle, in the case of an authorized committee) and shall disclose the information set forth at paragraphs (a)(1) through (a)(4) of this section. The first report filed by a political committee shall also include all amounts received prior to becoming a political committee under § 100.5 of this chapter, even if such amounts were not received during the current reporting period.
 

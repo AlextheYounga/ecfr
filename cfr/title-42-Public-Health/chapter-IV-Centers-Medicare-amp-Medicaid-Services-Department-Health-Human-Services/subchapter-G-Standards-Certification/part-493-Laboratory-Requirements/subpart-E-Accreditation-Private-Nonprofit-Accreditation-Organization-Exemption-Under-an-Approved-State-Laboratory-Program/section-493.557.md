@@ -1,7 +1,5 @@
 ##### § 493.557 Additional submission requirements. #####
 
-Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
-
 (a) *Specific requirements for accreditation organizations.* In addition to the information specified in §§ 493.553 and 493.555, as part of the approval and review process, an accreditation organization applying or reapplying for deeming authority must also provide the following:
 
 (1) The specialty or subspecialty areas for which the organization is requesting deeming authority and its mechanism for monitoring compliance with all requirements equivalent to condition-level requirements within the scope of the specialty or subspecialty areas.
@@ -50,7 +48,7 @@ Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
 
 (3) Require laboratories in the State to submit to inspections by CMS or a CMS agent as a condition of licensure or approval.
 
-(4) Agree to pay the cost of the validation program administered in that State as specified in §§ 493.645(a) and 493.646(b).
+(4) Agree to pay the cost of the validation program administered in that State as specified in §§ 493.649(a) and 493.655(b).
 
 (5) Take appropriate enforcement action against laboratories found by CMS not to be in compliance with requirements equivalent to CLIA requirements.
 
@@ -81,3 +79,5 @@ Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
 (13) Agree to take the appropriate enforcement action against laboratories found by CMS not to be in compliance with requirements comparable to condition-level requirements and report these enforcement actions to CMS.
 
 (14) If approved, reapply to CMS every 2 years to renew its exempt status and to renew its agreement to pay the cost of the CMS-administered validation program in that State.
+
+[63 FR 26732, May 14, 1998, as amended at 88 FR 90035, Dec. 28, 2023]

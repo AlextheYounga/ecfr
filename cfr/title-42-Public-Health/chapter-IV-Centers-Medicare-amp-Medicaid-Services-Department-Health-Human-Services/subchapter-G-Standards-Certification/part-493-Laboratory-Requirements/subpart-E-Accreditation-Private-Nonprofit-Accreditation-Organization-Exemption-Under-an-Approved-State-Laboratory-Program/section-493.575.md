@@ -1,7 +1,5 @@
 ##### § 493.575 Removal of deeming authority or CLIA exemption and final determination review. #####
 
-Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
-
 (a) *CMS review.* CMS conducts a review of the following:
 
 (1) A deeming authority review of an accreditation organization's program if the comparability or validation review produces findings, as described at § 493.573. CMS reviews, as appropriate, the criteria described in §§ 493.555 and 493.557(a) to reevaluate whether the accreditation organization continues to meet all these criteria.
@@ -48,10 +46,12 @@ Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
 
 (2) If at any time CMS determines that the continued approval of a State licensure program poses immediate jeopardy to the patients of the laboratories in that State, or continued approval otherwise constitutes a significant hazard to the public health, CMS may immediately withdraw the approval of that State licensure program.
 
-(i) *Failure to pay fees.* CMS withdraws the approval of a State licensure program if the State fails to pay the applicable fees, as specified in §§ 493.645(a) and 493.646(b).
+(i) *Failure to pay fees.* CMS withdraws the approval of a State licensure program if the State fails to pay the applicable fees, as specified in §§ 493.649(a) and 493.655(b).
 
 (j) *State refusal to take enforcement action.* (1) CMS may withdraw approval of a State licensure program if the State refuses to take enforcement action against a laboratory in that State when CMS determines it to be necessary.
 
 (2) A laboratory that is in a State in which CMS has withdrawn program approval is subject to the same requirements and survey and enforcement processes that are applied to a laboratory that is not exempt from CLIA requirements.
 
 (k) *Request for reconsideration.* Any accreditation organization or State that is dissatisfied with a determination to withdraw approval of its deeming authority or remove approval of its State licensure program, as applicable, may request that CMS reconsider the determination, in accordance with subpart D of part 488.
+
+[63 FR 26732, May 14, 1998, as amended at 88 FR 90035, Dec. 28, 2023]
