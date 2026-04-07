@@ -1,6 +1,6 @@
 ##### § 3.208 Claims based on attained age.
 
-In claims for pension where the age of the veteran or surviving spouse is material, the statements of age will be accepted where they are in agreement with other statements in the record as to age. However, where there is a variance in such records, the youngest age will be accepted subject to the submission of evidence as outlined in § 3.209.
+In claims for pension where the age of the veteran or surviving spouse is material, the statements of age will be accepted where they are in agreement with other statements in the record as to age. However, where there is a variance in such records, the youngest age will be accepted subject to the submission of evidence as outlined in § 3.209. 
 
 Cross Reference:
 

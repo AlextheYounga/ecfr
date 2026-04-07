@@ -1,10 +1,10 @@
 ##### § 21.5138 Computation of benefit payments and monthly rates.
 
-Except as provided in §§ 21.5136(b)(1) and 21.5137(a), for purposes of this subpart VA will compute benefit payments and monthly rates as provided in this section.
+Except as provided in §§ 21.5136(b)(1) and 21.5137(a), for purposes of this subpart VA will compute benefit payments and monthly rates as provided in this section. 
 
 (Authority: 38 U.S.C. 3231, 3233, 3241, 3491, 3680, 3689)
 
-(a) *Computation of entitlement factor.* (1) For residence training, VA will compute an entitlement factor as follows:
+(a) *Computation of entitlement factor.* (1) For residence training, VA will compute an entitlement factor as follows: 
 
 | (i) Enter the number of full months in the applicable benefit period                                                                                                                 | (1) \_\_\_\_\_\_ |  |
 | (ii) Enter the number of full days in excess of the number of full months                                                                                                            | (a)              |  |
@@ -13,7 +13,7 @@ Except as provided in §§ 21.5136(b)(1) and 21.5137(a), for purposes of this su
 | (v) Multiply line 3 by 1 for a full-time student; by .75 for a three-quarter time student; by .5 for a half-time student; or by .25 for a one-quarter time student. Enter the result | (4) \_\_\_\_\_\_ |  |
 | (This is the entitlement factor.)                                                                                                                                                    |                  |  |
 
-(2) For correspondence training, VA will compute an entitlement factor as follows:
+(2) For correspondence training, VA will compute an entitlement factor as follows: 
 
 | (i) Enter the amount of the individual's contributions remaining in the fund                                                           | (b)               |  |
 | (ii) Enter the individual's remaining months of entitlement                                                                            | (c)               |  |
@@ -27,7 +27,7 @@ Except as provided in §§ 21.5136(b)(1) and 21.5137(a), for purposes of this su
 | (x) Divide line 9 by line 8. Enter the quotient                                                                                        | (10) \_\_\_\_\_\_ |  |
 | (This is the entitlement factor.)                                                                                                      |                   |  |
 
-(3) For apprenticeship and other on-job training, VA will compute an entitlement factor as follows:
+(3) For apprenticeship and other on-job training, VA will compute an entitlement factor as follows: 
 
 | (i) Enter the number of full days in the applicable benefit period. (Enter 30 if the benefit period is a full month.)                                                                                                                                                                                                                                       | (1) \_\_\_\_\_\_ |
 | (ii) Divide line 1 by 30. Enter the quotient:                                                                                                                                                                                                                                                                                                               | (2) \_\_\_\_\_\_ |
@@ -36,7 +36,7 @@ Except as provided in §§ 21.5136(b)(1) and 21.5137(a), for purposes of this su
 
 (Authority: 38 U.S.C. 3231, 3233; Pub. L. 96-466, Pub. L. 97-306, Pub. L. 99-576)
 
-(4) For cooperative training, VA will compute an entitlement factor as follows:
+(4) For cooperative training, VA will compute an entitlement factor as follows: 
 
 | (i) Enter the number of full months in the applicable benefit period      | (1) \_\_\_\_\_\_ |
 | (ii) Enter the number of full days in excess of the number of full months | (a) \_\_\_\_\_\_ |
@@ -47,7 +47,7 @@ Except as provided in §§ 21.5136(b)(1) and 21.5137(a), for purposes of this su
 
 (Authority: 38 U.S.C. 3231; Pub. L. 100-689)
 
-(5) For flight training, VA will compute an entitlement factor as follows:
+(5) For flight training, VA will compute an entitlement factor as follows: 
 
 | (i) Enter the amount of the individual's contributions remaining in the fund | (a) \_\_\_\_\_\_ |  |
 | (ii) Enter the individual's remaining months of entitlement                  | (b) \_\_\_\_     |  |
@@ -68,7 +68,7 @@ Except as provided in §§ 21.5136(b)(1) and 21.5137(a), for purposes of this su
 
 (Authority: 38 U.S.C. 3231(f))
 
-(b) *Computation of benefit payment.* Under this section, VA will compute benefit payments as follows:
+(b) *Computation of benefit payment.* Under this section, VA will compute benefit payments as follows: 
 
 | (1) Enter the entitlement factor                                                                                                                                                                                                                                                    | (f)               |  |
 | (2) Enter the amount of the individual's contributions remaining in the fund                                                                                                                                                                                                        | (g)               |  |
@@ -98,6 +98,6 @@ Except as provided in §§ 21.5136(b)(1) and 21.5137(a), for purposes of this su
 
 (Authority: 38 U.S.C. 3231; Pub. L. 94-502)
 
-(c) *Monthly rates.* Under this section, VA will compute the monthly rates of payment for individuals in residence training by repeating the calculations in paragraphs (b)(1) through (11) of this section except that instead of entering the entitlement factor on line f, paragraph (b)(1), VA will enter 1 for a full-time student, .75 for a three-quarter time student, .5 for a half-time student, or .25 for a one-quarter time student.
+(c) *Monthly rates.* Under this section, VA will compute the monthly rates of payment for individuals in residence training by repeating the calculations in paragraphs (b)(1) through (11) of this section except that instead of entering the entitlement factor on line f, paragraph (b)(1), VA will enter 1 for a full-time student, .75 for a three-quarter time student, .5 for a half-time student, or .25 for a one-quarter time student. 
 
 (Authority: 38 U.S.C. 3231) \[45 FR 31, Jan. 2, 1980, as amended at 46 FR 32024, June 19, 1981; 47 FR 51747, Nov. 17, 1982; 48 FR 3369, Jan. 25, 1983; 48 FR 50530, Nov. 2, 1983; 52 FR 3429, Feb. 4, 1987; 53 FR 34498, Sept. 7, 1988; 55 FR 31582, Aug. 3, 1990; 57 FR 38615, Aug. 26, 1992; 58 FR 31911, June 7, 1993; 72 FR 16978, Apr. 5, 2007\]

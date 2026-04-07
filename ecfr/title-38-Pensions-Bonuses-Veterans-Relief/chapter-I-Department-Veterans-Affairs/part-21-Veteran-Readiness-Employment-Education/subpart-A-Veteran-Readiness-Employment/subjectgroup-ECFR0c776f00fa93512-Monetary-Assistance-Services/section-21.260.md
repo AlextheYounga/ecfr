@@ -1,12 +1,12 @@
 ##### § 21.260 Subsistence allowance.
 
-(a) *General.* A veteran participating in a rehabilitation program under 38 U.S.C. chapter 31 will receive a monthly subsistence allowance at the rates in paragraph (b) of this section, unless the veteran elects to receive an alternate payment (for the purposes of part 21, subpart A, referred to as the *Post-9/11 subsistence allowance*) as specified in paragraph (c) of this section, or payment at the rate of monthly educational assistance allowance payable under 38 U.S.C. chapter 30 for the veteran's type of training. *See* § 21.264(a) for election of payment at the chapter 30 rate and § 21.264(b) for election of the *Post-9/11 subsistence allowance. See* §§ 21.7136, 21.7137, and 21.7138 to determine the applicable chapter 30 rate.
+(a) *General.* A veteran participating in a rehabilitation program under 38 U.S.C. chapter 31 will receive a monthly subsistence allowance at the rates in paragraph (b) of this section, unless the veteran elects to receive an alternate payment (for the purposes of part 21, subpart A, referred to as the *Post-9/11 subsistence allowance*) as specified in paragraph (c) of this section, or payment at the rate of monthly educational assistance allowance payable under 38 U.S.C. chapter 30 for the veteran's type of training. *See* § 21.264(a) for election of payment at the chapter 30 rate and § 21.264(b) for election of the *Post-9/11 subsistence allowance. See* §§ 21.7136, 21.7137, and 21.7138 to determine the applicable chapter 30 rate. 
 
 (Authority: 38 U.S.C. 3108(a), 3108(b), 3108(f))
 
-(b) *Rate of payment.* VA pays subsistence allowance at the rates stated in the following tables:
+(b) *Rate of payment.* VA pays subsistence allowance at the rates stated in the following tables: 
 
-(1) Subsistence allowance is paid at the following rates effective October 1, 1994, and before November 2, 1994:
+(1) Subsistence allowance is paid at the following rates effective October 1, 1994, and before November 2, 1994: 
 
 | Type of program                                                                                                                                                                                     | No   dependents | One   dependent | Two   dependents | Additional   amount for   each   dependent   over two |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- | ---------------- | ----------------------------------------------------- |
@@ -37,7 +37,7 @@
 | 2 For on-job training, subsistence allowance may not exceed the difference between the monthly training wage, not including overtime, and the entrance journeyman wage for the veteran's objective. |                 |                 |                  |                                                       |
 | 3 The quarter-time rate may be paid only during extended evaluation.                                                                                                                                |                 |                 |                  |                                                       |
 
-(2) Subsistence allowance is paid at the following rates effective November 2, 1994, and before October 1, 1995:
+(2) Subsistence allowance is paid at the following rates effective November 2, 1994, and before October 1, 1995: 
 
 | Type of program                                                                                                                                                                                                                                  | No   dependents | One   dependent | Two   dependents | Additional   amount for   each   dependent   over two |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------------- | ----------------------------------------------------- |
@@ -68,7 +68,7 @@
 | 2 For on-job training, subsistence allowance may not exceed the difference between the monthly training wage, not including overtime, and the entrance journeyman wage for the veteran's objective.                                              |                 |                 |                  |                                                       |
 | 3 The quarter-time rate may be paid only during extended evaluation.                                                                                                                                                                             |                 |                 |                  |                                                       |
 
-(3) The following table states the monthly rates of subsistence allowance payable for participation in a rehabilitation program under 38 U.S.C. Chapter 31 that occurs after September 30, 1995, and before October 1, 1996:
+(3) The following table states the monthly rates of subsistence allowance payable for participation in a rehabilitation program under 38 U.S.C. Chapter 31 that occurs after September 30, 1995, and before October 1, 1996: 
 
 | Type of program                                                                                                                                                                                                                                  | No   dependents | One   dependent | Two   dependents | Additional   amount for   each   dependent   over two |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------------- | ----------------------------------------------------- |
@@ -99,7 +99,7 @@
 | 2 For on-job training, subsistence allowance may not exceed the difference between the monthly training wage, not including overtime, and the entrance journeyman wage for the veteran's objective.                                              |                 |                 |                  |                                                       |
 | 3 The quarter-time rate may be paid only during extended evaluation.                                                                                                                                                                             |                 |                 |                  |                                                       |
 
-(4) The following table states the monthly rates of subsistence allowance payable for participation in a rehabilitation program under 38 U.S.C. Chapter 31 that occurs after September 30, 1996, and before October 1, 1997:
+(4) The following table states the monthly rates of subsistence allowance payable for participation in a rehabilitation program under 38 U.S.C. Chapter 31 that occurs after September 30, 1996, and before October 1, 1997: 
 
 | Type of program                                                                                                                                                                                                                                  | No   dependents | One   dependent | Two   dependents | Additional   amount for   each   dependent   over two |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------------- | ----------------------------------------------------- |
@@ -130,7 +130,7 @@
 | 2 For on-job training, subsistence allowance may not exceed the difference between the monthly training wage, not including overtime, and the entrance journeyman wage for the veteran's objective.                                              |                 |                 |                  |                                                       |
 | 3 The quarter-time rate may be paid only during extended evaluation.                                                                                                                                                                             |                 |                 |                  |                                                       |
 
-(5) The following table states the monthly rates of subsistence allowance payable for participation in a rehabilitation program under 38 U.S.C. Chapter 31 that occurs after September 30, 1997, and before November 1, 1998:
+(5) The following table states the monthly rates of subsistence allowance payable for participation in a rehabilitation program under 38 U.S.C. Chapter 31 that occurs after September 30, 1997, and before November 1, 1998: 
 
 | Type of program                                                                                                                                                                                                                                  | No   dependents | One   dependent | Two   dependents | Additional   amount for   each   dependent   over two |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------------- | ----------------------------------------------------- |
@@ -161,7 +161,7 @@
 | 2 For on-job training, subsistence allowance may not exceed the difference between the monthly training wage, not including overtime, and the entrance journeyman wage for the veteran's objective.                                              |                 |                 |                  |                                                       |
 | 3 The quarter-time rate may be paid only during extended evaluation.                                                                                                                                                                             |                 |                 |                  |                                                       |
 
-(6) The following table states the monthly rates of subsistence allowance payable for participation in a rehabilitation program under 38 U.S.C. Chapter 31 that occurs after September 30, 1998, and before October 1, 1999:
+(6) The following table states the monthly rates of subsistence allowance payable for participation in a rehabilitation program under 38 U.S.C. Chapter 31 that occurs after September 30, 1998, and before October 1, 1999: 
 
 | Type of program                                                                                                                                                                                                                                  | No   dependents | One   dependent | Two   dependents | Additional   amount for   each   dependent   over two |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | --------------- | ---------------- | ----------------------------------------------------- |
@@ -192,7 +192,7 @@
 | 2 For on-job training, subsistence allowance may not exceed the difference between the monthly training wage, not including overtime, and the entrance journeyman wage for the veteran's objective.                                              |                 |                 |                  |                                                       |
 | 3 The quarter-time rate may be paid only during extended evaluation.                                                                                                                                                                             |                 |                 |                  |                                                       |
 
-(7) The following table states the monthly rates of subsistence allowance payable for participation in a rehabilitation program under 38 U.S.C. Chapter 31 that occurs after September 30, 1999, and before October 1, 2000:
+(7) The following table states the monthly rates of subsistence allowance payable for participation in a rehabilitation program under 38 U.S.C. Chapter 31 that occurs after September 30, 1999, and before October 1, 2000: 
 
 | Type of program                                                                                                                                                                                                                                                        | No   dependents | One   dependent | Two   dependents | Additional   amount for   each   dependent   over two |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- | ---------------- | ----------------------------------------------------- |
@@ -225,11 +225,11 @@
 
 (Authority: 38 U.S.C. 3108, 3115(a)(1); Pub. L. 103-446)
 
-(c) *Rate of payment of Post-9/11 subsistence allowance.* In lieu of the subsistence allowance payable under paragraph (b) of this section, VA pays the *Post-9/11 subsistence allowance* at the rates in the table at the end of this paragraph, effective August 1, 2011, based on the basic allowance for housing payable under 37 U.S.C. 403. For purposes of the following table:
+(c) *Rate of payment of Post-9/11 subsistence allowance.* In lieu of the subsistence allowance payable under paragraph (b) of this section, VA pays the *Post-9/11 subsistence allowance* at the rates in the table at the end of this paragraph, effective August 1, 2011, based on the basic allowance for housing payable under 37 U.S.C. 403. For purposes of the following table: 
 
-(1) *BAH* means “the applicable amount of basic allowance for housing payable under 37 U.S.C. 403 for a member of the military with dependents in pay grade E-5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution, agency, or employer providing the rehabilitation program concerned”.
+(1) *BAH* means “the applicable amount of basic allowance for housing payable under 37 U.S.C. 403 for a member of the military with dependents in pay grade E-5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution, agency, or employer providing the rehabilitation program concerned”. 
 
-(2) *BAH National Average* means “the average (*i.e.*, unweighted arithmetic mean) monthly amount of the basic allowance for housing payable under 37 U.S.C. 403 for a member of the military with dependents in pay grade E-5 residing in the United States”.
+(2) *BAH National Average* means “the average (*i.e.*, unweighted arithmetic mean) monthly amount of the basic allowance for housing payable under 37 U.S.C. 403 for a member of the military with dependents in pay grade E-5 residing in the United States”. 
 
 Payment of Post-9/11 Subsistence Allowance in Accordance With Public Law 111-377
 
@@ -277,16 +277,16 @@ Payment of Post-9/11 Subsistence Allowance in Accordance With Public Law 111-377
 
 (Authority: 38 U.S.C. 3108, 3115(a)(1))
 
-(d) *Subsistence allowance precluded.* A veteran may not receive a subsistence allowance when VA is providing the veteran only the following services:
+(d) *Subsistence allowance precluded.* A veteran may not receive a subsistence allowance when VA is providing the veteran only the following services: 
 
-(1) Initial evaluation;
+(1) Initial evaluation; 
 
-(2) Placement and post-placement services under 38 U.S.C. 3105(b); or
+(2) Placement and post-placement services under 38 U.S.C. 3105(b); or 
 
-(3) Counseling.
+(3) Counseling. 
 
 (Authority: 38 U.S.C. 3108 (a)(1) and (a)(3))
 
-(e) *Dependents.* The term *dependent* means a spouse, child or dependent parent who meets the definition of relationship specified in § 3.50, § 3.57 or § 3.59 of this chapter.
+(e) *Dependents.* The term *dependent* means a spouse, child or dependent parent who meets the definition of relationship specified in § 3.50, § 3.57 or § 3.59 of this chapter. 
 
 (Authority: 38 U.S.C. 3108(b)) \[49 FR 40814, Oct. 18, 1984, as amended at 51 FR 9955, Mar. 24, 1986; 52 FR 42113, Nov. 3, 1987; 54 FR 4283, Jan. 30, 1989; 56 FR 7567, Feb. 25, 1991; 60 FR 4561, Jan. 24, 1995; 65 FR 51764, Aug. 25, 2000; 65 FR 60724, Oct. 12, 2000; 76 FR 34000, June 10, 2011; 76 FR 45703, Aug. 1, 2011\]

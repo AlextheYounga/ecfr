@@ -1,14 +1,14 @@
 ##### § 3.52 Marriages deemed valid.
 
-Where an attempted marriage of a claimant to the veteran was invalid by reason of a legal impediment, the marriage will nevertheless be deemed valid if:
+Where an attempted marriage of a claimant to the veteran was invalid by reason of a legal impediment, the marriage will nevertheless be deemed valid if: 
 
-(a) The marriage occurred 1 year or more before the veteran died or existed for any period of time if a child was born of the purported marriage or was born to them before such marriage (see § 3.54(d)), and
+(a) The marriage occurred 1 year or more before the veteran died or existed for any period of time if a child was born of the purported marriage or was born to them before such marriage (see § 3.54(d)), and 
 
-(b) The claimant entered into the marriage without knowledge of the impediment, and
+(b) The claimant entered into the marriage without knowledge of the impediment, and 
 
-(c) The claimant cohabited with the veteran continuously from the date of marriage to the date of his or her death as outlined in § 3.53, and
+(c) The claimant cohabited with the veteran continuously from the date of marriage to the date of his or her death as outlined in § 3.53, and 
 
-(d) No claim has been filed by a legal surviving spouse who has been found entitled to gratuitous death benefits other than accrued monthly benefits covering a period prior to the veteran's death.
+(d) No claim has been filed by a legal surviving spouse who has been found entitled to gratuitous death benefits other than accrued monthly benefits covering a period prior to the veteran's death. 
 
 (Authority: 38 U.S.C. 103(a)) Cross Reference:
 

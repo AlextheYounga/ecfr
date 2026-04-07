@@ -1,32 +1,32 @@
 ##### § 3.156 New evidence.
 
-New evidence is evidence not previously part of the actual record before agency adjudicators.
+New evidence is evidence not previously part of the actual record before agency adjudicators. 
 
-(a) *New and material evidence.* For claims to reopen decided prior to the effective date provided in § 19.2(a), the following standards apply. A claimant may reopen a finally adjudicated legacy claim by submitting new and material evidence. New evidence is evidence not previously part of the actual record before agency adjudicators. Material evidence means existing evidence that, by itself or when considered with previous evidence of record, relates to an unestablished fact necessary to substantiate the claim. New and material evidence can be neither cumulative nor redundant of the evidence of record at the time of the last prior final denial of the claim sought to be reopened, and must raise a reasonable possibility of substantiating the claim.
+(a) *New and material evidence.* For claims to reopen decided prior to the effective date provided in § 19.2(a), the following standards apply. A claimant may reopen a finally adjudicated legacy claim by submitting new and material evidence. New evidence is evidence not previously part of the actual record before agency adjudicators. Material evidence means existing evidence that, by itself or when considered with previous evidence of record, relates to an unestablished fact necessary to substantiate the claim. New and material evidence can be neither cumulative nor redundant of the evidence of record at the time of the last prior final denial of the claim sought to be reopened, and must raise a reasonable possibility of substantiating the claim. 
 
 (Authority: 38 U.S.C. 501, 5103A(f), 5108)
 
-(b) *Pending legacy claims not under the modernized review system.*New and material evidence received prior to the expiration of the appeal period, or prior to the appellate decision if a timely appeal has been filed (including evidence received prior to an appellate decision and referred to the agency of original jurisdiction by the Board of Veterans Appeals without consideration in that decision in accordance with the provisions of § 20.1304(b)(1) of this chapter), will be considered as having been filed in connection with the claim which was pending at the beginning of the appeal period.
+(b) *Pending legacy claims not under the modernized review system.*New and material evidence received prior to the expiration of the appeal period, or prior to the appellate decision if a timely appeal has been filed (including evidence received prior to an appellate decision and referred to the agency of original jurisdiction by the Board of Veterans Appeals without consideration in that decision in accordance with the provisions of § 20.1304(b)(1) of this chapter), will be considered as having been filed in connection with the claim which was pending at the beginning of the appeal period. 
 
 (Authority: 38 U.S.C. 501)
 
-(c) *Service department records.* (1) Notwithstanding any other section in this part, at any time after VA issues a decision on a claim, if VA receives or associates with the claims file relevant official service department records that existed and had not been associated with the claims file when VA first decided the claim, VA will reconsider the claim, notwithstanding paragraph (a) of this section. Such records include, but are not limited to:
+(c) *Service department records.* (1) Notwithstanding any other section in this part, at any time after VA issues a decision on a claim, if VA receives or associates with the claims file relevant official service department records that existed and had not been associated with the claims file when VA first decided the claim, VA will reconsider the claim, notwithstanding paragraph (a) of this section. Such records include, but are not limited to: 
 
-(i) Service records that are related to a claimed in-service event, injury, or disease, regardless of whether such records mention the veteran by name, as long as the other requirements of paragraph (c) of this section are met;
+(i) Service records that are related to a claimed in-service event, injury, or disease, regardless of whether such records mention the veteran by name, as long as the other requirements of paragraph (c) of this section are met; 
 
-(ii) Additional service records forwarded by the Department of Defense or the service department to VA any time after VA's original request for service records; and
+(ii) Additional service records forwarded by the Department of Defense or the service department to VA any time after VA's original request for service records; and 
 
-(iii) Declassified records that could not have been obtained because the records were classified when VA decided the claim.
+(iii) Declassified records that could not have been obtained because the records were classified when VA decided the claim. 
 
-(2) Paragraph (c)(1) of this section does not apply to records that VA could not have obtained when it decided the claim because the records did not exist when VA decided the claim, or because the claimant failed to provide sufficient information for VA to identify and obtain the records from the respective service department or from any other official source.
+(2) Paragraph (c)(1) of this section does not apply to records that VA could not have obtained when it decided the claim because the records did not exist when VA decided the claim, or because the claimant failed to provide sufficient information for VA to identify and obtain the records from the respective service department or from any other official source. 
 
-(3) An award made based all or in part on the records identified by paragraph (c)(1) of this section is effective on the date entitlement arose or the date VA received the previously decided claim, whichever is later, or such other date as may be authorized by the provisions of this part applicable to the previously decided claim.
+(3) An award made based all or in part on the records identified by paragraph (c)(1) of this section is effective on the date entitlement arose or the date VA received the previously decided claim, whichever is later, or such other date as may be authorized by the provisions of this part applicable to the previously decided claim. 
 
-(4) A retroactive evaluation of disability resulting from disease or injury subsequently service connected on the basis of the new evidence from the service department must be supported adequately by medical evidence. Where such records clearly support the assignment of a specific rating over a part or the entire period of time involved, a retroactive evaluation will be assigned accordingly, except as it may be affected by the filing date of the original claim.
+(4) A retroactive evaluation of disability resulting from disease or injury subsequently service connected on the basis of the new evidence from the service department must be supported adequately by medical evidence. Where such records clearly support the assignment of a specific rating over a part or the entire period of time involved, a retroactive evaluation will be assigned accordingly, except as it may be affected by the filing date of the original claim. 
 
 (Authority: 38 U.S.C. 501(a))
 
-(d) *New and relevant evidence.* On or after the effective date provided in § 19.2(a), a claimant may file a supplemental claim as prescribed in § 3.2501. If new and relevant evidence, as defined in § 3.2501(a)(1), is presented or secured with respect to the supplemental claim, the agency of original jurisdiction will readjudicate the claim taking into consideration all of the evidence of record.
+(d) *New and relevant evidence.* On or after the effective date provided in § 19.2(a), a claimant may file a supplemental claim as prescribed in § 3.2501. If new and relevant evidence, as defined in § 3.2501(a)(1), is presented or secured with respect to the supplemental claim, the agency of original jurisdiction will readjudicate the claim taking into consideration all of the evidence of record. 
 
 Cross References:
 

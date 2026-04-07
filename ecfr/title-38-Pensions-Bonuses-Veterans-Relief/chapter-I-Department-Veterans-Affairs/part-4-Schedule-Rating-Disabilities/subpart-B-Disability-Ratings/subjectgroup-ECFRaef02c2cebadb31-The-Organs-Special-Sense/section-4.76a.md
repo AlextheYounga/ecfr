@@ -15,7 +15,7 @@ Table III—Normal Visual Field Extent at 8 Principal Meridians
 
 ![](/graphics/ec04no91.005.gif)
 
-Example of computation of concentric contraction under the schedule with abnormal findings taken from Figure 1.
+Example of computation of concentric contraction under the schedule with abnormal findings taken from Figure 1. 
 
 | Loss                                                                                      | Degrees |
 | ----------------------------------------------------------------------------------------- | ------- |

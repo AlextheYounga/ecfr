@@ -1,6 +1,6 @@
 ##### § 3.261 Character of income; exclusions and estates.
 
-The following factors will be considered in determining whether a claimant meets the requirements of §§ 3.250, 3.251 and 3.252 with reference to dependency, income limitations and corpus of estate:
+The following factors will be considered in determining whether a claimant meets the requirements of §§ 3.250, 3.251 and 3.252 with reference to dependency, income limitations and corpus of estate: 
 
 (a) *Income.*
 

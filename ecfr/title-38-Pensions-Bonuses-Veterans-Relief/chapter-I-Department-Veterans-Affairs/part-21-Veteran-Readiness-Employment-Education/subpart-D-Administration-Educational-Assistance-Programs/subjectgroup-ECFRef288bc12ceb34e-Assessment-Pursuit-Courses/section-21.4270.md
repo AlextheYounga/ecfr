@@ -1,64 +1,64 @@
 ##### § 21.4270 Measurement of courses.
 
-(a) *Measurement of trade, technical, and high school courses.* Trade, technical, high school, and high school preparatory courses shall be measured as stated in this paragraph.
+(a) *Measurement of trade, technical, and high school courses.* Trade, technical, high school, and high school preparatory courses shall be measured as stated in this paragraph. 
 
-(1) *Trade and technical courses.* (i) Except as provided in paragraph (b) of this section, if shop practice is an integral part of a trade or technical course not leading to a standard college degree—
+(1) *Trade and technical courses.* (i) Except as provided in paragraph (b) of this section, if shop practice is an integral part of a trade or technical course not leading to a standard college degree— 
 
-(A) A full-time enrollment is 22 clock hours per week (exclusive of supervised study) with not more than 2 1/2 hours rest period allowance;
+(A) A full-time enrollment is 22 clock hours per week (exclusive of supervised study) with not more than 2 1/2 hours rest period allowance; 
 
-(B) A three-quarter-time enrollment is 16 through 21 clock hours per week (exclusive of supervised study) with not more than 2 hours rest period allowance;
+(B) A three-quarter-time enrollment is 16 through 21 clock hours per week (exclusive of supervised study) with not more than 2 hours rest period allowance; 
 
-(C) A one-half-time enrollment is 11 through 15 clock hours per week (exclusive of supervised study) with not more than 1 1/4 hours rest period allowance;
+(C) A one-half-time enrollment is 11 through 15 clock hours per week (exclusive of supervised study) with not more than 1 1/4 hours rest period allowance; 
 
-(D) A less than one-half-time but more than one-quarter-time enrollment is 6 through 10 clock hours per week (exclusive of supervised study) with not more than 3/4 hour rest period allowance; and
+(D) A less than one-half-time but more than one-quarter-time enrollment is 6 through 10 clock hours per week (exclusive of supervised study) with not more than 3/4 hour rest period allowance; and 
 
-(E) A quarter-time enrollment is 1 through 5 clock hours per week (exclusive of supervised study).
+(E) A quarter-time enrollment is 1 through 5 clock hours per week (exclusive of supervised study). 
 
-(ii) Except as provided in paragraph (b) of this section, if theory and class instruction constitute more than 50 percent of the required hours in a trade or technical course not leading to a standard college degree, enrollments will be measured as follows. In measuring net instruction there will be included customary intervals not to exceed 10 minutes between classes. Shop practice and rest periods are excluded. Supervised instruction periods in a school's shops and the time involved in field trips and group instruction may be included in computing the clock hour requirements.
+(ii) Except as provided in paragraph (b) of this section, if theory and class instruction constitute more than 50 percent of the required hours in a trade or technical course not leading to a standard college degree, enrollments will be measured as follows. In measuring net instruction there will be included customary intervals not to exceed 10 minutes between classes. Shop practice and rest periods are excluded. Supervised instruction periods in a school's shops and the time involved in field trips and group instruction may be included in computing the clock hour requirements. 
 
-(A) A full-time enrollment is 18 clock hours net instruction per week (exclusive of supervised study);
+(A) A full-time enrollment is 18 clock hours net instruction per week (exclusive of supervised study); 
 
-(B) A three-quarter-time enrollment is 13 through 17 clock hours net instruction per week (exclusive of supervised study);
+(B) A three-quarter-time enrollment is 13 through 17 clock hours net instruction per week (exclusive of supervised study); 
 
-(C) A one-half-time enrollment is 9 through 12 clock hours net instruction per week (exclusive of supervised study);
+(C) A one-half-time enrollment is 9 through 12 clock hours net instruction per week (exclusive of supervised study); 
 
-(D) A less than one-half-time but more than one-quarter-time enrollment is 5 through 8 clock hours net instruction per week (exclusive of supervised study); and
+(D) A less than one-half-time but more than one-quarter-time enrollment is 5 through 8 clock hours net instruction per week (exclusive of supervised study); and 
 
-(E) A quarter-time enrollment is 1 through 4 clock hours net instruction per week (exclusive of supervised study).
+(E) A quarter-time enrollment is 1 through 4 clock hours net instruction per week (exclusive of supervised study). 
 
-(2) *High school courses.* If a student is pursuing high school courses at a rate which would result in an accredited high school diploma in four ordinary school years, VA considers him or her to be enrolled full time. Otherwise, for high school enrollments, training time will be determined as follows. (For the purpose of this paragraph, a unit is not less than one hundred and twenty 60-minute hours or the equivalent of study in any subject in one academic year.)
+(2) *High school courses.* If a student is pursuing high school courses at a rate which would result in an accredited high school diploma in four ordinary school years, VA considers him or her to be enrolled full time. Otherwise, for high school enrollments, training time will be determined as follows. (For the purpose of this paragraph, a unit is not less than one hundred and twenty 60-minute hours or the equivalent of study in any subject in one academic year.) 
 
-(i) A full-time enrollment is 18 clock hours net instruction per week or four units per year or the equivalent;
+(i) A full-time enrollment is 18 clock hours net instruction per week or four units per year or the equivalent; 
 
-(ii) A three-quarter-time enrollment is 13 through 17 clock hours net instruction per week or three units per year or the equivalent;
+(ii) A three-quarter-time enrollment is 13 through 17 clock hours net instruction per week or three units per year or the equivalent; 
 
-(iii) A one-half-time enrollment is 9 through 12 clock hours net instruction per week or two units per year or the equivalent;
+(iii) A one-half-time enrollment is 9 through 12 clock hours net instruction per week or two units per year or the equivalent; 
 
-(iv) A less than one-half-time but more than one-quarter-time enrollment is 5 through 8 clock hours net instruction per week or one unit per year or the equivalent; and
+(iv) A less than one-half-time but more than one-quarter-time enrollment is 5 through 8 clock hours net instruction per week or one unit per year or the equivalent; and 
 
-(v) A one-quarter-time enrollment is 1 through 4 clock hours net instruction per week.
+(v) A one-quarter-time enrollment is 1 through 4 clock hours net instruction per week. 
 
-(3) *Elementary school.* For a high school preparatory course pursued at the elementary school level—
+(3) *Elementary school.* For a high school preparatory course pursued at the elementary school level— 
 
-(i) A full-time enrollment is 18 clock hours net instruction per week;
+(i) A full-time enrollment is 18 clock hours net instruction per week; 
 
-(ii) A three-quarter-time enrollment is 13 through 17 clock hours net instruction per week;
+(ii) A three-quarter-time enrollment is 13 through 17 clock hours net instruction per week; 
 
-(iii) A one-half-time enrollment is 9 through 12 clock hours net instruction per week;
+(iii) A one-half-time enrollment is 9 through 12 clock hours net instruction per week; 
 
-(iv) A less than one-half-time but more than one-quarter-time enrollment is 5 through 8 clock hours net instruction per week; and
+(iv) A less than one-half-time but more than one-quarter-time enrollment is 5 through 8 clock hours net instruction per week; and 
 
-(v) A one-quarter-time enrollment is 1 through 4 clock hours per week.
+(v) A one-quarter-time enrollment is 1 through 4 clock hours per week. 
 
 (Authority: 38 U.S.C. 3688(a))
 
-(b) *Measurement of non-college degree courses offered by institutions of higher learning.* (1) Notwithstanding the provisions of paragraph (a)(1) of this section, if a student is enrolled in a course which is not leading to a standard college degree and which is offered by an institution of higher learning, VA will measure his or her enrollment in the same manner as collegiate undergraduate courses are measured according to the provisions of paragraph (c) of this section.
+(b) *Measurement of non-college degree courses offered by institutions of higher learning.* (1) Notwithstanding the provisions of paragraph (a)(1) of this section, if a student is enrolled in a course which is not leading to a standard college degree and which is offered by an institution of higher learning, VA will measure his or her enrollment in the same manner as collegiate undergraduate courses are measured according to the provisions of paragraph (c) of this section. 
 
-(2) Notwithstanding the provisions of paragraph (a)(1) of this section, if a student is enrolled in a course not leading to a standard college degree which is offered on a standard quarter- or semester-hour basis by an educational institution which is not an institution of higher learning, VA shall measure his or her enrollment in the same manner as collegiate undergraduate courses are measured according to the provisions of paragraph (c) of this section, provided that the educational institution requires at least the same minimum number of hours of weekly attendance as are required by paragraph (a)(1) of this section for courses offered on a clock-hour basis. If the educational institution does not require at least the same minimum number of hours of weekly attendance as are required in paragraph (a)(1) of this section, VA will not apply the provisions of paragraph (c) of this section, but will measure the course according to the criteria in paragraph (a)(1) of this section.
+(2) Notwithstanding the provisions of paragraph (a)(1) of this section, if a student is enrolled in a course not leading to a standard college degree which is offered on a standard quarter- or semester-hour basis by an educational institution which is not an institution of higher learning, VA shall measure his or her enrollment in the same manner as collegiate undergraduate courses are measured according to the provisions of paragraph (c) of this section, provided that the educational institution requires at least the same minimum number of hours of weekly attendance as are required by paragraph (a)(1) of this section for courses offered on a clock-hour basis. If the educational institution does not require at least the same minimum number of hours of weekly attendance as are required in paragraph (a)(1) of this section, VA will not apply the provisions of paragraph (c) of this section, but will measure the course according to the criteria in paragraph (a)(1) of this section. 
 
 (Authority: 38 U.S.C. 3688(a)(7))
 
-(c) *Undergraduate, graduate, professional, and on-the-job training courses.* Collegiate graduate, professional and on-the-job training courses shall be measured as stated in this table. This shall be used for measurement of collegiate undergraduate courses subject to all the measurement criteria of § 21.4272. Clock hours and sessions mentioned in this table mean clock hours and class sessions per week.
+(c) *Undergraduate, graduate, professional, and on-the-job training courses.* Collegiate graduate, professional and on-the-job training courses shall be measured as stated in this table. This shall be used for measurement of collegiate undergraduate courses subject to all the measurement criteria of § 21.4272. Clock hours and sessions mentioned in this table mean clock hours and class sessions per week. 
 
 (Authority: 38 U.S.C. 3482, 3532, 3677, 3687, 3688)
 

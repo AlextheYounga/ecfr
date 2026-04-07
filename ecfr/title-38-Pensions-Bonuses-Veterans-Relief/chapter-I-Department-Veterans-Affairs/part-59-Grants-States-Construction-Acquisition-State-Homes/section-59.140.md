@@ -1,34 +1,34 @@
 ##### § 59.140 Nursing home care requirements.
 
-As a condition for receiving a grant and grant funds for a nursing home facility under this part, States must comply with the requirements of this section.
+As a condition for receiving a grant and grant funds for a nursing home facility under this part, States must comply with the requirements of this section. 
 
-(a) Resident rooms must be designed and equipped for adequate nursing care, comfort, and privacy of residents. Resident rooms must:
+(a) Resident rooms must be designed and equipped for adequate nursing care, comfort, and privacy of residents. Resident rooms must: 
 
-(1) Accommodate no more than four residents;
+(1) Accommodate no more than four residents; 
 
-(2) Have direct access to an exit corridor;
+(2) Have direct access to an exit corridor; 
 
-(3) Have at least one window to the outside;
+(3) Have at least one window to the outside; 
 
-(4) Be equipped with, or located near, toilet and bathing facilities (VA recommends that public toilet facilities also be located near the residents dining and recreational areas);
+(4) Be equipped with, or located near, toilet and bathing facilities (VA recommends that public toilet facilities also be located near the residents dining and recreational areas); 
 
-(5) Be at or above grade level;
+(5) Be at or above grade level; 
 
-(6) Be designed or equipped to ensure full visual privacy for each resident;
+(6) Be designed or equipped to ensure full visual privacy for each resident; 
 
-(7) Except in private rooms, each bed must have ceiling suspended curtains that extend around the bed to provide total visual privacy in combination with adjacent walls and curtains;
+(7) Except in private rooms, each bed must have ceiling suspended curtains that extend around the bed to provide total visual privacy in combination with adjacent walls and curtains; 
 
-(8) Have a separate bed for each resident of proper size and height for the safety of the resident;
+(8) Have a separate bed for each resident of proper size and height for the safety of the resident; 
 
-(9) Have a clean, comfortable mattress;
+(9) Have a clean, comfortable mattress; 
 
-(10) Have bedding appropriate to the weather and climate;
+(10) Have bedding appropriate to the weather and climate; 
 
-(11) Have functional furniture appropriate to the resident's needs, and
+(11) Have functional furniture appropriate to the resident's needs, and 
 
-(12) Have individual closet space with clothes racks and shelves accessible to the resident.
+(12) Have individual closet space with clothes racks and shelves accessible to the resident. 
 
-(b) Unless determined by VA as necessary to accommodate an increased quality of care for patients, a nursing home project may propose a deviation of no more than 10 percent (more or less) from the following net square footage for the State to be eligible for a grant of 65 percent of the total estimated cost of the project. If the project proposes building more than the following net square footage and VA makes a determination that it is not needed, the cost of the additional net square footage will not be included in the estimated total cost of construction.
+(b) Unless determined by VA as necessary to accommodate an increased quality of care for patients, a nursing home project may propose a deviation of no more than 10 percent (more or less) from the following net square footage for the State to be eligible for a grant of 65 percent of the total estimated cost of the project. If the project proposes building more than the following net square footage and VA makes a determination that it is not needed, the cost of the additional net square footage will not be included in the estimated total cost of construction. 
 
 Table to Paragraph (b)—Nursing Home
 | I. Support facilities \[allowable square feet (or metric equivalent) per facility for VA participation\]:                                                                                           |                     |

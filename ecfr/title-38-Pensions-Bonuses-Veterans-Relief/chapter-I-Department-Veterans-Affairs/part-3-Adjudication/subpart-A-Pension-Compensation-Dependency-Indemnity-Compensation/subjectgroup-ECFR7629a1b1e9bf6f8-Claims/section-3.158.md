@@ -1,12 +1,12 @@
 ##### § 3.158 Abandoned claims.
 
-(a) *General.* Except as provided in § 3.652, where evidence requested in connection with an initial claim or supplemental claim or for the purpose of determining continued entitlement is not furnished within 1 year after the date of request, the claim will be considered abandoned. After the expiration of 1 year, further action will not be taken unless a new claim is received. Should the right to benefits be finally established, pension, compensation, dependency and indemnity compensation, or monetary allowance under the provisions of 38 U.S.C. chapter 18 based on such evidence shall commence not earlier than the date of filing the new claim.
+(a) *General.* Except as provided in § 3.652, where evidence requested in connection with an initial claim or supplemental claim or for the purpose of determining continued entitlement is not furnished within 1 year after the date of request, the claim will be considered abandoned. After the expiration of 1 year, further action will not be taken unless a new claim is received. Should the right to benefits be finally established, pension, compensation, dependency and indemnity compensation, or monetary allowance under the provisions of 38 U.S.C. chapter 18 based on such evidence shall commence not earlier than the date of filing the new claim. 
 
 (Authority: 38 U.S.C. 501)
 
-(b) *Department of Veterans Affairs examinations.* Where the veteran fails without adequate reason to respond to an order to report for Department of Veterans Affairs examination within 1 year from the date of request and payments have been discontinued, the claim for such benefits will be considered abandoned.
+(b) *Department of Veterans Affairs examinations.* Where the veteran fails without adequate reason to respond to an order to report for Department of Veterans Affairs examination within 1 year from the date of request and payments have been discontinued, the claim for such benefits will be considered abandoned. 
 
-(c) *Disappearance.* Where payments of pension, compensation, dependency and indemnity compensation, or monetary allowance under the provisions of 38 U.S.C. chapter 18 have not been made or have been discontinued because a payee's present whereabouts is unknown, payments will be resumed effective the day following the date of last payment if entitlement is otherwise established, upon receipt of a valid current address.
+(c) *Disappearance.* Where payments of pension, compensation, dependency and indemnity compensation, or monetary allowance under the provisions of 38 U.S.C. chapter 18 have not been made or have been discontinued because a payee's present whereabouts is unknown, payments will be resumed effective the day following the date of last payment if entitlement is otherwise established, upon receipt of a valid current address. 
 
 Cross References:
 

@@ -1,6 +1,6 @@
 ##### § 3.214 Court decisions; unremarried surviving spouses.
 
-Effective July 15, 1958, a decision rendered by a Federal court in an action to which the United States was a party holding that a surviving spouse of a veteran has not remarried will be followed in determining eligibility for pension, compensation or dependency and indemnity compensation.
+Effective July 15, 1958, a decision rendered by a Federal court in an action to which the United States was a party holding that a surviving spouse of a veteran has not remarried will be followed in determining eligibility for pension, compensation or dependency and indemnity compensation. 
 
 Cross References:
 

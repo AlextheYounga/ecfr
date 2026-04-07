@@ -1,18 +1,18 @@
 ##### § 3.27 Automatic adjustment of benefit rates.
 
-(a) *Improved pension.* Whenever there is a cost-of-living increase in benefit amounts payable under section 215(i) of title II of the Social Security Act, VA shall, effective on the dates such increases become effective, increase by the same percentage each maximum annual rate of pension.
+(a) *Improved pension.* Whenever there is a cost-of-living increase in benefit amounts payable under section 215(i) of title II of the Social Security Act, VA shall, effective on the dates such increases become effective, increase by the same percentage each maximum annual rate of pension. 
 
 (Authority: 38 U.S.C. 5312(a))
 
-(b) *Parents' dependency and indemnity compensation*—*maximum annual income limitation and maximum monthly rates.* Whenever there is a cost-of-living increase in benefit amounts payable under section 215(i) of title II of the Social Security Act, VA shall, effective on the dates such increases become effective, increase by the same percentage the annual income limitations and the maximum monthly rates of dependency indemnity compensation for parents.
+(b) *Parents' dependency and indemnity compensation*—*maximum annual income limitation and maximum monthly rates.* Whenever there is a cost-of-living increase in benefit amounts payable under section 215(i) of title II of the Social Security Act, VA shall, effective on the dates such increases become effective, increase by the same percentage the annual income limitations and the maximum monthly rates of dependency indemnity compensation for parents. 
 
 (Authority: 38 U.S.C. 5312(b)(1))
 
-(c) *Monetary allowance under 38 U.S.C. chapter 18 for certain individuals who are children of Vietnam veterans or children of veterans with covered service in Korea.* Whenever there is a cost-of-living increase in benefit amounts payable under section 215(i) of Title II of the Social Security Act, VA shall, effective on the dates such increases become effective, increase by the same percentage the monthly allowance rates under 38 U.S.C. chapter 18.
+(c) *Monetary allowance under 38 U.S.C. chapter 18 for certain individuals who are children of Vietnam veterans or children of veterans with covered service in Korea.* Whenever there is a cost-of-living increase in benefit amounts payable under section 215(i) of Title II of the Social Security Act, VA shall, effective on the dates such increases become effective, increase by the same percentage the monthly allowance rates under 38 U.S.C. chapter 18. 
 
 (Authority: 38 U.S.C. 1805(b)(3), 1815(d), 1821, 5312)
 
-(d) *Medal of Honor pension.* Beginning in the year 2004, VA shall, effective December 1 of each year, increase the monthly Medal of Honor pension by the same percentage as the percentage by which benefit amounts payable under section 215(i) of Title II of the Social Security Act are increased effective December 1 of such year.
+(d) *Medal of Honor pension.* Beginning in the year 2004, VA shall, effective December 1 of each year, increase the monthly Medal of Honor pension by the same percentage as the percentage by which benefit amounts payable under section 215(i) of Title II of the Social Security Act are increased effective December 1 of such year. 
 
 (Authority: 38 U.S.C. 1562(e))
 

@@ -1,10 +1,10 @@
 ##### § 3.207 Void or annulled marriage.
 
-Proof that a marriage was void or has been annulled should consist of:
+Proof that a marriage was void or has been annulled should consist of: 
 
-(a) *Void.* A certified statement from the claimant setting forth the circumstances which rendered the marriage void, together with such other evidence as may be required for a determination.
+(a) *Void.* A certified statement from the claimant setting forth the circumstances which rendered the marriage void, together with such other evidence as may be required for a determination. 
 
-(b) *Annulled.* A copy or abstract of the decree of annulment. A decree regular on its face will be accepted unless there is reason to question the basic authority of the court to render annulment decrees or there is evidence indicating that the annulment may have been obtained through fraud by either party or by collusion.
+(b) *Annulled.* A copy or abstract of the decree of annulment. A decree regular on its face will be accepted unless there is reason to question the basic authority of the court to render annulment decrees or there is evidence indicating that the annulment may have been obtained through fraud by either party or by collusion. 
 
 Cross References:
 

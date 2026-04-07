@@ -1,8 +1,8 @@
 ##### § 3.707 Dependents' educational assistance.
 
-(a) *Child.* The conditions applicable to the bar to payment of pension, compensation or dependency and indemnity compensation for a child concurrently with educational assistance allowance under 38 U.S.C. chapter 35 are set forth in § 21.3023 of this chapter.
+(a) *Child.* The conditions applicable to the bar to payment of pension, compensation or dependency and indemnity compensation for a child concurrently with educational assistance allowance under 38 U.S.C. chapter 35 are set forth in § 21.3023 of this chapter. 
 
-(b) *Spouse or surviving spouse.* There is no bar to the payment of pension, compensation or dependency and indemnity compensation to a spouse concurrently with educational assistance allowance under 38 U.S.C. ch. 35.
+(b) *Spouse or surviving spouse.* There is no bar to the payment of pension, compensation or dependency and indemnity compensation to a spouse concurrently with educational assistance allowance under 38 U.S.C. ch. 35. 
 
 Cross References:
 
