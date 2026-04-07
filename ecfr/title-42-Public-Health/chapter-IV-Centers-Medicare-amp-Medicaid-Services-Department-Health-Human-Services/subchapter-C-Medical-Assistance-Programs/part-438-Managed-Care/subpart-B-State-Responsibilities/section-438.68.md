@@ -20,10 +20,6 @@
 
 (2) *LTSS.* States with MCO, PIHP, or PAHP contracts which cover LTSS must develop a quantitative network adequacy standard for LTSS provider types.
 
-(i) Time and distance standards for LTSS provider types in which an enrollee must travel to the provider to receive services; and
-
-(ii) Network adequacy standards other than time and distance standards for LTSS provider types that travel to the enrollee to deliver services.
-
 (3) *Scope of network adequacy standards.* Network standards established in accordance with paragraphs (b)(1) and (2) of this section must include all geographic areas covered by the managed care program or, if applicable, the contract between the State and the MCO, PIHP or PAHP. States are permitted to have varying standards for the same provider type based on geographic areas.
 
 (c) *Development of network adequacy standards.* (1) States developing network adequacy standards consistent with paragraph (b)(1) of this section must consider, at a minimum, the following elements:

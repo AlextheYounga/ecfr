@@ -100,7 +100,7 @@ For purposes of this part, the following definitions apply:
 
 (t) *Qualified investment* means a lawful investment, deposit, membership share, or grant that has as its primary purpose community development.
 
-(u) *Small bank* - (1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.322 billion. *Intermediate small bank* means a small bank with assets of at least $330 billion as of December 31 of both of the prior two calendar years and less than $1.322 billion as of December 31 of either of the prior two calendar years.
+(u) *Small bank* - (1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.322 billion. *Intermediate small bank* means a small bank with assets of at least $330 million as of December 31 of both of the prior two calendar years and less than $1.322 billion as of December 31 of either of the prior two calendar years.
 
 (2) *Adjustment.* The dollar figures in paragraph (u)(1) of this section shall be adjusted annually and published by the Board, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve-month period ending in November, with rounding to the nearest million.
 
