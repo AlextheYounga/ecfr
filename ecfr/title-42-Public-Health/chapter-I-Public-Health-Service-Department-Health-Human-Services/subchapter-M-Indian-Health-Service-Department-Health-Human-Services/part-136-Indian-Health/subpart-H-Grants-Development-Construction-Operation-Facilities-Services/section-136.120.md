@@ -2,13 +2,13 @@
 
 Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
 
-Grants awarded pursuant to this subpart will incorporate the following:
+Grants awarded pursuant to this subpart will incorporate the following: 
 
-Use of Indian business concerns.
+Use of Indian business concerns. 
 
-(a) As used in this clause, the term “Indian organizations of an Indian-owned economic enterprise” as defined in section 102(g) of this subpart.
+(a) As used in this clause, the term “Indian organizations of an Indian-owned economic enterprise” as defined in section 102(g) of this subpart. 
 
-(b) The grantee agrees to give preference to qualified Indian business concerns in the awarding of any contracts, subcontracts or subgrants entered into under the grant consistent with the efficient performance of the grant. The grantee shall comply with any preference requirements regarding Indian business concerns established by the tribe(s) receiving services under the grant to the extent that such requirements are consistent with the purpose and intent of this paragraph.
+(b) The grantee agrees to give preference to qualified Indian business concerns in the awarding of any contracts, subcontracts or subgrants entered into under the grant consistent with the efficient performance of the grant. The grantee shall comply with any preference requirements regarding Indian business concerns established by the tribe(s) receiving services under the grant to the extent that such requirements are consistent with the purpose and intent of this paragraph. 
 
 Note:
 

@@ -1,3 +1,0 @@
-##### § 603.630 Use Federally approved indirect cost rates for for-profit firms.
-
-In accordance with the general policy in § 603.605, the contracting officer must require a for-profit participant that has federally approved indirect cost rates for its Federal procurement contracts to use those rates to accumulate and report costs under an expenditure-based TIA. This includes both provisional and final rates that are approved up until the time that the TIA is closed out.

@@ -1,43 +1,43 @@
 ##### § 447.518 State plan requirements, findings, and assurances.
 
-(a) *State plan.* (1) The State plan must describe comprehensively the agency's payment methodology for prescription drugs, including the agency's payment methodology for drugs dispensed by all of the following:
+(a) *State plan.* (1) The State plan must describe comprehensively the agency's payment methodology for prescription drugs, including the agency's payment methodology for drugs dispensed by all of the following: 
 
-(i) A covered entity described in section 1927(a)(5)(B) of the Act.
+(i) A covered entity described in section 1927(a)(5)(B) of the Act. 
 
-(ii) A contract pharmacy under contract with a covered entity described in section 1927(a)(5)(B) of the Act.
+(ii) A contract pharmacy under contract with a covered entity described in section 1927(a)(5)(B) of the Act. 
 
-(iii) An Indian Health Service, tribal and urban Indian pharmacy.
+(iii) An Indian Health Service, tribal and urban Indian pharmacy. 
 
-(2) The agency's payment methodology in paragraph (a)(1) of this section must be in accordance with the definition of AAC in § 447.502.
+(2) The agency's payment methodology in paragraph (a)(1) of this section must be in accordance with the definition of AAC in § 447.502. 
 
-(b) *Findings and assurances.* Upon proposing significant State plan changes in payments for prescription drugs, and at least annually for multiple source drugs and triennially for all other drugs, the agency must make the following findings and assurances:
+(b) *Findings and assurances.* Upon proposing significant State plan changes in payments for prescription drugs, and at least annually for multiple source drugs and triennially for all other drugs, the agency must make the following findings and assurances: 
 
-(1) *Findings.* The agency must make the following separate and distinct findings:
+(1) *Findings.* The agency must make the following separate and distinct findings: 
 
-(i) In the aggregate, its Medicaid expenditures for multiple source drugs, identified and listed in accordance with § 447.514(a), are in accordance with the upper limits specified in § 447.514(b).
+(i) In the aggregate, its Medicaid expenditures for multiple source drugs, identified and listed in accordance with § 447.514(a), are in accordance with the upper limits specified in § 447.514(b). 
 
-(ii) In the aggregate, its Medicaid expenditures for all other drugs are in accordance with § 447.512.
+(ii) In the aggregate, its Medicaid expenditures for all other drugs are in accordance with § 447.512. 
 
-(2) *Assurances.* The agency must make assurances satisfactory to CMS that the requirements set forth in §§ 447.512 and 447.514 concerning upper limits and in paragraph (b)(1) of this section concerning agency findings are met.
+(2) *Assurances.* The agency must make assurances satisfactory to CMS that the requirements set forth in §§ 447.512 and 447.514 concerning upper limits and in paragraph (b)(1) of this section concerning agency findings are met. 
 
-(c) *Recordkeeping.* The agency must maintain and make available to CMS, upon request, data, mathematical or statistical computations, comparisons, and any other pertinent records to support its findings and assurances.
+(c) *Recordkeeping.* The agency must maintain and make available to CMS, upon request, data, mathematical or statistical computations, comparisons, and any other pertinent records to support its findings and assurances. 
 
-(d) *Data requirements.*(1) When proposing changes to either the ingredient cost reimbursement or professional dispensing fee reimbursement, States are required to evaluate their proposed changes in accordance with the requirements of this subpart, and States must consider both the ingredient cost reimbursement and the professional dispensing fee reimbursement when proposing such changes to ensure that total reimbursement to the pharmacy provider is in accordance with requirements of section 1902(a)(30)(A) of the Act. States must provide adequate cost-based data, such as a State or national survey of retail pharmacy providers or other reliable cost-based data other than a survey, to support any proposed changes to either or both of the components of the reimbursement methodology. States must submit to CMS the proposed change in reimbursement and the supporting data through a State plan amendment formal review process. Research and data must be based on pharmacy costs and be sufficient to establish the adequacy of both current ingredient cost reimbursement and professional dispensing fee reimbursement. Submission by the State of data that are not based on pharmacy costs, such as market-based research (for example, third party payments accepted by pharmacies), to support the professional dispensing fee would not qualify as supporting data.
+(d) *Data requirements.*(1) When proposing changes to either the ingredient cost reimbursement or professional dispensing fee reimbursement, States are required to evaluate their proposed changes in accordance with the requirements of this subpart, and States must consider both the ingredient cost reimbursement and the professional dispensing fee reimbursement when proposing such changes to ensure that total reimbursement to the pharmacy provider is in accordance with requirements of section 1902(a)(30)(A) of the Act. States must provide adequate cost-based data, such as a State or national survey of retail pharmacy providers or other reliable cost-based data other than a survey, to support any proposed changes to either or both of the components of the reimbursement methodology. States must submit to CMS the proposed change in reimbursement and the supporting data through a State plan amendment formal review process. Research and data must be based on pharmacy costs and be sufficient to establish the adequacy of both current ingredient cost reimbursement and professional dispensing fee reimbursement. Submission by the State of data that are not based on pharmacy costs, such as market-based research (for example, third party payments accepted by pharmacies), to support the professional dispensing fee would not qualify as supporting data. 
 
-(2) A State participating in VBP arrangements approved under a CMS-authorized supplemental rebate agreement (SRA) must report data described in paragraph (d)(3) of this section on an annual basis.
+(2) A State participating in VBP arrangements approved under a CMS-authorized supplemental rebate agreement (SRA) must report data described in paragraph (d)(3) of this section on an annual basis. 
 
-(3) Within 60 days of the end of each year, the State must submit all of the following data, including cumulative data to date:
+(3) Within 60 days of the end of each year, the State must submit all of the following data, including cumulative data to date: 
 
-(i) State.
+(i) State. 
 
-(ii) National drug code(s) (for drugs covered under the CMS-authorized VBP SRA).
+(ii) National drug code(s) (for drugs covered under the CMS-authorized VBP SRA). 
 
-(iii) Product's FDA list name.
+(iii) Product's FDA list name. 
 
-(iv) Number of prescriptions.
+(iv) Number of prescriptions. 
 
-(v) Cost to the State to administer the CMS-authorized VBP SRA (for example, systems changes, tracking outcomes, etc.).
+(v) Cost to the State to administer the CMS-authorized VBP SRA (for example, systems changes, tracking outcomes, etc.). 
 
-(vi) Total savings generated by the supplemental rebate due to the CMS-authorized VBP SRA.
+(vi) Total savings generated by the supplemental rebate due to the CMS-authorized VBP SRA. 
 
 \[81 FR 5347, Feb. 16, 2016, as amended at 86 FR 87104, Dec. 31, 2020; 89 FR 79084, Sept. 26, 2024\]

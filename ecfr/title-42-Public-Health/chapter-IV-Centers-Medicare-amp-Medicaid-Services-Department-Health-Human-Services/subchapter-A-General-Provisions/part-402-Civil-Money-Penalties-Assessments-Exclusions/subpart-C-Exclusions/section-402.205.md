@@ -1,8 +1,8 @@
 ##### § 402.205 Length of exclusion.
 
-The length of exclusion from participation in Medicare, Medicaid, and, where applicable, other Federal health care programs, is contingent upon the specific violation of the Medicare statute. A full description of the specific violations identified in the sections of the Act are cross-referenced in the regulatory sections listed in the table in paragraph (a) of this section.
+The length of exclusion from participation in Medicare, Medicaid, and, where applicable, other Federal health care programs, is contingent upon the specific violation of the Medicare statute. A full description of the specific violations identified in the sections of the Act are cross-referenced in the regulatory sections listed in the table in paragraph (a) of this section. 
 
-(a) In no event will the period of exclusion exceed 5 years for violation of the following sections of the Act:
+(a) In no event will the period of exclusion exceed 5 years for violation of the following sections of the Act: 
 
 | Social Security Act   paragraph     | Code of Federal Regulations   section |
 | ----------------------------------- | ------------------------------------- |
@@ -27,7 +27,7 @@ The length of exclusion from participation in Medicare, Medicaid, and, where app
 | 1848(g)(4)(B)(ii) in repeated cases | § 402.1(c)(19)                        |
 | 1879(h)                             | § 402.1(c)(23)                        |
 
-(b) For violation of the following sections, there is no maximum time limit for the period of exclusion.
+(b) For violation of the following sections, there is no maximum time limit for the period of exclusion. 
 
 | Social Security Act   paragraph          | Code of Federal Regulations   section |
 | ---------------------------------------- | ------------------------------------- |
@@ -42,8 +42,8 @@ The length of exclusion from participation in Medicare, Medicaid, and, where app
 | 1882(s)(4)                               | § 402.1(c)(29)                        |
 | 1882(t)(2)                               | § 402.1(c)(30)                        |
 
-(c) For a person excluded under any of the grounds specified in paragraph (a) of this section, notwithstanding any other requirements in this section, reinstatement occurs—
+(c) For a person excluded under any of the grounds specified in paragraph (a) of this section, notwithstanding any other requirements in this section, reinstatement occurs— 
 
-(1) At the expiration of the period of exclusion, if the exclusion was imposed for a period of 5 years; or
+(1) At the expiration of the period of exclusion, if the exclusion was imposed for a period of 5 years; or 
 
 (2) At the expiration of 5 years from the effective date of the exclusion, if the exclusion was imposed for a period of less than 5 years and the initiating agency did not receive the appropriate written request for reinstatement as specified in § 402.300.

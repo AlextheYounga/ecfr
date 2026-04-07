@@ -1,6 +1,6 @@
 ##### § 412.340 Fully prospective payment methodology.
 
-A hospital paid under the fully prospective payment methodology receives a payment per discharge based on a proportion of the hospital-specific rate and the Federal rate as follows:
+A hospital paid under the fully prospective payment methodology receives a payment per discharge based on a proportion of the hospital-specific rate and the Federal rate as follows: 
 
 | Cost reporting periods beginning on or after: | Federal rate percentage | Hospital-specific rate percentage |
 | --------------------------------------------- | ----------------------- | --------------------------------- |

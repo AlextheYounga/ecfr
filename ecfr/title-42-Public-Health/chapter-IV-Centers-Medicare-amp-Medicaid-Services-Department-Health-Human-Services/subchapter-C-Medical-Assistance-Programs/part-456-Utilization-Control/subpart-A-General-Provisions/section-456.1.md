@@ -1,38 +1,38 @@
 ##### § 456.1 Basis and purpose of part.
 
-(a) This part prescribes requirements concerning control of the utilization of Medicaid services including—
+(a) This part prescribes requirements concerning control of the utilization of Medicaid services including— 
 
-(1) A statewide program of control of the utilization of all Medicaid services; and
+(1) A statewide program of control of the utilization of all Medicaid services; and 
 
-(2) Specific requirements for the control of the utilization of Medicaid services in institutions.
+(2) Specific requirements for the control of the utilization of Medicaid services in institutions. 
 
-(3) Specific requirements for an outpatient drug use review program.
+(3) Specific requirements for an outpatient drug use review program. 
 
-(b) The requirements in this part are based on the following sections of the Act. Table 1 shows the relationship between these sections of the Act and the requirements in this part.
+(b) The requirements in this part are based on the following sections of the Act. Table 1 shows the relationship between these sections of the Act and the requirements in this part. 
 
-(1) *Methods and procedures to safeguard against unnecessary utilization of care and services.* Section 1902(a)(30) requires that the State plan provide methods and procedures to safeguard against unnecessary utilization of care and services.
+(1) *Methods and procedures to safeguard against unnecessary utilization of care and services.* Section 1902(a)(30) requires that the State plan provide methods and procedures to safeguard against unnecessary utilization of care and services. 
 
-(2) *Penalty for failure to have an effective program to control utilization of institutional services.* Section 1903(g)(1) provides for a reduction in the amount of Federal Medicaid funds paid to a State for long-stay inpatient services if the State does not make a showing satisfactory to the Secretary that it has an effective program of control over utilization of those services. This penalty provision applies to inpatient services in hospitals, mental hospitals, and intermediate care facilities (ICF's). Specific requirements are:
+(2) *Penalty for failure to have an effective program to control utilization of institutional services.* Section 1903(g)(1) provides for a reduction in the amount of Federal Medicaid funds paid to a State for long-stay inpatient services if the State does not make a showing satisfactory to the Secretary that it has an effective program of control over utilization of those services. This penalty provision applies to inpatient services in hospitals, mental hospitals, and intermediate care facilities (ICF's). Specific requirements are: 
 
-(i) Under section 1903(g)(1)(A), a physician must certify at admission, and a physician (or physician assistant or nurse practitioner under the supervision of a physician) must periodically recertify, the individual's need for inpatient care.
+(i) Under section 1903(g)(1)(A), a physician must certify at admission, and a physician (or physician assistant or nurse practitioner under the supervision of a physician) must periodically recertify, the individual's need for inpatient care. 
 
-(ii) Under section 1903(g)(1)(B), services must be furnished under a plan established and periodically evaluated by a physician.
+(ii) Under section 1903(g)(1)(B), services must be furnished under a plan established and periodically evaluated by a physician. 
 
-(iii) Under section 1903(g)(1)(C), the State must have in effect a continuous program of review of utilization of care and services under section 1902(a)(30) whereby each admission is reviewed or screened in accordance with criteria established by medical and other professional personnel.
+(iii) Under section 1903(g)(1)(C), the State must have in effect a continuous program of review of utilization of care and services under section 1902(a)(30) whereby each admission is reviewed or screened in accordance with criteria established by medical and other professional personnel. 
 
-(iv) Under section 1903(g)(1)(D), the State must have an effective program under sections 1902(a) (26) and (31) of review of care in intermediate care facilities and mental hospitals. This must include evaluation at least annually of the professional management of each case.
+(iv) Under section 1903(g)(1)(D), the State must have an effective program under sections 1902(a) (26) and (31) of review of care in intermediate care facilities and mental hospitals. This must include evaluation at least annually of the professional management of each case. 
 
-(3) *Medical review in mental hospitals.* Section 1902(a)(26)(A) requires that the plan provide for a program of medical review that includes a medical evaluation of each individual's need for care in a mental hospital, a plan of care, and, where applicable, a plan of rehabilitation.
+(3) *Medical review in mental hospitals.* Section 1902(a)(26)(A) requires that the plan provide for a program of medical review that includes a medical evaluation of each individual's need for care in a mental hospital, a plan of care, and, where applicable, a plan of rehabilitation. 
 
-(4) *Independent professional review in intermediate care facilities.* Section 1902(a)(31)(A) requires that the plan provide for a program of independent professional review that includes a medical evaluation of each individual's need for intermediate care and a written plan of service.
+(4) *Independent professional review in intermediate care facilities.* Section 1902(a)(31)(A) requires that the plan provide for a program of independent professional review that includes a medical evaluation of each individual's need for intermediate care and a written plan of service. 
 
-(5) *Inspection of care and services in institutions.* Sections 1902(a)(26) (B) and (C) and 1902(a)(31) (B) and (C) require that the plan provide for periodic inspections and reports, by a team of professional persons, of the care being provided to each beneficiary in institutions for mental diseases (IMD's), and ICF's participating in Medicaid.
+(5) *Inspection of care and services in institutions.* Sections 1902(a)(26) (B) and (C) and 1902(a)(31) (B) and (C) require that the plan provide for periodic inspections and reports, by a team of professional persons, of the care being provided to each beneficiary in institutions for mental diseases (IMD's), and ICF's participating in Medicaid. 
 
-(6) *Denial of FFP for failure to have specified utilization review procedures.* Section 1903(i)(4) provides that FFP is not available in a State's expenditures for hospital or mental hospital services unless the institution has in effect a utilization review plan that meets Medicare requirements. However, the Secretary may waive this requirement if the Medicaid agency demonstrates to his satisfaction that it has utilization review procedures superior in effectiveness to the Medicare procedures.
+(6) *Denial of FFP for failure to have specified utilization review procedures.* Section 1903(i)(4) provides that FFP is not available in a State's expenditures for hospital or mental hospital services unless the institution has in effect a utilization review plan that meets Medicare requirements. However, the Secretary may waive this requirement if the Medicaid agency demonstrates to his satisfaction that it has utilization review procedures superior in effectiveness to the Medicare procedures. 
 
-(7) *State health agency guidance on quality and appropriateness of care and services.* Section 1902(a)(33)(A) requires that the plan provide that the State health or other appropriate medical agency establish a plan for review, by professional health personnel, of the appropriateness and quality of Medicaid services to provide guidance to the Medicaid agency and the State licensing agency in administering the Medicaid program.
+(7) *State health agency guidance on quality and appropriateness of care and services.* Section 1902(a)(33)(A) requires that the plan provide that the State health or other appropriate medical agency establish a plan for review, by professional health personnel, of the appropriateness and quality of Medicaid services to provide guidance to the Medicaid agency and the State licensing agency in administering the Medicaid program. 
 
-(8) *Drug use review program.* Section 1927(g) of the Act provides that, for payment to be made under section 1903 of the Act for covered outpatient drugs, the State must have in operation, by not later than January 1, 1993, a drug use review (DUR) program. It also requires that each State provide, either directly or through a contract with a private organization, for the establishment of a DUR Board.
+(8) *Drug use review program.* Section 1927(g) of the Act provides that, for payment to be made under section 1903 of the Act for covered outpatient drugs, the State must have in operation, by not later than January 1, 1993, a drug use review (DUR) program. It also requires that each State provide, either directly or through a contract with a private organization, for the establishment of a DUR Board. 
 
 Table 1
 

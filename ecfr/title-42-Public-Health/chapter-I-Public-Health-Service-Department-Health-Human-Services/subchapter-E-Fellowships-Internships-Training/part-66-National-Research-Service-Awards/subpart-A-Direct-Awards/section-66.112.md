@@ -1,6 +1,6 @@
 ##### § 66.112 Other HHS regulations and policies that apply.
 
-Several other regulations and policies may apply to individuals and institutions receiving payments under this subpart. These include, but are not limited to:
+Several other regulations and policies may apply to individuals and institutions receiving payments under this subpart. These include, but are not limited to: 
 
 45 CFR part 46—Protection of human subjects 45 CFR part 76—Governmentwide debarment and suspension (nonprocurement) and governmentwide requirements for drug-free workplace (grants) 45 CFR part 80—Nondiscrimination under programs receiving Federal assistance through the Department of Health and Human Services effectuation of title VI of the Civil Rights Act of 1964 45 CFR part 81—Practice and procedure for hearings under part 80 of this Title 45 CFR part 84—Nondiscrimination on the basis of handicap in programs and activities receiving or benefiting from Federal financial assistance 45 CFR part 86—Nondiscrimination on the basis of sex in education programs and activities receiving or benefiting from Federal financial assistance 45 CFR part 91—Nondiscrimination on the basis of age in HHS programs or activities receiving Federal financial assistance 51 FR 16958 (May 7, 1986)—NIH Guidelines for Research Involving Recombinant DNA Molecules. Note:
 

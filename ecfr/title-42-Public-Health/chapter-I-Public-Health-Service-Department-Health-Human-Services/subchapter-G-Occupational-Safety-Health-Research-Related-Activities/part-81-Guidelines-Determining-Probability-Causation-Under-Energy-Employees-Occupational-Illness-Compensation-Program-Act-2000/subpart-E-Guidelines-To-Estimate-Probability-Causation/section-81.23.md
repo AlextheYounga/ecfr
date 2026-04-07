@@ -1,6 +1,6 @@
 ##### § 81.23 Guidelines for cancers for which primary site is unknown.
 
-(a) In claims for which the primary cancer site cannot be determined, but a site of metastasis is known, DOL will calculate probability of causation estimates for various likely primary sites. Table 1 of this paragraph (a) indicates the primary cancer site(s) DOL will use in NIOSH-IREP when the primary cancer site is unknown.
+(a) In claims for which the primary cancer site cannot be determined, but a site of metastasis is known, DOL will calculate probability of causation estimates for various likely primary sites. Table 1 of this paragraph (a) indicates the primary cancer site(s) DOL will use in NIOSH-IREP when the primary cancer site is unknown. 
 
 Table 1 to Paragraph (a) Primary cancers (ICD-10-CM codes) for which probability of causation is to be calculated, if only a secondary cancer site is known. “M” indicates cancer site should be used for males only, and “F” indicates the cancer site should be used for females only.
 
@@ -39,6 +39,6 @@ Table 1 to Paragraph (a) Primary cancers (ICD-10-CM codes) for which probability
 | Carcinoid tumor of peritoneum (C7B.04)          | C16, C18, C19(M), C20(M), C21(M), C25, C33(M), C34(M), C49, C50(F), C54(F), C56(F), C57(F).                                                                                            |
 | Merkel cell carcinoma (C7B.1)                   | C18, C33, C34, C49(M), C43, C44(M), C50(F), C64(M), C65(M), C66(M), C68(M), D03.                                                                                                       |
 
-(b) DOL will select the site producing the highest estimate for probability of causation to adjudicate the claim.
+(b) DOL will select the site producing the highest estimate for probability of causation to adjudicate the claim. 
 
 \[67 FR 22309, May 2, 2002, as amended at 84 FR 37590, Aug. 1, 2019\]

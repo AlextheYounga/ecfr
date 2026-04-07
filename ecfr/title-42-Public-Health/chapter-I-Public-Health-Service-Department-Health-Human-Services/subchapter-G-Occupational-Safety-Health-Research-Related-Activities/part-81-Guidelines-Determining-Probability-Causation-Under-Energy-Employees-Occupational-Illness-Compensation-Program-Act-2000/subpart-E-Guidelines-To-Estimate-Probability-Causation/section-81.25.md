@@ -1,6 +1,6 @@
 ##### § 81.25 Guidelines for claims including two or more primary cancers.
 
-For claims including two or more primary cancers, DOL will use NIOSH-IREP to calculate the estimated probability of causation for each cancer individually. Then DOL will perform the following calculation using the probability of causation estimates produced by NIOSH-IREP:
+For claims including two or more primary cancers, DOL will use NIOSH-IREP to calculate the estimated probability of causation for each cancer individually. Then DOL will perform the following calculation using the probability of causation estimates produced by NIOSH-IREP: 
 
 Equation 1 Calculate: 1−\[{1−PC1} × {1−PC2} × . . . × {1−PCn}\] = PCtotal, where PC1 is the probability of causation for one of the primary cancers identified in the claim, PC2 is the probability of causation for a second primary cancer identified in the claim, and PCn is the probability of causation for the nth primary cancer identified in the claim. PCtotal is the probability that at least one of the primary cancers (cancers 1 through “n”) was caused by the radiation dose estimated for the claim when Equation 1 is evaluated based on the joint distribution of PC1, . . ., PCn. 3 DOL will use the probability of causation value calculated for PCtotal to adjudicate the claim. 
 

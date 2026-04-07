@@ -1,8 +1,8 @@
 ##### § 70.9 Vaccination clinics.
 
-(a) The Director may establish vaccination clinics, through contract or otherwise, authorized to administer vaccines and/or other prophylaxis.
+(a) The Director may establish vaccination clinics, through contract or otherwise, authorized to administer vaccines and/or other prophylaxis. 
 
-(b) A vaccination fee may be charged for individuals not enrolled in Medicare Part B to cover costs associated with administration of the vaccine and/or other prophylaxis. Such fee is to be collected at the time that the vaccine is administered. The vaccination fee, if imposed, is shown in the following table:
+(b) A vaccination fee may be charged for individuals not enrolled in Medicare Part B to cover costs associated with administration of the vaccine and/or other prophylaxis. Such fee is to be collected at the time that the vaccine is administered. The vaccination fee, if imposed, is shown in the following table: 
 
 | Vaccine                                                | Effective dates | Amount   |
 | ------------------------------------------------------ | --------------- | -------- |

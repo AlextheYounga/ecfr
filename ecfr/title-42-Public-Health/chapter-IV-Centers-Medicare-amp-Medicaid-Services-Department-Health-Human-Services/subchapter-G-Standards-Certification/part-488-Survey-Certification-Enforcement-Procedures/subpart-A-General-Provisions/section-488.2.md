@@ -1,6 +1,6 @@
 ##### § 488.2 Statutory basis.
 
-This part is based on the indicated provisions of the following sections of the Act:
+This part is based on the indicated provisions of the following sections of the Act: 
 
 Table 1 to § 488.2
 | Section        | Subject                                                                                                                                                                                                                   |

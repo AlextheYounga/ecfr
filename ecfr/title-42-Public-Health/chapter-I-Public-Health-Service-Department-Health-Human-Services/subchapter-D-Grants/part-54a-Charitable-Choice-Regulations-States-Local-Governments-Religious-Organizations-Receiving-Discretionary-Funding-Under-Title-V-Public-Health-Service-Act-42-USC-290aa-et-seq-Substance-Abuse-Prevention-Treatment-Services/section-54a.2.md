@@ -1,14 +1,14 @@
 ##### § 54a.2 Definitions.
 
-(a) *Applicable program* means the programs authorized under Title V of the PHS Act, 42 U.S.C. 290aa, *et seq.,* for the provision of substance abuse prevention and or treatment services.
+(a) *Applicable program* means the programs authorized under Title V of the PHS Act, 42 U.S.C. 290aa, *et seq.,* for the provision of substance abuse prevention and or treatment services. 
 
-(b) *Religious organization* means a nonprofit religious organization.
+(b) *Religious organization* means a nonprofit religious organization. 
 
-(c) *Program beneficiary* means an individual who receives substance abuse services under a program funded in whole or in part by applicable programs.
+(c) *Program beneficiary* means an individual who receives substance abuse services under a program funded in whole or in part by applicable programs. 
 
-(d) *Program participant* means a public or private entity that has received financial assistance under an applicable program.
+(d) *Program participant* means a public or private entity that has received financial assistance under an applicable program. 
 
-(e) *SAMHSA* means the Substance Abuse and Mental Health Services Administration.
+(e) *SAMHSA* means the Substance Abuse and Mental Health Services Administration. 
 
 (f) *SAMHSA Charitable Choice* provisions means the provisions of 42 U.S.C. 300x-65 and 42 U.S.C. 290kk, *et seq.*
 

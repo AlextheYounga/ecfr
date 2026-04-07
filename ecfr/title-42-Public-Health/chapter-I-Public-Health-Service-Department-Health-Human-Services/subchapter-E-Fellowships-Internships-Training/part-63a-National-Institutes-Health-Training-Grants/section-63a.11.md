@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 80067, Oct. 2, 2024.
 
-Several other HHS regulations and policies apply to this part. These include, but are not necessarily limited to:
+Several other HHS regulations and policies apply to this part. These include, but are not necessarily limited to: 
 
 42 CFR part 50, subpart A—Responsibility of PHS awardee and applicant institutions for dealing with and reporting possible misconduct in science 42 CFR part 50, subpart D—Public Health Service grant appeals procedure 45 CFR part 16—Procedures of the Departmental Grant Appeals Board 45 CFR part 46—Protection of human subjects 45 CFR part 75—Uniform administrative requirements, cost principles, and audit requirements for HHS Awards 45 CFR part 76—Governmentwide debarment and suspension (nonprocurement) and governmentwide requirements for drug-free workplace (grants) 45 CFR part 80—Nondiscrimination under programs receiving Federal assistance through the Department of Health and Human Services effectuation of title VI of the Civil Rights Act of 1964 45 CFR part 81—Practice and procedure for hearings under part 80 of this title 45 CFR part 84—Nondiscrimination on the basis of handicap in programs and activities receiving Federal financial assistance 45 CFR part 86—Nondiscrimination on the basis of sex in education programs and activities receiving or benefiting from Federal financial assistance 45 CFR part 91—Nondiscrimination on the basis of age in HHS programs or activities receiving Federal financial assistance 45 CFR part 93—New restrictions on lobbying 59 FR 14508 (March 28, 1994)—NIH Guidelines on the Inclusion of Women and Minorities as Subjects in Clinical Research. Note:
 

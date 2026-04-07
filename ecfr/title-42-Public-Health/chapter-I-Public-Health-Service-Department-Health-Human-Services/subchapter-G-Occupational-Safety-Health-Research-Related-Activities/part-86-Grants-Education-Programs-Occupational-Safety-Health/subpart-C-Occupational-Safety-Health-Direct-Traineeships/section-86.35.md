@@ -1,6 +1,6 @@
 ##### § 86.35 Payments.
 
-(a) Individuals receiving awards shall be entitled to such stipends and allowances as the Secretary may designate, taking into account such factors as the needs of the program, the cost of living, and the availability of funds.
+(a) Individuals receiving awards shall be entitled to such stipends and allowances as the Secretary may designate, taking into account such factors as the needs of the program, the cost of living, and the availability of funds. 
 
 (Note:
 

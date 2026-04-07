@@ -1,10 +1,10 @@
 ##### § 423.910 Requirements.
 
-(a) *General rule.* Each of the 50 States and the District of Columbia is required to provide for payment to CMS a phased-down contribution to defray a portion of the Medicare drug expenditures for individuals whose projected Medicaid drug coverage is assumed by Medicare Part D.
+(a) *General rule.* Each of the 50 States and the District of Columbia is required to provide for payment to CMS a phased-down contribution to defray a portion of the Medicare drug expenditures for individuals whose projected Medicaid drug coverage is assumed by Medicare Part D. 
 
-(b) *State contribution payment*—
+(b) *State contribution payment*— 
 
-(1) *Calculation of payment.* The State contribution payment is calculated by CMS on a monthly basis, as indicated in the following chart. For States that do not meet state enrollment reporting requirement described in paragraph (d) of this section, the State contribution payment is calculated using a methodology determined by CMS.
+(1) *Calculation of payment.* The State contribution payment is calculated by CMS on a monthly basis, as indicated in the following chart. For States that do not meet state enrollment reporting requirement described in paragraph (d) of this section, the State contribution payment is calculated using a methodology determined by CMS. 
 
 Illustrative Calculation of State Phased-down Monthly Contribution for 2006
 |        | Item                                                                                                                                                                                                                         | Illustrative Value | Source                                           |
@@ -24,22 +24,22 @@ Illustrative Calculation of State Phased-down Monthly Contribution for 2006
 | (xiii) | Phased-down State reduction factor for the month                                                                                                                                                                             | 0.9000             | specified in statute                             |
 | (xiv)  | Phased-down State contribution for the month                                                                                                                                                                                 | $8,586,000         | 1 / 12 × (9) × (10) × \[1 + (11)\] × (12) × (13) |
 
-(2) *Method of payment.* Payments for the phased down State contribution begins in January 2006, and are made on a monthly basis for each subsequent month. State payment must be made in a manner specified by CMS that is similar to the manner in which State payments are made under the State Buy-in Program except that all payments must be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund. The policy on collection of the Phased-down State contribution payment is the same as the policy that governs collection of Part A and Part B Medicare premiums for State Buy-in.
+(2) *Method of payment.* Payments for the phased down State contribution begins in January 2006, and are made on a monthly basis for each subsequent month. State payment must be made in a manner specified by CMS that is similar to the manner in which State payments are made under the State Buy-in Program except that all payments must be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund. The policy on collection of the Phased-down State contribution payment is the same as the policy that governs collection of Part A and Part B Medicare premiums for State Buy-in. 
 
-(c) *State Medicaid Statistical Information System (MSIS) Reporting.* Effective with calendar year (CY) 2003 and all subsequent MSIS data submittals, States are required to provide accurate and complete coding to identify the numbers and types of Medicaid and Medicare dual eligibles. Calendar year 2003 submittals must be complete and must be accepted, based on CMS' data quality review, by December 31, 2004.
+(c) *State Medicaid Statistical Information System (MSIS) Reporting.* Effective with calendar year (CY) 2003 and all subsequent MSIS data submittals, States are required to provide accurate and complete coding to identify the numbers and types of Medicaid and Medicare dual eligibles. Calendar year 2003 submittals must be complete and must be accepted, based on CMS' data quality review, by December 31, 2004. 
 
-(d) *State monthly enrollment reporting.*—
+(d) *State monthly enrollment reporting.*— 
 
-(1) States must submit an electronic file as specified in paragraph (d)(2) of this section, identifying each full-benefit dual eligible individual enrolled in the State for each month. This file must include specified information including identifying information, a dual eligible type code, available income data and institutional status. The file includes data on enrollment for the current month, plus retroactive changes in enrollment characteristics for prior months. This file will be used by CMS to establish the monthly enrollment for those individuals with Part D drug coverage who are also determined by the State to be eligible for full Medicaid benefits subject to the phased down State contribution payment. This file is due to CMS no later than the last day of the reporting month. For States that do not submit an acceptable file by the end of the month, the phased down State contribution for that month is based on data deemed appropriate by CMS.
+(1) States must submit an electronic file as specified in paragraph (d)(2) of this section, identifying each full-benefit dual eligible individual enrolled in the State for each month. This file must include specified information including identifying information, a dual eligible type code, available income data and institutional status. The file includes data on enrollment for the current month, plus retroactive changes in enrollment characteristics for prior months. This file will be used by CMS to establish the monthly enrollment for those individuals with Part D drug coverage who are also determined by the State to be eligible for full Medicaid benefits subject to the phased down State contribution payment. This file is due to CMS no later than the last day of the reporting month. For States that do not submit an acceptable file by the end of the month, the phased down State contribution for that month is based on data deemed appropriate by CMS. 
 
-(2)(i) For the period prior to April 1, 2022, States must submit the file at least monthly and may submit updates to that file on a more frequent basis.
+(2)(i) For the period prior to April 1, 2022, States must submit the file at least monthly and may submit updates to that file on a more frequent basis. 
 
-(ii) For the period beginning April 1, 2022, States must submit the file at least monthly and must submit updates to that file on a daily basis.
+(ii) For the period beginning April 1, 2022, States must submit the file at least monthly and must submit updates to that file on a daily basis. 
 
-(e) *Data match.* CMS performs those periodic data matches as may be necessary to identify and compute the number of full-benefit dual eligible individuals needed to establish the State contribution payment.
+(e) *Data match.* CMS performs those periodic data matches as may be necessary to identify and compute the number of full-benefit dual eligible individuals needed to establish the State contribution payment. 
 
-(f) *Rebate adjustment factor.* CMS establishes the rebate adjustment factor using total drug expenditures made and drug rebates received during calendar year 2003 as reported on CMS 64 Medicaid expenditure reports for the four quarters of calendar year 2003 that were received by CMS on or before March 31, 2004. Rebates include rebates received under the national rebate agreement and under a State supplemental rebate program, as reported on CMS-64 expenditure reports for the four quarters of calendar year 2003.
+(f) *Rebate adjustment factor.* CMS establishes the rebate adjustment factor using total drug expenditures made and drug rebates received during calendar year 2003 as reported on CMS 64 Medicaid expenditure reports for the four quarters of calendar year 2003 that were received by CMS on or before March 31, 2004. Rebates include rebates received under the national rebate agreement and under a State supplemental rebate program, as reported on CMS-64 expenditure reports for the four quarters of calendar year 2003. 
 
-(g) *Annual per capita drug expenditures.* CMS notifies each State no later than October 15 before each calendar year, beginning October 15, 2005, of their annual per capita drug payment expenditure amount for the next year.
+(g) *Annual per capita drug expenditures.* CMS notifies each State no later than October 15 before each calendar year, beginning October 15, 2005, of their annual per capita drug payment expenditure amount for the next year. 
 
 \[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20509, Apr. 15, 2008; 85 FR 25634, May 1, 2020\]

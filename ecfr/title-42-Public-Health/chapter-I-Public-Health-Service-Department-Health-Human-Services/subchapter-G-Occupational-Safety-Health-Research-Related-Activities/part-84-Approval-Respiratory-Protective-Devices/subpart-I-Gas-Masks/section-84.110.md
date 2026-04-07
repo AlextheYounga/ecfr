@@ -1,14 +1,14 @@
 ##### § 84.110 Gas masks; description.
 
-(a) Gas masks including all completely assembled air purifying masks designed for use as respiratory protection during entry into atmospheres not immediately dangerous to life or health or escape only from hazardous atmospheres containing adequate oxygen to support life are described as follows:
+(a) Gas masks including all completely assembled air purifying masks designed for use as respiratory protection during entry into atmospheres not immediately dangerous to life or health or escape only from hazardous atmospheres containing adequate oxygen to support life are described as follows: 
 
-(1) *Front-mounted or back-mounted gas mask.* A gas mask which consists of a full facepiece, a breathing tube, a canister at the front or back, a canister harness, and associated connections.
+(1) *Front-mounted or back-mounted gas mask.* A gas mask which consists of a full facepiece, a breathing tube, a canister at the front or back, a canister harness, and associated connections. 
 
-(2) *Chin-style gas mask.* A gas mask which consists of a full facepiece, a canister which is usually attached to the facepiece, and associated connections.
+(2) *Chin-style gas mask.* A gas mask which consists of a full facepiece, a canister which is usually attached to the facepiece, and associated connections. 
 
-(3) *Escape gas mask.* A gas mask designed for use during escape only from hazardous atmospheres which consists of a facepiece or mouthpiece, a canister, and associated connections.
+(3) *Escape gas mask.* A gas mask designed for use during escape only from hazardous atmospheres which consists of a facepiece or mouthpiece, a canister, and associated connections. 
 
-(b) Gas masks shall be further described according to the types of gases or vapors against which they are designed to provide respiratory protection, as follows:
+(b) Gas masks shall be further described according to the types of gases or vapors against which they are designed to provide respiratory protection, as follows: 
 
 | Type of front-mounted or back-mounted gas mask:                                                                                                                                                                                                                                                        |
 | Acid gas 1 2 3                                                                                                                                                                                                                                                                                         |
@@ -37,6 +37,6 @@
 | 3 Use of the gas mask may be limited by factors such as lower explosive limit, toxicological effects, and facepiece fit. Limitations on gas mask service life and sorbent capacity limitations shall be specified by the applicant in instructions for selection, use and maintenance of the gas mask. |
 | 4 Eye protection may be required in certain concentrations of gases and vapors.                                                                                                                                                                                                                        |
 
-(c) Gas masks for respiratory protection against gases and vapors other than those specified in paragraph (b) of this section, may be approved upon submittal of an application in writing for approval to the National Personal Protective Technology Laboratory listing the gas or vapor and suggested maximum use concentration for the specific type of gas mask. The Institute will consider the application and accept or reject it on the basis of effect on the wearer's health and safety and any field experience in use of gas masks for such exposures. If the application is accepted, the Institute will test such masks in accordance with the requirements of this subpart.
+(c) Gas masks for respiratory protection against gases and vapors other than those specified in paragraph (b) of this section, may be approved upon submittal of an application in writing for approval to the National Personal Protective Technology Laboratory listing the gas or vapor and suggested maximum use concentration for the specific type of gas mask. The Institute will consider the application and accept or reject it on the basis of effect on the wearer's health and safety and any field experience in use of gas masks for such exposures. If the application is accepted, the Institute will test such masks in accordance with the requirements of this subpart. 
 
 \[60 FR 30355, June 8, 1995, as amended at 80 FR 3907, Jan. 26, 2015\]

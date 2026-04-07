@@ -1,14 +1,14 @@
 ##### § 1138.4 Organization of this part.
 
-(a) The content of this part is organized into subparts and associated appendices.
+(a) The content of this part is organized into subparts and associated appendices. 
 
-(1) Each subpart provides direction to DoD Components on how to construct one article of general terms and conditions for grants and cooperative agreements.
+(1) Each subpart provides direction to DoD Components on how to construct one article of general terms and conditions for grants and cooperative agreements. 
 
-(2) For each subpart, there is a corresponding appendix with standard wording for terms and conditions of the article addressed by the subpart. Terms and conditions address rights and responsibilities of the Federal Government and recipients.
+(2) For each subpart, there is a corresponding appendix with standard wording for terms and conditions of the article addressed by the subpart. Terms and conditions address rights and responsibilities of the Federal Government and recipients. 
 
-(b) A DoD Component must use the wording provided in each appendix in accordance with the direction in the corresponding subpart and the authorization in § 1138.5, which permit a DoD Component to vary from the standard wording in some situations.
+(b) A DoD Component must use the wording provided in each appendix in accordance with the direction in the corresponding subpart and the authorization in § 1138.5, which permit a DoD Component to vary from the standard wording in some situations. 
 
-(c) Table 1 shows which article of general terms and conditions may be found in each of appendices A through L to this part (with the associated direction to DoD Components in Subparts A through L, respectively, as supplemented by the authorization in § 1138.5):
+(c) Table 1 shows which article of general terms and conditions may be found in each of appendices A through L to this part (with the associated direction to DoD Components in Subparts A through L, respectively, as supplemented by the authorization in § 1138.5): 
 
 Table 1 to Paragraph (c)
 | In . . .   | You will find terms and conditions specifying recipients' rights and responsibilities related to . . . | That would appear in an award within SUB Article . . . |

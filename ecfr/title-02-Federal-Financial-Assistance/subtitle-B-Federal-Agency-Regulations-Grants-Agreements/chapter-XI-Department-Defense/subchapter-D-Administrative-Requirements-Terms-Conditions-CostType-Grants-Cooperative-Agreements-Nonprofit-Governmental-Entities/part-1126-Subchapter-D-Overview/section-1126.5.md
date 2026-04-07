@@ -1,6 +1,6 @@
 ##### § 1126.5 Organization of this subchapter.
 
-This subchapter is organized into six parts in addition to this overview part. Each part provides standard wording and prescriptions for articles of general terms and conditions that address administrative requirements in a particular subject area. Table 1 shows the subject area and articles corresponding to each part:
+This subchapter is organized into six parts in addition to this overview part. Each part provides standard wording and prescriptions for articles of general terms and conditions that address administrative requirements in a particular subject area. Table 1 shows the subject area and articles corresponding to each part: 
 
 Table 1 to § 1126.5
 | In . . .  | Of this subchapter, you will find terms and conditions with associated prescriptions for the following articles related to . . .            |

@@ -1,8 +1,8 @@
 ##### § 84.203 Breathing resistance test; minimum requirements.
 
-(a) Resistance to airflow will be measured in the facepiece, mouthpiece, hood, or helmet of a chemical cartridge respirator mounted on a test fixture with air flowing at a continuous rate of 85 liters per minute, both before and after each test conducted in accordance with §§ 84.206 through 84.207.
+(a) Resistance to airflow will be measured in the facepiece, mouthpiece, hood, or helmet of a chemical cartridge respirator mounted on a test fixture with air flowing at a continuous rate of 85 liters per minute, both before and after each test conducted in accordance with §§ 84.206 through 84.207. 
 
-(b) The maximum allowable resistance requirements for chemical cartridge respirators are as follows:
+(b) The maximum allowable resistance requirements for chemical cartridge respirators are as follows: 
 
 Maximum Resistance
 

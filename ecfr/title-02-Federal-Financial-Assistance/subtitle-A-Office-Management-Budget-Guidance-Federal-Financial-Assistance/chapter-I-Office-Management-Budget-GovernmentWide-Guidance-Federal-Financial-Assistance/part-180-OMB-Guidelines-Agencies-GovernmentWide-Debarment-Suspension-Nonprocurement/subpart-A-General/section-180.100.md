@@ -1,6 +1,6 @@
 ##### § 180.100 How are subparts A through I organized?
 
-(a) Each subpart contains information related to a broad topic or specific audience with special responsibilities, as shown in table 1:
+(a) Each subpart contains information related to a broad topic or specific audience with special responsibilities, as shown in table 1: 
 
 Table 1 to Paragraph (a)
 | In subpart . . . | You will find provisions related to . . .                                                                         |
@@ -15,7 +15,7 @@ Table 1 to Paragraph (a)
 | H                | debarment actions.                                                                                                |
 | I                | definitions of terms used in this part.                                                                           |
 
-(b) Table 2 shows which subparts may be of special interest to you, depending on who you are:
+(b) Table 2 shows which subparts may be of special interest to you, depending on who you are: 
 
 Table 2 to Paragraph (b)
 | If you are . . .                                                             | See Subpart(s) . . . |

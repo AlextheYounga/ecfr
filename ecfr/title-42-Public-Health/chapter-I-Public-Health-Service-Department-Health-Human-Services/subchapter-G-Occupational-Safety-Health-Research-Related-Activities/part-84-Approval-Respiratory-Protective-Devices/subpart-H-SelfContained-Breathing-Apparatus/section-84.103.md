@@ -1,10 +1,10 @@
 ##### § 84.103 Man tests; performance requirements.
 
-(a) The apparatus shall satisfy the respiratory requirements of the wearer for the classified service time.
+(a) The apparatus shall satisfy the respiratory requirements of the wearer for the classified service time. 
 
-(b) Fogging of the eyepiece shall not obscure the wearer's vision, and the wearer shall not experience undue discomfort because of fit or other characteristics of the apparatus.
+(b) Fogging of the eyepiece shall not obscure the wearer's vision, and the wearer shall not experience undue discomfort because of fit or other characteristics of the apparatus. 
 
-(c) When the ambient temperature during testing is 24 ±6 °C. (75 ±10 °F.), the maximum temperature of inspired air recorded during man tests shall not exceed the following, after correction for deviation from 24 °C. (75 °F.):
+(c) When the ambient temperature during testing is 24 ±6 °C. (75 ±10 °F.), the maximum temperature of inspired air recorded during man tests shall not exceed the following, after correction for deviation from 24 °C. (75 °F.): 
 
 | Where service life of apparatus is—                                                                                                                              | Where percent relative humidity of inspired air is— | Maximum permissible temperature of inspired air shall not exceed— |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------- |

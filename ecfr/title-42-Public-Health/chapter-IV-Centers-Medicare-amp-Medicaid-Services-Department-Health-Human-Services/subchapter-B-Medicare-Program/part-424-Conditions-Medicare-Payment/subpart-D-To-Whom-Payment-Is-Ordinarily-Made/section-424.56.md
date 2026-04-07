@@ -1,14 +1,14 @@
 ##### § 424.56 Payment to a beneficiary and to a supplier.
 
-(a) *Conditions for split payment.* If the beneficiary assigns the claim after paying part of the bill, payment may be made partly to the beneficiary and partly to the supplier.
+(a) *Conditions for split payment.* If the beneficiary assigns the claim after paying part of the bill, payment may be made partly to the beneficiary and partly to the supplier. 
 
-(b) *Payment to the supplier.* Payment to the supplier who submits the assigned claim is for whichever of the following amounts is less:
+(b) *Payment to the supplier.* Payment to the supplier who submits the assigned claim is for whichever of the following amounts is less: 
 
-(1) The reasonable charge minus the amount the beneficiary had already paid to the supplier; or
+(1) The reasonable charge minus the amount the beneficiary had already paid to the supplier; or 
 
-(2) The full Part B benefit due for the services furnished.
+(2) The full Part B benefit due for the services furnished. 
 
-(c) *Payment to the beneficiary.* Any part of the Part B benefit which, on the basis of paragraph (b) of this section, is not payable to the supplier, is paid to the beneficiary.
+(c) *Payment to the beneficiary.* Any part of the Part B benefit which, on the basis of paragraph (b) of this section, is not payable to the supplier, is paid to the beneficiary. 
 
 (d) *Examples.*
 

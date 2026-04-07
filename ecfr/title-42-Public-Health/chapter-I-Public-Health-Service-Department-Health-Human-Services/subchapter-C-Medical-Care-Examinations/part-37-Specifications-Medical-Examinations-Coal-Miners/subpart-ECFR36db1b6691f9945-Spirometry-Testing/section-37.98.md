@@ -6,9 +6,9 @@
 
 (1) Standardization of Spirometry; 1994 Update. Official Statement of the ATS, adopted November 11, 1994. American Journal of Respiratory and Critical Care Medicine 152(3):1107-1136, September 1995, into § 37.95(b). This ATS Official Statement is also available at *http://www.atsjournals.org/doi/pdf/10.1164/ajrccm.152.3.7663792.*
 
-(2) Official American Thoracic Society Technical Standards: Spirometry in the Occupational Setting (“ATS Technical Standards: Spirometry in the Occupational Setting”). Redlich CA, Tarlo SM, Hankinson JL, Townsend MC, Eschenbacher WL, Von Essen SG, Sigsgaard T, and Weissman DN. American Journal of Respiratory and Critical Care Medicine 189(8):983-994, April 15, 2014, into §§ 37.92(b) and 37.96(a).
+(2) Official American Thoracic Society Technical Standards: Spirometry in the Occupational Setting (“ATS Technical Standards: Spirometry in the Occupational Setting”). Redlich CA, Tarlo SM, Hankinson JL, Townsend MC, Eschenbacher WL, Von Essen SG, Sigsgaard T, and Weissman DN. American Journal of Respiratory and Critical Care Medicine 189(8):983-994, April 15, 2014, into §§ 37.92(b) and 37.96(a). 
 
-(3) Spirometric Reference Values from a Sample of the General U.S. Population. Hankinson JL, Odencrantz JR, Fedan KB. American Journal of Respiratory and Critical Care Medicine, 159(1):179-187, January 1999, into § 37.92(b).
+(3) Spirometric Reference Values from a Sample of the General U.S. Population. Hankinson JL, Odencrantz JR, Fedan KB. American Journal of Respiratory and Critical Care Medicine, 159(1):179-187, January 1999, into § 37.92(b). 
 
 (c) European Respiratory Journal, 442 Glossop Road, Sheffield, S10 2PX, UK. Phone: 44 114 267 28 60; Fax: 44 114 266 50 64. Email: *info@ersj.org.uk. http://erj.ersjournals.com/.*
 

@@ -1,6 +1,6 @@
 ##### § 93.25 Organization of this part.
 
-This part is subdivided into five subparts. Each subpart contains information related to a broad topic or specific audience with special responsibilities as shown in the following table.
+This part is subdivided into five subparts. Each subpart contains information related to a broad topic or specific audience with special responsibilities as shown in the following table. 
 
 Table 1 to § 93.25
 | In subpart . . . | You will find sections related to . . .                                                                    |

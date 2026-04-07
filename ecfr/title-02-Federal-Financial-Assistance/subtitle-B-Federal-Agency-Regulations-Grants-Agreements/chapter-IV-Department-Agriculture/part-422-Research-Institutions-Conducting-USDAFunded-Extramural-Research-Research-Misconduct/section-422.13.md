@@ -1,5 +1,5 @@
 ##### § 422.13 Appeals.
 
-(a) If USDA relied on an institution to conduct an inquiry, investigation, and adjudication, the alleged person(s) should first follow the institution's appeal policy and procedures.
+(a) If USDA relied on an institution to conduct an inquiry, investigation, and adjudication, the alleged person(s) should first follow the institution's appeal policy and procedures. 
 
 (b) USDA agencies' implementation procedures, which must be made available on a designated USDA public website, identify the appeal process when a finding of research misconduct is elevated to the agency.

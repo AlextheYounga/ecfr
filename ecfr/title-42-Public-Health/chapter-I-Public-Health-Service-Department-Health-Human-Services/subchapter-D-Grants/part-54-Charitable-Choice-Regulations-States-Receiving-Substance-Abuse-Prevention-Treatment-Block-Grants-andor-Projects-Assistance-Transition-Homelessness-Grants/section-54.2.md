@@ -1,18 +1,18 @@
 ##### § 54.2 Definitions.
 
-(a) *Applicable program* means the programs authorized under:
+(a) *Applicable program* means the programs authorized under: 
 
-(1) The Substance Abuse Prevention and Treatment (SAPT) Block Grant, 42 U.S.C. 300x to 300x-66, and
+(1) The Substance Abuse Prevention and Treatment (SAPT) Block Grant, 42 U.S.C. 300x to 300x-66, and 
 
-(2) The Projects for Assistance in Transition from Homelessness (PATH) Formula Grants, 42 U.S.C. 290cc-21 to 290cc-35 insofar as they fund substance abuse prevention and/or treatment services.
+(2) The Projects for Assistance in Transition from Homelessness (PATH) Formula Grants, 42 U.S.C. 290cc-21 to 290cc-35 insofar as they fund substance abuse prevention and/or treatment services. 
 
-(b) *Religious organization* means a nonprofit religious organization.
+(b) *Religious organization* means a nonprofit religious organization. 
 
-(c) *Program beneficiary* means an individual who receives substance abuse services under a program funded in whole or in part by applicable programs.
+(c) *Program beneficiary* means an individual who receives substance abuse services under a program funded in whole or in part by applicable programs. 
 
-(d) *Program participant* means a public or private entity that has received financial assistance, under an applicable program.
+(d) *Program participant* means a public or private entity that has received financial assistance, under an applicable program. 
 
-(e) *SAMHSA* means the U.S. Substance Abuse and Mental Health Services Administration.
+(e) *SAMHSA* means the U.S. Substance Abuse and Mental Health Services Administration. 
 
 (f) *SAMHSA Charitable Choice provisions* means the provisions of 42 U.S.C. 300x-65 and 42 U.S.C. 290kk, *et seq.*
 

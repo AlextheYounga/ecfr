@@ -1,239 +1,239 @@
 ##### § 438.10 Information requirements.
 
-(a) *Definitions.* As used in this section, the following terms have the indicated meanings:
+(a) *Definitions.* As used in this section, the following terms have the indicated meanings: 
 
-*Limited English proficient (LEP)* means potential enrollees and enrollees who do not speak English as their primary language and who have a limited ability to read, write, speak, or understand English may be LEP and may be eligible to receive language assistance for a particular type of service, benefit, or encounter.
+*Limited English proficient (LEP)* means potential enrollees and enrollees who do not speak English as their primary language and who have a limited ability to read, write, speak, or understand English may be LEP and may be eligible to receive language assistance for a particular type of service, benefit, or encounter. 
 
-*Prevalent* means a non-English language determined to be spoken by a significant number or percentage of potential enrollees and enrollees that are limited English proficient.
+*Prevalent* means a non-English language determined to be spoken by a significant number or percentage of potential enrollees and enrollees that are limited English proficient. 
 
-*Readily accessible* means electronic information and services which comply with modern accessibility standards such as section 508 guidelines, section 504 of the Rehabilitation Act, and W3C's Web Content Accessibility Guidelines (WCAG) 2.0 AA and successor versions.
+*Readily accessible* means electronic information and services which comply with modern accessibility standards such as section 508 guidelines, section 504 of the Rehabilitation Act, and W3C's Web Content Accessibility Guidelines (WCAG) 2.0 AA and successor versions. 
 
-(b) *Applicability.* The provisions of this section apply to all managed care programs which operate under any authority in the Act.
+(b) *Applicability.* The provisions of this section apply to all managed care programs which operate under any authority in the Act. 
 
-(c) *Basic rules.* (1) Each State, enrollment broker, MCO, PIHP, PAHP, PCCM, and PCCM entity must provide all required information in this section to enrollees and potential enrollees in a manner and format that may be easily understood and is readily accessible by such enrollees and potential enrollees.
+(c) *Basic rules.* (1) Each State, enrollment broker, MCO, PIHP, PAHP, PCCM, and PCCM entity must provide all required information in this section to enrollees and potential enrollees in a manner and format that may be easily understood and is readily accessible by such enrollees and potential enrollees. 
 
-(2) The State must utilize its beneficiary support system required in § 438.71.
+(2) The State must utilize its beneficiary support system required in § 438.71. 
 
-(3) The State must operate a website that provides the content, either directly or by linking to individual MCO, PIHP, PAHP, or PCCM entity web pages, specified at § 438.602(g) and elsewhere in this part. States must:
+(3) The State must operate a website that provides the content, either directly or by linking to individual MCO, PIHP, PAHP, or PCCM entity web pages, specified at § 438.602(g) and elsewhere in this part. States must: 
 
-(i) Include clear and easy to understand labels on documents and links;
+(i) Include clear and easy to understand labels on documents and links; 
 
-(ii) Include all content, either directly or by linking to individual MCO, PIHP, PAHP, or PCCM entity websites, on one web page;
+(ii) Include all content, either directly or by linking to individual MCO, PIHP, PAHP, or PCCM entity websites, on one web page; 
 
-(iii) Verify no less than quarterly, the accurate function of the website and the timeliness of the information presented; and
+(iii) Verify no less than quarterly, the accurate function of the website and the timeliness of the information presented; and 
 
-(iv) Explain that assistance in accessing the required information on the website is available at no cost and include information on the availability of oral interpretation in all languages, written translation available in each prevalent non-English language, how to request auxiliary aids and services, and a toll-free and TTY/TDY telephone number.
+(iv) Explain that assistance in accessing the required information on the website is available at no cost and include information on the availability of oral interpretation in all languages, written translation available in each prevalent non-English language, how to request auxiliary aids and services, and a toll-free and TTY/TDY telephone number. 
 
-(4) For consistency in the information provided to enrollees, the State must develop and require each MCO, PIHP, PAHP and PCCM entity to use:
+(4) For consistency in the information provided to enrollees, the State must develop and require each MCO, PIHP, PAHP and PCCM entity to use: 
 
-(i) Definitions for managed care terminology, including appeal, co-payment, durable medical equipment, emergency medical condition, emergency medical transportation, emergency room care, emergency services, excluded services, grievance, habilitation services and devices, health insurance, home health care, hospice services, hospitalization, hospital outpatient care, medically necessary, network, non-participating provider, physician services, plan, preauthorization, participating provider, premium, prescription drug coverage, prescription drugs, primary care physician, primary care provider, provider, rehabilitation services and devices, skilled nursing care, specialist, and urgent care; and
+(i) Definitions for managed care terminology, including appeal, co-payment, durable medical equipment, emergency medical condition, emergency medical transportation, emergency room care, emergency services, excluded services, grievance, habilitation services and devices, health insurance, home health care, hospice services, hospitalization, hospital outpatient care, medically necessary, network, non-participating provider, physician services, plan, preauthorization, participating provider, premium, prescription drug coverage, prescription drugs, primary care physician, primary care provider, provider, rehabilitation services and devices, skilled nursing care, specialist, and urgent care; and 
 
-(ii) Model enrollee handbooks and enrollee notices.
+(ii) Model enrollee handbooks and enrollee notices. 
 
-(5) The State must ensure, through its contracts, that each MCO, PIHP, PAHP and PCCM entity provides the required information in this section to each enrollee.
+(5) The State must ensure, through its contracts, that each MCO, PIHP, PAHP and PCCM entity provides the required information in this section to each enrollee. 
 
-(6) Enrollee information required in this section may not be provided electronically by the State, MCO, PIHP, PAHP, PCCM, or PCCM entity unless all of the following are met:
+(6) Enrollee information required in this section may not be provided electronically by the State, MCO, PIHP, PAHP, PCCM, or PCCM entity unless all of the following are met: 
 
-(i) The format is readily accessible;
+(i) The format is readily accessible; 
 
-(ii) The information is placed in a location on the State, MCO's, PIHP's, PAHP's, or PCCM's, or PCCM entity's Web site that is prominent and readily accessible;
+(ii) The information is placed in a location on the State, MCO's, PIHP's, PAHP's, or PCCM's, or PCCM entity's Web site that is prominent and readily accessible; 
 
-(iii) The information is provided in an electronic form which can be electronically retained and printed;
+(iii) The information is provided in an electronic form which can be electronically retained and printed; 
 
-(iv) The information is consistent with the content and language requirements of this section; and
+(iv) The information is consistent with the content and language requirements of this section; and 
 
-(v) The enrollee is informed that the information is available in paper form without charge upon request and provides it upon request within 5 business days.
+(v) The enrollee is informed that the information is available in paper form without charge upon request and provides it upon request within 5 business days. 
 
-(7) Each MCO, PIHP, PAHP, and PCCM entity must have in place mechanisms to help enrollees and potential enrollees understand the requirements and benefits of the plan.
+(7) Each MCO, PIHP, PAHP, and PCCM entity must have in place mechanisms to help enrollees and potential enrollees understand the requirements and benefits of the plan. 
 
-(d) *Language and format.* The State must:
+(d) *Language and format.* The State must: 
 
-(1) Establish a methodology for identifying the prevalent non-English languages spoken by enrollees and potential enrollees throughout the State, and in each MCO, PIHP, PAHP, or PCCM entity service area.
+(1) Establish a methodology for identifying the prevalent non-English languages spoken by enrollees and potential enrollees throughout the State, and in each MCO, PIHP, PAHP, or PCCM entity service area. 
 
-(2) Make oral interpretation available in all languages and written translation available in each prevalent non-English language. Written materials that are critical to obtaining services for potential enrollees and experience surveys for enrollees must include taglines in the prevalent non-English languages in the State, explaining the availability of written translations or oral interpretation to understand the information provided, information on how to request auxiliary aids and services, and the toll-free telephone number of the entity providing choice counseling services as required by § 438.71(a). Taglines for written materials critical to obtaining services must be printed in a conspicuously-visible font size.
+(2) Make oral interpretation available in all languages and written translation available in each prevalent non-English language. Written materials that are critical to obtaining services for potential enrollees and experience surveys for enrollees must include taglines in the prevalent non-English languages in the State, explaining the availability of written translations or oral interpretation to understand the information provided, information on how to request auxiliary aids and services, and the toll-free telephone number of the entity providing choice counseling services as required by § 438.71(a). Taglines for written materials critical to obtaining services must be printed in a conspicuously-visible font size. 
 
-(3) Require each MCO, PIHP, PAHP, and PCCM entity to make its written materials that are critical to obtaining services, including, at a minimum, provider directories, enrollee handbooks, appeal and grievance notices, and denial and termination notices, available in the prevalent non-English languages in its particular service area. Written materials that are critical to obtaining services must also be made available in alternative formats upon request of the potential enrollee or enrollee at no cost, include taglines in the prevalent non-English languages in the State and in a conspicuously visible font size explaining the availability of written translation or oral interpretation to understand the information provided, information on how to request auxiliary aids and services, and include the toll-free and TTY/TDY telephone number of the MCO's, PIHP's, PAHP's, or PCCM entity's member/customer service unit. Auxiliary aids and services must also be made available upon request of the potential enrollee or enrollee at no cost.
+(3) Require each MCO, PIHP, PAHP, and PCCM entity to make its written materials that are critical to obtaining services, including, at a minimum, provider directories, enrollee handbooks, appeal and grievance notices, and denial and termination notices, available in the prevalent non-English languages in its particular service area. Written materials that are critical to obtaining services must also be made available in alternative formats upon request of the potential enrollee or enrollee at no cost, include taglines in the prevalent non-English languages in the State and in a conspicuously visible font size explaining the availability of written translation or oral interpretation to understand the information provided, information on how to request auxiliary aids and services, and include the toll-free and TTY/TDY telephone number of the MCO's, PIHP's, PAHP's, or PCCM entity's member/customer service unit. Auxiliary aids and services must also be made available upon request of the potential enrollee or enrollee at no cost. 
 
-(4) Make interpretation services available to each potential enrollee and require each MCO, PIHP, PAHP, and PCCM entity to make those services available free of charge to each enrollee. This includes oral interpretation and the use of auxiliary aids such as TTY/TDY and American Sign Language. Oral interpretation requirements apply to all non-English languages, not just those that the State identifies as prevalent.
+(4) Make interpretation services available to each potential enrollee and require each MCO, PIHP, PAHP, and PCCM entity to make those services available free of charge to each enrollee. This includes oral interpretation and the use of auxiliary aids such as TTY/TDY and American Sign Language. Oral interpretation requirements apply to all non-English languages, not just those that the State identifies as prevalent. 
 
-(5) Notify potential enrollees, and require each MCO, PIHP, PAHP, and PCCM entity to notify its enrollees—
+(5) Notify potential enrollees, and require each MCO, PIHP, PAHP, and PCCM entity to notify its enrollees— 
 
-(i) That oral interpretation is available for any language and written translation is available in prevalent languages;
+(i) That oral interpretation is available for any language and written translation is available in prevalent languages; 
 
-(ii) That auxiliary aids and services are available upon request and at no cost for enrollees with disabilities; and
+(ii) That auxiliary aids and services are available upon request and at no cost for enrollees with disabilities; and 
 
-(iii) How to access the services in paragraphs (d)(5)(i) and (ii) of this section.
+(iii) How to access the services in paragraphs (d)(5)(i) and (ii) of this section. 
 
-(6) Provide, and require MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities to provide, all written materials for potential enrollees and enrollees consistent with the following:
+(6) Provide, and require MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities to provide, all written materials for potential enrollees and enrollees consistent with the following: 
 
-(i) Use easily understood language and format.
+(i) Use easily understood language and format. 
 
-(ii) Use a font size no smaller than 12 point.
+(ii) Use a font size no smaller than 12 point. 
 
-(iii) Be available in alternative formats and through the provision of auxiliary aids and services in an appropriate manner that takes into consideration the special needs of enrollees or potential enrollees with disabilities or limited English proficiency.
+(iii) Be available in alternative formats and through the provision of auxiliary aids and services in an appropriate manner that takes into consideration the special needs of enrollees or potential enrollees with disabilities or limited English proficiency. 
 
-(e) *Information for potential enrollees.* (1) The State or its contracted representative must provide the information specified in paragraph (e)(2) of this section to each potential enrollee, either in paper or electronic form as follows:
+(e) *Information for potential enrollees.* (1) The State or its contracted representative must provide the information specified in paragraph (e)(2) of this section to each potential enrollee, either in paper or electronic form as follows: 
 
-(i) At the time the potential enrollee first becomes eligible to enroll in a voluntary managed care program, or is first required to enroll in a mandatory managed care program; and
+(i) At the time the potential enrollee first becomes eligible to enroll in a voluntary managed care program, or is first required to enroll in a mandatory managed care program; and 
 
-(ii) Within a timeframe that enables the potential enrollee to use the information in choosing among available MCOs, PIHPs, PAHPs, PCCMs, or PCCM entities.
+(ii) Within a timeframe that enables the potential enrollee to use the information in choosing among available MCOs, PIHPs, PAHPs, PCCMs, or PCCM entities. 
 
-(2) The information for potential enrollees must include, at a minimum, all of the following:
+(2) The information for potential enrollees must include, at a minimum, all of the following: 
 
-(i) Information about the potential enrollee's right to disenroll consistent with the requirements of § 438.56 and which explains clearly the process for exercising this disenrollment right, as well as the alternatives available to the potential enrollee based on their specific circumstance;
+(i) Information about the potential enrollee's right to disenroll consistent with the requirements of § 438.56 and which explains clearly the process for exercising this disenrollment right, as well as the alternatives available to the potential enrollee based on their specific circumstance; 
 
-(ii) The basic features of managed care;
+(ii) The basic features of managed care; 
 
-(iii) Which populations are excluded from enrollment, subject to mandatory enrollment, or free to enroll voluntarily in the program. For mandatory and voluntary populations, the length of the enrollment period and all disenrollment opportunities available to the enrollee must also be specified;
+(iii) Which populations are excluded from enrollment, subject to mandatory enrollment, or free to enroll voluntarily in the program. For mandatory and voluntary populations, the length of the enrollment period and all disenrollment opportunities available to the enrollee must also be specified; 
 
-(iv) The service area covered by each MCO, PIHP, PAHP, PCCM, or PCCM entity;
+(iv) The service area covered by each MCO, PIHP, PAHP, PCCM, or PCCM entity; 
 
-(v) Covered benefits including:
+(v) Covered benefits including: 
 
-(A) Which benefits are provided by the MCO, PIHP, or PAHP; and
+(A) Which benefits are provided by the MCO, PIHP, or PAHP; and 
 
-(B) Which, if any, benefits are provided directly by the State.
+(B) Which, if any, benefits are provided directly by the State. 
 
-(C) For a counseling or referral service that the MCO, PIHP, or PAHP does not cover because of moral or religious objections, the State must provide information about where and how to obtain the service;
+(C) For a counseling or referral service that the MCO, PIHP, or PAHP does not cover because of moral or religious objections, the State must provide information about where and how to obtain the service; 
 
-(vi) The provider directory and formulary information required in paragraphs (h) and (i) of this section;
+(vi) The provider directory and formulary information required in paragraphs (h) and (i) of this section; 
 
-(vii) Any cost-sharing that will be imposed by the MCO, PIHP, PAHP, PCCM, or PCCM entity consistent with those set forth in the State plan;
+(vii) Any cost-sharing that will be imposed by the MCO, PIHP, PAHP, PCCM, or PCCM entity consistent with those set forth in the State plan; 
 
-(viii) The requirements for each MCO, PIHP or PAHP to provide adequate access to covered services, including the network adequacy standards established in § 438.68;
+(viii) The requirements for each MCO, PIHP or PAHP to provide adequate access to covered services, including the network adequacy standards established in § 438.68; 
 
-(ix) The MCO, PIHP, PAHP, PCCM and PCCM entity's responsibilities for coordination of enrollee care; and
+(ix) The MCO, PIHP, PAHP, PCCM and PCCM entity's responsibilities for coordination of enrollee care; and 
 
-(x) To the extent available, quality and performance indicators for each MCO, PIHP, PAHP and PCCM entity, including enrollee satisfaction.
+(x) To the extent available, quality and performance indicators for each MCO, PIHP, PAHP and PCCM entity, including enrollee satisfaction. 
 
-(f) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities: General requirements.* (1) The MCO, PIHP, PAHP, and, when appropriate, the PCCM entity, must make a good faith effort to give written notice of termination of a contracted provider to each enrollee who received his or her primary care from, or was seen on a regular basis by, the terminated provider. Notice to the enrollee must be provided by the later of 30 calendar days prior to the effective date of the termination, or 15 calendar days after receipt or issuance of the termination notice.
+(f) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities: General requirements.* (1) The MCO, PIHP, PAHP, and, when appropriate, the PCCM entity, must make a good faith effort to give written notice of termination of a contracted provider to each enrollee who received his or her primary care from, or was seen on a regular basis by, the terminated provider. Notice to the enrollee must be provided by the later of 30 calendar days prior to the effective date of the termination, or 15 calendar days after receipt or issuance of the termination notice. 
 
-(2) The State must notify all enrollees of their right to disenroll consistent with the requirements of § 438.56 at least annually. Such notification must clearly explain the process for exercising this disenrollment right, as well as the alternatives available to the enrollee based on their specific circumstance. For States that choose to restrict disenrollment for periods of 90 days or more, States must send the notice no less than 60 calendar days before the start of each enrollment period.
+(2) The State must notify all enrollees of their right to disenroll consistent with the requirements of § 438.56 at least annually. Such notification must clearly explain the process for exercising this disenrollment right, as well as the alternatives available to the enrollee based on their specific circumstance. For States that choose to restrict disenrollment for periods of 90 days or more, States must send the notice no less than 60 calendar days before the start of each enrollment period. 
 
-(3) The MCO, PIHP, PAHP and, when appropriate, the PCCM entity must make available, upon request, any physician incentive plans in place as set forth in § 438.3(i).
+(3) The MCO, PIHP, PAHP and, when appropriate, the PCCM entity must make available, upon request, any physician incentive plans in place as set forth in § 438.3(i). 
 
-(g) *Information for enrollees of MCOs, PIHPs, PAHPs and PCCM entities—Enrollee handbook.* (1) Each MCO, PIHP, PAHP and PCCM entity must provide each enrollee an enrollee handbook, within a reasonable time after receiving notice of the beneficiary's enrollment, which serves a similar function as the summary of benefits and coverage described in 45 CFR 147.200(a).
+(g) *Information for enrollees of MCOs, PIHPs, PAHPs and PCCM entities—Enrollee handbook.* (1) Each MCO, PIHP, PAHP and PCCM entity must provide each enrollee an enrollee handbook, within a reasonable time after receiving notice of the beneficiary's enrollment, which serves a similar function as the summary of benefits and coverage described in 45 CFR 147.200(a). 
 
-(2) The content of the enrollee handbook must include information that enables the enrollee to understand how to effectively use the managed care program. This information must include at a minimum:
+(2) The content of the enrollee handbook must include information that enables the enrollee to understand how to effectively use the managed care program. This information must include at a minimum: 
 
-(i) Benefits provided by the MCO, PIHP, PAHP or PCCM entity.
+(i) Benefits provided by the MCO, PIHP, PAHP or PCCM entity. 
 
-(ii) How and where to access any benefits provided by the State, including any cost sharing, and how transportation is provided.
+(ii) How and where to access any benefits provided by the State, including any cost sharing, and how transportation is provided. 
 
-(A) In the case of a counseling or referral service that the MCO, PIHP, PAHP, or PCCM entity does not cover because of moral or religious objections, the MCO, PIHP, PAHP, or PCCM entity must inform enrollees that the service is not covered by the MCO, PIHP, PAHP, or PCCM entity.
+(A) In the case of a counseling or referral service that the MCO, PIHP, PAHP, or PCCM entity does not cover because of moral or religious objections, the MCO, PIHP, PAHP, or PCCM entity must inform enrollees that the service is not covered by the MCO, PIHP, PAHP, or PCCM entity. 
 
-(B) The MCO, PIHP, PAHP, or PCCM entity must inform enrollees how they can obtain information from the State about how to access the services described in paragraph (g)(2)(ii)(A) of this section.
+(B) The MCO, PIHP, PAHP, or PCCM entity must inform enrollees how they can obtain information from the State about how to access the services described in paragraph (g)(2)(ii)(A) of this section. 
 
-(iii) The amount, duration, and scope of benefits available under the contract in sufficient detail to ensure that enrollees understand the benefits to which they are entitled.
+(iii) The amount, duration, and scope of benefits available under the contract in sufficient detail to ensure that enrollees understand the benefits to which they are entitled. 
 
-(iv) Procedures for obtaining benefits, including any requirements for service authorizations and/or referrals for specialty care and for other benefits not furnished by the enrollee's primary care provider.
+(iv) Procedures for obtaining benefits, including any requirements for service authorizations and/or referrals for specialty care and for other benefits not furnished by the enrollee's primary care provider. 
 
-(v) The extent to which, and how, after-hours and emergency coverage are provided, including:
+(v) The extent to which, and how, after-hours and emergency coverage are provided, including: 
 
-(A) What constitutes an emergency medical condition and emergency services.
+(A) What constitutes an emergency medical condition and emergency services. 
 
-(B) The fact that prior authorization is not required for emergency services.
+(B) The fact that prior authorization is not required for emergency services. 
 
-(C) The fact that, subject to the provisions of this section, the enrollee has a right to use any hospital or other setting for emergency care.
+(C) The fact that, subject to the provisions of this section, the enrollee has a right to use any hospital or other setting for emergency care. 
 
-(vi) Any restrictions on the enrollee's freedom of choice among network providers.
+(vi) Any restrictions on the enrollee's freedom of choice among network providers. 
 
-(vii) The extent to which, and how, enrollees may obtain benefits, including family planning services and supplies from out-of-network providers. This includes an explanation that the MCO, PIHP, or PAHP cannot require an enrollee to obtain a referral before choosing a family planning provider.
+(vii) The extent to which, and how, enrollees may obtain benefits, including family planning services and supplies from out-of-network providers. This includes an explanation that the MCO, PIHP, or PAHP cannot require an enrollee to obtain a referral before choosing a family planning provider. 
 
-(viii) Cost sharing, if any is imposed under the State plan.
+(viii) Cost sharing, if any is imposed under the State plan. 
 
-(ix) Enrollee rights and responsibilities, including the elements specified in § 438.100 and, if applicable, § 438.3(e)(2)(ii).
+(ix) Enrollee rights and responsibilities, including the elements specified in § 438.100 and, if applicable, § 438.3(e)(2)(ii). 
 
-(x) The process of selecting and changing the enrollee's primary care provider.
+(x) The process of selecting and changing the enrollee's primary care provider. 
 
-(xi) Grievance, appeal, and fair hearing procedures and timeframes, consistent with subpart F of this part, in a State-developed or State-approved description. Such information must include:
+(xi) Grievance, appeal, and fair hearing procedures and timeframes, consistent with subpart F of this part, in a State-developed or State-approved description. Such information must include: 
 
-(A) The right to file grievances and appeals.
+(A) The right to file grievances and appeals. 
 
-(B) The requirements and timeframes for filing a grievance or appeal.
+(B) The requirements and timeframes for filing a grievance or appeal. 
 
-(C) The availability of assistance in the filing process.
+(C) The availability of assistance in the filing process. 
 
-(D) The right to request a State fair hearing after the MCO, PIHP or PAHP has made a determination on an enrollee's appeal which is adverse to the enrollee.
+(D) The right to request a State fair hearing after the MCO, PIHP or PAHP has made a determination on an enrollee's appeal which is adverse to the enrollee. 
 
-(E) The fact that, when requested by the enrollee, benefits that the MCO, PIHP, or PAHP seeks to reduce or terminate will continue if the enrollee files an appeal or a request for State fair hearing within the timeframes specified for filing, and that the enrollee may, consistent with state policy, be required to pay the cost of services furnished while the appeal or state fair hearing is pending if the final decision is adverse to the enrollee.
+(E) The fact that, when requested by the enrollee, benefits that the MCO, PIHP, or PAHP seeks to reduce or terminate will continue if the enrollee files an appeal or a request for State fair hearing within the timeframes specified for filing, and that the enrollee may, consistent with state policy, be required to pay the cost of services furnished while the appeal or state fair hearing is pending if the final decision is adverse to the enrollee. 
 
-(xii) How to exercise an advance directive, as set forth in § 438.3(j). For PAHPs, information must be provided only to the extent that the PAHP includes any of the providers described in § 489.102(a) of this chapter.
+(xii) How to exercise an advance directive, as set forth in § 438.3(j). For PAHPs, information must be provided only to the extent that the PAHP includes any of the providers described in § 489.102(a) of this chapter. 
 
-(xiii) How to access auxiliary aids and services, including additional information in alternative formats or languages.
+(xiii) How to access auxiliary aids and services, including additional information in alternative formats or languages. 
 
-(xiv) The toll-free telephone number for member services, medical management, and any other unit providing services directly to enrollees.
+(xiv) The toll-free telephone number for member services, medical management, and any other unit providing services directly to enrollees. 
 
-(xv) Information on how to report suspected fraud or abuse;
+(xv) Information on how to report suspected fraud or abuse; 
 
-(xvi) Any other content required by the State.
+(xvi) Any other content required by the State. 
 
-(3) Information required by this paragraph to be provided by a MCO, PIHP, PAHP or PCCM entity will be considered to be provided if the MCO, PIHP, PAHP or PCCM entity:
+(3) Information required by this paragraph to be provided by a MCO, PIHP, PAHP or PCCM entity will be considered to be provided if the MCO, PIHP, PAHP or PCCM entity: 
 
-(i) Mails a printed copy of the information to the enrollee's mailing address;
+(i) Mails a printed copy of the information to the enrollee's mailing address; 
 
-(ii) Provides the information by email after obtaining the enrollee's agreement to receive the information by email;
+(ii) Provides the information by email after obtaining the enrollee's agreement to receive the information by email; 
 
-(iii) Posts the information on the Web site of the MCO, PIHP, PAHP or PCCM entity and advises the enrollee in paper or electronic form that the information is available on the Internet and includes the applicable Internet address, provided that enrollees with disabilities who cannot access this information online are provided auxiliary aids and services upon request at no cost; or
+(iii) Posts the information on the Web site of the MCO, PIHP, PAHP or PCCM entity and advises the enrollee in paper or electronic form that the information is available on the Internet and includes the applicable Internet address, provided that enrollees with disabilities who cannot access this information online are provided auxiliary aids and services upon request at no cost; or 
 
-(iv) Provides the information by any other method that can reasonably be expected to result in the enrollee receiving that information.
+(iv) Provides the information by any other method that can reasonably be expected to result in the enrollee receiving that information. 
 
-(4) The MCO, PIHP, PAHP, or PCCM entity must give each enrollee notice of any change that the State defines as significant in the information specified in this paragraph (g), at least 30 days before the intended effective date of the change.
+(4) The MCO, PIHP, PAHP, or PCCM entity must give each enrollee notice of any change that the State defines as significant in the information specified in this paragraph (g), at least 30 days before the intended effective date of the change. 
 
-(h) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities—Provider Directory.* (1) Each MCO, PIHP, PAHP, and when appropriate, the PCCM entity, must make available in paper form upon request and searchable electronic form, the following information about its network providers:
+(h) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities—Provider Directory.* (1) Each MCO, PIHP, PAHP, and when appropriate, the PCCM entity, must make available in paper form upon request and searchable electronic form, the following information about its network providers: 
 
-(i) The provider's name as well as any group affiliation.
+(i) The provider's name as well as any group affiliation. 
 
-(ii) Street address(es).
+(ii) Street address(es). 
 
-(iii) Telephone number(s).
+(iii) Telephone number(s). 
 
-(iv) Web site URL, as appropriate.
+(iv) Web site URL, as appropriate. 
 
-(v) Specialty, as appropriate.
+(v) Specialty, as appropriate. 
 
-(vi) Whether the provider will accept new enrollees.
+(vi) Whether the provider will accept new enrollees. 
 
-(vii) The provider's cultural and linguistic capabilities, including languages (including American Sign Language) offered by the provider or a skilled medical interpreter at the provider's office.
+(vii) The provider's cultural and linguistic capabilities, including languages (including American Sign Language) offered by the provider or a skilled medical interpreter at the provider's office. 
 
-(viii) Whether the provider's office/facility has accommodations for people with physical disabilities, including offices, exam room(s) and equipment.
+(viii) Whether the provider's office/facility has accommodations for people with physical disabilities, including offices, exam room(s) and equipment. 
 
-(ix) Whether the provider offers covered services via telehealth.
+(ix) Whether the provider offers covered services via telehealth. 
 
-(2) The provider directory must include the information in paragraph (h)(1) of this section for each of the following provider types covered under the contract:
+(2) The provider directory must include the information in paragraph (h)(1) of this section for each of the following provider types covered under the contract: 
 
-(i) Physicians, including specialists;
+(i) Physicians, including specialists; 
 
-(ii) Hospitals;
+(ii) Hospitals; 
 
-(iii) Pharmacies;
+(iii) Pharmacies; 
 
-(iv) Mental health and substance use disorder providers; and
+(iv) Mental health and substance use disorder providers; and 
 
-(v) LTSS providers, as appropriate.
+(v) LTSS providers, as appropriate. 
 
-(3) Information included in—
+(3) Information included in— 
 
-(i) A paper provider directory must be updated at least—
+(i) A paper provider directory must be updated at least— 
 
-(A) Monthly, if the MCO, PIHP, PAHP, or PCCM entity does not have a mobile-enabled, electronic directory; or
+(A) Monthly, if the MCO, PIHP, PAHP, or PCCM entity does not have a mobile-enabled, electronic directory; or 
 
-(B) Quarterly, if the MCO, PIHP, PAHP, or PCCM entity has a mobile-enabled, electronic provider directory.
+(B) Quarterly, if the MCO, PIHP, PAHP, or PCCM entity has a mobile-enabled, electronic provider directory. 
 
-(ii) An electronic provider directory must be updated no later than 30 calendar days after the MCO, PIHP, PAHP, or PCCM entity receives updated provider information.
+(ii) An electronic provider directory must be updated no later than 30 calendar days after the MCO, PIHP, PAHP, or PCCM entity receives updated provider information. 
 
-(iii) MCOs, PIHPs, or PAHPs must use the information received from the State pursuant to § 438.68(f)(1)(iii) to update provider directories no later than the timeframes specified in paragraphs (h)(3)(i) and (ii) of this section.
+(iii) MCOs, PIHPs, or PAHPs must use the information received from the State pursuant to § 438.68(f)(1)(iii) to update provider directories no later than the timeframes specified in paragraphs (h)(3)(i) and (ii) of this section. 
 
-(4) Provider directories must be made available on the MCO's, PIHP's, PAHP's, or, if applicable, PCCM entity's Web site in a machine readable file and format as specified by the Secretary.
+(4) Provider directories must be made available on the MCO's, PIHP's, PAHP's, or, if applicable, PCCM entity's Web site in a machine readable file and format as specified by the Secretary. 
 
-(i) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities: Formulary.* Each MCO, PIHP, PAHP, and when appropriate, PCCM entity, must make available in electronic or paper form, the following information about its formulary:
+(i) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities: Formulary.* Each MCO, PIHP, PAHP, and when appropriate, PCCM entity, must make available in electronic or paper form, the following information about its formulary: 
 
-(1) Which medications are covered (both generic and name brand).
+(1) Which medications are covered (both generic and name brand). 
 
-(2) What tier each medication is on.
+(2) What tier each medication is on. 
 
-(3) Formulary drug lists must be made available on the MCO's, PIHP's, PAHP's, or, if applicable, PCCM entity's Web site in a machine readable file and format as specified by the Secretary.
+(3) Formulary drug lists must be made available on the MCO's, PIHP's, PAHP's, or, if applicable, PCCM entity's Web site in a machine readable file and format as specified by the Secretary. 
 
-(j) *Applicability.* States will not be held out of compliance with the requirements of paragraph (c)(3) of this section prior to the first rating period for contracts with MCOs, PIHPs, or PAHPs beginning on or after 2 years after July 9, 2024, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.10(c)(3) (effective as of October 1, 2023). States will not be held out of compliance with the requirements of paragraph (d)(2) of this section prior to the first rating period for contracts with MCOs, PIHPs, or PAHPs beginning on or after 3 years after the July 9, 2024, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.10(d)(2) (effective as of October 1, 2023). States will not be held out of compliance with the requirements of paragraph (h)(1) of this section prior to July 1, 2025, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.10(h)(1) (effective as of October 1, 2023). States will not be held out of compliance with the requirements of paragraph (h)(1)(ix) of this section prior to July 1, 2025. Paragraph (h)(3)(iii) of this section applies to the first rating period for contracts with MCOs, PIHPs and PAHPs beginning on or after 4 years after July 9, 2024.
+(j) *Applicability.* States will not be held out of compliance with the requirements of paragraph (c)(3) of this section prior to the first rating period for contracts with MCOs, PIHPs, or PAHPs beginning on or after 2 years after July 9, 2024, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.10(c)(3) (effective as of October 1, 2023). States will not be held out of compliance with the requirements of paragraph (d)(2) of this section prior to the first rating period for contracts with MCOs, PIHPs, or PAHPs beginning on or after 3 years after the July 9, 2024, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.10(d)(2) (effective as of October 1, 2023). States will not be held out of compliance with the requirements of paragraph (h)(1) of this section prior to July 1, 2025, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.10(h)(1) (effective as of October 1, 2023). States will not be held out of compliance with the requirements of paragraph (h)(1)(ix) of this section prior to July 1, 2025. Paragraph (h)(3)(iii) of this section applies to the first rating period for contracts with MCOs, PIHPs and PAHPs beginning on or after 4 years after July 9, 2024. 
 
 \[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 85 FR 72840, Nov. 13, 2020; 89 FR 41273, May 10, 2024\]

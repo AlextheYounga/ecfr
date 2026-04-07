@@ -1,10 +1,10 @@
 ##### § 447.304 Adherence to upper limits; FFP.
 
-(a) The Medicaid agency must not pay more than the upper limits described in this subpart.
+(a) The Medicaid agency must not pay more than the upper limits described in this subpart. 
 
-(b) In the case of payments made under the plan for deductibles and coinsurance payable on an assigned Medicare claim for noninstitutional services, those payments may be made only up to the reasonable charge under Medicare.
+(b) In the case of payments made under the plan for deductibles and coinsurance payable on an assigned Medicare claim for noninstitutional services, those payments may be made only up to the reasonable charge under Medicare. 
 
-(c) FFP is not available for a State's expenditures for services that are in excess of the amounts allowable under this subpart.
+(c) FFP is not available for a State's expenditures for services that are in excess of the amounts allowable under this subpart. 
 
 Note:
 

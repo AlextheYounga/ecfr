@@ -1,6 +1,6 @@
 ##### § 136.305 Additional conditions.
 
-The Secretary may, with respect to any grant award under this subpart, impose additional conditions prior to or at the time of any award when in his judgment such conditions are necessary to assure or protect advancement of the approved project, the interests of the public health, or the conservation of grant funds.
+The Secretary may, with respect to any grant award under this subpart, impose additional conditions prior to or at the time of any award when in his judgment such conditions are necessary to assure or protect advancement of the approved project, the interests of the public health, or the conservation of grant funds. 
 
 Note:
 

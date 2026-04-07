@@ -1,8 +1,8 @@
 ##### § 2339.30 What policies and procedures must I follow?
 
-(a) *General.* You must follow the policies and procedures specified in applicable sections of the OMB guidance in Subparts A through F of 2 CFR part 182, as implemented by this part.
+(a) *General.* You must follow the policies and procedures specified in applicable sections of the OMB guidance in Subparts A through F of 2 CFR part 182, as implemented by this part. 
 
-(b) *Specific sections of OMB guidance that this part supplements.* In implementing the OMB guidance in 2 CFR part 182, this part supplements four sections of the guidance, as shown in the following table.
+(b) *Specific sections of OMB guidance that this part supplements.* In implementing the OMB guidance in 2 CFR part 182, this part supplements four sections of the guidance, as shown in the following table. 
 
 | Section of OMB guidance in 2 CFR | Section in this part where supplemented, 2 CFR | What the supplementation clarifies                                                                                                                                                          |
 | -------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

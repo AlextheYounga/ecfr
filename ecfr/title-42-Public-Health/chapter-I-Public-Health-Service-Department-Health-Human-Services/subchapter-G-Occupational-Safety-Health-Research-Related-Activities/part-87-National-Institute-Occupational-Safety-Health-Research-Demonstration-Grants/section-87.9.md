@@ -1,5 +1,5 @@
 ##### § 87.9 Which other HHS regulations apply?
 
-Several other regulations apply to grants under this part. These include, but are not limited to:
+Several other regulations apply to grants under this part. These include, but are not limited to: 
 
 42 CFR part 50, subpart D—Public Health Service grant appeals procedure 45 CFR part 16—Procedures of the Departmental Grant Appeals Board 45 CFR part 46—Protection of human subjects 45 CFR part 74—Administration of grants 45 CFR part 75—Informal grant appeals procedures 45 CFR part 80—Nondiscrimination under programs receiving Federal assistance through the Department of Health and Human Services effectuation of title VI of the Civil Rights Act of 1964 45 CFR part 81—Practice and procedure for hearing under part 80 of this Title 45 CFR part 84—Nondiscrimination on the basis of handicap in programs and activities receiving or benefiting from Federal financial assistance 45 CFR part 91—Nondiscrimination on the basis of age in HHS programs or activities receiving Federal financial assistance\[49 FR 38117, Sept. 27, 1984\]
