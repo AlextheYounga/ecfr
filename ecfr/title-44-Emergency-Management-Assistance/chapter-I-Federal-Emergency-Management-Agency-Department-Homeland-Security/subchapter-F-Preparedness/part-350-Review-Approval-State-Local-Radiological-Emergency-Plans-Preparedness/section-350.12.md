@@ -2,7 +2,7 @@
 
 (a) Upon receipt from a Regional Administrator of a State plan, the Deputy Administrator for the National Preparedness Directorate shall conduct such review of the State plan as he or she shall deem necessary. The Deputy Administrator for the National Preparedness Directorate shall arrange for copies of the plan, together with the Regional Administrator's evaluation, to be made available to the members of the Federal Radiological Preparedness Coordinating Committee (FRPCC) and to other offices of FEMA with appropriate guidance relative to any assistance that may be needed in the FEMA review and approval process.
 
-(b) If, after formal submission of the State plan and the Regional Director's evaluation, the Deputy Administrator for the National Preparedness Directorate determines that the State plans and preparedness:
+(b) If, after formal submission of the State plan and the Regional Administrator's evaluation, the Deputy Administrator for the National Preparedness Directorate determines that the State plans and preparedness:
 
 (1) Are adequate to protect the health and safety of the public living in the vicinity of the nuclear power facility by providing reasonable assurance that appropriate protective measures can be taken offsite in the event of a radiological emergency; and
 

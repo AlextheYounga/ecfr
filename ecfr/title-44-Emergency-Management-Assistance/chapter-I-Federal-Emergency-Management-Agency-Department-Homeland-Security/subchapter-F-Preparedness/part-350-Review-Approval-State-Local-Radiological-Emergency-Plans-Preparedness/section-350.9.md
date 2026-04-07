@@ -14,7 +14,7 @@
 
 2 See § 350.2 for definition of “partial exercise”.
 
-(3) Each appropriate local government which has a site within its boundaries or is within the 10-mile emergency planning zone shall fully participate in a joint exercise with the licensee and the State at least every two years. For those local governments that have planning and preparedness responsibilities for more than one facility, the Regional Administrator may seek an exemption from this requirement by recommending alternative arrangements for approval by the Associate Director.
+(3) Each appropriate local government which has a site within its boundaries or is within the 10-mile emergency planning zone shall fully participate in a joint exercise with the licensee and the State at least every two years. For those local governments that have planning and preparedness responsibilities for more than one facility, the Regional Administrator may seek an exemption from this requirement by recommending alternative arrangements for approval by the Deputy Administrator for the National Preparedness Directorate.
 
 (4) States within the 50-mile emergency planning zone of a site shall exercise their plans and preparedness related to ingestion exposure pathway measures at least once every five years in conjunction with a plume exposure pathway exercise for that site.
 
