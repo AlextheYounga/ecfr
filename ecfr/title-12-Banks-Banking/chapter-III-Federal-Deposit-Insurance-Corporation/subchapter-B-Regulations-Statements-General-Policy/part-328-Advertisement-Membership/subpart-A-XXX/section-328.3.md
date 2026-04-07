@@ -1,5 +1,7 @@
 ##### § 328.3 Official advertising statement requirements.
 
+Link to an amendment published at 87 FR 33420, June 2, 2022.
+
 (a) *Advertisement defined.* The term “advertisement,” as used in this part, shall mean a commercial message, in any medium, that is designed to attract public attention or patronage to a product or business.
 
 (b) *Official advertising statement.* The official advertising statement shall be in substance as follows: “Member of the Federal Deposit Insurance Corporation.”
