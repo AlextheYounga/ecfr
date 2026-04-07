@@ -164,7 +164,7 @@ Massachusetts
 
 The entire State.
 
-Michigan 
+Michigan
 
 Upper Peninsula:
 
@@ -322,7 +322,7 @@ West Virginia
 
 The entire State.
 
-Wisconsin 
+Wisconsin
 
 *Adams County.* The entire county.
 
