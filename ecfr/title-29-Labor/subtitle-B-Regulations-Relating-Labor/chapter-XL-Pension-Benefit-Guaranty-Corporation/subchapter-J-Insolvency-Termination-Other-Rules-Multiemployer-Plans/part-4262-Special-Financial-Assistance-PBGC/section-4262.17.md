@@ -12,4 +12,4 @@
 
 (f) A plan that receives special financial assistance and meets the eligibility requirements for partition of the plan under section 4233(b) of ERISA may apply for partition.
 
-(g) If any provision in this part is held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, or stayed pending further agency action, the provision will be construed so as to continue to give the maximum effect to the provision permitted by law, unless such holding will be one of utter invalidity or unenforceability, in which event the provision will be severable from this part and will not affect the remainder thereof.
+(g) If any provision in this part is held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, or stayed pending further agency action, the provision will be construed so as to continue to give the maximum effect to the provision permitted by law, unless such holding will be one of utter invalidity or unenforceability, in which event the provision will be severable from this part.
