@@ -1,3 +1,0 @@
-##### § 3120.4-2 Posting of notice.
-
-At least 45 days prior to conducting a competitive auction, lands to be offered for competitive lease sale, as included in a List of Lands Available for Competitive Nominations or in a Notice of Competitive Lease Sale, shall be posted in the proper BLM office having jurisdiction over the lands as specified in § 1821.2-1(d) of this title, and shall be made available for posting to surface managing agencies having jurisdiction over any of the included lands.

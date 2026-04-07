@@ -1,1 +1,0 @@
-##### § 3141.2 Prelease exploration within Special Tar Sand Areas.

@@ -1,8 +1,8 @@
 ##### § 122.15 User fee airports.
 
-(a) *Permission to land.* The procedures for obtaining permission to land at a user fee airport are the same procedures as those set forth in § 122.14 for landing rights airports.
+(a) *Permission to land.* The procedures for obtaining permission to land at a user fee airport are the same procedures as those set forth in § 122.14 for landing rights airports. 
 
-(b) *List of user fee airports.* The following is a list of user fee airports designated by the Commissioner of Customs in accordance with 19 U.S.C. 58b. The list is subject to change without notice. Information concerning service at any user fee airport can be obtained by calling the airport or its authority directly.
+(b) *List of user fee airports.* The following is a list of user fee airports designated by the Commissioner of Customs in accordance with 19 U.S.C. 58b. The list is subject to change without notice. Information concerning service at any user fee airport can be obtained by calling the airport or its authority directly. 
 
 | Location                        | Name                                           |
 | ------------------------------- | ---------------------------------------------- |
@@ -70,10 +70,10 @@
 | Yoder, Indiana                  | Fort Wayne International Airport.              |
 | Ypsilanti, Michigan             | Willow Run Airport.                            |
 
-(c) *Withdrawal of designation.* The designation as a user fee airport shall be withdrawn under either of the following circumstances:
+(c) *Withdrawal of designation.* The designation as a user fee airport shall be withdrawn under either of the following circumstances: 
 
-(1) If either Customs or the airport authority gives 120 days written notice of termination to the other party; or
+(1) If either Customs or the airport authority gives 120 days written notice of termination to the other party; or 
 
-(2) If any amounts due to be paid to Customs are not paid on a timely basis.
+(2) If any amounts due to be paid to Customs are not paid on a timely basis. 
 
 \[T.D. 92-90, 57 FR 43397, Sept. 21, 1992\] Editorial Note:For Federal Register citations affecting § 122.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

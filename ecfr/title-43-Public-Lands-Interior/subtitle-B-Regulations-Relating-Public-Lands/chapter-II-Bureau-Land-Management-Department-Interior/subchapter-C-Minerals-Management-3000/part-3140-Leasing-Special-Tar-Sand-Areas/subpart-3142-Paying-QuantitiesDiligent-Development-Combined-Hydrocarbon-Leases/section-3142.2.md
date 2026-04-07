@@ -1,1 +1,0 @@
-##### § 3142.2 Minimum production levels.

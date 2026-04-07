@@ -1,16 +1,16 @@
 ##### § 19.42 Application for transfer of merchandise.
 
-The container station operator may file an application for the transfer of a container intact to the station. The application shall be in duplicate in the following or substantially similar format:
+The container station operator may file an application for the transfer of a container intact to the station. The application shall be in duplicate in the following or substantially similar format: 
 
 U.S. Customs Service application and permit to transfer containerized cargo to a container station Date \_\_\_\_\_\_\_\_\_\_\_\_
 
-Application is made to transfer the containers and their contents listed below which arrived on \_\_\_\_\_\_\_\_ (Carrier) on \_\_\_\_\_\_\_\_ (Date) at Pier \_\_\_\_ to the \_\_\_\_\_\_\_\_ (Container station)
+Application is made to transfer the containers and their contents listed below which arrived on \_\_\_\_\_\_\_\_ (Carrier) on \_\_\_\_\_\_\_\_ (Date) at Pier \_\_\_\_ to the \_\_\_\_\_\_\_\_ (Container station) 
 
-An abstract of the carrier's manifest covering the containers by B/L No., marks, numbers, contents, consignee, etc., is attached hereto.
+An abstract of the carrier's manifest covering the containers by B/L No., marks, numbers, contents, consignee, etc., is attached hereto. 
 
 list of containers by marks and numbers only (Signature of authorized agent of container station)
 
-We concur: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+We concur: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
 (Signature of agent of importing carrier) transfer record
 

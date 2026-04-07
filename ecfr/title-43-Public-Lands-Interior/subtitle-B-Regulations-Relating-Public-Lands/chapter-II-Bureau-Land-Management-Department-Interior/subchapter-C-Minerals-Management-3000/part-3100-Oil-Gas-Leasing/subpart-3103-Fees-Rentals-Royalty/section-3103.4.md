@@ -1,1 +1,0 @@
-##### § 3103.4 Production incentives.

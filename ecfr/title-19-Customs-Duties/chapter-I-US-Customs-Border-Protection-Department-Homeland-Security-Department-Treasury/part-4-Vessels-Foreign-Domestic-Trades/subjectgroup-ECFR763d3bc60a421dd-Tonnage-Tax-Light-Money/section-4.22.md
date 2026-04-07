@@ -1,6 +1,6 @@
 ##### § 4.22 Exemptions from special tonnage taxes.
 
-Vessels of the following nations are exempted by treaties, Presidential proclamations, or orders of the Secretary of the Treasury from the payment of any higher tonnage duties than are applicable to vessels of the United States and are exempted from the payment of light money:
+Vessels of the following nations are exempted by treaties, Presidential proclamations, or orders of the Secretary of the Treasury from the payment of any higher tonnage duties than are applicable to vessels of the United States and are exempted from the payment of light money: 
 
 Algeria
 

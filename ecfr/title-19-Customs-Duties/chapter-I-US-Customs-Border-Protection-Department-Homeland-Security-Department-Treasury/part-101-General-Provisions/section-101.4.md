@@ -1,22 +1,22 @@
 ##### § 101.4 Entry and clearance of vessels at Customs stations.
 
-(a) *Entry at Customs station.* A vessel shall not be entered or cleared at a Customs station, or any other place that is not a port of entry, unless entry or clearance is authorized by the director of the port under whose jurisdiction the station or place falls pursuant to the provisions of section 447, Tariff Act of 1930, as amended (19 U.S.C. 1447).
+(a) *Entry at Customs station.* A vessel shall not be entered or cleared at a Customs station, or any other place that is not a port of entry, unless entry or clearance is authorized by the director of the port under whose jurisdiction the station or place falls pursuant to the provisions of section 447, Tariff Act of 1930, as amended (19 U.S.C. 1447). 
 
-(b) *Authorization to enter.* Authorization to enter or be cleared at a Customs station shall be granted by the director of the port under whose jurisdiction the station or place falls provided the port director is notified in advance of the arrival of the vessel concerned and the following conditions are met:
+(b) *Authorization to enter.* Authorization to enter or be cleared at a Customs station shall be granted by the director of the port under whose jurisdiction the station or place falls provided the port director is notified in advance of the arrival of the vessel concerned and the following conditions are met: 
 
-(1) Such Customs supervision as may be necessary can be provided.
+(1) Such Customs supervision as may be necessary can be provided. 
 
-(2) All applicable Customs and navigation laws and regulations are complied with.
+(2) All applicable Customs and navigation laws and regulations are complied with. 
 
-(3) The owner, master or agent of a vessel sought to be entered at a Customs station reimburses the Government for the salary and expenses of the Customs officer or employee stationed at or sent to such Customs station or other place which is not a port of entry for services rendered in connection with the entry or clearance of such vessel, and
+(3) The owner, master or agent of a vessel sought to be entered at a Customs station reimburses the Government for the salary and expenses of the Customs officer or employee stationed at or sent to such Customs station or other place which is not a port of entry for services rendered in connection with the entry or clearance of such vessel, and 
 
-(4) Except as otherwise provided by these regulations, the Government is reimbursed by the interested parties for the expenses, including any per diem allowed in lieu of subsistence, but not the salary of a Customs officer or employee for services rendered in connection with the entry or delivery of merchandise.
+(4) Except as otherwise provided by these regulations, the Government is reimbursed by the interested parties for the expenses, including any per diem allowed in lieu of subsistence, but not the salary of a Customs officer or employee for services rendered in connection with the entry or delivery of merchandise. 
 
 (c) *Customs stations designated.*
 
-(1) The Secretary of Homeland Security is authorized to establish, rearrange, or consolidate, and to discontinue Customs stations as operational needs may require.
+(1) The Secretary of Homeland Security is authorized to establish, rearrange, or consolidate, and to discontinue Customs stations as operational needs may require. 
 
-(2) The Customs stations and the ports of entry having supervision thereof are listed below:
+(2) The Customs stations and the ports of entry having supervision thereof are listed below: 
 
 | Customs station                    | Supervisory port of entry                    |
 | ---------------------------------- | -------------------------------------------- |
@@ -117,6 +117,6 @@
 | North Troy                         | Derby Line.                                  |
 | West Berkshire                     | Richford.                                    |
 
-(d) *Temporary Customs stations.* Customs stations may be designated for a temporary time only, to provide Customs facilities where needed because of certain large-scale operations. Because these designations change from time to time they are not listed. However, current information as to the existence of such stations may be obtained from the local port director.
+(d) *Temporary Customs stations.* Customs stations may be designated for a temporary time only, to provide Customs facilities where needed because of certain large-scale operations. Because these designations change from time to time they are not listed. However, current information as to the existence of such stations may be obtained from the local port director. 
 
 \[T.D. 77-241, 42 FR 54937, Oct. 12, 1977\] Editorial Note:For Federal Register citations affecting § 101.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 101.5 CBP preclearance offices in foreign countries.
 
-Listed below are the preclearance offices in foreign countries where CBP Officers are located. A Director, Preclearance, located in the Office of Field Operations at CBP Headquarters, is the responsible CBP Officer exercising supervisory control over all preclearance offices.
+Listed below are the preclearance offices in foreign countries where CBP Officers are located. A Director, Preclearance, located in the Office of Field Operations at CBP Headquarters, is the responsible CBP Officer exercising supervisory control over all preclearance offices. 
 
 | Country              | CBP office                                                                                                                                                                     |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

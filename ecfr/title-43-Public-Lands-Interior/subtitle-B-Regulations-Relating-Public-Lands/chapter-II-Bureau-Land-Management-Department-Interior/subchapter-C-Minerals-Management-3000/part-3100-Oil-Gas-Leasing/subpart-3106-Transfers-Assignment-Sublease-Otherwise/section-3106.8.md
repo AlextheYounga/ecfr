@@ -1,1 +1,0 @@
-##### § 3106.8 Other types of transfers.

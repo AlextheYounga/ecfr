@@ -1,10 +1,10 @@
 ##### § 101.3 Customs service ports and ports of entry.
 
-(a) *Designation of Customs field organization.* The Secretary of Homeland Security is authorized to establish, rearrange or consolidate, and to discontinue Customs ports of entry and Customs service ports as operational needs may require.
+(a) *Designation of Customs field organization.* The Secretary of Homeland Security is authorized to establish, rearrange or consolidate, and to discontinue Customs ports of entry and Customs service ports as operational needs may require. 
 
-(b) *List of Ports of Entry and Service Ports.* The following is a list of Customs Ports of Entry and Service Ports. Many of the ports listed were created by the President's message of March 3, 1913, concerning a reorganization of the Customs Service pursuant to the Act of August 24, 1912 (37 Stat. 434; 19 U.S.C. 1). Subsequent orders of the President or of the Secretary of the Treasury which affected these ports, or which created (or subsequently affected) additional ports, are cited following the name of the ports.
+(b) *List of Ports of Entry and Service Ports.* The following is a list of Customs Ports of Entry and Service Ports. Many of the ports listed were created by the President's message of March 3, 1913, concerning a reorganization of the Customs Service pursuant to the Act of August 24, 1912 (37 Stat. 434; 19 U.S.C. 1). Subsequent orders of the President or of the Secretary of the Treasury which affected these ports, or which created (or subsequently affected) additional ports, are cited following the name of the ports. 
 
-(1) *Customs ports of entry.* A list of Customs ports of entry by State and the limits of each port are set forth below:
+(1) *Customs ports of entry.* A list of Customs ports of entry by State and the limits of each port are set forth below: 
 
 | Ports of entry                           | Limits of port                                                                                                                                                                                |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -368,7 +368,7 @@
 | Sheboygan                                |                                                                                                                                                                                               |
 | + Indicates Drawback unit/office.        |                                                                                                                                                                                               |
 
-(2) *Customs service ports.* A list of Customs service ports and the States in which they are located is set forth below:
+(2) *Customs service ports.* A list of Customs service ports and the States in which they are located is set forth below: 
 
 | State          | Service ports     |
 | -------------- | ----------------- |

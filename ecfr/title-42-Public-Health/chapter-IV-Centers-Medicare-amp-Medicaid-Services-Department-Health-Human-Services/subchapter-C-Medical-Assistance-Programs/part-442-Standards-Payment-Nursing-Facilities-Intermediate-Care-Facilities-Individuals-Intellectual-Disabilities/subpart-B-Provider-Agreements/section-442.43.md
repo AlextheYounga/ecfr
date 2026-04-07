@@ -1,5 +1,7 @@
 ##### § 442.43 Payment transparency reporting.
 
+Link to an amendment published at 89 FR 52396, June 24, 2024.
+
 (a) *Definitions.* (1) *Compensation* means, with respect to direct care workers and support staff delivering services authorized under this part:
 
 (i) Salary, wages, and other remuneration as defined by the Fair Labor Standards Act and implementing regulations (29 U.S.C. 201 *et seq.,* 29 CFR parts 531 and 778);

@@ -116,7 +116,7 @@ The facility must have sufficient nursing staff with the appropriate competencie
 
 (iii) Data on the average wages in the Metropolitan Statistical Area in which the facility is located and vacancies by industry as reported by the Bureau of Labor Statistics or by the State's Department of Labor; and
 
-(iv) The facility's staffing plan in accordance with § 483.71(b)(4); and
+(iv) The facility's staffing plan in accordance with § 483.71(c)(4); and
 
 (3) *Demonstrated financial commitment.* The facility demonstrates through documentation the amount of financial resources that the facility expends on nurse staffing relative to revenue.
 
@@ -168,4 +168,4 @@ The facility must have sufficient nursing staff with the appropriate competencie
 
 (4) *Facility data retention requirements.* The facility must maintain the posted daily nurse staffing data for a minimum of 18 months, or as required by State law, whichever is greater.
 
-\[89 FR 40996, May 10, 2024\]
+\[89 FR 40996, May 10, 2024; 89 FR 52396, June 24, 2024\]
