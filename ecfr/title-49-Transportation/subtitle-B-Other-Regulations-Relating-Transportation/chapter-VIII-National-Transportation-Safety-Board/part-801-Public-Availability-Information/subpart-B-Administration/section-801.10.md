@@ -6,11 +6,11 @@
 
 (1) Is responsible for the custody and control of all NTSB records required to be preserved under the Federal Records Act, 44 U.S.C. Chapters 21, 29, 31, and 33.
 
-(2) Maintains a public reference room and an electronic reading room in accordance with 5 U.S.C. 552(a)(2). The NTSB's public reference room is located at 490 L'Enfant Plaza SW, Washington, DC. The NTSB's electronic reading room is located on the NTSB's FOIA website, found at *http://www.ntsb.gov/.*
+(2) Maintains an electronic reading room and an electronic reading room in accordance with 5 U.S.C. 552(a)(2). The NTSB's electronic reading room is located at 490 L'Enfant Plaza SW, Washington, DC. The NTSB's electronic reading room is located on the NTSB's FOIA website, found at *http://www.ntsb.gov/.*
 
 (3) Maintains a public access link on the NTSB's FOIA Website for requesters to electronically submit a FOIA request and track the status of the request.
 
-(c) The NTSB maintains in its electronic reading room and makes available for public inspection in its public reference room:
+(c) The NTSB maintains in its electronic reading room and makes available for public inspection in its electronic reading room:
 
 (1) Records that have been provided pursuant to a FOIA request, and
 

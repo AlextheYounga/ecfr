@@ -1,16 +1,14 @@
 ##### § 4.60 Applicability and notice to agencies.
 
-Link to an amendment published at 86 FR 42714, Aug. 5, 2021.
-
 (a) *Applicability.* The provisions of this subpart apply to any application for an initial license or a new license for:
 
 (1) A minor water power project, as defined in § 4.30(b)(17);
 
-(2) Any major project - existing dam, as defined in § 4.30(b)(16), that has a total installed capacity of 5 MW or less; or
+(2) Any major project—existing dam, as defined in § 4.30(b)(16), that has a total installed capacity of 10 MW or less; or
 
-(3) Any major unconstructed project or major modified project, as defined in § 4.30 (b) (15) and (14) respectively, that has a total installed capacity of 5 MW or less.
+(3) Any major unconstructed project or major modified project, as defined in § 4.30(b)(15) and (14) respectively, that has a total installed capacity of 10 MW or less.
 
-(b) *Notice to agencies.* The Commission will supply interested Federal, state, and local agencies with notice of any application for license for a water power project 5 MW or less and request comment on the application. Copies of the application will be available for inspection at the Commission's Public Reference Room. The applicant shall also furnish copies of the filed application to any Federal, state, or local agency that so requests.
+(b) *Notice to agencies.* The Commission will supply interested Federal, state, and local agencies with notice of any application for license for a water power project 10 MW or less and request comment on the application. Copies of the application will be available for inspection at the Commission's Public Reference Room. The applicant shall also furnish copies of the filed application to any Federal, state, or local agency that so requests.
 
 (c) Unless an applicant for a license for a minor water power project requests in its application that the Commission apply the following provisions of Part I of the Federal Power Act when it issues a minor license for a project, the Commission, unless it determines it would not be in the public interest to do so, will waive:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 86 FR 42714, Aug. 5, 2021.
 
 (7) Sections 15, 16, 19, 20 and 22.
 
-\[Order 413, 50 FR 11685, Mar. 25, 1985, as amended by Order 513, 54 FR 23806, June 2, 1989; Order 2002, 68 FR 51120, Aug. 25, 2003\]
+\[Order 413, 50 FR 11685, Mar. 25, 1985, as amended by Order 513, 54 FR 23806, June 2, 1989; Order 2002, 68 FR 51120, Aug. 25, 2003; Order 877, 86 FR 42714, Aug. 5, 2021\]
