@@ -1,6 +1,6 @@
 ##### § 11.333 Requirements to qualify for an STCW endorsement as second engineer officer on vessels powered by main propulsion machinery of 750kW/1,000 HP or more and less than 3,000 kW/4,000 HP propulsion power (management level).
 
-(a) To qualify for an STCW endorsement as second engineer officer, an applicant must -
+(a) To qualify for an STCW endorsement as second engineer officer, an applicant must—
 
 (1) Provide evidence of meeting the requirements for certification as OICEW, as well as serving for not less than 12 months as assistant engineer officer or engineer officer on vessels powered by main propulsion machinery of not less than 750 kW/1,000 HP. Experience gained in the deck department may be creditable for up to 1 month of the total service requirements;
 
@@ -26,19 +26,17 @@
 
 (d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table:
 
-Table 1 to § 11.333(d) - STCW Endorsement as Second Engineer Officer on Vessels Powered by Main Propulsion Machinery of 750 kW/1,000 HP or More and Less Than 3,000 kW/4,000 HP Propulsion Power
+Table 1 to § 11.333(d)—STCW Endorsement as Second Engineer Officer on Vessels Powered by Main Propulsion Machinery of 750 kW/1,000 HP or More and Less Than 3,000 kW/4,000 HP Propulsion Power
+| Entry path from national endorsements                                                                                             | Sea service 1 | Competence—STCW Table A-III/3 2 | Training required   by this section 3 |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------- | ------------------------------------- |
+| First assistant engineer                                                                                                          | None          | Yes                             | Yes.                                  |
+| Second assistant engineer                                                                                                         | None          | Yes                             | Yes.                                  |
+| Third assistant engineer                                                                                                          | 12 months     | Yes                             | Yes.                                  |
+| Assistant engineer (limited)                                                                                                      | None          | Yes                             | Yes.                                  |
+| Assistant engineer OSV                                                                                                            | None          | Yes                             | Yes.                                  |
+| Assistant engineer MODU                                                                                                           | 12 months     | Yes                             | Yes.                                  |
+| 1 This column provides the minimum additional service required of the seafarer in order to meet the requirements of this section. |               |                                 |                                       |
+| 2 Complete any items in paragraph (a)(2) of this section not previously satisfied.                                                |               |                                 |                                       |
+| 3 Complete any items in paragraph (a)(3) of this section not previously satisfied.                                                |               |                                 |                                       |
 
-| Entry path from national endorsements | Sea service 1 | Competence - STCW Table A-III/2 2 | Training required   by this section 3 |
-| ------------------------------------- | ------------- | --------------------------------- | ------------------------------------- |
-| First assistant engineer              | None          | Yes                               | Yes.                                  |
-| Second assistant engineer             | None          | Yes                               | Yes.                                  |
-| Third assistant engineer              | 12 months     | Yes                               | Yes.                                  |
-| Assistant engineer (limited)          | None          | Yes                               | Yes.                                  |
-| Assistant engineer OSV                | None          | Yes                               | Yes.                                  |
-| Assistant engineer MODU               | 12 months     | Yes                               | Yes.                                  |
-
-1 This column provides the minimum additional service required of the seafarer in order to meet the requirements of this section.
-
-2 Complete any items in paragraph (a)(2) of this section not previously satisfied.
-
-3 Complete any items in paragraph (a)(3) of this section not previously satisfied.
+\[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019\]
