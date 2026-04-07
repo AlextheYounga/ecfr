@@ -1,5 +1,7 @@
 ##### § 319.56-13 Fruits and vegetables allowed importation subject to specified conditions.
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 (a) The following fruits and vegetables may be imported in accordance with § 319.56-3 and any additional requirements specified in paragraph (b) of this section.
 
 | Country/locality of   origin       | Common name               | Botanical name                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Plant part(s)              | Additional   requirements                    |
