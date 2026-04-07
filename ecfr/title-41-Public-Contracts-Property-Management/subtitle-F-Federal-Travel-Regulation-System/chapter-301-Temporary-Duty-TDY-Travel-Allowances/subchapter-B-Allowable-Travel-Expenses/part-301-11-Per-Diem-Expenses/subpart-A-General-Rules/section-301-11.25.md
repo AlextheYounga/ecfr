@@ -1,5 +1,7 @@
 ##### § 301-11.25 Must I provide receipts to substantiate my claimed travel expenses?
 
+Link to an amendment published at 89 FR 77026, Sept. 20, 2024.
+
 Yes. You must provide a lodging receipt and a receipt for every authorized expense over $75, or provide a reason acceptable to your agency explaining why you are unable to furnish the necessary receipt(s) (see § 301-52.4 of this chapter). 
 
 Note to § 301-11.25:

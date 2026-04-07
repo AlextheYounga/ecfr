@@ -23,7 +23,7 @@ Table 1 to § 52.1846—Allowances for Defects in Type I, Seedless Raisins and T
 | Moldy                                    | 2                                  | 3            | 4            |
 |                                          | Total                              |              |              |
 | Substandard development and undeveloped: |                                    |              |              |
-| Selected size                            | 1                                  | 11⁄2         | 2            |
+| Selected size                            | 1                                  | 11/2         | 2            |
 | Mixed size                               | 1                                  | 2            | 3            |
 | Small size                               | 2                                  | 3            | 5            |
 |                                          | Appearance or edibility of product |              |              |

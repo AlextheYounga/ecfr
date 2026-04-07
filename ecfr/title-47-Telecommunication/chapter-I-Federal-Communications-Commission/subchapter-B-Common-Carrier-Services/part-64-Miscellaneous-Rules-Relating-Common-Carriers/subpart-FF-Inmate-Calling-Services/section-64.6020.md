@@ -1,5 +1,7 @@
 ##### § 64.6020 Ancillary Service Charges.
 
+Link to an amendment published at 89 FR 77364, Sept. 20, 2024.
+
 (a) No Provider of interstate or international Inmate Calling Services shall charge an Ancillary Service Charge other than those permitted charges listed in § 64.6000(a).
 
 (b) No Provider shall charge a rate for a permitted Ancillary Service Charge in excess of:
