@@ -1,7 +1,5 @@
 ##### § 80.871 VHF radiotelephone station.
 
-Link to an amendment published at 82 FR 27213, June 14, 2017.
-
 (a) All passenger ships irrespective of size and all cargo ships of 300 gross tons and upwards subject to part II of title III of the Communications Act or to the Safety Convention are required to carry a VHF radiotelephone station complying with this subpart. Ships subject only to the Communications Act may use a VHF radiotelephone installation meeting the technical standards of the Bridge-to-Bridge Act to satisfy the watch requirements of § 80.305(a)(3) if the equipment can transmit and receive on 156.800 MHz.
 
 (b) The VHF radiotelephone station must be installed to insure safe and effective operation of the equipment and facilitate repair. It must be protected against vibration, moisture and temperature.
@@ -41,9 +39,7 @@ Link to an amendment published at 82 FR 27213, June 14, 2017.
 | 14                  | 156.700                        |
 | 74                  | 156.725                        |
 | 15                  | 156.750                        |
-| 75                  | 156.775                        |
 | 16                  | 156.800                        |
-| 76                  | 156.825                        |
 | 17                  | 156.850                        |
 | 77                  | 156.875                        |
 | 18                  | 156.900                        |
@@ -68,7 +64,6 @@ Link to an amendment published at 82 FR 27213, June 14, 2017.
 | 87                  | 157.375                        |
 | 28                  | 157.400                        |
 | 88                  | 157.425                        |
+| 1 Guard band.       |                                |
 
-1 Guard band.
-
-\[51 FR 31213, Sept. 2, 1986; 52 FR 35246, Sept. 18, 1987, as amended at 54 FR 40059, Sept. 29, 1989; 73 FR 4487, Jan. 25, 2008\]
+\[51 FR 31213, Sept. 2, 1986; 52 FR 35246, Sept. 18, 1987, as amended at 54 FR 40059, Sept. 29, 1989; 73 FR 4487, Jan. 25, 2008; 82 FR 27213, June 14, 2017\]

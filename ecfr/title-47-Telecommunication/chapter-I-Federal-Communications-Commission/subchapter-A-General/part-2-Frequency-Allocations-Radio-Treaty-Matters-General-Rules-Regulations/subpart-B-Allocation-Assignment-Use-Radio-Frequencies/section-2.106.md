@@ -1,6 +1,6 @@
 ##### § 2.106 Table of Frequency Allocations.
 
-Link to an amendment published at 82 FR 27185, June 14, 2017.![](/graphics/er07jy15.000.gif)![](/graphics/er07jy15.001.gif)![](/graphics/er07jy15.002.gif)![](/graphics/er07jy15.003.gif)![](/graphics/er07jy15.004.gif)![](/graphics/er07jy15.005.gif)![](/graphics/er07jy15.006.gif)![](/graphics/er07jy15.007.gif)![](/graphics/er07jy15.008.gif)![](/graphics/er07jy15.009.gif)![](/graphics/er07jy15.010.gif)![](/graphics/er07jy15.011.gif)![](/graphics/er07jy15.012.gif)![](/graphics/er07jy15.013.gif)![](/graphics/er07jy15.014.gif)![](/graphics/er07jy15.015.gif)![](/graphics/er07jy15.016.gif)![](/graphics/er07jy15.017.gif)![](/graphics/er07jy15.018.gif)![](/graphics/er07jy15.019.gif)![](/graphics/er07jy15.020.gif)![](/graphics/er07jy15.021.gif)![](/graphics/er07jy15.022.gif)![](/graphics/er07jy15.023.gif)![](/graphics/er07jy15.024.gif)![](/graphics/er07jy15.025.gif)![](/graphics/er07jy15.026.gif)![](/graphics/er07jy15.027.gif)![](/graphics/er07jy15.028.gif)![](/graphics/er07jy15.029.gif)![](/graphics/er07jy15.030.gif)![](/graphics/er07jy15.031.gif)![](/graphics/er17no15.000.gif)![](/graphics/er07jy15.033.gif)![](/graphics/er07jy15.034.gif)![](/graphics/er07jy15.035.gif)![](/graphics/er07jy15.036.gif)![](/graphics/er07jy15.037.gif)![](/graphics/er07jy15.038.gif)![](/graphics/er07jy15.039.gif)![](/graphics/er07jy15.040.gif)![](/graphics/er07jy15.041.gif)![](/graphics/er07jy15.042.gif)![](/graphics/er07jy15.043.gif)![](/graphics/er07jy15.044.gif)![](/graphics/er07jy15.045.gif)![](/graphics/er07jy15.046.gif)![](/graphics/er07jy15.047.gif)![](/graphics/er07jy15.048.gif)![](/graphics/er07jy15.049.gif)![](/graphics/er07jy15.050.gif)![](/graphics/er07jy15.051.gif)![](/graphics/er07jy15.052.gif)![](/graphics/er07jy15.053.gif)![](/graphics/er14no16.004.gif)![](/graphics/er07jy15.055.gif)![](/graphics/er14no16.005.gif)![](/graphics/er14no16.006.gif)![](/graphics/er07jy15.058.gif)![](/graphics/er07jy15.059.gif)![](/graphics/er14no16.007.gif)![](/graphics/er07jy15.061.gif)![](/graphics/er07jy15.062.gif)![](/graphics/er07jy15.063.gif)![](/graphics/er07jy15.064.gif)![](/graphics/er07jy15.065.gif)![](/graphics/er07jy15.066.gif)![](/graphics/er07jy15.067.gif)International Footnotes
+![](/graphics/er14jn17.001.gif)![](/graphics/er14jn17.002.gif)![](/graphics/er07jy15.002.gif)![](/graphics/er14jn17.003.gif)![](/graphics/er14jn17.004.gif)![](/graphics/er07jy15.005.gif)![](/graphics/er14jn17.005.gif)![](/graphics/er14jn17.006.gif)![](/graphics/er07jy15.008.gif)![](/graphics/er07jy15.009.gif)![](/graphics/er14jn17.007.gif)![](/graphics/er14jn17.008.gif)![](/graphics/er14jn17.009.gif)![](/graphics/er07jy15.013.gif)![](/graphics/er14jn17.010.gif)![](/graphics/er14jn17.011.gif)![](/graphics/er14jn17.012.gif)![](/graphics/er14jn17.013.gif)![](/graphics/er14jn17.014.gif)![](/graphics/er14jn17.015.gif)![](/graphics/er07jy15.020.gif)![](/graphics/er07jy15.021.gif)![](/graphics/er14jn17.016.gif)![](/graphics/er14jn17.017.gif)![](/graphics/er07jy15.024.gif)![](/graphics/er07jy15.025.gif)![](/graphics/er07jy15.026.gif)![](/graphics/er07jy15.027.gif)![](/graphics/er07jy15.028.gif)![](/graphics/er07jy15.029.gif)![](/graphics/er07jy15.030.gif)![](/graphics/er07jy15.031.gif)![](/graphics/er17no15.000.gif)![](/graphics/er07jy15.033.gif)![](/graphics/er07jy15.034.gif)![](/graphics/er07jy15.035.gif)![](/graphics/er07jy15.036.gif)![](/graphics/er07jy15.037.gif)![](/graphics/er07jy15.038.gif)![](/graphics/er07jy15.039.gif)![](/graphics/er14jn17.018.gif)![](/graphics/er14jn17.019.gif)![](/graphics/er07jy15.042.gif)![](/graphics/er07jy15.043.gif)![](/graphics/er14jn17.020.gif)![](/graphics/er07jy15.045.gif)![](/graphics/er07jy15.046.gif)![](/graphics/er07jy15.047.gif)![](/graphics/er07jy15.048.gif)![](/graphics/er07jy15.049.gif)![](/graphics/er14jn17.021.gif)![](/graphics/er07jy15.051.gif)![](/graphics/er14jn17.022.gif)![](/graphics/er14jn17.023.gif)![](/graphics/er14no16.004.gif)![](/graphics/er07jy15.055.gif)![](/graphics/er14jn17.024.gif)![](/graphics/er14no16.006.gif)![](/graphics/er07jy15.058.gif)![](/graphics/er07jy15.059.gif)![](/graphics/er14no16.007.gif)![](/graphics/er07jy15.061.gif)![](/graphics/er07jy15.062.gif)![](/graphics/er07jy15.063.gif)![](/graphics/er07jy15.064.gif)![](/graphics/er07jy15.065.gif)![](/graphics/er14jn17.025.gif)![](/graphics/er14jn17.026.gif)International Footnotes
 
 5.53 Administrations authorizing the use of frequencies below 8.3 kHz shall ensure that no harmful interference is caused to services to which the bands above 8.3 kHz are allocated. (WRC-12)
 
@@ -1780,21 +1780,11 @@ US52 In the VHF maritime mobile band (156-162 MHz), the following provisions sha
 
 (a) Except as provided for below, the use of the bands 161.9625-161.9875 MHz (AIS 1 with center frequency 161.975 MHz) and 162.0125-162.0375 MHz (AIS 2 with center frequency 162.025 MHz) by the maritime mobile and mobile-satellite (Earth-to-space) services is restricted to Automatic Identification Systems (AIS). The use of these bands by the aeronautical mobile (OR) service is restricted to AIS emissions from search and rescue aircraft operations. Frequencies in the AIS 1 band may continue to be used by non-Federal base, fixed, and land mobile stations until March 2, 2024.
 
-(b) The frequency 156.3 MHz may also be used by aircraft stations for the purpose of search and rescue operations and other safety-related communications.
+(b) Except as provided for below, the use of the bands 156.7625-156.7875 MHz (AIS 3 with center frequency 156.775 MHz) and 156.8125-156.8375 MHz (AIS 4 with center frequency 156.825 MHz) by the mobile-satellite service (Earth-to-space) is restricted to the reception of long-range AIS broadcast messages from ships (Message 27; see most recent version of Recommendation ITU-R M.1371). The frequencies 156.775 MHz and 156.825 MHz may continue to be used by non-Federal ship and coast stations for navigation-related port operations or ship movement until August 26, 2019.
 
-(c) Federal stations in the maritime mobile service may also be authorized as follows:
+(c) The frequency 156.3 MHz may also be used by aircraft stations for the purpose of search and rescue operations and other safety-related communication.
 
-(1) Vessel traffic services under the control of the U.S. Coast Guard on a simplex basis by coast and ship stations on the frequencies 156.25, 156.55, 156.6 and 156.7 MHz;
-
-(2) Inter-ship use of the frequency 156.3 MHz on a simplex basis;
-
-(3) Navigational bridge-to-bridge and navigational communications on a simplex basis by coast and ship stations on the frequencies 156.375 and 156.65 MHz;
-
-(4) Port operations use on a simplex basis by coast and ship stations on the frequencies 156.6 and 156.7 MHz;
-
-(5) Environmental communications on the frequency 156.75 MHz in accordance with the national plan; and
-
-(6) Duplex port operations use of the frequencies 157 MHz for ship stations and 161.6 MHz for coast stations.
+(d) Federal stations in the maritime mobile service may also be authorized as follows: (1) Vessel traffic services under the control of the U.S. Coast Guard on a simplex basis by coast and ship stations on the frequencies 156.25, 156.55, 156.6 and 156.7 MHz; (2) Inter-ship use of the frequency 156.3 MHz on a simplex basis; (3) Navigational bridge-to-bridge and navigational communications on a simplex basis by coast and ship stations on the frequencies 156.375 and 156.65 MHz; (4) Port operations use on a simplex basis by coast and ship stations on the frequencies 156.6 and 156.7 MHz; (5) Environmental communications on the frequency 156.75 MHz in accordance with the national plan; and (6) Duplex port operations use of the frequencies 157 MHz for ship stations and 161.6 MHz for coast stations.
 
 US53 In view of the fact that the band 13.25-13.4 GHz is allocated to doppler navigation aids, Federal and non-Federal airborne doppler radars in the aeronautical radionavigation service are permitted in the band 8750-8850 MHz only on the condition that they must accept any interference that may be experienced from stations in the radiolocation service in the band 8500-10000 MHz.
 
@@ -2077,6 +2067,14 @@ Bands To Be Observed
 
 Every practicable effort will be made to avoid the assignment of frequencies to stations in the fixed or mobile services in these bands. Should such assignments result in harmful interference to these observations, the situation will be remedied to the extent practicable.
 
+US115 In the bands 5000-5010 MHz and 5010-5030 MHz, the following provisions shall apply:
+
+(a) In the band 5000-5010 MHz, systems in the aeronautical mobile (R) service (AM(R)S) are limited to surface applications at airports that operate in accordance with international aeronautical standards (*i.e.,* AeroMACS).
+
+(b) The band 5010-5030 MHz is also allocated on a primary basis to the AM(R)S, limited to surface applications at airports that operate in accordance with international aeronautical standards. In making assignments for this band, attempts shall first be made to satisfy the AM(R)S requirements in the bands 5000-5010 MHz and 5091-5150 MHz. AM(R)S systems used in the band 5010-5030 MHz shall be designed and implemented to be capable of operational modification if receiving harmful interference from the radionavigation-satellite service. Finally, notwithstanding Radio Regulation No. 4.10, stations in the AM(R)S operating in this band shall be designed and implemented to be capable of operational modification to reduce throughput and/or preclude the use of specific frequencies in order to ensure protection of radionavigation-satellite service systems operating in this band.
+
+(c) Aeronautical fixed communications that are an integral part of the AeroMACS system in the bands 5000-5010 MHz and 5010-5030 MHz are also authorized on a primary basis.
+
 US116 In the bands 890-902 MHz and 935-941 MHz, no new assignments are to be made to Federal radio stations after July 10, 1970, except on a case-by-case basis to experimental stations. Federal assignments existing prior to July 10, 1970, shall be on a secondary basis to stations in the non-Federal land mobile service and shall be subject to adjustment or removal from the bands 890-902 MHz, 928-932 MHz, and 935-941 MHz at the request of the FCC.
 
 US117 In the band 406.1-410 MHz, the following provisions shall apply:
@@ -2113,6 +2111,8 @@ US131 In the band 10.7-11.7 GHz, non-geostationary satellite orbit licensees in 
 | Owens Valley, CA                          | 37°13′54″      | 118°16′37″     | 1,196                   |
 | Pie Town, NM                              | 34°18′04″      | 108°07′09″     | 2,365                   |
 | St. Croix, VI                             | 17°45′24″      | 64°35′01″      | 16                      |
+
+US132A In the bands 26.2-26.42 MHz, 41.015-41.665 MHz, and 43.35-44 MHz, applications of radiolocation service are limited to oceanographic radars operating in accordance with ITU Resolution 612 (Rev. WRC-12). Oceanographic radars shall not cause harmful interference to, or claim protection from, non-Federal stations in the land mobile service in the bands 26.2-26.42 MHz and 43.69-44 MHz, Federal stations in the fixed or mobile services in the band 41.015-41.665 MHz, and non-Federal stations in the fixed or land mobile services in the band 43.35-43.69 MHz.
 
 US133 In the bands 14-14.2 GHz and 14.47-14.5 GHz, the following provisions shall apply to the operations of Earth Stations Aboard Aircraft (ESAA):
 
@@ -2234,7 +2234,7 @@ US227 The bands 156.4875-156.5125 MHz and 156.5375-156.5625 MHz are also allocat
 
 US230 The bands 422.1875-425.4875 MHz and 427.1875-429.9875 MHz are allocated to the land mobile service on a primary basis for non-Federal use within 80.5 kilometers (50 miles) of Cleveland, OH (41°29′51.2″ N, 81°41′49.5″ W) and Detroit, MI (42°19′48.1″ N, 83°02′56.7″ W). The bands 423.8125-425.4875 MHz and 428.8125-429.9875 MHz are allocated to the land mobile service on a primary basis for non-Federal use within 80.5 kilometers of Buffalo, NY (42°52′52.2″ N, 78°52′20.1″ W).
 
-US231 When an assignment cannot be obtained in the bands between 200 kHz and 525 kHz, which are allocated to aeronautical radionavigation, assignments may be made to aeronautical radiobeacons in the maritime mobile band 435-490 kHz, on a secondary basis, subject to the coordination and agreement of those agencies having assignments within the maritime mobile band which may be affected. Assignments to Federal aeronautical radionavigation radiobeacons in the band 435-490 kHz shall not be a bar to any required changes to the maritime mobile radio service and shall be limited to non-voice emissions.
+US231 When an assignment cannot be obtained in the bands between 200 kHz and 525 kHz, which are allocated to aeronautical radionavigation, assignments may be made to aeronautical radiobeacons in the maritime mobile bands at 435-472 kHz and 479-490 kHz, on a secondary basis, subject to the coordination and agreement of those agencies having assignments within the maritime mobile bands which may be affected. Assignments to Federal aeronautical radionavigation radiobeacons in the bands 435-472 kHz and 479-490 kHz shall not be a bar to any required changes to the maritime mobile service and shall be limited to non-voice emissions.
 
 US239 Aeronautical radionavigation stations (radiobeacons) may be authorized, primarily for off-shore use, in the band 525-535 kHz on a non-interference basis to travelers information stations.
 
@@ -2274,11 +2274,11 @@ US244 The band 136-137 MHz is allocated to the non-Federal aeronautical mobile (
 
 US245 In the bands 3600-3650 MHz (space-to-Earth), 4500-4800 MHz (space-to-Earth), and 5850-5925 MHz (Earth-to-space), the use of the non-Federal fixed-satellite service is limited to international inter-continental systems and is subject to case-by-case electromagnetic compatibility analysis. The FCC's policy for these bands is codified at 47 CFR 2.108.
 
-US246 No station shall be authorized to transmit in the following bands: 73-74.6 MHz, 608-614 MHz, except for medical telemetry equipment 1 and white space devices, 2 1400-1427 MHz, 1660.5-1668.4 MHz, 2690-2700 MHz, 4990-5000 MHz, 10.68-10.7 GHz, 15.35-15.4 GHz, 23.6-24 GHz, 31.3-31.8 GHz, 50.2-50.4 GHz, 52.6-54.25 GHz, 86-92 GHz, 100-102 GHz, 109.5-111.8 GHz, 114.25-116 GHz, 148.5-151.5 GHz, 164-167 GHz, 182-185 GHz, 190-191.8 GHz, 200-209 GHz, 226-231.5 GHz, 250-252 GHz. 
+US246 No station shall be authorized to transmit in the following bands: 73-74.6 MHz, 608-614 MHz, except for medical telemetry equipment 1 and white space devices, 2 1400-1427 MHz, 1660.5-1668.4 MHz, 2690-2700 MHz, 4990-5000 MHz, 10.68-10.7 GHz, 15.35-15.4 GHz, 23.6-24 GHz, 31.3-31.8 GHz, 50.2-50.4 GHz, 52.6-54.25 GHz, 86-92 GHz, 100-102 GHz, 109.5-111.8 GHz, 114.25-116 GHz, 148.5-151.5 GHz, 164-167 GHz, 182-185 GHz, 190-191.8 GHz, 200-209 GHz, 226-231.5 GHz, 250-252 GHz.
 
 1 Medical telemetry equipment shall not cause harmful interference to radio astronomy operations in the band 608-614 MHz and shall be coordinated under the requirements found in 47 CFR 95.1119.
 
-2 White space devices shall not cause harmful interference to radio astronomy operations in the band 608-614 and shall not operate within the areas described in 47 CFR 15.712(h).
+2 White space devices shall not cause harmful interference to radio astronomy operations in the band 608-614 MHz and shall not operate within the areas described in 47 CFR 15.712(h).
 
 US247 The band 10100-10150 kHz is allocated to the fixed service on a primary basis outside the United States and its insular areas. Transmissions from stations in the amateur service shall not cause harmful interference to this fixed service use and stations in the amateur service shall make all necessary adjustments (including termination of transmission) if harmful interference is caused.
 
@@ -2549,8 +2549,6 @@ US362 The band 1670-1675 MHz is allocated to the meteorological-satellite servic
 
 US364 Consistent with US18, stations may be authorized on a primary basis in the band 285-325 kHz for the specific purpose of transmitting differential global positioning system information.
 
-US367 The band 5000-5150 MHz is also allocated to the aeronautical mobile-satellite (R) service on a primary basis, subject to agreement obtained under No. 9.21 of the ITU *Radio Regulations.*
-
 US379 In the band 55.78-56.26 GHz, in order to protect stations in the Earth exploration-satellite service (passive), the maximum power density delivered by a transmitter to the antenna of a fixed service station is limited to−28.5 dB(W/MHz).
 
 US380 In the bands 1525-1544 MHz, 1545-1559 MHz, 1610-1645.5 MHz, 1646.5-1660.5 MHz, and 2483.5-2500 MHz, a non-Federal licensee in the mobile-satellite service (MSS) may also operate an ancillary terrestrial component in conjunction with its MSS network, subject to the Commission's rules for ancillary terrestrial component and subject to all applicable conditions and provisions of its MSS authorization.
@@ -2762,6 +2760,8 @@ US482 In the band 10.6-10.68 GHz, the following provisions and urgings apply:
 
 The maximum transmitter power supplied to the antenna of stations using ATPC may be increased by a value corresponding to the ATPC range, up to a maximum of −3 dBW.
 
+US511E The use of the band 15.4-15.7 GHz by the radiolocation service is limited to Federal systems requiring a necessary bandwidth greater than 1600 MHz that cannot be accommodated within the band 15.7-17.3 GHz except as described below. In the band 15.4-15.7 GHz, stations operating in the radiolocation service shall not cause harmful interference to, nor claim protection from, radars operating in the aeronautical radionavigation service. Radar systems operating in the radiolocation service shall not be developed solely for operation in the band 15.4-15.7 GHz. Radar systems requiring use of the band 15.4-15.7 GHz for testing, training, and exercises may be accommodated on a case-by-case basis.
+
 US519 The band 18-18.3 GHz is also allocated to the meteorological-satellite service (space-to-Earth) on a primary basis. Its use is limited to geostationary satellites and shall be in accordance with the provisions of Article 21, Table 21-4 of the ITU *Radio Regulations.*
 
 US532 In the bands 21.2-21.4 GHz, 22.21-22.5 GHz, and 56.26-58.2 GHz, the space research and Earth exploration-satellite services shall not receive protection from the fixed and mobile services operating in accordance with the Table of Frequency Allocations.
@@ -2776,11 +2776,11 @@ US550A In the band 36-37 GHz, the following provisions shall apply:
 
 (2) −10 dBW for all other stations, except that the maximum transmitter power of stations using automatic transmitter power control (ATPC) may be increased by a value corresponding to the ATPC range, up to a maximum of −7 dBW.
 
-US565 The frequency band 275-1000 GHz may be used by administrations for experimentation with, and development of, various active and passive services. In this band a need has been identified for the following spectral line measurements for passive services:
+US565 The following frequency bands in the range 275-1000 GHz are identified for passive service applications:
 
- - radio astronomy service: 275-323 GHz, 327-371 GHz, 388-424 GHz, 426-442 GHz, 453-510 GHz, 623-711 GHz, 795-909 GHz and 926-945 GHz; - Earth exploration-satellite service (passive) and space research service (passive): 275-277 GHz, 294-306 GHz, 316-334 GHz, 342-349 GHz, 363-365 GHz, 371-389 GHz, 416-434 GHz, 442-444 GHz, 496-506 GHz, 546-568 GHz, 624-629 GHz, 634-654 GHz, 659-661 GHz, 684-692 GHz, 730-732 GHz, 851-853 GHz and 951-956 GHz.
+ - Radio astronomy service: 275-323 GHz, 327-371 GHz, 388-424 GHz, 426-442 GHz, 453-510 GHz, 623-711 GHz, 795-909 GHz and 926-945 GHz; - Earth exploration-satellite service (passive) and space research service (passive): 275-286 GHz, 296-306 GHz, 313-356 GHz, 361-365 GHz, 369-392 GHz, 397-399 GHz, 409-411 GHz, 416-434 GHz, 439-467 GHz, 477-502 GHz, 523-527 GHz, 538-581 GHz, 611-630 GHz, 634-654 GHz, 657-692 GHz, 713-718 GHz, 729-733 GHz, 750-754 GHz, 771-776 GHz, 823-846 GHz, 850-854 GHz, 857-862 GHz, 866-882 GHz, 905-928 GHz, 951-956 GHz, 968-973 GHz and 985-990 GHz.
 
-Future research in this largely unexplored spectral region may yield additional spectral lines and continuum bands of interest to the passive services. Administrations are urged to take all practicable steps to protect these passive services from harmful interference until the date when the allocation Table is established in the above-mentioned frequency band.
+The use of the range 275-1000 GHz by the passive services does not preclude use of this range by active services. This provision does not establish priority of use in the United States Table of Frequency Allocations, and does not preclude or constrain any active service use or future allocation of frequency bands in the 275-3000 GHz range.
 
 Non-Federal Government (NG) Footnotes (These footnotes, each consisting of the letters “NG” followed by one or more digits, denote stipulations applicable only to non-Federal operations and thus appear solely in the non-Federal Table.)
 
@@ -2798,9 +2798,13 @@ NG6 Stations in the public safety radio services authorized as of June 30, 1958,
 
 NG7 In the bands 2000-2065, 2107-2170, and 2194-2495 kHz, fixed stations associated with the maritime mobile service may be authorized, for purposes of communication with coast stations, to use frequencies assignable to ship stations in these bands on the condition that harmful interference will not be caused to services operating in accordance with the Table of Frequency Allocations. *See* 47 CFR 80.371(a) for the list of available carrier frequencies.
 
+NG8 In the band 472-479 kHz, non-Federal stations in the maritime mobile service that were licensed or applied for prior to \[insert effective date of the WRC-12 R&O\] may continue to operate on a primary basis, subject to periodic license renewals.
+
 NG14 TV broadcast stations authorized to operate in the bands 54-72, 76-88, 174-216, 470-608, and 614-698 MHz may use a portion of the television vertical blanking interval for the transmission of telecommunications signals, on the condition that harmful interference will not be caused to the reception of primary services, and that such telecommunications services must accept any interference caused by primary services operating in these bands.
 
 NG17 Stations in the land transportation radio services authorized as of May 15, 1958 to operate on the frequency 161.61 MHz may, upon proper application, continue to be authorized for such operation, including expansion of existing systems, on the condition that harmful interference will not be caused to the operation of any authorized station in the maritime mobile service. No new land transportation radio service system will be authorized to operate on 161.61 MHz.
+
+NG16 In the bands 72-73 MHz and 75.4-76 MHz, frequencies may be authorized for mobile operations in the Industrial/Business Radio Pool, subject to not causing interference to the reception of broadcast television signals on channels 4 and 5.
 
 NG22 The frequencies 156.050 and 156.175 MHz may be assigned to stations in the maritime mobile service for commercial and port operations in the New Orleans Vessel Traffic Service (VTS) area and the frequency 156.250 MHz may be assigned to stations in the maritime mobile service for port operations in the New Orleans and Houston VTS areas.
 
@@ -2819,44 +2823,6 @@ NG41 In the band 2120-2180 MHz, the following provisions shall apply to grandfat
 (a) In the sub-band 2160-2162 MHz, authorizations in the Broadband Radio Service (BRS) applied for after January 16, 1992 shall be granted on a secondary basis to Advanced Wireless Services (AWS). In the band 2150-2162 MHz, all other BRS stations shall operate on a primary basis until December 9, 2021, and may continue to operate on a secondary basis thereafter, unless said facility is relocated in accordance with 47 CFR 27.1250 through 27.1255.
 
 (b) In the sub-band 2160-2180 MHz, fixed stations authorized pursuant to 47 CFR part 101 may continue to operate on a secondary basis to AWS.
-
-NG49 The following frequencies may be authorized for mobile operations in the Manufacturers Radio Service subject to the condition that no interference is caused to the reception of television stations operating on channels 4 and 5 and that their use is limited to a manufacturing facility:
-
-MHz 
-*   72.02
-*   72.04
-*   72.06
-*   72.08
-*   72.10
-*   72.12
-*   72.14
-*   72.16
-*   72.18
-*   72.20
-*   72.22
-*   72.24
-*   72.26
-*   72.28
-*   72.30
-*   72.32
-*   72.34
-*   72.36
-*   72.38
-*   72.40
-
-Further, the following frequencies may be authorized for mobile operations in the Special Industrial Radio Service, Manufacturers Radio Service, Railroad Radio Service and Forest Products Radio Service subject to the condition that no interference is caused to the reception of television stations operating on channels 4 and 5; and that their use is limited to a railroad yard, manufacturing plant, logging site, mill, or similar industrial facility.
-
-MHz 
-*   72.44
-*   72.48
-*   72.52
-*   72.56
-*   72.60
-*   75.44
-*   75.48
-*   75.52
-*   75.56
-*   75.60
 
 NG50 In the band 10-10.5 GHz, non-Federal stations in the radiolocation service shall not cause harmful interference to the amateur service; and in the sub-band 10.45-10.5 GHz, these stations shall not cause harmful interference to the amateur-satellite service.
 
@@ -2920,7 +2886,7 @@ NG66 The band 470-512 MHz (TV channels 14-20) is allocated to the broadcasting s
 
 NG70 In Puerto Rico and the Virgin Islands only, the bands 159.240-159.435 and 160.410-160.620 MHz are also available for assignment to base stations and mobile stations in the special industrial radio service.
 
-NG92 The band 1900-2000 kHz is also allocated to the radiolocation service on a primary basis in Region 2 and on a secondary basis in Region 3. This use is restricted to radio buoy operations on the open sea.
+NG92 The band 1900-2000 kHz is also allocated on a primary basis to the maritime mobile service in Regions 2 and 3 and to the radiolocation service in Region 2, and on a secondary basis to the radiolocation service in Region 3. The use of these allocations is restricted to radio buoy operations on the open sea and the Great Lakes. Stations in the amateur, maritime mobile, and radiolocation services in Region 2 shall be protected from harmful interference only to the extent that the offending station does not operate in compliance with the technical rules applicable to the service in which it operates.
 
 NG111 The band 157.4375-157.4625 MHz may be used for one way paging operations in the special emergency radio service.
 
