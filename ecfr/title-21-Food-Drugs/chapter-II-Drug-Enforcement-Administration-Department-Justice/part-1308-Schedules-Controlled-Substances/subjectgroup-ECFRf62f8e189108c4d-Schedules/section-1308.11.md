@@ -638,7 +638,7 @@ Meaning an extract containing one or more cannabinoids that has been derived fro
 
 (100) 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexan-1-one (methoxetamine, MXE)
 
-7286 
+7286
 
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
@@ -810,7 +810,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (56) N,N-diethyl-2-(5-nitro-2-(4-propoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Protonitazene)
 
-9759 
+9759
 
 \[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:
 
