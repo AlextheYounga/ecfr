@@ -1,10 +1,8 @@
 ##### § 107.1845 Determination of Capital Impairment Percentage for Early Stage SBICs.
 
-Link to an amendment published at 88 FR 46013, July 18, 2023.
-
 This section applies to Early Stage SBICs only. Except as modified by this section, all provisions of § 107.1840 apply to an Early Stage SBIC.
 
-(a) To determine your Class 2 Appreciation under § 107.1840(d)(3), use the following provisions instead of § 107.1840(d)(3)(iii):
+(a) To determine your Class 2 Appreciation under § 107.1840(d)(3), SBA will use the following provisions instead of § 107.1840(d)(3)(iii):
 
 (1) Such financing occurred within 24 months of the date of the Capital Impairment computation. At the end of the 24 month period following the financing, you may request SBA's written approval to retain the use of the original Class 2 Appreciation on the investment for up to 24 additional months.
 
@@ -34,4 +32,4 @@ This section applies to Early Stage SBICs only. Except as modified by this secti
 
 (iii) Add the lesser of (c)(3)(i) and (ii) of this section to the result from paragraph (c)(1) of this section to determine your Adjusted Unrealized Gain.
 
-\[77 FR 25054, Apr. 27, 2012\]
+\[77 FR 25054, Apr. 27, 2012, as amended at 88 FR 46013, July 18, 2023\]

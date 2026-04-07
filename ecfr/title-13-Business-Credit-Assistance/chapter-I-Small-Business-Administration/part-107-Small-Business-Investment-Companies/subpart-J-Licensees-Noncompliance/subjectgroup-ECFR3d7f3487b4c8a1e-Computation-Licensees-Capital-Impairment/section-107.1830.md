@@ -1,7 +1,5 @@
 ##### § 107.1830 Licensee's Capital Impairment—definition and general requirements.
 
-Link to an amendment published at 88 FR 46012, July 18, 2023.
-
 (a) *Applicability of this section.* This section applies to Leverage issued on or after April 25, 1994. For Leverage issued before April 25, 1994, you must comply with paragraphs (e) and (f) of this section and the Capital Impairment regulations in this part in effect when you issued your Leverage. For all Leverage issued, you must also comply with any contractual provisions to which you have agreed.
 
 (b) *Significance of Capital Impairment condition.* If you have a condition of Capital Impairment, you are not in compliance with the terms of your Leverage. As a result, SBA has the right to impose the applicable remedies for noncompliance in §§ 107.1810(g) and 107.1820(f).
@@ -13,7 +11,6 @@ Link to an amendment published at 88 FR 46012, July 18, 2023.
 (2) For Section 301(c) Licensees, the appropriate percentage from the following table:
 
 Maximum Permitted Capital Impairment Percentages for Section 301(c) Licensees
-
 | If the percentage of equity capital investments (at cost) in your portfolio is: | And your ratio of outstanding leverage to leverageable capital is: | Then your maximum permitted capital impairment percentage is: |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- |
 | 67%                                                                             | 100% or less                                                       | 70                                                            |
@@ -32,8 +29,8 @@ Maximum Permitted Capital Impairment Percentages for Section 301(c) Licensees
 
 (2) You have not reached your first fiscal year end occurring after April 25, 1995.
 
-(e) *Quarterly computation requirement and procedure.* You must determine whether you have a condition of Capital Impairment as of the end of each fiscal quarter. You must notify SBA promptly if you are capitally impaired.
+(e) *Quarterly computation requirement and procedure.* SBA will determine whether you have a condition of Capital Impairment as of the end of each fiscal quarter. If SBA finds you capitally impaired, they will notify you.
 
 (f) *SBA's right to determine Licensee's Capital Impairment condition.* SBA may make its own determination of your Capital Impairment condition at any time.
 
-\[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5873, Feb. 5, 1998\]
+\[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5873, Feb. 5, 1998; 88 FR 46012, July 18, 2023\]

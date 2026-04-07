@@ -14,7 +14,7 @@ Terms used in this part have the following meanings:
 
 *Eligible telecommunications carrier.* “Eligible telecommunications carrier” means a carrier designated as such under subpart C of this part.
 
-*High-cost support.* “High-cost support” refers to those support mechanisms in existence as of October 1, 2011, specifically, high-cost loop support, safety net additive and safety valve provided pursuant to subpart F of part 36, local switching support pursuant to § 54.301, forward-looking support pursuant to § 54.309, interstate access support pursuant to §§ 54.800 through 54.809, and interstate common line support pursuant to §§ 54.901 through 54.904, support provided pursuant to §§ 51.915, 51.917, and 54.304, support provided to competitive eligible telecommunications carriers as set forth in § 54.307(e), Connect America Fund support provided pursuant to § 54.312, and Mobility Fund and 5G Fund support provided pursuant to subpart L of this part.
+*High-cost support.* “High-cost support” refers to those support mechanisms provided pursuant to subparts D, J, K, L, M, and O of this part.
 
 *Incumbent local exchange carrier.* “Incumbent local exchange carrier” or “ILEC” has the same meaning as that term is defined in § 51.5 of this chapter.
 

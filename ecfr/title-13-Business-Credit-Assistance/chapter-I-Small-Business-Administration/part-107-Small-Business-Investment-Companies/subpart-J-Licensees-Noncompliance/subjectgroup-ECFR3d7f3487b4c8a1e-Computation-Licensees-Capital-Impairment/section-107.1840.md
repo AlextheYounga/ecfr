@@ -1,16 +1,14 @@
 ##### § 107.1840 Computation of Licensee's Capital Impairment Percentage.
 
-Link to an amendment published at 88 FR 46013, July 18, 2023.
+(a) *General.* This section contains the procedures SBA will use to determine your Capital Impairment Percentage. SBA will compare your Capital Impairment Percentage to the maximum permitted under § 107.1830(c) to determine whether you have a condition of Capital Impairment.
 
-(a) *General.* This section contains the procedures you must use to determine your Capital Impairment Percentage if you have outstanding Leverage issued after April 25, 1994. You must compare your Capital Impairment Percentage to the maximum permitted under § 107.1830(c) to determine whether you have a condition of Capital Impairment.
-
-(b) *Preliminary impairment test.* If you satisfy the preliminary impairment test, your Capital Impairment Percentage is zero and you do not have to perform any more procedures in this § 107.1840. Otherwise, you must continue with paragraph (c) of this section. You satisfy the test if the following amounts are both zero or greater:
+(b) *Preliminary impairment test.* If you satisfy the preliminary impairment test, your Capital Impairment Percentage is zero and SBA will not have to perform any more procedures in this section. Otherwise, SBA will continue with paragraph (c) of this section. You satisfy the test if the following amounts are both zero or greater:
 
 (1) The sum of Undistributed Net Realized Earnings, as reported on SBA Form 468, and Includible Non-Cash Gains.
 
 (2) Unrealized Gain (Loss) on Securities Held.
 
-(c) *How to compute your Capital Impairment Percentage.* (1) If you have an Unrealized Gain on Securities Held, compute your Adjusted Unrealized Gain using paragraph (d) of this section. If you have an Unrealized Loss on Securities Held, continue with paragraph (c)(2) of this Section.
+(c) *How to compute Capital Impairment Percentage.* (1) If you have an Unrealized Gain on Securities Held, SBA will compute your Adjusted Unrealized Gain using paragraph (d) of this section. If you have an Unrealized Loss on Securities Held, SBA will continue with paragraph (c)(2) of this section.
 
 (2) Add together your Undistributed Net Realized Earnings, your Includible Non-cash Gains, and either your Unrealized Loss on Securities Held or your Adjusted Unrealized Gain.
 
@@ -33,7 +31,6 @@ Link to an amendment published at 88 FR 46013, July 18, 2023.
 (4) Except as provided for Early Stage SBICs in § 107.1845, perform the appropriate computation from the following table:
 
 Adjusted Unrealized Gain Before Estimated Tax Effects
-
 | If:                                    | And:                                                          | Then adjusted unrealized gain   before taxes is:                                     |
 | -------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Class 1 Appreciation ≤Net Appreciation | Class 1 Appreciation + Class 2 Appreciation ≤Net Appreciation | (80% × Class 1 Appreciation) + (50% × Class 2 Appreciation).                         |
@@ -42,6 +39,6 @@ Adjusted Unrealized Gain Before Estimated Tax Effects
 
 (5) Reduce the gain computed in paragraph (d)(4) of this section by your estimate of related future income tax expense. Subject to any adjustment required by paragraph (d)(6) of this section, the result is your Adjusted Unrealized Gain for use in paragraph (c)(2) of this section.
 
-(6) If any securities that are the source of either Class 1 or Class 2 Appreciation are pledged or encumbered in any way, you must reduce the Adjusted Unrealized Gain computed in paragraph (d)(5) of this section by the amount of the related borrowing or other obligation, up to the amount of the Unrealized Appreciation on the securities.
+(6) If any securities that are the source of either Class 1 or Class 2 Appreciation are pledged or encumbered in any way, SBA will reduce the Adjusted Unrealized Gain computed in paragraph (d)(5) of this section by the amount of the related borrowing or other obligation, up to the amount of the Unrealized Appreciation on the securities.
 
-\[61 FR 3189, Jan. 31, 1996, as amended at 77 FR 25054, Apr. 27, 2012\]
+\[61 FR 3189, Jan. 31, 1996, as amended at 77 FR 25054, Apr. 27, 2012; 88 FR 46013, July 18, 2023\]
