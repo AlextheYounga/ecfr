@@ -286,7 +286,7 @@
 
 (4) No authorized committee of a candidate shall attribute more than $1,000 in contributions to the same pseudonym for each election and no other political committee shall attribute more than $5,000 in contributions to the same pseudonym in any calendar year.
 
-(5) A committee using pseudonyms shall send a list of such pseudonyms under separate cover directly to the Reports Analysis Division, Federal Election Commission, at the street address identified in the definition of “Commission” in § 1.2, on or before the date on which any report containing such pseudonyms is filed with the Secretary of the Senate or the Commission. The Commission shall maintain the list, but shall exclude it from the public record. A committee shall not send any list of pseudonyms to the Secretary of the Senate or to any Secretary of State or equivalent state officer.
+(5) A committee using pseudonyms shall send a list of such pseudonyms under separate cover directly to the Reports Analysis Division, Federal Election Commission, at the street address identified in the definition of “Commission” in § 1.2 of this chapter, on or before the date on which any report containing such pseudonyms is filed with the Commission. The Commission shall maintain the list, but shall exclude it from the public record. A committee shall not send any list of pseudonyms to any Secretary of State or equivalent state officer.
 
 (6) A political committee shall not use pseudonyms for the purpose of circumventing the reporting requirements or the limitations and prohibitions of the Act.
 
