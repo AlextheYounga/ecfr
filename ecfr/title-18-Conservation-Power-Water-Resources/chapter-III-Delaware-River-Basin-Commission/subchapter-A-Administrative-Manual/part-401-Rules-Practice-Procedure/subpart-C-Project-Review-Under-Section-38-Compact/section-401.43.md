@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 21218, May 19, 2025.
 
-(a) *Purpose.* The purpose of this section is to provide an adequate, stable and reliable stream of revenue to cover the cost of the Commission's regulatory program activities, an important means by which the Commission coordinates management of the shared water resources of the Basin. Activities to be covered by the fees include the review of applications for projects that are subject to review under the Delaware River Basin Compact and implementing regulations; and ongoing activities associated with such projects, including but not limited to, effluent and ambient monitoring, data analysis, hydrodynamic and water quality modeling, and coordination with state and federal agencies.
+(a) *Purpose.* The purpose of this section is to provide an adequate, stable and reliable stream of revenue to cover the cost of the Commission's regulatory program activities, an important means by which the Commission coordinates management of the shared water resources of the Basin. Activities to be covered by the fees include the review of applications for projects that are subject to review under the Delaware River Basin Compact and implementing regulations; and ongoing activities associated with such projects, including but not limited to, effluent and ambient monitoring, data analysis, hydrodynamic and water quality modeling, and coordination with state and federal agencies.1Federal Register
 
 (b) *Types of fees.* The following types of fees are established by this section:
 
@@ -53,7 +53,7 @@ Link to an amendment published at 90 FR 21218, May 19, 2025.
 Table 1 to § 401.43—Docket Application Filing Fee
 | Project type                                                                     | Docket application fee                                                                                                              | Fee maximum                                      |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| Water Allocation                                                                 | $511 per million gallons/month of allocation,1 not to exceed $19,171.1 Fee is doubled for any portion to be exported from the basin | Greater of: $19,171 1 or Alternative Review Fee. |
+| Water Allocation1                                                                | $511 per million gallons/month of allocation,1 not to exceed $19,171.1 Fee is doubled for any portion to be exported from the basin | Greater of: $19,171 1 or Alternative Review Fee. |
 | Wastewater Discharge                                                             | Private projects: $1,278; 1 Public projects: $639 1                                                                                 | Alternative Review Fee.                          |
 | Other                                                                            | 0.4% of project cost up to $10,000,000 plus 0.12% of project cost above $10,000,000 (if applicable), not to exceed $95,854 1        | Greater of: $95,854 1 or Alternative Review Fee. |
 | 1 Subject to annual adjustment in accordance with paragraph (c) of this section. |                                                                                                                                     |                                                  |

@@ -1,6 +1,6 @@
 ##### § 91.127 Operating on or in the vicinity of an airport in Class E airspace.
 
-(a) Unless otherwise required by part 93 of this chapter or unless otherwise authorized or required by the ATC facility having jurisdiction over the Class E airspace area, each person operating an aircraft on or in the vicinity of an airport in a Class E airspace area must comply with the requirements of § 91.126.
+(a) Unless otherwise required by part 93 of this chapter or unless otherwise authorized or required by the ATC facility having jurisdiction over the Class E airspace area, each person operating an aircraft on or in the vicinity of an airport in a Class E airspace area must comply with the requirements of § 91.126.*Departures.*
 
 (b) *Departures.* Each pilot of an aircraft must comply with any traffic patterns established for that airport in part 93 of this chapter.
 

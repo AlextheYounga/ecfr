@@ -1,6 +1,6 @@
 ##### § 91.409 Inspections.
 
-(a) Except as provided in paragraph (c) of this section, no person may operate an aircraft unless, within the preceding 12 calendar months, it has had—
+(a) Except as provided in paragraph (c) of this section, no person may operate an aircraft unless, within the preceding 12 calendar months, it has had—*Progressive inspection.*
 
 (1) An annual inspection in accordance with part 43 of this chapter and has been approved for return to service by a person authorized by § 43.7 of this chapter; or
 

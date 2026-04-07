@@ -1,6 +1,6 @@
 ##### § 91.175 Takeoff and landing under IFR.
 
-(a) *Instrument approaches to civil airports.* Unless otherwise authorized by the FAA, when it is necessary to use an instrument approach to a civil airport, each person operating an aircraft must use a standard instrument approach procedure prescribed in part 97 of this chapter for that airport. This paragraph does not apply to United States military aircraft.
+(a) *Instrument approaches to civil airports.* Unless otherwise authorized by the FAA, when it is necessary to use an instrument approach to a civil airport, each person operating an aircraft must use a standard instrument approach procedure prescribed in part 97 of this chapter for that airport. This paragraph does not apply to United States military aircraft.1/2
 
 (b) *Authorized DA/DH or MDA.* For the purpose of this section, when the approach procedure being used provides for and requires the use of a DA/DH or MDA, the authorized DA/DH or MDA is the highest of the following:
 
@@ -82,7 +82,7 @@
 
 | RVR (feet) | Visibility (statute miles) |
 | ---------- | -------------------------- |
-| 1,600      | 1⁄4                        |
+| 1,60014    | 1⁄4                        |
 | 2,400      | 1⁄2                        |
 | 3,200      | 5⁄8                        |
 | 4,000      | 3⁄4                        |

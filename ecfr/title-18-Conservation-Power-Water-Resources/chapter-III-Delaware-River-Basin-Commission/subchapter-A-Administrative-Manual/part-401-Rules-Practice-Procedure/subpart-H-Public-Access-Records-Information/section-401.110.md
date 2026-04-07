@@ -1,6 +1,6 @@
 ##### § 401.110 Fees.
 
-(a) Unless waived in accordance with the provisions of § 401.111, the following fees shall be imposed for production of any record pursuant to this part.
+(a) Unless waived in accordance with the provisions of § 401.111, the following fees shall be imposed for production of any record pursuant to this part.*Administrative fees.*
 
 (1) *Administrative fees.* (i) Charges for administrative fees include staff time associated with:
 

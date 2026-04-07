@@ -1,6 +1,6 @@
 ##### § 91.1705 Required pilot training.
 
-(a) Except as provided in § 91.1703(b), no person may manipulate the controls, act as pilot in command, or act as second-in-command of a Mitsubishi MU-2B series airplane for the purpose of flight unless—
+(a) Except as provided in § 91.1703(b), no person may manipulate the controls, act as pilot in command, or act as second-in-command of a Mitsubishi MU-2B series airplane for the purpose of flight unless—*Special Emphasis Items,*
 
 (1) The requirements for ground and flight training on Initial/transition, Requalification, Recurrent, and Differences training have been completed in accordance with an FAA approved MU-2B training program that meets the standards of this subpart; and
 

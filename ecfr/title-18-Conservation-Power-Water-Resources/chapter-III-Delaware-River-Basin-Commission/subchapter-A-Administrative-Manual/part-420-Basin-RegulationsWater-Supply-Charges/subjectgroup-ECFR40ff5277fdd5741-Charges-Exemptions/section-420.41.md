@@ -2,7 +2,7 @@
 
 Link to an amendment published at 90 FR 21219, May 19, 2025.
 
-The schedule of water charges established in accordance with § 420.22 shall be as follows:
+The schedule of water charges established in accordance with § 420.22 shall be as follows:1Federal Register
 
 (a) $102 per million gallons for consumptive use, subject to paragraph (c) of this section; and
 

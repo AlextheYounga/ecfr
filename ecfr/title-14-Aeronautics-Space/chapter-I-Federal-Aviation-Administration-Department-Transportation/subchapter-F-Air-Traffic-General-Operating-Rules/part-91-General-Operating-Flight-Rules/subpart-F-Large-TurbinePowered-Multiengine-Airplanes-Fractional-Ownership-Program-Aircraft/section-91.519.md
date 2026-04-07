@@ -1,6 +1,6 @@
 ##### § 91.519 Passenger briefing.
 
-(a) Before each takeoff the pilot in command of an airplane carrying passengers shall ensure that all passengers have been orally briefed on—
+(a) Before each takeoff the pilot in command of an airplane carrying passengers shall ensure that all passengers have been orally briefed on—*Smoking.*
 
 (1) *Smoking.* Each passenger shall be briefed on when, where, and under what conditions smoking is prohibited. This briefing shall include a statement, as appropriate, that the Federal Aviation Regulations require passenger compliance with lighted passenger information signs and no smoking placards, prohibit smoking in lavatories, and require compliance with crewmember instructions with regard to these items;
 

@@ -1,6 +1,6 @@
 ##### § 91.167 Fuel requirements for flight in IFR conditions.
 
-(a) No person may operate a civil aircraft in IFR conditions unless it carries enough fuel (considering weather reports and forecasts and weather conditions) to—
+(a) No person may operate a civil aircraft in IFR conditions unless it carries enough fuel (considering weather reports and forecasts and weather conditions) to—*For aircraft other than helicopters.*
 
 (1) Complete the flight to the first airport of intended landing;
 

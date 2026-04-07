@@ -1,6 +1,6 @@
 ##### § 91.189 Category II and III operations: General operating rules.
 
-(a) No person may operate a civil aircraft in a Category II or III operation unless—
+(a) No person may operate a civil aircraft in a Category II or III operation unless—*Authorized DA/DH.*
 
 (1) The flight crew of the aircraft consists of a pilot in command and a second in command who hold the appropriate authorizations and ratings prescribed in § 61.3 of this chapter;
 

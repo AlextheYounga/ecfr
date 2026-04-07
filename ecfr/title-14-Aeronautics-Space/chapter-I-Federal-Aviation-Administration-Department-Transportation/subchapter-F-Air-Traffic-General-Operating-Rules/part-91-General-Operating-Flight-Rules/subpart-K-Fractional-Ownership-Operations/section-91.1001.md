@@ -1,6 +1,6 @@
 ##### § 91.1001 Applicability.
 
-(a) This subpart prescribes rules, in addition to those prescribed in other subparts of this part, that apply to fractional owners and fractional ownership program managers governing—
+(a) This subpart prescribes rules, in addition to those prescribed in other subparts of this part, that apply to fractional owners and fractional ownership program managers governing—*Affiliate of a program manager*1/16
 
 (1) The provision of program management services in a fractional ownership program;
 

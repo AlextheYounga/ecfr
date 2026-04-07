@@ -1,6 +1,6 @@
 ##### § 91.873 Waivers from final compliance.
 
-(a) A U.S. air carrier or a foreign air carrier may apply for a waiver from the prohibition contained in § 91.853 of this part for its remaining Stage 2 airplanes, provided that, by July 1, 1999, at least 85 percent of the airplanes used by the carrier to provide service to or from an airport in the contiguous United States will comply with the Stage 3 noise levels.
+(a) A U.S. air carrier or a foreign air carrier may apply for a waiver from the prohibition contained in § 91.853 of this part for its remaining Stage 2 airplanes, provided that, by July 1, 1999, at least 85 percent of the airplanes used by the carrier to provide service to or from an airport in the contiguous United States will comply with the Stage 3 noise levels.Federal Register,
 
 (b) An application for the waiver described in paragraph (a) of this section must be filed with the Secretary of Transportation no later than January 1, 1999, or, in the case of a foreign air carrier, no later than April 20, 2000. Such application must include a plan with firm orders for replacing or modifying all airplanes to comply with Stage 3 noise levels at the earliest practicable time.
 

@@ -1,6 +1,6 @@
 ##### § 91.1055 Pilot operating limitations and pairing requirement.
 
-(a) If the second in command of a fixed-wing program aircraft has fewer than 100 hours of flight time as second in command flying in the aircraft make and model and, if a type rating is required, in the type aircraft being flown, and the pilot in command is not an appropriately qualified check pilot, the pilot in command shall make all takeoffs and landings in any of the following situations:
+(a) If the second in command of a fixed-wing program aircraft has fewer than 100 hours of flight time as second in command flying in the aircraft make and model and, if a type rating is required, in the type aircraft being flown, and the pilot in command is not an appropriately qualified check pilot, the pilot in command shall make all takeoffs and landings in any of the following situations:3/4
 
 (1) Landings at the destination airport when a Destination Airport Analysis is required by § 91.1037(c); and
 

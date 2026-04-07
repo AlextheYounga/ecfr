@@ -1,6 +1,6 @@
 ##### § 91.321 Carriage of candidates in elections.
 
-(a) As an aircraft operator, you may receive payment for carrying a candidate, agent of a candidate, or person traveling on behalf of a candidate, running for Federal, State, or local election, without having to comply with the rules in parts 121, 125 or 135 of this chapter, under the following conditions:
+(a) As an aircraft operator, you may receive payment for carrying a candidate, agent of a candidate, or person traveling on behalf of a candidate, running for Federal, State, or local election, without having to comply with the rules in parts 121, 125 or 135 of this chapter, under the following conditions:*candidate*
 
 (1) Your primary business is not as an air carrier or commercial operator;
 

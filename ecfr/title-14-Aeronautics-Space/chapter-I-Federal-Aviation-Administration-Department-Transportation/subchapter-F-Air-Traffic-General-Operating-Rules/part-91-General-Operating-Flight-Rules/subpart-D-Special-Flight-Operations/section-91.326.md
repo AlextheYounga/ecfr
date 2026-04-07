@@ -1,6 +1,6 @@
 ##### § 91.326 Exception to operating certain aircraft for the purposes of flight training, flightcrew member checking, or flightcrew member testing.
 
-(a) *General.* Notwithstanding the prohibitions in §§ 91.315, 91.319(a), and 91.325, a person may conduct flight training, checking, or testing in a limited category aircraft, experimental aircraft, or primary category aircraft under the provisions of this section.
+(a) *General.* Notwithstanding the prohibitions in §§ 91.315, 91.319(a), and 91.325, a person may conduct flight training, checking, or testing in a limited category aircraft, experimental aircraft, or primary category aircraft under the provisions of this section.H
 
 (b) *Operations requiring a letter of deviation authority.* Except as provided in paragraphs (c) and (d) of this section, no person may conduct flight training, checking, or testing in a limited category or experimental aircraft without deviation authority issued under this paragraph (b).
 

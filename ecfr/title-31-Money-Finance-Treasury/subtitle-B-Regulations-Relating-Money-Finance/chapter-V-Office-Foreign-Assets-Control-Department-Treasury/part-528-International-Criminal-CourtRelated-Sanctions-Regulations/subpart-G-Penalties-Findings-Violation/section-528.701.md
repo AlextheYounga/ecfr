@@ -1,0 +1,3 @@
+##### § 528.701 Penalties.
+
+Section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705.) (IEEPA) provides for the imposition of civil and criminal penalties applicable to violations of the provisions of this part. With respect to civil penalties, these are adjusted annually pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note, Pub. L. 101-410, as amended). With respect to criminal penalties, a person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets the commission of a violation of a provision of this party may be subject to the criminal penalties provided in section 206(c) of IEEPA, as adjusted pursuant to 18 U.S.C. 3571.

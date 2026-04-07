@@ -1,6 +1,6 @@
 ##### § 91.1035 Passenger awareness.
 
-(a) Prior to each takeoff, the pilot in command of an aircraft carrying passengers on a program flight must ensure that all passengers have been orally briefed on—
+(a) Prior to each takeoff, the pilot in command of an aircraft carrying passengers on a program flight must ensure that all passengers have been orally briefed on—*Smoking:*
 
 (1) *Smoking:* Each passenger must be briefed on when, where, and under what conditions smoking is prohibited. This briefing must include a statement, as appropriate, that the regulations require passenger compliance with lighted passenger information signs and no smoking placards, prohibit smoking in lavatories, and require compliance with crewmember instructions with regard to these items;
 

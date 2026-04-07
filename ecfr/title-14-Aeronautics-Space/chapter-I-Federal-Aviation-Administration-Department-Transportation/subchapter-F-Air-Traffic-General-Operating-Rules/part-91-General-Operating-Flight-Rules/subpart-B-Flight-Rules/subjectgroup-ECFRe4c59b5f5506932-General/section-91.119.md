@@ -1,6 +1,6 @@
 ##### § 91.119 Minimum safe altitudes: General.
 
-Except when necessary for takeoff or landing, no person may operate an aircraft below the following altitudes:
+Except when necessary for takeoff or landing, no person may operate an aircraft below the following altitudes:*Anywhere.*
 
 (a) *Anywhere.* An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface.
 

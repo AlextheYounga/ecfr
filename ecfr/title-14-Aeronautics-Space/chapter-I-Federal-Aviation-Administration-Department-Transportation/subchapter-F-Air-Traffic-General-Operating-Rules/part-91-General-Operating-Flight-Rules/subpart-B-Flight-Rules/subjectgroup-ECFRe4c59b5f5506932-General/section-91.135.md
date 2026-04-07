@@ -1,6 +1,6 @@
 ##### § 91.135 Operations in Class A airspace.
 
-Except as provided in paragraph (d) of this section, each person operating an aircraft in Class A airspace must conduct that operation under instrument flight rules (IFR) and in compliance with the following:
+Except as provided in paragraph (d) of this section, each person operating an aircraft in Class A airspace must conduct that operation under instrument flight rules (IFR) and in compliance with the following:*Clearance.*
 
 (a) *Clearance.* Operations may be conducted only under an ATC clearance received prior to entering the airspace.
 

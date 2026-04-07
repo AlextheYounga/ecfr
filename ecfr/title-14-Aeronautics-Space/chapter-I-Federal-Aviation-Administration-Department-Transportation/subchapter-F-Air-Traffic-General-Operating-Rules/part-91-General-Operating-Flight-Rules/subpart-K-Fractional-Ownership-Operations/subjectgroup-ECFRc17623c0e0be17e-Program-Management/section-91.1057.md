@@ -1,6 +1,6 @@
 ##### § 91.1057 Flight, duty and rest time requirements: All crewmembers.
 
-(a) For purposes of this subpart—
+(a) For purposes of this subpart—*Augmented flight crew*
 
 *Augmented flight crew* means at least three pilots.
 

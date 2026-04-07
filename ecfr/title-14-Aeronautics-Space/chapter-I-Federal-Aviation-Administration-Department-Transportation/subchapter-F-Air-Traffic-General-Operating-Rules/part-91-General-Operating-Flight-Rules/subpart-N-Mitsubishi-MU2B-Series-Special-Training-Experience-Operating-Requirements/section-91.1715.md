@@ -1,6 +1,6 @@
 ##### § 91.1715 Currency requirements and flight review.
 
-(a) The takeoff and landing currency requirements of § 61.57 of this chapter must be maintained in the Mitsubishi MU-2B series airplane. Takeoff and landings in other multiengine airplanes do not meet the takeoff and landing currency requirements for the Mitsubishi MU-2B series plane. Takeoff and landings in either the short-body or long-body Mitsubishi MU-2B model airplane may be credited toward takeoff and landing currency for both Mitsubishi MU-2B model groups.
+(a) The takeoff and landing currency requirements of § 61.57 of this chapter must be maintained in the Mitsubishi MU-2B series airplane. Takeoff and landings in other multiengine airplanes do not meet the takeoff and landing currency requirements for the Mitsubishi MU-2B series plane. Takeoff and landings in either the short-body or long-body Mitsubishi MU-2B model airplane may be credited toward takeoff and landing currency for both Mitsubishi MU-2B model groups.*Special Emphasis Items,*
 
 (b) Instrument experience obtained in other category and class of aircraft may be used to satisfy the instrument currency requirements of § 61.57 of this chapter for the Mitsubishi MU-2B series airplane.
 

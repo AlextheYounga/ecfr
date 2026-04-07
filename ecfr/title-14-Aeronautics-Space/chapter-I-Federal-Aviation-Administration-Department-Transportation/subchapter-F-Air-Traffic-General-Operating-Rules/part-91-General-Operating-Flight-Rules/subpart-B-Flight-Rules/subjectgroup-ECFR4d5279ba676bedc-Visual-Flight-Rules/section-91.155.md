@@ -1,10 +1,10 @@
 ##### § 91.155 Basic VFR weather minimums.
 
-(a) Except as provided in paragraph (b) of this section and § 91.157, no person may operate an aircraft under VFR when the flight visibility is less, or at a distance from clouds that is less, than that prescribed for the corresponding altitude and class of airspace in the following table:
+(a) Except as provided in paragraph (b) of this section and § 91.157, no person may operate an aircraft under VFR when the flight visibility is less, or at a distance from clouds that is less, than that prescribed for the corresponding altitude and class of airspace in the following table:*Class G Airspace.*1/2
 
 | Airspace                                                               | Flight visibility | Distance from clouds       |
 | ---------------------------------------------------------------------- | ----------------- | -------------------------- |
-| Class A                                                                | Not Applicable    | Not Applicable.            |
+| Class A12                                                              | Not Applicable    | Not Applicable.            |
 | Class B                                                                | 3 statute miles   | Clear of Clouds.           |
 | Class C                                                                | 3 statute miles   | 500 feet below.            |
 |                                                                        |                   | 1,000 feet above.          |

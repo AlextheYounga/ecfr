@@ -1,6 +1,6 @@
 ##### § 91.145 Management of aircraft operations in the vicinity of aerial demonstrations and major sporting events.
 
-(a) The FAA will issue a Notice to Airmen (NOTAM) designating an area of airspace in which a temporary flight restriction applies when it determines that a temporary flight restriction is necessary to protect persons or property on the surface or in the air, to maintain air safety and efficiency, or to prevent the unsafe congestion of aircraft in the vicinity of an aerial demonstration or major sporting event. These demonstrations and events may include:
+(a) The FAA will issue a Notice to Airmen (NOTAM) designating an area of airspace in which a temporary flight restriction applies when it determines that a temporary flight restriction is necessary to protect persons or property on the surface or in the air, to maintain air safety and efficiency, or to prevent the unsafe congestion of aircraft in the vicinity of an aerial demonstration or major sporting event. These demonstrations and events may include:*Flight restricted airspace area for an aerial demonstration—*
 
 (1) United States Naval Flight Demonstration Team (Blue Angels);
 

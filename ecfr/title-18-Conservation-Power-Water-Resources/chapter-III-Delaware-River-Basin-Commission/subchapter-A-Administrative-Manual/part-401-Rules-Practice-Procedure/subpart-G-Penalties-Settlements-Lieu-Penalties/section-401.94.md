@@ -1,6 +1,6 @@
 ##### § 401.94 Adjudicatory hearings.
 
-(a) An adjudicatory hearing, which may be in lieu of or in addition to proceedings pursuant to § 401.93 at which testimony may be presented and documents received shall not be scheduled unless:
+(a) An adjudicatory hearing, which may be in lieu of or in addition to proceedings pursuant to § 401.93 at which testimony may be presented and documents received shall not be scheduled unless:*et seq.*
 
 (1) The Executive Director determines that a hearing is required to have an adequate record for the Commission; or
 

@@ -1,6 +1,6 @@
 ##### § 401.121 Definitions.
 
-For the purposes of this part, except as the context may otherwise require:
+For the purposes of this part, except as the context may otherwise require:*Application*
 
 (a) All words and phrases which are defined by section 1.2 of the Compact shall have the same meaning herein.
 

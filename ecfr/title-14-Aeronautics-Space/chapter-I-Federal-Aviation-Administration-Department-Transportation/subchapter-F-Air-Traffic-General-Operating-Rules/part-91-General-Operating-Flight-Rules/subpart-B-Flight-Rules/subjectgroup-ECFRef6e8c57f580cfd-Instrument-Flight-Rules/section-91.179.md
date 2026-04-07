@@ -1,6 +1,6 @@
 ##### § 91.179 IFR cruising altitude or flight level.
 
-Unless otherwise authorized by ATC, the following rules apply—
+Unless otherwise authorized by ATC, the following rules apply—*In controlled airspace.*
 
 (a) *In controlled airspace.* Each person operating an aircraft under IFR in level cruising flight in controlled airspace shall maintain the altitude or flight level assigned that aircraft by ATC. However, if the ATC clearance assigns “VFR conditions on-top,” that person shall maintain an altitude or flight level as prescribed by § 91.159.
 

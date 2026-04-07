@@ -1,6 +1,6 @@
 ##### § 91.817 Civil aircraft sonic boom.
 
-(a) No person may operate a civil aircraft in the United States at a true flight Mach number greater than 1 except in compliance with conditions and limitations in an authorization to exceed Mach 1 issued to the operator in accordance with § 91.818.
+(a) No person may operate a civil aircraft in the United States at a true flight Mach number greater than 1 except in compliance with conditions and limitations in an authorization to exceed Mach 1 issued to the operator in accordance with § 91.818.M0
 
 (b) In addition, no person may operate a civil aircraft for which the maximum operating limit speed MM0 exceeds a Mach number of 1, to or from an airport in the United States, unless—
 

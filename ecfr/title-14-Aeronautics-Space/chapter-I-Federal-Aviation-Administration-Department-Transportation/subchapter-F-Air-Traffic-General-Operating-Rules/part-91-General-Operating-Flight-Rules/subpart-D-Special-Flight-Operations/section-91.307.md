@@ -1,6 +1,6 @@
 ##### § 91.307 Parachutes and parachuting.
 
-(a) No pilot of a civil aircraft may allow a parachute that is available for emergency use to be carried in that aircraft unless it is an approved type and has been packed by a certificated and appropriately rated parachute rigger—
+(a) No pilot of a civil aircraft may allow a parachute that is available for emergency use to be carried in that aircraft unless it is an approved type and has been packed by a certificated and appropriately rated parachute rigger—*approved parachute*
 
 (1) Within the preceding 180 days, if its canopy, shrouds, and harness are composed exclusively of nylon, rayon, or other similar synthetic fiber or materials that are substantially resistant to damage from mold, mildew, or other fungi and other rotting agents propagated in a moist environment; or
 

@@ -1,6 +1,6 @@
 ##### § 91.1415 CAMP: Mechanical reliability reports.
 
-(a) Each program manager who maintains program aircraft under a CAMP must report the occurrence or detection of each failure, malfunction, or defect in an aircraft concerning—
+(a) Each program manager who maintains program aircraft under a CAMP must report the occurrence or detection of each failure, malfunction, or defect in an aircraft concerning—*during flight*
 
 (1) Fires during flight and whether the related fire-warning system functioned properly;
 

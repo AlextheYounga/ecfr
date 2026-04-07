@@ -1,6 +1,6 @@
 ##### § 91.818 Special flight authorization to exceed Mach 1.
 
-For all civil aircraft, any operation that exceeds Mach 1 may be conducted only in accordance with a special flight authorization issued to an operator in accordance with the requirements of this section.
+For all civil aircraft, any operation that exceeds Mach 1 may be conducted only in accordance with a special flight authorization issued to an operator in accordance with the requirements of this section.*Application.*
 
 (a) *Application.* Application for a special flight authorization to exceed Mach 1 must be made to the FAA Office of Environment and Energy for consideration by the Administrator. Each application must include:
 

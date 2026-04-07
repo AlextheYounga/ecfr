@@ -1,6 +1,6 @@
 ##### § 91.323 Increased maximum certificated weights for certain airplanes operated in Alaska.
 
-(a) Notwithstanding any other provision of the Federal Aviation Regulations, the Administrator will approve, as provided in this section, an increase in the maximum certificated weight of an airplane type certificated under Aeronautics Bulletin No. 7-A of the U.S. Department of Commerce dated January 1, 1931, as amended, or under the normal category of part 4a of the former Civil Air Regulations (14 CFR part 4a, 1964 ed.) if that airplane is operated in the State of Alaska by—
+(a) Notwithstanding any other provision of the Federal Aviation Regulations, the Administrator will approve, as provided in this section, an increase in the maximum certificated weight of an airplane type certificated under Aeronautics Bulletin No. 7-A of the U.S. Department of Commerce dated January 1, 1931, as amended, or under the normal category of part 4a of the former Civil Air Regulations (14 CFR part 4a, 1964 ed.) if that airplane is operated in the State of Alaska by—*n, where n*
 
 (1) A certificate holder conducting operations under part 121 or part 135 of this chapter; or
 

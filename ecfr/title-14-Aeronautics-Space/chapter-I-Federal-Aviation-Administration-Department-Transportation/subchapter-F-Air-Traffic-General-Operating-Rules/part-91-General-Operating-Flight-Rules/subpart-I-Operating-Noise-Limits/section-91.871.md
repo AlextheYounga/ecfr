@@ -1,6 +1,6 @@
 ##### § 91.871 Waivers from interim compliance requirements.
 
-(a) Any U.S. operator or foreign air carrier subject to the requirements of § 91.865 or 91.867 of this subpart may request a waiver from any individual compliance requirement.
+(a) Any U.S. operator or foreign air carrier subject to the requirements of § 91.865 or 91.867 of this subpart may request a waiver from any individual compliance requirement.Federal Register,
 
 (b) Applications must be filed with the Secretary of Transportation at least 120 days prior to the compliance date from which the waiver is requested.
 

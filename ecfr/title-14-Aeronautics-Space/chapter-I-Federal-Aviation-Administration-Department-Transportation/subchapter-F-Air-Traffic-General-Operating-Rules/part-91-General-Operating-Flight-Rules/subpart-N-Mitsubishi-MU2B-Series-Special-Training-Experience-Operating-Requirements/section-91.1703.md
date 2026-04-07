@@ -1,6 +1,6 @@
 ##### § 91.1703 Compliance and eligibility.
 
-(a) Except as provided in paragraph (b) of this section, no person may manipulate the controls, act as PIC, act as second-in-command, or provide pilot training for a Mitsubishi MU-2B series airplane unless that person meets the requirements of this subpart.
+(a) Except as provided in paragraph (b) of this section, no person may manipulate the controls, act as PIC, act as second-in-command, or provide pilot training for a Mitsubishi MU-2B series airplane unless that person meets the requirements of this subpart.*Initial/transition training*
 
 (b) A person who does not meet the requirements of this subpart may manipulate the controls of a Mitsubishi MU-2B series airplane if a pilot in command who meets the requirements of this subpart is occupying a pilot station, no passengers or cargo are carried on board the airplane, and the flight is being conducted for one of the following reasons—
 

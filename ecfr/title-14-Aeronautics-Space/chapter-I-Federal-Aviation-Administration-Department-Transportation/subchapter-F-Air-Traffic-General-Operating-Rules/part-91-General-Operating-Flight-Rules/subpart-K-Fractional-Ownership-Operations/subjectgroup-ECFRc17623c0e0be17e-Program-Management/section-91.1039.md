@@ -1,6 +1,6 @@
 ##### § 91.1039 IFR takeoff, approach and landing minimums.
 
-(a) No pilot on a program aircraft operating a program flight may begin an instrument approach procedure to an airport unless—
+(a) No pilot on a program aircraft operating a program flight may begin an instrument approach procedure to an airport unless—1/2
 
 (1) Either that airport or the alternate airport has a weather reporting facility operated by the U.S. National Weather Service, a source approved by the U.S. National Weather Service, or a source approved by the Administrator; and
 
