@@ -16,4 +16,4 @@
 
 (b) \[Reserved\]
 
-\[CGD09-01-001, 66 FR 13434, Mar. 6, 2001, as amended by USCG-2015-0132, 80 FR 24816, May 1, 2015\] Link to an amendment published at 90 FR 21697, May 21, 2025.
+\[CGD09-01-001, 66 FR 13434, Mar. 6, 2001, as amended by USCG-2015-0132, 80 FR 24816, May 1, 2015\] Link to an amendment published at 90 FR 21697, May 21, 2025.Effective Date Note:At 90 FR 21697, May 21, 2025, § 117.1089 was amended by staying paragraph (a), effective May 22, 2025, until Nov. 30, 2025
