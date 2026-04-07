@@ -28,7 +28,7 @@
 
 (5) In recognition of efforts made to adopt safeguard measures for exports and reexports, Kazakhstan and Mongolia are accorded enhanced favorable consideration licensing treatment.
 
-(6) The general policy for Laos is to approve license applications when BIS determines, on a case-by-case basis, that the items are for an authorized use in Laos and are not likely to be diverted to another country or use contrary to the national security or foreign policy controls of the Unied States.
+(6) The general policy for Laos is to approve license applications when BIS determines, on a case-by-case basis, that the items are for an authorized use in Laos and are not likely to be diverted to another country or use contrary to the national security or foreign policy controls of the United States.
 
 (7)(i) For Burma, Cambodia, the People's Republic of China (China), and Venezuela, all applications will be reviewed to determine the risk of diversion to a military end user or military end use. There is a general policy of approval for license applications to export, reexport, or transfer items determined to be for civil end users for civil end uses. There is a presumption of denial for license applications to export reexport, or transfer items that would make a material contribution to the “development,” “production,” maintenance, repair, or operation of weapons systems, subsystems, and assemblies, such as, but not limited to, those described in supplement no. 7 to this part, of Burma, Cambodia, China, or Venezuela.
 
