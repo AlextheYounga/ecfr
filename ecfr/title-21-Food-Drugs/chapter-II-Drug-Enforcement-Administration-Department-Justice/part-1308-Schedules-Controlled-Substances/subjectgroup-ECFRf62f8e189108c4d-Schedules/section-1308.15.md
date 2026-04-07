@@ -34,19 +34,23 @@
 
 2710 
 
-(2) Ezogabine \[N-\[2-amino-4-(4-fluorobenzylamino)-phenyl\]-carbamic acid ethyl ester\]
+(2) Cenobamate (\[(1R)-1-(2-chlorophenyl)-2-(tetrazol-2-yl)ethyl\] carbamate; 2H-tetrazole-2-ethanol, alpha-(2-chlorophenyl)-, carbamate (ester), (alphaR)-; carbamic acid (R)-(+)-1-(2-chlorophenyl)-2-(2H-tetrazol-2-yl)ethyl ester)
+
+2720 
+
+(3) Ezogabine \[N-\[2-amino-4-(4-fluorobenzylamino)-phenyl\]-carbamic acid ethyl ester\]
 
 2779 
 
-(3) Lacosamide \[(R)-2-acetoamido-N-benzyl-3-methoxy-propionamide\]
+(4) Lacosamide \[(R)-2-acetoamido-N-benzyl-3-methoxy-propionamide\]
 
 2746 
 
-(4) Lasmiditan \[2,4,6-trifluoro-N-(6-(1-methylpiperidine-4-carbonyl)pyridine-2-yl-benzamide\]
+(5) Lasmiditan \[2,4,6-trifluoro-N-(6-(1-methylpiperidine-4-carbonyl)pyridine-2-yl-benzamide\]
 
 2790 
 
-(5) Pregabalin \[(S)-3-(aminomethyl)-5-methylhexanoic acid\]
+(6) Pregabalin \[(S)-3-(aminomethyl)-5-methylhexanoic acid\]
 
 2782 
 
@@ -56,4 +60,4 @@
 
 (2) \[Reserved\]
 
-\[39 FR 22143, June 20, 1974, as amended at 43 FR 38383, Aug. 28, 1978; 44 FR 40888, July 13, 1979; 47 FR 49841, Nov. 3, 1982; 50 FR 8108, Feb. 28, 1985; 52 FR 5952, Feb. 27, 1987; 53 FR 10870, Apr. 4, 1988; 56 FR 61372, Dec. 3, 1991; 67 FR 62370, Oct. 7, 2002; 70 FR 43635, July 28, 2005; 74 FR 23790, May 21, 2009; 76 FR 77899, Dec. 15, 2011; 81 FR 29491, May 12, 2016; 83 FR 48953, Sept 28, 2018; 85 FR 5562, Jan. 31, 2020\]
+\[39 FR 22143, June 20, 1974, as amended at 43 FR 38383, Aug. 28, 1978; 44 FR 40888, July 13, 1979; 47 FR 49841, Nov. 3, 1982; 50 FR 8108, Feb. 28, 1985; 52 FR 5952, Feb. 27, 1987; 53 FR 10870, Apr. 4, 1988; 56 FR 61372, Dec. 3, 1991; 67 FR 62370, Oct. 7, 2002; 70 FR 43635, July 28, 2005; 74 FR 23790, May 21, 2009; 76 FR 77899, Dec. 15, 2011; 81 FR 29491, May 12, 2016; 83 FR 48953, Sept 28, 2018; 85 FR 5562, Jan. 31, 2020; 85 FR 13746, Mar. 10, 2020\]
