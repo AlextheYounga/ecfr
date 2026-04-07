@@ -1,53 +1,53 @@
 ##### § 202.13 Secure tests.
 
-(a) *General.* This section prescribes rules pertaining to the registration of secure tests or a group of test items prepared for use in a secure test. 
+(a) *General.* This section prescribes rules pertaining to the registration of secure tests or a group of test items prepared for use in a secure test.
 
-(b) *Definitions.* For purposes of this section— 
+(b) *Definitions.* For purposes of this section—
 
-(1) A *secure test* is a nonmarketed test administered under supervision at specified centers on scheduled dates, all copies of which are accounted for and either destroyed or returned to restricted locked storage or secure electronic storage following each administration. A test otherwise meeting the requirements of this paragraph shall be considered a secure test if it was normally administered at specified centers prior to May 8, 2020, but is now being administered online, provided the test administrator employs measures to maintain the security and integrity of the test that it reasonably determines to be substantially equivalent to the security and integrity provided by in-person proctors. 
+(1) A *secure test* is a nonmarketed test administered under supervision at specified centers on scheduled dates, all copies of which are accounted for and either destroyed or returned to restricted locked storage or secure electronic storage following each administration. A test otherwise meeting the requirements of this paragraph shall be considered a secure test if it was normally administered at specified centers prior to May 8, 2020, but is now being administered online, provided the test administrator employs measures to maintain the security and integrity of the test that it reasonably determines to be substantially equivalent to the security and integrity provided by in-person proctors.
 
-(2) A test is *nonmarketed* if copies of the test are not sold, but instead are distributed and used in such a manner that the test sponsor or publisher retains ownership and control of the copies. 
+(2) A test is *nonmarketed* if copies of the test are not sold, but instead are distributed and used in such a manner that the test sponsor or publisher retains ownership and control of the copies.
 
-(3) A test is administered *under supervision* if test proctors or the equivalent supervise the administration of the test. 
+(3) A test is administered *under supervision* if test proctors or the equivalent supervise the administration of the test.
 
-(4) A *specified center* is a place where test takers are physically assembled at the same time. 
+(4) A *specified center* is a place where test takers are physically assembled at the same time.
 
-(5) A *test item* is comprised of a question (or “stem”), the correct answer to that question, any incorrect answer choices (or “distractors”), and any associated material, such as a narrative passage or diagram, and each item shall be considered one work. A single narrative, diagram, or other prefatory material, followed by multiple sets of related questions and correct or incorrect answers shall together be considered one item. 
+(5) A *test item* is comprised of a question (or “stem”), the correct answer to that question, any incorrect answer choices (or “distractors”), and any associated material, such as a narrative passage or diagram, and each item shall be considered one work. A single narrative, diagram, or other prefatory material, followed by multiple sets of related questions and correct or incorrect answers shall together be considered one item.
 
-(c) *Deposit requirements.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a secure test or a group of test items prepared for use in a secure test may be registered with identifying material, and the filing and examination fees required by § 201.3(c) and (d), if the following conditions are met: 
+(c) *Deposit requirements.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a secure test or a group of test items prepared for use in a secure test may be registered with identifying material, and the filing and examination fees required by § 201.3(c) and (d), if the following conditions are met:
 
-(1) The applicant must complete and submit a Standard Application. The application may be submitted by any of the parties listed in § 202.3(c)(1). 
+(1) The applicant must complete and submit a Standard Application. The application may be submitted by any of the parties listed in § 202.3(c)(1).
 
-(2) In case of a secure test, the applicant must submit a redacted copy of the entire test. In the case of a group of test items prepared for use in a secure test, the applicant must submit a redacted copy of each test item. In all cases the redacted copy must contain a sufficient amount of visible content to reasonably identify the work(s). In addition, the applicant must complete and submit the secure test questionnaire that is posted on the Copyright Office's website. The questionnaire and the redacted copy must be contained in separate electronic files, and each file must be uploaded to the electronic registration system in Portable Document Format (PDF). The Copyright Office will review these materials to determine if the work(s) qualify for an examination under secure conditions. If they appear to be eligible, the Copyright Office will contact the applicant to schedule an appointment to examine an unredacted copy of the work(s). The examination may be conducted in-person or through remote access as directed by the instructions provided on the Office's website. 
+(2) In case of a secure test, the applicant must submit a redacted copy of the entire test. In the case of a group of test items prepared for use in a secure test, the applicant must submit a redacted copy of each test item. In all cases the redacted copy must contain a sufficient amount of visible content to reasonably identify the work(s). In addition, the applicant must complete and submit the secure test questionnaire that is posted on the Copyright Office's website. The questionnaire and the redacted copy must be contained in separate electronic files, and each file must be uploaded to the electronic registration system in Portable Document Format (PDF). The Copyright Office will review these materials to determine if the work(s) qualify for an examination under secure conditions. If they appear to be eligible, the Copyright Office will contact the applicant to schedule an appointment to examine an unredacted copy of the work(s). The examination may be conducted in-person or through remote access as directed by the instructions provided on the Office's website.
 
-(3) On the appointed date, the applicant must provide the following materials to the Copyright Office: 
+(3) On the appointed date, the applicant must provide the following materials to the Copyright Office:
 
-(i) A copy of the completed application. 
+(i) A copy of the completed application.
 
-(ii) The appropriate examination fee, as required by § 201.3(d) of this chapter. 
+(ii) The appropriate examination fee, as required by § 201.3(d) of this chapter.
 
-(iii) A copy of the redacted version of the work(s) that was uploaded to the electronic registration system. 
+(iii) A copy of the redacted version of the work(s) that was uploaded to the electronic registration system.
 
-(iv) A signed declaration confirming that the redacted copy specified in paragraph (c)(3)(iii) of this section is identical to the redacted copy that was uploaded to the electronic registration system. 
+(iv) A signed declaration confirming that the redacted copy specified in paragraph (c)(3)(iii) of this section is identical to the redacted copy that was uploaded to the electronic registration system.
 
-(v) In the case of a secure test, the applicant must provide an unredacted copy of the entire test. In the case of a group of test items prepared for use in a secure test, the applicant must provide an unredacted copy of all the test items. The applicant shall include the following information in the metadata of an unredacted electronic file: 
+(v) In the case of a secure test, the applicant must provide an unredacted copy of the entire test. In the case of a group of test items prepared for use in a secure test, the applicant must provide an unredacted copy of all the test items. The applicant shall include the following information in the metadata of an unredacted electronic file:
 
-(A) The date of the examination; and 
+(A) The date of the examination; and
 
-(B) The service request number generated by the electronic registration system. 
+(B) The service request number generated by the electronic registration system.
 
-(4) The Copyright Office will examine the copies specified in paragraphs (c)(3)(iii) and (v) of this section under secure conditions. The Office will retain the signed declaration and the redacted copy that was uploaded to the electronic registration system. If the examination is conducted in-person, the Office will stamp the date of the appointment on the copies and will return them to the applicant when the examination is complete. 
+(4) The Copyright Office will examine the copies specified in paragraphs (c)(3)(iii) and (v) of this section under secure conditions. The Office will retain the signed declaration and the redacted copy that was uploaded to the electronic registration system. If the examination is conducted in-person, the Office will stamp the date of the appointment on the copies and will return them to the applicant when the examination is complete.
 
-(d) *Group registration requirements.* The Copyright Office may register a group of test items if the following conditions have been met: 
+(d) *Group registration requirements.* The Copyright Office may register a group of test items if the following conditions have been met:
 
-(1) All the test items must be prepared for use in a secure test, and the name of the secure test must be identified in the title of the group. 
+(1) All the test items must be prepared for use in a secure test, and the name of the secure test must be identified in the title of the group.
 
-(2) The group may contain an unlimited amount of works, but the applicant must identify the individual works included within the group by numbering each test item in the deposit. 
+(2) The group may contain an unlimited amount of works, but the applicant must identify the individual works included within the group by numbering each test item in the deposit.
 
-(3) The applicant must provide a title for the group as a whole, and must append the term “GRSTQ” to the beginning of the title. 
+(3) The applicant must provide a title for the group as a whole, and must append the term “GRSTQ” to the beginning of the title.
 
-(4) The group must contain only unpublished works, or works published within the same three-calendar-month period and the application must identify the earliest date that the works were published. 
+(4) The group must contain only unpublished works, or works published within the same three-calendar-month period and the application must identify the earliest date that the works were published.
 
-(5) All the works in the group must have the same author or authors, and the copyright claimant for each work must be the same. Claims in the selection, coordination, or arrangement of the group as a whole will not be permitted on the application. Each item in the group must be separately copyrightable or must be excluded from the group. 
+(5) All the works in the group must have the same author or authors, and the copyright claimant for each work must be the same. Claims in the selection, coordination, or arrangement of the group as a whole will not be permitted on the application. Each item in the group must be separately copyrightable or must be excluded from the group.
 
 \[82 FR 26854, June 12, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 85 FR 27298, May 8, 2020; 86 FR 10177, Feb. 19, 2021; 88 FR 35743, June 1, 2023\]

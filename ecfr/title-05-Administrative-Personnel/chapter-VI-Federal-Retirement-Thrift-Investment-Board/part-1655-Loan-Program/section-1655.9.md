@@ -1,6 +1,6 @@
 ##### § 1655.9 Effect of loans on individual account.
 
-(a) The amount borrowed will be removed from the participant's account when the loan is disbursed. Consequently, these funds will no longer generate earnings.
+(a) The amount borrowed will be removed from the participant's account when the loan is disbursed. Consequently, these funds will no longer generate earnings.*pro rata*
 
 (b) The loan principal will be disbursed from that portion of the account represented by employee contributions and attributable earnings, *pro rata* from each TSP core fund in which the account is invested and *pro rata* from tax-deferred and tax-exempt balances.
 

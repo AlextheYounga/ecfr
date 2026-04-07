@@ -1,12 +1,14 @@
 ##### § 73.622 Digital television table of allotments.
 
-(a) *General.* The following table of TV allotments contains the television channel allotments designated for the listed communities in the United States, its Territories, and possessions. Requests for addition of new TV allotments, or requests to change the channels allotted to a community, must be made in a petition for rule making to amend the Table of TV Allotments. A request to amend the Table of TV Allotments to add an allotment or change the channel of an allotment in the Table will be evaluated for technical acceptability using engineering criteria set forth in §§ 73.617, 73.618, and 73.620. A request to amend the TV table to add a new allotment will be evaluated for technical acceptability using the geographic spacing criteria set forth in § 73.622(k) and the engineering criteria set forth in §§ 73.614, 73.617, 73.618, and 73.620(a) and (d). TV allotments designated with an asterisk are assigned for use by non-commercial educational broadcast stations only. Rules governing noncommercial educational TV stations are contained in § 73.621. 
+Link to an amendment published at 90 FR 59401, Dec. 19, 2025.
 
-(b)-(c) \[Reserved\] 
+(a) *General.* The following table of TV allotments contains the television channel allotments designated for the listed communities in the United States, its Territories, and possessions. Requests for addition of new TV allotments, or requests to change the channels allotted to a community, must be made in a petition for rule making to amend the Table of TV Allotments. A request to amend the Table of TV Allotments to add an allotment or change the channel of an allotment in the Table will be evaluated for technical acceptability using engineering criteria set forth in §§ 73.617, 73.618, and 73.620. A request to amend the TV table to add a new allotment will be evaluated for technical acceptability using the geographic spacing criteria set forth in § 73.622(k) and the engineering criteria set forth in §§ 73.614, 73.617, 73.618, and 73.620(a) and (d). TV allotments designated with an asterisk are assigned for use by non-commercial educational broadcast stations only. Rules governing noncommercial educational TV stations are contained in § 73.621.
 
-(d) *Reference points and distance computations.* The reference coordinates of a TV allotment shall be the coordinates of the authorized facility. Where such a transmitter site is not available for use as reference coordinates, such as a new allotment, the coordinates shall be those designated in the FCC order modifying the Table of TV Allotments. 
+(b)-(c) \[Reserved\]
 
-(e)-(i) \[Reserved\] 
+(d) *Reference points and distance computations.* The reference coordinates of a TV allotment shall be the coordinates of the authorized facility. Where such a transmitter site is not available for use as reference coordinates, such as a new allotment, the coordinates shall be those designated in the FCC order modifying the Table of TV Allotments.
+
+(e)-(i) \[Reserved\]
 
 (j) *Table of TV Allotments.*
 
@@ -325,7 +327,7 @@
 | Pittsburg                | 7, 13                                               |
 | Salina                   | 17                                                  |
 | Topeka                   | \*11, 12, 13, 16, 27                                |
-| Wichita                  | 10, 15, 26, 28                                      |
+| Wichita                  | 10, 12, 15, 26                                      |
 | **Kentucky**             |                                                     |
 | Ashland                  | 13, \*36                                            |
 | Beattyville              | 7                                                   |
@@ -334,7 +336,7 @@
 | Danville                 | 19                                                  |
 | Elizabethtown            | \*23                                                |
 | Harlan                   | S                                                   |
-| Hazard                   | 20, \*33                                            |
+| Hazard                   | 12, \*33                                            |
 | Lexington                | 21, 27, 28, \*35                                    |
 | Louisville               | 8, 11, 14, \*30, 32, \*34, 36                       |
 | Madisonville             | \*31                                                |
@@ -355,7 +357,7 @@
 | Lafayette                | 10, 16, \*23, 28                                    |
 | Lake Charles             | 7, 18, \*20                                         |
 | Minden                   | 32                                                  |
-| Monroe                   | \*13, 24                                            |
+| Monroe                   | 8, \*29                                             |
 | New Iberia               | 17                                                  |
 | New Orleans              | 15, 19, 21, \*23, 26, 27, \*28, 29, 33              |
 | Shreveport               | 16, \*17, 23, 28, 34                                |
@@ -506,8 +508,8 @@
 | **Nevada**               |                                                     |
 | Elko                     | 20                                                  |
 | Ely                      | 27                                                  |
-| Henderson                | 24                                                  |
-| Las Vegas                | 2, 7, \*11, 16, 22, 26, 29                          |
+| Henderson                | 9                                                   |
+| Las Vegas                | 7, \*11, 16, 22, 23, 26, 29                         |
 | Laughlin                 | 32                                                  |
 | Paradise                 | 20                                                  |
 | Reno                     | 8, 11, 12, \*15, 20, 23, 26                         |
@@ -550,7 +552,8 @@
 | Portales                 | \*32                                                |
 | Roswell                  | 8, 10, 21, 27                                       |
 | Santa Fe                 | \*8, 10, 27, 29                                     |
-| Silver City              | 10, 12                                              |
+| Silver City              | 10                                                  |
+| Truth or Consequences    | 12                                                  |
 | **New York**             |                                                     |
 | Albany                   | 8, 21, 24                                           |
 | Amsterdam                | 19                                                  |
@@ -663,12 +666,12 @@
 | Corvallis                | \*7                                                 |
 | Eugene                   | 9, 17, 28, \*29, 31                                 |
 | Grants Pass              | 30                                                  |
-| Jacksonville             | \*4                                                 |
+| Jacksonville             | \*24                                                |
 | Klamath Falls            | 13, 29, \*33                                        |
 | La Grande                | \*13, 16                                            |
 | Medford                  | 5, \*8, 12, 16, 26                                  |
 | Pendleton                | 11                                                  |
-| Portland                 | \*10, 21, 24, 25, 26, 32                            |
+| Portland                 | \*10, 12, 24, 25, 26, 32                            |
 | Roseburg                 | 18, 19, 36                                          |
 | Salem                    | 22, 33                                              |
 | **Pennsylvania**         |                                                     |
@@ -810,7 +813,7 @@
 | Cedar City               | 14                                                  |
 | Logan                    | 12                                                  |
 | Ogden                    | 24, 35, \*36                                        |
-| Price                    | 11                                                  |
+| Price                    | 15                                                  |
 | Provo                    | \*17, 29, 32                                        |
 | Richfield                | \*19                                                |
 | Salt Lake City           | 19, 20, 23, \*27, 28, 30, 34                        |
@@ -930,22 +933,22 @@
 | Charlotte Amalie         | 17, 21, \*36                                        |
 | Christiansted            | 20, 23                                              |
 
-(k) *Minimum geographic spacing requirements for new TV allotments.* No petition to add a new channel to the Table of TV Allotments will be accepted unless it shows compliance with the requirements of this paragraph. 
+(k) *Minimum geographic spacing requirements for new TV allotments.* No petition to add a new channel to the Table of TV Allotments will be accepted unless it shows compliance with the requirements of this paragraph.
 
-(1) Requests filed pursuant to this paragraph must demonstrate compliance with the principal community coverage requirements of § 73.618. 
+(1) Requests filed pursuant to this paragraph must demonstrate compliance with the principal community coverage requirements of § 73.618.
 
-(2) Requests filed pursuant to this paragraph must meet the following requirements for geographic spacing with regard to all other TV stations and allotments: 
+(2) Requests filed pursuant to this paragraph must meet the following requirements for geographic spacing with regard to all other TV stations and allotments:
 
-(i) For VHF channels 2-13 in Zone I, co-channel allotments must be separated by 244.6 km, and no adjacent-channel allotments are permitted between 20 km and 110 km. 
+(i) For VHF channels 2-13 in Zone I, co-channel allotments must be separated by 244.6 km, and no adjacent-channel allotments are permitted between 20 km and 110 km.
 
-(ii) For UHF channels 14-36 in Zone I, co-channel allotments must be separated by 196.3 km, and no adjacent-channel allotments are permitted between 24 km and 110 km. 
+(ii) For UHF channels 14-36 in Zone I, co-channel allotments must be separated by 196.3 km, and no adjacent-channel allotments are permitted between 24 km and 110 km.
 
-(iii) For VHF channels 2-13 in Zones II and III, co-channel allotments must be separated by 273.6 km, and no adjacent-channel allotments are permitted between 23 km and 110 km. 
+(iii) For VHF channels 2-13 in Zones II and III, co-channel allotments must be separated by 273.6 km, and no adjacent-channel allotments are permitted between 23 km and 110 km.
 
-(iv) For UHF channels 14-36 in Zones II and III, co-channel allotments must be separated by 223.7 km, and no adjacent-channel allotments are permitted between 24 km and 110 km. 
+(iv) For UHF channels 14-36 in Zones II and III, co-channel allotments must be separated by 223.7 km, and no adjacent-channel allotments are permitted between 24 km and 110 km.
 
-(3) Zones are defined in § 73.609. The minimum distance separation between a TV station in one zone and TV station in another zone shall be that of the zone requiring the lower separation. 
+(3) Zones are defined in § 73.609. The minimum distance separation between a TV station in one zone and TV station in another zone shall be that of the zone requiring the lower separation.
 
-(4) Due to the frequency spacing that exists between Channels 4 and 5, between Channels 6 and 7, and between Channels 13 and 14, the minimum geographic spacing requirements specified in paragraph (k)(2) of this section shall not be applicable to these pairs of channels (§ 73.603(a)). 
+(4) Due to the frequency spacing that exists between Channels 4 and 5, between Channels 6 and 7, and between Channels 13 and 14, the minimum geographic spacing requirements specified in paragraph (k)(2) of this section shall not be applicable to these pairs of channels (§ 73.603(a)).
 
 \[62 FR 26712, May 14, 1997\] Editorial Note:For Federal Register citations affecting § 73.622, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

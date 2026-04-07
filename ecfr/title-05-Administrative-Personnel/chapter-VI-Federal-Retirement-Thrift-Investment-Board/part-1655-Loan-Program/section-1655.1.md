@@ -1,6 +1,6 @@
 ##### § 1655.1 Definitions.
 
-(a) Definitions generally applicable to the Thrift Savings Plan are set forth at 5 CFR 1690.1.
+(a) Definitions generally applicable to the Thrift Savings Plan are set forth at 5 CFR 1690.1.*Amortization means*
 
 (b) As used in this part:
 
