@@ -1,7 +1,5 @@
 ##### § 3.173 Disclosures by certain advanced approaches national banks or Federal savings associations.
 
-Link to an amendment published at 84 FR 4238, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a)(1) An advanced approaches national bank or Federal savings association described in § 3.172(b) must make the disclosures described in Tables 1 through 12 to § 3.173.
 
 (2) An advanced approaches national bank or Federal savings association that is required to publicly disclose its supplementary leverage ratio pursuant to § 3.172(d) must make the disclosures required under Table 13 to § 3.173, unless the national bank or Federal savings association is a consolidated subsidiary of a bank holding company, savings and loan holding company, or depository institution that is subject to these disclosures requirements or a subsidiary of a non-U.S. banking organization that is subject to comparable public disclosure requirements in its home jurisdiction.
@@ -82,7 +80,13 @@ The amount of total capital, with separate disclosure of:
 
 (1) Tier 2 capital elements, including tier 2 capital instruments and total capital minority interest not included in tier 1 capital; and 
 
-(2) Regulatory adjustments and deductions made to total capital.
+(2) Regulatory adjustments and deductions made to total capital. 
+
+(e)
+
+(1) Whether the national bank or Federal savings association has elected to phase in recognition of the transitional amounts as defined in § 3.301. 
+
+(2) The national bank's or Federal savings association's common equity tier 1 capital, tier 1 capital, and total capital without including the transitional amounts. 
 
 Table 3 to § 3.173 - Capital Adequacy
 
@@ -128,13 +132,21 @@ Risk-weighted assets for operational risk.
 
 (e)
 
-Common equity tier 1, tier 1 and total risk-based capital ratios: 
+(1) Common equity tier 1, tier 1 and total risk-based capital ratios reflecting the transition provisions described in § 3.301: 
+
+(A) For the top consolidated group; and 
+
+(2) For each depository institution subsidiary. 
+
+(f)
+
+Common equity tier 1, tier 1 and total risk-based capital ratios reflecting the full adoption of CECL: 
 
 (1) For the top consolidated group; and 
 
 (2) For each depository institution subsidiary. 
 
-(f)
+(g)
 
 Total risk-weighted assets.
 
@@ -186,7 +198,7 @@ The general qualitative disclosure requirement with respect to credit risk (excl
 
 (4) Definition of and policy for identifying impaired loans (for financial accounting purposes). 
 
-(5) Description of the methodology that the entity uses to estimate its allowance for loan and lease losses, including statistical methods used where applicable; 
+(5) Description of the methodology that the entity uses to estimate its allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, including statistical methods used where applicable; 
 
 (6) Policy for charging-off uncollectible amounts; and 
 
@@ -234,7 +246,7 @@ Amount of impaired loans and, if available, the amount of past due loans categor
 
 (g)
 
-Reconciliation of changes in ALLL. 6
+Reconciliation of changes in ALLL or AACL, as applicable. 6
 
 (h)
 
@@ -628,4 +640,4 @@ Table 13 to § 3.173 - Supplementary Leverage Ratio
 | Supplementary leverage ratio                                                                                                                                                                                                                                                                                                                                                                                                                    |                             |
 | 22 Supplementary leverage ratio                                                                                                                                                                                                                                                                                                                                                                                                                 | (in percent)                |
 
-\[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57743, Sept. 26, 2014; 80 FR 41418, July 15, 2015\]
+\[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57743, Sept. 26, 2014; 80 FR 41418, July 15, 2015; 84 FR 4238, Feb. 14, 2019\]

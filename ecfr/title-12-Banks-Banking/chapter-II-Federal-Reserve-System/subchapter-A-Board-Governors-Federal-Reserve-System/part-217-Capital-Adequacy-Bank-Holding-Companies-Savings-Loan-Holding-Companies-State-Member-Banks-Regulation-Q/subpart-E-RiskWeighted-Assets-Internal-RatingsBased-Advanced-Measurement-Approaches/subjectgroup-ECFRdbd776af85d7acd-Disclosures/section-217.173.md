@@ -1,7 +1,5 @@
 ##### § 217.173 Disclosures by certain advanced approaches Board-regulated institutions.
 
-Link to an amendment published at 84 FR 4242, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 (a)(1) An advanced approaches Board-regulated institution described in § 217.172(b) must make the disclosures described in Tables 1 through 12 to § 217.173.
 
 (2) An advanced approaches Board-regulated institution that is required to publicly disclose its supplementary leverage ratio pursuant to § 217.172(d) must make the disclosures required under Table 13 to § 217.173, unless the Board-regulated institution is a consolidated subsidiary of a bank holding company, savings and loan holding company, or depository institution that is subject to these disclosures requirements or a subsidiary of a non-U.S. banking organization that is subject to comparable public disclosure requirements in its home jurisdiction.
@@ -82,7 +80,13 @@ The amount of total capital, with separate disclosure of:
 
 (1) Tier 2 capital elements, including tier 2 capital instruments and total capital minority interest not included in tier 1 capital; and 
 
-(2) Regulatory adjustments and deductions made to total capital.
+(2) Regulatory adjustments and deductions made to total capital. 
+
+(e)
+
+(1) Whether the Board-regulated institution has elected to phase in recognition of the transitional amounts as defined in § 217.300(f). 
+
+(2) The Board-regulated institution's common equity tier 1 capital, tier 1 capital, and total capital without including the transitional amounts as defined in § 217.300(f).
 
 Table 3 to § 217.173 - Capital Adequacy
 
@@ -128,13 +132,21 @@ Risk-weighted assets for operational risk.
 
 (e)
 
-Common equity tier 1, tier 1 and total risk-based capital ratios: 
+(1) Common equity tier 1, tier 1 and total risk-based capital ratios reflecting the transition provisions described in § 217.300(f): 
+
+(A) For the top consolidated group; and 
+
+(2) For each depository institution subsidiary. 
+
+(f)
+
+Common equity tier 1, tier 1 and total risk-based capital ratios reflecting the full adoption of CECL: 
 
 (1) For the top consolidated group; and 
 
 (2) For each depository institution subsidiary. 
 
-(f)
+(g)
 
 Total risk-weighted assets.
 
@@ -186,11 +198,11 @@ The general qualitative disclosure requirement with respect to credit risk (excl
 
 (4) Definition of and policy for identifying impaired loans (for financial accounting purposes). 
 
-(5) Description of the methodology that the entity uses to estimate its allowance for loan and lease losses, including statistical methods used where applicable; 
+(5) Description of the methodology that the entity uses to estimate its allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, including statistical methods used where applicable; 
 
 (6) Policy for charging-off uncollectible amounts; and 
 
-(7) Discussion of the Board-regulated institution's credit risk management policy 
+(7) Discussion of the Board-regulated institution's credit risk management policy. 
 
 Quantitative disclosures
 
@@ -224,7 +236,7 @@ By major industry or counterparty type:
 
 (4) Amount of loans past due 90 days and still accruing; 4
 
-(5) The balance in the allowance for loan and lease losses at the end of each period, disaggregated on the basis of the entity's impairment method. To disaggregate the information required on the basis of impairment methodology, an entity shall separately disclose the amounts based on the requirements in GAAP; and 
+(5) The balance in the allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, at the end of each period, disaggregated on the basis of the entity's impairment method. To disaggregate the information required on the basis of impairment methodology, an entity shall separately disclose the amounts based on the requirements in GAAP; and 
 
 (6) Charge-offs during the period. 
 
@@ -234,7 +246,7 @@ Amount of impaired loans and, if available, the amount of past due loans categor
 
 (g)
 
-Reconciliation of changes in ALLL. 6
+Reconciliation of changes in ALLL or AACL, as applicable. 6
 
 (h)
 
@@ -628,4 +640,4 @@ Table 13 to § 217.173 - Supplementary Leverage Ratio
 | Supplementary leverage ratio                                                                                                                                                                                                                                                                                                                                                                                                                    |                             |
 | 22 Supplementary leverage ratio                                                                                                                                                                                                                                                                                                                                                                                                                 | (in percent)                |
 
-\[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 57746, Sept. 26, 2014; 80 FR 41421, July 15, 2015\]
+\[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 57746, Sept. 26, 2014; 80 FR 41421, July 15, 2015; 84 FR 4242, Feb. 14, 2019\]

@@ -1,7 +1,5 @@
 ##### § 324.63 Disclosures by FDIC-supervised institutions described in § 324.61.
 
-Link to an amendment published at 84 FR 4247, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 (a) Except as provided in § 324.62, an FDIC-supervised institution described in § 324.61 must make the disclosures described in Tables 1 through 10 of this section. The FDIC-supervised institution must make these disclosures publicly available for each of the last three years (that is, twelve quarters) or such shorter period beginning on January 1, 2015.
 
 (b) An FDIC-supervised institution must publicly disclose each quarter the following:
@@ -149,7 +147,7 @@ The general qualitative disclosure requirement with respect to credit risk (excl
 (2) Policy for placing loans on nonaccrual;  
 (3) Policy for returning loans to accrual status;  
 (4) Definition of and policy for identifying impaired loans (for financial accounting purposes);  
-(5) Description of the methodology that the FDIC-supervised institution uses to estimate its allowance for loan and lease losses, including statistical methods used where applicable;  
+(5) Description of the methodology that the FDIC-supervised institution uses to estimate its allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, including statistical methods used where applicable;  
 (6) Policy for charging-off uncollectible amounts; and  
 (7) Discussion of the FDIC-supervised institution's credit risk management policy. 
 
@@ -177,7 +175,7 @@ By major industry or counterparty type:
 (2) Amount of impaired loans for which there was no related allowance under GAAP;  
 (3) Amount of loans past due 90 days and on nonaccrual;  
 (4) Amount of loans past due 90 days and still accruing; 4  
-(5) The balance in the allowance for loan and lease losses at the end of each period, disaggregated on the basis of the FDIC-supervised institution's impairment method. To disaggregate the information required on the basis of impairment methodology, an entity shall separately disclose the amounts based on the requirements in GAAP; and  
+(5) The balance in the allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, at the end of each period, disaggregated on the basis of the FDIC-supervised institution's impairment method. To disaggregate the information required on the basis of impairment methodology, an entity shall separately disclose the amounts based on the requirements in GAAP; and  
 (6) Charge-offs during the period. 
 
 (f)
@@ -186,7 +184,7 @@ Amount of impaired loans and, if available, the amount of past due loans categor
 
 (g)
 
-Reconciliation of changes in ALLL. 6
+Reconciliation of changes in ALLL or AACL, as applicable. 6
 
 (h)
 
@@ -396,4 +394,4 @@ Quantitative disclosures
 
 The increase (decline) in earnings or economic value (or relevant measure used by management) for upward and downward rate shocks according to management's method for measuring interest rate risk for non-trading activities, categorized by currency (as appropriate).
 
-\[78 FR 55471, Sept. 10, 2013, as amended at 78 FR 62417, Oct. 22, 2013; 79 FR 20760, Apr. 14, 2014\]
+\[78 FR 55471, Sept. 10, 2013, as amended at 78 FR 62417, Oct. 22, 2013; 79 FR 20760, Apr. 14, 2014; 84 FR 4247, Feb. 14, 2019\]
