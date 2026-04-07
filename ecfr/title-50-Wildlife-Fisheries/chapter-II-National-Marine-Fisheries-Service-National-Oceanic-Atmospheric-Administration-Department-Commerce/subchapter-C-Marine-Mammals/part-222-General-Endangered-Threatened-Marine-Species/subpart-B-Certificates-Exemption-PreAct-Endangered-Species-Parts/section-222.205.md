@@ -12,4 +12,4 @@
 
 (4) Notwithstanding any provision of this subpart, it shall not be required that the Assistant Administrator authorizes the transportation in interstate or foreign commerce of pre-Act endangered species parts.
 
-Effective Date Note:At 64 FR 14054, Mar. 23, 1999, part 222 was revised, effective Mar. 23, 1999, with the exception of § 222.205, paragraphs (c)(1) and (2), which contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+Effective Date Note:At 64 FR 14054, Mar. 23, 1999, part 222 was revised. § 222.205(c)(1) and (2) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
