@@ -66,7 +66,7 @@ VALIDATION OF ASSERTED RESTRICTIONS ON TECHNICAL DATA (JAN 2025)
 
 (iv) Are the subject of a fraudulently asserted use or release restriction. 
 
-(2) Only the Contracting Officer's final decision resolving a formal challenge by sustaining the validity of a restrictive marking constitutes “validation” as addressed in 10 U.S.C. 3785(c).
+(2) Only the Contracting Officer's final decision resolving a formal challenge by sustaining the validity of a restrictive marking constitutes “validation” as addressed in 10 U.S.C. 3785(c). 
 
 (j) *Decision not to challenge.* A decision by the Government, or a determination by the Contracting Officer, to not challenge the restrictive marking or asserted restriction shall not constitute “validation.” 
 

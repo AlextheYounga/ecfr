@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 225.1101(2)(i) and (2)(ii), use the following clause: 
 
-Buy American and Balance of Payments Program—Basic (Feb 2024)
+Buy American and Balance of Payments Program—Basic (FEB 2024)
 
 (a) *Definitions.* As used in this clause— 
 
@@ -111,7 +111,7 @@ Buy American and Balance of Payments Program—Basic (Feb 2024)
 
 *Alternate I.* As prescribed in 225.1101(2)(i) and (2)(iii), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a), and uses different paragraphs (b) and (c) than the basic clause: 
 
-Buy American and Balance of Payments Program—Alternate I (Feb 2024)
+Buy American and Balance of Payments Program—Alternate I (FEB 2024)
 
 (a) *Definitions.* As used in this clause— 
 
@@ -226,7 +226,7 @@ Buy American and Balance of Payments Program—Alternate I (Feb 2024)
 
 *Alternate II.* As prescribed in 225.1101(2)(i) and (2)(iv), use the following clause, which includes, in the definitions of “domestic end product” at paragraph (1)(ii)(A) and “qualifying country end product” at paragraph (2)(i), the domestic content threshold that will apply to the entire contract period of performance. 
 
-Buy American and Balance of Payments Program—Alternate II (Feb 2024)
+Buy American and Balance of Payments Program—Alternate II (FEB 2024)
 
 (a) *Definitions.* As used in this clause— 
 
@@ -308,7 +308,7 @@ Australia Austria Belgium Canada Czech Republic Denmark Egypt Estonia Finland Fr
 
 *Alternate III.* As prescribed in 225.1101(2)(i) and (2)(v), use the following clause, which includes, in the definitions of “domestic end product” at paragraph (1)(ii)(A) and “qualifying country end product” at paragraph (2)(i), the domestic content threshold that will apply to the entire contract period of performance; adds “South Caucasus/Central and South Asian (SC/CASA) state” and “South Caucasus/Central and South Asian (SC/CASA) state end product” to paragraph (a); and uses different paragraphs (b) and (c) than the basic clause: 
 
-Buy American and Balance of Payments Program—Alternate III (Feb 2024)
+Buy American and Balance of Payments Program—Alternate III (FEB 2024)
 
 (a) *Definitions.* As used in this clause— 
 
