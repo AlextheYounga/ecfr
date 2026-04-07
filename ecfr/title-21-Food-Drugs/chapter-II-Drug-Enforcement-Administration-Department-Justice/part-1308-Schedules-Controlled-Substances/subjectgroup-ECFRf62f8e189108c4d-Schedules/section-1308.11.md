@@ -1,13 +1,9 @@
 ##### § 1308.11 Schedule I.
 
-Link to an amendment published at 89 FR 18795, Mar. 15, 2024.
-
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
 (b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical designation (for purposes of 3-methylthiofentanyl only, the term isomer includes the optical and geometric isomers):
 
-|                                                                                                                                                               |      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | (1) Acetyl-alpha-methylfentanyl (N-\[1-(1-methyl-2-phenethyl)-4-piperidinyl\]-N-phenylacetamide)                                                              | 9815 |
 | (2) Acetylmethadol                                                                                                                                            | 9601 |
 | (3) Acetyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide)                                                                                         | 9821 |
@@ -117,697 +113,205 @@ Link to an amendment published at 89 FR 18795, Mar. 15, 2024.
 
 (c) *Opium derivatives.* Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
-(1) Acetorphine
-
-9319 
-
-(2) Acetyldihydrocodeine
-
-9051 
-
-(3) Benzylmorphine
-
-9052 
-
-(4) Codeine methylbromide
-
-9070 
-
-(5) Codeine-N-Oxide
-
-9053 
-
-(6) Cyprenorphine
-
-9054 
-
-(7) Desomorphine
-
-9055 
-
-(8) Dihydromorphine
-
-9145 
-
-(9) Drotebanol
-
-9335 
-
-(10) Etorphine (except hydrochloride salt)
-
-9056 
-
-(11) Heroin
-
-9200 
-
-(12) Hydromorphinol
-
-9301 
-
-(13) Methyldesorphine
-
-9302 
-
-(14) Methyldihydromorphine
-
-9304 
-
-(15) Morphine methylbromide
-
-9305 
-
-(16) Morphine methylsulfonate
-
-9306 
-
-(17) Morphine-N-Oxide
-
-9307 
-
-(18) Myrophine
-
-9308 
-
-(19) Nicocodeine
-
-9309 
-
-(20) Nicomorphine
-
-9312 
-
-(21) Normorphine
-
-9313 
-
-(22) Pholcodine
-
-9314 
-
-(23) Thebacon
-
-9315
+| (1) Acetorphine                            | 9319 |
+| (2) Acetyldihydrocodeine                   | 9051 |
+| (3) Benzylmorphine                         | 9052 |
+| (4) Codeine methylbromide                  | 9070 |
+| (5) Codeine-N-Oxide                        | 9053 |
+| (6) Cyprenorphine                          | 9054 |
+| (7) Desomorphine                           | 9055 |
+| (8) Dihydromorphine                        | 9145 |
+| (9) Drotebanol                             | 9335 |
+| (10) Etorphine (except hydrochloride salt) | 9056 |
+| (11) Heroin                                | 9200 |
+| (12) Hydromorphinol                        | 9301 |
+| (13) Methyldesorphine                      | 9302 |
+| (14) Methyldihydromorphine                 | 9304 |
+| (15) Morphine methylbromide                | 9305 |
+| (16) Morphine methylsulfonate              | 9306 |
+| (17) Morphine-N-Oxide                      | 9307 |
+| (18) Myrophine                             | 9308 |
+| (19) Nicocodeine                           | 9309 |
+| (20) Nicomorphine                          | 9312 |
+| (21) Normorphine                           | 9313 |
+| (22) Pholcodine                            | 9314 |
+| (23) Thebacon                              | 9315 |
 
 (d) *Hallucinogenic substances.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation, which contains any quantity of the following hallucinogenic substances, or which contains any of its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation (for purposes of this paragraph only, the term “isomer” includes the optical, position and geometric isomers):
 
-(1) Alpha-ethyltryptamine
-
-7249 
-
-Some trade or other names: etryptamine; Monase; α-ethyl-1H-indole-3-ethanamine; 3-(2-aminobutyl) indole; α-ET; and AET. 
-
-(2) 4-bromo-2,5-dimethoxy-amphetamine
-
-7391 
-
-Some trade or other names: 4-bromo-2,5-dimethoxy-α-methylphenethylamine; 4-bromo-2,5-DMA 
-
-(3) 4-Bromo-2,5-dimethoxyphenethylamine
-
-7392 
-
-Some trade or other names: 2-(4-bromo-2,5-dimethoxyphenyl)-1-aminoethane; alpha-desmethyl DOB; 2C-B, Nexus. 
-
-(4) 2,5-dimethoxyamphetamine
-
-7396 
-
-Some trade or other names: 2,5-dimethoxy-α-methylphenethylamine; 2,5-DMA 
-
-(5) 2,5-dimethoxy-4-ethylamphet-amine
-
-7399 
-
-Some trade or other names: DOET 
-
-(6) 2,5-dimethoxy-4-(n)-propylthiophenethylamine (other name: 2C-T-7)
-
-7348 
-
-(7) 4-methoxyamphetamine
-
-7411 
-
-Some trade or other names: 4-methoxy-α-methylphenethylamine; paramethoxyamphetamine, PMA 
-
-(8) 5-methoxy-3,4-methylenedioxy-amphetamine
-
-7401 
-
-(9) 4-methyl-2,5-dimethoxy-amphetamine
-
-7395 
-
-Some trade and other names: 4-methyl-2,5-dimethoxy-α-methylphenethylamine; “DOM”; and “STP” 
-
-(10) 3,4-methylenedioxy amphetamine
-
-7400 
-
-(11) 3,4-methylenedioxymethamphetamine (MDMA)
-
-7405 
-
-(12) 3,4-methylenedioxy-N-ethylamphetamine (also known as N-ethyl-alpha-methyl-3,4(methylenedioxy)-phenethylamine, N-ethyl MDA, MDE, MDEA
-
-7404 
-
-(13) N-hydroxy-3,4-methylenedioxyamphetamine (also known as N-hydroxy-alpha-methyl-3,4(methylenedioxy)-phenethylamine, and N-hydroxy MDA
-
-7402 
-
-(14) 3,4,5-trimethoxy amphetamine
-
-7390 
-
-(15) 5-methoxy-N,N-dimethyltryptamine Some trade or other names: 5-methoxy-3-\[2-(dimethylamino)ethyl\]indole; 5-MeO-DMT
-
-7431 
-
-(16) Alpha-methyltryptamine (other name: AMT)
-
-7432 
-
-(17) Bufotenine
-
-7433 
-
-Some trade and other names: 3-(β-Dimethylaminoethyl)-5-hydroxyindole; 3-(2-dimethylaminoethyl)-5-indolol; N, N-dimethylserotonin; 5-hydroxy-N,N-dimethyltryptamine; mappine 
-
-(18) Diethyltryptamine
-
-7434 
-
-Some trade and other names: N,N-Diethyltryptamine; DET 
-
-(19) Dimethyltryptamine
-
-7435 
-
-Some trade or other names: DMT 
-
-(20) 5-methoxy-N,N-diisopropyltryptamine (other name: 5-MeO-DIPT)
-
-7439 
-
-(21) Ibogaine
-
-7260 
-
-Some trade and other names: 7-Ethyl-6,6β,7,8,9,10,12,13-octahydro-2-methoxy-6,9-methano-5H-pyrido \[1′, 2′:1,2\] azepino \[5,4-b\] indole; Tabernanthe iboga 
-
-(22) Lysergic acid diethylamide
-
-7315 
-
-(23) Marihuana
-
-7360 
-
-(24) Mescaline
-
-7381 
-
-(25) Parahexyl—7374; some trade or other names: 3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo\[b,d\]pyran; Synhexyl. 
-
-(26) Peyote
-
-7415 
-
-Meaning all parts of the plant presently classified botanically as Lophophora williamsii Lemaire, whether growing or not, the seeds thereof, any extract from any part of such plant, and every compound, manufacture, salts, derivative, mixture, or preparation of such plant, its seeds or extracts 
-
-(Interprets 21 USC 812(c), Schedule I(c) (12)) 
-
-(27) N-ethyl-3-piperidyl benzilate
-
-7482 
-
-(28) N-methyl-3-piperidyl benzilate
-
-7484 
-
-(29) Psilocybin
-
-7437 
-
-(30) Psilocyn
-
-7438 
-
-(31) Tetrahydrocannabinols
-
-7370 
-
-(i) Meaning tetrahydrocannabinols, except as in paragraph (d)(31)(ii) of this section, naturally contained in a plant of the genus Cannabis (cannabis plant), as well as synthetic equivalents of the substances contained in the cannabis plant, or in the resinous extractives of such plant, and/or synthetic substances, derivatives, and their isomers with similar chemical structure and pharmacological activity to those substances contained in the plant, such as the following: 
-
-1 cis or trans tetrahydrocannabinol, and their optical isomers 
-
-6 cis or trans tetrahydrocannabinol, and their optical isomers 
-
-3, 4 cis or trans tetrahydrocannabinol, and its optical isomers 
-
-(Since nomenclature of these substances is not internationally standardized, compounds of these structures, regardless of numerical designation of atomic positions covered.) 
-
-(ii) Tetrahydrocannabinols does not include any material, compound, mixture, or preparation that falls within the definition of hemp set forth in 7 U.S.C. 1639o. 
-
-(32) Ethylamine analog of phencyclidine
-
-7455 
-
-Some trade or other names: N-ethyl-1-phenylcyclohexylamine, (1-phenylcyclohexyl)ethylamine, N-(1-phenylcyclohexyl)ethylamine, cyclohexamine, PCE 
-
-(33) Pyrrolidine analog of phencyclidine
-
-7458 
-
-Some trade or other names: 1-(1-phenylcyclohexyl)-pyrrolidine, PCPy, PHP 
-
-(34) Thiophene analog of phencyclidine
-
-7470 
-
-Some trade or other names: 1-\[1-(2-thienyl)-cyclohexyl\]-piperidine, 2-thienylanalog of phencyclidine, TPCP, TCP 
-
-(35) 1-\[1-(2-thienyl)cyclohexyl\]pyrrolidine
-
-7473 
-
-Some other names: TCPy 
-
-(36) 4-methylmethcathinone (Mephedrone)
-
-1248 
-
-(37) 3,4-methylenedioxypyrovalerone (MDPV)
-
-7535 
-
-(38) 2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine (2C-E)
-
-7509 
-
-(39) 2-(2,5-Dimethoxy-4-methylphenyl)ethanamine (2C-D)
-
-7508 
-
-(40) 2-(4-Chloro-2,5-dimethoxyphenyl)ethanamine (2C-C)
-
-7519 
-
-(41) 2-(4-Iodo-2,5-dimethoxyphenyl)ethanamine (2C-I)
-
-7518 
-
-(42) 2-\[4-(Ethylthio)-2,5-dimethoxyphenyl\]ethanamine (2C-T-2)
-
-7385 
-
-(43) 2-\[4-(Isopropylthio)-2,5-dimethoxyphenyl\]ethanamine (2C-T-4)
-
-7532 
-
-(44) 2-(2,5-Dimethoxyphenyl)ethanamine (2C-H)
-
-7517 
-
-(45) 2-(2,5-Dimethoxy-4-nitro-phenyl)ethanamine (2C-N)
-
-7521 
-
-(46) 2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine (2C-P)
-
-7524 
-
-(47) 3,4-Methylenedioxy-N-methylcathinone (Methylone)
-
-7540 
-
-(48) (1-pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone (UR-144)
-
-(7144) 
-
-(49) \[1-(5-fluoro-pentyl)-1H-indol-3-yl\](2,2,3,3-tetramethylcyclopropyl)methanone (5-fluoro-UR-144, XLR11)
-
-(7011) 
-
-(50) N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide (APINACA, AKB48)
-
-(7048) 
-
-(51) quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate (PB-22; QUPIC)
-
-(7222) 
-
-(52) quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (5-fluoro-PB-22; 5F-PB-22)
-
-(7225) 
-
-(53) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (AB-FUBINACA)
-
-(7012) 
-
-(54) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (ADB-PINACA)
-
-(7035) 
-
-(55) 2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (25I-NBOMe, 2C-I-NBOMe)
-
-(7538) 
-
-(56) 2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (25C-NBOMe, 2C-C-NBOMe)
-
-(7537) 
-
-(57) 2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (25B-NBOMe, 2C-B-NBOMe)
-
-(7536) 
-
-(58) Marihuana Extract
-
-7350 
-
-Meaning an extract containing one or more cannabinoids that has been derived from any plant of the genus Cannabis, containing greater than 0.3% delta-9-tetrahydrocannabinol on a dry weight basis, other than the separated resin (whether crude or purified) obtained from the plant. 
-
-(59) 4-methyl-N-ethylcathinone (4-MEC)
-
-(1249) 
-
-(60) 4-methyl-alpha-pyrrolidinopropiophenone (4-MePPP)
-
-(7498) 
-
-(61) alpha-pyrrolidinopentiophenone (α-PVP)
-
-(7545) 
-
-(62) 1-(1,3-benzodioxol-5-yl)-2-(methylamino)butan-1-one (butylone, bk-MBDB)
-
-(7541) 
-
-(63) 2-(methylamino)-1-phenylpentan-1-one (pentedrone)
-
-(1246) 
-
-(64) 1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one (pentylone, bk-MBDP)
-
-(7542) 
-
-(65) 4-fluoro-N-methylcathinone (4-FMC; flephedrone)
-
-(1238) 
-
-(66) 3-fluoro-N-methylcathinone (3-FMC)
-
-(1233) 
-
-(67) 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one (naphyrone)
-
-(1258) 
-
-(68) alpha-pyrrolidinobutiophenone (α-PBP)
-
-(7546) 
-
-(69) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (AB-CHMINACA)
-
-(7031) 
-
-(70) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA)
-
-(7023) 
-
-(71) \[1-(5-fluoropentyl)-1H-indazol-3-yl\](naphthalen-1-yl)methanone (THJ-2201)
-
-(7024) 
-
-(72) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (MAB-CHMINACA; ADB-CHMINACA)
-
-(7032) 
-
-(73) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (Other names: 5F-ADB; 5F-MDMB-PINACA)
-
-7034 
-
-(74) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3-methylbutanoate (Other names: 5F-AMB)
-
-7033 
-
-(75) N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (Other names: 5F-APINACA, 5F-AKB48)
-
-7049 
-
-(76) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (Other names: ADB-FUBINACA)
-
-7010 
-
-(77) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate (Other names: MDMB-CHMICA, MMB-CHMINACA)
-
-7042 
-
-(78) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (Other names: MDMB-FUBINACA)
-
-7020 
-
-(79) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, (FUB-AMB, MMB-FUBINACA, AMB-FUBINACA)
-
-(7021) 
-
-(80) 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)propan-1-one (ethylone)
-
-7547 
-
-(81) Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (Other names: NM2201; CBL2201)
-
-7221 
-
-(82) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (Other name: 5F-AB-PINACA)
-
-7025 
-
-(83) 1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide (Other names: 4-CN-CUMYL-BUTINACA; 4-cyano-CUMYL-BUTINACA; 4-CN-CUMYL BINACA; CUMYL-4CN-BINACA; SGT-78)
-
-7089 
-
-(84) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3-methylbutanoate (Other names: MMB-CHMICA; AMB-CHMICA)
-
-7044 
-
-(85) 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo\[2,3-b\]pyridine-3-carboxamide (Other name: 5F-CUMYL-P7AICA)
-
-7085 
-
-(86) N-ethylpentylone (Other names: ephylone, 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)pentan-1-one)
-
-7543 
-
-(87) methyl 2-(1-(4-fluorobutyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (4F-MDMB-BINACA, 4F-MDMB-BUTINACA)
-
-7043 
-
-(88) 1-(4-methoxyphenyl)-N-methylpropan-2-amine (other names: para-methoxymethamphetamine, PMMA)
-
-(1245) 
-
-(89) ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (other name: 5F-EDMB-PINACA)
-
-7036 
-
-(90) methyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate (other names: 5F-MDMB-PICA; 5F-MDMB-2201)
-
-7041 
-
-(91) N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (other names: FUB-AKB48; FUB-APINACA; AKB48 N-(4-FLUOROBENZYL))
-
-7047 
-
-(92) 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide (other names: 5F-CUMYL-PINACA; SGT-25)
-
-7083 
-
-(93) (1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone (other name: FUB-144)
-
-7014 
-
-(94) N-Ethylhexedrone (Other names: α-ethylaminohexanophenone; 2-(ethylamino)-1-phenylhexan-1-one)
-
-7246 
-
-(95) alpha-Pyrrolidinohexanophenone (Other names: α-PHP; α-pyrrolidinohexanophenone; 1-phenyl-2-(pyrrolidin-1-yl)hexan-1-one)
-
-7544 
-
-(96) 4-Methyl-alpha-ethylaminopentiophenone (Other names: 4-MEAP; 2-(ethylamino)-1-(4-methylphenyl)pentan-1-one)
-
-7245 
-
-(97) 4′-Methyl-alpha-pyrrolidinohexiophenone (Other names: MPHP; 4′-methyl-alpha-pyrrolidinohexanophenone; 1-(4-methylphenyl)-2-(pyrrolidin-1-yl)hexan-1-one)
-
-7446 
-
-(98) alpha-Pyrrolidinoheptaphenone (Other names: PV8; 1-phenyl-2-(pyrrolidin-1-yl)heptan-1-one)
-
-7548 
-
-(99) 4′-Chloro-alpha-pyrrolidinovalerophenone (Other names: 4-chloro-α-PVP; 4′-chloro-α-pyrrolidinopentiophenone; 1-(4-chlorophenyl)-2-(pyrrolidin-1-yl)pentan-1-one)
-
-7443 
-
-(100) 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexan-1-one (methoxetamine, MXE)
-
-7286 
-
-(101) 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-1-one (other names: eutylone; bk-EBDB)
-
-7549 
-
-(102) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1H-indazole-3-carboxamide (other name: ADB-BUTINACA)
-
-7027 
-
-(103) 4-methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one (other names: α-PiHP; alpha-PiHP)
-
-7551 
-
-(104) 2-(methylamino)-1-(3-methylphenyl)propan-1-one (other names: 3-MMC; 3-methylmethcathinone)
-
-1259 
+| (1) Alpha-ethyltryptamine                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 7249   |
+| Some trade or other names: etryptamine; Monase; α-ethyl-1H-indole-3-ethanamine; 3-(2-aminobutyl) indole; α-ET; and AET.                                                                                                                                                                                                                                                                                                                                                                     |        |
+| (2) 4-bromo-2,5-dimethoxy-amphetamine                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 7391   |
+| Some trade or other names: 4-bromo-2,5-dimethoxy-α-methylphenethylamine; 4-bromo-2,5-DMA                                                                                                                                                                                                                                                                                                                                                                                                    |        |
+| (3) 4-Bromo-2,5-dimethoxyphenethylamine                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 7392   |
+| Some trade or other names: 2-(4-bromo-2,5-dimethoxyphenyl)-1-aminoethane; alpha-desmethyl DOB; 2C-B, Nexus.                                                                                                                                                                                                                                                                                                                                                                                 |        |
+| (4) 2,5-dimethoxyamphetamine                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 7396   |
+| Some trade or other names: 2,5-dimethoxy-α-methylphenethylamine; 2,5-DMA                                                                                                                                                                                                                                                                                                                                                                                                                    |        |
+| (5) 2,5-dimethoxy-4-ethylamphet-amine                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 7399   |
+| Some trade or other names: DOET                                                                                                                                                                                                                                                                                                                                                                                                                                                             |        |
+| (6) 2,5-dimethoxy-4-(n)-propylthiophenethylamine (other name: 2C-T-7)                                                                                                                                                                                                                                                                                                                                                                                                                       | 7348   |
+| (7) 4-methoxyamphetamine                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 7411   |
+| Some trade or other names: 4-methoxy-α-methylphenethylamine; paramethoxyamphetamine, PMA                                                                                                                                                                                                                                                                                                                                                                                                    |        |
+| (8) 5-methoxy-3,4-methylenedioxy-amphetamine                                                                                                                                                                                                                                                                                                                                                                                                                                                | 7401   |
+| (9) 4-methyl-2,5-dimethoxy-amphetamine                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 7395   |
+| Some trade and other names: 4-methyl-2,5-dimethoxy-α-methylphenethylamine; “DOM”; and “STP”                                                                                                                                                                                                                                                                                                                                                                                                 |        |
+| (10) 3,4-methylenedioxy amphetamine                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 7400   |
+| (11) 3,4-methylenedioxymethamphetamine (MDMA)                                                                                                                                                                                                                                                                                                                                                                                                                                               | 7405   |
+| (12) 3,4-methylenedioxy-N-ethylamphetamine (also known as N-ethyl-alpha-methyl-3,4(methylenedioxy)-phenethylamine, N-ethyl MDA, MDE, MDEA                                                                                                                                                                                                                                                                                                                                                   | 7404   |
+| (13) N-hydroxy-3,4-methylenedioxyamphetamine (also known as N-hydroxy-alpha-methyl-3,4(methylenedioxy)-phenethylamine, and N-hydroxy MDA                                                                                                                                                                                                                                                                                                                                                    | 7402   |
+| (14) 3,4,5-trimethoxy amphetamine                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 7390   |
+| (15) 5-methoxy-N,N-dimethyltryptamine Some trade or other names: 5-methoxy-3-\[2-(dimethylamino)ethyl\]indole; 5-MeO-DMT                                                                                                                                                                                                                                                                                                                                                                    | 7431   |
+| (16) Alpha-methyltryptamine (other name: AMT)                                                                                                                                                                                                                                                                                                                                                                                                                                               | 7432   |
+| (17) Bufotenine                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 7433   |
+| Some trade and other names: 3-(β-Dimethylaminoethyl)-5-hydroxyindole; 3-(2-dimethylaminoethyl)-5-indolol; N, N-dimethylserotonin; 5-hydroxy-N,N-dimethyltryptamine; mappine                                                                                                                                                                                                                                                                                                                 |        |
+| (18) Diethyltryptamine                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 7434   |
+| Some trade and other names: N,N-Diethyltryptamine; DET                                                                                                                                                                                                                                                                                                                                                                                                                                      |        |
+| (19) Dimethyltryptamine                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 7435   |
+| Some trade or other names: DMT                                                                                                                                                                                                                                                                                                                                                                                                                                                              |        |
+| (20) 5-methoxy-N,N-diisopropyltryptamine (other name: 5-MeO-DIPT)                                                                                                                                                                                                                                                                                                                                                                                                                           | 7439   |
+| (21) Ibogaine                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 7260   |
+| Some trade and other names: 7-Ethyl-6,6β,7,8,9,10,12,13-octahydro-2-methoxy-6,9-methano-5H-pyrido \[1′, 2′:1,2\] azepino \[5,4-b\] indole; Tabernanthe iboga                                                                                                                                                                                                                                                                                                                                |        |
+| (22) Lysergic acid diethylamide                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 7315   |
+| (23) Marihuana                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 7360   |
+| (24) Mescaline                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 7381   |
+| (25) Parahexyl—7374; some trade or other names: 3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo\[b,d\]pyran; Synhexyl.                                                                                                                                                                                                                                                                                                                                                     |        |
+| (26) Peyote                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 7415   |
+| Meaning all parts of the plant presently classified botanically as Lophophora williamsii Lemaire, whether growing or not, the seeds thereof, any extract from any part of such plant, and every compound, manufacture, salts, derivative, mixture, or preparation of such plant, its seeds or extracts                                                                                                                                                                                      |        |
+| (Interprets 21 USC 812(c), Schedule I(c) (12))                                                                                                                                                                                                                                                                                                                                                                                                                                              |        |
+| (27) N-ethyl-3-piperidyl benzilate                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 7482   |
+| (28) N-methyl-3-piperidyl benzilate                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 7484   |
+| (29) Psilocybin                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 7437   |
+| (30) Psilocyn                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 7438   |
+| (31) Tetrahydrocannabinols                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 7370   |
+| (i) Meaning tetrahydrocannabinols, except as in paragraph (d)(31)(ii) of this section, naturally contained in a plant of the genus Cannabis (cannabis plant), as well as synthetic equivalents of the substances contained in the cannabis plant, or in the resinous extractives of such plant, and/or synthetic substances, derivatives, and their isomers with similar chemical structure and pharmacological activity to those substances contained in the plant, such as the following: |        |
+| 1 cis or trans tetrahydrocannabinol, and their optical isomers                                                                                                                                                                                                                                                                                                                                                                                                                              |        |
+| 6 cis or trans tetrahydrocannabinol, and their optical isomers                                                                                                                                                                                                                                                                                                                                                                                                                              |        |
+| 3, 4 cis or trans tetrahydrocannabinol, and its optical isomers                                                                                                                                                                                                                                                                                                                                                                                                                             |        |
+| (Since nomenclature of these substances is not internationally standardized, compounds of these structures, regardless of numerical designation of atomic positions covered.)                                                                                                                                                                                                                                                                                                               |        |
+| (ii) Tetrahydrocannabinols does not include any material, compound, mixture, or preparation that falls within the definition of hemp set forth in 7 U.S.C. 1639o.                                                                                                                                                                                                                                                                                                                           |        |
+| (32) Ethylamine analog of phencyclidine                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 7455   |
+| Some trade or other names: N-ethyl-1-phenylcyclohexylamine, (1-phenylcyclohexyl)ethylamine, N-(1-phenylcyclohexyl)ethylamine, cyclohexamine, PCE                                                                                                                                                                                                                                                                                                                                            |        |
+| (33) Pyrrolidine analog of phencyclidine                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 7458   |
+| Some trade or other names: 1-(1-phenylcyclohexyl)-pyrrolidine, PCPy, PHP                                                                                                                                                                                                                                                                                                                                                                                                                    |        |
+| (34) Thiophene analog of phencyclidine                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 7470   |
+| Some trade or other names: 1-\[1-(2-thienyl)-cyclohexyl\]-piperidine, 2-thienylanalog of phencyclidine, TPCP, TCP                                                                                                                                                                                                                                                                                                                                                                           |        |
+| (35) 1-\[1-(2-thienyl)cyclohexyl\]pyrrolidine                                                                                                                                                                                                                                                                                                                                                                                                                                               | 7473   |
+| Some other names: TCPy                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |        |
+| (36) 4-methylmethcathinone (Mephedrone)                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 1248   |
+| (37) 3,4-methylenedioxypyrovalerone (MDPV)                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 7535   |
+| (38) 2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine (2C-E)                                                                                                                                                                                                                                                                                                                                                                                                                                       | 7509   |
+| (39) 2-(2,5-Dimethoxy-4-methylphenyl)ethanamine (2C-D)                                                                                                                                                                                                                                                                                                                                                                                                                                      | 7508   |
+| (40) 2-(4-Chloro-2,5-dimethoxyphenyl)ethanamine (2C-C)                                                                                                                                                                                                                                                                                                                                                                                                                                      | 7519   |
+| (41) 2-(4-Iodo-2,5-dimethoxyphenyl)ethanamine (2C-I)                                                                                                                                                                                                                                                                                                                                                                                                                                        | 7518   |
+| (42) 2-\[4-(Ethylthio)-2,5-dimethoxyphenyl\]ethanamine (2C-T-2)                                                                                                                                                                                                                                                                                                                                                                                                                             | 7385   |
+| (43) 2-\[4-(Isopropylthio)-2,5-dimethoxyphenyl\]ethanamine (2C-T-4)                                                                                                                                                                                                                                                                                                                                                                                                                         | 7532   |
+| (44) 2-(2,5-Dimethoxyphenyl)ethanamine (2C-H)                                                                                                                                                                                                                                                                                                                                                                                                                                               | 7517   |
+| (45) 2-(2,5-Dimethoxy-4-nitro-phenyl)ethanamine (2C-N)                                                                                                                                                                                                                                                                                                                                                                                                                                      | 7521   |
+| (46) 2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine (2C-P)                                                                                                                                                                                                                                                                                                                                                                                                                                  | 7524   |
+| (47) 3,4-Methylenedioxy-N-methylcathinone (Methylone)                                                                                                                                                                                                                                                                                                                                                                                                                                       | 7540   |
+| (48) (1-pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone (UR-144)                                                                                                                                                                                                                                                                                                                                                                                                             | (7144) |
+| (49) \[1-(5-fluoro-pentyl)-1H-indol-3-yl\](2,2,3,3-tetramethylcyclopropyl)methanone (5-fluoro-UR-144, XLR11)                                                                                                                                                                                                                                                                                                                                                                                | (7011) |
+| (50) N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide (APINACA, AKB48)                                                                                                                                                                                                                                                                                                                                                                                                                    | (7048) |
+| (51) quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate (PB-22; QUPIC)                                                                                                                                                                                                                                                                                                                                                                                                                          | (7222) |
+| (52) quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (5-fluoro-PB-22; 5F-PB-22)                                                                                                                                                                                                                                                                                                                                                                                                    | (7225) |
+| (53) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (AB-FUBINACA)                                                                                                                                                                                                                                                                                                                                                                                        | (7012) |
+| (54) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (ADB-PINACA)                                                                                                                                                                                                                                                                                                                                                                                               | (7035) |
+| (55) 2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (25I-NBOMe, 2C-I-NBOMe)                                                                                                                                                                                                                                                                                                                                                                                                   | (7538) |
+| (56) 2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (25C-NBOMe, 2C-C-NBOMe)                                                                                                                                                                                                                                                                                                                                                                                                 | (7537) |
+| (57) 2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (25B-NBOMe, 2C-B-NBOMe)                                                                                                                                                                                                                                                                                                                                                                                                  | (7536) |
+| (58) Marihuana Extract                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 7350   |
+| Meaning an extract containing one or more cannabinoids that has been derived from any plant of the genus Cannabis, containing greater than 0.3% delta-9-tetrahydrocannabinol on a dry weight basis, other than the separated resin (whether crude or purified) obtained from the plant.                                                                                                                                                                                                     |        |
+| (59) 4-methyl-N-ethylcathinone (4-MEC)                                                                                                                                                                                                                                                                                                                                                                                                                                                      | (1249) |
+| (60) 4-methyl-alpha-pyrrolidinopropiophenone (4-MePPP)                                                                                                                                                                                                                                                                                                                                                                                                                                      | (7498) |
+| (61) alpha-pyrrolidinopentiophenone (α-PVP)                                                                                                                                                                                                                                                                                                                                                                                                                                                 | (7545) |
+| (62) 1-(1,3-benzodioxol-5-yl)-2-(methylamino)butan-1-one (butylone, bk-MBDB)                                                                                                                                                                                                                                                                                                                                                                                                                | (7541) |
+| (63) 2-(methylamino)-1-phenylpentan-1-one (pentedrone)                                                                                                                                                                                                                                                                                                                                                                                                                                      | (1246) |
+| (64) 1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one (pentylone, bk-MBDP)                                                                                                                                                                                                                                                                                                                                                                                                              | (7542) |
+| (65) 4-fluoro-N-methylcathinone (4-FMC; flephedrone)                                                                                                                                                                                                                                                                                                                                                                                                                                        | (1238) |
+| (66) 3-fluoro-N-methylcathinone (3-FMC)                                                                                                                                                                                                                                                                                                                                                                                                                                                     | (1233) |
+| (67) 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one (naphyrone)                                                                                                                                                                                                                                                                                                                                                                                                                        | (1258) |
+| (68) alpha-pyrrolidinobutiophenone (α-PBP)                                                                                                                                                                                                                                                                                                                                                                                                                                                  | (7546) |
+| (69) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (AB-CHMINACA)                                                                                                                                                                                                                                                                                                                                                                                      | (7031) |
+| (70) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA)                                                                                                                                                                                                                                                                                                                                                                                                    | (7023) |
+| (71) \[1-(5-fluoropentyl)-1H-indazol-3-yl\](naphthalen-1-yl)methanone (THJ-2201)                                                                                                                                                                                                                                                                                                                                                                                                            | (7024) |
+| (72) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (MAB-CHMINACA; ADB-CHMINACA)                                                                                                                                                                                                                                                                                                                                                                   | (7032) |
+| (73) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (Other names: 5F-ADB; 5F-MDMB-PINACA)                                                                                                                                                                                                                                                                                                                                                                    | 7034   |
+| (74) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3-methylbutanoate (Other names: 5F-AMB)                                                                                                                                                                                                                                                                                                                                                                                        | 7033   |
+| (75) N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (Other names: 5F-APINACA, 5F-AKB48)                                                                                                                                                                                                                                                                                                                                                                                    | 7049   |
+| (76) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (Other names: ADB-FUBINACA)                                                                                                                                                                                                                                                                                                                                                                      | 7010   |
+| (77) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate (Other names: MDMB-CHMICA, MMB-CHMINACA)                                                                                                                                                                                                                                                                                                                                                                 | 7042   |
+| (78) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (Other names: MDMB-FUBINACA)                                                                                                                                                                                                                                                                                                                                                                             | 7020   |
+| (79) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, (FUB-AMB, MMB-FUBINACA, AMB-FUBINACA)                                                                                                                                                                                                                                                                                                                                                                       | (7021) |
+| (80) 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)propan-1-one (ethylone)                                                                                                                                                                                                                                                                                                                                                                                                                         | 7547   |
+| (81) Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (Other names: NM2201; CBL2201)                                                                                                                                                                                                                                                                                                                                                                                              | 7221   |
+| (82) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (Other name: 5F-AB-PINACA)                                                                                                                                                                                                                                                                                                                                                                           | 7025   |
+| (83) 1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide (Other names: 4-CN-CUMYL-BUTINACA; 4-cyano-CUMYL-BUTINACA; 4-CN-CUMYL BINACA; CUMYL-4CN-BINACA; SGT-78)                                                                                                                                                                                                                                                                                                             | 7089   |
+| (84) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3-methylbutanoate (Other names: MMB-CHMICA; AMB-CHMICA)                                                                                                                                                                                                                                                                                                                                                                        | 7044   |
+| (85) 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo\[2,3-b\]pyridine-3-carboxamide (Other name: 5F-CUMYL-P7AICA)                                                                                                                                                                                                                                                                                                                                                                     | 7085   |
+| (86) N-ethylpentylone (Other names: ephylone, 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)pentan-1-one)                                                                                                                                                                                                                                                                                                                                                                                          | 7543   |
+| (87) methyl 2-(1-(4-fluorobutyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (4F-MDMB-BINACA, 4F-MDMB-BUTINACA)                                                                                                                                                                                                                                                                                                                                                                        | 7043   |
+| (88) 1-(4-methoxyphenyl)-N-methylpropan-2-amine (other names: para-methoxymethamphetamine, PMMA)                                                                                                                                                                                                                                                                                                                                                                                            | (1245) |
+| (89) ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate (other name: 5F-EDMB-PINACA)                                                                                                                                                                                                                                                                                                                                                                              | 7036   |
+| (90) methyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate (other names: 5F-MDMB-PICA; 5F-MDMB-2201)                                                                                                                                                                                                                                                                                                                                                                  | 7041   |
+| (91) N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (other names: FUB-AKB48; FUB-APINACA; AKB48 N-(4-FLUOROBENZYL))                                                                                                                                                                                                                                                                                                                                                        | 7047   |
+| (92) 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide (other names: 5F-CUMYL-PINACA; SGT-25)                                                                                                                                                                                                                                                                                                                                                                            | 7083   |
+| (93) (1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone (other name: FUB-144)                                                                                                                                                                                                                                                                                                                                                                                      | 7014   |
+| (94) N-Ethylhexedrone (Other names: α-ethylaminohexanophenone; 2-(ethylamino)-1-phenylhexan-1-one)                                                                                                                                                                                                                                                                                                                                                                                          | 7246   |
+| (95) alpha-Pyrrolidinohexanophenone (Other names: α-PHP; α-pyrrolidinohexanophenone; 1-phenyl-2-(pyrrolidin-1-yl)hexan-1-one)                                                                                                                                                                                                                                                                                                                                                               | 7544   |
+| (96) 4-Methyl-alpha-ethylaminopentiophenone (Other names: 4-MEAP; 2-(ethylamino)-1-(4-methylphenyl)pentan-1-one)                                                                                                                                                                                                                                                                                                                                                                            | 7245   |
+| (97) 4′-Methyl-alpha-pyrrolidinohexiophenone (Other names: MPHP; 4′-methyl-alpha-pyrrolidinohexanophenone; 1-(4-methylphenyl)-2-(pyrrolidin-1-yl)hexan-1-one)                                                                                                                                                                                                                                                                                                                               | 7446   |
+| (98) alpha-Pyrrolidinoheptaphenone (Other names: PV8; 1-phenyl-2-(pyrrolidin-1-yl)heptan-1-one)                                                                                                                                                                                                                                                                                                                                                                                             | 7548   |
+| (99) 4′-Chloro-alpha-pyrrolidinovalerophenone (Other names: 4-chloro-α-PVP; 4′-chloro-α-pyrrolidinopentiophenone; 1-(4-chlorophenyl)-2-(pyrrolidin-1-yl)pentan-1-one)                                                                                                                                                                                                                                                                                                                       | 7443   |
+| (100) 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexan-1-one (methoxetamine, MXE)                                                                                                                                                                                                                                                                                                                                                                                                               | 7286   |
+| (101) 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-1-one (other names: eutylone; bk-EBDB)                                                                                                                                                                                                                                                                                                                                                                                                   | 7549   |
+| (102) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1H-indazole-3-carboxamide (other name: ADB-BUTINACA)                                                                                                                                                                                                                                                                                                                                                                                 | 7027   |
+| (103) 4-methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one (other names: α-PiHP; alpha-PiHP)                                                                                                                                                                                                                                                                                                                                                                                                   | 7551   |
+| (104) 2-(methylamino)-1-(3-methylphenyl)propan-1-one (other names: 3-MMC; 3-methylmethcathinone)                                                                                                                                                                                                                                                                                                                                                                                            | 1259   |
 
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
-(1) gamma-hydroxybutyric acid (some other names include GHB; gamma-hydroxybutyrate; 4-hydroxybutyrate; 4-hydroxybutanoic acid; sodium oxybate; sodium oxybutyrate)
-
-2010 
-
-(2) Mecloqualone
-
-2572 
-
-(3) Methaqualone
-
-2565
+| (1) gamma-hydroxybutyric acid (some other names include GHB; gamma-hydroxybutyrate; 4-hydroxybutyrate; 4-hydroxybutanoic acid; sodium oxybate; sodium oxybutyrate) | 2010 |
+| (2) Mecloqualone                                                                                                                                                   | 2572 |
+| (3) Methaqualone                                                                                                                                                   | 2565 |
 
 (f) *Stimulants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers, and salts of isomers:
 
-(1) Amineptine (7-\[(10,11-dihydro-5H-dibenzo\[a,d\]cyclohepten-5-yl)amino\]heptanoic acid)
-
-1219 
-
-(2) Aminorex (Some other names: aminoxaphen; 2-amino-5-phenyl-2-oxazoline; or 4,5-dihydro-5-phenly-2-oxazolamine)
-
-1585 
-
-(3) N-Benzylpiperazine (some other names: BZP, 1-benzylpiperazine)
-
-7493 
-
-(4) Cathinone
-
-1235 
-
-Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenone, 2-aminopropiophenone, and norephedrone 
-
-(5) 4,4′-Dimethylaminorex (4,4′-DMAR; 4,5-dihydro-4-methyl-5-(4-methylphenyl)-2-oxazolamine; 4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine)
-
-1595 
-
-(6) Fenethylline
-
-1503 
-
-(7) Mesocarb (N-phenyl-N ′-(3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-yl)carbamimidate)
-
-1227 
-
-(8) Methcathinone (Some other names: 2-(methylamino)-propiophenone; alpha-(methylamino)propiophenone; 2-(methylamino)-1-phenylpropan-1-one; alpha-N-methylaminopropiophenone; monomethylpropion; ephedrone; N-methylcathinone; methylcathinone; AL-464; AL-422; AL-463 and UR1432), its salts, optical isomers and salts of optical isomers
-
-1237 
-
-(9) Methiopropamine (N-methyl-1-(thiophen-2-yl)propan-2-amine)
-
-1478 
-
-(10) (±)cis-4-methylaminorex ((±)cis-4,5-dihydro-4-methyl-5-phenyl-2-oxazolamine)
-
-1590 
-
-(11) N-ethylamphetamine
-
-1475 
-
-(12) N,N-dimethylamphetamine (also known as N,N-alpha-trimethyl-benzeneethanamine; N,N-alpha-trimethylphenethylamine)
-
-1480
+| (1) Amineptine (7-\[(10,11-dihydro-5H-dibenzo\[a,d\]cyclohepten-5-yl)amino\]heptanoic acid)                                                                                                                                                                                                                                                 | 1219 |
+| (2) Aminorex (Some other names: aminoxaphen; 2-amino-5-phenyl-2-oxazoline; or 4,5-dihydro-5-phenly-2-oxazolamine)                                                                                                                                                                                                                           | 1585 |
+| (3) N-Benzylpiperazine (some other names: BZP, 1-benzylpiperazine)                                                                                                                                                                                                                                                                          | 7493 |
+| (4) Cathinone                                                                                                                                                                                                                                                                                                                               | 1235 |
+| Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenone, 2-aminopropiophenone, and norephedrone                                                                                                                                                                                                                   |      |
+| (5) 4,4′-Dimethylaminorex (4,4′-DMAR; 4,5-dihydro-4-methyl-5-(4-methylphenyl)-2-oxazolamine; 4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine)                                                                                                                                                                                    | 1595 |
+| (6) Fenethylline                                                                                                                                                                                                                                                                                                                            | 1503 |
+| (7) Mesocarb (N-phenyl-N ′-(3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-yl)carbamimidate)                                                                                                                                                                                                                                               | 1227 |
+| (8) Methcathinone (Some other names: 2-(methylamino)-propiophenone; alpha-(methylamino)propiophenone; 2-(methylamino)-1-phenylpropan-1-one; alpha-N-methylaminopropiophenone; monomethylpropion; ephedrone; N-methylcathinone; methylcathinone; AL-464; AL-422; AL-463 and UR1432), its salts, optical isomers and salts of optical isomers | 1237 |
+| (9) Methiopropamine (N-methyl-1-(thiophen-2-yl)propan-2-amine)                                                                                                                                                                                                                                                                              | 1478 |
+| (10) (±)cis-4-methylaminorex ((±)cis-4,5-dihydro-4-methyl-5-phenyl-2-oxazolamine)                                                                                                                                                                                                                                                           | 1590 |
+| (11) N-ethylamphetamine                                                                                                                                                                                                                                                                                                                     | 1475 |
+| (12) N,N-dimethylamphetamine (also known as N,N-alpha-trimethyl-benzeneethanamine; N,N-alpha-trimethylphenethylamine)                                                                                                                                                                                                                       | 1480 |
 
 (g) *Cannabimimetic agents.* Unless specifically exempted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances, or which contains their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
-(1) 5-(1,1-dimethylheptyl)-2-\[(1R,3S)-3-hydroxycyclohexyl\]-phenol (CP-47,497)
-
-7297 
-
-(2) 5-(1,1-dimethyloctyl)-2-\[(1R,3S)-3-hydroxycyclohexyl\]-phenol (cannabicyclohexanol or CP-47,497 C8-homolog)
-
-7298 
-
-(3) 1-pentyl-3-(1-naphthoyl)indole (JWH-018 and AM678)
-
-7118 
-
-(4) 1-butyl-3-(1-naphthoyl)indole (JWH-073)
-
-7173 
-
-(5) 1-hexyl-3-(1-naphthoyl)indole (JWH-019)
-
-7019 
-
-(6) 1-\[2-(4-morpholinyl)ethyl\]-3-(1-naphthoyl)indole (JWH-200)
-
-7200 
-
-(7) 1-pentyl-3-(2-methoxyphenylacetyl)indole (JWH-250)
-
-6250 
-
-(8) 1-pentyl-3-\[1-(4-methoxynaphthoyl)\]indole (JWH-081)
-
-7081 
-
-(9) 1-pentyl-3-(4-methyl-1-naphthoyl)indole (JWH-122)
-
-7122 
-
-(10) 1-pentyl-3-(4-chloro-1-naphthoyl)indole (JWH-398)
-
-7398 
-
-(11) 1-(5-fluoropentyl)-3-(1-naphthoyl)indole (AM2201)
-
-7201 
-
-(12) 1-(5-fluoropentyl)-3-(2-iodobenzoyl)indole (AM694)
-
-7694 
-
-(13) 1-pentyl-3-\[(4-methoxy)-benzoyl\]indole (SR-19 and RCS-4)
-
-7104 
-
-(14) 1-cyclohexylethyl-3-(2-methoxyphenylacetyl)indole 7008 (SR-18 and RCS-8)
-
-7008 
-
-(15) 1-pentyl-3-(2-chlorophenylacetyl)indole (JWH-203)
-
-7203
+| (1) 5-(1,1-dimethylheptyl)-2-\[(1R,3S)-3-hydroxycyclohexyl\]-phenol (CP-47,497)                                  | 7297 |
+| (2) 5-(1,1-dimethyloctyl)-2-\[(1R,3S)-3-hydroxycyclohexyl\]-phenol (cannabicyclohexanol or CP-47,497 C8-homolog) | 7298 |
+| (3) 1-pentyl-3-(1-naphthoyl)indole (JWH-018 and AM678)                                                           | 7118 |
+| (4) 1-butyl-3-(1-naphthoyl)indole (JWH-073)                                                                      | 7173 |
+| (5) 1-hexyl-3-(1-naphthoyl)indole (JWH-019)                                                                      | 7019 |
+| (6) 1-\[2-(4-morpholinyl)ethyl\]-3-(1-naphthoyl)indole (JWH-200)                                                 | 7200 |
+| (7) 1-pentyl-3-(2-methoxyphenylacetyl)indole (JWH-250)                                                           | 6250 |
+| (8) 1-pentyl-3-\[1-(4-methoxynaphthoyl)\]indole (JWH-081)                                                        | 7081 |
+| (9) 1-pentyl-3-(4-methyl-1-naphthoyl)indole (JWH-122)                                                            | 7122 |
+| (10) 1-pentyl-3-(4-chloro-1-naphthoyl)indole (JWH-398)                                                           | 7398 |
+| (11) 1-(5-fluoropentyl)-3-(1-naphthoyl)indole (AM2201)                                                           | 7201 |
+| (12) 1-(5-fluoropentyl)-3-(2-iodobenzoyl)indole (AM694)                                                          | 7694 |
+| (13) 1-pentyl-3-\[(4-methoxy)-benzoyl\]indole (SR-19 and RCS-4)                                                  | 7104 |
+| (14) 1-cyclohexylethyl-3-(2-methoxyphenylacetyl)indole 7008 (SR-18 and RCS-8)                                    | 7008 |
+| (15) 1-pentyl-3-(2-chlorophenylacetyl)indole (JWH-203)                                                           | 7203 |
 
 (h) *Temporary listing of substances subject to emergency scheduling.* Any material, compound, mixture or preparation which contains any quantity of the following substances:
 
-(1)-(29) \[Reserved\] 
-
-(30) Fentanyl-related substances, their isomers, esters, ethers, salts and salts of isomers, esters and ethers
-
-9850
+| (1)-(29) \[Reserved\]                                                                                          |      |
+| (30) Fentanyl-related substances, their isomers, esters, ethers, salts and salts of isomers, esters and ethers | 9850 |
 
 (i) Fentanyl-related substance means any substance not otherwise listed under another Administration Controlled Substance Code Number, and for which no exemption or approval is in effect under section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\], that is structurally related to fentanyl by one or more of the following modifications:
 
@@ -823,71 +327,29 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (ii) This definition includes, but is not limited to, the following substances: (A)-(B) \[Reserved\]
 
-(31)ndash;(49) \[Reserved\] 
-
-(50) 2-(2-(4-butoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Butonitazene)
-
-9751 
-
-(51) \[Reserved\] 
-
-(52) N,N-diethyl-2-(2-(4-fluorobenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Flunitazene)
-
-9756 
-
-(53) N,N-diethyl-2-(2-(4-methoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Metodesnitazene)
-
-9764 
-
-(54)-(56) \[Reserved\] 
-
-(57) 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-thieno\[3,2-f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: etizolam)
-
-2780 
-
-(58) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: flualprazolam)
-
-2785 
-
-(59) 6-(2-chlorophenyl)-1-methyl-8-nitro-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: clonazolam)
-
-2786 
-
-(60) 8-bromo-6-(2-fluorophenyl)-1-methyl-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: flubromazolam)
-
-2788 
-
-(61) 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-benzo\[e\]\[1,4\]diazepin-2-one, its salts, isomers, and salts of isomers (Other name: diclazepam)
-
-2789 
-
-(62) Methyl 3,3-dimethyl-2-(1-(pent-4-en-1-yl)-1H-indazole-3-carboxamido)butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MDMB-4en-PINACA)
-
-7090 
-
-(63) Methyl 2-\[\[1-(4-fluorobutyl)indole-3-carbonyl\]amino\]-3,3-dimethyl-butanoate, its optical and geometric isomers, salts and salts of isomers (Other names: 4F-MDMB-BUTICA; 4F-MDMB-BICA)
-
-7091 
-
-(64) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(pent-4-en-1-yl)-1H-indazole-3-carboxamide, its optical and geometric isomers, salts and salts of isomers (Other name: ADB-4en-PINACA)
-
-7092 
-
-(65) 5-Pentyl-2-(2-phenylpropan-2-yl)pyrido\[4,3-b\]indol-1-one, its optical and geometric isomers, salts and salts of isomers (Other names: CUMYL-PEGACLONE; SGT-151)
-
-7093 
-
-(66) Ethyl 2-\[\[1-(5-fluoropentyl)indole-3-carbonyl\]amino\]-3,3-dimethyl-butanoate, its optical and geometric isomers, salts and salts of isomers (Other names: 5F-EDMB-PICA; 5F-EDMB-2201)
-
-7094 
-
-(67) Methyl 2-(1-(4-fluorobenzyl)-1H-indole-3-carboxamido)-3-methyl butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MMB-FUBICA)
-
-7095 
+| (31)ndash;(49) \[Reserved\]                                                                                                                                                                     |      |
+| (50) 2-(2-(4-butoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Butonitazene)       | 9751 |
+| (51) \[Reserved\]                                                                                                                                                                               |      |
+| (52) N,N-diethyl-2-(2-(4-fluorobenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Flunitazene)        | 9756 |
+| (53) N,N-diethyl-2-(2-(4-methoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Metodesnitazene)           | 9764 |
+| (54)-(56) \[Reserved\]                                                                                                                                                                          |      |
+| (57) 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-thieno\[3,2-f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: etizolam)                          | 2780 |
+| (58) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: flualprazolam)                         | 2785 |
+| (59) 6-(2-chlorophenyl)-1-methyl-8-nitro-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: clonazolam)                             | 2786 |
+| (60) 8-bromo-6-(2-fluorophenyl)-1-methyl-4H-benzo\[f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine, its salts, isomers, and salts of isomers (Other name: flubromazolam)                          | 2788 |
+| (61) 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-benzo\[e\]\[1,4\]diazepin-2-one, its salts, isomers, and salts of isomers (Other name: diclazepam)                                     | 2789 |
+| (62) Methyl 3,3-dimethyl-2-(1-(pent-4-en-1-yl)-1H-indazole-3-carboxamido)butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MDMB-4en-PINACA)                 | 7090 |
+| (63) Methyl 2-\[\[1-(4-fluorobutyl)indole-3-carbonyl\]amino\]-3,3-dimethyl-butanoate, its optical and geometric isomers, salts and salts of isomers (Other names: 4F-MDMB-BUTICA; 4F-MDMB-BICA) | 7091 |
+| (64) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(pent-4-en-1-yl)-1H-indazole-3-carboxamide, its optical and geometric isomers, salts and salts of isomers (Other name: ADB-4en-PINACA)          | 7092 |
+| (65) 5-Pentyl-2-(2-phenylpropan-2-yl)pyrido\[4,3-b\]indol-1-one, its optical and geometric isomers, salts and salts of isomers (Other names: CUMYL-PEGACLONE; SGT-151)                          | 7093 |
+| (66) Ethyl 2-\[\[1-(5-fluoropentyl)indole-3-carbonyl\]amino\]-3,3-dimethyl-butanoate, its optical and geometric isomers, salts and salts of isomers (Other names: 5F-EDMB-PICA; 5F-EDMB-2201)   | 7094 |
+| (67) Methyl 2-(1-(4-fluorobenzyl)-1H-indole-3-carboxamido)-3-methyl butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MMB-FUBICA)                           | 7095 |
 
 \[39 FR 22141, June 20, 1974\] Editorial Notes:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2.At 88 FR 13694, Mar. 6, 2022, § 1308.11 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+
+3\. At 89 FR 18795, Mar. 15, 2024, § 1308.11 was amended however, the amendment could not be incorporated due to inaccurate amendatory instruction.
 
 Effective Date Notes:
 
@@ -905,8 +367,6 @@ Effective Date Notes:
 
 (b) \* \* \*
 
-|                                                                                         |      |
-| --------------------------------------------------------------------------------------- | ---- |
 |                                                                                         |      |
 | \* \* \* \* \* \* \*                                                                    |      |
 | (59) 2-Methyl AP-237 (1-(2-methyl-4-(3-phenylprop-2-en-1-yl)piperazin-1-yl)butan-1-one) | 9664 |
