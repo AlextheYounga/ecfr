@@ -14,7 +14,7 @@
 
 (c) *Amount payable.* The amount payable under this section will not exceed the cost of transporting the remains to the national cemetery closest to the veteran's last place of residence in which burial space is available, and is subject to the limitations set forth in paragraph (d) of this section.
 
-(d) *Reimbursable transportation expenses.* (1) VA will reimburse reasonable transportation expenses, including but not limited to the costs of shipment via common carrier (i.e., procuring permits for shipment, a shipping case, sealing of the shipping case, and applicable Federal taxes) and costs of transporting the remains to the place of burial.
+(d) *Reimbursable transportation expenses.* (1) VA will reimburse reasonable transportation expenses, including but not limited to the costs of shipment via common carrier (*i.e.*, procuring permits for shipment, a shipping case, sealing of the shipping case, and applicable Federal taxes) and costs of transporting the remains to the place of burial.
 
 (2) A reasonable transportation expense is an expense that is usual and customary in the context of burial transportation, with a corresponding charge that is the usual and customary charge made to the general public for the same or similar services.
 

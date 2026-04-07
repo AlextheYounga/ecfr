@@ -8,7 +8,7 @@
 
 (A) Circumstances in which liability benefits are paid to an injured party only when the insured party's tortious acts are the cause of the injuries; and
 
-(B) Uninsured and underinsured coverage, in which there is a third-party tortfeasor who caused the injuries (i.e., benefits are not paid on a no-fault basis), but the insured party is not the tortfeasor.
+(B) Uninsured and underinsured coverage, in which there is a third-party tortfeasor who caused the injuries (*i.e.*, benefits are not paid on a no-fault basis), but the insured party is not the tortfeasor.
 
 *Health-plan contract* means any plan, policy, program, contract, or liability arrangement that provides compensation, coverage, or indemnification for expenses incurred by a beneficiary for medical care or services, items, products, and supplies. It includes but is not limited to:
 

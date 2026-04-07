@@ -22,7 +22,7 @@
 
 (1) Specifying the hours in which nonemergent outpatient care will be provided;
 
-(2) Arranging for medical and any other services to be provided in a particular patient care area (*e.g.,* private exam room near an exit);
+(2) Arranging for medical and any other services to be provided in a particular patient care area (e.g., private exam room near an exit);
 
 (3) Arranging for medical and any other services to be provided at a specific site of care;
 
