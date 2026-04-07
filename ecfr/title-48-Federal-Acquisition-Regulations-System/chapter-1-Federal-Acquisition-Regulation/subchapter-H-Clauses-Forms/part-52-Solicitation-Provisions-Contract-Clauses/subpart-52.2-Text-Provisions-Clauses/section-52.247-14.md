@@ -1,6 +1,6 @@
 ##### 52.247-14 Contractor Responsibility for Receipt of Shipment.
 
-As prescribed in 47.207-5(d), insert the following clause in solicitations and contracts for transportation or for transportation-related services: 
+As prescribed in 47.207-5(d), insert the following clause in solicitations and contracts for transportation or for transportation-related services:
 
 Contractor Responsibility for Receipt of Shipment (APR 1984)
 

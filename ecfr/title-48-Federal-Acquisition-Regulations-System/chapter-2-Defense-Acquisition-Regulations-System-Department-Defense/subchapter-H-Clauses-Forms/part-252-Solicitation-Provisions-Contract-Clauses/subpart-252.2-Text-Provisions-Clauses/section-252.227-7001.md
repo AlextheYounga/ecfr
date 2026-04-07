@@ -1,6 +1,6 @@
 ##### 252.227-7001 Release of past infringement.
 
-As prescribed at 227.7009-2(a), insert the following clause in patent releases, license agreements, and assignments: 
+As prescribed at 227.7009-2(a), insert the following clause in patent releases, license agreements, and assignments:
 
 Release of Past Infringement (SEP 2019)
 

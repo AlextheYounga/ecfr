@@ -1,6 +1,6 @@
 ##### 52.251-2 Interagency Fleet Management System Vehicles and Related Services.
 
-As prescribed in 51.205, insert the following clause: 
+As prescribed in 51.205, insert the following clause:
 
 Interagency Fleet Management System Vehicles and Related Services (JAN 1991)
 

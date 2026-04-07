@@ -1,10 +1,10 @@
 ##### 4.702 Applicability.
 
-(a) This subpart applies to records generated under contracts that contain one of the following clauses: 
+(a) This subpart applies to records generated under contracts that contain one of the following clauses:
 
-(1) Audit and Records—Sealed Bidding (52.214-26). 
+(1) Audit and Records—Sealed Bidding (52.214-26).
 
-(2) Audit and Records—Negotiation (52.215-2). 
+(2) Audit and Records—Negotiation (52.215-2).
 
 (b) This subpart is not mandatory on Department of Energy contracts for which the Comptroller General allows alternative records retention periods. Apart from this exception, this subpart applies to record retention periods under contracts that are subject to 10 U.S.C. chapter 137 legacy provisions (10 U.S.C. 3064) and 10 U.S.C. 3016 and chapter 203 or 40 U.S.C. 101, *et seq.*
 

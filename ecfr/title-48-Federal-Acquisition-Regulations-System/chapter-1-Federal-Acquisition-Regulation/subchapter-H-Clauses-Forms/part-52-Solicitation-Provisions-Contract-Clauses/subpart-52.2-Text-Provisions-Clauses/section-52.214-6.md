@@ -1,6 +1,6 @@
 ##### 52.214-6 Explanation to Prospective Bidders.
 
-As prescribed in 14.201-6(c)(2), insert the following provision: 
+As prescribed in 14.201-6(c)(2), insert the following provision:
 
 Explanation to Prospective Bidders (APR 1984)
 

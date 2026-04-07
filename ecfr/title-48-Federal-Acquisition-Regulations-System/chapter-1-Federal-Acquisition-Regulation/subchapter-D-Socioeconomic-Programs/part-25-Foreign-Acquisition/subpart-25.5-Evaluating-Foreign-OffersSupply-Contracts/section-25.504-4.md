@@ -11,23 +11,23 @@
 | 5     | DO = 18,000  |
 | Total | 121,500      |
 
-*Problem:* Offeror C specifies all-or-none award. Assume all offerors are large businesses. The acquisition is not covered by the WTO GPA . 
+*Problem:* Offeror C specifies all-or-none award. Assume all offerors are large businesses. The acquisition is not covered by the WTO GPA .
 
 *Analysis:* (see 25.503)
 
-*STEP 1:* Evaluate Offers A & B before considering Offer C and determine which offer has the lowest evaluated cost for each line item (the tentative award pattern): 
+*STEP 1:* Evaluate Offers A & B before considering Offer C and determine which offer has the lowest evaluated cost for each line item (the tentative award pattern):
 
-*Item 1:* Low offer A is domestic; select A. 
+*Item 1:* Low offer A is domestic; select A.
 
-*Item 2:* Low offer B is eligible; do not apply factor; select B. 
+*Item 2:* Low offer B is eligible; do not apply factor; select B.
 
-*Item 3:* Low offer A is noneligible and Offer B is a domestic offer. Apply a 20 percent factor to Offer A. The evaluated price of Offer A is higher than Offer B; select B. 
+*Item 3:* Low offer A is noneligible and Offer B is a domestic offer. Apply a 20 percent factor to Offer A. The evaluated price of Offer A is higher than Offer B; select B.
 
-*Item 4:* Low offer A is noneligible. Since neither offer is a domestic offer, no evaluation factor applies; select A. 
+*Item 4:* Low offer A is noneligible. Since neither offer is a domestic offer, no evaluation factor applies; select A.
 
-*Item 5:* Low offer B is noneligible; apply a 20 percent factor to Offer B. Offer A is still higher than Offer B; select B. 
+*Item 5:* Low offer B is noneligible; apply a 20 percent factor to Offer B. Offer A is still higher than Offer B; select B.
 
-*STEP 2:* Evaluate Offer C against the tentative award pattern for Offers A and B: 
+*STEP 2:* Evaluate Offer C against the tentative award pattern for Offers A and B:
 
 | Item                   | Offers |
 | ---------------------- | ------ |
@@ -39,11 +39,11 @@
 | Total                  |        |
 | \* Offer + 20 percent. |        |
 
-On a line item basis, apply a factor to any noneligible offer if the other offer for that line item is domestic. 
+On a line item basis, apply a factor to any noneligible offer if the other offer for that line item is domestic.
 
-For Item 1, apply a factor to Offer C because Offer A is domestic and the acquisition was not covered by the WTO GPA. The evaluated price of Offer C, Item 1, becomes $60,000 ($50,000 plus 20 percent). Apply a factor to Offer B, Item 5, because it is a noneligible product and Offer C is domestic. The evaluated price of Offer B is $12,000 ($10,000 plus 20 percent). Evaluate the remaining items without applying a factor. 
+For Item 1, apply a factor to Offer C because Offer A is domestic and the acquisition was not covered by the WTO GPA. The evaluated price of Offer C, Item 1, becomes $60,000 ($50,000 plus 20 percent). Apply a factor to Offer B, Item 5, because it is a noneligible product and Offer C is domestic. The evaluated price of Offer B is $12,000 ($10,000 plus 20 percent). Evaluate the remaining items without applying a factor.
 
-*STEP 3:* The tentative unrestricted award pattern from Offers A and B is lower than the evaluated price of Offer C. Award the combination of Offers A and B. Note that if Offer C had not specified all-or-none award, award would be made on Offer C for line items 3 and 4, totaling an award of $32,000. 
+*STEP 3:* The tentative unrestricted award pattern from Offers A and B is lower than the evaluated price of Offer C. Award the combination of Offers A and B. Note that if Offer C had not specified all-or-none award, award would be made on Offer C for line items 3 and 4, totaling an award of $32,000.
 
 (b) *Example 2.*
 
@@ -55,11 +55,11 @@ For Item 1, apply a factor to Offer C because Offer A is domestic and the acquis
 | 4     | DO = 10,500  |
 | Total | 91,200       |
 
-*Problem:* The solicitation specifies award on a group basis. Assume the Buy American statute applies and the acquisition cannot be set aside for small business concerns. All offerors are large businesses. 
+*Problem:* The solicitation specifies award on a group basis. Assume the Buy American statute applies and the acquisition cannot be set aside for small business concerns. All offerors are large businesses.
 
-*Analysis:* (see 25.503(c)) 
+*Analysis:* (see 25.503(c))
 
-*STEP 1:* Determine which of the offers are domestic (see 25.503(c)(1)): 
+*STEP 1:* Determine which of the offers are domestic (see 25.503(c)(1)):
 
 |   | Domestic   (percent)                                                                        | Determination |
 | - | ------------------------------------------------------------------------------------------- | ------------- |
@@ -67,7 +67,7 @@ For Item 1, apply a factor to Offer C because Offer A is domestic and the acquis
 | B | $10,300 (Offer B4)/$91,800 (Offer B Total) $ = 11.2%                                        | Foreign.      |
 | C | $10,400 (Offer C4)/$90,800 (Offer C Total) = 11.5%                                          | Foreign.      |
 
-*STEP 2:* Determine whether foreign offers are eligible or noneligible offers (see 25.503(c)(2)): 
+*STEP 2:* Determine whether foreign offers are eligible or noneligible offers (see 25.503(c)(2)):
 
 |   | Domestic + eligible   (percent)                                                                                  | Determination |
 | - | ---------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -91,11 +91,11 @@ For Item 1, apply a factor to Offer C because Offer A is domestic and the acquis
 | FO > 55% = Foreign end product with domestic content exceeding 55%.      |                     |
 | FO < 55% = Foreign end product with domestic content of 55% or less.     |                     |
 
-*Problem:* The solicitation specifies award on a group basis. Assume only the Buy American statute applies (*i.e.,* no trade agreements apply) and the acquisition cannot be set aside for small business concerns. All offerors are large businesses. 
+*Problem:* The solicitation specifies award on a group basis. Assume only the Buy American statute applies (*i.e.,* no trade agreements apply) and the acquisition cannot be set aside for small business concerns. All offerors are large businesses.
 
-*Analysis:* (see 25.503(d)) 
+*Analysis:* (see 25.503(d))
 
-*STEP 1:* Determine which of the offers are domestic (see 25.503(d)(1)): 
+*STEP 1:* Determine which of the offers are domestic (see 25.503(d)(1)):
 
 |   | Domestic   (percent)                                                                      | Determination |
 | - | ----------------------------------------------------------------------------------------- | ------------- |
@@ -103,9 +103,9 @@ For Item 1, apply a factor to Offer C because Offer A is domestic and the acquis
 | B | $9,000 (Offer B4)/$45,500 (Offer B Total) = 19.8%                                         | Foreign.      |
 | C | $10,200 (Offer C2)/$38,800 (Offer C Total) = 26.3%                                        | Foreign.      |
 
-*STEP 2:* Determine which offer, domestic or foreign, is the low offer. If the low offer is a foreign offer, apply the evaluation factor (see 25.503(d)(2)). The low offer (Offer C) is a foreign offer. Therefore, apply the factor to the low offer. Addition of the 20 percent factor (use 30 percent if Offer A is a small business) to Offer C yields an evaluated price of $46,560 ($38,800 + 20 percent). Offer C remains the low offer. 
+*STEP 2:* Determine which offer, domestic or foreign, is the low offer. If the low offer is a foreign offer, apply the evaluation factor (see 25.503(d)(2)). The low offer (Offer C) is a foreign offer. Therefore, apply the factor to the low offer. Addition of the 20 percent factor (use 30 percent if Offer A is a small business) to Offer C yields an evaluated price of $46,560 ($38,800 + 20 percent). Offer C remains the low offer.
 
-*STEP 3:* Determine if there is a foreign offer that could be treated as a domestic offer (see 25.106(b)(2) and 25.503(d)(2)). 
+*STEP 3:* Determine if there is a foreign offer that could be treated as a domestic offer (see 25.106(b)(2) and 25.503(d)(2)).
 
 |   | Amount of domestic content   (percent)                                | Determination               |
 | - | --------------------------------------------------------------------- | --------------------------- |
@@ -117,6 +117,6 @@ For Item 1, apply a factor to Offer C because Offer A is domestic and the acquis
 |   | 19.8% + 80.2% = 100% is domestic or can be treated as domestic        |                             |
 | C | $10,200 (Offer C2)/$38,800 (Offer C Total) = 26.3% is domestic        | Foreign.                    |
 
-*STEP 4:* If there is a foreign offer that could be treated as a domestic offer, compare the evaluated price of the low offer to the price of the offer treated as domestic (*see* 25.503(d)(3)). Offer B can be treated as a domestic offer ($45,500). The evaluated price of the low offer (Offer C) is $46,560. Award on Offer B. 
+*STEP 4:* If there is a foreign offer that could be treated as a domestic offer, compare the evaluated price of the low offer to the price of the offer treated as domestic (*see* 25.503(d)(3)). Offer B can be treated as a domestic offer ($45,500). The evaluated price of the low offer (Offer C) is $46,560. Award on Offer B.
 
 \[64 FR 72419, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000; 69 FR 77875, Dec. 28, 2004; 79 FR 24209, Apr. 29, 2014; 86 FR 6188, Jan. 19, 2021; 87 FR 12793, Mar. 7, 2022\]

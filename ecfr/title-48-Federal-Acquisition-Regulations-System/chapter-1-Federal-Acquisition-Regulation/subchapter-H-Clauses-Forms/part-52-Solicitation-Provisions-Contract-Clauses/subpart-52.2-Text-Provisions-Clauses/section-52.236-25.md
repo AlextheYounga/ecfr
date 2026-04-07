@@ -1,6 +1,6 @@
 ##### 52.236-25 Requirements for Registration of Designers.
 
-As prescribed in 36.609-4, insert the following clause: 
+As prescribed in 36.609-4, insert the following clause:
 
 Requirements for Registration of Designers (JUN 2003)
 

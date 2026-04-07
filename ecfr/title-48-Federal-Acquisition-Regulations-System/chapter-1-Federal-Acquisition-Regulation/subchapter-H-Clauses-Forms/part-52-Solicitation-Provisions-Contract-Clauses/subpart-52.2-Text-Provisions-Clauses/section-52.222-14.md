@@ -1,6 +1,6 @@
 ##### 52.222-14 Disputes Concerning Labor Standards.
 
-As prescribed in 22.407(a), insert the following clause: 
+As prescribed in 22.407(a), insert the following clause:
 
 Disputes Concerning Labor Standards (FEB 1988)
 

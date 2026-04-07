@@ -1,6 +1,6 @@
 ##### 252.229-7002 Customs exemptions (Germany).
 
-As prescribed in 229.402-70(b), use the following clause: 
+As prescribed in 229.402-70(b), use the following clause:
 
 Customs Exemptions (Germany) (JUN 1997)
 

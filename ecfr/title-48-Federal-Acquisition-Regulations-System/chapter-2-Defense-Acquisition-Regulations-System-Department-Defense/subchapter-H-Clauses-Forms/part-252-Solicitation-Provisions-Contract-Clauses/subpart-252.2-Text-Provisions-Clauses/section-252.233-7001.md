@@ -1,6 +1,6 @@
 ##### 252.233-7001 Choice of law (overseas).
 
-As prescribed in 233.215-70, use the following clause: 
+As prescribed in 233.215-70, use the following clause:
 
 Choice of Law (Overseas) (JUN 1997)
 

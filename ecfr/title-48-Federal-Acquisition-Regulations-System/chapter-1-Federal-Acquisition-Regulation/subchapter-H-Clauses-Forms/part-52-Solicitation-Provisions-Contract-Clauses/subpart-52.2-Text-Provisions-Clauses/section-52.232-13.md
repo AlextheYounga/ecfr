@@ -1,6 +1,6 @@
 ##### 52.232-13 Notice of Progress Payments.
 
-As prescribed in 32.502-3(a), insert the following provision in invitations for bids and requests for proposals that include a Progress Payments clause: 
+As prescribed in 32.502-3(a), insert the following provision in invitations for bids and requests for proposals that include a Progress Payments clause:
 
 Notice of Progress Payments (APR 1984)
 

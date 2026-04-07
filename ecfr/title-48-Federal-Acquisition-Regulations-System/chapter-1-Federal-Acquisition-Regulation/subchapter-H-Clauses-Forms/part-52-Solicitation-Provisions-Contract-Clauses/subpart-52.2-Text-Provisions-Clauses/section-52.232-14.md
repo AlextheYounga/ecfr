@@ -1,6 +1,6 @@
 ##### 52.232-14 Notice of Availability of Progress Payments Exclusively for Small Business Concerns.
 
-As prescribed in 32.502-3(b)(2), insert the following provision in invitations for bids if it is anticipated that (a) both small business concerns and others may submit bids in response to the same invitation and (b) only the small business bidders would need progress payments: 
+As prescribed in 32.502-3(b)(2), insert the following provision in invitations for bids if it is anticipated that (a) both small business concerns and others may submit bids in response to the same invitation and (b) only the small business bidders would need progress payments:
 
 Notice of Availability of Progress Payments Exclusively for Small Business Concerns (APR 1984)
 

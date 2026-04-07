@@ -1,6 +1,6 @@
 ##### 52.211-1 Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29.
 
-As prescribed in 11.204(a), insert the following provision: 
+As prescribed in 11.204(a), insert the following provision:
 
 Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29 (SEP 2023)
 

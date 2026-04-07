@@ -1,6 +1,6 @@
 ##### 252.237-7011 Preparation history.
 
-As prescribed in 237.7003(a) and (a)(8), use the following clause: 
+As prescribed in 237.7003(a) and (a)(8), use the following clause:
 
 Preparation History (DEC 1991)
 

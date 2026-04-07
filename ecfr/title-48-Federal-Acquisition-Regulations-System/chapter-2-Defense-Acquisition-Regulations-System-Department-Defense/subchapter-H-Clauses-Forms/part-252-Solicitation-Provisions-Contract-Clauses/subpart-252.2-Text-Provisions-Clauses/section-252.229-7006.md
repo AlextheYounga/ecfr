@@ -1,6 +1,6 @@
 ##### 252.229-7006 Value Added Tax Exclusion (United Kingdom)
 
-As prescribed in 229.402-70(f), use the follow clause: 
+As prescribed in 229.402-70(f), use the follow clause:
 
 Value Added Tax Exclusion (United Kingdom) (DEC 2011)
 

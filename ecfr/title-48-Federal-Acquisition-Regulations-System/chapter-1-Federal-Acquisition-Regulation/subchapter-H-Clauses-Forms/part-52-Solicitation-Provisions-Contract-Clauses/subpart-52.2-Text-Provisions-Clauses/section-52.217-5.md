@@ -1,6 +1,6 @@
 ##### 52.217-5 Evaluation of Options.
 
-As prescribed in 17.208(c), insert a provision substantially the same as the following: 
+As prescribed in 17.208(c), insert a provision substantially the same as the following:
 
 Evaluation of Options (JUL 1990)
 

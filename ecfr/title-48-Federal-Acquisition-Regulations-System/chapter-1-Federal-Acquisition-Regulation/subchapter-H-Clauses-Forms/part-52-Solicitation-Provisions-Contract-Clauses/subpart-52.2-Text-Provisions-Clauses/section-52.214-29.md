@@ -1,6 +1,6 @@
 ##### 52.214-29 Order of Precedence—Sealed Bidding.
 
-As prescribed in 14.201-7(d), insert the following clause: 
+As prescribed in 14.201-7(d), insert the following clause:
 
 Order of Precedence—Sealed Bidding (JAN 1986)
 

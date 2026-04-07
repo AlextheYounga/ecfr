@@ -1,47 +1,47 @@
 ##### 6.502 Duties and responsibilities.
 
-(a) Agency and procuring activity advocates for competition are responsible for— 
+(a) Agency and procuring activity advocates for competition are responsible for—
 
-(1) Promoting the acquisition of commercial products and commercial services; 
+(1) Promoting the acquisition of commercial products and commercial services;
 
-(2) Promoting full and open competition; 
+(2) Promoting full and open competition;
 
-(3) Challenging requirements that are not stated in terms of functions to be performed, performance required, or essential physical characteristics; 
+(3) Challenging requirements that are not stated in terms of functions to be performed, performance required, or essential physical characteristics;
 
-(4) Challenging barriers to the acquisition of commercial products and commercial services; and 
+(4) Challenging barriers to the acquisition of commercial products and commercial services; and
 
-(5) Challenging barriers to full and open competition such as unnecessarily restrictive statements of work, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses. 
+(5) Challenging barriers to full and open competition such as unnecessarily restrictive statements of work, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
 
-(b) Agency advocates for competition shall— 
+(b) Agency advocates for competition shall—
 
-(1) Review the contracting operations of the agency and identify and report to the agency senior procurement executive and the chief acquisition officer— 
+(1) Review the contracting operations of the agency and identify and report to the agency senior procurement executive and the chief acquisition officer—
 
-(i) Opportunities and actions taken to acquire commercial products and commercial services to meet the needs of the agency; 
+(i) Opportunities and actions taken to acquire commercial products and commercial services to meet the needs of the agency;
 
-(ii) Opportunities and actions taken to achieve full and open competition in the contracting operations of the agency; 
+(ii) Opportunities and actions taken to achieve full and open competition in the contracting operations of the agency;
 
-(iii) Actions taken to challenge requirements that are not stated in terms of functions to be performed, performance required or essential physical characteristics; 
+(iii) Actions taken to challenge requirements that are not stated in terms of functions to be performed, performance required or essential physical characteristics;
 
-(iv) Any condition or action that has the effect of unnecessarily restricting the acquisition of commercial products or commercial services or unnecessarily restricting competition in the contract actions of the agency; 
+(iv) Any condition or action that has the effect of unnecessarily restricting the acquisition of commercial products or commercial services or unnecessarily restricting competition in the contract actions of the agency;
 
-(2) Prepare and submit an annual report to the agency senior procurement executive and the chief acquisition officer in accordance with agency procedures, describing— 
+(2) Prepare and submit an annual report to the agency senior procurement executive and the chief acquisition officer in accordance with agency procedures, describing—
 
-(i) Such advocate's activities under this subpart; 
+(i) Such advocate's activities under this subpart;
 
-(ii) New initiatives required to increase the acquisition of commercial products and commercial services; 
+(ii) New initiatives required to increase the acquisition of commercial products and commercial services;
 
-(iii) New initiatives required to increase competition; 
+(iii) New initiatives required to increase competition;
 
-(iv) New initiatives to ensure requirements are stated in terms of functions to be performed, performance required or essential physical characteristics; 
+(iv) New initiatives to ensure requirements are stated in terms of functions to be performed, performance required or essential physical characteristics;
 
-(v) Any barriers to the acquisition of commercial products, commercial services, or competition that remain; 
+(v) Any barriers to the acquisition of commercial products, commercial services, or competition that remain;
 
-(vi) Other ways in which the agency has emphasized the acquisition of commercial products, commercial services, and competition in areas such as acquisition training and research; and 
+(vi) Other ways in which the agency has emphasized the acquisition of commercial products, commercial services, and competition in areas such as acquisition training and research; and
 
-(vii) Initiatives that ensure task and delivery orders over $1,000,000 issued under multiple award contracts are properly planned, issued, and comply with 8.405 and 16.505. 
+(vii) Initiatives that ensure task and delivery orders over $1.5 million issued under multiple award contracts are properly planned, issued, and comply with 8.405 and 16.505.
 
-(3) Recommend goals and plans for increasing competition on a fiscal year basis to the agency senior procurement executive and the chief acquisition officer; and 
+(3) Recommend goals and plans for increasing competition on a fiscal year basis to the agency senior procurement executive and the chief acquisition officer; and
 
-(4) Recommend to the agency senior procurement executive and the chief acquisition officer a system of personal and organizational accountability for competition, which may include the use of recognition and awards to motivate program managers, contracting officers, and others in authority to promote competition in acquisition. 
+(4) Recommend to the agency senior procurement executive and the chief acquisition officer a system of personal and organizational accountability for competition, which may include the use of recognition and awards to motivate program managers, contracting officers, and others in authority to promote competition in acquisition.
 
-\[60 FR 48236, Sept. 18, 1995, as amended at 67 FR 13053, Mar. 20, 2002; 73 FR 53997, Sept. 17, 2008; 79 FR 24198, Apr. 29, 2014; 86 FR 61020, Nov. 4, 2021\]
+\[60 FR 48236, Sept. 18, 1995, as amended at 67 FR 13053, Mar. 20, 2002; 73 FR 53997, Sept. 17, 2008; 79 FR 24198, Apr. 29, 2014; 86 FR 61020, Nov. 4, 2021; 90 FR 41876, Aug. 27, 2025\]

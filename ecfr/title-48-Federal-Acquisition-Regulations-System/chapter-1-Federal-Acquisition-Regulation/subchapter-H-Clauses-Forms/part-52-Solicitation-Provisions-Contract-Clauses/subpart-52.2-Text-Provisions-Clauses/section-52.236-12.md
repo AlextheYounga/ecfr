@@ -1,6 +1,6 @@
 ##### 52.236-12 Cleaning Up.
 
-As prescribed in 36.512, insert the following clause: 
+As prescribed in 36.512, insert the following clause:
 
 Cleaning Up (APR 1984)
 

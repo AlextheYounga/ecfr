@@ -2,6 +2,6 @@
 
 Note:
 
-The FAR matrix is not carried in the CFR. It is available in the loose-leaf edition.
+The FAR matrix is not carried in the CFR. It is available via the internet at *https://www.acquisition.gov/smart-matrix.*
 
-\[48 FR 42478, Sept. 19, 1983, as amended at 62 FR 40239, July 25, 1997\]
+\[90 FR 20224, May 12, 2025\]

@@ -1,6 +1,6 @@
 ##### 252.227-7026 Deferred delivery of technical data or computer software.
 
-As prescribed at 227.7103-8(a), use the following clause: 
+As prescribed at 227.7103-8(a), use the following clause:
 
 Deferred Delivery of Technical Data or Computer Software (APR 1988)
 

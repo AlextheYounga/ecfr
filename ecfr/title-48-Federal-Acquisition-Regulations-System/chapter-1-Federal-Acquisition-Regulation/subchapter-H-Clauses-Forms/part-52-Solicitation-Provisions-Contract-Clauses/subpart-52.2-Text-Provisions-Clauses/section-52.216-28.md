@@ -1,6 +1,6 @@
 ##### 52.216-28 Multiple Awards for Advisory and Assistance Services.
 
-As prescribed in 16.506(g), insert the following provision: 
+As prescribed in 16.506(g), insert the following provision:
 
 Multiple Awards for Advisory and Assistance Services (OCT 1995)
 

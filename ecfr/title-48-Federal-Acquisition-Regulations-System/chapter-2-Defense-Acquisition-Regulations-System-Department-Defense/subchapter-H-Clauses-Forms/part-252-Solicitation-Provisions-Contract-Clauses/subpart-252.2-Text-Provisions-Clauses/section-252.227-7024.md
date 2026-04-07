@@ -1,6 +1,6 @@
 ##### 252.227-7024 Notice and approval of restricted designs.
 
-As prescribed at 227.7107-3, use the following clause: 
+As prescribed at 227.7107-3, use the following clause:
 
 Notice and Approval of Restricted Designs (APR 1984)
 

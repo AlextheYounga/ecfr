@@ -1,10 +1,10 @@
 ##### 252.227-7009 Reporting and payment of royalties.
 
-As prescribed at 227.7009-4(d), insert the following clause in patent releases, license agreements, and assignments: 
+As prescribed at 227.7009-4(d), insert the following clause in patent releases, license agreements, and assignments:
 
 Reporting and Payment of Royalties (SEP 2019)
 
-(a) The *\[insert the Contracting Officer or the name of the designated office, in accordance with agency procedures\]* shall, on or before the sixtieth (60th) day next following the end of each yearly\* period ending \_\_\_\_\_\_\_\_\_\_\_\_ during which royalties have accrued under this license, deliver to the Contractor, subject to military security regulations, a report in writing furnishing necessary information relative to royalties which have accrued under this contract. 
+(a) The *\[insert the Contracting Officer or the name of the designated office, in accordance with agency procedures\]* shall, on or before the sixtieth (60th) day next following the end of each yearly\* period ending \_\_\_\_\_\_\_\_\_\_\_\_ during which royalties have accrued under this license, deliver to the Contractor, subject to military security regulations, a report in writing furnishing necessary information relative to royalties which have accrued under this contract.
 
 \* The frequency, date, and length of reporting periods should be selected as appropriate to the particular circumstances of the contract.
 

@@ -1,6 +1,6 @@
 ##### 52.223-1 Biobased Product Certification.
 
-As prescribed in 23.109(c)(1), insert the following provision: 
+As prescribed in 23.109(c)(1), insert the following provision:
 
 Biobased Product Certification (MAY 2024)
 

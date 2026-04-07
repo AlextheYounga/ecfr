@@ -1,6 +1,6 @@
 ##### 52.236-26 Preconstruction Conference.
 
-As prescribed in 36.522, insert the following clause: 
+As prescribed in 36.522, insert the following clause:
 
 Preconstruction Conference (FEB 1995)
 

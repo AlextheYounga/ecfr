@@ -1,10 +1,10 @@
 ##### 52.211-3 Availability of Specifications Not Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions.
 
-As prescribed in 11.204(c), insert a provision substantially the same as the following: 
+As prescribed in 11.204(c), insert a provision substantially the same as the following:
 
 Availability of Specifications Not Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions (JUN 1988)
 
-The specifications cited in this solicitation may be obtained from: 
+The specifications cited in this solicitation may be obtained from:
 
 (Activity) address) (Telephone number) (Person to be contacted)
 
