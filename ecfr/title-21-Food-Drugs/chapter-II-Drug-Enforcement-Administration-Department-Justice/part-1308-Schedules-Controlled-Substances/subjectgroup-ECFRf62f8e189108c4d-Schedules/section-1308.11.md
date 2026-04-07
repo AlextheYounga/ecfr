@@ -848,9 +848,9 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (9845) 
 
-(23) N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: valeryl fentanyl)
+(23) N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: Valeryl fentanyl)
 
-(9804) 
+(9840) 
 
 (24) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-fluorobutyryl fentanyl)
 
@@ -872,9 +872,9 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (9847) 
 
-(29) N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: ocfentanil)
+(29) N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: Ocfentanil)
 
-(9832) 
+(9838) 
 
 (30) Fentanyl-related substances, their isomers, esters, ethers, salts and salts of isomers, esters and ethers
 
@@ -909,3 +909,5 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 6\. At 83 FR 4584, Feb. 1, 2018, § 1308.11 was amended by adding paragraphs (h)(23) through (h)(29), effective Feb. 1, 2018, through Feb. 1, 2020.
 
 7\. At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020.
+
+8\. At 83 FR 10368, Mar. 9, 2018, § 1308.11 was amended by revising paragraphs (h)(23) and (h)(29), effective Mar. 9, 2018, through Feb. 1, 2020.
