@@ -9314,7 +9314,7 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 22570, Apr. 28, 2021.
+![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (c) *Reptiles.*
 
@@ -9338,7 +9338,115 @@ Note:
 
 No map.
 
-Mona Ground Iguana (*Cyclura stejnegeri*)
+Northern Mexican Gartersnake (*Thamnophis eques megalops*)
+
+(1) Critical habitat units are depicted for La Paz, Mohave, Yavapai, Gila, Cochise, Santa Cruz, and Pima Counties in Arizona, and in Grant County in New Mexico, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of northern Mexican gartersnake consist of the following components:
+
+(i) Perennial or spatially intermittent streams that provide both aquatic and terrestrial habitat that allows for immigration, emigration, and maintenance of population connectivity of northern Mexican gartersnakes and contain:
+
+(A) Slow-moving water (walking speed) with in-stream pools, off-channel pools, and backwater habitat;
+
+(B) Organic and natural inorganic structural features (*e.g.,* boulders, dense aquatic and wetland vegetation, leaf litter, logs, and debris jams) within the stream channel for thermoregulation, shelter, foraging opportunities, and protection from predators;
+
+(C) Terrestrial habitat adjacent to the stream channel that includes riparian vegetation, small mammal burrows, boulder fields, rock crevices, and downed woody debris for thermoregulation, shelter, foraging opportunities, brumation, and protection from predators; and
+
+(D) Water quality that meets or exceeds applicable State surface water quality standards.
+
+(ii) Hydrologic processes that maintain aquatic and terrestrial habitat through:
+
+(A) A natural flow regime that allows for periodic flooding, or if flows are modified or regulated, a flow regime that allows for the movement of water, sediment, nutrients, and debris through the stream network; and
+
+(B) Physical hydrologic and geomorphic connection between a stream channel and its adjacent riparian areas.
+
+(iii) A combination of amphibians, fishes, small mammals, lizards, and invertebrate species such that prey availability occurs across seasons and years.
+
+(iv) An absence of nonnative fish species of the families Centrarchidae and Ictaluridae, American bullfrogs (*Lithobates catesbeianus*), and/or crayfish (*Orconectes virilis, Procambarus clarki,* etc.), or occurrence of these nonnative species at low enough levels such that recruitment of northern Mexican gartersnakes is not inhibited and maintenance of viable prey populations is still occurring.
+
+(v) Elevations from 130 to 8,497 feet (40 to 2,590 meters).
+
+(vi) Lentic wetlands including off-channel springs, cienegas, and natural and constructed ponds (small earthen impoundment) with:
+
+(A) Organic and natural inorganic structural features (*e.g.,* boulders, dense aquatic and wetland vegetation, leaf litter, logs, and debris jams) within the ordinary high water mark for thermoregulation, shelter, foraging opportunities, brumation, and protection from predators;
+
+(B) Riparian habitat adjacent to ordinary high water mark that includes riparian vegetation, small mammal burrows, boulder fields, rock crevices, and downed woody debris for thermoregulation, shelter, foraging opportunities, and protection from predators; and
+
+(C) Water quality that meets or exceeds applicable State surface water quality standards.
+
+(vii) Ephemeral channels that connect perennial or spatially intermittent perennial streams to lentic wetlands in southern Arizona where water resources are limited.
+
+(3) Critical habitat does not include humanmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 28, 2021.
+
+(4) Data layers defining map units were created included using the U.S. Geological Survey's 7.5′ quadrangles, National Hydrography Dataset, and National Elevation Dataset; the Service's National Wetlands Inventory dataset; and aerial imagery from Google Earth Pro. Line locations for lotic streams (flowing water) and drainages are depicted as the “Flowline” feature class from the National Hydrography Dataset geodatabase. Point locations for lentic sites (ponds) are depicted as “NHDPoint” feature class from the National Hydrography Dataset geodatabase. Extent of riparian habitat surrounding lotic streams and lentic sites is depicted by the greater of the “Wetlands” and “Riparian” features classes of the Service's national Wetlands Inventory dataset and further refined using aerial imagery from Google Earth Pro. Elevation range is masked using the “Elev\_Contour” feature class of the National Elevation Dataset. Administrative boundaries for Arizona and New Mexico were obtained from the Arizona Land Resource Information Service and New Mexico Resource Geographic Information System, respectively. This includes the most current (as of May 28, 2021) geospatial data available for land ownership, counties, States, and streets. Locations depicting critical habitat are expressed as decimal degree latitude and longitude in the World Geographic Coordinate System projection using the 1984 datum (WGS84). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/southwest/es/arizona/,* at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2020-0011, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er28ap21.000.gif)
+
+(6) *Unit 1:* Upper Gila River Subbasin Unit, Grant County, New Mexico.
+
+(i) *General description:* Unit 1 consists of 1,133 acres (ac) (458 hectares (ha)) in Grant County, and is composed of lands in State (22 ac (9 ha)) and private (1,110 ac (449 ha)) ownership in two subunits near the towns of Cliff and Gila.
+
+(ii) *Map:* Map of Unit 1 follows:
+
+![](/graphics/er28ap21.001.gif)
+
+(7) *Unit 2:* Tonto Creek Unit, Gila County, Arizona.
+
+(i) *General description:* Unit 2 consists of 3,176 ac (1,285 ha) in Gila County, and is composed of lands in Federal (2,230 ac (902 ha)) and private (947 ac (383 ha)) ownership near the towns of Gisela and Punkin Center.
+
+(ii) *Map:* Map of Unit 2 follows:
+
+![](/graphics/er28ap21.002.gif)
+
+(8) *Unit 3:* Verde River Subbasin Unit, Yavapai County, Arizona.
+
+(i) *General description:* Unit 3 consists of 5,265 ac (2,131 ha) in Yavapai County, and is composed of lands in Federal (978 ac (396 ha)), State (571 ac (231 ha)), and private (3,715 ac (1,433 ha)) ownership in three subunits near the towns of Cottonwood, Cornville, Page Springs, and Camp Verde.
+
+(ii) *Map:* Map of Unit 3 follows:
+
+![](/graphics/er28ap21.003.gif)
+
+(9) *Unit 4:* Bill Williams River Subbasin Unit, La Paz and Mohave Counties, Arizona.
+
+(i) *General description:* Unit 4 consists of 2,245 ac (908 ha) in La Paz and Mohave Counties, and is composed of lands in Federal (1,119 ac (453 ha)) and private (1,126 ac (456 ha)) ownership in two subunits near the towns of Wikiup and Signal.
+
+(ii) *Map:* Map of Unit 4 follows:
+
+![](/graphics/er28ap21.004.gif)
+
+(10) *Unit 5:* Arivaca Cienega Unit, Pima County, Arizona.
+
+(i) *General description:* Unit 5 consists of 211 ac (86 ha) in Pima County and is composed of lands in Federal (149 ac (60 ha)), State (1 ac (<1 ha)), and private (62 ac (25 ha)) ownership near the town of Arivaca.
+
+(ii) *Map:* Map of Unit 5 follows:
+
+![](/graphics/er28ap21.005.gif)
+
+(11) *Unit 6:* Cienega Creek Subbasin Unit, Pima County, Arizona.
+
+(i) *General description:* Unit 6 consists of 2,083 ac (843 ha) in Pima County and is composed of lands in Federal (1,113 ac (450 ha)), State (366 ac (148 ha)), and private (605 ac (245 ha)) ownership in four subunits near the towns of Tucson, Vail, and Sonoita.
+
+(ii) *Map:* Map of Unit 6 follows:
+
+![](/graphics/er28ap21.006.gif)
+
+(12) *Unit 7:* Upper Santa Cruz River Subbasin Unit, Santa Cruz and Cochise Counties, Arizona.
+
+(i) *General description:* Unit 7 consists of 380 ac (154 ha) in Santa Cruz and Cochise Counties, and is composed of lands in Federal (45 ac (18 ha)), State (111 ac (45 ha)), and private (224 ac (91 ha)) ownership in seven subunits near the towns of Sonoita and Patagonia.
+
+(ii) *Map:* Map of Unit 7 follows:
+
+![](/graphics/er28ap21.007.gif)
+
+(13) *Unit 8:* Upper San Pedro River Subbasin Unit, Cochise and Santa Cruz Counties, Arizona.
+
+(i) *General description:* Unit 8 consists of 5,834 ac (2,355 ha) in Cochise and Santa Cruz Counties, and is composed of lands in Federal (5,197 ac (2,103 ha)), State (8 ac (3 ha)), and private (630 ac (255 ha)) ownership in five subunits near the towns of Sierra Vista and Elgin.
+
+(ii) *Map:* Map of Unit 8 follows:
+
+![](/graphics/er28ap21.008.gif)Mona Ground Iguana (*Cyclura stejnegeri*)
 
 *Commonwealth of Puerto Rico.* Mona Island - entire island.
 
