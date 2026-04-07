@@ -16,7 +16,7 @@
 
 (2) *Instructions for payment of fees by debit card or credit card or via the Automated Clearing House Network (ACH).* To remit a filing fee payment by debit card or credit card or via ACH, please go to the Commission's EDGAR system.
 
-Note 1 to paragraph(b):
+Note 1 to paragraph (b):
 
 Wire transfers and debit card, credit card, and ACH payments are not instantaneous. The time required to process a wire transfer through the FEDWIRE system, from origination to receipt by U.S. Bank, varies substantially. Debit card and credit card payments generally are expected to become available to the Commission the next day. ACH payments generally are expected to become available to the Commission within one to three business days. Specified filings, such as registration statements pursuant to section 6(b) of the Securities Act of 1933 that provide for the registration of securities and mandate the receipt of the appropriate fee payment upon filing, and transactional filings pursuant to the Securities Exchange Act of 1934, such as many proxy statements involving extraordinary business transactions, will not be accepted if sufficient funds have not been received by the Commission at the time of filing.
 
