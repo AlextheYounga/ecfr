@@ -126,8 +126,7 @@ File each of the following as an exhibit to the Schedule:
 
 Calculation of Filing Fee Tables
 
-Table 1 - Transaction Valuation
-
+Table 1—Transaction Valuation
 |                             | Transaction valuation | Fee rate | Amount of   filing fee |
 | --------------------------- | --------------------- | -------- | ---------------------- |
 | Fees to Be Paid             | X                     | X        | X                      |
@@ -138,8 +137,7 @@ Table 1 - Transaction Valuation
 | Total Fee Offsets           |                       |          | X                      |
 | Net Fee Due                 |                       |          | X                      |
 
-Table 2 - Fee Offset Claims and Sources
-
+Table 2—Fee Offset Claims and Sources
 |                    | Registrant   or filer   name | Form   or   filing   type | File   number | Initial   filing   date | Filing   date | Fee offset   claimed | Fee paid   with fee   offset   source |
 | ------------------ | ---------------------------- | ------------------------- | ------------- | ----------------------- | ------------- | -------------------- | ------------------------------------- |
 | Fee Offset Claims  |                              | X                         | X             | X                       |               | X                    |                                       |
@@ -264,5 +262,11 @@ One example could be:
 • the pre-effective amendment to the Form S-1 (333-123456) filed on 2/15/20X1 in relation to the payment of $5,000 out of the payment of $15,000 made with that submission (it would not matter if the filer cited to this pre-effective amendment and/or the initial submission of this Form S-1 (333-123456) on 1/15/20X1 as long as singly or together they were cited as relating to a total of $5,000 in this example).
 
 In this example, the filer could not satisfy the submission identification requirement solely by citing to the Form S-4 (333-123478) filed on 1/15/20X7 because even though the offset claimed and available from that filing was $45,000, the contemporaneous fee payment made with that filing ($15,000) was less than the offset being claimed. As a result, the filer must also identify a prior submission or submissions with an aggregate of contemporaneous fee payment(s) of $30,000 as the original source(s) to which the rest of the claimed offset can be traced.
+
+*Signature.* After due inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+
+(Signature) (Name and title) (Date)
+
+*Instruction to Signature:* The statement must be signed by the filing person or that person's authorized representative. If the statement is signed on behalf of a person by an authorized representative (other than an executive officer of a corporation or general partner of a partnership), evidence of the representative's authority to sign on behalf of the person must be filed with the statement. The name and any title of each person who signs the statement must be typed or printed beneath the signature. See § 240.12b-11 with respect to signature requirements.
 
 \[64 FR 61454, Nov. 10, 1999, as amended at 76 FR 6045, Feb. 2, 2011; 86 FR 70253, Dec. 9, 2021\]
