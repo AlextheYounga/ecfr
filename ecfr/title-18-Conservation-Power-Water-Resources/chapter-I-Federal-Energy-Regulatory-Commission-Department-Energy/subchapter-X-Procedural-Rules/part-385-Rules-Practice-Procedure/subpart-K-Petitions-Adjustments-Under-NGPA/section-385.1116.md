@@ -1,3 +1,5 @@
 ##### § 385.1116 Appeals (Rule 1116).
 
-All actions under this subpart are taken by Staff, except with respect to requests for public information under part 388. Except as provided in Rule 1110 (review of initial adjustment decision) of this section, there are no appeals to the Commission from Staff action taken under this section.
+All actions under this subpart are taken by Staff, except with respect to requests for public information under part 388. Except as provided in Rule 1110 (review of initial adjustment decision) of this section, there are no appeals to the Commission from Staff action taken under this section. This section shall cease to have effect on December 5, 2026, unless the Commission determines that the cessation deadline should be extended to a date not more than 5 years in the future after offering the public an opportunity to provide input on the costs and benefits of this section and considering that input. The Commission will publish a document in the Federal Register announcing its determination and revising or removing this section accordingly.
+
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 914, 90 FR 48408, Oct. 21, 2025\]

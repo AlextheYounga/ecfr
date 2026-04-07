@@ -1,17 +1,15 @@
 ##### § 385.902 Definitions (Rule 902).
 
-For purposes of this subpart: 
+For purposes of this subpart:
 
-(a) *Contested order* means the remedial order, interim remedial order for immediate compliance or order of disallowance being contested in proceeding pursuant to this subpart; 
+(a) *Contested order* means the remedial order being contested in proceeding pursuant to this subpart;
 
-(b) *Interim remedial order for immediate compliance* means an interim remedial order for immediate compliance issued pursuant to 10 CFR 205.199D (interim remedial order of immediate compliance); 
+(b) *Participant* means, as appropriate, the Secretary, the petitioner, and intervenors;
 
-(c) *Order of disallowance* means an order of disallowance issued pursuant to 10 CFR 205.199E (disallowance); 
+(c) *Petitioner* means a person who has received a remedial order who notifies the Secretary that he intends to contest the order;
 
-(d) *Participant* means, as appropriate, the Secretary, the petitioner, and intervenors; 
+(d) *Remedial order* means a remedial order issued pursuant to 10 CFR 205.199B (remedial orders); and
 
-(e) *Petitioner* means a person who has received a remedial order, interim remedial order for immediate compliance, or order of disallowance who notifies the Secretary that he intends to contest the order; 
+(e) *Secretary* means the Secretary of Energy or his delegate.
 
-(f) *Remedial order* means a remedial order issued pursuant to 10 CFR 205.199B (remedial orders); 
-
-(g) *Secretary* means the Secretary of Energy or his delegate.
+\[Order 914, 90 FR 48407, Oct. 21, 2025\]

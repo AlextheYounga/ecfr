@@ -1,13 +1,15 @@
 ##### § 2.15 Specified reasonable rate of return.
 
-(a) Pursuant to section 10(d) of the Federal Power Act, the Commission has determined that the specified reasonable rate of return used in computing amortization reserves for hydroelectric project licenses shall be calculated annually based on current capital ratios developed from an average of 13 monthly balances of amounts properly includible in the licensee's long-term debt and proprietary capital accounts, as listed in the Commission's Uniform System of Accounts. The cost rate for such ratios shall be the weighted average cost of long-term debt and preferred stock for the year, and the cost of common equity shall be the interest rate on 10-year government bonds (reported as the Treasury Department's 10-year constant maturity series) computed on the monthly average for the year in question, plus four percentage points (400 basis points). 
+(a) Pursuant to section 10(d) of the Federal Power Act, the Commission has determined that the specified reasonable rate of return used in computing amortization reserves for hydroelectric project licenses shall be calculated annually based on current capital ratios developed from an average of 13 monthly balances of amounts properly includible in the licensee's long-term debt and proprietary capital accounts, as listed in the Commission's Uniform System of Accounts. The cost rate for such ratios shall be the weighted average cost of long-term debt and preferred stock for the year, and the cost of common equity shall be the interest rate on 10-year government bonds (reported as the Treasury Department's 10-year constant maturity series) computed on the monthly average for the year in question, plus four percentage points (400 basis points).
 
-(b) The Statement of Policy adopted herein shall be effective upon issuance of this order. 
+(b) The Statement of Policy adopted herein shall be effective upon issuance of this order.
 
 (c) The Secretary shall cause prompt publication of this order to be made in the Federal Register.
 
-(d) All requests and suggestions not specifically dealt with herein are hereby denied. 
+(d) All requests and suggestions not specifically dealt with herein are hereby denied.
 
-(e) The Secretary is hereby authorized to change the appropriate license article upon application by the licensees to reflect the specified reasonable rate of return as adopted herein. 
+(e) The Secretary is hereby authorized to change the appropriate license article upon application by the licensees to reflect the specified reasonable rate of return as adopted herein.
 
-\[Order 550, 41 FR 27032, July 1, 1976\]
+(f) This section shall cease to have effect on December 5, 2026, unless the Commission determines that the cessation deadline should be extended to a date not more than 5 years in the future after offering the public an opportunity to provide input on the costs and benefits of this section and considering that input. The Commission will publish a document in the Federal Register announcing its determination and revising or removing this section accordingly.
+
+\[Order 550, 41 FR 27032, July 1, 1976, as amended by Order 914, 90 FR 48401, Oct. 21, 2025\]

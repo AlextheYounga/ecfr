@@ -1,3 +1,5 @@
 ##### § 5.31 Transition provision.
 
-This part shall apply to license applications for which the deadline for filing a notification of intent to seek a new or subsequent license, or for filing a notification of intent to file an original license application, as required by § 5.5 of this part, is July 23, 2005 or later.
+This part shall apply to license applications for which the deadline for filing a notification of intent to seek a new or subsequent license, or for filing a notification of intent to file an original license application, as required by § 5.5 of this part, is July 23, 2005 or later. This section shall cease to have effect on December 5, 2026, unless the Commission determines that the cessation deadline should be extended to a date not more than 5 years in the future after offering the public an opportunity to provide input on the costs and benefits of this section and considering that input. The Commission will publish a document in the Federal Register announcing its determination and revising or removing this section accordingly.
+
+\[Order 2002, 68 FR 51121, Aug. 25, 2003, as amended by Order 914, 90 FR 48402, Oct. 21, 2025\]

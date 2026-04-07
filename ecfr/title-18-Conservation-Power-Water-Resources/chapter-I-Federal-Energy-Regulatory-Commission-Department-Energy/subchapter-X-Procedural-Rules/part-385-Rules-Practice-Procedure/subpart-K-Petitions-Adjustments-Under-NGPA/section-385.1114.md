@@ -1,3 +1,5 @@
 ##### § 385.1114 Motions (Rule 1114).
 
-A party may file a motion at any time. Motions must set forth the ruling or relief requested and must state the grounds therefor and the statutory or other authority relied upon. Staff will rule on all motions.
+A party may file a motion at any time. Motions must set forth the ruling or relief requested and must state the grounds therefor and the statutory or other authority relied upon. Staff will rule on all motions. This section shall cease to have effect on December 5, 2026, unless the Commission determines that the cessation deadline should be extended to a date not more than 5 years in the future after offering the public an opportunity to provide input on the costs and benefits of this section and considering that input. The Commission will publish a document in the Federal Register announcing its determination and revising or removing this section accordingly.
+
+\[Order 225, 47 FR 19022, May 3, 1982, as amended by Order 914, 90 FR 48408, Oct. 21, 2025\]

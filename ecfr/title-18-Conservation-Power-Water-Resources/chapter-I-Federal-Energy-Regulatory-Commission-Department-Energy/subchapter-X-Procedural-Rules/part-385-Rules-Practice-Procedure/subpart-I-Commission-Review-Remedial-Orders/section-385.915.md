@@ -1,5 +1,5 @@
 ##### § 385.915 Off-the-record communications (Rule 915).
 
-The provisions of Rule 2201 (prohibited communications and other communications requiring disclosure) apply to proceedings pursuant to this subpart, commencing at the time the Secretary issues a proposed remedial order under 10 CFR 205.192, an interim remedial order for immediate compliance under 10 CFR 205.199D, or a proposed order of disallowance under 10 CFR 205.199E. 
+The provisions of Rule 2201 (prohibited communications and other communications requiring disclosure) apply to proceedings pursuant to this subpart, commencing at the time the Secretary issues a proposed remedial order under 10 CFR 205.192. This section shall cease to have effect on December 5, 2026, unless the Commission determines that the cessation deadline should be extended to a date not more than 5 years in the future after offering the public an opportunity to provide input on the costs and benefits of this section and considering that input. The Commission will publish a document in the Federal Register announcing its determination and revising or removing this section accordingly.
 
-\[Order 607, 64 FR 51234, Sept. 22, 1999\]
+\[Order 607, 64 FR 51234, Sept. 22, 1999, as amended by Order 914, 90 FR 48407, Oct. 21, 2025\]
