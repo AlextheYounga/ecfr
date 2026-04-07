@@ -24,7 +24,7 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Clean water pump* means a pump that is designed for use in pumping water with a maximum non-absorbent free solid content of 0.016 pounds per cubic foot, and with a maximum dissolved solid content of 3.1 pounds per cubic foot, provided that the total gas content of the water does not exceed the saturation volume, and disregarding any additives necessary to prevent the water from freezing at a minimum of 14 °F.
 
-*Close-coupled pump* means a pump in which the motor shaft also serves as the impeller shaft for the bare pump*.*
+*Close-coupled pump* means a pump in which the motor shaft also serves as the impeller shaft for the bare pump.
 
 *Continuous control* means a control that adjusts the speed of the pump driver continuously over the driver operating speed range in response to incremental changes in the required pump flow, head, or power output.
 
