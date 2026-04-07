@@ -1,6 +1,6 @@
 ##### § 30.61 Table 1, showing the true percent of proof spirit for any indication of the hydrometer at temperatures between zero and 100 degrees Fahrenheit.
 
-This table shows the true percent of proof of distilled spirits for indications of the hydrometer likely to occur in practice at temperatures between zero and 100 degrees Fahrenheit and shall be used in determining the proof of spirits. The left-hand column contains the reading of the hydrometer and on the same horizontal line, in the body of the table, in the “Temperature” column corresponding to the reading of the thermometer is the corrected reading or “true percent of proof.” The table is computed for tenths of a percent.
+This table shows the true percent of proof of distilled spirits for indications of the hydrometer likely to occur in practice at temperatures between zero and 100 degrees Fahrenheit and shall be used in determining the proof of spirits. The left-hand column contains the reading of the hydrometer and on the same horizontal line, in the body of the table, in the “Temperature” column corresponding to the reading of the thermometer is the corrected reading or “true percent of proof.” The table is computed for tenths of a percent. 
 
 Example.
 
