@@ -1,3 +1,5 @@
-##### § 71.47 xxx
+##### § 71.47 Collection of overpayment.
 
-Link to an amendment published at 85 FR 46300, July 31, 2020.
+VA will collect overpayments as defined in § 71.15 pursuant to the Federal Claims Collection Standards.
+
+\[85 FR 46300, July 31, 2020\]

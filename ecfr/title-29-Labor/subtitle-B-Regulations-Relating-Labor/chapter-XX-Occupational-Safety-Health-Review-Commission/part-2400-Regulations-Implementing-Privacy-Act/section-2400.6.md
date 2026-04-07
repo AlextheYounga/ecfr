@@ -20,7 +20,7 @@ The purpose of this section is to provide procedures by which an individual may 
 
 (d) *Accompanying persons.* An individual seeking to review records about himself may be accompanied by another individual of his own choosing. Both the individual seeking access and the individual accompanying him shall be required to sign a form provided by OSHRC indicating that OSHRC is authorized to discuss the contents of the subject record in the presence of both individuals.
 
-(e) *When compliance is possible* - (1) The Privacy Officer shall inform the requester of the determination to grant the request and shall make the record available to the individual in the manner requested, that is, either by forwarding a copy of the information to him or by making it available for review, unless:
+(e) *When compliance is possible.* (1) The Privacy Officer shall inform the requester of the determination to grant the request and shall make the record available to the individual in the manner requested, that is, either by forwarding a copy of the information to him or by making it available for review, unless:
 
 (i) It is impracticable to provide the requester with a copy of a record, in which case the requester shall be so notified, and, in addition, be informed of the procedures set forth in paragraph (b) of this section, or
 

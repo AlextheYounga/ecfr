@@ -54,7 +54,7 @@
 
 (6) *Anticipated legal action.* Nothing in this section shall allow an individual access to any information compiled in reasonable anticipation of a civil action or proceeding.
 
-(c) *Accounting of disclosures* - (1) OSHRC shall maintain an accurate accounting of each disclosure, except for any disclosure made pursuant to paragraphs (b)(2)(i) and (b)(2)(ii) of this section.
+(c) *Accounting of disclosures.* (1) OSHRC shall maintain an accurate accounting of each disclosure, except for any disclosure made pursuant to paragraphs (b)(2)(i) and (b)(2)(ii) of this section.
 
 (2) When an accounting is required under paragraph (c)(1) of this section, the following information shall be recorded: The date, nature, and purpose of each disclosure of a record to any person or to another agency, and the name and address of the person or agency to whom the disclosure is made.
 

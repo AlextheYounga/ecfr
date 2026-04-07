@@ -4,7 +4,7 @@
 
 (ii) *Changes in group health insurance coverage.* Subject to paragraphs (f) and (g)(2) of this section, if a group health plan (including a group health plan that was self-insured on March 23, 2010) or its sponsor enters into a new policy, certificate, or contract of insurance after March 23, 2010 that is effective before November 15, 2010, then the plan ceases to be a grandfathered health plan.
 
-(2) *Disclosure of grandfather status* - (i) To maintain status as a grandfathered health plan, a plan or health insurance coverage must include a statement that the plan or coverage believes it is a grandfathered health plan within the meaning of section 1251 of the Patient Protection and Affordable Care Act, and must provide contact information for questions and complaints, in any summary of benefits provided under the plan.
+(2) *Disclosure of grandfather status.* (i) To maintain status as a grandfathered health plan, a plan or health insurance coverage must include a statement that the plan or coverage believes it is a grandfathered health plan within the meaning of section 1251 of the Patient Protection and Affordable Care Act, and must provide contact information for questions and complaints, in any summary of benefits provided under the plan.
 
 (ii) The following model language can be used to satisfy this disclosure requirement:
 

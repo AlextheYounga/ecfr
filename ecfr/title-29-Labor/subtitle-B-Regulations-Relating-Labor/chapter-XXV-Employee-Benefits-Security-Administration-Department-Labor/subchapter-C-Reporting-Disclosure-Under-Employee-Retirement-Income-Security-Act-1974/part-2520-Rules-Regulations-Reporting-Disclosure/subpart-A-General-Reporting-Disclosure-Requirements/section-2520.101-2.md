@@ -4,7 +4,7 @@
 
 (b) *Definitions.* As used in this section, the following definitions apply:
 
-(1) *Administrator* means - (i) The person specifically so designated by the terms of the instrument under which the MEWA or ECE is operated;
+(1) *Administrator* means—(i) The person specifically so designated by the terms of the instrument under which the MEWA or ECE is operated;
 
 (ii) If the MEWA or ECE is a group health plan and the administrator is not so designated, the plan sponsor (as defined in section 3(16)(B) of ERISA); or
 
@@ -24,7 +24,7 @@
 
 (8) *Operating* means any activity including but not limited to marketing, soliciting, providing, or offering to provide benefits consisting of *medical care.*
 
-(9) *Origination* means, with regard to an ECE, the occurrence of any of the following events (an ECE is considered to have been *originated* only when an event described below occurs) -
+(9) *Origination* means, with regard to an ECE, the occurrence of any of the following events (an ECE is considered to have been *originated* only when an event described below occurs)—
 
 (i) The ECE begins operating with regard to the employees of two or more employers (including one or more self-employed individuals);
 
@@ -34,7 +34,7 @@
 
 (10) *Reporting or to report* means to file the Form M-1 as required pursuant to sections 101(g) of ERISA; § 2520.101-2; or the instructions to the Form M-1.
 
-(11) *Special filing event* means, with regard to an ECE -
+(11) *Special filing event* means, with regard to an ECE—
 
 (i) The ECE begins knowingly operating in any additional State or States that were not indicated on a previous report filed pursuant to paragraph (e)(1)(i) or (f)(2)(i) of this section; or
 
@@ -42,13 +42,13 @@
 
 (12) *State* means *State* within the meaning of § 2590.701-2 of this chapter.
 
-(c) *Persons required to report* - (1) *General rule.* Except as provided in paragraph (c)(2) of this section, the following persons are required to report under this section:
+(c) *Persons required to report*—(1) *General rule.* Except as provided in paragraph (c)(2) of this section, the following persons are required to report under this section:
 
 (i) The administrator of a MEWA regardless of whether the entity is a group health plan; and
 
 (ii) The administrator of an ECE during the three-year period following an event described in paragraph (b)(9) of this section.
 
-(2) *Exceptions* - (i) Nothing in this paragraph (c) shall be construed to require reporting under this section by the administrator of a MEWA or ECE described under this paragraph (c)(2)(i).
+(2) *Exceptions.* (i) Nothing in this paragraph (c) shall be construed to require reporting under this section by the administrator of a MEWA or ECE described under this paragraph (c)(2)(i).
 
 (A) A MEWA or ECE licensed or authorized to operate as a health insurance issuer in every State in which it offers or provides coverage for medical care to employees;
 
@@ -76,7 +76,7 @@ Example 2.(i) *Facts.* Company *B* maintains a group health plan that provides b
 
 (ii) *Conclusion.* In this *Example 2,* the administrator is not required to file the Form M-1 because Company *B's* group health plan meets the exception to the filing requirement in paragraph (c)(2)(ii)(A) of this section. This is because Company *B's* group health plan would not constitute a MEWA but for the fact that it provides coverage to two or more trades or businesses that share a common control interest of at least 25 percent.
 
-Example 3.(i) *Facts.* Company *C* maintains a group health plan that provides benefits for medical care for its employees. The plan year of Company *C's* group health plan is the fiscal year for Company *C,* which is October 1st - September 30th. Therefore, October 1, 2012 - September 30, 2013 is the 2013 plan year. Company *C* decides to sell a portion of its business, Division *Z,* to Company *D.* Company *C* signs an agreement with Company *D* under which Division *Z* will be transferred to Company *D,* effective September 30, 2013. The change in control of Division *Z* therefore occurs on September 30, 2013. Under the terms of the agreement, Company *C* agrees to continue covering all of the employees that formerly worked for Division *Z* under its group health plan until Company *D* has established a new group health plan to cover these employees. Under the terms of the agreement, it is anticipated that Company *C* will not be required to cover the employees of Division *Z* under its group health plan beyond the end of the 2014 plan year, which is the plan year following the plan year in which the change in control of Division *Z* occurred.
+Example 3.(i) *Facts.* Company *C* maintains a group health plan that provides benefits for medical care for its employees. The plan year of Company *C's* group health plan is the fiscal year for Company *C,* which is October 1st—September 30th. Therefore, October 1, 2012—September 30, 2013 is the 2013 plan year. Company *C* decides to sell a portion of its business, Division *Z,* to Company *D.* Company *C* signs an agreement with Company *D* under which Division *Z* will be transferred to Company *D,* effective September 30, 2013. The change in control of Division *Z* therefore occurs on September 30, 2013. Under the terms of the agreement, Company *C* agrees to continue covering all of the employees that formerly worked for Division *Z* under its group health plan until Company *D* has established a new group health plan to cover these employees. Under the terms of the agreement, it is anticipated that Company *C* will not be required to cover the employees of Division *Z* under its group health plan beyond the end of the 2014 plan year, which is the plan year following the plan year in which the change in control of Division *Z* occurred.
 
 (ii) *Conclusion.* In this *Example 3,* the administrator of Company *C's* group health plan is not required to report via the Form M-1 on March 1, 2014 for fiscal year 2013 because it is subject to the exception to the filing requirement in paragraph (c)(2)(ii)(B) of this section for an entity that would not constitute a MEWA but for the fact that it is created by a change in control of businesses that occurs for a purpose other than to avoid filing the Form M-1 and is temporary in nature. Under the exception, “temporary” means the MEWA does not extend beyond the end of the plan year following the plan year in which the change in control occurs. The administrator is not required to file the 2013 Form M-1 annual report because it is anticipated that Company *C* will not be required to cover the employees of Division *Z* under its group health plan beyond the end of the 2014 plan year, which is the plan year following the plan year in which the change in control of businesses occurred.
 
@@ -84,17 +84,17 @@ Example 4.(i) *Facts.* Company *E* maintains a group health plan that provides b
 
 (ii) *Conclusion.* In this *Example 4,* the administrator of Company *E's* group health plan is not required to report via the Form M-1 for calendar year 2013 (a filing that is otherwise due by March 1, 2014) because it is subject to the exception to the filing requirement provided in paragraph (c)(2)(ii)(C) of this section for entities that cover a very small number of persons who are not employees or former employees of the plan sponsor.
 
-(d) *Information to be reported* - (1) Any reporting required by this section shall consist of a completed copy of the Form M-1 Report for Multiple Employer Welfare Arrangements (MEWAs) and Certain Entities Claiming Exception (ECEs) (Form M-1) and any additional statements required pursuant to the instructions for the Form M-1.
+(d) *Information to be reported.* (1) Any reporting required by this section shall consist of a completed copy of the Form M-1 Report for Multiple Employer Welfare Arrangements (MEWAs) and Certain Entities Claiming Exception (ECEs) (Form M-1) and any additional statements required pursuant to the instructions for the Form M-1.
 
-(2) *Rejected filings.* - The Secretary may reject any filing under this section if the Secretary determines that the filing is incomplete, in accordance with § 2560.502c-5 of this chapter.
+(2) *Rejected filings.* The Secretary may reject any filing under this section if the Secretary determines that the filing is incomplete, in accordance with § 2560.502c-5 of this chapter.
 
 (3) If the Secretary rejects a filing under paragraph (d)(2) of this section, and if a revised filing satisfactory to the Secretary is not submitted within 45 days after the notice of rejection, the Secretary may bring a civil action for such relief as may be appropriate (including penalties under section 502(c)(5) of ERISA and § 2560.502c-5 of this chapter).
 
-(e) *Origination, registration, and other non-annual reporting requirements and timing* - (1) *General rule for ECEs* - (i) Except as provided in paragraph (e)(1)(ii) of this section, and subject to the limitations established by paragraph (c)(1)(ii) of this section, when an ECE experiences an event described in paragraphs (b)(9) or (b)(11) of this section, the administrator of the ECE shall file Form M-1 by the 30th day following the date of the event.
+(e) *Origination, registration, and other non-annual reporting requirements and timing*—(1) *General rule for ECEs.* (i) Except as provided in paragraph (e)(1)(ii) of this section, and subject to the limitations established by paragraph (c)(1)(ii) of this section, when an ECE experiences an event described in paragraphs (b)(9) or (b)(11) of this section, the administrator of the ECE shall file Form M-1 by the 30th day following the date of the event.
 
 (ii) *Exception.* Paragraph (e)(1)(i) of this section does not apply to ECEs that experience an origination as described in paragraph (b)(9)(i) of this section. Such entities are required, subject to the limitations established by paragraph (c)(1)(ii) of this section, to file the Form M-1 30 days prior to the date of the event.
 
-(2) *General rule for MEWAs* - (i) *In general.* Except as provided in paragraph (e)(2)(ii) of this section, the administrator of the MEWA is required to register with the Secretary by filing the Form M-1 30 days prior to operating in any State.
+(2) *General rule for MEWAs*—(i) *In general.* Except as provided in paragraph (e)(2)(ii) of this section, the administrator of the MEWA is required to register with the Secretary by filing the Form M-1 30 days prior to operating in any State.
 
 (ii) *Exception.* Paragraph (e)(2)(i) of this section does not apply to MEWAs that, prior to the effective date of this section, were already in operation in a State (or States). Such entities are required to submit an annual filing pursuant to annual reporting rules described in paragraph (f)(2)(i) of this section for that State (or those States).
 
@@ -116,9 +116,9 @@ Example 4.(i) *Facts.* Company *E* maintains a group health plan that provides b
 
 (ii) If the filing deadline set forth in this paragraph (e) is a Saturday, Sunday, or federal holiday, the form must be filed no later than the next business day.
 
-(f) *Annual reporting requirements and timing* - (1) *Period for which reporting is required.* A completed copy of the Form M-1 is required to be filed for each calendar year during all or part of which the MEWA is operating and for each of the three calendar years following an origination during all or part of which the ECE is operating.
+(f) *Annual reporting requirements and timing*—(1) *Period for which reporting is required.* A completed copy of the Form M-1 is required to be filed for each calendar year during all or part of which the MEWA is operating and for each of the three calendar years following an origination during all or part of which the ECE is operating.
 
-(2) *Filing deadline* - (i) *General March 1 filing due date for annual filings.* Except as provided in paragraph (f)(2)(ii) of this section, a completed copy of the Form M-1 is required to be filed on or before each March 1 that follows a period for which reporting is required (as described in paragraph (f)(1) of this section).
+(2) *Filing deadline*—(i) *General March 1 filing due date for annual filings.* Except as provided in paragraph (f)(2)(ii) of this section, a completed copy of the Form M-1 is required to be filed on or before each March 1 that follows a period for which reporting is required (as described in paragraph (f)(1) of this section).
 
 (ii) *Exception.* Paragraph (f)(2)(i) of this section does not apply to ECEs and MEWAs if, between October 1 and December 31, the entity is required to make a filing pursuant to paragraph (e)(1), (2), or (3) of this section and makes that filing timely.
 
@@ -170,7 +170,7 @@ Example 10.(i) *Facts.* Same facts as *Example 9,* but MEWA *E* registers on or 
 
 (g) *Electronic filing.* A completed Form M-1 is filed with the Secretary by submitting it electronically as prescribed in the instructions to the Form M-1.
 
-(h) *Penalties* - (1) *Civil penalties and procedures.* For information on civil penalties under section 502(c)(5) of ERISA for persons who fail to file the information required under this section, see § 2560.502c-5 of this chapter. For information relating to administrative hearings and appeals in connection with the assessment of civil penalties under section 502(c)(5) of ERISA, see §§ 2570.90 through 2570.101 of this chapter.
+(h) *Penalties*—(1) *Civil penalties and procedures.* For information on civil penalties under section 502(c)(5) of ERISA for persons who fail to file the information required under this section, see § 2560.502c-5 of this chapter. For information relating to administrative hearings and appeals in connection with the assessment of civil penalties under section 502(c)(5) of ERISA, see §§ 2570.90 through 2570.101 of this chapter.
 
 (2) *Criminal penalties and procedures.* For information on criminal penalties under section 519 of ERISA for persons who knowingly make false statements or false representation of fact with regards to the information required under this section, see section 501(b) of ERISA.
 
