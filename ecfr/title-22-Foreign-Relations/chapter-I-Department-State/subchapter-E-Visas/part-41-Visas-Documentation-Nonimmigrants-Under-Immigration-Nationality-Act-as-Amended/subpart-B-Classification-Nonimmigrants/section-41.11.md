@@ -8,4 +8,4 @@ Link to an amendment published at 90 FR 37386, Aug. 5, 2025.
 
 (2) In a borderline case in which an alien appears to be otherwise entitled to receive a visa under INA 101(a)(15)(B) or (F) but the consular officer concludes that the maintenance of the alien's status or the departure of the alien from the United States as required is not fully assured, a visa may nevertheless be issued upon the posting of a bond with the Secretary of Homeland Security under terms and conditions prescribed by the consular officer.
 
-\[52 FR 42597, Nov. 5, 1987, as amended at 61 FR 1835, Jan. 24, 1996; 85 FR 74882, Nov. 24, 2020\]
+\[52 FR 42597, Nov. 5, 1987, as amended at 61 FR 1835, Jan. 24, 1996; 85 FR 74882, Nov. 24, 2020\] Effective Date Note:At 90 FR 37386, Aug. 5, 2025, § 41.11 was amended by adding paragraph (c), effective Aug. 20, 2025, until Aug. 5, 2026. At 90 FR 38610, Aug. 11, 2025, paragraph (c) was corrected, effective Aug. 20, 2025, until Aug. 5, 2026.
