@@ -1687,7 +1687,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | MISSOURI             |                                                     |
 | Cape Girardeau       | 22, 32                                              |
 | Columbia             | 17, 27                                              |
-| Hannibal             | 7                                                   |
+| Hannibal             | 22                                                  |
 | Jefferson City       | 20, 29                                              |
 | Joplin               | \*25, 43, 46                                        |
 | Kansas City          | \*18, 24, 29, 30, 31, 34, 42, 47                    |
