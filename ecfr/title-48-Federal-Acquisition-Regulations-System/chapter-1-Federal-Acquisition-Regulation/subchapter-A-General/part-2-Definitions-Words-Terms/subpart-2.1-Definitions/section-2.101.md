@@ -284,7 +284,7 @@
 
 *Direct cost* means any cost that is identified specifically with a particular final cost objective. Direct costs are not limited to items that are incorporated in the end product as material or labor. Costs identified specifically with a contract are direct costs of that contract. All costs identified specifically with other final cost objectives of the contractor are direct costs of those cost objectives.
 
-*Disaster Response Registry* means a voluntary registry of contractors who are willing to perform debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities established in accordance with 6 U.S.C. 796, Registry of Disaster Response Contractors. The Registry contains information on contractors who are willing to perform disaster or emergency relief activities within the United States and its outlying areas. The Registry is accessed via *https://www.acquisition.gov* and alternately through the FEMA Web site at *http://www.fema.gov/business/index.shtm.* (See 26.205.)
+*Disaster Response Registry* means a voluntary registry of contractors who are willing to perform debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities established in accordance with 6 U.S.C. 796, Registry of Disaster Response Contractors. The Registry contains information on contractors who are willing to perform disaster or emergency relief activities within the United States and its outlying areas. The Registry is accessed via the Internet at *https://www.sam.gov,* Search Records, Advanced Search, Disaster Response Registry Search. (See 26.205.)
 
 *Drug-free workplace* means the site(s) for the performance of work done by the contractor in connection with a specific contract where employees of the contractor are prohibited from engaging in the unlawful manufacture, distribution, dispensing, possession, or use of a controlled substance.
 
@@ -394,7 +394,7 @@
 
 (2) Under a delegation of procurement authority issued by the General Services Administration (GSA) prior to August 7, 1996, under authority granted GSA by former section 40 U.S.C. 759, repealed by Pub. L. 104-106. The Economy Act does not apply to orders under a Governmentwide acquisition contract.
 
-*Governmentwide point of entry (GPE)* means the single point where Government business opportunities greater than $25,000, including synopses of proposed contract actions, solicitations, and associated information, can be accessed electronically by the public. The GPE is located at *http://www.fedbizopps.gov.*
+*Governmentwide point of entry (GPE)* means the single point where Government business opportunities greater than $25,000, including synopses of proposed contract actions, solicitations, and associated information, can be accessed electronically by the public. The GPE is located at *https://www.fbo.gov.*
 
 *Head of the agency* (see “agency head”).
 

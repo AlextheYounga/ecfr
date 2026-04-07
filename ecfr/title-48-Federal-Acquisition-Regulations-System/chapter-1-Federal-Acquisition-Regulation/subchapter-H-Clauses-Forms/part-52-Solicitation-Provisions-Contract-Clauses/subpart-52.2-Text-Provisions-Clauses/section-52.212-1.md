@@ -2,7 +2,7 @@
 
 As prescribed in 12.301(b)(1), insert the following provision:
 
-Instructions to Offerors - Commercial Items (JAN 2017)
+Instructions to Offerors - Commercial Items (AUG 2018)
 
 (a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code and small business size standard for this acquisition appear in Block 10 of the solicitation cover sheet (SF 1449). However, the small business size standard for a concern which submits an offer in its own name, but which proposes to furnish an item which it did not itself manufacture, is 500 employees.
 
@@ -14,7 +14,7 @@ Instructions to Offerors - Commercial Items (JAN 2017)
 
 (3) The name, address, and telephone number of the offeror;
 
-(4) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (FEB 2012) (Pub. L. 109-282) (31 U.S.C. 6101 note).
+(4) A technical description of the items being offered in sufficient detail to evaluate compliance with the requirements in the solicitation. This may include product literature, or other documents, if necessary;
 
 (5) Terms of any express warranty;
 

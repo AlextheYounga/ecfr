@@ -42,7 +42,7 @@ The agency head or a designee shall prescribe procedures for -
 
 (2) Comply with the policy in 11.002(d) regarding procurement of biobased products, products containing recovered materials, environmentally preferable products and services (including Electronic Product Environmental Assessment Tool (EPEAT®)-registered electronic products, nontoxic or low-toxic alternatives), ENERGY STAR® and Federal Energy Management Program-designated products, renewable energy, water-efficient products, non-ozone-depleting products, and products and services that minimize or eliminate, when feasible, the use, release, or emission of high global warming potential hydrofluorocarbons, such as by using reclaimed instead of virgin hydrofluorocarbons;
 
-(3) Comply with the Guiding Principles for Federal Leadership in High-Performance and Sustainable Buildings (Guiding Principles), for the design, construction, renovation, repair, or deconstruction of Federal buildings. The Guiding Principles can be accessed at *http://www.wbdg.org/pdfs/hpsb\_guidance.pdf;* and
+(3) Comply with the Guiding Principles for Federal Leadership in High-Performance and Sustainable Buildings (Guiding Principles), for the design, construction, renovation, repair, or deconstruction of Federal buildings. The Guiding Principles can be accessed at *https://www.epa.gov/greeningepa/guiding-principles-federal-leadership-high-performance-and-sustainable-buildings* and
 
 (4) Require contractor compliance with Federal environmental requirements, when the contractor is operating Government-owned facilities or vehicles, to the same extent as the agency would be required to comply if the agency operated the facilities or vehicles.
 
