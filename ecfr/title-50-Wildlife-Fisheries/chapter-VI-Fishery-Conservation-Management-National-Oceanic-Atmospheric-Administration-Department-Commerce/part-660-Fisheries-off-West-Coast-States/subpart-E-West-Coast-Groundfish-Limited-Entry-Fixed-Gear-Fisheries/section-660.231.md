@@ -4,9 +4,7 @@ This section applies to the sablefish primary fishery for the limited entry fixe
 
 (a) *Sablefish endorsement.* In addition to requirements pertaining to fishing in the limited entry fixed gear fishery (described in subparts C and E), a vessel may not fish in the sablefish primary season for the limited entry fixed gear fishery, unless at least one limited entry permit with both a gear endorsement for longline or trap (or pot) gear and a sablefish endorsement is registered for use with that vessel. Permits with sablefish endorsements are assigned to one of three tiers, as described at § 660.25(b)(3)(iv), subpart C.
 
-(b) *Sablefish primary season for the limited entry fixed gear fishery.*
-
-(1) *Season dates.* North of 36° N lat., the sablefish primary season for the limited entry, fixed gear, sablefish-endorsed vessels begins at 12 noon local time on April 1 and closes at 12 noon local time on October 31, or closes for an individual vessel owner when the tier limit for the sablefish endorsed permit(s) registered to the vessel has been reached, whichever is earlier, unless otherwise announced by the Regional Administrator through the routine management measures process described at § 660.60(c).
+(b) *Sablefish primary season for the limited entry fixed gear fishery* - (1) *Season dates.* North of 36° N lat., the sablefish primary season for the limited entry, fixed gear, sablefish-endorsed vessels begins at 12 noon local time on April 1 and closes at 12 noon local time on October 31, or closes for an individual vessel owner when the tier limit for the sablefish endorsed permit(s) registered to the vessel has been reached, whichever is earlier, unless otherwise announced by the Regional Administrator through the routine management measures process described at § 660.60(c).
 
 (2) *Gear type.* During the primary season, when fishing against primary season cumulative limits, each vessel authorized to fish in that season under paragraph (a) of this section may fish for sablefish with any of the gear types, except trawl gear, endorsed on at least one of the sablefish endorsed permits registered for use with that vessel.
 
