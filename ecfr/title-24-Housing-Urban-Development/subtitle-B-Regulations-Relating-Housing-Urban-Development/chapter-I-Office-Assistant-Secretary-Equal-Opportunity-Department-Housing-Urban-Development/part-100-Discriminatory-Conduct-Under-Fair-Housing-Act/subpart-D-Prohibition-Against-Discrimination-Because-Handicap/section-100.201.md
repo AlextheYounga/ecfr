@@ -8,7 +8,7 @@ As used in this subpart:
 
 *Building* means a structure, facility or portion thereof that contains or serves one or more dwelling units.
 
-“*Building entrance on an accessible route*” means an accessible entrance to a building that is connected by an accessible route to public transportation stops, to accessible parking and passenger loading zones, or to public streets or sidewalks, if available. A building entrance that complies with ICC A117.1-2009, ICC/ANSI A117.1-2003, ICC/ANSI A117.1-1998, CABO/ANSI A117.1-1992, ANSI A117.1-1986 (all incorporated by reference, see § 100.201a) or a comparable standard is a “*building entrance on an accessible route*” within the meaning of this paragraph.
+*Building entrance on an accessible route* means an accessible entrance to a building that is connected by an accessible route to public transportation stops, to accessible parking and passenger loading zones, or to public streets or sidewalks, if available. A building entrance that complies with ICC A117.1-2009, ICC/ANSI A117.1-2003, ICC/ANSI A117.1-1998, CABO/ANSI A117.1-1992, ANSI A117.1-1986 (all incorporated by reference, see § 100.201a) or a comparable standard is a “*building entrance on an accessible route*” within the meaning of this paragraph.
 
 *Common use areas* means rooms, spaces or elements inside or outside of a building that are made available for the use of residents of a building or the guests thereof. These areas include hallways, lounges, lobbies, laundry rooms, refuse rooms, mail rooms, recreational areas and passageways among and between buildings.
 
