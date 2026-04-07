@@ -4,7 +4,7 @@
 
 (b) *Contents of the plan of conversion.* The mutual holding company must include the information included in §§ 239.59 through 239.62 and 239.63(b) in the plan of conversion. The Board may require the mutual holding company to delete or revise any provision in the plan of conversion if the Board determines the provision is inequitable; is detrimental to the mutual holding company, the account holders, other mutual holding companies, or other savings associations; or is contrary to public interest.
 
-(c) *Notice of board of directors' approval of the plan of conversion* - (1) *Notice.* The mutual holding company must promptly notify its members that the board of directors adopted a plan of conversion and that a copy of the plan is available for the members' inspection in the mutual holding company's home office and in each of the subsidiary savings association's branch offices. The mutual holding company must mail a letter to each member or publish a notice in the local newspaper in every local community where the savings association has an office. The mutual holding company may also issue a press release. The Board may require broader publication, if necessary, to ensure adequate notice to the members.
+(c) *Notice of board of directors' approval of the plan of conversion*—(1) *Notice.* The mutual holding company must promptly notify its members that the board of directors adopted a plan of conversion and that a copy of the plan is available for the members' inspection in the mutual holding company's home office and in each of the subsidiary savings association's branch offices. The mutual holding company must mail a letter to each member or publish a notice in the local newspaper in every local community where the savings association has an office. The mutual holding company may also issue a press release. The Board may require broader publication, if necessary, to ensure adequate notice to the members.
 
 (2) *Contents of notice.* The mutual holding company may include any of the following statements and descriptions in the letter, notice, or press release.
 
@@ -50,9 +50,7 @@
 
 (xxi) The par value (if any) and approximate number of shares that will be issued and sold in the conversion.
 
-(3) *Other requirements.*
-
-(i) The mutual holding company may not solicit proxies, provide financial statements, describe the benefits of conversion, or estimate the value of the shares upon conversion in the letter, notice, or press release.
+(3) *Other requirements.* (i) The mutual holding company may not solicit proxies, provide financial statements, describe the benefits of conversion, or estimate the value of the shares upon conversion in the letter, notice, or press release.
 
 (ii) If the mutual holding company responds to inquiries about the conversion, it may address only the matters listed in paragraph (c)(2) of this section.
 
