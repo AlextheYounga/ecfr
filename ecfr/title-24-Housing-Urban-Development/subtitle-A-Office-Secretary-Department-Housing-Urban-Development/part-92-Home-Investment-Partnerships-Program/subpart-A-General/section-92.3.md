@@ -1,19 +1,39 @@
-##### § 92.3 Applicability of 2013 regulatory changes.
+##### § 92.3 Applicability of 2025 regulatory changes.
 
-Link to an amendment published at 90 FR 865, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
+This part applies to projects based on when an income determination is made or when the HOME funds for the project were committed, as applicable. Projects where the HOME funds were committed before a certain date may be subject to previous versions of this part. This section provides instruction regarding which version of this part applies.
 
-The regulations of this part, as revised by final rule published on July 24, 2013 are applicable to projects for which HOME funds are committed on or after August 23, 2013, with the exception of the following provisions; 
+(a) *Effective date of this part as it exists on April 20, 2025.* Except as described in this section, this part, as it exists on April 20, 2025 is applicable to projects for which HOME funds are committed on or after April 20, 2025. A participating jurisdiction must perform income determinations in accordance with § 92.203 after April 20, 2025.
 
-(a) Section 92.2, for the definition of commitment, the change which eliminates reservations of funds that are not project-specific to CHDOs as a commitment will be applicable on October 22, 2013 and will be implemented by HUD for deadlines that occur on or after January 1, 2015; 
+(b) *One year compliance period.* Participating jurisdictions are permitted to choose to continue to comply with the requirements of this part as they existed on April 19, 2025 for commitments made on or before April 20, 2026.
 
-(b) Section 92.251, Property Standards, will apply to projects to which funds are committed on or after January 24, 2015; 
+(c) *Delayed compliance date for income determinations.* Participating jurisdictions are permitted to continue to comply with the income determination requirements in accordance with § 92.203 that the participating jurisdiction was implementing on April 19, 2025 until February 5, 2026, or longer as determined by HUD.
 
-(c) Section 92.254(f). Homebuyer program policies, for written policies related to underwriting, responsible lending, and refinancing, will be applicable on January 24, 2014; 
+(d) *Applicability of this part as it exists on April 20, 2025to prior agreement*s. A participating jurisdiction may choose to amend its written agreements for funds committed prior to April 20, 2025 to conform to the requirements of this part, except that:
 
-(d) Section 92.500(d)(1)(C), establishing the separate 5-year deadline for expenditure of CHDO set-aside funds will be applicable on January 1, 2015 and will be implemented by HUD for all deadlines that occur on or after that date; and 
+(1) *Certain cost*s allowed to be reimbursable under *§ 92.206(d)(1) and (2), as effective April 20, 2025* may only be included in written agreements for projects if the participating jurisdiction committed the HOME funds for the project on or after April 20, 2025.
 
-(e) Section 92.504(a), for written policies, procedures, and systems, will be applicable on July 24, 2014. 
+(2) Requesting an increase in maximum per-unit subsidy in accordance with § 92.250(c) is only permitted for projects if the participating jurisdiction committed the HOME funds for the project on or after April 20, 2025.
 
-(f) Section 92.504(d)(2), for financial oversight of projects assisted with HOME funds, will be applicable on July 24, 2014. 
+(3) Use of the revised dollar thresholds for the periods of affordability in §§ 92.252 and 92.254 is only permitted for projects if the participating jurisdiction committed the HOME funds for the project on or after April 20, 2025.
 
-\[78 FR 44666, Aug. 22, 2013\]
+(4) Tenant protections provided in § 92.253, including the tenancy addenda requirements in § 92.253(b) through (d), apply for rental housing projects if the participating jurisdiction committed the HOME funds for the project, entered into the rental assistance contract, or entered into an agreement to provide security deposit assistance on or after April 20, 2025.
+
+(5) The revisions to the roles of community housing development organizations in owning, developing, and sponsoring affordable housing in § 92.300 only apply if the participating jurisdiction committed the community housing development organization set-aside funds for the project on or after April 20, 2025.
+
+(e) The following table summarizes the information provided in this section:
+
+Table 1 to Paragraph (e)—Summary of Effective Dates and Compliance Deadlines
+| 2025 Rule effective date             | April 20, 2025                                                                                                                                                                                                                                                              |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Applicability                        | Rule applies to projects for which HOME funds are committed on or after April 20, 2025.                                                                                                                                                                                     |
+| Compliance Date                      | Participating jurisdictions must set compliance date: as early as April 20, 2025, and no later than April 20, 2026.                                                                                                                                                         |
+| Exceptions for Income Determinations | Participating jurisdictions must set compliance date: as early as April 20, 2025, and no later than April 20, 2026.                                                                                                                                                         |
+|                                      | Participating jurisdictions may continue to calculate income in accordance with the provisions that were being implemented by the participating jurisdiction on April 19, 2025 until compliance date set by the participating jurisdiction, or longer as determined by HUD. |
+| Applicability Limitations            | Listed provisions are not applicable to commitments made to projects prior to April 20, 2025. Participating jurisdictions may not amend written agreements of projects with commitments existing prior to April 20, 2025 to incorporate any of the following provisions:    |
+|                                      | § 92.206(d)(1) and (2).                                                                                                                                                                                                                                                     |
+|                                      | § 92.250(c).                                                                                                                                                                                                                                                                |
+|                                      | §§ 92.252 and 92.254.                                                                                                                                                                                                                                                       |
+|                                      | § 92.253.                                                                                                                                                                                                                                                                   |
+|                                      | § 92.300.                                                                                                                                                                                                                                                                   |
+
+\[90 FR 865, Jan. 6, 2025; 90 FR 16086, Apr. 17, 2025\]
