@@ -4,8 +4,8 @@
 
 (b) World Organization for Animal Health (OIE), 12, rue de Prony 75017 Paris, France, or email oie@oie.int, *http://www.oie.int/eng/normes/Mcode/en\_sommaire.htm.*
 
-(1) Terrestrial Animal Health Code, Chapter 11.5-Bovine Spongiform Encephalopathy, Article 11.5.22 (Surveillance activities), 22nd Edition, 2013.
+(1) Terrestrial Animal Health Code, Chapter 11.5-Bovine Spongiform Encephalopathy, Article 11.5.22 (Surveillance activities), 22nd Edition, 2013. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (Approved by the Office of Management and Budget under control number 0579-0393)

@@ -1,14 +1,14 @@
 ##### § 381.157 Canned boned poultry and baby or geriatric food.
 
-(a) Canned boned poultry shall, unless otherwise specified in this section, be prepared from cooked deboned poultry meat and may contain skin and fat not in excess of natural whole carcass proportions. Gelatin, stabilizers, or similar solidifying or emulsifying agents shall not be added to product labeled “Boned (Kind)—Solid Pack,” but may be added in quantities not in excess of a total of 0.5 percent of the total ingredients in the preparation of other canned boned poultry products and in such cases the common name of the substance shall be included in the name of the product, e.g., “Boned Chicken with Broth—Gelatin Added.”
+(a) Canned boned poultry shall, unless otherwise specified in this section, be prepared from cooked deboned poultry meat and may contain skin and fat not in excess of natural whole carcass proportions. Gelatin, stabilizers, or similar solidifying or emulsifying agents shall not be added to product labeled “Boned (Kind)—Solid Pack,” but may be added in quantities not in excess of a total of 0.5 percent of the total ingredients in the preparation of other canned boned poultry products and in such cases the common name of the substance shall be included in the name of the product, e.g., “Boned Chicken with Broth—Gelatin Added.” 
 
-(b) Canned boned poultry, except poultry within paragraph (c) of this section, shall meet the requirements set forth in Table II. The percentages in Table II shall be calculated on the basis of the total ingredients used in the preparation of the product.
+(b) Canned boned poultry, except poultry within paragraph (c) of this section, shall meet the requirements set forth in Table II. The percentages in Table II shall be calculated on the basis of the total ingredients used in the preparation of the product. 
 
-(c) Canned boned poultry with natural juices (Boned (Kind) with natural juices) shall be prepared from either raw boned poultry or a mixture of raw boned poultry and cooked boned poultry and shall have no liquid added during the preparation of the product.
+(c) Canned boned poultry with natural juices (Boned (Kind) with natural juices) shall be prepared from either raw boned poultry or a mixture of raw boned poultry and cooked boned poultry and shall have no liquid added during the preparation of the product. 
 
-(d) Canned shredded poultry (Shredded Kind), consists of poultry meat reduced to a shredded appearance, from the kind of poultry indicated, with meat, skin, and fat not in excess of the natural whole carcass proportions. Canned shredded poultry from specific parts may include skin or fat in excess of the proportions normally found on a whole carcass, but not in excess of the proportions of skin and fat normal to the particular part or parts; and such product shall be labeled in accordance with § 381.117(d).
+(d) Canned shredded poultry (Shredded Kind), consists of poultry meat reduced to a shredded appearance, from the kind of poultry indicated, with meat, skin, and fat not in excess of the natural whole carcass proportions. Canned shredded poultry from specific parts may include skin or fat in excess of the proportions normally found on a whole carcass, but not in excess of the proportions of skin and fat normal to the particular part or parts; and such product shall be labeled in accordance with § 381.117(d). 
 
-(e) Canned boned poultry shall be prepared as set forth in Table II, items 1, 2, 3, or 4, whichever is applicable.
+(e) Canned boned poultry shall be prepared as set forth in Table II, items 1, 2, 3, or 4, whichever is applicable. 
 
 Table II
 | Product name                                                                                                                                                          | Minimum percent cooked, deboned poultry meat of kind indicated, with skin, fat, and seasoning | Maximum percent liquid that may be added 1 |
@@ -21,7 +21,7 @@ Table II
 | 2 Alternatively, product may be prepared from raw boned poultry in combination with cooked boned poultry so long as the product complies with the specified standard. |                                                                                               |                                            |
 | 3 Total amount of liquid added shall be included in the name of the product; e.g., “Boned Chicken with 25 percent broth.”                                             |                                                                                               |                                            |
 
-(f) Poultry products intended for infant or geriatric use and represented as having a “high meat” content shall contain not less than 18.75 percent cooked, deboned poultry meat of the kind indicated, with seasoning.
+(f) Poultry products intended for infant or geriatric use and represented as having a “high meat” content shall contain not less than 18.75 percent cooked, deboned poultry meat of the kind indicated, with seasoning. 
 
 Table IIa
 | Product name                                                                                                                                                                   | Minimum percent cooked, deboned, poultry meat of kind indicated, with seasoning | Maximum percent liquid that may be added 1 |
