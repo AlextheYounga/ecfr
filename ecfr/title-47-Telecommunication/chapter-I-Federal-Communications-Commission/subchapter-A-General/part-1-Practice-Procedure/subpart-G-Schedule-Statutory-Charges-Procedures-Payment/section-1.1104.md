@@ -1,7 +1,5 @@
 ##### § 1.1104 Schedule of charges for applications and other filings for media services.
 
-Link to an amendment published at 90 FR 17013, Apr. 23, 2025.
-
 Table 1 to § 1.1104
 | Full power commercial and class A television stations     |
 | --------------------------------------------------------- |

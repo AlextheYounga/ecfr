@@ -1,24 +1,24 @@
 ##### § 73.30 Petition for authorization of an allotment in the 1605-1705 kHz band.
 
-(a) Any party interested in operating an AM broadcast station on one of the ten channels in the 1605-1705 kHz band must file a petition for the establishment of an allotment to its community of license. Each petition must include the following information:
+(a) Any party interested in operating an AM broadcast station on one of the ten channels in the 1605-1705 kHz band must file a petition for the establishment of an allotment to its community of license. Each petition must include the following information: 
 
-(1) Name of community for which allotment is sought;
+(1) Name of community for which allotment is sought; 
 
-(2) Frequency and call letters of the petitioner's existing AM operation; and
+(2) Frequency and call letters of the petitioner's existing AM operation; and 
 
-(3) Statement as to whether or not AM stereo operation is proposed for the operation in the 1605-1705 kHz band.
+(3) Statement as to whether or not AM stereo operation is proposed for the operation in the 1605-1705 kHz band. 
 
-(b) Petitions are to be filed during a filing period to be determined by the Commission. For each filing period, eligible stations will be allotted channels based on the following steps:
+(b) Petitions are to be filed during a filing period to be determined by the Commission. For each filing period, eligible stations will be allotted channels based on the following steps: 
 
-(1) Stations are ranked in descending order according to the calculated improvement factor.
+(1) Stations are ranked in descending order according to the calculated improvement factor. 
 
-(2) The station with the highest improvement factor is initially allotted the lowest available channel.
+(2) The station with the highest improvement factor is initially allotted the lowest available channel. 
 
-(3) Successively, each station with the next lowest improvement factor, is allotted an available channel taking into account the possible frequency and location combinations and relationship to previously selected allotments. If a channel is not available for the subject station, previous allotments are examined with respect to an alternate channel, the use of which would make a channel available for the subject station.
+(3) Successively, each station with the next lowest improvement factor, is allotted an available channel taking into account the possible frequency and location combinations and relationship to previously selected allotments. If a channel is not available for the subject station, previous allotments are examined with respect to an alternate channel, the use of which would make a channel available for the subject station. 
 
-(4) When it has been determined that, in accordance with the above steps, no channel is available for the subject station, that station is no longer considered and the process continues to the station with the next lowest improvement factor.
+(4) When it has been determined that, in accordance with the above steps, no channel is available for the subject station, that station is no longer considered and the process continues to the station with the next lowest improvement factor. 
 
-(c) If awarded an allotment, a petitioner will have sixty (60) days from the date of public notice of selection to file an application for construction permit on FCC Form 301. (See §§ 73.24 and 73.37(e) for filing requirements). Unless instructed by the Commission to do otherwise, the application shall specify Model I facilities. (See § 73.14). Upon grant of the application and subsequent construction of the authorized facility, the applicant must file a license application on FCC Form 302.
+(c) If awarded an allotment, a petitioner will have sixty (60) days from the date of public notice of selection to file an application for construction permit on FCC Form 301. (See §§ 73.24 and 73.37(e) for filing requirements). Unless instructed by the Commission to do otherwise, the application shall specify Model I facilities. (See § 73.14). Upon grant of the application and subsequent construction of the authorized facility, the applicant must file a license application on FCC Form 302. 
 
 Note 1:
 
