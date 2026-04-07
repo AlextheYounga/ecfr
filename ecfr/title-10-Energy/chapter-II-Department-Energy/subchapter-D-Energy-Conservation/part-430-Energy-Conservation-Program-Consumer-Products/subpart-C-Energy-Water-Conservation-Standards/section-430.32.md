@@ -665,7 +665,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (3) Ceiling fan light kits manufactured on or after January 1, 2007, and prior to January 21, 2020, with medium screw base sockets must be packaged with medium screw base lamps to fill all sockets. These medium screw base lamps must -
 
-(i) Be compact fluorescent lamps that meet or exceed the following requirements or be as described in paragraph (s)(2)(ii) of this section:
+(i) Be compact fluorescent lamps that meet or exceed the following requirements or be as described in paragraph (s)(3)(ii) of this section:
 
 | Factor                                      | Requirements                                                                                                                    |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -690,7 +690,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 2 Calculate efficacy using measured wattage, rather than rated wattage, and measured lumens to determine product compliance. Wattage and lumen values indicated on products or packaging may not be used in calculation.
 
-(ii) Be light sources other than compact fluorescent lamps that have lumens per watt performance at least equivalent to comparably configured compact fluorescent lamps meeting the energy conservation standards in paragraph (s)(2)(i) of this section.
+(ii) Be light sources other than compact fluorescent lamps that have lumens per watt performance at least equivalent to comparably configured compact fluorescent lamps meeting the energy conservation standards in paragraph (s)(3)(i) of this section.
 
 (4) Ceiling fan light kits manufactured on or after January 1, 2007, and prior January 21, 2020, with pin-based sockets for fluorescent lamps must use an electronic ballast and be packaged with lamps to fill all sockets. These lamp ballast platforms must meet the following requirements:
 
