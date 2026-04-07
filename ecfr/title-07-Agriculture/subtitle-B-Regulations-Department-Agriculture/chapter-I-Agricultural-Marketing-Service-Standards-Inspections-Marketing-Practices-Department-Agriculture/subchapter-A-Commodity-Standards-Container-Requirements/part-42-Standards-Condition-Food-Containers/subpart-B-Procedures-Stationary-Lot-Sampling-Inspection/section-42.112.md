@@ -50,8 +50,8 @@ Table IV—Metal Containers
 | Swell, springer, or flipper (not applicable to gas or pressure packed product nor frozen products)                                | 2                  |
 | Leaker or blown container                                                                                                         | 3                  |
 | Frozen products only:                                                                                                             |                    |
-| (a) Bulging ends 3/16-inch to 1/4-inch beyond lip                                                                                 |                    |
-| (b) Bulging ends more than 1/4-inch beyond lip                                                                                    |                    |
+| (a) Bulging ends 3⁄16-inch to 1⁄4-inch beyond lip                                                                                 |                    |
+| (b) Bulging ends more than 1⁄4-inch beyond lip                                                                                    |                    |
 | Metal drums: leaking filling seal (bung) swell 1                                                                                  | 4                  |
 | 1 Defect classification depends on the severity of the defect.                                                                    |                    |
 
@@ -105,8 +105,8 @@ Table VI—Glass Containers
 | Pits in surface of glass                                      |                    |
 | Sagging surface                                               |                    |
 | Bead (bubble within glass):                                   |                    |
-| (a) 1/8-inch to 1/16-inch in diameter                         |                    |
-| (b) Exceeding 1/8-inch in diameter                            |                    |
+| (a) 1⁄8-inch to 1⁄16-inch in diameter                         |                    |
+| (b) Exceeding 1⁄8-inch in diameter                            |                    |
 | Checked                                                       |                    |
 | Thin spot in glass                                            |                    |
 | Blister (structural defect)                                   |                    |
@@ -122,7 +122,7 @@ Table VI—Glass Containers
 | Sealing tape or cello band (when required):                   |                    |
 | (a) Improperly placed                                         |                    |
 | (b) Not covering juncture of cap and glass                    |                    |
-| (c) Ends overlap by less than 1/2-inch                        |                    |
+| (c) Ends overlap by less than 1⁄2-inch                        |                    |
 | (d) Loose or deteriorating                                    |                    |
 | Missing or torn outer safety seal                             |                    |
 | Inner safety seal—missing, torn, poor seal                    |                    |
@@ -142,8 +142,8 @@ Table VII—Plastic Containers
 | Pits in surface of plastic                                    |                    |
 | Sagging surface                                               |                    |
 | Air bubble within plastic:                                    |                    |
-| (a) 1/8-inch to 1/16-inch in diameter                         |                    |
-| (b) Exceeding 1/8-inch in diameter                            |                    |
+| (a) 1⁄8-inch to 1⁄16-inch in diameter                         |                    |
+| (b) Exceeding 1⁄8-inch in diameter                            |                    |
 | Checked                                                       |                    |
 | Thin spot in plastic                                          |                    |
 | Blister (structural defect)                                   |                    |
@@ -159,7 +159,7 @@ Table VII—Plastic Containers
 | (d) Sealing tape or cello band (when required):               |                    |
 | 1\. Improperly placed                                         |                    |
 | 2\. Not covering juncture of cap and plastic                  |                    |
-| 3\. Ends overlap by less than 1/2-inch                        |                    |
+| 3\. Ends overlap by less than 1⁄2-inch                        |                    |
 | 4\. Loose or deteriorating                                    |                    |
 
 Table VIII—Rigid and Semi-Rigid Containers—Corrugated or Solid Fiberboard, Chipboard, Wood, Paperboard Aseptic Cartons, Polymeric Trays, etc.
@@ -191,8 +191,8 @@ Table VIII—Rigid and Semi-Rigid Containers—Corrugated or Solid Fiberboard, C
 | (a) Primary container                                                                                                                                                                                                                               |                    |
 | (b) Other than primary container                                                                                                                                                                                                                    |                    |
 | Flap:                                                                                                                                                                                                                                               |                    |
-| (a) Projects beyond edge of container more than 1/4-inch                                                                                                                                                                                            |                    |
-| (b) Does not meet properly, allowing space of more than 1/4-inch                                                                                                                                                                                    |                    |
+| (a) Projects beyond edge of container more than 1⁄4-inch                                                                                                                                                                                            |                    |
+| (b) Does not meet properly, allowing space of more than 1⁄4-inch                                                                                                                                                                                    |                    |
 | Sealing tape or strapping (when required):                                                                                                                                                                                                          |                    |
 | (a) Missing                                                                                                                                                                                                                                         |                    |
 | (b) Improperly placed or applied                                                                                                                                                                                                                    |                    |
@@ -208,15 +208,15 @@ Table VIII—Rigid and Semi-Rigid Containers—Corrugated or Solid Fiberboard, C
 | (d) Presence of any permanent deformation, such that deformed area is discolored or roughened in texture                                                                                                                                            |                    |
 | Lid material:                                                                                                                                                                                                                                       |                    |
 | (a) Closure seal not continuous along tray flange surface                                                                                                                                                                                           | 6                  |
-| (b) Foldover wrinkle in seal area extends into the closure seal such that the closure seal is reduced to less than 1/8-inch                                                                                                                         | 7                  |
+| (b) Foldover wrinkle in seal area extends into the closure seal such that the closure seal is reduced to less than 1⁄8-inch                                                                                                                         | 7                  |
 | (c) Any impression or design on the seal surfaces which conceals or impairs visual detection of seal defects                                                                                                                                        |                    |
 | (d) Areas of “wave-like” striations or wrinkles along the seal area that spans the entire width of seal                                                                                                                                             |                    |
 | (e) Abrasion of lid material:                                                                                                                                                                                                                       |                    |
-| 1\. Within 1/16-inch of food product edge of seal such that barrier layer is exposed                                                                                                                                                                | 8                  |
-| 2\. Greater than 1/16-inch from food product edge of seal that barrier layer is exposed                                                                                                                                                             |                    |
-| (f) Presence of entrapped matter within 1/16-inch of the food product edge of seal or entrapped moisture or vapor with 1/16-inch of the food product edge of seal that results in less than 1/16-inch of defect free seal width at the outside edge | 9                  |
-| (g) Presence of any seal defect or anomaly (for example, entrapped moisture, gases, etc.) within 1/16-inch of food product edge of seal                                                                                                             |                    |
-| (h) Closure seal width less than 1/8-inch                                                                                                                                                                                                           |                    |
+| 1\. Within 1⁄16-inch of food product edge of seal such that barrier layer is exposed                                                                                                                                                                | 8                  |
+| 2\. Greater than 1⁄16-inch from food product edge of seal that barrier layer is exposed                                                                                                                                                             |                    |
+| (f) Presence of entrapped matter within 1⁄16-inch of the food product edge of seal or entrapped moisture or vapor with 1⁄16-inch of the food product edge of seal that results in less than 1⁄16-inch of defect free seal width at the outside edge | 9                  |
+| (g) Presence of any seal defect or anomaly (for example, entrapped moisture, gases, etc.) within 1⁄16-inch of food product edge of seal                                                                                                             |                    |
+| (h) Closure seal width less than 1⁄8-inch                                                                                                                                                                                                           |                    |
 
 Table IX—Flexible Containers
 
@@ -258,7 +258,7 @@ Table IX—Flexible Containers
 | (a) Non-heat processed                                                                                                                                                             |                    |
 | (b) Heat processed                                                                                                                                                                 | 3                  |
 | Flexible pop-top:                                                                                                                                                                  |                    |
-| (a) Poor seal (wrinkle, entrapped matter, etc.) reducing intact seal to less than 1/16-inch                                                                                        | 4                  |
+| (a) Poor seal (wrinkle, entrapped matter, etc.) reducing intact seal to less than 1⁄16-inch                                                                                        | 4                  |
 | (b) Short pull tab (materially affecting usability)                                                                                                                                |                    |
 | (c) Missing pull tab                                                                                                                                                               |                    |
 | (d) Torn pull tab (materially affecting usability)                                                                                                                                 |                    |
@@ -278,22 +278,22 @@ Table IX—Flexible Containers
 | Air bubble in plastic                                                                                                                                                              |                    |
 | Thermostabilized products (includes but not limited to tubes, pouches, etc.):                                                                                                      |                    |
 | Foldover wrinkle in seal area (thermostabilized pouches):                                                                                                                          |                    |
-| (a) Extends through all plies across seal area or reduces seal less than 1/16-inch                                                                                                 | 7                  |
-| (b) Does not extend through all plies and effective seal is 1/16-inch or greater                                                                                                   |                    |
+| (a) Extends through all plies across seal area or reduces seal less than 1⁄16-inch                                                                                                 | 7                  |
+| (b) Does not extend through all plies and effective seal is 1⁄16-inch or greater                                                                                                   |                    |
 | Incomplete seal (thermostabilized pouches)                                                                                                                                         | 8                  |
 | Non-bonding seal (thermostabilized pouches)                                                                                                                                        | 9                  |
-| Laminate separation in body of pouch or in seal within 1/16-inch of food product edge:                                                                                             |                    |
+| Laminate separation in body of pouch or in seal within 1⁄16-inch of food product edge:                                                                                             |                    |
 | (a) If food contact layer is exposed                                                                                                                                               | 10                 |
 | (b) If food contact surface is exposed after manipulation or laminate separation expands after manipulation                                                                        |                    |
-| (c) If lamination separation is limited to isolated spots that do not propagate with manipulation or is outer ply separation in seal within 1/16-inch of food product edge of seal |                    |
+| (c) If lamination separation is limited to isolated spots that do not propagate with manipulation or is outer ply separation in seal within 1⁄16-inch of food product edge of seal |                    |
 | Flex cracks (cracks in foil layer only)                                                                                                                                            |                    |
 | Swollen container                                                                                                                                                                  | 11                 |
-| Blister (in seal) reducing intact seal to less than 1/16-inch                                                                                                                      | 12                 |
-| Compressed seal (overheated to bubble or expose inner layer) reducing intact seal to less than 1/16-inch                                                                           | 13                 |
+| Blister (in seal) reducing intact seal to less than 1⁄16-inch                                                                                                                      | 12                 |
+| Compressed seal (overheated to bubble or expose inner layer) reducing intact seal to less than 1⁄16-inch                                                                           | 13                 |
 | Stringy seal (excessive plastic threads showing at edge of seal area)                                                                                                              |                    |
-| Contaminated seal (entrapped matter) reducing intact seal to less than 1/16-inch                                                                                                   | 14                 |
-| Seal creep (product in pouch “creeping” into seal) reducing intact seal to less than 1/16 inch                                                                                     | 15                 |
-| Misaligned or crooked seal reducing intact seal to less than 1/16-inch                                                                                                             | 16                 |
+| Contaminated seal (entrapped matter) reducing intact seal to less than 1⁄16-inch                                                                                                   | 14                 |
+| Seal creep (product in pouch “creeping” into seal) reducing intact seal to less than 1⁄16 inch                                                                                     | 15                 |
+| Misaligned or crooked seal reducing intact seal to less than 1⁄16-inch                                                                                                             | 16                 |
 | Seal formed greater than 1-inch from edge of pouch (unclosed edge flaps)                                                                                                           |                    |
 | Waffling (embossing on surface from retort racks; not scorable unless severe)                                                                                                      |                    |
 | Poor or missing tear notch (when required)                                                                                                                                         |                    |
