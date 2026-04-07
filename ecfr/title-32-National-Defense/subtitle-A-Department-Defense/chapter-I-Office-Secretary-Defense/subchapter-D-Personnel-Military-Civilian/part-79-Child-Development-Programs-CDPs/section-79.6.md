@@ -92,15 +92,15 @@
 
 (i) Minimum prescribed construction standards:
 
-(A) For all Marine Corps, Navy, and Air Force CDC facility construction, the Unified Facilities Criteria (UFC) 4-740-14, “Design: Child Development Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_4\_740\_14.pdf*) apply.
+(A) For all Marine Corps, Navy, and Air Force CDC facility construction, the Unified Facilities Criteria (UFC) 4-740-14, “Design: Child Development Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_\_4\_\_740\_\_14.pdf*) apply.
 
-(B) For all Army CDC facility construction, the Army Standard for Child Development Centers (see *https://mrsi.usace.army.mil/fdt/Army%20Standards/CDC%20age%206wk%20to%205yr%20Army%20Standard.pdf*) apply.
+(B) For all Army CDC facility construction, the Army Standard for Child Development Centers (see *https://mrsi.usace.army.mil/fdt/Army%20Standards/ CDC%20age%206 wk%20to%205yr% 20Army%20Standard.pdf*) apply.
 
-(C) When SAC is provided in youth facilities, UFC 4-740-06, “Youth Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_4\_740\_06.pdf*) and Service-specific exceptions to the UFC apply.
+(C) When SAC is provided in youth facilities, UFC 4-740-06, “Youth Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_\_4\_\_740\_\_06.pdf*) and Service-specific exceptions to the UFC apply.
 
 (D) State and local construction standards may be used but are not required, except if the CDC facility is located on an area over which the United States has no legislative jurisdiction and then only if State and local standards are more stringent than those in UFC 4-740-14.
 
-(ii) All facilities shall comply with the structural requirements of the National Fire Protection Association 101, “Life Safety Code®” 2012 (available at *http://www.nfpa.org/aboutthecodes/AboutTheCodes.asp?DocNum=101&cookie%5Ftest=1*)
+(ii) All facilities shall comply with the structural requirements of the National Fire Protection Association 101, “Life Safety Code®” 2012 (available at *http://www.nfpa.org/aboutthecodes/ AboutTheCodes.asp?DocNum=101& cookie%5Ftest=1*)
 
 (4) *Oversight.*
 
