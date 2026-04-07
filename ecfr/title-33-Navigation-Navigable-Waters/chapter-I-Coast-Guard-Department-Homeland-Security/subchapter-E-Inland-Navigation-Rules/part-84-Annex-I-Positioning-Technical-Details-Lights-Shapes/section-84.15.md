@@ -8,7 +8,7 @@
 
 (ii) If it is impracticable to comply with paragraph (b)(i) of this section by exhibiting only one all-round light, two all-round lights shall be used suitably positioned or screened to appear, as far as practicable, as one light at a minimum distance of one nautical mile.
 
-Note to paragraph (b(ii)):
+Note 1 to paragraph (b)(ii):
 
 Two unscreened all-round lights that are 1.28 meters apart or less will appear as one light to the naked eye at a distance of one nautical mile.
 
