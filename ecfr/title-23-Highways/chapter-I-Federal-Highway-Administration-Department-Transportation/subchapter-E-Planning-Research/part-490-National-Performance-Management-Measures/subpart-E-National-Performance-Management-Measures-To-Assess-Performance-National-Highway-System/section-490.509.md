@@ -26,4 +26,4 @@ Annual Volume = AADT × 365 days
 
 (h) Annual vehicle miles traveled (VMT) needed to calculate the GHG measure in § 490.507(b) shall come from the best available data that represents the prior calendar year and is consistent, to the maximum extent practicable, with data submitted to HPMS. The VMT data needed to calculate the GHG metric in § 490.511(c) for the reference year, shall be the HPMS data as of November 30, 2023.
 
-\[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018; 88 FR 85392, Dec. 7, 2023\]
+\[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018; 88 FR 85392, Dec. 7, 2023\] Link to an amendment published at 90 FR 16466, Apr. 18, 2025.
