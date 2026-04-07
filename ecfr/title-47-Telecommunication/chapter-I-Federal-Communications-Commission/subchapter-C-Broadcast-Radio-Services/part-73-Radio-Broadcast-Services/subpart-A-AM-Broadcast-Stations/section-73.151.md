@@ -14,7 +14,7 @@ The performance of a directional antenna may be verified either by field strengt
 
 (2) A tabulation of:
 
-(i) The phase difference of the current in each element with respect to the reference element, and whether the current leads ( + ) or lags (−) the current in the reference element, as indicated by the station's antenna monitor.
+(i) The phase difference of the current in each element with respect to the reference element, and whether the current leads (+) or lags (−) the current in the reference element, as indicated by the station's antenna monitor.
 
 (ii) The ratio of the amplitude of the radio frequency current in each element to the current in the reference element, as indicated on the station's antenna monitor.
 
