@@ -14,7 +14,7 @@ The term “total reserves” does not, however, include deficiency reserves (wi
 
 (c) *Information to be filed.* In any case where reserves are claimed, sufficient information must be filed with the return to enable the district director to determine the validity of the claim. See section 6012 and paragraph (c) of § 1.6012-2. If the basis (for Federal income tax purposes) for determining the amount of any of the life insurance reserves as of the close of the taxable year differs from the basis for such determination as of the beginning of the taxable year then the following information must be filed with respect to all such changes in basis:
 
-(1) The nature of the life insurance reserve (i.e., life, annuity, etc.);
+(1) The nature of the life insurance reserve (*i.e.*, life, annuity, etc.);
 
 (2) The mortality or morbidity table, assumed rate of interest, method used in computing or estimating such reserve on the old basis, and the amount of such reserve at the beginning and close of the taxable year computed on the old basis;
 
