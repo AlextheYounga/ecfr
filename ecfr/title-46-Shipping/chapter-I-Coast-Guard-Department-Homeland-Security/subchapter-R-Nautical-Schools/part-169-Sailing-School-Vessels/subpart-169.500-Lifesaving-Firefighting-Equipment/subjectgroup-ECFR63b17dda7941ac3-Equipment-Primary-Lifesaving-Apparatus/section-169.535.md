@@ -1,6 +1,6 @@
 ##### § 169.535 Required equipment for lifefloats.
 
-Each lifefloat must be equipped in accordance with Table 169.535. The equipment is described in § 169.537.
+Each lifefloat must be equipped in accordance with Table 169.535. The equipment is described in § 169.537. 
 
 Table 169.535
 | Letter identification and Item | Number required for each lifefloat |

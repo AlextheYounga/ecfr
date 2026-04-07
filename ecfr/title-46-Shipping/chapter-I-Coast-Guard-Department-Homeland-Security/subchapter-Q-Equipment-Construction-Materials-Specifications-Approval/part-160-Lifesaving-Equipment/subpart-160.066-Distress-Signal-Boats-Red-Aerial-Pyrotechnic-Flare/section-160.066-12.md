@@ -1,40 +1,40 @@
 ##### § 160.066-12 Operational tests.
 
-(a) The procedure for conducting operational tests is described in figure (1).
+(a) The procedure for conducting operational tests is described in figure (1). 
 
-(1) An “accept lot” decision must be reached in order to pass the operational tests.
+(1) An “accept lot” decision must be reached in order to pass the operational tests. 
 
-(2) If a “reject lot” decision is reached, the entire lot is rejected.
+(2) If a “reject lot” decision is reached, the entire lot is rejected. 
 
-(3) Signals from “reject lots” may be reworked by the manufacturer to correct the deficiency for which they were rejected and be resubmitted for inspection. Records shall be kept of the reasons for rejection, the reworking performed on the “reject lot”, and the result of the second test. Signals from “reject lots” may not, unless subsequently accepted, be sold or offered for sale as being in compliance with this specification.
+(3) Signals from “reject lots” may be reworked by the manufacturer to correct the deficiency for which they were rejected and be resubmitted for inspection. Records shall be kept of the reasons for rejection, the reworking performed on the “reject lot”, and the result of the second test. Signals from “reject lots” may not, unless subsequently accepted, be sold or offered for sale as being in compliance with this specification. 
 
-(b) Each signal selected for the operational tests must be conditioned by:
+(b) Each signal selected for the operational tests must be conditioned by: 
 
-(1) Being submerged under at least 25 mm (1 in.) of water for 24 hours without any protection other than its waterproofing; or
+(1) Being submerged under at least 25 mm (1 in.) of water for 24 hours without any protection other than its waterproofing; or 
 
-(2) If waterproofing is provided by a sealed plastic bag or other waterproof packaging, submersion under 25 mm (1 in.) of water for 24 hours in the packaging, followed immediately by submersion under 25 mm (1 in.) of water for 10 minutes with the signal removed from the packaging.
+(2) If waterproofing is provided by a sealed plastic bag or other waterproof packaging, submersion under 25 mm (1 in.) of water for 24 hours in the packaging, followed immediately by submersion under 25 mm (1 in.) of water for 10 minutes with the signal removed from the packaging. 
 
-(c) After each signal selected has undergone the conditioning required by paragraph (b) of this section it must be fired as described by the manufacturer's operating instructions. The following data as observed must be recorded for each signal:
+(c) After each signal selected has undergone the conditioning required by paragraph (b) of this section it must be fired as described by the manufacturer's operating instructions. The following data as observed must be recorded for each signal: 
 
-(1) Burning time of the pyrotechnic candle;
+(1) Burning time of the pyrotechnic candle; 
 
-(2) Color;
+(2) Color; 
 
-(3) Whether the pyrotechnic candle burns out above, at, or below the level of launch.
+(3) Whether the pyrotechnic candle burns out above, at, or below the level of launch. 
 
-(d) A signal fails the operational tests if:
+(d) A signal fails the operational tests if: 
 
-(1) It fails to fire,
+(1) It fails to fire, 
 
-(2) The pyrotechnic candle fails to ignite,
+(2) The pyrotechnic candle fails to ignite, 
 
-(3) The pyrotechnic candle continues to burn after it falls back to the level of launch,
+(3) The pyrotechnic candle continues to burn after it falls back to the level of launch, 
 
-(4) The observed color is other than vivid red, or
+(4) The observed color is other than vivid red, or 
 
-(5) The burning time is less than 5.5 seconds.
+(5) The burning time is less than 5.5 seconds. 
 
-(e) A lot is rejected if a “reject lot” decision is reached using Figure (1) and Table 1 after completion of the operational tests.
+(e) A lot is rejected if a “reject lot” decision is reached using Figure (1) and Table 1 after completion of the operational tests. 
 
 ![](/graphics/ec03mr91.016.gif)
 

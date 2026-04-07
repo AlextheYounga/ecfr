@@ -1,6 +1,6 @@
 ##### § 111.25-15 Duty cycle.
 
-Each motor must be rated for continuous duty, except a motor for an application listed in Table 111.25-15 or a similar duty must meet the minimum short-time rating stated in the table.
+Each motor must be rated for continuous duty, except a motor for an application listed in Table 111.25-15 or a similar duty must meet the minimum short-time rating stated in the table. 
 
 Table 111.25-15
 | Application of motor                   | Minimum short-time rating of motor, in hours                            |

@@ -1,6 +1,6 @@
 ##### § 42.20-15 Freeboard tables.
 
-(a) *Type “A” vessel.* (1) The tabular freeboard for Type “A” vessel shall be determined from table 42.20-15(a)(1):
+(a) *Type “A” vessel.* (1) The tabular freeboard for Type “A” vessel shall be determined from table 42.20-15(a)(1): 
 
 Table 42.20-15(a)(1)—Freeboard Table for Type “A” Vessels
 | Length of vessel (feet)                                                                    | Freeboard 1 (inches) |
@@ -122,7 +122,7 @@ Table 42.20-15(a)(1)—Freeboard Table for Type “A” Vessels
 | 1 Freeboards at intermediate lengths of vessels shall be obtained by linear interpolation. |                      |
 | 2 Vessels above 1,200 feet in length shall be dealt with by the Commandant.                |                      |
 
-(b) *Type “B” vessels.* (1) The tabular freeboard for Type “B” vessels shall be determined from table 42.20-15(b)(1):
+(b) *Type “B” vessels.* (1) The tabular freeboard for Type “B” vessels shall be determined from table 42.20-15(b)(1): 
 
 Table 42.20-15(b)(1)—Freeboard Table for Type “B” Vessels
 | Length of vessel (feet)                                                                   | Freeboard 1 (inches) |

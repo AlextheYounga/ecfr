@@ -1,8 +1,8 @@
 ##### § 160.050-2 Types and sizes.
 
-(a) *Type.* Life buoys shall be of the annular ring type as described in this subpart, but alternate arrangements meeting the performance requirements set forth will be given special consideration.
+(a) *Type.* Life buoys shall be of the annular ring type as described in this subpart, but alternate arrangements meeting the performance requirements set forth will be given special consideration. 
 
-(b) *Sizes.* Ring life buoys shall be of the sizes set forth in Table 160.050-2(b). A tolerance of a plus or minus 5 percent will be allowable on the dimensions indicated in Table 160.050-2(b).
+(b) *Sizes.* Ring life buoys shall be of the sizes set forth in Table 160.050-2(b). A tolerance of a plus or minus 5 percent will be allowable on the dimensions indicated in Table 160.050-2(b). 
 
 Table 160.050-2(b)—Sizes and Dimensions of Ring Life Buoys
 | Size    | Dimensions (inches) Finished ring |

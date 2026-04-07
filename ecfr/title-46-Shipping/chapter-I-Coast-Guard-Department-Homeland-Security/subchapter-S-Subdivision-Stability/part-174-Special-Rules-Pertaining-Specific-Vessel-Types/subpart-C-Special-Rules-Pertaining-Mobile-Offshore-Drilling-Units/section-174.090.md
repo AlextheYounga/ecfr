@@ -1,10 +1,10 @@
 ##### § 174.090 Permeability of spaces.
 
-When doing the calculations required in § 174.065—
+When doing the calculations required in § 174.065— 
 
-(a) The permeability of a floodable space, other than a machinery space, must be as listed in Table 174.090; and
+(a) The permeability of a floodable space, other than a machinery space, must be as listed in Table 174.090; and 
 
-(b) Calculations in which a machinery space is treated as a floodable space must be based on an assumed machinery space permeability of 85%, unless the use of an assumed permeability of less than 85% is justified in detail.
+(b) Calculations in which a machinery space is treated as a floodable space must be based on an assumed machinery space permeability of 85%, unless the use of an assumed permeability of less than 85% is justified in detail. 
 
 Table 174.090—Permeability
 | Spaces and tanks                                                                                                           | Permeability (percent) |

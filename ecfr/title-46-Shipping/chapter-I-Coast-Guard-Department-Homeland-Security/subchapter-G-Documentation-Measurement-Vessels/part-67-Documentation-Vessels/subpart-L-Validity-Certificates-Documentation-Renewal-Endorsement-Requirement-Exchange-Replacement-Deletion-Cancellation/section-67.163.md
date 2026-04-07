@@ -1,14 +1,14 @@
 ##### § 67.163 Renewal of endorsement.
 
-(a) *Requirement for renewal of endorsement.* Endorsements on Certificates of Documentation are valid for 1 year, except for Recreational Endorsements on Certificates of Documentation, which are valid for 1, 2, 3, 4, or 5 years. However, a Certificate of Documentation with a Recreational Endorsement and a Commercial Endorsement will only be valid for 1 year. Prior to the expiration of an endorsement, the owner of a vessel, which is not exempt from the requirement for documentation under paragraph (c) of § 67.9, must apply for renewal of the endorsement(s) by complying with paragraph (b) of this section. The owner of a vessel exempt from the requirement for documentation under paragraph (c) of § 67.9 must either:
+(a) *Requirement for renewal of endorsement.* Endorsements on Certificates of Documentation are valid for 1 year, except for Recreational Endorsements on Certificates of Documentation, which are valid for 1, 2, 3, 4, or 5 years. However, a Certificate of Documentation with a Recreational Endorsement and a Commercial Endorsement will only be valid for 1 year. Prior to the expiration of an endorsement, the owner of a vessel, which is not exempt from the requirement for documentation under paragraph (c) of § 67.9, must apply for renewal of the endorsement(s) by complying with paragraph (b) of this section. The owner of a vessel exempt from the requirement for documentation under paragraph (c) of § 67.9 must either: 
 
-(1) Apply for renewal of the endorsement by complying with paragraph (b) of this section; or
+(1) Apply for renewal of the endorsement by complying with paragraph (b) of this section; or 
 
-(2) Place the Certificate of Documentation on deposit in accordance with § 67.165.
+(2) Place the Certificate of Documentation on deposit in accordance with § 67.165. 
 
-(b) *Renewal application.* The owner of a vessel must apply for renewal of each endorsement by executing a Vessel Renewal Notification, Application for Renewal (CG-1280) certifying that the information contained in the Certificate of Documentation and any endorsement(s) thereon remains accurate, and that the Certificate has not been lost, mutilated, or wrongfully withheld. The completed CG-1280 must be sent to the Director, National Vessel Documentation Center.
+(b) *Renewal application.* The owner of a vessel must apply for renewal of each endorsement by executing a Vessel Renewal Notification, Application for Renewal (CG-1280) certifying that the information contained in the Certificate of Documentation and any endorsement(s) thereon remains accurate, and that the Certificate has not been lost, mutilated, or wrongfully withheld. The completed CG-1280 must be sent to the Director, National Vessel Documentation Center. 
 
-(c) *Requirement for renewal of recreational endorsements.* A Certificate of Documentation for a recreational vessel and the renewal of such a certificate will be effective for 1, 2, 3, 4, or 5 years for such a Certificate of Documentation for such vessel or the renewal thereof.
+(c) *Requirement for renewal of recreational endorsements.* A Certificate of Documentation for a recreational vessel and the renewal of such a certificate will be effective for 1, 2, 3, 4, or 5 years for such a Certificate of Documentation for such vessel or the renewal thereof. 
 
 Note:
 

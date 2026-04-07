@@ -1,8 +1,8 @@
 ##### § 10.302 Medical and physical requirements.
 
-(a) To qualify for a medical certificate, a mariner must provide evidence of meeting the medical and physical standards in this section on a CG-719-K or CG-719-K/E, as appropriate. The Coast Guard retains final authority for determining whether a mariner is medically and physically qualified. Columns 2 through 5 of Table 1 to paragraph (a) of this section provide the specific exam, test, or demonstrations required to obtain the corresponding credential listed in column 1. Further clarifications of the requirements contained in the table are found throughout this subpart.
+(a) To qualify for a medical certificate, a mariner must provide evidence of meeting the medical and physical standards in this section on a CG-719-K or CG-719-K/E, as appropriate. The Coast Guard retains final authority for determining whether a mariner is medically and physically qualified. Columns 2 through 5 of Table 1 to paragraph (a) of this section provide the specific exam, test, or demonstrations required to obtain the corresponding credential listed in column 1. Further clarifications of the requirements contained in the table are found throughout this subpart. 
 
-(b) Any required test, exam, or demonstration must have been performed, witnessed, or reviewed by a licensed Medical Doctor, licensed Physician Assistant, licensed Nurse Practitioner, or a Designated Medical Examiner. All licensed medical practitioners must hold a valid license issued in the United States.
+(b) Any required test, exam, or demonstration must have been performed, witnessed, or reviewed by a licensed Medical Doctor, licensed Physician Assistant, licensed Nurse Practitioner, or a Designated Medical Examiner. All licensed medical practitioners must hold a valid license issued in the United States. 
 
 Table 1 to § 10.302(a)—Medical and Physical Requirements for Mariner Endorsements
 | 1   Credential                                                                                                                 | 2   Vision   test | 3   Hearing   test | 4   General   medical exam | 5   Demonstration of physical ability |

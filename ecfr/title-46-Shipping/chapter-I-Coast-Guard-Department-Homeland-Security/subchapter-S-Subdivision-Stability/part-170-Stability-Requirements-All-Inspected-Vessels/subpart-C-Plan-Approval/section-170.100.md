@@ -1,8 +1,8 @@
 ##### § 170.100 Addresses for submittal of plans and calculations.
 
-The plans, information, and calculations required by this subpart must be submitted to one of the following:
+The plans, information, and calculations required by this subpart must be submitted to one of the following: 
 
-(a) The Sector Office in the zone where the vessel is to be built or altered.
+(a) The Sector Office in the zone where the vessel is to be built or altered. 
 
 (b) By visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*
 

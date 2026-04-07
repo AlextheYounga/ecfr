@@ -1,14 +1,14 @@
 ##### § 28.160 Portable fire extinguishers.
 
-(a) Each vessel must meet the requirements of part 25, subpart 25.30 of this chapter.
+(a) Each vessel must meet the requirements of part 25, subpart 25.30 of this chapter. 
 
-(b) Each vessel 65 feet (19.8 meters) or more in length must be equipped with the minimum number, location, and type of portable fire extinguishers specified in table 28.160.
+(b) Each vessel 65 feet (19.8 meters) or more in length must be equipped with the minimum number, location, and type of portable fire extinguishers specified in table 28.160. 
 
-(c) Semi-portable extinguishers must be located in the open so as to be readily seen.
+(c) Semi-portable extinguishers must be located in the open so as to be readily seen. 
 
-(d) Table 28.160 of this section indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
+(d) Table 28.160 of this section indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table. 
 
-(e) The regulations in this section have preemptive effect over State or local regulation within the same field.
+(e) The regulations in this section have preemptive effect over State or local regulation within the same field. 
 
 Table 28.160—Portable Fire Extinguishers for Vessels 65 Feet (19.8 Meters) or More in Length
 | Space                                                      | Minimum   required   rating | Quantity and location                                                                                                              |

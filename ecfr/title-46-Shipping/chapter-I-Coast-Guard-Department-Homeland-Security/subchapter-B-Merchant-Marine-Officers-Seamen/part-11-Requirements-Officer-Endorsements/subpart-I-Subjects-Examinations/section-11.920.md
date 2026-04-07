@@ -1,6 +1,6 @@
 ##### § 11.920 Subjects for MODU endorsements.
 
-Table 1 to § 11.920 gives the codes used in Table 2 to § 11.920 for MODU endorsements. Table 2 to § 11.920 indicates the examination subjects for each endorsement by the code number.
+Table 1 to § 11.920 gives the codes used in Table 2 to § 11.920 for MODU endorsements. Table 2 to § 11.920 indicates the examination subjects for each endorsement by the code number. 
 
 Table 1 to § 11.920—Codes for MODU Endorsements
 | 1\. OIM/Unrestricted.                     |

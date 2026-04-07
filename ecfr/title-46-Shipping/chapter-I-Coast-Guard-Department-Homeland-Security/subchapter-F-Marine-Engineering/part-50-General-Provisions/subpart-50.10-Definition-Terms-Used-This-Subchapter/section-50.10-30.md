@@ -1,14 +1,14 @@
 ##### § 50.10-30 Coast Guard number.
 
-(a) The Coast Guard number means that number assigned to boilers and pressure vessels by the Officer in Charge, Marine Inspection, who makes the final tests and inspections.
+(a) The Coast Guard number means that number assigned to boilers and pressure vessels by the Officer in Charge, Marine Inspection, who makes the final tests and inspections. 
 
-(b) The Coast Guard number must be stamped on the nameplates of boilers and pressure vessels.
+(b) The Coast Guard number must be stamped on the nameplates of boilers and pressure vessels. 
 
-(c) The Coast Guard number is comprised of the following:
+(c) The Coast Guard number is comprised of the following: 
 
-(1) Three capital letters which identify the office of the issuing Officer in Charge, Marine Inspection (see table 1 to § 50.10-30); followed by,
+(1) Three capital letters which identify the office of the issuing Officer in Charge, Marine Inspection (see table 1 to § 50.10-30); followed by, 
 
-(2) An OCMI serial number, by which the particular boiler or pressure vessel can be identified; the first two digits of which will identify the calendar year the number was assigned.
+(2) An OCMI serial number, by which the particular boiler or pressure vessel can be identified; the first two digits of which will identify the calendar year the number was assigned. 
 
 Table 1 to § 50.10-30—Previous Sector Office Identification Letters in Coast Guard Numbers for Boilers and Pressure Vessels
 | Identification | Sector   Office    |

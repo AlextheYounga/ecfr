@@ -1,6 +1,6 @@
 ##### § 76.05-20 Fixed fire extinguishing systems.
 
-Approved fire extinguishing systems must be installed, as required by Table 76.05-20 on all self-propelled vessels and on all barges with sleeping accommodations for more than six persons. Previously approved installations may be retained as long as they are maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection.
+Approved fire extinguishing systems must be installed, as required by Table 76.05-20 on all self-propelled vessels and on all barges with sleeping accommodations for more than six persons. Previously approved installations may be retained as long as they are maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection. 
 
 Table 76.05-20—Required Fixed Extinguishing Systems
 | Space                                                                                                                                                                                                                                                                                                                              | Fixed extinguishing systems                           |

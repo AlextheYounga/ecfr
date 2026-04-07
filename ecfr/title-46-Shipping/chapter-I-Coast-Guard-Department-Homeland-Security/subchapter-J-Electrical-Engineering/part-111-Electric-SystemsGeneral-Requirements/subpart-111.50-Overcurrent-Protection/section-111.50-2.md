@@ -1,6 +1,6 @@
 ##### § 111.50-2 Systems integration.
 
-The electrical characteristics of each overcurrent protective device must be compatible with other devices and its coordination must be considered in the design of the entire protective system.
+The electrical characteristics of each overcurrent protective device must be compatible with other devices and its coordination must be considered in the design of the entire protective system. 
 
 Note to § 111.50-2:
 

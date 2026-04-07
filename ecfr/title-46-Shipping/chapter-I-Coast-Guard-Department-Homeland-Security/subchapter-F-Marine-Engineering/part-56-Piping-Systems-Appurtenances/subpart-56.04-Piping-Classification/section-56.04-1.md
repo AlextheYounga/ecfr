@@ -1,6 +1,6 @@
 ##### § 56.04-1 Scope.
 
-Piping is classified as shown in table 1 to § 56.04-1.
+Piping is classified as shown in table 1 to § 56.04-1. 
 
 Table 1 to § 56.04-1—Piping Classifications
 | Service         | Class     | Section in this part |

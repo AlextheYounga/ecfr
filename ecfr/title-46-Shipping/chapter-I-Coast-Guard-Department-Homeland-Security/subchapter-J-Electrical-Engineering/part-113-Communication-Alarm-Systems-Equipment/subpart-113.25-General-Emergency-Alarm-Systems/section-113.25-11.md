@@ -1,13 +1,13 @@
 ##### § 113.25-11 Contact makers.
 
-Each contact maker must—
+Each contact maker must— 
 
-(a) Have normally open contacts and be constructed in accordance with Type 4 or 4X of NEMA 250 or IP 56 of IEC 60529:2013 (both incorporated by reference; see § 110.10-1 of this subpart) requirements;
+(a) Have normally open contacts and be constructed in accordance with Type 4 or 4X of NEMA 250 or IP 56 of IEC 60529:2013 (both incorporated by reference; see § 110.10-1 of this subpart) requirements; 
 
-(b) Have a switch handle that can be maintained in the “on” position;
+(b) Have a switch handle that can be maintained in the “on” position; 
 
-(c) Have the “off” and “on” positions of the operating handle permanently marked; and
+(c) Have the “off” and “on” positions of the operating handle permanently marked; and 
 
-(d) Have an inductive load rating not less than the connected load or, on large vessels, have auxiliary devices to interrupt the load current.
+(d) Have an inductive load rating not less than the connected load or, on large vessels, have auxiliary devices to interrupt the load current. 
 
 \[CGD 94-108, 61 FR 28288, June 4, 1996, as amended at 62 FR 23910, May 1, 1997; USCG-2003-16630, 73 FR 65201, Oct. 31, 2008; USCG-2020-0075, 88 FR 16369, Mar. 16, 2023\]

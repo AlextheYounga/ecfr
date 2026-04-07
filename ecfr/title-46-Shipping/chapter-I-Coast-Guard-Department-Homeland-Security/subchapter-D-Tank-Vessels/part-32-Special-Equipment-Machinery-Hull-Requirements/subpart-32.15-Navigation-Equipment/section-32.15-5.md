@@ -1,8 +1,8 @@
 ##### § 32.15-5 Whistles—T/ALL.
 
-(a) \[Reserved\]
+(a) \[Reserved\] 
 
-(b) On tankships contracted for on and after November 19, 1955 means shall be provided to operate the whistle from a position adjacent to the main steering station and from the steering station on top of the pilothouse where such steering station is fitted. Details of the whistle operating devices shall meet the requirements of subchapter J (Electrical Engineering) of this chapter.
+(b) On tankships contracted for on and after November 19, 1955 means shall be provided to operate the whistle from a position adjacent to the main steering station and from the steering station on top of the pilothouse where such steering station is fitted. Details of the whistle operating devices shall meet the requirements of subchapter J (Electrical Engineering) of this chapter. 
 
 Note:
 

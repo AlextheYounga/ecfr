@@ -2,7 +2,7 @@
 
 (a) *Self-propelled vessels.*
 
-(1) Each self-propelled vessel must be provided with a power-driven pump, or pumps connected to the bilge main as required by table 1 to § 56.50-55(a).
+(1) Each self-propelled vessel must be provided with a power-driven pump, or pumps connected to the bilge main as required by table 1 to § 56.50-55(a). 
 
 Table 1 to § 56.50-55(a)—Power Bilge Pumps Required for Self-Propelled Vessels
 | Vessel length, in feet                                                                                                                                                                                                                                                                                                                            | Passenger vessels1 | Dry-cargo vessels 2 | Tank   vessels | Mobile   offshore   drilling   units |
@@ -16,7 +16,7 @@ Table 1 to § 56.50-55(a)—Power Bilge Pumps Required for Self-Propelled Vessel
 | 4 When the criterion numeral exceeds 30, an additional independent power-driven pump is required. (See part 171 of this chapter for determination of criterion numeral.)                                                                                                                                                                          |                    |                     |                |                                      |
 | 5 Vessels operating on lakes (including Great Lakes), bays, sounds, or rivers where steam is available, or where a suitable water supply is available from a power-driven pump, may substitute siphons or eductors for one of the required power-driven pumps, provided a siphon or eductor is permanently installed in each hold or compartment. |                    |                     |                |                                      |
 
-(b) *Nonself-propelled vessels.* (1) Ocean going sailing vessels and barges must be provided with pumps connected to the bilge main as required in table 2 to § 56.50-55(b)(1).
+(b) *Nonself-propelled vessels.* (1) Ocean going sailing vessels and barges must be provided with pumps connected to the bilge main as required in table 2 to § 56.50-55(b)(1). 
 
 Table 2 to § 56.50-55(b)(1)—Bilge Pumps Required for Nonself-Propelled Vessels
 | Type of vessel                                                                                                                                                                       | Waters navigated               | Power pumps 1 | Hand pumps |
@@ -30,28 +30,28 @@ Table 2 to § 56.50-55(b)(1)—Bilge Pumps Required for Nonself-Propelled Vessel
 | 2 Efficient hand pumps connected to the bilge main may be substituted for the power pumps. Where there is no common bilge main, one hand pump will be required for each compartment. |                                |               |            |
 | 3 Suitable hand or power pumps or siphons, portable or fixed, carried either on board the barge or on the towing vessel must be provided.                                            |                                |               |            |
 
-(2) The pumps and source of power for oceangoing sailing vessels and barges must be located above the bulkhead deck or at the highest convenient accessible level.
+(2) The pumps and source of power for oceangoing sailing vessels and barges must be located above the bulkhead deck or at the highest convenient accessible level. 
 
-(3) Each hull of a vessel with more than one hull, such as a catamaran, must meet table 2 to § 56.50-55(b)(1).
+(3) Each hull of a vessel with more than one hull, such as a catamaran, must meet table 2 to § 56.50-55(b)(1). 
 
-(c) *Capacity of independent power bilge pump.* (1) Each power bilge pump must develop a suction velocity of not less than 400 feet per minute and a corresponding capacity based on the size of bilge main piping required by § 56.50-50(d)(1).
+(c) *Capacity of independent power bilge pump.* (1) Each power bilge pump must develop a suction velocity of not less than 400 feet per minute and a corresponding capacity based on the size of bilge main piping required by § 56.50-50(d)(1). 
 
-(2) Alternatively, the minimum pump capacity, Q, in m 3/hr may be based on the following formula:
+(2) Alternatively, the minimum pump capacity, Q, in m 3/hr may be based on the following formula: 
 
 Formula 1 to § 56.50-55(c)(2) Q = 5.75d 2/1000, where d = diameter of the main bilge suction piping, in mm.
 
-(3) For vessels of less than 65 feet in length not engaged on international voyages, the pump must have a minimum capacity of 25 gallons per minute and need not meet the velocity requirement of this paragraph.
+(3) For vessels of less than 65 feet in length not engaged on international voyages, the pump must have a minimum capacity of 25 gallons per minute and need not meet the velocity requirement of this paragraph. 
 
-(d) *Priming.* Suitable means must be provided for priming centrifugal pumps which are not of the self-priming type.
+(d) *Priming.* Suitable means must be provided for priming centrifugal pumps which are not of the self-priming type. 
 
-(e) *Location.* (1) For self-propelled vessels, if the engines and boilers are in two or more watertight compartments, the bilge pumps must be distributed throughout these compartments. On other self-propelled vessels and mobile offshore drilling units, the bilge pumps must be in separate compartments to the extent practicable. When the location of bilge pumps in separate watertight compartments is not practicable, alternative arrangements may be considered by the Marine Safety Center.
+(e) *Location.* (1) For self-propelled vessels, if the engines and boilers are in two or more watertight compartments, the bilge pumps must be distributed throughout these compartments. On other self-propelled vessels and mobile offshore drilling units, the bilge pumps must be in separate compartments to the extent practicable. When the location of bilge pumps in separate watertight compartments is not practicable, alternative arrangements may be considered by the Marine Safety Center. 
 
-(2) For non-self-propelled vessels requiring two bilge pumps, these pumps, insofar as practicable, must be located in separate watertight machinery spaces. When the location of bilge pumps in separate watertight compartments is not possible, the Marine Safety Center will consider alternate arrangements.
+(2) For non-self-propelled vessels requiring two bilge pumps, these pumps, insofar as practicable, must be located in separate watertight machinery spaces. When the location of bilge pumps in separate watertight compartments is not possible, the Marine Safety Center will consider alternate arrangements. 
 
-(3) The emergency bilge pumps must not be installed in a passenger ship forward of the collision bulkhead.
+(3) The emergency bilge pumps must not be installed in a passenger ship forward of the collision bulkhead. 
 
-(4) Each hull of a vessel with more than one hull must have at least two means for pumping the bilges in each hull.
+(4) Each hull of a vessel with more than one hull must have at least two means for pumping the bilges in each hull. 
 
-(f) *Other pumps.* Sanitary, ballast, and general service pumps having the required capacity may be accepted as independent power bilge pumps if connected to the bilge system.
+(f) *Other pumps.* Sanitary, ballast, and general service pumps having the required capacity may be accepted as independent power bilge pumps if connected to the bilge system. 
 
 \[CGFR 68-82, 33 FR 18843, Dec. 18, 1968, as amended by CGD 79-023, 48 FR 51007, Nov. 4, 1983; CGD 77-140, 54 FR 40608, Oct. 2, 1989; 55 FR 39968, Oct. 1, 1990; CGD 83-043, 60 FR 24773, May 10, 1995; USCG-2004-18884, 69 FR 58346, Sept. 30, 2004\]

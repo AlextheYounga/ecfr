@@ -1,18 +1,18 @@
 ##### § 117.200 Survival craft—general.
 
-(a) Each survival craft required on a vessel by this part must meet one of the following:
+(a) Each survival craft required on a vessel by this part must meet one of the following: 
 
-(1) For an inflatable liferaft—Approved under approval series 160.151 or other standard specified by the Commandant, with the applicable equipment pack, as determined by the cognizant OCMI. Each inflatable liferaft required on a vessel by this part must have a capacity of 6 persons or more. Inflatable liferafts may be substituted for inflatable buoyant apparatus or life floats required under this section.
+(1) For an inflatable liferaft—Approved under approval series 160.151 or other standard specified by the Commandant, with the applicable equipment pack, as determined by the cognizant OCMI. Each inflatable liferaft required on a vessel by this part must have a capacity of 6 persons or more. Inflatable liferafts may be substituted for inflatable buoyant apparatus or life floats required under this section. 
 
-(2) For a life float—Approved under approval series 160.027 or other standard specified by the Commandant. Buoyant apparatus may be used to meet requirements for life floats if the buoyant apparatus was installed on board the vessel on or before March 11, 1996, and if the buoyant apparatus remains in good and serviceable condition.
+(2) For a life float—Approved under approval series 160.027 or other standard specified by the Commandant. Buoyant apparatus may be used to meet requirements for life floats if the buoyant apparatus was installed on board the vessel on or before March 11, 1996, and if the buoyant apparatus remains in good and serviceable condition. 
 
-(3) For an inflatable buoyant apparatus—Approved under approval series 160.010 or other standard specified by the Commandant. Inflatable buoyant apparatus may be substituted for life floats required under this section.
+(3) For an inflatable buoyant apparatus—Approved under approval series 160.010 or other standard specified by the Commandant. Inflatable buoyant apparatus may be substituted for life floats required under this section. 
 
-(4) For a buoyant apparatus—Approved under approval series 160.010 or other standard specified by the Commandant. An existing buoyant apparatus may not be used to satisfy the requirements for life floats on existing vessels wishing to upgrade the total number of passengers carried on an oceans route.
+(4) For a buoyant apparatus—Approved under approval series 160.010 or other standard specified by the Commandant. An existing buoyant apparatus may not be used to satisfy the requirements for life floats on existing vessels wishing to upgrade the total number of passengers carried on an oceans route. 
 
-(b) If the vessel carries a small boat or boats, the capacity of these boats may be counted toward the life float capacity required by this subpart. Such boats must meet the requirements for safe loading and flotation in 33 CFR Part 183, and must meet the stowage, launching and equipment requirements in this part for the survival craft they replace.
+(b) If the vessel carries a small boat or boats, the capacity of these boats may be counted toward the life float capacity required by this subpart. Such boats must meet the requirements for safe loading and flotation in 33 CFR Part 183, and must meet the stowage, launching and equipment requirements in this part for the survival craft they replace. 
 
-(c) A summary of survival craft requirements is provided in Table 117.200(c).
+(c) A summary of survival craft requirements is provided in Table 117.200(c). 
 
 Table 117.200(c)
 | Route                                                                                                                                                                                                                                | Survival Craft Required                                                          |

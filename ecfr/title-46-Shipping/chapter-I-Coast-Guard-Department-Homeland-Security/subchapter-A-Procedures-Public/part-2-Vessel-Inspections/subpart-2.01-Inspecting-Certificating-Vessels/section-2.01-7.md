@@ -1,6 +1,6 @@
 ##### § 2.01-7 Classes of vessels (including motorboats) examined or inspected and certificated.
 
-(a) The regulations in this chapter concerning inspecting and certificating vessels are applicable to vessels (including motorboats) either as indicated in the following table 2.01-7(a) or, if the vessel is a towing vessel, as provided in paragraph (b) of this section.
+(a) The regulations in this chapter concerning inspecting and certificating vessels are applicable to vessels (including motorboats) either as indicated in the following table 2.01-7(a) or, if the vessel is a towing vessel, as provided in paragraph (b) of this section. 
 
 Table 2.01-7(a)
 | Method of propulsion, qualified by size or other limitation 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Vessels inspected and certificated under Subchapter D—Tank Vessels 2 | Vessels inspected and certificated under Subchapter H—Passenger   Vessels 2345 or Subchapter K or T—Small Passenger Vessels 234                                                                                                                                                                                                      | Vessels inspected and certificated under Subchapter I—Cargo and   Miscellaneous   Vessels 25                                                                                                                                                                                                                    | Vessels subject to the provisions of Subchapter C—Uninspected   Vessels. 23678 | Vessels subject to the provisions of Subchapter U—Oceanographic   Vessels 23679 | Vessels subject to the provisions of Subchapter   O—Certain Bulk and   Dangerous   Cargoes 10                                                                          |
@@ -103,46 +103,46 @@ Table 2.01-7(a)
 | 12 See § 151.01-15, 153.900(d), or 154.30 of this chapter as appropriate.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                      |                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                 |                                                                                |                                                                                 |                                                                                                                                                                        |
 | 13 Sail vessel means a vessel with no auxiliary machinery on board. If the vessel has auxiliary machinery, refer to motor vessels.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                      |                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                 |                                                                                |                                                                                 |                                                                                                                                                                        |
 
-(b)(1) A U.S.-flag towing vessel is subject to inspection and certifying regulations in subchapter M of this chapter except:
+(b)(1) A U.S.-flag towing vessel is subject to inspection and certifying regulations in subchapter M of this chapter except: 
 
-(i) A vessel less than 26 feet (7.92 meters) in length measured from end to end over the deck (excluding the sheer), unless that vessel is pushing, pulling, or hauling a barge that is carrying oil or hazardous material in bulk;
+(i) A vessel less than 26 feet (7.92 meters) in length measured from end to end over the deck (excluding the sheer), unless that vessel is pushing, pulling, or hauling a barge that is carrying oil or hazardous material in bulk; 
 
-(ii) A vessel engaged in one or more of the following:
+(ii) A vessel engaged in one or more of the following: 
 
-(A) Assistance towing as defined in § 136.110 of this chapter;
+(A) Assistance towing as defined in § 136.110 of this chapter; 
 
-(B) Towing recreational vessels for salvage; or
+(B) Towing recreational vessels for salvage; or 
 
-(C) Transporting or assisting the navigation of recreational vessels within and between marinas and marina facilities, within a limited geographic area, as determined by the local Captain of the Port;
+(C) Transporting or assisting the navigation of recreational vessels within and between marinas and marina facilities, within a limited geographic area, as determined by the local Captain of the Port; 
 
-(iii) A workboat operating exclusively within a worksite and performing intermittent towing within the worksite;
+(iii) A workboat operating exclusively within a worksite and performing intermittent towing within the worksite; 
 
-(iv) A seagoing towing vessel of 300 gross tons or more subject to the provisions of subchapter I of this chapter;
+(iv) A seagoing towing vessel of 300 gross tons or more subject to the provisions of subchapter I of this chapter; 
 
-(v) A vessel inspected under other subchapters of this chapter that may perform occasional towing;
+(v) A vessel inspected under other subchapters of this chapter that may perform occasional towing; 
 
-(vi) A public vessel as defined in 46 U.S.C. 2101;
+(vi) A public vessel as defined in 46 U.S.C. 2101; 
 
-(vii) A vessel which has surrendered its Certificate of Inspection and is laid up, dismantled, or otherwise out of service; and
+(vii) A vessel which has surrendered its Certificate of Inspection and is laid up, dismantled, or otherwise out of service; and 
 
-(viii) A propulsion unit used for the purpose of propelling or controlling the direction of a barge where the unit is controlled from the barge, is not normally manned, and is not utilized as an independent vessel.
+(viii) A propulsion unit used for the purpose of propelling or controlling the direction of a barge where the unit is controlled from the barge, is not normally manned, and is not utilized as an independent vessel. 
 
-(2) A towing vessel not subject to subchapter M of this chapter should refer to table 2.01-7 of this section.
+(2) A towing vessel not subject to subchapter M of this chapter should refer to table 2.01-7 of this section. 
 
-(c) The specific application of regulations concerning inspecting and certificating vessels is set forth in the specific subchapter governing a particular class of vessels.
+(c) The specific application of regulations concerning inspecting and certificating vessels is set forth in the specific subchapter governing a particular class of vessels. 
 
-(1) For passenger vessels see part 70 of subchapter H (Passenger Vessels) of this chapter.
+(1) For passenger vessels see part 70 of subchapter H (Passenger Vessels) of this chapter. 
 
-(2) For cargo and miscellaneous vessels see part 90 of subchapter I (Cargo and Miscellaneous Vessels) of this chapter.
+(2) For cargo and miscellaneous vessels see part 90 of subchapter I (Cargo and Miscellaneous Vessels) of this chapter. 
 
-(3) For tank vessels see part 30 of subchapter D (Tank Vessels) of this chapter.
+(3) For tank vessels see part 30 of subchapter D (Tank Vessels) of this chapter. 
 
-(4) For small passenger vessels see part 114 of subchapter K (Small Passenger Vessels Carrying More Than 150 Passengers or with Overnight Accommodations for More Than 49 Passengers) and part 175 of subchapter T (Small Passenger Vessels) of this chapter.
+(4) For small passenger vessels see part 114 of subchapter K (Small Passenger Vessels Carrying More Than 150 Passengers or with Overnight Accommodations for More Than 49 Passengers) and part 175 of subchapter T (Small Passenger Vessels) of this chapter. 
 
-(5) For uninspected vessels see part 24 of subchapter C (Uninspected Vessels) of this chapter.
+(5) For uninspected vessels see part 24 of subchapter C (Uninspected Vessels) of this chapter. 
 
-(6) For vessels carrying certain bulk dangerous cargoes see subchapter O of this chapter.
+(6) For vessels carrying certain bulk dangerous cargoes see subchapter O of this chapter. 
 
-(7) For towing vessels, see part 136 of subchapter M of this chapter.
+(7) For towing vessels, see part 136 of subchapter M of this chapter. 
 
 \[CGFR 65-50, 30 FR 16604, Dec. 30, 1965\] Editorial Note:For Federal Register citations affecting § 2.01-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

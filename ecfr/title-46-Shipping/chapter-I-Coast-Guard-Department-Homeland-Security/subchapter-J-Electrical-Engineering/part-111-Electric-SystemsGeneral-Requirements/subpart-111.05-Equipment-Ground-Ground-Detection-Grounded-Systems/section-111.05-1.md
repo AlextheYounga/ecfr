@@ -1,6 +1,6 @@
 ##### § 111.05-1 Purpose.
 
-This subpart contains requirements for the grounding of electric systems, circuits, and equipment.
+This subpart contains requirements for the grounding of electric systems, circuits, and equipment. 
 
 Note:
 

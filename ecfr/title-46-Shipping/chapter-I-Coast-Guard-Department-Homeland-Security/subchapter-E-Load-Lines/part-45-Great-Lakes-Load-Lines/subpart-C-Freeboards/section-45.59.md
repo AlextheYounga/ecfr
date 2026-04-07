@@ -1,22 +1,22 @@
 ##### § 45.59 Definitions for superstructure corrections.
 
-For the purpose of §§ 45.58 through 45.61—
+For the purpose of §§ 45.58 through 45.61— 
 
-(a) The standard height of a superstructure (*H*s) other than a raised quarter deck and the standard height of a trunk (*H*s) is determined by the formula:
+(a) The standard height of a superstructure (*H*s) other than a raised quarter deck and the standard height of a trunk (*H*s) is determined by the formula: 
 
 *H*s\=\[6.0 + (*L*/300)\] ft
 
-(b) The length of superstructure (*S)* is the length of those parts of the superstructure which extends to the sides of the vessel and that lie within the length (*L*).
+(b) The length of superstructure (*S)* is the length of those parts of the superstructure which extends to the sides of the vessel and that lie within the length (*L*). 
 
 (c) The effective length (*E*) of a trunk is its length in the ratio of its mean breadth to *B.*
 
-(d) The effective length (*E*) of an enclosed superstructure of standard height or greater is its length “*S*”.
+(d) The effective length (*E*) of an enclosed superstructure of standard height or greater is its length “*S*”. 
 
-(e) Where the height of an enclosed superstructure or trunk is less than the standard height (*H*s),the effective length (*E*) is its length reduced in the ratio of its height to *H*s.
+(e) Where the height of an enclosed superstructure or trunk is less than the standard height (*H*s),the effective length (*E*) is its length reduced in the ratio of its height to *H*s. 
 
 (f) The effective length (*E*) of a raised quarter deck of 2/3*H*s or greater that has no openings in the front bulkhead is its length up to a maximum of 0.6*L.*
 
-(g) The effective length (*E*) of a raised quarter deck of less than 2/3*H*s or that does not have an intact front bulkhead is its length reduced by the ratio of its height to *H*s.
+(g) The effective length (*E*) of a raised quarter deck of less than 2/3*H*s or that does not have an intact front bulkhead is its length reduced by the ratio of its height to *H*s. 
 
 Table 12(1)
 
@@ -192,8 +192,8 @@ Table 12(3)
 | 390                   | 14.73438      |
 | 400                   | 15.00000      |
 
-(h) Superstructures which are not enclosed have no effective length.
+(h) Superstructures which are not enclosed have no effective length. 
 
-(i) When a lower deck is designated as the freeboard deck, that part of the hull which extends above the freeboard deck is treated as a superstructure so far as concerns the application of the conditions of assignment and the calculation of freeboard.
+(i) When a lower deck is designated as the freeboard deck, that part of the hull which extends above the freeboard deck is treated as a superstructure so far as concerns the application of the conditions of assignment and the calculation of freeboard. 
 
 (j) A bridge or poop is enclosed only when access is provided whereby the crew may reach accommodations, machinery, or other working spaces inside the superstructure by alternative means that are available at all times when bulkhead openings are closed.

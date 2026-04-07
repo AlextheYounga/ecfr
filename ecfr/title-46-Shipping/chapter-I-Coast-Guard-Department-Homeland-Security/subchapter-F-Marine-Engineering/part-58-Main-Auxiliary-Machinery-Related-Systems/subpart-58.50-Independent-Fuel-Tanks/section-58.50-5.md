@@ -1,8 +1,8 @@
 ##### § 58.50-5 Gasoline fuel tanks.
 
-(a) *Construction*—(1) *Shape.* Tanks may be of either cylindrical or rectangular form, except that tanks for emergency electrical systems must be of cylindrical form.
+(a) *Construction*—(1) *Shape.* Tanks may be of either cylindrical or rectangular form, except that tanks for emergency electrical systems must be of cylindrical form. 
 
-(2) *Materials and construction.* The material used and the minimum thickness allowed must be as indicated in table 1 to § 58.50-5(a)(2) except that consideration will be given to other materials which provide equivalent safety as indicated in § 58.50-15.
+(2) *Materials and construction.* The material used and the minimum thickness allowed must be as indicated in table 1 to § 58.50-5(a)(2) except that consideration will be given to other materials which provide equivalent safety as indicated in § 58.50-15. 
 
 Table 1 to § 58.50-5(a)(2)
 | Material                                                                                                                                                                                                | ASTM specification   (all incorporated   by reference;   see § 58.03-1) | Thickness in inches and gage numbers 1 vs. tank capacities for— |
@@ -20,30 +20,30 @@ Table 1 to § 58.50-5(a)(2)
 | 5 Anodic to most common metals. Avoid dissimilar metal contact with tank body.                                                                                                                          |                                                                         |                                                                 |
 | 6 And other alloys acceptable to the Commandant.                                                                                                                                                        |                                                                         |                                                                 |
 
-(3) *Prohibited types.* Tanks with flanged-up top edges that may trap and hold moisture must not be used.
+(3) *Prohibited types.* Tanks with flanged-up top edges that may trap and hold moisture must not be used. 
 
-(4) *Openings.* Openings for fill, vent and fuel pipes, and openings for fuel level gages where used, must be on the topmost surface of tanks. Tanks must have no openings in bottoms, sides, or ends, except that an opening fitted with threaded plug or cap may be used for tank cleaning purposes.
+(4) *Openings.* Openings for fill, vent and fuel pipes, and openings for fuel level gages where used, must be on the topmost surface of tanks. Tanks must have no openings in bottoms, sides, or ends, except that an opening fitted with threaded plug or cap may be used for tank cleaning purposes. 
 
-(5) *Joints.* All metallic tank joints must be welded or brazed.
+(5) *Joints.* All metallic tank joints must be welded or brazed. 
 
-(6) *Fittings.* Nozzles, flanges, or other fittings for pipe connections must be welded or brazed to the tank. The tank openings in way of pipe connections must be properly reinforced where necessary. Where fuel level gages are used, the flange to which gage fittings are attached must be welded or brazed to the tank. Tubular gage glasses or try cocks must not be fitted to the tanks.
+(6) *Fittings.* Nozzles, flanges, or other fittings for pipe connections must be welded or brazed to the tank. The tank openings in way of pipe connections must be properly reinforced where necessary. Where fuel level gages are used, the flange to which gage fittings are attached must be welded or brazed to the tank. Tubular gage glasses or try cocks must not be fitted to the tanks. 
 
-(7) *Baffle plates.* All tanks exceeding 30 inches in any horizontal dimension must be fitted with vertical baffle plates where necessary for strength or for control of excessive surge. In general, baffle plates installed at intervals not exceeding 30 inches will be considered as meeting this requirement.
+(7) *Baffle plates.* All tanks exceeding 30 inches in any horizontal dimension must be fitted with vertical baffle plates where necessary for strength or for control of excessive surge. In general, baffle plates installed at intervals not exceeding 30 inches will be considered as meeting this requirement. 
 
-(8) *Baffle plate details.* Baffle plates, where required, must be of the same material and not less than the minimum thickness required in the tank walls and must be connected to the tank walls by welding or brazing. Limber holes at the bottom and air holes at the top of all baffles must be provided.
+(8) *Baffle plate details.* Baffle plates, where required, must be of the same material and not less than the minimum thickness required in the tank walls and must be connected to the tank walls by welding or brazing. Limber holes at the bottom and air holes at the top of all baffles must be provided. 
 
-(b) *Installation.* (1) Gasoline fuel tanks used for propulsion must be located in water-tight compartments separate from, but adjacent to the engine room or machinery space. Fuel tanks for auxiliaries must be located on or above the weather deck outside of the engine housing or compartment and as close to the engine as practicable. All tanks must be so installed as to provide a free circulation of air around the tanks.
+(b) *Installation.* (1) Gasoline fuel tanks used for propulsion must be located in water-tight compartments separate from, but adjacent to the engine room or machinery space. Fuel tanks for auxiliaries must be located on or above the weather deck outside of the engine housing or compartment and as close to the engine as practicable. All tanks must be so installed as to provide a free circulation of air around the tanks. 
 
-(2) Cylindrical tanks with longitudinal seams must be arranged horizontally where practicable so that such seams are located as near the top as possible.
+(2) Cylindrical tanks with longitudinal seams must be arranged horizontally where practicable so that such seams are located as near the top as possible. 
 
-(3) Fuel tanks must be so installed as to permit examination, testing, or removal for cleaning.
+(3) Fuel tanks must be so installed as to permit examination, testing, or removal for cleaning. 
 
-(4) Fuel tanks must be adequately supported and braced to prevent movement. Portable fuel tanks are not permitted.
+(4) Fuel tanks must be adequately supported and braced to prevent movement. Portable fuel tanks are not permitted. 
 
-(5) All fuel tanks must be electrically bonded to the common ground.
+(5) All fuel tanks must be electrically bonded to the common ground. 
 
-(c) *Testing.* (1) Prior to installation, tanks vented to atmosphere must be tested to, and must withstand, a pressure of 5 psig or 1.5 times the maximum head to which they may be subjected in service, whichever is greater. A standpipe of 11.5 feet in height attached to the tank may be filled with water to accomplish the 5-psig test. Permanent deformation of the tank will not be cause for rejection unless accompanied by leakage.
+(c) *Testing.* (1) Prior to installation, tanks vented to atmosphere must be tested to, and must withstand, a pressure of 5 psig or 1.5 times the maximum head to which they may be subjected in service, whichever is greater. A standpipe of 11.5 feet in height attached to the tank may be filled with water to accomplish the 5-psig test. Permanent deformation of the tank will not be cause for rejection unless accompanied by leakage. 
 
-(2) After installation of the fuel tank on a vessel the complete installation must be tested in the presence of a marine inspector to a head not less than that to which the tank may be subjected in service. Fuel may be used as a testing medium.
+(2) After installation of the fuel tank on a vessel the complete installation must be tested in the presence of a marine inspector to a head not less than that to which the tank may be subjected in service. Fuel may be used as a testing medium. 
 
 (3) All tanks not vented to atmosphere must be constructed and tested in accordance with part 54 of this subchapter.

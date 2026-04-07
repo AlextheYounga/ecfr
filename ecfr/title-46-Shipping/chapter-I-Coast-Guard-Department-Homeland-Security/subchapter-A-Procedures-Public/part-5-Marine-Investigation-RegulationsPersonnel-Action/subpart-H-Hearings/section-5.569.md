@@ -1,18 +1,18 @@
 ##### § 5.569 Selection of an appropriate order.
 
-(a) This section addresses orders in a general manner. The selection of an appropriate order is the responsibility of the Administrative Law Judge, subject to appeal and review. The investigating officer and the respondent may suggest an order and present argument in support of this suggestion during the presentation of aggravating or mitigating evidence.
+(a) This section addresses orders in a general manner. The selection of an appropriate order is the responsibility of the Administrative Law Judge, subject to appeal and review. The investigating officer and the respondent may suggest an order and present argument in support of this suggestion during the presentation of aggravating or mitigating evidence. 
 
-(b) Except for acts or offenses for which revocation is mandatory, factors which may affect the order include:
+(b) Except for acts or offenses for which revocation is mandatory, factors which may affect the order include: 
 
-(1) Remedial actions which have been undertaken independently by the respondent;
+(1) Remedial actions which have been undertaken independently by the respondent; 
 
-(2) Prior record of the respondent, considering the period of time between prior acts and the act or offense for which presently charged is relevant; and
+(2) Prior record of the respondent, considering the period of time between prior acts and the act or offense for which presently charged is relevant; and 
 
-(3) Evidence of mitigation or aggravation.
+(3) Evidence of mitigation or aggravation. 
 
-(c) After an order of revocation is entered, the respondent will be given an opportunity to present relevant material on the record for subsequent consideration by the special board convened in the event an application is filed in accordance with subpart L of this part.
+(c) After an order of revocation is entered, the respondent will be given an opportunity to present relevant material on the record for subsequent consideration by the special board convened in the event an application is filed in accordance with subpart L of this part. 
 
-(d) Table 5.569 is for the information and guidance of Administrative Law Judges and is intended to promote uniformity in orders rendered. This table should not affect the fair and impartial adjudication of each case on its individual facts and merits. The orders are expressed by a range, in months of outright suspension, considered appropriate for the particular act or offense prior to considering matters in mitigation or aggravation. For instance, without considering other factors, a period of two to four months outright suspension is considered appropriate for *failure to obey a master's written instructions.* An order within the range would not be considered excessive. Mitigating or aggravating factors may make an order greater or less than the given range appropriate. Orders for repeat offenders will ordinarily be greater than those specified.
+(d) Table 5.569 is for the information and guidance of Administrative Law Judges and is intended to promote uniformity in orders rendered. This table should not affect the fair and impartial adjudication of each case on its individual facts and merits. The orders are expressed by a range, in months of outright suspension, considered appropriate for the particular act or offense prior to considering matters in mitigation or aggravation. For instance, without considering other factors, a period of two to four months outright suspension is considered appropriate for *failure to obey a master's written instructions.* An order within the range would not be considered excessive. Mitigating or aggravating factors may make an order greater or less than the given range appropriate. Orders for repeat offenders will ordinarily be greater than those specified. 
 
 Table 5.569—Suggested Range of an Appropriate Order
 | Type of offense                                                         | Range of order (in months)                                                          |

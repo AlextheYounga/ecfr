@@ -1,24 +1,24 @@
 ##### § 148.10 Permitted materials.
 
-(a) A material listed in Table 148.10 of this section may be transported as a bulk solid cargo on a vessel if it is carried according to this part. A material that is not listed in Table 148.10 of this section, but which is hazardous or a Potentially Dangerous Material (PDM), requires a Special Permit under § 148.15 of this part to be transported on the navigable waters of the United States.
+(a) A material listed in Table 148.10 of this section may be transported as a bulk solid cargo on a vessel if it is carried according to this part. A material that is not listed in Table 148.10 of this section, but which is hazardous or a Potentially Dangerous Material (PDM), requires a Special Permit under § 148.15 of this part to be transported on the navigable waters of the United States. 
 
-(b) For each listed material, Table 148.10 identifies the hazard class and gives the BCSN or directs the user to the preferred BCSN. In addition, the table lists specific hazardous or potentially dangerous characteristics associated with each material and specifies or references detailed special requirements in this part pertaining to the stowage or transport of specific bulk solid materials. The column descriptions for Table 148.10 are defined as follows:
+(b) For each listed material, Table 148.10 identifies the hazard class and gives the BCSN or directs the user to the preferred BCSN. In addition, the table lists specific hazardous or potentially dangerous characteristics associated with each material and specifies or references detailed special requirements in this part pertaining to the stowage or transport of specific bulk solid materials. The column descriptions for Table 148.10 are defined as follows: 
 
-(1) *Column 1: Bulk Solid Material Descriptions and Bulk Cargo Shipping Names (BCSN).* Column 1 lists the bulk solid material descriptions and the BCSNs of materials designated as hazardous or PDM. BCSNs are limited to those shown in Roman type. Trade names and additional descriptive text are shown in italics.
+(1) *Column 1: Bulk Solid Material Descriptions and Bulk Cargo Shipping Names (BCSN).* Column 1 lists the bulk solid material descriptions and the BCSNs of materials designated as hazardous or PDM. BCSNs are limited to those shown in Roman type. Trade names and additional descriptive text are shown in italics. 
 
-(2) *Column 2: I.D. Number.* Column 2 lists the identification number assigned to each BCSN associated with a hazardous material. Those preceded by the letters “UN” are associated with BCSNs considered appropriate for international voyages as well as domestic voyages. Those preceded by the letters “NA” are associated with BCSNs not recognized for international voyages, except to and from Canada.
+(2) *Column 2: I.D. Number.* Column 2 lists the identification number assigned to each BCSN associated with a hazardous material. Those preceded by the letters “UN” are associated with BCSNs considered appropriate for international voyages as well as domestic voyages. Those preceded by the letters “NA” are associated with BCSNs not recognized for international voyages, except to and from Canada. 
 
-(3) *Column 3: Hazard Class or Division.* Column 3 designates the hazard class or division, or PDM, as appropriate, corresponding to each BCSN.
+(3) *Column 3: Hazard Class or Division.* Column 3 designates the hazard class or division, or PDM, as appropriate, corresponding to each BCSN. 
 
-(4) *Column 4: References.* Column 4 refers the user to the preferred BCSN corresponding to bulk solid material descriptions listed in Column 1.
+(4) *Column 4: References.* Column 4 refers the user to the preferred BCSN corresponding to bulk solid material descriptions listed in Column 1. 
 
-(5) *Column 5: Hazardous or Potentially Dangerous Characteristics.* Column 5 specifies codes for hazardous or potentially dangerous characteristics applicable to specific hazardous materials or PDMs. Refer to § 148.11 of this part for the meaning of each code.
+(5) *Column 5: Hazardous or Potentially Dangerous Characteristics.* Column 5 specifies codes for hazardous or potentially dangerous characteristics applicable to specific hazardous materials or PDMs. Refer to § 148.11 of this part for the meaning of each code. 
 
-(6) *Column 6: Other Characteristics.* Column 6 contains other pertinent characteristics applicable to specific bulk solid materials listed in Column 1.
+(6) *Column 6: Other Characteristics.* Column 6 contains other pertinent characteristics applicable to specific bulk solid materials listed in Column 1. 
 
-(7) *Column 7: Special Requirements.* Column 7 specifies the applicable sections of Part 148 of this chapter that contain detailed special requirements pertaining to stowage and/or transportation of specific bulk solid materials in this part. This column is completed in a manner which indicates that “§ 148.” precedes the designated numerical entry.
+(7) *Column 7: Special Requirements.* Column 7 specifies the applicable sections of Part 148 of this chapter that contain detailed special requirements pertaining to stowage and/or transportation of specific bulk solid materials in this part. This column is completed in a manner which indicates that “§ 148.” precedes the designated numerical entry. 
 
-(c) The following requirements apply to combinations of bulk solids carried at the same time and in the same compartment or hold:
+(c) The following requirements apply to combinations of bulk solids carried at the same time and in the same compartment or hold: 
 
 | Combinations of bulk solid materials                                                         | Requirements                                                    |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -26,7 +26,7 @@
 | (2) Material carried under Special Permit with any non-hazardous bulk solid material         | Requirements specified in the Special Permit.                   |
 | (3) Two or more materials listed in Table 148.10                                             | Must apply for a Special Permit.                                |
 
-(d) An owner, agent, master, operator, or person in charge of a vessel or barge carrying materials listed in Table 148.10 of this section must follow the requirements contained in 46 CFR part 4 for providing notice and reporting of marine casualties and retaining voyage records.
+(d) An owner, agent, master, operator, or person in charge of a vessel or barge carrying materials listed in Table 148.10 of this section must follow the requirements contained in 46 CFR part 4 for providing notice and reporting of marine casualties and retaining voyage records. 
 
 Table 148.10—Bulk Solid Hazardous Materials Table
 | Bulk solid material descriptions and bulk cargo shipping names                      | I.D. No. | Hazard class or   division | References                                                 | Hazardous or potentially dangerous characteristics (see § 148.11) | Other characteristics                                                                                                                      | Special   requirements (§ 148.\* \* \*)               |

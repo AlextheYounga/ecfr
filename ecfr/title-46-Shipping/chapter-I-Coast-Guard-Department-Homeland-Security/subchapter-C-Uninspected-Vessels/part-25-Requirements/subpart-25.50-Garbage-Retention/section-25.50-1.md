@@ -1,6 +1,6 @@
 ##### § 25.50-1 Criteria.
 
-Each uninspected vessel must meet the garbage discharge, waste management plan, and placard requirements of 33 CFR part 151 applicable to the vessel.
+Each uninspected vessel must meet the garbage discharge, waste management plan, and placard requirements of 33 CFR part 151 applicable to the vessel. 
 
 Note:
 

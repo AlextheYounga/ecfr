@@ -1,12 +1,12 @@
 ##### § 111.05-31 Grounding conductors for systems.
 
-(a) A conductor for grounding a direct-current system must be the larger of:
+(a) A conductor for grounding a direct-current system must be the larger of: 
 
-(1) The largest conductor supplying the system; or
+(1) The largest conductor supplying the system; or 
 
-(2) No. 8 AWG (8.4mm 2).
+(2) No. 8 AWG (8.4mm 2). 
 
-(b) A conductor for grounding the neutral of an alternating-current system must meet Table 111.05-31(b).
+(b) A conductor for grounding the neutral of an alternating-current system must meet Table 111.05-31(b). 
 
 Table 111.05-31(b)—Neutral Grounding Conductor for Alternating-Current System
 | Size of the largest generator cable or equivalent for parallel generators—AWG-MCM (mm2) | Size of the system grounding conductor—AWG(mm2) |
