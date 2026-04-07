@@ -1,7 +1,5 @@
 ##### § 173.31 Use of tank cars.
 
-Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) *General.* (1) No person may offer a hazardous material for transportation in a tank car unless the tank car meets the applicable specification and packaging requirements of this subchapter or, when this subchapter authorizes the use of a non-DOT specification tank car, the applicable specification to which the tank was constructed.
 
 (2) Tank cars and appurtenances may be used for the transportation of any commodity for which they are authorized in this part and specified on the certificate of construction (AAR Form 4-2 or by addendum on Form R-1). See § 179.5 of this subchapter. Transfer of a tank car from one specified service on its certificate of construction to another may be made only by the owner or with the owner's authorization. A tank car proposed for a commodity service other than specified on its certificate of construction must be approved for such service by the AAR's Tank Car Committee.
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date 
 
 (8) A tank car authorized by the Transport Canada TDG Regulations (IBR, see § 171.7 of this subchapter) may be used provided it conforms to the applicable requirements in § 171.12 of this subchapter.
 
-(b) *Safety systems* - (1) *Coupler vertical restraint.* Each tank car conforming to a DOT specification and any other tank car used for transportation of a hazardous material must be equipped with a coupler vertical restraint system that meets the requirements of § 179.14 of this subchapter.
+(b) *Safety systems*—(1) *Coupler vertical restraint.* Each tank car conforming to a DOT specification and any other tank car used for transportation of a hazardous material must be equipped with a coupler vertical restraint system that meets the requirements of § 179.14 of this subchapter.
 
 (2) *Pressure relief devices.* (i) Pressure relief devices on tank cars must conform to part 179 of this subchapter.
 
@@ -94,9 +92,9 @@ Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date 
 
 (2) Closures on tank cars are required, in accordance with this subchapter, to be designed and closed so that under conditions normally incident to transportation, including the effects of temperature and vibration, there will be no identifiable release of a hazardous material to the environment. ln any action brought to enforce this section, the lack of securement of any closure to a tool-tight condition, detected at any point, will establish a rebuttable presumption that a proper inspection was not performed by the offeror of the car. That presumption may be rebutted by any evidence indicating that the lack of securement resulted from a specific cause not within the control of the offeror.
 
-(e) *Special requirements for poisonous by inhalation (PIH) material* - (1) *Interior heater coils.* Tank cars used for PIH material may not have interior heater coils.
+(e) *Special requirements for poisonous by inhalation (PIH) material*—(1) *Interior heater coils.* Tank cars used for PIH material may not have interior heater coils.
 
-(2) *Tank car specifications.* A tank car used for a PIH material must have a tank test pressure of 20.7 Bar (300 psig) or greater, head protection, and a metal jacket (*e.g.,* DOT 105S300W), except that -
+(2) *Tank car specifications.* A tank car used for a PIH material must have a tank test pressure of 20.7 Bar (300 psig) or greater, head protection, and a metal jacket (*e.g.,* DOT 105S300W), except that—
 
 (i) A higher test pressure is required if otherwise specified in this subchapter; and
 
@@ -108,9 +106,9 @@ Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date 
 
 (4) *Phase-out of legacy tank cars.* After December 31, 2027, tank cars not meeting the requirements of §§ 173.244(a)(2) or (3) and 173.314(c) or (d) may not be used for the transportation of PIH material.
 
-(f) *Special requirements for hazardous substances.* (1) A tank car used for a hazardous substance listed in paragraph (f)(2) of this section must have a tank test pressure of at least 13.8 Bar (200 psig), head protection and a metal jacket, except that -
+(f) *Special requirements for hazardous substances.* (1) A tank car used for a hazardous substance listed in paragraph (f)(2) of this section must have a tank test pressure of at least 13.8 Bar (200 psig), head protection and a metal jacket, except that—
 
-(i) No metal jacket is required if -
+(i) No metal jacket is required if—
 
 (A) The tank test pressure is 23.4 Bar (340 psig) or higher; or
 
@@ -124,12 +122,12 @@ Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date 
 
 Aldrin Allyl chloride alpha-BHC beta-BHC delta-BHC gamma-BHC Bis(2-chloroethyl) ether Bromoform Carbon tetrachloride Chlordane p-Chloroaniline Chlorobenzene Chlorobenzilate p-Chloro-m-cresol 2-Chloroethyl vinyl ether Chloroform 2-Chloronapthalene o-Chlorophenol 3-Chloropropionitrile DDE DDT 1,2-Dibromo-3-chloropropane m-Dichlorobenzene o-Dichlorobenzene p-Dichlorobenzene 3,3′-Dichlorobenzidine 1,4-Dichloro-2-butene 1,1-Dichloroethane 1,2-Dichloroethane 1,1-Dichloroethylene Dichloroisopropyl ether Dichloromethane @ 2,4-Dichlorophenol 2,6-Dichlorophenol 1,2-Dichloropropane 1,3-Dichloropropene Dieldrin alpha-Endosulfan beta-Endosulfan Endrin Endrin aldehyde Heptachlor Heptachlor epoxide Hexachlorobenzene Hexachlorobutadiene Hexachloroethane Hexachlorophene Hexachloropropene Isodrin Kepone Methoxychlor 4,4′-Methylenebis(2-chloroaniline) Methylene bromide Pentachlorobenzene Pentachloroethane Pentachloronitrobenzene (PCNB) Pentachlorophenol Polychlorinated biphenyls (PCBs) Pronamide Silvex (2,4,5-TP) 2,4,5-T TDE 1,2,4,5-Tetrachlorobenzene 2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) Tetrachloroethane Tetrachloroethylene 2,3,4,6-Tetrachlorophenol Toxaphene 1,2,4-Trichlorobenzene 1,1,1-Trichloroethane 1,1,2-Trichloroethane Trichloroethylene 2,4,5-Trichlorophenol 2,4,6-Trichlorophenol Tris(2,3-dibromopropyl) phosphate
 
-(g) *Tank car loading and unloading.* When placed for loading or unloading and before unsecuring any closure, a tank car must be protected against movement or coupling as follows:
+(g) *Tank car loading and unloading.* When placed for loading or unloading and before unsecuring any closure, a tank car must be protected against shifting or coupling as follows:
 
 (1) Each hazmat employee who is responsible for loading or unloading a tank car must secure access to the track to prevent entry by other rail equipment, including motorized service vehicles. Derails, lined and locked switches, portable bumper blocks, or other equipment that provides an equivalent level of security may be used to satisfy this requirement.
 
 (2) Caution signs must be displayed on the track or on the tank cars to warn persons approaching the cars from the open end of the track and must be left up until after all closures are secured and the cars are in proper condition for transportation. The caution signs must be of metal or other durable material, rectangular, at 30.48 cm (12 inches) high by 38.10 cm (15 inches) wide, and bear the word “STOP.” The word “STOP” must appear in letters at least 10.16 cm (4 inches) high. The letters must be white on a blue background. Additional words, such as “Tank Car Connected” or “Crew at Work,” may also appear in white letters under the word “STOP.”
 
-(3) At least one wheel on the tank car must be blocked against movement in both directions, and the hand brakes must be set. If multiple tank cars are coupled together, sufficient hand brakes must be set and wheels blocked to prevent movement in both directions.
+(3) At least one wheel on the tank car must be blocked against motion in both directions, and the hand brakes must be set. If multiple tank cars are coupled together, sufficient hand brakes must be set and wheels blocked to prevent motion in both directions.
 
 \[Amdt. 173-245, 60 FR 49072, Sept. 21, 1995\] Editorial Note:For Federal Register citations affecting § 173.31, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
