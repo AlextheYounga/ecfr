@@ -52,7 +52,7 @@
 
 (viii) *Records and reports.* The agreement must specify the particular records that must be maintained and the information or reports that must be submitted in order to assist the participating jurisdiction in meeting its recordkeeping and reporting requirements.
 
-(ix) *Enforcement of the agreement.* The agreement must specify remedies for breach of the provisions of the agreement. The agreement must specify that, in accordance with 2 CFR 200.338, suspension or termination may occur if the subrecipient materially fails to comply with any term of the agreement. The participating jurisdiction may permit the agreement to be terminated in whole or in partin accordance with 2 CFR 200.339.
+(ix) *Enforcement of the agreement.* The agreement must specify remedies for breach of the provisions of the agreement. The agreement must specify that, in accordance with 2 CFR 200.338, suspension or termination may occur if the subrecipient materially fails to comply with any term of the agreement. The participating jurisdiction may permit the agreement to be terminated in whole or in part in accordance with 2 CFR 200.339.
 
 (x) *Written agreement.* Before the subrecipient provides HOME funds to for-profit owners or developers, nonprofit owners or developers or sponsors, subrecipients, homeowners, homebuyers, tenants (or landlords) receiving tenant-based rental assistance, or contractors, the subrecipient must have a written agreement that meets the requirements of this section. The agreement must state if repayment of HOME funds or recaptured HOME funds must be remitted to the participating jurisdiction or retained by the subrecipient for additional eligible activities.
 

@@ -40,12 +40,6 @@
 
 (B) *Limitations.* As sole ration for a single therapeutic treatment in Type C feed; feed at the rate of 1 lb of feed per 40 lb of body weight for animals up to 200 lb, and 5 lb of feed per head for animals 200 lb or over; withdraw 24 hours prior to slaughter.
 
-(iv) *Amount per ton.* Pyrantel tartrate, 96 grams (0.0106 percent) and carbadox, 50 grams (0.0055 percent).
-
-(A) *Indications for use.* For control of swine dysentery (vibrionic dysentery, bloody scours or hemorrhagic dysentery); control of bacterial swine enteritis (salmonellosis or necrotic enteritis caused by *Salmonella choleraesuis*); aid in the prevention of migration and establishment of large roundworm (*Ascaris suum*) infections; aid in the prevention of establishment of nodular worm (*Oesophagostomum*) infections.
-
-(B) *Limitations.* Do not feed to swine weighing over 75 pounds; do not feed within 10 weeks of slaughter; consult a veterinarian before feeding to severely debilitated animals; feed continuously as sole ration. Do not use in Type C feeds containing less than 15 percent crude protein.
-
 (2) *Horses* - (i) *Amount.* Feed continuously at the rate of 1.2 milligrams per pound (2.64 milligrams per kilogram) of body weight.
 
 (A) *Indications for use.* Prevention of *Strongylus vulgaris* larval infections; control of adult large strongyles (*S. vulgaris,* and *S. edentatus*), adult and 4th stage larvae small strongyles (*Cyathostomum* spp., *Cylicocyclus* spp., *Cylicostephanus* spp., *Cylicodontophorus* spp., *Poteriostomum* spp., and *Triodontophorus* spp.), adult and 4th stage larvae pinworms (*Oxyuris equi*), and adult and 4th stage larvae ascarids (*Parascaris equorum*).
