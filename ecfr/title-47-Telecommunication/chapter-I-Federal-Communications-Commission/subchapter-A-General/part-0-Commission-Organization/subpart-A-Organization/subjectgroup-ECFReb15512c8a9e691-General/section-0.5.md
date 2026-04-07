@@ -8,7 +8,7 @@
 
 (3) Office of General Counsel.
 
-(4) Office of Strategic Planning and Policy Analysis.
+(4) Office of Economics and Analytics.
 
 (5) Office of Media Relations.
 

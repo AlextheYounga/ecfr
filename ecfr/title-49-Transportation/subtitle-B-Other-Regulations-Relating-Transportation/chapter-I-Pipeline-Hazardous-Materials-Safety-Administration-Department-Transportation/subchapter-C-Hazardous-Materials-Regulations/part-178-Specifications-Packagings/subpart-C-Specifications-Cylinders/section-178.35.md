@@ -1,7 +1,5 @@
 ##### § 178.35 General requirements for specification cylinders.
 
-Link to an amendment published at 83 FR 55810, November 7, 2018.
-
 (a) *Compliance.* Compliance with the requirements of this subpart is required in all details.
 
 (b) *Inspections and analyses.* Chemical analyses and tests required by this subchapter must be made within the United States, unless otherwise approved in writing by the Associate Administrator, in accordance with subpart I of part 107 of this chapter. Inspections and verification must be performed by -
@@ -82,6 +80,8 @@ DOT-3A1800-1234-XY AB 5-95 Where: DOT-3A = specification number 1800 = service p
 
 (6) Other markings are authorized provided they are made in low stress areas other than the side wall and are not of a size and depth that will create harmful stress concentrations. Such marks may not conflict with any DOT required markings.
 
+(7) *Marking exceptions.* A DOT 8 or 8AL cylinder is not required to be marked with the service pressure.
+
 (g) *Manufacturer's reports.* At or before the time of delivery to the purchaser, the cylinder manufacturer must have all completed certification documents listed in CGA C-11. The manufacturer of the cylinders must retain the reports required by this subpart for 15 years from the original test date of the cylinder.
 
-\[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45185, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 76 FR 43531, July 20, 2011\]
+\[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45185, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 76 FR 43531, July 20, 2011; 83 FR 55810, Nov. 7, 2018\]

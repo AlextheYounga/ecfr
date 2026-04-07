@@ -1,7 +1,5 @@
 ##### § 180.407 Requirements for test and inspection of specification cargo tanks.
 
-Link to an amendment published at 83 FR 55810, November 7, 2018.
-
 (a) *General.* (1) A cargo tank constructed in accordance with a DOT specification for which a test or inspection specified in this section has become due, may not be filled and offered for transportation or transported until the test or inspection has been successfully completed. This paragraph does not apply to any cargo tank filled prior to the test or inspection due date.
 
 (2) Except during a pressure test, a cargo tank may not be subjected to a pressure greater than its design pressure or MAWP.
@@ -151,18 +149,20 @@ Note 5: A 10-year inspection interval period also applies to cargo tanks constru
 
 (iii) Except for cargo tanks carrying lading corrosive to the tank, areas covered by the upper coupler (fifth wheel) assembly must be inspected for corroded and abraded areas, dents, distortions, defects in welds, and any other condition that might render the tank unsafe for transportation service. The upper coupler (fifth wheel) assembly must be removed from the cargo tank for this inspection.
 
-(iv) Each cargo tank must be tested hydrostatically or pneumatically to the internal pressure specified in the following table. At no time during the pressure test may a cargo tank be subject to pressures that exceed those identified in the following table:
+(iv) Each cargo tank must be tested hydrostatically or pneumatically to the internal pressure specified in the following table. At no time during the pressure test may a cargo tank be subject to pressures that exceed those identified in Table 1 to paragraph (g)(1)(iv):
 
-| Specification                   | Test pressure                                                                 |
-| ------------------------------- | ----------------------------------------------------------------------------- |
-| MC 300, 301, 302, 303, 305, 306 | 20.7 kPa (3 psig) or design pressure, whichever is greater.                   |
-| MC 304, 307                     | 275.8 kPa (40 psig) or 1.5 times the design pressure, whichever is greater.   |
-| MC 310, 311, 312                | 20.7 kPa (3 psig) or 1.5 times the design pressure, whichever is greater.     |
-| MC 330, 331                     | 1.5 times either the MAWP or the re-rated pressure, whichever is applicable.  |
-| MC 338                          | 1.25 times either the MAWP or the re-rated pressure, whichever is applicable. |
-| DOT 406                         | 34.5 kPa (5 psig) or 1.5 times the MAWP, whichever is greater.                |
-| DOT 407                         | 275.8 kPa (40 psig) or 1.5 times the MAWP, whichever is greater.              |
-| DOT 412                         | 1.5 times the MAWP.                                                           |
+Table 1 to Paragraph (g)(1)(iv)
+
+| Specification                   | Test pressure                                                                                                                             |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| MC 300, 301, 302, 303, 305, 306 | The test pressure on the name plate or specification plate, or 1.5 times the MAWP, whichever is greater.                                  |
+| MC 304, 307                     | The test pressure on the name plate or specification plate, 275.8 kPa (40 psig) or 1.5 times the design pressure, whichever is greater.   |
+| MC 310, 311, 312                | The test pressure on the name plate or specification plate, 20.7 kPa (3 psig) or 1.5 times the design pressure, whichever is greater.     |
+| MC 330, 331                     | The test pressure on the name plate or specification plate, 1.5 times either the MAWP or the re-rated pressure, whichever is applicable.  |
+| MC 338                          | The test pressure on the name plate or specification plate, 1.25 times either the MAWP or the re-rated pressure, whichever is applicable. |
+| DOT 406                         | The test pressure on the name plate or specification plate, 34.5 kPa (5 psig) or 1.5 times the MAWP, whichever is greater.                |
+| DOT 407                         | The test pressure on the name plate or specification plate, 275.8 kPa (40 psig) or 1.5 times the MAWP, whichever is greater.              |
+| DOT 412                         | The test pressure on the name plate or specification plate, or 1.5 times the MAWP whichever is greater.                                   |
 
 (v) \[Reserved\]
 
@@ -333,4 +333,4 @@ Table II - In-Service Minimum Thickness for MC 301, MC 302, MC 304, MC 305, MC 3
 
 (3) Self-closing pressure relief devices not tested or failing the tests in paragraph (j)(1) of this section must be repaired or replaced.
 
-\[Amdt. 180-2, 54 FR 25032, June 12, 1989\] Editorial Note:For Federal Register citations affecting § 180.407, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+\[Amdt. 180-2, 54 FR 25032, June 12, 1989\] Editorial Note:For Federal Register citations affecting § 180.407, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

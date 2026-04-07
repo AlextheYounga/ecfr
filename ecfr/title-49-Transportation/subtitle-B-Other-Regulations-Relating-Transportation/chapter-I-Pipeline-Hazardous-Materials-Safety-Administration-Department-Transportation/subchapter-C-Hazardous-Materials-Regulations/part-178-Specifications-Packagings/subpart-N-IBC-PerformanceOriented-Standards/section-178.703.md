@@ -1,7 +1,5 @@
 ##### § 178.703 Marking of IBCs.
 
-Link to an amendment published at 83 FR 55810, November 7, 2018.
-
 (a) The manufacturer shall:
 
 (1) Mark every IBC in a durable and clearly visible manner. The marking may be applied in a single line or in multiple lines provided the correct sequence is followed with the information required by this section in letters, numerals and symbols of at least 12 mm in height. This minimum marking size applies only to IBCs manufactured after October 1, 2001). The following information is required in the sequence presented:
@@ -84,7 +82,7 @@ Link to an amendment published at 83 FR 55810, November 7, 2018.
 
 (6) For each composite IBC, the inner receptacle must be marked with at least the following information:
 
-(i) The code number designating the IBC design type, the name and address or symbol of the manufacturer, the date of manufacture and the country authorizing the allocation of the mark as specified in paragraph (a) of this section;
+(i) The code number designating the IBC design type, the name and address or symbol of the manufacturer, the date of manufacture and the country authorizing the allocation of the mark as specified in paragraph (a) of this section. The date of manufacture of the inner receptacle may be different from the marked date of manufacture required by § 178.703(a)(1)(iv) or by § 180.352(d)(1)(iv) of this subchapter; and
 
 (ii) When a composite IBC is designed in such a manner that the outer casing is intended to be dismantled for transport when empty (such as, for the return of the IBC for reuse to the original consignor), each of the parts intended to be detached when so dismantled must be marked with the month and year of manufacture and the name or symbol of the manufacturer.
 
@@ -104,4 +102,4 @@ Link to an amendment published at 83 FR 55810, November 7, 2018.
 
 (iv) For IBCs designed for stacking, the maximum permitted stacking load applicable when the IBC is in use must be displayed with the symbol. The mass in kilograms (kg) marked above the symbol must not exceed the load imposed during the design test, as indicated by the marking in paragraph (a)(1)(vii) of this section, divided by 1.8. The letters and numbers indicating the mass must be at least 12 mm (0.48 inches).
 
-\[Amdt. 178-103, 59 FR 38068, July 26, 1994, as amended by Amdt. 178-119, 62 FR 24743, May 6, 1997; 64 FR 10782, Mar. 5, 1999; 65 FR 50462, Aug. 18, 2000; 65 FR 58632, Sept. 29, 2000; 66 FR 33451, June 21, 2001; 66 FR 45387, Aug. 28, 2001; 74 FR 2269, Jan. 14, 2009; 75 FR 74, Jan. 4, 2010; 75 FR 5396, Feb. 2, 2010; 76 FR 3389, Jan. 19, 2011; 80 FR 1168, Jan. 8, 2015\]
+\[Amdt. 178-103, 59 FR 38068, July 26, 1994, as amended by Amdt. 178-119, 62 FR 24743, May 6, 1997; 64 FR 10782, Mar. 5, 1999; 65 FR 50462, Aug. 18, 2000; 65 FR 58632, Sept. 29, 2000; 66 FR 33451, June 21, 2001; 66 FR 45387, Aug. 28, 2001; 74 FR 2269, Jan. 14, 2009; 75 FR 74, Jan. 4, 2010; 75 FR 5396, Feb. 2, 2010; 76 FR 3389, Jan. 19, 2011; 80 FR 1168, Jan. 8, 2015; 83 FR 55810, Nov. 7, 2018\]

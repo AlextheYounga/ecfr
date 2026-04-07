@@ -1,7 +1,5 @@
 ##### § 178.337-9 Pressure relief devices, piping, valves, hoses, and fittings.
 
-Link to an amendment published at 83 FR 55810, November 7, 2018.
-
 (a) *Pressure relief devices.* (1) See § 173.315(i) of this subchapter.
 
 (2) On cargo tanks for carbon dioxide or nitrous oxide see § 173.315 (i) (9) and (10) of this subchapter.
@@ -28,7 +26,7 @@ Link to an amendment published at 83 FR 55810, November 7, 2018.
 
 (iii) Mark each hose assembly with the month and year of its original pressure test.
 
-(8) *Chlorine cargo tanks.* Angle valves on cargo tanks intended for chlorine service must conform to the standards of the Chlorine Institute, Inc., Dwg. 104-8 or “Section 3, Pamphlet 166, Angle Valve Guidelines for Chlorine Bulk Transportation.” (IBR, see § 171.7 of this subchapter). Before installation, each angle valve must be tested for leakage at not less than 225 psig using dry air or inert gas.
+(8) *Chlorine cargo tanks.* Angle valves on cargo tanks intended for chlorine service must conform to the standards of the Chlorine Institute, Inc., Drawing; Dwg. 104-8; or “Section 3, Pamphlet 166, Angle Valve Guidelines for Chlorine Bulk Transportation;” or “Sections 4 through 6, Pamphlet 168, Guidelines for Dual Valve Systems for Bulk Chlorine Transport” (IBR, see § 171.7 of this subchapter). Before installation, each angle valve must be tested for leakage at not less than 225 psig using dry air or inert gas.
 
 (c) *Marking inlets and outlets.* Except for gauging devices, thermometer wells, and pressure relief valves, each cargo tank inlet and outlet must be marked “liquid” or “vapor” to designate whether it communicates with liquid or vapor when the cargo tank is filled to the maximum permitted filling density. A filling line that communicates with vapor may be marked “spray-fill” instead of “vapor.”
 
@@ -36,4 +34,4 @@ Link to an amendment published at 83 FR 55810, November 7, 2018.
 
 (2) Where any liquid susceptible to freezing, or the vapor of any such liquid, is used for heating or refrigeration, the heating or refrigeration system shall be arranged to permit complete drainage.
 
-\[Order 59-B, 30 FR 580, Jan. 16, 1965. Redesignated at 32 FR 5606, Apr. 5, 1967\] Editorial Note:For Federal Register citations affecting § 178.337-9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+\[Order 59-B, 30 FR 580, Jan. 16, 1965. Redesignated at 32 FR 5606, Apr. 5, 1967\] Editorial Note:For Federal Register citations affecting § 178.337-9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
