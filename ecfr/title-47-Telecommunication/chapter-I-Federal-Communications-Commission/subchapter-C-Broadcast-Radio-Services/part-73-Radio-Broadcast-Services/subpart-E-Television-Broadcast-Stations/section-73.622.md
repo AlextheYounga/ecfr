@@ -465,7 +465,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Danville             | 19                                                  |
 | Elizabethtown        | \*23                                                |
 | Harlan               | S                                                   |
-| Hazard               | 12, \*33                                            |
+| Hazard               | 20, \*33                                            |
 | Lexington            | 21, 27, 28, \*35                                    |
 | Louisville           | 8, 11, 14, \*30, 32, \*34, 36                       |
 | Madisonville         | \*31                                                |
