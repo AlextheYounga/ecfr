@@ -6,7 +6,7 @@ As used in this subpart:
 
 *On-deck spill* means a discharge of oil on the deck of a vessel during loading, unloading, transfer, or other shipboard operations. An on-deck spill could result from a leaking fitting, an overfill, a bad connection, or similar operational mishap. The term *on-deck spill* is used to differentiate these operational discharges from those caused by collision or grounding where the hull is punctured and a tank is ruptured, resulting in an uncontrolled discharge of oil into the marine environment. 
 
-*Offshore oil barge* means a tank barge carrying oil in bulk as cargo, including dual-mode integrated tug-barges, certificated by the Coast Guard under 46 CFR chapter I, subchapter D, for navigation in waters outside the Boundary Lines, as defined in 46 CFR part 7, in any ocean or the Gulf of Mexico; any tank barge in Great Lakes service; or any foreign flag tank barge. 
+*Offshore oil barge* means a tank barge carrying oil in bulk as cargo, including dual-mode integrated tug-barges, certificated by the Coast Guard under 46 CFR chapter I, subchapter D, for navigation in waters outside the Boundary Lines, as defined in 46 CFR part 7, in any ocean or the Gulf of America; any tank barge in Great Lakes service; or any foreign flag tank barge. 
 
 *Oil tanker* means a self-propelled vessel carrying oil in bulk as cargo, including integrated tug-barges designed for push-mode operation. 
 

@@ -1,0 +1,3 @@
+##### § 791.320 Administrative collection; referral to United States Department of Justice.
+
+In the event that the violator does not pay the penalty imposed pursuant to this subpart or make payment arrangements acceptable to BIS, the matter may be referred for administrative collection measures by the United States Department of the Treasury or to the United States Department of Justice for appropriate action to recover the penalty in a civil suit in a Federal district court.

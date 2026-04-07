@@ -30,6 +30,6 @@ Table 171.150
 | 30(76)                                                                                                       | 16(338.6)             |
 | 36(91)                                                                                                       | 20(423.2)             |
 | 1 Intermediate values of freeing port area can be obtained by interpolation.                                 |                       |
-| 2 In square inches per foot (square centimeters per meter) of bulwark length in the after 2/3 of the vessel. |                       |
+| 2 In square inches per foot (square centimeters per meter) of bulwark length in the after 2⁄3 of the vessel. |                       |
 
 \[CGD 85-080, 62 FR 51354, Sept. 30, 1997\]

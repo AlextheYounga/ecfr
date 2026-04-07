@@ -1,8 +1,8 @@
-##### § 162.75 All waterways tributary to the Gulf of Mexico (except the Mississippi River, its tributaries, South and Southwest Passes and Atchafalaya River) from St. Marks, Fla., to the Rio Grande.
+##### § 162.75 All waterways tributary to the Gulf of America (except the Mississippi River, its tributaries, South and Southwest Passes and Atchafalaya River) from St. Marks, Fla., to the Rio Grande.
 
 (a) The regulations in this section shall apply to: 
 
-(1) *Waterways.* All navigable waters of the U.S. tributary to or connected by other waterways with the Gulf of Mexico between St. Marks, Fla., and the Rio Grande, Tex. (both inclusive), and the Gulf Intracoastal Waterway; except the Mississippi River, its tributaries, South and Southwest Passes, and the Atchafalaya River above its junction with the Morgan City-Port Allen Route. 
+(1) *Waterways.* All navigable waters of the U.S. tributary to or connected by other waterways with the Gulf of America between St. Marks, Fla., and the Rio Grande, Tex. (both inclusive), and the Gulf Intracoastal Waterway; except the Mississippi River, its tributaries, South and Southwest Passes, and the Atchafalaya River above its junction with the Morgan City-Port Allen Route. 
 
 (2) *Bridges, wharves, and other structures.* All bridges, wharves, and other structures in or over these waterways. 
 

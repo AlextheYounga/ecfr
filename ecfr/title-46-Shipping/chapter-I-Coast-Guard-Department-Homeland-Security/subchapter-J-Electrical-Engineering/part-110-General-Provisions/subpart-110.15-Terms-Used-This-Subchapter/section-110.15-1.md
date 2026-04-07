@@ -6,7 +6,7 @@ As used in this subchapter—
 
 (b) In addition to the definitions in paragraph (a) of this section— 
 
-*Coastwise Vessel* means a vessel that normally navigates the waters of any ocean or the Gulf of Mexico 20 nautical miles or less offshore and is certificated for coastwise navigation by the Coast Guard. 
+*Coastwise Vessel* means a vessel that normally navigates the waters of any ocean or the Gulf of America 20 nautical miles or less offshore and is certificated for coastwise navigation by the Coast Guard. 
 
 *Commandant* means the Commandant of the Coast Guard. 
 

@@ -38,7 +38,7 @@ For the purposes of this subpart, the following definitions apply:
 
 *Heavy lift* means the use of a salvage crane, A-frames, hydraulic jacks, winches, or other equipment for lifting, righting, or stabilizing a vessel. 
 
-*Inland area* means the area shoreward of the boundary lines defined in 46 CFR part 7, except that in the Gulf of Mexico, it means the area shoreward of the lines of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter. The inland area does not include the Great Lakes. 
+*Inland area* means the area shoreward of the boundary lines defined in 46 CFR part 7, except that in the Gulf of America, it means the area shoreward of the lines of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter. The inland area does not include the Great Lakes. 
 
 *Making temporary repairs* means action to temporarily repair a vessel to enable it to safely move to a shipyard or other location for permanent repairs. These services include, but are not limited to, shoring, patching, drill stopping, or structural reinforcement. 
 
@@ -46,7 +46,7 @@ For the purposes of this subpart, the following definitions apply:
 
 *Marine firefighting pre-fire plan* means a plan that outlines the responsibilities and actions during a marine fire incident. The principle purpose is to explain the resource provider's role, and the support which can be provided, during marine firefighting incidents. Policies, responsibilities and procedures for coordination of on-scene forces are provided in the plan. It should be designed for use in conjunction with other state, regional and local contingency and resource mobilization plans. 
 
-*Nearshore area* means the area extending seaward 12 miles from the boundary lines defined in 46 CFR part 7, except in the Gulf of Mexico. In the Gulf of Mexico, a nearshore area is one extending seaward 12 miles from the line of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter. 
+*Nearshore area* means the area extending seaward 12 miles from the boundary lines defined in 46 CFR part 7, except in the Gulf of America. In the Gulf of America, a nearshore area is one extending seaward 12 miles from the line of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter. 
 
 *Offshore area* means the area up to 38 nautical miles seaward of the outer boundary of the nearshore area. 
 

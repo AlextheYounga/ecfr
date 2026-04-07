@@ -1,6 +1,6 @@
-##### § 147.859 Safety Zone; Gulfstar 1 SPAR, Mississippi Canyon Block 724, Outer Continental Shelf on the Gulf of Mexico.
+##### § 147.859 Safety Zone; Gulfstar 1 SPAR, Mississippi Canyon Block 724, Outer Continental Shelf on the Gulf of America.
 
-(a) *Description.* The Gulfstar 1 Spar is in the deepwater area of the Gulf of Mexico at Mississippi Canyon Block 724. The facility is located at 28°14′05.904″ N, 88°59′43.306″ W, and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
+(a) *Description.* The Gulfstar 1 Spar is in the deepwater area of the Gulf of America at Mississippi Canyon Block 724. The facility is located at 28°14′05.904″ N, 88°59′43.306″ W, and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
 
 (b) *Regulation.* No vessel may enter or remain in this safety zone except the following: 
 

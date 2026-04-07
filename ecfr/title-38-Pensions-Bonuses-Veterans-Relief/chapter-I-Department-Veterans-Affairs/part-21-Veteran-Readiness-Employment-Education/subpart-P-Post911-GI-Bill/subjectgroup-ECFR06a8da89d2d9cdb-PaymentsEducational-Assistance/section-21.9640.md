@@ -1,26 +1,25 @@
-##### § 21.9640 Rates of payment of educational assistance.
+##### § 21.9640 Rates of payment of educational assistance—for provisions effective before August 1, 2011.
 
-Link to an amendment published at 90 FR 5348, Jan. 16, 2025.
+For training that occurs before August 1, 2011, unless otherwise noted, VA will determine the amount of educational assistance payable under 38 U.S.C. chapter 33 as provided in this section. 
 
-VA will determine the amount of educational assistance payable under 38 U.S.C. chapter 33 as provided in this section. 
+(a) *Percentage of maximum amounts payable.* (1) Except as provided in paragraphs (a)(2) and (d) of this section, VA will apply the applicable percentage of the maximum amounts payable under this section for pursuit of an approved program of education, in accordance with table 1 to paragraph (a). 
 
-(a) *Percentage of maximum amounts payable.* Except as provided in paragraph (d) of this section, VA will apply the applicable percentage of the maximum amounts payable under this section for pursuit of an approved program of education, in accordance with the following table— 
+Table 1 to paragraph (a)
+| Aggregate length of creditable active duty service after   09/10/01                                                                                                                                                                                                                                                                                              | Number of days                                                            | Percentage   of maximum   amounts   payable |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------- |
+| At least 36 months 1                                                                                                                                                                                                                                                                                                                                             | If aggregate service (including entry training) is 1095 days or more days | 100                                         |
+| At least 30 continuous days   (Must be discharged due to service-connected disability)                                                                                                                                                                                                                                                                           |                                                                           | 100                                         |
+| At least 30 months, but less than 36 months 1                                                                                                                                                                                                                                                                                                                    | If aggregate service (including entry training) is from 910 to 1094 days  | 90                                          |
+| At least 24 months, but less than 30 months 1 3                                                                                                                                                                                                                                                                                                                  | If aggregate service (including entry training) is from 730 to 909 days   | 3 80                                        |
+| At least 18 months, but less than 24 months 2 3                                                                                                                                                                                                                                                                                                                  | If aggregate service (excluding entry training) is from 545 to 729 days   | 3 70                                        |
+| At least 12 months, but less than 18 months 2                                                                                                                                                                                                                                                                                                                    | If aggregate service (excluding entry training) is from 365 to 544 days   | 60                                          |
+| At least 6 months, but less than 12 months 2                                                                                                                                                                                                                                                                                                                     | If aggregate service (excluding entry training) is from 180 to 364 days   | 50                                          |
+| At least 90 days, but less than 6 months 2                                                                                                                                                                                                                                                                                                                       | If aggregate service (excluding entry training) is from 90 to 179 days    | 40                                          |
+| 1 Includes entry level and skill training.                                                                                                                                                                                                                                                                                                                       |                                                                           |                                             |
+| 2 Excludes entry level and skill training.                                                                                                                                                                                                                                                                                                                       |                                                                           |                                             |
+| 3 The 70/80% rule: If the aggregate service including training is at least 24 months but less than 30 months (730-909 days) BUT the aggregate service excluding training is at least 18 but less than 24 months (545 to 729 days), the individual will be deemed eligible at the 70% benefit level. This limitation is explicitly mandated by 38 U.S.C. 3311(e). |                                                                           |                                             |
 
-| Aggregate length of creditable active duty service after 09/10/01                                                                              | Percentage of maximum amounts payable |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| At least 36 months 1                                                                                                                           | 100                                   |
-| At least 30 continuous days (Must be discharged due to service-connected disability)                                                           | 100                                   |
-| At least 30 months, but less than 36 months 1                                                                                                  | 90                                    |
-| At least 24 months, but less than 30 months 1                                                                                                  | 80 3                                  |
-| At least 18 months, but less than 24 months 2                                                                                                  | 70 3                                  |
-| At least 12 months, but less than 18 months 2                                                                                                  | 60                                    |
-| At least 6 months, but less than 12 months 2                                                                                                   | 50                                    |
-| At least 90 days, but less than 6 months 2                                                                                                     | 40                                    |
-| 1 Includes entry level and skill training.                                                                                                     |                                       |
-| 2 Excludes entry level and skill training.                                                                                                     |                                       |
-| 3 If the service requirements are met at both the 80 and 70 percentage level, the maximum percentage of 70 must be applied to amounts payable. |                                       |
-
-(Authority: 38 U.S.C. 3311, 3313)
+(2) *Amounts payable for individuals eligible for the Marine Gunnery Sergeant John David Fry Scholarship.* VA will apply 100 percent of the maximum amounts payable for pursuit of an approved program of education by an individual who is eligible for educational assistance under § 21.9520(d). 
 
 (b) *Maximum amounts payable for training at more than one-half time.* An individual, other than one on active duty, who is pursuing a program of education at more than one-half time (at a rate of pursuit greater than 50 percent) and who— 
 
@@ -130,14 +129,32 @@ VA will determine the amount of educational assistance payable under 38 U.S.C. c
 
 (C) The percentage equal to the individual's rate of pursuit as determined by dividing the number of credit hours the individual is pursuing by the number of credit hours required for full-time pursuit. 
 
-(d) *Amounts payable for individuals on active duty.* Individuals on active duty who are pursuing a program of education may receive a lump sum amount for established charges paid directly to the institution of higher learning for the entire quarter, semester, or term, as applicable. The amount payable will be the lowest of— 
+(d) *Amounts payable for individuals on active duty*—(1) *Amounts payable for programs of education beginning on or after August 1, 2009, and on or before March 4,2011.* Individuals on active duty who are pursuing a program of education during a quarter, semester, or term that starts during the period beginning August 1, 2009, and ending March 4, 2011, may receive a lump sum amount for established charges paid directly to the institution of higher learning for the entire term, quarter, or semester, as applicable. The amount payable will be the lowest of— 
 
-(1) The established charges that similarly circumstanced nonveterans enrolled in the individual's program of education would be required to pay; 
+(i) The established charges that similarly circumstanced nonveterans enrolled in the individual's program of education would be required to pay; 
 
-(2) That portion of the established charges not covered by military tuition assistance under 10 U.S.C. 2007(a) or (b) for which the individual has stated to VA that he or she wishes to receive payment. 
+(ii) That portion of the established charges not covered by military tuition assistance under 10 U.S.C. 2007(a) or (b) for which the individual has stated to VA that he or she wishes to receive payment; 
 
-(3) The lesser amount of paragraph (d)(1) or (2) of this section, divided by the number of days in the individual's quarter, semester, or term, as applicable, to determine the individual's daily rate which will then be multiplied by the individual's remaining months and days of entitlement to educational assistance in accordance with § 21.4020 and § 21.9635(o); 
+(iii) The lesser amount of paragraph (d)(i) or (ii) of this section, divided by the number of days in the individual's quarter, semester, or term, as applicable, to determine the individual's daily rate which will then be multiplied by the individual's remaining months and days of entitlement to educational assistance in accordance with §§ 21.4020 and 21.9635(o); 
+
+(2) *Amounts payable for a program of education, on more than half-time basis, leading to a degree and beginning after March 4, 2011, but before August 1, 2011.* (i) VA may, on behalf of an individual on active duty who is pursuing a program of education leading to a degree on more than half-time basis at a public IHL, issue a lump sum payment for the term, quarter, or semester directly to the IHL equal to the applicable percentage (as listed in paragraph (a) of this section) of the net cost for in-State tuition and fees. 
+
+(ii) VA may, on behalf of an individual on active duty who is pursuing a program of education leading to a degree on more than half-time basis at a non-public or foreign IHL, issue a lump sum payment for the term, quarter, or semester directly to the IHL equal to the lesser of the applicable percentage (as listed in paragraph (a) of this section) of the net cost for tuition and fees assessed by the institution or— 
+
+(A) For the academic year beginning August 1, 2011, $17,500; or 
+
+(B) For the academic year beginning on any subsequent August 1, the amount for the previous academic year, as increased under 38 U.S.C. 3015(h). 
+
+(3) *Amounts payable for a program of education, on a half-time basis or less, leading to a degree and beginning after March 4, 2011, but before August 1, 2011.* Amounts payable for the individual will be calculated in accordance with paragraph (d)(1) of this section. 
+
+(4) *Amounts payable for a program of education not leading to a degree and beginning after March 4, 2011, but before August 1, 2011.* Amounts payable for the individual will be calculated in accordance with paragraph (d)(1) of this section. 
 
 (e) *Publication of educational assistance rates.* VA will publish the maximum amounts of tuition and fees payable for the upcoming academic year in the “Notices” section of the Federal Register and on the GI Bill Web site at *http://www.gibill.va.gov* by the first of August of each calendar year. The maximum amounts payable, as published, will be effective for each term, quarter, or semester that begins during the academic year. 
 
-(Authority: 38 U.S.C. 3313, 3323(c))
+(f) *Authority.* (1) Paragraph (a)(1) of this section issued under the authority of 38 U.S.C. 3311, 3313; 
+
+(2) Paragraph (d)(2) of this section issued under the authority of 38 U.S.C. 501(a), 3313(e); and 
+
+(3) Paragraph (e) of this section issued under the authority of 38 U.S.C. 3313, 3323(c). 
+
+\[74 FR 14671, Mar. 31, 2009, as amended at 90 FR 5348, Jan. 16, 2025\]

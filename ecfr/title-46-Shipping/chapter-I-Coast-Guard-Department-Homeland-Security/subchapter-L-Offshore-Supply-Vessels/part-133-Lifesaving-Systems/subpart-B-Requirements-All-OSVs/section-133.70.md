@@ -66,7 +66,7 @@ Table 133.70
 
 (c) *Immersion suits or anti-exposure suits.* Immersion suits must be approved under approval series 160.171, and anti-exposure suits must be approved under approval series 160.153. 
 
-(1) *General.* Each OSV, except OSVs operating in the Gulf of Mexico or on other routes between 32 degrees north latitude and 32 degrees south latitude, must carry— 
+(1) *General.* Each OSV, except OSVs operating in the Gulf of America or on other routes between 32 degrees north latitude and 32 degrees south latitude, must carry— 
 
 (i) An immersion suit or anti-exposure suit of suitable size for each person assigned to the rescue boat crew; and 
 

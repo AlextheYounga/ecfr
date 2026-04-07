@@ -1,6 +1,6 @@
-##### § 21.9680 Certifications and release of payments.
+##### § 21.9680 Certifications and release of payments—for provisions effective before August 1, 2011.
 
-Link to an amendment published at 90 FR 5353, Jan. 16, 2025.
+For training pursued during the period beginning August 1, 2009, and ending July 31, 2011— 
 
 (a) *Payee.* (1) VA will make payment of the appropriate amount of established charges (including top-up payments), as determined under § 21.9640, directly to the institution of higher learning as a lump sum payment for the entire quarter, semester, or term, as applicable. 
 
@@ -202,4 +202,4 @@ Link to an amendment published at 90 FR 5353, Jan. 16, 2025.
 
 (e) *Accrued benefits.* Educational assistance remaining due and unpaid on the date of the individual's death is payable under the provisions of § 3.1000 of this chapter. 
 
-(Authority: 38 U.S.C. 5121)
+(Authority: 38 U.S.C. 5121) \[74 FR 14671, Mar. 31, 2009, as amended at 90 FR 5353, Jan. 16, 2025\]

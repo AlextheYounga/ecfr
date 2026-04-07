@@ -7,10 +7,10 @@
 | Training                             | Monthly rate |
 | ------------------------------------ | ------------ |
 | Full time                            | $1222.00     |
-| 3/4 time                             | 917.00       |
-| 1/2 time                             | 611.00       |
-| Less than 1/2 but more than 1/4 time | 611.00       |
-| 1/4 time or less                     | 305.50       |
+| 3⁄4 time                             | 917.00       |
+| 1⁄2 time                             | 611.00       |
+| Less than 1⁄2 but more than 1⁄4 time | 611.00       |
+| 1⁄4 time or less                     | 305.50       |
 
 (Authority: 38 U.S.C. 3015)
 
@@ -19,10 +19,10 @@
 | Training                             | Monthly rate |
 | ------------------------------------ | ------------ |
 | Full time                            | $1263.00     |
-| 3/4 time                             | 947.75       |
-| 1/2 time                             | 631.50       |
-| Less than 1/2 but more than 1/4 time | 631.50       |
-| 1/4 time or less                     | 315.75       |
+| 3⁄4 time                             | 947.75       |
+| 1⁄2 time                             | 631.50       |
+| Less than 1⁄2 but more than 1⁄4 time | 631.50       |
+| 1⁄4 time or less                     | 315.75       |
 
 (Authority: 38 U.S.C. 3015)
 
@@ -31,10 +31,10 @@
 | Training                             | Monthly rate |
 | ------------------------------------ | ------------ |
 | Full time                            | $1289.00     |
-| 3/4 time                             | 967.25       |
-| 1/2 time                             | 644.50       |
-| Less than 1/2 but more than 1/4 time | 644.50       |
-| 1/4 time or less                     | 322.25       |
+| 3⁄4 time                             | 967.25       |
+| 1⁄2 time                             | 644.50       |
+| Less than 1⁄2 but more than 1⁄4 time | 644.50       |
+| 1⁄4 time or less                     | 322.25       |
 
 (Authority: 38 U.S.C. 3015)
 

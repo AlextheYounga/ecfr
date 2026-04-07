@@ -7,10 +7,10 @@ In addition to basic educational assistance, a veteran or servicemember who is e
 | **Training**                         | **Monthly rate**       |
 | ------------------------------------ | ---------------------- |
 | Full time                            | $300.                  |
-| 3/4 time                             | 225.                   |
-| 1/2 time                             | 150.                   |
-| Less than 1/2 but more than 1/4 time | 150 See paragraph (c). |
-| 1/4 time or less                     | 75 See paragraph (c).  |
+| 3⁄4 time                             | 225.                   |
+| 1⁄2 time                             | 150.                   |
+| Less than 1⁄2 but more than 1⁄4 time | 150 See paragraph (c). |
+| 1⁄4 time or less                     | 75 See paragraph (c).  |
 | Cooperative                          | 240.                   |
 
 (Authority: 38 U.S.C. 3015(d), 3022, 3032(d); Pub. L. 98-525, Pub. L. 100-689) (Jan. 1, 1989)

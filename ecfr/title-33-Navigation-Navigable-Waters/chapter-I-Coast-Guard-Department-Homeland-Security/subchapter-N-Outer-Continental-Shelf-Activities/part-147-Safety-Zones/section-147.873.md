@@ -1,6 +1,6 @@
 ##### § 147.873 Safety Zone; Lucius Spar, Outer Continental Shelf Facility, Keathley Canyon 875.
 
-(a) *Description.* The Lucius Spar in the deepwater area of the Gulf of Mexico at Keathley Canyon 875. The facility is located at: 26°7′55.0632″ N, 92°2′24.2982″ W (NAD 83) and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
+(a) *Description.* The Lucius Spar in the deepwater area of the Gulf of America at Keathley Canyon 875. The facility is located at: 26°7′55.0632″ N, 92°2′24.2982″ W (NAD 83) and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
 
 (b) *Regulation.* No vessel may enter or remain in this safety zone except for the following: 
 

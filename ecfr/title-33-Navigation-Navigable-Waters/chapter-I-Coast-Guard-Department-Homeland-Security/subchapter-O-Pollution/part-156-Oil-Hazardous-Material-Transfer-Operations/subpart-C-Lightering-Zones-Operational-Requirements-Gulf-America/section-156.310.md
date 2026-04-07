@@ -1,6 +1,6 @@
 ##### § 156.310 Prohibited areas.
 
-Lightering operations and STS Operations are prohibited within the following areas in the Gulf of Mexico: 
+Lightering operations and STS Operations are prohibited within the following areas in the Gulf of America: 
 
 (a) *Claypile—prohibited area.* This prohibited area consists of the waters bounded by a line connecting the following points beginning at: 
 

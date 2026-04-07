@@ -2,7 +2,7 @@
 
 (a) A line drawn from Point Au Fer to Atchafalaya Channel Light 34; thence to Atchafalaya Channel Light 33; thence to latitude 29°25.0′ N., longitude 91°31.7′ W.; thence to Atchafalaya Bay Light 1 latitude 29°25.3′ N., longitude 91°35.8′ W.; thence to South Point. 
 
-(b) Lines following the general trend of the highwater shoreline drawn across the bayou and canal inlets from the Gulf of Mexico between South Point and Calcasieu Pass except as otherwise described in this section. 
+(b) Lines following the general trend of the highwater shoreline drawn across the bayou and canal inlets from the Gulf of America between South Point and Calcasieu Pass except as otherwise described in this section. 
 
 (c) A line drawn on an axis of 140° true through Southwest Pass Vermillion Bay Light 4 across Southwest Pass. 
 

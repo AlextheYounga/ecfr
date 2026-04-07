@@ -62,7 +62,7 @@ The following terms are used in this subchapter:
 
 (1) Any ocean; 
 
-(2) The Gulf of Mexico; 
+(2) The Gulf of America; 
 
 (3) The Caribbean Sea; 
 
@@ -266,7 +266,7 @@ The following terms are used in this subchapter:
 
 (1) Any ocean; 
 
-(2) The Gulf of Mexico; 
+(2) The Gulf of America; 
 
 (3) The Caribbean Sea; 
 

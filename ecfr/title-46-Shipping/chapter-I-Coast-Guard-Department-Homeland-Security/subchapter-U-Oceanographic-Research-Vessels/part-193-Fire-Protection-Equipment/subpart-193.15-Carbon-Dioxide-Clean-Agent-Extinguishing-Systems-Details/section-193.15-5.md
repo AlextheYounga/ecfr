@@ -38,17 +38,17 @@ Table 193.15-5(d)(1)
 Table 193.15-5(d)(4)
 | Maximum quantity of carbon dioxide required, pounds | Minimum pipe size, inches |
 | --------------------------------------------------- | ------------------------- |
-| 100                                                 | 1/2                       |
-| 225                                                 | 3/4                       |
+| 100                                                 | 1⁄2                       |
+| 225                                                 | 3⁄4                       |
 | 300                                                 | 1                         |
-| 600                                                 | 11/4                      |
-| 1,000                                               | 11/2                      |
+| 600                                                 | 11⁄4                      |
+| 1,000                                               | 11⁄2                      |
 | 2,450                                               | 2                         |
-| 2,500                                               | 21/2                      |
+| 2,500                                               | 21⁄2                      |
 | 4,450                                               | 3                         |
-| 7,100                                               | 31/2                      |
+| 7,100                                               | 31⁄2                      |
 | 10,450                                              | 4                         |
-| 15,000                                              | 41/2                      |
+| 15,000                                              | 41⁄2                      |
 
 (5) Distribution piping within the space shall be proportioned from the supply line to give proper distribution to the outlets without throttling. 
 

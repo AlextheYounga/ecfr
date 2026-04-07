@@ -1,6 +1,6 @@
 ##### § 156.300 Designated lightering zones.
 
-The following lightering zones are designated in the Gulf of Mexico and are more than 60 miles from the baseline from which the territorial sea is measured: 
+The following lightering zones are designated in the Gulf of America and are more than 60 miles from the baseline from which the territorial sea is measured: 
 
 (a) *Southtex—lightering zone.* This lightering zone and the geographic area for this zone are coterminous and consist of the waters bounded by a line connecting the following points beginning at: 
 

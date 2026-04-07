@@ -1,7 +1,5 @@
 ##### § 21.4200 Definitions.
 
-Link to an amendment published at 90 FR 5330, Jan. 16, 2025.
-
 The definitions in this section apply to this subpart, except as otherwise provided. The definitions of terms defined in this section also apply to subparts C, G, H, K, L, and P if they are not otherwise defined for purposes of those subparts. 
 
 (a) *School, educational institution, institution.* The terms *school, educational institution* and *institution* mean: 
@@ -298,4 +296,16 @@ The definitions in this section apply to this subpart, except as otherwise provi
 
 (ll) *Felony.* The term *felony* means a major crime or offense defined as such under the law of the place where the offense was committed or under Federal law. It includes a high misdemeanor under the laws of a State which characterizes as high misdemeanors offenses that would be felony offenses under Federal law. 
 
-(Authority: 38 U.S.C. 5313B) \[31 FR 6774, May 6, 1966\] Editorial Note:For Federal Register citations affecting § 21.4200, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Authority: 38 U.S.C. 5313B)
+
+(mm) *National test for admission.* (1) A *national test for admission* is a test used for admission to an institution of higher learning or graduate school (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)). A list of national tests approved by VA can be found at: *https://inquiry.vba.va.gov/weamspub/buildSearchNE.do.*
+
+(2) This paragraph (mm) issued under the authority of 38 U.S.C. 3452(b), 3315A, 3501(a)(5). 
+
+(nn) *National test for credit.* (1) A *national test for credit* is a test that provides an opportunity for course credit at an institution of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)). A list of national tests approved by VA can be found at: *https://inquiry.vba.va.gov/weamspub/buildSearchNE.do.*
+
+(2) This paragraph (nn) issued under the authority of 38 U.S.C. 3452(b), 3315A, 3501(a)(5). 
+
+(oo) *We, us, our.* When we use the terms *we, us,* or *our,* we mean the United States Department of Veterans Affairs. 
+
+\[31 FR 6774, May 6, 1966\] Editorial Note:For Federal Register citations affecting § 21.4200, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

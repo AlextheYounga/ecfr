@@ -1,10 +1,8 @@
 ##### § 21.9525 Eligibility for increased and supplemental educational assistance.
 
-Link to an amendment published at 90 FR 5337, Jan. 16, 2025.
+(a) *Increased assistance for members with critical skills or specialty.* The Secretary of the military department concerned, pursuant to regulations prescribed by the Secretary of Defense, may increase the amount of educational assistance payable under § 21.9640(b)(1)(ii) or (b)(2)(ii) or § 21.9641(c) to an individual who has a skill or specialty in which there is a critical shortage of personnel, for which there is difficulty recruiting, or, in the case of critical units, for which there is difficulty in retaining personnel. 
 
-(a) *Increased assistance for members with critical skills or specialty.* The Secretary of the military department concerned, pursuant to regulations prescribed by the Secretary of Defense, may increase the amount of educational assistance payable under § 21.9640(b)(1)(ii) or (b)(2)(ii) to an individual who has a skill or specialty in which there is a critical shortage of personnel, for which there is difficulty recruiting, or, in the case of critical units, for which there is difficulty in retaining personnel. 
-
-(b) *Supplemental assistance for members serving additional service.* The Secretary of the military department concerned, pursuant to regulations prescribed by the Secretary of Defense, may supplement the amount of educational assistance payable under § 21.9640(b)(1)(ii) or (b)(2)(ii) to an individual who meets the following service requirements. 
+(b) *Supplemental assistance for members serving additional service.* The Secretary of the military department concerned, pursuant to regulations prescribed by the Secretary of Defense, may supplement the amount of educational assistance payable under § 21.9640(b)(1)(ii) or (b)(2)(ii) or § 21.9641(c) to an individual who meets the following service requirements. 
 
 (1) *Individuals with active duty service only.* Supplemental educational assistance may be offered to an individual who serves 5 or more consecutive years on active duty in the Armed Forces in addition to the years counted to qualify for educational assistance, without a break in such service, and— 
 
@@ -50,4 +48,4 @@ Link to an amendment published at 90 FR 5337, Jan. 16, 2025.
 
 (iii) Any decision as to the continuity of an individual's service in the Selected Reserve made by the Secretary of Defense will be binding upon VA. 
 
-(Authority: 38 U.S.C. 3021, 3022, 3023, 3316)
+(Authority: 38 U.S.C. 3021, 3022, 3023, 3316) \[74 FR 14671, Mar. 31, 2009, as amended at 90 FR 5337, Jan. 16, 2025\]

@@ -1,6 +1,6 @@
 ##### § 147.865 Titan SPAR Facility Safety Zone.
 
-(a) *Description.* The Titan SPAR system is in the deepwater area of the Gulf of Mexico at Mississippi Canyon 941. The facility is located at 28°02′02″ N. 89°06′04″ W. and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
+(a) *Description.* The Titan SPAR system is in the deepwater area of the Gulf of America at Mississippi Canyon 941. The facility is located at 28°02′02″ N. 89°06′04″ W. and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
 
 (b) *Regulation.* No vessel may enter or remain in this safety zone except the following: 
 

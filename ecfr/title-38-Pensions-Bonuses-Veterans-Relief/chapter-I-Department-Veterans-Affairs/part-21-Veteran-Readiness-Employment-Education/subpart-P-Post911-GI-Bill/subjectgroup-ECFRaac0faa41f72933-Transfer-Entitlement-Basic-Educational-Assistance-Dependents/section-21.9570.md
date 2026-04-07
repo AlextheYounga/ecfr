@@ -1,8 +1,6 @@
-##### § 21.9570 Transfer of entitlement.
+##### § 21.9570 Transfer of entitlement—for provisions effective before August 1, 2011.
 
-Link to an amendment published at 90 FR 5339, Jan. 16, 2025.
-
-An individual entitled to educational assistance under 38 U.S.C. chapter 33 based on his or her own active duty service, and who is approved by a service department to transfer entitlement, may transfer up to a total of 36 months of his or her entitlement to a dependent (or among dependents). A transferor may not transfer an amount of entitlement that is greater than the entitlement he or she has available at the time of transfer. 
+For training that occurs before August 1, 2011, an individual entitled to educational assistance under 38 U.S.C. chapter 33 based on his or her own active duty service, and who is approved by a service department to transfer entitlement, may transfer up to a total of 36 months of his or her entitlement to a dependent (or among dependents). A transferor may not transfer an amount of entitlement that is greater than the entitlement he or she has available at the time of transfer. 
 
 (a) *Application of sections in subpart P to individuals in receipt of transferred entitlement.* In addition to the rules in this section, the following sections apply to a dependent in the same manner as they apply to the individual from whom entitlement was transferred. 
 
@@ -234,4 +232,4 @@ An individual entitled to educational assistance under 38 U.S.C. chapter 33 base
 
 (2) Are not subject to the 48 months limit on training provided for in § 21.4020 when combining transferred entitlement with their own entitlement earned under 38 U.S.C. chapter 33 as long as the only educational assistance paid is under 38 U.S.C. chapter 33. If the dependent is awarded educational assistance under another program listed in § 21.4020 (other than 38 U.S.C. chapter 33), the 48 months limit on training will apply. 
 
-(Authority: 38 U.S.C. 3034(a), 3319, 3322, 3323(a), 3695)
+(Authority: 38 U.S.C. 3034(a), 3319, 3322, 3323(a), 3695) (The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0154) \[74 FR 14671, Mar. 31, 2009, as amended at 90 FR 5339, Jan. 16, 2025\]

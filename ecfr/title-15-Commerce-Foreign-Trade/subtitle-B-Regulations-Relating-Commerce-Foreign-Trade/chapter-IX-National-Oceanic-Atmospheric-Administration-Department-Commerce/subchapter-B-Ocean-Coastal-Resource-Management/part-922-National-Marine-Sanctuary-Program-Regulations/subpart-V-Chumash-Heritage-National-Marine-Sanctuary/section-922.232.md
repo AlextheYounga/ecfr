@@ -20,7 +20,7 @@
 
 (G) Dredged material deposited at disposal sites within the Sanctuary authorized by the U.S. Environmental Protection Agency (EPA), in consultation with the U.S. Army Corps of Engineers, prior to the effective date of Sanctuary designation (Nov. 30, 2024); or 
 
-(H) Discharges incidental and necessary to oil and gas production within or into reservoirs contained within existing leases or lease units in effect on the effective date of Sanctuary designation (\[EFFECTIVE DATE OF FINAL RULE\]) from Platform Irene or Platform Heritage, including well abandonment. 
+(H) Discharges incidental and necessary to oil and gas production within or into reservoirs contained within existing leases or lease units in effect on the effective date of Sanctuary designation (Nov. 30, 2024) from Platform Irene or Platform Heritage, including well abandonment. 
 
 (ii) Discharging or depositing from within or into the Sanctuary any material or other matter from a cruise ship except clean vessel engine cooling water, clean vessel generator cooling water, vessel engine or generator exhaust, clean bilge water, or anchor wash. 
 
@@ -62,7 +62,7 @@
 
 (b) The prohibitions in paragraphs (a)(2) through (7) and (9) of this section do not apply to an activity necessary to respond to an emergency threatening life, property, or the environment. 
 
-(c)(1) The prohibitions in paragraphs (a)(2) through (7) and (9) and (10) of this section do not apply to existing activities carried out or approved by the Department of Defense that were conducted prior to the effective date of this designation (\[EFFECTIVE DATE OF FINAL RULE\]), as specifically identified in section 4.9 or appendix I to the final environmental impact statement for Chumash Heritage National Marine Sanctuary (for availability, see *https://sanctuaries.noaa.gov/chumash-heritage/*). New activities may be exempted from the prohibitions in paragraphs (a)(2) through (7) and (9) and (10) of this section by the Director after consultation between the Director and the Department of Defense. All Department of Defense activities must be carried out in a manner that avoids to the maximum extent practicable any adverse impacts on Sanctuary resources and qualities. 
+(c)(1) The prohibitions in paragraphs (a)(2) through (7) and (9) and (10) of this section do not apply to existing activities carried out or approved by the Department of Defense that were conducted prior to the effective date of this designation (Nov. 30, 2024), as specifically identified in section 4.9 or appendix I to the final environmental impact statement for Chumash Heritage National Marine Sanctuary (for availability, see *https://sanctuaries.noaa.gov/chumash-heritage/*). New activities may be exempted from the prohibitions in paragraphs (a)(2) through (7) and (9) and (10) of this section by the Director after consultation between the Director and the Department of Defense. All Department of Defense activities must be carried out in a manner that avoids to the maximum extent practicable any adverse impacts on Sanctuary resources and qualities. 
 
 (2) In the event of threatened or actual destruction of, loss of, or injury to a Sanctuary resource or quality resulting from an untoward incident, including but not limited to spills and groundings caused by the Department of Defense, the Department of Defense shall promptly coordinate with the Director for the purpose of taking appropriate actions to respond to and mitigate the harm and, if practicable, restore or replace the Sanctuary resource or quality. 
 

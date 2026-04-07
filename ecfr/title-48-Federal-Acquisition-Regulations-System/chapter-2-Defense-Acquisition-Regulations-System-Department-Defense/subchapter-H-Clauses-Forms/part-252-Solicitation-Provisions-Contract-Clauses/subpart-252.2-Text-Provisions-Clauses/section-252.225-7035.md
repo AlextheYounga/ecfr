@@ -258,4 +258,4 @@ Buy American—Free Trade Agreements—Balance of Payments Program Certificate�
 
 (3) The Offeror shall list the line item numbers of domestic end products that contain a critical component or a critical item (see section 25.105 of the Federal Acquisition Regulation). 
 
-Line Item Number: *\[List as necessary\]*(End of provision) \[70 FR 2364, Jan. 13, 2005, as amended at 71 FR 34835, June 16, 2006; 71 FR 58543, Oct. 4, 2006; 73 FR 53156, Sept. 15, 2008; 74 FR 2423, Jan. 15, 2009; 74 FR 68384, Dec. 24, 2009; 75 FR 81919, Dec. 29, 2010; 76 FR 32843, June 6, 2011; 77 FR 30358, May 22, 2012; 77 FR 35882, June 15, 2012; 77 FR 68701, Nov. 16, 2012; 78 FR 59859, Sept. 30, 2013; 78 FR 65222, Oct. 31, 2013; 79 FR 65822, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 84 FR 12140, Apr. 1, 2019; 87 FR 76987, Dec. 16, 2022; 88 FR 80467, Nov. 17, 2023; 89 FR 11963, Feb. 15, 2024\]
+Line Item Number: *\[List as necessary\]*(End of provision) \[70 FR 2364, Jan. 13, 2005\] Editorial Note:For Federal Register citations affecting section 252.225-7035, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

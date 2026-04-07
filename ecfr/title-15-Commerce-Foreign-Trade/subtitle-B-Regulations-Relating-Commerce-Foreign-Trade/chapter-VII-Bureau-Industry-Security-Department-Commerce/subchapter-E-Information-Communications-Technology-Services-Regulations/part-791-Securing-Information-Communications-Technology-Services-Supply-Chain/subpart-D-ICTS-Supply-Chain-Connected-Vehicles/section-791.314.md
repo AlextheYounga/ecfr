@@ -1,0 +1,7 @@
+##### § 791.314 Confidential business information.
+
+(a) *Confidential business information.* Confidential Business Information is defined in 19 CFR 201.6. 
+
+(b) *Submission procedures.* Any information or material submitted to BIS which the entity or any other party desires to submit in confidence as a part of a Declaration of Conformity, specific authorization application, advisory opinion request, record to be furnished on demand, or is otherwise Confidential Business Information should be contained within a file beginning its name with the characters “CBI.” Any page containing Confidential Business Information must be clearly marked “CONFIDENTIAL BUSINESS INFORMATION” on the top of the page. Any pages not containing Confidential Business Information should not be marked. By submitting information or material identified as Confidential Business Information, the entity or other party represents that the information is exempted from public disclosure, either by the Freedom of Information Act (5 U.S.C. 552 *et seq.*) or by another specific statutory exemption. Any request for Confidential Business Information treatment must be accompanied at the time of submission by a statement justifying non-disclosure and referring to the specific legal authority claimed. 
+
+(c) *Confidentiality of information.* Confidentiality of information is subject to 15 CFR 791.102.

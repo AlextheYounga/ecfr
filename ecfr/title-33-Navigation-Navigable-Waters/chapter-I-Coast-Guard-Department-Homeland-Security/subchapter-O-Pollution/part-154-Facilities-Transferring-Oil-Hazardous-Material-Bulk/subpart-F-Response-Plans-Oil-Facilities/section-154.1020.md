@@ -76,7 +76,7 @@ Except as otherwise defined in this section, the definition in 33 CFR 154.105 ap
 
 (15) Prince William Sound, AK. 
 
-*Inland area* means the area shoreward of the boundary lines defined in 46 CFR part 7, except in the Gulf of Mexico. In the Gulf of Mexico, it means the area shoreward of the lines of demarcation (COLREG lines) defined in §§ 80.740 through 80.850 of this chapter. The inland area does not include the Great Lakes. 
+*Inland area* means the area shoreward of the boundary lines defined in 46 CFR part 7, except in the Gulf of America. In the Gulf of America, it means the area shoreward of the lines of demarcation (COLREG lines) defined in §§ 80.740 through 80.850 of this chapter. The inland area does not include the Great Lakes. 
 
 *Marine transportation-related facility* (MTR facility) means any onshore facility or segment of a complex regulated under section 311(j) of the Federal Water Pollution Control Act (FWPCA) by two or more Federal agencies, including piping and any structure used or intended to be used to transfer oil to or from a vessel, subject to regulation under this part and any deepwater port subject to regulation under part 150 of this chapter. For a facility or segment of a complex regulated by two or more Federal agencies under section 311(j) of the FWPCA, the MTR portion of the complex extends from the facility oil transfer system's connection with the vessel to the first valve inside the secondary containment surrounding tanks in the non-transportation-related portion of the facility or, in the absence of secondary containment, to the valve or manifold adjacent to the tanks comprising the non-transportation-related portion of the facility, unless another location has otherwise been agreed to by the COTP and the appropriate Federal official. 
 
@@ -84,7 +84,7 @@ Except as otherwise defined in this section, the definition in 33 CFR 154.105 ap
 
 *Maximum most probable discharge* means a discharge of the lesser of 1,200 barrels or 10 percent of the volume of a worst case discharge. 
 
-*Nearshore area* means the area extending seaward 12 miles from the boundary lines defined in 46 CFR part 7, except in the Gulf of Mexico. In the Gulf of Mexico, it means the area extending seaward 12 miles from the line of demarcation (COLREG lines) defined in §§ 80.740-80.850 of this chapter. 
+*Nearshore area* means the area extending seaward 12 miles from the boundary lines defined in 46 CFR part 7, except in the Gulf of America. In the Gulf of America, it means the area extending seaward 12 miles from the line of demarcation (COLREG lines) defined in §§ 80.740-80.850 of this chapter. 
 
 *Non-persistent or Group I oil* means a petroleum-based oil that, at the time of shipment, consists of hydrocarbon fractions— 
 
@@ -94,7 +94,7 @@ Except as otherwise defined in this section, the definition in 33 CFR 154.105 ap
 
 *Ocean* means the offshore area and nearshore area as defined in this subpart. 
 
-*Offshore area* means the area beyond 12 nautical miles measured from the boundary lines defined in 46 CFR part 7 extending seaward to 50 nautical miles, except in the Gulf of Mexico. In the Gulf of Mexico, it is the area beyond 12 nautical miles of the line of demarcation (COLREG lines) defined in §§ 80.740-80.850 of this chapter extending seaward to 50 nautical miles. 
+*Offshore area* means the area beyond 12 nautical miles measured from the boundary lines defined in 46 CFR part 7 extending seaward to 50 nautical miles, except in the Gulf of America. In the Gulf of America, it is the area beyond 12 nautical miles of the line of demarcation (COLREG lines) defined in §§ 80.740-80.850 of this chapter extending seaward to 50 nautical miles. 
 
 *Oil* means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, oil mixed with wastes other than dredge spoil. 
 

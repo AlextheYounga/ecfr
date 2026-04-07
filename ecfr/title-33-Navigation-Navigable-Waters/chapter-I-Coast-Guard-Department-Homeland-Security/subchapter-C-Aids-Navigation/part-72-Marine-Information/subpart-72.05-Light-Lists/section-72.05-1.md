@@ -8,7 +8,7 @@
 
 (3) Volume III, Atlantic and Gulf Coasts, from Little River, South Carolina, to Econfina River, Florida, including Puerto Rico and the U.S. Virgin Islands. 
 
-(4) Volume IV, Gulf of Mexico, from Econfina River, Florida to Rio Grande, Texas. 
+(4) Volume IV, Gulf of America, from Econfina River, Florida to Rio Grande, Texas. 
 
 (5) Volume V, Mississippi River System. 
 

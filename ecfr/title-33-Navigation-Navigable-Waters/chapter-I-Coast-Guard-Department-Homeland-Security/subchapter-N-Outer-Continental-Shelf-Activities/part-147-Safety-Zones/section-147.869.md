@@ -1,6 +1,6 @@
-##### § 147.869 Safety Zone; Appomattox FPS Facility, Outer Continental Shelf on the Gulf of Mexico.
+##### § 147.869 Safety Zone; Appomattox FPS Facility, Outer Continental Shelf on the Gulf of America.
 
-(a) *Description.* The Appomattox Floating Production System (FPS) system is in the deepwater area of the Gulf of Mexico at Mississippi Canyon Block 437. The facility is located at 28°34′25.47″ N 87°56′03.11″ W (NAD 83), and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
+(a) *Description.* The Appomattox Floating Production System (FPS) system is in the deepwater area of the Gulf of America at Mississippi Canyon Block 437. The facility is located at 28°34′25.47″ N 87°56′03.11″ W (NAD 83), and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
 
 (b) *Regulation.* No vessel may enter or remain in this safety zone except the following: 
 

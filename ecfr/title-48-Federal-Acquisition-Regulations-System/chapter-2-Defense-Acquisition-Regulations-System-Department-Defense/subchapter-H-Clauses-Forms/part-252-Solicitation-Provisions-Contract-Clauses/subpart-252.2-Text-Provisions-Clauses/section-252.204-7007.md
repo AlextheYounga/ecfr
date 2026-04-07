@@ -42,4 +42,4 @@ Substitute the following paragraphs (b), (d), and (e) for paragraphs (b) and (d)
 
 Any changes provided by the Offeror are applicable to this solicitation only, and do not result in an update to the representations and certifications located in the SAM database.
 
-(End of provision) \[76 FR 58141, Sept. 20, 2011, as amended at 76 FR 71464, Nov. 18, 2011; 77 FR 19130, Mar. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35881, June 15, 2012; 77 FR 43470, July 24, 2012; 78 FR 28758, May 16, 2013; 78 FR 30232, May 22, 2013; 79 FR 17446, Mar. 28, 2014; 79 FR 45664, Aug. 5, 2014; 79 FR 73490, Dec. 11, 2014; 80 FR 5001, Jan. 29, 2015; 83 FR 66073, Dec. 21, 2018; 84 FR 12140, Apr. 1, 2019; 84 FR 30947, June 28, 2019; 84 FR 72237, 72560, Dec. 31, 2019; 85 FR 19688, Apr. 8, 2020; 85 FR 74611, Nov. 23, 2020; 86 FR 27278, May 20, 2021; 88 FR 80466, Nov. 17, 2023; 89 FR 78991, Sept. 26, 2024\]
+(End of provision) \[76 FR 58141, Sept. 20, 2011\] Editorial Note:For Federal Register citations affecting section 252.204-7007, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

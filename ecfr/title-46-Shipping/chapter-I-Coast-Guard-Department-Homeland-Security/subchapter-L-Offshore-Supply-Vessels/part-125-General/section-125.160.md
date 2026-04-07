@@ -34,7 +34,7 @@ Each term defined elsewhere in this chapter for a particular class of vessel app
 
 (1) Any ocean. 
 
-(2) The Gulf of Mexico. 
+(2) The Gulf of America. 
 
 (3) The Caribbean Sea. 
 
@@ -138,7 +138,7 @@ Each term defined elsewhere in this chapter for a particular class of vessel app
 
 (1) Any ocean. 
 
-(2) The Gulf of Mexico. 
+(2) The Gulf of America. 
 
 (3) The Caribbean Sea. 
 

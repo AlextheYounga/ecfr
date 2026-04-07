@@ -1,7 +1,5 @@
 ##### 252.247-7026 Evaluation Preference for Use of Domestic Shipyards—Applicable to Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous Trade.
 
-Link to an amendment published at 89 FR 78996, Sept. 26, 2024.
-
 As prescribed in 247.574(c), use the following provision: 
 
 Evaluation Preference for Use of Domestic Shipyards—Applicable To Acquisition of Carriage by Vessel for DOD Cargo in the Coastwise or Noncontiguous Trade (OCT 2024)

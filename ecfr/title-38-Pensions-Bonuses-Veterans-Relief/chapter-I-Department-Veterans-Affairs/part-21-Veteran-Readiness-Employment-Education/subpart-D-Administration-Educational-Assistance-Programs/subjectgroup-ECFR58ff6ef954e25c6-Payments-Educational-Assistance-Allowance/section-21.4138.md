@@ -1,7 +1,5 @@
 ##### § 21.4138 Certifications and release of payments.
 
-Link to an amendment published at 90 FR 5329, Jan. 16, 2025.
-
 For the purposes of this section, the Manila Regional Office is considered the VA Regional Processing Office of jurisdiction for educational assistance allowance claims processed under 38 U.S.C. chapter 35 for educational institutions located in the Philippines. 
 
 (a) *Advance payments.* (1) VA will make payments of educational assistance in advance when: 
@@ -36,8 +34,6 @@ For the purposes of this section, the Manila Regional Office is considered the V
 
 (iii) The Director determines, based on compelling evidence, that the educational institution has demonstrated its inability to discharge its responsibilities under the advance payment program. 
 
-(Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034, 3680(d))
-
 (b) *Lump-sum payments.* A lump-sum payment is a payment of all educational assistance due for an entire quarter, semester, or term. VA will make a lump-sum payment to: 
 
 (1) A veteran or servicemember pursuing a program of education at less than the half-time rate under 38 U.S.C. chapter 30; 
@@ -45,8 +41,6 @@ For the purposes of this section, the Manila Regional Office is considered the V
 (2) A servicemember pursuing a program of education at the half-time rate or greater under 38 U.S.C. chapter 30, provided that VA did not make an advance payment to the servicemember for the term for which a lump-sum payment would otherwise be due; and 
 
 (3) An eligible person pursuing a program of education at less than the half-time rate under 38 U.S.C. chapter 35. 
-
-(Authority: 38 U.S.C. 3034(c), 3680(f))
 
 (c)-(d) \[Reserved\] 
 
@@ -72,9 +66,7 @@ For the purposes of this section, the Manila Regional Office is considered the V
 
 (iii) VA has received from the educational institution a certification or an endorsement on the individual's certificate, as to the number of lessons completed by the individual and serviced by the educational institution. 
 
-(Authority: 38 U.S.C. 5113, 3680(b), 3680(c), 3680(g))
-
-(f) *Payment for intervals and temporary school closings.* VA may authorize payment for an interval or for a temporary school closing that occurs within a certified enrollment period. If a school closing that is or may be temporary occurs during an interval, VA will apply any applicable provisions in paragraphs (f)(1) through (f)(5) of this section concerning intervals and in paragraph (f)(6) of this section concerning temporary school closings. For the purposes of this paragraph, *interval* means a period without instruction between consecutive school terms, quarters, or semesters or a period without instruction between a summer term and a term, quarter, or semester. (See definitions of divisions of the school year in § 21.4200(b).) 
+(f) *Payment for intervals and temporary school closings before August 1, 2011.* VA may authorize payment for an interval or for a temporary school closing that occurs within a certified enrollment period. If a school closing that is or may be temporary occurs during an interval, VA will apply any applicable provisions in paragraphs (f)(1) through (f)(5) of this section concerning intervals and in paragraph (f)(6) of this section concerning temporary school closings. For the purposes of this paragraph, *interval* means a period without instruction between consecutive school terms, quarters, or semesters or a period without instruction between a summer term and a term, quarter, or semester. (See definitions of divisions of the school year in § 21.4200(b).) 
 
 (1) *Payment for intervals.* In determining whether a student will be paid for an interval, VA will first review the provisions of paragraph (f)(2) of this section. If none of the provisions apply, VA will review the provisions of paragraphs (f)(3), (f)(4), and (f)(5) of this section to determine if payments may be made for the interval. In determining the length of a summer term, VA will disregard a fraction of a week consisting of 3 days or less, and will consider 4 days or more to be a full week. 
 
@@ -110,8 +102,6 @@ For the purposes of this section, the Manila Regional Office is considered the V
 
 (ii) If the student remains enrolled at the same school, VA may make payment for an interval that does not exceed 30 days and that occurs between summer sessions within a summer term. 
 
-(Authority: 38 U.S.C. 3680)
-
 (5) *Payment for intervals that occur between overlapping enrollments.* (i) If a student is enrolled in overlapping enrollment periods whether before or after an interval (either at the same or different schools), VA will determine whether the student is entitled to payment for the interval between the overlapping enrollment periods, and what dates the interval and enrollment periods will be considered to begin and end, as follows: 
 
 (A) By treating the ending date of each enrollment period as though it were the student's last date of training before the interval, 
@@ -123,8 +113,6 @@ For the purposes of this section, the Manila Regional Office is considered the V
 (D) By choosing the ending date and beginning date that result in the highest payment rate as the start and finish of the interval for VA measurement purposes. 
 
 (ii) VA will not reduce the interval rate of payment as a result of training the student may take during the interval, but VA will increase the interval rate of payment if warranted by such training. 
-
-(Authority: 38 U.S.C. 3680(a))
 
 (6) *Payment for temporary school closings.* VA may authorize payment for temporary school closings that are due to emergencies (including strikes) or established policy based upon an Executive Order of the President. If a school closing that is or may be temporary occurs in whole or in part during an interval, VA will first review the provisions of paragraphs (f)(2) through (f)(5) of this section to determine if payment may be continued during the interval. 
 
@@ -148,4 +136,34 @@ For the purposes of this section, the Manila Regional Office is considered the V
 
 (B) Under Secretary for Benefits, if the Director, Education Service, made the initial decision to continue or discontinue payments. 
 
-(Authority: 38 U.S.C. 512, 3680(a)) (The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0178 and 2900-0604) \[43 FR 35295, Aug. 9, 1978, as amended at 44 FR 62497, Oct. 31, 1979; 46 FR 20673, Apr. 7, 1981; 48 FR 37982, Aug. 22, 1983; 54 FR 33888, Aug. 17, 1989; 57 FR 24367, June 9, 1992; 64 FR 52651, Sept. 30, 1999; 68 FR 34328, June 9, 2003; 68 FR 35178, June 12, 2003; 73 FR 65263, Nov. 3, 2008; 85 FR 59191, Sept. 21, 2020\]
+(g) *Payment for temporary school closings after July 31, 2011.* (1) Subject to paragraph (g)(2) of this section, VA may authorize payment for a temporary school closing that occurs during a certified period of enrollment if the closing is due to an emergency (including a strike) or established policy based on an Executive order of the President. 
+
+(2) An individual may not receive more than 4 weeks of payment for temporary school closings in any 12-month period. 
+
+(3) The decision as to whether a school closing is permanent or temporary will be made by— 
+
+(i) The director of the VA regional processing office of jurisdiction; or 
+
+(ii) The Director, Education Service, if the emergency or established policy based on an Executive Order of the President results in the closing of schools in the jurisdiction of more than one VA regional processing office. 
+
+(4) A school that disagrees with a decision made under paragraph (g)(3) of this section may request an administrative review. The review request must be submitted in writing and received by the director of the VA regional processing office of jurisdiction, or the Director, Education Service, whoever made the decision under paragraph (g)(3) of this section, within one year of the date of VA's letter notifying the school of the decision. A review of the decision will include the evidence of record and any other pertinent evidence the school may wish to submit. The affirmation or reversal of the initial decision based on an administrative review is final. The review will be conducted by the— 
+
+(i) Director, Education Service, if the director of the VA regional processing office of jurisdiction made the initial decision to continue or discontinue payments. 
+
+(ii) Under Secretary for Benefits, if the Director, Education Service, made the initial decision to continue or discontinue payments. 
+
+(h) *Authority.* (1) Paragraph (a) of this section issued under the authority of 10 U.S.C. 16136(b); 38 U.S.C. 3034, 3680(d); 
+
+(2) Paragraph (b) of this section issued under the authority of 38 U.S.C. 3034(c), 3680(f); 
+
+(3) Paragraph (e) of this section issued under the authority of 38 U.S.C. 5113, 3680(b), 3680(c), 3680(g); 
+
+(4) Paragraph (f) of this section issued under the authority of 38 U.S.C. 3680; 
+
+(5) Paragraph (f)(5) of this section issued under the authority of 38 U.S.C. 3680(a); 
+
+(6) Paragraph (f)(6) of this section issued under the authority of 38 U.S.C. 512, 3680(a); and 
+
+(7) Paragraph (g) of this section issued under the authority of 38 U.S.C. 512, 3680(a). 
+
+(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0178 and 2900-0604) \[43 FR 35295, Aug. 9, 1978, as amended at 44 FR 62497, Oct. 31, 1979; 46 FR 20673, Apr. 7, 1981; 48 FR 37982, Aug. 22, 1983; 54 FR 33888, Aug. 17, 1989; 57 FR 24367, June 9, 1992; 64 FR 52651, Sept. 30, 1999; 68 FR 34328, June 9, 2003; 68 FR 35178, June 12, 2003; 73 FR 65263, Nov. 3, 2008; 85 FR 59191, Sept. 21, 2020; 90 FR 5329, Jan. 16, 2025\]

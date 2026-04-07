@@ -1,0 +1,5 @@
+##### § 791.312 Recordkeeping.
+
+(a) Except as otherwise provided herein, or through subsequent communication with BIS, VCS hardware importers, connected vehicle manufacturers, and/or third-party assessors (if applicable) shall keep all primary business records related to the execution of each transaction for which a Declaration of Conformity, general authorization, or specific authorization would be required under § 791.305, § 791.306, or § 791.307. Primary business records include contracts, import records, commercial invoices, bills of sale, corporate policy documentation, and reports produced by third parties created for the purposes of compliance with this rule. Regardless of whether these transactions are effectuated pursuant to a general authorization, specific authorization, or otherwise, such records shall be available for examination for at least 10 years after the date of such transactions. 
+
+(b) Third-party assessors are required to maintain all records relating to third-party verification or assessment of a U.S. person's compliance with this rule.

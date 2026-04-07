@@ -108,7 +108,7 @@ Note 1 to paragraph (13) of this definition:
 
 The western boundary of the Strait of Juan de Fuca higher volume port area in this part differs from that in § 154.1020 of this chapter. The difference stems from section 316(b) of the Coast Guard Authorization Act of 2015 (Pub. L. 114-120), which expands only the definition in this part.
 
-*Inland area* means the area shoreward of the boundary lines defined in 46 CFR part 7, except that in the Gulf of Mexico, it means the area shoreward of the lines of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter. The inland area does not include the Great Lakes. 
+*Inland area* means the area shoreward of the boundary lines defined in 46 CFR part 7, except that in the Gulf of America, it means the area shoreward of the lines of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter. The inland area does not include the Great Lakes. 
 
 *Maximum extent practicable* means the planned capability to respond to a worst case discharge in adverse weather, as contained in a response plan that meets the criteria in this subpart or in a specific plan approved by the Coast Guard. 
 
@@ -118,7 +118,7 @@ The western boundary of the Strait of Juan de Fuca higher volume port area in th
 
 (2) 10% of the vessel's oil cargo capacity for vessels with a capacity of less than 25,000 barrels. 
 
-*Nearshore area* means the area extending seaward 12 miles from the boundary lines defined in 46 CFR part 7, except in the Gulf of Mexico. In the Gulf of Mexico, a nearshore area is one extending seaward 12 miles from the line of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter. 
+*Nearshore area* means the area extending seaward 12 miles from the boundary lines defined in 46 CFR part 7, except in the Gulf of America. In the Gulf of America, a nearshore area is one extending seaward 12 miles from the line of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter. 
 
 *Non-persistent or Group I oil* means a petroleum-based oil that, at the time of shipment, consists of hydrocarbon fractions— 
 

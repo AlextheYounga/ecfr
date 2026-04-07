@@ -130,7 +130,7 @@ Balance of Payments Program—Construction Material—Alternate I (FEB 2024)
 
 (3) The construction material or components listed by the Government as follows: 
 
-\[*Contracting Officer to list applicable excepted materials or indicate “none”*\]..(End of clause)
+\[*Contracting Officer to list applicable excepted materials or indicate “none”*\].(End of clause)
 
 *Alternate II.* As prescribed in 225.7503(a) and (a)(3), use the following clause, which includes, in the definition of “domestic construction material” at paragraph (1)(ii)(A), the domestic content threshold that will apply to the entire contract period of performance: 
 

@@ -64,7 +64,7 @@ As used in this subchapter:
 
 (3) The recreational and scenic values of those lands, waters, and resources. 
 
-*Coastal State* means a State of the United States in or bordering the Atlantic, Pacific, or Arctic Oceans or the Gulf of Mexico. 
+*Coastal State* means a State of the United States in or bordering the Atlantic, Pacific, or Arctic Oceans or the Gulf of America. 
 
 *Commandant (CG-5P)* means the Assistant Commandant for Prevention, or that individual's authorized representative, at Commandant (CG-5P), Attn: Assistant Commandant for Prevention Policy, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501. 
 

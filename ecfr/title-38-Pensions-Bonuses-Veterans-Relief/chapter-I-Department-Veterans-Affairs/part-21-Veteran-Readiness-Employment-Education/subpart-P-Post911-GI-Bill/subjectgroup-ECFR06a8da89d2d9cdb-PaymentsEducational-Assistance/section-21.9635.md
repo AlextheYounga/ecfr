@@ -1,8 +1,6 @@
-##### § 21.9635 Discontinuance dates.
+##### § 21.9635 Discontinuance dates—for provisions effective before August 1, 2011.
 
-Link to an amendment published at 90 FR 5344, Jan. 16, 2025.
-
-The effective date of a reduction or discontinuance of educational assistance will be as stated in this section. If more than one type of reduction or discontinuance is involved, VA will reduce or discontinue educational assistance using the earliest of the applicable dates. 
+During the period beginning August 1, 2009, and ending July 31, 2011, the effective date of a reduction or discontinuance of educational assistance will be as stated in this section. If more than one type of reduction or discontinuance is involved, VA will reduce or discontinue educational assistance using the earliest of the applicable dates. 
 
 (a) *Death of eligible individual.* (1) If the eligible individual receives a lump sum payment under § 21.9640(b)(1)(iii), (b)(2)(iii), (c)(1)(ii), or (c)(2)(ii) and dies before the end of the period covered by the lump sum payment, the discontinuance date of educational assistance for the purpose of that lump sum payment will be the last date of the period covered by the lump sum payment. 
 
@@ -18,25 +16,29 @@ The effective date of a reduction or discontinuance of educational assistance wi
 
 (Authority: 38 U.S.C. 3034(a), 3323(a), 3680(a)(1))
 
-(c) *Withdrawal or unsatisfactory completion of all courses.* (1) If the eligible individual, for reasons other than being called or ordered to active duty service, withdraws from all courses or receives all nonpunitive grades and, in either case, there are no mitigating circumstances, VA will terminate educational assistance effective the first date of the term in which the withdrawal occurs or the first date of the term for which nonpunitive grades are assigned. 
+(c) *Withdrawal or unsatisfactory completion of all courses.* If the eligible individual, for reasons other than being called or ordered to active duty service, withdraws from all courses or receives all nonpunitive grades after the first day of the term, VA will terminate educational assistance as follows— 
 
-(2) If the eligible individual withdraws from all courses with mitigating circumstances or withdraws from all courses for which a punitive grade is or will be assigned, VA will terminate educational assistance for— 
+(1) If the eligible individual withdraws from all courses after the school's drop/add period, and there are no mitigating circumstances, VA will terminate educational assistance effective the first day of the term from which the eligible individual withdrew. 
 
-(i) Residence training effective the last date of attendance; and 
+(2) If the eligible individual withdraws from all courses with mitigating circumstances; withdraws during the school's drop/add period or within the first 30 days of the enrollment period, whichever is earlier; or withdraws from all courses for which a punitive grade is or will be assigned, VA will terminate educational assistance for— 
 
-(ii) Independent study or distance learning effective on the official date of change in status under the practices of the institution of higher learning. 
+(i) Residence training: effective the last date of attendance; and 
 
-(3) When an eligible individual withdraws from an approved correspondence course offered by an institution of higher learning, VA will terminate educational assistance effective the date the last lesson was serviced. 
+(ii) Independent study or distance learning: effective on the official date of change in status under the practices of the educational institution. 
 
-(Authority: 38 U.S.C. 3323, 3680(a))
+(3) When an eligible individual withdraws from an approved correspondence course offered by an educational institution, VA will terminate educational assistance effective the date the last lesson was serviced. 
 
-(d) *Reduction in the rate of pursuit of a program of education.* If the eligible individual reduces the rate of pursuit by withdrawing from one or more courses in a program of education but continues training in one or more courses, VA will apply the provisions of this paragraph. 
+(4) This paragraph (c) issued under the authority of 38 U.S.C. 3323, 3680(a). 
 
-(1) If the reduction in the rate of pursuit occurs other than on the first date of the term, VA will reduce the eligible individual's educational assistance effective the end of the month during which the reduction occurred when the circumstances in either paragraphs (d)(1)(i) or (d)(1)(ii) apply— 
+(d) *Reduction in the rate of pursuit of a program of education.* If the eligible individual reduces the rate of pursuit by withdrawing from one or more courses in a program of education but continues training in one or more courses, VA will apply the provisions of this paragraph (d). 
 
-(i) A nonpunitive grade is assigned for the course from which the eligible individual withdraws and the withdrawal occurs with mitigating circumstances. 
+(1) If the reduction in the rate of pursuit occurs other than on the first date of the term, VA will reduce the eligible individual's educational assistance effective the end of the month during which the reduction occurred when— 
 
-(ii) A punitive grade is assigned for the course from which the eligible individual withdraws. 
+(i) The withdrawal from one or more courses occurs during the school's drop/add period or within the first 30 days of the enrollment period, whichever is earlier; or 
+
+(ii) A nonpunitive grade is assigned for the course from which the eligible individual withdraws and the withdrawal occurs with mitigating circumstances; or 
+
+(iii) A punitive grade is assigned for the course from which the eligible individual withdraws. 
 
 (2) VA will reduce educational assistance effective the first date of the enrollment in which the reduction occurs when— 
 
@@ -48,9 +50,7 @@ The effective date of a reduction or discontinuance of educational assistance wi
 
 (B) The withdrawal occurs without mitigating circumstances. 
 
-(3) An eligible individual enrolled in several courses within a program of education, who reduces his or her rate of pursuit by completing one or more of the courses while continuing training in others, may receive an interval payment based on the total number of enrolled courses he or she completed if the requirements of § 21.9680(b)(5) are met. If those requirements are not met, VA will reduce the eligible individual's educational assistance effective the end of the month during which the individual completed each course (or courses). 
-
-(Authority: 38 U.S.C. 3034(a), 3323(a), 3680(a))
+(3) This paragraph (d) issued under the authority of 38 U.S.C. 3034(a), 3323(a), 3680(a). 
 
 (e) *End of course or period of enrollment.* If an eligible individual's course or period of enrollment ends, the effective date of reduction or discontinuance of the individual's award of educational assistance will be the ending date of the course or period of enrollment as certified by the institution of higher learning. 
 
@@ -186,9 +186,9 @@ The effective date of a reduction or discontinuance of educational assistance wi
 
 (Authority: 10 U.S.C. 16131; 38 U.S.C. 3316(a))
 
-(w) *Receipt of educational assistance allowance under another educational assistance program.* An individual in receipt of educational assistance under this chapter who is also eligible for educational assistance under 10 U.S.C. chapter 106a, 1606, or 1607, or under 38 U.S.C. chapter 30, 31, 32, or 35, or the Hostage Relief Act of 1980, may choose to receive educational assistance under another program. VA will terminate educational assistance under 38 U.S.C. chapter 33 effective the first day of the enrollment period during which the individual requested to receive educational assistance under 10 U.S.C. chapter 106a, 1606, or 1607, or under 38 U.S.C. chapter 30, 31, 32, or 35, or the Hostage Relief Act of 1980. 
+(w) *Receipt of educational assistance allowance under another educational assistance program.* (1) An individual in receipt of educational assistance under chapter 33 who is also eligible for educational assistance under 10 U.S.C. chapter 106a, 1606, or 1607; 38 U.S.C. chapter 30, 31, 32, or 35; the Hostage Relief Act of 1980; or, effective August 1, 2011, 10 U.S.C. 510, may choose to receive educational assistance under another program. 
 
-(Authority: 38 U.S.C. 3322(a))
+(2) This paragraph (w) issued under the authority of *38 U.S.C. 3322(a).*
 
 (x) *Independent study course loses accreditation.* If the eligible individual is enrolled in a course offered in whole or in part by independent study, and the course loses its accreditation (or the institution of higher learning offering the course loses its accreditation), the date of reduction or discontinuance will be the effective date of the withdrawal of accreditation by the accrediting agency. 
 
@@ -210,6 +210,12 @@ The effective date of a reduction or discontinuance of educational assistance wi
 
 (Authority: 38 U.S.C. 3319)
 
-(bb) *Other reasons for discontinuance.* If an eligible individual's educational assistance must be discontinued for any reason other than those stated in paragraphs (a) through (aa) of this section, VA will determine the ending date of educational assistance based on the facts found. 
+(bb) *Fugitive felons.* (1) VA will not award educational assistance to an otherwise eligible Veteran or dependent of an otherwise eligible Veteran for any period during which the Veteran is a fugitive felon. The date of discontinuance of an award of educational assistance to a Veteran who is a fugitive felon or dependent of a Veteran who is a fugitive felon is the date of the warrant establishing that the individual is a fugitive felon or the date otherwise shown by evidence to be the date the individual became a fugitive felon. 
 
-(Authority: 38 U.S.C. 3323(c), 5112(a), 5113)
+(2) This paragraph (bb) issued under the authority of 38 U.S.C. 3323(c), 5313B. 
+
+(cc) *Other reasons for discontinuance.* (1) If an eligible individual's educational assistance must be discontinued for any reason other than those stated in paragraphs (a) through (bb) of this section, VA will determine the ending date of educational assistance based on the facts found. 
+
+(2) This paragraph (cc) issued under the authority of 38 U.S.C. 3323(c), 5112(a), 5113. 
+
+\[74 FR 14671, Mar. 31, 2009, as amended at 90 FR 5344, Jan. 16, 2025\]

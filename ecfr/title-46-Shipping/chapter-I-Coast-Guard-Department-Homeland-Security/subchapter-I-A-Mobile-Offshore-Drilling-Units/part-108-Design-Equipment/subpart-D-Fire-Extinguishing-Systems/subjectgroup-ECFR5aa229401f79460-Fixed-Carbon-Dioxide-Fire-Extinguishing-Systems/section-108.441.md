@@ -9,17 +9,17 @@
 Table 108.441—CO2System Pipe Size
 | CO2 supply in system, kilograms (pounds) | Minimum pipe size (inches), millimeters (inches) |
 | ---------------------------------------- | ------------------------------------------------ |
-| 45 (100)                                 | 12.7 (1/2).                                      |
-| 104 (225)                                | 19.05 (3/4).                                     |
+| 45 (100)                                 | 12.7 (1⁄2).                                      |
+| 104 (225)                                | 19.05 (3⁄4).                                     |
 | 136 (300)                                | 25.4 (1).                                        |
-| 272 (600)                                | 31.75 (11/4).                                    |
-| 450 (1,000)                              | 38.10 (11/2).                                    |
+| 272 (600)                                | 31.75 (11⁄4).                                    |
+| 450 (1,000)                              | 38.10 (11⁄2).                                    |
 | 1,110 (2,450)                            | 50.80 (2).                                       |
-| 1,130 (2,500)                            | 63.5 (21/2).                                     |
+| 1,130 (2,500)                            | 63.5 (21⁄2).                                     |
 | 2,023 (4,450)                            | 76.2 (3).                                        |
-| 3,229 (7,100)                            | 88.9 (31/2).                                     |
+| 3,229 (7,100)                            | 88.9 (31⁄2).                                     |
 | 4,750 (10,000)                           | 101.6 (4).                                       |
-| 6,818 (15,000)                           | 114.3 (41/2).                                    |
+| 6,818 (15,000)                           | 114.3 (41⁄2).                                    |
 
 (d) The total area of all discharge outlets must be more than 35 percent and less than 85 percent of the nominal cylinder outlet area or the area of the supply pipe, whichever is smaller. The nominal cylinder outlet area in square centimeters is determined by multiplying the factor 0.0313 by the number of kilograms of CO2 required. (The nominal cylinder outlet area in square inches is determined by multiplying the factor 0.0022 by the number of pounds of CO2 required). The nominal cylinder outlet area must not be less than 71 square millimeters (0.110 square inches). 
 

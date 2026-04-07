@@ -1,6 +1,6 @@
 ##### § 147.861 Interim Big Foot TLP Construction Site safety zone.
 
-(a) *Description.* The Big Foot Tension Leg Platform (TLP) construction site is in the deepwater area of the Gulf of Mexico at Walker Ridge 29. The Big Foot TLP construction site outermost points are located at: 
+(a) *Description.* The Big Foot Tension Leg Platform (TLP) construction site is in the deepwater area of the Gulf of America at Walker Ridge 29. The Big Foot TLP construction site outermost points are located at: 
 
 NW Corner 26-56-18.85 N, 090-31-26.44 W 
 

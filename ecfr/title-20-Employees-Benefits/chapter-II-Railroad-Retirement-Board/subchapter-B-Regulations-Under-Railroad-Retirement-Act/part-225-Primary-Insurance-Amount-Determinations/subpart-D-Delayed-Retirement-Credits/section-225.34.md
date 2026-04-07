@@ -18,19 +18,19 @@
 
 | Year employee attains age 65 | Delayed retirement credit percent |
 | ---------------------------- | --------------------------------- |
-| 1990                         | 7/24 of 1%.                       |
+| 1990                         | 7⁄24 of 1%.                       |
 | 1991                         | Do.                               |
-| 1992                         | 1/3 of 1%.                        |
+| 1992                         | 1⁄3 of 1%.                        |
 | 1993                         | Do.                               |
-| 1994                         | 3/8 of 1%.                        |
+| 1994                         | 3⁄8 of 1%.                        |
 | 1995                         | Do.                               |
-| 1996                         | 5/12 of 1%.                       |
+| 1996                         | 5⁄12 of 1%.                       |
 | 1997                         | Do.                               |
-| 1998                         | 11/24 of 1%.                      |
+| 1998                         | 11⁄24 of 1%.                      |
 | 1999                         | Do.                               |
-| 2000                         | 1/2 of 1%.                        |
+| 2000                         | 1⁄2 of 1%.                        |
 | 2001                         | Do.                               |
-| 2002                         | 13/24 of 1%.                      |
+| 2002                         | 13⁄24 of 1%.                      |
 
 (ii) The delayed retirement credit equals the appropriate percent of the PIA times the number of months in which the employee is age 65 or older and for which credit is due. 
 
@@ -38,12 +38,12 @@
 
 | Year employee attains full retirement age | Delayed retirement credit percent |
 | ----------------------------------------- | --------------------------------- |
-| 2003                                      | 13/24 of 1%.                      |
-| 2004                                      | 7/12 of 1%.                       |
+| 2003                                      | 13⁄24 of 1%.                      |
+| 2004                                      | 7⁄12 of 1%.                       |
 | 2005                                      | Do.                               |
-| 2006                                      | 5/8 of 1%.                        |
+| 2006                                      | 5⁄8 of 1%.                        |
 | 2007                                      | Do.                               |
-| 2008 and later                            | 2/3 of 1%.                        |
+| 2008 and later                            | 2⁄3 of 1%.                        |
 
 (c) *Example:* Mr. Jones was qualified for a full age and service annuity when he reached age 65 in January 1985, but decided not to apply for an annuity because he was still working. Mr. Jones stopped working on December 31, 1985, and applied for his annuity to begin January 1, 1986. Based on his earnings, his PIA was $350.50. Since Mr. Jones did not receive an annuity for the 12 months from the month in which he became 65 (January 1985) until the month following the month he stopped working (January 1986), he is due credit for each of those 12 months. The total amount of his DRC's is calculated as follows: 
 

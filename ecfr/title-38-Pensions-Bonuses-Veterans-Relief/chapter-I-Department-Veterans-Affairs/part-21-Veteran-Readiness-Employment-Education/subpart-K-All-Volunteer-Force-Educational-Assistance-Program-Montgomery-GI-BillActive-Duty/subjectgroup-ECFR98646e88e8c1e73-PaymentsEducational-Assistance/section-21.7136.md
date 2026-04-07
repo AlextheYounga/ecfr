@@ -35,10 +35,10 @@ The monthly rate of educational assistance payable to a veteran or servicemember
 Table 1 to Paragraph (b)(2)
 | Training                             | Percentage of   full-time   monthly rate |
 | ------------------------------------ | ---------------------------------------- |
-| 3/4 time                             | 75                                       |
-| 1/2 time                             | 50                                       |
-| Less than 1/2 but more than 1/4 time | 50                                       |
-| 1/4 time                             | 25                                       |
+| 3⁄4 time                             | 75                                       |
+| 1⁄2 time                             | 50                                       |
+| Less than 1⁄2 but more than 1⁄4 time | 50                                       |
+| 1⁄4 time                             | 25                                       |
 
 (3) *Apprenticeship or other on-job training.* The monthly rate of basic educational assistance payable to a veteran whose service is described in paragraph (a) of this section and who is pursuing apprenticeship or other on-job training will be the full-time rate described in paragraph (b)(1) of this section reduced in accordance with the following: 
 
@@ -62,10 +62,10 @@ Table 2 to Paragraph (b)(3)
 Table 3 to Paragraph (c)(2)
 | Training                             | Percentage of full-time monthly rate |
 | ------------------------------------ | ------------------------------------ |
-| 3/4 time                             | 75                                   |
-| 1/2 time                             | 50                                   |
-| Less than 1/2 but more than 1/4 time | 50                                   |
-| 1/4 time                             | 25                                   |
+| 3⁄4 time                             | 75                                   |
+| 1⁄2 time                             | 50                                   |
+| Less than 1⁄2 but more than 1⁄4 time | 50                                   |
+| 1⁄4 time                             | 25                                   |
 
 (3) *Apprenticeship or other on-job training.* The monthly rate of basic educational assistance payable to a veteran whose service is described in paragraph (c) of this section and who is pursuing of apprenticeship or other on-job training will be the full-time rate described in paragraph (c)(1) of this section reduced in accordance with the following: 
 

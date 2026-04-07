@@ -1,6 +1,6 @@
 ##### § 147.857 Tahiti SPAR Facility Safety Zone.
 
-(a) *Description.* The Tahiti SPAR facility is in the deepwater area of the Gulf of Mexico at Tahiti SPAR. The facility is located at 27°19′33.3″ N/−90°42′50.9″ W and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
+(a) *Description.* The Tahiti SPAR facility is in the deepwater area of the Gulf of America at Tahiti SPAR. The facility is located at 27°19′33.3″ N/−90°42′50.9″ W and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
 
 (b) *Regulation.* No vessel may enter or remain in this safety zone except the following: 
 

@@ -1,6 +1,6 @@
-##### § 147.871 Safety Zone, Constitution Spar, Outer Continental Shelf Facility, Green Canyon 680, Gulf of Mexico.
+##### § 147.871 Safety Zone, Constitution Spar, Outer Continental Shelf Facility, Green Canyon 680, Gulf of America.
 
-(a) *Description.* The Constitution Spar is in the deepwater area of the Gulf of Mexico at Green Canyon Block 680. The facility is located at 27°17′31.92″ N, 90°58′4.8″ W, (NAD 83) and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
+(a) *Description.* The Constitution Spar is in the deepwater area of the Gulf of America at Green Canyon Block 680. The facility is located at 27°17′31.92″ N, 90°58′4.8″ W, (NAD 83) and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
 
 (b) *Regulation.* No vessel may enter or remain in the safety zone described in paragraph (a) of this section except for the following: 
 

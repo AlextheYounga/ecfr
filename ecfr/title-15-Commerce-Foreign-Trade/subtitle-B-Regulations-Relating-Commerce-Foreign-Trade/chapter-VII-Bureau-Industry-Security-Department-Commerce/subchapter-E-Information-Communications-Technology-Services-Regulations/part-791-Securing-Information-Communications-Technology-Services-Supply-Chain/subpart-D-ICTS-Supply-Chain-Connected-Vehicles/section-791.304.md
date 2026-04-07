@@ -1,0 +1,3 @@
+##### § 791.304 Related prohibited transactions.
+
+Connected vehicle manufacturers who are owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia, are prohibited from knowingly selling in the United States completed connected vehicles that incorporate VCS hardware or covered software, regardless of whether such VCS hardware or covered software is designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia. These connected vehicle manufacturers are also prohibited from offering commercial services in the United States that utilize completed connected vehicles that incorporate ADS.

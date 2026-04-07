@@ -1,4 +1,4 @@
-##### § 165.840 Regulated Navigation Area, Gulf of Mexico: Mississippi Canyon Block 20, South of New Orleans, LA.
+##### § 165.840 Regulated Navigation Area, Gulf of America: Mississippi Canyon Block 20, South of New Orleans, LA.
 
 (a) *Location.* The following area is a Regulated Navigation Area: A 300-foot diameter area at the water surface centered on the following coordinates: 28°56'12.619”N, 008°58'10.303”W, and extending the entire water column from the surface to the seabed. 
 

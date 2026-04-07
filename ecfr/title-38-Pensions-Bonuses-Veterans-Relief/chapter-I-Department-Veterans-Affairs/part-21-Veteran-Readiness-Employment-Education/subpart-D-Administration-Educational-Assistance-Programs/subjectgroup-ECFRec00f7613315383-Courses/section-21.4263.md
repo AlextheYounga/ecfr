@@ -1,10 +1,18 @@
 ##### § 21.4263 Approval of flight training courses.
 
-Link to an amendment published at 90 FR 5332, Jan. 16, 2025.
+(a)(1) A flight program may be approved if— 
 
-(a) *A flight school or institution of higher learning are the only entities that can offer flight courses.* A State approving agency may approve a flight course only if a flight school or an institution of higher learning offers the course. A State approving agency may not approve a flight course if an individual instructor offers it. The provisions of § 21.4150 shall determine the proper State approving agency for approving a flight course. 
+(i)(A) For 38 U.S.C. chapters 32 and 35 and 10 U.S.C. chapters 1606 and 1607, the flight courses that constitute the program of education meet Federal Aviation Administration standards for such courses and the Federal Aviation Administration and the State approving agency approve them; or 
 
-(Authority: 10 U.S.C. 16136(c); 38 U.S.C. 3032(d), 3241(b), 3671, 3672, 3676)
+(B) For 38 U.S.C. chapters 30 and 33, effective August 1, 2011, the flight program is deemed approved (A flight program will be deemed approved if it is approved by the Federal Aviation Administration and is offered by a certified pilot school that possesses a valid Federal Aviation Administration pilot school certificate or provisional pilot school certificate under 14 CFR part 141. Flight programs offered at flight schools listed in paragraphs (b)(2) and (3) of this section will not be approved for VA training under 38 U.S.C. chapters 30 and 33); and 
+
+(ii)(A) The flight training offered by a flight school is generally accepted as necessary for the attainment of a recognized vocational objective in the field of aviation; or 
+
+(B) The flight training is offered by an institution of higher learning for credit towards a standard college degree program. 
+
+(2) A State approving agency may approve a flight course only if a flight school or an institution of higher learning offers the course. A State approving agency may not approve a flight course if an individual instructor offers it. 
+
+(3) This paragraph (a) issued under the authority of 10 U.S.C. 16136(c), 16166(c), 38 U.S.C. 3032(e), 3241(b), 3672, 3676, 3680A. 
 
 (b) *Definition of flight school.* A *flight school* is a school, other than an institution of higher learning, or is an entity, such as an aero club; is located in a State; and meets one of the following sets of requirements: 
 
@@ -168,4 +176,4 @@ Link to an amendment published at 90 FR 5332, Jan. 16, 2025.
 
 (l) *Enrollment limitations.* A flight course must meet the 85-15 percent ratio requirement set forth in § 21.4201 before VA may approve new enrollments in the course. The contracted portion of a flight course must meet all the requirements of § 21.4201 for each subcontractor. 
 
-(Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(d), 3241(c), 3680A(d)) (The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0613) \[45 FR 51778, Aug. 5, 1980, as amended at 48 FR 37992, Aug. 22, 1983; 57 FR 29801, July 7, 1992; 59 FR 21938, Apr. 28, 1994; 61 FR 20728, May 8, 1996; 63 FR 34130, June 23, 1998; 67 FR 12474, Mar. 19, 2002\]
+(Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(d), 3241(c), 3680A(d)) (The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0613) \[45 FR 51778, Aug. 5, 1980, as amended at 48 FR 37992, Aug. 22, 1983; 57 FR 29801, July 7, 1992; 59 FR 21938, Apr. 28, 1994; 61 FR 20728, May 8, 1996; 63 FR 34130, June 23, 1998; 67 FR 12474, Mar. 19, 2002; 90 FR 5332, Jan. 16, 2025\]

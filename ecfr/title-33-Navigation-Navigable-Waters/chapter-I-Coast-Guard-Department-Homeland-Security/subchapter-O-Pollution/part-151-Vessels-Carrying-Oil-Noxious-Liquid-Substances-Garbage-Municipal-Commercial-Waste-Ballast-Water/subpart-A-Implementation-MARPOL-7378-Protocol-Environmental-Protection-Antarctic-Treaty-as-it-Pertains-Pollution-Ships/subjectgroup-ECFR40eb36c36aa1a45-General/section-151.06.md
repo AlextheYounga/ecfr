@@ -30,7 +30,7 @@
 
 (11) *The North Sea area* means the North Sea proper, including seas within the North Sea southwards of latitude 62° N and eastwards of longitude 4° W; the Skagerrak, the southern limit of which is determined east of the Skaw by latitude 57°44.8′ N; and the English Channel and its approaches eastwards of longitude 5° W. 
 
-(12) *The Wider Caribbean region* means the Gulf of Mexico and Caribbean Sea proper, including the bays and seas therein and that portion of the Atlantic Ocean within the boundary constituted by the 30° N parallel from Florida eastward to 77°30′ W meridian, thence a rhumb line to the intersection of 20° N parallel and 59° W meridian, thence a rhumb line to the intersection of 7°20′ N parallel and 50° W meridian, thence a rhumb line drawn southwesterly to the eastern boundary of French Guiana. 
+(12) *The Wider Caribbean region* means the Gulf of America and Caribbean Sea proper, including the bays and seas therein and that portion of the Atlantic Ocean within the boundary constituted by the 30° N parallel from Florida eastward to 77°30′ W meridian, thence a rhumb line to the intersection of 20° N parallel and 59° W meridian, thence a rhumb line to the intersection of 7°20′ N parallel and 50° W meridian, thence a rhumb line drawn southwesterly to the eastern boundary of French Guiana. 
 
 (b) Special areas for the purpose of Annex I of MARPOL 73/78 include those referenced in § 151.13. Special areas for the purposes of Annex II of MARPOL 73/78 include those referenced in § 151.32. Special areas for the purpose of Annex V of MARPOL 73/78 include those referenced in § 151.53. 
 

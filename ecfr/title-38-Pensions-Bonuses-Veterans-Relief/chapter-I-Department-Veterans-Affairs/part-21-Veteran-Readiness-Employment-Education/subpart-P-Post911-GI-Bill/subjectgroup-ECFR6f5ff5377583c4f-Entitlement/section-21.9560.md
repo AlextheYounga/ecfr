@@ -1,6 +1,6 @@
-##### § 21.9560 Entitlement charges.
+##### § 21.9560 Entitlement charges—for provisions effective before August 1, 2011.
 
-Link to an amendment published at 90 FR 5337, Jan. 16, 2025.
+For training that occurs before August 1, 2011— 
 
 (a) *Overview.* Except as provided in paragraphs (c) through (f) of this section, VA will base entitlement charges on the principle that an eligible individual who is paid educational assistance for one day of full-time pursuit should be charged one day of entitlement. 
 
@@ -92,4 +92,4 @@ Link to an amendment published at 90 FR 5337, Jan. 16, 2025.
 
 (iv) Multiplying the percentage obtained in paragraph (f)(3)(iii) of this section by the amount of entitlement otherwise chargeable for the period of the original overpayment. 
 
-(Authority: 38 U.S.C. 3034(a), 38 U.S.C. 3323(a), 3685)
+(Authority: 38 U.S.C. 3034(a), 38 U.S.C. 3323(a), 3685) \[74 FR 14671, Mar. 31, 2009, as amended at 90 FR 5337, Jan. 16, 2025\]

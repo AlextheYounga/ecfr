@@ -1,6 +1,6 @@
 ##### § 62.51 Western Rivers Marking System.
 
-(a) A variation of the standard U.S. aids to navigation system described above is employed on the Mississippi River and tributaries above Baton Rouge, LA and on certain other rivers which flow toward the Gulf of Mexico. 
+(a) A variation of the standard U.S. aids to navigation system described above is employed on the Mississippi River and tributaries above Baton Rouge, LA and on certain other rivers which flow toward the Gulf of America. 
 
 (b) The Western Rivers System varies from the standard U.S. system as follows: 
 

@@ -1,8 +1,6 @@
-##### § 21.9720 Certification of enrollment.
+##### § 21.9720 Certification of enrollment—for provisions effective before August 1, 2011.
 
-Link to an amendment published at 90 FR 5357, Jan. 16, 2025.
-
-Except as stated in § 21.9680, an institution of higher learning must certify an eligible individual's enrollment before he or she may receive educational assistance. 
+For training pursued during the period beginning August 1, 2009, and ending July 31, 2011, an IHL must certify an eligible individual's enrollment before he or she may receive educational assistance, except as stated in § 21.9680. 
 
 (a) *Institutions of higher learning must certify most enrollments.* VA does not, as a condition of payment of tuition assistance top-up or advance payment, require institutions of higher learning to certify the enrollments of eligible individuals who either are seeking tuition assistance top-up or, in the cases described in § 21.9715, are seeking an advance payment. VA does not require organizations or entities offering a licensing or certification test to certify that the eligible individual took the test. In all other cases, the institution of higher learning must certify the eligible individual's enrollment before he or she may receive educational assistance. This certification must be in a form specified by the Secretary and contain such information as specified by the Secretary. 
 
@@ -18,4 +16,4 @@ Except as stated in § 21.9680, an institution of higher learning must certify a
 
 (ii) The ending date for the period being certified. If the institution of higher learning has no prescribed maximum time for completion, the certification must include an ending date based on the educational institution's estimate for completion. 
 
-(Authority: 38 U.S.C. 3034(a), 3323(a), 3684) (Approved by the Office of Management and Budget under control number 2900-0073)
+(Authority: 38 U.S.C. 3034(a), 3323(a), 3684) (Approved by the Office of Management and Budget under control number 2900-0073) \[74 FR 14671, Mar. 31, 2009, as amended at 90 FR 5357, Jan. 16, 2025\]

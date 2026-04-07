@@ -44,4 +44,4 @@ Follow the procedures at PGI 213.301 for authorizing, establishing, and operatin
 
 (6) When the Governmentwide commercial purchase card is used as a method of payment for contracts or orders, follow the procedures at 232.7002(a)(5) and PGI 242.302(a)(13)(B)(*3*). 
 
-\[64 FR 56705, Oct. 21, 1999; 64 FR 63380, Nov. 19, 1999, as amended at 66 FR 55123, Nov. 1, 2001; 66 FR 56902, Nov. 13, 2001; 67 FR 38021, May 31, 2002; 68 FR 56561, Oct. 1, 2003; 70 FR 75411, Dec. 20, 2005; 72 FR 6484, Feb. 12, 2007; 73 FR 70906, Nov. 24, 2008; 76 FR 76319, Dec. 7, 2011; 77 FR 23631, Apr. 20, 2012; 77 FR 35880, June 15, 2012; 79 FR 56278, Sept. 19, 2014; 86 FR 27277, May 20, 2021; 87 FR 15817, Mar. 18, 2022; 87 FR 65517, Oct. 28, 2022; 87 FR 76992, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 89 FR 11748, Feb. 15, 2024\]
+\[64 FR 56705, Oct. 21, 1999; 64 FR 63380, Nov. 19, 1999\] Editorial Note:For Federal Register citations affecting section 213.301, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
-##### § 21.9590 Approved programs of education and courses.
+##### § 21.9590 Approved programs of education and courses—for provisions effective before August 1, 2011.
 
-Link to an amendment published at 90 FR 5341, Jan. 16, 2025.
+For training that occurs prior to August 1, 2011— 
 
 (a) Payments of educational assistance are based on pursuit of a program of education. In order to receive educational assistance under 38 U.S.C. chapter 33, an eligible individual must— 
 
@@ -38,4 +38,4 @@ Link to an amendment published at 90 FR 5341, Jan. 16, 2025.
 
 (3) 10 U.S.C. chapter 1607, if the individual was eligible under that chapter. 
 
-(Authority: Pub. L. 110-252, 122 Stat. 2377)
+(Authority: Pub. L. 110-252, 122 Stat. 2377) \[74 FR 14671, Mar. 31, 2009, as amended at 90 FR 5341, Jan. 16, 2025\]

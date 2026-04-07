@@ -56,4 +56,4 @@ Photovoltaic Devices—Certificate (MAR 2024)
 
 \_\_(ii) A designated country photovoltaic device or a qualifying country photovoltaic device. *\[Offeror to specify country of origin\_\_\_.\]*
 
-(End of provision) \[76 FR 78861, Dec. 20, 2011, as amended at 77 FR 13013, Mar. 5, 2012; 77 FR 30358, May 22, 2012; 77 FR 68701, Nov. 16, 2012; 78 FR 65222, Oct. 31, 2013; 78 FR 76995, Dec. 20, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 80 FR 36905, June 26, 2015; 80 FR 72605, Nov. 20, 2015; 80 FR 81471, Dec. 30, 2015; 82 FR 61483, Dec. 28, 2017; 83 FR 62501, Dec. 4, 2018; 84 FR 72247, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 76986, Dec. 16, 2022; 88 FR 80467, Nov. 17, 2023; 89 FR 20873, Mar. 26, 2024\]
+(End of provision) \[76 FR 78861, Dec. 20, 2011\] Editorial Note:For Federal Register citations affecting section 252.225-7018, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

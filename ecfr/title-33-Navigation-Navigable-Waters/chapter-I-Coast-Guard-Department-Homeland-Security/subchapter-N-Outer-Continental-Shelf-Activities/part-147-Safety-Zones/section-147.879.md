@@ -1,6 +1,6 @@
-##### § 147.879 Safety Zone; Vito Floating Production System, Outer Continental Shelf Facility, Mississippi Canyon Block 939, Gulf of Mexico
+##### § 147.879 Safety Zone; Vito Floating Production System, Outer Continental Shelf Facility, Mississippi Canyon Block 939, Gulf of America
 
-(a) *Description.* The Vito FPS is in the deepwater area of the Gulf of Mexico at Mississippi Canyon Block 939. The facility is located at 28°01′32.325″ N, 89°12′33.254″ W, (NAD 83) and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
+(a) *Description.* The Vito FPS is in the deepwater area of the Gulf of America at Mississippi Canyon Block 939. The facility is located at 28°01′32.325″ N, 89°12′33.254″ W, (NAD 83) and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
 
 (b) *Regulation.* No vessel may enter or remain in this safety zone except for the following: 
 

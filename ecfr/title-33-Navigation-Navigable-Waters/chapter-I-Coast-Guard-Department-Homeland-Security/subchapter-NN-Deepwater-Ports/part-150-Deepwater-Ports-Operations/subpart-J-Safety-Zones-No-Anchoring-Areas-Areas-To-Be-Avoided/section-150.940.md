@@ -2,7 +2,7 @@
 
 (a) *Louisiana Offshore Oil Port (LOOP).* (1) The location of the safety zone for LOOP is as described in Table 150.940(A) of this section: 
 
-Table 150.940(A)—Safety Zone for LOOP, Gulf of Mexico
+Table 150.940(A)—Safety Zone for LOOP, Gulf of America
 | Plotting guidance                                                                                                        | Latitude N | Longitude W |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------- | ----------- |
 | (i) Starting at                                                                                                          | 28°55′24″  | 90°00′37″   |

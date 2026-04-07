@@ -8,7 +8,7 @@ For the purpose of § 172.133—
 
 Table 172.135—Extent of Damage
 | **Collision Penetration**                                                                                                                                           |                                                                     |
-| Longitudinal extent                                                                                                                                                 | 0.495L 2/3 or 47.6 feet ((1/3)L 2/3 or 14.5m) whichever is shorter. |
+| Longitudinal extent                                                                                                                                                 | 0.495L 2⁄3 or 47.6 feet ((1⁄3)L 2⁄3 or 14.5m) whichever is shorter. |
 | Transverse extent 1                                                                                                                                                 | B/5 or 37.74 feet (11.5m) 2 whichever is shorter.                   |
 | Vertical extent                                                                                                                                                     | From the baseline upward without limit.                             |
 | **Grounding Penetration At the Forward End But Excluding Any Damage Aft of a Point 0.3L Aft of the Forward Perpendicular**                                          |                                                                     |

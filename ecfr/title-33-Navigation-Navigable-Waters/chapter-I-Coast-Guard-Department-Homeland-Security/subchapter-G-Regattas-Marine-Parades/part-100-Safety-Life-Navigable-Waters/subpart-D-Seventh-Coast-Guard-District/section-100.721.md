@@ -1,12 +1,12 @@
-##### § 100.721 Special Local Regulations; Clearwater Super Boat National Championship, Gulf of Mexico; Clearwater Beach, FL.
+##### § 100.721 Special Local Regulations; Clearwater Super Boat National Championship, Gulf of America; Clearwater Beach, FL.
 
 (a) *Regulated Areas.* The following regulated areas are established as special local regulations. All coordinates are North American Datum 1983. 
 
-(1) *Race Area.* All waters of the Gulf of Mexico contained within the following points: 27°58.67′ N, 82°50.32′ W, thence to position 27°58.60′ N, 82°49.98′ W, thence to position 28°00.88′ N, 82°50.35′ W, thence to position 28°00.80′ N, 82°49.90′ W, thence back to the original position, 28°58.67′ N, 82°50.32′ W. 
+(1) *Race Area.* All waters of the Gulf of America contained within the following points: 27°58.67′ N, 82°50.32′ W, thence to position 27°58.60′ N, 82°49.98′ W, thence to position 28°00.88′ N, 82°50.35′ W, thence to position 28°00.80′ N, 82°49.90′ W, thence back to the original position, 28°58.67′ N, 82°50.32′ W. 
 
-(2) *Spectator Area.* All waters of Gulf of Mexico seaward no less than 150 yards from the race area and as agreed upon by the Coast Guard and race officials. 
+(2) *Spectator Area.* All waters of Gulf of America seaward no less than 150 yards from the race area and as agreed upon by the Coast Guard and race officials. 
 
-(3) *Enforcement Area.* All waters of the Gulf of Mexico encompassed within the following points: 28°58.67′ N, 82°50.62′ W, thence to position 28°00.95′ N, 82°49.75′ W, thence to position 27°58.53′ N, 82°50.53′ W, thence to position 27°58.38′ N, 82°49.88′ W, thence back to position 28°58.67′ N, 82°50.62′ W. 
+(3) *Enforcement Area.* All waters of the Gulf of America encompassed within the following points: 28°58.67′ N, 82°50.62′ W, thence to position 28°00.95′ N, 82°49.75′ W, thence to position 27°58.53′ N, 82°50.53′ W, thence to position 27°58.38′ N, 82°49.88′ W, thence back to position 28°58.67′ N, 82°50.62′ W. 
 
 (b) *Definition.* The term “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, and other officers operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the Captain of the Port St. Petersburg in the enforcement of the regulated areas. 
 

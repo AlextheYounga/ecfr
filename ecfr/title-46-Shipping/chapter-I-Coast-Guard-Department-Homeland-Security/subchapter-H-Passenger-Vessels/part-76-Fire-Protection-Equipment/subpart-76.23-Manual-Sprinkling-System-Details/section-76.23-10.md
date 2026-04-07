@@ -11,7 +11,7 @@
 (c) *Pipe sizes.* (1) The various pipe sizes shall be in proportion to the number of heads served. Minimum pipe sizes shall be as given in table 76.23-10(c). 
 
 Table 76.23-10(c)
-| Number of 3/8 inch heads served | Minimum nominal pipe sizes, inches |
+| Number of 3⁄8 inch heads served | Minimum nominal pipe sizes, inches |
 | ------------------------------- | ---------------------------------- |
 |                                 | 1                                  |
 | 1                               | 2                                  |

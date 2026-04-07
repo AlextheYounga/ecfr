@@ -1,8 +1,6 @@
-##### § 21.9625 Beginning dates.
+##### § 21.9625 Beginning dates—for provisions effective before August 1, 2011.
 
-Link to an amendment published at 90 FR 5341, Jan. 16, 2025.
-
-VA will determine the beginning date of an award or increased award of educational assistance under this section, but in no case will the beginning date be earlier than August 1, 2009. When more than one paragraph in this section applies, VA will award educational assistance using the latest of the applicable beginning dates. 
+For a claim submitted during the period beginning August 1, 2009, and ending July 31, 2011, VA will determine the beginning date of an award or increased award of educational assistance under this section, but in no case will the beginning date be earlier than August 1, 2009. When more than one paragraph in this section applies, VA will award educational assistance using the latest of the applicable beginning dates. 
 
 (Authority: 38 U.S.C. 3313, 3316, 3323(a), 5110, 5111, 5113)
 
@@ -144,4 +142,18 @@ VA will determine the beginning date of an award or increased award of education
 
 (3) One year before the date the valid election request was received; or 
 
-(4) The effective date of the election as requested by the claimant.
+(4) The effective date of the election as requested by the claimant. 
+
+(m) *Fugitive felons.* An award of educational assistance to an otherwise eligible veteran, person, or dependent of a veteran will begin effective the date the individual ceases to be a fugitive felon, as shown by evidence, which may include evidence that a warrant for an offense involving flight is resolved by- 
+
+(1) Arrest; 
+
+(2) Surrendering to the issuing authority; 
+
+(3) Dismissal; or 
+
+(4) Court documents (dated after the warrant for the arrest of the felon) showing the individual is no longer a fugitive. 
+
+(5) This paragraph (m) issued under the authorityof 38 U.S.C. 3323(c), 5313B. 
+
+\[74 FR 14671, Mar. 31, 2009, as amended at 90 FR 5341, Jan. 16, 2025\]

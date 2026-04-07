@@ -10,7 +10,7 @@
 
 *Coast Guard District Commander* means an officer of the Coast Guard designated as such by the Commandant to command all Coast Guard activities within his or her district, which include the inspection, enforcement, and administration of Subtitle II, Title 46 U.S. Code; Title 33 U.S. Code; and regulations issued under these statutes. 
 
-*Coastwise* is a designation of service that includes all vessels normally navigating the waters of any ocean or the Gulf of Mexico 20 nautical miles or less offshore. 
+*Coastwise* is a designation of service that includes all vessels normally navigating the waters of any ocean or the Gulf of America 20 nautical miles or less offshore. 
 
 *Commandant* means the Commandant of the United States Coast Guard. 
 
@@ -36,7 +36,7 @@
 
 *Motor vessel* means any vessel more than 65 feet in length, which is propelled by machinery other than steam. 
 
-*Ocean* is a designation of service that includes all vessels navigating the waters of any ocean or the Gulf of Mexico more than 20-nautical miles offshore. 
+*Ocean* is a designation of service that includes all vessels navigating the waters of any ocean or the Gulf of America more than 20-nautical miles offshore. 
 
 *Officer in Charge, Marine Inspection* means any person from the civilian or military branch of the Coast Guard designated as such by the Commandant and who, under the direction of the Coast Guard District Commander, is in charge of an inspection zone for the performance of duties related to the inspection, enforcement, and administration of Subtitle II, Title 46 U.S. Code; Title 33 U.S. Code; and regulations issued under these statutes. 
 

@@ -5,11 +5,11 @@
 Table 76.10-5(a)
 | Gross tons                            | Minimum number of pumps | Hose and hydrant size, inches | Nozzle orifice size, inches | Length of hose, feet |
 | ------------------------------------- | ----------------------- | ----------------------------- | --------------------------- | -------------------- |
-|                                       | 100                     | 2                             | 1                           | 11/2                 |
-| 100                                   | 500                     | 2                             | 1                           | 11/2                 |
-| 500                                   | 1,500                   | 2                             | 2                           | 11/2                 |
-| 1,500                                 | 4,000                   | 2                             | 2                           | 1 21/2               |
-| 4,000                                 |                         | 3                             | 3                           | 1 21/2               |
+|                                       | 100                     | 2                             | 1                           | 11⁄2                 |
+| 100                                   | 500                     | 2                             | 1                           | 11⁄2                 |
+| 500                                   | 1,500                   | 2                             | 2                           | 11⁄2                 |
+| 1,500                                 | 4,000                   | 2                             | 2                           | 1 21⁄2               |
+| 4,000                                 |                         | 3                             | 3                           | 1 21⁄2               |
 | 1 Except as allowed by § 76.10-10(b). |                         |                               |                             |                      |
 
 (b) Vessels on an international voyage shall have a minimum total fire pump capacity at least equal to two-thirds of the required total bilge pump capacity, but in no case less than that required by this section. Each of the required fire pumps shall have a capacity not less than 80 percent of the total required capacity divided by the number of required pumps. 

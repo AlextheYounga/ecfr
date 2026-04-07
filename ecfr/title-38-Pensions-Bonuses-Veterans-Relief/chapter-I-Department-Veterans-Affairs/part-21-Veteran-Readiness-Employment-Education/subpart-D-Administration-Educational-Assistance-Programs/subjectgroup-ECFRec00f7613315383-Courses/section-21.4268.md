@@ -1,12 +1,10 @@
 ##### § 21.4268 Approval of licensing and certification tests.
 
-Link to an amendment published at 90 FR 5333, Jan. 16, 2025.
+(a) *Authority to approve licensing and certification tests*—(1) *Tests deemed approved.* Effective August 1, 2011, a licensure test offered by a Federal, State, or local government is deemed approved in accordance with § 21.4150(f). 
 
-(a) *Authority to approve licensing and certification tests.* (1) Except for approval of the licensing and certification tests and the organizations or entities offering these tests that, as provided in § 21.4250(c)(2), are VA's responsibility, the Secretary of Veterans Affairs delegates to each State approving agency the authority, within the respective State approving agency's jurisdiction provided in § 21.4250(a), to approve licensing and certification tests and to approve the organizations or entities offering licensing and certification tests. 
+(2) *VA approval.* The Secretary of Veterans Affairs delegates to the Under Secretary for Benefits, and to personnel the Under Secretary for Benefits may designate within the Education Service of the Veterans Benefits Administration, the authority to approve licensing and certification tests and the organizations and entities offering the tests as provided in § 21.4250(c)(2)(vi). 
 
-(2) The Secretary of Veterans Affairs delegates to the Under Secretary for Benefits, and to personnel the Under Secretary for Benefits may designate within the Education Service of the Veterans Benefits Administration, the authority to approve the licensing and certification tests and the organizations or entities offering these tests that, as provided in § 21.4250(c)(2)(vi), are VA's responsibility. 
-
-(Authority: 38 U.S.C. 512(a), 3689(a)(2))
+(3) *State approving agency approval.* Except for the licensing and certification tests and organizations or entities offering these tests that are approved under paragraphs (a)(1) and (2) of this section, the Secretary of Veterans Affairs delegates to each State approving agency the authority to approve licensing and certification tests and the organizations and entities offering these tests located within the State approving agency's jurisdiction as provided in § 21.4250(a). 
 
 (b) *Approval of tests.* (1) If an organization or entity wants a licensing or certification test that it offers to be approved for payment of educational assistance, it must apply for approval to the State approving agency having jurisdiction over the locality where the organization or entity has its headquarters. The application must be in the form the State approving agency requires. 
 
@@ -38,8 +36,6 @@ Link to an amendment published at 90 FR 5333, Jan. 16, 2025.
 
 (ii) The State approving agency for the State where the licensing agency is located approves that test. 
 
-(Authority: 38 U.S.C. 3689)
-
 (c) *Approval of organizations or entities offering licensing or certification tests.* An organization or entity must meet the requirements of this paragraph and, if a nongovernmental organization, of paragraph (d) of this section, in order for the State approving agency to approve a licensing or certification test that the organization or entity offers for payment of educational assistance to veterans and eligible persons who take the test. The organization or entity must— 
 
 (1) Maintain appropriate records with respect to all candidates who take the test for a period of not less than three years from the date the organization or entity administers the test to the candidates; 
@@ -63,8 +59,6 @@ Link to an amendment published at 90 FR 5333, Jan. 16, 2025.
 (ii) The results of any test a candidate takes; and 
 
 (iii) Personal identifying information of any candidate who applies for reimbursement from VA for a test. 
-
-(Authority: 38 U.S.C. 3689(c))
 
 (d) *Approval of nongovernmental organizations or entities offering certification tests.* (1) In addition to complying with the requirements of paragraph (c) of this section, a nongovernmental organization or entity must meet the requirements of paragraph (d) of this section before a certification test it offers can be approved for payment of educational assistance to veterans and eligible persons who take the test. Except as provided in paragraphs (d)(3) and (d)(4) of this section, the organization or entity— 
 
@@ -94,11 +88,7 @@ Link to an amendment published at 90 FR 5333, Jan. 16, 2025.
 
 (ii) Has a financial interest in an organization that provides preparatory education or training of a candidate for a test, but that test is advantageous in but not required for practicing a vocation or profession. 
 
-(Authority: 38 U.S.C. 3689(c))
-
 (e) *Notice of approval and withdrawal of approval.* The State approving agency must provide notice of an approval of a test as required in § 21.4250(b). If the State approving agency wishes to withdraw approval of a test, it must follow the provisions of § 21.4259. 
-
-(Authority: 38 U.S.C. 3689(d))
 
 (f) *A decision to disapprove a test or an organization or entity offering a test may be reviewed.* (1) If an organization or entity offering a test disagrees with a State approving agency's decision to disapprove a test or to disapprove the organization or entity offering the test, it may seek a review of the decision from the Director, Education Service. If the Director, Education Service has acted as the State approving agency, the organization or entity may seek a review of the decision from the Under Secretary for Benefits. 
 
@@ -110,4 +100,16 @@ Link to an amendment published at 90 FR 5333, Jan. 16, 2025.
 
 (5) The decision of the Director, Education Service or the Under Secretary for Benefits is the final administrative decision. It will not be subject to further administrative review. 
 
-(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0697) (Authority: 38 U.S.C. 3689) \[72 FR 16975, Apr. 5, 2007\]
+(g) *Authority.* (1) Paragraph (a) of this section issued under the authority of 38 U.S.C. 512(a), 3689(a)(2); 
+
+(2) Paragraph (b) of this section issued under the authority of 38 U.S.C. 3689; 
+
+(3) Paragraph (c) of this section issued under the authority of 38 U.S.C. 3689(c); 
+
+(4) Paragraph (d) of this section issued under the authority of 38 U.S.C. 3689(c); 
+
+(5) Paragraph (e) of this section issued under the authority of 38 U.S.C. 3689(d); 
+
+(6) Paragraph (f) of this section issued under the authority of 38 U.S.C. 3689. 
+
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0697) \[72 FR 16975, Apr. 5, 2007, as amended at 90 FR 5333, Jan. 16, 2025\]

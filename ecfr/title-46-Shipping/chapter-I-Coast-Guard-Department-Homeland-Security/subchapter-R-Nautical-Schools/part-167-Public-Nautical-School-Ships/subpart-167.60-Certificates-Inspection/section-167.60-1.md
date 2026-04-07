@@ -2,9 +2,9 @@
 
 (a) Every nautical school ship shall be inspected annually and if in the opinion of the Officer in Charge, Marine Inspection, the nautical school ship can be operated safely, he shall issue a certificate of inspection with the following endorsement: “Nautical School Ship” in lieu of the classification “Passenger vessel”, “cargo vessel”, etc. 
 
-(b) When a nautical school ship, in the opinion of the Officer in Charge, Marine Inspection, may be navigated on the waters of any ocean or the Gulf of Mexico more than 20 nautical miles offshore, the route shall be designated on certificate of inspection as “Ocean”. 
+(b) When a nautical school ship, in the opinion of the Officer in Charge, Marine Inspection, may be navigated on the waters of any ocean or the Gulf of America more than 20 nautical miles offshore, the route shall be designated on certificate of inspection as “Ocean”. 
 
-(c) When a nautical school ship, in the opinion of the Officer in Charge, Marine Inspection, may be navigated on the waters of any ocean or the Gulf of Mexico 20 nautical miles or less offshore, the route shall be designated on the certificate of inspection as “Coastwise”. 
+(c) When a nautical school ship, in the opinion of the Officer in Charge, Marine Inspection, may be navigated on the waters of any ocean or the Gulf of America 20 nautical miles or less offshore, the route shall be designated on the certificate of inspection as “Coastwise”. 
 
 (d) Documented vessels of 500 gross tons or more, certificated for ocean or coastwise service, which do not comply with the requirements of SOLAS 74 for cargo vessels shall have their certificate of inspection endorsed “Domestic Voyages Only.” 
 

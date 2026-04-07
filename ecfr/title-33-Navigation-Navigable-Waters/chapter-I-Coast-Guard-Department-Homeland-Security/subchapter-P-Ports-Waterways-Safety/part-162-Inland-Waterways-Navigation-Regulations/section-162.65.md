@@ -1,8 +1,8 @@
-##### § 162.65 All waterways tributary to the Atlantic Ocean south of Chesapeake Bay and all waterways tributary to the Gulf of Mexico east and south of St. Marks, Fla.
+##### § 162.65 All waterways tributary to the Atlantic Ocean south of Chesapeake Bay and all waterways tributary to the Gulf of America east and south of St. Marks, Fla.
 
 (a) *Description.* This section applies to the following: 
 
-(1) *Waterways.* All navigable waters of the United States, natural or artificial, including bays, lakes, sounds, rivers, creeks, intracoastal waterways, as well as canals and channels of all types, which are tributary to or connected by other waterways with the Atlantic Ocean south of Chesapeake Bay or with the Gulf of Mexico east and south of St. Marks, Florida. 
+(1) *Waterways.* All navigable waters of the United States, natural or artificial, including bays, lakes, sounds, rivers, creeks, intracoastal waterways, as well as canals and channels of all types, which are tributary to or connected by other waterways with the Atlantic Ocean south of Chesapeake Bay or with the Gulf of America east and south of St. Marks, Florida. 
 
 (2) *United States property.* All river and harbor lands owned by the United States in or along the waterways described in paragraph (a)(1) of this paragraph, including lock sites and all structures thereon, other sites for Government structures and for the accommodation and use of employees of the United States, and rights of way and spoil disposal areas to the extent of Federal interest therein. 
 

@@ -1,6 +1,6 @@
 ##### § 147.875 Safety Zone, Horn Mountain Spar, Outer Continental Shelf Facility, Mississippi Canyon 127.
 
-(a) *Description.* The Horn Mountain Spar is in the deepwater area of the Gulf of Mexico at Mississippi Canyon 127. The facility is located at: 28°51′57.5994″ N, 88°3′22.32″ W, (NAD 83) and the area within 500 meters (1640.4 feet) from each point on the facililty structure's outer edge is a safety zone. 
+(a) *Description.* The Horn Mountain Spar is in the deepwater area of the Gulf of America at Mississippi Canyon 127. The facility is located at: 28°51′57.5994″ N, 88°3′22.32″ W, (NAD 83) and the area within 500 meters (1640.4 feet) from each point on the facililty structure's outer edge is a safety zone. 
 
 (b) *Regulation.* No vessel may enter or remain in this safety zone except for the following: 
 

@@ -6,7 +6,7 @@
 
 (2) Wilmington, NC and Miami, FL; 
 
-(3) United States ports in the Gulf of Mexico; 
+(3) United States ports in the Gulf of America; 
 
 (4) Puget Sound ports and Canadian west coast ports or Columbia River ports, or both; 
 

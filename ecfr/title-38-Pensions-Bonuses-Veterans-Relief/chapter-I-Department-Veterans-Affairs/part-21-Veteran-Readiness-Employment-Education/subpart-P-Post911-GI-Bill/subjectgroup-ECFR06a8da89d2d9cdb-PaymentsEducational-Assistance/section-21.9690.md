@@ -1,6 +1,6 @@
-##### § 21.9690 Nonduplication of educational assistance.
+##### § 21.9690 Nonduplication of educational assistance—for provisions effective before August 1, 2011.
 
-Link to an amendment published at 90 FR 5355, Jan. 16, 2025.
+For training pursued during the period beginning August 1, 2009, and ending July 31, 2011— 
 
 (a) Except for receipt of a Montgomery GI Bill-Active Duty kicker provided under 38 U.S.C. 3015(d) or a Montgomery GI Bill-Selected Reserve kicker provided under 10 U.S.C. 16131(i), an eligible individual is barred from receiving educational assistance under 38 U.S.C. chapter 33 concurrently with educational assistance provided under— 
 
@@ -32,4 +32,4 @@ Link to an amendment published at 90 FR 5355, Jan. 16, 2025.
 
 (2) For a unit course or courses that are being paid for entirely or partly by the United States under the Government Employees' Training Act. 
 
-(Authority: 38 U.S.C. 3034(a), 3323(a), 3681) \[74 FR 14671, Mar. 31, 2009, as amended at 87 FR 8744, Feb. 16, 2022\]
+(Authority: 38 U.S.C. 3034(a), 3323(a), 3681) \[74 FR 14671, Mar. 31, 2009, as amended at 87 FR 8744, Feb. 16, 2022; 90 FR 5355, Jan. 16, 2025\]

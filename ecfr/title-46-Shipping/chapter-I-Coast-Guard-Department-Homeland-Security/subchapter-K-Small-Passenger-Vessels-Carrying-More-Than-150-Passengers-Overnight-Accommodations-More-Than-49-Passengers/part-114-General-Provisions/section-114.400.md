@@ -72,7 +72,7 @@
 
 (1) Any ocean; 
 
-(2) The Gulf of Mexico; 
+(2) The Gulf of America; 
 
 (3) The Caribbean Sea; 
 
@@ -332,7 +332,7 @@
 
 (1) Any ocean; 
 
-(2) The Gulf of Mexico; 
+(2) The Gulf of America; 
 
 (3) The Caribbean Sea; 
 

@@ -18,7 +18,7 @@ The following definitions apply to this part:
 
 *Civilian nautical school* means any school or branch thereof operated and conducted in the United States, except State nautical schools and schools operated by the United States or any agency thereof, which offers instruction for the primary purpose of training for service in the merchant marine. 
 
-*Coastwise voyage* means a voyage on the waters of any ocean or the Gulf of Mexico no more than 20 nautical miles offshore. 
+*Coastwise voyage* means a voyage on the waters of any ocean or the Gulf of America no more than 20 nautical miles offshore. 
 
 *Commandant* means the Commandant of the U.S. Coast Guard. 
 
@@ -78,7 +78,7 @@ The following definitions apply to this part:
 
 *Novel lifesaving appliance or arrangement* means a lifesaving appliance or arrangement that has new features not fully covered by the provisions of this part but that provides an equal or higher standard of safety. 
 
-*Ocean* means the waters of any ocean or the Gulf of Mexico more than 20 nautical miles offshore. 
+*Ocean* means the waters of any ocean or the Gulf of America more than 20 nautical miles offshore. 
 
 *Oceanographic research vessel* means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including those studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research. 
 

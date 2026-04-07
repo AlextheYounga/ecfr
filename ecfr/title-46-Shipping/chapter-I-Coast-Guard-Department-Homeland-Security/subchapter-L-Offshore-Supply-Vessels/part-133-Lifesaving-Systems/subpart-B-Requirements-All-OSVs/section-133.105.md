@@ -44,6 +44,6 @@
 
 (2) Additional liferafts must be provided to bring the total capacity available on each side to at least 100 percent of the total number of persons on board. If additional liferafts are provided and the rescue boat required under § 133.135 is also a lifeboat, it may be included in the aggregate capacity requirement. 
 
-(c) Each OSV operating in the Gulf of Mexico, as an alternative to the requirements of paragraph (b) of this section, may carry a sufficient number of inflatable buoyant apparatus or a sufficient number of lifefloats, having an aggregate capacity that, together with any lifeboats, rescue boats, and liferafts, will accommodate the total number of persons on board. 
+(c) Each OSV operating in the Gulf of America, as an alternative to the requirements of paragraph (b) of this section, may carry a sufficient number of inflatable buoyant apparatus or a sufficient number of lifefloats, having an aggregate capacity that, together with any lifeboats, rescue boats, and liferafts, will accommodate the total number of persons on board. 
 
 \[CGD 84-069, 61 FR 25304, May 20, 1996; 61 FR 40281, Aug. 1, 1996\]

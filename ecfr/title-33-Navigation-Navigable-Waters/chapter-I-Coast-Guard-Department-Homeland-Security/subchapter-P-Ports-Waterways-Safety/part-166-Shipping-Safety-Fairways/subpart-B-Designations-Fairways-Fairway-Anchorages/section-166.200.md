@@ -1,10 +1,10 @@
-##### § 166.200 Shipping safety fairways and anchorage areas, Gulf of Mexico.
+##### § 166.200 Shipping safety fairways and anchorage areas, Gulf of America.
 
-(a) *Purpose.* Fairways and anchorage areas as described in this section are established to control the erection of structures therein to provide safe approaches through oil fields in the Gulf of Mexico to entrances to the major ports along the Gulf Coast. 
+(a) *Purpose.* Fairways and anchorage areas as described in this section are established to control the erection of structures therein to provide safe approaches through oil fields in the Gulf of America to entrances to the major ports along the Gulf Coast. 
 
-(b) *Special Conditions for Fairways in the Gulf of Mexico.* Temporary anchors and attendant cables or chains attached to floating or semisubmersible drilling rigs outside a fairway may be placed within a fairway described in this section for the Gulf of Mexico, provided the following conditions are met: 
+(b) *Special Conditions for Fairways in the Gulf of America.* Temporary anchors and attendant cables or chains attached to floating or semisubmersible drilling rigs outside a fairway may be placed within a fairway described in this section for the Gulf of America, provided the following conditions are met: 
 
-(1) Anchors installed within fairways to stablize semisubmersible drilling rigs shall be allowed to remain 120 days. This period may be extended by the Army Corps of Engineers, as provided by § 209.135(b). 
+(1) Anchors installed within fairways to stabilize semisubmersible drilling rigs shall be allowed to remain 120 days. This period may be extended by the Army Corps of Engineers, as provided by § 209.135(b). 
 
 (2) Drilling rigs must be outside of any fairway boundary to whatever distance is necessary to ensure that the minimum depth of water over an anchor line within a fairway is 125 feet. 
 
@@ -12,7 +12,7 @@
 
 (4) Aids to Navigation or danger markings must be installed as required by 33 CFR Subchapter C. 
 
-(c) *Special Conditions for Fairway Anchorages in the Gulf of Mexico.* Structures may be placed within an area designated as a fairway anchorage, but the number of structures will be limited by spacing as follows: 
+(c) *Special Conditions for Fairway Anchorages in the Gulf of America.* Structures may be placed within an area designated as a fairway anchorage, but the number of structures will be limited by spacing as follows: 
 
 (1) The center of a structure to be erected shall not be less than two (2) nautical miles from the center of any existing structure. 
 

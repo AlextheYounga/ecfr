@@ -1,6 +1,6 @@
 ##### § 165.753 Regulated navigation area; Tampa Bay, Florida.
 
-(a) The following is a regulated navigation area (RNA): All the navigable waters of Tampa Bay, Hillsborough Bay and Old Tampa Bay, including all navigable waterways tributary thereto. Also included are the waters of Egmont Channel, Gulf of Mexico from Tampa Bay, Tampa Bay Entrance, approximate position (27°35.2′ N, 083°00.4′ W). 
+(a) The following is a regulated navigation area (RNA): All the navigable waters of Tampa Bay, Hillsborough Bay and Old Tampa Bay, including all navigable waterways tributary thereto. Also included are the waters of Egmont Channel, Gulf of America from Tampa Bay, Tampa Bay Entrance, approximate position (27°35.2′ N, 083°00.4′ W). 
 
 (b) The master, pilot, or person in charge of any vessel of 50 meters or greater shall give a Navigational Advisory Broadcast in accordance with 47 CFR 80.331 on VHF-FM channel 13 at the following broadcast/reporting points: 
 

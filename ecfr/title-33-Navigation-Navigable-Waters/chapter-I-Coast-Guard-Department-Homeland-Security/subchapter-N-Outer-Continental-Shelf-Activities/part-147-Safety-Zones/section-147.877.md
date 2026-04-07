@@ -1,6 +1,6 @@
 ##### § 147.877 Safety Zone, Heidelberg Spar, Outer Continental Shelf Facility, Green Canyon 860.
 
-(a) *Description.* The Heidelberg Spar in the deepwater area of the Gulf of Mexico at Green Canyon. The facility is located at: 27°6′41.0394″ N, 90°45′50.3994″ W (NAD 83) and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
+(a) *Description.* The Heidelberg Spar in the deepwater area of the Gulf of America at Green Canyon. The facility is located at: 27°6′41.0394″ N, 90°45′50.3994″ W (NAD 83) and the area within 500 meters (1640.4 feet) from each point on the facility structure's outer edge is a safety zone. 
 
 (b) *Regulation.* No vessel may enter or remain in this safety zone except for the following: 
 
