@@ -1,6 +1,4 @@
-##### § 240.15Fh-4 Antifraud provisions for security-based swap dealers and major security-based swap participants; special requirements for security-based swap dealers acting as advisors to special entities.
-
-Link to an amendment published at 88 FR 42585, June 30, 2023.
+##### § 240.15fh-4 (Rule 15fh-4) Antifraud provisions for security-based swap dealers and major security-based swap participants; special requirements for security-based swap dealers acting as advisors to special entities.
 
 (a) *Antifraud provisions.* It shall be unlawful for a security-based swap dealer or major security-based swap participant:
 
@@ -36,4 +34,6 @@ Link to an amendment published at 88 FR 42585, June 30, 2023.
 
 (ii) The security-based swap dealer does not know the identity of the counterparty at a reasonably sufficient time prior to execution of the transaction to permit the security-based swap dealer to comply with the obligations of paragraph (b) of this section.
 
-\[81 FR 30144, May 13, 2016\]
+(c) *No undue influence over chief compliance officer.* It shall be unlawful for any officer, director, supervised person, or employee of a security-based swap dealer or major security-based swap participant, or any person acting under such person's direction, to directly or indirectly take any action to coerce, manipulate, mislead, or fraudulently influence the security-based swap dealer's or major security-based swap participant's chief compliance officer in the performance of their duties under the Federal securities laws or the rules and regulations thereunder.
+
+\[81 FR 30144, May 13, 2016, as amended at 88 FR 42585, June 30, 2023\]

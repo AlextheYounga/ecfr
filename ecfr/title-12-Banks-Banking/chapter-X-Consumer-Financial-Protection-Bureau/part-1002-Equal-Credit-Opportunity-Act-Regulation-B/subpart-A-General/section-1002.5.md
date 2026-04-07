@@ -1,14 +1,12 @@
 ##### § 1002.5 Rules concerning requests for information.
 
-Link to an amendment published at 88 FR 35527, May 31, 2023.
-
 (a) *General rules*—(1) *Requests for information.* Except as provided in paragraphs (b) through (d) of this section, a creditor may request any information in connection with a credit transaction. This paragraph does not limit or abrogate any Federal or state law regarding privacy, privileged information, credit reporting limitations, or similar restrictions on obtainable information.
 
 (2) *Required collection of information.* Notwithstanding paragraphs (b) through (d) of this section, a creditor shall request information for monitoring purposes as required by § 1002.13 for credit secured by the applicant's dwelling. In addition, a creditor may obtain information required by a regulation, order, or agreement issued by, or entered into with, a court or an enforcement agency (including the Attorney General of the United States or a similar state official) to monitor or enforce compliance with the Act, this part, or other Federal or state statutes or regulations.
 
 (3) *Special-purpose credit.* A creditor may obtain information that is otherwise restricted to determine eligibility for a special purpose credit program, as provided in § 1002.8(b), (c), and (d).
 
-(4) *Other permissible collection of information.* Notwithstanding paragraph (b) of this section, a creditor may collect information under the following circumstances provided that the creditor collects the information in compliance with appendix B to 12 CFR part 1003:
+(4) *Other permissible collection of information.* Notwithstanding paragraph (b) of this section, a creditor may collect information under the following circumstances provided that the creditor collects the information in compliance with § 1002.107(a)(18) and (19) and accompanying commentary, or appendix B to 12 CFR part 1003, as applicable:
 
 (i) A creditor that is a financial institution under 12 CFR 1003.2(g) may collect information regarding the ethnicity, race, and sex of an applicant for a closed-end mortgage loan that is an excluded transaction under 12 CFR 1003.3(c)(11) if it submits HMDA data concerning such closed-end mortgage loans and applications or if it submitted HMDA data concerning closed-end mortgage loans for any of the preceding five calendar years;
 
@@ -21,6 +19,14 @@ Link to an amendment published at 88 FR 35527, May 31, 2023.
 (v) A creditor that is a financial institution under 12 CFR 1003.2(g), or that submitted HMDA data for any of the preceding five calendar years but is not currently a financial institution under 12 CFR 1003.2(g), may collect information regarding the ethnicity, race, and sex of an applicant for a loan that would otherwise be a covered loan under 12 CFR 1003.2(e) if the loan were not excluded by 12 CFR 1003.3(c)(10).
 
 (vi) A creditor that is collecting information regarding the ethnicity, race, and sex of an applicant or first co-applicant may collect information regarding the ethnicity, race, and sex of a second or additional co-applicant for a covered loan under 12 CFR 1003.2(e) or for a second or additional co-applicant for a loan described in paragraphs (a)(4)(i) through (v) of this section.
+
+(vii) A creditor that was required to report small business lending data pursuant to § 1002.109 for any of the preceding five calendar years but is not currently a covered financial institution under § 1002.105(b) may collect information pursuant to subpart B of this part for covered applications from small businesses as defined in §§ 1002.103 and 1002.106(b) regarding whether an applicant is a minority-owned business, a women-owned business, or an LGBTQI+-owned business, and the ethnicity, race, and sex of the applicant's principal owners if it complies with the requirements for covered financial institutions pursuant to §§ 1002.107(a)(18) and (19), 1002.108, 1002.111, and 1002.112 for that application. Such a creditor is permitted, but not required, to report data to the Bureau collected pursuant to subpart B of this part if it complies with the requirements of subpart B as otherwise required for covered financial institutions pursuant to §§ 1002.109 and 1002.110.
+
+(viii) A creditor that exceeded the loan-volume threshold in the first year of the two-year threshold period provided in § 1002.105(b) may, in the second year, collect information pursuant to subpart B of this part for covered applications from small businesses as defined in §§ 1002.103 and 1002.106(b) regarding whether an applicant is a minority-owned business, a women-owned business, or an LGBTQI+-owned business, and the ethnicity, race, and sex of the applicant's principal owners if it complies with the requirements for covered financial institutions pursuant to §§ 1002.107(a)(18) and (19), 1002.108, 1002.111, and 1002.112 for that application. Such a creditor is permitted, but not required, to report data to the Bureau collected pursuant to subpart B of this part if it complies with the requirements of subpart B as otherwise required for covered financial institutions pursuant to §§ 1002.109 and 1002.110.
+
+(ix) A creditor that is not currently a covered financial institution under § 1002.105(b), and is not otherwise a creditor to which § 1002.5(a)(4)(vii) or (viii) applies, may collect information pursuant to subpart B of this part for covered applications from small businesses as defined in §§ 1002.103 and 1002.106(b) regarding whether an applicant for a covered credit transaction is a minority-owned business, a women-owned business, or an LGBTQI+-owned business, and the ethnicity, race, and sex of the applicant's principal owners for a transaction if it complies with the requirements for covered financial institutions pursuant to §§ 1002.107 through 1002.112 for that application.
+
+(x) A creditor that is collecting information pursuant to subpart B of this part or as described in paragraphs (a)(4)(vii) through (ix) of this section for covered applications from small businesses as defined in §§ 1002.103 and 1002.106(b) regarding whether an applicant for a covered credit transaction is a minority-owned business, a women-owned business, or an LGBTQI+-owned business, and the ethnicity, race, and sex of the applicant's principal owners may also collect that same information for any co-applicants provided that it also complies with the relevant requirements of subpart B of this part or as described in paragraphs (a)(4)(vii) through (ix) of this section with respect to those co-applicants.
 
 (b) *Limitation on information about race, color, religion, national origin, or sex.* A creditor shall not inquire about the race, color, religion, national origin, or sex of an applicant or any other person in connection with a credit transaction, except as provided in paragraphs (b)(1) and (b)(2) of this section.
 
@@ -60,4 +66,4 @@ Link to an amendment published at 88 FR 35527, May 31, 2023.
 
 (e) *Permanent residency and immigration status.* A creditor may inquire about the permanent residency and immigration status of an applicant or any other person in connection with a credit transaction.
 
-\[76 FR 79445, Dec. 21, 2011, as amended at 82 FR 45694, Oct. 2, 2017\]
+\[76 FR 79445, Dec. 21, 2011, as amended at 82 FR 45694, Oct. 2, 2017; 88 FR 35527, May 31, 2023\]

@@ -1,8 +1,6 @@
 ##### § 1002.2 Definitions.
 
-Link to an amendment published at 88 FR 35527, May 31, 2023.
-
-For the purposes of this part, unless the context indicates otherwise, the following definitions apply.
+For the purposes of this part, unless the context indicates otherwise or as otherwise defined in subpart B, the following definitions apply:
 
 (a) *Account* means an extension of credit. When employed in relation to an account, the word use refers only to open-end credit.
 
@@ -87,3 +85,5 @@ For the purposes of this part, unless the context indicates otherwise, the follo
 (z) *Prohibited basis* means race, color, religion, national origin, sex, marital status, or age (provided that the applicant has the capacity to enter into a binding contract); the fact that all or part of the applicant's income derives from any public assistance program; or the fact that the applicant has in good faith exercised any right under the Consumer Credit Protection Act or any state law upon which an exemption has been granted by the Bureau.
 
 (aa) *State* means any state, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
+
+\[76 FR 79445, Dec. 21, 2011, as amended at 88 FR 35527, May 31, 2023\]
