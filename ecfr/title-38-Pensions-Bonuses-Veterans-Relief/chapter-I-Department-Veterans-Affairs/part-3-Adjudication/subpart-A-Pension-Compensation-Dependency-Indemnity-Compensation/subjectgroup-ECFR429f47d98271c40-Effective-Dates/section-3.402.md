@@ -1,5 +1,7 @@
 ##### § 3.402 Surviving spouse.
 
+Link to an amendment published at 84 FR 171, Jan. 18, 2019.
+
 Awards of pension, compensation, or dependency and indemnity compensation to or for a surviving spouse will be effective as follows:
 
 (a) *Additional allowance of dependency and indemnity compensation for children* § *3.5(e).* Commencing date of surviving spouse's award. See § 3.400(c).

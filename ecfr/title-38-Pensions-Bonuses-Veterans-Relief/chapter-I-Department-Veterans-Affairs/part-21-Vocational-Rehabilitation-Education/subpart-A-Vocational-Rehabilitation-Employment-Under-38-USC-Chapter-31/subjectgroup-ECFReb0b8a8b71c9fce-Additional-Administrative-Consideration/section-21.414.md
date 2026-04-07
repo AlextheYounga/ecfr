@@ -1,5 +1,7 @@
 ##### § 21.414 Revision of decision.
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 The revision of a decision on which an action is based is subject to the following regulations:
 
 (a) Clear and unmistakable error, § 3.105(a);
