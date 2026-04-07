@@ -1,5 +1,7 @@
 ##### § 1730.63 IDR policy criteria.
 
+Link to an amendment published at 87 FR 73443, Nov. 30, 2022.
+
 (a) *General.* (1) The borrower's IDR policy and procedures shall be readily available to the public and include, but not limited to, a standard application, application process, application fees, and agreement.
 
 (2) All costs to be recovered from the applicant regarding the application process or the actual interconnection and the process to determine the costs are to be clearly explained to the applicant and authorized by the applicant prior to the borrower incurring these costs. The borrower may require separate non-refundable deposits sufficient to insure serious intent by the applicant prior to proceeding either with the application or actual interconnection process.
