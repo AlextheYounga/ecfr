@@ -1,6 +1,6 @@
 ##### § 165.730 King's Bay, Georgia—Regulated navigation area.
 
-Vessels transiting in the water bounded by the line connecting the following points must travel no faster than needed for steerageway:
+Vessels transiting in the water bounded by the line connecting the following points must travel no faster than needed for steerageway: 
 
 | Latitude                             | Longtitude     |
 | 30°48′00.0″ N                        | 081°29′24.0″ W |

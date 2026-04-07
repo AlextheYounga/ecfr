@@ -2,11 +2,11 @@
 
 (a) *Types of riders.* The Revenue Division will accept all types of authorized bond riders. For a comprehensive listing, see the CBP Web site located at *www.cbp.gov.*
 
-(b) *Location and method of filing.* A bond rider must be filed at the Revenue Division, and may be submitted in paper or scanned and submitted to the Revenue Division as an email attachment or by facsimile (fax). 
+(b) *Location and method of filing.* A bond rider must be filed at the Revenue Division, and may be submitted in paper or scanned and submitted to the Revenue Division as an email attachment or by facsimile (fax).
 
-(c) *Attachment of rider to paper bond.* A rider submitted to CBP in paper format must be securely attached to the related bond to prevent their loss or misplacement. 
+(c) *Attachment of rider to paper bond.* A rider submitted to CBP in paper format must be securely attached to the related bond to prevent their loss or misplacement.
 
-(d) *Format of rider.* The riders must be signed, sealed, witnessed, executed, include a certificate as to corporate principal, if applicable, and otherwise comply with the requirements of this part. The riders must contain the following conditions: 
+(d) *Format of rider.* The riders must be signed, sealed, witnessed, executed, include a certificate as to corporate principal, if applicable, and otherwise comply with the requirements of this part. The riders must contain the following conditions:
 
 (1) *Name change of principal.*
 

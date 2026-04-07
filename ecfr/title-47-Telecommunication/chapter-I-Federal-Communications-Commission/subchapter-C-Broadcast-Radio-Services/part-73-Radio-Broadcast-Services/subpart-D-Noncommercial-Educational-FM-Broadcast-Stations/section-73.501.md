@@ -1,6 +1,6 @@
 ##### § 73.501 Channels available for assignment.
 
-(a) The following frequencies, except as provided in paragraph (b) of this section, are available for noncommercial educational FM broadcasting:
+(a) The following frequencies, except as provided in paragraph (b) of this section, are available for noncommercial educational FM broadcasting: 
 
 | Frequency (MHz)                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Channel No. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
@@ -28,6 +28,6 @@
 | 1 The frequency 87.9 MHz, Channel 200, is available only for use of existing Class D stations required to change frequency. It is available only on a noninterference basis with respect to TV Channel 6 stations and adjacent channel noncommercial educational FM stations. It is not available at all within 402 kilometers (250 miles) of Canada and 320 kilometers (199 miles) of Mexico. The specific standards governing its use are contained in § 73.512. |             |
 | 2 The frequency 89.1 MHz, Channel 206, in the New York City metropolitan area, is reserved for the use of the United Nations with the equivalent of an antenna height of 150 meters (492 feet) above average terrain and effective radiated power of 20 kW and the Commission will make no assignments which would cause objectionable interference with such use.                                                                                                 |             |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
 \[43 FR 39715, Sept. 6, 1978, as amended at 47 FR 30068, July 12, 1982; 52 FR 43765, Nov. 16, 1987; 58 FR 44950, Aug. 25, 1993; 87 FR 15343, Mar. 18, 2022\]

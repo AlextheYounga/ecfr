@@ -1,20 +1,20 @@
 ##### § 165.1704 Prince William Sound, Alaska-regulated navigation area.
 
-(a) The following is a regulated navigation area: The navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W. and includes Valdez Arm, Valdez Narrows, and Port Valdez.
+(a) The following is a regulated navigation area: The navigable waters of the United States north of a line drawn from Cape Hinchinbrook Light to Schooner Rock Light, comprising that portion of Prince William Sound between 146°30′ W. and 147°20′ W. and includes Valdez Arm, Valdez Narrows, and Port Valdez. 
 
-(b) Within the regulated navigation area described in paragraph (a) of this section, § 161.60 of this chapter establishes a VTS Special Area for the waters of Valdez Arm, Valdez Narrows, and Port Valdez northeast of a line bearing 307° True from Tongue Point at 61°02′06″ N., 146°40′ W.; and southwest of a line bearing 307° True from Entrance Island Light at 61°05′06″ N., 146°36′42″ W.
+(b) Within the regulated navigation area described in paragraph (a) of this section, § 161.60 of this chapter establishes a VTS Special Area for the waters of Valdez Arm, Valdez Narrows, and Port Valdez northeast of a line bearing 307° True from Tongue Point at 61°02′06″ N., 146°40′ W.; and southwest of a line bearing 307° True from Entrance Island Light at 61°05′06″ N., 146°36′42″ W. 
 
-(c) *Regulations.* In addition to the requirements set forth in § 161.13 and § 161.60(c) of this chapter, a tank vessel of 20,000 deadweight tons or more that intends to navigate within the regulated navigation area must:
+(c) *Regulations.* In addition to the requirements set forth in § 161.13 and § 161.60(c) of this chapter, a tank vessel of 20,000 deadweight tons or more that intends to navigate within the regulated navigation area must: 
 
-(1) Report compliance with part 164 of this chapter, to the Vessel Traffic Center (VTC);
+(1) Report compliance with part 164 of this chapter, to the Vessel Traffic Center (VTC); 
 
-(2) Have at least two radiotelephones capable of operating on the designated VTS frequency, one of which is capable of battery operation;
+(2) Have at least two radiotelephones capable of operating on the designated VTS frequency, one of which is capable of battery operation; 
 
-(3) When steady wind conditions in the VTS Special Area or Port Valdez exceed, or are anticipated to exceed 40 knots, proceed as directed by the VTC (entry into the VTS Special Area and Port Valdez is prohibited);
+(3) When steady wind conditions in the VTS Special Area or Port Valdez exceed, or are anticipated to exceed 40 knots, proceed as directed by the VTC (entry into the VTS Special Area and Port Valdez is prohibited); 
 
-(4) When transiting the VTS Special Area, limit speed to 12 knots; and
+(4) When transiting the VTS Special Area, limit speed to 12 knots; and 
 
-(5) If laden and intending to navigate the VTS Special Area, limit speed to 12 knots except between Middle Rock and Potato Point where the speed limit shall be 6 knots; and
+(5) If laden and intending to navigate the VTS Special Area, limit speed to 12 knots except between Middle Rock and Potato Point where the speed limit shall be 6 knots; and 
 
 Note:
 

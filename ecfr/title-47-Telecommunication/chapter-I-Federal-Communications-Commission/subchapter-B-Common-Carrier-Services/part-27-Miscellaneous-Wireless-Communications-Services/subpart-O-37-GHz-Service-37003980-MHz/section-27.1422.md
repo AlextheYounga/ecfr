@@ -1,8 +1,8 @@
 ##### § 27.1422 Accelerated relocation payment.
 
-(a) Eligible space station operators that meet the applicable early-clearing benchmark(s), as confirmed in their Certification of Accelerated Relocation set-forth in § 27.1412(g), will be eligible for their respective accelerated relocation payment.
+(a) Eligible space station operators that meet the applicable early-clearing benchmark(s), as confirmed in their Certification of Accelerated Relocation set-forth in § 27.1412(g), will be eligible for their respective accelerated relocation payment. 
 
-(b) The Relocation Payment Clearinghouse will distribute the accelerated relocation payments accordingly:
+(b) The Relocation Payment Clearinghouse will distribute the accelerated relocation payments accordingly: 
 
 Table 1 to Paragraph (b)—Acclerated Relocation Payment by Operator
 |          | Payment        | Phase I   payment | Phase II   payment |
@@ -14,9 +14,9 @@ Table 1 to Paragraph (b)—Acclerated Relocation Payment by Operator
 | Star One | 15,124,000     | 3,723,000         | 11,401,000         |
 | Totals   | 9,700,001,000  | 2,388,117,000     | 7,311,884,000      |
 
-(c) The Relocation Payment Clearinghouse shall promptly notify 3.7 GHz Service licensees following validation of the certification of accelerated relocations as set-forth in Section 27.1412(g). 3.7 GHz Service licensees shall pay the accelerated relocation payments to the Clearinghouse within 60 days of the notice that eligible space station operators have met their respective accelerated clearing benchmark. The Clearinghouse shall disburse accelerated relocation payments to relevant space station operators within seven days of receiving the payment from overlay licensees.
+(c) The Relocation Payment Clearinghouse shall promptly notify 3.7 GHz Service licensees following validation of the certification of accelerated relocations as set-forth in Section 27.1412(g). 3.7 GHz Service licensees shall pay the accelerated relocation payments to the Clearinghouse within 60 days of the notice that eligible space station operators have met their respective accelerated clearing benchmark. The Clearinghouse shall disburse accelerated relocation payments to relevant space station operators within seven days of receiving the payment from overlay licensees. 
 
-(d) For eligible space station operators that fail to meet either the Phase I or Phase II benchmarks as of the relevant accelerated relocation deadline, the accelerated relocation payment will be reduced according to the following schedule of declining accelerated relocation payments for the six months following the relevant deadline:
+(d) For eligible space station operators that fail to meet either the Phase I or Phase II benchmarks as of the relevant accelerated relocation deadline, the accelerated relocation payment will be reduced according to the following schedule of declining accelerated relocation payments for the six months following the relevant deadline: 
 
 Table 2 to Paragraph (d)
 | Date of completion | Incremental   reduction   (percent) | Accelerated   relocation   payment   (percent) |

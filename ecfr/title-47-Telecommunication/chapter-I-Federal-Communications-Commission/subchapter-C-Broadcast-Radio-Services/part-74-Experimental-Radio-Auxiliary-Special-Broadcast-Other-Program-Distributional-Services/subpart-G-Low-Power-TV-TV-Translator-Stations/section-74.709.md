@@ -1,6 +1,6 @@
 ##### § 74.709 Land mobile station protection.
 
-(a) Stations in the Land Mobile Radio Service, using the following channels in the indicated cities will be protected from interference caused by low power TV or TV translator stations, and low power TV and TV translator stations must accept any interference from stations in the land mobile service operating on the following channels:
+(a) Stations in the Land Mobile Radio Service, using the following channels in the indicated cities will be protected from interference caused by low power TV or TV translator stations, and low power TV and TV translator stations must accept any interference from stations in the land mobile service operating on the following channels: 
 
 Table 1 to Paragraph (a)
 | City              | Channels   | Coordinates |
@@ -19,11 +19,11 @@ Table 1 to Paragraph (a)
 | San Francisco, CA | 16, 17     | 37°46′38.7″ |
 | Washington, DC    | 17, 18     | 38°53′51.4″ |
 
-(b) The protected contours for the land mobile radio service are 130 kilometers from the above coordinates, except where limited by the following:
+(b) The protected contours for the land mobile radio service are 130 kilometers from the above coordinates, except where limited by the following: 
 
-(1) If the land mobile channel is the same as the channel in the following list, the land mobile protected contour excludes the area within 145 kilometers of the corresponding coordinates from list below. Except if the land mobile channel is 15 in New York or Cleveland or 16 in Detroit, the land mobile protected contour excludes the area within 95 kilometers of the corresponding coordinates from the list below.
+(1) If the land mobile channel is the same as the channel in the following list, the land mobile protected contour excludes the area within 145 kilometers of the corresponding coordinates from list below. Except if the land mobile channel is 15 in New York or Cleveland or 16 in Detroit, the land mobile protected contour excludes the area within 95 kilometers of the corresponding coordinates from the list below. 
 
-(2) If the land mobile channel is one channel above or below the channel in the following list, the land mobile protected contour excludes the area within 95 kilometers of the corresponding coordinates from the list below.
+(2) If the land mobile channel is one channel above or below the channel in the following list, the land mobile protected contour excludes the area within 95 kilometers of the corresponding coordinates from the list below. 
 
 Table 2 to Paragraph (b)(2)
 | City               | Channel | Coordinates |
@@ -53,25 +53,25 @@ Table 2 to Paragraph (b)(2)
 | Parkersburg, WV    | 15      | 39°20′59.8″ |
 | Madison, WI        | 15      | 43°03′03.0″ |
 
-(c) A low power TV or TV translator station application will not be accepted if it specifies a site that is within the protected contour of a co-channel or first adjacent channel land mobile assignment.
+(c) A low power TV or TV translator station application will not be accepted if it specifies a site that is within the protected contour of a co-channel or first adjacent channel land mobile assignment. 
 
-(d) The low power TV or TV translator station field strength is calculated from the proposed effective radiated power (ERP) and the antenna height above average terrain (HAAT) in pertinent directions.
+(d) The low power TV or TV translator station field strength is calculated from the proposed effective radiated power (ERP) and the antenna height above average terrain (HAAT) in pertinent directions. 
 
-(1) The field strength is calculated using Figure 10c of § 73.699 (F(50, 10) charts) of part 73 of this chapter.
+(1) The field strength is calculated using Figure 10c of § 73.699 (F(50, 10) charts) of part 73 of this chapter. 
 
-(2) A low power TV or TV translator station application will not be accepted if it specifies the same channel as one of the land mobile assignments and its field strength at the land mobile protected contour exceeds 52 dBu.
+(2) A low power TV or TV translator station application will not be accepted if it specifies the same channel as one of the land mobile assignments and its field strength at the land mobile protected contour exceeds 52 dBu. 
 
-(3) A low power TV or TV translator station application will not be accepted if it specifies a channel that is one channel above or below one of the land mobile assignments and its field strength at the land mobile protected contour exceeds 76 dBu.
+(3) A low power TV or TV translator station application will not be accepted if it specifies a channel that is one channel above or below one of the land mobile assignments and its field strength at the land mobile protected contour exceeds 76 dBu. 
 
-(e) To protect stations in the Offshore Radio Service, a low power TV or TV translator station construction permit application will not be accepted if it specifies operation on channels 15, 16, 17 or 18 in the following areas. West Longitude and North Latitude are abbreviated as W.L. and N.L. respectively.
+(e) To protect stations in the Offshore Radio Service, a low power TV or TV translator station construction permit application will not be accepted if it specifies operation on channels 15, 16, 17 or 18 in the following areas. West Longitude and North Latitude are abbreviated as W.L. and N.L. respectively. 
 
-(1) On Channel 15: west of 92°00′ W.L.; east of 98°30′ W.L.; and south of a line extending due west from 30°30′ N.L., 92°00′ W.L. to 30°30′ N.L., 96°00′ W.L.; and then due southwest to 28°00′ N.L., 98°30′ W.L.
+(1) On Channel 15: west of 92°00′ W.L.; east of 98°30′ W.L.; and south of a line extending due west from 30°30′ N.L., 92°00′ W.L. to 30°30′ N.L., 96°00′ W.L.; and then due southwest to 28°00′ N.L., 98°30′ W.L. 
 
-(2) On Channel 16: west of 86°40′ W.L.; east of 96°30′ W.L.; and south of a line extending due west from 31°00′ N.L., 86°40′ W.L. to 31°00′ N.L., 95°00′ W.L. and then due southwest to 29°30′ N.L., 96°30′ W.L.
+(2) On Channel 16: west of 86°40′ W.L.; east of 96°30′ W.L.; and south of a line extending due west from 31°00′ N.L., 86°40′ W.L. to 31°00′ N.L., 95°00′ W.L. and then due southwest to 29°30′ N.L., 96°30′ W.L. 
 
-(3) On Channel 17: west of 86°30′ W.L.; east of 96°00′ W.L.; and south of a line extending due west from 31°00′ N.L., 86°30′ W.L. to 31°30′ N.L., 94°00′ W.L. and then due southwest to 29°30′ N.L., 96°00′ W.L.
+(3) On Channel 17: west of 86°30′ W.L.; east of 96°00′ W.L.; and south of a line extending due west from 31°00′ N.L., 86°30′ W.L. to 31°30′ N.L., 94°00′ W.L. and then due southwest to 29°30′ N.L., 96°00′ W.L. 
 
-(4) On Channel 18: west of 87°00′ W.L.; east of 95°00′ W.L.; and south of 31°00′ N.L.
+(4) On Channel 18: west of 87°00′ W.L.; east of 95°00′ W.L.; and south of 31°00′ N.L. 
 
 Note 1 to § 74.709:
 
