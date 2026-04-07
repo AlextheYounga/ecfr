@@ -1,4 +1,6 @@
-##### § 600.10 Date, extent, duration, and consequence of eligibility. \]
+##### § 600.10 Date, extent, duration, and consequence of eligibility.
+
+Link to an amendment published at 85 FR 54810, Sept. 2, 2020.
 
 (a) *Date of eligibility.* (1) If the Secretary determines that an applicant institution satisfies all the statutory and regulatory eligibility requirements, the Secretary considers the institution to be an eligible institution as of the date -
 

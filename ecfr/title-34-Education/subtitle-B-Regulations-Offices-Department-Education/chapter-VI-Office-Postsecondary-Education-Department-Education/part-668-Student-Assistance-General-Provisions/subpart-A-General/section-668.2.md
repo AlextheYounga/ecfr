@@ -1,5 +1,7 @@
 ##### § 668.2 General definitions.
 
+Link to an amendment published at 85 FR 54813, Sept. 2, 2020.
+
 (a) The following definitions are contained in the regulations for Institutional Eligibility under the Higher Education Act of 1965, as amended, 34 CFR part 600:
 
 Accredited Award year Branch campus Clock hour Correspondence course Credit hour Distance education Educational program Eligible institution Federal Family Education Loan (FFEL) programs Foreign institution Incarcerated student Institution of higher education Legally authorized Nationally recognized accrediting agency Nonprofit institution One-year training program Postsecondary vocational institution Preaccredited Proprietary institution of higher education Recognized equivalent of a high school diploma Recognized occupation Regular student Secretary State Telecommunications course
