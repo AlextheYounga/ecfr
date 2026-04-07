@@ -1,8 +1,8 @@
 ##### § 1256.76 How do I request mandatory review of classified information under Executive Order 12958, as amended?
 
-(a) You may request mandatory review of classified information that is in the legal custody of NARA, as well as in legislative and judicial records NARA holds. Your mandatory review request must describe the document or material containing the information with sufficient specificity to enable NARA to locate it with a reasonable amount of effort. When possible, a request must include the name of the originator and recipient of the information, as well as its date, subject, and file designation. Information we reviewed within the previous 2 years is not subject to mandatory review. We notify you if this provision applies to your request.
+(a) You may request mandatory review of classified information that is in the legal custody of NARA, as well as in legislative and judicial records NARA holds. Your mandatory review request must describe the document or material containing the information with sufficient specificity to enable NARA to locate it with a reasonable amount of effort. When possible, a request must include the name of the originator and recipient of the information, as well as its date, subject, and file designation. Information we reviewed within the previous 2 years is not subject to mandatory review. We notify you if this provision applies to your request. 
 
-(b) You must address your mandatory review request to the appropriate staff in the following table.
+(b) You must address your mandatory review request to the appropriate staff in the following table. 
 
 | If the documents are . . .                                                                                                                                 | . . . then address your request to                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |

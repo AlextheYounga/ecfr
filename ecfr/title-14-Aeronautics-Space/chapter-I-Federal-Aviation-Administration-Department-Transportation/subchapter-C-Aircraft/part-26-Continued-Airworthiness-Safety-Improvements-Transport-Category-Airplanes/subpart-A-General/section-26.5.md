@@ -1,6 +1,6 @@
 ##### § 26.5 Applicability table.
 
-Table 1 of this section provides an overview of the applicability of this part. It provides guidance in identifying what sections apply to various types of entities. The specific applicability of each subpart and section is specified in the regulatory text.
+Table 1 of this section provides an overview of the applicability of this part. It provides guidance in identifying what sections apply to various types of entities. The specific applicability of each subpart and section is specified in the regulatory text. 
 
 Table 1—Applicability of Part 26 Rules
 |                                                                     | Applicable sections |

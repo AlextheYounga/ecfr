@@ -1,6 +1,6 @@
 ##### § 90.357 Frequencies for LMS systems in the 902-928 MHz band.
 
-(a) Multilateration LMS systems will be authorized on the following LMS sub-bands: 
+(a) Multilateration LMS systems will be authorized on the following LMS sub-bands:
 
 | LMS sub-band                                                                                                                                                                           | Forward link 1       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
@@ -10,7 +10,7 @@
 | 1 Forward links for LMS systems may also be contained within the LMS sub-band. However, the maximum allowable power in these sub-bands is 30 Watts ERP in accordance with § 90.205(l). |                      |
 | 2 The frequency band 919.750-921.750 MHz is shared co-equally between multilateration and non-multilateration LMS systems.                                                             |                      |
 
-(b) Non-multilateriation LMS systems will be authorized in the following frequency bands: 
+(b) Non-multilateriation LMS systems will be authorized in the following frequency bands:
 
 | LMS Sub-band 1                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 103.23 Flight visibility and cloud clearance requirements.
 
-No person may operate an ultralight vehicle when the flight visibility or distance from clouds is less than that in the table found below. All operations in Class A, Class B, Class C, and Class D airspace or Class E airspace designated for an airport must receive prior ATC authorization as required in § 103.17 of this part.
+No person may operate an ultralight vehicle when the flight visibility or distance from clouds is less than that in the table found below. All operations in Class A, Class B, Class C, and Class D airspace or Class E airspace designated for an airport must receive prior ATC authorization as required in § 103.17 of this part. 
 
 | Airspace                                                               | Flight visibility | Distance from clouds                                               |
 | ---------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------ |

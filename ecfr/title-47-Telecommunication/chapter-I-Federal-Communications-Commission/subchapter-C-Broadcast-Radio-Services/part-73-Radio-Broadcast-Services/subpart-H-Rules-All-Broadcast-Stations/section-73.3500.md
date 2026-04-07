@@ -1,6 +1,6 @@
 ##### § 73.3500 Application and report forms.
 
-(a) Following are the FCC broadcast application and report forms, listed by number. 
+(a) Following are the FCC broadcast application and report forms, listed by number.
 
 Table 1 to Paragraph (a)
 | Form No.             | Title                                                                                                                                                                                                   |
@@ -39,6 +39,6 @@ Table 1 to Paragraph (a)
 | 601                  | FCC Application for Wireless Telecommunications Bureau Radio Service Authorization.                                                                                                                     |
 | 603                  | FCC Wireless Telecommunications Bureau Application for Assignments of Authorization and Transfers of Control.                                                                                           |
 
-(b) Any application on Form 2100 must be filed electronically. 
+(b) Any application on Form 2100 must be filed electronically.
 
 \[89 FR 7258, Feb. 1, 2024\]

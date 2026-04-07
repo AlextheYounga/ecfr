@@ -1,8 +1,8 @@
 ##### § 73.825 Protection to reception of TV channel 6.
 
-The following spacing requirements will apply to LPFM applications on Channels 201 through 220 unless the application is accompanied by a written agreement between the LPFM applicant and each affected TV Channel 6 broadcast station concurring with the proposed LPFM facilities. 
+The following spacing requirements will apply to LPFM applications on Channels 201 through 220 unless the application is accompanied by a written agreement between the LPFM applicant and each affected TV Channel 6 broadcast station concurring with the proposed LPFM facilities.
 
-(a) LPFM stations will be authorized on Channels 201 through 220 only if the pertinent minimum separation distances in the following table are met with respect to all full power TV Channel 6 stations. 
+(a) LPFM stations will be authorized on Channels 201 through 220 only if the pertinent minimum separation distances in the following table are met with respect to all full power TV Channel 6 stations.
 
 | FM channel number | LPFM to TV   channel 6 (km) |
 | ----------------- | --------------------------- |
@@ -27,7 +27,7 @@ The following spacing requirements will apply to LPFM applications on Channels 2
 | 219               | 130                         |
 | 220               | 130                         |
 
-(b) LPFM stations will be authorized on Channels 201 through 220 only if the pertinent minimum separation distances in the following table are met with respect to all low power TV, TV translator, and Class A TV stations authorized on TV Channel 6. 
+(b) LPFM stations will be authorized on Channels 201 through 220 only if the pertinent minimum separation distances in the following table are met with respect to all low power TV, TV translator, and Class A TV stations authorized on TV Channel 6.
 
 | FM channel number | LPFM to TV   channel 6 (km) |
 | ----------------- | --------------------------- |

@@ -1,8 +1,8 @@
 ##### § 15.712 Interference protection requirements.
 
-The separation distances in this section apply to fixed, mobile, and personal/portable white space devices with a location accuracy of ±50 meters. These distances must be increased by the amount that the location uncertainty of a white space device exceeds ±50 meters. Narrowband white space devices shall comply with the separation distances applicable to a fixed white space device operating with 30 dBm conducted power and 36 dBm EIRP across a 6 megahertz channel. 
+The separation distances in this section apply to fixed, mobile, and personal/portable white space devices with a location accuracy of ±50 meters. These distances must be increased by the amount that the location uncertainty of a white space device exceeds ±50 meters. Narrowband white space devices shall comply with the separation distances applicable to a fixed white space device operating with 30 dBm conducted power and 36 dBm EIRP across a 6 megahertz channel.
 
-(a) *Digital television stations, and digital and analog Class A TV, low power TV, TV translator and TV booster stations*—(1) *Protected contour.* White space devices must protect digital and analog TV services within the contours shown in the following table. These contours are calculated using the methodology in § 73.684 of this chapter and the R-6602 curves contained in § 73.699 of this chapter. 
+(a) *Digital television stations, and digital and analog Class A TV, low power TV, TV translator and TV booster stations*—(1) *Protected contour.* White space devices must protect digital and analog TV services within the contours shown in the following table. These contours are calculated using the methodology in § 73.684 of this chapter and the R-6602 curves contained in § 73.699 of this chapter.
 
 | Type of station                                                    | Protected contour |
 | ------------------------------------------------------------------ | ----------------- |
@@ -13,17 +13,17 @@ The separation distances in this section apply to fixed, mobile, and personal/po
 |                                                                    | High VHF (7-13)   |
 |                                                                    | UHF (14-51)       |
 
-(2) *Required separation distance.* White space devices must be located outside the contours indicated in paragraph (a)(1) of this section of co-channel and adjacent channel stations by at least the minimum distances specified in the tables in paragraph (a)(2)(v) of this section. 
+(2) *Required separation distance.* White space devices must be located outside the contours indicated in paragraph (a)(1) of this section of co-channel and adjacent channel stations by at least the minimum distances specified in the tables in paragraph (a)(2)(v) of this section.
 
-(i) If a device operates between two defined power levels, it must comply with the separation distances for the higher power level. 
+(i) If a device operates between two defined power levels, it must comply with the separation distances for the higher power level.
 
-(ii) White space devices operating at 40 mW EIRP or less are not required to meet the adjacent channel separation distances. 
+(ii) White space devices operating at 40 mW EIRP or less are not required to meet the adjacent channel separation distances.
 
-(iii) Fixed white space devices operating at 100 mW EIRP or less per 6 megahertz across multiple contiguous TV channels with at least 3-megahertz separation between the frequency band occupied by the white space device and adjacent TV channels are not required to meet the adjacent channel separation distances. 
+(iii) Fixed white space devices operating at 100 mW EIRP or less per 6 megahertz across multiple contiguous TV channels with at least 3-megahertz separation between the frequency band occupied by the white space device and adjacent TV channels are not required to meet the adjacent channel separation distances.
 
-(iv) Fixed white space devices may only operate above 4 W EIRP in less congested areas as defined in § 15.703. 
+(iv) Fixed white space devices may only operate above 4 W EIRP in less congested areas as defined in § 15.703.
 
-(v) The following are the tables of minimum required separation distances outside the contours of co-channel and adjacent channel stations that white space devices must meet. 
+(v) The following are the tables of minimum required separation distances outside the contours of co-channel and adjacent channel stations that white space devices must meet.
 
 Table 2 to Paragraph (a)(2)(v)
 | Mode II personal/portable white space devices |
@@ -77,33 +77,33 @@ Table 5 to Paragraph (a)(2)(v)
 | 500-550                                                                                                                                                                                                                       |
 | 1 When communicating with a Mode I personal/portable white space device that operates at power levels above 40 mW EIRP, the required separation distances must be increased beyond the specified distances by 0.1 kilometers. |
 
-(3) *Fixed white space device antenna height.* Fixed white space devices must comply with the requirements of § 15.709(g). 
+(3) *Fixed white space device antenna height.* Fixed white space devices must comply with the requirements of § 15.709(g).
 
-(b) *TV translator, Low Power TV (including Class A) and Multi-channel Video Programming Distributor (MVPD) receive sites.* (1) MVPD, TV translator station and low power TV (including Class A) station receive sites located outside the protected contour of the TV station(s) being received may be registered in the white space database if they are no farther than 80 km outside the nearest edge of the relevant contour(s). Only channels received over the air and used by the MVPD, TV translator station or low power/Class A TV station may be registered. 
+(b) *TV translator, Low Power TV (including Class A) and Multi-channel Video Programming Distributor (MVPD) receive sites.* (1) MVPD, TV translator station and low power TV (including Class A) station receive sites located outside the protected contour of the TV station(s) being received may be registered in the white space database if they are no farther than 80 km outside the nearest edge of the relevant contour(s). Only channels received over the air and used by the MVPD, TV translator station or low power/Class A TV station may be registered.
 
-(2) White space devices may not operate within an arc of ±30 degrees from a line between a registered receive site and the contour of the TV station being received in the direction of the station's transmitter at a distance of up to 80 km from the edge of the protected contour of the received TV station for co-channel operation and up to 20 km from the registered receive site for adjacent channel operation, except that the protection distance shall not exceed the distance from the receive site to the protected contour. 
+(2) White space devices may not operate within an arc of ±30 degrees from a line between a registered receive site and the contour of the TV station being received in the direction of the station's transmitter at a distance of up to 80 km from the edge of the protected contour of the received TV station for co-channel operation and up to 20 km from the registered receive site for adjacent channel operation, except that the protection distance shall not exceed the distance from the receive site to the protected contour.
 
-(3) Outside of the ±30 degree arc defined in paragraph (b)(2) of this section: 
+(3) Outside of the ±30 degree arc defined in paragraph (b)(2) of this section:
 
-(i) White space devices operating at 4 watts EIRP or less may not operate within 8 km from the receive site for co-channel operation and 2 km from the receive site for adjacent channel operation. 
+(i) White space devices operating at 4 watts EIRP or less may not operate within 8 km from the receive site for co-channel operation and 2 km from the receive site for adjacent channel operation.
 
-(ii) White space devices operating with more than 4 watts EIRP and up to 10 watts EIRP may not operate within 10.2 kilometers from the receive site for co-channel operation and 2.5 kilometers from the receive site for adjacent channel operation. 
+(ii) White space devices operating with more than 4 watts EIRP and up to 10 watts EIRP may not operate within 10.2 kilometers from the receive site for co-channel operation and 2.5 kilometers from the receive site for adjacent channel operation.
 
-(iii) White space devices operating with more than 10 watts EIRP may not operate within 16.6 kilometers from the receive site for co-channel operation and 3.5 kilometers from the receive site for adjacent channel operation. 
+(iii) White space devices operating with more than 10 watts EIRP may not operate within 16.6 kilometers from the receive site for co-channel operation and 3.5 kilometers from the receive site for adjacent channel operation.
 
-(iv) For purposes of this section, a TV station being received may include a full power TV station, TV translator station or low power TV/Class A TV station. 
+(iv) For purposes of this section, a TV station being received may include a full power TV station, TV translator station or low power TV/Class A TV station.
 
-(c) *Fixed Broadcast Auxiliary Service (BAS) links.* (1) For permanent BAS receive sites appearing in the Commission's Universal Licensing System or temporary BAS receive sites registered in the white space database, white space devices may not operate within an arc of ±30 degrees from a line between the BAS receive site and its associated permanent transmitter within a distance of 80 km from the receive site for co-channel operation and 20 km for adjacent channel operation. 
+(c) *Fixed Broadcast Auxiliary Service (BAS) links.* (1) For permanent BAS receive sites appearing in the Commission's Universal Licensing System or temporary BAS receive sites registered in the white space database, white space devices may not operate within an arc of ±30 degrees from a line between the BAS receive site and its associated permanent transmitter within a distance of 80 km from the receive site for co-channel operation and 20 km for adjacent channel operation.
 
-(2) Outside of the ±30 degree arc defined in paragraph (c)(1) of this section: 
+(2) Outside of the ±30 degree arc defined in paragraph (c)(1) of this section:
 
-(i) White space devices operating at 4 watts EIRP or less may not operate within 8 km from the receive site for co-channel operation and 2 km from the receive site for adjacent channel operation. 
+(i) White space devices operating at 4 watts EIRP or less may not operate within 8 km from the receive site for co-channel operation and 2 km from the receive site for adjacent channel operation.
 
-(ii) White space devices operating with more than 4 watts EIRP and up to 10 watts EIRP may not operate within 10.2 km from the receive site for co-channel operation and 2.5 km from the receive site for adjacent channel operation. 
+(ii) White space devices operating with more than 4 watts EIRP and up to 10 watts EIRP may not operate within 10.2 km from the receive site for co-channel operation and 2.5 km from the receive site for adjacent channel operation.
 
-(iii) White space devices operating with more than 10 watts EIRP may not operate within 16.6 kilometers from the receive site for co-channel operation and 3.5 kilometers from the receive site for adjacent channel operation. 
+(iii) White space devices operating with more than 10 watts EIRP may not operate within 16.6 kilometers from the receive site for co-channel operation and 3.5 kilometers from the receive site for adjacent channel operation.
 
-(d) *PLMRS/CMRS operations.* (1) White space devices may not operate at distances less than those specified in the table in this paragraph (d)(1) from the coordinates of the metropolitan areas and on the channels listed in § 90.303(a) of this chapter. 
+(d) *PLMRS/CMRS operations.* (1) White space devices may not operate at distances less than those specified in the table in this paragraph (d)(1) from the coordinates of the metropolitan areas and on the channels listed in § 90.303(a) of this chapter.
 
 Table 6 to Paragraph (d)(1)
 | White space device transmitter power          | Required separation in kilometers from the areas specified in § 90.303(a)   of this chapter |
@@ -112,7 +112,7 @@ Table 6 to Paragraph (d)(1)
 | Greater than 4 watts and up to 10 watts EIRP  | 136.0                                                                                       |
 | Greater than 10 watts and up to 16 watts EIRP | 139.2                                                                                       |
 
-(2) White space devices may not operate at distances less than those specified in the table in this paragraph (d)(2) from PLMRS/CMRS operations authorized by waiver outside of the metropolitan areas listed in § 90.303(a) of this chapter. 
+(2) White space devices may not operate at distances less than those specified in the table in this paragraph (d)(2) from PLMRS/CMRS operations authorized by waiver outside of the metropolitan areas listed in § 90.303(a) of this chapter.
 
 Table 7 to Paragraph (d)(2)
 | White space device transmitter power          | Required separation in kilometers from operations authorized by waiver outside of the areas specified in § 90.303(a) of this chapter |
@@ -121,25 +121,25 @@ Table 7 to Paragraph (d)(2)
 | Greater than 4 watts and up to 10 watts EIRP  | 56.0                                                                                                                                 |
 | Greater than 10 watts and up to 16 watts EIRP | 59.2                                                                                                                                 |
 
-(e) *Offshore Radiotelephone Service.* White space devices may not operate on channels used by the Offshore Radio Service within the geographic areas specified in § 74.709(e) of this chapter. 
+(e) *Offshore Radiotelephone Service.* White space devices may not operate on channels used by the Offshore Radio Service within the geographic areas specified in § 74.709(e) of this chapter.
 
-(f) *Low power auxiliary services, including wireless microphones.* White space devices are not permitted to operate within the following distances of the coordinates of registered low power auxiliary station sites on the registered channels during the designated times they are used by low power auxiliary stations. 
+(f) *Low power auxiliary services, including wireless microphones.* White space devices are not permitted to operate within the following distances of the coordinates of registered low power auxiliary station sites on the registered channels during the designated times they are used by low power auxiliary stations.
 
-(1) Fixed white space devices with 10 watts EIRP or less: 1 kilometer. 
+(1) Fixed white space devices with 10 watts EIRP or less: 1 kilometer.
 
-(2) Fixed white space devices with greater than 10 watts EIRP: 1.3 kilometers. 
+(2) Fixed white space devices with greater than 10 watts EIRP: 1.3 kilometers.
 
-(3) Personal/portable white space devices: 400 meters. 
+(3) Personal/portable white space devices: 400 meters.
 
-(g) *Border areas near Canada and Mexico.* Fixed, mobile, and personal/portable white space devices shall comply with the required separation distances in paragraph (a)(2) of this section from the protected contours of TV stations in Canada and Mexico. White space devices are not required to comply with the separation distances in paragraph (a)(2) from portions of the protected contours of Canadian or Mexican TV stations that fall within the United States. 
+(g) *Border areas near Canada and Mexico.* Fixed, mobile, and personal/portable white space devices shall comply with the required separation distances in paragraph (a)(2) of this section from the protected contours of TV stations in Canada and Mexico. White space devices are not required to comply with the separation distances in paragraph (a)(2) from portions of the protected contours of Canadian or Mexican TV stations that fall within the United States.
 
-(h) *Radio astronomy services.* (1) Operation of fixed, mobile, and personal/portable white space devices is prohibited on all channels within 2.4 kilometers at the following locations. 
+(h) *Radio astronomy services.* (1) Operation of fixed, mobile, and personal/portable white space devices is prohibited on all channels within 2.4 kilometers at the following locations.
 
-(i) The Naval Radio Research Observatory in Sugar Grove, West Virginia at 38 30 58 N and 79 16 48 W. 
+(i) The Naval Radio Research Observatory in Sugar Grove, West Virginia at 38 30 58 N and 79 16 48 W.
 
-(ii) The Table Mountain Radio Receiving Zone (TMRZ) at 40 08 02 N and 105 14 40 W. 
+(ii) The Table Mountain Radio Receiving Zone (TMRZ) at 40 08 02 N and 105 14 40 W.
 
-(iii) The following facilities: 
+(iii) The following facilities:
 
 | Observatory                               | Latitude   (deg/min/sec) | Longitude   (deg/min/sec) |
 | ----------------------------------------- | ------------------------ | ------------------------- |
@@ -157,7 +157,7 @@ Table 7 to Paragraph (d)(2)
 | Hancock, NH                               | 42 56 01 N               | 071 59 12 W               |
 | Mauna Kea, HI                             | 19 48 05 N               | 155 27 20 W               |
 
-(2) Operation within the band 608-614 MHz is prohibited within the areas defined by the following coordinates (all coordinates are NAD 83): 
+(2) Operation within the band 608-614 MHz is prohibited within the areas defined by the following coordinates (all coordinates are NAD 83):
 
 (i) Pie Town, NM
 
@@ -319,21 +319,21 @@ Table 7 to Paragraph (d)(2)
 | 19 48 52.92                    | 155 27 39.60                   |
 | 19 48 58.68                    | 155 27 14.40                   |
 
-(3) Operation within the band 608-614 MHz is prohibited within the following areas: 
+(3) Operation within the band 608-614 MHz is prohibited within the following areas:
 
-(i) The National Radio Quiet Zone as defined in § 1.924(a)(1) of this chapter. 
+(i) The National Radio Quiet Zone as defined in § 1.924(a)(1) of this chapter.
 
-(ii) The islands of Puerto Rico, Desecheo, Mona, Vieques or Culebra 
+(ii) The islands of Puerto Rico, Desecheo, Mona, Vieques or Culebra
 
-(i) *600 MHz service band:* Fixed and personal/portable devices operating in the 600 MHz Service Band must comply with the following co-channel and adjacent channel separation distances outside the defined polygonal area encompassing the base stations or other radio facilities deployed by a part 27 600 MHz Service Band licensee that has commenced operations, as defined in § 27.4 of this chapter. 
+(i) *600 MHz service band:* Fixed and personal/portable devices operating in the 600 MHz Service Band must comply with the following co-channel and adjacent channel separation distances outside the defined polygonal area encompassing the base stations or other radio facilities deployed by a part 27 600 MHz Service Band licensee that has commenced operations, as defined in § 27.4 of this chapter.
 
-(1) Fixed white space devices may only operate above 4 W EIRP in less congested areas as defined in § 15.703. 
+(1) Fixed white space devices may only operate above 4 W EIRP in less congested areas as defined in § 15.703.
 
-(2) If a device operates between two defined power levels, it must comply with the separation distances for the higher power level. 
+(2) If a device operates between two defined power levels, it must comply with the separation distances for the higher power level.
 
-(3) For the purpose of this rule, co-channel means any frequency overlap between a channel used by a white space device and a five megahertz spectrum block used by a part 27 600 MHz band licensee, and adjacent channel means a frequency separation of zero to four megahertz between the edge of a channel used by a white space device and the edge of a five megahertz spectrum block used by a part 27 600 MHz band licensee. 
+(3) For the purpose of this rule, co-channel means any frequency overlap between a channel used by a white space device and a five megahertz spectrum block used by a part 27 600 MHz band licensee, and adjacent channel means a frequency separation of zero to four megahertz between the edge of a channel used by a white space device and the edge of a five megahertz spectrum block used by a part 27 600 MHz band licensee.
 
-(4) On frequencies used by wireless uplink services: 
+(4) On frequencies used by wireless uplink services:
 
 Mode II Personal/Portable White Space Devices
 |                                            | 600 MHz band wireless uplink spectrum   Minimum co-channel separation distances in kilometers between white space devices and any point along the edge of a polygon representing the outer edge of base station or other radio facility deployment |
@@ -375,11 +375,11 @@ Fixed White Space Devices
 | 200-250                                                                                                                                                                       | 1.3                                                                                                                                                                                                                                                        |
 | \*When communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 0.1 kilometers. |                                                                                                                                                                                                                                                            |
 
-(5) On frequencies used by wireless downlink services: 35 kilometers for co-channel operation, and 31 kilometers for adjacent channel operation. 
+(5) On frequencies used by wireless downlink services: 35 kilometers for co-channel operation, and 31 kilometers for adjacent channel operation.
 
-(j) *Wireless Medical Telemetry Service.* (1) White space devices operating in the 608-614 MHz band (channel 37) are not permitted to operate within an area defined by the polygon described in § 15.713(j)(11) plus the distances specified in the tables in this paragraph (j)(1): 
+(j) *Wireless Medical Telemetry Service.* (1) White space devices operating in the 608-614 MHz band (channel 37) are not permitted to operate within an area defined by the polygon described in § 15.713(j)(11) plus the distances specified in the tables in this paragraph (j)(1):
 
-(i) Mode II personal/portable white space devices. 
+(i) Mode II personal/portable white space devices.
 
 Table 23 to Paragraph (j)(1)(i)
 |                                            | Required co-channel   separation distances   in kilometers from   edge of polygon |
@@ -387,7 +387,7 @@ Table 23 to Paragraph (j)(1)(i)
 | Communicating with Mode II or Fixed device | 0.38                                                                              |
 | Communicating with Mode I device           | 0.76                                                                              |
 
-(ii) Fixed white space devices, except that when communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 0.38 kilometers. 
+(ii) Fixed white space devices, except that when communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 0.38 kilometers.
 
 Table 24 to Paragraph (j)(1)(ii)
 | Antenna height above average terrain of unlicensed devices   (meters) | Required co-channel   separation distances   in kilometers from   edge of polygon |
@@ -402,9 +402,9 @@ Table 24 to Paragraph (j)(1)(ii)
 | 150-200                                                               | 3.15                                                                              |
 | 200-250                                                               | 3.50                                                                              |
 
-(2) White space devices operating in the 602-608 MHz band (channel 36) and 614-620 MHz band (channel 38) are not permitted to operate within an area defined by the polygon described in § 15.713(j)(11) plus the distances specified in the tables in this paragraph (j)(2): 
+(2) White space devices operating in the 602-608 MHz band (channel 36) and 614-620 MHz band (channel 38) are not permitted to operate within an area defined by the polygon described in § 15.713(j)(11) plus the distances specified in the tables in this paragraph (j)(2):
 
-(i) Mode II personal/portable white space devices. 
+(i) Mode II personal/portable white space devices.
 
 Table 25 to Paragraph (j)(2)(i)
 |                                            | Required adjacent channel separation   distances in meters from edge of polygon |
@@ -412,13 +412,13 @@ Table 25 to Paragraph (j)(2)(i)
 | Communicating with Mode II or Fixed device | 8                                                                               |
 | Communicating with Mode I device           | 16                                                                              |
 
-(ii) Fixed white space devices, except that when communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 8 meters if the Mode I device operates at power levels no more than 40 mW EIRP, or 13 meters if the Mode I device operates at power levels above 40 mW EIRP. 
+(ii) Fixed white space devices, except that when communicating with Mode I personal/portable white space devices, the required separation distances must be increased beyond the specified distances by 8 meters if the Mode I device operates at power levels no more than 40 mW EIRP, or 13 meters if the Mode I device operates at power levels above 40 mW EIRP.
 
 Table 26 to Paragraph (j)(2)(ii)
 | Required adjacent channel separation distances   in meters from edge of polygon |
 | ------------------------------------------------------------------------------- |
 | 8                                                                               |
 
-(k) *488-494 MHz band in Hawaii.* White space devices are not permitted to operate in the 488-494 MHz band in Hawaii. 
+(k) *488-494 MHz band in Hawaii.* White space devices are not permitted to operate in the 488-494 MHz band in Hawaii.
 
 \[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 84 FR 34798, July 19, 2019; 86 FR 2293, Jan. 12, 2021; 86 FR 8558, Feb. 8, 2021\]

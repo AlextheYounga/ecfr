@@ -1,8 +1,8 @@
 ##### § 139.203 Contents of Airport Certification Manual.
 
-(a) Except as otherwise authorized by the Administrator, each certificate holder must include in the Airport Certification Manual a description of operating procedures, facilities and equipment, responsibility assignments, and any other information needed by personnel concerned with operating the airport in order to comply with applicable provisions of subpart D of this part and paragraph (b) of this section.
+(a) Except as otherwise authorized by the Administrator, each certificate holder must include in the Airport Certification Manual a description of operating procedures, facilities and equipment, responsibility assignments, and any other information needed by personnel concerned with operating the airport in order to comply with applicable provisions of subpart D of this part and paragraph (b) of this section. 
 
-(b) Except as otherwise authorized by the Administrator, the certificate holder must include in the Airport Certification Manual the following elements, as appropriate for its class:
+(b) Except as otherwise authorized by the Administrator, the certificate holder must include in the Airport Certification Manual the following elements, as appropriate for its class: 
 
 Required Airport Certification Manual Elements
 | Manual elements                                                                                                                                                                                                                                                                      | Airport certificate class |

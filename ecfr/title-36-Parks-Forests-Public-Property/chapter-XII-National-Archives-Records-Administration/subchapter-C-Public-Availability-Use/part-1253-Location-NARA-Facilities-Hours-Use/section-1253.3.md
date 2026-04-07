@@ -1,8 +1,8 @@
 ##### § 1253.3 Presidential libraries and museums.
 
-(a) The Presidential library museums are open every day except Thanksgiving, December 25, and January 1.
+(a) The Presidential library museums are open every day except Thanksgiving, December 25, and January 1. 
 
-(b) Presidential library research hours vary by library, and research rooms are not open on weekends or Federal holidays. The Barack Obama Presidential Library is not open to the public at this time.
+(b) Presidential library research hours vary by library, and research rooms are not open on weekends or Federal holidays. The Barack Obama Presidential Library is not open to the public at this time. 
 
 (c) Contact information for each library and museum is online at *https://www.archives.gov/locations#presidential-libraries and listed as follows:*
 
@@ -20,9 +20,9 @@
 
 (7) *Richard Nixon Library and Museum.* Location: 18001 Yorba Linda Boulevard; Yorba Linda, CA 92886-3903. Phone number: 714.983.9120. Email address: *nixon@nara.gov.* Website: *https://www.nixonlibrary.gov/index.php.*
 
-(8) *Gerald R. Ford Library and Museum.* (i) Library: Location: 1000 Beal Avenue; Ann Arbor, MI 48109-2114. Email address: *ford.library@nara.gov.* Phone number: 734.205.0555.
+(8) *Gerald R. Ford Library and Museum.* (i) Library: Location: 1000 Beal Avenue; Ann Arbor, MI 48109-2114. Email address: *ford.library@nara.gov.* Phone number: 734.205.0555. 
 
-(ii) Museum: Location: 303 Pearl Street NW; Grand Rapids, MI 49504-5353. Email address: *ford.museum@nara.gov.* Phone number: 616.254.0400.
+(ii) Museum: Location: 303 Pearl Street NW; Grand Rapids, MI 49504-5353. Email address: *ford.museum@nara.gov.* Phone number: 616.254.0400. 
 
 (iii) Website for both library and museum: *https://www.fordlibrarymuseum.gov.*
 

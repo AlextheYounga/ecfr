@@ -1,6 +1,6 @@
 ##### § 294.49 List of designated Colorado Roadless Areas.
 
-All National Forest System lands within the State of Colorado listed in this section are hereby designated as Colorado Roadless Areas. An “X” in the third column indicates that some or all of that CRA contains upper tier acres.
+All National Forest System lands within the State of Colorado listed in this section are hereby designated as Colorado Roadless Areas. An “X” in the third column indicates that some or all of that CRA contains upper tier acres. 
 
 | Line No.                                              | Colorado roadless area name                                       | Includes upper tier acres |
 | ----------------------------------------------------- | ----------------------------------------------------------------- | ------------------------- |

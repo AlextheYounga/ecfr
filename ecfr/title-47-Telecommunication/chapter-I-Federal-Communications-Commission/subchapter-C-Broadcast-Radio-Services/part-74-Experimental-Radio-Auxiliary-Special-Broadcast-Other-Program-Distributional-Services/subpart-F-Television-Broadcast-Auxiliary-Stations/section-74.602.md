@@ -1,6 +1,6 @@
 ##### § 74.602 Frequency assignment.
 
-(a) The following frequencies are available for assignment to television pickup, television STL, television relay and television translator relay stations. The band segments 17,700-18,580 and 19,260-19,700 MHz are available for broadcast auxiliary stations as described in paragraph (g) of this section. The band segment 6425-6525 MHz is available for broadcast auxiliary stations as described in paragraph (i) of this section. The bands 6875-7125 MHz and 12700-13200 MHz are co-equally shared with stations licensed pursuant to Parts 78 and 101 of the Commission's Rules. Broadcast network-entities may also use the 1990-2110, 6425-6525 and 6875-7125 MHz bands for mobile television pickup only. 
+(a) The following frequencies are available for assignment to television pickup, television STL, television relay and television translator relay stations. The band segments 17,700-18,580 and 19,260-19,700 MHz are available for broadcast auxiliary stations as described in paragraph (g) of this section. The band segment 6425-6525 MHz is available for broadcast auxiliary stations as described in paragraph (i) of this section. The bands 6875-7125 MHz and 12700-13200 MHz are co-equally shared with stations licensed pursuant to Parts 78 and 101 of the Commission's Rules. Broadcast network-entities may also use the 1990-2110, 6425-6525 and 6875-7125 MHz bands for mobile television pickup only.
 
 | Band A MHz                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Band B MHz | Band D 1 GHz |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ |
@@ -29,41 +29,41 @@
 | 1 For fixed stations using Band D Channels, applicants are encouraged to use alternate A and B channels such that adjacent R.F. carriers are spaced 12.5 MHz. As example, a fixed station, relaying several channels, would use A01, B01, A02, B02, A03, etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |            |              |
 | 2 The band 13.15-13.20 GHz is reserved for television pickup and CARS pickup stations inside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter. Outside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter, television pickup stations, CARS stations and NGSO FSS gateway earth stations shall operate on a primary co-equal basis. The band 13.20-13.2125 GHz is reserved for television pickup stations on a primary basis and CARS pickup stations on a secondary basis inside a 50 km radius of the 100 television markets delineated in § 76.51 of this chapter. Outside a 50 km radius of the 100 markets delineated in § 76.51 of this chapter, television pickup stations and NGSO FSS gateway earth stations shall operate on a co-primary basis, CARS stations shall operate on a secondary basis. Fixed television auxiliary stations licensed pursuant to applications accepted for filing before September 1, 1979, may continue operation on channels in the 13.15-13.25 GHz band, subject to periodic license renewals. NGSO FSS gateway uplink transmissions in the 13.15-13.2125 GHz segment shall be limited to a maximum EIRP of 3.2 dBW towards 0 degrees on the radio horizon. These provisions shall not apply to GSO FSS operations in the 12.75-13.25 GHz band. |            |              |
 
-(1) Frequencies shown above between 2450 and 2500 MHz in Band A are allocated to accommodate the incidental radiations of industrial, scientific, and medical (ISM) equipment, and stations operating therein must accept any interference that may be caused by the operation of such equipment. Frequencies between 2450 and 2500 MHz are also shared with other communication services and exclusive channel assignments will not be made, nor is the channeling shown above necessarily that which will be employed by such other services. 
+(1) Frequencies shown above between 2450 and 2500 MHz in Band A are allocated to accommodate the incidental radiations of industrial, scientific, and medical (ISM) equipment, and stations operating therein must accept any interference that may be caused by the operation of such equipment. Frequencies between 2450 and 2500 MHz are also shared with other communication services and exclusive channel assignments will not be made, nor is the channeling shown above necessarily that which will be employed by such other services.
 
-(2) In the band 2483.5-2500 MHz, no applications for new stations or modification to existing stations to increase the number of transmitters will be accepted. Existing licensees as of July 25, 1985, and licensees whose initial applications were filed on or before July 25, 1985, are grandfathered and their operations are on a co-primary basis with the mobile-satellite and radiodetermination-satellite services, and in the segment 2495-2500 MHz, their operations are also on a co-primary basis with part 27 fixed and mobile except aeronautical mobile service operations. 
+(2) In the band 2483.5-2500 MHz, no applications for new stations or modification to existing stations to increase the number of transmitters will be accepted. Existing licensees as of July 25, 1985, and licensees whose initial applications were filed on or before July 25, 1985, are grandfathered and their operations are on a co-primary basis with the mobile-satellite and radiodetermination-satellite services, and in the segment 2495-2500 MHz, their operations are also on a co-primary basis with part 27 fixed and mobile except aeronautical mobile service operations.
 
-(3)(i) After January 7, 2004, stations may adhere to the channel plan specified in paragraph (a) of this section, or the following channel plan in Band A: 
+(3)(i) After January 7, 2004, stations may adhere to the channel plan specified in paragraph (a) of this section, or the following channel plan in Band A:
 
 Channel A1r—2025.5-2037.5 MHz Channel A2r—2037.5-2049.5 MHz Channel A3r—2049.5-2061.5 MHz Channel A4—2061.5-2073.5 MHz Channel A5r—2073.5-2085.5 MHz Channel A6r—2085.5-2097.5 MHz Channel A7r—2097.5-2109.5 MHz
 
-(ii) Stations adhering to the channel plan specified in paragraph (a)(3)(i) of this section may also use the following 40 data return link (DRL) channels to facilitate their operations in the 2025.5-2109.5 MHz band: 
+(ii) Stations adhering to the channel plan specified in paragraph (a)(3)(i) of this section may also use the following 40 data return link (DRL) channels to facilitate their operations in the 2025.5-2109.5 MHz band:
 
 Lower band DRL channels 2025.000-2025.025 MHz 2025.025-2025.050 MHz 2025.050-2025.075 MHz 2025.075-2025.100 MHz 2025.100-2025.125 MHz 2025.125-2025.150 MHz 2025.150-2025.175 MHz 2025.175-2025.200 MHz 2025.200-2025.225 MHz 2025.225-2025.250 MHz 2025.250-2025.275 MHz 2025.275-2025.300 MHz 2025.300-2025.325 MHz 2025.325-2025.350 MHz 2025.350-2025.375 MHz 2025.375-2025.400 MHz 2025.400-2025.425 MHz 2025.425-2025.450 MHz 2025.450-2025.475 MHz 2025.475-2025.500 MHzUpper band DRL channels 2109.500-2109.525 MHz 2109.525-2109.550 MHz 2109.550-2109.575 MHz 2109.575-2109.600 MHz 2109.600-2109.625 MHz 2109.625-2109.650 MHz 2109.650-2109.675 MHz 2109.675-2109.700 MHz 2109.700-2109.725 MHz 2109.725-2109.750 MHz 2109.750-2109.775 MHz 2109.775-2109.800 MHz 2109.800-2109.825 MHz 2109.825-2109.850 MHz 2109.850-2109.875 MHz 2109.875-2109.900 MHz 2109.900-2109.925 MHz 2109.925-2109.950 MHz 2109.950-2109.975 MHz 2109.975-2110.000 MHz
 
-(iii) Broadcast Auxiliary Service, Cable Television Remote Pickup Service, and Local Television Transmission Service licensees will be required to use the Band A channel plan in paragraph (a)(3)(i) of this section after completion of relocation by an Emerging Technologies licensee in accordance with § 74.690 or § 78.40. Licensees declining relocation may continue to use their existing channel plan but must discontinue use of the 1990-2025 MHz band when they indicate to an Emerging Technologies licensee, acting pursuant to § 74.690 or § 78.40 of this chapter, that they decline to be relocated. 
+(iii) Broadcast Auxiliary Service, Cable Television Remote Pickup Service, and Local Television Transmission Service licensees will be required to use the Band A channel plan in paragraph (a)(3)(i) of this section after completion of relocation by an Emerging Technologies licensee in accordance with § 74.690 or § 78.40. Licensees declining relocation may continue to use their existing channel plan but must discontinue use of the 1990-2025 MHz band when they indicate to an Emerging Technologies licensee, acting pursuant to § 74.690 or § 78.40 of this chapter, that they decline to be relocated.
 
-(4) \[Reserved\] 
+(4) \[Reserved\]
 
-(b) Subject to the conditions of paragraph (a) of this section, frequency assignments will normally be made as requested, provided that the frequency selection provisions of § 74.604 have been followed and that the frequency requested will cause no interference to existing users in the area. The Commission reserves the right to assign frequencies other than those requested if, in its opinion, such action is warranted. 
+(b) Subject to the conditions of paragraph (a) of this section, frequency assignments will normally be made as requested, provided that the frequency selection provisions of § 74.604 have been followed and that the frequency requested will cause no interference to existing users in the area. The Commission reserves the right to assign frequencies other than those requested if, in its opinion, such action is warranted.
 
-(c) Fixed link stations will be authorized to operate on one channel only. 
+(c) Fixed link stations will be authorized to operate on one channel only.
 
-(d) Cable Television Relay Service stations may be assigned channels in Band D between 12,700 and 13,200 MHz subject to the condition that no harmful interference is caused to TV STL and TV relay stations authorized at the time of such grants. Similarly, new TV STL and TV relay stations must not cause harmful interference to cable television relay stations authorized at the time of such grants. The use of channels between 12,700 and 13,200 MHz by TV pickup stations is subject to the condition that no harmful interference is caused to Cable Television Relay Service stations, TV STL and TV relay stations, except as provided for in § 74.602(a) Note 2. Band D channels are also shared with certain Private Operational Fixed Stations, see § 74.638. 
+(d) Cable Television Relay Service stations may be assigned channels in Band D between 12,700 and 13,200 MHz subject to the condition that no harmful interference is caused to TV STL and TV relay stations authorized at the time of such grants. Similarly, new TV STL and TV relay stations must not cause harmful interference to cable television relay stations authorized at the time of such grants. The use of channels between 12,700 and 13,200 MHz by TV pickup stations is subject to the condition that no harmful interference is caused to Cable Television Relay Service stations, TV STL and TV relay stations, except as provided for in § 74.602(a) Note 2. Band D channels are also shared with certain Private Operational Fixed Stations, see § 74.638.
 
-(e) Communication common carriers in the Local Television Transmission Service (Part 101) may be assigned frequencies available to television broadcast station licensees and broadcast network entities for the purpose of providing service to television broadcast stations and broadcast network entities, respectively. 
+(e) Communication common carriers in the Local Television Transmission Service (Part 101) may be assigned frequencies available to television broadcast station licensees and broadcast network entities for the purpose of providing service to television broadcast stations and broadcast network entities, respectively.
 
-(f) TV auxiliary stations licensed to low power TV stations and translator relay stations will be assigned on a secondary basis, *i.e.,* subject to the condition that no harmful interference is caused to other TV auxiliary stations assigned to TV broadcast stations, or to cable television relay service stations (CARS) operating between 12,700 and 13,200 MHz. Auxiliary stations licensed to low power TV stations and translator relay stations must accept any interference caused by stations having primary use of TV auxiliary frequencies. 
+(f) TV auxiliary stations licensed to low power TV stations and translator relay stations will be assigned on a secondary basis, *i.e.,* subject to the condition that no harmful interference is caused to other TV auxiliary stations assigned to TV broadcast stations, or to cable television relay service stations (CARS) operating between 12,700 and 13,200 MHz. Auxiliary stations licensed to low power TV stations and translator relay stations must accept any interference caused by stations having primary use of TV auxiliary frequencies.
 
-(g) The following frequencies are available for assignment to television STL, television relay stations and television translator relay stations. Stations operating on frequencies in the sub-bands 18.3-18.58 GHz and 19.26-19.3 GHz that were licensed or had applications pending before the Commission as of September 18, 1998 may continue those operations on a shared co-primary basis with other services under parts 21, 25, 78, and 101 of this chapter. Such stations, however, are subject to relocation by licensees in the fixed-satellite service. Such relocation is subject to the provisions of §§ 101.85 through 101.97 of this chapter. No new applications for new licenses will be accepted in the 19.26-19.3 GHz band after June 8, 2000, and no new applications for new licenses will be accepted in the 18.3-18.58 GHz band after November 19, 2002. The provisions of § 74.604 do not apply to the use of these frequencies. Licensees may use either a two-way link or one or both frequencies of a frequency pair for a one-way link and shall coordinate proposed operations pursuant to procedures required in § 101.103(d) of this chapter. 
+(g) The following frequencies are available for assignment to television STL, television relay stations and television translator relay stations. Stations operating on frequencies in the sub-bands 18.3-18.58 GHz and 19.26-19.3 GHz that were licensed or had applications pending before the Commission as of September 18, 1998 may continue those operations on a shared co-primary basis with other services under parts 21, 25, 78, and 101 of this chapter. Such stations, however, are subject to relocation by licensees in the fixed-satellite service. Such relocation is subject to the provisions of §§ 101.85 through 101.97 of this chapter. No new applications for new licenses will be accepted in the 19.26-19.3 GHz band after June 8, 2000, and no new applications for new licenses will be accepted in the 18.3-18.58 GHz band after November 19, 2002. The provisions of § 74.604 do not apply to the use of these frequencies. Licensees may use either a two-way link or one or both frequencies of a frequency pair for a one-way link and shall coordinate proposed operations pursuant to procedures required in § 101.103(d) of this chapter.
 
-(1) 2 MHz maximum authorized bandwidth channel: 
+(1) 2 MHz maximum authorized bandwidth channel:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
 | 18141.0                  | n/a                      |
 
-(2) 6 MHz maximum authorized bandwidth channels: 
+(2) 6 MHz maximum authorized bandwidth channels:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -106,7 +106,7 @@ Lower band DRL channels 2025.000-2025.025 MHz 2025.025-2025.050 MHz 2025.050-202
 | 18355.0                  | 18571.0                  |
 | 18361.0                  | 18577.0                  |
 
-(3) 10 MHz maximum authorized bandwidth channels: 
+(3) 10 MHz maximum authorized bandwidth channels:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -156,7 +156,7 @@ Lower band DRL channels 2025.000-2025.025 MHz 2025.025-2025.050 MHz 2025.050-202
 | 18125.0                  | 19685.0                  |
 | 18135.0                  | 19695.0                  |
 
-(4) 20 MHz maximum authorized bandwidth channels: 
+(4) 20 MHz maximum authorized bandwidth channels:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -184,7 +184,7 @@ Lower band DRL channels 2025.000-2025.025 MHz 2025.025-2025.050 MHz 2025.050-202
 | 18110.0                  | 19670.0                  |
 | 18130.0                  | 19690.0                  |
 
-(5) 40 MHz maximum authorized bandwidth channels: 
+(5) 40 MHz maximum authorized bandwidth channels:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -201,7 +201,7 @@ Lower band DRL channels 2025.000-2025.025 MHz 2025.025-2025.050 MHz 2025.050-202
 | 18080.0                  | 19640.0                  |
 | 18120.0                  | 19680.0                  |
 
-(6) 80 MHz maximum authorized bandwidth channels: 
+(6) 80 MHz maximum authorized bandwidth channels:
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -212,48 +212,48 @@ Lower band DRL channels 2025.000-2025.025 MHz 2025.025-2025.050 MHz 2025.050-202
 | 17980.0                  | 19540.0                  |
 | 18060.0                  | 19620.0                  |
 
-(h) TV STL, TV relay stations, and TV translator relay stations may be authorized to operate fixed point-to-point service on the UHF TV channels 14-69 on a secondary basis and subject to the provisions of subpart G of this part: 
+(h) TV STL, TV relay stations, and TV translator relay stations may be authorized to operate fixed point-to-point service on the UHF TV channels 14-69 on a secondary basis and subject to the provisions of subpart G of this part:
 
-(1) Applications for authorization in accordance with this paragraph must comply with the following technical limits or be accompanied by an engineering analysis demonstrating why these limits must be exceeded: 
+(1) Applications for authorization in accordance with this paragraph must comply with the following technical limits or be accompanied by an engineering analysis demonstrating why these limits must be exceeded:
 
-(i) Maximum EIRP is limited to 35 dBW; 
+(i) Maximum EIRP is limited to 35 dBW;
 
-(ii) Transmitting antenna beamwidth is limited to 25 degrees (measured at the 3 dB points); and 
+(ii) Transmitting antenna beamwidth is limited to 25 degrees (measured at the 3 dB points); and
 
-(iii) Vertical polarization is used. 
+(iii) Vertical polarization is used.
 
-(2) These stations must not interfere with and must accept interference from current and future full-power UHF-TV stations, LPTV stations, and translator stations. They will also be secondary to land mobile stations in areas where land mobile sharing is currently permitted. 
+(2) These stations must not interfere with and must accept interference from current and future full-power UHF-TV stations, LPTV stations, and translator stations. They will also be secondary to land mobile stations in areas where land mobile sharing is currently permitted.
 
-(3) TV STL and TV relay stations licensed for operation on UHF TV channels 52-69 based on applications filed before April 16, 2003, may continue to operate under the terms of their current authorizations until the end of transition to digital television in their market (DTV Transition), as set forth in §§ 73.622 through 73.625 of this chapter. Applications for TV STL and TV relay stations operating on UHF TV channels 52-69 will not be accepted for filing on or after April 16, 2003. 
+(3) TV STL and TV relay stations licensed for operation on UHF TV channels 52-69 based on applications filed before April 16, 2003, may continue to operate under the terms of their current authorizations until the end of transition to digital television in their market (DTV Transition), as set forth in §§ 73.622 through 73.625 of this chapter. Applications for TV STL and TV relay stations operating on UHF TV channels 52-69 will not be accepted for filing on or after April 16, 2003.
 
-(4) TV translator relay stations licensed for operation on UHF TV channels 52-59 based on applications filed before the end of DTV transition may continue to operate under the terms of their current authorizations indefinitely. TV translator relay stations licensed for operation on UHF TV channels 60-69 based on applications filed before the end of DTV transition may continue to operate under the terms of their current authorizations until the end of DTV Transition. Applications for TV translator relay stations operating on UHF TV channels 52-69 will not be accepted for filing on or after the end of DTV Transition. 
+(4) TV translator relay stations licensed for operation on UHF TV channels 52-59 based on applications filed before the end of DTV transition may continue to operate under the terms of their current authorizations indefinitely. TV translator relay stations licensed for operation on UHF TV channels 60-69 based on applications filed before the end of DTV transition may continue to operate under the terms of their current authorizations until the end of DTV Transition. Applications for TV translator relay stations operating on UHF TV channels 52-69 will not be accepted for filing on or after the end of DTV Transition.
 
-(5)(i) The licensee of a TV STL, TV relay station, or TV translator relay station that operates on frequencies in the 600 MHz band assigned to wireless licensees under part 27 of this chapter must cease operations on those frequencies no later than the end of the post-auction transition period as defined in § 27.4 of this chapter. The licensee of a TV STL, TV relay station, or TV translator relay station may be required to cease operations on a date earlier than the end of the post-auction transition period if it receives a notification pursuant to paragraph (h)(5)(ii) of this section. 
+(5)(i) The licensee of a TV STL, TV relay station, or TV translator relay station that operates on frequencies in the 600 MHz band assigned to wireless licensees under part 27 of this chapter must cease operations on those frequencies no later than the end of the post-auction transition period as defined in § 27.4 of this chapter. The licensee of a TV STL, TV relay station, or TV translator relay station may be required to cease operations on a date earlier than the end of the post-auction transition period if it receives a notification pursuant to paragraph (h)(5)(ii) of this section.
 
-(ii) A wireless licensee assigned to frequencies in the 600 MHz band under part 27 of this chapter must notify the licensee of a TV STL, TV relay station, or TV translator relay station of its intent to commence operations, as defined in § 27.4 of this chapter, and the likelihood of harmful interference from the TV STL, TV relay station, or TV translator relay station to those operations within the wireless licensee's licensed geographic service area. 
+(ii) A wireless licensee assigned to frequencies in the 600 MHz band under part 27 of this chapter must notify the licensee of a TV STL, TV relay station, or TV translator relay station of its intent to commence operations, as defined in § 27.4 of this chapter, and the likelihood of harmful interference from the TV STL, TV relay station, or TV translator relay station to those operations within the wireless licensee's licensed geographic service area.
 
-(A) The wireless licensee must: 
+(A) The wireless licensee must:
 
-(*1*) Notify the licensee of the TV STL, TV relay station, or TV translator relay station in the form of a letter, via certified mail, return receipt requested; and 
+(*1*) Notify the licensee of the TV STL, TV relay station, or TV translator relay station in the form of a letter, via certified mail, return receipt requested; and
 
-(*2*) Send such notification not less than 30 days in advance of the approximate date of commencement of such operations. 
+(*2*) Send such notification not less than 30 days in advance of the approximate date of commencement of such operations.
 
-(B) The licensee of the TV STL, TV relay station, or TV translator relay station must cease the subject operation within 30 days of receiving the notification pursuant to this section. 
+(B) The licensee of the TV STL, TV relay station, or TV translator relay station must cease the subject operation within 30 days of receiving the notification pursuant to this section.
 
-(iii) By the end of the post-auction transition period, all TV STL, TV relay station and TV translator relay station licensees must modify or cancel their authorizations and vacate the 600 MHz band. Applications for TV STL, TV relay and TV translator relay stations in the 600 MHz band will not be accepted for filing on or after the end date for the post-auction transition period. 
+(iii) By the end of the post-auction transition period, all TV STL, TV relay station and TV translator relay station licensees must modify or cancel their authorizations and vacate the 600 MHz band. Applications for TV STL, TV relay and TV translator relay stations in the 600 MHz band will not be accepted for filing on or after the end date for the post-auction transition period.
 
-(6) The licensee of a TV STL, TV relay station, or TV translator relay station that operates on the UHF spectrum that is reserved for guard band channels as a result of the broadcast television incentive auction conducted under section 6403 of the Middle Class Tax Relief and Job Creation Act of 2012 (Pub. L. 112-96) must cease operations on those frequencies no later than the end of the post-auction transition period as defined in § 27.4 of this chapter. The licensee of a TV STL, TV relay station, or TV translator relay station may be required to cease operations on a date earlier than the end of the post-auction transition period if it receives a notification pursuant to paragraph (h)(5)(ii) of this section. 
+(6) The licensee of a TV STL, TV relay station, or TV translator relay station that operates on the UHF spectrum that is reserved for guard band channels as a result of the broadcast television incentive auction conducted under section 6403 of the Middle Class Tax Relief and Job Creation Act of 2012 (Pub. L. 112-96) must cease operations on those frequencies no later than the end of the post-auction transition period as defined in § 27.4 of this chapter. The licensee of a TV STL, TV relay station, or TV translator relay station may be required to cease operations on a date earlier than the end of the post-auction transition period if it receives a notification pursuant to paragraph (h)(5)(ii) of this section.
 
-(i) *6425 to 6525 MHz—Mobile Only.* Paired and un-paired operations permitted. Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with mobile stations licensed pursuant to parts 78 and 101 of this chapter. The following channel plans apply. 
+(i) *6425 to 6525 MHz—Mobile Only.* Paired and un-paired operations permitted. Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with mobile stations licensed pursuant to parts 78 and 101 of this chapter. The following channel plans apply.
 
-(1) 1 MHz maximum authorized bandwidth channels. 
+(1) 1 MHz maximum authorized bandwidth channels.
 
 | Transmit (or receive MHz) | Receive (or transmit) (MHz) |
 | ------------------------- | --------------------------- |
 | 6425.5                    | 6475.5                      |
 | 6450.5                    | 6500.5                      |
 
-(2) 8 MHz maximum authorized bandwidth channels. 
+(2) 8 MHz maximum authorized bandwidth channels.
 
 | Transmit (or receive MHz) | Receive (or transmit) (MHz) |
 | ------------------------- | --------------------------- |
@@ -264,7 +264,7 @@ Lower band DRL channels 2025.000-2025.025 MHz 2025.025-2025.050 MHz 2025.050-202
 | 6463.0                    | 6513.0                      |
 | 6471.0                    | 6521.0                      |
 
-(3) 25 MHz maximum authorized bandwidth channels. 
+(3) 25 MHz maximum authorized bandwidth channels.
 
 | Transmit (or receive MHz) | Receive (or transmit (MHz) |
 | ------------------------- | -------------------------- |

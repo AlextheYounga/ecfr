@@ -1,6 +1,6 @@
 ##### § 1227.12 When must agencies apply the GRS?
 
-(a) Agencies apply the disposition instructions of the GRS, as provided in the following table.
+(a) Agencies apply the disposition instructions of the GRS, as provided in the following table. 
 
 | When NARA issues a new or revised GRS, and . . .                                                                           | Then . . .                                                                                                                                                                                                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,6 +9,6 @@
 | (3) When your agency has an existing schedule and the new or revised GRS permits use of existing agency-specific schedules | Your agency may follow the disposition instructions in either the GRS or the existing agency schedule, but it must follow the same instructions throughout the agency and instruct its staff to do so. If your agency chooses to follow its own schedule, then it must notify NARA within 120 days of the issuance of the new or revised GRS. |
 | (4) Your agency does not create or maintain any of the records addressed by that GRS                                       | No action is required.                                                                                                                                                                                                                                                                                                                        |
 
-(b) Except as provided in the table in paragraph (a), agencies must incorporate in their disposition manual or otherwise disseminate new and revised GRS within 6 months after NARA has issued the GRS Transmittal.
+(b) Except as provided in the table in paragraph (a), agencies must incorporate in their disposition manual or otherwise disseminate new and revised GRS within 6 months after NARA has issued the GRS Transmittal. 
 
 (c) NARA may, at its discretion, apply the provisions of the GRS to records in its legal custody, subject to the provisions of § 1235.34 of this subchapter.

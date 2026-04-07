@@ -1,6 +1,6 @@
 ##### § 1191.1 Accessibility guidelines.
 
-(a) The accessibility guidelines for buildings and facilities covered by the Americans with Disabilities Act are set forth in Appendices B and D to this part. The guidelines serve as the basis for accessibility standards adopted by the Department of Justice and the Department of Transportation under the Americans with Disabilities Act.
+(a) The accessibility guidelines for buildings and facilities covered by the Americans with Disabilities Act are set forth in Appendices B and D to this part. The guidelines serve as the basis for accessibility standards adopted by the Department of Justice and the Department of Transportation under the Americans with Disabilities Act. 
 
 Note 1 to paragraph (a):
 
@@ -14,7 +14,7 @@ Note 3 to paragraph (a):
 
 1\. The Department of Transportation has adopted by reference Appendices B and D to this part with modifications as the regulatory standards for the construction and alteration of transportation facilities subject to its regulations under the Americans with Disabilities Act, effective November 29, 2006. 49 CFR 37.9 and Appendix A to 49 CFR part 37, as amended at 71 FR 63263, October 30, 2006; and corrected at 72 FR 11089, March 12, 2007. The Department of Transportation has modified section 206.3 in Appendix B to this part; and sections 406, 810.2.2, and 810.5.3 in Appendix D to this part. The modified sections adopted by the Department of Transportation are reprinted in Appendix F to this part. Entities that are required to comply with the Department of Transportation's regulatory standards, must comply with the modified sections adopted by the Department of Transportation that are reprinted in Appendix F to this part.
 
-(b) The accessibility guidelines for buildings and facilities covered by the Architectural Barriers Act are set forth in Appendices C and D to this part. The guidelines serve as the basis for accessibility standards adopted by the General Services Administration, the Department of Defense, the Department of Housing and Urban Development, and the United States Postal Service under the Architectural Barriers Act.
+(b) The accessibility guidelines for buildings and facilities covered by the Architectural Barriers Act are set forth in Appendices C and D to this part. The guidelines serve as the basis for accessibility standards adopted by the General Services Administration, the Department of Defense, the Department of Housing and Urban Development, and the United States Postal Service under the Architectural Barriers Act. 
 
 Note 1 to paragraph (b):
 

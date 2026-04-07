@@ -1,6 +1,6 @@
 ##### § 95.100 Basis and purpose.
 
-This section contains a concise general statement of the basis and purpose of the rules in this part, pursuant to 5 U.S.C. 553(c). 
+This section contains a concise general statement of the basis and purpose of the rules in this part, pursuant to 5 U.S.C. 553(c).
 
 (a) *Basis.* These rules are issued pursuant to the Communications Act of 1934, as amended, 47 U.S.C. 151 *et. seq.*
 

@@ -1,6 +1,6 @@
 ##### § 73.201 Numerical designation of FM broadcast channels.
 
-The FM broadcast band consists of that portion of the radio frequency spectrum between 88 MHz and 108 MHz. It is divided into 100 channels of 200 kHz each. For convenience, the frequencies available for FM broadcasting (including those assigned to noncommercial educational broadcasting) are given numerical designations which are shown in the table below: 
+The FM broadcast band consists of that portion of the radio frequency spectrum between 88 MHz and 108 MHz. It is divided into 100 channels of 200 kHz each. For convenience, the frequencies available for FM broadcasting (including those assigned to noncommercial educational broadcasting) are given numerical designations which are shown in the table below:
 
 | Frequency (Mc/s)                                                                                                                                                                                 | Channel No. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |

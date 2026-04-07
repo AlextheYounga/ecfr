@@ -1,26 +1,26 @@
 ##### § 63.09 Definitions applicable to international Section 214 authorizations.
 
-The following definitions shall apply to §§ 63.09-63.24 of this part, unless the context indicates otherwise: 
+The following definitions shall apply to §§ 63.09-63.24 of this part, unless the context indicates otherwise:
 
-(a) *Facilities-based carrier* means a carrier that holds an ownership, indefeasible-right-of-user, or leasehold interest in bare capacity in the U.S. end of an international facility, regardless of whether the underlying facility is a common carrier or non-common carrier submarine cable or a satellite system. 
+(a) *Facilities-based carrier* means a carrier that holds an ownership, indefeasible-right-of-user, or leasehold interest in bare capacity in the U.S. end of an international facility, regardless of whether the underlying facility is a common carrier or non-common carrier submarine cable or a satellite system.
 
-(b) *Control* includes actual working control in whatever manner exercised and is not limited to majority stock ownership. *Control* also includes direct or indirect control, such as through intervening subsidiaries. 
+(b) *Control* includes actual working control in whatever manner exercised and is not limited to majority stock ownership. *Control* also includes direct or indirect control, such as through intervening subsidiaries.
 
-(c) *Special concession* is defined as in § 63.14(b) of this part. 
+(c) *Special concession* is defined as in § 63.14(b) of this part.
 
-(d) *Foreign carrier* is defined as any entity that is authorized within a foreign country to engage in the provision of international telecommunications services offered to the public in that country within the meaning of the International Telecommunication Regulations, see Final Acts of the World Administrative Telegraph and Telephone Conference, Melbourne, 1988 (WATTC-88), Art. 1, which includes entities authorized to engage in the provision of domestic telecommunications services if such carriers have the ability to originate or terminate telecommunications services to or from points outside their country. 
+(d) *Foreign carrier* is defined as any entity that is authorized within a foreign country to engage in the provision of international telecommunications services offered to the public in that country within the meaning of the International Telecommunication Regulations, see Final Acts of the World Administrative Telegraph and Telephone Conference, Melbourne, 1988 (WATTC-88), Art. 1, which includes entities authorized to engage in the provision of domestic telecommunications services if such carriers have the ability to originate or terminate telecommunications services to or from points outside their country.
 
-(e) Two entities are *affiliated* with each other if one of them, or an entity that controls one of them, directly or indirectly owns more than 25 percent of the capital stock of, or controls, the other one. 
+(e) Two entities are *affiliated* with each other if one of them, or an entity that controls one of them, directly or indirectly owns more than 25 percent of the capital stock of, or controls, the other one.
 
-Also, a U.S. carrier is *affiliated* with two or more foreign carriers if the foreign carriers, or entities that control them, together directly or indirectly own more than 25 percent of the capital stock of, or control, the U.S. carrier and those foreign carriers are parties to, or the beneficiaries of, a contractual relation (e.g., a joint venture or market alliance) affecting the provision or marketing of international basic telecommunications services in the United States. 
+Also, a U.S. carrier is *affiliated* with two or more foreign carriers if the foreign carriers, or entities that control them, together directly or indirectly own more than 25 percent of the capital stock of, or control, the U.S. carrier and those foreign carriers are parties to, or the beneficiaries of, a contractual relation (e.g., a joint venture or market alliance) affecting the provision or marketing of international basic telecommunications services in the United States.
 
-(f) *Market power* means sufficient market power to affect competition adversely in the U.S. market. 
+(f) *Market power* means sufficient market power to affect competition adversely in the U.S. market.
 
-(g) As used in this part, the term: 
+(g) As used in this part, the term:
 
-(1) *Interlocking directorates* shall mean persons or entities who perform the duties of “officer or director” in an authorized U.S. international carrier or an applicant for international Section 214 authorization who also performs such duties for any foreign carrier. 
+(1) *Interlocking directorates* shall mean persons or entities who perform the duties of “officer or director” in an authorized U.S. international carrier or an applicant for international Section 214 authorization who also performs such duties for any foreign carrier.
 
-(2) *Officer or director* shall include the duties, or any of the duties, ordinarily performed by a director, president, vice president, secretary, treasurer, or other officer of a carrier. 
+(2) *Officer or director* shall include the duties, or any of the duties, ordinarily performed by a director, president, vice president, secretary, treasurer, or other officer of a carrier.
 
 Note 1:
 

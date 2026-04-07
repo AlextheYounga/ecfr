@@ -1,6 +1,6 @@
 ##### § 302.3 Who may apply.
 
-(a) *Eligible recipient.* To apply for a CMC grant under this part, an applicant must be an eligible recipient in an anchor community as defined in § 302.2. NTIA will rely on the following sources of information to determine whether an applicant is an eligible recipient: 
+(a) *Eligible recipient.* To apply for a CMC grant under this part, an applicant must be an eligible recipient in an anchor community as defined in § 302.2. NTIA will rely on the following sources of information to determine whether an applicant is an eligible recipient:
 
 Table 1 to Paragraph (a)
 | Type                                                                               | NTIA Validation method                                                                                                                                    |

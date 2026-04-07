@@ -1,6 +1,6 @@
 ##### § 93.123 High density traffic airports.
 
-(a) Each of the following airports is designated as a high density traffic airport and, except as provided in § 93.129 and paragraph (b) of this section, or unless otherwise authorized by ATC, is limited to the hourly number of allocated IFR operations (takeoffs and landings) that may be reserved for the specified classes of users for that airport:
+(a) Each of the following airports is designated as a high density traffic airport and, except as provided in § 93.129 and paragraph (b) of this section, or unless otherwise authorized by ATC, is limited to the hourly number of allocated IFR operations (takeoffs and landings) that may be reserved for the specified classes of users for that airport: 
 
 IFR Operations per Hour
 
@@ -30,26 +30,26 @@ John F. Kennedy
 | (b) Exceed 48 for air carriers, 14 for commuters, and 6 for “other” in any two consecutive 30-minute periods.                                                                                                                                                                                                                                                                                                                                                                                                         |              |           |       |
 | 5 Pursuant to bilateral agreement, 14 slots at LaGuardia and 24 slots at O'Hare are allocated to the Canadian carriers. These slots are excluded from the hourly quotas set forth in § 93.123 above.                                                                                                                                                                                                                                                                                                                  |              |           |       |
 
-(b) The following exceptions apply to the allocations of reservations prescribed in paragraph (a) Of this section.
+(b) The following exceptions apply to the allocations of reservations prescribed in paragraph (a) Of this section. 
 
-(1) The allocations of reservations among the several classes of users do not apply from 12 midnight to 6 a.m. local time, but the total hourly limitation remains applicable.
+(1) The allocations of reservations among the several classes of users do not apply from 12 midnight to 6 a.m. local time, but the total hourly limitation remains applicable. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(3) The allocation of 37 IFR reservations per hour for air carriers except commuters at Washington National Airport does not include charter flights, or other nonscheduled flights of scheduled or supplemental air carriers. These flights may be conducted without regard to the limitation of 37 IFR reservations per hour.
+(3) The allocation of 37 IFR reservations per hour for air carriers except commuters at Washington National Airport does not include charter flights, or other nonscheduled flights of scheduled or supplemental air carriers. These flights may be conducted without regard to the limitation of 37 IFR reservations per hour. 
 
-(4) The allocation of IFR reservations for air carriers except commuters at LaGuardia, Newark, O'Hare, and Washington National Airports does not include extra sections of scheduled flights. The allocation of IFR reservations for scheduled commuters at Washington National Airport does not include extra sections of scheduled flights. These flights may be conducted without regard to the limitation upon the hourly IFR reservations at those airports.
+(4) The allocation of IFR reservations for air carriers except commuters at LaGuardia, Newark, O'Hare, and Washington National Airports does not include extra sections of scheduled flights. The allocation of IFR reservations for scheduled commuters at Washington National Airport does not include extra sections of scheduled flights. These flights may be conducted without regard to the limitation upon the hourly IFR reservations at those airports. 
 
-(5) Any reservation allocated to, but not taken by, air carrier operations (except commuters) is available for a scheduled commuter operation.
+(5) Any reservation allocated to, but not taken by, air carrier operations (except commuters) is available for a scheduled commuter operation. 
 
-(6) Any reservation allocated to, but not taken by, air carrier operations (except commuters) or scheduled commuter operations is available for other operations.
+(6) Any reservation allocated to, but not taken by, air carrier operations (except commuters) or scheduled commuter operations is available for other operations. 
 
-(c) For purposes of this subpart—
+(c) For purposes of this subpart— 
 
-(1) The number of operations allocated to *air carriers except commuters,* as used in paragraph (a) of this section refers to the number of operations conducted by air carriers with turboprop and reciprocating engine aircraft having a certificated maximum passenger seating capacity of 75 or more or with turbojet powered aircraft having a certificated maximum passenger seating capacity of 56 or more, or, if used for cargo service in air transportation, with any aircraft having a maximum payload capacity of 18,000 pounds or more.
+(1) The number of operations allocated to *air carriers except commuters,* as used in paragraph (a) of this section refers to the number of operations conducted by air carriers with turboprop and reciprocating engine aircraft having a certificated maximum passenger seating capacity of 75 or more or with turbojet powered aircraft having a certificated maximum passenger seating capacity of 56 or more, or, if used for cargo service in air transportation, with any aircraft having a maximum payload capacity of 18,000 pounds or more. 
 
-(2) The number of operations allocated to scheduled commuters, as used in paragraph (a) of this section, refers to the number of operations conducted by air carriers with turboprop and reciprocating engine aircraft having a certificated maximum passenger seating capacity of less than 75 or by turbojet aircraft having a certificated maximum passenger seating capacity of less than 56, or if used for cargo service in air transportation, with any aircraft having a maximum payload capacity of less than 18,000 pounds. For purposes of aircraft operations at Ronald Reagan Washington National Airport, the term “commuters” means aircraft operations using aircraft having a certificated maximum seating capacity of 76 or less.
+(2) The number of operations allocated to scheduled commuters, as used in paragraph (a) of this section, refers to the number of operations conducted by air carriers with turboprop and reciprocating engine aircraft having a certificated maximum passenger seating capacity of less than 75 or by turbojet aircraft having a certificated maximum passenger seating capacity of less than 56, or if used for cargo service in air transportation, with any aircraft having a maximum payload capacity of less than 18,000 pounds. For purposes of aircraft operations at Ronald Reagan Washington National Airport, the term “commuters” means aircraft operations using aircraft having a certificated maximum seating capacity of 76 or less. 
 
-(3) Notwithstanding the provisions of paragraph (c)(2) of this section, a limited number of operations allocated for “scheduled commuters” under paragraph (a) of this section may be conducted with aircraft described in § 93.221(e) of this part pursuant to the requirements of § 93.221(e).
+(3) Notwithstanding the provisions of paragraph (c)(2) of this section, a limited number of operations allocated for “scheduled commuters” under paragraph (a) of this section may be conducted with aircraft described in § 93.221(e) of this part pursuant to the requirements of § 93.221(e). 
 
 \[Doc. No. 9113, 34 FR 2603, Feb. 26, 1969, as amended by Amdt. 93-37, 45 FR 62408, Sept. 18, 1980; Amdt. 93-44, 46 FR 58048, Nov. 27, 1981; Amdt. 93-46, 49 FR 8244, Mar. 6, 1984; Amdt. 93-57, 54 FR 34906, Aug. 22, 1989; 54 FR 37303, Sept. 8, 1989; Amdt. 93-59, 54 FR 39843, Sept. 28, 1989; Amdt. 93-62, 56 FR 41207, Aug. 19, 1991; Amdt. 93-78, 64 FR 53564, Oct. 1, 1999; Amdt. 93-84, 70 FR 29063, May 19, 2005\]

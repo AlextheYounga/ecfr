@@ -1,6 +1,6 @@
 ##### § 1262.310 Payment of award.
 
-(a) An applicant seeking payment of an award shall submit to the paying agency a copy of the Agency's final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. The submission to NASA should be addressed as follows:
+(a) An applicant seeking payment of an award shall submit to the paying agency a copy of the Agency's final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. The submission to NASA should be addressed as follows: 
 
 Director, Financial Management Division, NASA Headquarters, Washington, DC 20546.
 

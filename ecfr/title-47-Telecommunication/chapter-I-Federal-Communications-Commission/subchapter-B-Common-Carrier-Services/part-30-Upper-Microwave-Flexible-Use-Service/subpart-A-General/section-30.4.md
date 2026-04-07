@@ -1,16 +1,16 @@
 ##### § 30.4 Frequencies.
 
-The following frequencies are available for assignment in the Upper Microwave Flexible Use Service: 
+The following frequencies are available for assignment in the Upper Microwave Flexible Use Service:
 
-(a) 24.25-24.45 GHz and 24.75-25.25 GHz bands—24.25-24.35 GHz; 24.35-24.45 GHz; 24.75-24.85 GHz; 24.85-24.95 GHz; 24.95-25.05 GHz; 25.05-25.15 GHz; and 25.15-25.25 GHz. 
+(a) 24.25-24.45 GHz and 24.75-25.25 GHz bands—24.25-24.35 GHz; 24.35-24.45 GHz; 24.75-24.85 GHz; 24.85-24.95 GHz; 24.95-25.05 GHz; 25.05-25.15 GHz; and 25.15-25.25 GHz.
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
-(c) 27.5 GHz—28.35 GHz band—27.5-27.925 GHz and 27.925-28.35 GHz. 
+(c) 27.5 GHz—28.35 GHz band—27.5-27.925 GHz and 27.925-28.35 GHz.
 
-(d) 38.6-40 GHz band: 
+(d) 38.6-40 GHz band:
 
-(1) New channel plan: 
+(1) New channel plan:
 
 | Channel No. | Frequency band   limits   (MHz) |
 | ----------- | ------------------------------- |
@@ -29,7 +29,7 @@ The following frequencies are available for assignment in the Upper Microwave Fl
 | 13          | 39,800-39,900                   |
 | 14          | 39,900-40,000                   |
 
-(2) Pending transition to the new channel plan, existing 39 GHz licensees licensed under part 101 of this chapter may continue operating on the following channel plan: 
+(2) Pending transition to the new channel plan, existing 39 GHz licensees licensed under part 101 of this chapter may continue operating on the following channel plan:
 
 | Channel group A | Channel group B |
 | --------------- | --------------- |
@@ -48,10 +48,10 @@ The following frequencies are available for assignment in the Upper Microwave Fl
 | 13-A            | 39,200-39,250   |
 | 14-A            | 39,250-39,300   |
 
-(e) \[Reserved\] 
+(e) \[Reserved\]
 
-(f) 37-38.6 GHz band: 37,600-37,700; 37,700-37,800 MHz; 37,800-37,900 MHz; 37,900-38,000 MHz; 38,000-38,100 MHz; 38,100-38,200 MHz; 38,200-38,300 MHz; 38,300-38,400 MHz; 38,400-38,500 MHz, and 38,500-38,600 MHz. The 37,000-37,600 MHz band segment shall be available on a site-specific, coordinated shared basis with eligible Federal entities. 
+(f) 37-38.6 GHz band: 37,600-37,700; 37,700-37,800 MHz; 37,800-37,900 MHz; 37,900-38,000 MHz; 38,000-38,100 MHz; 38,100-38,200 MHz; 38,200-38,300 MHz; 38,300-38,400 MHz; 38,400-38,500 MHz, and 38,500-38,600 MHz. The 37,000-37,600 MHz band segment shall be available on a site-specific, coordinated shared basis with eligible Federal entities.
 
-(g) 47.2-48.2 GHz band—47.2-47.3 GHz; 47.3-47.4 GHz; 47.4-47.5 GHz; 47.5-47.6 GHz; 47.6-47.7 GHz; 47.7-47.8 GHz; 47.8-47.9 GHz; 47.9-48.0 GHz; 48.0-48.1 GHz; and 48.1-48.2 GHz. 
+(g) 47.2-48.2 GHz band—47.2-47.3 GHz; 47.3-47.4 GHz; 47.4-47.5 GHz; 47.5-47.6 GHz; 47.6-47.7 GHz; 47.7-47.8 GHz; 47.8-47.9 GHz; 47.9-48.0 GHz; 48.0-48.1 GHz; and 48.1-48.2 GHz.
 
 \[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 65, Jan. 2, 2018; 84 FR 1631, Feb. 5, 2019\]

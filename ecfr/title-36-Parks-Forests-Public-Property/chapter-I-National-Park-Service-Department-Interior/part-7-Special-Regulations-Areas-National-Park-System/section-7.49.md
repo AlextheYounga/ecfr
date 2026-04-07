@@ -1,14 +1,14 @@
 ##### § 7.49 Cape Lookout National Seashore.
 
-(a) Personal watercraft (PWC) may be operated within Cape Lookout National Seashore only under the following conditions:
+(a) Personal watercraft (PWC) may be operated within Cape Lookout National Seashore only under the following conditions: 
 
-(1) PWC must be operated at flat-wake speed;
+(1) PWC must be operated at flat-wake speed; 
 
-(2) PWC must travel perpendicular to shore;
+(2) PWC must travel perpendicular to shore; 
 
-(3) PWC may only be operated within the seashore to access the following sound side special use areas:
+(3) PWC may only be operated within the seashore to access the following sound side special use areas: 
 
-(i) North Core Banks:
+(i) North Core Banks: 
 
 | Access             | Location                                                                                                                                                                          |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,14 +17,14 @@
 | (C) Long Point     | Ferry landing at the Long Point Cabin area.                                                                                                                                       |
 | (D) Old Drum Inlet | Sound-side beach near Milepost 19 (as designated by signs), approximately 1/2 mile north of Old Drum inlet (adjacent to the cross-over route) encompassing approximately 50 feet. |
 
-(ii) South Core Banks:
+(ii) South Core Banks: 
 
 | Access                  | Location                                                                                                                                           |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | (A) New Drum Inlet      | Sound-side beach near Milepost 23 (as designated by signs), approximately 1/4 mile long, beginning approximately 1/2 mile south of New Drum Inlet. |
 | (B) Great Island Access | Carly Dock at Great Island Camp, near Milepost 30 (noted as Island South Core Banks-Great Island on map).                                          |
 
-(iii) Cape Lookout:
+(iii) Cape Lookout: 
 
 | Access                    | Location                                                                                                                           |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,6 +38,6 @@
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | (A) West End Access | Sound-side beach from Whale Creek west to Beaufort Inlet, except the area between the Wade Shores toilet facility and the passenger ferry dock. |
 
-(b) The Superintendent may temporarily limit, restrict or terminate access to the areas designated for PWC use after taking into consideration public health and safety, natural and cultural resource protection, and other management activities and objectives.
+(b) The Superintendent may temporarily limit, restrict or terminate access to the areas designated for PWC use after taking into consideration public health and safety, natural and cultural resource protection, and other management activities and objectives. 
 
 \[71 FR 53031, Sept. 8, 2006\]

@@ -1,6 +1,6 @@
 ##### § 22.725 Channels for conventional rural radiotelephone stations and basic exchange telephone radio systems.
 
-The following channels are allocated for paired assignment to transmitters that provide conventional rural radiotelephone service and to transmitters in basic exchange telephone radio systems. These channels may be assigned for use by central office or rural subscriber stations as indicated, and interoffice stations. These channels may be assigned also for use by relay stations in systems where it would be impractical to provide rural radiotelephone service without the use of relay stations. All channels have a bandwidth of 20 kHz and are designated by their center frequencies in MegaHertz. 
+The following channels are allocated for paired assignment to transmitters that provide conventional rural radiotelephone service and to transmitters in basic exchange telephone radio systems. These channels may be assigned for use by central office or rural subscriber stations as indicated, and interoffice stations. These channels may be assigned also for use by relay stations in systems where it would be impractical to provide rural radiotelephone service without the use of relay stations. All channels have a bandwidth of 20 kHz and are designated by their center frequencies in MegaHertz.
 
 | Central   office | Rural subscriber | Central   office | Rural subscriber |
 | ---------------- | ---------------- | ---------------- | ---------------- |
@@ -29,8 +29,8 @@ The following channels are allocated for paired assignment to transmitters that 
 | 454.300          | 459.300          | 454.625          | 459.625          |
 | 454.325          | 459.325          | 454.650          | 459.650          |
 
-(a) The channels listed in this section are also allocated for assignment in the Paging and Radiotelephone Service. 
+(a) The channels listed in this section are also allocated for assignment in the Paging and Radiotelephone Service.
 
-(b) In Puerto Rico and the Virgin Islands, channels in the 154.04-154.46 MHz and 161.40-161.85 MHz frequency ranges may be assigned to transmitters providing rural radiotelephone service; channels in these ranges are also allocated for assignment in the International Fixed Public and Aeronautical Fixed radio services. 
+(b) In Puerto Rico and the Virgin Islands, channels in the 154.04-154.46 MHz and 161.40-161.85 MHz frequency ranges may be assigned to transmitters providing rural radiotelephone service; channels in these ranges are also allocated for assignment in the International Fixed Public and Aeronautical Fixed radio services.
 
 \[59 FR 59507, Nov. 17, 1994; 60 FR 9891, Feb. 22, 1995, as amended at 70 FR 19309, Apr. 13, 2005\]

@@ -1,34 +1,34 @@
 ##### § 80.207 Classes of emission.
 
-(a) Authorization to use radiotelephone and radiotelegraph emissions by ship and coast stations includes the use of digital selective calling and selective calling techniques in accordance with § 80.225. 
+(a) Authorization to use radiotelephone and radiotelegraph emissions by ship and coast stations includes the use of digital selective calling and selective calling techniques in accordance with § 80.225.
 
-(b) In radiotelegraphy communications employing a modulated carrier the carrier must be keyed and modulated by an audio frequency. 
+(b) In radiotelegraphy communications employing a modulated carrier the carrier must be keyed and modulated by an audio frequency.
 
-(c) Authorization to use single sideband emission is limited to emitting a carrier; 
+(c) Authorization to use single sideband emission is limited to emitting a carrier;
 
-(1) For full carrier transmitters at a power level between 3 and 6 dB below peak envelope power; 
+(1) For full carrier transmitters at a power level between 3 and 6 dB below peak envelope power;
 
-(2) For suppressed carrier transmitters at a power level at least 40 dB below peak envelope power; and 
+(2) For suppressed carrier transmitters at a power level at least 40 dB below peak envelope power; and
 
-(3) For reduced or variable level carrier: 
+(3) For reduced or variable level carrier:
 
-(i) In the 1600-4000 kHz band: 
+(i) In the 1600-4000 kHz band:
 
-(A) For coast station transmitters 18±2 dB below peak envelope power; 
+(A) For coast station transmitters 18±2 dB below peak envelope power;
 
-(B) For ship station transmitters installed before January 2, 1982, 16±2 dB below peak envelope power; and 
+(B) For ship station transmitters installed before January 2, 1982, 16±2 dB below peak envelope power; and
 
-(C) For ship station transmitters installed after January 1, 1982, 18±2 dB below peak envelope power. 
+(C) For ship station transmitters installed after January 1, 1982, 18±2 dB below peak envelope power.
 
-(ii) In the 4000-27500 kHz band: 
+(ii) In the 4000-27500 kHz band:
 
-(A) For coast station transmitters 18±2 dB below peak envelope power; 
+(A) For coast station transmitters 18±2 dB below peak envelope power;
 
-(B) For ship station transmitters installed before January 2, 1978, 16±2 dB below peak envelope power; and 
+(B) For ship station transmitters installed before January 2, 1978, 16±2 dB below peak envelope power; and
 
-(C) For ship station transmitters installed after January 1, 1978, 18±2 dB below peak envelope power. 
+(C) For ship station transmitters installed after January 1, 1978, 18±2 dB below peak envelope power.
 
-(d) The authorized classes of emission are as follows: 
+(d) The authorized classes of emission are as follows:
 
 | Types of stations                                                                                                                                                                                                                                                                                                                                                                                                                     | Classes of emission           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |

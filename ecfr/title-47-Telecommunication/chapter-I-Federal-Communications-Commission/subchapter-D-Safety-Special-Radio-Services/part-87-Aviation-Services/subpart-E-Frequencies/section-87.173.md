@@ -1,12 +1,12 @@
 ##### § 87.173 Frequencies.
 
-(a) The table in paragraph (b) of this section lists assignable carrier frequencies or frequency bands. 
+(a) The table in paragraph (b) of this section lists assignable carrier frequencies or frequency bands.
 
-(1) The single letter symbol appearing in the “Subpart” column indicates the subpart of this part which contains additional applicable regulations. 
+(1) The single letter symbol appearing in the “Subpart” column indicates the subpart of this part which contains additional applicable regulations.
 
-(2) The two or three letter symbol appearing in the “Class of Station” column indicates the class of station to which the frequency is assignable. 
+(2) The two or three letter symbol appearing in the “Class of Station” column indicates the class of station to which the frequency is assignable.
 
-(b) Frequency table: 
+(b) Frequency table:
 
 | Frequency or frequency band | Subpart                | Class of station                 | Remarks                                                                                                                           |
 | --------------------------- | ---------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |

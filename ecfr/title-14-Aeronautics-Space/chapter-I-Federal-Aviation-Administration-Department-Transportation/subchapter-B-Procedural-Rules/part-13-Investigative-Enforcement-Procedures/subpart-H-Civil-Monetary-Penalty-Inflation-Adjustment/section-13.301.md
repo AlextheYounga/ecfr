@@ -1,10 +1,10 @@
 ##### § 13.301 Inflation adjustments of civil monetary penalties.
 
-(a) This subpart provides the maximum civil monetary penalties or range of minimum and maximum civil monetary penalties for each statutory civil penalty subject to FAA jurisdiction, as adjusted for inflation.
+(a) This subpart provides the maximum civil monetary penalties or range of minimum and maximum civil monetary penalties for each statutory civil penalty subject to FAA jurisdiction, as adjusted for inflation. 
 
-(b) Each adjustment to a maximum civil monetary penalty or to minimum and maximum civil monetary penalties that establish a civil monetary penalty range applies to actions initiated under this part for violations occurring on or after December 30, 2024, notwithstanding references to specific civil penalty amounts elsewhere in this part.
+(b) Each adjustment to a maximum civil monetary penalty or to minimum and maximum civil monetary penalties that establish a civil monetary penalty range applies to actions initiated under this part for violations occurring on or after December 30, 2024, notwithstanding references to specific civil penalty amounts elsewhere in this part. 
 
-(c) Minimum and maximum civil monetary penalties are as follows:
+(c) Minimum and maximum civil monetary penalties are as follows: 
 
 Table 1 to § 13.301(c)—Minimum and Maximum Civil Monetary Penalty Amounts for Certain Violations
 | United States Code   citation | Civil monetary penalty description                                                                                                                                                                                  | 2024   minimum   penalty   amount | New adjusted   minimum   penalty   amount   for violations   occurring on   or after   December 30,   2024 | 2024   maximum penalty   amount                                                                                                   | New adjusted maximum   penalty amount for   violations occurring on or   after December 30, 2024 |

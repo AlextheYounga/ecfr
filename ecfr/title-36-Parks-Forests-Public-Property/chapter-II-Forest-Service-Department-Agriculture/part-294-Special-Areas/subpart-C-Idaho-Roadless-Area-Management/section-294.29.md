@@ -1,6 +1,6 @@
 ##### § 294.29 List of designated Idaho Roadless Areas.
 
-The acronyms used in the list are Wild Land Recreation (WLR), Backcountry/Restoration (BCR), General Forest, Rangeland, and Grassland (GFRG), Special Areas of Historic or Tribal Significance (SAHTS) and Forest Plan Special Areas (FPSA).
+The acronyms used in the list are Wild Land Recreation (WLR), Backcountry/Restoration (BCR), General Forest, Rangeland, and Grassland (GFRG), Special Areas of Historic or Tribal Significance (SAHTS) and Forest Plan Special Areas (FPSA). 
 
 | Forest          | Idaho roadless area                | #   | WLR | Primitive | BCR | GFRG | SAHTS | FPSA |
 | --------------- | ---------------------------------- | --- | --- | --------- | --- | ---- | ----- | ---- |

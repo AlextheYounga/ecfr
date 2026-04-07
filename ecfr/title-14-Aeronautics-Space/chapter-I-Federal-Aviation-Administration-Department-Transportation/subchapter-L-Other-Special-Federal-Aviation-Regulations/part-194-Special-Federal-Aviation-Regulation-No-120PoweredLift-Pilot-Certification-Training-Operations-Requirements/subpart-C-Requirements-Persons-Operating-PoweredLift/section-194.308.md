@@ -1,12 +1,12 @@
 ##### § 194.308 Applicability of national air tour safety standards under part 136 of this chapter to powered-lift.
 
-(a) Persons operating powered-lift in commercial air tours must continue to comply with rules applicable to all aircraft in part 136 of this chapter, as applicable to the operation.
+(a) Persons operating powered-lift in commercial air tours must continue to comply with rules applicable to all aircraft in part 136 of this chapter, as applicable to the operation. 
 
-(b) Suitable landing area, as defined in § 136.1 of this chapter, applies to powered-lift conducting commercial air tours.
+(b) Suitable landing area, as defined in § 136.1 of this chapter, applies to powered-lift conducting commercial air tours. 
 
-(c) Critical change of thrust for purposes of this section means a failure that would most adversely affect the performance or handling qualities of an aircraft.
+(c) Critical change of thrust for purposes of this section means a failure that would most adversely affect the performance or handling qualities of an aircraft. 
 
-(d) No person may operate a powered-lift in a commercial air tour unless that person complies with the regulations listed in the first column of table 1 to this section, notwithstanding their applicability to airplanes or rotorcraft, subject to the applicability provisions in the second column, and any additional requirements or clarification specified in the third column:
+(d) No person may operate a powered-lift in a commercial air tour unless that person complies with the regulations listed in the first column of table 1 to this section, notwithstanding their applicability to airplanes or rotorcraft, subject to the applicability provisions in the second column, and any additional requirements or clarification specified in the third column: 
 
 Table 1 to § 194.308
 | Regulation                                                 | Applicability                                                                                            | Additional Requirements or Clarification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

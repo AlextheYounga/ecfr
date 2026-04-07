@@ -1,8 +1,8 @@
 ##### § 36.112 Apportionment procedure.
 
-(a) The costs of the general support facilities of local exchange carriers that had annual revenues from regulated telecommunications operations equal to or greater than $157 million for calendar year 2016 are apportioned among the operations on the basis of either the method in paragraph (a)(1) of this section or the method in paragraph (a)(2) of this section, at the election of the local exchange carrier: 
+(a) The costs of the general support facilities of local exchange carriers that had annual revenues from regulated telecommunications operations equal to or greater than $157 million for calendar year 2016 are apportioned among the operations on the basis of either the method in paragraph (a)(1) of this section or the method in paragraph (a)(2) of this section, at the election of the local exchange carrier:
 
-(1) The separation of the costs of the combined Big Three Expenses which include the following accounts: 
+(1) The separation of the costs of the combined Big Three Expenses which include the following accounts:
 
 Table 1 to Paragraph (a)(1)
 | **Plant Specific Expenses**                  |               |
@@ -17,8 +17,8 @@ Table 1 to Paragraph (a)(1)
 | Marketing                                    | Account 6610. |
 | Services                                     | Account 6620. |
 
-(2) The separation of the costs of Central Office Equipment, Information Origination/Termination Equipment, and Cable and Wire Facilities, combined. 
+(2) The separation of the costs of Central Office Equipment, Information Origination/Termination Equipment, and Cable and Wire Facilities, combined.
 
-(b) The costs of the general support facilities of local exchange carriers that had annual revenues from regulated telecommunications operations less than $157 million for calendar year 2016 are apportioned among the operations on the basis of the separation of the costs of Central Office Equipment, Information Origination/Termination Equipment, and Cable and Wire Facilities, combined. 
+(b) The costs of the general support facilities of local exchange carriers that had annual revenues from regulated telecommunications operations less than $157 million for calendar year 2016 are apportioned among the operations on the basis of the separation of the costs of Central Office Equipment, Information Origination/Termination Equipment, and Cable and Wire Facilities, combined.
 
 \[83 FR 63584, Dec. 11, 2018\]
