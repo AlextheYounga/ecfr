@@ -2,9 +2,7 @@
 
 (a) *Supervisory non-objection required.* Before commencing a retail forex business, a national bank must provide the OCC with prior notice and obtain from the OCC a written supervisory non-objection.
 
-(b) *Requirements for obtaining supervisory non-objection.*
-
-(1) In order to obtain a written supervisory non-objection, a national bank must:
+(b) *Requirements for obtaining supervisory non-objection.* (1) In order to obtain a written supervisory non-objection, a national bank must:
 
 (i) Establish to the satisfaction of the OCC that the national bank has established and implemented written policies, procedures, and risk measurement and management systems and controls for the purpose of ensuring that it conducts retail forex transactions in a safe and sound manner and in compliance with this part; and
 
