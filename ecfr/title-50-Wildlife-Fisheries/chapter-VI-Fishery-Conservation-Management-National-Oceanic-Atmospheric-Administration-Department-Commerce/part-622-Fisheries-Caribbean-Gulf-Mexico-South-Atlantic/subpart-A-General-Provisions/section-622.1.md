@@ -1,7 +1,5 @@
 ##### § 622.1 Purpose and scope.
 
-Link to an amendment published at 84 FR 4736, Feb. 19, 2019.
-
 (a) The purpose of this part is to implement the FMPs prepared under the Magnuson-Stevens Act by the CFMC, GMFMC, and/or SAFMC listed in Table 1 of this section.
 
 (b) This part governs conservation and management of species included in the FMPs in or from the Caribbean, Gulf, Mid-Atlantic, South Atlantic, or Atlantic EEZ, unless otherwise specified, as indicated in Table 1 of this section. For the FMPs noted in the following table, conservation and management extends to adjoining state waters for the purposes of data collection and monitoring.
@@ -12,25 +10,25 @@ Link to an amendment published at 84 FR 4736, Feb. 19, 2019.
 
 Table 1 to § 622.1 - FMPs Implemented Under Part 622
 
-| FMP title                                                                                              | Responsible fishery   management   council(s) | Geographical area                        |
-| ------------------------------------------------------------------------------------------------------ | --------------------------------------------- | ---------------------------------------- |
-| FMP for Coastal Migratory Pelagic Resources                                                            | GMFMC/SAFMC                                   | Gulf 1, Mid-Atlantic 1 South Atlantic. 1 |
-| FMP for Coral, Coral Reefs, and Live/Hard Bottom Habitats of the South Atlantic Region                 | SAFMC                                         | South Atlantic. 5                        |
-| FMP for Coral and Coral reefs of the Gulf of Mexico                                                    | GMFMC                                         | Gulf.                                    |
-| FMP for Corals and Reef Associated Plants and Invertebrates of Puerto Rico and the U.S. Virgin Islands | CFMC                                          | Caribbean.                               |
-| FMP for the Dolphin and Wahoo Fishery off the Atlantic States                                          | SAFMC                                         | Atlantic.                                |
-| FMP for the Golden Crab Fishery of the South Atlantic Region                                           | SAFMC                                         | South Atlantic.                          |
-| FMP for Pelagic Sargassum Habitat of the South Atlantic Region                                         | SAFMC                                         | South Atlantic.                          |
-| FMP for Queen Conch Resources of Puerto Rico and the U.S. Virgin Islands                               | CFMC                                          | Caribbean.                               |
-| FMP for the Red Drum Fishery of the Gulf of Mexico                                                     | GMFMC                                         | Gulf. 1                                  |
-| FMP for the Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands                               | CFMC                                          | Caribbean.                               |
-| FMP for the Reef Fish Resources of the Gulf of Mexico                                                  | GMFMC                                         | Gulf. 1 3 4 7                            |
-| FMP for Regulating Offshore Marine Aquaculture in the Gulf                                             | GMFMC                                         | Gulf.                                    |
-| FMP for the Shrimp Fishery of the Gulf of Mexico                                                       | GMFMC                                         | Gulf. 1                                  |
-| FMP for the Shrimp Fishery of the South Atlantic Region                                                | SAFMC                                         | South Atlantic.                          |
-| FMP for the Snapper-Grouper Fishery of the South Atlantic Region                                       | SAFMC                                         | South Atlantic. 1 2 6 8                  |
-| FMP for the Spiny Lobster Fishery of Puerto Rico and the U.S. Virgin Islands                           | CFMC                                          | Caribbean.                               |
-| FMP for the Spiny Lobster Fishery of the Gulf of Mexico and South Atlantic                             | GMFMC/SAFMC                                   | Gulf 1, South Atlantic. 1                |
+| FMP title                                                                                              | Responsible fishery   management   council(s) | Geographical area                               |
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------------- |
+| FMP for Coastal Migratory Pelagic Resources                                                            | GMFMC/SAFMC                                   | Gulf 1 9, Mid-Atlantic 1 9, South Atlantic 1 9. |
+| FMP for Coral, Coral Reefs, and Live/Hard Bottom Habitats of the South Atlantic Region                 | SAFMC                                         | South Atlantic. 5                               |
+| FMP for Coral and Coral reefs of the Gulf of Mexico                                                    | GMFMC                                         | Gulf.                                           |
+| FMP for Corals and Reef Associated Plants and Invertebrates of Puerto Rico and the U.S. Virgin Islands | CFMC                                          | Caribbean.                                      |
+| FMP for the Dolphin and Wahoo Fishery off the Atlantic States                                          | SAFMC                                         | Atlantic.                                       |
+| FMP for the Golden Crab Fishery of the South Atlantic Region                                           | SAFMC                                         | South Atlantic.                                 |
+| FMP for Pelagic Sargassum Habitat of the South Atlantic Region                                         | SAFMC                                         | South Atlantic.                                 |
+| FMP for Queen Conch Resources of Puerto Rico and the U.S. Virgin Islands                               | CFMC                                          | Caribbean.                                      |
+| FMP for the Red Drum Fishery of the Gulf of Mexico                                                     | GMFMC                                         | Gulf. 1                                         |
+| FMP for the Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands                               | CFMC                                          | Caribbean.                                      |
+| FMP for the Reef Fish Resources of the Gulf of Mexico                                                  | GMFMC                                         | Gulf. 1 3 4 7                                   |
+| FMP for Regulating Offshore Marine Aquaculture in the Gulf                                             | GMFMC                                         | Gulf.                                           |
+| FMP for the Shrimp Fishery of the Gulf of Mexico                                                       | GMFMC                                         | Gulf. 1                                         |
+| FMP for the Shrimp Fishery of the South Atlantic Region                                                | SAFMC                                         | South Atlantic.                                 |
+| FMP for the Snapper-Grouper Fishery of the South Atlantic Region                                       | SAFMC                                         | South Atlantic. 1 2 6 8                         |
+| FMP for the Spiny Lobster Fishery of Puerto Rico and the U.S. Virgin Islands                           | CFMC                                          | Caribbean.                                      |
+| FMP for the Spiny Lobster Fishery of the Gulf of Mexico and South Atlantic                             | GMFMC/SAFMC                                   | Gulf 1, South Atlantic. 1                       |
 
 1 Regulated area includes adjoining state waters for purposes of data collection and quota monitoring.
 
@@ -48,4 +46,6 @@ Table 1 to § 622.1 - FMPs Implemented Under Part 622
 
 8 Hogfish in the Gulf EEZ are managed under the FMP from the South Atlantic and Gulf of Mexico intercouncil boundary specified in § 600.105(c) and south of 25°09′ N. lat. off the west coast of Florida. Hogfish in the remainder of the Gulf EEZ are managed under the FMP for the Reef Fish Resources of the Gulf of Mexico.
 
-\[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, 34594 July 25, 2017; 82 FR 40075, Aug. 24, 2017\]
+9 Cobia is managed by the FMP in the Gulf EEZ and in the South Atlantic EEZ south of a line extending due east from the Florida/Georgia border.
+
+\[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, 34594 July 25, 2017; 82 FR 40075, Aug. 24, 2017; 84 FR 4736, Feb. 19, 2019\]
