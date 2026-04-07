@@ -1,6 +1,6 @@
 ##### § 29.2662 Heavy Leaf (B Group).
 
-This group consists of leaves which are medium to heavy in body.
+This group consists of leaves which are medium to heavy in body. 
 
 | Grades | Grade names and specifications                                                                                                                                                   |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

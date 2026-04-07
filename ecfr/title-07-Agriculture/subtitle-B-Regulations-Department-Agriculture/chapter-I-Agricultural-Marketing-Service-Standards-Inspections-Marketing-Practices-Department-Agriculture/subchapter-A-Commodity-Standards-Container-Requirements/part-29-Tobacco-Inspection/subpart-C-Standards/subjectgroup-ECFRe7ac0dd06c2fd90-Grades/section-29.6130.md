@@ -1,6 +1,6 @@
 ##### § 29.6130 Nondescript (N Group).
 
-Tobacco which does not meet the minimum specifications or exceeds the tolerance of the lowest grade of any other group.
+Tobacco which does not meet the minimum specifications or exceeds the tolerance of the lowest grade of any other group. 
 
 | U.S. grades | Grade names, minimum specifications, and tolerances                                                   |
 | ----------- | ----------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 29.3647 Heavy Leaf (B Group).
 
-This group consists of leaves which are medium to heavy in body and show little or no ground injury.
+This group consists of leaves which are medium to heavy in body and show little or no ground injury. 
 
 | Grades | Grade names, minimum specifications, and tolerances                                                                                                                             |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 29.6129 Farm Filler (Y Group).
 
-This group consists of tobacco from the lower portion of the stalk and may include throw out leaves from the Binder and Stripper groups.
+This group consists of tobacco from the lower portion of the stalk and may include throw out leaves from the Binder and Stripper groups. 
 
 | U.S. grades | Grade names, minimum specifications, and tolerances                                                                                                                               |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

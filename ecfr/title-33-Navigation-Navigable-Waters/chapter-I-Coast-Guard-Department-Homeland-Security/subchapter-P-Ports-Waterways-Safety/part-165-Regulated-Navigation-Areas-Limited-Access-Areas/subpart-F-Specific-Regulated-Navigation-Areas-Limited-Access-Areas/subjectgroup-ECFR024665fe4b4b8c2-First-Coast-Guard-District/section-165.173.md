@@ -1,6 +1,6 @@
 ##### § 165.173 Safety Zones for annually recurring marine events held in Coast Guard Southeastern New England Captain of the Port Zone.
 
-(a) *Regulations.* (1) The general regulations contained in 33 CFR 165.23 as well as the following regulations apply to the fireworks displays and swim events listed in the Table to § 165.173. These regulations may be enforced for the duration of each event.
+(a) *Regulations.* (1) The general regulations contained in 33 CFR 165.23 as well as the following regulations apply to the fireworks displays and swim events listed in the Table to § 165.173. These regulations may be enforced for the duration of each event. 
 
 (2) Notifications will be made to the local maritime community through the Local Notice to Mariners well in advance of the events. If the event does not have a date listed, then exact dates and times of the enforcement period will be announced through a Notice of Enforcement in the Federal Register.
 
@@ -8,23 +8,23 @@ Note to paragraph (a):
 
 Although listed in the Code of Federal Regulations, sponsors of events listed in the Table shall submit an application each year in accordance with 33 CFR 100.15.
 
-(b) *Definitions.* The following definitions apply to this section:
+(b) *Definitions.* The following definitions apply to this section: 
 
-(1) *Designated representative.* A “designated representative” is any Coast Guard commissioned, warrant or petty officer of the U.S. Coast Guard who has been designated by the Captain of the Port, Southeastern New England (COTP), to act on his or her behalf. The designated representative may be on an official patrol vessel or may be on shore and will communicate with vessels via VHF-FM radio or loudhailer. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation.
+(1) *Designated representative.* A “designated representative” is any Coast Guard commissioned, warrant or petty officer of the U.S. Coast Guard who has been designated by the Captain of the Port, Southeastern New England (COTP), to act on his or her behalf. The designated representative may be on an official patrol vessel or may be on shore and will communicate with vessels via VHF-FM radio or loudhailer. In addition, members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation. 
 
-(2) *Official patrol vessels.* Official patrol vessels may consist of any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the COTP.
+(2) *Official patrol vessels.* Official patrol vessels may consist of any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the COTP. 
 
-(3) *Spectators.* All persons and vessels not registered with the event sponsor as participants or official patrol vessels.
+(3) *Spectators.* All persons and vessels not registered with the event sponsor as participants or official patrol vessels. 
 
-(c) The Coast Guard may patrol each event area under the direction of a designated Coast Guard Patrol Commander. The Patrol Commander may be contacted on Channel 16 VHF-FM (156.8 MHz) by the call sign “PATCOM.” The “official patrol vessels” may consist of any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the Captain of the Port, Southeastern New England.
+(c) The Coast Guard may patrol each event area under the direction of a designated Coast Guard Patrol Commander. The Patrol Commander may be contacted on Channel 16 VHF-FM (156.8 MHz) by the call sign “PATCOM.” The “official patrol vessels” may consist of any Coast Guard, Coast Guard Auxiliary, state, or local law enforcement vessels assigned or approved by the Captain of the Port, Southeastern New England. 
 
-(d) Vessels may not transit the regulated areas without Patrol Commander approval. Vessels permitted to transit must operate at a no wake speed, in a manner which will not endanger participants or other crafts in the event.
+(d) Vessels may not transit the regulated areas without Patrol Commander approval. Vessels permitted to transit must operate at a no wake speed, in a manner which will not endanger participants or other crafts in the event. 
 
-(e) Spectators or other vessels shall not anchor, block, loiter, or impede the movement of event participants or official patrol vessels in the regulated areas during the effective dates and times, or dates and times as modified through a Notice of Enforcement published in the Federal Register, unless authorized by an official patrol vessel.
+(e) Spectators or other vessels shall not anchor, block, loiter, or impede the movement of event participants or official patrol vessels in the regulated areas during the effective dates and times, or dates and times as modified through a Notice of Enforcement published in the Federal Register, unless authorized by an official patrol vessel. 
 
-(f) The Patrol Commander may control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel shall come to an immediate stop and comply with the lawful directions issued. Failure to comply with a lawful direction may result in expulsion from the area, citation for failure to comply, or both.
+(f) The Patrol Commander may control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel shall come to an immediate stop and comply with the lawful directions issued. Failure to comply with a lawful direction may result in expulsion from the area, citation for failure to comply, or both. 
 
-(g) The Patrol Commander may delay or terminate any event in this subpart at any time to ensure safety. Such action may be justified as a result of weather, traffic density, spectator operation or participant behavior.
+(g) The Patrol Commander may delay or terminate any event in this subpart at any time to ensure safety. Such action may be justified as a result of weather, traffic density, spectator operation or participant behavior. 
 
 (h) For all fireworks displays listed below, the regulated area is that area of navigable waters within the specified radius of the launch platform or launch site for each fireworks display, unless modified later in a Notice of Enforcement published in the Federal Register.
 

@@ -1,8 +1,8 @@
 ##### § 165.1197 Security Zones; San Francisco Bay, San Pablo Bay, Carquinez Strait, Suisun Bay, California.
 
-(a) *Locations.* The following areas are security zones:
+(a) *Locations.* The following areas are security zones: 
 
-(1) *Chevron Long Wharf, San Francisco Bay.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Chevron Long Wharf, Richmond, CA, and encompasses all waters in San Francisco Bay within a line connecting the following geographical positions—
+(1) *Chevron Long Wharf, San Francisco Bay.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Chevron Long Wharf, Richmond, CA, and encompasses all waters in San Francisco Bay within a line connecting the following geographical positions— 
 
 | Latitude      | Longitude      |
 | ------------- | -------------- |
@@ -20,7 +20,7 @@
 
 and along the shoreline back to the beginning point.
 
-(2) *Conoco-Phillips, San Pablo Bay.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Conoco-Phillips Wharf, Rodeo, CA, and encompasses all waters in San Pablo Bay within a line connecting the following geographical positions—
+(2) *Conoco-Phillips, San Pablo Bay.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Conoco-Phillips Wharf, Rodeo, CA, and encompasses all waters in San Pablo Bay within a line connecting the following geographical positions— 
 
 | Latitude      | Longitude      |
 | ------------- | -------------- |
@@ -35,7 +35,7 @@ and along the shoreline back to the beginning point.
 
 and along the shoreline back to the beginning point.
 
-(3) *Shell Terminal, Carquinez Strait.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Shell Terminal, Martinez, CA, and encompasses all waters in San Pablo Bay within a line connecting the following geographical positions—
+(3) *Shell Terminal, Carquinez Strait.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Shell Terminal, Martinez, CA, and encompasses all waters in San Pablo Bay within a line connecting the following geographical positions— 
 
 | Latitude      | Longitude      |
 | ------------- | -------------- |
@@ -50,7 +50,7 @@ and along the shoreline back to the beginning point.
 
 and along the shoreline back to the beginning point.
 
-(4) *Amorco Pier, Carquinez Strait.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Amorco Pier, Martinez, CA, and encompasses all waters in the Carquinez Strait within a line connecting the following geographical positions—
+(4) *Amorco Pier, Carquinez Strait.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Amorco Pier, Martinez, CA, and encompasses all waters in the Carquinez Strait within a line connecting the following geographical positions— 
 
 | Latitude      | Longitude      |
 | ------------- | -------------- |
@@ -65,7 +65,7 @@ and along the shoreline back to the beginning point.
 
 and along the shoreline back to the beginning point.
 
-(5) *Valero, Carquinez Strait.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Valero Pier, Benicia, CA, and encompasses all waters in the Carquinez Strait within a line connecting the following geographical positions—
+(5) *Valero, Carquinez Strait.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Valero Pier, Benicia, CA, and encompasses all waters in the Carquinez Strait within a line connecting the following geographical positions— 
 
 | Latitude      | Longitude      |
 | ------------- | -------------- |
@@ -77,7 +77,7 @@ and along the shoreline back to the beginning point.
 
 and along the shoreline back to the beginning point.
 
-(6) *Avon Pier, Suisun Bay.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Avon Pier, Martinez, CA, and encompasses all waters in Suisun Bay within a line connecting the following geographical positions—
+(6) *Avon Pier, Suisun Bay.* This security zone includes all waters extending from the surface to the sea floor within approximately 100 yards of the Avon Pier, Martinez, CA, and encompasses all waters in Suisun Bay within a line connecting the following geographical positions— 
 
 | Latitude      | Longitude      |
 | ------------- | -------------- |
@@ -92,10 +92,10 @@ and along the shoreline back to the beginning point.
 
 and along the shoreline back to the beginning point.
 
-(b) *Regulations.* (1) In accordance with the general regulations in § 165.33, entry into the security zones described in paragraph (a) of this section is prohibited, unless specifically authorized by the Captain of the Port San Francisco Bay, or his designated representative.
+(b) *Regulations.* (1) In accordance with the general regulations in § 165.33, entry into the security zones described in paragraph (a) of this section is prohibited, unless specifically authorized by the Captain of the Port San Francisco Bay, or his designated representative. 
 
-(2) Persons desiring to transit the area of a security zone may contact the Captain of the Port at telephone number 415-399-3547 or on VHF-FM channel 16 (156.8 MHz) to seek permission to transit the area. If permission is granted, all persons and vessels must comply with the instructions of the Captain of the Port or his designated representative.
+(2) Persons desiring to transit the area of a security zone may contact the Captain of the Port at telephone number 415-399-3547 or on VHF-FM channel 16 (156.8 MHz) to seek permission to transit the area. If permission is granted, all persons and vessels must comply with the instructions of the Captain of the Port or his designated representative. 
 
-(c) *Enforcement.* The U.S. Coast Guard may be assisted in the patrol and enforcement of these security zones by federal, state and local law enforcement as necessary.
+(c) *Enforcement.* The U.S. Coast Guard may be assisted in the patrol and enforcement of these security zones by federal, state and local law enforcement as necessary. 
 
 \[COTP San Francisco Bay 05-007, 71 FR 12138, Mar. 9, 2006\]
