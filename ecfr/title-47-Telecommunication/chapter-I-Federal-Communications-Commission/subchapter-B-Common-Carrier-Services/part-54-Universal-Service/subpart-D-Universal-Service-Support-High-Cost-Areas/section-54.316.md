@@ -60,7 +60,7 @@ Link to an amendment published at 84 FR 59963, Nov. 7, 2019.
 
 (iii) *Grace period.* An eligible telecommunications carrier that submits the annual reporting information required by this section within three days of the deadline will not receive a reduction in support if the eligible telecommunications carrier and its holding company, operating companies, and affiliates as reported pursuant to § 54.313(a)(8) in their report due July 1 of the prior year have not missed the deadline in any prior year.
 
-\[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017; 84 FR 4732, Feb. 19, 2019; 85 FR 13798, Mar. 10, 2020\] Effective Date Notes:At 84 FR 59964, Nov. 7, 2019, § 54.316 was amended by adding paragraphs (a)(7) and (b)(7). These paragraphs have a delayed effective date. For the convenience of the user, the added text is set forth as follows:
+\[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017; 84 FR 4732, Feb. 19, 2019; 85 FR 13798, Mar. 10, 2020\] Effective Date Notes:At 84 FR 59964, Nov. 7, 2019, § 54.316 was amended by adding paragraphs (a)(7) and (b)(7). These paragraphs have a delayed effective date. For the convenience of the user, the added text is set forth as follows: 
 
 ##### § 54.316 Broadband deployment reporting and certification requirements for high-cost recipients.
 

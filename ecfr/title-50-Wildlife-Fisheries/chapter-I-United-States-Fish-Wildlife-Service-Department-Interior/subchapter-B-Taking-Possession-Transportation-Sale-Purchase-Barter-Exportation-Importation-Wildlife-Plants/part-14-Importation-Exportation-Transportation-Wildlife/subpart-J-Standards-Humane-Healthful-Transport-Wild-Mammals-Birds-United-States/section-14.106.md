@@ -2,9 +2,9 @@
 
 No carrier shall accept for transport to the United States any live wild mammal or bird in a primary enclosure that does not conform to the following requirements:
 
-(a) The Container Requirements of the Live Animal Regulations (LAR), 20th edition, October 1, 1993, published by the International Air Transport Association (IATA) shall be complied with by all parties transporting wild mammals or birds to the United States. The incorporation by reference of the LAR was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from IATA, 2000 Peel St., Montreal, Quebec, Canada H3A 2R4. Copies may be inspected at the U.S. Fish and Wildlife Service Headquarters (see 50 CFR 2.1(b) for address) or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.\\n.*
+(a) The Container Requirements of the Live Animal Regulations (LAR), 20th edition, October 1, 1993, published by the International Air Transport Association (IATA) shall be complied with by all parties transporting wild mammals or birds to the United States. The incorporation by reference of the LAR was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from IATA, 2000 Peel St., Montreal, Quebec, Canada H3A 2R4. Copies may be inspected at the U.S. Fish and Wildlife Service Headquarters (see 50 CFR 2.1(b) for address) or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(b) A primary enclosure shall be constructed so that -
+(b) A primary enclosure shall be constructed so that—
 
 (1) The strength of the enclosure is sufficient to contain the mammal or bird and to withstand the normal effects of transport;
 
