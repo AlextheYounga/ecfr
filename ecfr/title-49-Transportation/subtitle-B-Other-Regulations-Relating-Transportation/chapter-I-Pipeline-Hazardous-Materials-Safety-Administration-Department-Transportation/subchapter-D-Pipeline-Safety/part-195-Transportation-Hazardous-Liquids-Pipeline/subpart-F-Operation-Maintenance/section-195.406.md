@@ -1,5 +1,7 @@
 ##### § 195.406 Maximum operating pressure.
 
+Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
+
 (a) Except for surge pressures and other variations from normal operations, no operator may operate a pipeline at a pressure that exceeds any of the following:
 
 (1) The internal design pressure of the pipe determined in accordance with § 195.106. However, for steel pipe in pipelines being converted under § 195.5, if one or more factors of the design formula (§ 195.106) are unknown, one of the following pressures is to be used as design pressure:

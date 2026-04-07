@@ -1,5 +1,7 @@
 ##### § 192.121 Design of plastic pipe.
 
+Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
+
 (a) *Design pressure.* The design pressure for plastic pipe is determined in accordance with either of the following formulas:
 
 ![](/graphics/er20no18.000.gif)*P* = Design pressure, gage, psi (kPa). *S* = For thermoplastic pipe, the hydrostatic design basis (HDB) is determined in accordance with the listed specification at a temperature equal to 73 °F (23 °C), 100 °F (38 °C), 120 °F (49 °C), or 140 °F (60 °C). In the absence of an HDB established at the specified temperature, the HDB of a higher temperature may be used in determining a design pressure rating at the specified temperature by arithmetic interpolation using the procedure in Part D.2 of PPI TR-3/2012, (incorporated by reference, *see* § 192.7). For reinforced thermosetting plastic pipe, 11,000 psig (75,842 kPa). t = Specified wall thickness, inches (mm). *D* = Specified outside diameter, inches (mm). *SDR* = Standard dimension ratio, the ratio of the average specified outside diameter to the minimum specified wall thickness, corresponding to a value from a common numbering system that was derived from the American National Standards Institute (ANSI) preferred number series 10. *DF* = Design Factor, a maximum of 0.32 unless otherwise specified for a particular material in this section
@@ -39,7 +41,6 @@
 (iv) The wall thickness for a given outside diameter is not less than that listed in table 1 to this paragraph (c)(2)(iv).
 
 Table 1 to Paragraph (c)(2)(iv)
-
 | PE pipe: minimum wall thickness and SDR values |
 | ---------------------------------------------- |
 | 1/2″ CTS                                       |
@@ -84,7 +85,6 @@ Table 1 to Paragraph (c)(2)(iv)
 (iv) The minimum wall thickness for a given outside diameter is not less than that listed in table 2 to paragraph (d)(2)(iv):
 
 Table 2 to Paragraph (d)(2)(iv)
-
 | PA-11 pipe: minimum wall thickness and SDR values |
 | ------------------------------------------------- |
 | 1/2″ CTS                                          |
@@ -111,7 +111,6 @@ Table 2 to Paragraph (d)(2)(iv)
 (4) The minimum wall thickness for a given outside diameter is not less than that listed in table 3 to paragraph (e)(4).
 
 Table 3 to Paragraph (e)(4)
-
 | PA-12 pipe: minimum wall thickness and SDR values |
 | ------------------------------------------------- |
 | 1/2″ CTS                                          |
