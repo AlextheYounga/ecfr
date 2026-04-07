@@ -238,7 +238,7 @@ Tunas and skipjacks, prepared or preserved, not in airtight containers, not in o
 
 1604.14.5000
 
-Tunas and skipjack, prepared or preserved, not in airtight containers, NESOI 
+Tunas and skipjack, prepared or preserved, not in airtight containers, NESOI
 
 (D) *Other:* (products containing Yellowfin).
 
@@ -304,7 +304,7 @@ Tunas and skipjacks, prepared or preserved, not in airtight containers, not in o
 
 1604.14.5000
 
-Tunas and skipjack, prepared or preserved, not in airtight containers, NESOI 
+Tunas and skipjack, prepared or preserved, not in airtight containers, NESOI
 
 (D) *Other:* (only if the product contains tuna).
 
