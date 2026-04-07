@@ -8,7 +8,7 @@ The Board's general counsel (or the general counsel's delegee) is authorized:
 
 (3) *Designation of Board counsel for hearings.* To designate Board staff attorneys as Board counsel in any proceeding ordered by the Board in accordance with § 263.6 of the Board's Rules of Practice for Hearings (12 CFR part 263).
 
-(4) *Oaths, depositions, subpoenas.* To take, or authorize designated persons to take, with the concurrence of the Director of the Division of Banking Supervision and Regulation, actions permitted under 12 U.S.C. 1818(n), 1820(c), and 12 U.S.C. 1844(f), including administering oaths and affirmations, taking depositions, and issuing, revoking, quashing, or modifying subpoenas duces tecum.
+(4) *Oaths, depositions, subpoenas.* To take, or authorize designated persons to take, with the concurrence of the Director of the Division of Supervision and Regulation, actions permitted under 12 U.S.C. 1818(n), 1820(c), and 12 U.S.C. 1844(f), including administering oaths and affirmations, taking depositions, and issuing, revoking, quashing, or modifying subpoenas duces tecum.
 
 (b) *Availability of Information* - (1) *FOIA requests.* To make available information of the Board of the nature and in the circumstances described in the Board's Rules Regarding Availability of Information (12 CFR part 261).
 
@@ -26,7 +26,7 @@ The Board's general counsel (or the general counsel's delegee) is authorized:
 
 (2) *Control determinations under section 4(c)(8) of BHC Act.* To determine, or issue an order for a hearing to determine, whether a company engaged in financial, fiduciary, or insurance activities falls within the exemption in section 4(c)(8) of the Bank Holding Company Act (12 U.S.C. 1843(c)(8)), permitting retention or acquisition of control thereof by a bank holding company.
 
-(3) *Notices under CBC Act.* To revoke acceptance of and return as incomplete a notice filed under the Change in Bank Control Act (12 U.S.C. 1817(j)) or to extend the time during which action must be taken on a notice where the General Counsel determines, with the concurrence of the Director of the Division of Banking Supervision and Regulation, that the notice is materially incomplete under that Act or Regulation Y (12 CFR part 225) or contains material information that is substantially inaccurate.
+(3) *Notices under CBC Act.* To revoke acceptance of and return as incomplete a notice filed under the Change in Bank Control Act (12 U.S.C. 1817(j)) or to extend the time during which action must be taken on a notice where the General Counsel determines, with the concurrence of the Director of the Division of Supervision and Regulation, that the notice is materially incomplete under that Act or Regulation Y (12 CFR part 225) or contains material information that is substantially inaccurate.
 
 (4) *Tax certifications.* To make prior and final certification for federal tax purposes (26 U.S.C. (IRC) 1101-1103, 6158) with respect to distributions pursuant to the Bank Holding Company Act (12 U.S.C. 1841 *et seq.*).
 
@@ -40,7 +40,7 @@ The Board's general counsel (or the general counsel's delegee) is authorized:
 
 (2) To stay, modify, terminate, or suspend an order issued pursuant to paragraph (e)(1) of this section.
 
-(f) *International banking* - (1) *After-the-fact applications.* With the concurrence of the Board's Director of the Division of Banking Supervision and Regulation, to grant a request by a foreign bank to establish a branch, agency, commercial lending company, or representative office through certain acquisitions, mergers, consolidations, or similar transactions, in conjunction with which:
+(f) *International banking* - (1) *After-the-fact applications.* With the concurrence of the Board's Director of the Division of Supervision and Regulation, to grant a request by a foreign bank to establish a branch, agency, commercial lending company, or representative office through certain acquisitions, mergers, consolidations, or similar transactions, in conjunction with which:
 
 (i) The foreign bank would be required to file an after-the-fact application for the Board's approval under § 211.24(a)(6) of Regulation K (12 CFR 211.24(a)(6)); or
 
@@ -52,7 +52,7 @@ The Board's general counsel (or the general counsel's delegee) is authorized:
 
 (2) To modify the requirement that a foreign bank that has submitted an application or notice to establish a branch, agency, commercial lending company, or representative office pursuant to § 211.24(a)(6) of Regulation K (12 CFR 211.24(a)(6)) shall publish notice of the application or notice in a newspaper of general circulation in the community in which the applicant or notificant proposes to engage in business, as provided in § 211.24(b)(2) of Regulation K (12 CFR 211.24(b)(2)).
 
-(3) With the concurrence of the Board's Director of the Division of Banking Supervision and Regulation, to grant a request for an exemption under section 4(c)(9) of the Bank Holding Company Act (12 U.S.C. 1843(c)(9)), provided that the request raises no significant policy or supervisory issues that the Board has not already considered.
+(3) With the concurrence of the Board's Director of the Director of the Division of Supervision and Regulation, to grant a request for an exemption under section 4(c)(9) of the Bank Holding Company Act (12 U.S.C. 1843(c)(9)), provided that the request raises no significant policy or supervisory issues that the Board has not already considered.
 
 (4) To return applications and notices filed under the International Banking Act for informational deficits.
 
