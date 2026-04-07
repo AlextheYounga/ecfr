@@ -1,9 +1,9 @@
 ##### § 3.3 Applicability.
 
-(a) *General requirement.* Except as provided in paragraph (b) of this section, this part prescribes the exclusive process for interested persons to submit a rulemaking petition on a matter within DHS's jurisdiction.
+(a) *General requirement.* Except as provided in paragraph (b) of this section, this part prescribes the exclusive process for interested persons to submit a rulemaking petition on a matter within DHS's jurisdiction. 
 
-(b) *Exceptions*—(1) *U.S. Coast Guard.* This part does not apply to any petition for rulemaking directed to the U.S. Coast Guard. Such petitions are governed by 33 CFR 1.05-20.
+(b) *Exceptions*—(1) *U.S. Coast Guard.* This part does not apply to any petition for rulemaking directed to the U.S. Coast Guard. Such petitions are governed by 33 CFR 1.05-20. 
 
-(2) *Federal Emergency Management Agency.* This part does not apply to any petition for rulemaking directed to the Federal Emergency Management Agency. Such petitions are governed by 44 CFR 1.8.
+(2) *Federal Emergency Management Agency.* This part does not apply to any petition for rulemaking directed to the Federal Emergency Management Agency. Such petitions are governed by 44 CFR 1.8. 
 
 \[81 FR 47286, July 21, 2016, as amended at 89 FR 23500, Apr. 4, 2024\]
