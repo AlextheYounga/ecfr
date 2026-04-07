@@ -4,14 +4,14 @@
 
 (b) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169, telephone number 800-344-3555, website *http://www.nfpa.org.*
 
-(1) NFPA 1192, Standard on Recreational Vehicles, 2015 Edition, issued August 14, 2014, IBR approved for § 3282.15(b). 
+(1) NFPA 1192, Standard on Recreational Vehicles, 2015 Edition, issued August 14, 2014, IBR approved for § 3282.15(b).
 
-(2) \[Reserved\] 
+(2) \[Reserved\]
 
 (c) Recreational Vehicle Industry Association (RVIA), 1896 Preston White Drive, Reston, VA 20191, telephone number 703-620-6003, website *http://www.rvia.org.*
 
-(1) ANSI A119.5: Park Model Recreational Vehicle Standard, 2015 Edition, ANSI-approved April 7, 2015, IBR approved for § 3282.15(b). 
+(1) ANSI A119.5: Park Model Recreational Vehicle Standard, 2015 Edition, ANSI-approved April 7, 2015, IBR approved for § 3282.15(b).
 
-(2) \[Reserved\] 
+(2) \[Reserved\]
 
 \[83 FR 57688, Nov. 16, 2018\]
