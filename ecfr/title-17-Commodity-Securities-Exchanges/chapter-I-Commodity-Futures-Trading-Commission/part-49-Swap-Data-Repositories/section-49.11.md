@@ -2,9 +2,9 @@
 
 (a) A registered swap data repository shall establish policies and procedures to ensure the accuracy of swap data and other regulatory information required to be reported by part 45 that it receives from reporting entities or certain third-party service providers acting on their behalf, such as confirmation or matching service providers.
 
-(b) A registered swap data repository shall confirm the accuracy of all swap data that is submitted pursuant to part 45. (1) *Confirmation of data accuracy for swap creation data as defined in part 45.*
+(b) A registered swap data repository shall confirm the accuracy of all swap data that is submitted pursuant to part 45.
 
-(i) A registered swap data repository has confirmed the accuracy of swap creation data that was submitted directly by a counterparty if the swap data repository has notified both counterparties of the data that was submitted and received from both counterparties acknowledgement of the accuracy of the swap data and corrections for any errors.
+(1) *Confirmation of data accuracy for swap creation data as defined in part 45.* (i) A registered swap data repository has confirmed the accuracy of swap creation data that was submitted directly by a counterparty if the swap data repository has notified both counterparties of the data that was submitted and received from both counterparties acknowledgement of the accuracy of the swap data and corrections for any errors.
 
 (ii) A registered swap data repository has confirmed the accuracy of swap creation data that was submitted by a swap execution facility, designated contract market, derivatives clearing organization, or third-party service provider who is acting on behalf of a counterparty, if the swap data repository has complied with each of the following:
 

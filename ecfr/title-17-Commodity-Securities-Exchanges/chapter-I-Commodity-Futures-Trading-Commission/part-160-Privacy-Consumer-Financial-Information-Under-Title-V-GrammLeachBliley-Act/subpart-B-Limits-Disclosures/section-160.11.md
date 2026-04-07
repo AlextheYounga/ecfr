@@ -18,11 +18,11 @@
 
 (iii) To any other person, if the disclosure would be lawful if made directly to that person by the financial institution from which you received the information.
 
-(2) *Example.* If you obtain a customer list from a nonaffiliated financial institution outside of the exceptions in § 160.14 and § 160.15:
+(2) *Example.* If you obtain a customer list from a nonaffiliated financial institution outside of the exceptions in §§ 160.14 and 160.15:
 
 (i) You may use that list for your own purposes;
 
-(ii) You may disclose that list to another nonaffiliated third party only if the financial institution from which you purchased the list could have lawfully disclosed that list to that third party. That is, you may disclose the list in accordance with the privacy policy of the financial institution from which you received the list as limited by the opt out direction of each consumer whose nonpublic personal information you intend to disclose, and you may disclose the list in accordance with an exception in § 160.14 and § 160.15, such as in the ordinary course of business to your attorneys, accountants, or auditors.
+(ii) You may disclose that list to another nonaffiliated third party only if the financial institution from which you purchased the list could have lawfully disclosed that list to that third party. That is, you may disclose the list in accordance with the privacy policy of the financial institution from which you received the list as limited by the opt out direction of each consumer whose nonpublic personal information you intend to disclose, and you may disclose the list in accordance with an exception in §§ 160.14 and 160.15, such as in the ordinary course of business to your attorneys, accountants, or auditors.
 
 (c) *Information you disclose under an exception.* If you disclose nonpublic personal information to a nonaffiliated third party under an exception in § 160.14 or § 160.15, the third party may disclose and use that information only as follows:
 

@@ -1,4 +1,4 @@
-##### § 263.53 Other funds.
+##### § 253.53 Other funds.
 
 (a) *Funds for disaster assistance.* (1) The Secretary shall retain sole authority in distributing any disaster assistance funds made available under section 308(b) of the Act. The Secretary may distribute these funds after he or she has made a thorough evaluation of the scientific information submitted, and has determined that a commercial fishery failure of a fishery resource arising from natural or undetermined causes has occurred. Funds may only be used to restore the resource affected by the disaster, and only by existing methods and technology. Any fishery resource used in computing the states' amount under the apportionment formula in § 253.601(a) will qualify for funding under this section. The Federal share of the cost of any activity conducted under the disaster provision of the Act shall be limited to 75 percent of the total cost.
 

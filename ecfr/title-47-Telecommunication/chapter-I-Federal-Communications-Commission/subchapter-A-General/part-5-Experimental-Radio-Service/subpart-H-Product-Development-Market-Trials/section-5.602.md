@@ -6,11 +6,11 @@ Unless otherwise stated in the instrument of authorization, experimental radio l
 
 (b) The operation of all radio frequency devices that are included in a market trial must be authorized under this rule section, including those devices that are designed to operate under parts 15, 18, or 95 of this chapter.
 
-(c) If more than one entity will be responsible for conducting the same market trial *e.g.,* manufacturer and service provider, each entity will be authorized under a separate license. If more than one licensee is authorized, the licensees or the Commission shall designate one as the responsible party for the trial.
+(c) If more than one entity will be responsible for conducting the same market trial e.g., manufacturer and service provider, each entity will be authorized under a separate license. If more than one licensee is authorized, the licensees or the Commission shall designate one as the responsible party for the trial.
 
 (d) All transmitting and/or receiving equipment used in the study shall be owned by the experimental licensees. Marketing of devices is only permitted as follows:
 
-(1) The licensees may sell equipment to each other, *e.g.,* manufacturer to service provider,
+(1) The licensees may sell equipment to each other, e.g., manufacturer to service provider,
 
 (2) The licensees may lease equipment to trial participants for purposes of the study, and
 

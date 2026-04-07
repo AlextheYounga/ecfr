@@ -94,7 +94,7 @@ IN EVALUATING THE RISKS AND CONTRACTUAL OBLIGATIONS ASSOCIATED WITH A PARTICULAR
 
 (ii) The extent to which such interests are subject to state or federal regulation, regulation by a non-United States jurisdiction or rules of a self-regulatory organization;
 
-(iii)(A) The custodian or other entity (*e.g.,* bank or broker-dealer) which will hold such interests; and
+(iii)(A) The custodian or other entity (e.g., bank or broker-dealer) which will hold such interests; and
 
 (B) If such interests will be held or if pool assets will be invested in a non-United States jurisdiction, the jurisdiction in which such interests or assets will be held or invested.
 

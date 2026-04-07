@@ -12,7 +12,7 @@
 
 (3) Manufacturers that did not apply to the Board for an exemption and that manufactured less than 100,000 short tons of paper and paper-based packaging during the marketing year shall automatically receive a refund from the Board for the applicable assessments within 30 calendar days after the end of the marketing year. Board staff shall determine the assessments paid and refund the amount due to the manufacturer accordingly.
 
-(4)Importers that did not apply to the Board for an exemption, imported more than 100,000 short tons of paper and paper-based packaging during the prior marketing year, and that imported less than 100,000 short tons of paper and paper-based packaging during the marketing year shall automatically receive a refund from the Board for the applicable assessments within 30 calendar days after the end of the marketing year.
+(4) Importers that did not apply to the Board for an exemption, imported more than 100,000 short tons of paper and paper-based packaging during the prior marketing year, and that imported less than 100,000 short tons of paper and paper-based packaging during the marketing year shall automatically receive a refund from the Board for the applicable assessments within 30 calendar days after the end of the marketing year.
 
 (5) If an entity is a manufacturer and an importer, such entity's combined quantity of paper and paper-based packaging manufactured and imported during a marketing year shall count towards the 100,000 short ton-exemption.
 

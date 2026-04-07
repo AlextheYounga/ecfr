@@ -18,7 +18,7 @@
 
 (b) *Power limit for devices that rely on sensing.* The white space device shall meet the requirements for personal/portable devices in this subpart except that it will be limited to a maximum EIRP of 50 mW per 6 megahertz of bandwidth on which the device operates and it does not have to comply with the requirements for geo-location and database access in § 15.711(b), (d), and (e). Compliance with the detection threshold for spectrum sensing in § 15.717(c), although required, is not necessarily sufficient for demonstrating reliable interference avoidance. Once a device is certified, additional devices that are identical in electrical characteristics and antenna systems may be certified under the procedures of part 2, Subpart J of this chapter.
 
-(c) *Sensing requirements* - (1) *Detection threshold.* (i) The required detection thresholds are:
+(c) *Sensing requirements*—(1) *Detection threshold.* (i) The required detection thresholds are:
 
 (A) ATSC digital TV signals: −114 dBm, averaged over a 6 MHz bandwidth;
 
@@ -26,7 +26,7 @@
 
 (C) Low power auxiliary, including wireless microphone, signals: −107 dBm, averaged over a 200 kHz bandwidth.
 
-(ii) The detection thresholds are referenced to an omnidirectional receive antenna with a gain of 0 dBi. If a receive antenna with a minimum directional gain of less than 0 dBi is used, the detection threshold shall be reduced by the amount in dB that the minimum directional gain of the antenna is less than 0 dBi. Minimum directional gain shall be defined as the antenna gain in the direction and at the frequency that exhibits the least gain. Alternative approaches for the sensing antenna are permitted, *e.g.,* electronically rotatable antennas, provided the applicant for equipment authorization can demonstrate that its sensing antenna provides at least the same performance as an omnidirectional antenna with 0 dBi gain.
+(ii) The detection thresholds are referenced to an omnidirectional receive antenna with a gain of 0 dBi. If a receive antenna with a minimum directional gain of less than 0 dBi is used, the detection threshold shall be reduced by the amount in dB that the minimum directional gain of the antenna is less than 0 dBi. Minimum directional gain shall be defined as the antenna gain in the direction and at the frequency that exhibits the least gain. Alternative approaches for the sensing antenna are permitted, e.g., electronically rotatable antennas, provided the applicant for equipment authorization can demonstrate that its sensing antenna provides at least the same performance as an omnidirectional antenna with 0 dBi gain.
 
 (2) *Channel availability check time.* A white space device may start operating on a TV channel if no TV, wireless microphone or other low power auxiliary device signals above the detection threshold are detected within a minimum time interval of 30 seconds.
 

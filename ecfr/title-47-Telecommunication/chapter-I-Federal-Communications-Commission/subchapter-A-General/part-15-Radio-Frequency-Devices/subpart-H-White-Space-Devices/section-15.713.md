@@ -142,7 +142,7 @@
 
 (iv) Call sign.
 
-(4) PLMRS/CMRS base station operations located more than 80 km from the geographic centers of the 13 metropolitan areas defined in § 90.303(a) of this chapter (*e.g.,* in accordance with a waiver).
+(4) PLMRS/CMRS base station operations located more than 80 km from the geographic centers of the 13 metropolitan areas defined in § 90.303(a) of this chapter (e.g., in accordance with a waiver).
 
 (i) Transmitter location (latitude and longitude in NAD 83) or geographic area of operations.
 
