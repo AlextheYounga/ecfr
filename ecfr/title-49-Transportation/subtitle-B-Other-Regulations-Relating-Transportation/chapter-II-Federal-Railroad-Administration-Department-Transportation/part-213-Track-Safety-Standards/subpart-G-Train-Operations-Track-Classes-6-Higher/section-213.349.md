@@ -4,4 +4,4 @@ Any mismatch of rails at joints may not be more than that prescribed by the foll
 
 | Class of track      | Any mismatch of rails at joints may not be more than the following— |
 | ------------------- | ------------------------------------------------------------------- |
-| Class 6, 7, 8 and 9 | 1/8                                                                 |
+| Class 6, 7, 8 and 9 | 1⁄8                                                                 |

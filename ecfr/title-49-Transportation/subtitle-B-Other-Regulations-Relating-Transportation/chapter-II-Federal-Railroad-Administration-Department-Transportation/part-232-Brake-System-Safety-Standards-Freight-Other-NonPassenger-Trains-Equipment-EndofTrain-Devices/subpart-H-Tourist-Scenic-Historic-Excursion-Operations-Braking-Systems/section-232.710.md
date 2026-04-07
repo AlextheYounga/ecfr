@@ -23,7 +23,7 @@
 |                                                                                               | Inches |
 | --------------------------------------------------------------------------------------------- | ------ |
 | (i) Steam locomotives:                                                                        |        |
-| (A) Cam type of driving wheel brake                                                           | 3 1/2  |
+| (A) Cam type of driving wheel brake                                                           | 3 1⁄2  |
 | (B) Other types of driving wheel brakes                                                       | 6      |
 | (C) Engine truck brake                                                                        | 8      |
 | (D) Engine trailer truck brake                                                                | 8      |
