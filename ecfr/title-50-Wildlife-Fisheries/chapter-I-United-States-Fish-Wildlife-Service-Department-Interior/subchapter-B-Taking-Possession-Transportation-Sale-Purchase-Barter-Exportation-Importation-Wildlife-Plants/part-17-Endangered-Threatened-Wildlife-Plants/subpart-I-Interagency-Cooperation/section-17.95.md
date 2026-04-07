@@ -20475,6 +20475,8 @@ The map provided is for informational purposes only.
 
 2\. The remainder of § 17.95 appears in 50 Part 17, § 17.95(f) to end of § 17.95.
 
+Link to an amendment published at 89 FR 17956, Mar. 12, 2024.
+
 (f) *Clams and Snails.*
 
 Canoe Creek Clubshell (*Pleurobema athearni*)

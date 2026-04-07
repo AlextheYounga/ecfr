@@ -12,7 +12,7 @@
 
 (A) The name and address of the person holding the property blocked pursuant to this chapter (*i.e.,* the person filing the report on blocked property, such as a financial institution), and the name, telephone number, and email address of a contact from whom additional information may be obtained;
 
-(B) A description of any transaction associated with the blocking, including: The type of transaction; any persons, including financial institutions, participating in the transaction and their respective locations (*e.g.,* if relevant, customers, beneficiaries, originators, letter of credit applicants, and their banks; intermediary banks; correspondent banks; issuing banks; and advising or confirming banks); and any reference numbers, dates, or other information necessary to identify the transaction;
+(B) A description of any transaction associated with the blocking, including: The type of transaction; any persons, including financial institutions, participating in the transaction and their respective locations (e.g., if relevant, customers, beneficiaries, originators, letter of credit applicants, and their banks; intermediary banks; correspondent banks; issuing banks; and advising or confirming banks); and any reference numbers, dates, or other information necessary to identify the transaction;
 
 (C) The associated sanctions target(s) whose property is blocked (such as a Specially Designated National or other blocked person), the location(s) of the target(s) (if known), and, if not evident, a narrative description of the interest(s) of the target(s) in the property; if there is no target or the target is not known, include a reference to the relevant written communication from OFAC pursuant to which the blocking action was taken;
 
