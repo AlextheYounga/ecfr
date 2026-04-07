@@ -1,7 +1,5 @@
 ##### § 249.22 Requirements for eligible high-quality liquid assets.
 
-Link to an amendment published at 86 FR 9212, Feb. 11, 2021.
-
 (a) *Operational requirements for eligible HQLA.* With respect to each asset that is eligible for inclusion in a Board-regulated institution's HQLA amount, a Board-regulated institution must meet all of the following operational requirements:
 
 (1) The Board-regulated institution must demonstrate the operational capability to monetize the HQLA by:
@@ -30,15 +28,7 @@ Link to an amendment published at 86 FR 9212, Feb. 11, 2021.
 
 (b) *Generally applicable criteria for eligible HQLA.* A Board-regulated institution's eligible HQLA must meet all of the following criteria:
 
-(1) The assets are unencumbered in accordance with the following criteria:
-
-(i) The assets are free of legal, regulatory, contractual, or other restrictions on the ability of the Board-regulated institution to monetize the assets; and
-
-(ii) The assets are not pledged, explicitly or implicitly, to secure or to provide credit enhancement to any transaction, but the assets may be considered unencumbered if the assets are pledged to a central bank or a U.S. government-sponsored enterprise where:
-
-(A) Potential credit secured by the assets is not currently extended to the Board-regulated institution or its consolidated subsidiaries; and
-
-(B) The pledged assets are not required to support access to the payment services of a central bank;
+(1) The assets are not encumbered.
 
 (2) The asset is not:
 
@@ -72,4 +62,4 @@ Link to an amendment published at 86 FR 9212, Feb. 11, 2021.
 
 (c) *Maintenance of U.S. eligible HQLA.* A Board-regulated institution is generally expected to maintain as eligible HQLA an amount and type of eligible HQLA in the United States that is sufficient to meet its total net cash outflow amount in the United States under subpart D of this part.
 
-\[79 FR 61523, 61539, Oct. 10, 2014, as amended at 81 FR 21232, Apr. 11, 2016; 83 FR 44455, Aug. 31, 2018\]
+\[79 FR 61523, 61539, Oct. 10, 2014, as amended at 81 FR 21232, Apr. 11, 2016; 83 FR 44455, Aug. 31, 2018; 86 FR 9212, Feb. 11, 2021\]

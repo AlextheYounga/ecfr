@@ -1,10 +1,8 @@
 ##### § 249.1 Purpose and applicability.
 
-Link to an amendment published at 86 FR 9210, Feb. 11, 2021.
+(a) *Purpose.* This part establishes a minimum liquidity standard and a minimum stable funding standard for certain Board-regulated institutions on a consolidated basis, as set forth herein.
 
-(a) *Purpose.* This part establishes a minimum liquidity standard for certain Board-regulated institutions on a consolidated basis, as set forth in this part.
-
-(b) *Applicability.* (1) A Board-regulated institution is subject to the minimum liquidity standard and other requirements of this part if:
+(b) *Applicability.* (1) A Board-regulated institution is subject to the minimum liquidity standard and a minimum stable funding standard, and other requirements of this part if:
 
 (i) It is a:
 
@@ -30,6 +28,6 @@ Link to an amendment published at 86 FR 9210, Feb. 11, 2021.
 
 (3) In making a determination under paragraph (b)(1)(iii) of this section, the Board will apply, as appropriate, notice and response procedures in the same manner and to the same extent as the notice and response procedures set forth in 12 CFR 263.202.
 
-(c) *Covered nonbank companies.* The Board will establish a minimum liquidity standard and other requirements for a designated company under this part by rule or order. In establishing such standard, the Board will consider the factors set forth in sections 165(a)(2) and (b)(3) of the Dodd-Frank Act and may tailor the application of the requirements of this part to the designated company based on the nature, scope, size, scale, concentration, interconnectedness, mix of the activities of the designated company, or any other risk-related factor that the Board determines is appropriate.
+(c) *Covered nonbank companies.* The Board will establish a minimum liquidity standard and minimum stable funding standard and other requirements for a designated company under this part by rule or order. In establishing such standards, the Board will consider the factors set forth in sections 165(a)(2) and (b)(3) of the Dodd-Frank Act and may tailor the application of the requirements of this part to the designated company based on the nature, scope, size, scale, concentration, interconnectedness, mix of the activities of the designated company, or any other risk-related factor that the Board determines is appropriate.
 
-\[84 FR 59272, Nov. 1, 2019\]
+\[86 FR 9210, Feb. 11, 2021\]

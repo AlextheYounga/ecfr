@@ -2050,7 +2050,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | VIRGINIA             |                                                     |
 | Arlington            | 15                                                  |
 | Ashland              | 47                                                  |
-| Bristol              | 5                                                   |
+| Bristol              | 35                                                  |
 | Charlottesville      | 19, 32, \*46                                        |
 | Danville             | 24                                                  |
 | Fairfax              | \*24                                                |
