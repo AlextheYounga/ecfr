@@ -1,6 +1,6 @@
 ##### § 1.662(c)-4 Illustration of the provisions of sections 661 and 662.
 
-The provisions of sections 661 and 662 may be illustrated in general by the following example:
+The provisions of sections 661 and 662 may be illustrated in general by the following example: 
 
 Example.(a) Under the terms of a testamentary trust one-half of the trust income is to be distributed currently to W, the decedent's wife, for her life. The remaining trust income may, in the trustee's discretion, either be paid to D, the grantor's daughter, paid to designated charities, or accumulated. The trust is to terminate at the death of W and the principal will then be payable to D. No provision is made in the trust instrument with respect to depreciation of rental property. Capital gains are allocable to the principal account under the applicable local law. The trust and both beneficiaries file returns on the calendar year basis. The records of the fiduciary show the following items of income and deduction for the taxable year 1955:
 

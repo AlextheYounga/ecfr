@@ -1,32 +1,32 @@
 ##### § 1.457-11 Tax treatment of participants if plan is not an eligible plan.
 
-(a) *In general.* Under section 457(f), if an eligible employer provides for a deferral of compensation under any agreement or arrangement that is an ineligible plan—
+(a) *In general.* Under section 457(f), if an eligible employer provides for a deferral of compensation under any agreement or arrangement that is an ineligible plan— 
 
-(1) Compensation deferred under the agreement or arrangement is includible in the gross income of the participant or beneficiary for the first taxable year in which there is no substantial risk of forfeiture (within the meaning of section 457(f)(3)(B)) of the rights to such compensation;
+(1) Compensation deferred under the agreement or arrangement is includible in the gross income of the participant or beneficiary for the first taxable year in which there is no substantial risk of forfeiture (within the meaning of section 457(f)(3)(B)) of the rights to such compensation; 
 
-(2) If the compensation deferred is subject to a substantial risk of forfeiture, the amount includible in gross income for the first taxable year in which there is no substantial risk of forfeiture includes earnings thereon to the date on which there is no substantial risk of forfeiture;
+(2) If the compensation deferred is subject to a substantial risk of forfeiture, the amount includible in gross income for the first taxable year in which there is no substantial risk of forfeiture includes earnings thereon to the date on which there is no substantial risk of forfeiture; 
 
-(3) Earnings credited on the compensation deferred under the agreement or arrangement that are not includible in gross income under paragraph (a)(2) of this section are includible in the gross income of the participant or beneficiary only when paid or made available to the participant or beneficiary, provided that the interest of the participant or beneficiary in any assets (including amounts deferred under the plan) of the entity sponsoring the agreement or arrangement is not senior to the entity's general creditors; and
+(3) Earnings credited on the compensation deferred under the agreement or arrangement that are not includible in gross income under paragraph (a)(2) of this section are includible in the gross income of the participant or beneficiary only when paid or made available to the participant or beneficiary, provided that the interest of the participant or beneficiary in any assets (including amounts deferred under the plan) of the entity sponsoring the agreement or arrangement is not senior to the entity's general creditors; and 
 
-(4) Amounts paid or made available to a participant or beneficiary under the agreement or arrangement are includible in the gross income of the participant or beneficiary under section 72, relating to annuities.
+(4) Amounts paid or made available to a participant or beneficiary under the agreement or arrangement are includible in the gross income of the participant or beneficiary under section 72, relating to annuities. 
 
-(b) *Exceptions.* Paragraph (a) of this section does not apply with respect to—
+(b) *Exceptions.* Paragraph (a) of this section does not apply with respect to— 
 
-(1) A plan described in section 401(a) which includes a trust exempt from tax under section 501(a);
+(1) A plan described in section 401(a) which includes a trust exempt from tax under section 501(a); 
 
-(2) An annuity plan or contract described in section 403;
+(2) An annuity plan or contract described in section 403; 
 
-(3) That portion of any plan which consists of a transfer of property described in section 83;
+(3) That portion of any plan which consists of a transfer of property described in section 83; 
 
-(4) That portion of any plan which consists of a trust to which section 402(b) applies; or
+(4) That portion of any plan which consists of a trust to which section 402(b) applies; or 
 
-(5) A qualified governmental excess benefit arrangement described in section 415(m).
+(5) A qualified governmental excess benefit arrangement described in section 415(m). 
 
-(c) *Amount included in income.* The amount included in gross income on the applicable date under paragraphs (a)(1) and (a)(2) of this section is equal to the present value of the compensation (including earnings to the extent provided in paragraph (a)(2) of this section) on that date. For purposes of applying section 72 on the applicable date under paragraphs (a)(3) and (4) of this section, the participant is treated as having paid investment in the contract (or basis) to the extent that the deferred compensation has been taken into account by the participant in accordance with paragraphs (a)(1) and (a)(2) of this section.
+(c) *Amount included in income.* The amount included in gross income on the applicable date under paragraphs (a)(1) and (a)(2) of this section is equal to the present value of the compensation (including earnings to the extent provided in paragraph (a)(2) of this section) on that date. For purposes of applying section 72 on the applicable date under paragraphs (a)(3) and (4) of this section, the participant is treated as having paid investment in the contract (or basis) to the extent that the deferred compensation has been taken into account by the participant in accordance with paragraphs (a)(1) and (a)(2) of this section. 
 
-(d) *Coordination of section 457(f) with section 83*—(1) *General rules.* Under paragraph (b)(3) of this section, section 457(f) and paragraph (a) of this section do not apply to that portion of any plan which consists of a transfer of property described in section 83. For this purpose, a transfer of property described in section 83 means a transfer of property to which section 83 applies. Section 457(f) and paragraph (a) of this section do not apply if the date on which there is no substantial risk of forfeiture with respect to compensation deferred under an agreement or arrangement that is not an eligible plan is on or after the date on which there is a transfer of property to which section 83 applies. However, section 457(f) and paragraph (a) of this section apply if the date on which there is no substantial risk of forfeiture with respect to compensation deferred under an agreement or arrangement that is not an eligible plan precedes the date on which there is a transfer of property to which section 83 applies. If deferred compensation payable in property is includible in gross income under section 457(f), then, as provided in section 72, the amount includible in gross income when that property is later transferred or made available to the service provider is the excess of the value of the property at that time over the amount previously included in gross income under section 457(f).
+(d) *Coordination of section 457(f) with section 83*—(1) *General rules.* Under paragraph (b)(3) of this section, section 457(f) and paragraph (a) of this section do not apply to that portion of any plan which consists of a transfer of property described in section 83. For this purpose, a transfer of property described in section 83 means a transfer of property to which section 83 applies. Section 457(f) and paragraph (a) of this section do not apply if the date on which there is no substantial risk of forfeiture with respect to compensation deferred under an agreement or arrangement that is not an eligible plan is on or after the date on which there is a transfer of property to which section 83 applies. However, section 457(f) and paragraph (a) of this section apply if the date on which there is no substantial risk of forfeiture with respect to compensation deferred under an agreement or arrangement that is not an eligible plan precedes the date on which there is a transfer of property to which section 83 applies. If deferred compensation payable in property is includible in gross income under section 457(f), then, as provided in section 72, the amount includible in gross income when that property is later transferred or made available to the service provider is the excess of the value of the property at that time over the amount previously included in gross income under section 457(f). 
 
-(2) *Examples.* The provisions of this paragraph (d) are illustrated in the following examples:
+(2) *Examples.* The provisions of this paragraph (d) are illustrated in the following examples: 
 
 Example 1.(i) *Facts.* As part of an arrangement for the deferral of compensation, an eligible employer agrees on December 1, 2002 to pay an individual rendering services for the eligible employer a specified dollar amount on January 15, 2005. The arrangement provides for the payment to be made in the form of property having a fair market value equal to the specified dollar amount. The individual's rights to the payment are not subject to a substantial risk of forfeiture (within the meaning of section 457(f)(3)(B)).
 

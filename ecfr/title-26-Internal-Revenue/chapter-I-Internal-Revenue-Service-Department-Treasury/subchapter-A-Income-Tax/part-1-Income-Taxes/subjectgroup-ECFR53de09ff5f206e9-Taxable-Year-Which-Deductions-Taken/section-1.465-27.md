@@ -1,34 +1,34 @@
 ##### § 1.465-27 Qualified nonrecourse financing.
 
-(a) *In general.* Notwithstanding any provision of section 465(b) or the regulations under section 465(b), for an activity of holding real property, a taxpayer is considered at risk for the taxpayer's share of any qualified nonrecourse financing which is secured by real property used in such activity.
+(a) *In general.* Notwithstanding any provision of section 465(b) or the regulations under section 465(b), for an activity of holding real property, a taxpayer is considered at risk for the taxpayer's share of any qualified nonrecourse financing which is secured by real property used in such activity. 
 
-(b) *Qualified nonrecourse financing secured by real property*—(1) *In general.* For purposes of section 465(b)(6) and this section, the term *qualified nonrecourse financing* means any financing—
+(b) *Qualified nonrecourse financing secured by real property*—(1) *In general.* For purposes of section 465(b)(6) and this section, the term *qualified nonrecourse financing* means any financing— 
 
-(i) Which is borrowed by the taxpayer with respect to the activity of holding real property;
+(i) Which is borrowed by the taxpayer with respect to the activity of holding real property; 
 
-(ii) Which is borrowed by the taxpayer from a qualified person or represents a loan from any federal, state, or local government or instrumentality thereof, or is guaranteed by any federal, state, or local government;
+(ii) Which is borrowed by the taxpayer from a qualified person or represents a loan from any federal, state, or local government or instrumentality thereof, or is guaranteed by any federal, state, or local government; 
 
-(iii) For which no person is personally liable for repayment, taking into account paragraphs (b)(3), (4), and (5) of this section; and
+(iii) For which no person is personally liable for repayment, taking into account paragraphs (b)(3), (4), and (5) of this section; and 
 
-(iv) Which is not convertible debt.
+(iv) Which is not convertible debt. 
 
-(2) *Security for qualified nonrecourse financing*—(i) *Types of property.* For a taxpayer to be considered at risk under section 465(b)(6), qualified nonrecourse financing must be secured only by real property used in the activity of holding real property. For this purpose, however, property that is incidental to the activity of holding real property will be disregarded. In addition, for this purpose, property that is neither real property used in the activity of holding real property nor incidental property will be disregarded if the aggregate gross fair market value of such property is less than 10 percent of the aggregate gross fair market value of all the property securing the financing.
+(2) *Security for qualified nonrecourse financing*—(i) *Types of property.* For a taxpayer to be considered at risk under section 465(b)(6), qualified nonrecourse financing must be secured only by real property used in the activity of holding real property. For this purpose, however, property that is incidental to the activity of holding real property will be disregarded. In addition, for this purpose, property that is neither real property used in the activity of holding real property nor incidental property will be disregarded if the aggregate gross fair market value of such property is less than 10 percent of the aggregate gross fair market value of all the property securing the financing. 
 
-(ii) *Look-through rule for partnerships.* For purposes of paragraph (b)(2)(i) of this section, a borrower shall be treated as owning directly its proportional share of the assets in a partnership in which the borrower owns (directly or indirectly through a chain of partnerships) an equity interest.
+(ii) *Look-through rule for partnerships.* For purposes of paragraph (b)(2)(i) of this section, a borrower shall be treated as owning directly its proportional share of the assets in a partnership in which the borrower owns (directly or indirectly through a chain of partnerships) an equity interest. 
 
-(3) *Personal liability; partial liability.* If one or more persons are personally liable for repayment of a portion of a financing, the portion of the financing for which no person is personally liable may qualify as qualified nonrecourse financing.
+(3) *Personal liability; partial liability.* If one or more persons are personally liable for repayment of a portion of a financing, the portion of the financing for which no person is personally liable may qualify as qualified nonrecourse financing. 
 
-(4) *Partnership liability.* For purposes of section 465(b)(6) and this paragraph (b), the personal liability of any partnership for repayment of a financing is disregarded and, provided the requirements contained in paragraphs (b)(1)(i), (ii), and (iv) of this section are satisfied, the financing will be treated as qualified nonrecourse financing secured by real property if—
+(4) *Partnership liability.* For purposes of section 465(b)(6) and this paragraph (b), the personal liability of any partnership for repayment of a financing is disregarded and, provided the requirements contained in paragraphs (b)(1)(i), (ii), and (iv) of this section are satisfied, the financing will be treated as qualified nonrecourse financing secured by real property if— 
 
-(i) The only persons personally liable to repay the financing are partnerships;
+(i) The only persons personally liable to repay the financing are partnerships; 
 
-(ii) Each partnership with personal liability holds only property described in paragraph (b)(2)(i) of this section (applying the principles of paragraph (b)(2)(ii) of this section in determining the property held by each partnership); and
+(ii) Each partnership with personal liability holds only property described in paragraph (b)(2)(i) of this section (applying the principles of paragraph (b)(2)(ii) of this section in determining the property held by each partnership); and 
 
-(iii) In exercising its remedies to collect on the financing in a default or default-like situation, the lender may proceed only against property that is described in paragraph (b)(2)(i) of this section and that is held by the partnership or partnerships (applying the principles of paragraph (b)(2)(ii) of this section in determining the property held by the partnership or partnerships).
+(iii) In exercising its remedies to collect on the financing in a default or default-like situation, the lender may proceed only against property that is described in paragraph (b)(2)(i) of this section and that is held by the partnership or partnerships (applying the principles of paragraph (b)(2)(ii) of this section in determining the property held by the partnership or partnerships). 
 
-(5) *Disregarded entities.* Principles similar to those described in paragraph (b)(4) of this section shall apply in determining whether a financing of an entity that is disregarded for federal tax purposes under § 301.7701-3 of this chapter is treated as qualified nonrecourse financing secured by real property.
+(5) *Disregarded entities.* Principles similar to those described in paragraph (b)(4) of this section shall apply in determining whether a financing of an entity that is disregarded for federal tax purposes under § 301.7701-3 of this chapter is treated as qualified nonrecourse financing secured by real property. 
 
-(6) *Examples.* The following examples illustrate the rules of this section:
+(6) *Examples.* The following examples illustrate the rules of this section: 
 
 Example 1. Personal liability of a partnership; incidental property.(i) X is a limited liability company that is classified as a partnership for federal tax purposes. X engages only in the activity of holding real property. In addition to real property used in the activity of holding real property, X owns office equipment, a truck, and maintenance equipment that it uses to support the activity of holding real property. X borrows $500 to use in the activity. X is personally liable on the financing, but no member of X and no other person is liable for repayment of the financing under local law. The lender may proceed against all of X's assets if X defaults on the financing.
 
@@ -42,6 +42,6 @@ Example 4. Personal liability; tiered partnerships.The facts are the same as in 
 
 (ii) X is disregarded so that the assets and liabilities of X are treated as the assets and liabilities of A. However, A is not personally liable for the $500 liability. Provided that the requirements contained in paragraphs (b)(1)(i), (ii), and (iv) of this section are satisfied, the financing will be treated as qualified nonrecourse financing secured by real property with respect to A.
 
-(c) *Effective date.* This section is effective for any financing incurred on or after August 4, 1998. Taxpayers, however, may apply this section retroactively for financing incurred before August 4, 1998.
+(c) *Effective date.* This section is effective for any financing incurred on or after August 4, 1998. Taxpayers, however, may apply this section retroactively for financing incurred before August 4, 1998. 
 
 \[T.D. 8777, 63 FR 41421, Aug. 4, 1998\]

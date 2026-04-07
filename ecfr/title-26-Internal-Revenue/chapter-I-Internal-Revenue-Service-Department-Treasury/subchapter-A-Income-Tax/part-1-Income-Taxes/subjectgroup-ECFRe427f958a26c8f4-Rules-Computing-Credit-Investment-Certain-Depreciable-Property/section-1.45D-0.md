@@ -1,312 +1,312 @@
 ##### § 1.45D-0 Table of contents.
 
-This section lists the paragraphs contained in § 1.45D-1.
+This section lists the paragraphs contained in § 1.45D-1. 
 
-(a) Current year credit.
+(a) Current year credit. 
 
-(b) Allowance of credit.
+(b) Allowance of credit. 
 
-(1) In general.
+(1) In general. 
 
-(2) Credit allowance date.
+(2) Credit allowance date. 
 
-(3) Applicable percentage.
+(3) Applicable percentage. 
 
-(4) Amount paid at original issue.
+(4) Amount paid at original issue. 
 
-(c) Qualified equity investment.
+(c) Qualified equity investment. 
 
-(1) In general.
+(1) In general. 
 
-(2) Equity investment.
+(2) Equity investment. 
 
-(3) Equity investments made prior to allocation.
+(3) Equity investments made prior to allocation. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Exceptions.
+(ii) Exceptions. 
 
-(A) Allocation applications submitted by August 29, 2002.
+(A) Allocation applications submitted by August 29, 2002. 
 
-(B) Other allocation applications.
+(B) Other allocation applications. 
 
-(iii) Failure to receive allocation.
+(iii) Failure to receive allocation. 
 
-(iv) Initial investment date.
+(iv) Initial investment date. 
 
-(4) Limitations.
+(4) Limitations. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Allocation limitation.
+(ii) Allocation limitation. 
 
-(5) Substantially all.
+(5) Substantially all. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Direct-tracing calculation.
+(ii) Direct-tracing calculation. 
 
-(iii) Safe harbor calculation.
+(iii) Safe harbor calculation. 
 
-(iv) Time limit for making investments.
+(iv) Time limit for making investments. 
 
-(v) Reduced substantially-all percentage.
+(v) Reduced substantially-all percentage. 
 
-(vi) Examples.
+(vi) Examples. 
 
-(6) Aggregation of equity investments.
+(6) Aggregation of equity investments. 
 
-(7) Subsequent purchasers.
+(7) Subsequent purchasers. 
 
-(8) Non-real estate qualified equity investment.
+(8) Non-real estate qualified equity investment. 
 
-(d) Qualified low-income community investments.
+(d) Qualified low-income community investments. 
 
-(1) In general.
+(1) In general. 
 
-(i) Investment in a qualified active low-income community business or a non-real estate qualified active low-income community business.
+(i) Investment in a qualified active low-income community business or a non-real estate qualified active low-income community business. 
 
-(ii) Purchase of certain loans from CDEs.
+(ii) Purchase of certain loans from CDEs. 
 
-(A) In general.
+(A) In general. 
 
-(B) Certain loans made before CDE certification.
+(B) Certain loans made before CDE certification. 
 
-(C) Intermediary CDEs.
+(C) Intermediary CDEs. 
 
-(D) Examples.
+(D) Examples. 
 
-(iii) Financial counseling and other services.
+(iii) Financial counseling and other services. 
 
-(iv) Investments in other CDEs.
+(iv) Investments in other CDEs. 
 
-(A) In general.
+(A) In general. 
 
-(B) Examples.
+(B) Examples. 
 
-(2) Payments of, or for, capital, equity or principal.
+(2) Payments of, or for, capital, equity or principal. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Subsequent reinvestments.
+(ii) Subsequent reinvestments. 
 
-(iii) Special rule for loans.
+(iii) Special rule for loans. 
 
-(iv) Example.
+(iv) Example. 
 
-(3) Special rule for reserves.
+(3) Special rule for reserves. 
 
-(4) Qualified active low-income community business.
+(4) Qualified active low-income community business. 
 
-(i) In general.
+(i) In general. 
 
-(A) Gross-income requirement.
+(A) Gross-income requirement. 
 
-(B) Use of tangible property.
+(B) Use of tangible property. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Example.
+(*2*) Example. 
 
-(C) Services performed.
+(C) Services performed. 
 
-(D) Collectibles.
+(D) Collectibles. 
 
-(E) Nonqualified financial property.
+(E) Nonqualified financial property. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Construction of real property.
+(*2*) Construction of real property. 
 
-(ii) Proprietorships.
+(ii) Proprietorships. 
 
-(iii) Portions of business.
+(iii) Portions of business. 
 
-(A) In general.
+(A) In general. 
 
-(B) Examples.
+(B) Examples. 
 
-(iv) Active conduct of a trade or business.
+(iv) Active conduct of a trade or business. 
 
-(A) Special rule.
+(A) Special rule. 
 
-(B) Example.
+(B) Example. 
 
-(5) Qualified business.
+(5) Qualified business. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Rental of real property.
+(ii) Rental of real property. 
 
-(iii) Exclusions.
+(iii) Exclusions. 
 
-(A) Trades or businesses involving intangibles.
+(A) Trades or businesses involving intangibles. 
 
-(B) Certain other trades or businesses.
+(B) Certain other trades or businesses. 
 
-(C) Farming.
+(C) Farming. 
 
-(6) Qualifications.
+(6) Qualifications. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Control.
+(ii) Control. 
 
-(A) In general.
+(A) In general. 
 
-(B) Definition of control.
+(B) Definition of control. 
 
-(C) Disregard of control.
+(C) Disregard of control. 
 
-(7) Financial counseling and other services.
+(7) Financial counseling and other services. 
 
-(8) Special rule for certain loans.
+(8) Special rule for certain loans. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Example.
+(ii) Example. 
 
-(9) Targeted populations.
+(9) Targeted populations. 
 
-(i) Low-income persons.
+(i) Low-income persons. 
 
-(A) Definition.
+(A) Definition. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Area median family income.
+(*2*) Area median family income. 
 
-(*3*) Individual's family income.
+(*3*) Individual's family income. 
 
-(B) Qualified active low-income community business requirements for low-income targeted populations.
+(B) Qualified active low-income community business requirements for low-income targeted populations. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Employee.
+(*2*) Employee. 
 
-(*3*) Owner.
+(*3*) Owner. 
 
-(*4*) Derived from.
+(*4*) Derived from. 
 
-(*5*) Fair market value of sales, rentals, services, or other transactions.
+(*5*) Fair market value of sales, rentals, services, or other transactions. 
 
-(C) 120-percent-income restriction.
+(C) 120-percent-income restriction. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Population census tract location.
+(*2*) Population census tract location. 
 
-(D) Rental of real property for low-income targeted populations.
+(D) Rental of real property for low-income targeted populations. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Special rule for entities whose sole business is the rental to others of real property.
+(*2*) Special rule for entities whose sole business is the rental to others of real property. 
 
-(ii) Individuals who otherwise lack adequate access to loans or equity investments.
+(ii) Individuals who otherwise lack adequate access to loans or equity investments. 
 
-(A) In general.
+(A) In general. 
 
-(B) GO Zone Targeted Population.
+(B) GO Zone Targeted Population. 
 
-(C) Qualified active low-income community business requirements for the GO Zone Targeted Population.
+(C) Qualified active low-income community business requirements for the GO Zone Targeted Population. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Location.
+(*2*) Location. 
 
-(*i*) In general.
+(*i*) In general. 
 
-(*ii*) Determination.
+(*ii*) Determination. 
 
-(D) 200-percent-income restriction.
+(D) 200-percent-income restriction. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Population census tract location.
+(*2*) Population census tract location. 
 
-(E) Rental of real property for the GO Zone Targeted Population.
+(E) Rental of real property for the GO Zone Targeted Population. 
 
-(10) Non-real estate qualified active low-income community business.
+(10) Non-real estate qualified active low-income community business. 
 
-(i) Definition.
+(i) Definition. 
 
-(ii) Payments of, or for, capital, equity or principal with respect to a non-real estate qualified active low-income community business.
+(ii) Payments of, or for, capital, equity or principal with respect to a non-real estate qualified active low-income community business. 
 
-(A) In general.
+(A) In general. 
 
-(B) Seventh year of the 7-year credit period.
+(B) Seventh year of the 7-year credit period. 
 
-(C) Amounts received from a qualifying entity.
+(C) Amounts received from a qualifying entity. 
 
-(D) Definition of qualifying entity.
+(D) Definition of qualifying entity. 
 
-(e) Recapture.
+(e) Recapture. 
 
-(1) In general.
+(1) In general. 
 
-(2) Recapture event.
+(2) Recapture event. 
 
-(3) Redemption.
+(3) Redemption. 
 
-(i) Equity investment in a C corporation.
+(i) Equity investment in a C corporation. 
 
-(ii) Equity investment in an S corporation.
+(ii) Equity investment in an S corporation. 
 
-(iii) Capital interest in a partnership.
+(iii) Capital interest in a partnership. 
 
-(4) Bankruptcy.
+(4) Bankruptcy. 
 
-(5) Waiver of requirement or extension of time.
+(5) Waiver of requirement or extension of time. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Manner for requesting a waiver or extension.
+(ii) Manner for requesting a waiver or extension. 
 
-(iii) Terms and conditions.
+(iii) Terms and conditions. 
 
-(6) Cure period.
+(6) Cure period. 
 
-(7) Example.
+(7) Example. 
 
-(f) Basis reduction.
+(f) Basis reduction. 
 
-(1) In general.
+(1) In general. 
 
-(2) Adjustment in basis of interest in partnership or S corporation.
+(2) Adjustment in basis of interest in partnership or S corporation. 
 
-(g) Other rules.
+(g) Other rules. 
 
-(1) Anti-abuse.
+(1) Anti-abuse. 
 
-(2) Reporting requirements.
+(2) Reporting requirements. 
 
-(i) Notification by CDE to taxpayer.
+(i) Notification by CDE to taxpayer. 
 
-(A) Allowance of new markets tax credit.
+(A) Allowance of new markets tax credit. 
 
-(B) Recapture event.
+(B) Recapture event. 
 
-(ii) CDE reporting requirements to Secretary.
+(ii) CDE reporting requirements to Secretary. 
 
-(iii) Manner of claiming new markets tax credit.
+(iii) Manner of claiming new markets tax credit. 
 
-(iv) Reporting recapture tax.
+(iv) Reporting recapture tax. 
 
-(3) Other Federal tax benefits.
+(3) Other Federal tax benefits. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Low-income housing credit.
+(ii) Low-income housing credit. 
 
-(4) Bankruptcy of CDE.
+(4) Bankruptcy of CDE. 
 
-(h) Effective/applicability dates.
+(h) Effective/applicability dates. 
 
-(1) In general.
+(1) In general. 
 
-(2) Exception for certain provisions.
+(2) Exception for certain provisions. 
 
-(3) Targeted populations.
+(3) Targeted populations. 
 
 (4) Investments in non-real estate businesses.
 

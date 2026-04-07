@@ -1,16 +1,16 @@
 ##### § 1.280F-7 Property leased after December 31, 1986.
 
-(a) *Inclusions in income of lessees of passenger automobiles leased after December 31, 1986*—(1) *In general.* If a taxpayer leases a passenger automobile after December 31, 1986, the taxpayer must include in gross income an inclusion amount determined under this paragraph (a), for each taxable year during which the taxpayer leases the automobile. This paragraph (a) applies only to passenger automobiles for which the taxpayer's lease term begins after December 31, 1986. See §§ 1.280F-5T(d) and 1.280F-5T(e) for rules on determining inclusion amounts for passenger automobiles for which the taxpayer's lease term begins before January 1, 1987. See § 1.280F-5T(h)(2) for the definition of fair market value.
+(a) *Inclusions in income of lessees of passenger automobiles leased after December 31, 1986*—(1) *In general.* If a taxpayer leases a passenger automobile after December 31, 1986, the taxpayer must include in gross income an inclusion amount determined under this paragraph (a), for each taxable year during which the taxpayer leases the automobile. This paragraph (a) applies only to passenger automobiles for which the taxpayer's lease term begins after December 31, 1986. See §§ 1.280F-5T(d) and 1.280F-5T(e) for rules on determining inclusion amounts for passenger automobiles for which the taxpayer's lease term begins before January 1, 1987. See § 1.280F-5T(h)(2) for the definition of fair market value. 
 
-(2) *Inclusion Amount.* For any passenger automobile leased after December 31, 1986, the inclusion amount for each taxable year during which the automobile is leased is determined as follows:
+(2) *Inclusion Amount.* For any passenger automobile leased after December 31, 1986, the inclusion amount for each taxable year during which the automobile is leased is determined as follows: 
 
-(i) For the appropriate range of fair market values in the applicable table, select the dollar amount from the column for the taxable year in which the automobile is used under the lease (but for the last taxable year during any lease that does not begin and end in the same taxable year, use the dollar amount for the preceding taxable year).
+(i) For the appropriate range of fair market values in the applicable table, select the dollar amount from the column for the taxable year in which the automobile is used under the lease (but for the last taxable year during any lease that does not begin and end in the same taxable year, use the dollar amount for the preceding taxable year). 
 
-(ii) Prorate the dollar amount for the number of days of the lease term included in the taxable year.
+(ii) Prorate the dollar amount for the number of days of the lease term included in the taxable year. 
 
-(iii) Multiply the prorated dollar amount by the business/investment use (as defined in § 1.280F-6(d)(3)(i)) for the taxable year.
+(iii) Multiply the prorated dollar amount by the business/investment use (as defined in § 1.280F-6(d)(3)(i)) for the taxable year. 
 
-(iv) The following table is the applicable table in the case of a passenger automobile leased after December 31, 1986, and before January 1, 1989:
+(iv) The following table is the applicable table in the case of a passenger automobile leased after December 31, 1986, and before January 1, 1989: 
 
 Dollar Amounts for Automobiles With a Lease Term Beginning in Calendar Year 1987 or 1988
 | Fair market value of automobile | Taxable year during lease |       |
@@ -103,9 +103,9 @@ Dollar Amounts for Automobiles With a Lease Term Beginning in Calendar Year 1987
 | 180,000                         | 190,000                   | 2,394 |
 | 190,000                         | 200,000                   | 2,533 |
 
-(v) The applicable table in the case of a passenger automobile first leased after December 31, 1988, will be contained in a revenue ruling or revenue procedure published in the Internal Revenue Bulletin.
+(v) The applicable table in the case of a passenger automobile first leased after December 31, 1988, will be contained in a revenue ruling or revenue procedure published in the Internal Revenue Bulletin. 
 
-(3) *Example.* The following example illustrates the application of this paragraph (a):
+(3) *Example.* The following example illustrates the application of this paragraph (a): 
 
 Example.On April 1, 1987, A, a calendar year taxpayer, leases and places in service a passenger automobile with a fair market value of $31,500. The lease is to be for a period of three years. During taxable years 1987 and 1988, A uses the automobile exclusively in a trade or business. During 1989 and 1990, A's business/investment use is 45 percent. The appropriate dollar amounts from the table in paragraph (a)(2)(iv) of this section are $260 for 1987 (first taxable year during the lease), $568 for 1988 (second taxable year during the lease), $842 for 1989 (third taxable year during the lease), and $842 for 1990. Since 1990 is the last taxable year during the lease, the dollar amount for the preceding year (the third year) is used, rather than the dollar amount for the fourth year. For taxable years 1987 through 1990, A's inclusion amounts are determined as follows:
 
@@ -116,17 +116,17 @@ Example.On April 1, 1987, A, a calendar year taxpayer, leases and places in serv
 | 1989     | 842           | 365/365   | 45                     | 379              |
 | 1990     | 842           | 90/365    | 45                     | 93               |
 
-(b) *Inclusions in income of lessees of listed property (other than passenger automobiles) leased after December 31, 1986*—(1) *In general.* If listed property other than a passenger automobile is not used predominantly in a qualified business use in any taxable year in which such property is leased, the lessee must add an inclusion amount to gross income in the first taxable year in which such property is not so predominantly used (and only in that year). This year is the first taxable year in which the business use percentage (as defined in § 1.280F-6(d)(1)) of the property is 50 percent or less. This inclusion amount is determined under this paragraph (b) for property for which the taxpayer's lease term begins after December 31, 1986 (and under § 1.280F-5T(f) for property for which the taxpayer's lease term begins before January 1, 1987). See also § 1.280F-5T(g).
+(b) *Inclusions in income of lessees of listed property (other than passenger automobiles) leased after December 31, 1986*—(1) *In general.* If listed property other than a passenger automobile is not used predominantly in a qualified business use in any taxable year in which such property is leased, the lessee must add an inclusion amount to gross income in the first taxable year in which such property is not so predominantly used (and only in that year). This year is the first taxable year in which the business use percentage (as defined in § 1.280F-6(d)(1)) of the property is 50 percent or less. This inclusion amount is determined under this paragraph (b) for property for which the taxpayer's lease term begins after December 31, 1986 (and under § 1.280F-5T(f) for property for which the taxpayer's lease term begins before January 1, 1987). See also § 1.280F-5T(g). 
 
-(2) *Inclusion amount.* The inclusion amount for any listed property (other than a passenger automobile) leased after December 31, 1986, is the sum of the amounts determined under subdivisions (i) and (ii) of this subparagraph (2).
+(2) *Inclusion amount.* The inclusion amount for any listed property (other than a passenger automobile) leased after December 31, 1986, is the sum of the amounts determined under subdivisions (i) and (ii) of this subparagraph (2). 
 
-(i) The amount determined under this subdivision (i) is the product of the following amounts:
+(i) The amount determined under this subdivision (i) is the product of the following amounts: 
 
-(A) The fair market value (as defined in § 1.280F-5T(h)(2)) of the property,
+(A) The fair market value (as defined in § 1.280F-5T(h)(2)) of the property, 
 
-(B) The business/investment use (as defined in § 1.280F-6(d)(3)(i)) for the first taxable year in which the business use percentage (as defined in § 1.280F-6(d)(1)) is 50 percent or less, and
+(B) The business/investment use (as defined in § 1.280F-6(d)(3)(i)) for the first taxable year in which the business use percentage (as defined in § 1.280F-6(d)(1)) is 50 percent or less, and 
 
-(C) The applicable percentage from the following table:
+(C) The applicable percentage from the following table: 
 
 | Type of property                                                                                                                              | First taxable year during lease in which business use percentage is 50% or less |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -134,13 +134,13 @@ Example.On April 1, 1987, A, a calendar year taxpayer, leases and places in serv
 | Property with a 7- to 10-year recovery period under the alternative depreciation system (such as recreation property)                         | 3.9                                                                             |
 | Property with a recovery period of more than 10 years under the alternative depreciation system (such as certain property with no class life) | 6.6                                                                             |
 
-(ii) The amount determined under this subdivision (ii) is the product of the following amounts:
+(ii) The amount determined under this subdivision (ii) is the product of the following amounts: 
 
-(A) The fair market value of the property,
+(A) The fair market value of the property, 
 
-(B) The average of the business/investment use for all taxable years (in which such property is leased) that precede the first taxable year in which the business use percentage is 50 percent or less, and
+(B) The average of the business/investment use for all taxable years (in which such property is leased) that precede the first taxable year in which the business use percentage is 50 percent or less, and 
 
-(C) The applicable percentage from the following table:
+(C) The applicable percentage from the following table: 
 
 | Type of property                                                                                                                              | First taxable year during lease in which business use percentage is 50% or less |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -148,6 +148,6 @@ Example.On April 1, 1987, A, a calendar year taxpayer, leases and places in serv
 | Property with a 7- to 10-year recovery period under the alternative depreciation system (such as recreation property)                         | 0.0                                                                             |
 | Property with a recovery period of more than 10 years under the alternative depreciation system (such as certain property with no class life) | 0.0                                                                             |
 
-(3) *Example.* The following example illustrates the application of this paragraph (b):
+(3) *Example.* The following example illustrates the application of this paragraph (b): 
 
 Example.On February 1, 1987, B, a calendar year taxpayer, leases and places in service a computer with a fair market value of $3,000. The lease is to be for a period of two years. B's qualified business use of the property, which is the only business/investment use, is 80 percent in taxable year 1987, 40 percent in taxable year 1988, and 35 percent in taxable year 1989. B must add an inclusion amount to gross income for taxable year 1988, the first taxable year in which B does not use the computer predominantly for business (*i.e.,* the first taxable year in which B's business use percentage is 50 percent or less). Since 1988 is the second taxable year during the lease, and since the computer has a 5-year recovery period under the General and Alternative Depreciation Systems, the applicable percentage from the table in subdivision (i) of paragraph (b)(2) is −7.2%, and the applicable percentage from the table in subdivision (ii) is 10%. B's inclusion amount is $154, which is the sum of the amounts determined under subdivisions (i) and (ii) of subparagraph (b)(2) of this paragraph. The amount determined under subdivision (i) is −$86 \[$3,000 × 40% × (−7.2%)\], and the amount determined under subdivision (ii) is $240 \[$3,000 × 80% × 10%\].\[T.D. 8218, 53 FR 29881, Aug. 9, 1988; 53 FR 32821, Aug. 26, 1988, as amended by T.D. 8298, 55 FR 13370, Apr. 12, 1990; Redesignated and amended at T.D. 8473, 58 FR 19060, Apr. 12, 1993; T.D. 9133, 69 FR 35515, June 25, 2004; T.D. 9483, 75 FR 27937, May 19, 2010\]

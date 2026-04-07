@@ -1,6 +1,6 @@
 ##### § 1.666(c)-2A Illustration of the provisions of section 666 (a), (b), and (c).
 
-The application of the provisions of §§ 1.666(a)-1A, 1.666(b)-1A, and 1.666(c)-1A may be illustrated by the following examples:
+The application of the provisions of §§ 1.666(a)-1A, 1.666(b)-1A, and 1.666(c)-1A may be illustrated by the following examples: 
 
 Example 1.(a) A trust created on January 1, 1974, makes accumulation distributions as follows: 1979$7,000 198026,000For 1974 through 1978, the undistributed portion of distributable net income, taxes imposed on the trust attributable to the undistributed net income, and undistributed net income are as follows:
 
@@ -14,7 +14,7 @@ Example 1.(a) A trust created on January 1, 1974, makes accumulation distributio
 
 The trust has no undistributed capital gain. (b) Since the entire amount of the accumulation distribution for 1979 ($7,000) is less than the undistributed net income for 1974 ($8,700), an additional amount of $2,736 (7,000/8,700 × $3,400) is deemed distributed under section 666(c).
 
-(c) In allocating the accumulation distribution for 1980, the amount of undistributed net income for 1974 will reflect the accumulation distribution for 1979. The undistributed net income for 1974 will then be $1,700 and the taxes imposed on the trust for 1974 will be $664, determined as follows:
+(c) In allocating the accumulation distribution for 1980, the amount of undistributed net income for 1974 will reflect the accumulation distribution for 1979. The undistributed net income for 1974 will then be $1,700 and the taxes imposed on the trust for 1974 will be $664, determined as follows: 
 
 | Undistributed net income as of the close of 1974                                                                       | $8,700 |
 | Less: Accumulation distribution (1979)                                                                                 | 7,000  |
@@ -34,7 +34,7 @@ The trust has no undistributed capital gain. (b) Since the entire amount of the 
 
 Example 2.(a) Under the terms of a trust instrument, the trustee has discretion to accumulate or distribute the income to X and to invade corpus for the benefit of X. The entire income of the trust is from royalties. Both X and the trust report on the calendar year basis. All of the income for 1974 was accumulated. The distributable net income of the trust for the taxable year 1974 is $20,100 and the income taxes paid by the trust for 1974 attributable to the undistributed net income are $7,260. All of the income for 1975 and 1976 was distributed and in addition the trustee made accumulation distributions within the meaning of section 665(b) of $5,420 for each year.
 
-(b) The undistributed net income of the trust determined under section 665(a) as of the close of 1974, is $12,840, computed as follows:
+(b) The undistributed net income of the trust determined under section 665(a) as of the close of 1974, is $12,840, computed as follows: 
 
 | Distributable net income                                                      | $20,100 |
 | Less: Taxes imposed on the trust attributable to the undistributed net income | 7,260   |
