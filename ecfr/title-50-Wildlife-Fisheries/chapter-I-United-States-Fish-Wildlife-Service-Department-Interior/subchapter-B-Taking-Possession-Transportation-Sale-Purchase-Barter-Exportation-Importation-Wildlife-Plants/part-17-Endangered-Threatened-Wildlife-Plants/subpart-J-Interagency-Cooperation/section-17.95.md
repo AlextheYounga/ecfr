@@ -1,5 +1,7 @@
 ##### § 17.95 Critical habitat - fish and wildlife.
 
+Link to an amendment published at 86 FR 67360, Nov. 26, 2021.
+
 (a) *Mammals.*
 
 Indiana Bat (*Myotis sodalis*)
