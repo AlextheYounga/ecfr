@@ -2,7 +2,7 @@
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (DEC 2023)
+Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (FEB 2024)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -46,7 +46,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (vi) 52.233-1, Disputes (MAY 2014).
 
-(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (DEC 2023).
+(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (FEB 2024).
 
 (viii) 52.253-1, Computer Generated Forms (JAN 1991).
 
@@ -58,7 +58,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (ii) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (JUN 2020) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at or above the threshold specified in FAR 4.1403(a) on the date of award of this contract).
 
-(iii) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (NOV 2023) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in 2.101 on the date of award of this contract).
+(iii) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (FEB 2024) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in 2.101 on the date of award of this contract).
 
 (iv) 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment (JUN 2020) (41 U.S.C. chapter 65) (Applies to supply contracts over the threshold specified in FAR 22.602 on the date of award of this contract, in the United States, Puerto Rico, or the U.S. Virgin Islands).
 

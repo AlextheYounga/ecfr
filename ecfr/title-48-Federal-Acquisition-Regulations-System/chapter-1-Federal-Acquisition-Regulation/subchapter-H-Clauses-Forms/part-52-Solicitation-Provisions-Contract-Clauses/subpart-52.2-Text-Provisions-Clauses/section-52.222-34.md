@@ -48,7 +48,7 @@ Project Labor Agreement (JAN 2024)
 
 (f) *Subcontracts.* The Contractor shall require subcontractors engaged in construction on the construction project to agree to any project labor agreement negotiated by the prime contractor pursuant to this clause, and shall include the substance of paragraphs (d) through (f) of this clause in subcontracts with subcontractors engaged in construction on the construction project.
 
-*Alternate II* (Jan 2024). As prescribed in 22.505(b)(3), substitute the following paragraphs (b) through (f) for paragraphs (b) through (f) of the basic clause:
+*Alternate II* (JAN 2024). As prescribed in 22.505(b)(3), substitute the following paragraphs (b) through (f) for paragraphs (b) through (f) of the basic clause:
 
 (b) When notified by the agency (*e.g.,* by the notice of intent to place an order under 16.505(b)(1)) that this order will use a project labor agreement, the Contractor shall negotiate or become a party to a project labor agreement with one or more labor organizations for the term of the order. The Contracting Officer shall require that an executed copy of the project labor agreement be submitted to the agency—
 

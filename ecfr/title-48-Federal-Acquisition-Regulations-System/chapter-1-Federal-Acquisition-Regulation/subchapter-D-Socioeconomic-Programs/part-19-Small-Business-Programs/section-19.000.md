@@ -6,7 +6,7 @@
 
 (2) The respective roles of executive agencies and the Small Business Administration (SBA) in implementing the programs;
 
-(3) Setting acquisitions aside, in total or in part, for exclusive competitive participation by small business, 8(a) participants, HUBZone small business concerns, service-disabled veteran-owned small business concerns, and economically disadvantaged women-owned small business (EDWOSB) concerns and women-owned small business (WOSB) concerns eligible under the WOSB Program;
+(3) Setting acquisitions aside, in total or in part, for exclusive competitive participation by small business, 8(a) participants, HUBZone small business concerns, service-disabled veteran-owned small business (SDVOSB) concerns eligible under the SDVOSB Program, and economically disadvantaged women-owned small business (EDWOSB) concerns and women-owned small business (WOSB) concerns eligible under the WOSB Program;
 
 (4) The certificate of competency program;
 

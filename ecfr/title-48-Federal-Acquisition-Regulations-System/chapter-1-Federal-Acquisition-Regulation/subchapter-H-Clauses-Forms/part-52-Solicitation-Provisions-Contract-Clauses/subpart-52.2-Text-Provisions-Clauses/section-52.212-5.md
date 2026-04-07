@@ -2,7 +2,7 @@
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services (DEC 2023)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services (FEB 2024)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
 
@@ -66,7 +66,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-7.
 
-\_\_ (20) 52.219-8, Utilization of Small Business Concerns (SEP 2023) (15 U.S.C. 637(d)(2) and (3)).
+\_\_ (20) 52.219-8, Utilization of Small Business Concerns (FEB 2024) (15 U.S.C. 637(d)(2) and (3)).
 
 \_\_ (21)(i) 52.219-9, Small Business Subcontracting Plan (SEP 2023) (15 U.S.C. 637(d)(4)).
 
@@ -86,9 +86,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (24) 52.219-16, Liquidated Damages—Subcontracting Plan (SEP 2021) (15 U.S.C. 637(d)(4)(F)(i)).
 
-\_\_ (25) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (OCT 2022) (15 U.S.C. 657f).
+\_\_ (25) 52.219-27, Notice of Set-Aside for, or Sole-Source Award to, Service-Disabled Veteran-Owned Small Business (SDVOSB) Concerns Eligible Under the SDVOSB Program (FEB 2024) (15 U.S.C. 657f).
 
-\_\_ (26)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (SEP 2023) (15 U.S.C. 632(a)(2)).
+\_\_ (26)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (FEB 2024) (15 U.S.C. 632(a)(2)).
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-28.
 
@@ -102,7 +102,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (31) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-\_\_ (32) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (NOV 2023) (E.O. 13126).
+\_\_ (32) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (FEB 2024) (E.O. 13126).
 
 \_\_ (33) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -170,7 +170,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (iii) Alternate II (DEC 2022) of 52.225-3.
 
-\_\_ (iv) Alternate III (NOV 2023) of 52.225-3.
+\_\_ (iv) Alternate III (FEB 2024) of 52.225-3.
 
 \_\_ (v) Alternate IV (OCT 2022) of 52.225-3.
 
@@ -252,7 +252,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (B) Alternate I (DEC 2023) of 52.204-30.
 
-(viii) 52.219-8, Utilization of Small Business Concerns (SEP 2023) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(viii) 52.219-8, Utilization of Small Business Concerns (FEB 2024) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (ix) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -300,7 +300,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (DEC 2023). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (FEB 2024). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to—
 
@@ -330,7 +330,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (*2*) Alternate I (DEC 2023) of 52.204-30.
 
-(H) 52.219-8, Utilization of Small Business Concerns (SEP 2023) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(H) 52.219-8, Utilization of Small Business Concerns (FEB 2024) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (I) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
