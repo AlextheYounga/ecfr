@@ -1,5 +1,7 @@
 ##### § 1.17 Patent application and reexamination processing fees.
 
+Link to an amendment published at 82 FR 52814, November 14, 2017.
+
 (a) Extension fees pursuant to § 1.136(a):
 
 (1) For reply within first month:
