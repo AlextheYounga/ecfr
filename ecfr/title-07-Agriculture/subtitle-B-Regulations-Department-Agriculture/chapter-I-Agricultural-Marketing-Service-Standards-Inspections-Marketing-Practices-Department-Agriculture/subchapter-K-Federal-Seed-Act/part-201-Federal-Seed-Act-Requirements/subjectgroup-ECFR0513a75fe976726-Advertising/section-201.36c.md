@@ -1,14 +1,14 @@
 ##### § 201.36c Hermetically-sealed containers.
 
-The 5-month limitation on the date of test in §§ 201.22 and 201.30a shall not apply when the following conditions have been met: 
+The 5-month limitation on the date of test in §§ 201.22 and 201.30a shall not apply when the following conditions have been met:
 
-(a) The seed was packaged within 9 months after harvest; 
+(a) The seed was packaged within 9 months after harvest;
 
-(b) The container used does not allow water vapor penetration through any wall, including the seals, greater than 0.05 grams of water per 24 hours per 100 square inches of surface at 100 °F. with a relative humidity on one side of 90 percent and on the other side of 0 percent. Water vapor penetration or WVP is measured by the standards of the U.S. Bureau of Standards as: 
+(b) The container used does not allow water vapor penetration through any wall, including the seals, greater than 0.05 grams of water per 24 hours per 100 square inches of surface at 100 °F. with a relative humidity on one side of 90 percent and on the other side of 0 percent. Water vapor penetration or WVP is measured by the standards of the U.S. Bureau of Standards as:
 
 gm.H2O / 24 hr. / 100 sq. in. / 100 °F. / 90% RH V.0% RH;
 
-(c) The seed in the container does not exceed the percentage of moisture, on a wet weight basis, as listed below: 
+(c) The seed in the container does not exceed the percentage of moisture, on a wet weight basis, as listed below:
 
 | Agricultural seeds  | Percent |
 | ------------------- | ------- |
@@ -63,8 +63,8 @@ gm.H2O / 24 hr. / 100 sq. in. / 100 °F. / 90% RH V.0% RH;
 | Watermelon       | 6.5     |
 | All others       | 6.0     |
 
-(d) The container is conspicuously labeled in not less than 8 point type to indicate (1) that the container is hermetically sealed, (2) that the seed has been preconditioned as to moisture content, and (3) the calendar month and year in which the germination test was completed. 
+(d) The container is conspicuously labeled in not less than 8 point type to indicate (1) that the container is hermetically sealed, (2) that the seed has been preconditioned as to moisture content, and (3) the calendar month and year in which the germination test was completed.
 
-(e) The percentage of germination of vegetable seed at the time of packaging was equal to or above the standards in § 201.31. 
+(e) The percentage of germination of vegetable seed at the time of packaging was equal to or above the standards in § 201.31.
 
 \[32 FR 12780, Sept. 6, 1967, as amended at 59 FR 64491, Dec. 14, 1994\]

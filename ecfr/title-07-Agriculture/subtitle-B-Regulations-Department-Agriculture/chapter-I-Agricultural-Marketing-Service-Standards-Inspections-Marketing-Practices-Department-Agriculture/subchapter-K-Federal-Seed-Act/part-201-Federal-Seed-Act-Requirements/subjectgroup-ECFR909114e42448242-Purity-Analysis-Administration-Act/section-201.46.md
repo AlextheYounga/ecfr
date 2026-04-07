@@ -1,24 +1,24 @@
 ##### § 201.46 Weight of working sample.
 
-(a) *Unmixed seed.* The working samples for purity analysis and noxiousweed seed examination of unmixed seed shall be at least the weights set forth in table 1. 
+(a) *Unmixed seed.* The working samples for purity analysis and noxiousweed seed examination of unmixed seed shall be at least the weights set forth in table 1.
 
-(b) Mixtures consisting of one predominant kind of seed or groups of kinds of similar size. The weights of the purity and noxious-weed seed working samples in this category shall be determined by the kind or group of kinds which comprise more than 50 percent of the sample. 
+(b) Mixtures consisting of one predominant kind of seed or groups of kinds of similar size. The weights of the purity and noxious-weed seed working samples in this category shall be determined by the kind or group of kinds which comprise more than 50 percent of the sample.
 
-(c) *Mixtures consisting of two or more kinds or groups of kinds of different sizes, none of which comprise over 50 percent of the sample.* The weights of the purity working samples in this category shall be the weighted averages (to the nearest half gram) of the weights listed in table 1 for each of the kinds which comprise the sample determined by the following method: (1) Multiply the percentage of each component in the mixture (rounded off to the nearest whole number) by the sample sizes specified in column 2, table 1, (2) add all these products, (3) total the percentages of all components of the mixtures, and (4) divide the sum in paragraph (c)(2) of this section by the total in paragraph (c)(3) of this section. If the approximate percentage of the components of a mixture are not known they may be estimated. The weight of the noxious-weed seed working sample shall be determined by multiplying the weight of the purity working sample by 10 or by calculating the weighted average in the same manner described above for the purity working sample. 
+(c) *Mixtures consisting of two or more kinds or groups of kinds of different sizes, none of which comprise over 50 percent of the sample.* The weights of the purity working samples in this category shall be the weighted averages (to the nearest half gram) of the weights listed in table 1 for each of the kinds which comprise the sample determined by the following method: (1) Multiply the percentage of each component in the mixture (rounded off to the nearest whole number) by the sample sizes specified in column 2, table 1, (2) add all these products, (3) total the percentages of all components of the mixtures, and (4) divide the sum in paragraph (c)(2) of this section by the total in paragraph (c)(3) of this section. If the approximate percentage of the components of a mixture are not known they may be estimated. The weight of the noxious-weed seed working sample shall be determined by multiplying the weight of the purity working sample by 10 or by calculating the weighted average in the same manner described above for the purity working sample.
 
-(d) Coated seed. 
+(d) Coated seed.
 
-(1) Unmixed coated seed. Due to variation in the weight of coating materials, the size or weight of the working sample shall be determined separately for each lot. The weight of the working sample shall be determined by weighing 100 completely coated units and calculating the weight of 2,500 coated units for the purity analysis and 25,000 coated units for the noxious-weed seed examination. 
+(1) Unmixed coated seed. Due to variation in the weight of coating materials, the size or weight of the working sample shall be determined separately for each lot. The weight of the working sample shall be determined by weighing 100 completely coated units and calculating the weight of 2,500 coated units for the purity analysis and 25,000 coated units for the noxious-weed seed examination.
 
-(2) Mixtures of coated seed. The working weight shall be determined in the following manner: 
+(2) Mixtures of coated seed. The working weight shall be determined in the following manner:
 
-(i) Calculate the weight of the working sample to be used for the mixture under consideration as though the sample were not coated by following paragraph (b) or (c) of this section. 
+(i) Calculate the weight of the working sample to be used for the mixture under consideration as though the sample were not coated by following paragraph (b) or (c) of this section.
 
-(ii) Determine the amount of coating material on 100 coated units by weighing the coated units. Remove the coating material using the methods described in §§ 201.51b (c) and (d). Calculate the percentage of coating material using the following formulas: 
+(ii) Determine the amount of coating material on 100 coated units by weighing the coated units. Remove the coating material using the methods described in §§ 201.51b (c) and (d). Calculate the percentage of coating material using the following formulas:
 
 Weight of coating material = weight of 100 coated units − weight of 100 de-coated units; The percentage of coating material = weight of the coating material divided by the weight of 100 coated units × 100%.
 
-(iii) The weight of the working sample shall be the product of the weight calculated in paragraph (d)(2)(i) of this section multiplied by 100 percent, divided by 100 percent minus the percentage of coating material calculated in paragraph (d)(2)(ii) of this section. 
+(iii) The weight of the working sample shall be the product of the weight calculated in paragraph (d)(2)(i) of this section multiplied by 100 percent, divided by 100 percent minus the percentage of coating material calculated in paragraph (d)(2)(ii) of this section.
 
 Table 1—Weight of Working Sample
 | Name of seed                                                                                      | Minimum weight for purity analysis (grams) | Minimum weight for noxious-weed seed examination (grams) | Approximate number of seeds per gram |

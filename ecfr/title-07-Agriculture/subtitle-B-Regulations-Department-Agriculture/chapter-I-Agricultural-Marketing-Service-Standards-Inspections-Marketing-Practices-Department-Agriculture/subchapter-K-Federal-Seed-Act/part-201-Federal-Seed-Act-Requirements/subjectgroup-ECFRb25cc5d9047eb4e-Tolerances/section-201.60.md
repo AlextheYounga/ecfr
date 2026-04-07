@@ -1,10 +1,10 @@
 ##### § 201.60 Purity percentages.
 
-(a)(1) The tolerance for a given percentage of the purity components is the same whether for pure seed, other crop seed, weed seed, or inert matter. Wider tolerances are provided when 33 percent or more of the sample is composed of seed plus empty florets and/or empty spikelets of the following chaffy kinds: bentgrasses, bermudagrasses, bluegrasses, bluestems, bottlebrush- squirreltail, bromes, buffalograss, buffelgrass, carpetgrass, soft chess, dallisgrass, fescues, foxtails, galletagrass, guineagrass, gramas, molassesgrass, tall oatgrass, orchardgrass, redtop, rescuegrass, rhodesgrass, Indian ricegrass, ryegrasses, sweet vernalgrass, teff, vaseygrass, veldtgrass, wheatgrasses, wildryes, and yellow indiangrass. The wider tolerances do not apply to seed devoid of hulls. 
+(a)(1) The tolerance for a given percentage of the purity components is the same whether for pure seed, other crop seed, weed seed, or inert matter. Wider tolerances are provided when 33 percent or more of the sample is composed of seed plus empty florets and/or empty spikelets of the following chaffy kinds: bentgrasses, bermudagrasses, bluegrasses, bluestems, bottlebrush- squirreltail, bromes, buffalograss, buffelgrass, carpetgrass, soft chess, dallisgrass, fescues, foxtails, galletagrass, guineagrass, gramas, molassesgrass, tall oatgrass, orchardgrass, redtop, rescuegrass, rhodesgrass, Indian ricegrass, ryegrasses, sweet vernalgrass, teff, vaseygrass, veldtgrass, wheatgrasses, wildryes, and yellow indiangrass. The wider tolerances do not apply to seed devoid of hulls.
 
-(2) To determine the tolerance for any purity percentage found in the administration of the Act, the percentage found is averaged (i) with that claimed or shown on a label or (ii) with a specified standard. The tolerance is found from this average. If more than one test is made, all except any test obviously in error shall be averaged and the result treated as a single percentage. 
+(2) To determine the tolerance for any purity percentage found in the administration of the Act, the percentage found is averaged (i) with that claimed or shown on a label or (ii) with a specified standard. The tolerance is found from this average. If more than one test is made, all except any test obviously in error shall be averaged and the result treated as a single percentage.
 
-(b) The tolerances found in columns C and D for the respective purity percentages shown in columns A and B of table No. 3 shall be used for (1) unmixed seed and (2) mixtures in which the particle-weight ratio is 1:1 to 1.49:1, inclusive. Tolerances for intermediate percentages not shown in table 3 shall be obtained by interpolation. 
+(b) The tolerances found in columns C and D for the respective purity percentages shown in columns A and B of table No. 3 shall be used for (1) unmixed seed and (2) mixtures in which the particle-weight ratio is 1:1 to 1.49:1, inclusive. Tolerances for intermediate percentages not shown in table 3 shall be obtained by interpolation.
 
 Table 3—Tolerances for Any Component of a Purity Analysis for (1) Unmixed Seed or (2) Mixed Seed in Which the Particle Weight Ratio Is 1: 1 to 1.49: 1, Inclusive
 | Average analysis (A) | (B)         | Nonchaffy seeds (C) | Chaffy seeds (D) |
@@ -55,16 +55,16 @@ Table 3—Tolerances for Any Component of a Purity Analysis for (1) Unmixed Seed
 | 60.00-64.99          | 35.00-39.99 | 2.89                | 3.40             |
 | 50.00-59.99          | 40.00-49.99 | 2.96                | 3.48             |
 
-(c) Tolerances calculated by the following formula shall be used for either chaffy or nonchaffy mixtures when the average particle-weight ratio is 1.5:1 to 20:1 and beyond: 
+(c) Tolerances calculated by the following formula shall be used for either chaffy or nonchaffy mixtures when the average particle-weight ratio is 1.5:1 to 20:1 and beyond:
 
-The symbols used in the formula are as follows: 
+The symbols used in the formula are as follows:
 
-T = tolerance being calculated. A = percent which the weight of the component with the heavier average particle-weight is of the weight of both components. B = percent which the weight of the component with the lighter average particle-weight is of the weight of both components. H = average particle-weight for the component with the heavier average particle-weight. L = average particle-weight for the component with the lighter average particle-weight. R = ratio of the average particle-weight for the component with the heavier average particle-weight to the average particle-weight for the component with the lighter average particle-weight. R = H / L. ![](/graphics/er14de94.003.gif)T1 = regular tolerance for the kind of seed (chaffy or nonchaffy) and for (100B)/(B + A/R).
+T = tolerance being calculated. A = percent which the weight of the component with the heavier average particle-weight is of the weight of both components. B = percent which the weight of the component with the lighter average particle-weight is of the weight of both components. H = average particle-weight for the component with the heavier average particle-weight. L = average particle-weight for the component with the lighter average particle-weight. R = ratio of the average particle-weight for the component with the heavier average particle-weight to the average particle-weight for the component with the lighter average particle-weight. R = H / L.![](/graphics/er14de94.003.gif)T1 = regular tolerance for the kind of seed (chaffy or nonchaffy) and for (100B)/(B + A/R).
 
-In determining the values for A and B in the formula, the sample shall be regarded as composed of two parts: 
+In determining the values for A and B in the formula, the sample shall be regarded as composed of two parts:
 
-(1) The kind, type, or variety under consideration, and 
+(1) The kind, type, or variety under consideration, and
 
-(2) All other components. Values for H and L shall be obtained from the last column of Table 1, § 201.46, or by laboratory tests for inert matter, weed seeds, or other crop seeds where such values are not obtainable from Table 1. In computing tolerances for nonchaffy kinds the values for T1 are taken from column C of Table 3, and for chaffy kinds the values for T1 are taken from column D of Table 3. 
+(2) All other components. Values for H and L shall be obtained from the last column of table 1, § 201.46, or by laboratory tests for inert matter, weed seeds, or other crop seeds where such values are not obtainable from table 1. In computing tolerances for nonchaffy kinds the values for T1 are taken from column C of table 3, and for chaffy kinds the values for T1 are taken from column D of table 3.
 
 \[26 FR 10036, Oct. 26, 1961, as amended at 59 FR 64515, Dec. 14, 1994; 65 FR 1709, Jan. 11, 2000; 85 FR 40583, July 7, 2020\]

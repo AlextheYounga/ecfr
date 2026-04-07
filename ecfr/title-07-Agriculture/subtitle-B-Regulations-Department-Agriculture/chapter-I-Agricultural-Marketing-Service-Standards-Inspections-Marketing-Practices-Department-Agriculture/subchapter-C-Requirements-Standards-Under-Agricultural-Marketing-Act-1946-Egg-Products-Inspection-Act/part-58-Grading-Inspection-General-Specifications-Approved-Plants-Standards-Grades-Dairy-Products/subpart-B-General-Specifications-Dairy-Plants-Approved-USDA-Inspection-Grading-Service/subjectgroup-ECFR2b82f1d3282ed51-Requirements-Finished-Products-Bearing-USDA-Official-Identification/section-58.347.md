@@ -1,8 +1,8 @@
 ##### § 58.347 Butteroil or anhydrous milkfat.
 
-The flavor shall be bland and free from rancid, oxidized, or other objectionable flavors. 
+The flavor shall be bland and free from rancid, oxidized, or other objectionable flavors.
 
-(a) In addition, the finished products shall meet the following specifications when sampled and tested in accordance with §§ 58.336 and 58.337: 
+(a) In addition, the finished products shall meet the following specifications when sampled and tested in accordance with §§ 58.336 and 58.337:
 
 |                                          | Butteroil                                                                                                                    | Anhydrous milkfat                                                                                                             |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -16,6 +16,6 @@ The flavor shall be bland and free from rancid, oxidized, or other objectionable
 | Iron content                             | Not more than 0.2 ppm                                                                                                        | Not more than 0.2 ppm.                                                                                                        |
 | Copper content                           | Not more than 0.05 ppm                                                                                                       | Not more than 0.05 ppm.                                                                                                       |
 
-(b) \[Reserved\] 
+(b) \[Reserved\]
 
 \[60 FR 4826, Jan. 24, 1995\]

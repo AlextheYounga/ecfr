@@ -1,8 +1,8 @@
 ##### § 201.55 Retests.
 
-Retests shall be made as follows: 
+Retests shall be made as follows:
 
-(a) When the range of 100-seed replicates of a given test exceeds the maximum tolerated range in the table appearing in this section. 
+(a) When the range of 100-seed replicates of a given test exceeds the maximum tolerated range in the table appearing in this section.
 
 Table of Maximum Tolerated Ranges Between 100-Seed Replicates for Use in Connection With § 201.55(A)
 | Average percent germinations | Maximum allowed   between replicates |
@@ -57,13 +57,13 @@ Table of Maximum Tolerated Ranges Between 100-Seed Replicates for Use in Connect
 | 52                           | 48                                   |
 | 51                           | 50                                   |
 
-(b) When at the time of the prescribed final count there are indications, such as presence of firm ungerminated seeds, that a satisfactory germination has not been obtained; 
+(b) When at the time of the prescribed final count there are indications, such as presence of firm ungerminated seeds, that a satisfactory germination has not been obtained;
 
-(c) When there is evidence that the results may not be reliable due to improper test conditions, errors in seedling evaluation, the presence of fungi or bacteria, or inaccuracies in counting or recording results; 
+(c) When there is evidence that the results may not be reliable due to improper test conditions, errors in seedling evaluation, the presence of fungi or bacteria, or inaccuracies in counting or recording results;
 
-(d) When a sample shows seedling injury or abnormality as a result of chemical treatment, of exposure to chemicals, or of toxicity from any source. (Retest shall be made in soil or a mixture of soil and sand); 
+(d) When a sample shows seedling injury or abnormality as a result of chemical treatment, of exposure to chemicals, or of toxicity from any source. (Retest shall be made in soil or a mixture of soil and sand);
 
-(e) When no two satisfactory tests are within tolerance. 
+(e) When no two satisfactory tests are within tolerance.
 
 Note to § 201.55:
 

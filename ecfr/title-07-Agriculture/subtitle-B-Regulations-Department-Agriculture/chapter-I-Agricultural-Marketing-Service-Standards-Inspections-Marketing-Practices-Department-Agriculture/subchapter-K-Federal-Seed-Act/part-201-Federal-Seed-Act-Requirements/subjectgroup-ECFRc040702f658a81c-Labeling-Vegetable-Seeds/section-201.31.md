@@ -1,6 +1,6 @@
 ##### § 201.31 Minimum germination standards for vegetable seeds in interstate commerce.
 
-The following minimum germination standards for vegetable seeds in interstate commerce, which shall be construed to include hard seed, are determined and established under section 403(c) of the Act: 
+The following minimum germination standards for vegetable seeds in interstate commerce, which shall be construed to include hard seed, are determined and established under section 403(c) of the Act:
 
 |                      | Percent |
 | -------------------- | ------- |

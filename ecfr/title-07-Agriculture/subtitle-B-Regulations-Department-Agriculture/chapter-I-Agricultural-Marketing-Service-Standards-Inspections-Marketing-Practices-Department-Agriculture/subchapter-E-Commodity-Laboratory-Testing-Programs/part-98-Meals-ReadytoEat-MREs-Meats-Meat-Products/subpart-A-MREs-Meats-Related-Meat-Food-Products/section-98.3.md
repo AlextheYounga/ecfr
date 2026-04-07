@@ -1,6 +1,6 @@
 ##### § 98.3 Analyses performed and locations of laboratories.
 
-(a) Tables 1 through 4 list the special laboratory analyses rendered by the Science and Technology as a result of an agreement with the Livestock and Seed Division. The payment for such laboratory services rendered at the request of an individual or third party served shall be reimbursed pursuant to the terms as specified in the cooperative agreement. 
+(a) Tables 1 through 4 list the special laboratory analyses rendered by the Science and Technology as a result of an agreement with the Livestock and Seed Division. The payment for such laboratory services rendered at the request of an individual or third party served shall be reimbursed pursuant to the terms as specified in the cooperative agreement.
 
 Table 1—Schedule Analysis
 | Identity                                       | Analyses            | Samples tested |
@@ -54,12 +54,12 @@ Table 4—Lard and Tallow Analysis
 | Titer Test                         | 1                        |
 | Unsaponifiable Material            | 1                        |
 
-(b) Meats, such as ground beef or ground pork, meat food products, and MREs, not covered by an agreement with Livestock and Seed Division, are analyzed for fat, moisture, salt, sulfur dioxide, nitrites, sulfites, ascorbates, citric acid, protein, standard plate counts, and coliform counts, among other analyses. These food product analyses are performed at any one of the Science and Technology (S&T) field laboratories as follows: 
+(b) Meats, such as ground beef or ground pork, meat food products, and MREs, not covered by an agreement with Livestock and Seed Division, are analyzed for fat, moisture, salt, sulfur dioxide, nitrites, sulfites, ascorbates, citric acid, protein, standard plate counts, and coliform counts, among other analyses. These food product analyses are performed at any one of the Science and Technology (S&T) field laboratories as follows:
 
-(1) USDA, AMS, Science and Technology, Midwestern Laboratory, 3570 North Avondale Avenue, Chicago, IL 60618. 
+(1) USDA, AMS, Science and Technology, Midwestern Laboratory, 3570 North Avondale Avenue, Chicago, IL 60618.
 
-(2) USDA, AMS, S&T Aflatoxin Laboratory, 107 South 4th Street, Madill, OK 73446. 
+(2) USDA, AMS, S&T Aflatoxin Laboratory, 107 South 4th Street, Madill, OK 73446.
 
-(3) USDA, AMS, S&T, Eastern Laboratory, 2311-B Aberdeen Boulevard, Gastonia, NC 28054. 
+(3) USDA, AMS, S&T, Eastern Laboratory, 2311-B Aberdeen Boulevard, Gastonia, NC 28054.
 
 \[58 FR 42445, Aug. 9, 1993, as amended at 59 FR 24325, May 10, 1994; 59 FR 50121, Sept. 30, 1994; 61 FR 51353, Oct. 2, 1996; 65 FR 64318, Oct. 26, 2000\]

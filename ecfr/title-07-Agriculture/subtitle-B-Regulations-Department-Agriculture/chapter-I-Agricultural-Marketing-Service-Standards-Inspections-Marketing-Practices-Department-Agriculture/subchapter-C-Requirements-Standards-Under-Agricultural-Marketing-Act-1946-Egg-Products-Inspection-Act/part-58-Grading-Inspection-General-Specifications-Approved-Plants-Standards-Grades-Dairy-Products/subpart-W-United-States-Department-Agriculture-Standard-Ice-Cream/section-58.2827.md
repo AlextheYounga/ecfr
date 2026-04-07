@@ -1,6 +1,6 @@
 ##### § 58.2827 Official identification.
 
-(a) The official symbol to be used to identify product meeting the USDA standard for ice cream shall be as follows: 
+(a) The official symbol to be used to identify product meeting the USDA standard for ice cream shall be as follows:
 
 ![](/graphics/ec25se91.017.gif)
 
