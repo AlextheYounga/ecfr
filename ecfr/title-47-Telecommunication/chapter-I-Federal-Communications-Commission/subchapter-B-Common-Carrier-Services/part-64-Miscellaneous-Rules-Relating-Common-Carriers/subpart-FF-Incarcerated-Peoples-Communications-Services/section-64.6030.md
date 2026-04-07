@@ -1,35 +1,19 @@
-##### § 64.6030 Incarcerated People's Communications Services interim rate caps.
+##### § 64.6030 Inmate Calling Services interim rate caps.
 
-(a) A Provider must offer each Incarcerated People's Communications Service at a per-minute rate. A Provider may also offer an Incarcerated People's Communications Service under one or more Alternate Pricing Plans, pursuant to § 64.6140.
+(a) For all Jails with Average Daily Populations of less than 1,000 Inmates, no Provider shall charge a rate for interstate Collect Calling, Debit Calling, Prepaid Calling, or Prepaid Collect Calling in excess of $0.21 per minute. 
 
-(b) A Provider must not charge a per-minute rate for intrastate or interstate audio Incarcerated People's Communications Services in excess of the following interim rate caps:
+(b) For all Jails with Average Daily Populations of Inmates of 1,000 or greater, no Provider shall charge a Provider-Related Rate Component for interstate Collect Calling, Debit Calling, Prepaid Calling, or Prepaid Collect Calling in excess of $0.14 per minute. 
 
-(1) $0.09 per minute for each Prison;
+(c) For all Prisons, no Provider shall charge a Provider-Related Rate Component for interstate Collect Calling, Debit Calling, Prepaid Calling, or Prepaid Collect Calling in excess of $0.12 per minute. 
 
-(2) $0.08 per minute for each Jail having an Average Daily Population of 1,000 or more Incarcerated People;
+(d) For all Jails with Average Daily Populations of Inmates of 1,000 or greater, and for all Prisons, Providers may recover the applicable Facility-Related Rate Component as follows: 
 
-(3) $0.10 per minute for each Jail having an Average Daily Population of between and including 350 and 999 Incarcerated People;
+(1) Providers subject to an obligation to pay Site Commissions by state statutes or laws and regulations that are adopted pursuant to state administrative procedure statutes where there is notice and an opportunity for public comment such as by a state public utility commission or similar regulatory body with jurisdiction to establish inmate calling services rates, terms, and conditions and that operate independently of the contracting process between Correctional Institutions and Providers, may recover the full amount of such payments through the Legally Mandated Facility Rate Component subject to the limitation that the total rate (Provider-Related Rate Component plus Facility-Related Rate Component) does not exceed $0.21 per minute. 
 
-(4) $0.11 per minute for each Jail having an Average Daily Population of between and including 100 and 349 Incarcerated People;
+(2) Providers that pay Site Commissions pursuant to a contract with the Jail or Prison may recover up to $0.02 per minute through the Contractually Prescribed Facility Rate Component except where the Provider's total Contractually Prescribed Facility Rate Component results in a lower per-minute rate than $0.02 per minute of use. In that case, the Provider's Contractually Prescribed Facility Rate Component is limited to the actual amount of its per-minute Site Commission payment up to a maximum of $0.02 per minute. Providers shall calculate their Contractually Prescribed Facility Rate Component to three decimal places. 
 
-(5) $0.13 per minute for each Jail having an Average Daily Population of between and including 50 and 99 Incarcerated People; and
+(e) No Provider shall charge, in any Prison or Jail it serves, a per-minute rate for an International Call in excess of the applicable interstate rate cap set forth in paragraphs (a), (b), (c), and (d) of this section plus the average amount that the provider paid its underlying international service providers for calls to the International Destination of that call, on a per-minute basis. A Provider shall determine the average amount paid for calls to each International Destination for each calendar quarter and shall adjust its maximum rates based on such determination within one month of the end of each calendar quarter. 
 
-(6) $0.17 per minute for each Jail having an Average Daily Population below and including 49 Incarcerated People.
+(f) Paragraphs (a) through (e) of this section shall cease to be effective upon the individual compliance dates prescribed in the revisions to § 64.6010 and the addition of § 64.6015 for the Providers serving the Facilities subject to each such date. 
 
-(c) A Provider must not charge a per-minute rate for video Incarcerated People's Communications Services in excess of the following interim rate caps:
-
-(1) $0.23 per minute for each Prison;
-
-(2) $0.17 per minute for each Jail having an Average Daily Population of 1,000 or more Incarcerated People;
-
-(3) $0.17 per minute for each Jail having an Average Daily Population of between and including 350 and 999 Incarcerated People;
-
-(4) $0.19 per minute for each Jail having an Average Daily Population of between and including 100 and 349 Incarcerated People;
-
-(5) $0.23 per minute for each Jail having an Average Daily Population of between and including 50 and 99 Incarcerated People; and
-
-(6) $0.42 per minute for each Jail having an Average Daily Population of below and including 49 Incarcerated People.
-
-(d) Providers may charge up to an additional $0.02 per minute above the audio and video Incarcerated People's Communications Services rate caps in paragraphs (b) and (c) of this section to recover the costs that a Correctional Facility may incur in making Incarcerated People's Communications Services available.
-
-\[90 FR 56062, Dec. 5, 2025\]
+\[86 FR 40731, July 28, 2021, as amended at 89 FR 77364, Sept. 20, 2024\]
