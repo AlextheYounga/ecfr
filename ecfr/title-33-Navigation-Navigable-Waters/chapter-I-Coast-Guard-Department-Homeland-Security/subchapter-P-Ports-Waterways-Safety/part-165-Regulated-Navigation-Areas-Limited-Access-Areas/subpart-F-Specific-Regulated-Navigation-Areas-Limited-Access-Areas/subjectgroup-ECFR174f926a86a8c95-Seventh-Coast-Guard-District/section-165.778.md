@@ -1,7 +1,5 @@
 ##### § 165.778 Security Zone; Port of Mayaguez, Puerto Rico.
 
-Link to an amendment published at 84 FR 7288, Mar. 4, 2019.
-
 (a) *Security zone.* A moving and fixed security zone is established around all cruise ships entering, departing, mooring, or anchoring in the Port of Mayaguez, Puerto Rico. The regulated area includes all waters from surface to bottom within a 50-yard radius of the vessel. The zone is activated when a cruise ship on approach to the Port of Mayaguez enters within 1 nautical mile of the Bahia de Mayaguez Range Front Light located in position 18°13′12″ N 067°10′46″ W. The zone is deactivated when a cruise ship departs the Port of Mayaguez and is no longer within 1 nautical mile of the Bahia de Mayaguez Range Front Light.
 
 (b) *Definitions.* As used in this section:
@@ -18,6 +16,4 @@ Link to an amendment published at 84 FR 7288, Mar. 4, 2019.
 
 (3) All persons and vessels granted permission to enter the security zone must comply with the orders of the Captain of the Port San Juan and designated on-scene U.S. Coast Guard patrol personnel. On-scene U.S. Coast Guard patrol personnel include commissioned, warrant, and petty officers of the U.S. Coast Guard.
 
-(d) *Effective period.* This section is effective on April 29, 2009.
-
-\[USCG-2008-0070, 74 FR 14049, Mar. 30, 2009\]
+\[USCG-2008-0070, 74 FR 14049, Mar. 30, 2009, as amended by USCG-2018-0231, 84 FR 7288, Mar. 4, 2019\]

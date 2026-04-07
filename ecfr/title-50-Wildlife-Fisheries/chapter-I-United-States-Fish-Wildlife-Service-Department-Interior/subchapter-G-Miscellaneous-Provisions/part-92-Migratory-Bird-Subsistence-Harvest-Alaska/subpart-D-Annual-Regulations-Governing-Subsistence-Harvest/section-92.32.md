@@ -1,0 +1,5 @@
+##### § 92.32 Emergency regulations to protect Steller's eiders.
+
+Upon finding that continuation of these subsistence regulations would pose an imminent threat to the conservation of threatened Steller's eiders *(Polysticta stelleri),* the U.S. Fish and Wildlife Service Alaska Regional Director, in consultation with the Co-management Council, will immediately under § 92.21 take action as is necessary to prevent further take. Regulation changes implemented could range from a temporary closure of duck hunting in a small geographic area to large-scale regional or statewide long-term closures of all subsistence migratory bird hunting. These closures or temporary suspensions will remain in effect until the Regional Director, in consultation with the Co-management Council, determines that the potential for additional Steller's eiders to be taken no longer exists.
+
+\[84 FR 12952, Apr. 3, 2019\]
