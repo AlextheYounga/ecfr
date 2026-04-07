@@ -10,7 +10,7 @@
 
 (e) Participants having multiple plantings may receive payments for each planting included only if the planting meets the requirements of part 1437 of this title and all other provisions of this subpart are satisfied.
 
-(f) Losses due to prevented planting are eligible under this subpartonly if the loss was due to a qualifying disaster event. Provisions of parts 718 and 1437 of this title specifying what is considered prevented planting and how it must be documented and reported apply. Crops located in tropical regions are not eligible for prevented planting.
+(f) Losses due to prevented planting are eligible under this subpart only if the loss was due to a qualifying disaster event. Provisions of parts 718 and 1437 of this title specifying what is considered prevented planting and how it must be documented and reported apply. Crops located in tropical regions are not eligible for prevented planting.
 
 (g) Subject to the provisions of this subpart, the FSA county committee will:
 

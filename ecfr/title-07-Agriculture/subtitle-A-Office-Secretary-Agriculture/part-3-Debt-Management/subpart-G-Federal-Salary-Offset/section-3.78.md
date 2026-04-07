@@ -10,6 +10,6 @@ Written decisions provided after a hearing will include:
 
 (d) The payment schedule (including percentage of disposable pay), if applicable;
 
-(e) The determination that the amount of the debt at this hearing is the final agency action on this matter regarding the existence and amount of the debt for purposes of executing salary offset under 5 U.S.C. 5514. However, even if the hearing official determines that a debt may not be collected by salary offset, but the creditor agency finds that the debt is still valid, the creditor agency may still seek collection of the debt by other means authorized by this part; and
+(e) The determination that the amount of the debt at this hearing is the final agency action on this matter regarding the existence and amount of the debt for purposes of executing salary offset under 5 U.S.C. 5514. However, even if the hearing official determines that a debt may not be collected by salary offset, but the creditor agency finds that the debt is still valid, the creditor agency may still pursue collection of the debt by other means authorized by this part; and
 
 (f) Notice that the final determination by the hearing official regarding the existence and amount of a debt is subject to referral to Treasury under § 3.33 in the same manner as any other delinquent debt.

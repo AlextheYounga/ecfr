@@ -2,7 +2,7 @@
 
 (a) Except as provided in paragraphs (b) through (e) of this section, to be eligible for payments under this subpart the unit must have suffered a loss of the crop, tree, bush, or vine, or prevented planting of a crop, due to a qualifying disaster event.
 
-(b) A loss will not be eligible for under this subpart if any of the following apply:
+(b) A loss will not be eligible under this subpart if any of the following apply:
 
 (1) The cause of loss is determined by FSA to be the result of poor management decisions, poor farming practices, or drifting herbicides;
 
