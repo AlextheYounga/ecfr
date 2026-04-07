@@ -886,7 +886,7 @@ Words used in the singular form in the rules and regulations in this chapter sha
 
 (*ii*) The agreement, contract, or transaction to be reinsured satisfies the conditions set forth in paragraph (4)(i)(A) or paragraph (4)(i)(C) of this definition; and
 
-*(iii)* Except as otherwise permitted under applicable State law, the total amount reimbursable by all reinsurers for such agreement, contract, or transaction may not exceed the claims or losses paid by the person writing the risk being ceded or transferred by such person; or
+(*iii*) Except as otherwise permitted under applicable State law, the total amount reimbursable by all reinsurers for such agreement, contract, or transaction may not exceed the claims or losses paid by the person writing the risk being ceded or transferred by such person; or
 
 (*4*) In the case of non-admitted insurance, by a person who:
 
