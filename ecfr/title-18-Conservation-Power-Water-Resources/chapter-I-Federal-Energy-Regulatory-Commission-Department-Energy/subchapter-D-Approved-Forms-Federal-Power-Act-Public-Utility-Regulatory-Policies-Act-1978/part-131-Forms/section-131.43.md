@@ -1,7 +1,5 @@
 ##### § 131.43 Report of securities issued.
 
-Link to an amendment published at 70 FR 35375, June 20, 2005.
-
 (See § 34.10 of this chapter.)
 
 (Submit an original and four copies.)
@@ -11,7 +9,6 @@ Link to an amendment published at 70 FR 35375, June 20, 2005.
 Report of Securities Issued
 
 Description of security....................................
-
 | Description                                             | Amount |
 | ------------------------------------------------------- | ------ |
 | 1\. Face value or principal amount                      |        |
@@ -33,4 +30,10 @@ Description of security....................................
 | 16\. Total deductions                                   |        |
 | 17\. Net amount realized                                |        |
 
-\[Order 141, 12 FR 8591, Dec. 19, 1947, as amended by Order 182, 46 FR 50517, Oct. 14, 1981\]
+\[Order 141, 12 FR 8591, Dec. 19, 1947, as amended by Order 182, 46 FR 50517, Oct. 14, 1981\] Effective Date Note:At 70 FR 35375, June 20, 2005, § 131.43 introductory text was revised, effective at the time of the next e-filing release during the Commission's next fiscal year. For the convenience of the user, the revised text follows: 
+
+##### § 131.43 Report of securities issued.
+
+(See § 34.10 of this chapter)
+
+(Submit in electronic format in accordance with § 385.2003 of this chapter.)
