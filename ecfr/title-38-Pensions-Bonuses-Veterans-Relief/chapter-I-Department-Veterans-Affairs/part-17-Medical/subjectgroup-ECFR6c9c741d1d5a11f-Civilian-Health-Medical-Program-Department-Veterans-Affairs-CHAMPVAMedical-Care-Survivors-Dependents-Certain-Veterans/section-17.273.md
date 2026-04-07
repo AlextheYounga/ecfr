@@ -12,6 +12,8 @@ Preauthorization or advance approval is required for any of the following, excep
 
 (e) Organ transplants.
 
+(e) Organ transplants.
+
 (f) CHAMPVA will perform a retrospective medical necessity review during the coordination of benefits process if:
 
 (1) It is determined that CHAMPVA is the responsible payer for services and supplies but CHAMPVA preauthorization was not obtained prior to delivery of the services or supplies; and,
