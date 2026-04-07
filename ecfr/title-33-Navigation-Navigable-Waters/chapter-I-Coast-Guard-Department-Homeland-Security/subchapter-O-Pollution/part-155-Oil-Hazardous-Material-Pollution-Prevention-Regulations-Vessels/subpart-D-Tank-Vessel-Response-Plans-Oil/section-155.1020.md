@@ -104,7 +104,9 @@ Except as otherwise defined in this section, the definitions in § 155.110 apply
 
 (14) Prince William Sound, AK.
 
-Note 1 to paragraph (13) of this definition: The western boundary of the Strait of Juan de Fuca higher volume port area in this part differs from that in § 154.1020 of this chapter. The difference stems from section 316(b) of the Coast Guard Authorization Act of 2015 (Pub. L. 114-120), which expands only the definition in this part.
+Note 1 to paragraph (13) of this definition:
+
+The western boundary of the Strait of Juan de Fuca higher volume port area in this part differs from that in § 154.1020 of this chapter. The difference stems from section 316(b) of the Coast Guard Authorization Act of 2015 (Pub. L. 114-120), which expands only the definition in this part.
 
 *Inland area* means the area shoreward of the boundary lines defined in 46 CFR part 7, except that in the Gulf of Mexico, it means the area shoreward of the lines of demarcation (COLREG lines) as defined in §§ 80.740 through 80.850 of this chapter. The inland area does not include the Great Lakes.
 
