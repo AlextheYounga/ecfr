@@ -183,13 +183,19 @@ In addition to the provisions of section 9 of the Basic Provisions:
 
 (B) December 31 for the fall planting period;
 
-(vii) Oregon: December 31;
-
 (vii) Oregon:
 
 (A) March 1 for all fall Red (Fresh) and Green (Fresh) types; and
 
 (B) December 31 for all other types and planting periods;
+
+(viii) Texas:
+
+(A) December 31 for the summer planting period;
+
+(B) February 15 for the fall planting period; and
+
+(C) April 30 for the winter planting period;
 
 (ix) Virginia:
 

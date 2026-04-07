@@ -142,7 +142,7 @@ In addition to the requirements of section 14 of the Basic Provisions (§ 457.8)
 
 (a) You must notify us within 3 days of the date harvest should have started if the crop will not be harvested.
 
-(b) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to
+(b) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
 (c) If you intend to claim an indemnity on any unit, you must notify us at least 15 days prior to the beginning of harvest or immediately if damage is discovered during harvest, so that we may inspect the damaged production. You must not destroy the damaged crop until after we have given you written consent to do so. If you fail to meet the requirements of this section and such failure results in our inability to inspect the damaged production, we may consider all such production to be undamaged and include it as production to count.
 
@@ -170,9 +170,9 @@ In addition to the requirements of section 14 of the Basic Provisions (§ 457.8)
 
 (7) Multiplying the result in section 11(b)(6) by your share.
 
-You select the 65 percent coverage level and 100 percent of the price election on 10 acres of macadamia nuts in the unit. Your share is 100 percent. Your production guarantee (per acre) is 4,000 pounds. The price election is $0.78. You are able to harvest 25,000 pounds. Your indemnity would be calculated as follows:
-
 *For example:*
+
+You select the 65 percent coverage level and 100 percent of the price election on 10 acres of macadamia nuts in the unit. Your share is 100 percent. Your production guarantee (per acre) is 4,000 pounds. The price election is $0.78. You are able to harvest 25,000 pounds. Your indemnity would be calculated as follows:
 
 (1) 10 acres × 4,000 pounds = 40,000 pounds guarantee;
 
