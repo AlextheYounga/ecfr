@@ -1,6 +1,6 @@
 ##### § 232.405 Interactive Data File submissions and postings.
 
-Preliminary Note 1.
+Link to an amendment published at 83 FR 40875, Aug. 16, 2018.Preliminary Note 1.
 
 Sections 405 and 406T of Regulation S-T (§§ 232.405 and 232.406T) apply to electronic filers that submit or post Interactive Data Files. Item 601(b)(101) of Regulation S-K (§ 229.601(b)(101) of this chapter), paragraph (101) of Part II - Information Not Required to be Delivered to Offerees or Purchasers of Form F-10 (§ 239.40 of this chapter), paragraph 101 of the Instructions as to Exhibits of Form 20-F (§ 249.220f of this chapter), paragraph B.(15) of the General Instructions to Form 40-F (§ 249.240f of this chapter), paragraph C.(6) of the General Instructions to Form 6-K (§ 249.306 of this chapter), and General Instruction C.3.(g) of Form N-1A (§§ 239.15A and 274.11A of this chapter) specify when electronic filers are required or permitted to submit or post an Interactive Data File (§ 232.11), as further described in the Note to § 232.405.
 

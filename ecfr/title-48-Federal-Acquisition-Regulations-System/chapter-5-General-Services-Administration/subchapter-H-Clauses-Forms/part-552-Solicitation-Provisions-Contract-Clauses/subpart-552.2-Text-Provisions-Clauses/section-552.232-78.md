@@ -2,7 +2,7 @@
 
 As prescribed in 513.302-5 and 532.706-3 insert the following clause:
 
-Commercial Supplier Agreements-Unenforceable Clauses (Feb. 2018)
+Commercial Supplier Agreements-Unenforceable Clauses (FEB. 2018)
 
 When any supply or service acquired under this contract is subject to a commercial supplier agreement (as defined in 502.101), the following language shall be deemed incorporated into the commercial supplier agreement. As used herein, “this agreement” means the commercial supplier agreement:
 

@@ -1,5 +1,7 @@
 ##### § 232.402 Liability for XBRL-Related Documents.
 
+Link to an amendment published at 83 FR 40875, Aug. 16, 2018.
+
 (a) *Not deemed filed for liability purposes.* XBRL-Related Documents, regardless of whether they are exhibits to a document incorporated by reference into a filing:
 
 (1) Are not deemed filed for purposes of section 11 of the Securities Act (15 U.S.C. 77k), section 18 of the Exchange Act (15 U.S.C. 78r), or section 34(b) of the Investment Company Act (15 U.S.C. 80a-33(b)), or otherwise subject to the liabilities of these sections, and are not part of any registration statement to which they relate;
