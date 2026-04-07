@@ -26,8 +26,6 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Buoy gear* means a fishing gear consisting of one or more floatation devices supporting a single mainline to which no more than two hooks or gangions are attached.
 
-*Cape Hatteras gear restricted area* means the area within the Atlantic Ocean bounded by straight lines connecting the following coordinates in the order stated: 34°50′ N. lat., 75°10′ W. long.; 35°40′ N. lat., 75°10′ W. long.; 35°40′ N. lat., 75°00′ W. long.; 37°10′ N. lat., 75°00′ W. long.; 37°10′ N. lat., 74°20′ W. long.; 35°30′ N. lat., 74°20′ W. long.; 34°50′ N. lat., 75°00′ W. long.; 34°50′ N. lat., 75°10′ W. long.
-
 *Caudal keel* means the horizontal ridges along each side of a fish at the base of the tail fin.
 
 *CFL* (curved fork length) means the length of a fish measured from the tip of the upper jaw to the fork of the tail along the contour of the body in a line that runs along the top of the pectoral fin and the top of the caudal keel.
@@ -170,7 +168,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Northeast Distant gear restricted area* means the Atlantic Ocean area bounded by straight lines connecting the following coordinates in the order stated: 35°00′ N. lat., 60°00′ W. long.; 55°00′ N. lat., 60°00′ W. long.; 55°00′ N. lat., 20°00′ W. long.; 35°00′ N. lat., 20°00′ W. long.; 35°00′ N. lat., 60°00′ W. long.
 
-*Northeastern United States closed area* means the area bounded by straight lines connecting the following coordinates in the order stated: 40°00′ N. lat., 74°00′ W. long.; 40°00′ N. lat., 68°00′ W. long.; 39°00′ N. lat., 68°00′ W. long.; and 39°00′ N. lat., 74°00′ W. long.
+*Northeastern United States Pelagic Longline Monitoring Area* means the area bounded by straight lines connecting the following coordinates in the order stated: 40°00′ N lat., 74°00′ W long.; 40°00′ N lat., 68°00′ W long.; 39°00′ N lat., 68°00′ W long.; and 39°00′ N lat., 74°00′ W long.
 
 *Offset circle hook* means a circle hook originally designed and manufactured so that the barbed end of the hook is displaced relative to the parallel plane of the eyed-end, or shank, of the hook when laid on its side.
 
@@ -216,7 +214,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Speargun fishing gear* means a muscle-powered speargun equipped with a trigger mechanism, a spear with a tip designed to penetrate and retain fish, and terminal gear. Terminal gear may include, but is not limited to, trailing lines, reels, and floats. The term “muscle-powered speargun” for the purposes of this part means a speargun that stores potential energy provided from the operator's muscles, and that releases only the amount of energy that the operator has provided to it from his or her own muscles. Common energy storing methods for muscle-powered spearguns include compressing air and springs, and the stretching of rubber bands.
 
-*Spring Gulf of Mexico gear restricted area* means two areas within the Gulf of Mexico described here. The first area is bounded by straight lines connecting the following coordinates in the order stated: 26°30′ N. lat., 94°40′ W. long.; 27°30′ N. lat., 94°40′ W. long.; 27°30′ N. lat., 89° W. long.; 26°30′ N. lat., 89° W. long.; 26°30′ N. lat., 94°40′ W. long. The second area is bounded by straight lines connecting the following coordinates in the order stated: 27°40′ N. lat., 88° W. long.; 28° N. lat., 88° W. long.; 28° N. lat., 86° W. long.; 27°40′ N. lat., 86° W. long.; 27°40′N. lat., 88° W. long.
+*Spring Gulf of Mexico Pelagic Longline Monitoring Area* means two areas within the Gulf of Mexico described here. The first area is bounded by straight lines connecting the following coordinates in the order stated: 26°30′ N lat., 94°40′ W long.; 27°30′ N lat., 94°40′ W long.; 27°30′ N lat., 89° W long.; 26°30′ N lat., 89° W long.; 26°30′ N lat., 94°40′ W long. The second area is bounded by straight lines connecting the following coordinates in the order stated: 27°40′ N lat., 88° W long.; 28° N lat., 88° W long.; 28° N lat., 86° W long.; 27°40′ N lat., 86° W long.; 27°40′ N lat., 88° W long.
 
 *Steamboat Lumps closed area* means a rectangular-shaped area in the Gulf of Mexico bounded by straight lines connecting the following coordinates in the order stated: 28°14′ N. lat., 84°48′ W. long.; 28°14′ N. lat., 84°37′ W. long.; 28°03′ N. lat., 84°37′ W. long.; 28°03′ N. lat., 84°48′ W. long.; and 28°14′ N. lat., 84°48′ W. long.
 

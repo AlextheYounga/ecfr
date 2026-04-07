@@ -68,7 +68,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (30) Deploy or fish with any fishing gear from a vessel or anchor a fishing vessel, permitted or required to be permitted under this part, in any closed area as specified at § 635.21.
 
-(31) Deploy or fish with any fishing gear from a vessel with a pelagic longline on board in any closed or gear restricted areas during the time period specified at § 635.21(c), except under the conditions listed at § 635.21 (c)(3).
+(31) Deploy or fish with any fishing gear from a vessel with a pelagic longline on board in any closed or gear restricted areas during the time periods specified at § 635.21(c)(2).
 
 (32) In the Gulf of Mexico, deploy or fish a pelagic longline with live bait affixed to the hooks or to possess live bait, or set up a well or tank to maintain live bait, aboard a vessel with pelagic longline gear on board as specified at § 635.21(c)(4).
 
@@ -114,15 +114,15 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (53) Fish for, catch, possess, retain, or land an Atlantic swordfish using, or captured on, “buoy gear” as defined at § 635.2, unless the vessel owner has been issued a swordfish directed limited access 125 permit or a swordfish handgear LAP in accordance with § 635.4(f) or a valid HMS Commercial Caribbean Small Boat permit in accordance with § 635.4(o).
 
-(54) Possess, use, or deploy, in the Gulf of Mexico, any circle hook, other than as described at § 635.21(c). Vessels in the Gulf of Mexico, with pelagic gear onboard, are prohibited from possessing, using, or deploying circle hooks that are constructed of round wire stock which is larger than 3.65 mm in diameter (See: § 635.21(c)(5)(iii)(B)(*2*)(*i*)).
+(54) Possess, use, or deploy, in the Gulf of Mexico, with pelagic longline gear on board, any circle hook that is constructed of round wire stock that is larger than 3.65 mm in diameter during the months of January through June of any calendar year as specified in § 635.21(c)(5)(iii).
 
 (55) Fail to electronically submit an Atlantic HMS dealer report through the HMS electronic dealer reporting system to report BAYS tunas, swordfish, and sharks to NMFS in accordance with § 635.5, if issued, or required to be issued, a Federal Atlantic HMS dealer permit pursuant to § 635.4.
 
 (56) Have been issued a valid HMS Commercial Caribbean Small Boat permit and to purchase, barter for, or trade for HMS harvested by other vessels with the intent to sell, as specified in § 635.4(o)(5).
 
-(57) Fail to appropriately stow longline gear when transiting a closed or gear restricted area, as specified in § 635.21(b)(2).
+(57) Fail to appropriately stow longline gear when transiting a closed or gear restricted area or a monitoring area that has been closed, as specified in § 635.21(b)(2).
 
-(58) Fish with pelagic longline gear in the Cape Hatteras Gear Restricted area if not determined by NMFS to be “qualified” under § 635.21(c)(3).
+(58) Deploy or fish with any fishing gear from a vessel with a pelagic longline gear on board in a monitoring area that has been closed as specified at § 635.21(c)(3).
 
 (59) Fish for, retain, possess, or land any HMS from a vessel with a pelagic longline on board when the Atlantic Tunas Longline category fishery is closed, as specified in § 635.28(a)(3), (b)(7), (c)(3), and (d).
 
@@ -204,15 +204,15 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (35) Use speargun gear to fish for BAYS tunas from a vessel that does not possess either a valid HMS Angling or HMS Charter/Headboat permit, as specified at § 635.21(i).
 
-(36) Possess J-hooks onboard a vessel that has pelagic longline gear onboard, and that has been issued, or is required to have, a swordfish, shark, or Atlantic Tunas Longline category LAP for use in the Atlantic Ocean, including the Caribbean Sea and the Gulf of Mexico, except when green-stick gear is onboard, as specified at § 635.21(c)(2)(vii)(A) and (c)(5)(iii)(B)(*3*).
+(36) Possess J-hooks onboard a vessel that has pelagic longline gear on board, and that has been issued or required to be issued a LAP under this part, except when green-stick gear is on board, as specified at § 635.21(c)(2)(v)(A) and (c)(5)(iii)(C).
 
-(37) Use or deploy J-hooks with pelagic longline gear from a vessel that has been issued, or is required to have, a swordfish, shark, or Atlantic Tunas Longline category LAP for use in the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, as specified in § 635.21(c)(5)(iii)(B).
+(37) Use or deploy J-hooks with pelagic longline gear from a vessel that has been issued, or required to be issued a LAP under this part, as specified in § 635.21(c)(5)(iii)(C).
 
-(38) As specified in § 635.21(c)(5)(iii)(B)(*3*), possess more than 20 J-hooks onboard a vessel that has been issued, or is required to have, a swordfish, shark, or Atlantic Tunas Longline category LAP for use in the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, when possessing onboard both pelagic longline gear and green-stick gear as defined in § 635.2.
+(38) As specified in § 635.21(c)(5)(iii)(C), possess more than 20 J-hooks on board a vessel that has been issued or required to be issued a LAP under this part, when possessing onboard both pelagic longline gear and green-stick gear as defined in § 635.2.
 
-(39) Use or deploy more than 10 hooks at one time on any individual green-stick gear, as specified in § 635.21(j), (c)(2)(vii)(A), or (c)(5)(iii)(B)(*3*).
+(39) Use or deploy more than 10 hooks at one time on any individual green-stick gear, as specified in § 635.21(c)(2)(v)(A), (c)(5)(iii)(C), or (j).
 
-(40) Possess, use, or deploy J-hooks smaller than 1.5 inch (38.1 mm), when measured in a straight line over the longest distance from the eye to any part of the hook, when fishing with or possessing green-stick gear onboard a vessel that has been issued, or is required to have, a swordfish, shark, or Atlantic Tunas Longline category LAP for use in the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, as specified at § 635.21(c)(5)(iii)(B)(*3*) or (c)(2)(vii)(A).
+(40) Possess, use, or deploy J-hooks smaller than 1.5 inch (38.1 mm), when measured in a straight line over the longest distance from the eye to any part of the hook, when fishing with or possessing green-stick gear on board a vessel that has been issued or required to be issued a LAP under this part, as specified at § 635.21(c)(2)(v)(A) or (c)(5)(iii)(C).
 
 (41) Fail to report bluefin catch by pelagic longline or purse seine gear, through VMS as specified at § 635.69(e)(4).
 
