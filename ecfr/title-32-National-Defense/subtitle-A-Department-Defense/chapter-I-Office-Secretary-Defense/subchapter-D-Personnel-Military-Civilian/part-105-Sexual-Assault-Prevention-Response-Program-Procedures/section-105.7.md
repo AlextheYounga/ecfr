@@ -16,7 +16,7 @@
 
 (7) Develop oversight metrics to measure compliance and effectiveness of SAPR training, sexual assault awareness, prevention, and response policies and programs. Collect and maintain data in accordance with these metrics, analyze data, and make recommendations regarding SAPR policies and programs to the USD(P&R) and the Secretaries of the Military Departments.
 
-(8) Establish reporting categories and monitor specific goals included in the annual SAPR assessments of each Military Service and its respective Military Service Academy, as required by 32 CFR part 103,of this part and in accordance with § 105.16 of this part.
+(8) Establish reporting categories and monitor specific goals included in the annual SAPR assessments of each Military Service and its respective Military Service Academy, as required by 32 CFR part 103 and in accordance with § 105.16.
 
 (9) Acquire quarterly, annual, and installation-based SAPR data from the Military Services and assemble annual congressional reports involving persons covered by this part and 32 CFR part 103. Consult with and rely on the Secretaries of the Military Departments in questions concerning disposition results of sexual assault cases in their respective Military Department.
 
@@ -62,7 +62,7 @@
 
 (v) A G/FO or DoD SES civilian from: the Joint Staff, Manpower and Personnel (J-1); the Office of the Assistant Secretary of Defense for Reserve Affairs; the NGB; the Office of the GC, DoD; and the Office of the ASD(HA). Other DoD Components representatives shall be invited to specific SAPR IPT meetings when their expertise is needed to inform and resolve issues being addressed. A senior representative from the Coast Guard shall be an invited guest.
 
-(vi) Consistent with Section 8(c) of title 5 U.S.C., also known as “The Inspector General Act of 1978.' ”, the IG DoD shall be authorized to send one or more observers to attend all SAPR IPT meetings in order to monitor and evaluate program performance.
+(vi) Consistent with Section 8(c) of title 5 U.S.C., also known as “The Inspector General Act of 1978”, the IG DoD shall be authorized to send one or more observers to attend all SAPR IPT meetings in order to monitor and evaluate program performance.
 
 (2) *Duties.* The SAPR IPT shall:
 
@@ -72,7 +72,7 @@
 
 (iii) Meet every other month. Ad hoc meetings may be scheduled as necessary at the discretion of the chair. Members are selected and meetings scheduled according to the SAPR IPT Charter.
 
-(iv) Discuss and analyze broad SAPR issues that may generate targeted topics for working groups . Working groups shall focus on one select issue, be governed by a charter with enumerated goals for which the details will be laid out in individual work plans (see § 105.3), and be subject to a definitive timeline for the accomplishment of the stated goals. Issues that cannot be resolved by the SAPR IPT or that require higher level decision making shall be sent to the USD(P&R) for resolution.
+(iv) Discuss and analyze broad SAPR issues that may generate targeted topics for working groups. Working groups shall focus on one select issue, be governed by a charter with enumerated goals for which the details will be laid out in individual work plans (see § 105.3), and be subject to a definitive timeline for the accomplishment of the stated goals. Issues that cannot be resolved by the SAPR IPT or that require higher level decision making shall be sent to the USD(P&R) for resolution.
 
 (3) *Chair duties.* The chair shall:
 

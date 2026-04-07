@@ -2,13 +2,13 @@
 
 (a) *DoDEA Area School Districts Relationship With SEAs or LEAs in Member States.*
 
-(1) For the purposes of DoD's implementation of the Compact in the schools it operates, DoDEA's area offices (DoDDS - Europe, DoDDS - Pacific, and DDESS) and their schools are considered as the equivalent of LEAs and SEAs, respectively.
+(1) For the purposes of DoD's implementation of the Compact in the schools it operates, DoDEA's area offices (DoDDS—Europe, DoDDS—Pacific, and DDESS) and their schools are considered as the equivalent of LEAs and SEAs, respectively.
 
 (2) Each DoDEA area acts as the “receiving LEA” and “sending LEA” in working with LEAs or SEAs in member States.
 
 (b) *Articles IV Through VII of the Compact.* This section describes the specific duties that DoDEA's LEAs have as “sending” or “receiving” LEAs. DoDEA's duties under this section will reciprocate the duties assumed by member State LEAs or SEAs to children of military families, as expressed by their respective State's implementation of the Compact Articles IV through VII. DoDEA will implement the provisions described below, which, while retaining the intent of the Compact, have been modified as needed in the DoDEA context.
 
-(1) *Article IV: Education Records and Enrollment* - (i) *Unofficial or “Hand-Carried” Education Records.* (A) If official education records cannot be released to the parents for transfer, the DoDEA custodian of the records, as the sending LEA shall provide to the parent a complete set of unofficial education records.
+(1) *Article IV: Education Records and Enrollment*—(i) *Unofficial or “Hand-Carried” Education Records.* (A) If official education records cannot be released to the parents for transfer, the DoDEA custodian of the records, as the sending LEA shall provide to the parent a complete set of unofficial education records.
 
 (B) Upon receipt of the unofficial education records, the DoDEA school, as the school in the receiving LEA shall enroll and appropriately place the child as quickly as possible based on the information in the unofficial records, pending validation by the official records.
 
@@ -34,7 +34,7 @@
 
 (*4*) Evidence of date of birth.
 
-(2) *Article V: Placement and Attendance* - (i) *Course placement.* (A) As long as the course is offered by DoDEA, as the receiving LEA, it shall honor placement of a transfer student in courses based on the child's placement or educational assessment in the sending State school.
+(2) *Article V: Placement and Attendance*—(i) *Course placement.* (A) As long as the course is offered by DoDEA, as the receiving LEA, it shall honor placement of a transfer student in courses based on the child's placement or educational assessment in the sending State school.
 
 (B) Course placement includes, but is not limited to, Honors, International Baccalaureate, Advanced Placement, vocational, technical, and career pathways courses.
 

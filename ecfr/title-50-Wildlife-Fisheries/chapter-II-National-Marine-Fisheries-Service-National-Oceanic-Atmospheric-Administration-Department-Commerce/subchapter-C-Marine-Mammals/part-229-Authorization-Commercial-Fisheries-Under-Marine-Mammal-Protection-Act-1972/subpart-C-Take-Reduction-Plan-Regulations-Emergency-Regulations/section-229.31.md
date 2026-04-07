@@ -4,7 +4,7 @@
 
 (b) *Extenders.* An *extender* is a line that attaches a buoy (float) to a drift gillnet's floatline. The floatline is attached to the top of the drift gillnet. All extenders (buoy lines) must be at least 6 fathoms (36 ft; 10.9 m) in length during all sets. Accordingly, all floatlines must be fished at a minimum of 36 feet (10.9 m) below the surface of the water.
 
-(c) *Pingers.* (1) For the purposes of this paragraph (c), a pinger is an acoustic deterrent device which, when immersed in water, broadcasts a 10 kHz (±2 kHz) sound at 132 dB (±4 dB) re 1 micropascal at 1 m, lasting 300 milliseconds ( + 15 milliseconds), and repeating every 4 seconds ( + .2 seconds); and remains operational to a water depth of at least 100 fathoms (600 ft or 182.88 m).
+(c) *Pingers.* (1) For the purposes of this paragraph (c), a pinger is an acoustic deterrent device which, when immersed in water, broadcasts a 10 kHz (±2 kHz) sound at 132 dB (±4 dB) re 1 micropascal at 1 m, lasting 300 milliseconds (+ 15 milliseconds), and repeating every 4 seconds (+ .2 seconds); and remains operational to a water depth of at least 100 fathoms (600 ft or 182.88 m).
 
 (2) While at sea, operators of drift gillnet vessels with gillnets onboard must carry enough pingers on the vessel to meet the requirements set forth under paragraphs (c)(3) through(6) of this section.
 

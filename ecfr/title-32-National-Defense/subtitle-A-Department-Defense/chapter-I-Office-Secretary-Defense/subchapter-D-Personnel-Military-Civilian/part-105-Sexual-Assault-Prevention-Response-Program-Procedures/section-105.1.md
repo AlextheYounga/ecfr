@@ -2,7 +2,7 @@
 
 This part, in accordance with the authority in DoDD 5124.02 1 and 32 CFR part 103:
 
-1 Available: *http://www.dtic.mil/whs/directives/corres/pdf/512402p.pdf.*
+1 Available: *http://www.dtic.mil/whs/directives/corres/pdf/512402p.pdf.* 
 
 (a) Establishes policy and implements 32 CFR part 103, assigns responsibilities, and provides guidance and procedures for the SAPR Program (see 32 CFR 103.3), can be found at *www.dtic.mil/whs/directives/corres/pdf/649501p.pdf*;
 
@@ -10,7 +10,7 @@ This part, in accordance with the authority in DoDD 5124.02 1 and 32 CFR part 10
 
 (c) Establishes the multidisciplinary Case Management Group (CMG) (see § 105.3) and provides guidance on how to handle sexual assault;
 
-(d) Establishes Sexual Assault Prevention and Response (SAPR) minimum program standards, SAPR training requirements, and SAPR requirements for the DoD Annual Report on Sexual Assault in the Military consistent with the DoD Task Force Report on Care for Victims of Sexual Assault 2 and pursuant to DoDD 5124.02 and 32 CFR part 103, 10 U.S.C. 113, 10 U.S.C., and Public Laws 112-239, 113-66, 113-291, and 114-92 ; and
+(d) Establishes Sexual Assault Prevention and Response (SAPR) minimum program standards, SAPR training requirements, and SAPR requirements for the DoD Annual Report on Sexual Assault in the Military consistent with the DoD Task Force Report on Care for Victims of Sexual Assault 2 and pursuant to DoDD 5124.02 and 32 CFR part 103, 10 U.S.C., and Public Laws 112-239, 113-66, 113-291, and 114-92; and
 
 2 Available: *http://www.dtic.mil/whs/directives/corres/pdf/512402p.pdf.*
 
