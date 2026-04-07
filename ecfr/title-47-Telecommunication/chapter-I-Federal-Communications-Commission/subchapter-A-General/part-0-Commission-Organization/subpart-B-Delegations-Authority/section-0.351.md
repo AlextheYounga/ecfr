@@ -1,5 +1,7 @@
 ##### § 0.351 Authority delegated.
 
+Link to an amendment published at 85 FR 63171, Oct. 6, 2020.
+
 The Chief Administrative Law Judge shall act on the following matters in proceedings conducted by hearing examiners:
 
 (a) Initial specifications of the time and place of hearings where not otherwise specified by the Commission and excepting actions under authority delegated by § 0.296.
