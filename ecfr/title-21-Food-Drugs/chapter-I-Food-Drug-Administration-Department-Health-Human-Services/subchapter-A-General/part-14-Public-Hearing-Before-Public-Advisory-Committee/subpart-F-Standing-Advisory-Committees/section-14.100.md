@@ -4,31 +4,25 @@ Standing advisory committees and the dates of their establishment are as follows
 
 (a) *Office of the Commissioner*—
 
-(1) *Board of Tea Experts.*
-
-(i) Date established: March 2, 1897.
-
-(ii) Function: Advises on establishment of uniform standards of purity, quality, and fitness for consumption of all tea imported into the United States under 21 U.S.C. 42.
-
-(2) *Science Board to the Food and Drug Administration.*
+(1) *Science Board to the Food and Drug Administration.*
 
 (i) Date established: June 26, 1992.
 
 (ii) Function: The board shall provide advice primarily to the agency's Senior Science Advisor and, as needed, to the Commissioner and other appropriate officials on specific complex and technical issues as well as emerging issues within the scientific community in industry and academia. Additionally, the board will provide advice to the agency on keeping pace with technical and scientific evolutions in the fields of regulatory science; on formulating an appropriate research agenda; and on upgrading its scientific and research facilities to keep pace with these changes. It will also provide the means for critical review of agency sponsored intramural and extramural scientific research programs.
 
-(3) *Pediatric Advisory Committee.*
+(2) *Pediatric Advisory Committee.*
 
 (i) Date established: June 18, 2004.
 
 (ii) Function: Advises on pediatric therapeutics, pediatric research, and other matters involving pediatrics for which the Food and Drug Administration has regulatory responsibility.
 
-(4) *Risk Communication Advisory Committee.*
+(3) *Risk Communication Advisory Committee.*
 
 (i) Date rechartered: July 9, 2009.
 
 (ii) Function: The committee reviews and evaluates strategies and programs designed to communicate with the public about the risks and benefits of FDA-regulated products so as to facilitate optimal use of these products. The committee also reviews and evaluates research relevant to such communication to the public by both FDA and other entities. It also facilitates interactively sharing risk and benefit information with the public to enable people to make informed independent judgments about use of FDA-regulated products.
 
-(5) *Tobacco Products Scientific Advisory Committee.*
+(4) *Tobacco Products Scientific Advisory Committee.*
 
 (i) Date Established: August 12, 2009.
 
