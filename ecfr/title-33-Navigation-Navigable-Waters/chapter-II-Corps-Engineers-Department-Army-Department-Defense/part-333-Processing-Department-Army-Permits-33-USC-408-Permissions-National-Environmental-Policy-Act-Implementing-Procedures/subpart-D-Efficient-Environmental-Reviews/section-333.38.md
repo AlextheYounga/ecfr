@@ -1,0 +1,3 @@
+##### § 333.38 Unique identification numbers.
+
+For all environmental documents, the District Engineer will provide a unique identification number for tracking purposes, which the District Engineer will reference on all associated environmental review documents prepared for the proposed agency action and in any database or tracking system for such documents. The District Engineer will coordinate with the CEQ and other Federal agencies to ensure uniformity of such identification numbers across Federal agencies.

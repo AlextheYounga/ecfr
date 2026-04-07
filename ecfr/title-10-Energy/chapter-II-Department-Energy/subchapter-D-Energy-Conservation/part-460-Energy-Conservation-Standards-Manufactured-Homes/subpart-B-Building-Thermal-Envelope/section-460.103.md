@@ -1,6 +1,6 @@
 ##### § 460.103 Installation of insulation.
 
-Insulating materials must be installed according to the insulation manufacturer's installation instructions and the requirements set forth in table 1 to 460.103, which is adapted from section R402 of the 2021 IECC.
+Insulating materials must be installed according to the insulation manufacturer's installation instructions and the requirements set forth in table 1 to 460.103, which is adapted from section R402 of the 2021 IECC. 
 
 Table 1 to § 460.103—Installation of Insulation
 | Component                               | Installation requirements                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

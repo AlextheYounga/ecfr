@@ -1,9 +1,13 @@
-##### § 955.26 Representation of the parties.
+##### § 955.26 (Rule 26) Failure to prosecute.
 
-(a) The term *appellant* means a party that has filed an appeal for resolution by the Board. An individual appellant may appear before the Board in his or her own behalf, a corporation may appear before the Board by an officer thereof, a partnership or joint venture may appear before the Board by a member thereof. Any appellant may appear before the Board by an attorney at law duly licensed in any state, commonwealth, territory of the United States, or in the District of Columbia. An attorney representing an appellant shall register in the electronic filing system, and file a notice of appearance. The notice of appearance must include an email address, mailing address, telephone number, fax number, and a jurisdiction in which the attorney is licensed to practice law. 
+(a) The Board may issue an order to show cause why an appeal should not be dismissed or granted, as appropriate, for failure to prosecute when a party:
 
-(b) The term *respondent* means the U.S. Postal Service. Postal Service counsel, who shall be an attorney at law licensed to practice in a state, commonwealth, or territory of the United States, or in the District of Columbia, designated by the General Counsel, will represent the interest of the Postal Service before the Board. Postal Service counsel shall register in the electronic filing system, and file a written notice of appearance with the Board. The notice of appearance must include an email address, mailing address, telephone number, fax number, and a jurisdiction in which the attorney is licensed to practice law. 
+(1) Fails to file a document required by this part;
 
-(c) References to *contractor, appellant, contracting officer, respondent and parties* shall include respective counsel for the parties, as soon as appropriate notices of appearance have been filed with the Board. A self-represented party or an attorney representing either party shall inform the Board promptly of any change in his or her email address, mailing address, telephone number, or fax number, and must enter the appropriate changes promptly in the electronic filing system. 
+(2) Fails to respond to notices or correspondence from the Board;
 
-\[80 FR 31305, June 2, 2015\]
+(3) Fails to comply with the Board's orders; or
+
+(4) Otherwise indicates it will not continue to participate in an appeal.
+
+(b) If the offending party fails to show cause, the Board may grant, deny, or dismiss the appeal for failure to prosecute or take any other reasonable action under the circumstances.

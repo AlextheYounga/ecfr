@@ -1,0 +1,3 @@
+##### § 333.41 Decision documents.
+
+At the time of its decision on its proposed action, the Corps may prepare and timely publish a concise public decision document notifying the public that the District Engineer has certified that the Corps has considered all relevant information raised in the NEPA process and that the NEPA process has closed. To avoid duplication, a finding of no significant impact may reference the environmental assessment and a record of decision may reference the environmental impact statement. The decision document prepared for NEPA compliance informs the final agency action of making the decision on the permit application or the request for permission under 33 U.S.C. 408(a) but is not the final agency action.

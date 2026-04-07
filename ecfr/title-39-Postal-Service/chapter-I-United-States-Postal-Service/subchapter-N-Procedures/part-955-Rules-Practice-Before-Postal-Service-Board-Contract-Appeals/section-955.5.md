@@ -1,23 +1,17 @@
-##### § 955.5 Preparation, contents, organization, forwarding, and status of appeal file.
+##### § 955.5 (Rule 5) Motions.
 
-(a) *Duties of the respondent.* Within 30 days from receipt of the Board's docketing notice, or such other period as the Board may order, the respondent's counsel shall file with the Board an appeal file consisting of all documents pertinent to the appeal. The appeal file shall include: 
+(a) *Generally.* The Board may rule on written and oral motions. Written motions should state the relief sought and legal basis for the motion. At its discretion, the Board may hold oral argument or defer ruling on a motion. A motion filed in lieu of an answer must be filed no later than the date on which the answer is due, unless the Board provides otherwise. Any other dispositive motion should be promptly filed.
 
-(1) The claim and contracting officer's final decision from which the appeal is taken; 
+(b) *Jurisdictional motions.* Jurisdictional motions should be promptly filed. The Board may at any time and on its own initiative raise the issue of its jurisdiction.
 
-(2) The contract, including pertinent specifications, amendments, plans and drawings; 
+(c) *Motions for summary judgment.* In deciding a motion for summary judgment, the Board will be guided by Rule 56 of the Federal Rules of Civil Procedure. The Board may, however, defer ruling on a motion for summary judgment until after an evidentiary hearing. Motions for summary judgment may be filed only when a party believes that, based on uncontested material facts, it is entitled to judgment as a matter of law. In lieu of filing a motion for summary judgment, a party should consider submitting a request to have the appeal decided on the written record without a hearing. See §§ 955.8 and 955.11 (Rules 8 and 11).
 
-(3) All correspondence between the parties pertinent to the appeal; 
+(1) Motions for summary judgment must include a Statement of Uncontested Material Facts containing separately numbered paragraphs listing all the material facts on which the moving party bases its motion and as to which it contends there is no genuine dispute. The moving party must include references to affidavits, declarations, and documents relied on to support each material fact.
 
-(4) Transcripts of any testimony taken during the course of proceedings, and affidavits or statements of any witnesses on the matter in dispute made prior to the filing of the notice of appeal; and 
+(2) With its opposition to the motion, the non-moving party must file a separate Statement of Genuine Issues of Material Facts identifying, by paragraph number from the Statement of Uncontested Material Facts, the specific facts the non-moving party claims are genuinely disputed. The non-moving party must state the precise nature of its disagreement and include references to affidavits, declarations, and documents that demonstrate the existence of a genuine dispute. The non-moving party may also propose additional material facts.
 
-(5) Any additional information considered pertinent. 
+(3) The parties must each include a memorandum of law supporting or opposing summary judgment.
 
-(b) *Duties of the appellant.* Within 30 days after receipt of a copy of the appeal file, the appellant shall supplement the appeal file by transmitting to the Board any documents not contained therein considered to be pertinent to the appeal. 
+(4) The Board will consider a request from the non-moving party for time to obtain affidavits or declarations or to take discovery before filing its response to the motion.
 
-(c) *Organization of appeal file.* Documents in the appeal file or supplement, as applicable shall be arranged in chronological order where practicable, numbered sequentially, tabbed, and indexed, to identify the contents. Page numbering shall be consecutive and continuous from one document to the next, so that the complete file or supplement, as applicable, will consist of one set of consecutively numbered pages. 
-
-(d) *Lengthy documents.* The Board may waive the requirement to exchange or electronically file bulky, lengthy, or out-of-size documents, or tangible evidence in the appeal file on a showing of impracticality or undue burden. Documents or tangible evidence subject to a waiver will be available for inspection at the Board.
-
-(e) *Status of documents in appeal file.* Documents contained in the appeal file are considered, without further action by the parties, as part of the record upon which the Board will render its decision, unless a party objects to the consideration of a particular document. Unless otherwise provided by Board order, any such objection shall be made at least 10 days prior to a hearing or the date specified for settling the record in the event there is no hearing on the appeal. If timely objection to a document is made, the Board will rule upon its admissibility into the record as evidence in accordance with §§ 955.14 and 955.21. 
-
-\[74 FR 20592, May 5, 2009, as amended at 80 FR 31304, June 2, 2015\]
+(d) *Non-dispositive motions.* Non-dispositive motions, such as motions for time extensions and motions to compel, must indicate that the moving party tried to resolve the issue with the other party before filing. See § 955.14 (Rule 14).

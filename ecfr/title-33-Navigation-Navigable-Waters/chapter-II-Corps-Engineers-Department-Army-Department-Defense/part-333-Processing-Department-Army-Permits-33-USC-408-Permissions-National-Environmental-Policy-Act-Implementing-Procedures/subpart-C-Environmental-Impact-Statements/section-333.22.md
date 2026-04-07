@@ -1,0 +1,7 @@
+##### § 333.22 Purpose and need.
+
+(a) The statement will include the purpose and need for the proposed agency action based on the Corps' statutory authority and independent judgment. The purpose and need for the proposed agency action must be informed by the goals of the applicant. The applicant may provide a statement of the purpose and need from their perspective, but the District Engineer will exercise independent judgment in defining the purpose and need for the project.
+
+(b) If the scope of analysis for the NEPA document (see § 333.18(b) of this part) covers only the proposed specific activity requiring a Department of the Army permit or 33 U.S.C. 408 permission, then the underlying purpose and need for that specific activity should be stated. (For example, “The purpose and need for the pipe is to obtain cooling water from the river for the electric generating plant.”)
+
+(c) If the scope of analysis covers a more extensive project, only part of which may require a DA permit or 33 U.S.C. 408 permission, then the underlying purpose and need for the entire project should be stated. (For example, “The purpose and need for the electric generating plant is to provide increased supplies of electricity to the (named) geographic area.”)

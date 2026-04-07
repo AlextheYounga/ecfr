@@ -1,0 +1,3 @@
+##### § 333.29 Review of other agencies' environmental impact statements.
+
+District Engineers should provide comments directly to the requesting agency specifically related to the Corps jurisdiction by law or special expertise. If the District Engineer determines that another agency's environmental impact statement which involves a Corps permit or permission action is inadequate with respect to the Corps permit or permission action, the district engineer should attempt to resolve the differences concerning the Corps permit or permission action prior to the filing of the environmental impact statement by the other agency.

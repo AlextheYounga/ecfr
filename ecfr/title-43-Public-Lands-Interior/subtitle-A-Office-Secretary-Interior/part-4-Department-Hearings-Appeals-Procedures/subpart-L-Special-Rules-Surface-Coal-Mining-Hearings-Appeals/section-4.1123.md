@@ -1,9 +1,9 @@
 ##### § 4.1123 Notice of hearing.
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment was delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.This amendment was further delayed until May 5, 2025, at 90 FR 12461, Mar. 18, 2025.This amendment was further delayed to June 4, 2025, at 90 FR 18927, May 5, 2025.This amendment was further delayed until July 21, 2025, at 90 FR 24231, June 9, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
-(a) An administrative law judge shall give notice to the parties of the time, place and nature of any hearing.
+(a) An administrative law judge shall give notice to the parties of the time, place and nature of any hearing. 
 
-(b) Except for expedited review proceedings and temporary relief proceedings where time is of the essence, notice given under this section shall be in writing.
+(b) Except for expedited review proceedings and temporary relief proceedings where time is of the essence, notice given under this section shall be in writing. 
 
 (c) In an expedited proceeding when there is only opportunity to give oral notice, the administrative law judge shall enter that fact contemporaneously on the record by a signed and dated memorandum describing the notice given.

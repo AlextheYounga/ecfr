@@ -1,3 +1,3 @@
-##### § 955.25 Transcript of proceedings.
+##### § 955.25 (Rule 25) Indefinite suspension.
 
-Testimony and argument at hearings shall be reported verbatim, unless the Board otherwise orders. Transcripts of the proceedings will be provided to the parties by the Board.
+In certain cases, appeals need to be suspended indefinitely for reasons not within the Board's control. If the suspension has continued, or it appears that it will continue, for an inordinate length of time, the Board may suspend the appeal. If neither party moves to lift the suspension within one year, the Board may dismiss the appeal with prejudice.

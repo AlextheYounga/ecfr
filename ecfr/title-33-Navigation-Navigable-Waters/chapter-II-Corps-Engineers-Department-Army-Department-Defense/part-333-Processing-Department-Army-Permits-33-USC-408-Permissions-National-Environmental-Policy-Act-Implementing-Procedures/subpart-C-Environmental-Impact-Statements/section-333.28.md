@@ -1,0 +1,3 @@
+##### § 333.28 Comments received on an environmental impact statement.
+
+For permit applications or requests for permissions to be decided at the district level, the District Engineer should consider incoming comments and provide responses in the environmental impact statement when substantive issues are raised. For permit applications or requests for permissions to be decided at a higher authority, the District Engineer shall forward any comment letters together with appropriate responses to the higher authority.

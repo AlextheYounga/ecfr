@@ -1,0 +1,3 @@
+##### § 333.27 Public hearing.
+
+If a public hearing is to be held pursuant to 33 CFR part 327, or any other authority, for a permit application requiring an environmental impact statement, the actions analyzed by the environmental impact statement should be considered at the public hearing. The District Engineer can, but need not, make a draft of the environmental impact statement available to the public and, in instances where the District Engineer does so, should do so at least 15 days in advance of the hearing. If a hearing request is received from another agency having jurisdiction over an element of the applicant's activity, the district engineer should coordinate a joint hearing with that agency whenever appropriate.

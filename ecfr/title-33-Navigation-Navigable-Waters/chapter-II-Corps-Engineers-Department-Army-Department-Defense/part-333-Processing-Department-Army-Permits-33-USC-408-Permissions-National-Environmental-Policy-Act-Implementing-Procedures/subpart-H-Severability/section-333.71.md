@@ -1,0 +1,3 @@
+##### § 333.71 Severability.
+
+The sections of this part are separate and severable from one another. If any section or portion therein is stayed or determined to be invalid, or the applicability of any section to any person or entity is held invalid, it is the Corps' intention that the validity of the remainder of those parts will not be affected. The remaining sections or portions, and all applications thereof, shall continue to be in effect.

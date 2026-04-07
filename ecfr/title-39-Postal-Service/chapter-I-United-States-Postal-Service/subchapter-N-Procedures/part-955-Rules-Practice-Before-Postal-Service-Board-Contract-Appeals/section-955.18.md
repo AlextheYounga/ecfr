@@ -1,5 +1,5 @@
-##### § 955.18 Hearings—where and when held.
+##### § 955.18 (Rule 18) Copies of evidence and return of exhibits.
 
-If there is to be a hearing, it will be held at a time and place prescribed by the Board after consultation with the parties. At the discretion of the Board, hearings may be held in the Board's hearing room in Arlington, Virginia or may be held at another location with due consideration to the just, informal, expeditious and inexpensive resolution of each case. 
+(a) When books, records, papers, or documents have been received in evidence, a true copy of all or part of the evidence may be substituted for the original either during or at the end of the hearing.
 
-\[74 FR 20592, May 5, 2009, as amended at 76 FR 37660, June 28, 2011\]
+(b) After a decision becomes final, the Board may permit the return of original exhibits to the party entitled to possess them. The Board may also require substitution of the original exhibits with copies.

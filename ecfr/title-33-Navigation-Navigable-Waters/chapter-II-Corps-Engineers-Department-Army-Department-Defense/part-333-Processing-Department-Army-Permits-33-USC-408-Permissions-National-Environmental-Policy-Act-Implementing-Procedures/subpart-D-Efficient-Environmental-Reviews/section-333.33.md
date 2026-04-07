@@ -1,0 +1,3 @@
+##### § 333.33 Incorporation.
+
+The District Engineer may incorporate material, such as planning studies, analyses, or other relevant information, into environmental documents by reference when the effect will be to cut down on bulk without impeding the Corps review of the action. When incorporating material by reference, the District Engineer will cite, briefly describe the content and relevance to the environmental document, and make the materials reasonably available for review by potentially interested parties. The District Engineer will not use incorporation as a means to evade the statutory page limits.
