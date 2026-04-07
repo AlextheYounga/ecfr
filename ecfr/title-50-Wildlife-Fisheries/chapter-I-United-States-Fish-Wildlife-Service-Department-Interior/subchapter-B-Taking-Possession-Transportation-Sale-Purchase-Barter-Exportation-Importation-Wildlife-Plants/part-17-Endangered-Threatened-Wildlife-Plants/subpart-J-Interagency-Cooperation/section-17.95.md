@@ -20365,11 +20365,49 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 87 FR 40135, July 6, 2022.
+![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (f) *Clams and Snails.*
 
-Appalachian Elktoe (*Alasmidonta raveneliana*)
+Canoe Creek Clubshell (*Pleurobema athearni*)
+
+(1) Critical habitat units are depicted for St. Clair and Etowah Counties, Alabama, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Canoe Creek clubshell consist of the following components:
+
+(i) Suitable substrates and connected instream habitats, characterized by a geomorphically stable stream channel (a channel that maintains its lateral dimensions, longitudinal profile, and spatial pattern over time without aggrading or degrading bed elevation) and connected instream habitats (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel and coarse sand substrates).
+
+(ii) A hydrologic flow regime (*i.e.,* the magnitude, frequency, duration, and seasonality of discharge over time) necessary to maintain benthic habitats where the species is found; to maintain connectivity of streams with the floodplain; and to provide for normal behavior, growth, and survival of all life stages of Canoe Creek clubshell mussels and their fish hosts.
+
+(iii) Water quality (including, but not limited to, temperature, conductivity, hardness, turbidity, ammonia, heavy metals, oxygen content, and other chemical characteristics) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages of Canoe Creek clubshell mussels and their fish hosts.
+
+(iv) Sediment quality (including, but not limited to, coarse sand and/or gravel substrates with low to moderate amounts of fine sediment, low amounts of attached filamentous algae, and other physical and chemical characteristics) necessary for normal behavior, growth, and viability of all life stages of Canoe Creek clubshell mussels and their fish hosts.
+
+(v) The presence and abundance of fish hosts, which may include the tricolor shiner (*Cyprinella trichroistia*), Alabama shiner (*C. callistia*), and striped shiner (*Luxilus chrysocephalus*), necessary for recruitment of the Canoe Creek clubshell mussel.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on the effective date of the final rule.
+
+(4) Data layers defining map units were created from the National Hydrography High Resolution Dataset, and critical habit units were mapped using North American Datum (NAD) 1983 Universal Transverse Mercator (UTM) Zone 16N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/daphne,* at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2020-0078, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+![](/graphics/er06jy22.001.gif)
+
+(6) Unit 1: Little Canoe Creek East, St. Clair and Etowah Counties, Alabama.
+
+(i) Unit 1 consists of 9.7 river km (6.0 river mi) of Little Canoe Creek East, due east of the Town of Steele, in St. Clair and Etowah Counties, Alabama.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er06jy22.002.gif)
+
+(7) Unit 2: Big Canoe Creek/Little Canoe Creek West, St. Clair County, Alabama.
+
+(i) Unit 2 consists of 48.8 river km (30.3 river mi) of Big Canoe Creek and its tributary Little Canoe Creek West.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er06jy22.003.gif)Appalachian Elktoe (*Alasmidonta raveneliana*)
 
 (1) Critical habitat units are described below and depicted in the maps that follow, with the lateral extent of each designated unit bounded by the ordinary high-water line. The maps provided are for informational purposes only.
 
