@@ -1,34 +1,34 @@
 ##### § 648.81 NE multispecies year-round and seasonal closed areas.
 
-(a) *Year-round groundfish closed areas*—(1) *Restrictions.* No fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the, Cashes Ledge, Western Gulf of Maine, or Closed Area II Closure Areas, unless otherwise allowed by or exempted under this part. Charts of the areas described in this section are available from the Regional Administrator upon request. 
+(a) *Year-round groundfish closed areas*—(1) *Restrictions.* No fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the, Cashes Ledge, Western Gulf of Maine, or Closed Area II Closure Areas, unless otherwise allowed by or exempted under this part. Charts of the areas described in this section are available from the Regional Administrator upon request.
 
-(2) *Exemptions.* Unless restricted by the requirements of subpart P of this part or elsewhere in this part, paragraph (a)(1) of this section does not apply to a fishing vessel or person on a fishing vessel when fishing under the following conditions: 
+(2) *Exemptions.* Unless restricted by the requirements of subpart P of this part or elsewhere in this part, paragraph (a)(1) of this section does not apply to a fishing vessel or person on a fishing vessel when fishing under the following conditions:
 
-(i) Fishing with or using exempted gear as defined under this part, except for pelagic gillnet gear capable of catching NE multispecies, unless fishing with a single pelagic gillnet not longer than 300 ft (91.4 m) and not greater than 6 ft (1.83 m) deep, with a maximum mesh size of 3 inches (7.6 cm), provided that: 
+(i) Fishing with or using exempted gear as defined under this part, except for pelagic gillnet gear capable of catching NE multispecies, unless fishing with a single pelagic gillnet not longer than 300 ft (91.4 m) and not greater than 6 ft (1.83 m) deep, with a maximum mesh size of 3 inches (7.6 cm), provided that:
 
-(A) The net is attached to the boat and fished in the upper two-thirds of the water column; 
+(A) The net is attached to the boat and fished in the upper two-thirds of the water column;
 
-(B) The net is marked with the owner's name and vessel identification number; 
+(B) The net is marked with the owner's name and vessel identification number;
 
-(C) No regulated species or ocean pout are retained; and 
+(C) No regulated species or ocean pout are retained; and
 
-(D) No other gear capable of catching NE multispecies is on board; 
+(D) No other gear capable of catching NE multispecies is on board;
 
-(ii) Fishing in the Midwater Trawl Gear Exempted Fishery as specified in § 648.80(d); 
+(ii) Fishing in the Midwater Trawl Gear Exempted Fishery as specified in § 648.80(d);
 
-(iii) Fishing in the Purse Seine Gear Exempted Fishery as specified in § 648.80(e); 
+(iii) Fishing in the Purse Seine Gear Exempted Fishery as specified in § 648.80(e);
 
-(iv) Fishing under charter/party or recreational regulations specified in § 648.89, provided that: 
+(iv) Fishing under charter/party or recreational regulations specified in § 648.89, provided that:
 
-(A) A letter of authorization issued by the Regional Administrator is onboard the vessel, which is valid from the date of enrollment until the end of the fishing year; 
+(A) A letter of authorization issued by the Regional Administrator is onboard the vessel, which is valid from the date of enrollment until the end of the fishing year;
 
-(B) No harvested or possessed fish species managed by the NEFMC or MAFMC are sold or intended for trade, barter or sale, regardless of where the fish are caught; 
+(B) No harvested or possessed fish species managed by the NEFMC or MAFMC are sold or intended for trade, barter or sale, regardless of where the fish are caught;
 
-(C) Only rod and reel or handline gear is on board the vessel; and 
+(C) Only rod and reel or handline gear is on board the vessel; and
 
-(D) No NE multispecies DAS are used during the entire period for which the letter of authorization is valid. 
+(D) No NE multispecies DAS are used during the entire period for which the letter of authorization is valid.
 
-(3) *Cashes Ledge Closure Area.* The Cashes Ledge Closure Area is defined by straight lines connecting the following points in the order stated: 
+(3) *Cashes Ledge Closure Area.* The Cashes Ledge Closure Area is defined by straight lines connecting the following points in the order stated:
 
 Cashes Ledge Closure Area
 | Point | N lat.     | W long.    |
@@ -41,7 +41,7 @@ Cashes Ledge Closure Area
 | CL6   | 42°49.5′ N | 69°26′ W   |
 | CL1   | 43°07′ N   | 69°02′ W   |
 
-(4) *Western Gulf of Maine Closure Area.* The Western Gulf of Maine Closure Area is defined by straight lines connecting the following points in the order stated: 
+(4) *Western Gulf of Maine Closure Area.* The Western Gulf of Maine Closure Area is defined by straight lines connecting the following points in the order stated:
 
 Western Gulf of Maine Closure Area
 | Point | N latitude | W longitude |
@@ -52,7 +52,7 @@ Western Gulf of Maine Closure Area
 | WGM4  | 43°15′     | 70°00′      |
 | WGM1  | 43°15′     | 70°15′      |
 
-(5) *Closed Area II Closure Area.* (i) The Closed Area II Closure Area is defined by straight lines, unless otherwise noted, connecting the following points in the order stated: 
+(5) *Closed Area II Closure Area.* (i) The Closed Area II Closure Area is defined by straight lines, unless otherwise noted, connecting the following points in the order stated:
 
 Closed Area II Closure Area
 | Point                                                                                                                              | N lat.    | W long.  | Note |
@@ -67,49 +67,49 @@ Closed Area II Closure Area
 | 2 From Point CAII3 to Point CAII4 along the U.S.-Canada Maritime Boundary.                                                         |           |          |      |
 | 3 The intersection of 67°20′ W long. And the U.S.-Canada Maritime Boundary, approximately 42°22.06′ N lat. and 67°20′ W long.      |           |          |      |
 
-(ii) Unless otherwise restricted under the EFH Closure(s) specified in paragraph (h) of this section, paragraph (a)(5)(i) of this section does not apply to persons on fishing vessels or fishing vessels— 
+(ii) Unless otherwise restricted under the EFH Closure(s) specified in paragraph (h) of this section, paragraph (a)(5)(i) of this section does not apply to persons on fishing vessels or fishing vessels—
 
-(A) Fishing with gears as described in paragraph (a)(2) this section. 
+(A) Fishing with gears as described in paragraph (a)(2) this section.
 
-(B) Fishing with tuna purse seine gear outside of the portion of Closed Area II known as the Habitat Area of Particular Concern, as described in § 648.370(g). 
+(B) Fishing with tuna purse seine gear outside of the portion of Closed Area II known as the Habitat Area of Particular Concern, as described in § 648.370(g).
 
-(C) Fishing in the CA II Yellowtail Flounder/Haddock SAP or the Eastern U.S./Canada Haddock SAP Program as specified in § 648.85(b)(3)(ii) or (b)(7)(ii), respectively. 
+(C) Fishing in the CA II Yellowtail Flounder/Haddock SAP or the Eastern U.S./Canada Haddock SAP Program as specified in § 648.85(b)(3)(ii) or (b)(7)(ii), respectively.
 
-(D) Transiting the area, provided the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2; and 
+(D) Transiting the area, provided the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2; and
 
-(*1*) The operator has determined, and a preponderance of available evidence indicates, that there is a compelling safety reason; or 
+(*1*) The operator has determined, and a preponderance of available evidence indicates, that there is a compelling safety reason; or
 
-(*2*) The vessel has declared into the Eastern U.S./Canada Area as specified in § 648.85(a)(3)(ii) and is transiting CA II in accordance with the provisions of § 648.85(a)(3)(vii). 
+(*2*) The vessel has declared into the Eastern U.S./Canada Area as specified in § 648.85(a)(3)(ii) and is transiting CA II in accordance with the provisions of § 648.85(a)(3)(vii).
 
-(E) Fishing for scallops within the Closed Area II Access Area defined in § 648.59(c)(3), during the season specified in § 648.59(c)(4), and pursuant to the provisions specified in § 648.60. 
+(E) Fishing for scallops within the Closed Area II Access Area defined in § 648.59(c)(3), during the season specified in § 648.59(c)(4), and pursuant to the provisions specified in § 648.60.
 
-(b) *Gulf of Maine spawning groundfish closures*—(1) *Restrictions.* Unless allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the spawning closure areas described in paragraphs (b)(3) and (4) of this section, during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request. 
+(b) *Gulf of Maine spawning groundfish closures*—(1) *Restrictions.* Unless allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the spawning closure areas described in paragraphs (b)(3) and (4) of this section, during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
 
-(2) *Exemptions.* Paragraph (b)(1) of this section does not apply to a fishing vessel or person on a fishing vessel: 
+(2) *Exemptions.* Paragraph (b)(1) of this section does not apply to a fishing vessel or person on a fishing vessel:
 
-(i) That has not been issued a NE multispecies permit that is fishing exclusively in state waters; 
+(i) That has not been issued a NE multispecies permit that is fishing exclusively in state waters;
 
-(ii) That is fishing with or using exempted gear as defined under this part, excluding pelagic gillnet gear capable of catching NE multispecies, except for a vessel fishing with a single pelagic gillnet not longer than 300 ft (91.4 m) and not greater than 6 ft (1.83 m) deep, with a maximum mesh size of 3 inches (7.6 cm), provided: 
+(ii) That is fishing with or using exempted gear as defined under this part, excluding pelagic gillnet gear capable of catching NE multispecies, except for a vessel fishing with a single pelagic gillnet not longer than 300 ft (91.4 m) and not greater than 6 ft (1.83 m) deep, with a maximum mesh size of 3 inches (7.6 cm), provided:
 
-(A) The net is attached to the vessel and fished in the upper two-thirds of the water column; 
+(A) The net is attached to the vessel and fished in the upper two-thirds of the water column;
 
-(B) The net is marked with the vessel owner's name and vessel identification number; 
+(B) The net is marked with the vessel owner's name and vessel identification number;
 
-(C) No regulated species or ocean pout are retained; and 
+(C) No regulated species or ocean pout are retained; and
 
-(D) No other gear capable of catching NE multispecies is on board; 
+(D) No other gear capable of catching NE multispecies is on board;
 
-(iii) That is fishing as a charter/party or recreational fishing vessel, provided that: 
+(iii) That is fishing as a charter/party or recreational fishing vessel, provided that:
 
-(A) With the exception of tuna, fish harvested or possessed by the vessel are not sold or intended for trade, barter, or sale, regardless of where the species are caught; 
+(A) With the exception of tuna, fish harvested or possessed by the vessel are not sold or intended for trade, barter, or sale, regardless of where the species are caught;
 
-(B) Any gear other than pelagic hook and line gear, as defined in this part, is properly stowed and not available for immediate use as defined in § 648.2; and 
+(B) Any gear other than pelagic hook and line gear, as defined in this part, is properly stowed and not available for immediate use as defined in § 648.2; and
 
-(C) No regulated species or ocean pout are retained; and 
+(C) No regulated species or ocean pout are retained; and
 
-(iv) That is transiting pursuant to paragraph (e) of this section. 
+(iv) That is transiting pursuant to paragraph (e) of this section.
 
-(3) *GOM Cod Spawning Protection Area.* Except as specified in paragraph (b)(2) of this section, from April through June of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the GOM Cod Spawning Protection Area, as defined by straight lines connecting the following points in the order stated: 
+(3) *GOM Cod Spawning Protection Area.* Except as specified in paragraph (b)(2) of this section, from April through June of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the GOM Cod Spawning Protection Area, as defined by straight lines connecting the following points in the order stated:
 
 GOM Cod Spawning Protection Area
 | Point | N latitude | W longitude |
@@ -120,7 +120,7 @@ GOM Cod Spawning Protection Area
 | CSPA4 | 42°58.27′  | 70°38.64′   |
 | CSPA1 | 42°50.95′  | 70°32.22′   |
 
-(4) *Winter Massachusetts Bay Spawning Protection Area.* Except as specified in paragraph (b)(2) of this section, from November 1 through January 31 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or be on board a vessel in, the Massachusetts Bay Protection Area, as defined on the west and south by the outer limit of Massachusetts waters and on the northeast by a straight line connecting the following points, which fall along the Massachusetts state waters boundary: 
+(4) *Winter Massachusetts Bay Spawning Protection Area.* Except as specified in paragraph (b)(2) of this section, from November 1 through January 31 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or be on board a vessel in, the Massachusetts Bay Protection Area, as defined on the west and south by the outer limit of Massachusetts waters and on the northeast by a straight line connecting the following points, which fall along the Massachusetts state waters boundary:
 
 Winter Massachusetts Bay Spawning Protection Area
 | Point | N latitude | W longitude |
@@ -128,7 +128,7 @@ Winter Massachusetts Bay Spawning Protection Area
 | WSPA1 | 42° 23.61′ | 70° 39.21′  |
 | WSPA2 | 42° 07.68′ | 70° 26.79′  |
 
-(5) *Spring Massachusetts Bay Spawning Protection Area.* (i) From April 15 through April 30 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in the thirty-minute block defined by straight lines, unless otherwise noted, connecting the following points in the order stated: 
+(5) *Spring Massachusetts Bay Spawning Protection Area.* (i) From April 15 through April 30 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in the thirty-minute block defined by straight lines, unless otherwise noted, connecting the following points in the order stated:
 
 Spring Massachusetts Bay Spawning Protection Area
 | Point                                                                                           | N latitude | W longitude | Note |
@@ -147,29 +147,29 @@ Spring Massachusetts Bay Spawning Protection Area
 | 5 The intersection of 71°00′ W long. and the northernmost coastline at East Boston, Boston, MA. |            |             |      |
 | 6 From Point SSPA6 back to Point SSPA 1 following the coastline of Massachusetts.               |            |             |      |
 
-(ii) Unless otherwise restricted in this part, the Spring Massachusetts Bay Spawning Protection Area closure does not apply to a fishing vessel or person on a fishing vessel that meets the criteria in paragraphs (d)(5)(ii) through (vi) and (x) of this section (listed under the exemptions for the GOM Cod Protection Closures). This includes recreational vessels meeting the criteria specified in paragraphs (d)(5)(v)(A) through (D) of this section. 
+(ii) Unless otherwise restricted in this part, the Spring Massachusetts Bay Spawning Protection Area closure does not apply to a fishing vessel or person on a fishing vessel that meets the criteria in paragraphs (d)(5)(ii) through (vi) and (x) of this section (listed under the exemptions for the GOM Cod Protection Closures). This includes recreational vessels meeting the criteria specified in paragraphs (d)(5)(v)(A) through (D) of this section.
 
-(c) *Georges Bank Spawning Groundfish Closures*—(1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used on board a vessel in the spawning closure areas described in paragraphs (b)(3) and (4) of this section, and during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request. 
+(c) *Georges Bank Spawning Groundfish Closures*—(1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used on board a vessel in the spawning closure areas described in paragraphs (b)(3) and (4) of this section, and during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
 
-(2) *Exemptions.* Paragraph (c)(1) of this section does not apply to a fishing vessel or person on a fishing vessel: 
+(2) *Exemptions.* Paragraph (c)(1) of this section does not apply to a fishing vessel or person on a fishing vessel:
 
-(i) That is fishing with or using exempted gear as defined under this part, excluding pelagic gillnet gear capable of catching NE multispecies, except for vessels fishing with a single pelagic gillnet not longer than 300 ft (91.4 m) and not greater than 6 ft (1.83 m) deep, with a maximum mesh size of 3 inches (7.6 cm), provided: 
+(i) That is fishing with or using exempted gear as defined under this part, excluding pelagic gillnet gear capable of catching NE multispecies, except for vessels fishing with a single pelagic gillnet not longer than 300 ft (91.4 m) and not greater than 6 ft (1.83 m) deep, with a maximum mesh size of 3 inches (7.6 cm), provided:
 
-(A) The net is attached to the vessel and fished in the upper two-thirds of the water column; 
+(A) The net is attached to the vessel and fished in the upper two-thirds of the water column;
 
-(B) The net is marked with the vessel owner's name and vessel identification number; 
+(B) The net is marked with the vessel owner's name and vessel identification number;
 
-(C) No regulated species or ocean pout are retained; and 
+(C) No regulated species or ocean pout are retained; and
 
-(D) No other gear capable of catching NE multispecies is on board. 
+(D) No other gear capable of catching NE multispecies is on board.
 
-(ii) That is fishing for scallops consistent with the requirements of the scallop fishery management plan, including rotational access program requirements specified in § 648.59. 
+(ii) That is fishing for scallops consistent with the requirements of the scallop fishery management plan, including rotational access program requirements specified in § 648.59.
 
-(iii) That is fishing in the mid-water trawl exempted fishery. 
+(iii) That is fishing in the mid-water trawl exempted fishery.
 
-(iv) That is transiting pursuant to the requirements described in § 648.2. 
+(iv) That is transiting pursuant to the requirements described in § 648.2.
 
-(3) *Closed Area I North.* Except as specified in paragraph (c)(2) of this section, from February 1 through April 15 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in; and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, Closed Area I North, as defined by straight lines connecting the following points in the order stated: 
+(3) *Closed Area I North.* Except as specified in paragraph (c)(2) of this section, from February 1 through April 15 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in; and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, Closed Area I North, as defined by straight lines connecting the following points in the order stated:
 
 Closed Area I—North
 | Point | N lat. | W long. |
@@ -180,7 +180,7 @@ Closed Area I—North
 | CIN4  | 41°04′ | 69°01′  |
 | CIN1  | 41°30′ | 69°23′  |
 
-(4) *Closed Area II.* Except as specified in paragraph (c)(2) of this section, from February 1 through April 15 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, Closed Area II, as defined by straight lines, unless otherwise noted, connecting the following points in the order stated: 
+(4) *Closed Area II.* Except as specified in paragraph (c)(2) of this section, from February 1 through April 15 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, Closed Area II, as defined by straight lines, unless otherwise noted, connecting the following points in the order stated:
 
 Closed Area II
 | Point                                                                                                                              | N lat.   | W long.  | Note |
@@ -195,23 +195,23 @@ Closed Area II
 | 2 From Point CAII3 to Point CAII4 along the U.S.-Canada Maritime Boundary.                                                         |          |          |      |
 | 3 The intersection of 67°20′ W long. and the U.S.-Canada Maritime Boundary, approximately 42°22.06′ N lat. and 67°20′ W long.      |          |          |      |
 
-(d) *GOM Cod Protection Closures*—(1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, GOM Cod Protection Closures I through V as described, and during the times specified, in paragraphs (d)(4)(i) through (v) of this section. 
+(d) *GOM Cod Protection Closures*—(1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, GOM Cod Protection Closures I through V as described, and during the times specified, in paragraphs (d)(4)(i) through (v) of this section.
 
-(2) *Review of closure.* The New England Fishery Management Council shall review the GOM Cod Protection Closures Areas specified in this section when the spawning stock biomass for GOM cod reaches the minimum biomass threshold specified for the stock (50 percent of SSBMSY). 
+(2) *Review of closure.* The New England Fishery Management Council shall review the GOM Cod Protection Closures Areas specified in this section when the spawning stock biomass for GOM cod reaches the minimum biomass threshold specified for the stock (50 percent of SSBMSY).
 
-(3) *Seasons.* (i) GOM Cod Protection Closure I is in effect from May 1 through May 31. 
+(3) *Seasons.* (i) GOM Cod Protection Closure I is in effect from May 1 through May 31.
 
-(ii) GOM Cod Protection Closure II is in effect from June 1 through June 30. 
+(ii) GOM Cod Protection Closure II is in effect from June 1 through June 30.
 
-(iii) GOM Cod Protection Closure III is in effect from November 1 through January 31. 
+(iii) GOM Cod Protection Closure III is in effect from November 1 through January 31.
 
-(iv) GOM Cod Protection Closure IV is in effect from October 1 through October 31. 
+(iv) GOM Cod Protection Closure IV is in effect from October 1 through October 31.
 
-(v) GOM Cod Protection Closure V is in effect from March 1 through March 31. 
+(v) GOM Cod Protection Closure V is in effect from March 1 through March 31.
 
-(4) *GOM Cod Protection Closure Areas.* Charts depicting these areas are available from the Regional Administrator upon request. 
+(4) *GOM Cod Protection Closure Areas.* Charts depicting these areas are available from the Regional Administrator upon request.
 
-(i) *GOM Cod Protection Closure I.* GOM Cod Protection Closure I is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted: 
+(i) *GOM Cod Protection Closure I.* GOM Cod Protection Closure I is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted:
 
 GOM Cod Protection Closure I
 
@@ -231,7 +231,7 @@ GOM Cod Protection Closure I
 | 2 The intersection of 42°20′ N latitude and the coastline of Massachusetts.  |            |             |
 | 3 From Point 8 back to Point 1 following the coastline of the United States. |            |             |
 
-(ii) *GOM Cod Protection Closure II.* GOM Cod Protection Closure II is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted: 
+(ii) *GOM Cod Protection Closure II.* GOM Cod Protection Closure II is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted:
 
 GOM Cod Protection Closure II
 
@@ -257,7 +257,7 @@ GOM Cod Protection Closure II
 | 5 The intersection of 43°00′ N latitude and the coastline of New Hampshire.          |            |              |
 | 6 From Point 11 back to Point 1 following the coastlines of New Hampshire and Maine. |            |              |
 
-(iii) *GOM Cod Protection Closure III.* GOM Cod Protection Closure III is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted: 
+(iii) *GOM Cod Protection Closure III.* GOM Cod Protection Closure III is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted:
 
 GOM Cod Protection Closure III
 
@@ -275,7 +275,7 @@ GOM Cod Protection Closure III
 | 2 The intersection of 42°00′ N latitude and the mainland Massachusetts coastline at Kingston, MA. |            |             |
 | 3 From Point 6 back to Point 1 following the coastline of Massachusetts.                          |            |             |
 
-(iv) *GOM Cod Protection Closure IV.* GOM Cod Protection Closure IV is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted: 
+(iv) *GOM Cod Protection Closure IV.* GOM Cod Protection Closure IV is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted:
 
 GOM Cod Protection Closure IV
 
@@ -291,7 +291,7 @@ GOM Cod Protection Closure IV
 | 2 The intersection of 42°00′ N latitude and the mainland Massachusetts coastline at Kingston, MA. |            |             |
 | 3 From Point 4 back to Point 1 following the coastline of Massachusetts.                          |            |             |
 
-(v) *GOM Cod Protection Closure V.* GOM Cod Protection Closure V is the area bounded by the following coordinates connected in the order stated by straight lines: 
+(v) *GOM Cod Protection Closure V.* GOM Cod Protection Closure V is the area bounded by the following coordinates connected in the order stated by straight lines:
 
 GOM Cod Protection Closure V
 
@@ -304,49 +304,49 @@ GOM Cod Protection Closure V
 | CPCV 4 | 42°00′ N   | 70°00′ W    |
 | CPCV 1 | 42°30′ N   | 70°00′ W    |
 
-(5) *Exemptions.* The GOM cod protection closures specified in this section do not apply to a fishing vessel or person on board a fishing vessel under any of the following conditions: 
+(5) *Exemptions.* The GOM cod protection closures specified in this section do not apply to a fishing vessel or person on board a fishing vessel under any of the following conditions:
 
-(i) No multispecies permit has been issued and the vessel is fishing exclusively in state waters; 
+(i) No multispecies permit has been issued and the vessel is fishing exclusively in state waters;
 
-(ii) Fishing with or using exempted gear as defined under this part, except for pelagic gillnet gear capable of catching NE multispecies, unless fishing with a single pelagic gillnet not longer than 300 ft (91.4 m) and not greater than 6 ft (1.83 m) deep, with a maximum mesh size of 3 inches (7.6 cm), provided that: 
+(ii) Fishing with or using exempted gear as defined under this part, except for pelagic gillnet gear capable of catching NE multispecies, unless fishing with a single pelagic gillnet not longer than 300 ft (91.4 m) and not greater than 6 ft (1.83 m) deep, with a maximum mesh size of 3 inches (7.6 cm), provided that:
 
-(A) The net is attached to the boat and fished in the upper two-thirds of the water column; 
+(A) The net is attached to the boat and fished in the upper two-thirds of the water column;
 
-(B) The net is marked with the owner's name and vessel identification number; 
+(B) The net is marked with the owner's name and vessel identification number;
 
-(C) No regulated species are retained; and 
+(C) No regulated species are retained; and
 
-(D) No other gear capable of catching NE multispecies is on board; 
+(D) No other gear capable of catching NE multispecies is on board;
 
-(iii) Fishing in the Midwater Trawl Gear Exempted Fishery as specified in § 648.80(d); 
+(iii) Fishing in the Midwater Trawl Gear Exempted Fishery as specified in § 648.80(d);
 
-(iv) Fishing in the Purse Seine Gear Exempted Fishery as specified in § 648.80(e); 
+(iv) Fishing in the Purse Seine Gear Exempted Fishery as specified in § 648.80(e);
 
-(v) Fishing under charter/party or recreational regulations specified in § 648.89, provided that: 
+(v) Fishing under charter/party or recreational regulations specified in § 648.89, provided that:
 
-(A) A vessel fishing under charter/party regulations in a GOM cod protection closure described under paragraph (f)(4) of this section, has on board a letter of authorization issued by the Regional Administrator that is valid from the date of enrollment through the duration of the closure or 3 months duration, whichever is greater; 
+(A) A vessel fishing under charter/party regulations in a GOM cod protection closure described under paragraph (f)(4) of this section, has on board a letter of authorization issued by the Regional Administrator that is valid from the date of enrollment through the duration of the closure or 3 months duration, whichever is greater;
 
-(B) No harvested or possessed fish species managed by the NEFMC or MAFMC are sold or intended for trade, barter or sale, regardless of where the fish are caught; 
+(B) No harvested or possessed fish species managed by the NEFMC or MAFMC are sold or intended for trade, barter or sale, regardless of where the fish are caught;
 
-(C) Only rod and reel or handline gear is on board; and 
+(C) Only rod and reel or handline gear is on board; and
 
-(D) No NE multispecies DAS are used during the entire period for which the letter of authorization is valid; 
+(D) No NE multispecies DAS are used during the entire period for which the letter of authorization is valid;
 
-(vi) Fishing with scallop dredge gear under a scallop DAS or when lawfully fishing in the Scallop Dredge Fishery Exemption Area as described in § 648.80(a)(11), provided the vessel does not retain any regulated NE multispecies during a trip, or on any part of a trip; 
+(vi) Fishing with scallop dredge gear under a scallop DAS or when lawfully fishing in the Scallop Dredge Fishery Exemption Area as described in § 648.80(a)(11), provided the vessel does not retain any regulated NE multispecies during a trip, or on any part of a trip;
 
-(vii) Fishing in the Raised Footrope Trawl Exempted Whiting Fishery, as specified in § 648.80(a)(15), or in the Small Mesh Area II Exemption Area, as specified in § 648.80(a)(9); 
+(vii) Fishing in the Raised Footrope Trawl Exempted Whiting Fishery, as specified in § 648.80(a)(15), or in the Small Mesh Area II Exemption Area, as specified in § 648.80(a)(9);
 
-(viii) Fishing on a sector trip, as defined in this part, and in the GOM Cod Protection Closures IV or V, as specified in paragraphs (f)(4)(iv) and (v) of this section; or 
+(viii) Fishing on a sector trip, as defined in this part, and in the GOM Cod Protection Closures IV or V, as specified in paragraphs (f)(4)(iv) and (v) of this section; or
 
-(ix) Fishing under the provisions of a Northeast multispecies Handgear A permit, as specified at § 648.82(b)(6), and in the GOM Cod Protection Closures IV or V, as specified in paragraphs (f)(4)(iv) and (v) of this section. 
+(ix) Fishing under the provisions of a Northeast multispecies Handgear A permit, as specified at § 648.82(b)(6), and in the GOM Cod Protection Closures IV or V, as specified in paragraphs (f)(4)(iv) and (v) of this section.
 
-(x) Transiting the area, provided it complies with the requirements specified in paragraph (e) of this section. 
+(x) Transiting the area, provided it complies with the requirements specified in paragraph (e) of this section.
 
-(e) *Transiting.* (1) Unless otherwise restricted or specified in this paragraph (e), a vessel may transit the Cashes Ledge Closed Area, the Western GOM Closure Area, the GOM Cod Protection Closures, and the GOM Cod Spawning Protection Area, as defined in paragraphs (a)(3) and (4), (d)(4), and (b)(3), of this section, respectively, provided that its gear is stowed and not available for immediate use as defined in § 648.2. 
+(e) *Transiting.* (1) Unless otherwise restricted or specified in this paragraph (e), a vessel may transit the Cashes Ledge Closed Area, the Western GOM Closure Area, the GOM Cod Protection Closures, and the GOM Cod Spawning Protection Area, as defined in paragraphs (a)(3) and (4), (d)(4), and (b)(3), of this section, respectively, provided that its gear is stowed and not available for immediate use as defined in § 648.2.
 
-(2) Private recreational or charter/party vessels fishing under the Northeast multispecies provisions specified at § 648.89 may transit the GOM Cod Spawning Protection Area, as defined in paragraph (b)(3) of this section, provided all bait and hooks are removed from fishing rods, and any regulated species on board have been caught outside the GOM Cod Spawning Protection Area and has been gutted and stored. 
+(2) Private recreational or charter/party vessels fishing under the Northeast multispecies provisions specified at § 648.89 may transit the GOM Cod Spawning Protection Area, as defined in paragraph (b)(3) of this section, provided all bait and hooks are removed from fishing rods, and any regulated species on board have been caught outside the GOM Cod Spawning Protection Area and has been gutted and stored.
 
-(f) *Restricted Gear Areas*—(1) *Restricted Gear Area Seasons.* No fishing vessel with mobile gear on board, or person on a fishing vessel with mobile gear on board, may fish or be in the specified Restricted Gear Areas, unless transiting, during the seasons below. No fishing vessel with lobster pot gear on board, or person on a fishing vessel with lobster pot gear on board, may fish in, and no lobster pot gear may be deployed or remain in the specified Restricted Gear Areas. Vessels with lobster pot gear on board may transit during the seasons listed in the table in this paragraph (f)(1). 
+(f) *Restricted Gear Areas*—(1) *Restricted Gear Area Seasons.* No fishing vessel with mobile gear on board, or person on a fishing vessel with mobile gear on board, may fish or be in the specified Restricted Gear Areas, unless transiting, during the seasons below. No fishing vessel with lobster pot gear on board, or person on a fishing vessel with lobster pot gear on board, may fish in, and no lobster pot gear may be deployed or remain in the specified Restricted Gear Areas. Vessels with lobster pot gear on board may transit during the seasons listed in the table in this paragraph (f)(1).
 
 |                          | Mobile gear          | Lobster pot gear      |
 | ------------------------ | -------------------- | --------------------- |
@@ -355,9 +355,9 @@ GOM Cod Protection Closure V
 | Restricted Gear Area III | June 16-November 26  | January 1-April 30.   |
 | Restricted Gear Area IV  | June 16-September 30 | n/a.                  |
 
-(2) *Transiting.* Vessels with mobile gear may transit this area, provided that all mobile gear is on board the vessel while inside the area, and is stowed and not available for immediate use as defined in § 648.2. 
+(2) *Transiting.* Vessels with mobile gear may transit this area, provided that all mobile gear is on board the vessel while inside the area, and is stowed and not available for immediate use as defined in § 648.2.
 
-(3) *Restricted Gear Area I.* Restricted Gear Area I is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area): 
+(3) *Restricted Gear Area I.* Restricted Gear Area I is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area):
 
 | Point | Latitude    | Longitude   | Note |
 | ----- | ----------- | ----------- | ---- |
@@ -469,7 +469,7 @@ GOM Cod Protection Closure V
 | EB    | 39°59.30′ N | 70°14.00′ W | (\*) |
 | AA    | 40°02.75′ N | 70°16.10′ W | (\*) |
 
-(4) *Restricted Gear Area II.* Restricted Gear Area II is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area): 
+(4) *Restricted Gear Area II.* Restricted Gear Area II is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area):
 
 | Point | N latitude | W longitude | Note |
 | ----- | ---------- | ----------- | ---- |
@@ -539,7 +539,7 @@ GOM Cod Protection Closure V
 | GL    | 40°00.70′  | 70°18.60′   | (\*) |
 | AA    | 40°02.75′  | 70°16.10′   | (\*) |
 
-(5) *Restricted Gear Area III.* Restricted Gear Area III is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area): 
+(5) *Restricted Gear Area III.* Restricted Gear Area III is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area):
 
 | Point | Latitude    | Longitude   | Note |
 | ----- | ----------- | ----------- | ---- |
@@ -578,7 +578,7 @@ GOM Cod Protection Closure V
 | GW    | 40°05.60′ N | 70°17.70′ W |      |
 | AA    | 40°02.75′ N | 70°16.10′ W | (\*) |
 
-(6) *Restricted Gear Area IV.* Restricted Gear Area IV is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area): 
+(6) *Restricted Gear Area IV.* Restricted Gear Area IV is defined by the following points connected in the order listed by straight lines (points followed by an asterisk are shared with an adjacent Restricted Gear Area):
 
 | Point | Latitude    | Longitude   | Note |
 | ----- | ----------- | ----------- | ---- |
