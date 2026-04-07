@@ -90,9 +90,9 @@ Link to an amendment published at 85 FR 5322, Jan. 30, 2020.
 
 9612 
 
-(22) Crotonyl fentanyl ((E)-N-(1-phenethylpiperidin-4-yl)-N-phenylbut-2-enamide)
+(22) Cyclopentyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide)
 
-9844 
+9847 
 
 (23) Cyclopropyl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopropanecarboxamide)
 
@@ -162,9 +162,9 @@ Link to an amendment published at 85 FR 5322, Jan. 30, 2020.
 
 9627 
 
-(40) Ketobemidone
+(40) Isobutyryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylisobutyramide)
 
-9628 
+9827 
 
 (41) Levomoramide
 
@@ -226,9 +226,9 @@ Link to an amendment published at 85 FR 5322, Jan. 30, 2020.
 
 9823 
 
-(56) Para-fluorofentanyl (N-(4-fluorophenyl)-N-\[1-(2-phenethyl)-4-piperidinyl\] propanamide
+(56) para-Chloroisobutyryl fentanyl (N-(4-chlorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide
 
-9812 
+9826 
 
 (57) PEPAP (1-(-2-phenethyl)-4-phenyl-4-acetoxypiperidine
 
@@ -238,9 +238,9 @@ Link to an amendment published at 85 FR 5322, Jan. 30, 2020.
 
 9637 
 
-(59) Phenampromide
+(59) para-Methoxybutyryl fentanyl (N-(4-methoxyphenyl)-N-(1-phenethylpiperidin-4-yl)butyramide)
 
-9638 
+9837 
 
 (60) Phenomorphan
 
@@ -288,7 +288,11 @@ Link to an amendment published at 85 FR 5322, Jan. 30, 2020.
 
 (71) U-47700 (3,4-Dichloro-N-\[2-(dimethylamino)cyclohexyl\]-N-methylbenzamide)
 
-9547
+9547 
+
+(75) Valeryl fentanyl (N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide)
+
+9840 
 
 (c) *Opium derivatives.* Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
@@ -866,41 +870,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (h) *Temporary listing of substances subject to emergency scheduling.* Any material, compound, mixture or preparation which contains any quantity of the following substances:
 
-(1)-(17) \[Reserved\] 
-
-(18) \[Reserved\] 
-
-(19) \[Reserved\] 
-
-(20) \[Reserved\] 
-
-(21) \[Reserved\] 
-
-(22) \[Reserved\] 
-
-(23) N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: Valeryl fentanyl)
-
-(9840) 
-
-(24) \[Reserved\] 
-
-(25) N-(4-methoxyphenyl)-N-(1-phenethylpiperidin-4-yl)butyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-methoxybutyryl fentanyl)
-
-(9837) 
-
-(26) N-(4-chlorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-chloroisobutyryl fentanyl)
-
-(9826) 
-
-(27) N-(1-phenethylpiperidin-4-yl)-N-phenylisobutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: isobutyryl fentanyl)
-
-(9827) 
-
-(28) N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: cyclopentyl fentanyl)
-
-(9847) 
-
-(29) \[Reserved\] 
+(1)-(29) \[Reserved\] 
 
 (30) Fentanyl-related substances, their isomers, esters, ethers, salts and salts of isomers, esters and ethers
 
