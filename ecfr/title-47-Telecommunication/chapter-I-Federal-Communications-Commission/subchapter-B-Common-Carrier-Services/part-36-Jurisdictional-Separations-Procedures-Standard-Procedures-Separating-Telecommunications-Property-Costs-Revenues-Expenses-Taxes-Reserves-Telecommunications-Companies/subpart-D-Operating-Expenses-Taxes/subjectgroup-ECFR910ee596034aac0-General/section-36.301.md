@@ -1,6 +1,6 @@
 ##### § 36.301 Section arrangement.
 
-This subpart is arranged in sections as follows:
+This subpart is arranged in sections as follows: 
 
 | General                                                         | 36.301 and   36.302. |
 | Plant Specific Operations Expenses:                             |                      |

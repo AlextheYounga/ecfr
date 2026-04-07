@@ -1,30 +1,30 @@
 ##### § 15.615 General administrative requirements.
 
-(a) *Access BPL Database.* Entities operating Access BPL systems shall supply to an industry-recognized entity, information on all existing Access BPL systems and all proposed Access BPL systems for inclusion into a publicly available data base, within 30 days prior to initiation of service. Such information shall include the following:
+(a) *Access BPL Database.* Entities operating Access BPL systems shall supply to an industry-recognized entity, information on all existing Access BPL systems and all proposed Access BPL systems for inclusion into a publicly available data base, within 30 days prior to initiation of service. Such information shall include the following: 
 
-(1) The name of the Access BPL provider.
+(1) The name of the Access BPL provider. 
 
-(2) The frequencies of the Access BPL operation.
+(2) The frequencies of the Access BPL operation. 
 
-(3) The postal zip codes served by the specific Access BPL operation.
+(3) The postal zip codes served by the specific Access BPL operation. 
 
-(4) The manufacturer and type of Access BPL equipment and its associated FCC ID number, or, in the case of Access BPL equipment that has not been subject to certification in the past, the Trade Name and Model Number, as specified on the equipment label.
+(4) The manufacturer and type of Access BPL equipment and its associated FCC ID number, or, in the case of Access BPL equipment that has not been subject to certification in the past, the Trade Name and Model Number, as specified on the equipment label. 
 
-(5) The contact information, including both phone number and e-mail address of a person at, or associated with, the BPL operator's company, to facilitate the resolution of any interference complaint.
+(5) The contact information, including both phone number and e-mail address of a person at, or associated with, the BPL operator's company, to facilitate the resolution of any interference complaint. 
 
-(6) The proposed/or actual date of Access BPL operation.
+(6) The proposed/or actual date of Access BPL operation. 
 
-(b) The Access BPL database manager shall enter this information into the publicly accessible database within three (3) business days of receipt.
+(b) The Access BPL database manager shall enter this information into the publicly accessible database within three (3) business days of receipt. 
 
-(c) No notification to the Commission is required.
+(c) No notification to the Commission is required. 
 
-(d) A licensed spectrum user experiencing harmful interference that is suspected to be caused by an Access BPL system shall inform the local BPL operator's contact person designated in the Access BPL database. The investigation of the reported interference and the resolution of confirmed harmful interference from the Access BPL system shall be successfully completed by the BPL operator within a reasonable time period according to a mutually acceptable schedule, after the receipt of an interference complaint, in order to avoid protracted disruptions to licensed services. The Access BPL operator shall respond to complaints of harmful interference from public safety users within 24 hours. With regard to public safety complaints, the BPL provider shall be required to immediately cease the operations causing such complaint if it fails to respond within 24 hours.
+(d) A licensed spectrum user experiencing harmful interference that is suspected to be caused by an Access BPL system shall inform the local BPL operator's contact person designated in the Access BPL database. The investigation of the reported interference and the resolution of confirmed harmful interference from the Access BPL system shall be successfully completed by the BPL operator within a reasonable time period according to a mutually acceptable schedule, after the receipt of an interference complaint, in order to avoid protracted disruptions to licensed services. The Access BPL operator shall respond to complaints of harmful interference from public safety users within 24 hours. With regard to public safety complaints, the BPL provider shall be required to immediately cease the operations causing such complaint if it fails to respond within 24 hours. 
 
-(e) *Consultation with public safety users.* An entity operating an Access BPL system shall notify and consult with the public safety users in the area where it plans to deploy Access BPL, at least 30 days prior to initiation of any operation or service. This entity shall design or implement the Access BPL system such that it does not cause harmful interference in those frequencies or bands used by the public safety agencies in the area served by the Access BPL system. The notification shall include, at a minimum, the information in paragraph (a) of this section.
+(e) *Consultation with public safety users.* An entity operating an Access BPL system shall notify and consult with the public safety users in the area where it plans to deploy Access BPL, at least 30 days prior to initiation of any operation or service. This entity shall design or implement the Access BPL system such that it does not cause harmful interference in those frequencies or bands used by the public safety agencies in the area served by the Access BPL system. The notification shall include, at a minimum, the information in paragraph (a) of this section. 
 
-(f) *Federal government spectrum users and other radio service users.* An entity operating an Access BPL system shall ensure that, within its Access BPL deployment area, its system does not operate on any frequencies designated as excluded bands or on identified frequencies within any designated exclusion zones.
+(f) *Federal government spectrum users and other radio service users.* An entity operating an Access BPL system shall ensure that, within its Access BPL deployment area, its system does not operate on any frequencies designated as excluded bands or on identified frequencies within any designated exclusion zones. 
 
-(1) *Excluded Bands.* To protect Aeronautical (land) stations and aircraft receivers, Access BPL operations using overhead medium voltage power lines are prohibited in the frequency bands listed in Table 1. Specifically, such BPL systems shall not place carrier frequencies in these bands.
+(1) *Excluded Bands.* To protect Aeronautical (land) stations and aircraft receivers, Access BPL operations using overhead medium voltage power lines are prohibited in the frequency bands listed in Table 1. Specifically, such BPL systems shall not place carrier frequencies in these bands. 
 
 Table 1—Excluded Frequency Bands
 | Frequency band    |
@@ -42,9 +42,9 @@ Table 1—Excluded Frequency Bands
 | 21,924-22,000 kHz |
 | 74.8-75.2 MHz     |
 
-(2) *Exclusion zones.* Exclusion zones encompass the operation of any Access BPL system within 1km of the boundary of coast station facilities at the coordinates listed in Tables 2 and 2.1. Exclusion zones also encompass the operation of Access BPL systems using overhead medium voltage power lines within 65 km of the Very Large Array observatory located at the coordinate 34°04′43.50″; N, 107°37′03.82″ W. Exclusion zones further encompass the operation of Access BPL systems using overhead low voltage power lines or underground power lines within 47 km of the Very Large Array observatory located at the coordinate 34°04′43.50″; N, 107°37′03.82″ W. Within the exclusion zones for coast stations, Access BPL systems shall not use carrier frequencies within the band of 2173.5-2190.5 kHz. Within the exclusion zone for the Very Large Array radio astronomy observatory, Access BPL systems shall not use carrier frequencies within the 73.0-74.6 MHz band.
+(2) *Exclusion zones.* Exclusion zones encompass the operation of any Access BPL system within 1km of the boundary of coast station facilities at the coordinates listed in Tables 2 and 2.1. Exclusion zones also encompass the operation of Access BPL systems using overhead medium voltage power lines within 65 km of the Very Large Array observatory located at the coordinate 34°04′43.50″; N, 107°37′03.82″ W. Exclusion zones further encompass the operation of Access BPL systems using overhead low voltage power lines or underground power lines within 47 km of the Very Large Array observatory located at the coordinate 34°04′43.50″; N, 107°37′03.82″ W. Within the exclusion zones for coast stations, Access BPL systems shall not use carrier frequencies within the band of 2173.5-2190.5 kHz. Within the exclusion zone for the Very Large Array radio astronomy observatory, Access BPL systems shall not use carrier frequencies within the 73.0-74.6 MHz band. 
 
-(i) *Existing coast station facilities.* Access BPL systems shall not operate in the frequency band 2,173.5-2,190.5 kHz, within 1 kilometer (km) of the boundary of coast station facilities at the coordinates listed in Tables 2 and 2.1. BPL operators planning to deploy Access BPL devices at these frequencies in areas within these exclusion zones as defined above shall consult with the appropriate point of contact for these coast stations to ensure harmful interference is prevented at these facilities.
+(i) *Existing coast station facilities.* Access BPL systems shall not operate in the frequency band 2,173.5-2,190.5 kHz, within 1 kilometer (km) of the boundary of coast station facilities at the coordinates listed in Tables 2 and 2.1. BPL operators planning to deploy Access BPL devices at these frequencies in areas within these exclusion zones as defined above shall consult with the appropriate point of contact for these coast stations to ensure harmful interference is prevented at these facilities. 
 
 Point of contact: Commandant (CG 622), U.S. Coast Guard, 2100 2nd Street, SW., Washington, DC 20593-0001, Telephone: (202) 267-2860, e-mail: *cgcomms@comdt.uscg.mil.*
 
@@ -172,25 +172,25 @@ Table 2.1—Exclusion Zones for Maritime Public Coast Stations
 | Globe Wireless                                       | Agana, GU          | 13°29′22″ N | 144°49′39″ E |
 | **Note:** Systems of coordinates comply with NAD 83. |                    |             |              |
 
-(ii) *New or relocated Coast stations.* In the unlikely event that a new or relocated coast station is established for the 2.173.5-2.190.5 kHz band at a coordinate not specified in Table 2 or 2.1, Access BPL operations in that frequency band shall also be excluded within 1 km of the new coast station facility;
+(ii) *New or relocated Coast stations.* In the unlikely event that a new or relocated coast station is established for the 2.173.5-2.190.5 kHz band at a coordinate not specified in Table 2 or 2.1, Access BPL operations in that frequency band shall also be excluded within 1 km of the new coast station facility; 
 
-(3) *Consultation areas.* Access BPL operators shall provide notification to the appropriate point of contact specified regarding Access BPL operations at any frequencies of potential concern in the following consultation areas, at least 30 days prior to initiation of any operation or service. The notification shall include, at a minimum, the information in paragraph (a) of this section. We expect parties to consult in good faith to ensure that no harmful interference is caused to licensed operations and that any constraints on BPL deployments are minimized to those necessary to avoid harmful interference. In the unlikely event that a new or relocated aeronautical receive station is established for the 1.7-30 MHz band at a coordinate not specified in Table 3b, Access BPL operators are also required to coordinate with the appropriate point of contact regarding Access BPL operations at any frequencies of potential concern in the new or relocated consultation areas, and to adjust their system operating parameters to protect the new or relocated aeronautical receive station.
+(3) *Consultation areas.* Access BPL operators shall provide notification to the appropriate point of contact specified regarding Access BPL operations at any frequencies of potential concern in the following consultation areas, at least 30 days prior to initiation of any operation or service. The notification shall include, at a minimum, the information in paragraph (a) of this section. We expect parties to consult in good faith to ensure that no harmful interference is caused to licensed operations and that any constraints on BPL deployments are minimized to those necessary to avoid harmful interference. In the unlikely event that a new or relocated aeronautical receive station is established for the 1.7-30 MHz band at a coordinate not specified in Table 3b, Access BPL operators are also required to coordinate with the appropriate point of contact regarding Access BPL operations at any frequencies of potential concern in the new or relocated consultation areas, and to adjust their system operating parameters to protect the new or relocated aeronautical receive station. 
 
-(i) For frequencies in the 1.7-30 MHz frequency range, the areas within 4 km of facilities located at the following coordinates:
+(i) For frequencies in the 1.7-30 MHz frequency range, the areas within 4 km of facilities located at the following coordinates: 
 
-(A) The Commission's protected field offices listed in 47 CFR 0.121, the point-of-contact for which is specified in that section;
+(A) The Commission's protected field offices listed in 47 CFR 0.121, the point-of-contact for which is specified in that section; 
 
-(B) The aeronautical stations listed in Tables 3a and 3b;
+(B) The aeronautical stations listed in Tables 3a and 3b; 
 
-(C) The land stations listed in Tables 4 and 5;
+(C) The land stations listed in Tables 4 and 5; 
 
-(ii) For frequencies in the 1.7-80.0 MHz frequency range, the areas within 4 km of facilities located at the coordinates specified for radio astronomy facilities in 47 CFR 2.106, Note U.S. 311.
+(ii) For frequencies in the 1.7-80.0 MHz frequency range, the areas within 4 km of facilities located at the coordinates specified for radio astronomy facilities in 47 CFR 2.106, Note U.S. 311. 
 
 *Point of contact:* Electromagnetic Spectrum Manager, National Science Foundation, Division of Astronomical Sciences, 4201 Wilson Blvd., Suite 1045, Arlington, VA 22230, (703) 292-4896, *esm@nsf.gov.*
 
-(iii) For frequencies in the 1.7-80 MHz frequency range, the area within 1 km of the Table Mountain Radio Receiving Zone, the coordinates and point of contact for which are specified in 47 CFR 21.113(b).
+(iii) For frequencies in the 1.7-80 MHz frequency range, the area within 1 km of the Table Mountain Radio Receiving Zone, the coordinates and point of contact for which are specified in 47 CFR 21.113(b). 
 
-(iv) For frequencies in the 1.7-30 MHz frequency range, the areas within 37 km of radar receiver facilities located at the coordinates specified in Table 6.
+(iv) For frequencies in the 1.7-30 MHz frequency range, the areas within 37 km of radar receiver facilities located at the coordinates specified in Table 6. 
 
 *Point of contact:* U.S. Coast Guard HQ, Division of Spectrum Management CG-622, 2100 Second St., SW., Rm. 6611, Washington, DC 20593, Tel: (202) 267-6036, Fax: (202) 267-4106, e-mail: *jtaboada@comdt.uscg.mil.*
 
@@ -259,7 +259,7 @@ Table 4—Consultation Area Coordinates for Land Stations, Set 1 (1.7-30 MHz)
 | Guam                                                | Finegayan, GU     | 13°53′08″ N | 144°50′20″ E |
 | **Note:** Systems of coordinates conform to NAD 83. |                   |             |              |
 
-Point of contact: COTHEN Technical Support Center, COTHEN Program Manager, Tel: (800) 829-6336.
+Point of contact: COTHEN Technical Support Center, COTHEN Program Manager, Tel: (800) 829-6336. 
 
 Table 5—Consultation Area Coordinates for Land Stations, Set 2 (1.7-30 MHz)
 | Site name                                           | Latitude    | Longitude    |
@@ -285,7 +285,7 @@ Table 5—Consultation Area Coordinates for Land Stations, Set 2 (1.7-30 MHz)
 | Wilmington, NC                                      | 34°29′24″ N | 78°04′31″ W  |
 | **Note:** Systems of coordinates conform to NAD 83. |             |              |
 
-Point Of Contact: ROTHR Deputy Program Manager, (540) 653-3624.
+Point Of Contact: ROTHR Deputy Program Manager, (540) 653-3624. 
 
 Table 6—Consultation Area Coordinates for Radar Receiver Stations (1.7-30 MHz)
 | Latitude/Longitude                                  |

@@ -1,6 +1,6 @@
 ##### § 51.700 Purpose of this subpart.
 
-The purpose of this subpart, as revised in 2011 by FCC 11-161 is to establish rules governing the transition of intercarrier compensation from a calling-party's-network pays system to a default bill-and-keep methodology. Following the transition, the exchange of telecommunications traffic between and among service providers will, by default, be governed by bill-and-keep arrangements.
+The purpose of this subpart, as revised in 2011 by FCC 11-161 is to establish rules governing the transition of intercarrier compensation from a calling-party's-network pays system to a default bill-and-keep methodology. Following the transition, the exchange of telecommunications traffic between and among service providers will, by default, be governed by bill-and-keep arrangements. 
 
 Note to § 51.700:
 

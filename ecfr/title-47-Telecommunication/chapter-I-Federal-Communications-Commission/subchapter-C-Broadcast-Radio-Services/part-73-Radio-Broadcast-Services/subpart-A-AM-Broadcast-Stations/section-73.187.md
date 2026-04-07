@@ -1,22 +1,22 @@
 ##### § 73.187 Limitation on daytime radiation.
 
-(a)(1) Except as otherwise provided in paragraphs (a)(2) and (3) of this section, no authorization will be granted for a Class B or Class D station on a frequency specified in § 73.25 if the proposed operation would radiate during the period of critical hours (the two hours after local sunrise and the two hours before local sunset) toward any point on the 0.1 mV/m contour of a co-channel U.S. Class A station, at or below the pertinent vertical angle determined from Curve 2 of Figure 6a of § 73.190, values in excess of those obtained as provided in paragraph (b) of this section.
+(a)(1) Except as otherwise provided in paragraphs (a)(2) and (3) of this section, no authorization will be granted for a Class B or Class D station on a frequency specified in § 73.25 if the proposed operation would radiate during the period of critical hours (the two hours after local sunrise and the two hours before local sunset) toward any point on the 0.1 mV/m contour of a co-channel U.S. Class A station, at or below the pertinent vertical angle determined from Curve 2 of Figure 6a of § 73.190, values in excess of those obtained as provided in paragraph (b) of this section. 
 
-(2) The limitation set forth in paragraph (a)(1) of this section shall not apply in the following cases:
+(2) The limitation set forth in paragraph (a)(1) of this section shall not apply in the following cases: 
 
-(i) Any Class B or Class D operation authorized before November 30, 1959; or
+(i) Any Class B or Class D operation authorized before November 30, 1959; or 
 
-(ii) For Class B and Class D stations authorized before November 30, 1959, subsequent changes of facilities which do not involve a change in frequency, an increase in radiation toward any point on the 0.1 mV/m contour of a co-channel U.S. Class A station, or the move of transmitter site materially closer to the 0.1 mV/m contour of such Class A station.
+(ii) For Class B and Class D stations authorized before November 30, 1959, subsequent changes of facilities which do not involve a change in frequency, an increase in radiation toward any point on the 0.1 mV/m contour of a co-channel U.S. Class A station, or the move of transmitter site materially closer to the 0.1 mV/m contour of such Class A station. 
 
-(3) A Class B or Class D station authorized before November 30, 1959, and subsequently authorized to increase daytime radiation in any direction toward the 0.1 mV/m contour of a co-channel U.S. Class A station (without a change in frequency or a move of transmitter site materially closer to such contour), may not, during the two hours after local sunrise or the two hours before local sunset, radiate in such directions a value exceeding the higher of:
+(3) A Class B or Class D station authorized before November 30, 1959, and subsequently authorized to increase daytime radiation in any direction toward the 0.1 mV/m contour of a co-channel U.S. Class A station (without a change in frequency or a move of transmitter site materially closer to such contour), may not, during the two hours after local sunrise or the two hours before local sunset, radiate in such directions a value exceeding the higher of: 
 
-(i) The value radiated in such directions with facilities last authorized before November 30, 1959, or
+(i) The value radiated in such directions with facilities last authorized before November 30, 1959, or 
 
-(ii) The limitation specified in paragraph (a)(1) of this section.
+(ii) The limitation specified in paragraph (a)(1) of this section. 
 
-(b) To obtain the maximum permissible radiation for a Class B or Class D station on a given frequency from 640 through 990 kHz, multiply the radiation value obtained for the given distance and azimuth from the 500 kHz chart (Figure 9 of § 73.190) by the appropriate interpolation factor shown in the K500 column of paragraph (c) of this section; and multiply the radiation value obtained for the given distance and azimuth from the 1000 kHz chart (Figure 10 of § 73.190) by the appropriate interpolation factor shown in the K1000 column of paragraph (c) of this section. Add the two products thus obtained; the result is the maximum radiation value applicable to the Class B or Class D station in the pertinent directions. For frequencies from 1010 to 1580 kHz, obtain in a similar manner the proper radiation values from the 1000 and 1600 kHz charts (Figures 10 and 11 of § 73.190), multiply each of these values by the appropriate interpolation factors in the K′1000 and K′1600 columns in paragraph (c) of this section, and add the products.
+(b) To obtain the maximum permissible radiation for a Class B or Class D station on a given frequency from 640 through 990 kHz, multiply the radiation value obtained for the given distance and azimuth from the 500 kHz chart (Figure 9 of § 73.190) by the appropriate interpolation factor shown in the K500 column of paragraph (c) of this section; and multiply the radiation value obtained for the given distance and azimuth from the 1000 kHz chart (Figure 10 of § 73.190) by the appropriate interpolation factor shown in the K1000 column of paragraph (c) of this section. Add the two products thus obtained; the result is the maximum radiation value applicable to the Class B or Class D station in the pertinent directions. For frequencies from 1010 to 1580 kHz, obtain in a similar manner the proper radiation values from the 1000 and 1600 kHz charts (Figures 10 and 11 of § 73.190), multiply each of these values by the appropriate interpolation factors in the K′1000 and K′1600 columns in paragraph (c) of this section, and add the products. 
 
-(c) *Interpolation factors.* (1) Frequencies below 1000 kHz.
+(c) *Interpolation factors.* (1) Frequencies below 1000 kHz. 
 
 | fkHz | K500  | K1000 |
 | ---- | ----- | ----- |
@@ -49,7 +49,7 @@
 | 940  | 0.120 | 0.880 |
 | 990  | 0.020 | 0.980 |
 
-(2) Frequencies above 1000 kHz.
+(2) Frequencies above 1000 kHz. 
 
 | f′kHz | K′1000 | K′1600 |
 | ----- | ------ | ------ |

@@ -1,6 +1,6 @@
 ##### § 90.214 Transient frequency behavior.
 
-Transmitters designed to operate in the 150-174 MHz and 421-512 MHz frequency bands must maintain transient frequencies within the maximum frequency difference limits during the time intervals indicated:
+Transmitters designed to operate in the 150-174 MHz and 421-512 MHz frequency bands must maintain transient frequencies within the maximum frequency difference limits during the time intervals indicated: 
 
 | Time intervals 1 2                                                                                                                                                                      | Maximum   frequency   difference 3 | All equipment |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------- |

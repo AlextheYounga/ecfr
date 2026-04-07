@@ -1,6 +1,6 @@
 ##### § 32.6999 General.
 
-(a) *Structure of the other income accounts.* The other income accounts are designed to reflect both operating and nonoperating income items including taxes, extraordinary items and other income and expense items not properly included elsewhere.
+(a) *Structure of the other income accounts.* The other income accounts are designed to reflect both operating and nonoperating income items including taxes, extraordinary items and other income and expense items not properly included elsewhere. 
 
 (b) *Other income accounts listing.*
 

@@ -1,6 +1,6 @@
 ##### § 90.741 Urban areas for Phase I nationwide systems.
 
-Licensees of Phase I nationwide systems must construct base stations, or fixed stations transmitting on frequencies in the 220-221 MHz band, in a minimum of 28 of the urban areas listed in the following Table within ten years of initial license grant. A base station, or fixed station, is considered to be within one of the listed urban areas if it is within 60 kilometers (37.3 miles) of the specified coordinates (coordinates are referenced to North American Datum 1983 (NAD83)).
+Licensees of Phase I nationwide systems must construct base stations, or fixed stations transmitting on frequencies in the 220-221 MHz band, in a minimum of 28 of the urban areas listed in the following Table within ten years of initial license grant. A base station, or fixed station, is considered to be within one of the listed urban areas if it is within 60 kilometers (37.3 miles) of the specified coordinates (coordinates are referenced to North American Datum 1983 (NAD83)). 
 
 Table
 | Urban area                                 | North latitude | West longitude |

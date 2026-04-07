@@ -1,6 +1,6 @@
 ##### § 95.563 FRS channels.
 
-The FRS is allotted 22 channels, each having a channel bandwidth of 12.5 kHz. All of the FRS channels are also allotted to the General Mobile Radio Service (GMRS) on a shared basis. The FRS channel center frequencies are set forth in the following table:
+The FRS is allotted 22 channels, each having a channel bandwidth of 12.5 kHz. All of the FRS channels are also allotted to the General Mobile Radio Service (GMRS) on a shared basis. The FRS channel center frequencies are set forth in the following table: 
 
 | Channel No. | Center   frequency   (MHz) |
 | ----------- | -------------------------- |

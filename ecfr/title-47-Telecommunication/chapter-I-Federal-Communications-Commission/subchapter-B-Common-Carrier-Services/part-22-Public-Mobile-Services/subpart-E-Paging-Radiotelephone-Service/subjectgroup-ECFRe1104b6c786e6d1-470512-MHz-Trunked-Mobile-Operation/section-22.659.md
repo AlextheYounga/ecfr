@@ -1,25 +1,25 @@
 ##### § 22.659 Effective radiated power limits.
 
-The purpose of the rules in this section, which limit effective radiated power (ERP), is to reduce the likelihood that interference to television reception from public mobile operations on these channels will occur. The protected TV station locations specified in this section are the locations of record as of September 1974, and these do not change even though the TV stations may have been subsequently relocated.
+The purpose of the rules in this section, which limit effective radiated power (ERP), is to reduce the likelihood that interference to television reception from public mobile operations on these channels will occur. The protected TV station locations specified in this section are the locations of record as of September 1974, and these do not change even though the TV stations may have been subsequently relocated. 
 
-(a) *Maximum ERP.* The ERP of base transmitters must not exceed 100 Watts under any circumstances. The ERP of mobile transmitters must not exceed 60 Watts under any circumstances.
+(a) *Maximum ERP.* The ERP of base transmitters must not exceed 100 Watts under any circumstances. The ERP of mobile transmitters must not exceed 60 Watts under any circumstances. 
 
-(b) *Co-channel protection from base transmitters.* The ERP of base transmitters in the New York-Northeastern New Jersey urban area must not exceed the limits in the tables referenced in paragraphs (b)(2) and (b)(3) of this section. The limits depend upon the height above average terrain of the base transmitter antenna and the distance between the base transmitter and the nearest protected TV station location in paragraph (b)(1) of this section.
+(b) *Co-channel protection from base transmitters.* The ERP of base transmitters in the New York-Northeastern New Jersey urban area must not exceed the limits in the tables referenced in paragraphs (b)(2) and (b)(3) of this section. The limits depend upon the height above average terrain of the base transmitter antenna and the distance between the base transmitter and the nearest protected TV station location in paragraph (b)(1) of this section. 
 
-(1) The protected TV station locations are as follows (all coordinates are referenced to North American Datum 1983 (NAD83)):
+(1) The protected TV station locations are as follows (all coordinates are referenced to North American Datum 1983 (NAD83)): 
 
 | Control transmitter frequency range | Protected TV station location                            |
 | ----------------------------------- | -------------------------------------------------------- |
 | 470-476 MHz                         | Washington, DC, 38°57′17.4″ N. Lat. 77°00′15.9″ W. Long. |
 | 476-482 MHz                         | Lancaster, PA, 40°15′45.3″ N. Lat. 76°27′47.9″ W. Long.  |
 
-(2) Tables E-8 and E-9 of this section apply to base transmitters in the New York-Northeastern New Jersey urban area that transmit on channels in the 476-482 MHz range.
+(2) Tables E-8 and E-9 of this section apply to base transmitters in the New York-Northeastern New Jersey urban area that transmit on channels in the 476-482 MHz range. 
 
-(3) Tables E-10 and E-11 of this section apply to base transmitters in the New York-Northeastern New Jersey urban area that transmit on channels in the 470-476 MHz range.
+(3) Tables E-10 and E-11 of this section apply to base transmitters in the New York-Northeastern New Jersey urban area that transmit on channels in the 470-476 MHz range. 
 
-(c) *Adjacent channel protection from base transmitters.* The ERP of base transmitters must not exceed the limits in Table E-12 of this section. The limits depend upon the height above average terrain of the base transmitter antenna and the distance between the base transmitter and the nearest protected TV station location specified in paragraph (c)(1) of this section.
+(c) *Adjacent channel protection from base transmitters.* The ERP of base transmitters must not exceed the limits in Table E-12 of this section. The limits depend upon the height above average terrain of the base transmitter antenna and the distance between the base transmitter and the nearest protected TV station location specified in paragraph (c)(1) of this section. 
 
-(1) The protected TV station locations are as follows (all coordinates are referenced to North American Datum 1983 (NAD83)):
+(1) The protected TV station locations are as follows (all coordinates are referenced to North American Datum 1983 (NAD83)): 
 
 | Control transmitter frequency range                                        | Protected TV station location                          | TV channel |
 | -------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
@@ -29,7 +29,7 @@ The purpose of the rules in this section, which limit effective radiated power (
 |                                                                            | Hanover, NH, 43°42′30.3″ N. Lat. 72°09′14.3″ W. Long   | (15)       |
 | **Note:** Coordinates are referenced to North American Datum 1983 (NAD83). |                                                        |            |
 
-(2) Table E-12 of this section applies to base transmitters in the New York-Northeastern New Jersey urban area.
+(2) Table E-12 of this section applies to base transmitters in the New York-Northeastern New Jersey urban area. 
 
 Table E-8—Maximum ERP (Watts) for Base Transmitters (HAAT 152 Meters or Less)
 | Distance to protected TV station in kilometers (miles)                                                                                                                                                                                                                   | Antenna height above average terrain in meters (feet) |

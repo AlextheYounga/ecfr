@@ -1,6 +1,6 @@
 ##### § 78.111 Frequency tolerance.
 
-Stations in this service shall maintain the carrier frequency of each authorized transmitter to within the following percentage of the assigned frequency.
+Stations in this service shall maintain the carrier frequency of each authorized transmitter to within the following percentage of the assigned frequency. 
 
 | Frequency band (MHz)                                                                                                                                                                                                       | Frequency tolerance |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |

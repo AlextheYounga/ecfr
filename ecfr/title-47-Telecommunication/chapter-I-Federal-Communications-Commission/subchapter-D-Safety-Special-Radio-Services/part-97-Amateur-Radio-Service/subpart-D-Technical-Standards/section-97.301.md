@@ -1,8 +1,8 @@
 ##### § 97.301 Authorized frequency bands.
 
-The following transmitting frequency bands are available to an amateur station located within 50 km of the Earth's surface, within the specified ITU Region, and outside any area where the amateur service is regulated by any authority other than the FCC.
+The following transmitting frequency bands are available to an amateur station located within 50 km of the Earth's surface, within the specified ITU Region, and outside any area where the amateur service is regulated by any authority other than the FCC. 
 
-(a) For a station having a control operator who has been granted a Technician, General, Advanced, or Amateur Extra Class operator license or who holds a CEPT radio-amateur license or IARP of any class:
+(a) For a station having a control operator who has been granted a Technician, General, Advanced, or Amateur Extra Class operator license or who holds a CEPT radio-amateur license or IARP of any class: 
 
 | Wavelength band | ITU Region 1  | ITU Region 2  | ITU Region 3  | Sharing   requirements   see § 97.303   (paragraph) |
 | --------------- | ------------- | ------------- | ------------- | --------------------------------------------------- |
@@ -29,7 +29,7 @@ The following transmitting frequency bands are available to an amateur station l
 | 1 mm            | 241-250       | 241-250       | 241-250       | (c), (e), (f).                                      |
 |                 | Above 275     | Above 275     | Above 275     | (f).                                                |
 
-(b) For a station having a control operator who has been granted an Amateur Extra Class operator license, who holds a CEPT radio amateur license, or who holds a Class 1 IARP license:
+(b) For a station having a control operator who has been granted an Amateur Extra Class operator license, who holds a CEPT radio amateur license, or who holds a Class 1 IARP license: 
 
 | Wavelength band | ITU Region 1 | ITU Region 2 | ITU Region 3 | Sharing requirements see § 97.303   (paragraph) |
 | --------------- | ------------ | ------------ | ------------ | ----------------------------------------------- |
@@ -54,7 +54,7 @@ The following transmitting frequency bands are available to an amateur station l
 | 12 m | 24.890-24.990 | 24.890-24.990   | 24.890-24.990 |     |
 | 10 m | 28.000-29.700 | 28.000-29.700   | 28.000-29.700 |     |
 
-(c) For a station having a control operator who has been granted an operator license of Advanced Class:
+(c) For a station having a control operator who has been granted an operator license of Advanced Class: 
 
 | Wavelength band | ITU Region 1 | ITU Region 2 | ITU Region 3 | Sharing requirements see § 97.303   (paragraph) |
 | --------------- | ------------ | ------------ | ------------ | ----------------------------------------------- |
@@ -81,7 +81,7 @@ The following transmitting frequency bands are available to an amateur station l
 | 12 m | 24.890-24.990 | 24.890-24.990   | 24.890-24.990 |     |
 | 10 m | 28.000-29.700 | 28.000-29.700   | 28.000-29.700 |     |
 
-(d) For a station having a control operator who has been granted an operator license of General Class:
+(d) For a station having a control operator who has been granted an operator license of General Class: 
 
 | Wavelength band | ITU Region 1 | ITU Region 2 | ITU Region 3 | Sharing requirements see § 97.303   (paragraph) |
 | --------------- | ------------ | ------------ | ------------ | ----------------------------------------------- |
@@ -109,7 +109,7 @@ The following transmitting frequency bands are available to an amateur station l
 | 12 m | 24.890-24.990 | 24.890-24.990   | 24.890-24.990 |     |
 | 10 m | 28.000-29.700 | 28.000-29.700   | 28.000-29.700 |     |
 
-(e) For a station having a control operator who has been granted an operator license of Novice Class or Technician Class:
+(e) For a station having a control operator who has been granted an operator license of Novice Class or Technician Class: 
 
 | Wavelength band | ITU region 1  | ITU region 2  | ITU region 3  | Sharing requirements see § 97.303   (paragraph) |
 | --------------- | ------------- | ------------- | ------------- | ----------------------------------------------- |

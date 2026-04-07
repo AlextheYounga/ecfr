@@ -1,84 +1,84 @@
 ##### § 101.147 Frequency assignments.
 
-(a) Frequencies in the following bands are available for assignment for fixed microwave services.
+(a) Frequencies in the following bands are available for assignment for fixed microwave services. 
 
 928.0-929.0 MHz (28) 932.0-932.5 MHz (27) 932.5-935 MHz (17) 941.0-941.5 MHz (27) 941.5-944 MHz (17) (18) 952.0-960.0 MHz (28) 1,850-1,990 MHz (20) (22) 2,110-2,130 MHz) (1) (3) (7) (20) (23) 2,130-2,150 MHz (20) (22) 2,160-2,180 MHz (1) (2) (20) (23) 2,180-2,200 MHz (20) (22) 2,450-2,500 MHz (12) 2,650-2,690 MHz 3,700-4,200 MHz (8) (14) (25) 5,925-6,425 MHz (6) (14) (25) 6,425-6,525 MHz (24) 6,525-6.875 MHz (14) (33) 6,875-7,125 MHz (10), (34) 10,550-10,680 MHz (19) 10,700-11,700 MHz (8) (9) (19) (25) 11,700-12,200 MHz (24) 12,200-12,700 MHz (31) 12,700-13,200 (22), (34) 13,200-13,250 MHz (4) (24) (25) 14,200-14,400 MHz (24) 17,700-18,820 MHz (5) (10) (15) 17,700-18,300 MHz (10) (15) 18,820-18,920 MHz (22) 18,300-18,580 MHz (5) (10) (15) 18,580-19,300 MHz (22) (30) 18,920-19,160 MHz (5 (10) (15) 19,160-19,260 MHz (22) 19,260-19,700 MHz (5) (10) (15) 19,300-19,700 MHz (5) (10) (15) 21,200-22,000 MHz (4) (11) (12) (13) (24) (25) (26) 22,000-23,600 MHz (4) (11) (12) (24) (25) (26) 24,250-25,250 MHz 29,100-29,250 MHz (5), (16) 31,000-31,300 MHz (16) 42,000-42,500 MHz 71,000-76,000 MHz (5) (17) 81,000-86,000 MHz (5) (17) 92,000-94,000 MHz (17) 94,100-95,000 MHz (17) Notes
 
-(1) Frequencies in this band are shared with control and repeater stations in the Public Mobile Services and with stations in the International Fixed Public Radio communication Services located south of 25°30′ north latitude in the State of Florida and U. S. possessions in the Caribbean area. Additionally, the band 2160-2162 MHz is shared with stations in the Multipoint Distribution Service.
+(1) Frequencies in this band are shared with control and repeater stations in the Public Mobile Services and with stations in the International Fixed Public Radio communication Services located south of 25°30′ north latitude in the State of Florida and U. S. possessions in the Caribbean area. Additionally, the band 2160-2162 MHz is shared with stations in the Multipoint Distribution Service. 
 
-(2) Except upon showing that no alternative frequencies are available, no new assignments will be made in the band 2160-2162 MHz for stations located within 80.5 kilometers (50 miles) of the coordinates of the cities listed in § 21.901(c) of this chapter.
+(2) Except upon showing that no alternative frequencies are available, no new assignments will be made in the band 2160-2162 MHz for stations located within 80.5 kilometers (50 miles) of the coordinates of the cities listed in § 21.901(c) of this chapter. 
 
-(3) Television transmission in this band is not authorized and radio frequency channel widths may not exceed 3.5 MHz.
+(3) Television transmission in this band is not authorized and radio frequency channel widths may not exceed 3.5 MHz. 
 
-(4) Frequencies in this band are shared with fixed and mobile stations licensed in other services.
+(4) Frequencies in this band are shared with fixed and mobile stations licensed in other services. 
 
-(5) Frequencies in this band are shared with stations in the fixed-satellite service.
+(5) Frequencies in this band are shared with stations in the fixed-satellite service. 
 
-(6) These frequencies are not available for assignment to mobile earth stations.
+(6) These frequencies are not available for assignment to mobile earth stations. 
 
-(7) Frequencies in the band 2110-2120 MHz may be authorized on a case-by-case basis to Government or non-Government space research earth stations for telecommand purposes in connection with deep space research.
+(7) Frequencies in the band 2110-2120 MHz may be authorized on a case-by-case basis to Government or non-Government space research earth stations for telecommand purposes in connection with deep space research. 
 
-(8) This frequency band is shared with station(s) in the Local Television Transmission Service for locations outside the contiguous United States and applications for new permanent or temporary facilities in this band will not be accepted for locations in the contiguous United States. Existing licensees as of April 19, 2018, for permanent and temporary point-to-point Fixed Service links in the contiguous United States have until December 5, 2023, to self-relocate their point-to-point links out of the 3,700-4,200 MHz band. This frequency band is also shared in the U.S. Possessions in the Caribbean area, with stations in the International Fixed Public Radiocommunications Services.
+(8) This frequency band is shared with station(s) in the Local Television Transmission Service for locations outside the contiguous United States and applications for new permanent or temporary facilities in this band will not be accepted for locations in the contiguous United States. Existing licensees as of April 19, 2018, for permanent and temporary point-to-point Fixed Service links in the contiguous United States have until December 5, 2023, to self-relocate their point-to-point links out of the 3,700-4,200 MHz band. This frequency band is also shared in the U.S. Possessions in the Caribbean area, with stations in the International Fixed Public Radiocommunications Services. 
 
-(9) The band segments 10.95-11.2 and 11.45-11.7 GHz are shared with space stations (space to earth) in the fixed-satellite service.
+(9) The band segments 10.95-11.2 and 11.45-11.7 GHz are shared with space stations (space to earth) in the fixed-satellite service. 
 
-(10) This band is co-equally shared with stations in the fixed services under parts 74, 78 and 101 of this chapter.
+(10) This band is co-equally shared with stations in the fixed services under parts 74, 78 and 101 of this chapter. 
 
-(11) Frequencies in this band are shared with Government stations.
+(11) Frequencies in this band are shared with Government stations. 
 
-(12) Frequencies in this band are available for assignment to the common carrier and private-operational fixed point-to-point microwave services.
+(12) Frequencies in this band are available for assignment to the common carrier and private-operational fixed point-to-point microwave services. 
 
-(13) Frequencies in this band are shared with stations in the earth exploration satellite service (space to earth).
+(13) Frequencies in this band are shared with stations in the earth exploration satellite service (space to earth). 
 
-(14) Frequencies in this band are shared with stations in the fixed satellite service. For 3,700-4,200 MHz, frequencies are only available for locations outside the contiguous United States and applications for new permanent or temporary facilities in this band will not be accepted for locations in the contiguous United States. Existing licensees as of April 19, 2018, of permanent and temporary point-to-point Fixed Service links in the contiguous United States have until December 5, 2023, to self-relocate their point-to-point links out of the 3,700-4,200 MHz.
+(14) Frequencies in this band are shared with stations in the fixed satellite service. For 3,700-4,200 MHz, frequencies are only available for locations outside the contiguous United States and applications for new permanent or temporary facilities in this band will not be accepted for locations in the contiguous United States. Existing licensees as of April 19, 2018, of permanent and temporary point-to-point Fixed Service links in the contiguous United States have until December 5, 2023, to self-relocate their point-to-point links out of the 3,700-4,200 MHz. 
 
-(15) Stations licensed as of September 9, 1983 to use frequencies in the 17.7-19.7 GHz band may, upon proper application, continue to be authorized for such operation.
+(15) Stations licensed as of September 9, 1983 to use frequencies in the 17.7-19.7 GHz band may, upon proper application, continue to be authorized for such operation. 
 
-(16) As of June 30, 1997, frequencies in these bands are available for assignment only to LMDS radio stations, except for non-LMDS radio stations authorized pursuant to applications refiled no later than June 26, 1998.
+(16) As of June 30, 1997, frequencies in these bands are available for assignment only to LMDS radio stations, except for non-LMDS radio stations authorized pursuant to applications refiled no later than June 26, 1998. 
 
-(17) Frequencies in these bands are shared with Government fixed stations and stations in the Private Operational Fixed Point-to-Point Microwave Service (part 101).
+(17) Frequencies in these bands are shared with Government fixed stations and stations in the Private Operational Fixed Point-to-Point Microwave Service (part 101). 
 
-(18) Frequencies in the 942 to 944 MHz band are also shared with broadcast auxiliary stations.
+(18) Frequencies in the 942 to 944 MHz band are also shared with broadcast auxiliary stations. 
 
-(19) Frequencies in this band are shared with stations in the private-operational fixed point-to-point microwave service.
+(19) Frequencies in this band are shared with stations in the private-operational fixed point-to-point microwave service. 
 
-(20) New facilities in these bands will be licensed only on a secondary basis. Facilities licensed or applied for before January 16, 1992, are permitted to make minor modifications in accordance with § 101.81 and retain their primary status.
+(20) New facilities in these bands will be licensed only on a secondary basis. Facilities licensed or applied for before January 16, 1992, are permitted to make minor modifications in accordance with § 101.81 and retain their primary status. 
 
-(21) Any authorization of additional stations to use the 2160-2162 MHz band for Multipoint Distribution Service applied for after January 16, 1992, will be secondary to use of the band for emerging technology services.
+(21) Any authorization of additional stations to use the 2160-2162 MHz band for Multipoint Distribution Service applied for after January 16, 1992, will be secondary to use of the band for emerging technology services. 
 
-(22) Frequencies in these bands are for the exclusive use of Private Operational Fixed Point-to-Point Microwave Service (part 101). Frequencies in the 12,700-13,200 MHz band, which were available only to stations authorized in the 12,200-12,700 MHz band as of September 9, 1983, are not available for new facilities.
+(22) Frequencies in these bands are for the exclusive use of Private Operational Fixed Point-to-Point Microwave Service (part 101). Frequencies in the 12,700-13,200 MHz band, which were available only to stations authorized in the 12,200-12,700 MHz band as of September 9, 1983, are not available for new facilities. 
 
-(23) Frequencies in these bands are for the exclusive use of Common Carrier Fixed Point-to-Point Microwave Service (part 101).
+(23) Frequencies in these bands are for the exclusive use of Common Carrier Fixed Point-to-Point Microwave Service (part 101). 
 
-(24) Frequencies in these bands are available for assignment to television pickup and television non-broadcast pickup stations. The maximum power for the local television transmission service in the 14.2-14.4 GHz band is + 45 dBW except that operations are not permitted within 1.5 degrees of the geostationary orbit. Beginning March 1, 2005, no new LTTS operators will be licensed and no existing LTTS licenses shall be issued in the 11.7-12.2 and 14.2-14.4 GHz bands.
+(24) Frequencies in these bands are available for assignment to television pickup and television non-broadcast pickup stations. The maximum power for the local television transmission service in the 14.2-14.4 GHz band is + 45 dBW except that operations are not permitted within 1.5 degrees of the geostationary orbit. Beginning March 1, 2005, no new LTTS operators will be licensed and no existing LTTS licenses shall be issued in the 11.7-12.2 and 14.2-14.4 GHz bands. 
 
-(25) Frequencies in these bands are available for assignment to television STL stations. For 3,700-4,200 MHz, frequencies are only available for locations outside the contiguous United States and applications for new permanent or temporary facilities in this band will not be accepted for locations in the contiguous United States. Existing licensees as of April 19, 2018, of permanent and temporary point-to-point Fixed Service links in the contiguous United States have until December 5, 2023, to self-relocate their point-to-point links out of the 3,700-4,200 MHz band.
+(25) Frequencies in these bands are available for assignment to television STL stations. For 3,700-4,200 MHz, frequencies are only available for locations outside the contiguous United States and applications for new permanent or temporary facilities in this band will not be accepted for locations in the contiguous United States. Existing licensees as of April 19, 2018, of permanent and temporary point-to-point Fixed Service links in the contiguous United States have until December 5, 2023, to self-relocate their point-to-point links out of the 3,700-4,200 MHz band. 
 
-(26) Frequencies from 21.8-22.0 GHz and 23.0-23.2 GHz may be authorized for low power, limited coverage systems subject to the provisions of paragraph (s)(8) of this section.
+(26) Frequencies from 21.8-22.0 GHz and 23.0-23.2 GHz may be authorized for low power, limited coverage systems subject to the provisions of paragraph (s)(8) of this section. 
 
-(27) Frequencies in the 932 to 932.5 MHz and 941 to 941.5 MHz bands are shared with Government fixed point-to-multipoint stations. Frequencies in these bands are paired with one another and are available for flexible use for transmission of the licensee's products and information services, excluding video entertainment material. 932.00625/941.00625 MHz to 932.24375/941.24375 MHz is licensed by Economic Area. 932.25625/941.25625 MHz to 932.49375/941.49375 MHz is licensed on a site-by-site basis.
+(27) Frequencies in the 932 to 932.5 MHz and 941 to 941.5 MHz bands are shared with Government fixed point-to-multipoint stations. Frequencies in these bands are paired with one another and are available for flexible use for transmission of the licensee's products and information services, excluding video entertainment material. 932.00625/941.00625 MHz to 932.24375/941.24375 MHz is licensed by Economic Area. 932.25625/941.25625 MHz to 932.49375/941.49375 MHz is licensed on a site-by-site basis. 
 
-(28) Licensees that obtain authorizations in the 928/952/956 MHz MAS bands subsequent to July 1, 1999 are limited to private internal services, as defined in § 101.1305. Incumbent operations in the 928/952/956 MHz MAS bands, as defined in § 101.1331(a), are subject to grandfather rights pursuant to § 101.1331. The 928.85-929.0 MHz and 959.85-960.0 MHz bands are licensed on a geographic area basis with no eligibility restrictions. The 928.0-928.85 MHz band paired with the 952.0-952.85 MHz band, in addition to unpaired frequencies in the 956.25-956.45 MHz band, are licensed on a site-by-site basis and used for terrestrial point-to-point and point-to-multipoint fixed and limited mobile operations. The 928.85-929.0 MHz band paired with the 959.85-960.0 MHz band is licensed by Economic Area and used for terrestrial point-to-point and point-to-multipoint fixed operations.
+(28) Licensees that obtain authorizations in the 928/952/956 MHz MAS bands subsequent to July 1, 1999 are limited to private internal services, as defined in § 101.1305. Incumbent operations in the 928/952/956 MHz MAS bands, as defined in § 101.1331(a), are subject to grandfather rights pursuant to § 101.1331. The 928.85-929.0 MHz and 959.85-960.0 MHz bands are licensed on a geographic area basis with no eligibility restrictions. The 928.0-928.85 MHz band paired with the 952.0-952.85 MHz band, in addition to unpaired frequencies in the 956.25-956.45 MHz band, are licensed on a site-by-site basis and used for terrestrial point-to-point and point-to-multipoint fixed and limited mobile operations. The 928.85-929.0 MHz band paired with the 959.85-960.0 MHz band is licensed by Economic Area and used for terrestrial point-to-point and point-to-multipoint fixed operations. 
 
-(29) Frequencies in this band are shared with stations in the Multipoint Distribution Service (part 21). These frequencies may be used for the transmission of the licensee's products and information services, excluding video entertainment material to the licensee's customers.
+(29) Frequencies in this band are shared with stations in the Multipoint Distribution Service (part 21). These frequencies may be used for the transmission of the licensee's products and information services, excluding video entertainment material to the licensee's customers. 
 
-(30) The frequency band 18,580-19,300 GHz is not available for new licensees after June 8, 2000, except for low power indoor stations in the band 18,820-18,870 MHz and 19,160-19,210 MHz.
+(30) The frequency band 18,580-19,300 GHz is not available for new licensees after June 8, 2000, except for low power indoor stations in the band 18,820-18,870 MHz and 19,160-19,210 MHz. 
 
-(31) This frequency band can be used for Multichannel Video Distribution and Data Service (MVDDS) shared with Direct Broadcast Satellite (DBS) Services on a co-primary non-harmful interference basis and on a co-primary basis with NGSO FSS satellite earth stations. Incumbent private operational fixed point-to-point licensees can also use these frequencies on a site by site basis.
+(31) This frequency band can be used for Multichannel Video Distribution and Data Service (MVDDS) shared with Direct Broadcast Satellite (DBS) Services on a co-primary non-harmful interference basis and on a co-primary basis with NGSO FSS satellite earth stations. Incumbent private operational fixed point-to-point licensees can also use these frequencies on a site by site basis. 
 
-(32) Frequencies in this band are shared with stations in the fixed-satellite service, subject to the conditions specified in footnote 15 of § 25.202(a)(1) of this chapter, see 47 CFR 47 25.202(a)(1) n.16.
+(32) Frequencies in this band are shared with stations in the fixed-satellite service, subject to the conditions specified in footnote 15 of § 25.202(a)(1) of this chapter, see 47 CFR 47 25.202(a)(1) n.16. 
 
-(33) The coordination of a new 30 megahertz link in the 6,525-6,875 MHz band should be attempted only if it cannot be accommodated in the 5,925-6,425 MHz band.
+(33) The coordination of a new 30 megahertz link in the 6,525-6,875 MHz band should be attempted only if it cannot be accommodated in the 5,925-6,425 MHz band. 
 
 (34) In the bands 6,875-7,125 MHz and 12,700-13,150 MHz, links shall not intersect with the service areas of television pickup stations.
 
-(b) Frequencies normally available for assignment in this service are set forth with applicable limitations in the following tables: 928-960 MHz Multiple address system (MAS) frequencies are available for the point-to-multipoint and point-to-point transmission of a licensee's products or services, excluding video entertainment material, to a licensee's customer or for its own internal communications. The paired frequencies listed in this section are used for two-way communications between a master station and remote stations. Ancillary one-way communications on paired frequencies are permitted on a case-by-case basis. Ancillary communications between interrelated master stations are permitted on a secondary basis. The normal channel bandwidth assigned will be 12.5 kHz. EA licensees, however, may combine contiguous channels without limit or justification. Site-based licensees may combine contiguous channels up to 50 kHz, and more than 50 kHz only upon a showing of adequate justification. Any bandwidth (12.5 kHz, 25 kHz or greater) authorized in accordance with this section may be subdivided into narrower bandwidths to create additional (or sub) frequencies without the need to specify each discrete frequency within the specific bandwidth. Equipment that is used to create additional frequencies by narrowing bandwidth (whether authorized for a 12.5 kHz, 25 kHz or greater bandwidth) will be required to meet, at a minimum, the ±0.00015 percent tolerance requirement so that all subfrequencies will be within the emission mask. Systems licensed for frequencies in these MAS bands prior to August 1, 1975, may continue to operate as authorized until June 11, 1996, at which time they must comply with current MAS operations based on the 12.5 kHz channelization set forth in this paragraph. Systems licensed between August 1, 1975, and January 1, 1981, inclusive, are required to comply with the grandfathered 25 kHz standard bandwidth and channelization requirements set forth in this paragraph. Systems originally licensed after January 1, 1981, and on or before May 11, 1988, with bandwidths of 25 kHz and above, will be grandfathered indefinitely.
+(b) Frequencies normally available for assignment in this service are set forth with applicable limitations in the following tables: 928-960 MHz Multiple address system (MAS) frequencies are available for the point-to-multipoint and point-to-point transmission of a licensee's products or services, excluding video entertainment material, to a licensee's customer or for its own internal communications. The paired frequencies listed in this section are used for two-way communications between a master station and remote stations. Ancillary one-way communications on paired frequencies are permitted on a case-by-case basis. Ancillary communications between interrelated master stations are permitted on a secondary basis. The normal channel bandwidth assigned will be 12.5 kHz. EA licensees, however, may combine contiguous channels without limit or justification. Site-based licensees may combine contiguous channels up to 50 kHz, and more than 50 kHz only upon a showing of adequate justification. Any bandwidth (12.5 kHz, 25 kHz or greater) authorized in accordance with this section may be subdivided into narrower bandwidths to create additional (or sub) frequencies without the need to specify each discrete frequency within the specific bandwidth. Equipment that is used to create additional frequencies by narrowing bandwidth (whether authorized for a 12.5 kHz, 25 kHz or greater bandwidth) will be required to meet, at a minimum, the ±0.00015 percent tolerance requirement so that all subfrequencies will be within the emission mask. Systems licensed for frequencies in these MAS bands prior to August 1, 1975, may continue to operate as authorized until June 11, 1996, at which time they must comply with current MAS operations based on the 12.5 kHz channelization set forth in this paragraph. Systems licensed between August 1, 1975, and January 1, 1981, inclusive, are required to comply with the grandfathered 25 kHz standard bandwidth and channelization requirements set forth in this paragraph. Systems originally licensed after January 1, 1981, and on or before May 11, 1988, with bandwidths of 25 kHz and above, will be grandfathered indefinitely. 
 
 Note to paragraph (b) introductory text:
 
 Paragraphs (b)(1) through (b)(5) and Tables 1 through 7 of this section pertain to Multiple Address System (MAS) frequencies and paragraph (b)(6) and Tables 8 through 11 of this section pertain to Point-To-Point frequencies.
 
-(1) Frequencies listed in this paragraph are designated for private internal use and are subject to site-based licensing.
+(1) Frequencies listed in this paragraph are designated for private internal use and are subject to site-based licensing. 
 
 Table 1—Paired Frequencies (MHz)
 
@@ -153,7 +153,7 @@ Unpaired Frequencies (MHz)
 | 956.2875 | 956.3625 | 956.4375 |
 | 956.3125 | 956.3875 |          |
 
-(2) Frequencies listed in this paragraph are designated for private internal use and are subject to site-based licensing.
+(2) Frequencies listed in this paragraph are designated for private internal use and are subject to site-based licensing. 
 
 Table 3—Paired Frequencies (MHz)
 
@@ -227,7 +227,7 @@ Table 4—Paired Frequencies (MHz)
 | 928.8125        | 952.8125        |
 | 928.8375        | 952.8375        |
 
-(3) Frequencies listed in this paragraph are not restricted to private internal use and are licensed by geographic area. Incumbent facilities must be protected.
+(3) Frequencies listed in this paragraph are not restricted to private internal use and are licensed by geographic area. Incumbent facilities must be protected. 
 
 Table 5—Paired Frequencies (MHz)
 
@@ -259,7 +259,7 @@ Table 6—Paired Frequencies (MHz)
 | 928.9625        | 959.9625        |
 | 928.9875        | 959.9875        |
 
-(4) Frequencies listed in this paragraph are licensed by either economic area or on a site-by-site basis.
+(4) Frequencies listed in this paragraph are licensed by either economic area or on a site-by-site basis. 
 
 Table 7—Paired Frequencies
 | Remote transmit                                                                        | Master transmit |
@@ -310,7 +310,7 @@ Table 7—Paired Frequencies
 | 932.48125                                                                              | 941.48125       |
 | 932.49375                                                                              | 941.49375       |
 
-(5) Equivalent power and antenna heights for multiple address master stations:
+(5) Equivalent power and antenna heights for multiple address master stations: 
 
 | Antenna height (AAT) in meters | Maximum effective radiated power |
 | ------------------------------ | -------------------------------- |
@@ -322,9 +322,9 @@ Table 7—Paired Frequencies
 | Above 152.5 to 182             | 630                              |
 | 152.5 and below                | 1,000                            |
 
-For mobile operations the maximum ERP is 25 watts (44 dBm).
+For mobile operations the maximum ERP is 25 watts (44 dBm). 
 
-(6) Fixed point-to-point frequencies.
+(6) Fixed point-to-point frequencies. 
 
 Table 8—Paired Frequencies
 
@@ -446,7 +446,7 @@ Table 11—Paired Frequencies
 | 959.15                                                                                           | 955.55                   |
 | 1 These frequencies also may be used by Common Carrier Fixed Point-to-Point Microwave licensees. |                          |
 
-(c) *1850-1990 MHz.* (1) 10 MHz maximum bandwidth.
+(c) *1850-1990 MHz.* (1) 10 MHz maximum bandwidth. 
 
 Paired Frequencies
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
@@ -463,7 +463,7 @@ Unpaired Frequencies
 | 1925 1                                                  |
 | 1 Available for systems employing one-way transmission. |
 
-(2) 5 MHz maximum bandwidth.
+(2) 5 MHz maximum bandwidth. 
 
 Paired Frequencies
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
@@ -474,7 +474,7 @@ Paired Frequencies
 | 1890                     | 1970                     |
 | 1900                     | 1980                     |
 
-(d) *2130-2150 MHz; 2180-2200 MHz.* 800 kHz maximum bandwidth, unless noted.
+(d) *2130-2150 MHz; 2180-2200 MHz.* 800 kHz maximum bandwidth, unless noted. 
 
 Paired Frequencies
 | 2130-2150 | 2180-2200 |
@@ -507,13 +507,13 @@ Paired Frequencies
 | 2149.2                                                                                                                                          | 2199.2                   |
 | 1 Consideration will be given on a case-by-case basis to assigning these frequency pairs to systems employing 1600 KHz bandwidth transmissions. |                          |
 
-(e) \[Reserved\]
+(e) \[Reserved\] 
 
-(f) *2450-2500 MHz.* (1) This band is shared with other communications services and is not subject to protection from interference from industrial, scientific, and medical devices operating on 2450 MHz.
+(f) *2450-2500 MHz.* (1) This band is shared with other communications services and is not subject to protection from interference from industrial, scientific, and medical devices operating on 2450 MHz. 
 
-(2) Stations licensed in this band under this part prior to March 1, 1996, are grandfathered and may continue their authorized operations. Stations licensed in the 2483.5-2500 MHz portion of the band as of July 25, 1985, and licensees whose initial applications were filed on or before July 25, 1985, are grandfathered, and may continue operations, subject only to license renewal, on a co-primary basis with with the mobile-satellite and radiodetermination-satellite services, and in the segment 2495-2500 MHz, their operations are also on a co-primary basis with part 27 fixed and mobile except aeronautical mobile service operations.
+(2) Stations licensed in this band under this part prior to March 1, 1996, are grandfathered and may continue their authorized operations. Stations licensed in the 2483.5-2500 MHz portion of the band as of July 25, 1985, and licensees whose initial applications were filed on or before July 25, 1985, are grandfathered, and may continue operations, subject only to license renewal, on a co-primary basis with with the mobile-satellite and radiodetermination-satellite services, and in the segment 2495-2500 MHz, their operations are also on a co-primary basis with part 27 fixed and mobile except aeronautical mobile service operations. 
 
-(3) 625 KHz bandwidth channels. The normal bandwidth authorized will be 625 KHz. Upon adequate justification, additional contiguous channels may be authorized to provide up to a 2500 KHz bandwidth.
+(3) 625 KHz bandwidth channels. The normal bandwidth authorized will be 625 KHz. Upon adequate justification, additional contiguous channels may be authorized to provide up to a 2500 KHz bandwidth. 
 
 Paired Frequencies
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
@@ -545,11 +545,11 @@ Paired Frequencies
 | 2465.3125                | 2482.5625                |
 | 2465.9375                | 2483.1875                |
 
-(g) \[Reserved\]
+(g) \[Reserved\] 
 
-(h) *3,700 to 4,200 MHz outside the contiguous United States.* 20 MHz maximum authorized bandwidth.
+(h) *3,700 to 4,200 MHz outside the contiguous United States.* 20 MHz maximum authorized bandwidth. 
 
-20 MHz bandwidth channels:
+20 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                           | Receive (transmit) (MHz) |
 | -------------------------------------------------- | ------------------------ |
@@ -568,9 +568,9 @@ Paired Frequencies
 | N/A                                                | 1 4190                   |
 | 1 This frequency may be assigned for unpaired use. |                          |
 
-(i) *5,925 to 6,425 MHz.* 60 MHz authorized bandwidth.
+(i) *5,925 to 6,425 MHz.* 60 MHz authorized bandwidth. 
 
-(1) 400 kHz bandwidth channels:
+(1) 400 kHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -599,7 +599,7 @@ Paired Frequencies
 | 6172.500                 | 6424.375                 |
 | 6172.900                 | 6424.775                 |
 
-(2) 800 kHz bandwidth channels:
+(2) 800 kHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -616,7 +616,7 @@ Paired Frequencies
 | 6171.875                 | 6423.750                 |
 | 6172.700                 | 6424.575                 |
 
-(3) 1.25 MHz bandwidth channels:
+(3) 1.25 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                              | Receive (transmit) (MHz) |
 | ----------------------------------------------------- | ------------------------ |
@@ -681,7 +681,7 @@ Paired Frequencies
 | 6176.250 1                                            | N/A                      |
 | 1 These frequencies may be assigned for unpaired use. |                          |
 
-(4) 2.5 MHz bandwidth channels:
+(4) 2.5 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                           | Receive (transmit) (MHz) |
 | -------------------------------------------------- | ------------------------ |
@@ -716,7 +716,7 @@ Paired Frequencies
 | 6175.625 1                                         | N/A                      |
 | 1 This frequency may be assigned for unpaired use. |                          |
 
-(5) 3.75 MHz bandwidth channels:
+(5) 3.75 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                           | Receive (transmit) (MHz) |
 | -------------------------------------------------- | ------------------------ |
@@ -735,7 +735,7 @@ Paired Frequencies
 | 6175.000 1                                         | N/A                      |
 | 1 This frequency may be assigned for unpaired use. |                          |
 
-(6) 5 MHz bandwidth channels:
+(6) 5 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -752,7 +752,7 @@ Paired Frequencies
 | 6160.16                  | 6412.20                  |
 | 6165.10                  | 6417.14                  |
 
-(7) 10 MHz bandwidth channels:
+(7) 10 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                                                                                   | Receive (transmit) (MHz) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
@@ -782,7 +782,7 @@ Paired Frequencies
 | 6162.63 1                                                                                                                                  | 1 6414.67                |
 | 1 Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked. |                          |
 
-(8) 30 MHz bandwidth channels:
+(8) 30 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                                                                                   | Receive (transmit) (MHz) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
@@ -805,16 +805,16 @@ Paired Frequencies
 | 6078.625                     | 6330.665                     |
 | 6137.925                     | 6389.965                     |
 
-(j) *6,425 to 6,525 MHz: Mobile.* Paired and un-paired operations permitted. Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with mobile stations licensed pursuant to parts 74 and 78 of the Commission's Rules. Stations not intended to be operated while in motion will be licensed under the provision of § 101.31. The following channel plans apply.
+(j) *6,425 to 6,525 MHz: Mobile.* Paired and un-paired operations permitted. Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with mobile stations licensed pursuant to parts 74 and 78 of the Commission's Rules. Stations not intended to be operated while in motion will be licensed under the provision of § 101.31. The following channel plans apply. 
 
-(1) 1 MHz maximum authorized bandwidth channels:
+(1) 1 MHz maximum authorized bandwidth channels: 
 
 | Transmit (or receive) (MHz) | Receive (or transmit) (MHz) |
 | --------------------------- | --------------------------- |
 | 6425.5                      | 6475.5                      |
 | 6450.5                      | 6500.5                      |
 
-(2) 8 MHz maximum authorized bandwidth channels:
+(2) 8 MHz maximum authorized bandwidth channels: 
 
 | Transmit (or receive) (MHz) | Receive (or transmit) (MHz) |
 | --------------------------- | --------------------------- |
@@ -825,16 +825,16 @@ Paired Frequencies
 | 6463.0                      | 6513.0                      |
 | 6471.0                      | 6521.0                      |
 
-(3) 25 MHz maximum authorized bandwidth channels:
+(3) 25 MHz maximum authorized bandwidth channels: 
 
 | Transmit (or receive) (MHz) | Receive (or transmit) (MHz) |
 | --------------------------- | --------------------------- |
 | 6437.5                      | 6487.5                      |
 | 6462.5                      | 6512.5                      |
 
-(k) *6,525 to 6,875 MHz.* 10 MHz authorized bandwidth.
+(k) *6,525 to 6,875 MHz.* 10 MHz authorized bandwidth. 
 
-(1) 400 kHz bandwidth channels:
+(1) 400 kHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -851,7 +851,7 @@ Paired Frequencies
 | 6529.375                 | 6874.375                 |
 | 6529.775                 | 6874.775                 |
 
-(2) 800 kHz bandwidth channels:
+(2) 800 kHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -862,7 +862,7 @@ Paired Frequencies
 | 6528.750                 | 6873.750                 |
 | 6529.575                 | 6874.575                 |
 
-(3) 1.25 MHz bandwidth channels:
+(3) 1.25 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                              | Receive (transmit) (MHz) |
 | ----------------------------------------------------- | ------------------------ |
@@ -1000,7 +1000,7 @@ Paired Frequencies
 | 6709.375 1                                            | 1 6711.875               |
 | 1 These frequencies may be assigned for unpaired use. |                          |
 
-(4) 2.5 MHz bandwidth channels:
+(4) 2.5 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                              | Receive (transmit) (MHz) |
 | ----------------------------------------------------- | ------------------------ |
@@ -1072,7 +1072,7 @@ Paired Frequencies
 | 6708.75 1                                             | 1 6711.25                |
 | 1 These frequencies may be assigned for unpaired use. |                          |
 
-(5) 3.75 MHz bandwidth channels:
+(5) 3.75 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                              | Receive (transmit) (MHz) |
 | ----------------------------------------------------- | ------------------------ |
@@ -1109,7 +1109,7 @@ Paired Frequencies
 | 6710.625 1                                            | 1 6720.625               |
 | 1 These frequencies may be assigned for unpaired use. |                          |
 
-(6) 5 MHz bandwidth channels:
+(6) 5 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                              | Receive (transmit) (MHz) |
 | ----------------------------------------------------- | ------------------------ |
@@ -1146,7 +1146,7 @@ Paired Frequencies
 | 6710 1                                                | 1 6720                   |
 | 1 These frequencies may be assigned for unpaired use. |                          |
 
-(7) 10 MHz bandwidth channels:
+(7) 10 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                                                                                                                                                                                                                      | Receive (transmit) (MHz) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
@@ -1170,7 +1170,7 @@ Paired Frequencies
 | 1 These frequencies may be assigned for unpaired use.                                                                                                                                                                                                                         |                          |
 | 2 Available only for emergency restoration, maintenance bypass, or other temporary-fixed purposes. Such uses are authorized on a non-interference basis to other frequencies in this band. Interference analysis required by § 101.105 does not apply to this frequency pair. |                          |
 
-(8) 30 MHz bandwidth channels:
+(8) 30 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1180,9 +1180,9 @@ Paired Frequencies
 | 6655                     | 6815                     |
 | 6685                     | 6845                     |
 
-(l) *6875 to 7125 MHz.* 25 MHz authorized bandwidth.
+(l) *6875 to 7125 MHz.* 25 MHz authorized bandwidth. 
 
-(1) 5 MHz bandwidth channels:
+(1) 5 MHz bandwidth channels: 
 
 | Transmit   (receive)   (MHz) | Receive   (transmit)   (MHz) |
 | ---------------------------- | ---------------------------- |
@@ -1207,7 +1207,7 @@ Paired Frequencies
 | 6967.5                       | 7117.5                       |
 | 6972.5                       | 7122.5                       |
 
-(2) 8.33 MHz bandwidth channels:
+(2) 8.33 MHz bandwidth channels: 
 
 | Transmit   (receive)   (MHz) | Receive   (transmit)   (MHz) |
 | ---------------------------- | ---------------------------- |
@@ -1224,7 +1224,7 @@ Paired Frequencies
 | 6962.465                     | 7112.465                     |
 | 6970.795                     | 7120.795                     |
 
-(3) 12.5 MHz bandwidth channels:
+(3) 12.5 MHz bandwidth channels: 
 
 | Transmit   (receive)   (MHz) | Receive   (transmit)   (MHz) |
 | ---------------------------- | ---------------------------- |
@@ -1237,7 +1237,7 @@ Paired Frequencies
 | 6956.25                      | 7106.25                      |
 | 6968.75                      | 7118.75                      |
 
-(4) 25 MHz bandwidth channels:
+(4) 25 MHz bandwidth channels: 
 
 | Transmit   (receive)   (MHz) | Receive   (transmit)   (MHz) |
 | ---------------------------- | ---------------------------- |
@@ -1246,9 +1246,9 @@ Paired Frequencies
 | 6937.5                       | 7087.5                       |
 | 6962.5                       | 7112.5                       |
 
-(m) *10,550 to 10,680 MHz.* 5 MHz authorized bandwidth.
+(m) *10,550 to 10,680 MHz.* 5 MHz authorized bandwidth. 
 
-(1) 400 kHz bandwidth channels:
+(1) 400 kHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1277,7 +1277,7 @@ Paired Frequencies
 | 10614.375                | 10679.375                |
 | 10614.775                | 10679.775                |
 
-(2) 800 kHz bandwidth channels:
+(2) 800 kHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1294,7 +1294,7 @@ Paired Frequencies
 | 10613.750                | 10678.750                |
 | 10614.575                | 10679.575                |
 
-(3) 1.25 MHz bandwidth channels:
+(3) 1.25 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1351,7 +1351,7 @@ Paired Frequencies
 | 10613.125                | 10678.125                |
 | 10614.375                | 10679.375                |
 
-(4) 2.5 MHz bandwidth channels:
+(4) 2.5 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                                                                | Receive (transmit) (MHz) |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------ |
@@ -1383,7 +1383,7 @@ Paired Frequencies
 | 10613.75 1                                                                                                              | 1 10678.75               |
 | 1 These frequencies are also available for DEMS stations licensed, in operation, or applied for prior to July 15, 1993. |                          |
 
-(5) 3.75 MHz bandwidth channels:
+(5) 3.75 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1399,7 +1399,7 @@ Paired Frequencies
 | 10598.125                | 10663.125                |
 | 10603.125                | 10668.125                |
 
-(6) 5 MHz bandwidth channels:
+(6) 5 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                                                                | Receive (transmit) (MHz) |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------ |
@@ -1416,11 +1416,11 @@ Paired Frequencies
 | 10602.5                                                                                                                 | 10667.5                  |
 | 1 These frequencies are also available for DEMS stations licensed, in operation, or applied for prior to July 15, 1993. |                          |
 
-(n) Point-to-multipoint systems licensed, in operation, or applied for in the 10,550-10,680 MHz band prior to July 15, 1993, are permitted to use the DEMS frequencies noted above if they prior coordinate such usage with the necessary parties including 10 GHz point-to-point applicants and licensees. DEMS Nodal Stations shall use the band 10,565-10,615 MHz while DEMS User Stations shall use the band 10,630-10,680 MHz.
+(n) Point-to-multipoint systems licensed, in operation, or applied for in the 10,550-10,680 MHz band prior to July 15, 1993, are permitted to use the DEMS frequencies noted above if they prior coordinate such usage with the necessary parties including 10 GHz point-to-point applicants and licensees. DEMS Nodal Stations shall use the band 10,565-10,615 MHz while DEMS User Stations shall use the band 10,630-10,680 MHz. 
 
-(o) *10,700 to 11,700 MHz.* 80 MHz authorized bandwidth.
+(o) *10,700 to 11,700 MHz.* 80 MHz authorized bandwidth. 
 
-(1) 1.25 MHz bandwidth channels:
+(1) 1.25 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1481,7 +1481,7 @@ Paired Frequencies
 | 11198.125                | 11698.125                |
 | 11199.375                | 11699.375                |
 
-(2) 2.5 MHz bandwidth channels:
+(2) 2.5 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1514,7 +1514,7 @@ Paired Frequencies
 | 11196.25                 | 11696.25                 |
 | 11198.75                 | 11698.75                 |
 
-(3) 3.75 MHz bandwidth channels:
+(3) 3.75 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1533,7 +1533,7 @@ Paired Frequencies
 | 11193.125                | 11693.125                |
 | 11198.125                | 11698.125                |
 
-(4) 5 MHz bandwidth channels:
+(4) 5 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1552,7 +1552,7 @@ Paired Frequencies
 | 11192.5                  | 11692.5                  |
 | 11197.5                  | 11697.5                  |
 
-(5) 10 MHz bandwidth channels:
+(5) 10 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                                                                                   | Receive (transmit) (MHz) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
@@ -1609,7 +1609,7 @@ Paired Frequencies
 | 1 Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked. |                          |
 | 2 These frequencies may be assigned for unpaired use.                                                                                      |                          |
 
-(6) 30 MHz bandwidth channels:
+(6) 30 MHz bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                                                                                   | Receive (transmit) (MHz) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
@@ -1658,11 +1658,11 @@ Paired Frequencies
 | 11075                        | 11565                        |
 | 11155                        | 11645                        |
 
-(p) *12,200 to 13,150 MHz*—(1) *12,000-12,700 MHz.* The Commission has allocated the 12.2-12.7 GHz band for use by the Direct Broadcast Satellite Service (DBS), the Multichannel Video Distribution and Data Service (MVDDS), and the Non-Geostationary Satellite Orbit Fixed Satellite Service (NGSO FSS). MVDDS shall be licensed on a non-harmful interference co-primary basis to existing DBS operations and on a co-primary basis with NGSO FSS stations in this band. MVDDS use can be on a common carrier and/or non-common carrier basis and can use channels of any desired bandwidth up to the maximum of 500 MHz provided the EIRP does not exceed 14 dBm per 24 megahertz. Private operational fixed point-to-point microwave stations authorized after September 9, 1983, are licensed on a non-harmful interference basis to DBS and are required to make any and all adjustments necessary to prevent harmful interference to operating domestic DBS receivers. Incumbent public safety licensees shall be afforded protection from MVDDS and NGSO FSS licensees, however all other private operational fixed licensees shall be secondary to DBS, MVDDS and NGSO FSS licensees. As of May 23, 2002, the Commission no longer accepts applications for new licenses for point-to-point private operational fixed stations in this band, however, incumbent licensees and previously filed applicants may file applications for minor modifications and amendments (as defined in § 1.929 of this chapter) thereto, renewals, transfer of control, or assignment of license. Notwithstanding any other provisions, no private operational fixed point-to-point microwave stations are permitted to cause harmful interference to broadcasting-satellite stations of other countries operating in accordance with the Region 2 plan for the Broadcasting-Satellite Service established at the 1983 WARC.
+(p) *12,200 to 13,150 MHz*—(1) *12,000-12,700 MHz.* The Commission has allocated the 12.2-12.7 GHz band for use by the Direct Broadcast Satellite Service (DBS), the Multichannel Video Distribution and Data Service (MVDDS), and the Non-Geostationary Satellite Orbit Fixed Satellite Service (NGSO FSS). MVDDS shall be licensed on a non-harmful interference co-primary basis to existing DBS operations and on a co-primary basis with NGSO FSS stations in this band. MVDDS use can be on a common carrier and/or non-common carrier basis and can use channels of any desired bandwidth up to the maximum of 500 MHz provided the EIRP does not exceed 14 dBm per 24 megahertz. Private operational fixed point-to-point microwave stations authorized after September 9, 1983, are licensed on a non-harmful interference basis to DBS and are required to make any and all adjustments necessary to prevent harmful interference to operating domestic DBS receivers. Incumbent public safety licensees shall be afforded protection from MVDDS and NGSO FSS licensees, however all other private operational fixed licensees shall be secondary to DBS, MVDDS and NGSO FSS licensees. As of May 23, 2002, the Commission no longer accepts applications for new licenses for point-to-point private operational fixed stations in this band, however, incumbent licensees and previously filed applicants may file applications for minor modifications and amendments (as defined in § 1.929 of this chapter) thereto, renewals, transfer of control, or assignment of license. Notwithstanding any other provisions, no private operational fixed point-to-point microwave stations are permitted to cause harmful interference to broadcasting-satellite stations of other countries operating in accordance with the Region 2 plan for the Broadcasting-Satellite Service established at the 1983 WARC. 
 
-(2) *12,700 to 13,150 MHz.* 50 MHz authorized bandwidth.
+(2) *12,700 to 13,150 MHz.* 50 MHz authorized bandwidth. 
 
-(i) 5 MHz channels:
+(i) 5 MHz channels: 
 
 | Transmit   (receive)   (MHz) | Receive   (transmit)   (MHz) |
 | ---------------------------- | ---------------------------- |
@@ -1712,7 +1712,7 @@ Paired Frequencies
 | 12917.5                      | 13142.5                      |
 | 12922.5                      | 13147.5                      |
 
-(ii) 8.33 MHz bandwidth channels:
+(ii) 8.33 MHz bandwidth channels: 
 
 | Transmit   (receive)   (MHz) | Receive   (transmit)   (MHz) |
 | ---------------------------- | ---------------------------- |
@@ -1743,7 +1743,7 @@ Paired Frequencies
 | 12904.085                    | 13129.085                    |
 | 12912.415                    | 13137.415                    |
 
-(iii) 12.5 MHz bandwidth channels:
+(iii) 12.5 MHz bandwidth channels: 
 
 | Transmit   (receive)   (MHz) | Receive   (transmit)   (MHz) |
 | ---------------------------- | ---------------------------- |
@@ -1766,7 +1766,7 @@ Paired Frequencies
 | 12906.25                     | 13131.25                     |
 | 12918.75                     | 13143.75                     |
 
-(iv) 25 MHz bandwidth channels:
+(iv) 25 MHz bandwidth channels: 
 
 | Transmit   (receive)   (MHz) | Receive   (transmit)   (MHz) |
 | ---------------------------- | ---------------------------- |
@@ -1780,7 +1780,7 @@ Paired Frequencies
 | 12887.5                      | 13112.5                      |
 | 12912.5                      | 13137.5                      |
 
-(v) 50 MHz bandwidth channels:
+(v) 50 MHz bandwidth channels: 
 
 | Transmit   (receive)   (MHz) | Receive   (transmit)   (MHz) |
 | ---------------------------- | ---------------------------- |
@@ -1789,31 +1789,31 @@ Paired Frequencies
 | 12825                        | 13050                        |
 | 12875                        | 13100                        |
 
-(q) Special provisions for incumbent low power, limited coverage systems in the band segments 12.2-12.7 GHz.
+(q) Special provisions for incumbent low power, limited coverage systems in the band segments 12.2-12.7 GHz. 
 
-(1) As of May 23, 2002, the Commission no longer accepts applications for new stations in this service and incumbent stations may remain in service provided they do not cause harmful interference to any other primary services licensed in this band as described in paragraph (p) of this section. However, incumbent licensees and previously filed applicants may file applications for minor modifications and amendments (as defined in § 1.929 of this chapter) thereto, renewals, transfer of control, or assignment of license.
+(1) As of May 23, 2002, the Commission no longer accepts applications for new stations in this service and incumbent stations may remain in service provided they do not cause harmful interference to any other primary services licensed in this band as described in paragraph (p) of this section. However, incumbent licensees and previously filed applicants may file applications for minor modifications and amendments (as defined in § 1.929 of this chapter) thereto, renewals, transfer of control, or assignment of license. 
 
-(2) Prior to December 8, 2000, notwithstanding any contrary provisions in this part, the frequency pairs 12.220/12.460 GHz, 12.260/12.500 GHz, 12.300/12.540 GHz and 12.340/12.580 GHz, were authorized for low power, limited coverage systems subject to the following provisions:
+(2) Prior to December 8, 2000, notwithstanding any contrary provisions in this part, the frequency pairs 12.220/12.460 GHz, 12.260/12.500 GHz, 12.300/12.540 GHz and 12.340/12.580 GHz, were authorized for low power, limited coverage systems subject to the following provisions: 
 
-(i) Maximum equivalent isotropically radiated power (EIRP) shall be 55 dBm;
+(i) Maximum equivalent isotropically radiated power (EIRP) shall be 55 dBm; 
 
-(ii) The rated transmitter output power shall not exceed 0.5 watts;
+(ii) The rated transmitter output power shall not exceed 0.5 watts; 
 
-(iii) Frequency tolerance shall be maintained to within 0.01 percent of the assigned frequency;
+(iii) Frequency tolerance shall be maintained to within 0.01 percent of the assigned frequency; 
 
-(iv) Maximum beamwidth shall not exceed 4 degrees. However, the sidelobe suppression criteria contained in § 101.115 shall not apply, except that a minimum front-to-back ratio of 38 dB shall apply;
+(iv) Maximum beamwidth shall not exceed 4 degrees. However, the sidelobe suppression criteria contained in § 101.115 shall not apply, except that a minimum front-to-back ratio of 38 dB shall apply; 
 
-(v) Upon showing of need, a maximum bandwidth of 12 MHz may be authorized per frequency assigned;
+(v) Upon showing of need, a maximum bandwidth of 12 MHz may be authorized per frequency assigned; 
 
-(vi) Radio systems authorized under the provisions of this section shall have no more than three hops in tandem, except upon showing of need, but in any event the maximum tandem length shall not exceed 40 km (25 miles);
+(vi) Radio systems authorized under the provisions of this section shall have no more than three hops in tandem, except upon showing of need, but in any event the maximum tandem length shall not exceed 40 km (25 miles); 
 
-(vii) Interfering signals at the receiver antenna terminals of stations authorized under this section shall not exceed −90 dBm and −70 dBm respectively, for co-channel and adjacent channel interfering signals, and
+(vii) Interfering signals at the receiver antenna terminals of stations authorized under this section shall not exceed −90 dBm and −70 dBm respectively, for co-channel and adjacent channel interfering signals, and 
 
-(viii) Stations authorized under the provisions of this section shall provide the protection from interference specified in § 101.105 to stations operating in accordance with the provisions of this part.
+(viii) Stations authorized under the provisions of this section shall provide the protection from interference specified in § 101.105 to stations operating in accordance with the provisions of this part. 
 
-(r) *17,700 to 19,700 and 24,250 to 25,250 MHz:* Operation of stations using frequencies in these bands is permitted to the extent specified in this paragraph. Until November 19, 2012, stations operating in the band 18.3-18.58 GHz that were licensed or had applications pending before the Commission as of November 19, 2002 shall operate on a shared co-primary basis with other services under parts 21, 25, 74, and 78 of this chapter. Until October 31, 2011, operations in the band 19.26-19.3 GHz and low power systems operating pursuant to paragraph (r)(10) of this section shall operate on a co-primary basis. Until June 8, 2010, stations operating in the band 18.58-18.8 GHz that were licensed or had applications pending before the Commission as of June 8, 2000 may continue those operations on a shared co-primary basis with other services under parts 21, 25, 74, and 78 of this chapter. Until June 8, 2010, stations operating in the band 18.8-19.3 GHz that were licensed or had applications pending before the Commission as of September 18, 1998 may continue those operations on a shared co-primary basis with other services under parts 21, 25, 74, and 78 of this chapter. After November 19, 2012, stations operating in the band 18.3-18.58 GHz are not entitled to protection from fixed-satellite service operations and must not cause unacceptable interference to fixed-satellite service station operations. After June 8, 2010, operations in the 18.58-19.30 GHz band are not entitled to protection from fixed-satellite service operations and must not cause unacceptable interference to fixed-satellite service station operations. After November 19, 2002, no applications for new stations for 47 CFR part 101 licenses will be accepted in the 18.3-18.58 GHz band. After June 8, 2000, no applications for new stations for 47 CFR part 101 licenses will be accepted in the 18.58-19.3 GHz band. Licensees, except 24 GHz band licensees, may use either a two-way link or one frequency of a frequency pair for a one-way link and must coordinate proposed operations pursuant to the procedures required in § 101.103 of this subpart. (Note, however, that stations authorized as of September 9, 1983, to use frequencies in the band 17.7-19.7 GHz may, upon proper application, continue to be authorized for such operations, consistent with the above conditions related to the 18.58-19.3 GHz band.) Applicants for one-way spectrum from 17.7-18.58 GHz for multichannel video programming distribution are governed by paragraph (r)(6) of this section. Licensees are also allowed to use one-way (unpaired) channels in the 17.7-17.74 GHz sub-band to pair with other channels in the FS portions of the 18 GHz band where, for example, the return pair is already in use and therefore blocked or in TDD systems. Stations used for MVPD operations in the 17.7-17.8 GHz band must coordinate with the Federal Government before operating in the zones specified in § 1.924(e) of this chapter.
+(r) *17,700 to 19,700 and 24,250 to 25,250 MHz:* Operation of stations using frequencies in these bands is permitted to the extent specified in this paragraph. Until November 19, 2012, stations operating in the band 18.3-18.58 GHz that were licensed or had applications pending before the Commission as of November 19, 2002 shall operate on a shared co-primary basis with other services under parts 21, 25, 74, and 78 of this chapter. Until October 31, 2011, operations in the band 19.26-19.3 GHz and low power systems operating pursuant to paragraph (r)(10) of this section shall operate on a co-primary basis. Until June 8, 2010, stations operating in the band 18.58-18.8 GHz that were licensed or had applications pending before the Commission as of June 8, 2000 may continue those operations on a shared co-primary basis with other services under parts 21, 25, 74, and 78 of this chapter. Until June 8, 2010, stations operating in the band 18.8-19.3 GHz that were licensed or had applications pending before the Commission as of September 18, 1998 may continue those operations on a shared co-primary basis with other services under parts 21, 25, 74, and 78 of this chapter. After November 19, 2012, stations operating in the band 18.3-18.58 GHz are not entitled to protection from fixed-satellite service operations and must not cause unacceptable interference to fixed-satellite service station operations. After June 8, 2010, operations in the 18.58-19.30 GHz band are not entitled to protection from fixed-satellite service operations and must not cause unacceptable interference to fixed-satellite service station operations. After November 19, 2002, no applications for new stations for 47 CFR part 101 licenses will be accepted in the 18.3-18.58 GHz band. After June 8, 2000, no applications for new stations for 47 CFR part 101 licenses will be accepted in the 18.58-19.3 GHz band. Licensees, except 24 GHz band licensees, may use either a two-way link or one frequency of a frequency pair for a one-way link and must coordinate proposed operations pursuant to the procedures required in § 101.103 of this subpart. (Note, however, that stations authorized as of September 9, 1983, to use frequencies in the band 17.7-19.7 GHz may, upon proper application, continue to be authorized for such operations, consistent with the above conditions related to the 18.58-19.3 GHz band.) Applicants for one-way spectrum from 17.7-18.58 GHz for multichannel video programming distribution are governed by paragraph (r)(6) of this section. Licensees are also allowed to use one-way (unpaired) channels in the 17.7-17.74 GHz sub-band to pair with other channels in the FS portions of the 18 GHz band where, for example, the return pair is already in use and therefore blocked or in TDD systems. Stations used for MVPD operations in the 17.7-17.8 GHz band must coordinate with the Federal Government before operating in the zones specified in § 1.924(e) of this chapter. 
 
-(1) 1.25 Megahertz maximum authorized bandwidth channels:
+(1) 1.25 Megahertz maximum authorized bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1914,13 +1914,13 @@ Paired Frequencies
 | 18138.125                | 19698.125                |
 | 18139.375                | 19699.375                |
 
-(2) 2 Megahertz maximum authorized bandwidth channel:
+(2) 2 Megahertz maximum authorized bandwidth channel: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
 | 18141.0                  | N/A                      |
 
-(3) 2.5 Megahertz maximum authorized bandwidth channels:
+(3) 2.5 Megahertz maximum authorized bandwidth channels: 
 
 | Transmit (receive) (MHz) | Receive (transmit) (MHz) |
 | ------------------------ | ------------------------ |
@@ -1973,7 +1973,7 @@ Paired Frequencies
 | 18136.25                 | 19696.25                 |
 | 18138.75                 | 19698.75                 |
 
-(4) 5 Megahertz maximum authorized bandwidth channels:
+(4) 5 Megahertz maximum authorized bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                              | Receive (transmit) (MHz) |
 | ------------------------------------------------------------------------------------- | ------------------------ |
@@ -1991,7 +1991,7 @@ Paired Frequencies
 | 18812.5\*                                                                             | 19152.5\*                |
 | 18817.5\*                                                                             | 19157.5\*                |
 
-(5) 5 Megahertz maximum authorized bandwidth channels:
+(5) 5 Megahertz maximum authorized bandwidth channels: 
 
 | Transmit (receive) (MHz)      | Receive   (transmit)   (MHz) |
 | ----------------------------- | ---------------------------- |
@@ -2021,9 +2021,9 @@ Paired Frequencies
 | 18132.5                       | 19692.5                      |
 | 18137.5                       | 19697.5                      |
 
-(6) MVPD use: Multichannel video programming distributors (MVPDs) can use any size channels for one-way operations in the 17.7-18.58 GHz band for any permissible communications specified for this band in § 101.603 provided that they have coordinated the appropriate emission designators and power, but must request contiguous spectrum (minus spectrum that is already licensed or prior coordinated in the area and thus blocked). MVPD systems must meet the efficiency requirements of § 101.141. Spectrum at 18.3-18.58 GHz is only available for grandfathered stations. See § 101.85.
+(6) MVPD use: Multichannel video programming distributors (MVPDs) can use any size channels for one-way operations in the 17.7-18.58 GHz band for any permissible communications specified for this band in § 101.603 provided that they have coordinated the appropriate emission designators and power, but must request contiguous spectrum (minus spectrum that is already licensed or prior coordinated in the area and thus blocked). MVPD systems must meet the efficiency requirements of § 101.141. Spectrum at 18.3-18.58 GHz is only available for grandfathered stations. See § 101.85. 
 
-(7) 10 Megahertz maximum authorized bandwidth channels:
+(7) 10 Megahertz maximum authorized bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                               | Receive   (transmit)   (MHz) |
 | -------------------------------------------------------------------------------------- | ---------------------------- |
@@ -2098,7 +2098,7 @@ Paired Frequencies
 | 18805.0\*                                                                              | 19145.0\*                    |
 | 18815.0\*                                                                              | 19155.0\*                    |
 
-(8) 20 Megahertz maximum authorized bandwidth channels:
+(8) 20 Megahertz maximum authorized bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                               | Receive   (transmit)   (MHz) |
 | -------------------------------------------------------------------------------------- | ---------------------------- |
@@ -2139,7 +2139,7 @@ Paired Frequencies
 | 18790.0\*                                                                              | 19130.0\*                    |
 | 18810.0\*                                                                              | 19150.0\*                    |
 
-(9) 30 Megahertz maximum authorized bandwidth channels:
+(9) 30 Megahertz maximum authorized bandwidth channels: 
 
 | Transmit (receive) (MHz)      | Receive (transmit) (MHz) |
 | ----------------------------- | ------------------------ |
@@ -2159,7 +2159,7 @@ Paired Frequencies
 | 18085.0                       | 19645.0                  |
 | 18115.0                       | 19675.0                  |
 
-(10) 40 Megahertz maximum authorized bandwidth channels:
+(10) 40 Megahertz maximum authorized bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                               | Receive (transmit) (MHz) |
 | -------------------------------------------------------------------------------------- | ------------------------ |
@@ -2176,7 +2176,7 @@ Paired Frequencies
 | 18080.0                                                                                | 19640.0                  |
 | 18120.0                                                                                | 19680.0                  |
 
-(11) 50 Megahertz maximum authorized bandwidth channels:
+(11) 50 Megahertz maximum authorized bandwidth channels: 
 
 | Transmit (receive) (MHz)      | Receive (transmit) (MHz) |
 | ----------------------------- | ------------------------ |
@@ -2190,7 +2190,7 @@ Paired Frequencies
 | 18065.0                       | 19625.0                  |
 | 18115.0                       | 19675.0                  |
 
-(12) 80 Megahertz maximum authorized bandwidth channels:
+(12) 80 Megahertz maximum authorized bandwidth channels: 
 
 | Transmit (receive) (MHz)                                                               | Receive   (transmit)   (MHz) |
 | -------------------------------------------------------------------------------------- | ---------------------------- |
@@ -2201,7 +2201,7 @@ Paired Frequencies
 | 17980.0                                                                                | 19540.0                      |
 | 18060.0                                                                                | 19620.0                      |
 
-(13) The following frequencies on channels 35-39 are available for point-to-multipoint systems and are available by geographic area licensing in the 24 GHz Service to be used as the licensee desires. The 24 GHz spectrum can be aggregated or disaggregated and does not have to be used in the transmit/receive manner shown except to comply with international agreements along the U.S. borders. Channels 35 through 39 are licensed in the 24 GHz Service by Economic Areas for any digital fixed service. Channels may be used at either nodal or subscriber station locations for transmit or receive but must be coordinated with adjacent channel and adjacent area users in accordance with the provisions of § 101.509 of this subpart. Stations also must comply with international coordination agreements.
+(13) The following frequencies on channels 35-39 are available for point-to-multipoint systems and are available by geographic area licensing in the 24 GHz Service to be used as the licensee desires. The 24 GHz spectrum can be aggregated or disaggregated and does not have to be used in the transmit/receive manner shown except to comply with international agreements along the U.S. borders. Channels 35 through 39 are licensed in the 24 GHz Service by Economic Areas for any digital fixed service. Channels may be used at either nodal or subscriber station locations for transmit or receive but must be coordinated with adjacent channel and adjacent area users in accordance with the provisions of § 101.509 of this subpart. Stations also must comply with international coordination agreements. 
 
 | Channel No.                                                  | Nodal station   frequency band   (MHz) limits | User station   frequency band   (MHz) limits |
 | ------------------------------------------------------------ | --------------------------------------------- | -------------------------------------------- |
@@ -2222,23 +2222,23 @@ Paired Frequencies
 | 38                                                           | 24,370-24,410                                 | 25,170-25,210                                |
 | 39                                                           | 24,410-24,450                                 | 25,210-25,250                                |
 
-(14) *Special provision for low power systems in the 17,700-19,700 MHz band:* Notwithstanding other provisions in 47 CFR part 101 and except for specified areas around Washington, DC, and Denver, Colorado, licensees of point-to-multipoint channel pairs 25-29 identified in paragraph (r)(13) of this section may continue to operate in accordance with the requirements of § 101.85 and may operate multiple low power transmitting devices within a defined service area. Operations are prohibited within 55 km when used outdoor and within 20 km when used indoor of the coordinates 38 deg.48′ N/76 deg.52′ W (Washington, DC area) and 39 deg.43′ N/104 deg.46′ W (Denver, Colorado area). The service area will be a 28 kilometer omni directional radius originating from specified center reference coordinates. The specified center coordinates must be no closer than 56 kilometers from any co-channel nodal station or the specified center coordinates of another co-channel system. Applicants/licensees do not need to specify the location of each individual transmitting device operating within their defined service areas. Such operations are subject to the following requirements on the low power transmitting devices:
+(14) *Special provision for low power systems in the 17,700-19,700 MHz band:* Notwithstanding other provisions in 47 CFR part 101 and except for specified areas around Washington, DC, and Denver, Colorado, licensees of point-to-multipoint channel pairs 25-29 identified in paragraph (r)(13) of this section may continue to operate in accordance with the requirements of § 101.85 and may operate multiple low power transmitting devices within a defined service area. Operations are prohibited within 55 km when used outdoor and within 20 km when used indoor of the coordinates 38 deg.48′ N/76 deg.52′ W (Washington, DC area) and 39 deg.43′ N/104 deg.46′ W (Denver, Colorado area). The service area will be a 28 kilometer omni directional radius originating from specified center reference coordinates. The specified center coordinates must be no closer than 56 kilometers from any co-channel nodal station or the specified center coordinates of another co-channel system. Applicants/licensees do not need to specify the location of each individual transmitting device operating within their defined service areas. Such operations are subject to the following requirements on the low power transmitting devices: 
 
-(i) Power must not exceed one watt EIRP and 100 milliwatts transmitter output power;
+(i) Power must not exceed one watt EIRP and 100 milliwatts transmitter output power; 
 
-(ii) A frequency tolerance of 0.001% must be maintained; and
+(ii) A frequency tolerance of 0.001% must be maintained; and 
 
-(iii) The mean power of emissions shall be attenuated in accordance with the following schedule:
+(iii) The mean power of emissions shall be attenuated in accordance with the following schedule: 
 
-(A) In any 4 kHz band, the center frequency of which is removed from the center frequency of the assigned channel by more than 50 percent of the channel bandwidth and is within the bands 18,820-18,870 MHz or 19,160-19,210 MHz:
+(A) In any 4 kHz band, the center frequency of which is removed from the center frequency of the assigned channel by more than 50 percent of the channel bandwidth and is within the bands 18,820-18,870 MHz or 19,160-19,210 MHz: 
 
 A = 35 + .003 (F−0.5B) dB or, 80 dB (whichever is the lesser attenuation). Where: A = Attenuation (in decibels) below output power level contained within the channel for a given polarization. B = Bandwidth of channel in kHz. F = Absolute value of the difference between the center frequency of the 4 kHz band measured at the center frequency of the channel in kHz.
 
-(B) In any 4 kHz band the center frequency of which is outside the bands 18.820-18.870 GHz: At least 43 + 10 log P (mean output power in watts) decibels.
+(B) In any 4 kHz band the center frequency of which is outside the bands 18.820-18.870 GHz: At least 43 + 10 log P (mean output power in watts) decibels. 
 
-(iv) Low power stations authorized in the band 18.8-19.3 GHz after June 8, 2000, are restricted to indoor use only. No new licenses will be authorized for applications received after April 1, 2002.
+(iv) Low power stations authorized in the band 18.8-19.3 GHz after June 8, 2000, are restricted to indoor use only. No new licenses will be authorized for applications received after April 1, 2002. 
 
-(s) *21,200 to 23,600 MHz:* 50 MHz authorized bandwidth.
+(s) *21,200 to 23,600 MHz:* 50 MHz authorized bandwidth. 
 
 | Transmit (receive) (MHz)                                                                                                                   | Receive (transmit)   (MHz) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
@@ -2672,27 +2672,27 @@ A = 35 + .003 (F−0.5B) dB or, 80 dB (whichever is the lesser attenuation). Whe
 | 1 Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked. |                            |
 | 2 These frequencies may be assigned to low power systems, as defined in paragraph (8) of this section.                                     |                            |
 
-(8) *Special provisions for low power, limited coverage systems in the 21.8-22.0 GHz and 23.0-23.2 GHz band segments.* Notwithstanding any contrary provisions in this part, the frequency band segment 21.8-22.0 GHz paired with the frequency band segment 23.0-23.2 GHz may be authorized for low power, limited coverage systems subject to the following provisions:
+(8) *Special provisions for low power, limited coverage systems in the 21.8-22.0 GHz and 23.0-23.2 GHz band segments.* Notwithstanding any contrary provisions in this part, the frequency band segment 21.8-22.0 GHz paired with the frequency band segment 23.0-23.2 GHz may be authorized for low power, limited coverage systems subject to the following provisions: 
 
-(i) The maximum EIRP shall be 55 dBm and the rated transmitter output power shall not exceed 0.100 Watts;
+(i) The maximum EIRP shall be 55 dBm and the rated transmitter output power shall not exceed 0.100 Watts; 
 
-(ii) In the band segments from 21.8-22.0 GHz and 23.0-23.2 GHz, the frequency tolerance for stations authorized on or before April 1, 2005 is 0.05%. Existing licensees and pending applicants on that date may continue to operate after that date with a frequency tolerance of 0.05%, provided that it does not cause harmful interference to the operation of any other licensee. The frequency tolerance of § 101.107(a) shall apply to stations applied for after April 1, 2005;
+(ii) In the band segments from 21.8-22.0 GHz and 23.0-23.2 GHz, the frequency tolerance for stations authorized on or before April 1, 2005 is 0.05%. Existing licensees and pending applicants on that date may continue to operate after that date with a frequency tolerance of 0.05%, provided that it does not cause harmful interference to the operation of any other licensee. The frequency tolerance of § 101.107(a) shall apply to stations applied for after April 1, 2005; 
 
-(iii) The maximum beamwidth shall not exceed 4 degrees;
+(iii) The maximum beamwidth shall not exceed 4 degrees; 
 
-(iv) The sidelobe suppression criteria contained in § 101.115 of this part shall not apply, except that a minimum front-to-back ratio of 38 dB shall apply;
+(iv) The sidelobe suppression criteria contained in § 101.115 of this part shall not apply, except that a minimum front-to-back ratio of 38 dB shall apply; 
 
-(v) Upon showing of need, a maximum bandwidth of 50 MHz may be authorized per frequency assigned;
+(v) Upon showing of need, a maximum bandwidth of 50 MHz may be authorized per frequency assigned; 
 
-(vi) Radio systems authorized under the provisions of this section shall have no more than five hops in tandem, except upon showing of need, but in any event the maximum tandem length shall not exceed 40 km (25 miles);
+(vi) Radio systems authorized under the provisions of this section shall have no more than five hops in tandem, except upon showing of need, but in any event the maximum tandem length shall not exceed 40 km (25 miles); 
 
-(vii) Interfering signals at the antenna terminals of station authorized under this section shall not exceed −90 dBm and −70 dBm respectively, for co-channel and adjacent channel interfering signals; and
+(vii) Interfering signals at the antenna terminals of station authorized under this section shall not exceed −90 dBm and −70 dBm respectively, for co-channel and adjacent channel interfering signals; and 
 
-(viii) Stations authorized under the provisions of this section shall provide the protection from interference specified in § 101.105 to stations operating in accordance with the provisions of this part.
+(viii) Stations authorized under the provisions of this section shall provide the protection from interference specified in § 101.105 to stations operating in accordance with the provisions of this part. 
 
-(t) *29,100-29,250; 31,000-31,300 MHz.* These frequencies are available for LMDS systems. Each assignment will be made on a BTA service area basis, and the assigned spectrum may be subdivided as desired by the licensee.
+(t) *29,100-29,250; 31,000-31,300 MHz.* These frequencies are available for LMDS systems. Each assignment will be made on a BTA service area basis, and the assigned spectrum may be subdivided as desired by the licensee. 
 
-(u) *31,000-31,300 MHz.* Stations licensed in this band prior to March 11, 1997, may continue their authorized operations, subject to license renewal, on the condition that harmful interference will not be caused to LMDS operations licensed in this band after June 30, 1997. Non-LMDS stations licensed after March 11, 1997, based on applications refiled no later than June 26, 1998 are unprotected and subject to harmful interference from each other and from stations licensed prior to March 11, 1997, and are licensed on a secondary basis to LMDS. In the sub-bands 31,000-31,075 MHz and 31,225-31,300 MHz, stations initially licensed prior to March 11, 1997, except in LTTS, and LMDS operations authorized after June 30, 1997, are equally protected against harmful interference from each other in accordance with the provisions of § 101.103(b). For stations, except in LTTS, permitted to relocate to these sub-bands, the following paired frequencies are available:
+(u) *31,000-31,300 MHz.* Stations licensed in this band prior to March 11, 1997, may continue their authorized operations, subject to license renewal, on the condition that harmful interference will not be caused to LMDS operations licensed in this band after June 30, 1997. Non-LMDS stations licensed after March 11, 1997, based on applications refiled no later than June 26, 1998 are unprotected and subject to harmful interference from each other and from stations licensed prior to March 11, 1997, and are licensed on a secondary basis to LMDS. In the sub-bands 31,000-31,075 MHz and 31,225-31,300 MHz, stations initially licensed prior to March 11, 1997, except in LTTS, and LMDS operations authorized after June 30, 1997, are equally protected against harmful interference from each other in accordance with the provisions of § 101.103(b). For stations, except in LTTS, permitted to relocate to these sub-bands, the following paired frequencies are available: 
 
 | Transmit (receive) (MHz)                 | Receive (transmit) (MHz) |
 | ---------------------------------------- | ------------------------ |
@@ -2707,31 +2707,31 @@ Note to (u):
 
 These channels are assigned for use within a rectangular service area to be described in the application by the maximum and minimum latitudes and longitudes. Such service area must be as small as practical consistent with the local service requirements of the carrier. These frequency plans may be subdivided as desired by the licensee and used within the service area as desired without further authorization subject to the terms and conditions set forth in § 101.149. These frequencies may be assigned only where it is shown that the applicant will have reasonable projected requirements for a multiplicity of service points or transmission paths within the area.
 
-(v) \[Reserved\]
+(v) \[Reserved\] 
 
-(w) Fixed systems licensed, in operation, or applied for in the 3,700-4,200, 5925-6425, 6,525-6,875, 10,550-10,680, and 10,700-11,700 MHz bands prior to July 15, 1993, are permitted to use channel plans in effect prior to that date, including adding channels under those plans.
+(w) Fixed systems licensed, in operation, or applied for in the 3,700-4,200, 5925-6425, 6,525-6,875, 10,550-10,680, and 10,700-11,700 MHz bands prior to July 15, 1993, are permitted to use channel plans in effect prior to that date, including adding channels under those plans. 
 
-(x) Operations on other than the listed frequencies may be authorized where it is shown that the objectives or requirements of the interference criteria prescribed in § 101.105 could not otherwise be met to resolve the interference problems.
+(x) Operations on other than the listed frequencies may be authorized where it is shown that the objectives or requirements of the interference criteria prescribed in § 101.105 could not otherwise be met to resolve the interference problems. 
 
-(y) *Special requirements for operations in the band 29.1-29.25 GHz.* (1)(i) LMDS receive stations operating on frequencies in the 29.1-29.25 GHz band within a radius of 75 nautical miles of the geographic coordinates provided by a non-GSO MSS licensee pursuant to paragraphs (c)(2) or (c)(3)(i) of this section (the “feeder link earth station complex protection zone”) shall accept any interference caused to them by such earth station complexes and shall not claim protection from such earth station complexes.
+(y) *Special requirements for operations in the band 29.1-29.25 GHz.* (1)(i) LMDS receive stations operating on frequencies in the 29.1-29.25 GHz band within a radius of 75 nautical miles of the geographic coordinates provided by a non-GSO MSS licensee pursuant to paragraphs (c)(2) or (c)(3)(i) of this section (the “feeder link earth station complex protection zone”) shall accept any interference caused to them by such earth station complexes and shall not claim protection from such earth station complexes. 
 
-(ii) LMDS licensees operating on frequencies in the 29.1-29.25 GHz band outside a feeder link earth station complex protection zone shall cooperate fully and make reasonable efforts to resolve technical problems with the non-GSO MSS licensee to the extent that transmissions from the non-GSO MSS operator's feeder link earth station complex interfere with an LMDS receive station.
+(ii) LMDS licensees operating on frequencies in the 29.1-29.25 GHz band outside a feeder link earth station complex protection zone shall cooperate fully and make reasonable efforts to resolve technical problems with the non-GSO MSS licensee to the extent that transmissions from the non-GSO MSS operator's feeder link earth station complex interfere with an LMDS receive station. 
 
-(2) No more than 15 days after the release of a public notice announcing the commencement of LMDS auctions, feeder link earth station complexes to be licensed pursuant to Section 25.257 shall be specified by a set of geographic coordinates in accordance with the following requirements: no feeder link earth station complex may be located in the top eight (8) metropolitan statistical areas (“MSAs”), ranked by population, as defined by the Office of Management and Budget as of June 1993, using estimated populations as of December 1992; two (2) complexes may be located in MSAs 9 through 25, one of which must be Phoenix, AZ (for a complex at Chandler, AZ); two (2) complexes may be located in MSAs 26 to 50; three (3) complexes may be located in MSAs 51 to 100, one of which must be Honolulu, Hawaii (for a complex at Waimea); and the three (3) remaining complexes must be located at least 75 nautical miles from the borders of the 100 largest MSAs or in any MSA not included in the 100 largest MSAs. Any location allotted for one range of MSAs may be taken from an MSA below that range.
+(2) No more than 15 days after the release of a public notice announcing the commencement of LMDS auctions, feeder link earth station complexes to be licensed pursuant to Section 25.257 shall be specified by a set of geographic coordinates in accordance with the following requirements: no feeder link earth station complex may be located in the top eight (8) metropolitan statistical areas (“MSAs”), ranked by population, as defined by the Office of Management and Budget as of June 1993, using estimated populations as of December 1992; two (2) complexes may be located in MSAs 9 through 25, one of which must be Phoenix, AZ (for a complex at Chandler, AZ); two (2) complexes may be located in MSAs 26 to 50; three (3) complexes may be located in MSAs 51 to 100, one of which must be Honolulu, Hawaii (for a complex at Waimea); and the three (3) remaining complexes must be located at least 75 nautical miles from the borders of the 100 largest MSAs or in any MSA not included in the 100 largest MSAs. Any location allotted for one range of MSAs may be taken from an MSA below that range. 
 
-(3)(i) Any non-GSO MSS licensee may at any time specify sets of geographic coordinates for feeder link earth station complexes with each earth station contained therein to be located at least 75 nautical miles from the borders of the 100 largest MSAs.
+(3)(i) Any non-GSO MSS licensee may at any time specify sets of geographic coordinates for feeder link earth station complexes with each earth station contained therein to be located at least 75 nautical miles from the borders of the 100 largest MSAs. 
 
-(ii) For purposes of paragraph (c)(3)(i) of this section, non-GSO MSS feeder link earth station complexes shall be entitled to accommodation only if the affected non-GSO MSS licensee preapplies to the Commission for a feeder link earth station complex or certifies to the Commission within sixty days of receiving a copy of an LMDS application that it intends to file an application for a feeder link earth station complex within six months of the date of receipt of the LMDS application.
+(ii) For purposes of paragraph (c)(3)(i) of this section, non-GSO MSS feeder link earth station complexes shall be entitled to accommodation only if the affected non-GSO MSS licensee preapplies to the Commission for a feeder link earth station complex or certifies to the Commission within sixty days of receiving a copy of an LMDS application that it intends to file an application for a feeder link earth station complex within six months of the date of receipt of the LMDS application. 
 
-(iii) If said non-GSO MSS licensee application is filed later than six months after certification to the Commission, the LMDS and non-GSO MSS entities shall still cooperate fully and make reasonable efforts to resolve technical problems, but the LMDS licensee shall not be obligated to re-engineer its proposal or make changes to its system.
+(iii) If said non-GSO MSS licensee application is filed later than six months after certification to the Commission, the LMDS and non-GSO MSS entities shall still cooperate fully and make reasonable efforts to resolve technical problems, but the LMDS licensee shall not be obligated to re-engineer its proposal or make changes to its system. 
 
-(4) LMDS licensees or applicants proposing to operate hub stations on frequencies in the 29.1-29.25 GHz band at locations outside of the 100 largest MSAs or within a distance of 150 nautical miles from a set of geographic coordinates specified under paragraph (c)(2) or (c)(3)(i) of this section shall serve copies of their applications on all non-GSO MSS applicants, permitees or licensees meeting the criteria specified in § 25.257(a). Non-GSO MSS licensees or applicants shall serve copies of their feeder link earth station applications, after the LMDS auction, on any LMDS applicant or licensee within a distance of 150 nautical miles from the geographic coordinates that it specified under paragraph (c)(2) or (c)(3)(i) of this section. Any necessary coordination shall commence upon notification by the party receiving an application to the party who filed the application. The results of any such coordination shall be reported to the Commission within sixty days. The non-GSO MSS earth station licensee shall also provide all such LMDS licensees with a copy of its channel plan.
+(4) LMDS licensees or applicants proposing to operate hub stations on frequencies in the 29.1-29.25 GHz band at locations outside of the 100 largest MSAs or within a distance of 150 nautical miles from a set of geographic coordinates specified under paragraph (c)(2) or (c)(3)(i) of this section shall serve copies of their applications on all non-GSO MSS applicants, permitees or licensees meeting the criteria specified in § 25.257(a). Non-GSO MSS licensees or applicants shall serve copies of their feeder link earth station applications, after the LMDS auction, on any LMDS applicant or licensee within a distance of 150 nautical miles from the geographic coordinates that it specified under paragraph (c)(2) or (c)(3)(i) of this section. Any necessary coordination shall commence upon notification by the party receiving an application to the party who filed the application. The results of any such coordination shall be reported to the Commission within sixty days. The non-GSO MSS earth station licensee shall also provide all such LMDS licensees with a copy of its channel plan. 
 
-(z) *71,000-76,000 MHz; 81,000-86,000 MHz; 92,000-94,000 MHz; 94,100-95,000 MHz.* (1) Those applicants who are approved in accordance with FCC Form 601 will each be granted a single, non-exclusive nationwide license. Site-by-site registration is on a first-come, first-served basis. Registration will be in the Universal Licensing System until the Wireless Telecommunications Bureau announces by public notice, the implementation of a third-party database. *See* 47 CFR 101.1523. Links may not operate until NTIA approval is received. Licensees may use these bands for any point-to-point non-broadcast service.
+(z) *71,000-76,000 MHz; 81,000-86,000 MHz; 92,000-94,000 MHz; 94,100-95,000 MHz.* (1) Those applicants who are approved in accordance with FCC Form 601 will each be granted a single, non-exclusive nationwide license. Site-by-site registration is on a first-come, first-served basis. Registration will be in the Universal Licensing System until the Wireless Telecommunications Bureau announces by public notice, the implementation of a third-party database. *See* 47 CFR 101.1523. Links may not operate until NTIA approval is received. Licensees may use these bands for any point-to-point non-broadcast service. 
 
-(2) Prior links shall be protected using the interference protection criteria set forth in section 101.105. For transmitters employing digital modulation techniques and operating in the 71,000-76,000 MHz or 81,000-86,000 MHz bands, the licensee must construct a system that meets a minimum bit rate of 0.125 bits per second per Hertz of bandwidth. For transmitters that operate in the 92,000-94,000 MHz or 94,100-95,000 MHz bands, licensees must construct a system that meets a minimum bit rate of 1.0 bit per second per Hertz of bandwidth. If it is determined that a licensee has not met these loading requirements, then the database will be modified to limit coordination rights to the spectrum that is loaded and the licensee will lose protection rights on spectrum that has not been loaded.
+(2) Prior links shall be protected using the interference protection criteria set forth in section 101.105. For transmitters employing digital modulation techniques and operating in the 71,000-76,000 MHz or 81,000-86,000 MHz bands, the licensee must construct a system that meets a minimum bit rate of 0.125 bits per second per Hertz of bandwidth. For transmitters that operate in the 92,000-94,000 MHz or 94,100-95,000 MHz bands, licensees must construct a system that meets a minimum bit rate of 1.0 bit per second per Hertz of bandwidth. If it is determined that a licensee has not met these loading requirements, then the database will be modified to limit coordination rights to the spectrum that is loaded and the licensee will lose protection rights on spectrum that has not been loaded. 
 
-(3) The following channel plans apply to the 71,000-76,000 MHz and 81,000-86,000 MHz bands:
+(3) The following channel plans apply to the 71,000-76,000 MHz and 81,000-86,000 MHz bands: 
 
 (i) *250 MHz authorized bandwidth.*
 

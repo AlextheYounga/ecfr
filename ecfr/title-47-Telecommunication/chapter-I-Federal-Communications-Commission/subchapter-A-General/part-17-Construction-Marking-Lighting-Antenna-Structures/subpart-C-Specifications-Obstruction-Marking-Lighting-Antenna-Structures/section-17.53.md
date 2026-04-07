@@ -1,6 +1,6 @@
 ##### § 17.53 Lighting equipment and paint.
 
-The lighting equipment, color or filters, and shade of paint referred to in the specifications are further defined in the following government and/or Army-Navy aeronautical specifications, bulletins, and drawings (lamps are referred to by standard numbers):
+The lighting equipment, color or filters, and shade of paint referred to in the specifications are further defined in the following government and/or Army-Navy aeronautical specifications, bulletins, and drawings (lamps are referred to by standard numbers): 
 
 | Outside white                                                                                                                                                                                                                                         | TT-P-102 1 (Color No. 17875, FS-595).      |
 | Aviation surface orange                                                                                                                                                                                                                               | TT-P-59 1 (Color No. 12197, FS-595).       |

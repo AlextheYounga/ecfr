@@ -1,6 +1,6 @@
 ##### § 76.1802 Annual employment report.
 
-Each employment unit with six or more full-time employees shall file an annual employment report on FCC Form 395-A with the Commission on or before September 30 of each year.
+Each employment unit with six or more full-time employees shall file an annual employment report on FCC Form 395-A with the Commission on or before September 30 of each year. 
 
 Note to § 76.1802:
 
