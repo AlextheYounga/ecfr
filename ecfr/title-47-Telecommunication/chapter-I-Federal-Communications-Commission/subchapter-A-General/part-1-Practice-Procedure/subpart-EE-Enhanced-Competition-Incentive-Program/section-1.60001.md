@@ -1,6 +1,6 @@
 ##### § 1.60001 Definitions.
 
-The following definitions are applicable to the ECIP.
+The following definitions are applicable to the ECIP.*Affiliate.*
 
 (a) *Affiliate.* A person holding an attributable interest in an applicant if such individual or entity:
 

@@ -1,6 +1,6 @@
 ##### § 1.1203 Sunshine period prohibition.
 
-(a) With respect to any Commission proceeding, all presentations to decisionmakers concerning matters listed on a Sunshine Agenda, whether ex parte or not, are prohibited during the period prescribed in paragraph (b) of this section unless:
+(a) With respect to any Commission proceeding, all presentations to decisionmakers concerning matters listed on a Sunshine Agenda, whether ex parte or not, are prohibited during the period prescribed in paragraph (b) of this section unless:*ex parte*
 
 (1) The presentation is exempt under § 1.1204(a);
 

@@ -1,6 +1,6 @@
 ##### § 1.815 Reports of annual employment.
 
-(a) Each common carrier licensee or permittee with 16 or more full time employees shall file with the Commission, on or before May 31 of each year, on FCC Form 395, an annual employment report.
+(a) Each common carrier licensee or permittee with 16 or more full time employees shall file with the Commission, on or before May 31 of each year, on FCC Form 395, an annual employment report.*Cross references—*
 
 (b) A copy of every annual employment report filed by the licensee or permittee pursuant to the provisions herein; and copies of all exhibits, letters, and other documents filed as part thereof, all amendments thereto, all correspondence between the permittee or licensee and the Commission pertaining to the reports after they have been filed and all documents incorporated herein by reference are open for public inspection at the offices of the Commission.
 

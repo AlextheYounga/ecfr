@@ -1,6 +1,6 @@
 ##### § 1.1159 Filing locations and receipts for regulatory fees.
 
-(a) Regulatory fee payments must be directed to the location and address set forth in §§ 1.1152 through 1.1156 for the specific category of fee involved. Any regulatory fee required to be submitted with an application must be filed as a part of the application package accompanying the application. The Commission will not take responsibility for matching fees, forms and applications submitted at different times or locations.
+(a) Regulatory fee payments must be directed to the location and address set forth in §§ 1.1152 through 1.1156 for the specific category of fee involved. Any regulatory fee required to be submitted with an application must be filed as a part of the application package accompanying the application. The Commission will not take responsibility for matching fees, forms and applications submitted at different times or locations.Federal Register.
 
 (b) Petitions for reconsideration or applications for review of fee decisions submitted with a standard regulatory fee payment pursuant to §§ 1.1152 through 1.1156 of the rules are to be filed with the Commission's lockbox bank in the manner set forth in §§ 1.1152 through 1.1156 for payment of the fee subject to the petition for reconsideration or the application for review. Petitions for reconsideration and applications for review that are submitted with no accompanying payment should be filed with the Secretary, Federal Communications Commission, Attention: Managing Director, Washington, D.C. 20554.
 

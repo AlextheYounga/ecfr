@@ -1,6 +1,6 @@
 ##### § 1.333 Requests for issuance of subpena.
 
-(a) Unless submitted on the record while a hearing is in progress, requests for a subpena ad testificandum shall be submitted in writing.
+(a) Unless submitted on the record while a hearing is in progress, requests for a subpena ad testificandum shall be submitted in writing.*duces tecum*
 
 (b) Requests for a subpena *duces tecum* shall be submitted in writing, duly subscribed and verified, and shall specify with particularity the books, papers, and documents desired and the facts expected to be proved thereby. Where the subpena *duces tecum* request is directed to a nonparty to the proceeding, the presiding officer may issue the same, upon request, without an accompanying subpena to enforce a notice to take depositions, provided for in paragraph (e) of this section, where it appears that the testimony of said person is not required in connection with the subpena *duces tecum.*
 

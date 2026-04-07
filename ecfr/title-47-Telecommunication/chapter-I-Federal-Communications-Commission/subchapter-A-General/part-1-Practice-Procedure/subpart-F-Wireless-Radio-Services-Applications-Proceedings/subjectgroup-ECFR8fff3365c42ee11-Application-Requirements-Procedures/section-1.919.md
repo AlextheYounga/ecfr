@@ -1,6 +1,6 @@
 ##### § 1.919 Ownership information.
 
-(a) Applicants or licensees in Wireless Radio Services that are subject to the ownership reporting requirements of § 1.2112 shall use FCC Form 602 to provide all ownership information required by the chapter.
+(a) Applicants or licensees in Wireless Radio Services that are subject to the ownership reporting requirements of § 1.2112 shall use FCC Form 602 to provide all ownership information required by the chapter.*pro forma*
 
 (b) Any applicant or licensee that is subject to the reporting requirements of § 1.2112 or § 1.2114 shall file an FCC Form 602, or file an updated form if the ownership information on a previously filed FCC Form 602 is not current, at the time it submits:
 

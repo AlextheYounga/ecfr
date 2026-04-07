@@ -1,6 +1,6 @@
 ##### § 1.5002 How to calculate indirect equity and voting interests.
 
-(a) The criteria specified in this section shall be used for purposes of calculating indirect equity and voting interests under § 1.5001.
+(a) The criteria specified in this section shall be used for purposes of calculating indirect equity and voting interests under § 1.5001.*Equity interests held indirectly in the licensee and/or controlling U.S. parent.*
 
 (b)(1) *Equity interests held indirectly in the licensee and/or controlling U.S. parent.* Equity interests that are held by an individual or entity indirectly through one or more intervening entities shall be calculated by successive multiplication of the equity percentages for each link in the vertical ownership chain, regardless of whether any particular link in the chain represents a controlling interest in the company positioned in the next lower tier.
 

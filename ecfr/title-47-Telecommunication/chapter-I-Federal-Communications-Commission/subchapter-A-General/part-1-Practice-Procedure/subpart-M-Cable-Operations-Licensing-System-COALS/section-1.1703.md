@@ -1,6 +1,6 @@
 ##### § 1.1703 Definitions.
 
-For purposes of this subpart, the following definitions apply:
+For purposes of this subpart, the following definitions apply:*Application.*
 
 (a) *Application.* A request on Form 327 for a station license as defined in Section 3(b) of the Communications Act, completed in accordance with § 78.15 and signed in accordance with § 78.16 of this chapter, or a similar request to amend a pending application or to modify or renew an authorization. The term also encompasses requests to assign rights granted by the authorization or to transfer control of entities holding authorizations.
 

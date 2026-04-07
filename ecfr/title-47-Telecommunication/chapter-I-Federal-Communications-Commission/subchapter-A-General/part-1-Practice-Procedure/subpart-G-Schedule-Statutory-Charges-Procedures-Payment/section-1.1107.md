@@ -1,16 +1,16 @@
 ##### § 1.1107 Schedule of charges for applications and other filings for the international services.
 
 Table 1 to § 1.1107
-| International services                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------- |
-| New License, Cable Landing License Application, E-filed via MyIBFS                                                                 |
-| Assignment/Transfer of Control, Submarine Cable Landing—Assignment of License or Transfer of Control, E-filed via MyIBFS           |
-| Pro Forma Assignment/Transfer of Control, Submarine Cable Landing—Assignment of License or Transfer of Control, E-filed via MyIBFS |
-| Foreign Carrier Affiliation Notification, Foreign Carrier Affiliation Notification (FCN), E-filed via MyIBFS                       |
-| Modification, Submarine Cable Landing—Modification of License, E-filed via MyIBFS                                                  |
-| Renewal                                                                                                                            |
-| Special Temporary Authority, Submarine Cable Landing—Request for Special Temporary Authority, E-filed via MyIBFS                   |
-| Waiver                                                                                                                             |
+| International services                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| New License, Cable Landing License Application, E-filed via MyIBFS**Fixed or Temporary Fixed Transmit or Transmit/Receive Earth Stations, per Call Sign** |
+| Assignment/Transfer of Control, Submarine Cable Landing—Assignment of License or Transfer of Control, E-filed via MyIBFS                                  |
+| Pro Forma Assignment/Transfer of Control, Submarine Cable Landing—Assignment of License or Transfer of Control, E-filed via MyIBFS                        |
+| Foreign Carrier Affiliation Notification, Foreign Carrier Affiliation Notification (FCN), E-filed via MyIBFS                                              |
+| Modification, Submarine Cable Landing—Modification of License, E-filed via MyIBFS                                                                         |
+| Renewal                                                                                                                                                   |
+| Special Temporary Authority, Submarine Cable Landing—Request for Special Temporary Authority, E-filed via MyIBFS                                          |
+| Waiver                                                                                                                                                    |
 
 Table 2 to § 1.1107
 | International services                                                                                                                       |

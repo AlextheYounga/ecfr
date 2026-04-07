@@ -1,6 +1,6 @@
 ##### § 1.2114 Reporting of eligibility event.
 
-(a) A designated entity must seek Commission approval for all reportable eligibility events. A reportable eligibility event is:
+(a) A designated entity must seek Commission approval for all reportable eligibility events. A reportable eligibility event is:*Documents listed on and filed with application.*
 
 (1) Any spectrum lease (as defined in § 1.9003) or any other type of spectrum use agreement with one entity or on a cumulative basis that might cause a licensee to lose eligibility for installment payments, a set-aside license, or a bidding credit (or for a particular level of bidding credit) under § 1.2110 and applicable service-specific rules.
 

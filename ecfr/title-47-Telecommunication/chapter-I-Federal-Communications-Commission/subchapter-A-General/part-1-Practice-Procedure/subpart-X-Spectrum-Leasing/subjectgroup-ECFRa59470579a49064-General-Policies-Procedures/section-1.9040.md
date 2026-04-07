@@ -1,6 +1,6 @@
 ##### § 1.9040 Contractual requirements applicable to spectrum leasing arrangements.
 
-(a) Agreements between licensees and spectrum lessees concerning spectrum leasing arrangements entered into pursuant to the rules of this subpart must contain the following provisions:
+(a) Agreements between licensees and spectrum lessees concerning spectrum leasing arrangements entered into pursuant to the rules of this subpart must contain the following provisions:*see*
 
 (1) The spectrum lessee must comply at all times with applicable rules set forth in this chapter and other applicable law, and the spectrum leasing arrangement may be revoked, cancelled, or terminated by the licensee or Commission if the spectrum lessee fails to comply with the applicable requirements;
 

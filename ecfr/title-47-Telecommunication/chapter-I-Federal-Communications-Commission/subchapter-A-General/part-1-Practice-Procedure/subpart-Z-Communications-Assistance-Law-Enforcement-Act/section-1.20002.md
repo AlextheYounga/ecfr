@@ -1,6 +1,6 @@
 ##### § 1.20002 Definitions.
 
-For purposes of this subpart:
+For purposes of this subpart:*Appropriate legal authorization.*
 
 (a) *Appropriate legal authorization.* The term *appropriate legal authorization* means:
 

@@ -1,6 +1,6 @@
 ##### § 1.1927 Notification.
 
-(a) Salary offset deductions will not be made unless the Managing Director of the Commission, or the Managing Director's designee, provides to the employee at least 30 days before any deduction, written notice stating at a minimum:
+(a) Salary offset deductions will not be made unless the Managing Director of the Commission, or the Managing Director's designee, provides to the employee at least 30 days before any deduction, written notice stating at a minimum:*See*
 
 (1) The Commission's determination that a debt is owed, including the origin, nature, and amount of the debt;
 

@@ -1,6 +1,6 @@
 ##### § 1.1111 Payment of charges.
 
-(a) The schedule of fees for applications and other filings (Bureau/Office Fee Filing Guides) lists those applications and other filings that must be accompanied by an FCC Form 159, Remittance Advice' or the electronic version of the form, FCC Form 159-E, one of the forms that is automatically generated when an applicant accesses the Commission's on-line filing and payment process.
+(a) The schedule of fees for applications and other filings (Bureau/Office Fee Filing Guides) lists those applications and other filings that must be accompanied by an FCC Form 159, Remittance Advice' or the electronic version of the form, FCC Form 159-E, one of the forms that is automatically generated when an applicant accesses the Commission's on-line filing and payment process.*https://www.fcc.gov/licensing-databases/online-filing,*
 
 (b) Applicants may access the Commission's on-line filing systems at *https://www.fcc.gov/licensing-databases/online-filing,* and the Commission's fee payment module through the FRN access page of the Commission's Registration System at *https://apps.fcc.gov/cores/paymentFrnLogin.do.* Applicants who use the on-line processes will be directed to the appropriate electronic application and payment forms for completion and submission of the required application(s) and payment information.
 

@@ -1,6 +1,6 @@
 ##### § 1.767 Cable landing licenses.
 
-(a) Applications for cable landing licenses under 47 U.S.C. 34-39 and Executive Order No. 10530, dated May 10, 1954, should be filed in accordance with the provisions of that Executive Order. These applications should contain:
+(a) Applications for cable landing licenses under 47 U.S.C. 34-39 and Executive Order No. 10530, dated May 10, 1954, should be filed in accordance with the provisions of that Executive Order. These applications should contain:*See*
 
 (1) The name, address and telephone number(s) of the applicant;
 
@@ -36,7 +36,7 @@
 
 Note to paragraph (a)(8)(iv):
 
-Under § 63.10(a) of this chapter, the Commission presumes, subject to rebuttal, that a foreign carrier lacks market power in a particular foreign country if the applicant demonstrates that the foreign carrier lacks 50 percent market share in international transport facilities or services, including cable landing station access and backhaul facilities, intercity facilities or services, and local access facilities or services on the foreign end of a particular route.
+Under § 63.10(a) of this chapter, the Commission presumes, subject to rebuttal, that a foreign carrier lacks market power in a particular foreign country if the applicant demonstrates that the foreign carrier lacks 50 percent market share in international transport facilities or services, including cable landing station access and backhaul facilities, intercity facilities or services, and local access facilities or services on the foreign end of a particular route.*See http://www.state.gov.*
 
 (9) A certification that the applicant accepts and will abide by the routine conditions specified in paragraph (g) of this section; and
 

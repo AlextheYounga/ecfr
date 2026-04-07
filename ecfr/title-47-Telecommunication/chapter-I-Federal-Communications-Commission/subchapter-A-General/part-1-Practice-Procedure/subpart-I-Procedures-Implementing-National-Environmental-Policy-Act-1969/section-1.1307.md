@@ -1,6 +1,6 @@
 ##### § 1.1307 Actions that may have a significant environmental effect, for which Environmental Assessments (EAs) must be prepared.
 
-(a) Commission actions with respect to the following types of facilities may significantly affect the environment and thus require the preparation of EAs by the applicant (see §§ 1.1308 and 1.1311) and may require further Commission environmental processing (*see* §§ 1.1314, 1.1315 and 1.1317):
+(a) Commission actions with respect to the following types of facilities may significantly affect the environment and thus require the preparation of EAs by the applicant (see §§ 1.1308 and 1.1311) and may require further Commission environmental processing (*see* §§ 1.1314, 1.1315 and 1.1317):th
 
 (1) Facilities that are to be located in an officially designated wilderness area.
 
@@ -8,7 +8,7 @@
 
 (3) Facilities that: (i) May affect listed threatened or endangered species or designated critical habitats; or (ii) are likely to jeopardize the continued existence of any proposed endangered or threatened species or likely to result in the destruction or adverse modification of proposed critical habitats, as determined by the Secretary of the Interior pursuant to the Endangered Species Act of 1973.
 
-Note:
+Note:d
 
 The list of endangered and threatened species is contained in 50 CFR 17.11, 17.22, 222.23(a) and 227.4. The list of designated critical habitats is contained in 50 CFR 17.95, 17.96 and part 226. To ascertain the status of proposed species and habitats, inquiries may be directed to the Regional Director of the Fish and Wildlife Service, Department of the Interior.
 
@@ -85,7 +85,7 @@ The list of endangered and threatened species is contained in 50 CFR 17.11, 17.2
 Table 1 to § 1.1307(b)(3)(i)(C)—Single RF Sources Subject to Routine Environmental Evaluation
 | RF Source   frequency   (MHz) | Threshold ERP   (watts) |
 | ----------------------------- | ----------------------- |
-| 0.3-1.34                      | 1,920 R2.               |
+| 0.3-1.342                     | 1,920 R2.               |
 | 1.34-30                       | 3,450 R2/f2.            |
 | 30-300                        | 3.83 R2.                |
 | 300-1,500                     | 0.0128 R2 f.            |

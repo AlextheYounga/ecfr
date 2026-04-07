@@ -1,6 +1,6 @@
 ##### § 1.945 License grants.
 
-(a) *License grants—auctionable license applications.* Procedures for grant of licenses that are subject to competitive bidding under section 309(j) of the Communications Act are set forth in §§ 1.2108 and 1.2109 of this part.
+(a) *License grants—auctionable license applications.* Procedures for grant of licenses that are subject to competitive bidding under section 309(j) of the Communications Act are set forth in §§ 1.2108 and 1.2109 of this part.Federal Register
 
 (b) *License grants—non-auctionable license applications.* No application that is not subject to competitive bidding under § 309(j) of the Communications Act will be granted by the Commission prior to the 31st day following the issuance of a Public Notice of the acceptance for filing of such application or of any substantial amendment thereof, unless the application is not subject to § 309(b) of the Communications Act.
 

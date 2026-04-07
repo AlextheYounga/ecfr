@@ -1,6 +1,6 @@
 ##### § 1.7008 Creation of broadband internet access service coverage maps.
 
-(a) After consultation with the Federal Geographic Data Committee, the Commission shall use the availability and quality of service data submitted by providers in the Broadband Data Collection to create:
+(a) After consultation with the Federal Geographic Data Committee, the Commission shall use the availability and quality of service data submitted by providers in the Broadband Data Collection to create:*see*
 
 (1) The Broadband Map, which shall depict areas of the country that remain unserved by providers and depict the extent of availability of broadband internet access service;
 
