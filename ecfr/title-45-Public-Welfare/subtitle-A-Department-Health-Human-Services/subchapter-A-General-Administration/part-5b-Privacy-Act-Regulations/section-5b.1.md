@@ -1,6 +1,6 @@
 ##### § 5b.1 Definitions.
 
-As used in this part:
+As used in this part:*Access*
 
 (a) *Access* means availability of a record to a subject individual.
 

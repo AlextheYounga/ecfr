@@ -1,6 +1,6 @@
 ##### § 262.81 Definitions.
 
-In addition to the definitions set forth at 40 CFR 260.10, the following definitions apply to this subpart:
+In addition to the definitions set forth at 40 CFR 260.10, the following definitions apply to this subpart:*Competent authority*
 
 *Competent authority* means the regulatory authority or authorities of concerned countries having jurisdiction over transboundary movements of wastes.
 

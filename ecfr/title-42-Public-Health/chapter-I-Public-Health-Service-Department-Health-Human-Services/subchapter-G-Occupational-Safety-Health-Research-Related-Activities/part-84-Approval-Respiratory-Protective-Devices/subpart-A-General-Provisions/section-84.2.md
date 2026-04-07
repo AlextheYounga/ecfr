@@ -1,75 +1,75 @@
 ##### § 84.2 Definitions.
 
-As used in this part— 
+As used in this part—
 
-*Applicant* means an individual, partnership, company, corporation, association, or other organization that designs, manufactures, assembles, or controls the assembly of a respirator and who seeks to obtain a certificate of approval for such respirator. 
+*Applicant* means an individual, partnership, company, corporation, association, or other organization that designs, manufactures, assembles, or controls the assembly of a respirator and who seeks to obtain a certificate of approval for such respirator.
 
-*Approval* means a certificate or formal document issued by the Institute stating that an individual respirator or combination of respirators has met the minimum requirements of this part, and that the applicant is authorized to use and attach an approval label to any respirator, respirator container, or instruction card for any respirator manufactured or assembled in conformance with the plans and specifications upon which the approval was based, as evidence of such approval. 
+*Approval* means a certificate or formal document issued by the Institute stating that an individual respirator or combination of respirators has met the minimum requirements of this part, and that the applicant is authorized to use and attach an approval label to any respirator, respirator container, or instruction card for any respirator manufactured or assembled in conformance with the plans and specifications upon which the approval was based, as evidence of such approval.
 
-*Approved* means conforming to the minimum requirements of this part. 
+*Approved* means conforming to the minimum requirements of this part.
 
-*Auxiliary equipment* means a self-contained breathing apparatus, the use of which is limited in underground mine rescue and recovery operations to situations where the wearer has ready access to fresh air and at least one crew equipped with approved self-contained breathing apparatus of 2 hours or longer rating, is in reserve at a fresh-air base. 
+*Auxiliary equipment* means a self-contained breathing apparatus, the use of which is limited in underground mine rescue and recovery operations to situations where the wearer has ready access to fresh air and at least one crew equipped with approved self-contained breathing apparatus of 2 hours or longer rating, is in reserve at a fresh-air base.
 
-*Compressed-breathing gas* means oxygen or air stored in a compressed state and supplied to the wearer in gaseous form. 
+*Compressed-breathing gas* means oxygen or air stored in a compressed state and supplied to the wearer in gaseous form.
 
-*dBA* means sound pressure levels in decibels, as measured with the A-weighted network of a standard sound level meter using slow response. 
+*dBA* means sound pressure levels in decibels, as measured with the A-weighted network of a standard sound level meter using slow response.
 
-*Dust* means a solid mechanically produced particle with a size ranging from submicroscopic to macroscopic. 
+*Dust* means a solid mechanically produced particle with a size ranging from submicroscopic to macroscopic.
 
-A *facepiece* or *mouthpiece* is a respirator component designed to provide a gas-tight or dust-tight fit with the face and may include headbands, valves, and connections for canisters, cartridges, filters, or respirable gas source. 
+A *facepiece* or *mouthpiece* is a respirator component designed to provide a gas-tight or dust-tight fit with the face and may include headbands, valves, and connections for canisters, cartridges, filters, or respirable gas source.
 
-*Final inspection* means that activity carried out on a product after all manufacturing and assembly operations are completed to insure completeness and adherence to performance or other specifications, including satisfactory appearance. 
+*Final inspection* means that activity carried out on a product after all manufacturing and assembly operations are completed to insure completeness and adherence to performance or other specifications, including satisfactory appearance.
 
-*Fume* means a solid condensation particle, generally less than 1 micrometer in diameter. 
+*Fume* means a solid condensation particle, generally less than 1 micrometer in diameter.
 
-*Gas* means an aeriform fluid which is in a gaseous state at ordinary temperature and pressure. 
+*Gas* means an aeriform fluid which is in a gaseous state at ordinary temperature and pressure.
 
-*Hazardous atmosphere* means: 
+*Hazardous atmosphere* means:
 
-(1) Any atmosphere containing a toxic or disease producing gas, vapor, dust, fume, mist, or pesticide, either immediately or not immediately dangerous to life or health; or 
+(1) Any atmosphere containing a toxic or disease producing gas, vapor, dust, fume, mist, or pesticide, either immediately or not immediately dangerous to life or health; or
 
-(2) Any oxygen-deficient atmosphere. 
+(2) Any oxygen-deficient atmosphere.
 
-A *hood* or *helmet* is a respirator component which covers the wearer's head and neck, or head, neck, and shoulders, and is supplied with incoming respirable air for the wearer to breathe. It may include a headharness and connection for a breathing tube. 
+A *hood* or *helmet* is a respirator component which covers the wearer's head and neck, or head, neck, and shoulders, and is supplied with incoming respirable air for the wearer to breathe. It may include a headharness and connection for a breathing tube.
 
-*Immediately dangerous to life or health* means conditions that pose an immediate threat to life or health or conditions that pose an immediate threat of severe exposure to contaminants, such as radioactive materials, which are likely to have adverse cumulative or delayed effects on health. 
+*Immediately dangerous to life or health* means conditions that pose an immediate threat to life or health or conditions that pose an immediate threat of severe exposure to contaminants, such as radioactive materials, which are likely to have adverse cumulative or delayed effects on health.
 
-*Incoming inspection* means the activity of receiving, examining, and accepting only those materials and parts whose quality conforms to specification requirements. 
+*Incoming inspection* means the activity of receiving, examining, and accepting only those materials and parts whose quality conforms to specification requirements.
 
-*In-process inspection* means the control of products at the source of production and at each step of the manufacturing process, so that departures from specifications can be corrected before defective components or materials are assembled into the finished product. 
+*In-process inspection* means the control of products at the source of production and at each step of the manufacturing process, so that departures from specifications can be corrected before defective components or materials are assembled into the finished product.
 
-*Institute or NIOSH* means the National Institute for Occupational Safety and Health, Department of Health and Human Services. 
+*Institute or NIOSH* means the National Institute for Occupational Safety and Health, Department of Health and Human Services.
 
-*Liquefied-breathing gas* means oxygen or air stored in liquid form and supplied to the wearer in a gaseous form. 
+*Liquefied-breathing gas* means oxygen or air stored in liquid form and supplied to the wearer in a gaseous form.
 
-*Loose fitting* means respiratory inlet covering that covers the wearer's head and neck, or head, neck, and shoulders, or whole body (when integral to the design). 
+*Loose fitting* means respiratory inlet covering that covers the wearer's head and neck, or head, neck, and shoulders, or whole body (when integral to the design).
 
-*Mist* means a liquid condensation particle with a size ranging from submicroscopic to macroscopic. 
+*Mist* means a liquid condensation particle with a size ranging from submicroscopic to macroscopic.
 
-*MSHA* means the Mine Safety and Health Administration, U.S. Department of Labor. 
+*MSHA* means the Mine Safety and Health Administration, U.S. Department of Labor.
 
-*National Personal Protective Technology Laboratory (NPPTL)* means the National Personal Protective Technology Laboratory, National Institute for Occupational Safety and Health (NIOSH), Centers for Disease Control and Prevention, Department of Health and Human Services, P.O. Box 18070, 626 Cochrans Mill Road, Pittsburgh, PA 15236. NPPTL administers the NIOSH conformity assessment program for respiratory protective devices, replacing the former Certification and Quality Assurance Branch within the Division of Safety Research, Appalachian Laboratory for Occupational Safety and Health, NIOSH. 
+*National Personal Protective Technology Laboratory (NPPTL)* means the National Personal Protective Technology Laboratory, National Institute for Occupational Safety and Health (NIOSH), Centers for Disease Control and Prevention, Department of Health and Human Services, P.O. Box 18070, 626 Cochrans Mill Road, Pittsburgh, PA 15236. NPPTL administers the NIOSH conformity assessment program for respiratory protective devices, replacing the former Certification and Quality Assurance Branch within the Division of Safety Research, Appalachian Laboratory for Occupational Safety and Health, NIOSH.
 
-*Not immediately dangerous to life or health* means any hazardous atmosphere which may produce physical discomfort immediately, chronic poisoning after repeated exposure, or acute adverse physiological symptoms after prolonged exposure. 
+*Not immediately dangerous to life or health* means any hazardous atmosphere which may produce physical discomfort immediately, chronic poisoning after repeated exposure, or acute adverse physiological symptoms after prolonged exposure.
 
-*Oxygen-deficient atmosphere* means an atmosphere which contains an oxygen partial pressure of less than 148 millimeters of mercury (19.5 percent by volume at sea level). 
+*Oxygen-deficient atmosphere* means an atmosphere which contains an oxygen partial pressure of less than 148 millimeters of mercury (19.5 percent by volume at sea level).
 
-*Powered air-purifying respirator* means a device equipped with a facepiece, hood, or helmet, breathing tube, canister, cartridge, filter, canister with filter, or cartridge with filter, and a blower. 
+*Powered air-purifying respirator* means a device equipped with a facepiece, hood, or helmet, breathing tube, canister, cartridge, filter, canister with filter, or cartridge with filter, and a blower.
 
-*Respirator* means any device designed to provide the wearer with respiratory protection against inhalation of a hazardous atmosphere. 
+*Respirator* means any device designed to provide the wearer with respiratory protection against inhalation of a hazardous atmosphere.
 
-*Respirators for entry into and escape from* means respiratory devices providing protection during entry into and escape from hazardous atmospheres. 
+*Respirators for entry into and escape from* means respiratory devices providing protection during entry into and escape from hazardous atmospheres.
 
-*Respirators for escape only* means respiratory devices providing protection only during escape from hazardous atmospheres. 
+*Respirators for escape only* means respiratory devices providing protection only during escape from hazardous atmospheres.
 
-*Respiratory inlet covering* means that portion of a respirator that forms the protective barrier between the user's respiratory tract and an air-purifying device or breathing air source, or both. 
+*Respiratory inlet covering* means that portion of a respirator that forms the protective barrier between the user's respiratory tract and an air-purifying device or breathing air source, or both.
 
-(*Single-use respirator* means a respirator that is entirely discarded after excessive resistance, sorbent exhaustion, or physical damage renders it unsuitable for further use. 
+(*Single-use respirator* means a respirator that is entirely discarded after excessive resistance, sorbent exhaustion, or physical damage renders it unsuitable for further use.
 
-*Tight fitting* means a respiratory inlet covering that forms a complete gas tight or dust tight seal with the face or neck. 
+*Tight fitting* means a respiratory inlet covering that forms a complete gas tight or dust tight seal with the face or neck.
 
-*Vapor* means the gaseous state of a substance that is solid or liquid at ordinary temperature and pressure. 
+*Vapor* means the gaseous state of a substance that is solid or liquid at ordinary temperature and pressure.
 
-*Warning device* is a component of a respiratory protective device that informs the wearer to take some action. 
+*Warning device* is a component of a respiratory protective device that informs the wearer to take some action.
 
 \[60 FR 30355, June 8, 1995, as amended at 80 FR 3906, Jan. 26, 2015; 85 FR 20607, Apr. 14, 2020\]

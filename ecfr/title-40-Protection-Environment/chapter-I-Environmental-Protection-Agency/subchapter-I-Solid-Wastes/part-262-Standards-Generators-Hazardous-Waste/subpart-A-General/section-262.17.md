@@ -1,6 +1,6 @@
 ##### § 262.17 Conditions for exemption for a large quantity generator that accumulates hazardous waste.
 
-A large quantity generator may accumulate hazardous waste on site without a permit or interim status, and without complying with the requirements of parts 124, 264 through 267, and 270 of this chapter, or the notification requirements of section 3010 of RCRA for treatment, storage, and disposal facilities, provided that all of the following conditions for exemption are met:
+A large quantity generator may accumulate hazardous waste on site without a permit or interim status, and without complying with the requirements of parts 124, 264 through 267, and 270 of this chapter, or the notification requirements of section 3010 of RCRA for treatment, storage, and disposal facilities, provided that all of the following conditions for exemption are met:*Accumulation.*
 
 (a) *Accumulation.* A large quantity generator accumulates hazardous waste on site for no more than 90 days, unless in compliance with the accumulation time limit extension or F006 accumulation conditions for exemption in paragraphs (b) through (e) of this section. The following accumulation conditions also apply:
 

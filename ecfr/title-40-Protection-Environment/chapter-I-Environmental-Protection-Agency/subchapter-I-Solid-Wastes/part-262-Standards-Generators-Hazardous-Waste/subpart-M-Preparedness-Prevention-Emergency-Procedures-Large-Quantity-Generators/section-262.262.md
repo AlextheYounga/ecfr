@@ -1,6 +1,6 @@
 ##### § 262.262 Copies of contingency plan.
 
-A copy of the contingency plan and all revisions to the plan must be maintained at the large quantity generator and—
+A copy of the contingency plan and all revisions to the plan must be maintained at the large quantity generator and—*i.e.,*
 
 (a) The large quantity generator must submit a copy of the contingency plan and all revisions to all local emergency responders (*i.e.,* police departments, fire departments, hospitals and State and local emergency response teams that may be called upon to provide emergency services). This document may also be submitted to the Local Emergency Planning Committee, as appropriate.
 

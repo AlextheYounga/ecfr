@@ -1,6 +1,6 @@
 ##### § 262.209 Where and when to make the hazardous waste determination and where to send containers of unwanted material upon removal from the laboratory.
 
-(a) Large quantity generators and small quantity generators—an eligible academic entity must ensure that a trained professional makes a hazardous waste determination, pursuant to § 262.11, for unwanted material in any of the following areas:
+(a) Large quantity generators and small quantity generators—an eligible academic entity must ensure that a trained professional makes a hazardous waste determination, pursuant to § 262.11, for unwanted material in any of the following areas:*Very small quantity generators.*
 
 (1) In the laboratory before the unwanted material is removed from the laboratory, in accordance with § 262.210;
 

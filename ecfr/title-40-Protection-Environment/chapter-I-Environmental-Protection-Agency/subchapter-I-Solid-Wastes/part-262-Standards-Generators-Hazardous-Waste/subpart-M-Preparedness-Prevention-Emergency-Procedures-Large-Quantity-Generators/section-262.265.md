@@ -1,6 +1,6 @@
 ##### § 262.265 Emergency procedures.
 
-(a) Whenever there is an imminent or actual emergency situation, the emergency coordinator (or his designee when the emergency coordinator is on call) must immediately:
+(a) Whenever there is an imminent or actual emergency situation, the emergency coordinator (or his designee when the emergency coordinator is on call) must immediately:*e.g.,*
 
 (1) Activate internal facility alarms or communication systems, where applicable, to notify all facility personnel; and
 

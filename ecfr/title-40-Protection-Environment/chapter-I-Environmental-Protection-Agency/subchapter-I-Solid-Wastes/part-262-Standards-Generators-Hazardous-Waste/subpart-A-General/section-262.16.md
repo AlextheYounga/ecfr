@@ -1,6 +1,6 @@
 ##### § 262.16 Conditions for exemption for a small quantity generator that accumulates hazardous waste.
 
-A small quantity generator may accumulate hazardous waste on site without a permit or interim status, and without complying with the requirements of parts 124, 264 through 267, and 270 of this chapter, or the notification requirements of section 3010 of RCRA for treatment, storage, and disposal facilities, provided that all the conditions for exemption listed in this section are met:
+A small quantity generator may accumulate hazardous waste on site without a permit or interim status, and without complying with the requirements of parts 124, 264 through 267, and 270 of this chapter, or the notification requirements of section 3010 of RCRA for treatment, storage, and disposal facilities, provided that all the conditions for exemption listed in this section are met:*Generation.*
 
 (a) *Generation.* The generator generates in a calendar month no more than the amounts specified in the definition of “small quantity generator” in § 260.10 of this chapter.
 

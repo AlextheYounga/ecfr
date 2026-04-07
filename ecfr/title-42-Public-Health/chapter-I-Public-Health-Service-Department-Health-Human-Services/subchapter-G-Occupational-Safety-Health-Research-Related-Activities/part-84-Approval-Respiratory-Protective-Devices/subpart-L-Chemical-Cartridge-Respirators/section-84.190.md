@@ -1,6 +1,6 @@
 ##### § 84.190 Chemical cartridge respirators: description.
 
-(a) Chemical cartridge respirators including all completely assembled respirators which are designed for use as respiratory protection during entry into or escape from atmospheres not immediately dangerous to life and health, are described according to the specific gases or vapors against which they are designed to provide respiratory protection, as follows: 
+(a) Chemical cartridge respirators including all completely assembled respirators which are designed for use as respiratory protection during entry into or escape from atmospheres not immediately dangerous to life and health, are described according to the specific gases or vapors against which they are designed to provide respiratory protection, as follows:
 
 | Type of chemical cartridge respirator 1                                                                                                                                                                                                                                                  | Maximum use concentration, parts per million |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 262.1 Terms used in this part.
 
-As used in this part:
+As used in this part:*Condition for exemption*
 
 *Condition for exemption* means any requirement in § 262.14, § 262.15, § 262.16, § 262.17, § 262.70, or subpart K or L of this part that states an event, action, or standard that must occur or be met in order to obtain an exemption from any applicable requirement in parts 124, 264 through 268, and 270 of this chapter, or from any requirement for notification under section 3010 of RCRA for treatment storage, and disposal facilities.
 

@@ -1,6 +1,6 @@
 ##### § 262.21 Manifest tracking numbers, manifest printing, and obtaining manifests.
 
-(a)(1) A registrant may not print, or have printed, the manifest for use of distribution unless it has received approval from the EPA Director of the Office of Resource Conservation and Recovery to do so under paragraphs (c) and (e) of this section.
+(a)(1) A registrant may not print, or have printed, the manifest for use of distribution unless it has received approval from the EPA Director of the Office of Resource Conservation and Recovery to do so under paragraphs (c) and (e) of this section.*i.e.*1/2
 
 (2) The approved registrant is responsible for ensuring that the organizations identified in its application are in compliance with the procedures of its approved application and the requirements of this section. The registrant is responsible for assigning manifest tracking numbers to its manifests.
 

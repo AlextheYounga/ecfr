@@ -1,6 +1,6 @@
 ##### § 262.213 Laboratory clean-outs.
 
-(a) One time per 12 month period for each laboratory, an eligible academic entity may opt to conduct a laboratory clean-out that is subject to all the applicable requirements of this subpart, except that:
+(a) One time per 12 month period for each laboratory, an eligible academic entity may opt to conduct a laboratory clean-out that is subject to all the applicable requirements of this subpart, except that:*i.e.,*
 
 (1) If the volume of unwanted material in the laboratory exceeds 55 gallons (or 1 quart of liquid reactive acutely hazardous unwanted material, or 1 kg of solid reactive acutely hazardous unwanted material), the eligible academic entity is not required to remove all unwanted materials from the laboratory within 10 calendar days of exceeding 55 gallons (or 1 quart of liquid reactive acutely hazardous unwanted material, or 1 kg of solid reactive acutely hazardous unwanted material), as required by § 262.208. Instead, the eligible academic entity must remove all unwanted materials from the laboratory within 30 calendar days from the start of the laboratory clean-out; and
 

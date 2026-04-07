@@ -1,6 +1,6 @@
 ##### § 262.13 Generator category determination.
 
-A generator must determine its generator category. A generator's category is based on the amount of hazardous waste generated each month and may change from month to month. This section sets forth procedures to determine whether a generator is a very small quantity generator, a small quantity generator, or a large quantity generator for a particular month, as defined in § 260.10 of this chapter.
+A generator must determine its generator category. A generator's category is based on the amount of hazardous waste generated each month and may change from month to month. This section sets forth procedures to determine whether a generator is a very small quantity generator, a small quantity generator, or a large quantity generator for a particular month, as defined in § 260.10 of this chapter.*Generators of either acute hazardous waste or non-acute hazardous waste.*
 
 (a) *Generators of either acute hazardous waste or non-acute hazardous waste.* A generator who either generates acute hazardous waste or non-acute hazardous waste in a calendar month shall determine its generator category for that month by doing the following:
 

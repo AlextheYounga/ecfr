@@ -1,6 +1,6 @@
 ##### § 262.18 EPA identification numbers and re-notification for small quantity generators and large quantity generators.
 
-(a) A generator must not treat, store, dispose of, transport, or offer for transportation, hazardous waste without having received an EPA identification number from the Administrator.
+(a) A generator must not treat, store, dispose of, transport, or offer for transportation, hazardous waste without having received an EPA identification number from the Administrator.*Re-notification.*
 
 (b) A generator who has not received an EPA identification number must obtain one by applying to the Administrator using EPA Form 8700-12. Upon receiving the request the Administrator will assign an EPA identification number to the generator.
 

@@ -1,6 +1,6 @@
 ##### § 262.261 Content of contingency plan.
 
-(a) The contingency plan must describe the actions facility personnel must take to comply with §§ 262.260 and 262.265 in response to fires, explosions, or any unplanned sudden or non-sudden release of hazardous waste or hazardous waste constituents to air, soil, or surface water at the facility.
+(a) The contingency plan must describe the actions facility personnel must take to comply with §§ 262.260 and 262.265 in response to fires, explosions, or any unplanned sudden or non-sudden release of hazardous waste or hazardous waste constituents to air, soil, or surface water at the facility.*e.g.,*
 
 (b) If the generator has already prepared a Spill Prevention, Control, and Countermeasures (SPCC) Plan in accordance with part 112 of this chapter, or some other emergency or contingency plan, it need only amend that plan to incorporate hazardous waste management provisions that are sufficient to comply with the standards of this part. The generator may develop one contingency plan that meets all regulatory standards. EPA recommends that the plan be based on the National Response Team's Integrated Contingency Plan Guidance (“One Plan”).
 

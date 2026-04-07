@@ -1,6 +1,6 @@
 ##### § 262.200 Definitions for this subpart.
 
-The following definitions apply to this subpart:
+The following definitions apply to this subpart:*College/University*
 
 *College/University* means a private or public, post-secondary, degree-granting, academic institution, that is accredited by an accrediting agency listed annually by the U.S. Department of Education.
 

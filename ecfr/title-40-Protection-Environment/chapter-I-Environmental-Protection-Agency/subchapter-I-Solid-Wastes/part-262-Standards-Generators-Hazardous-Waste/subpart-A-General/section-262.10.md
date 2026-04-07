@@ -1,6 +1,6 @@
 ##### § 262.10 Purpose, scope, and applicability.
 
-(a) The regulations in this part establish standards for generators of hazardous waste as defined by 40 CFR 260.10.
+(a) The regulations in this part establish standards for generators of hazardous waste as defined by 40 CFR 260.10.*Independent requirements of a very small quantity generator.*
 
 (1) A person who generates a hazardous waste as defined by 40 CFR part 261 is subject to all the applicable independent requirements in the subparts and sections listed below:
 

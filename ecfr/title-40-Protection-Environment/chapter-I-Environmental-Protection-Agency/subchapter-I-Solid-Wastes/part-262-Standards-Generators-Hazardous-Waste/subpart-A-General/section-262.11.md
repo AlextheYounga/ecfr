@@ -1,6 +1,6 @@
 ##### § 262.11 Hazardous waste determination and recordkeeping.
 
-A person who generates a solid waste, as defined in 40 CFR 261.2, must make an accurate determination as to whether that waste is a hazardous waste in order to ensure wastes are properly managed according to applicable RCRA regulations. A hazardous waste determination is made using the following steps:
+A person who generates a solid waste, as defined in 40 CFR 261.2, must make an accurate determination as to whether that waste is a hazardous waste in order to ensure wastes are properly managed according to applicable RCRA regulations. A hazardous waste determination is made using the following steps:*e.g.,*
 
 (a) The hazardous waste determination for each solid waste must be made at the point of waste generation, before any dilution, mixing, or other alteration of the waste occurs, and at any time in the course of its management that it has, or may have, changed its properties as a result of exposure to the environment or other factors that may change the properties of the waste such that the RCRA classification of the waste may change.
 
