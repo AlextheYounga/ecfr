@@ -1,8 +1,8 @@
 ##### 1436.270-1 Uniform contract format.
 
-(a) COs shall prepare solicitations and contracts for construction using the uniform contract format outlined in Table 1436-1.
+(a) COs shall prepare solicitations and contracts for construction using the uniform contract format outlined in Table 1436-1. 
 
-(b) If any section of the uniform contract format does not apply, the CO should so mark that section in the solicitation. Upon award, the CO shall not physically include Part IV in the resulting contract, but shall retain it in the contract file.
+(b) If any section of the uniform contract format does not apply, the CO should so mark that section in the solicitation. Upon award, the CO shall not physically include Part IV in the resulting contract, but shall retain it in the contract file. 
 
 Table 1436-1—Uniform Contract Format
 | Section                                                         | Title                                                              |

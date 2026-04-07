@@ -1,8 +1,8 @@
 ##### 2152.370 Use of the matrix.
 
-(a) The matrix in this section lists the FAR and LIFAR clauses to be used with the FEGLI Program contract. The clauses are to be incorporated in the contract in full text.
+(a) The matrix in this section lists the FAR and LIFAR clauses to be used with the FEGLI Program contract. The clauses are to be incorporated in the contract in full text. 
 
-(b) Certain contract clauses are mandatory for FEGLI Program contracts. Other clauses are to be used only when made applicable by pertinent sections of the FAR or LIFAR. An “M” in the “Use Status” column indicates that the clause is mandatory. An “A” indicates that the clause is to be used only when the applicable conditions are met.
+(b) Certain contract clauses are mandatory for FEGLI Program contracts. Other clauses are to be used only when made applicable by pertinent sections of the FAR or LIFAR. An “M” in the “Use Status” column indicates that the clause is mandatory. An “A” indicates that the clause is to be used only when the applicable conditions are met. 
 
 FEGLI Program Clause Matrix
 | Clause No.    | Text reference        | Title                                                                                                                    | Use   status |

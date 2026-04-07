@@ -1,6 +1,6 @@
 ##### 52.217-7 Option for Increased Quantity—Separately Priced Line Item.
 
-As prescribed in 17.208(e), insert a clause substantially the same as the following:
+As prescribed in 17.208(e), insert a clause substantially the same as the following: 
 
 Option for Increased Quantity—Separately Priced Line Item (MAR 1989)
 

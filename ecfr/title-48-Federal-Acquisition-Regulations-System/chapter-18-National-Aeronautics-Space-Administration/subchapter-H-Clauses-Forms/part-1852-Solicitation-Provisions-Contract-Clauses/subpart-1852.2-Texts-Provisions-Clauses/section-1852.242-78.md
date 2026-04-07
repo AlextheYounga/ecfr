@@ -1,6 +1,6 @@
 ##### 1852.242-78 Emergency Medical Services and Evacuation.
 
-As prescribed in 1842.7003, insert the following clause:
+As prescribed in 1842.7003, insert the following clause: 
 
 Emergency Medical Services and Evacuation (APR 2001)
 

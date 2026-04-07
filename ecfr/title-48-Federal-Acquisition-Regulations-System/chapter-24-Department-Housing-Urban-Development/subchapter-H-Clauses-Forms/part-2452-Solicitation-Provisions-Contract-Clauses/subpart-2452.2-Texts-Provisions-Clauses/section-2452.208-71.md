@@ -1,6 +1,6 @@
 ##### 2452.208-71 Reproduction of reports.
 
-As prescribed in 2408.802-70, insert the following clause in solicitations and contracts where the Contractor is required to produce, as an end product, publications or other written materials:
+As prescribed in 2408.802-70, insert the following clause in solicitations and contracts where the Contractor is required to produce, as an end product, publications or other written materials: 
 
 REPRODUCTION OF REPORTS (APR 2019)
 

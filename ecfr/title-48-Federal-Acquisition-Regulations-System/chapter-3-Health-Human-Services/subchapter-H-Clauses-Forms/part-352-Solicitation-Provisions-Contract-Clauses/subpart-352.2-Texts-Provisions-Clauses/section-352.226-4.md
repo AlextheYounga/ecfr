@@ -1,6 +1,6 @@
 ##### 352.226-4 Notice of Indian Small Business Economic Enterprise set-aside.
 
-As prescribed in HHSAR 326.604-2(b)(1), and in lieu of the requirements of 48 CFR 19.508, the Contracting Officer shall insert the following provision:
+As prescribed in HHSAR 326.604-2(b)(1), and in lieu of the requirements of 48 CFR 19.508, the Contracting Officer shall insert the following provision: 
 
 Notice of Indian Small Business Economic Enterprise Set-Aside
 

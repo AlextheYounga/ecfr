@@ -1,6 +1,6 @@
 ##### 2052.215-72 Timely receipt of proposals.
 
-As prescribed in 2015.209-70(a)(3), the contracting officer shall insert the following provision in all solicitations:
+As prescribed in 2015.209-70(a)(3), the contracting officer shall insert the following provision in all solicitations: 
 
 Timely Receipt of Proposals (OCT 1999)
 

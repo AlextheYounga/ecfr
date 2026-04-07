@@ -1,6 +1,6 @@
 ##### 1252.239-71 Information Technology Security Plan and Accreditation.
 
-As prescribed in 1239.106-70, insert the following provision:
+As prescribed in 1239.106-70, insert the following provision: 
 
 Information Technology Security Plan and Accreditation (NOV 2022)
 

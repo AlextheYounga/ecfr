@@ -1,6 +1,6 @@
 ##### 852.237-80 Health Department and Transport Permits.
 
-As prescribed in 837.7001(b)(4), insert the following clause:
+As prescribed in 837.7001(b)(4), insert the following clause: 
 
 Health Department and Transport Permits (OCT 2019)
 

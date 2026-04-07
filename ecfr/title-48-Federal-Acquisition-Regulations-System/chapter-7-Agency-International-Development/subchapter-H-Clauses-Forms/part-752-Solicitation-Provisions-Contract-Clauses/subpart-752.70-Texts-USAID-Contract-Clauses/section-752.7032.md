@@ -1,6 +1,6 @@
 ##### 752.7032 International travel approval and notification requirements (APR 2014).
 
-For use in any USAID contract requiring international travel.
+For use in any USAID contract requiring international travel. 
 
 International Travel Approval and Notification Requirements (APR 2014)
 

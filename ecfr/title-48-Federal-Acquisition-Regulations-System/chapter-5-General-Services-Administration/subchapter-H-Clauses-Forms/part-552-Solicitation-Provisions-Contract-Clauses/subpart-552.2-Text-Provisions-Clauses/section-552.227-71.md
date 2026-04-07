@@ -1,6 +1,6 @@
 ##### 552.227-71 Drawings and Other Data To Become Property of Government.
 
-As prescribed in 527.409(b), insert the following clause:
+As prescribed in 527.409(b), insert the following clause: 
 
 Drawings and Other Data To Become Property of Government (MAY 1989) (Deviation FAR 52.227-17)
 

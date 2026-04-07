@@ -1,6 +1,6 @@
 ##### 1552.217-70 Evaluation of contract options.
 
-As prescribed in 1517.208(a), insert the following solicitation provision in Requests for Proposals when the solicitation contains options.
+As prescribed in 1517.208(a), insert the following solicitation provision in Requests for Proposals when the solicitation contains options. 
 
 Evaluation of Contract Options (APR 1984)
 

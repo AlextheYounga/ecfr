@@ -1,6 +1,6 @@
 ##### 53.300 Listing of Standard, Optional, and Agency forms.
 
-This subpart identifies, in numerical sequence, Standard Forms (SF), Optional Forms (OF) and agency forms that are specified by the FAR for use in acquisitions.
+This subpart identifies, in numerical sequence, Standard Forms (SF), Optional Forms (OF) and agency forms that are specified by the FAR for use in acquisitions. 
 
 (a) You can access the forms in Table 53-1 at the GSA Forms Library at *https://www.gsa.gov/forms.*
 
@@ -78,7 +78,7 @@ Table 53-1—Forms in the GSA Forms Library
 | OF 1419  | Abstract of Offers—Construction.                                                    |
 | OF 1419A | Abstract of Offers-Construction Continuation Sheet.                                 |
 
-(b) You can access the forms in Table 53-2 at the websites listed in the table.
+(b) You can access the forms in Table 53-2 at the websites listed in the table. 
 
 Table 53-2—Other Forms
 | Form DD 254 | Department of Defense Contract Security Classification Specification | https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf       |

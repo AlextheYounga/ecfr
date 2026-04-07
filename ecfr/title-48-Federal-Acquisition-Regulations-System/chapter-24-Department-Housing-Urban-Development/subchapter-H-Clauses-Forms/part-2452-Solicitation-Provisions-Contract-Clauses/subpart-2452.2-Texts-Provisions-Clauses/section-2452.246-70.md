@@ -1,6 +1,6 @@
 ##### 2452.246-70 Inspection and acceptance.
 
-As prescribed in 2446.502-70, insert the following clause in all solicitations and contracts:
+As prescribed in 2446.502-70, insert the following clause in all solicitations and contracts: 
 
 INSPECTION AND ACCEPTANCE (APR 2019)
 

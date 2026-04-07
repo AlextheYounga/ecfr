@@ -1,18 +1,18 @@
 ##### 1552.211-70 Reports of work.
 
-As prescribed in 1511.011-70, insert one of the contract clauses in this subsection when the contract requires the delivery of reports, including plans, evaluations, studies, analyses and manuals. The basic clause should be used when reports are specified in a contract attachment. Alternate I is to be used to specify reports in the contract schedule.
+As prescribed in 1511.011-70, insert one of the contract clauses in this subsection when the contract requires the delivery of reports, including plans, evaluations, studies, analyses and manuals. The basic clause should be used when reports are specified in a contract attachment. Alternate I is to be used to specify reports in the contract schedule. 
 
 Reports of Work (OCT 2000)
 
-The Contractor shall prepare and deliver reports, including plans, evaluations, studies, analyses and manuals in accordance with Attachment \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Each report shall cite the contract number, identify the U.S. Environmental Protection Agency as the sponsoring agency, and identify the name of the Contractor preparing the report.
+The Contractor shall prepare and deliver reports, including plans, evaluations, studies, analyses and manuals in accordance with Attachment \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Each report shall cite the contract number, identify the U.S. Environmental Protection Agency as the sponsoring agency, and identify the name of the Contractor preparing the report. 
 
 The OMB clearance number for progress reports delivered under this contract is 2030-0005.
 
 (End of clause)
 
-*Alternate I* (OCT 2000). The Contractor shall prepare and deliver the below listed reports, including plans, evaluations, studies, analyses and manuals to the designated addressees. Each report shall cite the contract number, identify the U.S. Environmental Protection Agency as the sponsoring agency, and identify the name of the Contractor preparing the report.
+*Alternate I* (OCT 2000). The Contractor shall prepare and deliver the below listed reports, including plans, evaluations, studies, analyses and manuals to the designated addressees. Each report shall cite the contract number, identify the U.S. Environmental Protection Agency as the sponsoring agency, and identify the name of the Contractor preparing the report. 
 
-The OMB clearance number for progress reports delivered under this contract is 2030-0005. Required reports are:
+The OMB clearance number for progress reports delivered under this contract is 2030-0005. Required reports are: 
 
 | Reports description | No. copies | Addressees |
 | ------------------- | ---------- | ---------- |

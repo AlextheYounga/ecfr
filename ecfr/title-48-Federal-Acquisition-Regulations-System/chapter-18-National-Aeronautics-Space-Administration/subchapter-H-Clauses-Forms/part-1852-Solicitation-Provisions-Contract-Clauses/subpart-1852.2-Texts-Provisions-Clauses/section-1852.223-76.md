@@ -1,6 +1,6 @@
 ##### 1852.223-76 Federal Automotive Statistical Tool Reporting.
 
-As prescribed at 1823.271 and 1851.205, insert the following clause:
+As prescribed at 1823.271 and 1851.205, insert the following clause: 
 
 Federal Automotive Statistical Tool Reporting (JUL 2003)
 

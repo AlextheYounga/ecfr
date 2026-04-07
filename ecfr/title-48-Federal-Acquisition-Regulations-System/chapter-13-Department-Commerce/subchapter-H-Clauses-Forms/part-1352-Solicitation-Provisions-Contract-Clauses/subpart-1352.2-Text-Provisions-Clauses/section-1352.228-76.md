@@ -1,6 +1,6 @@
 ##### 1352.228-76 Approval of group insurance plans.
 
-As prescribed in 48 CFR 1328.310-70(i), insert the following clause:
+As prescribed in 48 CFR 1328.310-70(i), insert the following clause: 
 
 Approval of Group Insurance Plans (APR 2010)
 

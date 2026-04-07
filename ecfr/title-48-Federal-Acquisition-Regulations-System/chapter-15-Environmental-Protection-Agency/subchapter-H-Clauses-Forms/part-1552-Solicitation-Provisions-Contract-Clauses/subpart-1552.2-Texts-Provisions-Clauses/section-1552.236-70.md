@@ -1,6 +1,6 @@
 ##### 1552.236-70 Samples and certificates.
 
-As prescribed in 1536.521, insert the following contract clause in construction contracts.
+As prescribed in 1536.521, insert the following contract clause in construction contracts. 
 
 Samples and Certificates (APR 1984)
 

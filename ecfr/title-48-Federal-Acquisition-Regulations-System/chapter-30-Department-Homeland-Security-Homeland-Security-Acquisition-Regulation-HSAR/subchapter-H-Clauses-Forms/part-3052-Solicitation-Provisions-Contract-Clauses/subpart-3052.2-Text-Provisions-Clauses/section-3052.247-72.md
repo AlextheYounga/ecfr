@@ -1,6 +1,6 @@
 ##### 3052.247-72 F.o.b. destination only.
 
-As prescribed in (HSAR) 48 CFR 3047.305-70(c), insert the following provision:
+As prescribed in (HSAR) 48 CFR 3047.305-70(c), insert the following provision: 
 
 F.O.B. Destination Only (DEC 2003)
 

@@ -1,6 +1,6 @@
 ##### 352.223-71 Instructions to Offerors—Sustainable Acquisition.
 
-As prescribed in HHSAR 323.7103, the Contracting Officer shall insert the following provision:
+As prescribed in HHSAR 323.7103, the Contracting Officer shall insert the following provision: 
 
 Instructions to Offerors—Sustainable Acquisition (DEC 2015)
 

@@ -1,10 +1,10 @@
 ##### 852.247-72 Marking Deliverables.
 
-As prescribed in 847.305-10(a) insert a clause substantially the same as:
+As prescribed in 847.305-10(a) insert a clause substantially the same as: 
 
 Marking Deliverables (OCT 2018)
 
-(a) The contract number shall be placed on or adjacent to all exterior mailing or shipping labels of deliverable items called for by the contract.
+(a) The contract number shall be placed on or adjacent to all exterior mailing or shipping labels of deliverable items called for by the contract. 
 
 (b) Mark deliverables, except reports, for: \_\_\_\_\[*Contracting Officer shall insert appropriate identifying data*\].
 

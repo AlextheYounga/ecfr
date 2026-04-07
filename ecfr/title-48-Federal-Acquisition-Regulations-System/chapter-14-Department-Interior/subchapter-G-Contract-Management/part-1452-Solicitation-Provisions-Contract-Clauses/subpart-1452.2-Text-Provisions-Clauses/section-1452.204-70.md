@@ -1,6 +1,6 @@
 ##### 1452.204-70 Release of Claims.
 
-As prescribed in 1404.804-70, insert the following clause:
+As prescribed in 1404.804-70, insert the following clause: 
 
 Release of Claims—Department of the Interior (JUL 1996)
 

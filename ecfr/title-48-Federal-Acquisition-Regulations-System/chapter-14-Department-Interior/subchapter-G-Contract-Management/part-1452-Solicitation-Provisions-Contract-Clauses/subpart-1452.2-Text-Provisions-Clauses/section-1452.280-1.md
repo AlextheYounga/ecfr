@@ -1,6 +1,6 @@
 ##### 1452.280-1 Notice of Indian Small Business Economic Enterprise set-aside.
 
-As prescribed in 1480.503(e)(1), and in lieu of the requirements of FAR 19.508, insert the following provision in each written solicitation of offers to provide supplies, general services, A-E services, or construction. If the solicitation is oral, information substantially identical to that contained in the provision must be given to potential offerors.
+As prescribed in 1480.503(e)(1), and in lieu of the requirements of FAR 19.508, insert the following provision in each written solicitation of offers to provide supplies, general services, A-E services, or construction. If the solicitation is oral, information substantially identical to that contained in the provision must be given to potential offerors. 
 
 Notice of Indian Small Business Economic Enterprise Set-Aside (FEB 2021)
 

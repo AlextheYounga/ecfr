@@ -1,6 +1,6 @@
 ##### 852.273-70 Late offers.
 
-As prescribed in 873.110(a), insert the following provision:
+As prescribed in 873.110(a), insert the following provision: 
 
 Late Offers (NOV 2021)
 

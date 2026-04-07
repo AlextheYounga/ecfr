@@ -1,6 +1,6 @@
 ##### 1253.204-70 Administrative matters—agency specified forms.
 
-The following forms are prescribed for use in the closeout of applicable contracts, as specified in 1204.804-570:
+The following forms are prescribed for use in the closeout of applicable contracts, as specified in 1204.804-570: 
 
 (a) *Department of Transportation (DOT) Form DOT F 4220.4, Contractor's Release.* Form DOT F 4220.4 is authorized for local reproduction and a copy may be obtained at *https://www.transportation.gov/assistant-secretary-administration/procurement/tar-part-1253-forms.*
 

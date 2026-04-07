@@ -1,6 +1,6 @@
 ##### 1352.227-70 Rights in data, assignment of copyright.
 
-As prescribed in 48 CFR 1327.404-4(a), insert the following clause:
+As prescribed in 48 CFR 1327.404-4(a), insert the following clause: 
 
 Rights in Data, Assignment of Copyright (APR 2010)
 

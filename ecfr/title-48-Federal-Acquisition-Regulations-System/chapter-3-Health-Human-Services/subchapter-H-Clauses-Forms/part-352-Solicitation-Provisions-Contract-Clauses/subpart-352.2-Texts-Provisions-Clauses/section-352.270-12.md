@@ -1,6 +1,6 @@
 ##### 352.270-12 Needle Exchange.
 
-As prescribed in HHSAR 370.304(d), the Contracting Officer shall insert the following clause:
+As prescribed in HHSAR 370.304(d), the Contracting Officer shall insert the following clause: 
 
 Needle Exchange (DEC 2015)
 

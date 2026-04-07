@@ -1,6 +1,6 @@
 ##### 852.237-79 Subcontracting.
 
-As prescribed in 837.7001(b)(3), insert the following clause:
+As prescribed in 837.7001(b)(3), insert the following clause: 
 
 Subcontracting (OCT 2019)
 

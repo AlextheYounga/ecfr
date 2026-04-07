@@ -1,6 +1,6 @@
 ##### 952.227-84 Notice of right to request patent waiver.
 
-As prescribed in 927.409(n), insert this provision:
+As prescribed in 927.409(n), insert this provision: 
 
 Right To Request Patent Waiver (DEC 2024)
 

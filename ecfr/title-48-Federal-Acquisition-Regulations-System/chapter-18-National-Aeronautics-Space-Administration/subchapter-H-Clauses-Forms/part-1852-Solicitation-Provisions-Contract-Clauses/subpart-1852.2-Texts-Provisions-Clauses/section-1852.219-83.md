@@ -1,6 +1,6 @@
 ##### 1852.219-83 Limitation of the principal investigator—SBIR program.
 
-As prescribed in 1819.7302(d), insert the following clause:
+As prescribed in 1819.7302(d), insert the following clause: 
 
 Limitation of the Principal Investigator—SBIR Program (OCT 2006)
 

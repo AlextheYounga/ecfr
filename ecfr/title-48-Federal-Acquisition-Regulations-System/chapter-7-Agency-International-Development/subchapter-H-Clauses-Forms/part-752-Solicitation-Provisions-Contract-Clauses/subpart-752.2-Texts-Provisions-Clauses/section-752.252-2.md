@@ -1,6 +1,6 @@
 ##### 752.252-2 AIDAR clauses incorporated by reference
 
-In accordance with 752.107(b), insert the following clause.
+In accordance with 752.107(b), insert the following clause. 
 
 AIDAR Clauses Incorporated By Reference (MAR 2015)
 

@@ -1,18 +1,18 @@
 ##### 52.225-2 Buy American Certificate.
 
-As prescribed in 25.1101(a)(2), insert the following provision:
+As prescribed in 25.1101(a)(2), insert the following provision: 
 
 Buy American Certificate (OCT 2022)
 
-(a)(1) The Offeror certifies that each end product, except those listed in paragraph (b) of this provision, is a domestic end product and that each domestic end product listed in paragraph (c) of this provision contains a critical component.
+(a)(1) The Offeror certifies that each end product, except those listed in paragraph (b) of this provision, is a domestic end product and that each domestic end product listed in paragraph (c) of this provision contains a critical component. 
 
-(2) The Offeror shall list as foreign end products those end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except for those that are COTS items. If the percentage of the domestic content is unknown, select “no”.
+(2) The Offeror shall list as foreign end products those end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except for those that are COTS items. If the percentage of the domestic content is unknown, select “no”. 
 
-(3) The Offeror shall separately list the line item numbers of domestic end products that contain a critical component (see FAR 25.105).
+(3) The Offeror shall separately list the line item numbers of domestic end products that contain a critical component (see FAR 25.105). 
 
-(4) The terms “commercially available off-the-shelf (COTS) item,” “critical component,” “domestic end product,” “end product,” and “foreign end product” are defined in the clause of this solicitation entitled “Buy American—Supplies.”
+(4) The terms “commercially available off-the-shelf (COTS) item,” “critical component,” “domestic end product,” “end product,” and “foreign end product” are defined in the clause of this solicitation entitled “Buy American—Supplies.” 
 
-(b) Foreign End Products:
+(b) Foreign End Products: 
 
 | Line Item No. | Country of origin | Exceeds 55% domestic content   (yes/no) |
 | ------------- | ----------------- | --------------------------------------- |
@@ -23,9 +23,9 @@ Buy American Certificate (OCT 2022)
 
 \[List as necessary\]
 
-(c) Domestic end products containing a critical component:
+(c) Domestic end products containing a critical component: 
 
-Line Item No. \_\_\_\_\_\_
+Line Item No. \_\_\_\_\_\_ 
 
 \[List as necessary\]
 

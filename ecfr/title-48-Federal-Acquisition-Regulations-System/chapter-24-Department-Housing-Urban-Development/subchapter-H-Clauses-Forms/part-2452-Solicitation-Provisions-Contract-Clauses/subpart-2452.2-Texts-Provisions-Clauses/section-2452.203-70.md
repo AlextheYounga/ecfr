@@ -1,6 +1,6 @@
 ##### 2452.203-70 Prohibition against the use of Federal employees.
 
-As prescribed in 2403.670, insert the following clause in solicitations and contracts:
+As prescribed in 2403.670, insert the following clause in solicitations and contracts: 
 
 PROHIBITION AGAINST THE USE OF FEDERAL EMPLOYEES (APR 2019)
 

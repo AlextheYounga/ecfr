@@ -1,6 +1,6 @@
 ##### 3052.216-70 Evaluation of offers subject to an economic price adjustment clause.
 
-As prescribed in (HSAR) 48 CFR 3016.203-470, insert a provision substantially the same as the following:
+As prescribed in (HSAR) 48 CFR 3016.203-470, insert a provision substantially the same as the following: 
 
 Evaluation of Offers Subject to an Economic Price Adjustment Clause (JUN 2006)
 

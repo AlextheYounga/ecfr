@@ -1,6 +1,6 @@
 ##### 552.238-104 Dissemination of Information by Contractor.
 
-As prescribed in 538.273(d)(28), insert the following clause:
+As prescribed in 538.273(d)(28), insert the following clause: 
 
 Dissemination of Information by Contractor (MAY 2019)
 

@@ -1,6 +1,6 @@
 ##### 1252.239-77 Data Jurisdiction.
 
-As prescribed in 1239.7204(b), insert a clause substantially as follows:
+As prescribed in 1239.7204(b), insert a clause substantially as follows: 
 
 Data Jurisdiction (NOV 2022)
 

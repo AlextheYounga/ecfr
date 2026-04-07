@@ -1,6 +1,6 @@
 ##### 2052.204-71 Site access badge requirements.
 
-As prescribed at 2004.404(b), the contracting officer shall insert the following clause in all solicitations and contracts under which the contractor will require access to Government facilities. The clause may be altered to reflect any special conditions to be applied to foreign nationals:
+As prescribed at 2004.404(b), the contracting officer shall insert the following clause in all solicitations and contracts under which the contractor will require access to Government facilities. The clause may be altered to reflect any special conditions to be applied to foreign nationals: 
 
 Site Access Badge Requirements (JAN 1993)
 

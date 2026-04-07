@@ -1,6 +1,6 @@
 ##### 1252.216-70 Evaluation of Offers Subject to an Economic Price Adjustment Clause.
 
-As prescribed in 1216.203-470, insert the following provision:
+As prescribed in 1216.203-470, insert the following provision: 
 
 Evaluation of Offers Subject to an Economic Price Adjustment Clause (NOV 2022)
 

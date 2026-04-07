@@ -1,6 +1,6 @@
 ##### 852.273-74 Award without exchanges.
 
-As prescribed in 873.110(e), insert the following provision:
+As prescribed in 873.110(e), insert the following provision: 
 
 Award Without Exchanges (NOV 2021)
 

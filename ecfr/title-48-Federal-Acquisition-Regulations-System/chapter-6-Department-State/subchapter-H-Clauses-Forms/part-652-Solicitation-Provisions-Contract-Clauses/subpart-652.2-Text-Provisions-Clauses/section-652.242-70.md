@@ -1,10 +1,10 @@
 ##### 652.242-70 Contracting Officer's Representative (COR).
 
-As prescribed in 642.272(a), insert a clause substantially the same as follows:
+As prescribed in 642.272(a), insert a clause substantially the same as follows: 
 
 Contracting Officer's Representative (COR) (AUG 1999)
 
-(a) The Contracting Officer may designate in writing one or more Government employees, by name and position title, to take action for the Contracting Officer under this contract. Each designee shall be identified as a Contracting Officer's Representative (COR). Such designation(s) shall specify the scope and limitations of the authority so delegated; provided, that the designee shall not change the terms or conditions of the contract, unless the COR is a warranted Contracting Officer and this authority is delegated in the designation.
+(a) The Contracting Officer may designate in writing one or more Government employees, by name and position title, to take action for the Contracting Officer under this contract. Each designee shall be identified as a Contracting Officer's Representative (COR). Such designation(s) shall specify the scope and limitations of the authority so delegated; provided, that the designee shall not change the terms or conditions of the contract, unless the COR is a warranted Contracting Officer and this authority is delegated in the designation. 
 
 (b) The COR is \[insert job title of COR\].
 

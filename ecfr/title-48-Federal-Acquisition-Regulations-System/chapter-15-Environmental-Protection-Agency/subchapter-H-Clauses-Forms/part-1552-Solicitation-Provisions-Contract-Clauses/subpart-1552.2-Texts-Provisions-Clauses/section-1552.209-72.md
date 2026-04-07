@@ -1,6 +1,6 @@
 ##### 1552.209-72 Organizational conflict of interest certification.
 
-As prescribed in 1509.507-1(b), insert the following provision in all solicitation documents when applicable.
+As prescribed in 1509.507-1(b), insert the following provision in all solicitation documents when applicable. 
 
 Organizational Conflict of Interest Certification (APR 1984)
 

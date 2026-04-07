@@ -1,6 +1,6 @@
 ##### 352.270-6 Restriction on Use of Human Subjects.
 
-As prescribed in HHSAR 370-304(b), the Contracting Officer shall insert the following clause:
+As prescribed in HHSAR 370-304(b), the Contracting Officer shall insert the following clause: 
 
 Restriction on Use of Human Subjects (DEC 2015)
 

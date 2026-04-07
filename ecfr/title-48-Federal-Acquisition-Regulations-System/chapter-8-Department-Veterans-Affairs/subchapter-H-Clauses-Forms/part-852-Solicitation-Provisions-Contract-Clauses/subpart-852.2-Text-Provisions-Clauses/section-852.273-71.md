@@ -1,6 +1,6 @@
 ##### 852.273-71 Alternative negotiation techniques.
 
-As prescribed in 873.110(b), insert the following provision:
+As prescribed in 873.110(b), insert the following provision: 
 
 Alternative Negotiation Techniques (NOV 2021)
 

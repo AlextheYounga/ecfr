@@ -1,6 +1,6 @@
 ##### 1852.214-72 Full quantities.
 
-As prescribed in 1814.201-670(c), insert the following provision:
+As prescribed in 1814.201-670(c), insert the following provision: 
 
 Full Quantities (DEC 1988)
 

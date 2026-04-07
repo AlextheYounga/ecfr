@@ -1,6 +1,6 @@
 ##### 3452.247-70 Foreign travel.
 
-As prescribed in 3447.701, insert the following clause in all solicitations and resultant cost-reimbursement contracts:
+As prescribed in 3447.701, insert the following clause in all solicitations and resultant cost-reimbursement contracts: 
 
 Foreign Travel (MAR 2011)
 

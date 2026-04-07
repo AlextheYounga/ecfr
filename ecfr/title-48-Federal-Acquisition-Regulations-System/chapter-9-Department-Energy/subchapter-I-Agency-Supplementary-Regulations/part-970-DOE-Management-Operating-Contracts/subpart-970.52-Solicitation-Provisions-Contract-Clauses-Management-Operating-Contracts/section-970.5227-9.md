@@ -1,6 +1,6 @@
 ##### 970.5227-9 Notice of right to request patent waiver.
 
-Insert the following provision in solicitations in accordance with 970.2702-70:
+Insert the following provision in solicitations in accordance with 970.2702-70: 
 
 Notice of Right To Request Patent Waiver (DEC 2000)
 

@@ -1,6 +1,6 @@
 ##### 1352.228-75 Risk and indemnities.
 
-As prescribed in 48 CFR 1328.310-70(e) and 48 CFR 1328.310-70(h), insert the following in all applicable contracts for leased aircraft:
+As prescribed in 48 CFR 1328.310-70(e) and 48 CFR 1328.310-70(h), insert the following in all applicable contracts for leased aircraft: 
 
 Risk and Indemnities (APR 2010)
 

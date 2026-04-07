@@ -1,6 +1,6 @@
 ##### 52.228-12 Prospective Subcontractor Requests for Bonds.
 
-As prescribed in 28.106-4(b), use the following clause:
+As prescribed in 28.106-4(b), use the following clause: 
 
 Prospective Subcontractor Requests for Bonds (DEC 2022)
 

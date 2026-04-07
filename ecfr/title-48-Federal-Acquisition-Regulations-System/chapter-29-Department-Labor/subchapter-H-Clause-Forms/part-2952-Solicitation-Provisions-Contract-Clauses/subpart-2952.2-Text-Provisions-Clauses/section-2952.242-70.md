@@ -1,6 +1,6 @@
 ##### 2952.242-70 Access to Contractor Business Systems.
 
-As prescribed in 2942.101, insert the following clause:
+As prescribed in 2942.101, insert the following clause: 
 
 Access to Contractor Business Systems (APR 2019)
 

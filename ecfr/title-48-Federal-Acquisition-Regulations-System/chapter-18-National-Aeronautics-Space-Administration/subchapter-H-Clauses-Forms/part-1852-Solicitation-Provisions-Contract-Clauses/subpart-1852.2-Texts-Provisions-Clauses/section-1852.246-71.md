@@ -1,10 +1,10 @@
 ##### 1852.246-71 Government contract quality assurance functions.
 
-As prescribed in 1846.470, insert the following clause:
+As prescribed in 1846.470, insert the following clause: 
 
 Government Contract Quality Assurance Functions (OCT 1988)
 
-In accordance with the inspection clause of this contract, the Government intends to perform the following functions at the locations indicated:
+In accordance with the inspection clause of this contract, the Government intends to perform the following functions at the locations indicated: 
 
 | Item | Quality Assurance Function | Location |
 | ---- | -------------------------- | -------- |

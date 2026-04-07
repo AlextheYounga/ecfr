@@ -1,6 +1,6 @@
 ##### 352.233-70 Choice of Law (Overseas).
 
-As prescribed in HHSAR 333.215-70(a), the Contracting Officer shall insert the following clause:
+As prescribed in HHSAR 333.215-70(a), the Contracting Officer shall insert the following clause: 
 
 Choice of Law (Overseas) (DEC 2015)
 

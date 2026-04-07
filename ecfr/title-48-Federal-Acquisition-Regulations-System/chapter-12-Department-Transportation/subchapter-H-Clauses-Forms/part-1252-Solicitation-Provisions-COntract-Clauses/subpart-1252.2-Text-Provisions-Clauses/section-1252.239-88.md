@@ -1,6 +1,6 @@
 ##### 1252.239-88 Security Alerts, Advisories, and Directives.
 
-As prescribed in 1239.7204(m), insert the clause as follows:
+As prescribed in 1239.7204(m), insert the clause as follows: 
 
 Security Alerts, Advisories, and Directives (NOV 2022)
 

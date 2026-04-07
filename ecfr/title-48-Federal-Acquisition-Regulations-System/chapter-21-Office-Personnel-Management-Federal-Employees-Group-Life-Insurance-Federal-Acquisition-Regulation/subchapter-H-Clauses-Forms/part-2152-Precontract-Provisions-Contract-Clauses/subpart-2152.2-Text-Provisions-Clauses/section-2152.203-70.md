@@ -1,6 +1,6 @@
 ##### 2152.203-70 Misleading, deceptive, or unfair advertising.
 
-As prescribed in 2103.571, insert the following clause:
+As prescribed in 2103.571, insert the following clause: 
 
 Misleading, Deceptive, or Unfair Advertising (OCT 2005)
 

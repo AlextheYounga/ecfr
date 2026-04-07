@@ -1,6 +1,6 @@
 ##### 53.106 Special construction and printing.
 
-Contracting offices may request exceptions (see 53.103) to standard forms for special construction and printing. Examples of common exceptions are as follows:
+Contracting offices may request exceptions (see 53.103) to standard forms for special construction and printing. Examples of common exceptions are as follows: 
 
 | Standard Forms          | Special Construction and Printing                                                                                                                                                                                                                                          |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

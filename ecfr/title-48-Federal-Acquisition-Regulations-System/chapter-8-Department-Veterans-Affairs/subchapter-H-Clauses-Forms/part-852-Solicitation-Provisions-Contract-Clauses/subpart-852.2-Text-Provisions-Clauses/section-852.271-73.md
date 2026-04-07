@@ -1,6 +1,6 @@
 ##### 852.271-73 Use and Publication of Counseling Results.
 
-As prescribed in 871.211, insert the following clause:
+As prescribed in 871.211, insert the following clause: 
 
 Use and Publication of Counseling Results (NOV 2021)
 

@@ -1,6 +1,6 @@
 ##### 1252.239-79 Authentication, Data Integrity, and Non-Repudiation.
 
-As prescribed in 1239.7204(d), insert a clause substantially as follows:
+As prescribed in 1239.7204(d), insert a clause substantially as follows: 
 
 Authentication, Data Integrity, and Non-Repudiation (NOV 2022)
 

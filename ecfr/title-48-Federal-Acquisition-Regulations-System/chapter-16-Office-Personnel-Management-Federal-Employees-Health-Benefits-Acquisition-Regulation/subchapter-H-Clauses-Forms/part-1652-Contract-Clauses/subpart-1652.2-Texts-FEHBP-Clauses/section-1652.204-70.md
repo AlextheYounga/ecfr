@@ -1,6 +1,6 @@
 ##### 1652.204-70 Contractor records retention.
 
-As prescribed in 1604.705 the following clause will be inserted in all FEHB Program contracts.
+As prescribed in 1604.705 the following clause will be inserted in all FEHB Program contracts. 
 
 Contractor Records Retention (JUL 2005)
 

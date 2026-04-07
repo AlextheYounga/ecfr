@@ -1,6 +1,6 @@
 ##### 1452.203-70 Restrictions on Endorsements.
 
-As prescribed in 1403.570-3, insert the following clause:
+As prescribed in 1403.570-3, insert the following clause: 
 
 Restriction on Endorsements—Department of the interior (JUL 1996)
 

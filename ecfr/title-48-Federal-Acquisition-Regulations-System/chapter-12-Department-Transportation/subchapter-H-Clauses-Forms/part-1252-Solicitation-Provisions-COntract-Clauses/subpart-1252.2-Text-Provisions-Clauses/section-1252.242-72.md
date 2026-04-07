@@ -1,6 +1,6 @@
 ##### 1252.242-72 Dissemination of Contract Information.
 
-As prescribed in 1242.270(c), insert the following clause:
+As prescribed in 1242.270(c), insert the following clause: 
 
 Dissemination of Contract Information (NOV 2022)
 

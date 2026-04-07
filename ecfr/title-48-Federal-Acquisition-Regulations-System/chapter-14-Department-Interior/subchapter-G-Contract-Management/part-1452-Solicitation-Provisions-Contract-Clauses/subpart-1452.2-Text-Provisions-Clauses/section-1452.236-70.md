@@ -1,6 +1,6 @@
 ##### 1452.236-70 Prohibition Against Use of Lead-based Paint.
 
-As prescribed in 1436.570(b), insert the following clause:
+As prescribed in 1436.570(b), insert the following clause: 
 
 Prohibition Against Use of Lead-Based Paint—Department of the Interior (JUL 1996)
 

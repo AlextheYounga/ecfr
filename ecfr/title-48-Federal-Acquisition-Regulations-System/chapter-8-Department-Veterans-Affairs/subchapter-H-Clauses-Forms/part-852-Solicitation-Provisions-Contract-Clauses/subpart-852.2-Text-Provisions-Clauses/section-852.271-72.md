@@ -1,6 +1,6 @@
 ##### 852.271-72 Time Spent by Counselee in Counseling Process.
 
-As prescribed in 871.211, insert the following clause:
+As prescribed in 871.211, insert the following clause: 
 
 Time Spent by Counselee in Counseling Process (NOV 2021)
 

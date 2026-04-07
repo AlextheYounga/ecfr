@@ -1,6 +1,6 @@
 ##### 3052.217-98 Delays (USCG).
 
-As prescribed in USCG guidance at (HSAR) 48 CFR 3017.9000(a) and (b), insert the following clause:
+As prescribed in USCG guidance at (HSAR) 48 CFR 3017.9000(a) and (b), insert the following clause: 
 
 Delays (DEC 2003)
 

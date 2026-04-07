@@ -1,6 +1,6 @@
 ##### 2452.232-73 Constructive acceptance period.
 
-As prescribed in 2432.908, insert the following clause:
+As prescribed in 2432.908, insert the following clause: 
 
 Constructive Acceptance Period (DEC 2012)
 

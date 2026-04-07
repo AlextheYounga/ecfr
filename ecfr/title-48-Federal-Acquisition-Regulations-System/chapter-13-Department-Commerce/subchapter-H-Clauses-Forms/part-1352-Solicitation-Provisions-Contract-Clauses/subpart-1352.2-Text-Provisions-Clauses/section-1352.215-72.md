@@ -1,6 +1,6 @@
 ##### 1352.215-72 Inquiries.
 
-As prescribed in 48 CFR 1315.204-570(a)(3), insert the following provision:
+As prescribed in 48 CFR 1315.204-570(a)(3), insert the following provision: 
 
 Inquiries (Date)
 

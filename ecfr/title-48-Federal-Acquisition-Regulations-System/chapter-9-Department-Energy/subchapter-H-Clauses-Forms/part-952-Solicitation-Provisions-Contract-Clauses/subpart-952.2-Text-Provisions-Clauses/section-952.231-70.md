@@ -1,6 +1,6 @@
 ##### 952.231-70 Date of incurrence of cost.
 
-In accordance with 931.205-32, insert the following clause when advance understandings have been negotiated regarding costs incurred prior to the contract effective date:
+In accordance with 931.205-32, insert the following clause when advance understandings have been negotiated regarding costs incurred prior to the contract effective date: 
 
 Date of Incurrence of Cost (APR 1984)
 

@@ -1,6 +1,6 @@
 ##### 752.7030 Inspection trips by contractor's officers and executives.
 
-For use in cost reimbursement contracts with an educational institution involving performance overseas.
+For use in cost reimbursement contracts with an educational institution involving performance overseas. 
 
 Inspection Trips by Contractor's Officers and Executives (APR 1984)
 

@@ -1,6 +1,6 @@
 ##### 2452.215-71 Relative importance of technical evaluation factors to cost or price.
 
-As prescribed in 2415.209(a)(2), insert the following provision:
+As prescribed in 2415.209(a)(2), insert the following provision: 
 
 Relative Importance Of Technical Evaluation Factors To Cost Or Price (DEC 2012)
 

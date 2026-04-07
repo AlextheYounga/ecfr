@@ -1,6 +1,6 @@
 ##### 2052.235-71 Safety, health, and fire protection.
 
-As prescribed in 2035.70(a)(2), the contracting officer shall insert the following clause in applicable solicitations and contracts for research and development by private contractors and universities and for other technical services as appropriate:
+As prescribed in 2035.70(a)(2), the contracting officer shall insert the following clause in applicable solicitations and contracts for research and development by private contractors and universities and for other technical services as appropriate: 
 
 Safety, Health, and Fire Protection (JAN 1993)
 

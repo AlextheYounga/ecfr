@@ -1,6 +1,6 @@
 ##### 1252.242-74 Contract Audit Support.
 
-As prescribed in 1242.170, insert the following clause:
+As prescribed in 1242.170, insert the following clause: 
 
 Contract Audit Support (NOV 2022)
 

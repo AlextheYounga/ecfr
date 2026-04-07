@@ -1,6 +1,6 @@
 ##### 1252.217-79 Delays.
 
-As prescribed at 1217.7001(b), insert the following clause:
+As prescribed at 1217.7001(b), insert the following clause: 
 
 Delays (NOV 2022)
 

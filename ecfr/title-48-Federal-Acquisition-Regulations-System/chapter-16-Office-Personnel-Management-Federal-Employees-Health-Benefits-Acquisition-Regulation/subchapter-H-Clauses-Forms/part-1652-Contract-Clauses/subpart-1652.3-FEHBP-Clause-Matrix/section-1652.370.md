@@ -1,10 +1,10 @@
 ##### 1652.370 Use of the matrix.
 
-(a) The matrix in this section lists the FAR and FEHBAR clauses to be used with contracts based on cost analysis and contracts based on a combination of cost and price analysis. Carriers shall submit initial applications and requests for renewals on the basis that the new contract or contract renewal will include the clauses indicated.
+(a) The matrix in this section lists the FAR and FEHBAR clauses to be used with contracts based on cost analysis and contracts based on a combination of cost and price analysis. Carriers shall submit initial applications and requests for renewals on the basis that the new contract or contract renewal will include the clauses indicated. 
 
-(b) Certain contract clauses are mandatory for FEHBP contracts. Other clauses are to be used only when made applicable by pertinent sections of the FAR or FEHBAR. An “M” in the “Use Status” column indicates that the clause is mandatory. An “A” indicates that the clause is to be used only when the applicable conditions are met.
+(b) Certain contract clauses are mandatory for FEHBP contracts. Other clauses are to be used only when made applicable by pertinent sections of the FAR or FEHBAR. An “M” in the “Use Status” column indicates that the clause is mandatory. An “A” indicates that the clause is to be used only when the applicable conditions are met. 
 
-(c) Clauses are incorporated in the contract either in full text or by reference. If the full text is to be used, the matrix indicates a “T”. If the clause is incorporated by reference, the matrix indicates an “R”.
+(c) Clauses are incorporated in the contract either in full text or by reference. If the full text is to be used, the matrix indicates a “T”. If the clause is incorporated by reference, the matrix indicates an “R”. 
 
 FEHBP Clause Matrix
 | Clause        | Title                                                                                                                             | Use status | Use with   experience rated contracts | Use with   community rated contracts |

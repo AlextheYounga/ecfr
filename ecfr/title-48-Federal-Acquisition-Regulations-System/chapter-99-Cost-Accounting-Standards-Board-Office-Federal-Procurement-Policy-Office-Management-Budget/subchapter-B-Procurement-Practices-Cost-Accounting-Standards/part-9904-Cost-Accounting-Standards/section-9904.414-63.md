@@ -1,50 +1,50 @@
 ##### 9904.414-63 Effective date.
 
-This Standard is effective as of April 17, 1992.
+This Standard is effective as of April 17, 1992. 
 
 Appendix A to 9904.414—Instructions for Form CASB CMF ![](/graphics/ec02fe91.069.gif)Purpose
 
-The purpose of this form is to (a) accumulate total facilities capital net book values allocated to each business unit for the contractor cost accounting period, and (b) convert those values to facilities capital cost of money factors applicable to each overhead or G&A expense allocation base employed within a business unit.
+The purpose of this form is to (a) accumulate total facilities capital net book values allocated to each business unit for the contractor cost accounting period, and (b) convert those values to facilities capital cost of money factors applicable to each overhead or G&A expense allocation base employed within a business unit. 
 
 Basis
 
-All data pertain to the cost accounting period for which the contractor prepares overhead and G&A expense allocations. The cost of money computations should be compatible with those allocation procedures. More specifically, facilities capital values used should be the same values that are used to generate depreciation or amortization that is allowed for Federal Government contract costing purposes; land which is integral to the regular operation of the business unit shall be included.
+All data pertain to the cost accounting period for which the contractor prepares overhead and G&A expense allocations. The cost of money computations should be compatible with those allocation procedures. More specifically, facilities capital values used should be the same values that are used to generate depreciation or amortization that is allowed for Federal Government contract costing purposes; land which is integral to the regular operation of the business unit shall be included. 
 
 Applicable Cost of Money Rate (Col. 1)
 
-Enter here the rate as computed in accordance with 9904.414-50(b).
+Enter here the rate as computed in accordance with 9904.414-50(b). 
 
 Accumulation and Direct Distribution of Net Book Value (Col. 2) Recorded, Leased Property, Corporate.
 
-The net book value of facilities capital items in this column shall represent the average balances outstanding during the cost accounting period. This applies both to items that are subject to periodic depreciation or amortization and also to such items as land that are not subject to periodic write-offs. Unless there is a major fluctuation, it will be adequate to ascertain the net book value of these assets at the beginning and end of each cost accounting period, and to compute an average of those two sets of figures. “Recorded” facilities are the facilities capital items owned by the contractor, carried on the books of the business unit, and used in its regular business activity. “Leased property” is the capitalized value of leases for which constructive costs of ownership are allowed in lieu of rental costs under Government procurement regulations. Corporate or group facilities are the business unit's allocable share of corporate-owned and leased facilities. The net book value of items of facilities capital which are held or controlled by the home office shall be allocated to the business unit on a basis consistent with the home office expense allocation.
+The net book value of facilities capital items in this column shall represent the average balances outstanding during the cost accounting period. This applies both to items that are subject to periodic depreciation or amortization and also to such items as land that are not subject to periodic write-offs. Unless there is a major fluctuation, it will be adequate to ascertain the net book value of these assets at the beginning and end of each cost accounting period, and to compute an average of those two sets of figures. “Recorded” facilities are the facilities capital items owned by the contractor, carried on the books of the business unit, and used in its regular business activity. “Leased property” is the capitalized value of leases for which constructive costs of ownership are allowed in lieu of rental costs under Government procurement regulations. Corporate or group facilities are the business unit's allocable share of corporate-owned and leased facilities. The net book value of items of facilities capital which are held or controlled by the home office shall be allocated to the business unit on a basis consistent with the home office expense allocation. 
 
 Distributed and Undistributed.
 
-All facilities capital items that are identified in the contractor's records as solely applicable to an organizational unit corresponding to a specific overhead, G&A or other indirect cost pool which is used to allocate indirect costs to final cost objectives, are listed against the applicable pools and are classified as “distributed.” “Undistributed” is the remainder of the business unit's facilities capital. The sum of “distributed” and “undistributed” must also correspond to the amount shown on the “total” line.
+All facilities capital items that are identified in the contractor's records as solely applicable to an organizational unit corresponding to a specific overhead, G&A or other indirect cost pool which is used to allocate indirect costs to final cost objectives, are listed against the applicable pools and are classified as “distributed.” “Undistributed” is the remainder of the business unit's facilities capital. The sum of “distributed” and “undistributed” must also correspond to the amount shown on the “total” line. 
 
 Allocation of Distributed.
 
-List in the narrative column all the overhead and G&A expense pools to which “distributed” facilities capital items have been allocated. Enter the corresponding amounts in (Col. 2). The sum of all the amounts shown against specific overhead and G&A expense pools must correspond to the amount shown in the “distributed” line.
+List in the narrative column all the overhead and G&A expense pools to which “distributed” facilities capital items have been allocated. Enter the corresponding amounts in (Col. 2). The sum of all the amounts shown against specific overhead and G&A expense pools must correspond to the amount shown in the “distributed” line. 
 
 Allocation of Undistributed (Col. 3)
 
-Business unit “undistributed” facilities are allocated to overhead and the G&A expense pools on any reasonable basis that approximates the actual absorption of depreciation or amortization of such facilities. For instance, the basis of allocation of undistributed assets in each business unit between; e.g., engineering overhead pool and the manufacturing overhead pool, should be related to the manner in which the expenses generated by these assets are allocated between the two overhead pools. Detailed analysis of this allocation is not required where essentially the same results can be obtained by other means. Where the cost accounting system for purposes of Government contract costing uses more than one “charging rate” for allocating indirect costs accumulated in a single cost pool, one representative base may be substituted for the multiplicity of bases used in the allocation process. The net book value of service center facilities capital items appropriately allocated should be included in this column. The sum of the entries in Column 3 is equal to the entry in the undistributed line, Column 2.
+Business unit “undistributed” facilities are allocated to overhead and the G&A expense pools on any reasonable basis that approximates the actual absorption of depreciation or amortization of such facilities. For instance, the basis of allocation of undistributed assets in each business unit between; e.g., engineering overhead pool and the manufacturing overhead pool, should be related to the manner in which the expenses generated by these assets are allocated between the two overhead pools. Detailed analysis of this allocation is not required where essentially the same results can be obtained by other means. Where the cost accounting system for purposes of Government contract costing uses more than one “charging rate” for allocating indirect costs accumulated in a single cost pool, one representative base may be substituted for the multiplicity of bases used in the allocation process. The net book value of service center facilities capital items appropriately allocated should be included in this column. The sum of the entries in Column 3 is equal to the entry in the undistributed line, Column 2. 
 
-A supporting work sheet of this allocation should be prepared if there is more than one service center or other similar “intermediate” cost objective involved in the reallocation process.
+A supporting work sheet of this allocation should be prepared if there is more than one service center or other similar “intermediate” cost objective involved in the reallocation process. 
 
-Alternative Allocation Process—As an alternative to the above allocation process all the undistributed assets for one or more service centers or similar intermediate cost objectives may be allocated to the G&A expense pool. Consequently, the cost of money for these undistributed assets will be distributed to the final cost objectives on the same basis that is used to allocate G&A expense. This procedure may be adopted for any cost accounting period only when the contracting parties agree (a) that the depreciation or amortization generated by these undistributed assets is immaterial, or (b) that the results of this alternative procedure are not likely to differ materially from those which would be obtained under the “regular” allocation process described previously.
+Alternative Allocation Process—As an alternative to the above allocation process all the undistributed assets for one or more service centers or similar intermediate cost objectives may be allocated to the G&A expense pool. Consequently, the cost of money for these undistributed assets will be distributed to the final cost objectives on the same basis that is used to allocate G&A expense. This procedure may be adopted for any cost accounting period only when the contracting parties agree (a) that the depreciation or amortization generated by these undistributed assets is immaterial, or (b) that the results of this alternative procedure are not likely to differ materially from those which would be obtained under the “regular” allocation process described previously. 
 
 Total Net Book Value (Col. 4)
 
-The sum of Columns 2 and 3. The total of this column should agree with the business unit's total shown in Column 2.
+The sum of Columns 2 and 3. The total of this column should agree with the business unit's total shown in Column 2. 
 
 Cost of Money for the Cost Accounting Period (Col. 5)
 
-Multiply the amounts in Column 4 by the percentage rate in Column 1.
+Multiply the amounts in Column 4 by the percentage rate in Column 1. 
 
 Allocation Base for the Period (Col. 6)
 
-Show here the total units of measure used to allocate overhead and G&A expense pools (e.g., direct labor dollars, machine hours, total cost input, etc.). Include service centers that make charges to final cost objectives. Each base unit-of-measure must be compatible with the bases used for applying overhead in the Federal Government contract cost computation. The total base unit of measure used for allocation in this column refers to all work done in an organizational unit associated with the indirect cost pool and not to Government work alone.
+Show here the total units of measure used to allocate overhead and G&A expense pools (e.g., direct labor dollars, machine hours, total cost input, etc.). Include service centers that make charges to final cost objectives. Each base unit-of-measure must be compatible with the bases used for applying overhead in the Federal Government contract cost computation. The total base unit of measure used for allocation in this column refers to all work done in an organizational unit associated with the indirect cost pool and not to Government work alone. 
 
 Facilities Capital Cost of Money Factors (Col. 7)
 
@@ -52,19 +52,19 @@ The quotients of cost of money for the cost accounting period (Col. 5) separatel
 
 Appendix B to 9904.414—Example—ABC Corporation
 
-ABC Corporation has a home office that controls three operating divisions (Business Units A, B & C). The home office includes an administrative computer center whose costs are allocated separately to the business units. The separate allocation conforms to the requirements specified in the Cost Accounting Standard No. 403. Tables I through VI deal with home office expense allocations to business units.
+ABC Corporation has a home office that controls three operating divisions (Business Units A, B & C). The home office includes an administrative computer center whose costs are allocated separately to the business units. The separate allocation conforms to the requirements specified in the Cost Accounting Standard No. 403. Tables I through VI deal with home office expense allocations to business units. 
 
-The A Division is a business unit as defined by the CASB, and it uses one engineering and one manufacturing overhead pool to accumulate costs for charging overhead to final cost objectives. In addition, the indirect cost allocation process also uses two “service centers” with their own indirect cost pools: Occupancy and technical computer center.
+The A Division is a business unit as defined by the CASB, and it uses one engineering and one manufacturing overhead pool to accumulate costs for charging overhead to final cost objectives. In addition, the indirect cost allocation process also uses two “service centers” with their own indirect cost pools: Occupancy and technical computer center. 
 
-The costs accumulated in the occupancy pool are allocated among manufacturing overhead, engineering overhead, and the technical computer center on the basis of floor space occupied. The costs accumulated in the technical computer center cost pool are allocated to users on the basis of a CPU hourly rate. Some of these allocations are made to engineering or manufacturing overhead while others are allocated direct to final cost objectives.
+The costs accumulated in the occupancy pool are allocated among manufacturing overhead, engineering overhead, and the technical computer center on the basis of floor space occupied. The costs accumulated in the technical computer center cost pool are allocated to users on the basis of a CPU hourly rate. Some of these allocations are made to engineering or manufacturing overhead while others are allocated direct to final cost objectives. 
 
-At the business unit level, all the indirect expense incurred is regarded either as an engineering or manufacturing expense. Thus the sole item that enters into the business unit G&A expense pool is the allocation received by the A Division from the home office.
+At the business unit level, all the indirect expense incurred is regarded either as an engineering or manufacturing expense. Thus the sole item that enters into the business unit G&A expense pool is the allocation received by the A Division from the home office. 
 
-Operating results for the A Division are given in Table VII. Facilities capital items for the division are given in Table IX.
+Operating results for the A Division are given in Table VII. Facilities capital items for the division are given in Table IX. 
 
-The example is based on a single set of illustrative contract cost data given in Table VIII. Since two methods, the “regular” and the “alternative” method, are potentially available for computing cost of money on facilities capital items two sets of different results can be considered.
+The example is based on a single set of illustrative contract cost data given in Table VIII. Since two methods, the “regular” and the “alternative” method, are potentially available for computing cost of money on facilities capital items two sets of different results can be considered. 
 
-In addition, total cost input is used in the example as the allocation base for the G&A expense. Two variations of this example have been prepared to illustrate the impact of excluding or including cost of money from total cost input. Variation I, summarized in Table XIII, excludes cost of money from the cost input allocation base. Variation II, summarized in Tables XVII and XVIII, includes cost of money in the cost input allocation base.
+In addition, total cost input is used in the example as the allocation base for the G&A expense. Two variations of this example have been prepared to illustrate the impact of excluding or including cost of money from total cost input. Variation I, summarized in Table XIII, excludes cost of money from the cost input allocation base. Variation II, summarized in Tables XVII and XVIII, includes cost of money in the cost input allocation base. 
 
 Throughout the example, where appropriate, cross references have been made to the text of the relevant parts of the Standard.
 
@@ -84,7 +84,7 @@ Table II—Home Office Facilities Capital Annual Average Balances
 | Other home office facilities capital              | 400,000  |
 | Total                                             | 900,000  |
 
-The above averages are based on data in Table I computed in accordance with the criteria in Instructions for Form CASB CMF (Recorded, Leased Property, Corporate).
+The above averages are based on data in Table I computed in accordance with the criteria in Instructions for Form CASB CMF (Recorded, Leased Property, Corporate). 
 
 $970,000 + $830,000 = $1,800,000 12 = $900,000
 

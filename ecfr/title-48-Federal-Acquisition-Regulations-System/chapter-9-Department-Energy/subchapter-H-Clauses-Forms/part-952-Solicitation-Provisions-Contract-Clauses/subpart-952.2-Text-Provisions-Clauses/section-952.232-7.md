@@ -1,6 +1,6 @@
 ##### 952.232-7 Electronic submission of invoices/vouchers.
 
-As prescribed at 932.971, insert the following clause:
+As prescribed at 932.971, insert the following clause: 
 
 Electronic Submission of Invoices/Vouchers \[December 2024\]
 

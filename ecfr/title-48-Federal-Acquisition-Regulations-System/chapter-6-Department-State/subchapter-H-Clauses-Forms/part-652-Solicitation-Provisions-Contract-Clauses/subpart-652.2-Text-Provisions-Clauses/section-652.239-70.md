@@ -1,6 +1,6 @@
 ##### 652.239-70 Information Technology Security Plan and Accreditation.
 
-As prescribed in 639.107-70(a), insert the following provision:
+As prescribed in 639.107-70(a), insert the following provision: 
 
 Information Technology Security Plan and Accreditation (SEP 2007)
 

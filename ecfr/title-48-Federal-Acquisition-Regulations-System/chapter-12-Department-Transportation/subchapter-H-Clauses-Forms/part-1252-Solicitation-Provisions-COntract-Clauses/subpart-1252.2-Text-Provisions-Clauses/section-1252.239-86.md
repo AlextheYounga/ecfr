@@ -1,6 +1,6 @@
 ##### 1252.239-86 Boundary Protection—Trusted Internet Connections.
 
-As prescribed in 1239.7204(k), insert the clause as follows:
+As prescribed in 1239.7204(k), insert the clause as follows: 
 
 Boundary Protection—Trusted Internet Connections (NOV 2022)
 

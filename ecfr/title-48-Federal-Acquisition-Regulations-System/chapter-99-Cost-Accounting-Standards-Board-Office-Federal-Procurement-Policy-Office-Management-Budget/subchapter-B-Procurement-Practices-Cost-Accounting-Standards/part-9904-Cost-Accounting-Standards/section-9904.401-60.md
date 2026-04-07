@@ -1,6 +1,6 @@
 ##### 9904.401-60 Illustrations.
 
-(a) The following examples are illustrative of applications of cost accounting practices which are deemed to be consistent.
+(a) The following examples are illustrative of applications of cost accounting practices which are deemed to be consistent. 
 
 | Practices used in estimating costs for proposals                                                                                                                                                                                                              | Practices used in accumulating and reporting costs of contract performance                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -8,7 +8,7 @@
 | 2\. Contract estimates an average cost for minor standard hardware items, including nuts, bolts, washers, etc                                                                                                                                                 | 2\. Contractor records actual cost for minor standard hardware items based upon invoices or material transfer slips.                                                           |
 | 3\. Contractor uses an estimated rate for manufacturing overhead to be applied to an estimated direct labor base. He identifies the items included in his estimate of manufacturing overhead and provides supporting data for the estimated direct labor base | 3\. Contractor accounts for manufacturing overhead by individual items of cost which are accumulated in a cost pool allocated to final cost objectives on a direct labor base. |
 
-(b) The following examples are illustrative of application of cost accounting practices which are deemed not to be consistent.
+(b) The following examples are illustrative of application of cost accounting practices which are deemed not to be consistent. 
 
 | Practices used for estimating costs for proposals                                                                                                                                                                                                                                                                                                         | Practices used in accumulating and reporting costs of contract performance                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |

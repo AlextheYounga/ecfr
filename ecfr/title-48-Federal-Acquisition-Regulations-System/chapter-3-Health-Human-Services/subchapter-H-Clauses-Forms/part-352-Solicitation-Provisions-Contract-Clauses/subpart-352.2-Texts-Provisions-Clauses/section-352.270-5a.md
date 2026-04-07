@@ -1,6 +1,6 @@
 ##### 352.270-5a Notice to Offerors of Requirement for Compliance with the Public Health Service Policy on Humane Care and Use of Laboratory Animals.
 
-As prescribed in HHSAR 370.403(a), the Contracting Officer shall insert the following provision:
+As prescribed in HHSAR 370.403(a), the Contracting Officer shall insert the following provision: 
 
 Notice to Offerors of Requirement for Compliance with the Public Health Service Policy on Humane Care and Use of Laboratory Animals (DEC 2015)
 

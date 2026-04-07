@@ -1,6 +1,6 @@
 ##### 852.237-75 Key Personnel.
 
-As prescribed in 837.110-70(b), insert the following clause:
+As prescribed in 837.110-70(b), insert the following clause: 
 
 Key Personnel (OCT 2019)
 

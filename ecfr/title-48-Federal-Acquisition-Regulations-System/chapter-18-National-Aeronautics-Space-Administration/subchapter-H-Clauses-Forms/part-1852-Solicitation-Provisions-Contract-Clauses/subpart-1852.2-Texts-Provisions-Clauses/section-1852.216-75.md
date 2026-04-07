@@ -1,6 +1,6 @@
 ##### 1852.216-75 Payment of fixed fee.
 
-As prescribed in 1816.307-70(c), insert the following clause:
+As prescribed in 1816.307-70(c), insert the following clause: 
 
 Payment of Fixed Fee (DEC 1988)
 

@@ -1,6 +1,6 @@
 ##### 1452.227-70 Appeals of Use or Exceptions.
 
-As prescribed in 1427.303(d)(1), insert the following clause:
+As prescribed in 1427.303(d)(1), insert the following clause: 
 
 Appeals of Use of Exceptions (JUL 1996)
 

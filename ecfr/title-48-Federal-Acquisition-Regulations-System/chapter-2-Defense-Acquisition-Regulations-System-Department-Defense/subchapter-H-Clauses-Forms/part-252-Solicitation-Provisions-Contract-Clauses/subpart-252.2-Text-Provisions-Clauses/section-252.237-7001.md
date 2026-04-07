@@ -1,6 +1,6 @@
 ##### 252.237-7001 Compliance with audit standards.
 
-As prescribed in 237.270(e)(2), use the following clause:
+As prescribed in 237.270(e)(2), use the following clause: 
 
 Compliance With Audit Standards (MAY 2000)
 

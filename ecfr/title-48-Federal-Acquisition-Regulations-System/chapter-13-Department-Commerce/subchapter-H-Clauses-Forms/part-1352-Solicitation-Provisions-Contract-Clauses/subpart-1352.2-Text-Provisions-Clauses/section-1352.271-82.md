@@ -1,6 +1,6 @@
 ##### 1352.271-82 Department of Labor occupational safety and health standards for ship repair.
 
-As prescribed in 48 CFR 1371.113, insert the following clause:
+As prescribed in 48 CFR 1371.113, insert the following clause: 
 
 Department of Labor Occupational Safety and Health Standards for Ship Repair (APR 2010)
 

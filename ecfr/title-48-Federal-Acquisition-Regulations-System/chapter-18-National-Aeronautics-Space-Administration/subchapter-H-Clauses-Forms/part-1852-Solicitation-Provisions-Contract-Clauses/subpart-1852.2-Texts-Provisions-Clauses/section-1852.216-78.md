@@ -1,6 +1,6 @@
 ##### 1852.216-78 Firm fixed price.
 
-As prescribed in 1816.202-70, insert the following clause:
+As prescribed in 1816.202-70, insert the following clause: 
 
 Firm Fixed Price (DEC 1988)
 

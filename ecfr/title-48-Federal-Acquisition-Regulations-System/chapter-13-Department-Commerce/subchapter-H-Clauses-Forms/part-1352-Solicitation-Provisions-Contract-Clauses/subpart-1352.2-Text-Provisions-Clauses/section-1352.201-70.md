@@ -1,6 +1,6 @@
 ##### 1352.201-70 Contracting Officer's Authority.
 
-As prescribed in 48 CFR 1301.602-170, insert the following clause:
+As prescribed in 48 CFR 1301.602-170, insert the following clause: 
 
 Contracting Officer's Authority.
 

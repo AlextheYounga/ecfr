@@ -1,6 +1,6 @@
 ##### 852.246-73 Noncompliance with Packaging, Packing, and/or Marking Requirements.
 
-As prescribed in 846.370-3, insert the following clause:
+As prescribed in 846.370-3, insert the following clause: 
 
 Noncompliance With Packaging, Packing and/or Marking Requirements (OCT 2018)
 

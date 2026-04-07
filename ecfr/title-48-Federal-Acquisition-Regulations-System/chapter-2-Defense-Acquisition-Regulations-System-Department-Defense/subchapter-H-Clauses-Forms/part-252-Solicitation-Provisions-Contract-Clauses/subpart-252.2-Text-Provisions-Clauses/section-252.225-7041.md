@@ -1,6 +1,6 @@
 ##### 252.225-7041 Correspondence in English.
 
-As prescribed in 225.1103(2), use the following clause:
+As prescribed in 225.1103(2), use the following clause: 
 
 Correspondence in English (JUN 1997)
 

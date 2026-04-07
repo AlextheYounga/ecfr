@@ -1,6 +1,6 @@
 ##### 1252.228-72 Risk and Indemnities.
 
-As prescribed in 1228.306-70(a) and (d), insert the following clause:
+As prescribed in 1228.306-70(a) and (d), insert the following clause: 
 
 Risk and Indemnities (NOV 2022)
 

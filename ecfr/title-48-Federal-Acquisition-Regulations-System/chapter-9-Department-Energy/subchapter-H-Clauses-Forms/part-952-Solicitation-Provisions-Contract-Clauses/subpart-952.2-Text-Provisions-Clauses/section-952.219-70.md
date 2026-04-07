@@ -1,6 +1,6 @@
 ##### 952.219-70 DOE Mentor-Protege program.
 
-In accordance with 919.7014 insert the following provision in applicable solicitations.
+In accordance with 919.7014 insert the following provision in applicable solicitations. 
 
 DOE Mentor-Protege Program (MAY 2000)
 

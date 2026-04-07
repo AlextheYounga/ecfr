@@ -1,6 +1,6 @@
 ##### 1202.7000 General.
 
-The following abbreviations or acronyms may be used throughout the TAR and the agency's associated internal policies and procedures in the TAM—
+The following abbreviations or acronyms may be used throughout the TAR and the agency's associated internal policies and procedures in the TAM— 
 
 Table 1 to 1202.7000—Abbreviations and Acronyms
 | CFO   | Chief Financial Officer.                                |

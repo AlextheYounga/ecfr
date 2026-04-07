@@ -1,59 +1,59 @@
 ##### 242.202 Assignment of contract administration.
 
-(a)(i) DoD activities shall not retain any contract for administration that requires performance of any contract administration function at or near contractor facilities, except contracts for—
+(a)(i) DoD activities shall not retain any contract for administration that requires performance of any contract administration function at or near contractor facilities, except contracts for— 
 
-(A) The National Security Agency;
+(A) The National Security Agency; 
 
-(B) Research and development with universities;
+(B) Research and development with universities; 
 
-(C) Flight training;
+(C) Flight training; 
 
-(D) Management and professional support services;
+(D) Management and professional support services; 
 
-(E) Mapping, charting, and geodesy services;
+(E) Mapping, charting, and geodesy services; 
 
-(F) Base, post, camp, and station purchases;
+(F) Base, post, camp, and station purchases; 
 
-(G) Operation or maintenance of, or installation of equipment at, radar or communication network sites;
+(G) Operation or maintenance of, or installation of equipment at, radar or communication network sites; 
 
-(H) Communications services;
+(H) Communications services; 
 
-(I) Installation, operation, and maintenance of space-track sensors and relays;
+(I) Installation, operation, and maintenance of space-track sensors and relays; 
 
-(J) Dependents Medicare program contracts;
+(J) Dependents Medicare program contracts; 
 
-(K) Stevedoring contracts;
+(K) Stevedoring contracts; 
 
-(L) Construction and maintenance of military and civil public works, including harbors, docks, port facilities, military housing, development of recreational facilities, water resources, flood control, and public utilities;
+(L) Construction and maintenance of military and civil public works, including harbors, docks, port facilities, military housing, development of recreational facilities, water resources, flood control, and public utilities; 
 
-(M) Architect-engineer services;
+(M) Architect-engineer services; 
 
-(N) Airlift and sealift services (Air Mobility Command and Military Sealift Command may perform contract administration services at contractor locations involved solely in performance of airlift or sealift contracts);
+(N) Airlift and sealift services (Air Mobility Command and Military Sealift Command may perform contract administration services at contractor locations involved solely in performance of airlift or sealift contracts); 
 
-(O) Subsistence supplies;
+(O) Subsistence supplies; 
 
-(P) Ballistic missile sites (contract administration offices may perform supporting administration of these contracts at missile activation sites during the installation, test, and checkout of the missiles and associated equipment);
+(P) Ballistic missile sites (contract administration offices may perform supporting administration of these contracts at missile activation sites during the installation, test, and checkout of the missiles and associated equipment); 
 
-(Q) Operation and maintenance of, or installation of equipment at, military test ranges, facilities, and installations; and
+(Q) Operation and maintenance of, or installation of equipment at, military test ranges, facilities, and installations; and 
 
-(R) The Defense Energy Support Center, Defense Logistics Agency.
+(R) The Defense Energy Support Center, Defense Logistics Agency. 
 
-(ii) Contract administration functions for base, post, camp, and station contracts on a military installation are normally the responsibility of the installation or tenant commander. However, the Defense Contract Management Agency (DCMA) shall, upon request of the military department, and subject to prior agreement, perform contract administration services on a military installation.
+(ii) Contract administration functions for base, post, camp, and station contracts on a military installation are normally the responsibility of the installation or tenant commander. However, the Defense Contract Management Agency (DCMA) shall, upon request of the military department, and subject to prior agreement, perform contract administration services on a military installation. 
 
-(iii) DCMA shall provide preaward survey assistance for post, camp, and station work performed on a military installation. The contracting office and the DCMA preaward survey monitor should jointly determine the scope of the survey and individual responsibilities.
+(iii) DCMA shall provide preaward survey assistance for post, camp, and station work performed on a military installation. The contracting office and the DCMA preaward survey monitor should jointly determine the scope of the survey and individual responsibilities. 
 
-(iv) To avoid duplication, contracting offices shall not locate their personnel at contractor facilities, except—
+(iv) To avoid duplication, contracting offices shall not locate their personnel at contractor facilities, except— 
 
-(A) In support of contracts retained for administration in accordance with paragraph (a)(i) of this section; or
+(A) In support of contracts retained for administration in accordance with paragraph (a)(i) of this section; or 
 
-(B) As permitted under subpart 242.74.
+(B) As permitted under subpart 242.74. 
 
-(e)(1)(A) In special circumstances, a contract administration office may request support from a component not listed in the Federal Directory of Contract Administration Services Components (available via the internet at *https://piee.eb.mil/pcm/xhtml/unauth/index.xhtml*).
+(e)(1)(A) In special circumstances, a contract administration office may request support from a component not listed in the Federal Directory of Contract Administration Services Components (available via the internet at *https://piee.eb.mil/pcm/xhtml/unauth/index.xhtml*). 
 
-(B) When requesting support on a subcontract that includes foreign contract military sale (FMS) requirements, the contract administration office shall—
+(B) When requesting support on a subcontract that includes foreign contract military sale (FMS) requirements, the contract administration office shall— 
 
-(*1*) Mark “FMS Requirement” on the face of the documents; and
+(*1*) Mark “FMS Requirement” on the face of the documents; and 
 
-(*2*) For each FMS case involved, provide the FMS case identifier, associated item quantities, DoD prime contract number, and prime contract line/subline item number.
+(*2*) For each FMS case involved, provide the FMS case identifier, associated item quantities, DoD prime contract number, and prime contract line/subline item number. 
 
 \[64 FR 61029, Nov. 9, 1999, as amended at 65 FR 52953, Aug. 31, 2000; 66 FR 49861, Oct. 1, 2001; 66 FR 63335, Dec. 6, 2001; 70 FR 52034, Sept. 1, 2005; 70 FR 67920, Nov. 9, 2005; 77 FR 23632, Apr. 20, 2012; 86 FR 27278, May 20, 2021\]

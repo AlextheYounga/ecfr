@@ -1,6 +1,6 @@
 ##### 1653.000 FEHBP forms.
 
-The following forms specified in FAR subparts 53.2 and 53.3 are applicable to FEHBP acquisitions:
+The following forms specified in FAR subparts 53.2 and 53.3 are applicable to FEHBP acquisitions: 
 
 | Part 53.2   | Part 53.3    | Form title                                                    |
 | ----------- | ------------ | ------------------------------------------------------------- |

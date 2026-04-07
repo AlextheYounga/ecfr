@@ -1,6 +1,6 @@
 ##### 1852.216-81 Estimated cost.
 
-As prescribed in 1816.307-70(d), insert the following clause:
+As prescribed in 1816.307-70(d), insert the following clause: 
 
 Estimated cost (DEC 1988)
 

@@ -1,6 +1,6 @@
 ##### 652.229-71 Personal Property Disposition at Posts Abroad.
 
-As prescribed in 629.402-1-70, insert the following clause:
+As prescribed in 629.402-1-70, insert the following clause: 
 
 Personal Property Disposition at Posts Abroad (AUG 1999)
 

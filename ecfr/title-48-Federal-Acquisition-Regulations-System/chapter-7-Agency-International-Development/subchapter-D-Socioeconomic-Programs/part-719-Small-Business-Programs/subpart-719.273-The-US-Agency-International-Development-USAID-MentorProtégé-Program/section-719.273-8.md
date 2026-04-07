@@ -1,25 +1,25 @@
 ##### 719.273-8 Developmental assistance.
 
-The forms of developmental assistance a Mentor can provide to a Protégé include and are not limited to the following:
+The forms of developmental assistance a Mentor can provide to a Protégé include and are not limited to the following: 
 
-(a) Guidance relating to—
+(a) Guidance relating to— 
 
-(1) Financial management;
+(1) Financial management; 
 
-(2) Organizational management;
+(2) Organizational management; 
 
-(3) Overall business management/planning;
+(3) Overall business management/planning; 
 
-(4) Business development; and
+(4) Business development; and 
 
-(5) Technical assistance.
+(5) Technical assistance. 
 
-(b) Loans;
+(b) Loans; 
 
-(c) Rent-free use of facilities and/or equipment;
+(c) Rent-free use of facilities and/or equipment; 
 
-(d) Property;
+(d) Property; 
 
-(e) Temporary assignment of personnel to a Protégé for training; and
+(e) Temporary assignment of personnel to a Protégé for training; and 
 
 (f) Any other types of permissible, mutually beneficial assistance.

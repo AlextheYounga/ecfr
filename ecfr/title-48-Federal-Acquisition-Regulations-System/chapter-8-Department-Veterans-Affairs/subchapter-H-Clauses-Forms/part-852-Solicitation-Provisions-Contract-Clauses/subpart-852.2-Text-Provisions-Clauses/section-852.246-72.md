@@ -1,6 +1,6 @@
 ##### 852.246-72 Frozen Processed Foods.
 
-As prescribed in 846.370-2, insert the following clause:
+As prescribed in 846.370-2, insert the following clause: 
 
 Frozen Processed Foods (OCT 2018)
 

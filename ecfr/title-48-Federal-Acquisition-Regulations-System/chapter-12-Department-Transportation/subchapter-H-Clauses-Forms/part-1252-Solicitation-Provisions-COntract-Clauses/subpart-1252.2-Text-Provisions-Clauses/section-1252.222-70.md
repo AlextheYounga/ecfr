@@ -1,6 +1,6 @@
 ##### 1252.222-70 Strikes or Picketing Affecting Timely Completion of the Contract Work.
 
-As prescribed in 1222.101-71(a), insert the following clause:
+As prescribed in 1222.101-71(a), insert the following clause: 
 
 Strikes or Picketing Affecting Timely Completion of the Contract Work (NOV 2022)
 

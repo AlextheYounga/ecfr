@@ -1,6 +1,6 @@
 ##### 3052.231-70 Precontract costs.
 
-As prescribed in (HSAR) 48 CFR 3031.205-32, insert the following clause:
+As prescribed in (HSAR) 48 CFR 3031.205-32, insert the following clause: 
 
 Precontract Costs (DEC 2003)
 

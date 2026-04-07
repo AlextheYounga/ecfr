@@ -1,6 +1,6 @@
 ##### 1552.233-70 Notice of filing requirements for agency protests.
 
-As prescribed in 1533.103, insert the following provision in all types of solicitations:
+As prescribed in 1533.103, insert the following provision in all types of solicitations: 
 
 Notice of Filing Requirements for Agency Protests (JUL 1999)
 

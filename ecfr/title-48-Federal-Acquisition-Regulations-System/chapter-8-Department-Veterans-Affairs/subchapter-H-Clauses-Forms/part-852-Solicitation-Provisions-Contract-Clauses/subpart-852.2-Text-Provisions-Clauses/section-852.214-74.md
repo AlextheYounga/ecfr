@@ -1,6 +1,6 @@
 ##### 852.214-74 Marking of Bid Samples.
 
-As prescribed in 814.201-6(b), insert the following provision:
+As prescribed in 814.201-6(b), insert the following provision: 
 
 Marking of Bid Samples (MAY 2018)
 

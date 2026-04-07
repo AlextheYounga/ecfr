@@ -1,6 +1,6 @@
 ##### 3052.223-70 Removal or disposal of hazardous substances—applicable licenses and permits.
 
-As prescribed in (HSAR) 48 CFR 3023.303, insert the following clause:
+As prescribed in (HSAR) 48 CFR 3023.303, insert the following clause: 
 
 Removal or Disposal of Hazardous Substances—Applicable Licenses and Permits (JUN 2006)
 

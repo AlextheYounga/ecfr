@@ -1,6 +1,6 @@
 ##### 3452.233-70 Agency level protests.
 
-As prescribed in 3433.103, insert the following clause:
+As prescribed in 3433.103, insert the following clause: 
 
 Agency Level Protests (OCT 2023)
 

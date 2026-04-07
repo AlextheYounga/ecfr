@@ -1,6 +1,6 @@
 ##### 2152.215-70 Contractor records retention.
 
-As prescribed in 2115.071, insert the following clause:
+As prescribed in 2115.071, insert the following clause: 
 
 Contractor Records Retention (OCT 2005)
 

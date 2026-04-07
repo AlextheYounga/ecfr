@@ -1,6 +1,6 @@
 ##### 1452.237-70 Information Collection.
 
-As prescribed in 1437.7102, insert the following clause:
+As prescribed in 1437.7102, insert the following clause: 
 
 Information Collection—Department of the Interior (JUL 1996)
 

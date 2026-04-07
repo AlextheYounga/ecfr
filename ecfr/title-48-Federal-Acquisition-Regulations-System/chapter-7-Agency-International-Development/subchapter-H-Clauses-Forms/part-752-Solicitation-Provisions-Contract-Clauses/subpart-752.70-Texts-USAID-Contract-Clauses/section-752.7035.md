@@ -1,6 +1,6 @@
 ##### 752.7035 Public notices.
 
-The following clause is for use when the contracting officer's representative determines that the contract is of public interest, and that both the public and the Government would benefit from public notices concerning the contract, and requests that the contracting officer include the clause in the contract.
+The following clause is for use when the contracting officer's representative determines that the contract is of public interest, and that both the public and the Government would benefit from public notices concerning the contract, and requests that the contracting officer include the clause in the contract. 
 
 Public Notices (DEC 1991)
 

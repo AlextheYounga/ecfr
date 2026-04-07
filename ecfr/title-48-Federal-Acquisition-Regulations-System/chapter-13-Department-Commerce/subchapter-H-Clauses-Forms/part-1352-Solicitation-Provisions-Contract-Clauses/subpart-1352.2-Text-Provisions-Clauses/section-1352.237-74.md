@@ -1,6 +1,6 @@
 ##### 1352.237-74 Progress reports.
 
-As prescribed in 48 CFR 1337.110-71(a), insert the following clause:
+As prescribed in 48 CFR 1337.110-71(a), insert the following clause: 
 
 Progress Reports (APR 2010)
 

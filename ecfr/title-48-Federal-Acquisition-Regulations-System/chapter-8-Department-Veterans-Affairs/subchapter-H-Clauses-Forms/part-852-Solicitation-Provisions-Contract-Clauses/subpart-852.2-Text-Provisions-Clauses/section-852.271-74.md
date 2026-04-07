@@ -1,6 +1,6 @@
 ##### 852.271-74 Inspection of Instruction, Counseling or Testing Operations.
 
-As prescribed in 871.211, insert the following clause:
+As prescribed in 871.211, insert the following clause: 
 
 Inspection of Instruction, Counseling or Testing Operations (NOV 2021)
 

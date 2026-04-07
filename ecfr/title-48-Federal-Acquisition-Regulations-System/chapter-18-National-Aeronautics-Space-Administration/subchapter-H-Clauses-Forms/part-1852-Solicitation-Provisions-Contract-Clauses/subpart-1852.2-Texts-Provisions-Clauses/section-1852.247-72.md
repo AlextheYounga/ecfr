@@ -1,6 +1,6 @@
 ##### 1852.247-72 Advance notice of shipment.
 
-As prescribed in 1847.305-70(a), insert the following clause:
+As prescribed in 1847.305-70(a), insert the following clause: 
 
 Advance Notice of Shipment (OCT 1988)
 

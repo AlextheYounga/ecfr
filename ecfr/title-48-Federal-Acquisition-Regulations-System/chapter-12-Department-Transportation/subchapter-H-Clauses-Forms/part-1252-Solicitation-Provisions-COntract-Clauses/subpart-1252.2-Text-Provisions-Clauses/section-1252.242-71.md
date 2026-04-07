@@ -1,6 +1,6 @@
 ##### 1252.242-71 Contractor Testimony.
 
-As prescribed in 1242.270(b), insert the following clause:
+As prescribed in 1242.270(b), insert the following clause: 
 
 Contractor Testimony (NOV 2022)
 

@@ -1,6 +1,6 @@
 ##### 1352.216-75 Minimum and maximum contract amounts.
 
-As prescribed in 48 CFR 1316.506(a), insert the following clause:
+As prescribed in 48 CFR 1316.506(a), insert the following clause: 
 
 Minimum and Maximum Contract Amounts (APR 2010)
 

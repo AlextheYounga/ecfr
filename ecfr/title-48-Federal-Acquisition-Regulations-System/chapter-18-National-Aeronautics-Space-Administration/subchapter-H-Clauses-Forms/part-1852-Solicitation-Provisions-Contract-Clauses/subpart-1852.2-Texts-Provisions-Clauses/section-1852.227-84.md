@@ -1,6 +1,6 @@
 ##### 1852.227-84 Patent Rights Clauses.
 
-As prescribed in 1827.303(a)(1), the contracting officer shall insert the following provision in solicitations for experimental, developmental, or research work to be performed in the United States when the eventual awardee may be a small business or a nonprofit organization:
+As prescribed in 1827.303(a)(1), the contracting officer shall insert the following provision in solicitations for experimental, developmental, or research work to be performed in the United States when the eventual awardee may be a small business or a nonprofit organization: 
 
 Patent Rights Clauses (APR 2015)
 

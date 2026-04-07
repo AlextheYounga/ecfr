@@ -1,6 +1,6 @@
 ##### 1352.231-71 Duplication of effort.
 
-As prescribed in 48 CFR 1331.205-70, insert the following clause:
+As prescribed in 48 CFR 1331.205-70, insert the following clause: 
 
 Duplication of Effort (APR 2010)
 

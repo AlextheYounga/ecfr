@@ -1,6 +1,6 @@
 ##### 3052.222-70 Strikes or picketing affecting timely completion of the contract work.
 
-As prescribed in (HSAR) 48 CFR 3022.101-71(a), insert the following clause:
+As prescribed in (HSAR) 48 CFR 3022.101-71(a), insert the following clause: 
 
 Strikes or Picketing Affecting Timely Completion of the Contract Work (DEC 2003)
 

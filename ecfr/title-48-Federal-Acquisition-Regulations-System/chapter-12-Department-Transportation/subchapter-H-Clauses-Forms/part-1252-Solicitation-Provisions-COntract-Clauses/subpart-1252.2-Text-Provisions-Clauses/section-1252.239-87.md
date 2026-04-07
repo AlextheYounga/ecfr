@@ -1,6 +1,6 @@
 ##### 1252.239-87 Protection of Information at Rest.
 
-As prescribed in 1239.7204(l), insert the clause as follows:
+As prescribed in 1239.7204(l), insert the clause as follows: 
 
 Protection of Information at Rest and in Transit (NOV 2022)
 

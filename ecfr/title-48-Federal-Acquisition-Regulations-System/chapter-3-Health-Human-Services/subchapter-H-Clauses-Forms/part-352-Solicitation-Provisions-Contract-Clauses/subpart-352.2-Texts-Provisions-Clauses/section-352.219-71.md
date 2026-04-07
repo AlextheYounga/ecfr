@@ -1,6 +1,6 @@
 ##### 352.219-71 Mentor-Protégé Program Reporting Requirements.
 
-As prescribed in HHSAR 319.270-1(b), the Contracting Officer shall insert the following clause:
+As prescribed in HHSAR 319.270-1(b), the Contracting Officer shall insert the following clause: 
 
 Mentor-Protégé Program Reporting Requirements (January 2010)
 

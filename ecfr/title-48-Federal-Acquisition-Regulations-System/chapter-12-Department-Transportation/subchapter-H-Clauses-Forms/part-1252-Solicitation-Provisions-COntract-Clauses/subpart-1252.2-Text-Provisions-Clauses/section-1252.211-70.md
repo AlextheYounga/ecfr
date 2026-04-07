@@ -1,6 +1,6 @@
 ##### 1252.211-70 Index for Specifications.
 
-As prescribed in 1211.204-70, insert the following clause:
+As prescribed in 1211.204-70, insert the following clause: 
 
 Index for Specifications (NOV 2022)
 

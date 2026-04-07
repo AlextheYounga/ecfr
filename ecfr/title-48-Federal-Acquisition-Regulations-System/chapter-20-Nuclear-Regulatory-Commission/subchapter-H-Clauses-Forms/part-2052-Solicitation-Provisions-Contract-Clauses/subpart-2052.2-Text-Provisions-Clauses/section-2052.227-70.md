@@ -1,6 +1,6 @@
 ##### 2052.227-70 Drawings, designs, specifications, and other data.
 
-As prescribed at 2027.305-70, the contracting officer shall insert the following clause in all solicitations and contracts in which drawings, designs, specifications, and other data will be developed and the NRC must retain full rights to them (except for the contractor's right to retain a copy for its own use). When any of the clauses prescribed at FAR 27.409 are included in the solicitation and contract, this clause will not be used.
+As prescribed at 2027.305-70, the contracting officer shall insert the following clause in all solicitations and contracts in which drawings, designs, specifications, and other data will be developed and the NRC must retain full rights to them (except for the contractor's right to retain a copy for its own use). When any of the clauses prescribed at FAR 27.409 are included in the solicitation and contract, this clause will not be used. 
 
 Drawings, Designs, Specifications, and Other Data (JAN 1993)
 

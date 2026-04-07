@@ -1,12 +1,12 @@
 ##### 915.404-4850 Fee schedules.
 
-(a) The schedules included in this paragraph, adjusted in accordance with provisions of this section and 915.404-4860, provide maximum fee levels for construction and construction management contracts. The fees are related to the estimated cost (fee base) for the construction work and services to be performed. The schedule in paragraph (d) of this section sets forth the basic fee schedule for construction contracts. The schedule in paragraph (f) of this section sets forth the basic fee schedule for construction management contracts. A separate schedule in paragraph (h) of this section has been developed for determining the fee applicable to special equipment purchases and to reflect a differing level of fee consideration associated with the subcontractor effort under construction management contracts. (See 915.404-4860(c) and (d).
+(a) The schedules included in this paragraph, adjusted in accordance with provisions of this section and 915.404-4860, provide maximum fee levels for construction and construction management contracts. The fees are related to the estimated cost (fee base) for the construction work and services to be performed. The schedule in paragraph (d) of this section sets forth the basic fee schedule for construction contracts. The schedule in paragraph (f) of this section sets forth the basic fee schedule for construction management contracts. A separate schedule in paragraph (h) of this section has been developed for determining the fee applicable to special equipment purchases and to reflect a differing level of fee consideration associated with the subcontractor effort under construction management contracts. (See 915.404-4860(c) and (d). 
 
-(b) The schedules cited in paragraph (a) of this section provide the maximum fee amount for a CPFF contract arrangement. If a fixed-price type contract is to be awarded, the fee amount set forth in the fee schedules shall be increased by an amount not to exceed 4 percent of the fee base.
+(b) The schedules cited in paragraph (a) of this section provide the maximum fee amount for a CPFF contract arrangement. If a fixed-price type contract is to be awarded, the fee amount set forth in the fee schedules shall be increased by an amount not to exceed 4 percent of the fee base. 
 
-(c) The fee schedule shown in paragraphs (d) and (f) of this section assumes a letter of credit financing arrangement. If a contract provides for or requires the contractor to make their own cost investment for contract performance (i.e., when there is no letter-of-credit financing), the fee amounts set forth in the fee schedules shall be increased by an amount equal to 5 percent of the fee amount as determined from the schedules.
+(c) The fee schedule shown in paragraphs (d) and (f) of this section assumes a letter of credit financing arrangement. If a contract provides for or requires the contractor to make their own cost investment for contract performance (i.e., when there is no letter-of-credit financing), the fee amounts set forth in the fee schedules shall be increased by an amount equal to 5 percent of the fee amount as determined from the schedules. 
 
-(d) The following schedule sets forth the base for construction contracts:
+(d) The following schedule sets forth the base for construction contracts: 
 
 Construction Contracts Schedule
 | Fee base (dollars) | Fee (dollars) | Fee (per cent) | Incr. (per cent) |
@@ -29,15 +29,15 @@ Construction Contracts Schedule
 | 500,000,000        | 5,148,364     | 1.03           |                  |
 | Over $500 Million  | 5,148,364     |                | 0.57             |
 
-(e) When using the Construction Contracts Schedule for establishing maximum payable basic fees, the following adjustments shall be made to the Schedule fee amounts for complexity levels, excessive subcontracting, normal contractor services performed by the government or another contractor:
+(e) When using the Construction Contracts Schedule for establishing maximum payable basic fees, the following adjustments shall be made to the Schedule fee amounts for complexity levels, excessive subcontracting, normal contractor services performed by the government or another contractor: 
 
-(1) The target fee amounts, set forth in the fee schedule, shall not be adjusted for a Class A project, which is maximum complexity. A Class B project requires a 10 percent reduction in amounts. Class C and D projects require a 20 percent and 30 percent reduction, respectively. The various classes are defined in 915.404-4840(b).
+(1) The target fee amounts, set forth in the fee schedule, shall not be adjusted for a Class A project, which is maximum complexity. A Class B project requires a 10 percent reduction in amounts. Class C and D projects require a 20 percent and 30 percent reduction, respectively. The various classes are defined in 915.404-4840(b). 
 
-(2) The target fee schedule provides for 45 percent of the contract work to be subcontracted for such things as electrical and other specialties. Excessive subcontracting results when such efforts exceed 45 percent of the total contract work. To establish appropriate fee reductions for excessive subcontracting, the negotiating official should first determine the amount of subcontracting as a percentage of the total contract work. Next, the negotiating official should determine a percentage by which the prime contractor's normal requirement (based on a requirement for doing work with its own forces) is reduced due to the excessive subcontracting and, finally, multiply the two percentages to determine a fee reduction factor.
+(2) The target fee schedule provides for 45 percent of the contract work to be subcontracted for such things as electrical and other specialties. Excessive subcontracting results when such efforts exceed 45 percent of the total contract work. To establish appropriate fee reductions for excessive subcontracting, the negotiating official should first determine the amount of subcontracting as a percentage of the total contract work. Next, the negotiating official should determine a percentage by which the prime contractor's normal requirement (based on a requirement for doing work with its own forces) is reduced due to the excessive subcontracting and, finally, multiply the two percentages to determine a fee reduction factor. 
 
-(3) If acquisition or other services normally expected of the contractor (see 915.404-4-71-4(c)) are performed by the government, or another DOE prime or operating contractor, a fee reduction may also be required. The negotiating official should first determine what percentage of the total procurement or other required services is performed by others. Then the negotiating official should apply this percentage reduction to the normally assigned weightings for the management services or effort as discussed in 915.404-4840(c) to arrive at the appropriate reduction factor.
+(3) If acquisition or other services normally expected of the contractor (see 915.404-4-71-4(c)) are performed by the government, or another DOE prime or operating contractor, a fee reduction may also be required. The negotiating official should first determine what percentage of the total procurement or other required services is performed by others. Then the negotiating official should apply this percentage reduction to the normally assigned weightings for the management services or effort as discussed in 915.404-4840(c) to arrive at the appropriate reduction factor. 
 
-(f) The following schedule sets forth the base for construction management contracts:
+(f) The following schedule sets forth the base for construction management contracts: 
 
 Construction Management Contracts Schedule
 | Fee base (dollars) | Fee (dollars) | Fee (per cent) | Incr. (per cent) |
@@ -60,15 +60,15 @@ Construction Management Contracts Schedule
 | 500,000,000        | 5,148,364     | 1.03           |                  |
 | Over $500 Million  | 5,148,364     |                | 0.57             |
 
-(g) When applying the basic Construction Management Contracts Schedule for determining maximum payable fees, no adjustments are necessary to such payable fees for contractor Force account labor used for work which should otherwise be subcontracted until such Force account work exceeds, in the aggregate, 20 percent of the base. Excessive use of Force account work results when such effort exceeds 20 percent of the fee base; and, when this occurs, appropriate fee reductions for such excessive Force account labor shall be computed as follows:
+(g) When applying the basic Construction Management Contracts Schedule for determining maximum payable fees, no adjustments are necessary to such payable fees for contractor Force account labor used for work which should otherwise be subcontracted until such Force account work exceeds, in the aggregate, 20 percent of the base. Excessive use of Force account work results when such effort exceeds 20 percent of the fee base; and, when this occurs, appropriate fee reductions for such excessive Force account labor shall be computed as follows: 
 
-(1) Determine the percentage amount of Force account work to total contractor effort.
+(1) Determine the percentage amount of Force account work to total contractor effort. 
 
-(2) Determine the percentage amount of subcontract work reduced due to the use of Force account work.
+(2) Determine the percentage amount of subcontract work reduced due to the use of Force account work. 
 
-(3) Multiply the two percentages to determine the fee reduction factor. It is not expected that reductions in the Construction Management Contracts Schedule fee amounts will be made for complexity, reduced requirements and similar adjustments as made for construction contracts.
+(3) Multiply the two percentages to determine the fee reduction factor. It is not expected that reductions in the Construction Management Contracts Schedule fee amounts will be made for complexity, reduced requirements and similar adjustments as made for construction contracts. 
 
-(h) The schedule of fees for consideration of special equipment purchases and for consideration of the subcontract program under a construction management contract is as follows:
+(h) The schedule of fees for consideration of special equipment purchases and for consideration of the subcontract program under a construction management contract is as follows: 
 
 Special Equipment Purchases/Subcontract Work Schedule
 | Fee base (dollars) | Fee (dollars) | Fee (per cent) | Incr. (per cent) |

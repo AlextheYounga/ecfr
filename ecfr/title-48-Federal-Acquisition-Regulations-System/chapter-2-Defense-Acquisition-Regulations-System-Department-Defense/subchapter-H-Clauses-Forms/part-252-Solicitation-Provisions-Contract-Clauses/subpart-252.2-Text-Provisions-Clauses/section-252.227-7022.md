@@ -1,6 +1,6 @@
 ##### 252.227-7022 Government rights (unlimited).
 
-As prescribed at 227.7107-1(a), use the following clause:
+As prescribed at 227.7107-1(a), use the following clause: 
 
 Government Rights (Unlimited) (MAR 1979)
 

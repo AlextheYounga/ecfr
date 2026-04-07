@@ -1,6 +1,6 @@
 ##### 852.215-72 Notice of Intent to Re-Solicit.
 
-As prescribed at 815.370-5, use the following provision:
+As prescribed at 815.370-5, use the following provision: 
 
 Notice of Intent to Re-Solicit (OCT 2019)
 

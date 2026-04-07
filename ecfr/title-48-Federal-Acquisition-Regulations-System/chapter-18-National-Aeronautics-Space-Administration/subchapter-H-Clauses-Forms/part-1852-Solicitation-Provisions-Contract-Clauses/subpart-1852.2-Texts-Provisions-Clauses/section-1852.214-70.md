@@ -1,6 +1,6 @@
 ##### 1852.214-70 Caution to offerors furnishing descriptive literature.
 
-As prescribed in 1814.201-670(a), insert the following provision:
+As prescribed in 1814.201-670(a), insert the following provision: 
 
 Caution to Offerors Furnishing Descriptive Literature (DEC 1988)
 

@@ -1,6 +1,6 @@
 ##### 352.237-74 Non-Discrimination in Service Delivery.
 
-As prescribed in HHSAR 337.103(e), the Contracting Officer shall insert the following clause in solicitations and contracts:
+As prescribed in HHSAR 337.103(e), the Contracting Officer shall insert the following clause in solicitations and contracts: 
 
 Non-Discrimination In Service Delivery (DEC 2015)
 

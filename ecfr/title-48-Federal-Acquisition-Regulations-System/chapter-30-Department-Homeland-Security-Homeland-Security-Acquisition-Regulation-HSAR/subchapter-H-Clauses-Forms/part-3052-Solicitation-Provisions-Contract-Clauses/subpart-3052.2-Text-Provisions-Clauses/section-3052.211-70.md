@@ -1,6 +1,6 @@
 ##### 3052.211-70 Index for specifications.
 
-As prescribed in (HSAR) 48 CFR 3011.204-70 insert the following clause:
+As prescribed in (HSAR) 48 CFR 3011.204-70 insert the following clause: 
 
 Index for Specifications (DEC 2003)
 

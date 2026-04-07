@@ -1,6 +1,6 @@
 ##### 1352.215-73 Evaluation quantities—indefinite quantity contract.
 
-As prescribed in 48 CFR 1315.204-570(b)(1), insert the following provision:
+As prescribed in 48 CFR 1315.204-570(b)(1), insert the following provision: 
 
 Evaluation Quantities—Indefinite Quantity Contract (Date)
 

@@ -1,6 +1,6 @@
 ##### 552.211-80 Age on Delivery.
 
-As prescribed in 511.404(a)(1) insert the following clause:
+As prescribed in 511.404(a)(1) insert the following clause: 
 
 Age on Delivery (FEB 1996)
 

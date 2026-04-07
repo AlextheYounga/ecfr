@@ -1,6 +1,6 @@
 ##### 1252.223-73 Seat Belt Use Policies and Programs.
 
-As prescribed in 1223.7000(c), insert the following clause:
+As prescribed in 1223.7000(c), insert the following clause: 
 
 Seat Belt Use Policies and Programs (NOV 2022)
 

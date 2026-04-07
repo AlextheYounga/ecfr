@@ -1,6 +1,6 @@
 ##### 2852.203-70 General Non-Disclosure Agreement.
 
-As prescribed in JAR 2803.908-70, insert the following provision:
+As prescribed in JAR 2803.908-70, insert the following provision: 
 
 General Non-Discloure Agreement (AUG 2016)
 

@@ -1,6 +1,6 @@
 ##### 1252.239-82 Identification and Authentication (Non-Organizational Users).
 
-As prescribed in 1239.7204(g), insert the following clause:
+As prescribed in 1239.7204(g), insert the following clause: 
 
 Identification and Authentication (Non-Organizational Users) (NOV 2022)
 

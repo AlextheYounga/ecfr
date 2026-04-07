@@ -1,6 +1,6 @@
 ##### 3052.222-71 Strikes or picketing affecting access to a DHS facility.
 
-As prescribed in (HSAR) 48 CFR 3022.101-71(b), insert the following clause:
+As prescribed in (HSAR) 48 CFR 3022.101-71(b), insert the following clause: 
 
 Strikes or Picketing Affecting Access to a DHS Facility (DEC 2003)
 

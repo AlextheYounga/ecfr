@@ -1,6 +1,6 @@
 ##### 1852.232-82 Submission of requests for progress payments.
 
-As prescribed in 1832.502-470, insert the following clause:
+As prescribed in 1832.502-470, insert the following clause: 
 
 Submission of Requests for Progress Payments (MAR 1989)
 

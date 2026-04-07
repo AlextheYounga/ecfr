@@ -1,8 +1,8 @@
 ##### 301.106 Office of Management and Budget approval under the Paperwork Reduction Act.
 
-(a) The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 *et seq.*) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting the same information from 10 or more members of the public.
+(a) The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 *et seq.*) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting the same information from 10 or more members of the public. 
 
-(b) The following OMB control numbers apply to the information collection and recordkeeping requirements contained in this chapter:
+(b) The following OMB control numbers apply to the information collection and recordkeeping requirements contained in this chapter: 
 
 | HHSAR Segment | OMB Control No. |
 | ------------- | --------------- |

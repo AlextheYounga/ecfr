@@ -1,6 +1,6 @@
 ##### 852.228-70 Bond Premium Adjustment.
 
-As prescribed in 828.106-70, insert the following clause:
+As prescribed in 828.106-70, insert the following clause: 
 
 Bond Premium Adjustment (JAN 2008)
 

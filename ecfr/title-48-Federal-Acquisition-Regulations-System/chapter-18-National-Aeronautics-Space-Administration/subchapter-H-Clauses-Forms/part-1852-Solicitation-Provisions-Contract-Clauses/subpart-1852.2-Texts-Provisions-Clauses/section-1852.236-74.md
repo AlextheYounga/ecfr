@@ -1,6 +1,6 @@
 ##### 1852.236-74 Magnitude of requirement.
 
-As prescribed in 1836.570(d), insert the following provision:
+As prescribed in 1836.570(d), insert the following provision: 
 
 Magnitude of Requirement (DEC 1988)
 

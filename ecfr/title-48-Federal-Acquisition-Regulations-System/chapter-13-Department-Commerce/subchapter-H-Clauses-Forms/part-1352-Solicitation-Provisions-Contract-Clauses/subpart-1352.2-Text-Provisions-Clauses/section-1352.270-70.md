@@ -1,12 +1,12 @@
 ##### 1352.270-70 Period of performance.
 
-As prescribed in 48 CFR 1370.101, insert the following clause:
+As prescribed in 48 CFR 1370.101, insert the following clause: 
 
 Period of Performance (APR 2010)
 
-(a) The base period of performance of this contract is from \_\_\_\_\_\_\_\_ through \_\_\_\_\_\_\_\_. If an option is exercised, the period of performance shall be extended through the end of that option period.
+(a) The base period of performance of this contract is from \_\_\_\_\_\_\_\_ through \_\_\_\_\_\_\_\_. If an option is exercised, the period of performance shall be extended through the end of that option period. 
 
-(b) The option periods that may be exercised are as follows:
+(b) The option periods that may be exercised are as follows: 
 
 | Period     | Start date | End date |
 | ---------- | ---------- | -------- |

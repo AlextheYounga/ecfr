@@ -1,6 +1,6 @@
 ##### 1852.219-82 Limitation on subcontracting—STTR program.
 
-As prescribed in 1819.7302(c), insert the following clause:
+As prescribed in 1819.7302(c), insert the following clause: 
 
 Limitation on Subcontracting—STTR Program (OCT 2006)
 

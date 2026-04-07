@@ -1,8 +1,8 @@
 ##### 315.305 Proposal evaluation.
 
-(c) *Use of non-Federal evaluators.* (1) Except when peer review is required by statute as provided in 315.303-70(a), decisions to disclose proposals to non-Federal evaluators shall be made by the official responsible for appointing Source Selection Evaluation Team members in accordance with OPDIV procedures. The avoidance of organizational and personal conflicts of interest must be taken into consideration when making the decision to use non-Federal evaluators.
+(c) *Use of non-Federal evaluators.* (1) Except when peer review is required by statute as provided in 315.303-70(a), decisions to disclose proposals to non-Federal evaluators shall be made by the official responsible for appointing Source Selection Evaluation Team members in accordance with OPDIV procedures. The avoidance of organizational and personal conflicts of interest must be taken into consideration when making the decision to use non-Federal evaluators. 
 
-(2) When a solicited proposal will be disclosed outside the Government to a contractor or a contractor employee for evaluation purposes, the following or similar conditions shall be part of the written agreement with the contractor prior to disclosure:
+(2) When a solicited proposal will be disclosed outside the Government to a contractor or a contractor employee for evaluation purposes, the following or similar conditions shall be part of the written agreement with the contractor prior to disclosure: 
 
 CONDITIONS FOR EVALUATING PROPOSALS
 

@@ -1,6 +1,6 @@
 ##### 1552.209-75 Annual certification.
 
-As prescribed in 1509.507-2(d), insert the following clause:
+As prescribed in 1509.507-2(d), insert the following clause: 
 
 Annual Certification (MAY 1994)
 

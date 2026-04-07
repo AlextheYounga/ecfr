@@ -1,6 +1,6 @@
 ##### 3052.228-93 Risk and indemnities (USCG).
 
-As prescribed in USCG guidance at (HSAR) 48 CFR 3028.306-90(a) and (d), insert the following clause:
+As prescribed in USCG guidance at (HSAR) 48 CFR 3028.306-90(a) and (d), insert the following clause: 
 
 Risk and Indemnities (DEC 2003)
 

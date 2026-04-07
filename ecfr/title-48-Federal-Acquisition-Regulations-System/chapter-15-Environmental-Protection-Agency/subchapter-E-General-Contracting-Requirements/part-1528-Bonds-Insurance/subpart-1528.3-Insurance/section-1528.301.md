@@ -1,6 +1,6 @@
 ##### 1528.301 Insurance liability to third persons.
 
-Contracting officers shall insert the clause at 1552.228-70, Insurance Liability to Third Persons, in cost-reimbursement solicitations and contracts, except those for construction and architect-engineer services.
+Contracting officers shall insert the clause at 1552.228-70, Insurance Liability to Third Persons, in cost-reimbursement solicitations and contracts, except those for construction and architect-engineer services. 
 
 Note:
 

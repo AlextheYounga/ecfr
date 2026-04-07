@@ -1,6 +1,6 @@
 ##### 852.239-74 Security Controls Compliance Testing.
 
-As prescribed in 839.106-70(d), insert the following clause:
+As prescribed in 839.106-70(d), insert the following clause: 
 
 Security Controls Compliance Testing (FEB 2023)
 

@@ -1,6 +1,6 @@
 ##### 1852.231-70 Precontract costs.
 
-As prescribed in 1831.205-70, insert the following clause:
+As prescribed in 1831.205-70, insert the following clause: 
 
 Precontract Costs (JUN 1995)
 

@@ -1,6 +1,6 @@
 ##### 852.242-71 Administrative Contracting Officer.
 
-As prescribed in 842.271, insert the following clause:
+As prescribed in 842.271, insert the following clause: 
 
 Administrative Contracting Officer (OCT 2020)
 

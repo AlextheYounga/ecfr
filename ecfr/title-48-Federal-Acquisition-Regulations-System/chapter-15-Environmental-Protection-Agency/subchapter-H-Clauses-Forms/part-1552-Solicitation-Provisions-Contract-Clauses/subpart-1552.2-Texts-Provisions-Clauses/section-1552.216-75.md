@@ -1,6 +1,6 @@
 ##### 1552.216-75 Base fee and award fee proposal.
 
-As prescribed in 1516.406(b), insert the following provision:
+As prescribed in 1516.406(b), insert the following provision: 
 
 Base Fee and Award Fee Proposal (FEB 1999)
 

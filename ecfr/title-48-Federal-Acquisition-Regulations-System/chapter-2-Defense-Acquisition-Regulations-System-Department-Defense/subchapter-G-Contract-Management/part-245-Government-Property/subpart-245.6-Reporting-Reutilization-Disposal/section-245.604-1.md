@@ -1,53 +1,53 @@
 ##### 245.604-1 Sales procedures.
 
-(1) *Best value sales approach.* Plant clearance officers shall determine a best value sales approach, to include due consideration for costs, risks, and benefits, *e.g.,* potential sales proceeds.
+(1) *Best value sales approach.* Plant clearance officers shall determine a best value sales approach, to include due consideration for costs, risks, and benefits, *e.g.,* potential sales proceeds. 
 
-(2) *Invitation for bid procedures.* The plant clearance officer may direct the contractor to issue informal invitations for bid (orally, telephonically, or by other informal media), provided—
+(2) *Invitation for bid procedures.* The plant clearance officer may direct the contractor to issue informal invitations for bid (orally, telephonically, or by other informal media), provided— 
 
-(i) Maximum practical competition is obtained;
+(i) Maximum practical competition is obtained; 
 
-(ii) Sources solicited are recorded; and
+(ii) Sources solicited are recorded; and 
 
-(iii) Informal bids are confirmed in writing.
+(iii) Informal bids are confirmed in writing. 
 
-(3) *Sale approval and award.* Plant clearance officers shall—
+(3) *Sale approval and award.* Plant clearance officers shall— 
 
-(i) Evaluate bids to establish that the sale price is fair and reasonable, taking into consideration—
+(i) Evaluate bids to establish that the sale price is fair and reasonable, taking into consideration— 
 
-(A) Knowledge or tests of the market;
+(A) Knowledge or tests of the market; 
 
-(B) Current published prices for the property;
+(B) Current published prices for the property; 
 
-(C) The nature, condition, quantity, and location of the property; and
+(C) The nature, condition, quantity, and location of the property; and 
 
-(D) Past sale history for like or similar items;
+(D) Past sale history for like or similar items; 
 
-(ii) Approve award to the responsible bidder whose bid is most advantageous to the Government. The plant clearance officer shall not approve award to any bidder who is an ineligible transferee, as defined in 252.245-7005, Management and Reporting of Government Property; and
+(ii) Approve award to the responsible bidder whose bid is most advantageous to the Government. The plant clearance officer shall not approve award to any bidder who is an ineligible transferee, as defined in 252.245-7005, Management and Reporting of Government Property; and 
 
-(iii) Notify the contractor of the bidder to whom an award will be made within 5 working days from receipt of bids.
+(iii) Notify the contractor of the bidder to whom an award will be made within 5 working days from receipt of bids. 
 
 (4) *Negotiated sales.*
 
-(i) Negotiated sales include purchases or retention at less than cost by the contractor. Negotiated sales may be made when—
+(i) Negotiated sales include purchases or retention at less than cost by the contractor. Negotiated sales may be made when— 
 
-(A) The plant clearance officer determines that this method is essential to expeditious plant clearance; and
+(A) The plant clearance officer determines that this method is essential to expeditious plant clearance; and 
 
-(B) The Government's interests are adequately protected.
+(B) The Government's interests are adequately protected. 
 
-(ii) Negotiated sales shall be at fair and reasonable prices, not less than those reasonably expected under competitive sales.
+(ii) Negotiated sales shall be at fair and reasonable prices, not less than those reasonably expected under competitive sales. 
 
-(iii) Conditions justifying negotiated sales are—
+(iii) Conditions justifying negotiated sales are— 
 
-(A) No acceptable bids are received under competitive sale;
+(A) No acceptable bids are received under competitive sale; 
 
-(B) Anticipated sales proceeds do not warrant competitive sale;
+(B) Anticipated sales proceeds do not warrant competitive sale; 
 
-(C) Specialized nature of the property would not create bidder interest;
+(C) Specialized nature of the property would not create bidder interest; 
 
-(D) Removal of the property would reduce its value or result in disproportionate handling expenses; or
+(D) Removal of the property would reduce its value or result in disproportionate handling expenses; or 
 
-(E) Such action is essential to the Government's interests.
+(E) Such action is essential to the Government's interests. 
 
-(5) Plant clearance officers shall consider any special disposal requirements such as demilitarization or trade security control requirements in accordance with DoDM 4160.28-M, Defense Demilitarization Manual, and DoDI 2030.08, Implementation of Trade Security Controls (TSCs) for Transfers of DoD Personal Property to Parties Outside DoD Control, respectively. *See* PGI 245.6.
+(5) Plant clearance officers shall consider any special disposal requirements such as demilitarization or trade security control requirements in accordance with DoDM 4160.28-M, Defense Demilitarization Manual, and DoDI 2030.08, Implementation of Trade Security Controls (TSCs) for Transfers of DoD Personal Property to Parties Outside DoD Control, respectively. *See* PGI 245.6. 
 
 \[86 FR 59871, Oct. 29, 2021, as amended at 88 FR 88537, Dec. 22, 2023\]

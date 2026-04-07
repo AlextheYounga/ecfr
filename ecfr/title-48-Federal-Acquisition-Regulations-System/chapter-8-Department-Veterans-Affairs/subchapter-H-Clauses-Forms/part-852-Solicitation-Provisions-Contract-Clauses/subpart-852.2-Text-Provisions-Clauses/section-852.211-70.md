@@ -1,6 +1,6 @@
 ##### 852.211-70 Equipment Operation and Maintenance Manuals.
 
-As prescribed in 811.107-70, insert the following clause:
+As prescribed in 811.107-70, insert the following clause: 
 
 Equipment Operation and Maintenance Manuals (NOV 2018)
 

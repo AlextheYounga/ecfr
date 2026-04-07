@@ -1,6 +1,6 @@
 ##### 9904.403-60 Illustrations.
 
-(a) The following table lists some typical pools, together with illustrative allocation bases, which could be used in appropriate circumstances:
+(a) The following table lists some typical pools, together with illustrative allocation bases, which could be used in appropriate circumstances: 
 
 | Home office expense or function               | Illustrative allocation bases                                                |
 | --------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -12,9 +12,9 @@
 | 5\. Company aircraft service                  | 5\. Actual or standard rate per hour, mile, passenger mile, or similar unit. |
 | 6\. Central telephone service                 | 6\. Usage costs, number of instruments.                                      |
 
-(b) The selection of a base for allocating centralized service functions shall be governed by the criteria established in 9904.403-50(b).
+(b) The selection of a base for allocating centralized service functions shall be governed by the criteria established in 9904.403-50(b). 
 
-(c) The listed allocation bases in this section are illustrative. Other bases for allocation of home office expenses to segments may be used if they are substantially in accordance with the beneficial or casual relationships outlined in 9904.403-40.
+(c) The listed allocation bases in this section are illustrative. Other bases for allocation of home office expenses to segments may be used if they are substantially in accordance with the beneficial or casual relationships outlined in 9904.403-40. 
 
 | Home office expenses or function                                                                                                   | Illustrative allocation bases                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

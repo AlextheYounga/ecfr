@@ -1,6 +1,6 @@
 ##### 852.237-74 Non-discrimination in Service Delivery.
 
-As prescribed in 837.110-70(a), the Contracting Officer shall insert the following clause in solicitations and contracts:
+As prescribed in 837.110-70(a), the Contracting Officer shall insert the following clause in solicitations and contracts: 
 
 Non-Discrimination in Service Delivery (OCT 2019)
 

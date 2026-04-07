@@ -1,6 +1,6 @@
 ##### 1852.216-74 Estimated cost and fixed fee.
 
-As prescribed in 1816.307-70(b), insert the following clause:
+As prescribed in 1816.307-70(b), insert the following clause: 
 
 Estimated Cost and Fixed Fee (DEC 1991)
 

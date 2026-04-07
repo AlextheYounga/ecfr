@@ -1,6 +1,6 @@
 ##### 2452.219-73 Incorporation of subcontracting plan.
 
-As prescribed in 2419.708(b), insert the following clause:
+As prescribed in 2419.708(b), insert the following clause: 
 
 Incoporation Of Subcontracting Plan (DEC 2012)
 

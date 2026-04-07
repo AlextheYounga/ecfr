@@ -1,10 +1,10 @@
 ##### 752.7014 Notice of changes in travel regulations.
 
-The following clause is for use in cost-reimbursement contracts involving work overseas.
+The following clause is for use in cost-reimbursement contracts involving work overseas. 
 
 Notice of Changes in Travel Regulations (JAN 1990)
 
-(a) Changes in travel, differential, and allowance regulations shall be effective on the beginning of the Contractor's next pay period following the effective date of the change as published in the applicable travel regulations (the Department of State Standardized Regulations, Foreign Service Travel Regulations).
+(a) Changes in travel, differential, and allowance regulations shall be effective on the beginning of the Contractor's next pay period following the effective date of the change as published in the applicable travel regulations (the Department of State Standardized Regulations, Foreign Service Travel Regulations). 
 
 (b)(1) Department of State Standardized Regulations are available at: *http://aoprals.state.gov/content.asp?content\_id=231&menu\_id=92.*
 

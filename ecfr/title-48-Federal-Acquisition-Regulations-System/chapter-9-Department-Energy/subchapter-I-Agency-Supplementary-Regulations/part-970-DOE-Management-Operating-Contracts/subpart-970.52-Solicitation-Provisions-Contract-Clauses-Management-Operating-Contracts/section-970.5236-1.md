@@ -1,6 +1,6 @@
 ##### 970.5236-1 Government facility subcontract approval.
 
-As prescribed at 48 CFR 970.3605-2, insert the following clause:
+As prescribed at 48 CFR 970.3605-2, insert the following clause: 
 
 Government Facility Subcontract Approval (DEC 2000)
 

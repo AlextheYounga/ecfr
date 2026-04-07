@@ -1,6 +1,6 @@
 ##### 252.215-7013 Supplies and Services Provided by Nontraditional Defense Contractors.
 
-As prescribed in 215.408(6), use the following provision:
+As prescribed in 215.408(6), use the following provision: 
 
 Supplies and Services Provided by Nontraditional Defense Contractors (JAN 2023)
 

@@ -1,6 +1,6 @@
 ##### 3452.227-71 Advertising of awards.
 
-As prescribed in 3427.409, insert the following clause in all solicitations and contracts other than purchase orders:
+As prescribed in 3427.409, insert the following clause in all solicitations and contracts other than purchase orders: 
 
 Advertising of Awards (MAR 2011)
 

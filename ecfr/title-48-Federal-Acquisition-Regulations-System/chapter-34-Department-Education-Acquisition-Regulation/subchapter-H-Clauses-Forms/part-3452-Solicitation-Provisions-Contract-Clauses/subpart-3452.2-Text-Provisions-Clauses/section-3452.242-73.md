@@ -1,6 +1,6 @@
 ##### 3452.242-73 Accessibility of meetings, conferences, and seminars to persons with disabilities.
 
-As prescribed in 3442.7101(b), insert the following clause in all solicitations and contracts:
+As prescribed in 3442.7101(b), insert the following clause in all solicitations and contracts: 
 
 Accessibility of Meetings, Conferences, and Seminars to Persons With Disabilities (MAR 2011)
 

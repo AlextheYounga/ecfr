@@ -1,6 +1,6 @@
 ##### 1801.106 Office of Management and Budget (OMB) approval under the Paperwork Reduction Act.
 
-The following OMB control numbers apply:
+The following OMB control numbers apply: 
 
 | NFS segment | OMB   control No. |
 | ----------- | ----------------- |

@@ -1,6 +1,6 @@
 ##### 1852.245-76 List of Government property furnished pursuant to FAR 52.245-1.
 
-As prescribed in 1845.107-70(g), insert the following clause:
+As prescribed in 1845.107-70(g), insert the following clause: 
 
 List of Government Property Furnished Pursuant to FAR 52.245-1 (JAN 2011)
 

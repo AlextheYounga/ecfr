@@ -1,6 +1,6 @@
 ##### 1252.223-70 Removal or Disposal of Hazardous Substances—Applicable Licenses and Permits.
 
-As prescribed in 1223.303, insert the following clause:
+As prescribed in 1223.303, insert the following clause: 
 
 Removal or Disposal of Hazardous Substances—Applicable Licenses and Permits (NOV 2022)
 

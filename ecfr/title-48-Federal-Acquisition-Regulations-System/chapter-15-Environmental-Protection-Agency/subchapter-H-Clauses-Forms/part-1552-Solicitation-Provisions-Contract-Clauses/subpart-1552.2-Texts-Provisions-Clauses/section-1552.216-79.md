@@ -1,6 +1,6 @@
 ##### 1552.216-79 Award term availability of funds.
 
-As prescribed in 1516.406(c), insert the following clause:
+As prescribed in 1516.406(c), insert the following clause: 
 
 Award Term Availability of Funds (FEB 2008)
 

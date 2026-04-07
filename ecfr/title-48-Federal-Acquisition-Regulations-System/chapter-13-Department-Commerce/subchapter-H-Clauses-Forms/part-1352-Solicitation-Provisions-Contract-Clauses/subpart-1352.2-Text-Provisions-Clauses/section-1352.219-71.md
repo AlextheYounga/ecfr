@@ -1,6 +1,6 @@
 ##### 1352.219-71 Notification to delay performance (Deviation).
 
-As prescribed in 48 CFR 1319.811-3(b), insert the following clause:
+As prescribed in 48 CFR 1319.811-3(b), insert the following clause: 
 
 Notification To Delay Performance (Deviation) (APR 2010)
 

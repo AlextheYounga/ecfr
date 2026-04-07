@@ -1,10 +1,10 @@
 ##### 3052.212-70 Contract Terms and Conditions Applicable to DHS Acquisition of Commercial Items.
 
-As prescribed in (HSAR) 48 CFR 3012.301, insert the following clause:
+As prescribed in (HSAR) 48 CFR 3012.301, insert the following clause: 
 
 Contract Terms and Conditions Applicable to DHS Acquisition of Commercial Items (JUL 2023)
 
-The Contractor agrees to comply with any provision or clause that is incorporated herein by reference to implement agency policy applicable to acquisition of commercial items or components. The provision or clause in effect based on the applicable regulation cited on the date the solicitation is issued applies unless otherwise stated herein. The following provisions and clauses are incorporated by reference: \[The Contracting Officer should either check the provisions and clauses that apply or delete the provisions and clauses that do not apply from the list. The Contracting Officer may add the date of the provision or clause if desired for clarity.\]
+The Contractor agrees to comply with any provision or clause that is incorporated herein by reference to implement agency policy applicable to acquisition of commercial items or components. The provision or clause in effect based on the applicable regulation cited on the date the solicitation is issued applies unless otherwise stated herein. The following provisions and clauses are incorporated by reference: \[The Contracting Officer should either check the provisions and clauses that apply or delete the provisions and clauses that do not apply from the list. The Contracting Officer may add the date of the provision or clause if desired for clarity.\] 
 
 (a) *Provisions.*
 

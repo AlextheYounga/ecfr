@@ -1,6 +1,6 @@
 ##### 552.211-88 Vehicle Export Preparation.
 
-As prescribed in 511.204(b)(7), insert the following clause:
+As prescribed in 511.204(b)(7), insert the following clause: 
 
 Vehicle Export Preparation (JAN 2010)
 

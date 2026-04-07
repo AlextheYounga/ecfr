@@ -1,6 +1,6 @@
 ##### 2052.214-74 Disposition of bids.
 
-As prescribed at 2014.670(b), the contracting officer shall insert the following provision in applicable invitation for bids:
+As prescribed at 2014.670(b), the contracting officer shall insert the following provision in applicable invitation for bids: 
 
 Disposition of Bids (JAN 1993)
 

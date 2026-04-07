@@ -1,6 +1,6 @@
 ##### 970.5227-6 Patent indemnity—subcontracts.
 
-Insert the following clause in solicitations and contracts in accordance with 970.2702-70:
+Insert the following clause in solicitations and contracts in accordance with 970.2702-70: 
 
 Patent Indemnity—Subcontracts (DEC 2000)
 

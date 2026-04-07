@@ -1,6 +1,6 @@
 ##### 652.243-70 Notices.
 
-As prescribed in 643.104-70, insert the following clause:
+As prescribed in 643.104-70, insert the following clause: 
 
 Notices (AUG 1999)
 

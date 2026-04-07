@@ -1,6 +1,6 @@
 ##### 1352.231-70 Precontract costs.
 
-As prescribed in 48 CFR 1331.205-32, insert the following clause:
+As prescribed in 48 CFR 1331.205-32, insert the following clause: 
 
 Precontract Costs (APR 2010)
 

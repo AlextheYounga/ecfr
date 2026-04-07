@@ -1,6 +1,6 @@
 ##### 352.215-70 Late Proposals and Revisions.
 
-As prescribed in HHSAR 315.208, the Contracting Officer shall insert the following provision:
+As prescribed in HHSAR 315.208, the Contracting Officer shall insert the following provision: 
 
 Late Proposals and Revisions (DEC 2015) Deviation
 

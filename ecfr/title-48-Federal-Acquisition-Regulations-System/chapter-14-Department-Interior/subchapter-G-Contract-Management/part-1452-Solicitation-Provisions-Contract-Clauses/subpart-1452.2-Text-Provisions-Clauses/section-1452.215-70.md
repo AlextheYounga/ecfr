@@ -1,6 +1,6 @@
 ##### 1452.215-70 Examination of Records by the Department of the Interior.
 
-As prescribed in 1415.209-70, insert the following clause:
+As prescribed in 1415.209-70, insert the following clause: 
 
 Examination of Records by the Department of the Interior (APR 1984)
 

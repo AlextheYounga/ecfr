@@ -1,6 +1,6 @@
 ##### 1952.227-78 Disposition of prints and videotape recordings.
 
-As prescribed in 1927.405(j) insert the following clause in License Agreements:
+As prescribed in 1927.405(j) insert the following clause in License Agreements: 
 
 Disposition of Prints and Videotape Recordings (FEB 1985)
 

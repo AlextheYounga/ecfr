@@ -1,6 +1,6 @@
 ##### 952.236-71 Inspection in architect-engineer contracts.
 
-As prescribed at 936.609-3 insert the following clause:
+As prescribed at 936.609-3 insert the following clause: 
 
 Inspection (APR 1994)
 

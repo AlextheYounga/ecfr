@@ -1,6 +1,6 @@
 ##### 252.225-7042 Authorization to perform.
 
-As prescribed in 225.1103(3), use the following provision:
+As prescribed in 225.1103(3), use the following provision: 
 
 Authorization to Perform (APR 2003)
 

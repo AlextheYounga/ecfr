@@ -1,6 +1,6 @@
 ##### 1352.228-72 Deductibles under required insurance coverage—fixed price.
 
-As prescribed in 48 CFR 1328.310-70(d), insert the following clause:
+As prescribed in 48 CFR 1328.310-70(d), insert the following clause: 
 
 Deductibles Under Required Insurance Coverage—Fixed Price (APR 2010)
 

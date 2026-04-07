@@ -1,6 +1,6 @@
 ##### 752.7001 Biographical data.
 
-The following clause is to be inserted in all USAID cost reimbursement contracts.
+The following clause is to be inserted in all USAID cost reimbursement contracts. 
 
 Biographical Data (JUL 1997)
 

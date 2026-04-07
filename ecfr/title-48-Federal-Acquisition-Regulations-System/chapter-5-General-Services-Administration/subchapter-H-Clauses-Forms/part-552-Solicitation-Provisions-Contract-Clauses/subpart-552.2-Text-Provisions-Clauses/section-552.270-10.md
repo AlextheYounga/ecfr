@@ -1,6 +1,6 @@
 ##### 552.270-10 Failure in Performance.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause: 
 
 Failure in Performance (SEP 1999)
 

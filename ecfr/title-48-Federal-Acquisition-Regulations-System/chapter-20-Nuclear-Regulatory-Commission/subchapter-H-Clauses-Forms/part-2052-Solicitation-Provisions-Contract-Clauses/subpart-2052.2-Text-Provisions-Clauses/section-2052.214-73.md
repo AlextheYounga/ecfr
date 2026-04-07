@@ -1,6 +1,6 @@
 ##### 2052.214-73 Timely receipt of bids.
 
-As prescribed at 2014.670(b), the contracting officer shall insert the following provision in all invitations for bids:
+As prescribed at 2014.670(b), the contracting officer shall insert the following provision in all invitations for bids: 
 
 Timely Receipt of Bids (OCT 1999)
 

@@ -1,6 +1,6 @@
 ##### 552.238-106 Interpretation of Contract Requirements.
 
-As prescribed in 538.273(d)(30), insert the following clause:
+As prescribed in 538.273(d)(30), insert the following clause: 
 
 Interpretation of Contract Requirements (MAY 2019)
 

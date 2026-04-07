@@ -1,6 +1,6 @@
 ##### 852.239-71 Information System Security Plan and Accreditation.
 
-As prescribed in 839.106-70, insert the following provision:
+As prescribed in 839.106-70, insert the following provision: 
 
 Information System Security Plan and Accreditation (FEB 2023)
 

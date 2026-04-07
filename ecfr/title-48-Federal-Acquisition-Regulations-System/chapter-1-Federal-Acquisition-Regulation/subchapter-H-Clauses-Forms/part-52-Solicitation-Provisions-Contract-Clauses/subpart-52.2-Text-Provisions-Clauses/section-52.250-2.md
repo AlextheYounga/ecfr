@@ -1,6 +1,6 @@
 ##### 52.250-2 SAFETY Act Coverage Not Applicable.
 
-As prescribed in 50.206(a), insert the following provision:
+As prescribed in 50.206(a), insert the following provision: 
 
 Safety Act Coverage Not Applicable (FEB 2009)
 

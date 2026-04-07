@@ -1,6 +1,6 @@
 ##### 1352.271-81 Discharge of liens.
 
-As prescribed in 48 CFR 1371.112, insert the following clause:
+As prescribed in 48 CFR 1371.112, insert the following clause: 
 
 Discharge of Liens (APR 2010)
 

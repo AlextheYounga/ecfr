@@ -1,16 +1,16 @@
 ##### 52.216-31 Time-and-Materials/Labor-Hour Proposal Requirements—Commercial Acquisition.
 
-As prescribed in 16.601(f)(3), insert the following provision:
+As prescribed in 16.601(f)(3), insert the following provision: 
 
 Time-and-Materials/Labor-Hour Proposal Requirements—Commercial Acquisition (NOV 2021)
 
-(a) The Government contemplates award of a Time-and-Materials or Labor-Hour type of contract resulting from this solicitation.
+(a) The Government contemplates award of a Time-and-Materials or Labor-Hour type of contract resulting from this solicitation. 
 
-(b) The offeror must specify fixed hourly rates in its offer that include wages, overhead, general and administrative expenses, and profit. The offeror must specify whether the fixed hourly rate for each labor category applies to labor performed by—
+(b) The offeror must specify fixed hourly rates in its offer that include wages, overhead, general and administrative expenses, and profit. The offeror must specify whether the fixed hourly rate for each labor category applies to labor performed by— 
 
-(1) The offeror;
+(1) The offeror; 
 
-(2) Subcontractors; and/or
+(2) Subcontractors; and/or 
 
 (3) Divisions, subsidiaries, or affiliates of the offeror under a common control.
 

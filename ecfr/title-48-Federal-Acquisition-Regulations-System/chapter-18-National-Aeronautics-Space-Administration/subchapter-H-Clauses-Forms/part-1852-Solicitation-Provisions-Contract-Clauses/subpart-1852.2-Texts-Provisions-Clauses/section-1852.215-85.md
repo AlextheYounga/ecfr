@@ -1,10 +1,10 @@
 ##### 1852.215-85 Proposal Adequacy Checklist.
 
-As prescribed in 1815.408-70(c), use the following provision:
+As prescribed in 1815.408-70(c), use the following provision: 
 
 Proposal Adequacy Checklist (OCT 2023)
 
-The offeror shall complete the following checklist, providing location of requested information, or an explanation of why the requested information is not provided. In preparation of the offeror's checklist, offerors may elect to have their prospective subcontractors use the same or similar checklist as appropriate.
+The offeror shall complete the following checklist, providing location of requested information, or an explanation of why the requested information is not provided. In preparation of the offeror's checklist, offerors may elect to have their prospective subcontractors use the same or similar checklist as appropriate. 
 
 Proposal Adequacy Checklist
 | References                                                                         | Submission item                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Proposal page No. | If not provided explain (may use continuation pages traceable to this checklist) |

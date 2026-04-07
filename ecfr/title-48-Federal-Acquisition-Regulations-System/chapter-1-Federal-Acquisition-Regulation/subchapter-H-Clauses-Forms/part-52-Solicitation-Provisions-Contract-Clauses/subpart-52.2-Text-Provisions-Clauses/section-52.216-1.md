@@ -1,6 +1,6 @@
 ##### 52.216-1 Type of Contract.
 
-As prescribed in 16.105, complete and insert the following provision:
+As prescribed in 16.105, complete and insert the following provision: 
 
 Type of Contract (APR 1984)
 

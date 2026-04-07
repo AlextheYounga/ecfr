@@ -1,6 +1,6 @@
 ##### 1552.211-78 Advisory and assistance services.
 
-As prescribed in 1511.011-78, insert the following contract clause in all contracts for advisory and assistance services.
+As prescribed in 1511.011-78, insert the following contract clause in all contracts for advisory and assistance services. 
 
 Advisory and Assistance Services (JUL 2016)
 

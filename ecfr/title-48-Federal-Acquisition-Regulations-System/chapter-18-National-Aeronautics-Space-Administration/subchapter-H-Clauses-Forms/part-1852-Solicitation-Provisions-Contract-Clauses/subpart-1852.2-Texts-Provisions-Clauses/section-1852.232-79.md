@@ -1,6 +1,6 @@
 ##### 1852.232-79 Payment for on-site preparatory costs.
 
-As prescribed in 1832.111-70, insert the following clause:
+As prescribed in 1832.111-70, insert the following clause: 
 
 Payment for On-Site Preparatory Costs (SEP 1987)
 

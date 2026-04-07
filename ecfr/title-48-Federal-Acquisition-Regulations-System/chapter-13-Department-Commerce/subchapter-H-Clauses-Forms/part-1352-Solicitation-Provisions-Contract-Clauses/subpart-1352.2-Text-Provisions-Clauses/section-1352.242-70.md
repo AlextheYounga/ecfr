@@ -1,6 +1,6 @@
 ##### 1352.242-70 Postaward conference.
 
-As prescribed in 48 CFR 1342.503-70, insert the following provision:
+As prescribed in 48 CFR 1342.503-70, insert the following provision: 
 
 Postaward Conference (APR 2010)
 

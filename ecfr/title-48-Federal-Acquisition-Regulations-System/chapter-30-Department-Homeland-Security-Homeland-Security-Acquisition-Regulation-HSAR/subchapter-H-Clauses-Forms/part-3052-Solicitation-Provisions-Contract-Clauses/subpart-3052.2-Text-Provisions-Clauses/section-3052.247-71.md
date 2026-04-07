@@ -1,6 +1,6 @@
 ##### 3052.247-71 F.o.b. origin only.
 
-As prescribed in (HSAR) 48 CFR 3047.305-70(b), insert the following provision:
+As prescribed in (HSAR) 48 CFR 3047.305-70(b), insert the following provision: 
 
 F.O.B. Origin Only (DEC 2003)
 

@@ -1,6 +1,6 @@
 ##### 652.247-70 Notice of Shipments.
 
-As prescribed in 647.305-70, insert the following clause:
+As prescribed in 647.305-70, insert the following clause: 
 
 Notice of Shipments (FEB 2015)
 

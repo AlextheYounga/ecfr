@@ -1,8 +1,8 @@
 ##### 970.1504-106 Fee schedules.
 
-(a) In calculating the amount of maximum total available fee amount for a one-year period (see 970.1504-104), once the total fee base for the year is determined it is allocated to one or more of the three fee schedules based upon the type of effort. The three types of efforts are: Production; R&D; and EM. Each fee schedule provides a fee subtotal (see steps 2 and 3 in 970.1504-104(b)(2) and (3)).
+(a) In calculating the amount of maximum total available fee amount for a one-year period (see 970.1504-104), once the total fee base for the year is determined it is allocated to one or more of the three fee schedules based upon the type of effort. The three types of efforts are: Production; R&D; and EM. Each fee schedule provides a fee subtotal (see steps 2 and 3 in 970.1504-104(b)(2) and (3)). 
 
-(b) The three schedules are:
+(b) The three schedules are: 
 
 Table 1 to Paragraph (b)
 | Fee base (dollars)              | Fee dollars | Fee   (percent) | Incr.   (percent) |

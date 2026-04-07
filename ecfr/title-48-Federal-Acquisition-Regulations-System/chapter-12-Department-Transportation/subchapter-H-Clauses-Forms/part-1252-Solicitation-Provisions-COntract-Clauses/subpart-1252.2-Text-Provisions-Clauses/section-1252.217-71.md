@@ -1,6 +1,6 @@
 ##### 1252.217-71 Delivery and Shifting of Vessel.
 
-As prescribed at 1217.7001(b), insert the following clause:
+As prescribed at 1217.7001(b), insert the following clause: 
 
 Delivery and Shifting of Vessel (NOV 2022)
 

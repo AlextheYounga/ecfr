@@ -1,6 +1,6 @@
 ##### 1552.211-76 Legal analysis.
 
-As prescribed in 1511.011-76, insert this contract clause when it is determined that the contract involves legal analysis.
+As prescribed in 1511.011-76, insert this contract clause when it is determined that the contract involves legal analysis. 
 
 Legal Analysis (APR 1984)
 

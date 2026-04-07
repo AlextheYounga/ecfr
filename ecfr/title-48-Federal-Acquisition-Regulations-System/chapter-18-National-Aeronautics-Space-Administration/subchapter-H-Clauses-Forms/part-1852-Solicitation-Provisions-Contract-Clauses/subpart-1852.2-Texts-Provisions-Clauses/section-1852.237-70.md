@@ -1,6 +1,6 @@
 ##### 1852.237-70 Emergency evacuation procedures.
 
-As prescribed at 1837.110-70(a), insert the following clause:
+As prescribed at 1837.110-70(a), insert the following clause: 
 
 Emergency Evacuation Procedures (DEC 1988)
 

@@ -1,6 +1,6 @@
 ##### 1552.237-75 Paperwork Reduction Act.
 
-As prescribed in 1537.110, insert this contract clause in any contract requiring the collection of identical information from ten (10) or more public respondents.
+As prescribed in 1537.110, insert this contract clause in any contract requiring the collection of identical information from ten (10) or more public respondents. 
 
 Paperwork Reduction Act (APR 1984)
 

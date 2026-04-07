@@ -1,6 +1,6 @@
 ##### 3052.217-90 Delivery and Shifting of Vessel (USCG).
 
-As prescribed in the USCG guidance at (HSAR) 48 CFR 3017.9000(a) and (b), insert the following clause:
+As prescribed in the USCG guidance at (HSAR) 48 CFR 3017.9000(a) and (b), insert the following clause: 
 
 Delivery and Shifting of Vessel (DEC 2003)
 

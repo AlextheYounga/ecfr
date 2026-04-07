@@ -1,10 +1,10 @@
 ##### 652.206-70 Advocate for Competition/Ombudsman.
 
-As prescribed in 606.570, insert the following provision:
+As prescribed in 606.570, insert the following provision: 
 
 Advocate for Competition/Ombudsman (FEB 2015)
 
-(a) The Department of State's Advocate for Competition is responsible for assisting industry in removing restrictive requirements from Department of State solicitations and removing barriers to full and open competition and use of commercial items. If such a solicitation is considered competitively restrictive or does not appear properly conducive to competition and commercial practices, potential offerors are encouraged first to contact the contracting officer for the solicitation. If concerns remain unresolved, contact:
+(a) The Department of State's Advocate for Competition is responsible for assisting industry in removing restrictive requirements from Department of State solicitations and removing barriers to full and open competition and use of commercial items. If such a solicitation is considered competitively restrictive or does not appear properly conducive to competition and commercial practices, potential offerors are encouraged first to contact the contracting officer for the solicitation. If concerns remain unresolved, contact: 
 
 (1) For solicitations issued by the Office of Acquisition Management (A/LM/AQM) or a Regional Procurement Support Office, the A/LM/AQM Advocate for Competition, at *AQMCompetitionAdvocate@state.gov.*
 

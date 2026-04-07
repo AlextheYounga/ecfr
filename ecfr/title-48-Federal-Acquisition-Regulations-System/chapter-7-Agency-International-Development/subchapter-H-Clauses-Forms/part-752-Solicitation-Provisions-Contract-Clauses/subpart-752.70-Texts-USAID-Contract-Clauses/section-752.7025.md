@@ -1,6 +1,6 @@
 ##### 752.7025 Approvals.
 
-For use in all USAID contracts.
+For use in all USAID contracts. 
 
 Approvals (APR 1984)
 

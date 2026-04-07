@@ -1,6 +1,6 @@
 ##### 952.211-71 Priorities and allocations for energy programs (contracts).
 
-As prescribed in 911.604(b), insert the following clause in contracts and purchase orders that are placed in support of authorized DOE atomic energy programs pursuant to the Atomic Energy Act of 1954, as amended:
+As prescribed in 911.604(b), insert the following clause in contracts and purchase orders that are placed in support of authorized DOE atomic energy programs pursuant to the Atomic Energy Act of 1954, as amended: 
 
 Priorities and Allocations (Atomic Energy) (APR 2008)
 

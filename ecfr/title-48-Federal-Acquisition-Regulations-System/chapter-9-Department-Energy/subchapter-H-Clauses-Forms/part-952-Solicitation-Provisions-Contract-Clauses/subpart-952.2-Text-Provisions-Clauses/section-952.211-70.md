@@ -1,6 +1,6 @@
 ##### 952.211-70 Priorities and allocations for energy programs (solicitations):
 
-As prescribed in 911.604(a), insert the following provision in solicitations that will result in the award of a contract in support of DOE atomic energy programs:
+As prescribed in 911.604(a), insert the following provision in solicitations that will result in the award of a contract in support of DOE atomic energy programs: 
 
 Priorities and Allocations (Atomic Energy) (APR 2008)
 

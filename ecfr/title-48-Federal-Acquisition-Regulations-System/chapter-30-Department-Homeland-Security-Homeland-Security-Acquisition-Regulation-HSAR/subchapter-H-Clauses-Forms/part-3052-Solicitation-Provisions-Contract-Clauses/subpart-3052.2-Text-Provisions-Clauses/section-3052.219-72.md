@@ -1,6 +1,6 @@
 ##### 3052.219-72 Evaluation of prime contractor participation in the DHS mentor-protégé program.
 
-As prescribed in (HSAR) 48 CFR 3019.708-70(b), insert the following provision:
+As prescribed in (HSAR) 48 CFR 3019.708-70(b), insert the following provision: 
 
 Evaluation of Prime Contractor Participation in the DHS Mentor-Protégé Program (JUN 2006)
 

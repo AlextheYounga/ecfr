@@ -1,6 +1,6 @@
 ##### 852.247-70 Determining Transportation Costs for Evaluation of Offers.
 
-As prescribed in 847.305-70, insert the following provision:
+As prescribed in 847.305-70, insert the following provision: 
 
 Determining Transportation Costs for Evaluation of Offers (OCT 2018)
 

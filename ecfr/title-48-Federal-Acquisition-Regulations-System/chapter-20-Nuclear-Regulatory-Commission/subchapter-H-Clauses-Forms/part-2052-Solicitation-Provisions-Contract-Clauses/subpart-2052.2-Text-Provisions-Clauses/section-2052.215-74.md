@@ -1,6 +1,6 @@
 ##### 2052.215-74 Disposition of proposals.
 
-As prescribed in 2015.209-70(a)(5), the contracting officer shall insert the following provision in all solicitations:
+As prescribed in 2015.209-70(a)(5), the contracting officer shall insert the following provision in all solicitations: 
 
 Disposition of Proposals (JAN 1993)
 

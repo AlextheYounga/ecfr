@@ -1,12 +1,12 @@
 ##### 1352.215-71 Instructions for oral presentations.
 
-As prescribed in 48 CFR 1315.204-570(a)(2), insert the following provision:
+As prescribed in 48 CFR 1315.204-570(a)(2), insert the following provision: 
 
 Instructions for Oral Presentations (Date)
 
-The Government intends to conduct oral presentations with the offerors in the competitive range as part of the evaluation process.
+The Government intends to conduct oral presentations with the offerors in the competitive range as part of the evaluation process. 
 
-Oral presentations will be conducted at the following location:
+Oral presentations will be conducted at the following location: 
 
 \[INSERT LOCATION\]
 

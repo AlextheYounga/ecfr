@@ -1,6 +1,6 @@
 ##### 552.270-19 Progressive Occupancy.
 
-As prescribed in 570.703, insert the following clause:
+As prescribed in 570.703, insert the following clause: 
 
 Progressive Occupancy (SEP 1999)
 

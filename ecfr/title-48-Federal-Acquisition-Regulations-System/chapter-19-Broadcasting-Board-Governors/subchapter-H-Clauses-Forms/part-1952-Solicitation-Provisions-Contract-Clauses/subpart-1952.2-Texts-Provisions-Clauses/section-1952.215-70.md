@@ -1,6 +1,6 @@
 ##### 1952.215-70 Key personnel and facilities.
 
-As prescribed in 1915.106-70 insert the following clause in appropriate contracts:
+As prescribed in 1915.106-70 insert the following clause in appropriate contracts: 
 
 Key Personnel and Facilities (FEB 1985)
 

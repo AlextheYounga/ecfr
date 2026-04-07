@@ -1,6 +1,6 @@
 ##### 1852.219-80 Limitation on subcontracting—SBIR Phase I program.
 
-As prescribed in 1819.7302(a), insert the following clause:
+As prescribed in 1819.7302(a), insert the following clause: 
 
 Limitation on Subcontracting—SBIR Phase I Program (OCT 2006)
 

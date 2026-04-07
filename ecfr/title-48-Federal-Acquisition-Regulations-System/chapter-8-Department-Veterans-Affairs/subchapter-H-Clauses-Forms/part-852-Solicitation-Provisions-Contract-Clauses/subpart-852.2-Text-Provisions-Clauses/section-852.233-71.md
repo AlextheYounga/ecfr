@@ -1,6 +1,6 @@
 ##### 852.233-71 Alternate Protest Procedure.
 
-As prescribed in 833.106-70(b), insert the following provision:
+As prescribed in 833.106-70(b), insert the following provision: 
 
 Alternate Protest Procedure (SEP 2018)
 

@@ -1,6 +1,6 @@
 ##### 970.5222-1 Collective Bargaining Agreements Management and Operating Contracts.
 
-As prescribed in 970.2201-130, insert the following clause:
+As prescribed in 970.2201-130, insert the following clause: 
 
 Collective Bargaining Agreements—Management and Operating Contracts (DEC 2000)
 

@@ -1,6 +1,6 @@
 ##### 852.247-73 Packing for Domestic Shipment.
 
-As prescribed in 847.305-10(b), insert the following clause:
+As prescribed in 847.305-10(b), insert the following clause: 
 
 Packing for Domestic Shipment (OCT 2018)
 

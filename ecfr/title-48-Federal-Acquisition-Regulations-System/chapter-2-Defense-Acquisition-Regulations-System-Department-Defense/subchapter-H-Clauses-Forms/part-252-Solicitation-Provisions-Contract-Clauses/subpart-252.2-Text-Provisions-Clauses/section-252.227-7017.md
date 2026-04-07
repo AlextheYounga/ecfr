@@ -1,34 +1,34 @@
 ##### 252.227-7017 Identification and Assertion of Use, Release, or Disclosure Restrictions.
 
-As prescribed in 227.7103-3(b), 227.7104-4(b)(2), or 227.7203-3(a), use the following provision:
+As prescribed in 227.7103-3(b), 227.7104-4(b)(2), or 227.7203-3(a), use the following provision: 
 
 Identification and Assertion of Use, Release, or Disclosure Restrictions (JAN 2025)
 
-(a) *Definitions.* As used in this provision—
+(a) *Definitions.* As used in this provision— 
 
-*Computer software* is defined in—
+*Computer software* is defined in— 
 
-(1) The 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation, clause of this solicitation; or
+(1) The 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation, clause of this solicitation; or 
 
-(2) If this solicitation contemplates a contract under the Small Business Innovation Research Program or Small Business Technology Transfer Program, the 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, clause of this solicitation.
+(2) If this solicitation contemplates a contract under the Small Business Innovation Research Program or Small Business Technology Transfer Program, the 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, clause of this solicitation. 
 
-*SBIR/STTR data* is defined in the 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, clause of this solicitation.
+*SBIR/STTR data* is defined in the 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, clause of this solicitation. 
 
-*Technical data* is defined in—
+*Technical data* is defined in— 
 
-(1) The 252.227-7013, Rights in Technical Data—Other Than Commercial Products and Commercial Services, clause of this solicitation; or
+(1) The 252.227-7013, Rights in Technical Data—Other Than Commercial Products and Commercial Services, clause of this solicitation; or 
 
-(2) If this solicitation contemplates a contract under the Small Business Innovation Research Program or Small Business Technology Transfer Program, the 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, clause of this solicitation.
+(2) If this solicitation contemplates a contract under the Small Business Innovation Research Program or Small Business Technology Transfer Program, the 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, clause of this solicitation. 
 
-(b) The identification and assertion requirements in this provision apply only to technical data, including computer software documentation, or computer software to be delivered with other than unlimited rights. For contracts to be awarded under the Small Business Innovation Research (SBIR) Program or Small Business Technology Transfer Program (STTR) Program, these requirements apply to SBIR/STTR data that will be generated under the resulting contract and will be delivered with SBIR/STTR data rights and to any other data that will be delivered with other than unlimited rights. Notification and identification are not required for restrictions based solely on copyright.
+(b) The identification and assertion requirements in this provision apply only to technical data, including computer software documentation, or computer software to be delivered with other than unlimited rights. For contracts to be awarded under the Small Business Innovation Research (SBIR) Program or Small Business Technology Transfer Program (STTR) Program, these requirements apply to SBIR/STTR data that will be generated under the resulting contract and will be delivered with SBIR/STTR data rights and to any other data that will be delivered with other than unlimited rights. Notification and identification are not required for restrictions based solely on copyright. 
 
-(c) Offers submitted in response to this solicitation shall identify, to the extent known at the time an offer is submitted to the Government, the technical data or computer software that the Offeror, its subcontractors or suppliers, or potential subcontractors or suppliers, assert should be furnished to the Government with restrictions on use, release, or disclosure.
+(c) Offers submitted in response to this solicitation shall identify, to the extent known at the time an offer is submitted to the Government, the technical data or computer software that the Offeror, its subcontractors or suppliers, or potential subcontractors or suppliers, assert should be furnished to the Government with restrictions on use, release, or disclosure. 
 
-(d) The Offeror's assertions, including the assertions of its subcontractors or suppliers or potential subcontractors or suppliers, shall be submitted as an attachment to its offer in the following format, dated and signed by an official authorized to contractually obligate the Offeror:
+(d) The Offeror's assertions, including the assertions of its subcontractors or suppliers or potential subcontractors or suppliers, shall be submitted as an attachment to its offer in the following format, dated and signed by an official authorized to contractually obligate the Offeror: 
 
 Identification and Assertion of Restrictions on the Government's Use, Release, or Disclosure of Technical Data or Computer Software
 
-The Offeror asserts for itself, or the persons identified below, that the Government's rights to use, release, or disclose the following technical data or computer software should be restricted:
+The Offeror asserts for itself, or the persons identified below, that the Government's rights to use, release, or disclose the following technical data or computer software should be restricted: 
 
 | Technical data or computer   software to be furnished with   restrictions 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Basis for assertion 2 | Asserted rights category 3 | Name of person asserting   restrictions 4 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------- | ----------------------------------------- |
@@ -41,7 +41,7 @@ The Offeror asserts for itself, or the persons identified below, that the Govern
 
 Date Printed Name and Title Signature(End of identification and assertion) 
 
-(e) An offeror's failure to submit, complete, or sign the notification and identification required by paragraph (d) of this provision with its offer may render the offer ineligible for award.
+(e) An offeror's failure to submit, complete, or sign the notification and identification required by paragraph (d) of this provision with its offer may render the offer ineligible for award. 
 
 (f) If the Offeror is awarded a contract, the assertions identified in paragraph (d) of this provision shall be listed in an attachment to that contract. Upon request by the Contracting Officer, the Offeror shall provide sufficient information to enable the Contracting Officer to evaluate any listed assertion.
 

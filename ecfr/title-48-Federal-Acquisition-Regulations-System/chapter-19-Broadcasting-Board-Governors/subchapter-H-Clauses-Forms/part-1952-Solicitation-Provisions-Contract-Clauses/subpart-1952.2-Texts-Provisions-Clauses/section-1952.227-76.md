@@ -1,6 +1,6 @@
 ##### 1952.227-76 Government rights (unlimited).
 
-As prescribed in 1927.405(g), insert the following clause:
+As prescribed in 1927.405(g), insert the following clause: 
 
 Government Rights (Unlimited) (FEB 1985)
 

@@ -1,6 +1,6 @@
 ##### 552.236-74 Evaluation of Options.
 
-As prescribed in 536.270-5(a), insert a provision substantially the same as the following provision:
+As prescribed in 536.270-5(a), insert a provision substantially the same as the following provision: 
 
 Evaluation of Options (MAR 2019)
 

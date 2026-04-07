@@ -1,6 +1,6 @@
 ##### 352.237-75 Key Personnel.
 
-As prescribed in HHSAR 337.103(f), the Contracting Officer shall insert the following clause:
+As prescribed in HHSAR 337.103(f), the Contracting Officer shall insert the following clause: 
 
 Key Personnel (DEC 2015)
 

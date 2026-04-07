@@ -1,6 +1,6 @@
 ##### 1352.271-77 Delays.
 
-As prescribed in 48 CFR 1371.108, insert the following clause:
+As prescribed in 48 CFR 1371.108, insert the following clause: 
 
 Delays (APR 2010)
 

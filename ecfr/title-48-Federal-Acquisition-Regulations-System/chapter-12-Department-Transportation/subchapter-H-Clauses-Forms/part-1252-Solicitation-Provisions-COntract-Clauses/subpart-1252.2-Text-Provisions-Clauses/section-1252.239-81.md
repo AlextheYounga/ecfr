@@ -1,6 +1,6 @@
 ##### 1252.239-81 Cloud Identification and Authentication (Organizational Users) Multi-Factor Authentication.
 
-As prescribed in 1239.7204(f), insert the following clause:
+As prescribed in 1239.7204(f), insert the following clause: 
 
 Cloud Identification and Authentication (Organizational Users) Multi-Factor Authentication (NOV 2022)
 

@@ -4,13 +4,13 @@ Insert the following clause in solicitations and contracts in accordance with 97
 
 Authorization and Consent (DEC 2024)
 
-(a) The Government authorizes and consents to all use and manufacture of any invention described in and covered by a United States patent in the performance of this contract or any subcontract at any tier.
+(a) The Government authorizes and consents to all use and manufacture of any invention described in and covered by a United States patent in the performance of this contract or any subcontract at any tier. 
 
-(b) If the Contractor is sued for copyright infringement or anticipates the filing of such a lawsuit, the Contractor may request authorization and consent to copy a copyrighted work from the contracting officer. Programmatic necessity is a major consideration for DOE in determining whether to grant such request.
+(b) If the Contractor is sued for copyright infringement or anticipates the filing of such a lawsuit, the Contractor may request authorization and consent to copy a copyrighted work from the contracting officer. Programmatic necessity is a major consideration for DOE in determining whether to grant such request. 
 
-(c)(1) The Contractor agrees to include, and require inclusion of, the Authorization and Consent clause at 48 CFR 52.227-1, without Alternate 1, but suitably modified to identify the parties, in all subcontracts expected to exceed the simplified acquisition threshold at any tier for supplies or services, including construction, architect-engineer services, and materials, supplies, models, samples, and design or testing services.
+(c)(1) The Contractor agrees to include, and require inclusion of, the Authorization and Consent clause at 48 CFR 52.227-1, without Alternate 1, but suitably modified to identify the parties, in all subcontracts expected to exceed the simplified acquisition threshold at any tier for supplies or services, including construction, architect-engineer services, and materials, supplies, models, samples, and design or testing services. 
 
-(2) The Contractor agrees to include, and require inclusion of, paragraph (a) of this Authorization and Consent clause, suitably modified to identify the parties, in all subcontracts at any tier for research and development activities expected to exceed the simplified acquisition threshold.
+(2) The Contractor agrees to include, and require inclusion of, paragraph (a) of this Authorization and Consent clause, suitably modified to identify the parties, in all subcontracts at any tier for research and development activities expected to exceed the simplified acquisition threshold. 
 
 (3) Omission of an authorization and consent clause from any subcontract, including those valued less than the simplified acquisition threshold does not affect this authorization and consent.
 

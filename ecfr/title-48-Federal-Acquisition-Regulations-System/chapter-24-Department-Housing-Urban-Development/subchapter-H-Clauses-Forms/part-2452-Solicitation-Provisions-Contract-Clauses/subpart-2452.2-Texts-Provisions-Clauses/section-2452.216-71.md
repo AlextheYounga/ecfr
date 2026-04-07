@@ -1,6 +1,6 @@
 ##### 2452.216-71 Award fee.
 
-As prescribed in 2416.406(e)(2), insert the following clause in all fixed-price-award-fee contracts:
+As prescribed in 2416.406(e)(2), insert the following clause in all fixed-price-award-fee contracts: 
 
 Award Fee (FEB 2006)
 

@@ -1,6 +1,6 @@
 ##### 1352.216-77 Ceiling price.
 
-As prescribed in 48 CFR 1316.601-70 and 1316.602-70, insert the following clause:
+As prescribed in 48 CFR 1316.601-70 and 1316.602-70, insert the following clause: 
 
 Ceiling Price (APR 2010)
 

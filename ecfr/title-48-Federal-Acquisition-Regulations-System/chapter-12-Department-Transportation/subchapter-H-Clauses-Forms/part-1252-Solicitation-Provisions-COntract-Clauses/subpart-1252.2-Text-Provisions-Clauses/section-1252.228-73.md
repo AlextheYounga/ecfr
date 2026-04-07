@@ -1,6 +1,6 @@
 ##### 1252.228-73 Command of Aircraft.
 
-As prescribed in 1228.306-70(d), insert the following clause:
+As prescribed in 1228.306-70(d), insert the following clause: 
 
 Command of Aircraft (NOV 2022)
 

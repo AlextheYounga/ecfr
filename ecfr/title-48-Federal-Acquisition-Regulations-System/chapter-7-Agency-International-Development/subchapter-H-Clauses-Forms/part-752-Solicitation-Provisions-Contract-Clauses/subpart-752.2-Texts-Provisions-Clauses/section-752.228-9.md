@@ -1,6 +1,6 @@
 ##### 752.228-9 Cargo insurance.
 
-As prescribed in 728.313(a), the following preface is to be used preceding the text of the clause at (48 CFR) FAR 52.228-9:
+As prescribed in 728.313(a), the following preface is to be used preceding the text of the clause at (48 CFR) FAR 52.228-9: 
 
 Cargo Insurance (DEC 1998)
 

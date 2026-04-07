@@ -1,6 +1,6 @@
 ##### 1052.210-70 Contractor publicity.
 
-As prescribed in 1009.204-70, insert the following clause:
+As prescribed in 1009.204-70, insert the following clause: 
 
 Contractor Publicity (APR 2015)
 

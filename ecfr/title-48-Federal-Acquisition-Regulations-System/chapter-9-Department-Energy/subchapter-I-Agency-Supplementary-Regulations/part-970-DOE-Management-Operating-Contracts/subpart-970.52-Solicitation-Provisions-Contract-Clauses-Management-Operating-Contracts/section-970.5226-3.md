@@ -1,6 +1,6 @@
 ##### 970.5226-3 Community commitment.
 
-As prescribed in 970.2673-2, insert the following clause:
+As prescribed in 970.2673-2, insert the following clause: 
 
 Community Commitment (DEC 2000)
 

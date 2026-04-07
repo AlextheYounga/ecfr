@@ -1,6 +1,6 @@
 ##### 2452.242-70 Indirect costs.
 
-As prescribed in 2442.705-70, insert the following clause in cost-reimbursement type solicitations and contracts when it is determined that the Contractor will be compensated for negotiated or provisional indirect cost rates pending establishment of final indirect cost rates.
+As prescribed in 2442.705-70, insert the following clause in cost-reimbursement type solicitations and contracts when it is determined that the Contractor will be compensated for negotiated or provisional indirect cost rates pending establishment of final indirect cost rates. 
 
 Indirect Costs (APR 1984)
 

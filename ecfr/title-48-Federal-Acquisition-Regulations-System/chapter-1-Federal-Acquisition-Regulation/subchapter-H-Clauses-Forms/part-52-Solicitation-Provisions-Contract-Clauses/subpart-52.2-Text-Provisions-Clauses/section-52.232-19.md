@@ -1,6 +1,6 @@
 ##### 52.232-19 Availability of Funds for the Next Fiscal Year.
 
-As prescribed in 32.706-1(b), insert the following clause:
+As prescribed in 32.706-1(b), insert the following clause: 
 
 Availability of Funds for the Next Fiscal Year (APR 1984)
 

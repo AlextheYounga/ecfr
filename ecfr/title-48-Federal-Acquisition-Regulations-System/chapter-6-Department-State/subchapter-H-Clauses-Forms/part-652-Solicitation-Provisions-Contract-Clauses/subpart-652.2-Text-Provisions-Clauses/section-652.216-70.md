@@ -1,12 +1,12 @@
 ##### 652.216-70 Ordering—Indefinite-Delivery Contract.
 
-As prescribed in 616.506-70, insert the following clause:
+As prescribed in 616.506-70, insert the following clause: 
 
 Ordering—Indefinite-Delivery Contracts (APR 2004)
 
-The Government shall use one of the following forms to issue orders under this contract:
+The Government shall use one of the following forms to issue orders under this contract: 
 
-(a) The Optional Form 347, Order for Supplies or Services, and Optional Form 348, Order for Supplies or Services Schedule—Continuation; or,
+(a) The Optional Form 347, Order for Supplies or Services, and Optional Form 348, Order for Supplies or Services Schedule—Continuation; or, 
 
 (b) The DS-2076, Purchase Order, Receiving Report and Voucher, and DS-2077, Continuation Sheet.
 

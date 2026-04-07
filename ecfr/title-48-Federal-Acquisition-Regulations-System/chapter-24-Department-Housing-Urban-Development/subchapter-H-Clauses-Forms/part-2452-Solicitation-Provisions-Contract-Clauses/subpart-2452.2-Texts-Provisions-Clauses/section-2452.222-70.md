@@ -1,6 +1,6 @@
 ##### 2452.222-70 Accessibility of meetings, conferences, and seminars to persons with disabilities.
 
-As prescribed in 2422.1408(c), insert the following clause in all solicitations and contracts:
+As prescribed in 2422.1408(c), insert the following clause in all solicitations and contracts: 
 
 Accessibility of Meetings, Conferences, and Seminars to Persons With Disabilities (FEB 2006)
 

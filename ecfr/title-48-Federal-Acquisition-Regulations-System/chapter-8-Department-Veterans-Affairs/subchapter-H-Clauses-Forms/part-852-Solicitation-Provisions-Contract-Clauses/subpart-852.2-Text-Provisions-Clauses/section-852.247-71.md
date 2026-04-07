@@ -1,6 +1,6 @@
 ##### 852.247-71 Delivery Location.
 
-As prescribed in 847.302, insert a clause substantially as follows:
+As prescribed in 847.302, insert a clause substantially as follows: 
 
 Delivery Location (OCT 2018)
 

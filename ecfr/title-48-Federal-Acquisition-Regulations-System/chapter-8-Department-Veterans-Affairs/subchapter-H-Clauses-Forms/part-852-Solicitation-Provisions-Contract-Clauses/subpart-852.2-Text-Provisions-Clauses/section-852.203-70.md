@@ -1,6 +1,6 @@
 ##### 852.203-70 Commercial Advertising.
 
-As prescribed in 803.570-2, insert the following clause:
+As prescribed in 803.570-2, insert the following clause: 
 
 Commercial Advertising (MAY 2018)
 

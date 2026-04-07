@@ -1,6 +1,6 @@
 ##### 1852.204-75 Security classification requirements.
 
-As prescribed in 1804.404-70, insert the following clause:
+As prescribed in 1804.404-70, insert the following clause: 
 
 Security Classification Requirements (SEP 1989)
 

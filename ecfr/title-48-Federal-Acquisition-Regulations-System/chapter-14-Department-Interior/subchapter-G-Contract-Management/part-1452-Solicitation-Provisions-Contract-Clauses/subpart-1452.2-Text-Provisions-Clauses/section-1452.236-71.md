@@ -1,6 +1,6 @@
 ##### 1452.236-71 Additive or Deductive Items.
 
-As prescribed in 1436.571, insert the following provision:
+As prescribed in 1436.571, insert the following provision: 
 
 Additive or Deductive Items—Department of the Interior (JUL 1996)
 

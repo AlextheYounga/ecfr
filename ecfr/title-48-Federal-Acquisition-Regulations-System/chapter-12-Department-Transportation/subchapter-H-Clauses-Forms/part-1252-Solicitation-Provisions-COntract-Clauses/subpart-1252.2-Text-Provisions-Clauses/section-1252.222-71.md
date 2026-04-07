@@ -1,6 +1,6 @@
 ##### 1252.222-71 Strikes or Picketing Affecting Access to a DOT Facility.
 
-As prescribed in 1222.101-71(b), insert the following clause:
+As prescribed in 1222.101-71(b), insert the following clause: 
 
 Strikes or Picketing Affecting Access to a DOT Facility (NOV 2022)
 

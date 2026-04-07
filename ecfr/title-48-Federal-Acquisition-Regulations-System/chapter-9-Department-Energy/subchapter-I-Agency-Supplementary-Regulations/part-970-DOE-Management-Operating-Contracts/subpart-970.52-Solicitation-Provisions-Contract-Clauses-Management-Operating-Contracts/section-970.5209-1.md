@@ -1,6 +1,6 @@
 ##### 970.5209-1 Requirement for guarantee of performance.
 
-As prescribed in 970.0970-2, the contracting officer shall insert the following provision in solicitations for management and operating contracts:
+As prescribed in 970.0970-2, the contracting officer shall insert the following provision in solicitations for management and operating contracts: 
 
 Requirement for Guarantee of Performance (DEC 2000)
 

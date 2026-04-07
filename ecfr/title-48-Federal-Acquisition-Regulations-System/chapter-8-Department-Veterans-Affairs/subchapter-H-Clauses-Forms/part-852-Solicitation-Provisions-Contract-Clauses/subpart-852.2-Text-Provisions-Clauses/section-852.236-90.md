@@ -1,6 +1,6 @@
 ##### 852.236-90 Restriction on Submission and Use of Equal Products.
 
-As prescribed in 836.202-70, insert the following clause in solicitations and contracts when it is determined that only one product will meet the Government's minimum needs and the submission of “equal” products is not permitted:
+As prescribed in 836.202-70, insert the following clause in solicitations and contracts when it is determined that only one product will meet the Government's minimum needs and the submission of “equal” products is not permitted: 
 
 Restriction on Submission and Use of Equal Products (APR 2019)
 

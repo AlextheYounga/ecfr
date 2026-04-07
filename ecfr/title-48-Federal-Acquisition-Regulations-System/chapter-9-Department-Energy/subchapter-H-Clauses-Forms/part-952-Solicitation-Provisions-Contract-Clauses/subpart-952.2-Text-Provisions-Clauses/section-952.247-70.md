@@ -1,6 +1,6 @@
 ##### 952.247-70 Foreign travel.
 
-As prescribed in 947.7002, insert the following clause:
+As prescribed in 947.7002, insert the following clause: 
 
 Foreign Travel (JUN 2010)
 

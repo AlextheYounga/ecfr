@@ -1,6 +1,6 @@
 ##### 352.232-70 Incremental Funding.
 
-As prescribed in HHSAR 332.706-2(b), the Contracting Officer shall insert the provision provided below in all solicitations when a cost-reimbursement contract for severable services using incremental funding is contemplated.
+As prescribed in HHSAR 332.706-2(b), the Contracting Officer shall insert the provision provided below in all solicitations when a cost-reimbursement contract for severable services using incremental funding is contemplated. 
 
 Incremental Funding (DEC 2015)
 

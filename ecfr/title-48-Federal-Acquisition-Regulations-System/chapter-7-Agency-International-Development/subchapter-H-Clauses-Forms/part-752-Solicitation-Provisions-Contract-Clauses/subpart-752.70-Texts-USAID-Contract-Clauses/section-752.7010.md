@@ -1,6 +1,6 @@
 ##### 752.7010 Conversion of U.S. dollars to local currency.
 
-For use in all USAID non-commercial contracts involving performance overseas.
+For use in all USAID non-commercial contracts involving performance overseas. 
 
 Conversion of U.S. Dollars to Local Currency (APR 1984)
 

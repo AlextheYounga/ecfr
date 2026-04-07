@@ -1,6 +1,6 @@
 ##### 552.238-93 Order Acknowledgement.
 
-As prescribed in 538.273(d)(17), insert the following clause:
+As prescribed in 538.273(d)(17), insert the following clause: 
 
 Order Acknowledgement (MAY 2019)
 

@@ -1,6 +1,6 @@
 ##### 952.223-72 Radiation protection and nuclear criticality.
 
-As prescribed in 923.7003 the clause set forth herein shall be included in those contracts or subcontracts for, and be made applicable to, work to be performed at a facility where DOE does not elect to assert its statutory authority to enforce occupational safety and health standards applicable to the working conditions of contractor and subcontractor employees, but does need to enforce radiological safety and health standards pursuant to provisions of the contract or subcontract rather than by reliance upon Nuclear Regulatory Commission licensing requirements (including agreements with states under section 274 of the Atomic Energy Act):
+As prescribed in 923.7003 the clause set forth herein shall be included in those contracts or subcontracts for, and be made applicable to, work to be performed at a facility where DOE does not elect to assert its statutory authority to enforce occupational safety and health standards applicable to the working conditions of contractor and subcontractor employees, but does need to enforce radiological safety and health standards pursuant to provisions of the contract or subcontract rather than by reliance upon Nuclear Regulatory Commission licensing requirements (including agreements with states under section 274 of the Atomic Energy Act): 
 
 Radiation Protection and Nuclear Criticality (APR 1984)
 

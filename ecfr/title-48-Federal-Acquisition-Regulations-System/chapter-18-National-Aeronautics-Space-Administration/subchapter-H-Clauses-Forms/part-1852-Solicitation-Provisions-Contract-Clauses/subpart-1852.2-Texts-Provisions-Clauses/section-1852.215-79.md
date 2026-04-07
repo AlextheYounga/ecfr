@@ -1,10 +1,10 @@
 ##### 1852.215-79 Price adjustment for “Make- or-Buy” changes.
 
-As prescribed in 1815.408-70(b), insert the following clause:
+As prescribed in 1815.408-70(b), insert the following clause: 
 
 Price Adjustment for “Make-or-Buy” Changes (JUN 2018)
 
-The following make-or-buy items are subject to the provisions of paragraph (d) of the clause at FAR 52.215-9, Change or Additions to Make-or-Buy Program, of this contract:
+The following make-or-buy items are subject to the provisions of paragraph (d) of the clause at FAR 52.215-9, Change or Additions to Make-or-Buy Program, of this contract: 
 
 | Item Description | Make-or-Buy Determination |
 | ---------------- | ------------------------- |

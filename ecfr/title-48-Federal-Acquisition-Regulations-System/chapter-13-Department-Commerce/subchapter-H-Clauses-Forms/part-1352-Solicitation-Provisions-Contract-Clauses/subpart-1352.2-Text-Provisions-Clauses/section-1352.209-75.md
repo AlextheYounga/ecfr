@@ -1,6 +1,6 @@
 ##### 1352.209-75 Title 13 and non-disclosure requirements.
 
-As prescribed in 48 CFR 1309.507-2(e), insert the following clause:
+As prescribed in 48 CFR 1309.507-2(e), insert the following clause: 
 
 Title 13 and Non-Disclosure Requirements (APR 2010)
 

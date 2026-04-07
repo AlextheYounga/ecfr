@@ -1,6 +1,6 @@
 ##### 970.5232-8 Integrated accounting.
 
-As prescribed in 970.3270(b)(2), insert the following clause:
+As prescribed in 970.3270(b)(2), insert the following clause: 
 
 Integrated Accounting (DEC 2000)
 

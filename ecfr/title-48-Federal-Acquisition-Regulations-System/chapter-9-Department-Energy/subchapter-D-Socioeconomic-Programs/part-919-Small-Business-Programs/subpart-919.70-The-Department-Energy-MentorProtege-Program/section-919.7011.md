@@ -1,31 +1,31 @@
 ##### 919.7011 Developmental assistance.
 
-(a) The forms of developmental assistance a Mentor may provide to a Protege include, but are not limited to—
+(a) The forms of developmental assistance a Mentor may provide to a Protege include, but are not limited to— 
 
-(1) Management guidance relating to—
+(1) Management guidance relating to— 
 
-(i) Financial management,
+(i) Financial management, 
 
-(ii) Organizational management,
+(ii) Organizational management, 
 
-(iii) Overall business management planning,
+(iii) Overall business management planning, 
 
-(iv) Business development, and
+(iv) Business development, and 
 
-(v) Marketing assistance;
+(v) Marketing assistance; 
 
-(2) Engineering and other technical assistance;
+(2) Engineering and other technical assistance; 
 
-(3) Noncompetitive award of subcontracts under DOE or other Federal contracts where otherwise authorized;
+(3) Noncompetitive award of subcontracts under DOE or other Federal contracts where otherwise authorized; 
 
-(4) Award of subcontracts in the Mentor's commercial activities;
+(4) Award of subcontracts in the Mentor's commercial activities; 
 
-(5) Progress payments based on costs;
+(5) Progress payments based on costs; 
 
-(6) Rent-free use of facilities and/or equipment owned or leased by Mentor; and
+(6) Rent-free use of facilities and/or equipment owned or leased by Mentor; and 
 
-(7) Temporary assignment of Mentor personnel to the Protege for purposes of training.
+(7) Temporary assignment of Mentor personnel to the Protege for purposes of training. 
 
-(b) Costs incurred by a Mentor to provide developmental assistance, as described in paragraph (a) of this section, are allowable only to the extent provided at 919.7003(b).
+(b) Costs incurred by a Mentor to provide developmental assistance, as described in paragraph (a) of this section, are allowable only to the extent provided at 919.7003(b). 
 
 \[49 FR 11997, Mar. 28, 1984, as amended at 75 FR 69012, Nov. 10, 2010\]

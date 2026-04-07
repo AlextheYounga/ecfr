@@ -1,6 +1,6 @@
 ##### 1852.219-75 Individual Subcontracting Reports.
 
-As prescribed in 1819.708-70(b), insert the following clause:
+As prescribed in 1819.708-70(b), insert the following clause: 
 
 Individual Subcontracting Reports (APR 2015)
 

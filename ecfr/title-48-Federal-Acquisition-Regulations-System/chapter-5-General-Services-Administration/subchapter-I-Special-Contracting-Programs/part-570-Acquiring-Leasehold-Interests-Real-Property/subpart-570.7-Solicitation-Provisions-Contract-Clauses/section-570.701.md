@@ -1,6 +1,6 @@
 ##### 570.701 FAR provisions and clauses.
 
-Insert provisions or clauses substantially the same as the FAR provisions and clauses listed below.
+Insert provisions or clauses substantially the same as the FAR provisions and clauses listed below. 
 
 | If . . .                                                                                                                          | Then include . . .                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
