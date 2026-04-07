@@ -1,17 +1,25 @@
 ##### § 1221.2 Requirements for play yards.
 
-(a) Except as provided in paragraph (b) of this section, each play yard shall comply with all applicable provisions of ASTM F406-24, *Standard Consumer Safety Specification for Non-Full-Size Baby Cribs/Play Yards,* approved on August 1, 2024. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. This material is available for inspection at the U.S. Consumer Product Safety Commission and at the National Archives and Records Administration (NARA). Contact the U.S. Consumer Product Safety Commission at: Office of the Secretary, U.S. Consumer Product Safety Commission, 4330 East West Highway, Bethesda, MD 20814, telephone (301) 504-7479, email: *cpsc-os@cpsc.gov.* For information on the availability of this material at NARA, email *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* A free, read-only copy of the standard is available for viewing on the ASTM website at *https://www.astm.org/READINGLIBRARY/.* You may also obtain a copy from ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; phone: (610) 832-9585; *www.astm.org.*
+Link to an amendment published at 90 FR 8374, Jan. 29, 2025.Link to a correction of the above amendment published at 90 FR 9608, Feb. 14, 2025.
 
-(b) Comply with the ASTM F406-24 standard with the following exclusions:
+(a) Except as provided in paragraph (b) of this section, each play yard must comply with all applicable provisions of ASTM F406-19, *Standard Consumer Safety Specification for Non-Full-Size Baby Cribs/Play Yards,* approved on March 15, 2019. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of this ASTM standard from ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959; *www.astm.org.* You may inspect a copy at the Division of the Secretariat, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone 301-504-7923, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-(1) Do not comply with section 5.17 of ASTM F406-24.
+(b) Comply with the ASTM F406-19 standard with the following exclusions: 
 
-(2) Do not comply with section 5.20 of ASTM F406-24.
+(1) Do not comply with section 5.17 of ASTM F406-19. 
 
-(3) Do not comply with section 6, *Performance Requirements for Rigid Sided Products,* of ASTM F406-24.
+(2) Do not comply with section 5.20 of ASTM F406-19. 
 
-(4) Do not comply with section 8.1 through 8.10.5 of ASTM F406-24.
+(3) Do not comply with section 6, *Performance Requirements for Rigid Sided Products,* of ASTM F406-19. 
 
-(5) Do not comply with section 9.5.2.1 of ASTM F406-24.
+(4) Do not comply with sections 8.1 through 8.10.5 of ASTM F406-19. 
 
-\[90 FR 8374, Jan. 29, 2025, as amended at 90 FR 9608, Feb. 14, 2025\]
+(5) Instead of complying with section 9.4.2.10 of ASTM F406-19, comply only with the following: 
+
+(i) 9.4.2.10 For products that have a separate mattress that is not permanently fixed in place: Use ONLY mattress/pad provided by manufacturer. 
+
+(ii) \[Reserved\] 
+
+(6) Do not comply with section 10.1.1.1 of ASTM F406-19.
+
+\[84 FR 56689, Oct. 23, 2019\]

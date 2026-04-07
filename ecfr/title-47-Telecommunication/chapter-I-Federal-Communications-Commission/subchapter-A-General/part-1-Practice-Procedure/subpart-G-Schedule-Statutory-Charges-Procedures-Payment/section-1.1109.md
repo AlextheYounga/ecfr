@@ -1,6 +1,6 @@
 ##### § 1.1109 Schedule of charges for applications and other filings for the Homeland services.
 
-Payments should be made electronically using the Commission's electronic filing and payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.* Manual filings and/or payments for these services are no longer accepted. 
+Payments should be made electronically using the Commission's electronic filing and payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.* Manual filings and/or payments for these services are no longer accepted.
 
 | Service                                                            | FCC Form No. | Fee amount | Payment type code |
 | ------------------------------------------------------------------ | ------------ | ---------- | ----------------- |

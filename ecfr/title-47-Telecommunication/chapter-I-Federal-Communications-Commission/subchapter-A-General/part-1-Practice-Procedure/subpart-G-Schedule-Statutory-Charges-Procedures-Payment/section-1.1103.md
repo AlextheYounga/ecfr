@@ -1,5 +1,7 @@
 ##### § 1.1103 Schedule of charges for equipment approval, experimental radio services (or service).
 
+Link to an amendment published at 90 FR 17013, Apr. 23, 2025.
+
 Table 1 to § 1.1103
 | Type of application                          | Payment type code | Fee amount |
 | -------------------------------------------- | ----------------- | ---------- |

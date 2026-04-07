@@ -1,6 +1,6 @@
 ##### § 1.271 Delegation of review function.
 
-The Commission may direct, by order or rule, that its review function in a case or category of cases be performed by a commissioner, or a panel of commissioners, in which event the commissioner or panel shall exercise the authority and perform the functions which would otherwise have been performed by the Commission under §§ 1.273 through 1.282. 
+The Commission may direct, by order or rule, that its review function in a case or category of cases be performed by a commissioner, or a panel of commissioners, in which event the commissioner or panel shall exercise the authority and perform the functions which would otherwise have been performed by the Commission under §§ 1.273 through 1.282.
 
 Note:
 

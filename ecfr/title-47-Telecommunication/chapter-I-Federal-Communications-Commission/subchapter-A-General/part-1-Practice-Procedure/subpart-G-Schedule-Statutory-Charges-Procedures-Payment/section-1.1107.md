@@ -1,5 +1,7 @@
 ##### § 1.1107 Schedule of charges for applications and other filings for the international services.
 
+Link to an amendment published at 90 FR 17013, Apr. 23, 2025.
+
 International Services
 |                                                                                                                                              | Payment type code                 | New fee                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------ |

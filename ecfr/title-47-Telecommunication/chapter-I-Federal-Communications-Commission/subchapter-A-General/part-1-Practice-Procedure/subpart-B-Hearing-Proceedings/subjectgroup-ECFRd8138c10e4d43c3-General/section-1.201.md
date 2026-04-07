@@ -1,10 +1,10 @@
 ##### § 1.201 Scope.
 
-This subpart shall be applicable to the following cases which have been designated for hearing: 
+This subpart shall be applicable to the following cases which have been designated for hearing:
 
-(a) Adjudication (as defined by the Administrative Procedure Act); and 
+(a) Adjudication (as defined by the Administrative Procedure Act); and
 
-(b) Rule making proceedings which are required by law to be made on the record after opportunity for a Commission hearing. 
+(b) Rule making proceedings which are required by law to be made on the record after opportunity for a Commission hearing.
 
 Note 1 to § 1.201:
 

@@ -1,47 +1,47 @@
 ##### § 303.6 Enforcement of support obligations.
 
-For all cases referred to the IV-D agency or applying for services under § 302.33 in which the obligation to support and the amount of the obligation have been established, the IV-D agency must maintain and use an effective system for: 
+For all cases referred to the IV-D agency or applying for services under § 302.33 in which the obligation to support and the amount of the obligation have been established, the IV-D agency must maintain and use an effective system for:
 
-(a) Monitoring compliance with the support obligation; 
+(a) Monitoring compliance with the support obligation;
 
-(b) Identifying on the date the parent fails to make payments in an amount equal to the support payable for one month, or on an earlier date in accordance with State law, those cases in which there is a failure to comply with the support obligation; and 
+(b) Identifying on the date the parent fails to make payments in an amount equal to the support payable for one month, or on an earlier date in accordance with State law, those cases in which there is a failure to comply with the support obligation; and
 
-(c) Enforcing the obligation by: 
+(c) Enforcing the obligation by:
 
-(1) Initiating income withholding, in accordance with § 303.100; 
+(1) Initiating income withholding, in accordance with § 303.100;
 
-(2) Taking any appropriate enforcement action (except income withholding and Federal and State income tax refund offset) unless service of process is necessary, within no more than 30 calendar days of identifying a delinquency or other support-related non-compliance with the order or the location of the noncustodial parent, whichever occurs later. If service of process is necessary prior to taking an enforcement action, service must be completed (or unsuccessful attempts to serve process must be documented in accordance with the State's guidelines defining diligent efforts under § 303.3(c)), and enforcement action taken if process is served, within no later than 60 calendar days of identifying a delinquency or other support-related non-compliance with the order, or the location of the noncustodial parent, whichever occurs later; 
+(2) Taking any appropriate enforcement action (except income withholding and Federal and State income tax refund offset) unless service of process is necessary, within no more than 30 calendar days of identifying a delinquency or other support-related non-compliance with the order or the location of the noncustodial parent, whichever occurs later. If service of process is necessary prior to taking an enforcement action, service must be completed (or unsuccessful attempts to serve process must be documented in accordance with the State's guidelines defining diligent efforts under § 303.3(c)), and enforcement action taken if process is served, within no later than 60 calendar days of identifying a delinquency or other support-related non-compliance with the order, or the location of the noncustodial parent, whichever occurs later;
 
-(3) Submitting once a year all cases which meet the certification requirements under § 303.102 of this part and State guidelines developed under § 302.70(b) of this title for State income tax refund offset, and which meet the certification requirements under § 303.72 of this part for Federal income tax refund offset; 
+(3) Submitting once a year all cases which meet the certification requirements under § 303.102 of this part and State guidelines developed under § 302.70(b) of this title for State income tax refund offset, and which meet the certification requirements under § 303.72 of this part for Federal income tax refund offset;
 
-(4) Establishing guidelines for the use of civil contempt citations in IV-D cases. The guidelines must include requirements that the IV-D agency: 
+(4) Establishing guidelines for the use of civil contempt citations in IV-D cases. The guidelines must include requirements that the IV-D agency:
 
-(i) Screen the case for information regarding the noncustodial parent's ability to pay or otherwise comply with the order; 
+(i) Screen the case for information regarding the noncustodial parent's ability to pay or otherwise comply with the order;
 
-(ii) Provide the court with such information regarding the noncustodial parent's ability to pay, or otherwise comply with the order, which may assist the court in making a factual determination regarding the noncustodial parent's ability to pay the purge amount or comply with the purge conditions; and 
+(ii) Provide the court with such information regarding the noncustodial parent's ability to pay, or otherwise comply with the order, which may assist the court in making a factual determination regarding the noncustodial parent's ability to pay the purge amount or comply with the purge conditions; and
 
-(iii) Provide clear notice to the noncustodial parent that his or her ability to pay constitutes the critical question in the civil contempt action; 
+(iii) Provide clear notice to the noncustodial parent that his or her ability to pay constitutes the critical question in the civil contempt action;
 
-(5)(i) As elected by the State in § 302.76 of this chapter, provide employment and training services to eligible noncustodial parents. In addition to eligibility criteria that may be set by the IV-D agency, the noncustodial parent must: have an open IV-D case; have a child support order or be determined by the IV-D agency to be fully cooperating with the IV-D agency to establish a child support order; and be unemployed or underemployed or at risk of not being able to comply with their support order. In addition, the IV-D agency must have adopted policies and procedures for determining that the noncustodial parent is not receiving the same employment and training services under the following programs: the Temporary Assistance for Needy Families program (45 CFR part 261), the Supplemental Nutrition Assistance Program Employment and Training program (7 CFR 273.7 and 273.24), the Federal Pell Grant program (34 CFR part 690), the Adult, Dislocated Worker, and Youth programs under title I of the Workforce Innovation and Opportunity Act (20 CFR parts 675 through 688), the Adult Education and Family Literacy Act program (34 CFR part 463), the Employment Service program (20 CFR part 652), or the State Vocational Rehabilitation program (34 CFR part 361); 
+(5)(i) As elected by the State in § 302.76 of this chapter, provide employment and training services to eligible noncustodial parents. In addition to eligibility criteria that may be set by the IV-D agency, the noncustodial parent must: have an open IV-D case; have a child support order or be determined by the IV-D agency to be fully cooperating with the IV-D agency to establish a child support order; and be unemployed or underemployed or at risk of not being able to comply with their support order. In addition, the IV-D agency must have adopted policies and procedures for determining that the noncustodial parent is not receiving the same employment and training services under the following programs: the Temporary Assistance for Needy Families program (45 CFR part 261), the Supplemental Nutrition Assistance Program Employment and Training program (7 CFR 273.7 and 273.24), the Federal Pell Grant program (34 CFR part 690), the Adult, Dislocated Worker, and Youth programs under title I of the Workforce Innovation and Opportunity Act (20 CFR parts 675 through 688), the Adult Education and Family Literacy Act program (34 CFR part 463), the Employment Service program (20 CFR part 652), or the State Vocational Rehabilitation program (34 CFR part 361);
 
-(ii) These IV-D agency employment and training services are limited to: 
+(ii) These IV-D agency employment and training services are limited to:
 
-(A) Job search assistance; 
+(A) Job search assistance;
 
-(B) Job readiness training; 
+(B) Job readiness training;
 
-(C) Job development and job placement services; 
+(C) Job development and job placement services;
 
-(D) Skills assessments to facilitate job placement; 
+(D) Skills assessments to facilitate job placement;
 
-(E) Job retention services; 
+(E) Job retention services;
 
-(F) Work supports, such as transportation assistance, uniforms, and tools; and 
+(F) Work supports, such as transportation assistance, uniforms, and tools; and
 
-(G) Occupational training and other skills training directly related to employment, which may also include activities to improve literacy and basic skills, such as programs to complete high school or a high school equivalency certificate or English as a second language; and 
+(G) Occupational training and other skills training directly related to employment, which may also include activities to improve literacy and basic skills, such as programs to complete high school or a high school equivalency certificate or English as a second language; and
 
-(iii) Federal financial participation may also be used to provide case management in connection with the allowable services under this paragraph (c)(5); and 
+(iii) Federal financial participation may also be used to provide case management in connection with the allowable services under this paragraph (c)(5); and
 
-(6) In cases in which enforcement attempts have been unsuccessful, at the time an attempt to enforce fails, examining the reason the enforcement attempt failed and determining when it would be appropriate to take an enforcement action in the future, and taking an enforcement action in accordance with the requirements of this section at that time. 
+(6) In cases in which enforcement attempts have been unsuccessful, at the time an attempt to enforce fails, examining the reason the enforcement attempt failed and determining when it would be appropriate to take an enforcement action in the future, and taking an enforcement action in accordance with the requirements of this section at that time.
 
 \[54 FR 32310, Aug. 4, 1989, as amended at 55 FR 25840, June 25, 1990; 81 FR 93564, Dec. 20, 2016; 89 FR 100808, Dec. 13, 2024\]
