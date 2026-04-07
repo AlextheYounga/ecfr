@@ -1,50 +1,103 @@
 ##### § 26.163 Cutoff levels for drugs and drug metabolites.
 
-Link to an amendment published at 87 FR 71460, Nov. 22, 2022.
+(a) *Initial drug testing.* (1) HHS-certified laboratories shall apply the following cutoff levels for initial testing of specimens to determine whether they are negative or positive for the indicated drugs and drug metabolites, except as specified in paragraph (a)(2) of this section or the licensee or other entity has established more stringent cutoff levels:
 
-(a) *Initial drug testing.* (1) HHS-certified laboratories shall apply the following cutoff levels for initial testing of specimens to determine whether they are negative for the indicated drugs and drug metabolites, except if validity testing indicates that the specimen is dilute or the licensee or other entity has established more stringent cutoff levels:
+Table 1 to Paragraph (a)(1)—Urine, Initial Test Cutoff Levels for Drugs and Drug Metabolites
+| Drugs or drug metabolites                                                                                                                                                    | Cutoff level   \[nanograms   (ng)/mL\] |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| Marijuana metabolites                                                                                                                                                        | 50                                     |
+| Cocaine metabolites                                                                                                                                                          | 150                                    |
+| Opioids:                                                                                                                                                                     |                                        |
+| Codeine/Morphine1                                                                                                                                                            | 2,000                                  |
+| Hydrocodone/Hydromorphone                                                                                                                                                    | 300                                    |
+| Oxycodone/Oxymorphone                                                                                                                                                        | 100                                    |
+| 6-acetylmorphine (6-AM)                                                                                                                                                      | 10                                     |
+| Phencyclidine (PCP)                                                                                                                                                          | 25                                     |
+| Amphetamines: 2                                                                                                                                                              |                                        |
+| AMP/MAMP 3                                                                                                                                                                   | 500                                    |
+| MDMA 4/MDA 5                                                                                                                                                                 | 500                                    |
+| 1 Morphine is the target analyte for codeine/morphine testing.                                                                                                               |                                        |
+| 2 Either a single initial test kit or multiple initial test kits may be used provided the single test kit detects each target analyte independently at the specified cutoff. |                                        |
+| 3 Methamphetamine (MAMP) is the target analyte for amphetamine (AMP)/MAMP testing.                                                                                           |                                        |
+| 4 Methylenedioxymethamphetamine.                                                                                                                                             |                                        |
+| 5 Methylenedioxyamphetamine.                                                                                                                                                 |                                        |
 
-Initial Test Cutoff Levels for Drugs and Drug Metabolites
+Table 2 to Paragraph (a)(1)—Oral Fluid, Initial Test Cutoff Levels for Drugs and Drug Metabolites
+| Drugs or drug metabolites                                                                                                                                                                                                                                                                                   | Cutoff level 1   \[nanograms   (ng)/mL\] |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Marijuana (THC) 23                                                                                                                                                                                                                                                                                          | 4                                        |
+| Cocaine/Benzoylecgonine                                                                                                                                                                                                                                                                                     | 15                                       |
+| Opioids:                                                                                                                                                                                                                                                                                                    |                                          |
+| Codeine/Morphine                                                                                                                                                                                                                                                                                            | 30                                       |
+| Hydrocodone/Hydromorphone                                                                                                                                                                                                                                                                                   | 30                                       |
+| Oxycodone/Oxymorphone                                                                                                                                                                                                                                                                                       | 30                                       |
+| 6-acetylmorphine (6-AM)                                                                                                                                                                                                                                                                                     | 4 3                                      |
+| Phencyclidine (PCP)                                                                                                                                                                                                                                                                                         | 10                                       |
+| Amphetamines:                                                                                                                                                                                                                                                                                               |                                          |
+| AMP/MAMP 4                                                                                                                                                                                                                                                                                                  | 50                                       |
+| MDMA/MDA 5                                                                                                                                                                                                                                                                                                  | 50                                       |
+| 1 For grouped analytes (i.e., two or more analytes in the same drug class with the same initial test cutoff):                                                                                                                                                                                               |                                          |
+| • Immunoassay: The test must be calibrated with one analyte from the group identified as the target analyte. The cross reactivity of the immunoassay to the other analyte(s) within the group must be 80 percent or greater; if not, separate immunoassays must be used for the analytes within the group.  |                                          |
+| • Alternative technology: Either one analyte or all analytes from the group must be used for calibration, depending on the technology. At least one analyte within the group must have a concentration equal to or greater than the initial test cutoff or, alternatively, the sum of the analytes present. |                                          |
+| 2 An immunoassay must be calibrated with the target analyte, delta-9-tetrahydrocannabinol (THC).                                                                                                                                                                                                            |                                          |
+| 3 Alternate technology (THC and 6-AM): The confirmatory tests cutoff must be used for an alternate technology initial test that is specific for the target analyte (i.e., 2 ng/mL for THC, 2 ng/mL for 6-AM).                                                                                               |                                          |
+| 4 Amphetamine (AMP) and methamphetamine (MAMP).                                                                                                                                                                                                                                                             |                                          |
+| 5 Methylenedioxymethamphetamine (MDMA) and methylenedioxyamphetamine (MDA).                                                                                                                                                                                                                                 |                                          |
 
-| Drug or metabolites   | Cutoff level \[nanograms (ng)/mL\] |
-| --------------------- | ---------------------------------- |
-| Marijuana metabolites | 50                                 |
-| Cocaine metabolites   | 300                                |
-| Opiate metabolites    | 2000                               |
-| Phencyclidine (PCP)   | 25                                 |
-| Amphetamines          | 1000                               |
+(2) HHS-certified laboratories shall conduct special analyses of specimens as follows:
 
-(2) At the licensee's or other entity's discretion, as documented in the FFD program policies and procedures, the licensee or other entity may require the HHS-certified laboratory to conduct special analyses of dilute specimens as follows:
+(i) If initial validity testing indicates that a specimen is dilute, or if a specimen is collected under direct observation for any of the conditions specified in § 26.115(a)(1) through (3) or (a)(5), the laboratory shall compare the immunoassay responses of the specimen to the cutoff calibrator in each drug class tested;
 
-(i) If initial validity testing indicates that a specimen is dilute, the HHS-certified laboratory shall compare the responses of the dilute specimen to the cutoff calibrator in each of the drug classes;
-
-(ii) If any response is equal to or greater than 50 percent of the cutoff, the HHS-certified laboratory shall conduct confirmatory testing of the specimen down to the LOD for those drugs and/or drug metabolites; and
+(ii) If any immunoassay response is equal to or greater than 40 percent of the cutoff calibrator, the laboratory shall conduct confirmatory drug testing of the specimen to the LOQ for those drugs and/or drug metabolites; and
 
 (iii) The laboratory shall report the numerical values obtained from this special analysis to the MRO.
 
-(b) *Confirmatory drug testing.* (1) A specimen that is identified as positive on an initial drug test must be subject to confirmatory testing for the class(es) of drugs for which the specimen initially tested positive. The HHS-certified laboratory shall apply the confirmatory cutoff levels specified in this paragraph, except if the licensee or other entity requires the special analysis of dilute specimens permitted in paragraph (a)(2) of this section or the licensee or other entity has established more stringent cutoff levels.
+(b) *Confirmatory drug testing.* (1) A specimen that is identified as positive on an initial drug test must be subject to confirmatory testing for the class(es) of drugs for which the specimen initially tested positive. The HHS-certified laboratory shall apply the confirmatory cutoff levels specified in this paragraph, except as permitted in paragraph (a)(2) of this section or the licensee or other entity has established more stringent cutoff levels.
 
-Confirmatory Test Cutoff Levels for Drugs and Drug Metabolites
+Table 3 to Paragraph (b)(1)—Urine, Confirmatory Test Cutoff Levels for Drugs and Drug Metabolites
+| Drugs or drug metabolites                                                                                                                      | Cutoff level   (ng/mL) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| Marijuana metabolite 1                                                                                                                         | 15                     |
+| Cocaine metabolite 2                                                                                                                           | 100                    |
+| Opioids:                                                                                                                                       |                        |
+| Morphine                                                                                                                                       | 2,000                  |
+| Codeine                                                                                                                                        | 2,000                  |
+| Hydrocodone                                                                                                                                    | 100                    |
+| Hydromorphone                                                                                                                                  | 100                    |
+| Oxycodone                                                                                                                                      | 100                    |
+| Oxymorphone                                                                                                                                    | 100                    |
+| 6-acetylmorphine (6-AM)                                                                                                                        | 10                     |
+| Phencyclidine (PCP)                                                                                                                            | 25                     |
+| Amphetamines:                                                                                                                                  |                        |
+| Amphetamine                                                                                                                                    | 250                    |
+| Methamphetamine 3                                                                                                                              | 250                    |
+| Methylenedioxymethamphetamine (MDMA)                                                                                                           | 250                    |
+| Methylenedioxyamphetamine (MDA)                                                                                                                | 250                    |
+| 1 As delta-9-tetrahydrocannabinol-9-carboxylic acid (THCA).                                                                                    |                        |
+| 2 As benzoylecgonine.                                                                                                                          |                        |
+| 3 To be reported positive for methamphetamine, a specimen must also contain amphetamine at a concentration equal to or greater than 100 ng/mL. |                        |
 
-| Drug or metabolites    | Cutoff level   (ng/mL) |
-| ---------------------- | ---------------------- |
-| Marijuana metabolite 1 | 15                     |
-| Cocaine metabolite 2   | 150                    |
-| Opiates:               |                        |
-| Morphine               | 2000                   |
-| Codeine                | 2000                   |
-| 6-acetylmorphine 3     | 10                     |
-| Phencyclidine (PCP)    | 25                     |
-| Amphetamines:          |                        |
-| Amphetamine            | 500                    |
-| Methamphetamine 4      | 500                    |
-
-1 As delta-9-tetrahydrocannabinol-9-carboxylic acid.
-
-2 As benzoylecgonine.
-
-3 Test for 6-AM when the confirmatory test shows a morphine concentration exceeding 2,000 ng/mL.
-
-4 Specimen must also contain amphetamine at a concentration equal to or greater than 200 ng/mL.
+Table 4 to Paragraph (b)(1)—Oral Fluid, Confirmatory Test Cutoff Levels for Drugs and Drug Metabolites
+| Drugs or drug metabolites            | Cutoff level   \[nanograms   (ng)/mL\] |
+| ------------------------------------ | -------------------------------------- |
+| Marijuana (THC)                      | 2                                      |
+| Cocaine                              | 8                                      |
+| Benzoylecgonine                      | 8                                      |
+| Opioids:                             |                                        |
+| Codeine                              | 15                                     |
+| Morphine                             | 15                                     |
+| Hydrocodone                          | 15                                     |
+| Hydromorphone                        | 15                                     |
+| Oxycodone                            | 15                                     |
+| Oxymorphone                          | 15                                     |
+| 6-acetylmorphine (6-AM)              | 2                                      |
+| Phencyclidine (PCP)                  | 10                                     |
+| Amphetamines:                        |                                        |
+| Amphetamine                          | 25                                     |
+| Methamphetamine                      | 25                                     |
+| Methylenedioxymethamphetamine (MDMA) | 25                                     |
+| Methylenedioxyamphetamine (MDA)      | 25                                     |
 
 (2) Each confirmatory drug test must provide a quantitative result. When the concentration of a drug or metabolite exceeds the linear range of the standard curve, the laboratory may record the result as “exceeds the linear range of the test” or as “equal to or greater than \<insert the value for the upper limit of the linear range>,” or may dilute an aliquot of the specimen to obtain an accurate quantitative result when the concentration is above the upper limit of the linear range.
+
+\[73 FR 17176, Mar. 31, 2008, as amended at 87 FR 71460, Nov. 22, 2022\]

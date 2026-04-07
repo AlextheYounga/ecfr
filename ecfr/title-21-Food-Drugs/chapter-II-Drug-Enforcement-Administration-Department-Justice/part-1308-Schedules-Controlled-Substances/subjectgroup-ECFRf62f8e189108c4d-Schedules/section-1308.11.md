@@ -1,6 +1,6 @@
 ##### § 1308.11 Schedule I.
 
-Link to an amendment published at 87 FR 71250, Nov. 22, 2022.Link to an amendment published at 87 FR 75473, Dec. 9, 2022.
+Link to an amendment published at 87 FR 75473, Dec. 9, 2022.
 
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
@@ -685,19 +685,23 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 1503 
 
-(7) Methcathinone (Some other names: 2-(methylamino)-propiophenone; alpha-(methylamino)propiophenone; 2-(methylamino)-1-phenylpropan-1-one; alpha-N-methylaminopropiophenone; monomethylpropion; ephedrone; N-methylcathinone; methylcathinone; AL-464; AL-422; AL-463 and UR1432), its salts, optical isomers and salts of optical isomers
+(7) Mesocarb (N-phenyl-N ′-(3-(1-phenylpropan-2-yl)-1,2,3-oxadiazol-3-ium-5-yl)carbamimidate)
+
+1227 
+
+(8) Methcathinone (Some other names: 2-(methylamino)-propiophenone; alpha-(methylamino)propiophenone; 2-(methylamino)-1-phenylpropan-1-one; alpha-N-methylaminopropiophenone; monomethylpropion; ephedrone; N-methylcathinone; methylcathinone; AL-464; AL-422; AL-463 and UR1432), its salts, optical isomers and salts of optical isomers
 
 1237 
 
-(8) (±)cis-4-methylaminorex ((±)cis-4,5-dihydro-4-methyl-5-phenyl-2-oxazolamine)
+(9) (±)cis-4-methylaminorex ((±)cis-4,5-dihydro-4-methyl-5-phenyl-2-oxazolamine)
 
 1590 
 
-(9) N-ethylamphetamine
+(10) N-ethylamphetamine
 
 1475 
 
-(10) N,N-dimethylamphetamine (also known as N,N-alpha-trimethyl-benzeneethanamine; N,N-alpha-trimethylphenethylamine)
+(11) N,N-dimethylamphetamine (also known as N,N-alpha-trimethyl-benzeneethanamine; N,N-alpha-trimethylphenethylamine)
 
 1480
 
