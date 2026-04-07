@@ -2,9 +2,9 @@
 
 As prescribed in 1009.7005, insert the following provision:
 
-NOTICE AND CONSENT TO DISCLOSE AND USE OF TAXPAYER RETURN INFORMATION - (NOV 2017)
+Notice and Consent To Disclose and Use of Taxpayer Return Information (NOV 2017)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
 *Authorized representative(s) of the offeror* means the person(s) identified to the Internal Revenue Service (IRS) within the consent to disclose by the offeror as authorized to represent the offeror in disclosure matters pertaining to the offer.
 
@@ -28,4 +28,4 @@ I consent to disclosure of taxpayer return information to the following person(s
 
 I am aware that in the absence of this authorization, the taxpayer return information of \[*insert OFFEROR NAME*\] is confidential and may not be disclosed, which subsequently may remove the offer from eligibility to receive an award under this solicitation.
 
-I consent to disclosure of taxpayer return information to the following person(s): \[*insert PERSON(S) NAME AND CONTACT INFORMATION*\]: I certify that I have the authority to execute this consent on behalf of \[*insert OFFEROR NAME*\]. Offeror Name: Offeror Taxpayer Identification Number: Offeror Address: Name of Individual Executing Consent: Title of Individual Executing Consent: Signature: Date: (End of provision) \[82 FR 53429, Nov. 16, 2017\]
+I consent to disclosure of taxpayer return information to the following person(s): \[*insert PERSON(S) NAME AND CONTACT INFORMATION*\]: I certify that I have the authority to execute this consent on behalf of \[*insert OFFEROR NAME*\]. Offeror Name: Offeror Taxpayer Identification Number: Offeror Address: Name of Individual Executing Consent: Title of Individual Executing Consent: Signature: Date:(End of provision) \[82 FR 53429, Nov. 16, 2017\]
