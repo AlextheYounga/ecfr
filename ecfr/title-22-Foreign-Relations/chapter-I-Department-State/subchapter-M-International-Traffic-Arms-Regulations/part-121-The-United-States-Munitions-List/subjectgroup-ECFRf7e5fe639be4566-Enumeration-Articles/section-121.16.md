@@ -1,5 +1,7 @@
 ##### § 121.16 Missile Technology Control Regime Annex.
 
+Link to an amendment published at 87 FR 16423, Mar. 23, 2022.
+
 Some of the items on the Missile Technology Control Regime Annex are controlled by both the Department of Commerce on the Commodity Control List and by the Department of State on the United States Munitions List. To the extent an article is on the United States Munitions List, a reference appears in parentheses listing the U.S. Munitions List category in which it appears. The following items constitute all items on the Missile Technology Control Regime Annex which are covered by the U.S. Munitions List:
 
 Item 1 - Category I

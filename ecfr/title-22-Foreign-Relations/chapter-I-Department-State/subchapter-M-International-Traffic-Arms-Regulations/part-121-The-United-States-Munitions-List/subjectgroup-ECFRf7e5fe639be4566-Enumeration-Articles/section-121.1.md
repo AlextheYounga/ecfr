@@ -1,6 +1,6 @@
 ##### § 121.1 The United States Munitions List.
 
-Link to an amendment published at 86 FR 48022, Aug. 27, 2021.
+Link to an amendment published at 86 FR 48022, Aug. 27, 2021.Link to an amendment published at 87 FR 16422, Mar. 23, 2022.
 
 (a) *U.S. Munitions List.* In this part, articles, services, and related technical data are designated as defense articles or defense services pursuant to sections 38 and 47(7) of the Arms Export Control Act and constitute the U.S. Munitions List (USML). Changes in designations are published in the Federal Register. Paragraphs (a)(1) through (3) of this section describe or explain the elements of a USML category:
 
@@ -2980,7 +2980,7 @@ Parts, components, accessories, attachments, equipment, or systems that are comm
 
 (iv) Electric (Plasma/Ion) propulsion systems that provide a thrust greater than 300 milli-Newtons and a specific impulse greater than 1,500 sec; or that operate at an input power of more than 15kW;
 
-(12) Thrusters (e.g., spacecraft or rocket engines) using bi-propellants or mono-propellant that provide greater than 150 lbf (*i.e.,* 667.23 N) vacuum thrust (MT for rocket motors or engines having a total impulse capacity equal to or greater than 8.41 × 10⁁5 newton seconds);
+(12) Thrusters (e.g., spacecraft or rocket engines) using bi-propellants or mono-propellant that provide greater than 150 lbf (*i.e.,* 667.23 N) vacuum thrust (MT for rocket motors or engines having a total impulse capacity equal to or greater than 8.41 × 10^5 newton seconds);
 
 (13) Control moment gyroscope (CMG) specially designed for spacecraft;
 
@@ -3000,7 +3000,7 @@ Note 1 to paragraph (e)(17):
 
 *Primary payload* is that complement of equipment designed from the outset to accomplish the prime mission function of the spacecraft payload mission set. The primary payload may operate independently from the secondary payload(s). *Secondary payload* is that complement of equipment designed from the outset to be fully integrated into the spacecraft payload mission set. The secondary payload may operate separately from the primary payload. *Hosted payload* is a complement of equipment or sensors that uses the available or excess capacity (mass, volume, power, etc.) of a spacecraft to accommodate an additional, independent mission. The hosted payload may share the spacecraft bus support infrastructure. The hosted payload performs an additional, independent mission which does not dictate control or operation of the spacecraft. A hosted payload is not capable of operating as an independent spacecraft. *Spacecraft bus* (distinct from the spacecraft payload), provides the support infrastructure of the spacecraft (e.g., command and data handling, communications and antenna(s), electrical power, propulsion, thermal control, attitude and orbit control, guidance, navigation and control, structure and truss, life support (for crewed mission)) and location (e.g., attachment, interface) for the spacecraft payload. *Spacecraft payload* is that complement of equipment attached to the spacecraft bus that performs a particular mission in space (e.g., communications, observation, science).
 
-Note 2 to paragraph e)(17):
+Note 2 to paragraph (e)(17):
 
 An ECCN 9A004 or ECCN 9A515.a spacecraft remains a spacecraft subject to the EAR even when incorporating a hosted payload performing a function described in paragraph (a) of this category. All spacecraft that incorporate primary or secondary payloads that perform a function described in paragraph (a) of this category are controlled by that paragraph. This paragraph does not control primary or secondary payloads of the James Webb Space Telescope, which are subject to the EAR.
 
