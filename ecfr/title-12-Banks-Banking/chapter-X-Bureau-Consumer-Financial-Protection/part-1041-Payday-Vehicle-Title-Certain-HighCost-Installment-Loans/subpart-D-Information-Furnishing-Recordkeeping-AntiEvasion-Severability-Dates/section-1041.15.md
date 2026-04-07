@@ -1,5 +1,7 @@
 ##### § 1041.15 Effective and compliance dates.
 
+Link to an amendment published at 85 FR 44445, July 22, 2020.
+
 (a) *Effective date.* The effective date of this part is January 16, 2018.
 
 (b) *April 16, 2018 application deadline.* The deadline to submit an application for preliminary approval for registration pursuant to § 1041.11(c)(1) is April 16, 2018.
