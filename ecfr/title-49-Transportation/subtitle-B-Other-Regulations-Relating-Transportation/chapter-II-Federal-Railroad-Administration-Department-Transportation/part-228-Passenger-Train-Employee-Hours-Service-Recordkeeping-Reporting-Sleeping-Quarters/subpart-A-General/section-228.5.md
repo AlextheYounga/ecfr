@@ -1,6 +1,6 @@
 ##### § 228.5 Definitions.
 
-As used in this part -
+As used in this part—
 
 *Actual time* means either the specific time of day, to the hour and minute, or the precise amount of time spent in an activity, in hours and minutes, that must be included in the hours of duty record, including, where appropriate, reference to the applicable time zone and either standard time or daylight savings time.
 
@@ -14,6 +14,12 @@ As used in this part -
 
 *At the behest of the railroad* refers to time spent by an employee in a railroad-required activity that compels an employee to perform service for the railroad as a condition of employment.
 
+*Automated recordkeeping system* means a recordkeeping system that—
+
+(1) An eligible smaller railroad, or a contractor or subcontractor to such a railroad, may use instead of a manual recordkeeping system or electronic recordkeeping system to create and maintain any records subpart B of this part requires; and
+
+(2) Conforms to the requirements of § 228.206.
+
 *Broken (aggregate) service* means one or more periods of time on duty within a single *duty tour* separated by one or more qualifying interim releases.
 
 *Call and release* occurs when an employing railroad issues an employee a *report-for-duty time,* and then releases the employee from the requirement to report prior to the *report-for-duty time.*
@@ -22,15 +28,15 @@ As used in this part -
 
 *Carrier*, *common carrier*, and *common carrier engaged in interstate or foreign commerce by railroad* mean *railroad.*
 
-*Commingled service* means -
+*Commingled service* means—
 
 (1) For a train employee or a signal employee, any non-covered service at the behest of the railroad and performed for the railroad that is not separated from *covered service* by a qualifying statutory off-duty period of 8 or 10 hours or more. Such commingled service is counted as time on duty pursuant to 49 U.S.C. 21103(b)(3) (for train employees) or 49 U.S.C. 21104(b)(2) (for signal employees).
 
 (2) For a dispatching service employee, any non-covered service mandated by the railroad and performed for the railroad within any 24-hour period containing *covered service.* Such commingled service is counted as time on duty pursuant to 49 U.S.C. 21105(c).
 
-*Commuting* means -
+*Commuting* means—
 
-(1) For a train employee, the time spent in travel -
+(1) For a train employee, the time spent in travel—
 
 (i) Between the employee's residence and the employee's *regular reporting point*, and
 
@@ -42,7 +48,7 @@ As used in this part -
 
 *Consecutive service* is a period of unbroken *total time on duty* during a *duty tour.*
 
-*Covered service* means -
+*Covered service* means—
 
 (1) For a train employee, the portion of the employee's time on duty during which the employee is engaged in, or connected with, the movement of a train.
 
@@ -50,7 +56,7 @@ As used in this part -
 
 (3) For a signal employee, the portion of the employee's time on duty during which the employee is engaged in installing, repairing, or maintaining a signal system.
 
-*Covered service assignment* means -
+*Covered service assignment* means—
 
 (1) For a train employee, each unique assignment of the employee during a period of *covered service* that is associated with either a specific train or a specific yard job.
 
@@ -66,13 +72,33 @@ As used in this part -
 
 *Duty location* for a signal employee is the employee's *headquarters* or the precise location where the employee is expected to begin performing service for the railroad as defined in 49 U.S.C. 21104(b)(1) and (2).
 
-*Duty tour* means -
+*Duty tour* means—
 
 (1) The total of all periods of *covered service* and *commingled service* for a train employee or a signal employee occurring between two *statutory off-duty periods* (i.e., off-duty periods of a minimum of 8 or 10 hours); or
 
 (2) The total of all periods of *covered service* and *commingled service* for a dispatching service employee occurring in any 24-hour period.
 
-*Employee* means an individual employed by a railroad or a contractor or subcontractor to a railroad who -
+*Electronic recordkeeping system* means a recordkeeping system that—
+
+(1) A railroad may use instead of a manual recordkeeping system or automated recordkeeping system to create and maintain any records required by subpart B of this part; and
+
+(2) Conforms to the requirements of §§ 228.201-228.205.
+
+*Electronic signature* means an electronic sound, symbol, or process that—
+
+(1) Is attached to, or logically associated with, a contract or other record;
+
+(2) Is executed or adopted by a person with the intent to sign the record, to create either an individual's unique digital signature, or unique digitized handwritten signature; and
+
+(3) Complies with the requirements of § 228.19(g) or § 228.206(a).
+
+*Eligible smaller railroad* means either:
+
+(1) A railroad that reported to FRA that it had less than 400,000 employee hours during the preceding three consecutive calendar years under § 225.21(d) of this chapter on Form FRA 6180.55, Annual Railroad Reports of Employee Hours by State; or
+
+(2) A railroad operating less than 3 consecutive calendar years that reported to FRA that it had less than 400,000 employee hours during the current calendar year under § 225.21(d) of this chapter on Form FRA 6180.55, Annual Railroad Reports of Employee Hours by State.
+
+*Employee* means an individual employed by a railroad or a contractor or subcontractor to a railroad who—
 
 (1) Is actually engaged in or connected with the movement of any train, including a person who performs the duties of a hostler;
 
@@ -124,7 +150,7 @@ As used in this part -
 
 *Regular reporting point* means the permanent on-duty location of a train employee's regular assignment that is established through a job bulletin assignment (either a job award or a forced assignment) or through an employee's exercise of seniority to be placed in an assignment. The assigned regular reporting point is a single fixed location identified by the railroad, even for extra board and pool crew employees.
 
-*Release* means -
+*Release* means—
 
 (1) For a train employee,
 
@@ -134,7 +160,7 @@ As used in this part -
 
 (iii) The time that an employee completes a *covered service assignment* to begin another activity that counts as time on duty (including waiting for deadhead transportation to another duty location at which the employee will perform *covered service,* deadheading to duty, or any other *commingled service).*
 
-(2) For a signal employee, the time within a *duty tour* that the employee -
+(2) For a signal employee, the time within a *duty tour* that the employee—
 
 (i) Completes his or her regular assigned hours and begins an off-duty period of at least one hour but less than a *statutory off-duty period;* or
 
@@ -142,7 +168,7 @@ As used in this part -
 
 (3) For a dispatching service employee, when he or she stops performing *covered service* and *commingled service* within any 24-hour period and begins an *off-duty period* of at least one hour.
 
-*Relieved time* means -
+*Relieved time* means—
 
 (1) The actual time that a train employee stops performing a *covered service assignment* or *commingled service.*
 
@@ -152,13 +178,13 @@ As used in this part -
 
 (ii) Stops performing *covered service* associated with a trouble call or other unscheduled duty outside of normally assigned duty hours.
 
-*Reports for duty* means that an employee -
+*Reports for duty* means that an employee—
 
 (i) Presents himself or herself at the location established by the railroad at the time the railroad established for the employee to be present; and
 
 (ii) Is ready to perform *covered service.*
 
-*Report-for-duty time* means -
+*Report-for-duty time* means—
 
 (1) For a train employee, the actual time that the employee is required to be present at a *reporting point* and prepared to start a *covered service assignment.*
 
@@ -184,7 +210,7 @@ As used in this part -
 
 *Train employee* means an individual engaged in or connected with the movement of a train, including a hostler.
 
-*Travel time* means -
+*Travel time* means—
 
 (1) For a signal employee, the time spent in transportation between the employee's *headquarters* and an outlying duty point or between the employee's residence and an outlying duty point, or, between duty locations, including both on-track and on-highway vehicular travel.
 
@@ -192,7 +218,7 @@ As used in this part -
 
 *Type 1 assignment* means an assignment to be worked by a train employee who is engaged in commuter or intercity rail passenger transportation that requires the employee to report for duty no earlier than 4 a.m. on a calendar day and be released from duty no later than 8 p.m. on the same calendar day, and that complies with the provisions of § 228.405. For the purposes of this part, FRA considers a Type 1 assignment to present an acceptable level of risk for fatigue that does not violate the defined fatigue threshold under a scientifically valid, biomathematical model of human performance and fatigue specified by FRA at § 228.407(c)(1) or approved by FRA under the procedures at § 228.407(c)(2). However, a Type 1 assignment that is delayed such that the schedule actually worked includes any period of time between midnight and 4 a.m. is considered a Type 2 assignment for the purposes of compliance with § 228.405.
 
-*Type 2 assignment.* (1) *Type 2 assignment* means an assignment to be worked by a train employee who is engaged in commuter or intercity rail passenger transportation that requires the employee to be on duty for any period of time between 8:01 p.m. on a calendar day and 3:59 a.m. on the next calendar day, or that otherwise fails to qualify as a Type 1 assignment. A Type 2 assignment is considered a Type 1 assignment if -
+*Type 2 assignment.* (1) *Type 2 assignment* means an assignment to be worked by a train employee who is engaged in commuter or intercity rail passenger transportation that requires the employee to be on duty for any period of time between 8:01 p.m. on a calendar day and 3:59 a.m. on the next calendar day, or that otherwise fails to qualify as a Type 1 assignment. A Type 2 assignment is considered a Type 1 assignment if—
 
 (i) It does not violate the defined fatigue threshold under a scientifically valid biomathematical model of human performance and fatigue specified by FRA at 228.407(c)(2) or approved by FRA under the procedures at § 228.407(c)(1);
 
@@ -202,4 +228,4 @@ As used in this part -
 
 (2) If a Type 2 assignment that would normally qualify to be treated as a Type 1 assignment is delayed so that the schedule actually worked includes any period of time between midnight and 4 a.m., the assignment is considered a Type 2 assignment for the purposes of compliance with § 228.405.
 
-\[74 FR 25346, May 27, 2009, as amended at 76 FR 50396, Aug. 12, 2011; 76 FR 67087, Oct. 31, 2011\]
+\[74 FR 25346, May 27, 2009, as amended at 76 FR 50396, Aug. 12, 2011; 76 FR 67087, Oct. 31, 2011; 83 FR 43997, Aug. 29, 2018\]

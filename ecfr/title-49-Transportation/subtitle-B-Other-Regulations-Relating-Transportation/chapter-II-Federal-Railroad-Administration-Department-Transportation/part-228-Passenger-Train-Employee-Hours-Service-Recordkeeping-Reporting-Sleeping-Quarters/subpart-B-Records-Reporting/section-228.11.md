@@ -1,6 +1,6 @@
 ##### § 228.11 Hours of duty records.
 
-(a) *In general.* Each railroad, or a contractor or a subcontractor of a railroad, shall keep a record, either manually or electronically, concerning the hours of duty of each employee. Each contractor or subcontractor of a railroad shall also record the name of the railroad for whom its employee performed covered service during the duty tour covered by the record. Employees who perform covered service assignments in a single duty tour that are subject to the recordkeeping requirements of more than one paragraph of this section, must complete the record applicable to the covered service position for which they were called, and record other covered service as an activity constituting other service at the behest of the railroad.
+(a) *In general.* Each railroad, or a contractor or a subcontractor of a railroad, shall keep a record of the hours of duty of each employee. Each contractor or subcontractor of a railroad shall also record the name of the railroad for whom its employee performed covered service during the duty tour covered by the record. Employees who perform covered service assignments in a single duty tour that are subject to the recordkeeping requirements of more than one paragraph of this section, must complete the record applicable to the covered service position for which they were called, and record other covered service as an activity constituting other service at the behest of the railroad.
 
 (b) *For train employees.* Except as provided by paragraph (c) of this section, each hours of duty record for a train employee shall include the following information about the employee:
 
@@ -36,7 +36,7 @@
 
 (13) The total amount of time by which the sum of total time on duty and time spent awaiting or in deadhead transportation to the point of final release exceeds 12 hours.
 
-(14) The cumulative total for the calendar month of -
+(14) The cumulative total for the calendar month of—
 
 (i) Time spent in covered service;
 
@@ -94,4 +94,4 @@
 
 (11) Reason for any service that exceeds 12 hours total time on duty for the duty tour.
 
-\[74 FR 25348, May 27, 2009, as amended at 76 FR 50397, Aug. 12, 2011\]
+\[74 FR 25348, May 27, 2009, as amended at 76 FR 50397, Aug. 12, 2011; 83 FR 43998, Aug. 29, 2018\]
