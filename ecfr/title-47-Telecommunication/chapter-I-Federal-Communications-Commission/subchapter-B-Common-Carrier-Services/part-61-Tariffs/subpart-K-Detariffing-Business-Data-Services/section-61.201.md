@@ -13,5 +13,3 @@
 (5) DS1 and DS3 end user channel terminations, and all other tariffed special access services, in any grandfathered market as defined in § 69.801 for which the price cap local exchange carrier was granted Phase II pricing flexibility prior to June 2017.
 
 (b) The detariffing must be completed thirty-six months after August 1, 2017, but detariffing can take place at any time before the thirty-six months is completed.
-
-Effective Date Note:At 82 FR 25711, June 2, 2017, § 61.201 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
