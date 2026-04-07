@@ -4,7 +4,7 @@ The Governor of the State of Ohio, acting through the Department of Natural Reso
 
 Article I: Introduction, Purpose, and Responsible Administrative Agency
 
-A. Authority: This Agreement is authorized by section 523(c) of the Surface Mining Control and Reclamation Act (Act), 30 U.S.C. 1273(c), which allows a State with a permanent regulatory program approved by the Secretary under 30 U.S.C. 1253, to elect to enter into an Agreement with the Secretary of the Department of the Interior for State regulation of surface coal mining and reclamation operations on Federal lands. This Agreement provides for State regulation of surface coal mining and reclamation operations and of coal exploration operations not subject to 43 CFR part 3480, subparts 3480 through 3487, on Federal lands in Ohio which are under the jurisdiction of the United States Department of Agriculture, Forest Service, except those lands containing leased Federal coal, consistent with State and Federal laws governing such activities in Ohio, the Federal lands program (30 CFR parts 740-745) and the Ohio State program (approved State program).
+A. Authority: This Agreement is authorized by section 523(c) of the Surface Mining Control and Reclamation Act (Act), 30 U.S.C. 1273(c), which allows a State with a permanent regulatory program approved by the Secretary under 30 U.S.C. 1253, to elect to enter into an Agreement with the Secretary of the Department of the Interior for State regulation of surface coal mining and reclamation operations on Federal lands. This Agreement provides for State regulation of surface coal mining and reclamation operations and of coal exploration operations not subject to 43 CFR part 3480, subparts 3480 through 3487, on Federal lands in Ohio which are under the jurisdiction of the United States Department of Agriculture, Forest Service, except those lands containing leased Federal coal, consistent with State and Federal laws governing such activities in Ohio, the Federal lands program (30 CFR parts 740-745) and the Ohio State program (approved State program).*Purpose:*Federal Register
 
 B. *Purpose:* The purpose of this Agreement is to (a) foster Federal-State cooperation in the regulation of surface coal mining and reclamation operations; (b) eliminate intergovernmental overlap and duplication; and (c) provide uniform and effective application of the approved State program on all lands in Ohio, except those containing leased Federal coal, in accordance with the Act, the approved State program, and this Agreement.
 
@@ -106,7 +106,7 @@ In accordance with 30 CFR 745.13, this Agreement shall not be construed as waivi
 
 Approved:
 
-Richard F. Celeste, *Governor of Ohio.*
+Richard F. Celeste, *Governor of Ohio.**Governor of Ohio.*
 
 Date: April 19, 1989.
 
