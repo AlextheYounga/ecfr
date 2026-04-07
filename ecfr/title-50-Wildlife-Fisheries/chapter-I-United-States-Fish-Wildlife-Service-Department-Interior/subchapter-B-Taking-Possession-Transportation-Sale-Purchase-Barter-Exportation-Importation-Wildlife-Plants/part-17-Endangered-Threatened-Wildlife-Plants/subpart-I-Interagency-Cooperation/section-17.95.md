@@ -1,5 +1,7 @@
 ##### § 17.95 Critical habitat - fish and wildlife.
 
+Link to an amendment published at 85 FR 69895, Nov. 3, 2020.
+
 (a) *Mammals.*
 
 Indiana Bat (*Myotis sodalis*)
@@ -19221,9 +19223,7 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Notes:1\. For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
-
-2\. The remainder of § 17.95 appears in 50 Part 17, § 17.95(f) to end of § 17.95.
+![](/graphics/er26ja00.001.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (f) *Clams and Snails.*
 
