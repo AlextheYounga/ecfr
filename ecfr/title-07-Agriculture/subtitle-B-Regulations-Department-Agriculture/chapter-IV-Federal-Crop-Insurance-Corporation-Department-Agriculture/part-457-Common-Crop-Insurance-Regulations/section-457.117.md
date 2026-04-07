@@ -1,5 +1,7 @@
 ##### § 457.117 Forage production crop insurance provisions.
 
+Link to an amendment published at 85 FR 23899, Apr. 30, 2020.
+
 The Forage Production Crop Insurance Provisions for the 2001 and succeeding crop years are as follows:
 
 FCIC Policies Department of Agriculture Federal Crop Insurance Corporation Reinsured Policies (Appropriate title for insurance provider)
@@ -199,9 +201,7 @@ Example 2
 
 Assume you also have a 100 percent share in 100 acres of type B forage in the same unit, with a guarantee of 1.0 ton per acre and a price election of $50.00 per ton. Due to adverse weather you were only able to harvest 5.0 tons. Your total indemnity for forage production for both types A and B in the same unit would be calculated as follows:
 
-1\. 100 acres × 3 tons = 300 ton guarantee for type A; and 100 acres × 1 ton = 100 ton guarantee for type B;
-
-2\. 300 ton guarantee × $65 price election = $19,500 total value of the guarantee for type A; and 100 ton guarantee × $50 price election = $5,000 total value of the guarantee for type B;
+1\. 100 acres × 3 tons = 300 ton guarantee for type A; and 100 acres × 1 ton = 100 ton guarantee for type B; election = $5,000 total value of the guarantee for type B;
 
 3\. $19,500 + $5,000 = $24,500 total value of the guarantee;
 
