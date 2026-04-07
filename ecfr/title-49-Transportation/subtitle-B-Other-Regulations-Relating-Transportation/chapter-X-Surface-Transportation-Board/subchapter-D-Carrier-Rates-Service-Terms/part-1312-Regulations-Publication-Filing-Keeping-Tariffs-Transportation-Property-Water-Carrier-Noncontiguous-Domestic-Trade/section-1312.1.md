@@ -1,7 +1,5 @@
 ##### § 1312.1 Scope; definitions.
 
-Link to an amendment published at 84 FR 20294, May 9, 2019.
-
 (a) *Applicability.* The provisions of this part address the requirements in 49 U.S.C. 13702 that carriers subject to the Board's jurisdiction under 49 U.S.C. Chapter 135 and providing transportation or service for the movement of property (except bulk cargo, forest products, recycled metal scrap, waste paper, and paper waste) by or with a water carrier in noncontiguous domestic trade shall publish and file with the Board tariffs containing the rates for such transportation.
 
 (b) *Exceptions.* The provisions of this part do not apply to:
@@ -52,7 +50,7 @@ Link to an amendment published at 84 FR 20294, May 9, 2019.
 
 *Post* refers to making filed tariffs available to the public.
 
-*Publication* means a bound tariff, a tariff supplement, or a looseleaf tariff page.
+*Publication* means a bound tariff, a tariff supplement, a looseleaf tariff page, or an electronically published tariff.
 
 *Rate* means a rate or charge.
 
@@ -62,4 +60,4 @@ Link to an amendment published at 84 FR 20294, May 9, 2019.
 
 *Tariff* means an issuance (in whole or in part) bearing designations required by this part and containing rates, rules, regulations, classifications or other provisions published and filed with the Board for compliance with 49 U.S.C. 13702.
 
-\[62 FR 19058, Apr. 18, 1997, as amended at 64 FR 5195, Feb. 3, 1999\]
+\[62 FR 19058, Apr. 18, 1997, as amended at 64 FR 5195, Feb. 3, 1999; 84 FR 20294, May 9, 2019\]

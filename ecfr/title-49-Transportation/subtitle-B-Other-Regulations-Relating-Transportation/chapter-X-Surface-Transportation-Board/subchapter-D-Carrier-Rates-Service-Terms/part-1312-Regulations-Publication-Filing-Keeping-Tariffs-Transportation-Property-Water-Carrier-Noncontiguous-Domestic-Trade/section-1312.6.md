@@ -1,7 +1,5 @@
 ##### § 1312.6 Advance notice required.
 
-Link to an amendment published at 84 FR 20295, May 9, 2019.
-
 (a) *Notice requirement.* Unless otherwise specifically authorized by the Board, tariffs must be filed with the Board on not less than the notice shown in paragraph (b) of this section. Notice means the number of days the publication is on file with the Board prior to its effective date(s). The date the publication is received by the Board counts as the first day of notice.
 
 (b) *Length of notice.* A tariff may not become effective earlier than:
@@ -24,4 +22,6 @@ Link to an amendment published at 84 FR 20295, May 9, 2019.
 
 *Workdays* means all days except Saturdays, Sundays and all Federal holidays observed in the District of Columbia.
 
-\[62 FR 19058, Apr. 18, 1997, as amended at 64 FR 5195, Feb. 3, 1999\]
+(e) *Notice for purposes of electronically filed tariffs.* A water carrier that keeps its tariffs on the internet must comply with the notice requirements set forth in paragraph (b) of this section, provided however, that the relevant notice periods set forth in paragraphs (b)(1) and (2) of this section shall run from the date on which the tariff matter first appears in the water carrier's tariff on the internet.
+
+\[62 FR 19058, Apr. 18, 1997, as amended at 64 FR 5195, Feb. 3, 1999; 84 FR 20295, May 9, 2019\]
