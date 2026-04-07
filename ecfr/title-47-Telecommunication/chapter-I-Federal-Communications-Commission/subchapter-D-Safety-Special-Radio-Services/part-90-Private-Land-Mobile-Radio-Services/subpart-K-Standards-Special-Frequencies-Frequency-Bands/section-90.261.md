@@ -1,14 +1,14 @@
 ##### § 90.261 Assignment and use of the frequencies in the band 450-470 MHz for fixed operations.
 
-(a) Frequencies in the 450-470 MHz band as listed in §§ 90.20(c)(3) and 90.35(b)(3) may be assigned to all eligibles for fixed use on a secondary basis to land mobile operations.
+(a) Frequencies in the 450-470 MHz band as listed in §§ 90.20(c)(3) and 90.35(b)(3) may be assigned to all eligibles for fixed use on a secondary basis to land mobile operations. 
 
-(b) Fixed stations located 140 km (87 mi) or more from the center of any urbanized area of 600,000 or more population are limited to a transmitter output power of 75 watts. Fixed stations less than 140 km (87 mi) from the centers of these areas are limited to a transmitter output power of 20 watts. Urbanized areas of 600,000 or more population are defined in the U.S. Census of Population 1970, Vol. 1, Table 20, pages 1-74. The centers of the urbanized areas are determined from the Appendix, page 226, of the U.S. Department of Commerce publication “Airline Distance Between Cities in the United States.”
+(b) Fixed stations located 140 km (87 mi) or more from the center of any urbanized area of 600,000 or more population are limited to a transmitter output power of 75 watts. Fixed stations less than 140 km (87 mi) from the centers of these areas are limited to a transmitter output power of 20 watts. Urbanized areas of 600,000 or more population are defined in the U.S. Census of Population 1970, Vol. 1, Table 20, pages 1-74. The centers of the urbanized areas are determined from the Appendix, page 226, of the U.S. Department of Commerce publication “Airline Distance Between Cities in the United States.” 
 
-(c) All fixed systems are limited to one frequency pair with 5 MHz spacing and must employ directional antennas with a front-to-back ratio of 15dB, except that omnidirectional antennas having unity gain may be employed by stations communicating with a minimum of three receiving locations encompassed in a sector of at least 160° in azimuth. Stations authorized for secondary fixed operations prior to July 13, 1992, may continue to operate under the conditions of their initial authorization.
+(c) All fixed systems are limited to one frequency pair with 5 MHz spacing and must employ directional antennas with a front-to-back ratio of 15dB, except that omnidirectional antennas having unity gain may be employed by stations communicating with a minimum of three receiving locations encompassed in a sector of at least 160° in azimuth. Stations authorized for secondary fixed operations prior to July 13, 1992, may continue to operate under the conditions of their initial authorization. 
 
-(d)-(e) \[Reserved\]
+(d)-(e) \[Reserved\] 
 
-(f) Secondary fixed operations pursuant to paragraph (a) of this section will not be authorized on the following frequencies or on frequencies subject to § 90.267, except as provided in § 90.219(d)(3)(ii):
+(f) Secondary fixed operations pursuant to paragraph (a) of this section will not be authorized on the following frequencies or on frequencies subject to § 90.267, except as provided in § 90.219(d)(3)(ii): 
 
 Frequencies (MHz) 
 *   451.800/456.800

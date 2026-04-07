@@ -2,14 +2,14 @@
 
 This account includes the taxes arising from the operations of the company, *i.e.:*
 
-(a) Operating Investment Tax Credits.
+(a) Operating Investment Tax Credits. 
 
-(b) Operating Federal Income Taxes.
+(b) Operating Federal Income Taxes. 
 
-(c) Operating State and Local Income Taxes.
+(c) Operating State and Local Income Taxes. 
 
-(d) Operating Other Taxes.
+(d) Operating Other Taxes. 
 
-(e) Provision for Deferred Operating Income Taxes.
+(e) Provision for Deferred Operating Income Taxes. 
 
 \[83 FR 63587, Dec. 11, 2018\]

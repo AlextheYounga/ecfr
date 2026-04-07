@@ -1,6 +1,6 @@
 ##### § 22.591 Channels for point-to-point operation.
 
-The following channels are allocated for assignment to fixed transmitters that support other transmitters that provide public mobile service. Unless otherwise indicated, all channels have a bandwidth of 20 kHz and are designated by their center frequencies in MegaHertz.
+The following channels are allocated for assignment to fixed transmitters that support other transmitters that provide public mobile service. Unless otherwise indicated, all channels have a bandwidth of 20 kHz and are designated by their center frequencies in MegaHertz. 
 
 | VHF Channels                 |       |       |       |
 | 72.02                        | 72.36 | 72.80 | 75.66 |
@@ -39,10 +39,10 @@ The following channels are allocated for assignment to fixed transmitters that s
 | 488.750 | 491.750 | 490.250 | 493.250 |
 | 489.250 | 492.250 | 490.750 | 493.750 |
 
-(a) The 72-76 MHz channels may be used in point-to-multipoint configurations. The 72-76 MHz channels are also allocated for assignment in the Private Radio Services (see part 90 of this chapter).
+(a) The 72-76 MHz channels may be used in point-to-multipoint configurations. The 72-76 MHz channels are also allocated for assignment in the Private Radio Services (see part 90 of this chapter). 
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) Channels in the frequency ranges 488.250-490.750 and 491.250-493.750 MHz may be assigned only to inter-island fixed stations located in the State of Hawaii.
+(c) Channels in the frequency ranges 488.250-490.750 and 491.250-493.750 MHz may be assigned only to inter-island fixed stations located in the State of Hawaii. 
 
 \[59 FR 59507, Nov. 17, 1994; 60 FR 9889, Feb. 22, 1995, as amended at 70 FR 19309, Apr. 13, 2005; 78 FR 25174, Apr. 29, 2013\]

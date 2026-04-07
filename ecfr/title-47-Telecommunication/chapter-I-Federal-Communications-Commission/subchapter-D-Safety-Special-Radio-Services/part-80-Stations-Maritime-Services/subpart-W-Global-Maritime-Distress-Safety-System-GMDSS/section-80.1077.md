@@ -1,6 +1,6 @@
 ##### § 80.1077 Frequencies.
 
-The following table describes the frequencies used in the Global Maritime Distress and Safety System:
+The following table describes the frequencies used in the Global Maritime Distress and Safety System: 
 
 | Alerting:                                                                                                                                                                                                                                                                                         |                                                                                               |
 | 406.0-406.1 EPIRBs                                                                                                                                                                                                                                                                                | 406.0-406.1 MHz (Earth-to-space).   1544-1545 MHz (space-to-Earth).                           |

@@ -1,8 +1,8 @@
 ##### § 90.273 Availability and use of frequencies in the 421-430 MHz band.
 
-The frequency bands 422.1875-425.4875 MHz and 427.1875-429.9875 MHz are available for use in the Detroit, Michigan and Cleveland, Ohio areas. The bands 423.8125-425.4875 MHz and 428.8125-429.9875 MHz are available for use in the Buffalo, New York area. Sections 90.273 through 90.281 address the specific rules applicable to these bands. Use of these bands is also subject to the general technical standards and application procedures contained in other subparts of part 90. The technical standards applicable in this band are the same as those contained in subpart I of part 90 for the 450-470 MHz band. Private land mobile use of these frequencies is subject to accepting any interference from Federal Government radiolocation operations.
+The frequency bands 422.1875-425.4875 MHz and 427.1875-429.9875 MHz are available for use in the Detroit, Michigan and Cleveland, Ohio areas. The bands 423.8125-425.4875 MHz and 428.8125-429.9875 MHz are available for use in the Buffalo, New York area. Sections 90.273 through 90.281 address the specific rules applicable to these bands. Use of these bands is also subject to the general technical standards and application procedures contained in other subparts of part 90. The technical standards applicable in this band are the same as those contained in subpart I of part 90 for the 450-470 MHz band. Private land mobile use of these frequencies is subject to accepting any interference from Federal Government radiolocation operations. 
 
-(a) The following tables list frequencies available for assignment in the Public Safety and Industrial/Business Pools as indicated. In the tables, the Public Safety Pool frequencies are denoted as “PS” and the Industrial/Business Pool frequencies are denoted as “IB.” The frequencies 422.19375 MHz through 424.99375 MHz are paired with frequencies 427.19375 MHz through 429.99375 MHz, respectively. Only the lower half of each frequency pair, available for base station operation, is listed in the tables. Corresponding mobile and control station frequencies are 5 MHz higher than the base station frequency. The frequencies 425.000 through 425.48125 are unpaired and are available for either single frequency dispatch or paging operations.
+(a) The following tables list frequencies available for assignment in the Public Safety and Industrial/Business Pools as indicated. In the tables, the Public Safety Pool frequencies are denoted as “PS” and the Industrial/Business Pool frequencies are denoted as “IB.” The frequencies 422.19375 MHz through 424.99375 MHz are paired with frequencies 427.19375 MHz through 429.99375 MHz, respectively. Only the lower half of each frequency pair, available for base station operation, is listed in the tables. Corresponding mobile and control station frequencies are 5 MHz higher than the base station frequency. The frequencies 425.000 through 425.48125 are unpaired and are available for either single frequency dispatch or paging operations. 
 
 Table 1—Channels Available in Detroit and Cleveland Areas Only
 | Frequency (MHz)                                                                      | Pool in which assigned |
@@ -543,14 +543,14 @@ Table 2—Channels Available in Buffalo, Detroit and Cleveland Areas
 | 425.48125 \*                                                                         | PS                     |
 | \* This frequency will be assigned with an authorized bandwidth not to exceed 6 kHz. |                        |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
-(c) Base or control stations shall be located within 48 km (30 miles) of the center of Buffalo or 80 km (50 miles) of the center of Detroit. In Cleveland, base or control stations will be allowed at locations north of line A that are within 48 km (30 miles) of the city center. In addition, low power (2 watts or less) base stations may locate within 80 km (50 miles) of the center of Buffalo. The following coordinates shall be used for the centers of these areas (coordinates are referenced to North American Datum 1983 (NAD83)):
+(c) Base or control stations shall be located within 48 km (30 miles) of the center of Buffalo or 80 km (50 miles) of the center of Detroit. In Cleveland, base or control stations will be allowed at locations north of line A that are within 48 km (30 miles) of the city center. In addition, low power (2 watts or less) base stations may locate within 80 km (50 miles) of the center of Buffalo. The following coordinates shall be used for the centers of these areas (coordinates are referenced to North American Datum 1983 (NAD83)): 
 
 | Buffalo, NY   | 42°52′52.2″ North latitude.   78°52′20.1″ West longitude. |
 | Cleveland, OH | 41°29′51.2″ North latitude.   81°41′49.5″ West longitude. |
 | Detroit, MI   | 42°19′48.1″ North latitude.   83°02′56.7″ West longitude. |
 
-(d) Mobile operation shall be confined to within 80 km (50 miles) of the centers of Detroit, Cleveland, or Buffalo.
+(d) Mobile operation shall be confined to within 80 km (50 miles) of the centers of Detroit, Cleveland, or Buffalo. 
 
 \[52 FR 6156, Mar. 2, 1987, as amended at 54 FR 38681, Sept. 20, 1989; 58 FR 31476, June 3, 1993; 58 FR 44957, Aug. 25, 1993; 60 FR 37269, July 19, 1995; 61 FR 6576, Feb. 21, 1996; 62 FR 18929, Apr. 17, 1997; 63 FR 68965, Dec. 14, 1998\]

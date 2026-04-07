@@ -1,8 +1,8 @@
 ##### § 22.627 Effective radiated power limits.
 
-The effective radiated power (ERP) of transmitters operating on the channels listed in § 22.621 must not exceed the limits in this section.
+The effective radiated power (ERP) of transmitters operating on the channels listed in § 22.621 must not exceed the limits in this section. 
 
-(a) *Maximum ERP.* The ERP must not exceed the applicable limits in this paragraph under any circumstances.
+(a) *Maximum ERP.* The ERP must not exceed the applicable limits in this paragraph under any circumstances. 
 
 | Frequency range (MHz) | Maximum ERP (watts) |
 | --------------------- | ------------------- |
@@ -12,11 +12,11 @@ The effective radiated power (ERP) of transmitters operating on the channels lis
 | 941-942               | 600                 |
 | 952-960               | 150                 |
 
-(b) *470-512 MHz limits.* The purpose of the rules in paragraphs (b)(1) through (b)(3) of this section is to reduce the likelihood that interference to television receiption from public mobile operations on these channels will occur. The protected TV station locations specified in this section are the locations of record as of September 1974, and these do not change even though the TV stations may have been subsequently relocated.
+(b) *470-512 MHz limits.* The purpose of the rules in paragraphs (b)(1) through (b)(3) of this section is to reduce the likelihood that interference to television receiption from public mobile operations on these channels will occur. The protected TV station locations specified in this section are the locations of record as of September 1974, and these do not change even though the TV stations may have been subsequently relocated. 
 
-(1) *Co-channel protection.* The ERP of control transmitters must not exceed the limits in the tables in paragraphs (b)(1)(ii) and (b)(1)(iii) of this section. The limits depend upon the height above average terrain of the control transmitter antenna and the distance between the control transmitter and the nearest protected TV station location in paragraph (b)(1)(i) of this section.
+(1) *Co-channel protection.* The ERP of control transmitters must not exceed the limits in the tables in paragraphs (b)(1)(ii) and (b)(1)(iii) of this section. The limits depend upon the height above average terrain of the control transmitter antenna and the distance between the control transmitter and the nearest protected TV station location in paragraph (b)(1)(i) of this section. 
 
-(i) The protected TV station locations are as follows (all coordinates are referenced to North American Datum 1983 (NAD83)):
+(i) The protected TV station locations are as follows (all coordinates are referenced to North American Datum 1983 (NAD83)): 
 
 | Control transmitter frequency range                                               | Protected TV station location                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,11 +25,11 @@ The effective radiated power (ERP) of transmitters operating on the channels lis
 | 476-482 MHz   482-488 MHz   488-494 MHz   494-500 MHz   500-506 MHz   506-512 MHz | Oxford, OH, 39°30′26.2″ N. Lat. 84°44′8.8″ W. Long.   Washington, DC, 38°57′17.4″ N. Lat. 77°00′15.9″ W. Long.   Champaign, IL, 40°04′11.1″ N. Lat. 87°54′45.1″ W. Long.   Madison, WI, 43°03′01.0″ N. Lat. 89°29′15.4″ W. Long.   Parkersburg, WV, 39°20′50.3″ N. Lat. 81°33′55.5″ W. Long.   Fort Wayne, IN, 41°05′35.2″ N. Lat. 85°10′41.9″ W. Long.   Lancaster, PA, 40°15′45.3″ N. Lat. 76°27′47.9″ W. Long.   South Bend, IN, 41°36′26.2″ N. Lat. 86°27′48.1″ W. Long.   Philadelphia, PA, 40°02′30.4″ N. Lat. 75°14′22.6″ W. Long. |
 |                                                                                   | None.   Johnstown, PA, 40°19′47.3″ N. Lat. 78°53′44.1″ W. Long.   Washington, DC, 38°57′49.4″ N. Lat. 77°06′16.9″ W. Long.   Waterbury, CT, 41°31′2.3″ N. Lat. 73°00′58.4″ W. Long.                                                                                                                                                                                                                                                                                                                                                       |
 
-(ii) Table E-3 and E-4 apply to control transmitters in the New York-Northeastern New Jersey and Cleveland urban areas that transmit on channels in the 476-482 MHz range and to control transmitters in the Detroit urban area that transmit on channels in the 482-488 MHz range.
+(ii) Table E-3 and E-4 apply to control transmitters in the New York-Northeastern New Jersey and Cleveland urban areas that transmit on channels in the 476-482 MHz range and to control transmitters in the Detroit urban area that transmit on channels in the 482-488 MHz range. 
 
-(iii) Tables E-5 and E-6 apply to all control transmitters except those to which Tables E-3 and E-4 apply.
+(iii) Tables E-5 and E-6 apply to all control transmitters except those to which Tables E-3 and E-4 apply. 
 
-(2) *Adjacent channel protection.* The ERP of control transmitters must not exceed the limits in Table E-7. The limits depend upon the height above average terrain of the control transmitter antenna and the distance between the control transmitter and the nearest protected TV station location listed in this paragraph. The protected TV station locations are as follows (all coordinates are referenced to North American Datum 1983 (NAD83)):
+(2) *Adjacent channel protection.* The ERP of control transmitters must not exceed the limits in Table E-7. The limits depend upon the height above average terrain of the control transmitter antenna and the distance between the control transmitter and the nearest protected TV station location listed in this paragraph. The protected TV station locations are as follows (all coordinates are referenced to North American Datum 1983 (NAD83)): 
 
 | Control transmitter frequency range | Protected TV station location                              | TV channel |
 | ----------------------------------- | ---------------------------------------------------------- | ---------- |
@@ -50,7 +50,7 @@ The effective radiated power (ERP) of transmitters operating on the channels lis
 | 500-506 MHz                         | Washington, DC, 38°57′17.4″ N. Lat. 77°00′15.9″ W. Long.   | (20)       |
 | 506-512 MHz                         | Harrisburg, PA, 40°20′44.3″ N. Lat. 76°52′07.9″ W. Long.   | (21)       |
 
-(c) *Los Angeles area.* This paragraph applies only to control transmitters in the Los Angeles urban area that utilize an antenna height of 457 or more meters (1500 or more feet) above mean sea level. The ERP of such transmitters must not exceed the following limits:
+(c) *Los Angeles area.* This paragraph applies only to control transmitters in the Los Angeles urban area that utilize an antenna height of 457 or more meters (1500 or more feet) above mean sea level. The ERP of such transmitters must not exceed the following limits: 
 
 | Antenna height             | ERP |
 | -------------------------- | --- |

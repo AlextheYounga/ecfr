@@ -1,8 +1,8 @@
 ##### § 95.2163 LPRS channels.
 
-LPRS transmitters may operate on any channel listed in paragraphs (a), (b), and (c) of this section. Channels 19, 20, 50, and 151-160 are available exclusively for law enforcement tracking purposes. AMTS transmissions are limited to the 216.750-217.000 MHz frequency band for low power point-to-point network control communications by AMTS coast stations. Other AMTS transmissions in the 216-217 MHz frequency band are prohibited.
+LPRS transmitters may operate on any channel listed in paragraphs (a), (b), and (c) of this section. Channels 19, 20, 50, and 151-160 are available exclusively for law enforcement tracking purposes. AMTS transmissions are limited to the 216.750-217.000 MHz frequency band for low power point-to-point network control communications by AMTS coast stations. Other AMTS transmissions in the 216-217 MHz frequency band are prohibited. 
 
-(a) *Standard band channels.* The following table lists the standard band channel numbers and corresponding center frequencies in Megahertz.
+(a) *Standard band channels.* The following table lists the standard band channel numbers and corresponding center frequencies in Megahertz. 
 
 | Channel No. | Center   frequency   (MHz) |
 | ----------- | -------------------------- |
@@ -47,7 +47,7 @@ LPRS transmitters may operate on any channel listed in paragraphs (a), (b), and 
 | 39          | 216.9625                   |
 | 40          | 216.9875                   |
 
-(b) *Extra band channels.* The following table lists the extra band channel numbers and corresponding center frequencies in Megahertz.
+(b) *Extra band channels.* The following table lists the extra band channel numbers and corresponding center frequencies in Megahertz. 
 
 | Channel No. | Center   frequency   (MHz) |
 | ----------- | -------------------------- |
@@ -72,7 +72,7 @@ LPRS transmitters may operate on any channel listed in paragraphs (a), (b), and 
 | 59          | 216.925                    |
 | 60          | 216.975                    |
 
-(c) *Narrowband channels.* The following table lists the narrowband channel numbers and corresponding center frequencies in Megahertz.
+(c) *Narrowband channels.* The following table lists the narrowband channel numbers and corresponding center frequencies in Megahertz. 
 
 | Channel No. | Center   frequency   (MHz) |
 | ----------- | -------------------------- |

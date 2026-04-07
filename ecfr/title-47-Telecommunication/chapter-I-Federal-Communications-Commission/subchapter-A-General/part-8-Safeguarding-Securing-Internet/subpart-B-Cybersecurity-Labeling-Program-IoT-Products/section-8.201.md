@@ -2,11 +2,11 @@
 
 Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the Federal Communications Commission (FCC or Commission) and at the National Archives and Records Administration (NARA). Contact the FCC at the address indicated in 47 CFR 0.401(a), phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov.* The material may be obtained from the International Electrotechnical Commission (IEC), IEC Central Office, 3, rue de Varembe, CH-1211 Geneva 20, Switzerland, Email: *inmail@iec.ch, www.iec.ch.*
 
-(a) ISO/IEC 17011:2017(E), *Conformity assessment—Requirements for accreditation bodies accrediting conformity assessment bodies,* Second Edition, November 2017; IBR approved for § 8.217.
+(a) ISO/IEC 17011:2017(E), *Conformity assessment—Requirements for accreditation bodies accrediting conformity assessment bodies,* Second Edition, November 2017; IBR approved for § 8.217. 
 
-(b) ISO/IEC 17025:2017(E), *General requirements for the competence of testing and calibration laboratories,* Third Edition, November 2017; IBR approved for §§ 8.217; 8.220.
+(b) ISO/IEC 17025:2017(E), *General requirements for the competence of testing and calibration laboratories,* Third Edition, November 2017; IBR approved for §§ 8.217; 8.220. 
 
-(c) ISO/IEC 17065:2012(E), *Conformity assessment—Requirements for bodies certifying products, processes and services,* First Edition, 2012-09-15; IBR approved for § 8.220.
+(c) ISO/IEC 17065:2012(E), *Conformity assessment—Requirements for bodies certifying products, processes and services,* First Edition, 2012-09-15; IBR approved for § 8.220. 
 
 Note 1 to § 8.201:
 
