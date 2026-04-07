@@ -1,11 +1,11 @@
 ##### § 4.830 Production of documents and things and entry upon land for inspection and other purposes.
 
-Link to an amendment published at 90 FR 2427, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.This amendment is further delayed until May 5, 2025, at 90 FR 12461, Mar. 18, 2025.
 
-(a) After the notice of hearing has been filed, any party may serve on any other party a request to produce and/or permit the party, or someone acting on his behalf, to inspect and copy any designated documents, phonorecords, and other data compilations from which information can be obtained and which are in the possession, custody, or control of the party upon whom the request is served. If necessary, translation of data compilations shall be done by the party furnishing the information. 
+(a) After the notice of hearing has been filed, any party may serve on any other party a request to produce and/or permit the party, or someone acting on his behalf, to inspect and copy any designated documents, phonorecords, and other data compilations from which information can be obtained and which are in the possession, custody, or control of the party upon whom the request is served. If necessary, translation of data compilations shall be done by the party furnishing the information.
 
-(b) After the notice of hearing has been filed, any party may serve on any other party a request to permit entry upon designated property in the possession or control of the party upon whom the request is served for the purpose of inspection, measuring, surveying or photographing, testing, or sampling the property or any designated object. 
+(b) After the notice of hearing has been filed, any party may serve on any other party a request to permit entry upon designated property in the possession or control of the party upon whom the request is served for the purpose of inspection, measuring, surveying or photographing, testing, or sampling the property or any designated object.
 
-(c) Each request shall set forth with reasonable particularity the items to be inspected and shall specify a reasonable time, place, and manner of making the inspection and performing the related acts. 
+(c) Each request shall set forth with reasonable particularity the items to be inspected and shall specify a reasonable time, place, and manner of making the inspection and performing the related acts.
 
 (d) The party upon whom the request is served shall respond within 15 days after the service of the request. The response shall state, with respect to each item, that inspection and related activities will be permitted as requested, unless there are objections in which case the reasons for each objection shall be stated. The party submitting the request may move for an order under § 4.831 with respect to any objection to or other failure to respond.
