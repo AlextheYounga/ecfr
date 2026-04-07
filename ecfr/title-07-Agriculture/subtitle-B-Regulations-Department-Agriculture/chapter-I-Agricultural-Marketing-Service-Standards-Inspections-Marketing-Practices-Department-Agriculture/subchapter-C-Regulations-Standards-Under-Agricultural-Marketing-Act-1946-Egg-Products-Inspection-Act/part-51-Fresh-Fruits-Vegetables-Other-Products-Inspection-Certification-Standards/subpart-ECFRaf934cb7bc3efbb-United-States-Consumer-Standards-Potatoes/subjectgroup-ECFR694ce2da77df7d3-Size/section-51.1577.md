@@ -4,7 +4,7 @@ In addition to the quality requirements specified for the above grades, potatoes
 
 | Grades                            | Size range requirements, round or intermediate shaped varieties | Size range requirements, long varieties | Tolerance for size |
 | --------------------------------- | --------------------------------------------------------------- | --------------------------------------- | ------------------ |
-| U.S. Grades A & B small           | 11/2                                                            | 21/4                                    | 11/2 inches        |
-| U.S. Grades A & B medium          | 21/4                                                            | 3                                       | 4 ounces           |
-| U.S. Grades A & B medium to large | 21/4                                                            | 4                                       | 4 ounces           |
+| U.S. Grades A & B small           | 11⁄2                                                            | 21⁄4                                    | 11⁄2 inches        |
+| U.S. Grades A & B medium          | 21⁄4                                                            | 3                                       | 4 ounces           |
+| U.S. Grades A & B medium to large | 21⁄4                                                            | 4                                       | 4 ounces           |
 | U.S. Grades A & B large           | 3                                                               | 4                                       | 10 ounces          |
