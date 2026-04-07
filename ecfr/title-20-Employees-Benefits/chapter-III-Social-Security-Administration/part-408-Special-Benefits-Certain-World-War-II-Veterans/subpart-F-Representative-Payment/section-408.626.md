@@ -1,3 +1,5 @@
-##### § 408.626 xxx
+##### § 408.626 How do we investigate an appointed representative payee?
 
-Link to an amendment published at 84 FR 4325, Feb. 15, 2019.
+After we select an individual or organization as your representative payee, we investigate him or her following the rules in § 404.2026 of this chapter.
+
+\[84 FR 4325, Feb. 15, 2019\]
