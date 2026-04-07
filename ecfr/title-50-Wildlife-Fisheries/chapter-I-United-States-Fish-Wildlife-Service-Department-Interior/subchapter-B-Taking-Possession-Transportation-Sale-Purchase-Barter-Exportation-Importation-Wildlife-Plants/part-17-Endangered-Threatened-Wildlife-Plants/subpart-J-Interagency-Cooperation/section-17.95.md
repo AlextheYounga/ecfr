@@ -9314,7 +9314,7 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 86 FR 46564, Aug. 18, 2021.
+![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (c) *Reptiles.*
 
@@ -14200,7 +14200,63 @@ The map provided is for informational purposes only. Map follows:
 
 Known constituent elements include high quality, cool water with adequate cover in the form of rocks, undercut banks, or aquatic vegetation and a sufficient insect food base.
 
-Slender Chub (*Erimystax=(Hybopsis) cahni*)
+Peppered Chub (*Macrhybopsis tetranema*)
+
+(1) Critical habitat units are depicted for Quay County, New Mexico; Hemphill, Moore, Oldham, and Potter Counties, Texas; and Blaine, Caddo, Canadian, Cleveland, Creek, Custer, Dewey, Ellis, Grady, Harper, Hughes, Kingfisher, Logan, Major, McClain, Payne, Pontotoc, Pottawatomie, Roger Mills, Seminole, Woods, and Woodward Counties, Oklahoma, on the maps in this entry. The critical habitat units include Units 1, 2, and 4 as Unit 3 was excluded during the rulemaking process.
+
+(2) Within these areas, the physical or biological features essential to the conservation of peppered chub consist of the following components:
+
+(i) Unobstructed river segments greater than 127 river miles (205 river kilometers) in length that are characterized by a complex braided channel and substrates of predominantly sand, with some patches of silt, gravel, and cobble.
+
+(ii) Flowing water with adequate depths to support all life stages and episodes of elevated discharge to facilitate successful reproduction, channel and floodplain maintenance, and sediment transportation.
+
+(iii) Water of sufficient quality to support survival and reproduction, which includes, but is not limited to, the following conditions:
+
+(A) Water temperatures generally less than 98.2 °F (36.8 °C);
+
+(B) Dissolved oxygen concentrations generally greater than 3.7 parts per million (ppm);
+
+(C) Conductivity generally less than 16.2 millisiemens per centimeter (mS/cm);
+
+(D) pH generally ranging from 5.6 to 9.0; and
+
+(E) Sufficiently low petroleum and other pollutant concentrations such that reproduction and/or growth is not impaired.
+
+(iv) Native riparian vegetation capable of maintaining river water quality, providing a terrestrial prey base, and maintaining a healthy riparian ecosystem.
+
+(v) A level of predatory or competitive, native or nonnative fish present such that any peppered chub population's resiliency is not affected.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on March 30, 2022.
+
+(4) Data layers defining map units were created using fish distribution data provided by State agencies and sourced on the FishNet2 online database. Hydrologic data for stream reaches were sourced from the U.S. Geological Survey online database. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/southwest/es/ArlingtonTexas/* and at *https://www.regulations.gov* under Docket No. FWS-R2-ES-2019-0019 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er28fe22.001.gif)
+
+(6) Unit 1: Upper South Canadian River, New Mexico and Texas.
+
+(i) This unit consists of approximately 197.2 river miles (317.3 river kilometers) of habitat in the South Canadian River from Revuelto Creek at Interstate 40 in New Mexico downstream to the inundated portion of Lake Meredith in Texas. Unit 1 includes river habitat up to bank full height.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er28fe22.002.gif)
+
+(7) Unit 2: Lower South Canadian River, Texas and Oklahoma.
+
+(i) This unit consists of approximately 399.9 river miles (643.6 river kilometers) of unoccupied habitat in the lower portion of the South Canadian River from the U.S. 83 bridge north of Canadian, Texas, downstream to the U.S. 75 bridge northwest of Calvin, Oklahoma. Unit 2 includes river habitat up to bank full height.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er28fe22.003.gif)
+
+(8) Unit 4: Cimarron River, Oklahoma.
+
+(i) Unit 4 consists of approximately 275.3 river miles (443.1 river kilometers) of unoccupied habitat in portions of the Ninnescah River and the Arkansas River, originating at the border of Kansas and Oklahoma, and extending downstream to OK 51 bridge northeast of Oilton, Oklahoma. Unit 4 includes river habitat up to bank full height.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er28fe22.004.gif)Slender Chub (*Erimystax=(Hybopsis) cahni*)
 
 Tennessee. Claiborne and Hancock Counties. Powell River, main channel from backwaters of Norris Lake upstream to the Tennessee-Virginia State line. Clinch River, main channel from backwaters of Norris Lake upstream to the Tennessee-Virginia State line.
 
