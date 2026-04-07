@@ -12708,7 +12708,101 @@ Mountain Yellow-Legged Frog (*Rana muscosa*), Northern California DPS
 
 (B) Map of Units FFS-6 and FFS-7 follows:
 
-![](/graphics/er10fe09.005.gif)Jemez Mountains Salamander (*Plethodon neomexicanus*)
+![](/graphics/er10fe09.005.gif)Georgetown Salamander (*Eurycea naufragia*)
+
+(1) Critical habitat units are depicted for Williamson County, Texas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Georgetown salamander consist of the following components:
+
+(i) For surface habitat:
+
+(A) *Water from the Northern Segment of the Edwards Aquifer.* Groundwater issuing to the surface from the underlying aquifer is similar to natural aquifer conditions as it discharges from natural spring outlets. Concentrations of water quality constituents and contaminants should be below levels that could exert direct lethal or sublethal effects (such as effects to reproduction, growth, development, or metabolic processes), or indirect effects (such as effects to the Georgetown salamander's prey base). Hydrologic regimes similar to the historical pattern of the specific sites are present, with at least some surface flow during the year. The water chemistry of aquatic surface habitats is similar to natural aquifer conditions, with temperatures from 61 to 84 °F (16 to 29 °C), dissolved oxygen concentrations from 5 to 13 milligrams per liter (mg/L), and specific water conductance from 317 to 814 micro-Siemens per centimeter (µS/cm).
+
+(B) *Rocky substrate with interstitial spaces.* Rocks in the substrate of the salamander's surface aquatic habitat are large enough to provide salamanders with cover, shelter, and foraging habitat. The substrate and interstitial spaces have minimal sedimentation.
+
+(C) *Aquatic invertebrates for food.* The spring environment supports a diverse aquatic invertebrate community that includes crustaceans, insects, and aquatic snails.
+
+(D) *Subterranean aquifer.* Access to the subsurface water table exists to provide shelter, protection, and space for reproduction. This access can occur in the form of large conduits that carry water to the spring outlet or porous voids between rocks in the streambed that extend down into the water table.
+
+(ii) For subsurface habitat:
+
+(A) *Water from the Northern Segment of the Edwards Aquifer.* Groundwater quality is similar to natural aquifer conditions. Concentrations of water quality constituents and contaminants should be below levels that could exert direct lethal or sublethal effects (such as effects to reproduction, growth, development, or metabolic processes), or indirect effects (such as effects to the Georgetown salamander's prey base). Hydrologic regimes similar to the historical pattern of the specific sites are present, with continuous flow. The water chemistry is similar to natural aquifer conditions, with temperatures from 61 to 84 °F (16 to 29 °C), dissolved oxygen concentrations from 5 to 13 mg/L, and specific water conductance from 317 to 814 µS/cm.
+
+(B) *Subsurface spaces.* Voids between rocks underground are large enough to provide salamanders with cover, shelter, and foraging habitat. These spaces have minimal sedimentation.
+
+(C) *Aquatic invertebrates for food.* The habitat supports an aquatic invertebrate community that includes crustaceans, insects, and aquatic snails.
+
+(3) Surface critical habitat includes the spring outlets and outflow up to the high-water line and 262 feet (ft) (80 meters (m)) of upstream and downstream habitat, including the dry stream channel during periods of no surface flow. The surface critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) existing within the legal boundaries on September 17, 2021; however, the subsurface critical habitat may extend below such structures. The subsurface critical habitat includes underground features in a circle with a radius of 984 ft (300 m) around the springs.
+
+(4) Data layers defining map units were created using a geographic information system (GIS), which included species locations, roads, property boundaries, 2011 aerial photography, and U.S. Geological Survey 7.5′ quadrangles. Points were placed on the GIS. We delineated critical habitat unit boundaries by starting with the cave or spring point locations that are occupied by the salamander. From these cave or springs points, we delineated a 984-ft (300-m) buffer to create the polygons that capture the extent to which we estimate the salamander populations exist through underground conduits. The polygons were then simplified to reduce the number of vertices, but still retain the overall shape and extent. Subsequently, polygons that were within 98 ft (30 m) of each other were merged together. Each new merged polygon was then revised to remove extraneous divots or protrusions that resulted from the merge process. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/southwest/es/AustinTexas/,* at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2020-0048, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er18au21.155.gif)
+
+(6) Unit 1: Water Tank Cave Unit, Williamson County, Texas.
+
+(i) Unit 1 consists of 68 ac (28 ha) of private land in west-central Williamson County. A golf course crosses the unit from northwest to southeast, and there are several roads in the eastern part of the unit. A secondary road crosses the extreme southern portion of the unit, and there are residences in the northwestern, southwestern, and west-central portions of the unit.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er18au21.156.gif)
+
+(7) Unit 2: Hogg Hollow Spring Unit, Williamson County, Texas.
+
+(i) Unit 2 consists of approximately 122 ac (49 ha) of U.S. Army Corps of Engineers land and private land in Williamson County, Texas. The unit is located south of Lake Georgetown and is mostly undeveloped. The northwestern part of the unit includes Sawyer Park, part of the Lake Georgetown recreation area.
+
+(ii) Map of Units 2 and 3 follows:
+
+![](/graphics/er18au21.157.gif)
+
+(8) Unit 3: Cedar Hollow Spring Unit, Williamson County, Texas.
+
+(i) Unit 3 consists of approximately 68 ac (28 ha) of private land in west-central Williamson County, Texas. A secondary road crosses the extreme southern portion of the unit, and there are residences in the northwestern, southwestern, and west-central portions of the unit.
+
+(ii) Map of Unit 3 is provided at paragraph (7)(ii) of this entry.
+
+(9) Unit 4: Lake Georgetown Unit, Williamson County, Texas.
+
+(i) Unit 4 consists of approximately 134 ac (54 ha) of Federal and private land in west-central Williamson County, Texas. Part of the unit is the U.S. Army Corps of Engineers' Lake Georgetown property. There are currently no plans to develop the property. There is some control of public access. Unpaved roads are found in the western portion of the unit, and a trail begins in the central part of the unit and leaves the northeast corner. A secondary road crosses the extreme southern portion of the unit, and there are residences in the northwestern, southwestern, and west-central portions of the unit. A large quarry is located a short distance southeast of the unit.
+
+(ii) Map of Units 4, 5, 6, and 7 follows:
+
+![](/graphics/er18au21.158.gif)
+
+(10) Unit 5: Buford Hollow Spring Unit, Williamson County, Texas.
+
+(i) Unit 5 consists of approximately 68 ac (28 ha) of Federal and private land in west-central Williamson County, Texas. The unit is located just below the spillway for Lake Georgetown. The U.S. Army Corps of Engineers owns most of this unit as part of Lake Georgetown. The D.B. Wood Road, a major thoroughfare, crosses the eastern part of the unit.
+
+(ii) Map of Unit 5 is provided at paragraph (9)(ii) of this entry.
+
+(11) Unit 6: Swinbank Spring Unit, Williamson County, Texas.
+
+(i) Unit 6 consists of approximately 68 ac (28 ha) of City and private land in west-central Williamson County, Texas. The unit is located near River Road south of Melanie Lane. The northern part of the unit is primarily in residential development, while the southern part of this unit is primarily undeveloped.
+
+(ii) Map of Unit 6 is provided at paragraph (9)(ii) of this entry.
+
+(12) Unit 7: Avant Spring Unit, Williamson County, Texas.
+
+(i) Unit 7 consists of approximately 68 ac (28 ha) of private land in west-central Williamson County, Texas. The northern part of a large quarry is along the southwestern edge of the unit. The rest of the unit is undeveloped.
+
+(ii) Map of Unit 7 is provided at paragraph (9)(ii) of this entry.
+
+(13) Unit 8: Shadow Canyon Spring Unit, Williamson County, Texas.
+
+(i) Unit 8 consists of approximately 68 ac (28 ha) of City and private land in west-central Williamson County, Texas. The unit is located just south of State Highway 29. This unit contains Shadow Canyon Spring, which is occupied by the Georgetown salamander.
+
+(ii) Map of Unit 8 follows:
+
+![](/graphics/er18au21.159.gif)
+
+(14) Unit 9: Garey Ranch Spring Unit, Williamson County, Texas.
+
+(i) Unit 9 consists of approximately 68 ac (28 ha) of private land in Williamson County, Texas. The unit is located north of RM 2243. The unit is mostly undeveloped. A small amount of residential development enters the southern and eastern parts of the unit.
+
+(ii) Map of Unit 9 follows:
+
+![](/graphics/er18au21.160.gif)Jemez Mountains Salamander (*Plethodon neomexicanus*)
 
 (1) Critical habitat units are depicted for Los Alamos, Rio Arriba, and Sandoval Counties, New Mexico, on the maps below.
 
@@ -13012,7 +13106,91 @@ Jollyville Plateau Salamander (*Eurycea tonkawae*)
 
 (B) *Note:* Map of Unit RFS-10 follows:
 
-![](/graphics/er10fe09.010.gif)San Marcos Salamander (*Eurycea nana*)
+![](/graphics/er10fe09.010.gif)Salado Salamander (*Eurycea chisholmensis*)
+
+(1) Critical habitat units are depicted for Bell and Williamson Counties, Texas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Salado salamander consist of the following components:
+
+(i) For surface habitat:
+
+(A) *Water from the Northern Segment of the Edwards Aquifer.* Groundwater quality issuing to the surface from the underlying aquifer is similar to natural aquifer conditions as it discharges from natural spring outlets. Concentrations of water quality constituents and contaminants are below levels that could exert direct lethal or sublethal effects (such as effects to reproduction, growth, development, or metabolic processes), or indirect effects (such as effects to the Salado salamander's prey base). Hydrologic regimes similar to the historical pattern of the specific sites are present, with at least some surface flow during the year. The water chemistry of aquatic surface habitats is similar to natural aquifer conditions, with temperatures from 61 to 84 °F (16 to 29 °C), dissolved oxygen concentrations from 5 to 13 milligrams per liter (mg/L), and specific water conductance from 317 to 814 micro-Siemens per centimeter (µS/cm).
+
+(B) *Rocky substrate with interstitial spaces.* Rocks in the substrate of the salamander's surface aquatic habitat are large enough to provide salamanders with cover, shelter, and foraging habitat. The substrate and interstitial spaces have minimal sedimentation.
+
+(C) *Aquatic invertebrates for food.* The spring environment is capable of supporting a diverse aquatic invertebrate community that includes crustaceans, insects, and aquatic snails.
+
+(D) *Subterranean aquifer.* Access to the subsurface water table exists to provide shelter, protection, and space for reproduction. This access can occur in the form of large conduits that carry water to the spring outlet or porous voids between rocks in the streambed that extend down into the water table.
+
+(ii) For subsurface habitat:
+
+(A) *Water from the Northern Segment of the Edwards Aquifer.* Groundwater quality is similar to natural aquifer conditions. Concentrations of water quality constituents and contaminants are below levels that could exert direct lethal or sublethal effects (such as effects to reproduction, growth, development, or metabolic processes), or indirect effects (such as effects to the Salado salamander's prey base). Hydrologic regimes similar to the historical pattern of the specific sites are present, with continuous flow. The water chemistry is similar to natural aquifer conditions, with temperatures from 61 to 84 °F (16 to 29 °C), dissolved oxygen concentrations from 5 to 13 mg/L, and specific water conductance from 317 to 814 µS/cm.
+
+(B) *Subsurface spaces.* Voids between rocks underground are large enough to provide salamanders with cover, shelter, and foraging habitat. These spaces have minimal sedimentation.
+
+(C) *Aquatic invertebrates for food.* The habitat is capable of supporting an aquatic invertebrate community that includes crustaceans, insects, and aquatic snails.
+
+(3) Surface critical habitat includes the spring outlets and outflow up to the high-water line and 262 ft (80 m) of upstream and downstream habitat, including the dry stream channel during periods of no surface flow. The surface critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) existing within the legal boundaries on September 17, 2021; however, the subsurface critical habitat may extend below such structures. The subsurface critical habitat includes underground features in a circle with a radius of 984 ft (300 m) around the springs.
+
+(4) Data layers defining map units were created using a geographic information system (GIS), which included species locations, roads, property boundaries, 2011 aerial photography, and U.S. Geological Survey 7.5′ quadrangles. Points were placed on the GIS. We delineated critical habitat unit boundaries by starting with the cave or spring point locations that are occupied by the salamanders. From these cave or springs points, we delineated a 984-ft (300-m) buffer to create the polygons that capture the extent to which we estimate the salamander populations exist through underground conduits. The polygons were then simplified to reduce the number of vertices, but still retain the overall shape and extent. Subsequently, polygons that were within 98 ft (30 m) of each other were merged together. Each new merged polygon was then revised to remove extraneous divots or protrusions that resulted from the merge process. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/southwest/es/AustinTexas/,* at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2020-0048, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er18au21.161.gif)
+
+(6) Unit 4: IH-35 Unit.
+
+(i) Unit 4 consists of approximately 175 ac (71 ha) of private, State, and City of Salado land located in southwestern Bell County, Texas, in the southern part of the Village of Salado. The unit extends along Salado Creek on both sides of Interstate Highway 35 (IH 35). The IH 35 right-of-way crosses Salado Creek and is owned by the Texas Department of Transportation. The unit is a mixture of residential and commercial properties on its eastern portion, with some undeveloped ranch land in the western part west of IH-35.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er18au21.162.gif)
+
+(7) Unit 5: King's Garden Main Spring Unit.
+
+(i) Unit 5 consists of approximately 68 ac (28 ha) of private land in northern Williamson County, Texas. The unit is undeveloped land.
+
+(ii) Map of Unit 5 follows:
+
+![](/graphics/er18au21.163.gif)
+
+(8) Unit 6: Cobbs Spring Unit.
+
+(i) Unit 6 consists of approximately 68 ac (28 ha) of private land located in northwestern Williamson County, Texas. The unit is undeveloped land.
+
+(ii) Map of Unit 6 follows:
+
+![](/graphics/er18au21.164.gif)
+
+(9) Unit 7: Cowan Creek Spring Unit.
+
+(i) Unit 7 consists of approximately 68 ac (28 ha) of private land located in west-central Williamson County, Texas. The northern portion of the unit is residential development; the remainder is undeveloped.
+
+(ii) Map of Unit 7 follows:
+
+![](/graphics/er18au21.165.gif)
+
+(10) Unit 8: Walnut Spring Unit.
+
+(i) Unit 8 consists of approximately 68 ac (28 ha) of private and Williamson County land located in west-central Williamson County, Texas. The western, eastern, and northeastern portions of the unit contain low-density residential development; the southern and north-central portions are undeveloped. The extreme southeastern corner of the unit is part of Williamson County Conservation Foundation's Twin Springs Preserve.
+
+(ii) Map of Units 8 and 9 follows:
+
+![](/graphics/er18au21.166.gif)
+
+(11) Unit 9: Twin Springs Unit.
+
+(i) Unit 9 consists of approximately 68 ac (28 ha) of private and Williamson County land located in west-central Williamson County, Texas. The northern portion of the unit contains low-density residential development; the remainder of the unit is undeveloped. The majority of the unit is part of Williamson County Conservation Foundation's Twin Springs Preserve.
+
+(ii) Map of Unit 9 is provided at paragraph (10)(ii) of this entry.
+
+(12) Unit 10: Bat Well Cave Unit.
+
+(i) Unit 10 consists of approximately 68 ac (28 ha) of private land located in west-central Williamson County, Texas. The western, northern, and southern portion of the unit contains residential development.
+
+(ii) Map of Unit 10 follows:
+
+![](/graphics/er18au21.167.gif)San Marcos Salamander (*Eurycea nana*)
 
 *Texas.* Hays County - Spring Lake and its outflow, the San Marcos River, downstream approximately 50 meters from the Spring Lake Dam.
 
