@@ -2,7 +2,7 @@
 
 (a) When any form or document prescribed by this part is required to be executed under penalties of perjury, the dealer or user or other authorized person shall:
 
-(1) Insert the declaration “I declare under the penalties of perjury that I have examined this \_\_\_\_ (insert the type of document such as claim, application, statement, report, certificate), including all supporting documents, and to the best of my knowledge and belief, it is true, correct, and complete”; and
+(1) Insert the declaration “I declare under the penalties of perjury that I have examined this \_\_\_\_\_\_\_\_ (insert the type of document such as claim, application, statement, report, certificate), including all supporting documents, and to the best of my knowledge and belief, it is true, correct, and complete”; and
 
 (2) Sign the document.
 

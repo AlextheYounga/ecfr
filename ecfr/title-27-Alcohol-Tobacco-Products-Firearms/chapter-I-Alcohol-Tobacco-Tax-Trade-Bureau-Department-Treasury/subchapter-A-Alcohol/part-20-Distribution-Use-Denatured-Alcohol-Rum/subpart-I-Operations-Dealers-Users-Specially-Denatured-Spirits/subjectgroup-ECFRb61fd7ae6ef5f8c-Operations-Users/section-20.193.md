@@ -4,7 +4,7 @@
 
 (b) For each article for which the approved formula is endorsed “For Export Only” the manufacturer shall:
 
-(1) Label the immediate container to clearly show that the article is for export (for example, with the words “For export only”, “Not for sale in the United States”, or “Manufactured for sale in \_\_\_”);
+(1) Label the immediate container to clearly show that the article is for export (for example, with the words “For export only”, “Not for sale in the United States”, or “Manufactured for sale in \_\_\_\_\_\_”);
 
 (2) Mark the shipping containers and cases with the words “For Export”;
 

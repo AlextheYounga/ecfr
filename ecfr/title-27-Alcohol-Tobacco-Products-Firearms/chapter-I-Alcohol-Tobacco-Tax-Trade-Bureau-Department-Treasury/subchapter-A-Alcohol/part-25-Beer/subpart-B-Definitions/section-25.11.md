@@ -48,7 +48,7 @@ When used in this part, where not otherwise distinctly expressed or manifestly i
 
 *Electronic fund transfer or EFT.* Any transfer of funds made by a brewer's commercial bank, either directly or through a correspondent banking relationship, via the Federal Reserve Communications System (FRCS) or Fedwire to the Treasury Account at the Federal Reserve Bank of New York.
 
-*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the return, claim, form, or other document or, when no form of declaration is prescribed, with the declaration: “I declare under the penalties of perjury that this \_\_\_\_\_\_ (insert type of document such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct and complete.”
+*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the return, claim, form, or other document or, when no form of declaration is prescribed, with the declaration: “I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_\_\_\_\_ (insert type of document such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct and complete.”
 
 *Fiscal year.* The period which begins October 1 and ends on the following September 30.
 

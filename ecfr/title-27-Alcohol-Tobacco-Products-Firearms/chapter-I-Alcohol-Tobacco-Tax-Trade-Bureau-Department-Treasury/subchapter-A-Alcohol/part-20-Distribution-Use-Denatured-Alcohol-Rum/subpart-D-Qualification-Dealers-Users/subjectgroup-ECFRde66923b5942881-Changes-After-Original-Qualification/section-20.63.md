@@ -16,7 +16,7 @@
 
 (4) The applicable code number(s) for the article or process;
 
-(5) The name of the permittee adopting the formulas, followed by the phrase, for each formula, “Formula of \_\_\_ (Name and permit number of permittee who received formula approval) is hereby adopted;” and
+(5) The name of the permittee adopting the formulas, followed by the phrase, for each formula, “Formula of \_\_\_\_\_\_ (Name and permit number of permittee who received formula approval) is hereby adopted;” and
 
 (6) In the case of a permittee adopting the formulas of another entity, evidence of its relationship to that entity.
 

@@ -14,7 +14,7 @@
 
 (6) For shipments in bulk containers, the type of container, identity of the container and the total barrels.
 
-(b) *Reconsignment of beer.* When beer is reconsigned in transit to another brewery of the same ownership, the shipping brewer shall (1) prepare a new invoice showing reconsignment to another brewery and shall void all copies of the original invoice, or (2) shall mark all copies of the original invoice with the words “Reconsigned to \_\_\_,” followed by the name and address of the brewery to which the beer is reconsigned.
+(b) *Reconsignment of beer.* When beer is reconsigned in transit to another brewery of the same ownership, the shipping brewer shall (1) prepare a new invoice showing reconsignment to another brewery and shall void all copies of the original invoice, or (2) shall mark all copies of the original invoice with the words “Reconsigned to \_\_\_\_\_\_,” followed by the name and address of the brewery to which the beer is reconsigned.
 
 (c) *Disposition of invoice.* On shipment of the beer, the shipping brewer shall send the original copy of the invoice to the receiving brewer, and shall retain the other copy for the brewery records. On receipt of the beer, the receiving brewer (including a brewer to whom beer was returned or reconsigned in transit) shall note on the invoice any discrepancies in the beer received, and retain the invoice in the brewery records.
 

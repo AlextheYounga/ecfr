@@ -12,7 +12,7 @@ When used in this part and in forms prescribed under this part, the following te
 
 *Clinic.* When used in this part the term includes veterinary clinics.
 
-*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the claim, form, or other document or, where no form of declaration is prescribed, with the declaration “I declare under the penalities of perjury that this \_\_\_\_\_ (insert type of document, such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
+*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the claim, form, or other document or, where no form of declaration is prescribed, with the declaration “I declare under the penalities of perjury that this \_\_\_\_\_\_\_\_\_\_ (insert type of document, such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
 
 *Fiduciary.* A guardian, trustee, executor, administrator, receiver, conservator, or any person acting in any fiduciary capacity for any person.
 

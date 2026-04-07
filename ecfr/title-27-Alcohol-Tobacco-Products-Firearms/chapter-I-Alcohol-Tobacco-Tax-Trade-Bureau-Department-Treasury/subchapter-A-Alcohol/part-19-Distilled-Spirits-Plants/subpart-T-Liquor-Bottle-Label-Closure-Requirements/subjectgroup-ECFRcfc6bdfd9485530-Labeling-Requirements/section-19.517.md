@@ -22,6 +22,6 @@ If a proprietor bottles spirits for domestic use under a certificate of exemptio
 
 (j) *Presence of neutral spirits or coloring, flavoring, or blending material.* The label must indicate the presence of neutral spirits or coloring, flavoring, or blending material in accordance with § 5.39 of this chapter; and
 
-(k) *Country of origin.* Labels of imported spirits must state the country of origin in substantially the following form: “Product of \_\_\_\_\_\_,” with the blank filled in with the name of the country of origin.
+(k) *Country of origin.* Labels of imported spirits must state the country of origin in substantially the following form: “Product of \_\_\_\_\_\_\_\_\_\_\_\_,” with the blank filled in with the name of the country of origin.
 
 (26 U.S.C. 5201)
