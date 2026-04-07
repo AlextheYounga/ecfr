@@ -1,16 +1,22 @@
 ##### § 213.143 Frog guard rails and guard faces; gage.
 
-The guard check and guard face gages in frogs shall be within the limits prescribed in the following table -
+(a) The guard check and guard face gages in frogs shall be within the following limits—
 
-| Class of track      | Guard check gage   The distance between the gage line of a frog to the guard line 1 of its guard rail or guarding face, measured across the track at right angles to the gage line 2, may not be less than - | Guard face gage   The distance between guard lines 1, measured across the track at right angles to the gage line 2, may not be more than - |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Class 1 track       | 4′6 1/8″                                                                                                                                                                                                     | 4′ 5 1/4″                                                                                                                                  |
-| Class 2 track       | 4′6 1/4″                                                                                                                                                                                                     | 4′ 5 1/8″                                                                                                                                  |
-| Class 3 and 4 track | 4′ 6 3/8″                                                                                                                                                                                                    | 4′5 1/8″                                                                                                                                   |
-| Class 5 track       | 4′6 1/2″                                                                                                                                                                                                     | 4′ 5″                                                                                                                                      |
+Table 1 to § 213.143(a)
+| Class of track                                                                                                                                                            | Guard check gage | Guard face gage |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- |
+| Class 1 track                                                                                                                                                             | 4′61/8″          | 4′51/4″         |
+| Class 2 track                                                                                                                                                             | 4′61/4″          | 4′51/8″         |
+| Class 3 and 4 track                                                                                                                                                       | 4′63/8″          | 4′51/8″         |
+| Class 5 track                                                                                                                                                             | 3 4′61/2″        | 4′5″            |
+| 1 A line along that side of the flangeway which is nearer to the center of the track and at the same elevation as the gage line.                                          |                  |                 |
+| 2 A line five-eighths of an inch below the top of the center line of the head of the running rail, or corresponding location of the tread portion of the track structure. |                  |                 |
+| 3 See paragraph (b) of this section.                                                                                                                                      |                  |                 |
 
-1 A line along that side of the flangeway which is nearer to the center of the track and at the same elevation as the gage line.
+(b) For any heavy-point frog (HPF) on Class 5 track, the guard check gage may be less than 4′6 1/2″ but not be less than 4′6 3/8″, provided that:
 
-2 A line 5/8 inch below the top of the center line of the head of the running rail, or corresponding location of the tread portion of the track structure.
+(1) Each HPF and guard rails on both rails through the turnout are equipped with at least three serviceable through-gage plates with elastic rail fasteners and guard rail braces that permit adjustment of the guard check gage without removing spikes or other fasteners from the crossties; and
 
-![](/graphics/er22jn98.006.gif)![](/graphics/er22jn98.007.gif)
+(2) Each HPF bears an identifying mark applied by either the track owner, railroad, or the frog manufacturer that identifies the frog as an HPF.
+
+\[85 FR 63388, Oct. 7, 2020\]
