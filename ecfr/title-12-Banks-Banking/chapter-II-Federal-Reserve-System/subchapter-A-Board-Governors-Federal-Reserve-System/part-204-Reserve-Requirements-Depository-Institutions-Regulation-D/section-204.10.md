@@ -10,7 +10,7 @@
 
 (b) *Payment of interest.* Interest on balances maintained at Federal Reserve Banks by or on behalf of an eligible institution is established as set forth in paragraphs (b)(1) and (2) of this section.
 
-(1) For balances maintained in an eligible institution's master account, interest is the amount equal to the interest on reserve balances rate (“IORB rate”) on a day multiplied by the total balances maintained on that day. The IORB rate is 4.9 percent.
+(1) For balances maintained in an eligible institution's master account, interest is the amount equal to the interest on reserve balances rate (“IORB rate”) on a day multiplied by the total balances maintained on that day. The IORB rate is 4.65 percent.
 
 (2) For term deposits, interest is:
 
