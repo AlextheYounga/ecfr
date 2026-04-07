@@ -1,0 +1,25 @@
+##### § 821.4 Carrying out voluntary agreements.
+
+(a) *Purpose and scope.* This section establishes the standards and procedures by which the participants in each approved voluntary agreement shall carry out the agreement.
+
+(b) *Participants.* The participants in each voluntary agreement shall be reasonably representative of the appropriate industry or segment of that industry.
+
+(c) *Conduct of meetings held to carry out an agreement.*
+
+(1) The Secretary of Energy (or the appropriate delegated Department of Energy official) when overseeing a voluntary agreement shall initiate, or approve in advance, each meeting of the agreement participants held to discuss problems, determine policies, recommend actions, and make decisions necessary to carry out the agreement.
+
+(2) The Secretary of Energy (or the appropriate delegated Department of Energy official) shall provide to the Attorney General and the Chairman of the Federal Trade Commission, and Congress adequate prior notice of the time, place, and nature of each meeting to carry out a voluntary agreement or plan of action, and a proposed agenda of each meeting. The Secretary of Energy (or the appropriate delegated Department of Energy official) shall publish in the Federal Register, reasonably in advance of each meeting to carry out a voluntary agreement or plan of action in accordance with 50 U.S.C. 4558(h)(8), a notice of the time, place, and nature of the meeting. If the Secretary of Energy (or the appropriate delegated Department of Energy official) has determined, pursuant to § 821.6 of this part, to limit attendance at the meeting, the Secretary of Energy (or the appropriate delegated Department of Energy official) shall publish the Federal Register notice within ten days of the meeting.
+
+(3) Any interested person may attend a meeting held to carry out a voluntary agreement unless the Secretary of Energy (or the appropriate delegated Department of Energy official) has restricted attendance pursuant to § 821.6 of this part. A person attending a meeting under this section may present written data, views, and arguments (with or without opportunity for oral presentation) to any limitations on the manner of presentation that the Secretary of Energy (or the appropriate delegated Department of Energy official) may impose.
+
+(4) No meeting shall be held to carry out any voluntary agreement unless a Federal employee, other than an individual employed pursuant to 5 U.S.C. 3109, is in attendance. In addition to the Secretary of Energy (or the appropriate delegated Department of Energy official), any meeting to carry out a voluntary agreement may be attended by the Attorney General, the Chairman of the Federal Trade Commission, the Secretary of Energy, or their delegates.
+
+(5) Participants in any voluntary agreement or plan of action shall provide the Secretary of Energy (or the appropriate delegated Department of Energy official), the Attorney General, and the Chairman of the Federal Trade Commission with adequate prior notice of the time, place, and nature of any meeting to be held to carry out the voluntary agreement or plan of action.
+
+(6) Notwithstanding any other provision of this section, a meeting between a single participant and the Secretary of Energy (or the appropriate delegated Department of Energy official) solely to deliver or exchange information is not subject to the requirements and procedures of this section, provided that a copy of the information is promptly delivered to the Attorney General, the Chairman of the Federal Trade Commission, and the Secretary of Energy (or the appropriate delegated Department of Energy official).
+
+(d) *Maintenance of records.*
+
+(1) The participants in any voluntary agreement or plan of action shall maintain for five years all minutes of meetings, transcripts, records, documents, and other data, including any communications among themselves or with any other member of their industry, related to the carrying out of the voluntary agreement or plan of action. The participants shall agree, in writing, to make available to the Attorney General, the Chairman of the Federal Trade Commission and the Secretary of Energy (or the appropriate delegated Department of Energy official) for inspection and copying at reasonable times and upon reasonable notice any item that this paragraph (d)(1) requires them to maintain.
+
+(2) Any person required by § 821.4(d)(1) to maintain records shall indicate specific portions, if any, that such person believes should not be disclosed to the public pursuant to § 821.6 of this part, and the reasons therefor. Any item made available to a Government official named in § 821.4.(d)(1) shall be available from that official for public inspection and copying subject to the limitations set forth in § 821.6 of this part.
