@@ -2,7 +2,7 @@
 
 This License Exception allows the following reexports:
 
-(a) *Reexports from Country Group A:1 and Hong Kong.* Reexports may be made from countries in Country Group A:1 or from Hong Kong, provided that:
+(a) *Reexports from Country Group A:1.* Reexports may be made from countries in Country Group A:1, provided that:
 
 (1) The reexport is made in accordance with the conditions of an export authorization from the government of the reexporting country;
 
@@ -12,11 +12,11 @@ This License Exception allows the following reexports:
 
 (i) A country in Country Group B that is not also included in Country Group D:2, D:3, or D:4; and the commodity being reexported is both controlled for national security reasons and not controlled for export to Country Group A:1; or
 
-(ii) A country in Country Group D:1 (National Security) (see supplement no. 1 to part 740), other than North Korea and the commodity being reexported is controlled for national security reasons.
+(ii) A country in Country Group D:1 (National Security) (see Supplement No. 1 to part 740), other than North Korea and the commodity being reexported is controlled for national security reasons.
 
-(b) *Reexports to and among specified countries.* (1) Eligible commodities may be reexported to and among destinations in Country Group A:1 and Hong Kong for use or consumption within a destination in Country Group A:1 (see supplement no. 1 to part 740) or Hong Kong, or for reexport from such country in accordance with other provisions of the EAR.
+(b) *Reexports to and among specified countries.* (1) Eligible commodities may be reexported to and among destinations in Country Group A:1 for use or consumption within a destination in Country Group A:1 (see supplement no. 1 to part 740), or for reexport from such country in accordance with other provisions of the EAR.
 
-(2) Commodities not eligible for reexport under paragraph (b)(1) are:
+(2) Commodities not eligible for reexport under paragraph (b)(1) of this section are:
 
 (i) Commodities controlled for nuclear nonproliferation or missile technology reasons;
 
