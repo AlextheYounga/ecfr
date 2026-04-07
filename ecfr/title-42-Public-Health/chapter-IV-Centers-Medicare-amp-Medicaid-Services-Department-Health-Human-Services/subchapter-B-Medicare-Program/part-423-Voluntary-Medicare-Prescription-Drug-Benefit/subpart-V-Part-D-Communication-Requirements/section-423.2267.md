@@ -116,7 +116,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (A) Information on prescription drug expenses, including:
 
-*(1)* Monthly plan premium
+(*1*) Monthly plan premium
 
 (*2*) Deductible, the initial coverage phase, coverage gap, and catastrophic coverage.
 

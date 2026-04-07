@@ -98,7 +98,7 @@ Link to an amendment published at 87 FR 27895, May 9, 2022.
 
 (*3*) 60 percent, 3 star reduction.
 
-*(4)* 80 percent, 4 star reduction.
+(*4*) 80 percent, 4 star reduction.
 
 (E) If a contract receives a reduction due to missing Part C IRE data, the reduction is applied to both of the contract's Part C appeals measures.
 
@@ -114,9 +114,9 @@ Link to an amendment published at 87 FR 27895, May 9, 2022.
 
 (K) Contracts are subject to a possible reduction due to lack of IRE data completeness if both of the following conditions are met:
 
-*(1)* The calculated error rate is 20 percent or more.
+(*1*) The calculated error rate is 20 percent or more.
 
-*(2*) The projected number of cases not forwarded to the IRE is at least 10 in a 3-month period.
+(*2*) The projected number of cases not forwarded to the IRE is at least 10 in a 3-month period.
 
 (L) A confidence interval estimate for the true error rate for the contract is calculated using a Score Interval (Wilson Score Interval) at a confidence level of 95 percent and an associated z of 1.959964 for a contract that is subject to a possible reduction.
 

@@ -138,7 +138,7 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (B) A beneficiary's enrollment change is not in the best interests of the Medicare program, including for the following reasons:
 
-(*1*) Other creditable coverage *(*for example, an employer plan).
+(*1*) Other creditable coverage (*for example*, an employer plan).
 
 (*2*) Moving into or out of an institution.
 
