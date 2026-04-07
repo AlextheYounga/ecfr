@@ -32,7 +32,7 @@
 
 (d) *Limits and inflation adjustment.* The limits specified in Tables I and II shall be adjusted each calendar year to reflect the “GDP implicit price deflator” published by the Department of Commerce for the previous calendar year. The Director of the Office of Energy Projects is authorized to compute and publish limits for future calendar years as a part of Tables I and II, pursuant to § 375.308(x)(1) of this chapter.
 
-Table I to Part 157
+Table I to Paragraph (d)
 
 | Year | Limit      |
 | ---- | ---------- |
@@ -77,6 +77,7 @@ Table I to Part 157
 | 2020 | 12,500,000 |
 | 2021 | 12,600,000 |
 | 2022 | 13,100,000 |
+| 2023 | 14,000,000 |
 
 (e) *Reporting requirements.* For each facility completed during the calendar year pursuant to paragraph (a) of this section and § 157.213(a), the certificate holder shall file in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter as part of the required annual report under § 157.207(a) the information described in paragraphs (e)(1)-(5) of this section. For each facility completed during the calendar year pursuant to paragraph (b) of this section, and §§ 157.210, 157.212, and 157.213(b), the certificate holder shall file in the manner prescribed above only the information described in paragraph (e)(3) of this section.
 
