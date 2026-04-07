@@ -1,0 +1,1 @@
+##### § 109-45.902 Findings justifying abandonment or destruction.
