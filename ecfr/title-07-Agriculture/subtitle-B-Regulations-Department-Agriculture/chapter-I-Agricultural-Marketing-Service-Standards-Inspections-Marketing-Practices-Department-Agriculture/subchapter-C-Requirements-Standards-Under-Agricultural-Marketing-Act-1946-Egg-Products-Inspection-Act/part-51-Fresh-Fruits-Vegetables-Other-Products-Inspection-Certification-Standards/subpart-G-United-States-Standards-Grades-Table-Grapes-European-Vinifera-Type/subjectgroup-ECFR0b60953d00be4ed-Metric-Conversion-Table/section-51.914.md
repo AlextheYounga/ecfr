@@ -2,21 +2,21 @@
 
 | Inches       | Millimeters (mm) |
 | ------------ | ---------------- |
-| 3⁄16 equals  | 12.7             |
-| 9⁄16 equals  | 14.3             |
-| 10⁄16 equals | 15.9             |
-| 11⁄16 equals | 17.5             |
-| 12⁄16 equals | 19.1             |
-| 13⁄16 equals | 20.6             |
-| 14⁄16 equals | 22.2             |
-| 15⁄16 equals | 28.8             |
+| 3/16 equals  | 12.7             |
+| 9/16 equals  | 14.3             |
+| 10/16 equals | 15.9             |
+| 11/16 equals | 17.5             |
+| 12/16 equals | 19.1             |
+| 13/16 equals | 20.6             |
+| 14/16 equals | 22.2             |
+| 15/16 equals | 28.8             |
 | 1 equals     | 25.4             |
 
 | Pounds     | Grams   |
 | ---------- | ------- |
-| 1⁄4 equals | 113.4   |
-| 1⁄2 equals | 226.8   |
-| 3⁄4 equals | 340.2   |
+| 1/4 equals | 113.4   |
+| 1/2 equals | 226.8   |
+| 3/4 equals | 340.2   |
 | 1 equals   | 453.6   |
 | 2 equals   | 907.2   |
 | 3 equals   | 1,360.8 |
