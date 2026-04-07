@@ -1520,7 +1520,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | IOWA                 |                                                     |
 | Ames                 | 5, 23, \*34                                         |
 | Burlington           | 41                                                  |
-| Cedar Rapids         | 9, 27, 29, 47                                       |
+| Cedar Rapids         | 27, 29, 32, 47                                      |
 | Council Bluffs       | \*33                                                |
 | Davenport            | \*34, 36, 49                                        |
 | Des Moines           | 8, \*11, 13, 16, 19                                 |
@@ -2107,7 +2107,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Eagle River          | 28                                                  |
 | Eau Claire           | 15, 38                                              |
 | Fond Du Lac          | 5                                                   |
-| Green Bay            | 11, 23, 39, 41, \*42                                |
+| Green Bay            | 18, 23, 39, 41, \*42                                |
 | Janesville           | 32                                                  |
 | Kenosha              | 40                                                  |
 | La Crosse            | 8, 17, \*30, 48                                     |
