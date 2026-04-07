@@ -530,7 +530,7 @@ Meaning all parts of the plant presently classified botanically as Lophophora wi
 
 7370 
 
-Meaning tetrahydrocannabinols naturally contained in a plant of the genus Cannabis (cannabis plant), as well as synthetic equivalents of the substances contained in the cannabis plant, or in the resinous extractives of such plant, and/or synthetic substances, derivatives, and their isomers with similar chemical structure and pharmacological activity to those substances contained in the plant, such as the following: 
+(i) Meaning tetrahydrocannabinols, except as in paragraph (d)(31)(ii) of this section, naturally contained in a plant of the genus Cannabis (cannabis plant), as well as synthetic equivalents of the substances contained in the cannabis plant, or in the resinous extractives of such plant, and/or synthetic substances, derivatives, and their isomers with similar chemical structure and pharmacological activity to those substances contained in the plant, such as the following: 
 
 1 cis or trans tetrahydrocannabinol, and their optical isomers 
 
@@ -539,6 +539,8 @@ Meaning tetrahydrocannabinols naturally contained in a plant of the genus Cannab
 3, 4 cis or trans tetrahydrocannabinol, and its optical isomers 
 
 (Since nomenclature of these substances is not internationally standardized, compounds of these structures, regardless of numerical designation of atomic positions covered.) 
+
+(ii) Tetrahydrocannabinols does not include any material, compound, mixture, or preparation that falls within the definition of hemp set forth in 7 U.S.C. 1639o. 
 
 (32) Ethylamine analog of phencyclidine
 
@@ -652,9 +654,11 @@ Some other names: TCPy
 
 (7536) 
 
-(58) Marihuana Extract - Meaning an extract containing one or more cannabinoids that has been derived from any plant of the genus Cannabis, other than the separated resin (whether crude or purified) obtained from the plant
+(58) Marihuana Extract
 
-(7350) 
+7350 
+
+Meaning an extract containing one or more cannabinoids that has been derived from any plant of the genus Cannabis, containing greater than 0.3% delta-9-tetrahydrocannabinol on a dry weight basis, other than the separated resin (whether crude or purified) obtained from the plant. 
 
 (59) 4-methyl-N-ethylcathinone (4-MEC)
 

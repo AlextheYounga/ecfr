@@ -1,4 +1,4 @@
-##### § 1.2 Definitions. 1/>
+##### § 1.2 Definitions. 1
 
 1 These definitions are not intended to restrict the meaning of the terms as used in the applicable statutes.
 
