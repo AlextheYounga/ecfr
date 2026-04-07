@@ -1,7 +1,5 @@
 ##### § 1.338-9 International aspects of section 338.
 
-Link to an amendment published at 87 FR 324, Jan. 4, 2022.
-
 (a) *Scope.* This section provides guidance regarding international aspects of section 338. As provided in § 1.338-2(c)(18), a foreign corporation, a DISC, or a corporation for which a section 936 election has been made is considered a target affiliate for all purposes of section 338. In addition, stock described in section 338(h)(6)(B)(ii) held by a target affiliate is not excluded from the operation of section 338.
 
 (b) *Application of section 338 to foreign targets* - (1) *In general.* For purposes of subtitle A, the deemed sale tax consequences, as defined in § 1.338-2(c)(7), of a foreign target for which a section 338 election is made (FT), and the corresponding earnings and profits, are taken into account in determining the taxation of FT and FT's direct and indirect shareholders. See, however, section 338(h)(16). For example, the income and earnings and profits of FT are determined, for purposes of sections 551, 951, 1248, and 1293, by taking into account the deemed sale tax sentence consequences.
@@ -40,7 +38,13 @@ Link to an amendment published at 87 FR 324, Jan. 4, 2022.
 
 (c) *Dividend treatment under section 1248(e).* The principles of this paragraph (b) apply to shareholders of a domestic corporation subject to section 1248(e).
 
-(d) *Allocation of foreign taxes.* If a section 338 election is made for target (whether foreign or domestic), and target's taxable year under foreign law (if any) does not close at the end of the acquisition date, foreign income taxes attributable to the foreign taxable income earned by target during such foreign taxable year are allocated to old target and new target. Such allocation is made under the principles of § 1.1502-76(b).
+(d) *Allocation of foreign income taxes* - (1) *In general.* Except as provided in paragraph (d)(3) of this section, if a section 338 election is made for target (whether foreign or domestic), and target's taxable year under foreign law (if any) does not close at the end of the acquisition date, foreign income tax as defined in § 1.901-2(a)(1)) (other than a withholding tax as defined in section 901(k)(1)(B)) paid or accrued by new target with respect to such foreign taxable year is allocated between old target and new target. If there is more than one section 338 election with respect to target during target's foreign taxable year, foreign income tax paid or accrued with respect to that foreign taxable year is allocated among all old targets and new targets. The allocation is made based on the respective portions of the taxable income (as determined under foreign law) for the foreign taxable year that are attributable under the principles of § 1.1502-76(b) to the period of existence of each old target and new target during the foreign taxable year.
+
+(2) *Foreign income taxes imposed on partnerships and disregarded entities.* If a section 338 election is made for target and target holds an interest in a disregarded entity (as described in § 301.7701-2(c)(2)(i) of this chapter) or partnership, the rules of § 1.901-2(f)(4) and (5) apply to determine the person who is considered for Federal income tax purposes to pay foreign income tax imposed at the entity level on the income of the disregarded entity or partnership.
+
+(3) *Disallowance of foreign tax credits under section 901(m).* For rules that may apply to disallow foreign tax credits by reason of a section 338 election, see section 901(m) and §§ 1.901(m)-1 through 1.901(m)-8.
+
+(4) *Applicability date.* This paragraph (d) applies to foreign income taxes paid or accrued in taxable years beginning on or after December 28, 2021.
 
 (e) *Operation of section 338(h)(16).* \[Reserved\]
 
@@ -48,7 +52,7 @@ Link to an amendment published at 87 FR 324, Jan. 4, 2022.
 
 (2) This section may be illustrated by the following examples:
 
-Example 1. Gain recognition election for carryover FT stock.(a) A has owned 90 of the 100 shares of CFCT stock since CFCT was organized on March 13, 1989. P has owned the remaining 10 shares of CFCT stock since CFCT was organized. Those 10 shares constitute nonrecently purchased stock in P's hands within the meaning of section 338(b)(6)(B). On November 1, 1994, P purchases A's 90 shares of CFCT stock for $90,000 and makes a section 338 election for CFCT. P also makes a gain recognition election under section 338(b)(3)(A) and § 1.338-5(d).
+Example 1. Gain recognition election for carryover FT stock. (a) A has owned 90 of the 100 shares of CFCT stock since CFCT was organized on March 13, 1989. P has owned the remaining 10 shares of CFCT stock since CFCT was organized. Those 10 shares constitute nonrecently purchased stock in P's hands within the meaning of section 338(b)(6)(B). On November 1, 1994, P purchases A's 90 shares of CFCT stock for $90,000 and makes a section 338 election for CFCT. P also makes a gain recognition election under section 338(b)(3)(A) and § 1.338-5(d).
 
 (b) CFCT's earnings and profits for its short taxable year ending on November 1, 1994, are $50,000, determined without taking into account the deemed asset sale. Assume A recognizes gain of $81,000 on the sale of the CFCT stock. Further, assume that CFCT recognizes gain of $40,000 by reason of its deemed sale of assets under section 338(a)(1).
 
@@ -56,17 +60,17 @@ Example 1. Gain recognition election for carryover FT stock.(a) A has owned 90 o
 
 (d) Assume that P recognizes a gain of $9,000 with respect to the 10 shares of nonrecently purchased CFCT stock by reason of the gain recognition election. Because P is treated as selling the nonrecently purchased stock for all purposes of the Internal Revenue Code, section 1248 applies. Thus, under § 1.1248-2(e), $9,000 of the $90,000 of earnings and profits for 1994 are attributable to the block of 10 shares of CFCT stock deemed sold by P at the close of November 1, 1994 ($90,000 × 10/100). Accordingly, P's entire gain on the deemed sale of 10 shares of CFCT stock is included under section 1248(a) in P's gross income as a dividend (but see section 338(h)(16)).
 
-Example 2. No gain recognition election for carryover FT stock.(a) Assume the same facts as in *Example 1,* except that P does not make a gain recognition election.
+Example 2. No gain recognition election for carryover FT stock. (a) Assume the same facts as in *Example 1,* except that P does not make a gain recognition election.
 
 (b) The 10 shares of nonrecently purchased CFCT stock held by P is carryover FT stock under paragraph (b)(3) of this section. Accordingly, the earnings and profits (and attributable foreign taxes) of old CFCT carry over to new CFCT solely for purposes of that block of 10 shares. The amount of old CFCT's earnings and profits taken into account with respect to that block in the event, for example, of a distribution by new CFCT with respect to that block is the amount of the section 1248 dividend that P would have recognized with respect to that block had it made a gain recognition election under section 338(b)(3)(A). Under the facts of *Example 1,* P would have recognized a gain of $9,000 with respect to that block, all of which would have been a section 1248 dividend ($90,000 × 10/100). Accordingly, the carryover amount for the block of 10 shares of nonrecently purchased CFCT stock is $9,000.
 
-Example 3. Sale of controlled foreign corporation stock prior to and on the acquisition date.(a) X and Y, both U.S. corporations, have each owned 50% of the CFCT stock since 1986. Among CFCT's assets are assets the sale of which would generate subpart F income. On December 31, 1994, X sells its CFCT stock to P. On June 30, 1995, Y sells its CFCT stock to P. P makes a section 338 election for CFCT. In both 1994 and 1995, CFCT has subpart F income resulting from operations.
+Example 3. Sale of controlled foreign corporation stock prior to and on the acquisition date. (a) X and Y, both U.S. corporations, have each owned 50% of the CFCT stock since 1986. Among CFCT's assets are assets the sale of which would generate subpart F income. On December 31, 1994, X sells its CFCT stock to P. On June 30, 1995, Y sells its CFCT stock to P. P makes a section 338 election for CFCT. In both 1994 and 1995, CFCT has subpart F income resulting from operations.
 
 (b) For taxable year 1994, X and Y are United States shareholders on the last day of CFCT's taxable year, so pursuant to section 951(a)(1)(A) each must include in income its pro rata share of CFCT's subpart F income for 1994. Because P's holding period in the CFCT stock acquired from X does not begin until January 1, 1995, P is not a United States shareholder on the last day of 1994 for purposes of section 951(a)(1)(A) (see § 1.951-1(f)). X must then determine the extent to which section 1248 recharacterizes its gain on the sale of CFCT stock as a dividend.
 
 (c) For the short taxable year ending June 30, 1995, Y is considered to own the CFCT stock sold to P at the close of CFCT's acquisition date. Because the acquisition date is the last day of CFCT's taxable year, Y and P are United States shareholders on the last day of CFCT's taxable year. Pursuant to section 951(a)(1)(A), each must include its pro rata share of CFCT's subpart F income for the short taxable year ending June 30, 1995. This includes any income generated on the deemed sale of CFCT's assets. Y must then determine the extent to which section 1248 recharacterizes its gain on the sale of the CFCT stock as a dividend, taking into account any increase in CFCT's earnings and profits due to the deemed sale of assets.
 
-Example 4. Acquisition of control for purposes of section 951 prior to the acquisition date.FS owns 100% of the FT stock. On July 1, 1994, P buys 60% of the FT stock. On December 31, 1994, P buys the remaining 40% of the FT stock and makes a section 338 election for FT. For tax year 1994, FT has earnings and profits of $1,000 (including earnings resulting from the deemed sale). The section 338 election results in $500 of subpart F income. As a result of the section 338 election, P must include in gross income the following amount under section 951(a)(1)(A) (see § 1.951-(b)(2)):
+Example 4. Acquisition of control for purposes of section 951 prior to the acquisition date. FS owns 100% of the FT stock. On July 1, 1994, P buys 60% of the FT stock. On December 31, 1994, P buys the remaining 40% of the FT stock and makes a section 338 election for FT. For tax year 1994, FT has earnings and profits of $1,000 (including earnings resulting from the deemed sale). The section 338 election results in $500 of subpart F income. As a result of the section 338 election, P must include in gross income the following amount under section 951(a)(1)(A) (see § 1.951-(b)(2)):
 
 FT's subpart F income for 1994
 
@@ -90,4 +94,4 @@ Example 5. Coordination with section 936.(a) T is a corporation for which a sect
 
 (c) Because new T is treated a new corporation for purposes of subtitle A of the Internal Revenue Code, the three year testing period in section 936(a)(2)(A) begins again for new T on the day following T's acquisition date. Thus, if the character or source of old T's gross income disqualified it for the credit under section 936, a fresh start is allowed by a section 338 election.
 
-\[T.D. 8515, 59 FR 2978, Jan. 20, 1994. Redesignated by T.D. 8858, 65 FR 1246, Jan. 7, 2000, as amended by T.D. 8940, 66 FR 9929, Feb. 13, 2001; 66 FR 17466, Mar. 30, 2001\]
+\[T.D. 8515, 59 FR 2978, Jan. 20, 1994. Redesignated by T.D. 8858, 65 FR 1246, Jan. 7, 2000, as amended by T.D. 8940, 66 FR 9929, Feb. 13, 2001; 66 FR 17466, Mar. 30, 2001; T.D. 9959, 87 FR 324, Jan. 4, 2022\]
