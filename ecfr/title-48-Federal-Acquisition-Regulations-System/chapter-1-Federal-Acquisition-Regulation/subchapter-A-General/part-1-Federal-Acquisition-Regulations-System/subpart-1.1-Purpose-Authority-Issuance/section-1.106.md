@@ -1,7 +1,5 @@
 ##### 1.106 OMB approval under the Paperwork Reduction Act.
 
-Link to an amendment published at 81 FR 93480, December 20, 2016.Link to an amendment published at 81 FR 93485, December 20, 2016.
-
 The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting information from 10 or more members of the public. The information collection and recordkeeping requirements contained in this regulation have been approved by the OMB. The following OMB control numbers apply:
 
 | FAR segment        | OMB control No.                      |
@@ -42,6 +40,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 | 22.16              | 1245-0004                            |
 | 22.17              | 9000-0188                            |
 | 23.602             | 9000-0107                            |
+| 24.3               | 9000-0182                            |
 | 25.302             | 9000-0184                            |
 | 27.2               | 9000-0096                            |
 | 27.3               | 9000-0095                            |
@@ -177,7 +176,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 | 52.222-58          | 9000-0195                            |
 | 52.222-59          | 9000-0195                            |
 | 52.222-60          | 9000-0195                            |
-| 52.222-62          | 1235-0018 And   1235-0021, 1235-0029 |
+| 52.222-62          | 1235-0018 and 1235-0021   1235-0029  |
 | 52.223-2           | 9000-0180                            |
 | 52.223-4           | 9000-0134                            |
 | 52.223-5           | 9000-0147                            |
@@ -187,6 +186,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 | 52.223-11          | 9000-0191                            |
 | 52.223-12          | 9000-0191                            |
 | 52.223-22          | 9000-0194                            |
+| 52.224-3           | 9000-0182                            |
 | 52.225-2           | 9000-0024                            |
 | 52.225-4           | 9000-0024                            |
 | 52.225-6           | 9000-0024                            |
@@ -257,6 +257,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 | 52.241-3           | 9000-0122                            |
 | 52.241-7           | 9000-0123                            |
 | 52.241-13          | 9000-0124                            |
+| 52.242-5           | 9000-0196                            |
 | 52.242-13          | 9000-0108                            |
 | 52.243-1           | 9000-0026                            |
 | 52.243-2           | 9000-0026                            |

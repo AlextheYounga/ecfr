@@ -36,7 +36,7 @@ Tobacco, leaf not stemmed: 5.9 kilograms per bale: Sumatra: actual tare for outs
 
 (1) If the importer is not satisfied with the invoice tare or with the schedule tare;
 
-(2) If the port director is of the opinion that the invoice or schedule tare does not correctly represent the tare of the merchandise; or
+(2) If the Center director is of the opinion that the invoice or schedule tare does not correctly represent the tare of the merchandise; or
 
 (3) If the weigher has reason to believe that the invoice or schedule tare is greater than the real tare.
 

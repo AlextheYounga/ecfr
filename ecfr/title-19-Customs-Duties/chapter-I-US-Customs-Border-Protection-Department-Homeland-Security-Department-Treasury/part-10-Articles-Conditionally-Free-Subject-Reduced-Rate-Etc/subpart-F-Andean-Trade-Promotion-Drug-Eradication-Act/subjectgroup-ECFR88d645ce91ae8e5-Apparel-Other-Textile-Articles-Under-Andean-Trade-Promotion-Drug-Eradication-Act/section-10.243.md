@@ -24,7 +24,7 @@
 
 (7) Apparel articles sewn or otherwise assembled in one or more ATPDEA beneficiary countries from fabrics or from fabric components formed, or from components knit-to-shape, in one or more ATPDEA beneficiary countries from yarns wholly formed in the United States or in one or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if those fabrics are classifiable under heading 5602 or 5603 of the HTSUS and are formed in one or more ATPDEA beneficiary countries), including apparel articles sewn or otherwise assembled in part but not exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (a)(1) of this section.
 
-(b) *Dyeing, printing, finishing and other operations* - (1) *Dyeing, printing and finishing operations.* Dyeing, printing, and finishing operations may be performed on any yarn, fabric, or knit-to-shape or other component used in the production of any article described under paragraph (a) of this section without affecting the eligibility of the article for preferential treatment, provided that the operation is performed in the United States or in an ATPDEA beneficiary country and not in any other country and subject to the following additional conditions:
+(b) *Dyeing, printing, finishing and other operations*—(1) *Dyeing, printing and finishing operations.* Dyeing, printing, and finishing operations may be performed on any yarn, fabric, or knit-to-shape or other component used in the production of any article described under paragraph (a) of this section without affecting the eligibility of the article for preferential treatment, provided that the operation is performed in the United States or in an ATPDEA beneficiary country and not in any other country and subject to the following additional conditions:
 
 (i) In the case of an article described in paragraph (a)(1), (a)(2), or (a)(7) of this section that contains a knitted or crocheted or woven fabric, or a knitted or crocheted or woven fabric component produced from fabric, that was wholly formed in the United States from yarns wholly formed in the United States or in one or more ATPDEA beneficiary countries, as described in paragraph (a)(1)(i) of this section, any dyeing, printing, or finishing of that knitted or crocheted or woven fabric or component must have been carried out in the United States; and
 
@@ -32,7 +32,7 @@
 
 (2) *Other operations.* An article described under paragraph (a) of this section that is otherwise eligible for preferential treatment will not be disqualified from receiving that treatment by virtue of having undergone one or more operations such as embroidering, stone-washing, enzyme-washing, acid washing, perma-pressing, oven-baking, bleaching, garment-dyeing or screen printing, provided that the operation is performed in the United States or in an ATPDEA beneficiary country and not in any other country. However, in the case of assembled luggage described in paragraph (a)(5) of this section, an operation may be performed in an ATPDEA beneficiary country without affecting the eligibility of the article for preferential treatment only if it is incidental to the assembly process within the meaning of § 10.16.
 
-(c) *Special rules for certain component materials* - (1) *Foreign findings, trimmings, interlinings, and yarns* - (i) *General.* An article otherwise described under paragraph (a) of this section will not be ineligible for the preferential treatment referred to in § 10.241 because the article contains:
+(c) *Special rules for certain component materials*—(1) *Foreign findings, trimmings, interlinings, and yarns*—(i) *General.* An article otherwise described under paragraph (a) of this section will not be ineligible for the preferential treatment referred to in § 10.241 because the article contains:
 
 (A) Findings and trimmings of foreign origin, if the value of those findings and trimmings does not exceed 25 percent of the cost of the components of the assembled article. For purposes of this section “findings and trimmings” include, but are not limited to, sewing thread, hooks and eyes, snaps, buttons, “bow buds,” decorative lace trim, elastic strips, zippers (including zipper tapes), and labels;
 
@@ -62,6 +62,6 @@
 
 (i) Remained under the control of the customs authority of the intermediate country;
 
-(ii) Did not enter into the commerce of the intermediate country except for the purpose of sale other than at retail, and the port director is satisfied that the importation results from the original commercial transaction between the importer and the producer or the producer's sales agent; and
+(ii) Did not enter into the commerce of the intermediate country except for the purpose of sale other than at retail, and the Center director is satisfied that the importation results from the original commercial transaction between the importer and the producer or the producer's sales agent; and
 
 (iii) Were not subjected to operations other than loading or unloading, and other activities necessary to preserve the articles in good condition.

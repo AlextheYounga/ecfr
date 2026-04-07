@@ -8,7 +8,7 @@
 
 (d) The Headquarters, U.S. Customs Service, will from time to time prescribe additional formulas, and will consider any formula for special denaturing that may be submitted.
 
-(e) The port director may, if he deems it advisable, require an importer requesting permission to use any authorized denaturant to submit to the appraiser an adequate sample of such denaturant, in order that the appraiser may report to the port director whether or not such denaturant is suitable for rendering the oil unfit for use as food or for any but mechanical or manufacturing purposes.
+(e) The Center director may, if he deems it advisable, require an importer requesting permission to use any authorized denaturant to submit to the appraiser an adequate sample of such denaturant, in order that the appraiser may report to the Center director whether or not such denaturant is suitable for rendering the oil unfit for use as food or for any but mechanical or manufacturing purposes.
 
 (f) No such oil shall be released free of duty until the appraiser shall have made a special report that it has been properly denatured.
 

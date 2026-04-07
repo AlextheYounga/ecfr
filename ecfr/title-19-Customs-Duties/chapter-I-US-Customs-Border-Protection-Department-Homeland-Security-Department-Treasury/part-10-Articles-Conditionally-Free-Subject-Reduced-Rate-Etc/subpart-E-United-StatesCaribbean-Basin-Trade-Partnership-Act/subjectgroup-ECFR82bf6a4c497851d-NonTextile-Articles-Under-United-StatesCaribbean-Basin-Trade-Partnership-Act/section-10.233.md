@@ -34,6 +34,6 @@
 
 (i) Remained under the control of the customs authority of the intermediate country;
 
-(ii) Did not enter into the commerce of the intermediate country except for the purpose of sale other than at retail, and the port director is satisfied that the importation results from the original commercial transaction between the importer and the producer or the producer's sales agent; and
+(ii) Did not enter into the commerce of the intermediate country except for the purpose of sale other than at retail, and the Center director is satisfied that the importation results from the original commercial transaction between the importer and the producer or the producer's sales agent; and
 
 (iii) Were not subjected to operations other than loading or unloading, and other activities necessary to preserve the articles in good condition.

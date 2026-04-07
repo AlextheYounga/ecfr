@@ -2,7 +2,7 @@
 
 (a) Any imported article (or its container) held in CBP custody for inspection, examination, or appraisement will not be delivered until marked with its country of origin, or until estimated duties payable under 19 U.S.C. 1304(f), or adequate security for those duties (see § 134.53(a)(2)), are deposited.
 
-(b) The port director may demand redelivery to CBP custody of any article (or its container) previously released which is found to be not marked legally with its country of origin for the purpose of requiring the article (or its container) to be properly marked. A demand for redelivery will be made, as required under § 141.113(a) of this chapter, not later than 30 days after -
+(b) An authorized CBP official may demand redelivery to CBP custody of any article (or its container) previously released which is found to be not marked legally with its country of origin for the purpose of requiring the article (or its container) to be properly marked. A demand for redelivery will be made, as required under § 141.113(a) of this chapter, not later than 30 days after—
 
 (1) The date of entry, in the case of merchandise examined in public stores and places of arrival, such as docks, wharfs, or piers; or
 
