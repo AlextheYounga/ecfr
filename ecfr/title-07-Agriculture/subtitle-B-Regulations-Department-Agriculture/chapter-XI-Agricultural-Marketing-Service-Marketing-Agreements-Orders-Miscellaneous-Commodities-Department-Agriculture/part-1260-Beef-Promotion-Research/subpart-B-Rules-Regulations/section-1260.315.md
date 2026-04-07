@@ -1,5 +1,7 @@
 ##### § 1260.315 Qualified State Beef Councils.
 
+Link to an amendment published at 84 FR 20771, May 13, 2019.
+
 The following State beef promotion entities have been certified by the Board as qualified State beef councils:
 
 Alabama Cattlemen's Association Arizona Beef Council Arkansas Beef Council California Beef Council Colorado Beef Council Florida Beef Council, Inc. Georgia Beef Board, Inc. Idaho Beef Council Illinois Beef Council Indiana Beef Council Iowa Beef Cattle Producers Association Kansas Beef Council Kentucky Beef Cattle Association Louisiana Beef Industry Council Maryland Beef Council Michigan Beef Industry Commission Minnesota Beef Council Mississippi Cattle Industry Board Missouri Beef Industry Council Montana Beef Council Nebraska Beef Industry Development Board Nevada Beef Council New Mexico Beef Council New York Beef Industry Council North Carolina Cattlemen's Association North Dakota Beef Commission Ohio Beef Council Oklahoma Beef Commission Oregon Beef Council Pennsylvania Beef Council, Inc. South Carolina Cattle and Beef Board South Dakota Beef Industry Council Tennessee Beef Industry Council Texas Beef Industry Council Utah Beef Council Vermont Beef Council Virginia Cattle Industry Board Washington State Beef Commission West Virginia Beef Industry Wisconsin Beef Council Wyoming Beef Council

@@ -2,7 +2,7 @@
 
 HHA staff are required to meet the following standards:
 
-(a) *Standard: Administrator, home health agency.* (1) For individuals that began employment with the HHA prior to January 13, 2017, a person who:
+(a) *Standard: Administrator, home health agency.* (1) For individuals that began employment with the HHA prior to January 13, 2018, a person who:
 
 (i) Is a licensed physician;
 
@@ -10,7 +10,7 @@ HHA staff are required to meet the following standards:
 
 (iii) Has training and experience in health service administration and at least 1 year of supervisory administrative experience in home health care or a related health care program.
 
-(2) For individuals that begin employment with an HHA on or after January 13, 2017, a person who:
+(2) For individuals that begin employment with an HHA on or after January 13, 2018, a person who:
 
 (i) Is a licensed physician, a registered nurse, or holds an undergraduate degree; and
 
@@ -22,13 +22,13 @@ HHA staff are required to meet the following standards:
 
 (2) Meets the educational requirements for certification and is in the process of accumulating the supervised experience required for certification.
 
-*(c) Standard: Clinical manager.* A person who is a licensed physician, physical therapist, speech-language pathologist, occupational therapist, audiologist, social worker, or a registered nurse.
+(c) *Standard: Clinical manager.* A person who is a licensed physician, physical therapist, speech-language pathologist, occupational therapist, audiologist, social worker, or a registered nurse.
 
 (d) *Standard: Home health aide.* A person who meets the qualifications for home health aides specified in section 1891(a)(3) of the Act and implemented at § 484.80.
 
 (e) *Standard: Licensed practical (vocational) nurse.* A person who has completed a practical (vocational) nursing program, is licensed in the state where practicing, and who furnishes services under the supervision of a qualified registered nurse.
 
-(f) *Standard: Occupational therapist.* A person who -
+(f) *Standard: Occupational therapist.* A person who—
 
 (1)(i) Is licensed or otherwise regulated, if applicable, as an occupational therapist by the state in which practicing, unless licensure does not apply;
 
@@ -36,23 +36,23 @@ HHA staff are required to meet the following standards:
 
 (iii) Is eligible to take, or has successfully completed the entry-level certification examination for occupational therapists developed and administered by the National Board for Certification in Occupational Therapy, Inc. (NBCOT).
 
-(2) On or before December 31, 2009 -
+(2) On or before December 31, 2009—
 
 (i) Is licensed or otherwise regulated, if applicable, as an occupational therapist by the state in which practicing; or
 
-(ii) When licensure or other regulation does not apply -
+(ii) When licensure or other regulation does not apply—
 
 (A) Graduated after successful completion of an occupational therapist education program accredited by the accreditation Council for Occupational Therapy Education (ACOTE) of the American Occupational Therapy Association, Inc. (AOTA) or successor organizations of ACOTE; and
 
 (B) Is eligible to take, or has successfully completed the entry-level certification examination for occupational therapists developed and administered by the National Board for Certification in Occupational Therapy, Inc., (NBCOT).
 
-(3) On or before January 1, 2008 -
+(3) On or before January 1, 2008—
 
 (i) Graduated after successful completion of an occupational therapy program accredited jointly by the Committee on Allied Health Education and Accreditation of the American Medical Association and the American Occupational Therapy Association; or
 
 (ii) Is eligible for the National Registration Examination of the American Occupational Therapy Association or the National Board for Certification in Occupational Therapy.
 
-(4) On or before December 31, 1977 -
+(4) On or before December 31, 1977—
 
 (i) Had 2 years of appropriate experience as an occupational therapist; and
 
@@ -74,7 +74,7 @@ HHA staff are required to meet the following standards:
 
 (ii) On or before December 31, 2009, is licensed or otherwise regulated, if applicable, as an occupational therapist by the state in which practicing.
 
-(g) *Standard: Occupational therapy assistant.* A person who -
+(g) *Standard: Occupational therapy assistant.* A person who—
 
 (1) Meets all of the following:
 
@@ -84,7 +84,7 @@ HHA staff are required to meet the following standards:
 
 (iii) Is eligible to take or successfully completed the entry-level certification examination for occupational therapy assistants developed and administered by the National Board for Certification in Occupational Therapy, Inc. (NBCOT).
 
-(2) On or before December 31, 2009 -
+(2) On or before December 31, 2009—
 
 (i) Is licensed or otherwise regulated as an occupational therapy assistant, if applicable, by the state in which practicing; or any qualifications defined by the state in which practicing, unless licensure does not apply; or
 
@@ -94,21 +94,21 @@ HHA staff are required to meet the following standards:
 
 (B) After January 1, 2010, meets the requirements in paragraph (f)(1) of this section.
 
-(3) After December 31, 1977 and on or before December 31, 2007 -
+(3) After December 31, 1977 and on or before December 31, 2007—
 
 (i) Completed certification requirements to practice as an occupational therapy assistant established by a credentialing organization approved by the American Occupational Therapy Association; or
 
 (ii) Completed the requirements to practice as an occupational therapy assistant applicable in the state in which practicing.
 
-(4) On or before December 31, 1977 -
+(4) On or before December 31, 1977—
 
 (i) Had 2 years of appropriate experience as an occupational therapy assistant; and
 
 (ii) Had achieved a satisfactory grade on an occupational therapy assistant proficiency examination conducted, approved, or sponsored by the U.S. Public Health Service.
 
-(5) If educated outside the United States, on or after January 1, 2008 -
+(5) If educated outside the United States, on or after January 1, 2008—
 
-(i) Graduated after successful completion of an occupational therapy assistant education program that is accredited as substantially equivalent to occupational therapist assistant entry level education in the United States by -
+(i) Graduated after successful completion of an occupational therapy assistant education program that is accredited as substantially equivalent to occupational therapist assistant entry level education in the United States by—
 
 (A) The Accreditation Council for Occupational Therapy Education (ACOTE).
 
@@ -134,7 +134,7 @@ HHA staff are required to meet the following standards:
 
 (ii) Passed an examination for physical therapists approved by the state in which physical therapy services are provided.
 
-(2) On or before December 31, 2009 -
+(2) On or before December 31, 2009—
 
 (i) Graduated after successful completion of a physical therapy curriculum approved by the Commission on Accreditation in Physical Therapy Education (CAPTE); or
 
@@ -158,7 +158,7 @@ HHA staff are required to meet the following standards:
 
 (ii) Has achieved a satisfactory grade on a proficiency examination conducted, approved, or sponsored by the U.S. Public Health Service.
 
-(5) Before January 1, 1966 -
+(5) Before January 1, 1966—
 
 (i) Was admitted to membership by the American Physical Therapy Association;
 
