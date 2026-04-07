@@ -204,18 +204,6 @@
 
 (i) *Employee education and training* - (1) *Training program.* (i) The employer shall train each employee exposed to cotton dust in accordance with the requirements of this section. The employer shall institute a training program and ensure employee participation in the program.
 
-(A) The acute and long term health hazards associated with exposure to cotton dust;
-
-(B) The names and descriptions of jobs and processes which could result in exposure to cotton dust at or above the PEL.
-
-(C) The measures, including work practices required by paragraph (g) of this section, necessary to protect the employee from exposures in excess of the permissible exposure limit;
-
-(D) The purpose, proper use and limitations of respirators required by paragraph (f) of this section;
-
-(E) The purpose for and a description of the medical surveillance program required by paragraph (h) of this section and other information which will aid exposed employees in understanding the hazards of cotton dust exposure; and
-
-(F) The contents of this standard and its appendices.
-
 (ii) The training program shall be provided prior to initial assignment and shall be repeated annually for each employee exposed to cotton dust, when job assignments or work processes change and when employee performance indicates a need for retraining.
 
 (2) *Access to training materials.* (i) Each employer shall post a copy of this section with its appendices in a public location at the workplace, and shall, upon request, make copies available to employees.
