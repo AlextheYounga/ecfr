@@ -1,8 +1,8 @@
 ##### § 1.851-5 Examples.
 
-(a) *Examples.* The provisions of section 851 may be illustrated by the following examples:
+(a) *Examples.* The provisions of section 851 may be illustrated by the following examples: 
 
-Example 1.(i) Investment Company W at the close of its first quarter of its taxable year has its assets invested as follows: *See*
+Example 1.(i) Investment Company W at the close of its first quarter of its taxable year has its assets invested as follows:
 
 |                                                                                               | Percent |
 | --------------------------------------------------------------------------------------------- | ------- |
@@ -17,11 +17,11 @@ Example 1.(i) Investment Company W at the close of its first quarter of its taxa
 
 (ii) Investment Company W owns all of the voting stock of Corporations A and B, 15 percent of the voting stock of Corporation C, and less than 10 percent of the voting stock of regulated investment companies and various other corporations. Neither Corporation A nor Corporation B owns:
 
-(A) 20 percent or more of the voting stock of any other corporation;
+(A) 20 percent or more of the voting stock of any other corporation; 
 
-(B) Securities issued by Corporation C; or
+(B) Securities issued by Corporation C; or 
 
-(C) Securities issued by any of the regulated investment companies or various corporations whose securities are owned by Investment Company W. Except for Corporation A and Corporation B, none of the corporations (including the regulated investment companies) is a member of a controlled group with Investment Company W.
+(C) Securities issued by any of the regulated investment companies or various corporations whose securities are owned by Investment Company W. Except for Corporation A and Corporation B, none of the corporations (including the regulated investment companies) is a member of a controlled group with Investment Company W. 
 
 (iii) Investment Company W meets the requirements under section 851(b)(3) at the end of its first quarter. It complies with subparagraph (A) of section 851(b)(3) because it has 55 percent of its assets invested as provided in that subparagraph. It complies with subparagraph (B) of section 851(b)(3) because it does not have more than 25 percent of its assets invested in the securities of any one issuer, of two or more issuers that it controls, or of one or more qualified publicly traded partnerships (as defined in section 851(h)).
 
@@ -90,6 +90,6 @@ Example 5.Investment Company Z, which keeps its books and makes its returns on t
 | Percentage invested in qualified publicly traded partnerships indirectly through A (20% × 80%)        | 16.0    |
 | Total percentage of assets of Investment Company T invested in qualified publicly traded partnerships | 31.0    |
 
-(b) *Effective/applicability dates.* The rules of this section apply to quarters that begin on or after December 14, 2015. For purposes of applying the first sentence of section 851(d)(1) to a quarter that begins on or after March 14, 2016, the rules of this section apply in determining whether the taxpayer met the requirements of section 851(b)(3) and (c) at the close of prior quarters.
+(b) *Effective/applicability dates.* The rules of this section apply to quarters that begin on or after December 14, 2015. For purposes of applying the first sentence of section 851(d)(1) to a quarter that begins on or after March 14, 2016, the rules of this section apply in determining whether the taxpayer met the requirements of section 851(b)(3) and (c) at the close of prior quarters. 
 
 \[T.D. 9737, 80 FR 55245, Sept. 15, 2015\]

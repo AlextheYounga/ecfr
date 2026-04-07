@@ -1,32 +1,32 @@
 ##### § 1.57-4 Limitation on amounts treated as items of tax preference for taxable years beginning before January 1, 1976.
 
-(a) *In general.* If in any taxable year beginning before January 1, 1976, a taxpayer has deductions in excess of gross income and all or a part of any item of tax preference described in § 1.57-1 results in no tax benefit due to modifications required under section 172(c) or section 172(b)(2) in computing the amount of the net operating loss or the net operating loss to be carried to a succeeding taxable year, then, for purposes of section 56(a)(1), the sum of the items of tax preference determined under section 57(a) (and § 1.57-1) is to be limited as provided in paragraph (b) of this section.
+(a) *In general.* If in any taxable year beginning before January 1, 1976, a taxpayer has deductions in excess of gross income and all or a part of any item of tax preference described in § 1.57-1 results in no tax benefit due to modifications required under section 172(c) or section 172(b)(2) in computing the amount of the net operating loss or the net operating loss to be carried to a succeeding taxable year, then, for purposes of section 56(a)(1), the sum of the items of tax preference determined under section 57(a) (and § 1.57-1) is to be limited as provided in paragraph (b) of this section. 
 
-(b) *Limitation.* The sum of the items of tax preference, for purposes of section 56(a)(1) and § 1.56A-1(a), is limited to an amount determined under subparagraphs (1) and (2) of this paragraph.
+(b) *Limitation.* The sum of the items of tax preference, for purposes of section 56(a)(1) and § 1.56A-1(a), is limited to an amount determined under subparagraphs (1) and (2) of this paragraph. 
 
-(1) *Loss year.* If the taxpayer has no taxable income for the taxable year without regard to the net operating loss deduction, the amount of the limitation is equal to—
+(1) *Loss year.* If the taxpayer has no taxable income for the taxable year without regard to the net operating loss deduction, the amount of the limitation is equal to— 
 
-(i) In cases where the taxpayer does not have a net operating loss for the taxable year, the amount of the recomputed income (as defined in paragraph (c) of this section) or
+(i) In cases where the taxpayer does not have a net operating loss for the taxable year, the amount of the recomputed income (as defined in paragraph (c) of this section) or 
 
-(ii) In cases where the taxpayer has a net operating loss for the taxable year, the amount of the net operating loss (expressed as a positive amount) increased by the recomputed income or decreased by the recomputed loss for the taxable year (as defined in paragraph (c) of this section,
+(ii) In cases where the taxpayer has a net operating loss for the taxable year, the amount of the net operating loss (expressed as a positive amount) increased by the recomputed income or decreased by the recomputed loss for the taxable year (as defined in paragraph (c) of this section, 
 
 plus the amount of the taxpayer's stock option item of tax preference (as described in § 1.57-1(f)).
 
-(2) *Loss carryover and carryback years.* Except in cases to which subparagraph (1)(ii) of this paragraph applies, if, in any taxable year to which a net operating loss is carried, a capital gains deduction is disallowed under section 172(b)(2) in computing the amount of such net operating loss which may be carried to succeeding taxable years, the amount of the limitation is equal to the amount, if any, by which the sum of the items of tax preference (computed with regard to subparagraph (1)(i) of this paragraph) exceeds the lesser of—
+(2) *Loss carryover and carryback years.* Except in cases to which subparagraph (1)(ii) of this paragraph applies, if, in any taxable year to which a net operating loss is carried, a capital gains deduction is disallowed under section 172(b)(2) in computing the amount of such net operating loss which may be carried to succeeding taxable years, the amount of the limitation is equal to the amount, if any, by which the sum of the items of tax preference (computed with regard to subparagraph (1)(i) of this paragraph) exceeds the lesser of— 
 
-(i) The amount by which such loss is reduced because of a disallowance of the capital gains deduction in such taxable year, or
+(i) The amount by which such loss is reduced because of a disallowance of the capital gains deduction in such taxable year, or 
 
-(ii) The capital gains deduction.
+(ii) The capital gains deduction. 
 
 The amount determined pursuant to the preceding sentence shall be increased by the amount, if any, that such reduction is attributable to that portion of such a net operating loss described in section 56(b)(1)(B) and § 1.56A-2(a)(2) (relating to excess tax preferences).
 
-(c) *Recomputed income or loss.* For purposes of this section, the phrase “recomputed income or loss” means the taxable income or net operating loss for the taxable year computed without regard to the amounts described in § 1.57-1 except paragraph (i)(2) of that section (relating to corporate capital gains) and without regard to the net operating loss deduction. For this purpose, the reference to the amounts described in § 1.57-1 is a reference to that portion of the deduction allowable in computing taxable income under the appropriate section equal to the amount which is determined in each paragraph of § 1.57-1. For example, the amount described in § 1.57-1(h) (relating to excess of percentage depletion over basis) is that portion of the deduction allowable for depletion under section 611 which is equal to the amount determined under § 1.57-1(h). For purposes of this paragraph, the amount described in § 1.57-1(i)(1) (relating to capital gains) is to be considered as the amount of the deduction allowable for the taxable year under section 1202.
+(c) *Recomputed income or loss.* For purposes of this section, the phrase “recomputed income or loss” means the taxable income or net operating loss for the taxable year computed without regard to the amounts described in § 1.57-1 except paragraph (i)(2) of that section (relating to corporate capital gains) and without regard to the net operating loss deduction. For this purpose, the reference to the amounts described in § 1.57-1 is a reference to that portion of the deduction allowable in computing taxable income under the appropriate section equal to the amount which is determined in each paragraph of § 1.57-1. For example, the amount described in § 1.57-1(h) (relating to excess of percentage depletion over basis) is that portion of the deduction allowable for depletion under section 611 which is equal to the amount determined under § 1.57-1(h). For purposes of this paragraph, the amount described in § 1.57-1(i)(1) (relating to capital gains) is to be considered as the amount of the deduction allowable for the taxable year under section 1202. 
 
-(d) *Determination of preferences reduced.* When, pursuant to paragraph (b)(1) of this section, the sum of the items of tax preference (determined without regard to this section) are reduced, such reduction is first considered to be from the capital gains item of tax preference (described in § 1.57-1(i)(1)) and each item of tax preference relating to a deduction disallowed in computing the net operating loss pursuant to section 172(d), pro rata. The balance of the reduction, if any, is considered to be from the remaining items of tax preference, pro rata. For purposes of this subparagraph, deductions not attributable to the taxpayer's trade or business which do not relate to items of tax preference are considered as being applied in reducing gross income not derived from such trade or business before such deductions which do relate to items of tax preferences.
+(d) *Determination of preferences reduced.* When, pursuant to paragraph (b)(1) of this section, the sum of the items of tax preference (determined without regard to this section) are reduced, such reduction is first considered to be from the capital gains item of tax preference (described in § 1.57-1(i)(1)) and each item of tax preference relating to a deduction disallowed in computing the net operating loss pursuant to section 172(d), pro rata. The balance of the reduction, if any, is considered to be from the remaining items of tax preference, pro rata. For purposes of this subparagraph, deductions not attributable to the taxpayer's trade or business which do not relate to items of tax preference are considered as being applied in reducing gross income not derived from such trade or business before such deductions which do relate to items of tax preferences. 
 
-(e) *Examples.* The principles of this section may be illustrated by the following examples in each of which the deduction for the personal exemption is disregarded and the taxpayer is an individual who is a calendar year taxpayer.
+(e) *Examples.* The principles of this section may be illustrated by the following examples in each of which the deduction for the personal exemption is disregarded and the taxpayer is an individual who is a calendar year taxpayer. 
 
-Example 1.The taxpayer has the following items of income and deduction for 1970: *i.e.*
+Example 1.The taxpayer has the following items of income and deduction for 1970:
 
 | Gross income (all business income)                                                                     | $120,000 |
 | Deductions:                                                                                            |          |
@@ -34,7 +34,7 @@ Example 1.The taxpayer has the following items of income and deduction for 1970:
 | Items of tax preference (excess accelerated depreciation on real property held in taxpayer's business) | 80,000   |
 | Other business deductions                                                                              | 50,000   |
 
-Based on the above figures, the taxpayer has a net operating loss of $10,000 (business deductions of $130,000 less business income of $120,000, the nonbusiness deductions having been disallowed by reason of section 172(d)(4)). The limitation on the amount treated as items of tax preference is computed as follows: *i.e.*
+Based on the above figures, the taxpayer has a net operating loss of $10,000 (business deductions of $130,000 less business income of $120,000, the nonbusiness deductions having been disallowed by reason of section 172(d)(4)). The limitation on the amount treated as items of tax preference is computed as follows:
 
 | Tax preferences                                 | $80,000  |  |  |
 | Net operating loss                              | $10,000  |  |  |

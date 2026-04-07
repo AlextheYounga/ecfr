@@ -1,502 +1,502 @@
 ##### § 1.401(l)-0 Table of contents.
 
-This section contains a listing of the headings of §§ 1.401(l)-1 through 1.401(l)-6.
+This section contains a listing of the headings of §§ 1.401(l)-1 through 1.401(l)-6. 
 
 § 1.401(l)-1 Permitted disparity with respect to employer-provided contributions or benefits.
 
-(a) Permitted disparity.*1*
+(a) Permitted disparity. 
 
-(1) In general.
+(1) In general. 
 
-(2) Overview.
+(2) Overview. 
 
-(3) Exclusive rules.
+(3) Exclusive rules. 
 
-(4) Exceptions.
+(4) Exceptions. 
 
-(5) Additional rules.
+(5) Additional rules. 
 
-(b) Relationship to other requirements.
+(b) Relationship to other requirements. 
 
-(c) Definitions.
+(c) Definitions. 
 
-(1) Accumulation plan.
+(1) Accumulation plan. 
 
-(2) Average annual compensation.
+(2) Average annual compensation. 
 
-(3) Base benefit percentage.
+(3) Base benefit percentage. 
 
-(4) Base contribution percentage.
+(4) Base contribution percentage. 
 
-(5) Benefit formula.
+(5) Benefit formula. 
 
-(6) Benefit, right, or feature.
+(6) Benefit, right, or feature. 
 
-(7) Covered compensation.
+(7) Covered compensation. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Special rules.
+(ii) Special rules. 
 
-(A) Rounded table.
+(A) Rounded table. 
 
-(B) Proposed regulation definition.
+(B) Proposed regulation definition. 
 
-(iii) Period for using covered compensation amount.
+(iii) Period for using covered compensation amount. 
 
-(8) Defined benefit plan.
+(8) Defined benefit plan. 
 
-(9) Defined contribution plan.
+(9) Defined contribution plan. 
 
-(10) Disparity.
+(10) Disparity. 
 
-(11) Employee.
+(11) Employee. 
 
-(12) Employer.
+(12) Employer. 
 
-(13) Employer contributions.
+(13) Employer contributions. 
 
-(14) Excess benefit percentage.
+(14) Excess benefit percentage. 
 
-(15) Excess contribution percentage.
+(15) Excess contribution percentage. 
 
-(16) Excess plan.
+(16) Excess plan. 
 
-(i) Defined benefit excess plan.
+(i) Defined benefit excess plan. 
 
-(ii) Defined contribution excess plan.
+(ii) Defined contribution excess plan. 
 
-(17) Final average compensation.
+(17) Final average compensation. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Limitations.
+(ii) Limitations. 
 
-(iii) Determination of section 414(s) compensation.
+(iii) Determination of section 414(s) compensation. 
 
-(18) Gross benefit percentage.
+(18) Gross benefit percentage. 
 
-(19) Highly compensated employee.
+(19) Highly compensated employee. 
 
-(20) Integration level.
+(20) Integration level. 
 
-(21) Nonexcludable employee.
+(21) Nonexcludable employee. 
 
-(22) Nonhighly compensated employee.
+(22) Nonhighly compensated employee. 
 
-(23) Offset level.
+(23) Offset level. 
 
-(24) Offset percentage.
+(24) Offset percentage. 
 
-(25) Offset plan.
+(25) Offset plan. 
 
-(26) PIA.
+(26) PIA. 
 
-(27) Plan.
+(27) Plan. 
 
-(28) Plan year compensation.
+(28) Plan year compensation. 
 
-(29) Qualified plan.
+(29) Qualified plan. 
 
-(30) Section 401(l) plan.
+(30) Section 401(l) plan. 
 
-(31) Section 414(s) compensation.
+(31) Section 414(s) compensation. 
 
-(32) Social security retirement age.
+(32) Social security retirement age. 
 
-(33) Straight life annuity.
+(33) Straight life annuity. 
 
-(34) Taxable wage base.
+(34) Taxable wage base. 
 
-(35) Year of service.
+(35) Year of service. 
 
 § 1.401(l)-2 Permitted disparity for defined contribution plans.
 
-(a) Requirements.
+(a) Requirements. 
 
-(1) In general.
+(1) In general. 
 
-(2) Excess plan requirement.
+(2) Excess plan requirement. 
 
-(3) Maximum disparity.
+(3) Maximum disparity. 
 
-(4) Uniform disparity.
+(4) Uniform disparity. 
 
-(5) Integration level.
+(5) Integration level. 
 
-(b) Maximum permitted disparity.
+(b) Maximum permitted disparity. 
 
-(1) In general.
+(1) In general. 
 
-(2) Maximum excess allowance.
+(2) Maximum excess allowance. 
 
-(c) Uniform disparity.
+(c) Uniform disparity. 
 
-(1) In general.
+(1) In general. 
 
-(2) Deemed uniformity.
+(2) Deemed uniformity. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Overall permitted disparity.
+(ii) Overall permitted disparity. 
 
-(iii) Non-FICA employees.
+(iii) Non-FICA employees. 
 
-(d) Integration level.
+(d) Integration level. 
 
-(1) In general.
+(1) In general. 
 
-(2) Taxable wage base.
+(2) Taxable wage base. 
 
-(3) Single dollar amount.
+(3) Single dollar amount. 
 
-(4) Intermediate amount.
+(4) Intermediate amount. 
 
-(5) Prorated integration level for short plan year.
+(5) Prorated integration level for short plan year. 
 
-(e) Examples.
+(e) Examples. 
 
 § 1.401(l)-3 Permitted disparity for defined benefit plans.
 
-(a) Requirements.
+(a) Requirements. 
 
-(1) In general.
+(1) In general. 
 
-(2) Excess or offset plan requirement.
+(2) Excess or offset plan requirement. 
 
-(3) Maximum disparity.
+(3) Maximum disparity. 
 
-(4) Uniform disparity.
+(4) Uniform disparity. 
 
-(5) Integration or offset level.
+(5) Integration or offset level. 
 
-(6) Benefits, rights, and features.
+(6) Benefits, rights, and features. 
 
-(b) Maximum permitted disparity.
+(b) Maximum permitted disparity. 
 
-(1) In general.
+(1) In general. 
 
-(2) Maximum excess allowance.
+(2) Maximum excess allowance. 
 
-(3) Maximum offset allowance.
+(3) Maximum offset allowance. 
 
-(4) Rules of application.
+(4) Rules of application. 
 
-(i) Disparity provided for the plan year.
+(i) Disparity provided for the plan year. 
 
-(ii) Reductions in disparity rate.
+(ii) Reductions in disparity rate. 
 
-(iii) Normal and optional forms of benefit.
+(iii) Normal and optional forms of benefit. 
 
-(A) In general.
+(A) In general. 
 
-(B) Level annuity forms.
+(B) Level annuity forms. 
 
-(C) Other forms.
+(C) Other forms. 
 
-(D) Post-retirement cost-of-living adjustments.
+(D) Post-retirement cost-of-living adjustments. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Requirements.
+(*2*) Requirements. 
 
-(E) Section 417(e) exception.
+(E) Section 417(e) exception. 
 
-(5) Examples.
+(5) Examples. 
 
-(c) Uniform disparity.
+(c) Uniform disparity. 
 
-(1) In general.
+(1) In general. 
 
-(2) Deemed uniformity.
+(2) Deemed uniformity. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Use of fractional accrual and disparity for 35 years.
+(ii) Use of fractional accrual and disparity for 35 years. 
 
-(iii) Use of fractional accrual and disparity for fewer than 35 years.
+(iii) Use of fractional accrual and disparity for fewer than 35 years. 
 
-(iv) Different social security retirement ages.
+(iv) Different social security retirement ages. 
 
-(v) Reduction for integration level.
+(v) Reduction for integration level. 
 
-(vi) Overall permitted disparity.
+(vi) Overall permitted disparity. 
 
-(A) In general.
+(A) In general. 
 
-(B) Unit credit plans.
+(B) Unit credit plans. 
 
-(C) Fractional accrual plans.
+(C) Fractional accrual plans. 
 
-(vii) Non-FICA employees.
+(vii) Non-FICA employees. 
 
-(viii) Average annual compensation adjustment for offset plan.
+(viii) Average annual compensation adjustment for offset plan. 
 
-(ix) PIA offsets.
+(ix) PIA offsets. 
 
-(3) Examples.
+(3) Examples. 
 
-(d) Requirements for integration level or offset compensation.
+(d) Requirements for integration level or offset compensation. 
 
-(1) In general.
+(1) In general. 
 
-(2) Covered compensation.
+(2) Covered compensation. 
 
-(3) Uniform percentage of covered compensation.
+(3) Uniform percentage of covered compensation. 
 
-(4) Single dollar amount.
+(4) Single dollar amount. 
 
-(5) Intermediate amount.
+(5) Intermediate amount. 
 
-(6) Intermediate amount safe harbor.
+(6) Intermediate amount safe harbor. 
 
-(7) Prorated integration level for short plan year.
+(7) Prorated integration level for short plan year. 
 
-(8) Demographic requirements.
+(8) Demographic requirements. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Attained age requirement.
+(ii) Attained age requirement. 
 
-(iii) Nondiscrimination requirement.
+(iii) Nondiscrimination requirement. 
 
-(A) Minimum percentage test.
+(A) Minimum percentage test. 
 
-(B) Ratio test.
+(B) Ratio test. 
 
-(C) High dollar amount test.
+(C) High dollar amount test. 
 
-(D) Individual disparity reductions.
+(D) Individual disparity reductions. 
 
-(9) Reduction in the 0.75-percent factor if integration or offset level exceeds covered compensation.
+(9) Reduction in the 0.75-percent factor if integration or offset level exceeds covered compensation. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Uniform percentage of covered compensation.
+(ii) Uniform percentage of covered compensation. 
 
-(iii) Single dollar amount.
+(iii) Single dollar amount. 
 
-(A) Plan-wide reduction.
+(A) Plan-wide reduction. 
 
-(B) Individual reductions.
+(B) Individual reductions. 
 
-(iv) Reductions.
+(iv) Reductions. 
 
-(A) Table.
+(A) Table. 
 
-(B) Interpolation.
+(B) Interpolation. 
 
-(10) Examples.
+(10) Examples. 
 
-(e) Adjustments to the 0.75-percent factor for benefits commencing at ages other than social security retirement age.
+(e) Adjustments to the 0.75-percent factor for benefits commencing at ages other than social security retirement age. 
 
-(1) In general.
+(1) In general. 
 
-(2) Adjustments.
+(2) Adjustments. 
 
-(i) Benefits commencing on or after age 55 and before social security retirement age.
+(i) Benefits commencing on or after age 55 and before social security retirement age. 
 
-(ii) Benefits commencing after social security retirement age and on or before age 70.
+(ii) Benefits commencing after social security retirement age and on or before age 70. 
 
-(iii) Benefits commencing before age 55.
+(iii) Benefits commencing before age 55. 
 
-(iv) Benefits commencing after age 70.
+(iv) Benefits commencing after age 70. 
 
-(3) Tables.
+(3) Tables. 
 
-(4) Benefit commencement date.
+(4) Benefit commencement date. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Qualified social security supplement.
+(ii) Qualified social security supplement. 
 
-(5) Examples.
+(5) Examples. 
 
-(f) Benefits, rights, and features.
+(f) Benefits, rights, and features. 
 
-(1) Defined benefit excess plan.
+(1) Defined benefit excess plan. 
 
-(2) Offset plan.
+(2) Offset plan. 
 
-(3) Examples.
+(3) Examples. 
 
-(g) No reductions in 0.75-percent factor for ancillary benefits.
+(g) No reductions in 0.75-percent factor for ancillary benefits. 
 
-(h) Benefits attributable to employee contributions not taken into account.
+(h) Benefits attributable to employee contributions not taken into account. 
 
-(i) Multiple integration levels. \[Reserved\]
+(i) Multiple integration levels. \[Reserved\] 
 
-(j) Additional rules.
+(j) Additional rules. 
 
 § 1.401(l)-4 Special rules for railroad plans.
 
-(a) In general.
+(a) In general. 
 
-(b) Defined contribution plans.
+(b) Defined contribution plans. 
 
-(1) In general.
+(1) In general. 
 
-(2) Single integration level method.
+(2) Single integration level method. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Definitions.
+(ii) Definitions. 
 
-(3) Two integration level method.
+(3) Two integration level method. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Total disparity requirement.
+(ii) Total disparity requirement. 
 
-(iii) Intermediate disparity requirement.
+(iii) Intermediate disparity requirement. 
 
-(iv) Definitions.
+(iv) Definitions. 
 
-(c) Defined benefit excess plans.
+(c) Defined benefit excess plans. 
 
-(1) In general.
+(1) In general. 
 
-(2) Single integration level method.
+(2) Single integration level method. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Definitions.
+(ii) Definitions. 
 
-(3) Two integration level method.
+(3) Two integration level method. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Employee with lower covered compensation.
+(ii) Employee with lower covered compensation. 
 
-(iii) Employee with lower railroad retirement covered compensation.
+(iii) Employee with lower railroad retirement covered compensation. 
 
-(iv) Definitions.
+(iv) Definitions. 
 
-(d) Offset plans.
+(d) Offset plans. 
 
-(1) In general.
+(1) In general. 
 
-(2) Maximum tier 2 and supplementary annuity offset allowance.
+(2) Maximum tier 2 and supplementary annuity offset allowance. 
 
-(e) Additional rules.
+(e) Additional rules. 
 
-(1) Definitions.
+(1) Definitions. 
 
-(2) Adjustments to 0.75-percent factor.
+(2) Adjustments to 0.75-percent factor. 
 
-(3) Adjustments to 0.56-percent factor.
+(3) Adjustments to 0.56-percent factor. 
 
-(4) Overall permitted disparity.
+(4) Overall permitted disparity. 
 
 § 1.401(l)-5 Overall permitted disparity limits.
 
-(a) Introduction.
+(a) Introduction. 
 
-(1) In general.
+(1) In general. 
 
-(2) Plan requirements.
+(2) Plan requirements. 
 
-(3) Plans taken into account.
+(3) Plans taken into account. 
 
-(b) Annual overall permitted disparity limit.
+(b) Annual overall permitted disparity limit. 
 
-(1) In general.
+(1) In general. 
 
-(2) Total annual disparity fraction.
+(2) Total annual disparity fraction. 
 
-(3) Annual defined contribution plan disparity fraction.
+(3) Annual defined contribution plan disparity fraction. 
 
-(4) Annual defined benefit excess plan disparity fraction.
+(4) Annual defined benefit excess plan disparity fraction. 
 
-(5) Annual offset plan disparity fraction.
+(5) Annual offset plan disparity fraction. 
 
-(i) In general.
+(i) In general. 
 
-(ii) PIA offset plans.
+(ii) PIA offset plans. 
 
-(6) Annual imputed disparity fraction.
+(6) Annual imputed disparity fraction. 
 
-(7) Annual nondisparate fraction.
+(7) Annual nondisparate fraction. 
 
-(8) Determination of fraction.
+(8) Determination of fraction. 
 
-(i) General rule
+(i) General rule 
 
-(ii) Multiple formulas.
+(ii) Multiple formulas. 
 
-(iii) Offset arrangements.
+(iii) Offset arrangements. 
 
-(A) In general.
+(A) In general. 
 
-(B) Defined benefit plans.
+(B) Defined benefit plans. 
 
-(C) Defined contribution plans.
+(C) Defined contribution plans. 
 
-(iv) Applicable percentages.
+(iv) Applicable percentages. 
 
-(v) Fractional accrual plans.
+(v) Fractional accrual plans. 
 
-(9) Examples.
+(9) Examples. 
 
-(c) Cumulative permitted disparity limit.
+(c) Cumulative permitted disparity limit. 
 
-(1) In general.
+(1) In general. 
 
-(i) Employees who benefit under defined benefit plans.
+(i) Employees who benefit under defined benefit plans. 
 
-(ii) Employees who do not benefit under defined benefit plans.
+(ii) Employees who do not benefit under defined benefit plans. 
 
-(iii) Certain plan years disregarded.
+(iii) Certain plan years disregarded. 
 
-(iv) Determination of type of plan.
+(iv) Determination of type of plan. 
 
-(v) Applicable plan years.
+(v) Applicable plan years. 
 
-(vi) Transition rule for defined contribution plans.
+(vi) Transition rule for defined contribution plans. 
 
-(2) Cumulative disparity fraction.
+(2) Cumulative disparity fraction. 
 
-(3) Determination of total annual disparity fractions for prior years.
+(3) Determination of total annual disparity fractions for prior years. 
 
-(4) Special rules for greater of formulas and offset arrangements.
+(4) Special rules for greater of formulas and offset arrangements. 
 
-(i) Greater of formulas.
+(i) Greater of formulas. 
 
-(A) In general.
+(A) In general. 
 
-(B) Separate satisfaction by formulas.
+(B) Separate satisfaction by formulas. 
 
-(C) Single plan.
+(C) Single plan. 
 
-(ii) Offset arrangements.
+(ii) Offset arrangements. 
 
-(A) In general.
+(A) In general. 
 
-(B) Separate satisfaction by plans.
+(B) Separate satisfaction by plans. 
 
-(C) No other plan.
+(C) No other plan. 
 
-(5) Examples.
+(5) Examples. 
 
-(d) Additional rules.
+(d) Additional rules. 
 
 § 1.401(l)-6 Effective dates and transition rules.
 
-(a) Statutory effective date.
+(a) Statutory effective date. 
 
-(1) In general.
+(1) In general. 
 
-(2) Collectively bargained plans.
+(2) Collectively bargained plans. 
 
-(b) Regulatory effective date.
+(b) Regulatory effective date. 
 
-(1) In general.
+(1) In general. 
 
-(2) Plans of tax-exempt organizations.
+(2) Plans of tax-exempt organizations. 
 
-(3) Defined contribution plans.
+(3) Defined contribution plans. 
 
-(4) Defined benefit plans.
+(4) Defined benefit plans. 
 
 (c) Compliance during transition period.
 

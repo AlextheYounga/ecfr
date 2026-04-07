@@ -1,752 +1,752 @@
 ##### § 1.355-0 Outline of sections.
 
-In order to facilitate the use of §§ 1.355-1 through 1.355-8, this section lists the major paragraphs in those sections as follows:
+In order to facilitate the use of §§ 1.355-1 through 1.355-8, this section lists the major paragraphs in those sections as follows: 
 
 § 1.355-1 Distribution of stock and securities of a controlled corporation.
 
-(a) Effective date of certain sections.*1*
+(a) Effective date of certain sections. 
 
-(b) Application of section.
+(b) Application of section. 
 
 § 1.355-2 Limitations.
 
-(a) Property distributed.
+(a) Property distributed. 
 
-(b) Independent business purpose.
+(b) Independent business purpose. 
 
-(1) Independent business purpose requirement.
+(1) Independent business purpose requirement. 
 
-(2) Corporate business purpose.
+(2) Corporate business purpose. 
 
-(3) Business purpose for distribution.
+(3) Business purpose for distribution. 
 
-(4) Business purpose as evidence of nondevice.
+(4) Business purpose as evidence of nondevice. 
 
-(5) Examples.
+(5) Examples. 
 
-(c) Continuity of interest requirement.
+(c) Continuity of interest requirement. 
 
-(1) Requirement.
+(1) Requirement. 
 
-(2) Examples.
+(2) Examples. 
 
-(d) Device for distribution of earnings and profits.
+(d) Device for distribution of earnings and profits. 
 
-(1) In general.
+(1) In general. 
 
-(2) Device factors.
+(2) Device factors. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Pro rata distribution.
+(ii) Pro rata distribution. 
 
-(iii) Subsequent sale or exchange of stock.
+(iii) Subsequent sale or exchange of stock. 
 
-(A) In general.
+(A) In general. 
 
-(B) Sale or exchange negotiated or agreed upon before the distribution.
+(B) Sale or exchange negotiated or agreed upon before the distribution. 
 
-(C) Sale or exchange not negotiated or agreed upon before the distribution.
+(C) Sale or exchange not negotiated or agreed upon before the distribution. 
 
-(D) Negotiated or agreed upon before the distribution.
+(D) Negotiated or agreed upon before the distribution. 
 
-(E) Exchange in pursuance of a plan of reorganization.
+(E) Exchange in pursuance of a plan of reorganization. 
 
-(iv) Nature and use of assets.
+(iv) Nature and use of assets. 
 
-(A) In general.
+(A) In general. 
 
-(B) Assets not used in a trade or business meeting the requirement of section 355(b).
+(B) Assets not used in a trade or business meeting the requirement of section 355(b). 
 
-(C) Related function.
+(C) Related function. 
 
-(3) Nondevice factors.
+(3) Nondevice factors. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Corporate business purpose.
+(ii) Corporate business purpose. 
 
-(iii) Distributing corporation publicly traded and widely held.
+(iii) Distributing corporation publicly traded and widely held. 
 
-(iv) Distribution to domestic corporate shareholders.
+(iv) Distribution to domestic corporate shareholders. 
 
-(4) Examples.
+(4) Examples. 
 
-(5) Transactions ordinarily not considered as a device.
+(5) Transactions ordinarily not considered as a device. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Absence of earnings and profits.
+(ii) Absence of earnings and profits. 
 
-(iii) Section 303(a) transactions.
+(iii) Section 303(a) transactions. 
 
-(iv) Section 302(a) transactions.
+(iv) Section 302(a) transactions. 
 
-(v) Examples.
+(v) Examples. 
 
-(e) Stock and securities distributed.
+(e) Stock and securities distributed. 
 
-(1) In general.
+(1) In general. 
 
-(2) Additional rules.
+(2) Additional rules. 
 
-(f) Principal amount of securities.
+(f) Principal amount of securities. 
 
-(1) Securities received.
+(1) Securities received. 
 
-(2) Only stock received.
+(2) Only stock received. 
 
-(g) Recently acquired controlled stock under section 355(a)(3)(B).
+(g) Recently acquired controlled stock under section 355(a)(3)(B). 
 
-(1) Other property.
+(1) Other property. 
 
-(2) Exceptions.
+(2) Exceptions. 
 
-(3) DSAG.
+(3) DSAG. 
 
-(4) Taxable transaction.
+(4) Taxable transaction. 
 
-(5) Examples.
+(5) Examples. 
 
-(h) Active conduct of a trade or business.
+(h) Active conduct of a trade or business. 
 
-(i) Effective/applicability date.
+(i) Effective/applicability date. 
 
 § 1.355-3 Active conduct of a trade or business.
 
-(a) General requirements.
+(a) General requirements. 
 
-(1) Application of section 355.
+(1) Application of section 355. 
 
-(2) Examples.
+(2) Examples. 
 
-(b) Active conduct of a trade or business defined.
+(b) Active conduct of a trade or business defined. 
 
-(1) In general.
+(1) In general. 
 
-(2) Active conduct or a trade or business immediately after distribution.
+(2) Active conduct or a trade or business immediately after distribution. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Trade or business.
+(ii) Trade or business. 
 
-(iii) Active conduct.
+(iii) Active conduct. 
 
-(iv) Limitations.
+(iv) Limitations. 
 
-(3) Active conduct for five-year period preceding distribution.
+(3) Active conduct for five-year period preceding distribution. 
 
-(4) Special rules for acquisition of a trade or business (Prior to the Revenue Act of 1987 and Technical and Miscellaneous Revenue Act of 1988).
+(4) Special rules for acquisition of a trade or business (Prior to the Revenue Act of 1987 and Technical and Miscellaneous Revenue Act of 1988). 
 
-(i) In general.
+(i) In general. 
 
-(ii) Example.
+(ii) Example. 
 
-(iii) Gain or loss recognized in certain transactions.
+(iii) Gain or loss recognized in certain transactions. 
 
-(iv) Affiliated group.
+(iv) Affiliated group. 
 
-(5) Special rules for acquisition of a trade or business (After the Revenue Act of 1987 and Technical and Miscellaneous Revenue Act of 1988).
+(5) Special rules for acquisition of a trade or business (After the Revenue Act of 1987 and Technical and Miscellaneous Revenue Act of 1988). 
 
-(c) Examples.
+(c) Examples. 
 
 § 1.355-4 Non pro rata distributions, etc.§ 1.355-5 Records to be kept and information to be filed.
 
-(a) Distributing corporation.
+(a) Distributing corporation. 
 
-(1) In general.
+(1) In general. 
 
-(2) Special rule when an asset transfer precedes a stock distribution.
+(2) Special rule when an asset transfer precedes a stock distribution. 
 
-(b) Significant distributee.
+(b) Significant distributee. 
 
-(c) Definitions.
+(c) Definitions. 
 
-(1) Significant distributee.
+(1) Significant distributee. 
 
-(2) Publicly traded stock.
+(2) Publicly traded stock. 
 
-(d) Substantiation information.
+(d) Substantiation information. 
 
-(e) Effective/applicability date.
+(e) Effective/applicability date. 
 
 § 1.355-6 Recognition of gain on certain distributions of stock or securities in controlled corporation.
 
-(a) Conventions.
+(a) Conventions. 
 
-(1) Examples.
+(1) Examples. 
 
-(2) Five-year period.
+(2) Five-year period. 
 
-(3) Distributing securities.
+(3) Distributing securities. 
 
-(4) Marketable securities.
+(4) Marketable securities. 
 
-(b) General rules and purposes of section 355(d).
+(b) General rules and purposes of section 355(d). 
 
-(1) Disqualified distributions in general.
+(1) Disqualified distributions in general. 
 
-(2) Disqualified stock.
+(2) Disqualified stock. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Purchase.
+(ii) Purchase. 
 
-(iii) Exceptions.
+(iii) Exceptions. 
 
-(A) Purchase eliminated.
+(A) Purchase eliminated. 
 
-(B) Deemed purchase eliminated.
+(B) Deemed purchase eliminated. 
 
-(C) Elimination of basis.
+(C) Elimination of basis. 
 
-(*1*) General rule.
+(*1*) General rule. 
 
-(*2*) Special rule for transferred and exchanged basis property.
+(*2*) Special rule for transferred and exchanged basis property. 
 
-(*3*) Special rule for Split-offs and Split-ups.
+(*3*) Special rule for Split-offs and Split-ups. 
 
-(D) Special rule if basis allocated between two corporations.
+(D) Special rule if basis allocated between two corporations. 
 
-(3) Certain distributions not disqualified distributions because purposes of section 355(d) not violated.
+(3) Certain distributions not disqualified distributions because purposes of section 355(d) not violated. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Disqualified person.
+(ii) Disqualified person. 
 
-(iii) Purchased basis.
+(iii) Purchased basis. 
 
-(iv) Increase in interest because payment of cash in lieu of fractional shares.
+(iv) Increase in interest because payment of cash in lieu of fractional shares. 
 
-(v) Other exceptions.
+(v) Other exceptions. 
 
-(vi) Examples.
+(vi) Examples. 
 
-(4) Anti-avoidance rule.
+(4) Anti-avoidance rule. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Example.
+(ii) Example. 
 
-(c) Whether a person holds a 50 percent or greater interest.
+(c) Whether a person holds a 50 percent or greater interest. 
 
-(1) In general.
+(1) In general. 
 
-(2) Valuation.
+(2) Valuation. 
 
-(3) Effect of options, warrants, convertible obligations, and other similar interests.
+(3) Effect of options, warrants, convertible obligations, and other similar interests. 
 
-(i) Application.
+(i) Application. 
 
-(ii) General rule.
+(ii) General rule. 
 
-(iii) Options deemed newly issued and substituted options.
+(iii) Options deemed newly issued and substituted options. 
 
-(A) Exchange, adjustment, or alteration of existing option.
+(A) Exchange, adjustment, or alteration of existing option. 
 
-(B) Certain compensatory options.
+(B) Certain compensatory options. 
 
-(C) Substituted options.
+(C) Substituted options. 
 
-(iv) Effect of treating an option as exercised.
+(iv) Effect of treating an option as exercised. 
 
-(A) In general.
+(A) In general. 
 
-(B) Stock purchase agreement or similar arrangement.
+(B) Stock purchase agreement or similar arrangement. 
 
-(v) Instruments treated as options.
+(v) Instruments treated as options. 
 
-(vi) Instruments generally not treated as options.
+(vi) Instruments generally not treated as options. 
 
-(A) Escrow, pledge, or other security agreements.
+(A) Escrow, pledge, or other security agreements. 
 
-(B) Compensatory options.
+(B) Compensatory options. 
 
-(*1*) General rule.
+(*1*) General rule. 
 
-(*2*) Exception.
+(*2*) Exception. 
 
-(C) Certain stock conversion features.
+(C) Certain stock conversion features. 
 
-(D) Options exercisable only upon death, disability, mental incompetency, or separation from service.
+(D) Options exercisable only upon death, disability, mental incompetency, or separation from service. 
 
-(E) Rights of first refusal.
+(E) Rights of first refusal. 
 
-(F) Other enumerated instruments.
+(F) Other enumerated instruments. 
 
-(vii) Reasonably certain that the option will be exercised.
+(vii) Reasonably certain that the option will be exercised. 
 
-(A) In general.
+(A) In general. 
 
-(B) Stock purchase agreement or similar arrangement.
+(B) Stock purchase agreement or similar arrangement. 
 
-(viii) Examples.
+(viii) Examples. 
 
-(4) Plan or arrangement.
+(4) Plan or arrangement. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Understanding.
+(ii) Understanding. 
 
-(iii) Examples.
+(iii) Examples. 
 
-(iv) Exception.
+(iv) Exception. 
 
-(A) Subsequent disposition.
+(A) Subsequent disposition. 
 
-(B) Example.
+(B) Example. 
 
-(d) Purchase.
+(d) Purchase. 
 
-(1) In general.
+(1) In general. 
 
-(i) Definition of purchase under section 355(d)(5)(A).
+(i) Definition of purchase under section 355(d)(5)(A). 
 
-(ii) Section 355 distributions.
+(ii) Section 355 distributions. 
 
-(iii) Example.
+(iii) Example. 
 
-(2) Exceptions to definition of purchase under section 355(d)(5)(A).
+(2) Exceptions to definition of purchase under section 355(d)(5)(A). 
 
-(i) Acquisition of stock in a transaction which includes other property or money.
+(i) Acquisition of stock in a transaction which includes other property or money. 
 
-(A) Transferors and shareholders of transferor or distributing corporations.
+(A) Transferors and shareholders of transferor or distributing corporations. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Exception.
+(*2*) Exception. 
 
-(B) Transferee corporations.
+(B) Transferee corporations. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Exception.
+(*2*) Exception. 
 
-(C) Examples.
+(C) Examples. 
 
-(ii) Acquisition of stock in a distribution to which section 305(a) applies.
+(ii) Acquisition of stock in a distribution to which section 305(a) applies. 
 
-(iii) Section 1036(a) exchange.
+(iii) Section 1036(a) exchange. 
 
-(iv) Section 338 elections.
+(iv) Section 338 elections. 
 
-(A) In general.
+(A) In general. 
 
-(B) Example.
+(B) Example. 
 
-(v) Partnership distributions.
+(v) Partnership distributions. 
 
-(A) Section 732(b).
+(A) Section 732(b). 
 
-(B) Section 734(b).
+(B) Section 734(b). 
 
-(3) Certain section 351 exchanges treated as purchases.
+(3) Certain section 351 exchanges treated as purchases. 
 
-(i) In general.
+(i) In general. 
 
-(A) Treatment of stock received by transferor.
+(A) Treatment of stock received by transferor. 
 
-(B) Multiple classes of stock.
+(B) Multiple classes of stock. 
 
-(ii) Cash item, marketable stock.
+(ii) Cash item, marketable stock. 
 
-(iii) Exception for certain acquisitions.
+(iii) Exception for certain acquisitions. 
 
-(A) In general.
+(A) In general. 
 
-(B) Example.
+(B) Example. 
 
-(iv) Exception for assets transferred as part of an active trade or business.
+(iv) Exception for assets transferred as part of an active trade or business. 
 
-(A) In general.
+(A) In general. 
 
-(B) Active conduct of a trade or business.
+(B) Active conduct of a trade or business. 
 
-(C) Reasonable needs of the trade or business.
+(C) Reasonable needs of the trade or business. 
 
-(D) Consideration of all facts and circumstances.
+(D) Consideration of all facts and circumstances. 
 
-(E) Successive transfers.
+(E) Successive transfers. 
 
-(v) Exception for transfer between members of the same affiliated group.
+(v) Exception for transfer between members of the same affiliated group. 
 
-(A) In general.
+(A) In general. 
 
-(B) Examples.
+(B) Examples. 
 
-(4) Triangular asset reorganizations.
+(4) Triangular asset reorganizations. 
 
-(i) Definition.
+(i) Definition. 
 
-(ii) Treatment.
+(ii) Treatment. 
 
-(iii) Example.
+(iii) Example. 
 
-(5) Reverse triangular reorganizations other than triangular asset reorganizations.
+(5) Reverse triangular reorganizations other than triangular asset reorganizations. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Letter ruling and closing agreement.
+(ii) Letter ruling and closing agreement. 
 
-(iii) Example.
+(iii) Example. 
 
-(6) Treatment of group structure changes.
+(6) Treatment of group structure changes. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Adjustments to basis of higher-tier members.
+(ii) Adjustments to basis of higher-tier members. 
 
-(iii) Example.
+(iii) Example. 
 
-(7) Special rules for triangular asset reorganizations, other reverse triangular reorganizations, and group structure changes.
+(7) Special rules for triangular asset reorganizations, other reverse triangular reorganizations, and group structure changes. 
 
-(e) Deemed purchase and timing rules.
+(e) Deemed purchase and timing rules. 
 
-(1) Attribution and aggregation.
+(1) Attribution and aggregation. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Purchase of additional interest.
+(ii) Purchase of additional interest. 
 
-(iii) Purchase between persons treated as one person.
+(iii) Purchase between persons treated as one person. 
 
-(iv) Purchase by a person already treated as holding stock under section 355(d)(8)(A).
+(iv) Purchase by a person already treated as holding stock under section 355(d)(8)(A). 
 
-(v) Examples.
+(v) Examples. 
 
-(2) Transferred basis rule.
+(2) Transferred basis rule. 
 
-(3) Exchanged basis rule.
+(3) Exchanged basis rule. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Example.
+(ii) Example. 
 
-(4) Certain section 355 or section 305 distributions.
+(4) Certain section 355 or section 305 distributions. 
 
-(i) Section 355.
+(i) Section 355. 
 
-(ii) Section 305.
+(ii) Section 305. 
 
-(5) Substantial diminution of risk.
+(5) Substantial diminution of risk. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Property to which suspension applies.
+(ii) Property to which suspension applies. 
 
-(iii) Risk of loss substantially diminished.
+(iii) Risk of loss substantially diminished. 
 
-(iv) Special class of stock.
+(iv) Special class of stock. 
 
-(f) Duty to determine stockholders.
+(f) Duty to determine stockholders. 
 
-(1) In general.
+(1) In general. 
 
-(2) Deemed knowledge of contents of securities filings.
+(2) Deemed knowledge of contents of securities filings. 
 
-(3) Presumptions as to securities filings.
+(3) Presumptions as to securities filings. 
 
-(4) Presumption as to less-than-five-percent shareholders.
+(4) Presumption as to less-than-five-percent shareholders. 
 
-(5) Examples.
+(5) Examples. 
 
-(g) Effective date.
+(g) Effective date. 
 
 § 1.355-7 Recognition of gain on certain distributions of stock or securities in connection with an acquisition.
 
-(a) In general.
+(a) In general. 
 
-(b) Plan.
+(b) Plan. 
 
-(1) In general.
+(1) In general. 
 
-(2) Certain post-distribution acquisitions.
+(2) Certain post-distribution acquisitions. 
 
-(3) Plan factors.
+(3) Plan factors. 
 
-(4) Non-plan factors.
+(4) Non-plan factors. 
 
-(c) Operating rules.
+(c) Operating rules. 
 
-(1) Internal discussions and discussions with outside advisors evidence of business purpose.
+(1) Internal discussions and discussions with outside advisors evidence of business purpose. 
 
-(2) Takeover defense.
+(2) Takeover defense. 
 
-(3) Effect of distribution on trading in stock.
+(3) Effect of distribution on trading in stock. 
 
-(4) Consequences of section 355(e) disregarded for certain purposes.
+(4) Consequences of section 355(e) disregarded for certain purposes. 
 
-(5) Multiple acquisitions.
+(5) Multiple acquisitions. 
 
-(d) Safe harbors.
+(d) Safe harbors. 
 
-(1) Safe Harbor I.
+(1) Safe Harbor I. 
 
-(2) Safe Harbor II.
+(2) Safe Harbor II. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Special rule.
+(ii) Special rule. 
 
-(3) Safe Harbor III.
+(3) Safe Harbor III. 
 
-(4) Safe Harbor IV.
+(4) Safe Harbor IV. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Special rules.
+(ii) Special rules. 
 
-(5) Safe Harbor V.
+(5) Safe Harbor V. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Special rules.
+(ii) Special rules. 
 
-(6) Safe Harbor VI.
+(6) Safe Harbor VI. 
 
-(7) Safe Harbor VII.
+(7) Safe Harbor VII. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Special rules.
+(ii) Special rules. 
 
-(8) Safe Harbor VIII.
+(8) Safe Harbor VIII. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Special rule.
+(ii) Special rule. 
 
-(9) Safe Harbor IX.
+(9) Safe Harbor IX. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Special rule.
+(ii) Special rule. 
 
-(e) Options, warrants, convertible obligations, and other similar interests.
+(e) Options, warrants, convertible obligations, and other similar interests. 
 
-(1) Treatment of options.
+(1) Treatment of options. 
 
-(i) General rule.
+(i) General rule. 
 
-(ii) Agreement, understanding, or arrangement to write, transfer, or modify an option.
+(ii) Agreement, understanding, or arrangement to write, transfer, or modify an option. 
 
-(iii) Substantial negotiations related to options.
+(iii) Substantial negotiations related to options. 
 
-(2) Stock acquired pursuant to options.
+(2) Stock acquired pursuant to options. 
 
-(3) Instruments treated as options.
+(3) Instruments treated as options. 
 
-(4) Instruments generally not treated as options.
+(4) Instruments generally not treated as options. 
 
-(i) Escrow, pledge, or other security agreements.
+(i) Escrow, pledge, or other security agreements. 
 
-(ii) Options exercisable only upon death, disability, mental incompetency, or separation from service.
+(ii) Options exercisable only upon death, disability, mental incompetency, or separation from service. 
 
-(iii) Rights of first refusal.
+(iii) Rights of first refusal. 
 
-(iv) Other enumerated instruments.
+(iv) Other enumerated instruments. 
 
-(f) Multiple controlled corporations.
+(f) Multiple controlled corporations. 
 
-(g) Valuation.
+(g) Valuation. 
 
-(h) Definitions.
+(h) Definitions. 
 
-(1) Agreement, understanding, arrangement, or substantial negotiations.
+(1) Agreement, understanding, arrangement, or substantial negotiations. 
 
-(2) Controlled corporation.
+(2) Controlled corporation. 
 
-(3) Controlling shareholder.
+(3) Controlling shareholder. 
 
-(4) Coordinating group.
+(4) Coordinating group. 
 
-(5) Disclosure event.
+(5) Disclosure event. 
 
-(6) Discussions.
+(6) Discussions. 
 
-(7) Established market.
+(7) Established market. 
 
-(8) Five-percent shareholder.
+(8) Five-percent shareholder. 
 
-(9) Implicit permission.
+(9) Implicit permission. 
 
-(10) Public announcement.
+(10) Public announcement. 
 
-(11) Public offering.
+(11) Public offering. 
 
-(12) Similar acquisition (not involving a public offering).
+(12) Similar acquisition (not involving a public offering). 
 
-(13) Similar acquisition involving a public offering.
+(13) Similar acquisition involving a public offering. 
 
-(i) One public offering.
+(i) One public offering. 
 
-(ii) More than one public offering.
+(ii) More than one public offering. 
 
-(iii) Potential acquisition involving a public offering.
+(iii) Potential acquisition involving a public offering. 
 
-(14) Ten-percent shareholder.
+(14) Ten-percent shareholder. 
 
-(i) \[Reserved\]
+(i) \[Reserved\] 
 
-(j) Examples.
+(j) Examples. 
 
-(k) Effective dates.
+(k) Effective dates. 
 
 § 1.355-8 Definition of predecessor and successor and limitations on gain recognition under section 355(e) and section 355(f).
 
-(a) In general.
+(a) In general. 
 
-(1) Scope.
+(1) Scope. 
 
-(2) Overview.
+(2) Overview. 
 
-(i) Purposes and conceptual overview.
+(i) Purposes and conceptual overview. 
 
-(ii) References to and definitions of terms used in this section.
+(ii) References to and definitions of terms used in this section. 
 
-(iii) Special rules and examples.
+(iii) Special rules and examples. 
 
-(3) Purposes of section; Predecessor of Distributing overview.
+(3) Purposes of section; Predecessor of Distributing overview. 
 
-(i) Purposes.
+(i) Purposes. 
 
-(ii) Predecessor of Distributing overview.
+(ii) Predecessor of Distributing overview. 
 
-(A) Relevant Property transferred to Controlled.
+(A) Relevant Property transferred to Controlled. 
 
-(B) Relevant Property includes Controlled Stock.
+(B) Relevant Property includes Controlled Stock. 
 
-(4) References.
+(4) References. 
 
-(i) References to Distributing or Controlled.
+(i) References to Distributing or Controlled. 
 
-(ii) References to Plan or Distribution.
+(ii) References to Plan or Distribution. 
 
-(iii) Plan Period.
+(iii) Plan Period. 
 
-(5) List of definitions.
+(5) List of definitions. 
 
-(b) Predecessor of Distributing.
+(b) Predecessor of Distributing. 
 
-(1) Definition.
+(1) Definition. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Pre-Distribution requirements.
+(ii) Pre-Distribution requirements. 
 
-(A) Relevant Property requirement.
+(A) Relevant Property requirement. 
 
-(B) Reflection of basis requirement.
+(B) Reflection of basis requirement. 
 
-(iii) Post-Distribution requirement.
+(iii) Post-Distribution requirement. 
 
-(2) Additional definitions and rules related to paragraph (b)(1) of this section.
+(2) Additional definitions and rules related to paragraph (b)(1) of this section. 
 
-(i) References to Distributing and Controlled.
+(i) References to Distributing and Controlled. 
 
-(ii) Potential Predecessor.
+(ii) Potential Predecessor. 
 
-(A) Potential Predecessor definition.
+(A) Potential Predecessor definition. 
 
-(B) Expanded Affiliated Group definition.
+(B) Expanded Affiliated Group definition. 
 
-(iii) Successors of Potential Predecessors.
+(iii) Successors of Potential Predecessors. 
 
-(iv) Relevant Property; Relevant Equity.
+(iv) Relevant Property; Relevant Equity. 
 
-(A) In general.
+(A) In general. 
 
-(B) Property held by Distributing.
+(B) Property held by Distributing. 
 
-(C) F reorganizations.
+(C) F reorganizations. 
 
-(v) Stock of Distributing as Relevant Property.
+(v) Stock of Distributing as Relevant Property. 
 
-(A) In general.
+(A) In general. 
 
-(B) Certain reorganizations.
+(B) Certain reorganizations. 
 
-(vi) Substitute Asset.
+(vi) Substitute Asset. 
 
-(A) In general.
+(A) In general. 
 
-(B) Controlled stock received by Distributing.
+(B) Controlled stock received by Distributing. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Exception.
+(*2*) Exception. 
 
-(C) Treatment as Relevant Property.
+(C) Treatment as Relevant Property. 
 
-(vii) Separated Property.
+(vii) Separated Property. 
 
-(viii) Underlying Property.
+(viii) Underlying Property. 
 
-(ix) Multiple Predecessors of Distributing.
+(ix) Multiple Predecessors of Distributing. 
 
-(x) Deemed exchanges.
+(x) Deemed exchanges. 
 
-(c) Additional definitions.
+(c) Additional definitions. 
 
-(1) Predecessor of Controlled.
+(1) Predecessor of Controlled. 
 
-(2) Successors.
+(2) Successors. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Determination of Successor status.
+(ii) Determination of Successor status. 
 
-(3) Section 381 Transaction.
+(3) Section 381 Transaction. 
 
-(d) Special acquisition rules.
+(d) Special acquisition rules. 
 
-(1) Deemed acquisitions of stock in Section 381 Transactions.
+(1) Deemed acquisitions of stock in Section 381 Transactions. 
 
-(i) Rule.
+(i) Rule. 
 
-(ii) Example.
+(ii) Example. 
 
-(2) Deemed acquisitions of stock after Section 381 Transactions.
+(2) Deemed acquisitions of stock after Section 381 Transactions. 
 
-(3) Separate counting for Distributing and each Predecessor of Distributing.
+(3) Separate counting for Distributing and each Predecessor of Distributing. 
 
-(e) Special rules for limiting gain recognition.
+(e) Special rules for limiting gain recognition. 
 
-(1) Overview.
+(1) Overview. 
 
-(i) Gain limitation.
+(i) Gain limitation. 
 
-(ii) Multiple Planned 50-percent Acquisitions.
+(ii) Multiple Planned 50-percent Acquisitions. 
 
-(iii) Statutory Recognition Amount limit; Section 336(e).
+(iii) Statutory Recognition Amount limit; Section 336(e). 
 
-(2) Planned 50-percent Acquisition of a Predecessor of Distributing.
+(2) Planned 50-percent Acquisition of a Predecessor of Distributing. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Operating rules.
+(ii) Operating rules. 
 
-(A) Separated Property other than Controlled stock.
+(A) Separated Property other than Controlled stock. 
 
-(B) Controlled stock that is Separated Property.
+(B) Controlled stock that is Separated Property. 
 
-(C) Anti-duplication rule.
+(C) Anti-duplication rule. 
 
-(3) Planned 50-percent Acquisition of Distributing.
+(3) Planned 50-percent Acquisition of Distributing. 
 
-(4) Gain recognition limited to Statutory Recognition Amount.
+(4) Gain recognition limited to Statutory Recognition Amount. 
 
-(5) Section 336(e) election.
+(5) Section 336(e) election. 
 
-(f) Predecessor or Successor as a member of the affiliated group.
+(f) Predecessor or Successor as a member of the affiliated group. 
 
-(g) Inapplicability of section 355(f) to certain intra-group Distributions.
+(g) Inapplicability of section 355(f) to certain intra-group Distributions. 
 
-(1) In general.
+(1) In general. 
 
-(2) Alternative application of section 355(f).
+(2) Alternative application of section 355(f). 
 
-(h) Examples.
+(h) Examples. 
 
 (i) Applicability date.
 

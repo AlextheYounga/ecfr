@@ -1,255 +1,255 @@
 ##### § 1.468A-0 Nuclear decommissioning costs; table of contents.
 
-This section lists the paragraphs contained in §§ 1.468A-1 through 1.468A-9.
+This section lists the paragraphs contained in §§ 1.468A-1 through 1.468A-9. 
 
 § 1.468A-1 Nuclear decommissioning costs; general rules.
 
-(a) Introduction.
+(a) Introduction. 
 
-(b) Definitions.
+(b) Definitions. 
 
-(c) Special rules applicable to certain experimental nuclear facilities.
+(c) Special rules applicable to certain experimental nuclear facilities. 
 
 § 1.468A-2 Treatment of electing taxpayer.
 
-(a) In general.
+(a) In general. 
 
-(b) Limitation on payments to a nuclear decommissioning fund.
+(b) Limitation on payments to a nuclear decommissioning fund. 
 
-(1) In general.
+(1) In general. 
 
-(2) Excess contributions not deductible.
+(2) Excess contributions not deductible. 
 
-(c) Deemed payment rules.
+(c) Deemed payment rules. 
 
-(1) In general.
+(1) In general. 
 
-(2) Cash payment by customer.
+(2) Cash payment by customer. 
 
-(d) Treatment of distributions.
+(d) Treatment of distributions. 
 
-(1) In general.
+(1) In general. 
 
-(2) Exceptions to inclusion in gross income.
+(2) Exceptions to inclusion in gross income. 
 
-(i) Payment of administrative costs and incidental expenses.
+(i) Payment of administrative costs and incidental expenses. 
 
-(ii) Withdrawals of excess contributions.
+(ii) Withdrawals of excess contributions. 
 
-(iii) Actual distributions of amounts included in gross income as deemed distributions.
+(iii) Actual distributions of amounts included in gross income as deemed distributions. 
 
-(e) Deduction when economic performance occurs.
+(e) Deduction when economic performance occurs. 
 
 § 1.468A-3 Ruling amount.
 
-(a) In general.
+(a) In general. 
 
-(b) Level funding limitation.
+(b) Level funding limitation. 
 
-(c) Funding period.
+(c) Funding period. 
 
-(d) Decommissioning costs allocable to a fund.
+(d) Decommissioning costs allocable to a fund. 
 
-(1) General rule.
+(1) General rule. 
 
-(2) Total estimated cost of decommissioning.
+(2) Total estimated cost of decommissioning. 
 
-(3) Taxpayer's share.
+(3) Taxpayer's share. 
 
-(e) Manner of requesting schedule of ruling amounts.
+(e) Manner of requesting schedule of ruling amounts. 
 
-(1) In general.
+(1) In general. 
 
-(2) Information required.
+(2) Information required. 
 
-(3) Administrative procedures.
+(3) Administrative procedures. 
 
-(f) Review and revision of schedule of ruling amounts.
+(f) Review and revision of schedule of ruling amounts. 
 
-(1) Mandatory review.
+(1) Mandatory review. 
 
-(2) Elective review.
+(2) Elective review. 
 
-(3) Determination of revised schedule of ruling amounts.
+(3) Determination of revised schedule of ruling amounts. 
 
-(g) Special rule permitting payments to a nuclear decommissioning fund before receipt of an initial or revised ruling amount applicable to a taxable year.
+(g) Special rule permitting payments to a nuclear decommissioning fund before receipt of an initial or revised ruling amount applicable to a taxable year. 
 
 § 1.468A-4 Treatment of nuclear decommissioning fund.
 
-(a) In general.
+(a) In general. 
 
-(b) Modified gross income.
+(b) Modified gross income. 
 
-(c) Special rules.
+(c) Special rules. 
 
-(1) Period for computation of modified gross income.
+(1) Period for computation of modified gross income. 
 
-(2) Gain or loss upon distribution of property by a fund.
+(2) Gain or loss upon distribution of property by a fund. 
 
-(3) Denial of credits against tax.
+(3) Denial of credits against tax. 
 
-(4) Other corporate taxes inapplicable.
+(4) Other corporate taxes inapplicable. 
 
-(d) Treatment as corporation for purposes of subtitle F.
+(d) Treatment as corporation for purposes of subtitle F. 
 
 § 1.468A-5 Nuclear decommissioning fund—miscellaneous provisions.
 
-(a) Qualification requirements.
+(a) Qualification requirements. 
 
-(1) In general.
+(1) In general. 
 
-(2) Limitation on contributions.
+(2) Limitation on contributions. 
 
-(3) Limitation on use of fund.
+(3) Limitation on use of fund. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Definition of administrative costs and expenses.
+(ii) Definition of administrative costs and expenses. 
 
-(4) Trust provisions.
+(4) Trust provisions. 
 
-(b) Prohibitions against self-dealing.
+(b) Prohibitions against self-dealing. 
 
-(1) In general.
+(1) In general. 
 
-(2) Self-dealing defined.
+(2) Self-dealing defined. 
 
-(3) Disqualified person defined.
+(3) Disqualified person defined. 
 
-(c) Disqualification of nuclear decommissioning fund.
+(c) Disqualification of nuclear decommissioning fund. 
 
-(1) In general.
+(1) In general. 
 
-(2) Exception to disqualification.
+(2) Exception to disqualification. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Excess contribution defined.
+(ii) Excess contribution defined. 
 
-(iii) Taxation of income attributable to an excess contribution.
+(iii) Taxation of income attributable to an excess contribution. 
 
-(3) Effect of disqualification.
+(3) Effect of disqualification. 
 
-(4) Further effects of disqualification.
+(4) Further effects of disqualification. 
 
-(d) Termination of nuclear decommissioning fund upon substantial completion of decommissioning.
+(d) Termination of nuclear decommissioning fund upon substantial completion of decommissioning. 
 
-(1) In general.
+(1) In general. 
 
-(2) Additional rules.
+(2) Additional rules. 
 
-(3) Substantial completion of decommissioning defined.
+(3) Substantial completion of decommissioning defined. 
 
 § 1.468A-6 Disposition of an interest in a nuclear power plant.
 
-(a) In general.
+(a) In general. 
 
-(b) Requirements.
+(b) Requirements. 
 
-(c) Tax consequences.
+(c) Tax consequences. 
 
-(1) The transferor and its Fund.
+(1) The transferor and its Fund. 
 
-(2) The transferee and its Fund.
+(2) The transferee and its Fund. 
 
-(3) Basis.
+(3) Basis. 
 
-(d) Determination of proportionate amount.
+(d) Determination of proportionate amount. 
 
-(e) Calculation of schedule of ruling amounts and schedule of deduction amounts for dispositions described in this section.
+(e) Calculation of schedule of ruling amounts and schedule of deduction amounts for dispositions described in this section. 
 
-(1) Transferor.
+(1) Transferor. 
 
-(i) Taxable year of disposition.
+(i) Taxable year of disposition. 
 
-(ii) Taxable years after the disposition.
+(ii) Taxable years after the disposition. 
 
-(2) Transferee.
+(2) Transferee. 
 
-(i) Taxable year of disposition.
+(i) Taxable year of disposition. 
 
-(ii) Taxable years after the disposition.
+(ii) Taxable years after the disposition. 
 
-(3) Examples.
+(3) Examples. 
 
-(f) Anti-abuse provision.
+(f) Anti-abuse provision. 
 
 § 1.468A-7 Manner of and time for making election.
 
-(a) In general.
+(a) In general. 
 
-(b) Required information.
+(b) Required information. 
 
 § 1.468A-8 Special transfers to qualified funds pursuant to section 468A(f).
 
-(a) General rule.
+(a) General rule. 
 
-(1) In general.
+(1) In general. 
 
-(2) Pre-2005 nonqualifying amount.
+(2) Pre-2005 nonqualifying amount. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Pre-2005 nonqualifying amount of transferee.
+(ii) Pre-2005 nonqualifying amount of transferee. 
 
-(3) Transfers in multiple years.
+(3) Transfers in multiple years. 
 
-(4) Deemed payment rules.
+(4) Deemed payment rules. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Special rule for certain transfers.
+(ii) Special rule for certain transfers. 
 
-(b) Deduction for amounts transferred.
+(b) Deduction for amounts transferred. 
 
-(1) In general.
+(1) In general. 
 
-(2) Amount of deduction.
+(2) Amount of deduction. 
 
-(i) General Rule.
+(i) General Rule. 
 
-(ii) Election.
+(ii) Election. 
 
-(A) In general.
+(A) In general. 
 
-(B) Manner of making election.
+(B) Manner of making election. 
 
-(C) Election allowed for property transferred prior to December 23, 2010.
+(C) Election allowed for property transferred prior to December 23, 2010. 
 
-(3) Denial of deduction for previously deducted amounts.
+(3) Denial of deduction for previously deducted amounts. 
 
-(4) Transfers of qualified nuclear decommissioning funds.
+(4) Transfers of qualified nuclear decommissioning funds. 
 
-(5) Special rules.
+(5) Special rules. 
 
-(i) Gain or loss not recognized on transfers to fund.
+(i) Gain or loss not recognized on transfers to fund. 
 
-(ii) Taxpayer basis in fund.
+(ii) Taxpayer basis in fund. 
 
-(iii) Fund basis in transferred property.
+(iii) Fund basis in transferred property. 
 
-(A) In general.
+(A) In general. 
 
-(B) Basis in case of election.
+(B) Basis in case of election. 
 
-(c) Schedule of deductions required.
+(c) Schedule of deductions required. 
 
-(1) In general.
+(1) In general. 
 
-(2) Transfers in multiple taxable years.
+(2) Transfers in multiple taxable years. 
 
-(3) Transfer of partial interest in fund.
+(3) Transfer of partial interest in fund. 
 
-(4) Special transfer permitted before receipt of schedule.
+(4) Special transfer permitted before receipt of schedule. 
 
-(d) Manner of requesting schedule of deduction amounts.
+(d) Manner of requesting schedule of deduction amounts. 
 
-(1) In general.
+(1) In general. 
 
-(2) Information required.
+(2) Information required. 
 
-(3) Statement required.
+(3) Statement required. 
 
-(4) Administrative procedures.
+(4) Administrative procedures. 
 
 § 1.468A-9 Effective/applicability date.\[T.D. 9512, 75 FR 80701, Dec. 23, 2010\]

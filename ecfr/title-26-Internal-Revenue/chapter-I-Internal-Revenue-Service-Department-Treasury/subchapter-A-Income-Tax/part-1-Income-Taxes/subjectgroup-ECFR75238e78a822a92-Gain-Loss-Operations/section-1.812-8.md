@@ -1,8 +1,8 @@
 ##### § 1.812-8 Illustration of operations loss carrybacks and carryovers.
 
-The application of § 1.812-4 may be illustrated by the following example:*Facts.*
+The application of § 1.812-4 may be illustrated by the following example: 
 
-(a) *Facts.* The books of M, a life insurance company, organized in 1940, reveal the following facts:
+(a) *Facts.* The books of M, a life insurance company, organized in 1940, reveal the following facts: 
 
 | Taxable year | Taxable investment income | Gain from operations | Loss from operations |
 | ------------ | ------------------------- | -------------------- | -------------------- |
@@ -19,18 +19,18 @@ The application of § 1.812-4 may be illustrated by the following example:*Facts
 
 The gain from operations thus shown is computed without regard to any operations loss deduction. The assumption is also made that none of the other modifications prescribed in paragraph (b) of § 1.812-5 apply. There are no losses from operations for 1955, 1956, 1957, 1968, 1969, 1970.
 
-(b) *Loss sustained in 1960.* The portions of the $75,000 loss from operations for 1960 which shall be used as carrybacks to 1958 and 1959 and as carryovers to 1961, 1962, 1963, 1964, and 1965 are computed as follows:
+(b) *Loss sustained in 1960.* The portions of the $75,000 loss from operations for 1960 which shall be used as carrybacks to 1958 and 1959 and as carryovers to 1961, 1962, 1963, 1964, and 1965 are computed as follows: 
 
-(1) *Carryback to 1958.* The carryback to this year is $75,000, that is, the amount of the loss from operations.
+(1) *Carryback to 1958.* The carryback to this year is $75,000, that is, the amount of the loss from operations. 
 
-(2) *Carryback to 1959.* The carryback to this year is $60,000 (the excess of the loss for 1960 over the offset for 1958), computed as follows:
+(2) *Carryback to 1959.* The carryback to this year is $60,000 (the excess of the loss for 1960 over the offset for 1958), computed as follows: 
 
 | Loss from operations                                                                                                       | $75,000 |
 | Less:                                                                                                                      |         |
 | Offset for 1958 (the $15,000 gain from operations for such year computed without the deduction of the carryback from 1960) | 15,000  |
 | Carryback                                                                                                                  | 60,000  |
 
-(3) *Carryover to 1961.* The carryover to this year is $30,000 (the excess, if any, of the loss for 1960 over the sum of the offsets for 1958 and 1959), computed as follows:
+(3) *Carryover to 1961.* The carryover to this year is $30,000 (the excess, if any, of the loss for 1960 over the sum of the offsets for 1958 and 1959), computed as follows: 
 
 | Loss from operations                                                                                                                                  | $75,000 |  |
 | Less:                                                                                                                                                 |         |  |
@@ -39,7 +39,7 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                        | 45,000  |  |
 | Carryover                                                                                                                                             | 30,000  |  |
 
-(4) *Carryover to 1962.* The carryover to this year is $10,000 (the excess, if any, of the loss for 1960 over the sum of the offsets for 1958, 1959, and 1961), computed as follows:
+(4) *Carryover to 1962.* The carryover to this year is $10,000 (the excess, if any, of the loss for 1960 over the sum of the offsets for 1958, 1959, and 1961), computed as follows: 
 
 | Loss from operations                                                                                                                                  | $75,000 |  |
 | Less:                                                                                                                                                 |         |  |
@@ -49,7 +49,7 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                        | 65,000  |  |
 | Carryover                                                                                                                                             | 10,000  |  |
 
-(5) *Carryover to 1963.* The carryover to this year is $10,000 (the excess, if any, of the loss for 1960 over the sum of the offsets for 1958, 1959, 1961, and 1962), computed as follows:
+(5) *Carryover to 1963.* The carryover to this year is $10,000 (the excess, if any, of the loss for 1960 over the sum of the offsets for 1958, 1959, 1961, and 1962), computed as follows: 
 
 | Loss from operations                                                                                                                                  | $75,000 |  |
 | Less:                                                                                                                                                 |         |  |
@@ -60,7 +60,7 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                        | 65,000  |  |
 | Carryover                                                                                                                                             | 10,000  |  |
 
-(6) *Carryover to 1964.* The carryover to this year is $0 (the excess, if any, of the loss from 1960 over the sum of the offsets for 1958, 1959, 1961, 1962, and 1963), computed as follows:
+(6) *Carryover to 1964.* The carryover to this year is $0 (the excess, if any, of the loss from 1960 over the sum of the offsets for 1958, 1959, 1961, 1962, and 1963), computed as follows: 
 
 | Loss from operations                                                                                                                                  | $75,000 |  |
 | Less:                                                                                                                                                 |         |  |
@@ -72,7 +72,7 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                        | 95,000  |  |
 | Carryover                                                                                                                                             | 0       |  |
 
-(7) *Carryover to 1965.* The carryover to this year is $0 (the excess, if any, of the loss from 1960 over the sum of the offsets for 1958, 1959, 1961, 1962, 1963, and 1964), computed as follows:
+(7) *Carryover to 1965.* The carryover to this year is $0 (the excess, if any, of the loss from 1960 over the sum of the offsets for 1958, 1959, 1961, 1962, 1963, and 1964), computed as follows: 
 
 | Loss from operations                                                                                                                                   | $75,000 |  |
 | Less:                                                                                                                                                  |         |  |
@@ -85,18 +85,18 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                         | 130,000 |  |
 | Carryover                                                                                                                                              | 0       |  |
 
-(c) *Loss sustained in 1962.* The portions of the $150,000 loss from operations for 1962 which shall be used as carrybacks to 1959, 1960, and 1961 and as carryovers to 1963, 1964, 1965, 1966, and 1967 are computed as follows:
+(c) *Loss sustained in 1962.* The portions of the $150,000 loss from operations for 1962 which shall be used as carrybacks to 1959, 1960, and 1961 and as carryovers to 1963, 1964, 1965, 1966, and 1967 are computed as follows: 
 
-(1) *Carryback to 1959.* The carryback to this year is $150,000, that is, the amount of the loss from operations.
+(1) *Carryback to 1959.* The carryback to this year is $150,000, that is, the amount of the loss from operations. 
 
-(2) *Carryback to 1960.* The carryback to this year is $150,000 (the excess, if any, of the loss from 1962 over the offset for 1959), computed as follows:
+(2) *Carryback to 1960.* The carryback to this year is $150,000 (the excess, if any, of the loss from 1962 over the offset for 1959), computed as follows: 
 
 | Loss from operations                                                                                                                                                                      | $150,000 |
 | Less:                                                                                                                                                                                     |          |
 | Offset for 1959 (the $30,000 gain from operations for such year reduced by the carryback to such year of $60,000 from 1960, the carryback from 1962 to 1959 not being taken into account) | 0        |
 | Carryback                                                                                                                                                                                 | 150,000  |
 
-(3) *Carryback to 1961.* The carryback to this year is $150,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959 and 1960), computed as follows:
+(3) *Carryback to 1961.* The carryback to this year is $150,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959 and 1960), computed as follows: 
 
 | Loss from operations                                                                                                                                                                      | $150,000 |
 | Less:                                                                                                                                                                                     |          |
@@ -105,7 +105,7 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                                                            | 0        |
 | Carryback                                                                                                                                                                                 | 150,000  |
 
-(4) *Carryover to 1963.* The carryover to this year is $150,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959, 1960, and 1961), computed as follows:
+(4) *Carryover to 1963.* The carryover to this year is $150,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959, 1960, and 1961), computed as follows: 
 
 | Loss from operations                                                                                                                                                                      | $150,000 |  |
 | Less:                                                                                                                                                                                     |          |  |
@@ -115,7 +115,7 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                                                            | 0        |  |
 | Carryover                                                                                                                                                                                 | 150,000  |  |
 
-(5) *Carryover to 1964.* The carryover to this year is $130,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959, 1960, 1961, and 1963), computed as follows:
+(5) *Carryover to 1964.* The carryover to this year is $130,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959, 1960, 1961, and 1963), computed as follows: 
 
 | Loss from operations                                                                                                                                                                      | $150,000 |  |
 | Less:                                                                                                                                                                                     |          |  |
@@ -126,7 +126,7 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                                                            | 20,000   |  |
 | Carryover                                                                                                                                                                                 | 130,000  |  |
 
-(6) *Carryover to 1965.* The carryover to this year is $95,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959, 1960, 1961, 1963, and 1964), computed as follows:
+(6) *Carryover to 1965.* The carryover to this year is $95,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959, 1960, 1961, 1963, and 1964), computed as follows: 
 
 | Loss from operations                                                                                                                                                                      | $150,000 |  |
 | Less:                                                                                                                                                                                     |          |  |
@@ -138,7 +138,7 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                                                            | 55,000   |  |
 | Carryover                                                                                                                                                                                 | 95,000   |  |
 
-(7) *Carryover to 1966.* The carryover to this year is $20,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959, 1960, 1961, 1963, 1964, and 1965), computed as follows:
+(7) *Carryover to 1966.* The carryover to this year is $20,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959, 1960, 1961, 1963, 1964, and 1965), computed as follows: 
 
 | Loss from operations                                                                                                                                                                       | $150,000 |  |
 | Less:                                                                                                                                                                                      |          |  |
@@ -151,7 +151,7 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                                                             | $130,000 |  |
 | Carryover                                                                                                                                                                                  | 20,000   |  |
 
-(8) *Carryover to 1967.* The carryover to this year is $3,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959, 1960, 1961, 1963, 1964, 1965, and 1966), computed as follows:
+(8) *Carryover to 1967.* The carryover to this year is $3,000 (the excess, if any, of the loss from 1962 over the sum of the offsets for 1959, 1960, 1961, 1963, 1964, 1965, and 1966), computed as follows: 
 
 | Loss from operations                                                                                                                                                                      | $150,000 |  |
 | Less:                                                                                                                                                                                     |          |  |
@@ -165,7 +165,7 @@ The gain from operations thus shown is computed without regard to any operations
 | Sum of offsets                                                                                                                                                                            | 147,000  |  |
 | Carryover                                                                                                                                                                                 | 3,000    |  |
 
-(d) *Determination of operations loss deduction for each year.* The carryovers and carrybacks computed under paragraphs (b) and (c) of this section are used as a basis for the computation of the operations loss deduction in the following manner:
+(d) *Determination of operations loss deduction for each year.* The carryovers and carrybacks computed under paragraphs (b) and (c) of this section are used as a basis for the computation of the operations loss deduction in the following manner: 
 
 | Taxable year | Carryover | Carryback | Operations loss de- ductions |
 | ------------ | --------- | --------- | ---------------------------- |

@@ -1,10 +1,10 @@
 ##### § 1.154 Statutory provisions; cross references.
 
-Sec. 154. *Cross references.* (1) For definitions of “husband” and “wife”, as used in section 152(b)(4), see section 7701(a)(17).
+Sec. 154. *Cross references.* (1) For definitions of “husband” and “wife”, as used in section 152(b)(4), see section 7701(a)(17). 
 
-(2) For deductions of estates and trusts, in lieu of the exemptions under section 151, see section 642(b).
+(2) For deductions of estates and trusts, in lieu of the exemptions under section 151, see section 642(b). 
 
-(3) For exemptions of nonresident aliens, see section 873(b)(3).
+(3) For exemptions of nonresident aliens, see section 873(b)(3). 
 
 (4) For exemptions of citizens deriving income mainly from sources within possessions of the United States, see section 931(e).
 

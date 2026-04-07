@@ -1,148 +1,148 @@
 ##### § 52.4682-3 Imported taxable products.
 
-(a) *Overview; references to Tables; special rule for 1990*—(1) *Overview.* This section provides rules relating to the tax imposed on imported taxable products under section 4681, including rules for identifying imported taxable products, determining the weight of the ozone-depleting chemicals (ODCs) used as materials in the manufacture of such products, and computing the amount of tax on such products. See § 52.4681-1(a)(2) and (c) for general rules and definitions relating to the tax on imported taxable products.
+(a) *Overview; references to Tables; special rule for 1990*—(1) *Overview.* This section provides rules relating to the tax imposed on imported taxable products under section 4681, including rules for identifying imported taxable products, determining the weight of the ozone-depleting chemicals (ODCs) used as materials in the manufacture of such products, and computing the amount of tax on such products. See § 52.4681-1(a)(2) and (c) for general rules and definitions relating to the tax on imported taxable products. 
 
-(2) *References to Tables.* When used in this section—
+(2) *References to Tables.* When used in this section— 
 
-(i) The term *Imported Products Table* (Table) refers to the Table set forth in paragraph (f)(6) of this section; and
+(i) The term *Imported Products Table* (Table) refers to the Table set forth in paragraph (f)(6) of this section; and 
 
-(ii) The term *current Imported Products Table* (current Table) used with respect to a product refers to the Table in effect on the date such product is first sold or used by the importer thereof.
+(ii) The term *current Imported Products Table* (current Table) used with respect to a product refers to the Table in effect on the date such product is first sold or used by the importer thereof. 
 
-(3) *Special rule for 1990.* In the case of products first sold or used before January 1, 1991, post-1990 ODCs (as defined in § 52.4681-1(c)(9)) shall not be taken into account in applying the rules of this section.
+(3) *Special rule for 1990.* In the case of products first sold or used before January 1, 1991, post-1990 ODCs (as defined in § 52.4681-1(c)(9)) shall not be taken into account in applying the rules of this section. 
 
-(b) *Imported taxable products*—(1) *In general*—(i) *Rule.* Except as provided in paragraph (b)(2) of this section, the term “imported taxable product” means any product that—
+(b) *Imported taxable products*—(1) *In general*—(i) *Rule.* Except as provided in paragraph (b)(2) of this section, the term “imported taxable product” means any product that— 
 
-(A) Is entered into the United States for consumption, use, or warehousing; and
+(A) Is entered into the United States for consumption, use, or warehousing; and 
 
-(B) Is listed in the current Table.
+(B) Is listed in the current Table. 
 
-(ii) *Example.* The application of this paragraph (b)(1) may be illustrated by the following example:
+(ii) *Example.* The application of this paragraph (b)(1) may be illustrated by the following example: 
 
 Example.A brings a light truck with a Harmonized Tariff Schedule classification of 8704 into the customs territory and enters the truck for transportation and exportation. Although the truck is listed in the current Table, it is not an imported taxable product because it is not entered for consumption, use, or warehousing. The truck also would not be an imported taxable product if it were admitted to a foreign trade zone (rather than brought into the customs territory) for transportation and exportation.
 
-(2) *Exceptions*—(i) *In general.* A product is not treated as an imported taxable product if—
+(2) *Exceptions*—(i) *In general.* A product is not treated as an imported taxable product if— 
 
-(A) The product is listed in Part I of the current Table and the adjusted tax with respect to the product is *de minimis* (within the meaning of paragraph (b)(2)(ii) of this section); or
+(A) The product is listed in Part I of the current Table and the adjusted tax with respect to the product is *de minimis* (within the meaning of paragraph (b)(2)(ii) of this section); or 
 
-(B) The product is listed in Part II of the current Table, the adjusted tax with respect to the product is *de minimis* (within the meaning of paragraph (b)(2)(ii) of this section), and the ODCs (other than methyl chloroform) used as materials in the manufacture of the product were not used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
+(B) The product is listed in Part II of the current Table, the adjusted tax with respect to the product is *de minimis* (within the meaning of paragraph (b)(2)(ii) of this section), and the ODCs (other than methyl chloroform) used as materials in the manufacture of the product were not used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components. 
 
-(ii) *De minimis adjusted tax.* The adjusted tax with respect to a product is *de minimis* if such tax is less than one/tenth of one percent of the importer's cost of acquiring such product. The term *adjusted tax* means the tax that would be imposed under section 468l on the ODCs used as materials in the manufacture of such product if such ODCs were sold in the United States and the base tax amount were $1.00.
+(ii) *De minimis adjusted tax.* The adjusted tax with respect to a product is *de minimis* if such tax is less than one/tenth of one percent of the importer's cost of acquiring such product. The term *adjusted tax* means the tax that would be imposed under section 468l on the ODCs used as materials in the manufacture of such product if such ODCs were sold in the United States and the base tax amount were $1.00. 
 
-(c) *Taxable event*—(1) *In general.* Except as otherwise provided in paragraphs (c) (2) and (3) of this section, the tax on an imported taxable product is imposed when the product is first sold or used (as defined in § 52.4681-1(c) (6) and (7)) by its importer. Thus, for example, imported taxable products that are warehoused or repackaged after entry and then exported without being sold or used in the United States are not subject to tax.
+(c) *Taxable event*—(1) *In general.* Except as otherwise provided in paragraphs (c) (2) and (3) of this section, the tax on an imported taxable product is imposed when the product is first sold or used (as defined in § 52.4681-1(c) (6) and (7)) by its importer. Thus, for example, imported taxable products that are warehoused or repackaged after entry and then exported without being sold or used in the United States are not subject to tax. 
 
-(2) *Election to treat importation as use*—(i) *In general.* An importer may elect to treat the entry of products into the United States as the use of such products. In the case of imported taxable products to which an election under this paragraph (c)(2) applies—
+(2) *Election to treat importation as use*—(i) *In general.* An importer may elect to treat the entry of products into the United States as the use of such products. In the case of imported taxable products to which an election under this paragraph (c)(2) applies— 
 
-(A) Tax is imposed on the products on the date of entry (as determined under paragraph (c)(2)(ii) of this section) if the products are entered into the United States after the election becomes effective;
+(A) Tax is imposed on the products on the date of entry (as determined under paragraph (c)(2)(ii) of this section) if the products are entered into the United States after the election becomes effective; 
 
-(B) Tax is imposed on the products on the date the election becomes effective if the products were entered into the United States after December 3l, 1989, and before the election becomes effective; and
+(B) Tax is imposed on the products on the date the election becomes effective if the products were entered into the United States after December 3l, 1989, and before the election becomes effective; and 
 
-(C) No tax is imposed if the products were entered into the United States before January 1, 1990.
+(C) No tax is imposed if the products were entered into the United States before January 1, 1990. 
 
-(ii) *Date of entry.* The date of entry is determined by reference to customs law. If the actual date is unknown, the importer may use any reasonable and consistent method to determine the date of entry, provided that such date is within 10 business days of arrival of products in the United States.
+(ii) *Date of entry.* The date of entry is determined by reference to customs law. If the actual date is unknown, the importer may use any reasonable and consistent method to determine the date of entry, provided that such date is within 10 business days of arrival of products in the United States. 
 
-(iii) *Applicability of election.* An election under this paragraph (c)(2) applies to all imported taxable products that are owned (and have not been used) by the importer at the time the election becomes effective and all imported taxable products that are entered into the United States by the importer after the election becomes effective. An election under this paragraph (c)(2) becomes effective at the beginning of the first calendar quarter to which the election applies. After October 9, 1990, the election may be revoked only with the consent of the Commissioner.
+(iii) *Applicability of election.* An election under this paragraph (c)(2) applies to all imported taxable products that are owned (and have not been used) by the importer at the time the election becomes effective and all imported taxable products that are entered into the United States by the importer after the election becomes effective. An election under this paragraph (c)(2) becomes effective at the beginning of the first calendar quarter to which the election applies. After October 9, 1990, the election may be revoked only with the consent of the Commissioner. 
 
-(iv) *Making the election.* An election under this paragraph (c)(2) shall be made in accordance with the instructions for the return on which the importer is required to report liability for tax under section 4681.
+(iv) *Making the election.* An election under this paragraph (c)(2) shall be made in accordance with the instructions for the return on which the importer is required to report liability for tax under section 4681. 
 
-(3) *Treating the sale of an article incorporating an imported taxable product as the first sale or use of such product*—(i) *In general.* In the case of articles to be sold, an importer may treat the sale of an article manufactured or assembled in the United States as the first sale or use of an imported taxable product incorporated in such article, but only if the importer—
+(3) *Treating the sale of an article incorporating an imported taxable product as the first sale or use of such product*—(i) *In general.* In the case of articles to be sold, an importer may treat the sale of an article manufactured or assembled in the United States as the first sale or use of an imported taxable product incorporated in such article, but only if the importer— 
 
-(A) Has consistently treated the sale of similar articles as the first sale or use of similar imported taxable products; and
+(A) Has consistently treated the sale of similar articles as the first sale or use of similar imported taxable products; and 
 
-(B) Has not made an election under paragraph (c)(2) of this section.
+(B) Has not made an election under paragraph (c)(2) of this section. 
 
-(ii) *Similar articles and imported taxable products.* An importer may establish any reasonable criteria for determining whether articles or imported taxable products are similar for purposes of this paragraph (c)(3).
+(ii) *Similar articles and imported taxable products.* An importer may establish any reasonable criteria for determining whether articles or imported taxable products are similar for purposes of this paragraph (c)(3). 
 
-(iii) *Establishment of consistent treatment.* An importer has consistently treated the sale of similar articles as the first sale or use of similar imported taxable products only if such treatment is reflected in the computation of tax on the importer's returns for all prior calendar quarters in which such treatment would affect tax liability.
+(iii) *Establishment of consistent treatment.* An importer has consistently treated the sale of similar articles as the first sale or use of similar imported taxable products only if such treatment is reflected in the computation of tax on the importer's returns for all prior calendar quarters in which such treatment would affect tax liability. 
 
-(iv) *Example.* The application of this paragraph (c)(3) may be illustrated by the following example:
+(iv) *Example.* The application of this paragraph (c)(3) may be illustrated by the following example: 
 
 Example.(a) An importer of printed circuits and other electronic components uses those products in assembling television receivers in the United States and also uses the printed circuits in assembling VCRs in the United States. Under the importer's criteria for determining similarity, printed circuits are similar to other printed circuits, but not to the other electronic components. In addition, television receivers are similar to other television receivers, but not to VCRs. The importer has not made an election under paragraph (c)(2) of this section.
 
-(b) Under this paragraph (c)(3), the importer may treat the sale of the television receivers as the first sale or use of the imported printed circuits incorporated into the television receivers. In that case, the tax on the printed circuits would be imposed when the television receivers are sold rather than when the printed circuits are used in assembling the television receivers.
+(b) Under this paragraph (c)(3), the importer may treat the sale of the television receivers as the first sale or use of the imported printed circuits incorporated into the television receivers. In that case, the tax on the printed circuits would be imposed when the television receivers are sold rather than when the printed circuits are used in assembling the television receivers. 
 
 (c) The importer may treat the sale of the television receivers as the first sale or use of the printed circuits incorporated into the television receivers even if the sale of the television receivers is not treated as the first sale or use of the other electronic components incorporated into the television receivers and even if the sale of VCRs is not treated as the first sale or use of the printed circuits incorporated into the VCRs. Under paragraph (c)(3)(i)(A) of this section, however, the importer must have consistently treated the sale of television receivers as the first sale or use of printed circuits incorporated into the receivers. Thus, in the case of television receivers that were assembled before January 1, 1990, and sold after December 31, 1989, the importer must have treated the sale of the television receivers as the first sale or use of the printed circuits incorporated into the television receivers when reporting tax under section 4681 with respect to such printed circuits.
 
-(d) *ODCs used as materials in the manufacture of imported taxable products*—(1) *ODC weight.* The tax imposed on an imported taxable product under section 4681 is computed by reference to the weight of the ODCs used as materials in the manufacture of the product (ODC weight). The ODC weight of a product includes the weight of ODCs used as materials in the manufacture of any components of the product.
+(d) *ODCs used as materials in the manufacture of imported taxable products*—(1) *ODC weight.* The tax imposed on an imported taxable product under section 4681 is computed by reference to the weight of the ODCs used as materials in the manufacture of the product (ODC weight). The ODC weight of a product includes the weight of ODCs used as materials in the manufacture of any components of the product. 
 
-(2) *ODCs used as materials in the manufacture of a product.* Except as provided in paragraph (d)(3) of this section, an ODC is used as a material in the manufacture of a product if the ODC is—
+(2) *ODCs used as materials in the manufacture of a product.* Except as provided in paragraph (d)(3) of this section, an ODC is used as a material in the manufacture of a product if the ODC is— 
 
-(i) Incorporated into the product;
+(i) Incorporated into the product; 
 
-(ii) Released into the atmosphere in the process of manufacturing the product; or
+(ii) Released into the atmosphere in the process of manufacturing the product; or 
 
-(iii) Otherwise used in the manufacture of the product (but only to the extent the cost of the ODC is properly allocable to the product).
+(iii) Otherwise used in the manufacture of the product (but only to the extent the cost of the ODC is properly allocable to the product). 
 
-(3) *Protective packaging.* ODCs used in the manufacture of the protective material in which a product is packaged are not treated as ODCs used as materials in the manufacture of such product.
+(3) *Protective packaging.* ODCs used in the manufacture of the protective material in which a product is packaged are not treated as ODCs used as materials in the manufacture of such product. 
 
-(4) *Examples.* The provisions of this paragraph (d) may be illustrated by the following examples:
+(4) *Examples.* The provisions of this paragraph (d) may be illustrated by the following examples: 
 
 Example 1.A, a manufacturer located outside the United States, uses ODCs as a solvent to clean the printed circuits it manufactures and as a coolant in the air-conditioning system of the factory in which the printed circuits are manufactured. The ODCs used as a solvent are released into the atmosphere, and, under paragraph (d)(2)(ii) of this section, are used as materials in the manufacture of the printed circuits. The ODCs used as a coolant in the air-conditioning system are also used in the manufacture of the printed circuits. Under paragraph (d)(2)(iii) of this section, these ODCs are used as materials in the manufacture of the printed circuits only to the extent the cost of the ODCs is properly allocable to the printed circuits.Example 2.B manufactures television receivers outside the United States and wraps them for shipping in a protective packing material manufactured with ODCs. Under paragraph (d)(3) of this section, the ODCs used in the manufacture of the protective packing material are not treated as ODCs used as a material in the manufacture of the television receivers.
 
-(e) *Methods of determining ODC weight; computation of tax*—(1) *In general.* This paragraph (e) sets forth the methods to be used for determining the ODC weight of an imported taxable product and a method to be used in computing the tax when the ODC weight cannot be determined. The amount of tax is computed separately for each imported taxable product and the method to be used in determining the ODC weight or otherwise computing the tax is separately determined for each such product. Thus, an importer may use one method in computing the tax on some imported taxable products and different methods in computing the tax on other products. For example, an importer of telephone sets may compute the tax using the exact method described in paragraph (e)(2) of this section for determining the ODC weight of telephone sets supplied by one manufacturer and using the Table method described in paragraph (e)(3) of this section for telephone sets supplied by other manufacturers that have not provided sufficient information to allow the importer to use the exact method.
+(e) *Methods of determining ODC weight; computation of tax*—(1) *In general.* This paragraph (e) sets forth the methods to be used for determining the ODC weight of an imported taxable product and a method to be used in computing the tax when the ODC weight cannot be determined. The amount of tax is computed separately for each imported taxable product and the method to be used in determining the ODC weight or otherwise computing the tax is separately determined for each such product. Thus, an importer may use one method in computing the tax on some imported taxable products and different methods in computing the tax on other products. For example, an importer of telephone sets may compute the tax using the exact method described in paragraph (e)(2) of this section for determining the ODC weight of telephone sets supplied by one manufacturer and using the Table method described in paragraph (e)(3) of this section for telephone sets supplied by other manufacturers that have not provided sufficient information to allow the importer to use the exact method. 
 
-(2) *Exact method.* If the importer determines the weight of each ODC used as a material in the manufacture of an imported taxable product and supports that determination with sufficient and reliable information, the ODC weight of the product is the weight so determined. Under this method, the ODC weight of a mixture is equal to the weight of the ODCs contained in the mixture. Representations by the manufacturer of the product to the importer as to the weight of the ODCs used as materials in the manufacture of the product may be sufficient and reliable information for this purpose. Thus, a letter to the importer signed by the manufacturer may constitute sufficient and reliable information if the letter adequately identifies the product and states the weight of each ODC used as a material in the product's manufacture.
+(2) *Exact method.* If the importer determines the weight of each ODC used as a material in the manufacture of an imported taxable product and supports that determination with sufficient and reliable information, the ODC weight of the product is the weight so determined. Under this method, the ODC weight of a mixture is equal to the weight of the ODCs contained in the mixture. Representations by the manufacturer of the product to the importer as to the weight of the ODCs used as materials in the manufacture of the product may be sufficient and reliable information for this purpose. Thus, a letter to the importer signed by the manufacturer may constitute sufficient and reliable information if the letter adequately identifies the product and states the weight of each ODC used as a material in the product's manufacture. 
 
-(3) *Table method*—(i) *In general.* If the ODC weight of an imported taxable product is not determined using the exact method described in paragraph (e)(2) of this section and the current Table specifies an ODC weight for the product, the ODC weight of the product is the Table ODC weight, regardless of what ODCs were used in the manufacture of the product. In computing the amount of tax, the Table ODC weight shall not be rounded.
+(3) *Table method*—(i) *In general.* If the ODC weight of an imported taxable product is not determined using the exact method described in paragraph (e)(2) of this section and the current Table specifies an ODC weight for the product, the ODC weight of the product is the Table ODC weight, regardless of what ODCs were used in the manufacture of the product. In computing the amount of tax, the Table ODC weight shall not be rounded. 
 
-(ii) *Special rules*—(A) *Articles assembled in the United States.* An importer that assembles finished articles in the United States may compute the amount of tax imposed on the imported taxable products incorporated into the finished article by using the Table ODC weight specified for the article instead of the Table ODC weights specified for the components. In order to compute the tax under this special rule, the importer must determine the actual number of articles manufactured. For example, if an importer manufactures 100 camcorders using imported subassemblies, the importer may compute the amount of tax on the subassemblies by using the Table ODC weight specified for camcorders. Thus, the tax imposed on the subassemblies is equal to the tax that would be imposed on 100 camcorders.
+(ii) *Special rules*—(A) *Articles assembled in the United States.* An importer that assembles finished articles in the United States may compute the amount of tax imposed on the imported taxable products incorporated into the finished article by using the Table ODC weight specified for the article instead of the Table ODC weights specified for the components. In order to compute the tax under this special rule, the importer must determine the actual number of articles manufactured. For example, if an importer manufactures 100 camcorders using imported subassemblies, the importer may compute the amount of tax on the subassemblies by using the Table ODC weight specified for camcorders. Thus, the tax imposed on the subassemblies is equal to the tax that would be imposed on 100 camcorders. 
 
-(B) *Combination method.* This paragraph (e)(3)(ii)(B) applies to an imported taxable product if the current Table specifies weights for two or more ODCs with respect to the product and the importer of the product can determine the weight of any such ODC (and of any ODC used as a substitute for such ODC) and can support such determination with sufficient and reliable information. In determining the ODC weight of any such product, the importer may replace the weight specified in the Table for such ODC with the weight (as determined by the importer) of such ODC and its substitutes. For example, if an importer has sufficient and reliable information to determine the amount of CFC-12 included in a product as a coolant (and to determine that no ODCs have been used as substitutes for CFC-12) but cannot determine the amount of CFC-113 used in manufacturing the product's electronic components, the importer may use the weight specified in the Table for CFC-113 and the actual weight determined by the importer for CFC-12 in determining the ODC weight of the product.
+(B) *Combination method.* This paragraph (e)(3)(ii)(B) applies to an imported taxable product if the current Table specifies weights for two or more ODCs with respect to the product and the importer of the product can determine the weight of any such ODC (and of any ODC used as a substitute for such ODC) and can support such determination with sufficient and reliable information. In determining the ODC weight of any such product, the importer may replace the weight specified in the Table for such ODC with the weight (as determined by the importer) of such ODC and its substitutes. For example, if an importer has sufficient and reliable information to determine the amount of CFC-12 included in a product as a coolant (and to determine that no ODCs have been used as substitutes for CFC-12) but cannot determine the amount of CFC-113 used in manufacturing the product's electronic components, the importer may use the weight specified in the Table for CFC-113 and the actual weight determined by the importer for CFC-12 in determining the ODC weight of the product. 
 
-(C) *ODCs used in the manufacture of rigid foam insulation.* In computing the tax using the method described in this paragraph (e)(3), any ODC for which the Table specifies a weight followed by an asterisk (\*) shall be treated as an ODC used in the manufacture of rigid foam insulation (as defined in § 52.4682-1(d) (3) and (4)).
+(C) *ODCs used in the manufacture of rigid foam insulation.* In computing the tax using the method described in this paragraph (e)(3), any ODC for which the Table specifies a weight followed by an asterisk (\*) shall be treated as an ODC used in the manufacture of rigid foam insulation (as defined in § 52.4682-1(d) (3) and (4)). 
 
-(4) *Value method*—(i) *General rule.* If the importer cannot determine the ODC weight of an imported taxable product under the exact method described in paragraph (e)(2) of this section and the Table ODC weight of the product is not specified, the tax imposed on the product under section 4681 is one percent of the entry value of the product.
+(4) *Value method*—(i) *General rule.* If the importer cannot determine the ODC weight of an imported taxable product under the exact method described in paragraph (e)(2) of this section and the Table ODC weight of the product is not specified, the tax imposed on the product under section 4681 is one percent of the entry value of the product. 
 
-(ii) *Special rule for mixtures.* If, in the case of an imported taxable product that is a mixture, the tax was determined under the method described in this paragraph (e)(4), the Commissioner may redetermine the tax based on the ODC weight of the mixture.
+(ii) *Special rule for mixtures.* If, in the case of an imported taxable product that is a mixture, the tax was determined under the method described in this paragraph (e)(4), the Commissioner may redetermine the tax based on the ODC weight of the mixture. 
 
-(5) *Adjustment for prior taxes*—(i) *In general.* If any manufacture with respect to an imported taxable product occurred in the United States or the product incorporates a taxed component or a taxed chemical was used in its manufacture, the product's ODC weight (or value) attributable to manufacture within the United States or to taxed components or taxed chemicals shall be disregarded in computing the tax on such product using a method described in paragraph (e) (2), (3), or (4) of this section.
+(5) *Adjustment for prior taxes*—(i) *In general.* If any manufacture with respect to an imported taxable product occurred in the United States or the product incorporates a taxed component or a taxed chemical was used in its manufacture, the product's ODC weight (or value) attributable to manufacture within the United States or to taxed components or taxed chemicals shall be disregarded in computing the tax on such product using a method described in paragraph (e) (2), (3), or (4) of this section. 
 
-(ii) *Taxed component.* The term “taxed component” means any component that previously was subject to tax as an imported taxable product or that would have been so taxed if section 4681 had been in effect for periods before January 1, 1990.
+(ii) *Taxed component.* The term “taxed component” means any component that previously was subject to tax as an imported taxable product or that would have been so taxed if section 4681 had been in effect for periods before January 1, 1990. 
 
-(iii) *Taxed chemical.* The term “taxed chemical” means any ODC that previously was subject to tax.
+(iii) *Taxed chemical.* The term “taxed chemical” means any ODC that previously was subject to tax. 
 
-(6) *Examples.* The application of this paragraph (e) may be illustrated by the following examples:
+(6) *Examples.* The application of this paragraph (e) may be illustrated by the following examples: 
 
 Example 1.A is an importer (as defined in § 52.4681-1(c)(5)) of VCRs. The HTS classification for the VCRs is 8528.10.40. VCRs classified under HTS heading 8528.10.40 are imported taxable products because they are listed in the Table (contained in paragraph (f)(6) of this section) by name and HTS heading (as described in paragraph (f)(3)(i) of this section). Each VCR is wrapped in protective packing material manufactured with ODCs. A imports and sells 100 VCRs during the first calendar quarter of 1991. A may determine the ODC weight for the VCRs by reference to the Table. The Table ODC weight specified for VCRs classified under HTS heading 8528.10.40 is 0.0586 pound of CFC-113. This weight does not take protective packaging into account. The amount of tax for the first quarter of 1991 is $6.42 (0.0586 (the ODC weight) × 100 (the number of VCRs sold in the quarter) × $1.37 (the base tax amount for CFC-113 in 1991) × 0.8 (the ozone-depletion factor for CFC-113)). If A uses the exact method (as described in paragraph (e)(2) of this section) to determine the ODC weight for the VCRs, A does not take into account the ODCs used in the manufacture of the protective packaging. (Imported protective packaging containing foams made with ODCs other than foams defined in § 52.4682-1(d)(3) is subject to tax, however, if the packaging is sold as packaging or first used as packaging in the United States.)Example 2.The facts are the same as in *Example 1,* except that A's VCRs are manufactured using methyl chloroform as the solvent instead of CFC-113. If A does not use the exact method to determine the weight of the methyl chloroform used in the manufacture of the VCRs, A must, under paragraphs (e)(3)(i) and (e)(4)(i) of this section, determine the ODC weight by reference to the Table. If A uses the Table ODC weight, the computation of tax is the same as in *Example 1,* using the base tax amount and ozone-depletion factor for CFC-113. A does not substitute the base tax amount and ozone-depletion factor of methyl chloroform for those of CFC-113.Example 3.B imports and sells mixtures of ethylene oxide and CFC-12. The mixture is 88 percent CFC-12 by weight. B also imports and sells R-502. The R-502 is 51 percent CFC-115 by weight. In the first calendar quarter of 1991 B sells 100 pounds of imported ethylene oxide/CFC-12 mixture and 10,000 pounds of imported R-502. The ethylene/CFC-12 mixture and the R-502 are imported taxable products because they are listed in Part I of the Table (contained in paragraph (f)(6) of this section). Under the exact method described in paragraph (e)(2) of this section, B computes the tax based on 88 pounds of CFC-12, the amount of ODCs contained in the imported ethylene oxide mixture, and based on 5100 pounds of CFC-115, the amount of ODCs in the imported R-502.
 
-(f) *Imported Products Table*—(1) *In general.* This paragraph (f) contains rules relating to the Imported Products Table (Table) and sets forth the Table. The Table lists all the products that are subject to the tax on imported taxable products and specifies the Table ODC weight of each product for which such a weight has been determined.
+(f) *Imported Products Table*—(1) *In general.* This paragraph (f) contains rules relating to the Imported Products Table (Table) and sets forth the Table. The Table lists all the products that are subject to the tax on imported taxable products and specifies the Table ODC weight of each product for which such a weight has been determined. 
 
-(2) *Applicability of Table*—(i) *In general.* Except as provided in paragraph (f)(2)(ii) of this section, the Table contained in paragraph (f)(6) of this section is effective on January 1, 1990.
+(2) *Applicability of Table*—(i) *In general.* Except as provided in paragraph (f)(2)(ii) of this section, the Table contained in paragraph (f)(6) of this section is effective on January 1, 1990. 
 
-(ii) *Treatment of certain products*—(A) Products included in a listing that is preceded by a double asterisk (\*\*) in the Table shall not be treated as imported taxable products until October 1, 1990.
+(ii) *Treatment of certain products*—(A) Products included in a listing that is preceded by a double asterisk (\*\*) in the Table shall not be treated as imported taxable products until October 1, 1990. 
 
-(B) Products included in a listing that is preceded by a triple asterisk (\*\*\*) in the Table shall not be treated as imported taxable products until January l, 1992.
+(B) Products included in a listing that is preceded by a triple asterisk (\*\*\*) in the Table shall not be treated as imported taxable products until January l, 1992. 
 
-(3) *Identification of products*—(i) *In general.* Each listing in the Table identifies a product by name and includes only products that are described by that name. Most listings (other than listings for mixtures) identify a product by both name and HTS heading. In such cases, a product is included in that listing only if the product is described by that name and the rate of duty on the product is determined by reference to that HTS heading. However, the product is included in that listing even if it is manufactured with or contains a different ODC than the ODC specified in the Table.
+(3) *Identification of products*—(i) *In general.* Each listing in the Table identifies a product by name and includes only products that are described by that name. Most listings (other than listings for mixtures) identify a product by both name and HTS heading. In such cases, a product is included in that listing only if the product is described by that name and the rate of duty on the product is determined by reference to that HTS heading. However, the product is included in that listing even if it is manufactured with or contains a different ODC than the ODC specified in the Table. 
 
-(ii) *Electronic items not listed by specific name*—(A) *In general.* Part II of the Table contains listings for electronic items that are not included within any other listing in the Table. An imported product is included in these listings only if such imported product—
+(ii) *Electronic items not listed by specific name*—(A) *In general.* Part II of the Table contains listings for electronic items that are not included within any other listing in the Table. An imported product is included in these listings only if such imported product— 
 
-(*1*) Is an electronic component listed in chapters 84, 85, or 90 of the Harmonized Tariff Schedule; or
+(*1*) Is an electronic component listed in chapters 84, 85, or 90 of the Harmonized Tariff Schedule; or 
 
-(*2*) Contains components described in paragraph (f)(3)(ii)(A)(*1*) of this section and more than 15 percent of the cost of the imported product is attributable to such components.
+(*2*) Contains components described in paragraph (f)(3)(ii)(A)(*1*) of this section and more than 15 percent of the cost of the imported product is attributable to such components. 
 
-(B) *Electronic component.* For purposes of this paragraph (f)(3)(ii), an electronic component is a component whose operation involves the use of nonmechanical amplification or switching devices such as tubes, transistors, and integrated circuits. Such components do not include passive electrical devices such as resistors and capacitors.
+(B) *Electronic component.* For purposes of this paragraph (f)(3)(ii), an electronic component is a component whose operation involves the use of nonmechanical amplification or switching devices such as tubes, transistors, and integrated circuits. Such components do not include passive electrical devices such as resistors and capacitors. 
 
-(C) *Certain items not included.* Items such as screws, nuts, bolts, plastic parts, and similar specially fabricated parts that may be used to construct an electronic item are not themselves included in the listing for electronic items not otherwise listed in the Table.
+(C) *Certain items not included.* Items such as screws, nuts, bolts, plastic parts, and similar specially fabricated parts that may be used to construct an electronic item are not themselves included in the listing for electronic items not otherwise listed in the Table. 
 
-(iii) *Examples.* The application of this paragraph (f)(3) may be illustrated by the following examples:
+(iii) *Examples.* The application of this paragraph (f)(3) may be illustrated by the following examples: 
 
 Example 1.The Table lists “electronic integrated circuits and microassemblies; HTS heading 8542.” A bipolar transistor under HTS heading 8542.11.00.05 is included in this listing because a bipolar transistor is a type of electronic integrated circuit and HTS heading 8542.11.00.05 is included within HTS heading 8542.Example 2.The Table lists “radios; HTS heading 8527.19,” “radio combinations; HTS heading 8527.11” and “radio combinations; HTS heading 8527.31.” A radio classified under HTS heading 8527.19 is not included within either listing for radio combinations. However, a radio classified under HTS heading 8527.19.00.20 is included within the listing for radios; HTS heading 8527.19. A radio combination classified under HTS heading 8527.11.20 is included within the listing for radio combinations; HTS heading 8527.11 but not the listing for radio combinations; HTS heading 8527.31. Any radio or radio combination not classified under the HTS heading for any other listing is included in the listing for electronic items not otherwise listed.
 
-(4) *Rules for listing products.* Products are listed in the Table in accordance with the following rules:
+(4) *Rules for listing products.* Products are listed in the Table in accordance with the following rules: 
 
-(i) *Listing in part I.* A product is listed in part I of the Table if it is a mixture containing ODCs. In addition, a product other than a mixture containing ODCs will be listed in part I of a revised Table if the Commissioner has determined that—
+(i) *Listing in part I.* A product is listed in part I of the Table if it is a mixture containing ODCs. In addition, a product other than a mixture containing ODCs will be listed in part I of a revised Table if the Commissioner has determined that— 
 
-(A) The ODC weight of the product is not *de minimis* when the product is produced using the predominant method of manufacturing the product; and
+(A) The ODC weight of the product is not *de minimis* when the product is produced using the predominant method of manufacturing the product; and 
 
-(B) None of the ODCs used as materials in the manufacture of the product under the predominant method are used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
+(B) None of the ODCs used as materials in the manufacture of the product under the predominant method are used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components. 
 
-(ii) *Listing in part II.* A product is listed in part II of the Table if the Commissioner has determined that the ODCs used as materials in the manufacture of the product under the predominant method are used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
+(ii) *Listing in part II.* A product is listed in part II of the Table if the Commissioner has determined that the ODCs used as materials in the manufacture of the product under the predominant method are used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components. 
 
-(iii) *Listing in part III.* A product is listed in part III of the Table if the Commissioner has determined that the product is not an imported taxable product and the product would otherwise be included within a listing in part II of the Table. For example, floppy disk drive units are listed in part III because they are not imported taxable products and they would, but for their listing in part III, be included within the part II listing for electronic items not specifically identified.
+(iii) *Listing in part III.* A product is listed in part III of the Table if the Commissioner has determined that the product is not an imported taxable product and the product would otherwise be included within a listing in part II of the Table. For example, floppy disk drive units are listed in part III because they are not imported taxable products and they would, but for their listing in part III, be included within the part II listing for electronic items not specifically identified. 
 
-(5) *Table ODC weight.* The Table ODC weight of a product is the weight, determined by the Commissioner, of the ODCs that are used as materials in the manufacture of the product under the predominant method of manufacturing. The Table ODC weight is given in pounds per single unit of product unless otherwise specified.
+(5) *Table ODC weight.* The Table ODC weight of a product is the weight, determined by the Commissioner, of the ODCs that are used as materials in the manufacture of the product under the predominant method of manufacturing. The Table ODC weight is given in pounds per single unit of product unless otherwise specified. 
 
-(6) *Table.* The Table is set forth below:
+(6) *Table.* The Table is set forth below: 
 
 Imported Products Table
 | Product name                                                                     | Harmonized tariff schedule heading | ODC | ODC weight |
@@ -234,10 +234,10 @@ Imported Products Table
 | Printer units                                                                                                                                                  | 8471.92                            | CFC-113                   | 0.1558                                         |
 | lnput or output units                                                                                                                                          | 8471.92                            | CFC-113                   | 0.1370                                         |
 | Hard magnetic disk drive units not included in subheading 8471.93.10 for a disk of a diameter:                                                                 |                                    |                           |                                                |
-| Not >9 cm (31⁄2 inches)                                                                                                                                        | 8471.93                            | CFC-113                   | 0.2829                                         |
-| \>9 cm (31⁄2 inches) but not >21 cm (81⁄4 inches)                                                                                                              | 8471.93                            | CFC-113                   | 1.1671                                         |
+| Not >9 cm (31/2 inches)                                                                                                                                        | 8471.93                            | CFC-113                   | 0.2829                                         |
+| \>9 cm (31/2 inches) but not >21 cm (81/4 inches)                                                                                                              | 8471.93                            | CFC-113                   | 1.1671                                         |
 | Nonmagnetic storage units w/ entry value >$1,000                                                                                                               | 8471.93                            | CFC-113                   | 2.7758                                         |
-| Magnetic disk drive units for a disk of a diameter over 21 cm (81⁄4 inches)                                                                                    | 8471.93.10                         | CFC-113                   | 4.0067                                         |
+| Magnetic disk drive units for a disk of a diameter over 21 cm (81/4 inches)                                                                                    | 8471.93.10                         | CFC-113                   | 4.0067                                         |
 | Power supplies                                                                                                                                                 | 8471.99.30                         | CFC-113                   | 0.0655                                         |
 | Electronic office machines                                                                                                                                     | 8472                               | CFC-113                   | 0.001                                          |
 | Populated cards for digital processing units in subheading 8471.91 w/value:                                                                                    |                                    |                           |                                                |
@@ -345,32 +345,32 @@ Imported Products Table
 | 2 See paragraph (f)(2)(ii)(A) of this section. Denotes product for which the effective date is October 1, 1990.                                                |                                    |                           |                                                |
 | 3 See paragraph (f)(2)(ii)(B) of this section. Denotes products for which the effective date is January 1, 1992.                                               |                                    |                           |                                                |
 
-(g) *Requests for modification of Table*—(1) *In general.* Any manufacturer or importer of a product may request that the Secretary modify the Table in any of the following respects:
+(g) *Requests for modification of Table*—(1) *In general.* Any manufacturer or importer of a product may request that the Secretary modify the Table in any of the following respects: 
 
-(i) Adding a product to the Table and specifying its Table ODC weight.
+(i) Adding a product to the Table and specifying its Table ODC weight. 
 
-(ii) Removing a product from the Table.
+(ii) Removing a product from the Table. 
 
-(iii) Changing or specifying the Table ODC weight of a product.
+(iii) Changing or specifying the Table ODC weight of a product. 
 
-(2) *Form of request.* The Secretary will consider a request for modification that includes the following:
+(2) *Form of request.* The Secretary will consider a request for modification that includes the following: 
 
-(i) The name, address, taxpayer identifying number, and principal place of business of the requester.
+(i) The name, address, taxpayer identifying number, and principal place of business of the requester. 
 
-(ii) For each product with respect to which a modification is requested:
+(ii) For each product with respect to which a modification is requested: 
 
-(A) The name of the product;
+(A) The name of the product; 
 
-(B) The HTS heading or subheading;
+(B) The HTS heading or subheading; 
 
-(C) The type of modification requested;
+(C) The type of modification requested; 
 
-(D) The Table ODC weight that should be specified for the product if the request relates to adding a product or changing or specifying its Table ODC weight; and
+(D) The Table ODC weight that should be specified for the product if the request relates to adding a product or changing or specifying its Table ODC weight; and 
 
-(E) The data supporting the request.
+(E) The data supporting the request. 
 
-(3) *Address.* The address for submission of requests under this paragraph (g) is: Internal Revenue Service, P.O. Box 7604, Ben Franklin Station, Attn: CC:CORP:T:R (Imported Products Table), room 5228, Washington, DC 20044.
+(3) *Address.* The address for submission of requests under this paragraph (g) is: Internal Revenue Service, P.O. Box 7604, Ben Franklin Station, Attn: CC:CORP:T:R (Imported Products Table), room 5228, Washington, DC 20044. 
 
-(4) *Public inspection and copying.* Requests submitted under this paragraph (g) will be available in the Internal Revenue Service Freedom of Information Reading Room for public inspection and copying.
+(4) *Public inspection and copying.* Requests submitted under this paragraph (g) will be available in the Internal Revenue Service Freedom of Information Reading Room for public inspection and copying. 
 
 \[T.D. 8370, 56 FR 56311, Nov. 4, 1991, as amended by T.D. 8370, 58 FR 14518, Mar. 18, 1993\]

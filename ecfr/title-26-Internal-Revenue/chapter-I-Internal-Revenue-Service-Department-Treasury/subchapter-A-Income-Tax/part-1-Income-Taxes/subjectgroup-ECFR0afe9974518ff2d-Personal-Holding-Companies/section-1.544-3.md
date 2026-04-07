@@ -1,6 +1,6 @@
 ##### § 1.544-3 Constructive ownership by reason of family and partnership ownership.
 
-(a) The following example illustrates the application of section 544(a)(2), relating to constructive ownership by reason of family and partnership ownership.
+(a) The following example illustrates the application of section 544(a)(2), relating to constructive ownership by reason of family and partnership ownership. 
 
 Example.The M Corporation at some time during the last half of the taxable year, had 1,800 shares of outstanding stock, 450 of which were held by various individuals having no relationship to one another and none of whom were partners, and the remaining 1,350 were held by 51 shareholders as follows:
 

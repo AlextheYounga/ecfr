@@ -1,28 +1,28 @@
 ##### § 1.367(b)-9 Special rule for F reorganizations and similar transactions.
 
-(a) *Scope.* This section applies to a foreign section 381 transaction (as defined in § 1.367(b)-7(a)) either—
+(a) *Scope.* This section applies to a foreign section 381 transaction (as defined in § 1.367(b)-7(a)) either— 
 
-(1) That is described in section 368(a)(1)(F); or
+(1) That is described in section 368(a)(1)(F); or 
 
-(2) That involves—
+(2) That involves— 
 
-(i) At least one foreign corporation that holds no property and has no tax attributes immediately before the transaction, other than a nominal amount of assets (and related tax attributes) to facilitate its organization or preserve its existence as a corporation; and
+(i) At least one foreign corporation that holds no property and has no tax attributes immediately before the transaction, other than a nominal amount of assets (and related tax attributes) to facilitate its organization or preserve its existence as a corporation; and 
 
-(ii) No more than one foreign corporation that holds more than a nominal amount of property or has more than a nominal amount of tax attributes immediately before the transaction.
+(ii) No more than one foreign corporation that holds more than a nominal amount of property or has more than a nominal amount of tax attributes immediately before the transaction. 
 
-(b) *Hovering deficit rules inapplicable.* If a transaction is described in paragraph (a) of this section, a foreign surviving corporation shall succeed to earnings and profits, deficits in earnings and profits, and foreign income taxes without regard to the hovering deficit rules of § 1.367(b)-7(d)(2), (e)(1)(iii), and (e)(2)(iii).
+(b) *Hovering deficit rules inapplicable.* If a transaction is described in paragraph (a) of this section, a foreign surviving corporation shall succeed to earnings and profits, deficits in earnings and profits, and foreign income taxes without regard to the hovering deficit rules of § 1.367(b)-7(d)(2), (e)(1)(iii), and (e)(2)(iii). 
 
-(c) *Foreign divisive transactions.* \[Reserved\]
+(c) *Foreign divisive transactions.* \[Reserved\] 
 
-(d) *Examples.* The following examples illustrate the principles of this section:
+(d) *Examples.* The following examples illustrate the principles of this section: 
 
 Example 1.(i) *Facts.* (A) Foreign corporation A is and always has been a wholly owned subsidiary of USP, a domestic corporation. Foreign corporation A was incorporated in 1995, and has always had a calendar taxable year. Foreign corporation A (and all of its respective qualified business units as defined in section 989) maintains a “u” functional currency. On December 31, 2006, foreign corporation A has the following post-1986 undistributed earnings and post-1986 foreign income taxes:
 
-| Separate Category                               | E&P      | Foreign taxes |
-| ----------------------------------------------- | -------- | ------------- |
-| PassiveForeign corporation C Separate Category: | (1,000u) | $5            |
-| General                                         | 200u     | 200           |
-|                                                 | (800u)   | 205           |
+| Separate Category | E&P      | Foreign taxes |
+| ----------------- | -------- | ------------- |
+| Passive           | (1,000u) | $5            |
+| General           | 200u     | 200           |
+|                   | (800u)   | 205           |
 
 (B) On January 1, 2007, foreign corporation A moves its place of incorporation from Country 1 to Country 2 in a reorganization described in section 368(a)(1)(F).
 
@@ -49,7 +49,7 @@ Example 2.(i) *Facts.* (A) Foreign corporations B, C and D are and always have b
 
 (B) On January 1, 2007, USP foreign corporations C and D merge into foreign corporation B in a reorganization described in section 368(a)(1)(A).
 
-(ii) *Result.* Although the merger is a foreign section 381 transaction involving a foreign corporation with no property or tax attributes, paragraph (b) of this section does not apply because more than one foreign corporation with significant tax attributes is involved in the foreign section 381 transaction. Accordingly, under § 1.367(b)-7(d), foreign surviving corporation B has the following post-1986 undistributed earnings and post-1986 foreign income taxes immediately after the foreign section 381 transaction:
+(ii) *Result.* Although the merger is a foreign section 381 transaction involving a foreign corporation with no property or tax attributes, paragraph (b) of this section does not apply because more than one foreign corporation with significant tax attributes is involved in the foreign section 381 transaction. Accordingly, under § 1.367(b)-7(d), foreign surviving corporation B has the following post-1986 undistributed earnings and post-1986 foreign income taxes immediately after the foreign section 381 transaction: 
 
 | Separate Category | Earnings & profits | Foreign taxes |
 | ----------------- | ------------------ | ------------- |
@@ -57,6 +57,6 @@ Example 2.(i) *Facts.* (A) Foreign corporations B, C and D are and always have b
 | Passive           | 400u               | (200u)        |
 |                   | 1600u              | (1100u)       |
 
-(e) *Effective date.* This section shall apply to section 367(b) transactions that occur on or after November 6, 2006.
+(e) *Effective date.* This section shall apply to section 367(b) transactions that occur on or after November 6, 2006. 
 
 \[T.D. 9273, 71 FR 44913, Aug. 8, 2006\]

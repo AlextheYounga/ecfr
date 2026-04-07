@@ -1,353 +1,353 @@
 ##### § 1.401(m)-0 Table of contents.
 
-This section contains first a list of section headings and then a list of the paragraphs in each section in §§ 1.401(m)-1 through 1.401(m)-5.
+This section contains first a list of section headings and then a list of the paragraphs in each section in §§ 1.401(m)-1 through 1.401(m)-5. 
 
 List of Sections § 1.401(m)-1 Employee contributions and matching contributions. § 1.401(m)-2 ACP test. § 1.401(m)-3 Safe harbor requirements. § 1.401(m)-4 Special rules for mergers, acquisitions and similar events. \[Reserved\] § 1.401(m)-5 Definitions. List of Paragraphs § 1.401(m)-1 Employee contributions and matching contributions.
 
-(a) General nondiscrimination rules.1/2
+(a) General nondiscrimination rules. 
 
-(1) Nondiscriminatory amount of contributions.
+(1) Nondiscriminatory amount of contributions. 
 
-(i) Exclusive means of amounts testing.
+(i) Exclusive means of amounts testing. 
 
-(ii) Testing benefits, rights and features.
+(ii) Testing benefits, rights and features. 
 
-(2) Matching contributions.
+(2) Matching contributions. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Employer contributions made on account of an employee contribution or elective deferral.
+(ii) Employer contributions made on account of an employee contribution or elective deferral. 
 
-(iii) Employer contributions not on account of an employee contribution or elective deferral.
+(iii) Employer contributions not on account of an employee contribution or elective deferral. 
 
-(A) General rule.
+(A) General rule. 
 
-(B) Special rule for forfeitures and released ESOP shares.
+(B) Special rule for forfeitures and released ESOP shares. 
 
-(C) Exception for bona fide administrative considerations.
+(C) Exception for bona fide administrative considerations. 
 
-(3) Employee contributions.
+(3) Employee contributions. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Certain contributions not treated as employee contributions.
+(ii) Certain contributions not treated as employee contributions. 
 
-(iii) Qualified cost-of-living arrangements.
+(iii) Qualified cost-of-living arrangements. 
 
-(b) Nondiscrimination requirements for amount of contributions.
+(b) Nondiscrimination requirements for amount of contributions. 
 
-(1) Matching contributions and employee contributions.
+(1) Matching contributions and employee contributions. 
 
-(2) Automatic satisfaction by certain plans.
+(2) Automatic satisfaction by certain plans. 
 
-(3) Anti-abuse provisions.
+(3) Anti-abuse provisions. 
 
-(4) Aggregation and restructuring.
+(4) Aggregation and restructuring. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Aggregation of employee contributions and matching contributions within a plan.
+(ii) Aggregation of employee contributions and matching contributions within a plan. 
 
-(iii) Aggregation of plans.
+(iii) Aggregation of plans. 
 
-(A) In general.
+(A) In general. 
 
-(B) Arrangements with inconsistent ACP testing methods.
+(B) Arrangements with inconsistent ACP testing methods. 
 
-(iv) Disaggregation of plans and separate testing.
+(iv) Disaggregation of plans and separate testing. 
 
-(A) In general.
+(A) In general. 
 
-(B) Restructuring prohibited.
+(B) Restructuring prohibited. 
 
-(v) Certain disaggregation rules not applicable.
+(v) Certain disaggregation rules not applicable. 
 
-(c) Additional requirements.
+(c) Additional requirements. 
 
-(1) Separate testing for employee contributions and matching contributions.
+(1) Separate testing for employee contributions and matching contributions. 
 
-(2) Plan provision requirement.
+(2) Plan provision requirement. 
 
-(d) Effective date.
+(d) Effective date. 
 
-(1) General rule.
+(1) General rule. 
 
-(2) Early implementation permitted.
+(2) Early implementation permitted. 
 
-(3) Applicability of prior regulations.
+(3) Applicability of prior regulations. 
 
 § 1.401(m)-2 ACP test.
 
-(a) Actual contribution percentage (ACP) test.
+(a) Actual contribution percentage (ACP) test. 
 
-(1) In general.
+(1) In general. 
 
-(i) ACP test formula.
+(i) ACP test formula. 
 
-(ii) HCEs as sole eligible employees.
+(ii) HCEs as sole eligible employees. 
 
-(iii) Special rule for early participation.
+(iii) Special rule for early participation. 
 
-(2) Determination of ACP.
+(2) Determination of ACP. 
 
-(i) General rule.
+(i) General rule. 
 
-(ii) Determination of applicable year under current year and prior year testing method.
+(ii) Determination of applicable year under current year and prior year testing method. 
 
-(3) Determination of ACR.
+(3) Determination of ACR. 
 
-(i) General rule.
+(i) General rule. 
 
-(ii) ACR of HCEs eligible under more than one plan.
+(ii) ACR of HCEs eligible under more than one plan. 
 
-(A) General rule.
+(A) General rule. 
 
-(B) Plans not permitted to be aggregated.
+(B) Plans not permitted to be aggregated. 
 
-(iii) Example.
+(iii) Example. 
 
-(4) Employee contributions and matching contributions taken into account under the ACP test.
+(4) Employee contributions and matching contributions taken into account under the ACP test. 
 
-(i) Employee contributions.
+(i) Employee contributions. 
 
-(ii) Recharacterized elective contributions.
+(ii) Recharacterized elective contributions. 
 
-(iii) Matching contributions.
+(iii) Matching contributions. 
 
-(5) Employee contributions and matching contributions not taken into account under the ACP test.
+(5) Employee contributions and matching contributions not taken into account under the ACP test. 
 
-(i) General rule.
+(i) General rule. 
 
-(ii) Disproportionate matching contributions.
+(ii) Disproportionate matching contributions. 
 
-(A) Matching contributions in excess of 100%.
+(A) Matching contributions in excess of 100%. 
 
-(B) Representative matching rate.
+(B) Representative matching rate. 
 
-(C) Definition of matching rate.
+(C) Definition of matching rate. 
 
-(iii) Qualified matching contributions used to satisfy the ADP test.
+(iii) Qualified matching contributions used to satisfy the ADP test. 
 
-(iv) Matching contributions taken into account under safe harbor provisions.
+(iv) Matching contributions taken into account under safe harbor provisions. 
 
-(v) Treatment of forfeited matching contributions.
+(v) Treatment of forfeited matching contributions. 
 
-(vi) Additional employee contributions or matching contributions pursuant to section 414(u).
+(vi) Additional employee contributions or matching contributions pursuant to section 414(u). 
 
-(6) Qualified nonelective contributions and elective contributions that may be taken into account under the ACP test.
+(6) Qualified nonelective contributions and elective contributions that may be taken into account under the ACP test. 
 
-(i) Timing of allocation.
+(i) Timing of allocation. 
 
-(ii) Elective contributions taken into account under the ACP test.
+(ii) Elective contributions taken into account under the ACP test. 
 
-(iii) Requirement that amount satisfy section 401(a)(4).
+(iii) Requirement that amount satisfy section 401(a)(4). 
 
-(iv) Aggregation must be permitted.
+(iv) Aggregation must be permitted. 
 
-(v) Disproportionate contributions not taken into account.
+(v) Disproportionate contributions not taken into account. 
 
-(A) General rule.
+(A) General rule. 
 
-(B) Definition of representative contribution rate.
+(B) Definition of representative contribution rate. 
 
-(C) Definition of applicable contribution rate.
+(C) Definition of applicable contribution rate. 
 
-(D) Special rule for prevailing wage contributions.
+(D) Special rule for prevailing wage contributions. 
 
-(vi) Contribution only used once.
+(vi) Contribution only used once. 
 
-(7) Examples.
+(7) Examples. 
 
-(b) Correction of excess aggregate contributions.
+(b) Correction of excess aggregate contributions. 
 
-(1) Permissible correction methods.
+(1) Permissible correction methods. 
 
-(i) In general.
+(i) In general. 
 
-(A) Additional contributions.
+(A) Additional contributions. 
 
-(B) Excess aggregate contributions distributed or forfeited.
+(B) Excess aggregate contributions distributed or forfeited. 
 
-(ii) Combination of correction methods.
+(ii) Combination of correction methods. 
 
-(iii) Exclusive means of correction.
+(iii) Exclusive means of correction. 
 
-(2) Correction through distribution.
+(2) Correction through distribution. 
 
-(i) General rule.
+(i) General rule. 
 
-(ii) Calculation of total amount to be distributed.
+(ii) Calculation of total amount to be distributed. 
 
-(A) Calculate the dollar amount of excess aggregate contributions for each HCE.
+(A) Calculate the dollar amount of excess aggregate contributions for each HCE. 
 
-(B) Determination of the total amount of excess aggregate contributions.
+(B) Determination of the total amount of excess aggregate contributions. 
 
-(C) Satisfaction of ACP.
+(C) Satisfaction of ACP. 
 
-(iii) Apportionment of total amount of excess aggregate contributions among the HCEs.
+(iii) Apportionment of total amount of excess aggregate contributions among the HCEs. 
 
-(A) Calculate the dollar amount of excess aggregate contributions for each HCE.
+(A) Calculate the dollar amount of excess aggregate contributions for each HCE. 
 
-(B) Limit on amount apportioned to any HCE.
+(B) Limit on amount apportioned to any HCE. 
 
-(C) Apportionment to additional HCEs.
+(C) Apportionment to additional HCEs. 
 
-(iv) Income allocable to excess aggregate contributions.
+(iv) Income allocable to excess aggregate contributions. 
 
-(A) General rule.
+(A) General rule. 
 
-(B) Method of allocating income.
+(B) Method of allocating income. 
 
-(C) Alternative method of allocating income for the plan year.
+(C) Alternative method of allocating income for the plan year. 
 
-(D) Plan years before 2008.
+(D) Plan years before 2008. 
 
-(E) Alternative method of allocating plan year and gap period income.
+(E) Alternative method of allocating plan year and gap period income. 
 
-(F) Allocable income for recharacterized elective contributions.
+(F) Allocable income for recharacterized elective contributions. 
 
-(v) Distribution and forfeiture.
+(v) Distribution and forfeiture. 
 
-(vi) Tax treatment of corrective distributions.
+(vi) Tax treatment of corrective distributions. 
 
-(A) Corrective distributions for plan years beginning on or after January 1, 2008.
+(A) Corrective distributions for plan years beginning on or after January 1, 2008. 
 
-(B) Corrective distributions for plan years beginning before January 1, 2008.
+(B) Corrective distributions for plan years beginning before January 1, 2008. 
 
-(C) Corrective distributions attributable to designated Roth contributions.
+(C) Corrective distributions attributable to designated Roth contributions. 
 
-(3) Other rules.
+(3) Other rules. 
 
-(i) No employee or spousal consent required.
+(i) No employee or spousal consent required. 
 
-(ii) Treatment of corrective distributions and forfeited contributions as employer contributions.
+(ii) Treatment of corrective distributions and forfeited contributions as employer contributions. 
 
-(iii) No reduction of required minimum distribution.
+(iii) No reduction of required minimum distribution. 
 
-(iv) Partial correction.
+(iv) Partial correction. 
 
-(v) Matching contributions on excess contributions, excess deferrals and excess aggregate contributions.
+(v) Matching contributions on excess contributions, excess deferrals and excess aggregate contributions. 
 
-(A) Corrective distributions not permitted.
+(A) Corrective distributions not permitted. 
 
-(B) Coordination with section 401(a)(4).
+(B) Coordination with section 401(a)(4). 
 
-(vi) No requirement for recalculation.
+(vi) No requirement for recalculation. 
 
-(4) Failure to timely correct.
+(4) Failure to timely correct. 
 
-(i) Failure to correct within 2 1/2 months after end of plan year.
+(i) Failure to correct within 2 1/2 months after end of plan year. 
 
-(ii) Failure to correct within 12 months after end of plan year.
+(ii) Failure to correct within 12 months after end of plan year. 
 
-(iii) Special rule for eligible automatic contribution arrangements.
+(iii) Special rule for eligible automatic contribution arrangements. 
 
-(5) Examples.
+(5) Examples. 
 
-(c) Additional rules for prior year testing method.
+(c) Additional rules for prior year testing method. 
 
-(1) Rules for change in testing method.
+(1) Rules for change in testing method. 
 
-(2) Calculation of ACP under the prior year testing method for the first plan year.
+(2) Calculation of ACP under the prior year testing method for the first plan year. 
 
-(i) Plans that are not successor plans.
+(i) Plans that are not successor plans. 
 
-(ii) First plan year defined.
+(ii) First plan year defined. 
 
-(iii) Plans that are successor plans.
+(iii) Plans that are successor plans. 
 
-(3) Plans using different testing methods for the ACP and ADP test.
+(3) Plans using different testing methods for the ACP and ADP test. 
 
-(4) Rules for plan coverage change.
+(4) Rules for plan coverage change. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Optional rule for minor plan coverage changes.
+(ii) Optional rule for minor plan coverage changes. 
 
-(iii) Definitions.
+(iii) Definitions. 
 
-(A) Plan coverage change.
+(A) Plan coverage change. 
 
-(B) Prior year subgroup.
+(B) Prior year subgroup. 
 
-(C) Weighted average of the ACPs for the prior year subgroups.
+(C) Weighted average of the ACPs for the prior year subgroups. 
 
-(iv) Examples.
+(iv) Examples. 
 
 § 1.401(m)-3 Safe harbor requirements.
 
-(a) ACP test safe harbor.
+(a) ACP test safe harbor. 
 
-(1) Section 401(m)(11) safe harbor.
+(1) Section 401(m)(11) safe harbor. 
 
-(2) Section 401(m)(12) safe harbor.
+(2) Section 401(m)(12) safe harbor. 
 
-(3) Requirements applicable to safe harbor contributions.
+(3) Requirements applicable to safe harbor contributions. 
 
-(b) Safe harbor nonelective contribution requirement.
+(b) Safe harbor nonelective contribution requirement. 
 
-(c) Safe harbor matching contribution requirement.
+(c) Safe harbor matching contribution requirement. 
 
-(d) Limitation on contributions.
+(d) Limitation on contributions. 
 
-(1) General rule.
+(1) General rule. 
 
-(2) Matching rate must not increase.
+(2) Matching rate must not increase. 
 
-(3) Limit on matching contributions.
+(3) Limit on matching contributions. 
 
-(4) Limitation on rate of match.
+(4) Limitation on rate of match. 
 
-(5) HCEs participating in multiple plans.
+(5) HCEs participating in multiple plans. 
 
-(6) Permissible restrictions on elective deferrals by NHCEs.
+(6) Permissible restrictions on elective deferrals by NHCEs. 
 
-(i) General rule.
+(i) General rule. 
 
-(ii) Restrictions on election periods.
+(ii) Restrictions on election periods. 
 
-(iii) Restrictions on amount of contributions.
+(iii) Restrictions on amount of contributions. 
 
-(iv) Restrictions on types of compensation that may be deferred.
+(iv) Restrictions on types of compensation that may be deferred. 
 
-(v) Restrictions due to limitations under the Internal Revenue Code.
+(v) Restrictions due to limitations under the Internal Revenue Code. 
 
-(e) Notice requirement.
+(e) Notice requirement. 
 
-(f) Plan year requirement.
+(f) Plan year requirement. 
 
-(1) General rule.
+(1) General rule. 
 
-(2) Initial plan year.
+(2) Initial plan year. 
 
-(3) Change of plan year.
+(3) Change of plan year. 
 
-(4) Final plan year.
+(4) Final plan year. 
 
-(g) Plan amendments adopting nonelective safe harbor contributions.
+(g) Plan amendments adopting nonelective safe harbor contributions. 
 
-(h) Permissible reduction or suspension of safe harbor contributions.
+(h) Permissible reduction or suspension of safe harbor contributions. 
 
-(1) General rule.
+(1) General rule. 
 
-(i) Matching contributions.
+(i) Matching contributions. 
 
-(ii) Nonelective contributions.
+(ii) Nonelective contributions. 
 
-(2) Supplemental notice.
+(2) Supplemental notice. 
 
-(j) Other rules.
+(j) Other rules. 
 
-(1) Contributions taken into account.
+(1) Contributions taken into account. 
 
-(2) Use of safe harbor nonelective contributions to satisfy other nondiscrimination tests.
+(2) Use of safe harbor nonelective contributions to satisfy other nondiscrimination tests. 
 
-(3) Early participation rules.
+(3) Early participation rules. 
 
-(4) Satisfying safe harbor contribution requirement under another defined contribution plan.
+(4) Satisfying safe harbor contribution requirement under another defined contribution plan. 
 
-(5) Contributions used only once.
+(5) Contributions used only once. 
 
-(6) Plan must satisfy ACP with respect to employee contributions.
+(6) Plan must satisfy ACP with respect to employee contributions. 
 
 § 1.401(m)-4 Special rules for mergers, acquisitions and similar events. \[Reserved\] § 1.401(m)-5 Definitions.\[T.D. 9169, 69 FR 78184, Dec. 29, 2004, as amended by T.D. 9237, 71 FR 10, Jan. 3, 2006; T.D. 9447, 74 FR 8210, Feb. 24, 2009; T.D. 9641, 78 FR 68738, Nov. 15, 2013\]

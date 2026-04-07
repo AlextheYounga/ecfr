@@ -1,140 +1,138 @@
 ##### § 1.72-9 Tables.
 
-The following tables are to be used in connection with computations under section 72 and the regulations thereunder. Tables I, II, IIA, III, and IV are to be used if the investment in the contract does not include a post-June 1986 investment in the contract (as defined in § 1.72-6(d)(3)). Tables V, VI, VIA, VII, and VIII are to be used if the investment in the contract includes a post-June 1986 investment in the contract (as defined in § 1.72-6(d)(3)).*i.e.*
+The following tables are to be used in connection with computations under section 72 and the regulations thereunder. Tables I, II, IIA, III, and IV are to be used if the investment in the contract does not include a post-June 1986 investment in the contract (as defined in § 1.72-6(d)(3)). Tables V, VI, VIA, VII, and VIII are to be used if the investment in the contract includes a post-June 1986 investment in the contract (as defined in § 1.72-6(d)(3)). 
 
-In the case of a contract under which amounts are received as an annuity after June 30, 1986, a taxpayer receiving such amounts may elect to treat the entire investment in the contract as post-June 1986 investment in the contract and thus apply Tables V through VIII. A taxpayer may make the election for any taxable year in which such amounts are received by attaching to the taxpayer's return for such taxable year a statement that the taxpayer is electing under § 1.72-9 to treat the entire investment in the contract as post-June 1986 investment in the contract. The statement must contain the taxpayer's name, address, and taxpayer identification number. The election is irrevocable and applies with respect to all amounts that the taxpayer receives as an annuity under the contract in the taxable year for which the election is made or in any subsequent taxable year. (Note that for purposes of the examples in §§ 1.72-4 through 1.72-11 the election described in this section is disregarded (*i.e.*, it assumed that the taxpayer does not make an election under this section).) See also § 1.72-6(d)(3) for rules treating the entire investment in a contract as post-June 1986 investment in a contract if the annuity starting date of the contract is after June 30, 1986, and the contract provides for a disqualifying form of payment or settlement, such as an option to receive a lump sum in full discharge of the obligation under the contract. In addition, see § 1.72-6(d) for special rules concerning the tables to be used and the separate computations required if the investment in the contract includes both a pre-July 1986 investment in the contract and a post-June 1986 investment in the contract and the election described in § 1.72-6(d)(6) is made with respect to the contract.
+In the case of a contract under which amounts are received as an annuity after June 30, 1986, a taxpayer receiving such amounts may elect to treat the entire investment in the contract as post-June 1986 investment in the contract and thus apply Tables V through VIII. A taxpayer may make the election for any taxable year in which such amounts are received by attaching to the taxpayer's return for such taxable year a statement that the taxpayer is electing under § 1.72-9 to treat the entire investment in the contract as post-June 1986 investment in the contract. The statement must contain the taxpayer's name, address, and taxpayer identification number. The election is irrevocable and applies with respect to all amounts that the taxpayer receives as an annuity under the contract in the taxable year for which the election is made or in any subsequent taxable year. (Note that for purposes of the examples in §§ 1.72-4 through 1.72-11 the election described in this section is disregarded (*i.e.*, it assumed that the taxpayer does not make an election under this section).) See also § 1.72-6(d)(3) for rules treating the entire investment in a contract as post-June 1986 investment in a contract if the annuity starting date of the contract is after June 30, 1986, and the contract provides for a disqualifying form of payment or settlement, such as an option to receive a lump sum in full discharge of the obligation under the contract. In addition, see § 1.72-6(d) for special rules concerning the tables to be used and the separate computations required if the investment in the contract includes both a pre-July 1986 investment in the contract and a post-June 1986 investment in the contract and the election described in § 1.72-6(d)(6) is made with respect to the contract. 
 
-Table I—Ordinary Life Annuities—One Life—Expected Return Multiples1
-| Ages                                                                                                                            | Multiples |
-| ------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| 6                                                                                                                               | 11        |
-| 7                                                                                                                               | 12        |
-| 8                                                                                                                               | 13        |
-| 9                                                                                                                               | 14        |
-| 10                                                                                                                              | 15        |
-|                                                                                                                                 |           |
-| 11                                                                                                                              | 16        |
-| 12                                                                                                                              | 17        |
-| 13                                                                                                                              | 18        |
-| 14                                                                                                                              | 19        |
-| 15                                                                                                                              | 20        |
-|                                                                                                                                 |           |
-| 16                                                                                                                              | 21        |
-| 17                                                                                                                              | 22        |
-| 18                                                                                                                              | 23        |
-| 19                                                                                                                              | 24        |
-| 20                                                                                                                              | 25        |
-|                                                                                                                                 |           |
-| 21                                                                                                                              | 26        |
-| 22                                                                                                                              | 27        |
-| 23                                                                                                                              | 28        |
-| 24                                                                                                                              | 29        |
-| 25                                                                                                                              | 30        |
-|                                                                                                                                 |           |
-| 26                                                                                                                              | 31        |
-| 27                                                                                                                              | 32        |
-| 28                                                                                                                              | 33        |
-| 29                                                                                                                              | 34        |
-| 30                                                                                                                              | 35        |
-|                                                                                                                                 |           |
-| 31                                                                                                                              | 36        |
-| 32                                                                                                                              | 37        |
-| 33                                                                                                                              | 38        |
-| 34                                                                                                                              | 39        |
-| 35                                                                                                                              | 40        |
-|                                                                                                                                 |           |
-| 36                                                                                                                              | 41        |
-| 37                                                                                                                              | 42        |
-| 38                                                                                                                              | 43        |
-| 39                                                                                                                              | 44        |
-| 40                                                                                                                              | 45        |
-|                                                                                                                                 |           |
-| 41                                                                                                                              | 46        |
-| 42                                                                                                                              | 47        |
-| 43                                                                                                                              | 48        |
-| 44                                                                                                                              | 49        |
-| 45                                                                                                                              | 50        |
-|                                                                                                                                 |           |
-| 46                                                                                                                              | 51        |
-| 47                                                                                                                              | 52        |
-| 48                                                                                                                              | 53        |
-| 49                                                                                                                              | 54        |
-| 50                                                                                                                              | 55        |
-|                                                                                                                                 |           |
-| 51                                                                                                                              | 56        |
-| 52                                                                                                                              | 57        |
-| 53                                                                                                                              | 58        |
-| 54                                                                                                                              | 59        |
-| 55                                                                                                                              | 60        |
-|                                                                                                                                 |           |
-| 56                                                                                                                              | 61        |
-| 57                                                                                                                              | 62        |
-| 58                                                                                                                              | 63        |
-| 59                                                                                                                              | 64        |
-| 60                                                                                                                              | 65        |
-|                                                                                                                                 |           |
-| 61                                                                                                                              | 66        |
-| 62                                                                                                                              | 67        |
-| 63                                                                                                                              | 68        |
-| 64                                                                                                                              | 69        |
-| 65                                                                                                                              | 70        |
-|                                                                                                                                 |           |
-| 66                                                                                                                              | 71        |
-| 67                                                                                                                              | 72        |
-| 68                                                                                                                              | 73        |
-| 69                                                                                                                              | 74        |
-| 70                                                                                                                              | 75        |
-|                                                                                                                                 |           |
-| 71                                                                                                                              | 76        |
-| 72                                                                                                                              | 77        |
-| 73                                                                                                                              | 78        |
-| 74                                                                                                                              | 79        |
-| 75                                                                                                                              | 80        |
-|                                                                                                                                 |           |
-| 76                                                                                                                              | 81        |
-| 77                                                                                                                              | 82        |
-| 78                                                                                                                              | 83        |
-| 79                                                                                                                              | 84        |
-| 80                                                                                                                              | 85        |
-|                                                                                                                                 |           |
-| 81                                                                                                                              | 86        |
-| 82                                                                                                                              | 87        |
-| 83                                                                                                                              | 88        |
-| 84                                                                                                                              | 89        |
-| 85                                                                                                                              | 90        |
-|                                                                                                                                 |           |
-| 86                                                                                                                              | 91        |
-| 87                                                                                                                              | 92        |
-| 88                                                                                                                              | 93        |
-| 89                                                                                                                              | 94        |
-| 90                                                                                                                              | 95        |
-|                                                                                                                                 |           |
-| 91                                                                                                                              | 96        |
-| 92                                                                                                                              | 97        |
-| 93                                                                                                                              | 98        |
-| 94                                                                                                                              | 99        |
-| 95                                                                                                                              | 100       |
-|                                                                                                                                 |           |
-| 96                                                                                                                              | 101       |
-| 97                                                                                                                              | 102       |
-| 98                                                                                                                              | 103       |
-| 99                                                                                                                              | 104       |
-| 100                                                                                                                             | 105       |
-|                                                                                                                                 |           |
-| 101                                                                                                                             | 106       |
-| 102                                                                                                                             | 107       |
-| 103                                                                                                                             | 108       |
-| 104                                                                                                                             | 109       |
-| 105                                                                                                                             | 110       |
-|                                                                                                                                 |           |
-| 106                                                                                                                             | 111       |
-| 107                                                                                                                             | 112       |
-| 108                                                                                                                             | 113       |
-| 109                                                                                                                             | 114       |
-| 110                                                                                                                             | 115       |
-| 111                                                                                                                             | 116       |
-| Footnote to Table IV: 1                                                                                                         |           |
-| 1 The multiples in this table are not applicable to annuities for a term certain; for such cases see paragraph (c) of § 1.72-5. |           |
+Table I—Ordinary Life Annuities—One Life—Expected Return Multiples
+| Ages | Multiples |
+| ---- | --------- |
+| 6    | 11        |
+| 7    | 12        |
+| 8    | 13        |
+| 9    | 14        |
+| 10   | 15        |
+|      |           |
+| 11   | 16        |
+| 12   | 17        |
+| 13   | 18        |
+| 14   | 19        |
+| 15   | 20        |
+|      |           |
+| 16   | 21        |
+| 17   | 22        |
+| 18   | 23        |
+| 19   | 24        |
+| 20   | 25        |
+|      |           |
+| 21   | 26        |
+| 22   | 27        |
+| 23   | 28        |
+| 24   | 29        |
+| 25   | 30        |
+|      |           |
+| 26   | 31        |
+| 27   | 32        |
+| 28   | 33        |
+| 29   | 34        |
+| 30   | 35        |
+|      |           |
+| 31   | 36        |
+| 32   | 37        |
+| 33   | 38        |
+| 34   | 39        |
+| 35   | 40        |
+|      |           |
+| 36   | 41        |
+| 37   | 42        |
+| 38   | 43        |
+| 39   | 44        |
+| 40   | 45        |
+|      |           |
+| 41   | 46        |
+| 42   | 47        |
+| 43   | 48        |
+| 44   | 49        |
+| 45   | 50        |
+|      |           |
+| 46   | 51        |
+| 47   | 52        |
+| 48   | 53        |
+| 49   | 54        |
+| 50   | 55        |
+|      |           |
+| 51   | 56        |
+| 52   | 57        |
+| 53   | 58        |
+| 54   | 59        |
+| 55   | 60        |
+|      |           |
+| 56   | 61        |
+| 57   | 62        |
+| 58   | 63        |
+| 59   | 64        |
+| 60   | 65        |
+|      |           |
+| 61   | 66        |
+| 62   | 67        |
+| 63   | 68        |
+| 64   | 69        |
+| 65   | 70        |
+|      |           |
+| 66   | 71        |
+| 67   | 72        |
+| 68   | 73        |
+| 69   | 74        |
+| 70   | 75        |
+|      |           |
+| 71   | 76        |
+| 72   | 77        |
+| 73   | 78        |
+| 74   | 79        |
+| 75   | 80        |
+|      |           |
+| 76   | 81        |
+| 77   | 82        |
+| 78   | 83        |
+| 79   | 84        |
+| 80   | 85        |
+|      |           |
+| 81   | 86        |
+| 82   | 87        |
+| 83   | 88        |
+| 84   | 89        |
+| 85   | 90        |
+|      |           |
+| 86   | 91        |
+| 87   | 92        |
+| 88   | 93        |
+| 89   | 94        |
+| 90   | 95        |
+|      |           |
+| 91   | 96        |
+| 92   | 97        |
+| 93   | 98        |
+| 94   | 99        |
+| 95   | 100       |
+|      |           |
+| 96   | 101       |
+| 97   | 102       |
+| 98   | 103       |
+| 99   | 104       |
+| 100  | 105       |
+|      |           |
+| 101  | 106       |
+| 102  | 107       |
+| 103  | 108       |
+| 104  | 109       |
+| 105  | 110       |
+|      |           |
+| 106  | 111       |
+| 107  | 112       |
+| 108  | 113       |
+| 109  | 114       |
+| 110  | 115       |
+| 111  | 116       |
 
 Table II—Ordinary Joint Life and Last Survivor Annuities—Two Lives—Expected Return Multiples
 | Male | Female | Ages |

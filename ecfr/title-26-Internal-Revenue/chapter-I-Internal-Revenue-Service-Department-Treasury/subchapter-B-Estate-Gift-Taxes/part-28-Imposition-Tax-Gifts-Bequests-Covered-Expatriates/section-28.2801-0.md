@@ -1,263 +1,263 @@
 ##### § 28.2801-0 Table of contents.
 
-This section lists the headings in §§ 28.2801-1 through 28.2801-7.
+This section lists the headings in §§ 28.2801-1 through 28.2801-7. 
 
 § 28.2801-1 Tax on certain gifts and bequests from covered expatriates.
 
-(a) In general.
+(a) In general. 
 
-(b) Applicability date.
+(b) Applicability date. 
 
 § 28.2801-2 Definitions.
 
-(a) Overview.
+(a) Overview. 
 
-(b) U.S. citizen or resident.
+(b) U.S. citizen or resident. 
 
-(c) Domestic trust.
+(c) Domestic trust. 
 
-(d) Foreign trust.
+(d) Foreign trust. 
 
-(1) In general.
+(1) In general. 
 
-(2) Electing foreign trust.
+(2) Electing foreign trust. 
 
-(3) Non-electing foreign trust.
+(3) Non-electing foreign trust. 
 
-(e) U.S. recipient.
+(e) U.S. recipient. 
 
-(f) Covered bequest.
+(f) Covered bequest. 
 
-(g) Covered gift.
+(g) Covered gift. 
 
-(h) Expatriate and covered expatriate.
+(h) Expatriate and covered expatriate. 
 
-(i) Indirect acquisition of property.
+(i) Indirect acquisition of property. 
 
-(j) Power of appointment.
+(j) Power of appointment. 
 
-(k) Section 2801 tax.
+(k) Section 2801 tax. 
 
-(l) Section 2801(c) amount.
+(l) Section 2801(c) amount. 
 
-(m) Statutory references.
+(m) Statutory references. 
 
-(1) Code.
+(1) Code. 
 
-(2) Subtitle B.
+(2) Subtitle B. 
 
-(n) Applicability date.
+(n) Applicability date. 
 
 § 28.2801-3 Rules and exceptions applicable to covered gifts and covered bequests.
 
-(a) Covered gift.
+(a) Covered gift. 
 
-(b) Covered bequest.
+(b) Covered bequest. 
 
-(c) Exceptions to covered gift and covered bequest.
+(c) Exceptions to covered gift and covered bequest. 
 
-(1) Reported taxable gifts.
+(1) Reported taxable gifts. 
 
-(2) Property reported as subject to estate tax.
+(2) Property reported as subject to estate tax. 
 
-(3) Covered bequest previously subject to section 2801 tax as a covered gift.
+(3) Covered bequest previously subject to section 2801 tax as a covered gift. 
 
-(4) Transfers to charity.
+(4) Transfers to charity. 
 
-(5) Transfers to spouse.
+(5) Transfers to spouse. 
 
-(6) Qualified disclaimers.
+(6) Qualified disclaimers. 
 
-(d) Covered gifts and covered bequests made in trust.
+(d) Covered gifts and covered bequests made in trust. 
 
-(e) Powers of appointment.
+(e) Powers of appointment. 
 
-(1) Covered expatriate as holder of power.
+(1) Covered expatriate as holder of power. 
 
-(2) Covered expatriate as grantor of power.
+(2) Covered expatriate as grantor of power. 
 
-(f) Examples.
+(f) Examples. 
 
-(g) Applicability date.
+(g) Applicability date. 
 
 § 28.2801-4 Liability for and payment of tax on covered gifts and covered bequests; computation of tax.
 
-(a) Liability for tax.
+(a) Liability for tax. 
 
-(1) U.S. citizen or resident.
+(1) U.S. citizen or resident. 
 
-(2) Domestic trust.
+(2) Domestic trust. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Generation-skipping transfer tax.
+(ii) Generation-skipping transfer tax. 
 
-(iii) \[Reserved\].
+(iii) \[Reserved\]. 
 
-(iv) Migrated foreign trust.
+(iv) Migrated foreign trust. 
 
-(3) Foreign trust.
+(3) Foreign trust. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Income tax deduction.
+(ii) Income tax deduction. 
 
-(b) Computation of tax.
+(b) Computation of tax. 
 
-(1) In general.
+(1) In general. 
 
-(2) Net covered gifts and covered bequests.
+(2) Net covered gifts and covered bequests. 
 
-(c) Value of covered gift or covered bequest.
+(c) Value of covered gift or covered bequest. 
 
-(d) Date of receipt.
+(d) Date of receipt. 
 
-(1) In general.
+(1) In general. 
 
-(2) Covered gift.
+(2) Covered gift. 
 
-(3) Covered bequest.
+(3) Covered bequest. 
 
-(4) Domestic trusts and electing foreign trusts.
+(4) Domestic trusts and electing foreign trusts. 
 
-(5) Non-electing foreign trusts.
+(5) Non-electing foreign trusts. 
 
-(6) Powers of appointment.
+(6) Powers of appointment. 
 
-(i) Covered expatriate as holder of power.
+(i) Covered expatriate as holder of power. 
 
-(ii) Covered expatriate as grantor of power.
+(ii) Covered expatriate as grantor of power. 
 
-(7) Indirect receipts.
+(7) Indirect receipts. 
 
-(8) Future interest in property not in trust.
+(8) Future interest in property not in trust. 
 
-(i) Date of receipt.
+(i) Date of receipt. 
 
-(ii) Date-of-receipt election for future interest in property not in trust.
+(ii) Date-of-receipt election for future interest in property not in trust. 
 
-(e) Reduction of tax for foreign gift or estate tax paid.
+(e) Reduction of tax for foreign gift or estate tax paid. 
 
-(1) In general.
+(1) In general. 
 
-(2) Protective claim for refund.
+(2) Protective claim for refund. 
 
-(f) Examples.
+(f) Examples. 
 
-(g) Applicability date.
+(g) Applicability date. 
 
 § 28.2801-5 Foreign trusts.
 
-(a) In general.
+(a) In general. 
 
-(b) Distribution defined.
+(b) Distribution defined. 
 
-(c) Amount of distribution attributable to covered gift or covered bequest.
+(c) Amount of distribution attributable to covered gift or covered bequest. 
 
-(1) Section 2801 ratio.
+(1) Section 2801 ratio. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Computation.
+(ii) Computation. 
 
-(2) Effect of reported transfer and tax payment.
+(2) Effect of reported transfer and tax payment. 
 
-(3) Inadequate information to calculate section 2801 ratio.
+(3) Inadequate information to calculate section 2801 ratio. 
 
-(d) Foreign trust treated as domestic trust.
+(d) Foreign trust treated as domestic trust. 
 
-(1) Election required.
+(1) Election required. 
 
-(2) Effect of election.
+(2) Effect of election. 
 
-(3) Time and manner of making the election.
+(3) Time and manner of making the election. 
 
-(i) When to make the election.
+(i) When to make the election. 
 
-(ii) Requirements for a valid election.
+(ii) Requirements for a valid election. 
 
-(iii) Section 2801 tax payable with the election.
+(iii) Section 2801 tax payable with the election. 
 
-(iv) Designation of U.S. agent.
+(iv) Designation of U.S. agent. 
 
-(A) In general.
+(A) In general. 
 
-(B) Role of designated agent.
+(B) Role of designated agent. 
 
-(C) Effect of appointment of agent.
+(C) Effect of appointment of agent. 
 
-(4) Filing requirement.
+(4) Filing requirement. 
 
-(5) Duration of status as electing foreign trust.
+(5) Duration of status as electing foreign trust. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Termination.
+(ii) Termination. 
 
-(A) Manner of termination.
+(A) Manner of termination. 
 
-(B) Effective date of termination.
+(B) Effective date of termination. 
 
-(C) Notice requirements upon termination.
+(C) Notice requirements upon termination. 
 
-(iii) Subsequent elections.
+(iii) Subsequent elections. 
 
-(6) Dispute as to amount of section 2801 tax owed by electing foreign trust.
+(6) Dispute as to amount of section 2801 tax owed by electing foreign trust. 
 
-(i) Procedure.
+(i) Procedure. 
 
-(ii) Effect of compliance.
+(ii) Effect of compliance. 
 
-(iii) Effect of failing to comply (imperfect election).
+(iii) Effect of failing to comply (imperfect election). 
 
-(A) In general.
+(A) In general. 
 
-(B) Notice to permissible distributees.
+(B) Notice to permissible distributees. 
 
-(C) Reasonable cause.
+(C) Reasonable cause. 
 
-(D) Interim period.
+(D) Interim period. 
 
-(7) No overpayment caused solely by virtue of defect in election.
+(7) No overpayment caused solely by virtue of defect in election. 
 
-(e) Examples.
+(e) Examples. 
 
-(f) Applicability date.
+(f) Applicability date. 
 
 § 28.2801-6 Special rules and cross-references.
 
-(a) Determination of basis.
+(a) Determination of basis. 
 
-(b) Generation-skipping transfer tax.
+(b) Generation-skipping transfer tax. 
 
-(c) Information returns.
+(c) Information returns. 
 
-(1) Gifts and bequests.
+(1) Gifts and bequests. 
 
-(2) Foreign trust distributions.
+(2) Foreign trust distributions. 
 
-(3) Penalties and use of information.
+(3) Penalties and use of information. 
 
-(d) Application of penalties.
+(d) Application of penalties. 
 
-(1) Accuracy-related penalties on underpayments.
+(1) Accuracy-related penalties on underpayments. 
 
-(2) Penalty for substantial and gross valuation misstatements attributable to incorrect appraisals.
+(2) Penalty for substantial and gross valuation misstatements attributable to incorrect appraisals. 
 
-(3) Penalty for failure to file a return and to pay tax.
+(3) Penalty for failure to file a return and to pay tax. 
 
-(e) Applicability date.
+(e) Applicability date. 
 
 § 28.2801-7 Determining responsibility under section 2801.
 
-(a) Responsibility of U.S. citizens or residents receiving gifts or bequests from expatriates.
+(a) Responsibility of U.S. citizens or residents receiving gifts or bequests from expatriates. 
 
-(b) Disclosure of return and return information.
+(b) Disclosure of return and return information. 
 
-(1) In general.
+(1) In general. 
 
-(2) Rebuttable presumption.
+(2) Rebuttable presumption. 
 
-(c) Protective return.
+(c) Protective return. 
 
 (d) Applicability date.

@@ -1,32 +1,32 @@
 ##### § 25.2502-1 Rate of tax.
 
-(a) *Computation of tax.* The rate of tax is determined by the total of all gifts made by the donor during the calendar period and all the preceding calendar periods since June 6, 1932. See § 25.2502-1(c)(1) for the definition of “calendar period” and § 25.2502-1(c)(2) for the definition of “preceding calendar periods.” The following six steps are to be followed in computing the tax:
+(a) *Computation of tax.* The rate of tax is determined by the total of all gifts made by the donor during the calendar period and all the preceding calendar periods since June 6, 1932. See § 25.2502-1(c)(1) for the definition of “calendar period” and § 25.2502-1(c)(2) for the definition of “preceding calendar periods.” The following six steps are to be followed in computing the tax: 
 
-(1) *First step.* Ascertain the amount of the “taxable gifts” (as defined in § 25.2503-1) for the calendar period for which the return is being prepared.
+(1) *First step.* Ascertain the amount of the “taxable gifts” (as defined in § 25.2503-1) for the calendar period for which the return is being prepared. 
 
-(2) *Second step.* Ascertain “the aggregate sum of the taxable gifts for each of the preceding calendar periods” (as defined in § 25.2504-1), considering only those gifts made after June 6, 1932.
+(2) *Second step.* Ascertain “the aggregate sum of the taxable gifts for each of the preceding calendar periods” (as defined in § 25.2504-1), considering only those gifts made after June 6, 1932. 
 
-(3) *Third step.* Ascertain the total amount of the taxable gifts, which is the sum of the amounts determined in the first and second steps. See § 25.2702-6 for an adjustment to the total amount of an individual's taxable gifts where the individual's current taxable gifts include the transfer of certain interests in trust that were previously valued under the provisions of section 2702.
+(3) *Third step.* Ascertain the total amount of the taxable gifts, which is the sum of the amounts determined in the first and second steps. See § 25.2702-6 for an adjustment to the total amount of an individual's taxable gifts where the individual's current taxable gifts include the transfer of certain interests in trust that were previously valued under the provisions of section 2702. 
 
-(4) *Fourth step.* Compute the tentative tax on the total amount of taxable gifts (as determined in the third step) using the rate schedule in effect at the time the gift (for which the return is being filed) is made.
+(4) *Fourth step.* Compute the tentative tax on the total amount of taxable gifts (as determined in the third step) using the rate schedule in effect at the time the gift (for which the return is being filed) is made. 
 
-(5) *Fifth step.* Compute the tentative tax on the aggregate sum of the taxable gifts for each of the preceding calendar periods (as determined in the second step), using the same rate schedule set forth in the fourth step of this paragraph (a).
+(5) *Fifth step.* Compute the tentative tax on the aggregate sum of the taxable gifts for each of the preceding calendar periods (as determined in the second step), using the same rate schedule set forth in the fourth step of this paragraph (a). 
 
-(6) *Sixth step.* Subtract the amount determined in the fifth step from the amount determined in the fourth step. The amount remaining is the gift tax for the calendar period for which the return is being prepared.
+(6) *Sixth step.* Subtract the amount determined in the fifth step from the amount determined in the fourth step. The amount remaining is the gift tax for the calendar period for which the return is being prepared. 
 
-(b) *Rate of tax.* The tax is computed in accordance with the rate schedule in effect at the time the gift was made as set forth in section 2001(c) or corresponding provisions of prior law.
+(b) *Rate of tax.* The tax is computed in accordance with the rate schedule in effect at the time the gift was made as set forth in section 2001(c) or corresponding provisions of prior law. 
 
-(c) *Definitions.* (1) The term “calendar period” means:
+(c) *Definitions.* (1) The term “calendar period” means: 
 
-(i) Each calendar year for the calendar years 1932 (but only that portion of such year after June 6, 1932) through 1970;
+(i) Each calendar year for the calendar years 1932 (but only that portion of such year after June 6, 1932) through 1970; 
 
-(ii) Each calendar quarter for the first calendar quarter of the calendar year 1971 through the last calendar quarter of calendar year 1981; or
+(ii) Each calendar quarter for the first calendar quarter of the calendar year 1971 through the last calendar quarter of calendar year 1981; or 
 
-(iii) Each calendar year for the calendar year 1982 and each succeeding calendar year.
+(iii) Each calendar year for the calendar year 1982 and each succeeding calendar year. 
 
-(2) The term “preceding calendar periods” means all calendar periods ending prior to the calendar period for which the tax is being computed.
+(2) The term “preceding calendar periods” means all calendar periods ending prior to the calendar period for which the tax is being computed. 
 
-(d) *Examples.* The following examples illustrate the application of this section with respect to gifts made by citizens or residents of the United States:
+(d) *Examples.* The following examples illustrate the application of this section with respect to gifts made by citizens or residents of the United States: 
 
 Example 1.Assume that in 1955 the donor made taxable gifts, as ascertained under the first step (paragraph (a)(2) of this section), of $62,500 and that there were no taxable gifts for prior years, with the result that the amount ascertainable under the third step is $62,500. Under the fourth step a tax is computed on this amount. Reference to the tax rate schedule in effect in the year 1955 discloses that the tax on this amount is $7,650.Example 2.A donor makes gifts (other than gifts of future interests in property) during the calendar year 1955 of $30,000 to A and $33,000 to B. Two exclusions of $3,000 each are allowable, in accordance with the provisions of section 2503(b), which results in included gifts for 1955 of $57,000. Specific exemption was claimed and allowed in a total amount of $50,000 in the donor's gift tax returns for the calendar years 1934 and 1935 so there remains no specific exemption available for the donor to claim for 1955. The total amount of gifts made by the donor during preceding years, after excluding $5,000 for each donee for each calendar year in accordance with the provisions of section 1003(b)(1) of the 1939 Code, is computed as follows:
 
@@ -152,13 +152,13 @@ Example 5.A makes gifts (other than gifts of future interests in property) to B 
 
 Example 6.A makes gifts (other than gifts of future interests in property) during the calendar year 1982 of $160,000 to B and $100,000 to C. Two exclusions of $10,000 each are allowable, in accordance with the provisions of section 2503(b), which results in taxable gifts for 1982 of $240,000. In the first calendar quarter of 1978, A made taxable gifts totaling $100,000 on which gift tax was paid. For the calendar year 1969, A made taxable gifts totaling $50,000. The full amount of A's specific exemption provided under section 2521, which was in effect at the time, was claimed and allowed in 1968. The computation of the gift tax for the calendar period 1982 (following the steps set forth in paragraph (a) of this section) is shown below. (1) Amount of taxable gifts for the calendar year 1982, $240,000.
 
-(2) Total amount of taxable gifts for preceding calendar periods ($100,000 + $50,000), $150,000.
+(2) Total amount of taxable gifts for preceding calendar periods ($100,000 + $50,000), $150,000. 
 
-(3) Total taxable gifts, $390,000.
+(3) Total taxable gifts, $390,000. 
 
-(4) Tax computed on item 3 (in accordance with the rate schedule in effect for the year 1982), $118,400.
+(4) Tax computed on item 3 (in accordance with the rate schedule in effect for the year 1982), $118,400. 
 
-(5) Tax computed on item 2 (using same rate schedule), $38,800.
+(5) Tax computed on item 2 (using same rate schedule), $38,800. 
 
 (6) Tax for year 1982 (item 4 minus item 5), $79,600.
 

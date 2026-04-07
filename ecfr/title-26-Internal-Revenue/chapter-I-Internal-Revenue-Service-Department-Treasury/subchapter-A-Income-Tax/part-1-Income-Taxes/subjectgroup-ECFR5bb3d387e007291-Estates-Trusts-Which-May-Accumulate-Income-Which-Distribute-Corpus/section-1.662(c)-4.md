@@ -1,20 +1,18 @@
 ##### § 1.662(c)-4 Illustration of the provisions of sections 661 and 662.
 
-The provisions of sections 661 and 662 may be illustrated in general by the following example:
+The provisions of sections 661 and 662 may be illustrated in general by the following example: 
 
 Example.(a) Under the terms of a testamentary trust one-half of the trust income is to be distributed currently to W, the decedent's wife, for her life. The remaining trust income may, in the trustee's discretion, either be paid to D, the grantor's daughter, paid to designated charities, or accumulated. The trust is to terminate at the death of W and the principal will then be payable to D. No provision is made in the trust instrument with respect to depreciation of rental property. Capital gains are allocable to the principal account under the applicable local law. The trust and both beneficiaries file returns on the calendar year basis. The records of the fiduciary show the following items of income and deduction for the taxable year 1955:
 
-|                                                      | Rents   | Taxable dividends | Excluded dividends | Tax exempt interest | Partially tax exempt interest | Total |
-| ---------------------------------------------------- | ------- | ----------------- | ------------------ | ------------------- | ----------------------------- | ----- |
-| Rents                                                | $50,000 |                   |                    |                     |                               |       |
-| Dividends of domestic corporations                   | 50,000  |                   |                    |                     |                               |       |
-| Tax-exempt interest                                  | 20,000  |                   |                    |                     |                               |       |
-| Partially tax-exempt interest                        | 10,000  |                   |                    |                     |                               |       |
-| Capital gains (long term)                            | 20,000  |                   |                    |                     |                               |       |
-| Depreciation of rental property                      | 10,000  |                   |                    |                     |                               |       |
-| Expenses attributable to rental income               | 15,400  |                   |                    |                     |                               |       |
-| Trustee's commissions allocable to income account    | 2,800   |                   |                    |                     |                               |       |
-| Trustee's commissions allocable to principal account | 1,100   |                   |                    |                     |                               |       |
+| Rents                                                | $50,000 |
+| Dividends of domestic corporations                   | 50,000  |
+| Tax-exempt interest                                  | 20,000  |
+| Partially tax-exempt interest                        | 10,000  |
+| Capital gains (long term)                            | 20,000  |
+| Depreciation of rental property                      | 10,000  |
+| Expenses attributable to rental income               | 15,400  |
+| Trustee's commissions allocable to income account    | 2,800   |
+| Trustee's commissions allocable to principal account | 1,100   |
 
 (b) The income for trust accounting purposes is $111,800, and the trustee distributes one-half ($55,900) to W and in his discretion makes a contribution of one-quarter ($27,950) to charity X and distributes the remaining one-quarter ($27,950) to D. The total of the distributions to beneficiaries is $83,850, consisting of (1) income required to be distributed currently to W of $55,900 and (2) other amounts properly paid or credited to D of $27,950. The income for trust accounting purposes of $111,800 is determined as follows:
 

@@ -1,36 +1,36 @@
 ##### § 1.907(f)-1 Carryback and carryover of credits disallowed by section 907(a) (for amounts carried between taxable years that each begin after December 31, 1982).
 
-(a) *In general.* If a taxpayer chooses the benefits of section 901, any unused FOGEI tax paid or accrued in a taxable year beginning after December 31, 1982, may be carried to the taxable years specified in section 907(f) under the carryback and carryover principles of this section § 1.904-2(b). See section 907(e) and § 1.907(e)-1 for transitional rules that apply to unused FOGEI taxes carried back or forward between a taxable year beginning before January 1, 1983, and a taxable year beginning after December 31, 1982.
+(a) *In general.* If a taxpayer chooses the benefits of section 901, any unused FOGEI tax paid or accrued in a taxable year beginning after December 31, 1982, may be carried to the taxable years specified in section 907(f) under the carryback and carryover principles of this section § 1.904-2(b). See section 907(e) and § 1.907(e)-1 for transitional rules that apply to unused FOGEI taxes carried back or forward between a taxable year beginning before January 1, 1983, and a taxable year beginning after December 31, 1982. 
 
-(b) *Unused FOGEI tax*—(1) *In general.* The “unused FOGEI tax” for purposes of this section is the excess of the FOGEI taxes for a taxable year (year of origin) over that year's limitation level (as defined in § 1.907(a)-1(b)).
+(b) *Unused FOGEI tax*—(1) *In general.* The “unused FOGEI tax” for purposes of this section is the excess of the FOGEI taxes for a taxable year (year of origin) over that year's limitation level (as defined in § 1.907(a)-1(b)). 
 
-(2) *Year of origin.* The term “year of origin” in the regulations under section 904 corresponds to the term “unused credit year” under section 907(f).
+(2) *Year of origin.* The term “year of origin” in the regulations under section 904 corresponds to the term “unused credit year” under section 907(f). 
 
-(c) *Tax deemed paid or accrued.* The unused FOGEI tax from a year of origin that may be deemed paid or accrued under section 907(f) in any preceding or succeeding taxable year (“excess limitation year”) may not exceed the lesser of—
+(c) *Tax deemed paid or accrued.* The unused FOGEI tax from a year of origin that may be deemed paid or accrued under section 907(f) in any preceding or succeeding taxable year (“excess limitation year”) may not exceed the lesser of— 
 
-(1) The excess extraction limitation for the excess limitation year, or
+(1) The excess extraction limitation for the excess limitation year, or 
 
-(2) The excess general section 904 limitation for the excess limitation year.
+(2) The excess general section 904 limitation for the excess limitation year. 
 
-(d) *Excess extraction limitation.* Under section 907(f)(2)(A), the “excess extraction limitation” for an excess limitation year is the amount by which that year's section 907(a) extraction limitation exceeds the sum of—
+(d) *Excess extraction limitation.* Under section 907(f)(2)(A), the “excess extraction limitation” for an excess limitation year is the amount by which that year's section 907(a) extraction limitation exceeds the sum of— 
 
-(1) The FOGEI taxes paid or accrued, and
+(1) The FOGEI taxes paid or accrued, and 
 
-(2) The FOGEI taxes deemed paid or accrued in that year by reason of a section 907(f) carryback or carryover from preceding years of origin.
+(2) The FOGEI taxes deemed paid or accrued in that year by reason of a section 907(f) carryback or carryover from preceding years of origin. 
 
-(e) *Excess general section 904 limitation.* Under section 907(f)(2)(B), the “excess general section 904 limitation” for an excess limitation year is the amount by which that year's section 904 general limitation exceeds the sum of—
+(e) *Excess general section 904 limitation.* Under section 907(f)(2)(B), the “excess general section 904 limitation” for an excess limitation year is the amount by which that year's section 904 general limitation exceeds the sum of— 
 
-(1) The general limitation taxes paid or accrued (or deemed to have been paid under section 902 or 960) to all foreign countries and possessions of the United States during the taxable year,
+(1) The general limitation taxes paid or accrued (or deemed to have been paid under section 902 or 960) to all foreign countries and possessions of the United States during the taxable year, 
 
-(2) The general limitation taxes deemed paid or accrued in such taxable year under section 904(c) and which are attributable to taxable years preceding the unused credit year, plus
+(2) The general limitation taxes deemed paid or accrued in such taxable year under section 904(c) and which are attributable to taxable years preceding the unused credit year, plus 
 
-(3) The FOGEI taxes deemed paid or accrued in that year by reason of a section 907(f) carryover (or carryback) from preceding years of origin.
+(3) The FOGEI taxes deemed paid or accrued in that year by reason of a section 907(f) carryover (or carryback) from preceding years of origin. 
 
-(f) *Section 907(f) priority.* If a taxable year is a year of origin under both section 907(f) and section 904(c), section 907(f) applies first. See section 907(f)(3)(A).
+(f) *Section 907(f) priority.* If a taxable year is a year of origin under both section 907(f) and section 904(c), section 907(f) applies first. See section 907(f)(3)(A). 
 
-(g) *Cross-reference.* In computing the carryback and carryover of disallowed credits under section 907(f), the principles of § 1.904-2 (d), (e), and (f) apply.
+(g) *Cross-reference.* In computing the carryback and carryover of disallowed credits under section 907(f), the principles of § 1.904-2 (d), (e), and (f) apply. 
 
-(h) *Example.* The following example illustrates the application of section 907(f).
+(h) *Example.* The following example illustrates the application of section 907(f). 
 
 Example.X, a U.S. corporation organized on January 1, 1983, uses the accrual method of accounting and the calendar year as its taxable year. X's only income is income which is not subject to a separate tax limitation under section 904(d). X's preliminary U.S. tax liability indicates an effective rate of 46% for taxable years 1983-1985. X has the following foreign tax items for 1983-1985:
 
