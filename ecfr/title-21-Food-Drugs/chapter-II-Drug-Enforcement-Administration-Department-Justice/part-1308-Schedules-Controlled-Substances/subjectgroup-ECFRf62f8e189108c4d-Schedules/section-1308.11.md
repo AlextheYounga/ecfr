@@ -684,7 +684,11 @@ Some other names: TCPy
 
 (71) \[1-(5-fluoropentyl)-1H-indazol-3-yl\](naphthalen-1-yl)methanone (THJ-2201)
 
-(7024)
+(7024) 
+
+(72) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (MAB-CHMINACA; ADB-CHMINACA)
+
+(7032) 
 
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
@@ -800,9 +804,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (h) *Temporary listing of substances subject to emergency scheduling.* Any material, compound, mixture or preparation which contains any quantity of the following substances:
 
-(1) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MAB-CHMINACA; ADB-CHMINACA)
-
-(7032) 
+(1) \[Reserved\] 
 
 (2) \[Reserved\] 
 
@@ -938,7 +940,7 @@ Some trade or other names: 2-amino-1-phenyl-1-propanone, alpha-aminopropiophenon
 
 (7543) 
 
-\[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Notes:At 82 FR 20547, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
+\[39 FR 22141, June 20, 1974\] Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:At 82 FR 20547, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
 
 2\. At 82 FR 32457, July 14, 2017, § 1308.11 was amended by adding (h)(17), effective July 14, 2017, until July 15, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(17) as paragraph (h)(14).
 

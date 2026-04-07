@@ -344,7 +344,13 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Estimated annual operating cost* means the aggregate retail cost of the energy which is likely to be consumed annually, and in the case of showerheads, faucets, water closets, and urinals, the aggregate retail cost of water and wastewater treatment services likely to be incurred annually, in representative use of a consumer product, determined in accordance with Section 323 of EPCA (42 U.S.C. 6293).
 
-*External power supply* means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product.
+*External power supply* means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product. However, the term does not include a power supply circuit, driver, or device that is designed exclusively to be connected to, and power -
+
+(1) Light-emitting diodes providing illumination;
+
+(2) Organic light-emitting diodes providing illumination; or
+
+(3) Ceiling fans using direct current motors.
 
 *External power supply design family* means a set of external power supply basic models, produced by the same manufacturer, which share the same circuit layout, output power, and output cord resistance, but differ in output voltage.
 
