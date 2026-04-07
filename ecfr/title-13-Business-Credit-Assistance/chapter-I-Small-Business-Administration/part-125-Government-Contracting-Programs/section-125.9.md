@@ -94,6 +94,8 @@
 
 (g) *Evaluating the mentor-protégé relationship.* SBA will review the mentor-protégé relationship annually. SBA will ask the protégé for its assessment of how the mentor-protégé relationship is working, whether or not the protégé received the agreed upon business development assistance, and whether the protégé would recommend the mentor to be a mentor for another small business in the future. At any point in the mentor-protégé relationship where a protégé believes that a mentor has not provided the business development assistance set forth in its mentor-protégé agreement or that the quality of the assistance provided did not meet its expectations, the protégé can ask SBA to intervene on its behalf with the mentor.
 
+(1) Within 30 days of the anniversary of SBA's approval of the mentor-protégé agreement, the protégé must report to SBA for the preceding year:
+
 (i) All technical and/or management assistance provided by the mentor to the protégé;
 
 (ii) All loans to and/or equity investments made by the mentor in the protégé;
