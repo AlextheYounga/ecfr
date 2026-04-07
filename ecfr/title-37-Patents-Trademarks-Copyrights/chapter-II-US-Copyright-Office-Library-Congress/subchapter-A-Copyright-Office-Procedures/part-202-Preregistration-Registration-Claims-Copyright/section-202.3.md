@@ -76,7 +76,7 @@
 
 (ii) A group registration may be made on one application for both a database published on one date, or if unpublished, created on one date, and also for its copyrightable revisions, including updates covering a three-month period in the same calendar year. An application for group registration of automated databases under section 408(c)(1) of title 17 and this subsection shall consist of:
 
-(A) A form that best reflects the subject matter of the material in the database as set forth in paragraph (b)(2)(ii)(A) of this section, completed in accordance with the basic instructions on the form and the Special Instructions for Group Registration of an Automated Database and its Updates or Revisions, except that in the case of an application for group registration of an automated database consisting predominantly of photographs, after consultation and with the permission and under the direction of the Visual Arts Division, the application may be submitted electronically.
+(A) A form that best reflects the subject matter of the material in the database as set forth in paragraph (b)(2)(ii)(A) of this section, completed in accordance with the instructions provided by the Copyright Office on its website or in materials published by the Office. Applications for group registration of an automated database consisting predominantly of photographs may be submitted electronically only after consultation and with the permission and under the direction of the Visual Arts Division.
 
 (B) The appropriate filing fee, as required in § 201.3(c); and
 
