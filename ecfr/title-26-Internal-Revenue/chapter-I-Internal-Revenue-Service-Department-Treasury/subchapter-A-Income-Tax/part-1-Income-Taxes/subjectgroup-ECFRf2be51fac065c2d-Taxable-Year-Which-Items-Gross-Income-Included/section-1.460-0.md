@@ -1,680 +1,680 @@
 ##### § 1.460-0 Outline of regulations under section 460.
 
-This section lists the paragraphs contained in § 1.460-1 through § 1.460-6.
+This section lists the paragraphs contained in § 1.460-1 through § 1.460-6. 
 
 § 1.460-1 Long-term contracts.
 
-(a) Overview.
+(a) Overview. 
 
-(1) In general.
+(1) In general. 
 
-(2) Exceptions to required use of PCM.
+(2) Exceptions to required use of PCM. 
 
-(i) Exempt construction contract.
+(i) Exempt construction contract. 
 
-(ii) Qualified ship or residential construction contract.
+(ii) Qualified ship or residential construction contract. 
 
-(b) Terms.
+(b) Terms. 
 
-(1) Long-term contract.
+(1) Long-term contract. 
 
-(2) Contract for the manufacture, building, installation, or construction of property.
+(2) Contract for the manufacture, building, installation, or construction of property. 
 
-(i) In general.
+(i) In general. 
 
-(ii) De minimis construction activities.
+(ii) De minimis construction activities. 
 
-(3) Allocable contract costs.
+(3) Allocable contract costs. 
 
-(4) Related party.
+(4) Related party. 
 
-(5) Contracting year.
+(5) Contracting year. 
 
-(6) Completion year.
+(6) Completion year. 
 
-(7) Contract commencement date.
+(7) Contract commencement date. 
 
-(8) Incurred.
+(8) Incurred. 
 
-(9) Independent research and development expenses.
+(9) Independent research and development expenses. 
 
-(10) Long-term contract methods of accounting.
+(10) Long-term contract methods of accounting. 
 
-(c) Entering into and completing long-term contracts.
+(c) Entering into and completing long-term contracts. 
 
-(1) In general.
+(1) In general. 
 
-(2) Date contract entered into.
+(2) Date contract entered into. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Options and change orders.
+(ii) Options and change orders. 
 
-(3) Date contract completed.
+(3) Date contract completed. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Secondary items.
+(ii) Secondary items. 
 
-(iii) Subcontracts.
+(iii) Subcontracts. 
 
-(iv) Final completion and acceptance.
+(iv) Final completion and acceptance. 
 
-(A) In general.
+(A) In general. 
 
-(B) Contingent compensation.
+(B) Contingent compensation. 
 
-(C) Assembly or installation.
+(C) Assembly or installation. 
 
-(D) Disputes.
+(D) Disputes. 
 
-(d) Allocation among activities.
+(d) Allocation among activities. 
 
-(1) In general.
+(1) In general. 
 
-(2) Non-long-term contract activity.
+(2) Non-long-term contract activity. 
 
-(e) Severing and aggregating contracts.
+(e) Severing and aggregating contracts. 
 
-(1) In general.
+(1) In general. 
 
-(2) Facts and circumstances.
+(2) Facts and circumstances. 
 
-(i) Pricing.
+(i) Pricing. 
 
-(ii) Separate delivery or acceptance.
+(ii) Separate delivery or acceptance. 
 
-(iii) Reasonable businessperson.
+(iii) Reasonable businessperson. 
 
-(3) Exceptions.
+(3) Exceptions. 
 
-(i) Severance for PCM.
+(i) Severance for PCM. 
 
-(ii) Options and change orders.
+(ii) Options and change orders. 
 
-(4) Statement with return.
+(4) Statement with return. 
 
-(f) Classifying contracts.
+(f) Classifying contracts. 
 
-(1) In general.
+(1) In general. 
 
-(2) Hybrid contracts.
+(2) Hybrid contracts. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Elections.
+(ii) Elections. 
 
-(3) Method of accounting.
+(3) Method of accounting. 
 
-(4) Use of estimates.
+(4) Use of estimates. 
 
-(i) Estimating length of contract.
+(i) Estimating length of contract. 
 
-(ii) Estimating allocable contract costs.
+(ii) Estimating allocable contract costs. 
 
-(g) Special rules for activities benefitting long-term contracts of a related party.
+(g) Special rules for activities benefitting long-term contracts of a related party. 
 
-(1) Related party use of PCM.
+(1) Related party use of PCM. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Exception for components and subassemblies.
+(ii) Exception for components and subassemblies. 
 
-(2) Total contract price.
+(2) Total contract price. 
 
-(3) Completion factor.
+(3) Completion factor. 
 
-(h) Effective date.
+(h) Effective date. 
 
-(1) In general.
+(1) In general. 
 
-(2) Change in method of accounting.
+(2) Change in method of accounting. 
 
-(3) Changes made by Tax Cuts and Jobs Act (Pub. L. 115-97).
+(3) Changes made by Tax Cuts and Jobs Act (Pub. L. 115-97). 
 
-(i) \[Reserved\]
+(i) \[Reserved\] 
 
-(j) Examples.
+(j) Examples. 
 
 § 1.460-2 Long-term manufacturing contracts.
 
-(a) In general.
+(a) In general. 
 
-(b) Unique.
+(b) Unique. 
 
-(1) In general.
+(1) In general. 
 
-(2) Safe harbors.
+(2) Safe harbors. 
 
-(i) Short production period.
+(i) Short production period. 
 
-(ii) Customized item.
+(ii) Customized item. 
 
-(iii) Inventoried item.
+(iii) Inventoried item. 
 
-(c) Normal time to complete.
+(c) Normal time to complete. 
 
-(1) In general.
+(1) In general. 
 
-(2) Production by related parties.
+(2) Production by related parties. 
 
-(d) Qualified ship contracts.
+(d) Qualified ship contracts. 
 
-(e) Examples.
+(e) Examples. 
 
 § 1.460-3 Long-term construction contracts.
 
-(a) In general.
+(a) In general. 
 
-(b) Exempt construction contracts.
+(b) Exempt construction contracts. 
 
-(1) In general.
+(1) In general. 
 
-(2) Home construction contract.
+(2) Home construction contract. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Townhouses and rowhouses.
+(ii) Townhouses and rowhouses. 
 
-(iii) Common improvements.
+(iii) Common improvements. 
 
-(iv) Mixed use costs.
+(iv) Mixed use costs. 
 
-(3) Gross receipts test.
+(3) Gross receipts test. 
 
-(i) In general
+(i) In general 
 
-(ii) Application of gross receipts test
+(ii) Application of gross receipts test 
 
-(A) In general
+(A) In general 
 
-(B) Gross receipts of individuals, etc.
+(B) Gross receipts of individuals, etc. 
 
-(C) Partners and S corporation shareholders
+(C) Partners and S corporation shareholders 
 
-(D) Examples
+(D) Examples 
 
-(*1*) Example 1.
+(*1*) Example 1. 
 
-(*2*) Example 2.
+(*2*) Example 2. 
 
-(iii) Method of accounting.
+(iii) Method of accounting. 
 
-(c) Residential construction contracts.
+(c) Residential construction contracts. 
 
-(d) Applicability dates.
+(d) Applicability dates. 
 
 § 1.460-4 Methods of accounting for long-term contracts.
 
-(a) Overview.
+(a) Overview. 
 
-(b) Percentage-of-completion method.
+(b) Percentage-of-completion method. 
 
-(1) In general.
+(1) In general. 
 
-(2) Computations.
+(2) Computations. 
 
-(3) Post-completion-year income.
+(3) Post-completion-year income. 
 
-(4) Total contract price.
+(4) Total contract price. 
 
-(i) In general.
+(i) In general. 
 
-(A) Definition.
+(A) Definition. 
 
-(B) Contingent compensation.
+(B) Contingent compensation. 
 
-(C) Non-long-term contract activities.
+(C) Non-long-term contract activities. 
 
-(ii) Estimating total contract price.
+(ii) Estimating total contract price. 
 
-(5) Completion factor.
+(5) Completion factor. 
 
-(i) Allocable contract costs.
+(i) Allocable contract costs. 
 
-(ii) Cumulative allocable contract costs.
+(ii) Cumulative allocable contract costs. 
 
-(iii) Estimating total allocable contract costs.
+(iii) Estimating total allocable contract costs. 
 
-(iv) Pre-contracting-year costs.
+(iv) Pre-contracting-year costs. 
 
-(v) Post-completion-year costs.
+(v) Post-completion-year costs. 
 
-(6) 10-percent method.
+(6) 10-percent method. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Election.
+(ii) Election. 
 
-(7) Terminated contract.
+(7) Terminated contract. 
 
-(i) Reversal of income.
+(i) Reversal of income. 
 
-(ii) Adjusted basis.
+(ii) Adjusted basis. 
 
-(iii) Look-back method.
+(iii) Look-back method. 
 
-(c) Exempt contract methods.
+(c) Exempt contract methods. 
 
-(1) In general.
+(1) In general. 
 
-(2) Exempt-contract percentage-of-completion method.
+(2) Exempt-contract percentage-of-completion method. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Determination of work performed.
+(ii) Determination of work performed. 
 
-(d) Completed-contract method.
+(d) Completed-contract method. 
 
-(1) In general.
+(1) In general. 
 
-(2) Post-completion-year income and costs.
+(2) Post-completion-year income and costs. 
 
-(3) Gross contract price.
+(3) Gross contract price. 
 
-(4) Contracts with disputed claims.
+(4) Contracts with disputed claims. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Taxpayer assured of profit or loss.
+(ii) Taxpayer assured of profit or loss. 
 
-(iii) Taxpayer unable to determine profit or loss.
+(iii) Taxpayer unable to determine profit or loss. 
 
-(iv) Dispute resolved.
+(iv) Dispute resolved. 
 
-(e) Percentage-of-completion/capitalized-cost method.
+(e) Percentage-of-completion/capitalized-cost method. 
 
-(f) Alternative minimum taxable income.
+(f) Alternative minimum taxable income. 
 
-(1) In general.
+(1) In general. 
 
-(2) Election to use regular completion factors.
+(2) Election to use regular completion factors. 
 
-(g) Method of accounting.
+(g) Method of accounting. 
 
-(h) Examples.
+(h) Examples. 
 
-(i) Applicability date.
+(i) Applicability date. 
 
-(j) Consolidated groups and controlled groups.
+(j) Consolidated groups and controlled groups. 
 
-(1) Intercompany transactions.
+(1) Intercompany transactions. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Definitions and nomenclature.
+(ii) Definitions and nomenclature. 
 
-(2) Example.
+(2) Example. 
 
-(3) Effective dates.
+(3) Effective dates. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Prior law.
+(ii) Prior law. 
 
-(4) Consent to change method of accounting.
+(4) Consent to change method of accounting. 
 
-(k) Mid-contract change in taxpayer.
+(k) Mid-contract change in taxpayer. 
 
-(1) In general.
+(1) In general. 
 
-(2) Constructive completion transactions.
+(2) Constructive completion transactions. 
 
-(i) Scope.
+(i) Scope. 
 
-(ii) Old taxpayer.
+(ii) Old taxpayer. 
 
-(iii) New taxpayer.
+(iii) New taxpayer. 
 
-(iv) Special rules relating to distributions of certain contracts by a partnership.
+(iv) Special rules relating to distributions of certain contracts by a partnership. 
 
-(A) In general.
+(A) In general. 
 
-(B) Old taxpayer.
+(B) Old taxpayer. 
 
-(C) New taxpayer.
+(C) New taxpayer. 
 
-(D) Basis rules.
+(D) Basis rules. 
 
-(E) Section 751.
+(E) Section 751. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Ordering rules.
+(*2*) Ordering rules. 
 
-(3) Step-in-the-shoes transactions.
+(3) Step-in-the-shoes transactions. 
 
-(i) Scope.
+(i) Scope. 
 
-(ii) Old taxpayer.
+(ii) Old taxpayer. 
 
-(A) In general.
+(A) In general. 
 
-(B) Gain realized on the transaction.
+(B) Gain realized on the transaction. 
 
-(iii) New taxpayer.
+(iii) New taxpayer. 
 
-(A) Method of accounting.
+(A) Method of accounting. 
 
-(B) Contract price.
+(B) Contract price. 
 
-(C) Contract costs.
+(C) Contract costs. 
 
-(iv) Special rules related to certain corporate and partnership transactions.
+(iv) Special rules related to certain corporate and partnership transactions. 
 
-(A) Old taxpayer—basis adjustment.
+(A) Old taxpayer—basis adjustment. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Basis adjustment in excess of stock or partnership interest basis.
+(*2*) Basis adjustment in excess of stock or partnership interest basis. 
 
-(*3*) Subsequent dispositions of certain contracts.
+(*3*) Subsequent dispositions of certain contracts. 
 
-(B) New taxpayer.
+(B) New taxpayer. 
 
-(*1*) Contract price adjustment.
+(*1*) Contract price adjustment. 
 
-(*2*) Basis in contract.
+(*2*) Basis in contract. 
 
-(C) Definition of old taxpayer and new taxpayer for certain partnership transactions.
+(C) Definition of old taxpayer and new taxpayer for certain partnership transactions. 
 
-(D) Exceptions to step-in-the-shoes rules for S corporations.
+(D) Exceptions to step-in-the-shoes rules for S corporations. 
 
-(v) Special rules relating to certain partnership transactions.
+(v) Special rules relating to certain partnership transactions. 
 
-(A) Section 704(c).
+(A) Section 704(c). 
 
-(*1*) Contributions of contracts.
+(*1*) Contributions of contracts. 
 
-(*2*) Revaluations of partnership property.
+(*2*) Revaluations of partnership property. 
 
-(*3*) Allocation methods.
+(*3*) Allocation methods. 
 
-(B) Basis adjustments under sections 743(b) and 734(b).
+(B) Basis adjustments under sections 743(b) and 734(b). 
 
-(C) Cross reference.
+(C) Cross reference. 
 
-(D) Exceptions to step-in-the-shoes rules.
+(D) Exceptions to step-in-the-shoes rules. 
 
-(4) Anti-abuse rule.
+(4) Anti-abuse rule. 
 
-(5) Examples.
+(5) Examples. 
 
-(6) Effective date.
+(6) Effective date. 
 
 § 1.460-5 Cost allocation rules.
 
-(a) Overview.
+(a) Overview. 
 
-(b) Cost allocation method for contracts subject to PCM.
+(b) Cost allocation method for contracts subject to PCM. 
 
-(1) In general.
+(1) In general. 
 
-(2) Special rules.
+(2) Special rules. 
 
-(i) Direct material costs.
+(i) Direct material costs. 
 
-(ii) Components and subassemblies.
+(ii) Components and subassemblies. 
 
-(iii) Simplified production methods.
+(iii) Simplified production methods. 
 
-(iv) Costs identified under cost-plus long-term contracts and federal long-term contracts.
+(iv) Costs identified under cost-plus long-term contracts and federal long-term contracts. 
 
-(v) Interest.
+(v) Interest. 
 
-(A) In general.
+(A) In general. 
 
-(B) Production period.
+(B) Production period. 
 
-(C) Application of section 263A(f).
+(C) Application of section 263A(f). 
 
-(vi) Research and experimental expenses.
+(vi) Research and experimental expenses. 
 
-(vii) Service costs.
+(vii) Service costs. 
 
-(A) Simplified service cost method.
+(A) Simplified service cost method. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Example.
+(*2*) Example. 
 
-(B) Jobsite costs.
+(B) Jobsite costs. 
 
-(C) Limitation on other reasonable cost allocation methods.
+(C) Limitation on other reasonable cost allocation methods. 
 
-(c) Simplified cost-to-cost method for contracts subject to the PCM.
+(c) Simplified cost-to-cost method for contracts subject to the PCM. 
 
-(1) In general.
+(1) In general. 
 
-(2) Election.
+(2) Election. 
 
-(d) Cost allocation rules for exempt construction contracts reported using CCM.
+(d) Cost allocation rules for exempt construction contracts reported using CCM. 
 
-(1) In general.
+(1) In general. 
 
-(2) Indirect costs.
+(2) Indirect costs. 
 
-(i) Indirect costs allocable to exempt construction contracts.
+(i) Indirect costs allocable to exempt construction contracts. 
 
-(ii) Indirect costs not allocable to exempt construction contracts.
+(ii) Indirect costs not allocable to exempt construction contracts. 
 
-(3) Large homebuilders.
+(3) Large homebuilders. 
 
-(e) Cost allocation rules for contracts subject to the PCCM.
+(e) Cost allocation rules for contracts subject to the PCCM. 
 
-(f) Special rules applicable to costs allocated under this section.
+(f) Special rules applicable to costs allocated under this section. 
 
-(1) Nondeductible costs.
+(1) Nondeductible costs. 
 
-(2) Costs incurred for non-long-term contract activities.
+(2) Costs incurred for non-long-term contract activities. 
 
-(g) Method of accounting.
+(g) Method of accounting. 
 
 § 1.460-6 Look-back method.
 
-(a) In general.
+(a) In general. 
 
-(1) Introduction.
+(1) Introduction. 
 
-(2) Overview.
+(2) Overview. 
 
-(b) Scope of look-back method.
+(b) Scope of look-back method. 
 
-(1) In general.
+(1) In general. 
 
-(2) Exceptions from section 460.
+(2) Exceptions from section 460. 
 
-(3) De minimis exception.
+(3) De minimis exception. 
 
-(4) Alternative minimum tax.
+(4) Alternative minimum tax. 
 
-(5) Effective date.
+(5) Effective date. 
 
-(c) Operation of the look-back method.
+(c) Operation of the look-back method. 
 
-(1) Overview.
+(1) Overview. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Post-completion revenue and expenses.
+(ii) Post-completion revenue and expenses. 
 
-(A) In general.
+(A) In general. 
 
-(B) Completion.
+(B) Completion. 
 
-(C) Discounting of contract price and contract cost adjustments subsequent to completion; election not to discount.
+(C) Discounting of contract price and contract cost adjustments subsequent to completion; election not to discount. 
 
-(*1*) General rule.
+(*1*) General rule. 
 
-(*2*) Election not to discount.
+(*2*) Election not to discount. 
 
-(*3*) Year-end discounting convention.
+(*3*) Year-end discounting convention. 
 
-(D) Revenue acceleration rule.
+(D) Revenue acceleration rule. 
 
-(2) Look-back Step One.
+(2) Look-back Step One. 
 
-(i) Hypothetical reallocation of income among prior tax years.
+(i) Hypothetical reallocation of income among prior tax years. 
 
-(ii) Treatment of estimated future costs in year of completion.
+(ii) Treatment of estimated future costs in year of completion. 
 
-(iii) Interim reestimates not considered.
+(iii) Interim reestimates not considered. 
 
-(iv) Tax years in which income is affected.
+(iv) Tax years in which income is affected. 
 
-(v) Costs incurred prior to contract execution; 10-percent method.
+(v) Costs incurred prior to contract execution; 10-percent method. 
 
-(A) General rule.
+(A) General rule. 
 
-(B) Example.
+(B) Example. 
 
-(vi) Amount treated as contract price.
+(vi) Amount treated as contract price. 
 
-(A) General rule.
+(A) General rule. 
 
-(B) Contingencies.
+(B) Contingencies. 
 
-(C) Change orders.
+(C) Change orders. 
 
-(3) Look-back Step Two: Computation of hypothetical overpayment or underpayment of tax.
+(3) Look-back Step Two: Computation of hypothetical overpayment or underpayment of tax. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Redetermination of tax liability.
+(ii) Redetermination of tax liability. 
 
-(iii) Hypothetical underpayment or overpayment.
+(iii) Hypothetical underpayment or overpayment. 
 
-(iv) Cumulative determination of tax liability.
+(iv) Cumulative determination of tax liability. 
 
-(v) Years affected by look-back only.
+(v) Years affected by look-back only. 
 
-(vi) Definition of tax liability.
+(vi) Definition of tax liability. 
 
-(4) Look-back Step Three: Calculation of interest on underpayment or overpayment.
+(4) Look-back Step Three: Calculation of interest on underpayment or overpayment. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Changes in the amount of a loss or credit carryback or carryover.
+(ii) Changes in the amount of a loss or credit carryback or carryover. 
 
-(iii) Changes in the amount of tax liability that generated a subsequent refund.
+(iii) Changes in the amount of tax liability that generated a subsequent refund. 
 
-(d) Simplified marginal impact method.
+(d) Simplified marginal impact method. 
 
-(1) Introduction.
+(1) Introduction. 
 
-(2) Operation.
+(2) Operation. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Applicable tax rate.
+(ii) Applicable tax rate. 
 
-(iii) Overpayment ceiling.
+(iii) Overpayment ceiling. 
 
-(iv) Example.
+(iv) Example. 
 
-(3) Anti-abuse rule.
+(3) Anti-abuse rule. 
 
-(4) Application.
+(4) Application. 
 
-(i) Required use by certain pass-through entities.
+(i) Required use by certain pass-through entities. 
 
-(A) General rule.
+(A) General rule. 
 
-(B) Closely held.
+(B) Closely held. 
 
-(C) Examples.
+(C) Examples. 
 
-(D) Domestic contracts.
+(D) Domestic contracts. 
 
-(*1*) General rule.
+(*1*) General rule. 
 
-(*2*) Portion of contract income sourced.
+(*2*) Portion of contract income sourced. 
 
-(E) Application to foreign contracts.
+(E) Application to foreign contracts. 
 
-(F) Effective date.
+(F) Effective date. 
 
-(ii) Elective use.
+(ii) Elective use. 
 
-(A) General rule.
+(A) General rule. 
 
-(B) Election requirements.
+(B) Election requirements. 
 
-(C) Consolidated group consistency rule.
+(C) Consolidated group consistency rule. 
 
-(e) Delayed reapplication method.
+(e) Delayed reapplication method. 
 
-(1) In general.
+(1) In general. 
 
-(2) Time and manner of making election.
+(2) Time and manner of making election. 
 
-(3) Examples.
+(3) Examples. 
 
-(f) Look-back reporting.
+(f) Look-back reporting. 
 
-(1) Procedure.
+(1) Procedure. 
 
-(2) Treatment of interest on return.
+(2) Treatment of interest on return. 
 
-(i) General rule.
+(i) General rule. 
 
-(ii) Timing of look-back interest.
+(ii) Timing of look-back interest. 
 
-(3) Statutes of limitations and compounding of interest on look-back interest.
+(3) Statutes of limitations and compounding of interest on look-back interest. 
 
-(g) Mid-contract change in taxpayer.
+(g) Mid-contract change in taxpayer. 
 
-(1) In general.
+(1) In general. 
 
-(2) Constructive completion transactions.
+(2) Constructive completion transactions. 
 
-(3) Step-in-the-shoes transactions.
+(3) Step-in-the-shoes transactions. 
 
-(i) General rules.
+(i) General rules. 
 
-(ii) Application of look-back method to pre-transaction period.
+(ii) Application of look-back method to pre-transaction period. 
 
-(A) Contract price
+(A) Contract price 
 
-(B) Method.
+(B) Method. 
 
-(C) Interest accrual period.
+(C) Interest accrual period. 
 
-(D) Information old taxpayer must provide.
+(D) Information old taxpayer must provide. 
 
-(*1*) In general.
+(*1*) In general. 
 
-(*2*) Special rules for certain pass-through entity transactions.
+(*2*) Special rules for certain pass-through entity transactions. 
 
-(iii) Application of look-back method to post-transaction years.
+(iii) Application of look-back method to post-transaction years. 
 
-(iv) S corporation elections.
+(iv) S corporation elections. 
 
-(4) Effective date.
+(4) Effective date. 
 
-(h) Examples.
+(h) Examples. 
 
-(1) Overview.
+(1) Overview. 
 
-(2) Step One.
+(2) Step One. 
 
-(3) Step Two.
+(3) Step Two. 
 
-(4) Post-completion adjustments.
+(4) Post-completion adjustments. 
 
-(5) Alternative minimum tax.
+(5) Alternative minimum tax. 
 
-(6) Credit carryovers.
+(6) Credit carryovers. 
 
-(7) Net operating losses.
+(7) Net operating losses. 
 
-(8) Alternative minimum tax credit.
+(8) Alternative minimum tax credit. 
 
-(9) Period for interest.
+(9) Period for interest. 
 
-(i) \[Reserved\]
+(i) \[Reserved\] 
 
-(j) Election not to apply look-back method in de minimis cases.
+(j) Election not to apply look-back method in de minimis cases. 
 
 (k) Applicability date.
 

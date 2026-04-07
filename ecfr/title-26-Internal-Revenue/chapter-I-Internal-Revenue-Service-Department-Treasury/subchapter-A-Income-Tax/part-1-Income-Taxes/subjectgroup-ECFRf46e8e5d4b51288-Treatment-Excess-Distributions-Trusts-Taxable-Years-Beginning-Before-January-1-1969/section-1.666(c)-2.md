@@ -1,6 +1,6 @@
 ##### § 1.666(c)-2 Illustration of the provisions of section 666.
 
-The application of the provisions of §§ 1.666(a)-1, 1.666(b)-1, and 1.666(c)-1 may be illustrated by the following examples:
+The application of the provisions of §§ 1.666(a)-1, 1.666(b)-1, and 1.666(c)-1 may be illustrated by the following examples: 
 
 Example 1.(a) A trust makes accumulation distributions as follows: 1959$7,000 196025,000For 1954 through 1958, the undistributed portion of distributable net income taxes imposed on the trust, and undistributed net income are as follows:
 
@@ -14,7 +14,7 @@ Example 1.(a) A trust makes accumulation distributions as follows: 1959$7,000 19
 
 (b) Since the entire amount of the accumulation distribution for 1959 ($7,000), determined without regard to the accumulation distribution for 1960, is less than the undistributed net income for 1958 ($8,700), an additional amount of $2,736 (7,000/ 8,700 × $3,400) is likewise deemed distributed under section 666(c).
 
-(c) In allocating the accumulation distribution for 1960, the undistributed net income for 1958 will take into account the accumulation distribution for 1959, and the additional amount of taxes imposed on the trust for 1958 deemed distributed. The undistributed net income for 1958 will then be $1,906; and the taxes imposed on the trust for 1958 will then be $458, determined as follows:
+(c) In allocating the accumulation distribution for 1960, the undistributed net income for 1958 will take into account the accumulation distribution for 1959, and the additional amount of taxes imposed on the trust for 1958 deemed distributed. The undistributed net income for 1958 will then be $1,906; and the taxes imposed on the trust for 1958 will then be $458, determined as follows: 
 
 | Undistributed portion of distributable net income as of the close of 1958           | $12,100 |  |
 | Less:                                                                               |         |  |
@@ -41,7 +41,7 @@ Example 1.(a) A trust makes accumulation distributions as follows: 1959$7,000 19
 
 (e) No portion of the 1960 accumulation distribution is deemed made on the last day of 1954 because, as to 1960, 1954 is the sixth preceding taxable year.Example 2.(a) Under the terms of a trust instrument, the trustee has discretion to accumulate or distribute the income to X and to invade corpus for the benefit of X. The entire income of the trust is from royalties. Both X and the trust report on the calendar year basis. All of the income for 1954 was accumulated. The distributable net income of the trust for the taxable year 1954 is $20,100 and the income taxes paid by the trust for 1954 with respect to its distributable net income are $7,260. All of the income for 1955 and 1956 was distributed and in addition the trustee made accumulation distributions within the meaning of section 665(b) of $6,420 for each year.
 
-(b) The undistributed net income of the trust determined under section 665(a) as of the close of 1954, is $12,840, computed as follows:
+(b) The undistributed net income of the trust determined under section 665(a) as of the close of 1954, is $12,840, computed as follows: 
 
 | Distributable net income                         | $20,100 |
 | Less: Taxes imposed on the trust                 | 7,260   |

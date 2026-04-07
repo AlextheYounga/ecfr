@@ -1,92 +1,92 @@
 ##### § 1.41-0A Table of contents.
 
-This section lists the paragraphs contained in §§ 1.41-0A, 1.41-3A, 1.41-4A and 1.41-5A.
+This section lists the paragraphs contained in §§ 1.41-0A, 1.41-3A, 1.41-4A and 1.41-5A. 
 
 § 1.41-0A Table of contents. § 1.41-3A Base period research expense.
 
-(a) Number of years in base period.
+(a) Number of years in base period. 
 
-(b) New taxpayers.
+(b) New taxpayers. 
 
-(c) Definition of base period research expenses.
+(c) Definition of base period research expenses. 
 
-(d) Special rules for short taxable years.
+(d) Special rules for short taxable years. 
 
-(1) Short determination year.
+(1) Short determination year. 
 
-(2) Short base period year.
+(2) Short base period year. 
 
-(3) Years overlapping the effective dates of section 41 (section 44F).
+(3) Years overlapping the effective dates of section 41 (section 44F). 
 
-(i) Determination years.
+(i) Determination years. 
 
-(ii) Base period years.
+(ii) Base period years. 
 
-(4) Number of months in a short taxable year.
+(4) Number of months in a short taxable year. 
 
-(e) Examples.
+(e) Examples. 
 
 § 1.41-4A Qualified research for taxable years beginning before January 1, 1986.
 
-(a) General rule.
+(a) General rule. 
 
-(b) Activities outside the United States.
+(b) Activities outside the United States. 
 
-(1) In-house research.
+(1) In-house research. 
 
-(2) Contract research.
+(2) Contract research. 
 
-(c) Social sciences or humanities.
+(c) Social sciences or humanities. 
 
-(d) Research funded by any grant, contract, or otherwise.
+(d) Research funded by any grant, contract, or otherwise. 
 
-(1) In general.
+(1) In general. 
 
-(2) Research in which taxpayer retains no rights.
+(2) Research in which taxpayer retains no rights. 
 
-(3) Research in which the taxpayer retains substantial rights.
+(3) Research in which the taxpayer retains substantial rights. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Pro rata allocation.
+(ii) Pro rata allocation. 
 
-(iii) Project-by-project determination.
+(iii) Project-by-project determination. 
 
-(4) Independent research and development under the Federal Acquisition Regulations System and similar provisions.
+(4) Independent research and development under the Federal Acquisition Regulations System and similar provisions. 
 
-(5) Funding determinable only in subsequent taxable year.
+(5) Funding determinable only in subsequent taxable year. 
 
-(6) Examples.
+(6) Examples. 
 
 § 1.41-5A Basic research for taxable years beginning before January 1, 1987.
 
-(a) In general.
+(a) In general. 
 
-(b) Trade or business requirement.
+(b) Trade or business requirement. 
 
-(c) Prepaid amounts.
+(c) Prepaid amounts. 
 
-(1) In general.
+(1) In general. 
 
-(2) Transfers of property.
+(2) Transfers of property. 
 
-(d) Written research agreement.
+(d) Written research agreement. 
 
-(1) In general.
+(1) In general. 
 
-(2) Agreement between a corporation and a qualified organization after June 30, 1983.
+(2) Agreement between a corporation and a qualified organization after June 30, 1983. 
 
-(i) In general.
+(i) In general. 
 
-(ii) Transfers of property.
+(ii) Transfers of property. 
 
-(3) Agreement between a qualified fund and a qualified educational organization after June 30, 1983.
+(3) Agreement between a qualified fund and a qualified educational organization after June 30, 1983. 
 
-(e) Exclusions.
+(e) Exclusions. 
 
-(1) Research conducted outside the United States.
+(1) Research conducted outside the United States. 
 
-(2) Research in the social sciences or humanities.
+(2) Research in the social sciences or humanities. 
 
 (f) Procedure for making an election to be treated as a qualified fund.
 

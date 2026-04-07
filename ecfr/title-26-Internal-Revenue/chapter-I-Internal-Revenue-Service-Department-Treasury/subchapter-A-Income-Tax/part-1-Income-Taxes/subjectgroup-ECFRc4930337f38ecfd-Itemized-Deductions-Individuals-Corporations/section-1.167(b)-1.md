@@ -1,8 +1,8 @@
 ##### § 1.167(b)-1 Straight line method.
 
-(a) *In general.* Under the straight line method the cost or other basis of the property less its estimated salvage value is deductible in equal annual amounts over the period of the estimated useful life of the property. The allowance for depreciation for the taxable year is determined by dividing the adjusted basis of the property at the beginning of the taxable year, less salvage value, by the remaining useful life of the property at such time. For convenience, the allowance so determined may be reduced to a percentage or fraction. The straight line method may be used in determining a reasonable allowance for depreciation for any property which is subject to depreciation under section 167 and it shall be used in all cases where the taxpayer has not adopted a different acceptable method with respect to such property.
+(a) *In general.* Under the straight line method the cost or other basis of the property less its estimated salvage value is deductible in equal annual amounts over the period of the estimated useful life of the property. The allowance for depreciation for the taxable year is determined by dividing the adjusted basis of the property at the beginning of the taxable year, less salvage value, by the remaining useful life of the property at such time. For convenience, the allowance so determined may be reduced to a percentage or fraction. The straight line method may be used in determining a reasonable allowance for depreciation for any property which is subject to depreciation under section 167 and it shall be used in all cases where the taxpayer has not adopted a different acceptable method with respect to such property. 
 
-(b) *Illustrations.* The straight line method is illustrated by the following examples:
+(b) *Illustrations.* The straight line method is illustrated by the following examples: 
 
 Example 1.Under the straight line method items may be depreciated separately:
 
@@ -23,19 +23,19 @@ Example 2.In group, classified, or composite accounting, a number of assets with
 
 Average rate is 13.33 percent ($2,667 ÷ $20,000) unadjusted for salvage. Assuming the estimated salvage value is 10 percent of the cost or other basis, the rate adjusted for salvage will be 13.33 percent minus 10 percent of 13.33 percent (13.33%−1.33%), or 12 percent.Example 3.The use of the straight line method for group, classified, or composite accounts is illustrated by the following example: A taxpayer filing his returns on a calendar year basis maintains an asset account for which a group rate of 20 percent has been determined, before adjustment for salvage. Estimated salvage is determined to be 6 2/3 percent, resulting in an adjusted rate of 18.67 percent. During the years illustrated, the initial investment, additions, retirements, and salvage recoveries, which were determined not to change the composition of the group sufficiently to require a change in rate, were assumed to have been made as follows:
 
-1954—Initial investment of $12,000.
+1954—Initial investment of $12,000. 
 
-1957—Retirement $2,000, salvage realized $200.
+1957—Retirement $2,000, salvage realized $200. 
 
-1958—Retirement $2,000, salvage realized $200.
+1958—Retirement $2,000, salvage realized $200. 
 
-1959—Retirement $4,000, salvage realized $400.
+1959—Retirement $4,000, salvage realized $400. 
 
-1959—Additions $10,000.
+1959—Additions $10,000. 
 
-1960—Retirement $2,000, no salvage realized.
+1960—Retirement $2,000, no salvage realized. 
 
-1961—Retirement $2,000, no salvage realized.
+1961—Retirement $2,000, no salvage realized. 
 
 Depreciable Asset Account and Depreciation Computation on Average Balances
 | Year | Asset balance Jan. 1 | Current additions | Current retirements | Asset balance Dec. 31 | Average balance | Rate (percent) | Allowable depreciation |

@@ -1,14 +1,14 @@
 ##### § 1.663(c)-5 Examples.
 
-Section 663(c) may be illustrated by the following examples:
+Section 663(c) may be illustrated by the following examples: 
 
 Example 1.(i) A single trust was created in 1940 for the benefit of A, B, and C, who were aged 6, 4, and 2, respectively. Under the terms of the instrument, the trust income is required to be divided into three equal shares. Each beneficiary's share of the income is to be accumulated until he becomes 21 years of age. When a beneficiary reaches the age of 21, his share of the income may thereafter be either accumulated or distributed to him in the discretion of the trustee. The trustee also has discretion to invade corpus for the benefit of any beneficiary to the extent of his share of the trust estate, and the trust instrument requires that the beneficiary's right to future income and corpus will be proportionately reduced. When each beneficiary reaches 35 years of age, his share of the trust estate shall be paid over to him. The interest in the trust estate of any beneficiary dying without issue and before he has attained the age of 35 is to be equally divided between the other beneficiaries of the trust. All expenses of the trust are allocable to income under the terms of the trust instrument.
 
-(ii) No distributions of income or corpus were made by the trustee prior to 1955, although A became 21 years of age on June 30, 1954. During the taxable year of 1955, the trust has income from royalties of $20,000 and expenses of $5,000. The trustee in his discretion distributes $12,000 to A. Both A and the trust report on the calendar year basis.
+(ii) No distributions of income or corpus were made by the trustee prior to 1955, although A became 21 years of age on June 30, 1954. During the taxable year of 1955, the trust has income from royalties of $20,000 and expenses of $5,000. The trustee in his discretion distributes $12,000 to A. Both A and the trust report on the calendar year basis. 
 
-(iii) The trust qualifies for the separate share treatment under section 663(c) and the distributable net income must be divided into three parts for the purpose of determining the amount deductible by the trust under section 661 and the amount includible in A's gross income under section 662.
+(iii) The trust qualifies for the separate share treatment under section 663(c) and the distributable net income must be divided into three parts for the purpose of determining the amount deductible by the trust under section 661 and the amount includible in A's gross income under section 662. 
 
-(iv) The distributable net income of each share of the trust is $5,000 ($6,667 less $1,667). Since the amount ($12,000) distributed to A during 1955 exceeds the distributable net income of $5,000 allocated to his share, the trust is deemed to have distributed to him $5,000 of 1955 income and $7,000 of amounts other than 1955 income. Accordingly, the trust is allowed a deduction of $5,000 under section 661. The taxable income of the trust for 1955 is $9,900, computed as follows:
+(iv) The distributable net income of each share of the trust is $5,000 ($6,667 less $1,667). Since the amount ($12,000) distributed to A during 1955 exceeds the distributable net income of $5,000 allocated to his share, the trust is deemed to have distributed to him $5,000 of 1955 income and $7,000 of amounts other than 1955 income. Accordingly, the trust is allowed a deduction of $5,000 under section 661. The taxable income of the trust for 1955 is $9,900, computed as follows: 
 
 | Royalties          | $20,000 |        |
 | Deductions:        |         |        |

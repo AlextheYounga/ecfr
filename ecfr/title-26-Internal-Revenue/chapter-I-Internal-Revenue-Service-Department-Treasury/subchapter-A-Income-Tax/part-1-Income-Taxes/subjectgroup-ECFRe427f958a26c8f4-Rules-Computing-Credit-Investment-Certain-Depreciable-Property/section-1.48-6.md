@@ -1,38 +1,38 @@
 ##### § 1.48-6 Estates and trusts.
 
-(a) *In general.* (1) In the case of an estate or trust, the basis of “new section 38 property” and the cost of “used section 38 property” placed in service during the taxable year shall be apportioned among the estate or trust and its beneficiaries on the basis of the income of such estate or trust allocable to each. Section 38 property shall not (by reason of such apportionment) lose its character as new section 38 property or used section 38 property, as the case may be. The estimated useful life of such property in the hands of a beneficiary shall be deemed to be the estimated useful life of such property in the hands of the estate or trust. The bases of all new section 38 properties which have a useful life falling within a particular useful life category shall be aggregated; likewise, the cost of all used section 38 properties which have a useful life falling within a particular useful life category shall be aggregated. The total bases of new section 38 properties within each useful life category and the total cost of used section 38 properties within each useful life category shall be apportioned separately. The useful life categories are:
+(a) *In general.* (1) In the case of an estate or trust, the basis of “new section 38 property” and the cost of “used section 38 property” placed in service during the taxable year shall be apportioned among the estate or trust and its beneficiaries on the basis of the income of such estate or trust allocable to each. Section 38 property shall not (by reason of such apportionment) lose its character as new section 38 property or used section 38 property, as the case may be. The estimated useful life of such property in the hands of a beneficiary shall be deemed to be the estimated useful life of such property in the hands of the estate or trust. The bases of all new section 38 properties which have a useful life falling within a particular useful life category shall be aggregated; likewise, the cost of all used section 38 properties which have a useful life falling within a particular useful life category shall be aggregated. The total bases of new section 38 properties within each useful life category and the total cost of used section 38 properties within each useful life category shall be apportioned separately. The useful life categories are: 
 
-(i) 3 years or more but less than 5 years; (ii) 5 years or more but less than 7 years; and (iii) 7 years or more. There shall be apportioned to the estate or trust for its taxable year, and to each beneficiary of such estate or trust for his taxable year in which or with which the taxable year of such estate or trust ends, his share (as determined under paragraph (b) of this section) of the total bases of new section 38 properties within each useful life category, and his share of the total cost of used section 38 properties within each useful life category.
+(i) 3 years or more but less than 5 years; (ii) 5 years or more but less than 7 years; and (iii) 7 years or more. There shall be apportioned to the estate or trust for its taxable year, and to each beneficiary of such estate or trust for his taxable year in which or with which the taxable year of such estate or trust ends, his share (as determined under paragraph (b) of this section) of the total bases of new section 38 properties within each useful life category, and his share of the total cost of used section 38 properties within each useful life category. 
 
-(2) The total cost of used section 38 property that may be apportioned among an estate or trust and its beneficiaries for any taxable year of such estate or trust shall not exceed $50,000. If the total cost of used section 38 property placed in service during the taxable year by the estate or trust exceeds $50,000, such estate or trust must select, under paragraph (c)(4) of § 1.48-3, the used section 38 property the cost of which is to be apportioned among such estate or trust and its beneficiaries.
+(2) The total cost of used section 38 property that may be apportioned among an estate or trust and its beneficiaries for any taxable year of such estate or trust shall not exceed $50,000. If the total cost of used section 38 property placed in service during the taxable year by the estate or trust exceeds $50,000, such estate or trust must select, under paragraph (c)(4) of § 1.48-3, the used section 38 property the cost of which is to be apportioned among such estate or trust and its beneficiaries. 
 
-(3) A beneficiary to whom the basis (or cost) of section 38 property is apportioned shall, for purposes of the credit allowed by section 38, be treated as the taxpayer with respect to such property. Thus, the total cost of used section 38 property apportioned to him by the estate or trust must be taken into account as cost of used section 38 property in determining whether the $50,000 limitation on the cost of used property which may be taken into account by the beneficiary in computing qualified investment for any taxable year is exceeded. If a beneficiary takes into account in determining his qualified investment any portion of the basis (or cost) of section 38 property placed in service by an estate or trust and if such property subsequently is disposed of or otherwise ceases to be section 38 property in the hands of estate or trust, such beneficiary shall be subject to the provisions of section 47. See § 1.47-5.
+(3) A beneficiary to whom the basis (or cost) of section 38 property is apportioned shall, for purposes of the credit allowed by section 38, be treated as the taxpayer with respect to such property. Thus, the total cost of used section 38 property apportioned to him by the estate or trust must be taken into account as cost of used section 38 property in determining whether the $50,000 limitation on the cost of used property which may be taken into account by the beneficiary in computing qualified investment for any taxable year is exceeded. If a beneficiary takes into account in determining his qualified investment any portion of the basis (or cost) of section 38 property placed in service by an estate or trust and if such property subsequently is disposed of or otherwise ceases to be section 38 property in the hands of estate or trust, such beneficiary shall be subject to the provisions of section 47. See § 1.47-5. 
 
-(4) For purposes of this section, the term “beneficiary” includes heir, legatee, and devisee.
+(4) For purposes of this section, the term “beneficiary” includes heir, legatee, and devisee. 
 
-(5) If during the taxable year of an estate or trust a beneficiary's interest in the income of such estate or trust terminates, the basis (or cost) of section 38 property placed in service by such estate or trust after such termination shall not be apportioned to such beneficiary.
+(5) If during the taxable year of an estate or trust a beneficiary's interest in the income of such estate or trust terminates, the basis (or cost) of section 38 property placed in service by such estate or trust after such termination shall not be apportioned to such beneficiary. 
 
-(b) *Share.* A trust's, estate's, or beneficiary's share of the total bases of new section 38 properties, and the total cost of used section 38 properties, within a useful life category shall be—
+(b) *Share.* A trust's, estate's, or beneficiary's share of the total bases of new section 38 properties, and the total cost of used section 38 properties, within a useful life category shall be— 
 
-(1) The total bases of new (or the total cost of used) section 38 properties which have a useful life falling within such useful life category placed in service in the taxable year of the estate or trust, multiplied by
+(1) The total bases of new (or the total cost of used) section 38 properties which have a useful life falling within such useful life category placed in service in the taxable year of the estate or trust, multiplied by 
 
-(2) The amount of income allocable to such estate or trust or to such beneficiary for such taxable year, divided by
+(2) The amount of income allocable to such estate or trust or to such beneficiary for such taxable year, divided by 
 
-(3) The sum of the amounts of income allocable to such estate or trust and all its beneficiaries taken into account under subparagraph (2) of this paragraph.
+(3) The sum of the amounts of income allocable to such estate or trust and all its beneficiaries taken into account under subparagraph (2) of this paragraph. 
 
-(c) *Limitation based on amount of tax.* In the case of an estate or trust, the $25,000 amount specified in section 46(a)(2), relating to limitation based on amount of tax, shall be reduced for the taxable year to—
+(c) *Limitation based on amount of tax.* In the case of an estate or trust, the $25,000 amount specified in section 46(a)(2), relating to limitation based on amount of tax, shall be reduced for the taxable year to— 
 
-(1) $25,000, multiplied by
+(1) $25,000, multiplied by 
 
-(2) The qualified investment with respect to the total bases of new section 38 properties plus the qualified investment with respect to the total cost of used section 38 properties, apportioned to such estate or trust under paragraph (a) of this section, divided by
+(2) The qualified investment with respect to the total bases of new section 38 properties plus the qualified investment with respect to the total cost of used section 38 properties, apportioned to such estate or trust under paragraph (a) of this section, divided by 
 
-(3) The qualified investment with respect to the total bases of all new section 38 properties plus the qualified investment with respect to the total cost of all used section 38 properties, apportioned among such estate or trust and its beneficiaries.
+(3) The qualified investment with respect to the total bases of all new section 38 properties plus the qualified investment with respect to the total cost of all used section 38 properties, apportioned among such estate or trust and its beneficiaries. 
 
 For purposes of subparagraph (3) of this paragraph, cost of used section 38 property shall not be considered as apportioned to any beneficiary to the extent that such cost is not taken into account by such beneficiary in computing qualified investment in used section 38 property.
 
-(d) *Summary statement.* An estate or trust shall attach to its return a statement showing the apportionment to such estate or trust and to each beneficiary of the total bases of new, and the total cost of used, section 38 properties within each useful life category.
+(d) *Summary statement.* An estate or trust shall attach to its return a statement showing the apportionment to such estate or trust and to each beneficiary of the total bases of new, and the total cost of used, section 38 properties within each useful life category. 
 
-(e) *Example.* This section may be illustrated by the following example:
+(e) *Example.* This section may be illustrated by the following example: 
 
 Example.1 XYZ Trust, which makes its return on the basis of the calendar year, acquires and places in service on June 1, 1962, three new assets which qualify as new section 38 property and three used assets which qualify as used section 38 property. The basis of the new, and the cost of the used, section 38 property and the estimated useful life of each property are as follows:
 
@@ -59,23 +59,23 @@ Assume that beneficiary A placed in service during his taxable year 1962 new sec
 | Basis (or cost)   | Applicable percentage | Qualified investment |
 | ----------------- | --------------------- | -------------------- |
 | **XYZ Trust**     |                       |                      |
-| $30,000 (new)     | 331⁄3                 | $10,000              |
+| $30,000 (new)     | 331/3                 | $10,000              |
 | $15,000 (new)     | 100                   | 15,000               |
-| $12,000 (used)    | 662⁄3                 | 8,000                |
+| $12,000 (used)    | 662/3                 | 8,000                |
 | $6,000 (used)     | 100                   | 6,000                |
 | Total             |                       | 39,000               |
 | **Beneficiary A** |                       |                      |
-| $18,000 (new)     | 331⁄3                 | $6,000               |
+| $18,000 (new)     | 331/3                 | $6,000               |
 | $9,000 (new)      | 100                   | 9,000                |
-| $7,200 (used)     | 662⁄3                 | 4,800                |
+| $7,200 (used)     | 662/3                 | 4,800                |
 | $3,600 (used)     | 100                   | 3,600                |
 |                   |                       | 23,400               |
 | $10,000 (new)     | 100                   | 10,000               |
 | Total             |                       | 33,400               |
 | **Beneficiary B** |                       |                      |
-| $12,000 (new)     | 331⁄3                 | $4,000               |
+| $12,000 (new)     | 331/3                 | $4,000               |
 | $6,000 (new)      | 100                   | 6,000                |
-| $4,800 (used)     | 662⁄3                 | 3,200                |
+| $4,800 (used)     | 662/3                 | 3,200                |
 | $2,400 (used)     | 100                   | 2,400                |
 | Total             |                       | 15,600               |
 
