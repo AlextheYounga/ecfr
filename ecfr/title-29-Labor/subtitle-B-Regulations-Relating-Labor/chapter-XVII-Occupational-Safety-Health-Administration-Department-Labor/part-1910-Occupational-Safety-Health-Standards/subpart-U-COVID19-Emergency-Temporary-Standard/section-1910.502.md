@@ -98,7 +98,7 @@ Employers are encouraged to follow public health guidance from the Centers for D
 
 *Screen* means asking questions to determine whether a person is COVID-19 positive or has symptoms of COVID-19.
 
-*Surgical mask* means a mask that covers the user's nose and mouth and provides a physical barrier to fluids and particulate materials. The mask meets certain fluid barrier protection standards and Class I or Class II flammability tests. Surgical masks are generally regulated by FDA as Class II devices under 21 CFR 878.4040 - Surgical apparel.
+*Surgical mask* means a mask that covers the user's nose and mouth and provides a physical barrier to fluids and particulate materials. The mask meets certain fluid barrier protection standards and Class I or Class II flammability tests. Surgical masks are generally regulated by FDA as Class II devices under 21 CFR 878.4040—Surgical apparel.
 
 *Vaccine* means a biological product authorized or licensed by the FDA to prevent or provide protection against COVID-19, whether the substance is administered through a single dose or a series of doses.
 
@@ -126,7 +126,7 @@ For those employers who do not already have a COVID-19 plan in place, OSHA's web
 
 (i) Minimize the risk of transmission of COVID-19 for each employee, as required by paragraphs (d) through (n) of this section;
 
-Note to paragraph (c)(7)( i):
+Note to paragraph (c)(7)(i):
 
 Although the employer's COVID-19 plan must account for the potential COVID-19 exposures to each employee, the plan can do so generally and need not address each employee individually.
 
@@ -156,7 +156,7 @@ The employer is encouraged to use telehealth services where available and approp
 
 (e) *Standard and Transmission-Based Precautions.* Employers must develop and implement policies and procedures to adhere to Standard and Transmission-Based Precautions in accordance with CDC's “Guidelines for Isolation Precautions” (incorporated by reference, § 1910.509).
 
-(f) *Personal protective equipment (PPE)* - (1) *Facemasks.* (i) Employers must provide, and ensure that employees wear, facemasks that meet the definition in paragraph (b) of this section; and
+(f) *Personal protective equipment (PPE)*—(1) *Facemasks.* (i) Employers must provide, and ensure that employees wear, facemasks that meet the definition in paragraph (b) of this section; and
 
 (ii) The employer must ensure a facemask is worn by each employee over the nose and mouth when indoors and when occupying a vehicle with other people for work purposes. The employer must provide a sufficient number of facemasks to each employee to comply with this paragraph and must ensure that each employee changes them at least once per day, whenever they are soiled or damaged, and more frequently as necessary (*e.g.,* patient care reasons).
 
@@ -180,7 +180,7 @@ With respect to paragraphs (f)(1)(iii)(D) through (F) of this section, the emplo
 
 (iv) Where a face shield is required to comply with this paragraph or is otherwise required by the employer, the employer must ensure that face shields are cleaned at least daily and are not damaged. When an employee provides a face shield that meets the definition in paragraph (b) of this section, the employer may allow the employee to use it and is not required to reimburse the employee for that face shield.
 
-(2) Respirators and other PPE for exposure to people with suspected or confirmed COVID-19. When employees have exposure to a person with suspected or confirmed COVID-19, the employer must provide:
+(2) *Respirators and other PPE for exposure to people with suspected or confirmed COVID-19.* When employees have exposure to a person with suspected or confirmed COVID-19, the employer must provide:
 
 (i) A respirator to each employee and ensure that it is provided and used in accordance with § 1910.134 and
 
@@ -190,7 +190,7 @@ Note to paragraph (f)(2):
 
 When there is a limited supply of filtering facepiece respirators, employers may follow the CDC's “Strategies for Optimizing the Supply of N95 Respirators” (available at: *https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/index.html*). Where possible, employers are encouraged to select elastomeric respirators or PAPRs instead of filtering facepiece respirators to prevent shortages and supply chain disruption.
 
-(3) Respirators and other PPE during aerosol-generating procedures. For aerosol-generating procedures performed on a person with suspected or confirmed COVID-19, the employer must provide:
+(3) *Respirators and other PPE during aerosol-generating procedures.* For aerosol-generating procedures performed on a person with suspected or confirmed COVID-19, the employer must provide:
 
 (i) A respirator to each employee and ensure that it is provided and used in accordance with § 1910.134; and
 
@@ -204,11 +204,11 @@ Note 2 to paragraph (f)(3):
 
 Additional requirements specific to aerosol-generating procedures on people with suspected or confirmed COVID-19 are contained in paragraph (g) of this section.
 
-(4) Use of respirators when not required. (i) The employer may provide a respirator to the employee instead of a facemask as required by paragraph (f)(1) of this section. In such circumstances, the employer must comply with § 1910.504.
+(4) *Use of respirators when not required.* (i) The employer may provide a respirator to the employee instead of a facemask as required by paragraph (f)(1) of this section. In such circumstances, the employer must comply with § 1910.504.
 
 (ii) Where the employer provides the employee with a facemask as required by paragraph (f)(1) of this section, the employer must permit the employee to wear their own respirator instead of a facemask. In such circumstances, the employer must also comply with § 1910.504.
 
-(5) Respirators and other PPE based on Standard and Transmission-Based Precautions. The employer must provide protective clothing and equipment (*e.g.,* respirators, gloves, gowns, goggles, face shields) to each employee in accordance with Standard and Transmission-Based Precautions in healthcare settings in accordance with CDC's “Guidelines for Isolation Precautions” (incorporated by reference, § 1910.509) and ensure that the protective clothing and equipment is used in accordance with subpart I of this part.
+(5) *Respirators and other PPE based on Standard and Transmission-Based Precautions.* The employer must provide protective clothing and equipment (*e.g.,* respirators, gloves, gowns, goggles, face shields) to each employee in accordance with Standard and Transmission-Based Precautions in healthcare settings in accordance with CDC's “Guidelines for Isolation Precautions” (incorporated by reference, § 1910.509) and ensure that the protective clothing and equipment is used in accordance with subpart I of this part.
 
 (g) *Aerosol-generating procedures on a person with suspected or confirmed COVID-19.* When an aerosol-generating procedure is performed on a person with suspected or confirmed COVID-19:
 
@@ -268,7 +268,7 @@ Note 2 to paragraph (k):
 
 In addition to the requirements for existing HVAC systems and AIIRs, all employers should also consider other measures to improve ventilation in accordance with “CDC's Ventilation Guidance,” (available at *www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html*) (*e.g.,* opening windows and doors). This could include maximizing ventilation in buildings without HVAC systems or in vehicles.
 
-(l) *Health screening and medical management* - (1) *Screening.* (i) The employer must screen each employee before each work day and each shift. Screening may be conducted by asking employees to self-monitor before reporting to work or may be conducted in-person by the employer.
+(l) *Health screening and medical management*—(1) *Screening.* (i) The employer must screen each employee before each work day and each shift. Screening may be conducted by asking employees to self-monitor before reporting to work or may be conducted in-person by the employer.
 
 (ii) If a COVID-19 test is required by the employer for screening purposes, the employer must provide the test to each employee at no cost to the employee.
 
@@ -420,7 +420,7 @@ In addition, section 11(c) of the OSH Act also prohibits the employer from discr
 
 (p) *Requirements implemented at no cost to employees.* The implementation of all requirements of this section, with the exception of any employee self-monitoring conducted under paragraph (l)(1)(i) of this section, must be at no cost to employees.
 
-(q) *Recordkeeping* - (1) *Small employer exclusion.* Employers with 10 or fewer employees on the effective date of this section are not required to comply with paragraph (q)(2) or (q)(3) of this section.
+(q) *Recordkeeping*—(1) *Small employer exclusion.* Employers with 10 or fewer employees on the effective date of this section are not required to comply with paragraph (q)(2) or (q)(3) of this section.
 
 (2) *Required records.* Employers with more than 10 employees on the effective date of this section must:
 
@@ -460,7 +460,7 @@ Employers must continue to record all work-related confirmed cases of COVID-19 o
 
 (2) When reporting COVID-19 fatalities and in-patient hospitalizations to OSHA in accordance with paragraph (r)(1) of this section, the employer must follow the requirements in 29 CFR 1904.39, except for 29 CFR 1904.39(a)(1) and (2) and (b)(6).
 
-(s) *Dates* - (1) *Effective date.* This section is effective as of June 21, 2021.
+(s) *Dates*—(1) *Effective date.* This section is effective as of June 21, 2021.
 
 (2) *Compliance dates.* (i) Employers must comply with all requirements of this section, except for requirements in paragraphs (i), (k), and (n) of this section by July 6, 2021.
 

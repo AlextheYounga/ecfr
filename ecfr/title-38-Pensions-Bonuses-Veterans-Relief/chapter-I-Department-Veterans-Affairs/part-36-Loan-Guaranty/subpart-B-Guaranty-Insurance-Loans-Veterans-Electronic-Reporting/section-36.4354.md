@@ -4,7 +4,7 @@
 
 (1) A fee simple estate therein, legal or equitable; or
 
-(2) A leasehold estate running or renewable at the option of the lessee for a period of not less than 14 years from the maturity of the loan, or to any earlier date at which the fee simple title will vest in the lessee, which is assignable or transferable, if the same be subjected to the lien; however, a leasehold estate which is not freely assignable and transferable will be considered an acceptable estate if it is determined by the Under Secretary for Benefits, or the Director, Loan Guaranty Service:
+(2) A leasehold estate running or renewable at the option of the lessee for a period of not less than 14 years from the maturity of the loan, or to any earlier date at which the fee simple title will vest in the lessee, which is assignable or transferable, if the same be subjected to the lien; however, a leasehold estate which is not freely assignable and transferable will be considered an acceptable estate if it is determined by the Under Secretary for Benefits, or the Executive Director, Loan Guaranty Service:
 
 (i) That such type of leasehold is customary in the area where the property is located,
 

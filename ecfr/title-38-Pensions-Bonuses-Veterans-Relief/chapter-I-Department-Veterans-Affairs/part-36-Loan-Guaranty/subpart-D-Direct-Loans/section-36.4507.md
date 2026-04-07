@@ -10,7 +10,7 @@
 
 (1) The loan is otherwise eligible, and
 
-(2) The issuance of a commitment to make any such loan for an amount which exceeds eighty (80) percent of the reasonable value of the veteran's dwelling or farm residence shall require, unless the Under Secretary for Benefits otherwise directs, the approval of the Director, Loan Guaranty Service.
+(2) The issuance of a commitment to make any such loan for an amount which exceeds eighty (80) percent of the reasonable value of the veteran's dwelling or farm residence shall require, unless the Under Secretary for Benefits otherwise directs, the approval of the Executive Director, Loan Guaranty Service.
 
 (c) Nothing shall preclude making a loan pursuant to the provisions of 38 U.S.C. 3710(a)(5) to an eligible veteran having home loan guaranty entitlement to refinance a loan previously guaranteed insured or made by the Secretary which is outstanding on the dwelling or farm residence owned and occupied or to be reoccupied after the completion of major alterations, repairs, or improvements to the property, by the veteran as the veteran's home.
 
