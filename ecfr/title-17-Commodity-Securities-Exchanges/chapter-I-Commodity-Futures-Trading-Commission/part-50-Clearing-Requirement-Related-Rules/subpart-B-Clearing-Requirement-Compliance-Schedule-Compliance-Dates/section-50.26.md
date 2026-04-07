@@ -1,6 +1,6 @@
 ##### § 50.26 Swap clearing requirement compliance dates.
 
-(a) *Compliance dates for interest rate swap classes.* The compliance dates for swaps that are required to be cleared under § 50.4(a) are specified in the following table.
+(a) *Compliance dates for interest rate swap classes.* The compliance dates for swaps that are required to be cleared under § 50.4(a) are specified in the following table. 
 
 Table 1 to Paragraph (a)
 | Swap asset class   | Swap class subtype     | Currency and floating rate index  | Stated termination date range | Clearing requirement compliance date                                                                                  |
@@ -32,7 +32,7 @@ Table 1 to Paragraph (a)
 | Interest Rate Swap | Overnight Index Swap   | Canadian Dollar (CAD) CORRA-OIS   | 7 days to 2 years             | All entities July 10, 2017.                                                                                           |
 | Interest Rate Swap | Overnight Index Swap   | Yen (JPY) TONA                    | 7 days to 30 years            | All entities September 23, 2022.                                                                                      |
 
-(b) *Compliance dates for credit default swap classes.* The compliance dates for swaps that are required to be cleared under § 50.4(b) are specified in the following table.
+(b) *Compliance dates for credit default swap classes.* The compliance dates for swaps that are required to be cleared under § 50.4(b) are specified in the following table. 
 
 Table 2 to Paragraph (b)
 | Swap asset class    | Swap class subtype                    | Indices                 | Tenor           | Clearing requirement compliance date                                                                                  |

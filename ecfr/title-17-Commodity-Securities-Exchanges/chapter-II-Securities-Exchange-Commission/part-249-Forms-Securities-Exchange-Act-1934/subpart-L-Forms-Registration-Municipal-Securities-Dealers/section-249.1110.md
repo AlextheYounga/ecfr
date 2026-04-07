@@ -1,6 +1,6 @@
 ##### § 249.1110 Form MSDW, notice of withdrawal from registration as a municipal securities dealer pursuant to Rule 15Bc3-1 (17 CFR 240.15Bc3-1).
 
-This form is to be used by a bank or a separately identifiable department or division of a bank (as defined by the Municipal Securities Rulemaking Board) to withdraw from registration with the Securities and Exchange Commission as a municipal securities dealer pursuant to section 15B(c) of the Securities Exchange Act of 1934.
+This form is to be used by a bank or a separately identifiable department or division of a bank (as defined by the Municipal Securities Rulemaking Board) to withdraw from registration with the Securities and Exchange Commission as a municipal securities dealer pursuant to section 15B(c) of the Securities Exchange Act of 1934. 
 
 Note:
 

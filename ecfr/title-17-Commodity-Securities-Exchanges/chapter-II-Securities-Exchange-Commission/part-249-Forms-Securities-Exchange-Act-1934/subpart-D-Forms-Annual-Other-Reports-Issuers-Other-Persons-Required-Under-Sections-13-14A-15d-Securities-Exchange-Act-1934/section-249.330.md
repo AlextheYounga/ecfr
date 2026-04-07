@@ -1,6 +1,6 @@
 ##### § 249.330 Form N-CEN, annual report of registered investment companies.
 
-This form shall be used by registered unit investment trusts and small business investment companies for annual reports to be filed pursuant to § 270.30a-1 of this chapter in satisfaction of the requirement of section 30(a) of the Investment Company Act of 1940 (15 U.S.C. 80a-29(a)) that every registered investment company must file annually with the Commission such information, documents, and reports as investment companies having securities registered on a national securities exchange are required to file annually pursuant to section 13(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a)) and the rules and regulations thereunder.
+This form shall be used by registered unit investment trusts and small business investment companies for annual reports to be filed pursuant to § 270.30a-1 of this chapter in satisfaction of the requirement of section 30(a) of the Investment Company Act of 1940 (15 U.S.C. 80a-29(a)) that every registered investment company must file annually with the Commission such information, documents, and reports as investment companies having securities registered on a national securities exchange are required to file annually pursuant to section 13(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a)) and the rules and regulations thereunder. 
 
 Note:
 
