@@ -22,4 +22,4 @@ All the information required by this section is subject to the requirements of �
 
 (4) The requirements in this paragraph (b) do not apply when you acquire securities from an underwriter in a public offering (*see* § 4290.825). In that case, you must keep copies of all reports furnished by the Portfolio Concern to the holders of its securities.
 
-(c) *Information required for examination purposes.* You must obtain any information requested by the Secretary's examiners for the purpose of verifying the certifications made by a Portfolio Concern under § 4290.610. In this regard, your Financing documents must contain provisions requiring the Portfolio Concern to give you and/or the Secretary's examiners access to its books and records for such purpose.
+(c) *Information required for examination purposes.* You must obtain any information requested by the Agency's examiners for the purpose of verifying the certifications made by a Portfolio Concern under § 4290.610. In this regard, your Financing documents must contain provisions requiring the Portfolio Concern to give you and/or the Agency's examiners access to its books and records for such purpose.

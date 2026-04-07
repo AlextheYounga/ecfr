@@ -8,7 +8,7 @@
 
 (3) The amount paid by you for the securities (less ordinary and reasonable underwriting charges and commissions) has been, or will be, paid to the issuer, and the underwriter certifies in writing that this requirement has been met.
 
-(b) *Recordkeeping requirements.* You must keep records available for the Secretary's inspection which show the relevant details of the transaction, including but not limited to, date, price, commissions, and the underwriter's certifications required under paragraphs (a)(3) and (c) of this section.
+(b) *Recordkeeping requirements.* You must keep records available for the Agency's inspection which show the relevant details of the transaction, including but not limited to, date, price, commissions, and the underwriter's certifications required under paragraphs (a)(3) and (c) of this section.
 
 (c) *Underwriter's requirements.* The underwriter must certify whether it is your Associate. You may pay reasonable and customary commissions and expenses to an Associate underwriter for the portion of an offering that you purchase.
 

@@ -6,7 +6,7 @@
 
 (1) They participate in the Financing on a *pari passu* basis with you; or
 
-(2) The Secretary gives its prior written approval; or
+(2) The Agency gives its prior written approval; or
 
 (3) The options received are compensation for services as a member of the board of directors of the Enterprise, and such compensation does not exceed that paid to other outside directors. In the absence of such directors, fees must be reasonable when compared with amounts paid to outside directors of similar Enterprises.
 

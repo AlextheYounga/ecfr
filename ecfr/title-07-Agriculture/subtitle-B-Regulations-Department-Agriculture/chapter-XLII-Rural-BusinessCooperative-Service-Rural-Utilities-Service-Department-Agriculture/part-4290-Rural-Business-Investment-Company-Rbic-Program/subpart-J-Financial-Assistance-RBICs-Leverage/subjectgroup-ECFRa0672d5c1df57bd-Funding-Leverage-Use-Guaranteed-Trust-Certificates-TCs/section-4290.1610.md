@@ -2,11 +2,11 @@
 
 (a) The rights, if any, of a RBIC to prepay any Debenture is established by the terms of such security, and no such right is created or denied by the regulations in this part.
 
-(b) The Secretary's rights to purchase or prepay any Debenture without premium are established by the terms of the Guaranty Agreement relating to the Debenture.
+(b) The Agency's rights to purchase or prepay any Debenture without premium are established by the terms of the Guaranty Agreement relating to the Debenture.
 
-(c) Any prepayment of a Debenture pursuant to the terms of the Guaranty Agreement relating to such security shall reduce the Secretary's guarantee of timely payment of principal and interest on a TC in proportion to the amount of principal that such prepaid Debenture represents in the Trust or Pool backing such TC.
+(c) Any prepayment of a Debenture pursuant to the terms of the Guaranty Agreement relating to such security shall reduce the Agency's guarantee of timely payment of principal and interest on a TC in proportion to the amount of principal that such prepaid Debenture represents in the Trust or Pool backing such TC.
 
-(d) The Secretary shall be discharged from his or her guarantee obligation to the holder or holders of any TC, or any successor or transferee of such holder, to the extent of any such prepayment, whether or not such successor or transferee shall have notice of any such prepayment.
+(d) The Agency shall be discharged from its guarantee obligation to the holder or holders of any TC, or any successor or transferee of such holder, to the extent of any such prepayment, whether or not such successor or transferee shall have notice of any such prepayment.
 
 (e) Interest on prepaid Debentures shall accrue only through the date of prepayment.
 
