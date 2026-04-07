@@ -1,5 +1,7 @@
 ##### § 17.95 Critical habitat - fish and wildlife.
 
+Link to an amendment published at 87 FR 43447, July 21, 2022.
+
 (a) *Mammals.*
 
 Indiana Bat (*Myotis sodalis*)
@@ -9314,7 +9316,9 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/er12se06.000.gif)Editorial Note:
+
+For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (c) *Reptiles.*
 
