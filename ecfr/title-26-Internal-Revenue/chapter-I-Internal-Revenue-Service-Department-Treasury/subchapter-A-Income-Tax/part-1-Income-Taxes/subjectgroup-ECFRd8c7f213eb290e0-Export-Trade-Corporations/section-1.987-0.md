@@ -80,7 +80,7 @@ This section lists captioned paragraphs contained in §§ 1.987-1 through 1.987-
 
 (8) Interaction with § 1.988-1(a)(10).
 
-(c)(9) Certain disregarded transactions not treated as transfers.
+(9) Certain disregarded transactions not treated as transfers.
 
 (10) Examples.
 
@@ -132,7 +132,7 @@ This section lists captioned paragraphs contained in §§ 1.987-1 through 1.987-
 
 (1) In general.
 
-(c)(2) Coordination with § 1.987-12.
+(2) Coordination with § 1.987-12.
 
 (d) Calculation of unrecognized section 987 gain or loss for a taxable year.
 
