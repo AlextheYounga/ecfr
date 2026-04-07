@@ -1,7 +1,5 @@
 ##### § 4280.403 Definitions.
 
-Link to an amendment published at 88 FR 86570, Dec. 14, 2023.
-
 *Administrator.* The Administrator of RBS or designees or successors.
 
 *Agency.* Rural Business-Cooperative Service (RBS) or successor.
@@ -12,11 +10,13 @@ Link to an amendment published at 88 FR 86570, Dec. 14, 2023.
 
 *Business Support Centers.* Centers established to provide assistance to businesses in such areas as counseling, business planning, training, management assistance, marketing information, and locating financing for business operations. The centers need not be located in a Rural Area, but must provide assistance to businesses located in Rural Areas.
 
+*Conflict of Interest.* When the grantee's employees, Board of Directors, or their immediate families have a legal or personal financial interest in the recipient(s) receiving the benefits or services of the grant. Tribal Governments, subdivisions of Tribal Governments (chapters, districts, authorities, townships, etc.), and Tribal arms and instrumentalities, entities wholly-owned and chartered by Tribal Governments including but not limited to: Tribal owned corporations (including Section 17 Corporations, Community Development Corporations and Economic Development Corporations), Tribal owned businesses, Tribal owned authorities, Tribal owned utilities, other Tribally owned enterprises and their subsidiaries will not be considered as having a conflict of interest due to their, or their Board's, ties to their associated Tribe or each other.
+
 *Departmental Grant Regulations.* The USDA grant regulations at 2 CFR chapter IV.
 
 *Economic Development.* The industrial, business and financial augmentation of an area as evidenced by increases in total income, employment opportunities, value of production, duration of employment, or diversification of industry, reduced outmigration, higher labor force participation rates or wage levels or gains in other measurements of economic activity, such as land values.
 
-*Indian Tribe (Tribal).* Indian Tribes on Federal and State reservations and other federally recognized Indian Tribal groups.
+*Indian Tribe (Tribal), Tribal Government and/or Federally Recognized Tribes.* Any Indian or Alaska Native tribe, band, nation, pueblo, village or community as defined by the Federally Recognized Indian Tribe List Act (List Act) of 1994 (Pub. L. 103-454).
 
 *Industrial Site.* The development of undeveloped real estate for uses which will assist Small and Emerging Businesses.
 
@@ -36,8 +36,10 @@ Link to an amendment published at 88 FR 86570, Dec. 14, 2023.
 
 *Rural and Rural Area.* As described in 7 U.S.C. 1991(a)(13)(A) and (D) *et seq.*
 
-*Small and Emerging Business.* Any private and/or Nonprofit business which will employ 50 or fewer new employees and has less than $1 million in gross revenue; for retail operations, total sales minus cost of goods sold minus returns or for a service organizations, gross revenue minus cost of providing service or for a manufacturing operation it will be total sales minus cost of raw materials minus the cost of production.
+*Small and Emerging Business.* Any private and/or nonprofit business which will employ 50 or fewer new employees and has less than $1 million in gross revenue; for retail operations, gross revenue may be reduced by cost of goods sold and returns or for a service organization, gross revenue may be reduced by the cost of providing service or for a manufacturing operation, gross revenue may be reduced by the cost of raw materials and the cost of production. The $1 million gross revenue and 50 or fewer new employee thresholds apply only to each individual Tribal owned enterprise applicant or recipient. Due to the unique structuring of Tribal economic development, the revenue or employees of the Tribe and/or parent Tribal enterprise will not apply towards the individual Tribal enterprise applicant or recipient, regardless of shared ownership or Directors. The revenue of Tribes, subdivisions of Tribes and Tribal entity applicants, will not be considered revenue in determining program and project eligibility.
 
 *State.* Any of the 50 States, the Commonwealth of Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, the Federated States of Micronesia, and the Republic of the Marshall Islands.
 
 *Technical Assistance.* A function performed for the benefit of a private business enterprise or a community and which is a problem solving activity, such as market research, product and/or service improvement, feasibility study, etc., to assist in the Economic Development of a Rural Area.
+
+\[80 FR 15667, Mar. 25, 2015, as amended at 88 FR 86570, Dec. 14, 2023\]
