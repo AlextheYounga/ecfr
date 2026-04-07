@@ -1,6 +1,6 @@
 ##### § 622.74 Area closures to protect Gulf corals.
 
-For the purposes of this section, fishing gear is deployed if any part of the gear is in contact with the water.
+For the purposes of this section, fishing gear is deployed if any part of the gear is in contact with the water.*Florida Middle Grounds HAPC.*
 
 (a) *Florida Middle Grounds HAPC.* Deployment of a bottom longline, bottom trawl, dredge, pot, or trap is prohibited year-round in the area bounded by rhumb lines connecting the following points in order:
 

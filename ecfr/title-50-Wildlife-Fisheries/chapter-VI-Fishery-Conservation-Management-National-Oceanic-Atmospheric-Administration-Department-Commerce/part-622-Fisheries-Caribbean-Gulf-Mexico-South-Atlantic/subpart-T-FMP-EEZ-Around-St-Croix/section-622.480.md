@@ -5,7 +5,7 @@
 Table 1 to § 622.480(a)(1)
 | Family             | Stock or stock complex and species composition                                                                                                            | ACL                      |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| Angelfishes        | Angelfish—French angelfish, gray angelfish, queen angelfish                                                                                               | 6,412 lb (2,908.4 kg).   |
+| Angelfishes1       | Angelfish—French angelfish, gray angelfish, queen angelfish                                                                                               | 6,412 lb (2,908.4 kg).   |
 | Groupers           | Grouper 3—coney,1 graysby                                                                                                                                 | 13,529 lb (6,136.6 kg).  |
 |                    | Grouper 4—red hind,1 rock hind                                                                                                                            | 11,849 lb (5,374.6 kg).  |
 |                    | Grouper 5—black grouper, red grouper, tiger grouper, yellowfin grouper                                                                                    | 701 lb (317.9 kg).       |

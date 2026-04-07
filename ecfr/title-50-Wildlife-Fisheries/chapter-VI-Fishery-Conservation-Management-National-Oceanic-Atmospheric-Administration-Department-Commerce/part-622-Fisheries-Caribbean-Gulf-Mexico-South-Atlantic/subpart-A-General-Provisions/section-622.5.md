@@ -1,6 +1,6 @@
 ##### § 622.5 Recordkeeping and reporting—general.
 
-This section contains recordkeeping and reporting requirements that are broadly applicable, as specified, to most or all fisheries governed by this part. Additional recordkeeping and reporting requirements specific to each fishery are contained in the respective subparts B through U of this part.
+This section contains recordkeeping and reporting requirements that are broadly applicable, as specified, to most or all fisheries governed by this part. Additional recordkeeping and reporting requirements specific to each fishery are contained in the respective subparts B through U of this part.*Collection of additional data and fish inspection.*Federal Register,
 
 (a) *Collection of additional data and fish inspection.* In addition to data required to be reported as specified in subparts B through U of this part, as applicable, additional data will be collected by authorized statistical reporting agents and by authorized officers. A person who fishes for or possesses species in or from the EEZ governed in this part is required to make the applicable fish or any part thereof available for inspection by the SRD or an authorized officer on request.
 

@@ -1,6 +1,6 @@
 ##### § 622.9 Prohibited gear and methods—general.
 
-This section contains prohibitions on use of gear and methods that are of general applicability, as specified. Additional prohibitions on use of gear and methods applicable to specific species or species groups are contained in subparts B through U of this part.
+This section contains prohibitions on use of gear and methods that are of general applicability, as specified. Additional prohibitions on use of gear and methods applicable to specific species or species groups are contained in subparts B through U of this part.*Explosives.*
 
 (a) *Explosives.* An explosive (except an explosive in a powerhead) may not be used to fish in the Caribbean, Gulf, or South Atlantic EEZ. A vessel fishing in the EEZ for a species governed in this part, or a vessel for which a permit has been issued under this part, may not have on board any dynamite or similar explosive substance.
 

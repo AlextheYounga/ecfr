@@ -1,6 +1,6 @@
 ##### § 622.180 Prohibited gear and methods.
 
-Also see § 622.9 for additional prohibited gear and methods that apply more broadly to multiple fisheries or in some cases all fisheries.
+Also see § 622.9 for additional prohibited gear and methods that apply more broadly to multiple fisheries or in some cases all fisheries.*Poisons.*
 
 (a) *Poisons.* A poison may not be used to fish for South Atlantic snapper-grouper in the South Atlantic EEZ.
 

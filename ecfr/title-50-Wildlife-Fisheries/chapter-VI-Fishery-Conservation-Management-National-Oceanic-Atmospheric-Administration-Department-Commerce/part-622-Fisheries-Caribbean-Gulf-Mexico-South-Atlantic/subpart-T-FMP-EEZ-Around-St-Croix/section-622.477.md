@@ -1,6 +1,6 @@
 ##### § 622.477 Prohibited gear and methods.
 
-Also see § 622.9 for additional prohibited gear and methods that apply more broadly to multiple fisheries or in some cases all fisheries.
+Also see § 622.9 for additional prohibited gear and methods that apply more broadly to multiple fisheries or in some cases all fisheries.*Reef fish*
 
 (a) *Reef fish*—(1) *Poisons.* A poison, drug, or other chemical may not be used to fish for reef fish in the EEZ around St. Croix.
 

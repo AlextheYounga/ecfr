@@ -7,7 +7,7 @@
 Table 1 to § 622.440(a)(1)
 | Family             | Stock or stock complex and species composition                                                                                       | Commercial ACL             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| Angelfishes        | Angelfish—French angelfish, gray angelfish, queen angelfish                                                                          | 137 lb (62.1 kg).          |
+| Angelfishes1       | Angelfish—French angelfish, gray angelfish, queen angelfish                                                                          | 137 lb (62.1 kg).          |
 | Groupers           | Grouper 3—coney,1 graysby                                                                                                            | 23,890 lb (10,836.3 kg).   |
 |                    | Grouper 4—black grouper, red grouper, tiger grouper, yellowfin grouper, yellowmouth grouper                                          | 2,492 lb (1,130.3 kg)      |
 |                    | Grouper 5—misty grouper, yellowedge grouper                                                                                          | 15,327 lb (6,952.2 kg).    |
@@ -157,4 +157,4 @@ Table 3 to § 622.440(a)(3)
 
 (4) *Restrictions applicable during a spiny lobster closure in the EEZ around Puerto Rico.* During the closure period announced in the notification filed pursuant to paragraph (c)(2) of this section, the fishing season for spiny lobster is closed, and spiny lobster in or from the EEZ around Puerto Rico may not be harvested, possessed, purchased, or sold, and the bag and possession limits are zero.
 
-\[87 FR 56216, Sept. 13, 2022, as amended at 88 FR 16195, Mar. 16, 2023; 88 FR 46695, July 20, 2023; 89 FR 34169, Apr. 30, 2024\]
+\[87 FR 56216, Sept. 13, 2022, as amended at 88 FR 16195, Mar. 16, 2023; 88 FR 46695, July 20, 2023; 89 FR 34169, Apr. 30, 2024\] Link to an amendment published at 90 FR 26942, June 25, 2025.

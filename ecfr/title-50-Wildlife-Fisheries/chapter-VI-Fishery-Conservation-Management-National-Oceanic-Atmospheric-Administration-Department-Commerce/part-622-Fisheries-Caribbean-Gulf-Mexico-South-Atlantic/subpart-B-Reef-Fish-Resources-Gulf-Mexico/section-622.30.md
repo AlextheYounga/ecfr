@@ -1,6 +1,6 @@
 ##### § 622.30 Required fishing gear.
 
-For a person on a vessel to fish for Gulf reef fish in the Gulf EEZ, the following fishing gear must be on the vessel and such person must use the gear as specified in paragraphs (a) and (b) of this section.
+For a person on a vessel to fish for Gulf reef fish in the Gulf EEZ, the following fishing gear must be on the vessel and such person must use the gear as specified in paragraphs (a) and (b) of this section.*Non-stainless steel circle hooks.*
 
 (a) *Non-stainless steel circle hooks.* Non-stainless steel circle hooks are required when fishing with natural baits, except that other non-stainless steel hook types may be used when commercial fishing for yellowtail snapper with natural baits in an area south of a line extending due west from 25°09′ N. lat. off the west coast of Monroe County, Florida, to the Gulf of Mexico and South Atlantic inter-council boundary, specified in § 600.105(c).
 

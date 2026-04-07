@@ -1,6 +1,6 @@
 ##### § 622.4 Permits and fees—general.
 
-This section contains general information about procedures related to permits. See also §§ 622.70 and 622.220 regarding certain permit procedures unique to coral permits in the Gulf of Mexico and the South Atlantic, respectively. See subpart F of this part for permit requirements related to aquaculture of species other than live rock. Permit requirements for specific fisheries, as applicable, are contained in the permit sections within subparts B through U of this part.
+This section contains general information about procedures related to permits. See also §§ 622.70 and 622.220 regarding certain permit procedures unique to coral permits in the Gulf of Mexico and the South Atlantic, respectively. See subpart F of this part for permit requirements related to aquaculture of species other than live rock. Permit requirements for specific fisheries, as applicable, are contained in the permit sections within subparts B through U of this part.*Applications for permits.*
 
 (a) *Applications for permits.* Application forms for all permits are available from the RA. Completed application forms and all required supporting documents must be submitted to the RA at least 30 days prior to the date on which the applicant desires to have the permit made effective. All vessel permits are mailed to owners, whether the applicant is an owner or an operator.
 

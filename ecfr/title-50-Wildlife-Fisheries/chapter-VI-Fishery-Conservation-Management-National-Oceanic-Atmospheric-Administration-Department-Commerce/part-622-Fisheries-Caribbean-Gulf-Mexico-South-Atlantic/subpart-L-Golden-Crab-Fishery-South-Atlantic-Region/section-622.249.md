@@ -1,6 +1,6 @@
 ##### § 622.249 Gear restrictions and requirements.
 
-(a) *Maximum trap sizes.* A golden crab trap deployed or possessed in the South Atlantic EEZ may not exceed 64 ft 3 (1.8 m 3) in volume in the northern zone or 48 ft 3 (1.4 m 3) in volume in the middle and southern zones. See § 622.241(b)(1) for specification of the golden crab zones.
+(a) *Maximum trap sizes.* A golden crab trap deployed or possessed in the South Atlantic EEZ may not exceed 64 ft 3 (1.8 m 3) in volume in the northern zone or 48 ft 3 (1.4 m 3) in volume in the middle and southern zones. See § 622.241(b)(1) for specification of the golden crab zones.3/16
 
 (b) *Required escape mechanisms for traps.* (1) A golden crab trap that is used or possessed in the South Atlantic EEZ must have at least one escape gap or escape ring on each of two opposite vertical sides. The minimum allowable inside dimensions of an escape gap are 2.75 by 3.75 inches (7.0 by 9.5 cm); the minimum allowable inside diameter of an escape ring is 4.5 inches (11.4 cm). In addition to the escape gaps—
 

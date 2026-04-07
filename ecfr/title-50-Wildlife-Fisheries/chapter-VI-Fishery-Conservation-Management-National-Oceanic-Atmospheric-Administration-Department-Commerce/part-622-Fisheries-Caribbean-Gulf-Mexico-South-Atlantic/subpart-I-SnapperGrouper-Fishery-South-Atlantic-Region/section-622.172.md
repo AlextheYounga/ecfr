@@ -1,6 +1,6 @@
 ##### § 622.172 Wreckfish individual transferable quota (ITQ) system.
 
-The provisions of this section apply to wreckfish in or from the South Atlantic EEZ.
+The provisions of this section apply to wreckfish in or from the South Atlantic EEZ.*General*
 
 (a) *General*—(1) *Percentage shares*—(i) *Initial ITQ shares.* In accordance with the procedure specified in the Fishery Management Plan for the Snapper-Grouper Fishery of the South Atlantic Region, percentage shares of the quota for wreckfish were assigned at the beginning of the program. Each person was notified by the RA of his or her percentage share and shareholder certificate number.
 

@@ -1,6 +1,6 @@
 ##### § 622.372 Limited access system for king mackerel gillnet permits applicable in the Gulf southern zone.
 
-(a) Except for applications for renewals of king mackerel gillnet permits, no applications for king mackerel gillnet permits will be accepted. Application forms for permit renewal are available from the RA.
+(a) Except for applications for renewals of king mackerel gillnet permits, no applications for king mackerel gillnet permits will be accepted. Application forms for permit renewal are available from the RA.*Renewal criteria for a king mackerel gillnet permit.*
 
 (b) An owner of a vessel with a king mackerel gillnet permit issued under this limited access system may transfer that permit upon a change of ownership of a permitted vessel with such permit from one to another of the following: Husband, wife, son, daughter, brother, sister, mother, or father. Such permit also may be transferred to another vessel owned by the same entity.
 

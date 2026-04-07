@@ -42,13 +42,14 @@
 
 (xx) *Ft. Pierce Offshore Reef* is bounded by rhumb lines connecting, in order, the following points:
 
-| Point | North lat. | West long. |
-| ----- | ---------- | ---------- |
-| A     | 27°23.68′  | 80°03.95′  |
-| B     | 27°22.80′  | 80°03.60′  |
-| C     | 27°23.94′  | 80°00.02′  |
-| D     | 27°24.85′  | 80°00.33′  |
-| A     | 27°23.68′  | 80°03.95′  |
+Table 2 to Paragraph (a)(2)
+| Point        | North lat. | West long. |
+| ------------ | ---------- | ---------- |
+| Aprima facie | 27°23.68′  | 80°03.95′  |
+| B            | 27°22.80′  | 80°03.60′  |
+| C            | 27°23.94′  | 80°00.02′  |
+| D            | 27°24.85′  | 80°00.33′  |
+| A            | 27°23.68′  | 80°03.95′  |
 
 (xxi) *Key Biscayne/Artificial Reef—H* is bounded on the north by 25°42.82′ N. lat.; on the south by 25°41.32′ N. lat.; on the east by 80°04.22′ W. long.; and on the west by 80°05.53′ W. long.
 

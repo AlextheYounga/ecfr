@@ -1,6 +1,6 @@
 ##### § 622.7 Fishing years.
 
-The fishing year for species or species groups governed in this part is January 1 through December 31 except for the following:
+The fishing year for species or species groups governed in this part is January 1 through December 31 except for the following:*Allowable octocoral*
 
 (a) *Allowable octocoral*—October 1 through September 30.
 

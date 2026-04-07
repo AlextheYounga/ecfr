@@ -1,6 +1,6 @@
 ##### § 622.189 Restrictions and requirements for sea bass pots.
 
-(a) *Tending restriction.* A sea bass pot in the South Atlantic EEZ may be pulled or tended only by a person (other than an authorized officer) aboard the vessel permitted to fish such pot or aboard another vessel if such vessel has on board written consent of the owner or operator of the vessel so permitted.
+(a) *Tending restriction.* A sea bass pot in the South Atlantic EEZ may be pulled or tended only by a person (other than an authorized officer) aboard the vessel permitted to fish such pot or aboard another vessel if such vessel has on board written consent of the owner or operator of the vessel so permitted.1/8
 
 (b) *Configuration restriction.* In the South Atlantic EEZ, sea bass pots may not be used or possessed in multiple configurations, that is, two or more pots may not be attached one to another so that their overall dimensions exceed those allowed for an individual sea bass pot. This does not preclude connecting individual pots to a line, such as a “trawl” or trot line.
 

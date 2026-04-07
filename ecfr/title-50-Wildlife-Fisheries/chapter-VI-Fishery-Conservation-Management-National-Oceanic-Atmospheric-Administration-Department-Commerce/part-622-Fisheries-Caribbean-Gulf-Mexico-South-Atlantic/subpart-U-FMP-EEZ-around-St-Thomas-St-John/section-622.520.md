@@ -1,6 +1,6 @@
 ##### § 622.520 Other harvest restrictions.
 
-(a)-(b) \[Reserved\]
+(a)-(b) \[Reserved\]*Prohibition on harvest of egg-bearing spiny lobster.*
 
 (c) Spiny lobster—(1) *Prohibition on harvest of egg-bearing spiny lobster.* Egg-bearing spiny lobster in the EEZ around St. Thomas and St. John must be returned to the water unharmed. An egg-bearing spiny lobster may be retained in a spiny lobster trap, provided the trap is returned immediately to the water. An egg-bearing spiny lobster may not be stripped, scraped, shaved, clipped, or in any other manner molested, in order to remove the eggs.
 

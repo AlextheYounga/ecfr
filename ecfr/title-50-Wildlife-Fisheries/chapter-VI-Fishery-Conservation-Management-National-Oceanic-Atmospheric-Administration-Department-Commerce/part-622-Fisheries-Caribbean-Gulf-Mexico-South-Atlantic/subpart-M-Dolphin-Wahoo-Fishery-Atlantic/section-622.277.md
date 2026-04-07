@@ -1,6 +1,6 @@
 ##### § 622.277 Bag and possession limits.
 
-Section 622.11(a) provides the general applicability for bag and possession limits.
+Section 622.11(a) provides the general applicability for bag and possession limits.*Atlantic dolphin and wahoo.*
 
 (a) *Atlantic dolphin and wahoo.* Bag and possession limits are as follows:
 

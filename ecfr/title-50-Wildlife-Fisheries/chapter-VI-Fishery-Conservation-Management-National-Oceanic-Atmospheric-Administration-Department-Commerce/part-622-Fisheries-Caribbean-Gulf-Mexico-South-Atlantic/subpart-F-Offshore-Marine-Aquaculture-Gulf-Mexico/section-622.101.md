@@ -1,6 +1,6 @@
 ##### § 622.101 Permits.
 
-(a) *Gulf aquaculture permit.* For a person to deploy or operate an aquaculture facility in the Gulf EEZ or sell or attempt to sell, at the first point of sale, an allowable aquaculture species cultured in the Gulf EEZ, a Gulf aquaculture permit must have been issued to that person for that aquaculture facility, and the permit must be prominently displayed and available for inspection at the aquaculture facility. The permit number should also be included on the buoys or other floating devices used to mark the restricted access zone of the operation as specified in § 622.104(c).
+(a) *Gulf aquaculture permit.* For a person to deploy or operate an aquaculture facility in the Gulf EEZ or sell or attempt to sell, at the first point of sale, an allowable aquaculture species cultured in the Gulf EEZ, a Gulf aquaculture permit must have been issued to that person for that aquaculture facility, and the permit must be prominently displayed and available for inspection at the aquaculture facility. The permit number should also be included on the buoys or other floating devices used to mark the restricted access zone of the operation as specified in § 622.104(c).Federal Register
 
 (1) *Eligibility requirement for a Gulf aquaculture permit.* Eligibility for a Gulf aquaculture permit is limited to U.S. citizens as defined in the Immigration and Nationality Act of 1952, as amended, and permanent resident aliens lawfully accorded the privilege of residing permanently in the U.S. in accordance with U.S. immigration laws.
 

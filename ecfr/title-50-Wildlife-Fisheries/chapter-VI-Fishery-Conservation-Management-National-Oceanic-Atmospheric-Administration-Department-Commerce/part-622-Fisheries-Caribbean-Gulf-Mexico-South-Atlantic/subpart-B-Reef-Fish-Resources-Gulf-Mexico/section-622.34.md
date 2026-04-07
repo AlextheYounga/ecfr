@@ -4,6 +4,7 @@
 
 (1) *Descriptions of Areas.* (i) The Madison and Swanson sites are bounded by rhumb lines connecting, in order, the following points:
 
+Table 4 to Paragraph (d)
 | Point | North lat. | West long. |
 | ----- | ---------- | ---------- |
 | A     | 29°17′     | 85°50′     |

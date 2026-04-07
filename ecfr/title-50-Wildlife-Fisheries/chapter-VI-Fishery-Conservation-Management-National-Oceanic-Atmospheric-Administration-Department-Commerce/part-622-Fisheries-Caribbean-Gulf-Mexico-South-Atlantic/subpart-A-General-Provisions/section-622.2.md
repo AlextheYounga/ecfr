@@ -1,6 +1,6 @@
 ##### § 622.2 Definitions and acronyms.
 
-In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, and the acronyms in § 600.15 of this chapter, the terms and acronyms used in this part have the following meanings:
+In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, and the acronyms in § 600.15 of this chapter, the terms and acronyms used in this part have the following meanings:*Accountability measure*Note:
 
 *Accountability measure* means a management control implemented such that overfishing is prevented, where possible, and mitigated if it occurs.
 

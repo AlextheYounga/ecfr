@@ -1,6 +1,6 @@
 ##### § 622.431 Definitions.
 
-In addition to the definitions and acronyms in § 622.2, the terms and acronyms used in this subpart have the following meanings:
+In addition to the definitions and acronyms in § 622.2, the terms and acronyms used in this subpart have the following meanings:*Coral*
 
 *Coral* means any or all species, or a part thereof, of coral occurring in the EEZ around Puerto Rico, including any or all species, or a part thereof, of soft corals and gorgonians in Order Alcyonacea; sea pens and sea pansies in Order Pennatulacea; black corals in Order Antipatharia; stony corals in Order Scleractinia; and, within Order Anthoatheacata, fire corals in Family Milleporidae and lace corals in Family Stylasteridae.
 
@@ -9,17 +9,17 @@ In addition to the definitions and acronyms in § 622.2, the terms and acronyms 
 *Pelagic fish* means any or all species, or a part thereof, as follows:
 
 Table 1 to § 622.431
-| Class or Family                | Scientific name        | English common name  |
-| ------------------------------ | ---------------------- | -------------------- |
-| Dolphinfishes—Coryphaenidae    | Coryphaena hippurus    | Dolphinfish.         |
-|                                | Coryphaena equiselis   | Pompano dolphinfish. |
-| Barracudas—Sphyraenidae        | Sphyraena barracuda    | Great barracuda.     |
-| Mackerels and tunas—Scombridae | Thunnus atlanticus     | Blackfin tuna.       |
-|                                | Scomberomorus regalis  | Cero.                |
-|                                | Scomberomorus cavalla  | King mackerel.       |
-|                                | Euthynnus alletteratus | Little tunny.        |
-|                                | Acanthocybium solandri | Wahoo.               |
-| Tripletails—Lobotidae          | Lobotes surinamensis   | Tripletail.          |
+| Class or Family                                | Scientific name        | English common name  |
+| ---------------------------------------------- | ---------------------- | -------------------- |
+| Dolphinfishes—CoryphaenidaeCoryphaena hippurus | Coryphaena hippurus    | Dolphinfish.         |
+|                                                | Coryphaena equiselis   | Pompano dolphinfish. |
+| Barracudas—Sphyraenidae                        | Sphyraena barracuda    | Great barracuda.     |
+| Mackerels and tunas—Scombridae                 | Thunnus atlanticus     | Blackfin tuna.       |
+|                                                | Scomberomorus regalis  | Cero.                |
+|                                                | Scomberomorus cavalla  | King mackerel.       |
+|                                                | Euthynnus alletteratus | Little tunny.        |
+|                                                | Acanthocybium solandri | Wahoo.               |
+| Tripletails—Lobotidae                          | Lobotes surinamensis   | Tripletail.          |
 
 *Queen conch* means the species *Lobatus gigas,* or a part thereof.
 

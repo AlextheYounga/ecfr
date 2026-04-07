@@ -1,6 +1,6 @@
 ##### § 622.6 Vessel identification.
 
-This section does not apply to subpart R of this part, which has its own specific vessel identification requirements in § 622.402.
+This section does not apply to subpart R of this part, which has its own specific vessel identification requirements in § 622.402.*Applicability*
 
 (a) *Applicability*—(1) *Official number.* A vessel for which a permit has been issued under subparts B through U of this part, except for subpart R, and a vessel that fishes for or possesses pelagic sargassum in the South Atlantic EEZ, must display its official number—
 

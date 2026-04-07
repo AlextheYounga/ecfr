@@ -1,6 +1,6 @@
 ##### § 622.190 Quotas.
 
-See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section provides quotas and specific quota closure restrictions for South Atlantic snapper-grouper.
+See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section provides quotas and specific quota closure restrictions for South Atlantic snapper-grouper.*South Atlantic snapper-grouper, excluding wreckfish.*
 
 (a) *South Atlantic snapper-grouper, excluding wreckfish.* The quotas apply to persons who are not subject to the bag limits. (See § 622.11 for applicability of the bag limits.) The quotas are in gutted weight, that is eviscerated but otherwise whole, except for the quotas in paragraphs (a)(4) through (6) of this section which are in both gutted weight and round weight.
 

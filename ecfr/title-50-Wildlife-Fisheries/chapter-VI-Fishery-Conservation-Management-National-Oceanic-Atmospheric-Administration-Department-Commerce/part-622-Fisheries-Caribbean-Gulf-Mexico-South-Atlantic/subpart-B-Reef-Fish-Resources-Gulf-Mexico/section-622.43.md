@@ -1,6 +1,6 @@
 ##### § 622.43 Commercial trip limits.
 
-Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. A species subject to a trip limit specified in this section taken in the EEZ may not be transferred at sea, regardless of where such transfer takes place, and such species may not be transferred in the EEZ. Commercial trip limits apply as follows:
+Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. A species subject to a trip limit specified in this section taken in the EEZ may not be transferred at sea, regardless of where such transfer takes place, and such species may not be transferred in the EEZ. Commercial trip limits apply as follows:*Greater amberjack.*
 
 (a) *Greater amberjack.* Until the commercial quota specified in § 622.39(a)(1)(v) is reached—7 fish. See § 622.39(b) for the limitations regarding greater amberjack after the quota is reached.
 

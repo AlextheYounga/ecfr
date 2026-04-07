@@ -1,6 +1,6 @@
 ##### § 622.388 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs).
 
-All weights are in round and eviscerated weight combined, unless specified otherwise.
+All weights are in round and eviscerated weight combined, unless specified otherwise.*Gulf migratory group king mackerel*
 
 (a) *Gulf migratory group king mackerel*—(1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the applicable quota specified in § 622.384(b)(1), the AA will file a notification with the Office of the Federal Register to close the commercial sector for that zone, or gear type for the remainder of the fishing year.
 

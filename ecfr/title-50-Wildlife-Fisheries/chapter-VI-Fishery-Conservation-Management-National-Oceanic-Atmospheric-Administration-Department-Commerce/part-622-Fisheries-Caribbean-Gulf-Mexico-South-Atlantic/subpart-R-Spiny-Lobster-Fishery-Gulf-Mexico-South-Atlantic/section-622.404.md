@@ -1,6 +1,6 @@
 ##### § 622.404 Prohibited gear and methods.
 
-Also see § 622.9 for additional prohibited gear and methods that apply more broadly to multiple fisheries or in some cases all fisheries.
+Also see § 622.9 for additional prohibited gear and methods that apply more broadly to multiple fisheries or in some cases all fisheries.*prima facie*
 
 (a) A spiny lobster may not be taken in the EEZ with a spear, hook, or similar device, or gear containing such devices. In the EEZ, the possession of a speared, pierced, or punctured spiny lobster is *prima facie* evidence that prohibited gear was used to take such lobster. Hook, as used in this paragraph (a), does not include a hook in a hook-and-line fishery for species other than spiny lobster; and possession of a spiny lobster that has been speared, pierced, or punctured by such hook is not considered evidence that prohibited gear was used to take the spiny lobster, provided no prohibited gear is on board the vessel.
 

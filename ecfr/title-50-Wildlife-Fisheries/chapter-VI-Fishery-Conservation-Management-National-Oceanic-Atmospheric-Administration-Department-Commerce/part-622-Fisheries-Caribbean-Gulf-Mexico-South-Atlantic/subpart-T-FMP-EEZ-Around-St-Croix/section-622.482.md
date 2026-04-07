@@ -1,6 +1,6 @@
 ##### § 622.482 Commercial trip limits.
 
-Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ around St. Croix may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. A species subject to a trip limit specified in this section taken in the EEZ around St. Croix may not be transferred at sea, regardless of where such transfer takes place.
+Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ around St. Croix may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. A species subject to a trip limit specified in this section taken in the EEZ around St. Croix may not be transferred at sea, regardless of where such transfer takes place.*Queen conch.*
 
 (a) *Queen conch.* (1) 200.
 

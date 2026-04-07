@@ -1,6 +1,6 @@
 ##### § 622.506 Definitions.
 
-In addition to the definitions and acronyms in § 622.2, the terms and acronyms used in this subpart have the following meanings:
+In addition to the definitions and acronyms in § 622.2, the terms and acronyms used in this subpart have the following meanings:*Coral*
 
 *Coral* means any or all species, or a part thereof, of coral occurring in the EEZ around St. Thomas and St. John, including any or all species, or a part thereof, of soft corals and gorgonians in Order Alcyonacea; sea pens and sea pensies in Order Pennatulacea; black corals in Order Antipatharia; and stony corals in Order Scleractinia; and, within Order Anthoatheacata, fire corals in Family Milleporidae and lace corals in Family Stylasteridae.
 
@@ -9,10 +9,10 @@ In addition to the definitions and acronyms in § 622.2, the terms and acronyms 
 *Pelagic fish* means any or all species, or a part thereof, as follows:
 
 Table 1 to § 622.506
-| Class or family                | Scientific name        | English common name |
-| ------------------------------ | ---------------------- | ------------------- |
-| Dolphinfishes—Coryphaenidae    | Coryphaena hippurus    | Dolphinfish.        |
-| Mackerels and tunas—Scombridae | Acanthocybium solandri | Wahoo.              |
+| Class or family                                | Scientific name        | English common name |
+| ---------------------------------------------- | ---------------------- | ------------------- |
+| Dolphinfishes—CoryphaenidaeCoryphaena hippurus | Coryphaena hippurus    | Dolphinfish.        |
+| Mackerels and tunas—Scombridae                 | Acanthocybium solandri | Wahoo.              |
 
 *Queen conch* means the species *Lobatus gigas,* or a part thereof.
 

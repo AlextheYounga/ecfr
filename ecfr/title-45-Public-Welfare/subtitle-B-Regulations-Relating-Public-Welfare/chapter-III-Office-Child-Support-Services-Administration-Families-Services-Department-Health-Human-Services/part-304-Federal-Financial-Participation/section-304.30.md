@@ -1,19 +1,21 @@
 ##### § 304.30 Public sources of State's share.
 
-(a) Public funds, other than those derived from private resources, used by the IV-D agency for its child support enforcement program may be considered as the State's share in claiming Federal reimbursement where such funds are:
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.This amendment was delayed until Apr. 28, 2025 at 90 FR 10797, Feb. 27, 2025.
 
-(1) Appropriated directly to the IV-D agency; or
+(a) Public funds, other than those derived from private resources, used by the IV-D agency for its child support enforcement program may be considered as the State's share in claiming Federal reimbursement where such funds are: 
 
-(2) Funds of another public agency which are:
+(1) Appropriated directly to the IV-D agency; or 
 
-(i) Transferred to the IV-D agency and are under its administrative control; or
+(2) Funds of another public agency which are: 
 
-(ii) Certified by the contributing public agency as representing expenditures under the State's IV-D plan, subject to the limitations of this part.
+(i) Transferred to the IV-D agency and are under its administrative control; or 
 
-(b) Public funds used by the IV-D agency for its child support enforcement program may not be considered as the State's share in claiming Federal reimbursement where such funds are:
+(ii) Certified by the contributing public agency as representing expenditures under the State's IV-D plan, subject to the limitations of this part. 
 
-(1) Federal funds, unless authorized by Federal law to be used to match other Federal funds;
+(b) Public funds used by the IV-D agency for its child support enforcement program may not be considered as the State's share in claiming Federal reimbursement where such funds are: 
 
-(2) Used to match other Federal funds.
+(1) Federal funds, unless authorized by Federal law to be used to match other Federal funds; 
+
+(2) Used to match other Federal funds. 
 
 \[41 FR 7105, Feb. 17, 1976\]
