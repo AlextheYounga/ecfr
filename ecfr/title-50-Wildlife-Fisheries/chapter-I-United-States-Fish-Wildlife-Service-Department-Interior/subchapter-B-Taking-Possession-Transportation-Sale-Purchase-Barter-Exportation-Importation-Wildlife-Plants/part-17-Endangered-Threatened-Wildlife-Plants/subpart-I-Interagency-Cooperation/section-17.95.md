@@ -1152,7 +1152,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
+![](/graphics/ec01jn91.020.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (b) *Birds.*
 
@@ -2788,11 +2788,11 @@ Oahu elepaio (*Chasiempis ibidis*)
 
 (27) *Palmeria dolei*—Unit 43—Wet Cliff-Molokai, Maui County, Hawaii (1,607 ac, 651 ha), and *Palmeria dolei*—Unit 44—Wet Cliff-Molokai, Maui County, Hawaii (1,268 ac, 513 ha). These units are critical habitat for the Akohekohe, *Palmeria dolei.* Map of *Palmeria dolei*—Unit 43—Wet Cliff-Molokai and *Palmeria dolei*—Unit 44—Wet Cliff-Molokai follows:
 
-![](/graphics/er30mr16.042.gif)Guam Micronesian Kingfisher (*Halcyon cinnamomina cinnamomina*)
+![](/graphics/er30mr16.042.gif)Guam Kingfisher (*Todiramphus cinnamominus*)
 
-(1) The critical habitat unit for the Guam Micronesian kingfisher is depicted for the Territory of Guam on the maps below.
+(1) The critical habitat unit for the Guam kingfisher is depicted for the Territory of Guam on the maps below.
 
-(2) The primary constituent elements required by the Guam Micronesian kingfisher for the biological needs of foraging, sheltering, roosting, nesting, and rearing of young are found in areas that support limestone, secondary, ravine, swamp, agricultural, and coastal forests composed of native and introduced plant species. These forest types include the primary constituent elements of:
+(2) The primary constituent elements required by the Guam kingfisher for the biological needs of foraging, sheltering, roosting, nesting, and rearing of young are found in areas that support limestone, secondary, ravine, swamp, agricultural, and coastal forests composed of native and introduced plant species. These forest types include the primary constituent elements of:
 
 (i) Closed canopy and well-developed understory vegetation; large (approximately 43 cm (17 in) diameter at breast height), standing dead trees (especially *Tristiropsis obtusangula* (faniok), *Pisonia grandis* (umumu), *Artocarpus* spp. (breadfruit), *Ficus* spp. (fig), and *Cocos nucifera* (coconut palm)); mud nests of *Nasutitermes* spp. termites; and root masses of epiphytic ferns for breeding;
 
@@ -2804,15 +2804,15 @@ Oahu elepaio (*Chasiempis ibidis*)
 
 (4) The critical habitat unit is described below. Coordinates are in UTM Zone 55 with units in meters using North American Datum of 1983 (NAD83) / World Geodetic System 1984 (WGS 84).
 
-(i) Note: Map 1—General Location of the Guam Micronesian Kingfisher Unit—follows:
+(i) *Note:* The reference to “Guam Micronesian Kingfisher” on the map is equivalent to “Guam Kingfisher.” Map 1 showing the general location of the Guam kingfisher unit follows:
 
 ![](/graphics/er28oc04.005.gif)
 
-(ii) Guam, Guam Micronesian kingfisher (376 ac; 152 ha):
+(ii) Guam, Guam kingfisher (376 ac; 152 ha):
 
 (A) \[Reserved\]
 
-(B) Map 2 showing Guam Micronesian Kingfisher Unit follows:
+(B) *Note:* The reference to “Guam Micronesian Kingfisher” on the map is equivalent to “Guam Kingfisher.” Map 2 showing Guam kingfisher unit follows:
 
 ![](/graphics/er28oc04.006.gif)Everglade Snail Kite (*Rostrhamus sociabilis plumbeus*)
 
@@ -9266,11 +9266,11 @@ Elfin-woods Warbler (*Setophaga angelae*)
 
 (ii) Map of Unit 3 follows:
 
-![](/graphics/er30jn20.085.gif)Rota Bridled White-Eye (*Zosterops rotensis*)
+![](/graphics/er30jn20.085.gif)Rota White-eye (*Zosterops rotensis*)
 
 (1) Critical habitat units are depicted for Rota, Commonwealth of the Northern Mariana Islands, on the map below.
 
-(2) The primary constituent elements of critical habitat for the Rota bridled white-eye are the habitat components that provide forest above 490 feet (ft) (150 meters (m)) in elevation containing a midstory and canopy layer, high epiphytic plant volume (typically 11 percent or greater), *Elatostema* and *Procris* spp. on the ground, and *Elaeocarpus joga* (yoga), *Hernandia labyrinthica* (oschal), *Merrilliodendron megacarpum* (faniok), *Pandanus tectorius* (kafu), and/or *Premna obtusifolia* (ahgao) trees as dominant forest components for foraging, sheltering, roosting, and nesting and rearing of young. In addition, the habitat should contain the specific forest components for foraging, nesting, or both, as follows:
+(2) The primary constituent elements of critical habitat for the Rota white-eye are the habitat components that provide forest above 490 feet (ft) (150 meters (m)) in elevation containing a midstory and canopy layer, high epiphytic plant volume (typically 11 percent or greater), *Elatostema* and *Procris* spp. on the ground, and *Elaeocarpus joga* (yoga), *Hernandia labyrinthica* (oschal), *Merrilliodendron megacarpum* (faniok), *Pandanus tectorius* (kafu), and/or *Premna obtusifolia* (ahgao) trees as dominant forest components for foraging, sheltering, roosting, and nesting and rearing of young. In addition, the habitat should contain the specific forest components for foraging, nesting, or both, as follows:
 
 (i) Yoga, oschal, faniok, *Macaranga thompsonii* (pengua), ahgao, *Pipturus argenteus* (amahadyan), *Persea americana* (avocado), *Ficus tinctoria* (hodda), *Aglaia mariannensis* (mapunyao), *Eugenia thompsonii* (atoto), *Acacia confusa* (sosugi), and/or *Tarenna sambucina* (sumac-lada) trees, and/or *Bambusa vulgaris* (piao, bamboo) in the canopy or subcanopy for foraging; or
 
@@ -9282,7 +9282,7 @@ Critical Habitat Map Unit
 
 (4) Data layers defining the mapped unit were created on a base of USGS 7.5′ quadrangles, and the critical habitat unit was then mapped using Universal Transverse Mercator (UTM) coordinates.
 
-(5) Rota bridled white-eye critical habitat, Rota, Commonwealth of the Northern Mariana Islands (3,958 ac; 1,602 ha).
+(5) Rota white-eye critical habitat, Rota, Commonwealth of the Northern Mariana Islands (3,958 ac; 1,602 ha).
 
 (i) Unit excludes 13 areas:
 
@@ -9312,7 +9312,7 @@ Critical Habitat Map Unit
 
 (M) Bounded by the following 69 points (47 ac, 30 ha): 306858, 1566129; 306891, 1566009; 306917, 1565936; 306929, 1565916; 306982, 1565882; 307028, 1565864; 307063, 1565860; 307180, 1565888; 307248, 1565881; 307286, 1565897; 307298, 1565886; 307308, 1565851; 307318, 1565838; 307332, 1565837; 307358, 1565846; 307377, 1565842; 307505, 1565779; 307601, 1565717; 307612, 1565701; 307601, 1565695; 307534, 1565713; 307503, 1565714; 307484, 1565702; 307479, 1565684; 307498, 1565657; 307547, 1565628; 307571, 1565607; 307606, 1565538; 307618, 1565489; 307628, 1565475; 307745, 1565409; 307789, 1565409; 307829, 1565429; 307844, 1565447; 307857, 1565486; 307858, 1565512; 307852, 1565527; 307805, 1565571; 307794, 1565595; 307797, 1565619; 307825, 1565662; 307834, 1565689; 307808, 1565748; 307802, 1565778; 307813, 1565781; 307892, 1565745; 307958, 1565725; 307992, 1565724; 308008, 1565734; 308007, 1565752; 307998, 1565762; 307875, 1565825; 307834, 1565866; 307814, 1565879; 307743, 1565910; 307628, 1565928; 307491, 1565976; 307455, 1565998; 307428, 1566032; 307412, 1566044; 307254, 1566105; 307143, 1566130; 307118, 1566145; 307054, 1566200; 307032, 1566199; 306993, 1566178; 306951, 1566179; 306896, 1566171; 306871, 1566153.
 
-(ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
+(ii) *Note:* The reference to “Rota Bridled White-eye” on the map is equivalent to “Rota White-eye.” Map 1 of the critical habitat for Rota white-eye follows:
 
 ![](/graphics/er12se06.000.gif)Editorial Notes:1\. The remainder of § 17.95 appears in 50 part 17, § 17.95(c) to § 17.95(e) and 50 part 17, § 17.95(f) to end of § 17.95.
 

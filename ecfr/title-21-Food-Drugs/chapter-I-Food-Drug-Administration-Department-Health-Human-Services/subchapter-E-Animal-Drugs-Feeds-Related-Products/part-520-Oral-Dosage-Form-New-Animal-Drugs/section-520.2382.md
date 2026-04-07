@@ -1,4 +1,4 @@
-##### § 520.2380f Thiabendazole and triclorfon.
+##### § 520.2382 Thiabendazole and triclorfon.
 
 (a) *Specifications.* The drug contains 5 grams of thiabendazole with 4.5 grams of trichlorfon, or 20 grams of thiabendazole with 18 grams of trichlorfon.
 
@@ -10,4 +10,4 @@
 
 (3) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-\[40 FR 23071, May 28, 1975, as amended at 48 FR 48229, Oct. 18, 1983; 79 FR 28832, May 20, 2014. Redesignated at 84 FR 39183, Aug. 9, 2019\]
+\[40 FR 23071, May 28, 1975, as amended at 48 FR 48229, Oct. 18, 1983; 79 FR 28832, May 20, 2014. Redesignated at 84 FR 39183, Aug. 9, 2019. Redesignated at 88 FR 27699, May 3, 2023\]
