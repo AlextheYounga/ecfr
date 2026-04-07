@@ -26,4 +26,4 @@
 
 (g) Violations of this RNA may be reported to the COTP, at 203-468-4401 or on VHF-Channel 16. Persons in violation of this RNA may be subject to civil or criminal penalties.
 
-Effective Date Note:By USCG-2012-0824, 78 FR 1148, Jan. 8, 2013, as amended by USCG-2015-0433, 80 FR 44283, July 27, 2015, temporary § 165.T01-0824 was added, effective Jan. 7, 2013, through Nov. 30, 2017.
+Effective Date Note:By USCG-2012-0824, 78 FR 1148, Jan. 8, 2013, as amended by USCG-2015-0433, 80 FR 44283, July 27, 2015, temporary § 165.T01-0824 was added, effective Jan. 7, 2013, to Nov. 30, 2017.

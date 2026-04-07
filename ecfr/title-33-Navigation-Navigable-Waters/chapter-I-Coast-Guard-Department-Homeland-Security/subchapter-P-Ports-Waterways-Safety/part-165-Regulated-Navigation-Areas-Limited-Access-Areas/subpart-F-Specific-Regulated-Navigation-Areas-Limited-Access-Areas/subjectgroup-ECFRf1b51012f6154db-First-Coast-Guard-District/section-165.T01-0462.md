@@ -10,4 +10,4 @@
 
 (d) *Enforcement period.* This section will be enforced from June 22, 2016 through December 31, 2018.
 
-Effective Date Note:At 81 FR 45024, July 12, 2016, temporary § 165.0462 was added, effective July 12, 2016, through Dec. 31, 2018.
+Effective Date Note:At 81 FR 45024, July 12, 2016, temporary § 165.0462 was added, effective July 12, 2016, to Dec. 31, 2018.

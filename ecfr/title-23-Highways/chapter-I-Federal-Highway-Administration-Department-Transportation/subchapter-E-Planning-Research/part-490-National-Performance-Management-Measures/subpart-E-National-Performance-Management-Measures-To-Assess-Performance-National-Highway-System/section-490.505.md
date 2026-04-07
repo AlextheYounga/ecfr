@@ -9,5 +9,3 @@ All definitions in § 490.101 apply to this subpart. Unless otherwise specified 
 *Normal Travel Time (or 50th percentile travel time)* is the time of travel to traverse the full extent of a reporting segment which is greater than the time for 50 percent of the travel in a calendar year to traverse the same reporting segment.
 
 *Travel time cumulative probability distribution* means a representation of all the travel times for a road segment during a defined reporting period (such as annually) presented in a percentile ranked order as provided in the travel time data set. The normal (50th percentile) and 80th percentile travel times used to compute the Travel Time Reliability measures may be identified by the travel time cumulative probability distribution.
-
-Effective Date Note:At 82 FR 22879, May 19, 2017, the effective date of the § 490.505 definition of Greenhouse Gas (GHG) was delayed indefinitely.

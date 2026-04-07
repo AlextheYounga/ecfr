@@ -93,5 +93,3 @@
 (iv) A description of the actions the State DOT will undertake to achieve the target established for the Freight Reliability measure in § 490.607.
 
 (3) The State DOT should, within 6 months of the significant progress determination, amend its Biennial Performance Report to document the information specified in this paragraph to ensure actions are being taken to achieve targets.
-
-Effective Date Note:At 82 FR 22879, May 19, 2017, the effective date of the amendments to § 490.109(d)(1)(v) and (f)(1)(v) was delayed indefinitely.
