@@ -1,12 +1,12 @@
 ##### 252.217-7026 Identification of Sources of Supply.
 
-As prescribed in 217.7303, use the following provision: 
+As prescribed in 217.7303, use the following provision:
 
 Identification of Sources of Supply (JAN 2023)
 
-(a) The Government is required under 10 U.S.C. 4753 to obtain certain information on the actual manufacturer or sources of supplies it acquires. 
+(a) The Government is required under 10 U.S.C. 4753 to obtain certain information on the actual manufacturer or sources of supplies it acquires.
 
-(b) The apparently successful Offeror agrees to complete and submit the following table before award: 
+(b) The apparently successful Offeror agrees to complete and submit the following table before award:
 
 Table
 | Line items                                                                                                                                                                    | National stock No. | Commercial item (Y or N) | Source of supply | Actual mfg?  |

@@ -1,6 +1,6 @@
 ##### 252.229-7008 Relief from Import Duty (United Kingdom)
 
-As prescribed in 229.402-70(h), use the following clause: 
+As prescribed in 229.402-70(h), use the following clause:
 
 Relief from Import Duty (United Kingdom) (DEC 2011)
 

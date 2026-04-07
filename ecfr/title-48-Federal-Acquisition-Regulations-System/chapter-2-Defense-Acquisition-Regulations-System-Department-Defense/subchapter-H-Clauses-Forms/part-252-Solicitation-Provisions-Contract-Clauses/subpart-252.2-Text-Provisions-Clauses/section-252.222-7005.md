@@ -1,6 +1,6 @@
 ##### 252.222-7005 Prohibition on use of nonimmigrant aliens—Guam.
 
-As prescribed in 222.7302, use the following clause: 
+As prescribed in 222.7302, use the following clause:
 
 Prohibition on Use of Nonimmigrant Aliens—Guam (SEP 1999)
 

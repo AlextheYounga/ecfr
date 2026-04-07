@@ -1,6 +1,6 @@
 ##### 252.229-7007 Verification of United States receipt of goods.
 
-As prescribed in 229.402-70(g), use the following clause: 
+As prescribed in 229.402-70(g), use the following clause:
 
 Verification of United States Receipt of Goods (JUN 1997)
 

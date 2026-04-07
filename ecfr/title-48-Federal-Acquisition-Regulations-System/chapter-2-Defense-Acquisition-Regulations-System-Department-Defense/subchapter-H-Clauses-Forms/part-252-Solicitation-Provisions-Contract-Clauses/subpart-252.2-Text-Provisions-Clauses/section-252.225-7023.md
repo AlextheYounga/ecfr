@@ -1,18 +1,18 @@
 ##### 252.225-7023 Preference for Products or Services from Afghanistan.
 
-As prescribed in 225.7703-*4*(a), use the following provision: 
+As prescribed in 225.7703-*4*(a), use the following provision:
 
 Preference for Products or Services From Afghanistan (SEP 2013)
 
-(a) *Definitions.* “Product from Afghanistan” and “service from Afghanistan,” as used in this provision, are defined in the clause of this solicitation entitled “Requirement for Products or Services from Afghanistan” (DFARS 252.225-7024). 
+(a) *Definitions.* “Product from Afghanistan” and “service from Afghanistan,” as used in this provision, are defined in the clause of this solicitation entitled “Requirement for Products or Services from Afghanistan” (DFARS 252.225-7024).
 
-(b) *Representation.* The offeror represents that all products or services to be delivered under a contract resulting from this solicitation are products from Afghanistan or services from Afghanistan, except those listed in— 
+(b) *Representation.* The offeror represents that all products or services to be delivered under a contract resulting from this solicitation are products from Afghanistan or services from Afghanistan, except those listed in—
 
-(1) Paragraph (c) of this provision; or 
+(1) Paragraph (c) of this provision; or
 
-(2) Paragraph (c)(2) of the provision entitled “Trade Agreements Certificate,” if included in this solicitation. 
+(2) Paragraph (c)(2) of the provision entitled “Trade Agreements Certificate,” if included in this solicitation.
 
-(c) *Other products or services.* The following offered products or services are not products from Afghanistan or services from Afghanistan: 
+(c) *Other products or services.* The following offered products or services are not products from Afghanistan or services from Afghanistan:
 
 (*Line Item Number*) (*Country of Origin*)
 

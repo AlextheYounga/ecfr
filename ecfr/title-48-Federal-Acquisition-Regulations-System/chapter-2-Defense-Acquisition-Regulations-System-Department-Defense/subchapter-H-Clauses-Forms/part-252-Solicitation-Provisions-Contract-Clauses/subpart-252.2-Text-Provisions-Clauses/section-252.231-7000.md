@@ -1,6 +1,6 @@
 ##### 252.231-7000 Supplemental cost principles.
 
-As prescribed in 231.100-70, use the following clause: 
+As prescribed in 231.100-70, use the following clause:
 
 Supplemental Cost Principles (DEC 1991)
 
