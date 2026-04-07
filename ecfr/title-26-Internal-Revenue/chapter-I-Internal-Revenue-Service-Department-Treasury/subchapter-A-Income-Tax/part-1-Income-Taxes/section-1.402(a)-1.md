@@ -243,4 +243,4 @@ Example 2.(i) *Facts.* Employer B sponsors a profit-sharing plan qualified under
 
 (7) *Effective/applicability date.* This paragraph (e) applies for taxable years beginning on or after January 1, 2015.
 
-\[T.D. 6500, 25 FR 11675, Nov. 26, 1960\] Editorial Note:For Federal Register citations affecting § 1.402(a)-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+\[T.D. 6500, 25 FR 11675, Nov. 26, 1960\] Editorial Note:For Federal Register citations affecting § 1.402(a)-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
