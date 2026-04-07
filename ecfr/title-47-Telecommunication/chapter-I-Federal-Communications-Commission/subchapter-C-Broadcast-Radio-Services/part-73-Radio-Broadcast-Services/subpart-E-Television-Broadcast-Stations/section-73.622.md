@@ -605,7 +605,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | St. Joseph           | 7, 21                                               |
 | St. Louis            | 14, \*23, 24, 26, 31, 33, 35                        |
 | Montana              |                                                     |
-| Billings             | 10, 11, \*16, 18                                    |
+| Billings             | 11, \*16, 18, 20                                    |
 | Bozeman              | \*8, 13                                             |
 | Butte                | 5, 19, 20, 24                                       |
 | Glendive             | 5                                                   |
@@ -681,7 +681,7 @@ Attenuation in dB = −11.5(Δf + 3.6); Where: Δf = frequency difference in MHz
 | Santa Fe             | \*8, 10, 27, 29                                     |
 | Silver City          | 10, 12                                              |
 | New York             |                                                     |
-| Albany               | 8, 12, 24                                           |
+| Albany               | 8, 21, 24                                           |
 | Amsterdam            | 19                                                  |
 | Batavia              | 24                                                  |
 | Binghamton           | 7, 8, 27, \*31                                      |
