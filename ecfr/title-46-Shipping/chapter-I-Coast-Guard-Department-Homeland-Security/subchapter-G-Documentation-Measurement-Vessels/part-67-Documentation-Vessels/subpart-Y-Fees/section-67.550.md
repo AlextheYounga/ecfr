@@ -1,6 +1,6 @@
 ##### § 67.550 Fee table.
 
-The fees charged under subpart Y are as set forth in Table 1 to 67.550.
+The fees charged under subpart Y are as set forth in Table 1 to 67.550. 
 
 Table 1 to § 67.550—Fees
 | Activity                                                                                                                                                                                                                              | Fee      |

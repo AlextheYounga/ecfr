@@ -1,12 +1,12 @@
 ##### § 174.020 Alternate intact stability criterion.
 
-A barge need not comply with § 174.015 and subparts C and E of part 170 of this chapter if it has the following characteristics:
+A barge need not comply with § 174.015 and subparts C and E of part 170 of this chapter if it has the following characteristics: 
 
-(a) The weather deck is watertight.
+(a) The weather deck is watertight. 
 
-(b) The barge's hull proportions fall within any one of the ratios in categories (A) through (D) in Table 174.020.
+(b) The barge's hull proportions fall within any one of the ratios in categories (A) through (D) in Table 174.020. 
 
-(c) The maximum cargo height is 30 feet (9.25 meters) or a value equal to the depth of the barge amidships, whichever is less.
+(c) The maximum cargo height is 30 feet (9.25 meters) or a value equal to the depth of the barge amidships, whichever is less. 
 
 Table 174.020
 | Category | Beam/depth ratio | Draft/depth ratio           |

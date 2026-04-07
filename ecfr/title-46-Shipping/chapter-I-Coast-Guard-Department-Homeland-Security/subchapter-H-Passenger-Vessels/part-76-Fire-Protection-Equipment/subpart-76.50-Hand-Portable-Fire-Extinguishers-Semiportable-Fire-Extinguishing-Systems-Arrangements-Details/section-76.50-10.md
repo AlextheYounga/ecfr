@@ -1,8 +1,10 @@
 ##### § 76.50-10 Location.
 
-(a) Approved portable and semi-portable extinguishers must be installed in accordance with table 76.50-10(a) of this section.
+Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
 
-(b) Table 76.50-10(a) indicates the minimum required number and type of extinguisher for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
+(a) Approved portable and semi-portable extinguishers must be installed in accordance with table 76.50-10(a) of this section. 
+
+(b) Table 76.50-10(a) indicates the minimum required number and type of extinguisher for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table. 
 
 Table 76.50—10(a)—Carriage of Portable and Semi-Portable Fire Extinguishers
 | Space                                                                                                                                                                                                                                                                                                                     | Fire extinguishing |
@@ -59,12 +61,12 @@ Table 76.50—10(a)—Carriage of Portable and Semi-Portable Fire Extinguishers
 | 7 Two 5-B units may be substituted for 1 20-B unit.                                                                                                                                                                                                                                                                       |                    |
 | The location of the equipment must be to the satisfaction of the Officer in Charge, Marine Inspection. Nothing in this paragraph should be construed as limiting the Officer in Charge, Marine Inspection, from requiring such additional equipment as he or she deems necessary for the proper protection of the vessel. |                    |
 
-(c) Semi-portable fire extinguishing systems must be located in the open so as to be readily seen.
+(c) Semi-portable fire extinguishing systems must be located in the open so as to be readily seen. 
 
-(d) If portable fire extinguishers are not located in the open or behind glass so that they may be readily seen, they may be placed in enclosures together with the firehose, provided such enclosures are marked as required by § 78.47-20 of this subchapter.
+(d) If portable fire extinguishers are not located in the open or behind glass so that they may be readily seen, they may be placed in enclosures together with the firehose, provided such enclosures are marked as required by § 78.47-20 of this subchapter. 
 
-(e) Portable fire extinguishers and their stations must be numbered in accordance with § 78.47-30 of this subchapter.
+(e) Portable fire extinguishers and their stations must be numbered in accordance with § 78.47-30 of this subchapter. 
 
-(f) Portable or semi-portable extinguishers, which are required on their nameplates to be protected from freezing, must not be located where freezing temperatures may be expected.
+(f) Portable or semi-portable extinguishers, which are required on their nameplates to be protected from freezing, must not be located where freezing temperatures may be expected. 
 
 \[USCG-2012-0196, 81 FR 48259, July 22, 2016\]

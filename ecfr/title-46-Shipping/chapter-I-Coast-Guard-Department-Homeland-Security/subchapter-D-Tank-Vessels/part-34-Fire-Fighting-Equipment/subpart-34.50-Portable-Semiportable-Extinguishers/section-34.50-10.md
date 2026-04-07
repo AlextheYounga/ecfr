@@ -1,20 +1,22 @@
 ##### § 34.50-10 Location, number, and installation of fire extinguishers—TB/ALL.
 
-(a) Approved portable and semi-portable extinguishers must be installed in accordance with table 34.50-10(a) of this section. The location of the equipment must be, in the opinion of the Officer in Charge, Marine Inspection, convenient in case of emergency. Where special circumstances exist, not covered by table 34.50-10(a) of this section, the Officer in Charge, Marine Inspection, may require additional equipment as deemed necessary for the proper protection of the vessel.
+Link to an amendment published at 89 FR 76695, Sept. 18, 2024.
 
-(b) For additional portable extinguishers as a substitute for sand, see § 34.55-10.
+(a) Approved portable and semi-portable extinguishers must be installed in accordance with table 34.50-10(a) of this section. The location of the equipment must be, in the opinion of the Officer in Charge, Marine Inspection, convenient in case of emergency. Where special circumstances exist, not covered by table 34.50-10(a) of this section, the Officer in Charge, Marine Inspection, may require additional equipment as deemed necessary for the proper protection of the vessel. 
 
-(c) Semi-portable extinguishers must be located in the open so as to be readily seen.
+(b) For additional portable extinguishers as a substitute for sand, see § 34.55-10. 
 
-(d) If portable extinguishers are not located in the open or behind glass so that they may be readily seen they may be placed in enclosures together with the firehose, provided such enclosures are marked as required by § 35.40-25 of this subchapter.
+(c) Semi-portable extinguishers must be located in the open so as to be readily seen. 
 
-(e) Portable extinguishers and their stations must be numbered in accordance with § 35.40-25 of this subchapter.
+(d) If portable extinguishers are not located in the open or behind glass so that they may be readily seen they may be placed in enclosures together with the firehose, provided such enclosures are marked as required by § 35.40-25 of this subchapter. 
 
-(f) Portable or semi-portable extinguishers which are required by their nameplates to be protected from freezing must not be located where freezing temperatures may be expected.
+(e) Portable extinguishers and their stations must be numbered in accordance with § 35.40-25 of this subchapter. 
 
-(g) Semi-portable extinguishers must be fitted with a suitable hose and nozzle, or other practicable means, so that all portions of the space concerned can be protected.
+(f) Portable or semi-portable extinguishers which are required by their nameplates to be protected from freezing must not be located where freezing temperatures may be expected. 
 
-(h) Table 34.50-10(a) of this section indicates the minimum required number and type for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
+(g) Semi-portable extinguishers must be fitted with a suitable hose and nozzle, or other practicable means, so that all portions of the space concerned can be protected. 
+
+(h) Table 34.50-10(a) of this section indicates the minimum required number and type for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table. 
 
 Table 34.50-10(a)—Portable and Semi-Portable Extinguishers
 | Tank ships                                                                                                                                                                                                                                                                                                                                 | Area     | Tank barges                                                                                                                                         |

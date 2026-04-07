@@ -1,5 +1,5 @@
 ##### § 59.10-20 Patches in shells and tube sheets.
 
-(a) Unreinforced openings in the shells or drums of boilers or pressure vessels may be closed by the use of a patch or plate inside the drum or shell and sealed against leakage by welding. Such plates must have a diameter of at least 2 inches larger than the diameter of the hole and must have a thickness equal to the thickness of the plate to which it is attached. It is not permissible to insert such patches in the shell or head flush with the surrounding plate unless the requirements of this subchapter for Class I welded pressure vessels are met.
+(a) Unreinforced openings in the shells or drums of boilers or pressure vessels may be closed by the use of a patch or plate inside the drum or shell and sealed against leakage by welding. Such plates must have a diameter of at least 2 inches larger than the diameter of the hole and must have a thickness equal to the thickness of the plate to which it is attached. It is not permissible to insert such patches in the shell or head flush with the surrounding plate unless the requirements of this subchapter for Class I welded pressure vessels are met. 
 
 (b) Portions of tube sheets which have deteriorated may be renewed by replacing the wasted portion with a new section. The ligaments between the tube holes may be joined by means of welding and staytubes.

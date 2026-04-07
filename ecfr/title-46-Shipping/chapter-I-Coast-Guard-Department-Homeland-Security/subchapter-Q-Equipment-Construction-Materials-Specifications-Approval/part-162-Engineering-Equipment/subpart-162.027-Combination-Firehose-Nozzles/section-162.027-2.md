@@ -4,14 +4,14 @@
 
 (b) ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428, 877-909-2786, *http://www.astm.org.*
 
-(1) ASTM F1546/F1546 M-96 (Reapproved 2012), Standard Specification for Fire Hose Nozzles, approved May 1, 2012, (“ASTM F 1546”), IBR approved for §§ 162.027-3(a) through (c), and 162.027-4(a) and (d).
+(1) ASTM F1546/F1546 M-96 (Reapproved 2012), Standard Specification for Fire Hose Nozzles, approved May 1, 2012, (“ASTM F 1546”), IBR approved for §§ 162.027-3(a) through (c), and 162.027-4(a) and (d). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
-(c) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169, 617-770-3000, *http://www.nfpa.org*.
+(c) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169, 617-770-3000, *http://www.nfpa.org*. 
 
-(1) NFPA 1964 Standard for Spray Nozzles, 2008 Edition, effective December 31, 2007, IBR approved for §§ 162.027-3(a) through (c), and 162.027-4(a) and (d).
+(1) NFPA 1964 Standard for Spray Nozzles, 2008 Edition, effective December 31, 2007, IBR approved for §§ 162.027-3(a) through (c), and 162.027-4(a) and (d). 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 \[USCG-2012-0196, 81 FR 48277, July 22, 2016\]

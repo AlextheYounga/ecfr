@@ -1,13 +1,13 @@
 ##### § 111.01-5 Protection from bilge water.
 
-Each of the following in or around the bilge area must be arranged or constructed so that it cannot be damaged by bilge water:
+Each of the following in or around the bilge area must be arranged or constructed so that it cannot be damaged by bilge water: 
 
-(a) Generators.
+(a) Generators. 
 
-(b) Motors.
+(b) Motors. 
 
-(c) Electric coupling.
+(c) Electric coupling. 
 
-(d) Electric cable.
+(d) Electric cable. 
 
 \[CGD 94-108, 61 FR 28275, June 4, 1996\]

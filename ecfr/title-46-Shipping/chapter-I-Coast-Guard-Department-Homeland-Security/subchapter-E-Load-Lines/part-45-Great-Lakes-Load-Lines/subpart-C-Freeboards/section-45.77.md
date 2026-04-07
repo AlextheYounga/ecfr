@@ -1,6 +1,6 @@
 ##### § 45.77 Salt water freeboard.
 
-(a) The salt water addition in inches to freeboard applicable to each fresh water mark is obtained by the formula:
+(a) The salt water addition in inches to freeboard applicable to each fresh water mark is obtained by the formula: 
 
 Addition=Δ/41T where: Δ = displacement in fresh water, in tons of 2,240 pounds, at the summer load waterline. T = tons per inch immersion, of 2,240 pounds, in fresh water at the summer load waterline.
 

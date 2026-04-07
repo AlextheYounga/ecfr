@@ -1,6 +1,6 @@
 ##### § 13.129 Quick-reference table for tankerman endorsements.
 
-Table 1 to § 13.129 provides a guide to the requirements for various tankerman endorsements. Provisions in the reference sections are controlling.
+Table 1 to § 13.129 provides a guide to the requirements for various tankerman endorsements. Provisions in the reference sections are controlling. 
 
 Table 1 to § 13.129
 | Category                                   | Minimum age      | Physical required       | Service      | Recency of   service | Proof of service | Firefighting | Cargo   training | English   language |

@@ -1,6 +1,6 @@
 ##### § 95.60-5 Number required.
 
-(a) All vessels except barges shall carry at least the minimum number of fire axes as set forth in Table 95.60-5(a). Nothing in this paragraph shall be construed as limiting the Officer in Charge, Marine Inspection, from requiring such additional fire axes as he deems necessary for the proper protection of the vessel.
+(a) All vessels except barges shall carry at least the minimum number of fire axes as set forth in Table 95.60-5(a). Nothing in this paragraph shall be construed as limiting the Officer in Charge, Marine Inspection, from requiring such additional fire axes as he deems necessary for the proper protection of the vessel. 
 
 Table 95.60-5(a)
 | Gross tons | Number of axes |

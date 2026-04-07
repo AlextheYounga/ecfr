@@ -1,40 +1,40 @@
 ##### § 13.121 Courses for tankerman endorsements.
 
-(a) This section prescribes the requirements, beyond those in §§ 10.302 and 10.304 of this subchapter, applicable to schools offering courses required for a tankerman endorsement and courses that are a substitute for experience with transfers of liquid cargo in bulk required for the endorsement.
+(a) This section prescribes the requirements, beyond those in §§ 10.302 and 10.304 of this subchapter, applicable to schools offering courses required for a tankerman endorsement and courses that are a substitute for experience with transfers of liquid cargo in bulk required for the endorsement. 
 
-(b) A course that uses simulated transfers to train students in loading and discharging tank vessels may replace up to two loadings and two discharges, one commencement and one completion of loading, and one commencement and one completion of discharge required for a tankerman-PIC or tankerman-PIC (barge) endorsement. The request for approval of the course must specify those segments of a transfer that the course will simulate. The letter from the Coast Guard approving the course will state the number and kind of segments that the course will replace.
+(b) A course that uses simulated transfers to train students in loading and discharging tank vessels may replace up to two loadings and two discharges, one commencement and one completion of loading, and one commencement and one completion of discharge required for a tankerman-PIC or tankerman-PIC (barge) endorsement. The request for approval of the course must specify those segments of a transfer that the course will simulate. The letter from the Coast Guard approving the course will state the number and kind of segments that the course will replace. 
 
-(c) The liquid cargo course required for an endorsement as—
+(c) The liquid cargo course required for an endorsement as— 
 
-(1) Tankerman-PIC DL is Tankship: Dangerous Liquids;
+(1) Tankerman-PIC DL is Tankship: Dangerous Liquids; 
 
-(2) Tankerman-PIC (barge) DL is Tank Barge: Dangerous Liquids;
+(2) Tankerman-PIC (barge) DL is Tank Barge: Dangerous Liquids; 
 
-(3) Tankerman-PIC LG is Tankship: Liquefied Gases;
+(3) Tankerman-PIC LG is Tankship: Liquefied Gases; 
 
-(4) Tankerman-PIC (barge) LG is Tank Barge: Liquefied Gases;
+(4) Tankerman-PIC (barge) LG is Tank Barge: Liquefied Gases; 
 
-(5) Tankerman assistant DL is Tankship: Familiarization (Dangerous Liquids);
+(5) Tankerman assistant DL is Tankship: Familiarization (Dangerous Liquids); 
 
-(6) Tankerman assistant LG is Tankship: Familiarization (Liquefied Gases);
+(6) Tankerman assistant LG is Tankship: Familiarization (Liquefied Gases); 
 
-(7) Tankerman-engineer DL is Tankship: Dangerous Liquids; and
+(7) Tankerman-engineer DL is Tankship: Dangerous Liquids; and 
 
-(8) Tankerman-engineer LG is Tankship: Liquefied Gases.
+(8) Tankerman-engineer LG is Tankship: Liquefied Gases. 
 
-(d) The firefighting course required for an endorsement as—
+(d) The firefighting course required for an endorsement as— 
 
-(1) Tankerman-PIC (barge) is Tank Barge: Firefighting or basic firefighting; and
+(1) Tankerman-PIC (barge) is Tank Barge: Firefighting or basic firefighting; and 
 
-(2) Tankerman-PIC, tankerman-assistant, and tankerman-engineer is basic firefighting.
+(2) Tankerman-PIC, tankerman-assistant, and tankerman-engineer is basic firefighting. 
 
-(e) The Coast Guard will evaluate and approve the curricula of courses to ensure adequate coverage of the required subjects. Training may employ classroom instruction, demonstrations, or simulated or actual operations.
+(e) The Coast Guard will evaluate and approve the curricula of courses to ensure adequate coverage of the required subjects. Training may employ classroom instruction, demonstrations, or simulated or actual operations. 
 
-(1) The course curricula for Tankship Familiarization must consist of the topics identified in Table 1 to § 13.121(e) of this subpart.
+(1) The course curricula for Tankship Familiarization must consist of the topics identified in Table 1 to § 13.121(e) of this subpart. 
 
-(2) The course curricula for tankerman-PIC, tankerman-PIC (barge), and tankerman-engineer endorsements must consist of the topics identified in Table 2 to § 13.121(e) of this subpart.
+(2) The course curricula for tankerman-PIC, tankerman-PIC (barge), and tankerman-engineer endorsements must consist of the topics identified in Table 2 to § 13.121(e) of this subpart. 
 
-(3) The course curricula for firefighting courses must consist of the topics identified in Table 3 to § 13.121(e) of this subpart.
+(3) The course curricula for firefighting courses must consist of the topics identified in Table 3 to § 13.121(e) of this subpart. 
 
 Table 1 to § 13.121(e)
 | Tankship familiarization topics                                                                                                                                                                | 1 | 2 |

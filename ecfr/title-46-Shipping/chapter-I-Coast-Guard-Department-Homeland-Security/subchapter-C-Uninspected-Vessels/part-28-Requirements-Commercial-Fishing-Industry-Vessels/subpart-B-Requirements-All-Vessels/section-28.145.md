@@ -1,6 +1,6 @@
 ##### § 28.145 Distress signals.
 
-Except as provided by 28.305, each vessel must be equipped with the distress signals specified in table 28.145.
+Except as provided by 28.305, each vessel must be equipped with the distress signals specified in table 28.145. 
 
 Table 28.145—Distress Signals
 | Area                                                                                                         | Devices required                                                                                                                                                                                                                                                      |

@@ -4,20 +4,20 @@
 
 (b) International Maritime Organization (IMO), Publications Section, 4 Albert Embankment, London SE1 7SR, United Kingdom, telephone + 44 (0)20 7735 7611, *www.imo.org.*
 
-(1) MSC/Circ. 848, Revised Guidelines for The Approval of Equivalent Fixed Gas Fire-Extinguishing Systems, as Referred to in SOLAS 74, for Machinery Spaces and Cargo Pump-Rooms (June 8, 1998), (“MSC/Circ. 848”), IBR approved for § 162.161-6.
+(1) MSC/Circ. 848, Revised Guidelines for The Approval of Equivalent Fixed Gas Fire-Extinguishing Systems, as Referred to in SOLAS 74, for Machinery Spaces and Cargo Pump-Rooms (June 8, 1998), (“MSC/Circ. 848”), IBR approved for § 162.161-6. 
 
-(2) MSC.1/Circ. 1267, Amendments to Revised Guidelines for the Approval of Equivalent Fixed Gas Fire-Extinguishing Systems, as Referred to in SOLAS 74, for Machinery Spaces and Cargo Pump-Rooms (MSC/Circ. 848) (June 4, 2008), (“MSC.1/Circ. 1267”), IBR approved for § 162.161-6.
+(2) MSC.1/Circ. 1267, Amendments to Revised Guidelines for the Approval of Equivalent Fixed Gas Fire-Extinguishing Systems, as Referred to in SOLAS 74, for Machinery Spaces and Cargo Pump-Rooms (MSC/Circ. 848) (June 4, 2008), (“MSC.1/Circ. 1267”), IBR approved for § 162.161-6. 
 
 (c) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169-7471, telephone 617-770-3000, *http://www.nfpa.org.*
 
-(1) NFPA 2001, Standard on Clean Agent Fire Extinguishing Systems, 2008 Edition, (“NFPA 2001”), IBR approved for §§ 162.161-1 and 162.161-3.
+(1) NFPA 2001, Standard on Clean Agent Fire Extinguishing Systems, 2008 Edition, (“NFPA 2001”), IBR approved for §§ 162.161-1 and 162.161-3. 
 
-(2) \[Reserved\]
+(2) \[Reserved\] 
 
 (d) Underwriters Laboratories, Inc. (UL), 333 Pfingsten Road, Northbrook, IL 60062, telephone 847-272-8800, *www.ul.com.*
 
-(1) UL 2127, Standard for Safety forInert Gas Clean Agent Extinguishing System Units (Revised March 22, 2001), (“UL 2127”), IBR approved for §§ 162.161-5, 162.161-6 and 162.161-7.
+(1) UL 2127, Standard for Safety forInert Gas Clean Agent Extinguishing System Units (Revised March 22, 2001), (“UL 2127”), IBR approved for §§ 162.161-5, 162.161-6 and 162.161-7. 
 
-(2) UL 2166, Standard for Safety for Halocarbon Clean Agent Extinguishing System Units (Revised March 22, 2001), (“UL 2166”), IBR approved for §§ 162.161-5, 162.161-6 and 162.161-7.
+(2) UL 2166, Standard for Safety for Halocarbon Clean Agent Extinguishing System Units (Revised March 22, 2001), (“UL 2166”), IBR approved for §§ 162.161-5, 162.161-6 and 162.161-7. 
 
 \[USCG-2006-24797, 77 FR 33886, June 7, 2012, as amended by USCG-2013-0671, 78 FR 60161, Sept. 30, 2013\]

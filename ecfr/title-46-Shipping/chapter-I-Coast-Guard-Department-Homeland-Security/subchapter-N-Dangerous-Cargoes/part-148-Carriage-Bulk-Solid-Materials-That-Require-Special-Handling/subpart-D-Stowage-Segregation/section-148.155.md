@@ -1,26 +1,26 @@
 ##### § 148.155 Stowage and segregation for potentially dangerous materials.
 
-(a) A PDM must be stowed and segregated according to the requirements of this section and Table 148.155 of this section.
+(a) A PDM must be stowed and segregated according to the requirements of this section and Table 148.155 of this section. 
 
-(b) When transporting coal—
+(b) When transporting coal— 
 
-(1) Coal must be stowed separate from materials of Class/division 1.4 and Classes 2, 3, 4, and 5 in packaged form; and separated from bulk solid materials of Classes 4 and 5.1;
+(1) Coal must be stowed separate from materials of Class/division 1.4 and Classes 2, 3, 4, and 5 in packaged form; and separated from bulk solid materials of Classes 4 and 5.1; 
 
-(2) No material of Class 5.1, in either packaged or bulk solid form, may be stowed above or below a cargo of coal; and
+(2) No material of Class 5.1, in either packaged or bulk solid form, may be stowed above or below a cargo of coal; and 
 
-(3) Coal must be separated longitudinally by an intervening complete cargo compartment or hold from materials of Class 1 other than Class/division 1.4.
+(3) Coal must be separated longitudinally by an intervening complete cargo compartment or hold from materials of Class 1 other than Class/division 1.4. 
 
-(c) When transporting direct reduced iron (DRI)—
+(c) When transporting direct reduced iron (DRI)— 
 
-(1) DRI lumps, pellets, or cold-molded briquettes, and DRI hot-molded briquettes, must be separated from materials of Class/division 1.4, Classes 2, 3, 4, 5, Class 8 acids in packaged form, and bulk solid materials of Classes 4 and 5.1; and
+(1) DRI lumps, pellets, or cold-molded briquettes, and DRI hot-molded briquettes, must be separated from materials of Class/division 1.4, Classes 2, 3, 4, 5, Class 8 acids in packaged form, and bulk solid materials of Classes 4 and 5.1; and 
 
-(2) No material of Class 1, other than Class/division 1.4, may be transported on the same vessel with DRI.
+(2) No material of Class 1, other than Class/division 1.4, may be transported on the same vessel with DRI. 
 
-(d) Petroleum coke, calcined or uncalcined, must be—
+(d) Petroleum coke, calcined or uncalcined, must be— 
 
-(1) Separated longitudinally by an intervening complete cargo compartment or hold from materials of Class/divisions 1.1 and 1.5; and
+(1) Separated longitudinally by an intervening complete cargo compartment or hold from materials of Class/divisions 1.1 and 1.5; and 
 
-(2) Separated by a complete cargo compartment or hold from all hazardous materials and other potentially dangerous materials in packaged and bulk solid form.
+(2) Separated by a complete cargo compartment or hold from all hazardous materials and other potentially dangerous materials in packaged and bulk solid form. 
 
 Table 148.155—Stowage and Segregation Requirements for Potentially Dangerous Material
 | Potentially dangerous material                                  | Segregate as for class listed 1 | “Separate from” foodstuffs | Load only under dry weather conditions | Keep dry | Mechanical ventilation required | “Separate from” material listed                 | Special provisions                 |

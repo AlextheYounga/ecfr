@@ -1,34 +1,34 @@
 ##### § 160.077-17 Construction and Performance—Type I and Commercial Hybrid PFD.
 
-(a) *General.* Each commercial hybrid PFD must meet—
+(a) *General.* Each commercial hybrid PFD must meet— 
 
-(1) Paragraph (b) of this section; and
+(1) Paragraph (b) of this section; and 
 
-(2) Section 160.077-15, except § 160.077-15(a)(2)(iii) and § 160.077-15(c)(1)(i).
+(2) Section 160.077-15, except § 160.077-15(a)(2)(iii) and § 160.077-15(c)(1)(i). 
 
-(b) *Additional requirements.* Each commercial hybrid PFD must—
+(b) *Additional requirements.* Each commercial hybrid PFD must— 
 
-(1) Be able to pass the tests in § 160.077-21;
+(1) Be able to pass the tests in § 160.077-21; 
 
-(2) Not present a snag hazard when properly worn;
+(2) Not present a snag hazard when properly worn; 
 
-(3) When worn inflated, have a visible external surface area of at least 1300 sq. cm (200 sq. in.) in front and 450 sq. cm (70 sq. in.) in back that are primarily vivid reddish orange as defined by sections 13 and 14 of the “Color Names Dictionary”;
+(3) When worn inflated, have a visible external surface area of at least 1300 sq. cm (200 sq. in.) in front and 450 sq. cm (70 sq. in.) in back that are primarily vivid reddish orange as defined by sections 13 and 14 of the “Color Names Dictionary”; 
 
-(4) Have at least one inflation chamber, except that a hybrid PFD approved as a SOLAS lifejacket must have at least two inflation chambers;
+(4) Have at least one inflation chamber, except that a hybrid PFD approved as a SOLAS lifejacket must have at least two inflation chambers; 
 
-(5) Have at least one manual inflation mechanism.
+(5) Have at least one manual inflation mechanism. 
 
-(6) Have at least one automatic inflation mechanism that inflates at least one chamber; and
+(6) Have at least one automatic inflation mechanism that inflates at least one chamber; and 
 
-(7) Not require second stage donning after inflation.
+(7) Not require second stage donning after inflation. 
 
-(8) If approved for adults, be universally sized as specified in § 160.077-15(b)(7).
+(8) If approved for adults, be universally sized as specified in § 160.077-15(b)(7). 
 
-(9) Commercial hybrid PFDs employing closures with less than 1600 N (360 lb) strength, must have at least two closures that meet UL 1517, Section 22.1.
+(9) Commercial hybrid PFDs employing closures with less than 1600 N (360 lb) strength, must have at least two closures that meet UL 1517, Section 22.1. 
 
-(10) Each commercial hybrid PFD must have an attachment for a PFD light securely fastened to the front shoulder area. The location should be such that if the light is attached it will not damage or impair the performance of the PFD.
+(10) Each commercial hybrid PFD must have an attachment for a PFD light securely fastened to the front shoulder area. The location should be such that if the light is attached it will not damage or impair the performance of the PFD. 
 
-(11) In the deflated and the inflated condition, provide buoyancies of at least the values in Table 160.077-17(b)(11).
+(11) In the deflated and the inflated condition, provide buoyancies of at least the values in Table 160.077-17(b)(11). 
 
 Table 160.077-17(b)(11)—Minimum Buoyancy of Type I and Commercial Hybrid PFDs
 |                                         | Adult          | Youth         | Small child  |

@@ -2,7 +2,7 @@
 
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register—in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in paragraph (b) of this section, the Coast Guard must publish notice of the change in the Federal Register and make the material available for inspection. All approved material is available at the Coast Guard Headquarters. Contact Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509. The material is also available from the sources indicated in paragraph (b) of this section, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(b) The material approved for incorporation by reference in this part and the sections affected are:
+(b) The material approved for incorporation by reference in this part and the sections affected are: 
 
 | American Boat and Yacht Council (ABYC), 613 Third Street, Suite 10, Annapolis, MD 21403  |        |
 | H-25-1986—Portable Fuel Systems for Flammable Liquids                                    | 27.211 |

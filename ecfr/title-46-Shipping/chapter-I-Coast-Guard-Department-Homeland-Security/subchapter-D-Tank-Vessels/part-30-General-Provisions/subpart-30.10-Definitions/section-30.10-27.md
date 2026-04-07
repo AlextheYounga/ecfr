@@ -1,6 +1,6 @@
 ##### § 30.10-27 Flashpoint—TB/ALL.
 
-The term *flashpoint* indicates the temperature in degrees Fahrenheit at which a liquid gives off a flammable vapor when heated in an open-cup tester. For the purpose of the regulations in this subchapter, flashpoints determined by other testing methods will be equivalent to those determined with an open-cup tester, as follows:
+The term *flashpoint* indicates the temperature in degrees Fahrenheit at which a liquid gives off a flammable vapor when heated in an open-cup tester. For the purpose of the regulations in this subchapter, flashpoints determined by other testing methods will be equivalent to those determined with an open-cup tester, as follows: 
 
 Table 30.10-27—Equivalent Flashpoints
 

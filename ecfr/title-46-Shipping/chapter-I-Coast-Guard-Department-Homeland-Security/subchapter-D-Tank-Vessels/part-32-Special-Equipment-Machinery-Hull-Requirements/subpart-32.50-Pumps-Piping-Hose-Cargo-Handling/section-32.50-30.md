@@ -1,6 +1,6 @@
 ##### § 32.50-30 Cargo hose—TB/ALL.
 
-Cargo hose carried on tank vessels must be suitable for oil service and designed to withstand the pressure of the shutoff head of the cargo pump or pump relief valve setting, less static head, but in no case less than 150 pounds per square inch.
+Cargo hose carried on tank vessels must be suitable for oil service and designed to withstand the pressure of the shutoff head of the cargo pump or pump relief valve setting, less static head, but in no case less than 150 pounds per square inch. 
 
 Note:
 

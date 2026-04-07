@@ -1,24 +1,24 @@
 ##### § 15.1030 New York and New Jersey.
 
-The following U.S. navigable waters located within the States of New York and New Jersey when the vessel is making an intra-port transit, to include, but not limited to, a movement from a dock to a dock, from a dock to an anchorage, from an anchorage to a dock, or from an anchorage to an anchorage, within the following listed operating areas:
+The following U.S. navigable waters located within the States of New York and New Jersey when the vessel is making an intra-port transit, to include, but not limited to, a movement from a dock to a dock, from a dock to an anchorage, from an anchorage to a dock, or from an anchorage to an anchorage, within the following listed operating areas: 
 
-(a) East River from Execution Rocks to New York Harbor, Upper Bay;
+(a) East River from Execution Rocks to New York Harbor, Upper Bay; 
 
-(b) Hudson River from Yonkers, New York to New York Harbor, Upper Bay;
+(b) Hudson River from Yonkers, New York to New York Harbor, Upper Bay; 
 
-(c) Raritan River from Grossman Dock/Arsenal to New York Harbor, Lower Bay;
+(c) Raritan River from Grossman Dock/Arsenal to New York Harbor, Lower Bay; 
 
-(d) Arthur Kill Channel;
+(d) Arthur Kill Channel; 
 
-(e) Kill Van Kull Channel;
+(e) Kill Van Kull Channel; 
 
-(f) Newark Bay;
+(f) Newark Bay; 
 
-(g) Passaic River from Point No Point to Newark Bay;
+(g) Passaic River from Point No Point to Newark Bay; 
 
-(h) Hackensack River from the turning basin to Newark Bay; and
+(h) Hackensack River from the turning basin to Newark Bay; and 
 
-(i) New York Harbor, Upper and Lower Bay.
+(i) New York Harbor, Upper and Lower Bay. 
 
 Note to § 15.1030:
 

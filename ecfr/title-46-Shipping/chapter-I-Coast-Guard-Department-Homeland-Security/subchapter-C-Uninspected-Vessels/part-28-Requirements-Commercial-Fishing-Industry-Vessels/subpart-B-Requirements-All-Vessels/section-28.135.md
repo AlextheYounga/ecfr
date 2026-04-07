@@ -1,12 +1,12 @@
 ##### § 28.135 Lifesaving equipment markings.
 
-(a) Except as provided in paragraph (d) of this section, lifesaving equipment carried aboard a vessel pursuant to the requirements of this subpart or part 25, subpart 25.25 of this chapter must be marked as specified in table 28.135.
+(a) Except as provided in paragraph (d) of this section, lifesaving equipment carried aboard a vessel pursuant to the requirements of this subpart or part 25, subpart 25.25 of this chapter must be marked as specified in table 28.135. 
 
-(b) Lettering used in lifesaving equipment markings must be in block capital letters.
+(b) Lettering used in lifesaving equipment markings must be in block capital letters. 
 
-(c) Retroreflective markings required by this section must be with material approved under part 164, subpart 164.018 of this chapter. The arrangement of the retroreflective material must meet IMO Resolution A.658(16).
+(c) Retroreflective markings required by this section must be with material approved under part 164, subpart 164.018 of this chapter. The arrangement of the retroreflective material must meet IMO Resolution A.658(16). 
 
-(d) A wearable personal flotation device must be marked with the name of either the vessel, the owner of the device, or the individual to whom it is assigned.
+(d) A wearable personal flotation device must be marked with the name of either the vessel, the owner of the device, or the individual to whom it is assigned. 
 
 Table 28.135—Lifesaving Equipment Markings
 | Item                                                                                                      | Markings Required |

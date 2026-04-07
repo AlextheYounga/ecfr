@@ -1,6 +1,6 @@
 ##### § 10.239 Quick reference table for MMC requirements.
 
-Table 1 to § 10.239 provides a guide to the requirements for officer endorsements. Provisions in the reference section are controlling.
+Table 1 to § 10.239 provides a guide to the requirements for officer endorsements. Provisions in the reference section are controlling. 
 
 Table 1 to § 10.239: Quick Reference Table for MMC Requirements
 

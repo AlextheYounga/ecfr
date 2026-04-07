@@ -1,18 +1,18 @@
 ##### § 154.1872 Cargo emergency jettisoning.
 
-(a) The master shall ensure that emergency jettisoning piping under § 154.356, except bow and stern loading and discharging piping, is only used when an emergency exists.
+(a) The master shall ensure that emergency jettisoning piping under § 154.356, except bow and stern loading and discharging piping, is only used when an emergency exists. 
 
-(b) Emergency jettisoning piping when being used may be outside of the transverse tank location under § 154.310.
+(b) Emergency jettisoning piping when being used may be outside of the transverse tank location under § 154.310. 
 
-(c) The master shall ensure that cargo is not jettisoned in a U.S. port.
+(c) The master shall ensure that cargo is not jettisoned in a U.S. port. 
 
-(d) When ethylene oxide is carried, the master shall ensure that the emergency jettisoning piping with associated pumps and fittings is on-line and ready for use for an emergency.
+(d) When ethylene oxide is carried, the master shall ensure that the emergency jettisoning piping with associated pumps and fittings is on-line and ready for use for an emergency. 
 
-(e) The master shall lock closed the shut-off valves under § 154.356 when the emergency jettisoning piping is not in use.
+(e) The master shall lock closed the shut-off valves under § 154.356 when the emergency jettisoning piping is not in use. 
 
-(f) The person in charge of cargo transfer shall ensure that after the emergency jettisoning piping is used it is purged of cargo vapors with inert gas.
+(f) The person in charge of cargo transfer shall ensure that after the emergency jettisoning piping is used it is purged of cargo vapors with inert gas. 
 
-(g) The person in charge of cargo transfer shall ensure that entrances, forced or natural ventilation intakes, exhausts, and other openings to accommodation, service, or control spaces facing the emergency jettisoning piping area and alongside the emergency jettisoning piping are closed when this piping is in use.
+(g) The person in charge of cargo transfer shall ensure that entrances, forced or natural ventilation intakes, exhausts, and other openings to accommodation, service, or control spaces facing the emergency jettisoning piping area and alongside the emergency jettisoning piping are closed when this piping is in use. 
 
 Table 4—Summary of Minimum Requirements
 | Cargo name 1                                                                                                                                                                                                                               | Ship type | Independent tank type C required | Control of cargo tank vapor space | Vapor detection 2 | Gauging 3 | Electrical hazard class and group 4 | Special requirements                                                                                                                            |

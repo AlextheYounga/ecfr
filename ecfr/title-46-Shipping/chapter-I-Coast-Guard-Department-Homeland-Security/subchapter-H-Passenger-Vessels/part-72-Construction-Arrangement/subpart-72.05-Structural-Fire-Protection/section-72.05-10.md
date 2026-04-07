@@ -1,32 +1,32 @@
 ##### § 72.05-10 Type, location, and construction of fire control bulkheads and decks.
 
-(a) The hull, structural bulkheads, decks, and deckhouses shall be constructed of steel or other equivalent metal construction of appropriate scantlings.
+(a) The hull, structural bulkheads, decks, and deckhouses shall be constructed of steel or other equivalent metal construction of appropriate scantlings. 
 
-(b) The hull, superstructure, and deck houses shall be subdivided by suitable structural steel or other equivalent metal bulkheads into main vertical zones, the mean length of which shall not, in general, exceed 131 feet on any one deck. Where practicable, the main vertical zone bulkheads shall be kept in a single vertical plane. However, on vessels designed for special purposes, such as automobile or railroad car ferries, where the installation of such bulkheads would defeat the purpose for which the vessel is intended, equivalent means for controlling and limiting a fire may be substituted if specifically approved by the Commandant.
+(b) The hull, superstructure, and deck houses shall be subdivided by suitable structural steel or other equivalent metal bulkheads into main vertical zones, the mean length of which shall not, in general, exceed 131 feet on any one deck. Where practicable, the main vertical zone bulkheads shall be kept in a single vertical plane. However, on vessels designed for special purposes, such as automobile or railroad car ferries, where the installation of such bulkheads would defeat the purpose for which the vessel is intended, equivalent means for controlling and limiting a fire may be substituted if specifically approved by the Commandant. 
 
-(c) All bulkheads and decks shall be classed as A-60, A-30, A-15, A-0, B-15, B-0, or C, depending upon the type of space on each side of the bulkhead or above and below the deck.
+(c) All bulkheads and decks shall be classed as A-60, A-30, A-15, A-0, B-15, B-0, or C, depending upon the type of space on each side of the bulkhead or above and below the deck. 
 
-(1) Bulkheads or decks of the “A” Class shall be composed of steel or equivalent metal construction, suitably stiffened and made intact with the main structure of the vessel, such as shell, structural bulkheads, and decks. They shall be so constructed that, if subjected to the standard fire test, they would be capable of preventing the passage of smoke and flame for 1 hour. In addition, they shall be so insulated with approved structural insulation, bulkhead panels, or deck covering that the average temperatures on the unexposed side would not rise more than 250 °F. above the original temperature, nor would the temperature at any one point, including any joint, rise more than 325 °F. above the original temperature, within the time listed below:
+(1) Bulkheads or decks of the “A” Class shall be composed of steel or equivalent metal construction, suitably stiffened and made intact with the main structure of the vessel, such as shell, structural bulkheads, and decks. They shall be so constructed that, if subjected to the standard fire test, they would be capable of preventing the passage of smoke and flame for 1 hour. In addition, they shall be so insulated with approved structural insulation, bulkhead panels, or deck covering that the average temperatures on the unexposed side would not rise more than 250 °F. above the original temperature, nor would the temperature at any one point, including any joint, rise more than 325 °F. above the original temperature, within the time listed below: 
 
 | Class A-60 | 60 minutes.                                   |
 | Class A-30 | 30 minutes.                                   |
 | Class A-15 | 15 minutes.                                   |
 | Class A-0  | 0 minutes (i.e., no insulation requirements). |
 
-(2) Bulkheads of the “B” Class shall be constructed with approved incombustible materials and made intact from deck to deck (or to ceiling as provided in paragraph (h) of this section) and to shell or other boundaries. They shall be so constructed that, if subjected to the standard fire test, they would be capable of preventing the passage of flame for 1/2 hour. In addition, their insulation value shall be such that the average temperature of the unexposed side would not rise more than 250 °F. above the original temperature, nor would the temperature at any one point, including any joint, rise more than 405 °F. above the original temperature within the time listed below:
+(2) Bulkheads of the “B” Class shall be constructed with approved incombustible materials and made intact from deck to deck (or to ceiling as provided in paragraph (h) of this section) and to shell or other boundaries. They shall be so constructed that, if subjected to the standard fire test, they would be capable of preventing the passage of flame for 1/2 hour. In addition, their insulation value shall be such that the average temperature of the unexposed side would not rise more than 250 °F. above the original temperature, nor would the temperature at any one point, including any joint, rise more than 405 °F. above the original temperature within the time listed below: 
 
 | Class B-15 | 15 minutes.                                   |
 | Class B-0  | 0 minutes (i.e., no insulation requirements). |
 
-(3) Class C bulkheads or decks shall be constructed of approved incombustible materials, but need meet no requirements relative to the passage of flame nor the limiting of temperature rise.
+(3) Class C bulkheads or decks shall be constructed of approved incombustible materials, but need meet no requirements relative to the passage of flame nor the limiting of temperature rise. 
 
-(d) The minimum requirements for the bulkheads between the various spaces, where such bulkheads form the boundaries of main vertical zones, shall be as noted in table 72.05-10(d).
+(d) The minimum requirements for the bulkheads between the various spaces, where such bulkheads form the boundaries of main vertical zones, shall be as noted in table 72.05-10(d). 
 
-(e) The minimum requirements for the bulkheads between the various spaces, where such bulkheads do not form the boundaries of main vertical zones, shall be as noted in table 72.05-10(e).
+(e) The minimum requirements for the bulkheads between the various spaces, where such bulkheads do not form the boundaries of main vertical zones, shall be as noted in table 72.05-10(e). 
 
-(f) The minimum requirements for the decks between the various spaces, where such decks form the boundaries of stepped main vertical zones, shall be as noted in table 72.05-10(f).
+(f) The minimum requirements for the decks between the various spaces, where such decks form the boundaries of stepped main vertical zones, shall be as noted in table 72.05-10(f). 
 
-(g) The minimum requirements for the decks between the various spaces, where such decks do not form the boundaries of stepped main vertical zones, shall be as noted in table 72.05-10(g).
+(g) The minimum requirements for the decks between the various spaces, where such decks do not form the boundaries of stepped main vertical zones, shall be as noted in table 72.05-10(g). 
 
 Table 72.05-10(d)—Bulkheads—Main Vertical Zone
 | **ADJACENT TO**                                                                                               | **THIS SPACE:** |
@@ -101,22 +101,22 @@ Table 72.05-10(g)—Decks—Not Main Vertical Zones
 | Fuel and water tanks and voids                                                                               | 12              |
 | Open decks and enclosed promenades (not safety areas)                                                        | 13              |
 
-(h) Where ceilings or linings are fitted, “B” Class bulkheads, with the exception of those forming passageways, may stop at the ceiling or lining and need not continue to the deck or shell, provided the ceiling and/or lining is erected as indicated in paragraph (j) of this section. However, draft stops meeting at least Class B-0 requirements shall be fitted not more than 45 feet apart between the ceiling or lining and the deck or shell. The space behind the linings of stairways and similar trunks shall have similar draft stops at each deck.
+(h) Where ceilings or linings are fitted, “B” Class bulkheads, with the exception of those forming passageways, may stop at the ceiling or lining and need not continue to the deck or shell, provided the ceiling and/or lining is erected as indicated in paragraph (j) of this section. However, draft stops meeting at least Class B-0 requirements shall be fitted not more than 45 feet apart between the ceiling or lining and the deck or shell. The space behind the linings of stairways and similar trunks shall have similar draft stops at each deck. 
 
-(i) Where Class B-15 bulkhead panels are required to go beyond the ceiling to the deck above, or beyond the lining to the shell, the portion of the bulkhead panel within the void space need only meet B-0 requirements.
+(i) Where Class B-15 bulkhead panels are required to go beyond the ceiling to the deck above, or beyond the lining to the shell, the portion of the bulkhead panel within the void space need only meet B-0 requirements. 
 
-(j) Where “B” Class panels are used, all four edges of the panel shall be retained by continuous steel or equivalent metal flanges on both sides of the panel offering at least 3/4 inch coverage. The top and bottom flanges shall be so attached to the structural decks above and below so as to support and restrain the panels in the event of fire. Other methods of construction may be specifically approved by the Commandant if determined to be equivalent.
+(j) Where “B” Class panels are used, all four edges of the panel shall be retained by continuous steel or equivalent metal flanges on both sides of the panel offering at least 3/4 inch coverage. The top and bottom flanges shall be so attached to the structural decks above and below so as to support and restrain the panels in the event of fire. Other methods of construction may be specifically approved by the Commandant if determined to be equivalent. 
 
-(k) Any sheathing, furring, or holding pieces incidental to the securing of structural insulation shall be of approved incombustible materials.
+(k) Any sheathing, furring, or holding pieces incidental to the securing of structural insulation shall be of approved incombustible materials. 
 
-(l) Where linings or bulkhead panels are framed away from the shell or structural bulkheads, the deck within the void space so formed need only meet Class A-0 requirements.
+(l) Where linings or bulkhead panels are framed away from the shell or structural bulkheads, the deck within the void space so formed need only meet Class A-0 requirements. 
 
-(m) Decks within accommodation spaces and inside safety areas may have an overlay for leveling or finishing purposes which need not meet the requirements for an approved deck covering. Such an overlay will not be considered as giving any insulating value and may not in general exceed 3/8 of an inch in thickness. Greater thicknesses may be specifically approved by the Commandant for specific locations.
+(m) Decks within accommodation spaces and inside safety areas may have an overlay for leveling or finishing purposes which need not meet the requirements for an approved deck covering. Such an overlay will not be considered as giving any insulating value and may not in general exceed 3/8 of an inch in thickness. Greater thicknesses may be specifically approved by the Commandant for specific locations. 
 
-(n) Rugs and carpets may be used in addition to any deck covering or overlay installed. Rugs and carpets used in stairways or corridors shall be of wool, or other materials having equivalent fire-resistive qualities.
+(n) Rugs and carpets may be used in addition to any deck covering or overlay installed. Rugs and carpets used in stairways or corridors shall be of wool, or other materials having equivalent fire-resistive qualities. 
 
-(o) Decking within surgical operating rooms shall be of a type which is acceptably conductive to prevent accumulation of dangerous electrostatic charges, and shall be in general agreement with “Code for Flammable Anesthetics” of issue in effect at the time the construction or alteration of the vessel is contracted for, published by the National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02269.
+(o) Decking within surgical operating rooms shall be of a type which is acceptably conductive to prevent accumulation of dangerous electrostatic charges, and shall be in general agreement with “Code for Flammable Anesthetics” of issue in effect at the time the construction or alteration of the vessel is contracted for, published by the National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02269. 
 
-(p) Decks in washrooms and toilet spaces, service, cargo, and machinery spaces, open decks, exterior safety areas, and enclosed promenades may have an overlay in any thickness. This overlay need not meet the requirements for an approved deck covering.
+(p) Decks in washrooms and toilet spaces, service, cargo, and machinery spaces, open decks, exterior safety areas, and enclosed promenades may have an overlay in any thickness. This overlay need not meet the requirements for an approved deck covering. 
 
 \[CGFR 65-50, 30 FR 16903, Dec. 30, 1965, as amended by CGD 95-072, 60 FR 50463, Sept. 29, 1995; CGD 95-028, 62 FR 51204, Sept. 30, 1997\]

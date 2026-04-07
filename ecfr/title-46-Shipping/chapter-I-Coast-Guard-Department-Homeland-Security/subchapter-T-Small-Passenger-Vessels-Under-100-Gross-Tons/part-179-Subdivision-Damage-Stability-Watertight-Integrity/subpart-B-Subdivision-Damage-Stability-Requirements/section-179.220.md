@@ -1,10 +1,10 @@
 ##### § 179.220 Location of watertight bulkheads for subdivision.
 
-(a) The maximum distance between adjacent main transverse watertight bulkheads on a vessel, required by § 179.212(a) of this part to comply with this section, must not be more than the smaller of the following:
+(a) The maximum distance between adjacent main transverse watertight bulkheads on a vessel, required by § 179.212(a) of this part to comply with this section, must not be more than the smaller of the following: 
 
-(1) One third of the length of the bulkhead deck; or
+(1) One third of the length of the bulkhead deck; or 
 
-(2) The distance given by the following equation:
+(2) The distance given by the following equation: 
 
 ![](/graphics/er10ja96.009.gif)where: d = the maximum length of the bulkhead deck in meters (feet) between adjacent main transverse watertight bulkheads; F = the floodable length factor from Table 179.220(a); f = the effective freeboard in meters (feet) calculated for each pair of adjacent bulkheads in accordance with paragraph (b) of this section; L = Length Over Deck in meters (feet) measured over the bulkhead deck; and D = the depth in meters (feet), measured amidships at a point one-quarter of the maximum beam out from the centerline, from the inside of the bottom planking or plating to the level of the top of the bulkhead deck at side as shown in Figure 179.220(a).
 
@@ -32,10 +32,10 @@ Table 179.220(a)—Table of Floodable Length Factors
 
 ![](/graphics/ec01mr91.037.gif)
 
-(b) The effective freeboard for each compartment is calculated by the following equation:
+(b) The effective freeboard for each compartment is calculated by the following equation: 
 
 f = (a + b)/2 where: f = the effective freeboard in meters (feet). a = the freeboard in meters (feet) measured: (1) At the forward main transverse watertight bulkhead; and (2) From the deepest waterline to: (i) The top of the bulkhead deck on a flush deck vessel; or (ii) If a vessel has a stepped bulkhead deck, the line shown in Figure 179.220(b); or (iii) If a vessel has an opening port light below the bulkhead deck, the line shown in Figure 179.220(c). b = the freeboard in meters (feet) measured: (1) At the aft main transverse watertight bulkhead; and (2) From the deepest waterline to: (i) The top of the bulkhead deck on a flush deck vessel; or (ii) If a vessel has a stepped bulkhead deck, the line shown in Figure 1 to § 179.220(b); or ![](/graphics/ec01mr91.038.gif)![](/graphics/ec01mr91.039.gif)(iii) if a vessel has an opening port light below the bulkhead deck, the line shown in Figure 2 to § 179.220(b).
 
-(c) Calculations needed to demonstrate compliance with paragraphs (a) and (b) of this section must be submitted to, and approved by, the Commanding Officer, Marine Safety Center.
+(c) Calculations needed to demonstrate compliance with paragraphs (a) and (b) of this section must be submitted to, and approved by, the Commanding Officer, Marine Safety Center. 
 
 \[CGD 85-080, 61 FR 971, Jan. 10, 1996; 61 FR 20557, May 7, 1996, as amended by USCG-2007-0030, 75 FR 78092, Dec. 14, 2010\]

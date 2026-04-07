@@ -1,38 +1,38 @@
 ##### § 12.603 Requirements to qualify for an STCW endorsement as able seafarer-deck.
 
-(a) To qualify for this endorsement as able seafarer-deck, an applicant must—
+(a) To qualify for this endorsement as able seafarer-deck, an applicant must— 
 
-(1) Be not less than 18 years of age;
+(1) Be not less than 18 years of age; 
 
-(2) Meet the requirements for certification as a RFPNW;
+(2) Meet the requirements for certification as a RFPNW; 
 
-(3) While qualified as an RFPNW, have seagoing service in the deck department of—
+(3) While qualified as an RFPNW, have seagoing service in the deck department of— 
 
-(i) Not less than 18 months; or
+(i) Not less than 18 months; or 
 
-(ii) Not less than 12 months and have completed approved training;
+(ii) Not less than 12 months and have completed approved training; 
 
-(4) Provide evidence of meeting the standard of competence specified in Table A-II/5 of the STCW Code (incorporated by reference, see § 12.103 of this part); and
+(4) Provide evidence of meeting the standard of competence specified in Table A-II/5 of the STCW Code (incorporated by reference, see § 12.103 of this part); and 
 
-(5) Provide evidence of having satisfactorily completed approved training in—
+(5) Provide evidence of having satisfactorily completed approved training in— 
 
-(i) Proficiency in survival craft and rescue boats other than fast rescue boats (PSC); or
+(i) Proficiency in survival craft and rescue boats other than fast rescue boats (PSC); or 
 
-(ii) Proficiency in survival craft and rescue boats, other than lifeboats or fast rescue boats-limited (PSC-limited), as appropriate.
+(ii) Proficiency in survival craft and rescue boats, other than lifeboats or fast rescue boats-limited (PSC-limited), as appropriate. 
 
-(b) Seafarers holding a rating endorsement as able seaman before January 1, 2017, will be eligible for this endorsement upon showing evidence of—
+(b) Seafarers holding a rating endorsement as able seaman before January 1, 2017, will be eligible for this endorsement upon showing evidence of— 
 
-(1) Holding an endorsement as an RFPNW; and
+(1) Holding an endorsement as an RFPNW; and 
 
-(2) Having satisfactorily completed approved training in—
+(2) Having satisfactorily completed approved training in— 
 
-(i) Proficiency in survival craft and rescue boats, other than fast rescue boats (PSC); or
+(i) Proficiency in survival craft and rescue boats, other than fast rescue boats (PSC); or 
 
-(ii) Proficiency in survival craft and rescue boats, other than lifeboats or fast rescue boats-limited (PSC-limited), as appropriate.
+(ii) Proficiency in survival craft and rescue boats, other than lifeboats or fast rescue boats-limited (PSC-limited), as appropriate. 
 
-(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/5 of the STCW Code. These exemptions must be approved by the Coast Guard, based upon vessel type. Under these circumstances, the endorsement may include a corresponding limitation.
+(c) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/5 of the STCW Code. These exemptions must be approved by the Coast Guard, based upon vessel type. Under these circumstances, the endorsement may include a corresponding limitation. 
 
-(d) Except as provided in paragraph (b) of this section, seafarers with the following national rating endorsements will be eligible for this endorsement upon completion of the requirements designated in this section:
+(d) Except as provided in paragraph (b) of this section, seafarers with the following national rating endorsements will be eligible for this endorsement upon completion of the requirements designated in this section: 
 
 Table 1 to § 12.603(d)—STCW Endorsement as Able Seafarer-Deck
 | Entry path from national endorsements                                                                                                                                         | Sea service under authority of the endorsement 1 | Competence—STCW   Table A-II/4 2 | Competence—STCW   Table A-II/5 3 | Training   required by   this section 4 |

@@ -1,6 +1,6 @@
 ##### § 199.620 Alternatives for all vessels in a specified service.
 
-(a) *General.* Vessels operating in oceans; coastwise; Great Lakes; lakes, bays, and sounds; and rivers service may comply with alternative requirements to subparts A through E of this part as described in this section for the services specified in table 199.620(a) of this section.
+(a) *General.* Vessels operating in oceans; coastwise; Great Lakes; lakes, bays, and sounds; and rivers service may comply with alternative requirements to subparts A through E of this part as described in this section for the services specified in table 199.620(a) of this section. 
 
 Table 199.620(a)—Alternative Requirements for All Vessels in a Specified Service
 | Section or paragraph in this part:                                                                             | Service and reference to alternative requirement section or paragraph |
@@ -24,35 +24,35 @@ Table 199.620(a)—Alternative Requirements for All Vessels in a Specified Servi
 | 3 Alternative applies to cargo vessels that are less than 500 tons gross tonnage and to all passenger vessels. |                                                                       |
 | 4 Alternative applies to passenger vessels limited to operating no more than 50 nautical miles from shore.     |                                                                       |
 
-(b) *Lifebuoy approval series.* As an alternative to a lifebuoy approved under approval series 160.150, vessels may carry a lifebuoy approved under approval series 160.050.
+(b) *Lifebuoy approval series.* As an alternative to a lifebuoy approved under approval series 160.150, vessels may carry a lifebuoy approved under approval series 160.050. 
 
-(c) *Lifejackets approval series.* As an alternative to a lifejacket meeting the approval requirements in § 199.70, vessels may carry a lifejacket approved under approval series 160.002, 160.005, 160.055, or 160.077.
+(c) *Lifejackets approval series.* As an alternative to a lifejacket meeting the approval requirements in § 199.70, vessels may carry a lifejacket approved under approval series 160.002, 160.005, 160.055, or 160.077. 
 
-(d) *Lifejacket quantity.* Vessels may carry lifejackets as follows:
+(d) *Lifejacket quantity.* Vessels may carry lifejackets as follows: 
 
-(1) If lifejackets are stowed in cabins, staterooms, or berthing areas that are readily accessible to each watch or work station, the requirement in § 199.70(b)(2)(iv) to have lifejackets at each watch or work station need not be met.
+(1) If lifejackets are stowed in cabins, staterooms, or berthing areas that are readily accessible to each watch or work station, the requirement in § 199.70(b)(2)(iv) to have lifejackets at each watch or work station need not be met. 
 
-(2) If the vessel carries lifejackets that are designated extended-size, then the number of child-size lifejackets carried to meet § 199.70(b)(1)(i) may be reduced. To take the reduction in child-size lifejackets, extended-size lifejackets having the same lower size limit must be substituted for all of the required adult lifejackets. The number of child-size lifejackets required depends on the lower size limit of the extended-size lifejackets and is calculated by any one of the following formulas where PC is the number of child-size lifejackets expressed as a percentage of the number of lifejackets required under § 199.70(b)(1):
+(2) If the vessel carries lifejackets that are designated extended-size, then the number of child-size lifejackets carried to meet § 199.70(b)(1)(i) may be reduced. To take the reduction in child-size lifejackets, extended-size lifejackets having the same lower size limit must be substituted for all of the required adult lifejackets. The number of child-size lifejackets required depends on the lower size limit of the extended-size lifejackets and is calculated by any one of the following formulas where PC is the number of child-size lifejackets expressed as a percentage of the number of lifejackets required under § 199.70(b)(1): 
 
-(i) PC = LS ÷ 4.1, where LS equals the lower size limit expressed in kilograms.
+(i) PC = LS ÷ 4.1, where LS equals the lower size limit expressed in kilograms. 
 
-(ii) PC = LS ÷ 9, where LS equals the lower size limit expressed in pounds.
+(ii) PC = LS ÷ 9, where LS equals the lower size limit expressed in pounds. 
 
-(iii) PC = (LS−81) ÷ 7.6, where LS equals the lower size limit expressed in centimeters.
+(iii) PC = (LS−81) ÷ 7.6, where LS equals the lower size limit expressed in centimeters. 
 
-(iv) PC = (LS−32) ÷ 3, where LS equals the lower size limit expressed in inches.
+(iv) PC = (LS−32) ÷ 3, where LS equals the lower size limit expressed in inches. 
 
-(e) *Lifejacket light approval series.* As an alternative to lights approved under approval series 161.112, vessels may use lights for lifejackets and immersions suits approved under series 161.012. However, lifejacket lights bearing Coast Guard approval number 161.012/2/1 are not permitted on vessels certificated to operate on waters where water temperature may drop below 10 °C (50 °F).
+(e) *Lifejacket light approval series.* As an alternative to lights approved under approval series 161.112, vessels may use lights for lifejackets and immersions suits approved under series 161.012. However, lifejacket lights bearing Coast Guard approval number 161.012/2/1 are not permitted on vessels certificated to operate on waters where water temperature may drop below 10 °C (50 °F). 
 
-(f) *Embarkation ladder.* An embarkation ladder may be a chain ladder approved under approval series 160.017.
+(f) *Embarkation ladder.* An embarkation ladder may be a chain ladder approved under approval series 160.017. 
 
-(g) *Survival craft stowage positions.* Vessels having widely separated accommodation and service spaces may have, as an alternative to the requirements of § 199.130(b), all required lifeboats and 50 percent of the required liferafts stowed as close as possible to the accommodation and service space that normally holds the greatest number of persons, with the remainder of the liferafts stowed as close as possible to each other accommodation and service space.
+(g) *Survival craft stowage positions.* Vessels having widely separated accommodation and service spaces may have, as an alternative to the requirements of § 199.130(b), all required lifeboats and 50 percent of the required liferafts stowed as close as possible to the accommodation and service space that normally holds the greatest number of persons, with the remainder of the liferafts stowed as close as possible to each other accommodation and service space. 
 
-(h) *Line-throwing appliance approval series.* As an alternative to a line-throwing appliance that meets the requirements in § 199.170, vessels may carry a line-throwing appliance approved under approval series 160.031, which may have an auxiliary line that is at least 150 meters (500 feet).
+(h) *Line-throwing appliance approval series.* As an alternative to a line-throwing appliance that meets the requirements in § 199.170, vessels may carry a line-throwing appliance approved under approval series 160.031, which may have an auxiliary line that is at least 150 meters (500 feet). 
 
-(i) *Lifeboat, rescue boat, and rigid liferaft equipment; oceans and coastwise.* Lifeboats, rescue boats, and rigid liferafts may carry the equipment specified in table 199.175 of this part for vessels on a short international voyage.
+(i) *Lifeboat, rescue boat, and rigid liferaft equipment; oceans and coastwise.* Lifeboats, rescue boats, and rigid liferafts may carry the equipment specified in table 199.175 of this part for vessels on a short international voyage. 
 
-(j) *Lifeboat, rescue boat, and rigid liferaft equipment; other services.* As an alternative to meeting the survival craft equipment requirements of § 199.175, a vessel may carry the equipment specified in table 199.620(j) of this section under the vessel's category of service. Each item in the table has the same description as in § 199.175.
+(j) *Lifeboat, rescue boat, and rigid liferaft equipment; other services.* As an alternative to meeting the survival craft equipment requirements of § 199.175, a vessel may carry the equipment specified in table 199.620(j) of this section under the vessel's category of service. Each item in the table has the same description as in § 199.175. 
 
 Table 199.620(j)—Survival Craft Equipment
 | Item No.                                                                                                                 | Item                    | Great Lakes | Lakes, bays and sounds | Rivers |
@@ -90,22 +90,22 @@ Table 199.620(j)—Survival Craft Equipment
 | 7 Required if specified by the manufacturer.                                                                             |                         |             |                        |        |
 | 8 Required only if the lifeboat is also the rescue boat.                                                                 |                         |             |                        |        |
 
-(k) *Liferaft approval series.* As an alternative to liferafts that meet the requirements in §§ 199.201(a) and 199.261(a), vessels may—
+(k) *Liferaft approval series.* As an alternative to liferafts that meet the requirements in §§ 199.201(a) and 199.261(a), vessels may— 
 
-(1) Carry inflatable liferafts approved under approval series 160.051; and
+(1) Carry inflatable liferafts approved under approval series 160.051; and 
 
-(2) Have liferafts with a capacity less than six persons.
+(2) Have liferafts with a capacity less than six persons. 
 
-(l) *Inflatable liferaft equipment.* As an alternative to the SOLAS A Pack, vessels may have a SOLAS B Pack for each inflatable liferaft.
+(l) *Inflatable liferaft equipment.* As an alternative to the SOLAS A Pack, vessels may have a SOLAS B Pack for each inflatable liferaft. 
 
-(m) \[Reserved\]
+(m) \[Reserved\] 
 
-(n) *Spare parts and repair equipment.* As an alternative to carrying spare parts and repair equipment as required in § 199.190(c), a vessel need not carry spare parts and repair equipment if it operates daily out of a shore base where spare parts and repair equipment are available.
+(n) *Spare parts and repair equipment.* As an alternative to carrying spare parts and repair equipment as required in § 199.190(c), a vessel need not carry spare parts and repair equipment if it operates daily out of a shore base where spare parts and repair equipment are available. 
 
-(o) Deckhands may be used to operate the survival craft and launching arrangements.
+(o) Deckhands may be used to operate the survival craft and launching arrangements. 
 
-(p) Training and drill subjects required under § 199.180 may be omitted if the vessel is not fitted with the relevant equipment, installation or system.
+(p) Training and drill subjects required under § 199.180 may be omitted if the vessel is not fitted with the relevant equipment, installation or system. 
 
-(q) For a new liferaft or inflatable buoyant apparatus, the first annual servicing may be deferred to two years after initial packing if so indicated on the servicing sticker.
+(q) For a new liferaft or inflatable buoyant apparatus, the first annual servicing may be deferred to two years after initial packing if so indicated on the servicing sticker. 
 
 \[CGD 84-069, 61 FR 25313, May 20, 1996; 61 FR 40281, Aug. 1, 1996, as amended at 63 FR 52820, Oct. 1, 1998; 63 FR 56066, Oct. 20, 1998; USCG-2001-10224, 66 FR 48621, Sept. 21, 2001; USCG-2001-11118, 67 FR 58542, Sept. 17, 2002\]

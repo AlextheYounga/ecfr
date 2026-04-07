@@ -1,30 +1,30 @@
 ##### § 160.060-1 Incorporation by reference.
 
-(a) *Specifications and Standards.* This subpart makes reference to the following documents:
+(a) *Specifications and Standards.* This subpart makes reference to the following documents: 
 
-(1) \[Reserved\]
+(1) \[Reserved\] 
 
-(2) Military Specification:
+(2) Military Specification: 
 
 MIL-W-530F-Webbing, Textile, Cotton, General Purpose, Natural or in Colors.
 
-(3) Federal Standards:
+(3) Federal Standards: 
 
 No. 191-Textile Test Methods. No. 751A-Stitches, Seams, and Stitchings.
 
-(4) Coast Guard Specification:
+(4) Coast Guard Specification: 
 
 164.013—Foam, Unicellular Polyethylene (Buoyant, Slab, Slitted Trigonal Pattern)
 
-(b) *Plans.* The following plans, of the issue in effect on the date buoyant vests are manufacture, form a part of this subpart:
+(b) *Plans.* The following plans, of the issue in effect on the date buoyant vests are manufacture, form a part of this subpart: 
 
 Dwg. No. 160.060-1: Sheet 1—Cutting Pattern and General Arrangement, Model AY. Sheet 2—Cutting Pattern and General Arrangement, Model CYM. Sheet 3—Cutting Pattern and General Arrangement, Model CYS. Sheet 4—Insert Pattern, Model AY. Sheet 5—Insert Pattern, Model CYM. Sheet 6—Insert Pattern, Model CYS.
 
-(c) *Copies on file.* Copies of the specifications and plans referred to in this section shall be kept on file by the manufacturer together with the Certificate of Approval.
+(c) *Copies on file.* Copies of the specifications and plans referred to in this section shall be kept on file by the manufacturer together with the Certificate of Approval. 
 
-(1) The Coast Guard plans and specifications may be obtained upon request from the Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509 or a recognized laboratory listed in § 160.060-8b.
+(1) The Coast Guard plans and specifications may be obtained upon request from the Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509 or a recognized laboratory listed in § 160.060-8b. 
 
-(2) The Federal Specifications and Standard may be purchased from the Business Service Center, General Services Administration, Washington, DC 20407.
+(2) The Federal Specifications and Standard may be purchased from the Business Service Center, General Services Administration, Washington, DC 20407. 
 
 (3) The Military Specification may be obtained from the Military Specifications and Standards, Standardization Documents Order Desk, Building 4D, 700 Robbins Avenue, Philadelphia, PA 19111-5094, *https://assist.daps.dla.mil/quicksearch/.*
 

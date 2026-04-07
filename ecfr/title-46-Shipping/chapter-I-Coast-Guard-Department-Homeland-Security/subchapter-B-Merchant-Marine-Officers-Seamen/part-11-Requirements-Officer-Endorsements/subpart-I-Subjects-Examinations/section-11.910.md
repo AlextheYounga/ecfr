@@ -1,6 +1,6 @@
 ##### § 11.910 Subjects for deck officer endorsements.
 
-Table 1 to § 11.910 gives the codes used in Table 2 to § 11.910 for all deck officers. Table 2 to § 11.910 indicates the examination subjects for each endorsement, by code number. Figures in the body of Table 2 to § 11.910, in place of the letter “x”, refer to notes.
+Table 1 to § 11.910 gives the codes used in Table 2 to § 11.910 for all deck officers. Table 2 to § 11.910 indicates the examination subjects for each endorsement, by code number. Figures in the body of Table 2 to § 11.910, in place of the letter “x”, refer to notes. 
 
 Table 1 to § 11.910—Codes for Deck Officer Endorsements
 | **Deck Officer Endorsements**                                                                                                              |

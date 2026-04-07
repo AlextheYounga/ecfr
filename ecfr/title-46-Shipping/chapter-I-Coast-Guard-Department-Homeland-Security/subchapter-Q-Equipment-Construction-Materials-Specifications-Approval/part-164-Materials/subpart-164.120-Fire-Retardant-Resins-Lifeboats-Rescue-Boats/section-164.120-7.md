@@ -1,16 +1,16 @@
 ##### § 164.120-7 Acceptance criteria.
 
-(a) The laminating resin must pass the inspections and tests specified in this section. The inspections and tests required by this section, including weathering of samples, are the responsibility of the manufacturer and must be performed by an independent laboratory.
+(a) The laminating resin must pass the inspections and tests specified in this section. The inspections and tests required by this section, including weathering of samples, are the responsibility of the manufacturer and must be performed by an independent laboratory. 
 
-(1) *Polyester resins.* (i) The resin must meet the specifications of Grade A, Class O resin of MIL-R-7575C (incorporated by reference, see § 164.120-5 of this subpart) and meet the specifications conforming to Grade A (standard flame resistance) of MIL-R-21607E(SH) (incorporated by reference, see § 164.120-5 of this subpart).
+(1) *Polyester resins.* (i) The resin must meet the specifications of Grade A, Class O resin of MIL-R-7575C (incorporated by reference, see § 164.120-5 of this subpart) and meet the specifications conforming to Grade A (standard flame resistance) of MIL-R-21607E(SH) (incorporated by reference, see § 164.120-5 of this subpart). 
 
-(ii) MIL-R-21607E(SH) Grade B resins will be given consideration upon request.
+(ii) MIL-R-21607E(SH) Grade B resins will be given consideration upon request. 
 
-(2) *Vinyl ester resins.* The resin must meet the specifications of Grade B (fire retardant) resin of MIL-R-24719(SH) (incorporated by reference, see § 164.120-5 of this subpart) and must be tested and meet the requirements of weathering and post-weathering mechanical testing as shown in Table 164.120-7 of this section. Samples for the weathering must be prepared in accordance with MIL-R-7575C paragraph 4.3.1.1.
+(2) *Vinyl ester resins.* The resin must meet the specifications of Grade B (fire retardant) resin of MIL-R-24719(SH) (incorporated by reference, see § 164.120-5 of this subpart) and must be tested and meet the requirements of weathering and post-weathering mechanical testing as shown in Table 164.120-7 of this section. Samples for the weathering must be prepared in accordance with MIL-R-7575C paragraph 4.3.1.1. 
 
-(3) *All other resins.* Each resin formulation submitted for Coast Guard approval, other than those addressed in paragraphs (a)(1) and (2) of this section, must be tested and meet the requirements of Table 164.120-7 of this section.
+(3) *All other resins.* Each resin formulation submitted for Coast Guard approval, other than those addressed in paragraphs (a)(1) and (2) of this section, must be tested and meet the requirements of Table 164.120-7 of this section. 
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
 Table 164.120-7—Alternative Test Method Standards for Laminating Resins for Use in Lifeboats, Rescue Boats, and Other Lifesaving Equipment 1
 | Property                               | Test methods               |
