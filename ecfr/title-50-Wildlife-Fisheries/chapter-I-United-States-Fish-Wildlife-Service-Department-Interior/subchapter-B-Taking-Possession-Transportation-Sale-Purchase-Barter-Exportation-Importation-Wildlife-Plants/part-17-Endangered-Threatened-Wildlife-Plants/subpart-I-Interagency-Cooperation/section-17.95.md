@@ -13500,7 +13500,73 @@ Map follows:
 
 (21) Unit 16: Round Corral Meadow, Fresno County, California. Map follows:
 
-![](/graphics/er26au16.028.gif)
+![](/graphics/er26au16.028.gif)Black Warrior Waterdog (*Necturus alabamensis*)
+
+(1) Critical habitat units are depicted for Blount, Etowah, Jefferson, Lawrence, Marshall, Tuscaloosa, Walker, and Winston Counties, Alabama, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Black Warrior waterdog, which describe a riverine system with habitat to support all life-history stages of the Black Warrior waterdog, consists of the following components:
+
+(i) Geomorphically stable, medium to large streams (typically 4 meters (m) (13 feet (ft)) wide or greater) with:
+
+(A) Substrate consisting of clay or bedrock with little sand, and containing abundant rock crevices, rock slabs, and leaf packs;
+
+(B) Moderate water velocity; and
+
+(C) Prey base of aquatic macroinvertebrates.
+
+(ii) Water that lacks harmful levels of pollutants, including inorganic contaminants such as copper, arsenic, mercury, and cadmium; organic contaminants such as human and animal waste products; endocrine-disrupting chemicals; pesticides; nitrogen, potassium, and phosphorus fertilizers; and petroleum distillates.
+
+(iii) Appropriate water quality parameters to support Black Warrior waterdog and primary prey base, including:
+
+(A) Water temperature not exceeding 85° F;
+
+(B) Dissolved oxygen 5.5 milligrams per liter (mg/L) or greater;
+
+(C) Turbidity of an average monthly reading of 15 nephelometric turbidity units above background readings;
+
+(D) 115 mg/L of total suspended solids or less; and
+
+(E) A specific conductance of no greater than 225 microsiemens (µS) per centimeter at 80 °F.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on February 2, 2018.
+
+(4) *Critical habitat map units.* Data layers defining map units were created from the USGS National Hydrography Datasets High Resolution Flowline layer using Universal Transverse Mercator (UTM) Zone 16N coordinates. Segments were mapped using 1983 UTM Zone 16 projection. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/daphne/,* at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2016-0031, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er03ja18.010.gif)
+
+(6) *Unit 1:* Yellow Creek; Tuscaloosa County, Alabama.
+
+(i) *General description:* Unit 1 is approximately 30 rkm (19 rmi) of stream and river habitat from the headwaters of Yellow Creek to Holt Lake.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er03ja18.011.gif)
+
+(7) *Unit 2:* Locust Fork; Blount, Etowah, Jefferson, and Marshall Counties, Alabama.
+
+(i) *General description:* Unit 2 is approximately 391 rkm (243 rmi) of stream and river habitat from the headwaters of Locust Fork to Bankhead Lake, from the headwaters of Slab Creek to the confluence of Locust Fork, from the headwaters of Blackburn Fork to the confluence of Locust Fork, and from the headwaters of Gurley Creek to the confluence of Locust Fork.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er03ja18.012.gif)
+
+(9) *Unit 3:* Blackwater Creek; Walker and Winston Counties, Alabama.
+
+(i) *General description:* Unit 3 consists of approximately 128 rkm (80 rmi) of stream and river habitat from the headwaters of Blackwater Creek to the confluence of Mulberry Fork, from the headwaters of Brown Creek to the confluence of Blackwater Creek.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er03ja18.013.gif)
+
+(10) *Unit 4:* Sipsey Fork; Lawrence and Winston Counties, Alabama.
+
+(i) *General description:* Unit 4 consists of approximately 124 rkm (78 rmi) of stream and river habitat from the headwaters of Sipsey Fork to Lewis Smith Lake, from the headwaters of Brushy Creek to Lewis Smith Lake, from the headwaters of Rush Creek to the confluence of Brushy Creek, and from the headwaters of Capsey Creek to the confluence of Brushy Creek.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er03ja18.014.gif)
 
 (e) *Fishes.*
 
