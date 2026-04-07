@@ -1,8 +1,8 @@
 ##### § 161.20 Benefits for civilian personnel.
 
-Civilian personnel may be eligible for certain benefits described in this section based on their affiliation with DoD, Service-specific guidelines, or other authorizing conditions. The definition of “civilian personnel” (e.g., civilian employee, DoD contractor, Red Cross employee) is specific to each benefit set described.
+Civilian personnel may be eligible for certain benefits described in this section based on their affiliation with DoD, Service-specific guidelines, or other authorizing conditions. The definition of “civilian personnel” (e.g., civilian employee, DoD contractor, Red Cross employee) is specific to each benefit set described. 
 
-(a) Civilian personnel in the United States may be issued a DoD ID card as a condition of employment or assignment in accordance with subpart B of this part. Civilian personnel in the United States are eligible for benefits as shown in Table 29 to this subpart.
+(a) Civilian personnel in the United States may be issued a DoD ID card as a condition of employment or assignment in accordance with subpart B of this part. Civilian personnel in the United States are eligible for benefits as shown in Table 29 to this subpart. 
 
 Table 29 to Subpart C of Part 161—Benefits for Civilian Personnel in the United States
 |                                                                                                                                                                                                             | CHC | DC | C  | MWR | E   |
@@ -15,7 +15,7 @@ Table 29 to Subpart C of Part 161—Benefits for Civilian Personnel in the Unite
 | 1\. Yes, but the benefit is not printed on the DoD ID card and will be facilitated in accordance with DoD Instruction 1015.10.                                                                              |     |    |    |     |     |
 | 2\. Yes, if working full-time on the installation in accordance with DoD Instruction 1015.10. Benefit is not printed on the DoD ID card and will be facilitated in accordance with DoD Instruction 1015.10. |     |    |    |     |     |
 
-(b) Civilian personnel residing on a military installation in the United States are eligible for benefits as shown in Table 30 to this subpart.
+(b) Civilian personnel residing on a military installation in the United States are eligible for benefits as shown in Table 30 to this subpart. 
 
 Table 30 to Subpart C of Part 161—Benefits for Civilian Personnel When Residing on a Military Installation in the United States
 |                                                                                                                                                                                                          | CHC | DC | C  | MWR | E  |
@@ -26,7 +26,7 @@ Table 30 to Subpart C of Part 161—Benefits for Civilian Personnel When Residin
 | 1\. Yes, but benefit is not printed on the DoD ID card and will be facilitated in accordance with DoD Instruction 1015.10.                                                                               |     |    |    |     |    |
 | 2\. Yes, but subject to purchase restrictions, in accordance with DoD Instruction 1330.21. Benefit is not printed on the DoD ID card and will be facilitated in accordance with DoD Instruction 1330.21. |     |    |    |     |    |
 
-(c) DoD civilian personnel stationed or employed outside the United States and outside U.S. Territories and Possessions, and their accompanying dependents, when residing in the same household, are eligible for benefits as shown in Table 31 to this subpart.
+(c) DoD civilian personnel stationed or employed outside the United States and outside U.S. Territories and Possessions, and their accompanying dependents, when residing in the same household, are eligible for benefits as shown in Table 31 to this subpart. 
 
 Table 31 to Subpart C of Part 161—Benefits for DoD Civilian Personnel Stationed or Employed Outside the United States and Outside U.S. Territories and Possessions and Accompanying Dependents
 |                                                                                                                                                                                                                                                                                                                                                                                                        | CHC | DC   | C    | MWR | E    |
@@ -57,7 +57,7 @@ Table 31 to Subpart C of Part 161—Benefits for DoD Civilian Personnel Statione
 | a. Has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary, and is dependent on the sponsor for over 50 percent of the child's support; or                                                                                                                                                             |     |      |      |     |      |
 | b. Is incapable of self-support because of a mental or physical incapacity, and is dependent on the sponsor for over 50 percent of the child's support.                                                                                                                                                                                                                                                |     |      |      |     |      |
 
-(d) Non-DoD Government agency civilian personnel stationed or employed outside the United States and outside U.S. territories and possessions, and their dependents, when residing in the same household, are eligible for benefits as shown in Table 32 to this subpart.
+(d) Non-DoD Government agency civilian personnel stationed or employed outside the United States and outside U.S. territories and possessions, and their dependents, when residing in the same household, are eligible for benefits as shown in Table 32 to this subpart. 
 
 Table 32 to Subpart C of Part 161—Benefits for Non-DoD Government Agency Civilian Personnel Stationed or Employed Outside the United States and Outside U.S. Territories and Possessions and Accompanying Dependents
 |                                                                                                                                                                                                                                                                                                                                                                                                               | CHC | DC   | C | MWR | E  |
@@ -86,7 +86,7 @@ Table 32 to Subpart C of Part 161—Benefits for Non-DoD Government Agency Civil
 | a. Has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary, and is dependent on the sponsor for over 50 percent of the child's support; or                                                                                                                                                                    |     |      |   |     |    |
 | b. Is incapable of self-support because of a mental or physical incapacity and is dependent on the sponsor for over 50 percent of the child's support.                                                                                                                                                                                                                                                        |     |      |   |     |    |
 
-(e) Civilian personnel stationed or employed in U.S. Territories and Possessions and their dependents, when residing in the same household, are eligible for benefits as shown in Table 33 to this subpart.
+(e) Civilian personnel stationed or employed in U.S. Territories and Possessions and their dependents, when residing in the same household, are eligible for benefits as shown in Table 33 to this subpart. 
 
 Table 33 to Subpart C of Part 161—Benefits for Civilian Personnel Stationed or Employed in U.S. Territories and Possessions and Accompanying Dependents
 |                                                                                                                                                                                                                                                                                                                                                                                                               | CHC | DC   | C  | MWR | E   |
@@ -117,7 +117,7 @@ Table 33 to Subpart C of Part 161—Benefits for Civilian Personnel Stationed or
 | a. Has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary, and is dependent on the sponsor for over 50 percent of the child's support; or                                                                                                                                                                    |     |      |    |     |     |
 | b. Is incapable of self-support because of a mental or physical incapacity, and is dependent on the sponsor for over 50 percent of the child's support.                                                                                                                                                                                                                                                       |     |      |    |     |     |
 
-(f) DoD OCONUS hires are foreign nationals in host countries who are employed by U.S. forces, consistent with any agreement with the host country as defined in Volume 1231 of DoD Instruction 1400.25. They are entered into DEERS for the purposes of issuing a CAC and are eligible for benefits as shown in Table 34 to this subpart.
+(f) DoD OCONUS hires are foreign nationals in host countries who are employed by U.S. forces, consistent with any agreement with the host country as defined in Volume 1231 of DoD Instruction 1400.25. They are entered into DEERS for the purposes of issuing a CAC and are eligible for benefits as shown in Table 34 to this subpart. 
 
 Table 34 to Subpart C of Part 161—Benefits for DoD OCONUS Hires
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | CHC | DC | C  | MWR | E   |
@@ -126,7 +126,7 @@ Table 34 to Subpart C of Part 161—Benefits for DoD OCONUS Hires
 | **Note:**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |     |    |    |     |     |
 | 1\. Yes, for appropriated fund and NAF foreign national employees assigned and working directly for DoD installations overseas, if not prohibited by Status of Forces Agreements, other international agreements, or local laws, and the installation commander determines it is in the best interest of the command. Annual recertification of the employee authorization is required in accordance with DoD Instruction 1015.10. Benefit is not printed on the DoD ID card and will be facilitated in accordance with DoD Instruction 1015.10. |     |    |    |     |     |
 
-(g) Full-time paid personnel of the Red Cross assigned to duty with the uniformed services in the United States and residing on a military installation and their accompanying dependents, when residing in the same household are eligible for benefits as shown in Table 35 to this subpart.
+(g) Full-time paid personnel of the Red Cross assigned to duty with the uniformed services in the United States and residing on a military installation and their accompanying dependents, when residing in the same household are eligible for benefits as shown in Table 35 to this subpart. 
 
 Table 35 to Subpart C of Part 161—Benefits for Full-Time Paid Personnel of the Red Cross Assigned to Duty With the Uniformed Services in the United States and Residing on a Military Installation and Accompanying Dependents
 |                                                                                                                                                                                                                                                                                                                                                                                                        | CHC | DC | C  | MWR | E     |
@@ -150,7 +150,7 @@ Table 35 to Subpart C of Part 161—Benefits for Full-Time Paid Personnel of the
 | a. Has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary, and is dependent on the sponsor for over 50 percent of the child's support; or                                                                                                                                                             |     |    |    |     |       |
 | b. Is incapable of self-support because of a mental or physical incapacity that existed before age 21, or occurred before the age of 23 while a full-time student while a dependent of a sponsor, and is dependent on the sponsor for over 50 percent of the child's support.                                                                                                                          |     |    |    |     |       |
 
-(h) Full-time paid personnel of the Red Cross assigned to duty with the uniformed services outside the United States and their accompanying dependents, when residing in the same household, are eligible for benefits as shown in Table 36 to this subpart.
+(h) Full-time paid personnel of the Red Cross assigned to duty with the uniformed services outside the United States and their accompanying dependents, when residing in the same household, are eligible for benefits as shown in Table 36 to this subpart. 
 
 Table 36 to Subpart C of Part 161—Benefits for Full-Time Paid Personnel of the Red Cross Assigned to Duty With the Uniformed Services Outside the United States and Accompanying Dependents
 |                                                                                                                                                                                                                                                                                                                                                                                                               | CHC | DC   | C | MWR | E  |
@@ -178,7 +178,7 @@ Table 36 to Subpart C of Part 161—Benefits for Full-Time Paid Personnel of the
 | a. Has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary, and is dependent on the sponsor for over 50 percent of the child's support; or                                                                                                                                                                    |     |      |   |     |    |
 | b. Is incapable of self-support because of a mental or physical incapacity and is dependent on the sponsor for over 50 percent of the child's support.                                                                                                                                                                                                                                                        |     |      |   |     |    |
 
-(i) Full-time paid personnel of the United Service Organizations (USO) serving outside the United States and their accompanying dependents when residing in the same household are eligible for benefits as shown in Table 37 to this subpart.
+(i) Full-time paid personnel of the United Service Organizations (USO) serving outside the United States and their accompanying dependents when residing in the same household are eligible for benefits as shown in Table 37 to this subpart. 
 
 Table 37 to Subpart C of Part 161—Benefits for Full-Time Paid Personnel of the USO and Accompanying Dependents Serving Outside the United States
 |                                                                                                                                                                                                                                                                                                                                                                                                        | CHC | DC   | C | MWR | E  |
@@ -204,7 +204,7 @@ Table 37 to Subpart C of Part 161—Benefits for Full-Time Paid Personnel of the
 | a. Has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary, and is dependent on the sponsor for over 50 percent of the child's support; or                                                                                                                                                             |     |      |   |     |    |
 | b. Is incapable of self-support because of a mental or physical incapacity and is dependent on the sponsor for over 50 percent of the child's support.                                                                                                                                                                                                                                                 |     |      |   |     |    |
 
-(j) Full-time paid personnel of the USS serving outside the United States and outside U.S. territories and possessions, and their accompanying dependents, when residing in the same household, are eligible for benefits as shown in Table 38 to this subpart.
+(j) Full-time paid personnel of the USS serving outside the United States and outside U.S. territories and possessions, and their accompanying dependents, when residing in the same household, are eligible for benefits as shown in Table 38 to this subpart. 
 
 Table 38 to Subpart C of Part 161—Benefits for Full-Time Paid Personnel of the USS Serving Outside the United States and Outside U.S. Territories and Possessions and Accompanying Dependents
 |                                                                                                                                                                                                                                                                                                                                                                                                        | CHC | DC   | C  | MWR | E   |
@@ -228,7 +228,7 @@ Table 38 to Subpart C of Part 161—Benefits for Full-Time Paid Personnel of the
 | a. Has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary, and is dependent on the sponsor for over 50 percent of the child's support; or                                                                                                                                                             |     |      |    |     |     |
 | b. Is incapable of self-support because of a mental or physical incapacity, and is dependent on the sponsor for over 50 percent of the child's support.                                                                                                                                                                                                                                                |     |      |    |     |     |
 
-(k) MSC civil service Marine personnel deployed on MSC-owned and operated vessels outside the United States and outside U.S. territories and possessions are eligible for benefits as shown in Table 39 to this subpart.
+(k) MSC civil service Marine personnel deployed on MSC-owned and operated vessels outside the United States and outside U.S. territories and possessions are eligible for benefits as shown in Table 39 to this subpart. 
 
 Table 39 to Subpart C of Part 161—Benefits for MSC Personnel Deployed on MSC-Owned and Operated Vessels Outside the United States and Outside U.S. Territories and Possessions
 |                                                          | CHC | DC | C  | MWR | E   |
@@ -237,7 +237,7 @@ Table 39 to Subpart C of Part 161—Benefits for MSC Personnel Deployed on MSC-O
 | **Note:**                                                |     |    |    |     |     |
 | 1\. Yes, on a space-available, fully reimbursable basis. |     |    |    |     |     |
 
-(l) Ship's officers and members of the crews of NOAA vessels are eligible for benefits in accordance with 33 U.S.C. 3074 as shown in Table 40 to this subpart. Ship's officers are not commissioned officers, but civilian employees of NOAA.
+(l) Ship's officers and members of the crews of NOAA vessels are eligible for benefits in accordance with 33 U.S.C. 3074 as shown in Table 40 to this subpart. Ship's officers are not commissioned officers, but civilian employees of NOAA. 
 
 Table 40 to Subpart C of Part 161—Benefits for Ship's Officers and Members of the Crews of NOAA Vessels (NOAA Wage Mariner Employees)
 |                                                                                                                                                                                                                                                                                                                                                                                                       | CHC | DC | C   | MWR | E    |
@@ -258,14 +258,14 @@ Table 40 to Subpart C of Part 161—Benefits for Ship's Officers and Members of 
 | a. Has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary, and is dependent on the sponsor for over 50 percent of the child's support; or                                                                                                                                                            |     |    |     |     |      |
 | b. Is incapable of self-support because of a mental or physical incapacity, and is dependent on the sponsor for over 50 percent of the child's support.                                                                                                                                                                                                                                               |     |    |     |     |      |
 
-(m) Officers and crews of vessels, lighthouse keepers, and depot keepers of the former Lighthouse Service are eligible for benefits as shown in Table 41 to this subpart.
+(m) Officers and crews of vessels, lighthouse keepers, and depot keepers of the former Lighthouse Service are eligible for benefits as shown in Table 41 to this subpart. 
 
 Table 41 to Subpart C of Part 161—Benefits for Officers and Crews of Vessels, Lighthouse Keepers, and Depot Keepers of the Former Lighthouse Service
 |      | CHC | DC | C   | MWR | E    |
 | ---- | --- | -- | --- | --- | ---- |
 | Self | No  | No | Yes | Yes | Yes. |
 
-(n) Presidential appointees who have been confirmed by the Senate (PASs) are eligible for benefits as shown in Table 42 to this subpart.
+(n) Presidential appointees who have been confirmed by the Senate (PASs) are eligible for benefits as shown in Table 42 to this subpart. 
 
 Table 42 to Subpart C of Part 161—Benefits for Presidential Appointees
 |                                                                                                                                                                                                                       | CHC | DC | C | MWR | E  |
@@ -275,7 +275,7 @@ Table 42 to Subpart C of Part 161—Benefits for Presidential Appointees
 | 1\. Designation for PASs and other designated civilian officials within the DoD and the Military Departments. This is a specific reimbursable care value at the interagency rate outside the National Capital Region. |     |    |   |     |    |
 | 2\. Yes, if residing in quarters on DoD military installations.                                                                                                                                                       |     |    |   |     |    |
 
-(o) Contract surgeons overseas during the period of their contract are eligible for benefits as shown in Table 43 to this subpart.
+(o) Contract surgeons overseas during the period of their contract are eligible for benefits as shown in Table 43 to this subpart. 
 
 Table 43 to Subpart C of Part 161—Benefits for Contract Surgeons Overseas
 |                                                                        | CHC | DC | C  | MWR | E  |
@@ -284,7 +284,7 @@ Table 43 to Subpart C of Part 161—Benefits for Contract Surgeons Overseas
 | **Note:**                                                              |     |    |    |     |    |
 | 1\. Only during the period of their contract with the Surgeon General. |     |    |    |     |    |
 
-(p) State employees of the National Guard may be identified in DEERS for the purpose of issuing a CAC to access DoD networks. There are no benefits assigned and no dependent benefits are extended as shown in Table 44 to this subpart.
+(p) State employees of the National Guard may be identified in DEERS for the purpose of issuing a CAC to access DoD networks. There are no benefits assigned and no dependent benefits are extended as shown in Table 44 to this subpart. 
 
 Table 44 to Subpart C of Part 161—Benefits for State Guard Employees
 |      | CHC | DC | C  | MWR | E   |

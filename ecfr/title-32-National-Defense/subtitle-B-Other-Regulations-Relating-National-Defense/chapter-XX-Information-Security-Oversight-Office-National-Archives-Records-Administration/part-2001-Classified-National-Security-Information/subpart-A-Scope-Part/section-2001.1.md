@@ -1,10 +1,10 @@
 ##### § 2001.1 Purpose and scope.
 
-(a) This part is issued under Executive Order. (E.O.) 13526, *Classified National Security Information* (the Order). Section 5 of the Order provides that the Director of the Information Security Oversight Office (ISOO) shall develop and issue such directives as are necessary to implement the Order.
+(a) This part is issued under Executive Order. (E.O.) 13526, *Classified National Security Information* (the Order). Section 5 of the Order provides that the Director of the Information Security Oversight Office (ISOO) shall develop and issue such directives as are necessary to implement the Order. 
 
-(b) The Order provides that these directives are binding on agencies. Section 6.1(a) of the Order defines “agency” to mean any “Executive agency” as defined in 5 U.S.C. 105; any “Military department” as defined in 5 U.S.C. 102; and any other entity within the executive branch that comes into the possession of classified information.
+(b) The Order provides that these directives are binding on agencies. Section 6.1(a) of the Order defines “agency” to mean any “Executive agency” as defined in 5 U.S.C. 105; any “Military department” as defined in 5 U.S.C. 102; and any other entity within the executive branch that comes into the possession of classified information. 
 
-(c) For the convenience of the user, the following table provides references between the sections contained in this part and the relevant sections of the Order.
+(c) For the convenience of the user, the following table provides references between the sections contained in this part and the relevant sections of the Order. 
 
 | CFR section                                                                           | Related section of E.O. 13526             |
 | ------------------------------------------------------------------------------------- | ----------------------------------------- |

@@ -1,6 +1,6 @@
 ##### § 117.24 Cognizant Security Office information.
 
-(a) *DoD.* Refer to the DCSA website (*https://www.dcsa.mil*) for a listing of office locations and areas of responsibility and for information on verification of facility clearances and safeguarding. In those cases where the cleared facility is located on a DoD installation the applicable DCSA field office can advise if the installation commander is providing security oversight.
+(a) *DoD.* Refer to the DCSA website (*https://www.dcsa.mil*) for a listing of office locations and areas of responsibility and for information on verification of facility clearances and safeguarding. In those cases where the cleared facility is located on a DoD installation the applicable DCSA field office can advise if the installation commander is providing security oversight. 
 
 Table 1 to Paragraph (a) DoD Cognizant Security Office
 | Designation       | Office name                                     | Mailing address                         | Telephone No.  |

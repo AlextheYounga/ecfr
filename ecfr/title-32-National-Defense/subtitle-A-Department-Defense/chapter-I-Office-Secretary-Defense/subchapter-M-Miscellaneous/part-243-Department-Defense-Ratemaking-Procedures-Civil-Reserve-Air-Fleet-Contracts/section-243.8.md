@@ -1,5 +1,5 @@
 ##### § 243.8 Application of FAR cost principles.
 
-In establishing fair and reasonable rate of payments for airlift service contracts in support of CRAF, USTRANSCOM, in accordance with10 U.S.C. 9511a, procedures differ from the following provisions of FAR Part 31 and DFARS Part 231, as supplemented:
+In establishing fair and reasonable rate of payments for airlift service contracts in support of CRAF, USTRANSCOM, in accordance with10 U.S.C. 9511a, procedures differ from the following provisions of FAR Part 31 and DFARS Part 231, as supplemented: 
 
 FAR 31.202, Direct Costs FAR 31.203, Indirect Costs FAR 31.205-6, Compensation for Personal Services, subparagraphs (g), (j), and (k) FAR 31.205-10, Cost of Money FAR 31.205-11, Depreciation FAR 31.205-18, Independent Research and Development and Bid and Proposal Costs FAR 31.205-19, Insurance and Indemnification FAR 31.205-26, Material Costs FAR 31.205-40, Special Tooling and Special Test Equipment Costs FAR 31.205-41, Taxes DFARS 231.205-18, Independent research and development and bid and proposal costs

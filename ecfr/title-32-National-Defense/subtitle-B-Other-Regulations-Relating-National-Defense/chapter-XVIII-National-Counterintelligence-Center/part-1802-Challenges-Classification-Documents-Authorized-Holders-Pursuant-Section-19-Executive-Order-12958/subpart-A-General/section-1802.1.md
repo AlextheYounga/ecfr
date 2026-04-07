@@ -1,5 +1,5 @@
 ##### § 1802.1 Authority and purpose.
 
-(a) *Authority.* This part is issued under the authority of and in order to implement § 1.9 of Executive Order (E.O.) 12958 and section 102 of the National Security Act of 1947.
+(a) *Authority.* This part is issued under the authority of and in order to implement § 1.9 of Executive Order (E.O.) 12958 and section 102 of the National Security Act of 1947. 
 
 (b) *Purpose.* This part prescribes procedures for authorized holders of information classified under the various provisions of E.O. 12958, or predecessor Orders, to seek a review or otherwise challenge the classified status of information to further the interests of the United States Government. This part and § 1.9 of E.O. 12958 confer no rights upon members of the general public, or authorized holders acting in their personal capacity, both of whom shall continue to request reviews of classification under the mandatory declassification review provisions set forth at § 3.6 of E.O. 12958.

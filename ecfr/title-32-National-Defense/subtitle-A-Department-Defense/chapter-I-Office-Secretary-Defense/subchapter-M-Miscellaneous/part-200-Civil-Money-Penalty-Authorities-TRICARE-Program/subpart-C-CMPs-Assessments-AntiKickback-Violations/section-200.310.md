@@ -1,6 +1,6 @@
 ##### § 200.310 Amount of penalties and assessments.
 
-(a) *Penalties.*2 The DHA may impose a penalty of not more than $100,522 for each offer, payment, solicitation, or receipt of remuneration that is subject to a determination under § 200.300.
+(a) *Penalties.*2 The DHA may impose a penalty of not more than $100,522 for each offer, payment, solicitation, or receipt of remuneration that is subject to a determination under § 200.300. 
 
 2 The penalty amounts in this section are updated annually, as adjusted in accordance with the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990 (Pub. L. 101-140), as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (section 701 of Pub. L. 114-74). Annually adjusted amounts are published at 32 CFR part 269. The maximum penalty amount is based on the most recent statutory adjustment included in the Bipartisan Budget Act of 2018 and includes the cost of living multiplier for 2019, based on the CPI-U for the month of October 2018, not seasonally adjusted, is 1.02522, as indicated in OMB Memorandum M-19-04.
 

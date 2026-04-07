@@ -2,13 +2,13 @@
 
 As a lessee, applicant, operator, or holder of a ROW or RUE grant, you must:
 
-(a) Design your projects and conduct all activities in a manner that ensures safety and will not cause undue harm or damage to natural resources, including their physical, atmospheric, and biological components to the extent practicable; and take measures to prevent unauthorized discharge of pollutants including marine trash and debris into the offshore environment.
+(a) Design your projects and conduct all activities in a manner that ensures safety and will not cause undue harm or damage to natural resources, including their physical, atmospheric, and biological components to the extent practicable; and take measures to prevent unauthorized discharge of pollutants including marine trash and debris into the offshore environment;
 
 (b) Submit requests, applications, plans, notices, modifications, and supplemental information to BOEM as required by this part;
 
 (c) Follow up, in writing, any oral request or notification you made, within 3 business days;
 
-(d) Comply with the terms, conditions, and provisions of all reports and notices submitted to BOEM, and of all plans, revisions, and other BOEM approvals, as provided in this part;
+(d) Comply with all applicable laws and regulations, the terms of your lease or grant under this part, reports, notices, and approved plans prepared under this part, and any conditions imposed by BOEM through its review of any of these reports, notices, and approved plans, as provided in this part;
 
 (e) Make all applicable payments on time;
 

@@ -1,6 +1,6 @@
 ##### § 564.52 Statutory authority.
 
-(a) Limited authority for the payment of claims arising out of National Guard and Air National Guard activities has been granted annually for several years by provisions of the annual Appropriations Act for the Department of Defense. A recent provision is as follows:
+(a) Limited authority for the payment of claims arising out of National Guard and Air National Guard activities has been granted annually for several years by provisions of the annual Appropriations Act for the Department of Defense. A recent provision is as follows: 
 
 The following sums are appropriated, \* \* \* For payment of \* \* \*; claims (not to exceed $1,000 in any one case) for damages to or loss of private property incident to the operation of Army and Air National Guard camps of instruction, either during the stay of units of said organizations at such camps or while en route thereto or therefrom; \* \* \* (Act of August 1, 1953, Public Law 179, 83d Cong.).
 

@@ -6,6 +6,6 @@ U.S. Army Engineer District, Savannah, Corps of Engineers, Attn: CESAS-RE-HM, 10
 
 HAP CENTRAL OFFICE
 
-Homeowners Assistance Program, HQ U.S. Army Corps of Engineers Real Estate Directorate, Military Division, 441 G Street NW., Washington, DC 20314-1000.
+Homeowners Assistance Program, HQ U.S. Army Corps of Engineers Real Estate Directorate, Military Division, 441 G Street NW., Washington, DC 20314-1000. 
 
 \[77 FR 39629, July 5, 2012\]

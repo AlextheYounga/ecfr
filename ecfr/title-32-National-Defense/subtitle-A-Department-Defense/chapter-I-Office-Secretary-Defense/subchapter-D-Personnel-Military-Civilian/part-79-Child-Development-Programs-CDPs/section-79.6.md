@@ -1,398 +1,398 @@
 ##### § 79.6 Procedures.
 
-(a) *Priority System.* To the extent possible, CDPs shall be offered to the qualifying children of eligible patrons.
+(a) *Priority System.* To the extent possible, CDPs shall be offered to the qualifying children of eligible patrons. 
 
-(1) *Priority 1.* The highest priority for full-time care shall be given to qualifying children from birth through 12 years of age of combat related wounded warriors, child development program direct care staff, single or dual active duty Military Service members, single or dual DoD civilian employees paid from APF and NAF, surviving spouses of military members who died from a combat related incident, and those acting in loco parentis on behalf of the aforementioned eligible patrons. With the exception of combat related wounded warriors, ALL eligible parents or caregivers residing with the child are employed outside the home.
+(1) *Priority 1.* The highest priority for full-time care shall be given to qualifying children from birth through 12 years of age of combat related wounded warriors, child development program direct care staff, single or dual active duty Military Service members, single or dual DoD civilian employees paid from APF and NAF, surviving spouses of military members who died from a combat related incident, and those acting in loco parentis on behalf of the aforementioned eligible patrons. With the exception of combat related wounded warriors, ALL eligible parents or caregivers residing with the child are employed outside the home. 
 
-(2) *Priority 2.* The second priority for full-time care shall be given equally to qualifying children from birth through 12 years of age of active duty Military Service members, DoD civilian employees paid from APF and NAF, surviving spouses of military members who died from a combat related incident, and those acting in loco parentis on behalf of the aforementioned eligible patrons, where a non-working spouse, or in the case of a DoD civilian employee with a same-sex domestic partner, is actively seeking employment. The status of actively seeking employment must be verified every 90 days.
+(2) *Priority 2.* The second priority for full-time care shall be given equally to qualifying children from birth through 12 years of age of active duty Military Service members, DoD civilian employees paid from APF and NAF, surviving spouses of military members who died from a combat related incident, and those acting in loco parentis on behalf of the aforementioned eligible patrons, where a non-working spouse, or in the case of a DoD civilian employee with a same-sex domestic partner, is actively seeking employment. The status of actively seeking employment must be verified every 90 days. 
 
-(3) *Priority 3.* The third priority for full-time care shall be given equally to qualifying children from birth through 12 years of age of active duty Military Service members, DoD civilian employees paid from APF and NAF, surviving spouses of military members who died from a combat related incident, and those acting in loco parentis on behalf of the aforementioned eligible patrons, where a non-working spouse, or in the case of a DoD civilian employee with a same-sex domestic partner, is enrolled in an accredited post-secondary institution. The status of post-secondary enrollment must be verified every 90 days.
+(3) *Priority 3.* The third priority for full-time care shall be given equally to qualifying children from birth through 12 years of age of active duty Military Service members, DoD civilian employees paid from APF and NAF, surviving spouses of military members who died from a combat related incident, and those acting in loco parentis on behalf of the aforementioned eligible patrons, where a non-working spouse, or in the case of a DoD civilian employee with a same-sex domestic partner, is enrolled in an accredited post-secondary institution. The status of post-secondary enrollment must be verified every 90 days. 
 
-(4) *Space Available.* After meeting the needs of parents in priorities 1, 2, and 3, CDPs shall support the need for full-time care for other eligible patrons such as active duty Military Service members with non-working spouses, DoD civilian employees paid from APF and NAF with non-working spouses or same-sex domestic partners, eligible employees of DoD Contractors, Federal employees from non-DoD agencies, and military retirees on a space available basis. In this category, CDPs may also authorize otherwise ineligible patrons in accordance with 10 U.S.C. 1783, 1791 through 1800, 2809, and 2812 to enroll in the CDP to make more efficient use of DoD facilities and resources.
+(4) *Space Available.* After meeting the needs of parents in priorities 1, 2, and 3, CDPs shall support the need for full-time care for other eligible patrons such as active duty Military Service members with non-working spouses, DoD civilian employees paid from APF and NAF with non-working spouses or same-sex domestic partners, eligible employees of DoD Contractors, Federal employees from non-DoD agencies, and military retirees on a space available basis. In this category, CDPs may also authorize otherwise ineligible patrons in accordance with 10 U.S.C. 1783, 1791 through 1800, 2809, and 2812 to enroll in the CDP to make more efficient use of DoD facilities and resources. 
 
-(5) Individual priorities will be determined based on the date of application with the DoD Component. Components may only establish sub-priorities if unique mission related installation requirements are identified by higher headquarters.
+(5) Individual priorities will be determined based on the date of application with the DoD Component. Components may only establish sub-priorities if unique mission related installation requirements are identified by higher headquarters. 
 
-(b) *Types of Care.* The types of care offered for children from birth through 12 years of age include 24/7 care and care provided on a full-day, part-day, short-term or intermittent basis.
+(b) *Types of Care.* The types of care offered for children from birth through 12 years of age include 24/7 care and care provided on a full-day, part-day, short-term or intermittent basis. 
 
-(1) *Military-Operated CDPs.* Military-operated (on and off installation) CDPs generally include:
+(1) *Military-Operated CDPs.* Military-operated (on and off installation) CDPs generally include: 
 
-(i) *CDCs.* Reference Table 1 of this section of this part for standards of operation for CDCs. CDCs primarily offer care to children from birth to 5 years of age, but may also be used to provide SAC programs.
+(i) *CDCs.* Reference Table 1 of this section of this part for standards of operation for CDCs. CDCs primarily offer care to children from birth to 5 years of age, but may also be used to provide SAC programs. 
 
-(ii) *SAC Programs.* Reference Table 1 of this section for SAC standards of operation. SAC programs primarily offer care to children from 6 to 12 years of age. Care may be offered in CDCs and other installation facilities, such as youth centers and schools.
+(ii) *SAC Programs.* Reference Table 1 of this section for SAC standards of operation. SAC programs primarily offer care to children from 6 to 12 years of age. Care may be offered in CDCs and other installation facilities, such as youth centers and schools. 
 
-(iii) *FCC.* Reference Table 2 of this section for FCC standards of operation. Child care services are available to children from infancy through 12 years of age and are provided in government housing or in state licensed/regulated homes in the community.
+(iii) *FCC.* Reference Table 2 of this section for FCC standards of operation. Child care services are available to children from infancy through 12 years of age and are provided in government housing or in state licensed/regulated homes in the community. 
 
-(iv) *Supplemental Child Care.* Services include short-term alternative child care options in approved settings on and off installation.
+(iv) *Supplemental Child Care.* Services include short-term alternative child care options in approved settings on and off installation. 
 
-(v) *Part-Day and Hourly Programs.* CDP space used for part-day and hourly programs, including programs to provide respite child care, shall not exceed 20 percent of the CDP program's capacity during duty hours.
+(v) *Part-Day and Hourly Programs.* CDP space used for part-day and hourly programs, including programs to provide respite child care, shall not exceed 20 percent of the CDP program's capacity during duty hours. 
 
-(2) *Military Department, Defense Agency, and DoD Field Activity-Approved Supplemental Child Care Programs.* See paragraph (g) of this section.
+(2) *Military Department, Defense Agency, and DoD Field Activity-Approved Supplemental Child Care Programs.* See paragraph (g) of this section. 
 
-(c) *Administration, Funding and Oversight of Military Operated CDPs.* Unless otherwise noted, the requirements in this section apply to all DoD-operated CDPs.
+(c) *Administration, Funding and Oversight of Military Operated CDPs.* Unless otherwise noted, the requirements in this section apply to all DoD-operated CDPs. 
 
-(1) *Background Checks.* All background checks for individuals who have regular, recurring contact with children and youth in CDPs, including adult family members of FCC providers and any individual over the age of 18 living in a home where child care is provided, and persons who serve as substitute or backup providers, shall be conducted in accordance with 32 CFR part 86.
+(1) *Background Checks.* All background checks for individuals who have regular, recurring contact with children and youth in CDPs, including adult family members of FCC providers and any individual over the age of 18 living in a home where child care is provided, and persons who serve as substitute or backup providers, shall be conducted in accordance with 32 CFR part 86. 
 
-(2) *Funding.* CDPs are funded by a combination of APF and NAF.
+(2) *Funding.* CDPs are funded by a combination of APF and NAF. 
 
-(i) The amount of APF used to operate CDPs shall be no less than the amount collected through child care fees, except for CDCs that operate under a long-term facility's contract or lease-purchase agreement under 10 U.S.C. 2809 and 2812.
+(i) The amount of APF used to operate CDPs shall be no less than the amount collected through child care fees, except for CDCs that operate under a long-term facility's contract or lease-purchase agreement under 10 U.S.C. 2809 and 2812. 
 
-(A) A family's child care fee category is determined based on an initial and subsequent annual verification of TFI. Families pay the child care fee assigned to that TFI category. A family's fees may only be adjusted once per year, with exceptions listed in paragraph (c)(2)(i)(E) of this section. TFI is determined utilizing DD Form 2652.
+(A) A family's child care fee category is determined based on an initial and subsequent annual verification of TFI. Families pay the child care fee assigned to that TFI category. A family's fees may only be adjusted once per year, with exceptions listed in paragraph (c)(2)(i)(E) of this section. TFI is determined utilizing DD Form 2652. 
 
-(B) APF may be used to subsidize child care in military-approved civilian programs in accordance with 10 U.S.C. 1791 through 1800.
+(B) APF may be used to subsidize child care in military-approved civilian programs in accordance with 10 U.S.C. 1791 through 1800. 
 
-(C) DoD Components establishing child care fee assistance programs for their employees must contribute the amounts required to pay subsidies out of agency APFs.
+(C) DoD Components establishing child care fee assistance programs for their employees must contribute the amounts required to pay subsidies out of agency APFs. 
 
-(D) FCC providers are private contractors. Fees are established between the provider and parent, unless such providers receive direct monetary subsidies. When FCC providers receive direct monetary subsidies to reduce the cost of care for the families they service, the installation commander or DoD Component shall determine relevant fees charged by FCC providers.
+(D) FCC providers are private contractors. Fees are established between the provider and parent, unless such providers receive direct monetary subsidies. When FCC providers receive direct monetary subsidies to reduce the cost of care for the families they service, the installation commander or DoD Component shall determine relevant fees charged by FCC providers. 
 
-(E) Fees may be adjusted:
+(E) Fees may be adjusted: 
 
-(*1*) By the installation commander, Defense Agency Director, or DoD Field Activity Director:
+(*1*) By the installation commander, Defense Agency Director, or DoD Field Activity Director: 
 
-(*i*) On a case-by-case basis for families who are facing financial hardship or unusual circumstances that merit review, in accordance with established DoD Component guidance.
+(*i*) On a case-by-case basis for families who are facing financial hardship or unusual circumstances that merit review, in accordance with established DoD Component guidance. 
 
-(*ii*) For parents participating in an approved parent participation program.
+(*ii*) For parents participating in an approved parent participation program. 
 
-(*2*) By the DoD Components, Defense Agency Director, or DoD Field Activity Director:
+(*2*) By the DoD Components, Defense Agency Director, or DoD Field Activity Director: 
 
-(*i*) To accommodate an optional high market rate when it is necessary to pay higher wages to compete with local labor or at those installations where wages are affected by non-foreign area cost of living allowance (COLA), post differential or locality pay. The optional low market rate may be used in areas where costs for comparable care within the installation catchment area are significantly lower. A request to utilize the high or low market rate options must be submitted to OFP/CY for approval.
+(*i*) To accommodate an optional high market rate when it is necessary to pay higher wages to compete with local labor or at those installations where wages are affected by non-foreign area cost of living allowance (COLA), post differential or locality pay. The optional low market rate may be used in areas where costs for comparable care within the installation catchment area are significantly lower. A request to utilize the high or low market rate options must be submitted to OFP/CY for approval. 
 
-(*ii*) To reflect changes in employment status, relocation, and annual internal reviews that find inaccurate determination or calculation of TFI.
+(*ii*) To reflect changes in employment status, relocation, and annual internal reviews that find inaccurate determination or calculation of TFI. 
 
-(*iii*) For CDP employees when CDC programs are facing operational hardships.
+(*iii*) For CDP employees when CDC programs are facing operational hardships. 
 
-(ii) Child Development Program Element APF may be used for:
+(ii) Child Development Program Element APF may be used for: 
 
-(A) Salaries of CDP employees.
+(A) Salaries of CDP employees. 
 
-(B) Food.
+(B) Food. 
 
-(C) Training and education.
+(C) Training and education. 
 
-(D) Program accreditation fees and support services.
+(D) Program accreditation fees and support services. 
 
-(E) Travel and transportation.
+(E) Travel and transportation. 
 
-(F) Marketing, to include recruitment, retention, and participation efforts.
+(F) Marketing, to include recruitment, retention, and participation efforts. 
 
-(G) Supplies and equipment, to include lending libraries and training materials for use by FCC providers.
+(G) Supplies and equipment, to include lending libraries and training materials for use by FCC providers. 
 
-(H) Local travel expenses incurred by FCC program staff using their private vehicles to perform government functions.
+(H) Local travel expenses incurred by FCC program staff using their private vehicles to perform government functions. 
 
-(I) Direct monetary subsidies to FCC providers.
+(I) Direct monetary subsidies to FCC providers. 
 
-(iii) To the maximum extent possible, child care fees shall cover the NAF cost of care, and NAF costs not covered by child care fees are to be minimized. Child care fees shall only be used for:
+(iii) To the maximum extent possible, child care fees shall cover the NAF cost of care, and NAF costs not covered by child care fees are to be minimized. Child care fees shall only be used for: 
 
-(A) Compensation of direct care CDP employees who are classified as NAF employees, to include training and education, and recruitment and retention initiatives approved by the DoD Component.
+(A) Compensation of direct care CDP employees who are classified as NAF employees, to include training and education, and recruitment and retention initiatives approved by the DoD Component. 
 
-(B) Food-related expenses not paid by the USDA or DoD APFs.
+(B) Food-related expenses not paid by the USDA or DoD APFs. 
 
-(C) Consumable supplies.
+(C) Consumable supplies. 
 
 (3) *Facility Requirements and Construction.*
 
-(i) Minimum prescribed construction standards:
+(i) Minimum prescribed construction standards: 
 
-(A) For all Marine Corps, Navy, and Air Force CDC facility construction, the Unified Facilities Criteria (UFC) 4-740-14, “Design: Child Development Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_4\_740\_14.pdf*) apply.
+(A) For all Marine Corps, Navy, and Air Force CDC facility construction, the Unified Facilities Criteria (UFC) 4-740-14, “Design: Child Development Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_4\_740\_14.pdf*) apply. 
 
-(B) For all Army CDC facility construction, the Army Standard for Child Development Centers (see *https://mrsi.usace.army.mil/fdt/Army%20Standards/CDC%20age%206wk%20to%205yr%20Army%20Standard.pdf*) apply.
+(B) For all Army CDC facility construction, the Army Standard for Child Development Centers (see *https://mrsi.usace.army.mil/fdt/Army%20Standards/CDC%20age%206wk%20to%205yr%20Army%20Standard.pdf*) apply. 
 
-(C) When SAC is provided in youth facilities, UFC 4-740-06, “Youth Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_4\_740\_06.pdf*) and Service-specific exceptions to the UFC apply.
+(C) When SAC is provided in youth facilities, UFC 4-740-06, “Youth Centers” (see *http://www.wbdg.org/ccb/DOD/UFC/ufc\_4\_740\_06.pdf*) and Service-specific exceptions to the UFC apply. 
 
-(D) State and local construction standards may be used but are not required, except if the CDC facility is located on an area over which the United States has no legislative jurisdiction and then only if State and local standards are more stringent than those in UFC 4-740-14.
+(D) State and local construction standards may be used but are not required, except if the CDC facility is located on an area over which the United States has no legislative jurisdiction and then only if State and local standards are more stringent than those in UFC 4-740-14. 
 
-(ii) All facilities shall comply with the structural requirements of the National Fire Protection Association 101, “Life Safety Code®” 2012 (available at *http://www.nfpa.org/aboutthecodes/AboutTheCodes.asp?DocNum=101& cookie%5Ftest=1*)
+(ii) All facilities shall comply with the structural requirements of the National Fire Protection Association 101, “Life Safety Code®” 2012 (available at *http://www.nfpa.org/aboutthecodes/AboutTheCodes.asp?DocNum=101& cookie%5Ftest=1*) 
 
 (4) *Oversight.*
 
-(i) *DoD Certification Inspection.* Installation-operated CDPs in which care is provided for 10 or more child care hours per week on a regular basis shall be certified to operate through inspections occurring no fewer than four (4) times a year. Inspections must be unannounced, and parent and staff feedback shall be solicited as part of the inspection process.
+(i) *DoD Certification Inspection.* Installation-operated CDPs in which care is provided for 10 or more child care hours per week on a regular basis shall be certified to operate through inspections occurring no fewer than four (4) times a year. Inspections must be unannounced, and parent and staff feedback shall be solicited as part of the inspection process. 
 
-(A) Three local inspections and one higher headquarters inspection shall be conducted to verify compliance with this part and DoD Component implementing guidance. Local inspection teams are led by a representative of the installation commander, Defense Agency Director, or Defense Field Activity Director, and a multidisciplinary team, to include human resource, fire, health, and safety proponents, with expertise and authority to verify compliance with this part.
+(A) Three local inspections and one higher headquarters inspection shall be conducted to verify compliance with this part and DoD Component implementing guidance. Local inspection teams are led by a representative of the installation commander, Defense Agency Director, or Defense Field Activity Director, and a multidisciplinary team, to include human resource, fire, health, and safety proponents, with expertise and authority to verify compliance with this part. 
 
-(*1*) Local inspections include an annual comprehensive health and sanitation inspections, annual comprehensive fire and safety inspections, and a multidisciplinary inspection whose team that includes parent representation. Community representation on the team by appropriate professionals is highly encouraged.
+(*1*) Local inspections include an annual comprehensive health and sanitation inspections, annual comprehensive fire and safety inspections, and a multidisciplinary inspection whose team that includes parent representation. Community representation on the team by appropriate professionals is highly encouraged. 
 
-(*2*) DoD Component inspection teams inspecting CDPs serving children birth through 12 years of age shall include staff possessing:
+(*2*) DoD Component inspection teams inspecting CDPs serving children birth through 12 years of age shall include staff possessing: 
 
-(*i*) A baccalaureate degree in child development, early childhood education (ECE), home economics (early childhood emphasis), elementary education, special education, or other degree appropriate to the position filled from an accredited college;
+(*i*) A baccalaureate degree in child development, early childhood education (ECE), home economics (early childhood emphasis), elementary education, special education, or other degree appropriate to the position filled from an accredited college; 
 
-(*ii*) Knowledge of child/youth development programs; or
+(*ii*) Knowledge of child/youth development programs; or 
 
-(*iii*) A combination of education and experience that provide knowledge comparable to that normally acquired through the successful completion of a 4-year degree (experience must include at least 3 years of full-time teaching or management experience with children of the appropriate age group).
+(*iii*) A combination of education and experience that provide knowledge comparable to that normally acquired through the successful completion of a 4-year degree (experience must include at least 3 years of full-time teaching or management experience with children of the appropriate age group). 
 
-(*3*) Parents shall be interviewed as part of the DoD Component inspection. Additional inspections shall be conducted in response to program complaints in accordance with paragraph (b) of § 79.5.
+(*3*) Parents shall be interviewed as part of the DoD Component inspection. Additional inspections shall be conducted in response to program complaints in accordance with paragraph (b) of § 79.5. 
 
-(*4*) Results of DoD Component inspections shall be provided by the DoD Component to the ODASD(MC&FP) through OFP/CY. CDPs whose inspection results demonstrate compliance with this part shall receive DD Form 2636. Certificates shall be displayed in a prominent location in the CDP.
+(*4*) Results of DoD Component inspections shall be provided by the DoD Component to the ODASD(MC&FP) through OFP/CY. CDPs whose inspection results demonstrate compliance with this part shall receive DD Form 2636. Certificates shall be displayed in a prominent location in the CDP. 
 
-(*5*) Inspection results shall be made available to parents. Results from inspections of CDC programs shall be available online.
+(*5*) Inspection results shall be made available to parents. Results from inspections of CDC programs shall be available online. 
 
-(*6*) Periodic, unannounced inspections shall be made by the ODASD(MC&FP) to ensure compliance with the requirements in this part.
+(*6*) Periodic, unannounced inspections shall be made by the ODASD(MC&FP) to ensure compliance with the requirements in this part. 
 
-(*7*) In response to each inspection, a corrective action plan with appropriate timelines shall be developed to address any deficiencies identified during inspection.
+(*7*) In response to each inspection, a corrective action plan with appropriate timelines shall be developed to address any deficiencies identified during inspection. 
 
-(ii) *Violations.* The installation commander, Defense Agency Director or DoD Field Activity Director shall ensure the immediate remedy of any life-threatening violation of this part or other safety, health, and child welfare laws or regulations (discovered at an inspection or otherwise) at a DoD CDP, or he or she will close the facility (or affected parts of the facility).
+(ii) *Violations.* The installation commander, Defense Agency Director or DoD Field Activity Director shall ensure the immediate remedy of any life-threatening violation of this part or other safety, health, and child welfare laws or regulations (discovered at an inspection or otherwise) at a DoD CDP, or he or she will close the facility (or affected parts of the facility). 
 
-(A) In the case of a violation that is not life-threatening, the commander of the major command under which the installation concerned operates, or the Director of the Defense Agency or DoD Field Activity concerned, may waive the requirement that the violation be remedied immediately for up to 90 days beginning on the date of discovery of the violation.
+(A) In the case of a violation that is not life-threatening, the commander of the major command under which the installation concerned operates, or the Director of the Defense Agency or DoD Field Activity concerned, may waive the requirement that the violation be remedied immediately for up to 90 days beginning on the date of discovery of the violation. 
 
-(B) If the violation that is not life-threatening is not remedied by the end of that 90-day period, the facility or parts involved will be closed until the violation is remedied.
+(B) If the violation that is not life-threatening is not remedied by the end of that 90-day period, the facility or parts involved will be closed until the violation is remedied. 
 
-(C) The Secretary of the Military Department, or Director of the Defense Agency or DoD Field Activity concerned, may request a waiver of the requirements of the preceding sentence to authorize the program to remain open in a case where the violation cannot reasonably be remedied within the 90-day period or in which major facility reconstruction is required. A waiver request must be submitted to OFP/CY for approval.
+(C) The Secretary of the Military Department, or Director of the Defense Agency or DoD Field Activity concerned, may request a waiver of the requirements of the preceding sentence to authorize the program to remain open in a case where the violation cannot reasonably be remedied within the 90-day period or in which major facility reconstruction is required. A waiver request must be submitted to OFP/CY for approval. 
 
-(iii) *Accreditation.* Eligible CDP facilities (excluding FCC) shall be accredited by a DoD-approved national accrediting body. CDP oversight is a statutory requirement involving an external nationally recognized accreditation process and internal DoD Certification process.
+(iii) *Accreditation.* Eligible CDP facilities (excluding FCC) shall be accredited by a DoD-approved national accrediting body. CDP oversight is a statutory requirement involving an external nationally recognized accreditation process and internal DoD Certification process. 
 
-(A) FCC providers shall be encouraged to seek accreditation from an appropriate national accrediting body.
+(A) FCC providers shall be encouraged to seek accreditation from an appropriate national accrediting body. 
 
-(B) The percentage of CDP facilities successfully achieving accreditation shall be reflected in the Annual Summary of Operations report referenced in § 79.5.
+(B) The percentage of CDP facilities successfully achieving accreditation shall be reflected in the Annual Summary of Operations report referenced in § 79.5. 
 
-(iv) *Monitoring.* There shall be a system in place to monitor FCC homes on a regular basis during all hours of operation. The following information shall be maintained for FCC providers:
+(iv) *Monitoring.* There shall be a system in place to monitor FCC homes on a regular basis during all hours of operation. The following information shall be maintained for FCC providers: 
 
-(A) Results of family interview.
+(A) Results of family interview. 
 
-(B) Background check with suitability determination.
+(B) Background check with suitability determination. 
 
-(C) Inspection results.
+(C) Inspection results. 
 
-(D) Insurance.
+(D) Insurance. 
 
-(E) Training records.
+(E) Training records. 
 
-(F) Monitoring visit records.
+(F) Monitoring visit records. 
 
-(5) *Parent Board.* In accordance with 10 U.S.C. 1783 and 1795, each CDP shall establish a Parent Board to discuss problems and concerns and to provide recommendations for improving CDPs. The Board, with the staff of the program, is responsible for coordinating a parent participation program.
+(5) *Parent Board.* In accordance with 10 U.S.C. 1783 and 1795, each CDP shall establish a Parent Board to discuss problems and concerns and to provide recommendations for improving CDPs. The Board, with the staff of the program, is responsible for coordinating a parent participation program. 
 
-(i) The Board shall be composed only of parents of children enrolled in the installation CDP facilities that are Military Service members, retired Military Service members, or spouses of Military Service members or retired Military Service members, and chaired by such a parent.
+(i) The Board shall be composed only of parents of children enrolled in the installation CDP facilities that are Military Service members, retired Military Service members, or spouses of Military Service members or retired Military Service members, and chaired by such a parent. 
 
-(ii) The Board shall meet periodically with the staff of the program and the installation commander, Defense Agency Director, or DoD Field Activity Director to discuss problems and concerns. Board recommendations shall be forwarded to the installation commander, Defense Agency Director, or DoD Field Activity Director for review and disposition. These recommendations are reviewed during the DoD certification inspection.
+(ii) The Board shall meet periodically with the staff of the program and the installation commander, Defense Agency Director, or DoD Field Activity Director to discuss problems and concerns. Board recommendations shall be forwarded to the installation commander, Defense Agency Director, or DoD Field Activity Director for review and disposition. These recommendations are reviewed during the DoD certification inspection. 
 
-(iii) The Board shall coordinate a parent participation program with CDP staff to ensure parents are involved in CDP planning and evaluation. In accordance with 10 U.S.C. 1795, parents participating in such program may be eligible for child care fees at a rate lower than the rate that otherwise applies.
+(iii) The Board shall coordinate a parent participation program with CDP staff to ensure parents are involved in CDP planning and evaluation. In accordance with 10 U.S.C. 1795, parents participating in such program may be eligible for child care fees at a rate lower than the rate that otherwise applies. 
 
-(6) *Enrollment.* To enroll in the CDP, parents shall complete DD Form 2606 or electronic equivalent, DoD Child Development Program Request for Care Record. At the time of enrollment in an installation-based CDP, parents shall provide:
+(6) *Enrollment.* To enroll in the CDP, parents shall complete DD Form 2606 or electronic equivalent, DoD Child Development Program Request for Care Record. At the time of enrollment in an installation-based CDP, parents shall provide: 
 
-(i) Child(ren)'s health and emergency contact information.
+(i) Child(ren)'s health and emergency contact information. 
 
-(ii) Documentation that children have been fully immunized.
+(ii) Documentation that children have been fully immunized. 
 
-(A) Children who have not received their age-appropriate immunizations prior to enrollment and do not have a documented religious or medical exemption from routine childhood immunizations shall show evidence of an appointment for immunizations; the immunization series must be initiated within 30 days.
+(A) Children who have not received their age-appropriate immunizations prior to enrollment and do not have a documented religious or medical exemption from routine childhood immunizations shall show evidence of an appointment for immunizations; the immunization series must be initiated within 30 days. 
 
-(B) Children in SAC are not required to provide documentation if they are enrolled in a local public school system where proof of currency of vaccination is required.
+(B) Children in SAC are not required to provide documentation if they are enrolled in a local public school system where proof of currency of vaccination is required. 
 
-(iii) Children's records shall be updated annually or as needed for their health, safety, or well-being.
+(iii) Children's records shall be updated annually or as needed for their health, safety, or well-being. 
 
-(7) *Immunizations.* Children enrolling in or currently enrolled in DoD CDPs must provide written documentation of immunizations appropriate for the child's age. Per AR 40-562/BUMEDINST 6230.15A/AFJI 48-110/CG COMDTINST M6230.4F, “Immunizations and Chemoprophylaxis” (see *http://www.vaccines.mil/documents/969r40\_562.pdf*), immunizations recommended by the ACIP are required.
+(7) *Immunizations.* Children enrolling in or currently enrolled in DoD CDPs must provide written documentation of immunizations appropriate for the child's age. Per AR 40-562/BUMEDINST 6230.15A/AFJI 48-110/CG COMDTINST M6230.4F, “Immunizations and Chemoprophylaxis” (see *http://www.vaccines.mil/documents/969r40\_562.pdf*), immunizations recommended by the ACIP are required. 
 
-(i) All records shall be updated at least annually and kept on file. Any child not enrolled in a school system where proof of currency of vaccination is required must provide proof of currency.
+(i) All records shall be updated at least annually and kept on file. Any child not enrolled in a school system where proof of currency of vaccination is required must provide proof of currency. 
 
-(ii) Children enrolled in a local public school system and volunteer sports coaches are excluded from this requirement.
+(ii) Children enrolled in a local public school system and volunteer sports coaches are excluded from this requirement. 
 
-(iii) A waiver for an immunization exemption may be granted for medical or religious reasons. Philosophical exemptions are not permitted. The DoD Component must provide guidance on the waiver process.
+(iii) A waiver for an immunization exemption may be granted for medical or religious reasons. Philosophical exemptions are not permitted. The DoD Component must provide guidance on the waiver process. 
 
-(A) A statement from the child's health care provider is required if an immunization may not be administered because of a medical condition. The statement must document the reason why the child is exempt.
+(A) A statement from the child's health care provider is required if an immunization may not be administered because of a medical condition. The statement must document the reason why the child is exempt. 
 
-(B) If an immunization is not administered because of a parent's religious beliefs, the parent must provide a written statement stating that he or she objects to the vaccination based upon religious beliefs.
+(B) If an immunization is not administered because of a parent's religious beliefs, the parent must provide a written statement stating that he or she objects to the vaccination based upon religious beliefs. 
 
-(C) During a documented outbreak of a contagious disease (as determined by local DoD Medical authorities) that has a vaccine, the child who is attending the program under an immunization waiver for that vaccine, will be excluded from the program for his or her protection and the safety of the other children and staff until the contagious period is over.
+(C) During a documented outbreak of a contagious disease (as determined by local DoD Medical authorities) that has a vaccine, the child who is attending the program under an immunization waiver for that vaccine, will be excluded from the program for his or her protection and the safety of the other children and staff until the contagious period is over. 
 
-(iv) Civilian employees (including specified regular volunteers) and FCC providers shall obtain appropriate immunization against communicable diseases in accordance with recommendations from the ACIP. The requirement for appropriate immunization is a condition of continued employment or active participation in the program or organization.
+(iv) Civilian employees (including specified regular volunteers) and FCC providers shall obtain appropriate immunization against communicable diseases in accordance with recommendations from the ACIP. The requirement for appropriate immunization is a condition of continued employment or active participation in the program or organization. 
 
-(A) This requirement is waived if a current immunization, a protective titer, or a medical exemption is approved and documented. A waiver for an immunization exemption may also be granted for religious reasons. Philosophical exemptions are not permitted.
+(A) This requirement is waived if a current immunization, a protective titer, or a medical exemption is approved and documented. A waiver for an immunization exemption may also be granted for religious reasons. Philosophical exemptions are not permitted. 
 
-(B) The DoD Component must provide guidance on the waiver process. The DoD Component must approve all waivers and documentation of the waiver kept on file.
+(B) The DoD Component must provide guidance on the waiver process. The DoD Component must approve all waivers and documentation of the waiver kept on file. 
 
-(C) During a documented outbreak of a contagious disease, staff with a waiver will be excluded from the program for their protection and the safety of the other children and staff until the contagious period is over.
+(C) During a documented outbreak of a contagious disease, staff with a waiver will be excluded from the program for their protection and the safety of the other children and staff until the contagious period is over. 
 
-(8) *Child Abuse Prevention and Reporting.* In accordance with 10 U.S.C. 1794, CDPs shall minimize the risk for child abuse.
+(8) *Child Abuse Prevention and Reporting.* In accordance with 10 U.S.C. 1794, CDPs shall minimize the risk for child abuse. 
 
-(i) CDPs shall have standard operating procedures for reporting cases of suspected child abuse and neglect, and all employees, employees of DoD contractors, individuals working with CDPs, providers, volunteers and parents shall be informed of child abuse prevention, and identification and reporting requirements. Staff shall be knowledgeable of the child abuse reporting requirements.
+(i) CDPs shall have standard operating procedures for reporting cases of suspected child abuse and neglect, and all employees, employees of DoD contractors, individuals working with CDPs, providers, volunteers and parents shall be informed of child abuse prevention, and identification and reporting requirements. Staff shall be knowledgeable of the child abuse reporting requirements. 
 
-(ii) In accordance with 10 U.S.C. 1794, the DoD Child Abuse and Safety Hotline telephone number shall be posted in highly visible areas, including the facility lobby, where parents have easy access to the telephone number. The hotline number shall be published in parent handbooks and other media.
+(ii) In accordance with 10 U.S.C. 1794, the DoD Child Abuse and Safety Hotline telephone number shall be posted in highly visible areas, including the facility lobby, where parents have easy access to the telephone number. The hotline number shall be published in parent handbooks and other media. 
 
-(9) *Programming and Standards of Operation.* All CDPs shall establish a planned program of developmentally appropriate activities, and adhere to the standards of operation outlined in Tables 1 and 2 of this section.
+(9) *Programming and Standards of Operation.* All CDPs shall establish a planned program of developmentally appropriate activities, and adhere to the standards of operation outlined in Tables 1 and 2 of this section. 
 
-(d) *Personnel.* Installation-based CDP personnel and FCC providers shall meet the following requirements:
+(d) *Personnel.* Installation-based CDP personnel and FCC providers shall meet the following requirements: 
 
-(1) *CDC Directors.* CDC directors shall have at a minimum:
+(1) *CDC Directors.* CDC directors shall have at a minimum: 
 
-(i) A baccalaureate degree in child development, ECE, home economics (early childhood emphasis), elementary education, special education, or other degree appropriate to the position filled from an accredited college; or
+(i) A baccalaureate degree in child development, ECE, home economics (early childhood emphasis), elementary education, special education, or other degree appropriate to the position filled from an accredited college; or 
 
-(ii) A combination of education and experiences, which provide knowledge comparable to that normally acquired through the successful completion of the 4-year course of study in a child-related field.
+(ii) A combination of education and experiences, which provide knowledge comparable to that normally acquired through the successful completion of the 4-year course of study in a child-related field. 
 
-(2) *SAC Directors.* Directors shall have at a minimum:
+(2) *SAC Directors.* Directors shall have at a minimum: 
 
-(i) A baccalaureate degree in a field of child or youth development, such as youth recreation, physical education, elementary education, secondary education, child development, psychology, social work, or other degree appropriate to the position filled from an accredited college; or
+(i) A baccalaureate degree in a field of child or youth development, such as youth recreation, physical education, elementary education, secondary education, child development, psychology, social work, or other degree appropriate to the position filled from an accredited college; or 
 
-(ii) A combination of education and experiences, which provide knowledge comparable to that normally acquired through the successful completion of the 4-year course of study in a child development or youth-related field.
+(ii) A combination of education and experiences, which provide knowledge comparable to that normally acquired through the successful completion of the 4-year course of study in a child development or youth-related field. 
 
-(3) *Training and Curriculum Specialists.* Each program within the CDP shall employ at least one training and curriculum specialist. Training and curriculum specialists shall have at a minimum:
+(3) *Training and Curriculum Specialists.* Each program within the CDP shall employ at least one training and curriculum specialist. Training and curriculum specialists shall have at a minimum: 
 
-(i) A baccalaureate degree with a major course of study directly related to child or youth development, ECE or an equivalent field of study from an accredited college, or a combination of education and experiences, which provide knowledge comparable to that normally acquired through the successful completion of the 4-year course of study in the field of child or youth development or ECE.
+(i) A baccalaureate degree with a major course of study directly related to child or youth development, ECE or an equivalent field of study from an accredited college, or a combination of education and experiences, which provide knowledge comparable to that normally acquired through the successful completion of the 4-year course of study in the field of child or youth development or ECE. 
 
-(ii) Knowledge of early childhood or youth education principles, concepts, and techniques to develop, interpret, monitor, and evaluate the execution of curriculum and age-appropriate activities.
+(ii) Knowledge of early childhood or youth education principles, concepts, and techniques to develop, interpret, monitor, and evaluate the execution of curriculum and age-appropriate activities. 
 
-(iii) Knowledge of adult learning techniques and strategies and experience training adult learners.
+(iii) Knowledge of adult learning techniques and strategies and experience training adult learners. 
 
-(iv) Ability to support DoD certification, accreditation, and staff credentialing (Child Development Associate (CDA), Associate of Arts (AA) Degree) by ensuring that required training is administered and successfully accomplished to meet statutory and program requirements.
+(iv) Ability to support DoD certification, accreditation, and staff credentialing (Child Development Associate (CDA), Associate of Arts (AA) Degree) by ensuring that required training is administered and successfully accomplished to meet statutory and program requirements. 
 
-(4) *FCC Administrators.* FCC administrators shall have at a minimum:
+(4) *FCC Administrators.* FCC administrators shall have at a minimum: 
 
-(i) A baccalaureate degree with a major course of study directly related to child or youth development, family studies, or an equivalent field of study from an accredited university; or
+(i) A baccalaureate degree with a major course of study directly related to child or youth development, family studies, or an equivalent field of study from an accredited university; or 
 
-(ii) A combination of education and experiences, which provide knowledge comparable to that normally acquired through the successful completion of the 4-year course of study in the field of child or youth development or family studies.
+(ii) A combination of education and experiences, which provide knowledge comparable to that normally acquired through the successful completion of the 4-year course of study in the field of child or youth development or family studies. 
 
-(5) *CDP Direct Care Personnel, Support Staff, and FCC Providers.* CDP direct care personnel and support staff, as a condition of employment, and FCC providers shall, as a condition of participation:
+(5) *CDP Direct Care Personnel, Support Staff, and FCC Providers.* CDP direct care personnel and support staff, as a condition of employment, and FCC providers shall, as a condition of participation: 
 
-(i) Be at least 18 years of age.
+(i) Be at least 18 years of age. 
 
-(ii) Hold a high school diploma or equivalent.
+(ii) Hold a high school diploma or equivalent. 
 
-(iii) Read, speak, and write English.
+(iii) Read, speak, and write English. 
 
-(iv) Successfully pass a pre-employment physical, maintain current immunizations and be physically and behaviorally capable of performing the duties of the job.
+(iv) Successfully pass a pre-employment physical, maintain current immunizations and be physically and behaviorally capable of performing the duties of the job. 
 
-(e) *Training.* Each CDP must have a DoD Component-approved training program. Satisfactory completion of training is a condition of employment for staff in a center-based program and for providers offering care in FCC homes.
+(e) *Training.* Each CDP must have a DoD Component-approved training program. Satisfactory completion of training is a condition of employment for staff in a center-based program and for providers offering care in FCC homes. 
 
-(1) *CDP Management Personnel.* CDP management personnel, including CDP directors (CDC directors, FCC administrators, and SAC directors), shall receive annual training, which includes the following topics:
+(1) *CDP Management Personnel.* CDP management personnel, including CDP directors (CDC directors, FCC administrators, and SAC directors), shall receive annual training, which includes the following topics: 
 
-(i) Child abuse prevention, identification, and reporting.
+(i) Child abuse prevention, identification, and reporting. 
 
-(ii) Program administration, including APF and NAF financial management, funding metrics, and fiscal accountability.
+(ii) Program administration, including APF and NAF financial management, funding metrics, and fiscal accountability. 
 
-(iii) Staff development and personnel management.
+(iii) Staff development and personnel management. 
 
-(iv) Prevention of illness and injury and promotion of health.
+(iv) Prevention of illness and injury and promotion of health. 
 
-(v) Emergency procedures and preparedness.
+(v) Emergency procedures and preparedness. 
 
-(vi) Working with children with special needs.
+(vi) Working with children with special needs. 
 
-(vii) Developmentally appropriate practices.
+(vii) Developmentally appropriate practices. 
 
-(2) *Training and Curriculum Specialists.* Training and curriculum specialists shall receive annual training, to include the following topics:
+(2) *Training and Curriculum Specialists.* Training and curriculum specialists shall receive annual training, to include the following topics: 
 
-(i) Child abuse prevention, identification, and reporting.
+(i) Child abuse prevention, identification, and reporting. 
 
-(ii) Developmentally appropriate practices.
+(ii) Developmentally appropriate practices. 
 
-(iii) Principles of adult learning.
+(iii) Principles of adult learning. 
 
-(iv) Prevention of illness and injury and promotion of health.
+(iv) Prevention of illness and injury and promotion of health. 
 
-(v) Emergency procedures.
+(v) Emergency procedures. 
 
-(vi) Working with children with special needs.
+(vi) Working with children with special needs. 
 
 (3) *CDP Direct Care Personnel and FCC Providers.*
 
-(i) Training requirements for direct care personnel (excluding FCC providers) shall be linked to the DoD CDP Employee Wage Plan implemented in response to 10 U.S.C. 1783, and 1791 through 1800 to include completion of the DoD-approved competency based training modules within DoD Component specified time frames.
+(i) Training requirements for direct care personnel (excluding FCC providers) shall be linked to the DoD CDP Employee Wage Plan implemented in response to 10 U.S.C. 1783, and 1791 through 1800 to include completion of the DoD-approved competency based training modules within DoD Component specified time frames. 
 
-(ii) All newly hired CDP direct care personnel and FCC providers shall complete 40 hours of orientation. Orientation shall begin prior to working with children, with the full 40 hours completed within the first 90 days of employment. Orientation completion shall be documented for each direct care personnel or FCC provider. Orientation includes:
+(ii) All newly hired CDP direct care personnel and FCC providers shall complete 40 hours of orientation. Orientation shall begin prior to working with children, with the full 40 hours completed within the first 90 days of employment. Orientation completion shall be documented for each direct care personnel or FCC provider. Orientation includes: 
 
-(A) Working with children of different ages, including developmentally appropriate activities and environmental observations.
+(A) Working with children of different ages, including developmentally appropriate activities and environmental observations. 
 
-(B) Age-appropriate guidance and discipline techniques.
+(B) Age-appropriate guidance and discipline techniques. 
 
-(C) Applicable regulations, policies, and procedures.
+(C) Applicable regulations, policies, and procedures. 
 
-(D) Child safety and fire prevention.
+(D) Child safety and fire prevention. 
 
-(E) Child abuse prevention, identification, and reporting.
+(E) Child abuse prevention, identification, and reporting. 
 
-(F) Parent and family relations.
+(F) Parent and family relations. 
 
-(G) Health and sanitation procedures, including blood-borne pathogens, occupational health hazards for direct care personnel, and recognizing symptoms of illness.
+(G) Health and sanitation procedures, including blood-borne pathogens, occupational health hazards for direct care personnel, and recognizing symptoms of illness. 
 
-(H) Emergency health and safety procedures, including pediatric cardiopulmonary resuscitation (CPR) and first aid.
+(H) Emergency health and safety procedures, including pediatric cardiopulmonary resuscitation (CPR) and first aid. 
 
-(I) Safe infant sleep practices and Sudden Infant Death Syndrome (SIDS) prevention.
+(I) Safe infant sleep practices and Sudden Infant Death Syndrome (SIDS) prevention. 
 
-(J) Nutrition, obesity prevention, and meal service.
+(J) Nutrition, obesity prevention, and meal service. 
 
-(K) Working with children with special needs.
+(K) Working with children with special needs. 
 
-(L) Accountability and child supervision training.
+(L) Accountability and child supervision training. 
 
-(M) For FCC providers only, infant and child (pediatric) CPR and first aid must be completed prior to accepting children for care. Training shall be updated as necessary to maintain current certifications.
+(M) For FCC providers only, infant and child (pediatric) CPR and first aid must be completed prior to accepting children for care. Training shall be updated as necessary to maintain current certifications. 
 
-(N) For FCC providers only, training in business operations.
+(N) For FCC providers only, training in business operations. 
 
-(iii) CDP direct care personnel and FCC providers shall complete additional training specified by the DoD Component within 90 days of beginning work. The training shall include, at a minimum, in-depth training on the subjects covered in the orientation as well as infant and child (pediatric) CPR and first aid, which shall be updated as necessary to maintain current certifications.
+(iii) CDP direct care personnel and FCC providers shall complete additional training specified by the DoD Component within 90 days of beginning work. The training shall include, at a minimum, in-depth training on the subjects covered in the orientation as well as infant and child (pediatric) CPR and first aid, which shall be updated as necessary to maintain current certifications. 
 
-(iv) CDP direct care personnel and FCC providers shall complete a minimum of 24 hours per year of ongoing training by the DoD Component approved training program. Training shall include child abuse prevention, identification and reporting, safe infant sleep practices and SIDS prevention, working with children with special needs, and if required, administering medication.
+(iv) CDP direct care personnel and FCC providers shall complete a minimum of 24 hours per year of ongoing training by the DoD Component approved training program. Training shall include child abuse prevention, identification and reporting, safe infant sleep practices and SIDS prevention, working with children with special needs, and if required, administering medication. 
 
-(v) Substitute FCC providers must complete a basic orientation and background checks prior to providing care. Such orientation includes child abuse prevention, identification and reporting, working with children with special needs, safety procedures and pediatric CPR and first aid, and SIDS prevention. The FCC provider's spouse may serve as a backup provider on a limited basis, as designated by the DoD Component and must complete the required substitute FCC provider training.
+(v) Substitute FCC providers must complete a basic orientation and background checks prior to providing care. Such orientation includes child abuse prevention, identification and reporting, working with children with special needs, safety procedures and pediatric CPR and first aid, and SIDS prevention. The FCC provider's spouse may serve as a backup provider on a limited basis, as designated by the DoD Component and must complete the required substitute FCC provider training. 
 
-(4) *CDP Support Staff.* CDP support staff shall participate in annual training related to the latest techniques and procedures in child care, including topics on child abuse prevention, identification and reporting, and other training related to their position.
+(4) *CDP Support Staff.* CDP support staff shall participate in annual training related to the latest techniques and procedures in child care, including topics on child abuse prevention, identification and reporting, and other training related to their position. 
 
-(f) *Volunteers.* All volunteers shall be screened, trained, and supervised in accordance with DoD Instruction 1402.5 and 32 CFR part 86; and DoD Instruction 1100.21, “Voluntary Services in the Department of Defense” (see *http://www.dtic.mil/whs/directives/corres/pdf/110021p.pdf*) and DoD Component implementing guidance, as appropriate to their role. Volunteers may not be alone with children and are not counted in the staff ratio. All regularly scheduled volunteers shall be trained in:
+(f) *Volunteers.* All volunteers shall be screened, trained, and supervised in accordance with DoD Instruction 1402.5 and 32 CFR part 86; and DoD Instruction 1100.21, “Voluntary Services in the Department of Defense” (see *http://www.dtic.mil/whs/directives/corres/pdf/110021p.pdf*) and DoD Component implementing guidance, as appropriate to their role. Volunteers may not be alone with children and are not counted in the staff ratio. All regularly scheduled volunteers shall be trained in: 
 
-(1) Program orientation.
+(1) Program orientation. 
 
-(2) Age-appropriate learning activities.
+(2) Age-appropriate learning activities. 
 
-(3) Child abuse identification, reporting and prevention.
+(3) Child abuse identification, reporting and prevention. 
 
-(4) Age-appropriate guidance and discipline.
+(4) Age-appropriate guidance and discipline. 
 
-(5) Working with children with special needs.
+(5) Working with children with special needs. 
 
-(6) Child health and safety.
+(6) Child health and safety. 
 
-(7) Safe infant sleep practices and SIDS prevention.
+(7) Safe infant sleep practices and SIDS prevention. 
 
-(8) Emergency procedures.
+(8) Emergency procedures. 
 
-(9) Applicable regulations and installation policy.
+(9) Applicable regulations and installation policy. 
 
-(10) Role of the volunteer in the CDP.
+(10) Role of the volunteer in the CDP. 
 
-(g) *Supplemental Child Care.* On-site group care services are designed to provide occasional, intermittent care to children on an hourly basis, including respite child care.
+(g) *Supplemental Child Care.* On-site group care services are designed to provide occasional, intermittent care to children on an hourly basis, including respite child care. 
 
-(1) When on-site group care is provided in an installation CDP facility by CDP staff members, the requirements of this part apply.
+(1) When on-site group care is provided in an installation CDP facility by CDP staff members, the requirements of this part apply. 
 
-(2) When on-site group care is provided in a non-CDP facility by CDP personnel and parents are not on site, the requirements of this part apply.
+(2) When on-site group care is provided in a non-CDP facility by CDP personnel and parents are not on site, the requirements of this part apply. 
 
-(3) When on-site group care is provided in a non-CDP facility by CDP personnel and parents remain on site, the facility is not required to meet the requirements of this part.
+(3) When on-site group care is provided in a non-CDP facility by CDP personnel and parents remain on site, the facility is not required to meet the requirements of this part. 
 
-(4) When on-site group care is provided in an alternative facility by volunteers or parents, and the parent or guardian remain on site, the requirements of this part do not apply.
+(4) When on-site group care is provided in an alternative facility by volunteers or parents, and the parent or guardian remain on site, the requirements of this part do not apply. 
 
-(h) *Administration and Oversight of Community-Based Care Providers.* (1) *Types of Care.* Efforts shall be made to expand the availability of these programs through referrals to comparable programs off of the installation through participation in consortiums with other Federal and non-governmental entities.
+(h) *Administration and Oversight of Community-Based Care Providers.* (1) *Types of Care.* Efforts shall be made to expand the availability of these programs through referrals to comparable programs off of the installation through participation in consortiums with other Federal and non-governmental entities. 
 
-(i) Efforts shall be made to ensure quality, affordable child care options exist for all eligible patrons, including those who are geographically dispersed active duty military and their families. Community-based child care options are designed to supplement, not replace, child care programs on the installation.
+(i) Efforts shall be made to ensure quality, affordable child care options exist for all eligible patrons, including those who are geographically dispersed active duty military and their families. Community-based child care options are designed to supplement, not replace, child care programs on the installation. 
 
-(ii) Care may be delivered through military-approved community-based CDPs, utilizing a myriad of delivery systems, including existing child care facilities, schools, recreation and after-school and summer programs, and home-based care programs.
+(ii) Care may be delivered through military-approved community-based CDPs, utilizing a myriad of delivery systems, including existing child care facilities, schools, recreation and after-school and summer programs, and home-based care programs. 
 
-(iii) Programs that support the needs of eligible deployed families in military-approved community-based child care programs where care is needed for a short-term basis during the deployment phase must meet the State licensing regulations and requirements and be inspected by an outside agency once a year. All other types of care must meet the intent of this part.
+(iii) Programs that support the needs of eligible deployed families in military-approved community-based child care programs where care is needed for a short-term basis during the deployment phase must meet the State licensing regulations and requirements and be inspected by an outside agency once a year. All other types of care must meet the intent of this part. 
 
-(iv) Programs shall meet State licensing standards for background checks.
+(iv) Programs shall meet State licensing standards for background checks. 
 
-(v) Military-approved community-based child care programs will be encouraged to participate in an evaluation process utilizing the ERIS in this section, a detailed assessment tool developed by the DoD to evaluate facility-based child care providers.
+(v) Military-approved community-based child care programs will be encouraged to participate in an evaluation process utilizing the ERIS in this section, a detailed assessment tool developed by the DoD to evaluate facility-based child care providers. 
 
 (2) *Subsidies.*
 
-(i) The DoD Components may subsidize a portion of the cost of child care incurred by eligible active duty and DoD civilian employees.
+(i) The DoD Components may subsidize a portion of the cost of child care incurred by eligible active duty and DoD civilian employees. 
 
-(ii) Subsidies resulting from the child care provided to children of active duty military members are excluded from gross income pursuant to 26 U.S.C. 134.
+(ii) Subsidies resulting from the child care provided to children of active duty military members are excluded from gross income pursuant to 26 U.S.C. 134. 
 
-(iii) Subsidies provided to DoD civilian employees may qualify for exclusion from gross income, provided the specific program used qualifies under 26 U.S.C. 129(d) and the employee receives the subsidy for an eligible purpose on behalf of an eligible child as described in 26 U.S.C. 21(a) and 21(b). Subsidies in excess of the excludable amounts will be treated as gross income under 26 U.S.C. 61. Employees are advised to consult with a qualified tax expert with questions or concerns related to taxability of child care subsidies.
+(iii) Subsidies provided to DoD civilian employees may qualify for exclusion from gross income, provided the specific program used qualifies under 26 U.S.C. 129(d) and the employee receives the subsidy for an eligible purpose on behalf of an eligible child as described in 26 U.S.C. 21(a) and 21(b). Subsidies in excess of the excludable amounts will be treated as gross income under 26 U.S.C. 61. Employees are advised to consult with a qualified tax expert with questions or concerns related to taxability of child care subsidies. 
 
-(iv) Child care programs and providers who offer their services under this provision must comply with the standards outlined in this part and must be approved by the plan administrator or designee prior to issuance of subsidy payments by a DoD Component.
+(iv) Child care programs and providers who offer their services under this provision must comply with the standards outlined in this part and must be approved by the plan administrator or designee prior to issuance of subsidy payments by a DoD Component. 
 
-(v) The DoD Components are responsible for budgeting for child care subsidies and are not to establish a special fund out of which child care subsidies are paid, nor will eligible users of Military Child Development Programs be required to make a contribution as a condition of receiving a child care subsidy.
+(v) The DoD Components are responsible for budgeting for child care subsidies and are not to establish a special fund out of which child care subsidies are paid, nor will eligible users of Military Child Development Programs be required to make a contribution as a condition of receiving a child care subsidy. 
 
-(vi) The DoD Components have the discretion to amend or terminate their participation in a child care subsidy program under this plan at any time. The benefits in this section are not guaranteed and may be reduced by plan amendment.
+(vi) The DoD Components have the discretion to amend or terminate their participation in a child care subsidy program under this plan at any time. The benefits in this section are not guaranteed and may be reduced by plan amendment. 
 
-(vii) The OFP/CY will designate a TPA to administer the Military Department, Defense Agency, and DoD Field Activity civilian child care subsidy program for all DoD Components. Each civilian sponsor must register with the TPA contracted by the Defense Department.
+(vii) The OFP/CY will designate a TPA to administer the Military Department, Defense Agency, and DoD Field Activity civilian child care subsidy program for all DoD Components. Each civilian sponsor must register with the TPA contracted by the Defense Department. 
 
-(A) The TPA shall annually document family and provider eligibility, TFI, child data, and other information required to comply with reporting requirements, in accordance with 26 U.S.C. 21(a), 21(b), 61, 129, and 134.
+(A) The TPA shall annually document family and provider eligibility, TFI, child data, and other information required to comply with reporting requirements, in accordance with 26 U.S.C. 21(a), 21(b), 61, 129, and 134. 
 
-(B) The TPA shall provide authorization and payment of child care subsidies to the provider. All subsidy payments shall be made to the child care provider.
+(B) The TPA shall provide authorization and payment of child care subsidies to the provider. All subsidy payments shall be made to the child care provider. 
 
-(C) The TPA shall comply with fee assistance guidelines established by the individual DoD Components.
+(C) The TPA shall comply with fee assistance guidelines established by the individual DoD Components. 
 
-(i) *Augmented Program Support.* When possible, CDPs should utilize personnel, such as behavioral health consultants and school liaison officers to assist the program staff and parents with children's social-emotional development and behavior. These personnel shall assist staff, parents, and children in developing skills to respond to challenging behaviors and reduce stress for staff and participating children.
+(i) *Augmented Program Support.* When possible, CDPs should utilize personnel, such as behavioral health consultants and school liaison officers to assist the program staff and parents with children's social-emotional development and behavior. These personnel shall assist staff, parents, and children in developing skills to respond to challenging behaviors and reduce stress for staff and participating children. 
 
-(j) *CDC and SAC Standards of Operation, FCC Standards of Operation, and the ERIS.* (1) Table 1 outlines the minimum operational standards required for installation-based CDCs and SACs to receive the DoD Certificate to Operate. These standards implement the policy requirements of paragraphs (a), (c)-(f), and (i) of this section. When a SAC program operates within a CDC, SAC standards of operation shall be used for the SAC portion of the program.
+(j) *CDC and SAC Standards of Operation, FCC Standards of Operation, and the ERIS.* (1) Table 1 outlines the minimum operational standards required for installation-based CDCs and SACs to receive the DoD Certificate to Operate. These standards implement the policy requirements of paragraphs (a), (c)-(f), and (i) of this section. When a SAC program operates within a CDC, SAC standards of operation shall be used for the SAC portion of the program. 
 
-(2) Table 2 outlines the minimum operational standards required for installation-based and affiliated FCC providers to receive the DoD Certificate to Operate. These standards implement the policy requirements outlined in the body of this part.
+(2) Table 2 outlines the minimum operational standards required for installation-based and affiliated FCC providers to receive the DoD Certificate to Operate. These standards implement the policy requirements outlined in the body of this part. 
 
-(3) Table 3 outlines the operational standards for community-based child care facilities. These standards, in addition to the state licensing requirements, may be used to determine eligibility of child care subsidies under conditions designated by the DoD Components. Programs eligible to receive child care subsidies when the Service member is deployed must meet the state licensing requirements and be annually inspected.
+(3) Table 3 outlines the operational standards for community-based child care facilities. These standards, in addition to the state licensing requirements, may be used to determine eligibility of child care subsidies under conditions designated by the DoD Components. Programs eligible to receive child care subsidies when the Service member is deployed must meet the state licensing requirements and be annually inspected. 
 
 Table 1—CDC and School-Age Programs Standards of Operations
 | **A. Administrative**                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

@@ -1,7 +1,7 @@
 ##### § 44.5 Responsibilities.
 
-(a) The Under Secretary of Defense for Personnel and Readiness (USD(P&R)) adjudicates, before mobilization, conflicts the Ready Reserve screening process has identified, but has not resolved, between the mobilization manpower needs of the civilian sector and the Military Services.
+(a) The Under Secretary of Defense for Personnel and Readiness (USD(P&R)) adjudicates, before mobilization, conflicts the Ready Reserve screening process has identified, but has not resolved, between the mobilization manpower needs of the civilian sector and the Military Services. 
 
-(b) The Assistant Secretary of Defense for Manpower and Reserve Affairs (ASD(M&RA)), under the USD(P&R), coordinates resolution of conflicts between the mobilization manpower needs of the civilian sector and the Military Services identified but not resolved through the Ready Reserve screening process.
+(b) The Assistant Secretary of Defense for Manpower and Reserve Affairs (ASD(M&RA)), under the USD(P&R), coordinates resolution of conflicts between the mobilization manpower needs of the civilian sector and the Military Services identified but not resolved through the Ready Reserve screening process. 
 
 (c) The Secretaries of the Military Departments and Commandant, United States Coast Guard, ensure coordination with the ASD(M&RA) to resolve conflicts (identified, but not resolved through the Ready Reserve screening process) between the mobilization manpower needs of the civilian sector and the military. They will review petitions submitted by employers, take applicable action, and promptly transmit the results of that determination to the reservist concerned and their employer after making a determination in response to the petition. Materials provided or produced with regard to the petition will be retained by the Secretary Concerned.

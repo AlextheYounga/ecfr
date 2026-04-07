@@ -1,12 +1,12 @@
 ##### § 269.4 Cost of living adjustments of civil monetary penalties.
 
-(a) The inflation adjustment under § 269.3 must be determined by increasing the maximum civil monetary penalty or the range of minimum and maximum civil monetary penalties, as applicable, for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this subsection shall be rounded to the nearest multiple of $1.
+(a) The inflation adjustment under § 269.3 must be determined by increasing the maximum civil monetary penalty or the range of minimum and maximum civil monetary penalties, as applicable, for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this subsection shall be rounded to the nearest multiple of $1. 
 
-(b) For purposes of paragraph (a) of this section, the term “cost-of-living adjustment” means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October preceding the date of the adjustment (January 15), exceeds the Consumer Price Index for the month of October in the previous calendar year. For example, if the Consumer Price Index for October 2016 is 1.0 and the Consumer Price Index for October 2015 was 0.75, then all applicable penalties will need to be positively adjusted by 0.25 by January 15, 2017.
+(b) For purposes of paragraph (a) of this section, the term “cost-of-living adjustment” means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October preceding the date of the adjustment (January 15), exceeds the Consumer Price Index for the month of October in the previous calendar year. For example, if the Consumer Price Index for October 2016 is 1.0 and the Consumer Price Index for October 2015 was 0.75, then all applicable penalties will need to be positively adjusted by 0.25 by January 15, 2017. 
 
-(c) *Limitation on initial adjustment.* The initial adjustment of civil monetary penalty pursuant to § 269.3 may not exceed 150 percent of such penalty.
+(c) *Limitation on initial adjustment.* The initial adjustment of civil monetary penalty pursuant to § 269.3 may not exceed 150 percent of such penalty. 
 
-(d) *Inflation adjustment.* Maximum civil monetary penalties within the jurisdiction of the Department are adjusted for inflation as follows:
+(d) *Inflation adjustment.* Maximum civil monetary penalties within the jurisdiction of the Department are adjusted for inflation as follows: 
 
 Table 1 to Paragraph (d)
 | United States Code                                                  | Civil monetary penalty description                                                                                                                                         | Maximum   penalty amount   as of 2023   ($) | New adjusted   maximum   penalty amount   ($) |

@@ -1,40 +1,40 @@
 ##### § 66.7 Enlistment waivers.
 
-(a) *Waiver requirements.* In accomplishing whole person reviews of enlistment eligibility, the following categories and combinations of categories would require a favorable waiver determination by the Secretary of the Military Department concerned for the applicant to be considered qualified. The waiver procedure is not automatic, and approval is based on each individual case.
+(a) *Waiver requirements.* In accomplishing whole person reviews of enlistment eligibility, the following categories and combinations of categories would require a favorable waiver determination by the Secretary of the Military Department concerned for the applicant to be considered qualified. The waiver procedure is not automatic, and approval is based on each individual case. 
 
-(1) *Medical waiver.* A medical waiver is required for enlistment qualification of an applicant who has or may have had a disqualifying medical condition in accordance with DoD Instruction 6130.03.
+(1) *Medical waiver.* A medical waiver is required for enlistment qualification of an applicant who has or may have had a disqualifying medical condition in accordance with DoD Instruction 6130.03. 
 
-(2) *Dependent waiver.* A dependent waiver is required when an applicant is married with more than two dependents under the age of 18 or when an applicant is unmarried and has custody of any dependents under the age of 18.
+(2) *Dependent waiver.* A dependent waiver is required when an applicant is married with more than two dependents under the age of 18 or when an applicant is unmarried and has custody of any dependents under the age of 18. 
 
-(3) *Conduct waiver.* In processing conduct waiver requests, the Military Services will require information about the “who, what, when, where, and why” of the offense in question; and letters of recommendation from responsible community leaders, such as school officials, clergy, and law enforcement officials, attesting to the applicant's character or suitability for enlistment. Waivers are not authorized for cases noted in § 66.6(b)(8)(iii).
+(3) *Conduct waiver.* In processing conduct waiver requests, the Military Services will require information about the “who, what, when, where, and why” of the offense in question; and letters of recommendation from responsible community leaders, such as school officials, clergy, and law enforcement officials, attesting to the applicant's character or suitability for enlistment. Waivers are not authorized for cases noted in § 66.6(b)(8)(iii). 
 
-(i) A Conduct Waiver is required when the final finding of the courts or other adjudicating authority is a conviction or other adverse adjudication of:
+(i) A Conduct Waiver is required when the final finding of the courts or other adjudicating authority is a conviction or other adverse adjudication of: 
 
-(A) One “major misconduct” offense, or;
+(A) One “major misconduct” offense, or; 
 
-(B) Two “misconduct” offenses, or;
+(B) Two “misconduct” offenses, or; 
 
-(C) A pattern of misconduct.
+(C) A pattern of misconduct. 
 
-(*1*) One “misconduct” offense and four “non-traffic” offenses.
+(*1*) One “misconduct” offense and four “non-traffic” offenses. 
 
-(*2*) Five or more “non-traffic” offenses.
+(*2*) Five or more “non-traffic” offenses. 
 
-(ii) Use the Table of this section to determine the appropriate level of offense and applicable code. See paragraph (b) of this section for additional guidance.
+(ii) Use the Table of this section to determine the appropriate level of offense and applicable code. See paragraph (b) of this section for additional guidance. 
 
-(4) *Drug waiver.* A drug waiver is required when an applicant or enlistee is confirmed positive for the presence of drugs at the time of the original or subsequent physical examination (*i.e.,* tests positive on the DAT at a MEPS or equivalent facility). Drug waivers for these applicants may be considered and granted or rejected only after the disqualification period established in section 6 of Enclosure 7 of DoD Instruction 1010.16, “Technical Procedures for the Military Personnel Drug Abuse Testing Program (MPDATP)” (available at *http://www.dtic.mil/whs/directives/corres/pdf/101016p.pdf*) ends.
+(4) *Drug waiver.* A drug waiver is required when an applicant or enlistee is confirmed positive for the presence of drugs at the time of the original or subsequent physical examination (*i.e.,* tests positive on the DAT at a MEPS or equivalent facility). Drug waivers for these applicants may be considered and granted or rejected only after the disqualification period established in section 6 of Enclosure 7 of DoD Instruction 1010.16, “Technical Procedures for the Military Personnel Drug Abuse Testing Program (MPDATP)” (available at *http://www.dtic.mil/whs/directives/corres/pdf/101016p.pdf*) ends. 
 
-(b) *Classifying conduct offenses.* The procedures that will be used in the classifying and coding of all conduct offenses are:
+(b) *Classifying conduct offenses.* The procedures that will be used in the classifying and coding of all conduct offenses are: 
 
-(1) *Initial classification.* Align the offense that is the subject of adverse adjudication with an offense from the Table of this section. As an exception, any offense classified as a felony under the appropriate State or federal jurisdiction will be treated as a major misconduct offense for DoD purposes regardless of where similar charges are listed.
+(1) *Initial classification.* Align the offense that is the subject of adverse adjudication with an offense from the Table of this section. As an exception, any offense classified as a felony under the appropriate State or federal jurisdiction will be treated as a major misconduct offense for DoD purposes regardless of where similar charges are listed. 
 
-(2) *Non-similar offenses.* If unable to find a similar charge, the Military Services will:
+(2) *Non-similar offenses.* If unable to find a similar charge, the Military Services will: 
 
-(i) Treat the offense as a major misconduct offense if the adjudicating authority can impose a maximum period of confinement that exceeds 1 year.
+(i) Treat the offense as a major misconduct offense if the adjudicating authority can impose a maximum period of confinement that exceeds 1 year. 
 
-(ii) Treat the offense as a misconduct offense if the adjudicating authority can impose a maximum period of confinement that exceeds 6 months but is not more than 1 year.
+(ii) Treat the offense as a misconduct offense if the adjudicating authority can impose a maximum period of confinement that exceeds 6 months but is not more than 1 year. 
 
-(iii) Treat all other offenses as either other non-traffic offenses or traffic offenses, depending on the nature of the offense.
+(iii) Treat all other offenses as either other non-traffic offenses or traffic offenses, depending on the nature of the offense. 
 
 Table to § 66.7—Conduct Waiver Codes
 | Offense code                  | Offense title                                                                                                                                                                              |

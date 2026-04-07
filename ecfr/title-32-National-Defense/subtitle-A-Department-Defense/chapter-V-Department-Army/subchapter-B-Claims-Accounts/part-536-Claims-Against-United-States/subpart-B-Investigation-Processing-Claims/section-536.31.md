@@ -1,12 +1,12 @@
 ##### § 536.31 Opening claim files.
 
-A claim file will be opened when:
+A claim file will be opened when: 
 
-(a) Information that requires investigation under § 536.23 is received.
+(a) Information that requires investigation under § 536.23 is received. 
 
-(b) Records or other documents are requested by a potential claimant or legal representative.
+(b) Records or other documents are requested by a potential claimant or legal representative. 
 
-(c) A claim is filed.
+(c) A claim is filed. 
 
 Note to § 536.31:
 

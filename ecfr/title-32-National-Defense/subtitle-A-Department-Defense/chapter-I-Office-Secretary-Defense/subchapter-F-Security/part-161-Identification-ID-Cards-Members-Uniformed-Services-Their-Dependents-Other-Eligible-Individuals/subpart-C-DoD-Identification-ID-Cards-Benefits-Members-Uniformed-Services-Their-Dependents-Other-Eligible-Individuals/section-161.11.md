@@ -1,8 +1,8 @@
 ##### § 161.11 Benefits For National Guard and Reserve members of the uniformed services.
 
-This section describes the benefits for National Guard and Reserve members of the uniformed services and their eligible dependents. Benefits for members of the Retired Reserve and their eligible dependents are described in § 161.13. Benefits for surviving dependents of deceased National Guard and Reserve members are described in § 161.17.
+This section describes the benefits for National Guard and Reserve members of the uniformed services and their eligible dependents. Benefits for members of the Retired Reserve and their eligible dependents are described in § 161.13. Benefits for surviving dependents of deceased National Guard and Reserve members are described in § 161.17. 
 
-(a) *National Guard and Reserve members.* National Guard and Reserve members are eligible for benefits based on being ordered to periods of active duty or full-time National Guard duty or active status in the SelRes, including Ready Reserve and Standby Reserve and participation in the Reserve Officer Training Corps.
+(a) *National Guard and Reserve members.* National Guard and Reserve members are eligible for benefits based on being ordered to periods of active duty or full-time National Guard duty or active status in the SelRes, including Ready Reserve and Standby Reserve and participation in the Reserve Officer Training Corps. 
 
 Table 3 to Subpart C of Part 161—Benefits for National Guard and Reserve Members Not on Active Duty Greater Than 30 Days
 |               | CHC | DC | C   | MWR | E    |
@@ -16,7 +16,7 @@ Table 4 to Subpart C of Part 161—Benefits for National Guard and Reserve Membe
 | **Notes:**                                                                                                                                                                                                                                                                                           |     |     |     |     |      |
 | 1\. This includes reported periods of early identification of Service members in support of a contingency operation in accordance with DoD Instruction 7730.54, “Reserve Components Common Personnel Data System (RCCPDS)” (available at http://www.dtic.mil/whs/directives/corres/pdf/773054p.pdf). |     |     |     |     |      |
 
-(b) *Dependents of National Guard or Reserve members.* Dependents of National Guard or Reserve members are eligible for benefits as shown in Table 5 to this subpart.
+(b) *Dependents of National Guard or Reserve members.* Dependents of National Guard or Reserve members are eligible for benefits as shown in Table 5 to this subpart. 
 
 Table 5 to Subpart C of Part 161—Benefits for Dependents of National Guard or Reserve Members
 |                                                                                                                                                                                                                                                                                                                           | CHC  | DC   | C    | MWR  | E     |

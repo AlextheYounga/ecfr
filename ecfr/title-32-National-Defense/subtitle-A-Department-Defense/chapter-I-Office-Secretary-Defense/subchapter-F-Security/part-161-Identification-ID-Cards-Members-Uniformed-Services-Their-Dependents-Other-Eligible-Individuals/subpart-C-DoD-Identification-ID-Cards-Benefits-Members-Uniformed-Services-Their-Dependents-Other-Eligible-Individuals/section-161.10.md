@@ -1,15 +1,15 @@
 ##### § 161.10 Benefits for active duty members of the uniformed services.
 
-This section describes the benefits for active duty uniformed services members and their eligible dependents administered by the uniformed services in accordance with 10 U.S.C. chapter 55. Descriptions of benefits for National Guard and Reserve members and their eligible dependents are contained in § 161.11. Descriptions of benefits for surviving dependents of active duty uniformed services members are contained in § 161.17.
+This section describes the benefits for active duty uniformed services members and their eligible dependents administered by the uniformed services in accordance with 10 U.S.C. chapter 55. Descriptions of benefits for National Guard and Reserve members and their eligible dependents are contained in § 161.11. Descriptions of benefits for surviving dependents of active duty uniformed services members are contained in § 161.17. 
 
-(a) *Active duty service members.* Active duty uniformed services members are eligible for benefits administered by the uniformed services as shown in Table 1 to this subpart.
+(a) *Active duty service members.* Active duty uniformed services members are eligible for benefits administered by the uniformed services as shown in Table 1 to this subpart. 
 
 Table 1 to Subpart C of Part 161—Benefits for Active Duty Members, Not Including National Guard or Reserve Members
 |               | CHC | DC  | C   | MWR | E    |
 | ------------- | --- | --- | --- | --- | ---- |
 | Member (Self) | No  | Yes | Yes | Yes | Yes. |
 
-(b) *Dependents of active duty members.* Dependents of active duty members are eligible for benefits as shown in Table 2 to this subpart. Benefits for the eligible dependents of National Guard or Reserve members, non-regular Service retirees not yet age 60, or members entitled to retired pay or who are in receipt of retired pay for non-regular service, and non-regular Service retirees who are not in receipt of retired pay are identified in §§ 161.11 through 161.14.
+(b) *Dependents of active duty members.* Dependents of active duty members are eligible for benefits as shown in Table 2 to this subpart. Benefits for the eligible dependents of National Guard or Reserve members, non-regular Service retirees not yet age 60, or members entitled to retired pay or who are in receipt of retired pay for non-regular service, and non-regular Service retirees who are not in receipt of retired pay are identified in §§ 161.11 through 161.14. 
 
 Table 2 to Subpart C of Part 161—Benefits for Dependents of Active Duty Members
 |                                                                                                                                                                                                                                                                                                                                 | CHC | DC  | C    | MWR  | E     |

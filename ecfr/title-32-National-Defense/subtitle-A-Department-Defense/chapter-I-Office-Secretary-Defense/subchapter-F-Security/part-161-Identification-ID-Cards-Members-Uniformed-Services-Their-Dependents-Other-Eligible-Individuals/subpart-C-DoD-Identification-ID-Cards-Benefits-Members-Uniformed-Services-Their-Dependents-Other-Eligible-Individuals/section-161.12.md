@@ -1,8 +1,8 @@
 ##### § 161.12 Benefits for former uniformed services members.
 
-This section describes the benefits for former uniformed services members and their eligible dependents. Former members are eligible to receive retired pay, at age 60, for non-regular service in accordance with 10 U.S.C. chapter 1223, but have been discharged from their respective Service or agency and maintain no military affiliation.
+This section describes the benefits for former uniformed services members and their eligible dependents. Former members are eligible to receive retired pay, at age 60, for non-regular service in accordance with 10 U.S.C. chapter 1223, but have been discharged from their respective Service or agency and maintain no military affiliation. 
 
-(a) *Former members and their eligible dependents.* Former members and their dependents are eligible for benefits as shown in Table 6 to this subpart.
+(a) *Former members and their eligible dependents.* Former members and their dependents are eligible for benefits as shown in Table 6 to this subpart. 
 
 Table 6 to Subpart C of Part 161—Benefits for Former Members and Dependents
 |                                                                                                                                                                                                                                                                                                                                                             | CHC  | DC   | C    | MWR  | E     |
@@ -34,6 +34,6 @@ Table 6 to Subpart C of Part 161—Benefits for Former Members and Dependents
 | a. Has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary, and is dependent on the former member for over 50 percent of the child's support; or                                                                                                            |      |      |      |      |       |
 | b. Is incapable of self-support because of a mental or physical incapacity and is dependent on the former member for over 50 percent of the child's support.                                                                                                                                                                                                |      |      |      |      |       |
 
-(b) \[Reserved\]
+(b) \[Reserved\] 
 
 \[81 FR 74879, Oct. 27, 2016, as amended at 89 FR 11181, Feb. 14, 2024\]

@@ -1,48 +1,48 @@
 ##### § 623.2 Loan policies.
 
-(a) *Loan and approval policy*—(1) *Basic policies.* (i) Materiel is not loaned to non-DOD activities as a routine procedure. However, materiel in the Army inventory is available for loan for special purposes if approved. Approving authorities are listed in table 2-1; their addresses are in appendix B.
+(a) *Loan and approval policy*—(1) *Basic policies.* (i) Materiel is not loaned to non-DOD activities as a routine procedure. However, materiel in the Army inventory is available for loan for special purposes if approved. Approving authorities are listed in table 2-1; their addresses are in appendix B. 
 
-(ii) Loans will be approved or disapproved based on the purpose, duration of the loan, and consideration of the following factors which can take precedence over any loan.
+(ii) Loans will be approved or disapproved based on the purpose, duration of the loan, and consideration of the following factors which can take precedence over any loan. 
 
-(A) Military requirements and priorities.
+(A) Military requirements and priorities. 
 
-(B) Continuity of military operations, troop survival, and the rehabilitation of essential military bases.
+(B) Continuity of military operations, troop survival, and the rehabilitation of essential military bases. 
 
-(C) Stocks and programed Army requirements. This includes prepositioned mobilization reserve stocks.
+(C) Stocks and programed Army requirements. This includes prepositioned mobilization reserve stocks. 
 
-(D) Type classification with pending changes.
+(D) Type classification with pending changes. 
 
-(E) Minimum diversion of Army stocks.
+(E) Minimum diversion of Army stocks. 
 
-(F) The adequacy of the borrower's resources. Requesters will be encouraged to use their own resources.
+(F) The adequacy of the borrower's resources. Requesters will be encouraged to use their own resources. 
 
-(iii) Loan requests from civilian authorities or activities will normally enter Army channels at the installation or MACOM levels. If on-post or off-post units receive loan requests, they will refer them to unit's supporting installation commander at once. Emergency loan requests will be relayed by telephone or electrically transmitted message.
+(iii) Loan requests from civilian authorities or activities will normally enter Army channels at the installation or MACOM levels. If on-post or off-post units receive loan requests, they will refer them to unit's supporting installation commander at once. Emergency loan requests will be relayed by telephone or electrically transmitted message. 
 
-(iv) When routine handling of a loan request would result in loss of human life, grave bodily harm, or major destruction of property, and when the lack of communication facilities prevents use of normal procedures, loans otherwise permitted by this regulation can be made with local approval. However, normal policy should be followed to the extent possible. If procedural requirements cannot be fully complied with, they must be met as soon as possible after the loan is made.
+(iv) When routine handling of a loan request would result in loss of human life, grave bodily harm, or major destruction of property, and when the lack of communication facilities prevents use of normal procedures, loans otherwise permitted by this regulation can be made with local approval. However, normal policy should be followed to the extent possible. If procedural requirements cannot be fully complied with, they must be met as soon as possible after the loan is made. 
 
-(v) Army materiel loaned under this part will be delivered to borrower “as is, where is” available.
+(v) Army materiel loaned under this part will be delivered to borrower “as is, where is” available. 
 
-(vi) Stocks of the least serviceable condition which are still suitable for the loan's purpose will be used. Logistic control code “C” materiel will be loaned before logistic control code “B” materiel. Logistic control code “B” materiel will be loaned before logistic control code “A” materiel. (Ref chap 9, AR 708-1.)
+(vi) Stocks of the least serviceable condition which are still suitable for the loan's purpose will be used. Logistic control code “C” materiel will be loaned before logistic control code “B” materiel. Logistic control code “B” materiel will be loaned before logistic control code “A” materiel. (Ref chap 9, AR 708-1.) 
 
-(vii) Commanders of medical treatment facilities (MTF) are subject to all the requirements of this regulation, including the requirement for reimbursement. However, in accordance with AR 360-61 which implements DOD Instruction 5410.19,
+(vii) Commanders of medical treatment facilities (MTF) are subject to all the requirements of this regulation, including the requirement for reimbursement. However, in accordance with AR 360-61 which implements DOD Instruction 5410.19, 
 
-(A) Emergency loans of medical supplies (drugs, vaccines, etc.) may not be made without reimbursement, but the loan may not exceed 30 days and the medical supplies must be replaced in kind by the borrowing agency or activity; and
+(A) Emergency loans of medical supplies (drugs, vaccines, etc.) may not be made without reimbursement, but the loan may not exceed 30 days and the medical supplies must be replaced in kind by the borrowing agency or activity; and 
 
-(B) Emergency loans of medical equipment not to exceed 15 days may be made without reimbursement if it is the practice in the community for other hospitals to make such loans. Equipment loans which exceed 15 days must be approved, in writing, by the MACOM commander and are subject to all the requirements of 10 U.S.C. 2667, including reimbursement.
+(B) Emergency loans of medical equipment not to exceed 15 days may be made without reimbursement if it is the practice in the community for other hospitals to make such loans. Equipment loans which exceed 15 days must be approved, in writing, by the MACOM commander and are subject to all the requirements of 10 U.S.C. 2667, including reimbursement. 
 
-(viii) Army property loaned to non-DOD activities will not be further loaned without approval of the original approving authority.
+(viii) Army property loaned to non-DOD activities will not be further loaned without approval of the original approving authority. 
 
-(ix) There will be no procurement or redistribution of assets to offset the effects of loans. Material will not be set aside, earmarked, assembled, or stockpiled to be available for use related to loans.
+(ix) There will be no procurement or redistribution of assets to offset the effects of loans. Material will not be set aside, earmarked, assembled, or stockpiled to be available for use related to loans. 
 
-(x) Army materiel may be recalled from the borrower at any time to meet Army requirements.
+(x) Army materiel may be recalled from the borrower at any time to meet Army requirements. 
 
-(xi) Stock record accounting and financial transactions for loans will conform with existing regulations.
+(xi) Stock record accounting and financial transactions for loans will conform with existing regulations. 
 
-(xii) Borrowers are responsible for the care, custody, and proper use of materiel borrowed. Except as stated in this regulation, reimbursement will be required for damage, destruction, loss, fair depreciation in value, and for any Army repair, care, transportation, preservation, and protection of loaned equipment.
+(xii) Borrowers are responsible for the care, custody, and proper use of materiel borrowed. Except as stated in this regulation, reimbursement will be required for damage, destruction, loss, fair depreciation in value, and for any Army repair, care, transportation, preservation, and protection of loaned equipment. 
 
-(xiii) Care, renovation, and repair of borrowed materiel will conform with the loan agreement.
+(xiii) Care, renovation, and repair of borrowed materiel will conform with the loan agreement. 
 
-(xiv) As indicated below, borrowers must provide signed loan agreements, provide surety bonds, and vehicular insurance prior to receipt of materiel. Loan agreements and bonds will be prepared in accordance with paragraphs (b) and (c) of this section.
+(xiv) As indicated below, borrowers must provide signed loan agreements, provide surety bonds, and vehicular insurance prior to receipt of materiel. Loan agreements and bonds will be prepared in accordance with paragraphs (b) and (c) of this section. 
 
 | Borrower                                                                                                                                         | Loan agreement required | Surety bond required | Vehicular insurance required |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------------------- | ---------------------------- |
@@ -53,87 +53,87 @@
 | 1 A hand receipt or other document assigning responsibility will suffice.                                                                        |                         |                      |                              |
 | 2 In emergency disaster relief cases, bonds and insurance may be provided after receipt of the materiel. (See paragraph (a)(4) of this section.) |                         |                      |                              |
 
-(2) *Loans to DOD organizations.* Army materiel may be loaned to DOD activities for projects, programs, and mission requirements that support basic functions of the borrowing activity. Examples are field exercises, maneuvers, training exercises, including annual training (AT) of Reserve Components, and research development, test, and evaluation (RDTE).
+(2) *Loans to DOD organizations.* Army materiel may be loaned to DOD activities for projects, programs, and mission requirements that support basic functions of the borrowing activity. Examples are field exercises, maneuvers, training exercises, including annual training (AT) of Reserve Components, and research development, test, and evaluation (RDTE). 
 
-(i) Loans of major end items belonging to MACOMs are approved by MACOM or UCOM commanders. Loans of materiel other than major end items are approved at commander/installation level.
+(i) Loans of major end items belonging to MACOMs are approved by MACOM or UCOM commanders. Loans of materiel other than major end items are approved at commander/installation level. 
 
-(ii) Loans of materiel belonging to DARCOM (wholesale level) are approved as follows:
+(ii) Loans of materiel belonging to DARCOM (wholesale level) are approved as follows: 
 
-(A) *Materiels other than major end items.* By the director or deputy director of an MRC.
+(A) *Materiels other than major end items.* By the director or deputy director of an MRC. 
 
-(B) *All other items.* By HQ DARCOM or commanders of MRCs unless loan would interfere with issue against DA Master Priority List (DAMPL) priorities, then by HQDA ODCSLOG (DALO-SMD).
+(B) *All other items.* By HQ DARCOM or commanders of MRCs unless loan would interfere with issue against DA Master Priority List (DAMPL) priorities, then by HQDA ODCSLOG (DALO-SMD). 
 
-(3) *Loans to federal departments/agencies.* Loans to Federal activities outside the DOD are usually provided under provisions of the Economy Act, 31 U.S.C. 686. Federal agencies borrowing DOD materiel using the provisions of this act are responsible for reimbursing the DOD for all DOD costs incident to the delivery, return, and repair of the materiel. The borrower is also responsible for reimbursing the DOD for depreciation if the depreciation cost is significant.
+(3) *Loans to federal departments/agencies.* Loans to Federal activities outside the DOD are usually provided under provisions of the Economy Act, 31 U.S.C. 686. Federal agencies borrowing DOD materiel using the provisions of this act are responsible for reimbursing the DOD for all DOD costs incident to the delivery, return, and repair of the materiel. The borrower is also responsible for reimbursing the DOD for depreciation if the depreciation cost is significant. 
 
-(4) *Disaster relief.* (i) CONUS/OCONUS. (A) In disaster situations local civil authorities must provide relief from their own resources. If this is not sufficient, and the American National Red Cross has a team at the disaster, requests for further assistance should be made to them. If the President has declared a major disaster or emergency, requests should be made to the regional director of the Federal Disaster Assistance Administration (FDAA). (See AR 500-60 for guidance.)
+(4) *Disaster relief.* (i) CONUS/OCONUS. (A) In disaster situations local civil authorities must provide relief from their own resources. If this is not sufficient, and the American National Red Cross has a team at the disaster, requests for further assistance should be made to them. If the President has declared a major disaster or emergency, requests should be made to the regional director of the Federal Disaster Assistance Administration (FDAA). (See AR 500-60 for guidance.) 
 
-(B) The commanding General, US Army Forces Command (FORSCOM), acting for the Secretary of the Army (SA), is responsible for Army materiel support of disaster relief operations within the United States and the District of Columbia. UCOMs are responsible for disaster relief operations in US possessions and trust territories. These commanders are authorized to task DOD agencies and commands, consistent with defense priorities, to provide materiel in support of operations. A military representative will be appointed by the appropriate command to act as the DOD point of contact with the Housing and Urban Development (HUD) Federal Coordinating Officer (FCO) when military assistance is required during a Presidential declared disaster or emergency. When a disaster or emergency is of such magnitude, the disaster area may be geographically subdivided. A military representative will then be appointed for each FCO. All requests for military assistance will be passed through the FCO to the DOD military representative at the disaster area.
+(B) The commanding General, US Army Forces Command (FORSCOM), acting for the Secretary of the Army (SA), is responsible for Army materiel support of disaster relief operations within the United States and the District of Columbia. UCOMs are responsible for disaster relief operations in US possessions and trust territories. These commanders are authorized to task DOD agencies and commands, consistent with defense priorities, to provide materiel in support of operations. A military representative will be appointed by the appropriate command to act as the DOD point of contact with the Housing and Urban Development (HUD) Federal Coordinating Officer (FCO) when military assistance is required during a Presidential declared disaster or emergency. When a disaster or emergency is of such magnitude, the disaster area may be geographically subdivided. A military representative will then be appointed for each FCO. All requests for military assistance will be passed through the FCO to the DOD military representative at the disaster area. 
 
-(C) The Director of Military Support (ODCSOPS), HQDA, acts at the DOD point of contact for the Administrator, FDAA, other Federal agencies, and the American National Red Cross in all disaster assistance matters.
+(C) The Director of Military Support (ODCSOPS), HQDA, acts at the DOD point of contact for the Administrator, FDAA, other Federal agencies, and the American National Red Cross in all disaster assistance matters. 
 
-(ii) Foreign. (A) The Department of State is responsible for deciding when emergency foreign disaster relief operations will be undertaken. This authority is delegated to Chiefs of Diplomatic Missions for disaster relief operations whose total costs will not exceed $25,000.
+(ii) Foreign. (A) The Department of State is responsible for deciding when emergency foreign disaster relief operations will be undertaken. This authority is delegated to Chiefs of Diplomatic Missions for disaster relief operations whose total costs will not exceed $25,000. 
 
-(B) Send queries on foreign disaster relief to HQDA (DAMO-ODS) (para 4, app B).
+(B) Send queries on foreign disaster relief to HQDA (DAMO-ODS) (para 4, app B). 
 
-(5) *Civil disturbances.* The maintenance of law and order is primarily the responsibility of local and state authorities. In civil disturbance situations, a basic goal of the Federal Government is to minimize the involvement of active military forces. One of the most effective means of keeping Federal forces off the streets is to loan US Army civil disturbance type equipment to Federal, State, and local law enforcement agencies and also to the National Guard. (For specific guidance see AR 500-50.)
+(5) *Civil disturbances.* The maintenance of law and order is primarily the responsibility of local and state authorities. In civil disturbance situations, a basic goal of the Federal Government is to minimize the involvement of active military forces. One of the most effective means of keeping Federal forces off the streets is to loan US Army civil disturbance type equipment to Federal, State, and local law enforcement agencies and also to the National Guard. (For specific guidance see AR 500-50.) 
 
-(i) Requests for loan of Army materiel during or for expected civil disturbances are of three types with approval authority as follows:
+(i) Requests for loan of Army materiel during or for expected civil disturbances are of three types with approval authority as follows: 
 
-(A) *Group one.* Arms, ammunition, tank-automotive equipment, and aircraft. Loans will be approved by the SA or his designee.
+(A) *Group one.* Arms, ammunition, tank-automotive equipment, and aircraft. Loans will be approved by the SA or his designee. 
 
-(B) *Group two.* Riot control agents, concertina wire, and similar military equipment which is not included in group one. Loans will be approved by the SA (or his designee), or by an Army task force commander employed at an objective are during a civil disturbance.
+(B) *Group two.* Riot control agents, concertina wire, and similar military equipment which is not included in group one. Loans will be approved by the SA (or his designee), or by an Army task force commander employed at an objective are during a civil disturbance. 
 
-(C) *Group three.* Protective equipment such as masks and helmets; body armor vests; other equipment not included in group one or two such as clothing, communications equipment, and searchlights; and the use of DOD facilities. Such loans will be approved by the SA (or his designee); by MACOMs; by the CGs of CONUS armies, MDW, and by commanders of UCOMs outside CONUS as applicable. (NOTE: Firefighting equipment will not be used for riot control).
+(C) *Group three.* Protective equipment such as masks and helmets; body armor vests; other equipment not included in group one or two such as clothing, communications equipment, and searchlights; and the use of DOD facilities. Such loans will be approved by the SA (or his designee); by MACOMs; by the CGs of CONUS armies, MDW, and by commanders of UCOMs outside CONUS as applicable. (NOTE: Firefighting equipment will not be used for riot control). 
 
-(ii) Queries concerning loans in support of civil disturbances will be forwarded to the Director of Military Support, HQDA(DAMO-ODS), WASH DC 20310. (See app B.)
+(ii) Queries concerning loans in support of civil disturbances will be forwarded to the Director of Military Support, HQDA(DAMO-ODS), WASH DC 20310. (See app B.) 
 
-(6) *Terrorism.* (i) The Department of the Army is the DOD Executive Agent for support to the FBI in combating terrorism. Existing civil disturbance loan procedures, including categories of equipment, apply to equipment loans to the FBI for combating terrorism. Military resources will be provided only upon request of the Director, FBI, or the Senior FBI official present at the scene of a terrorist incident. It may be difficult in some situations to determine whether a practical incident fits the definition of terrorism. In these cases, commanders are authorized to accept the judgment of the FBI official making the request if it is supported by the available facts. (See para 3, table 2-1.)
+(6) *Terrorism.* (i) The Department of the Army is the DOD Executive Agent for support to the FBI in combating terrorism. Existing civil disturbance loan procedures, including categories of equipment, apply to equipment loans to the FBI for combating terrorism. Military resources will be provided only upon request of the Director, FBI, or the Senior FBI official present at the scene of a terrorist incident. It may be difficult in some situations to determine whether a practical incident fits the definition of terrorism. In these cases, commanders are authorized to accept the judgment of the FBI official making the request if it is supported by the available facts. (See para 3, table 2-1.) 
 
-(ii) For requests from the FBI in connection with terrorist incidents, any commander in the chain of command down to and including commanders of military installations are authorized to approve loans of group two and group three resources. (See paragraphs (a)(4)(1) (B) and (C) of this section.) Requests for equipment which involve technical/operating personnel, excluding fire-fighting equipment and explosive ordnance disposal, will be processed as a group one resource. For example, approval authority is retained by the DOD Executive Agent.
+(ii) For requests from the FBI in connection with terrorist incidents, any commander in the chain of command down to and including commanders of military installations are authorized to approve loans of group two and group three resources. (See paragraphs (a)(4)(1) (B) and (C) of this section.) Requests for equipment which involve technical/operating personnel, excluding fire-fighting equipment and explosive ordnance disposal, will be processed as a group one resource. For example, approval authority is retained by the DOD Executive Agent. 
 
-(7) *Aircraft piracy.* Assistance to other federal agencies in the protection of airways is provided through loans under guidance in paragraph 3, table 2-1. Specific limitations on such support are covered in AR 500-1.
+(7) *Aircraft piracy.* Assistance to other federal agencies in the protection of airways is provided through loans under guidance in paragraph 3, table 2-1. Specific limitations on such support are covered in AR 500-1. 
 
-(8) *Loan/lease to activities outside the Federal Government.* Title 10, U.S.C. 2667, authorizes the lease of Army materiel to non-DOD departments, agencies, activities, or individuals when it is determined that the materiel is not, for the period of the lease, needed for public use, is not excess property, and that the loan will promote the national defense or be in the public interest, (See AR 360-61.) Such a lease must not be for more than 1 year (or be renewed/extended for a total period of more than 5 years); it must provide that the lessee will pay a fair monetary rental. The fair monetary rental will be determined on the basis of prevailing commercial rates or computed according to sound commercial accounting practices for the fixing of rental on such property. This will include a return on capital investment and administrative cost as well as depreciation. The delegation of authority to lease is SAOSA-71-6, paragraph 1-5103, ADARS, the prescribed lease agreement is at paragraph 16-553, ADARS.
+(8) *Loan/lease to activities outside the Federal Government.* Title 10, U.S.C. 2667, authorizes the lease of Army materiel to non-DOD departments, agencies, activities, or individuals when it is determined that the materiel is not, for the period of the lease, needed for public use, is not excess property, and that the loan will promote the national defense or be in the public interest, (See AR 360-61.) Such a lease must not be for more than 1 year (or be renewed/extended for a total period of more than 5 years); it must provide that the lessee will pay a fair monetary rental. The fair monetary rental will be determined on the basis of prevailing commercial rates or computed according to sound commercial accounting practices for the fixing of rental on such property. This will include a return on capital investment and administrative cost as well as depreciation. The delegation of authority to lease is SAOSA-71-6, paragraph 1-5103, ADARS, the prescribed lease agreement is at paragraph 16-553, ADARS. 
 
-(b) *Loan agreements.* (1) Upon approval of a loan request and before shipment or issue of the materiel, the approving authority will complete a written loan agreement, DA Form 4881-R. In all cases, the statutory basis for the loan will be cited. The approving authority is acting for the DOD on loans to other Federal agencies, and for the United States on loans to civil authorities and special activities. The agreement will be signed by the approving authority and the borrowing activity. When emergency loans have been made as authorized by this AR, follow-up action will be taken at once to formalize the loan by completing a loan agreement.
+(b) *Loan agreements.* (1) Upon approval of a loan request and before shipment or issue of the materiel, the approving authority will complete a written loan agreement, DA Form 4881-R. In all cases, the statutory basis for the loan will be cited. The approving authority is acting for the DOD on loans to other Federal agencies, and for the United States on loans to civil authorities and special activities. The agreement will be signed by the approving authority and the borrowing activity. When emergency loans have been made as authorized by this AR, follow-up action will be taken at once to formalize the loan by completing a loan agreement. 
 
-(2) Loan agreements are mutually developed by the approving authority and the chief of the borrowing activity (or their designees). The agreements identify the responsibilities of all parties. They include terms and conditions of the loan. Appendix C illustrates a sample loan agreement, DA Form 4881-R (Agreement for the Loan of US Army Materiel), and specifies what the loan agreements will stipulate and contain. Also illustrated at appendix C is DA Form 4881-2-R, which will be completed and appended to the loan agreement as “Exhibit I.”
+(2) Loan agreements are mutually developed by the approving authority and the chief of the borrowing activity (or their designees). The agreements identify the responsibilities of all parties. They include terms and conditions of the loan. Appendix C illustrates a sample loan agreement, DA Form 4881-R (Agreement for the Loan of US Army Materiel), and specifies what the loan agreements will stipulate and contain. Also illustrated at appendix C is DA Form 4881-2-R, which will be completed and appended to the loan agreement as “Exhibit I.” 
 
-(3) Loan agreements will be held by the approving authority until termination and final settlement of each loan.
+(3) Loan agreements will be held by the approving authority until termination and final settlement of each loan. 
 
-(4) If the loan agreement is signed by someone other than the chief borrowing official, than a Certificate for Signature by an Alternate will be completed. (See appendix D for DA Form 4881-1-R.) It will be attached to the signed (by the borrower) copy of the agreement that is retained by the approving authority. DA Forms 4881-R, 4881-1-R, and 4881-2-R are reproduced locally on 8 1/2 by 11-inch paper.
+(4) If the loan agreement is signed by someone other than the chief borrowing official, than a Certificate for Signature by an Alternate will be completed. (See appendix D for DA Form 4881-1-R.) It will be attached to the signed (by the borrower) copy of the agreement that is retained by the approving authority. DA Forms 4881-R, 4881-1-R, and 4881-2-R are reproduced locally on 8 1/2 by 11-inch paper. 
 
-(c) *Surety bonds.* (1) Some borrowers of Army materiel must post a surety bond. (See table 2-1 and DA Form 4881-3-R at app E.) Bonds ensure safe return of the borrowed materiel or reimbursement for any loss of or damage to the materiel. The bond will consist of—
+(c) *Surety bonds.* (1) Some borrowers of Army materiel must post a surety bond. (See table 2-1 and DA Form 4881-3-R at app E.) Bonds ensure safe return of the borrowed materiel or reimbursement for any loss of or damage to the materiel. The bond will consist of— 
 
-(i) A properly executed surety bond with a certified bank check, cash, or negotiable US Treasury bonds, or
+(i) A properly executed surety bond with a certified bank check, cash, or negotiable US Treasury bonds, or 
 
-(ii) Notice of bond by a reputable bonding company deposited with the approving authority for the loan. Bonds will equal the total price of the borrowed items as shown in exhibit I to the loan agreement (app C, DA Form 4881-R). A “double” bond (bond equal to twice the value of the borrowed item(s)) will be required—
+(ii) Notice of bond by a reputable bonding company deposited with the approving authority for the loan. Bonds will equal the total price of the borrowed items as shown in exhibit I to the loan agreement (app C, DA Form 4881-R). A “double” bond (bond equal to twice the value of the borrowed item(s)) will be required— 
 
-(A) For Army materiel loaned to the Red Cross for instruction and practice to aid the Army, Navy, or Air Force in time of war (10 U.S.C. 2542).
+(A) For Army materiel loaned to the Red Cross for instruction and practice to aid the Army, Navy, or Air Force in time of war (10 U.S.C. 2542). 
 
-(B) For ordnance and ordnance stores loaned to high schools in the District of Columbia (10 U.S.C. 4653).
+(B) For ordnance and ordnance stores loaned to high schools in the District of Columbia (10 U.S.C. 4653). 
 
-(2) The bond need not be posted by the borrowing agency itself. The source or originating agency for the bond is immaterial if the bond is valid. For example, to secure a loan, a State may post bond on behalf of a city, county, or other governmental body or authority within the State.
+(2) The bond need not be posted by the borrowing agency itself. The source or originating agency for the bond is immaterial if the bond is valid. For example, to secure a loan, a State may post bond on behalf of a city, county, or other governmental body or authority within the State. 
 
-(3) In an emergency, when posting a bond would delay approval of an urgent loan request and when the total price is less than $1,000, the approval authority may approve the request. The approval is on the condition that the bond be posted within 5 days.
+(3) In an emergency, when posting a bond would delay approval of an urgent loan request and when the total price is less than $1,000, the approval authority may approve the request. The approval is on the condition that the bond be posted within 5 days. 
 
-(4) Bond forfeitures or exceptions to mandatory forfeitures can only be made with the concurrence of the Secretary of the Army. Forfeitures will be based on actual expense incurred. Forfeitures do not release the borrowing agency from returning borrowed materiel or affect ownership. Bonds are normally forfeited under the following conditions:
+(4) Bond forfeitures or exceptions to mandatory forfeitures can only be made with the concurrence of the Secretary of the Army. Forfeitures will be based on actual expense incurred. Forfeitures do not release the borrowing agency from returning borrowed materiel or affect ownership. Bonds are normally forfeited under the following conditions: 
 
-(i) Materiel is not returned at the termination of a loan period or when return has been directed by the Army.
+(i) Materiel is not returned at the termination of a loan period or when return has been directed by the Army. 
 
-(ii) The borrowing agent refuses to pay for damages or other Army expenses.
+(ii) The borrowing agent refuses to pay for damages or other Army expenses. 
 
-(5) Surety bonds will be held by the approving authority until the loan is terminated and final settlement is made. At that time, the bond will be returned to the borrower.
+(5) Surety bonds will be held by the approving authority until the loan is terminated and final settlement is made. At that time, the bond will be returned to the borrower. 
 
-(6) If US treasury bonds are posted as surety bond, the borrower must execute a power of attorney (DA Form 4481-4-R, app F). This will enable cashing of the treasury bonds if some forfeiture is required. DA Form 4881-3-R (Surety Bond) and DA Form 4881-4-R (Power of Attorney) will be reproduced locally on 8 1/2 by 11-inch paper.
+(6) If US treasury bonds are posted as surety bond, the borrower must execute a power of attorney (DA Form 4481-4-R, app F). This will enable cashing of the treasury bonds if some forfeiture is required. DA Form 4881-3-R (Surety Bond) and DA Form 4881-4-R (Power of Attorney) will be reproduced locally on 8 1/2 by 11-inch paper. 
 
-(d) *Loan duration.* (1) Loan periods and extensions will be shown in table 2-2.
+(d) *Loan duration.* (1) Loan periods and extensions will be shown in table 2-2. 
 
-(2) Materiel will be loaned only for the number of days needed for the specific purpose for which borrowed. Loan extensions must be justified. The reason(s) why other means or other than Army materiel cannot be used must be included. Approval of loan extensions will be based on the merit of the reasons given.
+(2) Materiel will be loaned only for the number of days needed for the specific purpose for which borrowed. Loan extensions must be justified. The reason(s) why other means or other than Army materiel cannot be used must be included. Approval of loan extensions will be based on the merit of the reasons given. 
 
-(3) Loan extensions authorized beyond 1 year will not be approved unless the lender of the loaned materiel has inspected and inventoried the materiel to insure completeness and serviceability.
+(3) Loan extensions authorized beyond 1 year will not be approved unless the lender of the loaned materiel has inspected and inventoried the materiel to insure completeness and serviceability. 
 
-(e) *Types of DA materiel available for loan.* Examples of types of items that may be loaned, and examples of the types of organizations that may borrow Army materiel, are listed in table 2-1. Most loans will be nonexpendable items or expendable items not forecast to be consumed (durable items). Expendable items (e.g., expendability code X) will not be loaned unless approved as an exception.
+(e) *Types of DA materiel available for loan.* Examples of types of items that may be loaned, and examples of the types of organizations that may borrow Army materiel, are listed in table 2-1. Most loans will be nonexpendable items or expendable items not forecast to be consumed (durable items). Expendable items (e.g., expendability code X) will not be loaned unless approved as an exception. 
 
 Table 2-1—Loan Authority and Purpose
 
