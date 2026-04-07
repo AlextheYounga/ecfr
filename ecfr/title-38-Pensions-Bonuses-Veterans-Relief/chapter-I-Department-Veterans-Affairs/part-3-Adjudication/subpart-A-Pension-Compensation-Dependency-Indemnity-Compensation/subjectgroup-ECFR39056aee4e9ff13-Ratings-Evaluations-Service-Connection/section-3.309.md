@@ -1,7 +1,5 @@
 ##### § 3.309 Disease subject to presumptive service connection.
 
-Link to an amendment published at 82 FR 4184, Jan. 13, 2017.
-
 (a) *Chronic diseases.* The following diseases shall be granted service connection although not otherwise established as incurred in or aggravated by service if manifested to a compensable degree within the applicable time limits under § 3.307 following service in a period of war or following peacetime service on or after January 1, 1947, provided the rebuttable presumption provisions of § 3.307 are also satisfied.
 
 Anemia, primary. Arteriosclerosis. Arthritis. Atrophy, progressive muscular. Brain hemorrhage. Brain thrombosis. Bronchiectasis. Calculi of the kidney, bladder, or gallbladder.
@@ -177,5 +175,23 @@ The term “soft-tissue sarcoma” includes the following:
 Adult fibrosarcoma Dermatofibrosarcoma protuberans Malignant fibrous histiocytoma Liposarcoma Leiomyosarcoma Epithelioid leiomyosarcoma (malignant leiomyoblastoma) Rhabdomyosarcoma Ectomesenchymoma Angiosarcoma (hemangiosarcoma and lymphangiosarcoma) Proliferating (systemic) angioendotheliomatosis Malignant glomus tumor Malignant hemangiopericytoma Synovial sarcoma (malignant synovioma) Malignant giant cell tumor of tendon sheath Malignant schwannoma, including malignant schwannoma with rhabdomyoblastic differentiation (malignant Triton tumor), glandular and epithelioid malignant schwannomas Malignant mesenchymoma Malignant granular cell tumor Alveolar soft part sarcoma Epithelioid sarcoma Clear cell sarcoma of tendons and aponeuroses Extraskeletal Ewing's sarcoma Congenital and infantile fibrosarcoma Malignant ganglioneuromaNote 2:
 
 For purposes of this section, the term ischemic heart disease does not include hypertension or peripheral manifestations of arteriosclerosis such as peripheral vascular disease or stroke, or any other condition that does not qualify within the generally accepted medical definition of Ischemic heart disease.
+
+(f) *Disease associated with exposure to contaminants in the water supply at Camp Lejeune.* If a veteran, or former reservist or member of the National Guard, was exposed to contaminants in the water supply at Camp Lejeune during military service and the exposure meets the requirements of § 3.307(a)(7), the following diseases shall be service-connected even though there is no record of such disease during service, subject to the rebuttable presumption provisions of § 3.307(d).
+
+(1) Kidney cancer.
+
+(2) Liver cancer.
+
+(3) Non-Hodgkin's lymphoma.
+
+(4) Adult leukemia.
+
+(5) Multiple myeloma.
+
+(6) Parkinson's disease.
+
+(7) Aplastic anemia and other myelodysplastic syndromes.
+
+(8) Bladder cancer.
 
 (Authority: 38 U.S.C. 501(a) and 1112(b)) \[41 FR 55873, Dec. 23, 1976\] Editorial Note:For Federal Register citations affecting § 3.309, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
