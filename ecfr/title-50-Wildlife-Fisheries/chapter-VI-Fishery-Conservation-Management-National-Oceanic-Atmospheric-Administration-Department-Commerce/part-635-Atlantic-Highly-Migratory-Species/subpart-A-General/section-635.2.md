@@ -188,7 +188,11 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Research LCS* means one of the species, or part thereof, listed in heading A, Large Coastal Sharks, of Table 1 of appendix A to this part, other than sandbar sharks.
 
-*Restricted-fishing day (RFD)* means a day, beginning at 0000 hours and ending at 2400 hours local time, during which a person aboard a vessel for which a General category permit for Atlantic Tunas has been issued may not fish for, possess, or retain a BFT.
+*Restricted-fishing day (RFD)* is a day, beginning at 0000 hours and ending at 2400 hours local time, during which a person aboard a vessel issued:
+
+(1) An Atlantic Tunas General category permit may not fish for, possess, retain, land, or sell a BFT; and
+
+(2) A Charter/Headboat permit with a commercial endorsement may not fish commercially for BFT under the General category rules, but may fish for, possess, retain, or land BFT under the Angling category restrictions and retention limits.
 
 *Round wire stock* means round metal wire, typically used in the manufacturing of fishing hooks, that has not been forged, or otherwise modified or treated in any way to increase the original factory tensile strength set by the hook manufacturer.
 
