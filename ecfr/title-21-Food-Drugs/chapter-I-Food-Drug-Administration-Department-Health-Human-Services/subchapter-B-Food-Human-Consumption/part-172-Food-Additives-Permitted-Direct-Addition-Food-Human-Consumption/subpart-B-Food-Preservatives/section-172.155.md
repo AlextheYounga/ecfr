@@ -1,8 +1,8 @@
 ##### § 172.155 Natamycin (pimaricin).
 
-(a) Natamycin (CAS Reg. No. 7681-93-8), also known as pimaricin, is a polyene macrolide antimycotic substance possessing an empirical formula of C33H47NO13 and a molecular weight of 665.7.
+(a) Natamycin (CAS Reg. No. 7681-93-8), also known as pimaricin, is a polyene macrolide antimycotic substance possessing an empirical formula of C33H47NO13 and a molecular weight of 665.7. 
 
-(b) The additive shall conform to the following specifications:
+(b) The additive shall conform to the following specifications: 
 
 Purity: 97 percent ±2 percent on an anhydrous basis. Arsenic: Not more than 1 part per million. Heavy metals (as Pb): Not more than 20 parts per million.
 

@@ -1,18 +1,18 @@
 ##### § 172.884 Odorless light petroleum hydrocarbons.
 
-Odorless light petroleum hydrocarbons may be safely used in food, in accordance with the following prescribed conditions:
+Odorless light petroleum hydrocarbons may be safely used in food, in accordance with the following prescribed conditions: 
 
-(a) The additive is a mixture of liquid hydrocarbons derived from petroleum or synthesized from petroleum gases. The additive is chiefly paraffinic, isoparaffinic, or naphthenic in nature.
+(a) The additive is a mixture of liquid hydrocarbons derived from petroleum or synthesized from petroleum gases. The additive is chiefly paraffinic, isoparaffinic, or naphthenic in nature. 
 
-(b) The additive meets the following specifications:
+(b) The additive meets the following specifications: 
 
-(1) Odor is faint and not kerosenic.
+(1) Odor is faint and not kerosenic. 
 
-(2) Initial boiling point is 300 °F minimum.
+(2) Initial boiling point is 300 °F minimum. 
 
-(3) Final boiling point is 650 °F maximum.
+(3) Final boiling point is 650 °F maximum. 
 
-(4) Ultraviolet absorbance limits determined by method specified in § 178.3620(b)(1)(ii) of this chapter, as follows:
+(4) Ultraviolet absorbance limits determined by method specified in § 178.3620(b)(1)(ii) of this chapter, as follows: 
 
 | Wavelength mµ | Maximum absorbance per centimeter optical pathlength |
 | ------------- | ---------------------------------------------------- |
@@ -21,7 +21,7 @@ Odorless light petroleum hydrocarbons may be safely used in food, in accordance 
 | 300-329       | 2.3                                                  |
 | 330-360       | .8                                                   |
 
-(c) The additive is used as follows:
+(c) The additive is used as follows: 
 
 | Use                                                                                                                                                                        | Limitations                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |

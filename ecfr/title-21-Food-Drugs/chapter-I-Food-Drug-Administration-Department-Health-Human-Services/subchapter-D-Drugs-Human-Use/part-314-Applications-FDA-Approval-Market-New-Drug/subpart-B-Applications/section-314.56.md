@@ -1,3 +1,3 @@
 ##### § 314.56 xxx
 
-Link to an amendment published at 89 FR 105330, Dec. 26, 2024.This amendment was delayed until Mar. 21, 2025, at 90 FR 8173, Jan. 27, 2025.This amendment was further delayed until May 27, 2025, at 90 FR 13553, Mar. 25, 2025.
+Link to an amendment published at 89 FR 105330, Dec. 26, 2024.Link to a correction of the above amendment published at 90 FR 8173, Jan. 27, 2025.

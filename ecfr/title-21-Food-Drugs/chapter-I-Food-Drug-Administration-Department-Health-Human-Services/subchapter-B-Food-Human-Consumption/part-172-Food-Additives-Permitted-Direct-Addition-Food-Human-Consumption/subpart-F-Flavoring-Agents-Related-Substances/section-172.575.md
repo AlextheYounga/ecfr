@@ -1,6 +1,6 @@
 ##### § 172.575 Quinine.
 
-Quinine, as the hydrochloride salt or sulfate salt, may be safely used in food in accordance with the following conditions:
+Quinine, as the hydrochloride salt or sulfate salt, may be safely used in food in accordance with the following conditions: 
 
 | Uses                                | Limitations                                                                                                                                                                                                               |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

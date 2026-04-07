@@ -1,12 +1,12 @@
 ##### § 172.780 Acacia (gum arabic).
 
-The food additive may be safely used in food in accordance with the following prescribed conditions:
+The food additive may be safely used in food in accordance with the following prescribed conditions: 
 
-(a) Acacia (gum arabic) is the dried gummy exudate from stems and branches of trees of various species of the genus *Acacia*, family Leguminosae.
+(a) Acacia (gum arabic) is the dried gummy exudate from stems and branches of trees of various species of the genus *Acacia*, family Leguminosae. 
 
 (b) The ingredient meets the specifications of the Food Chemicals Codex, 8th ed. (2012), p. 516, which is incorporated by reference. The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from the United States Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852 (Internet address: *http://www.usp.org*). Copies may be examined at the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500, between 9 a.m. and 4 p.m., Monday through Friday. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-(c) The ingredient is used in food in accordance with good manufacturing practices under the following conditions:
+(c) The ingredient is used in food in accordance with good manufacturing practices under the following conditions: 
 
 Maximum Usage Levels Permitted
 | Food (as served)                                                                                                                                                                                                                                                   | Percent                                         | Function                                                                                                                                                                     |

@@ -1,10 +1,10 @@
 ##### § 172.848 Lactylic esters of fatty acids.
 
-Lactylic esters of fatty acids may be safely used in food in accordance with the following prescribed conditions:
+Lactylic esters of fatty acids may be safely used in food in accordance with the following prescribed conditions: 
 
-(a) They are prepared from lactic acid and fatty acids meeting the requirements of § 172.860(b) and/or oleic acid derived from tall oil fatty acids meeting the requirements of § 172.862.
+(a) They are prepared from lactic acid and fatty acids meeting the requirements of § 172.860(b) and/or oleic acid derived from tall oil fatty acids meeting the requirements of § 172.862. 
 
-(b) They are used as emulsifiers, plasticizers, or surface-active agents in the following foods, when standards of identity do not preclude their use:
+(b) They are used as emulsifiers, plasticizers, or surface-active agents in the following foods, when standards of identity do not preclude their use: 
 
 | Foods                                 | Limitations                                          |
 | ------------------------------------- | ---------------------------------------------------- |
