@@ -656,6 +656,18 @@ Meaning an extract containing one or more cannabinoids that has been derived fro
 
 7549 
 
+(102) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1H-indazole-3-carboxamide (other name: ADB-BUTINACA)
+
+7027 
+
+(103) 4-methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one (other names: α-PiHP; alpha-PiHP)
+
+7551 
+
+(104) 2-(methylamino)-1-(3-methylphenyl)propan-1-one (other names: 3-MMC; 3-methylmethcathinone)
+
+1259 
+
 (e) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 (1) gamma-hydroxybutyric acid (some other names include GHB; gamma-hydroxybutyrate; 4-hydroxybutyrate; 4-hydroxybutanoic acid; sodium oxybate; sodium oxybutyrate)
