@@ -5,20 +5,17 @@ Unless otherwise specified, no fishing vessel or person on a fishing vessel may 
 (a) *Eastern Maine Habitat Management Area.* The Eastern Maine HMA is bounded on the northwest by the outer limit of Maine state waters, and bounded on all other sides by straight lines connecting the following points in the order stated:
 
 Eastern Maine HMA
-
-| Point  | N latitude  | W longitude |
-| ------ | ----------- | ----------- |
-| EMH1 1 | 44°07.65′ N | 68°10.64′ W |
-| EMH2   | 44°02.50′ N | 68°06.10′ W |
-| EMH3   | 43°51.00′ N | 68°33.90′ W |
-| EMH4 1 | 43°56.62′ N | 68°38.12′ W |
-
-1 Points 1 and 4 are intended to fall along the outer limit of Maine state waters.
+| Point                                                                              | N latitude  | W longitude |
+| ---------------------------------------------------------------------------------- | ----------- | ----------- |
+| EMH1 1                                                                             | 44°07.65′ N | 68°10.64′ W |
+| EMH2                                                                               | 44°02.50′ N | 68°06.10′ W |
+| EMH3                                                                               | 43°51.00′ N | 68°33.90′ W |
+| EMH4 1                                                                             | 43°56.62′ N | 68°38.12′ W |
+| 1 Points 1 and 4 are intended to fall along the outer limit of Maine state waters. |             |             |
 
 (b) *Jeffreys Bank Habitat Management Area.* The Jeffreys Bank HMA is defined by straight lines connecting the following points in the order stated:
 
 Jeffreys Bank HMA
-
 | Point | N latitude | W longitude |
 | ----- | ---------- | ----------- |
 | JBH1  | 43°31′ N   | 68°37′ W    |
@@ -30,7 +27,6 @@ Jeffreys Bank HMA
 (c) *Cashes Ledge Habitat Management Area.* The Cashes Ledge HMA is defined by straight lines connecting the following points in the order stated:
 
 Cashes Ledge HMA
-
 | Point | N latitude | W longitude |
 | ----- | ---------- | ----------- |
 | CLH1  | 43°01.0′ N | 69°00.0′ W  |
@@ -42,7 +38,6 @@ Cashes Ledge HMA
 (d) *Fippennies Ledge Habitat Management Area.* The Fippennies Ledge HMA is defined by straight lines connecting the following points in the order stated:
 
 Fippennies Ledge HMA
-
 | Point | N latitude | W longitude |
 | ----- | ---------- | ----------- |
 | FLH1  | 42°50.0′ N | 69°17.0′ W  |
@@ -54,7 +49,6 @@ Fippennies Ledge HMA
 (e) *Ammen Rock Habitat Management Area.* (1) The Ammen Rock HMA is defined by straight lines connecting the following points in the order stated:
 
 Ammen Rock HMA
-
 | Point | N latitude | W longitude |
 | ----- | ---------- | ----------- |
 | ARH1  | 42°55.5′ N | 68°57.0′ W  |
@@ -65,10 +59,9 @@ Ammen Rock HMA
 
 (2) No fishing vessel, including private and for-hire recreational fishing vessels, may fish in the Ammen Rock HMA, except for vessels fishing exclusively with lobster traps, as defined in § 697.2.
 
-(f) *Western Gulf of Maine Habitat Management Area.* (1) *Coordinates.* The Western GOM HMA is defined by the straight lines connecting the following points in the order stated:
+(f) *Western Gulf of Maine Habitat Management Area*—(1) *Coordinates.* The Western GOM HMA is defined by the straight lines connecting the following points in the order stated:
 
 Table 6 to Paragraph (f)(1)—Western Gulf of Maine HMA
-
 | Point | N latitude | W longitude |
 | ----- | ---------- | ----------- |
 | WGMH1 | 43°15′ N   | 70°15′ W    |
@@ -80,7 +73,6 @@ Table 6 to Paragraph (f)(1)—Western Gulf of Maine HMA
 (2) *Western Gulf of Maine Shrimp Exemption Area.* Vessels fishing with shrimp trawls under the Small Mesh Northern Shrimp Fishery Exemption specified at § 648.80(a)(5) may fish within the Western Gulf of Maine HMA Shrimp Exemption Area which is defined by the straight lines connecting the following points in the order stated:
 
 Western Gulf of Maine Shrimp Exemption Area
-
 | Point | N latitude | W longitude |
 | ----- | ---------- | ----------- |
 | SEA1  | 43°15′ N   | 70° W       |
@@ -96,27 +88,22 @@ Western Gulf of Maine Shrimp Exemption Area
 (g) *Closed Area II Habitat Closure Area.* The Closed Area II Habitat Closure Area is defined by the straight lines, except where otherwise noted, connecting the following points in the order stated:
 
 Closed Area II Habitat Closure Area
-
-| Point | N latitude | W longitude | Notes  |
-| ----- | ---------- | ----------- | ------ |
-| CIIH1 | 42°10′ N   | 67°20′ W    |        |
-| CIIH2 | 42°10′ N   | 67°9.38′ W  | ( 1 2) |
-| CIIH3 | 42°00′ N   | 67°0.63′ W  | ( 2 3) |
-| CIIH4 | 42°00′ N   | 67°10′ W    |        |
-| CIIH5 | 41°50′ N   | 67°10′ W    |        |
-| CIIH6 | 41°50′ N   | 67°20′ W    |        |
-| CIIH1 | 42°10′ N   | 67°20′ W    |        |
-
-1 Point CIIH2 represents the intersection of 42°10′ N lat. and the U.S.-Canada Maritime Boundary.
-
-2 From Point CIIH2 to Point CIIH3 along the U.S.-Canada Maritime Boundary.
-
-3 Point CIIH3 represents the intersection of 42°00′ N lat. and the U.S.-Canada maritime Boundary.
+| Point                                                                                             | N latitude | W longitude | Notes |
+| ------------------------------------------------------------------------------------------------- | ---------- | ----------- | ----- |
+| CIIH1                                                                                             | 42°10′ N   | 67°20′ W    |       |
+| CIIH2                                                                                             | 42°10′ N   | 67°9.38′ W  | (1 2) |
+| CIIH3                                                                                             | 42°00′ N   | 67°0.63′ W  | (2 3) |
+| CIIH4                                                                                             | 42°00′ N   | 67°10′ W    |       |
+| CIIH5                                                                                             | 41°50′ N   | 67°10′ W    |       |
+| CIIH6                                                                                             | 41°50′ N   | 67°20′ W    |       |
+| CIIH1                                                                                             | 42°10′ N   | 67°20′ W    |       |
+| 1 Point CIIH2 represents the intersection of 42°10′ N lat. and the U.S.-Canada Maritime Boundary. |            |             |       |
+| 2 From Point CIIH2 to Point CIIH3 along the U.S.-Canada Maritime Boundary.                        |            |             |       |
+| 3 Point CIIH3 represents the intersection of 42°00′ N lat. and the U.S.-Canada maritime Boundary. |            |             |       |
 
 (h) *Great South Channel Habitat Management Area.* (1) *Coordinates.* The Great South Channel HMA is defined by the straight lines connecting the following points in the order stated:
 
 Great South Channel HMA
-
 | Point | N latitude | W longitude |
 | ----- | ---------- | ----------- |
 | GSCH1 | 41°30.3′ N | 69°31.0′ W  |
@@ -143,7 +130,6 @@ Great South Channel HMA
 (ii) *McBlair Dredge Exemption Area.* (A) The McBlair Dredge Exemption Area is defined by the following points connected in the order listed by straight lines:
 
 McBlair Dredge Exemption Area
-
 | Point | Longitude    | Latitude     |
 | ----- | ------------ | ------------ |
 | 1     | 69°49.255′ W | 41°25.878′ N |
@@ -157,7 +143,6 @@ McBlair Dredge Exemption Area
 (iii) *Old South Dredge Exemption Area.* (A) The Old South Dredge Exemption Area is defined by the following points connected in the order listed by straight lines:
 
 Old South Dredge Exemption Area
-
 | Point | Longitude    | Latitude     |
 | ----- | ------------ | ------------ |
 | 1     | 69°47′ W     | 41°15′ N     |
@@ -176,7 +161,6 @@ Old South Dredge Exemption Area
 (iv) *Fishing Rip Dredge Exemption Area.* (A) The Fishing Rip Dredge Exemption Area is defined by the following points connected in the order listed by straight lines:
 
 Fishing Rip Dredge Exemption Area
-
 | Point | Longitude    | Latitude     |
 | ----- | ------------ | ------------ |
 | 1     | 69°28.829′ W | 41°10.963′ N |
