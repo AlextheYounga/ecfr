@@ -1,5 +1,7 @@
 ##### § 3550.103 Eligibility requirements.
 
+Link to an amendment published at 87 FR 6772, Feb. 7, 2022.
+
 To be eligible, applicants must meet the following requirements:
 
 (a) *Owner-occupant.* Applicants must own, as described in § 3550.107, and occupy the dwelling.
