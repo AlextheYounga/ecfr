@@ -2,7 +2,7 @@
 
 (a) Each training program must provide the following ground training as appropriate to the particular assignment of the crewmember or dispatcher:
 
-(1) Basic indoctrination ground training for newly hired crewmembers or dispatchers including 40 programmed hours of instruction, unless reduced under § 121.405 or as specified in § 121.401(d), in at least the following -
+(1) Basic indoctrination ground training for newly hired crewmembers or dispatchers including 40 programmed hours of instruction, unless reduced under § 121.405 or as specified in § 121.401(d), in at least the following—
 
 (i) Duties and responsibilities of crewmembers or dispatchers, as applicable;
 
@@ -34,7 +34,7 @@
 
 (g) Particular subjects, maneuvers, procedures, or parts thereof specified in §§ 121.419, 121.420, 121.421, 121.422, 121.424, 121.425, and 121.426 for transition, conversion or upgrade training, as applicable, may be omitted, or the programmed hours of ground instruction or inflight training may be reduced, as provided in § 121.405.
 
-(h) In addition to initial, transition, conversion, upgrade, recurrent and differences training, each training program must also provide ground and flight training, instruction, and practice as necessary to insure that each crewmember and aircraft dispatcher -
+(h) In addition to initial, transition, conversion, upgrade, recurrent and differences training, each training program must also provide ground and flight training, instruction, and practice as necessary to insure that each crewmember and aircraft dispatcher—
 
 (1) Remains adequately trained and currently proficient with respect to each airplane, crewmember position, and type of operation in which he serves; and
 
