@@ -4,16 +4,16 @@ The WTA covers certain allowances, reimbursements, and/or direct payments to ven
 
 (a) En route meals and incidental expenses - Reimbursements for meals and incidental expenses while en route are taxable and, therefore, are covered by the WTA.
 
-(b) One Househunting trip - Travel (including per diem and transportation) expenses for you (and your spouse) for one round trip to the new official station to seek permanent residence quarters. Househunting is covered regardless of whether it is reimbursed under the actual expense or lump sum method. (See Part 302-5 of this chapter.)
+(b) One Househunting trip - Travel (including per diem and transportation) expenses for you (and your spouse) for one round trip to the new official station to seek permanent residence quarters. Househunting is covered regardless of whether it is reimbursed under the actual expense or lump sum method. (See part 302-5 of this chapter.)
 
-(c) Temporary quarters - Subsistence expenses for you and your immediate family during occupancy of temporary quarters. Temporary quarters are covered regardless of whether it is reimbursed under the actual expense or lump sum method. (See Part 302-6 of this chapter.)
+(c) Temporary quarters - Subsistence expenses for you and your immediate family during occupancy of temporary quarters. Temporary quarters are covered regardless of whether it is reimbursed under the actual expense or lump sum method. (See part 302-6 of this chapter.)
 
-(d) Extended storage expenses - Extended storage for a temporary change of station in CONUS or assignment to an isolated duty station in CONUS, but only if these expenses are allowed by Part 302-8 of this chapter and your agency's policy.
+(d) Extended storage expenses - Extended storage for a temporary change of station in CONUS or assignment to an isolated duty station in CONUS, but only if these expenses are allowed by part 302-8 of this chapter and your agency's policy.
 
-(e) Real estate expenses - Expenses for the sale of the residence at your old official station and purchase of a home at your new official station. This can also include expenses for settling an unexpired lease (“breaking” a lease) at your old official station. (See Part 302-11 of this chapter. If you do not hold full title to the home you are selling or buying, see § 302-11.7 of this chapter.)
+(e) Real estate expenses - Expenses for the sale of the residence at your old official station and purchase of a home at your new official station. This can also include expenses for settling an unexpired lease (“breaking” a lease) at your old official station. (See part 302-11 of this chapter. If you do not hold full title to the home you are selling or buying, see § 302-11.7 of this chapter.)
 
 (f) Expenses paid by a relocation company to the extent such payments constitute taxable income to the employee. The extent to which such payments constitute taxable income varies according to the individual circumstances of your relocation, and by the state and locality in which you reside. (See IRS Publication 521, Moving Expenses, and appropriate state and local tax authorities for additional information.)
 
-(g) Property Management Services - Payment for the services of a property manager for renting rather than selling a residence at your old official station. (See Part 302-15 of this chapter.)
+(g) Property Management Services - Payment for the services of a property manager for renting rather than selling a residence at your old official station. (See part 302-15 of this chapter.)
 
-(h) Miscellaneous expense allowance - Miscellaneous expenses for defraying certain relocation expenses not covered by other relocation benefits. (See Part 302-16 of this chapter.)
+(h) Miscellaneous expense allowance - Miscellaneous expenses for defraying certain relocation expenses not covered by other relocation benefits. (See part 302-16 of this chapter.)

@@ -2,7 +2,7 @@
 
 Miscellaneous expenses are:
 
-(a) Costs associated with relocating that are not covered by other relocation benefits detailed in Chapter 302.
+(a) Costs associated with relocating that are not covered by other relocation benefits detailed in chapter 302.
 
 (b) Expenses allowable under this section include but are not limited to the following, and similar, items:
 

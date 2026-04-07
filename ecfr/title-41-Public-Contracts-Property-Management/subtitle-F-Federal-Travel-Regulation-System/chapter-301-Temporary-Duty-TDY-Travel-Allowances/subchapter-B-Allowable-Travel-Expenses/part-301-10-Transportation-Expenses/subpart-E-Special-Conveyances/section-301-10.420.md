@@ -1,5 +1,7 @@
 ##### § 301-10.420 When may I use a taxi, shuttle service or other courtesy transportation?
 
+Link to an amendment published at 82 FR 604, Jan. 5, 2018.
+
 (a) When authorized and approved by your agency, your transportation expenses in the performance of official travel are reimbursable for the usual fare plus tip for use of a taxi, shuttle service or other courtesy transportation (if charges result), in the following manner:
 
 (1) *At your official station.* (i) From your residence or other authorized point of departure, e.g., residence to airport;
