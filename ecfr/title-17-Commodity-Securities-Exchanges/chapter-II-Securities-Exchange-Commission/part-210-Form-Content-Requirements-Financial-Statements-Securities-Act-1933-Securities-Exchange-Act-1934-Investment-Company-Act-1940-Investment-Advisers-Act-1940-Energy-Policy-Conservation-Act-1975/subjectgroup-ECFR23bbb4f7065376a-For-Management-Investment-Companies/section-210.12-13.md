@@ -2,9 +2,9 @@
 
 \[For management investment companies only\]
 
-| Col. A            | Col. B         | Col. C                | Col. D          | Col. E         | Col. F          | Col. G      |
-| ----------------- | -------------- | --------------------- | --------------- | -------------- | --------------- | ----------- |
-| Description 1 2 3 | Counterparty 4 | Number of contracts 5 | Notional amount | Exercise price | Expiration date | Value.6 7 8 |
+| Col. A            | Col. B         | Col. C                | Col. D          | Col. E         | Col. F          | Col. G       |
+| ----------------- | -------------- | --------------------- | --------------- | -------------- | --------------- | ------------ |
+| Description 1 2 3 | Counterparty 4 | Number of contracts 5 | Notional amount | Exercise price | Expiration date | Value. 6 7 8 |
 
 1 Information as to put options shall be shown separately from information as to call options.
 

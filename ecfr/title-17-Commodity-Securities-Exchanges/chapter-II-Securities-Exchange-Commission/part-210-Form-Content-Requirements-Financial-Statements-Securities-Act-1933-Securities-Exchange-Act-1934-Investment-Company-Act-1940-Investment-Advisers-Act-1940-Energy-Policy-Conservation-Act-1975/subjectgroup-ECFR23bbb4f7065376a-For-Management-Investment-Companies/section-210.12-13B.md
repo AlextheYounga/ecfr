@@ -2,9 +2,9 @@
 
 \[For management investment companies only\]
 
-| Col. A                                               | Col. B                                          | Col. C       | Col. D          | Col. E                                        |
-| ---------------------------------------------------- | ----------------------------------------------- | ------------ | --------------- | --------------------------------------------- |
-| Amount and description of currency to be purchased 1 | Amount and description of currency to be sold 1 | Counterparty | Settlement date | Unrealized appreciation/   depreciation.2 3 4 |
+| Col. A                                               | Col. B                                          | Col. C       | Col. D          | Col. E                                         |
+| ---------------------------------------------------- | ----------------------------------------------- | ------------ | --------------- | ---------------------------------------------- |
+| Amount and description of currency to be purchased 1 | Amount and description of currency to be sold 1 | Counterparty | Settlement date | Unrealized appreciation/   depreciation. 2 3 4 |
 
 1 Forward foreign currency contracts where description of currency purchased, description of currency sold, counterparty, or settlement dates differ shall be listed separately.
 
