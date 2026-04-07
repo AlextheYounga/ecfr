@@ -1,4 +1,4 @@
-##### § 1207.23 Annual reports - format and contents.
+##### § 1223.23 Annual reports - format and contents.
 
 (a) *Format.* Each annual report shall consist of a detailed summary of the regulated entity's or the Office of Finance's activities during the reporting year to carry out the requirements of this part, which report may also be made a part of the regulated entity's or the Office of Finance's annual report to the Director. The report shall contain a table of contents and conclude with a certification by the regulated entity's or the Office of Finance's officer responsible for the annual report that the data and information presented in the report are accurate, and are approved for submission.
 

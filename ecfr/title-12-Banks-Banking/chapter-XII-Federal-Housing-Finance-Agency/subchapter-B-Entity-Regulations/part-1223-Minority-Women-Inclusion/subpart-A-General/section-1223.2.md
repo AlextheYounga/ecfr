@@ -1,4 +1,4 @@
-##### § 1207.2 Policy, purpose, and scope.
+##### § 1223.2 Policy, purpose, and scope.
 
 (a) *General policy.* FHFA's policy is to promote non-discrimination, diversity and, at a minimum, the inclusion of women, minorities, and individuals with disabilities in its own activities and in the business and activities of the regulated entities and the Office of Finance.
 

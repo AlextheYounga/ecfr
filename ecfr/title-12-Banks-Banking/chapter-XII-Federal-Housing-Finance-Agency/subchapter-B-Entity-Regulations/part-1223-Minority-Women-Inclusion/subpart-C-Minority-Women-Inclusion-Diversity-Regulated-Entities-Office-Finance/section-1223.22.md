@@ -1,4 +1,4 @@
-##### § 1207.22 Regulated entity and Office of Finance reports.
+##### § 1223.22 Regulated entity and Office of Finance reports.
 
 (a) *General.* Each regulated entity and the Office of Finance, through its Office of Minority and Women Inclusion, or other office designated to perform the responsibilities of this part, shall report in writing, in such format as the Director may require, to the Director describing its efforts to promote diversity and ensure the inclusion and utilization of minorities, women, individuals with disabilities, and minority-, women-, and disabled-owned businesses at all levels, in management and employment, in all business and activities, and in all contracts for services and the results of such efforts.
 

@@ -1,4 +1,4 @@
-##### § 1207.3 Limitations.
+##### § 1223.3 Limitations.
 
 (a) Except as expressly provided herein for enforcement by FHFA, the regulations in this part do not, are not intended to, and should not be construed to create any right or benefit, substantive or procedural, enforceable at law, in equity, or through administrative proceeding, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, a regulated entity or the Office of Finance, their officers, employees or agents, or any other person.
 
