@@ -8,7 +8,7 @@
 
 (b) *Application for grant.* A State requesting a grant will submit the following to the Administrator:
 
-(1) Application for Federal Assistance, Standard Form 424 (available at, *http://www.whitehouse.gov/omb/grants/*);
+(1) Application for Federal Assistance, Standard Form 424 (available at *http://www.whitehouse.gov/omb/grants/*);
 
 (2) A budget with supporting details providing estimates of the cost of operation and administration of the Certified Mediation Program. Proposed direct expenditures will be grouped in the categories of allowable direct costs under the Certified Mediation Program as specified in paragraph (c)(1) of this section;
 

@@ -18,13 +18,13 @@
 
 (iii) Any combination of a direct Operating loan and guaranteed Operating loan—$1,750,000 (for fiscal year 2019 and increased each fiscal year in accordance with paragraph (b) of this section);
 
-(3) Any combination of guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, and guaranteed Operating loan-$1,750,000 (for fiscal year 2019 and increased each fiscal year in accordance with paragraph (b) of this section);
+(3) Any combination of guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, and guaranteed Operating loan—$1,750,000 (for fiscal year 2019 and increased each fiscal year in accordance with paragraph (b) of this section);
 
 (4) Any combination of direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, direct Operating loan, guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, and guaranteed Operating loan-the amount in paragraph (a)(1)(ii) of this section plus $600,000;
 
 (5) Emergency loans—$500,000;
 
-(6) Any combination of direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, direct Operating loan, guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, guaranteed Operating loan, and Emergency loan-the amount in paragraph (a)(1)(ii) of this section plus$1,100,000.
+(6) Any combination of direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, direct Operating loan, guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, guaranteed Operating loan, and Emergency loan-the amount in paragraph (a)(1)(ii) of this section plus $1,100,000.
 
 (b) *Guaranteed loan limit.* The dollar limits of guaranteed loans will be increased each fiscal year based on the percentage change in the Prices Paid by Farmers Index as compiled by the National Agricultural Statistics Service, USDA. The maximum loan limits for the current fiscal year are available in any FSA office and on the FSA website at *http://www.fsa.usda.gov.*
 
