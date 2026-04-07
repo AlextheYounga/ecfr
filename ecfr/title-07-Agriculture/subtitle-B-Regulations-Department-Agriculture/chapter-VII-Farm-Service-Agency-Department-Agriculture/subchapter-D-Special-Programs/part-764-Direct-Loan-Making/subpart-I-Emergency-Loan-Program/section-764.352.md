@@ -38,7 +38,7 @@ The applicant:
 
 (g) Must submit an application to be received by the Agency no later than 8 months after the date the disaster is declared or designated in the county of the applicant's operation.
 
-(h) For production loss loans, must have a disaster yield that is at least 30 percent below the normal production yield of the crop, as determined by the Agency, which comprises a basic part of an applicant's total farming operation.
+(h) For production loss loans, must have a disaster yield that is below the normal production yield of the crop, as determined by the Agency, which comprises a basic part of an applicant's total farming operation.
 
 (i) For physical loss loans, must have suffered disaster-related damage to chattel or real estate essential to the farming operation, or to household contents that must be repaired or replaced, to harvested or stored crops, or to perennial crops.
 
